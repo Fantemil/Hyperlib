@@ -7,6 +7,11 @@ generalscriptssection:NewButton("Infinite Yield", "Made by EdgeIY and more", fun
     loadstring(game:HttpGet("https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source"))()
 end)
 
+local gamehubs = Window:NewTab("Game Hubs")
+local gamehubsection = gamehubs:NewSection("---Game Hubs---")
+gamehubsection:NewButton("Owl Hub", "Made by Google Chrome and CriShoux", function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/CriShoux/OwlHub/master/OwlHub.txt"))();
+end)
 
 
 if game.PlaceId == 192800 then
