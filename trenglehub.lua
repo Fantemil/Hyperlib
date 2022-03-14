@@ -1,6 +1,17 @@
 local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Library/kavo-ui.lua"))()
 local Window = Library.CreateLib("Trenglehub", "Sentinel")
 
+local Player = Window:NewTab("Player")
+local PlayerSection = Player:NewSection("Player")
+
+PlayerSection:NewSlider("Walkspeed", "Changes the walkspeed", 250, 16, function(v)
+    game.Players.LocalPlayer.Character.Humanoid.WalkSpeed = v
+end)
+
+PlayerSection:NewSlider("Jumppower", "Changes the jumppower", 250, 50, function(v)
+    game.Players.LocalPlayer.Character.Humanoid.JumpPower = v
+end)
+
 local generalscripts = Window:NewTab("General Scripts")
 local generalscriptssection = generalscripts:NewSection("---General Scripts---")
 generalscriptssection:NewButton("Infinite Yield", "Made by EdgeIY and more", function()
