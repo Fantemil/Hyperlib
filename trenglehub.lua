@@ -125,3 +125,43 @@ if game.PlaceId == 2753915549 then
         loadstring(game:HttpGet("https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/BloxFruits/EVO%20X%20Hub.lua"))()
         end)
 end
+
+
+if game.PlaceId == 6284583030 then
+
+    local main = Window:NewTab("Pet simulator X")
+    local script = main:NewSection("---Scripts---")
+
+    script:NewButton("BK pet", "", function()
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Pet%20Simulator%20X/BK%20pet.lua"))()
+        end)
+
+    script:NewButton("Black Trap", "", function()
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Pet%20Simulator%20X/Black%20Trap.lua"))()
+        end)
+    
+    script:NewButton("Dino Hub", "", function()
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Pet%20Simulator%20X/Dino%20Hub.lua"))()
+        end)
+
+    script:NewButton("HOHO Hub.lua", "", function()
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Pet%20Simulator%20X/HOHO%20Hub.lua"))()
+        end)
+
+    script:NewButton("Project Meow", "", function()
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Pet%20Simulator%20X/Project%20Meow%20loader.lua"))()
+        end)
+
+    script:NewButton("Saza Hub", "", function()
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Pet%20Simulator%20X/Saza%20Hub.lua"))()
+        end)
+
+    script:NewButton("Shiny Tool", "", function()
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Pet%20Simulator%20X/Shiny%20Tool.lua"))()
+        end)
+        
+    script:NewButton("Wisteria GUI", "", function()
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Pet%20Simulator%20X/Wisteria%20GUI.lua"))()
+        end)
+end
+
