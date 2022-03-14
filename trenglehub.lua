@@ -144,7 +144,7 @@ if game.PlaceId == 6284583030 then
         loadstring(game:HttpGet("https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Pet%20Simulator%20X/Dino%20Hub.lua"))()
         end)
 
-    script:NewButton("HOHO Hub.lua", "", function()
+    script:NewButton("HOHO Hub", "", function()
         loadstring(game:HttpGet("https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Pet%20Simulator%20X/HOHO%20Hub.lua"))()
         end)
 
@@ -159,7 +159,7 @@ if game.PlaceId == 6284583030 then
     script:NewButton("Shiny Tool", "", function()
         loadstring(game:HttpGet("https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Pet%20Simulator%20X/Shiny%20Tool.lua"))()
         end)
-        
+
     script:NewButton("Wisteria GUI", "", function()
         loadstring(game:HttpGet("https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Pet%20Simulator%20X/Wisteria%20GUI.lua"))()
         end)
