@@ -116,3 +116,4 @@ if game.PlaceId == 2753915549 then
     script:NewButton("Smz Hub", " ", function()
         loadstring(game:HttpGet("https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/BloxFruits/Smz%20Hub.lua"))()
         end)
+end
