@@ -24,6 +24,11 @@ gamehubsection:NewButton("Owl Hub", "Made by Google Chrome and CriShoux", functi
     loadstring(game:HttpGet("https://raw.githubusercontent.com/CriShoux/OwlHub/master/OwlHub.txt"))();
 end)
 
+gamehubsection:NewButton("Zephyr X", "Made by ZEPHYR", function()
+    pcall(function()
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/ECLIPSEXHUB/ECLIPSE-X/main/ECLIPSE%20X.txt", true))()
+        end)
+end)
 
 if game.PlaceId == 192800 then
     local main = Window:NewTab("Work at a Pizza Place")
