@@ -92,6 +92,27 @@ if game.PlaceId == 1224212277 then
         end)
 end
 
+if game.PlaceId == 2753915549 then
 
+    local main = Window:NewTab("Blox Fruits")
+    local script = main:NewSection("---Scripts---")
 
-
+    script:NewButton("Astro Hub", " ", function()
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/BloxFruits/Astro%20Hub.lua"))()
+        end)
+    script:NewButton("Fusion Hub", " ", function()
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/BloxFruits/Fusion%20Hub.lua"))()
+        end)
+    
+    script:NewButton("Maru Hub", " ", function()
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/BloxFruits/Maru%20Hub.lua"))()
+        end)
+    script:NewButton("Netna Hub", " ", function()
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/BloxFruits/Netna%20Hub.lua"))()
+        end)
+    script:NewButton("Power X", " ", function()
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/BloxFruits/Power%20X.lua"))()
+        end)
+    script:NewButton("Smz Hub", " ", function()
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/BloxFruits/Smz%20Hub.lua"))()
+        end)
