@@ -22,7 +22,23 @@ if game.PlaceId == 192800 then
     end)
 end
 
+if game.PlaceId == 2788229376 then
+    local main = Window:NewTab("Da Hood")
+    local script = main:NewSection("---Scripts---")
 
+    script:NewButton("TrustBoy GUI", "Made by GS21", function()
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Da%20Hood/TrustBoy.lua"))()
+        end)
+end
+
+if game.PlaceId == 537413528 then
+    local main = Window:NewTab("Build A Boat For Treasure")
+    local script = main:NewSection("---Scripts---")
+
+    script:NewButton("Krypton Alpha", "Distributed by Defaultpfpuser#4282", function()
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Build%20A%20Boat%20For%20Treasure/Krypton.lua"))()
+        end)
+end
 
 
 
