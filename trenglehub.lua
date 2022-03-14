@@ -58,6 +58,11 @@ if game.PlaceId == 537413528 then
     script:NewButton("Vynixius BABFT", "Made by Vynixu", function()
         loadstring(game:HttpGet("https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Build%20A%20Boat%20For%20Treasure/Vynixius%20BABFT.lua"))()
         end)
+    
+        
+    script:NewButton("BABFT GUI", "Made by Unknown", function()
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Build%20A%20Boat%20For%20Treasure/(Open%20Source)%20BABFT%20GUI.lua"))()
+        end)
 end
 
 
