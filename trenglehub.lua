@@ -67,6 +67,9 @@ end
 
 if game.PlaceId == 1224212277 then
 
+    local main = Window:NewTab("Madcity")
+    local script = main:NewSection("---Scripts---")
+
     script:NewButton("TurkOyuncu99 Gui", "Made by TurkOyuncu99", function()
         loadstring(game:HttpGet("https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Mad%20City/(Open%20Source)%20TurkOyuncu99.lua"))()
         end)
