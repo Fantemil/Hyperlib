@@ -65,6 +65,25 @@ if game.PlaceId == 537413528 then
         end)
 end
 
+if game.PlaceId == 1224212277 then
+
+    script:NewButton("TurkOyuncu99 Gui", "Made by TurkOyuncu99", function()
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Mad%20City/(Open%20Source)%20TurkOyuncu99.lua"))()
+        end)
+
+    script:NewButton("BLACKGAMER1221 Gui", "Made by BLACKGAMER1221", function()
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Mad%20City/BLACKGAMER1221.lua"))()
+        end)
+
+    script:NewButton("Mad-lads V7", "Made by ???", function()
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Mad%20City/Mad-lads%20V7.lua"))()
+        end)
+
+    script:NewButton("XP Farm Script", "Made by Unknown", function()
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Mad%20City/Infinite%20XP.lua"))()
+        end)
+end
+
 
 
 
