@@ -32,7 +32,7 @@ if game.PlaceId == 2788229376 then
 end
 
 if game.PlaceId == 537413528 then
-    local main = Window:NewTab("Build A Boat For Treasure")
+    local main = Window:NewTab("Build A Boat")
     local script = main:NewSection("---Scripts---")
 
     script:NewButton("Krypton Alpha", "Distributed by Defaultpfpuser#4282", function()
