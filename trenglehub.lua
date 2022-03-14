@@ -54,6 +54,10 @@ if game.PlaceId == 537413528 then
     script:NewButton("Krypton Alpha", "Distributed by Defaultpfpuser#4282", function()
         loadstring(game:HttpGet("https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Build%20A%20Boat%20For%20Treasure/Krypton.lua"))()
         end)
+
+    script:NewButton("Vynixius BABFT", "Made by Vynixius", function()
+        loadstring(game:HttpGet(" "))()
+        end)
 end
 
 
