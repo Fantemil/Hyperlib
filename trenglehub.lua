@@ -55,7 +55,7 @@ if game.PlaceId == 537413528 then
         loadstring(game:HttpGet("https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Build%20A%20Boat%20For%20Treasure/Krypton.lua"))()
         end)
 
-    script:NewButton("Vynixius BABFT", "Made by Vynixius", function()
+    script:NewButton("Vynixius BABFT", "Made by Vynixu", function()
         loadstring(game:HttpGet("https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Build%20A%20Boat%20For%20Treasure/Vynixius%20BABFT.lua"))()
         end)
 end
