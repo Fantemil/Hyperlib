@@ -163,5 +163,9 @@ if game.PlaceId == 6284583030 then
     script:NewButton("Wisteria GUI", "", function()
         loadstring(game:HttpGet("https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Pet%20Simulator%20X/Wisteria%20GUI.lua"))()
         end)
+
+    script:NewButton("EzPets", "", function()
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Pet%20Simulator%20X/Ez%20Pet.lua"))()
+        end)
 end
 
