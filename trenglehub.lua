@@ -167,5 +167,9 @@ if game.PlaceId == 6284583030 then
     script:NewButton("(KEY) EzPets", "", function()
         loadstring(game:HttpGet("https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Pet%20Simulator%20X/Ez%20Pet.lua"))()
         end)
+
+    script:NewButton("Floppa Hub", "", function()
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Pet%20Simulator%20X/Floppa%20Hub.lua"))()
+        end)
 end
 
