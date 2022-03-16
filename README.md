@@ -13,8 +13,8 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/Fantemil/Trenglehub/m
 
 Sometimes i just dont add scripts when they are requiring you to do some extra steps.
 
-# How to help
+# HELP US!
 
-We are of course accepting Help! If you want to contribute feel free to make a pull request. You can also Distribute Scripts on our discord https://discord.gg/mmcaPrKDUp
+We are needing alot of Help to find new Scripts! If you want to contribute then please send in scripts on our discord or make a pull request!!! https://discord.gg/mmcaPrKDUp
 
  
