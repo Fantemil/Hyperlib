@@ -30,7 +30,22 @@ gamehubsection:NewButton("Zephyr X", "Made by ZEPHYR", function()
         end)
 end)
 
-if game.PlaceId == 192800 then
+gamehubsection:NewButton("V.G-Hub", "Made by 1201for", function()
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/1201for/V.G-Hub/main/V.Ghub"))()
+end)
+
+gamehubsection:NewButton("Nex Hub", "", function()
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/CopyReal/NexHub/main/NexHubLoader"))()
+end)
+
+gamehubsection:NewButton("Uzu Hub", "", function()
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/uzu01/lua/main/loader.lua"))()
+end)
+
+
+--Work at a Pizza Place
+
+if game.PlaceId == 192800 then 
     local main = Window:NewTab("Work at a Pizza Place")
     local script = main:NewSection("---Scripts---")
     
@@ -43,6 +58,8 @@ if game.PlaceId == 192800 then
     end)
 end
 
+-- Da Hood
+
 if game.PlaceId == 2788229376 then
     local main = Window:NewTab("Da Hood")
     local script = main:NewSection("---Scripts---")
@@ -51,6 +68,8 @@ if game.PlaceId == 2788229376 then
         loadstring(game:HttpGet("https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Da%20Hood/TrustBoy.lua"))()
         end)
 end
+
+-- Build a Boat
 
 if game.PlaceId == 537413528 then
     local main = Window:NewTab("Build A Boat")
@@ -69,6 +88,8 @@ if game.PlaceId == 537413528 then
         loadstring(game:HttpGet("https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Build%20A%20Boat%20For%20Treasure/(Open%20Source)%20BABFT%20GUI.lua"))()
         end)
 end
+
+-- Madcity
 
 if game.PlaceId == 1224212277 then
 
@@ -91,6 +112,8 @@ if game.PlaceId == 1224212277 then
         loadstring(game:HttpGet("https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Mad%20City/Infinite%20XP.lua"))()
         end)
 end
+
+--Bloxfruits
 
 if game.PlaceId == 2753915549 then
 
@@ -126,6 +149,7 @@ if game.PlaceId == 2753915549 then
         end)
 end
 
+-- Pet sim X
 
 if game.PlaceId == 6284583030 then
 
@@ -170,6 +194,264 @@ if game.PlaceId == 6284583030 then
 
     script:NewButton("Floppa Hub", "", function()
         loadstring(game:HttpGet("https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Pet%20Simulator%20X/Floppa%20Hub.lua"))()
+        end)
+end
+
+-- Anime Fighters
+
+if game.PlaceId == 6299805723 then
+    local main = Window:NewTab("Anime Fighters")
+    local script = main:NewSection("---Scripts---")
+
+    script:NewButton("KJHub", "", function()
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Anime%20Fighters/KJHub.lua"))()
+        end)
+end
+
+--Anime Punching Simulator
+
+if game.PlaceId == 8357510970 then
+    local main = Window:NewTab("Anime Punching Simulator")
+    local script = main:NewSection("---Scripts---")
+
+    script:NewButton("insanedude59", "", function()
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Anime%20Punching%20Simulator/(Open%20Source)%20insanedude59.lua"))()
+        end)
+
+    script:NewButton("Uzu Hub", "", function()
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Anime%20Punching%20Simulator/Uzu%20Hub.lua"))()
+        end)
+end
+
+--Bedwars
+
+if game.PlaceId == 6872265039 then
+    local main = Window:NewTab("Bedwars")
+    local script = main:NewSection("---Scripts---")
+
+    script:NewButton("Vape V4", "", function()
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Bedwars/(Open%20Source)%20Vape%20V4.lua"))()
+        end)
+end
+
+--Bee Swarm Simulator
+
+if game.PlaceId == 1537690962 then
+    local main = Window:NewTab("Bee Swarm Simulator")
+    local script = main:NewSection("---Scripts---")
+
+    script:NewButton("Get all Promocodes", "", function()
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Bee%20Swarm%20Simulator/Get%20all%20Codes.lua"))()
+        end)
+end
+
+--Big Paintball
+
+if game.PlaceId == 3527629287 then
+    local main = Window:NewTab("Big Paintball")
+    local script = main:NewSection("---Scripts---")
+
+    script:NewButton("Kill all", "", function()
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Big%20Paintball/(Open%20Source)%20Kill%20all.lua"))()
+        end)
+end
+
+--Brookhaven
+
+if game.PlaceId == 4924922222 then
+    local main = Window:NewTab("Brookhaven")
+    local script = main:NewSection("---Scripts---")
+
+    script:NewButton("NocturneMoDz GUI", "", function()
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Brookhaven/NocturneMoDz%20GUI.lua"))()
+        end)
+end
+
+--DBZ Final-stand
+
+if game.PlaceId == 536102540 then
+    local main = Window:NewTab("DBZ Final-stand")
+    local script = main:NewSection("---Scripts---")
+
+    script:NewButton("Auto Farm GUI", "", function()
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/DBZ%20Final-stand/Autofarm%20gui.lua"))()
+        end)
+end
+
+--Demonfall
+
+if game.PlaceId == 4855457388 then
+    local main = Window:NewTab("Demonfall")
+    local script = main:NewSection("---Scripts---")
+
+    script:NewButton("Furiousfall", "", function()
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Demonfall/Furiousfall.lua"))()
+        end)
+end
+
+--Dungeon Quest
+
+if game.PlaceId == 2414851778 then
+    local main = Window:NewTab("Dungeon Quest")
+    local script = main:NewSection("---Scripts---")
+
+    script:NewButton("DR 2.0", "", function()
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Dungeon%20Quest/DR%202.0.lua"))()
+        end)
+end
+
+--Dunking Simulator
+
+if game.PlaceId == 7655745946 then
+    local main = Window:NewTab("Dunking Simulator")
+    local script = main:NewSection("---Scripts---")
+
+    script:NewButton("Dunking Sim GUI", "", function()
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Dunking%20Simulator/Dunking%20Simulator%20GUI.lua"))()
+        end)
+end
+
+--Eternal Nightmare
+
+if game.PlaceId == 4276247088 then
+    local main = Window:NewTab("Eternal Nightmare")
+    local script = main:NewSection("---Scripts---")
+
+    script:NewButton("10x00", "", function()
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Eternal%20Nightmare/(Open%20Source)%2010x00.lua"))()
+        end)
+
+    script:NewButton("Eternal Z", "", function()
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Eternal%20Nightmare/Eternal%20Z.lua"))()
+        end)
+
+    script:NewButton("Tobias020108Back", "", function()
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Eternal%20Nightmare/Tobias020108Back.lua"))()
+        end)
+end
+
+--funky-friday
+
+if game.PlaceId == 6447798030 then
+    local main = Window:NewTab("funky-friday")
+    local script = main:NewSection("---Scripts---")
+
+    script:NewButton("wally-rblx local loader", "", function()
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/funky-friday/(Open%20Source)%20wally-rblx%20autoplay.lua"))()
+        end)
+
+    script:NewButton("wally-rblx github loader (ORIGINAL SOURCE)", "", function()
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/funky-friday/wally-rblx%20autoplay%20loader.lua"))()
+        end)
+end
+
+--Hide and seek extreme
+
+if game.PlaceId == 205224386 then
+    local main = Window:NewTab("Hide and seek extreme")
+    local script = main:NewSection("---Scripts---")
+
+    script:NewButton("Bebo GUI", "", function()
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Hide%20and%20seek%20extreme/Bebo%20GUI.lua"))()
+        end)
+end
+
+--Islands
+
+if game.PlaceId == 4872321990 then
+    local main = Window:NewTab("Islands")
+    local script = main:NewSection("---Scripts---")
+
+    script:NewButton("Void Hub", "", function()
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Islands/Void%20Hub.lua"))()
+        end)
+end
+
+--Jailbreak
+
+if game.PlaceId == 606849621 then
+    local main = Window:NewTab("Jailbreak")
+    local script = main:NewSection("---Scripts---")
+
+    script:NewButton("Evo V2", "", function()
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Jailbreak/Evo%20V2.lua"))()
+        end)
+end
+
+--Last Pirates
+
+if game.PlaceId == 6329844902 then
+    local main = Window:NewTab("Last Pirates")
+    local script = main:NewSection("---Scripts---")
+
+    script:NewButton("x2SPETER", "", function()
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Last%20Pirates/x2SPETER.lua"))()
+        end)
+end
+
+--Prison Life
+
+if game.PlaceId == 155615604 then
+    local main = Window:NewTab("Prison Life")
+    local script = main:NewSection("---Scripts---")
+
+    script:NewButton("SenpaiIsBest", "", function()
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Prison%20Life/SenpaiIsBest.lua"))()
+        end)
+end
+
+--Reaper 2
+
+if game.PlaceId == 7056922815 then
+    local main = Window:NewTab("Reaper 2")
+    local script = main:NewSection("---Scripts---")
+
+    script:NewButton("XTheMasterX", "", function()
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Reaper%202/XTheMasterX.lua"))()
+        end)
+end
+
+--Sword Factory
+
+if game.PlaceId == 8917641854 then
+    local main = Window:NewTab("Sword Factory")
+    local script = main:NewSection("---Scripts---")
+
+    script:NewButton("Autoclicker", "", function()
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Sword%20Factory/Autoclicker.lua"))()
+        end)
+end
+
+--The Wild West
+
+if game.PlaceId == 2317712696 then
+    local main = Window:NewTab("The Wild West")
+    local script = main:NewSection("---Scripts---")
+
+    script:NewButton("V.G Hub", "", function()
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/The%20Wild%20West/V.G%20Hub.lua"))()
+        end)
+end
+
+--Twopiece
+
+if game.PlaceId == 5303541547 then
+    local main = Window:NewTab("Twopiece")
+    local script = main:NewSection("---Scripts---")
+
+    script:NewButton("Joshy#1060", "", function()
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/twopiece/(Open%20Source)%20Joshy%231060.lua"))()
+        end)
+end
+
+--Your Bizzare Adventure
+
+if game.PlaceId == 2809202155 then
+    local main = Window:NewTab("Your Bizzare Adventure")
+    local script = main:NewSection("---Scripts---")
+
+    script:NewButton("YBAHopper", "", function()
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Your%20Bizzare%20Adventure/YBAHopper.lua"))()
         end)
 end
 
