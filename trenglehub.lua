@@ -1,5 +1,10 @@
+function sleep(n)
+    os.execute("sleep " .. tonumber(n))
+  end
+
+
 local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Library/kavo-ui.lua"))()
-local Window = Library.CreateLib("Trenglehub", "Sentinel")
+local Window = Library.CreateLib("Trenglehub", "BloodTheme")
 
 local Player = Window:NewTab("Player")
 local PlayerSection = Player:NewSection("Player")
@@ -454,4 +459,14 @@ if game.PlaceId == 2809202155 then
         loadstring(game:HttpGet("https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Your%20Bizzare%20Adventure/YBAHopper.lua"))()
         end)
 end
+
+--Adopt Me!
+
+if game.PlaceId == 920587237 then
+
+
+    
+end
+
+
 
