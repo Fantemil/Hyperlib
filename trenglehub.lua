@@ -460,13 +460,17 @@ if game.PlaceId == 2809202155 then
         end)
 end
 
---Adopt Me!
+--Meep City
 
-if game.PlaceId == 920587237 then
+if game.PlaceId == 370731277 then
+    local main = Window:NewTab("Meep City")
+    local script = main:NewSection("---Scripts---")
 
-
-    
+    script:NewButton("Synolope", "", function()
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Meep%20City/Synolope%20GUI/Loader.lua"))()
+        end)
 end
+
 
 
 
