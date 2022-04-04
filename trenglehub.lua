@@ -72,6 +72,10 @@ if game.PlaceId == 2788229376 then
     script:NewButton("TrustBoy GUI", "Made by GS21", function()
         loadstring(game:HttpGet("https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Da%20Hood/TrustBoy.lua"))()
         end)
+
+    script:NewButton("Lates GUI", "", function()
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Da%20Hood/Lates%20GUI.lua"))()
+        end)
 end
 
 -- Build a Boat
@@ -151,6 +155,10 @@ if game.PlaceId == 2753915549 then
 
     script:NewButton("Evo X Hub", "", function()
         loadstring(game:HttpGet("https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/BloxFruits/EVO%20X%20Hub.lua"))()
+        end)
+
+    script:NewButton("Ripper Hub", "", function()
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/BloxFruits/Ripper%20Hub.lua"))()
         end)
 end
 
@@ -470,6 +478,8 @@ if game.PlaceId == 370731277 then
         loadstring(game:HttpGet("https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Meep%20City/Synolope%20GUI/Loader.lua"))()
         end)
 end
+
+
 
 
 
