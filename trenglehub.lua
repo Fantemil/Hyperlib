@@ -648,3 +648,6 @@ addscript(8884433153, "CollectAllPetsAutoFarmAutoCollectAutoClaimRewards", "astr
         
 addscript(9992339729, "LongestAnswerWinsUnlimitedBlocks", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LongestAnswerWinsUnlimitedBlocks.lua")
                         
+        
+addscript(10320240572, "EasyRaceClickerFastAutoWinAutoRebirthAutoSpeed", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/EasyRaceClickerFastAutoWinAutoRebirthAutoSpeed.lua")
+                        
