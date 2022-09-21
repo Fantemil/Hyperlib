@@ -625,3 +625,6 @@ addscript(10753832846, "AxeGuiFactoryDamageLoop", "astrofile", "https://raw.gith
                         
                         
 addscriptexist(2788229376, "DaHoodSmoothAimLock", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DaHoodSmoothAimLock.lua")
+        
+addscript(106311815871112, "StoneMinerSimulator2AutoRebirth", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/StoneMinerSimulator2AutoRebirth.lua")
+                        
