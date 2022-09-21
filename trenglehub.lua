@@ -665,3 +665,6 @@ addscriptexist(2753915549, "BloxFruitsChestFarmTeleportsVisuals", "astrofile", "
         
 addscript(8540168650, "StandUprightRebootedStandFarmItemFarmQuestFarming", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/StandUprightRebootedStandFarmItemFarmQuestFarming.lua")
                         
+        
+addscript(1428232912, "MurderMystery2XRayChamsEspAutoFarms", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MurderMystery2XRayChamsEspAutoFarms.lua")
+                        
