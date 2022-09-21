@@ -19,7 +19,7 @@ function addscriptexist(Place,title,author,scriptlink)
 end
 
 local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Library/kavo-ui.lua"))()
-local Window = Library.CreateLib("Trenglehub", "LightTheme")
+local Window = Library.CreateLib("Trenglehub", "BloodTheme")
 
 local Player = Window:NewTab("Player")
 local PlayerSection = Player:NewSection("Player")
