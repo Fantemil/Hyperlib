@@ -719,3 +719,6 @@ addscript(9030362964, "FieldGoalSimulatorAutoFarmGoals", "astrofile", "https://r
         
 addscript(10484095306100000, "CLIMB100000STAIRSTOVIPTeleportToEnd", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CLIMB100000STAIRSTOVIPTeleportToEnd.lua")
                         
+        
+addscript(277751860, "EpicMinigamesWalkspeedInfinityJumpClickTP", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/EpicMinigamesWalkspeedInfinityJumpClickTP.lua")
+                        
