@@ -637,3 +637,6 @@ addscript(50630210801, "MyModdedDayWalkspeedGraballItemsTeleports", "astrofile",
         
 addscript(10652184030, "JumpClickerInfiniteStatsAutoFarm", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/JumpClickerInfiniteStatsAutoFarm.lua")
                         
+        
+addscript(1833648454, "SpeedRun4AutoFarmGems", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SpeedRun4AutoFarmGems.lua")
+                        
