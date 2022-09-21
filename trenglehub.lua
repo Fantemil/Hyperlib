@@ -526,3 +526,5 @@ addscript("https://www.roblox.com/games/6461766546/COSMIC-5X-STATS-A-Heros-Desti
 
 addscript("https://www.roblox.com/games/183364845/Speed-Run-4", "SpeedRun4AutoFarmCompleteDimensionnMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SpeedRun4AutoFarmCompleteDimensionnMore.lua")
                 
+                
+addscriptexist("BloxFruitsGUIAutoFarmAutoLevelMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BloxFruitsGUIAutoFarmAutoLevelMore.lua")
