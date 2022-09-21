@@ -1,7 +1,7 @@
 
 function addscript(Place,Gamename,title,author,scriptlink)
     if game.PlaceId == Place then
-        local main = Window:NewTab(Gamename)
+        _G.main = Window:NewTab(Gamename)
         _G.script = main:NewSection("---Scripts---")
         _G.script:NewButton(title, author, function()
             loadstring(game:HttpGet(scriptlink))()
