@@ -520,3 +520,6 @@ addscript("https://www.roblox.com/games/21532277/Notoriety", "NotorietyWalkspeed
 
 addscript("https://www.roblox.com/games/9072679513/UPDATE-6-Anime-Impact-Simulator#ropro-quick-play", "AnimeImpactSimulatorAutoTrainAutoRankAutoEnergy", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AnimeImpactSimulatorAutoTrainAutoRankAutoEnergy.lua")
                 
+
+addscript("https://www.roblox.com/games/6461766546/COSMIC-5X-STATS-A-Heros-Destiny#ropro-quick-play", "AHerosDestinyAutoFarmAutoTrainAutoPunch", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AHerosDestinyAutoFarmAutoTrainAutoPunch.lua")
+                
