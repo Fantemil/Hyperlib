@@ -557,3 +557,6 @@ addscript(3177438863, "DragonBloxGUI", "Terni", "https://raw.githubusercontent.c
         
 addscript(7502726087, "BeaHeroAutoFarm", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BeaHeroAutoFarm.lua")
                         
+        
+addscript(2248408710, "DestructionSimulatorGUIModBombModGunMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DestructionSimulatorGUIModBombModGunMore.lua")
+                        
