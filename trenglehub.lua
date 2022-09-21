@@ -628,3 +628,6 @@ addscriptexist(2788229376, "DaHoodSmoothAimLock", "astrofile", "https://raw.gith
         
 addscript(106311815871112, "StoneMinerSimulator2AutoRebirth", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/StoneMinerSimulator2AutoRebirth.lua")
                         
+        
+addscript(98298692105, "KarateKickSimulatorKillAll", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/KarateKickSimulatorKillAll.lua")
+                        
