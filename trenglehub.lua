@@ -617,3 +617,6 @@ addscript(2551991523, "BrokenBones4AutoBreakBones", "astrofile", "https://raw.gi
         
 addscript(648362523, "BreakingPointAutoWin", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BreakingPointAutoWin.lua")
                         
+        
+addscript(102131021, "FloodSurvivalWavesChooseMapsInfinityJumpTeleports", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FloodSurvivalWavesChooseMapsInfinityJumpTeleports.lua")
+                        
