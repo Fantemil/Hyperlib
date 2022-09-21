@@ -570,3 +570,6 @@ addscriptexist(9872472334, "EvadeTpTomapTPTosafezoneAutoJump", "astrofile", "htt
         
 addscript(5780309044, "standsawakeningInstantlyChangeStandWalkspeedNoclip", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/standsawakeningInstantlyChangeStandWalkspeedNoclip.lua")
                         
+        
+addscript(3956818381, "NinjaLegendsDupePets", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NinjaLegendsDupePets.lua")
+                        
