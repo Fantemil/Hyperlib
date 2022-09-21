@@ -528,3 +528,5 @@ addscript("https://www.roblox.com/games/183364845/Speed-Run-4", "SpeedRun4AutoFa
                 
                 
 addscriptexist("BloxFruitsGUIAutoFarmAutoLevelMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BloxFruitsGUIAutoFarmAutoLevelMore.lua")
+                
+addscriptexist("DaHoodFlyPickupKnifeAutoBuy", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DaHoodFlyPickupKnifeAutoBuy.lua")
