@@ -539,3 +539,6 @@ addscript(9993529229, "CounterBloxRemasteredSilentAimEspAimbot", "astrofile", "h
         
 addscript(9872472334, "EvadeGUIAutoFarmGodModeMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/EvadeGUIAutoFarmGodModeMore.lua")
                         
+        
+addscript(10192063645, "ThyHoodToolCollector", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ThyHoodToolCollector.lua")
+                        
