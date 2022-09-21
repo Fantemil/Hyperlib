@@ -511,3 +511,6 @@ addscript("5993942214", "RushPointSkinChanger", "astrofile", "https://raw.github
 
 addscript("9431770682", "LostRoomsESPFlyFarmandMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LostRoomsESPFlyFarmandMore.lua")
                 
+
+addscript("21532277", "NotorietyWalkspeedFlyTpBypass", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NotorietyWalkspeedFlyTpBypass.lua")
+                
