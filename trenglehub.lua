@@ -505,3 +505,5 @@ addscript("https://www.roblox.com/games/2788229376/Da-Hood", "DaHoodFlyPickupKni
 
 addscript("https://www.roblox.com/games/5993942214/ETHEREAL-SKIN-Rush-Point", "RushPointSkinChanger", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RushPointSkinChanger.lua")
                 
+                
+addscriptexist("BloxFruitsGUIAutoFarmAutoLevelMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BloxFruitsGUIAutoFarmAutoLevelMore.lua")
