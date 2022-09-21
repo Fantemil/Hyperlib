@@ -512,3 +512,6 @@ addscript("https://www.roblox.com/games/9431770682/Lost-Rooms-New-Map", "LostRoo
 
 addscript("https://www.roblox.com/games/21532277/Notoriety", "NotorietyWalkspeedFlyTpBypass", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NotorietyWalkspeedFlyTpBypass.lua")
                 
+
+addscript("https://www.roblox.com/games/9072679513/UPDATE-6-Anime-Impact-Simulator#ropro-quick-play", "AnimeImpactSimulatorAutoTrainAutoRankAutoEnergy", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AnimeImpactSimulatorAutoTrainAutoRankAutoEnergy.lua")
+                
