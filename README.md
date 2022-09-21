@@ -12,9 +12,7 @@ You can run Trenglehub with a easy loadstring (or copy the source code)
 ```
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Fantemil/Trenglehub/main/trenglehub.lua"))()
 ```
-# Informations
 
-Sometimes i just dont add scripts when they are requiring you to do some extra steps.
 
 # HELP US!
 
