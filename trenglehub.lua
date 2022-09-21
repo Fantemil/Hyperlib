@@ -1,10 +1,14 @@
-function sleep(n)
-    os.execute("sleep " .. tonumber(n))
-  end
 
+function addscript(Place,Gamename,title,author,scriptlink)
+    if game.PlaceId == Place then
+        local main = Window:NewTab(Gamename)
+        local script = main:NewSection("---Scripts---")
+        script:NewButton(title, author, function()
+            loadstring(game:HttpGet(scriptlink))()
+            end)
 
 local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Library/kavo-ui.lua"))()
-local Window = Library.CreateLib("Trenglehub", "BloodTheme")
+local Window = Library.CreateLib("Trenglehub", "LightTheme")
 
 local Player = Window:NewTab("Player")
 local PlayerSection = Player:NewSection("Player")
@@ -484,3 +488,4 @@ end
 
 
 
+addscript("2753915549","BloxFruitsGUIAutoFarmAutoLevelMore","Terni","https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BloxFruitsGUIAutoFarmAutoLevelMore.lua")
