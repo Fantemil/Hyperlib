@@ -634,3 +634,6 @@ addscript(98298692105, "KarateKickSimulatorKillAll", "astrofile", "https://raw.g
         
 addscript(50630210801, "MyModdedDayWalkspeedGraballItemsTeleports", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MyModdedDayWalkspeedGraballItemsTeleports.lua")
                         
+        
+addscript(10652184030, "JumpClickerInfiniteStatsAutoFarm", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/JumpClickerInfiniteStatsAutoFarm.lua")
+                        
