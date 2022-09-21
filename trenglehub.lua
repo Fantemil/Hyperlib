@@ -713,3 +713,6 @@ addscript(9648883891, "FestivalTycoonAutoEndTycoon", "astrofile", "https://raw.g
         
 addscript(107143652872, "AnimeRaceClickerAutoFarmAutoHatchUnlockWorlds", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AnimeRaceClickerAutoFarmAutoHatchUnlockWorlds.lua")
                         
+        
+addscript(9030362964, "FieldGoalSimulatorAutoFarmGoals", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FieldGoalSimulatorAutoFarmGoals.lua")
+                        
