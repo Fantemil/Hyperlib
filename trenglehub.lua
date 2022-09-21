@@ -744,3 +744,6 @@ addscript(20663817811, "DeadlySinsRetributionAutoSpinRace", "astrofile", "https:
                         
                         
 addscriptexist(20663817811, "DeadlySinsRetributionAutoSpinMagic", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DeadlySinsRetributionAutoSpinMagic.lua")
+        
+addscript(1554960397, "CarDealershipTycoonAutoFarmAutoDrive", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CarDealershipTycoonAutoFarmAutoDrive.lua")
+                        
