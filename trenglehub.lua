@@ -523,3 +523,6 @@ addscript("https://www.roblox.com/games/9072679513/UPDATE-6-Anime-Impact-Simulat
 
 addscript("https://www.roblox.com/games/6461766546/COSMIC-5X-STATS-A-Heros-Destiny#ropro-quick-play", "AHerosDestinyAutoFarmAutoTrainAutoPunch", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AHerosDestinyAutoFarmAutoTrainAutoPunch.lua")
                 
+
+addscript("https://www.roblox.com/games/183364845/Speed-Run-4", "SpeedRun4AutoFarmCompleteDimensionnMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SpeedRun4AutoFarmCompleteDimensionnMore.lua")
+                
