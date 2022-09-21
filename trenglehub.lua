@@ -668,3 +668,5 @@ addscript(8540168650, "StandUprightRebootedStandFarmItemFarmQuestFarming", "astr
         
 addscript(1428232912, "MurderMystery2XRayChamsEspAutoFarms", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MurderMystery2XRayChamsEspAutoFarms.lua")
                         
+                        
+addscriptexist(3177438863, "DragonBloxAutoMultiplierZoneAutoAttackAutoRebirth", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DragonBloxAutoMultiplierZoneAutoAttackAutoRebirth.lua")
