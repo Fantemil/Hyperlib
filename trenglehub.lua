@@ -688,3 +688,6 @@ addscriptexist(2788229376, "DaHoodGUIAimLockSilentAimMore", "Terni", "https://ra
         
 addscript(8482451541, "BrickDefenseAutoAddsTowersWhenReleased", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BrickDefenseAutoAddsTowersWhenReleased.lua")
                         
+        
+addscript(105082968787, "MurderMystery7RedeemAllCodes", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MurderMystery7RedeemAllCodes.lua")
+                        
