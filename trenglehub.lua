@@ -509,3 +509,6 @@ addscript("https://www.roblox.com/games/5993942214/ETHEREAL-SKIN-Rush-Point", "R
 
 addscript("https://www.roblox.com/games/9431770682/Lost-Rooms-New-Map", "LostRoomsESPFlyFarmandMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LostRoomsESPFlyFarmandMore.lua")
                 
+
+addscript("https://www.roblox.com/games/21532277/Notoriety", "NotorietyWalkspeedFlyTpBypass", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NotorietyWalkspeedFlyTpBypass.lua")
+                
