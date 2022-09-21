@@ -631,3 +631,6 @@ addscript(106311815871112, "StoneMinerSimulator2AutoRebirth", "astrofile", "http
         
 addscript(98298692105, "KarateKickSimulatorKillAll", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/KarateKickSimulatorKillAll.lua")
                         
+        
+addscript(50630210801, "MyModdedDayWalkspeedGraballItemsTeleports", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MyModdedDayWalkspeedGraballItemsTeleports.lua")
+                        
