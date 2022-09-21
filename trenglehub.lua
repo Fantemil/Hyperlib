@@ -742,3 +742,5 @@ addscript(5498056786, "HandballAssociationInfinityStamina", "astrofile", "https:
         
 addscript(20663817811, "DeadlySinsRetributionAutoSpinRace", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DeadlySinsRetributionAutoSpinRace.lua")
                         
+                        
+addscriptexist(20663817811, "DeadlySinsRetributionAutoSpinMagic", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DeadlySinsRetributionAutoSpinMagic.lua")
