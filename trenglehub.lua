@@ -792,3 +792,6 @@ addscript(9742783208, "RaiseaYippeeAutoClickAutoFood", "astrofile", "https://raw
         
 addscript(8891045283160, "FindTheBaconsGetAllBacons", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FindTheBaconsGetAllBacons.lua")
                         
+        
+addscript(62845830302, "PetSimulatorXAutoFarmAutoCollect", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PetSimulatorXAutoFarmAutoCollect.lua")
+                        
