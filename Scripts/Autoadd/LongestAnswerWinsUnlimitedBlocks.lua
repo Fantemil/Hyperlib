@@ -1,1 +1,0 @@
-local answer = game:GetService("ReplicatedStorage").HintAnswer local args = {[1] = answer.Value,[2] = #answer.Value} game:GetService("ReplicatedStorage").SubmittedAnswer:FireServer(unpack(args))
