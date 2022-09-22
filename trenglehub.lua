@@ -838,3 +838,5 @@ addscriptexist(6284583030, "PetSimulatorXFastAutoEnchant", "Terni", "https://raw
 addscriptexist(62845830302, "PetSimulatorXCrash", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PetSimulatorXCrash.lua")
                         
 addscriptexist(62845830302, "PetSimulatorXAutoEggsAutoFarmSendAllPets", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PetSimulatorXAutoEggsAutoFarmSendAllPets.lua")
+                        
+addscriptexist(6284583030, "PetSimulatorXNEWServerCrasher", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PetSimulatorXNEWServerCrasher.lua")
