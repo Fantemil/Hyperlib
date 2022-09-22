@@ -609,3 +609,6 @@ addscript(1067652383411, "RacingRocketAutoClickPowerAutoHatchAutoUpgradeRocket",
                         
                         
 addscriptexist(85697719, "KingdomLifeIINameChangeForEveryPlayer", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/KingdomLifeIINameChangeForEveryPlayer.lua")
+        
+addscript(7180042682, "MilitaryTycoonAutoFarm", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MilitaryTycoonAutoFarm.lua")
+                        
