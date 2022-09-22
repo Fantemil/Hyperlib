@@ -648,3 +648,6 @@ addscript(102131021, "FloodSurvivalWavesChooseMapsInfinityJumpTeleports", "astro
         
 addscript(10753832846, "AxeGuiFactoryDamageLoop", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AxeGuiFactoryDamageLoop.lua")
                         
+        
+addscript(9498006165, "TappingSimulatorRemoveEggHatchandClickDelay", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TappingSimulatorRemoveEggHatchandClickDelay.lua")
+                        
