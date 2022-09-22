@@ -753,3 +753,6 @@ addscript(8894888083, "PinataLegendsInfinityGemsandCoins", "astrofile", "https:/
         
 addscript(9992339729, "LongestAnswerWinsInfinityBlocks", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LongestAnswerWinsInfinityBlocks.lua")
                         
+        
+addscript(5498056786, "HandballAssociationInfinityStamina", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/HandballAssociationInfinityStamina.lua")
+                        
