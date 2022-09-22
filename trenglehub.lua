@@ -855,3 +855,5 @@ addscriptexist(62845830303, "PetSimulatorXAutoFarmAutoBuyeggTp", "Qalnik", "http
 addscriptexist(62845830303, "PetSimulatorXUnlockGamepassAutoFarmAntiLag", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PetSimulatorXUnlockGamepassAutoFarmAntiLag.lua")
                         
 addscriptexist(6284583030, "PetSimulatorXNewFarmingGUIHoverboardMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PetSimulatorXNewFarmingGUIHoverboardMore.lua")
+                        
+addscriptexist(6284583030, "PetSimulatorXUPDATEBESTFARM", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PetSimulatorXUPDATEBESTFARM.lua")
