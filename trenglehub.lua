@@ -690,3 +690,6 @@ addscript(9264596435, "IdleHeroesSimulatorAutoFarmAutoUpgrade", "Terni", "https:
         
 addscript(10320240572, "EasyRaceClickerFastAutoWin", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/EasyRaceClickerFastAutoWin.lua")
                         
+        
+addscript(105082968787, "MurderMystery7RedeemAllCodes", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MurderMystery7RedeemAllCodes.lua")
+                        
