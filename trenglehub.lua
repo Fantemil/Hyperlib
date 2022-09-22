@@ -612,3 +612,6 @@ addscriptexist(85697719, "KingdomLifeIINameChangeForEveryPlayer", "astrofile", "
         
 addscript(7180042682, "MilitaryTycoonAutoFarm", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MilitaryTycoonAutoFarm.lua")
                         
+        
+addscript(7952502098, "ImpossibleGlassBridgeObbyAutoWinInfiniteCash", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ImpossibleGlassBridgeObbyAutoWinInfiniteCash.lua")
+                        
