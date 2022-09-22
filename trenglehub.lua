@@ -878,3 +878,6 @@ addscript(6755746130, "FruitJuiceTycoonRefreshedAutoFarmAutoSellAutoBuy", "astro
         
 addscript(83575109702, "AnimePunchingSimulatorAutoTapAutoRebirthAutoOpenEgg", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AnimePunchingSimulatorAutoTapAutoRebirthAutoOpenEgg.lua")
                         
+        
+addscript(8884433153, "CollectAllPetsAutoFarmAutoCollectAutoClaimRewards", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CollectAllPetsAutoFarmAutoCollectAutoClaimRewards.lua")
+                        
