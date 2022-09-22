@@ -567,3 +567,6 @@ addscript(1428232912, "MurderMystery2Fly", "astrofile", "https://raw.githubuserc
         
 addscript(9524757503, "iHeartLandMusicTycoonInstantlycomplete", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/iHeartLandMusicTycoonInstantlycomplete.lua")
                         
+        
+addscript(5993942214, "RushPointSkinChanger", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RushPointSkinChanger.lua")
+                        
