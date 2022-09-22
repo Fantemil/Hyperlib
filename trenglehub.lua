@@ -676,3 +676,6 @@ addscript(1242235469, "ballandaxeUnlockYourAxeRemoveLimits", "Terni", "https://r
         
 addscript(94171973341, "AnimeStoryAutoFarmAutoQuest", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AnimeStoryAutoFarmAutoQuest.lua")
                         
+        
+addscript(6229116934, "HoopzGUIAimbotSilentAim", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/HoopzGUIAimbotSilentAim.lua")
+                        
