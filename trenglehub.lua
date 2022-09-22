@@ -534,3 +534,6 @@ addscript(488667523, "ThoseWhoRemainItemESP", "astrofile", "https://raw.githubus
         
 addscript(5732301513, "TRENCHESKillAllEnemies", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TRENCHESKillAllEnemies.lua")
                         
+        
+addscript(3177438863, "DragonBloxGUI", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DragonBloxGUI.lua")
+                        
