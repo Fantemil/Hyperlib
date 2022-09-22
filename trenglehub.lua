@@ -900,3 +900,5 @@ addscript(85543783373, "WeaponFightingSimulatorGUIStartFarmSelectAreaToFarmMore"
                         
                         
 addscriptexist(85543783373, "WeaponFightingSimulatorAutoFarmAllAreasMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/WeaponFightingSimulatorAutoFarmAllAreasMore.lua")
+                        
+addscriptexist(85543783372, "WeaponFightingSimulatorFreeGamePassesAutoFarmMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/WeaponFightingSimulatorFreeGamePassesAutoFarmMore.lua")
