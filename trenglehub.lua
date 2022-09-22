@@ -558,3 +558,6 @@ addscript(10531659515, "ShovelBattlesAutoFarmAutoKillAllBreakAllPlayers", "astro
         
 addscript(662417684, "LuckyBlockBattlegroundsBlockGiver", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LuckyBlockBattlegroundsBlockGiver.lua")
                         
+        
+addscript(1803644552, "SurviveTheDisasters2Anticheatbypass", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SurviveTheDisasters2Anticheatbypass.lua")
+                        
