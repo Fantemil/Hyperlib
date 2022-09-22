@@ -985,3 +985,5 @@ addscript(40424276662, "AnimeFightingSimulator", "Acc", "https://raw.githubuserc
                         
                         
 addscriptexist(4042427666, "AnimeFightingSimGui", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AnimeFightingSimGui.lua2.lua")
+                        
+addscriptexist(8304191830, "AnimeAdventuresGUIFullAutoFarmMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AnimeAdventuresGUIFullAutoFarmMore.lua8.lua")
