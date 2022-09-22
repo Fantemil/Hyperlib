@@ -620,3 +620,6 @@ addscriptexist(9524757503, "iHeartLandMusicTycoonGetFreeItem", "astrofile", "htt
         
 addscript(2185497593, "ArcadeIslandXWorkingArcadeAutoFarmmoney", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ArcadeIslandXWorkingArcadeAutoFarmmoney.lua")
                         
+        
+addscript(6289365295, "SkysDifficultyChartObbyAutoComplete", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SkysDifficultyChartObbyAutoComplete.lua")
+                        
