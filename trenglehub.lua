@@ -963,3 +963,5 @@ addscriptexist(8304191830, "AnimeAdventuresFullAutoFarmAutoUpgradeSelectWorld", 
 addscriptexist(8304191830, "AnimeAdventuresAutoFarm", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AnimeAdventuresAutoFarm.lua1.lua")
                         
 addscriptexist(8304191830, "AnimeAdventuresAutoAbilytiAutoUpgrade", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AnimeAdventuresAutoAbilytiAutoUpgrade.lua9.lua")
+                        
+addscriptexist(83041918303, "AnimeAdventuresAutoChallengeAutoInfMode", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AnimeAdventuresAutoChallengeAutoInfMode.lua6.lua")
