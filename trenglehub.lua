@@ -849,3 +849,5 @@ addscript(62845830303, "PetSimulatorXAutofarmTroll", "rbxscript", "https://raw.g
 addscriptexist(6284583030, "PetSimulatorXAutoFarmAutoOpenEggStatTacker", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PetSimulatorXAutoFarmAutoOpenEggStatTacker.lua")
                         
 addscriptexist(62845830303, "PetSimulatorXEggOfManyGiftsAutoBuy", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PetSimulatorXEggOfManyGiftsAutoBuy.lua")
+                        
+addscriptexist(62845830303, "PetSimulatorXAutoFarmAutoBuyeggTp", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PetSimulatorXAutoFarmAutoBuyeggTp.lua")
