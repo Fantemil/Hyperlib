@@ -673,3 +673,6 @@ addscript(4616652839170, "ShindoLifeAutofarmMobsAutoKeyPressInfiniteJump", "astr
         
 addscript(1242235469, "ballandaxeUnlockYourAxeRemoveLimits", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ballandaxeUnlockYourAxeRemoveLimits.lua")
                         
+        
+addscript(94171973341, "AnimeStoryAutoFarmAutoQuest", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AnimeStoryAutoFarmAutoQuest.lua")
+                        
