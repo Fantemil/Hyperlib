@@ -759,3 +759,6 @@ addscript(9133513813, "HuntedHoodAutoPickUp", "astrofile", "https://raw.githubus
                         
 
 addscriptexist(875099764722, "TappingLegendsXAutoRebirthAutoTapAutoEggs", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TappingLegendsXAutoRebirthAutoTapAutoEggs.lua")
+
+addscript(10148047155, "CarMechanicTycoonMoneyAutoFarm", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CarMechanicTycoonMoneyAutoFarm.lua")
+                        
