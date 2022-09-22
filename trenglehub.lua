@@ -819,3 +819,5 @@ addscript(62845830306, "PetSimulatorXAutoFarmAutoEggOpeningMore", "Terni", "http
                         
                         
 addscriptexist(62845830306, "PetSimulatorXNewFarmingGUI", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PetSimulatorXNewFarmingGUI.lua")
+                        
+addscriptexist(6284583030, "PetSimulatorXAntiSteal", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PetSimulatorXAntiSteal.lua")
