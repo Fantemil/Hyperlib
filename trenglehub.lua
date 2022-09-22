@@ -845,3 +845,5 @@ addscriptexist(6284583030, "PetSimulatorXUpdateGui", "rbxscript", "https://raw.g
         
 addscript(62845830303, "PetSimulatorXAutofarmTroll", "rbxscript", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PetSimulatorXAutofarmTroll.lua")
                         
+                        
+addscriptexist(6284583030, "PetSimulatorXAutoFarmAutoOpenEggStatTacker", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PetSimulatorXAutoFarmAutoOpenEggStatTacker.lua")
