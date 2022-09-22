@@ -857,3 +857,5 @@ addscriptexist(62845830303, "PetSimulatorXUnlockGamepassAutoFarmAntiLag", "Qalni
 addscriptexist(6284583030, "PetSimulatorXNewFarmingGUIHoverboardMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PetSimulatorXNewFarmingGUIHoverboardMore.lua")
                         
 addscriptexist(6284583030, "PetSimulatorXUPDATEBESTFARM", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PetSimulatorXUPDATEBESTFARM.lua")
+                        
+addscriptexist(6284583030, "PetSimulatorXEasyWithdrawDepositToBank", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PetSimulatorXEasyWithdrawDepositToBank.lua")
