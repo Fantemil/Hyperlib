@@ -778,3 +778,6 @@ addscriptexist(8737602449, "PLSDONATEFlyWalkspeed", "astrofile", "https://raw.gi
         
 addscript(4913581664, "CartRideIntoRditeAutoClick", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CartRideIntoRditeAutoClick.lua")
                         
+        
+addscript(6610021055, "NoobArmyTycoonInfiniteGems", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NoobArmyTycoonInfiniteGems.lua")
+                        
