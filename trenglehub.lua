@@ -914,3 +914,5 @@ addscriptexist(85543783372, "WeaponFightingSimulatorGUIAutoFarmAutoCollectMore",
         
 addscript(855437833711, "WeaponFightingSimulatorGUIAutoFarm", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/WeaponFightingSimulatorGUIAutoFarm.lua")
                         
+                        
+addscriptexist(855437833711, "WeaponFightingSimulatorAutoFarmCollectRewardsSelectArea", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/WeaponFightingSimulatorAutoFarmCollectRewardsSelectArea.lua")
