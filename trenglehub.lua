@@ -804,3 +804,5 @@ addscriptexist(62845830302, "PetSimulatorXAutoHatchAutoFarm", "astrofile", "http
         
 addscript(628458303027167864814887836057846059628458303002316994223, "PetSimulatorXAutoFarmAutoEggs", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PetSimulatorXAutoFarmAutoEggs.lua")
                         
+                        
+addscriptexist(62845830302, "PetSimulatorXAutoFarmAutoHatch", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PetSimulatorXAutoFarmAutoHatch.lua")
