@@ -495,6 +495,8 @@ if game.PlaceId == 370731277 then
 end
 
 
-
-
-             
+                  
+      
+  
+                        
+addscriptexist(2753915549, "BloxFruitsGUIAutoLevelFarmStackMobsMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BloxFruitsGUIAutoLevelFarmStackMobsMore.lua")
