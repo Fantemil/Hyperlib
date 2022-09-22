@@ -537,3 +537,6 @@ addscript(5732301513, "TRENCHESKillAllEnemies", "astrofile", "https://raw.github
         
 addscript(3177438863, "DragonBloxGUI", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DragonBloxGUI.lua")
                         
+        
+addscript(7502726087, "BeaHeroAutoFarm", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BeaHeroAutoFarm.lua")
+                        
