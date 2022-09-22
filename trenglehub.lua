@@ -983,3 +983,5 @@ addscript(46166528392, "ShindoLifeScript", "jojofan228", "https://raw.githubuser
         
 addscript(40424276662, "AnimeFightingSimulator", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AnimeFightingSimulator.lua7.lua")
                         
+                        
+addscriptexist(4042427666, "AnimeFightingSimGui", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AnimeFightingSimGui.lua2.lua")
