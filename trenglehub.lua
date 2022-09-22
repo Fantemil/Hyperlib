@@ -764,3 +764,6 @@ addscript(10148047155, "CarMechanicTycoonMoneyAutoFarm", "astrofile", "https://r
                         
 
 addscriptexist(9648883891, "FestivalTycoonAdd10M", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FestivalTycoonAdd10M.lua")
+
+addscript(7169897329, "NannyHORRORInfiniteScreams", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NannyHORRORInfiniteScreams.lua")
+                        
