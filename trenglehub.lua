@@ -817,3 +817,5 @@ addscriptexist(6284583030, "PetSimulatorXAutoFarm", "Terni", "https://raw.github
         
 addscript(62845830306, "PetSimulatorXAutoFarmAutoEggOpeningMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PetSimulatorXAutoFarmAutoEggOpeningMore.lua")
                         
+                        
+addscriptexist(62845830306, "PetSimulatorXNewFarmingGUI", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PetSimulatorXNewFarmingGUI.lua")
