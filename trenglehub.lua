@@ -911,3 +911,6 @@ addscriptexist(8554378337, "WeaponFightingSimulatorStartFarmCollectRewardsAntiAf
 addscriptexist(85543783372, "WeaponFightingSimulatorGUIFarmingBossGamepass", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/WeaponFightingSimulatorGUIFarmingBossGamepass.lua")
                         
 addscriptexist(85543783372, "WeaponFightingSimulatorGUIAutoFarmAutoCollectMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/WeaponFightingSimulatorGUIAutoFarmAutoCollectMore.lua")
+        
+addscript(855437833711, "WeaponFightingSimulatorGUIAutoFarm", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/WeaponFightingSimulatorGUIAutoFarm.lua")
+                        
