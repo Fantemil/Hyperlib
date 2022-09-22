@@ -937,3 +937,6 @@ addscriptexist(8750997647, "TappingLegendsXAutoTapAutoRebirthAutoclicker", "Qaln
         
 addscript(8750997647215, "TappingLegendsXUPDATEDAUTOFARMGUI", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TappingLegendsXUPDATEDAUTOFARMGUI.lua")
                         
+        
+addscript(8750997647152, "TappingLegendsXGUIAutoTapAutoRebirthMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TappingLegendsXGUIAutoTapAutoRebirthMore.lua")
+                        
