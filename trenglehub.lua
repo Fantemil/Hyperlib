@@ -842,3 +842,6 @@ addscriptexist(62845830302, "PetSimulatorXAutoEggsAutoFarmSendAllPets", "Qalnik"
 addscriptexist(6284583030, "PetSimulatorXNEWServerCrasher", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PetSimulatorXNEWServerCrasher.lua")
                         
 addscriptexist(6284583030, "PetSimulatorXUpdateGui", "rbxscript", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PetSimulatorXUpdateGui.lua")
+        
+addscript(62845830303, "PetSimulatorXAutofarmTroll", "rbxscript", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PetSimulatorXAutofarmTroll.lua")
+                        
