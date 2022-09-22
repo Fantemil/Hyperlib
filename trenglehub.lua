@@ -775,3 +775,6 @@ addscript(6516141723, "DOORSAutoSkipLvlInstantInteract", "astrofile", "https://r
                         
                         
 addscriptexist(8737602449, "PLSDONATEFlyWalkspeed", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PLSDONATEFlyWalkspeed.lua")
+        
+addscript(4913581664, "CartRideIntoRditeAutoClick", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CartRideIntoRditeAutoClick.lua")
+                        
