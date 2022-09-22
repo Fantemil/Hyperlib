@@ -724,3 +724,6 @@ addscript(107143652871, "AnimeRaceClickerAutoFarmAutoHatchUnlockWorlds", "astrof
         
 addscript(9030362964, "FieldGoalSimulatorAutoFarmGoals", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FieldGoalSimulatorAutoFarmGoals.lua")
                         
+        
+addscript(920587237, "AdoptMeAutoFarmFunFunctionsFly", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AdoptMeAutoFarmFunFunctionsFly.lua")
+                        
