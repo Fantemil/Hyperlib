@@ -709,3 +709,6 @@ addscriptexist(2788229376, "DaHoodSilentAimanotherversion", "astrofile", "https:
         
 addscript(10275942471, "ColorRaceGetalotofWinsSpeed", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ColorRaceGetalotofWinsSpeed.lua")
                         
+        
+addscript(8227619186, "MurderMysteryAGemsAutoFarmWalkspeedInfJump", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MurderMysteryAGemsAutoFarmWalkspeedInfJump.lua")
+                        
