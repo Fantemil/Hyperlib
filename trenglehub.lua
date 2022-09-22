@@ -762,3 +762,5 @@ addscriptexist(875099764722, "TappingLegendsXAutoRebirthAutoTapAutoEggs", "astro
 
 addscript(10148047155, "CarMechanicTycoonMoneyAutoFarm", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CarMechanicTycoonMoneyAutoFarm.lua")
                         
+
+addscriptexist(9648883891, "FestivalTycoonAdd10M", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FestivalTycoonAdd10M.lua")
