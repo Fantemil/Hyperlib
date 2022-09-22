@@ -519,3 +519,6 @@ addscript(4997792989, "HomelessSimulatorInRussiaPetAutofarmInfMoney", "astrofile
         
 addscript(9993529229, "CounterBloxRemasteredSilentAimEspAimbot", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CounterBloxRemasteredSilentAimEspAimbot.lua")
                         
+        
+addscript(9872472334, "EvadeGUIAutoFarmGodModeMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/EvadeGUIAutoFarmGodModeMore.lua")
+                        
