@@ -801,3 +801,6 @@ addscriptexist(6284583030, "PetSimulatorXGUIAutoFarmChestFarmMore", "Terni", "ht
 addscriptexist(62845830302, "PetSimulatorXAutoFarmAutoopenEggAutoFarmChest", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PetSimulatorXAutoFarmAutoopenEggAutoFarmChest.lua")
                         
 addscriptexist(62845830302, "PetSimulatorXAutoHatchAutoFarm", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PetSimulatorXAutoHatchAutoFarm.lua")
+        
+addscript(628458303027167864814887836057846059628458303002316994223, "PetSimulatorXAutoFarmAutoEggs", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PetSimulatorXAutoFarmAutoEggs.lua")
+                        
