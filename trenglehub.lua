@@ -872,3 +872,6 @@ addscriptexist(6284583030, "PetSimulatorXAUTOFARMTPANTIAFKBUYEGG", "wsufy.lnd", 
         
 addscript(628458303027200444501514553748, "PetSimulatorXAutoFarmTeleport", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PetSimulatorXAutoFarmTeleport.lua")
                         
+        
+addscript(6755746130, "FruitJuiceTycoonRefreshedAutoFarmAutoSellAutoBuy", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FruitJuiceTycoonRefreshedAutoFarmAutoSellAutoBuy.lua")
+                        
