@@ -863,3 +863,5 @@ addscriptexist(6284583030, "PetSimulatorXEasyWithdrawDepositToBank", "Terni", "h
 addscriptexist(6284583030, "PetSimulatorXDupeGemDupe", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PetSimulatorXDupeGemDupe.lua")
                         
 addscriptexist(6284583030, "PetSimulatorXDupeGemsPets", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PetSimulatorXDupeGemsPets.lua")
+                        
+addscriptexist(62845830303, "PetSimulatorXNEWGUIAutoFarmAutoOpenAllGamepassesMORE", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PetSimulatorXNEWGUIAutoFarmAutoOpenAllGamepassesMORE.lua")
