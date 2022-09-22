@@ -923,3 +923,5 @@ addscriptexist(87509976474, "TappingLegendsXGUIAutoClickAutoRebirthMore", "Terni
         
 addscript(8750997647315, "TappingLegendsXAutoClickAutoUpgrade", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TappingLegendsXAutoClickAutoUpgrade.lua")
                         
+                        
+addscriptexist(8750997647315, "TappingLegendsXAutoEggsAutoRebirth", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TappingLegendsXAutoEggsAutoRebirth.lua")
