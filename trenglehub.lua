@@ -570,3 +570,6 @@ addscript(9524757503, "iHeartLandMusicTycoonInstantlycomplete", "astrofile", "ht
         
 addscript(5993942214, "RushPointSkinChanger", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RushPointSkinChanger.lua")
                         
+        
+addscript(85697719, "KingdomLife2NameChangeForEveryPlayer", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/KingdomLife2NameChangeForEveryPlayer.lua")
+                        
