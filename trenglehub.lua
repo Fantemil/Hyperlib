@@ -738,3 +738,6 @@ addscript(9662949425, "PunchabrickwallsimulatorInfBonesAutoUpAutoRebirth", "astr
         
 addscript(277751860, "EpicMinigamesWalkspeedInfinityJumpClickTP", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/EpicMinigamesWalkspeedInfinityJumpClickTP.lua")
                         
+        
+addscript(68046029226804602922, "BOXINGBETAWalkspeedRagdollInfDodgeStamina", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BOXINGBETAWalkspeedRagdollInfDodgeStamina.lua")
+                        
