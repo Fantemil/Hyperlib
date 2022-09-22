@@ -810,3 +810,5 @@ addscriptexist(62845830302, "PetSimulatorXAutoFarmAutoHatch", "astrofile", "http
 addscriptexist(62845830302, "PetSimulatorXAutoFarmAutoEggWalkSpeed", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PetSimulatorXAutoFarmAutoEggWalkSpeed.lua")
                         
 addscriptexist(6284583030, "PetSimulatorXMasteryAutoFarm", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PetSimulatorXMasteryAutoFarm.lua")
+                        
+addscriptexist(6284583030, "PetSimulatorXBanBypass", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PetSimulatorXBanBypass.lua")
