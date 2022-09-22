@@ -832,3 +832,5 @@ addscriptexist(62845830308, "PetSimulatorXGemFarmChestFarmAutoFarm", "Qalnik", "
 addscriptexist(62845830308, "PetSimulatorXMiniFarmingGUI", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PetSimulatorXMiniFarmingGUI.lua")
                         
 addscriptexist(6284583030, "PetSimulatorXGhostPetXGUI", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PetSimulatorXGhostPetXGUI.lua")
+                        
+addscriptexist(6284583030, "PetSimulatorXFastAutoEnchant", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PetSimulatorXFastAutoEnchant.lua")
