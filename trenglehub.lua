@@ -767,3 +767,6 @@ addscript(15549603971, "CarDealershipTycoonAutoFarmAutoDrive", "astrofile", "htt
         
 addscript(2537430692, "JengaWinGameFly", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/JengaWinGameFly.lua")
                         
+        
+addscript(321411488422704793545534823654700266321411488401160789089, "FlagWarsHitboxChams", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FlagWarsHitboxChams.lua")
+                        
