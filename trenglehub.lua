@@ -930,3 +930,5 @@ addscript(513059837715, "TappingLegendsXAutoFarmsAutoHatchAutoRebirth", "Qalnik"
                         
                         
 addscriptexist(87509976473, "TappingLegendsXAutoClickAutoRebirth", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TappingLegendsXAutoClickAutoRebirth.lua")
+                        
+addscriptexist(8750997647315, "TappingLegendsXAutoClickerAutorebirthAutoEgg", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TappingLegendsXAutoClickerAutorebirthAutoEgg.lua")
