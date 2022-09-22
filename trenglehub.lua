@@ -940,3 +940,6 @@ addscript(8750997647215, "TappingLegendsXUPDATEDAUTOFARMGUI", "Terni", "https://
         
 addscript(8750997647152, "TappingLegendsXGUIAutoTapAutoRebirthMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TappingLegendsXGUIAutoTapAutoRebirthMore.lua")
                         
+        
+addscript(83041918303, "AnimeAdventuresAutoChallengeAutoInfMode", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AnimeAdventuresAutoChallengeAutoInfMode.lua")
+                        
