@@ -789,3 +789,6 @@ addscript(7138009149, "PHIGHTINGInfiniteCash", "Terni", "https://raw.githubuserc
         
 addscript(9742783208, "RaiseaYippeeAutoClickAutoFood", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RaiseaYippeeAutoClickAutoFood.lua")
                         
+        
+addscript(8891045283160, "FindTheBaconsGetAllBacons", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FindTheBaconsGetAllBacons.lua")
+                        
