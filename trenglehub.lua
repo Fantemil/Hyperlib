@@ -628,3 +628,6 @@ addscriptexist(155615604, "PrisonLifeGunModeGiveGunWalkspeed", "astrofile", "htt
         
 addscript(8508303900162, "TowerofFloodEscape2FreeOpenCase", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TowerofFloodEscape2FreeOpenCase.lua")
                         
+        
+addscript(87509976474, "TappinglegendsXAutoClickAutoRebirthAutoHatch", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TappinglegendsXAutoClickAutoRebirthAutoHatch.lua")
+                        
