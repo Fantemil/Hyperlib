@@ -826,3 +826,5 @@ addscriptexist(6284583030, "PetSimulatorXMasteryFarm", "Qalnik", "https://raw.gi
         
 addscript(62845830308, "PetSimulatorXxToolsv13", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PetSimulatorXxToolsv13.lua")
                         
+                        
+addscriptexist(62845830308, "PetSimulatorXGemFarmChestFarmAutoFarm", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PetSimulatorXGemFarmChestFarmAutoFarm.lua")

