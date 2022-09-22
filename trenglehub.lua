@@ -890,3 +890,5 @@ addscriptexist(8884433153, "CollectAllPetsGUIAutoFarm", "Terni", "https://raw.gi
         
 addscript(88844331532, "CollectAllPetsAutoFarm", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CollectAllPetsAutoFarm.lua")
                         
+                        
+addscriptexist(8884433153, "CollectAllPetsAutoQuestAutoCollectCoinsAutobuypets", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CollectAllPetsAutoQuestAutoCollectCoinsAutobuypets.lua")
