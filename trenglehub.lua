@@ -869,3 +869,6 @@ addscriptexist(62845830303, "PetSimulatorXNEWGUIAutoFarmAutoOpenAllGamepassesMOR
 addscriptexist(6284583030, "PetSimulatorXHATCHANYEGGPETFake", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PetSimulatorXHATCHANYEGGPETFake.lua")
                         
 addscriptexist(6284583030, "PetSimulatorXAUTOFARMTPANTIAFKBUYEGG", "wsufy.lnd", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PetSimulatorXAUTOFARMTPANTIAFKBUYEGG.lua")
+        
+addscript(628458303027200444501514553748, "PetSimulatorXAutoFarmTeleport", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PetSimulatorXAutoFarmTeleport.lua")
+                        
