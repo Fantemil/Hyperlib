@@ -907,3 +907,5 @@ addscript(8554378337912, "WeaponFightingSimulatorAutoBossAutoGambleAutoOpenBossC
                         
                         
 addscriptexist(8554378337, "WeaponFightingSimulatorStartFarmCollectRewardsAntiAfk", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/WeaponFightingSimulatorStartFarmCollectRewardsAntiAfk.lua")
+                        
+addscriptexist(85543783372, "WeaponFightingSimulatorGUIFarmingBossGamepass", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/WeaponFightingSimulatorGUIFarmingBossGamepass.lua")
