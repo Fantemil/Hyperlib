@@ -892,3 +892,6 @@ addscript(88844331532, "CollectAllPetsAutoFarm", "Terni", "https://raw.githubuse
                         
                         
 addscriptexist(8884433153, "CollectAllPetsAutoQuestAutoCollectCoinsAutobuypets", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CollectAllPetsAutoQuestAutoCollectCoinsAutobuypets.lua")
+        
+addscript(85543783372, "WEAPONFIGHTINGSIMULATORAutoFarmCollectRewards", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/WEAPONFIGHTINGSIMULATORAutoFarmCollectRewards.lua")
+                        
