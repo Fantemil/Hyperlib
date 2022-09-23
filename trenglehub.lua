@@ -1141,3 +1141,6 @@ addscript(47796130612,"Roadman", "RoadmanAshuraAutoTool", "Terni", "https://raw.
     
 addscript(6067244110102,"Flood Escape 2 Ultimate ", "FloodEscape2UltimateAutoFarm", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FloodEscape2UltimateAutoFarm.lua")
                     
+    
+addscript(10647156264,"Become a Nextbot ", "BecomeaNextbotTeleportsWalkspeedGetRareNextbots", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BecomeaNextbotTeleportsWalkspeedGetRareNextbots.lua")
+                    
