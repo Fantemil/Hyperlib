@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://github.com/N4RWH4L/Scripts/raw/main/CollectAllPets.lua", true))()
