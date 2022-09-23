@@ -1067,3 +1067,6 @@ addscript(318978013,"Kick Off ", "KickOffInstantGoalsFOVGravity", "astrofile", "
     
 addscript(9662949425,"Punch a brick wall simulator ", "PunchabrickwallsimulatorInfBonesAutoUpAutoRebirth", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PunchabrickwallsimulatorInfBonesAutoUpAutoRebirth.lua")
                     
+    
+addscript(277751860,"Epic Minigames ", "EpicMinigamesWalkspeedInfinityJumpClickTP", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/EpicMinigamesWalkspeedInfinityJumpClickTP.lua")
+                    
