@@ -1312,3 +1312,5 @@ addscript(888433449730,"Mining Clicker Simulator [Auto Click, Auto Rebirth, Bett
 addscriptexist(9431770682, "LostRoomsInfWhistlesFullbright", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LostRoomsInfWhistlesFullbright.lua")
                     
 addscriptexist(6753004901, "SwingCityUnlockAllSkinsMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SwingCityUnlockAllSkinsMore.lua")
+                    
+addscriptexist(736920834117, "SuperHeroUniverse17InfiniteCoins", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SuperHeroUniverse17InfiniteCoins.lua")
