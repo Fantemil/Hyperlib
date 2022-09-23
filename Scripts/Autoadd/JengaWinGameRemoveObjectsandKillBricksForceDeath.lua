@@ -1,0 +1,18 @@
+loadstring(game:HttpGet("https://pastebin.com/raw/xE2BmrzM"))()
+--KEY IS R2awNx18oi
+--KEY IS R2awNx18oi
+--KEY IS R2awNx18oi
+--KEY IS R2awNx18oi
+--KEY IS R2awNx18oi
+--KEY IS R2awNx18oi
+--KEY IS R2awNx18oi
+--KEY IS R2awNx18oi
+--KEY IS R2awNx18oi
+--KEY IS R2awNx18oi
+--KEY IS R2awNx18oi
+--KEY IS R2awNx18oi
+--KEY IS R2awNx18oi
+--KEY IS R2awNx18oi
+--KEY IS R2awNx18oi
+--KEY IS R2awNx18oi
+--KEY IS R2awNx18oi

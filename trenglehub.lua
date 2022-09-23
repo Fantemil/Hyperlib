@@ -1191,3 +1191,5 @@ addscriptexist(2860904296719118471981788929662860904290111958650, "ArsenalESP", 
     
 addscript(1343871267,"Fredbear's Mega Roleplay ", "FredbearsMegaRoleplayTransformAllMutatePlayerorallAnimatronic", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FredbearsMegaRoleplayTransformAllMutatePlayerorallAnimatronic.lua")
                     
+                    
+addscriptexist(2537430692, "JengaWinGameRemoveObjectsandKillBricksForceDeath", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/JengaWinGameRemoveObjectsandKillBricksForceDeath.lua")
