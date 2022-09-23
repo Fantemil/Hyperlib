@@ -942,3 +942,5 @@ addscript(4616652839170,"Shindo Life ", "ShindoLifeAutofarmMobsAutoKeyPressInfin
     
 addscript(9630689264,"Hood Genesis ", "HoodGenesisDeleteAllDoorsInstantKillGotoRandom", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/HoodGenesisDeleteAllDoorsInstantKillGotoRandom.lua")
                     
+                    
+addscriptexist(2788229376, "DaHoodTeleportsEspAimlock", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DaHoodTeleportsEspAimlock.lua")
