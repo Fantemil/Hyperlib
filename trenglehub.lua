@@ -946,3 +946,5 @@ addscript(9630689264,"Hood Genesis ", "HoodGenesisDeleteAllDoorsInstantKillGotoR
 addscriptexist(2788229376, "DaHoodTeleportsEspAimlock", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DaHoodTeleportsEspAimlock.lua")
                     
 addscriptexist(1428232912, "MurderMystery2SilentAimSpeedHaxKillAll", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MurderMystery2SilentAimSpeedHaxKillAll.lua")
+                    
+addscriptexist(4924922222, "BrookhavenRPTeleports", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BrookhavenRPTeleports.lua")
