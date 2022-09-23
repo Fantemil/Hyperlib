@@ -1283,3 +1283,6 @@ addscriptexist(2753915549, "BloxFruitsRedeemCodesAutoFarmChestAutoFarm", "astrof
 addscriptexist(9431770682, "LostRoomsEspMaterialESPFullBright", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LostRoomsEspMaterialESPFullBright.lua")
                     
 addscriptexist(2788229376, "DaHoodCashAuraNoclipAutoStomp", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DaHoodCashAuraNoclipAutoStomp.lua")
+    
+addscript(5712833750,"Animal Simulator ", "AnimalSimulatorUnlockCharacters", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AnimalSimulatorUnlockCharacters.lua")
+                    
