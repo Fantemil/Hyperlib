@@ -1342,3 +1342,6 @@ addscript(10429088113,"Jump Race [Auto Win]", "JumpRaceAutoWin", "Qalnik", "http
                     
                     
 addscriptexist(9872472334, "EvadeAutoFarmFastReviveMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/EvadeAutoFarmFastReviveMore.lua")
+    
+addscript(8130299583,"Trident Survival [GUI - Esp, Aimbot & More!]", "TridentSurvivalGUIEspAimbotMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TridentSurvivalGUIEspAimbotMore.lua")
+                    
