@@ -1172,3 +1172,5 @@ addscript(95516409932,"Mining Simulator 2 ", "MiningSimulator2AutoMineAutoEggsSm
 addscriptexist(8884433153, "CollectAllPetsAutoEggsAutoFarmAutoCollect", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CollectAllPetsAutoEggsAutoFarmAutoCollect.lua")
                     
 addscriptexist(286090429, "ArsenalInstantRespawn", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ArsenalInstantRespawn.lua")
+                    
+addscriptexist(9417197334, "AnimeStorySemiInfiniteGemsInfiniteCoins", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AnimeStorySemiInfiniteGemsInfiniteCoins.lua")
