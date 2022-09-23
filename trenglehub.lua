@@ -1099,3 +1099,5 @@ addscript(2537430692,"Jenga ", "JengaWinGameFly", "astrofile", "https://raw.gith
     
 addscript(321411488422704793545534823654700266321411488401160789089,"Flag Wars! ", "FlagWarsHitboxChams", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FlagWarsHitboxChams.lua")
                     
+                    
+addscriptexist(6516141723, "DOORSAutoSkipLvlInstantInteract", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DOORSAutoSkipLvlInstantInteract.lua")
