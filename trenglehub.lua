@@ -498,3 +498,6 @@ end
 
                   
     
+        
+addscript(6403373529,"Slap Battles: AutoFarm Slapples, Trap AutoFarm", "SlapBattlesAutoFarmSlapplesTrapAutoFarm", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SlapBattlesAutoFarmSlapplesTrapAutoFarm.lua")
+                        
