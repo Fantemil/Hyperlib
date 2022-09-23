@@ -1228,3 +1228,6 @@ addscript(7026828578,"Roblox [Lines maker]", "RobloxLinesmaker", "Qalnik", "http
     
 addscript(9807416796,"De Hood [Server Crash]", "DeHoodServerCrash", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DeHoodServerCrash.lua")
                     
+    
+addscript(3237168,"One Piece", "OnePieceLegendaryAutoStealFruitAutoStore", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OnePieceLegendaryAutoStealFruitAutoStore.lua")
+                    
