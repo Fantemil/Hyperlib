@@ -1303,3 +1303,5 @@ addscript(196208686878333919453389484256619620868680703124385,"Tower of Hell [Fl
 addscriptexist(9049840490, "SonicSpeedSimulatorAutoRaceAutoStep", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SonicSpeedSimulatorAutoRaceAutoStep.lua")
                     
 addscriptexist(736920834117, "SuperHeroUniverseInfMoney", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SuperHeroUniverseInfMoney.lua")
+                    
+addscriptexist(10484095306100000, "CLIMB100000STAIRSTOVIPTeleporttoEnd", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CLIMB100000STAIRSTOVIPTeleporttoEnd.lua")
