@@ -498,3 +498,6 @@ end
 
                   
                   
+        
+addscript(7419509075,"cart ride around used car batter: Teleports, Auto Coins, Get tools", "cartridearoundusedcarbatterTeleportsAutoCoinsGettools", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/cartridearoundusedcarbatterTeleportsAutoCoinsGettools.lua")
+                        
