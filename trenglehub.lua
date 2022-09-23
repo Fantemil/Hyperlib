@@ -1086,3 +1086,5 @@ addscriptexist(9992339729, "LongestAnswerWinsInfinityBlocks", "astrofile", "http
     
 addscript(5498056786,"Handball Association ", "HandballAssociationInfinityStamina", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/HandballAssociationInfinityStamina.lua")
                     
+                    
+addscriptexist(2066381781, "DeadlySinsRetributionAutoSpinRace", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DeadlySinsRetributionAutoSpinRace.lua")
