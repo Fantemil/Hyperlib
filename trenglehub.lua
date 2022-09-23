@@ -1403,3 +1403,6 @@ addscript(718004268222,"Military Tycoon [AutoFarm Event]", "MilitaryTycoonAutoFa
     
 addscript(66241768496751954879124387596624176840279565647,"LUCKY BLOCKS Battlegrounds [Inf Jump, Walkspeed]", "LUCKYBLOCKSBattlegroundsInfJumpWalkspeed", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LUCKYBLOCKSBattlegroundsInfJumpWalkspeed.lua")
                     
+    
+addscript(84583331391,"1 LIFE [Fast Farm Lvl]", "1LIFEFastFarmLvl", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/1LIFEFastFarmLvl.lua")
+                    
