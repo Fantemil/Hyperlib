@@ -1394,3 +1394,6 @@ addscript(10819593230,"SLICE PVP [Inf Healt, Spam Balls]", "SLICEPVPInfHealtSpam
 addscriptexist(2809202155, "YourBizarreAdventureClickTpSuperSpeed", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/YourBizarreAdventureClickTpSuperSpeed.lua")
                     
 addscriptexist(2860904296719118471981788929662860904290111958650, "ArsenalFlyAimbot", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ArsenalFlyAimbot.lua")
+    
+addscript(2727067538,"World // Zero [AutoFarm, Walkspeed]", "WorldZeroAutoFarmWalkspeed", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/WorldZeroAutoFarmWalkspeed.lua")
+                    
