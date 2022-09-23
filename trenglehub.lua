@@ -1370,3 +1370,5 @@ addscriptexist(2788229376, "DaHoodAutoFarmNoclip", "astrofile", "https://raw.git
     
 addscript(4809447488,"Venture Tale [AutoRetry, AutoReplay]", "VentureTaleAutoRetryAutoReplay", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/VentureTaleAutoRetryAutoReplay.lua")
                     
+                    
+addscriptexist(10676523834, "RacingRocketFarmPoints", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RacingRocketFarmPoints.lua")
