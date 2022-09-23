@@ -1384,3 +1384,6 @@ addscriptexist(1833648454, "SpeedRun4InfGemsAutoStars", "astrofile", "https://ra
     
 addscript(8260276694,"Ability Wars [Combat Bot]", "AbilityWarsCombatBot", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AbilityWarsCombatBot.lua")
                     
+    
+addscript(7986132460,"Cannon Simulator [Gives the alt a pet]", "CannonSimulatorGivesthealtapet", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CannonSimulatorGivesthealtapet.lua")
+                    
