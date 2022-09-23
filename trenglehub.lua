@@ -510,3 +510,6 @@ addscript(12242122772,"Mad City: Chapter 2 Loop Kill All", "MadCityChapter2LoopK
         
 addscript(9585537847,"SHADOVIS RPG ", "SHADOVISRPGGUIMultiFarmKillAuraMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SHADOVISRPGGUIMultiFarmKillAuraMore.lua")
                         
+        
+addscript(662417684,"Lucky Block Battlegrounds ", "LuckyBlockBattlegroundsBlockGiver", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LuckyBlockBattlegroundsBlockGiver.lua")
+                        
