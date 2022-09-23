@@ -958,8 +958,6 @@ addscriptexist(8737602449, "PLSDONATEClaimAnyStand", "astrofile", "https://raw.g
 
 addscriptexist(488667523, "ThoseWhoRemainItemsEsp", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ThoseWhoRemainItemsEsp.lua")
                         
-addscriptexist(6872265039, "BedWarsAutoFarmPirateCoins", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BedWarsAutoFarmPirateCoins.lua3.lua")
+
                         
-addscriptexist(6872265039, "BedWarsInstaKill", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BedWarsInstaKill.lua0.lua")
-                        
-addscriptexist(6872265039, "BedWarsInstaKill", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BedWarsInstaKill.lua2.lua")
+addscriptexist(6872265039, "BedWarsAutoFarmPirateCoins", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BedWarsAutoFarmPirateCoins.lua8.lua")
