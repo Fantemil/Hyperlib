@@ -507,3 +507,6 @@ addscript(317743886313,"Dragon Blox: Auto Quest, Auto Farm, AutoRebirth", "Drago
         
 addscript(6403373529,"Slap Battles: AutoFarm Slapples, Trap AutoFarm", "SlapBattlesAutoFarmSlapplesTrapAutoFarm", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SlapBattlesAutoFarmSlapplesTrapAutoFarm.lua")
                         
+        
+addscript(185655149,"Bloxburg: Automatic Pizza Delivery", "BloxburgAutomaticPizzaDelivery", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BloxburgAutomaticPizzaDelivery.lua")
+                        
