@@ -602,3 +602,6 @@ addscriptexist(662417684, "LuckyBlockBattlegroundsBlockGiver", "astrofile", "htt
     
 addscript(1803644552,"Survive The Disasters 2 ", "SurviveTheDisasters2Anticheatbypass", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SurviveTheDisasters2Anticheatbypass.lua")
                     
+    
+addscript(1428232912,"Murder Mystery 2 ", "MurderMystery2Fly", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MurderMystery2Fly.lua")
+                    
