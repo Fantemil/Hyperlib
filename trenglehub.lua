@@ -605,3 +605,6 @@ addscript(1803644552,"Survive The Disasters 2 ", "SurviveTheDisasters2Anticheatb
     
 addscript(1428232912,"Murder Mystery 2 ", "MurderMystery2Fly", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MurderMystery2Fly.lua")
                     
+    
+addscript(8302406789,"Anime Lifting Simulator ", "AnimeLiftingSimulatorAutoBuyEggsAutoLiftAutoSell", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AnimeLiftingSimulatorAutoBuyEggsAutoLiftAutoSell.lua")
+                    
