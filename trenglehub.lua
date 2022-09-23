@@ -1296,3 +1296,6 @@ addscriptexist(9585537847, "SHADOVISRPGAutoCollectKillAura", "astrofile", "https
     
 addscript(10710676163,"SPTS ", "SPTSOriginSpeedAndJumpFarm", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SPTSOriginSpeedAndJumpFarm.lua")
                     
+    
+addscript(196208686878333919453389484256619620868680703124385,"Tower of Hell [Fly, Walkspeed]", "TowerofHellFlyWalkspeed", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TowerofHellFlyWalkspeed.lua")
+                    
