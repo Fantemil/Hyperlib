@@ -1359,3 +1359,5 @@ addscript(4954752502,"Tower of Misery [Auto Farm - God Mode - Kill Player & More
                     
                     
 addscriptexist(7138009149, "PHIGHTINGNPCEsp", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PHIGHTINGNPCEsp.lua")
+                    
+addscriptexist(7138009149, "PHIGHTINGSemiGodMode", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PHIGHTINGSemiGodMode.lua")
