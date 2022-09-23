@@ -1162,3 +1162,6 @@ addscriptexist(2809202155, "YourBizarreAdventureItemFarmServerHop", "Terni", "ht
 addscriptexist(2753915549, "BloxFruitsBuyItemAutoFarm", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BloxFruitsBuyItemAutoFarm.lua")
                     
 addscriptexist(10439295403, "AnimeChampionsAutoFarm", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AnimeChampionsAutoFarm.lua")
+    
+addscript(10558210932,"The Test ", "TheTestWinMinigamePersonToKillChooseCorrectNumber", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TheTestWinMinigamePersonToKillChooseCorrectNumber.lua")
+                    
