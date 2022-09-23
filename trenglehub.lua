@@ -1050,3 +1050,6 @@ addscriptexist(6447798030, "FunkyFridayAutoPlayerHitchancesUnlockables", "astrof
     
 addscript(920587237,"Adopt Me! ", "AdoptMeAutoFarmFunFunctionsFly", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AdoptMeAutoFarmFunFunctionsFly.lua")
                     
+    
+addscript(10524502174,"One Punch Fighters Simulator ", "OnePunchFightersSimulatorAutoFarmAutoDeleteAutoBuy", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OnePunchFightersSimulatorAutoFarmAutoDeleteAutoBuy.lua")
+                    
