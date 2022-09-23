@@ -1337,3 +1337,6 @@ addscript(8540346411,"Rebirth Champions X [Auto Click, Auto Rebirth, Auto Open E
                     
                     
 addscriptexist(9498006165, "SlimeTowerTycoonAutoCollectAutobuySlimesAutoMerge", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SlimeTowerTycoonAutoCollectAutobuySlimesAutoMerge.lua")
+    
+addscript(10429088113,"Jump Race [Auto Win]", "JumpRaceAutoWin", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/JumpRaceAutoWin.lua")
+                    
