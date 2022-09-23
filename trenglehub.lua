@@ -1131,3 +1131,5 @@ addscript(756015605412,"Clicker Simulator ", "ClickerSimulatorAutoRebirthAutoCli
     
 addscript(5505830188,"Arcane Oblivion RPG ", "ArcaneOblivionRPGAutoBossAutoFarm", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ArcaneOblivionRPGAutoBossAutoFarm.lua")
                     
+                    
+addscriptexist(2753915549, "RobloxFEChainsaw", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RobloxFEChainsaw.lua")
