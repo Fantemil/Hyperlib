@@ -1027,3 +1027,6 @@ addscript(10275942471,"Color Race! ", "ColorRaceGetalotofWinsSpeed", "astrofile"
     
 addscript(8227619186,"Murder Mystery A ", "MurderMysteryAGemsAutoFarmWalkspeedInfJump", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MurderMysteryAGemsAutoFarmWalkspeedInfJump.lua")
                     
+    
+addscript(5490351219100,"Clicker Madness! ", "ClickerMadnessAutoFarmBossFarmClaimFlags", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ClickerMadnessAutoFarmBossFarmClaimFlags.lua")
+                    
