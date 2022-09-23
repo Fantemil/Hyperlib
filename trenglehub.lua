@@ -1397,3 +1397,6 @@ addscriptexist(2860904296719118471981788929662860904290111958650, "ArsenalFlyAim
     
 addscript(2727067538,"World // Zero [AutoFarm, Walkspeed]", "WorldZeroAutoFarmWalkspeed", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/WorldZeroAutoFarmWalkspeed.lua")
                     
+    
+addscript(718004268222,"Military Tycoon [AutoFarm Event]", "MilitaryTycoonAutoFarmEvent", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MilitaryTycoonAutoFarmEvent.lua")
+                    
