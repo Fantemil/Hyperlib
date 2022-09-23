@@ -1400,3 +1400,6 @@ addscript(2727067538,"World // Zero [AutoFarm, Walkspeed]", "WorldZeroAutoFarmWa
     
 addscript(718004268222,"Military Tycoon [AutoFarm Event]", "MilitaryTycoonAutoFarmEvent", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MilitaryTycoonAutoFarmEvent.lua")
                     
+    
+addscript(66241768496751954879124387596624176840279565647,"LUCKY BLOCKS Battlegrounds [Inf Jump, Walkspeed]", "LUCKYBLOCKSBattlegroundsInfJumpWalkspeed", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LUCKYBLOCKSBattlegroundsInfJumpWalkspeed.lua")
+                    
