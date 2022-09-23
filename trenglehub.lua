@@ -538,3 +538,5 @@ addscript(8737602449,"PLS DONATE ", "PLSDONATEClaimAnyStand", "astrofile", "http
     
 addscript(5783581,"TPS: Ultimate Soccer: Catch Ball, Release Ball, AutoRun", "TPSUltimateSoccerCatchBallReleaseBallAutoRun", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TPSUltimateSoccerCatchBallReleaseBallAutoRun.lua")
                     
+                    
+addscriptexist(2753915549, "BloxFruitsAutoFarmTeleportsAutoStats", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BloxFruitsAutoFarmTeleportsAutoStats.lua")
