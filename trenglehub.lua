@@ -1322,3 +1322,6 @@ addscript(8704181738,"Tien Tien Piece [Auto Farm Gems In Second Sea]", "TienTien
     
 addscript(5076734934,"Rooms [Hunting Status Check GUI]", "RoomsHuntingStatusCheckGUI", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RoomsHuntingStatusCheckGUI.lua")
                     
+    
+addscript(6884476776,"Friend Hangout [Crash - Get All Tools & More!]", "FriendHangoutCrashGetAllToolsMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FriendHangoutCrashGetAllToolsMore.lua")
+                    
