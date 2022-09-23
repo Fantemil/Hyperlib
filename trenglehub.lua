@@ -1354,3 +1354,6 @@ addscript(9744954014100,"THA HOOD!!! [Walkspeed, Godmode]", "THAHOODWalkspeedGod
     
 addscript(445664957,"Parkour [Inf Levels]", "ParkourInfLevels", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ParkourInfLevels.lua")
                     
+    
+addscript(4954752502,"Tower of Misery [Auto Farm - God Mode - Kill Player & More!]", "TowerofMiseryAutoFarmGodModeKillPlayerMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TowerofMiseryAutoFarmGodModeKillPlayerMore.lua")
+                    
