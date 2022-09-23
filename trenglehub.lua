@@ -936,3 +936,6 @@ addscriptexist(10320240572, "EasyRaceClickerFastAutoWinAutoRebirthAutoSpeed", "a
 addscriptexist(9992339729, "LongestAnswerWinsBlocksChanger", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LongestAnswerWinsBlocksChanger.lua")
                     
 addscriptexist(537413528, "BuildABoatForTreasureAutoFarm", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BuildABoatForTreasureAutoFarm.lua")
+    
+addscript(4616652839170,"Shindo Life ", "ShindoLifeAutofarmMobsAutoKeyPressInfiniteJump", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ShindoLifeAutofarmMobsAutoKeyPressInfiniteJump.lua")
+                    
