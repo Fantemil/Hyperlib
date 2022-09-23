@@ -1120,3 +1120,5 @@ addscript(9742783208,"Raise a Yippee ", "RaiseaYippeeAutoClickAutoFood", "astrof
     
 addscript(8891045283160,"Find The Bacons ", "FindTheBaconsGetAllBacons", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FindTheBaconsGetAllBacons.lua")
                     
+                    
+addscriptexist(2753915549, "RobloxGPUSaver", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RobloxGPUSaver.lua")
