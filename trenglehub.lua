@@ -984,3 +984,5 @@ addscript(1242235469,"ball and axe ", "ballandaxeUnlockYourAxeRemoveLimits", "Te
     
 addscript(94171973341,"Anime Story ", "AnimeStoryAutoFarmAutoQuest", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AnimeStoryAutoFarmAutoQuest.lua")
                     
+                    
+addscriptexist(6229116934, "HoopzGUIAimbotSilentAim", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/HoopzGUIAimbotSilentAim.lua")
