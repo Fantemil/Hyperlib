@@ -981,3 +981,6 @@ addscriptexist(10192063645, "ThyHoodAutoFarm", "Terni", "https://raw.githubuserc
     
 addscript(1242235469,"ball and axe ", "ballandaxeUnlockYourAxeRemoveLimits", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ballandaxeUnlockYourAxeRemoveLimits.lua")
                     
+    
+addscript(94171973341,"Anime Story ", "AnimeStoryAutoFarmAutoQuest", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AnimeStoryAutoFarmAutoQuest.lua")
+                    
