@@ -991,3 +991,6 @@ addscriptexist(2788229376, "DaHoodGUIAimLockSilentAimMore", "Terni", "https://ra
     
 addscript(8482451541,"Brick Defense ", "BrickDefenseAutoAddsTowersWhenReleased", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BrickDefenseAutoAddsTowersWhenReleased.lua")
                     
+    
+addscript(6874129651,"Vynixus Teleport Tool ", "VynixusTeleportToolWorksForJailbreakMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/VynixusTeleportToolWorksForJailbreakMore.lua")
+                    
