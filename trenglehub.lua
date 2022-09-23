@@ -1249,3 +1249,5 @@ addscriptexist(2788229376, "DaHoodNoClipAutoFarmFly", "Qalnik", "https://raw.git
     
 addscript(875420073650,"Roblox [Anti Afk]", "RobloxAntiAfk", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RobloxAntiAfk.lua")
                     
+                    
+addscriptexist(9648883891, "FestivalTycoonTpToChainmokers", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FestivalTycoonTpToChainmokers.lua")
