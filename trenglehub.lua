@@ -1308,3 +1308,5 @@ addscriptexist(10484095306100000, "CLIMB100000STAIRSTOVIPTeleporttoEnd", "Qalnik
     
 addscript(888433449730,"Mining Clicker Simulator [Auto Click, Auto Rebirth, Better GTX ]", "MiningClickerSimulatorAutoClickAutoRebirthBetterGTX", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MiningClickerSimulatorAutoClickAutoRebirthBetterGTX.lua")
                     
+                    
+addscriptexist(9431770682, "LostRoomsInfWhistlesFullbright", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LostRoomsInfWhistlesFullbright.lua")
