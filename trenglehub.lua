@@ -901,3 +901,5 @@ addscriptexist(10675066724, "SlimeTowerTycoonAutoObbyAutoFarm", "Terni", "https:
     
 addscript(9992339729,"Longest Answer Wins ", "LongestAnswerWinsInfiniteBlocks", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LongestAnswerWinsInfiniteBlocks.lua")
                     
+                    
+addscriptexist(2753915549, "BloxFruitsAutoFarmAutoQuestAutoSetSpawnPoint", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BloxFruitsAutoFarmAutoQuestAutoSetSpawnPoint.lua")
