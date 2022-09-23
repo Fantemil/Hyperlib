@@ -548,3 +548,6 @@ addscript(6516141723,"DOORS: Walkspeed, FullBright, FOV", "DOORSWalkspeedFullBri
     
 addscript(2580982329,"Texting Simulator: AutoFarm", "TextingSimulatorAutoFarm", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TextingSimulatorAutoFarm.lua")
                     
+    
+addscript(33516743038,"Driving Empire: AutoFarm, Jumppower, Antiafk", "DrivingEmpireAutoFarmJumppowerAntiafk", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DrivingEmpireAutoFarmJumppowerAntiafk.lua")
+                    
