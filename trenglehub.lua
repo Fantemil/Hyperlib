@@ -1408,3 +1408,5 @@ addscript(84583331391,"1 LIFE [Fast Farm Lvl]", "1LIFEFastFarmLvl", "Qalnik", "h
                     
                     
 addscriptexist(10676523834, "RacingRocketClickPower", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RacingRocketClickPower.lua")
+                    
+addscriptexist(9807416796, "DeHoodFastBuyAutoStomp", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DeHoodFastBuyAutoStomp.lua")
