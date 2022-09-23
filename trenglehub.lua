@@ -1348,3 +1348,6 @@ addscript(8130299583,"Trident Survival [GUI - Esp, Aimbot & More!]", "TridentSur
     
 addscript(10106105124,"Wheat Farming Simulator [Spawn Any Mythical Pet]", "WheatFarmingSimulatorSpawnAnyMythicalPet", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/WheatFarmingSimulatorSpawnAnyMythicalPet.lua")
                     
+    
+addscript(9744954014100,"THA HOOD!!! [Walkspeed, Godmode]", "THAHOODWalkspeedGodmode", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/THAHOODWalkspeedGodmode.lua")
+                    
