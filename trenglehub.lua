@@ -1288,3 +1288,6 @@ addscript(5712833750,"Animal Simulator ", "AnimalSimulatorUnlockCharacters", "as
                     
                     
 addscriptexist(5993942214, "RushPointEsp", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RushPointEsp.lua")
+    
+addscript(10207722290,"Lifting Legends Simulator [Auto Farm]", "LiftingLegendsSimulatorAutoFarm", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LiftingLegendsSimulatorAutoFarm.lua")
+                    
