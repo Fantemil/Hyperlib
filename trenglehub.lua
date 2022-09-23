@@ -950,3 +950,5 @@ addscriptexist(1428232912, "MurderMystery2SilentAimSpeedHaxKillAll", "astrofile"
 addscriptexist(4924922222, "BrookhavenRPTeleports", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BrookhavenRPTeleports.lua")
                     
 addscriptexist(3956818381, "NinjaLegendsAutoSwingAutoSellUnlockAllElements", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NinjaLegendsAutoSwingAutoSellUnlockAllElements.lua")
+                    
+addscriptexist(2860904296719118471981788929662860904290111958650, "ArsenalHitboxExpanderESP", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ArsenalHitboxExpanderESP.lua")
