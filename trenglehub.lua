@@ -507,3 +507,6 @@ addscript(185655149,"Bloxburg: Automatic Pizza Delivery", "BloxburgAutomaticPizz
         
 addscript(12242122772,"Mad City: Chapter 2 Loop Kill All", "MadCityChapter2LoopKillAll", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MadCityChapter2LoopKillAll.lua")
                         
+        
+addscript(9585537847,"SHADOVIS RPG ", "SHADOVISRPGGUIMultiFarmKillAuraMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SHADOVISRPGGUIMultiFarmKillAuraMore.lua")
+                        
