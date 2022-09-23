@@ -996,3 +996,5 @@ addscript(6874129651,"Vynixus Teleport Tool ", "VynixusTeleportToolWorksForJailb
                     
                     
 addscriptexist(537413528, "BuildABoatForTreasureGUIAutoFarmUtilitesMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BuildABoatForTreasureGUIAutoFarmUtilitesMore.lua")
+                    
+addscriptexist(1428232912, "MurderMystery2GUIGodModeKillAuraMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MurderMystery2GUIGodModeKillAuraMore.lua")
