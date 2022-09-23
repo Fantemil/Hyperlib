@@ -1387,3 +1387,6 @@ addscript(8260276694,"Ability Wars [Combat Bot]", "AbilityWarsCombatBot", "astro
     
 addscript(7986132460,"Cannon Simulator [Gives the alt a pet]", "CannonSimulatorGivesthealtapet", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CannonSimulatorGivesthealtapet.lua")
                     
+    
+addscript(10819593230,"SLICE PVP [Inf Healt, Spam Balls]", "SLICEPVPInfHealtSpamBalls", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SLICEPVPInfHealtSpamBalls.lua")
+                    
