@@ -1234,3 +1234,6 @@ addscript(3237168,"One Piece", "OnePieceLegendaryAutoStealFruitAutoStore", "astr
     
 addscript(85348450151,"Sakura Stand [Item Esp, Dummy Farm, DummyGod & More!]", "SakuraStandItemEspDummyFarmDummyGodMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SakuraStandItemEspDummyFarmDummyGodMore.lua")
                     
+    
+addscript(8962384769152,"Firework Simulator [AutoFarm, KillAura]", "FireworkSimulatorAutoFarmKillAura", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FireworkSimulatorAutoFarmKillAura.lua")
+                    
