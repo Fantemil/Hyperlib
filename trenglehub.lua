@@ -1111,3 +1111,6 @@ addscript(6610021055,"Noob Army Tycoon ", "NoobArmyTycoonInfiniteGems", "Terni",
                     
                     
 addscriptexist(9648883891, "FestivalTycoonInfiniteCashGetFreeItems", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FestivalTycoonInfiniteCashGetFreeItems.lua")
+    
+addscript(7138009149,"PHIGHTING! ", "PHIGHTINGInfiniteCash", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PHIGHTINGInfiniteCash.lua")
+                    
