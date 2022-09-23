@@ -1256,3 +1256,5 @@ addscriptexist(2753915549, "BloxFruitsAutoFarmAutoBoss", "astrofile", "https://r
     
 addscript(4588604953,"Criminality [Auto Block, Esp]", "CriminalityAutoBlockEsp", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CriminalityAutoBlockEsp.lua")
                     
+                    
+addscriptexist(8482451541, "BrickDefenseUnlockAllTowersInfiniteTix", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BrickDefenseUnlockAllTowersInfiniteTix.lua")
