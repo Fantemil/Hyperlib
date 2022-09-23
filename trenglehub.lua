@@ -884,3 +884,5 @@ addscript(10447882390,"Zombie Research Tycoon ", "ZombieResearchTycoonAutoCollec
     
 addscript(106311815871102,"Stone Miner Simulator 2 ", "StoneMinerSimulator2ClaimAllCodesClaimsAllloginRewards", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/StoneMinerSimulator2ClaimAllCodesClaimsAllloginRewards.lua")
                     
+                    
+addscriptexist(2788229376, "DaHoodCashCollectFlyNoclip", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DaHoodCashCollectFlyNoclip.lua")
