@@ -962,3 +962,5 @@ addscriptexist(488667523, "ThoseWhoRemainItemsEsp", "Terni", "https://raw.github
 
                     
 addscriptexist(6872265039, "BedWarsAutoFarmPirateCoins.lua", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BedWarsAutoFarmPirateCoins.lua")
+                    
+addscriptexist(6872265039, "BedWarsInstaKill.lua", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BedWarsInstaKill.lua")
