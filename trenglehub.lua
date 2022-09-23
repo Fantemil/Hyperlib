@@ -504,3 +504,6 @@ addscript(7419509075,"cart ride around used car batter: Teleports, Auto Coins, G
         
 addscript(317743886313,"Dragon Blox: Auto Quest, Auto Farm, AutoRebirth", "DragonBloxAutoQuestAutoFarmAutoRebirth", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DragonBloxAutoQuestAutoFarmAutoRebirth.lua")
                         
+        
+addscript(6403373529,"Slap Battles: AutoFarm Slapples, Trap AutoFarm", "SlapBattlesAutoFarmSlapplesTrapAutoFarm", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SlapBattlesAutoFarmSlapplesTrapAutoFarm.lua")
+                        
