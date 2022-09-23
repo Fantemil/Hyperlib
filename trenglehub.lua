@@ -967,3 +967,5 @@ addscriptexist(6872265039, "BedWarsInstaKill.lua", "Terni", "https://raw.githubu
     
 addscript(68722650396, "BedWars.lua", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BedWars.lua")
                     
+                    
+addscriptexist(4924922222, "BrookhavenRP.lua", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BrookhavenRP.lua")
