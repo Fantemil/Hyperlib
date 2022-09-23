@@ -1251,3 +1251,5 @@ addscript(875420073650,"Roblox [Anti Afk]", "RobloxAntiAfk", "Qalnik", "https://
                     
                     
 addscriptexist(9648883891, "FestivalTycoonTpToChainmokers", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FestivalTycoonTpToChainmokers.lua")
+                    
+addscriptexist(2753915549, "BloxFruitsAutoFarmAutoBoss", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BloxFruitsAutoFarmAutoBoss.lua")
