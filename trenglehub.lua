@@ -1125,3 +1125,6 @@ addscriptexist(2753915549, "RobloxGPUSaver", "Qalnik", "https://raw.githubuserco
     
 addscript(298400657,"Dragon Ball Final Remastered ", "DragonBallFinalRemasteredGUIInfiniteKiInfiniteStamina", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DragonBallFinalRemasteredGUIInfiniteKiInfiniteStamina.lua")
                     
+    
+addscript(756015605412,"Clicker Simulator ", "ClickerSimulatorAutoRebirthAutoClick", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ClickerSimulatorAutoRebirthAutoClick.lua")
+                    
