@@ -526,3 +526,6 @@ addscript(12242122772,"Mad City", "MadCityChapter2LoopKillAll", "Terni", "https:
                     
                     
 addscriptexist(2788229376, "DaHoodGUIAutoFarmFlyGodModeMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DaHoodGUIAutoFarmFlyGodModeMore.lua")
+    
+addscript(2533391464,"Snowman Simulator GUI", "SnowmanSimulatorGUIAutoFarmKillAllMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SnowmanSimulatorGUIAutoFarmKillAllMore.lua")
+                    
