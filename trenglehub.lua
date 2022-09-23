@@ -1240,3 +1240,5 @@ addscript(8962384769152,"Firework Simulator [AutoFarm, KillAura]", "FireworkSimu
     
 addscript(70757377296,"Hoop Central 6 ", "HoopCentral6AntiCheatBypasssBypassItemBypass", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/HoopCentral6AntiCheatBypasssBypassItemBypass.lua")
                     
+                    
+addscriptexist(6753004901, "SwingCityUnlockAllSkillsFarmMoneyExpFAST", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SwingCityUnlockAllSkillsFarmMoneyExpFAST.lua")
