@@ -1081,3 +1081,5 @@ addscript(6608498361,"cursed tank simulator ", "cursedtanksimulatorKillAllTanks"
     
 addscript(8894888083,"Pinata Legends ", "PinataLegendsInfinityGemsandCoins", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PinataLegendsInfinityGemsandCoins.lua")
                     
+                    
+addscriptexist(9992339729, "LongestAnswerWinsInfinityBlocks", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LongestAnswerWinsInfinityBlocks.lua")
