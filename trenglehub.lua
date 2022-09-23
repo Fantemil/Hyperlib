@@ -964,3 +964,5 @@ addscriptexist(9585537847, "SHADOVISRPGAutoCollectCubitsAutoRebirthKillAura", "a
     
 addscript(9049840490,"Sonic Speed Simulator ", "SonicSpeedSimulatorAutoWinRaceAutoRunAutoRebirth", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SonicSpeedSimulatorAutoWinRaceAutoRunAutoRebirth.lua")
                     
+                    
+addscriptexist(9264596435, "IdleHeroesSimulatorAutoHitAutoBuyHeroes", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/IdleHeroesSimulatorAutoHitAutoBuyHeroes.lua")
