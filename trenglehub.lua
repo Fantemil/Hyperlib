@@ -1414,3 +1414,5 @@ addscriptexist(9807416796, "DeHoodFastBuyAutoStomp", "astrofile", "https://raw.g
 addscriptexist(47796130612, "RoadmanAshuraMoneyFarm", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RoadmanAshuraMoneyFarm.lua")
                     
 addscriptexist(9431770682, "LostRoomsCollectMaterials", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LostRoomsCollectMaterials.lua")
+                    
+addscriptexist(5505830188, "ArcaneOblivionRPG30QnDDamageWeapon", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ArcaneOblivionRPG30QnDDamageWeapon.lua")
