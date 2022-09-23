@@ -1144,3 +1144,5 @@ addscript(6067244110102,"Flood Escape 2 Ultimate ", "FloodEscape2UltimateAutoFar
     
 addscript(10647156264,"Become a Nextbot ", "BecomeaNextbotTeleportsWalkspeedGetRareNextbots", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BecomeaNextbotTeleportsWalkspeedGetRareNextbots.lua")
                     
+                    
+addscriptexist(94171973341, "AnimeStoryAutoFarmSemiInstantKill", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AnimeStoryAutoFarmSemiInstantKill.lua")
