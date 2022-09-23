@@ -510,3 +510,6 @@ addscript(6403373529,"Slap Battles: AutoFarm Slapples, Trap AutoFarm", "SlapBatt
         
 addscript(185655149,"Bloxburg: Automatic Pizza Delivery", "BloxburgAutomaticPizzaDelivery", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BloxburgAutomaticPizzaDelivery.lua")
                         
+        
+addscript(12242122772,"Mad City: Chapter 2 Loop Kill All", "MadCityChapter2LoopKillAll", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MadCityChapter2LoopKillAll.lua")
+                        
