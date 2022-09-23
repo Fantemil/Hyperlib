@@ -1379,3 +1379,5 @@ addscript(30178705742,"2 Player Evolution Tycoon [Auto Farm]", "2PlayerEvolution
                     
                     
 addscriptexist(10676523834, "RacingRocketFarmStarFast", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RacingRocketFarmStarFast.lua")
+                    
+addscriptexist(1833648454, "SpeedRun4InfGemsAutoStars", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SpeedRun4InfGemsAutoStars.lua")
