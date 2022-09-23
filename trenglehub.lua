@@ -1078,3 +1078,6 @@ addscriptexist(8146731988, "UltraPowerTycoonAutoCollectAutoBuyWalkspeed", "astro
     
 addscript(6608498361,"cursed tank simulator ", "cursedtanksimulatorKillAllTanks", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/cursedtanksimulatorKillAllTanks.lua")
                     
+    
+addscript(8894888083,"Pinata Legends ", "PinataLegendsInfinityGemsandCoins", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PinataLegendsInfinityGemsandCoins.lua")
+                    
