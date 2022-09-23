@@ -959,3 +959,5 @@ addscriptexist(1428232912, "MurderMystery2KillAllKillSheriffGodModeSilentAim", "
     
 addscript(335760407,"TPS", "TPSUltimateSoccerInfStaminaAutoGKReach", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TPSUltimateSoccerInfStaminaAutoGKReach.lua")
                     
+                    
+addscriptexist(9585537847, "SHADOVISRPGAutoCollectCubitsAutoRebirthKillAura", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SHADOVISRPGAutoCollectCubitsAutoRebirthKillAura.lua")
