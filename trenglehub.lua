@@ -1188,3 +1188,6 @@ addscript(9112775301,"Da Hood Fights l Auto Steal", "DaHoodFightslAutoSteal", "a
                     
                     
 addscriptexist(2860904296719118471981788929662860904290111958650, "ArsenalESP", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ArsenalESP.lua")
+    
+addscript(1343871267,"Fredbear's Mega Roleplay ", "FredbearsMegaRoleplayTransformAllMutatePlayerorallAnimatronic", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FredbearsMegaRoleplayTransformAllMutatePlayerorallAnimatronic.lua")
+                    
