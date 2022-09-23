@@ -1183,3 +1183,6 @@ addscript(9814637986,"Slap Battles", "SlapBattlesAverageFanMadeKillGivePanelKick
                     
                     
 addscriptexist(6403373529, "SlapBattlesKillAuraAntiChaseAntiRagdollNoTimeStop", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SlapBattlesKillAuraAntiChaseAntiRagdollNoTimeStop.lua")
+    
+addscript(9112775301,"Da Hood Fights l Auto Steal", "DaHoodFightslAutoSteal", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DaHoodFightslAutoSteal.lua")
+                    
