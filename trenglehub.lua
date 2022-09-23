@@ -586,3 +586,6 @@ addscriptexist(621129760, "KnifeAbilityTestWalkspeedInfYieldAutoThrow", "astrofi
     
 addscript(8203181639,"Syrian Shenanigans ", "SyrianShenanigansInfAmmo", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SyrianShenanigansInfAmmo.lua")
                     
+    
+addscript(5610197459,"gang up on people simulator", "ganguponpeoplesimulator", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ganguponpeoplesimulator.lua")
+                    
