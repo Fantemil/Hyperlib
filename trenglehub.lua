@@ -1968,3 +1968,5 @@ addscriptexist(286090429, "ArsenalKillAllInvisible", "astrofile", "https://raw.g
     
 addscript(6766156863,"Strongman Simulator [Anti Afk, AutoRebirth]", "StrongmanSimulatorAntiAfkAutoRebirth", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/StrongmanSimulatorAntiAfkAutoRebirth.lua")
                     
+                    
+addscriptexist(5956785391, "ProjectSlayersAutoFarmFishFarmInfstamina", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ProjectSlayersAutoFarmFishFarmInfstamina.lua")
