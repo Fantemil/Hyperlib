@@ -7870,3 +7870,5 @@ addscriptexist(4855457388, "DemonfallFrostOniFarmFlyMore", "rbxscript", "https:/
     
 addscript(86322978,"Ultimate Random Night 0.9.3 [God Guard / UnGod]", "UltimateRandomNight093GodGuardUnGod", "rbxscript", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/UltimateRandomNight093GodGuardUnGod.lua")
                     
+                    
+addscriptexist(4855457388, "DemonfallOreFarmTrinketFarm", "rbxscript", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DemonfallOreFarmTrinketFarm.lua")
