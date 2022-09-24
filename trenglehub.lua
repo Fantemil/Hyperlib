@@ -2223,3 +2223,6 @@ addscript(2413927524,"The Rake REMASTERED [Notifications, Esp]", "TheRakeREMASTE
     
 addscript(10386774046,"Legend Magician [Insane Reach]", "LegendMagicianInsaneReach", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LegendMagicianInsaneReach.lua")
                     
+    
+addscript(9531918774,"mid eastern conflict sim [Inf Ammo]", "mideasternconflictsimInfAmmo", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/mideasternconflictsimInfAmmo.lua")
+                    
