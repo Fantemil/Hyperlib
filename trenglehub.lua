@@ -5459,3 +5459,6 @@ addscriptexist(5620664339, "RoStreetsAutoFarm", "Terni", "https://raw.githubuser
 addscriptexist(7952502098, "ImpossibleGlassBridgeObbyRemoveAllBadGlass", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ImpossibleGlassBridgeObbyRemoveAllBadGlass.lua")
                     
 addscriptexist(9508087919, "ApeirophobiaFreeESP–NoKeySystem", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ApeirophobiaFreeESP–NoKeySystem.lua")
+    
+addscript(8589310348,"Glory Kill Testing [Gamepass Tools]", "GloryKillTestingGamepassTools", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/GloryKillTestingGamepassTools.lua")
+                    
