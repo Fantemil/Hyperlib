@@ -3170,3 +3170,5 @@ addscript(654732683,"Car Crushers 2 [Auto Farm, GamePass, No Ragdoll]", "CarCrus
     
 addscript(1629847577,"Dragon Ball N [No CoolDown ]", "DragonBallNNoCoolDown", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DragonBallNNoCoolDown.lua")
                     
+                    
+addscriptexist(6284583030, "PetSimulatorXBanBypass", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PetSimulatorXBanBypass.lua")
