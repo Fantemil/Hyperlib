@@ -8725,3 +8725,6 @@ addscriptexist(5233268561, "ABizarreJourneyKILLAURA", "Terni", "https://raw.gith
 addscriptexist(2753915549, "BloxFruitsAUTOFARMTPTONPC", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BloxFruitsAUTOFARMTPTONPC.lua")
                     
 addscriptexist(6447798030, "FunkyFridayNEWAUTOPLAYER", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FunkyFridayNEWAUTOPLAYER.lua")
+    
+addscript(7239452266,"Pop It Simulator [Auto Farm, Tp, Fps Boost]", "PopItSimulatorAutoFarmTpFpsBoost", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PopItSimulatorAutoFarmTpFpsBoost.lua")
+                    
