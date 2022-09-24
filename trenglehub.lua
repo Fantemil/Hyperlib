@@ -5893,3 +5893,6 @@ addscript(6704278765,"Dolo Tonight Concert Experience [Collect All eyes]", "Dolo
                     
                     
 addscriptexist(1240644540, "VampireHunters3VampireEsp", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/VampireHunters3VampireEsp.lua")
+    
+addscript(10472623094,"Logitech Song Breaker Awards [Collect All Coins – And More GUI!]", "LogitechSongBreakerAwardsCollectAllCoins–AndMoreGUI", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LogitechSongBreakerAwardsCollectAllCoins–AndMoreGUI.lua")
+                    
