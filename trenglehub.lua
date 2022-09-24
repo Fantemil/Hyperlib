@@ -2772,3 +2772,5 @@ addscriptexist(9498006165, "TappingSimulatorAutoFarmSkipShinyStage", "Terni", "h
     
 addscript(23578803,"Hotel Elephant [Infinite Money]", "HotelElephantInfiniteMoney", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/HotelElephantInfiniteMoney.lua")
                     
+                    
+addscriptexist(2534724415, "EmergencyResponseLibertyCountyNoRecoil", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/EmergencyResponseLibertyCountyNoRecoil.lua")
