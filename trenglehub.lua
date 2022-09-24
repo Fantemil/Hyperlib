@@ -7002,3 +7002,5 @@ addscriptexist(7797478022, "BrokenBonesSimulatorInfiniteCash", "Terni", "https:/
     
 addscript(5771467270,"TTD 3 [AntiCheat Bypass]", "TTD3AntiCheatBypass", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TTD3AntiCheatBypass.lua")
                     
+                    
+addscriptexist(8260276694, "AbilityWarsGUIKillAllMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AbilityWarsGUIKillAllMore.lua")
