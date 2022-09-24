@@ -8773,3 +8773,5 @@ addscriptexist(2716845201, "WarriorSimulatorCoinsFarmNPCFarmTp", "Qalnik", "http
 addscriptexist(6905196703, "2PlayerHackerTycoonAllweapons", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/2PlayerHackerTycoonAllweapons.lua")
                     
 addscriptexist(891852901, "Greenville", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Greenville.lua")
+                    
+addscriptexist(7711545622, "TheFashionAwards2021Swords", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TheFashionAwards2021Swords.lua")
