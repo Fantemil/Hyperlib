@@ -7445,3 +7445,5 @@ addscriptexist(8448735476, "dbzadventuresunleashedAutoAttackAutoSkillsAutoQuest"
 addscriptexist(2866967438, "FishingSimulatorKillMonsterKillMobbyAutoSell", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FishingSimulatorKillMonsterKillMobbyAutoSell.lua")
                     
 addscriptexist(8523408215, "AloSanctuaryOrbCollectorEventGetAFreeCap", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AloSanctuaryOrbCollectorEventGetAFreeCap.lua")
+                    
+addscriptexist(2788229376, "DaHoodFlyAutoBuyTeleports", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DaHoodFlyAutoBuyTeleports.lua")
