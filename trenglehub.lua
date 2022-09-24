@@ -2910,3 +2910,5 @@ addscriptexist(9157870347, "PetAdventuresSimulatorAutoCollectAutoFarmAutoHatch",
 addscriptexist(6114972958, "InitialDTougeLegendsUnlockkAllCarsWalkSpeedJumpPower", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/InitialDTougeLegendsUnlockkAllCarsWalkSpeedJumpPower.lua")
                     
 addscriptexist(445664957, "ParkourGodmodeInfiniteWalkBoostInfiniteAdrenaline", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ParkourGodmodeInfiniteWalkBoostInfiniteAdrenaline.lua")
+                    
+addscriptexist(7655745946, "DunkingSimulatorGamepass", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DunkingSimulatorGamepass.lua")
