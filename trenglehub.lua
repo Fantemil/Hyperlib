@@ -5498,3 +5498,5 @@ addscript(6622795055,"Berkeley County, Concord [Client Anti Cheat Bypass]", "Ber
     
 addscript(8377686524,"Undertale", "UndertaleLastResetAutofarm", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/UndertaleLastResetAutofarm.lua")
                     
+                    
+addscriptexist(6679274937, "VansWorldMaxLevelOpenSourse", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/VansWorldMaxLevelOpenSourse.lua")
