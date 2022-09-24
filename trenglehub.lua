@@ -2724,3 +2724,5 @@ addscript(147536429,"Field Of Battle [Kill General]", "FieldOfBattleKillGeneral"
     
 addscript(6720959312,"LootQuest [BETA] [Anti Afk & Auto Fuse]", "LootQuestBETAAntiAfkAutoFuse", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LootQuestBETAAntiAfkAutoFuse.lua")
                     
+                    
+addscriptexist(9285238704, "RaceClickerAutoRaceGUI", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RaceClickerAutoRaceGUI.lua")
