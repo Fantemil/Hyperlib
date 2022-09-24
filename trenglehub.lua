@@ -4211,3 +4211,5 @@ addscript(504090542,"Battleship Battle [Kill All]", "BattleshipBattleKillAll", "
     
 addscript(6155643742,"Fall Block [Click To Activate Tiles Tool]", "FallBlockClickToActivateTilesTool", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FallBlockClickToActivateTilesTool.lua")
                     
+                    
+addscriptexist(6155643742, "FallBlockRuinGame", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FallBlockRuinGame.lua")
