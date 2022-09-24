@@ -2793,3 +2793,6 @@ addscript(8317588085,"Block Tycoon [Cheaper shop]", "BlockTycoonCheapershop", "Q
                     
                     
 addscriptexist(537413528, "BestBuildABoatForTreasureAutoFarmTp", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BestBuildABoatForTreasureAutoFarmTp.lua")
+    
+addscript(155382109,"Survive and Kill the Killers in Area 51 [Infinite ammo (legit and not), Nerf Killers, Restore Ammo]", "SurviveandKilltheKillersinArea51InfiniteammolegitandnotNerfKillersRestoreAmmo", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SurviveandKilltheKillersinArea51InfiniteammolegitandnotNerfKillersRestoreAmmo.lua")
+                    
