@@ -6053,3 +6053,5 @@ addscriptexist(8492553855, "ProjectUprightInvisible", "Terni", "https://raw.gith
 addscriptexist(1458767429, "ABAItadoriAutoBlockFlash", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ABAItadoriAutoBlockFlash.lua")
                     
 addscriptexist(1458767429, "ABANEXHUB–AutoPlayInArena–AutoTargetPlayers", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ABANEXHUB–AutoPlayInArena–AutoTargetPlayers.lua")
+                    
+addscriptexist(4588604953, "CriminalityWallbang", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CriminalityWallbang.lua")
