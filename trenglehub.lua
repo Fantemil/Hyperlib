@@ -2315,3 +2315,5 @@ addscript(2039118386,"Neighborhood war [Anti Ragdoll, No fall dmg]", "Neighborho
                     
                     
 addscriptexist(10524502174, "OnePunchFightersAutoFarmAutoRank", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OnePunchFightersAutoFarmAutoRank.lua")
+                    
+addscriptexist(2753915549, "BloxFruitsAutoFarmBeli", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BloxFruitsAutoFarmBeli.lua")
