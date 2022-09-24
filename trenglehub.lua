@@ -5921,3 +5921,6 @@ addscriptexist(8705534359, "ShoppingCartSimulatorInfiniteCoins", "Terni", "https
     
 addscript(8519700776,"SKYWARS PvP [Kill All Instantly]", "SKYWARSPvPKillAllInstantly", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SKYWARSPvPKillAllInstantly.lua")
                     
+    
+addscript(8874040270,"SKYWARS PRO 2 [Kill All]", "SKYWARSPRO2KillAll", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SKYWARSPRO2KillAll.lua")
+                    
