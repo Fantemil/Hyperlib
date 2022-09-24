@@ -4511,3 +4511,6 @@ addscriptexist(301549746, "CounterBloxGodModeCrashServer", "Terni", "https://raw
     
 addscript(8448735476,"Anime Rifts [GUI - Auto Farm, Insta Kill]", "AnimeRiftsGUIAutoFarmInstaKill", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AnimeRiftsGUIAutoFarmInstaKill.lua")
                     
+    
+addscript(5951002734,"Project Baki 2 [GUI - Auto Farm, Auto Punch & More!]", "ProjectBaki2GUIAutoFarmAutoPunchMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ProjectBaki2GUIAutoFarmAutoPunchMore.lua")
+                    
