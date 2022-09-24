@@ -4465,3 +4465,5 @@ addscript(5620664339,"RoStreets [Auto Collect]", "RoStreetsAutoCollect", "Terni"
                     
                     
 addscriptexist(292439477, "PhantomForcesHinglightEspChams", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PhantomForcesHinglightEspChams.lua")
+                    
+addscriptexist(2809202155, "YourBizarreAdventureAutoFarmItemsAutoQuestAndMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/YourBizarreAdventureAutoFarmItemsAutoQuestAndMore.lua")
