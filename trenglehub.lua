@@ -2008,3 +2008,5 @@ addscript(4490140733,"My Restaurant! [Auto Farm, Money Farm]", "MyRestaurantAuto
     
 addscript(6677573193,"Axe Champions Simulator [AutoSell, AutoHatch]", "AxeChampionsSimulatorAutoSellAutoHatch", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AxeChampionsSimulatorAutoSellAutoHatch.lua")
                     
+                    
+addscriptexist(9414511685, "DriveCarsDownAHillAutoFarm", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DriveCarsDownAHillAutoFarm.lua")
