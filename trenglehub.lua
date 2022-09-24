@@ -5953,3 +5953,5 @@ addscript(386329050,"The Black Mesλ Incident [All guns]", "TheBlackMesλInciden
 addscriptexist(5233782396, "CreaturesofSonariaSpamBiteEasterBoss", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CreaturesofSonariaSpamBiteEasterBoss.lua")
                     
 addscriptexist(5543622168, "CriticalTowerDefenseEquipSecretUnit", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CriticalTowerDefenseEquipSecretUnit.lua")
+                    
+addscriptexist(5543622168, "CriticalTowerDefenseGetSecretUnit", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CriticalTowerDefenseGetSecretUnit.lua")
