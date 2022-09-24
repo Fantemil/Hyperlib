@@ -2275,3 +2275,6 @@ addscript(9940051005,"Blox Legends [AutoCollect]", "BloxLegendsAutoCollect", "as
                     
                     
 addscriptexist(9498006165, "TappingSimulatorAutoClicker", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TappingSimulatorAutoClicker.lua")
+    
+addscript(2817130270,"Digging Simulator [Inf Bag, Inf Money]", "DiggingSimulatorInfBagInfMoney", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DiggingSimulatorInfBagInfMoney.lua")
+                    
