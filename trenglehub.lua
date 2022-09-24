@@ -7215,3 +7215,5 @@ addscript(2961297129,"Death Zone [Item ESP - Base Noclip - Walkspeed]", "DeathZo
 addscriptexist(4996049426, "AllStarTowerDefenseAutoJoimExtremeGoWorld", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AllStarTowerDefenseAutoJoimExtremeGoWorld.lua")
                     
 addscriptexist(189707, "NaturalDisasterSurvivalAutoWinNoFallDamageVopeMap", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NaturalDisasterSurvivalAutoWinNoFallDamageVopeMap.lua")
+                    
+addscriptexist(5910449407, "ProjectMenacingGodMode", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ProjectMenacingGodMode.lua")
