@@ -5663,3 +5663,6 @@ addscript(6193049807,"Tha Hood [Money Farm]", "ThaHoodMoneyFarm", "Terni", "http
     
 addscript(2996067865,"th3ltgrounds [Kill All]", "th3ltgroundsKillAll", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/th3ltgroundsKillAll.lua")
                     
+    
+addscript(6904735821,"Shoe Simulator [Auto Shoe - Auto Sell & More!]", "ShoeSimulatorAutoShoeAutoSellMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ShoeSimulatorAutoShoeAutoSellMore.lua")
+                    
