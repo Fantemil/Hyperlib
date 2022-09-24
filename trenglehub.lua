@@ -4047,3 +4047,5 @@ addscriptexist(6678877691, "ZOぞSAMURAITeleportAura", "Terni", "https://raw.git
     
 addscript(447452406,"Robloxian High School [Trash Bag Spam]", "RobloxianHighSchoolTrashBagSpam", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RobloxianHighSchoolTrashBagSpam.lua")
                     
+                    
+addscriptexist(606849621, "JailbreakGUIVehiclesSettingsMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/JailbreakGUIVehiclesSettingsMore.lua")
