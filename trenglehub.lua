@@ -5567,3 +5567,5 @@ addscript(3597632410,"Plants vs Zombies Garden Problem [Unlock All]", "PlantsvsZ
                     
                     
 addscriptexist(4588604953, "CriminalityAutoLockpick", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CriminalityAutoLockpick.lua")
+                    
+addscriptexist(4588604953, "CriminalityHitboxExtender", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CriminalityHitboxExtender.lua")
