@@ -1991,3 +1991,6 @@ addscript(8204899140,"Football Fusion 2 [Auto Catch, FootballLock, Auto Captain]
 addscriptexist(2788229376, "DaHoodLegitAimlock", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DaHoodLegitAimlock.lua")
                     
 addscriptexist(2248408710, "DestructionSimulatorSpinplayerWalkspeed", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DestructionSimulatorSpinplayerWalkspeed.lua")
+    
+addscript(5293755937,"Speed Run Simulator [AutoRebirth, AutoOrbs]", "SpeedRunSimulatorAutoRebirthAutoOrbs", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SpeedRunSimulatorAutoRebirthAutoOrbs.lua")
+                    
