@@ -3044,3 +3044,6 @@ addscript(4556148591,"Blackout [GUI - Get Any Weapon Free]", "BlackoutGUIGetAnyW
     
 addscript(9290611413,"Roblox [Smooth Blocks]", "RobloxSmoothBlocks", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RobloxSmoothBlocks.lua")
                     
+    
+addscript(10370253487,"You Can't Say That Again [Spam Chat]", "YouCantSayThatAgainSpamChat", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/YouCantSayThatAgainSpamChat.lua")
+                    
