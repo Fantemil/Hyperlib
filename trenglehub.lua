@@ -4321,3 +4321,5 @@ addscriptexist(4459593483, "FORCENoFall", "Terni", "https://raw.githubuserconten
 addscriptexist(7211666966, "TowerOfJumpAutoFarmNonServerHop", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TowerOfJumpAutoFarmNonServerHop.lua")
                     
 addscriptexist(621129760, "KATGUIAutoFarmBtoolsMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/KATGUIAutoFarmBtoolsMore.lua")
+                    
+addscriptexist(9568982793, "DaHoodBattlegroundsSilentAimbot", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DaHoodBattlegroundsSilentAimbot.lua")
