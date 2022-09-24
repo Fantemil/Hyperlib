@@ -7377,3 +7377,5 @@ addscript(9528010,"Blood & Iron [Anticheat Bypass]", "BloodIronAnticheatBypass",
     
 addscript(6166086846,"Street Sweeper [One Punch And Hitboxes]", "StreetSweeperOnePunchAndHitboxes", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/StreetSweeperOnePunchAndHitboxes.lua")
                     
+                    
+addscriptexist(7114303730, "DragonOrbzAutoFarmWithAutoQuest", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DragonOrbzAutoFarmWithAutoQuest.lua")
