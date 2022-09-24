@@ -7312,3 +7312,5 @@ addscriptexist(5023820864, "TradeTowerAutoMoneyFarmAutoSellAutoClickUpgrade", "Q
 addscriptexist(3956818381, "NinjaLegendsAutoBuyAutoFarmInfiteJump", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NinjaLegendsAutoBuyAutoFarmInfiteJump.lua")
                     
 addscriptexist(3956818381, "NinjaLegendsAutoSwingAutoSellBuySwords", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NinjaLegendsAutoSwingAutoSellBuySwords.lua")
+                    
+addscriptexist(662417684, "LUCKYBLOCKSAutoLuckBlockAutoGalaxyBlockTeleport", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LUCKYBLOCKSAutoLuckBlockAutoGalaxyBlockTeleport.lua")
