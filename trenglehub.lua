@@ -7850,3 +7850,5 @@ addscript(7232779505,"Type Race [Auto Type]", "TypeRaceAutoType", "rbxscript", "
 addscriptexist(1537690962, "BeeSwarmSimulatorRedeemCodes", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BeeSwarmSimulatorRedeemCodes.lua")
                     
 addscriptexist(7993293100, "TsunamiGameFarmPointsWins", "rbxscript", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TsunamiGameFarmPointsWins.lua")
+                    
+addscriptexist(7560156054, "ClickerSimulatorAutoRebirth", "rbxscript", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ClickerSimulatorAutoRebirth.lua")
