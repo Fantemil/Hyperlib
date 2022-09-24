@@ -5811,3 +5811,6 @@ addscriptexist(9049840490, "SonicSpeedSimulatorAutoRunAutorebirthsAutoWinRace", 
 addscriptexist(4616652839, "ShindoLifeInfiniteSpinsGetAnyBloodline", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ShindoLifeInfiniteSpinsGetAnyBloodline.lua")
                     
 addscriptexist(1224212277, "MadCityAutoXpEasyLevel100", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MadCityAutoXpEasyLevel100.lua")
+    
+addscript(9136292138,"Grand Pirates [Mob Farm, Auto Quest, Farm Chests]", "GrandPiratesMobFarmAutoQuestFarmChests", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/GrandPiratesMobFarmAutoQuestFarmChests.lua")
+                    
