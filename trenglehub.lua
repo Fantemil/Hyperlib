@@ -8642,3 +8642,6 @@ addscript(5228496215,"Remote Spy", "RemoteSpy", "Terni", "https://raw.githubuser
 addscriptexist(4566572536, "VehicleLegendsAutoFarm", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/VehicleLegendsAutoFarm.lua")
                     
 addscriptexist(920587237, "AdoptMeGingerBreadAutoFarm", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AdoptMeGingerBreadAutoFarm.lua")
+    
+addscript(6905196703,"2 Player Hacker Tycoon [ALL WEAPONS]", "2PlayerHackerTycoonALLWEAPONS", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/2PlayerHackerTycoonALLWEAPONS.lua")
+                    
