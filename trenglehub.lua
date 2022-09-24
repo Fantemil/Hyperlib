@@ -6176,3 +6176,5 @@ addscript(7186363515,"A Legacy Time [Kill Aura]", "ALegacyTimeKillAura", "Terni"
 addscriptexist(9300407930, "BotClashGet4MillionCoinsForFree", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BotClashGet4MillionCoinsForFree.lua")
                     
 addscriptexist(1224212277, "MadCityDiamondHUBAutoRob", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MadCityDiamondHUBAutoRob.lua")
+                    
+addscriptexist(4042427666, "AnimeFightingSimulatorChikaraYenGenerator", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AnimeFightingSimulatorChikaraYenGenerator.lua")
