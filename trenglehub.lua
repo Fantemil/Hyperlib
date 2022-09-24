@@ -3182,3 +3182,5 @@ addscript(5683833663,"Ragdoll Engine [Loop Push All]", "RagdollEngineLoopPushAll
                     
                     
 addscriptexist(5956785391, "ProjectSlayersKillAuraFarmsInvisible", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ProjectSlayersKillAuraFarmsInvisible.lua")
+                    
+addscriptexist(6468323505, "SpellboundMagicRPGInfMoney", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SpellboundMagicRPGInfMoney.lua")
