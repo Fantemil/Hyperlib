@@ -7356,3 +7356,6 @@ addscript(3398014311,"Restaurant Tycoon 2 [AutoCollect Money Plates, Fast Servic
     
 addscript(4632627223,"Black Grimoire [Level 1 - 999 In 2 Hours]", "BlackGrimoireLevel1999In2Hours", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BlackGrimoireLevel1999In2Hours.lua")
                     
+    
+addscript(5171347293,"Cabin Crew Simulator [Infinite Money]", "CabinCrewSimulatorInfiniteMoney", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CabinCrewSimulatorInfiniteMoney.lua")
+                    
