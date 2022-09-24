@@ -2171,3 +2171,5 @@ addscript(3376769145,"Dragon Ball Warriors [Use the best form]", "DragonBallWarr
                     
                     
 addscriptexist(10243982775, "RedBox2QuickswapweaponsMartyrdom", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RedBox2QuickswapweaponsMartyrdom.lua")
+                    
+addscriptexist(8750997647, "TappingLegendsXAutoTapAutoRebirthAutoclicker", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TappingLegendsXAutoTapAutoRebirthAutoclicker.lua")
