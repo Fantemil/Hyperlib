@@ -7782,3 +7782,6 @@ addscript(2473334918,"Gas Station Simulator [Gas Seller, Teleport]", "GasStation
 addscriptexist(7056922815, "Reaper2AutoFarmAutoQuestAutoEat", "rbxscript", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Reaper2AutoFarmAutoQuestAutoEat.lua")
                     
 addscriptexist(6125809531, "UntitledAttackOnTitanInfiniteGasInfiniteBladesDrawRussianFlag", "rbxscript", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/UntitledAttackOnTitanInfiniteGasInfiniteBladesDrawRussianFlag.lua")
+    
+addscript(7290417439,"Slayer Life [Insta Kill]", "SlayerLifeInstaKill", "rbxscript", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SlayerLifeInstaKill.lua")
+                    
