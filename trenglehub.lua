@@ -2620,3 +2620,5 @@ addscriptexist(6766156863, "StrongmanSimulatorAutoFarmEnergyMore", "Terni", "htt
     
 addscript(5939428933,"Crewmates! (Among Us) [Remove Backpack & More!]", "CrewmatesAmongUsRemoveBackpackMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CrewmatesAmongUsRemoveBackpackMore.lua")
                     
+                    
+addscriptexist(4872321990, "IslandsAutoCoollectNearbyItems", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/IslandsAutoCoollectNearbyItems.lua")
