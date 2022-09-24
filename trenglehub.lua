@@ -4712,3 +4712,6 @@ addscript(112420803,"Kohls Admin House [GUI - Commands]", "KohlsAdminHouseGUICom
     
 addscript(9249776514,"Givenchy Beauty House [Finish The Event Quest]", "GivenchyBeautyHouseFinishTheEventQuest", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/GivenchyBeautyHouseFinishTheEventQuest.lua")
                     
+    
+addscript(1382113806,"Silent Assassin [Assassin ESP]", "SilentAssassinAssassinESP", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SilentAssassinAssassinESP.lua")
+                    
