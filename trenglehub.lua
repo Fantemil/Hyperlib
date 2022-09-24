@@ -6720,3 +6720,5 @@ addscript(6186926816,"Tapping Kingdom [Inf pet storage]", "TappingKingdomInfpets
 addscriptexist(654732683, "CarCrusher2CoreControlGUI", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CarCrusher2CoreControlGUI.lua")
                     
 addscriptexist(4111023553, "DeepwokenAntiAcid", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DeepwokenAntiAcid.lua")
+                    
+addscriptexist(2753915549, "BloxFruitsAutoFarmBoneFarmBossDropFruit", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BloxFruitsAutoFarmBoneFarmBossDropFruit.lua")
