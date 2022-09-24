@@ -4925,3 +4925,6 @@ addscriptexist(6804602922, "BoxingLegendsAimBotTriggerbotESP", "Qalnik", "https:
     
 addscript(5543622168,"Critical Tower Defense [Equip Hot Rash]", "CriticalTowerDefenseEquipHotRash", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CriticalTowerDefenseEquipHotRash.lua")
                     
+    
+addscript(9461798258,"Raise a Granny [INF Money]", "RaiseaGrannyINFMoney", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RaiseaGrannyINFMoney.lua")
+                    
