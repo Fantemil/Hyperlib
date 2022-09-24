@@ -2839,3 +2839,5 @@ addscriptexist(9796315265, "StreetzWarAntiCheatBypass", "Terni", "https://raw.gi
     
 addscript(7120576005,"Stack Ball [Auto Win - Open Source]", "StackBallAutoWinOpenSource", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/StackBallAutoWinOpenSource.lua")
                     
+                    
+addscriptexist(7655745946, "DunkingSimulatorUnlimitedBoost", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DunkingSimulatorUnlimitedBoost.lua")
