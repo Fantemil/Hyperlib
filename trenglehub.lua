@@ -3753,3 +3753,5 @@ addscript(1858299821,"Robloxica [Money Dupe]", "RobloxicaMoneyDupe", "Terni", "h
                     
                     
 addscriptexist(8540168650, "StandUprightRebootedGUISortToolsItemsFarmMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/StandUprightRebootedGUISortToolsItemsFarmMore.lua")
+                    
+addscriptexist(4459593483, "FORCEPREALPHAAutoParryMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FORCEPREALPHAAutoParryMore.lua")
