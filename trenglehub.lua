@@ -1785,3 +1785,5 @@ addscriptexist(2537430692, "JengaWinRemoveJengasRemoveKillBrick", "Qalnik", "htt
     
 addscript(6973274562,"Melee Mash Revenge! [Godmode, KillAll]", "MeleeMashRevengeGodmodeKillAll", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MeleeMashRevengeGodmodeKillAll.lua")
                     
+                    
+addscriptexist(4616652839, "ShindoLifeAutoKeyAutoFarm", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ShindoLifeAutoKeyAutoFarm.lua")
