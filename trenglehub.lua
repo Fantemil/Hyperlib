@@ -4610,3 +4610,6 @@ addscript(3271747724,"MEGA Boss Survival [Wins Auto Farm]", "MEGABossSurvivalWin
 addscriptexist(413424176, "CloneTycoon2InfMoney", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CloneTycoon2InfMoney.lua")
                     
 addscriptexist(9555732501, "NenFightingSimulatorStrengthFarm", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NenFightingSimulatorStrengthFarm.lua")
+    
+addscript(6172932937,"Energy Assault [Aim Bot]", "EnergyAssaultAimBot", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/EnergyAssaultAimBot.lua")
+                    
