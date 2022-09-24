@@ -2505,3 +2505,5 @@ addscriptexist(2537430692, "JengaAutoWin", "astrofile", "https://raw.githubuserc
 addscriptexist(8811271345, "BalancedCraftwarsOverhaulAutoEquipTeleport", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BalancedCraftwarsOverhaulAutoEquipTeleport.lua")
                     
 addscriptexist(4863541388, "ScytheMastersAutoclick", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ScytheMastersAutoclick.lua")
+                    
+addscriptexist(10447882390, "ZombieResearchTycoonAutoFarm", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ZombieResearchTycoonAutoFarm.lua")
