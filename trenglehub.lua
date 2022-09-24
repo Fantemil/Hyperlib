@@ -6826,3 +6826,5 @@ addscriptexist(6667701234, "FateXeroSkinFarm", "Terni", "https://raw.githubuserc
     
 addscript(6078267880,"Tower Of Hell Easy [Inf Money]", "TowerOfHellEasyInfMoney", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TowerOfHellEasyInfMoney.lua")
                     
+                    
+addscriptexist(6494523288, "BladeQuestAutoFarmKillAuraAutoRewards", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BladeQuestAutoFarmKillAuraAutoRewards.lua")
