@@ -7046,3 +7046,5 @@ addscriptexist(109814071, "MedievalWarfareReforgedGUIGameKiller", "Terni", "http
     
 addscript(7951464846,"Penguin Tycoon [Auto Fish]", "PenguinTycoonAutoFish", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PenguinTycoonAutoFish.lua")
                     
+                    
+addscriptexist(1962086868, "TowerofHellAutoWinGodmodeRemoveKillparts", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TowerofHellAutoWinGodmodeRemoveKillparts.lua")
