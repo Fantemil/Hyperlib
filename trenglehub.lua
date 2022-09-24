@@ -6752,3 +6752,5 @@ addscriptexist(8396586868, "A0nepiecegameDupe", "Qalnik", "https://raw.githubuse
     
 addscript(8365905206,"Untitled Tag Game [Coin Auto-Collector]", "UntitledTagGameCoinAutoCollector", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/UntitledTagGameCoinAutoCollector.lua")
                     
+                    
+addscriptexist(6783611814, "BuildaBoattoSurviveBagde", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BuildaBoattoSurviveBagde.lua")
