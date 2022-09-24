@@ -6287,3 +6287,5 @@ addscript(7871169780,"bLockerman666`s Minesweeper [Find Safe Tiles And Bombs]", 
     
 addscript(6843988672,"County Jail Roleplay [AC Bypass]", "CountyJailRoleplayACBypass", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CountyJailRoleplayACBypass.lua")
                     
+                    
+addscriptexist(5045567407, "NationsRoleplayPaintEntireWorldInstantly", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NationsRoleplayPaintEntireWorldInstantly.lua")
