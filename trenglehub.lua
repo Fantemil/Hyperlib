@@ -4733,3 +4733,5 @@ addscriptexist(8737602449, "PLSDONATEESP", "Qalnik", "https://raw.githubusercont
 addscriptexist(1224212277, "MadCityCrazyAutoRobServerCrasherTeleports", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MadCityCrazyAutoRobServerCrasherTeleports.lua")
                     
 addscriptexist(606849621, "JailbreakAutoFarmTeleportInfDonut", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/JailbreakAutoFarmTeleportInfDonut.lua")
+                    
+addscriptexist(5490351219, "ClickerMadnessSickAutoClickAutoBossTeleport", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ClickerMadnessSickAutoClickAutoBossTeleport.lua")
