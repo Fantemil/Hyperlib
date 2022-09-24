@@ -4189,3 +4189,6 @@ addscript(6558526079,"Anime World Tower Defence [Mess Up Servers]", "AnimeWorldT
                     
                     
 addscriptexist(9601565001, "CarCrashSystemDeleteAnything", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CarCrashSystemDeleteAnything.lua")
+    
+addscript(6915291292,"Bakery Simulator [Delete Anything]", "BakerySimulatorDeleteAnything", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BakerySimulatorDeleteAnything.lua")
+                    
