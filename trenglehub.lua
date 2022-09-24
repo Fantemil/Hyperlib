@@ -8545,3 +8545,5 @@ addscriptexist(3082002798, "TeenTitansBattlegroundsKillPlayersWalkSзeedJumpPowe
 addscriptexist(292439477, "PhantomForcesAim", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PhantomForcesAim.lua")
                     
 addscriptexist(6284583030, "PetSimulatorXNewFarmingGUIHoverboardMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PetSimulatorXNewFarmingGUIHoverboardMore.lua")
+                    
+addscriptexist(2753915549, "BloxFruitsAutoFarmAutoBuyMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BloxFruitsAutoFarmAutoBuyMore.lua")
