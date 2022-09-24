@@ -2580,3 +2580,6 @@ addscript(9157870347,"Swarm Simulator! [Gamepasses, Auto Farm]", "SwarmSimulator
                     
                     
 addscriptexist(4282985734, "CombatWarriorsSilentaim", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CombatWarriorsSilentaim.lua")
+    
+addscript(4390380541,"Rumble Quest [WalkSpeed, Kill-Aura]", "RumbleQuestWalkSpeedKillAura", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RumbleQuestWalkSpeedKillAura.lua")
+                    
