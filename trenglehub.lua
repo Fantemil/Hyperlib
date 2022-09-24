@@ -8440,3 +8440,6 @@ addscriptexist(2984072291, "ZombieStoriesSilentAIM", "Terni", "https://raw.githu
     
 addscript(2901172949,"Right 2 Fight 1 [Shot Mobs]", "Right2Fight1ShotMobs", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Right2Fight1ShotMobs.lua")
                     
+    
+addscript(8160862936,"SUPER EATER SIMULATOR [Auto-Farm, Auto-Buy]", "SUPEREATERSIMULATORAutoFarmAutoBuy", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SUPEREATERSIMULATORAutoFarmAutoBuy.lua")
+                    

