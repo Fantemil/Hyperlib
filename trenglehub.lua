@@ -4388,3 +4388,6 @@ addscript(9751569460,"ARCH PIECE [Auto Farm]", "ARCHPIECEAutoFarm", "Terni", "ht
                     
                     
 addscriptexist(9559194006, "socialexperimentGuessthenextgame", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/socialexperimentGuessthenextgame.lua")
+    
+addscript(9786213478,"Treat Simulator [Auto Sell]", "TreatSimulatorAutoSell", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TreatSimulatorAutoSell.lua")
+                    
