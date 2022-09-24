@@ -6322,3 +6322,5 @@ addscriptexist(4505214429, "SoulEaterResonanceEaterFarm", "Terni", "https://raw.
 addscriptexist(5023820864, "TradeTowerPPHAXV2GUI", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TradeTowerPPHAXV2GUI.lua")
                     
 addscriptexist(6297822481, "TitanWarfareInfiniteGas", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TitanWarfareInfiniteGas.lua")
+                    
+addscriptexist(5993942214, "RushPointSilentAIM", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RushPointSilentAIM.lua")
