@@ -1931,3 +1931,5 @@ addscriptexist(7714627632, "WindsofFortuneAutoFarmFoodStoreEsp", "Qalnik", "http
 addscriptexist(9551640993, "MiningSimulator2BloxAuraAutoHatch", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MiningSimulator2BloxAuraAutoHatch.lua")
                     
 addscriptexist(2537430692, "JengaInstantWinWalkspeed", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/JengaInstantWinWalkspeed.lua")
+                    
+addscriptexist(8963721566, "TheBackroomsInfStamina", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TheBackroomsInfStamina.lua")
