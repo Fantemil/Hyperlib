@@ -8403,3 +8403,5 @@ addscript(5595252083,"RIOTFALL [Always HeadShot]", "RIOTFALLAlwaysHeadShot", "Te
                     
                     
 addscriptexist(1417427737, "MiningSimulatorAutoMineAutoSellNukeAura", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MiningSimulatorAutoMineAutoSellNukeAura.lua")
+                    
+addscriptexist(6284583030, "PetSimulatorXUnlockGamepassAutoFarmAntiLag", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PetSimulatorXUnlockGamepassAutoFarmAntiLag.lua")
