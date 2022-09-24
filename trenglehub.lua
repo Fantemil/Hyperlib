@@ -5163,3 +5163,6 @@ addscriptexist(3823781113, "SaberSimulatorGUIAutoFarmAutoOpenEggMore", "Terni", 
 addscriptexist(7560156054, "ClickerSimulatorGUIAutoClickUnlockGamepasses", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ClickerSimulatorGUIAutoClickUnlockGamepasses.lua")
                     
 addscriptexist(6284583030, "PetSimulatorXGUIAutoFarmTeleportsMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PetSimulatorXGUIAutoFarmTeleportsMore.lua")
+    
+addscript(7114796110,"Anime Training Simulator [GUI - Auto Farm, Teleports]", "AnimeTrainingSimulatorGUIAutoFarmTeleports", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AnimeTrainingSimulatorGUIAutoFarmTeleports.lua")
+                    
