@@ -3579,3 +3579,5 @@ addscriptexist(1962086868, "TowerofhellGUIUltraJumpUltraspeedAdmin", "Terni", "h
 addscriptexist(9103460924, "SwordFactoryXAntiCheatBypass", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SwordFactoryXAntiCheatBypass.lua")
                     
 addscriptexist(9603033881, "BidBattlesAutoBidMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BidBattlesAutoBidMore.lua")
+                    
+addscriptexist(9551640993, "MiningSimulator2PetGuesser", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MiningSimulator2PetGuesser.lua")
