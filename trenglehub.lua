@@ -5809,3 +5809,5 @@ addscriptexist(4996049426, "AllStarTowerDefenseFarmexp", "Qalnik", "https://raw.
 addscriptexist(9049840490, "SonicSpeedSimulatorAutoRunAutorebirthsAutoWinRace", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SonicSpeedSimulatorAutoRunAutorebirthsAutoWinRace.lua")
                     
 addscriptexist(4616652839, "ShindoLifeInfiniteSpinsGetAnyBloodline", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ShindoLifeInfiniteSpinsGetAnyBloodline.lua")
+                    
+addscriptexist(1224212277, "MadCityAutoXpEasyLevel100", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MadCityAutoXpEasyLevel100.lua")
