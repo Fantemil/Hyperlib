@@ -3864,3 +3864,5 @@ addscript(7056117669,"get chased by a rocket [Kick Player]", "getchasedbyarocket
                     
                     
 addscriptexist(7056117669, "getchasedbyarocketKickAll", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/getchasedbyarocketKickAll.lua")
+                    
+addscriptexist(4459593483, "FORCEPvpMode", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FORCEPvpMode.lua")
