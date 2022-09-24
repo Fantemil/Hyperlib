@@ -2774,3 +2774,6 @@ addscript(23578803,"Hotel Elephant [Infinite Money]", "HotelElephantInfiniteMone
                     
                     
 addscriptexist(2534724415, "EmergencyResponseLibertyCountyNoRecoil", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/EmergencyResponseLibertyCountyNoRecoil.lua")
+    
+addscript(6902912928,"GET TO THE TOP! [Unlimited Points]", "GETTOTHETOPUnlimitedPoints", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/GETTOTHETOPUnlimitedPoints.lua")
+                    
