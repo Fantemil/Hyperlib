@@ -2184,3 +2184,6 @@ addscript(9840387028,"Era of Althea [Auto Mobs, Walkspeed]", "EraofAltheaAutoMob
     
 addscript(428114181,"Azure Mines [TP To ore, Auto Farm]", "AzureMinesTPTooreAutoFarm", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AzureMinesTPTooreAutoFarm.lua")
                     
+    
+addscript(7993293100,"Tsunami Game [Auto Farm, Teleport]", "TsunamiGameAutoFarmTeleport", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TsunamiGameAutoFarmTeleport.lua")
+                    
