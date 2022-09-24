@@ -3969,3 +3969,5 @@ addscript(9103898828,"Rogue Demon [No Fall Damage]", "RogueDemonNoFallDamage", "
                     
                     
 addscriptexist(9976239895, "GumballFactoryTycoonAutoConvertGumballs", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/GumballFactoryTycoonAutoConvertGumballs.lua")
+                    
+addscriptexist(5939428933, "CrewmatesKillAll", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CrewmatesKillAll.lua")
