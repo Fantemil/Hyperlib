@@ -6221,3 +6221,6 @@ addscript(8982709021,"YouTube Life [Collect All Eggs]", "YouTubeLifeCollectAllEg
     
 addscript(6788787407,"Warrior Champions [Auto Farm GUI]", "WarriorChampionsAutoFarmGUI", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/WarriorChampionsAutoFarmGUI.lua")
                     
+    
+addscript(6125809531,"Untitled AoT [Auto Farm]", "UntitledAoTAutoFarm", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/UntitledAoTAutoFarm.lua")
+                    
