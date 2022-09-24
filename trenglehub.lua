@@ -8513,3 +8513,5 @@ addscriptexist(6403373529, "SlapBattlesHitboxExtender", "Terni", "https://raw.gi
     
 addscript(5192488964,"Bully some monater [Infiniti Stamina]", "BullysomemonaterInfinitiStamina", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BullysomemonaterInfinitiStamina.lua")
                     
+                    
+addscriptexist(443406476, "ProjectLazarusInfinitiAmmo", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ProjectLazarusInfinitiAmmo.lua")
