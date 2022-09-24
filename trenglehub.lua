@@ -4676,3 +4676,5 @@ addscriptexist(7560156054, "ClickerSimulatorOnClickToggleeggGamePass", "Qalnik",
 addscriptexist(3101667897, "LegendsOfSpeedAutoFarmOrbsAutoFarmHoopsAutoRebirth", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LegendsOfSpeedAutoFarmOrbsAutoFarmHoopsAutoRebirth.lua")
                     
 addscriptexist(8737602449, "PLSDONATETheinscriptiononthepoleshows", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PLSDONATETheinscriptiononthepoleshows.lua")
+                    
+addscriptexist(5490351219, "ClickerMadnessAutoTapDeclineTradesGetAllGamepasses", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ClickerMadnessAutoTapDeclineTradesGetAllGamepasses.lua")
