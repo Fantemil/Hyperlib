@@ -4784,3 +4784,6 @@ addscriptexist(2768379856, "300827AdminSpoofer", "Terni", "https://raw.githubuse
 addscriptexist(9049840490, "SonicSpeedSimulatorUnlockAllPrizes", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SonicSpeedSimulatorUnlockAllPrizes.lua")
                     
 addscriptexist(8508161757, "RaiseanAlbertInfiniteMoney", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RaiseanAlbertInfiniteMoney.lua")
+    
+addscript(7368681149,"UnExceptional [Capture All Flags]", "UnExceptionalCaptureAllFlags", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/UnExceptionalCaptureAllFlags.lua")
+                    
