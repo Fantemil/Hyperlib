@@ -3506,3 +3506,5 @@ addscriptexist(4616652839, "ShindolifeAutoFarmAutoFarmBossAutoRank", "Qalnik", "
     
 addscript(4838460619,"War Simulator 2 [Auto Farm]", "WarSimulator2AutoFarm", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/WarSimulator2AutoFarm.lua")
                     
+                    
+addscriptexist(6678877691, "ZOぞSAMURAIAntiCheatBypass", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ZOぞSAMURAIAntiCheatBypass.lua")
