@@ -8719,3 +8719,5 @@ addscriptexist(7774228661, "PiratesDreamKILLAURAMOBS", "Terni", "https://raw.git
     
 addscript(4067702497,"Offbeat Journeys [ KILL ALL ]", "OffbeatJourneysKILLALL", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OffbeatJourneysKILLALL.lua")
                     
+                    
+addscriptexist(5233268561, "ABizarreJourneyKILLAURA", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ABizarreJourneyKILLAURA.lua")
