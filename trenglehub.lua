@@ -1901,3 +1901,5 @@ addscript(6542731310,"Dogecoin Mining Tycoon [Clear gpu's, Tp, WalkSPeed]", "Dog
     
 addscript(8436975214,"Dangerous Speeds [Unlock All Cars]", "DangerousSpeedsUnlockAllCars", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DangerousSpeedsUnlockAllCars.lua")
                     
+                    
+addscriptexist(10320240572, "EasyRaceClickerAutoWins", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/EasyRaceClickerAutoWins.lua")
