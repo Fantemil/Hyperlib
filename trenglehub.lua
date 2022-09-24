@@ -5057,3 +5057,6 @@ addscriptexist(7211666966, "TowerofJumpAutoWin", "Terni", "https://raw.githubuse
 addscriptexist(413424176, "CloneTycoon2InfiniteMoney", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CloneTycoon2InfiniteMoney.lua")
                     
 addscriptexist(7791106063, "FurryInfectionGUIKillAuraKillAll", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FurryInfectionGUIKillAuraKillAll.lua")
+    
+addscript(6969185078,"Elemental Awakening [Spin Farm + Auto Roll]", "ElementalAwakeningSpinFarmAutoRoll", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ElementalAwakeningSpinFarmAutoRoll.lua")
+                    
