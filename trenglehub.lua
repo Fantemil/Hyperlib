@@ -6218,3 +6218,6 @@ addscriptexist(4753520418, "TheHoodEggESP", "Terni", "https://raw.githubusercont
     
 addscript(8982709021,"YouTube Life [Collect All Eggs]", "YouTubeLifeCollectAllEggs", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/YouTubeLifeCollectAllEggs.lua")
                     
+    
+addscript(6788787407,"Warrior Champions [Auto Farm GUI]", "WarriorChampionsAutoFarmGUI", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/WarriorChampionsAutoFarmGUI.lua")
+                    
