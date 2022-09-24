@@ -1564,3 +1564,5 @@ addscript(9203864304,"raise a floppa [AutoClick, AutoCollectMoney]", "raiseaflop
     
 addscript(7047488135,"Speed Run Simulator [AutoClick, Win Race]", "SpeedRunSimulatorAutoClickWinRace", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SpeedRunSimulatorAutoClickWinRace.lua")
                     
+                    
+addscriptexist(2788229376, "DaHoodAimlockSilentAim", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DaHoodAimlockSilentAim.lua")
