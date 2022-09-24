@@ -5931,3 +5931,5 @@ addscript(8713127334,"Redbox 2 [Kill All]", "Redbox2KillAll", "Terni", "https://
                     
                     
 addscriptexist(8874040270, "SKYWARSPRO2AutoFarm", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SKYWARSPRO2AutoFarm.lua")
+                    
+addscriptexist(255236425, "TraitorTownNofallDamage", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TraitorTownNofallDamage.lua")
