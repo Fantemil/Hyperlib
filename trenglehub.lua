@@ -8254,3 +8254,5 @@ addscriptexist(7663721179, "CrystalValleyMiningSimulatorAutoFarmAutoCollectTpQue
 addscriptexist(6284583030, "PetSimulatorXx3SpeedHoverBoard", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PetSimulatorXx3SpeedHoverBoard.lua")
                     
 addscriptexist(292439477, "PhantomForcesBanlandChatenabler", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PhantomForcesBanlandChatenabler.lua")
+                    
+addscriptexist(3823781113, "SaberSimulatorCrackedGui20", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SaberSimulatorCrackedGui20.lua")
