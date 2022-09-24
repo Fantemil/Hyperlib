@@ -8113,3 +8113,6 @@ addscript(6751371363,"Hood Duels [Auto Farm]", "HoodDuelsAutoFarm", "Qalnik", "h
     
 addscript(8114798443,"Webman Simulator [Infinite Strong & Energy, Auto Open Egg]", "WebmanSimulatorInfiniteStrongEnergyAutoOpenEgg", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/WebmanSimulatorInfiniteStrongEnergyAutoOpenEgg.lua")
                     
+    
+addscript(2577040780,"Eviction Notice [Auto Challenge]", "EvictionNoticeAutoChallenge", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/EvictionNoticeAutoChallenge.lua")
+                    
