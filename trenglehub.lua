@@ -3100,3 +3100,5 @@ addscriptexist(8267733039, "Specter2DetectFingerprintsFullBrightUnlockThirdPerso
     
 addscript(4581966615,"Anomic [Auto Farm]", "AnomicAutoFarm", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AnomicAutoFarm.lua")
                     
+                    
+addscriptexist(292439477, "PhantomForcesESP", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PhantomForcesESP.lua")
