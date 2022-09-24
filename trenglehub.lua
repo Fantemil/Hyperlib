@@ -2142,3 +2142,5 @@ addscriptexist(4951858512, "VictoryRaceWalkSpeed", "astrofile", "https://raw.git
 addscriptexist(8425637426, "RobloxChangestheletters", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RobloxChangestheletters.lua")
                     
 addscriptexist(10087074695, "KnifeStrifeKillAll", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/KnifeStrifeKillAll.lua")
+                    
+addscriptexist(662417684, "LUCKYBLOCKSBattlegroundsGetallluckyblocks", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LUCKYBLOCKSBattlegroundsGetallluckyblocks.lua")
