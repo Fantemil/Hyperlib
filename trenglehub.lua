@@ -4082,3 +4082,6 @@ addscript(9711302332,"Clkicker Heroes [Auto Tap - Auto Evolve And More!]", "Clki
 addscriptexist(2043040358, "VyyrahkCityMoney", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/VyyrahkCityMoney.lua")
                     
 addscriptexist(9281034297, "GoalKickSimulatorGUIAutoKickAutoRebirthMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/GoalKickSimulatorGUIAutoKickAutoRebirthMore.lua")
+    
+addscript(8592863835,"Magnet Simulator 2 [GUI - Sell x18, Auto Egg]", "MagnetSimulator2GUISellx18AutoEgg", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MagnetSimulator2GUISellx18AutoEgg.lua")
+                    
