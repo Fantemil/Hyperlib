@@ -3083,3 +3083,6 @@ addscript(10065077975,"Robloxian's Obby [Auto finish]", "RobloxiansObbyAutofinis
                     
                     
 addscriptexist(6284583030, "PetSimulatorXMasteryAutoFarm", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PetSimulatorXMasteryAutoFarm.lua")
+    
+addscript(9377039667,"Roblox Innovation Awards Voting Hub [All Hats & Badges]", "RobloxInnovationAwardsVotingHubAllHatsBadges", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RobloxInnovationAwardsVotingHubAllHatsBadges.lua")
+                    
