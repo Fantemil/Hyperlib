@@ -905,3 +905,6 @@ addscriptexist(185655149, "WelcometoBloxburgAutoFarm", "astrofile", "https://raw
     
 addscript(9284097280,"Apartment Tycoon ", "ApartmentTycoonAutoBuyAutoCollectFly", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ApartmentTycoonAutoBuyAutoCollectFly.lua")
                     
+    
+addscript(10447882390,"Zombie Research Tycoon ", "ZombieResearchTycoonAutoCollectAutoBuyAutoMine", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ZombieResearchTycoonAutoCollectAutoBuyAutoMine.lua")
+                    
