@@ -5151,3 +5151,6 @@ addscript(5062619730,"War Simulator [Kill All - Open Source]", "WarSimulatorKill
     
 addscript(6717117731,"Subway Surfers [Steal All Coins]", "SubwaySurfersStealAllCoins", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SubwaySurfersStealAllCoins.lua")
                     
+    
+addscript(7681451450,"Anime Simulator X [GUI - Farm, Auto Open Egg & More!]", "AnimeSimulatorXGUIFarmAutoOpenEggMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AnimeSimulatorXGUIFarmAutoOpenEggMore.lua")
+                    
