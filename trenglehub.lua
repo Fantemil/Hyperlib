@@ -2742,3 +2742,6 @@ addscript(8500690972,"NO STOP Obby [Skip Stage]", "NOSTOPObbySkipStage", "Terni"
                     
                     
 addscriptexist(292439477, "PhantomForcesFreeChams", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PhantomForcesFreeChams.lua")
+    
+addscript(3346617530,"Freeze Tag Extreme [Anti Admin & More!]", "FreezeTagExtremeAntiAdminMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FreezeTagExtremeAntiAdminMore.lua")
+                    
