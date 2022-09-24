@@ -7788,3 +7788,6 @@ addscript(7290417439,"Slayer Life [Insta Kill]", "SlayerLifeInstaKill", "rbxscri
     
 addscript(7426523309,"Roblox Esp [Chams Player]", "RobloxEspChamsPlayer", "rbxscript", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RobloxEspChamsPlayer.lua")
                     
+    
+addscript(8380203210,"Obliteration Orbs [Auto Rank Up]", "ObliterationOrbsAutoRankUp", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ObliterationOrbsAutoRankUp.lua")
+                    
