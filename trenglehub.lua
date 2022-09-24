@@ -3470,3 +3470,6 @@ addscriptexist(5956785391, "ProjectSlayersGUILevelFarmMore", "Terni", "https://r
     
 addscript(5278850819,"Stay alive and flex your time on others [Bypass Anti Cheat]", "StayaliveandflexyourtimeonothersBypassAntiCheat", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/StayaliveandflexyourtimeonothersBypassAntiCheat.lua")
                     
+    
+addscript(4856393583,"Build a Spaceship Tycoon [Infinite Cash]", "BuildaSpaceshipTycoonInfiniteCash", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BuildaSpaceshipTycoonInfiniteCash.lua")
+                    
