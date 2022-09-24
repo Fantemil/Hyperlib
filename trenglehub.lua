@@ -1724,3 +1724,5 @@ addscriptexist(3956818381, "NinjaLegendsAutoClicker", "astrofile", "https://raw.
 addscriptexist(286090429, "ArsenalNonFEDevSkins", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ArsenalNonFEDevSkins.lua")
                     
 addscriptexist(2788229376, "EvadeOptimizeutillities", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/EvadeOptimizeutillities.lua")
+                    
+addscriptexist(9845705613, "BloodHoodAutoPunchKillAll", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BloodHoodAutoPunchKillAll.lua")
