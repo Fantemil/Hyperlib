@@ -8219,3 +8219,5 @@ addscript(7563640378,"Super Click Simulator 2 [Auto Farm]", "SuperClickSimulator
     
 addscript(8305160617,"Roblox [Auto Leave]", "RobloxAutoLeave", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RobloxAutoLeave.lua")
                     
+                    
+addscriptexist(7429434108, "AnimeTappersGUIAUTOFARMGIVEALLPASS", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AnimeTappersGUIAUTOFARMGIVEALLPASS.lua")
