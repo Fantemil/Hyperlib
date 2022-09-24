@@ -3001,3 +3001,5 @@ addscriptexist(292439477, "PhantomForcesSilentAimEspNoRecoil", "Qalnik", "https:
     
 addscript(1324061305,"Flicker [Invisible]", "FlickerInvisible", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FlickerInvisible.lua")
                     
+                    
+addscriptexist(10322949476, "LimitedJumpsInfJumps", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LimitedJumpsInfJumps.lua")
