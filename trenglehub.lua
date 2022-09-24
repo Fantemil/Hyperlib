@@ -2176,3 +2176,5 @@ addscriptexist(8750997647, "TappingLegendsXAutoTapAutoRebirthAutoclicker", "Qaln
     
 addscript(10321372166,"Pet Simulator X [Auto Farm, Auto open Pets, Auto Golden pets]", "PetSimulatorXAutoFarmAutoopenPetsAutoGoldenpets", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PetSimulatorXAutoFarmAutoopenPetsAutoGoldenpets.lua")
                     
+                    
+addscriptexist(445664957, "ParkourEspTypes", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ParkourEspTypes.lua")
