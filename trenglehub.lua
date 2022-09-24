@@ -7479,3 +7479,5 @@ addscript(9468057661,"Super Hero Tycoon [Set Player Money, Set Walk Speed, Delet
                     
                     
 addscriptexist(8592863835, "MagnetSimulator2AutoFarmAutoRebirthSellAll", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MagnetSimulator2AutoFarmAutoRebirthSellAll.lua")
+                    
+addscriptexist(4581966615, "AnomicPrinterAutoFarm", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AnomicPrinterAutoFarm.lua")
