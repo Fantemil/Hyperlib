@@ -5657,3 +5657,6 @@ addscriptexist(9049840490, "SonicSpeedSimulatorAutoRunAutorebirthsUnlokAllWorlds
 addscriptexist(5802642341, "CityLifeArrestAllCriminals", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CityLifeArrestAllCriminals.lua")
                     
 addscriptexist(5802642341, "CityLifeAutoTicketCars", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CityLifeAutoTicketCars.lua")
+    
+addscript(6193049807,"Tha Hood [Money Farm]", "ThaHoodMoneyFarm", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ThaHoodMoneyFarm.lua")
+                    
