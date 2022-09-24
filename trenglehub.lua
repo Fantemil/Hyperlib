@@ -6942,3 +6942,5 @@ addscriptexist(648362523, "BreakingPointAutoFarm", "Qalnik", "https://raw.github
     
 addscript(7655489843,"Anime Battlegrounds X [Punch Aura - Infinite Stamina - No Cooldown & More!]", "AnimeBattlegroundsXPunchAuraInfiniteStaminaNoCooldownMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AnimeBattlegroundsXPunchAuraInfiniteStaminaNoCooldownMore.lua")
                     
+                    
+addscriptexist(654732683, "CarCrushers2GUIAtutoFarmVehicleStats", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CarCrushers2GUIAtutoFarmVehicleStats.lua")
