@@ -6099,3 +6099,5 @@ addscript(4566572536,"Vehicle Legends [Speed Boost, Rainbow color]", "VehicleLeg
                     
                     
 addscriptexist(8540346411, "RebirthChampionsXAutoOpenEggsUnlockAllAreasTeleportToAnyArea", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RebirthChampionsXAutoOpenEggsUnlockAllAreasTeleportToAnyArea.lua")
+                    
+addscriptexist(5783581, "TPSUltimateSoccerInfStaminaAutogoalShootfast", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TPSUltimateSoccerInfStaminaAutogoalShootfast.lua")
