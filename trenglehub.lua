@@ -3964,3 +3964,6 @@ addscriptexist(9551640993, "MiningSimulator2RemoveEggAnimations", "Terni", "http
     
 addscript(7540727946,"Hoops Life [Auto Time - Semi Aimbot - Open Source]", "HoopsLifeAutoTimeSemiAimbotOpenSource", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/HoopsLifeAutoTimeSemiAimbotOpenSource.lua")
                     
+    
+addscript(9103898828,"Rogue Demon [No Fall Damage]", "RogueDemonNoFallDamage", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RogueDemonNoFallDamage.lua")
+                    
