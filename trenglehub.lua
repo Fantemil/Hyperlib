@@ -6131,3 +6131,6 @@ addscriptexist(606849621, "JailbreakInstanttpbase", "Qalnik", "https://raw.githu
 addscriptexist(5780309044, "StandsAwakeningStandFarmNpcTeleportPlaceTeleport", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/StandsAwakeningStandFarmNpcTeleportPlaceTeleport.lua")
                     
 addscriptexist(6679274937, "VansWorldAutoCollectCoinsAutoXpGainCompleteAllguests", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/VansWorldAutoCollectCoinsAutoXpGainCompleteAllguests.lua")
+    
+addscript(5045567407,"Nations Roleplay [Coloring of the World]", "NationsRoleplayColoringoftheWorld", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NationsRoleplayColoringoftheWorld.lua")
+                    
