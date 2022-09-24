@@ -8537,3 +8537,5 @@ addscript(3224790922,"Attack On Titan [Inf Jump, Hide Name, No Clip]", "AttackOn
 addscriptexist(4520749081, "KingLegacyAutoFarmAutoStatsMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/KingLegacyAutoFarmAutoStatsMore.lua")
                     
 addscriptexist(2986677229, "GiantSimulatorAutoQuestFarmSwordFarmSword", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/GiantSimulatorAutoQuestFarmSwordFarmSword.lua")
+                    
+addscriptexist(2629642516, "BitcoinMinerTpGamePassAutoBuildBlackList", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BitcoinMinerTpGamePassAutoBuildBlackList.lua")
