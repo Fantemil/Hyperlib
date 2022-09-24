@@ -1912,3 +1912,6 @@ addscriptexist(2622527242, "SCPrBreachWaklspeedGetAmmo", "astrofile", "https://r
     
 addscript(4036494886,"Gun Simulator [Inf Money, Inf medals]", "GunSimulatorInfMoneyInfmedals", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/GunSimulatorInfMoneyInfmedals.lua")
                     
+    
+addscript(10150367093,"Baking Tycoon [Claim Codes, Claim Plot, X2 5 min]", "BakingTycoonClaimCodesClaimPlotX25min", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BakingTycoonClaimCodesClaimPlotX25min.lua")
+                    
