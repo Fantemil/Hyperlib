@@ -1640,3 +1640,5 @@ addscript(9386846196,"Brawling Grounds [AddHeal, KillAura]", "BrawlingGroundsAdd
                     
                     
 addscriptexist(6403373529, "SlapBattlesAutoFarm", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SlapBattlesAutoFarm.lua")
+                    
+addscriptexist(6461766546, "AHerosDestinyAutoSpinAutoQuestAutoSkills", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AHerosDestinyAutoSpinAutoQuestAutoSkills.lua")
