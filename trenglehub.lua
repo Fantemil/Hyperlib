@@ -4804,3 +4804,5 @@ addscriptexist(192800, "WorkataPizzaPlaceAutoFarmBecomeManagerTeleports", "Qalni
     
 addscript(5272267802,"Be a Toy! [Auto Code Farm]", "BeaToyAutoCodeFarm", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BeaToyAutoCodeFarm.lua")
                     
+                    
+addscriptexist(6938803436, "AnimeDimensionsSimulatorAutoAttackAutoSkills", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AnimeDimensionsSimulatorAutoAttackAutoSkills.lua")
