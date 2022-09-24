@@ -4544,3 +4544,5 @@ addscriptexist(301549746, "CounterbloxCrashServerGodmode", "Qalnik", "https://ra
 addscriptexist(292439477, "PhantomForcesHighlightESPChams", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PhantomForcesHighlightESPChams.lua")
                     
 addscriptexist(4733278992, "SwordBloxOnlineRebirthKillAuraInfiniteStaminaCollectMaterials", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SwordBloxOnlineRebirthKillAuraInfiniteStaminaCollectMaterials.lua")
+                    
+addscriptexist(606849621, "JailbreakFullAutoGetWeaponsMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/JailbreakFullAutoGetWeaponsMore.lua")
