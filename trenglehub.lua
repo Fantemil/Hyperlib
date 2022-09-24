@@ -7825,3 +7825,6 @@ addscriptexist(8554378337, "WeaponFightingSimulatorAutoFarmCollectRewardsSelectA
 addscriptexist(2580982329, "TextingSimulatorAutoClick", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TextingSimulatorAutoClick.lua")
                     
 addscriptexist(3233893879, "BadBusiness254loopmapvotingscreen", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BadBusiness254loopmapvotingscreen.lua")
+    
+addscript(3465272868,"My Hero Blockidemia [Auto Farm]", "MyHeroBlockidemiaAutoFarm", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MyHeroBlockidemiaAutoFarm.lua")
+                    
