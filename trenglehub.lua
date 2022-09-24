@@ -3705,3 +3705,5 @@ addscriptexist(7940932746, "RobloxPingGUI", "Terni", "https://raw.githubusercont
 addscriptexist(8304191830, "AnimeAdventuresAutoFarm", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AnimeAdventuresAutoFarm.lua")
                     
 addscriptexist(7664413141, "CreeperChaosAutoFarmWins", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CreeperChaosAutoFarmWins.lua")
+                    
+addscriptexist(2727067538, "WorldZeroKillAura", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/WorldZeroKillAura.lua")
