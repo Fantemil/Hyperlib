@@ -5083,3 +5083,6 @@ addscript(7346416636,"Pop It Trading [Dupe Script]", "PopItTradingDupeScript", "
     
 addscript(7622046644,"Monster Ghoul [100 Billion Focus Points]", "MonsterGhoul100BillionFocusPoints", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MonsterGhoul100BillionFocusPoints.lua")
                     
+    
+addscript(7110163297,"Super Sabers [Redeem All Codes]", "SuperSabersRedeemAllCodes", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SuperSabersRedeemAllCodes.lua")
+                    
