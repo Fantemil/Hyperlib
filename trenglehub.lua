@@ -4502,3 +4502,5 @@ addscriptexist(1554960397, "CarDealershipTycoonAutoFarmInfinitySpeedWalkonwater"
 addscriptexist(7056922815, "Rapeer2AutoFarmAutoQuestAutoEquip", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Rapeer2AutoFarmAutoQuestAutoEquip.lua")
                     
 addscriptexist(1962086868, "TowerOfHellAutoWinGodModeSpeedHack", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TowerOfHellAutoWinGodModeSpeedHack.lua")
+                    
+addscriptexist(142823291, "MurderMystery2", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MurderMystery2.lua")
