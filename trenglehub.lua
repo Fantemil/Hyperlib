@@ -2435,3 +2435,5 @@ addscript(10011532704,"Anime Brawl Simulator [Inf Stars]", "AnimeBrawlSimulatorI
                     
                     
 addscriptexist(4282985734, "CombatWarriorsKillAuraAutoEquip", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CombatWarriorsKillAuraAutoEquip.lua")
+                    
+addscriptexist(2788229376, "DaHoodJojoStand", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DaHoodJojoStand.lua")
