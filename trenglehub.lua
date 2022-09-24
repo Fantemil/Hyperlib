@@ -8473,3 +8473,5 @@ addscriptexist(6590798593, "WaterlooathomeInstaReload", "Terni", "https://raw.gi
     
 addscript(3145447020,"Mount Everest Climbing Roleplay [Oxygen Refill]", "MountEverestClimbingRoleplayOxygenRefill", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MountEverestClimbingRoleplayOxygenRefill.lua")
                     
+                    
+addscriptexist(621129760, "KATNewSimpleAim", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/KATNewSimpleAim.lua")
