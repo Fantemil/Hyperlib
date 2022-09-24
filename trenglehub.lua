@@ -1380,3 +1380,5 @@ addscript(445664957,"Parkour [Inf Levels]", "ParkourInfLevels", "astrofile", "ht
     
 addscript(4954752502,"Tower of Misery [Auto Farm - God Mode - Kill Player & More!]", "TowerofMiseryAutoFarmGodModeKillPlayerMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TowerofMiseryAutoFarmGodModeKillPlayerMore.lua")
                     
+                    
+addscriptexist(7138009149, "PHIGHTINGNPCEsp", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PHIGHTINGNPCEsp.lua")
