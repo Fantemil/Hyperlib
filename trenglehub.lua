@@ -3485,3 +3485,6 @@ addscriptexist(8203181639, "SyrianShenanigansSlowdownthesniperscope", "Qalnik", 
 addscriptexist(8203181639, "SyrianShenanigansFixingcarstanks", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SyrianShenanigansFixingcarstanks.lua")
                     
 addscriptexist(7305309231, "TaxiBossRemoveNPCcars", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TaxiBossRemoveNPCcars.lua")
+    
+addscript(9903808883,"Build a Market Tycoon [Money Booster]", "BuildaMarketTycoonMoneyBooster", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BuildaMarketTycoonMoneyBooster.lua")
+                    
