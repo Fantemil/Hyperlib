@@ -4270,3 +4270,5 @@ addscriptexist(9017974931, "ValobloxATOMICVALOBLOXGUI", "Terni", "https://raw.gi
     
 addscript(4996049426,"All Star Tower Defense [Star Pass Farm V3]", "AllStarTowerDefenseStarPassFarmV3", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AllStarTowerDefenseStarPassFarmV3.lua")
                     
+                    
+addscriptexist(654732683, "CarCrusher2GUIAIAutoFarm", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CarCrusher2GUIAIAutoFarm.lua")
