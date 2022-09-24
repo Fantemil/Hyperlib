@@ -4125,3 +4125,6 @@ addscript(8635207352,"Anime Merge Simulator [Fast Auto Farm]", "AnimeMergeSimula
                     
                     
 addscriptexist(6206893534, "CobraKaiKarateGUIAutoFarmBagsHideNameMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CobraKaiKarateGUIAutoFarmBagsHideNameMore.lua")
+    
+addscript(9726345231,"Duolingo Game Hub [Inf Money]", "DuolingoGameHubInfMoney", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DuolingoGameHubInfMoney.lua")
+                    
