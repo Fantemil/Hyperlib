@@ -5668,3 +5668,6 @@ addscript(6904735821,"Shoe Simulator [Auto Shoe - Auto Sell & More!]", "ShoeSimu
                     
                     
 addscriptexist(9461798258, "RaiseaGrannyInfiniteCash", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RaiseaGrannyInfiniteCash.lua")
+    
+addscript(9474050899,"Jackpot Party [Fast Case Opener]", "JackpotPartyFastCaseOpener", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/JackpotPartyFastCaseOpener.lua")
+                    
