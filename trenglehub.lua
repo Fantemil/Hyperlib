@@ -2420,3 +2420,6 @@ addscript(6802248248,"SAITAMANIA [Auto Spin, Rebirth]", "SAITAMANIAAutoSpinRebir
     
 addscript(260606376,"Realistic Roleplay 2 [Auto Farm]", "RealisticRoleplay2AutoFarm", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RealisticRoleplay2AutoFarm.lua")
                     
+    
+addscript(7941853407,"Squishmallow [Auto Farm]", "SquishmallowAutoFarm", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SquishmallowAutoFarm.lua")
+                    
