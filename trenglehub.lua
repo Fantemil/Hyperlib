@@ -6200,3 +6200,5 @@ addscriptexist(8146731988, "UltraPowerTycoonKillClosestPlayerOpenSource", "Terni
     
 addscript(6955924345,"Titan Clash Online [Kill Aura - Infinite Gas - God Mode & More!]", "TitanClashOnlineKillAuraInfiniteGasGodModeMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TitanClashOnlineKillAuraInfiniteGasGodModeMore.lua")
                     
+                    
+addscriptexist(8781849572, "StarSimulatorBetaToolReachOpenSource", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/StarSimulatorBetaToolReachOpenSource.lua")
