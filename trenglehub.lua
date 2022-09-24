@@ -3367,3 +3367,5 @@ addscript(10191372093,"Guillotine Tycoon [Auto Farm]", "GuillotineTycoonAutoFarm
                     
                     
 addscriptexist(1224212277, "MadCityExpFarmEspSilentAIm", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MadCityExpFarmEspSilentAIm.lua")
+                    
+addscriptexist(1224212277, "MadCityAutoFarmServerHop", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MadCityAutoFarmServerHop.lua")
