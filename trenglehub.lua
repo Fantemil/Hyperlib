@@ -2708,3 +2708,5 @@ addscriptexist(4809447488, "VentureTalesAutoFarm", "Terni", "https://raw.githubu
 addscriptexist(5956785391, "ProjectSlayersKillAuraTeleportsMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ProjectSlayersKillAuraTeleportsMore.lua")
                     
 addscriptexist(9829869210, "KarateKickSimulatorInfiniteMoney", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/KarateKickSimulatorInfiniteMoney.lua")
+                    
+addscriptexist(9386846196, "BrawlingGroundsInstaKill", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BrawlingGroundsInstaKill.lua")
