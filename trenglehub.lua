@@ -4383,3 +4383,6 @@ addscriptexist(443406476, "ProjectLazarusInfAmmoInstaKillEsp", "Qalnik", "https:
 addscriptexist(142823291, "MurderMystery2GUIESPFakeKnifeMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MurderMystery2GUIESPFakeKnifeMore.lua")
                     
 addscriptexist(1224212277, "MadCityGUIAutoRobTeleportsMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MadCityGUIAutoRobTeleportsMore.lua")
+    
+addscript(9751569460,"ARCH PIECE [Auto Farm]", "ARCHPIECEAutoFarm", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ARCHPIECEAutoFarm.lua")
+                    
