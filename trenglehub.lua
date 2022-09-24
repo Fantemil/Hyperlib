@@ -2166,3 +2166,6 @@ addscript(70005410,"Blox Hunt Tokens [Autofarm]", "BloxHuntTokensAutofarm", "Qal
                     
                     
 addscriptexist(537413528, "BuildABoatForTreasureQuestsAutoFarmManyFunctions", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BuildABoatForTreasureQuestsAutoFarmManyFunctions.lua")
+    
+addscript(3376769145,"Dragon Ball Warriors [Use the best form]", "DragonBallWarriorsUsethebestform", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DragonBallWarriorsUsethebestform.lua")
+                    
