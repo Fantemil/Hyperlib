@@ -8709,3 +8709,6 @@ addscriptexist(6753004901, "SwingCityInfStamina", "Terni", "https://raw.githubus
 addscriptexist(6753004901, "SwingCityAttachMode", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SwingCityAttachMode.lua")
                     
 addscriptexist(155615604, "PrisonLifeKILLAURA", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PrisonLifeKILLAURA.lua")
+    
+addscript(5598577415,"Frog Simulator [AUTO-FARM, AUTO-BUY, MORE!]", "FrogSimulatorAUTOFARMAUTOBUYMORE", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FrogSimulatorAUTOFARMAUTOBUYMORE.lua")
+                    
