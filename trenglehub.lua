@@ -7891,3 +7891,5 @@ addscriptexist(7114796110, "AnimeTrainingSimulatorFarmMobsAutoRebirthMore", "rbx
     
 addscript(5400959086,"TASK FORCE [Change code name]", "TASKFORCEChangecodename", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TASKFORCEChangecodename.lua")
                     
+                    
+addscriptexist(7279999673, "DragonBladeOpenWorldRPGMAxSkill", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DragonBladeOpenWorldRPGMAxSkill.lua")
