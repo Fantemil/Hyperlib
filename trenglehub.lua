@@ -8687,3 +8687,6 @@ addscriptexist(6198225400, "LegendsReWrittenINFGOLD", "Terni", "https://raw.gith
 addscriptexist(5104202731, "SouthwestFloridaBetInvivibleGunCarModsAutoJob", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SouthwestFloridaBetInvivibleGunCarModsAutoJob.lua")
                     
 addscriptexist(4520749081, "KingLegacyUPDATEHUBBEST", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/KingLegacyUPDATEHUBBEST.lua")
+    
+addscript(7199972186,"[ALPHA] Blood Engine 2 ", "ALPHABloodEngine2SlashManiaKILLALL", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ALPHABloodEngine2SlashManiaKILLALL.lua")
+                    
