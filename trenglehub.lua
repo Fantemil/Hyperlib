@@ -3907,3 +3907,6 @@ addscriptexist(2788229376, "DaHoodAutoFarmCashGodmodeInfiniteStamina", "Qalnik",
     
 addscript(6206893534,"Cobra Kai Karate [Auto Farm Pushups, Auto Farm Situps, No Stun]", "CobraKaiKarateAutoFarmPushupsAutoFarmSitupsNoStun", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CobraKaiKarateAutoFarmPushupsAutoFarmSitupsNoStun.lua")
                     
+    
+addscript(2551184308,"Roblox [Re-enter after a kick]", "RobloxReenterafterakick", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RobloxReenterafterakick.lua")
+                    
