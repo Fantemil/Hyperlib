@@ -5008,3 +5008,5 @@ addscriptexist(8540346411, "RebirthChampionsXAutoFarmAutoBuyEggs", "Terni", "htt
     
 addscript(70501379,"Trade Hangout [AFK Auto Walk]", "TradeHangoutAFKAutoWalk", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TradeHangoutAFKAutoWalk.lua")
                     
+                    
+addscriptexist(142823291, "MurderMystery2ChamsReachSilentAimMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MurderMystery2ChamsReachSilentAimMore.lua")
