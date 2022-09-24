@@ -8076,3 +8076,5 @@ addscript(6830111083,"Sandy Shores [Kill All Players]", "SandyShoresKillAllPlaye
 addscriptexist(583507031, "PapersPleaseGunMode", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PapersPleaseGunMode.lua")
                     
 addscriptexist(5112591059, "NinjamanSimulatorInfiniteStrength", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NinjamanSimulatorInfiniteStrength.lua")
+                    
+addscriptexist(7666393362, "TowerofGuessingInfiniteSkips", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TowerofGuessingInfiniteSkips.lua")
