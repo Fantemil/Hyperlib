@@ -5196,3 +5196,6 @@ addscriptexist(189707, "NaturalDisasterSurvivalPartFlinger", "Terni", "https://r
     
 addscript(9107946567,"Warriors Army Simulator [GUI - Auto Farm, Auto Revice & More!]", "WarriorsArmySimulatorGUIAutoFarmAutoReviceMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/WarriorsArmySimulatorGUIAutoFarmAutoReviceMore.lua")
                     
+    
+addscript(6769764667,"Factory Simulator [GUI - Auto Farm]", "FactorySimulatorGUIAutoFarm", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FactorySimulatorGUIAutoFarm.lua")
+                    
