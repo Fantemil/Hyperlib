@@ -7886,3 +7886,5 @@ addscriptexist(6843905606, "CriticalLegendsBlackMarkerHop", "rbxscript", "https:
 addscriptexist(3233893879, "BadBusiness254GrenadeTPKill", "rbxscript", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BadBusiness254GrenadeTPKill.lua")
                     
 addscriptexist(8054462345, "MichaelsZombiesKillAutraGunModsZombiesEsp", "rbxscript", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MichaelsZombiesKillAutraGunModsZombiesEsp.lua")
+                    
+addscriptexist(7114796110, "AnimeTrainingSimulatorFarmMobsAutoRebirthMore", "rbxscript", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AnimeTrainingSimulatorFarmMobsAutoRebirthMore.lua")
