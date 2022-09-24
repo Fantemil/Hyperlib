@@ -4327,3 +4327,5 @@ addscriptexist(9568982793, "DaHoodBattlegroundsSilentAimbot", "Terni", "https://
 addscriptexist(4459593483, "FORCETeleportToTrinkets", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FORCETeleportToTrinkets.lua")
                     
 addscriptexist(4459593483, "FORCESellTrinkets", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FORCESellTrinkets.lua")
+                    
+addscriptexist(9772878203, "RaiseAFloppa2GUIAutoClickFloppaAutoCollectMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RaiseAFloppa2GUIAutoClickFloppaAutoCollectMore.lua")
