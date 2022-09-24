@@ -5400,3 +5400,5 @@ addscriptexist(4783966408, "PlatesofFateRemasteredFreeEmotes", "Terni", "https:/
     
 addscript(5802642341,"City Life [Auto Steal - Auto Fire GUI]", "CityLifeAutoStealAutoFireGUI", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CityLifeAutoStealAutoFireGUI.lua")
                     
+                    
+addscriptexist(5490351219, "ClickerMadnessAutoFarmGUI", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ClickerMadnessAutoFarmGUI.lua")
