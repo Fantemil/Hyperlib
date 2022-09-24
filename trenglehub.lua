@@ -1876,3 +1876,5 @@ addscript(2665326799,"Find The Button [Button Esp, Inf Jump]", "FindTheButtonBut
     
 addscript(5256165620,"3-2-1 Blast Off Simulator [AutoBuy, Gem Shop]", "321BlastOffSimulatorAutoBuyGemShop", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/321BlastOffSimulatorAutoBuyGemShop.lua")
                     
+                    
+addscriptexist(9285238704, "RaceClickerServerHopAutoWin", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RaceClickerServerHopAutoWin.lua")
