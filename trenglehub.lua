@@ -8586,3 +8586,6 @@ addscriptexist(4556951723, "RagdollPhysicsMusicPlayerFreeBadgeandMore", "Terni",
 addscriptexist(7608438089, "TheWinterEscapeInfiniteCheer", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TheWinterEscapeInfiniteCheer.lua")
                     
 addscriptexist(6284583030, "PetSimulatorXUPDATEBESTFARM", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PetSimulatorXUPDATEBESTFARM.lua")
+    
+addscript(7739897561,"Impossible Squid game [Click Mark]", "ImpossibleSquidgameClickMark", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ImpossibleSquidgameClickMark.lua")
+                    
