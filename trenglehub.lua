@@ -2996,3 +2996,5 @@ addscript(9677464361,"Basketball Pro Simulator [Auto Farm, uto Upgrade]", "Baske
                     
                     
 addscriptexist(9744597824, "SeaPieceAutoFarmAutoStatsTeleport", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SeaPieceAutoFarmAutoStatsTeleport.lua")
+                    
+addscriptexist(292439477, "PhantomForcesSilentAimEspNoRecoil", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PhantomForcesSilentAimEspNoRecoil.lua")
