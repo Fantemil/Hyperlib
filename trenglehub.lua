@@ -4097,3 +4097,6 @@ addscript(3311740703,"Counter Blox", "CounterBloxModdedKillAllAimbotEsp", "Qalni
                     
                     
 addscriptexist(6755746130, "FruitJuiceTycoonAutoFarm", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FruitJuiceTycoonAutoFarm.lua")
+    
+addscript(9266432096,"Anime Journey [Auto Farm, Auto Spin, Auto Stats]", "AnimeJourneyAutoFarmAutoSpinAutoStats", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AnimeJourneyAutoFarmAutoSpinAutoStats.lua")
+                    
