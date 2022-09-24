@@ -1666,3 +1666,6 @@ addscript(10117551326,"UTBM (Dustpreme Hall drip) [God Mode]", "UTBMDustpremeHal
     
 addscript(9949781550,"Digging Simulator [Inf Money]", "DiggingSimulatorInfMoney", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DiggingSimulatorInfMoney.lua")
                     
+    
+addscript(10204162989,"Pickaxe Simulator [Auto Mine, Equip Best Pets, Redeem Code]", "PickaxeSimulatorAutoMineEquipBestPetsRedeemCode", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PickaxeSimulatorAutoMineEquipBestPetsRedeemCode.lua")
+                    
