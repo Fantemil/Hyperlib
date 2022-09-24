@@ -1528,3 +1528,6 @@ addscript(9658251985,"The Rake Kill Test [Kick paleyrs]", "TheRakeKillTestKickpa
                     
                     
 addscriptexist(9658251985, "TheRakeKillTestKillpeople", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TheRakeKillTestKillpeople.lua")
+    
+addscript(8328351891,"Mega Mansion Tycoon [Auto Buy, Auto Collect, Money Make Day]", "MegaMansionTycoonAutoBuyAutoCollectMoneyMakeDay", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MegaMansionTycoonAutoBuyAutoCollectMoneyMakeDay.lua")
+                    
