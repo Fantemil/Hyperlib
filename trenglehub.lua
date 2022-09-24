@@ -5874,3 +5874,6 @@ addscriptexist(7560156054, "ClickerSimulatorAutoClickAutoCollectGiftsOpenEgg", "
 addscriptexist(8357510970, "AnimePunchingSimulatorAutoTapAutoRebirthAutoOpenEgg", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AnimePunchingSimulatorAutoTapAutoRebirthAutoOpenEgg.lua")
                     
 addscriptexist(8540168650, "StandUprightRebootedItemServerHopFarm", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/StandUprightRebootedItemServerHopFarm.lua")
+    
+addscript(3501626887,"Diceboy [Bring dicecoins]", "DiceboyBringdicecoins", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DiceboyBringdicecoins.lua")
+                    
