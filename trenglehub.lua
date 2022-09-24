@@ -2390,3 +2390,6 @@ addscriptexist(2537430692, "JengaEndGameFly", "astrofile", "https://raw.githubus
 addscriptexist(286090429, "ArsenalKillAllSilentAim", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ArsenalKillAllSilentAim.lua")
                     
 addscriptexist(1962086868, "TowerofHellGodModeInfJump", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TowerofHellGodModeInfJump.lua")
+    
+addscript(4410049285,"Driving Simulator [Walkspeed, Rainbow Car]", "DrivingSimulatorWalkspeedRainbowCar", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DrivingSimulatorWalkspeedRainbowCar.lua")
+                    
