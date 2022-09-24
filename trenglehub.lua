@@ -5334,3 +5334,5 @@ addscript(9336657396,"A Beatdown Neighborhood [Auto Farm Power]", "ABeatdownNeig
     
 addscript(7797478022,"Broken Bones Simulator [Infinite Money]", "BrokenBonesSimulatorInfiniteMoney", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BrokenBonesSimulatorInfiniteMoney.lua")
                     
+                    
+addscriptexist(3823781113, "SaberSimulatorNewAutoFarmGUI", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SaberSimulatorNewAutoFarmGUI.lua")
