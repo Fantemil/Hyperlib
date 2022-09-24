@@ -3570,3 +3570,6 @@ addscript(8323912766,"Roblox [Chat Translator]", "RobloxChatTranslator", "Qalnik
     
 addscript(3840352284,"Volleyball 4.2 [No Line-Fault]", "Volleyball42NoLineFault", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Volleyball42NoLineFault.lua")
                     
+    
+addscript(9601849832,"Jetpack Battle [Insta-kill]", "JetpackBattleInstakill", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/JetpackBattleInstakill.lua")
+                    
