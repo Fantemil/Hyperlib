@@ -7546,3 +7546,5 @@ addscriptexist(2809202155, "YourBizarreAdventureTpAutoitemsAutoQuestWalkSpeed", 
     
 addscript(5055081323,"Swordman Simulator [Auto Farm]", "SwordmanSimulatorAutoFarm", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SwordmanSimulatorAutoFarm.lua")
                     
+                    
+addscriptexist(621129760, "KATAimBotAutoFarmPlayerEsp", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/KATAimBotAutoFarmPlayerEsp.lua")
