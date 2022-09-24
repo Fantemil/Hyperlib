@@ -8401,3 +8401,5 @@ addscript(3057050847,"Site-76", "Site76PrisonAnomaliesNoclipModDetector", "Terni
     
 addscript(5595252083,"RIOTFALL [Always HeadShot]", "RIOTFALLAlwaysHeadShot", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RIOTFALLAlwaysHeadShot.lua")
                     
+                    
+addscriptexist(1417427737, "MiningSimulatorAutoMineAutoSellNukeAura", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MiningSimulatorAutoMineAutoSellNukeAura.lua")
