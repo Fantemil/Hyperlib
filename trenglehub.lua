@@ -1645,3 +1645,5 @@ addscriptexist(6461766546, "AHerosDestinyAutoSpinAutoQuestAutoSkills", "Qalnik",
     
 addscript(7055501563,"Public Bathroom Simulator [Crash Server]", "PublicBathroomSimulatorCrashServer", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PublicBathroomSimulatorCrashServer.lua")
                     
+                    
+addscriptexist(5490351219, "ClickerMadnessAutoOpenEggAutoClickerTp", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ClickerMadnessAutoOpenEggAutoClickerTp.lua")
