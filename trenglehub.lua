@@ -8430,3 +8430,6 @@ addscriptexist(6802248248, "SAITAMANIAAutoFarmKillAura", "Terni", "https://raw.g
 addscriptexist(2248408710, "DestructionSimulatorAddMoneyAddLvl", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DestructionSimulatorAddMoneyAddLvl.lua")
                     
 addscriptexist(5041144419, "SCPRoleplaySilentAIMESPMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SCPRoleplaySilentAIMESPMore.lua")
+    
+addscript(5648523896,"Trenches", "TrenchesAlphaESPGunModeMeleeAura", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TrenchesAlphaESPGunModeMeleeAura.lua")
+                    
