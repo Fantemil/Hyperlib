@@ -1118,3 +1118,6 @@ addscriptexist(2066381781, "DeadlySinsRetributionAutoSpinMagic", "astrofile", "h
     
 addscript(1554960397,"Car Dealership Tycoon ", "CarDealershipTycoonAutoFarmAutoDrive", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CarDealershipTycoonAutoFarmAutoDrive.lua")
                     
+    
+addscript(2537430692,"Jenga ", "JengaWinGameFly", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/JengaWinGameFly.lua")
+                    
