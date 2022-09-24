@@ -5599,3 +5599,5 @@ addscript(5108587039,"Palm Ridge Beta [Auto Farm – Open Sourse]", "PalmRidgeBe
                     
                     
 addscriptexist(5783581, "TPSUltimateSoccerShootAutoGoalKeepMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TPSUltimateSoccerShootAutoGoalKeepMore.lua")
+                    
+addscriptexist(9344944754, "HunterxOmenAutoClimbTraining", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/HunterxOmenAutoClimbTraining.lua")
