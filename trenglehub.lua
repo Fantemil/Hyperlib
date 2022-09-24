@@ -4038,3 +4038,5 @@ addscriptexist(4588604953, "CriminalityAutoBlock", "Terni", "https://raw.githubu
 addscriptexist(2753915549, "BloxFruitSilentAim", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BloxFruitSilentAim.lua")
                     
 addscriptexist(8739839954, "JujutsuTycoonKillBoss", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/JujutsuTycoonKillBoss.lua")
+                    
+addscriptexist(8739839954, "JujutsuTycoonCollectLoot", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/JujutsuTycoonCollectLoot.lua")
