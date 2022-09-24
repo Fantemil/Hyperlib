@@ -8258,3 +8258,6 @@ addscriptexist(292439477, "PhantomForcesBanlandChatenabler", "Qalnik", "https://
 addscriptexist(3823781113, "SaberSimulatorCrackedGui20", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SaberSimulatorCrackedGui20.lua")
                     
 addscriptexist(4954096313, "FieldTripZKillAllPlayers", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FieldTripZKillAllPlayers.lua")
+    
+addscript(855499080,"SKYWARS [Anti Cheat Bypass]", "SKYWARSAntiCheatBypass", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SKYWARSAntiCheatBypass.lua")
+                    
