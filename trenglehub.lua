@@ -6293,3 +6293,5 @@ addscriptexist(5045567407, "NationsRoleplayPaintEntireWorldInstantly", "Terni", 
 addscriptexist(5780309044, "StandsAwakeningStandFarmAutoCollectItemsMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/StandsAwakeningStandFarmAutoCollectItemsMore.lua")
                     
 addscriptexist(6704278765, "DoloTonightConcertExperienceCollectAllEyes", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DoloTonightConcertExperienceCollectAllEyes.lua")
+                    
+addscriptexist(9041110505, "UnlimitedUpgradeSimulatorInfinityGems", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/UnlimitedUpgradeSimulatorInfinityGems.lua")
