@@ -8223,3 +8223,6 @@ addscript(8305160617,"Roblox [Auto Leave]", "RobloxAutoLeave", "Qalnik", "https:
 addscriptexist(7429434108, "AnimeTappersGUIAUTOFARMGIVEALLPASS", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AnimeTappersGUIAUTOFARMGIVEALLPASS.lua")
                     
 addscriptexist(7050008107, "HospitalTycoonPrioritizeMoneyAutoCollestCashKillAll", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/HospitalTycoonPrioritizeMoneyAutoCollestCashKillAll.lua")
+    
+addscript(5244411056,"Bloxy Bingo [Auto MArk, Auto Bingo, Rejoin]", "BloxyBingoAutoMArkAutoBingoRejoin", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BloxyBingoAutoMArkAutoBingoRejoin.lua")
+                    
