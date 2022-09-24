@@ -8361,3 +8361,5 @@ addscriptexist(6679274937, "VansWorldGiverEventItem", "Terni", "https://raw.gith
     
 addscript(885450884,"The Grand Crossing [Cashier Auto-Farm]", "TheGrandCrossingCashierAutoFarm", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TheGrandCrossingCashierAutoFarm.lua")
                     
+                    
+addscriptexist(6824046084, "SillysDifficultyChartAutoFarm", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SillysDifficultyChartAutoFarm.lua")
