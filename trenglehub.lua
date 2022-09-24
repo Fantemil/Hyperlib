@@ -7602,3 +7602,6 @@ addscript(2978450615,"Mad Paintball [Kill All]", "MadPaintballKillAll", "Qalnik"
                     
                     
 addscriptexist(182781154, "TheMazeRunnerChestFarm", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TheMazeRunnerChestFarm.lua")
+    
+addscript(914010731,"Ro-Ghoul [Farm, AutoEquip, Auto Skills]", "RoGhoulFarmAutoEquipAutoSkills", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RoGhoulFarmAutoEquipAutoSkills.lua")
+                    
