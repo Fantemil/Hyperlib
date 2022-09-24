@@ -5549,3 +5549,5 @@ addscriptexist(5712833750, "AnimalSimulatorMorphsMore", "Terni", "https://raw.gi
     
 addscript(4860819035,"Plants vs Zombies Garden Problem [Infinite Money]", "PlantsvsZombiesGardenProblemInfiniteMoney", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PlantsvsZombiesGardenProblemInfiniteMoney.lua")
                     
+                    
+addscriptexist(9292879820, "GrassCuttingIncrementalAutoCollect", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/GrassCuttingIncrementalAutoCollect.lua")
