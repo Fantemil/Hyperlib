@@ -4267,3 +4267,6 @@ addscript(6644653750,"Paper.IO [Semi Auto Win]", "PaperIOSemiAutoWin", "Terni", 
                     
                     
 addscriptexist(9017974931, "ValobloxATOMICVALOBLOXGUI", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ValobloxATOMICVALOBLOXGUI.lua")
+    
+addscript(4996049426,"All Star Tower Defense [Star Pass Farm V3]", "AllStarTowerDefenseStarPassFarmV3", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AllStarTowerDefenseStarPassFarmV3.lua")
+                    
