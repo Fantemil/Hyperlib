@@ -2695,3 +2695,5 @@ addscriptexist(9498006165, "TappingSimulatorAutoFarmGUI", "Terni", "https://raw.
 addscriptexist(7991339063, "RainbowFriendsCoinFarm", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RainbowFriendsCoinFarm.lua")
                     
 addscriptexist(10118559731, "nicosnextbotsblackoutsBotsPowerboxsEspInstantPowerbox", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/nicosnextbotsblackoutsBotsPowerboxsEspInstantPowerbox.lua")
+                    
+addscriptexist(6516141723, "DOORSLegitCheat–EspAndMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DOORSLegitCheat–EspAndMore.lua")
