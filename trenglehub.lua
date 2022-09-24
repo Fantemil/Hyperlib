@@ -6055,3 +6055,5 @@ addscriptexist(1458767429, "ABAItadoriAutoBlockFlash", "Terni", "https://raw.git
 addscriptexist(1458767429, "ABANEXHUB–AutoPlayInArena–AutoTargetPlayers", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ABANEXHUB–AutoPlayInArena–AutoTargetPlayers.lua")
                     
 addscriptexist(4588604953, "CriminalityWallbang", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CriminalityWallbang.lua")
+                    
+addscriptexist(189707, "NaturalDisasterSurvivalAutoWinMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NaturalDisasterSurvivalAutoWinMore.lua")
