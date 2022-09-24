@@ -1570,3 +1570,5 @@ addscript(4520749081,"King Legacy [Inf Dash, AutoFarm]", "KingLegacyInfDashAutoF
                     
                     
 addscriptexist(9498006165, "TappingSimulatorAutoRebirthInfJump", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TappingSimulatorAutoRebirthInfJump.lua")
+                    
+addscriptexist(9872472334, "EvadeQuickReviveShowChatAutofarm", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/EvadeQuickReviveShowChatAutofarm.lua")
