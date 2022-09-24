@@ -5633,3 +5633,5 @@ addscriptexist(6937208251, "StarWarsBattlefieldPVPGodMode", "Terni", "https://ra
     
 addscript(5135889792,"Dystovia [Collect All]", "DystoviaCollectAll", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DystoviaCollectAll.lua")
                     
+                    
+addscriptexist(9203864304, "RaiseaFloppaAutoFarmInstaFinish", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RaiseaFloppaAutoFarmInstaFinish.lua")
