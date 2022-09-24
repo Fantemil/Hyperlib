@@ -4794,3 +4794,5 @@ addscript(2000062521,"State of Anarchy 0.15.83.0 [Kill All]", "StateofAnarchy015
                     
                     
 addscriptexist(70005410, "BloxHuntPropChams", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BloxHuntPropChams.lua")
+                    
+addscriptexist(370731277, "MeepCitySnowballAll", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MeepCitySnowballAll.lua")
