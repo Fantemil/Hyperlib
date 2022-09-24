@@ -5188,3 +5188,6 @@ addscript(680750021,"Case Clicker [GUI - Auto Farm, Auto Upgrade]", "CaseClicker
     
 addscript(8524876576,"Glider Simulator [Auto Collect Coins]", "GliderSimulatorAutoCollectCoins", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/GliderSimulatorAutoCollectCoins.lua")
                     
+    
+addscript(9488143445,"Raise A Bloppa [Auto Farm GUI]", "RaiseABloppaAutoFarmGUI", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RaiseABloppaAutoFarmGUI.lua")
+                    
