@@ -4527,3 +4527,5 @@ addscriptexist(4540286603, "NORTHWINDCrashServer", "Qalnik", "https://raw.github
 addscriptexist(2788229376, "DaHoodinvisJumpscareScaryMusic", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DaHoodinvisJumpscareScaryMusic.lua")
                     
 addscriptexist(6915291292, "BakerySimulatorBuyOvens", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BakerySimulatorBuyOvens.lua")
+                    
+addscriptexist(4855457388, "DemonfallGUIAutoFarmAutoCollect", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DemonfallGUIAutoFarmAutoCollect.lua")
