@@ -6277,3 +6277,5 @@ addscript(7817016260,"Bloxston Mystery [Discover Everyones Roles]", "BloxstonMys
     
 addscript(4111023553,"Deepwoken [Chest ESP, No Fog, And More]", "DeepwokenChestESPNoFogAndMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DeepwokenChestESPNoFogAndMore.lua")
                     
+                    
+addscriptexist(3501626887, "DiceboyBringDicecoins", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DiceboyBringDicecoins.lua")
