@@ -3511,3 +3511,5 @@ addscriptexist(6678877691, "ZOぞSAMURAIAntiCheatBypass", "Terni", "https://raw.
     
 addscript(679737281,"Moon City [GUI - Aimbot, Teleports & More!]", "MoonCityGUIAimbotTeleportsMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MoonCityGUIAimbotTeleportsMore.lua")
                     
+                    
+addscriptexist(443406476, "ProjectLazarusGUIWeaponsModeVisualsMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ProjectLazarusGUIWeaponsModeVisualsMore.lua")
