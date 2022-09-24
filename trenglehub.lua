@@ -2217,3 +2217,6 @@ addscript(9976239895,"Gumball Factory Tycoon [Auto Farm]", "GumballFactoryTycoon
                     
                     
 addscriptexist(2788229376, "DaHoodSilentModeTriggerBot", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DaHoodSilentModeTriggerBot.lua")
+    
+addscript(2413927524,"The Rake REMASTERED [Notifications, Esp]", "TheRakeREMASTEREDNotificationsEsp", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TheRakeREMASTEREDNotificationsEsp.lua")
+                    
