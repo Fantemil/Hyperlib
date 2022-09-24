@@ -4245,3 +4245,6 @@ addscriptexist(2809202155, "YourBizarreAdventureAntiTeleportBypass", "Terni", "h
     
 addscript(5617626326,"Blood Samurai 2 [Auto Farm Cash]", "BloodSamurai2AutoFarmCash", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BloodSamurai2AutoFarmCash.lua")
                     
+    
+addscript(8592703594,"Undertale Unexplained Anomalies [Stardust Auto Farm]", "UndertaleUnexplainedAnomaliesStardustAutoFarm", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/UndertaleUnexplainedAnomaliesStardustAutoFarm.lua")
+                    
