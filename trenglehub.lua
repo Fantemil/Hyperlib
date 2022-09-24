@@ -6007,3 +6007,6 @@ addscript(5584024582,"The Rake Hour Test [Level Multiplier]", "TheRakeHourTestLe
     
 addscript(2927931172,"Shinobi Battlegrounds [Infiniti Yen,Ryo]", "ShinobiBattlegroundsInfinitiYenRyo", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ShinobiBattlegroundsInfinitiYenRyo.lua")
                     
+    
+addscript(4801349733,"Orion UI Library - Premium Bypass", "OrionUILibraryPremiumBypass", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OrionUILibraryPremiumBypass.lua")
+                    
