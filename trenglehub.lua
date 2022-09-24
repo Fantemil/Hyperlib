@@ -2351,3 +2351,6 @@ addscriptexist(10184360875, "PetFishingSimulatorAutoFarmRebirth", "astrofile", "
 addscriptexist(2537430692, "JengaSoundVineBoom", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/JengaSoundVineBoom.lua")
                     
 addscriptexist(2039118386, "NeighborhoodwarBypasser", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NeighborhoodwarBypasser.lua")
+    
+addscript(2772610559,"Farming and Friends [Auto Farm]", "FarmingandFriendsAutoFarm", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FarmingandFriendsAutoFarm.lua")
+                    
