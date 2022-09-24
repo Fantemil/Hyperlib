@@ -7773,3 +7773,5 @@ addscript(8107622002,"Heroes Unlimited Testing [LOOP Kill All]", "HeroesUnlimite
     
 addscript(3738091713,"Boxing League [Auto Pushing Bag - Open Sourse]", "BoxingLeagueAutoPushingBagOpenSourse", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BoxingLeagueAutoPushingBagOpenSourse.lua")
                     
+                    
+addscriptexist(6802248248, "SAITAMANIAAutoFarmAutoStats", "rbxscript", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SAITAMANIAAutoFarmAutoStats.lua")
