@@ -4002,3 +4002,5 @@ addscript(133815151,"The Final Stand 2 [Silent Aim]", "TheFinalStand2SilentAim",
                     
                     
 addscriptexist(9976239895, "GumballFactoryTycoonObbyMultiplier", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/GumballFactoryTycoonObbyMultiplier.lua")
+                    
+addscriptexist(8304191830, "AnimeAdventuresAutoAbilytiAutoUpgrade", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AnimeAdventuresAutoAbilytiAutoUpgrade.lua")
