@@ -6733,3 +6733,5 @@ addscriptexist(5310653431, "RobloxStreamSniper", "Qalnik", "https://raw.githubus
 addscriptexist(6667701234, "FateXeroTPallitems", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FateXeroTPallitems.lua")
                     
 addscriptexist(648362523, "BreakingPointSilentAimAlwaysHitGunSlinger", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BreakingPointSilentAimAlwaysHitGunSlinger.lua")
+                    
+addscriptexist(2809202155, "YourBizarreAdventureInvis", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/YourBizarreAdventureInvis.lua")
