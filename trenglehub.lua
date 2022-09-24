@@ -7341,3 +7341,6 @@ addscript(7535149098,"Space Tycoon [Insta Kill]", "SpaceTycoonInstaKill", "Terni
                     
                     
 addscriptexist(5780309044, "StandsAwakeningRareItemAutoFarm", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/StandsAwakeningRareItemAutoFarm.lua")
+    
+addscript(6911596531,"Defend the Statue [Auto Kill]", "DefendtheStatueAutoKill", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DefendtheStatueAutoKill.lua")
+                    
