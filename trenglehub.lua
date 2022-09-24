@@ -3499,3 +3499,5 @@ addscriptexist(10041417653, "TurbosMurderMystery2InfiniteCoins", "Terni", "https
 addscriptexist(5956785391, "ProjectSlayersGUIAutoFarmRiceFishMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ProjectSlayersGUIAutoFarmRiceFishMore.lua")
                     
 addscriptexist(1730877806, "GrandPieceOnlineyoucantattackandyoucantdie", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/GrandPieceOnlineyoucantattackandyoucantdie.lua")
+                    
+addscriptexist(10118559731, "nicosnextbotsServlagger", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/nicosnextbotsServlagger.lua")
