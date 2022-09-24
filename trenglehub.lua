@@ -8407,3 +8407,6 @@ addscriptexist(1417427737, "MiningSimulatorAutoMineAutoSellNukeAura", "Qalnik", 
 addscriptexist(6284583030, "PetSimulatorXUnlockGamepassAutoFarmAntiLag", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PetSimulatorXUnlockGamepassAutoFarmAntiLag.lua")
                     
 addscriptexist(6085581583, "ProjectHeroAddStaminaKillAuraAutoFarm", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ProjectHeroAddStaminaKillAuraAutoFarm.lua")
+    
+addscript(3311165597,"Dragon Blox Ultimate [Auto Farm - Select Mob & More!]", "DragonBloxUltimateAutoFarmSelectMobMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DragonBloxUltimateAutoFarmSelectMobMore.lua")
+                    
