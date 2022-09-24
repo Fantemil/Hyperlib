@@ -2755,3 +2755,6 @@ addscript(10319501620,"School of Sport [GUI - Collect All Coins]", "SchoolofSpor
                     
                     
 addscriptexist(9285238704, "RaceClickerAutoFarm", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RaceClickerAutoFarm.lua")
+    
+addscript(6983932919,"osu!RoVer [Auto Click Circles - Time Warp & More!]", "osuRoVerAutoClickCirclesTimeWarpMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/osuRoVerAutoClickCirclesTimeWarpMore.lua")
+                    
