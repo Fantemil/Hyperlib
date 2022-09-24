@@ -6969,3 +6969,6 @@ addscript(6582467377,"Vanity [Aimbot]", "VanityAimbot", "Terni", "https://raw.gi
 addscriptexist(9945521676, "Roblox–VoiceChatSPYV1Script", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Roblox–VoiceChatSPYV1Script.lua")
                     
 addscriptexist(292439477, "PhantomForcesHitBox", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PhantomForcesHitBox.lua")
+    
+addscript(8585910608,"Paintball Wars [Gun Mod]", "PaintballWarsGunMod", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PaintballWarsGunMod.lua")
+                    
