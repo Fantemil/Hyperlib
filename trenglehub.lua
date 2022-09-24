@@ -1037,3 +1037,5 @@ addscriptexist(10320240572, "EasyRaceClickerFastAutoWin", "Terni", "https://raw.
     
 addscript(10508296878,"Murder Mystery 7 ", "MurderMystery7RedeemAllCodes", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MurderMystery7RedeemAllCodes.lua")
                     
+                    
+addscriptexist(1224212277, "MadCityAutoFarmEXP", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MadCityAutoFarmEXP.lua")
