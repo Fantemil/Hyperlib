@@ -8466,3 +8466,5 @@ addscriptexist(292439477, "PhantomForcesPacificColdFrontPt2THIRDPERSON", "Terni"
 addscriptexist(6085581583, "ProjectHeroAutoFarm", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ProjectHeroAutoFarm.lua")
                     
 addscriptexist(10198661638, "MythicalStairsAutoFarm", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MythicalStairsAutoFarm.lua")
+                    
+addscriptexist(7430861102, "AincradAdventuresMobAutoFarming", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AincradAdventuresMobAutoFarming.lua")
