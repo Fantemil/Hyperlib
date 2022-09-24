@@ -4053,3 +4053,5 @@ addscriptexist(606849621, "JailbreakGUIVehiclesSettingsMore", "Terni", "https://
 addscriptexist(7952502098, "ImpossibleGlassBridgeObbyShowingtheway", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ImpossibleGlassBridgeObbyShowingtheway.lua")
                     
 addscriptexist(9961650006, "ShockwaveRacingAutoFarm", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ShockwaveRacingAutoFarm.lua")
+                    
+addscriptexist(9508087919, "ApeirophobiaInfiniteStaminaTeleportsMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ApeirophobiaInfiniteStaminaTeleportsMore.lua")
