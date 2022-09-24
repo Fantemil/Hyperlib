@@ -2020,3 +2020,6 @@ addscript(8876384197,"steal time from others & flex your sword [Reach Script]", 
 addscriptexist(4036494886, "GunSimulatorInfEverything", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/GunSimulatorInfEverything.lua")
                     
 addscriptexist(9049840490, "SonicSpeedSimulatorAutoRunAutoRebrith", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SonicSpeedSimulatorAutoRunAutoRebrith.lua")
+    
+addscript(394846350,"Jump Simulator [Auto Farm]", "JumpSimulatorAutoFarm", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/JumpSimulatorAutoFarm.lua")
+                    
