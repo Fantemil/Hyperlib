@@ -7665,3 +7665,6 @@ addscriptexist(6442957604, "CustomPCTycoonAutoFarmFEB2022", "Terni", "https://ra
 addscriptexist(7681451450, "AnimeSimulatorXAutoFarmGUIFEB2022", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AnimeSimulatorXAutoFarmGUIFEB2022.lua")
                     
 addscriptexist(7047488135, "SpeedSimulatorAutoLoopGetSpeed", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SpeedSimulatorAutoLoopGetSpeed.lua")
+    
+addscript(6429911702,"Master's Difficulty Chart Obby [complete all stages, complete monthly challange, complete experimental zone]", "MastersDifficultyChartObbycompleteallstagescompletemonthlychallangecompleteexperimentalzone", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MastersDifficultyChartObbycompleteallstagescompletemonthlychallangecompleteexperimentalzone.lua")
+                    
