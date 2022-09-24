@@ -3174,3 +3174,6 @@ addscript(1629847577,"Dragon Ball N [No CoolDown ]", "DragonBallNNoCoolDown", "Q
 addscriptexist(6284583030, "PetSimulatorXBanBypass", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PetSimulatorXBanBypass.lua")
                     
 addscriptexist(8540168650, "StandUprightRebootedGUIItemFarmAutoFarmMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/StandUprightRebootedGUIItemFarmAutoFarmMore.lua")
+    
+addscript(9103460924,"Sword Factory X [Auto Reroll Enchants]", "SwordFactoryXAutoRerollEnchants", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SwordFactoryXAutoRerollEnchants.lua")
+                    
