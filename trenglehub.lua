@@ -4478,3 +4478,6 @@ addscript(9566535167,"Diamond Reborn [Infinite Pokebooster Time]", "DiamondRebor
     
 addscript(9808430159,"Scan_Test.DEMO [Reveal All Parts]", "ScanTestDEMORevealAllParts", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ScanTestDEMORevealAllParts.lua")
                     
+    
+addscript(4618049391,"Tang County, Hebei [Auto Farm]", "TangCountyHebeiAutoFarm", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TangCountyHebeiAutoFarm.lua")
+                    
