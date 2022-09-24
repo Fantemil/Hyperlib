@@ -7363,3 +7363,6 @@ addscript(5171347293,"Cabin Crew Simulator [Infinite Money]", "CabinCrewSimulato
 addscriptexist(8592863835, "MagnetSimulator2UnlockAllGamepassesAutoFarmCoinsMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MagnetSimulator2UnlockAllGamepassesAutoFarmCoinsMore.lua")
                     
 addscriptexist(7560156054, "ClickerSimulatorAutoShiny", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ClickerSimulatorAutoShiny.lua")
+    
+addscript(6081494153,"Project Gaming [Damage Mod]", "ProjectGamingDamageMod", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ProjectGamingDamageMod.lua")
+                    
