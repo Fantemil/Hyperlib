@@ -2791,3 +2791,5 @@ addscript(8772496234,"Roblox [Admin Cmd]", "RobloxAdminCmd", "Qalnik", "https://
     
 addscript(8317588085,"Block Tycoon [Cheaper shop]", "BlockTycoonCheapershop", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BlockTycoonCheapershop.lua")
                     
+                    
+addscriptexist(537413528, "BestBuildABoatForTreasureAutoFarmTp", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BestBuildABoatForTreasureAutoFarmTp.lua")
