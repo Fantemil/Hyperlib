@@ -6779,3 +6779,5 @@ addscriptexist(7708751418, "SmashingSimulatorXobjectmod", "Qalnik", "https://raw
     
 addscript(8892207911,"Ragdoll Engine [Push All]", "RagdollEnginePushAll", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RagdollEnginePushAll.lua")
                     
+                    
+addscriptexist(5327880096, "OnlineBusinessSimulator2Autodeliverycrate", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OnlineBusinessSimulator2Autodeliverycrate.lua")
