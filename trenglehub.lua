@@ -3688,3 +3688,5 @@ addscriptexist(8304191830, "AnimeAdventuresGUIFullAutoFarmMore", "Terni", "https
     
 addscript(9508087919,"Apeirophobia [Teleport]", "ApeirophobiaTeleport", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ApeirophobiaTeleport.lua")
                     
+                    
+addscriptexist(8328351891, "MegaMansionTycoonAutoBuy", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MegaMansionTycoonAutoBuy.lua")
