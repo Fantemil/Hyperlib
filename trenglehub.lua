@@ -4750,3 +4750,6 @@ addscriptexist(1537690962, "BeeSwarmSimulatorAutoFarmAutoDigFarmFlames", "Qalnik
 addscriptexist(2753915549, "BloxFruitsAutoFarmLevelFastAttackAutoNewWorld", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BloxFruitsAutoFarmLevelFastAttackAutoNewWorld.lua")
                     
 addscriptexist(7791873535, "REALISTICHOODCreatesahugeblockinthemap", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/REALISTICHOODCreatesahugeblockinthemap.lua")
+    
+addscript(9547440060,"Space Noob Tycoon [Inf source of gold]", "SpaceNoobTycoonInfsourceofgold", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SpaceNoobTycoonInfsourceofgold.lua")
+                    
