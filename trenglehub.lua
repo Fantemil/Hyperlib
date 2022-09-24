@@ -8012,3 +8012,6 @@ addscriptexist(2809202155, "YourBizarreAdventureAutobuyStandattachStandFarm", "Q
 addscriptexist(1962086868, "TowerofHellInfiniteJumpGodModeAntiFog", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TowerofHellInfiniteJumpGodModeAntiFog.lua")
                     
 addscriptexist(7014716500, "ProBorderStrengthmax", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ProBorderStrengthmax.lua")
+    
+addscript(961426258,"Koala Cafe [Invisible, Auto Mop]", "KoalaCafeInvisibleAutoMop", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/KoalaCafeInvisibleAutoMop.lua")
+                    
