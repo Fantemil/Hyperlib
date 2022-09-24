@@ -4457,3 +4457,6 @@ addscriptexist(9726345231, "DuolingoGameHubDevBadgeRobloxEvent", "Terni", "https
 addscriptexist(2788229376, "DaHoodGUIAimlockKillBotMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DaHoodGUIAimlockKillBotMore.lua")
                     
 addscriptexist(893973440, "FleetheFacilityGUIEspTeleports", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FleetheFacilityGUIEspTeleports.lua")
+    
+addscript(8743251051,"Avalanche [God Mode]", "AvalancheGodMode", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AvalancheGodMode.lua")
+                    
