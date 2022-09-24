@@ -4937,3 +4937,6 @@ addscriptexist(5326405001, "BaseBattlesDogtagsXPAutoFarm", "Terni", "https://raw
     
 addscript(5678279798,"Fight Club [Kill Aura GUI]", "FightClubKillAuraGUI", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FightClubKillAuraGUI.lua")
                     
+    
+addscript(9438506890,"raise a sogga [Infinite Money]", "raiseasoggaInfiniteMoney", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/raiseasoggaInfiniteMoney.lua")
+                    
