@@ -5534,3 +5534,6 @@ addscriptexist(2248408710, "DestructionSimulatorInfiniteMoneyMaxLevelMore", "Ter
 addscriptexist(920587237, "AdoptMeAutoFarmAutoBabyMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AdoptMeAutoFarmAutoBabyMore.lua")
                     
 addscriptexist(286090429, "ArsenalGUIAimbotAntiAimESP", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ArsenalGUIAimbotAntiAimESP.lua")
+    
+addscript(8209480473,"Spotify Island [GUI - Auto Farm XP, Auto Farm Hearts]", "SpotifyIslandGUIAutoFarmXPAutoFarmHearts", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SpotifyIslandGUIAutoFarmXPAutoFarmHearts.lua")
+                    
