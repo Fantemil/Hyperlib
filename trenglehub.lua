@@ -6851,3 +6851,5 @@ addscriptexist(7419509075, "cartridearoundusedcarbatterySpawnCartsMore", "Terni"
     
 addscript(8639059522,"Magnifying Simulator [Damage Multiplier]", "MagnifyingSimulatorDamageMultiplier", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MagnifyingSimulatorDamageMultiplier.lua")
                     
+                    
+addscriptexist(1224212277, "MadCityInfiniteXpGetToLevel100In2Hours", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MadCityInfiniteXpGetToLevel100In2Hours.lua")
