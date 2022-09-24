@@ -1925,3 +1925,5 @@ addscriptexist(6284583030, "PetSimulatorXAutoFarmAutoEggs", "astrofile", "https:
     
 addscript(10325366821,"OOF Tycoon! [AutoCollect OOFs]", "OOFTycoonAutoCollectOOFs", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OOFTycoonAutoCollectOOFs.lua")
                     
+                    
+addscriptexist(7714627632, "WindsofFortuneAutoFarmFoodStoreEsp", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/WindsofFortuneAutoFarmFoodStoreEsp.lua")
