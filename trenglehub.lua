@@ -6990,3 +6990,5 @@ addscript(8381567809,"Ninja Star Simulator [Auto Farm & Auto Collect - Basic Aut
                     
                     
 addscriptexist(8232438881, "ThiefSimulatorAutoRobAutoSellMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ThiefSimulatorAutoRobAutoSellMore.lua")
+                    
+addscriptexist(6494523288, "BladeQuestAutoFarm", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BladeQuestAutoFarm.lua")
