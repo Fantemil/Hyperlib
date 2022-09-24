@@ -2565,3 +2565,6 @@ addscript(3095204897,"Isle, 9 [ESP, Noclip]", "Isle9ESPNoclip", "astrofile", "ht
                     
                     
 addscriptexist(8328351891, "MegaMansionTycoonAutoCollect", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MegaMansionTycoonAutoCollect.lua")
+    
+addscript(9733390246,"Stair Tappers! [Auto Climb]", "StairTappersAutoClimb", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/StairTappersAutoClimb.lua")
+                    
