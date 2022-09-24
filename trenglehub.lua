@@ -2067,3 +2067,5 @@ addscript(7177496972,"Anime Warriors [Auto Farm, Better Gfx]", "AnimeWarriorsAut
                     
                     
 addscriptexist(9049840490, "SonicSpeedSimulatorAutoWinRaceCollectAllObbysAutoRun", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SonicSpeedSimulatorAutoWinRaceCollectAllObbysAutoRun.lua")
+                    
+addscriptexist(9551640993, "MiningSimulator2AutoMineAutoSellAutoFactory", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MiningSimulator2AutoMineAutoSellAutoFactory.lua")
