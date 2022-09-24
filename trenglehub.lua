@@ -5472,3 +5472,5 @@ addscriptexist(9359839118, "GasStationSimulatorAutoFarmCashier", "Terni", "https
 addscriptexist(9359839118, "GasStationSimulatorAutoFarmRefueler", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/GasStationSimulatorAutoFarmRefueler.lua")
                     
 addscriptexist(9203864304, "raiseafloppaAutoCookers", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/raiseafloppaAutoCookers.lua")
+                    
+addscriptexist(5620664339, "RoStreetsAutoStomp", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RoStreetsAutoStomp.lua")
