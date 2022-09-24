@@ -4950,3 +4950,5 @@ addscript(3403279477,"Creeper Aw man [God Mode - Crash Server - Invisible]", "Cr
 addscriptexist(6728870912, "WorldofStandsDemoInfiniteGold", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/WorldofStandsDemoInfiniteGold.lua")
                     
 addscriptexist(659222129, "Swordburst2AutoFarmTpKillAura", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Swordburst2AutoFarmTpKillAura.lua")
+                    
+addscriptexist(5678279798, "FightClubKillAuraMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FightClubKillAuraMore.lua")
