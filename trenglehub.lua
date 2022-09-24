@@ -4175,3 +4175,6 @@ addscript(8110845141,"POOP WITH FRIENDS [GUI - Auto Farming]", "POOPWITHFRIENDSG
                     
                     
 addscriptexist(537413528, "BuildABoatForTreasureGUIAutoQuestAutoFarm", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BuildABoatForTreasureGUIAutoQuestAutoFarm.lua")
+    
+addscript(9359839118,"Gas Station Simulator [Break The Whole Game]", "GasStationSimulatorBreakTheWholeGame", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/GasStationSimulatorBreakTheWholeGame.lua")
+                    
