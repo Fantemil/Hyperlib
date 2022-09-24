@@ -1767,3 +1767,5 @@ addscriptexist(6284583030, "PetSimulatorXAutoFarmAutoopenEggAutoFarmChest", "Qal
     
 addscript(9103090927,"Stumble Buddies [Kick All]", "StumbleBuddiesKickAll", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/StumbleBuddiesKickAll.lua")
                     
+                    
+addscriptexist(2653064683, "WordBombAutoTypeAutoJoin", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/WordBombAutoTypeAutoJoin.lua")
