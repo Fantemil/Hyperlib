@@ -3058,3 +3058,5 @@ addscriptexist(3956818381, "NinjaLegendsGUIAutoFarm", "Terni", "https://raw.gith
     
 addscript(9705460681,"The Ants Undergrounnd Kingdom [Free Cash]", "TheAntsUndergrounndKingdomFreeCash", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TheAntsUndergrounndKingdomFreeCash.lua")
                     
+                    
+addscriptexist(9894044804, "BladeSimulatorGUIAutoSwingAutoSellMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BladeSimulatorGUIAutoSwingAutoSellMore.lua")
