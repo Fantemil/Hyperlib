@@ -7456,3 +7456,5 @@ addscriptexist(8554378337, "WeaponFightingSimulatorStartFarmCollectRewardsAntiAf
     
 addscript(2377868063,"ZONE WAR!! Strucid [Aimbot, Visuals, GunMods]", "ZONEWARStrucidAimbotVisualsGunMods", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ZONEWARStrucidAimbotVisualsGunMods.lua")
                     
+                    
+addscriptexist(3102144307, "AnimeClickerSimulatorAutoTapFasterTapAutoBoss", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AnimeClickerSimulatorAutoTapFasterTapAutoBoss.lua")
