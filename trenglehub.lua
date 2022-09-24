@@ -4564,3 +4564,5 @@ addscript(9306912037,"Hole In One Simulator [Auto Swing]", "HoleInOneSimulatorAu
                     
                     
 addscriptexist(198116126, "TradelandsAutoFarmTeleportWalkOnWaterMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TradelandsAutoFarmTeleportWalkOnWaterMore.lua")
+                    
+addscriptexist(5315066937, "SuperBSurfRevisedChangeYourSurfingBhopSpeed", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SuperBSurfRevisedChangeYourSurfingBhopSpeed.lua")
