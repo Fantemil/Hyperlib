@@ -3305,3 +3305,6 @@ addscriptexist(5201039691, "TatakaiV2MoneyFarm", "Terni", "https://raw.githubuse
 addscriptexist(8054462345, "MichaelsZombiesAntiKnockdown", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MichaelsZombiesAntiKnockdown.lua")
                     
 addscriptexist(8054462345, "MichaelsZombiesAlwaysHeadshotInstantReload", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MichaelsZombiesAlwaysHeadshotInstantReload.lua")
+    
+addscript(6606507295,"Turbo's Murder Mystery 2 [Get Free Paid Weapons]", "TurbosMurderMystery2GetFreePaidWeapons", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TurbosMurderMystery2GetFreePaidWeapons.lua")
+                    
