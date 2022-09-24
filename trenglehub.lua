@@ -7096,3 +7096,5 @@ addscriptexist(9945521676, "RobloxChatBypass", "Terni", "https://raw.githubuserc
 addscriptexist(2629642516, "BitcoinMinerAutoSnowFlakeAutoOvetclockAutoCrates", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BitcoinMinerAutoSnowFlakeAutoOvetclockAutoCrates.lua")
                     
 addscriptexist(6055959032, "JailbirdBanBypass", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/JailbirdBanBypass.lua")
+                    
+addscriptexist(2317712696, "TheWildWestESPFarmMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TheWildWestESPFarmMore.lua")
