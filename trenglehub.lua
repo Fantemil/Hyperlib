@@ -4150,3 +4150,6 @@ addscript(632642533,"DeadMist 2 Beta [God Mode, Teleport Bypass]", "DeadMist2Bet
                     
                     
 addscriptexist(180037022, "SonicUltimateRPGFarmRings", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SonicUltimateRPGFarmRings.lua")
+    
+addscript(8596411742,"Barb Blox Lane [Fast Farm]", "BarbBloxLaneFastFarm", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BarbBloxLaneFastFarm.lua")
+                    
