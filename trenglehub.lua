@@ -2146,3 +2146,6 @@ addscriptexist(10087074695, "KnifeStrifeKillAll", "Qalnik", "https://raw.githubu
 addscriptexist(662417684, "LUCKYBLOCKSBattlegroundsGetallluckyblocks", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LUCKYBLOCKSBattlegroundsGetallluckyblocks.lua")
                     
 addscriptexist(6766156863, "StrongmanSimulatorVeryOPAutofarm", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/StrongmanSimulatorVeryOPAutofarm.lua")
+    
+addscript(9961650006,"Shockwave Racing [Auto Win]", "ShockwaveRacingAutoWin", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ShockwaveRacingAutoWin.lua")
+                    
