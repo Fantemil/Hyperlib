@@ -7447,3 +7447,5 @@ addscriptexist(2866967438, "FishingSimulatorKillMonsterKillMobbyAutoSell", "Qaln
 addscriptexist(8523408215, "AloSanctuaryOrbCollectorEventGetAFreeCap", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AloSanctuaryOrbCollectorEventGetAFreeCap.lua")
                     
 addscriptexist(2788229376, "DaHoodFlyAutoBuyTeleports", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DaHoodFlyAutoBuyTeleports.lua")
+                    
+addscriptexist(8592863835, "MagnetSimulator2GUIx25SellTeleportsAllLocations", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MagnetSimulator2GUIx25SellTeleportsAllLocations.lua")
