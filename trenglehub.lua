@@ -3640,3 +3640,5 @@ addscriptexist(6570234816, "ManoCountyRoleplayKillAll", "Terni", "https://raw.gi
     
 addscript(9945521676,"Roblox [Hide VoiceChat Microphone on top of your head]", "RobloxHideVoiceChatMicrophoneontopofyourhead", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RobloxHideVoiceChatMicrophoneontopofyourhead.lua")
                     
+                    
+addscriptexist(863266079, "ApocalypseRising2InfJumpEspSnowHealth", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ApocalypseRising2InfJumpEspSnowHealth.lua")
