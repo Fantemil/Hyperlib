@@ -5344,3 +5344,5 @@ addscriptexist(7167319176, "ChicagoRemasteredJewelryStoreAutoFarm", "Terni", "ht
 addscriptexist(4855457388, "DemonfallTeleportToPlayer", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DemonfallTeleportToPlayer.lua")
                     
 addscriptexist(8278412720, "PrisonLifeRemasteredNoragdollNofalldamageNoEscape", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PrisonLifeRemasteredNoragdollNofalldamageNoEscape.lua")
+                    
+addscriptexist(9072679513, "AnimeImpactSimulatorAutoUpgradeTeleportAutoFarm", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AnimeImpactSimulatorAutoUpgradeTeleportAutoFarm.lua")
