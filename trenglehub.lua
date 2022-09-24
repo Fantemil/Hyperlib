@@ -4200,3 +4200,6 @@ addscriptexist(6755746130, "FruitJuiceTycoonRefreshedSimpleAutoFarm", "Terni", "
     
 addscript(9611595239,"Rift Royale [Esp + Aimbot]", "RiftRoyaleEspAimbot", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RiftRoyaleEspAimbot.lua")
                     
+    
+addscript(6269446951,"Smooth Slicing [Kill All]", "SmoothSlicingKillAll", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SmoothSlicingKillAll.lua")
+                    
