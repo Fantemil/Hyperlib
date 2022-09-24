@@ -7624,3 +7624,5 @@ addscript(4932220972,"Robbing Tycoon [Remote Kill Parts + Grab Money]", "Robbing
     
 addscript(8303498444,"Blocky World [Mine Ores]", "BlockyWorldMineOres", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BlockyWorldMineOres.lua")
                     
+                    
+addscriptexist(8303498444, "BlockyWorldInfiniteCoins", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BlockyWorldInfiniteCoins.lua")
