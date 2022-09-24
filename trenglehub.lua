@@ -1994,3 +1994,6 @@ addscriptexist(2248408710, "DestructionSimulatorSpinplayerWalkspeed", "astrofile
     
 addscript(5293755937,"Speed Run Simulator [AutoRebirth, AutoOrbs]", "SpeedRunSimulatorAutoRebirthAutoOrbs", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SpeedRunSimulatorAutoRebirthAutoOrbs.lua")
                     
+    
+addscript(10047913840,"Training Simulator [AutoLift, AutoRebirth]", "TrainingSimulatorAutoLiftAutoRebirth", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TrainingSimulatorAutoLiftAutoRebirth.lua")
+                    
