@@ -5080,3 +5080,6 @@ addscriptexist(2788229376, "DaHoodCashAutoFarmOpenSource", "Terni", "https://raw
     
 addscript(7346416636,"Pop It Trading [Dupe Script]", "PopItTradingDupeScript", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PopItTradingDupeScript.lua")
                     
+    
+addscript(7622046644,"Monster Ghoul [100 Billion Focus Points]", "MonsterGhoul100BillionFocusPoints", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MonsterGhoul100BillionFocusPoints.lua")
+                    
