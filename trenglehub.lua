@@ -5671,3 +5671,6 @@ addscriptexist(9461798258, "RaiseaGrannyInfiniteCash", "Terni", "https://raw.git
     
 addscript(9474050899,"Jackpot Party [Fast Case Opener]", "JackpotPartyFastCaseOpener", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/JackpotPartyFastCaseOpener.lua")
                     
+    
+addscript(5029300380,"BOXING CLUB [Kick Player]", "BOXINGCLUBKickPlayer", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BOXINGCLUBKickPlayer.lua")
+                    
