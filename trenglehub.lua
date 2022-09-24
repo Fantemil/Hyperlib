@@ -2986,3 +2986,6 @@ addscriptexist(6902912928, "GETTOTHETOPFinishInfmoney", "Qalnik", "https://raw.g
 addscriptexist(286090429, "ArsenalSoundChanger", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ArsenalSoundChanger.lua")
                     
 addscriptexist(9498006165, "TappingSimulatorSkipshinystage", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TappingSimulatorSkipshinystage.lua")
+    
+addscript(659222129,"Swordburst 2 [WalkSpeed, Invisibility, INF Sprint]", "Swordburst2WalkSpeedInvisibilityINFSprint", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Swordburst2WalkSpeedInvisibilityINFSprint.lua")
+                    
