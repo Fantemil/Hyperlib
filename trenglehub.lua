@@ -2926,3 +2926,6 @@ addscriptexist(10319501620, "SchoolofSportUnlockTheBackpack", "Terni", "https://
 addscriptexist(7180042682, "MilitaryTycoonSpifireAutoUnlocker", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MilitaryTycoonSpifireAutoUnlocker.lua")
                     
 addscriptexist(7952502098, "ImpossibleGlassBridgeObbyChangeGlassColour", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ImpossibleGlassBridgeObbyChangeGlassColour.lua")
+    
+addscript(10118428339,"FLOP [Auto Farm v2]", "FLOPAutoFarmv2", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FLOPAutoFarmv2.lua")
+                    
