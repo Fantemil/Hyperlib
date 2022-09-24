@@ -1427,3 +1427,5 @@ addscriptexist(662417684, "LUCKYBLOCKSBattlegroundsInfJumpWalkspeed", "astrofile
     
 addscript(8458333139,"1 LIFE [Fast Farm Lvl]", "1LIFEFastFarmLvl", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/1LIFEFastFarmLvl.lua")
                     
+                    
+addscriptexist(10676523834, "RacingRocketClickPower", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RacingRocketClickPower.lua")
