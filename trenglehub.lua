@@ -8375,3 +8375,6 @@ addscriptexist(6085581583, "ProjectHeroAutoQuestAutoStaminaAutoFarm", "Qalnik", 
 addscriptexist(4639625707, "OilWarfareTycoonAutoFarm", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OilWarfareTycoonAutoFarm.lua")
                     
 addscriptexist(6198225400, "LegendsReWrittenAutoFarm", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LegendsReWrittenAutoFarm.lua")
+    
+addscript(2984072291,"Zombie Stories [Silent Aim]", "ZombieStoriesSilentAim", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ZombieStoriesSilentAim.lua")
+                    
