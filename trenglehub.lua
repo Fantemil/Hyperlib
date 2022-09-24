@@ -1546,3 +1546,6 @@ addscript(4893679160,"Big Brain Simulator [AutoSell, Collect Coins]", "BigBrainS
     
 addscript(6245984328,"NERF Strike [AutoFarm, Hitboxes]", "NERFStrikeAutoFarmHitboxes", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NERFStrikeAutoFarmHitboxes.lua")
                     
+    
+addscript(9203864304,"raise a floppa [AutoClick, AutoCollectMoney]", "raiseafloppaAutoClickAutoCollectMoney", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/raiseafloppaAutoClickAutoCollectMoney.lua")
+                    
