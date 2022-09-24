@@ -3231,3 +3231,6 @@ addscriptexist(7991339063, "RainbowFriendsESP", "Terni", "https://raw.githubuser
     
 addscript(10057963710,"George Ezra’s Gold Rush Kid Experience [Collect All Puzzle Pieces]", "GeorgeEzra’sGoldRushKidExperienceCollectAllPuzzlePieces", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/GeorgeEzra’sGoldRushKidExperienceCollectAllPuzzlePieces.lua")
                     
+    
+addscript(30869879,"Stop it, Slender! [Free Premium Lootboxes]", "StopitSlenderFreePremiumLootboxes", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/StopitSlenderFreePremiumLootboxes.lua")
+                    
