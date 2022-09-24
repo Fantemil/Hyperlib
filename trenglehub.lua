@@ -5031,3 +5031,5 @@ addscript(8549934015,"REx Reincarnated [Auto Farm]", "RExReincarnatedAutoFarm", 
 addscriptexist(3956818381, "NinjaLegendsAutoFarmAutoBuyAllGUI", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NinjaLegendsAutoFarmAutoBuyAllGUI.lua")
                     
 addscriptexist(23578803, "HotelElephantGUIGiverCash", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/HotelElephantGUIGiverCash.lua")
+                    
+addscriptexist(740581508, "EntryPointNPCCameraESP", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/EntryPointNPCCameraESP.lua")
