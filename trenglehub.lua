@@ -4375,3 +4375,5 @@ addscript(7261493042,"Impossible Glass Bridge Obby [Path revealing]", "Impossibl
                     
                     
 addscriptexist(9103898828, "RogueDemonPunchDistance", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RogueDemonPunchDistance.lua")
+                    
+addscriptexist(9559194006, "socialexperimentAutobloodrainChatpredictor", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/socialexperimentAutobloodrainChatpredictor.lua")
