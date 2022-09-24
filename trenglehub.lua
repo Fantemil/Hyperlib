@@ -5522,3 +5522,5 @@ addscriptexist(8204899140, "FootballFusion2NoJumpCooldown", "Terni", "https://ra
 addscriptexist(7940932746, "AltLauncher–UnlimitedRobloxAccountsForever", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AltLauncher–UnlimitedRobloxAccountsForever.lua")
                     
 addscriptexist(1554960397, "CarDealershipTycoonAutoFarmSpeedChanger", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CarDealershipTycoonAutoFarmSpeedChanger.lua")
+                    
+addscriptexist(6461766546, "AHeroDestinyGUIAutoFarmBossFarmMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AHeroDestinyGUIAutoFarmBossFarmMore.lua")
