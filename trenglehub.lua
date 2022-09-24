@@ -7199,3 +7199,6 @@ addscript(7424863999,"Super Hero VS God Tycoon [Inf Money]", "SuperHeroVSGodTyco
                     
                     
 addscriptexist(4580204640, "SurvivetheKillerEsp", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SurvivetheKillerEsp.lua")
+    
+addscript(3494008884,"Donut Bakery Tycoon [Infity Money]", "DonutBakeryTycoonInfityMoney", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DonutBakeryTycoonInfityMoney.lua")
+                    
