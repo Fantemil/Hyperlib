@@ -2920,3 +2920,5 @@ addscript(9894044804,"Blade Simulator [GUI - Auto Farm]", "BladeSimulatorGUIAuto
                     
                     
 addscriptexist(10319501620, "SchoolofSportInfiniteMoney", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SchoolofSportInfiniteMoney.lua")
+                    
+addscriptexist(10319501620, "SchoolofSportUnlockTheBackpack", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SchoolofSportUnlockTheBackpack.lua")
