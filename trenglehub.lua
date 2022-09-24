@@ -7880,3 +7880,5 @@ addscriptexist(7279999673, "DragonBladeOpenWorldRPGInstantKill", "rbxscript", "h
 addscriptexist(6843905606, "CriticalLegendsGetAllChetsItems", "rbxscript", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CriticalLegendsGetAllChetsItems.lua")
                     
 addscriptexist(6843905606, "CriticalLegendsGodModeAutoTpGui", "rbxscript", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CriticalLegendsGodModeAutoTpGui.lua")
+                    
+addscriptexist(6843905606, "CriticalLegendsBlackMarkerHop", "rbxscript", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CriticalLegendsBlackMarkerHop.lua")
