@@ -2788,3 +2788,6 @@ addscript(7378050129,"Kill R63 with DOOM music [Changes the Numbers at All]", "K
     
 addscript(8772496234,"Roblox [Admin Cmd]", "RobloxAdminCmd", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RobloxAdminCmd.lua")
                     
+    
+addscript(8317588085,"Block Tycoon [Cheaper shop]", "BlockTycoonCheapershop", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BlockTycoonCheapershop.lua")
+                    
