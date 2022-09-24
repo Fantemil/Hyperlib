@@ -1987,3 +1987,5 @@ addscript(10218821851,"Client Replication [Fe Becoming a monster]", "ClientRepli
     
 addscript(8204899140,"Football Fusion 2 [Auto Catch, FootballLock, Auto Captain]", "FootballFusion2AutoCatchFootballLockAutoCaptain", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FootballFusion2AutoCatchFootballLockAutoCaptain.lua")
                     
+                    
+addscriptexist(2788229376, "DaHoodLegitAimlock", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DaHoodLegitAimlock.lua")
