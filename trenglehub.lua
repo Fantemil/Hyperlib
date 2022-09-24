@@ -4500,3 +4500,5 @@ addscriptexist(8884433153, "CollectAllPetsGUIAutoFarm", "Terni", "https://raw.gi
 addscriptexist(1554960397, "CarDealershipTycoonAutoFarmInfinitySpeedWalkonwater", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CarDealershipTycoonAutoFarmInfinitySpeedWalkonwater.lua")
                     
 addscriptexist(7056922815, "Rapeer2AutoFarmAutoQuestAutoEquip", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Rapeer2AutoFarmAutoQuestAutoEquip.lua")
+                    
+addscriptexist(1962086868, "TowerOfHellAutoWinGodModeSpeedHack", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TowerOfHellAutoWinGodModeSpeedHack.lua")
