@@ -5443,3 +5443,5 @@ addscriptexist(9344944754, "HunterxAthenaAutoBuyApples", "Terni", "https://raw.g
     
 addscript(705844193,"One Piece Online Rebirth [Grab All Chests}", "OnePieceOnlineRebirthGrabAllChests", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OnePieceOnlineRebirthGrabAllChests.lua")
                     
+                    
+addscriptexist(534701013, "TheLabyrinthGUIReallyOverpowered", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TheLabyrinthGUIReallyOverpowered.lua")
