@@ -6853,3 +6853,5 @@ addscript(8639059522,"Magnifying Simulator [Damage Multiplier]", "MagnifyingSimu
                     
                     
 addscriptexist(1224212277, "MadCityInfiniteXpGetToLevel100In2Hours", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MadCityInfiniteXpGetToLevel100In2Hours.lua")
+                    
+addscriptexist(7480222488, "RobloxSkeletonEsp", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RobloxSkeletonEsp.lua")
