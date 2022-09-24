@@ -1895,3 +1895,6 @@ addscriptexist(3351674303, "DrivingEmpireAutoFarmAutoDragRace", "astrofile", "ht
     
 addscript(6708206173,"Rate My Avatar [Animations, WalkSpeed, Swears]", "RateMyAvatarAnimationsWalkSpeedSwears", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RateMyAvatarAnimationsWalkSpeedSwears.lua")
                     
+    
+addscript(6542731310,"Dogecoin Mining Tycoon [Clear gpu's, Tp, WalkSPeed]", "DogecoinMiningTycoonCleargpusTpWalkSPeed", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DogecoinMiningTycoonCleargpusTpWalkSPeed.lua")
+                    
