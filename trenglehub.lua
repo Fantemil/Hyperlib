@@ -8203,3 +8203,5 @@ addscriptexist(6802248248, "SAITAMANIAGiantSnowmanFarm", "Qalnik", "https://raw.
     
 addscript(4793451617,"Planet Mining Simulator [Auto Farm & More!]", "PlanetMiningSimulatorAutoFarmMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PlanetMiningSimulatorAutoFarmMore.lua")
                     
+                    
+addscriptexist(5736409216, "MallTycoonGUIAutoBuyAutoCollectMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MallTycoonGUIAutoBuyAutoCollectMore.lua")
