@@ -2196,3 +2196,5 @@ addscriptexist(9840387028, "EraofAltheaRedeemcodes", "astrofile", "https://raw.g
     
 addscript(6407649031,"NO-SCOPE ARCADE [Aimbot, KillAll]", "NOSCOPEARCADEAimbotKillAll", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NOSCOPEARCADEAimbotKillAll.lua")
                     
+                    
+addscriptexist(8540346411, "RebirthChampionsXAutoClickAutoHatch", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RebirthChampionsXAutoClickAutoHatch.lua")
