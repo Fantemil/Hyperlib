@@ -6215,3 +6215,6 @@ addscript(334218733,"Warships [GUI - Give Coins - Give Ships - Kill All & Instan
                     
                     
 addscriptexist(4753520418, "TheHoodEggESP", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TheHoodEggESP.lua")
+    
+addscript(8982709021,"YouTube Life [Collect All Eggs]", "YouTubeLifeCollectAllEggs", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/YouTubeLifeCollectAllEggs.lua")
+                    
