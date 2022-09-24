@@ -1735,3 +1735,5 @@ addscriptexist(9285238704, "RaceClickerAutoFarmAutoClick", "astrofile", "https:/
 addscriptexist(9872472334, "EvadeAutoRespawnBotEsp", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/EvadeAutoRespawnBotEsp.lua")
                     
 addscriptexist(3956818381, "NinjaLegendsAutoFarmAutoCrystals", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NinjaLegendsAutoFarmAutoCrystals.lua")
+                    
+addscriptexist(4951858512, "VictoryRaceAntiLagAutoWin", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/VictoryRaceAntiLagAutoWin.lua")
