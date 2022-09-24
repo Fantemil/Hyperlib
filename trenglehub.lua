@@ -4960,3 +4960,5 @@ addscriptexist(8534845015, "SakuraStandAutoKillBoxAutoFarm", "Terni", "https://r
 addscriptexist(2317712696, "TheWildWestInfiniteStamina", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TheWildWestInfiniteStamina.lua")
                     
 addscriptexist(2546155523, "RoVilleAutoRestockBusinessOpenSource", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RoVilleAutoRestockBusinessOpenSource.lua")
+                    
+addscriptexist(9461798258, "RaiseaGrannyInfiniteMoney", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RaiseaGrannyInfiniteMoney.lua")
