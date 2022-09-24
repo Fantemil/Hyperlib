@@ -3902,3 +3902,5 @@ addscriptexist(2753915549, "BloxFruitsGUIAutofarm", "Terni", "https://raw.github
     
 addscript(8151832473,"TheGhettoGame [Inf Money]", "TheGhettoGameInfMoney", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TheGhettoGameInfMoney.lua")
                     
+                    
+addscriptexist(2788229376, "DaHoodAutoFarmCashGodmodeInfiniteStamina", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DaHoodAutoFarmCashGodmodeInfiniteStamina.lua")
