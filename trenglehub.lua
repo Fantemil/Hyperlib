@@ -8039,3 +8039,5 @@ addscriptexist(413424176, "CloneTycoon2AdminFunction", "Terni", "https://raw.git
 addscriptexist(6114360009, "PrisonLife3AutoRob1000PerSecond", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PrisonLife3AutoRob1000PerSecond.lua")
                     
 addscriptexist(6902912928, "GETTOTHETOPInfinitePoints", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/GETTOTHETOPInfinitePoints.lua")
+                    
+addscriptexist(6902912928, "GETTOTHETOPAutoWin", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/GETTOTHETOPAutoWin.lua")
