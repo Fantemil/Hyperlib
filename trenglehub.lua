@@ -6846,3 +6846,5 @@ addscript(8479386309,"Egg Hunt 2022 Lost in Time [Collect All Coins & More!]", "
     
 addscript(6561788350,"SPLIX UI LIB – Free To Use – New UI 2022", "SPLIXUILIB–FreeToUse–NewUI2022", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SPLIXUILIB–FreeToUse–NewUI2022.lua")
                     
+                    
+addscriptexist(7419509075, "cartridearoundusedcarbatterySpawnCartsMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/cartridearoundusedcarbatterySpawnCartsMore.lua")
