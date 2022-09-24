@@ -6625,3 +6625,5 @@ addscriptexist(8592863835, "MagnetSimulator2AutoFarmAutoSellAutoOpenEgg", "Qalni
 addscriptexist(8232438881, "ThiefSimulatorRobFarmAutoSellATMFarm", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ThiefSimulatorRobFarmAutoSellATMFarm.lua")
                     
 addscriptexist(2317712696, "TheWildWestAntiAfkGunSpeedSilentAim", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TheWildWestAntiAfkGunSpeedSilentAim.lua")
+                    
+addscriptexist(654732683, "CarCrushers2AutoFarm", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CarCrushers2AutoFarm.lua")
