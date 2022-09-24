@@ -8667,3 +8667,5 @@ addscriptexist(5712833750, "AnimalSimulatorExpFarmCollectCheats", "Terni", "http
     
 addscript(7017764865,"Be a Baby! Simulator [AUTO-FARM, AUTO-SELL, MORE!]", "BeaBabySimulatorAUTOFARMAUTOSELLMORE", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BeaBabySimulatorAUTOFARMAUTOSELLMORE.lua")
                     
+                    
+addscriptexist(4410049285, "DrivingSimulatorNEWAUTOFARM", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DrivingSimulatorNEWAUTOFARM.lua")
