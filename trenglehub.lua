@@ -5138,3 +5138,5 @@ addscript(5134682719,"Death Note [Find Kira Easily]", "DeathNoteFindKiraEasily",
 addscriptexist(8357510970, "AnimePunchingSimulatorGUIAutoClickAutoBuyMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AnimePunchingSimulatorGUIAutoClickAutoBuyMore.lua")
                     
 addscriptexist(3101667897, "LegendsOfSpeedGUIAutoStepsFarmGems", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LegendsOfSpeedGUIAutoStepsFarmGems.lua")
+                    
+addscriptexist(5543622168, "CriticalTowerDefenseUnlockHotRash", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CriticalTowerDefenseUnlockHotRash.lua")
