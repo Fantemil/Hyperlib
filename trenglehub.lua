@@ -4272,3 +4272,5 @@ addscript(4996049426,"All Star Tower Defense [Star Pass Farm V3]", "AllStarTower
                     
                     
 addscriptexist(654732683, "CarCrusher2GUIAIAutoFarm", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CarCrusher2GUIAIAutoFarm.lua")
+                    
+addscriptexist(9611595239, "RiftRoyaleESP", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RiftRoyaleESP.lua")
