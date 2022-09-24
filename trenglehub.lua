@@ -3260,3 +3260,5 @@ addscript(7214610985,"Stealth 2 [Kill Aura - Auto Retaliate - Auto Block]", "Ste
                     
                     
 addscriptexist(5571328985, "BloodlinesNoFire", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BloodlinesNoFire.lua")
+                    
+addscriptexist(8278412720, "CSPrisonLifeBETAAntiCheatBypass", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CSPrisonLifeBETAAntiCheatBypass.lua")
