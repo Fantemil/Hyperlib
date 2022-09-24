@@ -4455,3 +4455,5 @@ addscriptexist(8540168650, "StandUprightRebootedGUIItemsFarmQuestFarmsMore", "Te
 addscriptexist(9726345231, "DuolingoGameHubDevBadgeRobloxEvent", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DuolingoGameHubDevBadgeRobloxEvent.lua")
                     
 addscriptexist(2788229376, "DaHoodGUIAimlockKillBotMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DaHoodGUIAimlockKillBotMore.lua")
+                    
+addscriptexist(893973440, "FleetheFacilityGUIEspTeleports", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FleetheFacilityGUIEspTeleports.lua")
