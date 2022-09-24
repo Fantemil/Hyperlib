@@ -1903,3 +1903,5 @@ addscript(8436975214,"Dangerous Speeds [Unlock All Cars]", "DangerousSpeedsUnloc
                     
                     
 addscriptexist(10320240572, "EasyRaceClickerAutoWins", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/EasyRaceClickerAutoWins.lua")
+                    
+addscriptexist(6608498361, "cursedtanksimulatorIncreaseAmmunitionhitbox", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/cursedtanksimulatorIncreaseAmmunitionhitbox.lua")
