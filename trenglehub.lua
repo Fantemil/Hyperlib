@@ -6254,3 +6254,5 @@ addscriptexist(8005620792, "RobloxCasinoInfiniteChips", "Terni", "https://raw.gi
 addscriptexist(3101667897, "LegendsOfSpeedAutoFarmGUI", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LegendsOfSpeedAutoFarmGUI.lua")
                     
 addscriptexist(7371240697, "GiantDancingSimulatorCollectGems", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/GiantDancingSimulatorCollectGems.lua")
+                    
+addscriptexist(4588604953, "CriminalityNoSpread", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CriminalityNoSpread.lua")
