@@ -3545,3 +3545,5 @@ addscriptexist(6716188523, "BusinessTycoonInfiniteMoney", "Terni", "https://raw.
 addscriptexist(8123652942, "LegendPieceNoCooldown", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LegendPieceNoCooldown.lua")
                     
 addscriptexist(2788229376, "DaHoodAutoFarmAntiAfk", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DaHoodAutoFarmAntiAfk.lua")
+                    
+addscriptexist(920587237, "AdoptMeAutoFarmAutoCashoutMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AdoptMeAutoFarmAutoCashoutMore.lua")
