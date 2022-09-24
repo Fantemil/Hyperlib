@@ -7725,3 +7725,5 @@ addscript(8575272167,"Awakening Furry Defenses [Shut Down The Server Script]", "
                     
                     
 addscriptexist(8357510970, "AnimePunchingSimulatorAutoPunchTeleportsMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AnimePunchingSimulatorAutoPunchTeleportsMore.lua")
+                    
+addscriptexist(2693023319, "ExpeditionAntarcticaGetAllBadgesInfMoney", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ExpeditionAntarcticaGetAllBadgesInfMoney.lua")
