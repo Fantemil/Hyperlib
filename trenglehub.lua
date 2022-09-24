@@ -3264,3 +3264,6 @@ addscriptexist(5571328985, "BloodlinesNoFire", "Terni", "https://raw.githubuserc
 addscriptexist(8278412720, "CSPrisonLifeBETAAntiCheatBypass", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CSPrisonLifeBETAAntiCheatBypass.lua")
                     
 addscriptexist(4581966615, "AnomicCombatreadyautohealBonfire’sbackpackspySilentaim", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AnomicCombatreadyautohealBonfire’sbackpackspySilentaim.lua")
+    
+addscript(6716378218,"Da Hood [Auto Arrest]", "DaHoodAutoArrest", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DaHoodAutoArrest.lua")
+                    
