@@ -2243,3 +2243,6 @@ addscript(4003872968,"Giant Survival! [Inf Money, Best Gun]", "GiantSurvivalInfM
     
 addscript(8531522502,"Facility Of Redemption [WalkSpeed]", "FacilityOfRedemptionWalkSpeed", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FacilityOfRedemptionWalkSpeed.lua")
                     
+    
+addscript(391104146,"Let's Party∞ +Gear Testing Edition [Ban All, Fly]", "LetsParty∞GearTestingEditionBanAllFly", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LetsParty∞GearTestingEditionBanAllFly.lua")
+                    
