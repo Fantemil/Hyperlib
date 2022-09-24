@@ -4366,3 +4366,5 @@ addscriptexist(9551640993, "MiningSimulator2FakeHatcherGUI", "Terni", "https://r
 addscriptexist(6644653750, "PaperIOAutoWIn", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PaperIOAutoWIn.lua")
                     
 addscriptexist(35397735, "ScubaDivingatQuillLakeGiveallgamepass", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ScubaDivingatQuillLakeGiveallgamepass.lua")
+                    
+addscriptexist(9017974931, "ValobloxAutoOpenCrates", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ValobloxAutoOpenCrates.lua")
