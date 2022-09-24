@@ -4284,3 +4284,6 @@ addscript(8656044807,"Swinging Simulator [Unlock Every Badge]", "SwingingSimulat
                     
                     
 addscriptexist(8123652942, "LegendPieceKillAura", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LegendPieceKillAura.lua")
+    
+addscript(9534337535,"Shrek in the Backrooms [GUI - ESP, Loot Stuff]", "ShrekintheBackroomsGUIESPLootStuff", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ShrekintheBackroomsGUIESPLootStuff.lua")
+                    
