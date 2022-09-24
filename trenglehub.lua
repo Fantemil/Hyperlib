@@ -4964,3 +4964,6 @@ addscriptexist(2546155523, "RoVilleAutoRestockBusinessOpenSource", "Terni", "htt
 addscriptexist(9461798258, "RaiseaGrannyInfiniteMoney", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RaiseaGrannyInfiniteMoney.lua")
                     
 addscriptexist(3956818381, "NinjaLegendsGUIAutoFarmAutoSellMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NinjaLegendsGUIAutoFarmAutoSellMore.lua")
+    
+addscript(7791106063,"Furry Infection [Kill All, Kill Aura, AutoGerBat]", "FurryInfectionKillAllKillAuraAutoGerBat", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FurryInfectionKillAllKillAuraAutoGerBat.lua")
+                    
