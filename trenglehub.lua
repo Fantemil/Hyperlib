@@ -1600,3 +1600,6 @@ addscriptexist(5602055394, "HoodModdedSilentAimEsp", "astrofile", "https://raw.g
     
 addscript(10347946161,"Rat Washing Tycoon [Auto Farm]", "RatWashingTycoonAutoFarm", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RatWashingTycoonAutoFarm.lua")
                     
+    
+addscript(10705886260,"Strucid [Anti-Cheat Bypass]", "StrucidAntiCheatBypass", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/StrucidAntiCheatBypass.lua")
+                    
