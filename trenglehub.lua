@@ -3377,3 +3377,5 @@ addscript(8528736393,"Beatland [Free UGC Items GUI]", "BeatlandFreeUGCItemsGUI",
     
 addscript(9603033881,"Bid Battles [Auto Queue Auction, Auto Bid, Auto Sell]", "BidBattlesAutoQueueAuctionAutoBidAutoSell", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BidBattlesAutoQueueAuctionAutoBidAutoSell.lua")
                     
+                    
+addscriptexist(9940051005, "BloxLegendsInfiniteMoney", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BloxLegendsInfiniteMoney.lua")
