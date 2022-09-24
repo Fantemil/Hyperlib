@@ -1543,3 +1543,6 @@ addscript(8054462345,"Michael's Zombies [Kill Aura]", "MichaelsZombiesKillAura",
                     
                     
 addscriptexist(8130299583, "TridentSurvivalEspHeadHbeXray", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TridentSurvivalEspHeadHbeXray.lua")
+    
+addscript(9737855826,"Trade Simulator [AntiAFK]", "TradeSimulatorAntiAFK", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TradeSimulatorAntiAFK.lua")
+                    
