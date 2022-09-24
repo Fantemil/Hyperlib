@@ -7411,3 +7411,5 @@ addscript(7187281400,"Touch Football World Cup [Easy Goal Tool]", "TouchFootball
                     
                     
 addscriptexist(5041144419, "SCPRoleplayExpFarmSilentAimInstantReload", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SCPRoleplayExpFarmSilentAimInstantReload.lua")
+                    
+addscriptexist(6403373529, "SlapBattlesServerLagger", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SlapBattlesServerLagger.lua")
