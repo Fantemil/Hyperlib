@@ -3912,3 +3912,5 @@ addscript(2551184308,"Roblox [Re-enter after a kick]", "RobloxReenterafterakick"
                     
                     
 addscriptexist(2809202155, "YourBizarreAdventureNoCooldown", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/YourBizarreAdventureNoCooldown.lua")
+                    
+addscriptexist(9551640993, "MiningSimulator2AutoFishAllAreas", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MiningSimulator2AutoFishAllAreas.lua")
