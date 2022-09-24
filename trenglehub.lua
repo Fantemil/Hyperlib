@@ -3836,3 +3836,6 @@ addscriptexist(263761432, "HorrificHousingGUIDestroyMeteorMore", "Terni", "https
     
 addscript(9601565001,"Car Crash System [Spawn Any Paid Car]", "CarCrashSystemSpawnAnyPaidCar", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CarCrashSystemSpawnAnyPaidCar.lua")
                     
+    
+addscript(9578901194,"Woman Repellant [Women will not run away from you]", "WomanRepellantWomenwillnotrunawayfromyou", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/WomanRepellantWomenwillnotrunawayfromyou.lua")
+                    
