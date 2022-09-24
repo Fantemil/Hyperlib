@@ -6151,3 +6151,5 @@ addscriptexist(5951002734, "ProjectBaki2AutoFarmFree", "Terni", "https://raw.git
 addscriptexist(9049840490, "SonicSpeedSimulatorThe1FreeAutoFarmGUI", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SonicSpeedSimulatorThe1FreeAutoFarmGUI.lua")
                     
 addscriptexist(35397735, "ScubaDivingatQuillLakeAutoFarmGUI", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ScubaDivingatQuillLakeAutoFarmGUI.lua")
+                    
+addscriptexist(8540168650, "StandUprightRebootedItemGrabber", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/StandUprightRebootedItemGrabber.lua")
