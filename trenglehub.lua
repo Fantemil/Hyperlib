@@ -3241,3 +3241,5 @@ addscriptexist(3346617530, "FreezeTagExtremev24AntiAdminTagAllPlayersMore", "Ter
     
 addscript(2629642516,"Bitcoin Miner [Anti Card Lag]", "BitcoinMinerAntiCardLag", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BitcoinMinerAntiCardLag.lua")
                     
+                    
+addscriptexist(5571328985, "BloodlinesAutoFarm", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BloodlinesAutoFarm.lua")
