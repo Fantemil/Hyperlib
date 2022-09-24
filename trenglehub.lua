@@ -3651,3 +3651,5 @@ addscript(4598019433,"generic roleplay gaem [GUI - Auto Farm]", "genericroleplay
 addscriptexist(863266079, "ApocalypseRising2AntiZombieFreeze", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ApocalypseRising2AntiZombieFreeze.lua")
                     
 addscriptexist(863266079, "ApocalypseRising2TeleportToPosition", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ApocalypseRising2TeleportToPosition.lua")
+                    
+addscriptexist(185655149, "BloxburgGUIAutoBuild", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BloxburgGUIAutoBuild.lua")
