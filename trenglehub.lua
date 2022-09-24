@@ -7976,3 +7976,5 @@ addscript(6585294146,"Lifting Items Simulator [Auto Farm]", "LiftingItemsSimulat
     
 addscript(6810246027,"extraOrdinary [Auto Farm, Kill Aura]", "extraOrdinaryAutoFarmKillAura", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/extraOrdinaryAutoFarmKillAura.lua")
                     
+                    
+addscriptexist(7791873535, "REALISTICHOODInfMoney", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/REALISTICHOODInfMoney.lua")
