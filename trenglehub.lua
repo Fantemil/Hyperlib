@@ -4015,3 +4015,6 @@ addscriptexist(8303902695, "PetPosseSpamCoins", "Terni", "https://raw.githubuser
 addscriptexist(8303902695, "PetPosseRemoveEggAnimations", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PetPosseRemoveEggAnimations.lua")
                     
 addscriptexist(9281034297, "GoalKickSimulatorAutoTime", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/GoalKickSimulatorAutoTime.lua")
+    
+addscript(4616247820,"Journey to the Sun [Collect All Coins]", "JourneytotheSunCollectAllCoins", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/JourneytotheSunCollectAllCoins.lua")
+                    
