@@ -2193,3 +2193,6 @@ addscriptexist(4282985734, "CombatWarriorsKillAuraNoparry", "astrofile", "https:
 addscriptexist(2788229376, "DaHoodTrashTalk", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DaHoodTrashTalk.lua")
                     
 addscriptexist(9840387028, "EraofAltheaRedeemcodes", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/EraofAltheaRedeemcodes.lua")
+    
+addscript(6407649031,"NO-SCOPE ARCADE [Aimbot, KillAll]", "NOSCOPEARCADEAimbotKillAll", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NOSCOPEARCADEAimbotKillAll.lua")
+                    
