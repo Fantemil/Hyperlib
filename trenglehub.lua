@@ -5064,3 +5064,5 @@ addscript(6969185078,"Elemental Awakening [Spin Farm + Auto Roll]", "ElementalAw
 addscriptexist(6938803436, "BirdHub7Games", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BirdHub7Games.lua")
                     
 addscriptexist(5543622168, "CriticalTowerDefenseGUIChangeTowerColors", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CriticalTowerDefenseGUIChangeTowerColors.lua")
+                    
+addscriptexist(2809202155, "YourBizarreAdventureFlyBypass", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/YourBizarreAdventureFlyBypass.lua")
