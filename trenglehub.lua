@@ -2731,3 +2731,5 @@ addscriptexist(10386774046, "LegendMagician1Shot", "Terni", "https://raw.githubu
     
 addscript(109814071,"Medieval Warfare Reforged [Auto Farm - GUI]", "MedievalWarfareReforgedAutoFarmGUI", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MedievalWarfareReforgedAutoFarmGUI.lua")
                     
+                    
+addscriptexist(6874129651, "ShinyTools12Games", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ShinyTools12Games.lua")
