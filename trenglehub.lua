@@ -5888,3 +5888,6 @@ addscriptexist(6938803436, "AnimeDimensionsSimulatorAutoFarmAutoSkillsMore", "Te
 addscriptexist(8069117419, "DemonSoulSimulatorAutoFarmFreeGUI", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DemonSoulSimulatorAutoFarmFreeGUI.lua")
                     
 addscriptexist(3260590327, "TowerDefenseSimulatorAutofarmgem", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TowerDefenseSimulatorAutofarmgem.lua")
+    
+addscript(6704278765,"Dolo Tonight Concert Experience [Collect All eyes]", "DoloTonightConcertExperienceCollectAlleyes", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DoloTonightConcertExperienceCollectAlleyes.lua")
+                    
