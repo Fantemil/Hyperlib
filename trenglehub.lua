@@ -3297,3 +3297,5 @@ addscriptexist(6298464951, "RobloxIsUnbreakableInfiniteArrows", "Terni", "https:
 addscriptexist(6298464951, "RobloxIsUnbreakableInfiniteCash", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RobloxIsUnbreakableInfiniteCash.lua")
                     
 addscriptexist(6298464951, "RobloxIsUnbreakableInfiniteStats", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RobloxIsUnbreakableInfiniteStats.lua")
+                    
+addscriptexist(9551640993, "MiningSimualtor2AutoFarmAutoMine", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MiningSimualtor2AutoFarmAutoMine.lua")
