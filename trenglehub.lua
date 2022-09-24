@@ -6623,3 +6623,5 @@ addscriptexist(1417427737, "MiningSimulatorOpenBuyMenuGotoCandyLandSellBlocks", 
 addscriptexist(8592863835, "MagnetSimulator2AutoFarmAutoSellAutoOpenEgg", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MagnetSimulator2AutoFarmAutoSellAutoOpenEgg.lua")
                     
 addscriptexist(8232438881, "ThiefSimulatorRobFarmAutoSellATMFarm", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ThiefSimulatorRobFarmAutoSellATMFarm.lua")
+                    
+addscriptexist(2317712696, "TheWildWestAntiAfkGunSpeedSilentAim", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TheWildWestAntiAfkGunSpeedSilentAim.lua")
