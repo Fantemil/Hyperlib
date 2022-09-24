@@ -1682,3 +1682,6 @@ addscript(9285238704,"Race Clicker [Auto Farm Wins]", "RaceClickerAutoFarmWins",
                     
                     
 addscriptexist(10087074695, "KnifeStrifeDupeKnifesnotfixed", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/KnifeStrifeDupeKnifesnotfixed.lua")
+    
+addscript(4951858512,"Victory Race [AutoFarm]", "VictoryRaceAutoFarm", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/VictoryRaceAutoFarm.lua")
+                    
