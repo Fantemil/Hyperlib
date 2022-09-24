@@ -5626,3 +5626,5 @@ addscriptexist(9344944754, "HunterxOmenAutoSpeedTrain", "Terni", "https://raw.gi
     
 addscript(10106296680,"Anti AFK GUI", "AntiAFKGUI", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AntiAFKGUI.lua")
                     
+                    
+addscriptexist(9203864304, "RaiseaFloppaInstaFinish", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RaiseaFloppaInstaFinish.lua")
