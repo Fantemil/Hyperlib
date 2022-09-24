@@ -2178,3 +2178,6 @@ addscript(10321372166,"Pet Simulator X [Auto Farm, Auto open Pets, Auto Golden p
                     
                     
 addscriptexist(445664957, "ParkourEspTypes", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ParkourEspTypes.lua")
+    
+addscript(9840387028,"Era of Althea [Auto Mobs, Walkspeed]", "EraofAltheaAutoMobsWalkspeed", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/EraofAltheaAutoMobsWalkspeed.lua")
+                    
