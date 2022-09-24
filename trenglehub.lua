@@ -3065,3 +3065,6 @@ addscriptexist(10370253487, "YouCantSayThatAgainWordFarmer", "Terni", "https://r
     
 addscript(8267733039,"Specter 2 [GUI - Item Esp, Ghost Esp & More!]", "Specter2GUIItemEspGhostEspMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Specter2GUIItemEspGhostEspMore.lua")
                     
+    
+addscript(8433116262,"Lost Adrift [EA] [Steal Boat]", "LostAdriftEAStealBoat", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LostAdriftEAStealBoat.lua")
+                    
