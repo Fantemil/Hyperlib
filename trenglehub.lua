@@ -4559,3 +4559,6 @@ addscript(9565394231,"click the sphere [Auto Click]", "clickthesphereAutoClick",
     
 addscript(1345139196,"Treasure Hunt Simulator [Auto Farm]", "TreasureHuntSimulatorAutoFarm", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TreasureHuntSimulatorAutoFarm.lua")
                     
+    
+addscript(9306912037,"Hole In One Simulator [Auto Swing]", "HoleInOneSimulatorAutoSwing", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/HoleInOneSimulatorAutoSwing.lua")
+                    
