@@ -3919,3 +3919,5 @@ addscriptexist(8554378337, "WeaponFightingSimulatorAutoFarmAllAreasMore", "Terni
     
 addscript(9884452497,"Bloodlust [Infinite Money]", "BloodlustInfiniteMoney", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BloodlustInfiniteMoney.lua")
                     
+                    
+addscriptexist(185655149, "BloxburgAutoBuild", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BloxburgAutoBuild.lua")
