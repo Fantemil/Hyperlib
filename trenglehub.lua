@@ -3303,3 +3303,5 @@ addscriptexist(9551640993, "MiningSimualtor2AutoFarmAutoMine", "Terni", "https:/
 addscriptexist(5201039691, "TatakaiV2MoneyFarm", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TatakaiV2MoneyFarm.lua")
                     
 addscriptexist(8054462345, "MichaelsZombiesAntiKnockdown", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MichaelsZombiesAntiKnockdown.lua")
+                    
+addscriptexist(8054462345, "MichaelsZombiesAlwaysHeadshotInstantReload", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MichaelsZombiesAlwaysHeadshotInstantReload.lua")
