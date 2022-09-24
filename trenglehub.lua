@@ -63,7 +63,10 @@ gamehubsection:NewButton("Uzu Hub", "", function()
         loadstring(game:HttpGet("https://raw.githubusercontent.com/uzu01/lua/main/loader.lua"))()
 end)
 
-
+local Credits = Window:NewTab("Credits")
+local CreditsSection = Credits:NewSection("---Credits---")
+local CreditsSection2 = Credits:NewSection("Made by Fantemil#2549")
+local CreditsSection3 = Credits:NewSection("Powered by a python selenium bot")
 --Work at a Pizza Place
 
 if game.PlaceId == 192800 then 
