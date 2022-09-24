@@ -8099,3 +8099,5 @@ addscriptexist(5023820864, "TradeTowerAutoClickAutoUpgradeAutoCase", "Qalnik", "
     
 addscript(6198225400,"Legends Re:Written [Artifact Farm - Mob Auto Farm & God Mode]", "LegendsReWrittenArtifactFarmMobAutoFarmGodMode", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LegendsReWrittenArtifactFarmMobAutoFarmGodMode.lua")
                     
+                    
+addscriptexist(318978013, "KickOffDeEquipBallFromPlayersSpamToGetPasses", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/KickOffDeEquipBallFromPlayersSpamToGetPasses.lua")
