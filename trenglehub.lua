@@ -5109,3 +5109,5 @@ addscript(7065731541,"Speedman Simulator [GUI - Auto Upgrade, Auto Farm & More!]
     
 addscript(6949542776,"Pixel Gun Tower Defense [Equip Any Gun]", "PixelGunTowerDefenseEquipAnyGun", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PixelGunTowerDefenseEquipAnyGun.lua")
                     
+                    
+addscriptexist(9551640993, "MiningSimulator2ChestFinder", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MiningSimulator2ChestFinder.lua")
