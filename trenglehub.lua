@@ -7833,3 +7833,5 @@ addscriptexist(6843905606, "CriticalLegendsget1ofeveryitemmaterial", "Qalnik", "
     
 addscript(4967465336,"Ray's Mod [no cooldown]", "RaysModnocooldown", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RaysModnocooldown.lua")
                     
+                    
+addscriptexist(182781154, "TheMazeRunnerEsp", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TheMazeRunnerEsp.lua")
