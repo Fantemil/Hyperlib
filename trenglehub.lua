@@ -2821,3 +2821,6 @@ addscript(10322949476,"Limited Jumps [Unlimited Jumps]", "LimitedJumpsUnlimitedJ
     
 addscript(151670365,"The Quarry [Infinite Cash]", "TheQuarryInfiniteCash", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TheQuarryInfiniteCash.lua")
                     
+    
+addscript(8141566932,"Roblox [Hoho Gui Premuim Paid]", "RobloxHohoGuiPremuimPaid", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RobloxHohoGuiPremuimPaid.lua")
+                    
