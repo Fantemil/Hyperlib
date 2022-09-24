@@ -2957,3 +2957,5 @@ addscript(7026949294,"Sword Simulator [Auto Mobs, Auto Eggs, Mob Farm]", "SwordS
                     
                     
 addscriptexist(9157605735, "MiscGunTestXInfMoneyTpStickAll", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MiscGunTestXInfMoneyTpStickAll.lua")
+                    
+addscriptexist(10322949476, "LimitedJumpsAutoFarmJumps", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LimitedJumpsAutoFarmJumps.lua")
