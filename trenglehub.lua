@@ -1388,3 +1388,5 @@ addscriptexist(7138009149, "PHIGHTINGSemiGodMode", "Terni", "https://raw.githubu
 addscriptexist(5076734934, "RoomsHuntingstatuscheck", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RoomsHuntingstatuscheck.lua")
                     
 addscriptexist(9872472334, "EvadeAntiKickAntiLag", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/EvadeAntiKickAntiLag.lua")
+                    
+addscriptexist(2788229376, "DaHoodAutoFarmNoclip", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DaHoodAutoFarmNoclip.lua")
