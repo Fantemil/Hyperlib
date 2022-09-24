@@ -1997,3 +1997,6 @@ addscript(5293755937,"Speed Run Simulator [AutoRebirth, AutoOrbs]", "SpeedRunSim
     
 addscript(10047913840,"Training Simulator [AutoLift, AutoRebirth]", "TrainingSimulatorAutoLiftAutoRebirth", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TrainingSimulatorAutoLiftAutoRebirth.lua")
                     
+    
+addscript(3458435516,"Limited Simulator 2 [AutoBuy]", "LimitedSimulator2AutoBuy", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LimitedSimulator2AutoBuy.lua")
+                    
