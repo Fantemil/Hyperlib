@@ -2937,3 +2937,5 @@ addscriptexist(109814071, "MedievalWarfareAutoFarm", "Qalnik", "https://raw.gith
     
 addscript(98831904,"Adonis [Auto Bypass]", "AdonisAutoBypass", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AdonisAutoBypass.lua")
                     
+                    
+addscriptexist(3851622790, "BreakInStoryTheBestGUI", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BreakInStoryTheBestGUI.lua")
