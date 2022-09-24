@@ -5221,3 +5221,5 @@ addscriptexist(537413528, "BuildABoatForTreasureGUIAutoFarmAutoBuy", "Terni", "h
 addscriptexist(28382335, "SurvivalZombieTycoonGUIAutoClickAutoCollectMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SurvivalZombieTycoonGUIAutoClickAutoCollectMore.lua")
                     
 addscriptexist(6769764667, "FactorySimulatorGUIAutoBuyAutoCollect", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FactorySimulatorGUIAutoBuyAutoCollect.lua")
+                    
+addscriptexist(7214610985, "Stealth2FastAutoFarm", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Stealth2FastAutoFarm.lua")
