@@ -3060,3 +3060,5 @@ addscript(9705460681,"The Ants Undergrounnd Kingdom [Free Cash]", "TheAntsUnderg
                     
                     
 addscriptexist(9894044804, "BladeSimulatorGUIAutoSwingAutoSellMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BladeSimulatorGUIAutoSwingAutoSellMore.lua")
+                    
+addscriptexist(10370253487, "YouCantSayThatAgainWordFarmer", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/YouCantSayThatAgainWordFarmer.lua")
