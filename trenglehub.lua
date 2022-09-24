@@ -6727,3 +6727,5 @@ addscript(4811576324,"Totally Accurate Gun Simulator [Kill All]", "TotallyAccura
                     
                     
 addscriptexist(536102540, "DBZFinalStandAutoFarm", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DBZFinalStandAutoFarm.lua")
+                    
+addscriptexist(5310653431, "RobloxStreamSniper", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RobloxStreamSniper.lua")
