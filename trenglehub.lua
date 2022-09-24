@@ -5666,3 +5666,5 @@ addscript(2996067865,"th3ltgrounds [Kill All]", "th3ltgroundsKillAll", "Terni", 
     
 addscript(6904735821,"Shoe Simulator [Auto Shoe - Auto Sell & More!]", "ShoeSimulatorAutoShoeAutoSellMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ShoeSimulatorAutoShoeAutoSellMore.lua")
                     
+                    
+addscriptexist(9461798258, "RaiseaGrannyInfiniteCash", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RaiseaGrannyInfiniteCash.lua")
