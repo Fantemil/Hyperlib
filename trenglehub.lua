@@ -5126,3 +5126,5 @@ addscriptexist(8540346411, "RebirthChampionsXGUIAutoFarmAutoRebirthMore", "Terni
 addscriptexist(45146873, "TowerBattlesInfMoney", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TowerBattlesInfMoney.lua")
                     
 addscriptexist(7488014850, "RAINBOWNPIECEServerCrusher", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RAINBOWNPIECEServerCrusher.lua")
+                    
+addscriptexist(5965591336, "SoulWarAntiCombatTagNoCombatTag", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SoulWarAntiCombatTagNoCombatTag.lua")
