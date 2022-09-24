@@ -2116,3 +2116,5 @@ addscriptexist(537413528, "BuildABoatForTreasureAutoFarmClickTPTool", "astrofile
     
 addscript(1730877806,"Grand Piece Online [No Fall Damage, Auto Farm Beli]", "GrandPieceOnlineNoFallDamageAutoFarmBeli", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/GrandPieceOnlineNoFallDamageAutoFarmBeli.lua")
                     
+                    
+addscriptexist(10087074695, "KnifeStrifeDupeKnife", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/KnifeStrifeDupeKnife.lua")
