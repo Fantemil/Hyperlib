@@ -4398,3 +4398,5 @@ addscriptexist(8540346411, "RebirthChampionsXAutoFarmGUI", "Terni", "https://raw
     
 addscript(9609300403,"Jackpot [Auto Martingale]", "JackpotAutoMartingale", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/JackpotAutoMartingale.lua")
                     
+                    
+addscriptexist(9017974931, "ValobloxAutoInstantlyDefuseBomb", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ValobloxAutoInstantlyDefuseBomb.lua")
