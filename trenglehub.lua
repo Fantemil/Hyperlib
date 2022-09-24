@@ -5070,3 +5070,5 @@ addscriptexist(2809202155, "YourBizarreAdventureFlyBypass", "Terni", "https://ra
 addscriptexist(5154858502, "MurderersvsSheriffsInstaKill", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MurderersvsSheriffsInstaKill.lua")
                     
 addscriptexist(8581609150, "BloxhubMineManiaAutoSell", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BloxhubMineManiaAutoSell.lua")
+                    
+addscriptexist(1537690962, "BeeSwarmSimulatorRedeemCodesAutoFarmRoyalYellyESP", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BeeSwarmSimulatorRedeemCodesAutoFarmRoyalYellyESP.lua")
