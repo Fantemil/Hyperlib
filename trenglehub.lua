@@ -7709,3 +7709,5 @@ addscript(6628835921,"Money Simulator X [Auto Farming]", "MoneySimulatorXAutoFar
 addscriptexist(281489669, "WizardTycoon2PlayerAutoBuyAll", "rbxscript", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/WizardTycoon2PlayerAutoBuyAll.lua")
                     
 addscriptexist(8554378337, "WeaponFightingSimulatorGUIAutoFarmAutoCollectMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/WeaponFightingSimulatorGUIAutoFarmAutoCollectMore.lua")
+                    
+addscriptexist(45146873, "TowerBattlesAutoFarmCredits", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TowerBattlesAutoFarmCredits.lua")
