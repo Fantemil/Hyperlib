@@ -4184,3 +4184,6 @@ addscriptexist(8151832473, "TheGhettoGameGUISuperOPInfiniteMoneyMore", "Terni", 
 addscriptexist(8596411742, "BarbBloxLaneAutoFarm", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BarbBloxLaneAutoFarm.lua")
                     
 addscriptexist(4282985734, "CombatWarriorsAutoFarm", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CombatWarriorsAutoFarm.lua")
+    
+addscript(6558526079,"Anime World Tower Defence [Mess Up Servers]", "AnimeWorldTowerDefenceMessUpServers", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AnimeWorldTowerDefenceMessUpServers.lua")
+                    
