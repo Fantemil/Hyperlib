@@ -7515,3 +7515,5 @@ addscriptexist(8357510970, "AnimePunchingSimulatorAutoTapAutoRebirthOpenEgg", "Q
     
 addscript(7508789810,"Devious Lick Simulator [Auto Farm, Auto Sell, Auto Combine]", "DeviousLickSimulatorAutoFarmAutoSellAutoCombine", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DeviousLickSimulatorAutoFarmAutoSellAutoCombine.lua")
                     
+                    
+addscriptexist(7508789810, "DeviousLickSimulatorAutoSellCollectDropsAutoCombineAll", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DeviousLickSimulatorAutoSellCollectDropsAutoCombineAll.lua")
