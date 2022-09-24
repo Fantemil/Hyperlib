@@ -2629,3 +2629,5 @@ addscript(510444657,"Criminal Vs Swat [Inf Health]", "CriminalVsSwatInfHealth", 
                     
                     
 addscriptexist(7991339063, "RainbowFriends", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RainbowFriends.lua")
+                    
+addscriptexist(4951858512, "VictoryRaceAutoWinFly", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/VictoryRaceAutoWinFly.lua")
