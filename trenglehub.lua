@@ -8324,3 +8324,5 @@ addscript(2986677229,"Giant Simulator [Auto Orbs]", "GiantSimulatorAutoOrbs", "Q
     
 addscript(5006110264,"Fire Breathing Simulator [Best Auto-Farming INF Money]", "FireBreathingSimulatorBestAutoFarmingINFMoney", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FireBreathingSimulatorBestAutoFarmingINFMoney.lua")
                     
+                    
+addscriptexist(4639625707, "OilWarfareTycoonAutoFarmAutorebirthAutoAirdrop", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OilWarfareTycoonAutoFarmAutorebirthAutoAirdrop.lua")
