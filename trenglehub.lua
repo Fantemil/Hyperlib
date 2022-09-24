@@ -3267,3 +3267,5 @@ addscriptexist(4581966615, "AnomicCombatreadyautohealBonfire’sbackpackspySilen
     
 addscript(6716378218,"Da Hood [Auto Arrest]", "DaHoodAutoArrest", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DaHoodAutoArrest.lua")
                     
+                    
+addscriptexist(7009799230, "PressureWashSimulatorGUIInfMoneyMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PressureWashSimulatorGUIInfMoneyMore.lua")
