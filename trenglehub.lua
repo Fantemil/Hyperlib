@@ -1883,3 +1883,5 @@ addscript(7128635125,"Old A Bizarry Day Modded [Adm Cmds]", "OldABizarryDayModde
                     
                     
 addscriptexist(370731277, "MeepCityFishingSilentAimAvatarEditor", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MeepCityFishingSilentAimAvatarEditor.lua")
+                    
+addscriptexist(370731277, "MeepCityFreeGamepassesSpamBalloons", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MeepCityFreeGamepassesSpamBalloons.lua")
