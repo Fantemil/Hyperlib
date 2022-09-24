@@ -7968,3 +7968,5 @@ addscript(1478636977,"Monster Battle [Auto Farm]", "MonsterBattleAutoFarm", "Qal
     
 addscript(6853377206,"Ported Weapon Animations [Silent Aim, Auto Shoot]", "PortedWeaponAnimationsSilentAimAutoShoot", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PortedWeaponAnimationsSilentAimAutoShoot.lua")
                     
+                    
+addscriptexist(4714807265, "clicktogetbiggerInаRebirth", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/clicktogetbiggerInаRebirth.lua")
