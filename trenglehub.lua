@@ -8155,3 +8155,5 @@ addscriptexist(4111023553, "DeepwokenServerHop", "Qalnik", "https://raw.githubus
 addscriptexist(2693023319, "ExpeditionAntarcticaNodamagewater", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ExpeditionAntarcticaNodamagewater.lua")
                     
 addscriptexist(2693023319, "ExpeditionAntarcticaInfEnergyExhaustion", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ExpeditionAntarcticaInfEnergyExhaustion.lua")
+                    
+addscriptexist(4616652839, "ShindoLifeChristmasFarmNPCs", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ShindoLifeChristmasFarmNPCs.lua")
