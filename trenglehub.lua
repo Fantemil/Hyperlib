@@ -8613,3 +8613,5 @@ addscriptexist(6284583030, "PetSimulatorXEasyWithdrawDepositToBank", "Terni", "h
 addscriptexist(6284583030, "PetSimulatorXDupeGemDupe", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PetSimulatorXDupeGemDupe.lua")
                     
 addscriptexist(8533682846, "MagicTrainingAntiCheatBypass", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MagicTrainingAntiCheatBypass.lua")
+                    
+addscriptexist(6191637341, "WeaponSimulator2AUTOFARMAUTOBUY", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/WeaponSimulator2AUTOFARMAUTOBUY.lua")
