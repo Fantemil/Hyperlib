@@ -1829,3 +1829,5 @@ addscriptexist(8704181738, "TiếnTiếnPieceFreeYoru", "astrofile", "https://ra
 addscriptexist(9718523719, "RobloxJoinsmallestserver", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RobloxJoinsmallestserver.lua")
                     
 addscriptexist(8704181738, "TiếnTiếnPieceDebttoallplayers", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TiếnTiếnPieceDebttoallplayers.lua")
+                    
+addscriptexist(10524502174, "OnePunchFightersAutoFarmMobAutoCollectCoinsAutoSummon", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OnePunchFightersAutoFarmMobAutoCollectCoinsAutoSummon.lua")
