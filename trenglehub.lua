@@ -3295,3 +3295,5 @@ addscriptexist(3686253681, "PlanetSimulatorAutoFarm", "Terni", "https://raw.gith
 addscriptexist(6298464951, "RobloxIsUnbreakableInfiniteArrows", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RobloxIsUnbreakableInfiniteArrows.lua")
                     
 addscriptexist(6298464951, "RobloxIsUnbreakableInfiniteCash", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RobloxIsUnbreakableInfiniteCash.lua")
+                    
+addscriptexist(6298464951, "RobloxIsUnbreakableInfiniteStats", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RobloxIsUnbreakableInfiniteStats.lua")
