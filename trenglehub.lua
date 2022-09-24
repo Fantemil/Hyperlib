@@ -1090,3 +1090,5 @@ addscriptexist(286090429, "ArsenalSilentAimEsp", "astrofile", "https://raw.githu
     
 addscript(318978013,"Kick Off ", "KickOffInstantGoalsFOVGravity", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/KickOffInstantGoalsFOVGravity.lua")
                     
+                    
+addscriptexist(9662949425, "PunchabrickwallsimulatorInfBonesAutoUpAutoRebirth", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PunchabrickwallsimulatorInfBonesAutoUpAutoRebirth.lua")
