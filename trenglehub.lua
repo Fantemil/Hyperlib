@@ -5732,3 +5732,6 @@ addscriptexist(9297410766, "CrossbarChallengeSimulatorAutoRebirth", "Terni", "ht
 addscriptexist(5154858502, "MurderervsSheriffsKillAll", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MurderervsSheriffsKillAll.lua")
                     
 addscriptexist(155382109, "SurviveandKilltheKillersinArea51GiveallginsClaimallrewardsAllammo", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SurviveandKilltheKillersinArea51GiveallginsClaimallrewardsAllammo.lua")
+    
+addscript(9181315895,"Bingus' Basement [Teleport generator, bingus bowl, food room]", "BingusBasementTeleportgeneratorbingusbowlfoodroom", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BingusBasementTeleportgeneratorbingusbowlfoodroom.lua")
+                    
