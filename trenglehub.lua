@@ -5101,3 +5101,5 @@ addscript(5918187182,"Build A Gamiing PC Store [Infinite Cash]", "BuildAGamiingP
     
 addscript(7830918930,"Gucci Town [Collect All Letters & More!]", "GucciTownCollectAllLettersMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/GucciTownCollectAllLettersMore.lua")
                     
+                    
+addscriptexist(9551640993, "MiningSimulator2GUIAutoMineAutoOpenEgg", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MiningSimulator2GUIAutoMineAutoOpenEgg.lua")
