@@ -6224,3 +6224,5 @@ addscript(6788787407,"Warrior Champions [Auto Farm GUI]", "WarriorChampionsAutoF
     
 addscript(6125809531,"Untitled AoT [Auto Farm]", "UntitledAoTAutoFarm", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/UntitledAoTAutoFarm.lua")
                     
+                    
+addscriptexist(4588604953, "CriminalityNoRecoil", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CriminalityNoRecoil.lua")
