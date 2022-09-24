@@ -3117,3 +3117,5 @@ addscript(333164326,"Admin House [CMD AutoCrasher]", "AdminHouseCMDAutoCrasher",
 addscriptexist(9926433554, "BlastMiningSimulatorInfMoney", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BlastMiningSimulatorInfMoney.lua")
                     
 addscriptexist(8304191830, "AnimeAdventureAutoFarmAutoMerchant", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AnimeAdventureAutoFarmAutoMerchant.lua")
+                    
+addscriptexist(8585657145, "AnimeHeroSimulatorAutoFarmGUI", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AnimeHeroSimulatorAutoFarmGUI.lua")
