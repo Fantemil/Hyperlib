@@ -7588,3 +7588,6 @@ addscriptexist(1240123653, "ZombieAttackAutoFarmEquipAllGunsEquipAllKnifes", "Qa
 addscriptexist(2512643572, "BubbleGumSimulatorAutoFarmAutoSellAutoEggs", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BubbleGumSimulatorAutoFarmAutoSellAutoEggs.lua")
                     
 addscriptexist(3956818381, "NinjaLegendsAutoswingsAutosellBossFarm", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NinjaLegendsAutoswingsAutosellBossFarm.lua")
+    
+addscript(7981138297,"Roblox [RainBow Concole]", "RobloxRainBowConcole", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RobloxRainBowConcole.lua")
+                    
