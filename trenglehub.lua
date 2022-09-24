@@ -8211,3 +8211,5 @@ addscriptexist(6802248248, "SAITAMANIAGiftServerHop", "Terni", "https://raw.gith
 addscriptexist(648362523, "BreakingPointNEWAUTOFARM", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BreakingPointNEWAUTOFARM.lua")
                     
 addscriptexist(6769764667, "FactorySimulatorGUIAutoFarmAutoSellMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FactorySimulatorGUIAutoFarmAutoSellMore.lua")
+                    
+addscriptexist(6769764667, "FactorySimulatorGUIAutoFarmAutoPickup", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FactorySimulatorGUIAutoFarmAutoPickup.lua")
