@@ -2721,3 +2721,6 @@ addscript(7183242684,"Strength Training Simulator [Auto Farm - GUI]", "StrengthT
     
 addscript(147536429,"Field Of Battle [Kill General]", "FieldOfBattleKillGeneral", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FieldOfBattleKillGeneral.lua")
                     
+    
+addscript(6720959312,"LootQuest [BETA] [Anti Afk & Auto Fuse]", "LootQuestBETAAntiAfkAutoFuse", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LootQuestBETAAntiAfkAutoFuse.lua")
+                    
