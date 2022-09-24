@@ -8198,3 +8198,5 @@ addscript(6824046084,"Silly's Difficulty Chart Obby [Auto Farm]", "SillysDifficu
                     
                     
 addscriptexist(4913581664, "CartRideIntoRditeMessWithCarts", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CartRideIntoRditeMessWithCarts.lua")
+                    
+addscriptexist(6802248248, "SAITAMANIAGiantSnowmanFarm", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SAITAMANIAGiantSnowmanFarm.lua")
