@@ -6450,3 +6450,5 @@ addscriptexist(8884433153, "CollectAllPetsAutoFarm", "Terni", "https://raw.githu
     
 addscript(5991118999,"Mowing Masters Simulator [Auto Farm, Auto Buy Bee Egg, Full Auto Rebirth]", "MowingMastersSimulatorAutoFarmAutoBuyBeeEggFullAutoRebirth", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MowingMastersSimulatorAutoFarmAutoBuyBeeEggFullAutoRebirth.lua")
                     
+                    
+addscriptexist(7940932746, "ROBLOX–LeanExplosion", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ROBLOX–LeanExplosion.lua")
