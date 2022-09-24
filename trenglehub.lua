@@ -4888,3 +4888,6 @@ addscriptexist(142823291, "MurderMystery2FreeKnifeVISUALLY", "Qalnik", "https://
 addscriptexist(6728870912, "WorldofStandsDemoinfiniteGold", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/WorldofStandsDemoinfiniteGold.lua")
                     
 addscriptexist(3095204897, "Isle8AutoHackAutoGuess", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Isle8AutoHackAutoGuess.lua")
+    
+addscript(9388793159,"Coruscant Roleplay [Silent AIM]", "CoruscantRoleplaySilentAIM", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CoruscantRoleplaySilentAIM.lua")
+                    
