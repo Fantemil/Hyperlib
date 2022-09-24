@@ -2974,3 +2974,5 @@ addscriptexist(10108131074, "MowTheLawnAutoNowAutoFillTankAutoopenEgg", "Qalnik"
 addscriptexist(9976239895, "GumballFactoryTycoonAutoobby", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/GumballFactoryTycoonAutoobby.lua")
                     
 addscriptexist(9976239895, "GumballFactoryTycoonAutoObby", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/GumballFactoryTycoonAutoObby.lua")
+                    
+addscriptexist(4951858512, "VictoryRace", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/VictoryRace.lua")
