@@ -4718,3 +4718,6 @@ addscript(1382113806,"Silent Assassin [Assassin ESP]", "SilentAssassinAssassinES
     
 addscript(9456941655,"PUBG [Kill All]", "PUBGKillAll", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PUBGKillAll.lua")
                     
+    
+addscript(9293082713,"Prank Weapon Battles [Kill All]", "PrankWeaponBattlesKillAll", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PrankWeaponBattlesKillAll.lua")
+                    
