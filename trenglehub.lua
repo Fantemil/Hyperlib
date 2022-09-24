@@ -8560,3 +8560,5 @@ addscriptexist(2809202155, "YourBizarreAdventureAUTOFARMAUTOSKILLTP", "Terni", "
     
 addscript(7772810845,"The Presentation Experience [POINT FARM]", "ThePresentationExperiencePOINTFARM", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ThePresentationExperiencePOINTFARM.lua")
                     
+                    
+addscriptexist(183364845, "SpeedRun4NEWGUIFARMING", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SpeedRun4NEWGUIFARMING.lua")
