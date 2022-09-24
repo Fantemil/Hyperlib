@@ -2918,3 +2918,5 @@ addscript(9938879862,"Firefly Garden [Auto Collect]", "FireflyGardenAutoCollect"
     
 addscript(9894044804,"Blade Simulator [GUI - Auto Farm]", "BladeSimulatorGUIAutoFarm", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BladeSimulatorGUIAutoFarm.lua")
                     
+                    
+addscriptexist(10319501620, "SchoolofSportInfiniteMoney", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SchoolofSportInfiniteMoney.lua")
