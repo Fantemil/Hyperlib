@@ -2932,3 +2932,5 @@ addscript(10118428339,"FLOP [Auto Farm v2]", "FLOPAutoFarmv2", "Terni", "https:/
     
 addscript(35397735,"Scuba Diving at Quill Lake [GUI - Infinite Cash, Infinite Artifacts & More!]", "ScubaDivingatQuillLakeGUIInfiniteCashInfiniteArtifactsMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ScubaDivingatQuillLakeGUIInfiniteCashInfiniteArtifactsMore.lua")
                     
+                    
+addscriptexist(109814071, "MedievalWarfareAutoFarm", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MedievalWarfareAutoFarm.lua")
