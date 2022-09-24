@@ -2496,3 +2496,6 @@ addscriptexist(9585537847, "SHADOVISRPGKillAura", "astrofile", "https://raw.gith
 addscriptexist(537413528, "BuildABoatForTreasureAutoFarmTeleport", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BuildABoatForTreasureAutoFarmTeleport.lua")
                     
 addscriptexist(189707, "NaturalDisasterSurvivalNoFallGravity", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NaturalDisasterSurvivalNoFallGravity.lua")
+    
+addscript(7167319176,"Chicago Remastered [Speed, Jump Power]", "ChicagoRemasteredSpeedJumpPower", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ChicagoRemasteredSpeedJumpPower.lua")
+                    
