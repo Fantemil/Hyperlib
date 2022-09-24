@@ -5053,3 +5053,5 @@ addscript(5630129588,"Smash Legends [Auto Farm GUI]", "SmashLegendsAutoFarmGUI",
                     
                     
 addscriptexist(7211666966, "TowerofJumpAutoWin", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TowerofJumpAutoWin.lua")
+                    
+addscriptexist(413424176, "CloneTycoon2InfiniteMoney", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CloneTycoon2InfiniteMoney.lua")
