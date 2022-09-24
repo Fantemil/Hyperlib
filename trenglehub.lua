@@ -8163,3 +8163,5 @@ addscriptexist(2753915549, "BloxFruitsAutoFarmTeleportAutoSkill", "Qalnik", "htt
 addscriptexist(4996049426, "AllStarTowerDefenseCandyFarmAutoChrismaseventQuickLeave", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AllStarTowerDefenseCandyFarmAutoChrismaseventQuickLeave.lua")
                     
 addscriptexist(306964494, "LoomianLegacyAutoFinder", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LoomianLegacyAutoFinder.lua")
+                    
+addscriptexist(6284583030, "PetSimulatorXAutoFarmAutoOpenEggStatTacker", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PetSimulatorXAutoFarmAutoOpenEggStatTacker.lua")
