@@ -8738,3 +8738,5 @@ addscriptexist(6284583030, "PetSimulatorXNEWGUIAutoFarmAutoOpenAllGamepassesMORE
     
 addscript(7711545622,"The Fashion Awards 2021 [COMPLETE ALL QUESTS]", "TheFashionAwards2021COMPLETEALLQUESTS", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TheFashionAwards2021COMPLETEALLQUESTS.lua")
                     
+                    
+addscriptexist(189707, "NaturalDisasterSurvivalAUTOFARMLOCALSCRIPTS", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NaturalDisasterSurvivalAUTOFARMLOCALSCRIPTS.lua")
