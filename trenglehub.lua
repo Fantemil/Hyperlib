@@ -5747,3 +5747,5 @@ addscriptexist(133815151, "TheFinalStand2MeleeAura", "Qalnik", "https://raw.gith
     
 addscript(255236425,"Traitor Town [Esp]", "TraitorTownEsp", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TraitorTownEsp.lua")
                     
+                    
+addscriptexist(4855457388, "DemonfallAutofarmAutoGripInfinitejump", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DemonfallAutofarmAutoGripInfinitejump.lua")
