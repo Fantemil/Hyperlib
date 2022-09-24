@@ -5530,3 +5530,5 @@ addscriptexist(7940932746, "FovforRoblox", "Terni", "https://raw.githubuserconte
 addscriptexist(6284583030, "PetSimulatorXNewFarmingGUI", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PetSimulatorXNewFarmingGUI.lua")
                     
 addscriptexist(2248408710, "DestructionSimulatorInfiniteMoneyMaxLevelMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DestructionSimulatorInfiniteMoneyMaxLevelMore.lua")
+                    
+addscriptexist(920587237, "AdoptMeAutoFarmAutoBabyMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AdoptMeAutoFarmAutoBabyMore.lua")
