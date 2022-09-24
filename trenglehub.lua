@@ -3899,3 +3899,6 @@ addscriptexist(8123652942, "LegendPieceGiveDevilFruit", "Terni", "https://raw.gi
 addscriptexist(7560156054, "ClickerSimulatorFreeGamepasses", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ClickerSimulatorFreeGamepasses.lua")
                     
 addscriptexist(2753915549, "BloxFruitsGUIAutofarm", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BloxFruitsGUIAutofarm.lua")
+    
+addscript(8151832473,"TheGhettoGame [Inf Money]", "TheGhettoGameInfMoney", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TheGhettoGameInfMoney.lua")
+                    
