@@ -4373,3 +4373,5 @@ addscriptexist(142823291, "MurderMystery2Visualskins", "Qalnik", "https://raw.gi
     
 addscript(7261493042,"Impossible Glass Bridge Obby [Path revealing]", "ImpossibleGlassBridgeObbyPathrevealing", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ImpossibleGlassBridgeObbyPathrevealing.lua")
                     
+                    
+addscriptexist(9103898828, "RogueDemonPunchDistance", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RogueDemonPunchDistance.lua")
