@@ -5068,3 +5068,5 @@ addscriptexist(5543622168, "CriticalTowerDefenseGUIChangeTowerColors", "Terni", 
 addscriptexist(2809202155, "YourBizarreAdventureFlyBypass", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/YourBizarreAdventureFlyBypass.lua")
                     
 addscriptexist(5154858502, "MurderersvsSheriffsInstaKill", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MurderersvsSheriffsInstaKill.lua")
+                    
+addscriptexist(8581609150, "BloxhubMineManiaAutoSell", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BloxhubMineManiaAutoSell.lua")
