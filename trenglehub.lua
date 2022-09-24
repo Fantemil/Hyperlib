@@ -3746,3 +3746,5 @@ addscriptexist(7182546997, "AttackonTitanVengeanceBerserkerAutoFarm", "Terni", "
     
 addscript(198116126,"Tradelands [Auto Farm & More!]", "TradelandsAutoFarmMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TradelandsAutoFarmMore.lua")
                     
+                    
+addscriptexist(5104202731, "SouthwestFloridaBetaJobAntiAfk", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SouthwestFloridaBetaJobAntiAfk.lua")
