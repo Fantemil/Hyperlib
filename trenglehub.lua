@@ -6948,3 +6948,5 @@ addscriptexist(654732683, "CarCrushers2GUIAtutoFarmVehicleStats", "Terni", "http
 addscriptexist(4111023553, "DeepwokenSunshineV3UpdatedOP", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DeepwokenSunshineV3UpdatedOP.lua")
                     
 addscriptexist(6297822481, "TitanWarfareEnhancedDamage", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TitanWarfareEnhancedDamage.lua")
+                    
+addscriptexist(4580204640, "SurvivetheKillerAutoFarm", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SurvivetheKillerAutoFarm.lua")
