@@ -5174,3 +5174,5 @@ addscriptexist(142823291, "MurderMystery2ESPFakeKnifeInvisible", "Qalnik", "http
     
 addscript(7277614831,"Candy Eating Simulator [GUI - Auto Farm, Teleports & More!]", "CandyEatingSimulatorGUIAutoFarmTeleportsMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CandyEatingSimulatorGUIAutoFarmTeleportsMore.lua")
                     
+                    
+addscriptexist(6677985923, "MillionaireEmpireTycoonGUIGetCashAutoRebirth", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MillionaireEmpireTycoonGUIGetCashAutoRebirth.lua")
