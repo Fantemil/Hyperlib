@@ -5296,3 +5296,6 @@ addscriptexist(7214610985, "Stealth2LevelAndCoinsAutoFarm", "Terni", "https://ra
     
 addscript(444319338,"Cannoneers! [Auto Farm]", "CannoneersAutoFarm", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CannoneersAutoFarm.lua")
                     
+    
+addscript(8370411487,"The New Frontier [Inf Stamina & Much More!]", "TheNewFrontierInfStaminaMuchMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TheNewFrontierInfStaminaMuchMore.lua")
+                    
