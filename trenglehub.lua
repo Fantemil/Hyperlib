@@ -4873,3 +4873,5 @@ addscript(1927139201,"Day of Dusk - The Border [Auto Mine Ores]", "DayofDuskTheB
                     
                     
 addscriptexist(4616652839, "ShindoLifeAutoFarmInfinityspinsWarfarm", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ShindoLifeAutoFarmInfinityspinsWarfarm.lua")
+                    
+addscriptexist(4588604953, "CriminalityInstantTeleportBypass", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CriminalityInstantTeleportBypass.lua")
