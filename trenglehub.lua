@@ -8497,3 +8497,5 @@ addscript(5534174456,"Tropical Resort Tycoon [Tp Tycoon, Auto Build, Auto Obby]"
                     
                     
 addscriptexist(6878620017, "MegaObbyAutoLvl", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MegaObbyAutoLvl.lua")
+                    
+addscriptexist(6720959312, "LootQuestAutoFarmMobHideName", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LootQuestAutoFarmMobHideName.lua")
