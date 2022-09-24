@@ -4755,3 +4755,5 @@ addscript(9547440060,"Space Noob Tycoon [Inf source of gold]", "SpaceNoobTycoonI
                     
                     
 addscriptexist(9249776514, "GivenchyBeautyHouseAuroGrab3UGC", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/GivenchyBeautyHouseAuroGrab3UGC.lua")
+                    
+addscriptexist(112420803, "KohlsAdminHouseNBCAdminCMD", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/KohlsAdminHouseNBCAdminCMD.lua")
