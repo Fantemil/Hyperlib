@@ -7973,3 +7973,6 @@ addscriptexist(4714807265, "clicktogetbiggerInаRebirth", "Qalnik", "https://raw
     
 addscript(6585294146,"Lifting Items Simulator [Auto Farm]", "LiftingItemsSimulatorAutoFarm", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LiftingItemsSimulatorAutoFarm.lua")
                     
+    
+addscript(6810246027,"extraOrdinary [Auto Farm, Kill Aura]", "extraOrdinaryAutoFarmKillAura", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/extraOrdinaryAutoFarmKillAura.lua")
+                    
