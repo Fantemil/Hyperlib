@@ -6887,3 +6887,5 @@ addscript(7114303730,"Dragon Orbz [Auto FArm, Auto Quest, Auto Points]", "Dragon
     
 addscript(7543421878,"Insult O Matic - Auto Insult Generator", "InsultOMaticAutoInsultGenerator", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/InsultOMaticAutoInsultGenerator.lua")
                     
+                    
+addscriptexist(6558291063, "Wouldyourather2AutoFarm", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Wouldyourather2AutoFarm.lua")
