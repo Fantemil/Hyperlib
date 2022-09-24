@@ -6232,3 +6232,5 @@ addscript(7371240697,"Giant Dancing Simulator [Collect All Eggs]", "GiantDancing
     
 addscript(6808589067,"Shinden [Auto Meditate]", "ShindenAutoMeditate", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ShindenAutoMeditate.lua")
                     
+                    
+addscriptexist(8781849572, "StarSimulatorBetaLoopFarms–LoopConversions–UpgradeToolsMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/StarSimulatorBetaLoopFarms–LoopConversions–UpgradeToolsMore.lua")

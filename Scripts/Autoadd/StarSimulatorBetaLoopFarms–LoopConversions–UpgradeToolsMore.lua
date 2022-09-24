@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://duder.cloud/lua/miscprojects/starsimbeta.lua"))()
