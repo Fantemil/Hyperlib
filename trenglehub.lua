@@ -2765,3 +2765,5 @@ addscript(9605515605,"Sword Lands Simulator - Alpha [Inf Money]", "SwordLandsSim
 addscriptexist(7952502098, "ImpossibleGlassBridgeObbyAUTOFARMER", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ImpossibleGlassBridgeObbyAUTOFARMER.lua")
                     
 addscriptexist(9285238704, "RaceClickerspeedAntiCheatbypass", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RaceClickerspeedAntiCheatbypass.lua")
+                    
+addscriptexist(189707, "NaturalDisastersSurvivalAutoDisasterDetectFreeBallonremovefallDamage", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NaturalDisastersSurvivalAutoDisasterDetectFreeBallonremovefallDamage.lua")
