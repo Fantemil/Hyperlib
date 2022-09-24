@@ -2122,3 +2122,6 @@ addscriptexist(10087074695, "KnifeStrifeDupeKnife", "astrofile", "https://raw.gi
 addscriptexist(621129760, "KnifeAbilityTestAimbot", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/KnifeAbilityTestAimbot.lua")
                     
 addscriptexist(10087074695, "KnifeStrifeAllKnives", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/KnifeStrifeAllKnives.lua")
+    
+addscript(147848991,"Be A Parkour Ninja [Silent Aim, Esp]", "BeAParkourNinjaSilentAimEsp", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BeAParkourNinjaSilentAimEsp.lua")
+                    
