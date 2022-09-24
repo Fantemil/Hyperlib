@@ -1867,3 +1867,6 @@ addscript(9757510382,"Trade Simulator [AutoFarm]", "TradeSimulatorAutoFarm", "as
                     
                     
 addscriptexist(7952502098, "ImpossibleGlassBridgeObbyAutoFarm", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ImpossibleGlassBridgeObbyAutoFarm.lua")
+    
+addscript(14745996,"Gun Testing [Walkspeed, FreeDoors]", "GunTestingWalkspeedFreeDoors", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/GunTestingWalkspeedFreeDoors.lua")
+                    
