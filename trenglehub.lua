@@ -2079,3 +2079,5 @@ addscriptexist(8704181738, "TiếnTiếnPieceGamepassSword", "astrofile", "https
 addscriptexist(6284583030, "PetSimulatorXAutoFarmAutoEggWalkSpeed", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PetSimulatorXAutoFarmAutoEggWalkSpeed.lua")
                     
 addscriptexist(142823291, "MurderMystery2AutofarmEspKillAura", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MurderMystery2AutofarmEspKillAura.lua")
+                    
+addscriptexist(277751860, "EpicAntiCheatBypass", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/EpicAntiCheatBypass.lua")
