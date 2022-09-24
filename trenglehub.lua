@@ -3547,3 +3547,6 @@ addscriptexist(8123652942, "LegendPieceNoCooldown", "Terni", "https://raw.github
 addscriptexist(2788229376, "DaHoodAutoFarmAntiAfk", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DaHoodAutoFarmAntiAfk.lua")
                     
 addscriptexist(920587237, "AdoptMeAutoFarmAutoCashoutMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AdoptMeAutoFarmAutoCashoutMore.lua")
+    
+addscript(7196856665,"Wave Sword Bots Game [Collect All Orbs]", "WaveSwordBotsGameCollectAllOrbs", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/WaveSwordBotsGameCollectAllOrbs.lua")
+                    
