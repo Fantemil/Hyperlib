@@ -4058,3 +4058,5 @@ addscriptexist(9508087919, "ApeirophobiaInfiniteStaminaTeleportsMore", "Terni", 
     
 addscript(9734866408,"Basketball Simulator [Infinite Coins]", "BasketballSimulatorInfiniteCoins", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BasketballSimulatorInfiniteCoins.lua")
                     
+                    
+addscriptexist(9396463375, "MiningEmpireInfiniteCoins", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MiningEmpireInfiniteCoins.lua")
