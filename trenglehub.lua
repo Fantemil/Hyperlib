@@ -4475,3 +4475,6 @@ addscriptexist(1962086868, "TowerofHellTPToEndMore", "Terni", "https://raw.githu
     
 addscript(9566535167,"Diamond Reborn [Infinite Pokebooster Time]", "DiamondRebornInfinitePokeboosterTime", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DiamondRebornInfinitePokeboosterTime.lua")
                     
+    
+addscript(9808430159,"Scan_Test.DEMO [Reveal All Parts]", "ScanTestDEMORevealAllParts", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ScanTestDEMORevealAllParts.lua")
+                    
