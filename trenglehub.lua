@@ -8597,3 +8597,5 @@ addscriptexist(4598019433, "genericroleplaygaemKillAuraESPMore", "Terni", "https
 addscriptexist(413424176, "CloneTycoon2SetEveryoneOnLeaderboardToAnyNumberYouWant", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CloneTycoon2SetEveryoneOnLeaderboardToAnyNumberYouWant.lua")
                     
 addscriptexist(292439477, "PhantomForcesAutoFarm", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PhantomForcesAutoFarm.lua")
+                    
+addscriptexist(735030788, "RoyaleHighLevelFarming", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RoyaleHighLevelFarming.lua")
