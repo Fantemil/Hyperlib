@@ -5577,3 +5577,5 @@ addscriptexist(6284583030, "PetSimulatorXAutoFarmAutoEggOpeningMore", "Terni", "
 addscriptexist(370731277, "MeepCityGameDestroyer", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MeepCityGameDestroyer.lua")
                     
 addscriptexist(4996049426, "AllStarTowerDefenseGUIAutoJoinAutoEvolveMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AllStarTowerDefenseGUIAutoJoinAutoEvolveMore.lua")
+                    
+addscriptexist(1224212277, "MadCityKillAura", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MadCityKillAura.lua")
