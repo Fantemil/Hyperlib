@@ -4317,3 +4317,5 @@ addscript(7211666966,"Tower Of Jump [Auto Farm - Server Hop]", "TowerOfJumpAutoF
 addscriptexist(4459593483, "FORCEAutoCollectTrinkets", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FORCEAutoCollectTrinkets.lua")
                     
 addscriptexist(4459593483, "FORCENoFall", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FORCENoFall.lua")
+                    
+addscriptexist(7211666966, "TowerOfJumpAutoFarmNonServerHop", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TowerOfJumpAutoFarmNonServerHop.lua")
