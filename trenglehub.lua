@@ -6508,3 +6508,5 @@ addscriptexist(8492553855, "ProjectUprightItemsFarmMobPlayersFarmAutoQuestMore",
     
 addscript(5033328743,"The Scorch [Infinite Health]", "TheScorchInfiniteHealth", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TheScorchInfiniteHealth.lua")
                     
+                    
+addscriptexist(4588604953, "CriminalityTeleportBypass", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CriminalityTeleportBypass.lua")
