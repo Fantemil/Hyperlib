@@ -2349,3 +2349,5 @@ addscriptexist(6542731310, "DogecoinMiningTycoonUnlockAll", "astrofile", "https:
 addscriptexist(10184360875, "PetFishingSimulatorAutoFarmRebirth", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PetFishingSimulatorAutoFarmRebirth.lua")
                     
 addscriptexist(2537430692, "JengaSoundVineBoom", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/JengaSoundVineBoom.lua")
+                    
+addscriptexist(2039118386, "NeighborhoodwarBypasser", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NeighborhoodwarBypasser.lua")
