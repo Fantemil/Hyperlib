@@ -5320,3 +5320,5 @@ addscriptexist(9292879820, "GrassCuttingIncrementalStatChanger", "Qalnik", "http
     
 addscript(8006400183,"Roblox [UIBlox Toast onto your screen]", "RobloxUIBloxToastontoyourscreen", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RobloxUIBloxToastontoyourscreen.lua")
                     
+                    
+addscriptexist(534701013, "TheLabyrinthAntigrassAntinameXray", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TheLabyrinthAntigrassAntinameXray.lua")
