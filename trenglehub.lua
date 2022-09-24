@@ -8386,3 +8386,6 @@ addscript(7449695387,"Pet Fighters Simulator [Auto FArm, Auto Collect Coins, Cli
                     
                     
 addscriptexist(4924922222, "BrookhavenRPAllPasesFeHeadlessGarage", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BrookhavenRPAllPasesFeHeadlessGarage.lua")
+    
+addscript(7198500613,"Impossible Squid Game [Auto Farm]", "ImpossibleSquidGameAutoFarm", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ImpossibleSquidGameAutoFarm.lua")
+                    
