@@ -4818,3 +4818,5 @@ addscriptexist(3101667897, "LegendsOfSpeedAutoFarmAutoRebirthAutoStep", "Qalnik"
 addscriptexist(9551640993, "MiningSimulator2ChestsServerhop", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MiningSimulator2ChestsServerhop.lua")
                     
 addscriptexist(7799826347, "SandboxTycoonSaveBaseBuildFloorUpdateBuildCost", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SandboxTycoonSaveBaseBuildFloorUpdateBuildCost.lua")
+                    
+addscriptexist(2788229376, "DaHoodAutoMoneyDropCollect", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DaHoodAutoMoneyDropCollect.lua")
