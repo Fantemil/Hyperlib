@@ -5260,3 +5260,5 @@ addscriptexist(2788229376, "DaHoodInfiniteCash", "Terni", "https://raw.githubuse
     
 addscript(7462526249,"NIKELAND [Collect All Coins & More!]", "NIKELANDCollectAllCoinsMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NIKELANDCollectAllCoinsMore.lua")
                     
+                    
+addscriptexist(2965881766, "BrawlBloxOneShot", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BrawlBloxOneShot.lua")
