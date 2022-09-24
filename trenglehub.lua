@@ -3203,3 +3203,6 @@ addscript(10198661638,"Farm Factory Tycoon [Free Diamonds Remote]", "FarmFactory
                     
                     
 addscriptexist(6284583030, "PetSimulatorXAutoFarm", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PetSimulatorXAutoFarm.lua")
+    
+addscript(9129288160,"Tommy Play [Collect All Tokens]", "TommyPlayCollectAllTokens", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TommyPlayCollectAllTokens.lua")
+                    
