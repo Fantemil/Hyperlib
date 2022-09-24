@@ -4789,3 +4789,6 @@ addscript(7368681149,"UnExceptional [Capture All Flags]", "UnExceptionalCaptureA
                     
                     
 addscriptexist(9551640993, "MiningSimulator2HatchWebhookSender", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MiningSimulator2HatchWebhookSender.lua")
+    
+addscript(2000062521,"State of Anarchy 0.15.83.0 [Kill All]", "StateofAnarchy015830KillAll", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/StateofAnarchy015830KillAll.lua")
+                    
