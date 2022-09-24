@@ -7541,3 +7541,5 @@ addscriptexist(7842028704, "AnimeClashSimulatorAutoFarm", "Qalnik", "https://raw
 addscriptexist(155615604, "PrisonLifeGodModeArrestPlayerKillAll", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PrisonLifeGodModeArrestPlayerKillAll.lua")
                     
 addscriptexist(263761432, "HorrificHousingAutoFarmCoinsInfityJumpPets", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/HorrificHousingAutoFarmCoinsInfityJumpPets.lua")
+                    
+addscriptexist(2809202155, "YourBizarreAdventureTpAutoitemsAutoQuestWalkSpeed", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/YourBizarreAdventureTpAutoitemsAutoQuestWalkSpeed.lua")
