@@ -4203,3 +4203,5 @@ addscript(9611595239,"Rift Royale [Esp + Aimbot]", "RiftRoyaleEspAimbot", "Terni
     
 addscript(6269446951,"Smooth Slicing [Kill All]", "SmoothSlicingKillAll", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SmoothSlicingKillAll.lua")
                     
+                    
+addscriptexist(9344944754, "HunterxAthenaAutoPushups", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/HunterxAthenaAutoPushups.lua")
