@@ -4639,3 +4639,6 @@ addscript(5963376918,"Anime Tycoon [Teleports, Collect Cash, Give all Weapons]",
                     
                     
 addscriptexist(9551640993, "MiningSimulatorChangeAutoSelltoSliderAutoMiningAutoRebirth", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MiningSimulatorChangeAutoSelltoSliderAutoMiningAutoRebirth.lua")
+    
+addscript(3652625463,"Lifting Simulator [Auto Muscle, WalkSpeed, TP Safe Zone]", "LiftingSimulatorAutoMuscleWalkSpeedTPSafeZone", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LiftingSimulatorAutoMuscleWalkSpeedTPSafeZone.lua")
+                    
