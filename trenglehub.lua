@@ -6001,3 +6001,6 @@ addscriptexist(9203864304, "RaiseaFloppaAutoClickAutoCollectFloppaCashMore", "Te
     
 addscript(4637668954,"Rensselaer County Beta [RGB Car]", "RensselaerCountyBetaRGBCar", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RensselaerCountyBetaRGBCar.lua")
                     
+    
+addscript(5584024582,"The Rake Hour Test [Level Multiplier]", "TheRakeHourTestLevelMultiplier", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TheRakeHourTestLevelMultiplier.lua")
+                    
