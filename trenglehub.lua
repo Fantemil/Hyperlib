@@ -4766,3 +4766,6 @@ addscript(8288794825,"Natural Disaster Survival [Remove Bad Kids]", "NaturalDisa
                     
                     
 addscriptexist(9598746251, "HomeRunSimulatorSemiInfMoney", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/HomeRunSimulatorSemiInfMoney.lua")
+    
+addscript(7799826347,"Sandbox Tycoon [SANDBOX SCHEMATICS OVERPOWERED GUI]", "SandboxTycoonSANDBOXSCHEMATICSOVERPOWEREDGUI", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SandboxTycoonSANDBOXSCHEMATICSOVERPOWEREDGUI.lua")
+                    
