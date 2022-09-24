@@ -4400,3 +4400,6 @@ addscript(9609300403,"Jackpot [Auto Martingale]", "JackpotAutoMartingale", "Tern
                     
                     
 addscriptexist(9017974931, "ValobloxAutoInstantlyDefuseBomb", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ValobloxAutoInstantlyDefuseBomb.lua")
+    
+addscript(9571406871,"Roblox - UI Jan Lib", "RobloxUIJanLib", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RobloxUIJanLib.lua")
+                    
