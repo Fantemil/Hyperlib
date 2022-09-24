@@ -8138,3 +8138,6 @@ addscriptexist(5233782396, "CreaturesofSonariaAfkAutoBellsFarm", "Qalnik", "http
 addscriptexist(735030788, "RoyaleHighFarmGems", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RoyaleHighFarmGems.lua")
                     
 addscriptexist(4520749081, "KingLegacyGUIFarmLevelAutoStatsMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/KingLegacyGUIFarmLevelAutoStatsMore.lua")
+    
+addscript(69817459,"Digimon Masters [Insta Collect All Chests]", "DigimonMastersInstaCollectAllChests", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DigimonMastersInstaCollectAllChests.lua")
+                    
