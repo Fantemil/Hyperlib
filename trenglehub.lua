@@ -4305,3 +4305,5 @@ addscriptexist(9017974931, "ValobloxKillAll", "Terni", "https://raw.githubuserco
     
 addscript(5991163185,"Spray Paint [Falseban Players Method]", "SprayPaintFalsebanPlayersMethod", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SprayPaintFalsebanPlayersMethod.lua")
                     
+                    
+addscriptexist(2753915549, "BloxFruitsNewAutoFarm", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BloxFruitsNewAutoFarm.lua")
