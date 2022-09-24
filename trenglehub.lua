@@ -7004,3 +7004,6 @@ addscript(5771467270,"TTD 3 [AntiCheat Bypass]", "TTD3AntiCheatBypass", "Terni",
                     
                     
 addscriptexist(8260276694, "AbilityWarsGUIKillAllMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AbilityWarsGUIKillAllMore.lua")
+    
+addscript(5130498426,"AoT:Insertplayground [OP Admin Power]", "AoTInsertplaygroundOPAdminPower", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AoTInsertplaygroundOPAdminPower.lua")
+                    
