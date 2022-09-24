@@ -2367,3 +2367,5 @@ addscript(5024793931,"Zeppelin Wars [Anti Cheat Bypass]", "ZeppelinWarsAntiCheat
     
 addscript(9579974235,"Find The Floppa Morphs [Collect Floppas]", "FindTheFloppaMorphsCollectFloppas", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FindTheFloppaMorphsCollectFloppas.lua")
                     
+                    
+addscriptexist(8737602449, "PLSDONATEEmotesAnimation", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PLSDONATEEmotesAnimation.lua")
