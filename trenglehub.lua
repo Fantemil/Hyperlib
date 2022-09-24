@@ -5537,3 +5537,5 @@ addscriptexist(286090429, "ArsenalGUIAimbotAntiAimESP", "Terni", "https://raw.gi
     
 addscript(8209480473,"Spotify Island [GUI - Auto Farm XP, Auto Farm Hearts]", "SpotifyIslandGUIAutoFarmXPAutoFarmHearts", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SpotifyIslandGUIAutoFarmXPAutoFarmHearts.lua")
                     
+                    
+addscriptexist(183364845, "ShiftRunforRoblox", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ShiftRunforRoblox.lua")
