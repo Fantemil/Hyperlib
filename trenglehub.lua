@@ -8528,3 +8528,5 @@ addscript(5926001758,"Color Block [Auto Win, Farm Pumpkins, Auto Buy Pets]", "Co
                     
                     
 addscriptexist(7430861102, "AincradAdventuresInstaKillKillAura", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AincradAdventuresInstaKillKillAura.lua")
+                    
+addscriptexist(6198225400, "LegendsReWrittenChestsFarming", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LegendsReWrittenChestsFarming.lua")
