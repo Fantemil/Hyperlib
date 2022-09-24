@@ -4071,3 +4071,5 @@ addscriptexist(1730877806, "GrandPieceOnlineFullyinvisible", "Qalnik", "https://
 addscriptexist(606849621, "JailbreakGetWeaponsUnlockDoorsTelepots", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/JailbreakGetWeaponsUnlockDoorsTelepots.lua")
                     
 addscriptexist(9662949425, "PunchabrickwallsimulatorGUIInfiniteMoneyInfiniteBonesMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PunchabrickwallsimulatorGUIInfiniteMoneyInfiniteBonesMore.lua")
+                    
+addscriptexist(2043040358, "VyyrahkCityAutoFarm", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/VyyrahkCityAutoFarm.lua")
