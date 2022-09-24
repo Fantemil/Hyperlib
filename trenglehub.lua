@@ -2836,3 +2836,6 @@ addscript(5895971007,"Allusions [Anti Ragdoll]", "AllusionsAntiRagdoll", "Terni"
 addscriptexist(9845465117, "AUReborn1V1AutoFarmOpenSource", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AUReborn1V1AutoFarmOpenSource.lua")
                     
 addscriptexist(9796315265, "StreetzWarAntiCheatBypass", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/StreetzWarAntiCheatBypass.lua")
+    
+addscript(7120576005,"Stack Ball [Auto Win - Open Source]", "StackBallAutoWinOpenSource", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/StackBallAutoWinOpenSource.lua")
+                    
