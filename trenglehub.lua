@@ -1907,3 +1907,5 @@ addscriptexist(10320240572, "EasyRaceClickerAutoWins", "astrofile", "https://raw
 addscriptexist(6608498361, "cursedtanksimulatorIncreaseAmmunitionhitbox", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/cursedtanksimulatorIncreaseAmmunitionhitbox.lua")
                     
 addscriptexist(8328351891, "MegaMansionTycoonCollectCashMakeDay", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MegaMansionTycoonCollectCashMakeDay.lua")
+                    
+addscriptexist(2622527242, "SCPrBreachWaklspeedGetAmmo", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SCPrBreachWaklspeedGetAmmo.lua")
