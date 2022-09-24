@@ -6716,3 +6716,5 @@ addscriptexist(8603729161, "walk50000studsfornothingAutoFarm", "Qalnik", "https:
     
 addscript(6186926816,"Tapping Kingdom [Inf pet storage]", "TappingKingdomInfpetstorage", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TappingKingdomInfpetstorage.lua")
                     
+                    
+addscriptexist(654732683, "CarCrusher2CoreControlGUI", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CarCrusher2CoreControlGUI.lua")
