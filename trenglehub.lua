@@ -8196,3 +8196,5 @@ addscriptexist(6769764667, "FactorySimulatorHarvestAuraAutopickupFillBright", "Q
     
 addscript(6824046084,"Silly's Difficulty Chart Obby [Auto Farm]", "SillysDifficultyChartObbyAutoFarm", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SillysDifficultyChartObbyAutoFarm.lua")
                     
+                    
+addscriptexist(4913581664, "CartRideIntoRditeMessWithCarts", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CartRideIntoRditeMessWithCarts.lua")
