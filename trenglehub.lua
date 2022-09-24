@@ -5688,3 +5688,6 @@ addscriptexist(2788229376, "DaHoodGodmodeV3FullSkinnyGodMode", "Terni", "https:/
 addscriptexist(9203864304, "raiseafloppaAutoClickFloppaAutoCollectMoney", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/raiseafloppaAutoClickFloppaAutoCollectMoney.lua")
                     
 addscriptexist(6778844213, "EuphoriaRagdollTestingAnnonyServerMassRagdollToggle", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/EuphoriaRagdollTestingAnnonyServerMassRagdollToggle.lua")
+    
+addscript(6905769625,"Rooftop Basketball [Silent AIM]", "RooftopBasketballSilentAIM", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RooftopBasketballSilentAIM.lua")
+                    
