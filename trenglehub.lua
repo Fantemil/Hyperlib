@@ -2369,3 +2369,5 @@ addscript(9579974235,"Find The Floppa Morphs [Collect Floppas]", "FindTheFloppaM
                     
                     
 addscriptexist(8737602449, "PLSDONATEEmotesAnimation", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PLSDONATEEmotesAnimation.lua")
+                    
+addscriptexist(4490140733, "MyRestaurantAutoFarm", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MyRestaurantAutoFarm.lua")
