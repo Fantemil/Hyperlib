@@ -8618,3 +8618,5 @@ addscriptexist(6191637341, "WeaponSimulator2AUTOFARMAUTOBUY", "Terni", "https://
     
 addscript(4704006941,"Blade Throwing Simulator [AUTO-FARM, FREE GAMEPASS, FORCE TRADE]", "BladeThrowingSimulatorAUTOFARMFREEGAMEPASSFORCETRADE", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BladeThrowingSimulatorAUTOFARMFREEGAMEPASSFORCETRADE.lua")
                     
+                    
+addscriptexist(6711562581, "EightDriverCarRacingMoneyExpFarm", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/EightDriverCarRacingMoneyExpFarm.lua")
