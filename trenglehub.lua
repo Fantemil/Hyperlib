@@ -8783,3 +8783,5 @@ addscriptexist(7797478022, "BrokenBonesSimulatorInfMoney", "Qalnik", "https://ra
 addscriptexist(680750021, "CaseClickerAutoClickAutoSEllAutoRebirth", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CaseClickerAutoClickAutoSEllAutoRebirth.lua")
                     
 addscriptexist(4058282580, "BoxingSimulatorAutoFarmAutoEggAutoSell", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BoxingSimulatorAutoFarmAutoEggAutoSell.lua")
+                    
+addscriptexist(7429434108, "AnimeTappersAutoTapAutoComboFarmYen", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AnimeTappersAutoTapAutoComboFarmYen.lua")
