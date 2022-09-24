@@ -2702,3 +2702,5 @@ addscriptexist(9845465117, "AURebornInstantInfiniteAwakening", "Terni", "https:/
     
 addscript(8278412720,"CS Prison Life [BETA] [Casino Auto Farm]", "CSPrisonLifeBETACasinoAutoFarm", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CSPrisonLifeBETACasinoAutoFarm.lua")
                     
+                    
+addscriptexist(4809447488, "VentureTalesAutoFarm", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/VentureTalesAutoFarm.lua")
