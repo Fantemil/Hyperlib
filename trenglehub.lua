@@ -5845,3 +5845,5 @@ addscript(8875171205,"Telos [RE-RELEASE!] [Balanced Craftwars OP tools]", "Telos
     
 addscript(9041110505,"Unlimited Upgrade Simulator [Inf Gem]", "UnlimitedUpgradeSimulatorInfGem", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/UnlimitedUpgradeSimulatorInfGem.lua")
                     
+                    
+addscriptexist(9041110505, "UnlimitedUpgradeSimulatorInfMoney", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/UnlimitedUpgradeSimulatorInfMoney.lua")
