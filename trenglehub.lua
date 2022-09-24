@@ -6312,3 +6312,5 @@ addscriptexist(662417684, "LUCKYBLOCKSBattlegroundsLuckyBlockclicktpinfitejump",
 addscriptexist(9049840490, "SonicSpeedSimulatorGet15KCoinsEvery6Hours", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SonicSpeedSimulatorGet15KCoinsEvery6Hours.lua")
                     
 addscriptexist(6878438976, "DeveloperInc10KCashIn30Seconds", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DeveloperInc10KCashIn30Seconds.lua")
+                    
+addscriptexist(386329050, "TheBlackMesaIncidentFreeGamepassGun", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TheBlackMesaIncidentFreeGamepassGun.lua")
