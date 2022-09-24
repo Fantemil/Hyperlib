@@ -5642,3 +5642,5 @@ addscript(8854753304,"Interactive Intimate [Farm Points]", "InteractiveIntimateF
 addscriptexist(9049840490, "SonicSpeedSimulatorNewFasterAutoFarm", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SonicSpeedSimulatorNewFasterAutoFarm.lua")
                     
 addscriptexist(9049840490, "SonicSpeedSimulatorAutoOpenChests", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SonicSpeedSimulatorAutoOpenChests.lua")
+                    
+addscriptexist(9530846958, "Epsilon2GUIV1AutoTrinketMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Epsilon2GUIV1AutoTrinketMore.lua")
