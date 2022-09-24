@@ -5427,3 +5427,5 @@ addscriptexist(9344944754, "HunterxAthenaAutoFarmGUINew", "Terni", "https://raw.
     
 addscript(4585085581,"Shinobi Storm [Unlock All Charecters]", "ShinobiStormUnlockAllCharecters", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ShinobiStormUnlockAllCharecters.lua")
                     
+                    
+addscriptexist(5620664339, "RoStreetsNoFaliLockpick", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RoStreetsNoFaliLockpick.lua")
