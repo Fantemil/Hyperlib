@@ -5899,3 +5899,5 @@ addscript(10472623094,"Logitech Song Breaker Awards [Collect All Coins – And M
     
 addscript(8395560237,"Kick Off [Free GUI – OP Features]", "KickOffFreeGUI–OPFeatures", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/KickOffFreeGUI–OPFeatures.lua")
                     
+                    
+addscriptexist(8069117419, "DemonSoulSimulatorAutoAttackCollectSoursAutoPower", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DemonSoulSimulatorAutoAttackCollectSoursAutoPower.lua")
