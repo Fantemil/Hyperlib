@@ -4706,3 +4706,6 @@ addscript(6717367660,"Happy Land [Infinite Money]", "HappyLandInfiniteMoney", "T
                     
                     
 addscriptexist(6728870912, "WorldofStandsDemoAutoFarmAutoSkillAutoQuest", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/WorldofStandsDemoAutoFarmAutoSkillAutoQuest.lua")
+    
+addscript(112420803,"Kohls Admin House [GUI - Commands]", "KohlsAdminHouseGUICommands", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/KohlsAdminHouseGUICommands.lua")
+                    
