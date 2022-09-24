@@ -1517,3 +1517,6 @@ addscriptexist(10676523834, "RacingRocketUpgradeRocket", "Qalnik", "https://raw.
     
 addscript(8750997647315,"Tapping Legends X [AutoClick, AutoUpgrade]", "TappingLegendsXAutoClickAutoUpgrade", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TappingLegendsXAutoClickAutoUpgrade.lua")
                     
+    
+addscript(97728782032,"raise a floppa 2 [Automatic Crystal Farm]", "raiseafloppa2AutomaticCrystalFarm", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/raiseafloppa2AutomaticCrystalFarm.lua")
+                    
