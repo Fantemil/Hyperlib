@@ -3978,3 +3978,5 @@ addscriptexist(3722916, "2PlayerCompanyTycoonInfiniteMoney", "Terni", "https://r
     
 addscript(9875254583,"Juice Pirates [Max Level]", "JuicePiratesMaxLevel", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/JuicePiratesMaxLevel.lua")
                     
+                    
+addscriptexist(9875254583, "JuicePiratesInfiniteGems", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/JuicePiratesInfiniteGems.lua")
