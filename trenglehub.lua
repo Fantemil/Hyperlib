@@ -4460,3 +4460,6 @@ addscriptexist(893973440, "FleetheFacilityGUIEspTeleports", "Terni", "https://ra
     
 addscript(8743251051,"Avalanche [God Mode]", "AvalancheGodMode", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AvalancheGodMode.lua")
                     
+    
+addscript(5620664339,"RoStreets [Auto Collect]", "RoStreetsAutoCollect", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RoStreetsAutoCollect.lua")
+                    
