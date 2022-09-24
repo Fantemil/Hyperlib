@@ -6640,3 +6640,5 @@ addscriptexist(7708751418, "SmashingSimulatorXFasterThrowStrongerThrow", "Terni"
     
 addscript(6801661790,"Roblox [Future Client]", "RobloxFutureClient", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RobloxFutureClient.lua")
                     
+                    
+addscriptexist(5872075530, "AnarchyEspTeleportsUnlockRadio", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AnarchyEspTeleportsUnlockRadio.lua")
