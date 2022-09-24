@@ -8279,3 +8279,5 @@ addscriptexist(2727067538, "WorldZeroKillAuraAutoUpdradeAutoSell", "Qalnik", "ht
     
 addscript(5874128725,"No Jumping Difficulty Chart Obby [UNLOCK JUMP, ALL LEVELS]", "NoJumpingDifficultyChartObbyUNLOCKJUMPALLLEVELS", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NoJumpingDifficultyChartObbyUNLOCKJUMPALLLEVELS.lua")
                     
+                    
+addscriptexist(155382109, "SurviveandKilltheKillersinArea51EspinfAmmoGiveallweapons", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SurviveandKilltheKillersinArea51EspinfAmmoGiveallweapons.lua")
