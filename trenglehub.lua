@@ -4463,3 +4463,5 @@ addscript(8743251051,"Avalanche [God Mode]", "AvalancheGodMode", "Terni", "https
     
 addscript(5620664339,"RoStreets [Auto Collect]", "RoStreetsAutoCollect", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RoStreetsAutoCollect.lua")
                     
+                    
+addscriptexist(292439477, "PhantomForcesHinglightEspChams", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PhantomForcesHinglightEspChams.lua")
