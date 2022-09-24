@@ -3164,3 +3164,6 @@ addscriptexist(3956818381, "NinjaLegendsAutoFarmAutoSellAutoCollectCh", "Qalnik"
     
 addscript(9898710720,"Money Tycoon [Auto Farm]", "MoneyTycoonAutoFarm", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MoneyTycoonAutoFarm.lua")
                     
+    
+addscript(654732683,"Car Crushers 2 [Auto Farm, GamePass, No Ragdoll]", "CarCrushers2AutoFarmGamePassNoRagdoll", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CarCrushers2AutoFarmGamePassNoRagdoll.lua")
+                    
