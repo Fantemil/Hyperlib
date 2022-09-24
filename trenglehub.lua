@@ -2333,3 +2333,6 @@ addscript(10151870864,"Ice Factory Tycoon [Auto Farm]", "IceFactoryTycoonAutoFar
     
 addscript(7606302010,"YoYo Simulator [Auto YoYo, Auto Hatch]", "YoYoSimulatorAutoYoYoAutoHatch", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/YoYoSimulatorAutoYoYoAutoHatch.lua")
                     
+    
+addscript(8811271345,"Balanced Craftwars Overhaul [Godmode, Autofarm]", "BalancedCraftwarsOverhaulGodmodeAutofarm", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BalancedCraftwarsOverhaulGodmodeAutofarm.lua")
+                    
