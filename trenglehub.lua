@@ -7090,3 +7090,5 @@ addscript(331811267,"Innovation Inc. Spaceship [Crash Server]", "InnovationIncSp
     
 addscript(7150360576,"A Bizarre Village [Kill All]", "ABizarreVillageKillAll", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ABizarreVillageKillAll.lua")
                     
+                    
+addscriptexist(9945521676, "RobloxChatBypass", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RobloxChatBypass.lua")
