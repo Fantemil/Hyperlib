@@ -5468,3 +5468,5 @@ addscriptexist(6284583030, "PetSimulatorXDeltaHUBCreckedGUI", "Terni", "https://
 addscriptexist(4058282580, "BoxingSimulatorAutoFarmAutoSellMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BoxingSimulatorAutoFarmAutoSellMore.lua")
                     
 addscriptexist(9359839118, "GasStationSimulatorAutoFarmCashier", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/GasStationSimulatorAutoFarmCashier.lua")
+                    
+addscriptexist(9359839118, "GasStationSimulatorAutoFarmRefueler", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/GasStationSimulatorAutoFarmRefueler.lua")
