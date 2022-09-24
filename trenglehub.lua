@@ -6391,3 +6391,5 @@ addscriptexist(5116869569, "DoodleWorldGUIAutoFarming", "Terni", "https://raw.gi
     
 addscript(6555084601,"Вирус [RP] [Godmode]", "ВирусRPGodmode", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ВирусRPGodmode.lua")
                     
+                    
+addscriptexist(8781849572, "StarSimulatorBetaInfiniteIronPlatesPlanks", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/StarSimulatorBetaInfiniteIronPlatesPlanks.lua")
