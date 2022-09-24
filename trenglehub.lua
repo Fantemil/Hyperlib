@@ -6169,3 +6169,6 @@ addscript(5116869569,"Doodle World [Auto Find]", "DoodleWorldAutoFind", "Qalnik"
 addscriptexist(2639416308, "AceAttorneyAnnoyServer", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AceAttorneyAnnoyServer.lua")
                     
 addscriptexist(8492553855, "ProjectUprightNpcFarmItemFarmStandFarm", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ProjectUprightNpcFarmItemFarmStandFarm.lua")
+    
+addscript(7186363515,"A Legacy Time [Kill Aura]", "ALegacyTimeKillAura", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ALegacyTimeKillAura.lua")
+                    
