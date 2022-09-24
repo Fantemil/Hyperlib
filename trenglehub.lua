@@ -5277,3 +5277,6 @@ addscript(2262441883,"Electric State DarkRP [God Mode - Open Source]", "Electric
                     
                     
 addscriptexist(7622046644, "MonsterGhoulInstakillAutoKill", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MonsterGhoulInstakillAutoKill.lua")
+    
+addscript(9495079370,"Collecting Simulator [Auto Weights, Sell, Open Source]", "CollectingSimulatorAutoWeightsSellOpenSource", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CollectingSimulatorAutoWeightsSellOpenSource.lua")
+                    
