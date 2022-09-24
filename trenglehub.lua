@@ -5787,3 +5787,6 @@ addscript(6667701234,"Fate Xero [Item Notifier]", "FateXeroItemNotifier", "Terni
     
 addscript(8403541179,"Blood Engine 2 Slash Mania [Kill All]", "BloodEngine2SlashManiaKillAll", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BloodEngine2SlashManiaKillAll.lua")
                     
+    
+addscript(8396586868,"A 0ne Piece Game [Fruit Farm]", "A0nePieceGameFruitFarm", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/A0nePieceGameFruitFarm.lua")
+                    
