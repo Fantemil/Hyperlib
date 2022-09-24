@@ -8703,3 +8703,5 @@ addscriptexist(3652625463, "LiftingSimulatorNEWSIMPLEAUTOFARM", "Terni", "https:
     
 addscript(2888719930,"Boxing Simulator 2 [AUTO-FARM]", "BoxingSimulator2AUTOFARM", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BoxingSimulator2AUTOFARM.lua")
                     
+                    
+addscriptexist(6753004901, "SwingCityInfStamina", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SwingCityInfStamina.lua")
