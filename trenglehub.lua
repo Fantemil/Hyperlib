@@ -6182,3 +6182,6 @@ addscriptexist(4042427666, "AnimeFightingSimulatorChikaraYenGenerator", "Terni",
 addscriptexist(5712833750, "AnimalSimulatorCollectTreasuers", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AnimalSimulatorCollectTreasuers.lua")
                     
 addscriptexist(6677985923, "MillionaireEmpireTycoonAutoCollectMoneyAutoRebirth", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MillionaireEmpireTycoonAutoCollectMoneyAutoRebirth.lua")
+    
+addscript(2249346496,"Blood Moon The Tycoon [Melee Instant Kill]", "BloodMoonTheTycoonMeleeInstantKill", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BloodMoonTheTycoonMeleeInstantKill.lua")
+                    
