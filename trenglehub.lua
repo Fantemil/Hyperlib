@@ -6062,3 +6062,6 @@ addscriptexist(7009799230, "PressureWashSimulatorLooksAwesome", "Qalnik", "https
     
 addscript(7800644383,"Untitled Hood [Set players cash to negative]", "UntitledHoodSetplayerscashtonegative", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/UntitledHoodSetplayerscashtonegative.lua")
                     
+    
+addscript(6783611814,"Build a Boat to Survive! [GUI - Auto-Farm]", "BuildaBoattoSurviveGUIAutoFarm", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BuildaBoattoSurviveGUIAutoFarm.lua")
+                    
