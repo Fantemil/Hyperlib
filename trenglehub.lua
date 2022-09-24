@@ -7348,3 +7348,5 @@ addscript(6911596531,"Defend the Statue [Auto Kill]", "DefendtheStatueAutoKill",
 addscriptexist(4410049285, "DrivingSimulatorUnlockAllLocationsRegularAutoFarmRainbowCar", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DrivingSimulatorUnlockAllLocationsRegularAutoFarmRainbowCar.lua")
                     
 addscriptexist(5987922834, "TransfurOutbreakGUIAutoInfectMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TransfurOutbreakGUIAutoInfectMore.lua")
+                    
+addscriptexist(8588872272, "DemonSlayerMoonriseGUIAutoFarm", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DemonSlayerMoonriseGUIAutoFarm.lua")
