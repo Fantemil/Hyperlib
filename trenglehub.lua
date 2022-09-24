@@ -2598,3 +2598,6 @@ addscript(10378234820,"Mining Simulator 2 Fan-Made [Tool enchants]", "MiningSimu
 addscriptexist(10378234820, "MiningSimulator2FanMadeResetPass", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MiningSimulator2FanMadeResetPass.lua")
                     
 addscriptexist(10378234820, "MiningSimulator2FanMadePrimeBenefits", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MiningSimulator2FanMadePrimeBenefits.lua")
+    
+addscript(8585657145,"Anime Hero Simulator [Kill Aura - Grab Coins & More!]", "AnimeHeroSimulatorKillAuraGrabCoinsMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AnimeHeroSimulatorKillAuraGrabCoinsMore.lua")
+                    
