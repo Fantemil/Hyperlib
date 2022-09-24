@@ -3534,3 +3534,6 @@ addscriptexist(7419509075, "cartridearoundusedcarbattery", "Qalnik", "https://ra
     
 addscript(7336302630,"Project Delta [Teleport Bypass]", "ProjectDeltaTeleportBypass", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ProjectDeltaTeleportBypass.lua")
                     
+    
+addscript(4169490976,"Mortem Metallum [Kill All]", "MortemMetallumKillAll", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MortemMetallumKillAll.lua")
+                    

