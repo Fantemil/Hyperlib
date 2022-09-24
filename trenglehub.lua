@@ -7562,3 +7562,5 @@ addscript(7499189111,"Encounters [Kill Player, Kick Player, inf Mana]", "Encount
 addscriptexist(3956818381, "NinjaLegendsAutoSwingAutoEquipSwordAutoSell", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NinjaLegendsAutoSwingAutoEquipSwordAutoSell.lua")
                     
 addscriptexist(6872265039, "BedWarsAimBotinvisibilityinstantBreak", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BedWarsAimBotinvisibilityinstantBreak.lua")
+                    
+addscriptexist(6284583030, "PetSimulatorXCrash", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PetSimulatorXCrash.lua")
