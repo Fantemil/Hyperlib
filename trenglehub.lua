@@ -4814,3 +4814,5 @@ addscriptexist(8508161757, "RaiseanAlbertInfMoney", "Qalnik", "https://raw.githu
 addscriptexist(6299805723, "AnimeFightersSimulatorUnlockGamepass", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AnimeFightersSimulatorUnlockGamepass.lua")
                     
 addscriptexist(3101667897, "LegendsOfSpeedAutoFarmAutoRebirthAutoStep", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LegendsOfSpeedAutoFarmAutoRebirthAutoStep.lua")
+                    
+addscriptexist(9551640993, "MiningSimulator2ChestsServerhop", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MiningSimulator2ChestsServerhop.lua")
