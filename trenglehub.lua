@@ -7575,3 +7575,5 @@ addscriptexist(3823781113, "SaberSimulatorAutoSwingAutoSellAutoEquipSaber", "Qal
     
 addscript(182781154,"The Maze Runner [ChestAutoFarm, Treasure Auto Farm, Fly]", "TheMazeRunnerChestAutoFarmTreasureAutoFarmFly", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TheMazeRunnerChestAutoFarmTreasureAutoFarmFly.lua")
                     
+                    
+addscriptexist(2414851778, "DungeonQuestAutoFarmWalkSpeedHipHight", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DungeonQuestAutoFarmWalkSpeedHipHight.lua")
