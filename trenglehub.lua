@@ -5457,3 +5457,5 @@ addscriptexist(9508087919, "ApeirophobiaMonsterESP", "Terni", "https://raw.githu
 addscriptexist(5620664339, "RoStreetsAutoFarm", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RoStreetsAutoFarm.lua")
                     
 addscriptexist(7952502098, "ImpossibleGlassBridgeObbyRemoveAllBadGlass", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ImpossibleGlassBridgeObbyRemoveAllBadGlass.lua")
+                    
+addscriptexist(9508087919, "ApeirophobiaFreeESP–NoKeySystem", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ApeirophobiaFreeESP–NoKeySystem.lua")
