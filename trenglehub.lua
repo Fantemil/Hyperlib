@@ -8733,3 +8733,5 @@ addscriptexist(537413528, "BuildABoatForTreasureAUTOFARMHALLOWEENBOSS", "Terni",
     
 addscript(7728383137,"Dalgona Simulator [AUTO-FARMING]", "DalgonaSimulatorAUTOFARMING", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DalgonaSimulatorAUTOFARMING.lua")
                     
+                    
+addscriptexist(6284583030, "PetSimulatorXNEWGUIAutoFarmAutoOpenAllGamepassesMORE", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PetSimulatorXNEWGUIAutoFarmAutoOpenAllGamepassesMORE.lua")
