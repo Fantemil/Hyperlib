@@ -3483,3 +3483,5 @@ addscriptexist(8203181639, "SyrianShenanigansgiveyourselftonsoffraggrenades", "Q
 addscriptexist(8203181639, "SyrianShenanigansSlowdownthesniperscope", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SyrianShenanigansSlowdownthesniperscope.lua")
                     
 addscriptexist(8203181639, "SyrianShenanigansFixingcarstanks", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SyrianShenanigansFixingcarstanks.lua")
+                    
+addscriptexist(7305309231, "TaxiBossRemoveNPCcars", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TaxiBossRemoveNPCcars.lua")
