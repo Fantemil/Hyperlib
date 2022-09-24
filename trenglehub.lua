@@ -4546,3 +4546,6 @@ addscriptexist(292439477, "PhantomForcesHighlightESPChams", "Qalnik", "https://r
 addscriptexist(4733278992, "SwordBloxOnlineRebirthKillAuraInfiniteStaminaCollectMaterials", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SwordBloxOnlineRebirthKillAuraInfiniteStaminaCollectMaterials.lua")
                     
 addscriptexist(606849621, "JailbreakFullAutoGetWeaponsMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/JailbreakFullAutoGetWeaponsMore.lua")
+    
+addscript(28382335,"Zombie Tycoon [Silent Aim - GUI]", "ZombieTycoonSilentAimGUI", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ZombieTycoonSilentAimGUI.lua")
+                    
