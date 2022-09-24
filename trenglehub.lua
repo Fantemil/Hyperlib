@@ -2090,3 +2090,5 @@ addscript(5766084948,"SCP", "SCPTheRedLakeEspSilentAim", "astrofile", "https://r
                     
                     
 addscriptexist(7991339063, "RainbowFriendsEspCollectItems", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RainbowFriendsEspCollectItems.lua")
+                    
+addscriptexist(9585537847, "SHADOVISRPGKillAuraAutoFarm", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SHADOVISRPGKillAuraAutoFarm.lua")
