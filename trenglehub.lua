@@ -1701,3 +1701,6 @@ addscriptexist(9872472334, "EvadeAutoRespawnEsp", "astrofile", "https://raw.gith
 addscriptexist(7655745946, "DunkingSimulatorFreeGamepass", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DunkingSimulatorFreeGamepass.lua")
                     
 addscriptexist(286090429, "ArsenalRainbowGunAimbot", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ArsenalRainbowGunAimbot.lua")
+    
+addscript(5130598377,"Tapping Legends X [Auto Farms, Auto Hatch, Auto Rebirth]", "TappingLegendsXAutoFarmsAutoHatchAutoRebirth", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TappingLegendsXAutoFarmsAutoHatchAutoRebirth.lua")
+                    
