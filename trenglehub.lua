@@ -6532,3 +6532,5 @@ addscript(4456880028,"Ro Crash [Admin Panel]", "RoCrashAdminPanel", "Terni", "ht
     
 addscript(4913331862,"Recoil Zombies [Zombie ESP & More!}", "RecoilZombiesZombieESPMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RecoilZombiesZombieESPMore.lua")
                     
+                    
+addscriptexist(5116869569, "DoodleWorldGeneratesGUIDs", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DoodleWorldGeneratesGUIDs.lua")
