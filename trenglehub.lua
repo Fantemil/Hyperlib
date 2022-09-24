@@ -3910,3 +3910,5 @@ addscript(6206893534,"Cobra Kai Karate [Auto Farm Pushups, Auto Farm Situps, No 
     
 addscript(2551184308,"Roblox [Re-enter after a kick]", "RobloxReenterafterakick", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RobloxReenterafterakick.lua")
                     
+                    
+addscriptexist(2809202155, "YourBizarreAdventureNoCooldown", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/YourBizarreAdventureNoCooldown.lua")
