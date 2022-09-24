@@ -2841,3 +2841,6 @@ addscript(7120576005,"Stack Ball [Auto Win - Open Source]", "StackBallAutoWinOpe
                     
                     
 addscriptexist(7655745946, "DunkingSimulatorUnlimitedBoost", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DunkingSimulatorUnlimitedBoost.lua")
+    
+addscript(7076813495,"Basketball Stars! [Silent Aim]", "BasketballStarsSilentAim", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BasketballStarsSilentAim.lua")
+                    
