@@ -2680,3 +2680,5 @@ addscriptexist(10106105124, "WheatFarmingSimulatorAutoFarmAutoSell", "astrofile"
     
 addscript(9792312812,"Vampire Fighters [Kill All, Inf Stam]", "VampireFightersKillAllInfStam", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/VampireFightersKillAllInfStam.lua")
                     
+                    
+addscriptexist(8737602449, "PLSDONATEAutoFarm", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PLSDONATEAutoFarm.lua")
