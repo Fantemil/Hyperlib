@@ -6962,3 +6962,6 @@ addscriptexist(8232438881, "ThiefSimulatorAutoRobNPC–AutoFarmMore", "Terni", "
 addscriptexist(8232438881, "ThiefSimulatorMoneyFarm", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ThiefSimulatorMoneyFarm.lua")
                     
 addscriptexist(1345139196, "TreasureHuntSimulatorAutoFarmChestsMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TreasureHuntSimulatorAutoFarmChestsMore.lua")
+    
+addscript(6582467377,"Vanity [Aimbot]", "VanityAimbot", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/VanityAimbot.lua")
+                    
