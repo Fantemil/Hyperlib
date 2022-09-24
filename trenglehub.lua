@@ -5911,3 +5911,6 @@ addscriptexist(5712833750, "AnimalSimulatorFarmDragonSkinsXP", "Terni", "https:/
     
 addscript(6381640185,"Linkvertise Bypass [GUI - Open Source]", "LinkvertiseBypassGUIOpenSource", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LinkvertiseBypassGUIOpenSource.lua")
                     
+    
+addscript(8649501395,"NFL Tycoon [Auto Collect Money - Auto Buy]", "NFLTycoonAutoCollectMoneyAutoBuy", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NFLTycoonAutoCollectMoneyAutoBuy.lua")
+                    
