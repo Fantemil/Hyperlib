@@ -3591,3 +3591,5 @@ addscript(9571238478,"Raise a Peter [Auto Farm GUI]", "RaiseaPeterAutoFarmGUI", 
                     
                     
 addscriptexist(5956785391, "ProjectSlayersMuzanESP", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ProjectSlayersMuzanESP.lua")
+                    
+addscriptexist(5956785391, "ProjectSlayersGUIAutoFarmAutoSkillMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ProjectSlayersGUIAutoFarmAutoSkillMore.lua")
