@@ -2980,3 +2980,5 @@ addscriptexist(4951858512, "VictoryRace", "Qalnik", "https://raw.githubuserconte
 addscriptexist(8425637426, "WriteaLetterAetterfreeanimations", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/WriteaLetterAetterfreeanimations.lua")
                     
 addscriptexist(10386774046, "LegendMagicianAutoFarm", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LegendMagicianAutoFarm.lua")
+                    
+addscriptexist(6902912928, "GETTOTHETOPFinishInfmoney", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/GETTOTHETOPFinishInfmoney.lua")
