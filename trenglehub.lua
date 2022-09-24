@@ -1232,3 +1232,5 @@ addscriptexist(1962086868, "TowerofHellAutoWinInfJumpsFinish", "astrofile", "htt
     
 addscript(4556951723,"Ragdoll Physics ", "RagdollPhysicsFreeBadge", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RagdollPhysicsFreeBadge.lua")
                     
+                    
+addscriptexist(9133513813, "HuntedHoodAutoSteal", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/HuntedHoodAutoSteal.lua")
