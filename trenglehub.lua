@@ -1680,3 +1680,5 @@ addscriptexist(5956785391, "ProjectSlayersInfStaminaAutofarm", "astrofile", "htt
     
 addscript(9285238704,"Race Clicker [Auto Farm Wins]", "RaceClickerAutoFarmWins", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RaceClickerAutoFarmWins.lua")
                     
+                    
+addscriptexist(10087074695, "KnifeStrifeDupeKnifesnotfixed", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/KnifeStrifeDupeKnifesnotfixed.lua")
