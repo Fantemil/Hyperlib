@@ -6722,3 +6722,6 @@ addscriptexist(654732683, "CarCrusher2CoreControlGUI", "Terni", "https://raw.git
 addscriptexist(4111023553, "DeepwokenAntiAcid", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DeepwokenAntiAcid.lua")
                     
 addscriptexist(2753915549, "BloxFruitsAutoFarmBoneFarmBossDropFruit", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BloxFruitsAutoFarmBoneFarmBossDropFruit.lua")
+    
+addscript(4811576324,"Totally Accurate Gun Simulator [Kill All]", "TotallyAccurateGunSimulatorKillAll", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TotallyAccurateGunSimulatorKillAll.lua")
+                    
