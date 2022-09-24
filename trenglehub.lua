@@ -2246,3 +2246,5 @@ addscript(8531522502,"Facility Of Redemption [WalkSpeed]", "FacilityOfRedemption
     
 addscript(391104146,"Let's Party∞ +Gear Testing Edition [Ban All, Fly]", "LetsParty∞GearTestingEditionBanAllFly", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LetsParty∞GearTestingEditionBanAllFly.lua")
                     
+                    
+addscriptexist(3260590327, "TowerDefenseSimulator", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TowerDefenseSimulator.lua")
