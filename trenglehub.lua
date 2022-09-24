@@ -6611,3 +6611,5 @@ addscript(7478757481,"Undertale", "UndertaleTimelineCollapseAutoFarm", "Qalnik",
 addscriptexist(8893378293, "GRAMMYWeekAutoCollectgrammys", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/GRAMMYWeekAutoCollectgrammys.lua")
                     
 addscriptexist(4855457388, "DemonfallGUIAllBossFarmOtherFarm", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DemonfallGUIAllBossFarmOtherFarm.lua")
+                    
+addscriptexist(6555084601, "ВирусRPNukeGun–GiveItems–AntiCheatsBypass", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ВирусRPNukeGun–GiveItems–AntiCheatsBypass.lua")
