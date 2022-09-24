@@ -5710,3 +5710,5 @@ addscriptexist(9461798258, "RaiseaGrannySpawnamaid", "Qalnik", "https://raw.gith
 addscriptexist(2248408710, "DestructionSimulatorINFmoney", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DestructionSimulatorINFmoney.lua")
                     
 addscriptexist(632642533, "DeadMist2Collectdrop", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DeadMist2Collectdrop.lua")
+                    
+addscriptexist(632642533, "DeadMist2BetaGetBox", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DeadMist2BetaGetBox.lua")
