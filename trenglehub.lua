@@ -2345,3 +2345,5 @@ addscript(9611809130,"Crazy Party RPG [AutoFarm]", "CrazyPartyRPGAutoFarm", "ast
 addscriptexist(6407649031, "NOSCOPEARCADEAimbotEsp", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NOSCOPEARCADEAimbotEsp.lua")
                     
 addscriptexist(6542731310, "DogecoinMiningTycoonUnlockAll", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DogecoinMiningTycoonUnlockAll.lua")
+                    
+addscriptexist(10184360875, "PetFishingSimulatorAutoFarmRebirth", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PetFishingSimulatorAutoFarmRebirth.lua")
