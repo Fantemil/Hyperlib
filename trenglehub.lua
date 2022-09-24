@@ -3773,3 +3773,5 @@ addscript(7491927311,"Undertale Test Place Reborn [Alt Detection Bypass]", "Unde
     
 addscript(6938803436,"Anime Dimensions Simulator [Auto Farm]", "AnimeDimensionsSimulatorAutoFarm", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AnimeDimensionsSimulatorAutoFarm.lua")
                     
+                    
+addscriptexist(2809202155, "YourBizarreAdventureGodMode", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/YourBizarreAdventureGodMode.lua")
