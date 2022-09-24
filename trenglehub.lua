@@ -3397,3 +3397,6 @@ addscriptexist(8278412720, "CSPrisonLifeAntiCheatBypass", "Qalnik", "https://raw
 addscriptexist(6512923934, "UltraClickerSimulatorAutoTapUnlimtedGemsUnlimtedFloppa", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/UltraClickerSimulatorAutoTapUnlimtedGemsUnlimtedFloppa.lua")
                     
 addscriptexist(192800, "WorkataPizzaPlaceServBomber", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/WorkataPizzaPlaceServBomber.lua")
+    
+addscript(6570234816,"Mano County Roleplay [Anticheat bypass]", "ManoCountyRoleplayAnticheatbypass", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ManoCountyRoleplayAnticheatbypass.lua")
+                    
