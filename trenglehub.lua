@@ -4238,3 +4238,5 @@ addscriptexist(6766156863, "StrongmanWimbledonEventAutoFarm", "Terni", "https://
     
 addscript(5136715979,"Cave Simulator [Inf ores]", "CaveSimulatorInfores", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CaveSimulatorInfores.lua")
                     
+                    
+addscriptexist(4459593483, "FORCEPREALPHAGodModeAntiBad", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FORCEPREALPHAGodModeAntiBad.lua")
