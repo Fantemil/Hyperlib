@@ -1981,3 +1981,6 @@ addscriptexist(537413528, "BuildABoatForTreasureAutoFarmWalkSpeedGodmodeWater", 
     
 addscript(4962588958,"Teamwork Obby [2 Player Obby] [AutoFarm]", "TeamworkObby2PlayerObbyAutoFarm", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TeamworkObby2PlayerObbyAutoFarm.lua")
                     
+    
+addscript(10218821851,"Client Replication [Fe Becoming a monster]", "ClientReplicationFeBecomingamonster", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ClientReplicationFeBecomingamonster.lua")
+                    
