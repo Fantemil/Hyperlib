@@ -4340,3 +4340,5 @@ addscript(4580204640,"Crimson Craftwars [Insta Kill All, God Mode & More!]", "Cr
                     
                     
 addscriptexist(180037022, "SonicUltimateRPGCollectAllChaosEmeraldsAllRings", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SonicUltimateRPGCollectAllChaosEmeraldsAllRings.lua")
+                    
+addscriptexist(286090429, "ArsenalAFKArsenalAIBot", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ArsenalAFKArsenalAIBot.lua")
