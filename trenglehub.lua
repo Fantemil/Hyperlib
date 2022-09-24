@@ -5027,3 +5027,5 @@ addscriptexist(2788229376, "DaHoodCashCatFarm", "Terni", "https://raw.githubuser
     
 addscript(8549934015,"REx Reincarnated [Auto Farm]", "RExReincarnatedAutoFarm", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RExReincarnatedAutoFarm.lua")
                     
+                    
+addscriptexist(3956818381, "NinjaLegendsAutoFarmAutoBuyAllGUI", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NinjaLegendsAutoFarmAutoBuyAllGUI.lua")
