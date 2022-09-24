@@ -4725,3 +4725,5 @@ addscript(9293082713,"Prank Weapon Battles [Kill All]", "PrankWeaponBattlesKillA
 addscriptexist(443406476, "ProjectLazarusZombiesKillAllInfiniteMoney", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ProjectLazarusZombiesKillAllInfiniteMoney.lua")
                     
 addscriptexist(7791873535, "REALISTICHOODInfinitiCash", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/REALISTICHOODInfinitiCash.lua")
+                    
+addscriptexist(8592863835, "MagnetSimulator2AutoMoneyAutoSellAutoRebirth", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MagnetSimulator2AutoMoneyAutoSellAutoRebirth.lua")
