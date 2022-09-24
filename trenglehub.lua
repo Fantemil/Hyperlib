@@ -4069,3 +4069,5 @@ addscript(8232438881,"Thief Simulator [Npc Rob]", "ThiefSimulatorNpcRob", "Terni
 addscriptexist(1730877806, "GrandPieceOnlineFullyinvisible", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/GrandPieceOnlineFullyinvisible.lua")
                     
 addscriptexist(606849621, "JailbreakGetWeaponsUnlockDoorsTelepots", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/JailbreakGetWeaponsUnlockDoorsTelepots.lua")
+                    
+addscriptexist(9662949425, "PunchabrickwallsimulatorGUIInfiniteMoneyInfiniteBonesMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PunchabrickwallsimulatorGUIInfiniteMoneyInfiniteBonesMore.lua")
