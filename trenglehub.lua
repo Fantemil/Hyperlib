@@ -8233,3 +8233,5 @@ addscript(8207275875,"Roliday Rumble 2021 [Kill Aura, Freeze Entity]", "RolidayR
                     
                     
 addscriptexist(920587237, "AdoptMeSpawnAnyPets", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AdoptMeSpawnAnyPets.lua")
+                    
+addscriptexist(6284583030, "PetSimulatorXQuest25ChristmasEvent", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PetSimulatorXQuest25ChristmasEvent.lua")
