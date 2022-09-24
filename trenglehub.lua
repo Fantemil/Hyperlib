@@ -8080,3 +8080,6 @@ addscriptexist(5112591059, "NinjamanSimulatorInfiniteStrength", "Terni", "https:
 addscriptexist(7666393362, "TowerofGuessingInfiniteSkips", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TowerofGuessingInfiniteSkips.lua")
                     
 addscriptexist(7666393362, "TowerofGuessingGetAllBadgesAutoComlete", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TowerofGuessingGetAllBadgesAutoComlete.lua")
+    
+addscript(6305942109,"Laundry Simulator [Auto Farm, All Gamepass]", "LaundrySimulatorAutoFarmAllGamepass", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LaundrySimulatorAutoFarmAllGamepass.lua")
+                    
