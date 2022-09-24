@@ -3937,3 +3937,5 @@ addscriptexist(35397735, "ScubaDivingatQuillLakeGodmode", "Qalnik", "https://raw
 addscriptexist(863266079, "ApocalypseRising2TeleportToPlayer", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ApocalypseRising2TeleportToPlayer.lua")
                     
 addscriptexist(7026949294, "SwordSimulatorAutoFarmInfiniteCoinsMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SwordSimulatorAutoFarmInfiniteCoinsMore.lua")
+                    
+addscriptexist(9598746251, "HomeRunSimulatorAutoTime", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/HomeRunSimulatorAutoTime.lua")
