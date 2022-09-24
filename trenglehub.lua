@@ -4353,3 +4353,5 @@ addscript(455366377,"The Streets [Large Decals]", "TheStreetsLargeDecals", "Tern
                     
                     
 addscriptexist(2753915549, "BloxFruitsAutoFarm", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BloxFruitsAutoFarm.lua")
+                    
+addscriptexist(35397735, "ScubaDivingatQuillLakeInfMoney", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ScubaDivingatQuillLakeInfMoney.lua")
