@@ -4593,3 +4593,6 @@ addscript(7733392089,"LuoBu Transformation Night [Auto Dance]", "LuoBuTransforma
                     
                     
 addscriptexist(4733278992, "SwordBloxOnlineRebirthKillAuraAutoFarm", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SwordBloxOnlineRebirthKillAuraAutoFarm.lua")
+    
+addscript(1458767429,"Anime Battle Arena [Kira Show Where Bomb Is]", "AnimeBattleArenaKiraShowWhereBombIs", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AnimeBattleArenaKiraShowWhereBombIs.lua")
+                    
