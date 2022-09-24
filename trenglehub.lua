@@ -3316,3 +3316,5 @@ addscript(4787629450,"BOOGA BOOGA - Classic [Invisible Armor & Tools]", "BOOGABO
     
 addscript(29812337,"Framed! [ESP]", "FramedESP", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FramedESP.lua")
                     
+                    
+addscriptexist(4282985734, "CombatWarriorsNoFallDamageautofarminfinitestamina", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CombatWarriorsNoFallDamageautofarminfinitestamina.lua")
