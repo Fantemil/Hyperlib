@@ -2479,3 +2479,5 @@ addscript(10070062081,"Minion Simulator [Auto Farm, Walkspeed]", "MinionSimulato
     
 addscript(8573962925,"Alternate Battlegrounds [Auto Click, PlayerSnipe]", "AlternateBattlegroundsAutoClickPlayerSnipe", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AlternateBattlegroundsAutoClickPlayerSnipe.lua")
                     
+                    
+addscriptexist(3527629287, "BigPaintballAimbotFov", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BigPaintballAimbotFov.lua")
