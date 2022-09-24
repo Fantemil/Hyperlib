@@ -2296,3 +2296,5 @@ addscript(8304191830,"Anime Adventures [Auto Challenge, Auto Inf Mode]", "AnimeA
     
 addscript(1923555882,"East Brickton [Auto Farm]", "EastBricktonAutoFarm", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/EastBricktonAutoFarm.lua")
                     
+                    
+addscriptexist(1554960397, "CarDealershipTycoonAutoRaceDuneAutoRaceRally", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CarDealershipTycoonAutoRaceDuneAutoRaceRally.lua")
