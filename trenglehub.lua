@@ -8092,3 +8092,5 @@ addscriptexist(3101667897, "LegendsOfSpeedAutoFarmHoopsRebirth", "Qalnik", "http
     
 addscript(6466630690,"Cat Infection [Anti Infection]", "CatInfectionAntiInfection", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CatInfectionAntiInfection.lua")
                     
+                    
+addscriptexist(6466630690, "CatInfectionKillAll", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CatInfectionKillAll.lua")
