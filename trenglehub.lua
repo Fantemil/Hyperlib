@@ -6049,3 +6049,5 @@ addscriptexist(301549746, "CounterBloxGodMode", "Terni", "https://raw.githubuser
 addscriptexist(1240644540, "VampireHunters3VampireESP", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/VampireHunters3VampireESP.lua")
                     
 addscriptexist(8492553855, "ProjectUprightInvisible", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ProjectUprightInvisible.lua")
+                    
+addscriptexist(1458767429, "ABAItadoriAutoBlockFlash", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ABAItadoriAutoBlockFlash.lua")
