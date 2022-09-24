@@ -7492,3 +7492,5 @@ addscript(137877687,"RoCitizens [Auto Farm]", "RoCitizensAutoFarm", "Terni", "ht
     
 addscript(6737540754,"TITANAGE [Full Auto Farm]", "TITANAGEFullAutoFarm", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TITANAGEFullAutoFarm.lua")
                     
+                    
+addscriptexist(6875469709, "STRONGESTPUNCHSIMULATORAutoPunchAutoOrbCollectionAutoWorld", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/STRONGESTPUNCHSIMULATORAutoPunchAutoOrbCollectionAutoWorld.lua")
