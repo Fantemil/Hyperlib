@@ -5342,3 +5342,5 @@ addscriptexist(6403373529, "SlapBattlesAutoCollectAllKillOpenSource", "Terni", "
 addscriptexist(7167319176, "ChicagoRemasteredJewelryStoreAutoFarm", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ChicagoRemasteredJewelryStoreAutoFarm.lua")
                     
 addscriptexist(4855457388, "DemonfallTeleportToPlayer", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DemonfallTeleportToPlayer.lua")
+                    
+addscriptexist(8278412720, "PrisonLifeRemasteredNoragdollNofalldamageNoEscape", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PrisonLifeRemasteredNoragdollNofalldamageNoEscape.lua")
