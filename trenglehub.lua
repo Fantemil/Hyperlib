@@ -1444,3 +1444,5 @@ addscriptexist(6229116934, "HoopzBallEspAimbot", "astrofile", "https://raw.githu
     
 addscript(3851622790,"Break In (Story) [Godmode]", "BreakInStoryGodmode", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BreakInStoryGodmode.lua")
                     
+                    
+addscriptexist(7138009149, "PHIGHTINGInfCash", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PHIGHTINGInfCash.lua")
