@@ -1569,3 +1569,5 @@ addscriptexist(2788229376, "DaHoodAimlockSilentAim", "astrofile", "https://raw.g
     
 addscript(854034641110,"Rebirth Champions X [AutoSpin, AutoCraft]", "RebirthChampionsXAutoSpinAutoCraft", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RebirthChampionsXAutoSpinAutoCraft.lua")
                     
+                    
+addscriptexist(8750997647315, "TappingLegendsXAutoEggsAutoRebirth", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TappingLegendsXAutoEggsAutoRebirth.lua")
