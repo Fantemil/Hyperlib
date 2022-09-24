@@ -8605,3 +8605,5 @@ addscriptexist(5984870779, "GARENAFREEFIREAutoSpamKillInstaKillKillAll", "Terni"
 addscriptexist(621129760, "KATHitboxExtender", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/KATHitboxExtender.lua")
                     
 addscriptexist(7444263453, "JetpackJumpersNewBagINFJumps", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/JetpackJumpersNewBagINFJumps.lua")
+                    
+addscriptexist(6711562581, "EightDriverCarRacingDestroyerFucker", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/EightDriverCarRacingDestroyerFucker.lua")
