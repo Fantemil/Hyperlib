@@ -11,7 +11,7 @@ end)
 
 print("[LOGS] Autofarm > Loaded")
 autofarm = RS.Stepped:Connect(function()
-    
+
         if game:GetService('ReplicatedStorage').MatchInfo.ExitsOpen.Value == false and game.Workspace:FindFirstChild("CurrentMap") then
           game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-151.31022644043, 195.42036437988, -568.85662841797)
         end

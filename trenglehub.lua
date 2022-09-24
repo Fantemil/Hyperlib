@@ -7404,3 +7404,5 @@ addscript(8656125900,"Brits VIP Party [Complete Event - Gather Free Hats]", "Bri
 addscriptexist(2866967438, "FishingSimulatorAutoKillAutoSellAutoRemovedrop", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FishingSimulatorAutoKillAutoSellAutoRemovedrop.lua")
                     
 addscriptexist(7655745946, "DunkingSImulatorAutoFarm", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DunkingSImulatorAutoFarm.lua")
+                    
+addscriptexist(606849621, "JailbreakTeleportSystemFast", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/JailbreakTeleportSystemFast.lua")
