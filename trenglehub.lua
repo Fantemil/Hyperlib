@@ -6447,3 +6447,6 @@ addscriptexist(6778844213, "EuphoriaragdolltestingDeathFarm", "Terni", "https://
 addscriptexist(6778844213, "EuphoriaragdolltestingGetTheMachineBadge", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/EuphoriaragdolltestingGetTheMachineBadge.lua")
                     
 addscriptexist(8884433153, "CollectAllPetsAutoFarm", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CollectAllPetsAutoFarm.lua")
+    
+addscript(5991118999,"Mowing Masters Simulator [Auto Farm, Auto Buy Bee Egg, Full Auto Rebirth]", "MowingMastersSimulatorAutoFarmAutoBuyBeeEggFullAutoRebirth", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MowingMastersSimulatorAutoFarmAutoBuyBeeEggFullAutoRebirth.lua")
+                    
