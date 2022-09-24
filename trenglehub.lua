@@ -2904,3 +2904,5 @@ addscript(5714258552,"Bizarre Heritage [Free Money And Xp]", "BizarreHeritageFre
                     
                     
 addscriptexist(10184360875, "PetFishingSimulatorInfMoneyInfFish", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PetFishingSimulatorInfMoneyInfFish.lua")
+                    
+addscriptexist(9157870347, "PetAdventuresSimulatorAutoCollectAutoFarmAutoHatch", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PetAdventuresSimulatorAutoCollectAutoFarmAutoHatch.lua")
