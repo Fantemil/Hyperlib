@@ -8779,3 +8779,5 @@ addscriptexist(7711545622, "TheFashionAwards2021Swords", "Qalnik", "https://raw.
 addscriptexist(3398014311, "RestaurantTycoon2AutoFarm", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RestaurantTycoon2AutoFarm.lua")
                     
 addscriptexist(7797478022, "BrokenBonesSimulatorInfMoney", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BrokenBonesSimulatorInfMoney.lua")
+                    
+addscriptexist(680750021, "CaseClickerAutoClickAutoSEllAutoRebirth", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CaseClickerAutoClickAutoSEllAutoRebirth.lua")
