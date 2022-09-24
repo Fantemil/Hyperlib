@@ -7463,3 +7463,5 @@ addscriptexist(6284583030, "PetSimulatorXFastAutoEnchant", "Terni", "https://raw
     
 addscript(7989049516,"Anime Masters [Auto Punch, Auto Rebirth, Auto Farm]", "AnimeMastersAutoPunchAutoRebirthAutoFarm", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AnimeMastersAutoPunchAutoRebirthAutoFarm.lua")
                     
+                    
+addscriptexist(301549746, "CounterBloxWallBang", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CounterBloxWallBang.lua")
