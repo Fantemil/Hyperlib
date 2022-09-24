@@ -4861,3 +4861,6 @@ addscript(1365404657,"Feather Family [Change your name into Anything]", "Feather
                     
                     
 addscriptexist(659222129, "Swordburst2AutoFarmKillAura", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Swordburst2AutoFarmKillAura.lua")
+    
+addscript(2202352383,"Super Power Training Simulator [Auto Farm]", "SuperPowerTrainingSimulatorAutoFarm", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SuperPowerTrainingSimulatorAutoFarm.lua")
+                    
