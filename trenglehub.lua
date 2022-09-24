@@ -4918,3 +4918,5 @@ addscript(8730246074,"Galaxy Uranium ESP", "GalaxyUraniumESP", "Terni", "https:/
     
 addscript(6953291455,"Eating Simulator [AutoEat, AutoFarm, AutoSell]", "EatingSimulatorAutoEatAutoFarmAutoSell", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/EatingSimulatorAutoEatAutoFarmAutoSell.lua")
                     
+                    
+addscriptexist(8592863835, "MagnetSimulator2AutoCollectCoinsGetAllGamepasses", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MagnetSimulator2AutoCollectCoinsGetAllGamepasses.lua")
