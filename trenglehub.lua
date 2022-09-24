@@ -3198,3 +3198,6 @@ addscriptexist(6298464951, "UnbreakableGet100KCashItems", "Terni", "https://raw.
 addscriptexist(10192063645, "ThyhoodGUIV2AutoFarmTrashKillPlayersAndTeleports", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ThyhoodGUIV2AutoFarmTrashKillPlayersAndTeleports.lua")
                     
 addscriptexist(1537690962, "BeeSwarmSimulatorChocmocSmartAutofarmFarminboostedfields", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BeeSwarmSimulatorChocmocSmartAutofarmFarminboostedfields.lua")
+    
+addscript(10198661638,"Farm Factory Tycoon [Free Diamonds Remote]", "FarmFactoryTycoonFreeDiamondsRemote", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FarmFactoryTycoonFreeDiamondsRemote.lua")
+                    
