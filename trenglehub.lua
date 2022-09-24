@@ -2647,3 +2647,6 @@ addscript(5201688943,"Da hood [ESP]", "DahoodESP", "astrofile", "https://raw.git
     
 addscript(6939849554,"Cart Ride Tycoon thru a Cave 2 [Auto farm cash]", "CartRideTycoonthruaCave2Autofarmcash", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CartRideTycoonthruaCave2Autofarmcash.lua")
                     
+    
+addscript(3234050617,"Left 2 Die [Infinite Ammo]", "Left2DieInfiniteAmmo", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Left2DieInfiniteAmmo.lua")
+                    
