@@ -2851,3 +2851,5 @@ addscript(10086890480,"Clicking Simulator [Shiny King Tophat Giver]", "ClickingS
 addscriptexist(9845465117, "AURebornInvisible", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AURebornInvisible.lua")
                     
 addscriptexist(7127407851, "AttackOnTitanEvolutionInfiniteGasMORE", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AttackOnTitanEvolutionInfiniteGasMORE.lua")
+                    
+addscriptexist(9579974235, "FindTheFloppaMorphsGetAllFloppas", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FindTheFloppaMorphsGetAllFloppas.lua")
