@@ -5877,3 +5877,5 @@ addscriptexist(8540168650, "StandUprightRebootedItemServerHopFarm", "Terni", "ht
     
 addscript(3501626887,"Diceboy [Bring dicecoins]", "DiceboyBringdicecoins", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DiceboyBringdicecoins.lua")
                     
+                    
+addscriptexist(8549047195, "AnimeWarriorsSimulatorTpfinalworld", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AnimeWarriorsSimulatorTpfinalworld.lua")
