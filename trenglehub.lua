@@ -4028,3 +4028,5 @@ addscriptexist(8739839954, "JujutsuTycoonKillStudents", "Terni", "https://raw.gi
 addscriptexist(8739839954, "JujutsuTycoonKillAllPlayers", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/JujutsuTycoonKillAllPlayers.lua")
                     
 addscriptexist(9936860371, "EggPackingTycoonGUIAutoCollectEggsAutoPlaceEggs", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/EggPackingTycoonGUIAutoCollectEggsAutoPlaceEggs.lua")
+                    
+addscriptexist(6284583030, "PetSimulatorXGUIAutoFarmAutoCollectAllMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PetSimulatorXGUIAutoFarmAutoCollectAllMore.lua")
