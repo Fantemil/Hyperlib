@@ -8285,3 +8285,5 @@ addscriptexist(155382109, "SurviveandKilltheKillersinArea51EspinfAmmoGiveallweap
 addscriptexist(4996049426, "AllStarTowerDefenseTeleporttoElfFarming", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AllStarTowerDefenseTeleporttoElfFarming.lua")
                     
 addscriptexist(4996049426, "AllStarTowerDefenseGiftFarming", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AllStarTowerDefenseGiftFarming.lua")
+                    
+addscriptexist(6720959312, "LootQuestAutoFarmAutoSellMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LootQuestAutoFarmAutoSellMore.lua")
