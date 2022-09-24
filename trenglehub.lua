@@ -6526,3 +6526,6 @@ addscriptexist(155615604, "PrisonLifeGUIGunModGunGiver", "Terni", "https://raw.g
 addscriptexist(2512643572, "BubbleGumSimulatorGUIAutoFarmAutoBuy", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BubbleGumSimulatorGUIAutoFarmAutoBuy.lua")
                     
 addscriptexist(5116869569, "DoodleWorldGrabAllChests", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DoodleWorldGrabAllChests.lua")
+    
+addscript(4456880028,"Ro Crash [Admin Panel]", "RoCrashAdminPanel", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RoCrashAdminPanel.lua")
+                    
