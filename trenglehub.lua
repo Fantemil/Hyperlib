@@ -8147,3 +8147,5 @@ addscript(7853511605,"Transfurify Remastered [Auto Escape]", "TransfurifyRemaste
     
 addscript(168097015,"Star Wars [No Recoil, No Spread, No Overheat]", "StarWarsNoRecoilNoSpreadNoOverheat", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/StarWarsNoRecoilNoSpreadNoOverheat.lua")
                     
+                    
+addscriptexist(4632627223, "BlackGrimoireWellAutoQuest", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BlackGrimoireWellAutoQuest.lua")
