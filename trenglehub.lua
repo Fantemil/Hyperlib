@@ -8659,3 +8659,6 @@ addscriptexist(5130598377, "UNIVERSALAIMBOTVISUALS–RIOTFALLSUPPORT", "Terni", 
     
 addscript(2716845201,"Warrior Simulator [COINS FARM, NPC FARM, TP]", "WarriorSimulatorCOINSFARMNPCFARMTP", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/WarriorSimulatorCOINSFARMNPCFARMTP.lua")
                     
+    
+addscript(4032944086,"Workout Island [AUTO-FARM, AUTO-SELL, KILL-AURA]", "WorkoutIslandAUTOFARMAUTOSELLKILLAURA", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/WorkoutIslandAUTOFARMAUTOSELLKILLAURA.lua")
+                    
