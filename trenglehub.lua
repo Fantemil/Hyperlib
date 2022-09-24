@@ -3081,3 +3081,5 @@ addscriptexist(8267733039, "Specter2GUI", "Terni", "https://raw.githubuserconten
     
 addscript(10065077975,"Robloxian's Obby [Auto finish]", "RobloxiansObbyAutofinish", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RobloxiansObbyAutofinish.lua")
                     
+                    
+addscriptexist(6284583030, "PetSimulatorXMasteryAutoFarm", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PetSimulatorXMasteryAutoFarm.lua")
