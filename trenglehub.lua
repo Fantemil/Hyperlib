@@ -1586,3 +1586,6 @@ addscript(94980061654042086495506885020466949800616503539939379,"Tapping Simulat
                     
                     
 addscriptexist(9872472334, "EvadeQuickReviveShowChatAutofarm", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/EvadeQuickReviveShowChatAutofarm.lua")
+    
+addscript(6609611538,"Mechanica [Lag Server]", "MechanicaLagServer", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MechanicaLagServer.lua")
+                    
