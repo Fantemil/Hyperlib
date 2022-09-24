@@ -3701,3 +3701,5 @@ addscript(4746041618,"Steel Titans [ESP, Deleting objects]", "SteelTitansESPDele
                     
                     
 addscriptexist(7940932746, "RobloxPingGUI", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RobloxPingGUI.lua")
+                    
+addscriptexist(8304191830, "AnimeAdventuresAutoFarm", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AnimeAdventuresAutoFarm.lua")
