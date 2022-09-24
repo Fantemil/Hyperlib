@@ -2815,3 +2815,6 @@ addscriptexist(2788229376, "DaHoodTeleportGUIExtras", "Terni", "https://raw.gith
     
 addscript(7940932746,"Roblox [Settings saver]", "RobloxSettingssaver", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RobloxSettingssaver.lua")
                     
+    
+addscript(10322949476,"Limited Jumps [Unlimited Jumps]", "LimitedJumpsUnlimitedJumps", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LimitedJumpsUnlimitedJumps.lua")
+                    
