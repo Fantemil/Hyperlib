@@ -7330,3 +7330,5 @@ addscriptexist(7755155116, "SwordFactoryAutoButtonClicker", "Qalnik", "https://r
 addscriptexist(4787629450, "BOOGABOOGAKillauraGodmodeInvisibility", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BOOGABOOGAKillauraGodmodeInvisibility.lua")
                     
 addscriptexist(2753915549, "BloxFruitsFruitHopperAutoStoreRevamp", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BloxFruitsFruitHopperAutoStoreRevamp.lua")
+                    
+addscriptexist(2753915549, "BloxFruitsAutoFarmDungeonBuyItem", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BloxFruitsAutoFarmDungeonBuyItem.lua")
