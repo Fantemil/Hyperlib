@@ -5565,3 +5565,5 @@ addscript(8571871474,"Gun Fighting Tycoon [Kill All - Auto Collect - More!]", "G
     
 addscript(3597632410,"Plants vs Zombies Garden Problem [Unlock All]", "PlantsvsZombiesGardenProblemUnlockAll", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PlantsvsZombiesGardenProblemUnlockAll.lua")
                     
+                    
+addscriptexist(4588604953, "CriminalityAutoLockpick", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CriminalityAutoLockpick.lua")
