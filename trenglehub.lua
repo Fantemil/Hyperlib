@@ -6975,3 +6975,5 @@ addscript(8585910608,"Paintball Wars [Gun Mod]", "PaintballWarsGunMod", "Qalnik"
     
 addscript(3834081103,"Roblox– Toolspy – SPY On Palayers Tools", "Roblox–Toolspy–SPYOnPalayersTools", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Roblox–Toolspy–SPYOnPalayersTools.lua")
                     
+                    
+addscriptexist(7285447838, "TokyoSagaNoCooldownsForEverythingShowHitboxInfiniteHunger", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TokyoSagaNoCooldownsForEverythingShowHitboxInfiniteHunger.lua")
