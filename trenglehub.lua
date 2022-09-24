@@ -7484,3 +7484,5 @@ addscriptexist(4581966615, "AnomicPrinterAutoFarm", "Terni", "https://raw.github
     
 addscript(8690998110,"Gorilla Tag Professional [INFINITE WINS & MORE!]", "GorillaTagProfessionalINFINITEWINSMORE", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/GorillaTagProfessionalINFINITEWINSMORE.lua")
                     
+                    
+addscriptexist(8054462345, "MichaelsZombiesInstalKill", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MichaelsZombiesInstalKill.lua")
