@@ -7899,3 +7899,5 @@ addscriptexist(6843905606, "CriticalLegendsTeleporttoallchests", "Qalnik", "http
 addscriptexist(3102144307, "AnimeClickerSimulatorAutoClickFarmBossAutoOpenEgg", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AnimeClickerSimulatorAutoClickFarmBossAutoOpenEgg.lua")
                     
 addscriptexist(7508789810, "DeviousLickSimulatorAutoFarmAutoSellAutoStrength", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DeviousLickSimulatorAutoFarmAutoSellAutoStrength.lua")
+                    
+addscriptexist(2685347741, "GhostSimulatorAutoSell", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/GhostSimulatorAutoSell.lua")
