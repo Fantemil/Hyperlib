@@ -6180,3 +6180,5 @@ addscriptexist(1224212277, "MadCityDiamondHUBAutoRob", "Terni", "https://raw.git
 addscriptexist(4042427666, "AnimeFightingSimulatorChikaraYenGenerator", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AnimeFightingSimulatorChikaraYenGenerator.lua")
                     
 addscriptexist(5712833750, "AnimalSimulatorCollectTreasuers", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AnimalSimulatorCollectTreasuers.lua")
+                    
+addscriptexist(6677985923, "MillionaireEmpireTycoonAutoCollectMoneyAutoRebirth", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MillionaireEmpireTycoonAutoCollectMoneyAutoRebirth.lua")
