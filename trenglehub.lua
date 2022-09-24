@@ -1777,3 +1777,6 @@ addscript(340227283,"RoBowling [Hitbox, Aimbot]", "RoBowlingHitboxAimbot", "astr
     
 addscript(7664413141,"Creeper Chaos [Beta] [Auto Farm, Esp]", "CreeperChaosBetaAutoFarmEsp", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CreeperChaosBetaAutoFarmEsp.lua")
                     
+    
+addscript(10201298018,"Vampire Hunters 2 Remake [Gun grab, Outfit saver, Role esp]", "VampireHunters2RemakeGungrabOutfitsaverRoleesp", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/VampireHunters2RemakeGungrabOutfitsaverRoleesp.lua")
+                    
