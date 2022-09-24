@@ -1697,3 +1697,5 @@ addscript(9291030453,"The Chainsmokers Concert Experience [GetAllLetters, Walksp
                     
                     
 addscriptexist(9872472334, "EvadeAutoRespawnEsp", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/EvadeAutoRespawnEsp.lua")
+                    
+addscriptexist(7655745946, "DunkingSimulatorFreeGamepass", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DunkingSimulatorFreeGamepass.lua")
