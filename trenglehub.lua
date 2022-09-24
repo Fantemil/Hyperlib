@@ -3345,3 +3345,5 @@ addscript(6356806222,"Lag Test 2021 [No lag]", "LagTest2021Nolag", "Qalnik", "ht
 addscriptexist(9167501050, "LightsaberArenaKillauraautoblockinfstamina", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LightsaberArenaKillauraautoblockinfstamina.lua")
                     
 addscriptexist(9377039667, "RobloxInnovationAwardsVotingHubTeleporttosecretawardbadge", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RobloxInnovationAwardsVotingHubTeleporttosecretawardbadge.lua")
+                    
+addscriptexist(5956785391, "ProjectSlayersSpeedhack", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ProjectSlayersSpeedhack.lua")
