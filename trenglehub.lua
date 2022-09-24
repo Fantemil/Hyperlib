@@ -3458,3 +3458,6 @@ addscriptexist(8203181639, "SyrianShenanigansFullautotank", "Qalnik", "https://r
 addscriptexist(8203181639, "SyrianShenanigansKeybinds", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SyrianShenanigansKeybinds.lua")
                     
 addscriptexist(8203181639, "SyrianShenanigansBypasstheanticheat", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SyrianShenanigansBypasstheanticheat.lua")
+    
+addscript(623694595,"Phenom [Drop Ball]", "PhenomDropBall", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PhenomDropBall.lua")
+                    
