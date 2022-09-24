@@ -3653,3 +3653,5 @@ addscriptexist(863266079, "ApocalypseRising2AntiZombieFreeze", "Terni", "https:/
 addscriptexist(863266079, "ApocalypseRising2TeleportToPosition", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ApocalypseRising2TeleportToPosition.lua")
                     
 addscriptexist(185655149, "BloxburgGUIAutoBuild", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BloxburgGUIAutoBuild.lua")
+                    
+addscriptexist(185655149, "BloxburgGUIAutoFarmWaypointMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BloxburgGUIAutoFarmWaypointMore.lua")
