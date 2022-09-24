@@ -7393,3 +7393,5 @@ addscript(1021289358,"Football Universe [Magnets - Hitbox Increase & More!]", "F
                     
                     
 addscriptexist(5987922834, "TransfurOutbreakGodModeSelectcumfurryCrashserver", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TransfurOutbreakGodModeSelectcumfurryCrashserver.lua")
+                    
+addscriptexist(537413528, "BuildABoatForTreasureAutoFarmAutoBuyAntiAfk", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BuildABoatForTreasureAutoFarmAutoBuyAntiAfk.lua")
