@@ -2902,3 +2902,5 @@ addscript(9573979853,"Revengers Dispute [ALPHA] [Infinite Money]", "RevengersDis
     
 addscript(5714258552,"Bizarre Heritage [Free Money And Xp]", "BizarreHeritageFreeMoneyAndXp", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BizarreHeritageFreeMoneyAndXp.lua")
                     
+                    
+addscriptexist(10184360875, "PetFishingSimulatorInfMoneyInfFish", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PetFishingSimulatorInfMoneyInfFish.lua")
