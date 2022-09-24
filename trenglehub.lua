@@ -4627,3 +4627,6 @@ addscriptexist(155382109, "SurviveandKilltheKillersinArea51GiveAllGunsWalkSpeedA
 addscriptexist(6242296404, "HappyLandInfMoney", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/HappyLandInfMoney.lua")
                     
 addscriptexist(5766084948, "SCPTheRedLakeHitboxExpand", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SCPTheRedLakeHitboxExpand.lua")
+    
+addscript(6494523288,"Blade Quest [Auto Farm Kill Aura, Auto Upgrade Sword]", "BladeQuestAutoFarmKillAuraAutoUpgradeSword", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BladeQuestAutoFarmKillAuraAutoUpgradeSword.lua")
+                    
