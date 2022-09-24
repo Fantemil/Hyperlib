@@ -7280,3 +7280,5 @@ addscriptexist(6422372837, "SnipersInfMoney", "Qalnik", "https://raw.githubuserc
 addscriptexist(1537690962, "BeeSwarmSimulatorCrashServer", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BeeSwarmSimulatorCrashServer.lua")
                     
 addscriptexist(8308074824, "MemePieceGetAllItems–EvenAdminItems", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MemePieceGetAllItems–EvenAdminItems.lua")
+                    
+addscriptexist(3623096087, "MuscleLegendsAutoFarmAutoDurabilityAutoRebirth", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MuscleLegendsAutoFarmAutoDurabilityAutoRebirth.lua")
