@@ -6015,3 +6015,5 @@ addscript(8677679014,"Spirit Defenders [Multiplier Stats & Spirit Giver]", "Spir
                     
                     
 addscriptexist(2569453732, "RiseofNationsGUI–AutoTrade–AutoDevelopCities", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RiseofNationsGUI–AutoTrade–AutoDevelopCities.lua")
+                    
+addscriptexist(7075737729, "HoopCentral6AutoTimeOpenSource", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/HoopCentral6AutoTimeOpenSource.lua")
