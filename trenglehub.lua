@@ -4715,3 +4715,6 @@ addscript(9249776514,"Givenchy Beauty House [Finish The Event Quest]", "Givenchy
     
 addscript(1382113806,"Silent Assassin [Assassin ESP]", "SilentAssassinAssassinESP", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SilentAssassinAssassinESP.lua")
                     
+    
+addscript(9456941655,"PUBG [Kill All]", "PUBGKillAll", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PUBGKillAll.lua")
+                    
