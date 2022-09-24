@@ -3841,3 +3841,6 @@ addscript(9578901194,"Woman Repellant [Women will not run away from you]", "Woma
                     
                     
 addscriptexist(1224212277, "MadCityGetWeeklyRewards", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MadCityGetWeeklyRewards.lua")
+    
+addscript(10105990977,"Samsung Space Tycoon [Destroy Everyones FPS]", "SamsungSpaceTycoonDestroyEveryonesFPS", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SamsungSpaceTycoonDestroyEveryonesFPS.lua")
+                    
