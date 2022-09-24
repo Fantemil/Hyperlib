@@ -2861,3 +2861,6 @@ addscript(9157605735,"MiscGunTest:X [Infinite Money & More GUI!]", "MiscGunTestX
                     
                     
 addscriptexist(2534724415, "EmergencyResponseLibertyCountyAutoLockpick", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/EmergencyResponseLibertyCountyAutoLockpick.lua")
+    
+addscript(9985159673,"Wizardry 101 [Alpha] [God Mode]", "Wizardry101AlphaGodMode", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Wizardry101AlphaGodMode.lua")
+                    
