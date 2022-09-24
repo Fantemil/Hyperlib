@@ -4055,3 +4055,6 @@ addscriptexist(7952502098, "ImpossibleGlassBridgeObbyShowingtheway", "Qalnik", "
 addscriptexist(9961650006, "ShockwaveRacingAutoFarm", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ShockwaveRacingAutoFarm.lua")
                     
 addscriptexist(9508087919, "ApeirophobiaInfiniteStaminaTeleportsMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ApeirophobiaInfiniteStaminaTeleportsMore.lua")
+    
+addscript(9734866408,"Basketball Simulator [Infinite Coins]", "BasketballSimulatorInfiniteCoins", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BasketballSimulatorInfiniteCoins.lua")
+                    
