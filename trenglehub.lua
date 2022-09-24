@@ -6364,3 +6364,6 @@ addscript(3725149043,"Rocket Ball [Rocket Ball No Cooldown, Sword No Cooldown]",
                     
                     
 addscriptexist(155382109, "SurviveandKilltheKillersinArea51GetAllWeaponsRefillAmmoESP", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SurviveandKilltheKillersinArea51GetAllWeaponsRefillAmmoESP.lua")
+    
+addscript(6381829480,"King Legacy [Auto Stats, Auto Farm, Bring All Fruit]", "KingLegacyAutoStatsAutoFarmBringAllFruit", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/KingLegacyAutoStatsAutoFarmBringAllFruit.lua")
+                    
