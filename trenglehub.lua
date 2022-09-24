@@ -6167,3 +6167,5 @@ addscript(5116869569,"Doodle World [Auto Find]", "DoodleWorldAutoFind", "Qalnik"
                     
                     
 addscriptexist(2639416308, "AceAttorneyAnnoyServer", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AceAttorneyAnnoyServer.lua")
+                    
+addscriptexist(8492553855, "ProjectUprightNpcFarmItemFarmStandFarm", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ProjectUprightNpcFarmItemFarmStandFarm.lua")
