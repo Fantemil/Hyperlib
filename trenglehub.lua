@@ -8470,3 +8470,6 @@ addscriptexist(10198661638, "MythicalStairsAutoFarm", "Terni", "https://raw.gith
 addscriptexist(7430861102, "AincradAdventuresMobAutoFarming", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AincradAdventuresMobAutoFarming.lua")
                     
 addscriptexist(6590798593, "WaterlooathomeInstaReload", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/WaterlooathomeInstaReload.lua")
+    
+addscript(3145447020,"Mount Everest Climbing Roleplay [Oxygen Refill]", "MountEverestClimbingRoleplayOxygenRefill", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MountEverestClimbingRoleplayOxygenRefill.lua")
+                    
