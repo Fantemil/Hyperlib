@@ -5234,3 +5234,6 @@ addscriptexist(9030362964, "FieldGoalSimulatorAimbot", "Terni", "https://raw.git
     
 addscript(8549047195,"Anime Warriors Simulator [Auto Farm]", "AnimeWarriorsSimulatorAutoFarm", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AnimeWarriorsSimulatorAutoFarm.lua")
                     
+    
+addscript(6753141554,"Collect Simulator [Auto Weights - Auto Sell]", "CollectSimulatorAutoWeightsAutoSell", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CollectSimulatorAutoWeightsAutoSell.lua")
+                    
