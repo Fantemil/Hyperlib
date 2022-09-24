@@ -2205,3 +2205,6 @@ addscriptexist(9585537847, "SHADOVISRPGAutoHeal", "astrofile", "https://raw.gith
     
 addscript(9243187709,"Pedagondia Faunas [Inf Stamina, Auto Eat]", "PedagondiaFaunasInfStaminaAutoEat", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PedagondiaFaunasInfStaminaAutoEat.lua")
                     
+    
+addscript(863266079,"Apocalypse Rising 2 [Inf Jump, Aimbot]", "ApocalypseRising2InfJumpAimbot", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ApocalypseRising2InfJumpAimbot.lua")
+                    
