@@ -2639,3 +2639,5 @@ addscriptexist(10157366004, "PetTappingSimulatorAutoFarmAutoHatch", "astrofile",
 addscriptexist(2622527242, "SCPrBreachESPMisc", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SCPrBreachESPMisc.lua")
                     
 addscriptexist(7026828578, "SpeedSimulatorInfScore", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SpeedSimulatorInfScore.lua")
+                    
+addscriptexist(7991339063, "RainbowFriendsGodModeAutoWin", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RainbowFriendsGodModeAutoWin.lua")
