@@ -5539,3 +5539,5 @@ addscript(8209480473,"Spotify Island [GUI - Auto Farm XP, Auto Farm Hearts]", "S
                     
                     
 addscriptexist(183364845, "ShiftRunforRoblox", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ShiftRunforRoblox.lua")
+                    
+addscriptexist(7947609996, "CtrlDeleteforRoblox", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CtrlDeleteforRoblox.lua")
