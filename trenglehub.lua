@@ -2490,3 +2490,5 @@ addscript(5041144419,"SCP", "SCPRoleplayAutoFarmTeleports", "astrofile", "https:
                     
                     
 addscriptexist(6403373529, "SlapBattlesAutoSlapples", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SlapBattlesAutoSlapples.lua")
+                    
+addscriptexist(9585537847, "SHADOVISRPGKillAura", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SHADOVISRPGKillAura.lua")
