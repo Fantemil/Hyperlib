@@ -2583,3 +2583,5 @@ addscriptexist(4282985734, "CombatWarriorsSilentaim", "astrofile", "https://raw.
     
 addscript(4390380541,"Rumble Quest [WalkSpeed, Kill-Aura]", "RumbleQuestWalkSpeedKillAura", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RumbleQuestWalkSpeedKillAura.lua")
                     
+                    
+addscriptexist(192800, "WorkataPizzaPlaceBecomemanager", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/WorkataPizzaPlaceBecomemanager.lua")
