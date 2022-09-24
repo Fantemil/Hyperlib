@@ -3627,3 +3627,6 @@ addscriptexist(10118559731, "nicosnextbotsBotESPPlayerESPMore", "Terni", "https:
 addscriptexist(2413927524, "THERAKEKillEditionInfiniteStamina", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/THERAKEKillEditionInfiniteStamina.lua")
                     
 addscriptexist(3346617530, "FreezeTagExtremeTagAllPlayersMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FreezeTagExtremeTagAllPlayersMore.lua")
+    
+addscript(679715583,"Starscape [Auto Pilot]", "StarscapeAutoPilot", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/StarscapeAutoPilot.lua")
+                    
