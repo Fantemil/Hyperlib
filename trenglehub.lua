@@ -5839,3 +5839,6 @@ addscript(3678761576,"ENTRENCHED ALPHA [AimBot]", "ENTRENCHEDALPHAAimBot", "Qaln
                     
                     
 addscriptexist(8209480473, "SpotifyIslandFarmMusic", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SpotifyIslandFarmMusic.lua")
+    
+addscript(8875171205,"Telos [RE-RELEASE!] [Balanced Craftwars OP tools]", "TelosRERELEASEBalancedCraftwarsOPtools", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TelosRERELEASEBalancedCraftwarsOPtools.lua")
+                    
