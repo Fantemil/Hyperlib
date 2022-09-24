@@ -8564,3 +8564,5 @@ addscript(7772810845,"The Presentation Experience [POINT FARM]", "ThePresentatio
 addscriptexist(183364845, "SpeedRun4NEWGUIFARMING", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SpeedRun4NEWGUIFARMING.lua")
                     
 addscriptexist(3233893879, "BadBusiness253SilentAIM", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BadBusiness253SilentAIM.lua")
+                    
+addscriptexist(71315343, "DragonBallRageAutoFarmAutoEnergy", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DragonBallRageAutoFarmAutoEnergy.lua")
