@@ -3795,3 +3795,5 @@ addscript(9597319358,"Actors Tycoon [AutoFarm Buttons, Auto Upgrade Workers, Wor
     
 addscript(9845529187,"Tidewater [Annoy All]", "TidewaterAnnoyAll", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TidewaterAnnoyAll.lua")
                     
+                    
+addscriptexist(4850718823, "SkateParkInstantlygetbothitems", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SkateParkInstantlygetbothitems.lua")
