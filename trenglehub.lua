@@ -8321,3 +8321,6 @@ addscript(54865335,"Floppy's Playtime [Ints Win]", "FloppysPlaytimeIntsWin", "Qa
     
 addscript(2986677229,"Giant Simulator [Auto Orbs]", "GiantSimulatorAutoOrbs", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/GiantSimulatorAutoOrbs.lua")
                     
+    
+addscript(5006110264,"Fire Breathing Simulator [Best Auto-Farming INF Money]", "FireBreathingSimulatorBestAutoFarmingINFMoney", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FireBreathingSimulatorBestAutoFarmingINFMoney.lua")
+                    
