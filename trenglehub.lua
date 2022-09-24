@@ -5003,3 +5003,5 @@ addscriptexist(9281034297, "GoalKickSimulatorAutokickKickingAimBotAutoUpgrade", 
 addscriptexist(9551640993, "MiningSimulator2AutoMineMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MiningSimulator2AutoMineMore.lua")
                     
 addscriptexist(9551640993, "MiningSimulator2ChestESPOpenSource", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MiningSimulator2ChestESPOpenSource.lua")
+                    
+addscriptexist(8540346411, "RebirthChampionsXAutoFarmAutoBuyEggs", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RebirthChampionsXAutoFarmAutoBuyEggs.lua")
