@@ -6492,3 +6492,5 @@ addscript(6551386772,"Battle Royale Simulator [Hit Box, AIMBOT, ESP]", "BattleRo
 addscriptexist(5670218884, "ItemasylumGiveweapons", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ItemasylumGiveweapons.lua")
                     
 addscriptexist(8737602449, "PLSDONATERainbowModdedGoal", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PLSDONATERainbowModdedGoal.lua")
+                    
+addscriptexist(5062619730, "WarSimulatorGunMod", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/WarSimulatorGunMod.lua")
