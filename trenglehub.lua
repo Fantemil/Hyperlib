@@ -5908,3 +5908,6 @@ addscript(5803957966,"MeloBlox RPG [Auto Loot]", "MeloBloxRPGAutoLoot", "Terni",
                     
                     
 addscriptexist(5712833750, "AnimalSimulatorFarmDragonSkinsXP", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AnimalSimulatorFarmDragonSkinsXP.lua")
+    
+addscript(6381640185,"Linkvertise Bypass [GUI - Open Source]", "LinkvertiseBypassGUIOpenSource", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LinkvertiseBypassGUIOpenSource.lua")
+                    
