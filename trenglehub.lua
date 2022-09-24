@@ -5420,3 +5420,5 @@ addscriptexist(6969185078, "ElementalAwakeningInstantCast", "Terni", "https://ra
 addscriptexist(6263325292, "BloxburgAntiTeleportBypass", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BloxburgAntiTeleportBypass.lua")
                     
 addscriptexist(1224212277, "MadCityInstantVillain", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MadCityInstantVillain.lua")
+                    
+addscriptexist(9344944754, "HunterxAthenaAutoFarmGUI", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/HunterxAthenaAutoFarmGUI.lua")
