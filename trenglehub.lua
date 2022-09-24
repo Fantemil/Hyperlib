@@ -3136,3 +3136,6 @@ addscriptexist(10118559731, "nicosnextbotsAutoBhop", "Terni", "https://raw.githu
 addscriptexist(4282985734, "CombatWarriorsFullclientacbypass", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CombatWarriorsFullclientacbypass.lua")
                     
 addscriptexist(815405518, "TheFloorIsLAVAAutoFarm", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TheFloorIsLAVAAutoFarm.lua")
+    
+addscript(263761432,"Horrific Housing [More Money]", "HorrificHousingMoreMoney", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/HorrificHousingMoreMoney.lua")
+                    
