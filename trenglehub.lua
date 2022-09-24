@@ -4538,3 +4538,5 @@ addscriptexist(9726345231, "DuolingoGameHubFreeItems", "Terni", "https://raw.git
 addscriptexist(9772878203, "raiseafloppa2AutoCollectMoneyAutoCollectRentAutoRaiseRent", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/raiseafloppa2AutoCollectMoneyAutoCollectRentAutoRaiseRent.lua")
                     
 addscriptexist(4598019433, "GenericRoleplayGaemAutoFarm", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/GenericRoleplayGaemAutoFarm.lua")
+                    
+addscriptexist(301549746, "CounterbloxCrashServerGodmode", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CounterbloxCrashServerGodmode.lua")
