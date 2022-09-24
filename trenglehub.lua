@@ -6657,3 +6657,5 @@ addscriptexist(8592863835, "MagnetSimulator2TeleportCoinsToYouAutoSellAntiAfk", 
     
 addscript(1401417393,"Ragdoll System Test [WalkSpeed, Punch Aura, Anti Ban]", "RagdollSystemTestWalkSpeedPunchAuraAntiBan", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RagdollSystemTestWalkSpeedPunchAuraAntiBan.lua")
                     
+                    
+addscriptexist(6284583030, "PetSimulatorXGemFarmChestFarmAutoFarm", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PetSimulatorXGemFarmChestFarmAutoFarm.lua")
