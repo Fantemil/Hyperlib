@@ -2526,3 +2526,5 @@ addscript(3522803956,"De Pride Isle Sanatorium [Anticheat bypass]", "DePrideIsle
                     
                     
 addscriptexist(5901548022, "TryToDieChangeStat", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TryToDieChangeStat.lua")
+                    
+addscriptexist(4490140733, "MyRestaurantManyCash", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MyRestaurantManyCash.lua")
