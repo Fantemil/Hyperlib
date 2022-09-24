@@ -4967,3 +4967,6 @@ addscriptexist(3956818381, "NinjaLegendsGUIAutoFarmAutoSellMore", "Terni", "http
     
 addscript(7791106063,"Furry Infection [Kill All, Kill Aura, AutoGerBat]", "FurryInfectionKillAllKillAuraAutoGerBat", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FurryInfectionKillAllKillAuraAutoGerBat.lua")
                     
+    
+addscript(7488014850,"RAINBOWN PIECE [Free Legendary fruits]", "RAINBOWNPIECEFreeLegendaryfruits", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RAINBOWNPIECEFreeLegendaryfruits.lua")
+                    
