@@ -8003,3 +8003,6 @@ addscriptexist(2866967438, "FishingFrontierAutoFarmKillMonstersAutoSell", "Qalni
 addscriptexist(2809202155, "AnimeClickerSimulatorAutoClickAutoRebirthAutoBuyEggs", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AnimeClickerSimulatorAutoClickAutoRebirthAutoBuyEggs.lua")
                     
 addscriptexist(4111023553, "DeepwokenCombatFeaturesMovementFeaturesVisualFeatures", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DeepwokenCombatFeaturesMovementFeaturesVisualFeatures.lua")
+    
+addscript(258258996,"Miner's Haven [Auto farm, Base mods, Webhooks]", "MinersHavenAutofarmBasemodsWebhooks", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MinersHavenAutofarmBasemodsWebhooks.lua")
+                    
