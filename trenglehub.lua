@@ -2322,3 +2322,5 @@ addscriptexist(4809447488, "VentureTaleAutoRetryAutoCollect", "astrofile", "http
     
 addscript(6468323505,"Spellbound ✨ Magic RPG [Auto Raid Tower, Inf Coins]", "Spellbound✨MagicRPGAutoRaidTowerInfCoins", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Spellbound✨MagicRPGAutoRaidTowerInfCoins.lua")
                     
+                    
+addscriptexist(9386846196, "BrawlingGroundsKillAura", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BrawlingGroundsKillAura.lua")
