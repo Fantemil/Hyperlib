@@ -5077,3 +5077,6 @@ addscript(306964494,"Loomian Legacy [Heal + Key Grabber]", "LoomianLegacyHealKey
                     
                     
 addscriptexist(2788229376, "DaHoodCashAutoFarmOpenSource", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DaHoodCashAutoFarmOpenSource.lua")
+    
+addscript(7346416636,"Pop It Trading [Dupe Script]", "PopItTradingDupeScript", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PopItTradingDupeScript.lua")
+                    
