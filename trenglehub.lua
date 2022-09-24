@@ -6930,3 +6930,6 @@ addscript(4689179508,"Project Ghoul [Auto Spin]", "ProjectGhoulAutoSpin", "Qalni
 addscriptexist(3017870574, "2PlayerEvolutionTycoonAutopickup", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/2PlayerEvolutionTycoonAutopickup.lua")
                     
 addscriptexist(8357510970, "AnimePunchingSimulatorAutoClickAutoBestheroAutotrain", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AnimePunchingSimulatorAutoClickAutoBestheroAutotrain.lua")
+    
+addscript(8661265102,"Clicker Simulator [Auto Click]", "ClickerSimulatorAutoClick", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ClickerSimulatorAutoClick.lua")
+                    
