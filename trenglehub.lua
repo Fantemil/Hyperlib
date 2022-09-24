@@ -5590,3 +5590,5 @@ addscriptexist(7940932746, "NoclipforRoblox", "Terni", "https://raw.githubuserco
 addscriptexist(7480222488, "ESPforRoblox", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ESPforRoblox.lua")
                     
 addscriptexist(9049840490, "SonicSpeedSimulatorServerHopCollectAll–AutoRebirth", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SonicSpeedSimulatorServerHopCollectAll–AutoRebirth.lua")
+                    
+addscriptexist(35397735, "ScubaDivingAtQuillLakeInfiniteMoney", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ScubaDivingAtQuillLakeInfiniteMoney.lua")
