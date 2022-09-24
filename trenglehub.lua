@@ -4864,3 +4864,5 @@ addscriptexist(659222129, "Swordburst2AutoFarmKillAura", "Terni", "https://raw.g
     
 addscript(2202352383,"Super Power Training Simulator [Auto Farm]", "SuperPowerTrainingSimulatorAutoFarm", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SuperPowerTrainingSimulatorAutoFarm.lua")
                     
+                    
+addscriptexist(292439477, "PhantomForcesUnlockAllGunsAdminGuns", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PhantomForcesUnlockAllGunsAdminGuns.lua")
