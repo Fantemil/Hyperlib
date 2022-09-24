@@ -4529,3 +4529,6 @@ addscriptexist(2788229376, "DaHoodinvisJumpscareScaryMusic", "Qalnik", "https://
 addscriptexist(6915291292, "BakerySimulatorBuyOvens", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BakerySimulatorBuyOvens.lua")
                     
 addscriptexist(4855457388, "DemonfallGUIAutoFarmAutoCollect", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DemonfallGUIAutoFarmAutoCollect.lua")
+    
+addscript(6808416928,"Aimblox BETA [Kill All]", "AimbloxBETAKillAll", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AimbloxBETAKillAll.lua")
+                    
