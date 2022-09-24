@@ -5963,3 +5963,6 @@ addscript(5410923773,"Coords Finder V2", "CoordsFinderV2", "Terni", "https://raw
     
 addscript(4825966600,"Roblox Audio Bypass", "RobloxAudioBypass", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RobloxAudioBypass.lua")
                     
+    
+addscript(7665621058,"Destroyerman Simulator [Get All Gamepasses]", "DestroyermanSimulatorGetAllGamepasses", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DestroyermanSimulatorGetAllGamepasses.lua")
+                    
