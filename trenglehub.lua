@@ -2364,3 +2364,6 @@ addscript(9704893711,"Dha Hood [Inf Money]", "DhaHoodInfMoney", "astrofile", "ht
     
 addscript(5024793931,"Zeppelin Wars [Anti Cheat Bypass]", "ZeppelinWarsAntiCheatBypass", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ZeppelinWarsAntiCheatBypass.lua")
                     
+    
+addscript(9579974235,"Find The Floppa Morphs [Collect Floppas]", "FindTheFloppaMorphsCollectFloppas", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FindTheFloppaMorphsCollectFloppas.lua")
+                    
