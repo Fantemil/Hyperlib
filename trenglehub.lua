@@ -3617,3 +3617,5 @@ addscript(9530846958,"EPSILON LINEAGE 2 [Infinite Mana & More!]", "EPSILONLINEAG
 addscriptexist(537413528, "BuildABoatForTreasureAutoFarmTptoclosedplacesAntiafk", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BuildABoatForTreasureAutoFarmTptoclosedplacesAntiafk.lua")
                     
 addscriptexist(5956785391, "ProjectSlayerAutoSpin", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ProjectSlayerAutoSpin.lua")
+                    
+addscriptexist(5956785391, "ProjectSlayerClaimSpin", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ProjectSlayerClaimSpin.lua")
