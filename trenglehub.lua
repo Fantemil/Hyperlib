@@ -3301,3 +3301,5 @@ addscriptexist(6298464951, "RobloxIsUnbreakableInfiniteStats", "Terni", "https:/
 addscriptexist(9551640993, "MiningSimualtor2AutoFarmAutoMine", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MiningSimualtor2AutoFarmAutoMine.lua")
                     
 addscriptexist(5201039691, "TatakaiV2MoneyFarm", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TatakaiV2MoneyFarm.lua")
+                    
+addscriptexist(8054462345, "MichaelsZombiesAntiKnockdown", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MichaelsZombiesAntiKnockdown.lua")
