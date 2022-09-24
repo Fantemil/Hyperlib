@@ -6512,3 +6512,5 @@ addscript(5033328743,"The Scorch [Infinite Health]", "TheScorchInfiniteHealth", 
 addscriptexist(4588604953, "CriminalityTeleportBypass", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CriminalityTeleportBypass.lua")
                     
 addscriptexist(8737602449, "PLSDONATEMusicGUIDancesPackageAnimations", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PLSDONATEMusicGUIDancesPackageAnimations.lua")
+                    
+addscriptexist(662417684, "LUCKYBLOCKSBattlegroundsPlayersGetallgearsLuckyBlocks", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LUCKYBLOCKSBattlegroundsPlayersGetallgearsLuckyBlocks.lua")
