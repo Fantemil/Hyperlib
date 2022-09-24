@@ -4085,3 +4085,5 @@ addscriptexist(9281034297, "GoalKickSimulatorGUIAutoKickAutoRebirthMore", "Terni
     
 addscript(8592863835,"Magnet Simulator 2 [GUI - Sell x18, Auto Egg]", "MagnetSimulator2GUISellx18AutoEgg", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MagnetSimulator2GUISellx18AutoEgg.lua")
                     
+                    
+addscriptexist(8232438881, "ThiefSimulatorFastAutoFarm", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ThiefSimulatorFastAutoFarm.lua")
