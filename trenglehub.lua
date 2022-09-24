@@ -2464,3 +2464,6 @@ addscript(7428716219,"BREAKING BAD", "BREAKINGBADTHETYCOONKillAll", "astrofile",
                     
                     
 addscriptexist(1554960397, "CarDealershipTycoonAutoRallyRace", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CarDealershipTycoonAutoRallyRace.lua")
+    
+addscript(4172461739,"Windsier Hotel [Crash Server]", "WindsierHotelCrashServer", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/WindsierHotelCrashServer.lua")
+                    
