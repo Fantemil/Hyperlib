@@ -8640,3 +8640,5 @@ addscript(5228496215,"Remote Spy", "RemoteSpy", "Terni", "https://raw.githubuser
                     
                     
 addscriptexist(4566572536, "VehicleLegendsAutoFarm", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/VehicleLegendsAutoFarm.lua")
+                    
+addscriptexist(920587237, "AdoptMeGingerBreadAutoFarm", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AdoptMeGingerBreadAutoFarm.lua")
