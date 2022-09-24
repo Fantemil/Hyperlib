@@ -1718,3 +1718,5 @@ addscript(5326405001,"Base Battles (Fixed) [Silent Aim, Esp]", "BaseBattlesFixed
     
 addscript(6452292184,"Speed Runner! [AutoFarm]", "SpeedRunnerAutoFarm", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SpeedRunnerAutoFarm.lua")
                     
+                    
+addscriptexist(3956818381, "NinjaLegendsAutoClicker", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NinjaLegendsAutoClicker.lua")
