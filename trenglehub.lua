@@ -4254,3 +4254,6 @@ addscriptexist(8123652942, "LegendPieceGodMode", "Terni", "https://raw.githubuse
 addscriptexist(8123652942, "LegendPieceInfiniteDamageToEnemies", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LegendPieceInfiniteDamageToEnemies.lua")
                     
 addscriptexist(9726345231, "DuolingoGameHubAutoMoney", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DuolingoGameHubAutoMoney.lua")
+    
+addscript(9017974931,"Valoblox [Auto Open Cases]", "ValobloxAutoOpenCases", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ValobloxAutoOpenCases.lua")
+                    
