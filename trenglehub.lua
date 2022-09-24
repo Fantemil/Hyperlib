@@ -1605,3 +1605,5 @@ addscriptexist(40424276666, "AnimeFightingSimulatorInfYenInfChikara", "Qalnik", 
     
 addscript(629980572334822809536548792287772866629980572302324662457,"Anime Fighters Simulator [Auto Farm, AutoClick]", "AnimeFightersSimulatorAutoFarmAutoClick", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AnimeFightersSimulatorAutoFarmAutoClick.lua")
                     
+                    
+addscriptexist(8737602449, "PLSDONATEServerHopAutoBeg", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PLSDONATEServerHopAutoBeg.lua")
