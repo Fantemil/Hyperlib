@@ -8116,3 +8116,5 @@ addscript(8114798443,"Webman Simulator [Infinite Strong & Energy, Auto Open Egg]
     
 addscript(2577040780,"Eviction Notice [Auto Challenge]", "EvictionNoticeAutoChallenge", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/EvictionNoticeAutoChallenge.lua")
                     
+                    
+addscriptexist(2788229376, "DaHoodGod", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DaHoodGod.lua")
