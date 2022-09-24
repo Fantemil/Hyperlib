@@ -3730,3 +3730,6 @@ addscriptexist(679715583, "StarscapeAutoMarket", "Terni", "https://raw.githubuse
     
 addscript(9616411936,"Man City Blue Moon [Free Ugc Item]", "ManCityBlueMoonFreeUgcItem", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ManCityBlueMoonFreeUgcItem.lua")
                     
+    
+addscript(6737970321,"Livetopia [Free Ugc Item]", "LivetopiaFreeUgcItem", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LivetopiaFreeUgcItem.lua")
+                    
