@@ -3186,3 +3186,6 @@ addscriptexist(5956785391, "ProjectSlayersKillAuraFarmsInvisible", "Terni", "htt
 addscriptexist(6468323505, "SpellboundMagicRPGInfMoney", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SpellboundMagicRPGInfMoney.lua")
                     
 addscriptexist(5956785391, "ProjectSlayersSeminocooldownforskills", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ProjectSlayersSeminocooldownforskills.lua")
+    
+addscript(21083417,"Homestead [Log Spam]", "HomesteadLogSpam", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/HomesteadLogSpam.lua")
+                    
