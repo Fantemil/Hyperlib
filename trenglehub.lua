@@ -8693,3 +8693,6 @@ addscript(7199972186,"[ALPHA] Blood Engine 2 ", "ALPHABloodEngine2SlashManiaKILL
     
 addscript(121891070,"Legend Of Korra [SIMPLE AUTO LEVEL]", "LegendOfKorraSIMPLEAUTOLEVEL", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LegendOfKorraSIMPLEAUTOLEVEL.lua")
                     
+    
+addscript(7774228661,"Pirates Dream [SIMPLE AUTO FARM MOBS]", "PiratesDreamSIMPLEAUTOFARMMOBS", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PiratesDreamSIMPLEAUTOFARMMOBS.lua")
+                    
