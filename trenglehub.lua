@@ -2832,3 +2832,5 @@ addscript(9871062639,"Flappy Duo [Infinite Score]", "FlappyDuoInfiniteScore", "Q
     
 addscript(5895971007,"Allusions [Anti Ragdoll]", "AllusionsAntiRagdoll", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AllusionsAntiRagdoll.lua")
                     
+                    
+addscriptexist(9845465117, "AUReborn1V1AutoFarmOpenSource", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AUReborn1V1AutoFarmOpenSource.lua")
