@@ -1970,3 +1970,5 @@ addscript(6766156863,"Strongman Simulator [Anti Afk, AutoRebirth]", "StrongmanSi
                     
                     
 addscriptexist(5956785391, "ProjectSlayersAutoFarmFishFarmInfstamina", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ProjectSlayersAutoFarmFishFarmInfstamina.lua")
+                    
+addscriptexist(6284583030, "PetSimulatorXAutoFarmAutoHatch", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PetSimulatorXAutoFarmAutoHatch.lua")
