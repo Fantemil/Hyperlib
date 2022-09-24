@@ -6375,3 +6375,5 @@ addscript(8862273695,"Another JToH RPG [Get every item in the game]", "AnotherJT
     
 addscript(8073154099,"The Intruder [Intruder detection]", "TheIntruderIntruderdetection", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TheIntruderIntruderdetection.lua")
                     
+                    
+addscriptexist(292439477, "PhantomForcesFireRateHacks", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PhantomForcesFireRateHacks.lua")
