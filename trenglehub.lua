@@ -8603,3 +8603,5 @@ addscriptexist(735030788, "RoyaleHighLevelFarming", "Terni", "https://raw.github
 addscriptexist(5984870779, "GARENAFREEFIREAutoSpamKillInstaKillKillAll", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/GARENAFREEFIREAutoSpamKillInstaKillKillAll.lua")
                     
 addscriptexist(621129760, "KATHitboxExtender", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/KATHitboxExtender.lua")
+                    
+addscriptexist(7444263453, "JetpackJumpersNewBagINFJumps", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/JetpackJumpersNewBagINFJumps.lua")
