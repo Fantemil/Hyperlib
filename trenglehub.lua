@@ -6157,3 +6157,6 @@ addscriptexist(8540168650, "StandUprightRebootedItemGrabber", "Terni", "https://
 addscriptexist(4522347649, "OrionFreeLIibrary–CleanestUI", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OrionFreeLIibrary–CleanestUI.lua")
                     
 addscriptexist(5787425661, "ALuckyDayDestroyGame", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ALuckyDayDestroyGame.lua")
+    
+addscript(7603178367,"Chipotle Burrito Builder [Auto Farm]", "ChipotleBurritoBuilderAutoFarm", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ChipotleBurritoBuilderAutoFarm.lua")
+                    
