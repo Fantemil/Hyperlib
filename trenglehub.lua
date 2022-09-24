@@ -5621,3 +5621,5 @@ addscript(9225577563,"Roblox – Aimbot & ESP V3 [Phantom Forces Supported]", "R
                     
                     
 addscriptexist(292439477, "PhantomForces22HubFreeToUseAimbotMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PhantomForces22HubFreeToUseAimbotMore.lua")
+                    
+addscriptexist(9344944754, "HunterxOmenAutoSpeedTrain", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/HunterxOmenAutoSpeedTrain.lua")
