@@ -5142,3 +5142,6 @@ addscriptexist(3101667897, "LegendsOfSpeedGUIAutoStepsFarmGems", "Terni", "https
 addscriptexist(5543622168, "CriticalTowerDefenseUnlockHotRash", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CriticalTowerDefenseUnlockHotRash.lua")
                     
 addscriptexist(2533391464, "SnowmanSimulatorGUIAutoFarmAutoFarmGiftMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SnowmanSimulatorGUIAutoFarmAutoFarmGiftMore.lua")
+    
+addscript(6875469709,"Strongest Punch Simulator [GUI - Auto Punch, Auto Orbs & More!]", "StrongestPunchSimulatorGUIAutoPunchAutoOrbsMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/StrongestPunchSimulatorGUIAutoPunchAutoOrbsMore.lua")
+                    
