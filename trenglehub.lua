@@ -3352,3 +3352,5 @@ addscript(10041417653,"Turbo's Murder Mystery [Esp, AutoUnBox, Sped Hack]", "Tur
                     
                     
 addscriptexist(1224212277, "MadCitySilentAim", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MadCitySilentAim.lua")
+                    
+addscriptexist(5201039691, "TatakaiV2AutoClanSpinner", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TatakaiV2AutoClanSpinner.lua")
