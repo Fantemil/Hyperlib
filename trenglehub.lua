@@ -4727,3 +4727,5 @@ addscriptexist(443406476, "ProjectLazarusZombiesKillAllInfiniteMoney", "Terni", 
 addscriptexist(7791873535, "REALISTICHOODInfinitiCash", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/REALISTICHOODInfinitiCash.lua")
                     
 addscriptexist(8592863835, "MagnetSimulator2AutoMoneyAutoSellAutoRebirth", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MagnetSimulator2AutoMoneyAutoSellAutoRebirth.lua")
+                    
+addscriptexist(8737602449, "PLSDONATEESP", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PLSDONATEESP.lua")
