@@ -1482,3 +1482,5 @@ addscriptexist(3851622790, "BreakInStory", "Qalnik", "https://raw.githubusercont
     
 addscript(105245021742,"One Punch Fighters [AutoFarm, AutoSummon]", "OnePunchFightersAutoFarmAutoSummon", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OnePunchFightersAutoFarmAutoSummon.lua")
                     
+                    
+addscriptexist(893973440, "FleetheFacilityHidebeastlight", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FleetheFacilityHidebeastlight.lua")
