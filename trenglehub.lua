@@ -5779,3 +5779,5 @@ addscriptexist(4996049426, "AllStarTowerDefenseStarPassXP", "Terni", "https://ra
 addscriptexist(6878438976, "DeveloperInc10rCashin30sec", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DeveloperInc10rCashin30sec.lua")
                     
 addscriptexist(1458767429, "ABAAutomaticblackflashItadori", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ABAAutomaticblackflashItadori.lua")
+                    
+addscriptexist(2569453732, "RiseofNationsTradeGUIOpenSource", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RiseofNationsTradeGUIOpenSource.lua")
