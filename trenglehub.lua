@@ -6661,3 +6661,6 @@ addscript(1401417393,"Ragdoll System Test [WalkSpeed, Punch Aura, Anti Ban]", "R
 addscriptexist(6284583030, "PetSimulatorXGemFarmChestFarmAutoFarm", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PetSimulatorXGemFarmChestFarmAutoFarm.lua")
                     
 addscriptexist(6381829480, "KingLegacyAutoFarmAutoSeaKingBringAllFruit", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/KingLegacyAutoFarmAutoSeaKingBringAllFruit.lua")
+    
+addscript(2483973525,"Demon Slayer Burning Ashes [Auto Farm & More!]", "DemonSlayerBurningAshesAutoFarmMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DemonSlayerBurningAshesAutoFarmMore.lua")
+                    
