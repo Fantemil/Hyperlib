@@ -4753,3 +4753,5 @@ addscriptexist(7791873535, "REALISTICHOODCreatesahugeblockinthemap", "Qalnik", "
     
 addscript(9547440060,"Space Noob Tycoon [Inf source of gold]", "SpaceNoobTycoonInfsourceofgold", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SpaceNoobTycoonInfsourceofgold.lua")
                     
+                    
+addscriptexist(9249776514, "GivenchyBeautyHouseAuroGrab3UGC", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/GivenchyBeautyHouseAuroGrab3UGC.lua")
