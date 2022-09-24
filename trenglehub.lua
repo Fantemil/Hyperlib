@@ -2536,3 +2536,6 @@ addscript(9666226803,"Motel Simulator [Auto Farm, Walkspeed]", "MotelSimulatorAu
     
 addscript(8818978508,"Space Simulator Reborn [Auto Sell, Auto Farm]", "SpaceSimulatorRebornAutoSellAutoFarm", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SpaceSimulatorRebornAutoSellAutoFarm.lua")
                     
+    
+addscript(8657766101,"Marvellous Playground [Gamepass]", "MarvellousPlaygroundGamepass", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MarvellousPlaygroundGamepass.lua")
+                    
