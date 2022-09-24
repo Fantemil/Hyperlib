@@ -8337,3 +8337,5 @@ addscript(7550128349,"London", "LondonNewJourneyMoneyFarmingSilentAim", "Terni",
                     
                     
 addscriptexist(5023820864, "TradeTowerAutoCoinFlip", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TradeTowerAutoCoinFlip.lua")
+                    
+addscriptexist(3233893879, "BadBusinessGunModeESPAimBotMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BadBusinessGunModeESPAimBotMore.lua")
