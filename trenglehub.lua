@@ -3336,3 +3336,5 @@ addscriptexist(893973440, "FleetheFacilityAutoFarm", "Terni", "https://raw.githu
     
 addscript(9800759618,"Amanda [Story] [Auto Revive]", "AmandaStoryAutoRevive", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AmandaStoryAutoRevive.lua")
                     
+                    
+addscriptexist(7180042682, "MilitaryTycoonCollectAllBatteries", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MilitaryTycoonCollectAllBatteries.lua")
