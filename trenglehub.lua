@@ -2262,3 +2262,5 @@ addscriptexist(9585537847, "SHADOVISRPGProjectiveSpam", "astrofile", "https://ra
 addscriptexist(7009799230, "PressureWashSimulatorInfEvrthInfMoney", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PressureWashSimulatorInfEvrthInfMoney.lua")
                     
 addscriptexist(10524502174, "OnePunchFightersAutoFarmAutoClick", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OnePunchFightersAutoFarmAutoClick.lua")
+                    
+addscriptexist(9203864304, "raiseafloppaAutoCollectAutoFill", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/raiseafloppaAutoCollectAutoFill.lua")
