@@ -8356,3 +8356,5 @@ addscriptexist(6284583030, "PetSimulatorXShowPetHiddenChances", "Terni", "https:
 addscriptexist(6284583030, "PetSimulatorXEggOfManyGiftsAutoBuy", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PetSimulatorXEggOfManyGiftsAutoBuy.lua")
                     
 addscriptexist(7430861102, "AincradAdventuresBestItemsScriptsGiver", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AincradAdventuresBestItemsScriptsGiver.lua")
+                    
+addscriptexist(6679274937, "VansWorldGiverEventItem", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/VansWorldGiverEventItem.lua")
