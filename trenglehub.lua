@@ -4827,3 +4827,5 @@ addscript(4360666523,"Checkpoint Racing Unleashed [Coin ESP]", "CheckpointRacing
 addscriptexist(2185497593, "ArcadeIslandXChipCollector", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ArcadeIslandXChipCollector.lua")
                     
 addscriptexist(7791873535, "REALISTICHOODCashCollector", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/REALISTICHOODCashCollector.lua")
+                    
+addscriptexist(2809202155, "YourBizarreAdventureItemDupe", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/YourBizarreAdventureItemDupe.lua")
