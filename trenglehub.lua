@@ -2876,3 +2876,5 @@ addscriptexist(4282985734, "CombatWarriorsSilentAimOpenSource", "Terni", "https:
     
 addscript(9677457651,"Fall Experimental [Teleport To The End]", "FallExperimentalTeleportToTheEnd", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FallExperimentalTeleportToTheEnd.lua")
                     
+                    
+addscriptexist(4520749081, "KingLegacyGUIAutoFarm", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/KingLegacyGUIAutoFarm.lua")
