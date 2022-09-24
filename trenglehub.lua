@@ -3573,3 +3573,5 @@ addscript(3840352284,"Volleyball 4.2 [No Line-Fault]", "Volleyball42NoLineFault"
     
 addscript(9601849832,"Jetpack Battle [Insta-kill]", "JetpackBattleInstakill", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/JetpackBattleInstakill.lua")
                     
+                    
+addscriptexist(1962086868, "TowerofhellGUIUltraJumpUltraspeedAdmin", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TowerofhellGUIUltraJumpUltraspeedAdmin.lua")
