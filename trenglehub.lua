@@ -7927,3 +7927,6 @@ addscriptexist(7279999673, "DragonBladeOpenWorldRPGFlingPLayers", "Qalnik", "htt
 addscriptexist(1224212277, "MadCityAutoFarmXp", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MadCityAutoFarmXp.lua")
                     
 addscriptexist(7279999673, "DragonBladeOpenWorldRPGDeleteHouse", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DragonBladeOpenWorldRPGDeleteHouse.lua")
+    
+addscript(7057761396,"Epic Fidget Hunt [All Fidgets]", "EpicFidgetHuntAllFidgets", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/EpicFidgetHuntAllFidgets.lua")
+                    
