@@ -8428,3 +8428,5 @@ addscriptexist(3738091713, "BoxingLeagueNoSlow", "Qalnik", "https://raw.githubus
 addscriptexist(6802248248, "SAITAMANIAAutoFarmKillAura", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SAITAMANIAAutoFarmKillAura.lua")
                     
 addscriptexist(2248408710, "DestructionSimulatorAddMoneyAddLvl", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DestructionSimulatorAddMoneyAddLvl.lua")
+                    
+addscriptexist(5041144419, "SCPRoleplaySilentAIMESPMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SCPRoleplaySilentAIMESPMore.lua")
