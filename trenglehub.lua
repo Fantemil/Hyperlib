@@ -5584,3 +5584,5 @@ addscriptexist(4588604953, "CriminalityGunModsPlayersESPMore", "Terni", "https:/
     
 addscript(3064296930,"God Mode", "GodMode", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/GodMode.lua")
                     
+                    
+addscriptexist(7940932746, "NoclipforRoblox", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NoclipforRoblox.lua")
