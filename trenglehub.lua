@@ -2266,3 +2266,5 @@ addscriptexist(10524502174, "OnePunchFightersAutoFarmAutoClick", "astrofile", "h
 addscriptexist(9203864304, "raiseafloppaAutoCollectAutoFill", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/raiseafloppaAutoCollectAutoFill.lua")
                     
 addscriptexist(155615604, "PrisonLifeInfStaminaRemovedoors", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PrisonLifeInfStaminaRemovedoors.lua")
+                    
+addscriptexist(3101667897, "LegendsOfSpeed⚡AutoFarmAutoRebirth", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LegendsOfSpeed⚡AutoFarmAutoRebirth.lua")
