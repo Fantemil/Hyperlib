@@ -6443,3 +6443,5 @@ addscript(6911148748,"Car Driving Indonesia [Rainbow Car & Car Speed]", "CarDriv
                     
                     
 addscriptexist(6778844213, "EuphoriaragdolltestingDeathFarm", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/EuphoriaragdolltestingDeathFarm.lua")
+                    
+addscriptexist(6778844213, "EuphoriaragdolltestingGetTheMachineBadge", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/EuphoriaragdolltestingGetTheMachineBadge.lua")
