@@ -7451,3 +7451,5 @@ addscriptexist(2788229376, "DaHoodFlyAutoBuyTeleports", "Qalnik", "https://raw.g
 addscriptexist(8592863835, "MagnetSimulator2GUIx25SellTeleportsAllLocations", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MagnetSimulator2GUIx25SellTeleportsAllLocations.lua")
                     
 addscriptexist(1345139196, "TreasureHuntSimulatorTeleportChestDigFaster", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TreasureHuntSimulatorTeleportChestDigFaster.lua")
+                    
+addscriptexist(8554378337, "WeaponFightingSimulatorStartFarmCollectRewardsAntiAfk", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/WeaponFightingSimulatorStartFarmCollectRewardsAntiAfk.lua")
