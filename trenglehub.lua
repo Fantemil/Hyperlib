@@ -7344,3 +7344,5 @@ addscriptexist(5780309044, "StandsAwakeningRareItemAutoFarm", "Terni", "https://
     
 addscript(6911596531,"Defend the Statue [Auto Kill]", "DefendtheStatueAutoKill", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DefendtheStatueAutoKill.lua")
                     
+                    
+addscriptexist(4410049285, "DrivingSimulatorUnlockAllLocationsRegularAutoFarmRainbowCar", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DrivingSimulatorUnlockAllLocationsRegularAutoFarmRainbowCar.lua")
