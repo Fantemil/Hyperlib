@@ -6834,3 +6834,6 @@ addscriptexist(537413528, "BuildABoatForTreasureAutoFarmGodModeWaterAutoCommonCh
 addscriptexist(8897454112, "PetSalonTycoonInfMoney", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PetSalonTycoonInfMoney.lua")
                     
 addscriptexist(4042427666, "AnimeFightingSimulatorAutoFarmGUI", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AnimeFightingSimulatorAutoFarmGUI.lua")
+    
+addscript(5171093784,"Don’t Press The Button 4 [Auto Win – Auto Press – Auto Coins]", "Don’tPressTheButton4AutoWin–AutoPress–AutoCoins", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Don’tPressTheButton4AutoWin–AutoPress–AutoCoins.lua")
+                    
