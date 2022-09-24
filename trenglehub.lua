@@ -5202,3 +5202,5 @@ addscript(6769764667,"Factory Simulator [GUI - Auto Farm]", "FactorySimulatorGUI
     
 addscript(9573746878,"Bleach - Senko [Hollow Eat]", "BleachSenkoHollowEat", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BleachSenkoHollowEat.lua")
                     
+                    
+addscriptexist(1224212277, "MadCitySpawnCarDriveAndWalkOnWater", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MadCitySpawnCarDriveAndWalkOnWater.lua")
