@@ -4257,3 +4257,5 @@ addscriptexist(9726345231, "DuolingoGameHubAutoMoney", "Terni", "https://raw.git
     
 addscript(9017974931,"Valoblox [Auto Open Cases]", "ValobloxAutoOpenCases", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ValobloxAutoOpenCases.lua")
                     
+                    
+addscriptexist(8596411742, "BarbBloxLaneKillAllMoneyFarm", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BarbBloxLaneKillAllMoneyFarm.lua")
