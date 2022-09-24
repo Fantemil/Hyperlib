@@ -7336,3 +7336,6 @@ addscriptexist(2753915549, "BloxFruitsAutoFarmDungeonBuyItem", "Qalnik", "https:
 addscriptexist(7655745946, "DunkingSimulatorEarthAutoFarmSpaceAutoFarmAlwaysScore", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DunkingSimulatorEarthAutoFarmSpaceAutoFarmAlwaysScore.lua")
                     
 addscriptexist(6422372837, "SnipersBETAGetModMenu", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SnipersBETAGetModMenu.lua")
+    
+addscript(7535149098,"Space Tycoon [Insta Kill]", "SpaceTycoonInstaKill", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SpaceTycoonInstaKill.lua")
+                    
