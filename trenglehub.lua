@@ -6503,3 +6503,5 @@ addscriptexist(4588604953, "CriminalityEspGUINew", "Terni", "https://raw.githubu
     
 addscript(8308074824,"Meme Piece [Infinite Skill Points]", "MemePieceInfiniteSkillPoints", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MemePieceInfiniteSkillPoints.lua")
                     
+                    
+addscriptexist(8492553855, "ProjectUprightItemsFarmMobPlayersFarmAutoQuestMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ProjectUprightItemsFarmMobPlayersFarmAutoQuestMore.lua")
