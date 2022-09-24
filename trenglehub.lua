@@ -6995,3 +6995,5 @@ addscriptexist(6494523288, "BladeQuestAutoFarm", "Qalnik", "https://raw.githubus
     
 addscript(8584121669,"Pet Simulator X Fan Made [Infinite Gems]", "PetSimulatorXFanMadeInfiniteGems", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PetSimulatorXFanMadeInfiniteGems.lua")
                     
+                    
+addscriptexist(8584121669, "PetSimulatorXFanMadeInfiniteCoins", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PetSimulatorXFanMadeInfiniteCoins.lua")
