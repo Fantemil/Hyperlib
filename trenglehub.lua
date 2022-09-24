@@ -7326,3 +7326,5 @@ addscript(6400572259,"Anime Brawl", "AnimeBrawlALLOUTAutoFarm", "Qalnik", "https
 addscriptexist(3956818381, "NinjaLegendsAutoSellAutoSellAutobuySwords", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NinjaLegendsAutoSellAutoSellAutobuySwords.lua")
                     
 addscriptexist(7755155116, "SwordFactoryAutoButtonClicker", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SwordFactoryAutoButtonClicker.lua")
+                    
+addscriptexist(4787629450, "BOOGABOOGAKillauraGodmodeInvisibility", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BOOGABOOGAKillauraGodmodeInvisibility.lua")
