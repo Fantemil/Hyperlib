@@ -7555,3 +7555,6 @@ addscript(3203685552,"BEAR [Auto Collect]", "BEARAutoCollect", "Qalnik", "https:
 addscriptexist(8656125900, "BritsVIPPartyftPinkPantheressCollectCoins", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BritsVIPPartyftPinkPantheressCollectCoins.lua")
                     
 addscriptexist(6125809531, "UntitledAttackOnTitanAutoFarmKillAura", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/UntitledAttackOnTitanAutoFarmKillAura.lua")
+    
+addscript(7499189111,"Encounters [Kill Player, Kick Player, inf Mana]", "EncountersKillPlayerKickPlayerinfMana", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/EncountersKillPlayerKickPlayerinfMana.lua")
+                    
