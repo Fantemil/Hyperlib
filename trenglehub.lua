@@ -6160,3 +6160,5 @@ addscriptexist(5787425661, "ALuckyDayDestroyGame", "Terni", "https://raw.githubu
     
 addscript(7603178367,"Chipotle Burrito Builder [Auto Farm]", "ChipotleBurritoBuilderAutoFarm", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ChipotleBurritoBuilderAutoFarm.lua")
                     
+                    
+addscriptexist(537413528, "BuildABoatForTreasureAutoBuyAutoFarmGetAllItemsFree", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BuildABoatForTreasureAutoBuyAutoFarmGetAllItemsFree.lua")
