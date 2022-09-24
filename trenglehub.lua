@@ -7995,3 +7995,5 @@ addscriptexist(4459593483, "FORCEInfCredits", "Qalnik", "https://raw.githubuserc
 addscriptexist(6810246027, "extraOrdinaryFreezeenemies", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/extraOrdinaryFreezeenemies.lua")
                     
 addscriptexist(6810246027, "extraOrdinaryKillAura", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/extraOrdinaryKillAura.lua")
+                    
+addscriptexist(7014716500, "ProBorderspeedmax", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ProBorderspeedmax.lua")
