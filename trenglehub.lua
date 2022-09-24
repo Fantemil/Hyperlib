@@ -4395,3 +4395,6 @@ addscript(9786213478,"Treat Simulator [Auto Sell]", "TreatSimulatorAutoSell", "Q
 addscriptexist(3234050617, "Left2DieOverhaulinfiniteammoNorecollNoSpreed", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Left2DieOverhaulinfiniteammoNorecollNoSpreed.lua")
                     
 addscriptexist(8540346411, "RebirthChampionsXAutoFarmGUI", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RebirthChampionsXAutoFarmGUI.lua")
+    
+addscript(9609300403,"Jackpot [Auto Martingale]", "JackpotAutoMartingale", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/JackpotAutoMartingale.lua")
+                    
