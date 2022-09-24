@@ -3929,3 +3929,5 @@ addscriptexist(7560156054, "ClickerSimulatorFreeGamepass", "Qalnik", "https://ra
 addscriptexist(8876694280, "StrongSimulatorXAutoFarmAutoRebirthHideNameTag", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/StrongSimulatorXAutoFarmAutoRebirthHideNameTag.lua")
                     
 addscriptexist(8303902695, "PetPosseSpamCoin", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PetPosseSpamCoin.lua")
+                    
+addscriptexist(35397735, "ScubaDivingatQuillLakeInfGold", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ScubaDivingatQuillLakeInfGold.lua")
