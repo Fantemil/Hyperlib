@@ -3755,3 +3755,6 @@ addscript(1858299821,"Robloxica [Money Dupe]", "RobloxicaMoneyDupe", "Terni", "h
 addscriptexist(8540168650, "StandUprightRebootedGUISortToolsItemsFarmMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/StandUprightRebootedGUISortToolsItemsFarmMore.lua")
                     
 addscriptexist(4459593483, "FORCEPREALPHAAutoParryMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FORCEPREALPHAAutoParryMore.lua")
+    
+addscript(2098516465,"Roblox High School 2 [Free Ugc Item]", "RobloxHighSchool2FreeUgcItem", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RobloxHighSchool2FreeUgcItem.lua")
+                    
