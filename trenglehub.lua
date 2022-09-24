@@ -7031,3 +7031,6 @@ addscriptexist(8232438881, "ThiefSimulatorGUIAutoFarm", "Terni", "https://raw.gi
 addscriptexist(4581966615, "AnomicMoneyGenerator50KPerSec", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AnomicMoneyGenerator50KPerSec.lua")
                     
 addscriptexist(6953291455, "EatingSimulatorAutoEat", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/EatingSimulatorAutoEat.lua")
+    
+addscript(4375458071,"Elemental Grind Game [Auto Farm]", "ElementalGrindGameAutoFarm", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ElementalGrindGameAutoFarm.lua")
+                    
