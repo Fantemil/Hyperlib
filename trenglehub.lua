@@ -3088,3 +3088,6 @@ addscript(9377039667,"Roblox Innovation Awards Voting Hub [All Hats & Badges]", 
                     
                     
 addscriptexist(7127407851, "AttackonTitanEvolutionFlyToggleWalkspeedInstaKill", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AttackonTitanEvolutionFlyToggleWalkspeedInstaKill.lua")
+    
+addscript(9926433554,"Blast Mining Simulator [Auto Give Money, Anti Idlem Auto Farm]", "BlastMiningSimulatorAutoGiveMoneyAntiIdlemAutoFarm", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BlastMiningSimulatorAutoGiveMoneyAntiIdlemAutoFarm.lua")
+                    
