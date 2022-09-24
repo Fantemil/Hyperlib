@@ -8193,3 +8193,6 @@ addscript(3127396113,"Avengers Testing Server [Kill All]", "AvengersTestingServe
                     
                     
 addscriptexist(6769764667, "FactorySimulatorHarvestAuraAutopickupFillBright", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FactorySimulatorHarvestAuraAutopickupFillBright.lua")
+    
+addscript(6824046084,"Silly's Difficulty Chart Obby [Auto Farm]", "SillysDifficultyChartObbyAutoFarm", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SillysDifficultyChartObbyAutoFarm.lua")
+                    
