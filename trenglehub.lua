@@ -5619,3 +5619,5 @@ addscript(9487450292,"Weak Piece [Kill Everything]", "WeakPieceKillEverything", 
     
 addscript(9225577563,"Roblox – Aimbot & ESP V3 [Phantom Forces Supported]", "Roblox–AimbotESPV3PhantomForcesSupported", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Roblox–AimbotESPV3PhantomForcesSupported.lua")
                     
+                    
+addscriptexist(292439477, "PhantomForces22HubFreeToUseAimbotMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PhantomForces22HubFreeToUseAimbotMore.lua")
