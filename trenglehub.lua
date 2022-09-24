@@ -4282,3 +4282,5 @@ addscript(5970745461,"Minerblocks [Kill Aura]", "MinerblocksKillAura", "Terni", 
     
 addscript(8656044807,"Swinging Simulator [Unlock Every Badge]", "SwingingSimulatorUnlockEveryBadge", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SwingingSimulatorUnlockEveryBadge.lua")
                     
+                    
+addscriptexist(8123652942, "LegendPieceKillAura", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LegendPieceKillAura.lua")
