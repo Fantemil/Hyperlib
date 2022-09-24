@@ -5896,3 +5896,6 @@ addscriptexist(1240644540, "VampireHunters3VampireEsp", "Qalnik", "https://raw.g
     
 addscript(10472623094,"Logitech Song Breaker Awards [Collect All Coins – And More GUI!]", "LogitechSongBreakerAwardsCollectAllCoins–AndMoreGUI", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LogitechSongBreakerAwardsCollectAllCoins–AndMoreGUI.lua")
                     
+    
+addscript(8395560237,"Kick Off [Free GUI – OP Features]", "KickOffFreeGUI–OPFeatures", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/KickOffFreeGUI–OPFeatures.lua")
+                    
