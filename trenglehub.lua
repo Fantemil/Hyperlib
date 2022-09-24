@@ -4338,3 +4338,5 @@ addscriptexist(8123652942, "LegendPieceMaxStats", "Terni", "https://raw.githubus
     
 addscript(4580204640,"Crimson Craftwars [Insta Kill All, God Mode & More!]", "CrimsonCraftwarsInstaKillAllGodModeMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CrimsonCraftwarsInstaKillAllGodModeMore.lua")
                     
+                    
+addscriptexist(180037022, "SonicUltimateRPGCollectAllChaosEmeraldsAllRings", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SonicUltimateRPGCollectAllChaosEmeraldsAllRings.lua")
