@@ -6954,3 +6954,5 @@ addscriptexist(4580204640, "SurvivetheKillerAutoFarm", "Terni", "https://raw.git
 addscriptexist(4996049426, "AllStarTowerDefenseAutoFarm", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AllStarTowerDefenseAutoFarm.lua")
                     
 addscriptexist(4616652839, "ShindoLifeAutoSpinAutoRejoin", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ShindoLifeAutoSpinAutoRejoin.lua")
+                    
+addscriptexist(1537690962, "BeeSwarmSimulatorRedeemCodesGetBoostsMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BeeSwarmSimulatorRedeemCodesGetBoostsMore.lua")
