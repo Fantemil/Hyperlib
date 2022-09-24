@@ -7328,3 +7328,5 @@ addscriptexist(3956818381, "NinjaLegendsAutoSellAutoSellAutobuySwords", "Qalnik"
 addscriptexist(7755155116, "SwordFactoryAutoButtonClicker", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SwordFactoryAutoButtonClicker.lua")
                     
 addscriptexist(4787629450, "BOOGABOOGAKillauraGodmodeInvisibility", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BOOGABOOGAKillauraGodmodeInvisibility.lua")
+                    
+addscriptexist(2753915549, "BloxFruitsFruitHopperAutoStoreRevamp", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BloxFruitsFruitHopperAutoStoreRevamp.lua")
