@@ -8110,3 +8110,6 @@ addscriptexist(7791873535, "REALISTICHOODGetAllGuns", "Qalnik", "https://raw.git
     
 addscript(6751371363,"Hood Duels [Auto Farm]", "HoodDuelsAutoFarm", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/HoodDuelsAutoFarm.lua")
                     
+    
+addscript(8114798443,"Webman Simulator [Infinite Strong & Energy, Auto Open Egg]", "WebmanSimulatorInfiniteStrongEnergyAutoOpenEgg", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/WebmanSimulatorInfiniteStrongEnergyAutoOpenEgg.lua")
+                    
