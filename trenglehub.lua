@@ -6982,3 +6982,6 @@ addscript(3102144307,"Anime Clickers Simulator [Auto Pick Up Scavenger Shards]",
                     
                     
 addscriptexist(6582467377, "VanityDeleteTool", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/VanityDeleteTool.lua")
+    
+addscript(8834250772,"Attack Simulator [Auto Farm]", "AttackSimulatorAutoFarm", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AttackSimulatorAutoFarm.lua")
+                    
