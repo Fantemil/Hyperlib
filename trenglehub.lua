@@ -7819,3 +7819,5 @@ addscriptexist(8554378337, "WeaponFightingSimulatorGUIAutoFarm", "Terni", "https
 addscriptexist(4954752502, "TowerofMiseryGUIGodModeAutoWin", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TowerofMiseryGUIGodModeAutoWin.lua")
                     
 addscriptexist(286090429, "ArsenalAutoFarm", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ArsenalAutoFarm.lua")
+                    
+addscriptexist(8554378337, "WeaponFightingSimulatorAutoFarmCollectRewardsSelectArea", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/WeaponFightingSimulatorAutoFarmCollectRewardsSelectArea.lua")
