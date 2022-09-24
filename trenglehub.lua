@@ -1709,3 +1709,6 @@ addscriptexist(2753915549, "BloxFruitsAutoFarmMobsEspChest", "astrofile", "https
     
 addscript(9718523719,"Roblox [ReJoin Server]", "RobloxReJoinServer", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RobloxReJoinServer.lua")
                     
+    
+addscript(9862161924,"glass game [Show Fake Glass]", "glassgameShowFakeGlass", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/glassgameShowFakeGlass.lua")
+                    
