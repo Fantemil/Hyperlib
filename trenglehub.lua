@@ -5592,3 +5592,5 @@ addscriptexist(7480222488, "ESPforRoblox", "Terni", "https://raw.githubuserconte
 addscriptexist(9049840490, "SonicSpeedSimulatorServerHopCollectAll–AutoRebirth", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SonicSpeedSimulatorServerHopCollectAll–AutoRebirth.lua")
                     
 addscriptexist(35397735, "ScubaDivingAtQuillLakeInfiniteMoney", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ScubaDivingAtQuillLakeInfiniteMoney.lua")
+                    
+addscriptexist(35397735, "ScubaDivingAtQuillLakeAutoSell", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ScubaDivingAtQuillLakeAutoSell.lua")
