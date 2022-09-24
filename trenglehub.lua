@@ -3331,3 +3331,5 @@ addscriptexist(2768379856, "SCP3008AutoCollect", "Qalnik", "https://raw.githubus
 addscriptexist(7180042682, "MilitaryTycoonCollectallbatteries", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MilitaryTycoonCollectallbatteries.lua")
                     
 addscriptexist(1224212277, "MadCityChapter2SilentAimWallBangEasyXpMoney", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MadCityChapter2SilentAimWallBangEasyXpMoney.lua")
+                    
+addscriptexist(893973440, "FleetheFacilityAutoFarm", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FleetheFacilityAutoFarm.lua")
