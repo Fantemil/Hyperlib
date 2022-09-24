@@ -4087,3 +4087,5 @@ addscript(8592863835,"Magnet Simulator 2 [GUI - Sell x18, Auto Egg]", "MagnetSim
                     
                     
 addscriptexist(8232438881, "ThiefSimulatorFastAutoFarm", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ThiefSimulatorFastAutoFarm.lua")
+                    
+addscriptexist(9103898828, "RogueDemonNormalRunSpeedBreath", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RogueDemonNormalRunSpeedBreath.lua")
