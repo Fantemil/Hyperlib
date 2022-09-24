@@ -7748,3 +7748,6 @@ addscript(228181322,"Dinosaur Simulator [AntiAttack, Invisible, infinite Jump]",
                     
                     
 addscriptexist(45146873, "TowerBattlesFarmCredits", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TowerBattlesFarmCredits.lua")
+    
+addscript(5398368730,"Ragdoll Street Fight Simulator [Auto Farm Players]", "RagdollStreetFightSimulatorAutoFarmPlayers", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RagdollStreetFightSimulatorAutoFarmPlayers.lua")
+                    
