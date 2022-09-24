@@ -4582,3 +4582,6 @@ addscriptexist(8750997647, "TappingLegendsAutoFarmAutoEgg", "Terni", "https://ra
     
 addscript(6590798593,"Waterloo at home [Kill All]", "WaterlooathomeKillAll", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/WaterlooathomeKillAll.lua")
                     
+    
+addscript(8605603204,"Mecha Simulator [Infinite Levels, Coins & Gems]", "MechaSimulatorInfiniteLevelsCoinsGems", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MechaSimulatorInfiniteLevelsCoinsGems.lua")
+                    
