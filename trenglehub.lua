@@ -5798,3 +5798,5 @@ addscript(8689522513,"The Streets Prison [Anti Cheat Bypass]", "TheStreetsPrison
     
 addscript(9398326379,"Raise a Bingus [Auto Farm Money]", "RaiseaBingusAutoFarmMoney", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RaiseaBingusAutoFarmMoney.lua")
                     
+                    
+addscriptexist(8209480473, "SpotifyIslandHeartsFarm", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SpotifyIslandHeartsFarm.lua")
