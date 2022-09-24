@@ -3323,3 +3323,5 @@ addscriptexist(5956785391, "ProjectSlayersTpMuzan", "Qalnik", "https://raw.githu
     
 addscript(3623096087,"Muscle Legends [Kill Player, Safe Farm, Auto Equip]", "MuscleLegendsKillPlayerSafeFarmAutoEquip", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MuscleLegendsKillPlayerSafeFarmAutoEquip.lua")
                     
+                    
+addscriptexist(6711562581, "EightDriverCarRacingInfmoney", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/EightDriverCarRacingInfmoney.lua")
