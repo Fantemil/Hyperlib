@@ -8664,3 +8664,6 @@ addscript(4032944086,"Workout Island [AUTO-FARM, AUTO-SELL, KILL-AURA]", "Workou
                     
                     
 addscriptexist(5712833750, "AnimalSimulatorExpFarmCollectCheats", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AnimalSimulatorExpFarmCollectCheats.lua")
+    
+addscript(7017764865,"Be a Baby! Simulator [AUTO-FARM, AUTO-SELL, MORE!]", "BeaBabySimulatorAUTOFARMAUTOSELLMORE", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BeaBabySimulatorAUTOFARMAUTOSELLMORE.lua")
+                    
