@@ -5753,3 +5753,5 @@ addscriptexist(4855457388, "DemonfallAutofarmAutoGripInfinitejump", "Qalnik", "h
 addscriptexist(6673614635, "unConventionalAutoQuestNoAttackCooldownRollFast", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/unConventionalAutoQuestNoAttackCooldownRollFast.lua")
                     
 addscriptexist(2788229376, "DaHoodGodmode", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DaHoodGodmode.lua")
+                    
+addscriptexist(8540168650, "StandUprightRebootedSortToolsItemsFarmAutoFarm", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/StandUprightRebootedSortToolsItemsFarmAutoFarm.lua")
