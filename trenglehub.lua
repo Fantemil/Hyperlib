@@ -5385,3 +5385,6 @@ addscriptexist(142823291, "MurderMystery2ESPFakeKnifeXboxKnife", "Qalnik", "http
 addscriptexist(9359839118, "GasStationSimulatorAutoCelanAutoRestock", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/GasStationSimulatorAutoCelanAutoRestock.lua")
                     
 addscriptexist(7346416636, "PopItTradingDupeMoney", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PopItTradingDupeMoney.lua")
+    
+addscript(6429245608,"Blood Surge [Bypassed RP Name]", "BloodSurgeBypassedRPName", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BloodSurgeBypassedRPName.lua")
+                    
