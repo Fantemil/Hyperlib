@@ -6757,3 +6757,5 @@ addscriptexist(6783611814, "BuildaBoattoSurviveBagde", "Qalnik", "https://raw.gi
     
 addscript(4499822233,"Star Wars Bounty Hunters Outer Rim [Kill All, Infinity Credits & Kill All Bounties]", "StarWarsBountyHuntersOuterRimKillAllInfinityCreditsKillAllBounties", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/StarWarsBountyHuntersOuterRimKillAllInfinityCreditsKillAllBounties.lua")
                     
+                    
+addscriptexist(4954096313, "FieldTripZGodmodeAllandYouselfKillZombiesEsp", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FieldTripZGodmodeAllandYouselfKillZombiesEsp.lua")
