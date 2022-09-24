@@ -980,3 +980,5 @@ addscriptexist(3956818381, "NinjaLegendsAutoSwingAutoSellUnlockAllElements", "as
 addscriptexist(286090429, "ArsenalHitboxExpanderESP", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ArsenalHitboxExpanderESP.lua")
                     
 addscriptexist(155615604, "PrisonLifeBtoolsFlyWalkspeed", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PrisonLifeBtoolsFlyWalkspeed.lua")
+                    
+addscriptexist(142823291, "MurderMystery2KillAllKillSheriffGodModeSilentAim", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MurderMystery2KillAllKillSheriffGodModeSilentAim.lua")
