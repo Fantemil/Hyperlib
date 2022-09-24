@@ -4893,3 +4893,6 @@ addscript(9388793159,"Coruscant Roleplay [Silent AIM]", "CoruscantRoleplaySilent
                     
                     
 addscriptexist(1365404657, "FeatherFamilyUnlockAllBirdVIBGamepass", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FeatherFamilyUnlockAllBirdVIBGamepass.lua")
+    
+addscript(1758401491,"Public Bathroom Simulator [Spam Sounds - FE Trolling]", "PublicBathroomSimulatorSpamSoundsFETrolling", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PublicBathroomSimulatorSpamSoundsFETrolling.lua")
+                    
