@@ -2423,3 +2423,6 @@ addscript(260606376,"Realistic Roleplay 2 [Auto Farm]", "RealisticRoleplay2AutoF
     
 addscript(7941853407,"Squishmallow [Auto Farm]", "SquishmallowAutoFarm", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SquishmallowAutoFarm.lua")
                     
+    
+addscript(10315830663,"Cant Say The Letter [Inf Time]", "CantSayTheLetterInfTime", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CantSayTheLetterInfTime.lua")
+                    
