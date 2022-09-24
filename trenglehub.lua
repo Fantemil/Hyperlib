@@ -4287,3 +4287,6 @@ addscriptexist(8123652942, "LegendPieceKillAura", "Terni", "https://raw.githubus
     
 addscript(9534337535,"Shrek in the Backrooms [GUI - ESP, Loot Stuff]", "ShrekintheBackroomsGUIESPLootStuff", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ShrekintheBackroomsGUIESPLootStuff.lua")
                     
+    
+addscript(301549746,"Counter Blox [Best Custom Skins Changer & More!]", "CounterBloxBestCustomSkinsChangerMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CounterBloxBestCustomSkinsChangerMore.lua")
+                    
