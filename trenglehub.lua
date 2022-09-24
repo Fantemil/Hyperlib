@@ -6939,3 +6939,6 @@ addscriptexist(4195834406, "DragonBallOnlineGenerationsPlayerKillAuraServerHopTe
 addscriptexist(6494523288, "BladeQuestAutofarm", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BladeQuestAutofarm.lua")
                     
 addscriptexist(648362523, "BreakingPointAutoFarm", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BreakingPointAutoFarm.lua")
+    
+addscript(7655489843,"Anime Battlegrounds X [Punch Aura - Infinite Stamina - No Cooldown & More!]", "AnimeBattlegroundsXPunchAuraInfiniteStaminaNoCooldownMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AnimeBattlegroundsXPunchAuraInfiniteStaminaNoCooldownMore.lua")
+                    
