@@ -1731,3 +1731,5 @@ addscript(10184360875,"Pet&Fishing Simulator [Auto Sell, Auto Fish]", "PetFishin
                     
                     
 addscriptexist(9285238704, "RaceClickerAutoFarmAutoClick", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RaceClickerAutoFarmAutoClick.lua")
+                    
+addscriptexist(9872472334, "EvadeAutoRespawnBotEsp", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/EvadeAutoRespawnBotEsp.lua")
