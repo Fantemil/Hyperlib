@@ -8445,3 +8445,5 @@ addscript(8160862936,"SUPER EATER SIMULATOR [Auto-Farm, Auto-Buy]", "SUPEREATERS
                     
                     
 addscriptexist(3233893879, "BadBusiness253HitboxextendESP", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BadBusiness253HitboxextendESP.lua")
+                    
+addscriptexist(2317712696, "TheWildWestAutoSprintAimBotFullBright", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TheWildWestAutoSprintAimBotFullBright.lua")
