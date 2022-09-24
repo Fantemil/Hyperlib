@@ -4570,3 +4570,5 @@ addscriptexist(5315066937, "SuperBSurfRevisedChangeYourSurfingBhopSpeed", "Terni
 addscriptexist(443406476, "ProjectLazarusESPOneShotKillChams", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ProjectLazarusESPOneShotKillChams.lua")
                     
 addscriptexist(7947609996, "RobloxFakeBlueScreen", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RobloxFakeBlueScreen.lua")
+                    
+addscriptexist(9203864304, "raiseafloppa2AutoCookInfMaxRent", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/raiseafloppa2AutoCookInfMaxRent.lua")
