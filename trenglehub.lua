@@ -1293,3 +1293,6 @@ addscript(9361614975,"My City Tycoon ", "MyCityTycoonAutoClickAutoObyClicker", "
                     
                     
 addscriptexist(9361614975, "MyCityTycoonAutoObbyAutoClick", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MyCityTycoonAutoObbyAutoClick.lua")
+    
+addscript(5924471692,"Bloxford DarkRP ", "BloxfordDarkRPServerLagger", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BloxfordDarkRPServerLagger.lua")
+                    
