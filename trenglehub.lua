@@ -3661,3 +3661,5 @@ addscriptexist(5956785391, "ProjectSlayersAutoSpin", "Qalnik", "https://raw.gith
 addscriptexist(4036494886, "GunSimulatorGUIGetInfiniteMoneySetMaxWeaponDamageMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/GunSimulatorGUIGetInfiniteMoneySetMaxWeaponDamageMore.lua")
                     
 addscriptexist(8554378337, "WeaponFightingSimulatorGUIStartFarmSelectAreaToFarmMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/WeaponFightingSimulatorGUIStartFarmSelectAreaToFarmMore.lua")
+                    
+addscriptexist(7026949294, "SwordSimulatorInfiniteCoinsAutoFarmMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SwordSimulatorInfiniteCoinsAutoFarmMore.lua")
