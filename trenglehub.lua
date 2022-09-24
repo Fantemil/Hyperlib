@@ -2704,3 +2704,5 @@ addscript(8278412720,"CS Prison Life [BETA] [Casino Auto Farm]", "CSPrisonLifeBE
                     
                     
 addscriptexist(4809447488, "VentureTalesAutoFarm", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/VentureTalesAutoFarm.lua")
+                    
+addscriptexist(5956785391, "ProjectSlayersKillAuraTeleportsMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ProjectSlayersKillAuraTeleportsMore.lua")
