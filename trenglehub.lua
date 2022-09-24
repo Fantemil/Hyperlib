@@ -7543,3 +7543,6 @@ addscriptexist(155615604, "PrisonLifeGodModeArrestPlayerKillAll", "Qalnik", "htt
 addscriptexist(263761432, "HorrificHousingAutoFarmCoinsInfityJumpPets", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/HorrificHousingAutoFarmCoinsInfityJumpPets.lua")
                     
 addscriptexist(2809202155, "YourBizarreAdventureTpAutoitemsAutoQuestWalkSpeed", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/YourBizarreAdventureTpAutoitemsAutoQuestWalkSpeed.lua")
+    
+addscript(5055081323,"Swordman Simulator [Auto Farm]", "SwordmanSimulatorAutoFarm", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SwordmanSimulatorAutoFarm.lua")
+                    
