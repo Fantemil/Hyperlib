@@ -3859,3 +3859,6 @@ addscript(3144213556,"Troll Obby [Auto Win]", "TrollObbyAutoWin", "Terni", "http
 addscriptexist(8123652942, "LegendPieceSeabeastGemsFarm", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LegendPieceSeabeastGemsFarm.lua")
                     
 addscriptexist(10001513103, "LimitedWordsGUI", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LimitedWordsGUI.lua")
+    
+addscript(7056117669,"get chased by a rocket [Kick Player]", "getchasedbyarocketKickPlayer", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/getchasedbyarocketKickPlayer.lua")
+                    
