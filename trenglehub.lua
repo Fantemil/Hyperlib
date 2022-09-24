@@ -3951,3 +3951,6 @@ addscript(7240922896,"Roblox - Player Avatars ESP", "RobloxPlayerAvatarsESP", "T
 addscriptexist(8554378337, "SwordSimulatorAutoHit", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SwordSimulatorAutoHit.lua")
                     
 addscriptexist(6766156863, "ImmigrantESP", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ImmigrantESP.lua")
+    
+addscript(2688038742,"Area - Omega [Kill All]", "AreaOmegaKillAll", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AreaOmegaKillAll.lua")
+                    
