@@ -3635,3 +3635,5 @@ addscriptexist(8123652942, "LegendPieceAutoFarmMore", "Terni", "https://raw.gith
     
 addscript(6249640453,"Classic Retro Craftwars [Infinite Cash]", "ClassicRetroCraftwarsInfiniteCash", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ClassicRetroCraftwarsInfiniteCash.lua")
                     
+                    
+addscriptexist(6570234816, "ManoCountyRoleplayKillAll", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ManoCountyRoleplayKillAll.lua")
