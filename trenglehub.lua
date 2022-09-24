@@ -6980,3 +6980,5 @@ addscriptexist(7285447838, "TokyoSagaNoCooldownsForEverythingShowHitboxInfiniteH
     
 addscript(3102144307,"Anime Clickers Simulator [Auto Pick Up Scavenger Shards]", "AnimeClickersSimulatorAutoPickUpScavengerShards", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AnimeClickersSimulatorAutoPickUpScavengerShards.lua")
                     
+                    
+addscriptexist(6582467377, "VanityDeleteTool", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/VanityDeleteTool.lua")
