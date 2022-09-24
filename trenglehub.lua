@@ -1475,3 +1475,5 @@ addscript(2653064683,"Word Bomb [Auto type, Anti-kik, Auto Join]", "WordBombAuto
                     
                     
 addscriptexist(5505830188, "ArcaneOblivionRPGSwordPIG", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ArcaneOblivionRPGSwordPIG.lua")
+                    
+addscriptexist(9845705613, "BloodHoodKillAllGodmodeAutoArmor", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BloodHoodKillAllGodmodeAutoArmor.lua")
