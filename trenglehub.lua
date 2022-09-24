@@ -4806,3 +4806,5 @@ addscript(5272267802,"Be a Toy! [Auto Code Farm]", "BeaToyAutoCodeFarm", "Terni"
                     
                     
 addscriptexist(6938803436, "AnimeDimensionsSimulatorAutoAttackAutoSkills", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AnimeDimensionsSimulatorAutoAttackAutoSkills.lua")
+                    
+addscriptexist(9598746251, "HomeRunSimulatorAutoHomeRun", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/HomeRunSimulatorAutoHomeRun.lua")
