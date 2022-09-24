@@ -4792,3 +4792,5 @@ addscriptexist(9551640993, "MiningSimulator2HatchWebhookSender", "Terni", "https
     
 addscript(2000062521,"State of Anarchy 0.15.83.0 [Kill All]", "StateofAnarchy015830KillAll", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/StateofAnarchy015830KillAll.lua")
                     
+                    
+addscriptexist(70005410, "BloxHuntPropChams", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BloxHuntPropChams.lua")
