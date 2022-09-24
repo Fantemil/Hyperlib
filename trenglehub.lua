@@ -5106,3 +5106,6 @@ addscriptexist(9551640993, "MiningSimulator2GUIAutoMineAutoOpenEgg", "Terni", "h
     
 addscript(7065731541,"Speedman Simulator [GUI - Auto Upgrade, Auto Farm & More!]", "SpeedmanSimulatorGUIAutoUpgradeAutoFarmMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SpeedmanSimulatorGUIAutoUpgradeAutoFarmMore.lua")
                     
+    
+addscript(6949542776,"Pixel Gun Tower Defense [Equip Any Gun]", "PixelGunTowerDefenseEquipAnyGun", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PixelGunTowerDefenseEquipAnyGun.lua")
+                    
