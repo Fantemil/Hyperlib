@@ -1892,3 +1892,6 @@ addscript(5872075530,"Anarchy [Esp, Hitboxes]", "AnarchyEspHitboxes", "astrofile
                     
                     
 addscriptexist(3351674303, "DrivingEmpireAutoFarmAutoDragRace", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DrivingEmpireAutoFarmAutoDragRace.lua")
+    
+addscript(6708206173,"Rate My Avatar [Animations, WalkSpeed, Swears]", "RateMyAvatarAnimationsWalkSpeedSwears", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RateMyAvatarAnimationsWalkSpeedSwears.lua")
+                    
