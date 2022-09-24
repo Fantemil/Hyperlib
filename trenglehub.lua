@@ -3359,3 +3359,6 @@ addscriptexist(10001513103, "LimitedWordsUnlimitedspinsunlimitedwords", "Qalnik"
     
 addscript(6273865312,"Supernatural Simulator [Auto Sell, Auto Lvl Up]", "SupernaturalSimulatorAutoSellAutoLvlUp", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SupernaturalSimulatorAutoSellAutoLvlUp.lua")
                     
+    
+addscript(1899149341,"Vehicle Tycoon [Collect All Gifts]", "VehicleTycoonCollectAllGifts", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/VehicleTycoonCollectAllGifts.lua")
+                    
