@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://pastebin.com/raw/udNsHfKw"))()
+loadstring(game:HttpGet('https://raw.githubusercontent.com/kederal/Forge-Hub/main/loader.lua'))()
