@@ -8810,3 +8810,5 @@ addscriptexist(6802248248, "SAITAMANIAAutoQuestAutoFarmUseSkills", "Qalnik", "ht
 addscriptexist(7485253727, "TruePieceChestFarm", "rbxscript", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TruePieceChestFarm.lua")
                     
 addscriptexist(1224212277, "MadCityInfiniteAmmo", "rbxscript", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MadCityInfiniteAmmo.lua")
+                    
+addscriptexist(4580204640, "SurvivetheKillerTpDoorAfkFArmEsp", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SurvivetheKillerTpDoorAfkFArmEsp.lua")
