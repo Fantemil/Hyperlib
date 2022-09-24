@@ -7999,3 +7999,5 @@ addscriptexist(6810246027, "extraOrdinaryKillAura", "Qalnik", "https://raw.githu
 addscriptexist(7014716500, "ProBorderspeedmax", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ProBorderspeedmax.lua")
                     
 addscriptexist(2866967438, "FishingFrontierAutoFarmKillMonstersAutoSell", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FishingFrontierAutoFarmKillMonstersAutoSell.lua")
+                    
+addscriptexist(2809202155, "AnimeClickerSimulatorAutoClickAutoRebirthAutoBuyEggs", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AnimeClickerSimulatorAutoClickAutoRebirthAutoBuyEggs.lua")
