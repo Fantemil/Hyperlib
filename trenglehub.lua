@@ -7409,3 +7409,5 @@ addscriptexist(606849621, "JailbreakTeleportSystemFast", "Terni", "https://raw.g
     
 addscript(7187281400,"Touch Football World Cup [Easy Goal Tool]", "TouchFootballWorldCupEasyGoalTool", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TouchFootballWorldCupEasyGoalTool.lua")
                     
+                    
+addscriptexist(5041144419, "SCPRoleplayExpFarmSilentAimInstantReload", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SCPRoleplayExpFarmSilentAimInstantReload.lua")
