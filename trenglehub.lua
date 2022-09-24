@@ -1555,3 +1555,6 @@ addscriptexist(286090429, "ArsenalInfAmmo", "Qalnik", "https://raw.githubusercon
     
 addscript(4893679160,"Big Brain Simulator [AutoSell, Collect Coins]", "BigBrainSimulatorAutoSellCollectCoins", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BigBrainSimulatorAutoSellCollectCoins.lua")
                     
+    
+addscript(6245984328,"NERF Strike [AutoFarm, Hitboxes]", "NERFStrikeAutoFarmHitboxes", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NERFStrikeAutoFarmHitboxes.lua")
+                    
