@@ -6411,3 +6411,5 @@ addscriptexist(30869879, "StopItSlenderGUIESP", "Terni", "https://raw.githubuser
 addscriptexist(8916037983, "starvingartistsAutoAdvertise", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/starvingartistsAutoAdvertise.lua")
                     
 addscriptexist(2768379856, "300827SimpleESP", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/300827SimpleESP.lua")
+                    
+addscriptexist(8862273695, "AnotherJToHRPGAutoFarm", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AnotherJToHRPGAutoFarm.lua")
