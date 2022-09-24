@@ -1467,3 +1467,6 @@ addscriptexist(9744954014100, "THAHOODGodmodeInfAmmo", "astrofile", "https://raw
 addscriptexist(10676523834, "RacingRocketInfiniteStar", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RacingRocketInfiniteStar.lua")
                     
 addscriptexist(9648883891, "FestivalTycoonAutoBuyAll", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FestivalTycoonAutoBuyAll.lua")
+    
+addscript(8293257677,"Surreal RPG [100 damage]", "SurrealRPG100damage", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SurrealRPG100damage.lua")
+                    
