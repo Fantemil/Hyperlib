@@ -5363,3 +5363,5 @@ addscript(8657806289,"Dummies vs Noobs [Damage Multiplier]", "DummiesvsNoobsDama
                     
                     
 addscriptexist(8657806289, "DummiesvsNoobsAntiAmmoLoss", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DummiesvsNoobsAntiAmmoLoss.lua")
+                    
+addscriptexist(8554378337, "WeaponFightingSimulatorFreeGamePassesAutoFarmMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/WeaponFightingSimulatorFreeGamePassesAutoFarmMore.lua")
