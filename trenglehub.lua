@@ -4219,3 +4219,5 @@ addscriptexist(8554378337, "SwordSimulatorAutoFarm", "Terni", "https://raw.githu
 addscriptexist(4459593483, "FORCEPREALPHAGUITeleports", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FORCEPREALPHAGUITeleports.lua")
                     
 addscriptexist(286090429, "ArsenalGUIXrayAutoFarmMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ArsenalGUIXrayAutoFarmMore.lua")
+                    
+addscriptexist(2039118386, "NeighborhoodwarSilentAIM", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NeighborhoodwarSilentAIM.lua")
