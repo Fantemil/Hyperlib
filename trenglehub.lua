@@ -5914,3 +5914,5 @@ addscript(6381640185,"Linkvertise Bypass [GUI - Open Source]", "LinkvertiseBypas
     
 addscript(8649501395,"NFL Tycoon [Auto Collect Money - Auto Buy]", "NFLTycoonAutoCollectMoneyAutoBuy", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NFLTycoonAutoCollectMoneyAutoBuy.lua")
                     
+                    
+addscriptexist(8705534359, "ShoppingCartSimulatorInfiniteCoffee", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ShoppingCartSimulatorInfiniteCoffee.lua")
