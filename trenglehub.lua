@@ -8520,3 +8520,6 @@ addscriptexist(6198225400, "LegendsReWrittenOreFarming", "Terni", "https://raw.g
     
 addscript(3082002798,"Teen Titans Battlegrounds [Loop Kill All Players]", "TeenTitansBattlegroundsLoopKillAllPlayers", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TeenTitansBattlegroundsLoopKillAllPlayers.lua")
                     
+    
+addscript(5834211079,"City - 8 [No Jump Delay]", "City8NoJumpDelay", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/City8NoJumpDelay.lua")
+                    
