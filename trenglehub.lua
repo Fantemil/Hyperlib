@@ -6749,3 +6749,6 @@ addscriptexist(6737970321, "LivetopiaKickPlayerRagdollplayerHeadAmongUs", "Qalni
 addscriptexist(735030788, "RoyaleHighGemFarm", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RoyaleHighGemFarm.lua")
                     
 addscriptexist(8396586868, "A0nepiecegameDupe", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/A0nepiecegameDupe.lua")
+    
+addscript(8365905206,"Untitled Tag Game [Coin Auto-Collector]", "UntitledTagGameCoinAutoCollector", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/UntitledTagGameCoinAutoCollector.lua")
+                    
