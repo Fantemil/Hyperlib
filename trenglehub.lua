@@ -3735,3 +3735,6 @@ addscript(6737970321,"Livetopia [Free Ugc Item]", "LivetopiaFreeUgcItem", "Terni
                     
                     
 addscriptexist(7075737729, "HoopCentral6AutoDunk", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/HoopCentral6AutoDunk.lua")
+    
+addscript(9974958703,"Fruit Piece [Infinite Stats]", "FruitPieceInfiniteStats", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FruitPieceInfiniteStats.lua")
+                    
