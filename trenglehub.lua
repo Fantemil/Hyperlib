@@ -1947,3 +1947,5 @@ addscriptexist(8540346411, "RebirthChampionsXAutoRebrithAutoEquipBestPets", "ast
 addscriptexist(6608498361, "cursedtanksimulatorBigCrew", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/cursedtanksimulatorBigCrew.lua")
                     
 addscriptexist(8737602449, "PLSDONATETextBypass", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PLSDONATETextBypass.lua")
+                    
+addscriptexist(9658251985, "TheRakeKillTest10Kills", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TheRakeKillTest10Kills.lua")
