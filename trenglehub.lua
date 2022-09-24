@@ -6881,3 +6881,6 @@ addscript(6067142556,"Roblox [Fix Bug]", "RobloxFixBug", "Qalnik", "https://raw.
                     
                     
 addscriptexist(6677985923, "MillionaireEmpireTycoonInfCash", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MillionaireEmpireTycoonInfCash.lua")
+    
+addscript(7114303730,"Dragon Orbz [Auto FArm, Auto Quest, Auto Points]", "DragonOrbzAutoFArmAutoQuestAutoPoints", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DragonOrbzAutoFArmAutoQuestAutoPoints.lua")
+                    
