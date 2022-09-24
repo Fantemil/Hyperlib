@@ -7930,3 +7930,5 @@ addscriptexist(7279999673, "DragonBladeOpenWorldRPGDeleteHouse", "Qalnik", "http
     
 addscript(7057761396,"Epic Fidget Hunt [All Fidgets]", "EpicFidgetHuntAllFidgets", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/EpicFidgetHuntAllFidgets.lua")
                     
+                    
+addscriptexist(7057761396, "EpicFidgetHuntPopsFarm", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/EpicFidgetHuntPopsFarm.lua")
