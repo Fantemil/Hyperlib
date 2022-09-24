@@ -6652,3 +6652,5 @@ addscriptexist(6766156863, "StrongmanSimulatorAutoGrabAutoSellAutoOpenEgg", "Qal
     
 addscript(4246487209,"Boss Fighting Simulator [Auto Power, Auto Sell, Boss Auto Farm]", "BossFightingSimulatorAutoPowerAutoSellBossAutoFarm", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BossFightingSimulatorAutoPowerAutoSellBossAutoFarm.lua")
                     
+                    
+addscriptexist(8592863835, "MagnetSimulator2TeleportCoinsToYouAutoSellAntiAfk", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MagnetSimulator2TeleportCoinsToYouAutoSellAntiAfk.lua")
