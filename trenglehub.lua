@@ -1827,3 +1827,5 @@ addscript(10476933477,"Strong Ninja Simulator [Auto Hatch, Auto Click]", "Strong
 addscriptexist(8704181738, "TiếnTiếnPieceFreeYoru", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TiếnTiếnPieceFreeYoru.lua")
                     
 addscriptexist(9718523719, "RobloxJoinsmallestserver", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RobloxJoinsmallestserver.lua")
+                    
+addscriptexist(8704181738, "TiếnTiếnPieceDebttoallplayers", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TiếnTiếnPieceDebttoallplayers.lua")
