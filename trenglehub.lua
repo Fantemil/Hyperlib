@@ -6208,3 +6208,5 @@ addscriptexist(6403373529, "SlapBattlesTrollingGUI", "Terni", "https://raw.githu
 addscriptexist(6401440818, "MONOLITHDEFENSEUnlimitedVotes", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MONOLITHDEFENSEUnlimitedVotes.lua")
                     
 addscriptexist(6847090259, "BulkedUpCollectAllTrophiesEggs", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BulkedUpCollectAllTrophiesEggs.lua")
+                    
+addscriptexist(3351674303, "DrivingEmpireArrestAllMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DrivingEmpireArrestAllMore.lua")
