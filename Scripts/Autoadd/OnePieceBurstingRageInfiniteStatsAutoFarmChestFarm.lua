@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://scriptblox.com/raw/one-piece-or-op_546"))()

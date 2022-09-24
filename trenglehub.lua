@@ -7605,3 +7605,6 @@ addscriptexist(182781154, "TheMazeRunnerChestFarm", "Qalnik", "https://raw.githu
     
 addscript(914010731,"Ro-Ghoul [Farm, AutoEquip, Auto Skills]", "RoGhoulFarmAutoEquipAutoSkills", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RoGhoulFarmAutoEquipAutoSkills.lua")
                     
+    
+addscript(8311081337,"One Piece", "OnePieceBurstingRageInfiniteStatsAutoFarmChestFarm", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OnePieceBurstingRageInfiniteStatsAutoFarmChestFarm.lua")
+                    
