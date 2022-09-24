@@ -3707,3 +3707,5 @@ addscriptexist(8304191830, "AnimeAdventuresAutoFarm", "Terni", "https://raw.gith
 addscriptexist(7664413141, "CreeperChaosAutoFarmWins", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CreeperChaosAutoFarmWins.lua")
                     
 addscriptexist(2727067538, "WorldZeroKillAura", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/WorldZeroKillAura.lua")
+                    
+addscriptexist(4588604953, "CriminalityBasedAutoFarm", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CriminalityBasedAutoFarm.lua")
