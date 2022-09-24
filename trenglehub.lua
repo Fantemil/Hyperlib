@@ -3891,3 +3891,5 @@ addscript(8619263259,"Critical Legends [Collect all chests, Tp to every statue]"
                     
                     
 addscriptexist(2788229376, "DaHoodAutoFarmGodmodeKllBot", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DaHoodAutoFarmGodmodeKllBot.lua")
+                    
+addscriptexist(8750997647, "TappingLegendsXUPDATEDAUTOFARMGUI", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TappingLegendsXUPDATEDAUTOFARMGUI.lua")
