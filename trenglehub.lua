@@ -5784,3 +5784,6 @@ addscriptexist(2569453732, "RiseofNationsTradeGUIOpenSource", "Terni", "https://
     
 addscript(6667701234,"Fate Xero [Item Notifier]", "FateXeroItemNotifier", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FateXeroItemNotifier.lua")
                     
+    
+addscript(8403541179,"Blood Engine 2 Slash Mania [Kill All]", "BloodEngine2SlashManiaKillAll", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BloodEngine2SlashManiaKillAll.lua")
+                    
