@@ -2220,3 +2220,6 @@ addscriptexist(2788229376, "DaHoodSilentModeTriggerBot", "astrofile", "https://r
     
 addscript(2413927524,"The Rake REMASTERED [Notifications, Esp]", "TheRakeREMASTEREDNotificationsEsp", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TheRakeREMASTEREDNotificationsEsp.lua")
                     
+    
+addscript(10386774046,"Legend Magician [Insane Reach]", "LegendMagicianInsaneReach", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LegendMagicianInsaneReach.lua")
+                    
