@@ -6573,3 +6573,5 @@ addscriptexist(4924922222, "BrookhavenHomeMenuHouseMenuPlayersMemu", "Qalnik", "
 addscriptexist(8540346411, "RebirthChampionsXAutoClickAutoClaimChestsAutoBuyUpgrades", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RebirthChampionsXAutoClickAutoClaimChestsAutoBuyUpgrades.lua")
                     
 addscriptexist(8357510970, "AnimePunchingSimulatorAutoClickRedeemCodesAutoRebirth", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AnimePunchingSimulatorAutoClickRedeemCodesAutoRebirth.lua")
+                    
+addscriptexist(45146873, "TowerBattlesModdingTowerPurchasingTeleportAllZombie", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TowerBattlesModdingTowerPurchasingTeleportAllZombie.lua")
