@@ -6988,3 +6988,5 @@ addscript(8834250772,"Attack Simulator [Auto Farm]", "AttackSimulatorAutoFarm", 
     
 addscript(8381567809,"Ninja Star Simulator [Auto Farm & Auto Collect - Basic Auto Farm]", "NinjaStarSimulatorAutoFarmAutoCollectBasicAutoFarm", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NinjaStarSimulatorAutoFarmAutoCollectBasicAutoFarm.lua")
                     
+                    
+addscriptexist(8232438881, "ThiefSimulatorAutoRobAutoSellMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ThiefSimulatorAutoRobAutoSellMore.lua")
