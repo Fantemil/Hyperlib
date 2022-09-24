@@ -5264,3 +5264,6 @@ addscript(7462526249,"NIKELAND [Collect All Coins & More!]", "NIKELANDCollectAll
 addscriptexist(2965881766, "BrawlBloxOneShot", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BrawlBloxOneShot.lua")
                     
 addscriptexist(2965881766, "BrawlBloxInfGolgInfGemsInfExp", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BrawlBloxInfGolgInfGemsInfExp.lua")
+    
+addscript(8005620792,"Roblox Casino [Infinite Money]", "RobloxCasinoInfiniteMoney", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RobloxCasinoInfiniteMoney.lua")
+                    
