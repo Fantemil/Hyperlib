@@ -6647,3 +6647,5 @@ addscriptexist(2512643572, "BubbleGumSimulatorAutoBubblesAutoSellinfitejump", "Q
     
 addscript(3759927663,"Zombie Strike [inf Ammo, God Mode]", "ZombieStrikeinfAmmoGodMode", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ZombieStrikeinfAmmoGodMode.lua")
                     
+                    
+addscriptexist(6766156863, "StrongmanSimulatorAutoGrabAutoSellAutoOpenEgg", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/StrongmanSimulatorAutoGrabAutoSellAutoOpenEgg.lua")
