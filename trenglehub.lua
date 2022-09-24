@@ -4134,3 +4134,6 @@ addscript(8798268679,"Crossroad Combat", "CrossroadCombat", "Qalnik", "https://r
     
 addscript(180037022,"Sonic Ultimate RPG [Loop Collect All Rings, Collect All Chaos Emeralds, No ring drain]", "SonicUltimateRPGLoopCollectAllRingsCollectAllChaosEmeraldsNoringdrain", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SonicUltimateRPGLoopCollectAllRingsCollectAllChaosEmeraldsNoringdrain.lua")
                     
+    
+addscript(7791873535,"REALISTIC HOOD [Invis Kill Method]", "REALISTICHOODInvisKillMethod", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/REALISTICHOODInvisKillMethod.lua")
+                    
