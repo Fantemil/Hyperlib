@@ -1,0 +1,1 @@
+game:GetService("ReplicatedStorage").Remotes.Stats:FireServer(game:GetService("Players").LocalPlayer.Data.Level,-9e15)
