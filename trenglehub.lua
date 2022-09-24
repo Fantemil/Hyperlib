@@ -5477,3 +5477,5 @@ addscriptexist(5620664339, "RoStreetsAutoStomp", "Terni", "https://raw.githubuse
     
 addscript(9426082120,"shoppingmode Samsung Superstar Galaxy [Auto Collect All Stars]", "shoppingmodeSamsungSuperstarGalaxyAutoCollectAllStars", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/shoppingmodeSamsungSuperstarGalaxyAutoCollectAllStars.lua")
                     
+                    
+addscriptexist(6284583030, "PetSimulatorXNewGUILKHUB", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PetSimulatorXNewGUILKHUB.lua")
