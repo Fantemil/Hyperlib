@@ -7861,3 +7861,5 @@ addscriptexist(4111023553, "DeepwokenEsp", "rbxscript", "https://raw.githubuserc
     
 addscript(6490016198,"Slayer Tycoon [Anti Ac, Auto Buy Food...]", "SlayerTycoonAntiAcAutoBuyFood", "rbxscript", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SlayerTycoonAntiAcAutoBuyFood.lua")
                     
+                    
+addscriptexist(6769764667, "FactorySimulatorAutoAfkAutoHarvestAutoSell", "rbxscript", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FactorySimulatorAutoAfkAutoHarvestAutoSell.lua")
