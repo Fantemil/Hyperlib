@@ -6743,3 +6743,5 @@ addscriptexist(6998582502, "DungeonCrusadersAutoFarm", "Qalnik", "https://raw.gi
     
 addscript(6821114498,"Demon Slayer", "DemonSlayerFinalConquestGiveweaponsGivebreathingsGivefinalselections", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DemonSlayerFinalConquestGiveweaponsGivebreathingsGivefinalselections.lua")
                     
+                    
+addscriptexist(6737970321, "LivetopiaKickPlayerRagdollplayerHeadAmongUs", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LivetopiaKickPlayerRagdollplayerHeadAmongUs.lua")
