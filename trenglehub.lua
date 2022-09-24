@@ -4832,3 +4832,6 @@ addscriptexist(2809202155, "YourBizarreAdventureItemDupe", "Qalnik", "https://ra
     
 addscript(4753520418,"The Hood [Auto Money Drop Collect]", "TheHoodAutoMoneyDropCollect", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TheHoodAutoMoneyDropCollect.lua")
                     
+    
+addscript(8762785110,"Survival Games Ultimate [Inf Stamina]", "SurvivalGamesUltimateInfStamina", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SurvivalGamesUltimateInfStamina.lua")
+                    
