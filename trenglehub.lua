@@ -4709,3 +4709,6 @@ addscriptexist(6728870912, "WorldofStandsDemoAutoFarmAutoSkillAutoQuest", "Terni
     
 addscript(112420803,"Kohls Admin House [GUI - Commands]", "KohlsAdminHouseGUICommands", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/KohlsAdminHouseGUICommands.lua")
                     
+    
+addscript(9249776514,"Givenchy Beauty House [Finish The Event Quest]", "GivenchyBeautyHouseFinishTheEventQuest", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/GivenchyBeautyHouseFinishTheEventQuest.lua")
+                    
