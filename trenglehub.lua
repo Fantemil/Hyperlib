@@ -2524,3 +2524,5 @@ addscriptexist(5108997584, "Reason2DieValueIncreaser", "astrofile", "https://raw
     
 addscript(3522803956,"De Pride Isle Sanatorium [Anticheat bypass]", "DePrideIsleSanatoriumAnticheatbypass", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DePrideIsleSanatoriumAnticheatbypass.lua")
                     
+                    
+addscriptexist(5901548022, "TryToDieChangeStat", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TryToDieChangeStat.lua")
