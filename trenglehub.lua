@@ -7241,3 +7241,5 @@ addscriptexist(1224212277, "MadCityAutoWashingLaundry", "Terni", "https://raw.gi
 addscriptexist(2185497593, "ArcadeIsland2VaultAutoSolver", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ArcadeIsland2VaultAutoSolver.lua")
                     
 addscriptexist(5310653431, "StreamingSimulatorAutoFarmGUI", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/StreamingSimulatorAutoFarmGUI.lua")
+                    
+addscriptexist(7462526249, "NIKELANDGetEventItem", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NIKELANDGetEventItem.lua")
