@@ -3758,3 +3758,5 @@ addscriptexist(4459593483, "FORCEPREALPHAAutoParryMore", "Terni", "https://raw.g
     
 addscript(2098516465,"Roblox High School 2 [Free Ugc Item]", "RobloxHighSchool2FreeUgcItem", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RobloxHighSchool2FreeUgcItem.lua")
                     
+                    
+addscriptexist(8123652942, "LegendPieceGUITeleportsEspMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LegendPieceGUITeleportsEspMore.lua")
