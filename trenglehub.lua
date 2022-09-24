@@ -4972,3 +4972,5 @@ addscript(7488014850,"RAINBOWN PIECE [Free Legendary fruits]", "RAINBOWNPIECEFre
                     
                     
 addscriptexist(7488014850, "RAINBOWNPIECESpamLegengfruits", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RAINBOWNPIECESpamLegengfruits.lua")
+                    
+addscriptexist(9551640993, "MiningSimulator2OreEsp", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MiningSimulator2OreEsp.lua")
