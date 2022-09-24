@@ -3975,3 +3975,6 @@ addscriptexist(5939428933, "CrewmatesKillAll", "Terni", "https://raw.githubuserc
 addscriptexist(4746041618, "SteelTitansESP", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SteelTitansESP.lua")
                     
 addscriptexist(3722916, "2PlayerCompanyTycoonInfiniteMoney", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/2PlayerCompanyTycoonInfiniteMoney.lua")
+    
+addscript(9875254583,"Juice Pirates [Max Level]", "JuicePiratesMaxLevel", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/JuicePiratesMaxLevel.lua")
+                    
