@@ -2258,3 +2258,5 @@ addscript(10351639671,"Anime Legends Simulator [Auto Complete Event]", "AnimeLeg
                     
                     
 addscriptexist(9585537847, "SHADOVISRPGProjectiveSpam", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SHADOVISRPGProjectiveSpam.lua")
+                    
+addscriptexist(7009799230, "PressureWashSimulatorInfEvrthInfMoney", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PressureWashSimulatorInfEvrthInfMoney.lua")
