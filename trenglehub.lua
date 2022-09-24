@@ -8134,3 +8134,5 @@ addscriptexist(6802248248, "SAITAMANIAFarmLevelCollectGiftMore", "Terni", "https
 addscriptexist(6299805723, "AnimeFightersSimulatorFarmMoneyLevelFarmMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AnimeFightersSimulatorFarmMoneyLevelFarmMore.lua")
                     
 addscriptexist(5233782396, "CreaturesofSonariaAfkAutoBellsFarm", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CreaturesofSonariaAfkAutoBellsFarm.lua")
+                    
+addscriptexist(735030788, "RoyaleHighFarmGems", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RoyaleHighFarmGems.lua")
