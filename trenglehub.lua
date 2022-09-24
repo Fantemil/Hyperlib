@@ -7302,3 +7302,5 @@ addscriptexist(1554960397, "CarDealershipTycoonModCarLoopFlipAllCarsFeinvisible"
 addscriptexist(8592863835, "MagnetSimulator2AutoFarmAutoAttackAutoSell", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MagnetSimulator2AutoFarmAutoAttackAutoSell.lua")
                     
 addscriptexist(3623096087, "MuscleLegendsAutoLiftLegendsGymAntiAFK", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MuscleLegendsAutoLiftLegendsGymAntiAFK.lua")
+                    
+addscriptexist(7453798168, "YouTubeSimulatorXAutoFarmAutoClickAutoCollectGems", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/YouTubeSimulatorXAutoFarmAutoClickAutoCollectGems.lua")
