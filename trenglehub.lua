@@ -2099,3 +2099,5 @@ addscriptexist(6609611538, "MechanicaCrashPlayer", "Qalnik", "https://raw.github
     
 addscript(2686500207,"A Bizarre Day [Auto Farm, Teleports]", "ABizarreDayAutoFarmTeleports", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ABizarreDayAutoFarmTeleports.lua")
                     
+                    
+addscriptexist(8737602449, "PLSDONATEFlyEsp", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PLSDONATEFlyEsp.lua")
