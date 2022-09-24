@@ -8712,3 +8712,5 @@ addscriptexist(155615604, "PrisonLifeKILLAURA", "Terni", "https://raw.githubuser
     
 addscript(5598577415,"Frog Simulator [AUTO-FARM, AUTO-BUY, MORE!]", "FrogSimulatorAUTOFARMAUTOBUYMORE", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FrogSimulatorAUTOFARMAUTOBUYMORE.lua")
                     
+                    
+addscriptexist(292439477, "PhantomForcesNOGUNBOBSWAY", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PhantomForcesNOGUNBOBSWAY.lua")
