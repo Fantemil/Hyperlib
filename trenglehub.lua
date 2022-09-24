@@ -1790,3 +1790,6 @@ addscriptexist(4616652839, "ShindoLifeAutoKeyAutoFarm", "astrofile", "https://ra
     
 addscript(9983979661,"Dragon Farm Simulator [AutoCollect]", "DragonFarmSimulatorAutoCollect", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DragonFarmSimulatorAutoCollect.lua")
                     
+    
+addscript(5777099015,"Cheese Escape [AutoCollectCheese, Godmode]", "CheeseEscapeAutoCollectCheeseGodmode", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CheeseEscapeAutoCollectCheeseGodmode.lua")
+                    
