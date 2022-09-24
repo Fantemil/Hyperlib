@@ -7608,3 +7608,5 @@ addscript(914010731,"Ro-Ghoul [Farm, AutoEquip, Auto Skills]", "RoGhoulFarmAutoE
     
 addscript(8311081337,"One Piece", "OnePieceBurstingRageInfiniteStatsAutoFarmChestFarm", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OnePieceBurstingRageInfiniteStatsAutoFarmChestFarm.lua")
                     
+                    
+addscriptexist(370731277, "MeepCityAvatarCloner", "rbxscript", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MeepCityAvatarCloner.lua")
