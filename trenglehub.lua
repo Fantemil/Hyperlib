@@ -2000,3 +2000,5 @@ addscript(10047913840,"Training Simulator [AutoLift, AutoRebirth]", "TrainingSim
     
 addscript(3458435516,"Limited Simulator 2 [AutoBuy]", "LimitedSimulator2AutoBuy", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LimitedSimulator2AutoBuy.lua")
                     
+                    
+addscriptexist(142823291, "MurderMystery2KillAuraGodmode", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MurderMystery2KillAuraGodmode.lua")
