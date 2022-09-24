@@ -1240,3 +1240,5 @@ addscript(6753004901,"Swing City ", "SwingCityUnlockAllSkillsFarmMoneyInstantQue
     
 addscript(5343994291,"Outlaster ", "OutlasterAutoFishEspInfJump", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OutlasterAutoFishEspInfJump.lua")
                     
+                    
+addscriptexist(10439295403, "AnimeChampionsKillAuraResetSkillPointsAutoQuest", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AnimeChampionsKillAuraResetSkillPointsAutoQuest.lua")
