@@ -2684,3 +2684,5 @@ addscript(9792312812,"Vampire Fighters [Kill All, Inf Stam]", "VampireFightersKi
 addscriptexist(8737602449, "PLSDONATEAutoFarm", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PLSDONATEAutoFarm.lua")
                     
 addscriptexist(6299805723, "FightersEraInfMoney", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FightersEraInfMoney.lua")
+                    
+addscriptexist(4036494886, "GunSimulatorInfiniteEverythingCustomStats", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/GunSimulatorInfiniteEverythingCustomStats.lua")
