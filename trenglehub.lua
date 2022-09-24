@@ -5757,3 +5757,5 @@ addscriptexist(2788229376, "DaHoodGodmode", "Qalnik", "https://raw.githubusercon
 addscriptexist(8540168650, "StandUprightRebootedSortToolsItemsFarmAutoFarm", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/StandUprightRebootedSortToolsItemsFarmAutoFarm.lua")
                     
 addscriptexist(9344944754, "HunterxOmenAutoSpeedTraining", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/HunterxOmenAutoSpeedTraining.lua")
+                    
+addscriptexist(9344944754, "HunterxOmenAutospeed", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/HunterxOmenAutospeed.lua")
