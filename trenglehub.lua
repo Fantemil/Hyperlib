@@ -7524,3 +7524,5 @@ addscript(6879598157,"Roblox [Animation Logger]", "RobloxAnimationLogger", "Qaln
                     
                     
 addscriptexist(8592863835, "MagnetSimulator218XAutoSellScript", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MagnetSimulator218XAutoSellScript.lua")
+                    
+addscriptexist(574407221, "SuperHeroTycoonStealMoneyOnceStealMoneyCratesDeletelaserDoors", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SuperHeroTycoonStealMoneyOnceStealMoneyCratesDeletelaserDoors.lua")
