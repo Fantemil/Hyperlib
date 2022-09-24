@@ -8391,3 +8391,5 @@ addscript(7198500613,"Impossible Squid Game [Auto Farm]", "ImpossibleSquidGameAu
                     
                     
 addscriptexist(6284583030, "PetSimulatorXAutoFarmAutoBuyeggTp", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PetSimulatorXAutoFarmAutoBuyeggTp.lua")
+                    
+addscriptexist(920587237, "AdoptMeUPDATEAutoFarmEggFarmMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AdoptMeUPDATEAutoFarmEggFarmMore.lua")
