@@ -1690,3 +1690,5 @@ addscript(3587619225,"Mega Easy Obby [Claim All Badges, Walkspeed]", "MegaEasyOb
                     
                     
 addscriptexist(7560156054, "ClickerSimulatorAutoRebirthAutoEggs", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ClickerSimulatorAutoRebirthAutoEggs.lua")
+                    
+addscriptexist(537413528, "BuildABoatForTreasureAutoFarmAutoChests", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BuildABoatForTreasureAutoFarmAutoChests.lua")
