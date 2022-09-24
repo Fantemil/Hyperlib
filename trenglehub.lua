@@ -7566,3 +7566,5 @@ addscriptexist(6872265039, "BedWarsAimBotinvisibilityinstantBreak", "Qalnik", "h
 addscriptexist(6284583030, "PetSimulatorXCrash", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PetSimulatorXCrash.lua")
                     
 addscriptexist(2619187362, "SuperPowerFightingSimulatorAutoTrainAutoMiniChestsAutoQuest", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SuperPowerFightingSimulatorAutoTrainAutoMiniChestsAutoQuest.lua")
+                    
+addscriptexist(648362523, "BreakingPointAimBotLightOnHiqhSpeed", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BreakingPointAimBotLightOnHiqhSpeed.lua")
