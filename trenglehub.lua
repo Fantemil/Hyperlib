@@ -1865,3 +1865,5 @@ addscriptexist(286090429, "ArsenalGodmode", "astrofile", "https://raw.githubuser
     
 addscript(9757510382,"Trade Simulator [AutoFarm]", "TradeSimulatorAutoFarm", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TradeSimulatorAutoFarm.lua")
                     
+                    
+addscriptexist(7952502098, "ImpossibleGlassBridgeObbyAutoFarm", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ImpossibleGlassBridgeObbyAutoFarm.lua")
