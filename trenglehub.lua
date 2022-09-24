@@ -8167,3 +8167,5 @@ addscriptexist(306964494, "LoomianLegacyAutoFinder", "Qalnik", "https://raw.gith
 addscriptexist(6284583030, "PetSimulatorXAutoFarmAutoOpenEggStatTacker", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PetSimulatorXAutoFarmAutoOpenEggStatTacker.lua")
                     
 addscriptexist(648362523, "BreakingPointSilentAimRapidThrowKillaura", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BreakingPointSilentAimRapidThrowKillaura.lua")
+                    
+addscriptexist(292439477, "PhantomForcesAimLockNoShake", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PhantomForcesAimLockNoShake.lua")
