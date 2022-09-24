@@ -2044,3 +2044,5 @@ addscriptexist(2788229376, "DaHoodLegitSilentAim", "astrofile", "https://raw.git
 addscriptexist(7952502098, "ImpossibleGlassBridgeObbyCorrectPath", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ImpossibleGlassBridgeObbyCorrectPath.lua")
                     
 addscriptexist(7952502098, "ImpossibleGlassBridgeObbyInfMoney", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ImpossibleGlassBridgeObbyInfMoney.lua")
+                    
+addscriptexist(6516141723, "DOORSAutoSkipRooms", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DOORSAutoSkipRooms.lua")
