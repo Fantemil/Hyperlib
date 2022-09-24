@@ -7291,3 +7291,5 @@ addscript(5911084042,"Specter [Auto Farm]", "SpecterAutoFarm", "Terni", "https:/
                     
                     
 addscriptexist(4753520418, "TheHooodSilentAIM", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TheHooodSilentAIM.lua")
+                    
+addscriptexist(3823781113, "SaberSimulatorStrengthFarmAutoSellSaferBossFarm", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SaberSimulatorStrengthFarmAutoSellSaferBossFarm.lua")
