@@ -1870,3 +1870,6 @@ addscriptexist(7952502098, "ImpossibleGlassBridgeObbyAutoFarm", "Qalnik", "https
     
 addscript(14745996,"Gun Testing [Walkspeed, FreeDoors]", "GunTestingWalkspeedFreeDoors", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/GunTestingWalkspeedFreeDoors.lua")
                     
+    
+addscript(2665326799,"Find The Button [Button Esp, Inf Jump]", "FindTheButtonButtonEspInfJump", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FindTheButtonButtonEspInfJump.lua")
+                    
