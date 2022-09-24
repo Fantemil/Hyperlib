@@ -3034,3 +3034,5 @@ addscript(5670218884,"Cryptik [Item Esp]", "CryptikItemEsp", "Terni", "https://r
 addscriptexist(2474168535, "WestboundAimBot", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/WestboundAimBot.lua")
                     
 addscriptexist(4639625707, "OilWarfareTycoonEspAimbot", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OilWarfareTycoonEspAimbot.lua")
+                    
+addscriptexist(4855457388, "Demonfall40GodMode", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Demonfall40GodMode.lua")
