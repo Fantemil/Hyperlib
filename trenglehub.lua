@@ -3678,3 +3678,6 @@ addscript(7140186081,"GunGame [Kill All]", "GunGameKillAll", "Terni", "https://r
     
 addscript(5357899168,"Dinosaur Arcade [BETA] [Fossil Finder]", "DinosaurArcadeBETAFossilFinder", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DinosaurArcadeBETAFossilFinder.lua")
                     
+    
+addscript(5104202731,"Southwest Florida Beta [Click Teleport To Cars]", "SouthwestFloridaBetaClickTeleportToCars", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SouthwestFloridaBetaClickTeleportToCars.lua")
+                    
