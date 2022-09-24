@@ -3113,3 +3113,5 @@ addscript(7503115095,"Pop It Trading [Scam script]", "PopItTradingScamscript", "
     
 addscript(333164326,"Admin House [CMD AutoCrasher]", "AdminHouseCMDAutoCrasher", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AdminHouseCMDAutoCrasher.lua")
                     
+                    
+addscriptexist(9926433554, "BlastMiningSimulatorInfMoney", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BlastMiningSimulatorInfMoney.lua")
