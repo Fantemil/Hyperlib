@@ -3637,3 +3637,6 @@ addscript(6249640453,"Classic Retro Craftwars [Infinite Cash]", "ClassicRetroCra
                     
                     
 addscriptexist(6570234816, "ManoCountyRoleplayKillAll", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ManoCountyRoleplayKillAll.lua")
+    
+addscript(9945521676,"Roblox [Hide VoiceChat Microphone on top of your head]", "RobloxHideVoiceChatMicrophoneontopofyourhead", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RobloxHideVoiceChatMicrophoneontopofyourhead.lua")
+                    
