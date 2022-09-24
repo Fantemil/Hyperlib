@@ -7584,3 +7584,5 @@ addscript(990566015,"Cursed Islands [Auto Farm, Auto buy, Fly]", "CursedIslandsA
 addscriptexist(6284583030, "PetSimulatorXAutoEggsAutoFarmSendAllPets", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PetSimulatorXAutoEggsAutoFarmSendAllPets.lua")
                     
 addscriptexist(1240123653, "ZombieAttackAutoFarmEquipAllGunsEquipAllKnifes", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ZombieAttackAutoFarmEquipAllGunsEquipAllKnifes.lua")
+                    
+addscriptexist(2512643572, "BubbleGumSimulatorAutoFarmAutoSellAutoEggs", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BubbleGumSimulatorAutoFarmAutoSellAutoEggs.lua")
