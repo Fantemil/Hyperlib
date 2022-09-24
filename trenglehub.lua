@@ -2270,3 +2270,6 @@ addscriptexist(155615604, "PrisonLifeInfStaminaRemovedoors", "astrofile", "https
 addscriptexist(3101667897, "LegendsOfSpeed⚡AutoFarmAutoRebirth", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LegendsOfSpeed⚡AutoFarmAutoRebirth.lua")
                     
 addscriptexist(189707, "NaturalDisasterSurvival", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NaturalDisasterSurvival.lua")
+    
+addscript(9940051005,"Blox Legends [AutoCollect]", "BloxLegendsAutoCollect", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BloxLegendsAutoCollect.lua")
+                    
