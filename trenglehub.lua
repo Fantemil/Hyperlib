@@ -2010,3 +2010,6 @@ addscript(6677573193,"Axe Champions Simulator [AutoSell, AutoHatch]", "AxeChampi
                     
                     
 addscriptexist(9414511685, "DriveCarsDownAHillAutoFarm", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DriveCarsDownAHillAutoFarm.lua")
+    
+addscript(5023820864,"Trade Tower [Auto Click, Auto Upgrade]", "TradeTowerAutoClickAutoUpgrade", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TradeTowerAutoClickAutoUpgrade.lua")
+                    
