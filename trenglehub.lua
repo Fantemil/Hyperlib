@@ -2633,3 +2633,5 @@ addscriptexist(7991339063, "RainbowFriends", "astrofile", "https://raw.githubuse
 addscriptexist(4951858512, "VictoryRaceAutoWinFly", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/VictoryRaceAutoWinFly.lua")
                     
 addscriptexist(621129760, "KATInfAmmo", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/KATInfAmmo.lua")
+                    
+addscriptexist(10157366004, "PetTappingSimulatorAutoFarmAutoHatch", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PetTappingSimulatorAutoFarmAutoHatch.lua")
