@@ -1358,3 +1358,5 @@ addscriptexist(6284583030, "PetSimulatorXGUIAutoFarmChestFarmMore", "Terni", "ht
     
 addscript(8540346411,"Rebirth Champions X [Auto Click, Auto Rebirth, Auto Open Egg]", "RebirthChampionsXAutoClickAutoRebirthAutoOpenEgg", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RebirthChampionsXAutoClickAutoRebirthAutoOpenEgg.lua")
                     
+                    
+addscriptexist(9498006165, "SlimeTowerTycoonAutoCollectAutobuySlimesAutoMerge", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SlimeTowerTycoonAutoCollectAutobuySlimesAutoMerge.lua")
