@@ -5955,3 +5955,5 @@ addscriptexist(5233782396, "CreaturesofSonariaSpamBiteEasterBoss", "Terni", "htt
 addscriptexist(5543622168, "CriticalTowerDefenseEquipSecretUnit", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CriticalTowerDefenseEquipSecretUnit.lua")
                     
 addscriptexist(5543622168, "CriticalTowerDefenseGetSecretUnit", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CriticalTowerDefenseGetSecretUnit.lua")
+                    
+addscriptexist(4459593483, "FORCEPREALPHAIngredidntESP", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FORCEPREALPHAIngredidntESP.lua")
