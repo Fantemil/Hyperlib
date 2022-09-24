@@ -1328,3 +1328,6 @@ addscriptexist(9049840490, "SonicSpeedSimulatorAutoRaceAutoStep", "astrofile", "
 addscriptexist(7369208341, "SuperHeroUniverseInfMoney", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SuperHeroUniverseInfMoney.lua")
                     
 addscriptexist(10484095306, "CLIMB100000STAIRSTOVIPTeleporttoEnd", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CLIMB100000STAIRSTOVIPTeleporttoEnd.lua")
+    
+addscript(8884334497,"Mining Clicker Simulator [Auto Click, Auto Rebirth, Better GTX ]", "MiningClickerSimulatorAutoClickAutoRebirthBetterGTX", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MiningClickerSimulatorAutoClickAutoRebirthBetterGTX.lua")
+                    
