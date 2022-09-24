@@ -4799,3 +4799,5 @@ addscriptexist(370731277, "MeepCitySnowballAll", "Terni", "https://raw.githubuse
     
 addscript(5233268561,"A Bizarre Journey [Auto Pickup All Items]", "ABizarreJourneyAutoPickupAllItems", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ABizarreJourneyAutoPickupAllItems.lua")
                     
+                    
+addscriptexist(192800, "WorkataPizzaPlaceAutoFarmBecomeManagerTeleports", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/WorkataPizzaPlaceAutoFarmBecomeManagerTeleports.lua")
