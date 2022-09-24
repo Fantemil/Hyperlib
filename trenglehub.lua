@@ -7982,3 +7982,6 @@ addscriptexist(7791873535, "REALISTICHOODInfMoney", "Qalnik", "https://raw.githu
 addscriptexist(7860844204, "LifeSentencePlayerespAttackauraRobesp", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LifeSentencePlayerespAttackauraRobesp.lua")
                     
 addscriptexist(7187281400, "TouchFootballWorldCupAutoGoal", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TouchFootballWorldCupAutoGoal.lua")
+    
+addscript(8105323516,"Trash Game [Infinite Moeny, Auto Collect Trash, Auto Rebirth]", "TrashGameInfiniteMoenyAutoCollectTrashAutoRebirth", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TrashGameInfiniteMoenyAutoCollectTrashAutoRebirth.lua")
+                    
