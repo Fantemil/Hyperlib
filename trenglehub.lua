@@ -6238,3 +6238,5 @@ addscriptexist(8781849572, "StarSimulatorBetaLoopFarms–LoopConversions–Upgra
 addscriptexist(6897226634, "TimberExpandHitboxCollectLogsMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TimberExpandHitboxCollectLogsMore.lua")
                     
 addscriptexist(8528736393, "BeatlandAutoFarmRobloxEvent", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BeatlandAutoFarmRobloxEvent.lua")
+                    
+addscriptexist(6808589067, "ShindenAutoHandsing", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ShindenAutoHandsing.lua")
