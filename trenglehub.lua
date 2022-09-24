@@ -4213,3 +4213,5 @@ addscript(6155643742,"Fall Block [Click To Activate Tiles Tool]", "FallBlockClic
                     
                     
 addscriptexist(6155643742, "FallBlockRuinGame", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FallBlockRuinGame.lua")
+                    
+addscriptexist(8554378337, "SwordSimulatorAutoFarm", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SwordSimulatorAutoFarm.lua")
