@@ -6863,3 +6863,5 @@ addscriptexist(8377686524, "UndertaleLastResetAllWeapons", "Terni", "https://raw
 addscriptexist(8377686524, "UndertaleLastResetInstaKillEverythingDOESNTWORKWITHBOSSPHASES", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/UndertaleLastResetInstaKillEverythingDOESNTWORKWITHBOSSPHASES.lua")
                     
 addscriptexist(7800644383, "UntitledHoodLettuceAutoFarmFast", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/UntitledHoodLettuceAutoFarmFast.lua")
+                    
+addscriptexist(6667701234, "FateXeroTeleportAllItems", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FateXeroTeleportAllItems.lua")
