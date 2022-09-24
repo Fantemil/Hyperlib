@@ -3959,3 +3959,5 @@ addscriptexist(6872265039, "BedWarsInstaKill", "Terni", "https://raw.githubuserc
     
 addscript(4237861040,"Treacherous Tower [GUI - Auto Farm]", "TreacherousTowerGUIAutoFarm", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TreacherousTowerGUIAutoFarm.lua")
                     
+                    
+addscriptexist(9551640993, "MiningSimulator2RemoveEggAnimations", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MiningSimulator2RemoveEggAnimations.lua")
