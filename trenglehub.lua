@@ -6384,3 +6384,5 @@ addscriptexist(3623096087, "MuscleLegendsAutoFarmNewGUI", "Terni", "https://raw.
     
 addscript(8644729967,"Zone of Alienation [Kill All Mobs]", "ZoneofAlienationKillAllMobs", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ZoneofAlienationKillAllMobs.lua")
                     
+                    
+addscriptexist(6401440818, "MONOLITHDEFENSEInfiniteTechUpgradePoints", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MONOLITHDEFENSEInfiniteTechUpgradePoints.lua")
