@@ -2553,3 +2553,5 @@ addscript(294790062,"Roblox Titanic [Auto Farm, Walkspeed]", "RobloxTitanicAutoF
 addscriptexist(8204899140, "FootballFusion2InfJump", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FootballFusion2InfJump.lua")
                     
 addscriptexist(9970551995, "TouchTheGrassSimulatorInfcoins", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TouchTheGrassSimulatorInfcoins.lua")
+                    
+addscriptexist(10524502174, "OnePunchFightersAutoClick", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OnePunchFightersAutoClick.lua")
