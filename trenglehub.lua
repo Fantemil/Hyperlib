@@ -1268,3 +1268,5 @@ addscript(7075737729,"Hoop Central 6 ", "HoopCentral6AntiCheatBypasssBypassItemB
 addscriptexist(6753004901, "SwingCityUnlockAllSkillsFarmMoneyExpFAST", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SwingCityUnlockAllSkillsFarmMoneyExpFAST.lua")
                     
 addscriptexist(4639625707, "WarfareTycoonKillPlayersKillitemKillAll", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/WarfareTycoonKillPlayersKillitemKillAll.lua")
+                    
+addscriptexist(2788229376, "DaHoodNoClipAutoFarmFly", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DaHoodNoClipAutoFarmFly.lua")
