@@ -7235,3 +7235,5 @@ addscript(6722284015,"1v1 pistol [Silent AIM]", "1v1pistolSilentAIM", "Terni", "
     
 addscript(8514738257,"SBRP [Infinite SP]", "SBRPInfiniteSP", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SBRPInfiniteSP.lua")
                     
+                    
+addscriptexist(1224212277, "MadCityAutoWashingLaundry", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MadCityAutoWashingLaundry.lua")
