@@ -5282,3 +5282,6 @@ addscript(9495079370,"Collecting Simulator [Auto Weights, Sell, Open Source]", "
                     
                     
 addscriptexist(7622046644, "MonsterGhoulChangetokagunesquinquesyouwant", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MonsterGhoulChangetokagunesquinquesyouwant.lua")
+    
+addscript(6085581583,"Project Hero [Kill Aura, Equip All Quirks, Mob Farm]", "ProjectHeroKillAuraEquipAllQuirksMobFarm", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ProjectHeroKillAuraEquipAllQuirksMobFarm.lua")
+                    
