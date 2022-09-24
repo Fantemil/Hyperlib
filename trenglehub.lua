@@ -4444,3 +4444,6 @@ addscript(2602644507,"Clone Wars Enrage [Kill All]", "CloneWarsEnrageKillAll", "
 addscriptexist(9726345231, "DuolingoGameHubAutoFarm", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DuolingoGameHubAutoFarm.lua")
                     
 addscriptexist(9726345231, "DuolingoGameHubInfiniteCoins", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DuolingoGameHubInfiniteCoins.lua")
+    
+addscript(4733278992,"Sword Blox Online Reibirth [GUI Auto Craft, Auto Stats & More!]", "SwordBloxOnlineReibirthGUIAutoCraftAutoStatsMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SwordBloxOnlineReibirthGUIAutoCraftAutoStatsMore.lua")
+                    
