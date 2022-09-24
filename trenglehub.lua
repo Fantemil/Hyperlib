@@ -3623,3 +3623,5 @@ addscriptexist(5956785391, "ProjectSlayerClaimSpin", "Terni", "https://raw.githu
 addscriptexist(5956785391, "ProjectSlayersAutoFastSpin", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ProjectSlayersAutoFastSpin.lua")
                     
 addscriptexist(10118559731, "nicosnextbotsBotESPPlayerESPMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/nicosnextbotsBotESPPlayerESPMore.lua")
+                    
+addscriptexist(2413927524, "THERAKEKillEditionInfiniteStamina", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/THERAKEKillEditionInfiniteStamina.lua")
