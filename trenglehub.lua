@@ -7558,3 +7558,5 @@ addscriptexist(6125809531, "UntitledAttackOnTitanAutoFarmKillAura", "Terni", "ht
     
 addscript(7499189111,"Encounters [Kill Player, Kick Player, inf Mana]", "EncountersKillPlayerKickPlayerinfMana", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/EncountersKillPlayerKickPlayerinfMana.lua")
                     
+                    
+addscriptexist(3956818381, "NinjaLegendsAutoSwingAutoEquipSwordAutoSell", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NinjaLegendsAutoSwingAutoEquipSwordAutoSell.lua")
