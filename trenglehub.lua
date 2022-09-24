@@ -1502,3 +1502,6 @@ addscript(292439477,"Phantom Forces [Esp]", "PhantomForcesEsp", "Qalnik", "https
                     
                     
 addscriptexist(6516141723, "DOORSSkiplvlsAntiscreechAlwayswingames", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DOORSSkiplvlsAntiscreechAlwayswingames.lua")
+    
+addscript(78998816704,"RB World 4 [AimBot]", "RBWorld4AimBot", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RBWorld4AimBot.lua")
+                    
