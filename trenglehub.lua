@@ -1787,3 +1787,6 @@ addscript(6973274562,"Melee Mash Revenge! [Godmode, KillAll]", "MeleeMashRevenge
                     
                     
 addscriptexist(4616652839, "ShindoLifeAutoKeyAutoFarm", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ShindoLifeAutoKeyAutoFarm.lua")
+    
+addscript(9983979661,"Dragon Farm Simulator [AutoCollect]", "DragonFarmSimulatorAutoCollect", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DragonFarmSimulatorAutoCollect.lua")
+                    
