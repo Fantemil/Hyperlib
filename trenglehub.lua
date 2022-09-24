@@ -5440,3 +5440,6 @@ addscriptexist(6969185078, "ElementalAwakeningAutoSpinEasySetup", "Terni", "http
 addscriptexist(1224212277, "MadCityAntiScreenShake", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MadCityAntiScreenShake.lua")
                     
 addscriptexist(9344944754, "HunterxAthenaAutoBuyApples", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/HunterxAthenaAutoBuyApples.lua")
+    
+addscript(705844193,"One Piece Online Rebirth [Grab All Chests}", "OnePieceOnlineRebirthGrabAllChests", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OnePieceOnlineRebirthGrabAllChests.lua")
+                    
