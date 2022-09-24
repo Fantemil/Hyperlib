@@ -4424,3 +4424,5 @@ addscript(4195834406,"Dragon Ball Online Generations [Auto Teleport, Kill PLayer
 addscriptexist(606849621, "JailbreakKeycardUnlockdoors", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/JailbreakKeycardUnlockdoors.lua")
                     
 addscriptexist(9786213478, "TreatSimulatorIsntantbite", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TreatSimulatorIsntantbite.lua")
+                    
+addscriptexist(9017974931, "ValobloxSilentAimKillAllInfiniteAmmo", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ValobloxSilentAimKillAllInfiniteAmmo.lua")
