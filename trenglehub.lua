@@ -7012,3 +7012,5 @@ addscript(8966584990,"Orthoxia Alpha [GodMode]", "OrthoxiaAlphaGodMode", "Terni"
                     
                     
 addscriptexist(4954752502, "TowerofMiseryAutoWinTeleportToWinnerRoom", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TowerofMiseryAutoWinTeleportToWinnerRoom.lua")
+                    
+addscriptexist(7305309231, "TaxiBossINFINITEMONEYFARMSCRIPT100KIN50SECONDS", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TaxiBossINFINITEMONEYFARMSCRIPT100KIN50SECONDS.lua")
