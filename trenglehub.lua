@@ -8124,3 +8124,5 @@ addscriptexist(6466630690, "CatInfectionLoopKillAll", "Terni", "https://raw.gith
 addscriptexist(5993942214, "RushPointInfAmmo", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RushPointInfAmmo.lua")
                     
 addscriptexist(4934471106, "MyHeroManiaFarmMobsHidename", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MyHeroManiaFarmMobsHidename.lua")
+                    
+addscriptexist(6938803436, "AnimeDimensionsSimulatorAutoJoinLobbyAutoKillMobs", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AnimeDimensionsSimulatorAutoJoinLobbyAutoKillMobs.lua")
