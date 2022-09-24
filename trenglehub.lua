@@ -1841,3 +1841,5 @@ addscript(10188345824,"Festival Tycoon (Another Script) [Inf Cash]", "FestivalTy
                     
                     
 addscriptexist(9648883891, "FestivalTycoonGetFreeItems", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FestivalTycoonGetFreeItems.lua")
+                    
+addscriptexist(286090429, "ArsenalAnticheatDisabler", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ArsenalAnticheatDisabler.lua")
