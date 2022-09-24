@@ -4606,3 +4606,5 @@ addscriptexist(9551640993, "MiningSimulator2AutoForge", "Terni", "https://raw.gi
     
 addscript(3271747724,"MEGA Boss Survival [Wins Auto Farm]", "MEGABossSurvivalWinsAutoFarm", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MEGABossSurvivalWinsAutoFarm.lua")
                     
+                    
+addscriptexist(413424176, "CloneTycoon2InfMoney", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CloneTycoon2InfMoney.lua")
