@@ -6431,3 +6431,6 @@ addscript(8897454112,"Pet Salon Tycoon [OP Auto Farm]", "PetSalonTycoonOPAutoFar
                     
                     
 addscriptexist(5116869569, "DoodleWorldAutoFarm", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DoodleWorldAutoFarm.lua")
+    
+addscript(3210622855,"Manner's Badge Walk [Get All Sky World Badges]", "MannersBadgeWalkGetAllSkyWorldBadges", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MannersBadgeWalkGetAllSkyWorldBadges.lua")
+                    
