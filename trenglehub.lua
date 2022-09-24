@@ -7469,3 +7469,6 @@ addscriptexist(301549746, "CounterBloxWallBang", "Qalnik", "https://raw.githubus
 addscriptexist(3102144307, "AnimeClickerSimulatorAutoClickAutoRebirthOpenStar", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AnimeClickerSimulatorAutoClickAutoRebirthOpenStar.lua")
                     
 addscriptexist(13822889, "LumberTycoon2FullbrightKeystrokesRejoinServer", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LumberTycoon2FullbrightKeystrokesRejoinServer.lua")
+    
+addscript(6895636084,"Myth Piece (Beta) [Double Stats]", "MythPieceBetaDoubleStats", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MythPieceBetaDoubleStats.lua")
+                    
