@@ -2481,3 +2481,5 @@ addscript(8573962925,"Alternate Battlegrounds [Auto Click, PlayerSnipe]", "Alter
                     
                     
 addscriptexist(3527629287, "BigPaintballAimbotFov", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BigPaintballAimbotFov.lua")
+                    
+addscriptexist(286090429, "ArsenalAimbotWallcheck", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ArsenalAimbotWallcheck.lua")
