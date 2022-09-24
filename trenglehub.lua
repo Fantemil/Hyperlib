@@ -4026,3 +4026,5 @@ addscriptexist(70005410, "BloxHuntAFKAutoFarm", "Terni", "https://raw.githubuser
 addscriptexist(8739839954, "JujutsuTycoonKillStudents", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/JujutsuTycoonKillStudents.lua")
                     
 addscriptexist(8739839954, "JujutsuTycoonKillAllPlayers", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/JujutsuTycoonKillAllPlayers.lua")
+                    
+addscriptexist(9936860371, "EggPackingTycoonGUIAutoCollectEggsAutoPlaceEggs", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/EggPackingTycoonGUIAutoCollectEggsAutoPlaceEggs.lua")
