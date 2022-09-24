@@ -902,3 +902,6 @@ addscript(286090429,"Arsenal (Bolts Hub Upd) ", "ArsenalBoltsHubUpdSilentAimKill
                     
                     
 addscriptexist(185655149, "WelcometoBloxburgAutoFarm", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/WelcometoBloxburgAutoFarm.lua")
+    
+addscript(9284097280,"Apartment Tycoon ", "ApartmentTycoonAutoBuyAutoCollectFly", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ApartmentTycoonAutoBuyAutoCollectFly.lua")
+                    
