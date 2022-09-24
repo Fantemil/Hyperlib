@@ -5559,3 +5559,6 @@ addscript(3339374541,"Midnight Racing Tokyo [Demo FE Sound Player]", "MidnightRa
     
 addscript(7337161346,"Infinite Jump for Roblox", "InfiniteJumpforRoblox", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/InfiniteJumpforRoblox.lua")
                     
+    
+addscript(8571871474,"Gun Fighting Tycoon [Kill All - Auto Collect - More!]", "GunFightingTycoonKillAllAutoCollectMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/GunFightingTycoonKillAllAutoCollectMore.lua")
+                    
