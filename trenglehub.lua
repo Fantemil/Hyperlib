@@ -5980,3 +5980,6 @@ addscriptexist(3467049496, "MARVELBattlegroundsGetAllGamepasses", "Terni", "http
     
 addscript(171391948,"Vehicle Simulator [Auto Farm GUI]", "VehicleSimulatorAutoFarmGUI", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/VehicleSimulatorAutoFarmGUI.lua")
                     
+    
+addscript(3272915504,"World of Magic [New ESP]", "WorldofMagicNewESP", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/WorldofMagicNewESP.lua")
+                    
