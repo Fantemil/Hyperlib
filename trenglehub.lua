@@ -4265,3 +4265,5 @@ addscript(7261261021,"Raging Seas [Inf Stamina, Fruit Spawner, Auto Stats]", "Ra
     
 addscript(6644653750,"Paper.IO [Semi Auto Win]", "PaperIOSemiAutoWin", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PaperIOSemiAutoWin.lua")
                     
+                    
+addscriptexist(9017974931, "ValobloxATOMICVALOBLOXGUI", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ValobloxATOMICVALOBLOXGUI.lua")
