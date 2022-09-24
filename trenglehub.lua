@@ -2654,3 +2654,6 @@ addscript(3234050617,"Left 2 Die [Infinite Ammo]", "Left2DieInfiniteAmmo", "Tern
 addscriptexist(621129760, "KnifeAbilityTestGodMode", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/KnifeAbilityTestGodMode.lua")
                     
 addscriptexist(340227283, "RoBowlingAimbotHitboxExtender", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RoBowlingAimbotHitboxExtender.lua")
+    
+addscript(6950767274,"Fighter's Era [Roadwork Load]", "FightersEraRoadworkLoad", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FightersEraRoadworkLoad.lua")
+                    
