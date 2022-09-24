@@ -7388,3 +7388,6 @@ addscript(1240123653,"Zombie Attack [Auto Farm, Walk Speed, Noclip]", "ZombieAtt
 addscriptexist(6284583030, "PetSimulatorXGhostPetXGUI", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PetSimulatorXGhostPetXGUI.lua")
                     
 addscriptexist(286090429, "ArsenalVALENTINESUpdateAutoFarm", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ArsenalVALENTINESUpdateAutoFarm.lua")
+    
+addscript(1021289358,"Football Universe [Magnets - Hitbox Increase & More!]", "FootballUniverseMagnetsHitboxIncreaseMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FootballUniverseMagnetsHitboxIncreaseMore.lua")
+                    
