@@ -4118,3 +4118,5 @@ addscript(8603729161,"walk 50000 studs for nothing [Max studs in under 1 minute]
                     
                     
 addscriptexist(9498006165, "TappingSimulatorGUIAutoRebirthAutoUpgradesMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TappingSimulatorGUIAutoRebirthAutoUpgradesMore.lua")
+                    
+addscriptexist(6938803436, "AnimeDimensionsSimulatorGUIAutoLevelFarmRaidMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AnimeDimensionsSimulatorGUIAutoLevelFarmRaidMore.lua")
