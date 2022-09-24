@@ -2414,3 +2414,6 @@ addscriptexist(9585537847, "SHADOVISRPGAutoFarm", "astrofile", "https://raw.gith
     
 addscript(6456351776,"Kaiju Paradise [No CD Grab, Walkspeed]", "KaijuParadiseNoCDGrabWalkspeed", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/KaijuParadiseNoCDGrabWalkspeed.lua")
                     
+    
+addscript(6802248248,"SAITAMANIA [Auto Spin, Rebirth]", "SAITAMANIAAutoSpinRebirth", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SAITAMANIAAutoSpinRebirth.lua")
+                    
