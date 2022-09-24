@@ -3161,3 +3161,6 @@ addscript(7074772062,"Roblox [Drawing Lib Player Radar]", "RobloxDrawingLibPlaye
                     
                     
 addscriptexist(3956818381, "NinjaLegendsAutoFarmAutoSellAutoCollectCh", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NinjaLegendsAutoFarmAutoSellAutoCollectCh.lua")
+    
+addscript(9898710720,"Money Tycoon [Auto Farm]", "MoneyTycoonAutoFarm", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MoneyTycoonAutoFarm.lua")
+                    
