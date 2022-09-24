@@ -6621,3 +6621,5 @@ addscriptexist(5490351219, "X100CLICKSClickerMadnessAutoClickAutoRebirthGamepass
 addscriptexist(1417427737, "MiningSimulatorOpenBuyMenuGotoCandyLandSellBlocks", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MiningSimulatorOpenBuyMenuGotoCandyLandSellBlocks.lua")
                     
 addscriptexist(8592863835, "MagnetSimulator2AutoFarmAutoSellAutoOpenEgg", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MagnetSimulator2AutoFarmAutoSellAutoOpenEgg.lua")
+                    
+addscriptexist(8232438881, "ThiefSimulatorRobFarmAutoSellATMFarm", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ThiefSimulatorRobFarmAutoSellATMFarm.lua")
