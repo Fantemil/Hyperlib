@@ -8274,3 +8274,5 @@ addscriptexist(2809202155, "YourBizarreAdventureItemAutoFarm", "Terni", "https:/
 addscriptexist(3102144307, "AnimeClickerSimulatorAutoClickAutoOpenEggAutoRebirth", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AnimeClickerSimulatorAutoClickAutoOpenEggAutoRebirth.lua")
                     
 addscriptexist(306964494, "LoomianLegacyAutoEncounter", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LoomianLegacyAutoEncounter.lua")
+                    
+addscriptexist(2727067538, "WorldZeroKillAuraAutoUpdradeAutoSell", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/WorldZeroKillAuraAutoUpdradeAutoSell.lua")
