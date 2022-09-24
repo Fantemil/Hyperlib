@@ -8420,3 +8420,5 @@ addscriptexist(4042427666, "AnimeFightingSimulatorAutoFarmAutoFarmAllAitJump", "
     
 addscript(5535087806,"Tapping Mania [Easy Stats, Auto-Farm]", "TappingManiaEasyStatsAutoFarm", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TappingManiaEasyStatsAutoFarm.lua")
                     
+                    
+addscriptexist(6403373529, "SlapBattlesKillAuraAntiRagdollAntiTimeStop", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SlapBattlesKillAuraAntiRagdollAntiTimeStop.lua")
