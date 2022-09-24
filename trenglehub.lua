@@ -6256,3 +6256,6 @@ addscriptexist(3101667897, "LegendsOfSpeedAutoFarmGUI", "Terni", "https://raw.gi
 addscriptexist(7371240697, "GiantDancingSimulatorCollectGems", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/GiantDancingSimulatorCollectGems.lua")
                     
 addscriptexist(4588604953, "CriminalityNoSpread", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CriminalityNoSpread.lua")
+    
+addscript(6960816467,"Untitled Door Game 2 [Get All Badges]", "UntitledDoorGame2GetAllBadges", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/UntitledDoorGame2GetAllBadges.lua")
+                    
