@@ -6103,3 +6103,5 @@ addscriptexist(8540346411, "RebirthChampionsXAutoOpenEggsUnlockAllAreasTeleportT
 addscriptexist(5783581, "TPSUltimateSoccerInfStaminaAutogoalShootfast", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TPSUltimateSoccerInfStaminaAutogoalShootfast.lua")
                     
 addscriptexist(7083634873, "RobloxNewFPSBooster", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RobloxNewFPSBooster.lua")
+                    
+addscriptexist(6193049807, "ThaHoodGetBillionsOfCashWithinSeconds", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ThaHoodGetBillionsOfCashWithinSeconds.lua")
