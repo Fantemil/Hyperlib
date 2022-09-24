@@ -1066,3 +1066,5 @@ addscript(9030362964,"Field Goal Simulator ", "FieldGoalSimulatorAutoFarmGoals",
                     
                     
 addscriptexist(10320240572, "EasyRaceClickerAutoRebirthAutoWinRacesAutoSpeed", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/EasyRaceClickerAutoRebirthAutoWinRacesAutoSpeed.lua")
+                    
+addscriptexist(7952502098, "ImpossibleGlassBridgeObbyAutoWinInfinityCash", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ImpossibleGlassBridgeObbyAutoWinInfinityCash.lua")
