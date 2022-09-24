@@ -8570,3 +8570,5 @@ addscriptexist(71315343, "DragonBallRageAutoFarmAutoEnergy", "Terni", "https://r
 addscriptexist(71315343, "DragonBallRageFEWorkingAurasPlayMusicFE", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DragonBallRageFEWorkingAurasPlayMusicFE.lua")
                     
 addscriptexist(6191637341, "WeaponSimulator2AutoFarm", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/WeaponSimulator2AutoFarm.lua")
+                    
+addscriptexist(7549229959, "SquidGameTheGlassBridgeAutoFarm", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SquidGameTheGlassBridgeAutoFarm.lua")
