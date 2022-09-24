@@ -8066,3 +8066,6 @@ addscript(6432407703,"Big City Tycoon [Collect Presents]", "BigCityTycoonCollect
 addscriptexist(6055959032, "JailbirdEspSilentAim", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/JailbirdEspSilentAim.lua")
                     
 addscriptexist(1345139196, "TreasureHuntSimulatorAutoFarmAutorebirth", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TreasureHuntSimulatorAutoFarmAutorebirth.lua")
+    
+addscript(7666393362,"Tower of Guessing [Get Answer Of Floor]", "TowerofGuessingGetAnswerOfFloor", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TowerofGuessingGetAnswerOfFloor.lua")
+                    
