@@ -4896,3 +4896,5 @@ addscriptexist(1365404657, "FeatherFamilyUnlockAllBirdVIBGamepass", "Terni", "ht
     
 addscript(1758401491,"Public Bathroom Simulator [Spam Sounds - FE Trolling]", "PublicBathroomSimulatorSpamSoundsFETrolling", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PublicBathroomSimulatorSpamSoundsFETrolling.lua")
                     
+                    
+addscriptexist(340227283, "RoBowlingBallHBE", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RoBowlingBallHBE.lua")
