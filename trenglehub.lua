@@ -2896,3 +2896,6 @@ addscriptexist(4951858512, "VictoryRaceFreeWins", "Terni", "https://raw.githubus
 addscriptexist(10001513103, "LimitedWordsAutoDailySpin", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LimitedWordsAutoDailySpin.lua")
                     
 addscriptexist(2727067538, "WorldZeroGUIAutoFarm", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/WorldZeroGUIAutoFarm.lua")
+    
+addscript(9573979853,"Revengers Dispute [ALPHA] [Infinite Money]", "RevengersDisputeALPHAInfiniteMoney", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RevengersDisputeALPHAInfiniteMoney.lua")
+                    
