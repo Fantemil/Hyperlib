@@ -3889,3 +3889,5 @@ addscriptexist(9508087919, "ApeirophobiaAll10LvlEspExitInfStamina", "Qalnik", "h
     
 addscript(8619263259,"Critical Legends [Collect all chests, Tp to every statue]", "CriticalLegendsCollectallchestsTptoeverystatue", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CriticalLegendsCollectallchestsTptoeverystatue.lua")
                     
+                    
+addscriptexist(2788229376, "DaHoodAutoFarmGodmodeKllBot", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DaHoodAutoFarmGodmodeKllBot.lua")
