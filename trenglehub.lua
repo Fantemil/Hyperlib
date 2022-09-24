@@ -7519,3 +7519,6 @@ addscript(7508789810,"Devious Lick Simulator [Auto Farm, Auto Sell, Auto Combine
 addscriptexist(7508789810, "DeviousLickSimulatorAutoSellCollectDropsAutoCombineAll", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DeviousLickSimulatorAutoSellCollectDropsAutoCombineAll.lua")
                     
 addscriptexist(8656125900, "BritsVIPPartyftPinkPantheressAllBadges", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BritsVIPPartyftPinkPantheressAllBadges.lua")
+    
+addscript(6879598157,"Roblox [Animation Logger]", "RobloxAnimationLogger", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RobloxAnimationLogger.lua")
+                    
