@@ -6904,3 +6904,6 @@ addscript(7198676364,"Climb a Rainbow Pop it [Auto Farm]", "ClimbaRainbowPopitAu
     
 addscript(3295514368,"Sandhurst Military Academy [Click kill, loop kill, Effecting Me]", "SandhurstMilitaryAcademyClickkillloopkillEffectingMe", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SandhurstMilitaryAcademyClickkillloopkillEffectingMe.lua")
                     
+    
+addscript(8365063484,"Miami Drive [Inf Money]", "MiamiDriveInfMoney", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MiamiDriveInfMoney.lua")
+                    
