@@ -4940,3 +4940,6 @@ addscript(5678279798,"Fight Club [Kill Aura GUI]", "FightClubKillAuraGUI", "Tern
     
 addscript(9438506890,"raise a sogga [Infinite Money]", "raiseasoggaInfiniteMoney", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/raiseasoggaInfiniteMoney.lua")
                     
+    
+addscript(5853243164,"Grand Piece Online [No Dodge Cooldown And No Stamina Drain]", "GrandPieceOnlineNoDodgeCooldownAndNoStaminaDrain", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/GrandPieceOnlineNoDodgeCooldownAndNoStaminaDrain.lua")
+                    
