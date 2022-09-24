@@ -4481,3 +4481,6 @@ addscript(9808430159,"Scan_Test.DEMO [Reveal All Parts]", "ScanTestDEMORevealAll
     
 addscript(4618049391,"Tang County, Hebei [Auto Farm]", "TangCountyHebeiAutoFarm", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TangCountyHebeiAutoFarm.lua")
                     
+    
+addscript(9297410766,"Crossbar Challenge Simulator [Fast Auto Shoot]", "CrossbarChallengeSimulatorFastAutoShoot", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CrossbarChallengeSimulatorFastAutoShoot.lua")
+                    
