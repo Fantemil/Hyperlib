@@ -8072,3 +8072,5 @@ addscript(7666393362,"Tower of Guessing [Get Answer Of Floor]", "TowerofGuessing
     
 addscript(6830111083,"Sandy Shores [Kill All Players]", "SandyShoresKillAllPlayers", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SandyShoresKillAllPlayers.lua")
                     
+                    
+addscriptexist(583507031, "PapersPleaseGunMode", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PapersPleaseGunMode.lua")
