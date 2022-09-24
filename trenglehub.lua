@@ -6024,3 +6024,5 @@ addscript(6793421427,"get a snack at 5am [Get All Tools]", "getasnackat5amGetAll
 addscriptexist(185655149, "BloxburgJobAutoFarm", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BloxburgJobAutoFarm.lua")
                     
 addscriptexist(5584024582, "TheRakeHourTestInfiniteLevels", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TheRakeHourTestInfiniteLevels.lua")
+                    
+addscriptexist(70005410, "BloxHuntV2725AutoFarmGUI", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BloxHuntV2725AutoFarmGUI.lua")
