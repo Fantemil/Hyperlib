@@ -6615,3 +6615,5 @@ addscriptexist(4855457388, "DemonfallGUIAllBossFarmOtherFarm", "Terni", "https:/
 addscriptexist(6555084601, "ВирусRPNukeGun–GiveItems–AntiCheatsBypass", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ВирусRPNukeGun–GiveItems–AntiCheatsBypass.lua")
                     
 addscriptexist(534701013, "TheLabyrinthAutoFishAutoTressMazeEsp", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TheLabyrinthAutoFishAutoTressMazeEsp.lua")
+                    
+addscriptexist(5490351219, "X100CLICKSClickerMadnessAutoClickAutoRebirthGamepass", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/X100CLICKSClickerMadnessAutoClickAutoRebirthGamepass.lua")
