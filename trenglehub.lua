@@ -5828,3 +5828,5 @@ addscript(166986752,"Plane Crazy [Copy Build]", "PlaneCrazyCopyBuild", "Terni", 
                     
                     
 addscriptexist(6299805723, "AnimeFightersSimulatorAutoFarmAutoFuse", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AnimeFightersSimulatorAutoFarmAutoFuse.lua")
+                    
+addscriptexist(2629642516, "BitcoinMinerAutoSellAutoSkipAutoClaimcrates", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BitcoinMinerAutoSellAutoSkipAutoClaimcrates.lua")
