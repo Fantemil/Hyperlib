@@ -8555,3 +8555,5 @@ addscriptexist(7232779505, "TypeRaceAUTOPLAYER", "Terni", "https://raw.githubuse
 addscriptexist(4520749081, "KingLegacyWalkSpeedTranslatorSpectate", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/KingLegacyWalkSpeedTranslatorSpectate.lua")
                     
 addscriptexist(2512643572, "BubbleGunSimulatorAUTOFARMAUTOSELLAUTOBUY", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BubbleGunSimulatorAUTOFARMAUTOSELLAUTOBUY.lua")
+                    
+addscriptexist(2809202155, "YourBizarreAdventureAUTOFARMAUTOSKILLTP", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/YourBizarreAdventureAUTOFARMAUTOSKILLTP.lua")
