@@ -5832,3 +5832,5 @@ addscriptexist(6299805723, "AnimeFightersSimulatorAutoFarmAutoFuse", "Terni", "h
 addscriptexist(2629642516, "BitcoinMinerAutoSellAutoSkipAutoClaimcrates", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BitcoinMinerAutoSellAutoSkipAutoClaimcrates.lua")
                     
 addscriptexist(1962086868, "TowerofHellGodModeMoreFreeGUI", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TowerofHellGodModeMoreFreeGUI.lua")
+                    
+addscriptexist(8209480473, "SpotifyIslandLvlfarm", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SpotifyIslandLvlfarm.lua")
