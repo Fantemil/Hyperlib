@@ -6105,3 +6105,5 @@ addscriptexist(5783581, "TPSUltimateSoccerInfStaminaAutogoalShootfast", "Qalnik"
 addscriptexist(7083634873, "RobloxNewFPSBooster", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RobloxNewFPSBooster.lua")
                     
 addscriptexist(6193049807, "ThaHoodGetBillionsOfCashWithinSeconds", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ThaHoodGetBillionsOfCashWithinSeconds.lua")
+                    
+addscriptexist(8540168650, "StandUprightRebootedAutoFarmStandsFarmMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/StandUprightRebootedAutoFarmStandsFarmMore.lua")
