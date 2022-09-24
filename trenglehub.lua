@@ -8126,3 +8126,5 @@ addscriptexist(5993942214, "RushPointInfAmmo", "Qalnik", "https://raw.githubuser
 addscriptexist(4934471106, "MyHeroManiaFarmMobsHidename", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MyHeroManiaFarmMobsHidename.lua")
                     
 addscriptexist(6938803436, "AnimeDimensionsSimulatorAutoJoinLobbyAutoKillMobs", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AnimeDimensionsSimulatorAutoJoinLobbyAutoKillMobs.lua")
+                    
+addscriptexist(8116417963, "CarcraftInfiniteCurrency", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CarcraftInfiniteCurrency.lua")
