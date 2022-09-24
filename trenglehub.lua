@@ -6635,3 +6635,5 @@ addscriptexist(3956818381, "NinjaLegendsAutoSwingAutoSellAutoHoops", "Qalnik", "
 addscriptexist(8357510970, "AnimePunchingSimulatorAutoClickAutoPracticeRedeemCodes", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AnimePunchingSimulatorAutoClickAutoPracticeRedeemCodes.lua")
                     
 addscriptexist(6284583030, "PetSimulatorXxToolsv13", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PetSimulatorXxToolsv13.lua")
+                    
+addscriptexist(7708751418, "SmashingSimulatorXFasterThrowStrongerThrow", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SmashingSimulatorXFasterThrowStrongerThrow.lua")
