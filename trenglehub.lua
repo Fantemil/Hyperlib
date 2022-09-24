@@ -5117,3 +5117,6 @@ addscriptexist(9551640993, "MiningSimulator2OreESPViewAll", "Terni", "https://ra
 addscriptexist(9551640993, "MiningSimulator2AutoMineBelowPlayer", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MiningSimulator2AutoMineBelowPlayer.lua")
                     
 addscriptexist(7830918930, "GucciTownAutoFarmAutoCollectGemsMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/GucciTownAutoFarmAutoCollectGemsMore.lua")
+    
+addscript(2619187362,"Super Power Fighting Simulator [GUI - Auto Train, Auto Quest & More!]", "SuperPowerFightingSimulatorGUIAutoTrainAutoQuestMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SuperPowerFightingSimulatorGUIAutoTrainAutoQuestMore.lua")
+                    
