@@ -8433,3 +8433,5 @@ addscriptexist(5041144419, "SCPRoleplaySilentAIMESPMore", "Terni", "https://raw.
     
 addscript(5648523896,"Trenches", "TrenchesAlphaESPGunModeMeleeAura", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TrenchesAlphaESPGunModeMeleeAura.lua")
                     
+                    
+addscriptexist(277751860, "EpicMinigamesAntiCheatBypass", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/EpicMinigamesAntiCheatBypass.lua")
