@@ -7751,3 +7751,5 @@ addscriptexist(45146873, "TowerBattlesFarmCredits", "Qalnik", "https://raw.githu
     
 addscript(5398368730,"Ragdoll Street Fight Simulator [Auto Farm Players]", "RagdollStreetFightSimulatorAutoFarmPlayers", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RagdollStreetFightSimulatorAutoFarmPlayers.lua")
                     
+                    
+addscriptexist(8425637426, "WriteaLetterInfiniteNotes", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/WriteaLetterInfiniteNotes.lua")
