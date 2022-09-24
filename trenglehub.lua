@@ -3409,3 +3409,6 @@ addscriptexist(205224386, "HideAndSeekExtremeCollectallcoinsSpeedHacketc", "Qaln
     
 addscript(443406476,"Project Lazarus [Auto Farm, Bring Heads, Gun Mod]", "ProjectLazarusAutoFarmBringHeadsGunMod", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ProjectLazarusAutoFarmBringHeadsGunMod.lua")
                     
+    
+addscript(6835256242,"Pick A Door [AutoWin]", "PickADoorAutoWin", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PickADoorAutoWin.lua")
+                    
