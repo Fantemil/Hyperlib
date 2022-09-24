@@ -7694,3 +7694,6 @@ addscriptexist(662417684, "LuckyBlockBattlegroundsPressEtogetitems", "Terni", "h
 addscriptexist(4616652839, "ShindoLifeGUIFarmlvlandAutoStats", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ShindoLifeGUIFarmlvlandAutoStats.lua")
                     
 addscriptexist(3102144307, "AnimeClickerSimulatorGUIFarmingPetsBoss", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AnimeClickerSimulatorGUIFarmingPetsBoss.lua")
+    
+addscript(6191637341,"Weapon Simulator 2 [GUI - Auto Power, Damage Kill]", "WeaponSimulator2GUIAutoPowerDamageKill", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/WeaponSimulator2GUIAutoPowerDamageKill.lua")
+                    
