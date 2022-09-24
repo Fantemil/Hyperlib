@@ -5906,3 +5906,5 @@ addscriptexist(6677985923, "MillionaireEmpireTycoonInfiniteCashAutoBuyAutoRebirt
     
 addscript(5803957966,"MeloBlox RPG [Auto Loot]", "MeloBloxRPGAutoLoot", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MeloBloxRPGAutoLoot.lua")
                     
+                    
+addscriptexist(5712833750, "AnimalSimulatorFarmDragonSkinsXP", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AnimalSimulatorFarmDragonSkinsXP.lua")
