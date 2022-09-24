@@ -6516,3 +6516,5 @@ addscriptexist(8737602449, "PLSDONATEMusicGUIDancesPackageAnimations", "Qalnik",
 addscriptexist(662417684, "LUCKYBLOCKSBattlegroundsPlayersGetallgearsLuckyBlocks", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LUCKYBLOCKSBattlegroundsPlayersGetallgearsLuckyBlocks.lua")
                     
 addscriptexist(3101667897, "LegendsOfSpeedAutoCollectOrbsAutoCollectGemsAutoRebirth", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LegendsOfSpeedAutoCollectOrbsAutoCollectGemsAutoRebirth.lua")
+                    
+addscriptexist(5116869569, "DoodleWorldHealYourTeanAnywhere", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DoodleWorldHealYourTeanAnywhere.lua")
