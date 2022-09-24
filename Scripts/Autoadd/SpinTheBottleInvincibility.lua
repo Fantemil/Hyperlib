@@ -1,1 +1,0 @@
-game:GetService("Players").LocalPlayer.Character.Humanoid:Destroy()
