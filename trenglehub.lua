@@ -6381,3 +6381,6 @@ addscriptexist(292439477, "PhantomForcesFireRateHacks", "Terni", "https://raw.gi
 addscriptexist(3623096087, "MuscleLegendsAutoFarmGUI", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MuscleLegendsAutoFarmGUI.lua")
                     
 addscriptexist(3623096087, "MuscleLegendsAutoFarmNewGUI", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MuscleLegendsAutoFarmNewGUI.lua")
+    
+addscript(8644729967,"Zone of Alienation [Kill All Mobs]", "ZoneofAlienationKillAllMobs", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ZoneofAlienationKillAllMobs.lua")
+                    
