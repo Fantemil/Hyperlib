@@ -6213,3 +6213,5 @@ addscriptexist(3351674303, "DrivingEmpireArrestAllMore", "Terni", "https://raw.g
     
 addscript(334218733,"Warships [GUI - Give Coins - Give Ships - Kill All & Instant Reload]", "WarshipsGUIGiveCoinsGiveShipsKillAllInstantReload", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/WarshipsGUIGiveCoinsGiveShipsKillAllInstantReload.lua")
                     
+                    
+addscriptexist(4753520418, "TheHoodEggESP", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TheHoodEggESP.lua")
