@@ -6672,3 +6672,5 @@ addscriptexist(4490140733, "MyRestaurantXPFarm", "Terni", "https://raw.githubuse
 addscriptexist(1962086868, "TowerofHellAutoFarmGodModeRemoveKillParts", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TowerofHellAutoFarmGodModeRemoveKillParts.lua")
                     
 addscriptexist(8554378337, "WeaponFightingSimulatorCollectRewardsФutoFarm", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/WeaponFightingSimulatorCollectRewardsФutoFarm.lua")
+                    
+addscriptexist(8396586868, "A0nePieceGameAutoSkillAutoFarmAutoPunch", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/A0nePieceGameAutoSkillAutoFarmAutoPunch.lua")
