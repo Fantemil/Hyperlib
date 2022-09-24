@@ -5691,3 +5691,5 @@ addscriptexist(6778844213, "EuphoriaRagdollTestingAnnonyServerMassRagdollToggle"
     
 addscript(6905769625,"Rooftop Basketball [Silent AIM]", "RooftopBasketballSilentAIM", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RooftopBasketballSilentAIM.lua")
                     
+                    
+addscriptexist(9461798258, "RaiseaGrannyInfcookies", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RaiseaGrannyInfcookies.lua")
