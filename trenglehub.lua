@@ -2587,3 +2587,5 @@ addscript(4390380541,"Rumble Quest [WalkSpeed, Kill-Aura]", "RumbleQuestWalkSpee
 addscriptexist(192800, "WorkataPizzaPlaceBecomemanager", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/WorkataPizzaPlaceBecomemanager.lua")
                     
 addscriptexist(2809202155, "YourBizarreAdventureItemFarm", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/YourBizarreAdventureItemFarm.lua")
+                    
+addscriptexist(185655149, "Bloxburg", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Bloxburg.lua")
