@@ -7551,3 +7551,5 @@ addscriptexist(621129760, "KATAimBotAutoFarmPlayerEsp", "Qalnik", "https://raw.g
     
 addscript(3203685552,"BEAR [Auto Collect]", "BEARAutoCollect", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BEARAutoCollect.lua")
                     
+                    
+addscriptexist(8656125900, "BritsVIPPartyftPinkPantheressCollectCoins", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BritsVIPPartyftPinkPantheressCollectCoins.lua")
