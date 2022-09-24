@@ -1350,3 +1350,6 @@ addscript(6884476776,"Friend Hangout [Crash - Get All Tools & More!]", "FriendHa
                     
                     
 addscriptexist(10676523834, "RacingRocketInfiniteSpeed", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RacingRocketInfiniteSpeed.lua")
+    
+addscript(113690124,"Noob Onslaught [Inf Money]", "NoobOnslaughtInfMoney", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NoobOnslaughtInfMoney.lua")
+                    
