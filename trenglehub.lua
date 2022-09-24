@@ -8638,3 +8638,5 @@ addscriptexist(5244411056, "BloxyBingoAUTOFARM", "Terni", "https://raw.githubuse
     
 addscript(5228496215,"Remote Spy", "RemoteSpy", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RemoteSpy.lua")
                     
+                    
+addscriptexist(4566572536, "VehicleLegendsAutoFarm", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/VehicleLegendsAutoFarm.lua")
