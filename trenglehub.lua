@@ -3670,3 +3670,5 @@ addscript(8069117419,"Demon Soul Simulator [GUI - Auto Farm, Auto Punch & More!]
 addscriptexist(8069117419, "DemonSoulSimulatorBreathingDupe", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DemonSoulSimulatorBreathingDupe.lua")
                     
 addscriptexist(5956785391, "ProjectSlayersMuzanTP", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ProjectSlayersMuzanTP.lua")
+                    
+addscriptexist(5956785391, "ProjectSlayersDatawipeagain", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ProjectSlayersDatawipeagain.lua")
