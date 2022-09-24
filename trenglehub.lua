@@ -6210,3 +6210,6 @@ addscriptexist(6401440818, "MONOLITHDEFENSEUnlimitedVotes", "Terni", "https://ra
 addscriptexist(6847090259, "BulkedUpCollectAllTrophiesEggs", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BulkedUpCollectAllTrophiesEggs.lua")
                     
 addscriptexist(3351674303, "DrivingEmpireArrestAllMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DrivingEmpireArrestAllMore.lua")
+    
+addscript(334218733,"Warships [GUI - Give Coins - Give Ships - Kill All & Instant Reload]", "WarshipsGUIGiveCoinsGiveShipsKillAllInstantReload", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/WarshipsGUIGiveCoinsGiveShipsKillAllInstantReload.lua")
+                    
