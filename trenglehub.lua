@@ -1221,3 +1221,5 @@ addscriptexist(2537430692, "JengaWinGameRemoveObjectsandKillBricksForceDeath", "
     
 addscript(10604409263,"Moscow, Soviet Union ", "MoscowSovietUnion100KEverySecond", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MoscowSovietUnion100KEverySecond.lua")
                     
+                    
+addscriptexist(9498006165, "TappingSimulatorAutoTapAutoRebirthBetterGtx", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TappingSimulatorAutoTapAutoRebirthBetterGtx.lua")
