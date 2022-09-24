@@ -8303,3 +8303,5 @@ addscript(2990100290,"RPG Simulator [Auto Farm, Auto Skill]", "RPGSimulatorAutoF
                     
                     
 addscriptexist(258258996, "MinersHavenAutoFarmAUTOSACRAFICECrateTp", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MinersHavenAutoFarmAUTOSACRAFICECrateTp.lua")
+                    
+addscriptexist(443406476, "ProjectLazarusInfAmmo", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ProjectLazarusInfAmmo.lua")
