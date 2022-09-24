@@ -7439,3 +7439,5 @@ addscriptexist(6604417568, "Minerscave13XrayNoFullArmorup", "Qalnik", "https://r
     
 addscript(7603193259,"Friday Night Bloxxin [Auto Player - Insta Solo]", "FridayNightBloxxinAutoPlayerInstaSolo", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FridayNightBloxxinAutoPlayerInstaSolo.lua")
                     
+                    
+addscriptexist(8448735476, "dbzadventuresunleashedAutoAttackAutoSkillsAutoQuest", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/dbzadventuresunleashedAutoAttackAutoSkillsAutoQuest.lua")
