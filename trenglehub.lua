@@ -6759,3 +6759,6 @@ addscript(4499822233,"Star Wars Bounty Hunters Outer Rim [Kill All, Infinity Cre
                     
                     
 addscriptexist(4954096313, "FieldTripZGodmodeAllandYouselfKillZombiesEsp", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FieldTripZGodmodeAllandYouselfKillZombiesEsp.lua")
+    
+addscript(8099517179,"Color Fling [Auto Farm]", "ColorFlingAutoFarm", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ColorFlingAutoFarm.lua")
+                    
