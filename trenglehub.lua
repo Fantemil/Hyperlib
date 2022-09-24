@@ -5868,3 +5868,5 @@ addscript(1696916806,"Base Raiders [Auto Farm - Auto Crate - Anti AFK]", "BaseRa
 addscriptexist(2512643572, "BubbleGumSimulatorAutoPotionsAutoLabGUI", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BubbleGumSimulatorAutoPotionsAutoLabGUI.lua")
                     
 addscriptexist(740581508, "EntryPointKillNPCsNPCChams", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/EntryPointKillNPCsNPCChams.lua")
+                    
+addscriptexist(7560156054, "ClickerSimulatorAutoClickAutoCollectGiftsOpenEgg", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ClickerSimulatorAutoClickAutoCollectGiftsOpenEgg.lua")
