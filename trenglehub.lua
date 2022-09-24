@@ -3414,3 +3414,5 @@ addscript(6835256242,"Pick A Door [AutoWin]", "PickADoorAutoWin", "Qalnik", "htt
                     
                     
 addscriptexist(6284583030, "PetSimulatorXAutofarmOpenEggsAutouseboosts", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PetSimulatorXAutofarmOpenEggsAutouseboosts.lua")
+                    
+addscriptexist(9397663086, "NinjaTrainingSimulatorAutoFarmAutoRebirthAutoupgrades", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NinjaTrainingSimulatorAutoFarmAutoRebirthAutoupgrades.lua")
