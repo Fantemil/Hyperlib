@@ -3812,3 +3812,6 @@ addscript(568350650,"Fashion Famous [Get Klossette x Reverse_Polarity Backpack]"
                     
                     
 addscriptexist(2098516465, "RobloxHighSchool2GetKlossettexLovespunPurse", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RobloxHighSchool2GetKlossettexLovespunPurse.lua")
+    
+addscript(3722916,"2 Player Company Tycoon [Inf Money]", "2PlayerCompanyTycoonInfMoney", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/2PlayerCompanyTycoonInfMoney.lua")
+                    
