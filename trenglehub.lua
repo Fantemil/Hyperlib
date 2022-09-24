@@ -5010,3 +5010,5 @@ addscript(70501379,"Trade Hangout [AFK Auto Walk]", "TradeHangoutAFKAutoWalk", "
                     
                     
 addscriptexist(142823291, "MurderMystery2ChamsReachSilentAimMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MurderMystery2ChamsReachSilentAimMore.lua")
+                    
+addscriptexist(4042427666, "AnimeFightingSimulatorFullSpinFarm", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AnimeFightingSimulatorFullSpinFarm.lua")
