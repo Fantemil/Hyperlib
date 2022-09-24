@@ -6557,3 +6557,5 @@ addscriptexist(6284583030, "PetSimulatorXMasteryFarm", "Qalnik", "https://raw.gi
     
 addscript(7094672259,"Criminal Russia RP [Auto Farm]", "CriminalRussiaRPAutoFarm", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CriminalRussiaRPAutoFarm.lua")
                     
+                    
+addscriptexist(2753915549, "BloxFruitsGUIMobFarmInfStam", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BloxFruitsGUIMobFarmInfStam.lua")
