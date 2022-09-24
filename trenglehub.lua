@@ -6894,3 +6894,5 @@ addscript(8110180444,"Strong Pet Simulator [Auto Farm GUI]", "StrongPetSimulator
                     
                     
 addscriptexist(6442957604, "CustomPCTycoonAutoPCBuildAndSell", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CustomPCTycoonAutoPCBuildAndSell.lua")
+                    
+addscriptexist(6442957604, "CustomPCTycoonAutoFarm", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CustomPCTycoonAutoFarm.lua")
