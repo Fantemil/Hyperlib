@@ -8754,3 +8754,5 @@ addscriptexist(6299805723, "AnimeFightersSimulatorALLAUTOFARMSCOLLECTDROPS", "Te
 addscriptexist(6628835921, "MoneySimulatorXMOREFUNCTIONAUTOFARM", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MoneySimulatorXMOREFUNCTIONAUTOFARM.lua")
                     
 addscriptexist(2727067538, "WorldZeroKILLAURAAUTOFEEDPETAUTOITEM", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/WorldZeroKILLAURAAUTOFEEDPETAUTOITEM.lua")
+                    
+addscriptexist(621129760, "KATBESTHUBAUTOKILLESPMORE", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/KATBESTHUBAUTOKILLESPMORE.lua")
