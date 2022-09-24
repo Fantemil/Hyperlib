@@ -3630,3 +3630,5 @@ addscriptexist(3346617530, "FreezeTagExtremeTagAllPlayersMore", "Terni", "https:
     
 addscript(679715583,"Starscape [Auto Pilot]", "StarscapeAutoPilot", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/StarscapeAutoPilot.lua")
                     
+                    
+addscriptexist(8123652942, "LegendPieceAutoFarmMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LegendPieceAutoFarmMore.lua")
