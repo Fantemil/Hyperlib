@@ -6518,3 +6518,5 @@ addscriptexist(662417684, "LUCKYBLOCKSBattlegroundsPlayersGetallgearsLuckyBlocks
 addscriptexist(3101667897, "LegendsOfSpeedAutoCollectOrbsAutoCollectGemsAutoRebirth", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LegendsOfSpeedAutoCollectOrbsAutoCollectGemsAutoRebirth.lua")
                     
 addscriptexist(5116869569, "DoodleWorldHealYourTeanAnywhere", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DoodleWorldHealYourTeanAnywhere.lua")
+                    
+addscriptexist(662417684, "LuckyBlocksBattlegroundsGUISpawnallblocks", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LuckyBlocksBattlegroundsGUISpawnallblocks.lua")
