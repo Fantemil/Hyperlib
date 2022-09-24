@@ -7510,3 +7510,5 @@ addscript(6878620017,"Mega Obby [Complete All Stages]", "MegaObbyCompleteAllStag
                     
                     
 addscriptexist(2753915549, "Roblox", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Roblox.lua")
+                    
+addscriptexist(8357510970, "AnimePunchingSimulatorAutoTapAutoRebirthOpenEgg", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AnimePunchingSimulatorAutoTapAutoRebirthOpenEgg.lua")
