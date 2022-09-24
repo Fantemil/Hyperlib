@@ -4313,3 +4313,5 @@ addscript(9292879820,"Grass Cutting Simulator [Free Stats and Currency]", "Grass
     
 addscript(7211666966,"Tower Of Jump [Auto Farm - Server Hop]", "TowerOfJumpAutoFarmServerHop", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TowerOfJumpAutoFarmServerHop.lua")
                     
+                    
+addscriptexist(4459593483, "FORCEAutoCollectTrinkets", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FORCEAutoCollectTrinkets.lua")
