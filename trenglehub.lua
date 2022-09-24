@@ -2306,3 +2306,5 @@ addscriptexist(286090429, "ArsenalSilentAimKillAll", "astrofile", "https://raw.g
     
 addscript(13822889,"Lumber Tycoon 2 [Walkspeed, AutoBuy]", "LumberTycoon2WalkspeedAutoBuy", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LumberTycoon2WalkspeedAutoBuy.lua")
                     
+                    
+addscriptexist(391104146, "LetsParty∞GearTestingEditionNoclipFly", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LetsParty∞GearTestingEditionNoclipFly.lua")
