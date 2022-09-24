@@ -2251,3 +2251,5 @@ addscriptexist(3260590327, "TowerDefenseSimulator", "astrofile", "https://raw.gi
     
 addscript(891852901,"Greenville [Car Stealer]", "GreenvilleCarStealer", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/GreenvilleCarStealer.lua")
                     
+                    
+addscriptexist(2534724415, "EmergencyResponseLibertyCountyUndetectedTeleport", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/EmergencyResponseLibertyCountyUndetectedTeleport.lua")
