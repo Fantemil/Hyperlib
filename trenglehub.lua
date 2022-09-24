@@ -2943,3 +2943,5 @@ addscriptexist(3851622790, "BreakInStoryTheBestGUI", "Terni", "https://raw.githu
 addscriptexist(8500690972, "NOSTOPObbyInfiniteStages", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NOSTOPObbyInfiniteStages.lua")
                     
 addscriptexist(4951858512, "VictoryRaceAutoClear", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/VictoryRaceAutoClear.lua")
+                    
+addscriptexist(10184360875, "PetFishingSimulatorInfiniteMoney", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PetFishingSimulatorInfiniteMoney.lua")
