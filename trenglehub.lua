@@ -6800,3 +6800,6 @@ addscriptexist(8884433153, "CollectAllPetsAutoQuestAutoCollectCoinsAutobuypets",
 addscriptexist(192800, "WorkAtaPizzaPlaceAutoFarm", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/WorkAtaPizzaPlaceAutoFarm.lua")
                     
 addscriptexist(1537690962, "BeeSwarmSimulatorGUIAutoFarmMuchMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BeeSwarmSimulatorGUIAutoFarmMuchMore.lua")
+    
+addscript(5736409216,"Mall Tycoon [Auto Collect, Auto Buy, Auto rebirth]", "MallTycoonAutoCollectAutoBuyAutorebirth", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MallTycoonAutoCollectAutoBuyAutorebirth.lua")
+                    
