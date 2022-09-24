@@ -2961,3 +2961,6 @@ addscriptexist(9157605735, "MiscGunTestXInfMoneyTpStickAll", "Qalnik", "https://
 addscriptexist(10322949476, "LimitedJumpsAutoFarmJumps", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LimitedJumpsAutoFarmJumps.lua")
                     
 addscriptexist(180364455, "SurviveTheDisasters2Fullanticheatbypass", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SurviveTheDisasters2Fullanticheatbypass.lua")
+    
+addscript(5571328985,"Bloodlines [Auto Farm, Auto Sell, Drop All]", "BloodlinesAutoFarmAutoSellDropAll", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BloodlinesAutoFarmAutoSellDropAll.lua")
+                    
