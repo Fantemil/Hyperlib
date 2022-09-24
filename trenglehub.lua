@@ -8144,3 +8144,6 @@ addscript(69817459,"Digimon Masters [Insta Collect All Chests]", "DigimonMasters
     
 addscript(7853511605,"Transfurify Remastered [Auto Escape]", "TransfurifyRemasteredAutoEscape", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TransfurifyRemasteredAutoEscape.lua")
                     
+    
+addscript(168097015,"Star Wars [No Recoil, No Spread, No Overheat]", "StarWarsNoRecoilNoSpreadNoOverheat", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/StarWarsNoRecoilNoSpreadNoOverheat.lua")
+                    
