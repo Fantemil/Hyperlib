@@ -2747,3 +2747,6 @@ addscript(3346617530,"Freeze Tag Extreme [Anti Admin & More!]", "FreezeTagExtrem
                     
                     
 addscriptexist(7009799230, "PressureWashSimulatorInfiniteMoney", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PressureWashSimulatorInfiniteMoney.lua")
+    
+addscript(6298464951,"Roblox Is Unbreakable [Auto Collect Items]", "RobloxIsUnbreakableAutoCollectItems", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RobloxIsUnbreakableAutoCollectItems.lua")
+                    
