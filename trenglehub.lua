@@ -4572,3 +4572,6 @@ addscriptexist(443406476, "ProjectLazarusESPOneShotKillChams", "Qalnik", "https:
 addscriptexist(7947609996, "RobloxFakeBlueScreen", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RobloxFakeBlueScreen.lua")
                     
 addscriptexist(9203864304, "raiseafloppa2AutoCookInfMaxRent", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/raiseafloppa2AutoCookInfMaxRent.lua")
+    
+addscript(2166944189,"Firefighters [Infinite Levels]", "FirefightersInfiniteLevels", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FirefightersInfiniteLevels.lua")
+                    
