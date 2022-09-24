@@ -5154,3 +5154,6 @@ addscript(6717117731,"Subway Surfers [Steal All Coins]", "SubwaySurfersStealAllC
     
 addscript(7681451450,"Anime Simulator X [GUI - Farm, Auto Open Egg & More!]", "AnimeSimulatorXGUIFarmAutoOpenEggMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AnimeSimulatorXGUIFarmAutoOpenEggMore.lua")
                     
+    
+addscript(5264342538,"Endless Mining Simulator [GUI - Auto Farm, Auto Gems & More!]", "EndlessMiningSimulatorGUIAutoFarmAutoGemsMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/EndlessMiningSimulatorGUIAutoFarmAutoGemsMore.lua")
+                    
