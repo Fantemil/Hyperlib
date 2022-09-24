@@ -3625,3 +3625,5 @@ addscriptexist(5956785391, "ProjectSlayersAutoFastSpin", "Terni", "https://raw.g
 addscriptexist(10118559731, "nicosnextbotsBotESPPlayerESPMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/nicosnextbotsBotESPPlayerESPMore.lua")
                     
 addscriptexist(2413927524, "THERAKEKillEditionInfiniteStamina", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/THERAKEKillEditionInfiniteStamina.lua")
+                    
+addscriptexist(3346617530, "FreezeTagExtremeTagAllPlayersMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FreezeTagExtremeTagAllPlayersMore.lua")
