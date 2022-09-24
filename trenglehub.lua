@@ -5742,3 +5742,5 @@ addscriptexist(6604417568, "Minerscave15KillAuraHukerinfjump", "Qalnik", "https:
     
 addscript(8492553855,"Project Upright [Item Farm]", "ProjectUprightItemFarm", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ProjectUprightItemFarm.lua")
                     
+                    
+addscriptexist(133815151, "TheFinalStand2MeleeAura", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TheFinalStand2MeleeAura.lua")
