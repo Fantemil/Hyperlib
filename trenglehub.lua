@@ -5996,3 +5996,5 @@ addscriptexist(7167319176, "ChicagoRemasteredAutoFarmGUI", "Terni", "https://raw
 addscriptexist(8137333410, "ColorbynumberNearInstantAutoPainter", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ColorbynumberNearInstantAutoPainter.lua")
                     
 addscriptexist(4410049285, "DrivingSimulatorAutoFarmDiscoverAllAreas", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DrivingSimulatorAutoFarmDiscoverAllAreas.lua")
+                    
+addscriptexist(9203864304, "RaiseaFloppaAutoClickAutoCollectFloppaCashMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RaiseaFloppaAutoClickAutoCollectFloppaCashMore.lua")
