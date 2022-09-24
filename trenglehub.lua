@@ -3338,3 +3338,6 @@ addscript(9800759618,"Amanda [Story] [Auto Revive]", "AmandaStoryAutoRevive", "T
                     
                     
 addscriptexist(7180042682, "MilitaryTycoonCollectAllBatteries", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MilitaryTycoonCollectAllBatteries.lua")
+    
+addscript(6356806222,"Lag Test 2021 [No lag]", "LagTest2021Nolag", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LagTest2021Nolag.lua")
+                    
