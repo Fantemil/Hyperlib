@@ -8248,3 +8248,5 @@ addscriptexist(5023820864, "TradeTowerAutoFarm", "Qalnik", "https://raw.githubus
     
 addscript(8170900938,"Right 2 Fight V0.1.1 [Damage Multiplier]", "Right2FightV011DamageMultiplier", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Right2FightV011DamageMultiplier.lua")
                     
+                    
+addscriptexist(7663721179, "CrystalValleyMiningSimulatorAutoFarmAutoCollectTpQuest", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CrystalValleyMiningSimulatorAutoFarmAutoCollectTpQuest.lua")
