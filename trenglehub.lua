@@ -3550,3 +3550,5 @@ addscriptexist(920587237, "AdoptMeAutoFarmAutoCashoutMore", "Terni", "https://ra
     
 addscript(7196856665,"Wave Sword Bots Game [Collect All Orbs]", "WaveSwordBotsGameCollectAllOrbs", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/WaveSwordBotsGameCollectAllOrbs.lua")
                     
+                    
+addscriptexist(537413528, "SPAKhubAdminflyaimandESP", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SPAKhubAdminflyaimandESP.lua")
