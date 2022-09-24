@@ -3151,3 +3151,6 @@ addscript(10119617028,"Airsoft Center [Esp, Silent Aim]", "AirsoftCenterEspSilen
                     
                     
 addscriptexist(6403373529, "SlapBattlesKillAuraKillRandomplayerGetAllItems", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SlapBattlesKillAuraKillRandomplayerGetAllItems.lua")
+    
+addscript(4459593483,"FORCE [PRE-ALPHA] [GUI - Anti Ragdoll, Anti Damage & More!]", "FORCEPREALPHAGUIAntiRagdollAntiDamageMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FORCEPREALPHAGUIAntiRagdollAntiDamageMore.lua")
+                    
