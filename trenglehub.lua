@@ -3093,3 +3093,5 @@ addscript(9926433554,"Blast Mining Simulator [Auto Give Money, Anti Idlem Auto F
                     
                     
 addscriptexist(7177496972, "AnimeWarriorsAutoFarmGodMode", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AnimeWarriorsAutoFarmGodMode.lua")
+                    
+addscriptexist(1554960397, "CarDealershipTycoonTownHallEvent", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CarDealershipTycoonTownHallEvent.lua")
