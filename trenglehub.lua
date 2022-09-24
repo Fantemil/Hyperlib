@@ -4990,3 +4990,5 @@ addscript(2965881766,"Brawl-Blox [Inf gold, Inf gems, Inf exp]", "BrawlBloxInfgo
     
 addscript(6339160453,"Anime Ninja War Tycoon [Infinite Diamonds]", "AnimeNinjaWarTycoonInfiniteDiamonds", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AnimeNinjaWarTycoonInfiniteDiamonds.lua")
                     
+                    
+addscriptexist(9359839118, "GasStationSimulatorKillAll", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/GasStationSimulatorKillAll.lua")
