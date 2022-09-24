@@ -4187,3 +4187,5 @@ addscriptexist(4282985734, "CombatWarriorsAutoFarm", "Terni", "https://raw.githu
     
 addscript(6558526079,"Anime World Tower Defence [Mess Up Servers]", "AnimeWorldTowerDefenceMessUpServers", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AnimeWorldTowerDefenceMessUpServers.lua")
                     
+                    
+addscriptexist(9601565001, "CarCrashSystemDeleteAnything", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CarCrashSystemDeleteAnything.lua")
