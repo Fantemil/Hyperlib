@@ -6861,3 +6861,5 @@ addscriptexist(1240644540, "VampireHunters3DNATestEveryone", "Terni", "https://r
 addscriptexist(8377686524, "UndertaleLastResetAllWeapons", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/UndertaleLastResetAllWeapons.lua")
                     
 addscriptexist(8377686524, "UndertaleLastResetInstaKillEverythingDOESNTWORKWITHBOSSPHASES", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/UndertaleLastResetInstaKillEverythingDOESNTWORKWITHBOSSPHASES.lua")
+                    
+addscriptexist(7800644383, "UntitledHoodLettuceAutoFarmFast", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/UntitledHoodLettuceAutoFarmFast.lua")
