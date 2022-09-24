@@ -3556,3 +3556,6 @@ addscriptexist(537413528, "SPAKhubAdminflyaimandESP", "Terni", "https://raw.gith
 addscriptexist(9940051005, "BloxLegendsCollectAllPads", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BloxLegendsCollectAllPads.lua")
                     
 addscriptexist(4951858512, "VictoryRaceIncreaseSpeedMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/VictoryRaceIncreaseSpeedMore.lua")
+    
+addscript(4783966408,"Plates of Fate Remastered [Auto Complete Obby]", "PlatesofFateRemasteredAutoCompleteObby", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PlatesofFateRemasteredAutoCompleteObby.lua")
+                    
