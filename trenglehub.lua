@@ -6548,3 +6548,5 @@ addscript(8657732325,"World Sail [Auto Farm Enhance Level]", "WorldSailAutoFarmE
 addscriptexist(8657732325, "WorldSailBasicAutoFarm", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/WorldSailBasicAutoFarm.lua")
                     
 addscriptexist(621129760, "KATIIRadioBypass", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/KATIIRadioBypass.lua")
+                    
+addscriptexist(1458767429, "ABARankedCoinsFarm", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ABARankedCoinsFarm.lua")
