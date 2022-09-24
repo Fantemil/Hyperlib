@@ -3748,3 +3748,6 @@ addscript(198116126,"Tradelands [Auto Farm & More!]", "TradelandsAutoFarmMore", 
                     
                     
 addscriptexist(5104202731, "SouthwestFloridaBetaJobAntiAfk", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SouthwestFloridaBetaJobAntiAfk.lua")
+    
+addscript(1858299821,"Robloxica [Money Dupe]", "RobloxicaMoneyDupe", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RobloxicaMoneyDupe.lua")
+                    
