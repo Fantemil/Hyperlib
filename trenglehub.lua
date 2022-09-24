@@ -4170,3 +4170,6 @@ addscriptexist(180037022, "SonicUltimateRPGGetAllRings", "Terni", "https://raw.g
 addscriptexist(180037022, "SonicUltimateRPGGetAllEmeralds", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SonicUltimateRPGGetAllEmeralds.lua")
                     
 addscriptexist(2906554815, "SWATSimulatorAutoFarm", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SWATSimulatorAutoFarm.lua")
+    
+addscript(8110845141,"POOP WITH FRIENDS [GUI - Auto Farming]", "POOPWITHFRIENDSGUIAutoFarming", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/POOPWITHFRIENDSGUIAutoFarming.lua")
+                    
