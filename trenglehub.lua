@@ -8033,3 +8033,5 @@ addscriptexist(1899149341, "VehicleTycoonFastMoneyFarm", "Terni", "https://raw.g
 addscriptexist(5780309044, "StandsAwakeningItemFarm", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/StandsAwakeningItemFarm.lua")
                     
 addscriptexist(7896264844, "FindtheMarkersBypassAntiGrabGrabAllMarkers", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FindtheMarkersBypassAntiGrabGrabAllMarkers.lua")
+                    
+addscriptexist(413424176, "CloneTycoon2AdminFunction", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CloneTycoon2AdminFunction.lua")
