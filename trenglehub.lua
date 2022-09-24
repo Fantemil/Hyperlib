@@ -6985,3 +6985,6 @@ addscriptexist(6582467377, "VanityDeleteTool", "Terni", "https://raw.githubuserc
     
 addscript(8834250772,"Attack Simulator [Auto Farm]", "AttackSimulatorAutoFarm", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AttackSimulatorAutoFarm.lua")
                     
+    
+addscript(8381567809,"Ninja Star Simulator [Auto Farm & Auto Collect - Basic Auto Farm]", "NinjaStarSimulatorAutoFarmAutoCollectBasicAutoFarm", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NinjaStarSimulatorAutoFarmAutoCollectBasicAutoFarm.lua")
+                    
