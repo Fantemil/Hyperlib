@@ -4429,3 +4429,5 @@ addscriptexist(9017974931, "ValobloxSilentAimKillAllInfiniteAmmo", "Qalnik", "ht
     
 addscript(5646604884,"Crimson Craftwars [Insta Kill All, God Mode, Fastest Auto-Mine]", "CrimsonCraftwarsInstaKillAllGodModeFastestAutoMine", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CrimsonCraftwarsInstaKillAllGodModeFastestAutoMine.lua")
                     
+                    
+addscriptexist(9551640993, "MiningSimulator2NameEggNamePetAutoDeleteseffect", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MiningSimulator2NameEggNamePetAutoDeleteseffect.lua")
