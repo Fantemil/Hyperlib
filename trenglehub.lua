@@ -8182,3 +8182,5 @@ addscriptexist(192800, "WorkataPizzaPlaceGetGolgenTrophy", "Qalnik", "https://ra
     
 addscript(7280776979,"Hyundai Mobility Adventure [Auto Farm]", "HyundaiMobilityAdventureAutoFarm", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/HyundaiMobilityAdventureAutoFarm.lua")
                     
+                    
+addscriptexist(6490016198, "SlayerTycoonMINEWOOD", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SlayerTycoonMINEWOOD.lua")
