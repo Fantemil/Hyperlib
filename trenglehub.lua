@@ -8310,3 +8310,5 @@ addscriptexist(4058282580, "BoxingSimulatorFasterAutoFarm", "Terni", "https://ra
     
 addscript(1499872953,"Boku No Roblox [Auto-Farm, Auto-Use & More!]", "BokuNoRobloxAutoFarmAutoUseMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BokuNoRobloxAutoFarmAutoUseMore.lua")
                     
+                    
+addscriptexist(4632627223, "BlackGrimoireAutoWood", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BlackGrimoireAutoWood.lua")
