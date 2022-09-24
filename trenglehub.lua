@@ -1635,3 +1635,6 @@ addscriptexist(2537430692, "JengaNoKillBrickFLy", "astrofile", "https://raw.gith
 addscriptexist(2537430692, "JengaEndGameMoai", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/JengaEndGameMoai.lua")
                     
 addscriptexist(8737602449, "PLSDONATEAutoBegWebhook", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PLSDONATEAutoBegWebhook.lua")
+    
+addscript(9386846196,"Brawling Grounds [AddHeal, KillAura]", "BrawlingGroundsAddHealKillAura", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BrawlingGroundsAddHealKillAura.lua")
+                    
