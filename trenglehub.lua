@@ -6595,3 +6595,5 @@ addscriptexist(2809202155, "YourBizarreAdventureAutoFarmTeleportsBypass", "Terni
 addscriptexist(8554378337, "WeaponFightingSimulatorAutoBossAutoGambleAutoOpenBossChest", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/WeaponFightingSimulatorAutoBossAutoGambleAutoOpenBossChest.lua")
                     
 addscriptexist(7560156054, "ClickerSimulatorAutoClickAutoClaimGiftsAutoCollectChests", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ClickerSimulatorAutoClickAutoClaimGiftsAutoCollectChests.lua")
+                    
+addscriptexist(5864786637, "InAnotherTimeKillAura", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/InAnotherTimeKillAura.lua")
