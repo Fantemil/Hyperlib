@@ -4540,3 +4540,5 @@ addscriptexist(9772878203, "raiseafloppa2AutoCollectMoneyAutoCollectRentAutoRais
 addscriptexist(4598019433, "GenericRoleplayGaemAutoFarm", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/GenericRoleplayGaemAutoFarm.lua")
                     
 addscriptexist(301549746, "CounterbloxCrashServerGodmode", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CounterbloxCrashServerGodmode.lua")
+                    
+addscriptexist(292439477, "PhantomForcesHighlightESPChams", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PhantomForcesHighlightESPChams.lua")
