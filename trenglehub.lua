@@ -6637,3 +6637,6 @@ addscriptexist(8357510970, "AnimePunchingSimulatorAutoClickAutoPracticeRedeemCod
 addscriptexist(6284583030, "PetSimulatorXxToolsv13", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PetSimulatorXxToolsv13.lua")
                     
 addscriptexist(7708751418, "SmashingSimulatorXFasterThrowStrongerThrow", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SmashingSimulatorXFasterThrowStrongerThrow.lua")
+    
+addscript(6801661790,"Roblox [Future Client]", "RobloxFutureClient", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RobloxFutureClient.lua")
+                    
