@@ -2075,3 +2075,5 @@ addscriptexist(8737602449, "PLSDONATETpAutoThanksServerHoppper", "Qalnik", "http
 addscriptexist(8750997647, "TappingLegendsXAutoClickerAutorebirthAutoEgg", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TappingLegendsXAutoClickerAutorebirthAutoEgg.lua")
                     
 addscriptexist(8704181738, "TiếnTiếnPieceGamepassSword", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TiếnTiếnPieceGamepassSword.lua")
+                    
+addscriptexist(6284583030, "PetSimulatorXAutoFarmAutoEggWalkSpeed", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PetSimulatorXAutoFarmAutoEggWalkSpeed.lua")
