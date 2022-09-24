@@ -7897,3 +7897,5 @@ addscriptexist(7279999673, "DragonBladeOpenWorldRPGMAxSkill", "Qalnik", "https:/
 addscriptexist(6843905606, "CriticalLegendsTeleporttoallchests", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CriticalLegendsTeleporttoallchests.lua")
                     
 addscriptexist(3102144307, "AnimeClickerSimulatorAutoClickFarmBossAutoOpenEgg", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AnimeClickerSimulatorAutoClickFarmBossAutoOpenEgg.lua")
+                    
+addscriptexist(7508789810, "DeviousLickSimulatorAutoFarmAutoSellAutoStrength", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DeviousLickSimulatorAutoFarmAutoSellAutoStrength.lua")
