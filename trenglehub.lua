@@ -5140,3 +5140,5 @@ addscriptexist(8357510970, "AnimePunchingSimulatorGUIAutoClickAutoBuyMore", "Ter
 addscriptexist(3101667897, "LegendsOfSpeedGUIAutoStepsFarmGems", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LegendsOfSpeedGUIAutoStepsFarmGems.lua")
                     
 addscriptexist(5543622168, "CriticalTowerDefenseUnlockHotRash", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CriticalTowerDefenseUnlockHotRash.lua")
+                    
+addscriptexist(2533391464, "SnowmanSimulatorGUIAutoFarmAutoFarmGiftMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SnowmanSimulatorGUIAutoFarmAutoFarmGiftMore.lua")
