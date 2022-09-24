@@ -7911,3 +7911,5 @@ addscriptexist(7560156054, "ClickerSimulatorAutoClicker", "Qalnik", "https://raw
 addscriptexist(735030788, "RoyaleHighTeleporttoyouDiamondFarm", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RoyaleHighTeleporttoyouDiamondFarm.lua")
                     
 addscriptexist(6170705260, "BlendingSimulator2AutoFarm", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BlendingSimulator2AutoFarm.lua")
+                    
+addscriptexist(536102540, "DBZFinalStandFarmMobs", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DBZFinalStandFarmMobs.lua")
