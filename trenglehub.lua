@@ -7762,3 +7762,6 @@ addscriptexist(606849621, "JailbreakVYNIXIUSGUI", "Terni", "https://raw.githubus
     
 addscript(8105433301,"Funny Tower Defense [Infinite Cash]", "FunnyTowerDefenseInfiniteCash", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FunnyTowerDefenseInfiniteCash.lua")
                     
+    
+addscript(8561066003,"Critical Legends 1 & 2 [GUI - Auto Farm Mobs]", "CriticalLegends12GUIAutoFarmMobs", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CriticalLegends12GUIAutoFarmMobs.lua")
+                    
