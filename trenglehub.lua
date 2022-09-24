@@ -6267,3 +6267,5 @@ addscriptexist(4588604953, "CriminalityFreeESPGUI", "Terni", "https://raw.github
 addscriptexist(292439477, "PhantomForcesRageLegitInvisibleGunMods", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PhantomForcesRageLegitInvisibleGunMods.lua")
                     
 addscriptexist(8492553855, "ProjectUprightNoPunchCooldown", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ProjectUprightNoPunchCooldown.lua")
+                    
+addscriptexist(8492553855, "ProjectUprightUseAnyMove", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ProjectUprightUseAnyMove.lua")
