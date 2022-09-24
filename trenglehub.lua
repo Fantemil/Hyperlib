@@ -7229,3 +7229,6 @@ addscript(6068707488,"Navy Simulator [Auto Farm, Fly, Walk Speed]", "NavySimulat
 addscriptexist(7896264844, "FindtheMarkersCollectallmarkersteleporttomarkersteleporttoworlds", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FindtheMarkersCollectallmarkersteleporttomarkersteleporttoworlds.lua")
                     
 addscriptexist(171391948, "VehicleSimulatorMoneyFarm300KIn5Mimutes", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/VehicleSimulatorMoneyFarm300KIn5Mimutes.lua")
+    
+addscript(6722284015,"1v1 pistol [Silent AIM]", "1v1pistolSilentAIM", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/1v1pistolSilentAIM.lua")
+                    
