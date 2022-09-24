@@ -5594,3 +5594,6 @@ addscriptexist(9049840490, "SonicSpeedSimulatorServerHopCollectAll–AutoRebirth
 addscriptexist(35397735, "ScubaDivingAtQuillLakeInfiniteMoney", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ScubaDivingAtQuillLakeInfiniteMoney.lua")
                     
 addscriptexist(35397735, "ScubaDivingAtQuillLakeAutoSell", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ScubaDivingAtQuillLakeAutoSell.lua")
+    
+addscript(5108587039,"Palm Ridge Beta [Auto Farm – Open Sourse]", "PalmRidgeBetaAutoFarm–OpenSourse", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PalmRidgeBetaAutoFarm–OpenSourse.lua")
+                    
