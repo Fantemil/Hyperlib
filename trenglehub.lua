@@ -8342,3 +8342,5 @@ addscriptexist(3233893879, "BadBusinessGunModeESPAimBotMore", "Terni", "https://
     
 addscript(7430861102,"Aincrad Adventures [Teleport To Quest Giver]", "AincradAdventuresTeleportToQuestGiver", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AincradAdventuresTeleportToQuestGiver.lua")
                     
+                    
+addscriptexist(258258996, "MinersHavenAutoFarmSpooferMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MinersHavenAutoFarmSpooferMore.lua")
