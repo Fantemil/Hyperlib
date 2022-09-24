@@ -3751,3 +3751,5 @@ addscriptexist(5104202731, "SouthwestFloridaBetaJobAntiAfk", "Terni", "https://r
     
 addscript(1858299821,"Robloxica [Money Dupe]", "RobloxicaMoneyDupe", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RobloxicaMoneyDupe.lua")
                     
+                    
+addscriptexist(8540168650, "StandUprightRebootedGUISortToolsItemsFarmMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/StandUprightRebootedGUISortToolsItemsFarmMore.lua")
