@@ -6193,3 +6193,5 @@ addscriptexist(5610197459, "ganguponpeoplesimulatorMoney", "Terni", "https://raw
 addscriptexist(6401440818, "MONOLITHDEFENSEStatUpgradeEverything", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MONOLITHDEFENSEStatUpgradeEverything.lua")
                     
 addscriptexist(623694595, "NBAPhenomSilentAIMAutoChangingPower", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NBAPhenomSilentAIMAutoChangingPower.lua")
+                    
+addscriptexist(5712833750, "AnimalSimulatorCollectEggs", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AnimalSimulatorCollectEggs.lua")
