@@ -5017,3 +5017,5 @@ addscript(9285737032,"HELL RUN [Auto Win]", "HELLRUNAutoWin", "Terni", "https://
                     
                     
 addscriptexist(9129288160, "TommyPlayAutoFarm", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TommyPlayAutoFarm.lua")
+                    
+addscriptexist(8750997647, "TappinglegendsXAUTOFARMAUTOBUYEGGSMORE", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TappinglegendsXAUTOFARMAUTOBUYEGGSMORE.lua")
