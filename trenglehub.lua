@@ -8631,3 +8631,5 @@ addscript(1466995005,"RAGDOLL UNIVERSE [Snowflake Farm]", "RAGDOLLUNIVERSESnowfl
     
 addscript(2281639237,"Stands Online v25 [Stand Arrow & Locacaca Farm]", "StandsOnlinev25StandArrowLocacacaFarm", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/StandsOnlinev25StandArrowLocacacaFarm.lua")
                     
+                    
+addscriptexist(171391948, "VehicleSimulatorMILESFARMAUTOFARMMORE", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/VehicleSimulatorMILESFARMAUTOFARMMORE.lua")
