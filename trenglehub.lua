@@ -7332,3 +7332,5 @@ addscriptexist(4787629450, "BOOGABOOGAKillauraGodmodeInvisibility", "Qalnik", "h
 addscriptexist(2753915549, "BloxFruitsFruitHopperAutoStoreRevamp", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BloxFruitsFruitHopperAutoStoreRevamp.lua")
                     
 addscriptexist(2753915549, "BloxFruitsAutoFarmDungeonBuyItem", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BloxFruitsAutoFarmDungeonBuyItem.lua")
+                    
+addscriptexist(7655745946, "DunkingSimulatorEarthAutoFarmSpaceAutoFarmAlwaysScore", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DunkingSimulatorEarthAutoFarmSpaceAutoFarmAlwaysScore.lua")
