@@ -4801,3 +4801,6 @@ addscript(5233268561,"A Bizarre Journey [Auto Pickup All Items]", "ABizarreJourn
                     
                     
 addscriptexist(192800, "WorkataPizzaPlaceAutoFarmBecomeManagerTeleports", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/WorkataPizzaPlaceAutoFarmBecomeManagerTeleports.lua")
+    
+addscript(5272267802,"Be a Toy! [Auto Code Farm]", "BeaToyAutoCodeFarm", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BeaToyAutoCodeFarm.lua")
+                    
