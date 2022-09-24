@@ -6956,3 +6956,5 @@ addscriptexist(4996049426, "AllStarTowerDefenseAutoFarm", "Terni", "https://raw.
 addscriptexist(4616652839, "ShindoLifeAutoSpinAutoRejoin", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ShindoLifeAutoSpinAutoRejoin.lua")
                     
 addscriptexist(1537690962, "BeeSwarmSimulatorRedeemCodesGetBoostsMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BeeSwarmSimulatorRedeemCodesGetBoostsMore.lua")
+                    
+addscriptexist(8232438881, "ThiefSimulatorAutoRobNPC–AutoFarmMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ThiefSimulatorAutoRobNPC–AutoFarmMore.lua")
