@@ -8052,3 +8052,6 @@ addscript(7336128600,"Pet Legends [GUI Auto Farm Aura & More!]", "PetLegendsGUIA
                     
                     
 addscriptexist(3956818381, "NinjaLegendsAutoFarmGui", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NinjaLegendsAutoFarmGui.lua")
+    
+addscript(7215261025,"Retro TDS [Infinite in Game Cash]", "RetroTDSInfiniteinGameCash", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RetroTDSInfiniteinGameCash.lua")
+                    
