@@ -8735,3 +8735,6 @@ addscript(7728383137,"Dalgona Simulator [AUTO-FARMING]", "DalgonaSimulatorAUTOFA
                     
                     
 addscriptexist(6284583030, "PetSimulatorXNEWGUIAutoFarmAutoOpenAllGamepassesMORE", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PetSimulatorXNEWGUIAutoFarmAutoOpenAllGamepassesMORE.lua")
+    
+addscript(7711545622,"The Fashion Awards 2021 [COMPLETE ALL QUESTS]", "TheFashionAwards2021COMPLETEALLQUESTS", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TheFashionAwards2021COMPLETEALLQUESTS.lua")
+                    
