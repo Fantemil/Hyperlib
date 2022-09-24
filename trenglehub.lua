@@ -7117,3 +7117,6 @@ addscriptexist(7655489843, "AnimeBattlegroundsXX1000AbilityDamageAutoFarmMore", 
     
 addscript(156149963,"Car Crash Simulator [Fast Car]", "CarCrashSimulatorFastCar", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CarCrashSimulatorFastCar.lua")
                     
+    
+addscript(566399244,"Elemental Battlegrounds [Auto Farm]", "ElementalBattlegroundsAutoFarm", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ElementalBattlegroundsAutoFarm.lua")
+                    
