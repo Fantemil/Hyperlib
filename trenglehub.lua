@@ -5678,3 +5678,5 @@ addscript(5029300380,"BOXING CLUB [Kick Player]", "BOXINGCLUBKickPlayer", "Qalni
 addscriptexist(7089072882, "HEMANSIMBATTLEARENAInfiniteKirbinite", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/HEMANSIMBATTLEARENAInfiniteKirbinite.lua")
                     
 addscriptexist(7089072882, "HEMANSIMBATTLEARENAMaxLevelRebirth", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/HEMANSIMBATTLEARENAMaxLevelRebirth.lua")
+                    
+addscriptexist(632642533, "DeadMist2BetaGrabCarePackage", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DeadMist2BetaGrabCarePackage.lua")
