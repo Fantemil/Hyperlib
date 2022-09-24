@@ -5453,3 +5453,5 @@ addscript(9604473769,"Tate McRae Concert Experience [Get All Coins, Infinite Sco
                     
                     
 addscriptexist(9508087919, "ApeirophobiaMonsterESP", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ApeirophobiaMonsterESP.lua")
+                    
+addscriptexist(5620664339, "RoStreetsAutoFarm", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RoStreetsAutoFarm.lua")
