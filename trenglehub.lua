@@ -5237,3 +5237,5 @@ addscript(8549047195,"Anime Warriors Simulator [Auto Farm]", "AnimeWarriorsSimul
     
 addscript(6753141554,"Collect Simulator [Auto Weights - Auto Sell]", "CollectSimulatorAutoWeightsAutoSell", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CollectSimulatorAutoWeightsAutoSell.lua")
                     
+                    
+addscriptexist(4003872968, "GiantSurvivalInstaKill", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/GiantSurvivalInstaKill.lua")
