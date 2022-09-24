@@ -2663,3 +2663,6 @@ addscriptexist(7305309231, "TaxiBossAutoFarmTrophies", "astrofile", "https://raw
 addscriptexist(10524502174, "OnePunchFightersAutoFarmautoeggs", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OnePunchFightersAutoFarmautoeggs.lua")
                     
 addscriptexist(286090429, "ArsenalAutofarm", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ArsenalAutofarm.lua")
+    
+addscript(2685347741,"Ghost Simulator [Auto Farm, Auto Sell]", "GhostSimulatorAutoFarmAutoSell", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/GhostSimulatorAutoFarmAutoSell.lua")
+                    
