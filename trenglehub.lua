@@ -8804,3 +8804,5 @@ addscript(7485253727,"True Piece [Auto Farm mobs, Auto Quest, Fruit Farm]", "Tru
 addscriptexist(2788229376, "DaHoodAntoLockSilentAimEsp", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DaHoodAntoLockSilentAimEsp.lua")
                     
 addscriptexist(4616652839, "ShindoLifeAutoQuestAutoFarmBossAutoSKill", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ShindoLifeAutoQuestAutoFarmBossAutoSKill.lua")
+                    
+addscriptexist(6802248248, "SAITAMANIAAutoQuestAutoFarmUseSkills", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SAITAMANIAAutoQuestAutoFarmUseSkills.lua")
