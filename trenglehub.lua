@@ -2118,3 +2118,5 @@ addscript(1730877806,"Grand Piece Online [No Fall Damage, Auto Farm Beli]", "Gra
                     
                     
 addscriptexist(10087074695, "KnifeStrifeDupeKnife", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/KnifeStrifeDupeKnife.lua")
+                    
+addscriptexist(621129760, "KnifeAbilityTestAimbot", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/KnifeAbilityTestAimbot.lua")
