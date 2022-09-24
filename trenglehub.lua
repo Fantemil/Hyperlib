@@ -7016,3 +7016,5 @@ addscriptexist(4954752502, "TowerofMiseryAutoWinTeleportToWinnerRoom", "Terni", 
 addscriptexist(7305309231, "TaxiBossINFINITEMONEYFARMSCRIPT100KIN50SECONDS", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TaxiBossINFINITEMONEYFARMSCRIPT100KIN50SECONDS.lua")
                     
 addscriptexist(8069117419, "DemonSoulSoulFarm", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DemonSoulSoulFarm.lua")
+                    
+addscriptexist(6728870912, "WorldofStandsDemoInfiniteGoldVampMasks", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/WorldofStandsDemoInfiniteGoldVampMasks.lua")
