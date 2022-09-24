@@ -7339,3 +7339,5 @@ addscriptexist(6422372837, "SnipersBETAGetModMenu", "Terni", "https://raw.github
     
 addscript(7535149098,"Space Tycoon [Insta Kill]", "SpaceTycoonInstaKill", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SpaceTycoonInstaKill.lua")
                     
+                    
+addscriptexist(5780309044, "StandsAwakeningRareItemAutoFarm", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/StandsAwakeningRareItemAutoFarm.lua")
