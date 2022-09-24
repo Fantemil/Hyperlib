@@ -2156,3 +2156,5 @@ addscript(3432786397,"Pet Mining Simulator [Btools, Kill]", "PetMiningSimulatorB
                     
                     
 addscriptexist(9551640993, "MiningSimulator2AutoMineAutoRebirthRedeemAllCodes", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MiningSimulator2AutoMineAutoRebirthRedeemAllCodes.lua")
+                    
+addscriptexist(7664413141, "CreeperChaosAnticheatbypassWalkspeedchanger", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CreeperChaosAnticheatbypassWalkspeedchanger.lua")
