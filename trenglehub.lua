@@ -1638,3 +1638,5 @@ addscriptexist(8737602449, "PLSDONATEAutoBegWebhook", "astrofile", "https://raw.
     
 addscript(9386846196,"Brawling Grounds [AddHeal, KillAura]", "BrawlingGroundsAddHealKillAura", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BrawlingGroundsAddHealKillAura.lua")
                     
+                    
+addscriptexist(6403373529, "SlapBattlesAutoFarm", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SlapBattlesAutoFarm.lua")
