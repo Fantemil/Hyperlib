@@ -5124,3 +5124,5 @@ addscript(2619187362,"Super Power Fighting Simulator [GUI - Auto Train, Auto Que
 addscriptexist(8540346411, "RebirthChampionsXGUIAutoFarmAutoRebirthMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RebirthChampionsXGUIAutoFarmAutoRebirthMore.lua")
                     
 addscriptexist(45146873, "TowerBattlesInfMoney", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TowerBattlesInfMoney.lua")
+                    
+addscriptexist(7488014850, "RAINBOWNPIECEServerCrusher", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RAINBOWNPIECEServerCrusher.lua")
