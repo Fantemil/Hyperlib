@@ -3779,3 +3779,5 @@ addscriptexist(2809202155, "YourBizarreAdventureGodMode", "Terni", "https://raw.
 addscriptexist(2753915549, "BloxFruitsUnlockAbilyti", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BloxFruitsUnlockAbilyti.lua")
                     
 addscriptexist(863266079, "ApocalypseRising2AntiZombieTeleport", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ApocalypseRising2AntiZombieTeleport.lua")
+                    
+addscriptexist(9359379224, "ChaoticBeanSimulatorAutoFarm", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ChaoticBeanSimulatorAutoFarm.lua")
