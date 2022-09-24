@@ -3508,3 +3508,6 @@ addscript(4838460619,"War Simulator 2 [Auto Farm]", "WarSimulator2AutoFarm", "Te
                     
                     
 addscriptexist(6678877691, "ZOぞSAMURAIAntiCheatBypass", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ZOぞSAMURAIAntiCheatBypass.lua")
+    
+addscript(679737281,"Moon City [GUI - Aimbot, Teleports & More!]", "MoonCityGUIAimbotTeleportsMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MoonCityGUIAimbotTeleportsMore.lua")
+                    
