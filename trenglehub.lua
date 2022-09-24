@@ -5436,3 +5436,5 @@ addscript(7014716500,"Pro Border [Get Any Rank , Rank Changer]", "ProBorderGetAn
 addscriptexist(6969185078, "ElementalAwakeningInstantCastAttemptsToChangeMaxRangeMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ElementalAwakeningInstantCastAttemptsToChangeMaxRangeMore.lua")
                     
 addscriptexist(6969185078, "ElementalAwakeningAutoSpinEasySetup", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ElementalAwakeningAutoSpinEasySetup.lua")
+                    
+addscriptexist(1224212277, "MadCityAntiScreenShake", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MadCityAntiScreenShake.lua")
