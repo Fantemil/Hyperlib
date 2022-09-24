@@ -6808,3 +6808,5 @@ addscriptexist(659222129, "Swordburst2FreeGUIAutoFarmMoreOpenSourse", "Terni", "
     
 addscript(4934471106,"My Hero Mania [GUI - Mob Auto Farm - Auto Quest]", "MyHeroManiaGUIMobAutoFarmAutoQuest", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MyHeroManiaGUIMobAutoFarmAutoQuest.lua")
                     
+                    
+addscriptexist(8396586868, "A0nePieceGameAutoFarm", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/A0nePieceGameAutoFarm.lua")
