@@ -2284,3 +2284,6 @@ addscript(9120036461,"Simple Basketball [Inf Money]", "SimpleBasketballInfMoney"
     
 addscript(6681032961,"Museum Tycoon [Inf Cash]", "MuseumTycoonInfCash", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MuseumTycoonInfCash.lua")
                     
+    
+addscript(6357903043,"Aniverse [Auto Farm, Auto Replay]", "AniverseAutoFarmAutoReplay", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AniverseAutoFarmAutoReplay.lua")
+                    
