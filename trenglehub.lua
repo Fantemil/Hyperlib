@@ -4682,3 +4682,6 @@ addscriptexist(5490351219, "ClickerMadnessAutoTapDeclineTradesGetAllGamepasses",
 addscriptexist(8603729161, "Walk50kstudsfornothingGetBadges", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Walk50kstudsfornothingGetBadges.lua")
                     
 addscriptexist(6788434697, "AniPhobiaInfiniteAmmoMuchMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AniPhobiaInfiniteAmmoMuchMore.lua")
+    
+addscript(7842028704,"Anime Sword Simulator [Auto Sword, Start Auto Rebirths, Redeem all Codes]", "AnimeSwordSimulatorAutoSwordStartAutoRebirthsRedeemallCodes", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AnimeSwordSimulatorAutoSwordStartAutoRebirthsRedeemallCodes.lua")
+                    
