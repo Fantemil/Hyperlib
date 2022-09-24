@@ -2409,3 +2409,5 @@ addscriptexist(7415160483, "RobloxAdminCommandsFE", "astrofile", "https://raw.gi
     
 addscript(2768379856,"SCP 3008 [Water Compatible, Give Items]", "SCP3008WaterCompatibleGiveItems", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SCP3008WaterCompatibleGiveItems.lua")
                     
+                    
+addscriptexist(9585537847, "SHADOVISRPGAutoFarm", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SHADOVISRPGAutoFarm.lua")
