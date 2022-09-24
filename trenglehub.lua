@@ -5098,3 +5098,6 @@ addscriptexist(488667523, "ThoseWhoRemainKillAll", "Terni", "https://raw.githubu
     
 addscript(5918187182,"Build A Gamiing PC Store [Infinite Cash]", "BuildAGamiingPCStoreInfiniteCash", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BuildAGamiingPCStoreInfiniteCash.lua")
                     
+    
+addscript(7830918930,"Gucci Town [Collect All Letters & More!]", "GucciTownCollectAllLettersMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/GucciTownCollectAllLettersMore.lua")
+                    
