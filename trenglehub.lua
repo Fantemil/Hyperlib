@@ -7135,3 +7135,5 @@ addscript(3436903748,"Squadron [Auto Farm]", "SquadronAutoFarm", "Terni", "https
                     
                     
 addscriptexist(4169490976, "MortemMetallumNuke", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MortemMetallumNuke.lua")
+                    
+addscriptexist(306964494, "LoomianLegacyFreeAutoFarm", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LoomianLegacyFreeAutoFarm.lua")
