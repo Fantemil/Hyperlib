@@ -7268,3 +7268,5 @@ addscriptexist(7167319176, "ChicagoRemasteredMoneyFarm", "Qalnik", "https://raw.
     
 addscript(7034960857,"Transforming toy simulator [Inf Money]", "TransformingtoysimulatorInfMoney", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TransformingtoysimulatorInfMoney.lua")
                     
+                    
+addscriptexist(679737281, "MoonCityTeleportAimbotVehicle", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MoonCityTeleportAimbotVehicle.lua")
