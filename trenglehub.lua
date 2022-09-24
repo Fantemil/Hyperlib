@@ -5857,3 +5857,5 @@ addscriptexist(9103460924, "SwordFactoryXAutoSpawnAutoKillBoss", "Terni", "https
     
 addscript(5233782396,"Creatures Of Sonaria [GUI Auto Farm]", "CreaturesOfSonariaGUIAutoFarm", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CreaturesOfSonariaGUIAutoFarm.lua")
                     
+                    
+addscriptexist(4996049426, "AllStarTowerDefenseStarPassFarm", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AllStarTowerDefenseStarPassFarm.lua")
