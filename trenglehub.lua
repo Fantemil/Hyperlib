@@ -7688,3 +7688,5 @@ addscript(8457306665,"Fruit Fighter Simulator [Auto Collect, Auto Sell]", "Fruit
 addscriptexist(156149963, "CrashChat", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CrashChat.lua")
                     
 addscriptexist(7993293100, "TsunamiGameAutoFarmCoins", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TsunamiGameAutoFarmCoins.lua")
+                    
+addscriptexist(662417684, "LuckyBlockBattlegroundsPressEtogetitems", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LuckyBlockBattlegroundsPressEtogetitems.lua")
