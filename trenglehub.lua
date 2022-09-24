@@ -2319,3 +2319,6 @@ addscriptexist(10524502174, "OnePunchFightersAutoFarmAutoRank", "astrofile", "ht
 addscriptexist(2753915549, "BloxFruitsAutoFarmBeli", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BloxFruitsAutoFarmBeli.lua")
                     
 addscriptexist(4809447488, "VentureTaleAutoRetryAutoCollect", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/VentureTaleAutoRetryAutoCollect.lua")
+    
+addscript(6468323505,"Spellbound ✨ Magic RPG [Auto Raid Tower, Inf Coins]", "Spellbound✨MagicRPGAutoRaidTowerInfCoins", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Spellbound✨MagicRPGAutoRaidTowerInfCoins.lua")
+                    
