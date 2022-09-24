@@ -6306,3 +6306,5 @@ addscriptexist(8302406789, "AnimeLiftingSimulatorAutoFarmGUI", "Terni", "https:/
     
 addscript(6711745807,"My Kingdom [Infinite Money - Open Source]", "MyKingdomInfiniteMoneyOpenSource", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MyKingdomInfiniteMoneyOpenSource.lua")
                     
+                    
+addscriptexist(662417684, "LUCKYBLOCKSBattlegroundsLuckyBlockclicktpinfitejump", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LUCKYBLOCKSBattlegroundsLuckyBlockclicktpinfitejump.lua")
