@@ -8503,3 +8503,6 @@ addscriptexist(6720959312, "LootQuestAutoFarmMobHideName", "Terni", "https://raw
 addscriptexist(263761432, "HorrificHousingAntiFall", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/HorrificHousingAntiFall.lua")
                     
 addscriptexist(6085581583, "ProjectHeroAutoFarmAutoQuestStats", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ProjectHeroAutoFarmAutoQuestStats.lua")
+    
+addscript(1535701761,"The Clown Killings Reborn [Kill Aura,Esp, HitBox]", "TheClownKillingsRebornKillAuraEspHitBox", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TheClownKillingsRebornKillAuraEspHitBox.lua")
+                    
