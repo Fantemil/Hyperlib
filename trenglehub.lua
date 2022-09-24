@@ -6269,3 +6269,5 @@ addscriptexist(292439477, "PhantomForcesRageLegitInvisibleGunMods", "Terni", "ht
 addscriptexist(8492553855, "ProjectUprightNoPunchCooldown", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ProjectUprightNoPunchCooldown.lua")
                     
 addscriptexist(8492553855, "ProjectUprightUseAnyMove", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ProjectUprightUseAnyMove.lua")
+                    
+addscriptexist(6778844213, "EuphoriaragdolltestingRagdollAll", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/EuphoriaragdolltestingRagdollAll.lua")
