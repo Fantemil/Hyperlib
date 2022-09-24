@@ -2661,3 +2661,5 @@ addscript(6950767274,"Fighter's Era [Roadwork Load]", "FightersEraRoadworkLoad",
 addscriptexist(7305309231, "TaxiBossAutoFarmTrophies", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TaxiBossAutoFarmTrophies.lua")
                     
 addscriptexist(10524502174, "OnePunchFightersAutoFarmautoeggs", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OnePunchFightersAutoFarmautoeggs.lua")
+                    
+addscriptexist(286090429, "ArsenalAutofarm", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ArsenalAutofarm.lua")
