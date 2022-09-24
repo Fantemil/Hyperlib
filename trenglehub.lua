@@ -2712,3 +2712,6 @@ addscriptexist(9829869210, "KarateKickSimulatorInfiniteMoney", "Terni", "https:/
 addscriptexist(9386846196, "BrawlingGroundsInstaKill", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BrawlingGroundsInstaKill.lua")
                     
 addscriptexist(9733390246, "StairTappersAutoPlay", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/StairTappersAutoPlay.lua")
+    
+addscript(8123652942,"Legend Piece [Instant Kill Mobs]", "LegendPieceInstantKillMobs", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LegendPieceInstantKillMobs.lua")
+                    
