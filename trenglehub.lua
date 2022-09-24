@@ -2038,3 +2038,5 @@ addscript(7285447838,"Tokyo Saga [Auto Farm Strenght, Money]", "TokyoSagaAutoFar
     
 addscript(3233893879,"Bad Business [Silent Aim]", "BadBusinessSilentAim", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BadBusinessSilentAim.lua")
                     
+                    
+addscriptexist(2788229376, "DaHoodLegitSilentAim", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DaHoodLegitSilentAim.lua")
