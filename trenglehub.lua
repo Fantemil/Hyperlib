@@ -3424,3 +3424,5 @@ addscriptexist(286090429, "ZeusHub4Games", "Terni", "https://raw.githubuserconte
 addscriptexist(2629642516, "BitcoinMinerAnticardlag", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BitcoinMinerAnticardlag.lua")
                     
 addscriptexist(8278412720, "CSPrisonLifeEscapeFromPrison", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CSPrisonLifeEscapeFromPrison.lua")
+                    
+addscriptexist(8278412720, "CSPrisonLifeSilentAim", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CSPrisonLifeSilentAim.lua")
