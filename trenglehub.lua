@@ -6725,3 +6725,5 @@ addscriptexist(2753915549, "BloxFruitsAutoFarmBoneFarmBossDropFruit", "Qalnik", 
     
 addscript(4811576324,"Totally Accurate Gun Simulator [Kill All]", "TotallyAccurateGunSimulatorKillAll", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TotallyAccurateGunSimulatorKillAll.lua")
                     
+                    
+addscriptexist(536102540, "DBZFinalStandAutoFarm", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DBZFinalStandAutoFarm.lua")
