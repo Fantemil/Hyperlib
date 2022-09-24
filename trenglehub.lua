@@ -5957,3 +5957,6 @@ addscriptexist(5543622168, "CriticalTowerDefenseEquipSecretUnit", "Terni", "http
 addscriptexist(5543622168, "CriticalTowerDefenseGetSecretUnit", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CriticalTowerDefenseGetSecretUnit.lua")
                     
 addscriptexist(4459593483, "FORCEPREALPHAIngredidntESP", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FORCEPREALPHAIngredidntESP.lua")
+    
+addscript(5410923773,"Coords Finder V2", "CoordsFinderV2", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CoordsFinderV2.lua")
+                    
