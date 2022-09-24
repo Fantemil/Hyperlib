@@ -3400,3 +3400,5 @@ addscriptexist(192800, "WorkataPizzaPlaceServBomber", "Qalnik", "https://raw.git
     
 addscript(6570234816,"Mano County Roleplay [Anticheat bypass]", "ManoCountyRoleplayAnticheatbypass", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ManoCountyRoleplayAnticheatbypass.lua")
                     
+                    
+addscriptexist(2413927524, "THERAKEKillEditionPointGiver", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/THERAKEKillEditionPointGiver.lua")
