@@ -7921,3 +7921,5 @@ addscriptexist(4042427666, "AnimeFightingSimulatorSlayerFarm", "Qalnik", "https:
 addscriptexist(2685347741, "GhostSimulatorAutoFarm", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/GhostSimulatorAutoFarm.lua")
                     
 addscriptexist(735030788, "RoyaleHighTeleportFarm", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RoyaleHighTeleportFarm.lua")
+                    
+addscriptexist(7279999673, "DragonBladeOpenWorldRPGFlingPLayers", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DragonBladeOpenWorldRPGFlingPLayers.lua")
