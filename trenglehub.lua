@@ -4619,3 +4619,5 @@ addscript(4954096313,"Field Trip Z [God Mode, Remove GodMode Get Donut]", "Field
     
 addscript(6788434697,"AniPhobia [Infinite Ammo, Fullbright, Kill All]", "AniPhobiaInfiniteAmmoFullbrightKillAll", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AniPhobiaInfiniteAmmoFullbrightKillAll.lua")
                     
+                    
+addscriptexist(4954096313, "FieldTripZDonutBandageGodMode", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FieldTripZDonutBandageGodMode.lua")
