@@ -8578,3 +8578,5 @@ addscript(4110892437,"Kaiju Universe [Server Crash Script]", "KaijuUniverseServe
     
 addscript(8097148487,"Magic Champions [Farm Gui]", "MagicChampionsFarmGui", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MagicChampionsFarmGui.lua")
                     
+                    
+addscriptexist(537413528, "BuildABoatForTreasureAutoFarmNEW", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BuildABoatForTreasureAutoFarmNEW.lua")
