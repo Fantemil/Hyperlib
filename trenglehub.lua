@@ -7917,3 +7917,5 @@ addscriptexist(536102540, "DBZFinalStandFarmMobs", "Qalnik", "https://raw.github
 addscriptexist(6284583030, "PetSimulatorXAutoFarmAutoOpenEggAutoPetCollection", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PetSimulatorXAutoFarmAutoOpenEggAutoPetCollection.lua")
                     
 addscriptexist(4042427666, "AnimeFightingSimulatorSlayerFarm", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AnimeFightingSimulatorSlayerFarm.lua")
+                    
+addscriptexist(2685347741, "GhostSimulatorAutoFarm", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/GhostSimulatorAutoFarm.lua")
