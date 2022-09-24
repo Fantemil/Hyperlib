@@ -7208,3 +7208,6 @@ addscriptexist(7842028704, "AnimeClashSimulatorAutoFarmAutoSellFarmBoss", "Qalni
 addscriptexist(8069117419, "DemonSoulAutoFarmAutoSkillAutoDraw", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DemonSoulAutoFarmAutoSkillAutoDraw.lua")
                     
 addscriptexist(8357510970, "AnimePunchingSimulatorAutoPunchAutoEggsMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AnimePunchingSimulatorAutoPunchAutoEggsMore.lua")
+    
+addscript(2961297129,"Death Zone [Item ESP - Base Noclip - Walkspeed]", "DeathZoneItemESPBaseNoclipWalkspeed", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DeathZoneItemESPBaseNoclipWalkspeed.lua")
+                    
