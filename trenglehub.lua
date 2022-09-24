@@ -1508,3 +1508,6 @@ addscriptexist(8750997647, "TappingLegendsXAutoClickAutoUpgrade", "astrofile", "
     
 addscript(9772878203,"raise a floppa 2 [Automatic Crystal Farm]", "raiseafloppa2AutomaticCrystalFarm", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/raiseafloppa2AutomaticCrystalFarm.lua")
                     
+    
+addscript(6428174188,"Lost RPG [Get All Items]", "LostRPGGetAllItems", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LostRPGGetAllItems.lua")
+                    
