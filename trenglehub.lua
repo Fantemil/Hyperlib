@@ -5481,3 +5481,5 @@ addscript(9426082120,"shoppingmode Samsung Superstar Galaxy [Auto Collect All St
 addscriptexist(6284583030, "PetSimulatorXNewGUILKHUB", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PetSimulatorXNewGUILKHUB.lua")
                     
 addscriptexist(4282985734, "CombatWarriorsCombatSpyModifiedRemoteSpy", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CombatWarriorsCombatSpyModifiedRemoteSpy.lua")
+                    
+addscriptexist(8278412720, "PrisonLifeRemasteredLocationTeleportationGUI", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PrisonLifeRemasteredLocationTeleportationGUI.lua")
