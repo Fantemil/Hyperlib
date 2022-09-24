@@ -2796,3 +2796,5 @@ addscriptexist(537413528, "BestBuildABoatForTreasureAutoFarmTp", "Qalnik", "http
     
 addscript(155382109,"Survive and Kill the Killers in Area 51 [Infinite ammo (legit and not), Nerf Killers, Restore Ammo]", "SurviveandKilltheKillersinArea51InfiniteammolegitandnotNerfKillersRestoreAmmo", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SurviveandKilltheKillersinArea51InfiniteammolegitandnotNerfKillersRestoreAmmo.lua")
                     
+                    
+addscriptexist(9285238704, "RaceClickerInfiniteSpeed", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RaceClickerInfiniteSpeed.lua")
