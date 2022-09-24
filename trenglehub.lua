@@ -7723,3 +7723,5 @@ addscript(4866692557,"Age of Heroes [Farm Mobs - Kill Players]", "AgeofHeroesFar
     
 addscript(8575272167,"Awakening Furry Defenses [Shut Down The Server Script]", "AwakeningFurryDefensesShutDownTheServerScript", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AwakeningFurryDefensesShutDownTheServerScript.lua")
                     
+                    
+addscriptexist(8357510970, "AnimePunchingSimulatorAutoPunchTeleportsMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AnimePunchingSimulatorAutoPunchTeleportsMore.lua")
