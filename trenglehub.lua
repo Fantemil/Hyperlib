@@ -2737,3 +2737,6 @@ addscriptexist(6874129651, "ShinyTools12Games", "Terni", "https://raw.githubuser
 addscriptexist(1224212277, "MadCityChapter2AutoArrest", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MadCityChapter2AutoArrest.lua")
                     
 addscriptexist(10118559731, "nicosnextbotsblackoutsOpenAllDoors", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/nicosnextbotsblackoutsOpenAllDoors.lua")
+    
+addscript(8500690972,"NO STOP Obby [Skip Stage]", "NOSTOPObbySkipStage", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NOSTOPObbySkipStage.lua")
+                    
