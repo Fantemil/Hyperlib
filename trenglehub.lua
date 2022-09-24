@@ -4648,3 +4648,5 @@ addscript(5827078246,"Coins Hero Simulator [Auto Coin, Auto Sell, AutoEgg]", "Co
     
 addscript(574407221,"Super Hero Tycoon [Crate Farm, Auto Cash, Auto Click]", "SuperHeroTycoonCrateFarmAutoCashAutoClick", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SuperHeroTycoonCrateFarmAutoCashAutoClick.lua")
                     
+                    
+addscriptexist(4522347649, "FreeAdminUnlockGamepass", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FreeAdminUnlockGamepass.lua")
