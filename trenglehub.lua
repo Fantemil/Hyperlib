@@ -7846,3 +7846,5 @@ addscriptexist(70005410, "BloxHuntTokensAutoFarm", "rbxscript", "https://raw.git
     
 addscript(7232779505,"Type Race [Auto Type]", "TypeRaceAutoType", "rbxscript", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TypeRaceAutoType.lua")
                     
+                    
+addscriptexist(1537690962, "BeeSwarmSimulatorRedeemCodes", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BeeSwarmSimulatorRedeemCodes.lua")
