@@ -6933,3 +6933,5 @@ addscriptexist(8357510970, "AnimePunchingSimulatorAutoClickAutoBestheroAutotrain
     
 addscript(8661265102,"Clicker Simulator [Auto Click]", "ClickerSimulatorAutoClick", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ClickerSimulatorAutoClick.lua")
                     
+                    
+addscriptexist(4195834406, "DragonBallOnlineGenerationsPlayerKillAuraServerHopTeleportToBosses", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DragonBallOnlineGenerationsPlayerKillAuraServerHopTeleportToBosses.lua")
