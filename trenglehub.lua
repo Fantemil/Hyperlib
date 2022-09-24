@@ -7041,3 +7041,5 @@ addscriptexist(8260276694, "AbilityWarsKillAll", "Terni", "https://raw.githubuse
     
 addscript(2971329387,"Cooks Burger [Toggle All Doors]", "CooksBurgerToggleAllDoors", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CooksBurgerToggleAllDoors.lua")
                     
+                    
+addscriptexist(109814071, "MedievalWarfareReforgedGUIGameKiller", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MedievalWarfareReforgedGUIGameKiller.lua")
