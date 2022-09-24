@@ -3515,3 +3515,6 @@ addscript(679737281,"Moon City [GUI - Aimbot, Teleports & More!]", "MoonCityGUIA
 addscriptexist(443406476, "ProjectLazarusGUIWeaponsModeVisualsMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ProjectLazarusGUIWeaponsModeVisualsMore.lua")
                     
 addscriptexist(3234050617, "Left2DieOverhaulGUIWeaponsModeVusials", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Left2DieOverhaulGUIWeaponsModeVusials.lua")
+    
+addscript(8977044503,"LEGACY ENGINE [7 Games]", "LEGACYENGINE7Games", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LEGACYENGINE7Games.lua")
+                    
