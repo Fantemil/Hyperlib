@@ -8443,3 +8443,5 @@ addscript(2901172949,"Right 2 Fight 1 [Shot Mobs]", "Right2Fight1ShotMobs", "Ter
     
 addscript(8160862936,"SUPER EATER SIMULATOR [Auto-Farm, Auto-Buy]", "SUPEREATERSIMULATORAutoFarmAutoBuy", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SUPEREATERSIMULATORAutoFarmAutoBuy.lua")
                     
+                    
+addscriptexist(3233893879, "BadBusiness253HitboxextendESP", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BadBusiness253HitboxextendESP.lua")
