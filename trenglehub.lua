@@ -2899,3 +2899,6 @@ addscriptexist(2727067538, "WorldZeroGUIAutoFarm", "Terni", "https://raw.githubu
     
 addscript(9573979853,"Revengers Dispute [ALPHA] [Infinite Money]", "RevengersDisputeALPHAInfiniteMoney", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RevengersDisputeALPHAInfiniteMoney.lua")
                     
+    
+addscript(5714258552,"Bizarre Heritage [Free Money And Xp]", "BizarreHeritageFreeMoneyAndXp", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BizarreHeritageFreeMoneyAndXp.lua")
+                    
