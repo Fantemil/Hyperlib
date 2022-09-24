@@ -5960,3 +5960,6 @@ addscriptexist(4459593483, "FORCEPREALPHAIngredidntESP", "Terni", "https://raw.g
     
 addscript(5410923773,"Coords Finder V2", "CoordsFinderV2", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CoordsFinderV2.lua")
                     
+    
+addscript(4825966600,"Roblox Audio Bypass", "RobloxAudioBypass", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RobloxAudioBypass.lua")
+                    
