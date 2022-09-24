@@ -7334,3 +7334,5 @@ addscriptexist(2753915549, "BloxFruitsFruitHopperAutoStoreRevamp", "Qalnik", "ht
 addscriptexist(2753915549, "BloxFruitsAutoFarmDungeonBuyItem", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BloxFruitsAutoFarmDungeonBuyItem.lua")
                     
 addscriptexist(7655745946, "DunkingSimulatorEarthAutoFarmSpaceAutoFarmAlwaysScore", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DunkingSimulatorEarthAutoFarmSpaceAutoFarmAlwaysScore.lua")
+                    
+addscriptexist(6422372837, "SnipersBETAGetModMenu", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SnipersBETAGetModMenu.lua")
