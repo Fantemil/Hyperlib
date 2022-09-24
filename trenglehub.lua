@@ -1834,3 +1834,5 @@ addscriptexist(10524502174, "OnePunchFightersAutoFarmMobAutoCollectCoinsAutoSumm
     
 addscript(218377574,"Admin Simulator [Auto Farm]", "AdminSimulatorAutoFarm", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AdminSimulatorAutoFarm.lua")
                     
+                    
+addscriptexist(9648883891, "FestivalTycoonInfMoney", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FestivalTycoonInfMoney.lua")
