@@ -7613,3 +7613,5 @@ addscriptexist(370731277, "MeepCityAvatarCloner", "rbxscript", "https://raw.gith
     
 addscript(3173458677,"Draw It [Auto Guess]", "DrawItAutoGuess", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DrawItAutoGuess.lua")
                     
+                    
+addscriptexist(292439477, "PhantomForcesRainbowGunArms", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PhantomForcesRainbowGunArms.lua")
