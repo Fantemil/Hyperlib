@@ -5901,3 +5901,5 @@ addscript(8395560237,"Kick Off [Free GUI – OP Features]", "KickOffFreeGUI–OP
                     
                     
 addscriptexist(8069117419, "DemonSoulSimulatorAutoAttackCollectSoursAutoPower", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DemonSoulSimulatorAutoAttackCollectSoursAutoPower.lua")
+                    
+addscriptexist(6677985923, "MillionaireEmpireTycoonInfiniteCashAutoBuyAutoRebirth", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MillionaireEmpireTycoonInfiniteCashAutoBuyAutoRebirth.lua")
