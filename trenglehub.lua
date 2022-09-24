@@ -4379,3 +4379,5 @@ addscriptexist(9103898828, "RogueDemonPunchDistance", "Qalnik", "https://raw.git
 addscriptexist(9559194006, "socialexperimentAutobloodrainChatpredictor", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/socialexperimentAutobloodrainChatpredictor.lua")
                     
 addscriptexist(443406476, "ProjectLazarusInfAmmoInstaKillEsp", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ProjectLazarusInfAmmoInstaKillEsp.lua")
+                    
+addscriptexist(142823291, "MurderMystery2GUIESPFakeKnifeMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MurderMystery2GUIESPFakeKnifeMore.lua")
