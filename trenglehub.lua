@@ -1675,3 +1675,5 @@ addscriptexist(6516141723, "DOORSFullbrightEsp", "astrofile", "https://raw.githu
 addscriptexist(4042427666, "AnimeFightingSimulatorAutoFarmMobFarmChikaraShards", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AnimeFightingSimulatorAutoFarmMobFarmChikaraShards.lua")
                     
 addscriptexist(6447798030, "FunkyFridayAutoPlayAutoFarm", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FunkyFridayAutoPlayAutoFarm.lua")
+                    
+addscriptexist(5956785391, "ProjectSlayersInfStaminaAutofarm", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ProjectSlayersInfStaminaAutofarm.lua")
