@@ -2393,3 +2393,5 @@ addscriptexist(1962086868, "TowerofHellGodModeInfJump", "astrofile", "https://ra
     
 addscript(4410049285,"Driving Simulator [Walkspeed, Rainbow Car]", "DrivingSimulatorWalkspeedRainbowCar", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DrivingSimulatorWalkspeedRainbowCar.lua")
                     
+                    
+addscriptexist(10524502174, "OnePunchFightersAutoRankUpAutoClick", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OnePunchFightersAutoRankUpAutoClick.lua")
