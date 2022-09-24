@@ -8188,3 +8188,6 @@ addscriptexist(6490016198, "SlayerTycoonMINEWOOD", "Terni", "https://raw.githubu
 addscriptexist(3587619225, "MegaEasyObbyAUTOFARM", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MegaEasyObbyAUTOFARM.lua")
                     
 addscriptexist(5104202731, "SouthwestFloridaBetaCarSpeed", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SouthwestFloridaBetaCarSpeed.lua")
+    
+addscript(3127396113,"Avengers Testing Server [Kill All]", "AvengersTestingServerKillAll", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AvengersTestingServerKillAll.lua")
+                    
