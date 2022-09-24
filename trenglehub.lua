@@ -4145,3 +4145,6 @@ addscript(6937208251,"Star Wars", "StarWarsBattlegroundSilentAim", "Qalnik", "ht
                     
                     
 addscriptexist(9551640993, "MiningSimulator2AutoFarmGUI", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MiningSimulator2AutoFarmGUI.lua")
+    
+addscript(632642533,"DeadMist 2 Beta [God Mode, Teleport Bypass]", "DeadMist2BetaGodModeTeleportBypass", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DeadMist2BetaGodModeTeleportBypass.lua")
+                    
