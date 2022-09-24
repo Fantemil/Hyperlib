@@ -2430,3 +2430,6 @@ addscript(10315830663,"Cant Say The Letter [Inf Time]", "CantSayTheLetterInfTime
 addscriptexist(10315830663, "CantSayTheLetterGiveTools", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CantSayTheLetterGiveTools.lua")
                     
 addscriptexist(10315830663, "CantSayTheLetterCansaysLetter", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CantSayTheLetterCansaysLetter.lua")
+    
+addscript(10011532704,"Anime Brawl Simulator [Inf Stars]", "AnimeBrawlSimulatorInfStars", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AnimeBrawlSimulatorInfStars.lua")
+                    
