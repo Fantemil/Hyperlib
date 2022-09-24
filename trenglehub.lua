@@ -2710,3 +2710,5 @@ addscriptexist(5956785391, "ProjectSlayersKillAuraTeleportsMore", "Terni", "http
 addscriptexist(9829869210, "KarateKickSimulatorInfiniteMoney", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/KarateKickSimulatorInfiniteMoney.lua")
                     
 addscriptexist(9386846196, "BrawlingGroundsInstaKill", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BrawlingGroundsInstaKill.lua")
+                    
+addscriptexist(9733390246, "StairTappersAutoPlay", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/StairTappersAutoPlay.lua")
