@@ -4148,3 +4148,5 @@ addscriptexist(9551640993, "MiningSimulator2AutoFarmGUI", "Qalnik", "https://raw
     
 addscript(632642533,"DeadMist 2 Beta [God Mode, Teleport Bypass]", "DeadMist2BetaGodModeTeleportBypass", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DeadMist2BetaGodModeTeleportBypass.lua")
                     
+                    
+addscriptexist(180037022, "SonicUltimateRPGFarmRings", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SonicUltimateRPGFarmRings.lua")
