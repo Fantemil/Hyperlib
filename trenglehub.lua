@@ -1807,3 +1807,6 @@ addscript(10157366004,"Strongest Tapper Simulator [AutoUpgrade, AutoClick]", "St
 addscriptexist(142823291, "MurderMystery2EspGodmode", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MurderMystery2EspGodmode.lua")
                     
 addscriptexist(5326405001, "BaseBattlesNoSpreadEsp", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BaseBattlesNoSpreadEsp.lua")
+    
+addscript(5901548022,"Try To Die [Give All Tools]", "TryToDieGiveAllTools", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TryToDieGiveAllTools.lua")
+                    
