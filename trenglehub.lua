@@ -2313,3 +2313,5 @@ addscriptexist(10184360875, "PetFishingSimulatorInfMoney", "astrofile", "https:/
     
 addscript(2039118386,"Neighborhood war [Anti Ragdoll, No fall dmg]", "NeighborhoodwarAntiRagdollNofalldmg", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NeighborhoodwarAntiRagdollNofalldmg.lua")
                     
+                    
+addscriptexist(10524502174, "OnePunchFightersAutoFarmAutoRank", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OnePunchFightersAutoFarmAutoRank.lua")
