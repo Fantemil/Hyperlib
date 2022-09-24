@@ -7522,3 +7522,5 @@ addscriptexist(8656125900, "BritsVIPPartyftPinkPantheressAllBadges", "Qalnik", "
     
 addscript(6879598157,"Roblox [Animation Logger]", "RobloxAnimationLogger", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RobloxAnimationLogger.lua")
                     
+                    
+addscriptexist(8592863835, "MagnetSimulator218XAutoSellScript", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MagnetSimulator218XAutoSellScript.lua")
