@@ -7801,3 +7801,5 @@ addscriptexist(6299805723, "AnimeFightersSimulatorPetSpeedChanger", "Qalnik", "h
 addscriptexist(3102144307, "AnimeClickerSimulatorGUIAutoClickMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AnimeClickerSimulatorGUIAutoClickMore.lua")
                     
 addscriptexist(8380203210, "ObliterationOrbsAutoCollectOrbs", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ObliterationOrbsAutoCollectOrbs.lua")
+                    
+addscriptexist(7993293100, "TsunamiGameAutoFarm", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TsunamiGameAutoFarm.lua")
