@@ -2501,3 +2501,5 @@ addscript(7167319176,"Chicago Remastered [Speed, Jump Power]", "ChicagoRemastere
                     
                     
 addscriptexist(2537430692, "JengaAutoWin", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/JengaAutoWin.lua")
+                    
+addscriptexist(8811271345, "BalancedCraftwarsOverhaulAutoEquipTeleport", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BalancedCraftwarsOverhaulAutoEquipTeleport.lua")
