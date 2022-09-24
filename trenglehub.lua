@@ -6498,3 +6498,5 @@ addscriptexist(5062619730, "WarSimulatorGunMod", "Qalnik", "https://raw.githubus
 addscriptexist(8396586868, "AOnePieceGameAutoFarmGUIFruitHopperMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AOnePieceGameAutoFarmGUIFruitHopperMore.lua")
                     
 addscriptexist(8448735476, "AnimeRiftsGUIAutoFarm", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AnimeRiftsGUIAutoFarm.lua")
+                    
+addscriptexist(4588604953, "CriminalityEspGUINew", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CriminalityEspGUINew.lua")
