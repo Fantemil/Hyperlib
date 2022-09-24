@@ -5704,3 +5704,5 @@ addscript(6840498537,"Strucid [Legit, Semi Rage]", "StrucidLegitSemiRage", "Tern
                     
                     
 addscriptexist(8916037983, "StarvingArtistsGETEASTERBOOTHSCRIPT", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/StarvingArtistsGETEASTERBOOTHSCRIPT.lua")
+                    
+addscriptexist(9461798258, "RaiseaGrannySpawnamaid", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RaiseaGrannySpawnamaid.lua")
