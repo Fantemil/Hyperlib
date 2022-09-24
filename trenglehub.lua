@@ -5402,3 +5402,6 @@ addscript(5802642341,"City Life [Auto Steal - Auto Fire GUI]", "CityLifeAutoStea
                     
                     
 addscriptexist(5490351219, "ClickerMadnessAutoFarmGUI", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ClickerMadnessAutoFarmGUI.lua")
+    
+addscript(9557222597,"Clarks CICAVERSE [Auto Collect And Complete Event]", "ClarksCICAVERSEAutoCollectAndCompleteEvent", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ClarksCICAVERSEAutoCollectAndCompleteEvent.lua")
+                    
