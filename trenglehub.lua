@@ -1657,3 +1657,6 @@ addscript(7050008107,"Hospital Tycoon [Collect Cash, Buy Buttons]", "HospitalTyc
                     
                     
 addscriptexist(8146731988, "UltraPowerTycoonPowerGrabAllitems", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/UltraPowerTycoonPowerGrabAllitems.lua")
+    
+addscript(7860844204,"Life Sentence [KillAura, ItemFarm]", "LifeSentenceKillAuraItemFarm", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LifeSentenceKillAuraItemFarm.lua")
+                    
