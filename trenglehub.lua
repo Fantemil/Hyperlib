@@ -6441,3 +6441,5 @@ addscriptexist(30869879, "StopItSlenderGodMode", "Terni", "https://raw.githubuse
     
 addscript(6911148748,"Car Driving Indonesia [Rainbow Car & Car Speed]", "CarDrivingIndonesiaRainbowCarCarSpeed", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CarDrivingIndonesiaRainbowCarCarSpeed.lua")
                     
+                    
+addscriptexist(6778844213, "EuphoriaragdolltestingDeathFarm", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/EuphoriaragdolltestingDeathFarm.lua")
