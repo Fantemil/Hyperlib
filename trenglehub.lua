@@ -6913,3 +6913,5 @@ addscriptexist(6125809531, "UntitledAttackOnTitanMISSIONAUTOFARM", "Qalnik", "ht
 addscriptexist(8377686524, "UndertaleLastResetGodmode", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/UndertaleLastResetGodmode.lua")
                     
 addscriptexist(5108587039, "PalmRidgeBetaAutoFarm", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PalmRidgeBetaAutoFarm.lua")
+                    
+addscriptexist(6808416928, "DDAYAimbotESPMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DDAYAimbotESPMore.lua")
