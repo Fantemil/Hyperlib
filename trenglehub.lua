@@ -4780,3 +4780,5 @@ addscript(6143963763,"Untitled Combat Arena [Auto Farm Money]", "UntitledCombatA
                     
                     
 addscriptexist(2768379856, "300827AdminSpoofer", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/300827AdminSpoofer.lua")
+                    
+addscriptexist(9049840490, "SonicSpeedSimulatorUnlockAllPrizes", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SonicSpeedSimulatorUnlockAllPrizes.lua")
