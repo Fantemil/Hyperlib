@@ -2202,3 +2202,6 @@ addscriptexist(8540346411, "RebirthChampionsXAutoClickAutoHatch", "astrofile", "
 addscriptexist(9872472334, "EvadeGodModeAutoFarmXP", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/EvadeGodModeAutoFarmXP.lua")
                     
 addscriptexist(9585537847, "SHADOVISRPGAutoHeal", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SHADOVISRPGAutoHeal.lua")
+    
+addscript(9243187709,"Pedagondia Faunas [Inf Stamina, Auto Eat]", "PedagondiaFaunasInfStaminaAutoEat", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PedagondiaFaunasInfStaminaAutoEat.lua")
+                    
