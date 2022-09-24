@@ -1175,3 +1175,5 @@ addscriptexist(9417197334, "AnimeStoryAutoFarmSemiInstantKill", "Terni", "https:
 addscriptexist(9662949425, "PunchabrickwallsimulatorInfiniteBonesAutoRebirth", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PunchabrickwallsimulatorInfiniteBonesAutoRebirth.lua")
                     
 addscriptexist(5498056786, "HandballAssociationInfiniteStaminaNoDiveCooldown", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/HandballAssociationInfiniteStaminaNoDiveCooldown.lua")
+                    
+addscriptexist(8146731988, "UltraPowerTycoonGUIAutoFarm", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/UltraPowerTycoonGUIAutoFarm.lua")
