@@ -4062,3 +4062,6 @@ addscript(9734866408,"Basketball Simulator [Infinite Coins]", "BasketballSimulat
 addscriptexist(9396463375, "MiningEmpireInfiniteCoins", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MiningEmpireInfiniteCoins.lua")
                     
 addscriptexist(8884334497, "MiningClickerSimulatorAutoClicksMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MiningClickerSimulatorAutoClicksMore.lua")
+    
+addscript(8232438881,"Thief Simulator [Npc Rob]", "ThiefSimulatorNpcRob", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ThiefSimulatorNpcRob.lua")
+                    
