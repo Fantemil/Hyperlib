@@ -2673,3 +2673,5 @@ addscript(5201039691,"Tatakai V.2 [ESP, Autofarm]", "TatakaiV2ESPAutofarm", "ast
                     
                     
 addscriptexist(192800, "WorkataPizzaPlaceAutoFarmWalkspeed", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/WorkataPizzaPlaceAutoFarmWalkspeed.lua")
+                    
+addscriptexist(10351639671, "AnimeLegendsSimulatorAutoClickAutoEgg", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AnimeLegendsSimulatorAutoClickAutoEgg.lua")
