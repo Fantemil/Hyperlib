@@ -1663,3 +1663,6 @@ addscript(7860844204,"Life Sentence [KillAura, ItemFarm]", "LifeSentenceKillAura
     
 addscript(10117551326,"UTBM (Dustpreme Hall drip) [God Mode]", "UTBMDustpremeHalldripGodMode", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/UTBMDustpremeHalldripGodMode.lua")
                     
+    
+addscript(9949781550,"Digging Simulator [Inf Money]", "DiggingSimulatorInfMoney", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DiggingSimulatorInfMoney.lua")
+                    

@@ -1,0 +1,1 @@
+ game:GetService("ReplicatedStorage").ServerEvents.DailyChestCollection:FireServer(999999999999999999)
