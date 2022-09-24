@@ -4556,3 +4556,6 @@ addscriptexist(9726345231, "DuolingoGameHubCollectAllCoins", "Terni", "https://r
     
 addscript(9565394231,"click the sphere [Auto Click]", "clickthesphereAutoClick", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/clickthesphereAutoClick.lua")
                     
+    
+addscript(1345139196,"Treasure Hunt Simulator [Auto Farm]", "TreasureHuntSimulatorAutoFarm", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TreasureHuntSimulatorAutoFarm.lua")
+                    
