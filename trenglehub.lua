@@ -2138,3 +2138,5 @@ addscript(9980179145,"Speed Race Clicker [AutoFarm, AutoChest]", "SpeedRaceClick
                     
                     
 addscriptexist(4951858512, "VictoryRaceWalkSpeed", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/VictoryRaceWalkSpeed.lua")
+                    
+addscriptexist(8425637426, "RobloxChangestheletters", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RobloxChangestheletters.lua")
