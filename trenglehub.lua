@@ -1505,3 +1505,6 @@ addscriptexist(8458333139, "1LIFEKillTpeveryone", "Qalnik", "https://raw.githubu
 addscriptexist(10676523834, "RacingRocketUpgradeRocket", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RacingRocketUpgradeRocket.lua")
                     
 addscriptexist(8750997647, "TappingLegendsXAutoClickAutoUpgrade", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TappingLegendsXAutoClickAutoUpgrade.lua")
+    
+addscript(9772878203,"raise a floppa 2 [Automatic Crystal Farm]", "raiseafloppa2AutomaticCrystalFarm", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/raiseafloppa2AutomaticCrystalFarm.lua")
+                    
