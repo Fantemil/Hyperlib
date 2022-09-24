@@ -8449,3 +8449,5 @@ addscriptexist(3233893879, "BadBusiness253HitboxextendESP", "Terni", "https://ra
 addscriptexist(2317712696, "TheWildWestAutoSprintAimBotFullBright", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TheWildWestAutoSprintAimBotFullBright.lua")
                     
 addscriptexist(286090429, "ArsenalEspAimbot", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ArsenalEspAimbot.lua")
+                    
+addscriptexist(4490140733, "MyRestaurantAutoFarmFaspNPCsAutoSit", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MyRestaurantAutoFarmFaspNPCsAutoSit.lua")
