@@ -3211,3 +3211,5 @@ addscript(9702206679,"Heroes Daydream [Auto Farm V2]", "HeroesDaydreamAutoFarmV2
                     
                     
 addscriptexist(5571328985, "BloodlinesInfiniteCashMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BloodlinesInfiniteCashMore.lua")
+                    
+addscriptexist(9702206679, "HeroesDaydreamAutoFarm", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/HeroesDaydreamAutoFarm.lua")
