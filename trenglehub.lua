@@ -5219,3 +5219,5 @@ addscript(6342469457,"Heavens Arena [GUI - Auto Click, Auto Skill & More!]", "He
 addscriptexist(537413528, "BuildABoatForTreasureGUIAutoFarmAutoBuy", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BuildABoatForTreasureGUIAutoFarmAutoBuy.lua")
                     
 addscriptexist(28382335, "SurvivalZombieTycoonGUIAutoClickAutoCollectMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SurvivalZombieTycoonGUIAutoClickAutoCollectMore.lua")
+                    
+addscriptexist(6769764667, "FactorySimulatorGUIAutoBuyAutoCollect", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FactorySimulatorGUIAutoBuyAutoCollect.lua")
