@@ -6921,3 +6921,5 @@ addscriptexist(292439477, "PhantomForcesSnipeHead", "Qalnik", "https://raw.githu
 addscriptexist(6125809531, "UntitledAttackOnTitanAutoFArmKillAuraInfGas", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/UntitledAttackOnTitanAutoFArmKillAuraInfGas.lua")
                     
 addscriptexist(6284583030, "PetSimulatorXAutoEnchant", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PetSimulatorXAutoEnchant.lua")
+                    
+addscriptexist(8110180444, "StrongPetSimulatorAutoCarryAutoeggInstantTrain", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/StrongPetSimulatorAutoCarryAutoeggInstantTrain.lua")
