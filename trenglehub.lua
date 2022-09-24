@@ -7421,3 +7421,5 @@ addscriptexist(621129760, "KATAutoFarmSilentAimNew", "Terni", "https://raw.githu
 addscriptexist(536102540, "DragonBallFinalStandAutoQuestAutoPlayGUI", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DragonBallFinalStandAutoQuestAutoPlayGUI.lua")
                     
 addscriptexist(534701013, "TheLabyrinthAutoFarm", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TheLabyrinthAutoFarm.lua")
+                    
+addscriptexist(7655745946, "DunkingSimulatorAutoFarm", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DunkingSimulatorAutoFarm.lua")
