@@ -5182,3 +5182,6 @@ addscript(7429434108,"Anime Tappers [GUI - Auto Farm, Auto Upgrade]", "AnimeTapp
     
 addscript(7444263453,"Jetpack Jumpers [GUI - Auto Farm, Reedem Codes]", "JetpackJumpersGUIAutoFarmReedemCodes", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/JetpackJumpersGUIAutoFarmReedemCodes.lua")
                     
+    
+addscript(680750021,"Case Clicker [GUI - Auto Farm, Auto Upgrade]", "CaseClickerGUIAutoFarmAutoUpgrade", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CaseClickerGUIAutoFarmAutoUpgrade.lua")
+                    
