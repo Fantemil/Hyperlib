@@ -917,3 +917,6 @@ addscriptexist(10631181587, "StoneMinerSimulator2AutoRebirth", "astrofile", "htt
     
 addscript(9829869210,"Karate Kick Simulator ", "KarateKickSimulatorKillAll", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/KarateKickSimulatorKillAll.lua")
                     
+    
+addscript(8146731988,"Ultra Power Tycoon ", "UltraPowerTycoonInfJumpPlayerModificationsEsp", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/UltraPowerTycoonInfJumpPlayerModificationsEsp.lua")
+                    
