@@ -1943,3 +1943,5 @@ addscriptexist(2622527242, "SCPrBreachInfCapacityFastEscape", "astrofile", "http
 addscriptexist(2665326799, "FindTheButtonEspInfJump", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FindTheButtonEspInfJump.lua")
                     
 addscriptexist(8540346411, "RebirthChampionsXAutoRebrithAutoEquipBestPets", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RebirthChampionsXAutoRebrithAutoEquipBestPets.lua")
+                    
+addscriptexist(6608498361, "cursedtanksimulatorBigCrew", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/cursedtanksimulatorBigCrew.lua")
