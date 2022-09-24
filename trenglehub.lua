@@ -5513,3 +5513,6 @@ addscript(8394872314,"Garden Tower Defense [Unlock All Towers]", "GardenTowerDef
     
 addscript(8781849572,"Star Simulator Beta [Infinite Planks & Iron - Auto Farm - Unlock All Land]", "StarSimulatorBetaInfinitePlanksIronAutoFarmUnlockAllLand", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/StarSimulatorBetaInfinitePlanksIronAutoFarmUnlockAllLand.lua")
                     
+    
+addscript(4836735146,"Street Shootout Beta [Infinite Money]", "StreetShootoutBetaInfiniteMoney", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/StreetShootoutBetaInfiniteMoney.lua")
+                    
