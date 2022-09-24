@@ -2386,3 +2386,5 @@ addscript(2396588044,"Adopt and Raise [Inf Money]", "AdoptandRaiseInfMoney", "as
 addscriptexist(7952502098, "ImpossibleGlassBridgeObbyHighlightsallincorrectones", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ImpossibleGlassBridgeObbyHighlightsallincorrectones.lua")
                     
 addscriptexist(2537430692, "JengaEndGameFly", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/JengaEndGameFly.lua")
+                    
+addscriptexist(286090429, "ArsenalKillAllSilentAim", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ArsenalKillAllSilentAim.lua")
