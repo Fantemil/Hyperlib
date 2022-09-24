@@ -3833,3 +3833,6 @@ addscript(413424176,"Clone Tycoon 2 [Infinite Cash]", "CloneTycoon2InfiniteCash"
 addscriptexist(3101667897, "LegendsOfSpeedAutoFarm", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LegendsOfSpeedAutoFarm.lua")
                     
 addscriptexist(263761432, "HorrificHousingGUIDestroyMeteorMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/HorrificHousingGUIDestroyMeteorMore.lua")
+    
+addscript(9601565001,"Car Crash System [Spawn Any Paid Car]", "CarCrashSystemSpawnAnyPaidCar", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CarCrashSystemSpawnAnyPaidCar.lua")
+                    
