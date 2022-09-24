@@ -8417,3 +8417,6 @@ addscript(5026999321,"A Dumb Day [TP ALL ITEM, INF HEALTH]", "ADumbDayTPALLITEMI
 addscriptexist(6329844902, "LastPiratesMOBFARMAUTOATTACH", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LastPiratesMOBFARMAUTOATTACH.lua")
                     
 addscriptexist(4042427666, "AnimeFightingSimulatorAutoFarmAutoFarmAllAitJump", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AnimeFightingSimulatorAutoFarmAutoFarmAllAitJump.lua")
+    
+addscript(5535087806,"Tapping Mania [Easy Stats, Auto-Farm]", "TappingManiaEasyStatsAutoFarm", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TappingManiaEasyStatsAutoFarm.lua")
+                    
