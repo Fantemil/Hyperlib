@@ -4131,3 +4131,6 @@ addscript(9726345231,"Duolingo Game Hub [Inf Money]", "DuolingoGameHubInfMoney",
     
 addscript(8798268679,"Crossroad Combat", "CrossroadCombat", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CrossroadCombat.lua")
                     
+    
+addscript(180037022,"Sonic Ultimate RPG [Loop Collect All Rings, Collect All Chaos Emeralds, No ring drain]", "SonicUltimateRPGLoopCollectAllRingsCollectAllChaosEmeraldsNoringdrain", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SonicUltimateRPGLoopCollectAllRingsCollectAllChaosEmeraldsNoringdrain.lua")
+                    
