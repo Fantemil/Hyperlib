@@ -1534,3 +1534,5 @@ addscript(8328351891,"Mega Mansion Tycoon [Auto Buy, Auto Collect, Money Make Da
     
 addscript(8425637426,"Write a Letter [Auto Give Notes]", "WriteaLetterAutoGiveNotes", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/WriteaLetterAutoGiveNotes.lua")
                     
+                    
+addscriptexist(8737602449, "PLSDONATERandomFoureneCookie", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PLSDONATERandomFoureneCookie.lua")
