@@ -3681,3 +3681,5 @@ addscript(5357899168,"Dinosaur Arcade [BETA] [Fossil Finder]", "DinosaurArcadeBE
     
 addscript(5104202731,"Southwest Florida Beta [Click Teleport To Cars]", "SouthwestFloridaBetaClickTeleportToCars", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SouthwestFloridaBetaClickTeleportToCars.lua")
                     
+                    
+addscriptexist(263761432, "HorrificHousingGodmodeDestroyMeteorKillAll", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/HorrificHousingGodmodeDestroyMeteorKillAll.lua")
