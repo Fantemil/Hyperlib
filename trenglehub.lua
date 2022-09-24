@@ -6316,3 +6316,5 @@ addscriptexist(6878438976, "DeveloperInc10KCashIn30Seconds", "Terni", "https://r
 addscriptexist(386329050, "TheBlackMesaIncidentFreeGamepassGun", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TheBlackMesaIncidentFreeGamepassGun.lua")
                     
 addscriptexist(9049840490, "SonicSpeedSimulatorGainXpStepsByDoingNothing", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SonicSpeedSimulatorGainXpStepsByDoingNothing.lua")
+                    
+addscriptexist(4505214429, "SoulEaterResonanceEaterFarm", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SoulEaterResonanceEaterFarm.lua")
