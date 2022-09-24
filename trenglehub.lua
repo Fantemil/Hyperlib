@@ -8023,3 +8023,5 @@ addscript(3440262694,"Airport Tycoon [Redeem Codes]", "AirportTycoonRedeemCodes"
     
 addscript(6114360009,"Prison Life 3 [Auto Farm]", "PrisonLife3AutoFarm", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PrisonLife3AutoFarm.lua")
                     
+                    
+addscriptexist(6542731310, "DogecoinMiningTycoonGumDupe", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DogecoinMiningTycoonGumDupe.lua")
