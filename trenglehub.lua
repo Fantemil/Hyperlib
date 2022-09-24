@@ -5492,3 +5492,6 @@ addscript(6878438976,"Developer Inc. [Infinite Money]", "DeveloperIncInfiniteMon
                     
                     
 addscriptexist(8540346411, "RebirthChampionsXUnlimitedClicksFarm", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RebirthChampionsXUnlimitedClicksFarm.lua")
+    
+addscript(6622795055,"Berkeley County, Concord [Client Anti Cheat Bypass]", "BerkeleyCountyConcordClientAntiCheatBypass", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BerkeleyCountyConcordClientAntiCheatBypass.lua")
+                    
