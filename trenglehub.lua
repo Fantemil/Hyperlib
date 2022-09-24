@@ -6738,3 +6738,5 @@ addscriptexist(2809202155, "YourBizarreAdventureInvis", "Qalnik", "https://raw.g
     
 addscript(9689546964,"Roblox [Menu 2016]", "RobloxMenu2016", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RobloxMenu2016.lua")
                     
+                    
+addscriptexist(6998582502, "DungeonCrusadersAutoFarm", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DungeonCrusadersAutoFarm.lua")
