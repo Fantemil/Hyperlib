@@ -7970,3 +7970,6 @@ addscript(6853377206,"Ported Weapon Animations [Silent Aim, Auto Shoot]", "Porte
                     
                     
 addscriptexist(4714807265, "clicktogetbiggerInаRebirth", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/clicktogetbiggerInаRebirth.lua")
+    
+addscript(6585294146,"Lifting Items Simulator [Auto Farm]", "LiftingItemsSimulatorAutoFarm", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LiftingItemsSimulatorAutoFarm.lua")
+                    
