@@ -4358,3 +4358,5 @@ addscriptexist(35397735, "ScubaDivingatQuillLakeInfMoney", "Qalnik", "https://ra
     
 addscript(3044285976,"BloxRP [Fist, Melee Kill Aura]", "BloxRPFistMeleeKillAura", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BloxRPFistMeleeKillAura.lua")
                     
+                    
+addscriptexist(7261261021, "RagingSeasInfiniteStamina", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RagingSeasInfiniteStamina.lua")
