@@ -8141,3 +8141,6 @@ addscriptexist(4520749081, "KingLegacyGUIFarmLevelAutoStatsMore", "Terni", "http
     
 addscript(69817459,"Digimon Masters [Insta Collect All Chests]", "DigimonMastersInstaCollectAllChests", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DigimonMastersInstaCollectAllChests.lua")
                     
+    
+addscript(7853511605,"Transfurify Remastered [Auto Escape]", "TransfurifyRemasteredAutoEscape", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TransfurifyRemasteredAutoEscape.lua")
+                    
