@@ -5407,3 +5407,6 @@ addscript(9557222597,"Clarks CICAVERSE [Auto Collect And Complete Event]", "Clar
                     
                     
 addscriptexist(9557222597, "ClarksCICAVERSEAutoFarmTeleports", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ClarksCICAVERSEAutoFarmTeleports.lua")
+    
+addscript(8137333410,"Color by number [Fast Auto Paint]", "ColorbynumberFastAutoPaint", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ColorbynumberFastAutoPaint.lua")
+                    
