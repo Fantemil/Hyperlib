@@ -3805,3 +3805,5 @@ addscript(6058150350,"Destruction Physics [Physics Lag players]", "DestructionPh
     
 addscript(9281034297,"Goal Kick Simulator [Faster Auto Kick]", "GoalKickSimulatorFasterAutoKick", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/GoalKickSimulatorFasterAutoKick.lua")
                     
+                    
+addscriptexist(10118559731, "nicosnextbotsEsptpSafeZone", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/nicosnextbotsEsptpSafeZone.lua")
