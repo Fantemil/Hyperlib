@@ -4229,3 +4229,5 @@ addscript(5944009947,"FORCE [TESTING-ZONE] [Trinket Auto Farm & More!]", "FORCET
     
 addscript(9845369668,"Goofy Ahh Spider-Man [GUI - Give All Skins]", "GoofyAhhSpiderManGUIGiveAllSkins", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/GoofyAhhSpiderManGUIGiveAllSkins.lua")
                     
+                    
+addscriptexist(8123652942, "LegendPieceFruitChanger", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LegendPieceFruitChanger.lua")
