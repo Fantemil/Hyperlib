@@ -3236,3 +3236,5 @@ addscript(30869879,"Stop it, Slender! [Free Premium Lootboxes]", "StopitSlenderF
                     
                     
 addscriptexist(10192063645, "ThyHoodSemiGodMode", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ThyHoodSemiGodMode.lua")
+                    
+addscriptexist(3346617530, "FreezeTagExtremev24AntiAdminTagAllPlayersMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FreezeTagExtremev24AntiAdminTagAllPlayersMore.lua")
