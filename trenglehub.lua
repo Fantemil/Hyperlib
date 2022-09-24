@@ -3775,3 +3775,5 @@ addscript(6938803436,"Anime Dimensions Simulator [Auto Farm]", "AnimeDimensionsS
                     
                     
 addscriptexist(2809202155, "YourBizarreAdventureGodMode", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/YourBizarreAdventureGodMode.lua")
+                    
+addscriptexist(2753915549, "BloxFruitsUnlockAbilyti", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BloxFruitsUnlockAbilyti.lua")
