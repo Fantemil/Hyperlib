@@ -603,7 +603,7 @@ z:Seperator()
 
 local lbls = serv:Channel("Credits")
 
-lbls:Label("hviqz#0001 made this script!")
+lbls:Label("hviqz#4825 made this script!")
 lbls:Seperator()
 
 lbls:Label("UI by dawid#7205")
