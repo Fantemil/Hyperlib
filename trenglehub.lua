@@ -4613,3 +4613,6 @@ addscriptexist(9555732501, "NenFightingSimulatorStrengthFarm", "Qalnik", "https:
     
 addscript(6172932937,"Energy Assault [Aim Bot]", "EnergyAssaultAimBot", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/EnergyAssaultAimBot.lua")
                     
+    
+addscript(4954096313,"Field Trip Z [God Mode, Remove GodMode Get Donut]", "FieldTripZGodModeRemoveGodModeGetDonut", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FieldTripZGodModeRemoveGodModeGetDonut.lua")
+                    
