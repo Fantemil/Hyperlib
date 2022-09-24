@@ -6602,3 +6602,5 @@ addscript(6998582502,"Dungeon Crusaders [Auto Win]", "DungeonCrusadersAutoWin", 
                     
                     
 addscriptexist(5023820864, "TradeTowerAutoClickAutoSellDisableAfk", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TradeTowerAutoClickAutoSellDisableAfk.lua")
+                    
+addscriptexist(6766156863, "StrongmanSimulatorTparena", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/StrongmanSimulatorTparena.lua")
