@@ -3347,3 +3347,6 @@ addscriptexist(9167501050, "LightsaberArenaKillauraautoblockinfstamina", "Qalnik
 addscriptexist(9377039667, "RobloxInnovationAwardsVotingHubTeleporttosecretawardbadge", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RobloxInnovationAwardsVotingHubTeleporttosecretawardbadge.lua")
                     
 addscriptexist(5956785391, "ProjectSlayersSpeedhack", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ProjectSlayersSpeedhack.lua")
+    
+addscript(10041417653,"Turbo's Murder Mystery [Esp, AutoUnBox, Sped Hack]", "TurbosMurderMysteryEspAutoUnBoxSpedHack", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TurbosMurderMysteryEspAutoUnBoxSpedHack.lua")
+                    
