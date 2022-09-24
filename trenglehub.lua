@@ -1961,3 +1961,5 @@ addscript(10627835972,"Death Sandbox [Kill All]", "DeathSandboxKillAll", "Qalnik
     
 addscript(9796315265,"Streetz War [Auto Farm]", "StreetzWarAutoFarm", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/StreetzWarAutoFarm.lua")
                     
+                    
+addscriptexist(9285238704, "RaceClickerAutoClickAutoWin", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RaceClickerAutoClickAutoWin.lua")
