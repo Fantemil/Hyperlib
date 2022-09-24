@@ -7872,3 +7872,5 @@ addscript(86322978,"Ultimate Random Night 0.9.3 [God Guard / UnGod]", "UltimateR
                     
                     
 addscriptexist(4855457388, "DemonfallOreFarmTrinketFarm", "rbxscript", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DemonfallOreFarmTrinketFarm.lua")
+                    
+addscriptexist(7140186081, "GunGameSpanHitsandMore", "rbxscript", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/GunGameSpanHitsandMore.lua")
