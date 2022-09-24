@@ -6692,3 +6692,5 @@ addscriptexist(7817016260, "BloxstonEsp", "Qalnik", "https://raw.githubuserconte
 addscriptexist(2788229376, "DaHoodCollectitems", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DaHoodCollectitems.lua")
                     
 addscriptexist(606849621, "JailbreakkillAuraAutoFarmCollectairdrops", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/JailbreakkillAuraAutoFarmCollectairdrops.lua")
+                    
+addscriptexist(6284583030, "PetSimulatorXMiniFarmingGUI", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PetSimulatorXMiniFarmingGUI.lua")
