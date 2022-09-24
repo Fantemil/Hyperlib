@@ -5686,3 +5686,5 @@ addscriptexist(632642533, "DeadMist2BetaGrabItemOnlyStorageCrates", "Terni", "ht
 addscriptexist(2788229376, "DaHoodGodmodeV3FullSkinnyGodMode", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DaHoodGodmodeV3FullSkinnyGodMode.lua")
                     
 addscriptexist(9203864304, "raiseafloppaAutoClickFloppaAutoCollectMoney", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/raiseafloppaAutoClickFloppaAutoCollectMoney.lua")
+                    
+addscriptexist(6778844213, "EuphoriaRagdollTestingAnnonyServerMassRagdollToggle", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/EuphoriaRagdollTestingAnnonyServerMassRagdollToggle.lua")
