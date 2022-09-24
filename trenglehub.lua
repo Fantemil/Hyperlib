@@ -6580,3 +6580,6 @@ addscript(8893378293,"GRAMMY Week [All quest]", "GRAMMYWeekAllquest", "Qalnik", 
                     
                     
 addscriptexist(8893378293, "GRAMMYWeekGetallevntitems", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/GRAMMYWeekGetallevntitems.lua")
+    
+addscript(71315343,"Dragon Ball Rage [Auto Charge, Train energy, Auto zenkai]", "DragonBallRageAutoChargeTrainenergyAutozenkai", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DragonBallRageAutoChargeTrainenergyAutozenkai.lua")
+                    
