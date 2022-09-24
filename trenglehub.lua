@@ -5918,3 +5918,6 @@ addscript(8649501395,"NFL Tycoon [Auto Collect Money - Auto Buy]", "NFLTycoonAut
 addscriptexist(8705534359, "ShoppingCartSimulatorInfiniteCoffee", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ShoppingCartSimulatorInfiniteCoffee.lua")
                     
 addscriptexist(8705534359, "ShoppingCartSimulatorInfiniteCoins", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ShoppingCartSimulatorInfiniteCoins.lua")
+    
+addscript(8519700776,"SKYWARS PvP [Kill All Instantly]", "SKYWARSPvPKillAllInstantly", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SKYWARSPvPKillAllInstantly.lua")
+                    
