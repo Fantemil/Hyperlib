@@ -6344,3 +6344,6 @@ addscriptexist(9049840490, "SonicSpeedSimulatorAutoFarmCoins", "Terni", "https:/
 addscriptexist(662417684, "LUCKYBLOCKSBattlegroundsLuckyBlockRunSpeedFpsBoost", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LUCKYBLOCKSBattlegroundsLuckyBlockRunSpeedFpsBoost.lua")
                     
 addscriptexist(8137333410, "PixelArtColorbynumberAutoPaint", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PixelArtColorbynumberAutoPaint.lua")
+    
+addscript(8823442198,"Deepwoken Battle Arena [Auto Collect]", "DeepwokenBattleArenaAutoCollect", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DeepwokenBattleArenaAutoCollect.lua")
+                    
