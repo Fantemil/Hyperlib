@@ -3280,3 +3280,5 @@ addscript(596894229,"Elemental Adventure [Level Farm]", "ElementalAdventureLevel
                     
                     
 addscriptexist(8278412720, "CSPrisonLifeBETAAutoArrest", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CSPrisonLifeBETAAutoArrest.lua")
+                    
+addscriptexist(7952502098, "ImpossibleGlassBridgeObbyAutoFarmCash", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ImpossibleGlassBridgeObbyAutoFarmCash.lua")
