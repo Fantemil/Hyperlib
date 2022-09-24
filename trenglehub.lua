@@ -3310,3 +3310,6 @@ addscript(6606507295,"Turbo's Murder Mystery 2 [Get Free Paid Weapons]", "Turbos
                     
                     
 addscriptexist(5956785391, "ProjectSlayersFishFarm", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ProjectSlayersFishFarm.lua")
+    
+addscript(4787629450,"BOOGA BOOGA - Classic [Invisible Armor & Tools]", "BOOGABOOGAClassicInvisibleArmorTools", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BOOGABOOGAClassicInvisibleArmorTools.lua")
+                    
