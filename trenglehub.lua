@@ -2805,3 +2805,6 @@ addscript(137885680,"Zombie Rush [GUI - God Mode - Rage Mode]", "ZombieRushGUIGo
                     
                     
 addscriptexist(2727067538, "WorldZeroV18WarlordClass", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/WorldZeroV18WarlordClass.lua")
+    
+addscript(7715234692,"cart ride around a 75 KW Diesel Generator [Anti Cheat Bypass]", "cartridearounda75KWDieselGeneratorAntiCheatBypass", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/cartridearounda75KWDieselGeneratorAntiCheatBypass.lua")
+                    
