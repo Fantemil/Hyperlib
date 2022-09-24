@@ -4946,3 +4946,5 @@ addscript(5853243164,"Grand Piece Online [No Dodge Cooldown And No Stamina Drain
     
 addscript(3403279477,"Creeper Aw man [God Mode - Crash Server - Invisible]", "CreeperAwmanGodModeCrashServerInvisible", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CreeperAwmanGodModeCrashServerInvisible.lua")
                     
+                    
+addscriptexist(6728870912, "WorldofStandsDemoInfiniteGold", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/WorldofStandsDemoInfiniteGold.lua")
