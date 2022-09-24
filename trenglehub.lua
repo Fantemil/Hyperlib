@@ -5814,3 +5814,5 @@ addscriptexist(1224212277, "MadCityAutoXpEasyLevel100", "Terni", "https://raw.gi
     
 addscript(9136292138,"Grand Pirates [Mob Farm, Auto Quest, Farm Chests]", "GrandPiratesMobFarmAutoQuestFarmChests", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/GrandPiratesMobFarmAutoQuestFarmChests.lua")
                     
+                    
+addscriptexist(8209480473, "SpotifyIslandLevelFarm", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SpotifyIslandLevelFarm.lua")
