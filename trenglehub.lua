@@ -7100,3 +7100,5 @@ addscriptexist(6055959032, "JailbirdBanBypass", "Qalnik", "https://raw.githubuse
 addscriptexist(2317712696, "TheWildWestESPFarmMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TheWildWestESPFarmMore.lua")
                     
 addscriptexist(621129760, "KATSilentAIMSnaplines", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/KATSilentAIMSnaplines.lua")
+                    
+addscriptexist(7127407851, "AttackonTitanEvolutionUnlockAllGamepassKillAuraMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AttackonTitanEvolutionUnlockAllGamepassKillAuraMore.lua")
