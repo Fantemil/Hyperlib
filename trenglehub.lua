@@ -2388,3 +2388,5 @@ addscriptexist(7952502098, "ImpossibleGlassBridgeObbyHighlightsallincorrectones"
 addscriptexist(2537430692, "JengaEndGameFly", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/JengaEndGameFly.lua")
                     
 addscriptexist(286090429, "ArsenalKillAllSilentAim", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ArsenalKillAllSilentAim.lua")
+                    
+addscriptexist(1962086868, "TowerofHellGodModeInfJump", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TowerofHellGodModeInfJump.lua")
