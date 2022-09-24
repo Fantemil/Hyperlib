@@ -4660,3 +4660,5 @@ addscriptexist(3851622790, "BreakinGamePassRoles", "Qalnik", "https://raw.github
 addscriptexist(8146731988, "UltraPowerTycoonGiveAllWeapons", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/UltraPowerTycoonGiveAllWeapons.lua")
                     
 addscriptexist(1962086868, "TowerofHellAutotptotopWalkspeedInfjump", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TowerofHellAutotptotopWalkspeedInfjump.lua")
+                    
+addscriptexist(2809202155, "YourBizarreAdventureAutoFarmItems", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/YourBizarreAdventureAutoFarmItems.lua")
