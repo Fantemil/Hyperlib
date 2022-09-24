@@ -7063,3 +7063,6 @@ addscriptexist(7560156054, "ClickerSimulatorAutoClickAutoCollectChetsAutoBuyJump
 addscriptexist(7256524608, "StreamingSimulatorUFOCamera", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/StreamingSimulatorUFOCamera.lua")
                     
 addscriptexist(6953291455, "EatingSimulatorAutoClickAutoSellForselocation", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/EatingSimulatorAutoClickAutoSellForselocation.lua")
+    
+addscript(7896264844,"Find the Markers [Marker Esp, Tp random Marker]", "FindtheMarkersMarkerEspTprandomMarker", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FindtheMarkersMarkerEspTprandomMarker.lua")
+                    
