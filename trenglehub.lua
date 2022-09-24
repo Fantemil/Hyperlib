@@ -3246,3 +3246,6 @@ addscriptexist(5571328985, "BloodlinesAutoFarm", "Terni", "https://raw.githubuse
     
 addscript(3686253681,"Planet Simulator [Change Planet Mass]", "PlanetSimulatorChangePlanetMass", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PlanetSimulatorChangePlanetMass.lua")
                     
+    
+addscript(6711562581,"Eight Driver Car Racing [Infinite Drift]", "EightDriverCarRacingInfiniteDrift", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/EightDriverCarRacingInfiniteDrift.lua")
+                    
