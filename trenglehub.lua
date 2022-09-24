@@ -3025,3 +3025,5 @@ addscriptexist(10192063645, "ThyHoodFly", "Qalnik", "https://raw.githubuserconte
     
 addscript(8916037983,"Starving Artist [Steal Art]", "StarvingArtistStealArt", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/StarvingArtistStealArt.lua")
                     
+                    
+addscriptexist(2788229376, "DahoodSpeedMacro", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DahoodSpeedMacro.lua")
