@@ -2237,3 +2237,6 @@ addscript(8508161757,"Raise An Albert [Inf Money]", "RaiseAnAlbertInfMoney", "as
     
 addscript(3199109640,"Camping 2 [TP, Walkspeed]", "Camping2TPWalkspeed", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Camping2TPWalkspeed.lua")
                     
+    
+addscript(4003872968,"Giant Survival! [Inf Money, Best Gun]", "GiantSurvivalInfMoneyBestGun", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/GiantSurvivalInfMoneyBestGun.lua")
+                    
