@@ -1650,3 +1650,5 @@ addscriptexist(5490351219, "ClickerMadnessAutoOpenEggAutoClickerTp", "Qalnik", "
     
 addscript(9598746251,"Home Run Simulator [Auto home Run Auto Upgrade, Auto rebirth]", "HomeRunSimulatorAutohomeRunAutoUpgradeAutorebirth", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/HomeRunSimulatorAutohomeRunAutoUpgradeAutorebirth.lua")
                     
+                    
+addscriptexist(3101667897, "LegendsOfSpeedAutoGraborbsAutoGrabRingsAutoRebirth", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LegendsOfSpeedAutoGraborbsAutoGrabRingsAutoRebirth.lua")
