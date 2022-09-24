@@ -7809,3 +7809,5 @@ addscriptexist(8204899140, "FootballFusion2Magnet", "rbxscript", "https://raw.gi
 addscriptexist(6284583030, "PetSimulatorXUpdateGui", "rbxscript", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PetSimulatorXUpdateGui.lua")
                     
 addscriptexist(1730877806, "GrandPieceOnlineHitBoxSizeChanger", "rbxscript", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/GrandPieceOnlineHitBoxSizeChanger.lua")
+                    
+addscriptexist(6297822481, "TitanWarfareMARLEYANSOLDIERPRESSTOKILLSCRIPT", "rbxscript", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TitanWarfareMARLEYANSOLDIERPRESSTOKILLSCRIPT.lua")
