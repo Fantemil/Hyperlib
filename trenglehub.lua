@@ -4279,3 +4279,6 @@ addscriptexist(1730877806, "GrandPieceOnlineAutoOsu", "Terni", "https://raw.gith
     
 addscript(5970745461,"Minerblocks [Kill Aura]", "MinerblocksKillAura", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MinerblocksKillAura.lua")
                     
+    
+addscript(8656044807,"Swinging Simulator [Unlock Every Badge]", "SwingingSimulatorUnlockEveryBadge", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SwingingSimulatorUnlockEveryBadge.lua")
+                    
