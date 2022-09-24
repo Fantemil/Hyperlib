@@ -4654,3 +4654,5 @@ addscriptexist(4522347649, "FreeAdminUnlockGamepass", "Qalnik", "https://raw.git
 addscriptexist(8069117419, "DemonSoulSimulatorAutoFarmTeleportsAutoChest", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DemonSoulSimulatorAutoFarmTeleportsAutoChest.lua")
                     
 addscriptexist(9551640993, "MiningSimulator2AutoFarmGems", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MiningSimulator2AutoFarmGems.lua")
+                    
+addscriptexist(3851622790, "BreakinGamePassRoles", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BreakinGamePassRoles.lua")
