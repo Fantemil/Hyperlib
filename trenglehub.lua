@@ -7220,3 +7220,5 @@ addscriptexist(5910449407, "ProjectMenacingGodMode", "Qalnik", "https://raw.gith
     
 addscript(7135656646,"Shoot people simulator [Instant Kill - Silent AIM - No Cooldown]", "ShootpeoplesimulatorInstantKillSilentAIMNoCooldown", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ShootpeoplesimulatorInstantKillSilentAIMNoCooldown.lua")
                     
+                    
+addscriptexist(286090429, "ArsenalValentinesDayEventFarmHearts", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ArsenalValentinesDayEventFarmHearts.lua")
