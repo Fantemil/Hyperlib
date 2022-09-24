@@ -2929,3 +2929,6 @@ addscriptexist(7952502098, "ImpossibleGlassBridgeObbyChangeGlassColour", "Terni"
     
 addscript(10118428339,"FLOP [Auto Farm v2]", "FLOPAutoFarmv2", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FLOPAutoFarmv2.lua")
                     
+    
+addscript(35397735,"Scuba Diving at Quill Lake [GUI - Infinite Cash, Infinite Artifacts & More!]", "ScubaDivingatQuillLakeGUIInfiniteCashInfiniteArtifactsMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ScubaDivingatQuillLakeGUIInfiniteCashInfiniteArtifactsMore.lua")
+                    
