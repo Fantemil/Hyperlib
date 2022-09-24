@@ -2728,3 +2728,6 @@ addscript(6720959312,"LootQuest [BETA] [Anti Afk & Auto Fuse]", "LootQuestBETAAn
 addscriptexist(9285238704, "RaceClickerAutoRaceGUI", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RaceClickerAutoRaceGUI.lua")
                     
 addscriptexist(10386774046, "LegendMagician1Shot", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LegendMagician1Shot.lua")
+    
+addscript(109814071,"Medieval Warfare Reforged [Auto Farm - GUI]", "MedievalWarfareReforgedAutoFarmGUI", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MedievalWarfareReforgedAutoFarmGUI.lua")
+                    
