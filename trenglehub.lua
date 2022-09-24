@@ -5257,3 +5257,6 @@ addscriptexist(9438506890, "raiseasoggaMoneyGiver", "Qalnik", "https://raw.githu
 addscriptexist(9508087919, "ApeirophobiaEntityESP", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ApeirophobiaEntityESP.lua")
                     
 addscriptexist(2788229376, "DaHoodInfiniteCash", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DaHoodInfiniteCash.lua")
+    
+addscript(7462526249,"NIKELAND [Collect All Coins & More!]", "NIKELANDCollectAllCoinsMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NIKELANDCollectAllCoinsMore.lua")
+                    
