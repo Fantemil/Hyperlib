@@ -6069,3 +6069,5 @@ addscript(6783611814,"Build a Boat to Survive! [GUI - Auto-Farm]", "BuildaBoatto
 addscriptexist(6938803436, "AnimeDimensionsSimulatorGUIAutoLvlAutoFarmMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AnimeDimensionsSimulatorGUIAutoLvlAutoFarmMore.lua")
                     
 addscriptexist(2629642516, "BitcoinMinerAutoFarmGUIMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BitcoinMinerAutoFarmGUIMore.lua")
+                    
+addscriptexist(70005410, "BloxHuntTokenFarm", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BloxHuntTokenFarm.lua")
