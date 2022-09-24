@@ -5651,3 +5651,5 @@ addscriptexist(2753915549, "BloxfruitsHOHOHUB", "Terni", "https://raw.githubuser
     
 addscript(6297822481,"Titan Warfare [The #1 Free GUI]", "TitanWarfareThe1FreeGUI", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TitanWarfareThe1FreeGUI.lua")
                     
+                    
+addscriptexist(9049840490, "SonicSpeedSimulatorAutoRunAutorebirthsUnlokAllWorlds", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SonicSpeedSimulatorAutoRunAutorebirthsUnlokAllWorlds.lua")
