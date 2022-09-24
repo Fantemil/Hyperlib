@@ -4886,3 +4886,5 @@ addscriptexist(4540286603, "NORTHWINDAnimalEsp", "Qalnik", "https://raw.githubus
 addscriptexist(142823291, "MurderMystery2FreeKnifeVISUALLY", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MurderMystery2FreeKnifeVISUALLY.lua")
                     
 addscriptexist(6728870912, "WorldofStandsDemoinfiniteGold", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/WorldofStandsDemoinfiniteGold.lua")
+                    
+addscriptexist(3095204897, "Isle8AutoHackAutoGuess", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Isle8AutoHackAutoGuess.lua")
