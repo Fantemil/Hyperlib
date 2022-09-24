@@ -6082,3 +6082,6 @@ addscript(7236421113,"Downhill Rush [Instant 10K Cash]", "DownhillRushInstant10K
                     
                     
 addscriptexist(5610197459, "ganguponpeoplesimulatorATM", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ganguponpeoplesimulatorATM.lua")
+    
+addscript(6401440818,"MONOLlTH DEFENSE [Use Any Towers]", "MONOLlTHDEFENSEUseAnyTowers", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MONOLlTHDEFENSEUseAnyTowers.lua")
+                    
