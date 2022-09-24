@@ -2105,3 +2105,5 @@ addscriptexist(8737602449, "PLSDONATEFlyEsp", "astrofile", "https://raw.githubus
 addscriptexist(920587237, "AdoptMeAutoFarmBuyanyegg", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AdoptMeAutoFarmBuyanyegg.lua")
                     
 addscriptexist(1962086868, "TowerofHellGodmodeWin", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TowerofHellGodmodeWin.lua")
+                    
+addscriptexist(537413528, "BuildABoatForTreasureAutoFarmMorhps", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BuildABoatForTreasureAutoFarmMorhps.lua")
