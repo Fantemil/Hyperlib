@@ -3452,3 +3452,5 @@ addscriptexist(4863541388, "ScytheMastersFastStrengthAutoFarm", "Qalnik", "https
 addscriptexist(7419509075, "cartridearoundusedcarbatteryGetAllTheTrollItems", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/cartridearoundusedcarbatteryGetAllTheTrollItems.lua")
                     
 addscriptexist(9677464361, "BasketballProSimulatorAutoFarm", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BasketballProSimulatorAutoFarm.lua")
+                    
+addscriptexist(8203181639, "SyrianShenanigansFullautotank", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SyrianShenanigansFullautotank.lua")
