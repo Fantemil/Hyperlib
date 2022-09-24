@@ -6250,3 +6250,5 @@ addscriptexist(6679274937, "VansWorldAutoFarm", "Terni", "https://raw.githubuser
 addscriptexist(7453798168, "YouTubeSimulatorXEditorAutoFarm", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/YouTubeSimulatorXEditorAutoFarm.lua")
                     
 addscriptexist(8005620792, "RobloxCasinoInfiniteChips", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RobloxCasinoInfiniteChips.lua")
+                    
+addscriptexist(3101667897, "LegendsOfSpeedAutoFarmGUI", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LegendsOfSpeedAutoFarmGUI.lua")
