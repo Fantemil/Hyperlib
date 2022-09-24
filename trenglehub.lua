@@ -6252,3 +6252,5 @@ addscriptexist(7453798168, "YouTubeSimulatorXEditorAutoFarm", "Terni", "https://
 addscriptexist(8005620792, "RobloxCasinoInfiniteChips", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RobloxCasinoInfiniteChips.lua")
                     
 addscriptexist(3101667897, "LegendsOfSpeedAutoFarmGUI", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LegendsOfSpeedAutoFarmGUI.lua")
+                    
+addscriptexist(7371240697, "GiantDancingSimulatorCollectGems", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/GiantDancingSimulatorCollectGems.lua")
