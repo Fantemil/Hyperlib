@@ -5075,3 +5075,5 @@ addscriptexist(1537690962, "BeeSwarmSimulatorRedeemCodesAutoFarmRoyalYellyESP", 
     
 addscript(306964494,"Loomian Legacy [Heal + Key Grabber]", "LoomianLegacyHealKeyGrabber", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LoomianLegacyHealKeyGrabber.lua")
                     
+                    
+addscriptexist(2788229376, "DaHoodCashAutoFarmOpenSource", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DaHoodCashAutoFarmOpenSource.lua")
