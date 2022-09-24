@@ -1706,3 +1706,6 @@ addscript(5130598377,"Tapping Legends X [Auto Farms, Auto Hatch, Auto Rebirth]",
                     
                     
 addscriptexist(2753915549, "BloxFruitsAutoFarmMobsEspChest", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BloxFruitsAutoFarmMobsEspChest.lua")
+    
+addscript(9718523719,"Roblox [ReJoin Server]", "RobloxReJoinServer", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RobloxReJoinServer.lua")
+                    
