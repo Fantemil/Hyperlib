@@ -6059,3 +6059,6 @@ addscriptexist(4588604953, "CriminalityWallbang", "Terni", "https://raw.githubus
 addscriptexist(189707, "NaturalDisasterSurvivalAutoWinMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NaturalDisasterSurvivalAutoWinMore.lua")
                     
 addscriptexist(7009799230, "PressureWashSimulatorLooksAwesome", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PressureWashSimulatorLooksAwesome.lua")
+    
+addscript(7800644383,"Untitled Hood [Set players cash to negative]", "UntitledHoodSetplayerscashtonegative", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/UntitledHoodSetplayerscashtonegative.lua")
+                    
