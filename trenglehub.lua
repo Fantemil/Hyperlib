@@ -1628,3 +1628,5 @@ addscriptexist(662417684, "LUCKYBLOCKSBattlegroundsFlyGetAllItems", "astrofile",
     
 addscript(10087074695,"Knife Strife! [Insta Kill]", "KnifeStrifeInstaKill", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/KnifeStrifeInstaKill.lua")
                     
+                    
+addscriptexist(3351674303, "DrivingEmpireAutoFarmAutoRace", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DrivingEmpireAutoFarmAutoRace.lua")
