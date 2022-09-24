@@ -7109,3 +7109,6 @@ addscript(5009679035,"carry people simulator 2 [GUI - Grab Aura]", "carrypeoples
 addscriptexist(8317588085, "BlockTycoonInfiniteBlocks", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BlockTycoonInfiniteBlocks.lua")
                     
 addscriptexist(3101667897, "LegendsOfSpeedAutoFarmUtilitesMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LegendsOfSpeedAutoFarmUtilitesMore.lua")
+    
+addscript(5000143962,"SPACE SAILORS [Auto Ore Farm]", "SPACESAILORSAutoOreFarm", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SPACESAILORSAutoOreFarm.lua")
+                    
