@@ -1400,3 +1400,5 @@ addscriptexist(10676523834, "RacingRocketAutobuyEgg", "Qalnik", "https://raw.git
     
 addscript(3017870574,"2 Player Evolution Tycoon [Auto Farm]", "2PlayerEvolutionTycoonAutoFarm", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/2PlayerEvolutionTycoonAutoFarm.lua")
                     
+                    
+addscriptexist(10676523834, "RacingRocketFarmStarFast", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RacingRocketFarmStarFast.lua")
