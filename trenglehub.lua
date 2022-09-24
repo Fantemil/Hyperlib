@@ -2109,3 +2109,5 @@ addscriptexist(1962086868, "TowerofHellGodmodeWin", "astrofile", "https://raw.gi
 addscriptexist(537413528, "BuildABoatForTreasureAutoFarmMorhps", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BuildABoatForTreasureAutoFarmMorhps.lua")
                     
 addscriptexist(537413528, "BuildABoatForTreasureWalkspeedTeleports", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BuildABoatForTreasureWalkspeedTeleports.lua")
+                    
+addscriptexist(9585537847, "SHADOVISRPGAutoFarmKillAura", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SHADOVISRPGAutoFarmKillAura.lua")
