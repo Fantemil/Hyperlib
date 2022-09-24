@@ -2140,3 +2140,5 @@ addscript(9980179145,"Speed Race Clicker [AutoFarm, AutoChest]", "SpeedRaceClick
 addscriptexist(4951858512, "VictoryRaceWalkSpeed", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/VictoryRaceWalkSpeed.lua")
                     
 addscriptexist(8425637426, "RobloxChangestheletters", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RobloxChangestheletters.lua")
+                    
+addscriptexist(10087074695, "KnifeStrifeKillAll", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/KnifeStrifeKillAll.lua")
