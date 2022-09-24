@@ -6436,3 +6436,5 @@ addscript(3210622855,"Manner's Badge Walk [Get All Sky World Badges]", "MannersB
                     
                     
 addscriptexist(6778844213, "EuphoriaragdolltestingCoinFarm", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/EuphoriaragdolltestingCoinFarm.lua")
+                    
+addscriptexist(30869879, "StopItSlenderGodMode", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/StopItSlenderGodMode.lua")
