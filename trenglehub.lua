@@ -6539,3 +6539,5 @@ addscriptexist(5116869569, "DoodleWorldHealYourTeam", "Qalnik", "https://raw.git
     
 addscript(2693023319,"Expedition Antarctica [Get 500B Coins]", "ExpeditionAntarcticaGet500BCoins", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ExpeditionAntarcticaGet500BCoins.lua")
                     
+                    
+addscriptexist(7993293100, "TsunamiGameAutoWinFarmDeathsMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TsunamiGameAutoWinFarmDeathsMore.lua")
