@@ -1463,3 +1463,5 @@ addscript(8293257677,"Surreal RPG [100 damage]", "SurrealRPG100damage", "Qalnik"
     
 addscript(2653064683,"Word Bomb [Auto type, Anti-kik, Auto Join]", "WordBombAutotypeAntikikAutoJoin", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/WordBombAutotypeAntikikAutoJoin.lua")
                     
+                    
+addscriptexist(5505830188, "ArcaneOblivionRPGSwordPIG", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ArcaneOblivionRPGSwordPIG.lua")
