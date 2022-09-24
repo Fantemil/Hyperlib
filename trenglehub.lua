@@ -6279,3 +6279,5 @@ addscript(4111023553,"Deepwoken [Chest ESP, No Fog, And More]", "DeepwokenChestE
                     
                     
 addscriptexist(3501626887, "DiceboyBringDicecoins", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DiceboyBringDicecoins.lua")
+                    
+addscriptexist(632642533, "DeadMist2BetaGrabDeadBodies", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DeadMist2BetaGrabDeadBodies.lua")
