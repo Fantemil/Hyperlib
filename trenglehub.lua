@@ -1688,3 +1688,5 @@ addscript(4951858512,"Victory Race [AutoFarm]", "VictoryRaceAutoFarm", "astrofil
     
 addscript(3587619225,"Mega Easy Obby [Claim All Badges, Walkspeed]", "MegaEasyObbyClaimAllBadgesWalkspeed", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MegaEasyObbyClaimAllBadgesWalkspeed.lua")
                     
+                    
+addscriptexist(7560156054, "ClickerSimulatorAutoRebirthAutoEggs", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ClickerSimulatorAutoRebirthAutoEggs.lua")
