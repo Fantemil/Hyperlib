@@ -7458,3 +7458,5 @@ addscript(2377868063,"ZONE WAR!! Strucid [Aimbot, Visuals, GunMods]", "ZONEWARSt
                     
                     
 addscriptexist(3102144307, "AnimeClickerSimulatorAutoTapFasterTapAutoBoss", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AnimeClickerSimulatorAutoTapFasterTapAutoBoss.lua")
+                    
+addscriptexist(6284583030, "PetSimulatorXFastAutoEnchant", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PetSimulatorXFastAutoEnchant.lua")
