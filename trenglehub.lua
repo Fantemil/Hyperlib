@@ -3872,3 +3872,6 @@ addscript(6875747014,"Ronopoly [Spam dice]", "RonopolySpamdice", "Qalnik", "http
     
 addscript(653205701,"Fort Martin, Military Base [jumping]", "FortMartinMilitaryBasejumping", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FortMartinMilitaryBasejumping.lua")
                     
+    
+addscript(9936860371,"Egg Packing Tycoon [Semi Autofarm]", "EggPackingTycoonSemiAutofarm", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/EggPackingTycoonSemiAutofarm.lua")
+                    
