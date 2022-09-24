@@ -6289,3 +6289,5 @@ addscript(6843988672,"County Jail Roleplay [AC Bypass]", "CountyJailRoleplayACBy
                     
                     
 addscriptexist(5045567407, "NationsRoleplayPaintEntireWorldInstantly", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NationsRoleplayPaintEntireWorldInstantly.lua")
+                    
+addscriptexist(5780309044, "StandsAwakeningStandFarmAutoCollectItemsMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/StandsAwakeningStandFarmAutoCollectItemsMore.lua")
