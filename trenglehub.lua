@@ -1085,3 +1085,5 @@ addscriptexist(10484095306, "CLIMB100000STAIRSTOVIPTeleportToEnd", "Terni", "htt
 addscriptexist(10484095306, "CLIMB100000STAIRSTOVIPTeleporttoMysteryHouse", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CLIMB100000STAIRSTOVIPTeleporttoMysteryHouse.lua")
                     
 addscriptexist(9498006165, "TappingSimulatorAutoClickAutoRebirth", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TappingSimulatorAutoClickAutoRebirth.lua")
+                    
+addscriptexist(286090429, "ArsenalSilentAimEsp", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ArsenalSilentAimEsp.lua")
