@@ -1,0 +1,2 @@
+local money = 900000000000-- amount here
+game:GetService("ReplicatedStorage")["ACS_Engine"].ViewModels.Refil:FireServer(game.Players.LocalPlayer.leaderstats:GetChildren()[1], -money+game.Players.LocalPlayer.leaderstats:GetChildren()[1].Value)
