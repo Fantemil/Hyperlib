@@ -3810,3 +3810,5 @@ addscriptexist(10118559731, "nicosnextbotsEsptpSafeZone", "Qalnik", "https://raw
     
 addscript(568350650,"Fashion Famous [Get Klossette x Reverse_Polarity Backpack]", "FashionFamousGetKlossettexReversePolarityBackpack", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FashionFamousGetKlossettexReversePolarityBackpack.lua")
                     
+                    
+addscriptexist(2098516465, "RobloxHighSchool2GetKlossettexLovespunPurse", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RobloxHighSchool2GetKlossettexLovespunPurse.lua")
