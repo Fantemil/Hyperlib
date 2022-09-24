@@ -6234,3 +6234,5 @@ addscript(6808589067,"Shinden [Auto Meditate]", "ShindenAutoMeditate", "Terni", 
                     
                     
 addscriptexist(8781849572, "StarSimulatorBetaLoopFarms–LoopConversions–UpgradeToolsMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/StarSimulatorBetaLoopFarms–LoopConversions–UpgradeToolsMore.lua")
+                    
+addscriptexist(6897226634, "TimberExpandHitboxCollectLogsMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TimberExpandHitboxCollectLogsMore.lua")
