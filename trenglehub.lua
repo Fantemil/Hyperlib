@@ -8541,3 +8541,5 @@ addscriptexist(2986677229, "GiantSimulatorAutoQuestFarmSwordFarmSword", "Qalnik"
 addscriptexist(2629642516, "BitcoinMinerTpGamePassAutoBuildBlackList", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BitcoinMinerTpGamePassAutoBuildBlackList.lua")
                     
 addscriptexist(3082002798, "TeenTitansBattlegroundsKillPlayersWalkSзeedJumpPower", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TeenTitansBattlegroundsKillPlayersWalkSзeedJumpPower.lua")
+                    
+addscriptexist(292439477, "PhantomForcesAim", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PhantomForcesAim.lua")
