@@ -8480,3 +8480,5 @@ addscript(7686955826,"Rolling Thunder [Auto-Farm]", "RollingThunderAutoFarm", "T
                     
                     
 addscriptexist(6085581583, "ProjectHeroKillAura", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ProjectHeroKillAura.lua")
+                    
+addscriptexist(258258996, "MinersHavenBESTHUBMOREFUNCTIONS35", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MinersHavenBESTHUBMOREFUNCTIONS35.lua")
