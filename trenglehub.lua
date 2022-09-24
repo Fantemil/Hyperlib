@@ -7959,3 +7959,6 @@ addscript(8116417963,"Carcraft [Kill ALl]", "CarcraftKillALl", "Qalnik", "https:
 addscriptexist(7791873535, "REALISTICHOODAllGamepass", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/REALISTICHOODAllGamepass.lua")
                     
 addscriptexist(735030788, "RoyaleHighFastFarm", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RoyaleHighFastFarm.lua")
+    
+addscript(4646477729,"Tower Heroes [Auto Farm]", "TowerHeroesAutoFarm", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TowerHeroesAutoFarm.lua")
+                    
