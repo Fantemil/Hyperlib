@@ -5680,3 +5680,5 @@ addscriptexist(7089072882, "HEMANSIMBATTLEARENAInfiniteKirbinite", "Terni", "htt
 addscriptexist(7089072882, "HEMANSIMBATTLEARENAMaxLevelRebirth", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/HEMANSIMBATTLEARENAMaxLevelRebirth.lua")
                     
 addscriptexist(632642533, "DeadMist2BetaGrabCarePackage", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DeadMist2BetaGrabCarePackage.lua")
+                    
+addscriptexist(632642533, "DeadMist2BetaGrabItemOnlyStorageCrates", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DeadMist2BetaGrabItemOnlyStorageCrates.lua")
