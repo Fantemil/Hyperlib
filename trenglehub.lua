@@ -1153,3 +1153,6 @@ addscript(298400657,"Dragon Ball Final Remastered ", "DragonBallFinalRemasteredG
     
 addscript(7560156054,"Clicker Simulator ", "ClickerSimulatorAutoRebirthAutoClick", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ClickerSimulatorAutoRebirthAutoClick.lua")
                     
+    
+addscript(5505830188,"Arcane Oblivion RPG ", "ArcaneOblivionRPGAutoBossAutoFarm", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ArcaneOblivionRPGAutoBossAutoFarm.lua")
+                    
