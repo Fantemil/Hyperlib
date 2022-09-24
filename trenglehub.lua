@@ -6794,3 +6794,5 @@ addscript(5229285987,"V4 Air Force Academy [Kill All - Loop Kill & Click Kill]",
                     
                     
 addscriptexist(7009799230, "PressureWashSimulatorAutoFarmGUI", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PressureWashSimulatorAutoFarmGUI.lua")
+                    
+addscriptexist(8884433153, "CollectAllPetsAutoQuestAutoCollectCoinsAutobuypets", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CollectAllPetsAutoQuestAutoCollectCoinsAutobuypets.lua")
