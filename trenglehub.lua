@@ -3049,3 +3049,5 @@ addscript(10370253487,"You Can't Say That Again [Spam Chat]", "YouCantSayThatAga
                     
                     
 addscriptexist(142823291, "MurderMystery2UnlockAllSkinsClientside", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MurderMystery2UnlockAllSkinsClientside.lua")
+                    
+addscriptexist(5956785391, "ProjectSlayersKillAuraAutoFarmMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ProjectSlayersKillAuraAutoFarmMore.lua")
