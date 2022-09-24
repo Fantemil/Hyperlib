@@ -8344,3 +8344,5 @@ addscript(7430861102,"Aincrad Adventures [Teleport To Quest Giver]", "AincradAdv
                     
                     
 addscriptexist(258258996, "MinersHavenAutoFarmSpooferMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MinersHavenAutoFarmSpooferMore.lua")
+                    
+addscriptexist(6808416928, "AimbloxSimpleAIMWallbagMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AimbloxSimpleAIMWallbagMore.lua")
