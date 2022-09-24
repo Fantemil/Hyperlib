@@ -5714,3 +5714,6 @@ addscriptexist(632642533, "DeadMist2Collectdrop", "Qalnik", "https://raw.githubu
 addscriptexist(632642533, "DeadMist2BetaGetBox", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DeadMist2BetaGetBox.lua")
                     
 addscriptexist(7305309231, "TaxiBossServerHopAutoFarm", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TaxiBossServerHopAutoFarm.lua")
+    
+addscript(8523408215,"Alo Sanctuary [Collect All Event Orbs]", "AloSanctuaryCollectAllEventOrbs", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AloSanctuaryCollectAllEventOrbs.lua")
+                    
