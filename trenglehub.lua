@@ -7071,3 +7071,5 @@ addscript(7548385157,"Penguin Tycoon [Auto Farm]", "PenguinTycoonAutoFarm", "Qal
                     
                     
 addscriptexist(7256524608, "StreamingSimulatorInfenergy", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/StreamingSimulatorInfenergy.lua")
+                    
+addscriptexist(6284583030, "PetSimulatorXDupe", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PetSimulatorXDupe.lua")
