@@ -2485,3 +2485,6 @@ addscriptexist(3527629287, "BigPaintballAimbotFov", "astrofile", "https://raw.gi
 addscriptexist(286090429, "ArsenalAimbotWallcheck", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ArsenalAimbotWallcheck.lua")
                     
 addscriptexist(8737602449, "PLSDONATEAutoBeg", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PLSDONATEAutoBeg.lua")
+    
+addscript(5041144419,"SCP", "SCPRoleplayAutoFarmTeleports", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SCPRoleplayAutoFarmTeleports.lua")
+                    
