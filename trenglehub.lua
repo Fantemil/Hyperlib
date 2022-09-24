@@ -3723,3 +3723,5 @@ addscriptexist(9976239895, "GumballFactoryTycoonFullAutoFarm", "Terni", "https:/
     
 addscript(7663817366,"Prison Roleplay Escape Plan [Auto Farm]", "PrisonRoleplayEscapePlanAutoFarm", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PrisonRoleplayEscapePlanAutoFarm.lua")
                     
+                    
+addscriptexist(9377039667, "RobloxInnovationAwardsVotingHubGetAllPuzzlePieces", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RobloxInnovationAwardsVotingHubGetAllPuzzlePieces.lua")
