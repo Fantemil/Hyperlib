@@ -5315,3 +5315,5 @@ addscriptexist(6610021055, "NoobArmyTycoonAutoFarm", "Terni", "https://raw.githu
 addscriptexist(5965591336, "SoulWarIntsKill", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SoulWarIntsKill.lua")
                     
 addscriptexist(185655149, "BloxburgAutoRob", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BloxburgAutoRob.lua")
+                    
+addscriptexist(9292879820, "GrassCuttingIncrementalStatChanger", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/GrassCuttingIncrementalStatChanger.lua")
