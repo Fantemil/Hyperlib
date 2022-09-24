@@ -7987,3 +7987,5 @@ addscript(8105323516,"Trash Game [Infinite Moeny, Auto Collect Trash, Auto Rebir
                     
                     
 addscriptexist(537413528, "BuildABoatForTreasureDeleteDamage", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BuildABoatForTreasureDeleteDamage.lua")
+                    
+addscriptexist(735030788, "RoyaleHighInfDiamond", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RoyaleHighInfDiamond.lua")
