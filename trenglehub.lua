@@ -6740,3 +6740,6 @@ addscript(9689546964,"Roblox [Menu 2016]", "RobloxMenu2016", "Qalnik", "https://
                     
                     
 addscriptexist(6998582502, "DungeonCrusadersAutoFarm", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DungeonCrusadersAutoFarm.lua")
+    
+addscript(6821114498,"Demon Slayer", "DemonSlayerFinalConquestGiveweaponsGivebreathingsGivefinalselections", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DemonSlayerFinalConquestGiveweaponsGivebreathingsGivefinalselections.lua")
+                    
