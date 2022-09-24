@@ -3666,3 +3666,5 @@ addscriptexist(7026949294, "SwordSimulatorInfiniteCoinsAutoFarmMore", "Terni", "
     
 addscript(8069117419,"Demon Soul Simulator [GUI - Auto Farm, Auto Punch & More!]", "DemonSoulSimulatorGUIAutoFarmAutoPunchMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DemonSoulSimulatorGUIAutoFarmAutoPunchMore.lua")
                     
+                    
+addscriptexist(8069117419, "DemonSoulSimulatorBreathingDupe", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DemonSoulSimulatorBreathingDupe.lua")
