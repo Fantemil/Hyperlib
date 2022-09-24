@@ -6907,3 +6907,5 @@ addscript(3295514368,"Sandhurst Military Academy [Click kill, loop kill, Effecti
     
 addscript(8365063484,"Miami Drive [Inf Money]", "MiamiDriveInfMoney", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MiamiDriveInfMoney.lua")
                     
+                    
+addscriptexist(6125809531, "UntitledAttackOnTitanMISSIONAUTOFARM", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/UntitledAttackOnTitanMISSIONAUTOFARM.lua")
