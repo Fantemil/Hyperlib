@@ -7733,3 +7733,5 @@ addscript(7487495382,"Vectus - Public Test [No Fall Damage, Speed, Inf Stamina]"
     
 addscript(6843905606,"Critical Legends [Infinite Upgrade Points]", "CriticalLegendsInfiniteUpgradePoints", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CriticalLegendsInfiniteUpgradePoints.lua")
                     
+                    
+addscriptexist(8357510970, "AnimePunchingSimulatorAutoPunchAutoEggAutoUpgrade", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AnimePunchingSimulatorAutoPunchAutoEggAutoUpgrade.lua")
