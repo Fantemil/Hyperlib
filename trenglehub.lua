@@ -2062,3 +2062,6 @@ addscriptexist(8750997647, "TappingLegendsXAutoClickAutoRebirth", "astrofile", "
     
 addscript(3467049496,"MARVEL", "MARVELBattlegroundsFreeGamepasses", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MARVELBattlegroundsFreeGamepasses.lua")
                     
+    
+addscript(7177496972,"Anime Warriors [Auto Farm, Better Gfx]", "AnimeWarriorsAutoFarmBetterGfx", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AnimeWarriorsAutoFarmBetterGfx.lua")
+                    
