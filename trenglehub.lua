@@ -2541,3 +2541,6 @@ addscript(8657766101,"Marvellous Playground [Gamepass]", "MarvellousPlaygroundGa
                     
                     
 addscriptexist(3956818381, "NinjaLegendsAutoSwingAutoSell", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NinjaLegendsAutoSwingAutoSell.lua")
+    
+addscript(6068693809,"enceladus, but he's real [Break Bot]", "enceladusbuthesrealBreakBot", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/enceladusbuthesrealBreakBot.lua")
+                    
