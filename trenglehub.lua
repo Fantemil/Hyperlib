@@ -3802,3 +3802,6 @@ addscriptexist(6716188523, "BusinessTycoonInfMoney", "Qalnik", "https://raw.gith
     
 addscript(6058150350,"Destruction Physics [Physics Lag players]", "DestructionPhysicsPhysicsLagplayers", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DestructionPhysicsPhysicsLagplayers.lua")
                     
+    
+addscript(9281034297,"Goal Kick Simulator [Faster Auto Kick]", "GoalKickSimulatorFasterAutoKick", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/GoalKickSimulatorFasterAutoKick.lua")
+                    
