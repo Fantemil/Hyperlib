@@ -7654,3 +7654,6 @@ addscript(6589036319,"Sec [Inf Coins]", "SecInfCoins", "Qalnik", "https://raw.gi
 addscriptexist(5303541547, "TwoPieceAutoFarmAutoStatsMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TwoPieceAutoFarmAutoStatsMore.lua")
                     
 addscriptexist(4520749081, "KingLegacyAutofarmAutoFarmMobsAutoStat", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/KingLegacyAutofarmAutoFarmMobsAutoStat.lua")
+    
+addscript(5874381161,"Noob Invasion [GUI - Auto Farm & More!]", "NoobInvasionGUIAutoFarmMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NoobInvasionGUIAutoFarmMore.lua")
+                    
