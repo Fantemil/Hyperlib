@@ -8171,3 +8171,5 @@ addscriptexist(648362523, "BreakingPointSilentAimRapidThrowKillaura", "Qalnik", 
 addscriptexist(292439477, "PhantomForcesAimLockNoShake", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PhantomForcesAimLockNoShake.lua")
                     
 addscriptexist(318978013, "KickOffAutoFarmGoalFast", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/KickOffAutoFarmGoalFast.lua")
+                    
+addscriptexist(2693023319, "ExpeditionAntarcticaCoinFarm", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ExpeditionAntarcticaCoinFarm.lua")
