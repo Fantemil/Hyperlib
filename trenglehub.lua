@@ -4386,3 +4386,5 @@ addscriptexist(1224212277, "MadCityGUIAutoRobTeleportsMore", "Terni", "https://r
     
 addscript(9751569460,"ARCH PIECE [Auto Farm]", "ARCHPIECEAutoFarm", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ARCHPIECEAutoFarm.lua")
                     
+                    
+addscriptexist(9559194006, "socialexperimentGuessthenextgame", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/socialexperimentGuessthenextgame.lua")
