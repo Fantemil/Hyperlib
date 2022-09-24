@@ -6629,3 +6629,5 @@ addscriptexist(2317712696, "TheWildWestAntiAfkGunSpeedSilentAim", "Qalnik", "htt
 addscriptexist(654732683, "CarCrushers2AutoFarm", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CarCrushers2AutoFarm.lua")
                     
 addscriptexist(6297822481, "TitanWarfareCrashServer", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TitanWarfareCrashServer.lua")
+                    
+addscriptexist(3956818381, "NinjaLegendsAutoSwingAutoSellAutoHoops", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NinjaLegendsAutoSwingAutoSellAutoHoops.lua")
