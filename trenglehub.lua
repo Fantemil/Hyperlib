@@ -4575,3 +4575,5 @@ addscriptexist(9203864304, "raiseafloppa2AutoCookInfMaxRent", "Terni", "https://
     
 addscript(2166944189,"Firefighters [Infinite Levels]", "FirefightersInfiniteLevels", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FirefightersInfiniteLevels.lua")
                     
+                    
+addscriptexist(8798268679, "CrossroadCombatInfiniteMoney", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CrossroadCombatInfiniteMoney.lua")
