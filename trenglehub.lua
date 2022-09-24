@@ -4128,3 +4128,6 @@ addscriptexist(6206893534, "CobraKaiKarateGUIAutoFarmBagsHideNameMore", "Terni",
     
 addscript(9726345231,"Duolingo Game Hub [Inf Money]", "DuolingoGameHubInfMoney", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DuolingoGameHubInfMoney.lua")
                     
+    
+addscript(8798268679,"Crossroad Combat", "CrossroadCombat", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CrossroadCombat.lua")
+                    
