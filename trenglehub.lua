@@ -2972,3 +2972,5 @@ addscriptexist(10184360875, "PetFishingSimulatorinfMoney", "Qalnik", "https://ra
 addscriptexist(10108131074, "MowTheLawnAutoNowAutoFillTankAutoopenEgg", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MowTheLawnAutoNowAutoFillTankAutoopenEgg.lua")
                     
 addscriptexist(9976239895, "GumballFactoryTycoonAutoobby", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/GumballFactoryTycoonAutoobby.lua")
+                    
+addscriptexist(9976239895, "GumballFactoryTycoonAutoObby", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/GumballFactoryTycoonAutoObby.lua")
