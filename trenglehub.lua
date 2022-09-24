@@ -2298,3 +2298,6 @@ addscript(1923555882,"East Brickton [Auto Farm]", "EastBricktonAutoFarm", "astro
                     
                     
 addscriptexist(1554960397, "CarDealershipTycoonAutoRaceDuneAutoRaceRally", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CarDealershipTycoonAutoRaceDuneAutoRaceRally.lua")
+    
+addscript(417267366,"Dollhouse Roleplay [Adm Cmds]", "DollhouseRoleplayAdmCmds", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DollhouseRoleplayAdmCmds.lua")
+                    
