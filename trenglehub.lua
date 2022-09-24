@@ -6178,3 +6178,5 @@ addscriptexist(9300407930, "BotClashGet4MillionCoinsForFree", "Terni", "https://
 addscriptexist(1224212277, "MadCityDiamondHUBAutoRob", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MadCityDiamondHUBAutoRob.lua")
                     
 addscriptexist(4042427666, "AnimeFightingSimulatorChikaraYenGenerator", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AnimeFightingSimulatorChikaraYenGenerator.lua")
+                    
+addscriptexist(5712833750, "AnimalSimulatorCollectTreasuers", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AnimalSimulatorCollectTreasuers.lua")
