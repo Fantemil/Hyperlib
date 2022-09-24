@@ -7246,3 +7246,5 @@ addscriptexist(7462526249, "NIKELANDGetEventItem", "Terni", "https://raw.githubu
     
 addscript(6422372837,"Snipers [Inf Ammo]", "SnipersInfAmmo", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SnipersInfAmmo.lua")
                     
+                    
+addscriptexist(6683744559, "FightersEXInfiniteXP", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FightersEXInfiniteXP.lua")
