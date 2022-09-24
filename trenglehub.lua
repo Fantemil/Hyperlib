@@ -6600,3 +6600,5 @@ addscriptexist(5864786637, "InAnotherTimeKillAura", "Qalnik", "https://raw.githu
     
 addscript(6998582502,"Dungeon Crusaders [Auto Win]", "DungeonCrusadersAutoWin", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DungeonCrusadersAutoWin.lua")
                     
+                    
+addscriptexist(5023820864, "TradeTowerAutoClickAutoSellDisableAfk", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TradeTowerAutoClickAutoSellDisableAfk.lua")
