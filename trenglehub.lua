@@ -5483,3 +5483,5 @@ addscriptexist(6284583030, "PetSimulatorXNewGUILKHUB", "Terni", "https://raw.git
 addscriptexist(4282985734, "CombatWarriorsCombatSpyModifiedRemoteSpy", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CombatWarriorsCombatSpyModifiedRemoteSpy.lua")
                     
 addscriptexist(8278412720, "PrisonLifeRemasteredLocationTeleportationGUI", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PrisonLifeRemasteredLocationTeleportationGUI.lua")
+                    
+addscriptexist(1923555882, "EastBricktonAutoFishing", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/EastBricktonAutoFishing.lua")
