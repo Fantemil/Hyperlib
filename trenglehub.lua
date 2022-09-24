@@ -8410,3 +8410,6 @@ addscriptexist(6085581583, "ProjectHeroAddStaminaKillAuraAutoFarm", "Qalnik", "h
     
 addscript(3311165597,"Dragon Blox Ultimate [Auto Farm - Select Mob & More!]", "DragonBloxUltimateAutoFarmSelectMobMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DragonBloxUltimateAutoFarmSelectMobMore.lua")
                     
+    
+addscript(5026999321,"A Dumb Day [TP ALL ITEM, INF HEALTH]", "ADumbDayTPALLITEMINFHEALTH", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ADumbDayTPALLITEMINFHEALTH.lua")
+                    
