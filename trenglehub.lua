@@ -7265,3 +7265,6 @@ addscript(8288069630,"Stone Miner Simulator [Infinite Gems - Free Gold - Auto Se
 addscriptexist(6422372837, "SnipersSniperMod", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SnipersSniperMod.lua")
                     
 addscriptexist(7167319176, "ChicagoRemasteredMoneyFarm", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ChicagoRemasteredMoneyFarm.lua")
+    
+addscript(7034960857,"Transforming toy simulator [Inf Money]", "TransformingtoysimulatorInfMoney", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TransformingtoysimulatorInfMoney.lua")
+                    
