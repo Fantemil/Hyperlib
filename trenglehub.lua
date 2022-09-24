@@ -5410,3 +5410,5 @@ addscriptexist(9557222597, "ClarksCICAVERSEAutoFarmTeleports", "Terni", "https:/
     
 addscript(8137333410,"Color by number [Fast Auto Paint]", "ColorbynumberFastAutoPaint", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ColorbynumberFastAutoPaint.lua")
                     
+                    
+addscriptexist(2788229376, "DaHoodKittenhookCrypteder", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DaHoodKittenhookCrypteder.lua")
