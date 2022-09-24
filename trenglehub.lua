@@ -5090,3 +5090,6 @@ addscript(7110163297,"Super Sabers [Redeem All Codes]", "SuperSabersRedeemAllCod
 addscriptexist(4733278992, "SwordBloxOnlineRebirthKillAura", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SwordBloxOnlineRebirthKillAura.lua")
                     
 addscriptexist(2653064683, "WordBombAutoTypeAndMoreOpenSource", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/WordBombAutoTypeAndMoreOpenSource.lua")
+    
+addscript(6897226634,"Timber [Tree Aura]", "TimberTreeAura", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TimberTreeAura.lua")
+                    
