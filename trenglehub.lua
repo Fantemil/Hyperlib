@@ -4891,3 +4891,5 @@ addscriptexist(3095204897, "Isle8AutoHackAutoGuess", "Terni", "https://raw.githu
     
 addscript(9388793159,"Coruscant Roleplay [Silent AIM]", "CoruscantRoleplaySilentAIM", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CoruscantRoleplaySilentAIM.lua")
                     
+                    
+addscriptexist(1365404657, "FeatherFamilyUnlockAllBirdVIBGamepass", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FeatherFamilyUnlockAllBirdVIBGamepass.lua")
