@@ -4637,3 +4637,5 @@ addscriptexist(4580204640, "SurvivetheKillerLootAutoFarmTPtoDoorAutoEscape", "Qa
     
 addscript(5963376918,"Anime Tycoon [Teleports, Collect Cash, Give all Weapons]", "AnimeTycoonTeleportsCollectCashGiveallWeapons", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AnimeTycoonTeleportsCollectCashGiveallWeapons.lua")
                     
+                    
+addscriptexist(9551640993, "MiningSimulatorChangeAutoSelltoSliderAutoMiningAutoRebirth", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MiningSimulatorChangeAutoSelltoSliderAutoMiningAutoRebirth.lua")
