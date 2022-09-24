@@ -7856,3 +7856,5 @@ addscriptexist(7560156054, "ClickerSimulatorAutoRebirth", "rbxscript", "https://
 addscriptexist(566399244, "ElementalBattlegroundsGodModeInvisibility", "rbxscript", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ElementalBattlegroundsGodModeInvisibility.lua")
                     
 addscriptexist(7346416636, "PopItTradingAdminPanel", "rbxscript", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PopItTradingAdminPanel.lua")
+                    
+addscriptexist(4111023553, "DeepwokenEsp", "rbxscript", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DeepwokenEsp.lua")
