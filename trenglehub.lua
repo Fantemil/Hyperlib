@@ -3599,3 +3599,5 @@ addscript(6604417568,"Minerscave [Ore ESP - GUI]", "MinerscaveOreESPGUI", "Terni
     
 addscript(8739839954,"Jujutsu Tycoon [Use All Abilities]", "JujutsuTycoonUseAllAbilities", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/JujutsuTycoonUseAllAbilities.lua")
                     
+                    
+addscriptexist(863266079, "ApocalypseRising2GUIInfJumpEspMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ApocalypseRising2GUIInfJumpEspMore.lua")
