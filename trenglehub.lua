@@ -3562,3 +3562,5 @@ addscript(4783966408,"Plates of Fate Remastered [Auto Complete Obby]", "Platesof
     
 addscript(6961824067,"Fling Things and People [Anti Grab & More!]", "FlingThingsandPeopleAntiGrabMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FlingThingsandPeopleAntiGrabMore.lua")
                     
+                    
+addscriptexist(8473958692, "TheTrialsAutoPressButtonsOpenAllCrates", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TheTrialsAutoPressButtonsOpenAllCrates.lua")
