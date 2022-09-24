@@ -3194,3 +3194,5 @@ addscript(6055959032,"Jailbird [Silent Aim – Ragebot – Visuals And More!]", 
                     
                     
 addscriptexist(6298464951, "UnbreakableGet100KCashItems", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/UnbreakableGet100KCashItems.lua")
+                    
+addscriptexist(10192063645, "ThyhoodGUIV2AutoFarmTrashKillPlayersAndTeleports", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ThyhoodGUIV2AutoFarmTrashKillPlayersAndTeleports.lua")
