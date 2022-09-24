@@ -3180,3 +3180,5 @@ addscript(9103460924,"Sword Factory X [Auto Reroll Enchants]", "SwordFactoryXAut
     
 addscript(5683833663,"Ragdoll Engine [Loop Push All]", "RagdollEngineLoopPushAll", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RagdollEngineLoopPushAll.lua")
                     
+                    
+addscriptexist(5956785391, "ProjectSlayersKillAuraFarmsInvisible", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ProjectSlayersKillAuraFarmsInvisible.lua")
