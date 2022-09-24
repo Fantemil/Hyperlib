@@ -6522,3 +6522,5 @@ addscriptexist(5116869569, "DoodleWorldHealYourTeanAnywhere", "Terni", "https://
 addscriptexist(662417684, "LuckyBlocksBattlegroundsGUISpawnallblocks", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LuckyBlocksBattlegroundsGUISpawnallblocks.lua")
                     
 addscriptexist(155615604, "PrisonLifeGUIGunModGunGiver", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PrisonLifeGUIGunModGunGiver.lua")
+                    
+addscriptexist(2512643572, "BubbleGumSimulatorGUIAutoFarmAutoBuy", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BubbleGumSimulatorGUIAutoFarmAutoBuy.lua")
