@@ -4431,3 +4431,6 @@ addscript(5646604884,"Crimson Craftwars [Insta Kill All, God Mode, Fastest Auto-
                     
                     
 addscriptexist(9551640993, "MiningSimulator2NameEggNamePetAutoDeleteseffect", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MiningSimulator2NameEggNamePetAutoDeleteseffect.lua")
+    
+addscript(6263325292,"Bloxburg [Remote Bypass]", "BloxburgRemoteBypass", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BloxburgRemoteBypass.lua")
+                    
