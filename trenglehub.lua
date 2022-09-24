@@ -6843,3 +6843,6 @@ addscript(1282541750,"Would You Rather 2 [Coins Farm]", "WouldYouRather2CoinsFar
     
 addscript(8479386309,"Egg Hunt 2022 Lost in Time [Collect All Coins & More!]", "EggHunt2022LostinTimeCollectAllCoinsMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/EggHunt2022LostinTimeCollectAllCoinsMore.lua")
                     
+    
+addscript(6561788350,"SPLIX UI LIB – Free To Use – New UI 2022", "SPLIXUILIB–FreeToUse–NewUI2022", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SPLIXUILIB–FreeToUse–NewUI2022.lua")
+                    
