@@ -1704,3 +1704,5 @@ addscriptexist(286090429, "ArsenalRainbowGunAimbot", "astrofile", "https://raw.g
     
 addscript(5130598377,"Tapping Legends X [Auto Farms, Auto Hatch, Auto Rebirth]", "TappingLegendsXAutoFarmsAutoHatchAutoRebirth", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TappingLegendsXAutoFarmsAutoHatchAutoRebirth.lua")
                     
+                    
+addscriptexist(2753915549, "BloxFruitsAutoFarmMobsEspChest", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BloxFruitsAutoFarmMobsEspChest.lua")
