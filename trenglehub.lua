@@ -4447,3 +4447,5 @@ addscriptexist(9726345231, "DuolingoGameHubInfiniteCoins", "Terni", "https://raw
     
 addscript(4733278992,"Sword Blox Online Reibirth [GUI Auto Craft, Auto Stats & More!]", "SwordBloxOnlineReibirthGUIAutoCraftAutoStatsMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SwordBloxOnlineReibirthGUIAutoCraftAutoStatsMore.lua")
                     
+                    
+addscriptexist(654732683, "CarCrushers2AutoFarmSpeedBoostGodmode", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CarCrushers2AutoFarmSpeedBoostGodmode.lua")
