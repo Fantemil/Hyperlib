@@ -1850,3 +1850,6 @@ addscript(10243982775,"RedBox 2 [Quickswap weapons]", "RedBox2Quickswapweapons",
                     
                     
 addscriptexist(2788229376, "DaHoodAutoFarmAutoCollect", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DaHoodAutoFarmAutoCollect.lua")
+    
+addscript(7305309231,"Taxi Boss [AutoFarm, AntiAfk]", "TaxiBossAutoFarmAntiAfk", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TaxiBossAutoFarmAntiAfk.lua")
+                    
