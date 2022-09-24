@@ -6670,3 +6670,5 @@ addscriptexist(4954752502, "TowerOfMiseryAutocollectgoldnuggets", "Qalnik", "htt
 addscriptexist(4490140733, "MyRestaurantXPFarm", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MyRestaurantXPFarm.lua")
                     
 addscriptexist(1962086868, "TowerofHellAutoFarmGodModeRemoveKillParts", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TowerofHellAutoFarmGodModeRemoveKillParts.lua")
+                    
+addscriptexist(8554378337, "WeaponFightingSimulatorCollectRewardsФutoFarm", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/WeaponFightingSimulatorCollectRewardsФutoFarm.lua")
