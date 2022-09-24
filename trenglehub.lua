@@ -2278,3 +2278,6 @@ addscriptexist(9498006165, "TappingSimulatorAutoClicker", "astrofile", "https://
     
 addscript(2817130270,"Digging Simulator [Inf Bag, Inf Money]", "DiggingSimulatorInfBagInfMoney", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DiggingSimulatorInfBagInfMoney.lua")
                     
+    
+addscript(9120036461,"Simple Basketball [Inf Money]", "SimpleBasketballInfMoney", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SimpleBasketballInfMoney.lua")
+                    
