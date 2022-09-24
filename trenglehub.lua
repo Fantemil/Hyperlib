@@ -1873,3 +1873,6 @@ addscript(14745996,"Gun Testing [Walkspeed, FreeDoors]", "GunTestingWalkspeedFre
     
 addscript(2665326799,"Find The Button [Button Esp, Inf Jump]", "FindTheButtonButtonEspInfJump", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FindTheButtonButtonEspInfJump.lua")
                     
+    
+addscript(5256165620,"3-2-1 Blast Off Simulator [AutoBuy, Gem Shop]", "321BlastOffSimulatorAutoBuyGemShop", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/321BlastOffSimulatorAutoBuyGemShop.lua")
+                    
