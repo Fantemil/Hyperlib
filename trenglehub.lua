@@ -5507,3 +5507,6 @@ addscriptexist(9281034297, "GoalKickSimulatorAimBotAutoKickMore", "Terni", "http
     
 addscript(5864786637,"In Another Time [Kill All]", "InAnotherTimeKillAll", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/InAnotherTimeKillAll.lua")
                     
+    
+addscript(8394872314,"Garden Tower Defense [Unlock All Towers]", "GardenTowerDefenseUnlockAllTowers", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/GardenTowerDefenseUnlockAllTowers.lua")
+                    
