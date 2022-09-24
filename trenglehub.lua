@@ -2398,3 +2398,5 @@ addscriptexist(10524502174, "OnePunchFightersAutoRankUpAutoClick", "astrofile", 
     
 addscript(5890116343,"Age Simulator [AutoFarm, AutoAge]", "AgeSimulatorAutoFarmAutoAge", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AgeSimulatorAutoFarmAutoAge.lua")
                     
+                    
+addscriptexist(648362523, "BreakingPointDupe", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BreakingPointDupe.lua")
