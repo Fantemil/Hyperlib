@@ -4532,3 +4532,5 @@ addscriptexist(4855457388, "DemonfallGUIAutoFarmAutoCollect", "Terni", "https://
     
 addscript(6808416928,"Aimblox BETA [Kill All]", "AimbloxBETAKillAll", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AimbloxBETAKillAll.lua")
                     
+                    
+addscriptexist(9726345231, "DuolingoGameHubFreeItems", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DuolingoGameHubFreeItems.lua")
