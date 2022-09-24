@@ -6571,3 +6571,5 @@ addscriptexist(2248408710, "DestructionSimulatorAutoSellGunModsNoclip", "Qalnik"
 addscriptexist(4924922222, "BrookhavenHomeMenuHouseMenuPlayersMemu", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BrookhavenHomeMenuHouseMenuPlayersMemu.lua")
                     
 addscriptexist(8540346411, "RebirthChampionsXAutoClickAutoClaimChestsAutoBuyUpgrades", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RebirthChampionsXAutoClickAutoClaimChestsAutoBuyUpgrades.lua")
+                    
+addscriptexist(8357510970, "AnimePunchingSimulatorAutoClickRedeemCodesAutoRebirth", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AnimePunchingSimulatorAutoClickRedeemCodesAutoRebirth.lua")
