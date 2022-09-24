@@ -7391,3 +7391,5 @@ addscriptexist(286090429, "ArsenalVALENTINESUpdateAutoFarm", "Terni", "https://r
     
 addscript(1021289358,"Football Universe [Magnets - Hitbox Increase & More!]", "FootballUniverseMagnetsHitboxIncreaseMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FootballUniverseMagnetsHitboxIncreaseMore.lua")
                     
+                    
+addscriptexist(5987922834, "TransfurOutbreakGodModeSelectcumfurryCrashserver", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TransfurOutbreakGodModeSelectcumfurryCrashserver.lua")
