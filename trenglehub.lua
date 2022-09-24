@@ -4197,3 +4197,6 @@ addscript(4443032907,"Sword Simulator [GUI - Auto Mobs & More!]", "SwordSimulato
                     
                     
 addscriptexist(6755746130, "FruitJuiceTycoonRefreshedSimpleAutoFarm", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FruitJuiceTycoonRefreshedSimpleAutoFarm.lua")
+    
+addscript(9611595239,"Rift Royale [Esp + Aimbot]", "RiftRoyaleEspAimbot", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RiftRoyaleEspAimbot.lua")
+                    
