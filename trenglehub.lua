@@ -6805,3 +6805,6 @@ addscript(5736409216,"Mall Tycoon [Auto Collect, Auto Buy, Auto rebirth]", "Mall
                     
                     
 addscriptexist(659222129, "Swordburst2FreeGUIAutoFarmMoreOpenSourse", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Swordburst2FreeGUIAutoFarmMoreOpenSourse.lua")
+    
+addscript(4934471106,"My Hero Mania [GUI - Mob Auto Farm - Auto Quest]", "MyHeroManiaGUIMobAutoFarmAutoQuest", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MyHeroManiaGUIMobAutoFarmAutoQuest.lua")
+                    
