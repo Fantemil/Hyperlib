@@ -2443,3 +2443,6 @@ addscriptexist(1554960397, "CarDealershipTycoonAutoFarm", "astrofile", "https://
 addscriptexist(7026828578, "SpeedSimulatorAutoFarm", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SpeedSimulatorAutoFarm.lua")
                     
 addscriptexist(6516141723, "DOORSEsp", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DOORSEsp.lua")
+    
+addscript(6716188523,"Business Tycoon [Inf cash]", "BusinessTycoonInfcash", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BusinessTycoonInfcash.lua")
+                    
