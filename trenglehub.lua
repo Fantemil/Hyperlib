@@ -7657,3 +7657,5 @@ addscriptexist(4520749081, "KingLegacyAutofarmAutoFarmMobsAutoStat", "Qalnik", "
     
 addscript(5874381161,"Noob Invasion [GUI - Auto Farm & More!]", "NoobInvasionGUIAutoFarmMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NoobInvasionGUIAutoFarmMore.lua")
                     
+                    
+addscriptexist(6266940721, "StockRiseInfiniteMoneyFEB2022", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/StockRiseInfiniteMoneyFEB2022.lua")
