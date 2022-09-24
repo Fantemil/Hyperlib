@@ -3130,3 +3130,5 @@ addscriptexist(2124720684, "DragonBallXenoMultiverseZenAutoFarm", "Terni", "http
 addscriptexist(6468323505, "SpellboundMagicRPGGetAllItems", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SpellboundMagicRPGGetAllItems.lua")
                     
 addscriptexist(6468323505, "SpellboundMagicRPGInfinteCoins", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SpellboundMagicRPGInfinteCoins.lua")
+                    
+addscriptexist(10118559731, "nicosnextbotsAutoBhop", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/nicosnextbotsAutoBhop.lua")
