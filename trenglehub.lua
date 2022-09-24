@@ -7962,3 +7962,6 @@ addscriptexist(735030788, "RoyaleHighFastFarm", "Qalnik", "https://raw.githubuse
     
 addscript(4646477729,"Tower Heroes [Auto Farm]", "TowerHeroesAutoFarm", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TowerHeroesAutoFarm.lua")
                     
+    
+addscript(1478636977,"Monster Battle [Auto Farm]", "MonsterBattleAutoFarm", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MonsterBattleAutoFarm.lua")
+                    
