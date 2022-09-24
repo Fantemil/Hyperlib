@@ -6874,3 +6874,5 @@ addscriptexist(7336302630, "ProjectDeltaAutoLoot–LootAnywhere", "Terni", "http
 addscriptexist(8639059522, "MagnifyingSimulatorGUIAutoOpenBoxAutoCollectOrbsAutoFarm", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MagnifyingSimulatorGUIAutoOpenBoxAutoCollectOrbsAutoFarm.lua")
                     
 addscriptexist(4111023553, "DEEPWOKENEnchantSniper", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DEEPWOKENEnchantSniper.lua")
+                    
+addscriptexist(8811271345, "BalancedCraftwarsOverhaulGUIMobFarmOreFarmPlayersKill", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BalancedCraftwarsOverhaulGUIMobFarmOreFarmPlayersKill.lua")
