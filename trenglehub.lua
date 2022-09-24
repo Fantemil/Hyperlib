@@ -2761,3 +2761,5 @@ addscript(6983932919,"osu!RoVer [Auto Click Circles - Time Warp & More!]", "osuR
     
 addscript(9605515605,"Sword Lands Simulator - Alpha [Inf Money]", "SwordLandsSimulatorAlphaInfMoney", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SwordLandsSimulatorAlphaInfMoney.lua")
                     
+                    
+addscriptexist(7952502098, "ImpossibleGlassBridgeObbyAUTOFARMER", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ImpossibleGlassBridgeObbyAUTOFARMER.lua")
