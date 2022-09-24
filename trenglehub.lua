@@ -5998,3 +5998,6 @@ addscriptexist(8137333410, "ColorbynumberNearInstantAutoPainter", "Terni", "http
 addscriptexist(4410049285, "DrivingSimulatorAutoFarmDiscoverAllAreas", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DrivingSimulatorAutoFarmDiscoverAllAreas.lua")
                     
 addscriptexist(9203864304, "RaiseaFloppaAutoClickAutoCollectFloppaCashMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RaiseaFloppaAutoClickAutoCollectFloppaCashMore.lua")
+    
+addscript(4637668954,"Rensselaer County Beta [RGB Car]", "RensselaerCountyBetaRGBCar", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RensselaerCountyBetaRGBCar.lua")
+                    
