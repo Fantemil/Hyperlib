@@ -1955,3 +1955,6 @@ addscriptexist(9658251985, "TheRakeKillTest10kills", "Qalnik", "https://raw.gith
 addscriptexist(9658251985, "TheRakeKillTestInfMoney", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TheRakeKillTestInfMoney.lua")
                     
 addscriptexist(8963721566, "TheBackroomsKV31InfStamina", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TheBackroomsKV31InfStamina.lua")
+    
+addscript(10627835972,"Death Sandbox [Kill All]", "DeathSandboxKillAll", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DeathSandboxKillAll.lua")
+                    
