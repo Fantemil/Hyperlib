@@ -3690,3 +3690,6 @@ addscript(9508087919,"Apeirophobia [Teleport]", "ApeirophobiaTeleport", "Terni",
                     
                     
 addscriptexist(8328351891, "MegaMansionTycoonAutoBuy", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MegaMansionTycoonAutoBuy.lua")
+    
+addscript(698448212,"RoBeats! [Free Ugc Item]", "RoBeatsFreeUgcItem", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RoBeatsFreeUgcItem.lua")
+                    
