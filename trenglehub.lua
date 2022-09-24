@@ -4987,3 +4987,6 @@ addscriptexist(9049840490, "SonicSpeedSimulatorAutoRunAutoRebirthAutoWinRace", "
     
 addscript(2965881766,"Brawl-Blox [Inf gold, Inf gems, Inf exp]", "BrawlBloxInfgoldInfgemsInfexp", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BrawlBloxInfgoldInfgemsInfexp.lua")
                     
+    
+addscript(6339160453,"Anime Ninja War Tycoon [Infinite Diamonds]", "AnimeNinjaWarTycoonInfiniteDiamonds", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AnimeNinjaWarTycoonInfiniteDiamonds.lua")
+                    
