@@ -5502,3 +5502,5 @@ addscript(8377686524,"Undertale", "UndertaleLastResetAutofarm", "Qalnik", "https
 addscriptexist(6679274937, "VansWorldMaxLevelOpenSourse", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/VansWorldMaxLevelOpenSourse.lua")
                     
 addscriptexist(9292879820, "GrassCuttingIncrementalModStats", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/GrassCuttingIncrementalModStats.lua")
+                    
+addscriptexist(9281034297, "GoalKickSimulatorAimBotAutoKickMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/GoalKickSimulatorAimBotAutoKickMore.lua")
