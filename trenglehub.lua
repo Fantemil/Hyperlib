@@ -5702,3 +5702,5 @@ addscriptexist(9344944754, "HunterxOmenAutoPushupFast", "Qalnik", "https://raw.g
     
 addscript(6840498537,"Strucid [Legit, Semi Rage]", "StrucidLegitSemiRage", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/StrucidLegitSemiRage.lua")
                     
+                    
+addscriptexist(8916037983, "StarvingArtistsGETEASTERBOOTHSCRIPT", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/StarvingArtistsGETEASTERBOOTHSCRIPT.lua")
