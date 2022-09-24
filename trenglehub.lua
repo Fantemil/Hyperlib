@@ -4898,3 +4898,6 @@ addscript(1758401491,"Public Bathroom Simulator [Spam Sounds - FE Trolling]", "P
                     
                     
 addscriptexist(340227283, "RoBowlingBallHBE", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RoBowlingBallHBE.lua")
+    
+addscript(9561878567,"Forest Of Beginnings RPG [Kill All]", "ForestOfBeginningsRPGKillAll", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ForestOfBeginningsRPGKillAll.lua")
+                    
