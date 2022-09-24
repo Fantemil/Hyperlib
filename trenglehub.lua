@@ -5926,3 +5926,6 @@ addscript(8874040270,"SKYWARS PRO 2 [Kill All]", "SKYWARSPRO2KillAll", "Terni", 
                     
                     
 addscriptexist(4588604953, "CriminalityEliteV3DevBuildLeak", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CriminalityEliteV3DevBuildLeak.lua")
+    
+addscript(8713127334,"Redbox 2 [Kill All]", "Redbox2KillAll", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Redbox2KillAll.lua")
+                    
