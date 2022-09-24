@@ -2324,3 +2324,6 @@ addscript(6468323505,"Spellbound ✨ Magic RPG [Auto Raid Tower, Inf Coins]", "S
                     
                     
 addscriptexist(9386846196, "BrawlingGroundsKillAura", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BrawlingGroundsKillAura.lua")
+    
+addscript(534701013,"The Labyrinth [X-Ray, Auto attack]", "TheLabyrinthXRayAutoattack", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TheLabyrinthXRayAutoattack.lua")
+                    
