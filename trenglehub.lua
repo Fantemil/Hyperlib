@@ -6514,3 +6514,5 @@ addscriptexist(4588604953, "CriminalityTeleportBypass", "Terni", "https://raw.gi
 addscriptexist(8737602449, "PLSDONATEMusicGUIDancesPackageAnimations", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PLSDONATEMusicGUIDancesPackageAnimations.lua")
                     
 addscriptexist(662417684, "LUCKYBLOCKSBattlegroundsPlayersGetallgearsLuckyBlocks", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LUCKYBLOCKSBattlegroundsPlayersGetallgearsLuckyBlocks.lua")
+                    
+addscriptexist(3101667897, "LegendsOfSpeedAutoCollectOrbsAutoCollectGemsAutoRebirth", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LegendsOfSpeedAutoCollectOrbsAutoCollectGemsAutoRebirth.lua")
