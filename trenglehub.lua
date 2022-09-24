@@ -8272,3 +8272,5 @@ addscriptexist(6284583030, "PetSimulatorXAutoCollectLootBags", "Terni", "https:/
 addscriptexist(2809202155, "YourBizarreAdventureItemAutoFarm", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/YourBizarreAdventureItemAutoFarm.lua")
                     
 addscriptexist(3102144307, "AnimeClickerSimulatorAutoClickAutoOpenEggAutoRebirth", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AnimeClickerSimulatorAutoClickAutoOpenEggAutoRebirth.lua")
+                    
+addscriptexist(306964494, "LoomianLegacyAutoEncounter", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LoomianLegacyAutoEncounter.lua")
