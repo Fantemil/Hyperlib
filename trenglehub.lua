@@ -3139,3 +3139,5 @@ addscriptexist(815405518, "TheFloorIsLAVAAutoFarm", "Terni", "https://raw.github
     
 addscript(263761432,"Horrific Housing [More Money]", "HorrificHousingMoreMoney", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/HorrificHousingMoreMoney.lua")
                     
+                    
+addscriptexist(9551640993, "MiningSimulator2BlockAuraAutoSell", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MiningSimulator2BlockAuraAutoSell.lua")
