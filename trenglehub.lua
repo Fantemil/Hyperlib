@@ -1244,3 +1244,5 @@ addscript(5343994291,"Outlaster ", "OutlasterAutoFishEspInfJump", "astrofile", "
 addscriptexist(10439295403, "AnimeChampionsKillAuraResetSkillPointsAutoQuest", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AnimeChampionsKillAuraResetSkillPointsAutoQuest.lua")
                     
 addscriptexist(2788229376, "DaHoodInfStaminaFlyEsp", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DaHoodInfStaminaFlyEsp.lua")
+                    
+addscriptexist(155615604, "PrisonLife500Ammo", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PrisonLife500Ammo.lua")
