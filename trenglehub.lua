@@ -7137,3 +7137,6 @@ addscript(3436903748,"Squadron [Auto Farm]", "SquadronAutoFarm", "Terni", "https
 addscriptexist(4169490976, "MortemMetallumNuke", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MortemMetallumNuke.lua")
                     
 addscriptexist(306964494, "LoomianLegacyFreeAutoFarm", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LoomianLegacyFreeAutoFarm.lua")
+    
+addscript(7107498084,"Anime Battle Tycoon [Auto Collect Cash, God Mode, Infite Jump]", "AnimeBattleTycoonAutoCollectCashGodModeInfiteJump", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AnimeBattleTycoonAutoCollectCashGodModeInfiteJump.lua")
+                    
