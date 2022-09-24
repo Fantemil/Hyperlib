@@ -3956,3 +3956,6 @@ addscript(2688038742,"Area - Omega [Kill All]", "AreaOmegaKillAll", "Terni", "ht
                     
                     
 addscriptexist(6872265039, "BedWarsInstaKill", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BedWarsInstaKill.lua")
+    
+addscript(4237861040,"Treacherous Tower [GUI - Auto Farm]", "TreacherousTowerGUIAutoFarm", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TreacherousTowerGUIAutoFarm.lua")
+                    
