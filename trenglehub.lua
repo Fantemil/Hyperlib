@@ -1291,3 +1291,5 @@ addscript(5987922834,"Transfur Outbreak! ", "TransfurOutbreakAimbotVisualsAutoRe
     
 addscript(9361614975,"My City Tycoon ", "MyCityTycoonAutoClickAutoObyClicker", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MyCityTycoonAutoClickAutoObyClicker.lua")
                     
+                    
+addscriptexist(9361614975, "MyCityTycoonAutoObbyAutoClick", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MyCityTycoonAutoObbyAutoClick.lua")
