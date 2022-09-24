@@ -1339,3 +1339,6 @@ addscriptexist(6753004901, "SwingCityUnlockAllSkinsMore", "Terni", "https://raw.
 addscriptexist(7369208341, "SuperHeroUniverse17InfiniteCoins", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SuperHeroUniverse17InfiniteCoins.lua")
                     
 addscriptexist(2066381781, "DeadlySinsRetributionTeleportToIstar", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DeadlySinsRetributionTeleportToIstar.lua")
+    
+addscript(8704181738,"Tien Tien Piece [Auto Farm Gems In Second Sea]", "TienTienPieceAutoFarmGemsInSecondSea", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TienTienPieceAutoFarmGemsInSecondSea.lua")
+                    
