@@ -5613,3 +5613,6 @@ addscript(2693739238,"THEIF LIFE Simulator [Get Best Loot]", "THEIFLIFESimulator
                     
                     
 addscriptexist(5154858502, "MurderersevsSheriffsKillAll", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MurderersevsSheriffsKillAll.lua")
+    
+addscript(9487450292,"Weak Piece [Kill Everything]", "WeakPieceKillEverything", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/WeakPieceKillEverything.lua")
+                    
