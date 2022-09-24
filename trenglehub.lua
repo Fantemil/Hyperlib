@@ -7909,3 +7909,5 @@ addscriptexist(1962086868, "TowerofHellWimAutoWinGodmode", "Qalnik", "https://ra
 addscriptexist(7560156054, "ClickerSimulatorAutoClicker", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ClickerSimulatorAutoClicker.lua")
                     
 addscriptexist(735030788, "RoyaleHighTeleporttoyouDiamondFarm", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RoyaleHighTeleporttoyouDiamondFarm.lua")
+                    
+addscriptexist(6170705260, "BlendingSimulator2AutoFarm", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BlendingSimulator2AutoFarm.lua")
