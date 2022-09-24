@@ -4984,3 +4984,6 @@ addscript(8363125306,"Outdoor Brawling [Get Advance, No Stun, No Carry]", "Outdo
                     
                     
 addscriptexist(9049840490, "SonicSpeedSimulatorAutoRunAutoRebirthAutoWinRace", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SonicSpeedSimulatorAutoRunAutoRebirthAutoWinRace.lua")
+    
+addscript(2965881766,"Brawl-Blox [Inf gold, Inf gems, Inf exp]", "BrawlBloxInfgoldInfgemsInfexp", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BrawlBloxInfgoldInfgemsInfexp.lua")
+                    
