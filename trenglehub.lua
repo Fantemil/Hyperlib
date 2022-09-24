@@ -4484,3 +4484,5 @@ addscript(4618049391,"Tang County, Hebei [Auto Farm]", "TangCountyHebeiAutoFarm"
     
 addscript(9297410766,"Crossbar Challenge Simulator [Fast Auto Shoot]", "CrossbarChallengeSimulatorFastAutoShoot", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CrossbarChallengeSimulatorFastAutoShoot.lua")
                     
+                    
+addscriptexist(7336302630, "ProjectDetlaSilentAimInstantBulletsMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ProjectDetlaSilentAimInstantBulletsMore.lua")
