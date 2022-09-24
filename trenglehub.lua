@@ -7670,3 +7670,5 @@ addscript(6429911702,"Master's Difficulty Chart Obby [complete all stages, compl
                     
                     
 addscriptexist(537413528, "BuildABoatForTreasureNewAutoFarmingCoins", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BuildABoatForTreasureNewAutoFarmingCoins.lua")
+                    
+addscriptexist(1224212277, "MadCityScriptInfiniteXp", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MadCityScriptInfiniteXp.lua")
