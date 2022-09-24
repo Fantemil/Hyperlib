@@ -3826,3 +3826,6 @@ addscriptexist(6678877691, "ZOぞTpAura", "Qalnik", "https://raw.githubuserconte
     
 addscript(9344944754,"Hunter x Athena [Auto Pushup, Auto Climb, Auto Run]", "HunterxAthenaAutoPushupAutoClimbAutoRun", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/HunterxAthenaAutoPushupAutoClimbAutoRun.lua")
                     
+    
+addscript(413424176,"Clone Tycoon 2 [Infinite Cash]", "CloneTycoon2InfiniteCash", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CloneTycoon2InfiniteCash.lua")
+                    
