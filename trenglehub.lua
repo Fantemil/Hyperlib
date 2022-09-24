@@ -5212,3 +5212,6 @@ addscriptexist(4787629450, "BOOGABOOGAGUIKillAuraAutoHealMore", "Terni", "https:
 addscriptexist(9573746878, "BleachSenkoShinigami", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BleachSenkoShinigami.lua")
                     
 addscriptexist(5987922834, "TransfurOutbreakAutoGrab", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TransfurOutbreakAutoGrab.lua")
+    
+addscript(6342469457,"Heavens Arena [GUI - Auto Click, Auto Skill & More!]", "HeavensArenaGUIAutoClickAutoSkillMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/HeavensArenaGUIAutoClickAutoSkillMore.lua")
+                    
