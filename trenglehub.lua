@@ -6226,3 +6226,6 @@ addscript(6125809531,"Untitled AoT [Auto Farm]", "UntitledAoTAutoFarm", "Terni",
                     
                     
 addscriptexist(4588604953, "CriminalityNoRecoil", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CriminalityNoRecoil.lua")
+    
+addscript(7371240697,"Giant Dancing Simulator [Collect All Eggs]", "GiantDancingSimulatorCollectAllEggs", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/GiantDancingSimulatorCollectAllEggs.lua")
+                    
