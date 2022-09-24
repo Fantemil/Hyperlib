@@ -6204,3 +6204,5 @@ addscript(6955924345,"Titan Clash Online [Kill Aura - Infinite Gas - God Mode & 
 addscriptexist(8781849572, "StarSimulatorBetaToolReachOpenSource", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/StarSimulatorBetaToolReachOpenSource.lua")
                     
 addscriptexist(6403373529, "SlapBattlesTrollingGUI", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SlapBattlesTrollingGUI.lua")
+                    
+addscriptexist(6401440818, "MONOLITHDEFENSEUnlimitedVotes", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MONOLITHDEFENSEUnlimitedVotes.lua")
