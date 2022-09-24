@@ -6195,3 +6195,5 @@ addscriptexist(6401440818, "MONOLITHDEFENSEStatUpgradeEverything", "Terni", "htt
 addscriptexist(623694595, "NBAPhenomSilentAIMAutoChangingPower", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NBAPhenomSilentAIMAutoChangingPower.lua")
                     
 addscriptexist(5712833750, "AnimalSimulatorCollectEggs", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AnimalSimulatorCollectEggs.lua")
+                    
+addscriptexist(8146731988, "UltraPowerTycoonKillClosestPlayerOpenSource", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/UltraPowerTycoonKillClosestPlayerOpenSource.lua")
