@@ -5331,3 +5331,6 @@ addscriptexist(2965881766, "BrawlBloxInfiniteTrophies", "Terni", "https://raw.gi
     
 addscript(9336657396,"A Beatdown Neighborhood [Auto Farm Power]", "ABeatdownNeighborhoodAutoFarmPower", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ABeatdownNeighborhoodAutoFarmPower.lua")
                     
+    
+addscript(7797478022,"Broken Bones Simulator [Infinite Money]", "BrokenBonesSimulatorInfiniteMoney", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BrokenBonesSimulatorInfiniteMoney.lua")
+                    

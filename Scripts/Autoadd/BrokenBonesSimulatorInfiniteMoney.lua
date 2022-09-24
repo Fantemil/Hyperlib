@@ -1,0 +1,1 @@
+game.ReplicatedStorage.Remotes.Player_NewRun:FireServer({Total=9e99,Bruises=9e19,Fractures=9e19,Speed=9e19,TestingNewInjury=9e19,Sprains=9e19,Breaks=9e19})
