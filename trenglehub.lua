@@ -4368,3 +4368,5 @@ addscriptexist(6644653750, "PaperIOAutoWIn", "Qalnik", "https://raw.githubuserco
 addscriptexist(35397735, "ScubaDivingatQuillLakeGiveallgamepass", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ScubaDivingatQuillLakeGiveallgamepass.lua")
                     
 addscriptexist(9017974931, "ValobloxAutoOpenCrates", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ValobloxAutoOpenCrates.lua")
+                    
+addscriptexist(142823291, "MurderMystery2Visualskins", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MurderMystery2Visualskins.lua")
