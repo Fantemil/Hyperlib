@@ -5597,3 +5597,5 @@ addscriptexist(35397735, "ScubaDivingAtQuillLakeAutoSell", "Terni", "https://raw
     
 addscript(5108587039,"Palm Ridge Beta [Auto Farm – Open Sourse]", "PalmRidgeBetaAutoFarm–OpenSourse", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PalmRidgeBetaAutoFarm–OpenSourse.lua")
                     
+                    
+addscriptexist(5783581, "TPSUltimateSoccerShootAutoGoalKeepMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TPSUltimateSoccerShootAutoGoalKeepMore.lua")
