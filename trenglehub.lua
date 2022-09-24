@@ -8062,3 +8062,5 @@ addscriptexist(654732683, "CarCrushers2GRINDHELPERUTILITY", "Terni", "https://ra
     
 addscript(6432407703,"Big City Tycoon [Collect Presents]", "BigCityTycoonCollectPresents", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BigCityTycoonCollectPresents.lua")
                     
+                    
+addscriptexist(6055959032, "JailbirdEspSilentAim", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/JailbirdEspSilentAim.lua")
