@@ -8656,3 +8656,6 @@ addscript(7049683699,"Ragdoll Engine [NEW SCRIPT GUI]", "RagdollEngineNEWSCRIPTG
                     
                     
 addscriptexist(5130598377, "UNIVERSALAIMBOTVISUALS–RIOTFALLSUPPORT", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/UNIVERSALAIMBOTVISUALS–RIOTFALLSUPPORT.lua")
+    
+addscript(2716845201,"Warrior Simulator [COINS FARM, NPC FARM, TP]", "WarriorSimulatorCOINSFARMNPCFARMTP", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/WarriorSimulatorCOINSFARMNPCFARMTP.lua")
+                    
