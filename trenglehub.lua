@@ -7497,3 +7497,5 @@ addscriptexist(6875469709, "STRONGESTPUNCHSIMULATORAutoPunchAutoOrbCollectionAut
     
 addscript(8169234858,"Mr Hood [Full Anti Cheat Bypass]", "MrHoodFullAntiCheatBypass", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MrHoodFullAntiCheatBypass.lua")
                     
+                    
+addscriptexist(8592863835, "MagnetSimulator2GUIAutoFarmAutoHatchMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MagnetSimulator2GUIAutoFarmAutoHatchMore.lua")
