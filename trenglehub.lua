@@ -1655,3 +1655,5 @@ addscriptexist(3101667897, "LegendsOfSpeedAutoGraborbsAutoGrabRingsAutoRebirth",
     
 addscript(7050008107,"Hospital Tycoon [Collect Cash, Buy Buttons]", "HospitalTycoonCollectCashBuyButtons", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/HospitalTycoonCollectCashBuyButtons.lua")
                     
+                    
+addscriptexist(8146731988, "UltraPowerTycoonPowerGrabAllitems", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/UltraPowerTycoonPowerGrabAllitems.lua")
