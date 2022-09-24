@@ -2354,3 +2354,5 @@ addscriptexist(2039118386, "NeighborhoodwarBypasser", "astrofile", "https://raw.
     
 addscript(2772610559,"Farming and Friends [Auto Farm]", "FarmingandFriendsAutoFarm", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FarmingandFriendsAutoFarm.lua")
                     
+                    
+addscriptexist(9284097280, "ApartmentTycoonAutocollectcash", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ApartmentTycoonAutocollectcash.lua")
