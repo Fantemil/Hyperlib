@@ -4248,3 +4248,5 @@ addscript(5617626326,"Blood Samurai 2 [Auto Farm Cash]", "BloodSamurai2AutoFarmC
     
 addscript(8592703594,"Undertale Unexplained Anomalies [Stardust Auto Farm]", "UndertaleUnexplainedAnomaliesStardustAutoFarm", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/UndertaleUnexplainedAnomaliesStardustAutoFarm.lua")
                     
+                    
+addscriptexist(8123652942, "LegendPieceGodMode", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LegendPieceGodMode.lua")
