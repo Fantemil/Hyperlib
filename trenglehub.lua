@@ -3663,3 +3663,6 @@ addscriptexist(4036494886, "GunSimulatorGUIGetInfiniteMoneySetMaxWeaponDamageMor
 addscriptexist(8554378337, "WeaponFightingSimulatorGUIStartFarmSelectAreaToFarmMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/WeaponFightingSimulatorGUIStartFarmSelectAreaToFarmMore.lua")
                     
 addscriptexist(7026949294, "SwordSimulatorInfiniteCoinsAutoFarmMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SwordSimulatorInfiniteCoinsAutoFarmMore.lua")
+    
+addscript(8069117419,"Demon Soul Simulator [GUI - Auto Farm, Auto Punch & More!]", "DemonSoulSimulatorGUIAutoFarmAutoPunchMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DemonSoulSimulatorGUIAutoFarmAutoPunchMore.lua")
+                    
