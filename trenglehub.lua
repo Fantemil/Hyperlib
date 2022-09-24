@@ -7863,3 +7863,5 @@ addscript(6490016198,"Slayer Tycoon [Anti Ac, Auto Buy Food...]", "SlayerTycoonA
                     
                     
 addscriptexist(6769764667, "FactorySimulatorAutoAfkAutoHarvestAutoSell", "rbxscript", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FactorySimulatorAutoAfkAutoHarvestAutoSell.lua")
+                    
+addscriptexist(7993293100, "TsunamiGameAutoFarmPoints", "rbxscript", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TsunamiGameAutoFarmPoints.lua")
