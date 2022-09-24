@@ -3799,3 +3799,6 @@ addscript(9845529187,"Tidewater [Annoy All]", "TidewaterAnnoyAll", "Qalnik", "ht
 addscriptexist(4850718823, "SkateParkInstantlygetbothitems", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SkateParkInstantlygetbothitems.lua")
                     
 addscriptexist(6716188523, "BusinessTycoonInfMoney", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BusinessTycoonInfMoney.lua")
+    
+addscript(6058150350,"Destruction Physics [Physics Lag players]", "DestructionPhysicsPhysicsLagplayers", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DestructionPhysicsPhysicsLagplayers.lua")
+                    
