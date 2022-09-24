@@ -8797,3 +8797,6 @@ addscriptexist(2619187362, "SuperPowerFightingSimulatorAutoFarmAutoAnubisAutoEvi
 addscriptexist(4954752502, "TowerofMiseryAfkFarmInstaWinHightSpeed", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TowerofMiseryAfkFarmInstaWinHightSpeed.lua")
                     
 addscriptexist(189707, "NaturalDisasterSurvivalFreeeCompasNaturalDetectNoFallDamage", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NaturalDisasterSurvivalFreeeCompasNaturalDetectNoFallDamage.lua")
+    
+addscript(7485253727,"True Piece [Auto Farm mobs, Auto Quest, Fruit Farm]", "TruePieceAutoFarmmobsAutoQuestFruitFarm", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TruePieceAutoFarmmobsAutoQuestFruitFarm.lua")
+                    
