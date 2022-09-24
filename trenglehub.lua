@@ -8008,3 +8008,5 @@ addscript(258258996,"Miner's Haven [Auto farm, Base mods, Webhooks]", "MinersHav
                     
                     
 addscriptexist(2809202155, "YourBizarreAdventureAutobuyStandattachStandFarm", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/YourBizarreAdventureAutobuyStandattachStandFarm.lua")
+                    
+addscriptexist(1962086868, "TowerofHellInfiniteJumpGodModeAntiFog", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TowerofHellInfiniteJumpGodModeAntiFog.lua")
