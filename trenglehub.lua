@@ -5036,3 +5036,5 @@ addscriptexist(740581508, "EntryPointNPCCameraESP", "Terni", "https://raw.github
     
 addscript(5063122755,"Overlook RP [Auto Farm]", "OverlookRPAutoFarm", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OverlookRPAutoFarm.lua")
                     
+                    
+addscriptexist(9551640993, "MiningSimulator2ChestsFarmServerHop", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MiningSimulator2ChestsFarmServerHop.lua")
