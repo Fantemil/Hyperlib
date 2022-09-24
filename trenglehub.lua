@@ -4642,3 +4642,6 @@ addscriptexist(9551640993, "MiningSimulatorChangeAutoSelltoSliderAutoMiningAutoR
     
 addscript(3652625463,"Lifting Simulator [Auto Muscle, WalkSpeed, TP Safe Zone]", "LiftingSimulatorAutoMuscleWalkSpeedTPSafeZone", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LiftingSimulatorAutoMuscleWalkSpeedTPSafeZone.lua")
                     
+    
+addscript(5827078246,"Coins Hero Simulator [Auto Coin, Auto Sell, AutoEgg]", "CoinsHeroSimulatorAutoCoinAutoSellAutoEgg", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CoinsHeroSimulatorAutoCoinAutoSellAutoEgg.lua")
+                    
