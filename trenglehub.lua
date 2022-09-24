@@ -4731,3 +4731,5 @@ addscriptexist(8592863835, "MagnetSimulator2AutoMoneyAutoSellAutoRebirth", "Qaln
 addscriptexist(8737602449, "PLSDONATEESP", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PLSDONATEESP.lua")
                     
 addscriptexist(1224212277, "MadCityCrazyAutoRobServerCrasherTeleports", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MadCityCrazyAutoRobServerCrasherTeleports.lua")
+                    
+addscriptexist(606849621, "JailbreakAutoFarmTeleportInfDonut", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/JailbreakAutoFarmTeleportInfDonut.lua")
