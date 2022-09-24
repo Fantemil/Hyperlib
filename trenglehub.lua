@@ -2149,3 +2149,5 @@ addscriptexist(6766156863, "StrongmanSimulatorVeryOPAutofarm", "Qalnik", "https:
     
 addscript(9961650006,"Shockwave Racing [Auto Win]", "ShockwaveRacingAutoWin", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ShockwaveRacingAutoWin.lua")
                     
+                    
+addscriptexist(5780309044, "StandsAwakeningAutofarmstandsInstantlychangestands", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/StandsAwakeningAutofarmstandsInstantlychangestands.lua")

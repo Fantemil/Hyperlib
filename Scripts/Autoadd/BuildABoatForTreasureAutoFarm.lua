@@ -1,19 +1,75 @@
-local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/xHeptc/Kavo-UI-Library/main/source.lua"))()
-local Window = Library.CreateLib("Babft", "Ocean")
+--race clicker
 
-local Tab = Window:NewTab("Autofarm")
-local Section = Tab:NewSection("Autofarm")
+local OrionLib = loadstring(game:HttpGet(('https://raw.githubusercontent.com/shlexware/Orion/main/source')))()
+local Player = game.Players.LocalPlayer
+local Window = OrionLib:MakeWindow({Name = "Swep Scripts | Key System", HidePremium = false, SaveConfig = true, ConfigFolder = "OrionTest", IntroText = "Swep Key System"})
 
-Section:NewToggle("Toggle autofarm", "ToggleInfo", function(state)
-    if state then
-        _G.autoTap = true;
-while _G.autoTap == true do 
-game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-61.734951, 80.9129333, 1356.86792, -0.978096783, 0.131123319, 0.161658198, 0.159390599, 0.97130245, 0.176539376, -0.133870587, 0.198439389, -0.970927656)
-wait(15)
+OrionLib:MakeNotification({
+ Name = "Logged in!",
+ Content = "You are Logged in as "..Player.Name.. ".",
+ Image = "rbxassetid://4483345998",
+ Time = 5
+})
+
+_G.Key = "SwepBoat"
+_G.KeyInput = "string"
+
+function SwepHub()
+ loadstring(game:HttpGet("https://raw.githubusercontent.com/xkvl2012/SwepScripts/main/bboat"))()
 end
-    else
-        _G.autoTap = false;
-    end
-end)
 
-print("Ui made by zuny, thanks for using")
+function CorrectKeyNotification()
+    OrionLib:MakeNotification({
+        Name = "Correct Key!",
+        Content = "You Have Entered The Correct Key!",
+        Image = "rbxassetid://4483345998",
+        Time = 5
+    })
+end
+
+function IncorrectKeyNotification()
+    OrionLib:MakeNotification({
+        Name = "Incorrect Key!",
+        Content = "You Have Entered Incorrect Key!",
+        Image = "rbxassetid://4483345998",
+        Time = 5
+    })
+end
+
+local Tab = Window:MakeTab({
+ Name = "Key",
+ Icon = "http://www.roblox.com/asset/?id=129697930",
+ PremiumOnly = false
+})
+
+Tab:AddTextbox({
+ Name = "Enter Key",
+ Default = "",
+ TextDisappear = true,
+ Callback = function(Value)
+  _G.KeyInput = Value
+ end   
+})
+
+Tab:AddButton({
+ Name = "Check Key",
+ Callback = function()
+        if _G.KeyInput == _G.Key then
+                SwepHub()
+                CorrectKeyNotification()
+            else
+                IncorrectKeyNotification()
+            end
+   end    
+})
+
+local Section = Tab:AddSection({
+ Name = "Discord Invite"
+})
+Tab:AddTextbox({
+ Name = "Join Discord For Key!",
+ Default = "https://discord.com/invite/ppQTvDAq6C",
+ TextDisappear = true,
+ Callback = function(Value) 
+ end  
+})
