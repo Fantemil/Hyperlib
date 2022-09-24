@@ -6149,3 +6149,5 @@ addscriptexist(6329844902, "PiratesNewGenerationMaxLevelStats", "Terni", "https:
 addscriptexist(5951002734, "ProjectBaki2AutoFarmFree", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ProjectBaki2AutoFarmFree.lua")
                     
 addscriptexist(9049840490, "SonicSpeedSimulatorThe1FreeAutoFarmGUI", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SonicSpeedSimulatorThe1FreeAutoFarmGUI.lua")
+                    
+addscriptexist(35397735, "ScubaDivingatQuillLakeAutoFarmGUI", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ScubaDivingatQuillLakeAutoFarmGUI.lua")
