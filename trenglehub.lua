@@ -5299,3 +5299,5 @@ addscript(444319338,"Cannoneers! [Auto Farm]", "CannoneersAutoFarm", "Terni", "h
     
 addscript(8370411487,"The New Frontier [Inf Stamina & Much More!]", "TheNewFrontierInfStaminaMuchMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TheNewFrontierInfStaminaMuchMore.lua")
                     
+                    
+addscriptexist(5965591336, "SoulWarIntantKillHollows", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SoulWarIntantKillHollows.lua")
