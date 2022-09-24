@@ -3365,3 +3365,5 @@ addscript(1899149341,"Vehicle Tycoon [Collect All Gifts]", "VehicleTycoonCollect
     
 addscript(10191372093,"Guillotine Tycoon [Auto Farm]", "GuillotineTycoonAutoFarm", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/GuillotineTycoonAutoFarm.lua")
                     
+                    
+addscriptexist(1224212277, "MadCityExpFarmEspSilentAIm", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MadCityExpFarmEspSilentAIm.lua")
