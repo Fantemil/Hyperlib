@@ -6865,3 +6865,6 @@ addscriptexist(8377686524, "UndertaleLastResetInstaKillEverythingDOESNTWORKWITHB
 addscriptexist(7800644383, "UntitledHoodLettuceAutoFarmFast", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/UntitledHoodLettuceAutoFarmFast.lua")
                     
 addscriptexist(6667701234, "FateXeroTeleportAllItems", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FateXeroTeleportAllItems.lua")
+    
+addscript(8300860655,"Warfronts (BETA) [Kill Everyone / Kill All Enemies]", "WarfrontsBETAKillEveryoneKillAllEnemies", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/WarfrontsBETAKillEveryoneKillAllEnemies.lua")
+                    
