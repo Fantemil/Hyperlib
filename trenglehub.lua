@@ -2411,3 +2411,6 @@ addscript(2768379856,"SCP 3008 [Water Compatible, Give Items]", "SCP3008WaterCom
                     
                     
 addscriptexist(9585537847, "SHADOVISRPGAutoFarm", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SHADOVISRPGAutoFarm.lua")
+    
+addscript(6456351776,"Kaiju Paradise [No CD Grab, Walkspeed]", "KaijuParadiseNoCDGrabWalkspeed", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/KaijuParadiseNoCDGrabWalkspeed.lua")
+                    
