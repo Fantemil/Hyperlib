@@ -2641,3 +2641,6 @@ addscriptexist(2622527242, "SCPrBreachESPMisc", "astrofile", "https://raw.github
 addscriptexist(7026828578, "SpeedSimulatorInfScore", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SpeedSimulatorInfScore.lua")
                     
 addscriptexist(7991339063, "RainbowFriendsGodModeAutoWin", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RainbowFriendsGodModeAutoWin.lua")
+    
+addscript(5201688943,"Da hood [ESP]", "DahoodESP", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DahoodESP.lua")
+                    
