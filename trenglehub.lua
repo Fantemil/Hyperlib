@@ -7952,3 +7952,6 @@ addscript(2597632885,"sno day [All Hat]", "snodayAllHat", "Qalnik", "https://raw
     
 addscript(6220960770,"Blades World [Auto Farm]", "BladesWorldAutoFarm", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BladesWorldAutoFarm.lua")
                     
+    
+addscript(8116417963,"Carcraft [Kill ALl]", "CarcraftKillALl", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CarcraftKillALl.lua")
+                    
