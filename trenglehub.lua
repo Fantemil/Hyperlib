@@ -5608,3 +5608,6 @@ addscript(8090572921,"Multiverse Fighters Simulator [Auto Click - Auto Attack Np
 addscriptexist(142823291, "MurderMystery2The1FreeGUI", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MurderMystery2The1FreeGUI.lua")
                     
 addscriptexist(9030362964, "FieldGoalSimulatorAlwaysPerfectAccuracy", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FieldGoalSimulatorAlwaysPerfectAccuracy.lua")
+    
+addscript(2693739238,"THEIF LIFE Simulator [Get Best Loot]", "THEIFLIFESimulatorGetBestLoot", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/THEIFLIFESimulatorGetBestLoot.lua")
+                    
