@@ -4080,3 +4080,5 @@ addscript(9711302332,"Clkicker Heroes [Auto Tap - Auto Evolve And More!]", "Clki
                     
                     
 addscriptexist(2043040358, "VyyrahkCityMoney", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/VyyrahkCityMoney.lua")
+                    
+addscriptexist(9281034297, "GoalKickSimulatorGUIAutoKickAutoRebirthMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/GoalKickSimulatorGUIAutoKickAutoRebirthMore.lua")
