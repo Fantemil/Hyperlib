@@ -4687,3 +4687,6 @@ addscript(7842028704,"Anime Sword Simulator [Auto Sword, Start Auto Rebirths, Re
                     
                     
 addscriptexist(3101667897, "LegendsOfSpeedStepsFarmGemsFarm", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LegendsOfSpeedStepsFarmGemsFarm.lua")
+    
+addscript(8613864463,"Muscle Legends [Auto Lifting, Claim All chests, Teleport]", "MuscleLegendsAutoLiftingClaimAllchestsTeleport", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MuscleLegendsAutoLiftingClaimAllchestsTeleport.lua")
+                    
