@@ -3997,3 +3997,6 @@ addscriptexist(9936860371, "EggPackingTycoonSemiAutoFarm", "Terni", "https://raw
 addscriptexist(8303902695, "PetPosseAutoRebirth", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PetPosseAutoRebirth.lua")
                     
 addscriptexist(537413528, "BuildABoatForTreasureInfiniteBlocks", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BuildABoatForTreasureInfiniteBlocks.lua")
+    
+addscript(133815151,"The Final Stand 2 [Silent Aim]", "TheFinalStand2SilentAim", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TheFinalStand2SilentAim.lua")
+                    
