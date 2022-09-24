@@ -1429,3 +1429,5 @@ addscript(189707,"Natural Disaster Survival", "NaturalDisasterSurvivalSpeedChang
                     
                     
 addscriptexist(106311815871102, "StoneMinerSimulator2InfiniteRebirthTokensGems", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/StoneMinerSimulator2InfiniteRebirthTokensGems.lua")
+                    
+addscriptexist(2788229376, "DaHoodTitan", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DaHoodTitan.lua")
