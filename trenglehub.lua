@@ -2800,3 +2800,6 @@ addscript(155382109,"Survive and Kill the Killers in Area 51 [Infinite ammo (leg
 addscriptexist(9285238704, "RaceClickerInfiniteSpeed", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RaceClickerInfiniteSpeed.lua")
                     
 addscriptexist(10192063645, "ThyHoodServerCrash", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ThyHoodServerCrash.lua")
+    
+addscript(137885680,"Zombie Rush [GUI - God Mode - Rage Mode]", "ZombieRushGUIGodModeRageMode", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ZombieRushGUIGodModeRageMode.lua")
+                    
