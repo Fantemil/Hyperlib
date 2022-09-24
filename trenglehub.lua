@@ -8295,3 +8295,6 @@ addscriptexist(6950767274, "FightersEraAutoJob", "Terni", "https://raw.githubuse
 addscriptexist(5326405001, "BaseBattlesINFAmmoGunModeEspHitboxes", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BaseBattlesINFAmmoGunModeEspHitboxes.lua")
                     
 addscriptexist(292439477, "PhantomForcesСhamsRaycastOpenSourse", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PhantomForcesСhamsRaycastOpenSourse.lua")
+    
+addscript(6219745799,"Vibe Airline [Make Seats freak Out]", "VibeAirlineMakeSeatsfreakOut", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/VibeAirlineMakeSeatsfreakOut.lua")
+                    
