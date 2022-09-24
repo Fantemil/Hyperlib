@@ -7615,3 +7615,6 @@ addscript(3173458677,"Draw It [Auto Guess]", "DrawItAutoGuess", "Qalnik", "https
                     
                     
 addscriptexist(292439477, "PhantomForcesRainbowGunArms", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PhantomForcesRainbowGunArms.lua")
+    
+addscript(281489669,"Wizard Tycoon - 2 Player [Kill All]", "WizardTycoon2PlayerKillAll", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/WizardTycoon2PlayerKillAll.lua")
+                    
