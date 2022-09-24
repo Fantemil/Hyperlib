@@ -8478,3 +8478,5 @@ addscriptexist(621129760, "KATNewSimpleAim", "Terni", "https://raw.githubusercon
     
 addscript(7686955826,"Rolling Thunder [Auto-Farm]", "RollingThunderAutoFarm", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RollingThunderAutoFarm.lua")
                     
+                    
+addscriptexist(6085581583, "ProjectHeroKillAura", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ProjectHeroKillAura.lua")
