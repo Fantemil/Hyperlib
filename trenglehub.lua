@@ -8464,3 +8464,5 @@ addscript(7251333950,"untitled furry defenses [No Enemies]", "untitledfurrydefen
 addscriptexist(292439477, "PhantomForcesPacificColdFrontPt2THIRDPERSON", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PhantomForcesPacificColdFrontPt2THIRDPERSON.lua")
                     
 addscriptexist(6085581583, "ProjectHeroAutoFarm", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ProjectHeroAutoFarm.lua")
+                    
+addscriptexist(10198661638, "MythicalStairsAutoFarm", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MythicalStairsAutoFarm.lua")
