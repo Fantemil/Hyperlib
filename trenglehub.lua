@@ -4742,3 +4742,5 @@ addscript(9760849472,"UFO Universe [Auto Farm Chests, Auto Open Egg, Teleport]",
 addscriptexist(9555732501, "NenFightingSimulatorDurabilityFarm", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NenFightingSimulatorDurabilityFarm.lua")
                     
 addscriptexist(6937208251, "StarWarsBattlegroundsGunModsPressV", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/StarWarsBattlegroundsGunModsPressV.lua")
+                    
+addscriptexist(4540286603, "NORTHWINDBirdESP", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NORTHWINDBirdESP.lua")
