@@ -6884,3 +6884,6 @@ addscriptexist(6677985923, "MillionaireEmpireTycoonInfCash", "Qalnik", "https://
     
 addscript(7114303730,"Dragon Orbz [Auto FArm, Auto Quest, Auto Points]", "DragonOrbzAutoFArmAutoQuestAutoPoints", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DragonOrbzAutoFArmAutoQuestAutoPoints.lua")
                     
+    
+addscript(7543421878,"Insult O Matic - Auto Insult Generator", "InsultOMaticAutoInsultGenerator", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/InsultOMaticAutoInsultGenerator.lua")
+                    
