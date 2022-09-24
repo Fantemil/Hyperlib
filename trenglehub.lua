@@ -2571,3 +2571,5 @@ addscript(9733390246,"Stair Tappers! [Auto Climb]", "StairTappersAutoClimb", "as
     
 addscript(9943374061,"Planet Oof [Auto Collect]", "PlanetOofAutoCollect", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PlanetOofAutoCollect.lua")
                     
+                    
+addscriptexist(5602055394, "HoodModdedSilentAimInfJump", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/HoodModdedSilentAimInfJump.lua")
