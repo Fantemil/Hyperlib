@@ -3880,3 +3880,5 @@ addscriptexist(1730877806, "GrandPieceOnlineBountyEsp", "Qalnik", "https://raw.g
     
 addscript(9396463375,"Mining Empire [Infinite Vouchers]", "MiningEmpireInfiniteVouchers", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MiningEmpireInfiniteVouchers.lua")
                     
+                    
+addscriptexist(9396463375, "MiningEmpireInfCoins", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MiningEmpireInfCoins.lua")
