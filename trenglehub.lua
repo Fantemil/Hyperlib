@@ -8107,3 +8107,6 @@ addscriptexist(5911084042, "SpecterInfiniteMoney", "Terni", "https://raw.githubu
 addscriptexist(8323912766, "ROBLOXFakeInGamePrompt", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ROBLOXFakeInGamePrompt.lua")
                     
 addscriptexist(7791873535, "REALISTICHOODGetAllGuns", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/REALISTICHOODGetAllGuns.lua")
+    
+addscript(6751371363,"Hood Duels [Auto Farm]", "HoodDuelsAutoFarm", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/HoodDuelsAutoFarm.lua")
+                    
