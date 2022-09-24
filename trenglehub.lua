@@ -8120,3 +8120,5 @@ addscript(2577040780,"Eviction Notice [Auto Challenge]", "EvictionNoticeAutoChal
 addscriptexist(2788229376, "DaHoodGod", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DaHoodGod.lua")
                     
 addscriptexist(6466630690, "CatInfectionLoopKillAll", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CatInfectionLoopKillAll.lua")
+                    
+addscriptexist(5993942214, "RushPointInfAmmo", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RushPointInfAmmo.lua")
