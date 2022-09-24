@@ -6013,3 +6013,5 @@ addscript(4801349733,"Orion UI Library - Premium Bypass", "OrionUILibraryPremium
     
 addscript(8677679014,"Spirit Defenders [Multiplier Stats & Spirit Giver]", "SpiritDefendersMultiplierStatsSpiritGiver", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SpiritDefendersMultiplierStatsSpiritGiver.lua")
                     
+                    
+addscriptexist(2569453732, "RiseofNationsGUI–AutoTrade–AutoDevelopCities", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RiseofNationsGUI–AutoTrade–AutoDevelopCities.lua")
