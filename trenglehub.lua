@@ -2113,3 +2113,6 @@ addscriptexist(537413528, "BuildABoatForTreasureWalkspeedTeleports", "astrofile"
 addscriptexist(9585537847, "SHADOVISRPGAutoFarmKillAura", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SHADOVISRPGAutoFarmKillAura.lua")
                     
 addscriptexist(537413528, "BuildABoatForTreasureAutoFarmClickTPTool", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BuildABoatForTreasureAutoFarmClickTPTool.lua")
+    
+addscript(1730877806,"Grand Piece Online [No Fall Damage, Auto Farm Beli]", "GrandPieceOnlineNoFallDamageAutoFarmBeli", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/GrandPieceOnlineNoFallDamageAutoFarmBeli.lua")
+                    
