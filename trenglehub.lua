@@ -7319,3 +7319,6 @@ addscriptexist(2788229376, "DaHoodAutoStompHeadlessGodBlock", "Qalnik", "https:/
     
 addscript(7755155116,"Sword Factory [Teleport Drop]", "SwordFactoryTeleportDrop", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SwordFactoryTeleportDrop.lua")
                     
+    
+addscript(6400572259,"Anime Brawl", "AnimeBrawlALLOUTAutoFarm", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AnimeBrawlALLOUTAutoFarm.lua")
+                    
