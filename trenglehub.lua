@@ -4007,3 +4007,5 @@ addscriptexist(8304191830, "AnimeAdventuresAutoAbilytiAutoUpgrade", "Terni", "ht
     
 addscript(2546155523,"RoVille [Taxi Auto Farm]", "RoVilleTaxiAutoFarm", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RoVilleTaxiAutoFarm.lua")
                     
+                    
+addscriptexist(9568982793, "DaHoodBattlegroundsAntiCheatBypass", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DaHoodBattlegroundsAntiCheatBypass.lua")
