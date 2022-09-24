@@ -8615,3 +8615,6 @@ addscriptexist(6284583030, "PetSimulatorXDupeGemDupe", "Terni", "https://raw.git
 addscriptexist(8533682846, "MagicTrainingAntiCheatBypass", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MagicTrainingAntiCheatBypass.lua")
                     
 addscriptexist(6191637341, "WeaponSimulator2AUTOFARMAUTOBUY", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/WeaponSimulator2AUTOFARMAUTOBUY.lua")
+    
+addscript(4704006941,"Blade Throwing Simulator [AUTO-FARM, FREE GAMEPASS, FORCE TRADE]", "BladeThrowingSimulatorAUTOFARMFREEGAMEPASSFORCETRADE", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BladeThrowingSimulatorAUTOFARMFREEGAMEPASSFORCETRADE.lua")
+                    
