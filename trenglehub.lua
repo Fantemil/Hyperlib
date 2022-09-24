@@ -8451,3 +8451,5 @@ addscriptexist(2317712696, "TheWildWestAutoSprintAimBotFullBright", "Terni", "ht
 addscriptexist(286090429, "ArsenalEspAimbot", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ArsenalEspAimbot.lua")
                     
 addscriptexist(4490140733, "MyRestaurantAutoFarmFaspNPCsAutoSit", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MyRestaurantAutoFarmFaspNPCsAutoSit.lua")
+                    
+addscriptexist(7608438089, "TheWinterEscapeAutoFullCheer", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TheWinterEscapeAutoFullCheer.lua")
