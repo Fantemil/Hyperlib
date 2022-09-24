@@ -1514,3 +1514,6 @@ addscriptexist(888433449730, "MiningClickerSimulatorAutoMineAutoBiyEggAutobuyPic
 addscriptexist(84583331391, "1LIFEKillTpeveryone", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/1LIFEKillTpeveryone.lua")
                     
 addscriptexist(10676523834, "RacingRocketUpgradeRocket", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RacingRocketUpgradeRocket.lua")
+    
+addscript(8750997647315,"Tapping Legends X [AutoClick, AutoUpgrade]", "TappingLegendsXAutoClickAutoUpgrade", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TappingLegendsXAutoClickAutoUpgrade.lua")
+                    
