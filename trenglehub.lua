@@ -5986,3 +5986,5 @@ addscript(3272915504,"World of Magic [New ESP]", "WorldofMagicNewESP", "Terni", 
     
 addscript(9230434873,"Logitech Song Breaker Awards [Collect All Coins - Unhide All NPCS & More!]", "LogitechSongBreakerAwardsCollectAllCoinsUnhideAllNPCSMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LogitechSongBreakerAwardsCollectAllCoinsUnhideAllNPCSMore.lua")
                     
+                    
+addscriptexist(9225577563, "AmnestyESPSilentAimAimlockGUI", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AmnestyESPSilentAimAimlockGUI.lua")
