@@ -7548,3 +7548,6 @@ addscript(5055081323,"Swordman Simulator [Auto Farm]", "SwordmanSimulatorAutoFar
                     
                     
 addscriptexist(621129760, "KATAimBotAutoFarmPlayerEsp", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/KATAimBotAutoFarmPlayerEsp.lua")
+    
+addscript(3203685552,"BEAR [Auto Collect]", "BEARAutoCollect", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BEARAutoCollect.lua")
+                    
