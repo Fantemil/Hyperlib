@@ -1747,3 +1747,6 @@ addscript(7280118908,"School Simulator [Free Gamepass]", "SchoolSimulatorFreeGam
     
 addscript(1240644540,"Vampire Hunters 3 [Spam Screen Text]", "VampireHunters3SpamScreenText", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/VampireHunters3SpamScreenText.lua")
                     
+    
+addscript(10001513103,"Limited Words [Annoy Mods, Waste Words, Get Joseph Badge]", "LimitedWordsAnnoyModsWasteWordsGetJosephBadge", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LimitedWordsAnnoyModsWasteWordsGetJosephBadge.lua")
+                    
