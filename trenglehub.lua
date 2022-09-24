@@ -7597,3 +7597,6 @@ addscriptexist(182781154, "TheMazeRunnerChestEsp", "Qalnik", "https://raw.github
 addscriptexist(7014716500, "ProBorderCrashServer", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ProBorderCrashServer.lua")
                     
 addscriptexist(4111023553, "DeepwokenAutoFlingAutoParryAutoParryU", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DeepwokenAutoFlingAutoParryAutoParryU.lua")
+    
+addscript(2978450615,"Mad Paintball [Kill All]", "MadPaintballKillAll", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MadPaintballKillAll.lua")
+                    
