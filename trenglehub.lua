@@ -7036,3 +7036,5 @@ addscript(4375458071,"Elemental Grind Game [Auto Farm]", "ElementalGrindGameAuto
                     
                     
 addscriptexist(6284583030, "PetSimulatorXBKGUIAutoFarmAutoOpenMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PetSimulatorXBKGUIAutoFarmAutoOpenMore.lua")
+                    
+addscriptexist(8260276694, "AbilityWarsKillAll", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AbilityWarsKillAll.lua")
