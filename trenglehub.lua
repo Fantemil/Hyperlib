@@ -6246,3 +6246,5 @@ addscriptexist(8146731988, "UltraPowerTycoonGetAllGearMore", "Terni", "https://r
 addscriptexist(8540168650, "StandUprightRebootedAntiCheatBypassOpenSource", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/StandUprightRebootedAntiCheatBypassOpenSource.lua")
                     
 addscriptexist(6679274937, "VansWorldAutoFarm", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/VansWorldAutoFarm.lua")
+                    
+addscriptexist(7453798168, "YouTubeSimulatorXEditorAutoFarm", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/YouTubeSimulatorXEditorAutoFarm.lua")
