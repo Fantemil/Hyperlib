@@ -6461,3 +6461,5 @@ addscriptexist(6778844213, "EuphoriaragdolltestingGetGamepassGUI", "Terni", "htt
     
 addscript(1417427737,"Mining Simulator [Noclip, Sell blocks, Fly]", "MiningSimulatorNoclipSellblocksFly", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MiningSimulatorNoclipSellblocksFly.lua")
                     
+                    
+addscriptexist(1962086868, "TowerOfHellBypassAntiCheatTPToEndGetAllItemsGodMode", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TowerOfHellBypassAntiCheatTPToEndGetAllItemsGodMode.lua")
