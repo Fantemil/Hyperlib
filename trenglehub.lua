@@ -5775,3 +5775,5 @@ addscriptexist(205224386, "HideandSeekExtremeCoinGrabber", "Terni", "https://raw
 addscriptexist(1730877806, "GrandPieceOnlineWalkOnWater", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/GrandPieceOnlineWalkOnWater.lua")
                     
 addscriptexist(4996049426, "AllStarTowerDefenseStarPassXP", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AllStarTowerDefenseStarPassXP.lua")
+                    
+addscriptexist(6878438976, "DeveloperInc10rCashin30sec", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DeveloperInc10rCashin30sec.lua")
