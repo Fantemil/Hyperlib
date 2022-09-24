@@ -5781,3 +5781,6 @@ addscriptexist(6878438976, "DeveloperInc10rCashin30sec", "Qalnik", "https://raw.
 addscriptexist(1458767429, "ABAAutomaticblackflashItadori", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ABAAutomaticblackflashItadori.lua")
                     
 addscriptexist(2569453732, "RiseofNationsTradeGUIOpenSource", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RiseofNationsTradeGUIOpenSource.lua")
+    
+addscript(6667701234,"Fate Xero [Item Notifier]", "FateXeroItemNotifier", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FateXeroItemNotifier.lua")
+                    
