@@ -3904,3 +3904,6 @@ addscript(8151832473,"TheGhettoGame [Inf Money]", "TheGhettoGameInfMoney", "Qaln
                     
                     
 addscriptexist(2788229376, "DaHoodAutoFarmCashGodmodeInfiniteStamina", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DaHoodAutoFarmCashGodmodeInfiniteStamina.lua")
+    
+addscript(6206893534,"Cobra Kai Karate [Auto Farm Pushups, Auto Farm Situps, No Stun]", "CobraKaiKarateAutoFarmPushupsAutoFarmSitupsNoStun", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CobraKaiKarateAutoFarmPushupsAutoFarmSitupsNoStun.lua")
+                    
