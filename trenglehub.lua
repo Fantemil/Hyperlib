@@ -4049,3 +4049,5 @@ addscript(447452406,"Robloxian High School [Trash Bag Spam]", "RobloxianHighScho
                     
                     
 addscriptexist(606849621, "JailbreakGUIVehiclesSettingsMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/JailbreakGUIVehiclesSettingsMore.lua")
+                    
+addscriptexist(7952502098, "ImpossibleGlassBridgeObbyShowingtheway", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ImpossibleGlassBridgeObbyShowingtheway.lua")
