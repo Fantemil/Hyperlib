@@ -2611,3 +2611,5 @@ addscript(2732246600,"Bloody Battle [Respawns You Until You Get The Loot You Wan
 addscriptexist(8884334497, "MiningClickerSimulatorAutoFarm", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MiningClickerSimulatorAutoFarm.lua")
                     
 addscriptexist(7860844204, "LifeSentenceAutoWorkout", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LifeSentenceAutoWorkout.lua")
+                    
+addscriptexist(8884334497, "MiningClickerSimulatorGUIAutoFarming", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MiningClickerSimulatorGUIAutoFarming.lua")
