@@ -7353,3 +7353,6 @@ addscriptexist(8588872272, "DemonSlayerMoonriseGUIAutoFarm", "Terni", "https://r
     
 addscript(3398014311,"Restaurant Tycoon 2 [AutoCollect Money Plates, Fast Service, Auto Seat Customers]", "RestaurantTycoon2AutoCollectMoneyPlatesFastServiceAutoSeatCustomers", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RestaurantTycoon2AutoCollectMoneyPlatesFastServiceAutoSeatCustomers.lua")
                     
+    
+addscript(4632627223,"Black Grimoire [Level 1 - 999 In 2 Hours]", "BlackGrimoireLevel1999In2Hours", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BlackGrimoireLevel1999In2Hours.lua")
+                    
