@@ -2947,3 +2947,6 @@ addscriptexist(4951858512, "VictoryRaceAutoClear", "Terni", "https://raw.githubu
 addscriptexist(10184360875, "PetFishingSimulatorInfiniteMoney", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PetFishingSimulatorInfiniteMoney.lua")
                     
 addscriptexist(648362523, "BreakingPointAutoFarmAutoFarmAimBot", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BreakingPointAutoFarmAutoFarmAimBot.lua")
+    
+addscript(9744597824,"Sea Piece [Distance From NPC Slider, Auto Farm Toggle]", "SeaPieceDistanceFromNPCSliderAutoFarmToggle", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SeaPieceDistanceFromNPCSliderAutoFarmToggle.lua")
+                    
