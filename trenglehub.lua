@@ -5767,3 +5767,5 @@ addscriptexist(9530846958, "Epsilon2NoFallAutoTrinketPickupModDetector", "Qalnik
 addscriptexist(9297410766, "CrossbarChallengeSimulatorInfniteCoins", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CrossbarChallengeSimulatorInfniteCoins.lua")
                     
 addscriptexist(9297410766, "CrossbarChallengeSimulatorGetTheBestItems", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CrossbarChallengeSimulatorGetTheBestItems.lua")
+                    
+addscriptexist(5135889792, "DystoviaGodMode", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DystoviaGodMode.lua")
