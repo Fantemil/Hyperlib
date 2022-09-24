@@ -2689,3 +2689,5 @@ addscriptexist(4036494886, "GunSimulatorInfiniteEverythingCustomStats", "Terni",
     
 addscript(8689257920,"Life in Prison [GUI - Kill All & More!]", "LifeinPrisonGUIKillAllMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LifeinPrisonGUIKillAllMore.lua")
                     
+                    
+addscriptexist(9498006165, "TappingSimulatorAutoFarmGUI", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TappingSimulatorAutoFarmGUI.lua")
