@@ -3916,3 +3916,6 @@ addscriptexist(2809202155, "YourBizarreAdventureNoCooldown", "Terni", "https://r
 addscriptexist(9551640993, "MiningSimulator2AutoFishAllAreas", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MiningSimulator2AutoFishAllAreas.lua")
                     
 addscriptexist(8554378337, "WeaponFightingSimulatorAutoFarmAllAreasMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/WeaponFightingSimulatorAutoFarmAllAreasMore.lua")
+    
+addscript(9884452497,"Bloodlust [Infinite Money]", "BloodlustInfiniteMoney", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BloodlustInfiniteMoney.lua")
+                    
