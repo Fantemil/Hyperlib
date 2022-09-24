@@ -8681,3 +8681,5 @@ addscriptexist(6284583030, "PetSimulatorXDupeGemsPets", "Qalnik", "https://raw.g
 addscriptexist(6198225400, "LegendsReWrittenAutoChestFarm", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LegendsReWrittenAutoChestFarm.lua")
                     
 addscriptexist(4042427666, "AnimeFightingSimulatorAUTOFARMAUTOTPTELEPORTS", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AnimeFightingSimulatorAUTOFARMAUTOTPTELEPORTS.lua")
+                    
+addscriptexist(6198225400, "LegendsReWrittenINFGOLD", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LegendsReWrittenINFGOLD.lua")
