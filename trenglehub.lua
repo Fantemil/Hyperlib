@@ -5448,3 +5448,6 @@ addscriptexist(534701013, "TheLabyrinthGUIReallyOverpowered", "Terni", "https://
     
 addscript(8533682846,"Goofy Ahh [Collection GUI V2 - Fun Scripts]", "GoofyAhhCollectionGUIV2FunScripts", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/GoofyAhhCollectionGUIV2FunScripts.lua")
                     
+    
+addscript(9604473769,"Tate McRae Concert Experience [Get All Coins, Infinite Score]", "TateMcRaeConcertExperienceGetAllCoinsInfiniteScore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TateMcRaeConcertExperienceGetAllCoinsInfiniteScore.lua")
+                    
