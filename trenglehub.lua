@@ -2281,3 +2281,6 @@ addscript(2817130270,"Digging Simulator [Inf Bag, Inf Money]", "DiggingSimulator
     
 addscript(9120036461,"Simple Basketball [Inf Money]", "SimpleBasketballInfMoney", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SimpleBasketballInfMoney.lua")
                     
+    
+addscript(6681032961,"Museum Tycoon [Inf Cash]", "MuseumTycoonInfCash", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MuseumTycoonInfCash.lua")
+                    
