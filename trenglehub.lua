@@ -6349,3 +6349,6 @@ addscript(8823442198,"Deepwoken Battle Arena [Auto Collect]", "DeepwokenBattleAr
                     
                     
 addscriptexist(7560156054, "ClickerSimulatorAutoFarmGUI", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ClickerSimulatorAutoFarmGUI.lua")
+    
+addscript(8382553377,"Boom Simulator [GUI - Auto Farm, Teleports]", "BoomSimulatorGUIAutoFarmTeleports", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BoomSimulatorGUIAutoFarmTeleports.lua")
+                    
