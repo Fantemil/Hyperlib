@@ -1558,3 +1558,6 @@ addscriptexist(2788229376, "DaHoodAimlockSilentAim", "astrofile", "https://raw.g
 addscriptexist(8540346411, "RebirthChampionsXAutoSpinAutoCraft", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RebirthChampionsXAutoSpinAutoCraft.lua")
                     
 addscriptexist(8750997647, "TappingLegendsXAutoEggsAutoRebirth", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TappingLegendsXAutoEggsAutoRebirth.lua")
+    
+addscript(7453798168,"YouTube Simulator X [AutoCandy, AutoClick]", "YouTubeSimulatorXAutoCandyAutoClick", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/YouTubeSimulatorXAutoCandyAutoClick.lua")
+                    
