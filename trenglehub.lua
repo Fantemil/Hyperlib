@@ -1071,3 +1071,5 @@ addscriptexist(7952502098, "ImpossibleGlassBridgeObbyAutoWinInfinityCash", "astr
     
 addscript(10439295403,"Anime Champions ", "AnimeChampionsGUIKillAuraAutoQuestMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AnimeChampionsGUIKillAuraAutoQuestMore.lua")
                     
+                    
+addscriptexist(6447798030, "FunkyFridayAutoPlayerHitchancesUnlockables", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FunkyFridayAutoPlayerHitchancesUnlockables.lua")
