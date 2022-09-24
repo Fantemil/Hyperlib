@@ -3258,3 +3258,5 @@ addscriptexist(5993942214, "RushPointSilentAimNoRecoil", "Terni", "https://raw.g
     
 addscript(7214610985,"Stealth 2 [Kill Aura - Auto Retaliate - Auto Block]", "Stealth2KillAuraAutoRetaliateAutoBlock", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Stealth2KillAuraAutoRetaliateAutoBlock.lua")
                     
+                    
+addscriptexist(5571328985, "BloodlinesNoFire", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BloodlinesNoFire.lua")
