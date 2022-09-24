@@ -6026,3 +6026,5 @@ addscriptexist(185655149, "BloxburgJobAutoFarm", "Terni", "https://raw.githubuse
 addscriptexist(5584024582, "TheRakeHourTestInfiniteLevels", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TheRakeHourTestInfiniteLevels.lua")
                     
 addscriptexist(70005410, "BloxHuntV2725AutoFarmGUI", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BloxHuntV2725AutoFarmGUI.lua")
+                    
+addscriptexist(3522803956, "DePrideIsleSanatoriumGUINoRagdollNoFallDamage", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DePrideIsleSanatoriumGUINoRagdollNoFallDamage.lua")
