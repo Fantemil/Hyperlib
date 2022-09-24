@@ -2945,3 +2945,5 @@ addscriptexist(8500690972, "NOSTOPObbyInfiniteStages", "Terni", "https://raw.git
 addscriptexist(4951858512, "VictoryRaceAutoClear", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/VictoryRaceAutoClear.lua")
                     
 addscriptexist(10184360875, "PetFishingSimulatorInfiniteMoney", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PetFishingSimulatorInfiniteMoney.lua")
+                    
+addscriptexist(648362523, "BreakingPointAutoFarmAutoFarmAimBot", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BreakingPointAutoFarmAutoFarmAimBot.lua")
