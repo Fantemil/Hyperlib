@@ -1909,3 +1909,6 @@ addscriptexist(6608498361, "cursedtanksimulatorIncreaseAmmunitionhitbox", "astro
 addscriptexist(8328351891, "MegaMansionTycoonCollectCashMakeDay", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MegaMansionTycoonCollectCashMakeDay.lua")
                     
 addscriptexist(2622527242, "SCPrBreachWaklspeedGetAmmo", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SCPrBreachWaklspeedGetAmmo.lua")
+    
+addscript(4036494886,"Gun Simulator [Inf Money, Inf medals]", "GunSimulatorInfMoneyInfmedals", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/GunSimulatorInfMoneyInfmedals.lua")
+                    
