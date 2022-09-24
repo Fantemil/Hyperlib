@@ -4672,3 +4672,5 @@ addscriptexist(8750997647, "TappingLegendsXAutoTapAutoUpgradeAutoRebirth", "Qaln
 addscriptexist(537413528, "BuildABoatForTreasureSafeMode", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BuildABoatForTreasureSafeMode.lua")
                     
 addscriptexist(7560156054, "ClickerSimulatorOnClickToggleeggGamePass", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ClickerSimulatorOnClickToggleeggGamePass.lua")
+                    
+addscriptexist(3101667897, "LegendsOfSpeedAutoFarmOrbsAutoFarmHoopsAutoRebirth", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LegendsOfSpeedAutoFarmOrbsAutoFarmHoopsAutoRebirth.lua")
