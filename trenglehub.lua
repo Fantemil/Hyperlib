@@ -5854,3 +5854,6 @@ addscript(2631794742,"City of Ottawa [Kill All - Get Gun]", "CityofOttawaKillAll
                     
                     
 addscriptexist(9103460924, "SwordFactoryXAutoSpawnAutoKillBoss", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SwordFactoryXAutoSpawnAutoKillBoss.lua")
+    
+addscript(5233782396,"Creatures Of Sonaria [GUI Auto Farm]", "CreaturesOfSonariaGUIAutoFarm", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CreaturesOfSonariaGUIAutoFarm.lua")
+                    
