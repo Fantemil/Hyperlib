@@ -5191,3 +5191,5 @@ addscript(8524876576,"Glider Simulator [Auto Collect Coins]", "GliderSimulatorAu
     
 addscript(9488143445,"Raise A Bloppa [Auto Farm GUI]", "RaiseABloppaAutoFarmGUI", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RaiseABloppaAutoFarmGUI.lua")
                     
+                    
+addscriptexist(189707, "NaturalDisasterSurvivalPartFlinger", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NaturalDisasterSurvivalPartFlinger.lua")
