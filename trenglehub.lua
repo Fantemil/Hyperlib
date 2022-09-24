@@ -5544,3 +5544,5 @@ addscriptexist(7947609996, "CtrlDeleteforRoblox", "Terni", "https://raw.githubus
     
 addscript(7083634873,"FPS Boost for Roblox", "FPSBoostforRoblox", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FPSBoostforRoblox.lua")
                     
+                    
+addscriptexist(5712833750, "AnimalSimulatorMorphsMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AnimalSimulatorMorphsMore.lua")
