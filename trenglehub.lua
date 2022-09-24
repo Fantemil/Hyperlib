@@ -7746,3 +7746,5 @@ addscript(8000744340,"l v s t [Get A Sword]", "lvstGetASword", "Terni", "https:/
     
 addscript(228181322,"Dinosaur Simulator [AntiAttack, Invisible, infinite Jump]", "DinosaurSimulatorAntiAttackInvisibleinfiniteJump", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DinosaurSimulatorAntiAttackInvisibleinfiniteJump.lua")
                     
+                    
+addscriptexist(45146873, "TowerBattlesFarmCredits", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TowerBattlesFarmCredits.lua")
