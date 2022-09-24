@@ -6284,3 +6284,6 @@ addscriptexist(632642533, "DeadMist2BetaGrabDeadBodies", "Terni", "https://raw.g
     
 addscript(7871169780,"bLockerman666`s Minesweeper [Find Safe Tiles And Bombs]", "bLockerman666sMinesweeperFindSafeTilesAndBombs", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/bLockerman666sMinesweeperFindSafeTilesAndBombs.lua")
                     
+    
+addscript(6843988672,"County Jail Roleplay [AC Bypass]", "CountyJailRoleplayACBypass", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CountyJailRoleplayACBypass.lua")
+                    
