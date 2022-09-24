@@ -6500,3 +6500,6 @@ addscriptexist(8396586868, "AOnePieceGameAutoFarmGUIFruitHopperMore", "Terni", "
 addscriptexist(8448735476, "AnimeRiftsGUIAutoFarm", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AnimeRiftsGUIAutoFarm.lua")
                     
 addscriptexist(4588604953, "CriminalityEspGUINew", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CriminalityEspGUINew.lua")
+    
+addscript(8308074824,"Meme Piece [Infinite Skill Points]", "MemePieceInfiniteSkillPoints", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MemePieceInfiniteSkillPoints.lua")
+                    
