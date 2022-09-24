@@ -6684,3 +6684,5 @@ addscriptexist(6403373529, "SlapBattlesSlapAura", "Terni", "https://raw.githubus
     
 addscript(6170705260,"Blending Simulator 2 [Auto Farm, Arena Tp, Tp home]", "BlendingSimulator2AutoFarmArenaTpTphome", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BlendingSimulator2AutoFarmArenaTpTphome.lua")
                     
+                    
+addscriptexist(6998582502, "DungeonCrusadersKillAuraFpsBoostWalkSpeed", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DungeonCrusadersKillAuraFpsBoostWalkSpeed.lua")
