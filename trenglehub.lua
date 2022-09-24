@@ -2740,3 +2740,5 @@ addscriptexist(10118559731, "nicosnextbotsblackoutsOpenAllDoors", "Terni", "http
     
 addscript(8500690972,"NO STOP Obby [Skip Stage]", "NOSTOPObbySkipStage", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NOSTOPObbySkipStage.lua")
                     
+                    
+addscriptexist(292439477, "PhantomForcesFreeChams", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PhantomForcesFreeChams.lua")
