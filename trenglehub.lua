@@ -5356,3 +5356,5 @@ addscriptexist(4855457388, "DemonfallTpPlayer", "Qalnik", "https://raw.githubuse
 addscriptexist(5154858502, "MurderersvsSheriffsKillAll", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MurderersvsSheriffsKillAll.lua")
                     
 addscriptexist(9103460924, "SwordFactoryXAutoSpawnAutoUpgradeAutoUpgradeMultiplier", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SwordFactoryXAutoSpawnAutoUpgradeAutoUpgradeMultiplier.lua")
+                    
+addscriptexist(5023820864, "TradeTowerAutoBuyAutoSellAutoClick", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TradeTowerAutoBuyAutoSellAutoClick.lua")
