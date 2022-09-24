@@ -2950,3 +2950,5 @@ addscriptexist(648362523, "BreakingPointAutoFarmAutoFarmAimBot", "Qalnik", "http
     
 addscript(9744597824,"Sea Piece [Distance From NPC Slider, Auto Farm Toggle]", "SeaPieceDistanceFromNPCSliderAutoFarmToggle", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SeaPieceDistanceFromNPCSliderAutoFarmToggle.lua")
                     
+                    
+addscriptexist(10184360875, "PetFishingSimulatorFastAutoFarm", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PetFishingSimulatorFastAutoFarm.lua")
