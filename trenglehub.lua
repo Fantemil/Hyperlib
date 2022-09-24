@@ -3146,3 +3146,6 @@ addscript(8222131500,"Desert island survival [Auto redeem codes]", "Desertisland
                     
                     
 addscriptexist(8222131500, "IslandSurvivalInfAirDrop", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/IslandSurvivalInfAirDrop.lua")
+    
+addscript(10119617028,"Airsoft Center [Esp, Silent Aim]", "AirsoftCenterEspSilentAim", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AirsoftCenterEspSilentAim.lua")
+                    
