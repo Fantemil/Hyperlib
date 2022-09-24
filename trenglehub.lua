@@ -4310,3 +4310,6 @@ addscriptexist(2753915549, "BloxFruitsNewAutoFarm", "Terni", "https://raw.github
     
 addscript(9292879820,"Grass Cutting Simulator [Free Stats and Currency]", "GrassCuttingSimulatorFreeStatsandCurrency", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/GrassCuttingSimulatorFreeStatsandCurrency.lua")
                     
+    
+addscript(7211666966,"Tower Of Jump [Auto Farm - Server Hop]", "TowerOfJumpAutoFarmServerHop", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TowerOfJumpAutoFarmServerHop.lua")
+                    
