@@ -4158,3 +4158,5 @@ addscript(1467230998,"TROOP LIFE [Auto Farm]", "TROOPLIFEAutoFarm", "Qalnik", "h
                     
                     
 addscriptexist(2248408710, "DestructionSimulatorMaxLvlGetAllWeaponsBombNoCooldownDonotUSE100M", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DestructionSimulatorMaxLvlGetAllWeaponsBombNoCooldownDonotUSE100M.lua")
+                    
+addscriptexist(4598019433, "genericroleplaygaemAutoFarm", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/genericroleplaygaemAutoFarm.lua")
