@@ -3308,3 +3308,5 @@ addscriptexist(8054462345, "MichaelsZombiesAlwaysHeadshotInstantReload", "Terni"
     
 addscript(6606507295,"Turbo's Murder Mystery 2 [Get Free Paid Weapons]", "TurbosMurderMystery2GetFreePaidWeapons", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TurbosMurderMystery2GetFreePaidWeapons.lua")
                     
+                    
+addscriptexist(5956785391, "ProjectSlayersFishFarm", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ProjectSlayersFishFarm.lua")
