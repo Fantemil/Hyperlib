@@ -5611,3 +5611,5 @@ addscriptexist(9030362964, "FieldGoalSimulatorAlwaysPerfectAccuracy", "Terni", "
     
 addscript(2693739238,"THEIF LIFE Simulator [Get Best Loot]", "THEIFLIFESimulatorGetBestLoot", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/THEIFLIFESimulatorGetBestLoot.lua")
                     
+                    
+addscriptexist(5154858502, "MurderersevsSheriffsKillAll", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MurderersevsSheriffsKillAll.lua")
