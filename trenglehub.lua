@@ -2013,3 +2013,6 @@ addscriptexist(9414511685, "DriveCarsDownAHillAutoFarm", "astrofile", "https://r
     
 addscript(5023820864,"Trade Tower [Auto Click, Auto Upgrade]", "TradeTowerAutoClickAutoUpgrade", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TradeTowerAutoClickAutoUpgrade.lua")
                     
+    
+addscript(8876384197,"steal time from others & flex your sword [Reach Script]", "stealtimefromothersflexyourswordReachScript", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/stealtimefromothersflexyourswordReachScript.lua")
+                    
