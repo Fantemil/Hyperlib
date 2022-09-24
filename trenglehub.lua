@@ -2451,3 +2451,6 @@ addscript(6679274937,"Vans World [Pencil cases]", "VansWorldPencilcases", "astro
                     
                     
 addscriptexist(7899881670, "RBWorld4Shootassist", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RBWorld4Shootassist.lua")
+    
+addscript(9845465117,"AU:Reborn [Auto Farm]", "AURebornAutoFarm", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AURebornAutoFarm.lua")
+                    
