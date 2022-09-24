@@ -4549,3 +4549,5 @@ addscriptexist(606849621, "JailbreakFullAutoGetWeaponsMore", "Terni", "https://r
     
 addscript(28382335,"Zombie Tycoon [Silent Aim - GUI]", "ZombieTycoonSilentAimGUI", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ZombieTycoonSilentAimGUI.lua")
                     
+                    
+addscriptexist(9751569460, "ARCHPIECEAutoFarmAutoPunchAutoBoss", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ARCHPIECEAutoFarmAutoPunchAutoBoss.lua")
