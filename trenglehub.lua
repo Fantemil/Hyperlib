@@ -4406,3 +4406,5 @@ addscript(9571406871,"Roblox - UI Jan Lib", "RobloxUIJanLib", "Terni", "https://
     
 addscript(8185222973,"Stanton County, Westlake [Spawn Any Item]", "StantonCountyWestlakeSpawnAnyItem", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/StantonCountyWestlakeSpawnAnyItem.lua")
                     
+                    
+addscriptexist(6441847031, "CHAOSKillPLayer", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CHAOSKillPLayer.lua")
