@@ -6868,3 +6868,5 @@ addscriptexist(6667701234, "FateXeroTeleportAllItems", "Terni", "https://raw.git
     
 addscript(8300860655,"Warfronts (BETA) [Kill Everyone / Kill All Enemies]", "WarfrontsBETAKillEveryoneKillAllEnemies", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/WarfrontsBETAKillEveryoneKillAllEnemies.lua")
                     
+                    
+addscriptexist(7336302630, "ProjectDeltaAutoLoot–LootAnywhere", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ProjectDeltaAutoLoot–LootAnywhere.lua")
