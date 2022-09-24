@@ -2456,3 +2456,6 @@ addscript(9845465117,"AU:Reborn [Auto Farm]", "AURebornAutoFarm", "astrofile", "
                     
                     
 addscriptexist(9845465117, "AURebornAutoFarmTp", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AURebornAutoFarmTp.lua")
+    
+addscript(4863541388,"Scythe Masters [Redeem codes]", "ScytheMastersRedeemcodes", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ScytheMastersRedeemcodes.lua")
+                    
