@@ -4434,3 +4434,6 @@ addscriptexist(9551640993, "MiningSimulator2NameEggNamePetAutoDeleteseffect", "Q
     
 addscript(6263325292,"Bloxburg [Remote Bypass]", "BloxburgRemoteBypass", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BloxburgRemoteBypass.lua")
                     
+    
+addscript(4540286603,"NORTHWIND [Lag Bomb]", "NORTHWINDLagBomb", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NORTHWINDLagBomb.lua")
+                    
