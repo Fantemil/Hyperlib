@@ -4992,3 +4992,5 @@ addscript(6339160453,"Anime Ninja War Tycoon [Infinite Diamonds]", "AnimeNinjaWa
                     
                     
 addscriptexist(9359839118, "GasStationSimulatorKillAll", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/GasStationSimulatorKillAll.lua")
+                    
+addscriptexist(9551640993, "MiningSimulator2The1FreeAutoFarmGUI", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MiningSimulator2The1FreeAutoFarmGUI.lua")
