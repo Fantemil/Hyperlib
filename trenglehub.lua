@@ -5179,3 +5179,6 @@ addscriptexist(6677985923, "MillionaireEmpireTycoonGUIGetCashAutoRebirth", "Tern
     
 addscript(7429434108,"Anime Tappers [GUI - Auto Farm, Auto Upgrade]", "AnimeTappersGUIAutoFarmAutoUpgrade", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AnimeTappersGUIAutoFarmAutoUpgrade.lua")
                     
+    
+addscript(7444263453,"Jetpack Jumpers [GUI - Auto Farm, Reedem Codes]", "JetpackJumpersGUIAutoFarmReedemCodes", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/JetpackJumpersGUIAutoFarmReedemCodes.lua")
+                    
