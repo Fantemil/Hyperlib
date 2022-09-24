@@ -4884,3 +4884,5 @@ addscriptexist(5620664339, "RoStreetsGUIInfCashTrollMore", "Terni", "https://raw
 addscriptexist(4540286603, "NORTHWINDAnimalEsp", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NORTHWINDAnimalEsp.lua")
                     
 addscriptexist(142823291, "MurderMystery2FreeKnifeVISUALLY", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MurderMystery2FreeKnifeVISUALLY.lua")
+                    
+addscriptexist(6728870912, "WorldofStandsDemoinfiniteGold", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/WorldofStandsDemoinfiniteGold.lua")
