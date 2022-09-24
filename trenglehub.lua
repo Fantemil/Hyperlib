@@ -5968,3 +5968,5 @@ addscript(7665621058,"Destroyerman Simulator [Get All Gamepasses]", "Destroyerma
                     
                     
 addscriptexist(5712833750, "AnimalSimulatorInfiniteXPLevels", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AnimalSimulatorInfiniteXPLevels.lua")
+                    
+addscriptexist(5712833750, "AnimalSimulatorPlayerKillAuraNPCKillAura", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AnimalSimulatorPlayerKillAuraNPCKillAura.lua")
