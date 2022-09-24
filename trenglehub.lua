@@ -6120,3 +6120,6 @@ addscriptexist(6778844213, "EuphoriaragdolltestingRagdollall", "Qalnik", "https:
     
 addscript(3025990139,"Unboxing Simulator [Auto Farm - Auto Quest]", "UnboxingSimulatorAutoFarmAutoQuest", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/UnboxingSimulatorAutoFarmAutoQuest.lua")
                     
+    
+addscript(5787425661,"A Lucky Day [Kill All & Give Everyone Seizures]", "ALuckyDayKillAllGiveEveryoneSeizures", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ALuckyDayKillAllGiveEveryoneSeizures.lua")
+                    
