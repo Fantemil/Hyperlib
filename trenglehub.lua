@@ -5375,3 +5375,5 @@ addscriptexist(8302406789, "AnimeLiftingSimulatorAutoliftAutoselllAutobuy", "Qal
 addscriptexist(2202352383, "SuperPowerTrainingSimulatorAutoFarmStats", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SuperPowerTrainingSimulatorAutoFarmStats.lua")
                     
 addscriptexist(9167501050, "LightsaberArenaKillAura", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LightsaberArenaKillAura.lua")
+                    
+addscriptexist(9167501050, "LightsaberArenaAutoBlockInfStamina", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LightsaberArenaAutoBlockInfStamina.lua")
