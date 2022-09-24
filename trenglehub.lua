@@ -4856,3 +4856,6 @@ addscriptexist(7791873535, "REALISTICHOODInfiniteMoney", "Terni", "https://raw.g
 addscriptexist(292439477, "PhantomForcesUnlockAllGunsAdminGunsAttachments", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PhantomForcesUnlockAllGunsAdminGunsAttachments.lua")
                     
 addscriptexist(9551640993, "MiningSimulator2AutoMineAutoRebirthMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MiningSimulator2AutoMineAutoRebirthMore.lua")
+    
+addscript(1365404657,"Feather Family [Change your name into Anything]", "FeatherFamilyChangeyournameintoAnything", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FeatherFamilyChangeyournameintoAnything.lua")
+                    
