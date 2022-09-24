@@ -3456,3 +3456,5 @@ addscriptexist(9677464361, "BasketballProSimulatorAutoFarm", "Terni", "https://r
 addscriptexist(8203181639, "SyrianShenanigansFullautotank", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SyrianShenanigansFullautotank.lua")
                     
 addscriptexist(8203181639, "SyrianShenanigansKeybinds", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SyrianShenanigansKeybinds.lua")
+                    
+addscriptexist(8203181639, "SyrianShenanigansBypasstheanticheat", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SyrianShenanigansBypasstheanticheat.lua")
