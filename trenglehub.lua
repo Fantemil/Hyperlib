@@ -5886,3 +5886,5 @@ addscript(6772424226,"2 Player Millionaire Tycoon [Auto Buy & More!]", "2PlayerM
 addscriptexist(6938803436, "AnimeDimensionsSimulatorAutoFarmAutoSkillsMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AnimeDimensionsSimulatorAutoFarmAutoSkillsMore.lua")
                     
 addscriptexist(8069117419, "DemonSoulSimulatorAutoFarmFreeGUI", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DemonSoulSimulatorAutoFarmFreeGUI.lua")
+                    
+addscriptexist(3260590327, "TowerDefenseSimulatorAutofarmgem", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TowerDefenseSimulatorAutofarmgem.lua")
