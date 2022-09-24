@@ -1818,3 +1818,5 @@ addscriptexist(662417684, "LUCKYBLOCKSBattlegroundsOpenLuckyBlockSpeed", "astrof
     
 addscript(8554378337,"WEAPON FIGHTING SIMULATOR [AutoFarm, Collect Rewards]", "WEAPONFIGHTINGSIMULATORAutoFarmCollectRewards", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/WEAPONFIGHTINGSIMULATORAutoFarmCollectRewards.lua")
                     
+                    
+addscriptexist(6284583030, "PetSimulatorXAutoHatchAutoFarm", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PetSimulatorXAutoHatchAutoFarm.lua")
