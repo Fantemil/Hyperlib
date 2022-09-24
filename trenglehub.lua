@@ -1285,3 +1285,6 @@ addscriptexist(8482451541, "BrickDefenseUnlockAllTowersInfiniteTix", "Terni", "h
     
 addscript(5602055394,"Hood Modded ", "HoodModdedSpinEspTp", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/HoodModdedSpinEspTp.lua")
                     
+    
+addscript(5987922834,"Transfur Outbreak! ", "TransfurOutbreakAimbotVisualsAutoRejoin", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TransfurOutbreakAimbotVisualsAutoRejoin.lua")
+                    
