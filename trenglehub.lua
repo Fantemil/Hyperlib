@@ -3821,3 +3821,5 @@ addscriptexist(537413528, "BuildABoatForTreasureInfBlockWORKING", "Qalnik", "htt
 addscriptexist(2753915549, "BloxFruitsSilentAim", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BloxFruitsSilentAim.lua")
                     
 addscriptexist(7940932746, "RobloxCloVRFE", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RobloxCloVRFE.lua")
+                    
+addscriptexist(6678877691, "ZOぞTpAura", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ZOぞTpAura.lua")
