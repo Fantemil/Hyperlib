@@ -1836,3 +1836,6 @@ addscript(218377574,"Admin Simulator [Auto Farm]", "AdminSimulatorAutoFarm", "Qa
                     
                     
 addscriptexist(9648883891, "FestivalTycoonInfMoney", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FestivalTycoonInfMoney.lua")
+    
+addscript(10188345824,"Festival Tycoon (Another Script) [Inf Cash]", "FestivalTycoonAnotherScriptInfCash", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FestivalTycoonAnotherScriptInfCash.lua")
+                    

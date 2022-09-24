@@ -1,0 +1,1 @@
+game:GetService("ReplicatedStorage").RemoteObjects.DanceGameCash:FireServer(9999999999999999999) -- change 9999999999999999999 to any number if u want
