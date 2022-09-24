@@ -6472,3 +6472,5 @@ addscript(8003084678,"oMega Obby Parkour 525 Stages [Infinite Prestige]", "oMega
                     
                     
 addscriptexist(8003084678, "oMegaObbyParkour525StagesAutoStagesBadges", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/oMegaObbyParkour525StagesAutoStagesBadges.lua")
+                    
+addscriptexist(4997792989, "HOMELESSSimulatorinRussiaInfiniteMoney", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/HOMELESSSimulatorinRussiaInfiniteMoney.lua")
