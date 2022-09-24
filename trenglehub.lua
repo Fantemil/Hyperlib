@@ -1249,3 +1249,6 @@ addscriptexist(155615604, "PrisonLife500Ammo", "astrofile", "https://raw.githubu
     
 addscript(7026828578,"Roblox [Lines maker]", "RobloxLinesmaker", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RobloxLinesmaker.lua")
                     
+    
+addscript(9807416796,"De Hood [Server Crash]", "DeHoodServerCrash", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DeHoodServerCrash.lua")
+                    
