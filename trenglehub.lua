@@ -5393,3 +5393,5 @@ addscript(9664185826,"Tate McRae Concert Experience [Collect All Coins - Infinit
                     
                     
 addscriptexist(9359839118, "GasStationSimulatorAutorefuelAutocashierAutoclean", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/GasStationSimulatorAutorefuelAutocashierAutoclean.lua")
+                    
+addscriptexist(1224212277, "MadCityGUIXPFarmAutoRobTeleportsServerCrasher", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MadCityGUIXPFarmAutoRobTeleportsServerCrasher.lua")
