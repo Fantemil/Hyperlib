@@ -7181,3 +7181,5 @@ addscriptexist(8357510970, "AnimePunchingSimulatorAutoFarmAutoUpgradeAutoRebirth
 addscriptexist(6085581583, "ProjectHeroXMobFarmAutoInvisAllLoopInvisYourself", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ProjectHeroXMobFarmAutoInvisAllLoopInvisYourself.lua")
                     
 addscriptexist(428114181, "AzureMinesNoClipCameraInGameGuisCameraTweaks", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AzureMinesNoClipCameraInGameGuisCameraTweaks.lua")
+                    
+addscriptexist(5104202731, "SouthwestFloridaAutoFarm", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SouthwestFloridaAutoFarm.lua")
