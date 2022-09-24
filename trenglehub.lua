@@ -5171,3 +5171,6 @@ addscript(7244314500,"Fightman Simulator [GUI - Auto Farm, Teleports]", "Fightma
                     
                     
 addscriptexist(142823291, "MurderMystery2ESPFakeKnifeInvisible", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MurderMystery2ESPFakeKnifeInvisible.lua")
+    
+addscript(7277614831,"Candy Eating Simulator [GUI - Auto Farm, Teleports & More!]", "CandyEatingSimulatorGUIAutoFarmTeleportsMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CandyEatingSimulatorGUIAutoFarmTeleportsMore.lua")
+                    
