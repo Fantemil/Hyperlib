@@ -8157,3 +8157,5 @@ addscriptexist(2693023319, "ExpeditionAntarcticaNodamagewater", "Qalnik", "https
 addscriptexist(2693023319, "ExpeditionAntarcticaInfEnergyExhaustion", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ExpeditionAntarcticaInfEnergyExhaustion.lua")
                     
 addscriptexist(4616652839, "ShindoLifeChristmasFarmNPCs", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ShindoLifeChristmasFarmNPCs.lua")
+                    
+addscriptexist(2753915549, "BloxFruitsAutoFarmTeleportAutoSkill", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BloxFruitsAutoFarmTeleportAutoSkill.lua")
