@@ -4625,3 +4625,5 @@ addscriptexist(4954096313, "FieldTripZDonutBandageGodMode", "Qalnik", "https://r
 addscriptexist(155382109, "SurviveandKilltheKillersinArea51GiveAllGunsWalkSpeedAntiAfk", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SurviveandKilltheKillersinArea51GiveAllGunsWalkSpeedAntiAfk.lua")
                     
 addscriptexist(6242296404, "HappyLandInfMoney", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/HappyLandInfMoney.lua")
+                    
+addscriptexist(5766084948, "SCPTheRedLakeHitboxExpand", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SCPTheRedLakeHitboxExpand.lua")
