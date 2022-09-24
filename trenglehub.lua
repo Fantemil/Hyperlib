@@ -8035,3 +8035,5 @@ addscriptexist(5780309044, "StandsAwakeningItemFarm", "Terni", "https://raw.gith
 addscriptexist(7896264844, "FindtheMarkersBypassAntiGrabGrabAllMarkers", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FindtheMarkersBypassAntiGrabGrabAllMarkers.lua")
                     
 addscriptexist(413424176, "CloneTycoon2AdminFunction", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CloneTycoon2AdminFunction.lua")
+                    
+addscriptexist(6114360009, "PrisonLife3AutoRob1000PerSecond", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PrisonLife3AutoRob1000PerSecond.lua")
