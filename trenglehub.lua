@@ -3603,3 +3603,5 @@ addscript(8739839954,"Jujutsu Tycoon [Use All Abilities]", "JujutsuTycoonUseAllA
 addscriptexist(863266079, "ApocalypseRising2GUIInfJumpEspMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ApocalypseRising2GUIInfJumpEspMore.lua")
                     
 addscriptexist(5320510816, "FarmLifeTycoonAutoMoneyCollector", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FarmLifeTycoonAutoMoneyCollector.lua")
+                    
+addscriptexist(5956785391, "ProjectSlayersInfiniteStamina", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ProjectSlayersInfiniteStamina.lua")
