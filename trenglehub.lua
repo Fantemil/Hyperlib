@@ -2379,3 +2379,6 @@ addscript(5379581123,"Sword Fight and Flex Your Time [Auto Fight]", "SwordFighta
                     
                     
 addscriptexist(2753915549, "BloxFruitsAutoFarmandmore", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BloxFruitsAutoFarmandmore.lua")
+    
+addscript(2396588044,"Adopt and Raise [Inf Money]", "AdoptandRaiseInfMoney", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AdoptandRaiseInfMoney.lua")
+                    
