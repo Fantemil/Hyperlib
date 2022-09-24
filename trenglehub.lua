@@ -4764,3 +4764,5 @@ addscriptexist(4540286603, "NORTHWINDPlayerEsp", "Qalnik", "https://raw.githubus
     
 addscript(8288794825,"Natural Disaster Survival [Remove Bad Kids]", "NaturalDisasterSurvivalRemoveBadKids", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NaturalDisasterSurvivalRemoveBadKids.lua")
                     
+                    
+addscriptexist(9598746251, "HomeRunSimulatorSemiInfMoney", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/HomeRunSimulatorSemiInfMoney.lua")

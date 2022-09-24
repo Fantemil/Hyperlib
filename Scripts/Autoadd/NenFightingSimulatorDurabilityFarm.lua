@@ -1,4 +1,4 @@
- while wait(0.1) do
+while wait(0.1) do
 local args = {
     [1] = "dur",
 }
