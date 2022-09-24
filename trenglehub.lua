@@ -8700,3 +8700,6 @@ addscript(7774228661,"Pirates Dream [SIMPLE AUTO FARM MOBS]", "PiratesDreamSIMPL
 addscriptexist(6769764667, "FactorySimulatorNEWGUIFARM", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FactorySimulatorNEWGUIFARM.lua")
                     
 addscriptexist(3652625463, "LiftingSimulatorNEWSIMPLEAUTOFARM", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LiftingSimulatorNEWSIMPLEAUTOFARM.lua")
+    
+addscript(2888719930,"Boxing Simulator 2 [AUTO-FARM]", "BoxingSimulator2AUTOFARM", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BoxingSimulator2AUTOFARM.lua")
+                    
