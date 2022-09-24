@@ -7258,3 +7258,6 @@ addscript(8689635909,"Cookie Simulator 2 [Auto Cookies, TP Gems, Auto Sell]", "C
     
 addscript(7549229959,"Squid Game [Win First Game, Win Second Game, Win rope game]", "SquidGameWinFirstGameWinSecondGameWinropegame", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SquidGameWinFirstGameWinSecondGameWinropegame.lua")
                     
+    
+addscript(8288069630,"Stone Miner Simulator [Infinite Gems - Free Gold - Auto Sell]", "StoneMinerSimulatorInfiniteGemsFreeGoldAutoSell", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/StoneMinerSimulatorInfiniteGemsFreeGoldAutoSell.lua")
+                    
