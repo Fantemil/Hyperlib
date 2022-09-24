@@ -6926,3 +6926,5 @@ addscriptexist(8110180444, "StrongPetSimulatorAutoCarryAutoeggInstantTrain", "Qa
     
 addscript(4689179508,"Project Ghoul [Auto Spin]", "ProjectGhoulAutoSpin", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ProjectGhoulAutoSpin.lua")
                     
+                    
+addscriptexist(3017870574, "2PlayerEvolutionTycoonAutopickup", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/2PlayerEvolutionTycoonAutopickup.lua")
