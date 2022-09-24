@@ -4292,3 +4292,6 @@ addscript(301549746,"Counter Blox [Best Custom Skins Changer & More!]", "Counter
                     
                     
 addscriptexist(8619263259, "CriticalLegendsAutoOrbsMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CriticalLegendsAutoOrbsMore.lua")
+    
+addscript(9492038800,"STUMBLOX STRANGER THINGS [Auto Farm]", "STUMBLOXSTRANGERTHINGSAutoFarm", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/STUMBLOXSTRANGERTHINGSAutoFarm.lua")
+                    
