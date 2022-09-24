@@ -2818,3 +2818,6 @@ addscript(7940932746,"Roblox [Settings saver]", "RobloxSettingssaver", "Qalnik",
     
 addscript(10322949476,"Limited Jumps [Unlimited Jumps]", "LimitedJumpsUnlimitedJumps", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LimitedJumpsUnlimitedJumps.lua")
                     
+    
+addscript(151670365,"The Quarry [Infinite Cash]", "TheQuarryInfiniteCash", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TheQuarryInfiniteCash.lua")
+                    
