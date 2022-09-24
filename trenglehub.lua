@@ -1568,3 +1568,5 @@ addscriptexist(2788229376, "DaHoodSilentAimFlyWalkSpeed", "Qalnik", "https://raw
     
 addscript(4520749081,"King Legacy [Inf Dash, AutoFarm]", "KingLegacyInfDashAutoFarm", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/KingLegacyInfDashAutoFarm.lua")
                     
+                    
+addscriptexist(9498006165, "TappingSimulatorAutoRebirthInfJump", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TappingSimulatorAutoRebirthInfJump.lua")
