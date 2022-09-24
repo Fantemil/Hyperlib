@@ -1,0 +1,1 @@
+game:GetService("ReplicatedStorage").Events.ItemDropEvent:FireServer(game:GetService("Players").LocalPlayer.Character,"Arrow","Arrow",-10000000000)

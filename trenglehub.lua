@@ -3291,3 +3291,5 @@ addscriptexist(9983979661, "DragonFarmSimulatorInfiniteCash", "Terni", "https://
 addscriptexist(5571328985, "BloodlinesNoFallDamage", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BloodlinesNoFallDamage.lua")
                     
 addscriptexist(3686253681, "PlanetSimulatorAutoFarm", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PlanetSimulatorAutoFarm.lua")
+                    
+addscriptexist(6298464951, "RobloxIsUnbreakableInfiniteArrows", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RobloxIsUnbreakableInfiniteArrows.lua")
