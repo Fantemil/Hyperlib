@@ -8795,3 +8795,5 @@ addscriptexist(4580204640, "SurvivetheKillerAutoFarmKillAllPanicTp", "Qalnik", "
 addscriptexist(2619187362, "SuperPowerFightingSimulatorAutoFarmAutoAnubisAutoEvilPumpkin", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SuperPowerFightingSimulatorAutoFarmAutoAnubisAutoEvilPumpkin.lua")
                     
 addscriptexist(4954752502, "TowerofMiseryAfkFarmInstaWinHightSpeed", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TowerofMiseryAfkFarmInstaWinHightSpeed.lua")
+                    
+addscriptexist(189707, "NaturalDisasterSurvivalFreeeCompasNaturalDetectNoFallDamage", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NaturalDisasterSurvivalFreeeCompasNaturalDetectNoFallDamage.lua")
