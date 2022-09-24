@@ -2568,3 +2568,6 @@ addscriptexist(8328351891, "MegaMansionTycoonAutoCollect", "astrofile", "https:/
     
 addscript(9733390246,"Stair Tappers! [Auto Climb]", "StairTappersAutoClimb", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/StairTappersAutoClimb.lua")
                     
+    
+addscript(9943374061,"Planet Oof [Auto Collect]", "PlanetOofAutoCollect", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PlanetOofAutoCollect.lua")
+                    
