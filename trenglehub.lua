@@ -6421,3 +6421,6 @@ addscriptexist(8044403176, "VehicleChampionsAutoFarmGUI", "Terni", "https://raw.
 addscriptexist(155382109, "SurviveandKilltheKillesrinArea51STKv71EngineGUI", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SurviveandKilltheKillesrinArea51STKv71EngineGUI.lua")
                     
 addscriptexist(8073154099, "TheIntruderIntruderDetection", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TheIntruderIntruderDetection.lua")
+    
+addscript(7708751418,"Smashing Simulator X [Auto Slash, Auto Rebirth, Auto Open Egg]", "SmashingSimulatorXAutoSlashAutoRebirthAutoOpenEgg", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SmashingSimulatorXAutoSlashAutoRebirthAutoOpenEgg.lua")
+                    
