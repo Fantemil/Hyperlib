@@ -4156,3 +4156,5 @@ addscript(8596411742,"Barb Blox Lane [Fast Farm]", "BarbBloxLaneFastFarm", "Qaln
     
 addscript(1467230998,"TROOP LIFE [Auto Farm]", "TROOPLIFEAutoFarm", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TROOPLIFEAutoFarm.lua")
                     
+                    
+addscriptexist(2248408710, "DestructionSimulatorMaxLvlGetAllWeaponsBombNoCooldownDonotUSE100M", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DestructionSimulatorMaxLvlGetAllWeaponsBombNoCooldownDonotUSE100M.lua")
