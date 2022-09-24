@@ -3524,3 +3524,5 @@ addscriptexist(5956785391, "ProjectSlayersGUIAutoQuestInvisibleMore", "Terni", "
 addscriptexist(5956785391, "ProjectSlayersTeleporttoPlayer", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ProjectSlayersTeleporttoPlayer.lua")
                     
 addscriptexist(5956785391, "ProjectSlayersTeleporttoBosses", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ProjectSlayersTeleporttoBosses.lua")
+                    
+addscriptexist(5956785391, "ProjectSlayersLagServer", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ProjectSlayersLagServer.lua")
