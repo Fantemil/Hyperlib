@@ -4123,3 +4123,5 @@ addscriptexist(6938803436, "AnimeDimensionsSimulatorGUIAutoLevelFarmRaidMore", "
     
 addscript(8635207352,"Anime Merge Simulator [Fast Auto Farm]", "AnimeMergeSimulatorFastAutoFarm", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AnimeMergeSimulatorFastAutoFarm.lua")
                     
+                    
+addscriptexist(6206893534, "CobraKaiKarateGUIAutoFarmBagsHideNameMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CobraKaiKarateGUIAutoFarmBagsHideNameMore.lua")
