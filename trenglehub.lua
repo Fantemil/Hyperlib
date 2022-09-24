@@ -1958,3 +1958,6 @@ addscriptexist(8963721566, "TheBackroomsKV31InfStamina", "Qalnik", "https://raw.
     
 addscript(10627835972,"Death Sandbox [Kill All]", "DeathSandboxKillAll", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DeathSandboxKillAll.lua")
                     
+    
+addscript(9796315265,"Streetz War [Auto Farm]", "StreetzWarAutoFarm", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/StreetzWarAutoFarm.lua")
+                    
