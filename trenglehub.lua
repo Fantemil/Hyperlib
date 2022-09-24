@@ -3783,3 +3783,5 @@ addscriptexist(863266079, "ApocalypseRising2AntiZombieTeleport", "Terni", "https
 addscriptexist(9359379224, "ChaoticBeanSimulatorAutoFarm", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ChaoticBeanSimulatorAutoFarm.lua")
                     
 addscriptexist(1537690962, "BeeSwarmSimulatorGUIAutoDigAutoFarmMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BeeSwarmSimulatorGUIAutoDigAutoFarmMore.lua")
+                    
+addscriptexist(2506738224, "FallenMagicBullet", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FallenMagicBullet.lua")
