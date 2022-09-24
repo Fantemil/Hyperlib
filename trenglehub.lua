@@ -4932,3 +4932,5 @@ addscript(9461798258,"Raise a Granny [INF Money]", "RaiseaGrannyINFMoney", "Qaln
 addscriptexist(9551640993, "MiningSimulator2AutoFarmESP", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MiningSimulator2AutoFarmESP.lua")
                     
 addscriptexist(340227283, "RoBowlingAimBot", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RoBowlingAimBot.lua")
+                    
+addscriptexist(5326405001, "BaseBattlesDogtagsXPAutoFarm", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BaseBattlesDogtagsXPAutoFarm.lua")
