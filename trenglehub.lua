@@ -6111,3 +6111,5 @@ addscriptexist(8540168650, "StandUprightRebootedAutoFarmStandsFarmMore", "Terni"
 addscriptexist(8916037983, "StarvingArtistsGetEasterBoost", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/StarvingArtistsGetEasterBoost.lua")
                     
 addscriptexist(9030362964, "FieldGoalSimulatorPerfecthit", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FieldGoalSimulatorPerfecthit.lua")
+                    
+addscriptexist(9049840490, "SonicSpeedSimulator15kmoney", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SonicSpeedSimulator15kmoney.lua")
