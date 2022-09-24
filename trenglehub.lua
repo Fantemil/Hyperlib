@@ -4585,3 +4585,6 @@ addscript(6590798593,"Waterloo at home [Kill All]", "WaterlooathomeKillAll", "Te
     
 addscript(8605603204,"Mecha Simulator [Infinite Levels, Coins & Gems]", "MechaSimulatorInfiniteLevelsCoinsGems", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MechaSimulatorInfiniteLevelsCoinsGems.lua")
                     
+    
+addscript(9555732501,"Nen Fighting Simulator [Auto Strength - Auto Durability]", "NenFightingSimulatorAutoStrengthAutoDurability", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NenFightingSimulatorAutoStrengthAutoDurability.lua")
+                    
