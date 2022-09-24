@@ -1437,3 +1437,5 @@ addscriptexist(4779613061, "RoadmanAshuraMoneyFarm", "Terni", "https://raw.githu
 addscriptexist(9431770682, "LostRoomsCollectMaterials", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LostRoomsCollectMaterials.lua")
                     
 addscriptexist(5505830188, "ArcaneOblivionRPG30QnDDamageWeapon", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ArcaneOblivionRPG30QnDDamageWeapon.lua")
+                    
+addscriptexist(298400657, "DragonBallFinalRemasteredGUIHitAuraUnlockQuests", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DragonBallFinalRemasteredGUIHitAuraUnlockQuests.lua")
