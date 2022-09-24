@@ -8169,3 +8169,5 @@ addscriptexist(6284583030, "PetSimulatorXAutoFarmAutoOpenEggStatTacker", "Qalnik
 addscriptexist(648362523, "BreakingPointSilentAimRapidThrowKillaura", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BreakingPointSilentAimRapidThrowKillaura.lua")
                     
 addscriptexist(292439477, "PhantomForcesAimLockNoShake", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PhantomForcesAimLockNoShake.lua")
+                    
+addscriptexist(318978013, "KickOffAutoFarmGoalFast", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/KickOffAutoFarmGoalFast.lua")
