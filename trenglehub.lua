@@ -6848,3 +6848,6 @@ addscript(6561788350,"SPLIX UI LIB – Free To Use – New UI 2022", "SPLIXUILIB
                     
                     
 addscriptexist(7419509075, "cartridearoundusedcarbatterySpawnCartsMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/cartridearoundusedcarbatterySpawnCartsMore.lua")
+    
+addscript(8639059522,"Magnifying Simulator [Damage Multiplier]", "MagnifyingSimulatorDamageMultiplier", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MagnifyingSimulatorDamageMultiplier.lua")
+                    
