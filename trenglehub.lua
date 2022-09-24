@@ -7577,3 +7577,6 @@ addscript(182781154,"The Maze Runner [ChestAutoFarm, Treasure Auto Farm, Fly]", 
                     
                     
 addscriptexist(2414851778, "DungeonQuestAutoFarmWalkSpeedHipHight", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DungeonQuestAutoFarmWalkSpeedHipHight.lua")
+    
+addscript(990566015,"Cursed Islands [Auto Farm, Auto buy, Fly]", "CursedIslandsAutoFarmAutobuyFly", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CursedIslandsAutoFarmAutobuyFly.lua")
+                    
