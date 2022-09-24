@@ -4599,3 +4599,5 @@ addscript(1458767429,"Anime Battle Arena [Kira Show Where Bomb Is]", "AnimeBattl
     
 addscript(8992150289,"Anime Sword Simulator [Auto Rank - Auto Sword & More!]", "AnimeSwordSimulatorAutoRankAutoSwordMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AnimeSwordSimulatorAutoRankAutoSwordMore.lua")
                     
+                    
+addscriptexist(3233893879, "BadBusiness307SilentAimOpenSource", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BadBusiness307SilentAimOpenSource.lua")
