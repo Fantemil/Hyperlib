@@ -2187,3 +2187,5 @@ addscript(428114181,"Azure Mines [TP To ore, Auto Farm]", "AzureMinesTPTooreAuto
     
 addscript(7993293100,"Tsunami Game [Auto Farm, Teleport]", "TsunamiGameAutoFarmTeleport", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TsunamiGameAutoFarmTeleport.lua")
                     
+                    
+addscriptexist(4282985734, "CombatWarriorsKillAuraNoparry", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CombatWarriorsKillAuraNoparry.lua")
