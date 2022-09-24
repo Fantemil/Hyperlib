@@ -5823,3 +5823,6 @@ addscriptexist(8209480473, "SpotifyIslandAutoCollectAllCoins", "Terni", "https:/
     
 addscript(583507031,"Papers, Please [Auto Farm]", "PapersPleaseAutoFarm", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PapersPleaseAutoFarm.lua")
                     
+    
+addscript(166986752,"Plane Crazy [Copy Build]", "PlaneCrazyCopyBuild", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PlaneCrazyCopyBuild.lua")
+                    
