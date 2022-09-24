@@ -3610,3 +3610,6 @@ addscriptexist(920587237, "AdoptMeSpamVehiclesToPeopleMore", "Terni", "https://r
     
 addscript(5310653431,"Synapse X Stream Sniper", "SynapseXStreamSniper", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SynapseXStreamSniper.lua")
                     
+    
+addscript(9530846958,"EPSILON LINEAGE 2 [Infinite Mana & More!]", "EPSILONLINEAGE2InfiniteManaMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/EPSILONLINEAGE2InfiniteManaMore.lua")
+                    
