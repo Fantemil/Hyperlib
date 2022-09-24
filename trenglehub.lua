@@ -2476,3 +2476,6 @@ addscriptexist(9872472334, "EvadeWalkspeed", "astrofile", "https://raw.githubuse
     
 addscript(10070062081,"Minion Simulator [Auto Farm, Walkspeed]", "MinionSimulatorAutoFarmWalkspeed", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MinionSimulatorAutoFarmWalkspeed.lua")
                     
+    
+addscript(8573962925,"Alternate Battlegrounds [Auto Click, PlayerSnipe]", "AlternateBattlegroundsAutoClickPlayerSnipe", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AlternateBattlegroundsAutoClickPlayerSnipe.lua")
+                    
