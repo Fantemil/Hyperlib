@@ -6534,3 +6534,5 @@ addscript(4913331862,"Recoil Zombies [Zombie ESP & More!}", "RecoilZombiesZombie
                     
                     
 addscriptexist(5116869569, "DoodleWorldGeneratesGUIDs", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DoodleWorldGeneratesGUIDs.lua")
+                    
+addscriptexist(5116869569, "DoodleWorldHealYourTeam", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DoodleWorldHealYourTeam.lua")
