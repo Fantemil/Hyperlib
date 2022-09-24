@@ -5818,3 +5818,5 @@ addscript(9136292138,"Grand Pirates [Mob Farm, Auto Quest, Farm Chests]", "Grand
 addscriptexist(8209480473, "SpotifyIslandLevelFarm", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SpotifyIslandLevelFarm.lua")
                     
 addscriptexist(8209480473, "SpotifyIslandHeartFarmServerhop", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SpotifyIslandHeartFarmServerhop.lua")
+                    
+addscriptexist(8209480473, "SpotifyIslandAutoCollectAllCoins", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SpotifyIslandAutoCollectAllCoins.lua")
