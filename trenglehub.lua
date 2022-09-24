@@ -5571,3 +5571,5 @@ addscriptexist(4588604953, "CriminalityAutoLockpick", "Terni", "https://raw.gith
 addscriptexist(4588604953, "CriminalityHitboxExtender", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CriminalityHitboxExtender.lua")
                     
 addscriptexist(9426082120, "SamsungSuperstarGalaxyAutoFarmClaimRewardsMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SamsungSuperstarGalaxyAutoFarmClaimRewardsMore.lua")
+                    
+addscriptexist(6284583030, "PetSimulatorXAutoFarmAutoEggOpeningMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PetSimulatorXAutoFarmAutoEggOpeningMore.lua")
