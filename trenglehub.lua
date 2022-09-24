@@ -4486,3 +4486,5 @@ addscript(9297410766,"Crossbar Challenge Simulator [Fast Auto Shoot]", "Crossbar
                     
                     
 addscriptexist(7336302630, "ProjectDetlaSilentAimInstantBulletsMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ProjectDetlaSilentAimInstantBulletsMore.lua")
+                    
+addscriptexist(2685347741, "GhostSimulatorAutoPickupDrops", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/GhostSimulatorAutoPickupDrops.lua")
