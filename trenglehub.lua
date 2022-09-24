@@ -4903,3 +4903,5 @@ addscript(9561878567,"Forest Of Beginnings RPG [Kill All]", "ForestOfBeginningsR
                     
                     
 addscriptexist(7799826347, "SandboxTycoonSandboxSchematics", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SandboxTycoonSandboxSchematics.lua")
+                    
+addscriptexist(9388793159, "CoruscantRoleplaySilentAimHitChanceHitPartFOVCircle", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CoruscantRoleplaySilentAimHitChanceHitPartFOVCircle.lua")
