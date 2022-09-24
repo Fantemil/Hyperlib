@@ -8705,3 +8705,5 @@ addscript(2888719930,"Boxing Simulator 2 [AUTO-FARM]", "BoxingSimulator2AUTOFARM
                     
                     
 addscriptexist(6753004901, "SwingCityInfStamina", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SwingCityInfStamina.lua")
+                    
+addscriptexist(6753004901, "SwingCityAttachMode", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SwingCityAttachMode.lua")
