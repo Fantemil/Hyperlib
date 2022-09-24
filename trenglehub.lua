@@ -5644,3 +5644,5 @@ addscriptexist(9049840490, "SonicSpeedSimulatorNewFasterAutoFarm", "Terni", "htt
 addscriptexist(9049840490, "SonicSpeedSimulatorAutoOpenChests", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SonicSpeedSimulatorAutoOpenChests.lua")
                     
 addscriptexist(9530846958, "Epsilon2GUIV1AutoTrinketMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Epsilon2GUIV1AutoTrinketMore.lua")
+                    
+addscriptexist(155382109, "SurviveandkillthekillersinArea51GUIGiveAllGuns", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SurviveandkillthekillersinArea51GUIGiveAllGuns.lua")
