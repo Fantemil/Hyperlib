@@ -6393,3 +6393,5 @@ addscript(6555084601,"Вирус [RP] [Godmode]", "ВирусRPGodmode", "Terni"
                     
                     
 addscriptexist(8781849572, "StarSimulatorBetaInfiniteIronPlatesPlanks", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/StarSimulatorBetaInfiniteIronPlatesPlanks.lua")
+                    
+addscriptexist(2414851778, "DungeonQuestAutoFarmAutoSkillWalkSpeed", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DungeonQuestAutoFarmAutoSkillWalkSpeed.lua")
