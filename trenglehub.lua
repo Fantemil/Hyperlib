@@ -2966,3 +2966,5 @@ addscript(5571328985,"Bloodlines [Auto Farm, Auto Sell, Drop All]", "BloodlinesA
                     
                     
 addscriptexist(7127407851, "AttackonTitanEvolutionInfGasInfJumpSpeedBypass", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AttackonTitanEvolutionInfGasInfJumpSpeedBypass.lua")
+                    
+addscriptexist(10184360875, "PetFishingSimulatorinfMoney", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PetFishingSimulatorinfMoney.lua")
