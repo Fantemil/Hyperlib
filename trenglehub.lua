@@ -8582,3 +8582,5 @@ addscript(8097148487,"Magic Champions [Farm Gui]", "MagicChampionsFarmGui", "Ter
 addscriptexist(537413528, "BuildABoatForTreasureAutoFarmNEW", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BuildABoatForTreasureAutoFarmNEW.lua")
                     
 addscriptexist(4556951723, "RagdollPhysicsMusicPlayerFreeBadgeandMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RagdollPhysicsMusicPlayerFreeBadgeandMore.lua")
+                    
+addscriptexist(7608438089, "TheWinterEscapeInfiniteCheer", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TheWinterEscapeInfiniteCheer.lua")
