@@ -6115,3 +6115,5 @@ addscriptexist(9030362964, "FieldGoalSimulatorPerfecthit", "Qalnik", "https://ra
 addscriptexist(9049840490, "SonicSpeedSimulator15kmoney", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SonicSpeedSimulator15kmoney.lua")
                     
 addscriptexist(2693739238, "THIEFLIFESimulatorGetbestloot", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/THIEFLIFESimulatorGetbestloot.lua")
+                    
+addscriptexist(6778844213, "EuphoriaragdolltestingRagdollall", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/EuphoriaragdolltestingRagdollall.lua")
