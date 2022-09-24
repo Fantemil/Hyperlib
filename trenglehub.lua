@@ -6552,3 +6552,5 @@ addscriptexist(621129760, "KATIIRadioBypass", "Terni", "https://raw.githubuserco
 addscriptexist(1458767429, "ABARankedCoinsFarm", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ABARankedCoinsFarm.lua")
                     
 addscriptexist(2693023319, "FindTheBaconsCollectAllTheBaconsInTheServer", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FindTheBaconsCollectAllTheBaconsInTheServer.lua")
+                    
+addscriptexist(6284583030, "PetSimulatorXMasteryFarm", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PetSimulatorXMasteryFarm.lua")
