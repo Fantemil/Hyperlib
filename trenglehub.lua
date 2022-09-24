@@ -6020,3 +6020,5 @@ addscriptexist(7075737729, "HoopCentral6AutoTimeOpenSource", "Terni", "https://r
     
 addscript(6793421427,"get a snack at 5am [Get All Tools]", "getasnackat5amGetAllTools", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/getasnackat5amGetAllTools.lua")
                     
+                    
+addscriptexist(185655149, "BloxburgJobAutoFarm", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BloxburgJobAutoFarm.lua")
