@@ -4934,3 +4934,6 @@ addscriptexist(9551640993, "MiningSimulator2AutoFarmESP", "Terni", "https://raw.
 addscriptexist(340227283, "RoBowlingAimBot", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RoBowlingAimBot.lua")
                     
 addscriptexist(5326405001, "BaseBattlesDogtagsXPAutoFarm", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BaseBattlesDogtagsXPAutoFarm.lua")
+    
+addscript(5678279798,"Fight Club [Kill Aura GUI]", "FightClubKillAuraGUI", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FightClubKillAuraGUI.lua")
+                    
