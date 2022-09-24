@@ -5604,3 +5604,5 @@ addscriptexist(9344944754, "HunterxOmenAutoClimbTraining", "Terni", "https://raw
     
 addscript(8090572921,"Multiverse Fighters Simulator [Auto Click - Auto Attack Npcs]", "MultiverseFightersSimulatorAutoClickAutoAttackNpcs", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MultiverseFightersSimulatorAutoClickAutoAttackNpcs.lua")
                     
+                    
+addscriptexist(142823291, "MurderMystery2The1FreeGUI", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MurderMystery2The1FreeGUI.lua")
