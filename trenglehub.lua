@@ -6010,3 +6010,6 @@ addscript(2927931172,"Shinobi Battlegrounds [Infiniti Yen,Ryo]", "ShinobiBattleg
     
 addscript(4801349733,"Orion UI Library - Premium Bypass", "OrionUILibraryPremiumBypass", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OrionUILibraryPremiumBypass.lua")
                     
+    
+addscript(8677679014,"Spirit Defenders [Multiplier Stats & Spirit Giver]", "SpiritDefendersMultiplierStatsSpiritGiver", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SpiritDefendersMultiplierStatsSpiritGiver.lua")
+                    
