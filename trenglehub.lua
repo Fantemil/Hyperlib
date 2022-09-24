@@ -3078,3 +3078,6 @@ addscriptexist(6468323505, "SpellboundMagicRPGInfinteMoney", "Terni", "https://r
 addscriptexist(9845465117, "AURebornSimmitBadge", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AURebornSimmitBadge.lua")
                     
 addscriptexist(8267733039, "Specter2GUI", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Specter2GUI.lua")
+    
+addscript(10065077975,"Robloxian's Obby [Auto finish]", "RobloxiansObbyAutofinish", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RobloxiansObbyAutofinish.lua")
+                    
