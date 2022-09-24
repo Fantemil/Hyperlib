@@ -5169,3 +5169,5 @@ addscript(7114796110,"Anime Training Simulator [GUI - Auto Farm, Teleports]", "A
     
 addscript(7244314500,"Fightman Simulator [GUI - Auto Farm, Teleports]", "FightmanSimulatorGUIAutoFarmTeleports", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FightmanSimulatorGUIAutoFarmTeleports.lua")
                     
+                    
+addscriptexist(142823291, "MurderMystery2ESPFakeKnifeInvisible", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MurderMystery2ESPFakeKnifeInvisible.lua")
