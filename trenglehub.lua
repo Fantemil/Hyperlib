@@ -4523,3 +4523,5 @@ addscript(6924952561,"Clover City [Fly]", "CloverCityFly", "Qalnik", "https://ra
 addscriptexist(7839440834, "SeaCleaningSimulatorModifyBoatSpeedNoslowdowneffectAutoSellTrash", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SeaCleaningSimulatorModifyBoatSpeedNoslowdowneffectAutoSellTrash.lua")
                     
 addscriptexist(4540286603, "NORTHWINDCrashServer", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NORTHWINDCrashServer.lua")
+                    
+addscriptexist(2788229376, "DaHoodinvisJumpscareScaryMusic", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DaHoodinvisJumpscareScaryMusic.lua")
