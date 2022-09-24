@@ -3076,3 +3076,5 @@ addscriptexist(7305309231, "TaxiBossAutoFarm", "Terni", "https://raw.githubuserc
 addscriptexist(6468323505, "SpellboundMagicRPGInfinteMoney", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SpellboundMagicRPGInfinteMoney.lua")
                     
 addscriptexist(9845465117, "AURebornSimmitBadge", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AURebornSimmitBadge.lua")
+                    
+addscriptexist(8267733039, "Specter2GUI", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Specter2GUI.lua")
