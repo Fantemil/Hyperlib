@@ -4970,3 +4970,5 @@ addscript(7791106063,"Furry Infection [Kill All, Kill Aura, AutoGerBat]", "Furry
     
 addscript(7488014850,"RAINBOWN PIECE [Free Legendary fruits]", "RAINBOWNPIECEFreeLegendaryfruits", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RAINBOWNPIECEFreeLegendaryfruits.lua")
                     
+                    
+addscriptexist(7488014850, "RAINBOWNPIECESpamLegengfruits", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RAINBOWNPIECESpamLegengfruits.lua")
