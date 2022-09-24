@@ -8654,3 +8654,5 @@ addscript(7768149183,"Find The Trollfaces [AUTO-FARM]", "FindTheTrollfacesAUTOFA
     
 addscript(7049683699,"Ragdoll Engine [NEW SCRIPT GUI]", "RagdollEngineNEWSCRIPTGUI", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RagdollEngineNEWSCRIPTGUI.lua")
                     
+                    
+addscriptexist(5130598377, "UNIVERSALAIMBOTVISUALS–RIOTFALLSUPPORT", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/UNIVERSALAIMBOTVISUALS–RIOTFALLSUPPORT.lua")
