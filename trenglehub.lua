@@ -8089,3 +8089,6 @@ addscriptexist(6442957604, "DarkDexv3CustomIcons", "Terni", "https://raw.githubu
 addscriptexist(6407649031, "NOSCOPEARCADESilentAimOpenSourse", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NOSCOPEARCADESilentAimOpenSourse.lua")
                     
 addscriptexist(3101667897, "LegendsOfSpeedAutoFarmHoopsRebirth", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LegendsOfSpeedAutoFarmHoopsRebirth.lua")
+    
+addscript(6466630690,"Cat Infection [Anti Infection]", "CatInfectionAntiInfection", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CatInfectionAntiInfection.lua")
+                    
