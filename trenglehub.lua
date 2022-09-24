@@ -1489,3 +1489,5 @@ addscript(10956882556,"Roblox [Chat Spam]", "RobloxChatSpam", "Qalnik", "https:/
     
 addscript(292439477,"Phantom Forces [Esp]", "PhantomForcesEsp", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PhantomForcesEsp.lua")
                     
+                    
+addscriptexist(6516141723, "DOORSSkiplvlsAntiscreechAlwayswingames", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DOORSSkiplvlsAntiscreechAlwayswingames.lua")
