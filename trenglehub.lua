@@ -5246,3 +5246,5 @@ addscript(3056526277,"Build and Survive [Kill all bots]", "BuildandSurviveKillal
 addscriptexist(6717117731, "SubwaySurfersColllectAllCoins", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SubwaySurfersColllectAllCoins.lua")
                     
 addscriptexist(9508087919, "ApeirophobiaESPforexits", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ApeirophobiaESPforexits.lua")
+                    
+addscriptexist(9508087919, "ApeirophobiaSimulationCoresESP", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ApeirophobiaSimulationCoresESP.lua")
