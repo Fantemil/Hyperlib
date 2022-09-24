@@ -4954,3 +4954,5 @@ addscriptexist(659222129, "Swordburst2AutoFarmTpKillAura", "Qalnik", "https://ra
 addscriptexist(5678279798, "FightClubKillAuraMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FightClubKillAuraMore.lua")
                     
 addscriptexist(9551640993, "MiningSimulator2BlockAuraMultiModeMoreGUI", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MiningSimulator2BlockAuraMultiModeMoreGUI.lua")
+                    
+addscriptexist(8534845015, "SakuraStandAutoKillBoxAutoFarm", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SakuraStandAutoKillBoxAutoFarm.lua")
