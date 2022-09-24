@@ -7618,3 +7618,6 @@ addscriptexist(292439477, "PhantomForcesRainbowGunArms", "Terni", "https://raw.g
     
 addscript(281489669,"Wizard Tycoon - 2 Player [Kill All]", "WizardTycoon2PlayerKillAll", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/WizardTycoon2PlayerKillAll.lua")
                     
+    
+addscript(4932220972,"Robbing Tycoon [Remote Kill Parts + Grab Money]", "RobbingTycoonRemoteKillPartsGrabMoney", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RobbingTycoonRemoteKillPartsGrabMoney.lua")
+                    
