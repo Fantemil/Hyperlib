@@ -3228,3 +3228,6 @@ addscriptexist(6299805723, "AnimeWarriorsSimpleAutoFarm", "Terni", "https://raw.
 addscriptexist(3177438863, "DragonBloxAutoFarmAutoQuestGUI", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DragonBloxAutoFarmAutoQuestGUI.lua")
                     
 addscriptexist(7991339063, "RainbowFriendsESP", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RainbowFriendsESP.lua")
+    
+addscript(10057963710,"George Ezra’s Gold Rush Kid Experience [Collect All Puzzle Pieces]", "GeorgeEzra’sGoldRushKidExperienceCollectAllPuzzlePieces", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/GeorgeEzra’sGoldRushKidExperienceCollectAllPuzzlePieces.lua")
+                    
