@@ -2287,3 +2287,6 @@ addscript(6681032961,"Museum Tycoon [Inf Cash]", "MuseumTycoonInfCash", "astrofi
     
 addscript(6357903043,"Aniverse [Auto Farm, Auto Replay]", "AniverseAutoFarmAutoReplay", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AniverseAutoFarmAutoReplay.lua")
                     
+    
+addscript(2306562216,"Camping [Get Items, Walkspeed]", "CampingGetItemsWalkspeed", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CampingGetItemsWalkspeed.lua")
+                    
