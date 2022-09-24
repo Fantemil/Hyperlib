@@ -2753,3 +2753,5 @@ addscript(6298464951,"Roblox Is Unbreakable [Auto Collect Items]", "RobloxIsUnbr
     
 addscript(10319501620,"School of Sport [GUI - Collect All Coins]", "SchoolofSportGUICollectAllCoins", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SchoolofSportGUICollectAllCoins.lua")
                     
+                    
+addscriptexist(9285238704, "RaceClickerAutoFarm", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RaceClickerAutoFarm.lua")
