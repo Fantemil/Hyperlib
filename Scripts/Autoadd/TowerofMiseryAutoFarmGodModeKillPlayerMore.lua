@@ -1,4 +1,4 @@
---Most of this stuff is PROBABLY for Synapse X, PROBABLY
+--EXPECT A NEW UI SOON
 
 local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/bloodball/-back-ups-for-libs/main/kav"))()
 local Window = Library.CreateLib("Tower Of Misery", "DarkTheme")
@@ -124,16 +124,18 @@ local workspace = game:GetService("Workspace")
 local Rep = game.ReplicatedStorage
 
 wait()
-game:GetService("StarterGui"):SetCore("ChatMakeSystemMessage",{
- Text = "Designed And Mostly Coded By TheCoolZack#3012",
- Color = Color3.fromRGB(207, 96, 36)
+game.StarterGui:SetCore("SendNotification", {
+Title = "EXPECT A NEW UI SOON!!!";
+Text = "TheWorldOfZack#3012";
+Duration = 5;
 })
 wait()
-game:GetService("StarterGui"):SetCore("ChatMakeSystemMessage",{
- Text = "Instructions updated for every script that seemed outdated and or broken (LOOK AT THE DOTS ON THE SCRIPT FOR INSTRUCTIONS) AND SORRY IF SOME WORK FOR ONLY SYNAPSE X",
- Color = Color3.fromRGB(207, 96, 36)
+game.StarterGui:SetCore("SendNotification", {
+Title = "Mostly Coded And Founded By:";
+Text = "TheWorldOfZack#3012";
+Duration = 5;
 })
-
+wait()
 Home:NewButton("God Mode", "Home", function()
     Rep.Server_Data.ImmunityEnabled.Value = true
 end
@@ -150,9 +152,10 @@ end
 )
 
 AntiCheat:NewButton("Anti Cheat Bypass (Fly)", "PROB FOR SYNAPSE X", function()
-game:GetService("StarterGui"):SetCore("ChatMakeSystemMessage",{
- Text = "Press On Respawn And After Every Round",
- Color = Color3.fromRGB(207, 96, 36)
+game.StarterGui:SetCore("SendNotification", {
+Title = "Press: Respawn And Every Round";
+Text = "TheWorldOfZack#3012";
+Duration = 3;
 })
 local h = game.Workspace
 for i,v in pairs(getconnections(h:GetPropertyChangedSignal"Gravity")) do
@@ -161,9 +164,10 @@ end
 end)
 
 AntiCheat:NewButton("Anti Cheat Bypass (Gravity)", "PROB FOR SYNAPSE X", function()
-game:GetService("StarterGui"):SetCore("ChatMakeSystemMessage",{
- Text = "Press On Respawn And After Every Round",
- Color = Color3.fromRGB(207, 96, 36)
+game.StarterGui:SetCore("SendNotification", {
+Title = "Press: Respawn And Every Round";
+Text = "TheWorldOfZack#3012";
+Duration = 3;
 })
 local h = game.Players.LocalPlayer.Character.HumanoidRootPart
 for i,v in pairs(getconnections(h:GetPropertyChangedSignal"Velocity")) do
@@ -206,9 +210,10 @@ end
 )
 
 Home:NewButton("Gravity Coil (free)", "Home", function()
-game:GetService("StarterGui"):SetCore("ChatMakeSystemMessage",{
- Text = "Press as many times as you want.",
- Color = Color3.fromRGB(207, 96, 36)
+game.StarterGui:SetCore("SendNotification", {
+Title = "Press For Free Grav Coil";
+Text = "TheWorldOfZack#3012";
+Duration = 3;
 })
 local args = {
     [1] = "Gravity Coil"
@@ -308,7 +313,11 @@ local args = {
 
 game:GetService("ReplicatedStorage").Remote_Functions.Shop.Purchase_Speed_Timer:InvokeServer(unpack(args))
 wait(0.5)
-print("Auto Bought Everything!")
+game.StarterGui:SetCore("SendNotification", {
+Title = "Auto Bought Everything!";
+Text = "TheWorldOfZack#3012";
+Duration = 5;
+})
 end
 )
 
@@ -335,10 +344,11 @@ game:GetService("ReplicatedStorage").Crate_System_V2.Remote_Events.Accept_Trade_
 end)
 
 Home:NewButton("Auto Respawn", "Home", function()
- game:GetService("StarterGui"):SetCore("ChatMakeSystemMessage",{
-  Text = "WHEN YOU USE THIS YOU CAN INSTANTLY RESET WITHOUT QUICK SPAWN (WHEN YOU DIE OR RESET)",
-  Color = Color3.fromRGB(207, 96, 36)
- })
+game.StarterGui:SetCore("SendNotification", {
+Title = "INSTANT RESPAWN FOR RESETTING OR DYING";
+Text = "TheWorldOfZack#3012";
+Duration = 5;
+})
 while true do
 wait()
 local blah = (game.Players.LocalPlayer.Name)
@@ -388,9 +398,10 @@ end
 end)
 
 Home:NewButton("AFK Farm (prob broken)", "Home", function()
-game:GetService("StarterGui"):SetCore("ChatMakeSystemMessage",{
- Text = "Go to Teleports to turn this off",
- Color = Color3.fromRGB(207, 96, 36)
+game.StarterGui:SetCore("SendNotification", {
+Title = "This Is Probably Broken :(";
+Text = "TheWorldOfZack#3012";
+Duration = 3;
 })
 _G.afk1 = true
 while _G.afk1 == true do
@@ -400,10 +411,11 @@ end
 end)
 
 OtherStuff:NewButton("Get Sword", "If doesn't work 1st time press again.", function()
- game:GetService("StarterGui"):SetCore("ChatMakeSystemMessage",{
-  Text = "Using this will teleport you back to the winners room every round so just teleport back with the teleport to top",
-  Color = Color3.fromRGB(207, 96, 36)
- })
+game.StarterGui:SetCore("SendNotification", {
+Title = "Teleport back with teleports or something";
+Text = "TheWorldOfZack#3012";
+Duration = 3;
+})
 game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-117.169624, 253.999847, 49.9136276)
 wait(0.2)
 local playerHead = game.Players.LocalPlayer.Character.Head
@@ -423,6 +435,11 @@ end
 )
 
 Teleport:NewButton("TP To Winners Room", "You need to touch the white door first.", function()
+game.StarterGui:SetCore("SendNotification", {
+Title = "Touch The White Door First";
+Text = "TheWorldOfZack#3012";
+Duration = 3;
+})
 local playerHead = game.Players.LocalPlayer.Character.Head
 for i, v in pairs(game:GetService("Workspace").TopSection.PortalTeleportationModel.PortalDoor:GetDescendants()) do
     if v.Name == "TouchInterest" and v.Parent then
@@ -452,9 +469,10 @@ _G.afk1 = false
 end)
 
 Fun:NewButton("(TOOL) Sink Player", "Needs A Tool And Must Be On The Player", function()
-game:GetService("StarterGui"):SetCore("ChatMakeSystemMessage",{
- Text = "YOU MUST BE ON THE PLAYER TO KIDNAP/SINK THEM (PRESS Z TO SINK THE PLAYER WHEN ON THEM)",
- Color = Color3.fromRGB(207, 96, 36)
+game.StarterGui:SetCore("SendNotification", {
+Title = "To Sink Them Touch Them";
+Text = "TheWorldOfZack#3012";
+Duration = 3;
 })
 wait()
 game.Players.LocalPlayer:GetMouse().KeyDown:connect(function(key)
@@ -488,6 +506,12 @@ game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-20.0604
 end)
 
 Crash:NewTextBox("Crash Player", "Crashes A Player", function(okthen)
+game.StarterGui:SetCore("SendNotification", {
+Title = "Not Recommended For Free Exploits (lag)";
+Text = "TheWorldOfZack#3012";
+Duration = 5;
+})
+wait()
 local Player = function(Ev)
  if Ev == "" then
   return nil
@@ -532,9 +556,10 @@ game:GetService("ReplicatedStorage").Crate_System_V2.Remote_Events.Decline_Trade
 end)
 
 Fun:NewButton("Inf Jump Bypass", "Spoof", function()
-game:GetService("StarterGui"):SetCore("ChatMakeSystemMessage",{
- Text = "THIS ONLY WORKS FOR SYNAPSE X I BELIEVE SO (bypasses inf jump) also as always press after every round and after respawn",
- Color = Color3.fromRGB(207, 96, 36)
+game.StarterGui:SetCore("SendNotification", {
+Title = "Press On Every Round And Respawn (syn x)";
+Text = "TheWorldOfZack#3012";
+Duration = 6;
 })
 wait()
 local h = game.Players.LocalPlayer.Character.HumanoidRootPart
