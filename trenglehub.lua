@@ -2005,3 +2005,6 @@ addscriptexist(142823291, "MurderMystery2KillAuraGodmode", "astrofile", "https:/
     
 addscript(4490140733,"My Restaurant! [Auto Farm, Money Farm]", "MyRestaurantAutoFarmMoneyFarm", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MyRestaurantAutoFarmMoneyFarm.lua")
                     
+    
+addscript(6677573193,"Axe Champions Simulator [AutoSell, AutoHatch]", "AxeChampionsSimulatorAutoSellAutoHatch", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AxeChampionsSimulatorAutoSellAutoHatch.lua")
+                    
