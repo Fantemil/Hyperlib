@@ -3222,3 +3222,5 @@ addscriptexist(10118559731, "nicosnextbotsBHOP", "Terni", "https://raw.githubuse
 addscriptexist(3346617530, "FreezeTagExtremev25OverpoweredGUI", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FreezeTagExtremev25OverpoweredGUI.lua")
                     
 addscriptexist(4616652839, "ShindoLifeEquipAnyBloodlineMode", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ShindoLifeEquipAnyBloodlineMode.lua")
+                    
+addscriptexist(6299805723, "AnimeWarriorsSimpleAutoFarm", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AnimeWarriorsSimpleAutoFarm.lua")
