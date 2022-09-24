@@ -7634,3 +7634,5 @@ addscriptexist(8303498444, "BlockyWorldMobFarm", "Terni", "https://raw.githubuse
     
 addscript(6859865958,"YouTube Simulator [Auto Farm, Redeem All Codes, Buy all sd cards]", "YouTubeSimulatorAutoFarmRedeemAllCodesBuyallsdcards", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/YouTubeSimulatorAutoFarmRedeemAllCodesBuyallsdcards.lua")
                     
+                    
+addscriptexist(6604417568, "Minerscave13NoDamage", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Minerscave13NoDamage.lua")
