@@ -1677,3 +1677,6 @@ addscriptexist(4042427666, "AnimeFightingSimulatorAutoFarmMobFarmChikaraShards",
 addscriptexist(6447798030, "FunkyFridayAutoPlayAutoFarm", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FunkyFridayAutoPlayAutoFarm.lua")
                     
 addscriptexist(5956785391, "ProjectSlayersInfStaminaAutofarm", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ProjectSlayersInfStaminaAutofarm.lua")
+    
+addscript(9285238704,"Race Clicker [Auto Farm Wins]", "RaceClickerAutoFarmWins", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RaceClickerAutoFarmWins.lua")
+                    
