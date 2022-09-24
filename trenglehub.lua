@@ -3128,3 +3128,5 @@ addscriptexist(9926433554, "BlastMiningSimulatorInfiniteMoney", "Terni", "https:
 addscriptexist(2124720684, "DragonBallXenoMultiverseZenAutoFarm", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DragonBallXenoMultiverseZenAutoFarm.lua")
                     
 addscriptexist(6468323505, "SpellboundMagicRPGGetAllItems", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SpellboundMagicRPGGetAllItems.lua")
+                    
+addscriptexist(6468323505, "SpellboundMagicRPGInfinteCoins", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SpellboundMagicRPGInfinteCoins.lua")
