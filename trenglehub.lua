@@ -4192,3 +4192,6 @@ addscriptexist(9601565001, "CarCrashSystemDeleteAnything", "Terni", "https://raw
     
 addscript(6915291292,"Bakery Simulator [Delete Anything]", "BakerySimulatorDeleteAnything", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BakerySimulatorDeleteAnything.lua")
                     
+    
+addscript(4443032907,"Sword Simulator [GUI - Auto Mobs & More!]", "SwordSimulatorGUIAutoMobsMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SwordSimulatorGUIAutoMobsMore.lua")
+                    
