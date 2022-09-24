@@ -1741,3 +1741,6 @@ addscriptexist(4951858512, "VictoryRaceAntiLagAutoWin", "astrofile", "https://ra
 addscriptexist(4042427666, "AnimeFightingSimulatorInfYenandChikara", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AnimeFightingSimulatorInfYenandChikara.lua")
                     
 addscriptexist(537413528, "BuildABoatForTreasureAutoFarmAutoOpenChest", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BuildABoatForTreasureAutoFarmAutoOpenChest.lua")
+    
+addscript(7280118908,"School Simulator [Free Gamepass]", "SchoolSimulatorFreeGamepass", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SchoolSimulatorFreeGamepass.lua")
+                    
