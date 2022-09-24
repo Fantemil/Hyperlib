@@ -4364,3 +4364,5 @@ addscriptexist(7261261021, "RagingSeasInfiniteStamina", "Terni", "https://raw.gi
 addscriptexist(9551640993, "MiningSimulator2FakeHatcherGUI", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MiningSimulator2FakeHatcherGUI.lua")
                     
 addscriptexist(6644653750, "PaperIOAutoWIn", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PaperIOAutoWIn.lua")
+                    
+addscriptexist(35397735, "ScubaDivingatQuillLakeGiveallgamepass", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ScubaDivingatQuillLakeGiveallgamepass.lua")
