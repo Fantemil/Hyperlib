@@ -8381,3 +8381,6 @@ addscript(2984072291,"Zombie Stories [Silent Aim]", "ZombieStoriesSilentAim", "Q
     
 addscript(5732966938,"WORLD DEFENDERS - Tower Defense [Insta Kill]", "WORLDDEFENDERSTowerDefenseInstaKill", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/WORLDDEFENDERSTowerDefenseInstaKill.lua")
                     
+    
+addscript(7449695387,"Pet Fighters Simulator [Auto FArm, Auto Collect Coins, Click Attack]", "PetFightersSimulatorAutoFArmAutoCollectCoinsClickAttack", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PetFightersSimulatorAutoFArmAutoCollectCoinsClickAttack.lua")
+                    
