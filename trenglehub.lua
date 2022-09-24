@@ -7105,3 +7105,5 @@ addscriptexist(7127407851, "AttackonTitanEvolutionUnlockAllGamepassKillAuraMore"
     
 addscript(5009679035,"carry people simulator 2 [GUI - Grab Aura]", "carrypeoplesimulator2GUIGrabAura", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/carrypeoplesimulator2GUIGrabAura.lua")
                     
+                    
+addscriptexist(8317588085, "BlockTycoonInfiniteBlocks", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BlockTycoonInfiniteBlocks.lua")
