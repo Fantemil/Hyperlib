@@ -8716,3 +8716,6 @@ addscript(5598577415,"Frog Simulator [AUTO-FARM, AUTO-BUY, MORE!]", "FrogSimulat
 addscriptexist(292439477, "PhantomForcesNOGUNBOBSWAY", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PhantomForcesNOGUNBOBSWAY.lua")
                     
 addscriptexist(7774228661, "PiratesDreamKILLAURAMOBS", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PiratesDreamKILLAURAMOBS.lua")
+    
+addscript(4067702497,"Offbeat Journeys [ KILL ALL ]", "OffbeatJourneysKILLALL", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OffbeatJourneysKILLALL.lua")
+                    
