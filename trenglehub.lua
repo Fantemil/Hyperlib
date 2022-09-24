@@ -4848,3 +4848,5 @@ addscript(5927697884,"Orange Colored Skies [Gun Mod]", "OrangeColoredSkiesGunMod
                     
                     
 addscriptexist(8992150289, "AnimeSwordSimulatorGetAllGamepasses", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AnimeSwordSimulatorGetAllGamepasses.lua")
+                    
+addscriptexist(4459593483, "FORCEPREALPHAAutoFarm", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FORCEPREALPHAAutoFarm.lua")
