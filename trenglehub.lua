@@ -1782,3 +1782,6 @@ addscript(10201298018,"Vampire Hunters 2 Remake [Gun grab, Outfit saver, Role es
                     
                     
 addscriptexist(2537430692, "JengaWinRemoveJengasRemoveKillBrick", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/JengaWinRemoveJengasRemoveKillBrick.lua")
+    
+addscript(6973274562,"Melee Mash Revenge! [Godmode, KillAll]", "MeleeMashRevengeGodmodeKillAll", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MeleeMashRevengeGodmodeKillAll.lua")
+                    
