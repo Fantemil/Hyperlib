@@ -8044,3 +8044,6 @@ addscriptexist(6902912928, "GETTOTHETOPAutoWin", "Terni", "https://raw.githubuse
     
 addscript(4695007916,"Weight Lifting Simulator 3 [Infinite Strength]", "WeightLiftingSimulator3InfiniteStrength", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/WeightLiftingSimulator3InfiniteStrength.lua")
                     
+    
+addscript(2877178664,"I Dont Feel So Oof [Auto Farm]", "IDontFeelSoOofAutoFarm", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/IDontFeelSoOofAutoFarm.lua")
+                    
