@@ -6965,3 +6965,5 @@ addscriptexist(1345139196, "TreasureHuntSimulatorAutoFarmChestsMore", "Terni", "
     
 addscript(6582467377,"Vanity [Aimbot]", "VanityAimbot", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/VanityAimbot.lua")
                     
+                    
+addscriptexist(9945521676, "Roblox–VoiceChatSPYV1Script", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Roblox–VoiceChatSPYV1Script.lua")
