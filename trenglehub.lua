@@ -6544,3 +6544,5 @@ addscriptexist(7993293100, "TsunamiGameAutoWinFarmDeathsMore", "Terni", "https:/
     
 addscript(8657732325,"World Sail [Auto Farm Enhance Level]", "WorldSailAutoFarmEnhanceLevel", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/WorldSailAutoFarmEnhanceLevel.lua")
                     
+                    
+addscriptexist(8657732325, "WorldSailBasicAutoFarm", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/WorldSailBasicAutoFarm.lua")
