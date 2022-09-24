@@ -1225,3 +1225,5 @@ addscript(10604409263,"Moscow, Soviet Union ", "MoscowSovietUnion100KEverySecond
 addscriptexist(9498006165, "TappingSimulatorAutoTapAutoRebirthBetterGtx", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TappingSimulatorAutoTapAutoRebirthBetterGtx.lua")
                     
 addscriptexist(6284583030, "PetSimulatorXAutoFarmAutoCollect", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PetSimulatorXAutoFarmAutoCollect.lua")
+                    
+addscriptexist(920587237, "AdoptMeGUIAutoFarmFunFunctions", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AdoptMeGUIAutoFarmFunFunctions.lua")
