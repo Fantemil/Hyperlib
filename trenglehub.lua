@@ -2617,3 +2617,6 @@ addscriptexist(8884334497, "MiningClickerSimulatorGUIAutoFarming", "Terni", "htt
 addscriptexist(9666226803, "MotelSimulatorInfiniteKitchenSupplies", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MotelSimulatorInfiniteKitchenSupplies.lua")
                     
 addscriptexist(6766156863, "StrongmanSimulatorAutoFarmEnergyMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/StrongmanSimulatorAutoFarmEnergyMore.lua")
+    
+addscript(5939428933,"Crewmates! (Among Us) [Remove Backpack & More!]", "CrewmatesAmongUsRemoveBackpackMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CrewmatesAmongUsRemoveBackpackMore.lua")
+                    
