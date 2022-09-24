@@ -1929,3 +1929,5 @@ addscript(10325366821,"OOF Tycoon! [AutoCollect OOFs]", "OOFTycoonAutoCollectOOF
 addscriptexist(7714627632, "WindsofFortuneAutoFarmFoodStoreEsp", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/WindsofFortuneAutoFarmFoodStoreEsp.lua")
                     
 addscriptexist(9551640993, "MiningSimulator2BloxAuraAutoHatch", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MiningSimulator2BloxAuraAutoHatch.lua")
+                    
+addscriptexist(2537430692, "JengaInstantWinWalkspeed", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/JengaInstantWinWalkspeed.lua")
