@@ -4693,3 +4693,5 @@ addscript(8613864463,"Muscle Legends [Auto Lifting, Claim All chests, Teleport]"
     
 addscript(969669348,"Black Magic II Phantoms Causatum [Kill All]", "BlackMagicIIPhantomsCausatumKillAll", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BlackMagicIIPhantomsCausatumKillAll.lua")
                     
+                    
+addscriptexist(5766084948, "SCPTheRedLakeInfiniteAmmo", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SCPTheRedLakeInfiniteAmmo.lua")
