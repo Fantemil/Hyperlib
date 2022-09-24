@@ -5579,3 +5579,5 @@ addscriptexist(370731277, "MeepCityGameDestroyer", "Terni", "https://raw.githubu
 addscriptexist(4996049426, "AllStarTowerDefenseGUIAutoJoinAutoEvolveMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AllStarTowerDefenseGUIAutoJoinAutoEvolveMore.lua")
                     
 addscriptexist(1224212277, "MadCityKillAura", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MadCityKillAura.lua")
+                    
+addscriptexist(4588604953, "CriminalityGunModsPlayersESPMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CriminalityGunModsPlayersESPMore.lua")
