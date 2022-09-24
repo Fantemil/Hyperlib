@@ -4030,3 +4030,5 @@ addscriptexist(8739839954, "JujutsuTycoonKillAllPlayers", "Terni", "https://raw.
 addscriptexist(9936860371, "EggPackingTycoonGUIAutoCollectEggsAutoPlaceEggs", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/EggPackingTycoonGUIAutoCollectEggsAutoPlaceEggs.lua")
                     
 addscriptexist(6284583030, "PetSimulatorXGUIAutoFarmAutoCollectAllMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PetSimulatorXGUIAutoFarmAutoCollectAllMore.lua")
+                    
+addscriptexist(70005410, "BloxHuntGodModeInfiniteEnergy", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BloxHuntGodModeInfiniteEnergy.lua")
