@@ -8240,3 +8240,6 @@ addscript(7663721179,"Crystal Valley Mining Simulator [Quest Giver, Auto Farm]",
                     
                     
 addscriptexist(6859865958, "YouTubeSimulatorAutoVidemadeAutoEditVideotp", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/YouTubeSimulatorAutoVidemadeAutoEditVideotp.lua")
+    
+addscript(6370195843,"Armed Disease Control [AUTO COLLECT PRESENTS]", "ArmedDiseaseControlAUTOCOLLECTPRESENTS", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ArmedDiseaseControlAUTOCOLLECTPRESENTS.lua")
+                    
