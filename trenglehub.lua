@@ -4107,3 +4107,6 @@ addscriptexist(7860844204, "LifeSentenceAutoFarmAutoCollectPointsMore", "Terni",
     
 addscript(9463737803,"WimbleWorld [Xp Farm - Badges & Get UGC Item]", "WimbleWorldXpFarmBadgesGetUGCItem", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/WimbleWorldXpFarmBadgesGetUGCItem.lua")
                     
+    
+addscript(740581508,"Entry Point [Npc Esp]", "EntryPointNpcEsp", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/EntryPointNpcEsp.lua")
+                    
