@@ -4410,3 +4410,6 @@ addscript(8185222973,"Stanton County, Westlake [Spawn Any Item]", "StantonCounty
 addscriptexist(6441847031, "CHAOSKillPLayer", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CHAOSKillPLayer.lua")
                     
 addscriptexist(6284583030, "PetSimulatorXCrashServer", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PetSimulatorXCrashServer.lua")
+    
+addscript(7839440834,"Sea Cleaning Simulator [Modify Boat Speed & More!]", "SeaCleaningSimulatorModifyBoatSpeedMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SeaCleaningSimulatorModifyBoatSpeedMore.lua")
+                    
