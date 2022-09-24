@@ -496,41 +496,4 @@ if game.PlaceId == 370731277 then
 end
 
 
-         
-    
-addscript(142823291,"Murder Mystery 2", "MurderMystery2FlyEspNoclip", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MurderMystery2FlyEspNoclip.lua")
-                    
-                    
-addscriptexist(2753915549, "BloxFruitsGUIAutoFarmFastAttackMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BloxFruitsGUIAutoFarmFastAttackMore.lua")
-    
-addscript(189707,"Natural Disaster Survival", "NaturalDisasterSurvivalSpeedChangerGravityJumppower", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NaturalDisasterSurvivalSpeedChangerGravityJumppower.lua")
-                    
-    
-addscript(10631181587,"Stone Miner Simulator 2", "StoneMinerSimulator2InfiniteRebirthTokensGems", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/StoneMinerSimulator2InfiniteRebirthTokensGems.lua")
-                    
-                    
-addscriptexist(2788229376, "DaHoodTitan", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DaHoodTitan.lua")
-    
-addscript(8447393333,"Chocolate Factory Simulator", "ChocolateFactorySimulatorInfiniteMoney", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ChocolateFactorySimulatorInfiniteMoney.lua")
-                    
-    
-addscript(7133467811,"Spin The Bottle", "SpinTheBottleInvincibility", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SpinTheBottleInvincibility.lua")
-                    
-    
-addscript(2533391464,"Snowman Simulator", "SnowmanSimulatorAutoFarmSnowAutoFarmPresentsMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SnowmanSimulatorAutoFarmSnowAutoFarmPresentsMore.lua")
-                    
-    
-addscript(17541193,"Pinewood Computer Core", "PinewoodComputerCoreTeleportToAreas", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PinewoodComputerCoreTeleportToAreas.lua")
-                    
-    
-addscript(7991339063,"Rainbow Friends", "RainbowFriendsReturnItemsFullbrightPlayerModifications", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RainbowFriendsReturnItemsFullbrightPlayerModifications.lua")
-                    
-    
-addscript(9662949425,"Punch a brick wall simulator", "PunchabrickwallsimulatorAutoSellAutoFarmAutoBuyRebriths", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PunchabrickwallsimulatorAutoSellAutoFarmAutoBuyRebriths.lua")
-                    
-    
-addscript(8203181639,"Syrian Shenanigans", "SyrianShenanigansFastFirerate", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SyrianShenanigansFastFirerate.lua")
-                    
-    
-addscript(5108997584,"Reason 2 Die", "Reason2DieTeleportsBuyanyitemFly", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Reason2DieTeleportsBuyanyitemFly.lua")
-                    
+                
