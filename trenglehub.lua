@@ -6876,3 +6876,6 @@ addscriptexist(8639059522, "MagnifyingSimulatorGUIAutoOpenBoxAutoCollectOrbsAuto
 addscriptexist(4111023553, "DEEPWOKENEnchantSniper", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DEEPWOKENEnchantSniper.lua")
                     
 addscriptexist(8811271345, "BalancedCraftwarsOverhaulGUIMobFarmOreFarmPlayersKill", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BalancedCraftwarsOverhaulGUIMobFarmOreFarmPlayersKill.lua")
+    
+addscript(6067142556,"Roblox [Fix Bug]", "RobloxFixBug", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RobloxFixBug.lua")
+                    
