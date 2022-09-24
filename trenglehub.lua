@@ -4095,3 +4095,5 @@ addscript(5315066937,"surf [SuperB Surf]", "surfSuperBSurf", "Qalnik", "https://
     
 addscript(3311740703,"Counter Blox", "CounterBloxModdedKillAllAimbotEsp", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CounterBloxModdedKillAllAimbotEsp.lua")
                     
+                    
+addscriptexist(6755746130, "FruitJuiceTycoonAutoFarm", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FruitJuiceTycoonAutoFarm.lua")
