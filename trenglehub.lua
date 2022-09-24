@@ -8165,3 +8165,5 @@ addscriptexist(4996049426, "AllStarTowerDefenseCandyFarmAutoChrismaseventQuickLe
 addscriptexist(306964494, "LoomianLegacyAutoFinder", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LoomianLegacyAutoFinder.lua")
                     
 addscriptexist(6284583030, "PetSimulatorXAutoFarmAutoOpenEggStatTacker", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PetSimulatorXAutoFarmAutoOpenEggStatTacker.lua")
+                    
+addscriptexist(648362523, "BreakingPointSilentAimRapidThrowKillaura", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BreakingPointSilentAimRapidThrowKillaura.lua")
