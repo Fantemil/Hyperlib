@@ -1288,3 +1288,6 @@ addscript(5602055394,"Hood Modded ", "HoodModdedSpinEspTp", "Qalnik", "https://r
     
 addscript(5987922834,"Transfur Outbreak! ", "TransfurOutbreakAimbotVisualsAutoRejoin", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TransfurOutbreakAimbotVisualsAutoRejoin.lua")
                     
+    
+addscript(9361614975,"My City Tycoon ", "MyCityTycoonAutoClickAutoObyClicker", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MyCityTycoonAutoClickAutoObyClicker.lua")
+                    
