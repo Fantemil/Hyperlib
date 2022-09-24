@@ -5391,3 +5391,5 @@ addscript(6429245608,"Blood Surge [Bypassed RP Name]", "BloodSurgeBypassedRPName
     
 addscript(9664185826,"Tate McRae Concert Experience [Collect All Coins - Infiniti Score & More!]", "TateMcRaeConcertExperienceCollectAllCoinsInfinitiScoreMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TateMcRaeConcertExperienceCollectAllCoinsInfinitiScoreMore.lua")
                     
+                    
+addscriptexist(9359839118, "GasStationSimulatorAutorefuelAutocashierAutoclean", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/GasStationSimulatorAutorefuelAutocashierAutoclean.lua")
