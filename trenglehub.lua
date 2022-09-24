@@ -5038,3 +5038,6 @@ addscript(5063122755,"Overlook RP [Auto Farm]", "OverlookRPAutoFarm", "Terni", "
                     
                     
 addscriptexist(9551640993, "MiningSimulator2ChestsFarmServerHop", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MiningSimulator2ChestsFarmServerHop.lua")
+    
+addscript(8581609150,"Bloxhub Mine Mania [Auto mine]", "BloxhubMineManiaAutomine", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BloxhubMineManiaAutomine.lua")
+                    
