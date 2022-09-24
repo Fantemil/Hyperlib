@@ -5485,3 +5485,5 @@ addscriptexist(4282985734, "CombatWarriorsCombatSpyModifiedRemoteSpy", "Terni", 
 addscriptexist(8278412720, "PrisonLifeRemasteredLocationTeleportationGUI", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PrisonLifeRemasteredLocationTeleportationGUI.lua")
                     
 addscriptexist(1923555882, "EastBricktonAutoFishing", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/EastBricktonAutoFishing.lua")
+                    
+addscriptexist(8260276694, "AbilityWarsStandAttackTimeFreezeTimeReset", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AbilityWarsStandAttackTimeFreezeTimeReset.lua")
