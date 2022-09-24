@@ -2829,3 +2829,6 @@ addscriptexist(6902912928, "GETTOTHETOPInfMoney", "Qalnik", "https://raw.githubu
     
 addscript(9871062639,"Flappy Duo [Infinite Score]", "FlappyDuoInfiniteScore", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FlappyDuoInfiniteScore.lua")
                     
+    
+addscript(5895971007,"Allusions [Anti Ragdoll]", "AllusionsAntiRagdoll", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AllusionsAntiRagdoll.lua")
+                    
