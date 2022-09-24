@@ -7884,3 +7884,5 @@ addscriptexist(6843905606, "CriticalLegendsGodModeAutoTpGui", "rbxscript", "http
 addscriptexist(6843905606, "CriticalLegendsBlackMarkerHop", "rbxscript", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CriticalLegendsBlackMarkerHop.lua")
                     
 addscriptexist(3233893879, "BadBusiness254GrenadeTPKill", "rbxscript", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BadBusiness254GrenadeTPKill.lua")
+                    
+addscriptexist(8054462345, "MichaelsZombiesKillAutraGunModsZombiesEsp", "rbxscript", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MichaelsZombiesKillAutraGunModsZombiesEsp.lua")
