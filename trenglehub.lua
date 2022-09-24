@@ -8250,3 +8250,5 @@ addscript(8170900938,"Right 2 Fight V0.1.1 [Damage Multiplier]", "Right2FightV01
                     
                     
 addscriptexist(7663721179, "CrystalValleyMiningSimulatorAutoFarmAutoCollectTpQuest", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CrystalValleyMiningSimulatorAutoFarmAutoCollectTpQuest.lua")
+                    
+addscriptexist(6284583030, "PetSimulatorXx3SpeedHoverBoard", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PetSimulatorXx3SpeedHoverBoard.lua")
