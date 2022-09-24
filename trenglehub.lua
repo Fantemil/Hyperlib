@@ -5795,3 +5795,6 @@ addscriptexist(7952526341, "Roblox–SimpleDrawingBoxEsp", "Terni", "https://raw
     
 addscript(8689522513,"The Streets Prison [Anti Cheat Bypass]", "TheStreetsPrisonAntiCheatBypass", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TheStreetsPrisonAntiCheatBypass.lua")
                     
+    
+addscript(9398326379,"Raise a Bingus [Auto Farm Money]", "RaiseaBingusAutoFarmMoney", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RaiseaBingusAutoFarmMoney.lua")
+                    
