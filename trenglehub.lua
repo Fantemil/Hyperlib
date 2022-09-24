@@ -3522,3 +3522,5 @@ addscript(8977044503,"LEGACY ENGINE [7 Games]", "LEGACYENGINE7Games", "Terni", "
 addscriptexist(5956785391, "ProjectSlayersGUIAutoQuestInvisibleMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ProjectSlayersGUIAutoQuestInvisibleMore.lua")
                     
 addscriptexist(5956785391, "ProjectSlayersTeleporttoPlayer", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ProjectSlayersTeleporttoPlayer.lua")
+                    
+addscriptexist(5956785391, "ProjectSlayersTeleporttoBosses", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ProjectSlayersTeleporttoBosses.lua")
