@@ -6644,3 +6644,6 @@ addscript(6801661790,"Roblox [Future Client]", "RobloxFutureClient", "Qalnik", "
 addscriptexist(5872075530, "AnarchyEspTeleportsUnlockRadio", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AnarchyEspTeleportsUnlockRadio.lua")
                     
 addscriptexist(2512643572, "BubbleGumSimulatorAutoBubblesAutoSellinfitejump", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BubbleGumSimulatorAutoBubblesAutoSellinfitejump.lua")
+    
+addscript(3759927663,"Zombie Strike [inf Ammo, God Mode]", "ZombieStrikeinfAmmoGodMode", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ZombieStrikeinfAmmoGodMode.lua")
+                    
