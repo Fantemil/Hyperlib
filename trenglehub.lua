@@ -7304,3 +7304,5 @@ addscriptexist(8592863835, "MagnetSimulator2AutoFarmAutoAttackAutoSell", "Qalnik
 addscriptexist(3623096087, "MuscleLegendsAutoLiftLegendsGymAntiAFK", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MuscleLegendsAutoLiftLegendsGymAntiAFK.lua")
                     
 addscriptexist(7453798168, "YouTubeSimulatorXAutoFarmAutoClickAutoCollectGems", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/YouTubeSimulatorXAutoFarmAutoClickAutoCollectGems.lua")
+                    
+addscriptexist(2727067538, "WorldZeroKillAuraAutoSellDropsMagnet", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/WorldZeroKillAuraAutoSellDropsMagnet.lua")
