@@ -3531,3 +3531,6 @@ addscript(8473958692,"The Trials [PHASE 2] [Overpowered GUI]", "TheTrialsPHASE2O
                     
                     
 addscriptexist(7419509075, "cartridearoundusedcarbattery", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/cartridearoundusedcarbattery.lua")
+    
+addscript(7336302630,"Project Delta [Teleport Bypass]", "ProjectDeltaTeleportBypass", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ProjectDeltaTeleportBypass.lua")
+                    
