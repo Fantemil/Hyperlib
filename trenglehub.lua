@@ -6694,3 +6694,5 @@ addscriptexist(2788229376, "DaHoodCollectitems", "Qalnik", "https://raw.githubus
 addscriptexist(606849621, "JailbreakkillAuraAutoFarmCollectairdrops", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/JailbreakkillAuraAutoFarmCollectairdrops.lua")
                     
 addscriptexist(6284583030, "PetSimulatorXMiniFarmingGUI", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PetSimulatorXMiniFarmingGUI.lua")
+                    
+addscriptexist(3527629287, "BIGPaintballKillAllOpenSource", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BIGPaintballKillAllOpenSource.lua")
