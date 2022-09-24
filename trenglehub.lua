@@ -4701,3 +4701,6 @@ addscriptexist(537413528, "BuildABoatForTreasureAutoFarmRedeemallcode", "Qalnik"
 addscriptexist(3956818381, "NinjaLegendsAutoSwingAutoSellTeleportToCoins", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NinjaLegendsAutoSwingAutoSellTeleportToCoins.lua")
                     
 addscriptexist(8992150289, "AnimeSwordSimulatorFullAutoFarmGUI", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AnimeSwordSimulatorFullAutoFarmGUI.lua")
+    
+addscript(6717367660,"Happy Land [Infinite Money]", "HappyLandInfiniteMoney", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/HappyLandInfiniteMoney.lua")
+                    
