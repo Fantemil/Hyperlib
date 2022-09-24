@@ -1935,3 +1935,5 @@ addscriptexist(2537430692, "JengaInstantWinWalkspeed", "astrofile", "https://raw
 addscriptexist(8963721566, "TheBackroomsInfStamina", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TheBackroomsInfStamina.lua")
                     
 addscriptexist(9872472334, "EvadeFreeGamepasses", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/EvadeFreeGamepasses.lua")
+                    
+addscriptexist(142823291, "MurderMystery2AutoFarmGodmode", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MurderMystery2AutoFarmGodmode.lua")
