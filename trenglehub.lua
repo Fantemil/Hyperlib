@@ -3206,3 +3206,6 @@ addscriptexist(6284583030, "PetSimulatorXAutoFarm", "Terni", "https://raw.github
     
 addscript(9129288160,"Tommy Play [Collect All Tokens]", "TommyPlayCollectAllTokens", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TommyPlayCollectAllTokens.lua")
                     
+    
+addscript(9702206679,"Heroes Daydream [Auto Farm V2]", "HeroesDaydreamAutoFarmV2", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/HeroesDaydreamAutoFarmV2.lua")
+                    
