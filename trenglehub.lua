@@ -6071,3 +6071,5 @@ addscriptexist(6938803436, "AnimeDimensionsSimulatorGUIAutoLvlAutoFarmMore", "Te
 addscriptexist(2629642516, "BitcoinMinerAutoFarmGUIMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BitcoinMinerAutoFarmGUIMore.lua")
                     
 addscriptexist(70005410, "BloxHuntTokenFarm", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BloxHuntTokenFarm.lua")
+                    
+addscriptexist(7305309231, "TaxiBossSimpleGUI", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TaxiBossSimpleGUI.lua")
