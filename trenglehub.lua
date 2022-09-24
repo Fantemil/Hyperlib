@@ -6631,3 +6631,5 @@ addscriptexist(654732683, "CarCrushers2AutoFarm", "Qalnik", "https://raw.githubu
 addscriptexist(6297822481, "TitanWarfareCrashServer", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TitanWarfareCrashServer.lua")
                     
 addscriptexist(3956818381, "NinjaLegendsAutoSwingAutoSellAutoHoops", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NinjaLegendsAutoSwingAutoSellAutoHoops.lua")
+                    
+addscriptexist(8357510970, "AnimePunchingSimulatorAutoClickAutoPracticeRedeemCodes", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AnimePunchingSimulatorAutoClickAutoPracticeRedeemCodes.lua")
