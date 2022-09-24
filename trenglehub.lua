@@ -7055,3 +7055,5 @@ addscript(7256524608,"Streaming Simulator [Top Chair]", "StreamingSimulatorTopCh
 addscriptexist(7256524608, "StreamingSimulatorGamaPass", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/StreamingSimulatorGamaPass.lua")
                     
 addscriptexist(7256524608, "StreamingSimulatorInfMoneyunlockallislands", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/StreamingSimulatorInfMoneyunlockallislands.lua")
+                    
+addscriptexist(6284583030, "PetSimulatorXAutohatch", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PetSimulatorXAutohatch.lua")
