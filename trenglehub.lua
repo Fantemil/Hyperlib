@@ -5464,3 +5464,5 @@ addscript(8589310348,"Glory Kill Testing [Gamepass Tools]", "GloryKillTestingGam
                     
                     
 addscriptexist(6284583030, "PetSimulatorXDeltaHUBCreckedGUI", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PetSimulatorXDeltaHUBCreckedGUI.lua")
+                    
+addscriptexist(4058282580, "BoxingSimulatorAutoFarmAutoSellMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BoxingSimulatorAutoFarmAutoSellMore.lua")
