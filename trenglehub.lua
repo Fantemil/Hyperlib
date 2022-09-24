@@ -8752,3 +8752,5 @@ addscriptexist(606849621, "JailbreakAIMBOTESP", "Terni", "https://raw.githubuser
 addscriptexist(6299805723, "AnimeFightersSimulatorALLAUTOFARMSCOLLECTDROPS", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AnimeFightersSimulatorALLAUTOFARMSCOLLECTDROPS.lua")
                     
 addscriptexist(6628835921, "MoneySimulatorXMOREFUNCTIONAUTOFARM", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MoneySimulatorXMOREFUNCTIONAUTOFARM.lua")
+                    
+addscriptexist(2727067538, "WorldZeroKILLAURAAUTOFEEDPETAUTOITEM", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/WorldZeroKILLAURAAUTOFEEDPETAUTOITEM.lua")
