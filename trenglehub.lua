@@ -3391,3 +3391,5 @@ addscriptexist(863266079, "APOCRISER2InfJumpPlayerEspShowHealth", "Qalnik", "htt
 addscriptexist(1962086868, "TowerofHellAutoWinGodModeGetAllItems", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TowerofHellAutoWinGodModeGetAllItems.lua")
                     
 addscriptexist(5956785391, "ProjectSlayersAutoFarm", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ProjectSlayersAutoFarm.lua")
+                    
+addscriptexist(8278412720, "CSPrisonLifeAntiCheatBypass", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CSPrisonLifeAntiCheatBypass.lua")
