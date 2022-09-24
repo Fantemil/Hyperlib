@@ -6840,3 +6840,6 @@ addscript(5171093784,"Don’t Press The Button 4 [Auto Win – Auto Press – Au
     
 addscript(1282541750,"Would You Rather 2 [Coins Farm]", "WouldYouRather2CoinsFarm", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/WouldYouRather2CoinsFarm.lua")
                     
+    
+addscript(8479386309,"Egg Hunt 2022 Lost in Time [Collect All Coins & More!]", "EggHunt2022LostinTimeCollectAllCoinsMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/EggHunt2022LostinTimeCollectAllCoinsMore.lua")
+                    
