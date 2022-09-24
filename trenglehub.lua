@@ -1566,3 +1566,6 @@ addscript(7047488135,"Speed Run Simulator [AutoClick, Win Race]", "SpeedRunSimul
                     
                     
 addscriptexist(2788229376, "DaHoodAimlockSilentAim", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DaHoodAimlockSilentAim.lua")
+    
+addscript(854034641110,"Rebirth Champions X [AutoSpin, AutoCraft]", "RebirthChampionsXAutoSpinAutoCraft", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RebirthChampionsXAutoSpinAutoCraft.lua")
+                    
