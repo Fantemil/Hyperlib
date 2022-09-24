@@ -1621,3 +1621,5 @@ addscript(107058862601,"Strucid [Anti-Cheat Bypass]", "StrucidAntiCheatBypass", 
     
 addscript(6778844213,"Euphoria ragdoll testing [Donation Gui]", "EuphoriaragdolltestingDonationGui", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/EuphoriaragdolltestingDonationGui.lua")
                     
+                    
+addscriptexist(3351674303, "DrivingEmpire", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DrivingEmpire.lua")
