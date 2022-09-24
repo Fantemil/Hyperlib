@@ -8523,3 +8523,6 @@ addscript(3082002798,"Teen Titans Battlegrounds [Loop Kill All Players]", "TeenT
     
 addscript(5834211079,"City - 8 [No Jump Delay]", "City8NoJumpDelay", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/City8NoJumpDelay.lua")
                     
+    
+addscript(5926001758,"Color Block [Auto Win, Farm Pumpkins, Auto Buy Pets]", "ColorBlockAutoWinFarmPumpkinsAutoBuyPets", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ColorBlockAutoWinFarmPumpkinsAutoBuyPets.lua")
+                    
