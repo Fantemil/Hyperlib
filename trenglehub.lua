@@ -5253,3 +5253,5 @@ addscript(9065768804,"War Simulator [Kill All]", "WarSimulatorKillAll", "Qalnik"
                     
                     
 addscriptexist(9438506890, "raiseasoggaMoneyGiver", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/raiseasoggaMoneyGiver.lua")
+                    
+addscriptexist(9508087919, "ApeirophobiaEntityESP", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ApeirophobiaEntityESP.lua")
