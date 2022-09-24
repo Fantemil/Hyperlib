@@ -3647,3 +3647,5 @@ addscriptexist(9903808883, "BuildaMarketTycoonFastNPCS", "Qalnik", "https://raw.
     
 addscript(4598019433,"generic roleplay gaem [GUI - Auto Farm]", "genericroleplaygaemGUIAutoFarm", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/genericroleplaygaemGUIAutoFarm.lua")
                     
+                    
+addscriptexist(863266079, "ApocalypseRising2AntiZombieFreeze", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ApocalypseRising2AntiZombieFreeze.lua")
