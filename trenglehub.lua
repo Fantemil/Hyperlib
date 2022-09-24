@@ -8087,3 +8087,5 @@ addscript(6305942109,"Laundry Simulator [Auto Farm, All Gamepass]", "LaundrySimu
 addscriptexist(6442957604, "DarkDexv3CustomIcons", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DarkDexv3CustomIcons.lua")
                     
 addscriptexist(6407649031, "NOSCOPEARCADESilentAimOpenSourse", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NOSCOPEARCADESilentAimOpenSourse.lua")
+                    
+addscriptexist(3101667897, "LegendsOfSpeedAutoFarmHoopsRebirth", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LegendsOfSpeedAutoFarmHoopsRebirth.lua")
