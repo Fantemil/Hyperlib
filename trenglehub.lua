@@ -6815,3 +6815,6 @@ addscript(8950979693,"Anime Rebirth Simulator [Auto Click, Auto Attack Npc, Suto
                     
                     
 addscriptexist(8377686524, "UndertaleLastResetTpEvent", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/UndertaleLastResetTpEvent.lua")
+    
+addscript(34623863,"Roblox [WalkSpeed]", "RobloxWalkSpeed", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RobloxWalkSpeed.lua")
+                    
