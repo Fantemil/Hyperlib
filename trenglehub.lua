@@ -1589,3 +1589,5 @@ addscriptexist(9872472334, "EvadeQuickReviveShowChatAutofarm", "Qalnik", "https:
     
 addscript(6609611538,"Mechanica [Lag Server]", "MechanicaLagServer", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MechanicaLagServer.lua")
                     
+                    
+addscriptexist(286090429, "ArsenalKillAuraAimBotTeamCheck", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ArsenalKillAuraAimBotTeamCheck.lua")
