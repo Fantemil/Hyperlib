@@ -6919,3 +6919,5 @@ addscriptexist(6808416928, "DDAYAimbotESPMore", "Terni", "https://raw.githubuser
 addscriptexist(292439477, "PhantomForcesSnipeHead", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PhantomForcesSnipeHead.lua")
                     
 addscriptexist(6125809531, "UntitledAttackOnTitanAutoFArmKillAuraInfGas", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/UntitledAttackOnTitanAutoFArmKillAuraInfGas.lua")
+                    
+addscriptexist(6284583030, "PetSimulatorXAutoEnchant", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PetSimulatorXAutoEnchant.lua")
