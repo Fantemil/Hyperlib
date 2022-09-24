@@ -7934,3 +7934,5 @@ addscript(7057761396,"Epic Fidget Hunt [All Fidgets]", "EpicFidgetHuntAllFidgets
 addscriptexist(7057761396, "EpicFidgetHuntPopsFarm", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/EpicFidgetHuntPopsFarm.lua")
                     
 addscriptexist(662417684, "LUCKYBLOCKSAllTools", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LUCKYBLOCKSAllTools.lua")
+                    
+addscriptexist(6356806222, "LagTest2021NoLag", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LagTest2021NoLag.lua")
