@@ -3020,3 +3020,5 @@ addscriptexist(9845465117, "AUReborn1v1AutoFarm", "Qalnik", "https://raw.githubu
     
 addscript(6584731191,"Ragdoll Engine [FE Fling All Players]", "RagdollEngineFEFlingAllPlayers", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RagdollEngineFEFlingAllPlayers.lua")
                     
+                    
+addscriptexist(10192063645, "ThyHoodFly", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ThyHoodFly.lua")
