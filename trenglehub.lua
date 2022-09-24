@@ -2341,3 +2341,5 @@ addscriptexist(10347946161, "RatWashingTycoonAutoObbyAutoWash", "astrofile", "ht
     
 addscript(9611809130,"Crazy Party RPG [AutoFarm]", "CrazyPartyRPGAutoFarm", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CrazyPartyRPGAutoFarm.lua")
                     
+                    
+addscriptexist(6407649031, "NOSCOPEARCADEAimbotEsp", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NOSCOPEARCADEAimbotEsp.lua")
