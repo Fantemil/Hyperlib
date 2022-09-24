@@ -6786,3 +6786,6 @@ addscriptexist(7800644383, "UntitledHoodAntiCheatBypass", "Qalnik", "https://raw
     
 addscript(340809482,"Limited Simulator [Crash All, Auto Sell, Auto Buy]", "LimitedSimulatorCrashAllAutoSellAutoBuy", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LimitedSimulatorCrashAllAutoSellAutoBuy.lua")
                     
+    
+addscript(6558291063,"Would You Rather 2 [Auto Farm Coins – Vip Room & More]", "WouldYouRather2AutoFarmCoins–VipRoomMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/WouldYouRather2AutoFarmCoins–VipRoomMore.lua")
+                    
