@@ -3107,3 +3107,6 @@ addscriptexist(5777099015, "CheeseEscapeAutoCollectCheeseGetAllKeysPressAllbutto
     
 addscript(6242296404,"Happy Runner [Auto Finish]", "HappyRunnerAutoFinish", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/HappyRunnerAutoFinish.lua")
                     
+    
+addscript(7503115095,"Pop It Trading [Scam script]", "PopItTradingScamscript", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PopItTradingScamscript.lua")
+                    
