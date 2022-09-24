@@ -1715,3 +1715,6 @@ addscript(9862161924,"glass game [Show Fake Glass]", "glassgameShowFakeGlass", "
     
 addscript(5326405001,"Base Battles (Fixed) [Silent Aim, Esp]", "BaseBattlesFixedSilentAimEsp", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BaseBattlesFixedSilentAimEsp.lua")
                     
+    
+addscript(6452292184,"Speed Runner! [AutoFarm]", "SpeedRunnerAutoFarm", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SpeedRunnerAutoFarm.lua")
+                    
