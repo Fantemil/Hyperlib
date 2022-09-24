@@ -1,0 +1,1 @@
+oadstring(game:HttpGet("https://raw.githubusercontent.com/dontbanimtoocool/v3rmscripts/main/erlc/infammo"))()
