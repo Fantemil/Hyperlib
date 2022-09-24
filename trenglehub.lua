@@ -2151,3 +2151,6 @@ addscript(9961650006,"Shockwave Racing [Auto Win]", "ShockwaveRacingAutoWin", "Q
                     
                     
 addscriptexist(5780309044, "StandsAwakeningAutofarmstandsInstantlychangestands", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/StandsAwakeningAutofarmstandsInstantlychangestands.lua")
+    
+addscript(3432786397,"Pet Mining Simulator [Btools, Kill]", "PetMiningSimulatorBtoolsKill", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PetMiningSimulatorBtoolsKill.lua")
+                    
