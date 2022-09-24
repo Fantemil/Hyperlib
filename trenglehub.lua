@@ -5792,3 +5792,6 @@ addscript(8396586868,"A 0ne Piece Game [Fruit Farm]", "A0nePieceGameFruitFarm", 
                     
                     
 addscriptexist(7952526341, "Roblox–SimpleDrawingBoxEsp", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Roblox–SimpleDrawingBoxEsp.lua")
+    
+addscript(8689522513,"The Streets Prison [Anti Cheat Bypass]", "TheStreetsPrisonAntiCheatBypass", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TheStreetsPrisonAntiCheatBypass.lua")
+                    
