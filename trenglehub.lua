@@ -3234,3 +3234,5 @@ addscript(10057963710,"George Ezra’s Gold Rush Kid Experience [Collect All Puz
     
 addscript(30869879,"Stop it, Slender! [Free Premium Lootboxes]", "StopitSlenderFreePremiumLootboxes", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/StopitSlenderFreePremiumLootboxes.lua")
                     
+                    
+addscriptexist(10192063645, "ThyHoodSemiGodMode", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ThyHoodSemiGodMode.lua")
