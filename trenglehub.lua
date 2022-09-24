@@ -5693,3 +5693,5 @@ addscript(6905769625,"Rooftop Basketball [Silent AIM]", "RooftopBasketballSilent
                     
                     
 addscriptexist(9461798258, "RaiseaGrannyInfcookies", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RaiseaGrannyInfcookies.lua")
+                    
+addscriptexist(9461798258, "RaiseaGrannyInfCash", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RaiseaGrannyInfCash.lua")
