@@ -8599,3 +8599,5 @@ addscriptexist(413424176, "CloneTycoon2SetEveryoneOnLeaderboardToAnyNumberYouWan
 addscriptexist(292439477, "PhantomForcesAutoFarm", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PhantomForcesAutoFarm.lua")
                     
 addscriptexist(735030788, "RoyaleHighLevelFarming", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RoyaleHighLevelFarming.lua")
+                    
+addscriptexist(5984870779, "GARENAFREEFIREAutoSpamKillInstaKillKillAll", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/GARENAFREEFIREAutoSpamKillInstaKillKillAll.lua")
