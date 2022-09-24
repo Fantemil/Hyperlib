@@ -2085,3 +2085,6 @@ addscriptexist(277751860, "EpicAntiCheatBypass", "astrofile", "https://raw.githu
 addscriptexist(6516141723, "DOORSWardrobeEspEventNotifiers", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DOORSWardrobeEspEventNotifiers.lua")
                     
 addscriptexist(9872472334, "EvadeFreeRespawn", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/EvadeFreeRespawn.lua")
+    
+addscript(5766084948,"SCP", "SCPTheRedLakeEspSilentAim", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SCPTheRedLakeEspSilentAim.lua")
+                    
