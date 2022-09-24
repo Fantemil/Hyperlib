@@ -3584,3 +3584,5 @@ addscriptexist(9551640993, "MiningSimulator2PetGuesser", "Terni", "https://raw.g
     
 addscript(2043040358,"Vyyrahk City [Auto Farm GUI - Inf Stamina & More!]", "VyyrahkCityAutoFarmGUIInfStaminaMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/VyyrahkCityAutoFarmGUIInfStaminaMore.lua")
                     
+                    
+addscriptexist(4036494886, "GunSimulatorInfiniteAmmoInfiniteStarsMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/GunSimulatorInfiniteAmmoInfiniteStarsMore.lua")
