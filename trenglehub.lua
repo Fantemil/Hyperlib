@@ -4078,3 +4078,5 @@ addscriptexist(7480222488, "RobloxESP", "Terni", "https://raw.githubusercontent.
     
 addscript(9711302332,"Clkicker Heroes [Auto Tap - Auto Evolve And More!]", "ClkickerHeroesAutoTapAutoEvolveAndMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ClkickerHeroesAutoTapAutoEvolveAndMore.lua")
                     
+                    
+addscriptexist(2043040358, "VyyrahkCityMoney", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/VyyrahkCityMoney.lua")
