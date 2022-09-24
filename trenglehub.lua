@@ -2303,3 +2303,6 @@ addscript(417267366,"Dollhouse Roleplay [Adm Cmds]", "DollhouseRoleplayAdmCmds",
                     
                     
 addscriptexist(286090429, "ArsenalSilentAimKillAll", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ArsenalSilentAimKillAll.lua")
+    
+addscript(13822889,"Lumber Tycoon 2 [Walkspeed, AutoBuy]", "LumberTycoon2WalkspeedAutoBuy", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LumberTycoon2WalkspeedAutoBuy.lua")
+                    
