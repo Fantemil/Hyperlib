@@ -6041,3 +6041,5 @@ addscriptexist(6589412525, "RailFrenzyBreakEverythingGUI", "Terni", "https://raw
     
 addscript(9423668629,"Find the Teddies [Find All Teddies]", "FindtheTeddiesFindAllTeddies", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FindtheTeddiesFindAllTeddies.lua")
                     
+                    
+addscriptexist(185655149, "BloxburgGUIFarmAnyJob", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BloxburgGUIFarmAnyJob.lua")
