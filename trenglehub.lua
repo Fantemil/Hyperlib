@@ -4859,3 +4859,5 @@ addscriptexist(9551640993, "MiningSimulator2AutoMineAutoRebirthMore", "Terni", "
     
 addscript(1365404657,"Feather Family [Change your name into Anything]", "FeatherFamilyChangeyournameintoAnything", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FeatherFamilyChangeyournameintoAnything.lua")
                     
+                    
+addscriptexist(659222129, "Swordburst2AutoFarmKillAura", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Swordburst2AutoFarmKillAura.lua")
