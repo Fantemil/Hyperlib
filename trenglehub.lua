@@ -5185,3 +5185,6 @@ addscript(7444263453,"Jetpack Jumpers [GUI - Auto Farm, Reedem Codes]", "Jetpack
     
 addscript(680750021,"Case Clicker [GUI - Auto Farm, Auto Upgrade]", "CaseClickerGUIAutoFarmAutoUpgrade", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CaseClickerGUIAutoFarmAutoUpgrade.lua")
                     
+    
+addscript(8524876576,"Glider Simulator [Auto Collect Coins]", "GliderSimulatorAutoCollectCoins", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/GliderSimulatorAutoCollectCoins.lua")
+                    
