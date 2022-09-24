@@ -8748,3 +8748,5 @@ addscriptexist(142823291, "MurderMystery2ESPEMOTESTROLL", "Terni", "https://raw.
 addscriptexist(3823781113, "SaberSimulatorNEWGUIAutoFarmAutoBuyAutoSell", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SaberSimulatorNEWGUIAutoFarmAutoBuyAutoSell.lua")
                     
 addscriptexist(606849621, "JailbreakAIMBOTESP", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/JailbreakAIMBOTESP.lua")
+                    
+addscriptexist(6299805723, "AnimeFightersSimulatorALLAUTOFARMSCOLLECTDROPS", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AnimeFightersSimulatorALLAUTOFARMSCOLLECTDROPS.lua")
