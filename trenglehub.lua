@@ -7867,3 +7867,6 @@ addscriptexist(6769764667, "FactorySimulatorAutoAfkAutoHarvestAutoSell", "rbxscr
 addscriptexist(7993293100, "TsunamiGameAutoFarmPoints", "rbxscript", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TsunamiGameAutoFarmPoints.lua")
                     
 addscriptexist(4855457388, "DemonfallFrostOniFarmFlyMore", "rbxscript", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DemonfallFrostOniFarmFlyMore.lua")
+    
+addscript(86322978,"Ultimate Random Night 0.9.3 [God Guard / UnGod]", "UltimateRandomNight093GodGuardUnGod", "rbxscript", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/UltimateRandomNight093GodGuardUnGod.lua")
+                    
