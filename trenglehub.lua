@@ -1424,3 +1424,6 @@ addscriptexist(6229116934, "HoopzBallEspAimbot", "astrofile", "https://raw.githu
 addscriptexist(1428232912, "MurderMystery2FlyEspNoclip", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MurderMystery2FlyEspNoclip.lua")
                     
 addscriptexist(2753915549, "BloxFruitsGUIAutoFarmFastAttackMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BloxFruitsGUIAutoFarmFastAttackMore.lua")
+    
+addscript(189707,"Natural Disaster Survival", "NaturalDisasterSurvivalSpeedChangerGravityJumppower", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NaturalDisasterSurvivalSpeedChangerGravityJumppower.lua")
+                    
