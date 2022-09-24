@@ -3877,3 +3877,6 @@ addscript(9936860371,"Egg Packing Tycoon [Semi Autofarm]", "EggPackingTycoonSemi
                     
                     
 addscriptexist(1730877806, "GrandPieceOnlineBountyEsp", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/GrandPieceOnlineBountyEsp.lua")
+    
+addscript(9396463375,"Mining Empire [Infinite Vouchers]", "MiningEmpireInfiniteVouchers", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MiningEmpireInfiniteVouchers.lua")
+                    
