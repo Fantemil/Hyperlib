@@ -2856,3 +2856,6 @@ addscriptexist(9579974235, "FindTheFloppaMorphsGetAllFloppas", "Terni", "https:/
     
 addscript(1299054666,"Fallen 2018 [GUI - The best]", "Fallen2018GUIThebest", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Fallen2018GUIThebest.lua")
                     
+    
+addscript(9157605735,"MiscGunTest:X [Infinite Money & More GUI!]", "MiscGunTestXInfiniteMoneyMoreGUI", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MiscGunTestXInfiniteMoneyMoreGUI.lua")
+                    
