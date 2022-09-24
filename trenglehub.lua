@@ -954,3 +954,5 @@ addscriptexist(1962086868, "TowerOfHellRemoveAnticheatRemoveFogGiveallitems", "a
     
 addscript(8884433153,"Collect All Pets! ", "CollectAllPetsAutoFarmAutoCollectAutoClaimRewards", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CollectAllPetsAutoFarmAutoCollectAutoClaimRewards.lua")
                     
+                    
+addscriptexist(9992339729, "LongestAnswerWinsUnlimitedBlocks", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LongestAnswerWinsUnlimitedBlocks.lua")
