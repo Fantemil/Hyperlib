@@ -5095,3 +5095,6 @@ addscript(6897226634,"Timber [Tree Aura]", "TimberTreeAura", "Terni", "https://r
                     
                     
 addscriptexist(488667523, "ThoseWhoRemainKillAll", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ThoseWhoRemainKillAll.lua")
+    
+addscript(5918187182,"Build A Gamiing PC Store [Infinite Cash]", "BuildAGamiingPCStoreInfiniteCash", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BuildAGamiingPCStoreInfiniteCash.lua")
+                    
