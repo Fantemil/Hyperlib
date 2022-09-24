@@ -5532,3 +5532,5 @@ addscriptexist(6284583030, "PetSimulatorXNewFarmingGUI", "Terni", "https://raw.g
 addscriptexist(2248408710, "DestructionSimulatorInfiniteMoneyMaxLevelMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DestructionSimulatorInfiniteMoneyMaxLevelMore.lua")
                     
 addscriptexist(920587237, "AdoptMeAutoFarmAutoBabyMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AdoptMeAutoFarmAutoBabyMore.lua")
+                    
+addscriptexist(286090429, "ArsenalGUIAimbotAntiAimESP", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ArsenalGUIAimbotAntiAimESP.lua")
