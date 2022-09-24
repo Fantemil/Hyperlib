@@ -7740,3 +7740,6 @@ addscriptexist(205224386, "HideandSeekExtremeFindAllPlayersGrabCoinsEsp", "Qalni
     
 addscript(7143997817,"Simple Piece [Auto Farm – Kill Aura & More!]", "SimplePieceAutoFarm–KillAuraMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SimplePieceAutoFarm–KillAuraMore.lua")
                     
+    
+addscript(8000744340,"l v s t [Get A Sword]", "lvstGetASword", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/lvstGetASword.lua")
+                    
