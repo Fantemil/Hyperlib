@@ -2627,3 +2627,5 @@ addscriptexist(9285238704, "RaceClickerAutoclick", "astrofile", "https://raw.git
     
 addscript(510444657,"Criminal Vs Swat [Inf Health]", "CriminalVsSwatInfHealth", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CriminalVsSwatInfHealth.lua")
                     
+                    
+addscriptexist(7991339063, "RainbowFriends", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RainbowFriends.lua")
