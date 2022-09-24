@@ -6747,3 +6747,5 @@ addscript(6821114498,"Demon Slayer", "DemonSlayerFinalConquestGiveweaponsGivebre
 addscriptexist(6737970321, "LivetopiaKickPlayerRagdollplayerHeadAmongUs", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LivetopiaKickPlayerRagdollplayerHeadAmongUs.lua")
                     
 addscriptexist(735030788, "RoyaleHighGemFarm", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RoyaleHighGemFarm.lua")
+                    
+addscriptexist(8396586868, "A0nepiecegameDupe", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/A0nepiecegameDupe.lua")
