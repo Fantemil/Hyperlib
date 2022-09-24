@@ -4843,3 +4843,6 @@ addscriptexist(9598746251, "HomeRunSimulatorInfMoneyInfGems", "Qalnik", "https:/
 addscriptexist(6808416928, "AimbloxBETASilentAIM", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AimbloxBETASilentAIM.lua")
                     
 addscriptexist(9737855826, "TradeSimulatorAutoBuyerItemSniper", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TradeSimulatorAutoBuyerItemSniper.lua")
+    
+addscript(5927697884,"Orange Colored Skies [Gun Mod]", "OrangeColoredSkiesGunMod", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OrangeColoredSkiesGunMod.lua")
+                    
