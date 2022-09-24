@@ -6654,3 +6654,6 @@ addscript(4246487209,"Boss Fighting Simulator [Auto Power, Auto Sell, Boss Auto 
                     
                     
 addscriptexist(8592863835, "MagnetSimulator2TeleportCoinsToYouAutoSellAntiAfk", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MagnetSimulator2TeleportCoinsToYouAutoSellAntiAfk.lua")
+    
+addscript(1401417393,"Ragdoll System Test [WalkSpeed, Punch Aura, Anti Ban]", "RagdollSystemTestWalkSpeedPunchAuraAntiBan", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RagdollSystemTestWalkSpeedPunchAuraAntiBan.lua")
+                    
