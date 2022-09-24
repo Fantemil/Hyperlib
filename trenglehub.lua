@@ -3038,3 +3038,6 @@ addscriptexist(4639625707, "OilWarfareTycoonEspAimbot", "Terni", "https://raw.gi
 addscriptexist(4855457388, "Demonfall40GodMode", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Demonfall40GodMode.lua")
                     
 addscriptexist(6512923934, "RobloxCtrlclicktp", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RobloxCtrlclicktp.lua")
+    
+addscript(4556148591,"Blackout [GUI - Get Any Weapon Free]", "BlackoutGUIGetAnyWeaponFree", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BlackoutGUIGetAnyWeaponFree.lua")
+                    
