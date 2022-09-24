@@ -7797,3 +7797,5 @@ addscriptexist(8380203210, "ObliterationOrbsRemoveHarmful", "Qalnik", "https://r
 addscriptexist(1962086868, "TowerofHellGUIAutoFarmGodmode", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TowerofHellGUIAutoFarmGodmode.lua")
                     
 addscriptexist(6299805723, "AnimeFightersSimulatorPetSpeedChanger", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AnimeFightersSimulatorPetSpeedChanger.lua")
+                    
+addscriptexist(3102144307, "AnimeClickerSimulatorGUIAutoClickMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AnimeClickerSimulatorGUIAutoClickMore.lua")
