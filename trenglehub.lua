@@ -6297,3 +6297,5 @@ addscriptexist(6704278765, "DoloTonightConcertExperienceCollectAllEyes", "Terni"
 addscriptexist(9041110505, "UnlimitedUpgradeSimulatorInfinityGems", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/UnlimitedUpgradeSimulatorInfinityGems.lua")
                     
 addscriptexist(6297822481, "TitanWarfareInfiniteSlots", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TitanWarfareInfiniteSlots.lua")
+                    
+addscriptexist(2202352383, "SuperPowerTrainingSImulatorGUIAllAutoFarms", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SuperPowerTrainingSImulatorGUIAllAutoFarms.lua")
