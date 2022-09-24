@@ -8781,3 +8781,5 @@ addscriptexist(3398014311, "RestaurantTycoon2AutoFarm", "Qalnik", "https://raw.g
 addscriptexist(7797478022, "BrokenBonesSimulatorInfMoney", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BrokenBonesSimulatorInfMoney.lua")
                     
 addscriptexist(680750021, "CaseClickerAutoClickAutoSEllAutoRebirth", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CaseClickerAutoClickAutoSEllAutoRebirth.lua")
+                    
+addscriptexist(4058282580, "BoxingSimulatorAutoFarmAutoEggAutoSell", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BoxingSimulatorAutoFarmAutoEggAutoSell.lua")
