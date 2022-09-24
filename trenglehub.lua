@@ -7243,3 +7243,6 @@ addscriptexist(2185497593, "ArcadeIsland2VaultAutoSolver", "Terni", "https://raw
 addscriptexist(5310653431, "StreamingSimulatorAutoFarmGUI", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/StreamingSimulatorAutoFarmGUI.lua")
                     
 addscriptexist(7462526249, "NIKELANDGetEventItem", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NIKELANDGetEventItem.lua")
+    
+addscript(6422372837,"Snipers [Inf Ammo]", "SnipersInfAmmo", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SnipersInfAmmo.lua")
+                    
