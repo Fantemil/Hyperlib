@@ -5495,3 +5495,6 @@ addscriptexist(8540346411, "RebirthChampionsXUnlimitedClicksFarm", "Terni", "htt
     
 addscript(6622795055,"Berkeley County, Concord [Client Anti Cheat Bypass]", "BerkeleyCountyConcordClientAntiCheatBypass", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BerkeleyCountyConcordClientAntiCheatBypass.lua")
                     
+    
+addscript(8377686524,"Undertale", "UndertaleLastResetAutofarm", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/UndertaleLastResetAutofarm.lua")
+                    
