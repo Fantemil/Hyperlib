@@ -5381,3 +5381,5 @@ addscriptexist(9167501050, "LightsaberArenaAutoBlockInfStamina", "Terni", "https
 addscriptexist(9167501050, "LightsaberArenaGrabAllSabers", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LightsaberArenaGrabAllSabers.lua")
                     
 addscriptexist(142823291, "MurderMystery2ESPFakeKnifeXboxKnife", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MurderMystery2ESPFakeKnifeXboxKnife.lua")
+                    
+addscriptexist(9359839118, "GasStationSimulatorAutoCelanAutoRestock", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/GasStationSimulatorAutoCelanAutoRestock.lua")
