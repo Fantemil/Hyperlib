@@ -5157,3 +5157,5 @@ addscript(7681451450,"Anime Simulator X [GUI - Farm, Auto Open Egg & More!]", "A
     
 addscript(5264342538,"Endless Mining Simulator [GUI - Auto Farm, Auto Gems & More!]", "EndlessMiningSimulatorGUIAutoFarmAutoGemsMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/EndlessMiningSimulatorGUIAutoFarmAutoGemsMore.lua")
                     
+                    
+addscriptexist(3823781113, "SaberSimulatorGUIAutoFarmAutoOpenEggMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SaberSimulatorGUIAutoFarmAutoOpenEggMore.lua")
