@@ -8191,3 +8191,5 @@ addscriptexist(5104202731, "SouthwestFloridaBetaCarSpeed", "Qalnik", "https://ra
     
 addscript(3127396113,"Avengers Testing Server [Kill All]", "AvengersTestingServerKillAll", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AvengersTestingServerKillAll.lua")
                     
+                    
+addscriptexist(6769764667, "FactorySimulatorHarvestAuraAutopickupFillBright", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FactorySimulatorHarvestAuraAutopickupFillBright.lua")
