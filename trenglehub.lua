@@ -8489,3 +8489,6 @@ addscript(8012821049,"Floppy's Playtime! [Auto input security code]", "FloppysPl
 addscriptexist(23578803, "HotelElephantGiveeveryone10kRemoveeveryone10kServerCrush", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/HotelElephantGiveeveryone10kRemoveeveryone10kServerCrush.lua")
                     
 addscriptexist(7444263453, "JetpackJumpersIndJump", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/JetpackJumpersIndJump.lua")
+    
+addscript(3486025575,"Magnet Simulator [Auto Sell, Auto FArm, Auto Buy]", "MagnetSimulatorAutoSellAutoFArmAutoBuy", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MagnetSimulatorAutoSellAutoFArmAutoBuy.lua")
+                    
