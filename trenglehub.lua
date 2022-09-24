@@ -4841,3 +4841,5 @@ addscriptexist(3095204897, "IsleAutoHack", "Qalnik", "https://raw.githubusercont
 addscriptexist(9598746251, "HomeRunSimulatorInfMoneyInfGems", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/HomeRunSimulatorInfMoneyInfGems.lua")
                     
 addscriptexist(6808416928, "AimbloxBETASilentAIM", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AimbloxBETASilentAIM.lua")
+                    
+addscriptexist(9737855826, "TradeSimulatorAutoBuyerItemSniper", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TradeSimulatorAutoBuyerItemSniper.lua")
