@@ -2594,3 +2594,5 @@ addscriptexist(9285238704, "RaceClickerAutoWin", "astrofile", "https://raw.githu
     
 addscript(10378234820,"Mining Simulator 2 Fan-Made [Tool enchants]", "MiningSimulator2FanMadeToolenchants", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MiningSimulator2FanMadeToolenchants.lua")
                     
+                    
+addscriptexist(10378234820, "MiningSimulator2FanMadeResetPass", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MiningSimulator2FanMadeResetPass.lua")
