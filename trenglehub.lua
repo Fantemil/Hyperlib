@@ -2844,3 +2844,6 @@ addscriptexist(7655745946, "DunkingSimulatorUnlimitedBoost", "Terni", "https://r
     
 addscript(7076813495,"Basketball Stars! [Silent Aim]", "BasketballStarsSilentAim", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BasketballStarsSilentAim.lua")
                     
+    
+addscript(10086890480,"Clicking Simulator [Shiny King Tophat Giver]", "ClickingSimulatorShinyKingTophatGiver", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ClickingSimulatorShinyKingTophatGiver.lua")
+                    
