@@ -8767,3 +8767,5 @@ addscriptexist(2202352383, "SuperHeroTrainingSimulatorJumpFarmTeleportFastFarm",
 addscriptexist(5712833750, "AnimalSimulatorExpFarmRejoinCollectCheats", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AnimalSimulatorExpFarmRejoinCollectCheats.lua")
                     
 addscriptexist(4032944086, "WorkoutIslandKillAuraAutoAutoSell", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/WorkoutIslandKillAuraAutoAutoSell.lua")
+                    
+addscriptexist(2716845201, "WarriorSimulatorCoinsFarmNPCFarmTp", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/WarriorSimulatorCoinsFarmNPCFarmTp.lua")
