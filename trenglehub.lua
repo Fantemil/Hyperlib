@@ -1915,3 +1915,5 @@ addscript(4036494886,"Gun Simulator [Inf Money, Inf medals]", "GunSimulatorInfMo
     
 addscript(10150367093,"Baking Tycoon [Claim Codes, Claim Plot, X2 5 min]", "BakingTycoonClaimCodesClaimPlotX25min", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BakingTycoonClaimCodesClaimPlotX25min.lua")
                     
+                    
+addscriptexist(155615604, "PrisonLifeInfStaminaInstRespawn", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PrisonLifeInfStaminaInstRespawn.lua")
