@@ -4298,3 +4298,5 @@ addscript(9492038800,"STUMBLOX STRANGER THINGS [Auto Farm]", "STUMBLOXSTRANGERTH
     
 addscript(7089072882,"HE-MAN SIM [Instant Max Out Character]", "HEMANSIMInstantMaxOutCharacter", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/HEMANSIMInstantMaxOutCharacter.lua")
                     
+                    
+addscriptexist(7336302630, "ProjectDeltaAntiDrownAndSeeUnderwater", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ProjectDeltaAntiDrownAndSeeUnderwater.lua")
