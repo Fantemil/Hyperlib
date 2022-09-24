@@ -8017,3 +8017,6 @@ addscript(961426258,"Koala Cafe [Invisible, Auto Mop]", "KoalaCafeInvisibleAutoM
                     
                     
 addscriptexist(2317712696, "TheWildWestEsp", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TheWildWestEsp.lua")
+    
+addscript(3440262694,"Airport Tycoon [Redeem Codes]", "AirportTycoonRedeemCodes", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AirportTycoonRedeemCodes.lua")
+                    
