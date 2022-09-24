@@ -5749,3 +5749,5 @@ addscript(255236425,"Traitor Town [Esp]", "TraitorTownEsp", "Qalnik", "https://r
                     
                     
 addscriptexist(4855457388, "DemonfallAutofarmAutoGripInfinitejump", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DemonfallAutofarmAutoGripInfinitejump.lua")
+                    
+addscriptexist(6673614635, "unConventionalAutoQuestNoAttackCooldownRollFast", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/unConventionalAutoQuestNoAttackCooldownRollFast.lua")
