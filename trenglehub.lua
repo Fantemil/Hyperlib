@@ -2939,3 +2939,5 @@ addscript(98831904,"Adonis [Auto Bypass]", "AdonisAutoBypass", "Terni", "https:/
                     
                     
 addscriptexist(3851622790, "BreakInStoryTheBestGUI", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BreakInStoryTheBestGUI.lua")
+                    
+addscriptexist(8500690972, "NOSTOPObbyInfiniteStages", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NOSTOPObbyInfiniteStages.lua")
