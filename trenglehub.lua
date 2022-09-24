@@ -5193,3 +5193,6 @@ addscript(9488143445,"Raise A Bloppa [Auto Farm GUI]", "RaiseABloppaAutoFarmGUI"
                     
                     
 addscriptexist(189707, "NaturalDisasterSurvivalPartFlinger", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NaturalDisasterSurvivalPartFlinger.lua")
+    
+addscript(9107946567,"Warriors Army Simulator [GUI - Auto Farm, Auto Revice & More!]", "WarriorsArmySimulatorGUIAutoFarmAutoReviceMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/WarriorsArmySimulatorGUIAutoFarmAutoReviceMore.lua")
+                    
