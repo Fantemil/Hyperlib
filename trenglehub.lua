@@ -8307,3 +8307,6 @@ addscriptexist(258258996, "MinersHavenAutoFarmAUTOSACRAFICECrateTp", "Qalnik", "
 addscriptexist(443406476, "ProjectLazarusInfAmmo", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ProjectLazarusInfAmmo.lua")
                     
 addscriptexist(4058282580, "BoxingSimulatorFasterAutoFarm", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BoxingSimulatorFasterAutoFarm.lua")
+    
+addscript(1499872953,"Boku No Roblox [Auto-Farm, Auto-Use & More!]", "BokuNoRobloxAutoFarmAutoUseMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BokuNoRobloxAutoFarmAutoUseMore.lua")
+                    
