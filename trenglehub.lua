@@ -1856,3 +1856,5 @@ addscript(7305309231,"Taxi Boss [AutoFarm, AntiAfk]", "TaxiBossAutoFarmAntiAfk",
     
 addscript(2866967438,"Fishing Simulator [Auto Farm, Auto Fish]", "FishingSimulatorAutoFarmAutoFish", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FishingSimulatorAutoFarmAutoFish.lua")
                     
+                    
+addscriptexist(5602055394, "HoodModdedInfJumpEsp", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/HoodModdedInfJumpEsp.lua")
