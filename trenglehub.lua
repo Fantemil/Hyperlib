@@ -7692,3 +7692,5 @@ addscriptexist(7993293100, "TsunamiGameAutoFarmCoins", "Terni", "https://raw.git
 addscriptexist(662417684, "LuckyBlockBattlegroundsPressEtogetitems", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LuckyBlockBattlegroundsPressEtogetitems.lua")
                     
 addscriptexist(4616652839, "ShindoLifeGUIFarmlvlandAutoStats", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ShindoLifeGUIFarmlvlandAutoStats.lua")
+                    
+addscriptexist(3102144307, "AnimeClickerSimulatorGUIFarmingPetsBoss", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AnimeClickerSimulatorGUIFarmingPetsBoss.lua")
