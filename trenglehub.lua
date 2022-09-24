@@ -4630,3 +4630,5 @@ addscriptexist(5766084948, "SCPTheRedLakeHitboxExpand", "Qalnik", "https://raw.g
     
 addscript(6494523288,"Blade Quest [Auto Farm Kill Aura, Auto Upgrade Sword]", "BladeQuestAutoFarmKillAuraAutoUpgradeSword", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BladeQuestAutoFarmKillAuraAutoUpgradeSword.lua")
                     
+                    
+addscriptexist(2551991523, "BrokenBonesIVAutoFarm", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BrokenBonesIVAutoFarm.lua")
