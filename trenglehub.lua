@@ -6127,3 +6127,5 @@ addscript(5787425661,"A Lucky Day [Kill All & Give Everyone Seizures]", "ALuckyD
 addscriptexist(9049840490, "SonicSpeedSimulatorLvlfarm", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SonicSpeedSimulatorLvlfarm.lua")
                     
 addscriptexist(606849621, "JailbreakInstanttpbase", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/JailbreakInstanttpbase.lua")
+                    
+addscriptexist(5780309044, "StandsAwakeningStandFarmNpcTeleportPlaceTeleport", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/StandsAwakeningStandFarmNpcTeleportPlaceTeleport.lua")
