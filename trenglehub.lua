@@ -6470,3 +6470,5 @@ addscriptexist(3210622855, "MannersBadgeWalkGetAllBadgesForSkyWorld", "Terni", "
     
 addscript(8003084678,"oMega Obby Parkour 525 Stages [Infinite Prestige]", "oMegaObbyParkour525StagesInfinitePrestige", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/oMegaObbyParkour525StagesInfinitePrestige.lua")
                     
+                    
+addscriptexist(8003084678, "oMegaObbyParkour525StagesAutoStagesBadges", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/oMegaObbyParkour525StagesAutoStagesBadges.lua")
