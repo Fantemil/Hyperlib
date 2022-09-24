@@ -4437,3 +4437,6 @@ addscript(6263325292,"Bloxburg [Remote Bypass]", "BloxburgRemoteBypass", "Terni"
     
 addscript(4540286603,"NORTHWIND [Lag Bomb]", "NORTHWINDLagBomb", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NORTHWINDLagBomb.lua")
                     
+    
+addscript(2602644507,"Clone Wars Enrage [Kill All]", "CloneWarsEnrageKillAll", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CloneWarsEnrageKillAll.lua")
+                    
