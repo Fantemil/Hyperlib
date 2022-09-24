@@ -5242,3 +5242,5 @@ addscriptexist(4003872968, "GiantSurvivalInstaKill", "Qalnik", "https://raw.gith
     
 addscript(3056526277,"Build and Survive [Kill all bots]", "BuildandSurviveKillallbots", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BuildandSurviveKillallbots.lua")
                     
+                    
+addscriptexist(6717117731, "SubwaySurfersColllectAllCoins", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SubwaySurfersColllectAllCoins.lua")
