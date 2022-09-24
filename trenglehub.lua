@@ -3012,3 +3012,6 @@ addscript(9817495903,"Impossible Red Light, Green Light! [Teleport To The Finish
                     
                     
 addscriptexist(292439477, "PhantomForcesGranadeAimbot", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PhantomForcesGranadeAimbot.lua")
+    
+addscript(7115420363,"The Booth Plaza [Bypassed Images]", "TheBoothPlazaBypassedImages", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TheBoothPlazaBypassedImages.lua")
+                    
