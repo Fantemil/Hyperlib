@@ -1722,3 +1722,5 @@ addscript(6452292184,"Speed Runner! [AutoFarm]", "SpeedRunnerAutoFarm", "astrofi
 addscriptexist(3956818381, "NinjaLegendsAutoClicker", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NinjaLegendsAutoClicker.lua")
                     
 addscriptexist(286090429, "ArsenalNonFEDevSkins", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ArsenalNonFEDevSkins.lua")
+                    
+addscriptexist(2788229376, "EvadeOptimizeutillities", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/EvadeOptimizeutillities.lua")
