@@ -5324,3 +5324,5 @@ addscript(8006400183,"Roblox [UIBlox Toast onto your screen]", "RobloxUIBloxToas
 addscriptexist(534701013, "TheLabyrinthAntigrassAntinameXray", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TheLabyrinthAntigrassAntinameXray.lua")
                     
 addscriptexist(7940932746, "RobloxFullBright", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RobloxFullBright.lua")
+                    
+addscriptexist(659222129, "SwordBurst2KillAuraTeleportWalkspeed", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SwordBurst2KillAuraTeleportWalkspeed.lua")
