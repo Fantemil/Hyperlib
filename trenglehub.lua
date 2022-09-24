@@ -7636,3 +7636,5 @@ addscript(6859865958,"YouTube Simulator [Auto Farm, Redeem All Codes, Buy all sd
                     
                     
 addscriptexist(6604417568, "Minerscave13NoDamage", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Minerscave13NoDamage.lua")
+                    
+addscriptexist(735030788, "RoyaleHighAutoFarm", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RoyaleHighAutoFarm.lua")
