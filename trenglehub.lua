@@ -1898,3 +1898,6 @@ addscript(6708206173,"Rate My Avatar [Animations, WalkSpeed, Swears]", "RateMyAv
     
 addscript(6542731310,"Dogecoin Mining Tycoon [Clear gpu's, Tp, WalkSPeed]", "DogecoinMiningTycoonCleargpusTpWalkSPeed", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DogecoinMiningTycoonCleargpusTpWalkSPeed.lua")
                     
+    
+addscript(8436975214,"Dangerous Speeds [Unlock All Cars]", "DangerousSpeedsUnlockAllCars", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DangerousSpeedsUnlockAllCars.lua")
+                    
