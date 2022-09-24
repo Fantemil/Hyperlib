@@ -4040,3 +4040,5 @@ addscriptexist(2753915549, "BloxFruitSilentAim", "Terni", "https://raw.githubuse
 addscriptexist(8739839954, "JujutsuTycoonKillBoss", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/JujutsuTycoonKillBoss.lua")
                     
 addscriptexist(8739839954, "JujutsuTycoonCollectLoot", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/JujutsuTycoonCollectLoot.lua")
+                    
+addscriptexist(1730877806, "GrandPieceOnlineBountyESP", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/GrandPieceOnlineBountyESP.lua")
