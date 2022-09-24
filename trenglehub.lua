@@ -7188,3 +7188,6 @@ addscriptexist(7842028704, "AnimeClashSimulatorAutoFarmAutoChakraAutoSell", "Qal
     
 addscript(2960777560,"Treasure Quest [Auto Farm]", "TreasureQuestAutoFarm", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TreasureQuestAutoFarm.lua")
                     
+    
+addscript(6104994594,"Pilfering Pirates [Infinity jump, Aump power, Anti afk]", "PilferingPiratesInfinityjumpAumppowerAntiafk", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PilferingPiratesInfinityjumpAumppowerAntiafk.lua")
+                    
