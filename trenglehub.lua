@@ -7359,3 +7359,5 @@ addscript(4632627223,"Black Grimoire [Level 1 - 999 In 2 Hours]", "BlackGrimoire
     
 addscript(5171347293,"Cabin Crew Simulator [Infinite Money]", "CabinCrewSimulatorInfiniteMoney", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CabinCrewSimulatorInfiniteMoney.lua")
                     
+                    
+addscriptexist(8592863835, "MagnetSimulator2UnlockAllGamepassesAutoFarmCoinsMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MagnetSimulator2UnlockAllGamepassesAutoFarmCoinsMore.lua")
