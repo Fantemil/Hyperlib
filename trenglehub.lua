@@ -3404,3 +3404,5 @@ addscript(6570234816,"Mano County Roleplay [Anticheat bypass]", "ManoCountyRolep
 addscriptexist(2413927524, "THERAKEKillEditionPointGiver", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/THERAKEKillEditionPointGiver.lua")
                     
 addscriptexist(5993942214, "RushPointSilentAim", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RushPointSilentAim.lua")
+                    
+addscriptexist(205224386, "HideAndSeekExtremeCollectallcoinsSpeedHacketc", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/HideAndSeekExtremeCollectallcoinsSpeedHacketc.lua")
