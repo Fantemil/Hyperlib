@@ -2563,3 +2563,5 @@ addscript(6114972958,"Initial D", "InitialDTougeLegendsUnlockcarsWalkspeed", "as
     
 addscript(3095204897,"Isle, 9 [ESP, Noclip]", "Isle9ESPNoclip", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Isle9ESPNoclip.lua")
                     
+                    
+addscriptexist(8328351891, "MegaMansionTycoonAutoCollect", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MegaMansionTycoonAutoCollect.lua")
