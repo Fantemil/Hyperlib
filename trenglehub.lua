@@ -6036,3 +6036,5 @@ addscriptexist(8540168650, "StandUprightRebootedItemFarmAutoFarmInvisibleMore", 
     
 addscript(6589412525,"Rail Frenzy [Auto Send Items To Wagon]", "RailFrenzyAutoSendItemsToWagon", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RailFrenzyAutoSendItemsToWagon.lua")
                     
+                    
+addscriptexist(6589412525, "RailFrenzyBreakEverythingGUI", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RailFrenzyBreakEverythingGUI.lua")
