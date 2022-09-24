@@ -8549,3 +8549,5 @@ addscriptexist(6284583030, "PetSimulatorXNewFarmingGUIHoverboardMore", "Terni", 
 addscriptexist(2753915549, "BloxFruitsAutoFarmAutoBuyMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BloxFruitsAutoFarmAutoBuyMore.lua")
                     
 addscriptexist(7503115095, "PopItTradingAUTOFARMINGTOYS", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PopItTradingAUTOFARMINGTOYS.lua")
+                    
+addscriptexist(7232779505, "TypeRaceAUTOPLAYER", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TypeRaceAUTOPLAYER.lua")
