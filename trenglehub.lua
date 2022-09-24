@@ -8584,3 +8584,5 @@ addscriptexist(537413528, "BuildABoatForTreasureAutoFarmNEW", "Terni", "https://
 addscriptexist(4556951723, "RagdollPhysicsMusicPlayerFreeBadgeandMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RagdollPhysicsMusicPlayerFreeBadgeandMore.lua")
                     
 addscriptexist(7608438089, "TheWinterEscapeInfiniteCheer", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TheWinterEscapeInfiniteCheer.lua")
+                    
+addscriptexist(6284583030, "PetSimulatorXUPDATEBESTFARM", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PetSimulatorXUPDATEBESTFARM.lua")
