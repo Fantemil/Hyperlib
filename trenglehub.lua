@@ -7715,3 +7715,5 @@ addscriptexist(45146873, "TowerBattlesAutoFarmCredits", "Terni", "https://raw.gi
 addscriptexist(6299805723, "AnimeFightersSimulatorGUITeleportsOpenSource", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AnimeFightersSimulatorGUITeleportsOpenSource.lua")
                     
 addscriptexist(7535149098, "SpaceTycoonFarmSecretGemsMoreOpenSource", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SpaceTycoonFarmSecretGemsMoreOpenSource.lua")
+                    
+addscriptexist(621129760, "KATGunModNoRecoilINFAmmoMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/KATGunModNoRecoilINFAmmoMore.lua")
