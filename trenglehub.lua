@@ -6038,3 +6038,6 @@ addscript(6589412525,"Rail Frenzy [Auto Send Items To Wagon]", "RailFrenzyAutoSe
                     
                     
 addscriptexist(6589412525, "RailFrenzyBreakEverythingGUI", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RailFrenzyBreakEverythingGUI.lua")
+    
+addscript(9423668629,"Find the Teddies [Find All Teddies]", "FindtheTeddiesFindAllTeddies", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FindtheTeddiesFindAllTeddies.lua")
+                    
