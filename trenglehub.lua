@@ -4787,3 +4787,5 @@ addscriptexist(8508161757, "RaiseanAlbertInfiniteMoney", "Terni", "https://raw.g
     
 addscript(7368681149,"UnExceptional [Capture All Flags]", "UnExceptionalCaptureAllFlags", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/UnExceptionalCaptureAllFlags.lua")
                     
+                    
+addscriptexist(9551640993, "MiningSimulator2HatchWebhookSender", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MiningSimulator2HatchWebhookSender.lua")
