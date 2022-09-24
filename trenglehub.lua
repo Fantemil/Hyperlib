@@ -3559,3 +3559,6 @@ addscriptexist(4951858512, "VictoryRaceIncreaseSpeedMore", "Terni", "https://raw
     
 addscript(4783966408,"Plates of Fate Remastered [Auto Complete Obby]", "PlatesofFateRemasteredAutoCompleteObby", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PlatesofFateRemasteredAutoCompleteObby.lua")
                     
+    
+addscript(6961824067,"Fling Things and People [Anti Grab & More!]", "FlingThingsandPeopleAntiGrabMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FlingThingsandPeopleAntiGrabMore.lua")
+                    
