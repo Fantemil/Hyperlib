@@ -6832,3 +6832,5 @@ addscriptexist(6494523288, "BladeQuestAutoFarmKillAuraAutoRewards", "Qalnik", "h
 addscriptexist(537413528, "BuildABoatForTreasureAutoFarmGodModeWaterAutoCommonChests", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BuildABoatForTreasureAutoFarmGodModeWaterAutoCommonChests.lua")
                     
 addscriptexist(8897454112, "PetSalonTycoonInfMoney", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PetSalonTycoonInfMoney.lua")
+                    
+addscriptexist(4042427666, "AnimeFightingSimulatorAutoFarmGUI", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AnimeFightingSimulatorAutoFarmGUI.lua")
