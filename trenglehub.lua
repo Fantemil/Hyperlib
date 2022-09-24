@@ -3473,3 +3473,5 @@ addscript(5278850819,"Stay alive and flex your time on others [Bypass Anti Cheat
     
 addscript(4856393583,"Build a Spaceship Tycoon [Infinite Cash]", "BuildaSpaceshipTycoonInfiniteCash", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BuildaSpaceshipTycoonInfiniteCash.lua")
                     
+                    
+addscriptexist(4856393583, "BuildaSpaceshipTycoonInstaRebirth", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BuildaSpaceshipTycoonInstaRebirth.lua")
