@@ -5451,3 +5451,5 @@ addscript(8533682846,"Goofy Ahh [Collection GUI V2 - Fun Scripts]", "GoofyAhhCol
     
 addscript(9604473769,"Tate McRae Concert Experience [Get All Coins, Infinite Score]", "TateMcRaeConcertExperienceGetAllCoinsInfiniteScore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TateMcRaeConcertExperienceGetAllCoinsInfiniteScore.lua")
                     
+                    
+addscriptexist(9508087919, "ApeirophobiaMonsterESP", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ApeirophobiaMonsterESP.lua")
