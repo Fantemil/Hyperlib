@@ -7888,3 +7888,6 @@ addscriptexist(3233893879, "BadBusiness254GrenadeTPKill", "rbxscript", "https://
 addscriptexist(8054462345, "MichaelsZombiesKillAutraGunModsZombiesEsp", "rbxscript", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MichaelsZombiesKillAutraGunModsZombiesEsp.lua")
                     
 addscriptexist(7114796110, "AnimeTrainingSimulatorFarmMobsAutoRebirthMore", "rbxscript", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AnimeTrainingSimulatorFarmMobsAutoRebirthMore.lua")
+    
+addscript(5400959086,"TASK FORCE [Change code name]", "TASKFORCEChangecodename", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TASKFORCEChangecodename.lua")
+                    
