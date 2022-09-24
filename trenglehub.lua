@@ -2686,3 +2686,6 @@ addscriptexist(8737602449, "PLSDONATEAutoFarm", "Terni", "https://raw.githubuser
 addscriptexist(6299805723, "FightersEraInfMoney", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FightersEraInfMoney.lua")
                     
 addscriptexist(4036494886, "GunSimulatorInfiniteEverythingCustomStats", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/GunSimulatorInfiniteEverythingCustomStats.lua")
+    
+addscript(8689257920,"Life in Prison [GUI - Kill All & More!]", "LifeinPrisonGUIKillAllMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LifeinPrisonGUIKillAllMore.lua")
+                    
