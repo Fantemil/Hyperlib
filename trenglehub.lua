@@ -1887,3 +1887,6 @@ addscriptexist(370731277, "MeepCityFishingSilentAimAvatarEditor", "astrofile", "
 addscriptexist(370731277, "MeepCityFreeGamepassesSpamBalloons", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MeepCityFreeGamepassesSpamBalloons.lua")
                     
 addscriptexist(370731277, "MeepCityGoKartZzzanimation", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MeepCityGoKartZzzanimation.lua")
+    
+addscript(5872075530,"Anarchy [Esp, Hitboxes]", "AnarchyEspHitboxes", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AnarchyEspHitboxes.lua")
+                    
