@@ -3983,3 +3983,5 @@ addscriptexist(9875254583, "JuicePiratesInfiniteGems", "Terni", "https://raw.git
     
 addscript(9568982793,"Da Hood Battlegrounds [Rapid Fire Mod]", "DaHoodBattlegroundsRapidFireMod", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DaHoodBattlegroundsRapidFireMod.lua")
                     
+                    
+addscriptexist(8750997647, "TappingLegendsXGUIAutoTapAutoRebirthMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TappingLegendsXGUIAutoTapAutoRebirthMore.lua")
