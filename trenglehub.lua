@@ -1594,3 +1594,6 @@ addscriptexist(286090429, "ArsenalKillAuraAimBotTeamCheck", "Qalnik", "https://r
     
 addscript(10053187005,"Counter Blox", "CounterBloxReimaginedKillAllAimbotEsp", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CounterBloxReimaginedKillAllAimbotEsp.lua")
                     
+    
+addscript(2124720684,"Dragon Ball", "DragonBallXenoMultiverseKillAuraAutoFarmWalkSpeed", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DragonBallXenoMultiverseKillAuraAutoFarmWalkSpeed.lua")
+                    
