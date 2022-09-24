@@ -1771,3 +1771,6 @@ addscript(9103090927,"Stumble Buddies [Kick All]", "StumbleBuddiesKickAll", "ast
 addscriptexist(2653064683, "WordBombAutoTypeAutoJoin", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/WordBombAutoTypeAutoJoin.lua")
                     
 addscriptexist(9993529229, "CounterBloxRemasteredHeadshotsonly", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CounterBloxRemasteredHeadshotsonly.lua")
+    
+addscript(340227283,"RoBowling [Hitbox, Aimbot]", "RoBowlingHitboxAimbot", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RoBowlingHitboxAimbot.lua")
+                    
