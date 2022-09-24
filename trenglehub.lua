@@ -2426,3 +2426,5 @@ addscript(7941853407,"Squishmallow [Auto Farm]", "SquishmallowAutoFarm", "astrof
     
 addscript(10315830663,"Cant Say The Letter [Inf Time]", "CantSayTheLetterInfTime", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CantSayTheLetterInfTime.lua")
                     
+                    
+addscriptexist(10315830663, "CantSayTheLetterGiveTools", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CantSayTheLetterGiveTools.lua")
