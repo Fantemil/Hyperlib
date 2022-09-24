@@ -8628,3 +8628,6 @@ addscript(413053960,"The Legendary Swords 2 RPG [INF Gold, INF Healt, More!]", "
     
 addscript(1466995005,"RAGDOLL UNIVERSE [Snowflake Farm]", "RAGDOLLUNIVERSESnowflakeFarm", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RAGDOLLUNIVERSESnowflakeFarm.lua")
                     
+    
+addscript(2281639237,"Stands Online v25 [Stand Arrow & Locacaca Farm]", "StandsOnlinev25StandArrowLocacacaFarm", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/StandsOnlinev25StandArrowLocacacaFarm.lua")
+                    
