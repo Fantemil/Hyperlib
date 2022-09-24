@@ -1483,3 +1483,6 @@ addscriptexist(10675066724, "SlimeTowerTycoonAutoDepositAutoMergeAutoBuy", "Qaln
     
 addscript(7952526341,"Draw Drawings and turn it 3D and play around [Crash Server]", "DrawDrawingsandturnit3DandplayaroundCrashServer", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DrawDrawingsandturnit3DandplayaroundCrashServer.lua")
                     
+    
+addscript(10956882556,"Roblox [Chat Spam]", "RobloxChatSpam", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RobloxChatSpam.lua")
+                    
