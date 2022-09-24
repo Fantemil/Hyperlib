@@ -4956,3 +4956,5 @@ addscriptexist(5678279798, "FightClubKillAuraMore", "Terni", "https://raw.github
 addscriptexist(9551640993, "MiningSimulator2BlockAuraMultiModeMoreGUI", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MiningSimulator2BlockAuraMultiModeMoreGUI.lua")
                     
 addscriptexist(8534845015, "SakuraStandAutoKillBoxAutoFarm", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SakuraStandAutoKillBoxAutoFarm.lua")
+                    
+addscriptexist(2317712696, "TheWildWestInfiniteStamina", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TheWildWestInfiniteStamina.lua")
