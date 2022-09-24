@@ -7743,3 +7743,6 @@ addscript(7143997817,"Simple Piece [Auto Farm – Kill Aura & More!]", "SimplePi
     
 addscript(8000744340,"l v s t [Get A Sword]", "lvstGetASword", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/lvstGetASword.lua")
                     
+    
+addscript(228181322,"Dinosaur Simulator [AntiAttack, Invisible, infinite Jump]", "DinosaurSimulatorAntiAttackInvisibleinfiniteJump", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DinosaurSimulatorAntiAttackInvisibleinfiniteJump.lua")
+                    
