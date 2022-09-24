@@ -4153,3 +4153,6 @@ addscriptexist(180037022, "SonicUltimateRPGFarmRings", "Qalnik", "https://raw.gi
     
 addscript(8596411742,"Barb Blox Lane [Fast Farm]", "BarbBloxLaneFastFarm", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BarbBloxLaneFastFarm.lua")
                     
+    
+addscript(1467230998,"TROOP LIFE [Auto Farm]", "TROOPLIFEAutoFarm", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TROOPLIFEAutoFarm.lua")
+                    
