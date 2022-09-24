@@ -6033,3 +6033,6 @@ addscript(9278437733,"Elemental Pet Battles [Infinite Coins]", "ElementalPetBatt
                     
                     
 addscriptexist(8540168650, "StandUprightRebootedItemFarmAutoFarmInvisibleMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/StandUprightRebootedItemFarmAutoFarmInvisibleMore.lua")
+    
+addscript(6589412525,"Rail Frenzy [Auto Send Items To Wagon]", "RailFrenzyAutoSendItemsToWagon", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RailFrenzyAutoSendItemsToWagon.lua")
+                    
