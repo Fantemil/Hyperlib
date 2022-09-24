@@ -3518,3 +3518,5 @@ addscriptexist(3234050617, "Left2DieOverhaulGUIWeaponsModeVusials", "Terni", "ht
     
 addscript(8977044503,"LEGACY ENGINE [7 Games]", "LEGACYENGINE7Games", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LEGACYENGINE7Games.lua")
                     
+                    
+addscriptexist(5956785391, "ProjectSlayersGUIAutoQuestInvisibleMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ProjectSlayersGUIAutoQuestInvisibleMore.lua")
