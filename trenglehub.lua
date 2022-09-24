@@ -6415,3 +6415,5 @@ addscriptexist(2768379856, "300827SimpleESP", "Terni", "https://raw.githubuserco
 addscriptexist(8862273695, "AnotherJToHRPGAutoFarm", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AnotherJToHRPGAutoFarm.lua")
                     
 addscriptexist(2534724415, "EmergencyResponseLibertyCountyInfiniteStamina", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/EmergencyResponseLibertyCountyInfiniteStamina.lua")
+                    
+addscriptexist(8044403176, "VehicleChampionsAutoFarmGUI", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/VehicleChampionsAutoFarmGUI.lua")
