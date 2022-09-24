@@ -4976,3 +4976,6 @@ addscriptexist(7488014850, "RAINBOWNPIECESpamLegengfruits", "Qalnik", "https://r
 addscriptexist(9551640993, "MiningSimulator2OreEsp", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MiningSimulator2OreEsp.lua")
                     
 addscriptexist(9551640993, "MiningSimulator2AutoMineAutoRebirthingAutoSell", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MiningSimulator2AutoMineAutoRebirthingAutoSell.lua")
+    
+addscript(6028157264,"My Hospital [INf Money]", "MyHospitalINfMoney", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MyHospitalINfMoney.lua")
+                    
