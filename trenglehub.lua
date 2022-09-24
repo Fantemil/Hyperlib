@@ -3765,3 +3765,5 @@ addscriptexist(7167319176, "ChicagoRemasteredGUIMoneyTeleportsMore", "Terni", "h
     
 addscript(5910449407,"Project Menacing [GUI - Mob Farm, Stand Farm & More!]", "ProjectMenacingGUIMobFarmStandFarmMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ProjectMenacingGUIMobFarmStandFarmMore.lua")
                     
+                    
+addscriptexist(7899881670, "RBWorld4AutoArcadeBot", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RBWorld4AutoArcadeBot.lua")
