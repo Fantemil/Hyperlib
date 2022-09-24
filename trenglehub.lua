@@ -2530,3 +2530,6 @@ addscriptexist(5901548022, "TryToDieChangeStat", "astrofile", "https://raw.githu
 addscriptexist(4490140733, "MyRestaurantManyCash", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MyRestaurantManyCash.lua")
                     
 addscriptexist(5041144419, "SCPRoleplaySabotageTransformerAutoFarm", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SCPRoleplaySabotageTransformerAutoFarm.lua")
+    
+addscript(9666226803,"Motel Simulator [Auto Farm, Walkspeed]", "MotelSimulatorAutoFarmWalkspeed", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MotelSimulatorAutoFarmWalkspeed.lua")
+                    
