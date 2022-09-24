@@ -3325,3 +3325,5 @@ addscript(3623096087,"Muscle Legends [Kill Player, Safe Farm, Auto Equip]", "Mus
                     
                     
 addscriptexist(6711562581, "EightDriverCarRacingInfmoney", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/EightDriverCarRacingInfmoney.lua")
+                    
+addscriptexist(2768379856, "SCP3008AutoCollect", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SCP3008AutoCollect.lua")
