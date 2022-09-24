@@ -6137,3 +6137,6 @@ addscript(5045567407,"Nations Roleplay [Coloring of the World]", "NationsRolepla
     
 addscript(4505214429,"Soul Eater", "SoulEaterResonanceAutoFarmAutoQuestClicktp", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SoulEaterResonanceAutoFarmAutoQuestClicktp.lua")
                     
+    
+addscript(9123917180,"Teleporter Simulator [Basic Farm]", "TeleporterSimulatorBasicFarm", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TeleporterSimulatorBasicFarm.lua")
+                    
