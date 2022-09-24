@@ -6123,3 +6123,5 @@ addscript(3025990139,"Unboxing Simulator [Auto Farm - Auto Quest]", "UnboxingSim
     
 addscript(5787425661,"A Lucky Day [Kill All & Give Everyone Seizures]", "ALuckyDayKillAllGiveEveryoneSeizures", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ALuckyDayKillAllGiveEveryoneSeizures.lua")
                     
+                    
+addscriptexist(9049840490, "SonicSpeedSimulatorLvlfarm", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SonicSpeedSimulatorLvlfarm.lua")
