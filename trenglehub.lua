@@ -6454,3 +6454,5 @@ addscript(5991118999,"Mowing Masters Simulator [Auto Farm, Auto Buy Bee Egg, Ful
 addscriptexist(7940932746, "ROBLOX–LeanExplosion", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ROBLOX–LeanExplosion.lua")
                     
 addscriptexist(2866967438, "FishingSimulatorGUIFarming", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FishingSimulatorGUIFarming.lua")
+                    
+addscriptexist(3210622855, "MannersBadgeWalkGetAllCaveWorldBadges", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MannersBadgeWalkGetAllCaveWorldBadges.lua")
