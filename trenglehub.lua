@@ -4704,3 +4704,5 @@ addscriptexist(8992150289, "AnimeSwordSimulatorFullAutoFarmGUI", "Terni", "https
     
 addscript(6717367660,"Happy Land [Infinite Money]", "HappyLandInfiniteMoney", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/HappyLandInfiniteMoney.lua")
                     
+                    
+addscriptexist(6728870912, "WorldofStandsDemoAutoFarmAutoSkillAutoQuest", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/WorldofStandsDemoAutoFarmAutoSkillAutoQuest.lua")
