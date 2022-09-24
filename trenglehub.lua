@@ -7211,3 +7211,5 @@ addscriptexist(8357510970, "AnimePunchingSimulatorAutoPunchAutoEggsMore", "Terni
     
 addscript(2961297129,"Death Zone [Item ESP - Base Noclip - Walkspeed]", "DeathZoneItemESPBaseNoclipWalkspeed", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DeathZoneItemESPBaseNoclipWalkspeed.lua")
                     
+                    
+addscriptexist(4996049426, "AllStarTowerDefenseAutoJoimExtremeGoWorld", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AllStarTowerDefenseAutoJoimExtremeGoWorld.lua")
