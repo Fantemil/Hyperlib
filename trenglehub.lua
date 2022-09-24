@@ -7668,3 +7668,5 @@ addscriptexist(7047488135, "SpeedSimulatorAutoLoopGetSpeed", "Terni", "https://r
     
 addscript(6429911702,"Master's Difficulty Chart Obby [complete all stages, complete monthly challange, complete experimental zone]", "MastersDifficultyChartObbycompleteallstagescompletemonthlychallangecompleteexperimentalzone", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MastersDifficultyChartObbycompleteallstagescompletemonthlychallangecompleteexperimentalzone.lua")
                     
+                    
+addscriptexist(537413528, "BuildABoatForTreasureNewAutoFarmingCoins", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BuildABoatForTreasureNewAutoFarmingCoins.lua")
