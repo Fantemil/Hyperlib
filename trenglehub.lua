@@ -1471,3 +1471,5 @@ addscriptexist(9845705613, "BloodHoodKillAllGodmodeAutoArmor", "Qalnik", "https:
 addscriptexist(3851622790, "BreakInStory", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BreakInStory.lua")
                     
 addscriptexist(10524502174, "OnePunchFightersAutoFarmAutoSummon", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OnePunchFightersAutoFarmAutoSummon.lua")
+                    
+addscriptexist(893973440, "FleetheFacilityHidebeastlight", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FleetheFacilityHidebeastlight.lua")
