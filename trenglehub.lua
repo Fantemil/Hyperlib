@@ -7112,3 +7112,5 @@ addscriptexist(3101667897, "LegendsOfSpeedAutoFarmUtilitesMore", "Terni", "https
     
 addscript(5000143962,"SPACE SAILORS [Auto Ore Farm]", "SPACESAILORSAutoOreFarm", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SPACESAILORSAutoOreFarm.lua")
                     
+                    
+addscriptexist(7655489843, "AnimeBattlegroundsXX1000AbilityDamageAutoFarmMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AnimeBattlegroundsXX1000AbilityDamageAutoFarmMore.lua")
