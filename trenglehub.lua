@@ -5744,3 +5744,6 @@ addscript(8492553855,"Project Upright [Item Farm]", "ProjectUprightItemFarm", "Q
                     
                     
 addscriptexist(133815151, "TheFinalStand2MeleeAura", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TheFinalStand2MeleeAura.lua")
+    
+addscript(255236425,"Traitor Town [Esp]", "TraitorTownEsp", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TraitorTownEsp.lua")
+                    
