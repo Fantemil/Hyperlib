@@ -5051,3 +5051,5 @@ addscriptexist(8581609150, "BloxhubMineManiaAutoMine", "Terni", "https://raw.git
     
 addscript(5630129588,"Smash Legends [Auto Farm GUI]", "SmashLegendsAutoFarmGUI", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SmashLegendsAutoFarmGUI.lua")
                     
+                    
+addscriptexist(7211666966, "TowerofJumpAutoWin", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TowerofJumpAutoWin.lua")
