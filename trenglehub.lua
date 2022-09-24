@@ -8264,3 +8264,5 @@ addscript(855499080,"SKYWARS [Anti Cheat Bypass]", "SKYWARSAntiCheatBypass", "Te
     
 addscript(6161747775,"Pirate Clash [Kill Aura]", "PirateClashKillAura", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PirateClashKillAura.lua")
                     
+                    
+addscriptexist(443406476, "ProjectLazarusZombiesGunMod", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ProjectLazarusZombiesGunMod.lua")
