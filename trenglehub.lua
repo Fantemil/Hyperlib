@@ -3218,3 +3218,5 @@ addscript(10204556059,"NARS Color Quest [Auto Collect All Shades - Complete All]
                     
                     
 addscriptexist(10118559731, "nicosnextbotsBHOP", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/nicosnextbotsBHOP.lua")
+                    
+addscriptexist(3346617530, "FreezeTagExtremev25OverpoweredGUI", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FreezeTagExtremev25OverpoweredGUI.lua")
