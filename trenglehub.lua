@@ -7572,3 +7572,6 @@ addscriptexist(648362523, "BreakingPointAimBotLightOnHiqhSpeed", "Qalnik", "http
 addscriptexist(6938803436, "AnimeDimensionsSimulatorAutoFarmAutoSkill", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AnimeDimensionsSimulatorAutoFarmAutoSkill.lua")
                     
 addscriptexist(3823781113, "SaberSimulatorAutoSwingAutoSellAutoEquipSaber", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SaberSimulatorAutoSwingAutoSellAutoEquipSaber.lua")
+    
+addscript(182781154,"The Maze Runner [ChestAutoFarm, Treasure Auto Farm, Fly]", "TheMazeRunnerChestAutoFarmTreasureAutoFarmFly", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TheMazeRunnerChestAutoFarmTreasureAutoFarmFly.lua")
+                    
