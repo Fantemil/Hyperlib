@@ -7830,3 +7830,6 @@ addscript(3465272868,"My Hero Blockidemia [Auto Farm]", "MyHeroBlockidemiaAutoFa
                     
                     
 addscriptexist(6843905606, "CriticalLegendsget1ofeveryitemmaterial", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CriticalLegendsget1ofeveryitemmaterial.lua")
+    
+addscript(4967465336,"Ray's Mod [no cooldown]", "RaysModnocooldown", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RaysModnocooldown.lua")
+                    
