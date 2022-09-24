@@ -3760,3 +3760,5 @@ addscript(2098516465,"Roblox High School 2 [Free Ugc Item]", "RobloxHighSchool2F
                     
                     
 addscriptexist(8123652942, "LegendPieceGUITeleportsEspMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LegendPieceGUITeleportsEspMore.lua")
+                    
+addscriptexist(7167319176, "ChicagoRemasteredGUIMoneyTeleportsMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ChicagoRemasteredGUIMoneyTeleportsMore.lua")
