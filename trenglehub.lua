@@ -3156,3 +3156,6 @@ addscript(4459593483,"FORCE [PRE-ALPHA] [GUI - Anti Ragdoll, Anti Damage & More!
                     
                     
 addscriptexist(8585657145, "AnimeHeroSimulatorAutoFarmNoKey", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AnimeHeroSimulatorAutoFarmNoKey.lua")
+    
+addscript(7074772062,"Roblox [Drawing Lib Player Radar]", "RobloxDrawingLibPlayerRadar", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RobloxDrawingLibPlayerRadar.lua")
+                    
