@@ -3685,3 +3685,6 @@ addscript(5104202731,"Southwest Florida Beta [Click Teleport To Cars]", "Southwe
 addscriptexist(263761432, "HorrificHousingGodmodeDestroyMeteorKillAll", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/HorrificHousingGodmodeDestroyMeteorKillAll.lua")
                     
 addscriptexist(8304191830, "AnimeAdventuresGUIFullAutoFarmMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AnimeAdventuresGUIFullAutoFarmMore.lua")
+    
+addscript(9508087919,"Apeirophobia [Teleport]", "ApeirophobiaTeleport", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ApeirophobiaTeleport.lua")
+                    
