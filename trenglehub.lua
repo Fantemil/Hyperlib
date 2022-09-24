@@ -2560,3 +2560,6 @@ addscriptexist(9872472334, "EvadeGodModeFullbright", "astrofile", "https://raw.g
     
 addscript(6114972958,"Initial D", "InitialDTougeLegendsUnlockcarsWalkspeed", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/InitialDTougeLegendsUnlockcarsWalkspeed.lua")
                     
+    
+addscript(3095204897,"Isle, 9 [ESP, Noclip]", "Isle9ESPNoclip", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Isle9ESPNoclip.lua")
+                    
