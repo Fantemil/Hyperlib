@@ -5317,3 +5317,6 @@ addscriptexist(5965591336, "SoulWarIntsKill", "Qalnik", "https://raw.githubuserc
 addscriptexist(185655149, "BloxburgAutoRob", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BloxburgAutoRob.lua")
                     
 addscriptexist(9292879820, "GrassCuttingIncrementalStatChanger", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/GrassCuttingIncrementalStatChanger.lua")
+    
+addscript(8006400183,"Roblox [UIBlox Toast onto your screen]", "RobloxUIBloxToastontoyourscreen", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RobloxUIBloxToastontoyourscreen.lua")
+                    
