@@ -7580,3 +7580,5 @@ addscriptexist(2414851778, "DungeonQuestAutoFarmWalkSpeedHipHight", "Qalnik", "h
     
 addscript(990566015,"Cursed Islands [Auto Farm, Auto buy, Fly]", "CursedIslandsAutoFarmAutobuyFly", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CursedIslandsAutoFarmAutobuyFly.lua")
                     
+                    
+addscriptexist(6284583030, "PetSimulatorXAutoEggsAutoFarmSendAllPets", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PetSimulatorXAutoEggsAutoFarmSendAllPets.lua")
