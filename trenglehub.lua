@@ -3973,3 +3973,5 @@ addscriptexist(9976239895, "GumballFactoryTycoonAutoConvertGumballs", "Terni", "
 addscriptexist(5939428933, "CrewmatesKillAll", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CrewmatesKillAll.lua")
                     
 addscriptexist(4746041618, "SteelTitansESP", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SteelTitansESP.lua")
+                    
+addscriptexist(3722916, "2PlayerCompanyTycoonInfiniteMoney", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/2PlayerCompanyTycoonInfiniteMoney.lua")
