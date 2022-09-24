@@ -5159,3 +5159,5 @@ addscript(5264342538,"Endless Mining Simulator [GUI - Auto Farm, Auto Gems & Mor
                     
                     
 addscriptexist(3823781113, "SaberSimulatorGUIAutoFarmAutoOpenEggMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SaberSimulatorGUIAutoFarmAutoOpenEggMore.lua")
+                    
+addscriptexist(7560156054, "ClickerSimulatorGUIAutoClickUnlockGamepasses", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ClickerSimulatorGUIAutoClickUnlockGamepasses.lua")
