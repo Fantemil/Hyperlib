@@ -1774,3 +1774,6 @@ addscriptexist(9993529229, "CounterBloxRemasteredHeadshotsonly", "astrofile", "h
     
 addscript(340227283,"RoBowling [Hitbox, Aimbot]", "RoBowlingHitboxAimbot", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RoBowlingHitboxAimbot.lua")
                     
+    
+addscript(7664413141,"Creeper Chaos [Beta] [Auto Farm, Esp]", "CreeperChaosBetaAutoFarmEsp", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CreeperChaosBetaAutoFarmEsp.lua")
+                    
