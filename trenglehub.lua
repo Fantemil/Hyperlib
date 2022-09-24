@@ -3192,3 +3192,5 @@ addscript(21083417,"Homestead [Log Spam]", "HomesteadLogSpam", "Qalnik", "https:
     
 addscript(6055959032,"Jailbird [Silent Aim – Ragebot – Visuals And More!]", "JailbirdSilentAim–Ragebot–VisualsAndMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/JailbirdSilentAim–Ragebot–VisualsAndMore.lua")
                     
+                    
+addscriptexist(6298464951, "UnbreakableGet100KCashItems", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/UnbreakableGet100KCashItems.lua")
