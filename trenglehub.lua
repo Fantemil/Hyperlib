@@ -3552,3 +3552,5 @@ addscript(7196856665,"Wave Sword Bots Game [Collect All Orbs]", "WaveSwordBotsGa
                     
                     
 addscriptexist(537413528, "SPAKhubAdminflyaimandESP", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SPAKhubAdminflyaimandESP.lua")
+                    
+addscriptexist(9940051005, "BloxLegendsCollectAllPads", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BloxLegendsCollectAllPads.lua")
