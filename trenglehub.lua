@@ -7010,3 +7010,5 @@ addscript(5130498426,"AoT:Insertplayground [OP Admin Power]", "AoTInsertplaygrou
     
 addscript(8966584990,"Orthoxia Alpha [GodMode]", "OrthoxiaAlphaGodMode", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OrthoxiaAlphaGodMode.lua")
                     
+                    
+addscriptexist(4954752502, "TowerofMiseryAutoWinTeleportToWinnerRoom", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TowerofMiseryAutoWinTeleportToWinnerRoom.lua")
