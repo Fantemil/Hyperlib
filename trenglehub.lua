@@ -3278,3 +3278,5 @@ addscript(9167501050,"Lightsaber Arena [Kill Aura - Auto Block & Infinite Stamin
     
 addscript(596894229,"Elemental Adventure [Level Farm]", "ElementalAdventureLevelFarm", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ElementalAdventureLevelFarm.lua")
                     
+                    
+addscriptexist(8278412720, "CSPrisonLifeBETAAutoArrest", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CSPrisonLifeBETAAutoArrest.lua")
