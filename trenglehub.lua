@@ -6977,3 +6977,6 @@ addscript(3834081103,"Roblox– Toolspy – SPY On Palayers Tools", "Roblox–To
                     
                     
 addscriptexist(7285447838, "TokyoSagaNoCooldownsForEverythingShowHitboxInfiniteHunger", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TokyoSagaNoCooldownsForEverythingShowHitboxInfiniteHunger.lua")
+    
+addscript(3102144307,"Anime Clickers Simulator [Auto Pick Up Scavenger Shards]", "AnimeClickersSimulatorAutoPickUpScavengerShards", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AnimeClickersSimulatorAutoPickUpScavengerShards.lua")
+                    
