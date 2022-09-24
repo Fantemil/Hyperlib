@@ -5371,3 +5371,5 @@ addscriptexist(9281034297, "GoalKickSimulatorInfMoney", "Qalnik", "https://raw.g
 addscriptexist(6969185078, "ElementalAwakeningAutospin", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ElementalAwakeningAutospin.lua")
                     
 addscriptexist(8302406789, "AnimeLiftingSimulatorAutoliftAutoselllAutobuy", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AnimeLiftingSimulatorAutoliftAutoselllAutobuy.lua")
+                    
+addscriptexist(2202352383, "SuperPowerTrainingSimulatorAutoFarmStats", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SuperPowerTrainingSimulatorAutoFarmStats.lua")
