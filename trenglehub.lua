@@ -4403,3 +4403,6 @@ addscriptexist(9017974931, "ValobloxAutoInstantlyDefuseBomb", "Terni", "https://
     
 addscript(9571406871,"Roblox - UI Jan Lib", "RobloxUIJanLib", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RobloxUIJanLib.lua")
                     
+    
+addscript(8185222973,"Stanton County, Westlake [Spawn Any Item]", "StantonCountyWestlakeSpawnAnyItem", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/StantonCountyWestlakeSpawnAnyItem.lua")
+                    

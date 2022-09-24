@@ -1,0 +1,1 @@
+game:GetService("Players").LocalPlayer.PlayerGui.CoreUI.InventoryFrame.InventoryBorder.Inventory.Slot3.Item.ItemName.Text = "AK47"
