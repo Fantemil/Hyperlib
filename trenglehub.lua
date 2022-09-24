@@ -6960,3 +6960,5 @@ addscriptexist(1537690962, "BeeSwarmSimulatorRedeemCodesGetBoostsMore", "Terni",
 addscriptexist(8232438881, "ThiefSimulatorAutoRobNPC–AutoFarmMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ThiefSimulatorAutoRobNPC–AutoFarmMore.lua")
                     
 addscriptexist(8232438881, "ThiefSimulatorMoneyFarm", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ThiefSimulatorMoneyFarm.lua")
+                    
+addscriptexist(1345139196, "TreasureHuntSimulatorAutoFarmChestsMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TreasureHuntSimulatorAutoFarmChestsMore.lua")
