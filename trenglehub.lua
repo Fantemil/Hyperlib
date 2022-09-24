@@ -7175,3 +7175,5 @@ addscriptexist(8916037983, "starvingartistsCopyFigure", "Qalnik", "https://raw.g
 addscriptexist(7797478022, "BrokenBonesAutoUpgrade", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BrokenBonesAutoUpgrade.lua")
                     
 addscriptexist(7797478022, "BrokenBonesSimulatorInfbreaks", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BrokenBonesSimulatorInfbreaks.lua")
+                    
+addscriptexist(8357510970, "AnimePunchingSimulatorAutoFarmAutoUpgradeAutoRebirth", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AnimePunchingSimulatorAutoFarmAutoUpgradeAutoRebirth.lua")
