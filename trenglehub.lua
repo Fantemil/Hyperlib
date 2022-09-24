@@ -6369,3 +6369,6 @@ addscript(6381829480,"King Legacy [Auto Stats, Auto Farm, Bring All Fruit]", "Ki
                     
                     
 addscriptexist(8781849572, "StarSimulatorBetaInfplanks", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/StarSimulatorBetaInfplanks.lua")
+    
+addscript(8862273695,"Another JToH RPG [Get every item in the game]", "AnotherJToHRPGGeteveryiteminthegame", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AnotherJToHRPGGeteveryiteminthegame.lua")
+                    
