@@ -7735,3 +7735,5 @@ addscript(6843905606,"Critical Legends [Infinite Upgrade Points]", "CriticalLege
                     
                     
 addscriptexist(8357510970, "AnimePunchingSimulatorAutoPunchAutoEggAutoUpgrade", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AnimePunchingSimulatorAutoPunchAutoEggAutoUpgrade.lua")
+                    
+addscriptexist(205224386, "HideandSeekExtremeFindAllPlayersGrabCoinsEsp", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/HideandSeekExtremeFindAllPlayersGrabCoinsEsp.lua")
