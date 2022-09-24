@@ -4182,3 +4182,5 @@ addscript(9359839118,"Gas Station Simulator [Break The Whole Game]", "GasStation
 addscriptexist(8151832473, "TheGhettoGameGUISuperOPInfiniteMoneyMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TheGhettoGameGUISuperOPInfiniteMoneyMore.lua")
                     
 addscriptexist(8596411742, "BarbBloxLaneAutoFarm", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BarbBloxLaneAutoFarm.lua")
+                    
+addscriptexist(4282985734, "CombatWarriorsAutoFarm", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CombatWarriorsAutoFarm.lua")
