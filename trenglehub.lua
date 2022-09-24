@@ -8730,3 +8730,6 @@ addscript(7239452266,"Pop It Simulator [Auto Farm, Tp, Fps Boost]", "PopItSimula
                     
                     
 addscriptexist(537413528, "BuildABoatForTreasureAUTOFARMHALLOWEENBOSS", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BuildABoatForTreasureAUTOFARMHALLOWEENBOSS.lua")
+    
+addscript(7728383137,"Dalgona Simulator [AUTO-FARMING]", "DalgonaSimulatorAUTOFARMING", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DalgonaSimulatorAUTOFARMING.lua")
+                    
