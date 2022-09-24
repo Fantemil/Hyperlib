@@ -6274,3 +6274,6 @@ addscriptexist(6778844213, "EuphoriaragdolltestingRagdollAll", "Terni", "https:/
     
 addscript(7817016260,"Bloxston Mystery [Discover Everyones Roles]", "BloxstonMysteryDiscoverEveryonesRoles", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BloxstonMysteryDiscoverEveryonesRoles.lua")
                     
+    
+addscript(4111023553,"Deepwoken [Chest ESP, No Fog, And More]", "DeepwokenChestESPNoFogAndMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DeepwokenChestESPNoFogAndMore.lua")
+                    
