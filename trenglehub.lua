@@ -8078,3 +8078,5 @@ addscriptexist(583507031, "PapersPleaseGunMode", "Terni", "https://raw.githubuse
 addscriptexist(5112591059, "NinjamanSimulatorInfiniteStrength", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NinjamanSimulatorInfiniteStrength.lua")
                     
 addscriptexist(7666393362, "TowerofGuessingInfiniteSkips", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TowerofGuessingInfiniteSkips.lua")
+                    
+addscriptexist(7666393362, "TowerofGuessingGetAllBadgesAutoComlete", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TowerofGuessingGetAllBadgesAutoComlete.lua")
