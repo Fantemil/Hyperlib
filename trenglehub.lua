@@ -8457,3 +8457,6 @@ addscriptexist(7608438089, "TheWinterEscapeAutoFullCheer", "Terni", "https://raw
 addscriptexist(6055959032, "JailbirdESP", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/JailbirdESP.lua")
                     
 addscriptexist(6679274937, "VansWorldAutoQuestTpCoins", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/VansWorldAutoQuestTpCoins.lua")
+    
+addscript(7251333950,"untitled furry defenses [No Enemies]", "untitledfurrydefensesNoEnemies", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/untitledfurrydefensesNoEnemies.lua")
+                    
