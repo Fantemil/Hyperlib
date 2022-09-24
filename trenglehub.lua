@@ -3715,3 +3715,6 @@ addscript(8876694280,"Strong Simulator X [Auto Farm GUI]", "StrongSimulatorXAuto
     
 addscript(9359379224,"Chaotic Bean Simulator Early Beta [Slow Auto Farm]", "ChaoticBeanSimulatorEarlyBetaSlowAutoFarm", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ChaoticBeanSimulatorEarlyBetaSlowAutoFarm.lua")
                     
+    
+addscript(9190926538,"Toy Fighters [Auto Farm]", "ToyFightersAutoFarm", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ToyFightersAutoFarm.lua")
+                    
