@@ -7143,3 +7143,5 @@ addscript(7107498084,"Anime Battle Tycoon [Auto Collect Cash, God Mode, Infite J
     
 addscript(5546255721,"Rebirth Champions [Auto Click, Unlock GamePasses, Craft All Pets]", "RebirthChampionsAutoClickUnlockGamePassesCraftAllPets", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RebirthChampionsAutoClickUnlockGamePassesCraftAllPets.lua")
                     
+                    
+addscriptexist(8834250772, "AttackSimulatorAutoAttackSpawnAutoBuyWeaponsAutoCollectChests", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AttackSimulatorAutoAttackSpawnAutoBuyWeaponsAutoCollectChests.lua")
