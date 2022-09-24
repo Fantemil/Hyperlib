@@ -7978,3 +7978,5 @@ addscript(6810246027,"extraOrdinary [Auto Farm, Kill Aura]", "extraOrdinaryAutoF
                     
                     
 addscriptexist(7791873535, "REALISTICHOODInfMoney", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/REALISTICHOODInfMoney.lua")
+                    
+addscriptexist(7860844204, "LifeSentencePlayerespAttackauraRobesp", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LifeSentencePlayerespAttackauraRobesp.lua")
