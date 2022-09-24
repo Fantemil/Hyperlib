@@ -7805,3 +7805,5 @@ addscriptexist(8380203210, "ObliterationOrbsAutoCollectOrbs", "Qalnik", "https:/
 addscriptexist(7993293100, "TsunamiGameAutoFarm", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TsunamiGameAutoFarm.lua")
                     
 addscriptexist(8204899140, "FootballFusion2Magnet", "rbxscript", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FootballFusion2Magnet.lua")
+                    
+addscriptexist(6284583030, "PetSimulatorXUpdateGui", "rbxscript", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PetSimulatorXUpdateGui.lua")
