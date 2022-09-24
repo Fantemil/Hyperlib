@@ -5166,3 +5166,6 @@ addscriptexist(6284583030, "PetSimulatorXGUIAutoFarmTeleportsMore", "Terni", "ht
     
 addscript(7114796110,"Anime Training Simulator [GUI - Auto Farm, Teleports]", "AnimeTrainingSimulatorGUIAutoFarmTeleports", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AnimeTrainingSimulatorGUIAutoFarmTeleports.lua")
                     
+    
+addscript(7244314500,"Fightman Simulator [GUI - Auto Farm, Teleports]", "FightmanSimulatorGUIAutoFarmTeleports", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FightmanSimulatorGUIAutoFarmTeleports.lua")
+                    
