@@ -5445,3 +5445,6 @@ addscript(705844193,"One Piece Online Rebirth [Grab All Chests}", "OnePieceOnlin
                     
                     
 addscriptexist(534701013, "TheLabyrinthGUIReallyOverpowered", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TheLabyrinthGUIReallyOverpowered.lua")
+    
+addscript(8533682846,"Goofy Ahh [Collection GUI V2 - Fun Scripts]", "GoofyAhhCollectionGUIV2FunScripts", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/GoofyAhhCollectionGUIV2FunScripts.lua")
+                    
