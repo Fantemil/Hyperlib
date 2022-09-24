@@ -8398,3 +8398,6 @@ addscriptexist(7114796110, "AnimeTrainingSimulatorGamepass", "Qalnik", "https://
     
 addscript(3057050847,"Site-76", "Site76PrisonAnomaliesNoclipModDetector", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Site76PrisonAnomaliesNoclipModDetector.lua")
                     
+    
+addscript(5595252083,"RIOTFALL [Always HeadShot]", "RIOTFALLAlwaysHeadShot", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RIOTFALLAlwaysHeadShot.lua")
+                    
