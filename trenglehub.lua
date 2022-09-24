@@ -4307,3 +4307,6 @@ addscript(5991163185,"Spray Paint [Falseban Players Method]", "SprayPaintFalseba
                     
                     
 addscriptexist(2753915549, "BloxFruitsNewAutoFarm", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BloxFruitsNewAutoFarm.lua")
+    
+addscript(9292879820,"Grass Cutting Simulator [Free Stats and Currency]", "GrassCuttingSimulatorFreeStatsandCurrency", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/GrassCuttingSimulatorFreeStatsandCurrency.lua")
+                    
