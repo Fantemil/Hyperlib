@@ -6923,3 +6923,6 @@ addscriptexist(6125809531, "UntitledAttackOnTitanAutoFArmKillAuraInfGas", "Qalni
 addscriptexist(6284583030, "PetSimulatorXAutoEnchant", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PetSimulatorXAutoEnchant.lua")
                     
 addscriptexist(8110180444, "StrongPetSimulatorAutoCarryAutoeggInstantTrain", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/StrongPetSimulatorAutoCarryAutoeggInstantTrain.lua")
+    
+addscript(4689179508,"Project Ghoul [Auto Spin]", "ProjectGhoulAutoSpin", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ProjectGhoulAutoSpin.lua")
+                    
