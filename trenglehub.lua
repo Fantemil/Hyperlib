@@ -8651,3 +8651,6 @@ addscript(2313058949,"Tornado Alley Ultimate [TP, SPECTATE GAME, GIVE ITEMS]", "
     
 addscript(7768149183,"Find The Trollfaces [AUTO-FARM]", "FindTheTrollfacesAUTOFARM", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FindTheTrollfacesAUTOFARM.lua")
                     
+    
+addscript(7049683699,"Ragdoll Engine [NEW SCRIPT GUI]", "RagdollEngineNEWSCRIPTGUI", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RagdollEngineNEWSCRIPTGUI.lua")
+                    
