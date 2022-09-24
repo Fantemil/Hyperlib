@@ -4024,3 +4024,5 @@ addscriptexist(9344944754, "HunterxAthenaAutoPushupClimbMore", "Terni", "https:/
 addscriptexist(70005410, "BloxHuntAFKAutoFarm", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BloxHuntAFKAutoFarm.lua")
                     
 addscriptexist(8739839954, "JujutsuTycoonKillStudents", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/JujutsuTycoonKillStudents.lua")
+                    
+addscriptexist(8739839954, "JujutsuTycoonKillAllPlayers", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/JujutsuTycoonKillAllPlayers.lua")
