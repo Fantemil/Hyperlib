@@ -5490,3 +5490,5 @@ addscriptexist(8260276694, "AbilityWarsStandAttackTimeFreezeTimeReset", "Terni",
     
 addscript(6878438976,"Developer Inc. [Infinite Money]", "DeveloperIncInfiniteMoney", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DeveloperIncInfiniteMoney.lua")
                     
+                    
+addscriptexist(8540346411, "RebirthChampionsXUnlimitedClicksFarm", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RebirthChampionsXUnlimitedClicksFarm.lua")
