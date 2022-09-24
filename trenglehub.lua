@@ -8083,3 +8083,5 @@ addscriptexist(7666393362, "TowerofGuessingGetAllBadgesAutoComlete", "Terni", "h
     
 addscript(6305942109,"Laundry Simulator [Auto Farm, All Gamepass]", "LaundrySimulatorAutoFarmAllGamepass", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LaundrySimulatorAutoFarmAllGamepass.lua")
                     
+                    
+addscriptexist(6442957604, "DarkDexv3CustomIcons", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DarkDexv3CustomIcons.lua")
