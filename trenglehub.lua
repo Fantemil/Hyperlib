@@ -8238,3 +8238,5 @@ addscriptexist(6284583030, "PetSimulatorXQuest25ChristmasEvent", "Terni", "https
     
 addscript(7663721179,"Crystal Valley Mining Simulator [Quest Giver, Auto Farm]", "CrystalValleyMiningSimulatorQuestGiverAutoFarm", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CrystalValleyMiningSimulatorQuestGiverAutoFarm.lua")
                     
+                    
+addscriptexist(6859865958, "YouTubeSimulatorAutoVidemadeAutoEditVideotp", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/YouTubeSimulatorAutoVidemadeAutoEditVideotp.lua")
