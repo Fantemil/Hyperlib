@@ -7252,3 +7252,6 @@ addscriptexist(6683744559, "FightersEXInfiniteXP", "Terni", "https://raw.githubu
 addscriptexist(7842028704, "AnimeClashSimulatorAutoClickAutoSellBuythepets", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AnimeClashSimulatorAutoClickAutoSellBuythepets.lua")
                     
 addscriptexist(4195834406, "DragonBallNoCooldownNoCombatLogTeleport", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DragonBallNoCooldownNoCombatLogTeleport.lua")
+    
+addscript(8689635909,"Cookie Simulator 2 [Auto Cookies, TP Gems, Auto Sell]", "CookieSimulator2AutoCookiesTPGemsAutoSell", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CookieSimulator2AutoCookiesTPGemsAutoSell.lua")
+                    
