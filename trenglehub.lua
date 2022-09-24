@@ -7453,3 +7453,6 @@ addscriptexist(8592863835, "MagnetSimulator2GUIx25SellTeleportsAllLocations", "T
 addscriptexist(1345139196, "TreasureHuntSimulatorTeleportChestDigFaster", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TreasureHuntSimulatorTeleportChestDigFaster.lua")
                     
 addscriptexist(8554378337, "WeaponFightingSimulatorStartFarmCollectRewardsAntiAfk", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/WeaponFightingSimulatorStartFarmCollectRewardsAntiAfk.lua")
+    
+addscript(2377868063,"ZONE WAR!! Strucid [Aimbot, Visuals, GunMods]", "ZONEWARStrucidAimbotVisualsGunMods", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ZONEWARStrucidAimbotVisualsGunMods.lua")
+                    
