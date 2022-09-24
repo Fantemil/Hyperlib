@@ -5790,3 +5790,5 @@ addscript(8403541179,"Blood Engine 2 Slash Mania [Kill All]", "BloodEngine2Slash
     
 addscript(8396586868,"A 0ne Piece Game [Fruit Farm]", "A0nePieceGameFruitFarm", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/A0nePieceGameFruitFarm.lua")
                     
+                    
+addscriptexist(7952526341, "Roblox–SimpleDrawingBoxEsp", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Roblox–SimpleDrawingBoxEsp.lua")
