@@ -6085,3 +6085,6 @@ addscriptexist(5610197459, "ganguponpeoplesimulatorATM", "Terni", "https://raw.g
     
 addscript(6401440818,"MONOLlTH DEFENSE [Use Any Towers]", "MONOLlTHDEFENSEUseAnyTowers", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MONOLlTHDEFENSEUseAnyTowers.lua")
                     
+    
+addscript(6442957604,"Custom PC Tycoon [Collect all eggs]", "CustomPCTycoonCollectalleggs", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CustomPCTycoonCollectalleggs.lua")
+                    
