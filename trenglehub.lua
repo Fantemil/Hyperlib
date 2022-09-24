@@ -4498,3 +4498,5 @@ addscript(9966192771,"Adventure Simulator [Reveal whats behind rocks during mini
 addscriptexist(8884433153, "CollectAllPetsGUIAutoFarm", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CollectAllPetsGUIAutoFarm.lua")
                     
 addscriptexist(1554960397, "CarDealershipTycoonAutoFarmInfinitySpeedWalkonwater", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CarDealershipTycoonAutoFarmInfinitySpeedWalkonwater.lua")
+                    
+addscriptexist(7056922815, "Rapeer2AutoFarmAutoQuestAutoEquip", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Rapeer2AutoFarmAutoQuestAutoEquip.lua")
