@@ -6688,3 +6688,5 @@ addscript(6170705260,"Blending Simulator 2 [Auto Farm, Arena Tp, Tp home]", "Ble
 addscriptexist(6998582502, "DungeonCrusadersKillAuraFpsBoostWalkSpeed", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DungeonCrusadersKillAuraFpsBoostWalkSpeed.lua")
                     
 addscriptexist(7817016260, "BloxstonEsp", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BloxstonEsp.lua")
+                    
+addscriptexist(2788229376, "DaHoodCollectitems", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DaHoodCollectitems.lua")
