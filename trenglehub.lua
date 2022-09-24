@@ -4506,3 +4506,5 @@ addscriptexist(1962086868, "TowerOfHellAutoWinGodModeSpeedHack", "Qalnik", "http
 addscriptexist(142823291, "MurderMystery2", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MurderMystery2.lua")
                     
 addscriptexist(443406476, "ProjectLazarusZOMBIESSilentAimGunMods", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ProjectLazarusZOMBIESSilentAimGunMods.lua")
+                    
+addscriptexist(301549746, "CounterBloxGodModeCrashServer", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CounterBloxGodModeCrashServer.lua")
