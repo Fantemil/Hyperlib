@@ -2668,3 +2668,6 @@ addscript(2685347741,"Ghost Simulator [Auto Farm, Auto Sell]", "GhostSimulatorAu
                     
                     
 addscriptexist(292439477, "PhantomForcesESPAimbot", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PhantomForcesESPAimbot.lua")
+    
+addscript(5201039691,"Tatakai V.2 [ESP, Autofarm]", "TatakaiV2ESPAutofarm", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TatakaiV2ESPAutofarm.lua")
+                    
