@@ -2181,3 +2181,6 @@ addscriptexist(445664957, "ParkourEspTypes", "astrofile", "https://raw.githubuse
     
 addscript(9840387028,"Era of Althea [Auto Mobs, Walkspeed]", "EraofAltheaAutoMobsWalkspeed", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/EraofAltheaAutoMobsWalkspeed.lua")
                     
+    
+addscript(428114181,"Azure Mines [TP To ore, Auto Farm]", "AzureMinesTPTooreAutoFarm", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AzureMinesTPTooreAutoFarm.lua")
+                    
