@@ -7505,3 +7505,6 @@ addscriptexist(137885680, "ZombieRushAutoFarmAutobringAllAimbot", "Qalnik", "htt
 addscriptexist(286090429, "ArsenalSilentAimBotAntiAimNameTagEsp", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ArsenalSilentAimBotAntiAimNameTagEsp.lua")
                     
 addscriptexist(2534724415, "EmergencyResponseLibertyCountyInfiniteAmmo", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/EmergencyResponseLibertyCountyInfiniteAmmo.lua")
+    
+addscript(6878620017,"Mega Obby [Complete All Stages]", "MegaObbyCompleteAllStages", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MegaObbyCompleteAllStages.lua")
+                    
