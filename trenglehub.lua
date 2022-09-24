@@ -949,3 +949,5 @@ addscript(10652184030,"Jump Clicker ", "JumpClickerInfiniteStatsAutoFarm", "astr
     
 addscript(183364845,"Speed Run 4 ", "SpeedRun4AutoFarmGems", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SpeedRun4AutoFarmGems.lua")
                     
+                    
+addscriptexist(1962086868, "TowerOfHellRemoveAnticheatRemoveFogGiveallitems", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TowerOfHellRemoveAnticheatRemoveFogGiveallitems.lua")
