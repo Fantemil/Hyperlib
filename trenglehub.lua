@@ -8575,3 +8575,6 @@ addscriptexist(7549229959, "SquidGameTheGlassBridgeAutoFarm", "Terni", "https://
     
 addscript(4110892437,"Kaiju Universe [Server Crash Script]", "KaijuUniverseServerCrashScript", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/KaijuUniverseServerCrashScript.lua")
                     
+    
+addscript(8097148487,"Magic Champions [Farm Gui]", "MagicChampionsFarmGui", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MagicChampionsFarmGui.lua")
+                    
