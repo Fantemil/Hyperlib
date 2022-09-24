@@ -3418,3 +3418,5 @@ addscriptexist(6284583030, "PetSimulatorXAutofarmOpenEggsAutouseboosts", "Qalnik
 addscriptexist(9397663086, "NinjaTrainingSimulatorAutoFarmAutoRebirthAutoupgrades", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NinjaTrainingSimulatorAutoFarmAutoRebirthAutoupgrades.lua")
                     
 addscriptexist(4036494886, "GunSimulatorInfammoInfstarsNoreload", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/GunSimulatorInfammoInfstarsNoreload.lua")
+                    
+addscriptexist(286090429, "ZeusHub4Games", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ZeusHub4Games.lua")
