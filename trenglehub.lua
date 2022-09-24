@@ -5487,3 +5487,6 @@ addscriptexist(8278412720, "PrisonLifeRemasteredLocationTeleportationGUI", "Tern
 addscriptexist(1923555882, "EastBricktonAutoFishing", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/EastBricktonAutoFishing.lua")
                     
 addscriptexist(8260276694, "AbilityWarsStandAttackTimeFreezeTimeReset", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AbilityWarsStandAttackTimeFreezeTimeReset.lua")
+    
+addscript(6878438976,"Developer Inc. [Infinite Money]", "DeveloperIncInfiniteMoney", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DeveloperIncInfiniteMoney.lua")
+                    
