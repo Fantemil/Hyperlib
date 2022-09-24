@@ -4472,3 +4472,6 @@ addscript(4991214437,"town [Kill All - ESP - Chams & More!]", "townKillAllESPCha
                     
                     
 addscriptexist(1962086868, "TowerofHellTPToEndMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TowerofHellTPToEndMore.lua")
+    
+addscript(9566535167,"Diamond Reborn [Infinite Pokebooster Time]", "DiamondRebornInfinitePokeboosterTime", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DiamondRebornInfinitePokeboosterTime.lua")
+                    

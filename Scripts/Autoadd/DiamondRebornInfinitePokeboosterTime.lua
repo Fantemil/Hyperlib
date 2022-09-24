@@ -1,0 +1,3 @@
+game:GetService("ReplicatedStorage").REvents.Pokemon.ozAxZ:InvokeServer("Legendary",game:GetService("Players").LocalPlayer.PokeBooster,999999999999999999999)
+game:GetService("ReplicatedStorage").REvents.Pokemon.ozAxZ:InvokeServer("CatchRate",game:GetService("Players").LocalPlayer.PokeBooster,999999999999999999999)
+game:GetService("ReplicatedStorage").REvents.Pokemon.ozAxZ:InvokeServer("Experience",game:GetService("Players").LocalPlayer.PokeBooster,999999999999999999999) game:GetService("ReplicatedStorage").REvents.Pokemon.ozAxZ:InvokeServer("EVs",game:GetService("Players").LocalPlayer.PokeBooster,999999999999999999999)
