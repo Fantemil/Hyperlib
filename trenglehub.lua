@@ -3789,3 +3789,6 @@ addscriptexist(2506738224, "FallenMagicBullet", "Terni", "https://raw.githubuser
 addscriptexist(8884334497, "MiningClickerSimulatorGUIAutoClicksAutoRebirthMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MiningClickerSimulatorGUIAutoClicksAutoRebirthMore.lua")
                     
 addscriptexist(10118559731, "Nico’sNextbotsBotsEspTeleportToSafezone", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Nico’sNextbotsBotsEspTeleportToSafezone.lua")
+    
+addscript(9597319358,"Actors Tycoon [AutoFarm Buttons, Auto Upgrade Workers, Working on mobile]", "ActorsTycoonAutoFarmButtonsAutoUpgradeWorkersWorkingonmobile", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ActorsTycoonAutoFarmButtonsAutoUpgradeWorkersWorkingonmobile.lua")
+                    
