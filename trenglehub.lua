@@ -2989,3 +2989,5 @@ addscriptexist(9498006165, "TappingSimulatorSkipshinystage", "Qalnik", "https://
     
 addscript(659222129,"Swordburst 2 [WalkSpeed, Invisibility, INF Sprint]", "Swordburst2WalkSpeedInvisibilityINFSprint", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Swordburst2WalkSpeedInvisibilityINFSprint.lua")
                     
+                    
+addscriptexist(606849621, "JailbreakFERESIZEWITHNOLIMIT", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/JailbreakFERESIZEWITHNOLIMIT.lua")
