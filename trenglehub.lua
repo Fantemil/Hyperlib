@@ -2557,3 +2557,6 @@ addscriptexist(9970551995, "TouchTheGrassSimulatorInfcoins", "astrofile", "https
 addscriptexist(10524502174, "OnePunchFightersAutoClick", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OnePunchFightersAutoClick.lua")
                     
 addscriptexist(9872472334, "EvadeGodModeFullbright", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/EvadeGodModeFullbright.lua")
+    
+addscript(6114972958,"Initial D", "InitialDTougeLegendsUnlockcarsWalkspeed", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/InitialDTougeLegendsUnlockcarsWalkspeed.lua")
+                    
