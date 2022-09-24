@@ -5842,3 +5842,6 @@ addscriptexist(8209480473, "SpotifyIslandFarmMusic", "Qalnik", "https://raw.gith
     
 addscript(8875171205,"Telos [RE-RELEASE!] [Balanced Craftwars OP tools]", "TelosRERELEASEBalancedCraftwarsOPtools", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TelosRERELEASEBalancedCraftwarsOPtools.lua")
                     
+    
+addscript(9041110505,"Unlimited Upgrade Simulator [Inf Gem]", "UnlimitedUpgradeSimulatorInfGem", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/UnlimitedUpgradeSimulatorInfGem.lua")
+                    
