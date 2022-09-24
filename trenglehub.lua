@@ -2666,3 +2666,5 @@ addscriptexist(286090429, "ArsenalAutofarm", "astrofile", "https://raw.githubuse
     
 addscript(2685347741,"Ghost Simulator [Auto Farm, Auto Sell]", "GhostSimulatorAutoFarmAutoSell", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/GhostSimulatorAutoFarmAutoSell.lua")
                     
+                    
+addscriptexist(292439477, "PhantomForcesESPAimbot", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PhantomForcesESPAimbot.lua")
