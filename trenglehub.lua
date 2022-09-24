@@ -1890,3 +1890,5 @@ addscriptexist(370731277, "MeepCityGoKartZzzanimation", "astrofile", "https://ra
     
 addscript(5872075530,"Anarchy [Esp, Hitboxes]", "AnarchyEspHitboxes", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AnarchyEspHitboxes.lua")
                     
+                    
+addscriptexist(3351674303, "DrivingEmpireAutoFarmAutoDragRace", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DrivingEmpireAutoFarmAutoDragRace.lua")
