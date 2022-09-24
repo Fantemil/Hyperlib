@@ -1546,3 +1546,5 @@ addscriptexist(8130299583, "TridentSurvivalEspHeadHbeXray", "Qalnik", "https://r
     
 addscript(9737855826,"Trade Simulator [AntiAFK]", "TradeSimulatorAntiAFK", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TradeSimulatorAntiAFK.lua")
                     
+                    
+addscriptexist(1962086868, "TowerofHellGodmode", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TowerofHellGodmode.lua")
