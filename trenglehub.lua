@@ -1744,3 +1744,6 @@ addscriptexist(537413528, "BuildABoatForTreasureAutoFarmAutoOpenChest", "astrofi
     
 addscript(7280118908,"School Simulator [Free Gamepass]", "SchoolSimulatorFreeGamepass", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SchoolSimulatorFreeGamepass.lua")
                     
+    
+addscript(1240644540,"Vampire Hunters 3 [Spam Screen Text]", "VampireHunters3SpamScreenText", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/VampireHunters3SpamScreenText.lua")
+                    
