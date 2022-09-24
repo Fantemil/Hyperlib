@@ -8495,3 +8495,5 @@ addscript(3486025575,"Magnet Simulator [Auto Sell, Auto FArm, Auto Buy]", "Magne
     
 addscript(5534174456,"Tropical Resort Tycoon [Tp Tycoon, Auto Build, Auto Obby]", "TropicalResortTycoonTpTycoonAutoBuildAutoObby", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TropicalResortTycoonTpTycoonAutoBuildAutoObby.lua")
                     
+                    
+addscriptexist(6878620017, "MegaObbyAutoLvl", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MegaObbyAutoLvl.lua")
