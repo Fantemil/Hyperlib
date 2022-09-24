@@ -8064,3 +8064,5 @@ addscript(6432407703,"Big City Tycoon [Collect Presents]", "BigCityTycoonCollect
                     
                     
 addscriptexist(6055959032, "JailbirdEspSilentAim", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/JailbirdEspSilentAim.lua")
+                    
+addscriptexist(1345139196, "TreasureHuntSimulatorAutoFarmAutorebirth", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TreasureHuntSimulatorAutoFarmAutorebirth.lua")
