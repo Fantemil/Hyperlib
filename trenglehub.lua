@@ -3154,3 +3154,5 @@ addscriptexist(6403373529, "SlapBattlesKillAuraKillRandomplayerGetAllItems", "Qa
     
 addscript(4459593483,"FORCE [PRE-ALPHA] [GUI - Anti Ragdoll, Anti Damage & More!]", "FORCEPREALPHAGUIAntiRagdollAntiDamageMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FORCEPREALPHAGUIAntiRagdollAntiDamageMore.lua")
                     
+                    
+addscriptexist(8585657145, "AnimeHeroSimulatorAutoFarmNoKey", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AnimeHeroSimulatorAutoFarmNoKey.lua")
