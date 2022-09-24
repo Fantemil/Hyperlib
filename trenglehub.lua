@@ -6607,3 +6607,5 @@ addscriptexist(6766156863, "StrongmanSimulatorTparena", "Qalnik", "https://raw.g
     
 addscript(7478757481,"Undertale", "UndertaleTimelineCollapseAutoFarm", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/UndertaleTimelineCollapseAutoFarm.lua")
                     
+                    
+addscriptexist(8893378293, "GRAMMYWeekAutoCollectgrammys", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/GRAMMYWeekAutoCollectgrammys.lua")
