@@ -6901,3 +6901,6 @@ addscriptexist(7114303730, "DragonOrbzAutoFarmAutoQuestMore", "Terni", "https://
     
 addscript(7198676364,"Climb a Rainbow Pop it [Auto Farm]", "ClimbaRainbowPopitAutoFarm", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ClimbaRainbowPopitAutoFarm.lua")
                     
+    
+addscript(3295514368,"Sandhurst Military Academy [Click kill, loop kill, Effecting Me]", "SandhurstMilitaryAcademyClickkillloopkillEffectingMe", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SandhurstMilitaryAcademyClickkillloopkillEffectingMe.lua")
+                    
