@@ -5293,3 +5293,6 @@ addscriptexist(8278412720, "PrisonLifeRemasteredAutoFarmGUITeleportsMore", "Tern
 addscriptexist(8540168650, "StandUprightRebootedAutoFarm", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/StandUprightRebootedAutoFarm.lua")
                     
 addscriptexist(7214610985, "Stealth2LevelAndCoinsAutoFarm", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Stealth2LevelAndCoinsAutoFarm.lua")
+    
+addscript(444319338,"Cannoneers! [Auto Farm]", "CannoneersAutoFarm", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CannoneersAutoFarm.lua")
+                    
