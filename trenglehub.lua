@@ -8228,3 +8228,6 @@ addscript(5244411056,"Bloxy Bingo [Auto MArk, Auto Bingo, Rejoin]", "BloxyBingoA
                     
                     
 addscriptexist(7444263453, "JetpackJumpersFastAutoFarm", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/JetpackJumpersFastAutoFarm.lua")
+    
+addscript(8207275875,"Roliday Rumble 2021 [Kill Aura, Freeze Entity]", "RolidayRumble2021KillAuraFreezeEntity", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RolidayRumble2021KillAuraFreezeEntity.lua")
+                    
