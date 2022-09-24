@@ -6892,3 +6892,5 @@ addscriptexist(6558291063, "Wouldyourather2AutoFarm", "Terni", "https://raw.gith
     
 addscript(8110180444,"Strong Pet Simulator [Auto Farm GUI]", "StrongPetSimulatorAutoFarmGUI", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/StrongPetSimulatorAutoFarmGUI.lua")
                     
+                    
+addscriptexist(6442957604, "CustomPCTycoonAutoPCBuildAndSell", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CustomPCTycoonAutoPCBuildAndSell.lua")
