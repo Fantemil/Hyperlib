@@ -3055,3 +3055,6 @@ addscriptexist(5956785391, "ProjectSlayersKillAuraAutoFarmMore", "Terni", "https
 addscriptexist(537413528, "BuildaBoatForTreasureAutoFarmingGUI", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BuildaBoatForTreasureAutoFarmingGUI.lua")
                     
 addscriptexist(3956818381, "NinjaLegendsGUIAutoFarm", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NinjaLegendsGUIAutoFarm.lua")
+    
+addscript(9705460681,"The Ants Undergrounnd Kingdom [Free Cash]", "TheAntsUndergrounndKingdomFreeCash", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TheAntsUndergrounndKingdomFreeCash.lua")
+                    
