@@ -6301,3 +6301,5 @@ addscriptexist(6297822481, "TitanWarfareInfiniteSlots", "Terni", "https://raw.gi
 addscriptexist(2202352383, "SuperPowerTrainingSImulatorGUIAllAutoFarms", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SuperPowerTrainingSImulatorGUIAllAutoFarms.lua")
                     
 addscriptexist(7940932746, "RobloxNotificationUILib", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RobloxNotificationUILib.lua")
+                    
+addscriptexist(8302406789, "AnimeLiftingSimulatorAutoFarmGUI", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AnimeLiftingSimulatorAutoFarmGUI.lua")
