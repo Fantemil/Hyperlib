@@ -3564,3 +3564,6 @@ addscript(6961824067,"Fling Things and People [Anti Grab & More!]", "FlingThings
                     
                     
 addscriptexist(8473958692, "TheTrialsAutoPressButtonsOpenAllCrates", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TheTrialsAutoPressButtonsOpenAllCrates.lua")
+    
+addscript(8323912766,"Roblox [Chat Translator]", "RobloxChatTranslator", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RobloxChatTranslator.lua")
+                    
