@@ -3537,3 +3537,5 @@ addscript(7336302630,"Project Delta [Teleport Bypass]", "ProjectDeltaTeleportByp
     
 addscript(4169490976,"Mortem Metallum [Kill All]", "MortemMetallumKillAll", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MortemMetallumKillAll.lua")
                     
+                    
+addscriptexist(9049840490, "SonicSpeedSimulatorGUIAutoRunAutoRebirthMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SonicSpeedSimulatorGUIAutoRunAutoRebirthMore.lua")
