@@ -5358,3 +5358,6 @@ addscriptexist(5154858502, "MurderersvsSheriffsKillAll", "Qalnik", "https://raw.
 addscriptexist(9103460924, "SwordFactoryXAutoSpawnAutoUpgradeAutoUpgradeMultiplier", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SwordFactoryXAutoSpawnAutoUpgradeAutoUpgradeMultiplier.lua")
                     
 addscriptexist(5023820864, "TradeTowerAutoBuyAutoSellAutoClick", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TradeTowerAutoBuyAutoSellAutoClick.lua")
+    
+addscript(8657806289,"Dummies vs Noobs [Damage Multiplier]", "DummiesvsNoobsDamageMultiplier", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DummiesvsNoobsDamageMultiplier.lua")
+                    
