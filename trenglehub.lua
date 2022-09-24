@@ -2212,3 +2212,6 @@ addscript(863266079,"Apocalypse Rising 2 [Inf Jump, Aimbot]", "ApocalypseRising2
 addscriptexist(10047913840, "TrainingSimulatorRemoteSpy", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TrainingSimulatorRemoteSpy.lua")
                     
 addscriptexist(3823781113, "SaberSimulatorAutoClicker", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SaberSimulatorAutoClicker.lua")
+    
+addscript(9976239895,"Gumball Factory Tycoon [Auto Farm]", "GumballFactoryTycoonAutoFarm", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/GumballFactoryTycoonAutoFarm.lua")
+                    
