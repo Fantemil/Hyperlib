@@ -6117,3 +6117,6 @@ addscriptexist(9049840490, "SonicSpeedSimulator15kmoney", "Qalnik", "https://raw
 addscriptexist(2693739238, "THIEFLIFESimulatorGetbestloot", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/THIEFLIFESimulatorGetbestloot.lua")
                     
 addscriptexist(6778844213, "EuphoriaragdolltestingRagdollall", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/EuphoriaragdolltestingRagdollall.lua")
+    
+addscript(3025990139,"Unboxing Simulator [Auto Farm - Auto Quest]", "UnboxingSimulatorAutoFarmAutoQuest", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/UnboxingSimulatorAutoFarmAutoQuest.lua")
+                    
