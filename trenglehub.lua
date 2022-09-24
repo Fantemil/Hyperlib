@@ -7173,3 +7173,5 @@ addscriptexist(566399244, "ElementalBattlegroundsAutoFarmStandsAutoFarmGems", "Q
 addscriptexist(8916037983, "starvingartistsCopyFigure", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/starvingartistsCopyFigure.lua")
                     
 addscriptexist(7797478022, "BrokenBonesAutoUpgrade", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BrokenBonesAutoUpgrade.lua")
+                    
+addscriptexist(7797478022, "BrokenBonesSimulatorInfbreaks", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BrokenBonesSimulatorInfbreaks.lua")
