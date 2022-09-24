@@ -2644,3 +2644,6 @@ addscriptexist(7991339063, "RainbowFriendsGodModeAutoWin", "astrofile", "https:/
     
 addscript(5201688943,"Da hood [ESP]", "DahoodESP", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DahoodESP.lua")
                     
+    
+addscript(6939849554,"Cart Ride Tycoon thru a Cave 2 [Auto farm cash]", "CartRideTycoonthruaCave2Autofarmcash", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CartRideTycoonthruaCave2Autofarmcash.lua")
+                    
