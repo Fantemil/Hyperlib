@@ -7529,3 +7529,5 @@ addscriptexist(574407221, "SuperHeroTycoonStealMoneyOnceStealMoneyCratesDeletela
     
 addscript(6484864709,"Gym Tycoon [Auto WorkOut, Redeem Codes, Collect Drops]", "GymTycoonAutoWorkOutRedeemCodesCollectDrops", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/GymTycoonAutoWorkOutRedeemCodesCollectDrops.lua")
                     
+                    
+addscriptexist(4954096313, "FieldTripZAutoHetHealitemsGodModeYourSelfFly", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FieldTripZAutoHetHealitemsGodModeYourSelfFly.lua")
