@@ -8205,3 +8205,5 @@ addscript(4793451617,"Planet Mining Simulator [Auto Farm & More!]", "PlanetMinin
                     
                     
 addscriptexist(5736409216, "MallTycoonGUIAutoBuyAutoCollectMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MallTycoonGUIAutoBuyAutoCollectMore.lua")
+                    
+addscriptexist(6802248248, "SAITAMANIAGiftServerHop", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SAITAMANIAGiftServerHop.lua")
