@@ -3374,3 +3374,6 @@ addscriptexist(863266079, "ApocalypseRising2ZombieEsp", "Qalnik", "https://raw.g
     
 addscript(8528736393,"Beatland [Free UGC Items GUI]", "BeatlandFreeUGCItemsGUI", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BeatlandFreeUGCItemsGUI.lua")
                     
+    
+addscript(9603033881,"Bid Battles [Auto Queue Auction, Auto Bid, Auto Sell]", "BidBattlesAutoQueueAuctionAutoBidAutoSell", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BidBattlesAutoQueueAuctionAutoBidAutoSell.lua")
+                    
