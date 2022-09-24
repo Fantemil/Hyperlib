@@ -7711,3 +7711,5 @@ addscriptexist(281489669, "WizardTycoon2PlayerAutoBuyAll", "rbxscript", "https:/
 addscriptexist(8554378337, "WeaponFightingSimulatorGUIAutoFarmAutoCollectMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/WeaponFightingSimulatorGUIAutoFarmAutoCollectMore.lua")
                     
 addscriptexist(45146873, "TowerBattlesAutoFarmCredits", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TowerBattlesAutoFarmCredits.lua")
+                    
+addscriptexist(6299805723, "AnimeFightersSimulatorGUITeleportsOpenSource", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AnimeFightersSimulatorGUITeleportsOpenSource.lua")
