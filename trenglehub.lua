@@ -4143,3 +4143,5 @@ addscript(6763893674,"Ballista [Inf arrows, Fast arrow, No roll cooldown]", "Bal
     
 addscript(6937208251,"Star Wars", "StarWarsBattlegroundSilentAim", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/StarWarsBattlegroundSilentAim.lua")
                     
+                    
+addscriptexist(9551640993, "MiningSimulator2AutoFarmGUI", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MiningSimulator2AutoFarmGUI.lua")
