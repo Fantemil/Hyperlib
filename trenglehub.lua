@@ -1858,3 +1858,5 @@ addscript(2866967438,"Fishing Simulator [Auto Farm, Auto Fish]", "FishingSimulat
                     
                     
 addscriptexist(5602055394, "HoodModdedInfJumpEsp", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/HoodModdedInfJumpEsp.lua")
+                    
+addscriptexist(8962384769, "FireworkSimulatorAutoHatchAutoFarm", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FireworkSimulatorAutoHatchAutoFarm.lua")
