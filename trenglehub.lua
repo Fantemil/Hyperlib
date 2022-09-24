@@ -6696,3 +6696,6 @@ addscriptexist(606849621, "JailbreakkillAuraAutoFarmCollectairdrops", "Qalnik", 
 addscriptexist(6284583030, "PetSimulatorXMiniFarmingGUI", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PetSimulatorXMiniFarmingGUI.lua")
                     
 addscriptexist(3527629287, "BIGPaintballKillAllOpenSource", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BIGPaintballKillAllOpenSource.lua")
+    
+addscript(2745661925,"Jump Over The Walls [Auto Farm & More!]", "JumpOverTheWallsAutoFarmMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/JumpOverTheWallsAutoFarmMore.lua")
+                    
