@@ -2128,3 +2128,6 @@ addscript(147848991,"Be A Parkour Ninja [Silent Aim, Esp]", "BeAParkourNinjaSile
     
 addscript(9863691914,"Backrooms Morphs [Kill All Players, NPCs", "BackroomsMorphsKillAllPlayersNPCs", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BackroomsMorphsKillAllPlayersNPCs.lua")
                     
+    
+addscript(9970551995,"Touch The Grass Simulator! [AutoHatch, KillAura]", "TouchTheGrassSimulatorAutoHatchKillAura", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TouchTheGrassSimulatorAutoHatchKillAura.lua")
+                    
