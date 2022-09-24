@@ -3862,3 +3862,5 @@ addscriptexist(10001513103, "LimitedWordsGUI", "Terni", "https://raw.githubuserc
     
 addscript(7056117669,"get chased by a rocket [Kick Player]", "getchasedbyarocketKickPlayer", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/getchasedbyarocketKickPlayer.lua")
                     
+                    
+addscriptexist(7056117669, "getchasedbyarocketKickAll", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/getchasedbyarocketKickAll.lua")
