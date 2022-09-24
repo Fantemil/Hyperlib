@@ -3253,3 +3253,5 @@ addscript(6711562581,"Eight Driver Car Racing [Infinite Drift]", "EightDriverCar
 addscriptexist(6711562581, "EightDriverCarRacingInfiniteMoney", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/EightDriverCarRacingInfiniteMoney.lua")
                     
 addscriptexist(6677985923, "MillionaireEmpireTycoonInfiniteCash", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MillionaireEmpireTycoonInfiniteCash.lua")
+                    
+addscriptexist(5993942214, "RushPointSilentAimNoRecoil", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RushPointSilentAimNoRecoil.lua")
