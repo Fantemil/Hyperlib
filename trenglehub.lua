@@ -4562,3 +4562,5 @@ addscript(1345139196,"Treasure Hunt Simulator [Auto Farm]", "TreasureHuntSimulat
     
 addscript(9306912037,"Hole In One Simulator [Auto Swing]", "HoleInOneSimulatorAutoSwing", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/HoleInOneSimulatorAutoSwing.lua")
                     
+                    
+addscriptexist(198116126, "TradelandsAutoFarmTeleportWalkOnWaterMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TradelandsAutoFarmTeleportWalkOnWaterMore.lua")
