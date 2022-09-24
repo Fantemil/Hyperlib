@@ -2589,3 +2589,5 @@ addscriptexist(192800, "WorkataPizzaPlaceBecomemanager", "astrofile", "https://r
 addscriptexist(2809202155, "YourBizarreAdventureItemFarm", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/YourBizarreAdventureItemFarm.lua")
                     
 addscriptexist(185655149, "Bloxburg", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Bloxburg.lua")
+                    
+addscriptexist(9285238704, "RaceClickerAutoWin", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RaceClickerAutoWin.lua")
