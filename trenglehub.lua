@@ -7217,3 +7217,6 @@ addscriptexist(4996049426, "AllStarTowerDefenseAutoJoimExtremeGoWorld", "Qalnik"
 addscriptexist(189707, "NaturalDisasterSurvivalAutoWinNoFallDamageVopeMap", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NaturalDisasterSurvivalAutoWinNoFallDamageVopeMap.lua")
                     
 addscriptexist(5910449407, "ProjectMenacingGodMode", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ProjectMenacingGodMode.lua")
+    
+addscript(7135656646,"Shoot people simulator [Instant Kill - Silent AIM - No Cooldown]", "ShootpeoplesimulatorInstantKillSilentAIMNoCooldown", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ShootpeoplesimulatorInstantKillSilentAIMNoCooldown.lua")
+                    
