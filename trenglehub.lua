@@ -6613,3 +6613,5 @@ addscriptexist(8893378293, "GRAMMYWeekAutoCollectgrammys", "Qalnik", "https://ra
 addscriptexist(4855457388, "DemonfallGUIAllBossFarmOtherFarm", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DemonfallGUIAllBossFarmOtherFarm.lua")
                     
 addscriptexist(6555084601, "ВирусRPNukeGun–GiveItems–AntiCheatsBypass", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ВирусRPNukeGun–GiveItems–AntiCheatsBypass.lua")
+                    
+addscriptexist(534701013, "TheLabyrinthAutoFishAutoTressMazeEsp", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TheLabyrinthAutoFishAutoTressMazeEsp.lua")
