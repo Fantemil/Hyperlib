@@ -7477,3 +7477,5 @@ addscriptexist(292439477, "PhantomForcesGrenadePrediction", "Terni", "https://ra
     
 addscript(9468057661,"Super Hero Tycoon [Set Player Money, Set Walk Speed, Delete Doors]", "SuperHeroTycoonSetPlayerMoneySetWalkSpeedDeleteDoors", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SuperHeroTycoonSetPlayerMoneySetWalkSpeedDeleteDoors.lua")
                     
+                    
+addscriptexist(8592863835, "MagnetSimulator2AutoFarmAutoRebirthSellAll", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MagnetSimulator2AutoFarmAutoRebirthSellAll.lua")
