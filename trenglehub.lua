@@ -5941,3 +5941,6 @@ addscript(8747402506,"Prop Hunt [Kill All]", "PropHuntKillAll", "Terni", "https:
     
 addscript(6847090259,"Bulked Up [Auto Collect Eggs]", "BulkedUpAutoCollectEggs", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BulkedUpAutoCollectEggs.lua")
                     
+    
+addscript(5049335549,"Dawn of Aurora RP [Auto Farm Free]", "DawnofAuroraRPAutoFarmFree", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DawnofAuroraRPAutoFarmFree.lua")
+                    
