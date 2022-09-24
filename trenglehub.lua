@@ -2336,3 +2336,5 @@ addscript(7606302010,"YoYo Simulator [Auto YoYo, Auto Hatch]", "YoYoSimulatorAut
     
 addscript(8811271345,"Balanced Craftwars Overhaul [Godmode, Autofarm]", "BalancedCraftwarsOverhaulGodmodeAutofarm", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BalancedCraftwarsOverhaulGodmodeAutofarm.lua")
                     
+                    
+addscriptexist(10347946161, "RatWashingTycoonAutoObbyAutoWash", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RatWashingTycoonAutoObbyAutoWash.lua")
