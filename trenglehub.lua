@@ -3030,3 +3030,5 @@ addscriptexist(2788229376, "DahoodSpeedMacro", "Qalnik", "https://raw.githubuser
     
 addscript(5670218884,"Cryptik [Item Esp]", "CryptikItemEsp", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CryptikItemEsp.lua")
                     
+                    
+addscriptexist(2474168535, "WestboundAimBot", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/WestboundAimBot.lua")
