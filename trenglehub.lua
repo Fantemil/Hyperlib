@@ -5285,3 +5285,5 @@ addscriptexist(7622046644, "MonsterGhoulChangetokagunesquinquesyouwant", "Qalnik
     
 addscript(6085581583,"Project Hero [Kill Aura, Equip All Quirks, Mob Farm]", "ProjectHeroKillAuraEquipAllQuirksMobFarm", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ProjectHeroKillAuraEquipAllQuirksMobFarm.lua")
                     
+                    
+addscriptexist(7560156054, "ClickerSimulatorAutoClickAutoRebirthsAutoSpinDaily", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ClickerSimulatorAutoClickAutoRebirthsAutoSpinDaily.lua")
