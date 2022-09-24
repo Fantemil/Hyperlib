@@ -8261,3 +8261,6 @@ addscriptexist(4954096313, "FieldTripZKillAllPlayers", "Qalnik", "https://raw.gi
     
 addscript(855499080,"SKYWARS [Anti Cheat Bypass]", "SKYWARSAntiCheatBypass", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SKYWARSAntiCheatBypass.lua")
                     
+    
+addscript(6161747775,"Pirate Clash [Kill Aura]", "PirateClashKillAura", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PirateClashKillAura.lua")
+                    
