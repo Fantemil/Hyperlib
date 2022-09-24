@@ -6352,3 +6352,5 @@ addscriptexist(7560156054, "ClickerSimulatorAutoFarmGUI", "Terni", "https://raw.
     
 addscript(8382553377,"Boom Simulator [GUI - Auto Farm, Teleports]", "BoomSimulatorGUIAutoFarmTeleports", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BoomSimulatorGUIAutoFarmTeleports.lua")
                     
+                    
+addscriptexist(8781849572, "StarSimulatorBetaInfresources", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/StarSimulatorBetaInfresources.lua")
