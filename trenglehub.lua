@@ -1937,3 +1937,5 @@ addscriptexist(8963721566, "TheBackroomsInfStamina", "astrofile", "https://raw.g
 addscriptexist(9872472334, "EvadeFreeGamepasses", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/EvadeFreeGamepasses.lua")
                     
 addscriptexist(142823291, "MurderMystery2AutoFarmGodmode", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MurderMystery2AutoFarmGodmode.lua")
+                    
+addscriptexist(2622527242, "SCPrBreachInfCapacityFastEscape", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SCPrBreachInfCapacityFastEscape.lua")
