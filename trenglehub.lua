@@ -8128,3 +8128,5 @@ addscriptexist(4934471106, "MyHeroManiaFarmMobsHidename", "Terni", "https://raw.
 addscriptexist(6938803436, "AnimeDimensionsSimulatorAutoJoinLobbyAutoKillMobs", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AnimeDimensionsSimulatorAutoJoinLobbyAutoKillMobs.lua")
                     
 addscriptexist(8116417963, "CarcraftInfiniteCurrency", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CarcraftInfiniteCurrency.lua")
+                    
+addscriptexist(6802248248, "SAITAMANIAFarmLevelCollectGiftMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SAITAMANIAFarmLevelCollectGiftMore.lua")
