@@ -5635,3 +5635,6 @@ addscript(5135889792,"Dystovia [Collect All]", "DystoviaCollectAll", "Terni", "h
                     
                     
 addscriptexist(9203864304, "RaiseaFloppaAutoFarmInstaFinish", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RaiseaFloppaAutoFarmInstaFinish.lua")
+    
+addscript(8854753304,"Interactive Intimate [Farm Points]", "InteractiveIntimateFarmPoints", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/InteractiveIntimateFarmPoints.lua")
+                    
