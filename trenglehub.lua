@@ -1574,3 +1574,5 @@ addscriptexist(8750997647315, "TappingLegendsXAutoEggsAutoRebirth", "astrofile",
     
 addscript(7453798168,"YouTube Simulator X [AutoCandy, AutoClick]", "YouTubeSimulatorXAutoCandyAutoClick", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/YouTubeSimulatorXAutoCandyAutoClick.lua")
                     
+                    
+addscriptexist(382378111330000, "SaberSimulatorAutoSwingAutoBuy", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SaberSimulatorAutoSwingAutoBuy.lua")
