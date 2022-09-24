@@ -7938,3 +7938,6 @@ addscriptexist(662417684, "LUCKYBLOCKSAllTools", "Qalnik", "https://raw.githubus
 addscriptexist(6356806222, "LagTest2021NoLag", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LagTest2021NoLag.lua")
                     
 addscriptexist(6442957604, "CustomPCTycoonRedeemAllCodes", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CustomPCTycoonRedeemAllCodes.lua")
+    
+addscript(5112591059,"Ninjaman Simulator [Inf Strength]", "NinjamanSimulatorInfStrength", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NinjamanSimulatorInfStrength.lua")
+                    
