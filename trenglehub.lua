@@ -3041,3 +3041,6 @@ addscriptexist(6512923934, "RobloxCtrlclicktp", "Qalnik", "https://raw.githubuse
     
 addscript(4556148591,"Blackout [GUI - Get Any Weapon Free]", "BlackoutGUIGetAnyWeaponFree", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BlackoutGUIGetAnyWeaponFree.lua")
                     
+    
+addscript(9290611413,"Roblox [Smooth Blocks]", "RobloxSmoothBlocks", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RobloxSmoothBlocks.lua")
+                    
