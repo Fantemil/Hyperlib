@@ -8384,3 +8384,5 @@ addscript(5732966938,"WORLD DEFENDERS - Tower Defense [Insta Kill]", "WORLDDEFEN
     
 addscript(7449695387,"Pet Fighters Simulator [Auto FArm, Auto Collect Coins, Click Attack]", "PetFightersSimulatorAutoFArmAutoCollectCoinsClickAttack", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PetFightersSimulatorAutoFArmAutoCollectCoinsClickAttack.lua")
                     
+                    
+addscriptexist(4924922222, "BrookhavenRPAllPasesFeHeadlessGarage", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BrookhavenRPAllPasesFeHeadlessGarage.lua")
