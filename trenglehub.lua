@@ -7626,3 +7626,6 @@ addscript(8303498444,"Blocky World [Mine Ores]", "BlockyWorldMineOres", "Terni",
                     
                     
 addscriptexist(8303498444, "BlockyWorldInfiniteCoins", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BlockyWorldInfiniteCoins.lua")
+    
+addscript(6811842210,"Parkour Run REJOIN AUTO FARM - REMOVE KILL PARTS", "ParkourRunREJOINAUTOFARMREMOVEKILLPARTS", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ParkourRunREJOINAUTOFARMREMOVEKILLPARTS.lua")
+                    
