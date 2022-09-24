@@ -3869,3 +3869,6 @@ addscriptexist(4459593483, "FORCEPvpMode", "Qalnik", "https://raw.githubusercont
     
 addscript(6875747014,"Ronopoly [Spam dice]", "RonopolySpamdice", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RonopolySpamdice.lua")
                     
+    
+addscript(653205701,"Fort Martin, Military Base [jumping]", "FortMartinMilitaryBasejumping", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FortMartinMilitaryBasejumping.lua")
+                    
