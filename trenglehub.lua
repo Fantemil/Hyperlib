@@ -2826,3 +2826,6 @@ addscript(8141566932,"Roblox [Hoho Gui Premuim Paid]", "RobloxHohoGuiPremuimPaid
                     
                     
 addscriptexist(6902912928, "GETTOTHETOPInfMoney", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/GETTOTHETOPInfMoney.lua")
+    
+addscript(9871062639,"Flappy Duo [Infinite Score]", "FlappyDuoInfiniteScore", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FlappyDuoInfiniteScore.lua")
+                    
