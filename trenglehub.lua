@@ -2449,3 +2449,5 @@ addscript(6716188523,"Business Tycoon [Inf cash]", "BusinessTycoonInfcash", "ast
     
 addscript(6679274937,"Vans World [Pencil cases]", "VansWorldPencilcases", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/VansWorldPencilcases.lua")
                     
+                    
+addscriptexist(7899881670, "RBWorld4Shootassist", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RBWorld4Shootassist.lua")
