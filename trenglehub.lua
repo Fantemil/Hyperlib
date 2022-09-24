@@ -8761,3 +8761,5 @@ addscript(6073366803,"Rage Runner [AUTO-WIN, INF Jump, No Fall]", "RageRunnerAUT
                     
                     
 addscriptexist(183364845, "SpeedRun4AUTOFARM3UNLOCKALLLEVELS", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SpeedRun4AUTOFARM3UNLOCKALLLEVELS.lua")
+                    
+addscriptexist(2202352383, "SuperHeroTrainingSimulatorJumpFarmTeleportFastFarm", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SuperHeroTrainingSimulatorJumpFarmTeleportFastFarm.lua")
