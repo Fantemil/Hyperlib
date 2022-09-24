@@ -4044,3 +4044,6 @@ addscriptexist(8739839954, "JujutsuTycoonCollectLoot", "Terni", "https://raw.git
 addscriptexist(1730877806, "GrandPieceOnlineBountyESP", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/GrandPieceOnlineBountyESP.lua")
                     
 addscriptexist(6678877691, "ZOぞSAMURAITeleportAura", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ZOぞSAMURAITeleportAura.lua")
+    
+addscript(447452406,"Robloxian High School [Trash Bag Spam]", "RobloxianHighSchoolTrashBagSpam", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RobloxianHighSchoolTrashBagSpam.lua")
+                    
