@@ -8625,3 +8625,6 @@ addscriptexist(7114796110, "AnimeTrainingSimulatorAUTOFARMAUTOTRAINAUTOEGG", "Te
     
 addscript(413053960,"The Legendary Swords 2 RPG [INF Gold, INF Healt, More!]", "TheLegendarySwords2RPGINFGoldINFHealtMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TheLegendarySwords2RPGINFGoldINFHealtMore.lua")
                     
+    
+addscript(1466995005,"RAGDOLL UNIVERSE [Snowflake Farm]", "RAGDOLLUNIVERSESnowflakeFarm", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RAGDOLLUNIVERSESnowflakeFarm.lua")
+                    
