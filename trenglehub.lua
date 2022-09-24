@@ -2125,3 +2125,6 @@ addscriptexist(10087074695, "KnifeStrifeAllKnives", "astrofile", "https://raw.gi
     
 addscript(147848991,"Be A Parkour Ninja [Silent Aim, Esp]", "BeAParkourNinjaSilentAimEsp", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BeAParkourNinjaSilentAimEsp.lua")
                     
+    
+addscript(9863691914,"Backrooms Morphs [Kill All Players, NPCs", "BackroomsMorphsKillAllPlayersNPCs", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BackroomsMorphsKillAllPlayersNPCs.lua")
+                    
