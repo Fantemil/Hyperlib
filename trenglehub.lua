@@ -2417,3 +2417,6 @@ addscript(6456351776,"Kaiju Paradise [No CD Grab, Walkspeed]", "KaijuParadiseNoC
     
 addscript(6802248248,"SAITAMANIA [Auto Spin, Rebirth]", "SAITAMANIAAutoSpinRebirth", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SAITAMANIAAutoSpinRebirth.lua")
                     
+    
+addscript(260606376,"Realistic Roleplay 2 [Auto Farm]", "RealisticRoleplay2AutoFarm", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RealisticRoleplay2AutoFarm.lua")
+                    
