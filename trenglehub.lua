@@ -6265,3 +6265,5 @@ addscriptexist(606849621, "JailbreakInstantTeleportToCriminalBase", "Terni", "ht
 addscriptexist(4588604953, "CriminalityFreeESPGUI", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CriminalityFreeESPGUI.lua")
                     
 addscriptexist(292439477, "PhantomForcesRageLegitInvisibleGunMods", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PhantomForcesRageLegitInvisibleGunMods.lua")
+                    
+addscriptexist(8492553855, "ProjectUprightNoPunchCooldown", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ProjectUprightNoPunchCooldown.lua")
