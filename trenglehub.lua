@@ -6776,3 +6776,6 @@ addscript(5327880096,"Online Business Simulator 2 [Auto work online]", "OnlineBu
 addscriptexist(189707, "NaturalDisasterSurvivalIncreasesthechancesofsurvival", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NaturalDisasterSurvivalIncreasesthechancesofsurvival.lua")
                     
 addscriptexist(7708751418, "SmashingSimulatorXobjectmod", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SmashingSimulatorXobjectmod.lua")
+    
+addscript(8892207911,"Ragdoll Engine [Push All]", "RagdollEnginePushAll", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RagdollEnginePushAll.lua")
+                    
