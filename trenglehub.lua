@@ -4262,3 +4262,6 @@ addscriptexist(8596411742, "BarbBloxLaneKillAllMoneyFarm", "Terni", "https://raw
     
 addscript(7261261021,"Raging Seas [Inf Stamina, Fruit Spawner, Auto Stats]", "RagingSeasInfStaminaFruitSpawnerAutoStats", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RagingSeasInfStaminaFruitSpawnerAutoStats.lua")
                     
+    
+addscript(6644653750,"Paper.IO [Semi Auto Win]", "PaperIOSemiAutoWin", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PaperIOSemiAutoWin.lua")
+                    
