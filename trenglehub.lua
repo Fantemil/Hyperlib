@@ -3884,3 +3884,5 @@ addscript(9396463375,"Mining Empire [Infinite Vouchers]", "MiningEmpireInfiniteV
 addscriptexist(9396463375, "MiningEmpireInfCoins", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MiningEmpireInfCoins.lua")
                     
 addscriptexist(8303902695, "PetPosseAutorebirth", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PetPosseAutorebirth.lua")
+                    
+addscriptexist(9508087919, "ApeirophobiaAll10LvlEspExitInfStamina", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ApeirophobiaAll10LvlEspExitInfStamina.lua")
