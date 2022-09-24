@@ -6031,3 +6031,5 @@ addscriptexist(3522803956, "DePrideIsleSanatoriumGUINoRagdollNoFallDamage", "Ter
     
 addscript(9278437733,"Elemental Pet Battles [Infinite Coins]", "ElementalPetBattlesInfiniteCoins", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ElementalPetBattlesInfiniteCoins.lua")
                     
+                    
+addscriptexist(8540168650, "StandUprightRebootedItemFarmAutoFarmInvisibleMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/StandUprightRebootedItemFarmAutoFarmInvisibleMore.lua")
