@@ -5864,3 +5864,5 @@ addscriptexist(3233893879, "BadBusiness303ClientAntiCheatBypass", "Terni", "http
     
 addscript(1696916806,"Base Raiders [Auto Farm - Auto Crate - Anti AFK]", "BaseRaidersAutoFarmAutoCrateAntiAFK", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BaseRaidersAutoFarmAutoCrateAntiAFK.lua")
                     
+                    
+addscriptexist(2512643572, "BubbleGumSimulatorAutoPotionsAutoLabGUI", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BubbleGumSimulatorAutoPotionsAutoLabGUI.lua")
