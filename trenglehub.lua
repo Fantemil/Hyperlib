@@ -8041,3 +8041,6 @@ addscriptexist(6114360009, "PrisonLife3AutoRob1000PerSecond", "Terni", "https://
 addscriptexist(6902912928, "GETTOTHETOPInfinitePoints", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/GETTOTHETOPInfinitePoints.lua")
                     
 addscriptexist(6902912928, "GETTOTHETOPAutoWin", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/GETTOTHETOPAutoWin.lua")
+    
+addscript(4695007916,"Weight Lifting Simulator 3 [Infinite Strength]", "WeightLiftingSimulator3InfiniteStrength", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/WeightLiftingSimulator3InfiniteStrength.lua")
+                    
