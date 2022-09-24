@@ -8289,3 +8289,5 @@ addscriptexist(4996049426, "AllStarTowerDefenseGiftFarming", "Terni", "https://r
 addscriptexist(6720959312, "LootQuestAutoFarmAutoSellMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LootQuestAutoFarmAutoSellMore.lua")
                     
 addscriptexist(1224212277, "MadCityNewXpFarming", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MadCityNewXpFarming.lua")
+                    
+addscriptexist(6950767274, "FightersEraAutoJob", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FightersEraAutoJob.lua")
