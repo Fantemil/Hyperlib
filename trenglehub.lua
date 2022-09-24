@@ -4823,3 +4823,5 @@ addscriptexist(2788229376, "DaHoodAutoMoneyDropCollect", "Terni", "https://raw.g
     
 addscript(4360666523,"Checkpoint Racing Unleashed [Coin ESP]", "CheckpointRacingUnleashedCoinESP", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CheckpointRacingUnleashedCoinESP.lua")
                     
+                    
+addscriptexist(2185497593, "ArcadeIslandXChipCollector", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ArcadeIslandXChipCollector.lua")
