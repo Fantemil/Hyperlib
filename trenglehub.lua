@@ -5048,3 +5048,6 @@ addscript(45146873,"Tower Battles [Get Free Credits]", "TowerBattlesGetFreeCredi
                     
                     
 addscriptexist(8581609150, "BloxhubMineManiaAutoMine", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BloxhubMineManiaAutoMine.lua")
+    
+addscript(5630129588,"Smash Legends [Auto Farm GUI]", "SmashLegendsAutoFarmGUI", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SmashLegendsAutoFarmGUI.lua")
+                    
