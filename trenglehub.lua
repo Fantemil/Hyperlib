@@ -6088,3 +6088,5 @@ addscript(6401440818,"MONOLlTH DEFENSE [Use Any Towers]", "MONOLlTHDEFENSEUseAny
     
 addscript(6442957604,"Custom PC Tycoon [Collect all eggs]", "CustomPCTycoonCollectalleggs", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CustomPCTycoonCollectalleggs.lua")
                     
+                    
+addscriptexist(7167319176, "ChicagoRemasteredNorecoil", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ChicagoRemasteredNorecoil.lua")
