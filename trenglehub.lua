@@ -8179,3 +8179,6 @@ addscriptexist(137885680, "ZombieRushBESTAUTOFARM", "Terni", "https://raw.github
 addscriptexist(6802248248, "SAITAMANIAServerHop", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SAITAMANIAServerHop.lua")
                     
 addscriptexist(192800, "WorkataPizzaPlaceGetGolgenTrophy", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/WorkataPizzaPlaceGetGolgenTrophy.lua")
+    
+addscript(7280776979,"Hyundai Mobility Adventure [Auto Farm]", "HyundaiMobilityAdventureAutoFarm", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/HyundaiMobilityAdventureAutoFarm.lua")
+                    
