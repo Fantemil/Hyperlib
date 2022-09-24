@@ -5060,3 +5060,5 @@ addscriptexist(7791106063, "FurryInfectionGUIKillAuraKillAll", "Terni", "https:/
     
 addscript(6969185078,"Elemental Awakening [Spin Farm + Auto Roll]", "ElementalAwakeningSpinFarmAutoRoll", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ElementalAwakeningSpinFarmAutoRoll.lua")
                     
+                    
+addscriptexist(6938803436, "BirdHub7Games", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BirdHub7Games.lua")
