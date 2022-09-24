@@ -7322,3 +7322,5 @@ addscript(7755155116,"Sword Factory [Teleport Drop]", "SwordFactoryTeleportDrop"
     
 addscript(6400572259,"Anime Brawl", "AnimeBrawlALLOUTAutoFarm", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AnimeBrawlALLOUTAutoFarm.lua")
                     
+                    
+addscriptexist(3956818381, "NinjaLegendsAutoSellAutoSellAutobuySwords", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NinjaLegendsAutoSellAutoSellAutobuySwords.lua")
