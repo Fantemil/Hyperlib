@@ -3933,3 +3933,5 @@ addscriptexist(8303902695, "PetPosseSpamCoin", "Qalnik", "https://raw.githubuser
 addscriptexist(35397735, "ScubaDivingatQuillLakeInfGold", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ScubaDivingatQuillLakeInfGold.lua")
                     
 addscriptexist(35397735, "ScubaDivingatQuillLakeGodmode", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ScubaDivingatQuillLakeGodmode.lua")
+                    
+addscriptexist(863266079, "ApocalypseRising2TeleportToPlayer", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ApocalypseRising2TeleportToPlayer.lua")
