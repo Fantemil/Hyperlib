@@ -7828,3 +7828,5 @@ addscriptexist(3233893879, "BadBusiness254loopmapvotingscreen", "Qalnik", "https
     
 addscript(3465272868,"My Hero Blockidemia [Auto Farm]", "MyHeroBlockidemiaAutoFarm", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MyHeroBlockidemiaAutoFarm.lua")
                     
+                    
+addscriptexist(6843905606, "CriticalLegendsget1ofeveryitemmaterial", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CriticalLegendsget1ofeveryitemmaterial.lua")
