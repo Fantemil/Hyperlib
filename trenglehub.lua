@@ -6664,3 +6664,5 @@ addscriptexist(6381829480, "KingLegacyAutoFarmAutoSeaKingBringAllFruit", "Qalnik
     
 addscript(2483973525,"Demon Slayer Burning Ashes [Auto Farm & More!]", "DemonSlayerBurningAshesAutoFarmMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DemonSlayerBurningAshesAutoFarmMore.lua")
                     
+                    
+addscriptexist(4954752502, "TowerOfMiseryAutocollectgoldnuggets", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TowerOfMiseryAutocollectgoldnuggets.lua")
