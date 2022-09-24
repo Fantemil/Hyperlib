@@ -6483,3 +6483,5 @@ addscriptexist(5991163185, "SprayPaintAntiMuteAntiJumpscare", "Terni", "https://
     
 addscript(735030788,"Royale High [Gem Farm - Fix & Ear Rape]", "RoyaleHighGemFarmFixEarRape", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RoyaleHighGemFarmFixEarRape.lua")
                     
+                    
+addscriptexist(7603178367, "ChipotleBurritoBuilderAutoDeliverBurritos", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ChipotleBurritoBuilderAutoDeliverBurritos.lua")
