@@ -4658,3 +4658,5 @@ addscriptexist(9551640993, "MiningSimulator2AutoFarmGems", "Qalnik", "https://ra
 addscriptexist(3851622790, "BreakinGamePassRoles", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BreakinGamePassRoles.lua")
                     
 addscriptexist(8146731988, "UltraPowerTycoonGiveAllWeapons", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/UltraPowerTycoonGiveAllWeapons.lua")
+                    
+addscriptexist(1962086868, "TowerofHellAutotptotopWalkspeedInfjump", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TowerofHellAutotptotopWalkspeedInfjump.lua")
