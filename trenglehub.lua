@@ -2052,3 +2052,6 @@ addscriptexist(1554960397, "CarDealershipTycoonAutoFarmAutoDragRace", "astrofile
 addscriptexist(2551991523, "BrokenBones4InfJumAutoFarm", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BrokenBones4InfJumAutoFarm.lua")
                     
 addscriptexist(537413528, "BuildABoatForTreasureInfJumpGodMode", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BuildABoatForTreasureInfJumpGodMode.lua")
+    
+addscript(7009799230,"Pressure Wash Simulator [Inf Money, Auto Clean]", "PressureWashSimulatorInfMoneyAutoClean", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PressureWashSimulatorInfMoneyAutoClean.lua")
+                    
