@@ -7185,3 +7185,6 @@ addscriptexist(428114181, "AzureMinesNoClipCameraInGameGuisCameraTweaks", "Qalni
 addscriptexist(5104202731, "SouthwestFloridaAutoFarm", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SouthwestFloridaAutoFarm.lua")
                     
 addscriptexist(7842028704, "AnimeClashSimulatorAutoFarmAutoChakraAutoSell", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AnimeClashSimulatorAutoFarmAutoChakraAutoSell.lua")
+    
+addscript(2960777560,"Treasure Quest [Auto Farm]", "TreasureQuestAutoFarm", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TreasureQuestAutoFarm.lua")
+                    
