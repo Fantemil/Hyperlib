@@ -5719,3 +5719,6 @@ addscript(8523408215,"Alo Sanctuary [Collect All Event Orbs]", "AloSanctuaryColl
                     
                     
 addscriptexist(8523408215, "AloSanctuaryGetAllMatsMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AloSanctuaryGetAllMatsMore.lua")
+    
+addscript(6673614635,"unConventional [Auto Questing]", "unConventionalAutoQuesting", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/unConventionalAutoQuesting.lua")
+                    
