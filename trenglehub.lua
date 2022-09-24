@@ -7823,3 +7823,5 @@ addscriptexist(286090429, "ArsenalAutoFarm", "Terni", "https://raw.githubusercon
 addscriptexist(8554378337, "WeaponFightingSimulatorAutoFarmCollectRewardsSelectArea", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/WeaponFightingSimulatorAutoFarmCollectRewardsSelectArea.lua")
                     
 addscriptexist(2580982329, "TextingSimulatorAutoClick", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TextingSimulatorAutoClick.lua")
+                    
+addscriptexist(3233893879, "BadBusiness254loopmapvotingscreen", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BadBusiness254loopmapvotingscreen.lua")
