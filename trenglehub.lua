@@ -2978,3 +2978,5 @@ addscriptexist(9976239895, "GumballFactoryTycoonAutoObby", "Qalnik", "https://ra
 addscriptexist(4951858512, "VictoryRace", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/VictoryRace.lua")
                     
 addscriptexist(8425637426, "WriteaLetterAetterfreeanimations", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/WriteaLetterAetterfreeanimations.lua")
+                    
+addscriptexist(10386774046, "LegendMagicianAutoFarm", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LegendMagicianAutoFarm.lua")
