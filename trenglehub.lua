@@ -6578,3 +6578,5 @@ addscriptexist(45146873, "TowerBattlesModdingTowerPurchasingTeleportAllZombie", 
     
 addscript(8893378293,"GRAMMY Week [All quest]", "GRAMMYWeekAllquest", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/GRAMMYWeekAllquest.lua")
                     
+                    
+addscriptexist(8893378293, "GRAMMYWeekGetallevntitems", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/GRAMMYWeekGetallevntitems.lua")
