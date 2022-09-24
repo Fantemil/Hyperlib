@@ -4962,3 +4962,5 @@ addscriptexist(2317712696, "TheWildWestInfiniteStamina", "Terni", "https://raw.g
 addscriptexist(2546155523, "RoVilleAutoRestockBusinessOpenSource", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RoVilleAutoRestockBusinessOpenSource.lua")
                     
 addscriptexist(9461798258, "RaiseaGrannyInfiniteMoney", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RaiseaGrannyInfiniteMoney.lua")
+                    
+addscriptexist(3956818381, "NinjaLegendsGUIAutoFarmAutoSellMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NinjaLegendsGUIAutoFarmAutoSellMore.lua")
