@@ -7272,3 +7272,5 @@ addscript(7034960857,"Transforming toy simulator [Inf Money]", "Transformingtoys
 addscriptexist(679737281, "MoonCityTeleportAimbotVehicle", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MoonCityTeleportAimbotVehicle.lua")
                     
 addscriptexist(8649501395, "NFLTycoonInfMoney", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NFLTycoonInfMoney.lua")
+                    
+addscriptexist(8649501395, "NFLTycoonCollectFootballCollectionThingies", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NFLTycoonCollectFootballCollectionThingies.lua")
