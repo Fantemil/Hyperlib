@@ -3493,3 +3493,5 @@ addscriptexist(10041417653, "TurbosMurderMystery2InfMoney", "Qalnik", "https://r
     
 addscript(8588872272,"Project Slayers [Auto Farm, Invisible, Teleports]", "ProjectSlayersAutoFarmInvisibleTeleports", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ProjectSlayersAutoFarmInvisibleTeleports.lua")
                     
+                    
+addscriptexist(10041417653, "TurbosMurderMystery2InfiniteCoins", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TurbosMurderMystery2InfiniteCoins.lua")
