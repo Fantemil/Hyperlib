@@ -5737,3 +5737,5 @@ addscript(9181315895,"Bingus' Basement [Teleport generator, bingus bowl, food ro
                     
                     
 addscriptexist(9297410766, "CrossbarChallengeSimulatorGoodgoal", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CrossbarChallengeSimulatorGoodgoal.lua")
+                    
+addscriptexist(6604417568, "Minerscave15KillAuraHukerinfjump", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Minerscave15KillAuraHukerinfjump.lua")
