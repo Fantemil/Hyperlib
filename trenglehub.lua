@@ -7350,3 +7350,6 @@ addscriptexist(4410049285, "DrivingSimulatorUnlockAllLocationsRegularAutoFarmRai
 addscriptexist(5987922834, "TransfurOutbreakGUIAutoInfectMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TransfurOutbreakGUIAutoInfectMore.lua")
                     
 addscriptexist(8588872272, "DemonSlayerMoonriseGUIAutoFarm", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DemonSlayerMoonriseGUIAutoFarm.lua")
+    
+addscript(3398014311,"Restaurant Tycoon 2 [AutoCollect Money Plates, Fast Service, Auto Seat Customers]", "RestaurantTycoon2AutoCollectMoneyPlatesFastServiceAutoSeatCustomers", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RestaurantTycoon2AutoCollectMoneyPlatesFastServiceAutoSeatCustomers.lua")
+                    
