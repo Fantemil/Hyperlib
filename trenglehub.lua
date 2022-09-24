@@ -4168,3 +4168,5 @@ addscriptexist(6206893534, "CobraKaiKarateGUIAutoFarming", "Terni", "https://raw
 addscriptexist(180037022, "SonicUltimateRPGGetAllRings", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SonicUltimateRPGGetAllRings.lua")
                     
 addscriptexist(180037022, "SonicUltimateRPGGetAllEmeralds", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SonicUltimateRPGGetAllEmeralds.lua")
+                    
+addscriptexist(2906554815, "SWATSimulatorAutoFarm", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SWATSimulatorAutoFarm.lua")
