@@ -4000,3 +4000,5 @@ addscriptexist(537413528, "BuildABoatForTreasureInfiniteBlocks", "Terni", "https
     
 addscript(133815151,"The Final Stand 2 [Silent Aim]", "TheFinalStand2SilentAim", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TheFinalStand2SilentAim.lua")
                     
+                    
+addscriptexist(9976239895, "GumballFactoryTycoonObbyMultiplier", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/GumballFactoryTycoonObbyMultiplier.lua")
