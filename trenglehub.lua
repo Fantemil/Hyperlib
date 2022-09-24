@@ -2200,3 +2200,5 @@ addscript(6407649031,"NO-SCOPE ARCADE [Aimbot, KillAll]", "NOSCOPEARCADEAimbotKi
 addscriptexist(8540346411, "RebirthChampionsXAutoClickAutoHatch", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RebirthChampionsXAutoClickAutoHatch.lua")
                     
 addscriptexist(9872472334, "EvadeGodModeAutoFarmXP", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/EvadeGodModeAutoFarmXP.lua")
+                    
+addscriptexist(9585537847, "SHADOVISRPGAutoHeal", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SHADOVISRPGAutoHeal.lua")
