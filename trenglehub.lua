@@ -5354,3 +5354,5 @@ addscriptexist(9049840490, "SonicSpeedSimulatorAutoCollect", "Qalnik", "https://
 addscriptexist(4855457388, "DemonfallTpPlayer", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DemonfallTpPlayer.lua")
                     
 addscriptexist(5154858502, "MurderersvsSheriffsKillAll", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MurderersvsSheriffsKillAll.lua")
+                    
+addscriptexist(9103460924, "SwordFactoryXAutoSpawnAutoUpgradeAutoUpgradeMultiplier", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SwordFactoryXAutoSpawnAutoUpgradeAutoUpgradeMultiplier.lua")
