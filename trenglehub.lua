@@ -3434,3 +3434,5 @@ addscript(5320510816,"Farm Life Tycoon [Auto Farm]", "FarmLifeTycoonAutoFarm", "
                     
                     
 addscriptexist(2686500207, "ABizarreDayLoopKill", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ABizarreDayLoopKill.lua")
+                    
+addscriptexist(5956785391, "ProjectSlayersGUIAutoFarm", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ProjectSlayersGUIAutoFarm.lua")
