@@ -7647,3 +7647,6 @@ addscript(5984870779,"GARENA FREE FIRE - [Gun Mod Script]", "GARENAFREEFIREGunMo
 addscriptexist(7548385157, "BuildTowerSimulatorKillAllZombies", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BuildTowerSimulatorKillAllZombies.lua")
                     
 addscriptexist(2317712696, "TheWildWestSILENTAIM", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TheWildWestSILENTAIM.lua")
+    
+addscript(6589036319,"Sec [Inf Coins]", "SecInfCoins", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SecInfCoins.lua")
+                    
