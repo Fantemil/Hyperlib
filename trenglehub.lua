@@ -3644,3 +3644,6 @@ addscript(9945521676,"Roblox [Hide VoiceChat Microphone on top of your head]", "
 addscriptexist(863266079, "ApocalypseRising2InfJumpEspSnowHealth", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ApocalypseRising2InfJumpEspSnowHealth.lua")
                     
 addscriptexist(9903808883, "BuildaMarketTycoonFastNPCS", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BuildaMarketTycoonFastNPCS.lua")
+    
+addscript(4598019433,"generic roleplay gaem [GUI - Auto Farm]", "genericroleplaygaemGUIAutoFarm", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/genericroleplaygaemGUIAutoFarm.lua")
+                    
