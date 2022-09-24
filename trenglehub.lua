@@ -2677,3 +2677,6 @@ addscriptexist(192800, "WorkataPizzaPlaceAutoFarmWalkspeed", "astrofile", "https
 addscriptexist(10351639671, "AnimeLegendsSimulatorAutoClickAutoEgg", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AnimeLegendsSimulatorAutoClickAutoEgg.lua")
                     
 addscriptexist(10106105124, "WheatFarmingSimulatorAutoFarmAutoSell", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/WheatFarmingSimulatorAutoFarmAutoSell.lua")
+    
+addscript(9792312812,"Vampire Fighters [Kill All, Inf Stam]", "VampireFightersKillAllInfStam", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/VampireFightersKillAllInfStam.lua")
+                    
