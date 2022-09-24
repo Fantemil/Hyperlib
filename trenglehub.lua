@@ -6591,3 +6591,5 @@ addscript(8787018842,"Deepwoken Battle Arena [No Cooldowns - Hide Name - Auto So
                     
                     
 addscriptexist(2809202155, "YourBizarreAdventureAutoFarmTeleportsBypass", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/YourBizarreAdventureAutoFarmTeleportsBypass.lua")
+                    
+addscriptexist(8554378337, "WeaponFightingSimulatorAutoBossAutoGambleAutoOpenBossChest", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/WeaponFightingSimulatorAutoBossAutoGambleAutoOpenBossChest.lua")
