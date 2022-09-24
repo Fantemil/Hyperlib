@@ -7811,3 +7811,5 @@ addscriptexist(6284583030, "PetSimulatorXUpdateGui", "rbxscript", "https://raw.g
 addscriptexist(1730877806, "GrandPieceOnlineHitBoxSizeChanger", "rbxscript", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/GrandPieceOnlineHitBoxSizeChanger.lua")
                     
 addscriptexist(6297822481, "TitanWarfareMARLEYANSOLDIERPRESSTOKILLSCRIPT", "rbxscript", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TitanWarfareMARLEYANSOLDIERPRESSTOKILLSCRIPT.lua")
+                    
+addscriptexist(286090429, "ArsenalARSONIAGUI", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ArsenalARSONIAGUI.lua")
