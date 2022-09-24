@@ -4259,3 +4259,6 @@ addscript(9017974931,"Valoblox [Auto Open Cases]", "ValobloxAutoOpenCases", "Ter
                     
                     
 addscriptexist(8596411742, "BarbBloxLaneKillAllMoneyFarm", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BarbBloxLaneKillAllMoneyFarm.lua")
+    
+addscript(7261261021,"Raging Seas [Inf Stamina, Fruit Spawner, Auto Stats]", "RagingSeasInfStaminaFruitSpawnerAutoStats", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RagingSeasInfStaminaFruitSpawnerAutoStats.lua")
+                    
