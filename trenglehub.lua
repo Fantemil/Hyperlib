@@ -3839,3 +3839,5 @@ addscript(9601565001,"Car Crash System [Spawn Any Paid Car]", "CarCrashSystemSpa
     
 addscript(9578901194,"Woman Repellant [Women will not run away from you]", "WomanRepellantWomenwillnotrunawayfromyou", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/WomanRepellantWomenwillnotrunawayfromyou.lua")
                     
+                    
+addscriptexist(1224212277, "MadCityGetWeeklyRewards", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MadCityGetWeeklyRewards.lua")
