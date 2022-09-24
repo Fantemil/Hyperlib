@@ -3068,3 +3068,5 @@ addscript(8267733039,"Specter 2 [GUI - Item Esp, Ghost Esp & More!]", "Specter2G
     
 addscript(8433116262,"Lost Adrift [EA] [Steal Boat]", "LostAdriftEAStealBoat", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LostAdriftEAStealBoat.lua")
                     
+                    
+addscriptexist(3851622790, "BreakInStoryGUIAutoHitKillAllMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BreakInStoryGUIAutoHitKillAllMore.lua")
