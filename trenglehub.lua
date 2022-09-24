@@ -6261,3 +6261,5 @@ addscript(6960816467,"Untitled Door Game 2 [Get All Badges]", "UntitledDoorGame2
                     
                     
 addscriptexist(606849621, "JailbreakInstantTeleportToCriminalBase", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/JailbreakInstantTeleportToCriminalBase.lua")
+                    
+addscriptexist(4588604953, "CriminalityFreeESPGUI", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CriminalityFreeESPGUI.lua")
