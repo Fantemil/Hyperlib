@@ -3501,3 +3501,5 @@ addscriptexist(5956785391, "ProjectSlayersGUIAutoFarmRiceFishMore", "Terni", "ht
 addscriptexist(1730877806, "GrandPieceOnlineyoucantattackandyoucantdie", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/GrandPieceOnlineyoucantattackandyoucantdie.lua")
                     
 addscriptexist(10118559731, "nicosnextbotsServlagger", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/nicosnextbotsServlagger.lua")
+                    
+addscriptexist(4616652839, "ShindolifeAutoFarmAutoFarmBossAutoRank", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ShindolifeAutoFarmAutoFarmBossAutoRank.lua")
