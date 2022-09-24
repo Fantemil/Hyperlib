@@ -4449,3 +4449,5 @@ addscript(4733278992,"Sword Blox Online Reibirth [GUI Auto Craft, Auto Stats & M
                     
                     
 addscriptexist(654732683, "CarCrushers2AutoFarmSpeedBoostGodmode", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CarCrushers2AutoFarmSpeedBoostGodmode.lua")
+                    
+addscriptexist(8540168650, "StandUprightRebootedGUIItemsFarmQuestFarmsMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/StandUprightRebootedGUIItemsFarmQuestFarmsMore.lua")
