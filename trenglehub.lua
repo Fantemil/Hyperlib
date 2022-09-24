@@ -3350,3 +3350,5 @@ addscriptexist(5956785391, "ProjectSlayersSpeedhack", "Qalnik", "https://raw.git
     
 addscript(10041417653,"Turbo's Murder Mystery [Esp, AutoUnBox, Sped Hack]", "TurbosMurderMysteryEspAutoUnBoxSpedHack", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TurbosMurderMysteryEspAutoUnBoxSpedHack.lua")
                     
+                    
+addscriptexist(1224212277, "MadCitySilentAim", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MadCitySilentAim.lua")
