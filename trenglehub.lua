@@ -4178,3 +4178,5 @@ addscriptexist(537413528, "BuildABoatForTreasureGUIAutoQuestAutoFarm", "Terni", 
     
 addscript(9359839118,"Gas Station Simulator [Break The Whole Game]", "GasStationSimulatorBreakTheWholeGame", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/GasStationSimulatorBreakTheWholeGame.lua")
                     
+                    
+addscriptexist(8151832473, "TheGhettoGameGUISuperOPInfiniteMoneyMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TheGhettoGameGUISuperOPInfiniteMoneyMore.lua")
