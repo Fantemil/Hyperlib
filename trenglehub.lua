@@ -8015,3 +8015,5 @@ addscriptexist(7014716500, "ProBorderStrengthmax", "Qalnik", "https://raw.github
     
 addscript(961426258,"Koala Cafe [Invisible, Auto Mop]", "KoalaCafeInvisibleAutoMop", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/KoalaCafeInvisibleAutoMop.lua")
                     
+                    
+addscriptexist(2317712696, "TheWildWestEsp", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TheWildWestEsp.lua")
