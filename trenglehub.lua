@@ -5313,3 +5313,5 @@ addscriptexist(5965591336, "SoulWarIntantKillHollows", "Terni", "https://raw.git
 addscriptexist(6610021055, "NoobArmyTycoonAutoFarm", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NoobArmyTycoonAutoFarm.lua")
                     
 addscriptexist(5965591336, "SoulWarIntsKill", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SoulWarIntsKill.lua")
+                    
+addscriptexist(185655149, "BloxburgAutoRob", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BloxburgAutoRob.lua")
