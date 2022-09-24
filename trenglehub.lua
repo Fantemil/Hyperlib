@@ -6281,3 +6281,6 @@ addscript(4111023553,"Deepwoken [Chest ESP, No Fog, And More]", "DeepwokenChestE
 addscriptexist(3501626887, "DiceboyBringDicecoins", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DiceboyBringDicecoins.lua")
                     
 addscriptexist(632642533, "DeadMist2BetaGrabDeadBodies", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DeadMist2BetaGrabDeadBodies.lua")
+    
+addscript(7871169780,"bLockerman666`s Minesweeper [Find Safe Tiles And Bombs]", "bLockerman666sMinesweeperFindSafeTilesAndBombs", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/bLockerman666sMinesweeperFindSafeTilesAndBombs.lua")
+                    
