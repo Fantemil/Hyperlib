@@ -2164,3 +2164,5 @@ addscript(5893909218,"Roblox [Animations]", "RobloxAnimations", "Qalnik", "https
     
 addscript(70005410,"Blox Hunt Tokens [Autofarm]", "BloxHuntTokensAutofarm", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BloxHuntTokensAutofarm.lua")
                     
+                    
+addscriptexist(537413528, "BuildABoatForTreasureQuestsAutoFarmManyFunctions", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BuildABoatForTreasureQuestsAutoFarmManyFunctions.lua")
