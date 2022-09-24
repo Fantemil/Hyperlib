@@ -2226,3 +2226,5 @@ addscript(10386774046,"Legend Magician [Insane Reach]", "LegendMagicianInsaneRea
     
 addscript(9531918774,"mid eastern conflict sim [Inf Ammo]", "mideasternconflictsimInfAmmo", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/mideasternconflictsimInfAmmo.lua")
                     
+                    
+addscriptexist(286090429, "ArsenalNoRecoil", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ArsenalNoRecoil.lua")
