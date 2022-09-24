@@ -7128,3 +7128,5 @@ addscriptexist(8592863835, "MagnetSimulator2AutoFarmInfiniteCoinsMore", "Terni",
 addscriptexist(5712833750, "AnimalSimulatorEXPFarmUnlockMostAnimals", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AnimalSimulatorEXPFarmUnlockMostAnimals.lua")
                     
 addscriptexist(6284583030, "PetSimulatorXDupeScript", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PetSimulatorXDupeScript.lua")
+                    
+addscriptexist(2413927524, "TheRakeRemasteredGUI", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TheRakeRemasteredGUI.lua")
