@@ -5771,3 +5771,5 @@ addscriptexist(9297410766, "CrossbarChallengeSimulatorGetTheBestItems", "Terni",
 addscriptexist(5135889792, "DystoviaGodMode", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DystoviaGodMode.lua")
                     
 addscriptexist(205224386, "HideandSeekExtremeCoinGrabber", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/HideandSeekExtremeCoinGrabber.lua")
+                    
+addscriptexist(1730877806, "GrandPieceOnlineWalkOnWater", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/GrandPieceOnlineWalkOnWater.lua")
