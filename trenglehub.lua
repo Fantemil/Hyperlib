@@ -7371,3 +7371,6 @@ addscript(7279999673,"Dragon Blade Open World RPG [Free Coins & Item Crafting - 
                     
                     
 addscriptexist(3095204897, "IsleESPAntiKickMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/IsleESPAntiKickMore.lua")
+    
+addscript(9528010,"Blood & Iron [Anticheat Bypass]", "BloodIronAnticheatBypass", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BloodIronAnticheatBypass.lua")
+                    
