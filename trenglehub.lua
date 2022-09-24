@@ -7436,3 +7436,6 @@ addscriptexist(8592863835, "MagnetSimulator2AutoFarm", "Terni", "https://raw.git
 addscriptexist(1962086868, "TowerOfHellGodMode", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TowerOfHellGodMode.lua")
                     
 addscriptexist(6604417568, "Minerscave13XrayNoFullArmorup", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Minerscave13XrayNoFullArmorup.lua")
+    
+addscript(7603193259,"Friday Night Bloxxin [Auto Player - Insta Solo]", "FridayNightBloxxinAutoPlayerInstaSolo", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FridayNightBloxxinAutoPlayerInstaSolo.lua")
+                    
