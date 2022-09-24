@@ -7114,3 +7114,6 @@ addscript(5000143962,"SPACE SAILORS [Auto Ore Farm]", "SPACESAILORSAutoOreFarm",
                     
                     
 addscriptexist(7655489843, "AnimeBattlegroundsXX1000AbilityDamageAutoFarmMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AnimeBattlegroundsXX1000AbilityDamageAutoFarmMore.lua")
+    
+addscript(156149963,"Car Crash Simulator [Fast Car]", "CarCrashSimulatorFastCar", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CarCrashSimulatorFastCar.lua")
+                    
