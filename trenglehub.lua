@@ -3467,3 +3467,6 @@ addscriptexist(6678877691, "ZOKillAuraEspEquipWeapon", "Qalnik", "https://raw.gi
 addscriptexist(6403373529, "SlapbattlesUltraspeedflyadmin", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SlapbattlesUltraspeedflyadmin.lua")
                     
 addscriptexist(5956785391, "ProjectSlayersGUILevelFarmMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ProjectSlayersGUILevelFarmMore.lua")
+    
+addscript(5278850819,"Stay alive and flex your time on others [Bypass Anti Cheat]", "StayaliveandflexyourtimeonothersBypassAntiCheat", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/StayaliveandflexyourtimeonothersBypassAntiCheat.lua")
+                    
