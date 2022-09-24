@@ -6075,3 +6075,5 @@ addscriptexist(70005410, "BloxHuntTokenFarm", "Terni", "https://raw.githubuserco
 addscriptexist(7305309231, "TaxiBossSimpleGUI", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TaxiBossSimpleGUI.lua")
                     
 addscriptexist(9049840490, "SonicSpeedSimulatorFarmingGUIUnlockAllWorldsMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SonicSpeedSimulatorFarmingGUIUnlockAllWorldsMore.lua")
+                    
+addscriptexist(9049840490, "SonicSpeedSimulatorAutoCollectGUI", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SonicSpeedSimulatorAutoCollectGUI.lua")
