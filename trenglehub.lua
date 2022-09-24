@@ -4440,3 +4440,5 @@ addscript(4540286603,"NORTHWIND [Lag Bomb]", "NORTHWINDLagBomb", "Terni", "https
     
 addscript(2602644507,"Clone Wars Enrage [Kill All]", "CloneWarsEnrageKillAll", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CloneWarsEnrageKillAll.lua")
                     
+                    
+addscriptexist(9726345231, "DuolingoGameHubAutoFarm", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DuolingoGameHubAutoFarm.lua")
