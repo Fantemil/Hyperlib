@@ -4022,3 +4022,5 @@ addscript(4616247820,"Journey to the Sun [Collect All Coins]", "JourneytotheSunC
 addscriptexist(9344944754, "HunterxAthenaAutoPushupClimbMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/HunterxAthenaAutoPushupClimbMore.lua")
                     
 addscriptexist(70005410, "BloxHuntAFKAutoFarm", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BloxHuntAFKAutoFarm.lua")
+                    
+addscriptexist(8739839954, "JujutsuTycoonKillStudents", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/JujutsuTycoonKillStudents.lua")
