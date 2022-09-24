@@ -2886,3 +2886,5 @@ addscriptexist(142823291, "MurderMystery2LagCrash", "Terni", "https://raw.github
 addscriptexist(180364455, "SurviveTheDisasters2V4175FullAntiCheatBypass", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SurviveTheDisasters2V4175FullAntiCheatBypass.lua")
                     
 addscriptexist(10386774046, "LegendMagicianAutoFarmAutoPickup", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LegendMagicianAutoFarmAutoPickup.lua")
+                    
+addscriptexist(445664957, "ParkourGUISetFlowSetCombo", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ParkourGUISetFlowSetCombo.lua")
