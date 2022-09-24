@@ -4820,3 +4820,6 @@ addscriptexist(9551640993, "MiningSimulator2ChestsServerhop", "Qalnik", "https:/
 addscriptexist(7799826347, "SandboxTycoonSaveBaseBuildFloorUpdateBuildCost", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SandboxTycoonSaveBaseBuildFloorUpdateBuildCost.lua")
                     
 addscriptexist(2788229376, "DaHoodAutoMoneyDropCollect", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DaHoodAutoMoneyDropCollect.lua")
+    
+addscript(4360666523,"Checkpoint Racing Unleashed [Coin ESP]", "CheckpointRacingUnleashedCoinESP", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CheckpointRacingUnleashedCoinESP.lua")
+                    
