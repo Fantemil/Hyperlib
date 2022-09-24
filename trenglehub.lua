@@ -2071,3 +2071,5 @@ addscriptexist(9049840490, "SonicSpeedSimulatorAutoWinRaceCollectAllObbysAutoRun
 addscriptexist(9551640993, "MiningSimulator2AutoMineAutoSellAutoFactory", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MiningSimulator2AutoMineAutoSellAutoFactory.lua")
                     
 addscriptexist(8737602449, "PLSDONATETpAutoThanksServerHoppper", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PLSDONATETpAutoThanksServerHoppper.lua")
+                    
+addscriptexist(8750997647, "TappingLegendsXAutoClickerAutorebirthAutoEgg", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TappingLegendsXAutoClickerAutorebirthAutoEgg.lua")
