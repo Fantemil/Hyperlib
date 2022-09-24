@@ -2231,3 +2231,6 @@ addscriptexist(286090429, "ArsenalNoRecoil", "astrofile", "https://raw.githubuse
     
 addscript(8705534359,"Shopping Cart Simulator! [Inf Money]", "ShoppingCartSimulatorInfMoney", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ShoppingCartSimulatorInfMoney.lua")
                     
+    
+addscript(8508161757,"Raise An Albert [Inf Money]", "RaiseAnAlbertInfMoney", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RaiseAnAlbertInfMoney.lua")
+                    
