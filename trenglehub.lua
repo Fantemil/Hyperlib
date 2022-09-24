@@ -3767,3 +3767,6 @@ addscript(5910449407,"Project Menacing [GUI - Mob Farm, Stand Farm & More!]", "P
                     
                     
 addscriptexist(7899881670, "RBWorld4AutoArcadeBot", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RBWorld4AutoArcadeBot.lua")
+    
+addscript(7491927311,"Undertale Test Place Reborn [Alt Detection Bypass]", "UndertaleTestPlaceRebornAltDetectionBypass", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/UndertaleTestPlaceRebornAltDetectionBypass.lua")
+                    
