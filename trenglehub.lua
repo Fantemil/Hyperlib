@@ -2042,3 +2042,5 @@ addscript(3233893879,"Bad Business [Silent Aim]", "BadBusinessSilentAim", "astro
 addscriptexist(2788229376, "DaHoodLegitSilentAim", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DaHoodLegitSilentAim.lua")
                     
 addscriptexist(7952502098, "ImpossibleGlassBridgeObbyCorrectPath", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ImpossibleGlassBridgeObbyCorrectPath.lua")
+                    
+addscriptexist(7952502098, "ImpossibleGlassBridgeObbyInfMoney", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ImpossibleGlassBridgeObbyInfMoney.lua")
