@@ -4735,3 +4735,6 @@ addscriptexist(1224212277, "MadCityCrazyAutoRobServerCrasherTeleports", "Qalnik"
 addscriptexist(606849621, "JailbreakAutoFarmTeleportInfDonut", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/JailbreakAutoFarmTeleportInfDonut.lua")
                     
 addscriptexist(5490351219, "ClickerMadnessSickAutoClickAutoBossTeleport", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ClickerMadnessSickAutoClickAutoBossTeleport.lua")
+    
+addscript(9760849472,"UFO Universe [Auto Farm Chests, Auto Open Egg, Teleport]", "UFOUniverseAutoFarmChestsAutoOpenEggTeleport", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/UFOUniverseAutoFarmChestsAutoOpenEggTeleport.lua")
+                    
