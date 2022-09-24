@@ -2327,3 +2327,6 @@ addscriptexist(9386846196, "BrawlingGroundsKillAura", "astrofile", "https://raw.
     
 addscript(534701013,"The Labyrinth [X-Ray, Auto attack]", "TheLabyrinthXRayAutoattack", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TheLabyrinthXRayAutoattack.lua")
                     
+    
+addscript(10151870864,"Ice Factory Tycoon [Auto Farm]", "IceFactoryTycoonAutoFarm", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/IceFactoryTycoonAutoFarm.lua")
+                    
