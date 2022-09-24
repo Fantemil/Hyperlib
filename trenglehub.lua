@@ -7051,3 +7051,5 @@ addscriptexist(1962086868, "TowerofHellAutoWinGodmodeRemoveKillparts", "Qalnik",
     
 addscript(7256524608,"Streaming Simulator [Top Chair]", "StreamingSimulatorTopChair", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/StreamingSimulatorTopChair.lua")
                     
+                    
+addscriptexist(7256524608, "StreamingSimulatorGamaPass", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/StreamingSimulatorGamaPass.lua")
