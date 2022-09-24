@@ -3144,3 +3144,5 @@ addscriptexist(9551640993, "MiningSimulator2BlockAuraAutoSell", "Terni", "https:
     
 addscript(8222131500,"Desert island survival [Auto redeem codes]", "DesertislandsurvivalAutoredeemcodes", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DesertislandsurvivalAutoredeemcodes.lua")
                     
+                    
+addscriptexist(8222131500, "IslandSurvivalInfAirDrop", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/IslandSurvivalInfAirDrop.lua")
