@@ -5518,3 +5518,5 @@ addscript(4836735146,"Street Shootout Beta [Infinite Money]", "StreetShootoutBet
                     
                     
 addscriptexist(8204899140, "FootballFusion2NoJumpCooldown", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FootballFusion2NoJumpCooldown.lua")
+                    
+addscriptexist(7940932746, "AltLauncher–UnlimitedRobloxAccountsForever", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AltLauncher–UnlimitedRobloxAccountsForever.lua")
