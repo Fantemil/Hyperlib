@@ -5562,3 +5562,6 @@ addscript(7337161346,"Infinite Jump for Roblox", "InfiniteJumpforRoblox", "Terni
     
 addscript(8571871474,"Gun Fighting Tycoon [Kill All - Auto Collect - More!]", "GunFightingTycoonKillAllAutoCollectMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/GunFightingTycoonKillAllAutoCollectMore.lua")
                     
+    
+addscript(3597632410,"Plants vs Zombies Garden Problem [Unlock All]", "PlantsvsZombiesGardenProblemUnlockAll", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PlantsvsZombiesGardenProblemUnlockAll.lua")
+                    
