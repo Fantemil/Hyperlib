@@ -5820,3 +5820,6 @@ addscriptexist(8209480473, "SpotifyIslandLevelFarm", "Terni", "https://raw.githu
 addscriptexist(8209480473, "SpotifyIslandHeartFarmServerhop", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SpotifyIslandHeartFarmServerhop.lua")
                     
 addscriptexist(8209480473, "SpotifyIslandAutoCollectAllCoins", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SpotifyIslandAutoCollectAllCoins.lua")
+    
+addscript(583507031,"Papers, Please [Auto Farm]", "PapersPleaseAutoFarm", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PapersPleaseAutoFarm.lua")
+                    
