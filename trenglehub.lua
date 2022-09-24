@@ -6077,3 +6077,6 @@ addscriptexist(7305309231, "TaxiBossSimpleGUI", "Terni", "https://raw.githubuser
 addscriptexist(9049840490, "SonicSpeedSimulatorFarmingGUIUnlockAllWorldsMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SonicSpeedSimulatorFarmingGUIUnlockAllWorldsMore.lua")
                     
 addscriptexist(9049840490, "SonicSpeedSimulatorAutoCollectGUI", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SonicSpeedSimulatorAutoCollectGUI.lua")
+    
+addscript(7236421113,"Downhill Rush [Instant 10K Cash]", "DownhillRushInstant10KCash", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DownhillRushInstant10KCash.lua")
+                    
