@@ -1597,3 +1597,6 @@ addscript(10053187005,"Counter Blox", "CounterBloxReimaginedKillAllAimbotEsp", "
     
 addscript(2124720684,"Dragon Ball", "DragonBallXenoMultiverseKillAuraAutoFarmWalkSpeed", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DragonBallXenoMultiverseKillAuraAutoFarmWalkSpeed.lua")
                     
+    
+addscript(3260590327,"Tower Defense Simulator [Auto Farm]", "TowerDefenseSimulatorAutoFarm", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TowerDefenseSimulatorAutoFarm.lua")
+                    
