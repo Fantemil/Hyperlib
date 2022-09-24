@@ -3792,3 +3792,6 @@ addscriptexist(10118559731, "Nico’sNextbotsBotsEspTeleportToSafezone", "Terni"
     
 addscript(9597319358,"Actors Tycoon [AutoFarm Buttons, Auto Upgrade Workers, Working on mobile]", "ActorsTycoonAutoFarmButtonsAutoUpgradeWorkersWorkingonmobile", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ActorsTycoonAutoFarmButtonsAutoUpgradeWorkersWorkingonmobile.lua")
                     
+    
+addscript(9845529187,"Tidewater [Annoy All]", "TidewaterAnnoyAll", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TidewaterAnnoyAll.lua")
+                    
