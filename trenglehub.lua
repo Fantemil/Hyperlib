@@ -3387,3 +3387,5 @@ addscriptexist(606849621, "JailbreakNoFallDamage", "Qalnik", "https://raw.github
 addscriptexist(8054462345, "MichaelsZombiesHeadshotinstareload", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MichaelsZombiesHeadshotinstareload.lua")
                     
 addscriptexist(863266079, "APOCRISER2InfJumpPlayerEspShowHealth", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/APOCRISER2InfJumpPlayerEspShowHealth.lua")
+                    
+addscriptexist(1962086868, "TowerofHellAutoWinGodModeGetAllItems", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TowerofHellAutoWinGodModeGetAllItems.lua")
