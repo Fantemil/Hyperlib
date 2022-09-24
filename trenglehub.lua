@@ -1845,3 +1845,6 @@ addscriptexist(9648883891, "FestivalTycoonGetFreeItems", "astrofile", "https://r
 addscriptexist(286090429, "ArsenalAnticheatDisabler", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ArsenalAnticheatDisabler.lua")
                     
 addscriptexist(9648883891, "FestivalTycoonSwordPackInfCash", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FestivalTycoonSwordPackInfCash.lua")
+    
+addscript(10243982775,"RedBox 2 [Quickswap weapons]", "RedBox2Quickswapweapons", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RedBox2Quickswapweapons.lua")
+                    
