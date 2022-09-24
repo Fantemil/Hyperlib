@@ -1461,3 +1461,5 @@ addscript(9845705613,"Blood Hood [Godmode, KillAll]", "BloodHoodGodmodeKillAll",
                     
                     
 addscriptexist(7138009149, "PHIGHTINGNPCesp", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PHIGHTINGNPCesp.lua")
+                    
+addscriptexist(9744954014100, "THAHOODGodmodeInfAmmo", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/THAHOODGodmodeInfAmmo.lua")
