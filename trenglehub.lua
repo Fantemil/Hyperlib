@@ -5215,3 +5215,5 @@ addscriptexist(5987922834, "TransfurOutbreakAutoGrab", "Terni", "https://raw.git
     
 addscript(6342469457,"Heavens Arena [GUI - Auto Click, Auto Skill & More!]", "HeavensArenaGUIAutoClickAutoSkillMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/HeavensArenaGUIAutoClickAutoSkillMore.lua")
                     
+                    
+addscriptexist(537413528, "BuildABoatForTreasureGUIAutoFarmAutoBuy", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BuildABoatForTreasureGUIAutoFarmAutoBuy.lua")
