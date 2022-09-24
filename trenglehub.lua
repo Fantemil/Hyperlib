@@ -5414,3 +5414,5 @@ addscript(8137333410,"Color by number [Fast Auto Paint]", "ColorbynumberFastAuto
 addscriptexist(2788229376, "DaHoodKittenhookCrypteder", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DaHoodKittenhookCrypteder.lua")
                     
 addscriptexist(9292879820, "GrassCuttingIncrementalAutoRecollect", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/GrassCuttingIncrementalAutoRecollect.lua")
+                    
+addscriptexist(6969185078, "ElementalAwakeningInstantCast", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ElementalAwakeningInstantCast.lua")
