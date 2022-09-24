@@ -3159,3 +3159,5 @@ addscriptexist(8585657145, "AnimeHeroSimulatorAutoFarmNoKey", "Terni", "https://
     
 addscript(7074772062,"Roblox [Drawing Lib Player Radar]", "RobloxDrawingLibPlayerRadar", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RobloxDrawingLibPlayerRadar.lua")
                     
+                    
+addscriptexist(3956818381, "NinjaLegendsAutoFarmAutoSellAutoCollectCh", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NinjaLegendsAutoFarmAutoSellAutoCollectCh.lua")
