@@ -1669,3 +1669,5 @@ addscript(9949781550,"Digging Simulator [Inf Money]", "DiggingSimulatorInfMoney"
     
 addscript(10204162989,"Pickaxe Simulator [Auto Mine, Equip Best Pets, Redeem Code]", "PickaxeSimulatorAutoMineEquipBestPetsRedeemCode", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PickaxeSimulatorAutoMineEquipBestPetsRedeemCode.lua")
                     
+                    
+addscriptexist(6516141723, "DOORSFullbrightEsp", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DOORSFullbrightEsp.lua")
