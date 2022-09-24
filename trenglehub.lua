@@ -2395,3 +2395,6 @@ addscript(4410049285,"Driving Simulator [Walkspeed, Rainbow Car]", "DrivingSimul
                     
                     
 addscriptexist(10524502174, "OnePunchFightersAutoRankUpAutoClick", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OnePunchFightersAutoRankUpAutoClick.lua")
+    
+addscript(5890116343,"Age Simulator [AutoFarm, AutoAge]", "AgeSimulatorAutoFarmAutoAge", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AgeSimulatorAutoFarmAutoAge.lua")
+                    
