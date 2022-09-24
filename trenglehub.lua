@@ -1652,3 +1652,6 @@ addscript(9598746251,"Home Run Simulator [Auto home Run Auto Upgrade, Auto rebir
                     
                     
 addscriptexist(3101667897, "LegendsOfSpeedAutoGraborbsAutoGrabRingsAutoRebirth", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LegendsOfSpeedAutoGraborbsAutoGrabRingsAutoRebirth.lua")
+    
+addscript(7050008107,"Hospital Tycoon [Collect Cash, Buy Buttons]", "HospitalTycoonCollectCashBuyButtons", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/HospitalTycoonCollectCashBuyButtons.lua")
+                    
