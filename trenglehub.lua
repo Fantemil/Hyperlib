@@ -3320,3 +3320,6 @@ addscript(29812337,"Framed! [ESP]", "FramedESP", "Terni", "https://raw.githubuse
 addscriptexist(4282985734, "CombatWarriorsNoFallDamageautofarminfinitestamina", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CombatWarriorsNoFallDamageautofarminfinitestamina.lua")
                     
 addscriptexist(5956785391, "ProjectSlayersTpMuzan", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ProjectSlayersTpMuzan.lua")
+    
+addscript(3623096087,"Muscle Legends [Kill Player, Safe Farm, Auto Equip]", "MuscleLegendsKillPlayerSafeFarmAutoEquip", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MuscleLegendsKillPlayerSafeFarmAutoEquip.lua")
+                    
