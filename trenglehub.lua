@@ -7640,3 +7640,6 @@ addscriptexist(6604417568, "Minerscave13NoDamage", "Qalnik", "https://raw.github
 addscriptexist(735030788, "RoyaleHighAutoFarm", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RoyaleHighAutoFarm.lua")
                     
 addscriptexist(147848991, "BeAParkourNinjaAutoKillPlayers", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BeAParkourNinjaAutoKillPlayers.lua")
+    
+addscript(5984870779,"GARENA FREE FIRE - [Gun Mod Script]", "GARENAFREEFIREGunModScript", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/GARENAFREEFIREGunModScript.lua")
+                    
