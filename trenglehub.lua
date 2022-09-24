@@ -5924,3 +5924,5 @@ addscript(8519700776,"SKYWARS PvP [Kill All Instantly]", "SKYWARSPvPKillAllInsta
     
 addscript(8874040270,"SKYWARS PRO 2 [Kill All]", "SKYWARSPRO2KillAll", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SKYWARSPRO2KillAll.lua")
                     
+                    
+addscriptexist(4588604953, "CriminalityEliteV3DevBuildLeak", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CriminalityEliteV3DevBuildLeak.lua")
