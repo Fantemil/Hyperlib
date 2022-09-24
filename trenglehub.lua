@@ -5046,3 +5046,5 @@ addscriptexist(286090429, "ArsenalEsp", "Qalnik", "https://raw.githubusercontent
     
 addscript(45146873,"Tower Battles [Get Free Credits]", "TowerBattlesGetFreeCredits", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TowerBattlesGetFreeCredits.lua")
                     
+                    
+addscriptexist(8581609150, "BloxhubMineManiaAutoMine", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BloxhubMineManiaAutoMine.lua")
