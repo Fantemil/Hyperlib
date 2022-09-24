@@ -3985,3 +3985,5 @@ addscript(9568982793,"Da Hood Battlegrounds [Rapid Fire Mod]", "DaHoodBattlegrou
                     
                     
 addscriptexist(8750997647, "TappingLegendsXGUIAutoTapAutoRebirthMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TappingLegendsXGUIAutoTapAutoRebirthMore.lua")
+                    
+addscriptexist(8303902695, "PetPosseGUIAutoFarmSelectedZoneUnlockAllGamepassesMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PetPosseGUIAutoFarmSelectedZoneUnlockAllGamepassesMore.lua")
