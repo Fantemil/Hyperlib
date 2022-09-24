@@ -6143,3 +6143,5 @@ addscript(9123917180,"Teleporter Simulator [Basic Farm]", "TeleporterSimulatorBa
     
 addscript(9300407930,"Bot Clash [Complete All Quests]", "BotClashCompleteAllQuests", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BotClashCompleteAllQuests.lua")
                     
+                    
+addscriptexist(6329844902, "PiratesNewGenerationMaxLevelStats", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PiratesNewGenerationMaxLevelStats.lua")
