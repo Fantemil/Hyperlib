@@ -3632,3 +3632,6 @@ addscript(679715583,"Starscape [Auto Pilot]", "StarscapeAutoPilot", "Terni", "ht
                     
                     
 addscriptexist(8123652942, "LegendPieceAutoFarmMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LegendPieceAutoFarmMore.lua")
+    
+addscript(6249640453,"Classic Retro Craftwars [Infinite Cash]", "ClassicRetroCraftwarsInfiniteCash", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ClassicRetroCraftwarsInfiniteCash.lua")
+                    
