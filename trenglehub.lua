@@ -6043,3 +6043,5 @@ addscript(9423668629,"Find the Teddies [Find All Teddies]", "FindtheTeddiesFindA
                     
                     
 addscriptexist(185655149, "BloxburgGUIFarmAnyJob", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BloxburgGUIFarmAnyJob.lua")
+                    
+addscriptexist(301549746, "CounterBloxGodMode", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CounterBloxGodMode.lua")
