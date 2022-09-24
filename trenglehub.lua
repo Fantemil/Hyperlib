@@ -2048,3 +2048,5 @@ addscriptexist(7952502098, "ImpossibleGlassBridgeObbyInfMoney", "astrofile", "ht
 addscriptexist(6516141723, "DOORSAutoSkipRooms", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DOORSAutoSkipRooms.lua")
                     
 addscriptexist(1554960397, "CarDealershipTycoonAutoFarmAutoDragRace", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CarDealershipTycoonAutoFarmAutoDragRace.lua")
+                    
+addscriptexist(2551991523, "BrokenBones4InfJumAutoFarm", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BrokenBones4InfJumAutoFarm.lua")
