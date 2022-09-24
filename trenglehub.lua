@@ -4065,3 +4065,5 @@ addscriptexist(8884334497, "MiningClickerSimulatorAutoClicksMore", "Terni", "htt
     
 addscript(8232438881,"Thief Simulator [Npc Rob]", "ThiefSimulatorNpcRob", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ThiefSimulatorNpcRob.lua")
                     
+                    
+addscriptexist(1730877806, "GrandPieceOnlineFullyinvisible", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/GrandPieceOnlineFullyinvisible.lua")
