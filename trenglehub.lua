@@ -3381,3 +3381,5 @@ addscript(9603033881,"Bid Battles [Auto Queue Auction, Auto Bid, Auto Sell]", "B
 addscriptexist(9940051005, "BloxLegendsInfiniteMoney", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BloxLegendsInfiniteMoney.lua")
                     
 addscriptexist(9940051005, "BloxLegendsInfiniteTokens", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BloxLegendsInfiniteTokens.lua")
+                    
+addscriptexist(606849621, "JailbreakNoFallDamage", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/JailbreakNoFallDamage.lua")
