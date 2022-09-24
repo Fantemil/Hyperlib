@@ -1636,3 +1636,5 @@ addscriptexist(9658251985, "TheRakeKillTestKillRakeOnOfPowerShadowHour", "Qalnik
 addscriptexist(6428174188, "LOSTRPGGetallitems", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LOSTRPGGetallitems.lua")
                     
 addscriptexist(292439477, "PhantomForcesNoRecoil", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PhantomForcesNoRecoil.lua")
+                    
+addscriptexist(1537690962, "BeeSwarmSimulatorAutofarmAutodigAutoconvert", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BeeSwarmSimulatorAutofarmAutodigAutoconvert.lua")
