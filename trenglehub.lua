@@ -5630,3 +5630,6 @@ addscript(10106296680,"Anti AFK GUI", "AntiAFKGUI", "Terni", "https://raw.github
 addscriptexist(9203864304, "RaiseaFloppaInstaFinish", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RaiseaFloppaInstaFinish.lua")
                     
 addscriptexist(6937208251, "StarWarsBattlefieldPVPGodMode", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/StarWarsBattlefieldPVPGodMode.lua")
+    
+addscript(5135889792,"Dystovia [Collect All]", "DystoviaCollectAll", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DystoviaCollectAll.lua")
+                    
