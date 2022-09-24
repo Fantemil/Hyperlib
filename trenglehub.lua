@@ -7503,3 +7503,5 @@ addscriptexist(8592863835, "MagnetSimulator2GUIAutoFarmAutoHatchMore", "Terni", 
 addscriptexist(137885680, "ZombieRushAutoFarmAutobringAllAimbot", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ZombieRushAutoFarmAutobringAllAimbot.lua")
                     
 addscriptexist(286090429, "ArsenalSilentAimBotAntiAimNameTagEsp", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ArsenalSilentAimBotAntiAimNameTagEsp.lua")
+                    
+addscriptexist(2534724415, "EmergencyResponseLibertyCountyInfiniteAmmo", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/EmergencyResponseLibertyCountyInfiniteAmmo.lua")
