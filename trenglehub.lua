@@ -2361,3 +2361,6 @@ addscriptexist(9243187709, "PedagondiaFaunasKillAura", "astrofile", "https://raw
     
 addscript(9704893711,"Dha Hood [Inf Money]", "DhaHoodInfMoney", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DhaHoodInfMoney.lua")
                     
+    
+addscript(5024793931,"Zeppelin Wars [Anti Cheat Bypass]", "ZeppelinWarsAntiCheatBypass", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ZeppelinWarsAntiCheatBypass.lua")
+                    
