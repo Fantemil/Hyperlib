@@ -7901,3 +7901,5 @@ addscriptexist(3102144307, "AnimeClickerSimulatorAutoClickFarmBossAutoOpenEgg", 
 addscriptexist(7508789810, "DeviousLickSimulatorAutoFarmAutoSellAutoStrength", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DeviousLickSimulatorAutoFarmAutoSellAutoStrength.lua")
                     
 addscriptexist(2685347741, "GhostSimulatorAutoSell", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/GhostSimulatorAutoSell.lua")
+                    
+addscriptexist(7860844204, "LifeSentenceSilentAim", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LifeSentenceSilentAim.lua")
