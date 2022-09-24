@@ -8378,3 +8378,6 @@ addscriptexist(6198225400, "LegendsReWrittenAutoFarm", "Qalnik", "https://raw.gi
     
 addscript(2984072291,"Zombie Stories [Silent Aim]", "ZombieStoriesSilentAim", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ZombieStoriesSilentAim.lua")
                     
+    
+addscript(5732966938,"WORLD DEFENDERS - Tower Defense [Insta Kill]", "WORLDDEFENDERSTowerDefenseInstaKill", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/WORLDDEFENDERSTowerDefenseInstaKill.lua")
+                    
