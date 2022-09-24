@@ -6342,3 +6342,5 @@ addscriptexist(9123917180, "TeleporterSimulatorBasicAutoFarm", "Terni", "https:/
 addscriptexist(9049840490, "SonicSpeedSimulatorAutoFarmCoins", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SonicSpeedSimulatorAutoFarmCoins.lua")
                     
 addscriptexist(662417684, "LUCKYBLOCKSBattlegroundsLuckyBlockRunSpeedFpsBoost", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LUCKYBLOCKSBattlegroundsLuckyBlockRunSpeedFpsBoost.lua")
+                    
+addscriptexist(8137333410, "PixelArtColorbynumberAutoPaint", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PixelArtColorbynumberAutoPaint.lua")
