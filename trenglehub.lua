@@ -2521,3 +2521,6 @@ addscript(10118559731,"Nico's Nextbots [God Mode]", "NicosNextbotsGodMode", "ast
                     
                     
 addscriptexist(5108997584, "Reason2DieValueIncreaser", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Reason2DieValueIncreaser.lua")
+    
+addscript(3522803956,"De Pride Isle Sanatorium [Anticheat bypass]", "DePrideIsleSanatoriumAnticheatbypass", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DePrideIsleSanatoriumAnticheatbypass.lua")
+                    
