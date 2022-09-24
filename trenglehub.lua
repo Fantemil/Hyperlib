@@ -4195,3 +4195,5 @@ addscript(6915291292,"Bakery Simulator [Delete Anything]", "BakerySimulatorDelet
     
 addscript(4443032907,"Sword Simulator [GUI - Auto Mobs & More!]", "SwordSimulatorGUIAutoMobsMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SwordSimulatorGUIAutoMobsMore.lua")
                     
+                    
+addscriptexist(6755746130, "FruitJuiceTycoonRefreshedSimpleAutoFarm", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FruitJuiceTycoonRefreshedSimpleAutoFarm.lua")
