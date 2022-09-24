@@ -7151,3 +7151,5 @@ addscriptexist(2727067538, "WorldZeroKillAuraAutoFeedPetWalkSpeed", "Qalnik", "h
 addscriptexist(2534724415, "EmergencyResponseLibertyCountyInfAmmo", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/EmergencyResponseLibertyCountyInfAmmo.lua")
                     
 addscriptexist(7107498084, "AnimeBattleSpawnWorkersAutoSellAutoBuyNewWorld", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AnimeBattleSpawnWorkersAutoSellAutoBuyNewWorld.lua")
+                    
+addscriptexist(6284583030, "PetSimulatorXAutoFarmChestAutoEggAutoCollectLootBags", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PetSimulatorXAutoFarmChestAutoEggAutoCollectLootBags.lua")
