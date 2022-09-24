@@ -7124,3 +7124,5 @@ addscript(566399244,"Elemental Battlegrounds [Auto Farm]", "ElementalBattlegroun
 addscriptexist(8540346411, "RebirthChampionsXAutoFarm", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RebirthChampionsXAutoFarm.lua")
                     
 addscriptexist(8592863835, "MagnetSimulator2AutoFarmInfiniteCoinsMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MagnetSimulator2AutoFarmInfiniteCoinsMore.lua")
+                    
+addscriptexist(5712833750, "AnimalSimulatorEXPFarmUnlockMostAnimals", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AnimalSimulatorEXPFarmUnlockMostAnimals.lua")
