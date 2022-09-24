@@ -4290,3 +4290,5 @@ addscript(9534337535,"Shrek in the Backrooms [GUI - ESP, Loot Stuff]", "Shrekint
     
 addscript(301549746,"Counter Blox [Best Custom Skins Changer & More!]", "CounterBloxBestCustomSkinsChangerMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CounterBloxBestCustomSkinsChangerMore.lua")
                     
+                    
+addscriptexist(8619263259, "CriticalLegendsAutoOrbsMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CriticalLegendsAutoOrbsMore.lua")
