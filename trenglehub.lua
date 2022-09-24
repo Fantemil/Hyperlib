@@ -2439,3 +2439,5 @@ addscriptexist(4282985734, "CombatWarriorsKillAuraAutoEquip", "astrofile", "http
 addscriptexist(2788229376, "DaHoodJojoStand", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DaHoodJojoStand.lua")
                     
 addscriptexist(1554960397, "CarDealershipTycoonAutoFarm", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CarDealershipTycoonAutoFarm.lua")
+                    
+addscriptexist(7026828578, "SpeedSimulatorAutoFarm", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SpeedSimulatorAutoFarm.lua")
