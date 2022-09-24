@@ -6679,3 +6679,5 @@ addscript(6384825976,"SCP-3008 [Esp]", "SCP3008Esp", "Qalnik", "https://raw.gith
                     
                     
 addscriptexist(735030788, "RoyaleHighEggHunt", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RoyaleHighEggHunt.lua")
+                    
+addscriptexist(6403373529, "SlapBattlesSlapAura", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SlapBattlesSlapAura.lua")
