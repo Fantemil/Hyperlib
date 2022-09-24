@@ -6162,3 +6162,6 @@ addscript(7603178367,"Chipotle Burrito Builder [Auto Farm]", "ChipotleBurritoBui
                     
                     
 addscriptexist(537413528, "BuildABoatForTreasureAutoBuyAutoFarmGetAllItemsFree", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BuildABoatForTreasureAutoBuyAutoFarmGetAllItemsFree.lua")
+    
+addscript(5116869569,"Doodle World [Auto Find]", "DoodleWorldAutoFind", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DoodleWorldAutoFind.lua")
+                    
