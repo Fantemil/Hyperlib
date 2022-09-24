@@ -8791,3 +8791,5 @@ addscriptexist(292439477, "PhantomForcesAImBotGudModsEsp", "Qalnik", "https://ra
 addscriptexist(3956818381, "NinjaLegendsAutoFarmAutoSellUnlockAllIslands", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NinjaLegendsAutoFarmAutoSellUnlockAllIslands.lua")
                     
 addscriptexist(4580204640, "SurvivetheKillerAutoFarmKillAllPanicTp", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SurvivetheKillerAutoFarmKillAllPanicTp.lua")
+                    
+addscriptexist(2619187362, "SuperPowerFightingSimulatorAutoFarmAutoAnubisAutoEvilPumpkin", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SuperPowerFightingSimulatorAutoFarmAutoAnubisAutoEvilPumpkin.lua")
