@@ -6229,3 +6229,6 @@ addscriptexist(4588604953, "CriminalityNoRecoil", "Terni", "https://raw.githubus
     
 addscript(7371240697,"Giant Dancing Simulator [Collect All Eggs]", "GiantDancingSimulatorCollectAllEggs", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/GiantDancingSimulatorCollectAllEggs.lua")
                     
+    
+addscript(6808589067,"Shinden [Auto Meditate]", "ShindenAutoMeditate", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ShindenAutoMeditate.lua")
+                    
