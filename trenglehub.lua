@@ -7600,3 +7600,5 @@ addscriptexist(4111023553, "DeepwokenAutoFlingAutoParryAutoParryU", "Qalnik", "h
     
 addscript(2978450615,"Mad Paintball [Kill All]", "MadPaintballKillAll", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MadPaintballKillAll.lua")
                     
+                    
+addscriptexist(182781154, "TheMazeRunnerChestFarm", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TheMazeRunnerChestFarm.lua")
