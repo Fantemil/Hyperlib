@@ -1764,3 +1764,6 @@ addscript(5154858502,"Murderers vs. Sheriffs [KillAura]", "MurderersvsSheriffsKi
 addscriptexist(10524502174, "OnePunchFightersAutoPunchRemoveBarriers", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OnePunchFightersAutoPunchRemoveBarriers.lua")
                     
 addscriptexist(6284583030, "PetSimulatorXAutoFarmAutoopenEggAutoFarmChest", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PetSimulatorXAutoFarmAutoopenEggAutoFarmChest.lua")
+    
+addscript(9103090927,"Stumble Buddies [Kick All]", "StumbleBuddiesKickAll", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/StumbleBuddiesKickAll.lua")
+                    
