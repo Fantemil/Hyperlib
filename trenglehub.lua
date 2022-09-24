@@ -6367,3 +6367,5 @@ addscriptexist(155382109, "SurviveandKilltheKillersinArea51GetAllWeaponsRefillAm
     
 addscript(6381829480,"King Legacy [Auto Stats, Auto Farm, Bring All Fruit]", "KingLegacyAutoStatsAutoFarmBringAllFruit", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/KingLegacyAutoStatsAutoFarmBringAllFruit.lua")
                     
+                    
+addscriptexist(8781849572, "StarSimulatorBetaInfplanks", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/StarSimulatorBetaInfplanks.lua")
