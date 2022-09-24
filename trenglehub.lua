@@ -8184,3 +8184,5 @@ addscript(7280776979,"Hyundai Mobility Adventure [Auto Farm]", "HyundaiMobilityA
                     
                     
 addscriptexist(6490016198, "SlayerTycoonMINEWOOD", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SlayerTycoonMINEWOOD.lua")
+                    
+addscriptexist(3587619225, "MegaEasyObbyAUTOFARM", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MegaEasyObbyAUTOFARM.lua")
