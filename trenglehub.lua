@@ -3785,3 +3785,5 @@ addscriptexist(9359379224, "ChaoticBeanSimulatorAutoFarm", "Qalnik", "https://ra
 addscriptexist(1537690962, "BeeSwarmSimulatorGUIAutoDigAutoFarmMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BeeSwarmSimulatorGUIAutoDigAutoFarmMore.lua")
                     
 addscriptexist(2506738224, "FallenMagicBullet", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FallenMagicBullet.lua")
+                    
+addscriptexist(8884334497, "MiningClickerSimulatorGUIAutoClicksAutoRebirthMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MiningClickerSimulatorGUIAutoClicksAutoRebirthMore.lua")
