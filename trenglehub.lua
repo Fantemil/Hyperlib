@@ -7066,3 +7066,6 @@ addscriptexist(6953291455, "EatingSimulatorAutoClickAutoSellForselocation", "Qal
     
 addscript(7896264844,"Find the Markers [Marker Esp, Tp random Marker]", "FindtheMarkersMarkerEspTprandomMarker", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FindtheMarkersMarkerEspTprandomMarker.lua")
                     
+    
+addscript(7548385157,"Penguin Tycoon [Auto Farm]", "PenguinTycoonAutoFarm", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PenguinTycoonAutoFarm.lua")
+                    
