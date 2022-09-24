@@ -5944,3 +5944,5 @@ addscript(6847090259,"Bulked Up [Auto Collect Eggs]", "BulkedUpAutoCollectEggs",
     
 addscript(5049335549,"Dawn of Aurora RP [Auto Farm Free]", "DawnofAuroraRPAutoFarmFree", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DawnofAuroraRPAutoFarmFree.lua")
                     
+                    
+addscriptexist(6847090259, "BulkedUpAutoCollectTrophies", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BulkedUpAutoCollectTrophies.lua")
