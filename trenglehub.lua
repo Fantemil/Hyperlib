@@ -8746,3 +8746,5 @@ addscriptexist(185655149, "WelcometoBloxburgUPDATEAUTOFARMING", "Terni", "https:
 addscriptexist(142823291, "MurderMystery2ESPEMOTESTROLL", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MurderMystery2ESPEMOTESTROLL.lua")
                     
 addscriptexist(3823781113, "SaberSimulatorNEWGUIAutoFarmAutoBuyAutoSell", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SaberSimulatorNEWGUIAutoFarmAutoBuyAutoSell.lua")
+                    
+addscriptexist(606849621, "JailbreakAIMBOTESP", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/JailbreakAIMBOTESP.lua")
