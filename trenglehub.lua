@@ -4205,3 +4205,6 @@ addscript(6269446951,"Smooth Slicing [Kill All]", "SmoothSlicingKillAll", "Terni
                     
                     
 addscriptexist(9344944754, "HunterxAthenaAutoPushups", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/HunterxAthenaAutoPushups.lua")
+    
+addscript(504090542,"Battleship Battle [Kill All]", "BattleshipBattleKillAll", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BattleshipBattleKillAll.lua")
+                    
