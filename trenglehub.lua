@@ -8645,3 +8645,6 @@ addscriptexist(920587237, "AdoptMeGingerBreadAutoFarm", "Terni", "https://raw.gi
     
 addscript(6905196703,"2 Player Hacker Tycoon [ALL WEAPONS]", "2PlayerHackerTycoonALLWEAPONS", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/2PlayerHackerTycoonALLWEAPONS.lua")
                     
+    
+addscript(2313058949,"Tornado Alley Ultimate [TP, SPECTATE GAME, GIVE ITEMS]", "TornadoAlleyUltimateTPSPECTATEGAMEGIVEITEMS", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TornadoAlleyUltimateTPSPECTATEGAMEGIVEITEMS.lua")
+                    
