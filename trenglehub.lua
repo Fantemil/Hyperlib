@@ -3285,3 +3285,5 @@ addscriptexist(7952502098, "ImpossibleGlassBridgeObbyAutoFarmCash", "Terni", "ht
     
 addscript(8240600306,"Pet Simulator X! [GUI - Auto Farm]", "PetSimulatorXGUIAutoFarm", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PetSimulatorXGUIAutoFarm.lua")
                     
+                    
+addscriptexist(9983979661, "DragonFarmSimulatorInfiniteCash", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DragonFarmSimulatorInfiniteCash.lua")
