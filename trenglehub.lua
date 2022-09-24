@@ -6419,3 +6419,5 @@ addscriptexist(2534724415, "EmergencyResponseLibertyCountyInfiniteStamina", "Ter
 addscriptexist(8044403176, "VehicleChampionsAutoFarmGUI", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/VehicleChampionsAutoFarmGUI.lua")
                     
 addscriptexist(155382109, "SurviveandKilltheKillesrinArea51STKv71EngineGUI", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SurviveandKilltheKillesrinArea51STKv71EngineGUI.lua")
+                    
+addscriptexist(8073154099, "TheIntruderIntruderDetection", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TheIntruderIntruderDetection.lua")
