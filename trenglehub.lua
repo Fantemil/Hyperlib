@@ -8553,3 +8553,5 @@ addscriptexist(7503115095, "PopItTradingAUTOFARMINGTOYS", "Terni", "https://raw.
 addscriptexist(7232779505, "TypeRaceAUTOPLAYER", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TypeRaceAUTOPLAYER.lua")
                     
 addscriptexist(4520749081, "KingLegacyWalkSpeedTranslatorSpectate", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/KingLegacyWalkSpeedTranslatorSpectate.lua")
+                    
+addscriptexist(2512643572, "BubbleGunSimulatorAUTOFARMAUTOSELLAUTOBUY", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BubbleGunSimulatorAUTOFARMAUTOSELLAUTOBUY.lua")
