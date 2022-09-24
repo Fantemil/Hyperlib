@@ -1729,3 +1729,5 @@ addscriptexist(9845705613, "BloodHoodAutoPunchKillAll", "astrofile", "https://ra
     
 addscript(10184360875,"Pet&Fishing Simulator [Auto Sell, Auto Fish]", "PetFishingSimulatorAutoSellAutoFish", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PetFishingSimulatorAutoSellAutoFish.lua")
                     
+                    
+addscriptexist(9285238704, "RaceClickerAutoFarmAutoClick", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RaceClickerAutoFarmAutoClick.lua")
