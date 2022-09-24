@@ -1712,3 +1712,6 @@ addscript(9718523719,"Roblox [ReJoin Server]", "RobloxReJoinServer", "Qalnik", "
     
 addscript(9862161924,"glass game [Show Fake Glass]", "glassgameShowFakeGlass", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/glassgameShowFakeGlass.lua")
                     
+    
+addscript(5326405001,"Base Battles (Fixed) [Silent Aim, Esp]", "BaseBattlesFixedSilentAimEsp", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BaseBattlesFixedSilentAimEsp.lua")
+                    
