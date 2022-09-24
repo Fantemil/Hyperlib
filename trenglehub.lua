@@ -4871,3 +4871,5 @@ addscriptexist(6728870912, "WorldofStandsInfGoldMasksGodMode", "Terni", "https:/
     
 addscript(1927139201,"Day of Dusk - The Border [Auto Mine Ores]", "DayofDuskTheBorderAutoMineOres", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DayofDuskTheBorderAutoMineOres.lua")
                     
+                    
+addscriptexist(4616652839, "ShindoLifeAutoFarmInfinityspinsWarfarm", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ShindoLifeAutoFarmInfinityspinsWarfarm.lua")
