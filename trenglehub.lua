@@ -6458,3 +6458,6 @@ addscriptexist(2866967438, "FishingSimulatorGUIFarming", "Terni", "https://raw.g
 addscriptexist(3210622855, "MannersBadgeWalkGetAllCaveWorldBadges", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MannersBadgeWalkGetAllCaveWorldBadges.lua")
                     
 addscriptexist(6778844213, "EuphoriaragdolltestingGetGamepassGUI", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/EuphoriaragdolltestingGetGamepassGUI.lua")
+    
+addscript(1417427737,"Mining Simulator [Noclip, Sell blocks, Fly]", "MiningSimulatorNoclipSellblocksFly", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MiningSimulatorNoclipSellblocksFly.lua")
+                    
