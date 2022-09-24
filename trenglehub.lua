@@ -5946,3 +5946,6 @@ addscript(5049335549,"Dawn of Aurora RP [Auto Farm Free]", "DawnofAuroraRPAutoFa
                     
                     
 addscriptexist(6847090259, "BulkedUpAutoCollectTrophies", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BulkedUpAutoCollectTrophies.lua")
+    
+addscript(386329050,"The Black Mesλ Incident [All guns]", "TheBlackMesλIncidentAllguns", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TheBlackMesλIncidentAllguns.lua")
+                    
