@@ -7366,3 +7366,6 @@ addscriptexist(7560156054, "ClickerSimulatorAutoShiny", "Terni", "https://raw.gi
     
 addscript(6081494153,"Project Gaming [Damage Mod]", "ProjectGamingDamageMod", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ProjectGamingDamageMod.lua")
                     
+    
+addscript(7279999673,"Dragon Blade Open World RPG [Free Coins & Item Crafting - Auto Craft]", "DragonBladeOpenWorldRPGFreeCoinsItemCraftingAutoCraft", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DragonBladeOpenWorldRPGFreeCoinsItemCraftingAutoCraft.lua")
+                    
