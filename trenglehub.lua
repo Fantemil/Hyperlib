@@ -1685,3 +1685,6 @@ addscriptexist(10087074695, "KnifeStrifeDupeKnifesnotfixed", "astrofile", "https
     
 addscript(4951858512,"Victory Race [AutoFarm]", "VictoryRaceAutoFarm", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/VictoryRaceAutoFarm.lua")
                     
+    
+addscript(3587619225,"Mega Easy Obby [Claim All Badges, Walkspeed]", "MegaEasyObbyClaimAllBadgesWalkspeed", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MegaEasyObbyClaimAllBadgesWalkspeed.lua")
+                    
