@@ -8389,3 +8389,5 @@ addscriptexist(4924922222, "BrookhavenRPAllPasesFeHeadlessGarage", "Qalnik", "ht
     
 addscript(7198500613,"Impossible Squid Game [Auto Farm]", "ImpossibleSquidGameAutoFarm", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ImpossibleSquidGameAutoFarm.lua")
                     
+                    
+addscriptexist(6284583030, "PetSimulatorXAutoFarmAutoBuyeggTp", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PetSimulatorXAutoFarmAutoBuyeggTp.lua")
