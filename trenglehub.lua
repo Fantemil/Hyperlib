@@ -8363,3 +8363,6 @@ addscript(885450884,"The Grand Crossing [Cashier Auto-Farm]", "TheGrandCrossingC
                     
                     
 addscriptexist(6824046084, "SillysDifficultyChartAutoFarm", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SillysDifficultyChartAutoFarm.lua")
+    
+addscript(7490012056,"ALL STAR BRAWL [Infinite Awakening]", "ALLSTARBRAWLInfiniteAwakening", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ALLSTARBRAWLInfiniteAwakening.lua")
+                    
