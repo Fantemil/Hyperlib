@@ -7717,3 +7717,6 @@ addscriptexist(6299805723, "AnimeFightersSimulatorGUITeleportsOpenSource", "Tern
 addscriptexist(7535149098, "SpaceTycoonFarmSecretGemsMoreOpenSource", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SpaceTycoonFarmSecretGemsMoreOpenSource.lua")
                     
 addscriptexist(621129760, "KATGunModNoRecoilINFAmmoMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/KATGunModNoRecoilINFAmmoMore.lua")
+    
+addscript(4866692557,"Age of Heroes [Farm Mobs - Kill Players]", "AgeofHeroesFarmMobsKillPlayers", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AgeofHeroesFarmMobsKillPlayers.lua")
+                    
