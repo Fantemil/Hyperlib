@@ -4116,3 +4116,5 @@ addscript(2639416308,"Ace Attorney Spam [Spam Custom Massages]", "AceAttorneySpa
     
 addscript(8603729161,"walk 50000 studs for nothing [Max studs in under 1 minute]", "walk50000studsfornothingMaxstudsinunder1minute", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/walk50000studsfornothingMaxstudsinunder1minute.lua")
                     
+                    
+addscriptexist(9498006165, "TappingSimulatorGUIAutoRebirthAutoUpgradesMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TappingSimulatorGUIAutoRebirthAutoUpgradesMore.lua")
