@@ -1597,3 +1597,6 @@ addscript(3101667897,"Legends Of Speed [Auto Hoops, AutoRace]", "LegendsOfSpeedA
                     
                     
 addscriptexist(5602055394, "HoodModdedSilentAimEsp", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/HoodModdedSilentAimEsp.lua")
+    
+addscript(10347946161,"Rat Washing Tycoon [Auto Farm]", "RatWashingTycoonAutoFarm", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RatWashingTycoonAutoFarm.lua")
+                    
