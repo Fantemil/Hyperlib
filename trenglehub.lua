@@ -3282,3 +3282,6 @@ addscript(596894229,"Elemental Adventure [Level Farm]", "ElementalAdventureLevel
 addscriptexist(8278412720, "CSPrisonLifeBETAAutoArrest", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CSPrisonLifeBETAAutoArrest.lua")
                     
 addscriptexist(7952502098, "ImpossibleGlassBridgeObbyAutoFarmCash", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ImpossibleGlassBridgeObbyAutoFarmCash.lua")
+    
+addscript(8240600306,"Pet Simulator X! [GUI - Auto Farm]", "PetSimulatorXGUIAutoFarm", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PetSimulatorXGUIAutoFarm.lua")
+                    
