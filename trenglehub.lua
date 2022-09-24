@@ -6597,3 +6597,6 @@ addscriptexist(8554378337, "WeaponFightingSimulatorAutoBossAutoGambleAutoOpenBos
 addscriptexist(7560156054, "ClickerSimulatorAutoClickAutoClaimGiftsAutoCollectChests", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ClickerSimulatorAutoClickAutoClaimGiftsAutoCollectChests.lua")
                     
 addscriptexist(5864786637, "InAnotherTimeKillAura", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/InAnotherTimeKillAura.lua")
+    
+addscript(6998582502,"Dungeon Crusaders [Auto Win]", "DungeonCrusadersAutoWin", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DungeonCrusadersAutoWin.lua")
+                    
