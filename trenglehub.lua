@@ -3927,3 +3927,5 @@ addscriptexist(6677985923, "MillionaireEmpireTycoonAutoFarm", "Qalnik", "https:/
 addscriptexist(7560156054, "ClickerSimulatorFreeGamepass", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ClickerSimulatorFreeGamepass.lua")
                     
 addscriptexist(8876694280, "StrongSimulatorXAutoFarmAutoRebirthHideNameTag", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/StrongSimulatorXAutoFarmAutoRebirthHideNameTag.lua")
+                    
+addscriptexist(8303902695, "PetPosseSpamCoin", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PetPosseSpamCoin.lua")
