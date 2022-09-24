@@ -1549,3 +1549,6 @@ addscript(6245984328,"NERF Strike [AutoFarm, Hitboxes]", "NERFStrikeAutoFarmHitb
     
 addscript(9203864304,"raise a floppa [AutoClick, AutoCollectMoney]", "raiseafloppaAutoClickAutoCollectMoney", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/raiseafloppaAutoClickAutoCollectMoney.lua")
                     
+    
+addscript(7047488135,"Speed Run Simulator [AutoClick, Win Race]", "SpeedRunSimulatorAutoClickWinRace", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SpeedRunSimulatorAutoClickWinRace.lua")
+                    
