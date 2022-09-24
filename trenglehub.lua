@@ -2253,3 +2253,6 @@ addscript(891852901,"Greenville [Car Stealer]", "GreenvilleCarStealer", "astrofi
                     
                     
 addscriptexist(2534724415, "EmergencyResponseLibertyCountyUndetectedTeleport", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/EmergencyResponseLibertyCountyUndetectedTeleport.lua")
+    
+addscript(10351639671,"Anime Legends Simulator [Auto Complete Event]", "AnimeLegendsSimulatorAutoCompleteEvent", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AnimeLegendsSimulatorAutoCompleteEvent.lua")
+                    
