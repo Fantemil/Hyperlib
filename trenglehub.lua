@@ -3047,3 +3047,5 @@ addscript(9290611413,"Roblox [Smooth Blocks]", "RobloxSmoothBlocks", "Qalnik", "
     
 addscript(10370253487,"You Can't Say That Again [Spam Chat]", "YouCantSayThatAgainSpamChat", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/YouCantSayThatAgainSpamChat.lua")
                     
+                    
+addscriptexist(142823291, "MurderMystery2UnlockAllSkinsClientside", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MurderMystery2UnlockAllSkinsClientside.lua")
