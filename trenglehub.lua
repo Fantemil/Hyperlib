@@ -4979,3 +4979,6 @@ addscriptexist(9551640993, "MiningSimulator2AutoMineAutoRebirthingAutoSell", "Qa
     
 addscript(6028157264,"My Hospital [INf Money]", "MyHospitalINfMoney", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MyHospitalINfMoney.lua")
                     
+    
+addscript(8363125306,"Outdoor Brawling [Get Advance, No Stun, No Carry]", "OutdoorBrawlingGetAdvanceNoStunNoCarry", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OutdoorBrawlingGetAdvanceNoStunNoCarry.lua")
+                    
