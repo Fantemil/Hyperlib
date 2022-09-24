@@ -1,4 +1,3 @@
-wait(30)
 _G.Enabled = true
 snipe = "PUT WHAT YOU WANT HERE"
 whenSpins = 90

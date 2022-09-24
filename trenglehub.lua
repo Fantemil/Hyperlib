@@ -7261,3 +7261,5 @@ addscript(7549229959,"Squid Game [Win First Game, Win Second Game, Win rope game
     
 addscript(8288069630,"Stone Miner Simulator [Infinite Gems - Free Gold - Auto Sell]", "StoneMinerSimulatorInfiniteGemsFreeGoldAutoSell", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/StoneMinerSimulatorInfiniteGemsFreeGoldAutoSell.lua")
                     
+                    
+addscriptexist(6422372837, "SnipersSniperMod", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SnipersSniperMod.lua")
