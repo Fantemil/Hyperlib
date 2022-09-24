@@ -3738,3 +3738,6 @@ addscriptexist(7075737729, "HoopCentral6AutoDunk", "Terni", "https://raw.githubu
     
 addscript(9974958703,"Fruit Piece [Infinite Stats]", "FruitPieceInfiniteStats", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FruitPieceInfiniteStats.lua")
                     
+    
+addscript(7182546997,"Attack on Titan Vengeance [Auto Farm Titan]", "AttackonTitanVengeanceAutoFarmTitan", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AttackonTitanVengeanceAutoFarmTitan.lua")
+                    
