@@ -2002,3 +2002,6 @@ addscript(3458435516,"Limited Simulator 2 [AutoBuy]", "LimitedSimulator2AutoBuy"
                     
                     
 addscriptexist(142823291, "MurderMystery2KillAuraGodmode", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MurderMystery2KillAuraGodmode.lua")
+    
+addscript(4490140733,"My Restaurant! [Auto Farm, Money Farm]", "MyRestaurantAutoFarmMoneyFarm", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MyRestaurantAutoFarmMoneyFarm.lua")
+                    
