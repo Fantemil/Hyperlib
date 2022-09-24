@@ -1511,3 +1511,6 @@ addscript(9772878203,"raise a floppa 2 [Automatic Crystal Farm]", "raiseafloppa2
     
 addscript(6428174188,"Lost RPG [Get All Items]", "LostRPGGetAllItems", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LostRPGGetAllItems.lua")
                     
+    
+addscript(9658251985,"The Rake Kill Test [Kick paleyrs]", "TheRakeKillTestKickpaleyrs", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TheRakeKillTestKickpaleyrs.lua")
+                    
