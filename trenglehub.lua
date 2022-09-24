@@ -2248,3 +2248,6 @@ addscript(391104146,"Let's Party∞ +Gear Testing Edition [Ban All, Fly]", "Lets
                     
                     
 addscriptexist(3260590327, "TowerDefenseSimulator", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TowerDefenseSimulator.lua")
+    
+addscript(891852901,"Greenville [Car Stealer]", "GreenvilleCarStealer", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/GreenvilleCarStealer.lua")
+                    
