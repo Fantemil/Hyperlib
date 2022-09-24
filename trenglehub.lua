@@ -2256,3 +2256,5 @@ addscriptexist(2534724415, "EmergencyResponseLibertyCountyUndetectedTeleport", "
     
 addscript(10351639671,"Anime Legends Simulator [Auto Complete Event]", "AnimeLegendsSimulatorAutoCompleteEvent", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AnimeLegendsSimulatorAutoCompleteEvent.lua")
                     
+                    
+addscriptexist(9585537847, "SHADOVISRPGProjectiveSpam", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SHADOVISRPGProjectiveSpam.lua")
