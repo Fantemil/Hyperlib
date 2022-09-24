@@ -1541,3 +1541,5 @@ addscriptexist(9304358188104, "FindTheMemesGetAll", "astrofile", "https://raw.gi
     
 addscript(8054462345,"Michael's Zombies [Kill Aura]", "MichaelsZombiesKillAura", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MichaelsZombiesKillAura.lua")
                     
+                    
+addscriptexist(8130299583, "TridentSurvivalEspHeadHbeXray", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TridentSurvivalEspHeadHbeXray.lua")
