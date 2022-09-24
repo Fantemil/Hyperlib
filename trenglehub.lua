@@ -938,3 +938,6 @@ addscript(9264596435,"Idle Heroes Simulator! ", "IdleHeroesSimulatorAutoFarmAuto
     
 addscript(2686040248,"Math Obby ", "MathObbyShowCorrectDoors", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MathObbyShowCorrectDoors.lua")
                     
+    
+addscript(8540168650,"Stand Upright", "StandUprightRebootedAutoFarmItemsFarmAutoBuy", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/StandUprightRebootedAutoFarmItemsFarmAutoBuy.lua")
+                    
