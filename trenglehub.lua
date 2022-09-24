@@ -5504,3 +5504,6 @@ addscriptexist(6679274937, "VansWorldMaxLevelOpenSourse", "Terni", "https://raw.
 addscriptexist(9292879820, "GrassCuttingIncrementalModStats", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/GrassCuttingIncrementalModStats.lua")
                     
 addscriptexist(9281034297, "GoalKickSimulatorAimBotAutoKickMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/GoalKickSimulatorAimBotAutoKickMore.lua")
+    
+addscript(5864786637,"In Another Time [Kill All]", "InAnotherTimeKillAll", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/InAnotherTimeKillAll.lua")
+                    
