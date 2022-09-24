@@ -8020,3 +8020,6 @@ addscriptexist(2317712696, "TheWildWestEsp", "Qalnik", "https://raw.githubuserco
     
 addscript(3440262694,"Airport Tycoon [Redeem Codes]", "AirportTycoonRedeemCodes", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AirportTycoonRedeemCodes.lua")
                     
+    
+addscript(6114360009,"Prison Life 3 [Auto Farm]", "PrisonLife3AutoFarm", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PrisonLife3AutoFarm.lua")
+                    
