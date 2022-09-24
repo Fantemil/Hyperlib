@@ -920,3 +920,5 @@ addscript(9829869210,"Karate Kick Simulator ", "KarateKickSimulatorKillAll", "as
     
 addscript(8146731988,"Ultra Power Tycoon ", "UltraPowerTycoonInfJumpPlayerModificationsEsp", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/UltraPowerTycoonInfJumpPlayerModificationsEsp.lua")
                     
+                    
+addscriptexist(7952502098, "ImpossibleGlassBridgeObbyAutoFarmMoneyShowBreakingGlass", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ImpossibleGlassBridgeObbyAutoFarmMoneyShowBreakingGlass.lua")
