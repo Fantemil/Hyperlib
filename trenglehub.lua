@@ -6541,3 +6541,6 @@ addscript(2693023319,"Expedition Antarctica [Get 500B Coins]", "ExpeditionAntarc
                     
                     
 addscriptexist(7993293100, "TsunamiGameAutoWinFarmDeathsMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TsunamiGameAutoWinFarmDeathsMore.lua")
+    
+addscript(8657732325,"World Sail [Auto Farm Enhance Level]", "WorldSailAutoFarmEnhanceLevel", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/WorldSailAutoFarmEnhanceLevel.lua")
+                    
