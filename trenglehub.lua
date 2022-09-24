@@ -6354,3 +6354,5 @@ addscript(8382553377,"Boom Simulator [GUI - Auto Farm, Teleports]", "BoomSimulat
                     
                     
 addscriptexist(8781849572, "StarSimulatorBetaInfresources", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/StarSimulatorBetaInfresources.lua")
+                    
+addscriptexist(155382109, "SurviveAndKillTheKillersInArea51InfAmmoGiveAllGunsKilleresp", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SurviveAndKillTheKillersInArea51InfAmmoGiveAllGunsKilleresp.lua")
