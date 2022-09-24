@@ -7369,3 +7369,5 @@ addscript(6081494153,"Project Gaming [Damage Mod]", "ProjectGamingDamageMod", "T
     
 addscript(7279999673,"Dragon Blade Open World RPG [Free Coins & Item Crafting - Auto Craft]", "DragonBladeOpenWorldRPGFreeCoinsItemCraftingAutoCraft", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DragonBladeOpenWorldRPGFreeCoinsItemCraftingAutoCraft.lua")
                     
+                    
+addscriptexist(3095204897, "IsleESPAntiKickMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/IsleESPAntiKickMore.lua")
