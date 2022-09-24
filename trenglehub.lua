@@ -8485,3 +8485,5 @@ addscriptexist(258258996, "MinersHavenBESTHUBMOREFUNCTIONS35", "Terni", "https:/
     
 addscript(8012821049,"Floppy's Playtime! [Auto input security code]", "FloppysPlaytimeAutoinputsecuritycode", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FloppysPlaytimeAutoinputsecuritycode.lua")
                     
+                    
+addscriptexist(23578803, "HotelElephantGiveeveryone10kRemoveeveryone10kServerCrush", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/HotelElephantGiveeveryone10kRemoveeveryone10kServerCrush.lua")
