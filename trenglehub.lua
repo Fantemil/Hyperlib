@@ -4100,3 +4100,5 @@ addscriptexist(6755746130, "FruitJuiceTycoonAutoFarm", "Qalnik", "https://raw.gi
     
 addscript(9266432096,"Anime Journey [Auto Farm, Auto Spin, Auto Stats]", "AnimeJourneyAutoFarmAutoSpinAutoStats", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AnimeJourneyAutoFarmAutoSpinAutoStats.lua")
                     
+                    
+addscriptexist(920587237, "AdoptMeGetAllPetsRideableFlyable", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AdoptMeGetAllPetsRideableFlyable.lua")
