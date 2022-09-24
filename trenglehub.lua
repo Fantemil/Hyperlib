@@ -4880,3 +4880,5 @@ addscript(9402532903,"Diamond Hood, Ruby hood [Auto Shoot & More!]", "DiamondHoo
                     
                     
 addscriptexist(5620664339, "RoStreetsGUIInfCashTrollMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RoStreetsGUIInfCashTrollMore.lua")
+                    
+addscriptexist(4540286603, "NORTHWINDAnimalEsp", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NORTHWINDAnimalEsp.lua")
