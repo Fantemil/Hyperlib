@@ -6129,3 +6129,5 @@ addscriptexist(9049840490, "SonicSpeedSimulatorLvlfarm", "Qalnik", "https://raw.
 addscriptexist(606849621, "JailbreakInstanttpbase", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/JailbreakInstanttpbase.lua")
                     
 addscriptexist(5780309044, "StandsAwakeningStandFarmNpcTeleportPlaceTeleport", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/StandsAwakeningStandFarmNpcTeleportPlaceTeleport.lua")
+                    
+addscriptexist(6679274937, "VansWorldAutoCollectCoinsAutoXpGainCompleteAllguests", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/VansWorldAutoCollectCoinsAutoXpGainCompleteAllguests.lua")
