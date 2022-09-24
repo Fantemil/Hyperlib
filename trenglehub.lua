@@ -4778,3 +4778,5 @@ addscriptexist(292439477, "PhantomForcesOpenSourceESP", "Terni", "https://raw.gi
     
 addscript(6143963763,"Untitled Combat Arena [Auto Farm Money]", "UntitledCombatArenaAutoFarmMoney", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/UntitledCombatArenaAutoFarmMoney.lua")
                     
+                    
+addscriptexist(2768379856, "300827AdminSpoofer", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/300827AdminSpoofer.lua")
