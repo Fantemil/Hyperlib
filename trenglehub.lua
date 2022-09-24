@@ -5367,3 +5367,5 @@ addscriptexist(8657806289, "DummiesvsNoobsAntiAmmoLoss", "Terni", "https://raw.g
 addscriptexist(8554378337, "WeaponFightingSimulatorFreeGamePassesAutoFarmMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/WeaponFightingSimulatorFreeGamePassesAutoFarmMore.lua")
                     
 addscriptexist(9281034297, "GoalKickSimulatorInfMoney", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/GoalKickSimulatorInfMoney.lua")
+                    
+addscriptexist(6969185078, "ElementalAwakeningAutospin", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ElementalAwakeningAutospin.lua")
