@@ -1641,3 +1641,6 @@ addscriptexist(1537690962, "BeeSwarmSimulatorAutofarmAutodigAutoconvert", "Qalni
     
 addscript(7714627632,"Winds of Fortune [AutoFarm, Esp]", "WindsofFortuneAutoFarmEsp", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/WindsofFortuneAutoFarmEsp.lua")
                     
+    
+addscript(6278885452,"Roblox [WalkSpeed GUI]", "RobloxWalkSpeedGUI", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RobloxWalkSpeedGUI.lua")
+                    
