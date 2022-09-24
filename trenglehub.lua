@@ -7430,3 +7430,5 @@ addscriptexist(7047488135, "SpeedySimulatorAutoFarmGemsSpeed", "Terni", "https:/
     
 addscript(5229802390,"Anime Cross World [God mode]", "AnimeCrossWorldGodmode", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AnimeCrossWorldGodmode.lua")
                     
+                    
+addscriptexist(8592863835, "MagnetSimulator2AutoFarm", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MagnetSimulator2AutoFarm.lua")
