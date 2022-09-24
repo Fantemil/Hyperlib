@@ -7759,3 +7759,6 @@ addscriptexist(8425637426, "WriteaLetterClearAllLetters", "Terni", "https://raw.
 addscriptexist(5326405001, "BaseBattlesGunModInfAmmo", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BaseBattlesGunModInfAmmo.lua")
                     
 addscriptexist(606849621, "JailbreakVYNIXIUSGUI", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/JailbreakVYNIXIUSGUI.lua")
+    
+addscript(8105433301,"Funny Tower Defense [Infinite Cash]", "FunnyTowerDefenseInfiniteCash", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FunnyTowerDefenseInfiniteCash.lua")
+                    
