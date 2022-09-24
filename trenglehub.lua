@@ -3696,3 +3696,6 @@ addscript(698448212,"RoBeats! [Free Ugc Item]", "RoBeatsFreeUgcItem", "Terni", "
     
 addscript(4850718823,"Skate Park [Free Ugc Items]", "SkateParkFreeUgcItems", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SkateParkFreeUgcItems.lua")
                     
+    
+addscript(4746041618,"Steel Titans [ESP, Deleting objects]", "SteelTitansESPDeletingobjects", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SteelTitansESPDeletingobjects.lua")
+                    
