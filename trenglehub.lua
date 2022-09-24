@@ -5935,3 +5935,6 @@ addscriptexist(8874040270, "SKYWARSPRO2AutoFarm", "Terni", "https://raw.githubus
 addscriptexist(255236425, "TraitorTownNofallDamage", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TraitorTownNofallDamage.lua")
                     
 addscriptexist(7797478022, "BrokenBonesSimulatorAutoFarm", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BrokenBonesSimulatorAutoFarm.lua")
+    
+addscript(8747402506,"Prop Hunt [Kill All]", "PropHuntKillAll", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PropHuntKillAll.lua")
+                    
