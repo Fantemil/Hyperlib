@@ -1591,3 +1591,6 @@ addscript(6609611538,"Mechanica [Lag Server]", "MechanicaLagServer", "Qalnik", "
                     
                     
 addscriptexist(286090429, "ArsenalKillAuraAimBotTeamCheck", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ArsenalKillAuraAimBotTeamCheck.lua")
+    
+addscript(10053187005,"Counter Blox", "CounterBloxReimaginedKillAllAimbotEsp", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CounterBloxReimaginedKillAllAimbotEsp.lua")
+                    
