@@ -4699,3 +4699,5 @@ addscriptexist(5766084948, "SCPTheRedLakeInfiniteAmmo", "Terni", "https://raw.gi
 addscriptexist(537413528, "BuildABoatForTreasureAutoFarmRedeemallcode", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BuildABoatForTreasureAutoFarmRedeemallcode.lua")
                     
 addscriptexist(3956818381, "NinjaLegendsAutoSwingAutoSellTeleportToCoins", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NinjaLegendsAutoSwingAutoSellTeleportToCoins.lua")
+                    
+addscriptexist(8992150289, "AnimeSwordSimulatorFullAutoFarmGUI", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AnimeSwordSimulatorFullAutoFarmGUI.lua")
