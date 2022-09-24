@@ -2745,3 +2745,5 @@ addscriptexist(292439477, "PhantomForcesFreeChams", "Terni", "https://raw.github
     
 addscript(3346617530,"Freeze Tag Extreme [Anti Admin & More!]", "FreezeTagExtremeAntiAdminMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FreezeTagExtremeAntiAdminMore.lua")
                     
+                    
+addscriptexist(7009799230, "PressureWashSimulatorInfiniteMoney", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PressureWashSimulatorInfiniteMoney.lua")
