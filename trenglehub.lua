@@ -4601,3 +4601,5 @@ addscript(8992150289,"Anime Sword Simulator [Auto Rank - Auto Sword & More!]", "
                     
                     
 addscriptexist(3233893879, "BadBusiness307SilentAimOpenSource", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BadBusiness307SilentAimOpenSource.lua")
+                    
+addscriptexist(9551640993, "MiningSimulator2AutoForge", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MiningSimulator2AutoForge.lua")
