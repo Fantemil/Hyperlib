@@ -8175,3 +8175,5 @@ addscriptexist(318978013, "KickOffAutoFarmGoalFast", "Qalnik", "https://raw.gith
 addscriptexist(2693023319, "ExpeditionAntarcticaCoinFarm", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ExpeditionAntarcticaCoinFarm.lua")
                     
 addscriptexist(137885680, "ZombieRushBESTAUTOFARM", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ZombieRushBESTAUTOFARM.lua")
+                    
+addscriptexist(6802248248, "SAITAMANIAServerHop", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SAITAMANIAServerHop.lua")
