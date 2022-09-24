@@ -6028,3 +6028,6 @@ addscriptexist(5584024582, "TheRakeHourTestInfiniteLevels", "Terni", "https://ra
 addscriptexist(70005410, "BloxHuntV2725AutoFarmGUI", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BloxHuntV2725AutoFarmGUI.lua")
                     
 addscriptexist(3522803956, "DePrideIsleSanatoriumGUINoRagdollNoFallDamage", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DePrideIsleSanatoriumGUINoRagdollNoFallDamage.lua")
+    
+addscript(9278437733,"Elemental Pet Battles [Infinite Coins]", "ElementalPetBattlesInfiniteCoins", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ElementalPetBattlesInfiniteCoins.lua")
+                    
