@@ -3442,3 +3442,5 @@ addscript(3074287646,"Roblox [Audio Music]", "RobloxAudioMusic", "Qalnik", "http
     
 addscript(7480222488,"Roblox [Good Esp]", "RobloxGoodEsp", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RobloxGoodEsp.lua")
                     
+                    
+addscriptexist(7480222488, "RobloxEsp", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RobloxEsp.lua")
