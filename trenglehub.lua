@@ -3727,3 +3727,6 @@ addscript(7663817366,"Prison Roleplay Escape Plan [Auto Farm]", "PrisonRoleplayE
 addscriptexist(9377039667, "RobloxInnovationAwardsVotingHubGetAllPuzzlePieces", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RobloxInnovationAwardsVotingHubGetAllPuzzlePieces.lua")
                     
 addscriptexist(679715583, "StarscapeAutoMarket", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/StarscapeAutoMarket.lua")
+    
+addscript(9616411936,"Man City Blue Moon [Free Ugc Item]", "ManCityBlueMoonFreeUgcItem", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ManCityBlueMoonFreeUgcItem.lua")
+                    
