@@ -2358,3 +2358,6 @@ addscript(2772610559,"Farming and Friends [Auto Farm]", "FarmingandFriendsAutoFa
 addscriptexist(9284097280, "ApartmentTycoonAutocollectcash", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ApartmentTycoonAutocollectcash.lua")
                     
 addscriptexist(9243187709, "PedagondiaFaunasKillAura", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PedagondiaFaunasKillAura.lua")
+    
+addscript(9704893711,"Dha Hood [Inf Money]", "DhaHoodInfMoney", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DhaHoodInfMoney.lua")
+                    
