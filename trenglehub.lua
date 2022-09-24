@@ -4335,3 +4335,6 @@ addscriptexist(9568982793, "DaHoodBattlegroundsInstantKill", "Terni", "https://r
 addscriptexist(606849621, "JailbreakKeycardUnlockDoors", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/JailbreakKeycardUnlockDoors.lua")
                     
 addscriptexist(8123652942, "LegendPieceMaxStats", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LegendPieceMaxStats.lua")
+    
+addscript(4580204640,"Crimson Craftwars [Insta Kill All, God Mode & More!]", "CrimsonCraftwarsInstaKillAllGodModeMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CrimsonCraftwarsInstaKillAllGodModeMore.lua")
+                    
