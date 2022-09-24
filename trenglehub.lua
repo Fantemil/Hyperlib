@@ -2065,3 +2065,5 @@ addscript(3467049496,"MARVEL", "MARVELBattlegroundsFreeGamepasses", "astrofile",
     
 addscript(7177496972,"Anime Warriors [Auto Farm, Better Gfx]", "AnimeWarriorsAutoFarmBetterGfx", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AnimeWarriorsAutoFarmBetterGfx.lua")
                     
+                    
+addscriptexist(9049840490, "SonicSpeedSimulatorAutoWinRaceCollectAllObbysAutoRun", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SonicSpeedSimulatorAutoWinRaceCollectAllObbysAutoRun.lua")
