@@ -4650,3 +4650,5 @@ addscript(574407221,"Super Hero Tycoon [Crate Farm, Auto Cash, Auto Click]", "Su
                     
                     
 addscriptexist(4522347649, "FreeAdminUnlockGamepass", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FreeAdminUnlockGamepass.lua")
+                    
+addscriptexist(8069117419, "DemonSoulSimulatorAutoFarmTeleportsAutoChest", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DemonSoulSimulatorAutoFarmTeleportsAutoChest.lua")
