@@ -2374,3 +2374,6 @@ addscriptexist(4490140733, "MyRestaurantAutoFarm", "astrofile", "https://raw.git
     
 addscript(8303902695,"Pet Posse Simulator [Auto Egg,AutoFarm]", "PetPosseSimulatorAutoEggAutoFarm", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PetPosseSimulatorAutoEggAutoFarm.lua")
                     
+    
+addscript(5379581123,"Sword Fight and Flex Your Time [Auto Fight]", "SwordFightandFlexYourTimeAutoFight", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SwordFightandFlexYourTimeAutoFight.lua")
+                    
