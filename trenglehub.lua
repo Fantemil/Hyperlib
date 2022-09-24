@@ -2519,3 +2519,5 @@ addscriptexist(10325366821, "OOFTycoonAutoFarmAutoDeposit", "astrofile", "https:
     
 addscript(10118559731,"Nico's Nextbots [God Mode]", "NicosNextbotsGodMode", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NicosNextbotsGodMode.lua")
                     
+                    
+addscriptexist(5108997584, "Reason2DieValueIncreaser", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Reason2DieValueIncreaser.lua")
