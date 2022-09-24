@@ -6529,3 +6529,6 @@ addscriptexist(5116869569, "DoodleWorldGrabAllChests", "Terni", "https://raw.git
     
 addscript(4456880028,"Ro Crash [Admin Panel]", "RoCrashAdminPanel", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RoCrashAdminPanel.lua")
                     
+    
+addscript(4913331862,"Recoil Zombies [Zombie ESP & More!}", "RecoilZombiesZombieESPMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RecoilZombiesZombieESPMore.lua")
+                    
