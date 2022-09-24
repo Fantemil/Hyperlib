@@ -8648,3 +8648,6 @@ addscript(6905196703,"2 Player Hacker Tycoon [ALL WEAPONS]", "2PlayerHackerTycoo
     
 addscript(2313058949,"Tornado Alley Ultimate [TP, SPECTATE GAME, GIVE ITEMS]", "TornadoAlleyUltimateTPSPECTATEGAMEGIVEITEMS", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TornadoAlleyUltimateTPSPECTATEGAMEGIVEITEMS.lua")
                     
+    
+addscript(7768149183,"Find The Trollfaces [AUTO-FARM]", "FindTheTrollfacesAUTOFARM", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FindTheTrollfacesAUTOFARM.lua")
+                    
