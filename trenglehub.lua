@@ -7276,3 +7276,5 @@ addscriptexist(8649501395, "NFLTycoonInfMoney", "Qalnik", "https://raw.githubuse
 addscriptexist(8649501395, "NFLTycoonCollectFootballCollectionThingies", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NFLTycoonCollectFootballCollectionThingies.lua")
                     
 addscriptexist(6422372837, "SnipersInfMoney", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SnipersInfMoney.lua")
+                    
+addscriptexist(1537690962, "BeeSwarmSimulatorCrashServer", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BeeSwarmSimulatorCrashServer.lua")
