@@ -4491,3 +4491,6 @@ addscriptexist(2685347741, "GhostSimulatorAutoPickupDrops", "Terni", "https://ra
     
 addscript(6728870912,"World of Stands Demo [AutoFarm, Webhook, Item Farm]", "WorldofStandsDemoAutoFarmWebhookItemFarm", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/WorldofStandsDemoAutoFarmWebhookItemFarm.lua")
                     
+    
+addscript(9966192771,"Adventure Simulator [Reveal whats behind rocks during mining]", "AdventureSimulatorRevealwhatsbehindrocksduringmining", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AdventureSimulatorRevealwhatsbehindrocksduringmining.lua")
+                    
