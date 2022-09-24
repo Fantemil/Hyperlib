@@ -3333,3 +3333,6 @@ addscriptexist(7180042682, "MilitaryTycoonCollectallbatteries", "Qalnik", "https
 addscriptexist(1224212277, "MadCityChapter2SilentAimWallBangEasyXpMoney", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MadCityChapter2SilentAimWallBangEasyXpMoney.lua")
                     
 addscriptexist(893973440, "FleetheFacilityAutoFarm", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FleetheFacilityAutoFarm.lua")
+    
+addscript(9800759618,"Amanda [Story] [Auto Revive]", "AmandaStoryAutoRevive", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AmandaStoryAutoRevive.lua")
+                    
