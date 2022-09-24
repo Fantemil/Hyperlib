@@ -5474,3 +5474,6 @@ addscriptexist(9359839118, "GasStationSimulatorAutoFarmRefueler", "Terni", "http
 addscriptexist(9203864304, "raiseafloppaAutoCookers", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/raiseafloppaAutoCookers.lua")
                     
 addscriptexist(5620664339, "RoStreetsAutoStomp", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RoStreetsAutoStomp.lua")
+    
+addscript(9426082120,"shoppingmode Samsung Superstar Galaxy [Auto Collect All Stars]", "shoppingmodeSamsungSuperstarGalaxyAutoCollectAllStars", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/shoppingmodeSamsungSuperstarGalaxyAutoCollectAllStars.lua")
+                    
