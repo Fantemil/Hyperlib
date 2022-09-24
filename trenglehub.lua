@@ -1460,3 +1460,6 @@ addscriptexist(9648883891, "FestivalTycoonAutoBuyAll", "Qalnik", "https://raw.gi
     
 addscript(8293257677,"Surreal RPG [100 damage]", "SurrealRPG100damage", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SurrealRPG100damage.lua")
                     
+    
+addscript(2653064683,"Word Bomb [Auto type, Anti-kik, Auto Join]", "WordBombAutotypeAntikikAutoJoin", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/WordBombAutotypeAntikikAutoJoin.lua")
+                    
