@@ -3269,3 +3269,6 @@ addscript(6716378218,"Da Hood [Auto Arrest]", "DaHoodAutoArrest", "Terni", "http
                     
                     
 addscriptexist(7009799230, "PressureWashSimulatorGUIInfMoneyMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PressureWashSimulatorGUIInfMoneyMore.lua")
+    
+addscript(9397663086,"Ninja Training Simulator [Auto Farm & More!]", "NinjaTrainingSimulatorAutoFarmMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NinjaTrainingSimulatorAutoFarmMore.lua")
+                    
