@@ -8455,3 +8455,5 @@ addscriptexist(4490140733, "MyRestaurantAutoFarmFaspNPCsAutoSit", "Qalnik", "htt
 addscriptexist(7608438089, "TheWinterEscapeAutoFullCheer", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TheWinterEscapeAutoFullCheer.lua")
                     
 addscriptexist(6055959032, "JailbirdESP", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/JailbirdESP.lua")
+                    
+addscriptexist(6679274937, "VansWorldAutoQuestTpCoins", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/VansWorldAutoQuestTpCoins.lua")
