@@ -5272,3 +5272,6 @@ addscriptexist(4087265156, "VERTIGOMiniGUINoFallDamage", "Terni", "https://raw.g
     
 addscript(7665856814,"Insomniac World Party [Auto Mine]", "InsomniacWorldPartyAutoMine", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/InsomniacWorldPartyAutoMine.lua")
                     
+    
+addscript(2262441883,"Electric State DarkRP [God Mode - Open Source]", "ElectricStateDarkRPGodModeOpenSource", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ElectricStateDarkRPGodModeOpenSource.lua")
+                    
