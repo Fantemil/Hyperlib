@@ -4348,3 +4348,6 @@ addscript(9559194006,"social experiment [Infinite Stamina & More!]", "socialexpe
     
 addscript(6441847031,"CHAOS [Kill Player]", "CHAOSKillPlayer", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CHAOSKillPlayer.lua")
                     
+    
+addscript(455366377,"The Streets [Large Decals]", "TheStreetsLargeDecals", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TheStreetsLargeDecals.lua")
+                    
