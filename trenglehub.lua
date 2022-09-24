@@ -3122,3 +3122,5 @@ addscriptexist(8585657145, "AnimeHeroSimulatorAutoFarmGUI", "Terni", "https://ra
     
 addscript(6266940721,"StockRise Stock Simulator [Infinite Money]", "StockRiseStockSimulatorInfiniteMoney", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/StockRiseStockSimulatorInfiniteMoney.lua")
                     
+                    
+addscriptexist(9926433554, "BlastMiningSimulatorInfiniteMoney", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BlastMiningSimulatorInfiniteMoney.lua")
