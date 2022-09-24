@@ -996,3 +996,5 @@ addscriptexist(9264596435, "IdleHeroesSimulatorAutoHitAutoBuyHeroes", "Terni", "
 addscriptexist(2753915549, "BloxFruitsChestFarmTeleportsVisuals", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BloxFruitsChestFarmTeleportsVisuals.lua")
                     
 addscriptexist(8540168650, "StandUprightRebootedStandFarmItemFarmQuestFarming", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/StandUprightRebootedStandFarmItemFarmQuestFarming.lua")
+                    
+addscriptexist(142823291, "MurderMystery2XRayChamsEspAutoFarms", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MurderMystery2XRayChamsEspAutoFarms.lua")
