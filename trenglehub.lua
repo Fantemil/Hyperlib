@@ -2454,3 +2454,5 @@ addscriptexist(7899881670, "RBWorld4Shootassist", "astrofile", "https://raw.gith
     
 addscript(9845465117,"AU:Reborn [Auto Farm]", "AURebornAutoFarm", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AURebornAutoFarm.lua")
                     
+                    
+addscriptexist(9845465117, "AURebornAutoFarmTp", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AURebornAutoFarmTp.lua")
