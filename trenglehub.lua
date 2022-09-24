@@ -6565,3 +6565,5 @@ addscriptexist(185655149, "WelcomeToBloxburgFreeAutoFarm", "Terni", "https://raw
 addscriptexist(8781849572, "StarSimulatorBetaUnlockEveryonesLand", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/StarSimulatorBetaUnlockEveryonesLand.lua")
                     
 addscriptexist(3623096087, "MuscleLegendsKillLocationPirStats", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MuscleLegendsKillLocationPirStats.lua")
+                    
+addscriptexist(2248408710, "DestructionSimulatorAutoSellGunModsNoclip", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DestructionSimulatorAutoSellGunModsNoclip.lua")
