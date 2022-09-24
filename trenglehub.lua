@@ -8352,3 +8352,5 @@ addscriptexist(4169490976, "MortemMetallumLightWeaponDamageBoost", "Terni", "htt
 addscriptexist(7430861102, "AincradAdventuresAutoFarmMonkeyGodMode", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AincradAdventuresAutoFarmMonkeyGodMode.lua")
                     
 addscriptexist(6284583030, "PetSimulatorXShowPetHiddenChances", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PetSimulatorXShowPetHiddenChances.lua")
+                    
+addscriptexist(6284583030, "PetSimulatorXEggOfManyGiftsAutoBuy", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PetSimulatorXEggOfManyGiftsAutoBuy.lua")
