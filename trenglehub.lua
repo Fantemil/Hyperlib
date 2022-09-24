@@ -7720,3 +7720,6 @@ addscriptexist(621129760, "KATGunModNoRecoilINFAmmoMore", "Terni", "https://raw.
     
 addscript(4866692557,"Age of Heroes [Farm Mobs - Kill Players]", "AgeofHeroesFarmMobsKillPlayers", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AgeofHeroesFarmMobsKillPlayers.lua")
                     
+    
+addscript(8575272167,"Awakening Furry Defenses [Shut Down The Server Script]", "AwakeningFurryDefensesShutDownTheServerScript", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AwakeningFurryDefensesShutDownTheServerScript.lua")
+                    
