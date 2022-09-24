@@ -8276,3 +8276,6 @@ addscriptexist(3102144307, "AnimeClickerSimulatorAutoClickAutoOpenEggAutoRebirth
 addscriptexist(306964494, "LoomianLegacyAutoEncounter", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LoomianLegacyAutoEncounter.lua")
                     
 addscriptexist(2727067538, "WorldZeroKillAuraAutoUpdradeAutoSell", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/WorldZeroKillAuraAutoUpdradeAutoSell.lua")
+    
+addscript(5874128725,"No Jumping Difficulty Chart Obby [UNLOCK JUMP, ALL LEVELS]", "NoJumpingDifficultyChartObbyUNLOCKJUMPALLLEVELS", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NoJumpingDifficultyChartObbyUNLOCKJUMPALLLEVELS.lua")
+                    
