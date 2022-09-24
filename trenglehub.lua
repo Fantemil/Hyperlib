@@ -6407,3 +6407,5 @@ addscriptexist(8781849572, "StarSimulatorBetaInfiniteResources", "Terni", "https
 addscriptexist(3956818381, "NinjaLegendsGUIAutoSwingAutoBuy", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NinjaLegendsGUIAutoSwingAutoBuy.lua")
                     
 addscriptexist(30869879, "StopItSlenderGUIESP", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/StopItSlenderGUIESP.lua")
+                    
+addscriptexist(8916037983, "starvingartistsAutoAdvertise", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/starvingartistsAutoAdvertise.lua")
