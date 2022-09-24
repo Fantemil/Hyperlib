@@ -3406,3 +3406,6 @@ addscriptexist(2413927524, "THERAKEKillEditionPointGiver", "Terni", "https://raw
 addscriptexist(5993942214, "RushPointSilentAim", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RushPointSilentAim.lua")
                     
 addscriptexist(205224386, "HideAndSeekExtremeCollectallcoinsSpeedHacketc", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/HideAndSeekExtremeCollectallcoinsSpeedHacketc.lua")
+    
+addscript(443406476,"Project Lazarus [Auto Farm, Bring Heads, Gun Mod]", "ProjectLazarusAutoFarmBringHeadsGunMod", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ProjectLazarusAutoFarmBringHeadsGunMod.lua")
+                    
