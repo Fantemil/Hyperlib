@@ -5983,3 +5983,6 @@ addscript(171391948,"Vehicle Simulator [Auto Farm GUI]", "VehicleSimulatorAutoFa
     
 addscript(3272915504,"World of Magic [New ESP]", "WorldofMagicNewESP", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/WorldofMagicNewESP.lua")
                     
+    
+addscript(9230434873,"Logitech Song Breaker Awards [Collect All Coins - Unhide All NPCS & More!]", "LogitechSongBreakerAwardsCollectAllCoinsUnhideAllNPCSMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LogitechSongBreakerAwardsCollectAllCoinsUnhideAllNPCSMore.lua")
+                    
