@@ -6798,3 +6798,5 @@ addscriptexist(7009799230, "PressureWashSimulatorAutoFarmGUI", "Terni", "https:/
 addscriptexist(8884433153, "CollectAllPetsAutoQuestAutoCollectCoinsAutobuypets", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CollectAllPetsAutoQuestAutoCollectCoinsAutobuypets.lua")
                     
 addscriptexist(192800, "WorkAtaPizzaPlaceAutoFarm", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/WorkAtaPizzaPlaceAutoFarm.lua")
+                    
+addscriptexist(1537690962, "BeeSwarmSimulatorGUIAutoFarmMuchMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BeeSwarmSimulatorGUIAutoFarmMuchMore.lua")
