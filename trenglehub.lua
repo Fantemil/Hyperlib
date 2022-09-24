@@ -5724,3 +5724,5 @@ addscript(6673614635,"unConventional [Auto Questing]", "unConventionalAutoQuesti
                     
                     
 addscriptexist(8209480473, "SpotifyIslandHeartfarmserverhopGetalotofhearts", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SpotifyIslandHeartfarmserverhopGetalotofhearts.lua")
+                    
+addscriptexist(8209480473, "SpotifyIslandInstantLevel50", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SpotifyIslandInstantLevel50.lua")
