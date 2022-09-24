@@ -3479,3 +3479,5 @@ addscriptexist(4856393583, "BuildaSpaceshipTycoonInstaRebirth", "Terni", "https:
 addscriptexist(6403373529, "SlapBattlesKillAuraNoCooldown", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SlapBattlesKillAuraNoCooldown.lua")
                     
 addscriptexist(8203181639, "SyrianShenanigansgiveyourselftonsoffraggrenades", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SyrianShenanigansgiveyourselftonsoffraggrenades.lua")
+                    
+addscriptexist(8203181639, "SyrianShenanigansSlowdownthesniperscope", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SyrianShenanigansSlowdownthesniperscope.lua")
