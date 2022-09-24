@@ -4325,3 +4325,5 @@ addscriptexist(621129760, "KATGUIAutoFarmBtoolsMore", "Terni", "https://raw.gith
 addscriptexist(9568982793, "DaHoodBattlegroundsSilentAimbot", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DaHoodBattlegroundsSilentAimbot.lua")
                     
 addscriptexist(4459593483, "FORCETeleportToTrinkets", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FORCETeleportToTrinkets.lua")
+                    
+addscriptexist(4459593483, "FORCESellTrinkets", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FORCESellTrinkets.lua")
