@@ -4250,3 +4250,5 @@ addscript(8592703594,"Undertale Unexplained Anomalies [Stardust Auto Farm]", "Un
                     
                     
 addscriptexist(8123652942, "LegendPieceGodMode", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LegendPieceGodMode.lua")
+                    
+addscriptexist(8123652942, "LegendPieceInfiniteDamageToEnemies", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LegendPieceInfiniteDamageToEnemies.lua")
