@@ -6065,3 +6065,5 @@ addscript(7800644383,"Untitled Hood [Set players cash to negative]", "UntitledHo
     
 addscript(6783611814,"Build a Boat to Survive! [GUI - Auto-Farm]", "BuildaBoattoSurviveGUIAutoFarm", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BuildaBoattoSurviveGUIAutoFarm.lua")
                     
+                    
+addscriptexist(6938803436, "AnimeDimensionsSimulatorGUIAutoLvlAutoFarmMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AnimeDimensionsSimulatorGUIAutoLvlAutoFarmMore.lua")
