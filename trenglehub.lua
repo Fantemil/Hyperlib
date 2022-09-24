@@ -4166,3 +4166,5 @@ addscriptexist(6677985923, "MillionaireEmpireTycoonInfiniteMoneyRemote", "Terni"
 addscriptexist(6206893534, "CobraKaiKarateGUIAutoFarming", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CobraKaiKarateGUIAutoFarming.lua")
                     
 addscriptexist(180037022, "SonicUltimateRPGGetAllRings", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SonicUltimateRPGGetAllRings.lua")
+                    
+addscriptexist(180037022, "SonicUltimateRPGGetAllEmeralds", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SonicUltimateRPGGetAllEmeralds.lua")
