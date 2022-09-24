@@ -4391,3 +4391,5 @@ addscriptexist(9559194006, "socialexperimentGuessthenextgame", "Qalnik", "https:
     
 addscript(9786213478,"Treat Simulator [Auto Sell]", "TreatSimulatorAutoSell", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TreatSimulatorAutoSell.lua")
                     
+                    
+addscriptexist(3234050617, "Left2DieOverhaulinfiniteammoNorecollNoSpreed", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Left2DieOverhaulinfiniteammoNorecollNoSpreed.lua")
