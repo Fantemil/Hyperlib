@@ -2824,3 +2824,5 @@ addscript(151670365,"The Quarry [Infinite Cash]", "TheQuarryInfiniteCash", "Tern
     
 addscript(8141566932,"Roblox [Hoho Gui Premuim Paid]", "RobloxHohoGuiPremuimPaid", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RobloxHohoGuiPremuimPaid.lua")
                     
+                    
+addscriptexist(6902912928, "GETTOTHETOPInfMoney", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/GETTOTHETOPInfMoney.lua")
