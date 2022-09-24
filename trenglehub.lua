@@ -4632,3 +4632,5 @@ addscript(6494523288,"Blade Quest [Auto Farm Kill Aura, Auto Upgrade Sword]", "B
                     
                     
 addscriptexist(2551991523, "BrokenBonesIVAutoFarm", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BrokenBonesIVAutoFarm.lua")
+                    
+addscriptexist(4580204640, "SurvivetheKillerLootAutoFarmTPtoDoorAutoEscape", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SurvivetheKillerLootAutoFarmTPtoDoorAutoEscape.lua")
