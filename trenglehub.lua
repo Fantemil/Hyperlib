@@ -8679,3 +8679,5 @@ addscriptexist(4954752502, "TowerofMiseryAutoFarmDestroyKillParts", "Terni", "ht
 addscriptexist(6284583030, "PetSimulatorXDupeGemsPets", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PetSimulatorXDupeGemsPets.lua")
                     
 addscriptexist(6198225400, "LegendsReWrittenAutoChestFarm", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LegendsReWrittenAutoChestFarm.lua")
+                    
+addscriptexist(4042427666, "AnimeFightingSimulatorAUTOFARMAUTOTPTELEPORTS", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AnimeFightingSimulatorAUTOFARMAUTOTPTELEPORTS.lua")
