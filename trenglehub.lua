@@ -7508,3 +7508,5 @@ addscriptexist(2534724415, "EmergencyResponseLibertyCountyInfiniteAmmo", "Terni"
     
 addscript(6878620017,"Mega Obby [Complete All Stages]", "MegaObbyCompleteAllStages", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MegaObbyCompleteAllStages.lua")
                     
+                    
+addscriptexist(2753915549, "Roblox", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Roblox.lua")
