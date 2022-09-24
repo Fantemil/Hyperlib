@@ -5131,3 +5131,6 @@ addscriptexist(5965591336, "SoulWarAntiCombatTagNoCombatTag", "Qalnik", "https:/
     
 addscript(4087265156,"VERTIGO [No raggdol, No Fall damage, WalkSpeed]", "VERTIGONoraggdolNoFalldamageWalkSpeed", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/VERTIGONoraggdolNoFalldamageWalkSpeed.lua")
                     
+    
+addscript(5134682719,"Death Note [Find Kira Easily]", "DeathNoteFindKiraEasily", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DeathNoteFindKiraEasily.lua")
+                    
