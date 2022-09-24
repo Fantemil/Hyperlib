@@ -2088,3 +2088,5 @@ addscriptexist(9872472334, "EvadeFreeRespawn", "astrofile", "https://raw.githubu
     
 addscript(5766084948,"SCP", "SCPTheRedLakeEspSilentAim", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SCPTheRedLakeEspSilentAim.lua")
                     
+                    
+addscriptexist(7991339063, "RainbowFriendsEspCollectItems", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RainbowFriendsEspCollectItems.lua")
