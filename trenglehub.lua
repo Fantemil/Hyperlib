@@ -1795,3 +1795,5 @@ addscript(5777099015,"Cheese Escape [AutoCollectCheese, Godmode]", "CheeseEscape
                     
                     
 addscriptexist(1962086868, "TowerofHellAutoWin", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TowerofHellAutoWin.lua")
+                    
+addscriptexist(6516141723, "DOORSAutoFarm", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DOORSAutoFarm.lua")
