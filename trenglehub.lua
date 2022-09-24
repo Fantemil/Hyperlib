@@ -4345,3 +4345,6 @@ addscriptexist(286090429, "ArsenalAFKArsenalAIBot", "Terni", "https://raw.github
     
 addscript(9559194006,"social experiment [Infinite Stamina & More!]", "socialexperimentInfiniteStaminaMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/socialexperimentInfiniteStaminaMore.lua")
                     
+    
+addscript(6441847031,"CHAOS [Kill Player]", "CHAOSKillPlayer", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CHAOSKillPlayer.lua")
+                    
