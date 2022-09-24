@@ -7133,3 +7133,5 @@ addscriptexist(2413927524, "TheRakeRemasteredGUI", "Terni", "https://raw.githubu
     
 addscript(3436903748,"Squadron [Auto Farm]", "SquadronAutoFarm", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SquadronAutoFarm.lua")
                     
+                    
+addscriptexist(4169490976, "MortemMetallumNuke", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MortemMetallumNuke.lua")
