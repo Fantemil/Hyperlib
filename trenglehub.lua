@@ -1920,3 +1920,5 @@ addscriptexist(155615604, "PrisonLifeInfStaminaInstRespawn", "astrofile", "https
     
 addscript(8963721566,"The Backrooms [Third Person]", "TheBackroomsThirdPerson", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TheBackroomsThirdPerson.lua")
                     
+                    
+addscriptexist(6284583030, "PetSimulatorXAutoFarmAutoEggs", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PetSimulatorXAutoFarmAutoEggs.lua")
