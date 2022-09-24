@@ -7564,3 +7564,5 @@ addscriptexist(3956818381, "NinjaLegendsAutoSwingAutoEquipSwordAutoSell", "Qalni
 addscriptexist(6872265039, "BedWarsAimBotinvisibilityinstantBreak", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BedWarsAimBotinvisibilityinstantBreak.lua")
                     
 addscriptexist(6284583030, "PetSimulatorXCrash", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PetSimulatorXCrash.lua")
+                    
+addscriptexist(2619187362, "SuperPowerFightingSimulatorAutoTrainAutoMiniChestsAutoQuest", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SuperPowerFightingSimulatorAutoTrainAutoMiniChestsAutoQuest.lua")
