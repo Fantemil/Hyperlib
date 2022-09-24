@@ -4901,3 +4901,5 @@ addscriptexist(340227283, "RoBowlingBallHBE", "Terni", "https://raw.githubuserco
     
 addscript(9561878567,"Forest Of Beginnings RPG [Kill All]", "ForestOfBeginningsRPGKillAll", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ForestOfBeginningsRPGKillAll.lua")
                     
+                    
+addscriptexist(7799826347, "SandboxTycoonSandboxSchematics", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SandboxTycoonSandboxSchematics.lua")
