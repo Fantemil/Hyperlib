@@ -3941,3 +3941,6 @@ addscriptexist(7026949294, "SwordSimulatorAutoFarmInfiniteCoinsMore", "Terni", "
 addscriptexist(9598746251, "HomeRunSimulatorAutoTime", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/HomeRunSimulatorAutoTime.lua")
                     
 addscriptexist(4588604953, "CriminalityGUIAimbotEspMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CriminalityGUIAimbotEspMore.lua")
+    
+addscript(7947609996,"Roblox - Sword Reach", "RobloxSwordReach", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RobloxSwordReach.lua")
+                    
