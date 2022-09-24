@@ -6937,3 +6937,5 @@ addscript(8661265102,"Clicker Simulator [Auto Click]", "ClickerSimulatorAutoClic
 addscriptexist(4195834406, "DragonBallOnlineGenerationsPlayerKillAuraServerHopTeleportToBosses", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DragonBallOnlineGenerationsPlayerKillAuraServerHopTeleportToBosses.lua")
                     
 addscriptexist(6494523288, "BladeQuestAutofarm", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BladeQuestAutofarm.lua")
+                    
+addscriptexist(648362523, "BreakingPointAutoFarm", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BreakingPointAutoFarm.lua")
