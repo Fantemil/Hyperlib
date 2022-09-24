@@ -7775,3 +7775,6 @@ addscript(3738091713,"Boxing League [Auto Pushing Bag - Open Sourse]", "BoxingLe
                     
                     
 addscriptexist(6802248248, "SAITAMANIAAutoFarmAutoStats", "rbxscript", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SAITAMANIAAutoFarmAutoStats.lua")
+    
+addscript(2473334918,"Gas Station Simulator [Gas Seller, Teleport]", "GasStationSimulatorGasSellerTeleport", "rbxscript", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/GasStationSimulatorGasSellerTeleport.lua")
+                    
