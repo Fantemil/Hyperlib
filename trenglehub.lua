@@ -5269,3 +5269,6 @@ addscript(8005620792,"Roblox Casino [Infinite Money]", "RobloxCasinoInfiniteMone
                     
                     
 addscriptexist(4087265156, "VERTIGOMiniGUINoFallDamage", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/VERTIGOMiniGUINoFallDamage.lua")
+    
+addscript(7665856814,"Insomniac World Party [Auto Mine]", "InsomniacWorldPartyAutoMine", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/InsomniacWorldPartyAutoMine.lua")
+                    
