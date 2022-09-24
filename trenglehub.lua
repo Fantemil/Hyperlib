@@ -4816,3 +4816,5 @@ addscriptexist(6299805723, "AnimeFightersSimulatorUnlockGamepass", "Qalnik", "ht
 addscriptexist(3101667897, "LegendsOfSpeedAutoFarmAutoRebirthAutoStep", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LegendsOfSpeedAutoFarmAutoRebirthAutoStep.lua")
                     
 addscriptexist(9551640993, "MiningSimulator2ChestsServerhop", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MiningSimulator2ChestsServerhop.lua")
+                    
+addscriptexist(7799826347, "SandboxTycoonSaveBaseBuildFloorUpdateBuildCost", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SandboxTycoonSaveBaseBuildFloorUpdateBuildCost.lua")
