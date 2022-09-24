@@ -1803,3 +1803,5 @@ addscript(6678877691,"ZO ぞ SAMURAI [RageBot, Godmode]", "ZOぞSAMURAIRageBotGo
     
 addscript(10157366004,"Strongest Tapper Simulator [AutoUpgrade, AutoClick]", "StrongestTapperSimulatorAutoUpgradeAutoClick", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/StrongestTapperSimulatorAutoUpgradeAutoClick.lua")
                     
+                    
+addscriptexist(142823291, "MurderMystery2EspGodmode", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MurderMystery2EspGodmode.lua")
