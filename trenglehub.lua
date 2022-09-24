@@ -7570,3 +7570,5 @@ addscriptexist(2619187362, "SuperPowerFightingSimulatorAutoTrainAutoMiniChestsAu
 addscriptexist(648362523, "BreakingPointAimBotLightOnHiqhSpeed", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BreakingPointAimBotLightOnHiqhSpeed.lua")
                     
 addscriptexist(6938803436, "AnimeDimensionsSimulatorAutoFarmAutoSkill", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AnimeDimensionsSimulatorAutoFarmAutoSkill.lua")
+                    
+addscriptexist(3823781113, "SaberSimulatorAutoSwingAutoSellAutoEquipSaber", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SaberSimulatorAutoSwingAutoSellAutoEquipSaber.lua")
