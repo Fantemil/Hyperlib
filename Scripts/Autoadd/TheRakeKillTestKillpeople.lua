@@ -1,1 +1,0 @@
-game:GetService("ReplicatedStorage").AdminPanelEvents.Kill:FireServer("username")

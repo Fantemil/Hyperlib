@@ -1,1 +1,0 @@
-game.Players.LocalPlayer.PlayerGui.SecretGui.Enabled = true
