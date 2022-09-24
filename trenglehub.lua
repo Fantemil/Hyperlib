@@ -7591,3 +7591,5 @@ addscriptexist(3956818381, "NinjaLegendsAutoswingsAutosellBossFarm", "Qalnik", "
     
 addscript(7981138297,"Roblox [RainBow Concole]", "RobloxRainBowConcole", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RobloxRainBowConcole.lua")
                     
+                    
+addscriptexist(182781154, "TheMazeRunnerChestEsp", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TheMazeRunnerChestEsp.lua")
