@@ -1878,3 +1878,6 @@ addscript(5256165620,"3-2-1 Blast Off Simulator [AutoBuy, Gem Shop]", "321BlastO
                     
                     
 addscriptexist(9285238704, "RaceClickerServerHopAutoWin", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RaceClickerServerHopAutoWin.lua")
+    
+addscript(7128635125,"Old A Bizarry Day Modded [Adm Cmds]", "OldABizarryDayModdedAdmCmds", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OldABizarryDayModdedAdmCmds.lua")
+                    
