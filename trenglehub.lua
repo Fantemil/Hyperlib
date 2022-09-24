@@ -5093,3 +5093,5 @@ addscriptexist(2653064683, "WordBombAutoTypeAndMoreOpenSource", "Terni", "https:
     
 addscript(6897226634,"Timber [Tree Aura]", "TimberTreeAura", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TimberTreeAura.lua")
                     
+                    
+addscriptexist(488667523, "ThoseWhoRemainKillAll", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ThoseWhoRemainKillAll.lua")
