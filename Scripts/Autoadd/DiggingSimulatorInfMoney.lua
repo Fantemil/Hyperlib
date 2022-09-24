@@ -1,1 +1,1 @@
- game:GetService("ReplicatedStorage").ServerEvents.DailyChestCollection:FireServer(999999999999999999)
+game:GetService("ReplicatedStorage").Purchased:FireServer("SnackPack", -999999999999999)

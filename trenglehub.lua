@@ -1917,3 +1917,6 @@ addscript(10150367093,"Baking Tycoon [Claim Codes, Claim Plot, X2 5 min]", "Baki
                     
                     
 addscriptexist(155615604, "PrisonLifeInfStaminaInstRespawn", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PrisonLifeInfStaminaInstRespawn.lua")
+    
+addscript(8963721566,"The Backrooms [Third Person]", "TheBackroomsThirdPerson", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TheBackroomsThirdPerson.lua")
+                    
