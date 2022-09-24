@@ -4534,3 +4534,5 @@ addscript(6808416928,"Aimblox BETA [Kill All]", "AimbloxBETAKillAll", "Terni", "
                     
                     
 addscriptexist(9726345231, "DuolingoGameHubFreeItems", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DuolingoGameHubFreeItems.lua")
+                    
+addscriptexist(9772878203, "raiseafloppa2AutoCollectMoneyAutoCollectRentAutoRaiseRent", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/raiseafloppa2AutoCollectMoneyAutoCollectRentAutoRaiseRent.lua")
