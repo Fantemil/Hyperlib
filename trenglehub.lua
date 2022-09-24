@@ -1750,3 +1750,5 @@ addscript(1240644540,"Vampire Hunters 3 [Spam Screen Text]", "VampireHunters3Spa
     
 addscript(10001513103,"Limited Words [Annoy Mods, Waste Words, Get Joseph Badge]", "LimitedWordsAnnoyModsWasteWordsGetJosephBadge", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LimitedWordsAnnoyModsWasteWordsGetJosephBadge.lua")
                     
+                    
+addscriptexist(286090429, "ArsenalNoSpreadAimbot", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ArsenalNoSpreadAimbot.lua")
