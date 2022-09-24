@@ -4102,3 +4102,5 @@ addscript(9266432096,"Anime Journey [Auto Farm, Auto Spin, Auto Stats]", "AnimeJ
                     
                     
 addscriptexist(920587237, "AdoptMeGetAllPetsRideableFlyable", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AdoptMeGetAllPetsRideableFlyable.lua")
+                    
+addscriptexist(7860844204, "LifeSentenceAutoFarmAutoCollectPointsMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LifeSentenceAutoFarmAutoCollectPointsMore.lua")
