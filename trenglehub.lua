@@ -3495,3 +3495,5 @@ addscript(8588872272,"Project Slayers [Auto Farm, Invisible, Teleports]", "Proje
                     
                     
 addscriptexist(10041417653, "TurbosMurderMystery2InfiniteCoins", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TurbosMurderMystery2InfiniteCoins.lua")
+                    
+addscriptexist(5956785391, "ProjectSlayersGUIAutoFarmRiceFishMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ProjectSlayersGUIAutoFarmRiceFishMore.lua")
