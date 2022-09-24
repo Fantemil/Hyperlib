@@ -2733,3 +2733,5 @@ addscript(109814071,"Medieval Warfare Reforged [Auto Farm - GUI]", "MedievalWarf
                     
                     
 addscriptexist(6874129651, "ShinyTools12Games", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ShinyTools12Games.lua")
+                    
+addscriptexist(1224212277, "MadCityChapter2AutoArrest", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MadCityChapter2AutoArrest.lua")
