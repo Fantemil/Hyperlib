@@ -5328,3 +5328,6 @@ addscriptexist(7940932746, "RobloxFullBright", "Qalnik", "https://raw.githubuser
 addscriptexist(659222129, "SwordBurst2KillAuraTeleportWalkspeed", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SwordBurst2KillAuraTeleportWalkspeed.lua")
                     
 addscriptexist(2965881766, "BrawlBloxInfiniteTrophies", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BrawlBloxInfiniteTrophies.lua")
+    
+addscript(9336657396,"A Beatdown Neighborhood [Auto Farm Power]", "ABeatdownNeighborhoodAutoFarmPower", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ABeatdownNeighborhoodAutoFarmPower.lua")
+                    
