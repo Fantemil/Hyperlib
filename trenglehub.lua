@@ -8326,3 +8326,5 @@ addscript(5006110264,"Fire Breathing Simulator [Best Auto-Farming INF Money]", "
                     
                     
 addscriptexist(4639625707, "OilWarfareTycoonAutoFarmAutorebirthAutoAirdrop", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OilWarfareTycoonAutoFarmAutorebirthAutoAirdrop.lua")
+                    
+addscriptexist(4598019433, "genericroleplaygaemAutoTreeFarming", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/genericroleplaygaemAutoTreeFarming.lua")
