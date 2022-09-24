@@ -5289,3 +5289,5 @@ addscript(6085581583,"Project Hero [Kill Aura, Equip All Quirks, Mob Farm]", "Pr
 addscriptexist(7560156054, "ClickerSimulatorAutoClickAutoRebirthsAutoSpinDaily", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ClickerSimulatorAutoClickAutoRebirthsAutoSpinDaily.lua")
                     
 addscriptexist(8278412720, "PrisonLifeRemasteredAutoFarmGUITeleportsMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PrisonLifeRemasteredAutoFarmGUITeleportsMore.lua")
+                    
+addscriptexist(8540168650, "StandUprightRebootedAutoFarm", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/StandUprightRebootedAutoFarm.lua")
