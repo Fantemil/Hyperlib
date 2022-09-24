@@ -6206,3 +6206,5 @@ addscriptexist(8781849572, "StarSimulatorBetaToolReachOpenSource", "Terni", "htt
 addscriptexist(6403373529, "SlapBattlesTrollingGUI", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SlapBattlesTrollingGUI.lua")
                     
 addscriptexist(6401440818, "MONOLITHDEFENSEUnlimitedVotes", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MONOLITHDEFENSEUnlimitedVotes.lua")
+                    
+addscriptexist(6847090259, "BulkedUpCollectAllTrophiesEggs", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BulkedUpCollectAllTrophiesEggs.lua")
