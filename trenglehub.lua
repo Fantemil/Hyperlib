@@ -6554,3 +6554,6 @@ addscriptexist(1458767429, "ABARankedCoinsFarm", "Terni", "https://raw.githubuse
 addscriptexist(2693023319, "FindTheBaconsCollectAllTheBaconsInTheServer", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FindTheBaconsCollectAllTheBaconsInTheServer.lua")
                     
 addscriptexist(6284583030, "PetSimulatorXMasteryFarm", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PetSimulatorXMasteryFarm.lua")
+    
+addscript(7094672259,"Criminal Russia RP [Auto Farm]", "CriminalRussiaRPAutoFarm", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CriminalRussiaRPAutoFarm.lua")
+                    
