@@ -7177,3 +7177,5 @@ addscriptexist(7797478022, "BrokenBonesAutoUpgrade", "Qalnik", "https://raw.gith
 addscriptexist(7797478022, "BrokenBonesSimulatorInfbreaks", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BrokenBonesSimulatorInfbreaks.lua")
                     
 addscriptexist(8357510970, "AnimePunchingSimulatorAutoFarmAutoUpgradeAutoRebirth", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AnimePunchingSimulatorAutoFarmAutoUpgradeAutoRebirth.lua")
+                    
+addscriptexist(6085581583, "ProjectHeroXMobFarmAutoInvisAllLoopInvisYourself", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ProjectHeroXMobFarmAutoInvisAllLoopInvisYourself.lua")
