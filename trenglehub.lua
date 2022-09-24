@@ -8566,3 +8566,5 @@ addscriptexist(183364845, "SpeedRun4NEWGUIFARMING", "Terni", "https://raw.github
 addscriptexist(3233893879, "BadBusiness253SilentAIM", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BadBusiness253SilentAIM.lua")
                     
 addscriptexist(71315343, "DragonBallRageAutoFarmAutoEnergy", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DragonBallRageAutoFarmAutoEnergy.lua")
+                    
+addscriptexist(71315343, "DragonBallRageFEWorkingAurasPlayMusicFE", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DragonBallRageFEWorkingAurasPlayMusicFE.lua")
