@@ -5834,3 +5834,6 @@ addscriptexist(2629642516, "BitcoinMinerAutoSellAutoSkipAutoClaimcrates", "Qalni
 addscriptexist(1962086868, "TowerofHellGodModeMoreFreeGUI", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TowerofHellGodModeMoreFreeGUI.lua")
                     
 addscriptexist(8209480473, "SpotifyIslandLvlfarm", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SpotifyIslandLvlfarm.lua")
+    
+addscript(3678761576,"ENTRENCHED ALPHA [AimBot]", "ENTRENCHEDALPHAAimBot", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ENTRENCHEDALPHAAimBot.lua")
+                    
