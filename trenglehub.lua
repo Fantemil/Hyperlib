@@ -6386,3 +6386,5 @@ addscript(8644729967,"Zone of Alienation [Kill All Mobs]", "ZoneofAlienationKill
                     
                     
 addscriptexist(6401440818, "MONOLITHDEFENSEInfiniteTechUpgradePoints", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MONOLITHDEFENSEInfiniteTechUpgradePoints.lua")
+                    
+addscriptexist(5116869569, "DoodleWorldGUIAutoFarming", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DoodleWorldGUIAutoFarming.lua")
