@@ -2488,3 +2488,5 @@ addscriptexist(8737602449, "PLSDONATEAutoBeg", "astrofile", "https://raw.githubu
     
 addscript(5041144419,"SCP", "SCPRoleplayAutoFarmTeleports", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SCPRoleplayAutoFarmTeleports.lua")
                     
+                    
+addscriptexist(6403373529, "SlapBattlesAutoSlapples", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SlapBattlesAutoSlapples.lua")
