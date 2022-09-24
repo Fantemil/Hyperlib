@@ -6172,3 +6172,5 @@ addscriptexist(8492553855, "ProjectUprightNpcFarmItemFarmStandFarm", "Qalnik", "
     
 addscript(7186363515,"A Legacy Time [Kill Aura]", "ALegacyTimeKillAura", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ALegacyTimeKillAura.lua")
                     
+                    
+addscriptexist(9300407930, "BotClashGet4MillionCoinsForFree", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BotClashGet4MillionCoinsForFree.lua")
