@@ -6857,3 +6857,5 @@ addscriptexist(1224212277, "MadCityInfiniteXpGetToLevel100In2Hours", "Terni", "h
 addscriptexist(7480222488, "RobloxSkeletonEsp", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RobloxSkeletonEsp.lua")
                     
 addscriptexist(1240644540, "VampireHunters3DNATestEveryone", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/VampireHunters3DNATestEveryone.lua")
+                    
+addscriptexist(8377686524, "UndertaleLastResetAllWeapons", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/UndertaleLastResetAllWeapons.lua")
