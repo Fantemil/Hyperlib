@@ -6456,3 +6456,5 @@ addscriptexist(7940932746, "ROBLOX–LeanExplosion", "Terni", "https://raw.githu
 addscriptexist(2866967438, "FishingSimulatorGUIFarming", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FishingSimulatorGUIFarming.lua")
                     
 addscriptexist(3210622855, "MannersBadgeWalkGetAllCaveWorldBadges", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MannersBadgeWalkGetAllCaveWorldBadges.lua")
+                    
+addscriptexist(6778844213, "EuphoriaragdolltestingGetGamepassGUI", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/EuphoriaragdolltestingGetGamepassGUI.lua")
