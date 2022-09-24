@@ -5041,3 +5041,5 @@ addscriptexist(9551640993, "MiningSimulator2ChestsFarmServerHop", "Terni", "http
     
 addscript(8581609150,"Bloxhub Mine Mania [Auto mine]", "BloxhubMineManiaAutomine", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BloxhubMineManiaAutomine.lua")
                     
+                    
+addscriptexist(286090429, "ArsenalEsp", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ArsenalEsp.lua")
