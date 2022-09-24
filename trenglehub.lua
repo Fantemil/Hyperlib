@@ -2718,3 +2718,6 @@ addscript(8123652942,"Legend Piece [Instant Kill Mobs]", "LegendPieceInstantKill
     
 addscript(7183242684,"Strength Training Simulator [Auto Farm - GUI]", "StrengthTrainingSimulatorAutoFarmGUI", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/StrengthTrainingSimulatorAutoFarmGUI.lua")
                     
+    
+addscript(147536429,"Field Of Battle [Kill General]", "FieldOfBattleKillGeneral", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FieldOfBattleKillGeneral.lua")
+                    
