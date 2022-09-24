@@ -7878,3 +7878,5 @@ addscriptexist(7140186081, "GunGameSpanHitsandMore", "rbxscript", "https://raw.g
 addscriptexist(7279999673, "DragonBladeOpenWorldRPGInstantKill", "rbxscript", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DragonBladeOpenWorldRPGInstantKill.lua")
                     
 addscriptexist(6843905606, "CriticalLegendsGetAllChetsItems", "rbxscript", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CriticalLegendsGetAllChetsItems.lua")
+                    
+addscriptexist(6843905606, "CriticalLegendsGodModeAutoTpGui", "rbxscript", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CriticalLegendsGodModeAutoTpGui.lua")
