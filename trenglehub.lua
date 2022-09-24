@@ -8460,3 +8460,5 @@ addscriptexist(6679274937, "VansWorldAutoQuestTpCoins", "Terni", "https://raw.gi
     
 addscript(7251333950,"untitled furry defenses [No Enemies]", "untitledfurrydefensesNoEnemies", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/untitledfurrydefensesNoEnemies.lua")
                     
+                    
+addscriptexist(292439477, "PhantomForcesPacificColdFrontPt2THIRDPERSON", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PhantomForcesPacificColdFrontPt2THIRDPERSON.lua")
