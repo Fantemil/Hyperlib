@@ -6703,3 +6703,5 @@ addscript(2745661925,"Jump Over The Walls [Auto Farm & More!]", "JumpOverTheWall
 addscriptexist(6783611814, "BuildaBoattoSurvive24KGOLDNEvent", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BuildaBoattoSurvive24KGOLDNEvent.lua")
                     
 addscriptexist(6961824067, "RobloxFlingTarget", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RobloxFlingTarget.lua")
+                    
+addscriptexist(292439477, "PhantomForcesSkinediting", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PhantomForcesSkinediting.lua")
