@@ -3852,3 +3852,6 @@ addscriptexist(10105990977, "SamsungSpaceTycoonGetAllItems", "Terni", "https://r
 addscriptexist(4036494886, "GunSimulatorInfiniteMoneyMaxSkillPerShot", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/GunSimulatorInfiniteMoneyMaxSkillPerShot.lua")
                     
 addscriptexist(3214114884, "FlagWarsKillAll", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FlagWarsKillAll.lua")
+    
+addscript(3144213556,"Troll Obby [Auto Win]", "TrollObbyAutoWin", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TrollObbyAutoWin.lua")
+                    
