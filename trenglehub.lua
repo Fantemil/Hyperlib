@@ -8006,3 +8006,5 @@ addscriptexist(4111023553, "DeepwokenCombatFeaturesMovementFeaturesVisualFeature
     
 addscript(258258996,"Miner's Haven [Auto farm, Base mods, Webhooks]", "MinersHavenAutofarmBasemodsWebhooks", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MinersHavenAutofarmBasemodsWebhooks.lua")
                     
+                    
+addscriptexist(2809202155, "YourBizarreAdventureAutobuyStandattachStandFarm", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/YourBizarreAdventureAutobuyStandattachStandFarm.lua")
