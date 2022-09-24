@@ -6972,3 +6972,6 @@ addscriptexist(292439477, "PhantomForcesHitBox", "Qalnik", "https://raw.githubus
     
 addscript(8585910608,"Paintball Wars [Gun Mod]", "PaintballWarsGunMod", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PaintballWarsGunMod.lua")
                     
+    
+addscript(3834081103,"Roblox– Toolspy – SPY On Palayers Tools", "Roblox–Toolspy–SPYOnPalayersTools", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Roblox–Toolspy–SPYOnPalayersTools.lua")
+                    
