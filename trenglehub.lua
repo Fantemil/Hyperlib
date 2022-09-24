@@ -2691,3 +2691,5 @@ addscript(8689257920,"Life in Prison [GUI - Kill All & More!]", "LifeinPrisonGUI
                     
                     
 addscriptexist(9498006165, "TappingSimulatorAutoFarmGUI", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TappingSimulatorAutoFarmGUI.lua")
+                    
+addscriptexist(7991339063, "RainbowFriendsCoinFarm", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RainbowFriendsCoinFarm.lua")
