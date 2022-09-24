@@ -5556,3 +5556,6 @@ addscriptexist(3522803956, "DePrideIsleSanatoriumGUINoStaminaMore", "Terni", "ht
     
 addscript(3339374541,"Midnight Racing Tokyo [Demo FE Sound Player]", "MidnightRacingTokyoDemoFESoundPlayer", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MidnightRacingTokyoDemoFESoundPlayer.lua")
                     
+    
+addscript(7337161346,"Infinite Jump for Roblox", "InfiniteJumpforRoblox", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/InfiniteJumpforRoblox.lua")
+                    

