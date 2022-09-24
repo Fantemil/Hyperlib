@@ -3272,3 +3272,6 @@ addscriptexist(7009799230, "PressureWashSimulatorGUIInfMoneyMore", "Terni", "htt
     
 addscript(9397663086,"Ninja Training Simulator [Auto Farm & More!]", "NinjaTrainingSimulatorAutoFarmMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NinjaTrainingSimulatorAutoFarmMore.lua")
                     
+    
+addscript(9167501050,"Lightsaber Arena [Kill Aura - Auto Block & Infinite Stamina]", "LightsaberArenaKillAuraAutoBlockInfiniteStamina", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LightsaberArenaKillAuraAutoBlockInfiniteStamina.lua")
+                    
