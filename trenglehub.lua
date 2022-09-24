@@ -2871,3 +2871,5 @@ addscript(7664045612,"Tiny Bread Factory [Auto Farm]", "TinyBreadFactoryAutoFarm
                     
                     
 addscriptexist(2753915549, "BloxfruitFastAttack", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BloxfruitFastAttack.lua")
+                    
+addscriptexist(4282985734, "CombatWarriorsSilentAimOpenSource", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CombatWarriorsSilentAimOpenSource.lua")
