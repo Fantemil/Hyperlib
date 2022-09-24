@@ -5267,3 +5267,5 @@ addscriptexist(2965881766, "BrawlBloxInfGolgInfGemsInfExp", "Terni", "https://ra
     
 addscript(8005620792,"Roblox Casino [Infinite Money]", "RobloxCasinoInfiniteMoney", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RobloxCasinoInfiniteMoney.lua")
                     
+                    
+addscriptexist(4087265156, "VERTIGOMiniGUINoFallDamage", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/VERTIGOMiniGUINoFallDamage.lua")
