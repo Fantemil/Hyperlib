@@ -3255,3 +3255,6 @@ addscriptexist(6711562581, "EightDriverCarRacingInfiniteMoney", "Terni", "https:
 addscriptexist(6677985923, "MillionaireEmpireTycoonInfiniteCash", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MillionaireEmpireTycoonInfiniteCash.lua")
                     
 addscriptexist(5993942214, "RushPointSilentAimNoRecoil", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RushPointSilentAimNoRecoil.lua")
+    
+addscript(7214610985,"Stealth 2 [Kill Aura - Auto Retaliate - Auto Block]", "Stealth2KillAuraAutoRetaliateAutoBlock", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Stealth2KillAuraAutoRetaliateAutoBlock.lua")
+                    
