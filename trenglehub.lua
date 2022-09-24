@@ -5653,3 +5653,5 @@ addscript(6297822481,"Titan Warfare [The #1 Free GUI]", "TitanWarfareThe1FreeGUI
                     
                     
 addscriptexist(9049840490, "SonicSpeedSimulatorAutoRunAutorebirthsUnlokAllWorlds", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SonicSpeedSimulatorAutoRunAutorebirthsUnlokAllWorlds.lua")
+                    
+addscriptexist(5802642341, "CityLifeArrestAllCriminals", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CityLifeArrestAllCriminals.lua")
