@@ -6769,3 +6769,6 @@ addscript(3144588566,"The Lost Land [Auto Farm Ores - Pickup Stuff]", "TheLostLa
 addscriptexist(8396586868, "A0nePieceGameAutoFarmAutoSkillAutofergruit", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/A0nePieceGameAutoFarmAutoSkillAutofergruit.lua")
                     
 addscriptexist(536102540, "DragonBallAutoQuestAutoFarm", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DragonBallAutoQuestAutoFarm.lua")
+    
+addscript(5327880096,"Online Business Simulator 2 [Auto work online]", "OnlineBusinessSimulator2Autoworkonline", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OnlineBusinessSimulator2Autoworkonline.lua")
+                    
