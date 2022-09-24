@@ -5735,3 +5735,5 @@ addscriptexist(155382109, "SurviveandKilltheKillersinArea51GiveallginsClaimallre
     
 addscript(9181315895,"Bingus' Basement [Teleport generator, bingus bowl, food room]", "BingusBasementTeleportgeneratorbingusbowlfoodroom", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BingusBasementTeleportgeneratorbingusbowlfoodroom.lua")
                     
+                    
+addscriptexist(9297410766, "CrossbarChallengeSimulatorGoodgoal", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CrossbarChallengeSimulatorGoodgoal.lua")
