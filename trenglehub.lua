@@ -7084,3 +7084,6 @@ addscript(6505994717,"Epic Egg Hunt 2021 [Collect All Eggs]", "EpicEggHunt2021Co
                     
                     
 addscriptexist(7800644383, "UntitledHoodSilentAIMAimBot", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/UntitledHoodSilentAIMAimBot.lua")
+    
+addscript(331811267,"Innovation Inc. Spaceship [Crash Server]", "InnovationIncSpaceshipCrashServer", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/InnovationIncSpaceshipCrashServer.lua")
+                    
