@@ -2539,3 +2539,5 @@ addscript(8818978508,"Space Simulator Reborn [Auto Sell, Auto Farm]", "SpaceSimu
     
 addscript(8657766101,"Marvellous Playground [Gamepass]", "MarvellousPlaygroundGamepass", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MarvellousPlaygroundGamepass.lua")
                     
+                    
+addscriptexist(3956818381, "NinjaLegendsAutoSwingAutoSell", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NinjaLegendsAutoSwingAutoSell.lua")
