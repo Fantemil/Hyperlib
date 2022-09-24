@@ -5728,3 +5728,5 @@ addscriptexist(8209480473, "SpotifyIslandHeartfarmserverhopGetalotofhearts", "Qa
 addscriptexist(8209480473, "SpotifyIslandInstantLevel50", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SpotifyIslandInstantLevel50.lua")
                     
 addscriptexist(9297410766, "CrossbarChallengeSimulatorAutoRebirth", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CrossbarChallengeSimulatorAutoRebirth.lua")
+                    
+addscriptexist(5154858502, "MurderervsSheriffsKillAll", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MurderervsSheriffsKillAll.lua")
