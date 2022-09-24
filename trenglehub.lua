@@ -6705,3 +6705,6 @@ addscriptexist(6783611814, "BuildaBoattoSurvive24KGOLDNEvent", "Terni", "https:/
 addscriptexist(6961824067, "RobloxFlingTarget", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RobloxFlingTarget.lua")
                     
 addscriptexist(292439477, "PhantomForcesSkinediting", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PhantomForcesSkinediting.lua")
+    
+addscript(221718525,"Ninja Tycoon [Auto Click]", "NinjaTycoonAutoClick", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NinjaTycoonAutoClick.lua")
+                    
