@@ -2699,3 +2699,6 @@ addscriptexist(10118559731, "nicosnextbotsblackoutsBotsPowerboxsEspInstantPowerb
 addscriptexist(6516141723, "DOORSLegitCheat–EspAndMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DOORSLegitCheat–EspAndMore.lua")
                     
 addscriptexist(9845465117, "AURebornInstantInfiniteAwakening", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AURebornInstantInfiniteAwakening.lua")
+    
+addscript(8278412720,"CS Prison Life [BETA] [Casino Auto Farm]", "CSPrisonLifeBETACasinoAutoFarm", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CSPrisonLifeBETACasinoAutoFarm.lua")
+                    
