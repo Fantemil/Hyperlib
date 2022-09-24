@@ -2758,3 +2758,6 @@ addscriptexist(9285238704, "RaceClickerAutoFarm", "Terni", "https://raw.githubus
     
 addscript(6983932919,"osu!RoVer [Auto Click Circles - Time Warp & More!]", "osuRoVerAutoClickCirclesTimeWarpMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/osuRoVerAutoClickCirclesTimeWarpMore.lua")
                     
+    
+addscript(9605515605,"Sword Lands Simulator - Alpha [Inf Money]", "SwordLandsSimulatorAlphaInfMoney", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SwordLandsSimulatorAlphaInfMoney.lua")
+                    
