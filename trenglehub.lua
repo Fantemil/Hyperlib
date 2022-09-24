@@ -3995,3 +3995,5 @@ addscriptexist(9662949425, "PunchabrickwallsimulatorInfiniteMoneyMore", "Terni",
 addscriptexist(9936860371, "EggPackingTycoonSemiAutoFarm", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/EggPackingTycoonSemiAutoFarm.lua")
                     
 addscriptexist(8303902695, "PetPosseAutoRebirth", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PetPosseAutoRebirth.lua")
+                    
+addscriptexist(537413528, "BuildABoatForTreasureInfiniteBlocks", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BuildABoatForTreasureInfiniteBlocks.lua")
