@@ -7179,3 +7179,5 @@ addscriptexist(7797478022, "BrokenBonesSimulatorInfbreaks", "Qalnik", "https://r
 addscriptexist(8357510970, "AnimePunchingSimulatorAutoFarmAutoUpgradeAutoRebirth", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AnimePunchingSimulatorAutoFarmAutoUpgradeAutoRebirth.lua")
                     
 addscriptexist(6085581583, "ProjectHeroXMobFarmAutoInvisAllLoopInvisYourself", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ProjectHeroXMobFarmAutoInvisAllLoopInvisYourself.lua")
+                    
+addscriptexist(428114181, "AzureMinesNoClipCameraInGameGuisCameraTweaks", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AzureMinesNoClipCameraInGameGuisCameraTweaks.lua")
