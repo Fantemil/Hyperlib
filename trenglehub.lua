@@ -5204,3 +5204,5 @@ addscript(9573746878,"Bleach - Senko [Hollow Eat]", "BleachSenkoHollowEat", "Ter
                     
                     
 addscriptexist(1224212277, "MadCitySpawnCarDriveAndWalkOnWater", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MadCitySpawnCarDriveAndWalkOnWater.lua")
+                    
+addscriptexist(6299805723, "AnimeFightersSimulatorGUIAutoFarm", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AnimeFightersSimulatorGUIAutoFarm.lua")
