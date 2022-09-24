@@ -7025,3 +7025,5 @@ addscriptexist(6284583030, "PetSimulatorXSCAMSCRIPTInfiniteGems", "Terni", "http
     
 addscript(8697536518,"Pet Simulator Z [Infinite Money]", "PetSimulatorZInfiniteMoney", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PetSimulatorZInfiniteMoney.lua")
                     
+                    
+addscriptexist(8232438881, "ThiefSimulatorGUIAutoFarm", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ThiefSimulatorGUIAutoFarm.lua")
