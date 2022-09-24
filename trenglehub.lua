@@ -4744,3 +4744,5 @@ addscriptexist(9555732501, "NenFightingSimulatorDurabilityFarm", "Terni", "https
 addscriptexist(6937208251, "StarWarsBattlegroundsGunModsPressV", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/StarWarsBattlegroundsGunModsPressV.lua")
                     
 addscriptexist(4540286603, "NORTHWINDBirdESP", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NORTHWINDBirdESP.lua")
+                    
+addscriptexist(1537690962, "BeeSwarmSimulatorAutoFarmAutoDigFarmFlames", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BeeSwarmSimulatorAutoFarmAutoDigFarmFlames.lua")

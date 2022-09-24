@@ -1,1 +1,1 @@
-https://www.roblox.com/games/6717367660/Happy-Land#ropro-quick-search
+loadstring(game:HttpGet("https://pastebin.com/raw/pkfpwtnn", true))()
