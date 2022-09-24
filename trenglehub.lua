@@ -932,3 +932,6 @@ addscriptexist(2753915549, "BloxFruitsAutoFarmAutoQuestAutoSetSpawnPoint", "astr
     
 addscript(893973440,"Flee The Facility ", "FleeTheFacilityESPTptocompWalkspeed", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FleeTheFacilityESPTptocompWalkspeed.lua")
                     
+    
+addscript(9264596435,"Idle Heroes Simulator! ", "IdleHeroesSimulatorAutoFarmAutoHireAutoUpgr", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/IdleHeroesSimulatorAutoFarmAutoHireAutoUpgr.lua")
+                    
