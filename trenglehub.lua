@@ -2462,3 +2462,5 @@ addscript(4863541388,"Scythe Masters [Redeem codes]", "ScytheMastersRedeemcodes"
     
 addscript(7428716219,"BREAKING BAD", "BREAKINGBADTHETYCOONKillAll", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BREAKINGBADTHETYCOONKillAll.lua")
                     
+                    
+addscriptexist(1554960397, "CarDealershipTycoonAutoRallyRace", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CarDealershipTycoonAutoRallyRace.lua")
