@@ -2189,3 +2189,5 @@ addscript(7993293100,"Tsunami Game [Auto Farm, Teleport]", "TsunamiGameAutoFarmT
                     
                     
 addscriptexist(4282985734, "CombatWarriorsKillAuraNoparry", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CombatWarriorsKillAuraNoparry.lua")
+                    
+addscriptexist(2788229376, "DaHoodTrashTalk", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DaHoodTrashTalk.lua")
