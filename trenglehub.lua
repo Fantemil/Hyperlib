@@ -7684,3 +7684,5 @@ addscriptexist(606849621, "JailbreakSimpleCarBoost", "Terni", "https://raw.githu
     
 addscript(8457306665,"Fruit Fighter Simulator [Auto Collect, Auto Sell]", "FruitFighterSimulatorAutoCollectAutoSell", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FruitFighterSimulatorAutoCollectAutoSell.lua")
                     
+                    
+addscriptexist(156149963, "CrashChat", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CrashChat.lua")
