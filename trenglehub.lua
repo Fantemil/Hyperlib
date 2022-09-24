@@ -8298,3 +8298,6 @@ addscriptexist(292439477, "PhantomForcesСhamsRaycastOpenSourse", "Qalnik", "htt
     
 addscript(6219745799,"Vibe Airline [Make Seats freak Out]", "VibeAirlineMakeSeatsfreakOut", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/VibeAirlineMakeSeatsfreakOut.lua")
                     
+    
+addscript(2990100290,"RPG Simulator [Auto Farm, Auto Skill]", "RPGSimulatorAutoFarmAutoSkill", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RPGSimulatorAutoFarmAutoSkill.lua")
+                    
