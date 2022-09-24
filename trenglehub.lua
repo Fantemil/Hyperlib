@@ -7432,3 +7432,5 @@ addscript(5229802390,"Anime Cross World [God mode]", "AnimeCrossWorldGodmode", "
                     
                     
 addscriptexist(8592863835, "MagnetSimulator2AutoFarm", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MagnetSimulator2AutoFarm.lua")
+                    
+addscriptexist(1962086868, "TowerOfHellGodMode", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TowerOfHellGodMode.lua")
