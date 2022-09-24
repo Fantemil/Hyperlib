@@ -2952,3 +2952,6 @@ addscript(9744597824,"Sea Piece [Distance From NPC Slider, Auto Farm Toggle]", "
                     
                     
 addscriptexist(10184360875, "PetFishingSimulatorFastAutoFarm", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PetFishingSimulatorFastAutoFarm.lua")
+    
+addscript(7026949294,"Sword Simulator [Auto Mobs, Auto Eggs, Mob Farm]", "SwordSimulatorAutoMobsAutoEggsMobFarm", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SwordSimulatorAutoMobsAutoEggsMobFarm.lua")
+                    
