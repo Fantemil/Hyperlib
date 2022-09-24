@@ -1315,3 +1315,5 @@ addscriptexist(5993942214, "RushPointEsp", "astrofile", "https://raw.githubuserc
     
 addscript(10207722290,"Lifting Legends Simulator [Auto Farm]", "LiftingLegendsSimulatorAutoFarm", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LiftingLegendsSimulatorAutoFarm.lua")
                     
+                    
+addscriptexist(9585537847, "SHADOVISRPGAutoCollectKillAura", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SHADOVISRPGAutoCollectKillAura.lua")
