@@ -7941,3 +7941,5 @@ addscriptexist(6442957604, "CustomPCTycoonRedeemAllCodes", "Qalnik", "https://ra
     
 addscript(5112591059,"Ninjaman Simulator [Inf Strength]", "NinjamanSimulatorInfStrength", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NinjamanSimulatorInfStrength.lua")
                     
+                    
+addscriptexist(6170705260, "BlendingSimulator2BlendTokensFarm", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BlendingSimulator2BlendTokensFarm.lua")
