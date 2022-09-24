@@ -1618,3 +1618,6 @@ addscript(10347946161,"Rat Washing Tycoon [Auto Farm]", "RatWashingTycoonAutoFar
     
 addscript(107058862601,"Strucid [Anti-Cheat Bypass]", "StrucidAntiCheatBypass", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/StrucidAntiCheatBypass.lua")
                     
+    
+addscript(6778844213,"Euphoria ragdoll testing [Donation Gui]", "EuphoriaragdolltestingDonationGui", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/EuphoriaragdolltestingDonationGui.lua")
+                    
