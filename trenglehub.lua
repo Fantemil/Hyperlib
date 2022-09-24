@@ -5638,3 +5638,5 @@ addscriptexist(9203864304, "RaiseaFloppaAutoFarmInstaFinish", "Terni", "https://
     
 addscript(8854753304,"Interactive Intimate [Farm Points]", "InteractiveIntimateFarmPoints", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/InteractiveIntimateFarmPoints.lua")
                     
+                    
+addscriptexist(9049840490, "SonicSpeedSimulatorNewFasterAutoFarm", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SonicSpeedSimulatorNewFasterAutoFarm.lua")
