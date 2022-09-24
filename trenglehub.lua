@@ -4362,3 +4362,5 @@ addscript(3044285976,"BloxRP [Fist, Melee Kill Aura]", "BloxRPFistMeleeKillAura"
 addscriptexist(7261261021, "RagingSeasInfiniteStamina", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RagingSeasInfiniteStamina.lua")
                     
 addscriptexist(9551640993, "MiningSimulator2FakeHatcherGUI", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MiningSimulator2FakeHatcherGUI.lua")
+                    
+addscriptexist(6644653750, "PaperIOAutoWIn", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PaperIOAutoWIn.lua")
