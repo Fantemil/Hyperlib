@@ -8685,3 +8685,5 @@ addscriptexist(4042427666, "AnimeFightingSimulatorAUTOFARMAUTOTPTELEPORTS", "Ter
 addscriptexist(6198225400, "LegendsReWrittenINFGOLD", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LegendsReWrittenINFGOLD.lua")
                     
 addscriptexist(5104202731, "SouthwestFloridaBetInvivibleGunCarModsAutoJob", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SouthwestFloridaBetInvivibleGunCarModsAutoJob.lua")
+                    
+addscriptexist(4520749081, "KingLegacyUPDATEHUBBEST", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/KingLegacyUPDATEHUBBEST.lua")
