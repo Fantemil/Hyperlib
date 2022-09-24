@@ -6147,3 +6147,5 @@ addscript(9300407930,"Bot Clash [Complete All Quests]", "BotClashCompleteAllQues
 addscriptexist(6329844902, "PiratesNewGenerationMaxLevelStats", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PiratesNewGenerationMaxLevelStats.lua")
                     
 addscriptexist(5951002734, "ProjectBaki2AutoFarmFree", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ProjectBaki2AutoFarmFree.lua")
+                    
+addscriptexist(9049840490, "SonicSpeedSimulatorThe1FreeAutoFarmGUI", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SonicSpeedSimulatorThe1FreeAutoFarmGUI.lua")
