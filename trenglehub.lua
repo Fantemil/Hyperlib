@@ -6668,3 +6668,5 @@ addscript(2483973525,"Demon Slayer Burning Ashes [Auto Farm & More!]", "DemonSla
 addscriptexist(4954752502, "TowerOfMiseryAutocollectgoldnuggets", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TowerOfMiseryAutocollectgoldnuggets.lua")
                     
 addscriptexist(4490140733, "MyRestaurantXPFarm", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MyRestaurantXPFarm.lua")
+                    
+addscriptexist(1962086868, "TowerofHellAutoFarmGodModeRemoveKillParts", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TowerofHellAutoFarmGodModeRemoveKillParts.lua")
