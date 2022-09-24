@@ -8268,3 +8268,5 @@ addscript(6161747775,"Pirate Clash [Kill Aura]", "PirateClashKillAura", "Terni",
 addscriptexist(443406476, "ProjectLazarusZombiesGunMod", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ProjectLazarusZombiesGunMod.lua")
                     
 addscriptexist(6284583030, "PetSimulatorXAutoCollectLootBags", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PetSimulatorXAutoCollectLootBags.lua")
+                    
+addscriptexist(2809202155, "YourBizarreAdventureItemAutoFarm", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/YourBizarreAdventureItemAutoFarm.lua")
