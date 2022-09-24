@@ -4551,3 +4551,5 @@ addscript(28382335,"Zombie Tycoon [Silent Aim - GUI]", "ZombieTycoonSilentAimGUI
                     
                     
 addscriptexist(9751569460, "ARCHPIECEAutoFarmAutoPunchAutoBoss", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ARCHPIECEAutoFarmAutoPunchAutoBoss.lua")
+                    
+addscriptexist(9726345231, "DuolingoGameHubCollectAllCoins", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DuolingoGameHubCollectAllCoins.lua")
