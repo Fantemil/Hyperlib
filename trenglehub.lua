@@ -6997,3 +6997,5 @@ addscript(8584121669,"Pet Simulator X Fan Made [Infinite Gems]", "PetSimulatorXF
                     
                     
 addscriptexist(8584121669, "PetSimulatorXFanMadeInfiniteCoins", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PetSimulatorXFanMadeInfiniteCoins.lua")
+                    
+addscriptexist(7797478022, "BrokenBonesSimulatorInfiniteCash", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BrokenBonesSimulatorInfiniteCash.lua")
