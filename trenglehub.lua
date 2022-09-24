@@ -6711,3 +6711,5 @@ addscript(221718525,"Ninja Tycoon [Auto Click]", "NinjaTycoonAutoClick", "Qalnik
     
 addscript(6683744559,"Fighters EX [Spoof username]", "FightersEXSpoofusername", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FightersEXSpoofusername.lua")
                     
+                    
+addscriptexist(8603729161, "walk50000studsfornothingAutoFarm", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/walk50000studsfornothingAutoFarm.lua")
