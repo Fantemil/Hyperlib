@@ -7610,3 +7610,6 @@ addscript(8311081337,"One Piece", "OnePieceBurstingRageInfiniteStatsAutoFarmChes
                     
                     
 addscriptexist(370731277, "MeepCityAvatarCloner", "rbxscript", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MeepCityAvatarCloner.lua")
+    
+addscript(3173458677,"Draw It [Auto Guess]", "DrawItAutoGuess", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DrawItAutoGuess.lua")
+                    
