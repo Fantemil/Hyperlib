@@ -3119,3 +3119,6 @@ addscriptexist(9926433554, "BlastMiningSimulatorInfMoney", "Qalnik", "https://ra
 addscriptexist(8304191830, "AnimeAdventureAutoFarmAutoMerchant", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AnimeAdventureAutoFarmAutoMerchant.lua")
                     
 addscriptexist(8585657145, "AnimeHeroSimulatorAutoFarmGUI", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AnimeHeroSimulatorAutoFarmGUI.lua")
+    
+addscript(6266940721,"StockRise Stock Simulator [Infinite Money]", "StockRiseStockSimulatorInfiniteMoney", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/StockRiseStockSimulatorInfiniteMoney.lua")
+                    
