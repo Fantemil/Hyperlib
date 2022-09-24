@@ -1237,3 +1237,6 @@ addscriptexist(9133513813, "HuntedHoodAutoSteal", "astrofile", "https://raw.gith
     
 addscript(6753004901,"Swing City ", "SwingCityUnlockAllSkillsFarmMoneyInstantQuests", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SwingCityUnlockAllSkillsFarmMoneyInstantQuests.lua")
                     
+    
+addscript(5343994291,"Outlaster ", "OutlasterAutoFishEspInfJump", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OutlasterAutoFishEspInfJump.lua")
+                    
