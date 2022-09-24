@@ -5699,3 +5699,6 @@ addscriptexist(9461798258, "RaiseaGrannyInfCash", "Qalnik", "https://raw.githubu
 addscriptexist(9461798258, "RaiseaGrannyDropcookies", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RaiseaGrannyDropcookies.lua")
                     
 addscriptexist(9344944754, "HunterxOmenAutoPushupFast", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/HunterxOmenAutoPushupFast.lua")
+    
+addscript(6840498537,"Strucid [Legit, Semi Rage]", "StrucidLegitSemiRage", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/StrucidLegitSemiRage.lua")
+                    
