@@ -1760,3 +1760,5 @@ addscript(4282985734,"Combat Warriors [Esp, KillAura]", "CombatWarriorsEspKillAu
     
 addscript(5154858502,"Murderers vs. Sheriffs [KillAura]", "MurderersvsSheriffsKillAura", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MurderersvsSheriffsKillAura.lua")
                     
+                    
+addscriptexist(10524502174, "OnePunchFightersAutoPunchRemoveBarriers", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OnePunchFightersAutoPunchRemoveBarriers.lua")
