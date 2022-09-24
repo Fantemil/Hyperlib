@@ -7255,3 +7255,6 @@ addscriptexist(4195834406, "DragonBallNoCooldownNoCombatLogTeleport", "Qalnik", 
     
 addscript(8689635909,"Cookie Simulator 2 [Auto Cookies, TP Gems, Auto Sell]", "CookieSimulator2AutoCookiesTPGemsAutoSell", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CookieSimulator2AutoCookiesTPGemsAutoSell.lua")
                     
+    
+addscript(7549229959,"Squid Game [Win First Game, Win Second Game, Win rope game]", "SquidGameWinFirstGameWinSecondGameWinropegame", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SquidGameWinFirstGameWinSecondGameWinropegame.lua")
+                    
