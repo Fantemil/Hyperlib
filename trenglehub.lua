@@ -3526,3 +3526,6 @@ addscriptexist(5956785391, "ProjectSlayersTeleporttoPlayer", "Terni", "https://r
 addscriptexist(5956785391, "ProjectSlayersTeleporttoBosses", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ProjectSlayersTeleporttoBosses.lua")
                     
 addscriptexist(5956785391, "ProjectSlayersLagServer", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ProjectSlayersLagServer.lua")
+    
+addscript(8473958692,"The Trials [PHASE 2] [Overpowered GUI]", "TheTrialsPHASE2OverpoweredGUI", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TheTrialsPHASE2OverpoweredGUI.lua")
+                    
