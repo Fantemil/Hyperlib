@@ -6649,3 +6649,6 @@ addscript(3759927663,"Zombie Strike [inf Ammo, God Mode]", "ZombieStrikeinfAmmoG
                     
                     
 addscriptexist(6766156863, "StrongmanSimulatorAutoGrabAutoSellAutoOpenEgg", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/StrongmanSimulatorAutoGrabAutoSellAutoOpenEgg.lua")
+    
+addscript(4246487209,"Boss Fighting Simulator [Auto Power, Auto Sell, Boss Auto Farm]", "BossFightingSimulatorAutoPowerAutoSellBossAutoFarm", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BossFightingSimulatorAutoPowerAutoSellBossAutoFarm.lua")
+                    
