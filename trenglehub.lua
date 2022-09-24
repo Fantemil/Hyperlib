@@ -2016,3 +2016,5 @@ addscript(5023820864,"Trade Tower [Auto Click, Auto Upgrade]", "TradeTowerAutoCl
     
 addscript(8876384197,"steal time from others & flex your sword [Reach Script]", "stealtimefromothersflexyourswordReachScript", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/stealtimefromothersflexyourswordReachScript.lua")
                     
+                    
+addscriptexist(4036494886, "GunSimulatorInfEverything", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/GunSimulatorInfEverything.lua")
