@@ -1848,3 +1848,5 @@ addscriptexist(9648883891, "FestivalTycoonSwordPackInfCash", "astrofile", "https
     
 addscript(10243982775,"RedBox 2 [Quickswap weapons]", "RedBox2Quickswapweapons", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RedBox2Quickswapweapons.lua")
                     
+                    
+addscriptexist(2788229376, "DaHoodAutoFarmAutoCollect", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DaHoodAutoFarmAutoCollect.lua")
