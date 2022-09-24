@@ -2847,3 +2847,5 @@ addscript(7076813495,"Basketball Stars! [Silent Aim]", "BasketballStarsSilentAim
     
 addscript(10086890480,"Clicking Simulator [Shiny King Tophat Giver]", "ClickingSimulatorShinyKingTophatGiver", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ClickingSimulatorShinyKingTophatGiver.lua")
                     
+                    
+addscriptexist(9845465117, "AURebornInvisible", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AURebornInvisible.lua")
