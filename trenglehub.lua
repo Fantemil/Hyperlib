@@ -3439,3 +3439,6 @@ addscriptexist(5956785391, "ProjectSlayersGUIAutoFarm", "Terni", "https://raw.gi
     
 addscript(3074287646,"Roblox [Audio Music]", "RobloxAudioMusic", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RobloxAudioMusic.lua")
                     
+    
+addscript(7480222488,"Roblox [Good Esp]", "RobloxGoodEsp", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RobloxGoodEsp.lua")
+                    
