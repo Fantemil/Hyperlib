@@ -2215,3 +2215,5 @@ addscriptexist(3823781113, "SaberSimulatorAutoClicker", "astrofile", "https://ra
     
 addscript(9976239895,"Gumball Factory Tycoon [Auto Farm]", "GumballFactoryTycoonAutoFarm", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/GumballFactoryTycoonAutoFarm.lua")
                     
+                    
+addscriptexist(2788229376, "DaHoodSilentModeTriggerBot", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DaHoodSilentModeTriggerBot.lua")
