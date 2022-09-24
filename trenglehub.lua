@@ -8270,3 +8270,5 @@ addscriptexist(443406476, "ProjectLazarusZombiesGunMod", "Terni", "https://raw.g
 addscriptexist(6284583030, "PetSimulatorXAutoCollectLootBags", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PetSimulatorXAutoCollectLootBags.lua")
                     
 addscriptexist(2809202155, "YourBizarreAdventureItemAutoFarm", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/YourBizarreAdventureItemAutoFarm.lua")
+                    
+addscriptexist(3102144307, "AnimeClickerSimulatorAutoClickAutoOpenEggAutoRebirth", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AnimeClickerSimulatorAutoClickAutoOpenEggAutoRebirth.lua")
