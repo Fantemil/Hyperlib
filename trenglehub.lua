@@ -3429,3 +3429,6 @@ addscriptexist(8278412720, "CSPrisonLifeSilentAim", "Qalnik", "https://raw.githu
     
 addscript(92604236,"High School Life [Fe body resizer]", "HighSchoolLifeFebodyresizer", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/HighSchoolLifeFebodyresizer.lua")
                     
+    
+addscript(5320510816,"Farm Life Tycoon [Auto Farm]", "FarmLifeTycoonAutoFarm", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FarmLifeTycoonAutoFarm.lua")
+                    
