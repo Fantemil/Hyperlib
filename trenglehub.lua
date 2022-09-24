@@ -2853,3 +2853,6 @@ addscriptexist(9845465117, "AURebornInvisible", "Terni", "https://raw.githubuser
 addscriptexist(7127407851, "AttackOnTitanEvolutionInfiniteGasMORE", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AttackOnTitanEvolutionInfiniteGasMORE.lua")
                     
 addscriptexist(9579974235, "FindTheFloppaMorphsGetAllFloppas", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FindTheFloppaMorphsGetAllFloppas.lua")
+    
+addscript(1299054666,"Fallen 2018 [GUI - The best]", "Fallen2018GUIThebest", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Fallen2018GUIThebest.lua")
+                    
