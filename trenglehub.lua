@@ -4761,3 +4761,6 @@ addscriptexist(112420803, "KohlsAdminHouseNBCAdminCMD", "Qalnik", "https://raw.g
 addscriptexist(8448735476, "AnimeRiftsAutoAttackAutoSkillsAutoMob", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AnimeRiftsAutoAttackAutoSkillsAutoMob.lua")
                     
 addscriptexist(4540286603, "NORTHWINDPlayerEsp", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NORTHWINDPlayerEsp.lua")
+    
+addscript(8288794825,"Natural Disaster Survival [Remove Bad Kids]", "NaturalDisasterSurvivalRemoveBadKids", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NaturalDisasterSurvivalRemoveBadKids.lua")
+                    
