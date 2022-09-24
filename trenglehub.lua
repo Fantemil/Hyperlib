@@ -7102,3 +7102,6 @@ addscriptexist(2317712696, "TheWildWestESPFarmMore", "Terni", "https://raw.githu
 addscriptexist(621129760, "KATSilentAIMSnaplines", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/KATSilentAIMSnaplines.lua")
                     
 addscriptexist(7127407851, "AttackonTitanEvolutionUnlockAllGamepassKillAuraMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AttackonTitanEvolutionUnlockAllGamepassKillAuraMore.lua")
+    
+addscript(5009679035,"carry people simulator 2 [GUI - Grab Aura]", "carrypeoplesimulator2GUIGrabAura", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/carrypeoplesimulator2GUIGrabAura.lua")
+                    
