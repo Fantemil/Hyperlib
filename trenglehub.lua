@@ -3939,3 +3939,5 @@ addscriptexist(863266079, "ApocalypseRising2TeleportToPlayer", "Terni", "https:/
 addscriptexist(7026949294, "SwordSimulatorAutoFarmInfiniteCoinsMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SwordSimulatorAutoFarmInfiniteCoinsMore.lua")
                     
 addscriptexist(9598746251, "HomeRunSimulatorAutoTime", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/HomeRunSimulatorAutoTime.lua")
+                    
+addscriptexist(4588604953, "CriminalityGUIAimbotEspMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CriminalityGUIAimbotEspMore.lua")
