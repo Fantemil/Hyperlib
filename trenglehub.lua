@@ -2878,3 +2878,5 @@ addscript(9677457651,"Fall Experimental [Teleport To The End]", "FallExperimenta
                     
                     
 addscriptexist(4520749081, "KingLegacyGUIAutoFarm", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/KingLegacyGUIAutoFarm.lua")
+                    
+addscriptexist(2534724415, "EmergencyResponseLibertyCountySilentAim", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/EmergencyResponseLibertyCountySilentAim.lua")
