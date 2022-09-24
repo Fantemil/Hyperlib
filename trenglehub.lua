@@ -6187,3 +6187,5 @@ addscript(2249346496,"Blood Moon The Tycoon [Melee Instant Kill]", "BloodMoonThe
                     
                     
 addscriptexist(6284583030, "PetSimulatorXAntiSteal", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PetSimulatorXAntiSteal.lua")
+                    
+addscriptexist(5610197459, "ganguponpeoplesimulatorMoney", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ganguponpeoplesimulatorMoney.lua")
