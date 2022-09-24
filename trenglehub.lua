@@ -8369,3 +8369,5 @@ addscript(7490012056,"ALL STAR BRAWL [Infinite Awakening]", "ALLSTARBRAWLInfinit
     
 addscript(6985028626,"Roblox Community Space", "RobloxCommunitySpaceHolidayEditionGetBackPack", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RobloxCommunitySpaceHolidayEditionGetBackPack.lua")
                     
+                    
+addscriptexist(6085581583, "ProjectHeroAutoQuestAutoStaminaAutoFarm", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ProjectHeroAutoQuestAutoStaminaAutoFarm.lua")
