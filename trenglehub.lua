@@ -7586,3 +7586,5 @@ addscriptexist(6284583030, "PetSimulatorXAutoEggsAutoFarmSendAllPets", "Qalnik",
 addscriptexist(1240123653, "ZombieAttackAutoFarmEquipAllGunsEquipAllKnifes", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ZombieAttackAutoFarmEquipAllGunsEquipAllKnifes.lua")
                     
 addscriptexist(2512643572, "BubbleGumSimulatorAutoFarmAutoSellAutoEggs", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BubbleGumSimulatorAutoFarmAutoSellAutoEggs.lua")
+                    
+addscriptexist(3956818381, "NinjaLegendsAutoswingsAutosellBossFarm", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NinjaLegendsAutoswingsAutosellBossFarm.lua")
