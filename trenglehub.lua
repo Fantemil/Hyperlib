@@ -4999,3 +4999,5 @@ addscript(4058282580,"Boxing Simulator [GUI - Auto Farm, Teleports & More!]", "B
                     
                     
 addscriptexist(9281034297, "GoalKickSimulatorAutokickKickingAimBotAutoUpgrade", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/GoalKickSimulatorAutokickKickingAimBotAutoUpgrade.lua")
+                    
+addscriptexist(9551640993, "MiningSimulator2AutoMineMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MiningSimulator2AutoMineMore.lua")
