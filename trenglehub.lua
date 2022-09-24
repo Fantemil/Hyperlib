@@ -4852,3 +4852,5 @@ addscriptexist(8992150289, "AnimeSwordSimulatorGetAllGamepasses", "Terni", "http
 addscriptexist(4459593483, "FORCEPREALPHAAutoFarm", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FORCEPREALPHAAutoFarm.lua")
                     
 addscriptexist(7791873535, "REALISTICHOODInfiniteMoney", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/REALISTICHOODInfiniteMoney.lua")
+                    
+addscriptexist(292439477, "PhantomForcesUnlockAllGunsAdminGunsAttachments", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PhantomForcesUnlockAllGunsAdminGunsAttachments.lua")
