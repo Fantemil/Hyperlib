@@ -6467,3 +6467,6 @@ addscriptexist(1962086868, "TowerOfHellBypassAntiCheatTPToEndGetAllItemsGodMode"
 addscriptexist(3210622855, "MannersBadgeWalkGetAllBadgesForCaveWorld", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MannersBadgeWalkGetAllBadgesForCaveWorld.lua")
                     
 addscriptexist(3210622855, "MannersBadgeWalkGetAllBadgesForSkyWorld", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MannersBadgeWalkGetAllBadgesForSkyWorld.lua")
+    
+addscript(8003084678,"oMega Obby Parkour 525 Stages [Infinite Prestige]", "oMegaObbyParkour525StagesInfinitePrestige", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/oMegaObbyParkour525StagesInfinitePrestige.lua")
+                    
