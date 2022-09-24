@@ -8132,3 +8132,5 @@ addscriptexist(8116417963, "CarcraftInfiniteCurrency", "Terni", "https://raw.git
 addscriptexist(6802248248, "SAITAMANIAFarmLevelCollectGiftMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SAITAMANIAFarmLevelCollectGiftMore.lua")
                     
 addscriptexist(6299805723, "AnimeFightersSimulatorFarmMoneyLevelFarmMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AnimeFightersSimulatorFarmMoneyLevelFarmMore.lua")
+                    
+addscriptexist(5233782396, "CreaturesofSonariaAfkAutoBellsFarm", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CreaturesofSonariaAfkAutoBellsFarm.lua")
