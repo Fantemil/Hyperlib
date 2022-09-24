@@ -5275,3 +5275,5 @@ addscript(7665856814,"Insomniac World Party [Auto Mine]", "InsomniacWorldPartyAu
     
 addscript(2262441883,"Electric State DarkRP [God Mode - Open Source]", "ElectricStateDarkRPGodModeOpenSource", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ElectricStateDarkRPGodModeOpenSource.lua")
                     
+                    
+addscriptexist(7622046644, "MonsterGhoulInstakillAutoKill", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MonsterGhoulInstakillAutoKill.lua")
