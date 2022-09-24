@@ -3313,3 +3313,6 @@ addscriptexist(5956785391, "ProjectSlayersFishFarm", "Terni", "https://raw.githu
     
 addscript(4787629450,"BOOGA BOOGA - Classic [Invisible Armor & Tools]", "BOOGABOOGAClassicInvisibleArmorTools", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BOOGABOOGAClassicInvisibleArmorTools.lua")
                     
+    
+addscript(29812337,"Framed! [ESP]", "FramedESP", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FramedESP.lua")
+                    
