@@ -6271,3 +6271,6 @@ addscriptexist(8492553855, "ProjectUprightNoPunchCooldown", "Terni", "https://ra
 addscriptexist(8492553855, "ProjectUprightUseAnyMove", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ProjectUprightUseAnyMove.lua")
                     
 addscriptexist(6778844213, "EuphoriaragdolltestingRagdollAll", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/EuphoriaragdolltestingRagdollAll.lua")
+    
+addscript(7817016260,"Bloxston Mystery [Discover Everyones Roles]", "BloxstonMysteryDiscoverEveryonesRoles", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BloxstonMysteryDiscoverEveryonesRoles.lua")
+                    
