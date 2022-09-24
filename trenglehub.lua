@@ -8226,3 +8226,5 @@ addscriptexist(7050008107, "HospitalTycoonPrioritizeMoneyAutoCollestCashKillAll"
     
 addscript(5244411056,"Bloxy Bingo [Auto MArk, Auto Bingo, Rejoin]", "BloxyBingoAutoMArkAutoBingoRejoin", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BloxyBingoAutoMArkAutoBingoRejoin.lua")
                     
+                    
+addscriptexist(7444263453, "JetpackJumpersFastAutoFarm", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/JetpackJumpersFastAutoFarm.lua")
