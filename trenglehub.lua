@@ -3815,3 +3815,5 @@ addscriptexist(2098516465, "RobloxHighSchool2GetKlossettexLovespunPurse", "Qalni
     
 addscript(3722916,"2 Player Company Tycoon [Inf Money]", "2PlayerCompanyTycoonInfMoney", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/2PlayerCompanyTycoonInfMoney.lua")
                     
+                    
+addscriptexist(537413528, "BuildABoatForTreasureInfBlockWORKING", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BuildABoatForTreasureInfBlockWORKING.lua")
