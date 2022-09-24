@@ -4034,3 +4034,5 @@ addscriptexist(6284583030, "PetSimulatorXGUIAutoFarmAutoCollectAllMore", "Terni"
 addscriptexist(70005410, "BloxHuntGodModeInfiniteEnergy", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BloxHuntGodModeInfiniteEnergy.lua")
                     
 addscriptexist(4588604953, "CriminalityAutoBlock", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CriminalityAutoBlock.lua")
+                    
+addscriptexist(2753915549, "BloxFruitSilentAim", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BloxFruitSilentAim.lua")
