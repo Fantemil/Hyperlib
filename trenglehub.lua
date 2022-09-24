@@ -7296,3 +7296,5 @@ addscriptexist(3823781113, "SaberSimulatorStrengthFarmAutoSellSaferBossFarm", "Q
     
 addscript(4225025295,"OP NINJA SIMULATOR [AutoFarm, Auto Equip Katana]", "OPNINJASIMULATORAutoFarmAutoEquipKatana", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OPNINJASIMULATORAutoFarmAutoEquipKatana.lua")
                     
+                    
+addscriptexist(1554960397, "CarDealershipTycoonModCarLoopFlipAllCarsFeinvisible", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CarDealershipTycoonModCarLoopFlipAllCarsFeinvisible.lua")
