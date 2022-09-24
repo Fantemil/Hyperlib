@@ -5879,3 +5879,6 @@ addscript(3501626887,"Diceboy [Bring dicecoins]", "DiceboyBringdicecoins", "Qaln
                     
                     
 addscriptexist(8549047195, "AnimeWarriorsSimulatorTpfinalworld", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AnimeWarriorsSimulatorTpfinalworld.lua")
+    
+addscript(6772424226,"2 Player Millionaire Tycoon [Auto Buy & More!]", "2PlayerMillionaireTycoonAutoBuyMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/2PlayerMillionaireTycoonAutoBuyMore.lua")
+                    
