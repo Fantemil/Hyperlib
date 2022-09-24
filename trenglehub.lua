@@ -1139,3 +1139,6 @@ addscriptexist(9648883891, "FestivalTycoonInfiniteCashGetFreeItems", "Terni", "h
     
 addscript(7138009149,"PHIGHTING! ", "PHIGHTINGInfiniteCash", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PHIGHTINGInfiniteCash.lua")
                     
+    
+addscript(9742783208,"Raise a Yippee ", "RaiseaYippeeAutoClickAutoFood", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RaiseaYippeeAutoClickAutoFood.lua")
+                    
