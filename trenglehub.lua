@@ -2637,3 +2637,5 @@ addscriptexist(621129760, "KATInfAmmo", "astrofile", "https://raw.githubusercont
 addscriptexist(10157366004, "PetTappingSimulatorAutoFarmAutoHatch", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PetTappingSimulatorAutoFarmAutoHatch.lua")
                     
 addscriptexist(2622527242, "SCPrBreachESPMisc", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SCPrBreachESPMisc.lua")
+                    
+addscriptexist(7026828578, "SpeedSimulatorInfScore", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SpeedSimulatorInfScore.lua")
