@@ -6569,3 +6569,5 @@ addscriptexist(3623096087, "MuscleLegendsKillLocationPirStats", "Qalnik", "https
 addscriptexist(2248408710, "DestructionSimulatorAutoSellGunModsNoclip", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DestructionSimulatorAutoSellGunModsNoclip.lua")
                     
 addscriptexist(4924922222, "BrookhavenHomeMenuHouseMenuPlayersMemu", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BrookhavenHomeMenuHouseMenuPlayersMemu.lua")
+                    
+addscriptexist(8540346411, "RebirthChampionsXAutoClickAutoClaimChestsAutoBuyUpgrades", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RebirthChampionsXAutoClickAutoClaimChestsAutoBuyUpgrades.lua")
