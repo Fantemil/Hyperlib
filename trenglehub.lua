@@ -5805,3 +5805,5 @@ addscript(9283132959,"Block Breaker Simulator [Auto Get Blocks & More!]", "Block
                     
                     
 addscriptexist(4996049426, "AllStarTowerDefenseFarmexp", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AllStarTowerDefenseFarmexp.lua")
+                    
+addscriptexist(9049840490, "SonicSpeedSimulatorAutoRunAutorebirthsAutoWinRace", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SonicSpeedSimulatorAutoRunAutorebirthsAutoWinRace.lua")
