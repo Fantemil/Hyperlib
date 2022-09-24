@@ -2499,3 +2499,5 @@ addscriptexist(189707, "NaturalDisasterSurvivalNoFallGravity", "astrofile", "htt
     
 addscript(7167319176,"Chicago Remastered [Speed, Jump Power]", "ChicagoRemasteredSpeedJumpPower", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ChicagoRemasteredSpeedJumpPower.lua")
                     
+                    
+addscriptexist(2537430692, "JengaAutoWin", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/JengaAutoWin.lua")
