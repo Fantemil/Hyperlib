@@ -2030,3 +2030,5 @@ addscriptexist(10204162989, "PickaxeSimulatorAutoMineAutoOpen", "astrofile", "ht
     
 addscript(10141430483,"Slaying Legends [AutoBuy, AutoPrestige]", "SlayingLegendsAutoBuyAutoPrestige", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SlayingLegendsAutoBuyAutoPrestige.lua")
                     
+                    
+addscriptexist(6872265039, "BedWarsAutoFarmPirateCoins", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BedWarsAutoFarmPirateCoins.lua")
