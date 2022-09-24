@@ -2023,3 +2023,5 @@ addscriptexist(9049840490, "SonicSpeedSimulatorAutoRunAutoRebrith", "astrofile",
     
 addscript(394846350,"Jump Simulator [Auto Farm]", "JumpSimulatorAutoFarm", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/JumpSimulatorAutoFarm.lua")
                     
+                    
+addscriptexist(7655745946, "DunkingSimulatorInfSpinsBustCash", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DunkingSimulatorInfSpinsBustCash.lua")
