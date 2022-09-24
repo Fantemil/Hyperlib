@@ -6915,3 +6915,5 @@ addscriptexist(8377686524, "UndertaleLastResetGodmode", "Qalnik", "https://raw.g
 addscriptexist(5108587039, "PalmRidgeBetaAutoFarm", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PalmRidgeBetaAutoFarm.lua")
                     
 addscriptexist(6808416928, "DDAYAimbotESPMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DDAYAimbotESPMore.lua")
+                    
+addscriptexist(292439477, "PhantomForcesSnipeHead", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PhantomForcesSnipeHead.lua")
