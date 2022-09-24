@@ -4331,3 +4331,5 @@ addscriptexist(4459593483, "FORCESellTrinkets", "Terni", "https://raw.githubuser
 addscriptexist(9772878203, "RaiseAFloppa2GUIAutoClickFloppaAutoCollectMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RaiseAFloppa2GUIAutoClickFloppaAutoCollectMore.lua")
                     
 addscriptexist(9568982793, "DaHoodBattlegroundsInstantKill", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DaHoodBattlegroundsInstantKill.lua")
+                    
+addscriptexist(606849621, "JailbreakKeycardUnlockDoors", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/JailbreakKeycardUnlockDoors.lua")
