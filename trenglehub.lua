@@ -8622,3 +8622,6 @@ addscript(4704006941,"Blade Throwing Simulator [AUTO-FARM, FREE GAMEPASS, FORCE 
 addscriptexist(6711562581, "EightDriverCarRacingMoneyExpFarm", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/EightDriverCarRacingMoneyExpFarm.lua")
                     
 addscriptexist(7114796110, "AnimeTrainingSimulatorAUTOFARMAUTOTRAINAUTOEGG", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AnimeTrainingSimulatorAUTOFARMAUTOTRAINAUTOEGG.lua")
+    
+addscript(413053960,"The Legendary Swords 2 RPG [INF Gold, INF Healt, More!]", "TheLegendarySwords2RPGINFGoldINFHealtMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TheLegendarySwords2RPGINFGoldINFHealtMore.lua")
+                    
