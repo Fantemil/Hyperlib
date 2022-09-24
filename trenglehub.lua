@@ -6828,3 +6828,5 @@ addscript(6078267880,"Tower Of Hell Easy [Inf Money]", "TowerOfHellEasyInfMoney"
                     
                     
 addscriptexist(6494523288, "BladeQuestAutoFarmKillAuraAutoRewards", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BladeQuestAutoFarmKillAuraAutoRewards.lua")
+                    
+addscriptexist(537413528, "BuildABoatForTreasureAutoFarmGodModeWaterAutoCommonChests", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BuildABoatForTreasureAutoFarmGodModeWaterAutoCommonChests.lua")
