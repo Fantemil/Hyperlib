@@ -6818,3 +6818,6 @@ addscriptexist(8377686524, "UndertaleLastResetTpEvent", "Qalnik", "https://raw.g
     
 addscript(34623863,"Roblox [WalkSpeed]", "RobloxWalkSpeed", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RobloxWalkSpeed.lua")
                     
+    
+addscript(4599968871,"Tower Of Hell Easy [Infinite Money]", "TowerOfHellEasyInfiniteMoney", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TowerOfHellEasyInfiniteMoney.lua")
+                    
