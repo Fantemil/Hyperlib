@@ -5248,3 +5248,6 @@ addscriptexist(6717117731, "SubwaySurfersColllectAllCoins", "Qalnik", "https://r
 addscriptexist(9508087919, "ApeirophobiaESPforexits", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ApeirophobiaESPforexits.lua")
                     
 addscriptexist(9508087919, "ApeirophobiaSimulationCoresESP", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ApeirophobiaSimulationCoresESP.lua")
+    
+addscript(9065768804,"War Simulator [Kill All]", "WarSimulatorKillAll", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/WarSimulatorKillAll.lua")
+                    
