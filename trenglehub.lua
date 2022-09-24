@@ -2406,3 +2406,6 @@ addscriptexist(6516141723, "DOORSGuiwithcoolfunctions", "astrofile", "https://ra
 addscriptexist(8458333139, "1LIGEAutoFarm", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/1LIGEAutoFarm.lua")
                     
 addscriptexist(7415160483, "RobloxAdminCommandsFE", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RobloxAdminCommandsFE.lua")
+    
+addscript(2768379856,"SCP 3008 [Water Compatible, Give Items]", "SCP3008WaterCompatibleGiveItems", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SCP3008WaterCompatibleGiveItems.lua")
+                    
