@@ -7222,3 +7222,6 @@ addscript(7135656646,"Shoot people simulator [Instant Kill - Silent AIM - No Coo
                     
                     
 addscriptexist(286090429, "ArsenalValentinesDayEventFarmHearts", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ArsenalValentinesDayEventFarmHearts.lua")
+    
+addscript(6068707488,"Navy Simulator [Auto Farm, Fly, Walk Speed]", "NavySimulatorAutoFarmFlyWalkSpeed", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NavySimulatorAutoFarmFlyWalkSpeed.lua")
+                    
