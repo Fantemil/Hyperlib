@@ -6330,3 +6330,5 @@ addscriptexist(4566572536, "VehicleLegendsSpeedBoostSpeedBoostMultiplierRainbowC
 addscriptexist(6679274937, "VansWorldBMXAutoCollectCoinsAutoXpGainCompleteAllQuetstMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/VansWorldBMXAutoCollectCoinsAutoXpGainCompleteAllQuetstMore.lua")
                     
 addscriptexist(8549047195, "AnimeWarriorsSimulatorTeleportToTheFinalWorld", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AnimeWarriorsSimulatorTeleportToTheFinalWorld.lua")
+                    
+addscriptexist(654732683, "CarCrushers2CORECONTROLGUIV2", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CarCrushers2CORECONTROLGUIV2.lua")
