@@ -5674,3 +5674,5 @@ addscript(9474050899,"Jackpot Party [Fast Case Opener]", "JackpotPartyFastCaseOp
     
 addscript(5029300380,"BOXING CLUB [Kick Player]", "BOXINGCLUBKickPlayer", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BOXINGCLUBKickPlayer.lua")
                     
+                    
+addscriptexist(7089072882, "HEMANSIMBATTLEARENAInfiniteKirbinite", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/HEMANSIMBATTLEARENAInfiniteKirbinite.lua")
