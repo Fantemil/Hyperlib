@@ -7022,3 +7022,6 @@ addscriptexist(6728870912, "WorldofStandsDemoInfiniteGoldVampMasks", "Terni", "h
 addscriptexist(286090429, "ArsenalGunMods", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ArsenalGunMods.lua")
                     
 addscriptexist(6284583030, "PetSimulatorXSCAMSCRIPTInfiniteGems", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PetSimulatorXSCAMSCRIPTInfiniteGems.lua")
+    
+addscript(8697536518,"Pet Simulator Z [Infinite Money]", "PetSimulatorZInfiniteMoney", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PetSimulatorZInfiniteMoney.lua")
+                    
