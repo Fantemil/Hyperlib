@@ -3412,3 +3412,5 @@ addscript(443406476,"Project Lazarus [Auto Farm, Bring Heads, Gun Mod]", "Projec
     
 addscript(6835256242,"Pick A Door [AutoWin]", "PickADoorAutoWin", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PickADoorAutoWin.lua")
                     
+                    
+addscriptexist(6284583030, "PetSimulatorXAutofarmOpenEggsAutouseboosts", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PetSimulatorXAutofarmOpenEggsAutouseboosts.lua")
