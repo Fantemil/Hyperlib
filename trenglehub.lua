@@ -1600,3 +1600,5 @@ addscript(2124720684,"Dragon Ball", "DragonBallXenoMultiverseKillAuraAutoFarmWal
     
 addscript(3260590327,"Tower Defense Simulator [Auto Farm]", "TowerDefenseSimulatorAutoFarm", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TowerDefenseSimulatorAutoFarm.lua")
                     
+                    
+addscriptexist(40424276666, "AnimeFightingSimulatorInfYenInfChikara", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AnimeFightingSimulatorInfYenInfChikara.lua")
