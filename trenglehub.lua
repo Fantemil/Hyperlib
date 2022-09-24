@@ -4011,3 +4011,5 @@ addscript(2546155523,"RoVille [Taxi Auto Farm]", "RoVilleTaxiAutoFarm", "Terni",
 addscriptexist(9568982793, "DaHoodBattlegroundsAntiCheatBypass", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DaHoodBattlegroundsAntiCheatBypass.lua")
                     
 addscriptexist(8303902695, "PetPosseSpamCoins", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PetPosseSpamCoins.lua")
+                    
+addscriptexist(8303902695, "PetPosseRemoveEggAnimations", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PetPosseRemoveEggAnimations.lua")
