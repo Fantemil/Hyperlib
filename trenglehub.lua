@@ -5938,3 +5938,6 @@ addscriptexist(7797478022, "BrokenBonesSimulatorAutoFarm", "Terni", "https://raw
     
 addscript(8747402506,"Prop Hunt [Kill All]", "PropHuntKillAll", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PropHuntKillAll.lua")
                     
+    
+addscript(6847090259,"Bulked Up [Auto Collect Eggs]", "BulkedUpAutoCollectEggs", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BulkedUpAutoCollectEggs.lua")
+                    
