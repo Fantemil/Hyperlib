@@ -6810,3 +6810,6 @@ addscript(4934471106,"My Hero Mania [GUI - Mob Auto Farm - Auto Quest]", "MyHero
                     
                     
 addscriptexist(8396586868, "A0nePieceGameAutoFarm", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/A0nePieceGameAutoFarm.lua")
+    
+addscript(8950979693,"Anime Rebirth Simulator [Auto Click, Auto Attack Npc, Suto Buy Dispenser]", "AnimeRebirthSimulatorAutoClickAutoAttackNpcSutoBuyDispenser", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AnimeRebirthSimulatorAutoClickAutoAttackNpcSutoBuyDispenser.lua")
+                    
