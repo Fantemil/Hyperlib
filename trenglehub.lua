@@ -5352,3 +5352,5 @@ addscriptexist(9049840490, "SonicSpeedSimulatorCollectAllHoopsAutoRebirthAutoSte
 addscriptexist(9049840490, "SonicSpeedSimulatorAutoCollect", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SonicSpeedSimulatorAutoCollect.lua")
                     
 addscriptexist(4855457388, "DemonfallTpPlayer", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DemonfallTpPlayer.lua")
+                    
+addscriptexist(5154858502, "MurderersvsSheriffsKillAll", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MurderersvsSheriffsKillAll.lua")
