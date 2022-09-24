@@ -6792,3 +6792,5 @@ addscript(6558291063,"Would You Rather 2 [Auto Farm Coins – Vip Room & More]",
     
 addscript(5229285987,"V4 Air Force Academy [Kill All - Loop Kill & Click Kill]", "V4AirForceAcademyKillAllLoopKillClickKill", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/V4AirForceAcademyKillAllLoopKillClickKill.lua")
                     
+                    
+addscriptexist(7009799230, "PressureWashSimulatorAutoFarmGUI", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PressureWashSimulatorAutoFarmGUI.lua")
