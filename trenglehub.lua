@@ -3341,3 +3341,5 @@ addscriptexist(7180042682, "MilitaryTycoonCollectAllBatteries", "Terni", "https:
     
 addscript(6356806222,"Lag Test 2021 [No lag]", "LagTest2021Nolag", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LagTest2021Nolag.lua")
                     
+                    
+addscriptexist(9167501050, "LightsaberArenaKillauraautoblockinfstamina", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LightsaberArenaKillauraautoblockinfstamina.lua")
