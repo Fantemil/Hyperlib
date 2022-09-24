@@ -8759,3 +8759,5 @@ addscriptexist(621129760, "KATBESTHUBAUTOKILLESPMORE", "Terni", "https://raw.git
     
 addscript(6073366803,"Rage Runner [AUTO-WIN, INF Jump, No Fall]", "RageRunnerAUTOWININFJumpNoFall", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RageRunnerAUTOWININFJumpNoFall.lua")
                     
+                    
+addscriptexist(183364845, "SpeedRun4AUTOFARM3UNLOCKALLLEVELS", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SpeedRun4AUTOFARM3UNLOCKALLLEVELS.lua")
