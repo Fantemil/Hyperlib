@@ -3596,3 +3596,6 @@ addscriptexist(5956785391, "ProjectSlayersGUIAutoFarmAutoSkillMore", "Terni", "h
     
 addscript(6604417568,"Minerscave [Ore ESP - GUI]", "MinerscaveOreESPGUI", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MinerscaveOreESPGUI.lua")
                     
+    
+addscript(8739839954,"Jujutsu Tycoon [Use All Abilities]", "JujutsuTycoonUseAllAbilities", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/JujutsuTycoonUseAllAbilities.lua")
+                    
