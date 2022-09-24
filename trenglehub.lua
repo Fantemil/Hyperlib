@@ -2131,3 +2131,5 @@ addscript(9863691914,"Backrooms Morphs [Kill All Players, NPCs", "BackroomsMorph
     
 addscript(9970551995,"Touch The Grass Simulator! [AutoHatch, KillAura]", "TouchTheGrassSimulatorAutoHatchKillAura", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TouchTheGrassSimulatorAutoHatchKillAura.lua")
                     
+                    
+addscriptexist(10087074695, "KnifeStrifeKillAllInstantKills", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/KnifeStrifeKillAllInstantKills.lua")
