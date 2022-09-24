@@ -5086,3 +5086,5 @@ addscript(7622046644,"Monster Ghoul [100 Billion Focus Points]", "MonsterGhoul10
     
 addscript(7110163297,"Super Sabers [Redeem All Codes]", "SuperSabersRedeemAllCodes", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SuperSabersRedeemAllCodes.lua")
                     
+                    
+addscriptexist(4733278992, "SwordBloxOnlineRebirthKillAura", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SwordBloxOnlineRebirthKillAura.lua")
