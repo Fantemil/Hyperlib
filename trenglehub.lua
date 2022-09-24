@@ -1610,3 +1610,5 @@ addscriptexist(8737602449, "PLSDONATEServerHopAutoBeg", "astrofile", "https://ra
     
 addscript(3101667897,"Legends Of Speed [Auto Hoops, AutoRace]", "LegendsOfSpeedAutoHoopsAutoRace", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LegendsOfSpeedAutoHoopsAutoRace.lua")
                     
+                    
+addscriptexist(5602055394, "HoodModdedSilentAimEsp", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/HoodModdedSilentAimEsp.lua")
