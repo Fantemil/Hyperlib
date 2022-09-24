@@ -5553,3 +5553,6 @@ addscript(4860819035,"Plants vs Zombies Garden Problem [Infinite Money]", "Plant
 addscriptexist(9292879820, "GrassCuttingIncrementalAutoCollect", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/GrassCuttingIncrementalAutoCollect.lua")
                     
 addscriptexist(3522803956, "DePrideIsleSanatoriumGUINoStaminaMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DePrideIsleSanatoriumGUINoStaminaMore.lua")
+    
+addscript(3339374541,"Midnight Racing Tokyo [Demo FE Sound Player]", "MidnightRacingTokyoDemoFESoundPlayer", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MidnightRacingTokyoDemoFESoundPlayer.lua")
+                    
