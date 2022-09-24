@@ -8635,3 +8635,6 @@ addscript(2281639237,"Stands Online v25 [Stand Arrow & Locacaca Farm]", "StandsO
 addscriptexist(171391948, "VehicleSimulatorMILESFARMAUTOFARMMORE", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/VehicleSimulatorMILESFARMAUTOFARMMORE.lua")
                     
 addscriptexist(5244411056, "BloxyBingoAUTOFARM", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BloxyBingoAUTOFARM.lua")
+    
+addscript(5228496215,"Remote Spy", "RemoteSpy", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RemoteSpy.lua")
+                    
