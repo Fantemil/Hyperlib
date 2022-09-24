@@ -5405,3 +5405,5 @@ addscriptexist(5490351219, "ClickerMadnessAutoFarmGUI", "Terni", "https://raw.gi
     
 addscript(9557222597,"Clarks CICAVERSE [Auto Collect And Complete Event]", "ClarksCICAVERSEAutoCollectAndCompleteEvent", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ClarksCICAVERSEAutoCollectAndCompleteEvent.lua")
                     
+                    
+addscriptexist(9557222597, "ClarksCICAVERSEAutoFarmTeleports", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ClarksCICAVERSEAutoFarmTeleports.lua")
