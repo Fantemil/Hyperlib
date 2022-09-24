@@ -4092,3 +4092,6 @@ addscriptexist(9103898828, "RogueDemonNormalRunSpeedBreath", "Qalnik", "https://
     
 addscript(5315066937,"surf [SuperB Surf]", "surfSuperBSurf", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/surfSuperBSurf.lua")
                     
+    
+addscript(3311740703,"Counter Blox", "CounterBloxModdedKillAllAimbotEsp", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CounterBloxModdedKillAllAimbotEsp.lua")
+                    
