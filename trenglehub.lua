@@ -7082,3 +7082,5 @@ addscriptexist(662417684, "LuckyBlockBattlegroundsNEWGUI", "Terni", "https://raw
     
 addscript(6505994717,"Epic Egg Hunt 2021 [Collect All Eggs]", "EpicEggHunt2021CollectAllEggs", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/EpicEggHunt2021CollectAllEggs.lua")
                     
+                    
+addscriptexist(7800644383, "UntitledHoodSilentAIMAimBot", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/UntitledHoodSilentAIMAimBot.lua")
