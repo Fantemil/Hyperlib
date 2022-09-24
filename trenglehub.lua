@@ -5546,3 +5546,6 @@ addscript(7083634873,"FPS Boost for Roblox", "FPSBoostforRoblox", "Terni", "http
                     
                     
 addscriptexist(5712833750, "AnimalSimulatorMorphsMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AnimalSimulatorMorphsMore.lua")
+    
+addscript(4860819035,"Plants vs Zombies Garden Problem [Infinite Money]", "PlantsvsZombiesGardenProblemInfiniteMoney", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PlantsvsZombiesGardenProblemInfiniteMoney.lua")
+                    
