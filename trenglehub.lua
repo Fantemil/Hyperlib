@@ -4912,3 +4912,6 @@ addscript(5965591336,"Soul War [Infinite Boost]", "SoulWarInfiniteBoost", "Terni
 addscriptexist(263761432, "HorrificHousingSemiGodMode", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/HorrificHousingSemiGodMode.lua")
                     
 addscriptexist(1927139201, "TheBorderGetAllScraps", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TheBorderGetAllScraps.lua")
+    
+addscript(8730246074,"Galaxy Uranium ESP", "GalaxyUraniumESP", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/GalaxyUraniumESP.lua")
+                    
