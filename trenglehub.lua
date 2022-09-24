@@ -8413,3 +8413,5 @@ addscript(3311165597,"Dragon Blox Ultimate [Auto Farm - Select Mob & More!]", "D
     
 addscript(5026999321,"A Dumb Day [TP ALL ITEM, INF HEALTH]", "ADumbDayTPALLITEMINFHEALTH", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ADumbDayTPALLITEMINFHEALTH.lua")
                     
+                    
+addscriptexist(6329844902, "LastPiratesMOBFARMAUTOATTACH", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LastPiratesMOBFARMAUTOATTACH.lua")
