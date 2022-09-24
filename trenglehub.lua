@@ -4140,3 +4140,6 @@ addscript(7791873535,"REALISTIC HOOD [Invis Kill Method]", "REALISTICHOODInvisKi
     
 addscript(6763893674,"Ballista [Inf arrows, Fast arrow, No roll cooldown]", "BallistaInfarrowsFastarrowNorollcooldown", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BallistaInfarrowsFastarrowNorollcooldown.lua")
                     
+    
+addscript(6937208251,"Star Wars", "StarWarsBattlegroundSilentAim", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/StarWarsBattlegroundSilentAim.lua")
+                    
