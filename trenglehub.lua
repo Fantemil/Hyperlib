@@ -499,3 +499,7 @@ end
                   
                   
      
+
+    
+addscript(142823291/Murder-Mystery-2142823291,"Murder Mystery 2", "MurderMystery2FlyEspNoclip", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MurderMystery2FlyEspNoclip.lua")
+                    
