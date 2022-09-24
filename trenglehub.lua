@@ -2622,3 +2622,5 @@ addscript(5939428933,"Crewmates! (Among Us) [Remove Backpack & More!]", "Crewmat
                     
                     
 addscriptexist(4872321990, "IslandsAutoCoollectNearbyItems", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/IslandsAutoCoollectNearbyItems.lua")
+                    
+addscriptexist(9285238704, "RaceClickerAutoclick", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RaceClickerAutoclick.lua")
