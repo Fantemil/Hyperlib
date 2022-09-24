@@ -3944,3 +3944,6 @@ addscriptexist(4588604953, "CriminalityGUIAimbotEspMore", "Terni", "https://raw.
     
 addscript(7947609996,"Roblox - Sword Reach", "RobloxSwordReach", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RobloxSwordReach.lua")
                     
+    
+addscript(7240922896,"Roblox - Player Avatars ESP", "RobloxPlayerAvatarsESP", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RobloxPlayerAvatarsESP.lua")
+                    
