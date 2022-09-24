@@ -4664,3 +4664,5 @@ addscriptexist(1962086868, "TowerofHellAutotptotopWalkspeedInfjump", "Qalnik", "
 addscriptexist(2809202155, "YourBizarreAdventureAutoFarmItems", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/YourBizarreAdventureAutoFarmItems.lua")
                     
 addscriptexist(6938803436, "AnimeDimensionsSimulatorAutoAttackSpeedAutoSkill", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AnimeDimensionsSimulatorAutoAttackSpeedAutoSkill.lua")
+                    
+addscriptexist(6403373529, "SlapBattlesAutoSwingAutoSellAutoRebirth", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SlapBattlesAutoSwingAutoSellAutoRebirth.lua")
