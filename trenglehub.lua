@@ -6080,3 +6080,5 @@ addscriptexist(9049840490, "SonicSpeedSimulatorAutoCollectGUI", "Terni", "https:
     
 addscript(7236421113,"Downhill Rush [Instant 10K Cash]", "DownhillRushInstant10KCash", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DownhillRushInstant10KCash.lua")
                     
+                    
+addscriptexist(5610197459, "ganguponpeoplesimulatorATM", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ganguponpeoplesimulatorATM.lua")
