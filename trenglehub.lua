@@ -2984,3 +2984,5 @@ addscriptexist(10386774046, "LegendMagicianAutoFarm", "Qalnik", "https://raw.git
 addscriptexist(6902912928, "GETTOTHETOPFinishInfmoney", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/GETTOTHETOPFinishInfmoney.lua")
                     
 addscriptexist(286090429, "ArsenalSoundChanger", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ArsenalSoundChanger.lua")
+                    
+addscriptexist(9498006165, "TappingSimulatorSkipshinystage", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TappingSimulatorSkipshinystage.lua")
