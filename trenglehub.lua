@@ -6677,3 +6677,5 @@ addscriptexist(8396586868, "A0nePieceGameAutoSkillAutoFarmAutoPunch", "Qalnik", 
     
 addscript(6384825976,"SCP-3008 [Esp]", "SCP3008Esp", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SCP3008Esp.lua")
                     
+                    
+addscriptexist(735030788, "RoyaleHighEggHunt", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RoyaleHighEggHunt.lua")
