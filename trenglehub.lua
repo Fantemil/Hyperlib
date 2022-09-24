@@ -8301,3 +8301,5 @@ addscript(6219745799,"Vibe Airline [Make Seats freak Out]", "VibeAirlineMakeSeat
     
 addscript(2990100290,"RPG Simulator [Auto Farm, Auto Skill]", "RPGSimulatorAutoFarmAutoSkill", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RPGSimulatorAutoFarmAutoSkill.lua")
                     
+                    
+addscriptexist(258258996, "MinersHavenAutoFarmAUTOSACRAFICECrateTp", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MinersHavenAutoFarmAUTOSACRAFICECrateTp.lua")
