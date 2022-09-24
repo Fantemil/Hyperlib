@@ -6567,3 +6567,5 @@ addscriptexist(8781849572, "StarSimulatorBetaUnlockEveryonesLand", "Terni", "htt
 addscriptexist(3623096087, "MuscleLegendsKillLocationPirStats", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MuscleLegendsKillLocationPirStats.lua")
                     
 addscriptexist(2248408710, "DestructionSimulatorAutoSellGunModsNoclip", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DestructionSimulatorAutoSellGunModsNoclip.lua")
+                    
+addscriptexist(4924922222, "BrookhavenHomeMenuHouseMenuPlayersMemu", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BrookhavenHomeMenuHouseMenuPlayersMemu.lua")
