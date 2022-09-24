@@ -7702,3 +7702,6 @@ addscript(4586420508,"Speed Simulator [Auto Farming Drink]", "SpeedSimulatorAuto
                     
                     
 addscriptexist(13822889, "LumberTycoon2MenuDarkMode", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LumberTycoon2MenuDarkMode.lua")
+    
+addscript(6628835921,"Money Simulator X [Auto Farming]", "MoneySimulatorXAutoFarming", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MoneySimulatorXAutoFarming.lua")
+                    
