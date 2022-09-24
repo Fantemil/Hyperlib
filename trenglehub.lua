@@ -3010,3 +3010,5 @@ addscriptexist(7655745946, "DunkingSimulatorFreeAvatarItems", "Terni", "https://
     
 addscript(9817495903,"Impossible Red Light, Green Light! [Teleport To The Finish Line]", "ImpossibleRedLightGreenLightTeleportToTheFinishLine", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ImpossibleRedLightGreenLightTeleportToTheFinishLine.lua")
                     
+                    
+addscriptexist(292439477, "PhantomForcesGranadeAimbot", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PhantomForcesGranadeAimbot.lua")
