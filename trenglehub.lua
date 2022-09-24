@@ -1647,3 +1647,6 @@ addscript(7055501563,"Public Bathroom Simulator [Crash Server]", "PublicBathroom
                     
                     
 addscriptexist(5490351219, "ClickerMadnessAutoOpenEggAutoClickerTp", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ClickerMadnessAutoOpenEggAutoClickerTp.lua")
+    
+addscript(9598746251,"Home Run Simulator [Auto home Run Auto Upgrade, Auto rebirth]", "HomeRunSimulatorAutohomeRunAutoUpgradeAutorebirth", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/HomeRunSimulatorAutohomeRunAutoUpgradeAutorebirth.lua")
+                    
