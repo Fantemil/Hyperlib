@@ -3989,3 +3989,5 @@ addscriptexist(8750997647, "TappingLegendsXGUIAutoTapAutoRebirthMore", "Terni", 
 addscriptexist(8303902695, "PetPosseGUIAutoFarmSelectedZoneUnlockAllGamepassesMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PetPosseGUIAutoFarmSelectedZoneUnlockAllGamepassesMore.lua")
                     
 addscriptexist(8123652942, "LegendPieceInfiniteLevel", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LegendPieceInfiniteLevel.lua")
+                    
+addscriptexist(9662949425, "PunchabrickwallsimulatorInfiniteMoneyMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PunchabrickwallsimulatorInfiniteMoneyMore.lua")

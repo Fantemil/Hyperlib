@@ -1,0 +1,2 @@
+-- https://www.roblox.com/games/9662949425/Punch-a-brick-wall-simulator
+loadstring(game:HttpGet('https://raw.githubusercontent.com/luckycdev/robloxscripts/main/punchabrickwallsimulatorscript.lua',true))()
