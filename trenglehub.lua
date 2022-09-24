@@ -4746,3 +4746,5 @@ addscriptexist(6937208251, "StarWarsBattlegroundsGunModsPressV", "Terni", "https
 addscriptexist(4540286603, "NORTHWINDBirdESP", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NORTHWINDBirdESP.lua")
                     
 addscriptexist(1537690962, "BeeSwarmSimulatorAutoFarmAutoDigFarmFlames", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BeeSwarmSimulatorAutoFarmAutoDigFarmFlames.lua")
+                    
+addscriptexist(2753915549, "BloxFruitsAutoFarmLevelFastAttackAutoNewWorld", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BloxFruitsAutoFarmLevelFastAttackAutoNewWorld.lua")
