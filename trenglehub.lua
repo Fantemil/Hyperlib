@@ -6561,3 +6561,5 @@ addscript(7094672259,"Criminal Russia RP [Auto Farm]", "CriminalRussiaRPAutoFarm
 addscriptexist(2753915549, "BloxFruitsGUIMobFarmInfStam", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BloxFruitsGUIMobFarmInfStam.lua")
                     
 addscriptexist(185655149, "WelcomeToBloxburgFreeAutoFarm", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/WelcomeToBloxburgFreeAutoFarm.lua")
+                    
+addscriptexist(8781849572, "StarSimulatorBetaUnlockEveryonesLand", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/StarSimulatorBetaUnlockEveryonesLand.lua")
