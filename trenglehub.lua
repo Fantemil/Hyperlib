@@ -2994,3 +2994,5 @@ addscriptexist(606849621, "JailbreakFERESIZEWITHNOLIMIT", "Qalnik", "https://raw
     
 addscript(9677464361,"Basketball Pro Simulator [Auto Farm, uto Upgrade]", "BasketballProSimulatorAutoFarmutoUpgrade", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BasketballProSimulatorAutoFarmutoUpgrade.lua")
                     
+                    
+addscriptexist(9744597824, "SeaPieceAutoFarmAutoStatsTeleport", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SeaPieceAutoFarmAutoStatsTeleport.lua")
