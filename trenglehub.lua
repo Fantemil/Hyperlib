@@ -7048,3 +7048,6 @@ addscript(7951464846,"Penguin Tycoon [Auto Fish]", "PenguinTycoonAutoFish", "Ter
                     
                     
 addscriptexist(1962086868, "TowerofHellAutoWinGodmodeRemoveKillparts", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TowerofHellAutoWinGodmodeRemoveKillparts.lua")
+    
+addscript(7256524608,"Streaming Simulator [Top Chair]", "StreamingSimulatorTopChair", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/StreamingSimulatorTopChair.lua")
+                    
