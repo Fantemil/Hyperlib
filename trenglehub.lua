@@ -1578,3 +1578,6 @@ addscript(7453798168,"YouTube Simulator X [AutoCandy, AutoClick]", "YouTubeSimul
 addscriptexist(382378111330000, "SaberSimulatorAutoSwingAutoBuy", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SaberSimulatorAutoSwingAutoBuy.lua")
                     
 addscriptexist(2788229376, "DaHoodSilentAimFlyWalkSpeed", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DaHoodSilentAimFlyWalkSpeed.lua")
+    
+addscript(452074908135,"King Legacy [Inf Dash, AutoFarm]", "KingLegacyInfDashAutoFarm", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/KingLegacyInfDashAutoFarm.lua")
+                    
