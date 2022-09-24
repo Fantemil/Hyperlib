@@ -5422,3 +5422,5 @@ addscriptexist(6263325292, "BloxburgAntiTeleportBypass", "Terni", "https://raw.g
 addscriptexist(1224212277, "MadCityInstantVillain", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MadCityInstantVillain.lua")
                     
 addscriptexist(9344944754, "HunterxAthenaAutoFarmGUI", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/HunterxAthenaAutoFarmGUI.lua")
+                    
+addscriptexist(9344944754, "HunterxAthenaAutoFarmGUINew", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/HunterxAthenaAutoFarmGUINew.lua")
