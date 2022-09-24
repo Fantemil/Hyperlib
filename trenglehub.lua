@@ -8756,3 +8756,6 @@ addscriptexist(6628835921, "MoneySimulatorXMOREFUNCTIONAUTOFARM", "Terni", "http
 addscriptexist(2727067538, "WorldZeroKILLAURAAUTOFEEDPETAUTOITEM", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/WorldZeroKILLAURAAUTOFEEDPETAUTOITEM.lua")
                     
 addscriptexist(621129760, "KATBESTHUBAUTOKILLESPMORE", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/KATBESTHUBAUTOKILLESPMORE.lua")
+    
+addscript(6073366803,"Rage Runner [AUTO-WIN, INF Jump, No Fall]", "RageRunnerAUTOWININFJumpNoFall", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RageRunnerAUTOWININFJumpNoFall.lua")
+                    
