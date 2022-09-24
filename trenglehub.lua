@@ -2715,3 +2715,6 @@ addscriptexist(9733390246, "StairTappersAutoPlay", "Terni", "https://raw.githubu
     
 addscript(8123652942,"Legend Piece [Instant Kill Mobs]", "LegendPieceInstantKillMobs", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LegendPieceInstantKillMobs.lua")
                     
+    
+addscript(7183242684,"Strength Training Simulator [Auto Farm - GUI]", "StrengthTrainingSimulatorAutoFarmGUI", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/StrengthTrainingSimulatorAutoFarmGUI.lua")
+                    
