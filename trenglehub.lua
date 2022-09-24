@@ -2808,3 +2808,5 @@ addscriptexist(2727067538, "WorldZeroV18WarlordClass", "Terni", "https://raw.git
     
 addscript(7715234692,"cart ride around a 75 KW Diesel Generator [Anti Cheat Bypass]", "cartridearounda75KWDieselGeneratorAntiCheatBypass", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/cartridearounda75KWDieselGeneratorAntiCheatBypass.lua")
                     
+                    
+addscriptexist(7560156054, "ClickingSimulatorUnlockShinyKingTophat", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ClickingSimulatorUnlockShinyKingTophat.lua")
