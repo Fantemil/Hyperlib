@@ -1619,3 +1619,5 @@ addscriptexist(3351674303, "DrivingEmpireAutoFarmAutoRace", "astrofile", "https:
 addscriptexist(9658251985, "TheRakeKillTestKillRakeOnOfPowerShadowHour", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TheRakeKillTestKillRakeOnOfPowerShadowHour.lua")
                     
 addscriptexist(6428174188, "LOSTRPGGetallitems", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LOSTRPGGetallitems.lua")
+                    
+addscriptexist(292439477, "PhantomForcesNoRecoil", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PhantomForcesNoRecoil.lua")
