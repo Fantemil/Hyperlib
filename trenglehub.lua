@@ -5225,3 +5225,5 @@ addscriptexist(6769764667, "FactorySimulatorGUIAutoBuyAutoCollect", "Terni", "ht
 addscriptexist(7214610985, "Stealth2FastAutoFarm", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Stealth2FastAutoFarm.lua")
                     
 addscriptexist(7622046644, "MonsterGhoulInstantKill", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MonsterGhoulInstantKill.lua")
+                    
+addscriptexist(9488143445, "RaiseABloppaAutoCollectMoneyAddMoneyInfiniteMoney", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RaiseABloppaAutoCollectMoneyAddMoneyInfiniteMoney.lua")
