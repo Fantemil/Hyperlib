@@ -3743,3 +3743,6 @@ addscript(7182546997,"Attack on Titan Vengeance [Auto Farm Titan]", "AttackonTit
                     
                     
 addscriptexist(7182546997, "AttackonTitanVengeanceBerserkerAutoFarm", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AttackonTitanVengeanceBerserkerAutoFarm.lua")
+    
+addscript(198116126,"Tradelands [Auto Farm & More!]", "TradelandsAutoFarmMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TradelandsAutoFarmMore.lua")
+                    
