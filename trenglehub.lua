@@ -6429,3 +6429,5 @@ addscriptexist(155382109, "SurviveAndKillTheKillersInArea51GetAnOverpoweredRaygu
     
 addscript(8897454112,"Pet Salon Tycoon [OP Auto Farm]", "PetSalonTycoonOPAutoFarm", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PetSalonTycoonOPAutoFarm.lua")
                     
+                    
+addscriptexist(5116869569, "DoodleWorldAutoFarm", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DoodleWorldAutoFarm.lua")
