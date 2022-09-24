@@ -2059,3 +2059,6 @@ addscript(7009799230,"Pressure Wash Simulator [Inf Money, Auto Clean]", "Pressur
 addscriptexist(286090429, "ArsenalAimbotKillAura", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ArsenalAimbotKillAura.lua")
                     
 addscriptexist(8750997647, "TappingLegendsXAutoClickAutoRebirth", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TappingLegendsXAutoClickAutoRebirth.lua")
+    
+addscript(3467049496,"MARVEL", "MARVELBattlegroundsFreeGamepasses", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MARVELBattlegroundsFreeGamepasses.lua")
+                    
