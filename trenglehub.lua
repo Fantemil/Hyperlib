@@ -5120,3 +5120,5 @@ addscriptexist(7830918930, "GucciTownAutoFarmAutoCollectGemsMore", "Terni", "htt
     
 addscript(2619187362,"Super Power Fighting Simulator [GUI - Auto Train, Auto Quest & More!]", "SuperPowerFightingSimulatorGUIAutoTrainAutoQuestMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SuperPowerFightingSimulatorGUIAutoTrainAutoQuestMore.lua")
                     
+                    
+addscriptexist(8540346411, "RebirthChampionsXGUIAutoFarmAutoRebirthMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RebirthChampionsXGUIAutoFarmAutoRebirthMore.lua")
