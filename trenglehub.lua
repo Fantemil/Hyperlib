@@ -7381,3 +7381,6 @@ addscript(6166086846,"Street Sweeper [One Punch And Hitboxes]", "StreetSweeperOn
 addscriptexist(7114303730, "DragonOrbzAutoFarmWithAutoQuest", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DragonOrbzAutoFarmWithAutoQuest.lua")
                     
 addscriptexist(2629642516, "BitcoinMinerSnowflakeFarm", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BitcoinMinerSnowflakeFarm.lua")
+    
+addscript(1240123653,"Zombie Attack [Auto Farm, Walk Speed, Noclip]", "ZombieAttackAutoFarmWalkSpeedNoclip", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ZombieAttackAutoFarmWalkSpeedNoclip.lua")
+                    
