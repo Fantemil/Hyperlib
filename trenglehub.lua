@@ -5134,3 +5134,5 @@ addscript(4087265156,"VERTIGO [No raggdol, No Fall damage, WalkSpeed]", "VERTIGO
     
 addscript(5134682719,"Death Note [Find Kira Easily]", "DeathNoteFindKiraEasily", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DeathNoteFindKiraEasily.lua")
                     
+                    
+addscriptexist(8357510970, "AnimePunchingSimulatorGUIAutoClickAutoBuyMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AnimePunchingSimulatorGUIAutoClickAutoBuyMore.lua")
