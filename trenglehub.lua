@@ -8153,3 +8153,5 @@ addscriptexist(4632627223, "BlackGrimoireWellAutoQuest", "Qalnik", "https://raw.
 addscriptexist(4111023553, "DeepwokenServerHop", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DeepwokenServerHop.lua")
                     
 addscriptexist(2693023319, "ExpeditionAntarcticaNodamagewater", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ExpeditionAntarcticaNodamagewater.lua")
+                    
+addscriptexist(2693023319, "ExpeditionAntarcticaInfEnergyExhaustion", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ExpeditionAntarcticaInfEnergyExhaustion.lua")
