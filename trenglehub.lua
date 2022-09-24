@@ -7094,3 +7094,5 @@ addscript(7150360576,"A Bizarre Village [Kill All]", "ABizarreVillageKillAll", "
 addscriptexist(9945521676, "RobloxChatBypass", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RobloxChatBypass.lua")
                     
 addscriptexist(2629642516, "BitcoinMinerAutoSnowFlakeAutoOvetclockAutoCrates", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BitcoinMinerAutoSnowFlakeAutoOvetclockAutoCrates.lua")
+                    
+addscriptexist(6055959032, "JailbirdBanBypass", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/JailbirdBanBypass.lua")
