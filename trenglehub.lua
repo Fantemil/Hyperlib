@@ -4300,3 +4300,5 @@ addscript(7089072882,"HE-MAN SIM [Instant Max Out Character]", "HEMANSIMInstantM
                     
                     
 addscriptexist(7336302630, "ProjectDeltaAntiDrownAndSeeUnderwater", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ProjectDeltaAntiDrownAndSeeUnderwater.lua")
+                    
+addscriptexist(9017974931, "ValobloxKillAll", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ValobloxKillAll.lua")
