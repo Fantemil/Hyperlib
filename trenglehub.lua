@@ -5648,3 +5648,6 @@ addscriptexist(9530846958, "Epsilon2GUIV1AutoTrinketMore", "Terni", "https://raw
 addscriptexist(155382109, "SurviveandkillthekillersinArea51GUIGiveAllGuns", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SurviveandkillthekillersinArea51GUIGiveAllGuns.lua")
                     
 addscriptexist(2753915549, "BloxfruitsHOHOHUB", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BloxfruitsHOHOHUB.lua")
+    
+addscript(6297822481,"Titan Warfare [The #1 Free GUI]", "TitanWarfareThe1FreeGUI", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TitanWarfareThe1FreeGUI.lua")
+                    
