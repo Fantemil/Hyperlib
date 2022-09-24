@@ -4577,3 +4577,5 @@ addscript(2166944189,"Firefighters [Infinite Levels]", "FirefightersInfiniteLeve
                     
                     
 addscriptexist(8798268679, "CrossroadCombatInfiniteMoney", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CrossroadCombatInfiniteMoney.lua")
+                    
+addscriptexist(8750997647, "TappingLegendsAutoFarmAutoEgg", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TappingLegendsAutoFarmAutoEgg.lua")
