@@ -6004,3 +6004,6 @@ addscript(4637668954,"Rensselaer County Beta [RGB Car]", "RensselaerCountyBetaRG
     
 addscript(5584024582,"The Rake Hour Test [Level Multiplier]", "TheRakeHourTestLevelMultiplier", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TheRakeHourTestLevelMultiplier.lua")
                     
+    
+addscript(2927931172,"Shinobi Battlegrounds [Infiniti Yen,Ryo]", "ShinobiBattlegroundsInfinitiYenRyo", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ShinobiBattlegroundsInfinitiYenRyo.lua")
+                    
