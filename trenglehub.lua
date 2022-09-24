@@ -4351,3 +4351,5 @@ addscript(6441847031,"CHAOS [Kill Player]", "CHAOSKillPlayer", "Terni", "https:/
     
 addscript(455366377,"The Streets [Large Decals]", "TheStreetsLargeDecals", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TheStreetsLargeDecals.lua")
                     
+                    
+addscriptexist(2753915549, "BloxFruitsAutoFarm", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BloxFruitsAutoFarm.lua")
