@@ -1524,3 +1524,5 @@ addscript(8425637426,"Write a Letter [Auto Give Notes]", "WriteaLetterAutoGiveNo
                     
                     
 addscriptexist(8737602449, "PLSDONATERandomFoureneCookie", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PLSDONATERandomFoureneCookie.lua")
+                    
+addscriptexist(9304358188, "FindTheMemesGetAll", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FindTheMemesGetAll.lua")
