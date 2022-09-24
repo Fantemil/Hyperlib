@@ -7767,3 +7767,6 @@ addscript(8561066003,"Critical Legends 1 & 2 [GUI - Auto Farm Mobs]", "CriticalL
                     
                     
 addscriptexist(6284583030, "PetSimulatorXNEWServerCrasher", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PetSimulatorXNEWServerCrasher.lua")
+    
+addscript(8107622002,"Heroes Unlimited Testing [LOOP Kill All]", "HeroesUnlimitedTestingLOOPKillAll", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/HeroesUnlimitedTestingLOOPKillAll.lua")
+                    
