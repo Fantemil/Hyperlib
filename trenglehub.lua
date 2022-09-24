@@ -3243,3 +3243,6 @@ addscript(2629642516,"Bitcoin Miner [Anti Card Lag]", "BitcoinMinerAntiCardLag",
                     
                     
 addscriptexist(5571328985, "BloodlinesAutoFarm", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BloodlinesAutoFarm.lua")
+    
+addscript(3686253681,"Planet Simulator [Change Planet Mass]", "PlanetSimulatorChangePlanetMass", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PlanetSimulatorChangePlanetMass.lua")
+                    
