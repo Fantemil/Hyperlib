@@ -4042,3 +4042,5 @@ addscriptexist(8739839954, "JujutsuTycoonKillBoss", "Terni", "https://raw.github
 addscriptexist(8739839954, "JujutsuTycoonCollectLoot", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/JujutsuTycoonCollectLoot.lua")
                     
 addscriptexist(1730877806, "GrandPieceOnlineBountyESP", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/GrandPieceOnlineBountyESP.lua")
+                    
+addscriptexist(6678877691, "ZOぞSAMURAITeleportAura", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ZOぞSAMURAITeleportAura.lua")
