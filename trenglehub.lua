@@ -6372,3 +6372,6 @@ addscriptexist(8781849572, "StarSimulatorBetaInfplanks", "Qalnik", "https://raw.
     
 addscript(8862273695,"Another JToH RPG [Get every item in the game]", "AnotherJToHRPGGeteveryiteminthegame", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AnotherJToHRPGGeteveryiteminthegame.lua")
                     
+    
+addscript(8073154099,"The Intruder [Intruder detection]", "TheIntruderIntruderdetection", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TheIntruderIntruderdetection.lua")
+                    
