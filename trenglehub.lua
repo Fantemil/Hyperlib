@@ -1922,3 +1922,6 @@ addscript(8963721566,"The Backrooms [Third Person]", "TheBackroomsThirdPerson", 
                     
                     
 addscriptexist(6284583030, "PetSimulatorXAutoFarmAutoEggs", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PetSimulatorXAutoFarmAutoEggs.lua")
+    
+addscript(10325366821,"OOF Tycoon! [AutoCollect OOFs]", "OOFTycoonAutoCollectOOFs", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OOFTycoonAutoCollectOOFs.lua")
+                    
