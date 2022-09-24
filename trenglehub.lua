@@ -8027,3 +8027,5 @@ addscript(6114360009,"Prison Life 3 [Auto Farm]", "PrisonLife3AutoFarm", "Qalnik
 addscriptexist(6542731310, "DogecoinMiningTycoonGumDupe", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DogecoinMiningTycoonGumDupe.lua")
                     
 addscriptexist(6284583030, "PetSimulatorXAutofarmTroll", "rbxscript", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PetSimulatorXAutofarmTroll.lua")
+                    
+addscriptexist(1899149341, "VehicleTycoonFastMoneyFarm", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/VehicleTycoonFastMoneyFarm.lua")
