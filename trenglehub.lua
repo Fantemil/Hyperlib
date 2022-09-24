@@ -7533,3 +7533,5 @@ addscript(6484864709,"Gym Tycoon [Auto WorkOut, Redeem Codes, Collect Drops]", "
 addscriptexist(4954096313, "FieldTripZAutoHetHealitemsGodModeYourSelfFly", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FieldTripZAutoHetHealitemsGodModeYourSelfFly.lua")
                     
 addscriptexist(7842028704, "AnimeClashSimulatorTheGameSucksAutoBuyPetsAutoEquipbestpets", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AnimeClashSimulatorTheGameSucksAutoBuyPetsAutoEquipbestpets.lua")
+                    
+addscriptexist(3101667897, "LegendsOfSpeedFarmOrbsFastAutoRebirthsAutoWinRace", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LegendsOfSpeedFarmOrbsFastAutoRebirthsAutoWinRace.lua")

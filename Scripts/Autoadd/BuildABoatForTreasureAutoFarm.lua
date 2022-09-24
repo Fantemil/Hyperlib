@@ -1,75 +1,68 @@
---race clicker
+local library = loadstring(game:HttpGet("https://raw.githubusercontent.com/vozoid/ui-backups/main/uwuware-v1.lua"))()
+local client = game:GetService("Players").LocalPlayer
+local infarm = false
+local cancelled = false
 
-local OrionLib = loadstring(game:HttpGet(('https://raw.githubusercontent.com/shlexware/Orion/main/source')))()
-local Player = game.Players.LocalPlayer
-local Window = OrionLib:MakeWindow({Name = "Swep Scripts | Key System", HidePremium = false, SaveConfig = true, ConfigFolder = "OrionTest", IntroText = "Swep Key System"})
+local function farm()
+    infarm = true
 
-OrionLib:MakeNotification({
- Name = "Logged in!",
- Content = "You are Logged in as "..Player.Name.. ".",
- Image = "rbxassetid://4483345998",
- Time = 5
-})
+    local platform = Instance.new("Part", client.Character)
+    platform.Anchored = true
+    platform.Transparency = 1
+    platform.Size = Vector3.new(6, 1, 6)
 
-_G.Key = "SwepBoat"
-_G.KeyInput = "string"
+    local connection
+    connection = game:GetService("RunService").RenderStepped:connect(function()
+        if client.Character:FindFirstChild("HumanoidRootPart") then
+            platform.Position = client.Character.HumanoidRootPart.CFrame * Vector3.new(0, -3.5, 0)
+        else
+            connection:Disconnect()
+        end
+    end)
 
-function SwepHub()
- loadstring(game:HttpGet("https://raw.githubusercontent.com/xkvl2012/SwepScripts/main/bboat"))()
-end
+    task.spawn(function()
+        task.wait(2)
+        firetouchinterest(client.Character.HumanoidRootPart, workspace.BoatStages.NormalStages.TheEnd.GoldenChest.Trigger, 0)
+    end)
+    
+    for i=1,10 do
+        if cancelled then 
+            return 
+        else
+            client.Character.HumanoidRootPart.CFrame = workspace.BoatStages.NormalStages["CaveStage" .. i].DarknessPart.CFrame + Vector3.new(0, -30, 0)
+            
+            task.wait(1)
 
-function CorrectKeyNotification()
-    OrionLib:MakeNotification({
-        Name = "Correct Key!",
-        Content = "You Have Entered The Correct Key!",
-        Image = "rbxassetid://4483345998",
-        Time = 5
-    })
-end
-
-function IncorrectKeyNotification()
-    OrionLib:MakeNotification({
-        Name = "Incorrect Key!",
-        Content = "You Have Entered Incorrect Key!",
-        Image = "rbxassetid://4483345998",
-        Time = 5
-    })
-end
-
-local Tab = Window:MakeTab({
- Name = "Key",
- Icon = "http://www.roblox.com/asset/?id=129697930",
- PremiumOnly = false
-})
-
-Tab:AddTextbox({
- Name = "Enter Key",
- Default = "",
- TextDisappear = true,
- Callback = function(Value)
-  _G.KeyInput = Value
- end   
-})
-
-Tab:AddButton({
- Name = "Check Key",
- Callback = function()
-        if _G.KeyInput == _G.Key then
-                SwepHub()
-                CorrectKeyNotification()
-            else
-                IncorrectKeyNotification()
+            if workspace.BoatStages.NormalStages:FindFirstChild("CaveStage" .. i + 1) then
+                client.Character.HumanoidRootPart.CFrame = workspace.BoatStages.NormalStages["CaveStage" .. i + 1].DarknessPart.CFrame + Vector3.new(0, -30, -20)
             end
-   end    
-})
+        
+            task.wait(0.5)
+        end
+    end
 
-local Section = Tab:AddSection({
- Name = "Discord Invite"
-})
-Tab:AddTextbox({
- Name = "Join Discord For Key!",
- Default = "https://discord.com/invite/ppQTvDAq6C",
- TextDisappear = true,
- Callback = function(Value) 
- end  
-})
+    infarm = false
+end
+
+local main = library:CreateWindow("Build A Boat")
+
+main:AddToggle({text = "Autofarm", flag = "autofarm", callback = function(toggled)
+    cancelled = not toggled
+    if toggled then
+        if not infarm then
+            farm()
+        end
+    else
+        client.Character:WaitForChild("Humanoid").Health = 0
+    end
+end})
+
+library:Init()
+
+game.Players.LocalPlayer.CharacterAdded:Connect(function()  
+    if library.flags.autofarm then
+        workspace.ClaimRiverResultsGold:FireServer()
+        task.wait(6)
+        farm()
+    end
+end)
