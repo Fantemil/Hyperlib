@@ -2264,3 +2264,5 @@ addscriptexist(7009799230, "PressureWashSimulatorInfEvrthInfMoney", "astrofile",
 addscriptexist(10524502174, "OnePunchFightersAutoFarmAutoClick", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OnePunchFightersAutoFarmAutoClick.lua")
                     
 addscriptexist(9203864304, "raiseafloppaAutoCollectAutoFill", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/raiseafloppaAutoCollectAutoFill.lua")
+                    
+addscriptexist(155615604, "PrisonLifeInfStaminaRemovedoors", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PrisonLifeInfStaminaRemovedoors.lua")
