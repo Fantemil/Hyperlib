@@ -5208,3 +5208,5 @@ addscriptexist(1224212277, "MadCitySpawnCarDriveAndWalkOnWater", "Terni", "https
 addscriptexist(6299805723, "AnimeFightersSimulatorGUIAutoFarm", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AnimeFightersSimulatorGUIAutoFarm.lua")
                     
 addscriptexist(4787629450, "BOOGABOOGAGUIKillAuraAutoHealMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BOOGABOOGAGUIKillAuraAutoHealMore.lua")
+                    
+addscriptexist(9573746878, "BleachSenkoShinigami", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BleachSenkoShinigami.lua")
