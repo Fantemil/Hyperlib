@@ -7007,3 +7007,6 @@ addscriptexist(8260276694, "AbilityWarsGUIKillAllMore", "Terni", "https://raw.gi
     
 addscript(5130498426,"AoT:Insertplayground [OP Admin Power]", "AoTInsertplaygroundOPAdminPower", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AoTInsertplaygroundOPAdminPower.lua")
                     
+    
+addscript(8966584990,"Orthoxia Alpha [GodMode]", "OrthoxiaAlphaGodMode", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OrthoxiaAlphaGodMode.lua")
+                    
