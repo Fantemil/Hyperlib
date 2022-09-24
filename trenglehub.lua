@@ -7663,3 +7663,5 @@ addscriptexist(6266940721, "StockRiseInfiniteMoneyFEB2022", "Terni", "https://ra
 addscriptexist(6442957604, "CustomPCTycoonAutoFarmFEB2022", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CustomPCTycoonAutoFarmFEB2022.lua")
                     
 addscriptexist(7681451450, "AnimeSimulatorXAutoFarmGUIFEB2022", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AnimeSimulatorXAutoFarmGUIFEB2022.lua")
+                    
+addscriptexist(7047488135, "SpeedSimulatorAutoLoopGetSpeed", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SpeedSimulatorAutoLoopGetSpeed.lua")
