@@ -7903,3 +7903,5 @@ addscriptexist(7508789810, "DeviousLickSimulatorAutoFarmAutoSellAutoStrength", "
 addscriptexist(2685347741, "GhostSimulatorAutoSell", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/GhostSimulatorAutoSell.lua")
                     
 addscriptexist(7860844204, "LifeSentenceSilentAim", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LifeSentenceSilentAim.lua")
+                    
+addscriptexist(1962086868, "TowerofHellWimAutoWinGodmode", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TowerofHellWimAutoWinGodmode.lua")
