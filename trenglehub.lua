@@ -7854,3 +7854,5 @@ addscriptexist(7993293100, "TsunamiGameFarmPointsWins", "rbxscript", "https://ra
 addscriptexist(7560156054, "ClickerSimulatorAutoRebirth", "rbxscript", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ClickerSimulatorAutoRebirth.lua")
                     
 addscriptexist(566399244, "ElementalBattlegroundsGodModeInvisibility", "rbxscript", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ElementalBattlegroundsGodModeInvisibility.lua")
+                    
+addscriptexist(7346416636, "PopItTradingAdminPanel", "rbxscript", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PopItTradingAdminPanel.lua")
