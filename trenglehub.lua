@@ -1820,3 +1820,6 @@ addscript(8554378337,"WEAPON FIGHTING SIMULATOR [AutoFarm, Collect Rewards]", "W
                     
                     
 addscriptexist(6284583030, "PetSimulatorXAutoHatchAutoFarm", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PetSimulatorXAutoHatchAutoFarm.lua")
+    
+addscript(10476933477,"Strong Ninja Simulator [Auto Hatch, Auto Click]", "StrongNinjaSimulatorAutoHatchAutoClick", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/StrongNinjaSimulatorAutoHatchAutoClick.lua")
+                    
