@@ -5145,3 +5145,6 @@ addscriptexist(2533391464, "SnowmanSimulatorGUIAutoFarmAutoFarmGiftMore", "Terni
     
 addscript(6875469709,"Strongest Punch Simulator [GUI - Auto Punch, Auto Orbs & More!]", "StrongestPunchSimulatorGUIAutoPunchAutoOrbsMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/StrongestPunchSimulatorGUIAutoPunchAutoOrbsMore.lua")
                     
+    
+addscript(5062619730,"War Simulator [Kill All - Open Source]", "WarSimulatorKillAllOpenSource", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/WarSimulatorKillAllOpenSource.lua")
+                    
