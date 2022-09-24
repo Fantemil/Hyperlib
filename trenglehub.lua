@@ -3488,3 +3488,5 @@ addscriptexist(7305309231, "TaxiBossRemoveNPCcars", "Qalnik", "https://raw.githu
     
 addscript(9903808883,"Build a Market Tycoon [Money Booster]", "BuildaMarketTycoonMoneyBooster", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BuildaMarketTycoonMoneyBooster.lua")
                     
+                    
+addscriptexist(10041417653, "TurbosMurderMystery2InfMoney", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TurbosMurderMystery2InfMoney.lua")
