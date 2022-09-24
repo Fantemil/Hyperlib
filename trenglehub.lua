@@ -8683,3 +8683,5 @@ addscriptexist(6198225400, "LegendsReWrittenAutoChestFarm", "Terni", "https://ra
 addscriptexist(4042427666, "AnimeFightingSimulatorAUTOFARMAUTOTPTELEPORTS", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AnimeFightingSimulatorAUTOFARMAUTOTPTELEPORTS.lua")
                     
 addscriptexist(6198225400, "LegendsReWrittenINFGOLD", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LegendsReWrittenINFGOLD.lua")
+                    
+addscriptexist(5104202731, "SouthwestFloridaBetInvivibleGunCarModsAutoJob", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SouthwestFloridaBetInvivibleGunCarModsAutoJob.lua")
