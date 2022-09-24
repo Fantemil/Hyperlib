@@ -7310,3 +7310,5 @@ addscriptexist(2727067538, "WorldZeroKillAuraAutoSellDropsMagnet", "Qalnik", "ht
 addscriptexist(5023820864, "TradeTowerAutoMoneyFarmAutoSellAutoClickUpgrade", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TradeTowerAutoMoneyFarmAutoSellAutoClickUpgrade.lua")
                     
 addscriptexist(3956818381, "NinjaLegendsAutoBuyAutoFarmInfiteJump", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NinjaLegendsAutoBuyAutoFarmInfiteJump.lua")
+                    
+addscriptexist(3956818381, "NinjaLegendsAutoSwingAutoSellBuySwords", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NinjaLegendsAutoSwingAutoSellBuySwords.lua")
