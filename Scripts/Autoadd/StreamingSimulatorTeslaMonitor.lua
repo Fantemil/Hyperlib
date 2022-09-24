@@ -1,0 +1,1 @@
+game.ReplicatedStorage.UpgradeEquip:FireServer("Tesla Monitor")

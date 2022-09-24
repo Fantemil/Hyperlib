@@ -7075,3 +7075,5 @@ addscriptexist(7256524608, "StreamingSimulatorInfenergy", "Qalnik", "https://raw
 addscriptexist(6284583030, "PetSimulatorXDupe", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PetSimulatorXDupe.lua")
                     
 addscriptexist(7256524608, "StreamingSimulatorTrigonComputer", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/StreamingSimulatorTrigonComputer.lua")
+                    
+addscriptexist(7256524608, "StreamingSimulatorTeslaMonitor", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/StreamingSimulatorTeslaMonitor.lua")
