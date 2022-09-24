@@ -3356,3 +3356,6 @@ addscriptexist(1224212277, "MadCitySilentAim", "Qalnik", "https://raw.githubuser
 addscriptexist(5201039691, "TatakaiV2AutoClanSpinner", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TatakaiV2AutoClanSpinner.lua")
                     
 addscriptexist(10001513103, "LimitedWordsUnlimitedspinsunlimitedwords", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LimitedWordsUnlimitedspinsunlimitedwords.lua")
+    
+addscript(6273865312,"Supernatural Simulator [Auto Sell, Auto Lvl Up]", "SupernaturalSimulatorAutoSellAutoLvlUp", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SupernaturalSimulatorAutoSellAutoLvlUp.lua")
+                    
