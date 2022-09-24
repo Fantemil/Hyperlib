@@ -1004,3 +1004,6 @@ addscriptexist(3177438863, "DragonBloxAutoMultiplierZoneAutoAttackAutoRebirth", 
 addscriptexist(3177438863, "DragonBloxAutoAttackAutoRebirth", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DragonBloxAutoAttackAutoRebirth.lua")
                     
 addscriptexist(10192063645, "ThyHoodAutoFarm", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ThyHoodAutoFarm.lua")
+    
+addscript(1242235469,"ball and axe ", "ballandaxeUnlockYourAxeRemoveLimits", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ballandaxeUnlockYourAxeRemoveLimits.lua")
+                    
