@@ -5994,3 +5994,5 @@ addscriptexist(5712833750, "AnimalSimulatorFreeRadio", "Terni", "https://raw.git
 addscriptexist(7167319176, "ChicagoRemasteredAutoFarmGUI", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ChicagoRemasteredAutoFarmGUI.lua")
                     
 addscriptexist(8137333410, "ColorbynumberNearInstantAutoPainter", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ColorbynumberNearInstantAutoPainter.lua")
+                    
+addscriptexist(4410049285, "DrivingSimulatorAutoFarmDiscoverAllAreas", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DrivingSimulatorAutoFarmDiscoverAllAreas.lua")
