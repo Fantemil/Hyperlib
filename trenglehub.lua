@@ -6424,3 +6424,5 @@ addscriptexist(8073154099, "TheIntruderIntruderDetection", "Terni", "https://raw
     
 addscript(7708751418,"Smashing Simulator X [Auto Slash, Auto Rebirth, Auto Open Egg]", "SmashingSimulatorXAutoSlashAutoRebirthAutoOpenEgg", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SmashingSimulatorXAutoSlashAutoRebirthAutoOpenEgg.lua")
                     
+                    
+addscriptexist(155382109, "SurviveAndKillTheKillersInArea51GetAnOverpoweredRaygun", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SurviveAndKillTheKillersInArea51GetAnOverpoweredRaygun.lua")
