@@ -2546,3 +2546,6 @@ addscript(6068693809,"enceladus, but he's real [Break Bot]", "enceladusbuthesrea
                     
                     
 addscriptexist(3522803956, "DeprideislesanatoriumInfEnergyKillaura", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DeprideislesanatoriumInfEnergyKillaura.lua")
+    
+addscript(294790062,"Roblox Titanic [Auto Farm, Walkspeed]", "RobloxTitanicAutoFarmWalkspeed", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RobloxTitanicAutoFarmWalkspeed.lua")
+                    
