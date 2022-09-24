@@ -2512,3 +2512,5 @@ addscriptexist(260606376, "RealisticRoleplay2CashAutoFarm", "astrofile", "https:
     
 addscript(6512923934,"Ultra Clicker Simulator [Auto Click]", "UltraClickerSimulatorAutoClick", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/UltraClickerSimulatorAutoClick.lua")
                     
+                    
+addscriptexist(9970551995, "TouchTheGrassSimulatorKillauraautohatch", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TouchTheGrassSimulatorKillauraautohatch.lua")
