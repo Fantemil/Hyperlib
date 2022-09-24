@@ -1607,3 +1607,6 @@ addscript(629980572334822809536548792287772866629980572302324662457,"Anime Fight
                     
                     
 addscriptexist(8737602449, "PLSDONATEServerHopAutoBeg", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PLSDONATEServerHopAutoBeg.lua")
+    
+addscript(3101667897,"Legends Of Speed [Auto Hoops, AutoRace]", "LegendsOfSpeedAutoHoopsAutoRace", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LegendsOfSpeedAutoHoopsAutoRace.lua")
+                    
