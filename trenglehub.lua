@@ -1501,3 +1501,5 @@ addscript(815405518,"The Floor Is LAVA [Survival Farm, Points Farm]", "TheFloorI
 addscriptexist(8884334497, "MiningClickerSimulatorAutoMineAutoBiyEggAutobuyPickaxe", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MiningClickerSimulatorAutoMineAutoBiyEggAutobuyPickaxe.lua")
                     
 addscriptexist(8458333139, "1LIFEKillTpeveryone", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/1LIFEKillTpeveryone.lua")
+                    
+addscriptexist(10676523834, "RacingRocketUpgradeRocket", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RacingRocketUpgradeRocket.lua")
