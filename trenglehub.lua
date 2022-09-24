@@ -3848,3 +3848,5 @@ addscript(10105990977,"Samsung Space Tycoon [Destroy Everyones FPS]", "SamsungSp
 addscriptexist(8304191830, "AnimeAdventuresFullAutoFarmAutoUpgradeSelectWorld", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AnimeAdventuresFullAutoFarmAutoUpgradeSelectWorld.lua")
                     
 addscriptexist(10105990977, "SamsungSpaceTycoonGetAllItems", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SamsungSpaceTycoonGetAllItems.lua")
+                    
+addscriptexist(4036494886, "GunSimulatorInfiniteMoneyMaxSkillPerShot", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/GunSimulatorInfiniteMoneyMaxSkillPerShot.lua")
