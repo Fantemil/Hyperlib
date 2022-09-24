@@ -7225,3 +7225,5 @@ addscriptexist(286090429, "ArsenalValentinesDayEventFarmHearts", "Terni", "https
     
 addscript(6068707488,"Navy Simulator [Auto Farm, Fly, Walk Speed]", "NavySimulatorAutoFarmFlyWalkSpeed", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NavySimulatorAutoFarmFlyWalkSpeed.lua")
                     
+                    
+addscriptexist(7896264844, "FindtheMarkersCollectallmarkersteleporttomarkersteleporttoworlds", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FindtheMarkersCollectallmarkersteleporttomarkersteleporttoworlds.lua")
