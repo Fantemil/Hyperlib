@@ -1673,3 +1673,5 @@ addscript(10204162989,"Pickaxe Simulator [Auto Mine, Equip Best Pets, Redeem Cod
 addscriptexist(6516141723, "DOORSFullbrightEsp", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DOORSFullbrightEsp.lua")
                     
 addscriptexist(4042427666, "AnimeFightingSimulatorAutoFarmMobFarmChikaraShards", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AnimeFightingSimulatorAutoFarmMobFarmChikaraShards.lua")
+                    
+addscriptexist(6447798030, "FunkyFridayAutoPlayAutoFarm", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FunkyFridayAutoPlayAutoFarm.lua")
