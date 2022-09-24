@@ -7991,3 +7991,5 @@ addscriptexist(537413528, "BuildABoatForTreasureDeleteDamage", "Qalnik", "https:
 addscriptexist(735030788, "RoyaleHighInfDiamond", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RoyaleHighInfDiamond.lua")
                     
 addscriptexist(4459593483, "FORCEInfCredits", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FORCEInfCredits.lua")
+                    
+addscriptexist(6810246027, "extraOrdinaryFreezeenemies", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/extraOrdinaryFreezeenemies.lua")
