@@ -6496,3 +6496,5 @@ addscriptexist(8737602449, "PLSDONATERainbowModdedGoal", "Qalnik", "https://raw.
 addscriptexist(5062619730, "WarSimulatorGunMod", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/WarSimulatorGunMod.lua")
                     
 addscriptexist(8396586868, "AOnePieceGameAutoFarmGUIFruitHopperMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AOnePieceGameAutoFarmGUIFruitHopperMore.lua")
+                    
+addscriptexist(8448735476, "AnimeRiftsGUIAutoFarm", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AnimeRiftsGUIAutoFarm.lua")
