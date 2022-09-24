@@ -2473,3 +2473,6 @@ addscriptexist(292439477, "PhantomForcesNorecoil", "astrofile", "https://raw.git
 addscriptexist(286090429, "ArsenalESPAimbot", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ArsenalESPAimbot.lua")
                     
 addscriptexist(9872472334, "EvadeWalkspeed", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/EvadeWalkspeed.lua")
+    
+addscript(10070062081,"Minion Simulator [Auto Farm, Walkspeed]", "MinionSimulatorAutoFarmWalkspeed", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MinionSimulatorAutoFarmWalkspeed.lua")
+                    
