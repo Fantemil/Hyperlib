@@ -2273,3 +2273,5 @@ addscriptexist(189707, "NaturalDisasterSurvival", "astrofile", "https://raw.gith
     
 addscript(9940051005,"Blox Legends [AutoCollect]", "BloxLegendsAutoCollect", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BloxLegendsAutoCollect.lua")
                     
+                    
+addscriptexist(9498006165, "TappingSimulatorAutoClicker", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TappingSimulatorAutoClicker.lua")
