@@ -3385,3 +3385,5 @@ addscriptexist(9940051005, "BloxLegendsInfiniteTokens", "Terni", "https://raw.gi
 addscriptexist(606849621, "JailbreakNoFallDamage", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/JailbreakNoFallDamage.lua")
                     
 addscriptexist(8054462345, "MichaelsZombiesHeadshotinstareload", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MichaelsZombiesHeadshotinstareload.lua")
+                    
+addscriptexist(863266079, "APOCRISER2InfJumpPlayerEspShowHealth", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/APOCRISER2InfJumpPlayerEspShowHealth.lua")
