@@ -7770,3 +7770,6 @@ addscriptexist(6284583030, "PetSimulatorXNEWServerCrasher", "Terni", "https://ra
     
 addscript(8107622002,"Heroes Unlimited Testing [LOOP Kill All]", "HeroesUnlimitedTestingLOOPKillAll", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/HeroesUnlimitedTestingLOOPKillAll.lua")
                     
+    
+addscript(3738091713,"Boxing League [Auto Pushing Bag - Open Sourse]", "BoxingLeagueAutoPushingBagOpenSourse", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BoxingLeagueAutoPushingBagOpenSourse.lua")
+                    
