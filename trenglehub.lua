@@ -3675,3 +3675,6 @@ addscriptexist(5956785391, "ProjectSlayersDatawipeagain", "Qalnik", "https://raw
     
 addscript(7140186081,"GunGame [Kill All]", "GunGameKillAll", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/GunGameKillAll.lua")
                     
+    
+addscript(5357899168,"Dinosaur Arcade [BETA] [Fossil Finder]", "DinosaurArcadeBETAFossilFinder", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DinosaurArcadeBETAFossilFinder.lua")
+                    
