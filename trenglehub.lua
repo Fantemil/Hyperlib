@@ -6328,3 +6328,5 @@ addscriptexist(5993942214, "RushPointSilentAIM", "Terni", "https://raw.githubuse
 addscriptexist(4566572536, "VehicleLegendsSpeedBoostSpeedBoostMultiplierRainbowCar", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/VehicleLegendsSpeedBoostSpeedBoostMultiplierRainbowCar.lua")
                     
 addscriptexist(6679274937, "VansWorldBMXAutoCollectCoinsAutoXpGainCompleteAllQuetstMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/VansWorldBMXAutoCollectCoinsAutoXpGainCompleteAllQuetstMore.lua")
+                    
+addscriptexist(8549047195, "AnimeWarriorsSimulatorTeleportToTheFinalWorld", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AnimeWarriorsSimulatorTeleportToTheFinalWorld.lua")
