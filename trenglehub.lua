@@ -1536,3 +1536,5 @@ addscript(9737855826,"Trade Simulator [AntiAFK]", "TradeSimulatorAntiAFK", "astr
                     
                     
 addscriptexist(1962086868, "TowerofHellGodmode", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TowerofHellGodmode.lua")
+                    
+addscriptexist(7180042682, "MilitaryTycoonTargetseventsfarm", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MilitaryTycoonTargetseventsfarm.lua")
