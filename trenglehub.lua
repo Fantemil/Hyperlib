@@ -2441,3 +2441,5 @@ addscriptexist(2788229376, "DaHoodJojoStand", "astrofile", "https://raw.githubus
 addscriptexist(1554960397, "CarDealershipTycoonAutoFarm", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CarDealershipTycoonAutoFarm.lua")
                     
 addscriptexist(7026828578, "SpeedSimulatorAutoFarm", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SpeedSimulatorAutoFarm.lua")
+                    
+addscriptexist(6516141723, "DOORSEsp", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DOORSEsp.lua")
