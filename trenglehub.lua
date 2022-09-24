@@ -5176,3 +5176,6 @@ addscript(7277614831,"Candy Eating Simulator [GUI - Auto Farm, Teleports & More!
                     
                     
 addscriptexist(6677985923, "MillionaireEmpireTycoonGUIGetCashAutoRebirth", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MillionaireEmpireTycoonGUIGetCashAutoRebirth.lua")
+    
+addscript(7429434108,"Anime Tappers [GUI - Auto Farm, Auto Upgrade]", "AnimeTappersGUIAutoFarmAutoUpgrade", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AnimeTappersGUIAutoFarmAutoUpgrade.lua")
+                    
