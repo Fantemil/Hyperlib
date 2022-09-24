@@ -5227,3 +5227,5 @@ addscriptexist(7214610985, "Stealth2FastAutoFarm", "Terni", "https://raw.githubu
 addscriptexist(7622046644, "MonsterGhoulInstantKill", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MonsterGhoulInstantKill.lua")
                     
 addscriptexist(9488143445, "RaiseABloppaAutoCollectMoneyAddMoneyInfiniteMoney", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RaiseABloppaAutoCollectMoneyAddMoneyInfiniteMoney.lua")
+                    
+addscriptexist(9508087919, "ApeirophobiaESPExit", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ApeirophobiaESPExit.lua")
