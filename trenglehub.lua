@@ -8593,3 +8593,5 @@ addscript(7739897561,"Impossible Squid game [Click Mark]", "ImpossibleSquidgameC
 addscriptexist(6711562581, "EightDriverCarRacingStatsCarModifier", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/EightDriverCarRacingStatsCarModifier.lua")
                     
 addscriptexist(4598019433, "genericroleplaygaemKillAuraESPMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/genericroleplaygaemKillAuraESPMore.lua")
+                    
+addscriptexist(413424176, "CloneTycoon2SetEveryoneOnLeaderboardToAnyNumberYouWant", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CloneTycoon2SetEveryoneOnLeaderboardToAnyNumberYouWant.lua")
