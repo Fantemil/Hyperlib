@@ -2915,3 +2915,6 @@ addscriptexist(7655745946, "DunkingSimulatorGamepass", "Qalnik", "https://raw.gi
     
 addscript(9938879862,"Firefly Garden [Auto Collect]", "FireflyGardenAutoCollect", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FireflyGardenAutoCollect.lua")
                     
+    
+addscript(9894044804,"Blade Simulator [GUI - Auto Farm]", "BladeSimulatorGUIAutoFarm", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BladeSimulatorGUIAutoFarm.lua")
+                    
