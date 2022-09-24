@@ -3712,3 +3712,6 @@ addscriptexist(4588604953, "CriminalityBasedAutoFarm", "Terni", "https://raw.git
     
 addscript(8876694280,"Strong Simulator X [Auto Farm GUI]", "StrongSimulatorXAutoFarmGUI", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/StrongSimulatorXAutoFarmGUI.lua")
                     
+    
+addscript(9359379224,"Chaotic Bean Simulator Early Beta [Slow Auto Farm]", "ChaoticBeanSimulatorEarlyBetaSlowAutoFarm", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ChaoticBeanSimulatorEarlyBetaSlowAutoFarm.lua")
+                    
