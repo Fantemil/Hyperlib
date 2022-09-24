@@ -3027,3 +3027,6 @@ addscript(8916037983,"Starving Artist [Steal Art]", "StarvingArtistStealArt", "Q
                     
                     
 addscriptexist(2788229376, "DahoodSpeedMacro", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DahoodSpeedMacro.lua")
+    
+addscript(5670218884,"Cryptik [Item Esp]", "CryptikItemEsp", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CryptikItemEsp.lua")
+                    
