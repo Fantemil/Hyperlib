@@ -1,0 +1,1 @@
+game:GetService("ReplicatedStorage").Events.ItemDropEvent:FireServer(game:GetService("Players").LocalPlayer.Character,"Cash","Cash",-1000000000)
