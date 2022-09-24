@@ -2991,3 +2991,6 @@ addscript(659222129,"Swordburst 2 [WalkSpeed, Invisibility, INF Sprint]", "Sword
                     
                     
 addscriptexist(606849621, "JailbreakFERESIZEWITHNOLIMIT", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/JailbreakFERESIZEWITHNOLIMIT.lua")
+    
+addscript(9677464361,"Basketball Pro Simulator [Auto Farm, uto Upgrade]", "BasketballProSimulatorAutoFarmutoUpgrade", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BasketballProSimulatorAutoFarmutoUpgrade.lua")
+                    
