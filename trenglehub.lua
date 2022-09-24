@@ -2803,3 +2803,5 @@ addscriptexist(10192063645, "ThyHoodServerCrash", "Terni", "https://raw.githubus
     
 addscript(137885680,"Zombie Rush [GUI - God Mode - Rage Mode]", "ZombieRushGUIGodModeRageMode", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ZombieRushGUIGodModeRageMode.lua")
                     
+                    
+addscriptexist(2727067538, "WorldZeroV18WarlordClass", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/WorldZeroV18WarlordClass.lua")
