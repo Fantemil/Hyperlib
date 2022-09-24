@@ -7677,3 +7677,5 @@ addscript(5358493390,"Admin GUI [cmdX]", "AdminGUIcmdX", "Terni", "https://raw.g
                     
                     
 addscriptexist(8357510970, "AnimePunchingSimulatorGUIAutoClickAutoRebirthMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AnimePunchingSimulatorGUIAutoClickAutoRebirthMore.lua")
+                    
+addscriptexist(8554378337, "WeaponFightingSimulatorGUIFarmingBossGamepass", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/WeaponFightingSimulatorGUIFarmingBossGamepass.lua")
