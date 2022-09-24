@@ -7465,3 +7465,5 @@ addscript(7989049516,"Anime Masters [Auto Punch, Auto Rebirth, Auto Farm]", "Ani
                     
                     
 addscriptexist(301549746, "CounterBloxWallBang", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CounterBloxWallBang.lua")
+                    
+addscriptexist(3102144307, "AnimeClickerSimulatorAutoClickAutoRebirthOpenStar", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AnimeClickerSimulatorAutoClickAutoRebirthOpenStar.lua")
