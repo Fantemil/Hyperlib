@@ -4233,3 +4233,5 @@ addscript(9845369668,"Goofy Ahh Spider-Man [GUI - Give All Skins]", "GoofyAhhSpi
 addscriptexist(8123652942, "LegendPieceFruitChanger", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LegendPieceFruitChanger.lua")
                     
 addscriptexist(6269446951, "SmoothSlicingKillAura", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SmoothSlicingKillAura.lua")
+                    
+addscriptexist(6766156863, "StrongmanWimbledonEventAutoFarm", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/StrongmanWimbledonEventAutoFarm.lua")
