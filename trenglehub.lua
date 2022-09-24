@@ -1395,3 +1395,5 @@ addscript(4809447488,"Venture Tale [AutoRetry, AutoReplay]", "VentureTaleAutoRet
                     
                     
 addscriptexist(10676523834, "RacingRocketFarmPoints", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RacingRocketFarmPoints.lua")
+                    
+addscriptexist(10676523834, "RacingRocketAutobuyEgg", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RacingRocketAutobuyEgg.lua")
