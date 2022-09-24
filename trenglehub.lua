@@ -3807,3 +3807,6 @@ addscript(9281034297,"Goal Kick Simulator [Faster Auto Kick]", "GoalKickSimulato
                     
                     
 addscriptexist(10118559731, "nicosnextbotsEsptpSafeZone", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/nicosnextbotsEsptpSafeZone.lua")
+    
+addscript(568350650,"Fashion Famous [Get Klossette x Reverse_Polarity Backpack]", "FashionFamousGetKlossettexReversePolarityBackpack", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FashionFamousGetKlossettexReversePolarityBackpack.lua")
+                    
