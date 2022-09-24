@@ -2650,3 +2650,5 @@ addscript(6939849554,"Cart Ride Tycoon thru a Cave 2 [Auto farm cash]", "CartRid
     
 addscript(3234050617,"Left 2 Die [Infinite Ammo]", "Left2DieInfiniteAmmo", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Left2DieInfiniteAmmo.lua")
                     
+                    
+addscriptexist(621129760, "KnifeAbilityTestGodMode", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/KnifeAbilityTestGodMode.lua")
