@@ -1984,3 +1984,6 @@ addscript(4962588958,"Teamwork Obby [2 Player Obby] [AutoFarm]", "TeamworkObby2P
     
 addscript(10218821851,"Client Replication [Fe Becoming a monster]", "ClientReplicationFeBecomingamonster", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ClientReplicationFeBecomingamonster.lua")
                     
+    
+addscript(8204899140,"Football Fusion 2 [Auto Catch, FootballLock, Auto Captain]", "FootballFusion2AutoCatchFootballLockAutoCaptain", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FootballFusion2AutoCatchFootballLockAutoCaptain.lua")
+                    
