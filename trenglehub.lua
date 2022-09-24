@@ -7621,3 +7621,6 @@ addscript(281489669,"Wizard Tycoon - 2 Player [Kill All]", "WizardTycoon2PlayerK
     
 addscript(4932220972,"Robbing Tycoon [Remote Kill Parts + Grab Money]", "RobbingTycoonRemoteKillPartsGrabMoney", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RobbingTycoonRemoteKillPartsGrabMoney.lua")
                     
+    
+addscript(8303498444,"Blocky World [Mine Ores]", "BlockyWorldMineOres", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BlockyWorldMineOres.lua")
+                    
