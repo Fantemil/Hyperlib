@@ -1487,3 +1487,5 @@ addscriptexist(893973440, "FleetheFacilityHidebeastlight", "Qalnik", "https://ra
     
 addscript(4529536977,"Pembroke Pines [Inf Money]", "PembrokePinesInfMoney", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PembrokePinesInfMoney.lua")
                     
+                    
+addscriptexist(10675066724, "SlimeTowerTycoonAutoCollectAutoSellAutoBuy", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SlimeTowerTycoonAutoCollectAutoSellAutoBuy.lua")
