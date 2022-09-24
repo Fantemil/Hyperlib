@@ -4759,3 +4759,5 @@ addscriptexist(9249776514, "GivenchyBeautyHouseAuroGrab3UGC", "Qalnik", "https:/
 addscriptexist(112420803, "KohlsAdminHouseNBCAdminCMD", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/KohlsAdminHouseNBCAdminCMD.lua")
                     
 addscriptexist(8448735476, "AnimeRiftsAutoAttackAutoSkillsAutoMob", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AnimeRiftsAutoAttackAutoSkillsAutoMob.lua")
+                    
+addscriptexist(4540286603, "NORTHWINDPlayerEsp", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NORTHWINDPlayerEsp.lua")
