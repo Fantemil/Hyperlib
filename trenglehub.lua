@@ -3693,3 +3693,6 @@ addscriptexist(8328351891, "MegaMansionTycoonAutoBuy", "Terni", "https://raw.git
     
 addscript(698448212,"RoBeats! [Free Ugc Item]", "RoBeatsFreeUgcItem", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RoBeatsFreeUgcItem.lua")
                     
+    
+addscript(4850718823,"Skate Park [Free Ugc Items]", "SkateParkFreeUgcItems", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SkateParkFreeUgcItems.lua")
+                    
