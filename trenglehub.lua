@@ -2869,3 +2869,5 @@ addscriptexist(8123652942, "LegendPieceGUIAutoFarming", "Terni", "https://raw.gi
     
 addscript(7664045612,"Tiny Bread Factory [Auto Farm]", "TinyBreadFactoryAutoFarm", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TinyBreadFactoryAutoFarm.lua")
                     
+                    
+addscriptexist(2753915549, "BloxfruitFastAttack", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BloxfruitFastAttack.lua")
