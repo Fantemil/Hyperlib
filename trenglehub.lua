@@ -5024,3 +5024,6 @@ addscript(2423436897,"Witching Hour [Even Better Nail Farm]", "WitchingHourEvenB
                     
                     
 addscriptexist(2788229376, "DaHoodCashCatFarm", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DaHoodCashCatFarm.lua")
+    
+addscript(8549934015,"REx Reincarnated [Auto Farm]", "RExReincarnatedAutoFarm", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RExReincarnatedAutoFarm.lua")
+                    
