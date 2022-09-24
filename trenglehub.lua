@@ -4208,3 +4208,6 @@ addscriptexist(9344944754, "HunterxAthenaAutoPushups", "Terni", "https://raw.git
     
 addscript(504090542,"Battleship Battle [Kill All]", "BattleshipBattleKillAll", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BattleshipBattleKillAll.lua")
                     
+    
+addscript(6155643742,"Fall Block [Click To Activate Tiles Tool]", "FallBlockClickToActivateTilesTool", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FallBlockClickToActivateTilesTool.lua")
+                    
