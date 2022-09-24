@@ -8366,3 +8366,6 @@ addscriptexist(6824046084, "SillysDifficultyChartAutoFarm", "Qalnik", "https://r
     
 addscript(7490012056,"ALL STAR BRAWL [Infinite Awakening]", "ALLSTARBRAWLInfiniteAwakening", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ALLSTARBRAWLInfiniteAwakening.lua")
                     
+    
+addscript(6985028626,"Roblox Community Space", "RobloxCommunitySpaceHolidayEditionGetBackPack", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RobloxCommunitySpaceHolidayEditionGetBackPack.lua")
+                    
