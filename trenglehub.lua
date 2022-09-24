@@ -3216,3 +3216,5 @@ addscriptexist(9702206679, "HeroesDaydreamAutoFarm", "Terni", "https://raw.githu
     
 addscript(10204556059,"NARS Color Quest [Auto Collect All Shades - Complete All]", "NARSColorQuestAutoCollectAllShadesCompleteAll", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NARSColorQuestAutoCollectAllShadesCompleteAll.lua")
                     
+                    
+addscriptexist(10118559731, "nicosnextbotsBHOP", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/nicosnextbotsBHOP.lua")
