@@ -7631,3 +7631,6 @@ addscript(6811842210,"Parkour Run REJOIN AUTO FARM - REMOVE KILL PARTS", "Parkou
                     
                     
 addscriptexist(8303498444, "BlockyWorldMobFarm", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BlockyWorldMobFarm.lua")
+    
+addscript(6859865958,"YouTube Simulator [Auto Farm, Redeem All Codes, Buy all sd cards]", "YouTubeSimulatorAutoFarmRedeemAllCodesBuyallsdcards", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/YouTubeSimulatorAutoFarmRedeemAllCodesBuyallsdcards.lua")
+                    
