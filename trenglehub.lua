@@ -5432,3 +5432,5 @@ addscriptexist(5620664339, "RoStreetsNoFaliLockpick", "Terni", "https://raw.gith
     
 addscript(7014716500,"Pro Border [Get Any Rank , Rank Changer]", "ProBorderGetAnyRankRankChanger", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ProBorderGetAnyRankRankChanger.lua")
                     
+                    
+addscriptexist(6969185078, "ElementalAwakeningInstantCastAttemptsToChangeMaxRangeMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ElementalAwakeningInstantCastAttemptsToChangeMaxRangeMore.lua")
