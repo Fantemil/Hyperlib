@@ -2240,3 +2240,6 @@ addscript(3199109640,"Camping 2 [TP, Walkspeed]", "Camping2TPWalkspeed", "astrof
     
 addscript(4003872968,"Giant Survival! [Inf Money, Best Gun]", "GiantSurvivalInfMoneyBestGun", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/GiantSurvivalInfMoneyBestGun.lua")
                     
+    
+addscript(8531522502,"Facility Of Redemption [WalkSpeed]", "FacilityOfRedemptionWalkSpeed", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FacilityOfRedemptionWalkSpeed.lua")
+                    
