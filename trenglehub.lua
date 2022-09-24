@@ -6889,3 +6889,6 @@ addscript(7543421878,"Insult O Matic - Auto Insult Generator", "InsultOMaticAuto
                     
                     
 addscriptexist(6558291063, "Wouldyourather2AutoFarm", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Wouldyourather2AutoFarm.lua")
+    
+addscript(8110180444,"Strong Pet Simulator [Auto Farm GUI]", "StrongPetSimulatorAutoFarmGUI", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/StrongPetSimulatorAutoFarmGUI.lua")
+                    
