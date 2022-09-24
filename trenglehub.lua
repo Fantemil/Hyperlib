@@ -6140,3 +6140,6 @@ addscript(4505214429,"Soul Eater", "SoulEaterResonanceAutoFarmAutoQuestClicktp",
     
 addscript(9123917180,"Teleporter Simulator [Basic Farm]", "TeleporterSimulatorBasicFarm", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TeleporterSimulatorBasicFarm.lua")
                     
+    
+addscript(9300407930,"Bot Clash [Complete All Quests]", "BotClashCompleteAllQuests", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BotClashCompleteAllQuests.lua")
+                    
