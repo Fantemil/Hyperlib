@@ -1497,3 +1497,5 @@ addscript(7899881670,"RB World 4 [AimBot]", "RBWorld4AimBot", "Qalnik", "https:/
     
 addscript(815405518,"The Floor Is LAVA [Survival Farm, Points Farm]", "TheFloorIsLAVASurvivalFarmPointsFarm", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TheFloorIsLAVASurvivalFarmPointsFarm.lua")
                     
+                    
+addscriptexist(8884334497, "MiningClickerSimulatorAutoMineAutoBiyEggAutobuyPickaxe", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MiningClickerSimulatorAutoMineAutoBiyEggAutobuyPickaxe.lua")
