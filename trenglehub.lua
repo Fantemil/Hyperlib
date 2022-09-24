@@ -2103,3 +2103,5 @@ addscript(2686500207,"A Bizarre Day [Auto Farm, Teleports]", "ABizarreDayAutoFar
 addscriptexist(8737602449, "PLSDONATEFlyEsp", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PLSDONATEFlyEsp.lua")
                     
 addscriptexist(920587237, "AdoptMeAutoFarmBuyanyegg", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AdoptMeAutoFarmBuyanyegg.lua")
+                    
+addscriptexist(1962086868, "TowerofHellGodmodeWin", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TowerofHellGodmodeWin.lua")
