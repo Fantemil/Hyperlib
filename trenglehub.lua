@@ -4417,3 +4417,6 @@ addscript(7839440834,"Sea Cleaning Simulator [Modify Boat Speed & More!]", "SeaC
 addscriptexist(9609300403, "JackpotAutoCaseSell", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/JackpotAutoCaseSell.lua")
                     
 addscriptexist(6755746130, "FruitJuiceTycoonRefreshedAutoFarm", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FruitJuiceTycoonRefreshedAutoFarm.lua")
+    
+addscript(4195834406,"Dragon Ball Online Generations [Auto Teleport, Kill PLayer Aura, Esp]", "DragonBallOnlineGenerationsAutoTeleportKillPLayerAuraEsp", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DragonBallOnlineGenerationsAutoTeleportKillPLayerAuraEsp.lua")
+                    
