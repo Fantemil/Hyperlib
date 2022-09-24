@@ -7202,3 +7202,5 @@ addscriptexist(4580204640, "SurvivetheKillerEsp", "Qalnik", "https://raw.githubu
     
 addscript(3494008884,"Donut Bakery Tycoon [Infity Money]", "DonutBakeryTycoonInfityMoney", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DonutBakeryTycoonInfityMoney.lua")
                     
+                    
+addscriptexist(7842028704, "AnimeClashSimulatorAutoFarmAutoSellFarmBoss", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AnimeClashSimulatorAutoFarmAutoSellFarmBoss.lua")
