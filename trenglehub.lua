@@ -7568,3 +7568,5 @@ addscriptexist(6284583030, "PetSimulatorXCrash", "Terni", "https://raw.githubuse
 addscriptexist(2619187362, "SuperPowerFightingSimulatorAutoTrainAutoMiniChestsAutoQuest", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SuperPowerFightingSimulatorAutoTrainAutoMiniChestsAutoQuest.lua")
                     
 addscriptexist(648362523, "BreakingPointAimBotLightOnHiqhSpeed", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BreakingPointAimBotLightOnHiqhSpeed.lua")
+                    
+addscriptexist(6938803436, "AnimeDimensionsSimulatorAutoFarmAutoSkill", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AnimeDimensionsSimulatorAutoFarmAutoSkill.lua")

