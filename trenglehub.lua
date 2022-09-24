@@ -4426,3 +4426,6 @@ addscriptexist(606849621, "JailbreakKeycardUnlockdoors", "Qalnik", "https://raw.
 addscriptexist(9786213478, "TreatSimulatorIsntantbite", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TreatSimulatorIsntantbite.lua")
                     
 addscriptexist(9017974931, "ValobloxSilentAimKillAllInfiniteAmmo", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ValobloxSilentAimKillAllInfiniteAmmo.lua")
+    
+addscript(5646604884,"Crimson Craftwars [Insta Kill All, God Mode, Fastest Auto-Mine]", "CrimsonCraftwarsInstaKillAllGodModeFastestAutoMine", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CrimsonCraftwarsInstaKillAllGodModeFastestAutoMine.lua")
+                    
