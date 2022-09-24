@@ -5852,3 +5852,5 @@ addscriptexist(8403541179, "BloodEngineIISlashManiaKillAll", "Terni", "https://r
     
 addscript(2631794742,"City of Ottawa [Kill All - Get Gun]", "CityofOttawaKillAllGetGun", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CityofOttawaKillAllGetGun.lua")
                     
+                    
+addscriptexist(9103460924, "SwordFactoryXAutoSpawnAutoKillBoss", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SwordFactoryXAutoSpawnAutoKillBoss.lua")
