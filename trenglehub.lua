@@ -7197,3 +7197,5 @@ addscript(527730528,"Magic Training", "MagicTraining", "Qalnik", "https://raw.gi
     
 addscript(7424863999,"Super Hero VS God Tycoon [Inf Money]", "SuperHeroVSGodTycoonInfMoney", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SuperHeroVSGodTycoonInfMoney.lua")
                     
+                    
+addscriptexist(4580204640, "SurvivetheKillerEsp", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SurvivetheKillerEsp.lua")
