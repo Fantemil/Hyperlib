@@ -7486,3 +7486,6 @@ addscript(8690998110,"Gorilla Tag Professional [INFINITE WINS & MORE!]", "Gorill
                     
                     
 addscriptexist(8054462345, "MichaelsZombiesInstalKill", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MichaelsZombiesInstalKill.lua")
+    
+addscript(137877687,"RoCitizens [Auto Farm]", "RoCitizensAutoFarm", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RoCitizensAutoFarm.lua")
+                    
