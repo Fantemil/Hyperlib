@@ -2544,3 +2544,5 @@ addscriptexist(3956818381, "NinjaLegendsAutoSwingAutoSell", "astrofile", "https:
     
 addscript(6068693809,"enceladus, but he's real [Break Bot]", "enceladusbuthesrealBreakBot", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/enceladusbuthesrealBreakBot.lua")
                     
+                    
+addscriptexist(3522803956, "DeprideislesanatoriumInfEnergyKillaura", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DeprideislesanatoriumInfEnergyKillaura.lua")
