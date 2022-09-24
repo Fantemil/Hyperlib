@@ -8424,3 +8424,5 @@ addscript(5535087806,"Tapping Mania [Easy Stats, Auto-Farm]", "TappingManiaEasyS
 addscriptexist(6403373529, "SlapBattlesKillAuraAntiRagdollAntiTimeStop", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SlapBattlesKillAuraAntiRagdollAntiTimeStop.lua")
                     
 addscriptexist(3738091713, "BoxingLeagueNoSlow", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BoxingLeagueNoSlow.lua")
+                    
+addscriptexist(6802248248, "SAITAMANIAAutoFarmKillAura", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SAITAMANIAAutoFarmKillAura.lua")
