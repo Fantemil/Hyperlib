@@ -4773,3 +4773,5 @@ addscript(7799826347,"Sandbox Tycoon [SANDBOX SCHEMATICS OVERPOWERED GUI]", "San
 addscriptexist(3271747724, "MEGABossSurvivalInfiniteMoney", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MEGABossSurvivalInfiniteMoney.lua")
                     
 addscriptexist(9049840490, "SonicSpeedSimulatorInstantlyget75kChiliDogs", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SonicSpeedSimulatorInstantlyget75kChiliDogs.lua")
+                    
+addscriptexist(292439477, "PhantomForcesOpenSourceESP", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PhantomForcesOpenSourceESP.lua")
