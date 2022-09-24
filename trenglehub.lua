@@ -6754,3 +6754,6 @@ addscript(8365905206,"Untitled Tag Game [Coin Auto-Collector]", "UntitledTagGame
                     
                     
 addscriptexist(6783611814, "BuildaBoattoSurviveBagde", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BuildaBoattoSurviveBagde.lua")
+    
+addscript(4499822233,"Star Wars Bounty Hunters Outer Rim [Kill All, Infinity Credits & Kill All Bounties]", "StarWarsBountyHuntersOuterRimKillAllInfinityCreditsKillAllBounties", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/StarWarsBountyHuntersOuterRimKillAllInfinityCreditsKillAllBounties.lua")
+                    
