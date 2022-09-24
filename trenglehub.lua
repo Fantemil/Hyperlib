@@ -2777,3 +2777,6 @@ addscriptexist(2534724415, "EmergencyResponseLibertyCountyNoRecoil", "Terni", "h
     
 addscript(6902912928,"GET TO THE TOP! [Unlimited Points]", "GETTOTHETOPUnlimitedPoints", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/GETTOTHETOPUnlimitedPoints.lua")
                     
+    
+addscript(2506738224,"Fallen [Esp]", "FallenEsp", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FallenEsp.lua")
+                    
