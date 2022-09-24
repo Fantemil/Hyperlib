@@ -8243,3 +8243,5 @@ addscriptexist(6859865958, "YouTubeSimulatorAutoVidemadeAutoEditVideotp", "Qalni
     
 addscript(6370195843,"Armed Disease Control [AUTO COLLECT PRESENTS]", "ArmedDiseaseControlAUTOCOLLECTPRESENTS", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ArmedDiseaseControlAUTOCOLLECTPRESENTS.lua")
                     
+                    
+addscriptexist(5023820864, "TradeTowerAutoFarm", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TradeTowerAutoFarm.lua")
