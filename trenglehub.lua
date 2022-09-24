@@ -7955,3 +7955,5 @@ addscript(6220960770,"Blades World [Auto Farm]", "BladesWorldAutoFarm", "Qalnik"
     
 addscript(8116417963,"Carcraft [Kill ALl]", "CarcraftKillALl", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CarcraftKillALl.lua")
                     
+                    
+addscriptexist(7791873535, "REALISTICHOODAllGamepass", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/REALISTICHOODAllGamepass.lua")
