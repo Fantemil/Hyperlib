@@ -8696,3 +8696,5 @@ addscript(121891070,"Legend Of Korra [SIMPLE AUTO LEVEL]", "LegendOfKorraSIMPLEA
     
 addscript(7774228661,"Pirates Dream [SIMPLE AUTO FARM MOBS]", "PiratesDreamSIMPLEAUTOFARMMOBS", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PiratesDreamSIMPLEAUTOFARMMOBS.lua")
                     
+                    
+addscriptexist(6769764667, "FactorySimulatorNEWGUIFARM", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FactorySimulatorNEWGUIFARM.lua")
