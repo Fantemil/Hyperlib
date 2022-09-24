@@ -3289,3 +3289,5 @@ addscript(8240600306,"Pet Simulator X! [GUI - Auto Farm]", "PetSimulatorXGUIAuto
 addscriptexist(9983979661, "DragonFarmSimulatorInfiniteCash", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DragonFarmSimulatorInfiniteCash.lua")
                     
 addscriptexist(5571328985, "BloodlinesNoFallDamage", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BloodlinesNoFallDamage.lua")
+                    
+addscriptexist(3686253681, "PlanetSimulatorAutoFarm", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PlanetSimulatorAutoFarm.lua")
