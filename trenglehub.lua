@@ -8161,3 +8161,5 @@ addscriptexist(4616652839, "ShindoLifeChristmasFarmNPCs", "Qalnik", "https://raw
 addscriptexist(2753915549, "BloxFruitsAutoFarmTeleportAutoSkill", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BloxFruitsAutoFarmTeleportAutoSkill.lua")
                     
 addscriptexist(4996049426, "AllStarTowerDefenseCandyFarmAutoChrismaseventQuickLeave", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AllStarTowerDefenseCandyFarmAutoChrismaseventQuickLeave.lua")
+                    
+addscriptexist(306964494, "LoomianLegacyAutoFinder", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LoomianLegacyAutoFinder.lua")
