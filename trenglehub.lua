@@ -8151,3 +8151,5 @@ addscript(168097015,"Star Wars [No Recoil, No Spread, No Overheat]", "StarWarsNo
 addscriptexist(4632627223, "BlackGrimoireWellAutoQuest", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BlackGrimoireWellAutoQuest.lua")
                     
 addscriptexist(4111023553, "DeepwokenServerHop", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DeepwokenServerHop.lua")
+                    
+addscriptexist(2693023319, "ExpeditionAntarcticaNodamagewater", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ExpeditionAntarcticaNodamagewater.lua")
