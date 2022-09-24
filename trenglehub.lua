@@ -3086,3 +3086,5 @@ addscriptexist(6284583030, "PetSimulatorXMasteryAutoFarm", "Terni", "https://raw
     
 addscript(9377039667,"Roblox Innovation Awards Voting Hub [All Hats & Badges]", "RobloxInnovationAwardsVotingHubAllHatsBadges", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RobloxInnovationAwardsVotingHubAllHatsBadges.lua")
                     
+                    
+addscriptexist(7127407851, "AttackonTitanEvolutionFlyToggleWalkspeedInstaKill", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AttackonTitanEvolutionFlyToggleWalkspeedInstaKill.lua")
