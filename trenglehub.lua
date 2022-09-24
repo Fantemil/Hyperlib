@@ -1660,3 +1660,6 @@ addscriptexist(8146731988, "UltraPowerTycoonPowerGrabAllitems", "astrofile", "ht
     
 addscript(7860844204,"Life Sentence [KillAura, ItemFarm]", "LifeSentenceKillAuraItemFarm", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LifeSentenceKillAuraItemFarm.lua")
                     
+    
+addscript(10117551326,"UTBM (Dustpreme Hall drip) [God Mode]", "UTBMDustpremeHalldripGodMode", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/UTBMDustpremeHalldripGodMode.lua")
+                    
