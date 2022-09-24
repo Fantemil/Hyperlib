@@ -2578,3 +2578,5 @@ addscriptexist(10192063645, "ThyhoodNojumpCDTeleports", "astrofile", "https://ra
     
 addscript(9157870347,"Swarm Simulator! [Gamepasses, Auto Farm]", "SwarmSimulatorGamepassesAutoFarm", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SwarmSimulatorGamepassesAutoFarm.lua")
                     
+                    
+addscriptexist(4282985734, "CombatWarriorsSilentaim", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CombatWarriorsSilentaim.lua")
