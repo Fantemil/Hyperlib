@@ -2154,3 +2154,5 @@ addscriptexist(5780309044, "StandsAwakeningAutofarmstandsInstantlychangestands",
     
 addscript(3432786397,"Pet Mining Simulator [Btools, Kill]", "PetMiningSimulatorBtoolsKill", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PetMiningSimulatorBtoolsKill.lua")
                     
+                    
+addscriptexist(9551640993, "MiningSimulator2AutoMineAutoRebirthRedeemAllCodes", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MiningSimulator2AutoMineAutoRebirthRedeemAllCodes.lua")
