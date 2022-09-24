@@ -4370,3 +4370,6 @@ addscriptexist(35397735, "ScubaDivingatQuillLakeGiveallgamepass", "Qalnik", "htt
 addscriptexist(9017974931, "ValobloxAutoOpenCrates", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ValobloxAutoOpenCrates.lua")
                     
 addscriptexist(142823291, "MurderMystery2Visualskins", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MurderMystery2Visualskins.lua")
+    
+addscript(7261493042,"Impossible Glass Bridge Obby [Path revealing]", "ImpossibleGlassBridgeObbyPathrevealing", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ImpossibleGlassBridgeObbyPathrevealing.lua")
+                    
