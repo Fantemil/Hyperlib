@@ -5388,3 +5388,6 @@ addscriptexist(7346416636, "PopItTradingDupeMoney", "Qalnik", "https://raw.githu
     
 addscript(6429245608,"Blood Surge [Bypassed RP Name]", "BloodSurgeBypassedRPName", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BloodSurgeBypassedRPName.lua")
                     
+    
+addscript(9664185826,"Tate McRae Concert Experience [Collect All Coins - Infiniti Score & More!]", "TateMcRaeConcertExperienceCollectAllCoinsInfinitiScoreMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TateMcRaeConcertExperienceCollectAllCoinsInfinitiScoreMore.lua")
+                    
