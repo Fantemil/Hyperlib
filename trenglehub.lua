@@ -7284,3 +7284,5 @@ addscriptexist(8308074824, "MemePieceGetAllItems–EvenAdminItems", "Terni", "ht
 addscriptexist(3623096087, "MuscleLegendsAutoFarmAutoDurabilityAutoRebirth", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MuscleLegendsAutoFarmAutoDurabilityAutoRebirth.lua")
                     
 addscriptexist(7453798168, "YouTubeSimulatorXESPWalkSpeedAntiAfk", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/YouTubeSimulatorXESPWalkSpeedAntiAfk.lua")
+                    
+addscriptexist(7167319176, "ChicagoRemasteredCashFarm", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ChicagoRemasteredCashFarm.lua")
