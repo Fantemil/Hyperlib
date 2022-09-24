@@ -7059,3 +7059,5 @@ addscriptexist(7256524608, "StreamingSimulatorInfMoneyunlockallislands", "Qalnik
 addscriptexist(6284583030, "PetSimulatorXAutohatch", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PetSimulatorXAutohatch.lua")
                     
 addscriptexist(7560156054, "ClickerSimulatorAutoClickAutoCollectChetsAutoBuyJumps", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ClickerSimulatorAutoClickAutoCollectChetsAutoBuyJumps.lua")
+                    
+addscriptexist(7256524608, "StreamingSimulatorUFOCamera", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/StreamingSimulatorUFOCamera.lua")
