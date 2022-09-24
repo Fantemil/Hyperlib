@@ -6765,3 +6765,5 @@ addscript(8099517179,"Color Fling [Auto Farm]", "ColorFlingAutoFarm", "Qalnik", 
     
 addscript(3144588566,"The Lost Land [Auto Farm Ores - Pickup Stuff]", "TheLostLandAutoFarmOresPickupStuff", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TheLostLandAutoFarmOresPickupStuff.lua")
                     
+                    
+addscriptexist(8396586868, "A0nePieceGameAutoFarmAutoSkillAutofergruit", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/A0nePieceGameAutoFarmAutoSkillAutofergruit.lua")
