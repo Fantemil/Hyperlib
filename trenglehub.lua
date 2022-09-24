@@ -4453,3 +4453,5 @@ addscriptexist(654732683, "CarCrushers2AutoFarmSpeedBoostGodmode", "Qalnik", "ht
 addscriptexist(8540168650, "StandUprightRebootedGUIItemsFarmQuestFarmsMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/StandUprightRebootedGUIItemsFarmQuestFarmsMore.lua")
                     
 addscriptexist(9726345231, "DuolingoGameHubDevBadgeRobloxEvent", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DuolingoGameHubDevBadgeRobloxEvent.lua")
+                    
+addscriptexist(2788229376, "DaHoodGUIAimlockKillBotMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DaHoodGUIAimlockKillBotMore.lua")
