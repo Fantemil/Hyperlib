@@ -4240,3 +4240,5 @@ addscript(5136715979,"Cave Simulator [Inf ores]", "CaveSimulatorInfores", "Qalni
                     
                     
 addscriptexist(4459593483, "FORCEPREALPHAGodModeAntiBad", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FORCEPREALPHAGodModeAntiBad.lua")
+                    
+addscriptexist(2809202155, "YourBizarreAdventureAntiTeleportBypass", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/YourBizarreAdventureAntiTeleportBypass.lua")
