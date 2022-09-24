@@ -3104,3 +3104,6 @@ addscript(4581966615,"Anomic [Auto Farm]", "AnomicAutoFarm", "Qalnik", "https://
 addscriptexist(292439477, "PhantomForcesESP", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PhantomForcesESP.lua")
                     
 addscriptexist(5777099015, "CheeseEscapeAutoCollectCheeseGetAllKeysPressAllbuttons", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CheeseEscapeAutoCollectCheeseGetAllKeysPressAllbuttons.lua")
+    
+addscript(6242296404,"Happy Runner [Auto Finish]", "HappyRunnerAutoFinish", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/HappyRunnerAutoFinish.lua")
+                    
