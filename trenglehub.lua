@@ -2769,3 +2769,6 @@ addscriptexist(9285238704, "RaceClickerspeedAntiCheatbypass", "Qalnik", "https:/
 addscriptexist(189707, "NaturalDisastersSurvivalAutoDisasterDetectFreeBallonremovefallDamage", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NaturalDisastersSurvivalAutoDisasterDetectFreeBallonremovefallDamage.lua")
                     
 addscriptexist(9498006165, "TappingSimulatorAutoFarmSkipShinyStage", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TappingSimulatorAutoFarmSkipShinyStage.lua")
+    
+addscript(23578803,"Hotel Elephant [Infinite Money]", "HotelElephantInfiniteMoney", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/HotelElephantInfiniteMoney.lua")
+                    
