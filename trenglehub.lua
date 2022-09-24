@@ -8765,3 +8765,5 @@ addscriptexist(183364845, "SpeedRun4AUTOFARM3UNLOCKALLLEVELS", "Terni", "https:/
 addscriptexist(2202352383, "SuperHeroTrainingSimulatorJumpFarmTeleportFastFarm", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SuperHeroTrainingSimulatorJumpFarmTeleportFastFarm.lua")
                     
 addscriptexist(5712833750, "AnimalSimulatorExpFarmRejoinCollectCheats", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AnimalSimulatorExpFarmRejoinCollectCheats.lua")
+                    
+addscriptexist(4032944086, "WorkoutIslandKillAuraAutoAutoSell", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/WorkoutIslandKillAuraAutoAutoSell.lua")
