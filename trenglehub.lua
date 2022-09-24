@@ -1941,3 +1941,5 @@ addscriptexist(142823291, "MurderMystery2AutoFarmGodmode", "astrofile", "https:/
 addscriptexist(2622527242, "SCPrBreachInfCapacityFastEscape", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SCPrBreachInfCapacityFastEscape.lua")
                     
 addscriptexist(2665326799, "FindTheButtonEspInfJump", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FindTheButtonEspInfJump.lua")
+                    
+addscriptexist(8540346411, "RebirthChampionsXAutoRebrithAutoEquipBestPets", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RebirthChampionsXAutoRebrithAutoEquipBestPets.lua")
