@@ -8318,3 +8318,6 @@ addscript(7608438089,"The Winter Escape [Instantly Claim Items]", "TheWinterEsca
     
 addscript(54865335,"Floppy's Playtime [Ints Win]", "FloppysPlaytimeIntsWin", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FloppysPlaytimeIntsWin.lua")
                     
+    
+addscript(2986677229,"Giant Simulator [Auto Orbs]", "GiantSimulatorAutoOrbs", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/GiantSimulatorAutoOrbs.lua")
+                    
