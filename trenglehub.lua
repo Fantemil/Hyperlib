@@ -3575,3 +3575,5 @@ addscript(9601849832,"Jetpack Battle [Insta-kill]", "JetpackBattleInstakill", "T
                     
                     
 addscriptexist(1962086868, "TowerofhellGUIUltraJumpUltraspeedAdmin", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TowerofhellGUIUltraJumpUltraspeedAdmin.lua")
+                    
+addscriptexist(9103460924, "SwordFactoryXAntiCheatBypass", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SwordFactoryXAntiCheatBypass.lua")
