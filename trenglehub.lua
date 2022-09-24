@@ -7167,3 +7167,5 @@ addscriptexist(5326405001, "BaseBattlesSilentAimPlayerEspFly", "Qalnik", "https:
 addscriptexist(7150360576, "ABizarreVillageItemFarmResetStandgetStand", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ABizarreVillageItemFarmResetStandgetStand.lua")
                     
 addscriptexist(7180042682, "MilitaryTycoonAutoUpgradeAutoSellFly", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MilitaryTycoonAutoUpgradeAutoSellFly.lua")
+                    
+addscriptexist(566399244, "ElementalBattlegroundsAutoFarmStandsAutoFarmGems", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ElementalBattlegroundsAutoFarmStandsAutoFarmGems.lua")
