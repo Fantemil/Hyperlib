@@ -6708,3 +6708,6 @@ addscriptexist(292439477, "PhantomForcesSkinediting", "Qalnik", "https://raw.git
     
 addscript(221718525,"Ninja Tycoon [Auto Click]", "NinjaTycoonAutoClick", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NinjaTycoonAutoClick.lua")
                     
+    
+addscript(6683744559,"Fighters EX [Spoof username]", "FightersEXSpoofusername", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FightersEXSpoofusername.lua")
+                    
