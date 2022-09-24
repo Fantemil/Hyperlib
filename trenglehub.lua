@@ -7043,3 +7043,6 @@ addscript(2971329387,"Cooks Burger [Toggle All Doors]", "CooksBurgerToggleAllDoo
                     
                     
 addscriptexist(109814071, "MedievalWarfareReforgedGUIGameKiller", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MedievalWarfareReforgedGUIGameKiller.lua")
+    
+addscript(7951464846,"Penguin Tycoon [Auto Fish]", "PenguinTycoonAutoFish", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PenguinTycoonAutoFish.lua")
+                    
