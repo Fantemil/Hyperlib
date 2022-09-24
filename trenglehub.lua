@@ -6575,3 +6575,6 @@ addscriptexist(8540346411, "RebirthChampionsXAutoClickAutoClaimChestsAutoBuyUpgr
 addscriptexist(8357510970, "AnimePunchingSimulatorAutoClickRedeemCodesAutoRebirth", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AnimePunchingSimulatorAutoClickRedeemCodesAutoRebirth.lua")
                     
 addscriptexist(45146873, "TowerBattlesModdingTowerPurchasingTeleportAllZombie", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TowerBattlesModdingTowerPurchasingTeleportAllZombie.lua")
+    
+addscript(8893378293,"GRAMMY Week [All quest]", "GRAMMYWeekAllquest", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/GRAMMYWeekAllquest.lua")
+                    
