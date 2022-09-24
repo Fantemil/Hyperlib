@@ -8050,3 +8050,5 @@ addscript(2877178664,"I Dont Feel So Oof [Auto Farm]", "IDontFeelSoOofAutoFarm",
     
 addscript(7336128600,"Pet Legends [GUI Auto Farm Aura & More!]", "PetLegendsGUIAutoFarmAuraMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PetLegendsGUIAutoFarmAuraMore.lua")
                     
+                    
+addscriptexist(3956818381, "NinjaLegendsAutoFarmGui", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NinjaLegendsAutoFarmGui.lua")
