@@ -1623,3 +1623,5 @@ addscript(6778844213,"Euphoria ragdoll testing [Donation Gui]", "Euphoriaragdoll
                     
                     
 addscriptexist(3351674303, "DrivingEmpire", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DrivingEmpire.lua")
+                    
+addscriptexist(662417684, "LUCKYBLOCKSBattlegroundsFlyGetAllItems", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LUCKYBLOCKSBattlegroundsFlyGetAllItems.lua")
