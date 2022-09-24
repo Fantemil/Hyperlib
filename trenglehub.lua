@@ -7145,3 +7145,5 @@ addscript(5546255721,"Rebirth Champions [Auto Click, Unlock GamePasses, Craft Al
                     
                     
 addscriptexist(8834250772, "AttackSimulatorAutoAttackSpawnAutoBuyWeaponsAutoCollectChests", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AttackSimulatorAutoAttackSpawnAutoBuyWeaponsAutoCollectChests.lua")
+                    
+addscriptexist(2727067538, "WorldZeroKillAuraAutoFeedPetWalkSpeed", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/WorldZeroKillAuraAutoFeedPetWalkSpeed.lua")
