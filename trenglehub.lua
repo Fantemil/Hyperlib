@@ -8690,3 +8690,6 @@ addscriptexist(4520749081, "KingLegacyUPDATEHUBBEST", "Terni", "https://raw.gith
     
 addscript(7199972186,"[ALPHA] Blood Engine 2 ", "ALPHABloodEngine2SlashManiaKILLALL", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ALPHABloodEngine2SlashManiaKILLALL.lua")
                     
+    
+addscript(121891070,"Legend Of Korra [SIMPLE AUTO LEVEL]", "LegendOfKorraSIMPLEAUTOLEVEL", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LegendOfKorraSIMPLEAUTOLEVEL.lua")
+                    
