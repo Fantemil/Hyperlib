@@ -3201,3 +3201,5 @@ addscriptexist(1537690962, "BeeSwarmSimulatorChocmocSmartAutofarmFarminboostedfi
     
 addscript(10198661638,"Farm Factory Tycoon [Free Diamonds Remote]", "FarmFactoryTycoonFreeDiamondsRemote", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FarmFactoryTycoonFreeDiamondsRemote.lua")
                     
+                    
+addscriptexist(6284583030, "PetSimulatorXAutoFarm", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PetSimulatorXAutoFarm.lua")
