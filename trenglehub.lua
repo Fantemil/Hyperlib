@@ -6155,3 +6155,5 @@ addscriptexist(35397735, "ScubaDivingatQuillLakeAutoFarmGUI", "Terni", "https://
 addscriptexist(8540168650, "StandUprightRebootedItemGrabber", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/StandUprightRebootedItemGrabber.lua")
                     
 addscriptexist(4522347649, "OrionFreeLIibrary–CleanestUI", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OrionFreeLIibrary–CleanestUI.lua")
+                    
+addscriptexist(5787425661, "ALuckyDayDestroyGame", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ALuckyDayDestroyGame.lua")
