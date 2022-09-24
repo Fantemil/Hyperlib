@@ -8453,3 +8453,5 @@ addscriptexist(286090429, "ArsenalEspAimbot", "Qalnik", "https://raw.githubuserc
 addscriptexist(4490140733, "MyRestaurantAutoFarmFaspNPCsAutoSit", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MyRestaurantAutoFarmFaspNPCsAutoSit.lua")
                     
 addscriptexist(7608438089, "TheWinterEscapeAutoFullCheer", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TheWinterEscapeAutoFullCheer.lua")
+                    
+addscriptexist(6055959032, "JailbirdESP", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/JailbirdESP.lua")
