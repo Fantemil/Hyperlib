@@ -7700,3 +7700,5 @@ addscript(6191637341,"Weapon Simulator 2 [GUI - Auto Power, Damage Kill]", "Weap
     
 addscript(4586420508,"Speed Simulator [Auto Farming Drink]", "SpeedSimulatorAutoFarmingDrink", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SpeedSimulatorAutoFarmingDrink.lua")
                     
+                    
+addscriptexist(13822889, "LumberTycoon2MenuDarkMode", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LumberTycoon2MenuDarkMode.lua")
