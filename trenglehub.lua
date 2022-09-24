@@ -8510,3 +8510,6 @@ addscript(1535701761,"The Clown Killings Reborn [Kill Aura,Esp, HitBox]", "TheCl
 addscriptexist(5874128725, "NoJumpingDifficultyChartObbyFastFarm", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NoJumpingDifficultyChartObbyFastFarm.lua")
                     
 addscriptexist(6403373529, "SlapBattlesHitboxExtender", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SlapBattlesHitboxExtender.lua")
+    
+addscript(5192488964,"Bully some monater [Infiniti Stamina]", "BullysomemonaterInfinitiStamina", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BullysomemonaterInfinitiStamina.lua")
+                    
