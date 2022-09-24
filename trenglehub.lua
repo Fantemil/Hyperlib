@@ -1757,3 +1757,6 @@ addscriptexist(2537430692, "JengaStopGame", "astrofile", "https://raw.githubuser
     
 addscript(4282985734,"Combat Warriors [Esp, KillAura]", "CombatWarriorsEspKillAura", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CombatWarriorsEspKillAura.lua")
                     
+    
+addscript(5154858502,"Murderers vs. Sheriffs [KillAura]", "MurderersvsSheriffsKillAura", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MurderersvsSheriffsKillAura.lua")
+                    
