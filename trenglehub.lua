@@ -6409,3 +6409,5 @@ addscriptexist(3956818381, "NinjaLegendsGUIAutoSwingAutoBuy", "Terni", "https://
 addscriptexist(30869879, "StopItSlenderGUIESP", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/StopItSlenderGUIESP.lua")
                     
 addscriptexist(8916037983, "starvingartistsAutoAdvertise", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/starvingartistsAutoAdvertise.lua")
+                    
+addscriptexist(2768379856, "300827SimpleESP", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/300827SimpleESP.lua")
