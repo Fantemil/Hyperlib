@@ -3619,3 +3619,5 @@ addscriptexist(537413528, "BuildABoatForTreasureAutoFarmTptoclosedplacesAntiafk"
 addscriptexist(5956785391, "ProjectSlayerAutoSpin", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ProjectSlayerAutoSpin.lua")
                     
 addscriptexist(5956785391, "ProjectSlayerClaimSpin", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ProjectSlayerClaimSpin.lua")
+                    
+addscriptexist(5956785391, "ProjectSlayersAutoFastSpin", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ProjectSlayersAutoFastSpin.lua")
