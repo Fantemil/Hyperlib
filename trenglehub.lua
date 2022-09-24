@@ -7087,3 +7087,6 @@ addscriptexist(7800644383, "UntitledHoodSilentAIMAimBot", "Terni", "https://raw.
     
 addscript(331811267,"Innovation Inc. Spaceship [Crash Server]", "InnovationIncSpaceshipCrashServer", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/InnovationIncSpaceshipCrashServer.lua")
                     
+    
+addscript(7150360576,"A Bizarre Village [Kill All]", "ABizarreVillageKillAll", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ABizarreVillageKillAll.lua")
+                    
