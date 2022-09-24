@@ -4685,3 +4685,5 @@ addscriptexist(6788434697, "AniPhobiaInfiniteAmmoMuchMore", "Terni", "https://ra
     
 addscript(7842028704,"Anime Sword Simulator [Auto Sword, Start Auto Rebirths, Redeem all Codes]", "AnimeSwordSimulatorAutoSwordStartAutoRebirthsRedeemallCodes", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AnimeSwordSimulatorAutoSwordStartAutoRebirthsRedeemallCodes.lua")
                     
+                    
+addscriptexist(3101667897, "LegendsOfSpeedStepsFarmGemsFarm", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LegendsOfSpeedStepsFarmGemsFarm.lua")
