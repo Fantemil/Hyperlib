@@ -3053,3 +3053,5 @@ addscriptexist(142823291, "MurderMystery2UnlockAllSkinsClientside", "Terni", "ht
 addscriptexist(5956785391, "ProjectSlayersKillAuraAutoFarmMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ProjectSlayersKillAuraAutoFarmMore.lua")
                     
 addscriptexist(537413528, "BuildaBoatForTreasureAutoFarmingGUI", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BuildaBoatForTreasureAutoFarmingGUI.lua")
+                    
+addscriptexist(3956818381, "NinjaLegendsGUIAutoFarm", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NinjaLegendsGUIAutoFarm.lua")
