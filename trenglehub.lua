@@ -6485,3 +6485,6 @@ addscript(735030788,"Royale High [Gem Farm - Fix & Ear Rape]", "RoyaleHighGemFar
                     
                     
 addscriptexist(7603178367, "ChipotleBurritoBuilderAutoDeliverBurritos", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ChipotleBurritoBuilderAutoDeliverBurritos.lua")
+    
+addscript(6551386772,"Battle Royale Simulator [Hit Box, AIMBOT, ESP]", "BattleRoyaleSimulatorHitBoxAIMBOTESP", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BattleRoyaleSimulatorHitBoxAIMBOTESP.lua")
+                    
