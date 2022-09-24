@@ -2402,3 +2402,5 @@ addscript(5890116343,"Age Simulator [AutoFarm, AutoAge]", "AgeSimulatorAutoFarmA
 addscriptexist(648362523, "BreakingPointDupe", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BreakingPointDupe.lua")
                     
 addscriptexist(6516141723, "DOORSGuiwithcoolfunctions", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DOORSGuiwithcoolfunctions.lua")
+                    
+addscriptexist(8458333139, "1LIGEAutoFarm", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/1LIGEAutoFarm.lua")
