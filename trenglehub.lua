@@ -8312,3 +8312,6 @@ addscript(1499872953,"Boku No Roblox [Auto-Farm, Auto-Use & More!]", "BokuNoRobl
                     
                     
 addscriptexist(4632627223, "BlackGrimoireAutoWood", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BlackGrimoireAutoWood.lua")
+    
+addscript(7608438089,"The Winter Escape [Instantly Claim Items]", "TheWinterEscapeInstantlyClaimItems", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TheWinterEscapeInstantlyClaimItems.lua")
+                    
