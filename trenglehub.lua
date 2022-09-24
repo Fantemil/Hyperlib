@@ -4226,3 +4226,6 @@ addscriptexist(2546155523, "RoVilleAutoRestockBusiness", "Terni", "https://raw.g
     
 addscript(5944009947,"FORCE [TESTING-ZONE] [Trinket Auto Farm & More!]", "FORCETESTINGZONETrinketAutoFarmMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FORCETESTINGZONETrinketAutoFarmMore.lua")
                     
+    
+addscript(9845369668,"Goofy Ahh Spider-Man [GUI - Give All Skins]", "GoofyAhhSpiderManGUIGiveAllSkins", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/GoofyAhhSpiderManGUIGiveAllSkins.lua")
+                    
