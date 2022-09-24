@@ -4920,3 +4920,5 @@ addscript(6953291455,"Eating Simulator [AutoEat, AutoFarm, AutoSell]", "EatingSi
                     
                     
 addscriptexist(8592863835, "MagnetSimulator2AutoCollectCoinsGetAllGamepasses", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MagnetSimulator2AutoCollectCoinsGetAllGamepasses.lua")
+                    
+addscriptexist(6804602922, "BoxingLegendsAimBotTriggerbotESP", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BoxingLegendsAimBotTriggerbotESP.lua")
