@@ -1862,3 +1862,6 @@ addscriptexist(5602055394, "HoodModdedInfJumpEsp", "astrofile", "https://raw.git
 addscriptexist(8962384769, "FireworkSimulatorAutoHatchAutoFarm", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FireworkSimulatorAutoHatchAutoFarm.lua")
                     
 addscriptexist(286090429, "ArsenalGodmode", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ArsenalGodmode.lua")
+    
+addscript(9757510382,"Trade Simulator [AutoFarm]", "TradeSimulatorAutoFarm", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TradeSimulatorAutoFarm.lua")
+                    
