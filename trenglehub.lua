@@ -8609,3 +8609,5 @@ addscriptexist(7444263453, "JetpackJumpersNewBagINFJumps", "Terni", "https://raw
 addscriptexist(6711562581, "EightDriverCarRacingDestroyerFucker", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/EightDriverCarRacingDestroyerFucker.lua")
                     
 addscriptexist(6284583030, "PetSimulatorXEasyWithdrawDepositToBank", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PetSimulatorXEasyWithdrawDepositToBank.lua")
+                    
+addscriptexist(6284583030, "PetSimulatorXDupeGemDupe", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PetSimulatorXDupeGemDupe.lua")
