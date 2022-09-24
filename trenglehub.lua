@@ -3481,3 +3481,5 @@ addscriptexist(6403373529, "SlapBattlesKillAuraNoCooldown", "Terni", "https://ra
 addscriptexist(8203181639, "SyrianShenanigansgiveyourselftonsoffraggrenades", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SyrianShenanigansgiveyourselftonsoffraggrenades.lua")
                     
 addscriptexist(8203181639, "SyrianShenanigansSlowdownthesniperscope", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SyrianShenanigansSlowdownthesniperscope.lua")
+                    
+addscriptexist(8203181639, "SyrianShenanigansFixingcarstanks", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SyrianShenanigansFixingcarstanks.lua")
