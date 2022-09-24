@@ -8800,3 +8800,5 @@ addscriptexist(189707, "NaturalDisasterSurvivalFreeeCompasNaturalDetectNoFallDam
     
 addscript(7485253727,"True Piece [Auto Farm mobs, Auto Quest, Fruit Farm]", "TruePieceAutoFarmmobsAutoQuestFruitFarm", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TruePieceAutoFarmmobsAutoQuestFruitFarm.lua")
                     
+                    
+addscriptexist(2788229376, "DaHoodAntoLockSilentAimEsp", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DaHoodAntoLockSilentAimEsp.lua")
