@@ -7250,3 +7250,5 @@ addscript(6422372837,"Snipers [Inf Ammo]", "SnipersInfAmmo", "Qalnik", "https://
 addscriptexist(6683744559, "FightersEXInfiniteXP", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FightersEXInfiniteXP.lua")
                     
 addscriptexist(7842028704, "AnimeClashSimulatorAutoClickAutoSellBuythepets", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AnimeClashSimulatorAutoClickAutoSellBuythepets.lua")
+                    
+addscriptexist(4195834406, "DragonBallNoCooldownNoCombatLogTeleport", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DragonBallNoCooldownNoCombatLogTeleport.lua")
