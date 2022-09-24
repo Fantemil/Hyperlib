@@ -6823,3 +6823,6 @@ addscript(4599968871,"Tower Of Hell Easy [Infinite Money]", "TowerOfHellEasyInfi
                     
                     
 addscriptexist(6667701234, "FateXeroSkinFarm", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FateXeroSkinFarm.lua")
+    
+addscript(6078267880,"Tower Of Hell Easy [Inf Money]", "TowerOfHellEasyInfMoney", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TowerOfHellEasyInfMoney.lua")
+                    
