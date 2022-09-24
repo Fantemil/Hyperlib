@@ -4868,3 +4868,6 @@ addscript(2202352383,"Super Power Training Simulator [Auto Farm]", "SuperPowerTr
 addscriptexist(292439477, "PhantomForcesUnlockAllGunsAdminGuns", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PhantomForcesUnlockAllGunsAdminGuns.lua")
                     
 addscriptexist(6728870912, "WorldofStandsInfGoldMasksGodMode", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/WorldofStandsInfGoldMasksGodMode.lua")
+    
+addscript(1927139201,"Day of Dusk - The Border [Auto Mine Ores]", "DayofDuskTheBorderAutoMineOres", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DayofDuskTheBorderAutoMineOres.lua")
+                    
