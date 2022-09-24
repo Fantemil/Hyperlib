@@ -6476,3 +6476,5 @@ addscriptexist(8003084678, "oMegaObbyParkour525StagesAutoStagesBadges", "Terni",
 addscriptexist(4997792989, "HOMELESSSimulatorinRussiaInfiniteMoney", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/HOMELESSSimulatorinRussiaInfiniteMoney.lua")
                     
 addscriptexist(8916037983, "starvingartistsFindAttrectiveServer", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/starvingartistsFindAttrectiveServer.lua")
+                    
+addscriptexist(8492553855, "ProjectUprightFarmStands", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ProjectUprightFarmStands.lua")
