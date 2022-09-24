@@ -6259,3 +6259,5 @@ addscriptexist(4588604953, "CriminalityNoSpread", "Terni", "https://raw.githubus
     
 addscript(6960816467,"Untitled Door Game 2 [Get All Badges]", "UntitledDoorGame2GetAllBadges", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/UntitledDoorGame2GetAllBadges.lua")
                     
+                    
+addscriptexist(606849621, "JailbreakInstantTeleportToCriminalBase", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/JailbreakInstantTeleportToCriminalBase.lua")
