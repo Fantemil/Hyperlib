@@ -1810,3 +1810,6 @@ addscriptexist(5326405001, "BaseBattlesNoSpreadEsp", "astrofile", "https://raw.g
     
 addscript(5901548022,"Try To Die [Give All Tools]", "TryToDieGiveAllTools", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TryToDieGiveAllTools.lua")
                     
+    
+addscript(7165194252,"Ranger Piece [Get Spawned Items]", "RangerPieceGetSpawnedItems", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RangerPieceGetSpawnedItems.lua")
+                    
