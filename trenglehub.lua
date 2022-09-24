@@ -1206,3 +1206,5 @@ addscriptexist(8482451541, "BrickDefenseAutoFarmGrindInfiniteTix", "Terni", "htt
     
 addscript(9814637986,"Slap Battles", "SlapBattlesAverageFanMadeKillGivePanelKickBan", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SlapBattlesAverageFanMadeKillGivePanelKickBan.lua")
                     
+                    
+addscriptexist(6403373529, "SlapBattlesKillAuraAntiChaseAntiRagdollNoTimeStop", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SlapBattlesKillAuraAntiChaseAntiRagdollNoTimeStop.lua")
