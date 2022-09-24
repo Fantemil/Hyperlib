@@ -8031,3 +8031,5 @@ addscriptexist(6284583030, "PetSimulatorXAutofarmTroll", "rbxscript", "https://r
 addscriptexist(1899149341, "VehicleTycoonFastMoneyFarm", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/VehicleTycoonFastMoneyFarm.lua")
                     
 addscriptexist(5780309044, "StandsAwakeningItemFarm", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/StandsAwakeningItemFarm.lua")
+                    
+addscriptexist(7896264844, "FindtheMarkersBypassAntiGrabGrabAllMarkers", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FindtheMarkersBypassAntiGrabGrabAllMarkers.lua")
