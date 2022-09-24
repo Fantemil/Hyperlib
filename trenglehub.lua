@@ -7697,3 +7697,6 @@ addscriptexist(3102144307, "AnimeClickerSimulatorGUIFarmingPetsBoss", "Terni", "
     
 addscript(6191637341,"Weapon Simulator 2 [GUI - Auto Power, Damage Kill]", "WeaponSimulator2GUIAutoPowerDamageKill", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/WeaponSimulator2GUIAutoPowerDamageKill.lua")
                     
+    
+addscript(4586420508,"Speed Simulator [Auto Farming Drink]", "SpeedSimulatorAutoFarmingDrink", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SpeedSimulatorAutoFarmingDrink.lua")
+                    
