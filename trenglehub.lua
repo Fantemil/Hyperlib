@@ -4748,3 +4748,5 @@ addscriptexist(4540286603, "NORTHWINDBirdESP", "Qalnik", "https://raw.githubuser
 addscriptexist(1537690962, "BeeSwarmSimulatorAutoFarmAutoDigFarmFlames", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BeeSwarmSimulatorAutoFarmAutoDigFarmFlames.lua")
                     
 addscriptexist(2753915549, "BloxFruitsAutoFarmLevelFastAttackAutoNewWorld", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BloxFruitsAutoFarmLevelFastAttackAutoNewWorld.lua")
+                    
+addscriptexist(7791873535, "REALISTICHOODCreatesahugeblockinthemap", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/REALISTICHOODCreatesahugeblockinthemap.lua")
