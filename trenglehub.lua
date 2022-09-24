@@ -3607,3 +3607,6 @@ addscriptexist(5320510816, "FarmLifeTycoonAutoMoneyCollector", "Terni", "https:/
 addscriptexist(5956785391, "ProjectSlayersInfiniteStamina", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ProjectSlayersInfiniteStamina.lua")
                     
 addscriptexist(920587237, "AdoptMeSpamVehiclesToPeopleMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AdoptMeSpamVehiclesToPeopleMore.lua")
+    
+addscript(5310653431,"Synapse X Stream Sniper", "SynapseXStreamSniper", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SynapseXStreamSniper.lua")
+                    
