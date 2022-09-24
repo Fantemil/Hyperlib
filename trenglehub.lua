@@ -5280,3 +5280,5 @@ addscriptexist(7622046644, "MonsterGhoulInstakillAutoKill", "Qalnik", "https://r
     
 addscript(9495079370,"Collecting Simulator [Auto Weights, Sell, Open Source]", "CollectingSimulatorAutoWeightsSellOpenSource", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CollectingSimulatorAutoWeightsSellOpenSource.lua")
                     
+                    
+addscriptexist(7622046644, "MonsterGhoulChangetokagunesquinquesyouwant", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MonsterGhoulChangetokagunesquinquesyouwant.lua")
