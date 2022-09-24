@@ -7474,3 +7474,6 @@ addscript(6895636084,"Myth Piece (Beta) [Double Stats]", "MythPieceBetaDoubleSta
                     
                     
 addscriptexist(292439477, "PhantomForcesGrenadePrediction", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PhantomForcesGrenadePrediction.lua")
+    
+addscript(9468057661,"Super Hero Tycoon [Set Player Money, Set Walk Speed, Delete Doors]", "SuperHeroTycoonSetPlayerMoneySetWalkSpeedDeleteDoors", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SuperHeroTycoonSetPlayerMoneySetWalkSpeedDeleteDoors.lua")
+                    
