@@ -4508,3 +4508,6 @@ addscriptexist(142823291, "MurderMystery2", "Qalnik", "https://raw.githubusercon
 addscriptexist(443406476, "ProjectLazarusZOMBIESSilentAimGunMods", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ProjectLazarusZOMBIESSilentAimGunMods.lua")
                     
 addscriptexist(301549746, "CounterBloxGodModeCrashServer", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CounterBloxGodModeCrashServer.lua")
+    
+addscript(8448735476,"Anime Rifts [GUI - Auto Farm, Insta Kill]", "AnimeRiftsGUIAutoFarmInstaKill", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AnimeRiftsGUIAutoFarmInstaKill.lua")
+                    
