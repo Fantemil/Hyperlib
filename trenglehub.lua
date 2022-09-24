@@ -8533,3 +8533,5 @@ addscriptexist(6198225400, "LegendsReWrittenChestsFarming", "Terni", "https://ra
     
 addscript(3224790922,"Attack On Titan [Inf Jump, Hide Name, No Clip]", "AttackOnTitanInfJumpHideNameNoClip", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AttackOnTitanInfJumpHideNameNoClip.lua")
                     
+                    
+addscriptexist(4520749081, "KingLegacyAutoFarmAutoStatsMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/KingLegacyAutoFarmAutoStatsMore.lua")
