@@ -5722,3 +5722,5 @@ addscriptexist(8523408215, "AloSanctuaryGetAllMatsMore", "Terni", "https://raw.g
     
 addscript(6673614635,"unConventional [Auto Questing]", "unConventionalAutoQuesting", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/unConventionalAutoQuesting.lua")
                     
+                    
+addscriptexist(8209480473, "SpotifyIslandHeartfarmserverhopGetalotofhearts", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SpotifyIslandHeartfarmserverhopGetalotofhearts.lua")
