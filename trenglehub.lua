@@ -8101,3 +8101,5 @@ addscript(6198225400,"Legends Re:Written [Artifact Farm - Mob Auto Farm & God Mo
                     
                     
 addscriptexist(318978013, "KickOffDeEquipBallFromPlayersSpamToGetPasses", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/KickOffDeEquipBallFromPlayersSpamToGetPasses.lua")
+                    
+addscriptexist(5911084042, "SpecterInfiniteMoney", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SpecterInfiniteMoney.lua")
