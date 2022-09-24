@@ -3720,3 +3720,6 @@ addscript(9190926538,"Toy Fighters [Auto Farm]", "ToyFightersAutoFarm", "Terni",
                     
                     
 addscriptexist(9976239895, "GumballFactoryTycoonFullAutoFarm", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/GumballFactoryTycoonFullAutoFarm.lua")
+    
+addscript(7663817366,"Prison Roleplay Escape Plan [Auto Farm]", "PrisonRoleplayEscapePlanAutoFarm", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PrisonRoleplayEscapePlanAutoFarm.lua")
+                    
