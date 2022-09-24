@@ -2575,3 +2575,6 @@ addscript(9943374061,"Planet Oof [Auto Collect]", "PlanetOofAutoCollect", "astro
 addscriptexist(5602055394, "HoodModdedSilentAimInfJump", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/HoodModdedSilentAimInfJump.lua")
                     
 addscriptexist(10192063645, "ThyhoodNojumpCDTeleports", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ThyhoodNojumpCDTeleports.lua")
+    
+addscript(9157870347,"Swarm Simulator! [Gamepasses, Auto Farm]", "SwarmSimulatorGamepassesAutoFarm", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SwarmSimulatorGamepassesAutoFarm.lua")
+                    
