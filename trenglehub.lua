@@ -7427,3 +7427,6 @@ addscriptexist(7655745946, "DunkingSimulatorAutoFarm", "Terni", "https://raw.git
 addscriptexist(292439477, "PhantomForcesShootGrenades", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PhantomForcesShootGrenades.lua")
                     
 addscriptexist(7047488135, "SpeedySimulatorAutoFarmGemsSpeed", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SpeedySimulatorAutoFarmGemsSpeed.lua")
+    
+addscript(5229802390,"Anime Cross World [God mode]", "AnimeCrossWorldGodmode", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AnimeCrossWorldGodmode.lua")
+                    
