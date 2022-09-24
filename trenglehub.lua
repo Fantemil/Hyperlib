@@ -7155,3 +7155,5 @@ addscriptexist(7107498084, "AnimeBattleSpawnWorkersAutoSellAutoBuyNewWorld", "Qa
 addscriptexist(6284583030, "PetSimulatorXAutoFarmChestAutoEggAutoCollectLootBags", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PetSimulatorXAutoFarmChestAutoEggAutoCollectLootBags.lua")
                     
 addscriptexist(3823781113, "SaberSimulatorAutoSwingAutoFarmStrengthAutoSellwhenFull", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SaberSimulatorAutoSwingAutoFarmStrengthAutoSellwhenFull.lua")
+                    
+addscriptexist(3260590327, "TowerDefenseSimulatorCameraCounterAutoStrats", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TowerDefenseSimulatorCameraCounterAutoStrats.lua")
