@@ -3947,3 +3947,5 @@ addscript(7947609996,"Roblox - Sword Reach", "RobloxSwordReach", "Terni", "https
     
 addscript(7240922896,"Roblox - Player Avatars ESP", "RobloxPlayerAvatarsESP", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RobloxPlayerAvatarsESP.lua")
                     
+                    
+addscriptexist(8554378337, "SwordSimulatorAutoHit", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SwordSimulatorAutoHit.lua")
