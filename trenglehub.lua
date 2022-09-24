@@ -5800,3 +5800,6 @@ addscript(9398326379,"Raise a Bingus [Auto Farm Money]", "RaiseaBingusAutoFarmMo
                     
                     
 addscriptexist(8209480473, "SpotifyIslandHeartsFarm", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SpotifyIslandHeartsFarm.lua")
+    
+addscript(9283132959,"Block Breaker Simulator [Auto Get Blocks & More!]", "BlockBreakerSimulatorAutoGetBlocksMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BlockBreakerSimulatorAutoGetBlocksMore.lua")
+                    
