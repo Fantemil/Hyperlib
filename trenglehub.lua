@@ -3126,3 +3126,5 @@ addscript(6266940721,"StockRise Stock Simulator [Infinite Money]", "StockRiseSto
 addscriptexist(9926433554, "BlastMiningSimulatorInfiniteMoney", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BlastMiningSimulatorInfiniteMoney.lua")
                     
 addscriptexist(2124720684, "DragonBallXenoMultiverseZenAutoFarm", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DragonBallXenoMultiverseZenAutoFarm.lua")
+                    
+addscriptexist(6468323505, "SpellboundMagicRPGGetAllItems", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SpellboundMagicRPGGetAllItems.lua")
