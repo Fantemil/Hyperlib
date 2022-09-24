@@ -1552,3 +1552,6 @@ addscriptexist(1962086868, "TowerofHellGodmode", "Qalnik", "https://raw.githubus
 addscriptexist(7180042682, "MilitaryTycoonTargetseventsfarm", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MilitaryTycoonTargetseventsfarm.lua")
                     
 addscriptexist(286090429, "ArsenalInfAmmo", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ArsenalInfAmmo.lua")
+    
+addscript(4893679160,"Big Brain Simulator [AutoSell, Collect Coins]", "BigBrainSimulatorAutoSellCollectCoins", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BigBrainSimulatorAutoSellCollectCoins.lua")
+                    
