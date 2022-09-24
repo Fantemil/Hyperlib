@@ -5992,3 +5992,5 @@ addscriptexist(9225577563, "AmnestyESPSilentAimAimlockGUI", "Terni", "https://ra
 addscriptexist(5712833750, "AnimalSimulatorFreeRadio", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AnimalSimulatorFreeRadio.lua")
                     
 addscriptexist(7167319176, "ChicagoRemasteredAutoFarmGUI", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ChicagoRemasteredAutoFarmGUI.lua")
+                    
+addscriptexist(8137333410, "ColorbynumberNearInstantAutoPainter", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ColorbynumberNearInstantAutoPainter.lua")
