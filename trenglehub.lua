@@ -7079,3 +7079,6 @@ addscriptexist(7256524608, "StreamingSimulatorTrigonComputer", "Qalnik", "https:
 addscriptexist(7256524608, "StreamingSimulatorTeslaMonitor", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/StreamingSimulatorTeslaMonitor.lua")
                     
 addscriptexist(662417684, "LuckyBlockBattlegroundsNEWGUI", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LuckyBlockBattlegroundsNEWGUI.lua")
+    
+addscript(6505994717,"Epic Egg Hunt 2021 [Collect All Eggs]", "EpicEggHunt2021CollectAllEggs", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/EpicEggHunt2021CollectAllEggs.lua")
+                    
