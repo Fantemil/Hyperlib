@@ -2133,3 +2133,6 @@ addscript(9970551995,"Touch The Grass Simulator! [AutoHatch, KillAura]", "TouchT
                     
                     
 addscriptexist(10087074695, "KnifeStrifeKillAllInstantKills", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/KnifeStrifeKillAllInstantKills.lua")
+    
+addscript(9980179145,"Speed Race Clicker [AutoFarm, AutoChest]", "SpeedRaceClickerAutoFarmAutoChest", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SpeedRaceClickerAutoFarmAutoChest.lua")
+                    
