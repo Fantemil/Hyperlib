@@ -6094,3 +6094,6 @@ addscriptexist(7167319176, "ChicagoRemasteredNorecoil", "Qalnik", "https://raw.g
 addscriptexist(6297822481, "TitanWarfareInfGas", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TitanWarfareInfGas.lua")
                     
 addscriptexist(9203864304, "raiseafloppaAutoClickFloppaAutoCollectmoneyAutoBuy", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/raiseafloppaAutoClickFloppaAutoCollectmoneyAutoBuy.lua")
+    
+addscript(4566572536,"Vehicle Legends [Speed Boost, Rainbow color]", "VehicleLegendsSpeedBoostRainbowcolor", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/VehicleLegendsSpeedBoostRainbowcolor.lua")
+                    
