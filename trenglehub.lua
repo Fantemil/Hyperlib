@@ -8742,3 +8742,5 @@ addscript(7711545622,"The Fashion Awards 2021 [COMPLETE ALL QUESTS]", "TheFashio
 addscriptexist(189707, "NaturalDisasterSurvivalAUTOFARMLOCALSCRIPTS", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NaturalDisasterSurvivalAUTOFARMLOCALSCRIPTS.lua")
                     
 addscriptexist(185655149, "WelcometoBloxburgUPDATEAUTOFARMING", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/WelcometoBloxburgUPDATEAUTOFARMING.lua")
+                    
+addscriptexist(142823291, "MurderMystery2ESPEMOTESTROLL", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MurderMystery2ESPEMOTESTROLL.lua")
