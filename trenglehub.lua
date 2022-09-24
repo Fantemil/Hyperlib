@@ -3895,3 +3895,5 @@ addscriptexist(2788229376, "DaHoodAutoFarmGodmodeKllBot", "Qalnik", "https://raw
 addscriptexist(8750997647, "TappingLegendsXUPDATEDAUTOFARMGUI", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TappingLegendsXUPDATEDAUTOFARMGUI.lua")
                     
 addscriptexist(8123652942, "LegendPieceGiveDevilFruit", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LegendPieceGiveDevilFruit.lua")
+                    
+addscriptexist(7560156054, "ClickerSimulatorFreeGamepasses", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ClickerSimulatorFreeGamepasses.lua")
