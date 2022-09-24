@@ -1193,3 +1193,5 @@ addscript(10558210932,"The Test ", "TheTestWinMinigamePersonToKillChooseCorrectN
     
 addscript(9551640993,"Mining Simulator 2 ", "MiningSimulator2AutoMineAutoEggsSmartSell", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MiningSimulator2AutoMineAutoEggsSmartSell.lua")
                     
+                    
+addscriptexist(8884433153, "CollectAllPetsAutoEggsAutoFarmAutoCollect", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CollectAllPetsAutoEggsAutoFarmAutoCollect.lua")
