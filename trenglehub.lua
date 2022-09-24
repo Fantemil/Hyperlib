@@ -3329,3 +3329,5 @@ addscriptexist(6711562581, "EightDriverCarRacingInfmoney", "Qalnik", "https://ra
 addscriptexist(2768379856, "SCP3008AutoCollect", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SCP3008AutoCollect.lua")
                     
 addscriptexist(7180042682, "MilitaryTycoonCollectallbatteries", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MilitaryTycoonCollectallbatteries.lua")
+                    
+addscriptexist(1224212277, "MadCityChapter2SilentAimWallBangEasyXpMoney", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MadCityChapter2SilentAimWallBangEasyXpMoney.lua")
