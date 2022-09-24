@@ -2330,3 +2330,6 @@ addscript(534701013,"The Labyrinth [X-Ray, Auto attack]", "TheLabyrinthXRayAutoa
     
 addscript(10151870864,"Ice Factory Tycoon [Auto Farm]", "IceFactoryTycoonAutoFarm", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/IceFactoryTycoonAutoFarm.lua")
                     
+    
+addscript(7606302010,"YoYo Simulator [Auto YoYo, Auto Hatch]", "YoYoSimulatorAutoYoYoAutoHatch", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/YoYoSimulatorAutoYoYoAutoHatch.lua")
+                    
