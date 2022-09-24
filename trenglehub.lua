@@ -4775,3 +4775,6 @@ addscriptexist(3271747724, "MEGABossSurvivalInfiniteMoney", "Terni", "https://ra
 addscriptexist(9049840490, "SonicSpeedSimulatorInstantlyget75kChiliDogs", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SonicSpeedSimulatorInstantlyget75kChiliDogs.lua")
                     
 addscriptexist(292439477, "PhantomForcesOpenSourceESP", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PhantomForcesOpenSourceESP.lua")
+    
+addscript(6143963763,"Untitled Combat Arena [Auto Farm Money]", "UntitledCombatArenaAutoFarmMoney", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/UntitledCombatArenaAutoFarmMoney.lua")
+                    
