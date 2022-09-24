@@ -2073,3 +2073,5 @@ addscriptexist(9551640993, "MiningSimulator2AutoMineAutoSellAutoFactory", "Qalni
 addscriptexist(8737602449, "PLSDONATETpAutoThanksServerHoppper", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PLSDONATETpAutoThanksServerHoppper.lua")
                     
 addscriptexist(8750997647, "TappingLegendsXAutoClickerAutorebirthAutoEgg", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TappingLegendsXAutoClickerAutorebirthAutoEgg.lua")
+                    
+addscriptexist(8704181738, "TiếnTiếnPieceGamepassSword", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TiếnTiếnPieceGamepassSword.lua")
