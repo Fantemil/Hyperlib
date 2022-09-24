@@ -1201,3 +1201,5 @@ addscriptexist(286090429, "ArsenalInstantRespawn", "astrofile", "https://raw.git
 addscriptexist(9417197334, "AnimeStorySemiInfiniteGemsInfiniteCoins", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AnimeStorySemiInfiniteGemsInfiniteCoins.lua")
                     
 addscriptexist(9417197334, "AnimeStoryAutoSummon", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AnimeStoryAutoSummon.lua")
+                    
+addscriptexist(8482451541, "BrickDefenseAutoFarmGrindInfiniteTix", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BrickDefenseAutoFarmGrindInfiniteTix.lua")
