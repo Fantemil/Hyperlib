@@ -3362,3 +3362,6 @@ addscript(6273865312,"Supernatural Simulator [Auto Sell, Auto Lvl Up]", "Superna
     
 addscript(1899149341,"Vehicle Tycoon [Collect All Gifts]", "VehicleTycoonCollectAllGifts", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/VehicleTycoonCollectAllGifts.lua")
                     
+    
+addscript(10191372093,"Guillotine Tycoon [Auto Farm]", "GuillotineTycoonAutoFarm", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/GuillotineTycoonAutoFarm.lua")
+                    
