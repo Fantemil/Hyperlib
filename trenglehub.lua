@@ -1881,3 +1881,5 @@ addscriptexist(9285238704, "RaceClickerServerHopAutoWin", "astrofile", "https://
     
 addscript(7128635125,"Old A Bizarry Day Modded [Adm Cmds]", "OldABizarryDayModdedAdmCmds", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OldABizarryDayModdedAdmCmds.lua")
                     
+                    
+addscriptexist(370731277, "MeepCityFishingSilentAimAvatarEditor", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MeepCityFishingSilentAimAvatarEditor.lua")
