@@ -8047,3 +8047,6 @@ addscript(4695007916,"Weight Lifting Simulator 3 [Infinite Strength]", "WeightLi
     
 addscript(2877178664,"I Dont Feel So Oof [Auto Farm]", "IDontFeelSoOofAutoFarm", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/IDontFeelSoOofAutoFarm.lua")
                     
+    
+addscript(7336128600,"Pet Legends [GUI Auto Farm Aura & More!]", "PetLegendsGUIAutoFarmAuraMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PetLegendsGUIAutoFarmAuraMore.lua")
+                    
