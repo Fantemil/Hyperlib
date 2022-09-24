@@ -8293,3 +8293,5 @@ addscriptexist(1224212277, "MadCityNewXpFarming", "Terni", "https://raw.githubus
 addscriptexist(6950767274, "FightersEraAutoJob", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FightersEraAutoJob.lua")
                     
 addscriptexist(5326405001, "BaseBattlesINFAmmoGunModeEspHitboxes", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BaseBattlesINFAmmoGunModeEspHitboxes.lua")
+                    
+addscriptexist(292439477, "PhantomForcesСhamsRaycastOpenSourse", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PhantomForcesСhamsRaycastOpenSourse.lua")
