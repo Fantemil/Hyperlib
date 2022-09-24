@@ -8395,3 +8395,6 @@ addscriptexist(6284583030, "PetSimulatorXAutoFarmAutoBuyeggTp", "Qalnik", "https
 addscriptexist(920587237, "AdoptMeUPDATEAutoFarmEggFarmMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AdoptMeUPDATEAutoFarmEggFarmMore.lua")
                     
 addscriptexist(7114796110, "AnimeTrainingSimulatorGamepass", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AnimeTrainingSimulatorGamepass.lua")
+    
+addscript(3057050847,"Site-76", "Site76PrisonAnomaliesNoclipModDetector", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Site76PrisonAnomaliesNoclipModDetector.lua")
+                    
