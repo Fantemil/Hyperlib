@@ -5148,3 +5148,6 @@ addscript(6875469709,"Strongest Punch Simulator [GUI - Auto Punch, Auto Orbs & M
     
 addscript(5062619730,"War Simulator [Kill All - Open Source]", "WarSimulatorKillAllOpenSource", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/WarSimulatorKillAllOpenSource.lua")
                     
+    
+addscript(6717117731,"Subway Surfers [Steal All Coins]", "SubwaySurfersStealAllCoins", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SubwaySurfersStealAllCoins.lua")
+                    
