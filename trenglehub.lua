@@ -7681,3 +7681,6 @@ addscriptexist(8357510970, "AnimePunchingSimulatorGUIAutoClickAutoRebirthMore", 
 addscriptexist(8554378337, "WeaponFightingSimulatorGUIFarmingBossGamepass", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/WeaponFightingSimulatorGUIFarmingBossGamepass.lua")
                     
 addscriptexist(606849621, "JailbreakSimpleCarBoost", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/JailbreakSimpleCarBoost.lua")
+    
+addscript(8457306665,"Fruit Fighter Simulator [Auto Collect, Auto Sell]", "FruitFighterSimulatorAutoCollectAutoSell", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FruitFighterSimulatorAutoCollectAutoSell.lua")
+                    
