@@ -3015,3 +3015,5 @@ addscriptexist(292439477, "PhantomForcesGranadeAimbot", "Terni", "https://raw.gi
     
 addscript(7115420363,"The Booth Plaza [Bypassed Images]", "TheBoothPlazaBypassedImages", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TheBoothPlazaBypassedImages.lua")
                     
+                    
+addscriptexist(9845465117, "AUReborn1v1AutoFarm", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AUReborn1v1AutoFarm.lua")
