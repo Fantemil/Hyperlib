@@ -5438,3 +5438,5 @@ addscriptexist(6969185078, "ElementalAwakeningInstantCastAttemptsToChangeMaxRang
 addscriptexist(6969185078, "ElementalAwakeningAutoSpinEasySetup", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ElementalAwakeningAutoSpinEasySetup.lua")
                     
 addscriptexist(1224212277, "MadCityAntiScreenShake", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MadCityAntiScreenShake.lua")
+                    
+addscriptexist(9344944754, "HunterxAthenaAutoBuyApples", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/HunterxAthenaAutoBuyApples.lua")
