@@ -2446,3 +2446,6 @@ addscriptexist(6516141723, "DOORSEsp", "astrofile", "https://raw.githubuserconte
     
 addscript(6716188523,"Business Tycoon [Inf cash]", "BusinessTycoonInfcash", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BusinessTycoonInfcash.lua")
                     
+    
+addscript(6679274937,"Vans World [Pencil cases]", "VansWorldPencilcases", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/VansWorldPencilcases.lua")
+                    
