@@ -7675,3 +7675,5 @@ addscriptexist(1224212277, "MadCityScriptInfiniteXp", "Terni", "https://raw.gith
     
 addscript(5358493390,"Admin GUI [cmdX]", "AdminGUIcmdX", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AdminGUIcmdX.lua")
                     
+                    
+addscriptexist(8357510970, "AnimePunchingSimulatorGUIAutoClickAutoRebirthMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AnimePunchingSimulatorGUIAutoClickAutoRebirthMore.lua")
