@@ -5773,3 +5773,5 @@ addscriptexist(5135889792, "DystoviaGodMode", "Terni", "https://raw.githubuserco
 addscriptexist(205224386, "HideandSeekExtremeCoinGrabber", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/HideandSeekExtremeCoinGrabber.lua")
                     
 addscriptexist(1730877806, "GrandPieceOnlineWalkOnWater", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/GrandPieceOnlineWalkOnWater.lua")
+                    
+addscriptexist(4996049426, "AllStarTowerDefenseStarPassXP", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AllStarTowerDefenseStarPassXP.lua")
