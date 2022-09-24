@@ -6165,3 +6165,5 @@ addscriptexist(537413528, "BuildABoatForTreasureAutoBuyAutoFarmGetAllItemsFree",
     
 addscript(5116869569,"Doodle World [Auto Find]", "DoodleWorldAutoFind", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DoodleWorldAutoFind.lua")
                     
+                    
+addscriptexist(2639416308, "AceAttorneyAnnoyServer", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AceAttorneyAnnoyServer.lua")
