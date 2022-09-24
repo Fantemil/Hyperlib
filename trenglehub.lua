@@ -7206,3 +7206,5 @@ addscript(3494008884,"Donut Bakery Tycoon [Infity Money]", "DonutBakeryTycoonInf
 addscriptexist(7842028704, "AnimeClashSimulatorAutoFarmAutoSellFarmBoss", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AnimeClashSimulatorAutoFarmAutoSellFarmBoss.lua")
                     
 addscriptexist(8069117419, "DemonSoulAutoFarmAutoSkillAutoDraw", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DemonSoulAutoFarmAutoSkillAutoDraw.lua")
+                    
+addscriptexist(8357510970, "AnimePunchingSimulatorAutoPunchAutoEggsMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AnimePunchingSimulatorAutoPunchAutoEggsMore.lua")
