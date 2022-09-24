@@ -2169,3 +2169,5 @@ addscriptexist(537413528, "BuildABoatForTreasureQuestsAutoFarmManyFunctions", "Q
     
 addscript(3376769145,"Dragon Ball Warriors [Use the best form]", "DragonBallWarriorsUsethebestform", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DragonBallWarriorsUsethebestform.lua")
                     
+                    
+addscriptexist(10243982775, "RedBox2QuickswapweaponsMartyrdom", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RedBox2QuickswapweaponsMartyrdom.lua")
