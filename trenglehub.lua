@@ -4591,3 +4591,5 @@ addscript(9555732501,"Nen Fighting Simulator [Auto Strength - Auto Durability]",
     
 addscript(7733392089,"LuoBu Transformation Night [Auto Dance]", "LuoBuTransformationNightAutoDance", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LuoBuTransformationNightAutoDance.lua")
                     
+                    
+addscriptexist(4733278992, "SwordBloxOnlineRebirthKillAuraAutoFarm", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SwordBloxOnlineRebirthKillAuraAutoFarm.lua")
