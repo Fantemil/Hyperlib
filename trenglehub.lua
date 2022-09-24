@@ -8506,3 +8506,5 @@ addscriptexist(6085581583, "ProjectHeroAutoFarmAutoQuestStats", "Terni", "https:
     
 addscript(1535701761,"The Clown Killings Reborn [Kill Aura,Esp, HitBox]", "TheClownKillingsRebornKillAuraEspHitBox", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TheClownKillingsRebornKillAuraEspHitBox.lua")
                     
+                    
+addscriptexist(5874128725, "NoJumpingDifficultyChartObbyFastFarm", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NoJumpingDifficultyChartObbyFastFarm.lua")
