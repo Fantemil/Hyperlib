@@ -2404,3 +2404,5 @@ addscriptexist(648362523, "BreakingPointDupe", "astrofile", "https://raw.githubu
 addscriptexist(6516141723, "DOORSGuiwithcoolfunctions", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DOORSGuiwithcoolfunctions.lua")
                     
 addscriptexist(8458333139, "1LIGEAutoFarm", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/1LIGEAutoFarm.lua")
+                    
+addscriptexist(7415160483, "RobloxAdminCommandsFE", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RobloxAdminCommandsFE.lua")
