@@ -2208,3 +2208,5 @@ addscript(9243187709,"Pedagondia Faunas [Inf Stamina, Auto Eat]", "PedagondiaFau
     
 addscript(863266079,"Apocalypse Rising 2 [Inf Jump, Aimbot]", "ApocalypseRising2InfJumpAimbot", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ApocalypseRising2InfJumpAimbot.lua")
                     
+                    
+addscriptexist(10047913840, "TrainingSimulatorRemoteSpy", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TrainingSimulatorRemoteSpy.lua")
