@@ -5326,3 +5326,5 @@ addscriptexist(534701013, "TheLabyrinthAntigrassAntinameXray", "Qalnik", "https:
 addscriptexist(7940932746, "RobloxFullBright", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RobloxFullBright.lua")
                     
 addscriptexist(659222129, "SwordBurst2KillAuraTeleportWalkspeed", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SwordBurst2KillAuraTeleportWalkspeed.lua")
+                    
+addscriptexist(2965881766, "BrawlBloxInfiniteTrophies", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BrawlBloxInfiniteTrophies.lua")
