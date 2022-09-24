@@ -6242,3 +6242,5 @@ addscriptexist(8528736393, "BeatlandAutoFarmRobloxEvent", "Terni", "https://raw.
 addscriptexist(6808589067, "ShindenAutoHandsing", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ShindenAutoHandsing.lua")
                     
 addscriptexist(8146731988, "UltraPowerTycoonGetAllGearMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/UltraPowerTycoonGetAllGearMore.lua")
+                    
+addscriptexist(8540168650, "StandUprightRebootedAntiCheatBypassOpenSource", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/StandUprightRebootedAntiCheatBypassOpenSource.lua")
