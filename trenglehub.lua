@@ -5113,3 +5113,5 @@ addscript(6949542776,"Pixel Gun Tower Defense [Equip Any Gun]", "PixelGunTowerDe
 addscriptexist(9551640993, "MiningSimulator2ChestFinder", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MiningSimulator2ChestFinder.lua")
                     
 addscriptexist(9551640993, "MiningSimulator2OreESPViewAll", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MiningSimulator2OreESPViewAll.lua")
+                    
+addscriptexist(9551640993, "MiningSimulator2AutoMineBelowPlayer", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MiningSimulator2AutoMineBelowPlayer.lua")
