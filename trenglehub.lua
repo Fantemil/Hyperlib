@@ -8515,3 +8515,5 @@ addscript(5192488964,"Bully some monater [Infiniti Stamina]", "BullysomemonaterI
                     
                     
 addscriptexist(443406476, "ProjectLazarusInfinitiAmmo", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ProjectLazarusInfinitiAmmo.lua")
+                    
+addscriptexist(6198225400, "LegendsReWrittenOreFarming", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LegendsReWrittenOreFarming.lua")
