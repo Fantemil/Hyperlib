@@ -1602,3 +1602,6 @@ addscript(3260590327,"Tower Defense Simulator [Auto Farm]", "TowerDefenseSimulat
                     
                     
 addscriptexist(40424276666, "AnimeFightingSimulatorInfYenInfChikara", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AnimeFightingSimulatorInfYenInfChikara.lua")
+    
+addscript(629980572334822809536548792287772866629980572302324662457,"Anime Fighters Simulator [Auto Farm, AutoClick]", "AnimeFightersSimulatorAutoFarmAutoClick", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AnimeFightersSimulatorAutoFarmAutoClick.lua")
+                    
