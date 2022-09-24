@@ -7400,3 +7400,5 @@ addscriptexist(537413528, "BuildABoatForTreasureAutoFarmWaterGodModeFly", "Qalni
     
 addscript(8656125900,"Brits VIP Party [Complete Event - Gather Free Hats]", "BritsVIPPartyCompleteEventGatherFreeHats", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BritsVIPPartyCompleteEventGatherFreeHats.lua")
                     
+                    
+addscriptexist(2866967438, "FishingSimulatorAutoKillAutoSellAutoRemovedrop", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FishingSimulatorAutoKillAutoSellAutoRemovedrop.lua")
