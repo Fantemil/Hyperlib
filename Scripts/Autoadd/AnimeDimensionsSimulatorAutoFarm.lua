@@ -1,0 +1,1 @@
+loadstring(game:HttpGetAsync'https://yieldingexploiter.github.io/Anime-Dimensions-Simulator/init.lua','Script')();

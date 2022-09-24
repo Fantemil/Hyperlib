@@ -3770,3 +3770,6 @@ addscriptexist(7899881670, "RBWorld4AutoArcadeBot", "Terni", "https://raw.github
     
 addscript(7491927311,"Undertale Test Place Reborn [Alt Detection Bypass]", "UndertaleTestPlaceRebornAltDetectionBypass", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/UndertaleTestPlaceRebornAltDetectionBypass.lua")
                     
+    
+addscript(6938803436,"Anime Dimensions Simulator [Auto Farm]", "AnimeDimensionsSimulatorAutoFarm", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AnimeDimensionsSimulatorAutoFarm.lua")
+                    
