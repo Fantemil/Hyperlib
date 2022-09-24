@@ -4542,3 +4542,5 @@ addscriptexist(4598019433, "GenericRoleplayGaemAutoFarm", "Terni", "https://raw.
 addscriptexist(301549746, "CounterbloxCrashServerGodmode", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CounterbloxCrashServerGodmode.lua")
                     
 addscriptexist(292439477, "PhantomForcesHighlightESPChams", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PhantomForcesHighlightESPChams.lua")
+                    
+addscriptexist(4733278992, "SwordBloxOnlineRebirthKillAuraInfiniteStaminaCollectMaterials", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SwordBloxOnlineRebirthKillAuraInfiniteStaminaCollectMaterials.lua")
