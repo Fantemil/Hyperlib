@@ -5361,3 +5361,5 @@ addscriptexist(5023820864, "TradeTowerAutoBuyAutoSellAutoClick", "Qalnik", "http
     
 addscript(8657806289,"Dummies vs Noobs [Damage Multiplier]", "DummiesvsNoobsDamageMultiplier", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DummiesvsNoobsDamageMultiplier.lua")
                     
+                    
+addscriptexist(8657806289, "DummiesvsNoobsAntiAmmoLoss", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DummiesvsNoobsAntiAmmoLoss.lua")
