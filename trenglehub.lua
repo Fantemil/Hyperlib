@@ -4678,3 +4678,5 @@ addscriptexist(3101667897, "LegendsOfSpeedAutoFarmOrbsAutoFarmHoopsAutoRebirth",
 addscriptexist(8737602449, "PLSDONATETheinscriptiononthepoleshows", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PLSDONATETheinscriptiononthepoleshows.lua")
                     
 addscriptexist(5490351219, "ClickerMadnessAutoTapDeclineTradesGetAllGamepasses", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ClickerMadnessAutoTapDeclineTradesGetAllGamepasses.lua")
+                    
+addscriptexist(8603729161, "Walk50kstudsfornothingGetBadges", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Walk50kstudsfornothingGetBadges.lua")
