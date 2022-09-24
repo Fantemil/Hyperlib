@@ -5526,3 +5526,5 @@ addscriptexist(1554960397, "CarDealershipTycoonAutoFarmSpeedChanger", "Qalnik", 
 addscriptexist(6461766546, "AHeroDestinyGUIAutoFarmBossFarmMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AHeroDestinyGUIAutoFarmBossFarmMore.lua")
                     
 addscriptexist(7940932746, "FovforRoblox", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FovforRoblox.lua")
+                    
+addscriptexist(6284583030, "PetSimulatorXNewFarmingGUI", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PetSimulatorXNewFarmingGUI.lua")
