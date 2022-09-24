@@ -4738,3 +4738,5 @@ addscriptexist(5490351219, "ClickerMadnessSickAutoClickAutoBossTeleport", "Qalni
     
 addscript(9760849472,"UFO Universe [Auto Farm Chests, Auto Open Egg, Teleport]", "UFOUniverseAutoFarmChestsAutoOpenEggTeleport", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/UFOUniverseAutoFarmChestsAutoOpenEggTeleport.lua")
                     
+                    
+addscriptexist(9555732501, "NenFightingSimulatorDurabilityFarm", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NenFightingSimulatorDurabilityFarm.lua")
