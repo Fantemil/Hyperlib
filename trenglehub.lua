@@ -4568,3 +4568,5 @@ addscriptexist(198116126, "TradelandsAutoFarmTeleportWalkOnWaterMore", "Terni", 
 addscriptexist(5315066937, "SuperBSurfRevisedChangeYourSurfingBhopSpeed", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SuperBSurfRevisedChangeYourSurfingBhopSpeed.lua")
                     
 addscriptexist(443406476, "ProjectLazarusESPOneShotKillChams", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ProjectLazarusESPOneShotKillChams.lua")
+                    
+addscriptexist(7947609996, "RobloxFakeBlueScreen", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RobloxFakeBlueScreen.lua")
