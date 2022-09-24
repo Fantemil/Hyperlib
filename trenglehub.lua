@@ -8059,3 +8059,6 @@ addscript(7215261025,"Retro TDS [Infinite in Game Cash]", "RetroTDSInfiniteinGam
 addscriptexist(185655149, "WelcometoBloxburgHairdresserAutoFarm", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/WelcometoBloxburgHairdresserAutoFarm.lua")
                     
 addscriptexist(654732683, "CarCrushers2GRINDHELPERUTILITY", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CarCrushers2GRINDHELPERUTILITY.lua")
+    
+addscript(6432407703,"Big City Tycoon [Collect Presents]", "BigCityTycoonCollectPresents", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BigCityTycoonCollectPresents.lua")
+                    
