@@ -3007,3 +3007,6 @@ addscriptexist(10322949476, "LimitedJumpsInfJumps", "Qalnik", "https://raw.githu
 addscriptexist(7655745946, "DunkingSimulatorUnlimitedboost", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DunkingSimulatorUnlimitedboost.lua")
                     
 addscriptexist(7655745946, "DunkingSimulatorFreeAvatarItems", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DunkingSimulatorFreeAvatarItems.lua")
+    
+addscript(9817495903,"Impossible Red Light, Green Light! [Teleport To The Finish Line]", "ImpossibleRedLightGreenLightTeleportToTheFinishLine", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ImpossibleRedLightGreenLightTeleportToTheFinishLine.lua")
+                    
