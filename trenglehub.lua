@@ -2908,3 +2908,5 @@ addscriptexist(10184360875, "PetFishingSimulatorInfMoneyInfFish", "Qalnik", "htt
 addscriptexist(9157870347, "PetAdventuresSimulatorAutoCollectAutoFarmAutoHatch", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PetAdventuresSimulatorAutoCollectAutoFarmAutoHatch.lua")
                     
 addscriptexist(6114972958, "InitialDTougeLegendsUnlockkAllCarsWalkSpeedJumpPower", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/InitialDTougeLegendsUnlockkAllCarsWalkSpeedJumpPower.lua")
+                    
+addscriptexist(445664957, "ParkourGodmodeInfiniteWalkBoostInfiniteAdrenaline", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ParkourGodmodeInfiniteWalkBoostInfiniteAdrenaline.lua")
