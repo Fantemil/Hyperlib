@@ -5949,3 +5949,5 @@ addscriptexist(6847090259, "BulkedUpAutoCollectTrophies", "Terni", "https://raw.
     
 addscript(386329050,"The Black Mesλ Incident [All guns]", "TheBlackMesλIncidentAllguns", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TheBlackMesλIncidentAllguns.lua")
                     
+                    
+addscriptexist(5233782396, "CreaturesofSonariaSpamBiteEasterBoss", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CreaturesofSonariaSpamBiteEasterBoss.lua")
