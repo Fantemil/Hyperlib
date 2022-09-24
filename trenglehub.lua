@@ -7417,3 +7417,5 @@ addscriptexist(6403373529, "SlapBattlesServerLagger", "Terni", "https://raw.gith
 addscriptexist(7140186081, "GunGameKillAura", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/GunGameKillAura.lua")
                     
 addscriptexist(621129760, "KATAutoFarmSilentAimNew", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/KATAutoFarmSilentAimNew.lua")
+                    
+addscriptexist(536102540, "DragonBallFinalStandAutoQuestAutoPlayGUI", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DragonBallFinalStandAutoQuestAutoPlayGUI.lua")
