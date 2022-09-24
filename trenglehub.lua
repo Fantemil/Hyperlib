@@ -7441,3 +7441,5 @@ addscript(7603193259,"Friday Night Bloxxin [Auto Player - Insta Solo]", "FridayN
                     
                     
 addscriptexist(8448735476, "dbzadventuresunleashedAutoAttackAutoSkillsAutoQuest", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/dbzadventuresunleashedAutoAttackAutoSkillsAutoQuest.lua")
+                    
+addscriptexist(2866967438, "FishingSimulatorKillMonsterKillMobbyAutoSell", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FishingSimulatorKillMonsterKillMobbyAutoSell.lua")
