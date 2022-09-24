@@ -5239,3 +5239,6 @@ addscript(6753141554,"Collect Simulator [Auto Weights - Auto Sell]", "CollectSim
                     
                     
 addscriptexist(4003872968, "GiantSurvivalInstaKill", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/GiantSurvivalInstaKill.lua")
+    
+addscript(3056526277,"Build and Survive [Kill all bots]", "BuildandSurviveKillallbots", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BuildandSurviveKillallbots.lua")
+                    
