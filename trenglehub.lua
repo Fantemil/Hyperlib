@@ -3844,3 +3844,5 @@ addscriptexist(1224212277, "MadCityGetWeeklyRewards", "Terni", "https://raw.gith
     
 addscript(10105990977,"Samsung Space Tycoon [Destroy Everyones FPS]", "SamsungSpaceTycoonDestroyEveryonesFPS", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SamsungSpaceTycoonDestroyEveryonesFPS.lua")
                     
+                    
+addscriptexist(8304191830, "AnimeAdventuresFullAutoFarmAutoUpgradeSelectWorld", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AnimeAdventuresFullAutoFarmAutoUpgradeSelectWorld.lua")
