@@ -7765,3 +7765,5 @@ addscript(8105433301,"Funny Tower Defense [Infinite Cash]", "FunnyTowerDefenseIn
     
 addscript(8561066003,"Critical Legends 1 & 2 [GUI - Auto Farm Mobs]", "CriticalLegends12GUIAutoFarmMobs", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CriticalLegends12GUIAutoFarmMobs.lua")
                     
+                    
+addscriptexist(6284583030, "PetSimulatorXNEWServerCrasher", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PetSimulatorXNEWServerCrasher.lua")
