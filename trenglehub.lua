@@ -2338,3 +2338,6 @@ addscript(8811271345,"Balanced Craftwars Overhaul [Godmode, Autofarm]", "Balance
                     
                     
 addscriptexist(10347946161, "RatWashingTycoonAutoObbyAutoWash", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RatWashingTycoonAutoObbyAutoWash.lua")
+    
+addscript(9611809130,"Crazy Party RPG [AutoFarm]", "CrazyPartyRPGAutoFarm", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CrazyPartyRPGAutoFarm.lua")
+                    
