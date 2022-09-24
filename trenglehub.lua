@@ -3490,3 +3490,6 @@ addscript(9903808883,"Build a Market Tycoon [Money Booster]", "BuildaMarketTycoo
                     
                     
 addscriptexist(10041417653, "TurbosMurderMystery2InfMoney", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TurbosMurderMystery2InfMoney.lua")
+    
+addscript(8588872272,"Project Slayers [Auto Farm, Invisible, Teleports]", "ProjectSlayersAutoFarmInvisibleTeleports", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ProjectSlayersAutoFarmInvisibleTeleports.lua")
+                    
