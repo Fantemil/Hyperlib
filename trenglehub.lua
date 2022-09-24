@@ -1823,3 +1823,5 @@ addscriptexist(6284583030, "PetSimulatorXAutoHatchAutoFarm", "astrofile", "https
     
 addscript(10476933477,"Strong Ninja Simulator [Auto Hatch, Auto Click]", "StrongNinjaSimulatorAutoHatchAutoClick", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/StrongNinjaSimulatorAutoHatchAutoClick.lua")
                     
+                    
+addscriptexist(8704181738, "TiếnTiếnPieceFreeYoru", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TiếnTiếnPieceFreeYoru.lua")
