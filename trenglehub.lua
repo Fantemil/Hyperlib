@@ -2934,3 +2934,6 @@ addscript(35397735,"Scuba Diving at Quill Lake [GUI - Infinite Cash, Infinite Ar
                     
                     
 addscriptexist(109814071, "MedievalWarfareAutoFarm", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MedievalWarfareAutoFarm.lua")
+    
+addscript(98831904,"Adonis [Auto Bypass]", "AdonisAutoBypass", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AdonisAutoBypass.lua")
+                    
