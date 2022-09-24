@@ -2864,3 +2864,5 @@ addscriptexist(2534724415, "EmergencyResponseLibertyCountyAutoLockpick", "Terni"
     
 addscript(9985159673,"Wizardry 101 [Alpha] [God Mode]", "Wizardry101AlphaGodMode", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Wizardry101AlphaGodMode.lua")
                     
+                    
+addscriptexist(8123652942, "LegendPieceGUIAutoFarming", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LegendPieceGUIAutoFarming.lua")
