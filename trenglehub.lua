@@ -2228,3 +2228,6 @@ addscript(9531918774,"mid eastern conflict sim [Inf Ammo]", "mideasternconflicts
                     
                     
 addscriptexist(286090429, "ArsenalNoRecoil", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ArsenalNoRecoil.lua")
+    
+addscript(8705534359,"Shopping Cart Simulator! [Inf Money]", "ShoppingCartSimulatorInfMoney", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ShoppingCartSimulatorInfMoney.lua")
+                    
