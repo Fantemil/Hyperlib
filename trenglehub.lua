@@ -6879,3 +6879,5 @@ addscriptexist(8811271345, "BalancedCraftwarsOverhaulGUIMobFarmOreFarmPlayersKil
     
 addscript(6067142556,"Roblox [Fix Bug]", "RobloxFixBug", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RobloxFixBug.lua")
                     
+                    
+addscriptexist(6677985923, "MillionaireEmpireTycoonInfCash", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MillionaireEmpireTycoonInfCash.lua")
