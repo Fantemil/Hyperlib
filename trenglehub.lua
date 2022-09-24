@@ -7755,3 +7755,5 @@ addscript(5398368730,"Ragdoll Street Fight Simulator [Auto Farm Players]", "Ragd
 addscriptexist(8425637426, "WriteaLetterInfiniteNotes", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/WriteaLetterInfiniteNotes.lua")
                     
 addscriptexist(8425637426, "WriteaLetterClearAllLetters", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/WriteaLetterClearAllLetters.lua")
+                    
+addscriptexist(5326405001, "BaseBattlesGunModInfAmmo", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BaseBattlesGunModInfAmmo.lua")
