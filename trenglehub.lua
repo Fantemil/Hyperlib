@@ -6401,3 +6401,5 @@ addscriptexist(5116869569, "DoodleWorldAttackWildDoodlesAnywhere", "Terni", "htt
 addscriptexist(8492553855, "ProjectUprightNewAutoFarmGUI", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ProjectUprightNewAutoFarmGUI.lua")
                     
 addscriptexist(8781849572, "StarSimulatorBetaCompleteAutoFarmGUI", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/StarSimulatorBetaCompleteAutoFarmGUI.lua")
+                    
+addscriptexist(8781849572, "StarSimulatorBetaInfiniteResources", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/StarSimulatorBetaInfiniteResources.lua")
