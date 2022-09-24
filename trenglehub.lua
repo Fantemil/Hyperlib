@@ -3921,3 +3921,5 @@ addscript(9884452497,"Bloodlust [Infinite Money]", "BloodlustInfiniteMoney", "Te
                     
                     
 addscriptexist(185655149, "BloxburgAutoBuild", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BloxburgAutoBuild.lua")
+                    
+addscriptexist(6677985923, "MillionaireEmpireTycoonAutoFarm", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MillionaireEmpireTycoonAutoFarm.lua")
