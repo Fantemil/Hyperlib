@@ -6465,3 +6465,5 @@ addscript(1417427737,"Mining Simulator [Noclip, Sell blocks, Fly]", "MiningSimul
 addscriptexist(1962086868, "TowerOfHellBypassAntiCheatTPToEndGetAllItemsGodMode", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TowerOfHellBypassAntiCheatTPToEndGetAllItemsGodMode.lua")
                     
 addscriptexist(3210622855, "MannersBadgeWalkGetAllBadgesForCaveWorld", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MannersBadgeWalkGetAllBadgesForCaveWorld.lua")
+                    
+addscriptexist(3210622855, "MannersBadgeWalkGetAllBadgesForSkyWorld", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MannersBadgeWalkGetAllBadgesForSkyWorld.lua")
