@@ -3189,3 +3189,6 @@ addscriptexist(5956785391, "ProjectSlayersSeminocooldownforskills", "Qalnik", "h
     
 addscript(21083417,"Homestead [Log Spam]", "HomesteadLogSpam", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/HomesteadLogSpam.lua")
                     
+    
+addscript(6055959032,"Jailbird [Silent Aim – Ragebot – Visuals And More!]", "JailbirdSilentAim–Ragebot–VisualsAndMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/JailbirdSilentAim–Ragebot–VisualsAndMore.lua")
+                    
