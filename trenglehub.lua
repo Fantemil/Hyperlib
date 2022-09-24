@@ -4829,3 +4829,6 @@ addscriptexist(2185497593, "ArcadeIslandXChipCollector", "Terni", "https://raw.g
 addscriptexist(7791873535, "REALISTICHOODCashCollector", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/REALISTICHOODCashCollector.lua")
                     
 addscriptexist(2809202155, "YourBizarreAdventureItemDupe", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/YourBizarreAdventureItemDupe.lua")
+    
+addscript(4753520418,"The Hood [Auto Money Drop Collect]", "TheHoodAutoMoneyDropCollect", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TheHoodAutoMoneyDropCollect.lua")
+                    
