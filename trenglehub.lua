@@ -5882,3 +5882,5 @@ addscriptexist(8549047195, "AnimeWarriorsSimulatorTpfinalworld", "Qalnik", "http
     
 addscript(6772424226,"2 Player Millionaire Tycoon [Auto Buy & More!]", "2PlayerMillionaireTycoonAutoBuyMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/2PlayerMillionaireTycoonAutoBuyMore.lua")
                     
+                    
+addscriptexist(6938803436, "AnimeDimensionsSimulatorAutoFarmAutoSkillsMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AnimeDimensionsSimulatorAutoFarmAutoSkillsMore.lua")
