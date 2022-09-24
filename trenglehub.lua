@@ -7472,3 +7472,5 @@ addscriptexist(13822889, "LumberTycoon2FullbrightKeystrokesRejoinServer", "Qalni
     
 addscript(6895636084,"Myth Piece (Beta) [Double Stats]", "MythPieceBetaDoubleStats", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MythPieceBetaDoubleStats.lua")
                     
+                    
+addscriptexist(292439477, "PhantomForcesGrenadePrediction", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PhantomForcesGrenadePrediction.lua")
