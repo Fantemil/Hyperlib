@@ -6092,3 +6092,5 @@ addscript(6442957604,"Custom PC Tycoon [Collect all eggs]", "CustomPCTycoonColle
 addscriptexist(7167319176, "ChicagoRemasteredNorecoil", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ChicagoRemasteredNorecoil.lua")
                     
 addscriptexist(6297822481, "TitanWarfareInfGas", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TitanWarfareInfGas.lua")
+                    
+addscriptexist(9203864304, "raiseafloppaAutoClickFloppaAutoCollectmoneyAutoBuy", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/raiseafloppaAutoClickFloppaAutoCollectmoneyAutoBuy.lua")
