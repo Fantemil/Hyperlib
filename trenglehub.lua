@@ -6057,3 +6057,5 @@ addscriptexist(1458767429, "ABANEXHUB–AutoPlayInArena–AutoTargetPlayers", "T
 addscriptexist(4588604953, "CriminalityWallbang", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CriminalityWallbang.lua")
                     
 addscriptexist(189707, "NaturalDisasterSurvivalAutoWinMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NaturalDisasterSurvivalAutoWinMore.lua")
+                    
+addscriptexist(7009799230, "PressureWashSimulatorLooksAwesome", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PressureWashSimulatorLooksAwesome.lua")
