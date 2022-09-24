@@ -7289,3 +7289,5 @@ addscriptexist(7167319176, "ChicagoRemasteredCashFarm", "Terni", "https://raw.gi
     
 addscript(5911084042,"Specter [Auto Farm]", "SpecterAutoFarm", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SpecterAutoFarm.lua")
                     
+                    
+addscriptexist(4753520418, "TheHooodSilentAIM", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TheHooodSilentAIM.lua")
