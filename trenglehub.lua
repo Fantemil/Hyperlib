@@ -4928,3 +4928,5 @@ addscript(5543622168,"Critical Tower Defense [Equip Hot Rash]", "CriticalTowerDe
     
 addscript(9461798258,"Raise a Granny [INF Money]", "RaiseaGrannyINFMoney", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RaiseaGrannyINFMoney.lua")
                     
+                    
+addscriptexist(9551640993, "MiningSimulator2AutoFarmESP", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MiningSimulator2AutoFarmESP.lua")
