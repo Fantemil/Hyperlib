@@ -5717,3 +5717,5 @@ addscriptexist(7305309231, "TaxiBossServerHopAutoFarm", "Terni", "https://raw.gi
     
 addscript(8523408215,"Alo Sanctuary [Collect All Event Orbs]", "AloSanctuaryCollectAllEventOrbs", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AloSanctuaryCollectAllEventOrbs.lua")
                     
+                    
+addscriptexist(8523408215, "AloSanctuaryGetAllMatsMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AloSanctuaryGetAllMatsMore.lua")
