@@ -2301,3 +2301,5 @@ addscriptexist(1554960397, "CarDealershipTycoonAutoRaceDuneAutoRaceRally", "astr
     
 addscript(417267366,"Dollhouse Roleplay [Adm Cmds]", "DollhouseRoleplayAdmCmds", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DollhouseRoleplayAdmCmds.lua")
                     
+                    
+addscriptexist(286090429, "ArsenalSilentAimKillAll", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ArsenalSilentAimKillAll.lua")
