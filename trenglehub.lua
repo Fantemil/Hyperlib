@@ -2866,3 +2866,6 @@ addscript(9985159673,"Wizardry 101 [Alpha] [God Mode]", "Wizardry101AlphaGodMode
                     
                     
 addscriptexist(8123652942, "LegendPieceGUIAutoFarming", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LegendPieceGUIAutoFarming.lua")
+    
+addscript(7664045612,"Tiny Bread Factory [Auto Farm]", "TinyBreadFactoryAutoFarm", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TinyBreadFactoryAutoFarm.lua")
+                    
