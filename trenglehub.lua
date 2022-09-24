@@ -2516,3 +2516,6 @@ addscript(6512923934,"Ultra Clicker Simulator [Auto Click]", "UltraClickerSimula
 addscriptexist(9970551995, "TouchTheGrassSimulatorKillauraautohatch", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TouchTheGrassSimulatorKillauraautohatch.lua")
                     
 addscriptexist(10325366821, "OOFTycoonAutoFarmAutoDeposit", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OOFTycoonAutoFarmAutoDeposit.lua")
+    
+addscript(10118559731,"Nico's Nextbots [God Mode]", "NicosNextbotsGodMode", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NicosNextbotsGodMode.lua")
+                    
