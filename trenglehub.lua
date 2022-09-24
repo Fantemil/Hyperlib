@@ -7946,3 +7946,6 @@ addscriptexist(6170705260, "BlendingSimulator2BlendTokensFarm", "Qalnik", "https
     
 addscript(4714807265,"click to get bigger [Inf Coins]", "clicktogetbiggerInfCoins", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/clicktogetbiggerInfCoins.lua")
                     
+    
+addscript(2597632885,"sno day [All Hat]", "snodayAllHat", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/snodayAllHat.lua")
+                    
