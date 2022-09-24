@@ -7274,3 +7274,5 @@ addscriptexist(679737281, "MoonCityTeleportAimbotVehicle", "Qalnik", "https://ra
 addscriptexist(8649501395, "NFLTycoonInfMoney", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NFLTycoonInfMoney.lua")
                     
 addscriptexist(8649501395, "NFLTycoonCollectFootballCollectionThingies", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NFLTycoonCollectFootballCollectionThingies.lua")
+                    
+addscriptexist(6422372837, "SnipersInfMoney", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SnipersInfMoney.lua")
