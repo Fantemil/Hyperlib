@@ -7650,3 +7650,5 @@ addscriptexist(2317712696, "TheWildWestSILENTAIM", "Terni", "https://raw.githubu
     
 addscript(6589036319,"Sec [Inf Coins]", "SecInfCoins", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SecInfCoins.lua")
                     
+                    
+addscriptexist(5303541547, "TwoPieceAutoFarmAutoStatsMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TwoPieceAutoFarmAutoStatsMore.lua")
