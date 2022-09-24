@@ -3613,3 +3613,5 @@ addscript(5310653431,"Synapse X Stream Sniper", "SynapseXStreamSniper", "Terni",
     
 addscript(9530846958,"EPSILON LINEAGE 2 [Infinite Mana & More!]", "EPSILONLINEAGE2InfiniteManaMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/EPSILONLINEAGE2InfiniteManaMore.lua")
                     
+                    
+addscriptexist(537413528, "BuildABoatForTreasureAutoFarmTptoclosedplacesAntiafk", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BuildABoatForTreasureAutoFarmTptoclosedplacesAntiafk.lua")
