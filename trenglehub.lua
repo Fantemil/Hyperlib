@@ -5581,3 +5581,6 @@ addscriptexist(4996049426, "AllStarTowerDefenseGUIAutoJoinAutoEvolveMore", "Tern
 addscriptexist(1224212277, "MadCityKillAura", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MadCityKillAura.lua")
                     
 addscriptexist(4588604953, "CriminalityGunModsPlayersESPMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CriminalityGunModsPlayersESPMore.lua")
+    
+addscript(3064296930,"God Mode", "GodMode", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/GodMode.lua")
+                    
