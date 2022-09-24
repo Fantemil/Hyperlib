@@ -4835,3 +4835,5 @@ addscript(4753520418,"The Hood [Auto Money Drop Collect]", "TheHoodAutoMoneyDrop
     
 addscript(8762785110,"Survival Games Ultimate [Inf Stamina]", "SurvivalGamesUltimateInfStamina", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SurvivalGamesUltimateInfStamina.lua")
                     
+                    
+addscriptexist(3095204897, "IsleAutoHack", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/IsleAutoHack.lua")
