@@ -1752,3 +1752,5 @@ addscript(10001513103,"Limited Words [Annoy Mods, Waste Words, Get Joseph Badge]
                     
                     
 addscriptexist(286090429, "ArsenalNoSpreadAimbot", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ArsenalNoSpreadAimbot.lua")
+                    
+addscriptexist(2537430692, "JengaStopGame", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/JengaStopGame.lua")
