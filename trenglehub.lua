@@ -7943,3 +7943,6 @@ addscript(5112591059,"Ninjaman Simulator [Inf Strength]", "NinjamanSimulatorInfS
                     
                     
 addscriptexist(6170705260, "BlendingSimulator2BlendTokensFarm", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BlendingSimulator2BlendTokensFarm.lua")
+    
+addscript(4714807265,"click to get bigger [Inf Coins]", "clicktogetbiggerInfCoins", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/clicktogetbiggerInfCoins.lua")
+                    
