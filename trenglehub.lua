@@ -2964,3 +2964,5 @@ addscriptexist(180364455, "SurviveTheDisasters2Fullanticheatbypass", "Qalnik", "
     
 addscript(5571328985,"Bloodlines [Auto Farm, Auto Sell, Drop All]", "BloodlinesAutoFarmAutoSellDropAll", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BloodlinesAutoFarmAutoSellDropAll.lua")
                     
+                    
+addscriptexist(7127407851, "AttackonTitanEvolutionInfGasInfJumpSpeedBypass", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AttackonTitanEvolutionInfGasInfJumpSpeedBypass.lua")
