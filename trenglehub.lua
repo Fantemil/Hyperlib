@@ -5199,3 +5199,6 @@ addscript(9107946567,"Warriors Army Simulator [GUI - Auto Farm, Auto Revice & Mo
     
 addscript(6769764667,"Factory Simulator [GUI - Auto Farm]", "FactorySimulatorGUIAutoFarm", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FactorySimulatorGUIAutoFarm.lua")
                     
+    
+addscript(9573746878,"Bleach - Senko [Hollow Eat]", "BleachSenkoHollowEat", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BleachSenkoHollowEat.lua")
+                    
