@@ -6362,3 +6362,5 @@ addscript(8044403176,"Vehicle Champions [Auto Click, Auto Rebirth, Auto Upgrade]
     
 addscript(3725149043,"Rocket Ball [Rocket Ball No Cooldown, Sword No Cooldown]", "RocketBallRocketBallNoCooldownSwordNoCooldown", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RocketBallRocketBallNoCooldownSwordNoCooldown.lua")
                     
+                    
+addscriptexist(155382109, "SurviveandKilltheKillersinArea51GetAllWeaponsRefillAmmoESP", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SurviveandKilltheKillersinArea51GetAllWeaponsRefillAmmoESP.lua")
