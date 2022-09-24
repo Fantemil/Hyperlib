@@ -33,8 +33,13 @@ PlayerSection:NewSlider("Jumppower", "Changes the jumppower", 250, 50, function(
     game.Players.LocalPlayer.Character.Humanoid.JumpPower = v
 end)
 
-local generalscripts = Window:NewTab("General Scripts")
+local generalscripts = Window:NewTab("General")
 local generalscriptssection = generalscripts:NewSection("---General Scripts---")
+local Keybinds = Window:NewTab("Keybinds")
+local KeybindsSection = Keybinds:NewSection("---Keybinds---")
+KeybindsSection:NewKeybind("Toggle UI", "Press F To toggle the Hyperlib UI", Enum.KeyCode.F, function()
+	Library:ToggleUI()
+end)
 generalscriptssection:NewButton("Infinite Yield", "Made by EdgeIY and more", function()
     loadstring(game:HttpGet("https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source"))()
 end)
