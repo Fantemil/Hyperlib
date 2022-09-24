@@ -6803,3 +6803,5 @@ addscriptexist(1537690962, "BeeSwarmSimulatorGUIAutoFarmMuchMore", "Terni", "htt
     
 addscript(5736409216,"Mall Tycoon [Auto Collect, Auto Buy, Auto rebirth]", "MallTycoonAutoCollectAutoBuyAutorebirth", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MallTycoonAutoCollectAutoBuyAutorebirth.lua")
                     
+                    
+addscriptexist(659222129, "Swordburst2FreeGUIAutoFarmMoreOpenSourse", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Swordburst2FreeGUIAutoFarmMoreOpenSourse.lua")
