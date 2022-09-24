@@ -3733,3 +3733,5 @@ addscript(9616411936,"Man City Blue Moon [Free Ugc Item]", "ManCityBlueMoonFreeU
     
 addscript(6737970321,"Livetopia [Free Ugc Item]", "LivetopiaFreeUgcItem", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LivetopiaFreeUgcItem.lua")
                     
+                    
+addscriptexist(7075737729, "HoopCentral6AutoDunk", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/HoopCentral6AutoDunk.lua")
