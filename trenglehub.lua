@@ -7140,3 +7140,6 @@ addscriptexist(306964494, "LoomianLegacyFreeAutoFarm", "Terni", "https://raw.git
     
 addscript(7107498084,"Anime Battle Tycoon [Auto Collect Cash, God Mode, Infite Jump]", "AnimeBattleTycoonAutoCollectCashGodModeInfiteJump", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AnimeBattleTycoonAutoCollectCashGodModeInfiteJump.lua")
                     
+    
+addscript(5546255721,"Rebirth Champions [Auto Click, Unlock GamePasses, Craft All Pets]", "RebirthChampionsAutoClickUnlockGamePassesCraftAllPets", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RebirthChampionsAutoClickUnlockGamePassesCraftAllPets.lua")
+                    
