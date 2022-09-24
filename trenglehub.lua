@@ -5575,3 +5575,5 @@ addscriptexist(9426082120, "SamsungSuperstarGalaxyAutoFarmClaimRewardsMore", "Te
 addscriptexist(6284583030, "PetSimulatorXAutoFarmAutoEggOpeningMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PetSimulatorXAutoFarmAutoEggOpeningMore.lua")
                     
 addscriptexist(370731277, "MeepCityGameDestroyer", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MeepCityGameDestroyer.lua")
+                    
+addscriptexist(4996049426, "AllStarTowerDefenseGUIAutoJoinAutoEvolveMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AllStarTowerDefenseGUIAutoJoinAutoEvolveMore.lua")
