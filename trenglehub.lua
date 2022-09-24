@@ -4697,3 +4697,5 @@ addscript(969669348,"Black Magic II Phantoms Causatum [Kill All]", "BlackMagicII
 addscriptexist(5766084948, "SCPTheRedLakeInfiniteAmmo", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SCPTheRedLakeInfiniteAmmo.lua")
                     
 addscriptexist(537413528, "BuildABoatForTreasureAutoFarmRedeemallcode", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BuildABoatForTreasureAutoFarmRedeemallcode.lua")
+                    
+addscriptexist(3956818381, "NinjaLegendsAutoSwingAutoSellTeleportToCoins", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NinjaLegendsAutoSwingAutoSellTeleportToCoins.lua")
