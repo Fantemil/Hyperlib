@@ -3070,3 +3070,5 @@ addscript(8433116262,"Lost Adrift [EA] [Steal Boat]", "LostAdriftEAStealBoat", "
                     
                     
 addscriptexist(3851622790, "BreakInStoryGUIAutoHitKillAllMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BreakInStoryGUIAutoHitKillAllMore.lua")
+                    
+addscriptexist(7305309231, "TaxiBossAutoFarm", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TaxiBossAutoFarm.lua")
