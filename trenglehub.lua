@@ -7286,3 +7286,6 @@ addscriptexist(3623096087, "MuscleLegendsAutoFarmAutoDurabilityAutoRebirth", "Qa
 addscriptexist(7453798168, "YouTubeSimulatorXESPWalkSpeedAntiAfk", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/YouTubeSimulatorXESPWalkSpeedAntiAfk.lua")
                     
 addscriptexist(7167319176, "ChicagoRemasteredCashFarm", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ChicagoRemasteredCashFarm.lua")
+    
+addscript(5911084042,"Specter [Auto Farm]", "SpecterAutoFarm", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SpecterAutoFarm.lua")
+                    
