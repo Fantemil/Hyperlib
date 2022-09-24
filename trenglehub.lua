@@ -7837,3 +7837,5 @@ addscript(4967465336,"Ray's Mod [no cooldown]", "RaysModnocooldown", "Qalnik", "
 addscriptexist(182781154, "TheMazeRunnerEsp", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TheMazeRunnerEsp.lua")
                     
 addscriptexist(7114796110, "AnimeTrainingSimulatorAutoKillAutoTrainAutoRebirth", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AnimeTrainingSimulatorAutoKillAutoTrainAutoRebirth.lua")
+                    
+addscriptexist(6843905606, "CriticalLegendsInfGold", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CriticalLegendsInfGold.lua")
