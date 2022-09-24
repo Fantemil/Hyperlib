@@ -7159,3 +7159,5 @@ addscriptexist(3823781113, "SaberSimulatorAutoSwingAutoFarmStrengthAutoSellwhenF
 addscriptexist(3260590327, "TowerDefenseSimulatorCameraCounterAutoStrats", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TowerDefenseSimulatorCameraCounterAutoStrats.lua")
                     
 addscriptexist(2413927524, "RakeREMASTERINGInfStaminaBoxespNoFallDamage", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RakeREMASTERINGInfStaminaBoxespNoFallDamage.lua")
+                    
+addscriptexist(7107498084, "AnimeBattleBuySpawnerAutoCollectAutoSpawner", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AnimeBattleBuySpawnerAutoCollectAutoSpawner.lua")
