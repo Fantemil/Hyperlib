@@ -4690,3 +4690,6 @@ addscriptexist(3101667897, "LegendsOfSpeedStepsFarmGemsFarm", "Qalnik", "https:/
     
 addscript(8613864463,"Muscle Legends [Auto Lifting, Claim All chests, Teleport]", "MuscleLegendsAutoLiftingClaimAllchestsTeleport", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MuscleLegendsAutoLiftingClaimAllchestsTeleport.lua")
                     
+    
+addscript(969669348,"Black Magic II Phantoms Causatum [Kill All]", "BlackMagicIIPhantomsCausatumKillAll", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BlackMagicIIPhantomsCausatumKillAll.lua")
+                    
