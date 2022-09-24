@@ -4223,3 +4223,6 @@ addscriptexist(286090429, "ArsenalGUIXrayAutoFarmMore", "Terni", "https://raw.gi
 addscriptexist(2039118386, "NeighborhoodwarSilentAIM", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NeighborhoodwarSilentAIM.lua")
                     
 addscriptexist(2546155523, "RoVilleAutoRestockBusiness", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RoVilleAutoRestockBusiness.lua")
+    
+addscript(5944009947,"FORCE [TESTING-ZONE] [Trinket Auto Farm & More!]", "FORCETESTINGZONETrinketAutoFarmMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FORCETESTINGZONETrinketAutoFarmMore.lua")
+                    
