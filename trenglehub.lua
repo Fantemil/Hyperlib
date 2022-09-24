@@ -2094,3 +2094,5 @@ addscriptexist(7991339063, "RainbowFriendsEspCollectItems", "astrofile", "https:
 addscriptexist(9585537847, "SHADOVISRPGKillAuraAutoFarm", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SHADOVISRPGKillAuraAutoFarm.lua")
                     
 addscriptexist(6428174188, "LOSTRPGKillAllMobs", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LOSTRPGKillAllMobs.lua")
+                    
+addscriptexist(6609611538, "MechanicaCrashPlayer", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MechanicaCrashPlayer.lua")
