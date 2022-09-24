@@ -2433,3 +2433,5 @@ addscriptexist(10315830663, "CantSayTheLetterCansaysLetter", "astrofile", "https
     
 addscript(10011532704,"Anime Brawl Simulator [Inf Stars]", "AnimeBrawlSimulatorInfStars", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AnimeBrawlSimulatorInfStars.lua")
                     
+                    
+addscriptexist(4282985734, "CombatWarriorsKillAuraAutoEquip", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CombatWarriorsKillAuraAutoEquip.lua")
