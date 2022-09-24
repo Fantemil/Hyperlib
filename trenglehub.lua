@@ -7936,3 +7936,5 @@ addscriptexist(7057761396, "EpicFidgetHuntPopsFarm", "Qalnik", "https://raw.gith
 addscriptexist(662417684, "LUCKYBLOCKSAllTools", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LUCKYBLOCKSAllTools.lua")
                     
 addscriptexist(6356806222, "LagTest2021NoLag", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LagTest2021NoLag.lua")
+                    
+addscriptexist(6442957604, "CustomPCTycoonRedeemAllCodes", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CustomPCTycoonRedeemAllCodes.lua")
