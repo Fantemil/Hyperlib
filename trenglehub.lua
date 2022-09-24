@@ -4162,3 +4162,5 @@ addscriptexist(2248408710, "DestructionSimulatorMaxLvlGetAllWeaponsBombNoCooldow
 addscriptexist(4598019433, "genericroleplaygaemAutoFarm", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/genericroleplaygaemAutoFarm.lua")
                     
 addscriptexist(6677985923, "MillionaireEmpireTycoonInfiniteMoneyRemote", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MillionaireEmpireTycoonInfiniteMoneyRemote.lua")
+                    
+addscriptexist(6206893534, "CobraKaiKarateGUIAutoFarming", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CobraKaiKarateGUIAutoFarming.lua")
