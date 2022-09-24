@@ -3819,3 +3819,5 @@ addscript(3722916,"2 Player Company Tycoon [Inf Money]", "2PlayerCompanyTycoonIn
 addscriptexist(537413528, "BuildABoatForTreasureInfBlockWORKING", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BuildABoatForTreasureInfBlockWORKING.lua")
                     
 addscriptexist(2753915549, "BloxFruitsSilentAim", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BloxFruitsSilentAim.lua")
+                    
+addscriptexist(7940932746, "RobloxCloVRFE", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RobloxCloVRFE.lua")
