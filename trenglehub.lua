@@ -3672,3 +3672,6 @@ addscriptexist(8069117419, "DemonSoulSimulatorBreathingDupe", "Terni", "https://
 addscriptexist(5956785391, "ProjectSlayersMuzanTP", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ProjectSlayersMuzanTP.lua")
                     
 addscriptexist(5956785391, "ProjectSlayersDatawipeagain", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ProjectSlayersDatawipeagain.lua")
+    
+addscript(7140186081,"GunGame [Kill All]", "GunGameKillAll", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/GunGameKillAll.lua")
+                    
