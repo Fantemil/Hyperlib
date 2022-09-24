@@ -5338,3 +5338,5 @@ addscript(7797478022,"Broken Bones Simulator [Infinite Money]", "BrokenBonesSimu
 addscriptexist(3823781113, "SaberSimulatorNewAutoFarmGUI", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SaberSimulatorNewAutoFarmGUI.lua")
                     
 addscriptexist(6403373529, "SlapBattlesAutoCollectAllKillOpenSource", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SlapBattlesAutoCollectAllKillOpenSource.lua")
+                    
+addscriptexist(7167319176, "ChicagoRemasteredJewelryStoreAutoFarm", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ChicagoRemasteredJewelryStoreAutoFarm.lua")
