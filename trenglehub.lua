@@ -7282,3 +7282,5 @@ addscriptexist(1537690962, "BeeSwarmSimulatorCrashServer", "Terni", "https://raw
 addscriptexist(8308074824, "MemePieceGetAllItems–EvenAdminItems", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MemePieceGetAllItems–EvenAdminItems.lua")
                     
 addscriptexist(3623096087, "MuscleLegendsAutoFarmAutoDurabilityAutoRebirth", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MuscleLegendsAutoFarmAutoDurabilityAutoRebirth.lua")
+                    
+addscriptexist(7453798168, "YouTubeSimulatorXESPWalkSpeedAntiAfk", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/YouTubeSimulatorXESPWalkSpeedAntiAfk.lua")
