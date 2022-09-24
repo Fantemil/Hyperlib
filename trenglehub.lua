@@ -8335,3 +8335,5 @@ addscriptexist(2377868063, "StrucidSilentAimBase", "Terni", "https://raw.githubu
     
 addscript(7550128349,"London", "LondonNewJourneyMoneyFarmingSilentAim", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LondonNewJourneyMoneyFarmingSilentAim.lua")
                     
+                    
+addscriptexist(5023820864, "TradeTowerAutoCoinFlip", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TradeTowerAutoCoinFlip.lua")
