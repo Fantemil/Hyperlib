@@ -5988,3 +5988,5 @@ addscript(9230434873,"Logitech Song Breaker Awards [Collect All Coins - Unhide A
                     
                     
 addscriptexist(9225577563, "AmnestyESPSilentAimAimlockGUI", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AmnestyESPSilentAimAimlockGUI.lua")
+                    
+addscriptexist(5712833750, "AnimalSimulatorFreeRadio", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AnimalSimulatorFreeRadio.lua")
