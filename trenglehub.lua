@@ -1965,3 +1965,6 @@ addscript(9796315265,"Streetz War [Auto Farm]", "StreetzWarAutoFarm", "Qalnik", 
 addscriptexist(9285238704, "RaceClickerAutoClickAutoWin", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RaceClickerAutoClickAutoWin.lua")
                     
 addscriptexist(286090429, "ArsenalKillAllInvisible", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ArsenalKillAllInvisible.lua")
+    
+addscript(6766156863,"Strongman Simulator [Anti Afk, AutoRebirth]", "StrongmanSimulatorAntiAfkAutoRebirth", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/StrongmanSimulatorAntiAfkAutoRebirth.lua")
+                    
