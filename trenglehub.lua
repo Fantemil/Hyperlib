@@ -6377,3 +6377,5 @@ addscript(8073154099,"The Intruder [Intruder detection]", "TheIntruderIntruderde
                     
                     
 addscriptexist(292439477, "PhantomForcesFireRateHacks", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PhantomForcesFireRateHacks.lua")
+                    
+addscriptexist(3623096087, "MuscleLegendsAutoFarmGUI", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MuscleLegendsAutoFarmGUI.lua")
