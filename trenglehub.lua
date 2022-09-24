@@ -2888,3 +2888,5 @@ addscriptexist(180364455, "SurviveTheDisasters2V4175FullAntiCheatBypass", "Terni
 addscriptexist(10386774046, "LegendMagicianAutoFarmAutoPickup", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LegendMagicianAutoFarmAutoPickup.lua")
                     
 addscriptexist(445664957, "ParkourGUISetFlowSetCombo", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ParkourGUISetFlowSetCombo.lua")
+                    
+addscriptexist(7127407851, "AttackOnTitanEvolutionInstantSpins", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AttackOnTitanEvolutionInstantSpins.lua")
