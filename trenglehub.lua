@@ -2234,3 +2234,6 @@ addscript(8705534359,"Shopping Cart Simulator! [Inf Money]", "ShoppingCartSimula
     
 addscript(8508161757,"Raise An Albert [Inf Money]", "RaiseAnAlbertInfMoney", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RaiseAnAlbertInfMoney.lua")
                     
+    
+addscript(3199109640,"Camping 2 [TP, Walkspeed]", "Camping2TPWalkspeed", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Camping2TPWalkspeed.lua")
+                    
