@@ -3209,3 +3209,5 @@ addscript(9129288160,"Tommy Play [Collect All Tokens]", "TommyPlayCollectAllToke
     
 addscript(9702206679,"Heroes Daydream [Auto Farm V2]", "HeroesDaydreamAutoFarmV2", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/HeroesDaydreamAutoFarmV2.lua")
                     
+                    
+addscriptexist(5571328985, "BloodlinesInfiniteCashMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BloodlinesInfiniteCashMore.lua")
