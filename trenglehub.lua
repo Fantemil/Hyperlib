@@ -3567,3 +3567,6 @@ addscriptexist(8473958692, "TheTrialsAutoPressButtonsOpenAllCrates", "Qalnik", "
     
 addscript(8323912766,"Roblox [Chat Translator]", "RobloxChatTranslator", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RobloxChatTranslator.lua")
                     
+    
+addscript(3840352284,"Volleyball 4.2 [No Line-Fault]", "Volleyball42NoLineFault", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Volleyball42NoLineFault.lua")
+                    
