@@ -5033,3 +5033,6 @@ addscriptexist(3956818381, "NinjaLegendsAutoFarmAutoBuyAllGUI", "Terni", "https:
 addscriptexist(23578803, "HotelElephantGUIGiverCash", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/HotelElephantGUIGiverCash.lua")
                     
 addscriptexist(740581508, "EntryPointNPCCameraESP", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/EntryPointNPCCameraESP.lua")
+    
+addscript(5063122755,"Overlook RP [Auto Farm]", "OverlookRPAutoFarm", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OverlookRPAutoFarm.lua")
+                    
