@@ -8256,3 +8256,5 @@ addscriptexist(6284583030, "PetSimulatorXx3SpeedHoverBoard", "Qalnik", "https://
 addscriptexist(292439477, "PhantomForcesBanlandChatenabler", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PhantomForcesBanlandChatenabler.lua")
                     
 addscriptexist(3823781113, "SaberSimulatorCrackedGui20", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SaberSimulatorCrackedGui20.lua")
+                    
+addscriptexist(4954096313, "FieldTripZKillAllPlayers", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FieldTripZKillAllPlayers.lua")
