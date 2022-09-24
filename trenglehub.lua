@@ -4221,3 +4221,5 @@ addscriptexist(4459593483, "FORCEPREALPHAGUITeleports", "Terni", "https://raw.gi
 addscriptexist(286090429, "ArsenalGUIXrayAutoFarmMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ArsenalGUIXrayAutoFarmMore.lua")
                     
 addscriptexist(2039118386, "NeighborhoodwarSilentAIM", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NeighborhoodwarSilentAIM.lua")
+                    
+addscriptexist(2546155523, "RoVilleAutoRestockBusiness", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RoVilleAutoRestockBusiness.lua")
