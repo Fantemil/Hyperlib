@@ -5837,3 +5837,5 @@ addscriptexist(8209480473, "SpotifyIslandLvlfarm", "Qalnik", "https://raw.github
     
 addscript(3678761576,"ENTRENCHED ALPHA [AimBot]", "ENTRENCHEDALPHAAimBot", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ENTRENCHEDALPHAAimBot.lua")
                     
+                    
+addscriptexist(8209480473, "SpotifyIslandFarmMusic", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SpotifyIslandFarmMusic.lua")
