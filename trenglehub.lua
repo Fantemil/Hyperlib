@@ -5847,3 +5847,5 @@ addscript(9041110505,"Unlimited Upgrade Simulator [Inf Gem]", "UnlimitedUpgradeS
                     
                     
 addscriptexist(9041110505, "UnlimitedUpgradeSimulatorInfMoney", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/UnlimitedUpgradeSimulatorInfMoney.lua")
+                    
+addscriptexist(8403541179, "BloodEngineIISlashManiaKillAll", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BloodEngineIISlashManiaKillAll.lua")
