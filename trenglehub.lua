@@ -3463,3 +3463,5 @@ addscript(623694595,"Phenom [Drop Ball]", "PhenomDropBall", "Qalnik", "https://r
                     
                     
 addscriptexist(6678877691, "ZOKillAuraEspEquipWeapon", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ZOKillAuraEspEquipWeapon.lua")
+                    
+addscriptexist(6403373529, "SlapbattlesUltraspeedflyadmin", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SlapbattlesUltraspeedflyadmin.lua")
