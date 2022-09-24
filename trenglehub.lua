@@ -8501,3 +8501,5 @@ addscriptexist(6878620017, "MegaObbyAutoLvl", "Qalnik", "https://raw.githubuserc
 addscriptexist(6720959312, "LootQuestAutoFarmMobHideName", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LootQuestAutoFarmMobHideName.lua")
                     
 addscriptexist(263761432, "HorrificHousingAntiFall", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/HorrificHousingAntiFall.lua")
+                    
+addscriptexist(6085581583, "ProjectHeroAutoFarmAutoQuestStats", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ProjectHeroAutoFarmAutoQuestStats.lua")
