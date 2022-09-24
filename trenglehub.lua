@@ -3539,3 +3539,5 @@ addscript(4169490976,"Mortem Metallum [Kill All]", "MortemMetallumKillAll", "Ter
                     
                     
 addscriptexist(9049840490, "SonicSpeedSimulatorGUIAutoRunAutoRebirthMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SonicSpeedSimulatorGUIAutoRunAutoRebirthMore.lua")
+                    
+addscriptexist(6716188523, "BusinessTycoonInfiniteMoney", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BusinessTycoonInfiniteMoney.lua")
