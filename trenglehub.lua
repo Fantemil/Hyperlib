@@ -6347,3 +6347,5 @@ addscriptexist(8137333410, "PixelArtColorbynumberAutoPaint", "Terni", "https://r
     
 addscript(8823442198,"Deepwoken Battle Arena [Auto Collect]", "DeepwokenBattleArenaAutoCollect", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DeepwokenBattleArenaAutoCollect.lua")
                     
+                    
+addscriptexist(7560156054, "ClickerSimulatorAutoFarmGUI", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ClickerSimulatorAutoFarmGUI.lua")
