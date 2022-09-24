@@ -7843,3 +7843,6 @@ addscriptexist(6843905606, "CriticalLegendsInfGold", "Qalnik", "https://raw.gith
 addscriptexist(7279999673, "DragonBladeOpenWorldRPGAutoFarm", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DragonBladeOpenWorldRPGAutoFarm.lua")
                     
 addscriptexist(70005410, "BloxHuntTokensAutoFarm", "rbxscript", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BloxHuntTokensAutoFarm.lua")
+    
+addscript(7232779505,"Type Race [Auto Type]", "TypeRaceAutoType", "rbxscript", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TypeRaceAutoType.lua")
+                    
