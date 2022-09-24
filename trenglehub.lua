@@ -6134,3 +6134,6 @@ addscriptexist(6679274937, "VansWorldAutoCollectCoinsAutoXpGainCompleteAllguests
     
 addscript(5045567407,"Nations Roleplay [Coloring of the World]", "NationsRoleplayColoringoftheWorld", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NationsRoleplayColoringoftheWorld.lua")
                     
+    
+addscript(4505214429,"Soul Eater", "SoulEaterResonanceAutoFarmAutoQuestClicktp", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SoulEaterResonanceAutoFarmAutoQuestClicktp.lua")
+                    
