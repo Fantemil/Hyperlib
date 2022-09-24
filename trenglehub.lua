@@ -3980,3 +3980,6 @@ addscript(9875254583,"Juice Pirates [Max Level]", "JuicePiratesMaxLevel", "Terni
                     
                     
 addscriptexist(9875254583, "JuicePiratesInfiniteGems", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/JuicePiratesInfiniteGems.lua")
+    
+addscript(9568982793,"Da Hood Battlegrounds [Rapid Fire Mod]", "DaHoodBattlegroundsRapidFireMod", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DaHoodBattlegroundsRapidFireMod.lua")
+                    
