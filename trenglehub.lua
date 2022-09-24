@@ -3961,3 +3961,6 @@ addscript(4237861040,"Treacherous Tower [GUI - Auto Farm]", "TreacherousTowerGUI
                     
                     
 addscriptexist(9551640993, "MiningSimulator2RemoveEggAnimations", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MiningSimulator2RemoveEggAnimations.lua")
+    
+addscript(7540727946,"Hoops Life [Auto Time - Semi Aimbot - Open Source]", "HoopsLifeAutoTimeSemiAimbotOpenSource", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/HoopsLifeAutoTimeSemiAimbotOpenSource.lua")
+                    
