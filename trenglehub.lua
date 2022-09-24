@@ -2083,3 +2083,5 @@ addscriptexist(142823291, "MurderMystery2AutofarmEspKillAura", "Qalnik", "https:
 addscriptexist(277751860, "EpicAntiCheatBypass", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/EpicAntiCheatBypass.lua")
                     
 addscriptexist(6516141723, "DOORSWardrobeEspEventNotifiers", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DOORSWardrobeEspEventNotifiers.lua")
+                    
+addscriptexist(9872472334, "EvadeFreeRespawn", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/EvadeFreeRespawn.lua")
