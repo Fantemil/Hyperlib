@@ -7379,3 +7379,5 @@ addscript(6166086846,"Street Sweeper [One Punch And Hitboxes]", "StreetSweeperOn
                     
                     
 addscriptexist(7114303730, "DragonOrbzAutoFarmWithAutoQuest", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DragonOrbzAutoFarmWithAutoQuest.lua")
+                    
+addscriptexist(2629642516, "BitcoinMinerSnowflakeFarm", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BitcoinMinerSnowflakeFarm.lua")
