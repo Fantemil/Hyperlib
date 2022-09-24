@@ -3931,3 +3931,5 @@ addscriptexist(8876694280, "StrongSimulatorXAutoFarmAutoRebirthHideNameTag", "Qa
 addscriptexist(8303902695, "PetPosseSpamCoin", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PetPosseSpamCoin.lua")
                     
 addscriptexist(35397735, "ScubaDivingatQuillLakeInfGold", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ScubaDivingatQuillLakeInfGold.lua")
+                    
+addscriptexist(35397735, "ScubaDivingatQuillLakeGodmode", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ScubaDivingatQuillLakeGodmode.lua")
