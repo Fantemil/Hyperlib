@@ -7374,3 +7374,6 @@ addscriptexist(3095204897, "IsleESPAntiKickMore", "Terni", "https://raw.githubus
     
 addscript(9528010,"Blood & Iron [Anticheat Bypass]", "BloodIronAnticheatBypass", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BloodIronAnticheatBypass.lua")
                     
+    
+addscript(6166086846,"Street Sweeper [One Punch And Hitboxes]", "StreetSweeperOnePunchAndHitboxes", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/StreetSweeperOnePunchAndHitboxes.lua")
+                    
