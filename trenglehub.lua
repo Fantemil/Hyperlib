@@ -1538,3 +1538,6 @@ addscript(8425637426,"Write a Letter [Auto Give Notes]", "WriteaLetterAutoGiveNo
 addscriptexist(8737602449, "PLSDONATERandomFoureneCookie", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PLSDONATERandomFoureneCookie.lua")
                     
 addscriptexist(9304358188104, "FindTheMemesGetAll", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FindTheMemesGetAll.lua")
+    
+addscript(8054462345,"Michael's Zombies [Kill Aura]", "MichaelsZombiesKillAura", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MichaelsZombiesKillAura.lua")
+                    
