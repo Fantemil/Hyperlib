@@ -6505,3 +6505,6 @@ addscript(8308074824,"Meme Piece [Infinite Skill Points]", "MemePieceInfiniteSki
                     
                     
 addscriptexist(8492553855, "ProjectUprightItemsFarmMobPlayersFarmAutoQuestMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ProjectUprightItemsFarmMobPlayersFarmAutoQuestMore.lua")
+    
+addscript(5033328743,"The Scorch [Infinite Health]", "TheScorchInfiniteHealth", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TheScorchInfiniteHealth.lua")
+                    
