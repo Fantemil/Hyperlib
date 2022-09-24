@@ -4908,3 +4908,5 @@ addscriptexist(9388793159, "CoruscantRoleplaySilentAimHitChanceHitPartFOVCircle"
     
 addscript(5965591336,"Soul War [Infinite Boost]", "SoulWarInfiniteBoost", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SoulWarInfiniteBoost.lua")
                     
+                    
+addscriptexist(263761432, "HorrificHousingSemiGodMode", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/HorrificHousingSemiGodMode.lua")
