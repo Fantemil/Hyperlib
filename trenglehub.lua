@@ -2894,3 +2894,5 @@ addscriptexist(7127407851, "AttackOnTitanEvolutionInstantSpins", "Terni", "https
 addscriptexist(4951858512, "VictoryRaceFreeWins", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/VictoryRaceFreeWins.lua")
                     
 addscriptexist(10001513103, "LimitedWordsAutoDailySpin", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LimitedWordsAutoDailySpin.lua")
+                    
+addscriptexist(2727067538, "WorldZeroGUIAutoFarm", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/WorldZeroGUIAutoFarm.lua")
