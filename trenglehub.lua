@@ -4420,3 +4420,5 @@ addscriptexist(6755746130, "FruitJuiceTycoonRefreshedAutoFarm", "Terni", "https:
     
 addscript(4195834406,"Dragon Ball Online Generations [Auto Teleport, Kill PLayer Aura, Esp]", "DragonBallOnlineGenerationsAutoTeleportKillPLayerAuraEsp", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DragonBallOnlineGenerationsAutoTeleportKillPLayerAuraEsp.lua")
                     
+                    
+addscriptexist(606849621, "JailbreakKeycardUnlockdoors", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/JailbreakKeycardUnlockdoors.lua")
