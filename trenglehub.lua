@@ -5872,3 +5872,5 @@ addscriptexist(740581508, "EntryPointKillNPCsNPCChams", "Qalnik", "https://raw.g
 addscriptexist(7560156054, "ClickerSimulatorAutoClickAutoCollectGiftsOpenEgg", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ClickerSimulatorAutoClickAutoCollectGiftsOpenEgg.lua")
                     
 addscriptexist(8357510970, "AnimePunchingSimulatorAutoTapAutoRebirthAutoOpenEgg", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AnimePunchingSimulatorAutoTapAutoRebirthAutoOpenEgg.lua")
+                    
+addscriptexist(8540168650, "StandUprightRebootedItemServerHopFarm", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/StandUprightRebootedItemServerHopFarm.lua")
