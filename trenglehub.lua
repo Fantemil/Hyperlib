@@ -2613,3 +2613,5 @@ addscriptexist(8884334497, "MiningClickerSimulatorAutoFarm", "Terni", "https://r
 addscriptexist(7860844204, "LifeSentenceAutoWorkout", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LifeSentenceAutoWorkout.lua")
                     
 addscriptexist(8884334497, "MiningClickerSimulatorGUIAutoFarming", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MiningClickerSimulatorGUIAutoFarming.lua")
+                    
+addscriptexist(9666226803, "MotelSimulatorInfiniteKitchenSupplies", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MotelSimulatorInfiniteKitchenSupplies.lua")
