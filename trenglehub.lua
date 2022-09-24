@@ -1484,3 +1484,6 @@ addscript(105245021742,"One Punch Fighters [AutoFarm, AutoSummon]", "OnePunchFig
                     
                     
 addscriptexist(893973440, "FleetheFacilityHidebeastlight", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FleetheFacilityHidebeastlight.lua")
+    
+addscript(4529536977,"Pembroke Pines [Inf Money]", "PembrokePinesInfMoney", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PembrokePinesInfMoney.lua")
+                    
