@@ -4173,3 +4173,5 @@ addscriptexist(2906554815, "SWATSimulatorAutoFarm", "Terni", "https://raw.github
     
 addscript(8110845141,"POOP WITH FRIENDS [GUI - Auto Farming]", "POOPWITHFRIENDSGUIAutoFarming", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/POOPWITHFRIENDSGUIAutoFarming.lua")
                     
+                    
+addscriptexist(537413528, "BuildABoatForTreasureGUIAutoQuestAutoFarm", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BuildABoatForTreasureGUIAutoQuestAutoFarm.lua")
