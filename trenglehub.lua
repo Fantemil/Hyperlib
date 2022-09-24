@@ -3249,3 +3249,5 @@ addscript(3686253681,"Planet Simulator [Change Planet Mass]", "PlanetSimulatorCh
     
 addscript(6711562581,"Eight Driver Car Racing [Infinite Drift]", "EightDriverCarRacingInfiniteDrift", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/EightDriverCarRacingInfiniteDrift.lua")
                     
+                    
+addscriptexist(6711562581, "EightDriverCarRacingInfiniteMoney", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/EightDriverCarRacingInfiniteMoney.lua")
