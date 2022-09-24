@@ -2882,3 +2882,5 @@ addscriptexist(4520749081, "KingLegacyGUIAutoFarm", "Terni", "https://raw.github
 addscriptexist(2534724415, "EmergencyResponseLibertyCountySilentAim", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/EmergencyResponseLibertyCountySilentAim.lua")
                     
 addscriptexist(142823291, "MurderMystery2LagCrash", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MurderMystery2LagCrash.lua")
+                    
+addscriptexist(180364455, "SurviveTheDisasters2V4175FullAntiCheatBypass", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SurviveTheDisasters2V4175FullAntiCheatBypass.lua")
