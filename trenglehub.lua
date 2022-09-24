@@ -4413,3 +4413,5 @@ addscriptexist(6284583030, "PetSimulatorXCrashServer", "Qalnik", "https://raw.gi
     
 addscript(7839440834,"Sea Cleaning Simulator [Modify Boat Speed & More!]", "SeaCleaningSimulatorModifyBoatSpeedMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SeaCleaningSimulatorModifyBoatSpeedMore.lua")
                     
+                    
+addscriptexist(9609300403, "JackpotAutoCaseSell", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/JackpotAutoCaseSell.lua")
