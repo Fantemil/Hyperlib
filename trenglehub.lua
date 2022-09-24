@@ -6589,3 +6589,5 @@ addscript(5526330131,"RoPlace [Create The Void]", "RoPlaceCreateTheVoid", "Terni
     
 addscript(8787018842,"Deepwoken Battle Arena [No Cooldowns - Hide Name - Auto Souls]", "DeepwokenBattleArenaNoCooldownsHideNameAutoSouls", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DeepwokenBattleArenaNoCooldownsHideNameAutoSouls.lua")
                     
+                    
+addscriptexist(2809202155, "YourBizarreAdventureAutoFarmTeleportsBypass", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/YourBizarreAdventureAutoFarmTeleportsBypass.lua")
