@@ -4470,3 +4470,5 @@ addscriptexist(2809202155, "YourBizarreAdventureAutoFarmItemsAutoQuestAndMore", 
     
 addscript(4991214437,"town [Kill All - ESP - Chams & More!]", "townKillAllESPChamsMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/townKillAllESPChamsMore.lua")
                     
+                    
+addscriptexist(1962086868, "TowerofHellTPToEndMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TowerofHellTPToEndMore.lua")
