@@ -2509,3 +2509,6 @@ addscriptexist(4863541388, "ScytheMastersAutoclick", "astrofile", "https://raw.g
 addscriptexist(10447882390, "ZombieResearchTycoonAutoFarm", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ZombieResearchTycoonAutoFarm.lua")
                     
 addscriptexist(260606376, "RealisticRoleplay2CashAutoFarm", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RealisticRoleplay2CashAutoFarm.lua")
+    
+addscript(6512923934,"Ultra Clicker Simulator [Auto Click]", "UltraClickerSimulatorAutoClick", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/UltraClickerSimulatorAutoClick.lua")
+                    
