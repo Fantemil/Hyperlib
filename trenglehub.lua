@@ -4645,3 +4645,6 @@ addscript(3652625463,"Lifting Simulator [Auto Muscle, WalkSpeed, TP Safe Zone]",
     
 addscript(5827078246,"Coins Hero Simulator [Auto Coin, Auto Sell, AutoEgg]", "CoinsHeroSimulatorAutoCoinAutoSellAutoEgg", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CoinsHeroSimulatorAutoCoinAutoSellAutoEgg.lua")
                     
+    
+addscript(574407221,"Super Hero Tycoon [Crate Farm, Auto Cash, Auto Click]", "SuperHeroTycoonCrateFarmAutoCashAutoClick", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SuperHeroTycoonCrateFarmAutoCashAutoClick.lua")
+                    

