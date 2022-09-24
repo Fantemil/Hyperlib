@@ -6583,3 +6583,6 @@ addscriptexist(8893378293, "GRAMMYWeekGetallevntitems", "Qalnik", "https://raw.g
     
 addscript(71315343,"Dragon Ball Rage [Auto Charge, Train energy, Auto zenkai]", "DragonBallRageAutoChargeTrainenergyAutozenkai", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DragonBallRageAutoChargeTrainenergyAutozenkai.lua")
                     
+    
+addscript(5526330131,"RoPlace [Create The Void]", "RoPlaceCreateTheVoid", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RoPlaceCreateTheVoid.lua")
+                    
