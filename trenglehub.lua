@@ -5510,3 +5510,6 @@ addscript(5864786637,"In Another Time [Kill All]", "InAnotherTimeKillAll", "Tern
     
 addscript(8394872314,"Garden Tower Defense [Unlock All Towers]", "GardenTowerDefenseUnlockAllTowers", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/GardenTowerDefenseUnlockAllTowers.lua")
                     
+    
+addscript(8781849572,"Star Simulator Beta [Infinite Planks & Iron - Auto Farm - Unlock All Land]", "StarSimulatorBetaInfinitePlanksIronAutoFarmUnlockAllLand", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/StarSimulatorBetaInfinitePlanksIronAutoFarmUnlockAllLand.lua")
+                    
