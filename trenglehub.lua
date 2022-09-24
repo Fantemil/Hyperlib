@@ -4721,3 +4721,5 @@ addscript(9456941655,"PUBG [Kill All]", "PUBGKillAll", "Terni", "https://raw.git
     
 addscript(9293082713,"Prank Weapon Battles [Kill All]", "PrankWeaponBattlesKillAll", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PrankWeaponBattlesKillAll.lua")
                     
+                    
+addscriptexist(443406476, "ProjectLazarusZombiesKillAllInfiniteMoney", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ProjectLazarusZombiesKillAllInfiniteMoney.lua")
