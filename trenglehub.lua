@@ -7629,3 +7629,5 @@ addscriptexist(8303498444, "BlockyWorldInfiniteCoins", "Terni", "https://raw.git
     
 addscript(6811842210,"Parkour Run REJOIN AUTO FARM - REMOVE KILL PARTS", "ParkourRunREJOINAUTOFARMREMOVEKILLPARTS", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ParkourRunREJOINAUTOFARMREMOVEKILLPARTS.lua")
                     
+                    
+addscriptexist(8303498444, "BlockyWorldMobFarm", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BlockyWorldMobFarm.lua")
