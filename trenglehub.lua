@@ -3855,3 +3855,5 @@ addscriptexist(3214114884, "FlagWarsKillAll", "Terni", "https://raw.githubuserco
     
 addscript(3144213556,"Troll Obby [Auto Win]", "TrollObbyAutoWin", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TrollObbyAutoWin.lua")
                     
+                    
+addscriptexist(8123652942, "LegendPieceSeabeastGemsFarm", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LegendPieceSeabeastGemsFarm.lua")
