@@ -7237,3 +7237,5 @@ addscript(8514738257,"SBRP [Infinite SP]", "SBRPInfiniteSP", "Terni", "https://r
                     
                     
 addscriptexist(1224212277, "MadCityAutoWashingLaundry", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MadCityAutoWashingLaundry.lua")
+                    
+addscriptexist(2185497593, "ArcadeIsland2VaultAutoSolver", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ArcadeIsland2VaultAutoSolver.lua")
