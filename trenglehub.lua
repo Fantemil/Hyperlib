@@ -6859,3 +6859,5 @@ addscriptexist(7480222488, "RobloxSkeletonEsp", "Qalnik", "https://raw.githubuse
 addscriptexist(1240644540, "VampireHunters3DNATestEveryone", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/VampireHunters3DNATestEveryone.lua")
                     
 addscriptexist(8377686524, "UndertaleLastResetAllWeapons", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/UndertaleLastResetAllWeapons.lua")
+                    
+addscriptexist(8377686524, "UndertaleLastResetInstaKillEverythingDOESNTWORKWITHBOSSPHASES", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/UndertaleLastResetInstaKillEverythingDOESNTWORKWITHBOSSPHASES.lua")
