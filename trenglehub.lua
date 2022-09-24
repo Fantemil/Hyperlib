@@ -3134,3 +3134,5 @@ addscriptexist(6468323505, "SpellboundMagicRPGInfinteCoins", "Terni", "https://r
 addscriptexist(10118559731, "nicosnextbotsAutoBhop", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/nicosnextbotsAutoBhop.lua")
                     
 addscriptexist(4282985734, "CombatWarriorsFullclientacbypass", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CombatWarriorsFullclientacbypass.lua")
+                    
+addscriptexist(815405518, "TheFloorIsLAVAAutoFarm", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TheFloorIsLAVAAutoFarm.lua")
