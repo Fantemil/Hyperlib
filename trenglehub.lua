@@ -7406,3 +7406,6 @@ addscriptexist(2866967438, "FishingSimulatorAutoKillAutoSellAutoRemovedrop", "Qa
 addscriptexist(7655745946, "DunkingSImulatorAutoFarm", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DunkingSImulatorAutoFarm.lua")
                     
 addscriptexist(606849621, "JailbreakTeleportSystemFast", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/JailbreakTeleportSystemFast.lua")
+    
+addscript(7187281400,"Touch Football World Cup [Easy Goal Tool]", "TouchFootballWorldCupEasyGoalTool", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TouchFootballWorldCupEasyGoalTool.lua")
+                    
