@@ -5128,3 +5128,6 @@ addscriptexist(45146873, "TowerBattlesInfMoney", "Qalnik", "https://raw.githubus
 addscriptexist(7488014850, "RAINBOWNPIECEServerCrusher", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RAINBOWNPIECEServerCrusher.lua")
                     
 addscriptexist(5965591336, "SoulWarAntiCombatTagNoCombatTag", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SoulWarAntiCombatTagNoCombatTag.lua")
+    
+addscript(4087265156,"VERTIGO [No raggdol, No Fall damage, WalkSpeed]", "VERTIGONoraggdolNoFalldamageWalkSpeed", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/VERTIGONoraggdolNoFalldamageWalkSpeed.lua")
+                    
