@@ -7501,3 +7501,5 @@ addscript(8169234858,"Mr Hood [Full Anti Cheat Bypass]", "MrHoodFullAntiCheatByp
 addscriptexist(8592863835, "MagnetSimulator2GUIAutoFarmAutoHatchMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MagnetSimulator2GUIAutoFarmAutoHatchMore.lua")
                     
 addscriptexist(137885680, "ZombieRushAutoFarmAutobringAllAimbot", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ZombieRushAutoFarmAutobringAllAimbot.lua")
+                    
+addscriptexist(286090429, "ArsenalSilentAimBotAntiAimNameTagEsp", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ArsenalSilentAimBotAntiAimNameTagEsp.lua")
