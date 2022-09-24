@@ -1227,3 +1227,5 @@ addscriptexist(9498006165, "TappingSimulatorAutoTapAutoRebirthBetterGtx", "Qalni
 addscriptexist(6284583030, "PetSimulatorXAutoFarmAutoCollect", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PetSimulatorXAutoFarmAutoCollect.lua")
                     
 addscriptexist(920587237, "AdoptMeGUIAutoFarmFunFunctions", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AdoptMeGUIAutoFarmFunFunctions.lua")
+                    
+addscriptexist(1962086868, "TowerofHellAutoWinInfJumpsFinish", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TowerofHellAutoWinInfJumpsFinish.lua")
