@@ -3371,3 +3371,6 @@ addscriptexist(1224212277, "MadCityExpFarmEspSilentAIm", "Qalnik", "https://raw.
 addscriptexist(1224212277, "MadCityAutoFarmServerHop", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MadCityAutoFarmServerHop.lua")
                     
 addscriptexist(863266079, "ApocalypseRising2ZombieEsp", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ApocalypseRising2ZombieEsp.lua")
+    
+addscript(8528736393,"Beatland [Free UGC Items GUI]", "BeatlandFreeUGCItemsGUI", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BeatlandFreeUGCItemsGUI.lua")
+                    
