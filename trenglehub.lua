@@ -2785,3 +2785,6 @@ addscriptexist(445664957, "ParkourBagEsp", "Terni", "https://raw.githubuserconte
     
 addscript(7378050129,"Kill R63 with DOOM music [Changes the Numbers at All]", "KillR63withDOOMmusicChangestheNumbersatAll", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/KillR63withDOOMmusicChangestheNumbersatAll.lua")
                     
+    
+addscript(8772496234,"Roblox [Admin Cmd]", "RobloxAdminCmd", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RobloxAdminCmd.lua")
+                    
