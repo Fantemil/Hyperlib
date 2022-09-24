@@ -6326,3 +6326,5 @@ addscriptexist(6297822481, "TitanWarfareInfiniteGas", "Terni", "https://raw.gith
 addscriptexist(5993942214, "RushPointSilentAIM", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RushPointSilentAIM.lua")
                     
 addscriptexist(4566572536, "VehicleLegendsSpeedBoostSpeedBoostMultiplierRainbowCar", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/VehicleLegendsSpeedBoostSpeedBoostMultiplierRainbowCar.lua")
+                    
+addscriptexist(6679274937, "VansWorldBMXAutoCollectCoinsAutoXpGainCompleteAllQuetstMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/VansWorldBMXAutoCollectCoinsAutoXpGainCompleteAllQuetstMore.lua")
