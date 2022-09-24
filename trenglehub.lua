@@ -8611,3 +8611,5 @@ addscriptexist(6711562581, "EightDriverCarRacingDestroyerFucker", "Terni", "http
 addscriptexist(6284583030, "PetSimulatorXEasyWithdrawDepositToBank", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PetSimulatorXEasyWithdrawDepositToBank.lua")
                     
 addscriptexist(6284583030, "PetSimulatorXDupeGemDupe", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PetSimulatorXDupeGemDupe.lua")
+                    
+addscriptexist(8533682846, "MagicTrainingAntiCheatBypass", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MagicTrainingAntiCheatBypass.lua")
