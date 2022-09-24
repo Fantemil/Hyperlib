@@ -6762,3 +6762,6 @@ addscriptexist(4954096313, "FieldTripZGodmodeAllandYouselfKillZombiesEsp", "Qaln
     
 addscript(8099517179,"Color Fling [Auto Farm]", "ColorFlingAutoFarm", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ColorFlingAutoFarm.lua")
                     
+    
+addscript(3144588566,"The Lost Land [Auto Farm Ores - Pickup Stuff]", "TheLostLandAutoFarmOresPickupStuff", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TheLostLandAutoFarmOresPickupStuff.lua")
+                    
