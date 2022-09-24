@@ -7034,3 +7034,5 @@ addscriptexist(6953291455, "EatingSimulatorAutoEat", "Terni", "https://raw.githu
     
 addscript(4375458071,"Elemental Grind Game [Auto Farm]", "ElementalGrindGameAutoFarm", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ElementalGrindGameAutoFarm.lua")
                     
+                    
+addscriptexist(6284583030, "PetSimulatorXBKGUIAutoFarmAutoOpenMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PetSimulatorXBKGUIAutoFarmAutoOpenMore.lua")
