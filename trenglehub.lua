@@ -7858,3 +7858,6 @@ addscriptexist(566399244, "ElementalBattlegroundsGodModeInvisibility", "rbxscrip
 addscriptexist(7346416636, "PopItTradingAdminPanel", "rbxscript", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PopItTradingAdminPanel.lua")
                     
 addscriptexist(4111023553, "DeepwokenEsp", "rbxscript", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DeepwokenEsp.lua")
+    
+addscript(6490016198,"Slayer Tycoon [Anti Ac, Auto Buy Food...]", "SlayerTycoonAntiAcAutoBuyFood", "rbxscript", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SlayerTycoonAntiAcAutoBuyFood.lua")
+                    
