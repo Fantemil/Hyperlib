@@ -7705,3 +7705,5 @@ addscriptexist(13822889, "LumberTycoon2MenuDarkMode", "Terni", "https://raw.gith
     
 addscript(6628835921,"Money Simulator X [Auto Farming]", "MoneySimulatorXAutoFarming", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MoneySimulatorXAutoFarming.lua")
                     
+                    
+addscriptexist(281489669, "WizardTycoon2PlayerAutoBuyAll", "rbxscript", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/WizardTycoon2PlayerAutoBuyAll.lua")
