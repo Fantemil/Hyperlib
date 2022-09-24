@@ -5891,3 +5891,5 @@ addscriptexist(3260590327, "TowerDefenseSimulatorAutofarmgem", "Qalnik", "https:
     
 addscript(6704278765,"Dolo Tonight Concert Experience [Collect All eyes]", "DoloTonightConcertExperienceCollectAlleyes", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DoloTonightConcertExperienceCollectAlleyes.lua")
                     
+                    
+addscriptexist(1240644540, "VampireHunters3VampireEsp", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/VampireHunters3VampireEsp.lua")
