@@ -6870,3 +6870,5 @@ addscript(8300860655,"Warfronts (BETA) [Kill Everyone / Kill All Enemies]", "War
                     
                     
 addscriptexist(7336302630, "ProjectDeltaAutoLoot–LootAnywhere", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ProjectDeltaAutoLoot–LootAnywhere.lua")
+                    
+addscriptexist(8639059522, "MagnifyingSimulatorGUIAutoOpenBoxAutoCollectOrbsAutoFarm", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MagnifyingSimulatorGUIAutoOpenBoxAutoCollectOrbsAutoFarm.lua")
