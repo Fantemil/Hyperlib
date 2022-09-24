@@ -2657,3 +2657,5 @@ addscriptexist(340227283, "RoBowlingAimbotHitboxExtender", "Terni", "https://raw
     
 addscript(6950767274,"Fighter's Era [Roadwork Load]", "FightersEraRoadworkLoad", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FightersEraRoadworkLoad.lua")
                     
+                    
+addscriptexist(7305309231, "TaxiBossAutoFarmTrophies", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TaxiBossAutoFarmTrophies.lua")
