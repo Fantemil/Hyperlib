@@ -8315,3 +8315,6 @@ addscriptexist(4632627223, "BlackGrimoireAutoWood", "Terni", "https://raw.github
     
 addscript(7608438089,"The Winter Escape [Instantly Claim Items]", "TheWinterEscapeInstantlyClaimItems", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TheWinterEscapeInstantlyClaimItems.lua")
                     
+    
+addscript(54865335,"Floppy's Playtime [Ints Win]", "FloppysPlaytimeIntsWin", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FloppysPlaytimeIntsWin.lua")
+                    
