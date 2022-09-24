@@ -5975,3 +5975,5 @@ addscript(9346039031,"My Hello Kitty Cafe [Roblox Event Auto Farm]", "MyHelloKit
                     
                     
 addscriptexist(9346039031, "MyHelloKittyCafeAutoServeCoffeeAutoCleanSeatsMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MyHelloKittyCafeAutoServeCoffeeAutoCleanSeatsMore.lua")
+                    
+addscriptexist(3467049496, "MARVELBattlegroundsGetAllGamepasses", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MARVELBattlegroundsGetAllGamepasses.lua")
