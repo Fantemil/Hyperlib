@@ -3954,3 +3954,5 @@ addscriptexist(6766156863, "ImmigrantESP", "Terni", "https://raw.githubuserconte
     
 addscript(2688038742,"Area - Omega [Kill All]", "AreaOmegaKillAll", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AreaOmegaKillAll.lua")
                     
+                    
+addscriptexist(6872265039, "BedWarsInstaKill", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BedWarsInstaKill.lua")
