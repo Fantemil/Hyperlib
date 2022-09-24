@@ -2810,3 +2810,5 @@ addscript(7715234692,"cart ride around a 75 KW Diesel Generator [Anti Cheat Bypa
                     
                     
 addscriptexist(7560156054, "ClickingSimulatorUnlockShinyKingTophat", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ClickingSimulatorUnlockShinyKingTophat.lua")
+                    
+addscriptexist(2788229376, "DaHoodTeleportGUIExtras", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DaHoodTeleportGUIExtras.lua")
