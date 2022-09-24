@@ -7785,3 +7785,6 @@ addscriptexist(6125809531, "UntitledAttackOnTitanInfiniteGasInfiniteBladesDrawRu
     
 addscript(7290417439,"Slayer Life [Insta Kill]", "SlayerLifeInstaKill", "rbxscript", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SlayerLifeInstaKill.lua")
                     
+    
+addscript(7426523309,"Roblox Esp [Chams Player]", "RobloxEspChamsPlayer", "rbxscript", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RobloxEspChamsPlayer.lua")
+                    
