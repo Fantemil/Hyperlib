@@ -2293,3 +2293,6 @@ addscript(2306562216,"Camping [Get Items, Walkspeed]", "CampingGetItemsWalkspeed
     
 addscript(8304191830,"Anime Adventures [Auto Challenge, Auto Inf Mode]", "AnimeAdventuresAutoChallengeAutoInfMode", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AnimeAdventuresAutoChallengeAutoInfMode.lua")
                     
+    
+addscript(1923555882,"East Brickton [Auto Farm]", "EastBricktonAutoFarm", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/EastBricktonAutoFarm.lua")
+                    
