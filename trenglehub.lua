@@ -7643,3 +7643,5 @@ addscriptexist(147848991, "BeAParkourNinjaAutoKillPlayers", "Terni", "https://ra
     
 addscript(5984870779,"GARENA FREE FIRE - [Gun Mod Script]", "GARENAFREEFIREGunModScript", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/GARENAFREEFIREGunModScript.lua")
                     
+                    
+addscriptexist(7548385157, "BuildTowerSimulatorKillAllZombies", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BuildTowerSimulatorKillAllZombies.lua")
