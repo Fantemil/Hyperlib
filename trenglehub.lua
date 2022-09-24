@@ -5350,3 +5350,5 @@ addscriptexist(9072679513, "AnimeImpactSimulatorAutoUpgradeTeleportAutoFarm", "Q
 addscriptexist(9049840490, "SonicSpeedSimulatorCollectAllHoopsAutoRebirthAutoStep", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SonicSpeedSimulatorCollectAllHoopsAutoRebirthAutoStep.lua")
                     
 addscriptexist(9049840490, "SonicSpeedSimulatorAutoCollect", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SonicSpeedSimulatorAutoCollect.lua")
+                    
+addscriptexist(4855457388, "DemonfallTpPlayer", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DemonfallTpPlayer.lua")
