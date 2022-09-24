@@ -8373,3 +8373,5 @@ addscript(6985028626,"Roblox Community Space", "RobloxCommunitySpaceHolidayEditi
 addscriptexist(6085581583, "ProjectHeroAutoQuestAutoStaminaAutoFarm", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ProjectHeroAutoQuestAutoStaminaAutoFarm.lua")
                     
 addscriptexist(4639625707, "OilWarfareTycoonAutoFarm", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OilWarfareTycoonAutoFarm.lua")
+                    
+addscriptexist(6198225400, "LegendsReWrittenAutoFarm", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LegendsReWrittenAutoFarm.lua")
