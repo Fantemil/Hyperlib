@@ -8677,3 +8677,5 @@ addscriptexist(294790062, "RobloxTitanicGodModeGeneratePointBreakBoat", "Terni",
 addscriptexist(4954752502, "TowerofMiseryAutoFarmDestroyKillParts", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TowerofMiseryAutoFarmDestroyKillParts.lua")
                     
 addscriptexist(6284583030, "PetSimulatorXDupeGemsPets", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PetSimulatorXDupeGemsPets.lua")
+                    
+addscriptexist(6198225400, "LegendsReWrittenAutoChestFarm", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LegendsReWrittenAutoChestFarm.lua")
