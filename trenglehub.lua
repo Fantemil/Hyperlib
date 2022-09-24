@@ -7793,3 +7793,5 @@ addscript(8380203210,"Obliteration Orbs [Auto Rank Up]", "ObliterationOrbsAutoRa
                     
                     
 addscriptexist(8380203210, "ObliterationOrbsRemoveHarmful", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ObliterationOrbsRemoveHarmful.lua")
+                    
+addscriptexist(1962086868, "TowerofHellGUIAutoFarmGodmode", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TowerofHellGUIAutoFarmGodmode.lua")
