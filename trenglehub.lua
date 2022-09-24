@@ -3003,3 +3003,5 @@ addscript(1324061305,"Flicker [Invisible]", "FlickerInvisible", "Qalnik", "https
                     
                     
 addscriptexist(10322949476, "LimitedJumpsInfJumps", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LimitedJumpsInfJumps.lua")
+                    
+addscriptexist(7655745946, "DunkingSimulatorUnlimitedboost", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DunkingSimulatorUnlimitedboost.lua")
