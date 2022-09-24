@@ -1974,3 +1974,5 @@ addscriptexist(5956785391, "ProjectSlayersAutoFarmFishFarmInfstamina", "Qalnik",
 addscriptexist(6284583030, "PetSimulatorXAutoFarmAutoHatch", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PetSimulatorXAutoFarmAutoHatch.lua")
                     
 addscriptexist(9585537847, "SHADOVISRPGCollectAllCubits", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SHADOVISRPGCollectAllCubits.lua")
+                    
+addscriptexist(8963721566, "TheBackroomsKV31WalkSpeed", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TheBackroomsKV31WalkSpeed.lua")
