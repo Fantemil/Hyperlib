@@ -8662,3 +8662,5 @@ addscript(2716845201,"Warrior Simulator [COINS FARM, NPC FARM, TP]", "WarriorSim
     
 addscript(4032944086,"Workout Island [AUTO-FARM, AUTO-SELL, KILL-AURA]", "WorkoutIslandAUTOFARMAUTOSELLKILLAURA", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/WorkoutIslandAUTOFARMAUTOSELLKILLAURA.lua")
                     
+                    
+addscriptexist(5712833750, "AnimalSimulatorExpFarmCollectCheats", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AnimalSimulatorExpFarmCollectCheats.lua")
