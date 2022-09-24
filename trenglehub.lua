@@ -8526,3 +8526,5 @@ addscript(5834211079,"City - 8 [No Jump Delay]", "City8NoJumpDelay", "Terni", "h
     
 addscript(5926001758,"Color Block [Auto Win, Farm Pumpkins, Auto Buy Pets]", "ColorBlockAutoWinFarmPumpkinsAutoBuyPets", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ColorBlockAutoWinFarmPumpkinsAutoBuyPets.lua")
                     
+                    
+addscriptexist(7430861102, "AincradAdventuresInstaKillKillAura", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AincradAdventuresInstaKillKillAura.lua")
