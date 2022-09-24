@@ -5861,3 +5861,6 @@ addscript(5233782396,"Creatures Of Sonaria [GUI Auto Farm]", "CreaturesOfSonaria
 addscriptexist(4996049426, "AllStarTowerDefenseStarPassFarm", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AllStarTowerDefenseStarPassFarm.lua")
                     
 addscriptexist(3233893879, "BadBusiness303ClientAntiCheatBypass", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BadBusiness303ClientAntiCheatBypass.lua")
+    
+addscript(1696916806,"Base Raiders [Auto Farm - Auto Crate - Anti AFK]", "BaseRaidersAutoFarmAutoCrateAntiAFK", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BaseRaidersAutoFarmAutoCrateAntiAFK.lua")
+                    
