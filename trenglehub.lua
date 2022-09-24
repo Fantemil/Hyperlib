@@ -8437,3 +8437,6 @@ addscript(5648523896,"Trenches", "TrenchesAlphaESPGunModeMeleeAura", "Terni", "h
 addscriptexist(277751860, "EpicMinigamesAntiCheatBypass", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/EpicMinigamesAntiCheatBypass.lua")
                     
 addscriptexist(2984072291, "ZombieStoriesSilentAIM", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ZombieStoriesSilentAIM.lua")
+    
+addscript(2901172949,"Right 2 Fight 1 [Shot Mobs]", "Right2Fight1ShotMobs", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Right2Fight1ShotMobs.lua")
+                    
