@@ -3022,3 +3022,6 @@ addscript(6584731191,"Ragdoll Engine [FE Fling All Players]", "RagdollEngineFEFl
                     
                     
 addscriptexist(10192063645, "ThyHoodFly", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ThyHoodFly.lua")
+    
+addscript(8916037983,"Starving Artist [Steal Art]", "StarvingArtistStealArt", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/StarvingArtistStealArt.lua")
+                    
