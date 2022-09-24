@@ -5072,3 +5072,6 @@ addscriptexist(5154858502, "MurderersvsSheriffsInstaKill", "Terni", "https://raw
 addscriptexist(8581609150, "BloxhubMineManiaAutoSell", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BloxhubMineManiaAutoSell.lua")
                     
 addscriptexist(1537690962, "BeeSwarmSimulatorRedeemCodesAutoFarmRoyalYellyESP", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BeeSwarmSimulatorRedeemCodesAutoFarmRoyalYellyESP.lua")
+    
+addscript(306964494,"Loomian Legacy [Heal + Key Grabber]", "LoomianLegacyHealKeyGrabber", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LoomianLegacyHealKeyGrabber.lua")
+                    
