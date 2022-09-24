@@ -2382,3 +2382,5 @@ addscriptexist(2753915549, "BloxFruitsAutoFarmandmore", "astrofile", "https://ra
     
 addscript(2396588044,"Adopt and Raise [Inf Money]", "AdoptandRaiseInfMoney", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AdoptandRaiseInfMoney.lua")
                     
+                    
+addscriptexist(7952502098, "ImpossibleGlassBridgeObbyHighlightsallincorrectones", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ImpossibleGlassBridgeObbyHighlightsallincorrectones.lua")
