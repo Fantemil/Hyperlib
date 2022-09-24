@@ -4516,3 +4516,6 @@ addscript(5951002734,"Project Baki 2 [GUI - Auto Farm, Auto Punch & More!]", "Pr
                     
                     
 addscriptexist(8798268679, "CrossroadCombatGodMode", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CrossroadCombatGodMode.lua")
+    
+addscript(6924952561,"Clover City [Fly]", "CloverCityFly", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CloverCityFly.lua")
+                    
