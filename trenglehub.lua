@@ -8721,3 +8721,5 @@ addscript(4067702497,"Offbeat Journeys [ KILL ALL ]", "OffbeatJourneysKILLALL", 
                     
                     
 addscriptexist(5233268561, "ABizarreJourneyKILLAURA", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ABizarreJourneyKILLAURA.lua")
+                    
+addscriptexist(2753915549, "BloxFruitsAUTOFARMTPTONPC", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BloxFruitsAUTOFARMTPTONPC.lua")
