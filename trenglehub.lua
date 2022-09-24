@@ -3461,3 +3461,5 @@ addscriptexist(8203181639, "SyrianShenanigansBypasstheanticheat", "Qalnik", "htt
     
 addscript(623694595,"Phenom [Drop Ball]", "PhenomDropBall", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PhenomDropBall.lua")
                     
+                    
+addscriptexist(6678877691, "ZOKillAuraEspEquipWeapon", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ZOKillAuraEspEquipWeapon.lua")
