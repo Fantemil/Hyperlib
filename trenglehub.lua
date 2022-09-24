@@ -7384,3 +7384,5 @@ addscriptexist(2629642516, "BitcoinMinerSnowflakeFarm", "Terni", "https://raw.gi
     
 addscript(1240123653,"Zombie Attack [Auto Farm, Walk Speed, Noclip]", "ZombieAttackAutoFarmWalkSpeedNoclip", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ZombieAttackAutoFarmWalkSpeedNoclip.lua")
                     
+                    
+addscriptexist(6284583030, "PetSimulatorXGhostPetXGUI", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PetSimulatorXGhostPetXGUI.lua")
