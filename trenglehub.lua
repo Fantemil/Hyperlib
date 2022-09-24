@@ -5015,3 +5015,5 @@ addscriptexist(4042427666, "AnimeFightingSimulatorFullSpinFarm", "Terni", "https
     
 addscript(9285737032,"HELL RUN [Auto Win]", "HELLRUNAutoWin", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/HELLRUNAutoWin.lua")
                     
+                    
+addscriptexist(9129288160, "TommyPlayAutoFarm", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TommyPlayAutoFarm.lua")
