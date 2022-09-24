@@ -4915,3 +4915,6 @@ addscriptexist(1927139201, "TheBorderGetAllScraps", "Terni", "https://raw.github
     
 addscript(8730246074,"Galaxy Uranium ESP", "GalaxyUraniumESP", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/GalaxyUraniumESP.lua")
                     
+    
+addscript(6953291455,"Eating Simulator [AutoEat, AutoFarm, AutoSell]", "EatingSimulatorAutoEatAutoFarmAutoSell", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/EatingSimulatorAutoEatAutoFarmAutoSell.lua")
+                    
