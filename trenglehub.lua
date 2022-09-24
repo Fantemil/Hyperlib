@@ -3741,3 +3741,5 @@ addscript(9974958703,"Fruit Piece [Infinite Stats]", "FruitPieceInfiniteStats", 
     
 addscript(7182546997,"Attack on Titan Vengeance [Auto Farm Titan]", "AttackonTitanVengeanceAutoFarmTitan", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AttackonTitanVengeanceAutoFarmTitan.lua")
                     
+                    
+addscriptexist(7182546997, "AttackonTitanVengeanceBerserkerAutoFarm", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AttackonTitanVengeanceBerserkerAutoFarm.lua")
