@@ -8283,3 +8283,5 @@ addscript(5874128725,"No Jumping Difficulty Chart Obby [UNLOCK JUMP, ALL LEVELS]
 addscriptexist(155382109, "SurviveandKilltheKillersinArea51EspinfAmmoGiveallweapons", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SurviveandKilltheKillersinArea51EspinfAmmoGiveallweapons.lua")
                     
 addscriptexist(4996049426, "AllStarTowerDefenseTeleporttoElfFarming", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AllStarTowerDefenseTeleporttoElfFarming.lua")
+                    
+addscriptexist(4996049426, "AllStarTowerDefenseGiftFarming", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AllStarTowerDefenseGiftFarming.lua")
