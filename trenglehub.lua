@@ -7397,3 +7397,6 @@ addscriptexist(5987922834, "TransfurOutbreakGodModeSelectcumfurryCrashserver", "
 addscriptexist(537413528, "BuildABoatForTreasureAutoFarmAutoBuyAntiAfk", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BuildABoatForTreasureAutoFarmAutoBuyAntiAfk.lua")
                     
 addscriptexist(537413528, "BuildABoatForTreasureAutoFarmWaterGodModeFly", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BuildABoatForTreasureAutoFarmWaterGodModeFly.lua")
+    
+addscript(8656125900,"Brits VIP Party [Complete Event - Gather Free Hats]", "BritsVIPPartyCompleteEventGatherFreeHats", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BritsVIPPartyCompleteEventGatherFreeHats.lua")
+                    
