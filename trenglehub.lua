@@ -2750,3 +2750,6 @@ addscriptexist(7009799230, "PressureWashSimulatorInfiniteMoney", "Terni", "https
     
 addscript(6298464951,"Roblox Is Unbreakable [Auto Collect Items]", "RobloxIsUnbreakableAutoCollectItems", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RobloxIsUnbreakableAutoCollectItems.lua")
                     
+    
+addscript(10319501620,"School of Sport [GUI - Collect All Coins]", "SchoolofSportGUICollectAllCoins", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SchoolofSportGUICollectAllCoins.lua")
+                    
