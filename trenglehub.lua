@@ -8213,3 +8213,6 @@ addscriptexist(648362523, "BreakingPointNEWAUTOFARM", "Terni", "https://raw.gith
 addscriptexist(6769764667, "FactorySimulatorGUIAutoFarmAutoSellMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FactorySimulatorGUIAutoFarmAutoSellMore.lua")
                     
 addscriptexist(6769764667, "FactorySimulatorGUIAutoFarmAutoPickup", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FactorySimulatorGUIAutoFarmAutoPickup.lua")
+    
+addscript(7563640378,"Super Click Simulator 2 [Auto Farm]", "SuperClickSimulator2AutoFarm", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SuperClickSimulator2AutoFarm.lua")
+                    
