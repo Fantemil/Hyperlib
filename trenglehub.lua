@@ -2025,3 +2025,5 @@ addscript(394846350,"Jump Simulator [Auto Farm]", "JumpSimulatorAutoFarm", "astr
                     
                     
 addscriptexist(7655745946, "DunkingSimulatorInfSpinsBustCash", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DunkingSimulatorInfSpinsBustCash.lua")
+                    
+addscriptexist(10204162989, "PickaxeSimulatorAutoMineAutoOpen", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PickaxeSimulatorAutoMineAutoOpen.lua")
