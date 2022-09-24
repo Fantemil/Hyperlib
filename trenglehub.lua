@@ -1831,3 +1831,6 @@ addscriptexist(9718523719, "RobloxJoinsmallestserver", "Qalnik", "https://raw.gi
 addscriptexist(8704181738, "TiếnTiếnPieceDebttoallplayers", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TiếnTiếnPieceDebttoallplayers.lua")
                     
 addscriptexist(10524502174, "OnePunchFightersAutoFarmMobAutoCollectCoinsAutoSummon", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OnePunchFightersAutoFarmMobAutoCollectCoinsAutoSummon.lua")
+    
+addscript(218377574,"Admin Simulator [Auto Farm]", "AdminSimulatorAutoFarm", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AdminSimulatorAutoFarm.lua")
+                    
