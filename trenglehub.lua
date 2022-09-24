@@ -7895,3 +7895,5 @@ addscript(5400959086,"TASK FORCE [Change code name]", "TASKFORCEChangecodename",
 addscriptexist(7279999673, "DragonBladeOpenWorldRPGMAxSkill", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DragonBladeOpenWorldRPGMAxSkill.lua")
                     
 addscriptexist(6843905606, "CriticalLegendsTeleporttoallchests", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CriticalLegendsTeleporttoallchests.lua")
+                    
+addscriptexist(3102144307, "AnimeClickerSimulatorAutoClickFarmBossAutoOpenEgg", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AnimeClickerSimulatorAutoClickFarmBossAutoOpenEgg.lua")
