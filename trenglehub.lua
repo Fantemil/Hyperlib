@@ -3446,3 +3446,5 @@ addscript(7480222488,"Roblox [Good Esp]", "RobloxGoodEsp", "Qalnik", "https://ra
 addscriptexist(7480222488, "RobloxEsp", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RobloxEsp.lua")
                     
 addscriptexist(2768379856, "3008Autocollectfoodmedkits", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/3008Autocollectfoodmedkits.lua")
+                    
+addscriptexist(4863541388, "ScytheMastersFastStrengthAutoFarm", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ScytheMastersFastStrengthAutoFarm.lua")
