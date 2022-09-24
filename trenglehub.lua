@@ -1299,3 +1299,5 @@ addscript(5924471692,"Bloxford DarkRP ", "BloxfordDarkRPServerLagger", "astrofil
     
 addscript(7369208341,"SuperHero", "SuperHeroUniverseInfinityTokens", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SuperHeroUniverseInfinityTokens.lua")
                     
+                    
+addscriptexist(5987922834, "TransfurOutbreakAimBotEspGetAllemotegamepass", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TransfurOutbreakAimBotEspGetAllemotegamepass.lua")
