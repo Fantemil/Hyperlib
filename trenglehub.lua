@@ -2607,3 +2607,5 @@ addscript(7127407851,"Attack on Titan Evolution [Kill Aura - Max Damage]", "Atta
     
 addscript(2732246600,"Bloody Battle [Respawns You Until You Get The Loot You Want]", "BloodyBattleRespawnsYouUntilYouGetTheLootYouWant", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BloodyBattleRespawnsYouUntilYouGetTheLootYouWant.lua")
                     
+                    
+addscriptexist(8884334497, "MiningClickerSimulatorAutoFarm", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MiningClickerSimulatorAutoFarm.lua")
