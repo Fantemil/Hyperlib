@@ -3586,3 +3586,6 @@ addscript(2043040358,"Vyyrahk City [Auto Farm GUI - Inf Stamina & More!]", "Vyyr
                     
                     
 addscriptexist(4036494886, "GunSimulatorInfiniteAmmoInfiniteStarsMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/GunSimulatorInfiniteAmmoInfiniteStarsMore.lua")
+    
+addscript(9571238478,"Raise a Peter [Auto Farm GUI]", "RaiseaPeterAutoFarmGUI", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RaiseaPeterAutoFarmGUI.lua")
+                    
