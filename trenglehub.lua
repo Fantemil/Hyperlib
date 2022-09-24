@@ -3991,3 +3991,5 @@ addscriptexist(8303902695, "PetPosseGUIAutoFarmSelectedZoneUnlockAllGamepassesMo
 addscriptexist(8123652942, "LegendPieceInfiniteLevel", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LegendPieceInfiniteLevel.lua")
                     
 addscriptexist(9662949425, "PunchabrickwallsimulatorInfiniteMoneyMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PunchabrickwallsimulatorInfiniteMoneyMore.lua")
+                    
+addscriptexist(9936860371, "EggPackingTycoonSemiAutoFarm", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/EggPackingTycoonSemiAutoFarm.lua")
