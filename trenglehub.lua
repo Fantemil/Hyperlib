@@ -6334,3 +6334,5 @@ addscriptexist(8549047195, "AnimeWarriorsSimulatorTeleportToTheFinalWorld", "Ter
 addscriptexist(654732683, "CarCrushers2CORECONTROLGUIV2", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CarCrushers2CORECONTROLGUIV2.lua")
                     
 addscriptexist(6442957604, "CustomPCTycoonCollectAllEggs", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CustomPCTycoonCollectAllEggs.lua")
+                    
+addscriptexist(9041110505, "UnlimitedUpgradeSimulatorInfinityPowerCoins", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/UnlimitedUpgradeSimulatorInfinityPowerCoins.lua")
