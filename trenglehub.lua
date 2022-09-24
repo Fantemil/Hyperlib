@@ -1853,3 +1853,6 @@ addscriptexist(2788229376, "DaHoodAutoFarmAutoCollect", "astrofile", "https://ra
     
 addscript(7305309231,"Taxi Boss [AutoFarm, AntiAfk]", "TaxiBossAutoFarmAntiAfk", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TaxiBossAutoFarmAntiAfk.lua")
                     
+    
+addscript(2866967438,"Fishing Simulator [Auto Farm, Auto Fish]", "FishingSimulatorAutoFarmAutoFish", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FishingSimulatorAutoFarmAutoFish.lua")
+                    
