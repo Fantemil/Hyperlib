@@ -5462,3 +5462,5 @@ addscriptexist(9508087919, "ApeirophobiaFreeESP–NoKeySystem", "Terni", "https:
     
 addscript(8589310348,"Glory Kill Testing [Gamepass Tools]", "GloryKillTestingGamepassTools", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/GloryKillTestingGamepassTools.lua")
                     
+                    
+addscriptexist(6284583030, "PetSimulatorXDeltaHUBCreckedGUI", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PetSimulatorXDeltaHUBCreckedGUI.lua")
