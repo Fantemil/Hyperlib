@@ -4588,3 +4588,6 @@ addscript(8605603204,"Mecha Simulator [Infinite Levels, Coins & Gems]", "MechaSi
     
 addscript(9555732501,"Nen Fighting Simulator [Auto Strength - Auto Durability]", "NenFightingSimulatorAutoStrengthAutoDurability", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NenFightingSimulatorAutoStrengthAutoDurability.lua")
                     
+    
+addscript(7733392089,"LuoBu Transformation Night [Auto Dance]", "LuoBuTransformationNightAutoDance", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LuoBuTransformationNightAutoDance.lua")
+                    
