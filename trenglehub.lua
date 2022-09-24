@@ -6248,3 +6248,5 @@ addscriptexist(8540168650, "StandUprightRebootedAntiCheatBypassOpenSource", "Ter
 addscriptexist(6679274937, "VansWorldAutoFarm", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/VansWorldAutoFarm.lua")
                     
 addscriptexist(7453798168, "YouTubeSimulatorXEditorAutoFarm", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/YouTubeSimulatorXEditorAutoFarm.lua")
+                    
+addscriptexist(8005620792, "RobloxCasinoInfiniteChips", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RobloxCasinoInfiniteChips.lua")
