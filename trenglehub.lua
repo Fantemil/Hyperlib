@@ -5115,3 +5115,5 @@ addscriptexist(9551640993, "MiningSimulator2ChestFinder", "Terni", "https://raw.
 addscriptexist(9551640993, "MiningSimulator2OreESPViewAll", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MiningSimulator2OreESPViewAll.lua")
                     
 addscriptexist(9551640993, "MiningSimulator2AutoMineBelowPlayer", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MiningSimulator2AutoMineBelowPlayer.lua")
+                    
+addscriptexist(7830918930, "GucciTownAutoFarmAutoCollectGemsMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/GucciTownAutoFarmAutoCollectGemsMore.lua")
