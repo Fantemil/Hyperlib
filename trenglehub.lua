@@ -2604,3 +2604,6 @@ addscript(8585657145,"Anime Hero Simulator [Kill Aura - Grab Coins & More!]", "A
     
 addscript(7127407851,"Attack on Titan Evolution [Kill Aura - Max Damage]", "AttackonTitanEvolutionKillAuraMaxDamage", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AttackonTitanEvolutionKillAuraMaxDamage.lua")
                     
+    
+addscript(2732246600,"Bloody Battle [Respawns You Until You Get The Loot You Want]", "BloodyBattleRespawnsYouUntilYouGetTheLootYouWant", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BloodyBattleRespawnsYouUntilYouGetTheLootYouWant.lua")
+                    
