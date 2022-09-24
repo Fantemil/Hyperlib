@@ -2782,3 +2782,6 @@ addscript(2506738224,"Fallen [Esp]", "FallenEsp", "Terni", "https://raw.githubus
                     
                     
 addscriptexist(445664957, "ParkourBagEsp", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ParkourBagEsp.lua")
+    
+addscript(7378050129,"Kill R63 with DOOM music [Changes the Numbers at All]", "KillR63withDOOMmusicChangestheNumbersatAll", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/KillR63withDOOMmusicChangestheNumbersatAll.lua")
+                    
