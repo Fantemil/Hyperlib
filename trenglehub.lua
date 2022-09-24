@@ -5803,3 +5803,5 @@ addscriptexist(8209480473, "SpotifyIslandHeartsFarm", "Qalnik", "https://raw.git
     
 addscript(9283132959,"Block Breaker Simulator [Auto Get Blocks & More!]", "BlockBreakerSimulatorAutoGetBlocksMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BlockBreakerSimulatorAutoGetBlocksMore.lua")
                     
+                    
+addscriptexist(4996049426, "AllStarTowerDefenseFarmexp", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AllStarTowerDefenseFarmexp.lua")
