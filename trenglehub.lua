@@ -8728,3 +8728,5 @@ addscriptexist(6447798030, "FunkyFridayNEWAUTOPLAYER", "Terni", "https://raw.git
     
 addscript(7239452266,"Pop It Simulator [Auto Farm, Tp, Fps Boost]", "PopItSimulatorAutoFarmTpFpsBoost", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PopItSimulatorAutoFarmTpFpsBoost.lua")
                     
+                    
+addscriptexist(537413528, "BuildABoatForTreasureAUTOFARMHALLOWEENBOSS", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BuildABoatForTreasureAUTOFARMHALLOWEENBOSS.lua")
