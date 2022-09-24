@@ -1695,3 +1695,5 @@ addscriptexist(537413528, "BuildABoatForTreasureAutoFarmAutoChests", "astrofile"
     
 addscript(9291030453,"The Chainsmokers Concert Experience [GetAllLetters, Walkspeed]", "TheChainsmokersConcertExperienceGetAllLettersWalkspeed", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TheChainsmokersConcertExperienceGetAllLettersWalkspeed.lua")
                     
+                    
+addscriptexist(9872472334, "EvadeAutoRespawnEsp", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/EvadeAutoRespawnEsp.lua")
