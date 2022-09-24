@@ -2111,3 +2111,5 @@ addscriptexist(537413528, "BuildABoatForTreasureAutoFarmMorhps", "astrofile", "h
 addscriptexist(537413528, "BuildABoatForTreasureWalkspeedTeleports", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BuildABoatForTreasureWalkspeedTeleports.lua")
                     
 addscriptexist(9585537847, "SHADOVISRPGAutoFarmKillAura", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SHADOVISRPGAutoFarmKillAura.lua")
+                    
+addscriptexist(537413528, "BuildABoatForTreasureAutoFarmClickTPTool", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BuildABoatForTreasureAutoFarmClickTPTool.lua")
