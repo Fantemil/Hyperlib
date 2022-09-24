@@ -8330,3 +8330,5 @@ addscriptexist(4639625707, "OilWarfareTycoonAutoFarmAutorebirthAutoAirdrop", "Qa
 addscriptexist(4598019433, "genericroleplaygaemAutoTreeFarming", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/genericroleplaygaemAutoTreeFarming.lua")
                     
 addscriptexist(4733278992, "SwordBloxOnlineRebirthAutoCraft", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SwordBloxOnlineRebirthAutoCraft.lua")
+                    
+addscriptexist(2377868063, "StrucidSilentAimBase", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/StrucidSilentAimBase.lua")
