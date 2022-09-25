@@ -9812,3 +9812,5 @@ addscript(6676587884,"My Chicken Farm! [BETA] GUI", "MyChickenFarmBETAGUI", "Ter
     
 addscript(4670822595,"Secret Hatching Simulator 2 GUI", "SecretHatchingSimulator2GUI", "UKpansR", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SecretHatchingSimulator2GUI.lua")
                     
+                    
+addscriptexist(301549746, "CounterBloxHexagon", "UKpansR", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CounterBloxHexagon.lua")
