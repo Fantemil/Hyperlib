@@ -10550,3 +10550,6 @@ addscriptexist(5951002734, "ProjectBaki2", "Acc", "https://raw.githubusercontent
     
 addscript(3339793570,"Pushing Simulator", "PushingSimulator", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PushingSimulator.lua")
                     
+    
+addscript(6153022230,"Justice Jungle", "JusticeJungle", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/JusticeJungle.lua")
+                    
