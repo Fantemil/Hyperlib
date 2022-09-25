@@ -9366,3 +9366,6 @@ addscript(7172485708,"Twenty One Pilots Concert Experience [Farm Coins 18/18]", 
                     
                     
 addscriptexist(4058282580, "BoxingSimulatorAutoPunchAutosellBuyalldna", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BoxingSimulatorAutoPunchAutosellBuyalldna.lua")
+    
+addscript(3457390032,"Club Roblox [Auto Farm]", "ClubRobloxAutoFarm", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ClubRobloxAutoFarm.lua")
+                    
