@@ -9610,3 +9610,5 @@ addscriptexist(4580204640, "NOCLIPFORALLGAMES", "wsufy.lnd", "https://raw.github
     
 addscript(6858184059,"Space Base Tycoon [AUTOFARM/ANTIAFK]", "SpaceBaseTycoonAUTOFARMANTIAFK", "wsufy.lnd", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SpaceBaseTycoonAUTOFARMANTIAFK.lua")
                     
+                    
+addscriptexist(6273865312, "SupernaturalSimulatorAUTOFARMTPAUTOBUY", "wsufy.lnd", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SupernaturalSimulatorAUTOFARMTPAUTOBUY.lua")
