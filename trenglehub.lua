@@ -9031,3 +9031,5 @@ addscriptexist(4996049426, "AllStarTowerDefenseFarmCandy", "Qalnik", "https://ra
     
 addscript(3116680775,"One Blox Man [AUTO-TRAIN]", "OneBloxManAUTOTRAIN", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OneBloxManAUTOTRAIN.lua")
                     
+                    
+addscriptexist(294790062, "RobloxTitanic", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RobloxTitanic.lua")
