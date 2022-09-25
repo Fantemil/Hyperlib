@@ -9701,3 +9701,5 @@ addscriptexist(2768379856, "3008ESPPICKUPALLITEMS", "wsufy.lnd", "https://raw.gi
 addscriptexist(6186867282, "ProjectXLv51хAUTOFARMAUTOQUESTTPTONPC", "wsufy.lnd", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ProjectXLv51хAUTOFARMAUTOQUESTTPTONPC.lua")
                     
 addscriptexist(3527629287, "BIGPaintballAIMESPSPEEDOBVIUOSLYKILL", "wsufy.lnd", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BIGPaintballAIMESPSPEEDOBVIUOSLYKILL.lua")
+                    
+addscriptexist(621129760, "KATESPAIMINFAMMOSPEED", "wsufy.lnd", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/KATESPAIMINFAMMOSPEED.lua")
