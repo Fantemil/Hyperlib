@@ -9402,3 +9402,5 @@ addscript(7025847767,"Destroyer Simulator [Auto Rage/Auto Punch Bags/Auto rebirt
     
 addscript(6279039046,"Sled Simulator [Auto Farm/Equip Good item]", "SledSimulatorAutoFarmEquipGooditem", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SledSimulatorAutoFarmEquipGooditem.lua")
                     
+                    
+addscriptexist(286090429, "ArsenalKillAllAimbotEsp", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ArsenalKillAllAimbotEsp.lua")
