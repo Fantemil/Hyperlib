@@ -9482,3 +9482,5 @@ addscriptexist(2413927524, "THERAKEINFINITERun", "Qalnik", "https://raw.githubus
 addscriptexist(1962086868, "TowerofHellGodmodeInfJumpNoclip", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TowerofHellGodmodeInfJumpNoclip.lua")
                     
 addscriptexist(292439477, "PhantomForcesAimbotFlyAutorespawn", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PhantomForcesAimbotFlyAutorespawn.lua")
+                    
+addscriptexist(5736409216, "MallTycoonAutoCollectAntiAfkAllShops", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MallTycoonAutoCollectAntiAfkAllShops.lua")
