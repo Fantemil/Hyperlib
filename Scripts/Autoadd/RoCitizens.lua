@@ -1,2 +1,1 @@
---Get Money
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Pylinear/RobloxScripts/master/GetMoney.txt"))()
+loadstring(game:GetObjects("rbxassetid://01494085827")[1].Source)()
