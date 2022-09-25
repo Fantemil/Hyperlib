@@ -9744,3 +9744,5 @@ addscriptexist(6788787407, "WarriorChampionsOPGUIAutoFarm", "UKpansR", "https://
 addscriptexist(2986677229, "GiantSimulatorScript", "to_hen", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/GiantSimulatorScript.lua")
                     
 addscriptexist(4616652839, "ShindoLifeInfiniteSpinsQuestFarmRollsFarmAutoMoney", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ShindoLifeInfiniteSpinsQuestFarmRollsFarmAutoMoney.lua")
+                    
+addscriptexist(3101667897, "LegendOfSpeedFarmingTeleport", "to_hen", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LegendOfSpeedFarmingTeleport.lua")
