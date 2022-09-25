@@ -9199,3 +9199,6 @@ addscript(6410967163,"Beeface", "BeefaceBeaBeeNoclipAutoSellAutoExpand", "Qalnik
     
 addscript(5708035517,"Hide and Seek [Auto Farm/Game Pass]", "HideandSeekAutoFarmGamePass", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/HideandSeekAutoFarmGamePass.lua")
                     
+    
+addscript(6590445138,"Island Survival [Auto Farm]", "IslandSurvivalAutoFarm", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/IslandSurvivalAutoFarm.lua")
+                    
