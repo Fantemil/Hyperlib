@@ -11036,3 +11036,6 @@ addscriptexist(9534337535, "ShrekintheBackroomsBadgeGiver", "astrofile", "https:
 
                     
 addscriptexist(292439477, "PhantomForcesSemiHitboxExtenderBody", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PhantomForcesSemiHitboxExtenderBody.lua")
+
+                    
+addscriptexist(855499080, "SKYWARSServerLagger", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SKYWARSServerLagger.lua")
