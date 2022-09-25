@@ -9886,3 +9886,6 @@ addscript(6422237656,"My Toy Factory", "MyToyFactory", "Terni", "https://raw.git
     
 addscript(6689894296,"Brawl Legends", "BrawlLegends", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BrawlLegends.lua")
                     
+    
+addscript(5254674128,"Pet Store Tycoon!", "PetStoreTycoon", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PetStoreTycoon.lua")
+                    
