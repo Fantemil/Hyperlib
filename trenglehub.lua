@@ -10512,3 +10512,6 @@ addscriptexist(2551184308, "AfterTheFlashMirage", "Acc", "https://raw.githubuser
     
 addscript(4859936288,"Clicker Story", "ClickerStory", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ClickerStory.lua")
                     
+    
+addscript(10740140258,"Castle Clickers", "CastleClickers", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CastleClickers.lua")
+                    
