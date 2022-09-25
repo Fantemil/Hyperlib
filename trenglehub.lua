@@ -10311,3 +10311,6 @@ addscript(4950829171,"Fart Simulator", "FartSimulator", "Terni", "https://raw.gi
                     
                     
 addscriptexist(142823291, "MurderMystery2ESPGui", "ChipyxaOOFicial", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MurderMystery2ESPGui.lua")
+    
+addscript(1599679393,"Pet Simulator!", "PetSimulator", "Ykpon", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PetSimulator.lua")
+                    
