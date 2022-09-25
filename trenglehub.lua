@@ -9695,3 +9695,5 @@ addscriptexist(6494523288, "BladeQuestOPAUTOFARM", "wsufy.lnd", "https://raw.git
 addscriptexist(2262441883, "ElectricStateDarkRPAUTOFARMTPSPEED", "wsufy.lnd", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ElectricStateDarkRPAUTOFARMTPSPEED.lua")
                     
 addscriptexist(4580204640, "WALKSPEEDFORALLGAMES", "wsufy.lnd", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/WALKSPEEDFORALLGAMES.lua")
+                    
+addscriptexist(2768379856, "3008ESPPICKUPALLITEMS", "wsufy.lnd", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/3008ESPPICKUPALLITEMS.lua")
