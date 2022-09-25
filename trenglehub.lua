@@ -9787,3 +9787,6 @@ addscript(6792241488,"Weight Lifing Simulator", "WeightLifingSimulator", "to_hen
                     
                     
 addscriptexist(286090429, "ROBLOXDYNAMICSILENTAIM–WORKSONARSENALCOUNTERBLOXOPENSOURCE", "Полотенчик", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ROBLOXDYNAMICSILENTAIM–WORKSONARSENALCOUNTERBLOXOPENSOURCE.lua")
+    
+addscript(6848886250,"Pop it Fidget Simulator Gui", "PopitFidgetSimulatorGui", "UKpansR", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PopitFidgetSimulatorGui.lua")
+                    
