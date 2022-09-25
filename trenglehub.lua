@@ -10651,3 +10651,6 @@ addscript(4857069142,"Clicking Simulator 2.0", "ClickingSimulator20", "Acc", "ht
                     
                     
 addscriptexist(6512923934, "noclipespclicktparsenal", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/noclipespclicktparsenal.lua")
+    
+addscript(5314315093,"IQ Obby", "IQObby", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/IQObby.lua")
+                    
