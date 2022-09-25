@@ -8882,3 +8882,6 @@ addscriptexist(13822889, "LumberTycoon2PAINTTOOLAUTODUPEGAMEMODS", "Terni", "htt
 addscriptexist(6284583030, "PetSimulatorXHATCHANYEGGPETFake", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PetSimulatorXHATCHANYEGGPETFake.lua")
                     
 addscriptexist(7336128600, "PetLegendsAutoFarm", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PetLegendsAutoFarm.lua")
+    
+addscript(7387530636,"Pirate Warriors AutoFarm", "PirateWarriorsAutoFarm", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PirateWarriorsAutoFarm.lua")
+                    
