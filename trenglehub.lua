@@ -10791,3 +10791,5 @@ addscript(3923754109,"Backflip Simulator", "BackflipSimulator", "Acc", "https://
 addscriptexist(258258996, "MinersHavenReincarnation", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MinersHavenReincarnation.lua")
                     
 addscriptexist(914010731, "RoGhoul", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RoGhoul.lua")
+                    
+addscriptexist(2686500207, "ABizarreDay", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ABizarreDay.lua")

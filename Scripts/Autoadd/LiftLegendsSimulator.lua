@@ -1,1 +1,1 @@
-  loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/PoopySmells/PublicScripties/master/LiftLegends-Simulator.lua",true))();
+ée

@@ -1,1 +1,1 @@
- while wait() do     game.ReplicatedStorage.Events.Sell:fireServer()     game.ReplicatedStorage.Events.Clicked:fireServer() end 
+ée
