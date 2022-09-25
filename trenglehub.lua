@@ -10494,3 +10494,5 @@ addscriptexist(137877687, "RoCitizens", "Acc", "https://raw.githubusercontent.co
     
 addscript(6264538681,"Workout Island Script", "WorkoutIslandScript", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/WorkoutIslandScript.lua")
                     
+                    
+addscriptexist(5278850819, "stayaliveandflex", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/stayaliveandflex.lua")
