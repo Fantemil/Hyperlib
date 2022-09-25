@@ -9157,3 +9157,6 @@ addscriptexist(3198259055, "SoulShattersBetterStaminaAimBotBettySpear", "Qalnik"
     
 addscript(7082539621,"Anime Destroyers Simulator [Auto-farm, Updates, More!]", "AnimeDestroyersSimulatorAutofarmUpdatesMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AnimeDestroyersSimulatorAutofarmUpdatesMore.lua")
                     
+    
+addscript(7262582142,"Paint Simulator [MONEY FARM]", "PaintSimulatorMONEYFARM", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PaintSimulatorMONEYFARM.lua")
+                    
