@@ -10740,3 +10740,5 @@ addscriptexist(370731277, "MeepCityGui", "Acc", "https://raw.githubusercontent.c
 addscriptexist(1240123653, "ZombieAttackGui", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ZombieAttackGui.lua")
                     
 addscriptexist(893973440, "FleetheFacilityBetaGui", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FleetheFacilityBetaGui.lua")
+                    
+addscriptexist(5617626326, "BloodSamurai2", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BloodSamurai2.lua")
