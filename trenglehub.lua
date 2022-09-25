@@ -10088,3 +10088,5 @@ addscriptexist(5062619730, "WarSimulator", "Terni", "https://raw.githubuserconte
     
 addscript(5346447287,"Tapping Gods", "TappingGods", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TappingGods.lua")
                     
+                    
+addscriptexist(574407221, "SuperHeroTycoon", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SuperHeroTycoon.lua")
