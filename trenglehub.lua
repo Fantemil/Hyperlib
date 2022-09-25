@@ -10421,3 +10421,5 @@ addscriptexist(2512643572, "BubbleGumSimulator", "Acc", "https://raw.githubuserc
 addscriptexist(2041312716, "RobloxRagdollEngine", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RobloxRagdollEngine.lua")
                     
 addscriptexist(3101667897, "Legendofspeed", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Legendofspeed.lua")
+                    
+addscriptexist(1417427737, "MiningSimulator", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MiningSimulator.lua")
