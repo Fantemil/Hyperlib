@@ -9394,3 +9394,5 @@ addscriptexist(4410049285, "DrivingSimulatorInfNitro", "Qalnik", "https://raw.gi
     
 addscript(7232621271,"Luobu Mystery Box Hunt [GET ALL BOXES]", "LuobuMysteryBoxHuntGETALLBOXES", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LuobuMysteryBoxHuntGETALLBOXES.lua")
                     
+                    
+addscriptexist(6284583030, "OPPetSimulatorXGUIDupeRainbows", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OPPetSimulatorXGUIDupeRainbows.lua")
