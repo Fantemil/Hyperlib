@@ -9875,3 +9875,5 @@ addscript(5733777811,"Lockpicking Simulator", "LockpickingSimulator", "Terni", "
     
 addscript(5541000308,"Knight Simulator", "KnightSimulator", "MaGiXx", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/KnightSimulator.lua")
                     
+                    
+addscriptexist(6794368433, "BeaSpiderTycoon", "MaGiXx", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BeaSpiderTycoon.lua")
