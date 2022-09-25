@@ -9154,3 +9154,6 @@ addscript(5740246170,"Tower Simulator [Auto Click/Auto Upgrade/Collect Bricks]",
                     
                     
 addscriptexist(3198259055, "SoulShattersBetterStaminaAimBotBettySpear", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SoulShattersBetterStaminaAimBotBettySpear.lua")
+    
+addscript(7082539621,"Anime Destroyers Simulator [Auto-farm, Updates, More!]", "AnimeDestroyersSimulatorAutofarmUpdatesMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AnimeDestroyersSimulatorAutofarmUpdatesMore.lua")
+                    
