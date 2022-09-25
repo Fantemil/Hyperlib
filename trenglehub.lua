@@ -10555,3 +10555,6 @@ addscript(6153022230,"Justice Jungle", "JusticeJungle", "Acc", "https://raw.gith
                     
                     
 addscriptexist(155382109, "SurviveandKill", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SurviveandKill.lua")
+    
+addscript(5266363557,"Combo Clickers", "ComboClickers", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ComboClickers.lua")
+                    
