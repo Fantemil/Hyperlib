@@ -9219,3 +9219,5 @@ addscriptexist(4581966615, "AnomicAntiCheatBypassWalkSpeedInfiniteStamina", "Qal
 addscriptexist(7393403076, "AnimeArtifactsSimulatorFARMCOLLECT", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AnimeArtifactsSimulatorFARMCOLLECT.lua")
                     
 addscriptexist(6875469709, "STRONGESTPUNCHSIMULATORFarmArtifactInvisiblemodeSafeMode", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/STRONGESTPUNCHSIMULATORFarmArtifactInvisiblemodeSafeMode.lua")
+                    
+addscriptexist(1962086868, "TowerofHellGODMODEGUI", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TowerofHellGODMODEGUI.lua")
