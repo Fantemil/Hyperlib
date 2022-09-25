@@ -9843,3 +9843,6 @@ addscriptexist(6897226634, "Timber", "Acc", "https://raw.githubusercontent.com/F
 addscriptexist(6678877691, "ZOWIP", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ZOWIP.lua")
                     
 addscriptexist(286090429, "ArsenalGUNMOD", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ArsenalGUNMOD.lua")
+    
+addscript(6645344332,"Egg Collecting Simulator", "EggCollectingSimulator", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/EggCollectingSimulator.lua")
+                    
