@@ -8987,3 +8987,5 @@ addscriptexist(185655149, "BloxburgALLAUTOFARMAUTODRIVEANTIAFK", "Terni", "https
     
 addscript(7045537335,"Anime Worlds Simulator [AUTO-FARM, LOCAL SETTING]", "AnimeWorldsSimulatorAUTOFARMLOCALSETTING", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AnimeWorldsSimulatorAUTOFARMLOCALSETTING.lua")
                     
+                    
+addscriptexist(3527629287, "BIGPaintballNEWUNLOCKALLGUNS", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BIGPaintballNEWUNLOCKALLGUNS.lua")
