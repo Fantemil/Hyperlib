@@ -9660,3 +9660,6 @@ addscript(1320186298,"Island Royale [AIM/FOV]", "IslandRoyaleAIMFOV", "wsufy.lnd
                     
                     
 addscriptexist(2377868063, "StrucidHITBOX", "wsufy.lnd", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/StrucidHITBOX.lua")
+    
+addscript(2130061659,"Eat And Destroy! [AUTOFARM/ANTIAFK]", "EatAndDestroyAUTOFARMANTIAFK", "wsufy.lnd", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/EatAndDestroyAUTOFARMANTIAFK.lua")
+                    
