@@ -8957,3 +8957,6 @@ addscript(7470980441,"Anime Attack Simulator [AUTO-FARM ALL WORLDS]", "AnimeAtta
     
 addscript(6951762614,"UFO Simulator [AUTO-FARM, AUTO-CLAIM, MORE!]", "UFOSimulatorAUTOFARMAUTOCLAIMMORE", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/UFOSimulatorAUTOFARMAUTOCLAIMMORE.lua")
                     
+    
+addscript(4836887463,"Dog Piece [Give Fruit, Auto Skill, UI Toggle]", "DogPieceGiveFruitAutoSkillUIToggle", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DogPieceGiveFruitAutoSkillUIToggle.lua")
+                    
