@@ -11280,3 +11280,6 @@ addscriptuniversal("UniversalCustomESP", "Terni", "https://raw.githubusercontent
                         
 addscriptuniversal("UniversalTelekillAimbot", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/UniversalTelekillAimbot.lua")
     
+
+                    
+addscriptexist(9426082120, "SamsungSuperstarGalaxyAutoCollectAllStars", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SamsungSuperstarGalaxyAutoCollectAllStars.lua")
