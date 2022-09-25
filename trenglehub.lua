@@ -9061,3 +9061,5 @@ addscriptexist(5320510816, "BreakingPointXKNIFEFARMGUNFARM", "Terni", "https://r
 addscriptexist(6432407703, "BigCityTycoonAutoBuildPrioritizeGreensAutoObby", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BigCityTycoonAutoBuildPrioritizeGreensAutoObby.lua")
                     
 addscriptexist(3652625463, "LiftingSimulatorAutoFarm", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LiftingSimulatorAutoFarm.lua")
+                    
+addscriptexist(6938803436, "AnimeDimensionsSimulatorAUTOFARMAUTOSKILLMORE", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AnimeDimensionsSimulatorAUTOFARMAUTOSKILLMORE.lua")
