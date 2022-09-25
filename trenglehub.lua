@@ -9308,3 +9308,5 @@ addscriptexist(6573910231, "ProjectStarInfXp", "Qalnik", "https://raw.githubuser
 addscriptexist(2546155523, "RoVilleAutoFarm", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RoVilleAutoFarm.lua")
                     
 addscriptexist(3351674303, "DrivingEmpireAutoFarm", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DrivingEmpireAutoFarm.lua")
+                    
+addscriptexist(2248408710, "DestructionSimulatorInfMoneyAutoSellAddlvl", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DestructionSimulatorInfMoneyAutoSellAddlvl.lua")
