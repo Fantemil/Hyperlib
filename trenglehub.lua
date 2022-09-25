@@ -9447,3 +9447,6 @@ addscriptexist(5827078246, "CoinsHeroSimulatorAutoFarmAutoSellSpeed", "Qalnik", 
     
 addscript(5659599095,"BloxStreets [Auto Farm]", "BloxStreetsAutoFarm", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BloxStreetsAutoFarm.lua")
                     
+    
+addscript(5670292785,"Undead Defense Tycoon [Auto Farm]", "UndeadDefenseTycoonAutoFarm", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/UndeadDefenseTycoonAutoFarm.lua")
+                    
