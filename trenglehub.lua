@@ -9417,3 +9417,5 @@ addscriptexist(6766156863, "StrongmanSimulatorAutoFarmWalkSpeedGetallBadges", "Q
 addscriptexist(606849621, "JailbreakAutoFarmKillauraGameinfo", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/JailbreakAutoFarmKillauraGameinfo.lua")
                     
 addscriptexist(263761432, "HorrificHousingAutoFarm", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/HorrificHousingAutoFarm.lua")
+                    
+addscriptexist(6875469709, "StrongestPunchSimulatorAutoClickerAutoCollectOrbsNoclip", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/StrongestPunchSimulatorAutoClickerAutoCollectOrbsNoclip.lua")
