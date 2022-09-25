@@ -8821,3 +8821,5 @@ addscriptexist(294790062, "RobloxTitanicGodModeSpamDropItem", "rbxscript", "http
     
 addscript(2184634969,"Survival Island [Fill Hunger and Water]", "SurvivalIslandFillHungerandWater", "rbxscript", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SurvivalIslandFillHungerandWater.lua")
                     
+                    
+addscriptexist(7449695387, "PetFightersSimulatorFastAttackAutoQuestFarmMobs", "rbxscript", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PetFightersSimulatorFastAttackAutoQuestFarmMobs.lua")
