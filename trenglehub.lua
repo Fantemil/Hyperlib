@@ -11002,3 +11002,6 @@ addscriptexist(9264596435, "IdleHeroesSimulatorAutoAttackTpToEnemy", "astrofile"
 addscriptexist(4282985734, "CombatWarriorsFlyKillaura", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CombatWarriorsFlyKillaura.lua")
                     
 addscriptexist(10675066724, "SlimeTowerTycoonAutoCollectAutoDepositMore", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SlimeTowerTycoonAutoCollectAutoDepositMore.lua")
+    
+addscript(10758748100,"Killstreak Simulator Remake", "KillstreakSimulatorRemakeAddmanyKills", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/KillstreakSimulatorRemakeAddmanyKills.lua")
+                    
