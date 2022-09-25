@@ -10798,3 +10798,5 @@ addscriptexist(1537690962, "BeeSwarmSimulatorGui", "Acc", "https://raw.githubuse
     
 addscript(4347362871,"My Farm", "MyFarm", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MyFarm.lua")
                     
+                    
+addscriptexist(221718525, "NarutoTycoon", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NarutoTycoon.lua")

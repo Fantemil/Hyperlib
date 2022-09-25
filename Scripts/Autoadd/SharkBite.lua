@@ -1,1 +1,1 @@
-loadstring(rawget(game:GetObjects("rbxassetid://3623753581"), 1).Source)("Pepsi Byte")
+loadstring(game:HttpGet('http://www.beemoscripts.com/FlinchHub/Loader.lua'))();
