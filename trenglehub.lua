@@ -10748,3 +10748,6 @@ addscript(749703080,"Avatar", "AvatarTheLastAirbender", "Acc", "https://raw.gith
     
 addscript(5080886060,"Heroes Legacy", "HeroesLegacy", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/HeroesLegacy.lua")
                     
+    
+addscript(6609377660,"Roblox RTX", "RobloxRTX", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RobloxRTX.lua")
+                    
