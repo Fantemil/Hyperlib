@@ -10766,3 +10766,5 @@ addscriptexist(5670292785, "UndeadDefenseTycoon", "Acc", "https://raw.githubuser
     
 addscript(5721826509,"Amongst Us!", "AmongstUs", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AmongstUs.lua")
                     
+                    
+addscriptexist(3587619225, "MegaEasyObby", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MegaEasyObby.lua")
