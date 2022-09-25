@@ -10280,3 +10280,6 @@ addscript(3268321767,"Saitama Simulator", "SaitamaSimulator", "Terni", "https://
     
 addscript(4520536611,"Fitness Simulator", "FitnessSimulator", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FitnessSimulator.lua")
                     
+    
+addscript(6485529694,"Bee Sim NEW GUI", "BeeSimNEWGUI", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BeeSimNEWGUI.lua")
+                    
