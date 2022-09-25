@@ -10132,3 +10132,6 @@ addscriptexist(5543622168, "CriticalTowerDefense", "Terni", "https://raw.githubu
     
 addscript(6574375780,"Dark Piece", "DarkPiece", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DarkPiece.lua")
                     
+    
+addscript(9360490232,"Dash FE GUI", "DashFEGUI", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DashFEGUI.lua")
+                    
