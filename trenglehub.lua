@@ -11055,3 +11055,6 @@ addscriptuniversal("UniversalFPSBooster", "astrofile", "https://raw.githubuserco
                         
 addscriptuniversal("UniversalChangeNormalLightingtoFutureLighting", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/UniversalChangeNormalLightingtoFutureLighting.lua")
     
+                        
+addscriptuniversal("UniversalClickTP", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/UniversalClickTP.lua")
+    
