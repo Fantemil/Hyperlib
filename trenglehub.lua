@@ -11214,3 +11214,6 @@ addscriptuniversal("RobloxUniversalScriptAimbotFOV", "astrofile", "https://raw.g
                         
 addscriptuniversal("RobloxUniversalScriptFERichItems", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RobloxUniversalScriptFERichItems.lua")
     
+                        
+addscriptuniversal("RobloxUniversalScriptBotKillsay", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RobloxUniversalScriptBotKillsay.lua")
+    
