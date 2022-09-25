@@ -9649,3 +9649,5 @@ addscript(6331132338,"Pet Swarm Simulator [AUTOFARM/TPISLAND/INF.JUMP]", "PetSwa
     
 addscript(6794368433,"Be a Spider! Tycoon [AUTOFARM/AUTOSELL]", "BeaSpiderTycoonAUTOFARMAUTOSELL", "wsufy.lnd", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BeaSpiderTycoonAUTOFARMAUTOSELL.lua")
                     
+                    
+addscriptexist(6284583030, "PetSimulatorXTeleportOpenEggsAutoFarm", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PetSimulatorXTeleportOpenEggsAutoFarm.lua")
