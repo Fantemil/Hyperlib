@@ -11100,3 +11100,6 @@ addscriptuniversal("RobloxUniversalScriptFirstPerson", "astrofile", "https://raw
                         
 addscriptuniversal("AUniversalTimeFarmThungItemsFarmGodmodeMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AUniversalTimeFarmThungItemsFarmGodmodeMore.lua")
     
+                        
+addscriptuniversal("RobloxUniversalScriptMoneyBag", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RobloxUniversalScriptMoneyBag.lua")
+    
