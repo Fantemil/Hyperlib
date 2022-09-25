@@ -9041,3 +9041,6 @@ addscriptexist(4282985734, "CombatWarriorsKillAuraInfiniteStaminaKillAuraRange",
 addscriptexist(920587237, "AdoptMeAutoPayOuFlyINfJumpFreeePopCorn", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AdoptMeAutoPayOuFlyINfJumpFreeePopCorn.lua")
                     
 addscriptexist(2629642516, "BitcoinMinerMaxOverLockAutoExchangeBitcoinMultiplier", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BitcoinMinerMaxOverLockAutoExchangeBitcoinMultiplier.lua")
+    
+addscript(6635351922,"CaveWorld [ESP, TRACER]", "CaveWorldESPTRACER", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CaveWorldESPTRACER.lua")
+                    
