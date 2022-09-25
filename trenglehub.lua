@@ -8916,3 +8916,5 @@ addscriptexist(4246487209, "BossFightingSimulatorAutoClickSowrdAutoKillBossAutoU
 addscriptexist(443406476, "ProjectLazarusZOMBIESX10DAMAGE", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ProjectLazarusZOMBIESX10DAMAGE.lua")
                     
 addscriptexist(662417684, "LUCKYBLOCKSInfAllBox", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LUCKYBLOCKSInfAllBox.lua")
+                    
+addscriptexist(142823291, "MurderMystery2KILLALLSHERIFANDMURDERESP", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MurderMystery2KILLALLSHERIFANDMURDERESP.lua")
