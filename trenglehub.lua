@@ -9340,3 +9340,5 @@ addscriptexist(6073366803, "RageRunnerAutoFarm", "Qalnik", "https://raw.githubus
     
 addscript(4958515691,"Gladiator Simulator [Auto Train]", "GladiatorSimulatorAutoTrain", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/GladiatorSimulatorAutoTrain.lua")
                     
+                    
+addscriptexist(6284583030, "PetSimulatorXCrushServer", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PetSimulatorXCrushServer.lua")
