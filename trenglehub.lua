@@ -11124,3 +11124,6 @@ addscriptuniversal("RobloxUniversalScriptWalkspeed", "astrofile", "https://raw.g
                         
 addscriptuniversal("RobloxUniversalScriptEToSit", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RobloxUniversalScriptEToSit.lua")
     
+                        
+addscriptuniversal("RobloxUniversalScriptChatBypass", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RobloxUniversalScriptChatBypass.lua")
+    
