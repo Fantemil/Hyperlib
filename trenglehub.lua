@@ -9285,3 +9285,6 @@ addscriptexist(7082539621, "AnimeDestroyersAutoFarm", "Acc", "https://raw.github
     
 addscript(7277488595,"Luobu Launch Party [Auto Farm]", "LuobuLaunchPartyAutoFarm", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LuobuLaunchPartyAutoFarm.lua")
                     
+    
+addscript(6417110811,"Roblox [telekinesis]", "Robloxtelekinesis", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Robloxtelekinesis.lua")
+                    
