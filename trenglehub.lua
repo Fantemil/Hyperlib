@@ -9866,3 +9866,6 @@ addscriptexist(4806026225, "DefendersDepot", "Terni", "https://raw.githubusercon
     
 addscript(5930941618,"My Salon GUI", "MySalonGUI", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MySalonGUI.lua")
                     
+    
+addscript(6419299687,"Crash Simulator", "CrashSimulator", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CrashSimulator.lua")
+                    
