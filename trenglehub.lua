@@ -9976,3 +9976,5 @@ addscriptexist(6683744559, "AdvancedFighterEX", "Terni", "https://raw.githubuser
     
 addscript(1828509885,"Egg Farm Simulator", "EggFarmSimulator", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/EggFarmSimulator.lua")
                     
+                    
+addscriptexist(3457390032, "ClubRoblox", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ClubRoblox.lua")
