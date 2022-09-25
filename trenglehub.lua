@@ -9633,3 +9633,5 @@ addscriptexist(5865858426, "RetailTycoon2TPPLACEITEM", "wsufy.lnd", "https://raw
 addscriptexist(6904735821, "ShoeSimulatorAUTOFARMAUTOBUY", "wsufy.lnd", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ShoeSimulatorAUTOFARMAUTOBUY.lua")
                     
 addscriptexist(6284583030, "PetSimulatorXFarmCoinPetsEggInstantCollect", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PetSimulatorXFarmCoinPetsEggInstantCollect.lua")
+                    
+addscriptexist(4924922222, "BrookhavenADMINPANEL", "wsufy.lnd", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BrookhavenADMINPANEL.lua")
