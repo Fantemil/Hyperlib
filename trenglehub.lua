@@ -10507,3 +10507,5 @@ addscriptexist(4522347649, "RevizAdmin", "Acc", "https://raw.githubusercontent.c
     
 addscript(5744669807,"Undertale Ultimate TimeLine", "UndertaleUltimateTimeLine", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/UndertaleUltimateTimeLine.lua")
                     
+                    
+addscriptexist(2551184308, "AfterTheFlashMirage", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AfterTheFlashMirage.lua")
