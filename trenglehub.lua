@@ -10203,3 +10203,6 @@ addscriptexist(4704006941, "BladeThrowingSimulator", "Terni", "https://raw.githu
     
 addscript(5854098726,"Spooky Simulator", "SpookySimulator", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SpookySimulator.lua")
                     
+    
+addscript(2577423786,"Superhero Simulator", "SuperheroSimulator", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SuperheroSimulator.lua")
+                    
