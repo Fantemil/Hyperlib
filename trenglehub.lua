@@ -9356,3 +9356,5 @@ addscriptexist(155615604, "PrisonLifeAutoArrset", "Qalnik", "https://raw.githubu
     
 addscript(6198039277,"Cyber City Tycoon [Auto Farm]", "CyberCityTycoonAutoFarm", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CyberCityTycoonAutoFarm.lua")
                     
+                    
+addscriptexist(2716845201, "WarriorSimulatorAutoFarmCollectCoinsAutoMoon", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/WarriorSimulatorAutoFarmCollectCoinsAutoMoon.lua")
