@@ -1,0 +1,1 @@
+while wait(.0001)do local a=game:GetService("ReplicatedStorage").Events.OnlineWork;a:FireServer()local b=0;local a=game:GetService("ReplicatedStorage").PlrEvents[game.Players.LocalPlayer.Character.Name];a:FireServer(b)end
