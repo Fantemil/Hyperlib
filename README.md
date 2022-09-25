@@ -33,7 +33,7 @@ You can change Basic Stuff there
 ![](https://github.com/Fantemil/Hyperlib/blob/main/Media/PlayerSection.gif)
 
 ## The General Tab
-Find basic and Universal Scripts here
+Find many basic and Universal Scripts here
 
 <img width="574" alt="General" src="https://user-images.githubusercontent.com/69359704/192156615-8b3c0770-ef60-4071-84a4-11ecc464aea2.png">
 
