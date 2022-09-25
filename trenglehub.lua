@@ -10558,3 +10558,5 @@ addscriptexist(155382109, "SurviveandKill", "Acc", "https://raw.githubuserconten
     
 addscript(5266363557,"Combo Clickers", "ComboClickers", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ComboClickers.lua")
                     
+                    
+addscriptexist(2866967438, "FishingSimulator", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FishingSimulator.lua")
