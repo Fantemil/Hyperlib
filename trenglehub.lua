@@ -10297,3 +10297,6 @@ addscript(5265888165,"Ninja Clicker Simulator", "NinjaClickerSimulator", "Terni"
                     
                     
 addscriptexist(155615604, "PrisonLifeGui", "ChipyxaOOFicial", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PrisonLifeGui.lua")
+    
+addscript(5098853904,"Circle Simulator", "CircleSimulator", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CircleSimulator.lua")
+                    
