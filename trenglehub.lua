@@ -10113,3 +10113,5 @@ addscript(8851865158,"Aethelbeorn", "Aethelbeorn", "Terni", "https://raw.githubu
                     
                     
 addscriptexist(6234390472, "Cookingintherain", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Cookingintherain.lua")
+                    
+addscriptexist(2961297129, "DEATHZONE", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DEATHZONE.lua")
