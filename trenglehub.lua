@@ -10460,3 +10460,6 @@ addscriptexist(2414851778, "DungeonQuest", "Acc", "https://raw.githubusercontent
     
 addscript(5002210114,"Kitty", "Kitty", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Kitty.lua")
                     
+    
+addscript(4865990095,"Power Simulator 2", "PowerSimulator2", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PowerSimulator2.lua")
+                    
