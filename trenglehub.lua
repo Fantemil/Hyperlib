@@ -10599,3 +10599,6 @@ addscriptexist(137877687, "RoCitizensPaintingEditor", "Acc", "https://raw.github
 addscriptexist(2041312716, "RagdollEngineCrashServer", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RagdollEngineCrashServer.lua")
                     
 addscriptexist(5201039691, "Tatakai", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tatakai.lua")
+    
+addscript(10963175,"Game Store Money Script", "GameStoreMoneyScript", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/GameStoreMoneyScript.lua")
+                    
