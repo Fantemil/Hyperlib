@@ -10346,3 +10346,6 @@ addscriptexist(1537690962, "BeeSwarmSimulator", "Terni", "https://raw.githubuser
 addscriptexist(413424176, "CloneTycoon2", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CloneTycoon2.lua")
                     
 addscriptexist(6681032961, "MuseumTycoon", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MuseumTycoon.lua")
+    
+addscript(4926599832,"My Donut Store", "MyDonutStore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MyDonutStore.lua")
+                    
