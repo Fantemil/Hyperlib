@@ -10784,3 +10784,6 @@ addscript(4960315473,"Bleach Era", "BleachEra", "Acc", "https://raw.githubuserco
     
 addscript(5098929086,"Tapping Simulator", "TappingSimulator", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TappingSimulator.lua")
                     
+    
+addscript(3923754109,"Backflip Simulator", "BackflipSimulator", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BackflipSimulator.lua")
+                    
