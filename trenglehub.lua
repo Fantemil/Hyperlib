@@ -9583,3 +9583,5 @@ addscriptexist(142823291, "MurderMystery2BombSpam", "Qalnik", "https://raw.githu
 addscriptexist(7453798168, "YouTubeSimulatorAutoRecordAutoUpdate", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/YouTubeSimulatorAutoRecordAutoUpdate.lua")
                     
 addscriptexist(286090429, "Arsenal", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Arsenal.lua")
+                    
+addscriptexist(2866967438, "FishingSimulatorTeleportKIllShark", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FishingSimulatorTeleportKIllShark.lua")
