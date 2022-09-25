@@ -9646,3 +9646,6 @@ addscriptexist(5736409216, "MallTycoonAUTOSELLBUYREBIRTHSSPEEDANTIAFK", "wsufy.l
     
 addscript(6331132338,"Pet Swarm Simulator [AUTOFARM/TPISLAND/INF.JUMP]", "PetSwarmSimulatorAUTOFARMTPISLANDINFJUMP", "wsufy.lnd", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PetSwarmSimulatorAUTOFARMTPISLANDINFJUMP.lua")
                     
+    
+addscript(6794368433,"Be a Spider! Tycoon [AUTOFARM/AUTOSELL]", "BeaSpiderTycoonAUTOFARMAUTOSELL", "wsufy.lnd", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BeaSpiderTycoonAUTOFARMAUTOSELL.lua")
+                    
