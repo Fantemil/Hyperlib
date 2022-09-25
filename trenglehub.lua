@@ -9014,3 +9014,6 @@ addscriptexist(4520749081, "KingLegacyAUTOFARMAUTOQUESTMORE", "Terni", "https://
 addscriptexist(5865858426, "RetailTycoon2AutoPumpkinSmasher", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RetailTycoon2AutoPumpkinSmasher.lua")
                     
 addscriptexist(4566572536, "VehicleLegendsNEWAUTOFARMSERVERHOP", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/VehicleLegendsNEWAUTOFARMSERVERHOP.lua")
+    
+addscript(3607821695,"Vietnam War Simulator [Auto Farm]", "VietnamWarSimulatorAutoFarm", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/VietnamWarSimulatorAutoFarm.lua")
+                    
