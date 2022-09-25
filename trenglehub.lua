@@ -8995,3 +8995,5 @@ addscriptexist(2619187362, "SuperPowerFightingSimulatorNEWAUTOFARMINGGUI", "Tern
 addscriptexist(4616652839, "ShindoFarmPumpkin", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ShindoFarmPumpkin.lua")
                     
 addscriptexist(537413528, "BuildABoatForTreasureAutoFarmAutoBuyFly", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BuildABoatForTreasureAutoFarmAutoBuyFly.lua")
+                    
+addscriptexist(6610021055, "NoobArmyTycoonTPtochestsautomaticallycollect", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NoobArmyTycoonTPtochestsautomaticallycollect.lua")
