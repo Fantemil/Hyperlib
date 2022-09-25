@@ -10120,3 +10120,6 @@ addscript(6371984839,"Lifting Titans GUI", "LiftingTitansGUI", "Terni", "https:/
                     
                     
 addscriptexist(8533682846, "GiantSimulatorGUIV2", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/GiantSimulatorGUIV2.lua")
+    
+addscript(6973939752,"Arsenal BANAN", "ArsenalBANAN", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ArsenalBANAN.lua")
+                    
