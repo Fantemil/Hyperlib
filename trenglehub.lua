@@ -11064,3 +11064,6 @@ addscriptuniversal("UniversalAimAssistant", "Terni", "https://raw.githubusercont
                         
 addscriptuniversal("UniversalMakeaPart", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/UniversalMakeaPart.lua")
     
+                        
+addscriptuniversal("UniversalChatBypasser", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/UniversalChatBypasser.lua")
+    
