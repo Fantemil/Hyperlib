@@ -10515,3 +10515,5 @@ addscript(4859936288,"Clicker Story", "ClickerStory", "Acc", "https://raw.github
     
 addscript(10740140258,"Castle Clickers", "CastleClickers", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CastleClickers.lua")
                     
+                    
+addscriptexist(112420803, "KohlsAdminHouseNBC", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/KohlsAdminHouseNBC.lua")
