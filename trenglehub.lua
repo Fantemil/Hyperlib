@@ -9666,3 +9666,5 @@ addscript(2130061659,"Eat And Destroy! [AUTOFARM/ANTIAFK]", "EatAndDestroyAUTOFA
     
 addscript(7015809878,"Action Tower Defense [AUTOKILLMOBS]", "ActionTowerDefenseAUTOKILLMOBS", "wsufy.lnd", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ActionTowerDefenseAUTOKILLMOBS.lua")
                     
+                    
+addscriptexist(6938803436, "AnimeDimensionsAUTOFARMINSTAKILL", "wsufy.lnd", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AnimeDimensionsAUTOFARMINSTAKILL.lua")
