@@ -10241,3 +10241,6 @@ addscriptexist(2622527242, "rBreachGUI", "ChipyxaOOFicial", "https://raw.githubu
 addscriptexist(3494008884, "DonutBakeryTycoon", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DonutBakeryTycoon.lua")
                     
 addscriptexist(3458435516, "LimitedSimulator2", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LimitedSimulator2.lua")
+    
+addscript(4952780297,"Combat Rift", "CombatRift", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CombatRift.lua")
+                    
