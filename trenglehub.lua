@@ -11235,3 +11235,6 @@ addscriptuniversal("RobloxUniversalFEScriptHub", "astrofile", "https://raw.githu
                         
 addscriptuniversal("AUniversalTimeAutoFarmWalkspeed", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AUniversalTimeAutoFarmWalkspeed.lua")
     
+                        
+addscriptuniversal("AUniversalTimeThugFarmItemsFarmMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AUniversalTimeThugFarmItemsFarmMore.lua")
+    
