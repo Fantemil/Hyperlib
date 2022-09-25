@@ -10586,3 +10586,5 @@ addscript(16613936,"Greenwood Town", "GreenwoodTown", "Acc", "https://raw.github
                     
                     
 addscriptexist(5293755937, "SpeedRunSimulatorFARM", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SpeedRunSimulatorFARM.lua")
+                    
+addscriptexist(4556951723, "RagdollPhysics", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RagdollPhysics.lua")
