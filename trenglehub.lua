@@ -9039,3 +9039,5 @@ addscriptexist(189707, "NaturalDisasterSurvivalGUIFLYNOCLIPMORE", "Terni", "http
 addscriptexist(4282985734, "CombatWarriorsKillAuraInfiniteStaminaKillAuraRange", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CombatWarriorsKillAuraInfiniteStaminaKillAuraRange.lua")
                     
 addscriptexist(920587237, "AdoptMeAutoPayOuFlyINfJumpFreeePopCorn", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AdoptMeAutoPayOuFlyINfJumpFreeePopCorn.lua")
+                    
+addscriptexist(2629642516, "BitcoinMinerMaxOverLockAutoExchangeBitcoinMultiplier", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BitcoinMinerMaxOverLockAutoExchangeBitcoinMultiplier.lua")
