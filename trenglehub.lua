@@ -11286,3 +11286,6 @@ addscriptexist(9426082120, "SamsungSuperstarGalaxyAutoCollectAllStars", "Terni",
                         
 addscriptuniversal("FreeUniversalVehicleGUI", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FreeUniversalVehicleGUI.lua")
     
+                        
+addscriptuniversal("RobloxUniversalhub", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RobloxUniversalhub.lua")
+    
