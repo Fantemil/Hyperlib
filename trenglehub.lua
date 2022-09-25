@@ -9738,3 +9738,5 @@ addscriptexist(2809202155, "YourBizarreAdventureXenonCracked", "Acc", "https://r
 addscriptexist(2809202155, "YourBizarreAdventureAutoFarm", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/YourBizarreAdventureAutoFarm.lua")
                     
 addscriptexist(920587237, "AdoptMePlayerMiscAutoFarm", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AdoptMePlayerMiscAutoFarm.lua")
+                    
+addscriptexist(6788787407, "WarriorChampionsOPGUIAutoFarm", "UKpansR", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/WarriorChampionsOPGUIAutoFarm.lua")
