@@ -10138,3 +10138,5 @@ addscript(9360490232,"Dash FE GUI", "DashFEGUI", "Terni", "https://raw.githubuse
     
 addscript(6580889100,"Build A Boat For Treasure GUI", "BuildABoatForTreasureGUI", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BuildABoatForTreasureGUI.lua")
                     
+                    
+addscriptexist(192800, "WorkataPizzaPlace", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/WorkataPizzaPlace.lua")
