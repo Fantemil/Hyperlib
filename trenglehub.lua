@@ -9152,3 +9152,5 @@ addscript(6761201193,"Ro-Squid Game {WINS FARM]", "RoSquidGameWINSFARM", "Terni"
     
 addscript(5740246170,"Tower Simulator [Auto Click/Auto Upgrade/Collect Bricks]", "TowerSimulatorAutoClickAutoUpgradeCollectBricks", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TowerSimulatorAutoClickAutoUpgradeCollectBricks.lua")
                     
+                    
+addscriptexist(3198259055, "SoulShattersBetterStaminaAimBotBettySpear", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SoulShattersBetterStaminaAimBotBettySpear.lua")
