@@ -8942,3 +8942,6 @@ addscriptexist(891852901, "GreenvilleAutoFarm", "Qalnik", "https://raw.githubuse
     
 addscript(7555007091,"Hexa Game [AutoWin]", "HexaGameAutoWin", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/HexaGameAutoWin.lua")
                     
+    
+addscript(1182833048,"Growing Up [flying broom]", "GrowingUpflyingbroom", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/GrowingUpflyingbroom.lua")
+                    
