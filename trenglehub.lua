@@ -10303,3 +10303,6 @@ addscript(5098853904,"Circle Simulator", "CircleSimulator", "Terni", "https://ra
     
 addscript(1689414409,"Roblox Uno", "RobloxUno", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RobloxUno.lua")
                     
+    
+addscript(5905532025,"Human Simulator", "HumanSimulator", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/HumanSimulator.lua")
+                    
