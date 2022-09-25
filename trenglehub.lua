@@ -8825,3 +8825,5 @@ addscript(2184634969,"Survival Island [Fill Hunger and Water]", "SurvivalIslandF
 addscriptexist(7449695387, "PetFightersSimulatorFastAttackAutoQuestFarmMobs", "rbxscript", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PetFightersSimulatorFastAttackAutoQuestFarmMobs.lua")
                     
 addscriptexist(2317712696, "TheWildWestOreEsp", "rbxscript", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TheWildWestOreEsp.lua")
+                    
+addscriptexist(7485253727, "TruePieceAutoFarmAutoQuestInvisible", "rbxscript", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TruePieceAutoFarmAutoQuestInvisible.lua")
