@@ -10623,3 +10623,6 @@ addscriptexist(286090429, "Arsenalv2", "Acc", "https://raw.githubusercontent.com
     
 addscript(5942932659,"Wormface AUTO FARM", "WormfaceAUTOFARM", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/WormfaceAUTOFARM.lua")
                     
+    
+addscript(6110766473,"Flex Fight", "FlexFight", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FlexFight.lua")
+                    
