@@ -9037,3 +9037,5 @@ addscriptexist(294790062, "RobloxTitanic", "Qalnik", "https://raw.githubusercont
 addscriptexist(189707, "NaturalDisasterSurvivalGUIFLYNOCLIPMORE", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NaturalDisasterSurvivalGUIFLYNOCLIPMORE.lua")
                     
 addscriptexist(4282985734, "CombatWarriorsKillAuraInfiniteStaminaKillAuraRange", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CombatWarriorsKillAuraInfiniteStaminaKillAuraRange.lua")
+                    
+addscriptexist(920587237, "AdoptMeAutoPayOuFlyINfJumpFreeePopCorn", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AdoptMeAutoPayOuFlyINfJumpFreeePopCorn.lua")
