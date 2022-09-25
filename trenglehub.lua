@@ -10412,3 +10412,6 @@ addscript(4623386862,"Piggy [BOOK 2]", "PiggyBOOK2", "Acc", "https://raw.githubu
                     
                     
 addscriptexist(4580204640, "SurvivetheKiller", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SurvivetheKiller.lua")
+    
+addscript(1265834997,"Hitbox", "Hitbox", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Hitbox.lua")
+                    
