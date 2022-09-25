@@ -9047,3 +9047,5 @@ addscript(6635351922,"CaveWorld [ESP, TRACER]", "CaveWorldESPTRACER", "Terni", "
     
 addscript(7313926139,"Manic Mining! [AUTO-FARM, LOCAL PLAYER, MORE!]", "ManicMiningAUTOFARMLOCALPLAYERMORE", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ManicMiningAUTOFARMLOCALPLAYERMORE.lua")
                     
+                    
+addscriptexist(6284583030, "PetSimulatorXAutoFarmAutoEggAutoEquipBestPets", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PetSimulatorXAutoFarmAutoEggAutoEquipBestPets.lua")
