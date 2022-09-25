@@ -11226,3 +11226,6 @@ addscriptuniversal("RobloxUniversalScriptFreeAnimation", "astrofile", "https://r
                         
 addscriptuniversal("RobloxUniversalScriptFEEmotesAnimations", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RobloxUniversalScriptFEEmotesAnimations.lua")
     
+                        
+addscriptuniversal("RobloxUniversalScriptAdmCommands", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RobloxUniversalScriptAdmCommands.lua")
+    
