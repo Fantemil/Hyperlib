@@ -10300,3 +10300,6 @@ addscriptexist(155615604, "PrisonLifeGui", "ChipyxaOOFicial", "https://raw.githu
     
 addscript(5098853904,"Circle Simulator", "CircleSimulator", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CircleSimulator.lua")
                     
+    
+addscript(1689414409,"Roblox Uno", "RobloxUno", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RobloxUno.lua")
+                    
