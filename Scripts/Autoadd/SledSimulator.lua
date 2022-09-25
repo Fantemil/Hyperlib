@@ -1,1 +1,1 @@
- loadstring(game:HttpGet("https://pastebin.com/raw/kd1GEJEd", true))()
+ game:GetService("ReplicatedStorage").SledReplicatedStorage.Events.BuyUnlockEventFunction:InvokeServer("door","Bases",-99999500,2)

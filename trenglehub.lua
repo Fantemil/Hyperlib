@@ -10337,3 +10337,6 @@ addscriptexist(5784984978, "MilkSImulator", "Terni", "https://raw.githubusercont
 addscriptexist(2580982329, "TextingSimulator", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TextingSimulator.lua")
                     
 addscriptexist(5736409216, "MallTycoon", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MallTycoon.lua")
+    
+addscript(5372450078,"Teddie Simulator", "TeddieSimulator", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TeddieSimulator.lua")
+                    
