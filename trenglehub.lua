@@ -11145,3 +11145,6 @@ addscriptuniversal("RobloxUniversalScriptNameEsp", "astrofile", "https://raw.git
                         
 addscriptuniversal("RobloxUniversalScriptWalkOnWalls", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RobloxUniversalScriptWalkOnWalls.lua")
     
+                        
+addscriptuniversal("RobloxUniversalScriptCatifyChat", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RobloxUniversalScriptCatifyChat.lua")
+    
