@@ -10671,3 +10671,5 @@ addscript(9068020514,"Animation Changer", "AnimationChanger", "Acc", "https://ra
 addscriptexist(2546155523, "RoVille", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RoVille.lua")
                     
 addscriptexist(5942932659, "Wormface", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Wormface.lua")
+                    
+addscriptexist(648362523, "BreakingPoint", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BreakingPoint.lua")
