@@ -10973,3 +10973,5 @@ addscriptexist(2041312716, "RagdollEngineGui", "Acc", "https://raw.githubusercon
 addscriptexist(4872321990, "IslandNEWgui", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/IslandNEWgui.lua")
                     
 addscriptexist(606849621, "JailbreakAutoRob", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/JailbreakAutoRob.lua")
+                    
+addscriptexist(2753915549, "BloxFruitsAutoFarmAutoSuperhuman", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BloxFruitsAutoFarmAutoSuperhuman.lua")
