@@ -9971,3 +9971,5 @@ addscript(6501876313,"Coconut Simulator GUI", "CoconutSimulatorGUI", "Terni", "h
                     
                     
 addscriptexist(6859865958, "YouTubeSimulator", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/YouTubeSimulator.lua")
+                    
+addscriptexist(6683744559, "AdvancedFighterEX", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AdvancedFighterEX.lua")
