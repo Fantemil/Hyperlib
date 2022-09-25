@@ -9573,3 +9573,5 @@ addscriptexist(171391948, "VehicleSimulatorAutoFarmx2FlySuperCar", "Qalnik", "ht
 addscriptexist(189707, "NaturalDisasterSurvivalAutosafeTpSpeed", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NaturalDisasterSurvivalAutosafeTpSpeed.lua")
                     
 addscriptexist(914010731, "RoGhoulAutoFatm", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RoGhoulAutoFatm.lua")
+                    
+addscriptexist(155615604, "PrisonLifeCrashServer", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PrisonLifeCrashServer.lua")
