@@ -9819,3 +9819,6 @@ addscriptexist(1345139196, "TreasureHuntSimulator", "MaGiXx", "https://raw.githu
     
 addscript(4822852675,"Typing Simulator GUI", "TypingSimulatorGUI", "UKpansR", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TypingSimulatorGUI.lua")
                     
+    
+addscript(6997540091,"Flower Magnet Simulator NEW GUI!", "FlowerMagnetSimulatorNEWGUI", "UKpansR", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FlowerMagnetSimulatorNEWGUI.lua")
+                    
