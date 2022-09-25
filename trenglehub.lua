@@ -9337,3 +9337,6 @@ addscriptexist(185655149, "WelcometoBloxburgAutoFarmAutoBuild", "Qalnik", "https
 addscriptexist(7045537335, "AnimeWorldsSimulatorAutoFarm", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AnimeWorldsSimulatorAutoFarm.lua")
                     
 addscriptexist(6073366803, "RageRunnerAutoFarm", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RageRunnerAutoFarm.lua")
+    
+addscript(4958515691,"Gladiator Simulator [Auto Train]", "GladiatorSimulatorAutoTrain", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/GladiatorSimulatorAutoTrain.lua")
+                    
