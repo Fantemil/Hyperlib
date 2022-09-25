@@ -8897,3 +8897,6 @@ addscriptexist(7940932746, "RobloxReconnected", "Qalnik", "https://raw.githubuse
 addscriptexist(537413528, "BuildABoatForTreasureAutoFarmAutoBuildImage", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BuildABoatForTreasureAutoFarmAutoBuildImage.lua")
                     
 addscriptexist(7453798168, "YoutubeSimulatorXAutoClickAntiAfkAutoBuy", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/YoutubeSimulatorXAutoClickAntiAfkAutoBuy.lua")
+    
+addscript(730951264,"The Maze [Inf Axe]", "TheMazeInfAxe", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TheMazeInfAxe.lua")
+                    
