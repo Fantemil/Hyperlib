@@ -11190,3 +11190,6 @@ addscriptexist(10118559731, "NicosNextbotsGodmode", "astrofile", "https://raw.gi
 
                     
 addscriptexist(8818978508, "SpaceSimulatorRebornAutoClickAutoHatch", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SpaceSimulatorRebornAutoClickAutoHatch.lua")
+
+                    
+addscriptexist(5490351219, "ClickerMadnessAutoClickAutorebirthTeleport", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ClickerMadnessAutoClickAutorebirthTeleport.lua")
