@@ -9132,3 +9132,5 @@ addscript(6507107360,"Magnet Masters [FARM, AUTO-OPEN, MORE!]", "MagnetMastersFA
                     
                     
 addscriptexist(445664957, "ParkourINFINITEPOINTSLEVEL", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ParkourINFINITEPOINTSLEVEL.lua")
+                    
+addscriptexist(142823291, "MurderMystery2KILLALL2021ANTIBAN", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MurderMystery2KILLALL2021ANTIBAN.lua")
