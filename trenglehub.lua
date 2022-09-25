@@ -10226,3 +10226,6 @@ addscript(5153937061,"Silent Aim for FPS games", "SilentAimforFPSgames", "Chipyx
     
 addscript(6352880659,"Snowball.io", "Snowballio", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Snowballio.lua")
                     
+    
+addscript(2616498302,"Slaying Simulator", "SlayingSimulator", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SlayingSimulator.lua")
+                    

