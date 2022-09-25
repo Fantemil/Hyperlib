@@ -10069,3 +10069,5 @@ addscript(6495194916,"Dinosaur City", "DinosaurCity", "Terni", "https://raw.gith
 addscriptexist(5320510816, "MadCityFARMXp", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MadCityFARMXp.lua")
                     
 addscriptexist(6114360009, "PrisonLife3", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PrisonLife3.lua")
+                    
+addscriptexist(6273865312, "SupernaturalSimulator", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SupernaturalSimulator.lua")
