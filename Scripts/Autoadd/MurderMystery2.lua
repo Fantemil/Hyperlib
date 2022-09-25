@@ -1,1 +1,1 @@
-  loadstring(game:HttpGet("https://pastebin.com/raw/a0ww9Cj4"))()
+loadstring(game:HttpGet('http://www.beemoscripts.com/FlinchHub/Loader.lua'))();
