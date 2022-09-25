@@ -9478,3 +9478,5 @@ addscriptexist(277751860, "EpicMinigamesAutoWinInfJumpCheatRound", "Qalnik", "ht
 addscriptexist(4958515691, "GladiatorSimulator", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/GladiatorSimulator.lua")
                     
 addscriptexist(2413927524, "THERAKEINFINITERun", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/THERAKEINFINITERun.lua")
+                    
+addscriptexist(1962086868, "TowerofHellGodmodeInfJumpNoclip", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TowerofHellGodmodeInfJumpNoclip.lua")
