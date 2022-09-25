@@ -9440,3 +9440,5 @@ addscriptexist(413424176, "CloneTycoon2AutoFarm", "Qalnik", "https://raw.githubu
     
 addscript(7072693677,"Ro-Punch Man [Auto Farm]", "RoPunchManAutoFarm", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RoPunchManAutoFarm.lua")
                     
+                    
+addscriptexist(286090429, "ArsenalKnifeAura", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ArsenalKnifeAura.lua")
