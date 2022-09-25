@@ -9732,3 +9732,5 @@ addscript(5551657553,"Business Legends", "BusinessLegends", "to_hen", "https://r
 addscriptexist(71315343, "DragonBallRageFarmItself", "to_hen", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DragonBallRageFarmItself.lua")
                     
 addscriptexist(1240123653, "ZombieAttackNew", "to_hen", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ZombieAttackNew.lua")
+                    
+addscriptexist(2809202155, "YourBizarreAdventureXenonCracked", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/YourBizarreAdventureXenonCracked.lua")
