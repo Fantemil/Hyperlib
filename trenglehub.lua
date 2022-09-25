@@ -9734,3 +9734,5 @@ addscriptexist(71315343, "DragonBallRageFarmItself", "to_hen", "https://raw.gith
 addscriptexist(1240123653, "ZombieAttackNew", "to_hen", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ZombieAttackNew.lua")
                     
 addscriptexist(2809202155, "YourBizarreAdventureXenonCracked", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/YourBizarreAdventureXenonCracked.lua")
+                    
+addscriptexist(2809202155, "YourBizarreAdventureAutoFarm", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/YourBizarreAdventureAutoFarm.lua")
