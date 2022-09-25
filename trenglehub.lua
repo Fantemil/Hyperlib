@@ -9486,3 +9486,5 @@ addscriptexist(292439477, "PhantomForcesAimbotFlyAutorespawn", "Qalnik", "https:
 addscriptexist(5736409216, "MallTycoonAutoCollectAntiAfkAllShops", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MallTycoonAutoCollectAntiAfkAllShops.lua")
                     
 addscriptexist(4996049426, "AllStarTowerDefenseAutoErwinBuffAutoMerlinBuffAutoJoingame", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AllStarTowerDefenseAutoErwinBuffAutoMerlinBuffAutoJoingame.lua")
+                    
+addscriptexist(2753915549, "BloxFruitsMobFarmAutofarmmoneyInvis", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BloxFruitsMobFarmAutofarmmoneyInvis.lua")
