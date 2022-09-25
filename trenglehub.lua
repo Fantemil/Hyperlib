@@ -9353,3 +9353,6 @@ addscriptexist(1069951594, "FallofHellGodmode", "Qalnik", "https://raw.githubuse
 addscriptexist(6299805723, "AnimeFightersSimulatorAutoSellFightersAutoCollectdropAutoFarm", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AnimeFightersSimulatorAutoSellFightersAutoCollectdropAutoFarm.lua")
                     
 addscriptexist(155615604, "PrisonLifeAutoArrset", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PrisonLifeAutoArrset.lua")
+    
+addscript(6198039277,"Cyber City Tycoon [Auto Farm]", "CyberCityTycoonAutoFarm", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CyberCityTycoonAutoFarm.lua")
+                    
