@@ -9164,3 +9164,5 @@ addscript(7262582142,"Paint Simulator [MONEY FARM]", "PaintSimulatorMONEYFARM", 
 addscriptexist(3823781113, "SaberSimulatorAutoSwingAutoSellAutoKing", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SaberSimulatorAutoSwingAutoSellAutoKing.lua")
                     
 addscriptexist(3260590327, "TowerDefenseSimulatorAUTOPLACEAUTOFARM", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TowerDefenseSimulatorAUTOPLACEAUTOFARM.lua")
+                    
+addscriptexist(7336128600, "PetLegendsAutoOpenEggTeleportAutoFarm", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PetLegendsAutoOpenEggTeleportAutoFarm.lua")
