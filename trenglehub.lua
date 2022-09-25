@@ -9057,3 +9057,5 @@ addscriptexist(1962086868, "TowerOfHellGodmodeWinInfiniteJump", "Qalnik", "https
 addscriptexist(3738091713, "BoxingLeagueAUTOFARMAUTOUPDATE", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BoxingLeagueAUTOFARMAUTOUPDATE.lua")
                     
 addscriptexist(5320510816, "BreakingPointXKNIFEFARMGUNFARM", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BreakingPointXKNIFEFARMGUNFARM.lua")
+                    
+addscriptexist(6432407703, "BigCityTycoonAutoBuildPrioritizeGreensAutoObby", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BigCityTycoonAutoBuildPrioritizeGreensAutoObby.lua")
