@@ -11075,3 +11075,6 @@ addscriptexist(4860819035, "PlantsvsZombiesGardenProblemInfLevels", "astrofile",
 
                     
 addscriptexist(10861112990, "AnimeArtifactsSimulator2InfMoney", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AnimeArtifactsSimulator2InfMoney.lua")
+    
+addscript(10882998385,"Endless Doors Beta", "EndlessDoorsBetaOverseereyenodmg", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/EndlessDoorsBetaOverseereyenodmg.lua")
+                    
