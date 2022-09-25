@@ -8880,3 +8880,5 @@ addscriptexist(7444263453, "JetpackJumpersINFJumps", "Terni", "https://raw.githu
 addscriptexist(13822889, "LumberTycoon2PAINTTOOLAUTODUPEGAMEMODS", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LumberTycoon2PAINTTOOLAUTODUPEGAMEMODS.lua")
                     
 addscriptexist(6284583030, "PetSimulatorXHATCHANYEGGPETFake", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PetSimulatorXHATCHANYEGGPETFake.lua")
+                    
+addscriptexist(7336128600, "PetLegendsAutoFarm", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PetLegendsAutoFarm.lua")
