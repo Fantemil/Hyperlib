@@ -1,0 +1,1 @@
+ loadstring(game:HttpGet(('https://raw.githubusercontent.com/MaGiXx228/scripts/main/LiftLegendsSimulator.lua')))()

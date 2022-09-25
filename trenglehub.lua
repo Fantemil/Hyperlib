@@ -10158,3 +10158,6 @@ addscriptexist(4934471106, "MyHeroMania", "Terni", "https://raw.githubuserconten
     
 addscript(6440133276,"Shampoo Simulator", "ShampooSimulator", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ShampooSimulator.lua")
                     
+    
+addscript(5709572883,"Lift Legends Simulator", "LiftLegendsSimulator", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LiftLegendsSimulator.lua")
+                    
