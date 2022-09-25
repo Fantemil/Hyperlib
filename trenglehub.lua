@@ -10401,3 +10401,5 @@ addscriptexist(893973440, "FleeTheFacility", "Саске", "https://raw.githubus
     
 addscript(4470259111,"Trolling GUI", "TrollingGUI", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TrollingGUI.lua")
                     
+                    
+addscriptexist(21532277, "Notoriety", "rg10008", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Notoriety.lua")
