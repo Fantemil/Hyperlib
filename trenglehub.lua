@@ -10185,3 +10185,5 @@ addscript(1229173778,"Lab Experiment", "LabExperiment", "Terni", "https://raw.gi
     
 addscript(3082130015,"Ninja Magic", "NinjaMagic", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NinjaMagic.lua")
                     
+                    
+addscriptexist(6490016198, "SlayerTycoon", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SlayerTycoon.lua")
