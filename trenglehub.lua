@@ -9670,3 +9670,6 @@ addscript(7015809878,"Action Tower Defense [AUTOKILLMOBS]", "ActionTowerDefenseA
 addscriptexist(6938803436, "AnimeDimensionsAUTOFARMINSTAKILL", "wsufy.lnd", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AnimeDimensionsAUTOFARMINSTAKILL.lua")
                     
 addscriptexist(1962086868, "TowerofhellINFJUMPFLYGODAUTOFARM", "wsufy.lnd", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TowerofhellINFJUMPFLYGODAUTOFARM.lua")
+    
+addscript(6760562118,"Loot Lake Simulator [AUTOFARM/AUTOPLACE/ANTIAFK]", "LootLakeSimulatorAUTOFARMAUTOPLACEANTIAFK", "wsufy.lnd", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LootLakeSimulatorAUTOFARMAUTOPLACEANTIAFK.lua")
+                    
