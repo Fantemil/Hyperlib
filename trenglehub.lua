@@ -9415,3 +9415,5 @@ addscript(5837160206,"ACS [FireRate/Norecoil/Spread]", "ACSFireRateNorecoilSprea
 addscriptexist(6766156863, "StrongmanSimulatorAutoFarmWalkSpeedGetallBadges", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/StrongmanSimulatorAutoFarmWalkSpeedGetallBadges.lua")
                     
 addscriptexist(606849621, "JailbreakAutoFarmKillauraGameinfo", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/JailbreakAutoFarmKillauraGameinfo.lua")
+                    
+addscriptexist(263761432, "HorrificHousingAutoFarm", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/HorrificHousingAutoFarm.lua")
