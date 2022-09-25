@@ -9782,3 +9782,6 @@ addscriptexist(2809202155, "YourBizarreAdventureMiscAutoSkills", "to_hen", "http
 addscriptexist(6953291455, "EatingSimulatorAutoFarmBuyEggMisc", "to_hen", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/EatingSimulatorAutoFarmBuyEggMisc.lua")
                     
 addscriptexist(6299805723, "AnimeFightersSimulatorAutofarmAutoBuyEggsInfiniteYen", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AnimeFightersSimulatorAutofarmAutoBuyEggsInfiniteYen.lua")
+    
+addscript(6792241488,"Weight Lifing Simulator", "WeightLifingSimulator", "to_hen", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/WeightLifingSimulator.lua")
+                    
