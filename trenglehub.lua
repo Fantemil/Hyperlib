@@ -9992,3 +9992,5 @@ addscriptexist(6331132338, "PetSwarmSimulator", "Acc", "https://raw.githubuserco
 addscriptexist(3652625463, "LiftingSimulator", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LiftingSimulator.lua")
                     
 addscriptexist(662417684, "LUCKYBLOCKSBattlegrounds", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LUCKYBLOCKSBattlegrounds.lua")
+                    
+addscriptexist(301549746, "CounterBlox", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CounterBlox.lua")

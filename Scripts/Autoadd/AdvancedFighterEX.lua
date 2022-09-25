@@ -1,5 +1,5 @@
 local args = {
    [1] = "ChangeStat",
-   [2] = "Cash", 
-   [3] = math.huge
+   [2] = "Omniman",
+   [3] = 1
 }
