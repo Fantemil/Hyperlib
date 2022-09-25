@@ -8966,3 +8966,5 @@ addscriptexist(6299805723, "AnimeFightersSimulatorAutoFarmExtraDamageAutoCollect
 addscriptexist(3956818381, "NinjaLegendsAUTOBUYAUTOFARMAUTOSELLMORE", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NinjaLegendsAUTOBUYAUTOFARMAUTOSELLMORE.lua")
                     
 addscriptexist(6104994594, "PilferingPiratesAutoFarmDefenseAutoFarmLevelAutoAttack", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PilferingPiratesAutoFarmDefenseAutoFarmLevelAutoAttack.lua")
+                    
+addscriptexist(155615604, "PrisonLifeKILLALLKILLAURALOCALPLAYER", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PrisonLifeKILLALLKILLAURALOCALPLAYER.lua")
