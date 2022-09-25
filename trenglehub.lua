@@ -11061,3 +11061,6 @@ addscriptuniversal("UniversalClickTP", "astrofile", "https://raw.githubuserconte
                         
 addscriptuniversal("UniversalAimAssistant", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/UniversalAimAssistant.lua")
     
+                        
+addscriptuniversal("UniversalMakeaPart", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/UniversalMakeaPart.lua")
+    
