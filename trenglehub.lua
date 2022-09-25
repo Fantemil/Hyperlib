@@ -10579,3 +10579,5 @@ addscript(4359012847,"Slashing Masters", "SlashingMasters", "Acc", "https://raw.
     
 addscript(5230682285,"Space Legends", "SpaceLegends", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SpaceLegends.lua")
                     
+                    
+addscriptexist(659222129, "Swordburst2", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Swordburst2.lua")
