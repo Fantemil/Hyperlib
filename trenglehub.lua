@@ -8827,3 +8827,5 @@ addscriptexist(7449695387, "PetFightersSimulatorFastAttackAutoQuestFarmMobs", "r
 addscriptexist(2317712696, "TheWildWestOreEsp", "rbxscript", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TheWildWestOreEsp.lua")
                     
 addscriptexist(7485253727, "TruePieceAutoFarmAutoQuestInvisible", "rbxscript", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TruePieceAutoFarmAutoQuestInvisible.lua")
+                    
+addscriptexist(4787629450, "BOOGABOOGATeleportKillAuraSilentAim", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BOOGABOOGATeleportKillAuraSilentAim.lua")
