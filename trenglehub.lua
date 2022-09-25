@@ -10163,3 +10163,6 @@ addscript(5709572883,"Lift Legends Simulator", "LiftLegendsSimulator", "Terni", 
                     
                     
 addscriptexist(5293755937, "SpeedRunSImulator", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SpeedRunSImulator.lua")
+    
+addscript(5609538200,"Tower of Fun", "TowerofFun", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TowerofFun.lua")
+                    
