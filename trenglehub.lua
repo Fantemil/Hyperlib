@@ -9081,3 +9081,5 @@ addscript(4545436299,"Pet Clicks Simulator [AUTO-FARM, DEV TOOL]", "PetClicksSim
                     
                     
 addscriptexist(6299805723, "AnimeFightersSimulatorAUTOFARMGUIAUTOOPEN", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AnimeFightersSimulatorAUTOFARMGUIAUTOOPEN.lua")
+                    
+addscriptexist(6432407703, "BigCityTycoonFLYINFMONEYAUTOBUILD", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BigCityTycoonFLYINFMONEYAUTOBUILD.lua")
