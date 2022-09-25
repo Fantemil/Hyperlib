@@ -9894,3 +9894,6 @@ addscriptexist(4598019433, "GenericRoleplayGaem", "MaGiXx", "https://raw.githubu
     
 addscript(6412367780,"Celebrity Simulator", "CelebritySimulator", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CelebritySimulator.lua")
                     
+    
+addscript(6156903749,"Clicker Lords", "ClickerLords", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ClickerLords.lua")
+                    
