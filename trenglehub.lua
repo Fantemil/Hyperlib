@@ -10878,3 +10878,5 @@ addscriptexist(171391948, "VehicleSimulatorGUI", "Acc", "https://raw.githubuserc
 addscriptexist(263761432, "HorrificHousingInfMoney", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/HorrificHousingInfMoney.lua")
                     
 addscriptexist(734159876, "SharkBiteGUI", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SharkBiteGUI.lua")
+                    
+addscriptexist(137885680, "ZombieRushKillAll", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ZombieRushKillAll.lua")
