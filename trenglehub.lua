@@ -10071,3 +10071,6 @@ addscriptexist(5320510816, "MadCityFARMXp", "Terni", "https://raw.githubusercont
 addscriptexist(6114360009, "PrisonLife3", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PrisonLife3.lua")
                     
 addscriptexist(6273865312, "SupernaturalSimulator", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SupernaturalSimulator.lua")
+    
+addscript(6425918578,"Ore Magnet Simulator", "OreMagnetSimulator", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OreMagnetSimulator.lua")
+                    
