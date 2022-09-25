@@ -9103,3 +9103,5 @@ addscriptexist(7336128600, "PetLegendsAutoFarmAntiAfkAutoOpenEggs", "Qalnik", "h
 addscriptexist(6432407703, "BigCityTycoonFARMINGMONEY", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BigCityTycoonFARMINGMONEY.lua")
                     
 addscriptexist(3527629287, "BIGPaintballKILLALL", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BIGPaintballKILLALL.lua")
+                    
+addscriptexist(6339160453, "NarutoWarTycoonINFMONEYCHI", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NarutoWarTycoonINFMONEYCHI.lua")
