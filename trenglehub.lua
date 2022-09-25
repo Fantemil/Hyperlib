@@ -9396,3 +9396,6 @@ addscript(7232621271,"Luobu Mystery Box Hunt [GET ALL BOXES]", "LuobuMysteryBoxH
                     
                     
 addscriptexist(6284583030, "OPPetSimulatorXGUIDupeRainbows", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OPPetSimulatorXGUIDupeRainbows.lua")
+    
+addscript(7025847767,"Destroyer Simulator [Auto Rage/Auto Punch Bags/Auto rebirth]", "DestroyerSimulatorAutoRageAutoPunchBagsAutorebirth", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DestroyerSimulatorAutoRageAutoPunchBagsAutorebirth.lua")
+                    
