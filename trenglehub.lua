@@ -9244,3 +9244,5 @@ addscript(6042596851,"Navy War Tycoon [Auto Purchase/Auto rebirth/Auto Tp player
     
 addscript(3376584594,"Flight Simulator [Inf money]", "FlightSimulatorInfmoney", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FlightSimulatorInfmoney.lua")
                     
+                    
+addscriptexist(286090429, "ArsenalNEWBESTGUI", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ArsenalNEWBESTGUI.lua")
