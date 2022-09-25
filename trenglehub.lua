@@ -11039,3 +11039,6 @@ addscriptexist(292439477, "PhantomForcesSemiHitboxExtenderBody", "Terni", "https
 
                     
 addscriptexist(855499080, "SKYWARSServerLagger", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SKYWARSServerLagger.lua")
+
+                    
+addscriptexist(5732973455, "HOURSUnlockAll", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/HOURSUnlockAll.lua")
