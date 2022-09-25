@@ -9503,3 +9503,5 @@ addscriptexist(3956818381, "NinjaLegendsAutoFarmCoinsAutoFarmChiAutoSell", "Qaln
 addscriptexist(292439477, "PhantomForces", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PhantomForces.lua")
                     
 addscriptexist(301549746, "CounterBloxAimBotEcpInfAmmo", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CounterBloxAimBotEcpInfAmmo.lua")
+                    
+addscriptexist(662417684, "LUCKYBLOCKSInfJumpAllgunsFly", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LUCKYBLOCKSInfJumpAllgunsFly.lua")

