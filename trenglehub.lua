@@ -9476,3 +9476,5 @@ addscriptexist(5320510816, "TimberAutoFarm", "Qalnik", "https://raw.githubuserco
 addscriptexist(277751860, "EpicMinigamesAutoWinInfJumpCheatRound", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/EpicMinigamesAutoWinInfJumpCheatRound.lua")
                     
 addscriptexist(4958515691, "GladiatorSimulator", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/GladiatorSimulator.lua")
+                    
+addscriptexist(2413927524, "THERAKEINFINITERun", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/THERAKEINFINITERun.lua")
