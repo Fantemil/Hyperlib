@@ -10990,3 +10990,5 @@ addscriptexist(4282985734, "CombatWarriorsEspPlayersSilentAImmore", "astrofile",
 addscriptexist(648362523, "BreakingPointAutoFarmInfinityCoins", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BreakingPointAutoFarmInfinityCoins.lua")
                     
 addscriptexist(286090429, "ArsenalAimbotSmoothnessEsp", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ArsenalAimbotSmoothnessEsp.lua")
+                    
+addscriptexist(2753915549, "BloxFruitsAutoStatsAutoFarmPlayer", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BloxFruitsAutoStatsAutoFarmPlayer.lua")
