@@ -9759,3 +9759,5 @@ addscriptexist(920587237, "AdoptMeVGHubScript2021", "Acc", "https://raw.githubus
 addscriptexist(6766156863, "StrongmanSimulatorNewScript", "to_hen", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/StrongmanSimulatorNewScript.lua")
                     
 addscriptexist(4850718823, "SkatePark200KXP15MILLIONCREDITSOPENSOURCE", "Полотенчик", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SkatePark200KXP15MILLIONCREDITSOPENSOURCE.lua")
+                    
+addscriptexist(4996049426, "AllStarTowerDefenseAutoFarmUnitsInteractionSelectUnits", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AllStarTowerDefenseAutoFarmUnitsInteractionSelectUnits.lua")
