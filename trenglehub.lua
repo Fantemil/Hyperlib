@@ -9008,3 +9008,5 @@ addscriptexist(920587237, "AdoptMeAutoFarmCandy", "Qalnik", "https://raw.githubu
     
 addscript(6706152946,"Jojo", "JojoCrusadersHeavenKillAura", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/JojoCrusadersHeavenKillAura.lua")
                     
+                    
+addscriptexist(4520749081, "KingLegacyAUTOFARMAUTOQUESTMORE", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/KingLegacyAUTOFARMAUTOQUESTMORE.lua")
