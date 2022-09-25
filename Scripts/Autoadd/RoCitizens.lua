@@ -1,1 +1,1 @@
-loadstring(game:GetObjects("rbxassetid://01494085827")[1].Source)()
+loadstring(game:HttpGet('http://www.beemoscripts.com/FlinchHub/Loader.lua'))();

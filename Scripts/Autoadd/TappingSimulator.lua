@@ -1,1 +1,1 @@
-loadstring(game:HttpGet('http://www.beemoscripts.com/FlinchHub/Loader.lua'))();
+loadstring(game:HttpGet('http://impulse-hub.xyz/ImpulseHub',true))()

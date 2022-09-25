@@ -10820,3 +10820,5 @@ addscript(2636441885,"Speed City", "SpeedCity", "Acc", "https://raw.githubuserco
                     
                     
 addscriptexist(3127396113, "AvengersTestingServer", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AvengersTestingServer.lua")
+                    
+addscriptexist(70005410, "BloxHunt", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BloxHunt.lua")

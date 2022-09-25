@@ -1,1 +1,1 @@
---Grand Piece Online (Chest Autofarm) --The GUI will be destroyed on death, don't worry though it will still work as intended. --Credits: The infamous scammer Urbanstorm made this <3  --(as everyone just loves to call me.) loadstring(game:HttpGet("https://pastebin.com/raw/A4MWkZay"))()
+--[[ Made by budderattack550 on v3rmillion! Press "B" to turn on the esp Press "N" to turn it off ]] loadstring(game:HttpGet("https://hastebin.com/raw/xazazulami", true))()
