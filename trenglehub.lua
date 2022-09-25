@@ -11133,3 +11133,6 @@ addscriptuniversal("RobloxUniversalScriptWalkspeedInfYield", "astrofile", "https
                         
 addscriptuniversal("RobloxUniversalScript", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RobloxUniversalScript.lua")
     
+                        
+addscriptuniversal("AUniversalTimeItemsFarmGodModeAutoQuest", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AUniversalTimeItemsFarmGodModeAutoQuest.lua")
+    
