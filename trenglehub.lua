@@ -9544,3 +9544,5 @@ addscriptexist(7177496972, "AnimeWarriorsAutoFarmAutoReplayFlyPart", "Qalnik", "
 addscriptexist(914010731, "RoGhoulAutoTaskAutoTrainerTeleport", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RoGhoulAutoTaskAutoTrainerTeleport.lua")
                     
 addscriptexist(5963376918, "AnimeTycoonAllweaponsSpeedNoclip", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AnimeTycoonAllweaponsSpeedNoclip.lua")
+                    
+addscriptexist(4999590694, "ZombieDefenseTycoonInfammo", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ZombieDefenseTycoonInfammo.lua")
