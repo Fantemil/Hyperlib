@@ -8836,3 +8836,5 @@ addscriptexist(7485253727, "TruePieceTeleportBYPASS", "Acc", "https://raw.github
     
 addscript(5909047091,"Zombie Tycoon [All Gamepasses]", "ZombieTycoonAllGamepasses", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ZombieTycoonAllGamepasses.lua")
                     
+                    
+addscriptexist(2619187362, "SuperPowerFightingSimulatorAUTOCOLLECTPUMPKINS", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SuperPowerFightingSimulatorAUTOCOLLECTPUMPKINS.lua")
