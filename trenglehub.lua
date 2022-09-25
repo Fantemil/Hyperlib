@@ -9585,3 +9585,6 @@ addscriptexist(7453798168, "YouTubeSimulatorAutoRecordAutoUpdate", "Acc", "https
 addscriptexist(286090429, "Arsenal", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Arsenal.lua")
                     
 addscriptexist(2866967438, "FishingSimulatorTeleportKIllShark", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FishingSimulatorTeleportKIllShark.lua")
+    
+addscript(1204965839,"Wolves' Life 3 [TP/INF.JUMP/ITEM/RAINBOW]", "WolvesLife3TPINFJUMPITEMRAINBOW", "wsufy.lnd", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/WolvesLife3TPINFJUMPITEMRAINBOW.lua")
+                    
