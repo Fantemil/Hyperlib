@@ -9450,3 +9450,5 @@ addscript(5659599095,"BloxStreets [Auto Farm]", "BloxStreetsAutoFarm", "Qalnik",
     
 addscript(5670292785,"Undead Defense Tycoon [Auto Farm]", "UndeadDefenseTycoonAutoFarm", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/UndeadDefenseTycoonAutoFarm.lua")
                     
+                    
+addscriptexist(443406476, "TheMazeespmonstersgetallbatteriesnoclip", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TheMazeespmonstersgetallbatteriesnoclip.lua")
