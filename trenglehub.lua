@@ -11244,3 +11244,6 @@ addscriptuniversal("AUniversalTimeQuestFarm", "Terni", "https://raw.githubuserco
                         
 addscriptuniversal("RobloxUniversaltpwalk", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RobloxUniversaltpwalk.lua")
     
+                        
+addscriptuniversal("AUniversalTimeMeteorFarmChestFarmMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AUniversalTimeMeteorFarmChestFarmMore.lua")
+    
