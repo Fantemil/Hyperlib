@@ -9909,3 +9909,5 @@ addscriptexist(6542731310, "DogecoinMiningTycoon", "Terni", "https://raw.githubu
     
 addscript(6704182071,"Cooking Simulator", "CookingSimulator", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CookingSimulator.lua")
                     
+                    
+addscriptexist(6788787407, "WarriorChampions", "MaGiXx", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/WarriorChampions.lua")
