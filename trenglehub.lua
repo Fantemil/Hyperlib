@@ -10613,3 +10613,6 @@ addscriptexist(5902977746, "SuperheroTowerDefense", "Acc", "https://raw.githubus
     
 addscript(625364452,"Nerf FPS V5.46", "NerfFPSV546", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NerfFPSV546.lua")
                     
+    
+addscript(4828705676,"Reaper Simulator 2", "ReaperSimulator2", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ReaperSimulator2.lua")
+                    
