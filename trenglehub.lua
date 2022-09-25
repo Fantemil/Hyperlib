@@ -9149,3 +9149,6 @@ addscriptexist(7549229959, "SquidGameNEWGUI2021", "Terni", "https://raw.githubus
     
 addscript(6761201193,"Ro-Squid Game {WINS FARM]", "RoSquidGameWINSFARM", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RoSquidGameWINSFARM.lua")
                     
+    
+addscript(5740246170,"Tower Simulator [Auto Click/Auto Upgrade/Collect Bricks]", "TowerSimulatorAutoClickAutoUpgradeCollectBricks", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TowerSimulatorAutoClickAutoUpgradeCollectBricks.lua")
+                    
