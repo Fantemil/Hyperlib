@@ -1,11 +1,1 @@
- -- coin autofarm
-while wait(1) do
-for i, v in pairs(game:GetService("Workspace").CoinsFolder:GetChildren()) do
-    if v.Name == "Coin" then
-    if game.Players.LocalPlayer.Name == game.Players.LocalPlayer.Name then game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(v.Position)
-wait(0.05)
-else wait(0.05)
-end
-end
-end
-end
+local RedeemCode = game:GetService("ReplicatedStorage").Interactions.Server.RedeemCode local RenderStepped = game:GetService("RunService").RenderStepped local Codes = {"H4LL0WS","PURP3L","Y3LL0W","LUG3R","3Y3B4LL","R41N","SCYTH3","FR4NK","B4N4N4","S3N","PDJ","P00L","S1L","TURK3Y","V3NT3D","TH0R"}  function Redeem()    for i=1,#Codes do        RenderStepped:Connect(function()            RedeemCode:InvokeServer(Codes[i])        end)    end end  RenderStepped:Connect(function()    Redeem() end)
