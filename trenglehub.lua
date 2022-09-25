@@ -9883,3 +9883,6 @@ addscript(6285815281,"LankyBox Simulator", "LankyBoxSimulator", "Terni", "https:
     
 addscript(6422237656,"My Toy Factory", "MyToyFactory", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MyToyFactory.lua")
                     
+    
+addscript(6689894296,"Brawl Legends", "BrawlLegends", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BrawlLegends.lua")
+                    
