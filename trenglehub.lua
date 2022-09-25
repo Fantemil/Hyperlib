@@ -9055,3 +9055,5 @@ addscriptexist(142823291, "MurderMystery2AutoFarmGodmodeKillAura", "Qalnik", "ht
 addscriptexist(1962086868, "TowerOfHellGodmodeWinInfiniteJump", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TowerOfHellGodmodeWinInfiniteJump.lua")
                     
 addscriptexist(3738091713, "BoxingLeagueAUTOFARMAUTOUPDATE", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BoxingLeagueAUTOFARMAUTOUPDATE.lua")
+                    
+addscriptexist(5320510816, "BreakingPointXKNIFEFARMGUNFARM", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BreakingPointXKNIFEFARMGUNFARM.lua")

