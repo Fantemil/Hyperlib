@@ -10161,3 +10161,5 @@ addscript(6440133276,"Shampoo Simulator", "ShampooSimulator", "Terni", "https://
     
 addscript(5709572883,"Lift Legends Simulator", "LiftLegendsSimulator", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LiftLegendsSimulator.lua")
                     
+                    
+addscriptexist(5293755937, "SpeedRunSImulator", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SpeedRunSImulator.lua")

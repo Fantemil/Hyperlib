@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://soggyhubv2.vercel.app"))()
+ loadstring(game:HttpGet("https://raw.githubusercontent.com/KPRAAHUE/driving-empire-autofarm2/main/README.md"))()
