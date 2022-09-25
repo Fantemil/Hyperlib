@@ -11277,3 +11277,6 @@ addscriptuniversal("VinuxUniversalHubINFTOKENSFEGALEARTGRABBER", "Qalnik", "http
                         
 addscriptuniversal("UniversalCustomESP", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/UniversalCustomESP.lua")
     
+                        
+addscriptuniversal("UniversalTelekillAimbot", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/UniversalTelekillAimbot.lua")
+    
