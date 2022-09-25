@@ -9767,3 +9767,5 @@ addscript(6196669580,"Monster Quest - Auto Farm - Anti Afk", "MonsterQuestAutoFa
     
 addscript(6698203444,"Brick Magnet Simulator - Auto Farm - Auto Buy - Mix", "BrickMagnetSimulatorAutoFarmAutoBuyMix", "UKpansR", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BrickMagnetSimulatorAutoFarmAutoBuyMix.lua")
                     
+                    
+addscriptexist(4042427666, "AnimeFightingSimulatorAttackBossMiscMain", "to_hen", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AnimeFightingSimulatorAttackBossMiscMain.lua")
