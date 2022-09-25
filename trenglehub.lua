@@ -10451,3 +10451,5 @@ addscript(5118969548,"Spider", "Spider", "Acc", "https://raw.githubusercontent.c
                     
                     
 addscriptexist(5201039691, "TatakaiReborn", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TatakaiReborn.lua")
+                    
+addscriptexist(185655149, "Bloxburgv2", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Bloxburgv2.lua")
