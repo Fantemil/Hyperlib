@@ -11208,3 +11208,6 @@ addscriptuniversal("RobloxUniversalScriptFEFlingAll", "astrofile", "https://raw.
                         
 addscriptuniversal("RobloxUniversalScriptGraphicEnhancer", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RobloxUniversalScriptGraphicEnhancer.lua")
     
+                        
+addscriptuniversal("RobloxUniversalScriptAimbotFOV", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RobloxUniversalScriptAimbotFOV.lua")
+    
