@@ -10547,3 +10547,6 @@ addscriptexist(4616652839, "ShindoLifeV2", "Acc", "https://raw.githubusercontent
 addscriptexist(228181322, "DinosaurSimulator", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DinosaurSimulator.lua")
                     
 addscriptexist(5951002734, "ProjectBaki2", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ProjectBaki2.lua")
+    
+addscript(3339793570,"Pushing Simulator", "PushingSimulator", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PushingSimulator.lua")
+                    
