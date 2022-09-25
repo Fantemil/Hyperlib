@@ -9467,3 +9467,6 @@ addscriptexist(443406476, "ProjectLazarusKillAuraInfAmmoInstaKill", "Qalnik", "h
 addscriptexist(155615604, "PrisonLifeArrsetallAntiArrsetGunmode", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PrisonLifeArrsetallAntiArrsetGunmode.lua")
                     
 addscriptexist(286090429, "ArsenalAimInfJumpEcp", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ArsenalAimInfJumpEcp.lua")
+    
+addscript(6541075507,"Carnival Tycoon [Auto farm]", "CarnivalTycoonAutofarm", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CarnivalTycoonAutofarm.lua")
+                    
