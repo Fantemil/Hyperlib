@@ -9651,3 +9651,5 @@ addscript(6794368433,"Be a Spider! Tycoon [AUTOFARM/AUTOSELL]", "BeaSpiderTycoon
                     
                     
 addscriptexist(6284583030, "PetSimulatorXTeleportOpenEggsAutoFarm", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PetSimulatorXTeleportOpenEggsAutoFarm.lua")
+                    
+addscriptexist(6284583030, "PetSimulatorXAutoFarmCoinsHideGui", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PetSimulatorXAutoFarmCoinsHideGui.lua")
