@@ -10290,3 +10290,5 @@ addscriptexist(2473334918, "GasStationSimulator", "Terni", "https://raw.githubus
     
 addscript(5665787539,"Gods Of Glory", "GodsOfGlory", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/GodsOfGlory.lua")
                     
+                    
+addscriptexist(286090429, "ArsenalNewGui", "TSQ", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ArsenalNewGui.lua")
