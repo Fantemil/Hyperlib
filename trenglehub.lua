@@ -9493,3 +9493,5 @@ addscriptexist(4410049285, "DrivingSimulatorAutoFarm", "Qalnik", "https://raw.gi
     
 addscript(4999590694,"Zombie Defense Tycoon [Get a gamepass/farm GOO/Gun mod]", "ZombieDefenseTycoonGetagamepassfarmGOOGunmod", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ZombieDefenseTycoonGetagamepassfarmGOOGunmod.lua")
                     
+                    
+addscriptexist(2281639237, "StandsOnlineShellsFarm", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/StandsOnlineShellsFarm.lua")
