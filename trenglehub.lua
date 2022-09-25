@@ -9591,3 +9591,5 @@ addscript(1204965839,"Wolves' Life 3 [TP/INF.JUMP/ITEM/RAINBOW]", "WolvesLife3TP
     
 addscript(6312753269,"Super Evolution [AUTOFARM/TP/ESP]", "SuperEvolutionAUTOFARMTPESP", "wsufy.lnd", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SuperEvolutionAUTOFARMTPESP.lua")
                     
+                    
+addscriptexist(6904735821, "ShoeSimulatorAUTOFARMANTIAFKGETALLAUTOBUY", "wsufy.lnd", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ShoeSimulatorAUTOFARMANTIAFKGETALLAUTOBUY.lua")
