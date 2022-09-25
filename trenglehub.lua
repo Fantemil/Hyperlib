@@ -9523,3 +9523,6 @@ addscriptexist(3527629287, "BIGPaintballGodmodeAimEsp", "Qalnik", "https://raw.g
 addscriptexist(7177496972, "AnimeWarriors", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AnimeWarriors.lua")
                     
 addscriptexist(5326405001, "BaseBattlesINFINITEAMMO", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BaseBattlesINFINITEAMMO.lua")
+    
+addscript(5310443220,"GOD TYCOON [GET ALL WEAPONS]", "GODTYCOONGETALLWEAPONS", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/GODTYCOONGETALLWEAPONS.lua")
+                    
