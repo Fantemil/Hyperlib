@@ -20,8 +20,8 @@ function addscriptexist(Place,title,author,scriptlink)
         
 end
 function addscriptuniversal(title,author,scriptlink)
-    generalscriptssection = _G.generalscriptssection
-    generalscriptssection:NewButton(title, author, function()
+    
+    _G.generalscriptssection:NewButton(title, author, function()
         loadstring(game:HttpGet(scriptlink))()
         end)
 end
