@@ -10994,3 +10994,5 @@ addscriptexist(286090429, "ArsenalAimbotSmoothnessEsp", "astrofile", "https://ra
 addscriptexist(2753915549, "BloxFruitsAutoStatsAutoFarmPlayer", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BloxFruitsAutoStatsAutoFarmPlayer.lua")
                     
 addscriptexist(606849621, "JailbreakNoWaitInfiniteDuckInfinitePunch", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/JailbreakNoWaitInfiniteDuckInfinitePunch.lua")
+                    
+addscriptexist(4967465336, "RaysModInfinityHealth", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RaysModInfinityHealth.lua")
