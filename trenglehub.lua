@@ -10553,3 +10553,5 @@ addscript(3339793570,"Pushing Simulator", "PushingSimulator", "Acc", "https://ra
     
 addscript(6153022230,"Justice Jungle", "JusticeJungle", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/JusticeJungle.lua")
                     
+                    
+addscriptexist(155382109, "SurviveandKill", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SurviveandKill.lua")
