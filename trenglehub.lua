@@ -10166,3 +10166,5 @@ addscriptexist(5293755937, "SpeedRunSImulator", "Terni", "https://raw.githubuser
     
 addscript(5609538200,"Tower of Fun", "TowerofFun", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TowerofFun.lua")
                     
+                    
+addscriptexist(142823291, "MurderMystery2FAKEKNIFE", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MurderMystery2FAKEKNIFE.lua")
