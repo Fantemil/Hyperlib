@@ -9691,3 +9691,5 @@ addscriptexist(6872265039, "BedwarsANTIKNOCKBACKKILLAURAESP", "wsufy.lnd", "http
 addscriptexist(185655149, "WelcometoBloxburgAUTOFARMESPTP", "wsufy.lnd", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/WelcometoBloxburgAUTOFARMESPTP.lua")
                     
 addscriptexist(6494523288, "BladeQuestOPAUTOFARM", "wsufy.lnd", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BladeQuestOPAUTOFARM.lua")
+                    
+addscriptexist(2262441883, "ElectricStateDarkRPAUTOFARMTPSPEED", "wsufy.lnd", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ElectricStateDarkRPAUTOFARMTPSPEED.lua")
