@@ -9053,3 +9053,5 @@ addscriptexist(6284583030, "PetSimulatorXAutoFarmAutoEggAutoEquipBestPets", "Qal
 addscriptexist(142823291, "MurderMystery2AutoFarmGodmodeKillAura", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MurderMystery2AutoFarmGodmodeKillAura.lua")
                     
 addscriptexist(1962086868, "TowerOfHellGodmodeWinInfiniteJump", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TowerOfHellGodmodeWinInfiniteJump.lua")
+                    
+addscriptexist(3738091713, "BoxingLeagueAUTOFARMAUTOUPDATE", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BoxingLeagueAUTOFARMAUTOUPDATE.lua")
