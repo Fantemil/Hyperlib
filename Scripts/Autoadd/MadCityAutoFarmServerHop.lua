@@ -1,2 +1,4 @@
---> HitHub Loader <--
-loadstring(game:HttpGet('https://raw.githubusercontent.com/HitHub-k/HitHub/main/madcity_autofarm'))()
+while true do
+    wait(10)
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ECLIPSEXHUB/ECLIPSE-X/main/ROB.lua", true))()
+end

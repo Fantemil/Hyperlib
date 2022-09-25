@@ -1,109 +1,55 @@
-getgenv().Settings = {
-   ['FOV'] = 45;
-   ['BodyPart'] = 'Head';
-   ['FOVCircle'] = false;
-};
+local replicated_storage = game:GetService('ReplicatedStorage')
+local players            = game:GetService('Players')
+local local_player       = players.LocalPlayer
 
-local Settings = getgenv().Settings;
-local CharTable, Network, ModuleLoader, Old, OldIndex, LoadedModules;
-local Players = game:GetService('Players');
-local Player = Players.LocalPlayer;
-local Camera = workspace.CurrentCamera;
-local Mouse = Player:GetMouse();
-local RunService = game:GetService('RunService');
+local network = require(replicated_storage.Modules.Shared.Network)
+local recoil  = require(replicated_storage.Modules.Client.Helpers.RecoilHandler)
 
-ModuleLoader = require(game:GetService("ReplicatedStorage").Modules.Shared.ModuleLoader);
-LoadedModules = ModuleLoader.LoadedModules;
+local bac_characters_senv = getsenv(game.ReplicatedStorage.BAC.Characters)
 
-for Index, Value in next, getgc(true) do
-   if (type(Value) == 'function') and (islclosure(Value)) and (debug.getinfo(Value).name == 'NewChar') then
-       Characters = getupvalue(Value, 1); --> [1] = table [2] (real-chars) = table (in-game chars)
-   end;
-end;
+local function GetClosestPlayer()
+    local dist, target = math.huge, nil
 
+    for i,v in next, players:GetChildren() do
+        if v:IsA('Player') and v ~= local_player and v.SelectedTeam.Value ~= local_player.SelectedTeam.Value then
+            local character = getupvalue(bac_characters_senv.NewChar, 1)[v]
+            if character ~= nil then
+                local mag = (character.HumanoidRootPart.CFrame.p - workspace.CurrentCamera.CFrame.p).magnitude
+                if mag < dist then
+                    dist = mag
+                    target = character
+                end
+            end
+        end
+    end
 
-Network = LoadedModules.Network;
-local Old = Network.FireServer;
+    return target
+end
 
-local Circle = Drawing.new('Circle');
-Circle.Radius = Settings.FOV;
-Circle.Visible = Settings.FOVCircle;
-Circle.Thickness = 4;
-Circle.NumSides = 15;
-Circle.Color = Color3.fromRGB(255, 255, 255);
+local firesever_new = function(self, name, args)
+    if name == 'FireBullet' then
+        local target = GetClosestPlayer()
+        if target == nil then return end
 
---print(Old, Network.FireSever);
+        print(target)
 
---table.foreach(LoadedModules, print);
+        for i,v in next, args[1] do
+            local aim_cf = target.Head.CFrame
+            local rotated_cf = CFrame.new(workspace.CurrentCamera.CFrame.p, aim_cf.p)
+            v.RotationMatrix = (rotated_cf - rotated_cf.p)
+            v.OriginCFrame = rotated_cf
+        end
+    end
+    return self, name, unpack(args)
+end
 
+local old; old = hookfunction(network.FireServer, function(self, name, ...)
+    return old(firesever_new(self, name, {...})) -- bypass too many upvalues
+end)
 
-local function GetNearest()
-
-   Targets = {};
-
-   for Index, Value in next, Players:GetPlayers() do
-           if (Value ~= Player) and (Value.SelectedTeam.Value ~= Player.SelectedTeam.Value) then
-           if (not Characters[Value]) then continue end;
-           local Char = Characters[Value];
-           if (not Char:FindFirstChild(Settings.BodyPart)) then continue end;
-
-           Distance = (Char.HumanoidRootPart.CFrame.p - Camera.CFrame.p).Magnitude;
-           worldPoint = Char.Head.Position;
-           vector, onScreen = Camera:WorldToScreenPoint(worldPoint);
-           magnitude = (Vector2.new(Mouse.X, Mouse.Y) - Vector2.new(vector.X, vector.Y)).Magnitude;
-   
-           if (magnitude > Settings['FOV']) then continue end;
-
-           table.insert(Targets, {Value, Distance, Char:FindFirstChild(Settings.BodyPart)});
-       end;
-   end;
-
-   if (#Targets > 1) then
-    table.sort(Targets, function(a, b)
-        return a[2] < b[2];
-       end);
-   end;
-
-   if (#Targets == 0) then
-       return nil;
-   end;
-
-   return Targets[1][3];
-end;
-
-local function ResolveRotation(Target)
-  return CFrame.new(Camera.CFrame['p'], Target.CFrame['p']);
-end;
-
-local function WTS(Object)
-   local Screen = Camera:WorldToViewportPoint(Object)
-   return Vector2.new(Screen.x, Screen.y);
-end;
-
-Network.FireServer = function(...)
-   local Args = {...};
-
-    if (Args[2] == 'FireBullet') then
-
-       local Nearest = GetNearest()
-
-       if (not Nearest) then
-           return Old(...);
-       end;
-
-       ResolvedRotation = ResolveRotation(Nearest);
-       Args[3][1].OriginCFrame = ResolvedRotation;
-       Args[3][1].RotationMatrix = ResolvedRotation - ResolvedRotation['p'];
-
-       return Old(unpack(Args));
- 
-   end;
-
-   return Old(...);
-end;
-
-RunService.Stepped:Connect(function()
-   Circle.Visible = Settings.FOVCircle;
-   Circle.Radius = Settings.FOV;
-   Circle.Position = WTS(Mouse.hit.p);
-end);
+local old; old = hookfunction(recoil.AddRecoil, function(...)
+    if true then -- used to be toggle check
+        return
+    end
+    return old(...)
+end)
