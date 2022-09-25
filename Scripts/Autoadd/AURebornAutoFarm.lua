@@ -1,33 +1,46 @@
-function b()
-while wait(0.1) do
-game:GetService("ReplicatedStorage").Remotes.Combat:FireServer()
-local args = {[1] = "Reset"}
-game:GetService("ReplicatedStorage").Remotes.ComboReset:FireServer(unpack(args))
-local args = {[1] = "One",[2] = nil --[[Vector3]]}
-game:GetService("ReplicatedStorage").Remotes.Skill:FireServer(unpack(args))
-local args = {[1] = "Two",[2] = nil --[[Vector3]]}
-game:GetService("ReplicatedStorage").Remotes.Skill:FireServer(unpack(args))
-local args = {[1] = "Three",[2] = nil --[[Vector3]]}
-game:GetService("ReplicatedStorage").Remotes.Skill:FireServer(unpack(args))
-local args = {[1] = "Four",[2] = nil --[[Vector3]]}
-game:GetService("ReplicatedStorage").Remotes.Skill:FireServer(unpack(args))
-local args = {[1] = "Five",[2] = nil --[[Vector3]]}
-game:GetService("ReplicatedStorage").Remotes.Skill:FireServer(unpack(args))
-local args = {[1] = "Six",[2] = nil --[[Vector3]]}
-game:GetService("ReplicatedStorage").Remotes.Skill:FireServer(unpack(args))
-for i,v in pairs(game.Players:GetChildren()) do
-if v ~= game.Players.LocalPlayer then
-game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = v.Character.HumanoidRootPart.CFrame * CFrame.new(0,0,2)
-wait()
-end
-end
-end
+repeat wait() until game:IsLoaded()
+wait(5)
+
+pcall(function()
+wait(1800)
+game:GetService('TeleportService'):Teleport(game.PlaceId)
+end)
+
+local function GetClosestPlayer()
+  local target = nil
+  local distance = math.huge
+  for i,v in next, game.Players:GetPlayers() do
+      if v and v ~= game.Players.LocalPlayer and v.Character and v.Character:FindFirstChildOfClass('Humanoid') and v.Character:FindFirstChildOfClass('Humanoid').RootPart then
+          local plrdist = game.Players.LocalPlayer:DistanceFromCharacter(v.Character:FindFirstChildOfClass('Humanoid').RootPart.CFrame.p)
+          if plrdist < distance then
+              target = v
+              distance = plrdist
+          end
+      end
+  end
+  return target
 end
 
-local a = nil
-a = hookmetamethod(game, "__namecall", function(self, ...)
-if getnamecallmethod() == "FireServer" and self.Name == "LowGFXSetting" then
-task.spawn(b)
+while wait() do
+pcall(function()
+if (game:GetService("Workspace").Lobby.SpawnLocation.Position - game.Players.LocalPlayer.Character.HumanoidRootPart.Position).Magnitude >= 500 then
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = game:GetService("Workspace").Lobby.SpawnLocation.CFrame
+elseif (game:GetService("Workspace").Lobby.SpawnLocation.Position - game.Players.LocalPlayer.Character.HumanoidRootPart.Position).Magnitude < 500 then
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = GetClosestPlayer().Character:FindFirstChildOfClass('Humanoid').RootPart.CFrame
+game:GetService("ReplicatedStorage").Remotes.Combat:FireServer()
+game:GetService("ReplicatedStorage").Remotes.Skill:FireServer("One", GetClosestPlayer().Character:FindFirstChildOfClass('Humanoid').RootPart.Position)
+game:GetService("ReplicatedStorage").Remotes.Skill:FireServer("Two", GetClosestPlayer().Character:FindFirstChildOfClass('Humanoid').RootPart.Position)
+game:GetService("ReplicatedStorage").Remotes.Skill:FireServer("Three", GetClosestPlayer().Character:FindFirstChildOfClass('Humanoid').RootPart.Position)
+game:GetService("ReplicatedStorage").Remotes.Skill:FireServer("Four", GetClosestPlayer().Character:FindFirstChildOfClass('Humanoid').RootPart.Position)
+game:GetService("ReplicatedStorage").Remotes.Skill:FireServer("Five", GetClosestPlayer().Character:FindFirstChildOfClass('Humanoid').RootPart.Position)
+game:GetService("ReplicatedStorage").Remotes.Skill:FireServer("Six", GetClosestPlayer().Character:FindFirstChildOfClass('Humanoid').RootPart.Position)
+game:GetService("ReplicatedStorage").Remotes.Skill:FireServer("E", GetClosestPlayer().Character:FindFirstChildOfClass('Humanoid').RootPart.Position)
 end
-return a(self, ...)
+end)
+end
+
+game.Players.PlayerRemoving:connect(function(plr)
+  if plr == game.Players.LocalPlayer or #game.Players:GetChildren() <= 3 then
+    game:GetService('TeleportService'):Teleport(game.PlaceId)
+  end
 end)
