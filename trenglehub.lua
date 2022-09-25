@@ -9297,3 +9297,5 @@ addscript(7540891731,"Red Light, Green Light [Auto Farm]", "RedLightGreenLightAu
                     
                     
 addscriptexist(4924922222, "BrookhavenAdmincommands", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BrookhavenAdmincommands.lua")
+                    
+addscriptexist(6872265039, "BedWarsKillAuraEspAntiKnockBack", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BedWarsKillAuraEspAntiKnockBack.lua")
