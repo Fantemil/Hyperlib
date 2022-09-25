@@ -10736,3 +10736,5 @@ addscript(5767189684,"DungeonFall", "DungeonFall", "Acc", "https://raw.githubuse
 addscriptexist(370731277, "MeepCitySuperGui", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MeepCitySuperGui.lua")
                     
 addscriptexist(370731277, "MeepCityGui", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MeepCityGui.lua")
+                    
+addscriptexist(1240123653, "ZombieAttackGui", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ZombieAttackGui.lua")
