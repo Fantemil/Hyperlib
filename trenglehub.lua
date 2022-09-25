@@ -9521,3 +9521,5 @@ addscriptexist(2809202155, "YourBizarreAdventureItemFarmAutoFarmTeleports", "Acc
 addscriptexist(3527629287, "BIGPaintballGodmodeAimEsp", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BIGPaintballGodmodeAimEsp.lua")
                     
 addscriptexist(7177496972, "AnimeWarriors", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AnimeWarriors.lua")
+                    
+addscriptexist(5326405001, "BaseBattlesINFINITEAMMO", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BaseBattlesINFINITEAMMO.lua")
