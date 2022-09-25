@@ -9382,3 +9382,5 @@ addscriptexist(6897226634, "TimberTREECUTTINGAURA", "Qalnik", "https://raw.githu
     
 addscript(7081641016,"Bank Robbery Simulator [ Auto CollectDrop/Auto Sell/Bag]", "BankRobberySimulatorAutoCollectDropAutoSellBag", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BankRobberySimulatorAutoCollectDropAutoSellBag.lua")
                     
+                    
+addscriptexist(6951762614, "UFOSimulatorAutoFarmAutoBuy", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/UFOSimulatorAutoFarmAutoBuy.lua")
