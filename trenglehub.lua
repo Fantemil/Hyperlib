@@ -9051,3 +9051,5 @@ addscript(7313926139,"Manic Mining! [AUTO-FARM, LOCAL PLAYER, MORE!]", "ManicMin
 addscriptexist(6284583030, "PetSimulatorXAutoFarmAutoEggAutoEquipBestPets", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PetSimulatorXAutoFarmAutoEggAutoEquipBestPets.lua")
                     
 addscriptexist(142823291, "MurderMystery2AutoFarmGodmodeKillAura", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MurderMystery2AutoFarmGodmodeKillAura.lua")
+                    
+addscriptexist(1962086868, "TowerOfHellGodmodeWinInfiniteJump", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TowerOfHellGodmodeWinInfiniteJump.lua")
