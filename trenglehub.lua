@@ -8891,3 +8891,5 @@ addscriptexist(13822889, "LumberTycoon2DupeInventoryDupeMoney", "Acc", "https://
 addscriptexist(7239452266, "PopItSimulatorInfinitiGemsMoney", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PopItSimulatorInfinitiGemsMoney.lua")
                     
 addscriptexist(4580204640, "SurvivetheKillerRemoveESPCreateESPRefreshESP", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SurvivetheKillerRemoveESPCreateESPRefreshESP.lua")
+                    
+addscriptexist(7940932746, "RobloxReconnected", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RobloxReconnected.lua")
