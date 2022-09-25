@@ -9241,3 +9241,6 @@ addscriptexist(3607821695, "VietnamWarSimulator", "Qalnik", "https://raw.githubu
     
 addscript(6042596851,"Navy War Tycoon [Auto Purchase/Auto rebirth/Auto Tp player]", "NavyWarTycoonAutoPurchaseAutorebirthAutoTpplayer", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NavyWarTycoonAutoPurchaseAutorebirthAutoTpplayer.lua")
                     
+    
+addscript(3376584594,"Flight Simulator [Inf money]", "FlightSimulatorInfmoney", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FlightSimulatorInfmoney.lua")
+                    
