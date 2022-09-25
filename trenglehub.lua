@@ -10022,3 +10022,5 @@ addscriptexist(1224212277, "MadCityGUI", "Terni", "https://raw.githubusercontent
     
 addscript(6817892742,"Build and Sail", "BuildandSail", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BuildandSail.lua")
                     
+                    
+addscriptexist(3271441918, "HeroSimulator", "MaGiXx", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/HeroSimulator.lua")
