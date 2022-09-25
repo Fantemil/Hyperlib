@@ -10646,3 +10646,6 @@ addscript(6360242367,"Multi Tools GUI", "MultiToolsGUI", "Acc", "https://raw.git
                     
                     
 addscriptexist(2961297129, "DeathZone", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DeathZone.lua")
+    
+addscript(4857069142,"Clicking Simulator 2.0", "ClickingSimulator20", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ClickingSimulator20.lua")
+                    
