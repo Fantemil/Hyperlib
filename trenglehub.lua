@@ -10476,3 +10476,5 @@ addscriptexist(1899149341, "VehicleTycoon", "Acc", "https://raw.githubuserconten
 addscriptexist(606849621, "Jailbreak", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Jailbreak.lua")
                     
 addscriptexist(4616652839, "Shindolife", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Shindolife.lua")
+                    
+addscriptexist(142823291, "MURDERMYSTERYII", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MURDERMYSTERYII.lua")
