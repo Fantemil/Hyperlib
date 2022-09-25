@@ -10685,3 +10685,5 @@ addscript(1962657432,"ChatSpy", "ChatSpy", "Acc", "https://raw.githubusercontent
                     
                     
 addscriptexist(301549746, "CounterBloxRage", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CounterBloxRage.lua")
+                    
+addscriptexist(155615604, "PRISONLIFEBestGui", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PRISONLIFEBestGui.lua")
