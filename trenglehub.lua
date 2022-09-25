@@ -10988,3 +10988,5 @@ addscriptexist(4860819035, "PlantsvsZombiesGardenProblemInfinitymoney", "astrofi
 addscriptexist(4282985734, "CombatWarriorsEspPlayersSilentAImmore", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CombatWarriorsEspPlayersSilentAImmore.lua")
                     
 addscriptexist(648362523, "BreakingPointAutoFarmInfinityCoins", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BreakingPointAutoFarmInfinityCoins.lua")
+                    
+addscriptexist(286090429, "ArsenalAimbotSmoothnessEsp", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ArsenalAimbotSmoothnessEsp.lua")

