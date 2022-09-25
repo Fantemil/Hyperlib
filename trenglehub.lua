@@ -9827,3 +9827,6 @@ addscriptexist(4042427666, "AnimeFightingSimulator", "Acc", "https://raw.githubu
     
 addscript(6659645288,"Gold Rush", "GoldRush", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/GoldRush.lua")
                     
+    
+addscript(6381681200,"My Fish Store Tycoon", "MyFishStoreTycoon", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MyFishStoreTycoon.lua")
+                    
