@@ -9250,3 +9250,5 @@ addscriptexist(286090429, "ArsenalNEWBESTGUI", "Terni", "https://raw.githubuserc
 addscriptexist(2248408710, "DestructionSimulatorAutoFarm", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DestructionSimulatorAutoFarm.lua")
                     
 addscriptexist(621129760, "KATAimbotSelentAimEsp", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/KATAimbotSelentAimEsp.lua")
+                    
+addscriptexist(3233893879, "BadBusinessBESTGUI", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BadBusinessBESTGUI.lua")
