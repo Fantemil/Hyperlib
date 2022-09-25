@@ -9593,3 +9593,5 @@ addscript(6312753269,"Super Evolution [AUTOFARM/TP/ESP]", "SuperEvolutionAUTOFAR
                     
                     
 addscriptexist(6904735821, "ShoeSimulatorAUTOFARMANTIAFKGETALLAUTOBUY", "wsufy.lnd", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ShoeSimulatorAUTOFARMANTIAFKGETALLAUTOBUY.lua")
+                    
+addscriptexist(4580204640, "JUMPPOWERFORALLGAMES", "wsufy.lnd", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/JUMPPOWERFORALLGAMES.lua")
