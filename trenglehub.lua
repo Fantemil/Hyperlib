@@ -10529,3 +10529,5 @@ addscriptexist(2377868063, "StrucidBETA", "Acc", "https://raw.githubusercontent.
     
 addscript(4601704679,"Bakon", "Bakon", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Bakon.lua")
                     
+                    
+addscriptexist(1069951594, "FallofHell", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FallofHell.lua")
