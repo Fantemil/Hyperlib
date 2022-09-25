@@ -1,0 +1,1 @@
+ loadstring(game:HttpGet("https://raw.githubusercontent.com/lightzki/thunderhub/main/script/ZombieRush.lua"))()

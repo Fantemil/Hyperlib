@@ -10046,3 +10046,5 @@ addscript(6771382126,"Noob Piece", "NoobPiece", "Terni", "https://raw.githubuser
     
 addscript(6264160858,"Plants v. Noobs", "PlantsvNoobs", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PlantsvNoobs.lua")
                     
+                    
+addscriptexist(137885680, "ZombieRush", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ZombieRush.lua")
