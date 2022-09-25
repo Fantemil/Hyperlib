@@ -9144,3 +9144,5 @@ addscript(1167791961,"Knife Simulator [MONEY FARM,AIM]", "KnifeSimulatorMONEYFAR
                     
                     
 addscriptexist(6284583030, "PetSimulatorXPETSDUPENEWAUTOFARMMORE2021", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PetSimulatorXPETSDUPENEWAUTOFARMMORE2021.lua")
+                    
+addscriptexist(7549229959, "SquidGameNEWGUI2021", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SquidGameNEWGUI2021.lua")
