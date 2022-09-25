@@ -9931,3 +9931,6 @@ addscriptexist(6897226634, "TimberGUI", "Terni", "https://raw.githubusercontent.
     
 addscript(6892252562,"Grow Old Simulator", "GrowOldSimulator", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/GrowOldSimulator.lua")
                     
+    
+addscript(6759841279,"Breaking Simulator", "BreakingSimulator", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BreakingSimulator.lua")
+                    
