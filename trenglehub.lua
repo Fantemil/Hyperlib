@@ -10028,3 +10028,5 @@ addscriptexist(3271441918, "HeroSimulator", "MaGiXx", "https://raw.githubusercon
 addscriptexist(6494523288, "BladeQuest", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BladeQuest.lua")
                     
 addscriptexist(6737970321, "LivetopiaADMIN", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LivetopiaADMIN.lua")
+                    
+addscriptexist(5379581123, "SwordFightandFlexYourTime", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SwordFightandFlexYourTime.lua")
