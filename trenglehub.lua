@@ -9946,3 +9946,6 @@ addscript(6812577005,"Gold Factory Simulator", "GoldFactorySimulator", "Terni", 
 addscriptexist(5991118999, "CutTheGrassSimulator", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CutTheGrassSimulator.lua")
                     
 addscriptexist(4811576324, "TotallyAccurateGunSimulator", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TotallyAccurateGunSimulator.lua")
+    
+addscript(6774188812,"Mini Metro", "MiniMetro", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MiniMetro.lua")
+                    
