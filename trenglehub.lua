@@ -9282,3 +9282,6 @@ addscript(6010281397,"Squid Game [God Mode/Fake Lag]", "SquidGameGodModeFakeLag"
                     
                     
 addscriptexist(7082539621, "AnimeDestroyersAutoFarm", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AnimeDestroyersAutoFarm.lua")
+    
+addscript(7277488595,"Luobu Launch Party [Auto Farm]", "LuobuLaunchPartyAutoFarm", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LuobuLaunchPartyAutoFarm.lua")
+                    
