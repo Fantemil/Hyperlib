@@ -8918,3 +8918,5 @@ addscriptexist(443406476, "ProjectLazarusZOMBIESX10DAMAGE", "Terni", "https://ra
 addscriptexist(662417684, "LUCKYBLOCKSInfAllBox", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LUCKYBLOCKSInfAllBox.lua")
                     
 addscriptexist(142823291, "MurderMystery2KILLALLSHERIFANDMURDERESP", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MurderMystery2KILLALLSHERIFANDMURDERESP.lua")
+                    
+addscriptexist(7453798168, "YouTubeSimulatorXAUTOCLICKAUTOEDITSTELEPORTS", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/YouTubeSimulatorXAUTOCLICKAUTOEDITSTELEPORTS.lua")
