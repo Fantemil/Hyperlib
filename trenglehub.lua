@@ -8968,3 +8968,5 @@ addscriptexist(3956818381, "NinjaLegendsAUTOBUYAUTOFARMAUTOSELLMORE", "Terni", "
 addscriptexist(6104994594, "PilferingPiratesAutoFarmDefenseAutoFarmLevelAutoAttack", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PilferingPiratesAutoFarmDefenseAutoFarmLevelAutoAttack.lua")
                     
 addscriptexist(155615604, "PrisonLifeKILLALLKILLAURALOCALPLAYER", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PrisonLifeKILLALLKILLAURALOCALPLAYER.lua")
+                    
+addscriptexist(920587237, "AdoptMeNEWAUTOFARMAUTOCHECKMORE", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AdoptMeNEWAUTOFARMAUTOCHECKMORE.lua")
