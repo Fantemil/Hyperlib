@@ -9969,3 +9969,5 @@ addscriptexist(2960777560, "TreasureQuest", "Terni", "https://raw.githubusercont
     
 addscript(6501876313,"Coconut Simulator GUI", "CoconutSimulatorGUI", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CoconutSimulatorGUI.lua")
                     
+                    
+addscriptexist(6859865958, "YouTubeSimulator", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/YouTubeSimulator.lua")
