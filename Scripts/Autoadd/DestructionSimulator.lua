@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://pastebin.com/raw/EnMqnDZX"))()
+ loadstring(game:HttpGet('https://raw.githubusercontent.com/AquaModz/DestructionSIMModded/main/DestructionSimAqua.lua'))()
