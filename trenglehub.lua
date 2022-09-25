@@ -10781,3 +10781,6 @@ addscriptexist(286090429, "ArsenalRAINBOWGUN", "Acc", "https://raw.githubusercon
     
 addscript(4960315473,"Bleach Era", "BleachEra", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BleachEra.lua")
                     
+    
+addscript(5098929086,"Tapping Simulator", "TappingSimulator", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TappingSimulator.lua")
+                    

