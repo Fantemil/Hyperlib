@@ -9746,3 +9746,6 @@ addscriptexist(2986677229, "GiantSimulatorScript", "to_hen", "https://raw.github
 addscriptexist(4616652839, "ShindoLifeInfiniteSpinsQuestFarmRollsFarmAutoMoney", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ShindoLifeInfiniteSpinsQuestFarmRollsFarmAutoMoney.lua")
                     
 addscriptexist(3101667897, "LegendOfSpeedFarmingTeleport", "to_hen", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LegendOfSpeedFarmingTeleport.lua")
+    
+addscript(7016719633,"Developer Simulator OP GUI! - AutoFarm - AutoBuy", "DeveloperSimulatorOPGUIAutoFarmAutoBuy", "UKpansR", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DeveloperSimulatorOPGUIAutoFarmAutoBuy.lua")
+                    
