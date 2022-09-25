@@ -9215,3 +9215,5 @@ addscriptexist(566399244, "ElementalBattlegroundsGUIAUTOFARM", "Terni", "https:/
 addscriptexist(6951762614, "UFOSimulatorAUTOBUYAUTOKILLMORE", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/UFOSimulatorAUTOBUYAUTOKILLMORE.lua")
                     
 addscriptexist(4581966615, "AnomicAntiCheatBypassWalkSpeedInfiniteStamina", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AnomicAntiCheatBypassWalkSpeedInfiniteStamina.lua")
+                    
+addscriptexist(7393403076, "AnimeArtifactsSimulatorFARMCOLLECT", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AnimeArtifactsSimulatorFARMCOLLECT.lua")
