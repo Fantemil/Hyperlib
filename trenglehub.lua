@@ -10446,3 +10446,6 @@ addscriptexist(3351674303, "DrivingSimulator", "Acc", "https://raw.githubusercon
     
 addscript(5569431582,"Little World", "LittleWorld", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LittleWorld.lua")
                     
+    
+addscript(5118969548,"Spider", "Spider", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Spider.lua")
+                    
