@@ -10761,3 +10761,5 @@ addscript(4399032158,"Thick Legends", "ThickLegends", "Acc", "https://raw.github
 addscriptexist(301549746, "CounterBloxaimbotESP", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CounterBloxaimbotESP.lua")
                     
 addscriptexist(4520749081, "KingPiece", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/KingPiece.lua")
+                    
+addscriptexist(5670292785, "UndeadDefenseTycoon", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/UndeadDefenseTycoon.lua")
