@@ -9292,3 +9292,6 @@ addscript(6417110811,"Roblox [telekinesis]", "Robloxtelekinesis", "Qalnik", "htt
 addscriptexist(3494008884, "DonutBakeryTycoonInfMoney", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DonutBakeryTycoonInfMoney.lua")
                     
 addscriptexist(4616652839, "ShindoAutoFarmGodmodeStoryFarm", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ShindoAutoFarmGodmodeStoryFarm.lua")
+    
+addscript(7540891731,"Red Light, Green Light [Auto Farm]", "RedLightGreenLightAutoFarm", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RedLightGreenLightAutoFarm.lua")
+                    
