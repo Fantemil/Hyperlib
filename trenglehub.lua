@@ -11058,3 +11058,6 @@ addscriptuniversal("UniversalChangeNormalLightingtoFutureLighting", "astrofile",
                         
 addscriptuniversal("UniversalClickTP", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/UniversalClickTP.lua")
     
+                        
+addscriptuniversal("UniversalAimAssistant", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/UniversalAimAssistant.lua")
+    
