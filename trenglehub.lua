@@ -9017,3 +9017,5 @@ addscriptexist(4566572536, "VehicleLegendsNEWAUTOFARMSERVERHOP", "Terni", "https
     
 addscript(3607821695,"Vietnam War Simulator [Auto Farm]", "VietnamWarSimulatorAutoFarm", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/VietnamWarSimulatorAutoFarm.lua")
                     
+                    
+addscriptexist(4520749081, "KingLegacyGUIAUTOSTATSFARMINGESPMORE", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/KingLegacyGUIAUTOSTATSFARMINGESPMORE.lua")
