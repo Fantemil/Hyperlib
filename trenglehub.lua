@@ -11175,3 +11175,6 @@ addscriptuniversal("RobloxUniversalScriptNOTFEShotgun", "astrofile", "https://ra
                         
 addscriptuniversal("RobloxUniversalScriptMakerFE", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RobloxUniversalScriptMakerFE.lua")
     
+                        
+addscriptuniversal("RobloxUniversalScriptNoclip", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RobloxUniversalScriptNoclip.lua")
+    
