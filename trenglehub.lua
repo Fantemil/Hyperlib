@@ -10142,3 +10142,5 @@ addscript(6580889100,"Build A Boat For Treasure GUI", "BuildABoatForTreasureGUI"
 addscriptexist(192800, "WorkataPizzaPlace", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/WorkataPizzaPlace.lua")
                     
 addscriptexist(6410967163, "BeefaceBeaBee", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BeefaceBeaBee.lua")
+                    
+addscriptexist(6461766546, "AHerosDestiny", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AHerosDestiny.lua")
