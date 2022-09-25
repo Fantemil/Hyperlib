@@ -10951,3 +10951,5 @@ addscriptexist(2202352383, "SuperPowerTrainingGui", "Acc", "https://raw.githubus
 addscriptexist(185655149, "BloxBurgGui", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BloxBurgGui.lua")
                     
 addscriptexist(4580204640, "SurvivetheKillerGui", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SurvivetheKillerGui.lua")
+                    
+addscriptexist(3956818381, "NinjaLegendsGui", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NinjaLegendsGui.lua")
