@@ -9072,3 +9072,5 @@ addscriptexist(171391948, "VehicleSimulatorCARMODIFIER", "Terni", "https://raw.g
     
 addscript(6186867282,"Project XL [Auto Attack/Auto Skills/Auto rob]", "ProjectXLAutoAttackAutoSkillsAutorob", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ProjectXLAutoAttackAutoSkillsAutorob.lua")
                     
+                    
+addscriptexist(4282985734, "CombatWarriorsKillAuraAutoParryKillAll", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CombatWarriorsKillAuraAutoParryKillAll.lua")
