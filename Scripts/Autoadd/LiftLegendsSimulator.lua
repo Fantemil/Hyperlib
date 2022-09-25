@@ -1,1 +1,1 @@
- loadstring(game:HttpGet(('https://raw.githubusercontent.com/MaGiXx228/scripts/main/LiftLegendsSimulator.lua')))()
+ loadstring(game:HttpGet("https://raw.githubusercontent.com/Farn2000/ShuShiScript/master/Lift%20Legends%20Simulator"))()

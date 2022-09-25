@@ -10200,3 +10200,6 @@ addscript(230503554,"Speed Run SImulator GUI", "SpeedRunSImulatorGUI", "Terni", 
 addscriptexist(5293755937, "SpeedRunSimulator", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SpeedRunSimulator.lua")
                     
 addscriptexist(4704006941, "BladeThrowingSimulator", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BladeThrowingSimulator.lua")
+    
+addscript(5854098726,"Spooky Simulator", "SpookySimulator", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SpookySimulator.lua")
+                    
