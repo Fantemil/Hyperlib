@@ -9721,3 +9721,5 @@ addscriptexist(4872321990, "IslandsAUTOFARMKILLALLTPINFITEMS", "wsufy.lnd", "htt
 addscriptexist(2986677229, "GiantSimulator", "to_hen", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/GiantSimulator.lua")
                     
 addscriptexist(606849621, "JailbreakGoodcheat", "DED SHOT", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/JailbreakGoodcheat.lua")
+                    
+addscriptexist(6299805723, "AnimeFightersSimulatorNewAutoFarm", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AnimeFightersSimulatorNewAutoFarm.lua")
