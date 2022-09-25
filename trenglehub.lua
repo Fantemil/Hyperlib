@@ -10689,3 +10689,6 @@ addscriptexist(301549746, "CounterBloxRage", "Acc", "https://raw.githubuserconte
 addscriptexist(155615604, "PRISONLIFEBestGui", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PRISONLIFEBestGui.lua")
                     
 addscriptexist(5002210114, "KittyAutoredeem", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/KittyAutoredeem.lua")
+    
+addscript(9548631810,"Adopt Me TP", "AdoptMeTP", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AdoptMeTP.lua")
+                    
