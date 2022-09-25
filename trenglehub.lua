@@ -9627,3 +9627,5 @@ addscriptexist(6339160453, "NarutoWarTycoonONLYAUTOBUYANDANTIAFK", "wsufy.lnd", 
     
 addscript(6984315364,"RoPets [AUTOFARM/TP]", "RoPetsAUTOFARMTP", "wsufy.lnd", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RoPetsAUTOFARMTP.lua")
                     
+                    
+addscriptexist(5865858426, "RetailTycoon2TPPLACEITEM", "wsufy.lnd", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RetailTycoon2TPPLACEITEM.lua")
