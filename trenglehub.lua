@@ -10106,3 +10106,5 @@ addscriptexist(5865858426, "RetailTycoon", "Terni", "https://raw.githubuserconte
 addscriptexist(6544175281, "FoodMagnetSimulatorGUI", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FoodMagnetSimulatorGUI.lua")
                     
 addscriptexist(6279039046, "SledSimulator", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SledSimulator.lua")
+                    
+addscriptexist(662417684, "LUCKYBLOCKSBattlegroundsGUI", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LUCKYBLOCKSBattlegroundsGUI.lua")
