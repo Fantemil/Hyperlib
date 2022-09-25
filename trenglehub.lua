@@ -9959,3 +9959,6 @@ addscriptexist(4616652839, "ShindoAutoFarm", "Acc", "https://raw.githubuserconte
     
 addscript(986331525,"Nuke Site", "NukeSite", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NukeSite.lua")
                     
+    
+addscript(5853107391,"Stranger Things", "StrangerThingsStarcourtMall", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/StrangerThingsStarcourtMall.lua")
+                    
