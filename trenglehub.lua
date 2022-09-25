@@ -9333,3 +9333,5 @@ addscriptexist(7009799230, "PressureWashSimulatorInfWater", "Qalnik", "https://r
 addscriptexist(4246487209, "BossFightingSimulator", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BossFightingSimulator.lua")
                     
 addscriptexist(185655149, "WelcometoBloxburgAutoFarmAutoBuild", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/WelcometoBloxburgAutoFarmAutoBuild.lua")
+                    
+addscriptexist(7045537335, "AnimeWorldsSimulatorAutoFarm", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AnimeWorldsSimulatorAutoFarm.lua")
