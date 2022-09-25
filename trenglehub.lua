@@ -10123,3 +10123,5 @@ addscriptexist(8533682846, "GiantSimulatorGUIV2", "Terni", "https://raw.githubus
     
 addscript(6973939752,"Arsenal BANAN", "ArsenalBANAN", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ArsenalBANAN.lua")
                     
+                    
+addscriptexist(2732246600, "BloodyBattleGUI", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BloodyBattleGUI.lua")
