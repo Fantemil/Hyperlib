@@ -1,3 +1,1 @@
- area = "Area1"
-
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Skribb11es/Random-Releases/main/DestructionSimulatorBreakAll", true))()
+loadstring(game:HttpGet("https://pastebin.com/raw/hLcu53QP", true))()

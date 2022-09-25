@@ -10407,3 +10407,6 @@ addscriptexist(21532277, "Notoriety", "rg10008", "https://raw.githubusercontent.
 addscriptexist(654732683, "CarCrushers2", "rg10008", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CarCrushers2.lua")
                     
 addscriptexist(1224212277, "MadCity", "BackSlash", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MadCity.lua")
+    
+addscript(4623386862,"Piggy [BOOK 2]", "PiggyBOOK2", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PiggyBOOK2.lua")
+                    
