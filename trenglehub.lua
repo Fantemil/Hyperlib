@@ -10235,3 +10235,5 @@ addscript(5257505590,"Saiyan Fighting Simulator", "SaiyanFightingSimulator", "Te
     
 addscript(6002047566,"Sorcerer Fighting Simulator", "SorcererFightingSimulator", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SorcererFightingSimulator.lua")
                     
+                    
+addscriptexist(2622527242, "rBreachGUI", "ChipyxaOOFicial", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/rBreachGUI.lua")

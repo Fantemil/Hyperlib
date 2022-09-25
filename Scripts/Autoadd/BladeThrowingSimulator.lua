@@ -1,1 +1,1 @@
- loadstring(game:HttpGet("https://raw.githubusercontent.com/cxlvxn/bladethrowingsim/master/bladethrowsim", true))()
+ loadstring(game:HttpGet("https://raw.githubusercontent.com/why-png/scriptstuffz/master/bts25", true))()
