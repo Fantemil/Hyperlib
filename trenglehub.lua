@@ -10683,3 +10683,5 @@ addscriptexist(2533391464, "SnowmanSimulator", "Acc", "https://raw.githubusercon
     
 addscript(1962657432,"ChatSpy", "ChatSpy", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ChatSpy.lua")
                     
+                    
+addscriptexist(301549746, "CounterBloxRage", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CounterBloxRage.lua")
