@@ -9682,3 +9682,6 @@ addscriptexist(2960777560, "TreasureQuestAUTOFARM", "wsufy.lnd", "https://raw.gi
 addscriptexist(5780309044, "StandsAwakeningGODMODECRASHAUTOFARMFLY", "wsufy.lnd", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/StandsAwakeningGODMODECRASHAUTOFARMFLY.lua")
                     
 addscriptexist(654732683, "CarCrushers2AUTOFARMINFPARTSSPEEDINFJUMP", "wsufy.lnd", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CarCrushers2AUTOFARMINFPARTSSPEEDINFJUMP.lua")
+    
+addscript(6888253864,"Wacky Wizards [Inf Jump/Btools/Fly]", "WackyWizardsInfJumpBtoolsFly", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/WackyWizardsInfJumpBtoolsFly.lua")
+                    
