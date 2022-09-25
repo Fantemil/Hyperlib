@@ -9263,3 +9263,5 @@ addscriptexist(3376584594, "FlightSimulatorInfXp", "Qalnik", "https://raw.github
 addscriptexist(443406476, "ProjectLazarusKILLALLZOMBIES", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ProjectLazarusKILLALLZOMBIES.lua")
                     
 addscriptexist(7082539621, "AnimeDestroyersSimulatorOPENSOURSE", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AnimeDestroyersSimulatorOPENSOURSE.lua")
+                    
+addscriptexist(142823291, "MurderMystery2KILLALLESP", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MurderMystery2KILLALLESP.lua")
