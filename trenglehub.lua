@@ -11205,3 +11205,6 @@ addscriptuniversal("OldAUniversalTimeAdminPanel", "astrofile", "https://raw.gith
                         
 addscriptuniversal("RobloxUniversalScriptFEFlingAll", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RobloxUniversalScriptFEFlingAll.lua")
     
+                        
+addscriptuniversal("RobloxUniversalScriptGraphicEnhancer", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RobloxUniversalScriptGraphicEnhancer.lua")
+    
