@@ -9872,3 +9872,6 @@ addscript(6419299687,"Crash Simulator", "CrashSimulator", "Terni", "https://raw.
     
 addscript(5733777811,"Lockpicking Simulator", "LockpickingSimulator", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LockpickingSimulator.lua")
                     
+    
+addscript(5541000308,"Knight Simulator", "KnightSimulator", "MaGiXx", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/KnightSimulator.lua")
+                    
