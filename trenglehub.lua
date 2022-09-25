@@ -9186,3 +9186,5 @@ addscript(6129557066,"UFO Tycoon [AUTO-BUILD, AUTO-COLLECT]", "UFOTycoonAUTOBUIL
                     
                     
 addscriptexist(7453798168, "YouTubeSimulatorXAutoClickAutoEditAutoCollectGems", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/YouTubeSimulatorXAutoClickAutoEditAutoCollectGems.lua")
+                    
+addscriptexist(142823291, "MurderMystery2KillAllAutoFarmKnifeSpam", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MurderMystery2KillAllAutoFarmKnifeSpam.lua")
