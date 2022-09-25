@@ -11187,3 +11187,6 @@ addscriptexist(2577040780, "EvictionNoticeChallengeListFreePlayer", "astrofile",
 
                     
 addscriptexist(10118559731, "NicosNextbotsGodmode", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NicosNextbotsGodmode.lua")
+
+                    
+addscriptexist(8818978508, "SpaceSimulatorRebornAutoClickAutoHatch", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SpaceSimulatorRebornAutoClickAutoHatch.lua")
