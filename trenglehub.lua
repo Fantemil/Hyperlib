@@ -10876,3 +10876,5 @@ addscriptexist(4616652839, "ShibobiLife2GUI", "Acc", "https://raw.githubusercont
 addscriptexist(171391948, "VehicleSimulatorGUI", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/VehicleSimulatorGUI.lua")
                     
 addscriptexist(263761432, "HorrificHousingInfMoney", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/HorrificHousingInfMoney.lua")
+                    
+addscriptexist(734159876, "SharkBiteGUI", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SharkBiteGUI.lua")
