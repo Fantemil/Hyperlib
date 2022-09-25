@@ -9639,3 +9639,5 @@ addscriptexist(4924922222, "BrookhavenADMINPANEL", "wsufy.lnd", "https://raw.git
 addscriptexist(6783611814, "BuildaBoattoSurviveAUTOFARM", "wsufy.lnd", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BuildaBoattoSurviveAUTOFARM.lua")
                     
 addscriptexist(6284583030, "PetSimulatorXAUTOFARMTPANTIAFKBUYEGG", "wsufy.lnd", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PetSimulatorXAUTOFARMTPANTIAFKBUYEGG.lua")
+                    
+addscriptexist(6284583030, "PetSimulatorXAutoFarmTeleport", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PetSimulatorXAutoFarmTeleport.lua")
