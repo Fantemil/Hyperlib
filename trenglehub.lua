@@ -10971,3 +10971,5 @@ addscriptexist(286090429, "ArsenalGuiv0", "Acc", "https://raw.githubusercontent.
 addscriptexist(2041312716, "RagdollEngineGui", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RagdollEngineGui.lua")
                     
 addscriptexist(4872321990, "IslandNEWgui", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/IslandNEWgui.lua")
+                    
+addscriptexist(606849621, "JailbreakAutoRob", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/JailbreakAutoRob.lua")
