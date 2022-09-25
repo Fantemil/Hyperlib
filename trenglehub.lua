@@ -11112,3 +11112,6 @@ addscriptuniversal("AUniversalTimeGodmodeAutoShardsFarm", "astrofile", "https://
                         
 addscriptuniversal("RobloxUniversalScriptKeyStrokes", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RobloxUniversalScriptKeyStrokes.lua")
     
+                        
+addscriptuniversal("RobloxUniversalScriptRealisticGraphic", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RobloxUniversalScriptRealisticGraphic.lua")
+    
