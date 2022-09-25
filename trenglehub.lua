@@ -9406,3 +9406,5 @@ addscript(6279039046,"Sled Simulator [Auto Farm/Equip Good item]", "SledSimulato
 addscriptexist(286090429, "ArsenalKillAllAimbotEsp", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ArsenalKillAllAimbotEsp.lua")
                     
 addscriptexist(5543622168, "CriticalTowerDefenseinfstats", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CriticalTowerDefenseinfstats.lua")
+                    
+addscriptexist(7065731541, "SpeedmanSimulatorAutoEnergyAutoSpeedAutorebirth", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SpeedmanSimulatorAutoEnergyAutoSpeedAutorebirth.lua")
