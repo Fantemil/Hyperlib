@@ -10342,3 +10342,5 @@ addscript(5372450078,"Teddie Simulator", "TeddieSimulator", "Terni", "https://ra
                     
                     
 addscriptexist(1537690962, "BeeSwarmSimulator", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BeeSwarmSimulator.lua")
+                    
+addscriptexist(413424176, "CloneTycoon2", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CloneTycoon2.lua")
