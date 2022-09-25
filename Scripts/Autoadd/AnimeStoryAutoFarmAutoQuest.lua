@@ -1,1 +1,1 @@
-loadstring(game:HttpGet('https://rawscripts.net/raw/Anime-Story-RELEASE!-a-5743'))()
+loadstring(game:HttpGet("https://rawscripts.net/raw/Anime-Story-RELEASE!-Autofarm-5906"))()

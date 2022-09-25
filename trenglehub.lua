@@ -11079,3 +11079,6 @@ addscriptuniversal("UniversalDiscordServerAutoJoin", "astrofile", "https://raw.g
                         
 addscriptuniversal("UniversalBypasserNwords", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/UniversalBypasserNwords.lua")
     
+                        
+addscriptuniversal("UniversalStreamSniper", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/UniversalStreamSniper.lua")
+    
