@@ -9728,3 +9728,5 @@ addscriptexist(4855457388, "DemonfallAutoFarmNoCD", "Acc", "https://raw.githubus
     
 addscript(5551657553,"Business Legends", "BusinessLegends", "to_hen", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BusinessLegends.lua")
                     
+                    
+addscriptexist(71315343, "DragonBallRageFarmItself", "to_hen", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DragonBallRageFarmItself.lua")
