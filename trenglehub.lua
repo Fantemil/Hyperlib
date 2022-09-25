@@ -9954,3 +9954,5 @@ addscript(4846954296,"Toy Clicking Simulator!", "ToyClickingSimulator", "Terni",
                     
                     
 addscriptexist(6245984328, "NERFStrike", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NERFStrike.lua")
+                    
+addscriptexist(4616652839, "ShindoAutoFarm", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ShindoAutoFarm.lua")
