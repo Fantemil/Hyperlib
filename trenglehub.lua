@@ -9715,3 +9715,5 @@ addscriptexist(6888253864, "WackyWizards", "to_hen", "https://raw.githubusercont
 addscriptexist(192800, "Workinapizzeria", "to_hen", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Workinapizzeria.lua")
                     
 addscriptexist(2376885433, "VesteriaFLYTPPLTPAUTOFARM", "wsufy.lnd", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/VesteriaFLYTPPLTPAUTOFARM.lua")
+                    
+addscriptexist(4872321990, "IslandsAUTOFARMKILLALLTPINFITEMS", "wsufy.lnd", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/IslandsAUTOFARMKILLALLTPINFITEMS.lua")
