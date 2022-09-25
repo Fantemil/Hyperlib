@@ -8914,3 +8914,5 @@ addscriptexist(3956818381, "NinjaLegendsAutoSwordAutoSellUnlockallislands", "Qal
 addscriptexist(4246487209, "BossFightingSimulatorAutoClickSowrdAutoKillBossAutoUpgradeBackPack", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BossFightingSimulatorAutoClickSowrdAutoKillBossAutoUpgradeBackPack.lua")
                     
 addscriptexist(443406476, "ProjectLazarusZOMBIESX10DAMAGE", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ProjectLazarusZOMBIESX10DAMAGE.lua")
+                    
+addscriptexist(662417684, "LUCKYBLOCKSInfAllBox", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LUCKYBLOCKSInfAllBox.lua")
