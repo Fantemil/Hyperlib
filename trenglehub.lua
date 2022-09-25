@@ -8900,3 +8900,5 @@ addscriptexist(7453798168, "YoutubeSimulatorXAutoClickAntiAfkAutoBuy", "Qalnik",
     
 addscript(730951264,"The Maze [Inf Axe]", "TheMazeInfAxe", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TheMazeInfAxe.lua")
                     
+                    
+addscriptexist(4580204640, "SurvivetheKillerKillEspAfkFarmTeleporttodoor", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SurvivetheKillerKillEspAfkFarmTeleporttodoor.lua")
