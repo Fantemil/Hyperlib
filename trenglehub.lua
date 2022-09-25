@@ -9437,3 +9437,6 @@ addscript(7182803956,"The Lift [God mode]", "TheLiftGodmode", "Qalnik", "https:/
 addscriptexist(537413528, "BuildABoatForTreasureAutoFarmSpeedFly", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BuildABoatForTreasureAutoFarmSpeedFly.lua")
                     
 addscriptexist(413424176, "CloneTycoon2AutoFarm", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CloneTycoon2AutoFarm.lua")
+    
+addscript(7072693677,"Ro-Punch Man [Auto Farm]", "RoPunchManAutoFarm", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RoPunchManAutoFarm.lua")
+                    
