@@ -10499,3 +10499,6 @@ addscriptexist(5278850819, "stayaliveandflex", "Acc", "https://raw.githubusercon
     
 addscript(7794847395,"Tapping Masters Script", "TappingMastersScript", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TappingMastersScript.lua")
                     
+    
+addscript(6121562632,"Relinquit", "Relinquit", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Relinquit.lua")
+                    
