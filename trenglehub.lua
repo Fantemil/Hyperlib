@@ -8863,3 +8863,5 @@ addscriptexist(6802248248, "SAITAMANIAKillAura", "Acc", "https://raw.githubuserc
 addscriptexist(286090429, "ArsenalAIMBOTESPALL", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ArsenalAIMBOTESPALL.lua")
                     
 addscriptexist(29812337, "FramedEsp", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FramedEsp.lua")
+                    
+addscriptexist(7280118908, "SchoolSimulatorFreeGamepasses", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SchoolSimulatorFreeGamepasses.lua")
