@@ -1,1 +1,1 @@
- loadstring(game:HttpGet("https://raw.githubusercontent.com/Bjkefe2/SuperHero-Simulator/main/SuperHero%20Simulator%20Gui"))()
+ée
