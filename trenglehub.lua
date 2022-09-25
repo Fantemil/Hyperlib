@@ -9010,3 +9010,5 @@ addscript(6706152946,"Jojo", "JojoCrusadersHeavenKillAura", "Qalnik", "https://r
                     
                     
 addscriptexist(4520749081, "KingLegacyAUTOFARMAUTOQUESTMORE", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/KingLegacyAUTOFARMAUTOQUESTMORE.lua")
+                    
+addscriptexist(5865858426, "RetailTycoon2AutoPumpkinSmasher", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RetailTycoon2AutoPumpkinSmasher.lua")
