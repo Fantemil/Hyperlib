@@ -9347,3 +9347,5 @@ addscriptexist(155382109, "SurviveandKilltheKillersinArea51TeleportGetallGunsCod
     
 addscript(1069951594,"Fall of Hell [Auto Win/+Time/Freeze Parts]", "FallofHellAutoWinTimeFreezeParts", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FallofHellAutoWinTimeFreezeParts.lua")
                     
+                    
+addscriptexist(1069951594, "FallofHellGodmode", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FallofHellGodmode.lua")
