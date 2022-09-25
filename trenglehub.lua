@@ -8980,3 +8980,5 @@ addscriptexist(606849621, "JailbreakGODMODEFREEMONEYVEHICLEMOD", "Terni", "https
 addscriptexist(4282985734, "CombatWarriorsKILLAURAAUTOPARRYESP", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CombatWarriorsKILLAURAAUTOPARRYESP.lua")
                     
 addscriptexist(7244314500, "FightmanSimulatorAUTOFARMUSEALLCODES", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FightmanSimulatorAUTOFARMUSEALLCODES.lua")
+                    
+addscriptexist(142823291, "MurderMystery2AUTOFARMKILLALLMORE", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MurderMystery2AUTOFARMKILLALLMORE.lua")
