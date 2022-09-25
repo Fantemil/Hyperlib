@@ -10901,3 +10901,6 @@ addscriptexist(914010731, "RoGhoulAutoFarm", "Acc", "https://raw.githubuserconte
 addscriptexist(1224212277, "MadCitySuperGUI", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MadCitySuperGUI.lua")
                     
 addscriptexist(263761432, "HorrificHousingAutoXp", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/HorrificHousingAutoXp.lua")
+    
+addscript(6429781923,"Infinity Jump", "InfinityJump", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/InfinityJump.lua")
+                    
