@@ -10914,3 +10914,5 @@ addscriptexist(4616652839, "ShinobiLife2AutoFarm", "Acc", "https://raw.githubuse
 addscriptexist(5083731857, "SaitamaSimulatorGui", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SaitamaSimulatorGui.lua")
                     
 addscriptexist(1224212277, "MadCityGui", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MadCityGui.lua")
+                    
+addscriptexist(1962086868, "TowerofHellGui", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TowerofHellGui.lua")
