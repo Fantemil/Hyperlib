@@ -9209,3 +9209,5 @@ addscriptexist(606849621, "JailbreakAutoFarmInfNitroKillAura", "Qalnik", "https:
     
 addscript(5734383673,"Roblox [Fly facilities]", "RobloxFlyfacilities", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RobloxFlyfacilities.lua")
                     
+                    
+addscriptexist(566399244, "ElementalBattlegroundsGUIAUTOFARM", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ElementalBattlegroundsGUIAUTOFARM.lua")
