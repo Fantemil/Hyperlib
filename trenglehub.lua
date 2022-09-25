@@ -9804,3 +9804,5 @@ addscriptexist(1696916806, "BaseRaidersGUNMOD", "Terni", "https://raw.githubuser
     
 addscript(1919383429,"Embrithas", "Embrithas", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Embrithas.lua")
                     
+                    
+addscriptexist(4855457388, "Demonfall", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Demonfall.lua")
