@@ -9499,3 +9499,5 @@ addscriptexist(2281639237, "StandsOnlineShellsFarm", "Qalnik", "https://raw.gith
 addscriptexist(1554960397, "CarDealershipAutoFarm", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CarDealershipAutoFarm.lua")
                     
 addscriptexist(3956818381, "NinjaLegendsAutoFarmCoinsAutoFarmChiAutoSell", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NinjaLegendsAutoFarmCoinsAutoFarmChiAutoSell.lua")
+                    
+addscriptexist(292439477, "PhantomForces", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PhantomForces.lua")
