@@ -10998,3 +10998,5 @@ addscriptexist(606849621, "JailbreakNoWaitInfiniteDuckInfinitePunch", "Qalnik", 
 addscriptexist(4967465336, "RaysModInfinityHealth", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RaysModInfinityHealth.lua")
                     
 addscriptexist(9264596435, "IdleHeroesSimulatorAutoAttackTpToEnemy", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/IdleHeroesSimulatorAutoAttackTpToEnemy.lua")
+                    
+addscriptexist(4282985734, "CombatWarriorsFlyKillaura", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CombatWarriorsFlyKillaura.lua")
