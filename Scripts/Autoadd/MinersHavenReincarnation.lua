@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("http://www.narwhalhacks.xyz/NeonHub/Main.lua", true))()
+loadstring(game:HttpGet("https://pastebin.com/raw/Bye6ndp8"))()

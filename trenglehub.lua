@@ -10870,3 +10870,5 @@ addscriptexist(537413528, "BuildABoatCandyFarm", "Acc", "https://raw.githubuserc
 addscriptexist(286090429, "AimandWhArsenalandmore", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AimandWhArsenalandmore.lua")
                     
 addscriptexist(1458767429, "AnimeBattleArena", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AnimeBattleArena.lua")
+                    
+addscriptexist(4616652839, "ShibobiLife2GUI", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ShibobiLife2GUI.lua")
