@@ -10496,3 +10496,6 @@ addscript(6264538681,"Workout Island Script", "WorkoutIslandScript", "Acc", "htt
                     
                     
 addscriptexist(5278850819, "stayaliveandflex", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/stayaliveandflex.lua")
+    
+addscript(7794847395,"Tapping Masters Script", "TappingMastersScript", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TappingMastersScript.lua")
+                    
