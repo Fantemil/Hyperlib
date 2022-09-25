@@ -10486,3 +10486,6 @@ addscript(5600963870,"Shark Evolution", "SharkEvolution", "Acc", "https://raw.gi
     
 addscript(4934958405,"Fruit Collecting Sim Script", "FruitCollectingSimScript", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FruitCollectingSimScript.lua")
                     
+    
+addscript(4723618670,"Wisteria", "Wisteria", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Wisteria.lua")
+                    
