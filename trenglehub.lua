@@ -9372,3 +9372,6 @@ addscript(3457390032,"Club Roblox [Auto Farm]", "ClubRobloxAutoFarm", "Qalnik", 
     
 addscript(2376885433,"Vesteria [God mode]", "VesteriaGodmode", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/VesteriaGodmode.lua")
                     
+    
+addscript(3700469782,"2 Player Among Us Tycoon [1 click $2 million]", "2PlayerAmongUsTycoon1click2million", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/2PlayerAmongUsTycoon1click2million.lua")
+                    
