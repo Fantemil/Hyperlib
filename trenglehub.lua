@@ -10179,3 +10179,6 @@ addscriptexist(5827078246, "CoinsHeroSimulator", "Terni", "https://raw.githubuse
 addscriptexist(2753915549, "BloxFruits", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BloxFruits.lua")
                     
 addscriptexist(2629642516, "BitcoinMiner", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BitcoinMiner.lua")
+    
+addscript(1229173778,"Lab Experiment", "LabExperiment", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LabExperiment.lua")
+                    
