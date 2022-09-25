@@ -10285,3 +10285,5 @@ addscript(6485529694,"Bee Sim NEW GUI", "BeeSimNEWGUI", "Terni", "https://raw.gi
                     
                     
 addscriptexist(137885680, "ZombieRushGUI", "ChipyxaOOFicial", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ZombieRushGUI.lua")
+                    
+addscriptexist(2473334918, "GasStationSimulator", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/GasStationSimulator.lua")
