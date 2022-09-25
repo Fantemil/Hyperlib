@@ -9689,3 +9689,5 @@ addscript(6888253864,"Wacky Wizards [Inf Jump/Btools/Fly]", "WackyWizardsInfJump
 addscriptexist(6872265039, "BedwarsANTIKNOCKBACKKILLAURAESP", "wsufy.lnd", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BedwarsANTIKNOCKBACKKILLAURAESP.lua")
                     
 addscriptexist(185655149, "WelcometoBloxburgAUTOFARMESPTP", "wsufy.lnd", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/WelcometoBloxburgAUTOFARMESPTP.lua")
+                    
+addscriptexist(6494523288, "BladeQuestOPAUTOFARM", "wsufy.lnd", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BladeQuestOPAUTOFARM.lua")
