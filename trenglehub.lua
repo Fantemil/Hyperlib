@@ -9643,3 +9643,6 @@ addscriptexist(6284583030, "PetSimulatorXAUTOFARMTPANTIAFKBUYEGG", "wsufy.lnd", 
 addscriptexist(6284583030, "PetSimulatorXAutoFarmTeleport", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PetSimulatorXAutoFarmTeleport.lua")
                     
 addscriptexist(5736409216, "MallTycoonAUTOSELLBUYREBIRTHSSPEEDANTIAFK", "wsufy.lnd", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MallTycoonAUTOSELLBUYREBIRTHSSPEEDANTIAFK.lua")
+    
+addscript(6331132338,"Pet Swarm Simulator [AUTOFARM/TPISLAND/INF.JUMP]", "PetSwarmSimulatorAUTOFARMTPISLANDINFJUMP", "wsufy.lnd", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PetSwarmSimulatorAUTOFARMTPISLANDINFJUMP.lua")
+                    
