@@ -10048,3 +10048,5 @@ addscript(6264160858,"Plants v. Noobs", "PlantsvNoobs", "Terni", "https://raw.gi
                     
                     
 addscriptexist(137885680, "ZombieRush", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ZombieRush.lua")
+                    
+addscriptexist(1224212277, "BuildABoatForTreasure", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BuildABoatForTreasure.lua")
