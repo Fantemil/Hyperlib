@@ -10320,3 +10320,6 @@ addscript(6090639744,"Bacon Simulator", "BaconSimulator", "Terni", "https://raw.
     
 addscript(5024229518,"Trading Simulator", "TradingSimulator", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TradingSimulator.lua")
                     
+    
+addscript(5852812686,"Candy Clicking Simulator", "CandyClickingSimulator", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CandyClickingSimulator.lua")
+                    
