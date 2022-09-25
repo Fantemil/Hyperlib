@@ -8960,3 +8960,5 @@ addscript(6951762614,"UFO Simulator [AUTO-FARM, AUTO-CLAIM, MORE!]", "UFOSimulat
     
 addscript(4836887463,"Dog Piece [Give Fruit, Auto Skill, UI Toggle]", "DogPieceGiveFruitAutoSkillUIToggle", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DogPieceGiveFruitAutoSkillUIToggle.lua")
                     
+                    
+addscriptexist(6299805723, "AnimeFightersSimulatorAutoFarmExtraDamageAutoCollectYen", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AnimeFightersSimulatorAutoFarmExtraDamageAutoCollectYen.lua")
