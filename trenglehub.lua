@@ -10849,3 +10849,6 @@ addscriptexist(370731277, "MeepCity", "Acc", "https://raw.githubusercontent.com/
 addscriptexist(5490351219, "ClickerMadness", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ClickerMadness.lua")
                     
 addscriptexist(185655149, "BloxburgGUI", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BloxburgGUI.lua")
+    
+addscript(4254575069,"Champion Simulator", "ChampionSimulator", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ChampionSimulator.lua")
+                    
