@@ -11259,3 +11259,6 @@ addscriptuniversal("AUniversalTimeGUIInfiniteAttacksGodMode", "Terni", "https://
                         
 addscriptuniversal("AUniversalTimeItemsFarmGodModeMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AUniversalTimeItemsFarmGodModeMore.lua")
     
+                        
+addscriptuniversal("RobloxUniversalESPGUI", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RobloxUniversalESPGUI.lua")
+    
