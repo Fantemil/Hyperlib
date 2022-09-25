@@ -10704,3 +10704,6 @@ addscriptexist(3272915504, "WorldofMagic", "Acc", "https://raw.githubusercontent
     
 addscript(5732973455,"HOURS", "HOURS", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/HOURS.lua")
                     
+    
+addscript(5291187056,"Gui for Phantom For, Bad Bus", "GuiforPhantomForBadBus", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/GuiforPhantomForBadBus.lua")
+                    
