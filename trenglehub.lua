@@ -10000,3 +10000,5 @@ addscriptexist(1167791961, "KnifeSimulator", "Terni", "https://raw.githubusercon
 addscriptexist(734159876, "SharkBite", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SharkBite.lua")
                     
 addscriptexist(5534174456, "TropicalResortTycoon", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TropicalResortTycoon.lua")
+                    
+addscriptexist(3956818381, "NinjaLegends", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NinjaLegends.lua")
