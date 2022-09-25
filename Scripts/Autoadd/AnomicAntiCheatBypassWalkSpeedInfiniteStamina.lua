@@ -1,0 +1,1 @@
+ loadstring(game:HttpGet("https://raw.githubusercontent.com/Mapple7777/Fusion-Hub/main/Main.lua",true))()
