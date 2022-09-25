@@ -9558,3 +9558,5 @@ addscriptexist(6172932937, "EnergyAssaultAim", "Qalnik", "https://raw.githubuser
 addscriptexist(4954752502, "TowerofMiseryGODmode", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TowerofMiseryGODmode.lua")
                     
 addscriptexist(4999590694, "ZombieDefenseTycoonUNLOCKALLSKINS", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ZombieDefenseTycoonUNLOCKALLSKINS.lua")
+                    
+addscriptexist(7009799230, "PressureWashSimulator", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PressureWashSimulator.lua")
