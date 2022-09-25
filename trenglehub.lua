@@ -9086,3 +9086,5 @@ addscriptexist(6432407703, "BigCityTycoonFLYINFMONEYAUTOBUILD", "Terni", "https:
     
 addscript(7393403076,"Anime Artifacts Simulator [AUTO-COINS, AUTO-FARM MORE!]", "AnimeArtifactsSimulatorAUTOCOINSAUTOFARMMORE", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AnimeArtifactsSimulatorAUTOCOINSAUTOFARMMORE.lua")
                     
+                    
+addscriptexist(920587237, "AdoptMePETFARM", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AdoptMePETFARM.lua")
