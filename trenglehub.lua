@@ -8997,3 +8997,5 @@ addscriptexist(4616652839, "ShindoFarmPumpkin", "Qalnik", "https://raw.githubuse
 addscriptexist(537413528, "BuildABoatForTreasureAutoFarmAutoBuyFly", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BuildABoatForTreasureAutoFarmAutoBuyFly.lua")
                     
 addscriptexist(6610021055, "NoobArmyTycoonTPtochestsautomaticallycollect", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NoobArmyTycoonTPtochestsautomaticallycollect.lua")
+                    
+addscriptexist(2512643572, "BubbleGumSimulatorTPautomaticallyclick", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BubbleGumSimulatorTPautomaticallyclick.lua")
