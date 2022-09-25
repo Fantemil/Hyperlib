@@ -11087,3 +11087,6 @@ addscriptexist(10710676163, "SPTSOriginAutoFarmAutoRespawnTpMore", "Qalnik", "ht
 
                     
 addscriptexist(4282985734, "CombatWarriorsAntiParryAutoParry", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CombatWarriorsAntiParryAutoParry.lua")
+
+                    
+addscriptexist(7026828578, "SpeedSimulatorInfRebirthsSpeedFarmFarmRebirths", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SpeedSimulatorInfRebirthsSpeedFarmFarmRebirths.lua")
