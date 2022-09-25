@@ -9044,3 +9044,6 @@ addscriptexist(2629642516, "BitcoinMinerMaxOverLockAutoExchangeBitcoinMultiplier
     
 addscript(6635351922,"CaveWorld [ESP, TRACER]", "CaveWorldESPTRACER", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CaveWorldESPTRACER.lua")
                     
+    
+addscript(7313926139,"Manic Mining! [AUTO-FARM, LOCAL PLAYER, MORE!]", "ManicMiningAUTOFARMLOCALPLAYERMORE", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ManicMiningAUTOFARMLOCALPLAYERMORE.lua")
+                    
