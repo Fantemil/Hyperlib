@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://hypernite.xyz/Scripts/FWS.lua"))()
+game.Players.LocalPlayer:Kick("Script down, private")
