@@ -10610,3 +10610,6 @@ addscript(1252559098,"Snow Shoveling Simulator", "SnowShovelingSimulator", "Acc"
                     
                     
 addscriptexist(5902977746, "SuperheroTowerDefense", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SuperheroTowerDefense.lua")
+    
+addscript(625364452,"Nerf FPS V5.46", "NerfFPSV546", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NerfFPSV546.lua")
+                    

