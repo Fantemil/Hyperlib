@@ -10573,3 +10573,6 @@ addscriptexist(3725149043, "SuperDoomspire", "Acc", "https://raw.githubuserconte
     
 addscript(4369222337,"Potion Simulator", "PotionSimulator", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PotionSimulator.lua")
                     
+    
+addscript(4359012847,"Slashing Masters", "SlashingMasters", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SlashingMasters.lua")
+                    
