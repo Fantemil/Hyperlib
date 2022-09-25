@@ -9136,3 +9136,6 @@ addscriptexist(445664957, "ParkourINFINITEPOINTSLEVEL", "Terni", "https://raw.gi
 addscriptexist(142823291, "MurderMystery2KILLALL2021ANTIBAN", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MurderMystery2KILLALL2021ANTIBAN.lua")
                     
 addscriptexist(4616652839, "ShindoLifeAUTOFARMMISSIONMOBSMORE", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ShindoLifeAUTOFARMMISSIONMOBSMORE.lua")
+    
+addscript(5229400211,"Battle-Gods-Simulator [Auto-Buy, Auto-Farm, MORE!]", "BattleGodsSimulatorAutoBuyAutoFarmMORE", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BattleGodsSimulatorAutoBuyAutoFarmMORE.lua")
+                    
