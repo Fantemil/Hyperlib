@@ -9772,3 +9772,5 @@ addscriptexist(4042427666, "AnimeFightingSimulatorAttackBossMiscMain", "to_hen",
     
 addscript(3137426313,"Tap Farm Tycoon! FULL AFK GUI", "TapFarmTycoonFULLAFKGUI", "UKpansR", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TapFarmTycoonFULLAFKGUI.lua")
                     
+                    
+addscriptexist(2753915549, "BloxFruitsXenosHubGUI", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BloxFruitsXenosHubGUI.lua")
