@@ -9911,3 +9911,5 @@ addscript(6704182071,"Cooking Simulator", "CookingSimulator", "Terni", "https://
                     
                     
 addscriptexist(6788787407, "WarriorChampions", "MaGiXx", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/WarriorChampions.lua")
+                    
+addscriptexist(5264342538, "EndlessMiningSimulator", "MaGiXx", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/EndlessMiningSimulator.lua")
