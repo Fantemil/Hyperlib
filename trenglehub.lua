@@ -9304,3 +9304,5 @@ addscript(7502447797,"Squid Game - Automatic registration underworks", "SquidGam
                     
                     
 addscriptexist(6573910231, "ProjectStarInfXp", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ProjectStarInfXp.lua")
+                    
+addscriptexist(2546155523, "RoVilleAutoFarm", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RoVilleAutoFarm.lua")
