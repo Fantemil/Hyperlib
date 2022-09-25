@@ -9028,3 +9028,6 @@ addscript(4806026225,"Defender's Depot [Auto Grab]", "DefendersDepotAutoGrab", "
                     
                     
 addscriptexist(4996049426, "AllStarTowerDefenseFarmCandy", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AllStarTowerDefenseFarmCandy.lua")
+    
+addscript(3116680775,"One Blox Man [AUTO-TRAIN]", "OneBloxManAUTOTRAIN", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OneBloxManAUTOTRAIN.lua")
+                    
