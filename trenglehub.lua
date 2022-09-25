@@ -10692,3 +10692,5 @@ addscriptexist(5002210114, "KittyAutoredeem", "Acc", "https://raw.githubusercont
     
 addscript(9548631810,"Adopt Me TP", "AdoptMeTP", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AdoptMeTP.lua")
                     
+                    
+addscriptexist(8533682846, "AdoptMeFarmEvent", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AdoptMeFarmEvent.lua")
