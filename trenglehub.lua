@@ -9433,3 +9433,5 @@ addscriptexist(6284583030, "PetSimulatorXAutoFarmAutoCollectCoinsAutoopeneggs", 
     
 addscript(7182803956,"The Lift [God mode]", "TheLiftGodmode", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TheLiftGodmode.lua")
                     
+                    
+addscriptexist(537413528, "BuildABoatForTreasureAutoFarmSpeedFly", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BuildABoatForTreasureAutoFarmSpeedFly.lua")
