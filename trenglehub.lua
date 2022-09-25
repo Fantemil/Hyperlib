@@ -9515,3 +9515,5 @@ addscriptexist(4999590694, "ZombieDefenseTycoonKillallzombiefast", "Qalnik", "ht
 addscriptexist(4520749081, "KingLegacyAutoFarmAutobusoMainWeapons", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/KingLegacyAutoFarmAutobusoMainWeapons.lua")
                     
 addscriptexist(1962086868, "TowerofHellGodmodeFlyTotop", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TowerofHellGodmodeFlyTotop.lua")
+                    
+addscriptexist(2809202155, "YourBizarreAdventureItemFarmAutoFarmTeleports", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/YourBizarreAdventureItemFarmAutoFarmTeleports.lua")
