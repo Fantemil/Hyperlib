@@ -9764,3 +9764,6 @@ addscriptexist(4996049426, "AllStarTowerDefenseAutoFarmUnitsInteractionSelectUni
     
 addscript(6196669580,"Monster Quest - Auto Farm - Anti Afk", "MonsterQuestAutoFarmAntiAfk", "UKpansR", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MonsterQuestAutoFarmAntiAfk.lua")
                     
+    
+addscript(6698203444,"Brick Magnet Simulator - Auto Farm - Auto Buy - Mix", "BrickMagnetSimulatorAutoFarmAutoBuyMix", "UKpansR", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BrickMagnetSimulatorAutoFarmAutoBuyMix.lua")
+                    
