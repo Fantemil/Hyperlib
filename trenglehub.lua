@@ -11199,3 +11199,6 @@ addscriptuniversal("RobloxUniversalScriptEspTracers", "astrofile", "https://raw.
                         
 addscriptuniversal("RobloxUniversalScriptCmdsBar", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RobloxUniversalScriptCmdsBar.lua")
     
+                        
+addscriptuniversal("OldAUniversalTimeAdminPanel", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OldAUniversalTimeAdminPanel.lua")
+    
