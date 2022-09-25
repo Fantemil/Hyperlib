@@ -9074,3 +9074,5 @@ addscript(6186867282,"Project XL [Auto Attack/Auto Skills/Auto rob]", "ProjectXL
                     
                     
 addscriptexist(4282985734, "CombatWarriorsKillAuraAutoParryKillAll", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CombatWarriorsKillAuraAutoParryKillAll.lua")
+                    
+addscriptexist(6720959312, "BuildABoatForTreasureGodAutoFarmTransform", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BuildABoatForTreasureGodAutoFarmTransform.lua")
