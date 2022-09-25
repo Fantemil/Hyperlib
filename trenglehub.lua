@@ -9980,3 +9980,6 @@ addscript(1828509885,"Egg Farm Simulator", "EggFarmSimulator", "Terni", "https:/
 addscriptexist(3457390032, "ClubRoblox", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ClubRoblox.lua")
                     
 addscriptexist(2248408710, "DestructionSimulator", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DestructionSimulator.lua")
+    
+addscript(6417787939,"City Life Tycoon", "CityLifeTycoon", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CityLifeTycoon.lua")
+                    
