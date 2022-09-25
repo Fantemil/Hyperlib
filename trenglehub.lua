@@ -9495,3 +9495,5 @@ addscript(4999590694,"Zombie Defense Tycoon [Get a gamepass/farm GOO/Gun mod]", 
                     
                     
 addscriptexist(2281639237, "StandsOnlineShellsFarm", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/StandsOnlineShellsFarm.lua")
+                    
+addscriptexist(1554960397, "CarDealershipAutoFarm", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CarDealershipAutoFarm.lua")
