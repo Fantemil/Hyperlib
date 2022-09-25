@@ -8934,3 +8934,6 @@ addscriptexist(621129760, "KATAimSpamKnifeInfAmmo", "Qalnik", "https://raw.githu
     
 addscript(734159876,"SharkBite [Kill Shark/Infinite Tooth/Kill Survives]", "SharkBiteKillSharkInfiniteToothKillSurvives", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SharkBiteKillSharkInfiniteToothKillSurvives.lua")
                     
+    
+addscript(4543144283,"Mega Noob Simulator [Auto Kill, Kill Aura, Collect Coins]", "MegaNoobSimulatorAutoKillKillAuraCollectCoins", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MegaNoobSimulatorAutoKillKillAuraCollectCoins.lua")
+                    
