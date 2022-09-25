@@ -9455,3 +9455,5 @@ addscriptexist(443406476, "TheMazeespmonstersgetallbatteriesnoclip", "Qalnik", "
     
 addscript(5086470420,"LGBTQ+ Hangout 2 RAINBOW [Auto Farm]", "LGBTQHangout2RAINBOWAutoFarm", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LGBTQHangout2RAINBOWAutoFarm.lua")
                     
+                    
+addscriptexist(5740246170, "TowerSimulatorAUTOBUILD", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TowerSimulatorAUTOBUILD.lua")
