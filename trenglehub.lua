@@ -9936,3 +9936,6 @@ addscript(6759841279,"Breaking Simulator", "BreakingSimulator", "Terni", "https:
                     
                     
 addscriptexist(4793451617, "PlanetMiningSimulator", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PlanetMiningSimulator.lua")
+    
+addscript(6411761937,"Arcana", "Arcana", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Arcana.lua")
+                    
