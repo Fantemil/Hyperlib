@@ -9577,3 +9577,5 @@ addscriptexist(914010731, "RoGhoulAutoFatm", "Qalnik", "https://raw.githubuserco
 addscriptexist(155615604, "PrisonLifeCrashServer", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PrisonLifeCrashServer.lua")
                     
 addscriptexist(1240123653, "ZombieAttackAim", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ZombieAttackAim.lua")
+                    
+addscriptexist(142823291, "MurderMystery2BombSpam", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MurderMystery2BombSpam.lua")
