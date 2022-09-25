@@ -8831,3 +8831,5 @@ addscriptexist(7485253727, "TruePieceAutoFarmAutoQuestInvisible", "rbxscript", "
 addscriptexist(4787629450, "BOOGABOOGATeleportKillAuraSilentAim", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BOOGABOOGATeleportKillAuraSilentAim.lua")
                     
 addscriptexist(6769764667, "FactorySimulatorAutoMine", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FactorySimulatorAutoMine.lua")
+                    
+addscriptexist(7485253727, "TruePieceTeleportBYPASS", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TruePieceTeleportBYPASS.lua")
