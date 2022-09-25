@@ -10480,3 +10480,6 @@ addscriptexist(4616652839, "Shindolife", "Acc", "https://raw.githubusercontent.c
 addscriptexist(142823291, "MURDERMYSTERYII", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MURDERMYSTERYII.lua")
                     
 addscriptexist(4616652839, "ShindoLife", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ShindoLife.lua")
+    
+addscript(5600963870,"Shark Evolution", "SharkEvolution", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SharkEvolution.lua")
+                    
