@@ -9676,3 +9676,5 @@ addscript(6760562118,"Loot Lake Simulator [AUTOFARM/AUTOPLACE/ANTIAFK]", "LootLa
     
 addscript(7102729322,"Shaking Tapping [AUTOFARM/REBIRTHS/UPGRADES/EGG/ANTIAFK]", "ShakingTappingAUTOFARMREBIRTHSUPGRADESEGGANTIAFK", "wsufy.lnd", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ShakingTappingAUTOFARMREBIRTHSUPGRADESEGGANTIAFK.lua")
                     
+                    
+addscriptexist(2960777560, "TreasureQuestAUTOFARM", "wsufy.lnd", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TreasureQuestAUTOFARM.lua")
