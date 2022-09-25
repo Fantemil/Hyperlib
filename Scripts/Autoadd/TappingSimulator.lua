@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("http://www.narwhalhacks.xyz/NeonHub/Main.lua", true))()
+loadstring(game:HttpGet('http://www.beemoscripts.com/FlinchHub/Loader.lua'))();
