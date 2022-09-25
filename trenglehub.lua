@@ -10357,3 +10357,6 @@ addscriptexist(286090429, "ArsenalGUI", "DeathDemon", "https://raw.githubusercon
     
 addscript(2673595672,"Dashing Simulator", "DashingSimulator", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DashingSimulator.lua")
                     
+    
+addscript(5151156182,"Pet Heroes", "PetHeroes", "Ykpon", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PetHeroes.lua")
+                    
