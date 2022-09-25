@@ -10868,3 +10868,5 @@ addscriptexist(2753915549, "FruitBloxAutoFarm", "Acc", "https://raw.githubuserco
 addscriptexist(537413528, "BuildABoatCandyFarm", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BuildABoatCandyFarm.lua")
                     
 addscriptexist(286090429, "AimandWhArsenalandmore", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AimandWhArsenalandmore.lua")
+                    
+addscriptexist(1458767429, "AnimeBattleArena", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AnimeBattleArena.lua")
