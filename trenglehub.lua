@@ -9318,3 +9318,5 @@ addscript(9555658167,"Roblox [All Animation]", "RobloxAllAnimation", "Qalnik", "
                     
                     
 addscriptexist(6284583030, "PetSimulatorXAutoFarmWalkSpeedAntiAfk", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PetSimulatorXAutoFarmWalkSpeedAntiAfk.lua")
+                    
+addscriptexist(2788229376, "DaHoodAutoFarmCrushServerAutoBuys", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DaHoodAutoFarmCrushServerAutoBuys.lua")
