@@ -10030,3 +10030,5 @@ addscriptexist(6494523288, "BladeQuest", "Terni", "https://raw.githubusercontent
 addscriptexist(6737970321, "LivetopiaADMIN", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LivetopiaADMIN.lua")
                     
 addscriptexist(5379581123, "SwordFightandFlexYourTime", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SwordFightandFlexYourTime.lua")
+                    
+addscriptexist(621129760, "KAT", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/KAT.lua")
