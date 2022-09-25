@@ -11169,3 +11169,6 @@ addscriptuniversal("RobloxUniversalScriptInfJumpClickTP", "astrofile", "https://
                         
 addscriptuniversal("RobloxUniversalScriptBoomboxvisualizer", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RobloxUniversalScriptBoomboxvisualizer.lua")
     
+                        
+addscriptuniversal("RobloxUniversalScriptNOTFEShotgun", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RobloxUniversalScriptNOTFEShotgun.lua")
+    
