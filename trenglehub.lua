@@ -10463,3 +10463,6 @@ addscript(5002210114,"Kitty", "Kitty", "Acc", "https://raw.githubusercontent.com
     
 addscript(4865990095,"Power Simulator 2", "PowerSimulator2", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PowerSimulator2.lua")
                     
+    
+addscript(4830389640,"Ronald", "Ronald", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ronald.lua")
+                    
