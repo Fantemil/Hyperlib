@@ -8874,3 +8874,5 @@ addscriptexist(3057050847, "Site76PrisonAnomaliesEspModGunsInfMoneyExp", "Acc", 
     
 addscript(7718790950,"Legend Piece [INF Level, INF Gems, INF Stats]", "LegendPieceINFLevelINFGemsINFStats", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LegendPieceINFLevelINFGemsINFStats.lua")
                     
+                    
+addscriptexist(7444263453, "JetpackJumpersINFJumps", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/JetpackJumpersINFJumps.lua")
