@@ -10386,3 +10386,5 @@ addscript(2041312716,"Ragdoll Engine", "RagdollEngine", "Terni", "https://raw.gi
                     
                     
 addscriptexist(4566572536, "VehicleLegends", "Ykpon", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/VehicleLegends.lua")
+                    
+addscriptexist(621129760, "KATAIMBOT", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/KATAIMBOT.lua")
