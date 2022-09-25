@@ -1,8 +1,1 @@
- -- SETTING THEME --
-_G.MainI = Color3.fromRGB(17 ,110, 206)
-_G.MainII = Color3.fromRGB(14, 16 ,22)
-_G.ButtonI = Color3.fromRGB(52 ,68, 255)
-_G.ButtonII = Color3.fromRGB(10, 30 ,4)
-_G.BlackGround = Color3.fromRGB(0, 0 ,0)
--- SCRIPT GAME --
-loadstring(game:HttpGet("http://skyhubking.xyz/script/free_script/main%20game.lua"))()
+loadstring(game:HttpGet("https://gist.githubusercontent.com/z4gs/b64a92569b6c9c15ccb576696c6ab968/raw/691f6b68d5053b2bc909a526e7062eb583f349f9/My_Hero_Mania"))()

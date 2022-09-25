@@ -10526,3 +10526,6 @@ addscript(60654525,"The Legendary Swords RPG", "TheLegendarySwordsRPG", "Acc", "
 addscriptexist(54865335, "UltimateDrivingWestover", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/UltimateDrivingWestover.lua")
                     
 addscriptexist(2377868063, "StrucidBETA", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/StrucidBETA.lua")
+    
+addscript(4601704679,"Bakon", "Bakon", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Bakon.lua")
+                    
