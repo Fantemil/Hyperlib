@@ -9130,3 +9130,5 @@ addscriptexist(4872321990, "IslandsFarmingFestivalAutoFarm", "Terni", "https://r
     
 addscript(6507107360,"Magnet Masters [FARM, AUTO-OPEN, MORE!]", "MagnetMastersFARMAUTOOPENMORE", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MagnetMastersFARMAUTOOPENMORE.lua")
                     
+                    
+addscriptexist(445664957, "ParkourINFINITEPOINTSLEVEL", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ParkourINFINITEPOINTSLEVEL.lua")
