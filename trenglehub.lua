@@ -9361,3 +9361,6 @@ addscriptexist(2716845201, "WarriorSimulatorAutoFarmCollectCoinsAutoMoon", "Qaln
     
 addscript(6243699076,"The Mimic [Monster Esp/Door Ecp/Full Bright]", "TheMimicMonsterEspDoorEcpFullBright", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TheMimicMonsterEspDoorEcpFullBright.lua")
                     
+    
+addscript(7172485708,"Twenty One Pilots Concert Experience [Farm Coins 18/18]", "TwentyOnePilotsConcertExperienceFarmCoins1818", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TwentyOnePilotsConcertExperienceFarmCoins1818.lua")
+                    
