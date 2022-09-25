@@ -9705,3 +9705,5 @@ addscriptexist(3527629287, "BIGPaintballAIMESPSPEEDOBVIUOSLYKILL", "wsufy.lnd", 
 addscriptexist(621129760, "KATESPAIMINFAMMOSPEED", "wsufy.lnd", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/KATESPAIMINFAMMOSPEED.lua")
                     
 addscriptexist(2377868063, "StrucidESPAIMSPEEDJUMPNORECOIL", "wsufy.lnd", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/StrucidESPAIMSPEEDJUMPNORECOIL.lua")
+                    
+addscriptexist(1537690962, "BeeSwarmSimulatorALLALLALL", "wsufy.lnd", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BeeSwarmSimulatorALLALLALL.lua")
