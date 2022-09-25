@@ -10196,3 +10196,5 @@ addscriptexist(6329844902, "LastPirates", "Terni", "https://raw.githubuserconten
     
 addscript(230503554,"Speed Run SImulator GUI", "SpeedRunSImulatorGUI", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SpeedRunSImulatorGUI.lua")
                     
+                    
+addscriptexist(5293755937, "SpeedRunSimulator", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SpeedRunSimulator.lua")
