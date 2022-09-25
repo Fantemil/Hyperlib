@@ -10713,3 +10713,6 @@ addscriptexist(4580204640, "ALLGAMESESP", "Acc", "https://raw.githubusercontent.
 addscriptexist(155615604, "GGPrisonPrsionLifeGui", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/GGPrisonPrsionLifeGui.lua")
                     
 addscriptexist(2041312716, "hatspin", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/hatspin.lua")
+    
+addscript(7493270266,"Fly, noclip, infinity jump, btools", "Flynoclipinfinityjumpbtools", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Flynoclipinfinityjumpbtools.lua")
+                    
