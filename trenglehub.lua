@@ -9964,3 +9964,5 @@ addscript(5853107391,"Stranger Things", "StrangerThingsStarcourtMall", "Terni", 
                     
                     
 addscriptexist(6766156863, "StrongmanSimulatorGUI", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/StrongmanSimulatorGUI.lua")
+                    
+addscriptexist(2960777560, "TreasureQuest", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TreasureQuest.lua")
