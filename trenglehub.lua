@@ -10223,3 +10223,6 @@ addscriptexist(263761432, "HorrificHousing", "Terni", "https://raw.githubusercon
     
 addscript(5153937061,"Silent Aim for FPS games", "SilentAimforFPSgames", "ChipyxaOOFicial", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SilentAimforFPSgames.lua")
                     
+    
+addscript(6352880659,"Snowball.io", "Snowballio", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Snowballio.lua")
+                    
