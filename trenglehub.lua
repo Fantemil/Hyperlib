@@ -8984,3 +8984,6 @@ addscriptexist(7244314500, "FightmanSimulatorAUTOFARMUSEALLCODES", "Terni", "htt
 addscriptexist(142823291, "MurderMystery2AUTOFARMKILLALLMORE", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MurderMystery2AUTOFARMKILLALLMORE.lua")
                     
 addscriptexist(185655149, "BloxburgALLAUTOFARMAUTODRIVEANTIAFK", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BloxburgALLAUTOFARMAUTODRIVEANTIAFK.lua")
+    
+addscript(7045537335,"Anime Worlds Simulator [AUTO-FARM, LOCAL SETTING]", "AnimeWorldsSimulatorAUTOFARMLOCALSETTING", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AnimeWorldsSimulatorAUTOFARMLOCALSETTING.lua")
+                    
