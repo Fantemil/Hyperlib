@@ -8991,3 +8991,5 @@ addscript(7045537335,"Anime Worlds Simulator [AUTO-FARM, LOCAL SETTING]", "Anime
 addscriptexist(3527629287, "BIGPaintballNEWUNLOCKALLGUNS", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BIGPaintballNEWUNLOCKALLGUNS.lua")
                     
 addscriptexist(2619187362, "SuperPowerFightingSimulatorNEWAUTOFARMINGGUI", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SuperPowerFightingSimulatorNEWAUTOFARMINGGUI.lua")
+                    
+addscriptexist(4616652839, "ShindoFarmPumpkin", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ShindoFarmPumpkin.lua")
