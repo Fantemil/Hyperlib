@@ -10899,3 +10899,5 @@ addscriptexist(301549746, "CounterBloxSkinChanger", "Acc", "https://raw.githubus
 addscriptexist(914010731, "RoGhoulAutoFarm", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RoGhoulAutoFarm.lua")
                     
 addscriptexist(1224212277, "MadCitySuperGUI", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MadCitySuperGUI.lua")
+                    
+addscriptexist(263761432, "HorrificHousingAutoXp", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/HorrificHousingAutoXp.lua")
