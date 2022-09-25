@@ -8841,3 +8841,5 @@ addscriptexist(2619187362, "SuperPowerFightingSimulatorAUTOCOLLECTPUMPKINS", "Ac
     
 addscript(3198259055,"SoulShatters Test Place [GODMODE]", "SoulShattersTestPlaceGODMODE", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SoulShattersTestPlaceGODMODE.lua")
                     
+                    
+addscriptexist(654732683, "CarCrushers2FlyAutoFarmNoclip", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CarCrushers2FlyAutoFarmNoclip.lua")
