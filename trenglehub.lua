@@ -10649,3 +10649,5 @@ addscriptexist(2961297129, "DeathZone", "Acc", "https://raw.githubusercontent.co
     
 addscript(4857069142,"Clicking Simulator 2.0", "ClickingSimulator20", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ClickingSimulator20.lua")
                     
+                    
+addscriptexist(6512923934, "noclipespclicktparsenal", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/noclipespclicktparsenal.lua")
