@@ -11033,3 +11033,6 @@ addscriptexist(9585537847, "SHADOVISRPGAutoFarmRaidsAutoJoinRaidGodModeMore", "T
 
                     
 addscriptexist(9534337535, "ShrekintheBackroomsBadgeGiver", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ShrekintheBackroomsBadgeGiver.lua")
+
+                    
+addscriptexist(292439477, "PhantomForcesSemiHitboxExtenderBody", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PhantomForcesSemiHitboxExtenderBody.lua")
