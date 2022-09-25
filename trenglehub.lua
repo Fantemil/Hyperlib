@@ -10772,3 +10772,5 @@ addscriptexist(3587619225, "MegaEasyObby", "Acc", "https://raw.githubusercontent
 addscriptexist(730951264, "TheMaze", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TheMaze.lua")
                     
 addscriptexist(4616652839, "ShindoLifeInfiniteSpins", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ShindoLifeInfiniteSpins.lua")
+                    
+addscriptexist(4872321990, "Islands", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Islands.lua")
