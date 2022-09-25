@@ -11076,3 +11076,6 @@ addscriptuniversal("UniversalAntiBan", "astrofile", "https://raw.githubuserconte
                         
 addscriptuniversal("UniversalDiscordServerAutoJoin", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/UniversalDiscordServerAutoJoin.lua")
     
+                        
+addscriptuniversal("UniversalBypasserNwords", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/UniversalBypasserNwords.lua")
+    

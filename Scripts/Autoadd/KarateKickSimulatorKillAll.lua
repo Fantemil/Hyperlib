@@ -1,3 +1,5 @@
+--set to false if you want to stop loop killing everyone
+
 _G.KillAll = true
 
 while _G.KillAll do task.wait(.1)
