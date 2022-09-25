@@ -9065,3 +9065,5 @@ addscriptexist(3652625463, "LiftingSimulatorAutoFarm", "Qalnik", "https://raw.gi
 addscriptexist(6938803436, "AnimeDimensionsSimulatorAUTOFARMAUTOSKILLMORE", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AnimeDimensionsSimulatorAUTOFARMAUTOSKILLMORE.lua")
                     
 addscriptexist(6284583030, "PetSimulatorXNewGui", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PetSimulatorXNewGui.lua")
+                    
+addscriptexist(2753915549, "BloxFruitsESPAUTOSTATSFARM", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BloxFruitsESPAUTOSTATSFARM.lua")
