@@ -11238,3 +11238,6 @@ addscriptuniversal("AUniversalTimeAutoFarmWalkspeed", "astrofile", "https://raw.
                         
 addscriptuniversal("AUniversalTimeThugFarmItemsFarmMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AUniversalTimeThugFarmItemsFarmMore.lua")
     
+                        
+addscriptuniversal("AUniversalTimeQuestFarm", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AUniversalTimeQuestFarm.lua")
+    

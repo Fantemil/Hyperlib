@@ -1,1 +1,1 @@
-loadstring(game:HttpGet('https://hastebin.com/raw/umisagohag'))()
+{"message":"Document not found."}
