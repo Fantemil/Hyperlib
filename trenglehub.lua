@@ -10277,3 +10277,6 @@ addscript(5617870058,"Pet Battle Simulator", "PetBattleSimulator", "Terni", "htt
     
 addscript(3268321767,"Saitama Simulator", "SaitamaSimulator", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SaitamaSimulator.lua")
                     
+    
+addscript(4520536611,"Fitness Simulator", "FitnessSimulator", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FitnessSimulator.lua")
+                    
