@@ -10118,3 +10118,5 @@ addscriptexist(2961297129, "DEATHZONE", "Terni", "https://raw.githubusercontent.
     
 addscript(6371984839,"Lifting Titans GUI", "LiftingTitansGUI", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LiftingTitansGUI.lua")
                     
+                    
+addscriptexist(8533682846, "GiantSimulatorGUIV2", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/GiantSimulatorGUIV2.lua")
