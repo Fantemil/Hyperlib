@@ -10220,3 +10220,6 @@ addscript(418574428,"Downfall", "Downfall", "Terni", "https://raw.githubusercont
                     
                     
 addscriptexist(263761432, "HorrificHousing", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/HorrificHousing.lua")
+    
+addscript(5153937061,"Silent Aim for FPS games", "SilentAimforFPSgames", "ChipyxaOOFicial", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SilentAimforFPSgames.lua")
+                    
