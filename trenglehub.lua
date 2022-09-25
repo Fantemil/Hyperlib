@@ -10360,3 +10360,5 @@ addscript(2673595672,"Dashing Simulator", "DashingSimulator", "Terni", "https://
     
 addscript(5151156182,"Pet Heroes", "PetHeroes", "Ykpon", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PetHeroes.lua")
                     
+                    
+addscriptexist(4520749081, "KingLegacy", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/KingLegacy.lua")
