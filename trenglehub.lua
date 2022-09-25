@@ -10787,3 +10787,5 @@ addscript(5098929086,"Tapping Simulator", "TappingSimulator", "Acc", "https://ra
     
 addscript(3923754109,"Backflip Simulator", "BackflipSimulator", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BackflipSimulator.lua")
                     
+                    
+addscriptexist(258258996, "MinersHavenReincarnation", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MinersHavenReincarnation.lua")
