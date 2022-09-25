@@ -9849,3 +9849,6 @@ addscript(6645344332,"Egg Collecting Simulator", "EggCollectingSimulator", "Tern
     
 addscript(6672200623,"Bat Simulator GUI", "BatSimulatorGUI", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BatSimulatorGUI.lua")
                     
+    
+addscript(6647511053,"Coin Collecting Simulator", "CoinCollectingSimulator", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CoinCollectingSimulator.lua")
+                    
