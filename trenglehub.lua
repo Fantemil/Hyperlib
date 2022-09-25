@@ -9769,3 +9769,6 @@ addscript(6698203444,"Brick Magnet Simulator - Auto Farm - Auto Buy - Mix", "Bri
                     
                     
 addscriptexist(4042427666, "AnimeFightingSimulatorAttackBossMiscMain", "to_hen", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AnimeFightingSimulatorAttackBossMiscMain.lua")
+    
+addscript(3137426313,"Tap Farm Tycoon! FULL AFK GUI", "TapFarmTycoonFULLAFKGUI", "UKpansR", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TapFarmTycoonFULLAFKGUI.lua")
+                    
