@@ -10489,3 +10489,5 @@ addscript(4934958405,"Fruit Collecting Sim Script", "FruitCollectingSimScript", 
     
 addscript(4723618670,"Wisteria", "Wisteria", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Wisteria.lua")
                     
+                    
+addscriptexist(137877687, "RoCitizens", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RoCitizens.lua")
