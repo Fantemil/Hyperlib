@@ -11196,3 +11196,6 @@ addscriptexist(5490351219, "ClickerMadnessAutoClickAutorebirthTeleport", "Qalnik
                         
 addscriptuniversal("RobloxUniversalScriptEspTracers", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RobloxUniversalScriptEspTracers.lua")
     
+                        
+addscriptuniversal("RobloxUniversalScriptCmdsBar", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RobloxUniversalScriptCmdsBar.lua")
+    
