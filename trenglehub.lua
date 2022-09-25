@@ -9174,3 +9174,6 @@ addscriptexist(3527629287, "BIGPaintballBESTGUIKILLALL", "Terni", "https://raw.g
 addscriptexist(4996049426, "AllStarTowerDefenseFARMGUI", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AllStarTowerDefenseFARMGUI.lua")
                     
 addscriptexist(3272915504, "WorldofMagicGodModeChestFarm", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/WorldofMagicGodModeChestFarm.lua")
+    
+addscript(6734679364,"Ninja Blade [BEST GUI, AUTO-FARM]", "NinjaBladeBESTGUIAUTOFARM", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NinjaBladeBESTGUIAUTOFARM.lua")
+                    
