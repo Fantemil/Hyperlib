@@ -9005,3 +9005,6 @@ addscriptexist(6339160453, "AnimeNinjaWarTycoonInfmoneyfireinfinite", "Qalnik", 
 addscriptexist(7429434108, "AnimeTappersAutoFarmAutoRebirthBossFarm", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AnimeTappersAutoFarmAutoRebirthBossFarm.lua")
                     
 addscriptexist(920587237, "AdoptMeAutoFarmCandy", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AdoptMeAutoFarmCandy.lua")
+    
+addscript(6706152946,"Jojo", "JojoCrusadersHeavenKillAura", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/JojoCrusadersHeavenKillAura.lua")
+                    
