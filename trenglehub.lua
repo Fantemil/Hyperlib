@@ -8857,3 +8857,5 @@ addscriptexist(7449695387, "PetFightersSimulatorGui", "Acc", "https://raw.github
 addscriptexist(7485253727, "TruePieceAutoFarm", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TruePieceAutoFarm.lua")
                     
 addscriptexist(2262441883, "ElectricStateDarkRPKillSpeedTeleportKeyBinds", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ElectricStateDarkRPKillSpeedTeleportKeyBinds.lua")
+                    
+addscriptexist(6802248248, "SAITAMANIAKillAura", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SAITAMANIAKillAura.lua")
