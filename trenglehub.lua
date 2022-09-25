@@ -9421,3 +9421,5 @@ addscriptexist(263761432, "HorrificHousingAutoFarm", "Qalnik", "https://raw.gith
 addscriptexist(6875469709, "StrongestPunchSimulatorAutoClickerAutoCollectOrbsNoclip", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/StrongestPunchSimulatorAutoClickerAutoCollectOrbsNoclip.lua")
                     
 addscriptexist(2376885433, "VesteriaAutoFarmGodmodeKillAura", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/VesteriaAutoFarmGodmodeKillAura.lua")
+                    
+addscriptexist(893973440, "FleeTheFacilityAntiComputerloseHackcomputerfromdistanceWalkSpeed", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FleeTheFacilityAntiComputerloseHackcomputerfromdistanceWalkSpeed.lua")
