@@ -9160,3 +9160,5 @@ addscript(7082539621,"Anime Destroyers Simulator [Auto-farm, Updates, More!]", "
     
 addscript(7262582142,"Paint Simulator [MONEY FARM]", "PaintSimulatorMONEYFARM", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PaintSimulatorMONEYFARM.lua")
                     
+                    
+addscriptexist(3823781113, "SaberSimulatorAutoSwingAutoSellAutoKing", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SaberSimulatorAutoSwingAutoSellAutoKing.lua")
