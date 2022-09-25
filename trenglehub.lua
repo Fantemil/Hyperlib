@@ -10930,3 +10930,5 @@ addscriptexist(606849621, "JailbreakMobileGarageFree", "Acc", "https://raw.githu
 addscriptexist(3056526277, "BuildandSurviveGui", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BuildandSurviveGui.lua")
                     
 addscriptexist(662417684, "LuckyBlocksBattlegroundsGui", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LuckyBlocksBattlegroundsGui.lua")
+                    
+addscriptexist(3527629287, "BIGPaintballGui", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BIGPaintballGui.lua")
