@@ -9288,3 +9288,5 @@ addscript(7277488595,"Luobu Launch Party [Auto Farm]", "LuobuLaunchPartyAutoFarm
     
 addscript(6417110811,"Roblox [telekinesis]", "Robloxtelekinesis", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Robloxtelekinesis.lua")
                     
+                    
+addscriptexist(3494008884, "DonutBakeryTycoonInfMoney", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DonutBakeryTycoonInfMoney.lua")
