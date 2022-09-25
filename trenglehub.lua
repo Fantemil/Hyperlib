@@ -9234,3 +9234,5 @@ addscriptexist(5490351219, "ClickerMadnessAutoClickAutoRebirthAutoeggBuyer", "Qa
     
 addscript(164051105,"Super Bomb Survival [AUTO-WIN]", "SuperBombSurvivalAUTOWIN", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SuperBombSurvivalAUTOWIN.lua")
                     
+                    
+addscriptexist(4545436299, "PetClicksSimulatorINFGEMSFARMMONEY", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PetClicksSimulatorINFGEMSFARMMONEY.lua")
