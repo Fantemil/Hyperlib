@@ -10371,3 +10371,5 @@ addscript(5801771332,"Murder Mystery 3 GUI", "MurderMystery3GUI", "ChipyxaOOFici
                     
                     
 addscriptexist(5736409216, "MallTycoonAutoFarm", "ChipyxaOOFicial", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MallTycoonAutoFarm.lua")
+                    
+addscriptexist(155615604, "PrisonLife", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PrisonLife.lua")
