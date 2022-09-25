@@ -9801,3 +9801,6 @@ addscriptexist(4543144283, "MegaNoobSimulatorOPGUI", "UKpansR", "https://raw.git
 addscriptexist(6938803436, "AnimeDimensions", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AnimeDimensions.lua")
                     
 addscriptexist(1696916806, "BaseRaidersGUNMOD", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BaseRaidersGUNMOD.lua")
+    
+addscript(1919383429,"Embrithas", "Embrithas", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Embrithas.lua")
+                    
