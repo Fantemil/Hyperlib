@@ -9780,3 +9780,5 @@ addscriptexist(286090429, "ArsenalGUNMODSFORNEWUPDATEJULY2021", "Полотен�
 addscriptexist(2809202155, "YourBizarreAdventureMiscAutoSkills", "to_hen", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/YourBizarreAdventureMiscAutoSkills.lua")
                     
 addscriptexist(6953291455, "EatingSimulatorAutoFarmBuyEggMisc", "to_hen", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/EatingSimulatorAutoFarmBuyEggMisc.lua")
+                    
+addscriptexist(6299805723, "AnimeFightersSimulatorAutofarmAutoBuyEggsInfiniteYen", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AnimeFightersSimulatorAutofarmAutoBuyEggsInfiniteYen.lua")
