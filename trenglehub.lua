@@ -10539,3 +10539,5 @@ addscriptexist(3351674303, "DrivingEmpireBETA", "Acc", "https://raw.githubuserco
     
 addscript(5359071009,"Hunter x Online", "HunterxOnline", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/HunterxOnline.lua")
                     
+                    
+addscriptexist(5272267802, "BeaToy", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BeaToy.lua")
