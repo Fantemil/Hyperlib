@@ -1,0 +1,1 @@
+game.Players.LocalPlayer.RemoteFunctions.RebirthFunction:FireServer("1000000000000000000")
