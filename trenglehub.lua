@@ -10754,3 +10754,6 @@ addscript(6609377660,"Roblox RTX", "RobloxRTX", "Acc", "https://raw.githubuserco
     
 addscript(5000625666,"Car Tycoon! Demo", "CarTycoonDemo", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CarTycoonDemo.lua")
                     
+    
+addscript(4399032158,"Thick Legends", "ThickLegends", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ThickLegends.lua")
+                    
