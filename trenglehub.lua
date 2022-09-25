@@ -10468,3 +10468,5 @@ addscript(4830389640,"Ronald", "Ronald", "Acc", "https://raw.githubusercontent.c
                     
                     
 addscriptexist(4616652839, "ShindoLifev2", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ShindoLifev2.lua")
+                    
+addscriptexist(1962086868, "TowerOfHell", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TowerOfHell.lua")
