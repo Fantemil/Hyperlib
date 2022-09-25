@@ -10808,3 +10808,6 @@ addscript(9824221333,"CBRO ARSENAL ANTI AIM", "CBROARSENALANTIAIM", "Acc", "http
     
 addscript(5167508836,"YouTube Champions", "YouTubeChampions", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/YouTubeChampions.lua")
                     
+    
+addscript(5396265722,"An Astonishing Day", "AnAstonishingDay", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AnAstonishingDay.lua")
+                    
