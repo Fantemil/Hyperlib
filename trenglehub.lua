@@ -10182,3 +10182,6 @@ addscriptexist(2629642516, "BitcoinMiner", "Terni", "https://raw.githubuserconte
     
 addscript(1229173778,"Lab Experiment", "LabExperiment", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LabExperiment.lua")
                     
+    
+addscript(3082130015,"Ninja Magic", "NinjaMagic", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NinjaMagic.lua")
+                    

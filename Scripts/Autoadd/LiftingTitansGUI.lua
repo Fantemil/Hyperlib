@@ -1,1 +1,1 @@
- loadstring(game:HttpGet("https://pastebin.com/raw/91LShjFn", true))()
+  loadstring(game:HttpGet("https://raw.githubusercontent.com/lightzki/thunderhub/main/script/LiftingTitans.lua"))()
