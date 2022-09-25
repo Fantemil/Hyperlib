@@ -10435,3 +10435,5 @@ addscriptexist(445664957, "Parkour", "Acc", "https://raw.githubusercontent.com/F
     
 addscript(3072832953,"Escape Prison Obby", "EscapePrisonObby", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/EscapePrisonObby.lua")
                     
+                    
+addscriptexist(1537690962, "BeeSwarmSimulatorv2", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BeeSwarmSimulatorv2.lua")
