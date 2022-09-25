@@ -9928,3 +9928,6 @@ addscript(6544175281,"Food Magnet Simulator", "FoodMagnetSimulator", "Terni", "h
 addscriptexist(6766156863, "StrongmanSimulator", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/StrongmanSimulator.lua")
                     
 addscriptexist(6897226634, "TimberGUI", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TimberGUI.lua")
+    
+addscript(6892252562,"Grow Old Simulator", "GrowOldSimulator", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/GrowOldSimulator.lua")
+                    
