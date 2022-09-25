@@ -8945,3 +8945,5 @@ addscript(7555007091,"Hexa Game [AutoWin]", "HexaGameAutoWin", "Qalnik", "https:
     
 addscript(1182833048,"Growing Up [flying broom]", "GrowingUpflyingbroom", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/GrowingUpflyingbroom.lua")
                     
+                    
+addscriptexist(3851622790, "BreakInInstaHealTeleportGiveitems", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BreakInInstaHealTeleportGiveitems.lua")
