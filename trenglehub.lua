@@ -8951,3 +8951,6 @@ addscriptexist(3851622790, "BreakInInstaHealTeleportGiveitems", "Qalnik", "https
 addscriptexist(13822889, "LumberTycoon2ANTIBLACKLISTMAXLANDPAINTTOOL", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LumberTycoon2ANTIBLACKLISTMAXLANDPAINTTOOL.lua")
                     
 addscriptexist(3101667897, "LegendsOfSpeedAUTOFARM", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LegendsOfSpeedAUTOFARM.lua")
+    
+addscript(7470980441,"Anime Attack Simulator [AUTO-FARM ALL WORLDS]", "AnimeAttackSimulatorAUTOFARMALLWORLDS", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AnimeAttackSimulatorAUTOFARMALLWORLDS.lua")
+                    
