@@ -10129,3 +10129,6 @@ addscriptexist(2732246600, "BloodyBattleGUI", "Terni", "https://raw.githubuserco
 addscriptexist(4924922222, "BrookhavenRP", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BrookhavenRP.lua")
                     
 addscriptexist(5543622168, "CriticalTowerDefense", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CriticalTowerDefense.lua")
+    
+addscript(6574375780,"Dark Piece", "DarkPiece", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DarkPiece.lua")
+                    
