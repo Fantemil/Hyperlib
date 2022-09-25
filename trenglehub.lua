@@ -9742,3 +9742,5 @@ addscriptexist(920587237, "AdoptMePlayerMiscAutoFarm", "Acc", "https://raw.githu
 addscriptexist(6788787407, "WarriorChampionsOPGUIAutoFarm", "UKpansR", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/WarriorChampionsOPGUIAutoFarm.lua")
                     
 addscriptexist(2986677229, "GiantSimulatorScript", "to_hen", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/GiantSimulatorScript.lua")
+                    
+addscriptexist(4616652839, "ShindoLifeInfiniteSpinsQuestFarmRollsFarmAutoMoney", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ShindoLifeInfiniteSpinsQuestFarmRollsFarmAutoMoney.lua")
