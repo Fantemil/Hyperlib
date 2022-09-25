@@ -9168,3 +9168,5 @@ addscriptexist(3260590327, "TowerDefenseSimulatorAUTOPLACEAUTOFARM", "Terni", "h
 addscriptexist(7336128600, "PetLegendsAutoOpenEggTeleportAutoFarm", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PetLegendsAutoOpenEggTeleportAutoFarm.lua")
                     
 addscriptexist(185655149, "WelcometoBloxburgBESTAUTOFARM", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/WelcometoBloxburgBESTAUTOFARM.lua")
+                    
+addscriptexist(3527629287, "BIGPaintballBESTGUIKILLALL", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BIGPaintballBESTGUIKILLALL.lua")
