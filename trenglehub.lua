@@ -9457,3 +9457,5 @@ addscript(5086470420,"LGBTQ+ Hangout 2 RAINBOW [Auto Farm]", "LGBTQHangout2RAINB
                     
                     
 addscriptexist(5740246170, "TowerSimulatorAUTOBUILD", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TowerSimulatorAUTOBUILD.lua")
+                    
+addscriptexist(183364845, "SpeedRun4AutoFarmFreezeUnlockAllLVl", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SpeedRun4AutoFarmFreezeUnlockAllLVl.lua")
