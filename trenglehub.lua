@@ -9166,3 +9166,5 @@ addscriptexist(3823781113, "SaberSimulatorAutoSwingAutoSellAutoKing", "Qalnik", 
 addscriptexist(3260590327, "TowerDefenseSimulatorAUTOPLACEAUTOFARM", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TowerDefenseSimulatorAUTOPLACEAUTOFARM.lua")
                     
 addscriptexist(7336128600, "PetLegendsAutoOpenEggTeleportAutoFarm", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PetLegendsAutoOpenEggTeleportAutoFarm.lua")
+                    
+addscriptexist(185655149, "WelcometoBloxburgBESTAUTOFARM", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/WelcometoBloxburgBESTAUTOFARM.lua")
