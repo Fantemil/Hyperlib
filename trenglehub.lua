@@ -8922,3 +8922,6 @@ addscriptexist(142823291, "MurderMystery2KILLALLSHERIFANDMURDERESP", "Terni", "h
 addscriptexist(7453798168, "YouTubeSimulatorXAUTOCLICKAUTOEDITSTELEPORTS", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/YouTubeSimulatorXAUTOCLICKAUTOEDITSTELEPORTS.lua")
                     
 addscriptexist(6484864709, "GymTycoonAutoWorkOutAutoCollectDropAutoNPCCheckIn", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/GymTycoonAutoWorkOutAutoCollectDropAutoNPCCheckIn.lua")
+    
+addscript(5865858426,"Retail Tycoon 2 [Auto Farm Event]", "RetailTycoon2AutoFarmEvent", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RetailTycoon2AutoFarmEvent.lua")
+                    
