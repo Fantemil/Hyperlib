@@ -9703,3 +9703,5 @@ addscriptexist(6186867282, "ProjectXLv51хAUTOFARMAUTOQUESTTPTONPC", "wsufy.lnd"
 addscriptexist(3527629287, "BIGPaintballAIMESPSPEEDOBVIUOSLYKILL", "wsufy.lnd", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BIGPaintballAIMESPSPEEDOBVIUOSLYKILL.lua")
                     
 addscriptexist(621129760, "KATESPAIMINFAMMOSPEED", "wsufy.lnd", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/KATESPAIMINFAMMOSPEED.lua")
+                    
+addscriptexist(2377868063, "StrucidESPAIMSPEEDJUMPNORECOIL", "wsufy.lnd", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/StrucidESPAIMSPEEDJUMPNORECOIL.lua")
