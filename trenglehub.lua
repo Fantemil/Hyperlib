@@ -10369,3 +10369,5 @@ addscriptexist(301549746, "CounterBloxBloxTap", "ChipyxaOOFicial", "https://raw.
     
 addscript(5801771332,"Murder Mystery 3 GUI", "MurderMystery3GUI", "ChipyxaOOFicial", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MurderMystery3GUI.lua")
                     
+                    
+addscriptexist(5736409216, "MallTycoonAutoFarm", "ChipyxaOOFicial", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MallTycoonAutoFarm.lua")
