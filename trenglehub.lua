@@ -10852,3 +10852,5 @@ addscriptexist(185655149, "BloxburgGUI", "Acc", "https://raw.githubusercontent.c
     
 addscript(4254575069,"Champion Simulator", "ChampionSimulator", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ChampionSimulator.lua")
                     
+                    
+addscriptexist(3823781113, "SaberSimulatorGui", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SaberSimulatorGui.lua")
