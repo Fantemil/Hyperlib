@@ -9983,3 +9983,6 @@ addscriptexist(2248408710, "DestructionSimulator", "Terni", "https://raw.githubu
     
 addscript(6417787939,"City Life Tycoon", "CityLifeTycoon", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CityLifeTycoon.lua")
                     
+    
+addscript(39972972,"Make a Cake!", "MakeaCake", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MakeaCake.lua")
+                    
