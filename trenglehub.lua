@@ -10314,3 +10314,6 @@ addscriptexist(142823291, "MurderMystery2ESPGui", "ChipyxaOOFicial", "https://ra
     
 addscript(1599679393,"Pet Simulator!", "PetSimulator", "Ykpon", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PetSimulator.lua")
                     
+    
+addscript(6090639744,"Bacon Simulator", "BaconSimulator", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BaconSimulator.lua")
+                    
