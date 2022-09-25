@@ -9316,3 +9316,5 @@ addscript(32331218,"Mega Marble Run Pit [Auto Farm]", "MegaMarbleRunPitAutoFarm"
     
 addscript(9555658167,"Roblox [All Animation]", "RobloxAllAnimation", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RobloxAllAnimation.lua")
                     
+                    
+addscriptexist(6284583030, "PetSimulatorXAutoFarmWalkSpeedAntiAfk", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PetSimulatorXAutoFarmWalkSpeedAntiAfk.lua")
