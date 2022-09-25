@@ -10095,3 +10095,5 @@ addscriptexist(8288069630, "PlanetMinignSimulator", "Terni", "https://raw.github
     
 addscript(5414779423,"Science Simulator!", "ScienceSimulator", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ScienceSimulator.lua")
                     
+                    
+addscriptexist(9840387028, "EraofAlthea", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/EraofAlthea.lua")
