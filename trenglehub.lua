@@ -9223,3 +9223,5 @@ addscriptexist(6875469709, "STRONGESTPUNCHSIMULATORFarmArtifactInvisiblemodeSafe
 addscriptexist(1962086868, "TowerofHellGODMODEGUI", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TowerofHellGODMODEGUI.lua")
                     
 addscriptexist(4616652839, "ShindoBESTGUI", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ShindoBESTGUI.lua")
+                    
+addscriptexist(6284583030, "PetSimulatorXUPDATEDGUI", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PetSimulatorXUPDATEDGUI.lua")
