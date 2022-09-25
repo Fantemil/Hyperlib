@@ -10638,3 +10638,6 @@ addscript(5802761955,"Last Honor - Gun Testing", "LastHonorGunTesting", "Acc", "
 addscriptexist(4893679160, "BigBrainSimulator", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BigBrainSimulator.lua")
                     
 addscriptexist(4872321990, "Island", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Island.lua")
+    
+addscript(746820961,"Unit 1968", "Unit1968", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Unit1968.lua")
+                    
