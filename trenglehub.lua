@@ -11060,3 +11060,6 @@ addscriptexist(621129760, "KnifeAbilityTestSilentAimDrawFovInfinityAmmoMore", "a
     
 addscript(3483762032,"Oblivion Alpha", "OblivionAlpha3GamesSupport", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OblivionAlpha3GamesSupport.lua")
                     
+    
+addscript(4983006874,"NGU CLICKER SIMULATOR Gui", "NGUCLICKERSIMULATORGuiAutoClickAutoUpgradeAutoPetEvolve", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NGUCLICKERSIMULATORGuiAutoClickAutoUpgradeAutoPetEvolve.lua")
+                    
