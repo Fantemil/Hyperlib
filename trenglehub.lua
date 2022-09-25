@@ -9211,3 +9211,5 @@ addscript(5734383673,"Roblox [Fly facilities]", "RobloxFlyfacilities", "Qalnik",
                     
                     
 addscriptexist(566399244, "ElementalBattlegroundsGUIAUTOFARM", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ElementalBattlegroundsGUIAUTOFARM.lua")
+                    
+addscriptexist(6951762614, "UFOSimulatorAUTOBUYAUTOKILLMORE", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/UFOSimulatorAUTOBUYAUTOKILLMORE.lua")
