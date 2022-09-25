@@ -10002,3 +10002,5 @@ addscriptexist(734159876, "SharkBite", "Terni", "https://raw.githubusercontent.c
 addscriptexist(5534174456, "TropicalResortTycoon", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TropicalResortTycoon.lua")
                     
 addscriptexist(3956818381, "NinjaLegends", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NinjaLegends.lua")
+                    
+addscriptexist(6808416928, "AimbloxBETA", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AimbloxBETA.lua")
