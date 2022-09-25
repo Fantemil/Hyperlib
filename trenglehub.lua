@@ -10323,3 +10323,6 @@ addscript(5024229518,"Trading Simulator", "TradingSimulator", "Terni", "https://
     
 addscript(5852812686,"Candy Clicking Simulator", "CandyClickingSimulator", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CandyClickingSimulator.lua")
                     
+    
+addscript(2210085102,"INF ammo Naval Warfare", "INFammoNavalWarfare", "ChipyxaOOFicial", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/INFammoNavalWarfare.lua")
+                    
