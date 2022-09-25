@@ -10581,3 +10581,6 @@ addscript(5230682285,"Space Legends", "SpaceLegends", "Acc", "https://raw.github
                     
                     
 addscriptexist(659222129, "Swordburst2", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Swordburst2.lua")
+    
+addscript(16613936,"Greenwood Town", "GreenwoodTown", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/GreenwoodTown.lua")
+                    
