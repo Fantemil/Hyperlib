@@ -9988,3 +9988,5 @@ addscript(39972972,"Make a Cake!", "MakeaCake", "Terni", "https://raw.githubuser
                     
                     
 addscriptexist(6331132338, "PetSwarmSimulator", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PetSwarmSimulator.lua")
+                    
+addscriptexist(3652625463, "LiftingSimulator", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LiftingSimulator.lua")
