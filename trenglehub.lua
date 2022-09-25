@@ -11063,3 +11063,6 @@ addscript(3483762032,"Oblivion Alpha", "OblivionAlpha3GamesSupport", "astrofile"
     
 addscript(4983006874,"NGU CLICKER SIMULATOR Gui", "NGUCLICKERSIMULATORGuiAutoClickAutoUpgradeAutoPetEvolve", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NGUCLICKERSIMULATORGuiAutoClickAutoUpgradeAutoPetEvolve.lua")
                     
+
+                    
+addscriptexist(2753915549, "BloxFruitsAutoSetSpawnPointsTeleportsMore", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BloxFruitsAutoSetSpawnPointsTeleportsMore.lua")
