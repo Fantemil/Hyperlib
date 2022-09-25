@@ -9108,3 +9108,6 @@ addscriptexist(6339160453, "NarutoWarTycoonINFMONEYCHI", "Terni", "https://raw.g
     
 addscript(4716045691,"POLYBATTLE [AIM, INF AMMO]", "POLYBATTLEAIMINFAMMO", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/POLYBATTLEAIMINFAMMO.lua")
                     
+    
+addscript(338521019,"Identity Fraud [ESP, Cheat Bypass]", "IdentityFraudESPCheatBypass", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/IdentityFraudESPCheatBypass.lua")
+                    
