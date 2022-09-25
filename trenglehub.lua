@@ -9105,3 +9105,6 @@ addscriptexist(6432407703, "BigCityTycoonFARMINGMONEY", "Terni", "https://raw.gi
 addscriptexist(3527629287, "BIGPaintballKILLALL", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BIGPaintballKILLALL.lua")
                     
 addscriptexist(6339160453, "NarutoWarTycoonINFMONEYCHI", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NarutoWarTycoonINFMONEYCHI.lua")
+    
+addscript(4716045691,"POLYBATTLE [AIM, INF AMMO]", "POLYBATTLEAIMINFAMMO", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/POLYBATTLEAIMINFAMMO.lua")
+                    
