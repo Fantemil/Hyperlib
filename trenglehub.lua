@@ -8833,3 +8833,6 @@ addscriptexist(4787629450, "BOOGABOOGATeleportKillAuraSilentAim", "Acc", "https:
 addscriptexist(6769764667, "FactorySimulatorAutoMine", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FactorySimulatorAutoMine.lua")
                     
 addscriptexist(7485253727, "TruePieceTeleportBYPASS", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TruePieceTeleportBYPASS.lua")
+    
+addscript(5909047091,"Zombie Tycoon [All Gamepasses]", "ZombieTycoonAllGamepasses", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ZombieTycoonAllGamepasses.lua")
+                    
