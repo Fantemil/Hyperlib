@@ -8970,3 +8970,5 @@ addscriptexist(6104994594, "PilferingPiratesAutoFarmDefenseAutoFarmLevelAutoAtta
 addscriptexist(155615604, "PrisonLifeKILLALLKILLAURALOCALPLAYER", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PrisonLifeKILLALLKILLAURALOCALPLAYER.lua")
                     
 addscriptexist(920587237, "AdoptMeNEWAUTOFARMAUTOCHECKMORE", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AdoptMeNEWAUTOFARMAUTOCHECKMORE.lua")
+                    
+addscriptexist(1962086868, "TowerofHellINFJUMPAUTOFARMNODAMAGE", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TowerofHellINFJUMPAUTOFARMNODAMAGE.lua")
