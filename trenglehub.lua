@@ -9550,3 +9550,5 @@ addscriptexist(4999590694, "ZombieDefenseTycoonInfammo", "Qalnik", "https://raw.
 addscriptexist(7177496972, "AnimeWarriorsFarmMobKillAura", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AnimeWarriorsFarmMobKillAura.lua")
                     
 addscriptexist(7177496972, "AnimeWarriorsInstantKillSafeZone", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AnimeWarriorsInstantKillSafeZone.lua")
+                    
+addscriptexist(286090429, "ArsenalCrachserver", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ArsenalCrachserver.lua")
