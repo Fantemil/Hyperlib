@@ -8925,3 +8925,5 @@ addscriptexist(6484864709, "GymTycoonAutoWorkOutAutoCollectDropAutoNPCCheckIn", 
     
 addscript(5865858426,"Retail Tycoon 2 [Auto Farm Event]", "RetailTycoon2AutoFarmEvent", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RetailTycoon2AutoFarmEvent.lua")
                     
+                    
+addscriptexist(2551991523, "BrokenBonesIVStartStopClose", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BrokenBonesIVStartStopClose.lua")
