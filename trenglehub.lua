@@ -8871,3 +8871,6 @@ addscriptexist(893973440, "FleetheFacilityNeverFailHacking", "Acc", "https://raw
 addscriptexist(3678761576, "ENTRENCHEDEspWalkSpeed", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ENTRENCHEDEspWalkSpeed.lua")
                     
 addscriptexist(3057050847, "Site76PrisonAnomaliesEspModGunsInfMoneyExp", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Site76PrisonAnomaliesEspModGunsInfMoneyExp.lua")
+    
+addscript(7718790950,"Legend Piece [INF Level, INF Gems, INF Stats]", "LegendPieceINFLevelINFGemsINFStats", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LegendPieceINFLevelINFGemsINFStats.lua")
+                    
