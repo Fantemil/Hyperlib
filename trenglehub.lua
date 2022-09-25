@@ -9252,3 +9252,6 @@ addscriptexist(2248408710, "DestructionSimulatorAutoFarm", "Qalnik", "https://ra
 addscriptexist(621129760, "KATAimbotSelentAimEsp", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/KATAimbotSelentAimEsp.lua")
                     
 addscriptexist(3233893879, "BadBusinessBESTGUI", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BadBusinessBESTGUI.lua")
+    
+addscript(6573910231,"Project Star [Stand Arrow,Rokakaka]", "ProjectStarStandArrowRokakaka", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ProjectStarStandArrowRokakaka.lua")
+                    
