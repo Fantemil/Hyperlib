@@ -10830,3 +10830,6 @@ addscriptexist(855499080, "SkyWars", "Acc", "https://raw.githubusercontent.com/F
     
 addscript(5790039516,"Lil Nas X Concert Experience", "LilNasXConcertExperience", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LilNasXConcertExperience.lua")
                     
+    
+addscript(755776245,"Restaurant Tycoon", "RestaurantTycoon", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RestaurantTycoon.lua")
+                    
