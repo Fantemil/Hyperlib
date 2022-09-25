@@ -10763,3 +10763,6 @@ addscriptexist(301549746, "CounterBloxaimbotESP", "Acc", "https://raw.githubuser
 addscriptexist(4520749081, "KingPiece", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/KingPiece.lua")
                     
 addscriptexist(5670292785, "UndeadDefenseTycoon", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/UndeadDefenseTycoon.lua")
+    
+addscript(5721826509,"Amongst Us!", "AmongstUs", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AmongstUs.lua")
+                    
