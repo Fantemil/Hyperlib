@@ -9790,3 +9790,6 @@ addscriptexist(286090429, "ROBLOXDYNAMICSILENTAIM–WORKSONARSENALCOUNTERBLOXOPE
     
 addscript(6848886250,"Pop it Fidget Simulator Gui", "PopitFidgetSimulatorGui", "UKpansR", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PopitFidgetSimulatorGui.lua")
                     
+    
+addscript(6723408631,"Idle Tappers GUI!", "IdleTappersGUI", "UKpansR", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/IdleTappersGUI.lua")
+                    
