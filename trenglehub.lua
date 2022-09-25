@@ -9855,3 +9855,6 @@ addscript(6647511053,"Coin Collecting Simulator", "CoinCollectingSimulator", "Te
     
 addscript(6028934209,"Soda Champions Simulator", "SodaChampionsSimulator", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SodaChampionsSimulator.lua")
                     
+    
+addscript(3271441918,"Hero Simulator GUI", "HeroSimulatorGUI", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/HeroSimulatorGUI.lua")
+                    
