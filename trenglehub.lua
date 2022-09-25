@@ -9116,3 +9116,5 @@ addscript(4651779470,"RECOIL [Toggle Esp, Aim, Clear walls]", "RECOILToggleEspAi
                     
                     
 addscriptexist(137885680, "ZombieRushAutoShootAutoEquip", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ZombieRushAutoShootAutoEquip.lua")
+                    
+addscriptexist(4616652839, "ShindoAutoFarmVipServerAutoRank", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ShindoAutoFarmVipServerAutoRank.lua")
