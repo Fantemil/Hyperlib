@@ -9327,3 +9327,5 @@ addscript(5100475194,"Obby Trivia[Auto Farm]", "ObbyTriviaAutoFarm", "Qalnik", "
 addscriptexist(648362523, "BreakingPointFullbrightGundowmAfkKill", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BreakingPointFullbrightGundowmAfkKill.lua")
                     
 addscriptexist(6573910231, "ProjectStarFarmItemInvis", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ProjectStarFarmItemInvis.lua")
+                    
+addscriptexist(7009799230, "PressureWashSimulatorInfWater", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PressureWashSimulatorInfWater.lua")
