@@ -8878,3 +8878,5 @@ addscript(7718790950,"Legend Piece [INF Level, INF Gems, INF Stats]", "LegendPie
 addscriptexist(7444263453, "JetpackJumpersINFJumps", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/JetpackJumpersINFJumps.lua")
                     
 addscriptexist(13822889, "LumberTycoon2PAINTTOOLAUTODUPEGAMEMODS", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LumberTycoon2PAINTTOOLAUTODUPEGAMEMODS.lua")
+                    
+addscriptexist(6284583030, "PetSimulatorXHATCHANYEGGPETFake", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PetSimulatorXHATCHANYEGGPETFake.lua")
