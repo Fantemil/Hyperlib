@@ -10965,3 +10965,5 @@ addscriptexist(171391948, "VehicleSimulatorGui", "Acc", "https://raw.githubuserc
 addscriptexist(286090429, "ArsenalGui", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ArsenalGui.lua")
                     
 addscriptexist(4042427666, "AnimeFightingSimGui", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AnimeFightingSimGui.lua")
+                    
+addscriptexist(286090429, "ArsenalGuiv0", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ArsenalGuiv0.lua")
