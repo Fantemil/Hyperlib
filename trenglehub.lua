@@ -10246,3 +10246,6 @@ addscript(4952780297,"Combat Rift", "CombatRift", "Terni", "https://raw.githubus
                     
                     
 addscriptexist(2990100290, "RPGSimulator", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RPGSimulator.lua")
+    
+addscript(6048603509,"Blademaster Simulator", "BlademasterSimulator", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BlademasterSimulator.lua")
+                    
