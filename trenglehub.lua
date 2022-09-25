@@ -11184,3 +11184,6 @@ addscriptexist(2537430692, "JengaInfjumpRemovePartsWalkSpeed", "Qalnik", "https:
 
                     
 addscriptexist(2577040780, "EvictionNoticeChallengeListFreePlayer", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/EvictionNoticeChallengeListFreePlayer.lua")
+
+                    
+addscriptexist(10118559731, "NicosNextbotsGodmode", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NicosNextbotsGodmode.lua")
