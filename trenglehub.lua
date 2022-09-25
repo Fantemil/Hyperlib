@@ -10040,3 +10040,6 @@ addscriptexist(1758401491, "PublicBathroomSimulator", "Terni", "https://raw.gith
     
 addscript(204990346,"Tiny Tanks!", "TinyTanks", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TinyTanks.lua")
                     
+    
+addscript(6771382126,"Noob Piece", "NoobPiece", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NoobPiece.lua")
+                    
