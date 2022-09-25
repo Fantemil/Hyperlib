@@ -8869,3 +8869,5 @@ addscriptexist(7280118908, "SchoolSimulatorFreeGamepasses", "Acc", "https://raw.
 addscriptexist(893973440, "FleetheFacilityNeverFailHacking", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FleetheFacilityNeverFailHacking.lua")
                     
 addscriptexist(3678761576, "ENTRENCHEDEspWalkSpeed", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ENTRENCHEDEspWalkSpeed.lua")
+                    
+addscriptexist(3057050847, "Site76PrisonAnomaliesEspModGunsInfMoneyExp", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Site76PrisonAnomaliesEspModGunsInfMoneyExp.lua")
