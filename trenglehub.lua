@@ -9280,3 +9280,5 @@ addscriptexist(7393403076, "AnimeArtifactsSimulatorFARMMOBSFASTATTACH", "Terni",
     
 addscript(6010281397,"Squid Game [God Mode/Fake Lag]", "SquidGameGodModeFakeLag", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SquidGameGodModeFakeLag.lua")
                     
+                    
+addscriptexist(7082539621, "AnimeDestroyersAutoFarm", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AnimeDestroyersAutoFarm.lua")
