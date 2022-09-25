@@ -10678,3 +10678,5 @@ addscriptexist(606849621, "JailbreakALLROBS", "Acc", "https://raw.githubusercont
     
 addscript(3852084464,"Auto-Sing [Revenge]", "AutoSingRevenge", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AutoSingRevenge.lua")
                     
+                    
+addscriptexist(2533391464, "SnowmanSimulator", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SnowmanSimulator.lua")
