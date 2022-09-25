@@ -10716,3 +10716,5 @@ addscriptexist(2041312716, "hatspin", "Acc", "https://raw.githubusercontent.com/
     
 addscript(7493270266,"Fly, noclip, infinity jump, btools", "Flynoclipinfinityjumpbtools", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Flynoclipinfinityjumpbtools.lua")
                     
+                    
+addscriptexist(2202352383, "SuperPowerTrainingSim", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SuperPowerTrainingSim.lua")
