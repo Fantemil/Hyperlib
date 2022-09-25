@@ -9697,3 +9697,5 @@ addscriptexist(2262441883, "ElectricStateDarkRPAUTOFARMTPSPEED", "wsufy.lnd", "h
 addscriptexist(4580204640, "WALKSPEEDFORALLGAMES", "wsufy.lnd", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/WALKSPEEDFORALLGAMES.lua")
                     
 addscriptexist(2768379856, "3008ESPPICKUPALLITEMS", "wsufy.lnd", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/3008ESPPICKUPALLITEMS.lua")
+                    
+addscriptexist(6186867282, "ProjectXLv51хAUTOFARMAUTOQUESTTPTONPC", "wsufy.lnd", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ProjectXLv51хAUTOFARMAUTOQUESTTPTONPC.lua")
