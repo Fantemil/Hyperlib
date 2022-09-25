@@ -8838,3 +8838,6 @@ addscript(5909047091,"Zombie Tycoon [All Gamepasses]", "ZombieTycoonAllGamepasse
                     
                     
 addscriptexist(2619187362, "SuperPowerFightingSimulatorAUTOCOLLECTPUMPKINS", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SuperPowerFightingSimulatorAUTOCOLLECTPUMPKINS.lua")
+    
+addscript(3198259055,"SoulShatters Test Place [GODMODE]", "SoulShattersTestPlaceGODMODE", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SoulShattersTestPlaceGODMODE.lua")
+                    
