@@ -9942,3 +9942,5 @@ addscript(6411761937,"Arcana", "Arcana", "Terni", "https://raw.githubusercontent
     
 addscript(6812577005,"Gold Factory Simulator", "GoldFactorySimulator", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/GoldFactorySimulator.lua")
                     
+                    
+addscriptexist(5991118999, "CutTheGrassSimulator", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CutTheGrassSimulator.lua")
