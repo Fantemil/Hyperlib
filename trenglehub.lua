@@ -11042,3 +11042,6 @@ addscriptexist(855499080, "SKYWARSServerLagger", "astrofile", "https://raw.githu
 
                     
 addscriptexist(5732973455, "HOURSUnlockAll", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/HOURSUnlockAll.lua")
+                        
+addscriptuniversal("UniversalTrashTalk", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/UniversalTrashTalk.lua")
+    
