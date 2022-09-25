@@ -10895,3 +10895,5 @@ addscript(5083731857,"Saitama Simulator AutoFarm", "SaitamaSimulatorAutoFarm", "
 addscriptexist(566399244, "ElementalBattlegrounds", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ElementalBattlegrounds.lua")
                     
 addscriptexist(301549746, "CounterBloxSkinChanger", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CounterBloxSkinChanger.lua")
+                    
+addscriptexist(914010731, "RoGhoulAutoFarm", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RoGhoulAutoFarm.lua")
