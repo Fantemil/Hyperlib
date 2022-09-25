@@ -10135,3 +10135,6 @@ addscript(6574375780,"Dark Piece", "DarkPiece", "Terni", "https://raw.githubuser
     
 addscript(9360490232,"Dash FE GUI", "DashFEGUI", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DashFEGUI.lua")
                     
+    
+addscript(6580889100,"Build A Boat For Treasure GUI", "BuildABoatForTreasureGUI", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BuildABoatForTreasureGUI.lua")
+                    
