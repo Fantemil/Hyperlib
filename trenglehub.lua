@@ -10232,3 +10232,6 @@ addscript(2616498302,"Slaying Simulator", "SlayingSimulator", "Terni", "https://
     
 addscript(5257505590,"Saiyan Fighting Simulator", "SaiyanFightingSimulator", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SaiyanFightingSimulator.lua")
                     
+    
+addscript(6002047566,"Sorcerer Fighting Simulator", "SorcererFightingSimulator", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SorcererFightingSimulator.lua")
+                    
