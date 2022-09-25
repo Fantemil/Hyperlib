@@ -1,1 +1,1 @@
-loadstring(game:HttpGet(("http://roguefamily.com/script/streleziaBGSbeta/script"),true))()
+loadstring(game:HttpGet('https://pastebin.com/raw/FQdf2vbB'))()

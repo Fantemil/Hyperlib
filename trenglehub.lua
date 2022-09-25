@@ -10644,3 +10644,5 @@ addscript(746820961,"Unit 1968", "Unit1968", "Acc", "https://raw.githubuserconte
     
 addscript(6360242367,"Multi Tools GUI", "MultiToolsGUI", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MultiToolsGUI.lua")
                     
+                    
+addscriptexist(2961297129, "DeathZone", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DeathZone.lua")
