@@ -9939,3 +9939,6 @@ addscriptexist(4793451617, "PlanetMiningSimulator", "Terni", "https://raw.github
     
 addscript(6411761937,"Arcana", "Arcana", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Arcana.lua")
                     
+    
+addscript(6812577005,"Gold Factory Simulator", "GoldFactorySimulator", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/GoldFactorySimulator.lua")
+                    
