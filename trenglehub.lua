@@ -9567,3 +9567,5 @@ addscriptexist(4999590694, "ZombieDefenseTycoonInfmoneyVeryfastautofarm", "Qalni
     
 addscript(6808489605,"Aimblox BETA [Aim / Esp / Character]", "AimbloxBETAAimEspCharacter", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AimbloxBETAAimEspCharacter.lua")
                     
+                    
+addscriptexist(171391948, "VehicleSimulatorAutoFarmx2FlySuperCar", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/VehicleSimulatorAutoFarmx2FlySuperCar.lua")
