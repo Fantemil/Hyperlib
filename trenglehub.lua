@@ -11069,3 +11069,6 @@ addscriptexist(2753915549, "BloxFruitsAutoSetSpawnPointsTeleportsMore", "astrofi
 
                     
 addscriptexist(5993942214, "RushPointEspPlayersDistance", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RushPointEspPlayersDistance.lua")
+
+                    
+addscriptexist(4860819035, "PlantsvsZombiesGardenProblemInfLevels", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PlantsvsZombiesGardenProblemInfLevels.lua")
