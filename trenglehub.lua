@@ -9408,3 +9408,6 @@ addscriptexist(286090429, "ArsenalKillAllAimbotEsp", "Qalnik", "https://raw.gith
 addscriptexist(5543622168, "CriticalTowerDefenseinfstats", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CriticalTowerDefenseinfstats.lua")
                     
 addscriptexist(7065731541, "SpeedmanSimulatorAutoEnergyAutoSpeedAutorebirth", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SpeedmanSimulatorAutoEnergyAutoSpeedAutorebirth.lua")
+    
+addscript(5837160206,"ACS [FireRate/Norecoil/Spread]", "ACSFireRateNorecoilSpread", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ACSFireRateNorecoilSpread.lua")
+                    
