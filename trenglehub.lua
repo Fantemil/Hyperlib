@@ -10008,3 +10008,6 @@ addscriptexist(6808416928, "AimbloxBETA", "Terni", "https://raw.githubuserconten
 addscriptexist(6872265039, "BedWars", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BedWars.lua")
                     
 addscriptexist(6610021055, "NoobArmyTycoon", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NoobArmyTycoon.lua")
+    
+addscript(6514274883,"Dream Island Tycoon", "DreamIslandTycoon", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DreamIslandTycoon.lua")
+                    
