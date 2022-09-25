@@ -9793,3 +9793,5 @@ addscript(6848886250,"Pop it Fidget Simulator Gui", "PopitFidgetSimulatorGui", "
     
 addscript(6723408631,"Idle Tappers GUI!", "IdleTappersGUI", "UKpansR", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/IdleTappersGUI.lua")
                     
+                    
+addscriptexist(606849621, "JailbreakAutoFarm", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/JailbreakAutoFarm.lua")
