@@ -9962,3 +9962,5 @@ addscript(986331525,"Nuke Site", "NukeSite", "Terni", "https://raw.githubusercon
     
 addscript(5853107391,"Stranger Things", "StrangerThingsStarcourtMall", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/StrangerThingsStarcourtMall.lua")
                     
+                    
+addscriptexist(6766156863, "StrongmanSimulatorGUI", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/StrongmanSimulatorGUI.lua")
