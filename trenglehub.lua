@@ -11142,3 +11142,6 @@ addscriptuniversal("RobloxUniversalScriptAntiTPBypass", "astrofile", "https://ra
                         
 addscriptuniversal("RobloxUniversalScriptNameEsp", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RobloxUniversalScriptNameEsp.lua")
     
+                        
+addscriptuniversal("RobloxUniversalScriptWalkOnWalls", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RobloxUniversalScriptWalkOnWalls.lua")
+    
