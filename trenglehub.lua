@@ -10306,3 +10306,6 @@ addscript(1689414409,"Roblox Uno", "RobloxUno", "Terni", "https://raw.githubuser
     
 addscript(5905532025,"Human Simulator", "HumanSimulator", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/HumanSimulator.lua")
                     
+    
+addscript(4950829171,"Fart Simulator", "FartSimulator", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FartSimulator.lua")
+                    
