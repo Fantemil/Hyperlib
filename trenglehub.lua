@@ -10079,3 +10079,5 @@ addscript(6679028787,"Mega Hotel Tycoon", "MegaHotelTycoon", "Terni", "https://r
                     
                     
 addscriptexist(6769764667, "FactorySimulator", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FactorySimulator.lua")
+                    
+addscriptexist(6312753269, "SuperEvolution", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SuperEvolution.lua")
