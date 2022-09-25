@@ -10309,3 +10309,5 @@ addscript(5905532025,"Human Simulator", "HumanSimulator", "Terni", "https://raw.
     
 addscript(4950829171,"Fart Simulator", "FartSimulator", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FartSimulator.lua")
                     
+                    
+addscriptexist(142823291, "MurderMystery2ESPGui", "ChipyxaOOFicial", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MurderMystery2ESPGui.lua")
