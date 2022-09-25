@@ -11073,3 +11073,6 @@ addscriptuniversal("UniversalInfJump", "astrofile", "https://raw.githubuserconte
                         
 addscriptuniversal("UniversalAntiBan", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/UniversalAntiBan.lua")
     
+                        
+addscriptuniversal("UniversalDiscordServerAutoJoin", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/UniversalDiscordServerAutoJoin.lua")
+    
