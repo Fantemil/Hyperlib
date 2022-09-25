@@ -11088,3 +11088,6 @@ addscriptuniversal("UniversalInfinityStore", "astrofile", "https://raw.githubuse
                         
 addscriptuniversal("UniversalBasicDash", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/UniversalBasicDash.lua")
     
+                        
+addscriptuniversal("RobloxUniversalNetless", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RobloxUniversalNetless.lua")
+    
