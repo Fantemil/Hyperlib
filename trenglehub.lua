@@ -10215,3 +10215,6 @@ addscriptexist(6804602922, "BoxingSimulator", "Terni", "https://raw.githubuserco
 addscriptexist(5006110264, "FireBreathingSimulator", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FireBreathingSimulator.lua")
                     
 addscriptexist(5659599095, "BloxStreets", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BloxStreets.lua")
+    
+addscript(418574428,"Downfall", "Downfall", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Downfall.lua")
+                    
