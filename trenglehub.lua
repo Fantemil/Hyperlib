@@ -9114,3 +9114,5 @@ addscript(338521019,"Identity Fraud [ESP, Cheat Bypass]", "IdentityFraudESPCheat
     
 addscript(4651779470,"RECOIL [Toggle Esp, Aim, Clear walls]", "RECOILToggleEspAimClearwalls", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RECOILToggleEspAimClearwalls.lua")
                     
+                    
+addscriptexist(137885680, "ZombieRushAutoShootAutoEquip", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ZombieRushAutoShootAutoEquip.lua")
