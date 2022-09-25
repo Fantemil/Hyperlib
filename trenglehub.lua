@@ -10939,3 +10939,5 @@ addscriptexist(3527629287, "BIGPaintballAutoKill", "Acc", "https://raw.githubuse
     
 addscript(5596703547,"Weight Lifting Simulator 5", "WeightLiftingSimulator5", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/WeightLiftingSimulator5.lua")
                     
+                    
+addscriptexist(654732683, "CarCrusher2GUI", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CarCrusher2GUI.lua")
