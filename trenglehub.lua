@@ -10249,3 +10249,6 @@ addscriptexist(2990100290, "RPGSimulator", "Terni", "https://raw.githubuserconte
     
 addscript(6048603509,"Blademaster Simulator", "BlademasterSimulator", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BlademasterSimulator.lua")
                     
+    
+addscript(5784984978,"Milk Simulator", "MilkSimulator", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MilkSimulator.lua")
+                    
