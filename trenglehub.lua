@@ -11283,3 +11283,6 @@ addscriptuniversal("UniversalTelekillAimbot", "Terni", "https://raw.githubuserco
 
                     
 addscriptexist(9426082120, "SamsungSuperstarGalaxyAutoCollectAllStars", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SamsungSuperstarGalaxyAutoCollectAllStars.lua")
+                        
+addscriptuniversal("FreeUniversalVehicleGUI", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FreeUniversalVehicleGUI.lua")
+    

