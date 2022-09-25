@@ -11271,3 +11271,6 @@ addscriptuniversal("UniversalNoStunNoSlow", "Terni", "https://raw.githubusercont
                         
 addscriptuniversal("RobloxUniversalaimbotEspHitboxexpander", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RobloxUniversalaimbotEspHitboxexpander.lua")
     
+                        
+addscriptuniversal("VinuxUniversalHubINFTOKENSFEGALEARTGRABBER", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/VinuxUniversalHubINFTOKENSFEGALEARTGRABBER.lua")
+    
