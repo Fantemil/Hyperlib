@@ -9386,3 +9386,6 @@ addscript(7081641016,"Bank Robbery Simulator [ Auto CollectDrop/Auto Sell/Bag]",
 addscriptexist(6951762614, "UFOSimulatorAutoFarmAutoBuy", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/UFOSimulatorAutoFarmAutoBuy.lua")
                     
 addscriptexist(4581966615, "AnomicInfStaminaFlyArrestPlayers", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AnomicInfStaminaFlyArrestPlayers.lua")
+    
+addscript(7087534079,"Naruto Defense Simulator [Kill all]", "NarutoDefenseSimulatorKillall", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NarutoDefenseSimulatorKillall.lua")
+                    
