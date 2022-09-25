@@ -9127,3 +9127,6 @@ addscript(7476406054,"Grow Up Simulator [AUTO-BUY, AUTO-FARM, AUTO-EGG MORE!]", 
                     
                     
 addscriptexist(4872321990, "IslandsFarmingFestivalAutoFarm", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/IslandsFarmingFestivalAutoFarm.lua")
+    
+addscript(6507107360,"Magnet Masters [FARM, AUTO-OPEN, MORE!]", "MagnetMastersFARMAUTOOPENMORE", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MagnetMastersFARMAUTOOPENMORE.lua")
+                    
