@@ -1,0 +1,1 @@
+ loadstring(game:HttpGet("https://raw.githubusercontent.com/The3Bakers4565/Spicy-Bagel/main/Other_Scripts/Arsenal/Gun_Mods.lua"))()

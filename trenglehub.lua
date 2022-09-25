@@ -9841,3 +9841,5 @@ addscriptexist(3486025575, "MagnetSimulator", "MaGiXx", "https://raw.githubuserc
 addscriptexist(6897226634, "Timber", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Timber.lua")
                     
 addscriptexist(6678877691, "ZOWIP", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ZOWIP.lua")
+                    
+addscriptexist(286090429, "ArsenalGUNMOD", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ArsenalGUNMOD.lua")
