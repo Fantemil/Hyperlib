@@ -9021,3 +9021,5 @@ addscript(3607821695,"Vietnam War Simulator [Auto Farm]", "VietnamWarSimulatorAu
 addscriptexist(4520749081, "KingLegacyGUIAUTOSTATSFARMINGESPMORE", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/KingLegacyGUIAUTOSTATSFARMINGESPMORE.lua")
                     
 addscriptexist(13822889, "LumberTycoon2COLORWOODMAXLANDMORE", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LumberTycoon2COLORWOODMAXLANDMORE.lua")
+                    
+addscriptexist(606849621, "JailbreakFASTGUI", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/JailbreakFASTGUI.lua")
