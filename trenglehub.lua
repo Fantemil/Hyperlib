@@ -10085,3 +10085,6 @@ addscriptexist(6312753269, "SuperEvolution", "Terni", "https://raw.githubusercon
 addscriptexist(4543144283, "MegaNoobSimulator", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MegaNoobSimulator.lua")
                     
 addscriptexist(5062619730, "WarSimulator", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/WarSimulator.lua")
+    
+addscript(5346447287,"Tapping Gods", "TappingGods", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TappingGods.lua")
+                    
