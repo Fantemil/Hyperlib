@@ -1,3 +1,19 @@
-_G.autofarm = true
+local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/xHeptc/Kavo-UI-Library/main/source.lua"))()
+local Window = Library.CreateLib("Babft", "Ocean")
 
-loadstring(game:HttpGet('https://gist.githubusercontent.com/cod2rx/d2a7e436d3af135d787529141e6485cc/raw/5bb4df0a94b0a3cf06f0c87a25cb6859e56d23e3/BABFT%2520Autofarm.lua'))()
+local Tab = Window:NewTab("Autofarm")
+local Section = Tab:NewSection("Autofarm")
+
+Section:NewToggle("Toggle autofarm", "ToggleInfo", function(state)
+    if state then
+        _G.autoTap = true;
+while _G.autoTap == true do 
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-61.734951, 80.9129333, 1356.86792, -0.978096783, 0.131123319, 0.161658198, 0.159390599, 0.97130245, 0.176539376, -0.133870587, 0.198439389, -0.970927656)
+wait(15)
+end
+    else
+        _G.autoTap = false;
+    end
+end)
+
+print("Ui made by zuny, thanks for using")
