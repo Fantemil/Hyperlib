@@ -10805,3 +10805,6 @@ addscriptexist(1730877806, "GrandPieceOnline", "Acc", "https://raw.githubusercon
     
 addscript(9824221333,"CBRO ARSENAL ANTI AIM", "CBROARSENALANTIAIM", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CBROARSENALANTIAIM.lua")
                     
+    
+addscript(5167508836,"YouTube Champions", "YouTubeChampions", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/YouTubeChampions.lua")
+                    
