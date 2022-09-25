@@ -10014,3 +10014,6 @@ addscript(6514274883,"Dream Island Tycoon", "DreamIslandTycoon", "Terni", "https
     
 addscript(6770817102,"Cyber Base Tycoon", "CyberBaseTycoon", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CyberBaseTycoon.lua")
                     
+    
+addscript(1583450123,"BIG BOOGA DIG", "BIGBOOGADIG", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BIGBOOGADIG.lua")
+                    
