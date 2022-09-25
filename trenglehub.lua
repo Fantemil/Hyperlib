@@ -10924,3 +10924,5 @@ addscriptexist(920587237, "AdoptMeGUI", "Acc", "https://raw.githubusercontent.co
 addscriptexist(3101667897, "LegendofSpeedAutoFarm", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LegendofSpeedAutoFarm.lua")
                     
 addscriptexist(5709572883, "LiftlegendsSimulatorFree", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LiftlegendsSimulatorFree.lua")
+                    
+addscriptexist(606849621, "JailbreakMobileGarageFree", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/JailbreakMobileGarageFree.lua")
