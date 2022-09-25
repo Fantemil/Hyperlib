@@ -8912,3 +8912,5 @@ addscriptexist(2551991523, "BrokenBonesIVInfMoneySpamChat", "Qalnik", "https://r
 addscriptexist(3956818381, "NinjaLegendsAutoSwordAutoSellUnlockallislands", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NinjaLegendsAutoSwordAutoSellUnlockallislands.lua")
                     
 addscriptexist(4246487209, "BossFightingSimulatorAutoClickSowrdAutoKillBossAutoUpgradeBackPack", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BossFightingSimulatorAutoClickSowrdAutoKillBossAutoUpgradeBackPack.lua")
+                    
+addscriptexist(443406476, "ProjectLazarusZOMBIESX10DAMAGE", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ProjectLazarusZOMBIESX10DAMAGE.lua")
