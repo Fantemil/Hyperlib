@@ -10605,3 +10605,6 @@ addscript(10963175,"Game Store Money Script", "GameStoreMoneyScript", "Acc", "ht
     
 addscript(6409175633,"Auto-Sing [NGYU]", "AutoSingNGYU", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AutoSingNGYU.lua")
                     
+    
+addscript(1252559098,"Snow Shoveling Simulator", "SnowShovelingSimulator", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SnowShovelingSimulator.lua")
+                    
