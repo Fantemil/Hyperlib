@@ -9094,3 +9094,6 @@ addscript(9557370371,"MULTI TOOLS GUI [BY TERNI]", "MULTITOOLSGUIBYTERNI", "Tern
     
 addscript(7261675971,"Anime Storm Simulator [GUI FARM]", "AnimeStormSimulatorGUIFARM", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AnimeStormSimulatorGUIFARM.lua")
                     
+    
+addscript(5985232436,"Infectious Smile [Hip Height, Reset Character]", "InfectiousSmileHipHeightResetCharacter", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/InfectiousSmileHipHeightResetCharacter.lua")
+                    
