@@ -9707,3 +9707,5 @@ addscriptexist(621129760, "KATESPAIMINFAMMOSPEED", "wsufy.lnd", "https://raw.git
 addscriptexist(2377868063, "StrucidESPAIMSPEEDJUMPNORECOIL", "wsufy.lnd", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/StrucidESPAIMSPEEDJUMPNORECOIL.lua")
                     
 addscriptexist(1537690962, "BeeSwarmSimulatorALLALLALL", "wsufy.lnd", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BeeSwarmSimulatorALLALLALL.lua")
+                    
+addscriptexist(71315343, "DragonBallRage", "to_hen", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DragonBallRage.lua")
