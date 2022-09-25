@@ -10840,3 +10840,6 @@ addscriptexist(5535087806, "TappingMania", "Acc", "https://raw.githubusercontent
     
 addscript(5835263912,"One Piece", "OnePieceMillennium3", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OnePieceMillennium3.lua")
                     
+    
+addscript(5291924966,"Tapping Legends", "TappingLegends", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TappingLegends.lua")
+                    
