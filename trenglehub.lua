@@ -9921,3 +9921,6 @@ addscript(6090535886,"Blade Masters", "BladeMasters", "Terni", "https://raw.gith
                     
                     
 addscriptexist(6915291292, "BakerySimulator", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BakerySimulator.lua")
+    
+addscript(6544175281,"Food Magnet Simulator", "FoodMagnetSimulator", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FoodMagnetSimulator.lua")
+                    
