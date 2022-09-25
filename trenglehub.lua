@@ -10441,3 +10441,5 @@ addscriptexist(1537690962, "BeeSwarmSimulatorv2", "Acc", "https://raw.githubuser
 addscriptexist(1499872953, "BokuNoRobloxRemastered", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BokuNoRobloxRemastered.lua")
                     
 addscriptexist(3527629287, "BIGPaintball", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BIGPaintball.lua")
+                    
+addscriptexist(3351674303, "DrivingSimulator", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DrivingSimulator.lua")
