@@ -10943,3 +10943,5 @@ addscript(5596703547,"Weight Lifting Simulator 5", "WeightLiftingSimulator5", "A
 addscriptexist(654732683, "CarCrusher2GUI", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CarCrusher2GUI.lua")
                     
 addscriptexist(443406476, "ProjectLazarusZOMBIES", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ProjectLazarusZOMBIES.lua")
+                    
+addscriptexist(205224386, "HideandSeek", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/HideandSeek.lua")
