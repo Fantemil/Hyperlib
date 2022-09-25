@@ -9142,3 +9142,5 @@ addscript(5229400211,"Battle-Gods-Simulator [Auto-Buy, Auto-Farm, MORE!]", "Batt
     
 addscript(1167791961,"Knife Simulator [MONEY FARM,AIM]", "KnifeSimulatorMONEYFARMAIM", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/KnifeSimulatorMONEYFARMAIM.lua")
                     
+                    
+addscriptexist(6284583030, "PetSimulatorXPETSDUPENEWAUTOFARMMORE2021", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PetSimulatorXPETSDUPENEWAUTOFARMMORE2021.lua")
