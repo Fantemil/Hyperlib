@@ -10699,3 +10699,5 @@ addscriptexist(4616652839, "ShindoLifeALLGUI", "Acc", "https://raw.githubusercon
     
 addscript(4500662699,"Blood Moon Tycoon 2", "BloodMoonTycoon2", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BloodMoonTycoon2.lua")
                     
+                    
+addscriptexist(3272915504, "WorldofMagic", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/WorldofMagic.lua")
