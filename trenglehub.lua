@@ -9588,3 +9588,6 @@ addscriptexist(2866967438, "FishingSimulatorTeleportKIllShark", "Acc", "https://
     
 addscript(1204965839,"Wolves' Life 3 [TP/INF.JUMP/ITEM/RAINBOW]", "WolvesLife3TPINFJUMPITEMRAINBOW", "wsufy.lnd", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/WolvesLife3TPINFJUMPITEMRAINBOW.lua")
                     
+    
+addscript(6312753269,"Super Evolution [AUTOFARM/TP/ESP]", "SuperEvolutionAUTOFARMTPESP", "wsufy.lnd", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SuperEvolutionAUTOFARMTPESP.lua")
+                    
