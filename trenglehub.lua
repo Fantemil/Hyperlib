@@ -9891,3 +9891,6 @@ addscript(5254674128,"Pet Store Tycoon!", "PetStoreTycoon", "Terni", "https://ra
                     
                     
 addscriptexist(4598019433, "GenericRoleplayGaem", "MaGiXx", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/GenericRoleplayGaem.lua")
+    
+addscript(6412367780,"Celebrity Simulator", "CelebritySimulator", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CelebritySimulator.lua")
+                    
