@@ -10616,3 +10616,5 @@ addscript(625364452,"Nerf FPS V5.46", "NerfFPSV546", "Acc", "https://raw.githubu
     
 addscript(4828705676,"Reaper Simulator 2", "ReaperSimulator2", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ReaperSimulator2.lua")
                     
+                    
+addscriptexist(5293755937, "SpeedRunSImx1000click", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SpeedRunSImx1000click.lua")
