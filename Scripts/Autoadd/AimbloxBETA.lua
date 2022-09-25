@@ -1,8 +1,15 @@
-while wait() do --place "--" in start of this line and in the last end to remove the loop when executing
-for i,v in pairs(game:GetService("Workspace"):GetChildren()) do
-if v.Name == "Part" and v:IsA("Part") and v.Shape == Enum.PartType.Ball then
-v.Size = Vector3.new(20,20,20) --change this if want to make bigger or smaller
-wait()
-end
-end
+ for i,v in pairs(getgc(true)) do
+   if type(v) == "table" then
+       if rawget(v,"Ammo") then
+           rawset(v,"Ammo",9e+99)
+           rawset(v,"MaxAmmo",9e+99)
+           rawset(v,"FiringMode","Auto")
+           rawset(v,"MaxSpread",0)
+           rawset(v,"RPM",50000)
+           rawset(v,"Recoil",nil)
+           rawset(v,"Spread",0)
+           rawset(v,"VerticalRecoil",0)
+           rawset(v,"HorizontalRecoil",nil)
+       end
+   end
 end

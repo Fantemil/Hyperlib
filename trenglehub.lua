@@ -10019,3 +10019,6 @@ addscript(1583450123,"BIG BOOGA DIG", "BIGBOOGADIG", "Terni", "https://raw.githu
                     
                     
 addscriptexist(1224212277, "MadCityGUI", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MadCityGUI.lua")
+    
+addscript(6817892742,"Build and Sail", "BuildandSail", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BuildandSail.lua")
+                    
