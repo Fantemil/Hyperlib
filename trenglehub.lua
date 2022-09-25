@@ -10654,3 +10654,5 @@ addscriptexist(6512923934, "noclipespclicktparsenal", "Acc", "https://raw.github
     
 addscript(5314315093,"IQ Obby", "IQObby", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/IQObby.lua")
                     
+                    
+addscriptexist(277751860, "EpicMinigames", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/EpicMinigames.lua")
