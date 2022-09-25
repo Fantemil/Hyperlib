@@ -10757,3 +10757,5 @@ addscript(5000625666,"Car Tycoon! Demo", "CarTycoonDemo", "Acc", "https://raw.gi
     
 addscript(4399032158,"Thick Legends", "ThickLegends", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ThickLegends.lua")
                     
+                    
+addscriptexist(301549746, "CounterBloxaimbotESP", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CounterBloxaimbotESP.lua")

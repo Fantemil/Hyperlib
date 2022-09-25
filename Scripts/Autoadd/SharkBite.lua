@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://pastebinp.com/raw/psAEjtGF", true))()
+loadstring(rawget(game:GetObjects("rbxassetid://3623753581"), 1).Source)("Pepsi Byte")
