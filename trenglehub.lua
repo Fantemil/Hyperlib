@@ -10295,3 +10295,5 @@ addscriptexist(286090429, "ArsenalNewGui", "TSQ", "https://raw.githubusercontent
     
 addscript(5265888165,"Ninja Clicker Simulator", "NinjaClickerSimulator", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NinjaClickerSimulator.lua")
                     
+                    
+addscriptexist(155615604, "PrisonLifeGui", "ChipyxaOOFicial", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PrisonLifeGui.lua")
