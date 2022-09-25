@@ -10891,3 +10891,5 @@ addscriptexist(920587237, "AdoptMeGui", "Acc", "https://raw.githubusercontent.co
     
 addscript(5083731857,"Saitama Simulator AutoFarm", "SaitamaSimulatorAutoFarm", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SaitamaSimulatorAutoFarm.lua")
                     
+                    
+addscriptexist(566399244, "ElementalBattlegrounds", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ElementalBattlegrounds.lua")
