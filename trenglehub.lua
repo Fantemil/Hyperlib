@@ -9236,3 +9236,5 @@ addscript(164051105,"Super Bomb Survival [AUTO-WIN]", "SuperBombSurvivalAUTOWIN"
                     
                     
 addscriptexist(4545436299, "PetClicksSimulatorINFGEMSFARMMONEY", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PetClicksSimulatorINFGEMSFARMMONEY.lua")
+                    
+addscriptexist(3607821695, "VietnamWarSimulator", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/VietnamWarSimulator.lua")
