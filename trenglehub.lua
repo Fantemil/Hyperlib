@@ -11051,3 +11051,6 @@ addscriptexist(9611809130, "CrazyPartyRPGTpToCrabArea", "astrofile", "https://ra
 
                     
 addscriptexist(7138009149, "PHIGHTINGALPHAInfinityMoneyandGems", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PHIGHTINGALPHAInfinityMoneyandGems.lua")
+
+                    
+addscriptexist(6516141723, "DOORSInstantInteractSkipLevels", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DOORSInstantInteractSkipLevels.lua")
