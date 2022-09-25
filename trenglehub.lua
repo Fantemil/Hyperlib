@@ -8982,3 +8982,5 @@ addscriptexist(4282985734, "CombatWarriorsKILLAURAAUTOPARRYESP", "Terni", "https
 addscriptexist(7244314500, "FightmanSimulatorAUTOFARMUSEALLCODES", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FightmanSimulatorAUTOFARMUSEALLCODES.lua")
                     
 addscriptexist(142823291, "MurderMystery2AUTOFARMKILLALLMORE", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MurderMystery2AUTOFARMKILLALLMORE.lua")
+                    
+addscriptexist(185655149, "BloxburgALLAUTOFARMAUTODRIVEANTIAFK", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BloxburgALLAUTOFARMAUTODRIVEANTIAFK.lua")
