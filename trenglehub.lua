@@ -9897,3 +9897,6 @@ addscript(6412367780,"Celebrity Simulator", "CelebritySimulator", "Terni", "http
     
 addscript(6156903749,"Clicker Lords", "ClickerLords", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ClickerLords.lua")
                     
+    
+addscript(6459707978,"Delivery Simulator", "DeliverySimulator", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DeliverySimulator.lua")
+                    
