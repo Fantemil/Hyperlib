@@ -9719,3 +9719,5 @@ addscriptexist(2376885433, "VesteriaFLYTPPLTPAUTOFARM", "wsufy.lnd", "https://ra
 addscriptexist(4872321990, "IslandsAUTOFARMKILLALLTPINFITEMS", "wsufy.lnd", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/IslandsAUTOFARMKILLALLTPINFITEMS.lua")
                     
 addscriptexist(2986677229, "GiantSimulator", "to_hen", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/GiantSimulator.lua")
+                    
+addscriptexist(606849621, "JailbreakGoodcheat", "DED SHOT", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/JailbreakGoodcheat.lua")
