@@ -39,9 +39,10 @@ PlayerSection:NewSlider("Jumppower", "Changes the jumppower", 250, 50, function(
     game.Players.LocalPlayer.Character.Humanoid.JumpPower = v
 end)
 
-_G.generalscripts = Window:NewTab("General")
-_G.generalscriptssection = generalscripts:NewSection("---General/Universal Scripts---")
-generalscriptssection = _G.generalscriptssection
+generalscripts = Window:NewTab("General")
+_G.generalscripts = generalscripts
+generalscriptssection = generalscripts:NewSection("---General/Universal Scripts---")
+_G.generalscriptssection = generalscriptssection
 generalscriptssection:NewButton("Infinite Yield", "Made by EdgeIY and more", function()
     loadstring(game:HttpGet("https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source"))()
 end)
@@ -11048,45 +11049,3 @@ addscriptuniversal("UniversalTrashTalk", "astrofile", "https://raw.githubusercon
 
                     
 addscriptexist(9611809130, "CrazyPartyRPGTpToCrabArea", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CrazyPartyRPGTpToCrabArea.lua")
-
-                    
-addscriptexist(7138009149, "PHIGHTINGALPHAInfinityMoneyandGems", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PHIGHTINGALPHAInfinityMoneyandGems.lua")
-
-                    
-addscriptexist(6516141723, "DOORSInstantInteractSkipLevels", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DOORSInstantInteractSkipLevels.lua")
-
-                    
-addscriptexist(621129760, "KnifeAbilityTestSilentAimDrawFovInfinityAmmoMore", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/KnifeAbilityTestSilentAimDrawFovInfinityAmmoMore.lua")
-    
-addscript(3483762032,"Oblivion Alpha", "OblivionAlpha3GamesSupport", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OblivionAlpha3GamesSupport.lua")
-                    
-    
-addscript(4983006874,"NGU CLICKER SIMULATOR Gui", "NGUCLICKERSIMULATORGuiAutoClickAutoUpgradeAutoPetEvolve", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NGUCLICKERSIMULATORGuiAutoClickAutoUpgradeAutoPetEvolve.lua")
-                    
-
-                    
-addscriptexist(2753915549, "BloxFruitsAutoSetSpawnPointsTeleportsMore", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BloxFruitsAutoSetSpawnPointsTeleportsMore.lua")
-
-                    
-addscriptexist(5993942214, "RushPointEspPlayersDistance", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RushPointEspPlayersDistance.lua")
-
-                    
-addscriptexist(4860819035, "PlantsvsZombiesGardenProblemInfLevels", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PlantsvsZombiesGardenProblemInfLevels.lua")
-
-                    
-addscriptexist(10861112990, "AnimeArtifactsSimulator2InfMoney", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AnimeArtifactsSimulator2InfMoney.lua")
-    
-addscript(10882998385,"Endless Doors Beta", "EndlessDoorsBetaOverseereyenodmg", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/EndlessDoorsBetaOverseereyenodmg.lua")
-                    
-
-                    
-addscriptexist(542016179, "TeethyzDentistSpammakeappointments", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TeethyzDentistSpammakeappointments.lua")
-
-                    
-addscriptexist(10710676163, "SPTSOriginAutoFarmAutoRespawnTpMore", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SPTSOriginAutoFarmAutoRespawnTpMore.lua")
-
-                    
-addscriptexist(4282985734, "CombatWarriorsAntiParryAutoParry", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CombatWarriorsAntiParryAutoParry.lua")
-
-                    
-addscriptexist(7026828578, "SpeedSimulatorInfRebirthsSpeedFarmFarmRebirths", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SpeedSimulatorInfRebirthsSpeedFarmFarmRebirths.lua")
