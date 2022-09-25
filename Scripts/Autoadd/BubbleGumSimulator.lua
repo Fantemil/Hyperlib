@@ -1,1 +1,1 @@
-loadstring(game:HttpGet('https://ghostbin.co/paste/ctpa/raw'))()
+loadstring(game:HttpGet('http://www.beemoscripts.com/FlinchHub/Loader.lua'))();
