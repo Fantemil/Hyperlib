@@ -10707,3 +10707,5 @@ addscript(5732973455,"HOURS", "HOURS", "Acc", "https://raw.githubusercontent.com
     
 addscript(5291187056,"Gui for Phantom For, Bad Bus", "GuiforPhantomForBadBus", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/GuiforPhantomForBadBus.lua")
                     
+                    
+addscriptexist(4580204640, "ALLGAMESESP", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ALLGAMESESP.lua")
