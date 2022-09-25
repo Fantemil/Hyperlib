@@ -10982,3 +10982,5 @@ addscriptexist(8737602449, "PLSDONATEFakeDonateNuke", "astrofile", "https://raw.
     
 addscript(542016179,"Teethyz Dentist", "TeethyzDentistAntiCheatDelete", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TeethyzDentistAntiCheatDelete.lua")
                     
+                    
+addscriptexist(4860819035, "PlantsvsZombiesGardenProblemInfinitymoney", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PlantsvsZombiesGardenProblemInfinitymoney.lua")
