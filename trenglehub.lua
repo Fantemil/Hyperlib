@@ -10675,3 +10675,6 @@ addscriptexist(5942932659, "Wormface", "Acc", "https://raw.githubusercontent.com
 addscriptexist(648362523, "BreakingPoint", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BreakingPoint.lua")
                     
 addscriptexist(606849621, "JailbreakALLROBS", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/JailbreakALLROBS.lua")
+    
+addscript(3852084464,"Auto-Sing [Revenge]", "AutoSingRevenge", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AutoSingRevenge.lua")
+                    
