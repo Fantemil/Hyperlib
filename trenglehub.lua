@@ -9725,3 +9725,6 @@ addscriptexist(606849621, "JailbreakGoodcheat", "DED SHOT", "https://raw.githubu
 addscriptexist(6299805723, "AnimeFightersSimulatorNewAutoFarm", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AnimeFightersSimulatorNewAutoFarm.lua")
                     
 addscriptexist(4855457388, "DemonfallAutoFarmNoCD", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DemonfallAutoFarmNoCD.lua")
+    
+addscript(5551657553,"Business Legends", "BusinessLegends", "to_hen", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BusinessLegends.lua")
+                    
