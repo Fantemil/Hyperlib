@@ -10897,3 +10897,5 @@ addscriptexist(566399244, "ElementalBattlegrounds", "Acc", "https://raw.githubus
 addscriptexist(301549746, "CounterBloxSkinChanger", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CounterBloxSkinChanger.lua")
                     
 addscriptexist(914010731, "RoGhoulAutoFarm", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RoGhoulAutoFarm.lua")
+                    
+addscriptexist(1224212277, "MadCitySuperGUI", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MadCitySuperGUI.lua")

@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://system-exodus.com/scripts/madlads/MadLads.lua",true))()
