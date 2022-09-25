@@ -10352,3 +10352,5 @@ addscript(4926599832,"My Donut Store", "MyDonutStore", "Terni", "https://raw.git
     
 addscript(6368458125,"PolyCityRP", "PolyCityRP", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PolyCityRP.lua")
                     
+                    
+addscriptexist(286090429, "ArsenalGUI", "DeathDemon", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ArsenalGUI.lua")
