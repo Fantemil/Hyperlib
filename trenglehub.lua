@@ -11078,3 +11078,6 @@ addscriptexist(10861112990, "AnimeArtifactsSimulator2InfMoney", "Qalnik", "https
     
 addscript(10882998385,"Endless Doors Beta", "EndlessDoorsBetaOverseereyenodmg", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/EndlessDoorsBetaOverseereyenodmg.lua")
                     
+
+                    
+addscriptexist(542016179, "TeethyzDentistSpammakeappointments", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TeethyzDentistSpammakeappointments.lua")
