@@ -8906,3 +8906,5 @@ addscriptexist(4580204640, "SurvivetheKillerKillEspAfkFarmTeleporttodoor", "Qaln
 addscriptexist(166986752, "PlaneCrazyKillPlayerWithSeatsTrapPlayer", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PlaneCrazyKillPlayerWithSeatsTrapPlayer.lua")
                     
 addscriptexist(413424176, "CloneTycoon2KikBanPlayerInfiniteCashGemsGiantclone", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CloneTycoon2KikBanPlayerInfiniteCashGemsGiantclone.lua")
+                    
+addscriptexist(2551991523, "BrokenBonesIVInfMoneySpamChat", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BrokenBonesIVInfMoneySpamChat.lua")
