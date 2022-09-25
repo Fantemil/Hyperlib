@@ -10065,3 +10065,5 @@ addscriptexist(3823781113, "SaberSimulator", "Terni", "https://raw.githubusercon
     
 addscript(6495194916,"Dinosaur City", "DinosaurCity", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DinosaurCity.lua")
                     
+                    
+addscriptexist(5320510816, "MadCityFARMXp", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MadCityFARMXp.lua")
