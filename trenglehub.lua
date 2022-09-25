@@ -10620,3 +10620,6 @@ addscript(4828705676,"Reaper Simulator 2", "ReaperSimulator2", "Acc", "https://r
 addscriptexist(5293755937, "SpeedRunSImx1000click", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SpeedRunSImx1000click.lua")
                     
 addscriptexist(286090429, "Arsenalv2", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Arsenalv2.lua")
+    
+addscript(5942932659,"Wormface AUTO FARM", "WormfaceAUTOFARM", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/WormfaceAUTOFARM.lua")
+                    
