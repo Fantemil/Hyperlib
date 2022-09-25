@@ -9430,3 +9430,6 @@ addscript(6137522359,"Super Speed Simulator [Auto Farm/Collect All Orbs/Anti Afk
 addscriptexist(6186867282, "ProjectXLAutoFarmRedeemallCodesGetQuests", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ProjectXLAutoFarmRedeemallCodesGetQuests.lua")
                     
 addscriptexist(6284583030, "PetSimulatorXAutoFarmAutoCollectCoinsAutoopeneggs", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PetSimulatorXAutoFarmAutoCollectCoinsAutoopeneggs.lua")
+    
+addscript(7182803956,"The Lift [God mode]", "TheLiftGodmode", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TheLiftGodmode.lua")
+                    
