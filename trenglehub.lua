@@ -11289,3 +11289,6 @@ addscriptuniversal("FreeUniversalVehicleGUI", "Terni", "https://raw.githubuserco
                         
 addscriptuniversal("RobloxUniversalhub", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RobloxUniversalhub.lua")
     
+                        
+addscriptuniversal("AUniversalTimeChestsserverhop", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AUniversalTimeChestsserverhop.lua")
+    

@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://scriptblox.com/raw/full-anticheat-bypass_642",ownerofthisgame==retarded))()
+{"message":"Script not found with this id!"}

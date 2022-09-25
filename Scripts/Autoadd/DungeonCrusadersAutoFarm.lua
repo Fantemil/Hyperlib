@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://rawscripts.net/raw/Dungeon-Crusaders-TESTING-Autofarm-1496",true))()
+{"message":"Script not found with this id!"}

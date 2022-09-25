@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://scriptblox.com/raw/one-piece-or-op_546"))()
+loadstring(game:HttpGet('https://raw.githubusercontent.com/LeadMarker/Scripts/main/OnePieceBurtingRage.lua'))()
