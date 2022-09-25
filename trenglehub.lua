@@ -9088,3 +9088,6 @@ addscript(7393403076,"Anime Artifacts Simulator [AUTO-COINS, AUTO-FARM MORE!]", 
                     
                     
 addscriptexist(920587237, "AdoptMePETFARM", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AdoptMePETFARM.lua")
+    
+addscript(9557370371,"MULTI TOOLS GUI [BY TERNI]", "MULTITOOLSGUIBYTERNI", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MULTITOOLSGUIBYTERNI.lua")
+                    
