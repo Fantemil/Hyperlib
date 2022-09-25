@@ -9736,3 +9736,5 @@ addscriptexist(1240123653, "ZombieAttackNew", "to_hen", "https://raw.githubuserc
 addscriptexist(2809202155, "YourBizarreAdventureXenonCracked", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/YourBizarreAdventureXenonCracked.lua")
                     
 addscriptexist(2809202155, "YourBizarreAdventureAutoFarm", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/YourBizarreAdventureAutoFarm.lua")
+                    
+addscriptexist(920587237, "AdoptMePlayerMiscAutoFarm", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AdoptMePlayerMiscAutoFarm.lua")
