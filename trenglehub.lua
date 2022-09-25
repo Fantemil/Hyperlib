@@ -9091,3 +9091,6 @@ addscriptexist(920587237, "AdoptMePETFARM", "Terni", "https://raw.githubusercont
     
 addscript(9557370371,"MULTI TOOLS GUI [BY TERNI]", "MULTITOOLSGUIBYTERNI", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MULTITOOLSGUIBYTERNI.lua")
                     
+    
+addscript(7261675971,"Anime Storm Simulator [GUI FARM]", "AnimeStormSimulatorGUIFARM", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AnimeStormSimulatorGUIFARM.lua")
+                    
