@@ -11067,3 +11067,6 @@ addscriptuniversal("UniversalMakeaPart", "astrofile", "https://raw.githubusercon
                         
 addscriptuniversal("UniversalChatBypasser", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/UniversalChatBypasser.lua")
     
+                        
+addscriptuniversal("UniversalInfJump", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/UniversalInfJump.lua")
+    

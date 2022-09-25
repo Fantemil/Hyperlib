@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://pastebin.com/raw/XV86BsQa"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/OopssSorry/OopssGui/main/Military%20Tycoon%20%7C%20ui%20auto%20farm.lua"))()
