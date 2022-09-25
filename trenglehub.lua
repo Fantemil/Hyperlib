@@ -9713,3 +9713,5 @@ addscriptexist(71315343, "DragonBallRage", "to_hen", "https://raw.githubusercont
 addscriptexist(6888253864, "WackyWizards", "to_hen", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/WackyWizards.lua")
                     
 addscriptexist(192800, "Workinapizzeria", "to_hen", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Workinapizzeria.lua")
+                    
+addscriptexist(2376885433, "VesteriaFLYTPPLTPAUTOFARM", "wsufy.lnd", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/VesteriaFLYTPPLTPAUTOFARM.lua")
