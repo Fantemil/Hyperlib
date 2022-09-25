@@ -9099,3 +9099,5 @@ addscript(5985232436,"Infectious Smile [Hip Height, Reset Character]", "Infectio
                     
                     
 addscriptexist(7336128600, "PetLegendsAutoFarmAntiAfkAutoOpenEggs", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PetLegendsAutoFarmAntiAfkAutoOpenEggs.lua")
+                    
+addscriptexist(6432407703, "BigCityTycoonFARMINGMONEY", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BigCityTycoonFARMINGMONEY.lua")
