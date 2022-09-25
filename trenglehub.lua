@@ -10283,3 +10283,5 @@ addscript(4520536611,"Fitness Simulator", "FitnessSimulator", "Terni", "https://
     
 addscript(6485529694,"Bee Sim NEW GUI", "BeeSimNEWGUI", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BeeSimNEWGUI.lua")
                     
+                    
+addscriptexist(137885680, "ZombieRushGUI", "ChipyxaOOFicial", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ZombieRushGUI.lua")
