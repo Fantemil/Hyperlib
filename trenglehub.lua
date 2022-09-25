@@ -9824,3 +9824,6 @@ addscript(6997540091,"Flower Magnet Simulator NEW GUI!", "FlowerMagnetSimulatorN
                     
                     
 addscriptexist(4042427666, "AnimeFightingSimulator", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AnimeFightingSimulator.lua")
+    
+addscript(6659645288,"Gold Rush", "GoldRush", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/GoldRush.lua")
+                    
