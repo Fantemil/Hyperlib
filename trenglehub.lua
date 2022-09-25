@@ -9685,3 +9685,5 @@ addscriptexist(654732683, "CarCrushers2AUTOFARMINFPARTSSPEEDINFJUMP", "wsufy.lnd
     
 addscript(6888253864,"Wacky Wizards [Inf Jump/Btools/Fly]", "WackyWizardsInfJumpBtoolsFly", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/WackyWizardsInfJumpBtoolsFly.lua")
                     
+                    
+addscriptexist(6872265039, "BedwarsANTIKNOCKBACKKILLAURAESP", "wsufy.lnd", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BedwarsANTIKNOCKBACKKILLAURAESP.lua")
