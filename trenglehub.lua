@@ -9540,3 +9540,5 @@ addscriptexist(4616652839, "ShindoAUTOQUEST", "Qalnik", "https://raw.githubuserc
 addscriptexist(621129760, "KATAimKillallEsp", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/KATAimKillallEsp.lua")
                     
 addscriptexist(7177496972, "AnimeWarriorsAutoFarmAutoReplayFlyPart", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AnimeWarriorsAutoFarmAutoReplayFlyPart.lua")
+                    
+addscriptexist(914010731, "RoGhoulAutoTaskAutoTrainerTeleport", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RoGhoulAutoTaskAutoTrainerTeleport.lua")
