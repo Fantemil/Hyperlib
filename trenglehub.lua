@@ -8847,3 +8847,5 @@ addscriptexist(654732683, "CarCrushers2FlyAutoFarmNoclip", "Qalnik", "https://ra
 addscriptexist(2986677229, "GiantSimulatorAutoFarm", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/GiantSimulatorAutoFarm.lua")
                     
 addscriptexist(6512923934, "UltraClickersAutoFarm", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/UltraClickersAutoFarm.lua")
+                    
+addscriptexist(2753915549, "BloxFruitsAutoFarmFastAttack", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BloxFruitsAutoFarmFastAttack.lua")
