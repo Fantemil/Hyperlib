@@ -11265,3 +11265,6 @@ addscriptuniversal("RobloxUniversalESPGUI", "Terni", "https://raw.githubusercont
                         
 addscriptuniversal("UniversalEsp", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/UniversalEsp.lua")
     
+                        
+addscriptuniversal("UniversalNoStunNoSlow", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/UniversalNoStunNoSlow.lua")
+    
