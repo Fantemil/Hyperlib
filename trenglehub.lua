@@ -8814,3 +8814,5 @@ addscriptexist(1224212277, "MadCityInfiniteAmmo", "rbxscript", "https://raw.gith
 addscriptexist(4580204640, "SurvivetheKillerTpDoorAfkFArmEsp", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SurvivetheKillerTpDoorAfkFArmEsp.lua")
                     
 addscriptexist(4566572536, "VehicleLegendsAutoCollectCoins", "rbxscript", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/VehicleLegendsAutoCollectCoins.lua")
+                    
+addscriptexist(534701013, "TheLabyrinthAutoFarmEspAutoInvisible", "rbxscript", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TheLabyrinthAutoFarmEspAutoInvisible.lua")
