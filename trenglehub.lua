@@ -9267,3 +9267,5 @@ addscriptexist(7082539621, "AnimeDestroyersSimulatorOPENSOURSE", "Terni", "https
 addscriptexist(142823291, "MurderMystery2KILLALLESP", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MurderMystery2KILLALLESP.lua")
                     
 addscriptexist(6573910231, "ProjectStarMOBSFARM", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ProjectStarMOBSFARM.lua")
+                    
+addscriptexist(920587237, "AdoptMeBabyAutoFarmBuyeggAutoHealothers", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AdoptMeBabyAutoFarmBuyeggAutoHealothers.lua")
