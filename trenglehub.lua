@@ -9569,3 +9569,5 @@ addscript(6808489605,"Aimblox BETA [Aim / Esp / Character]", "AimbloxBETAAimEspC
                     
                     
 addscriptexist(171391948, "VehicleSimulatorAutoFarmx2FlySuperCar", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/VehicleSimulatorAutoFarmx2FlySuperCar.lua")
+                    
+addscriptexist(189707, "NaturalDisasterSurvivalAutosafeTpSpeed", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NaturalDisasterSurvivalAutosafeTpSpeed.lua")
