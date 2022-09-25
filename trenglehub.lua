@@ -10428,3 +10428,5 @@ addscriptexist(606849621, "JailBreak", "Acc", "https://raw.githubusercontent.com
     
 addscript(5902977746,"Ultimate Tower Defense Sim", "UltimateTowerDefenseSim", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/UltimateTowerDefenseSim.lua")
                     
+                    
+addscriptexist(2619187362, "SuperPowerFightingSimulator", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SuperPowerFightingSimulator.lua")
