@@ -11019,3 +11019,9 @@ addscript(10861112990,"Anime Artifacts Simulator 2", "AnimeArtifactsSimulator2In
 
                     
 addscriptexist(2537430692, "JengaTpToolTpToDestroyermore", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/JengaTpToolTpToDestroyermore.lua")
+                        
+addscriptuniversal("UniversalExplorer", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/UniversalExplorer.lua"
+    
+
+                    
+addscriptexist(2537430692, "UniversalExplorer", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/UniversalExplorer.lua")
