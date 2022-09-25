@@ -9603,3 +9603,5 @@ addscriptexist(4058282580, "BoxingSimulatorAUTOFARMALLISLANDSCOINS", "wsufy.lnd"
 addscriptexist(537413528, "BuildABoatForTreasureOPAUTOFARM", "wsufy.lnd", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BuildABoatForTreasureOPAUTOFARM.lua")
                     
 addscriptexist(6284583030, "PetSimulatorXGetallShopItemsforFree", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PetSimulatorXGetallShopItemsforFree.lua")
+                    
+addscriptexist(4520749081, "KingLegacyAUTOFARMESPTP", "wsufy.lnd", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/KingLegacyAUTOFARMESPTP.lua")
