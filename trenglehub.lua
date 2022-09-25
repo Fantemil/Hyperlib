@@ -8893,3 +8893,5 @@ addscriptexist(7239452266, "PopItSimulatorInfinitiGemsMoney", "Acc", "https://ra
 addscriptexist(4580204640, "SurvivetheKillerRemoveESPCreateESPRefreshESP", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SurvivetheKillerRemoveESPCreateESPRefreshESP.lua")
                     
 addscriptexist(7940932746, "RobloxReconnected", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RobloxReconnected.lua")
+                    
+addscriptexist(537413528, "BuildABoatForTreasureAutoFarmAutoBuildImage", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BuildABoatForTreasureAutoFarmAutoBuildImage.lua")
