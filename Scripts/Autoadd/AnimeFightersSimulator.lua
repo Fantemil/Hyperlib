@@ -59,12 +59,12 @@ e:Toggle("AntiAfk",function(bool)
 end)
 
 --Credits
-u:Button("maxgat5#8395",function()
-    setclipboard("maxgat5#8395")
+u:Button("Lunaaa#2912",function()
+    setclipboard("Lunaaa#2912")
 end)
  
-u:Button("Discord Server",function()
-    setclipboard("https://discord.gg/K4txdRSVfq")
+u:Button("Discord server for updates",function()
+    setclipboard("https://discord.gg/tGkcYjrM4z")
 end)
 
 while wait() do
@@ -85,18 +85,9 @@ while wait() do
                     if v.Value == game.Players.LocalPlayer then
                         if v.Parent.Attacking.Value == nil then
                             game:GetService("Players").LocalPlayer.CameraMaxZoomDistance = 0
-                            local tweenInfo = TweenInfo.new(
-                            0
-                            )
-                            local t = game.TweenService:Create(game.Players.LocalPlayer.Character.PrimaryPart, tweenInfo, {CFrame = CFrame.new(
-                            ClosestPart().CFrame.Position + Vector3.new(0,0,0)
-                            )})
-                            game.Players.LocalPlayer.Character.PrimaryPart.Anchored = true 
-                            t:Play()
-                            wait(0)
+                            game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(ClosestPart().CFrame.Position + Vector3.new(0,0,0))
                             mouse1press() wait() mouse1release()
                         else
-                            game.Players.LocalPlayer.Character.PrimaryPart.Anchored = false
                             game:GetService("Players").LocalPlayer.CameraMaxZoomDistance = 128
                         end
                     end
