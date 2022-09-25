@@ -11045,3 +11045,6 @@ addscriptexist(5732973455, "HOURSUnlockAll", "astrofile", "https://raw.githubuse
                         
 addscriptuniversal("UniversalTrashTalk", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/UniversalTrashTalk.lua")
     
+
+                    
+addscriptexist(9611809130, "CrazyPartyRPGTpToCrabArea", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CrazyPartyRPGTpToCrabArea.lua")
