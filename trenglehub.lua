@@ -10177,3 +10177,5 @@ addscript(5614655179,"Ultimate Admin Script", "UltimateAdminScript", "ChipyxaOOF
 addscriptexist(5827078246, "CoinsHeroSimulator", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CoinsHeroSimulator.lua")
                     
 addscriptexist(2753915549, "BloxFruits", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BloxFruits.lua")
+                    
+addscriptexist(2629642516, "BitcoinMiner", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BitcoinMiner.lua")
