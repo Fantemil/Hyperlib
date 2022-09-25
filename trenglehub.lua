@@ -9344,3 +9344,6 @@ addscript(4958515691,"Gladiator Simulator [Auto Train]", "GladiatorSimulatorAuto
 addscriptexist(6284583030, "PetSimulatorXCrushServer", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PetSimulatorXCrushServer.lua")
                     
 addscriptexist(155382109, "SurviveandKilltheKillersinArea51TeleportGetallGunsCodeChecker", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SurviveandKilltheKillersinArea51TeleportGetallGunsCodeChecker.lua")
+    
+addscript(1069951594,"Fall of Hell [Auto Win/+Time/Freeze Parts]", "FallofHellAutoWinTimeFreezeParts", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FallofHellAutoWinTimeFreezeParts.lua")
+                    
