@@ -10362,3 +10362,5 @@ addscript(5151156182,"Pet Heroes", "PetHeroes", "Ykpon", "https://raw.githubuser
                     
                     
 addscriptexist(4520749081, "KingLegacy", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/KingLegacy.lua")
+                    
+addscriptexist(621129760, "KATaim", "ChipyxaOOFicial", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/KATaim.lua")

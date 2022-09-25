@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://ghostbin.co/paste/3mdx", true))()
+ loadstring(game:GetObjects('rbxassetid://4739080077')[1].Source)()
