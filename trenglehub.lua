@@ -9411,3 +9411,5 @@ addscriptexist(7065731541, "SpeedmanSimulatorAutoEnergyAutoSpeedAutorebirth", "Q
     
 addscript(5837160206,"ACS [FireRate/Norecoil/Spread]", "ACSFireRateNorecoilSpread", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ACSFireRateNorecoilSpread.lua")
                     
+                    
+addscriptexist(6766156863, "StrongmanSimulatorAutoFarmWalkSpeedGetallBadges", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/StrongmanSimulatorAutoFarmWalkSpeedGetallBadges.lua")
