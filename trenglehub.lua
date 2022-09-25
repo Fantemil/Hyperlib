@@ -10961,3 +10961,5 @@ addscriptexist(537413528, "BuildABoatGui", "Acc", "https://raw.githubusercontent
 addscriptexist(606849621, "JailBreakGui", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/JailBreakGui.lua")
                     
 addscriptexist(171391948, "VehicleSimulatorGui", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/VehicleSimulatorGui.lua")
+                    
+addscriptexist(286090429, "ArsenalGui", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ArsenalGui.lua")
