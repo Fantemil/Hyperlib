@@ -10483,3 +10483,6 @@ addscriptexist(4616652839, "ShindoLife", "Acc", "https://raw.githubusercontent.c
     
 addscript(5600963870,"Shark Evolution", "SharkEvolution", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SharkEvolution.lua")
                     
+    
+addscript(4934958405,"Fruit Collecting Sim Script", "FruitCollectingSimScript", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FruitCollectingSimScript.lua")
+                    
