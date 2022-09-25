@@ -9423,3 +9423,6 @@ addscriptexist(6875469709, "StrongestPunchSimulatorAutoClickerAutoCollectOrbsNoc
 addscriptexist(2376885433, "VesteriaAutoFarmGodmodeKillAura", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/VesteriaAutoFarmGodmodeKillAura.lua")
                     
 addscriptexist(893973440, "FleeTheFacilityAntiComputerloseHackcomputerfromdistanceWalkSpeed", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FleeTheFacilityAntiComputerloseHackcomputerfromdistanceWalkSpeed.lua")
+    
+addscript(6137522359,"Super Speed Simulator [Auto Farm/Collect All Orbs/Anti Afk]", "SuperSpeedSimulatorAutoFarmCollectAllOrbsAntiAfk", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SuperSpeedSimulatorAutoFarmCollectAllOrbsAntiAfk.lua")
+                    
