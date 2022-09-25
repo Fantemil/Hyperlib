@@ -10366,3 +10366,6 @@ addscriptexist(4520749081, "KingLegacy", "Terni", "https://raw.githubusercontent
 addscriptexist(621129760, "KATaim", "ChipyxaOOFicial", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/KATaim.lua")
                     
 addscriptexist(301549746, "CounterBloxBloxTap", "ChipyxaOOFicial", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CounterBloxBloxTap.lua")
+    
+addscript(5801771332,"Murder Mystery 3 GUI", "MurderMystery3GUI", "ChipyxaOOFicial", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MurderMystery3GUI.lua")
+                    
