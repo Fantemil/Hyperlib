@@ -9830,3 +9830,5 @@ addscript(6659645288,"Gold Rush", "GoldRush", "Terni", "https://raw.githubuserco
     
 addscript(6381681200,"My Fish Store Tycoon", "MyFishStoreTycoon", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MyFishStoreTycoon.lua")
                     
+                    
+addscriptexist(4651779470, "RECOILBETA", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RECOILBETA.lua")
