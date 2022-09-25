@@ -10466,3 +10466,5 @@ addscript(4865990095,"Power Simulator 2", "PowerSimulator2", "Acc", "https://raw
     
 addscript(4830389640,"Ronald", "Ronald", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ronald.lua")
                     
+                    
+addscriptexist(4616652839, "ShindoLifev2", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ShindoLifev2.lua")
