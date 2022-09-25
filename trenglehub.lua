@@ -10825,3 +10825,5 @@ addscriptexist(70005410, "BloxHunt", "Acc", "https://raw.githubusercontent.com/F
     
 addscript(4457085477,"Clover", "Clover", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Clover.lua")
                     
+                    
+addscriptexist(855499080, "SkyWars", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SkyWars.lua")
