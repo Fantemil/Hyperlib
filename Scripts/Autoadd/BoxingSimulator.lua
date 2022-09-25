@@ -1,1 +1,1 @@
- loadstring(game:HttpGet("https://raw.githubusercontent.com/urmomjklol69/BoxingSimulator/main/BoxingSim", true))()
+loadstring(game:HttpGet('https://pastebin.com/raw/mY2qKBWc'))()
