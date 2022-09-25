@@ -10146,3 +10146,6 @@ addscriptexist(6410967163, "BeefaceBeaBee", "Terni", "https://raw.githubusercont
 addscriptexist(6461766546, "AHerosDestiny", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AHerosDestiny.lua")
                     
 addscriptexist(5327880096, "OnlineBusinessSimulator2", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OnlineBusinessSimulator2.lua")
+    
+addscript(6531005851,"Hub Script", "HubScript", "MaGiXx", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/HubScript.lua")
+                    
