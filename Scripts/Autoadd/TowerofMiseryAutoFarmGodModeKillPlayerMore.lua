@@ -1,19 +1,55 @@
---EXPECT A NEW UI SOON
+--Orion Lib
 
-local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/bloodball/-back-ups-for-libs/main/kav"))()
-local Window = Library.CreateLib("Tower Of Misery", "DarkTheme")
-local HomeWindow = Window:NewTab("Home")
-local OtherWindow = Window:NewTab("Other")
-local TeleportWindow = Window:NewTab("Teleport")
-local AntiCheatWindow = Window:NewTab("Anti Cheat")
-local CrashWindow = Window:NewTab("Crashing")
-local FunWindow = Window:NewTab("Fun")
-local Home = HomeWindow:NewSection("Home Section")
-local OtherStuff = OtherWindow:NewSection("OtherStuff")
-local Teleport = TeleportWindow:NewSection("Teleports")
-local AntiCheat = AntiCheatWindow:NewSection("AntiCheat")
-local Fun = FunWindow:NewSection("Fun Stuff")
-local Crash = CrashWindow:NewSection("Crashing Stuff")
+local OrionLib = loadstring(game:HttpGet(('https://raw.githubusercontent.com/shlexware/Orion/main/source')))()
+local MainWindow = OrionLib:MakeWindow({Name = "Tower Of Misery", HidePremium = true, SaveConfig = false, ConfigFolder = "TowerOfMisery"})
+local Home = MainWindow:MakeTab({
+ Name = "Home",
+ Icon = "rbxassetid://4483345998",
+ PremiumOnly = false
+})
+local HomeSection = Home:AddSection({
+ Name = "Home"
+})
+local Other = MainWindow:MakeTab({
+ Name = "Other",
+ Icon = "rbxassetid://4483345998",
+ PremiumOnly = false
+})
+local OtherStuff = Other:AddSection({
+ Name = "Other"
+})
+local Teleport = MainWindow:MakeTab({
+ Name = "Teleport",
+ Icon = "rbxassetid://4483345998",
+ PremiumOnly = false
+})
+local TeleportStuff = Teleport:AddSection({
+ Name = "Teleport"
+})
+local AntiCheat = MainWindow:MakeTab({
+ Name = "Anti Cheat",
+ Icon = "rbxassetid://4483345998",
+ PremiumOnly = false
+})
+local AntiCheatStuff = AntiCheat:AddSection({
+ Name = "Anti Cheat"
+})
+local Crashing = MainWindow:MakeTab({
+ Name = "Crashing",
+ Icon = "rbxassetid://4483345998",
+ PremiumOnly = false
+})
+local CrashingStuff = Crashing:AddSection({
+ Name = "Crashing"
+})
+local Fun = MainWindow:MakeTab({
+ Name = "Fun",
+ Icon = "rbxassetid://4483345998",
+ PremiumOnly = false
+})
+local FunStuff = Fun:AddSection({
+ Name = "Fun"
+})
 
 local cmdp = game:GetService("Players")
 local cmdlp = cmdp.LocalPlayer
@@ -124,68 +160,98 @@ local workspace = game:GetService("Workspace")
 local Rep = game.ReplicatedStorage
 
 wait()
-game.StarterGui:SetCore("SendNotification", {
-Title = "EXPECT A NEW UI SOON!!!";
-Text = "TheWorldOfZack#3012";
-Duration = 5;
+OrionLib:MakeNotification({
+ Name = "New UI Is Here!",
+ Content = "Enjoy!",
+ Image = "rbxassetid://4483345998",
+ Time = 5
 })
 wait()
-game.StarterGui:SetCore("SendNotification", {
-Title = "Mostly Coded And Founded By:";
-Text = "TheWorldOfZack#3012";
-Duration = 5;
+OrionLib:MakeNotification({
+ Name = "Designed By:",
+ Content = "TheWorldOfZack#3012",
+ Image = "rbxassetid://4483345998",
+ Time = 5
 })
 wait()
-Home:NewButton("God Mode", "Home", function()
+Home:AddButton({
+Name = "God Mode",
+Callback = function()
     Rep.Server_Data.ImmunityEnabled.Value = true
 end
-)
+})
 
-Home:NewButton("Fly (e = toggle)", "Home", function()
+Home:AddButton({
+Name = "Fly (e = Toggle)",
+Callback = function()
 loadstring(game:HttpGet('https://pastebin.com/raw/d32zM888'))()
 end
-)
+})
 
-Teleport:NewButton("TP To Top (win)", "Teleport", function()
+Teleport:AddButton({
+Name = "TP To Top (win)",
+Callback = function()
 game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-117.169624, 253.999847, 49.9136276)
 end
-)
+})
 
-AntiCheat:NewButton("Anti Cheat Bypass (Fly)", "PROB FOR SYNAPSE X", function()
-game.StarterGui:SetCore("SendNotification", {
-Title = "Press: Respawn And Every Round";
-Text = "TheWorldOfZack#3012";
-Duration = 3;
+AntiCheat:AddButton({
+Name = "Anti Cheat Bypass (fly)",
+Callback = function()
+OrionLib:MakeNotification({
+ Name = "FOR SYNAPSE X",
+ Content = "Press On Respawn And Every Round",
+ Image = "rbxassetid://4483345998",
+ Time = 3
 })
 local h = game.Workspace
 for i,v in pairs(getconnections(h:GetPropertyChangedSignal"Gravity")) do
    v:Disable()
 end
-end)
+end})
 
-AntiCheat:NewButton("Anti Cheat Bypass (Gravity)", "PROB FOR SYNAPSE X", function()
-game.StarterGui:SetCore("SendNotification", {
-Title = "Press: Respawn And Every Round";
-Text = "TheWorldOfZack#3012";
-Duration = 3;
+AntiCheat:AddButton({
+Name = "Anti Cheat Bypass (Gravity)",
+Callback = function()
+OrionLib:MakeNotification({
+ Name = "FOR SYNAPSE X",
+ Content = "Press On Respawn And Every Round",
+ Image = "rbxassetid://4483345998",
+ Time = 3
 })
 local h = game.Players.LocalPlayer.Character.HumanoidRootPart
 for i,v in pairs(getconnections(h:GetPropertyChangedSignal"Velocity")) do
    v:Disable()
 end
-end)
+end})
 
-OtherStuff:NewSlider("WalkSpeed (BYPASS)", "OtherStuff", 300, 16, function(arg)
+Other:AddSlider({
+Name = "WalkSpeed (ANTI CHEAT FIRST)",
+Min = 16,
+Max = 350,
+Default = 16,
+Increment = 1,
+ValueName = "...",
+Callback = function(arg)
     game.Players.LocalPlayer.Character.Humanoid.WalkSpeed = arg
 end
-)
+})
 
-OtherStuff:NewSlider("JumpPower (BYPASS)", "OtherStuff", 350, 50, function(arg)
+Other:AddSlider({
+Name = "JumpPower (ANTI CHEAT FIRST)",
+Min = 50,
+Max = 350,
+Default = 50,
+Increment = 1,
+ValueName = "...",
+Callback = function(arg)
     game.Players.LocalPlayer.Character.Humanoid.JumpPower = arg
 end
-)
+})
 
-AntiCheat:NewButton("Anti Cheat Bypass", "AntiCheat", function()
+AntiCheat:AddButton({
+Name = "Anti Cheat Bypass",
+Callback = function()
 local mt = getrawmetatable(game)
 make_writeable(mt)
 
@@ -201,19 +267,24 @@ mt.__namecall = newcclosure(function(self, ...)
     return namecall(self, table.unpack(args))
 end)
 end
-)
+})
 
 
-Home:NewButton("Inf Yield", "Home", function()
+Home:AddButton({
+Name = "Inf Yield",
+Callback = function()
     loadstring(game:HttpGet(('https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source'),true))()
 end
-)
+})
 
-Home:NewButton("Gravity Coil (free)", "Home", function()
-game.StarterGui:SetCore("SendNotification", {
-Title = "Press For Free Grav Coil";
-Text = "TheWorldOfZack#3012";
-Duration = 3;
+Home:AddButton({
+Name = "Gravity Coil (free)",
+Callback = function()
+OrionLib:MakeNotification({
+ Name = "Activated!",
+ Content = "Free Gravity Coils",
+ Image = "rbxassetid://4483345998",
+ Time = 3
 })
 local args = {
     [1] = "Gravity Coil"
@@ -221,9 +292,13 @@ local args = {
 
 game:GetService("ReplicatedStorage").Remote_Functions.General.Equip_Coil:InvokeServer(unpack(args))
 end
-)
+})
 
-Fun:NewTextBox("(TOOL) Kill Player:", "Fun", function(kill)
+Fun:AddTextbox({
+Name = "(TOOL) Kill Player:",
+Default = "Display Name Or Username",
+TextDisappear = false,
+Callback = function(kill)
     local Player = function(Ev)
  if Ev == "" then
   return nil
@@ -250,9 +325,11 @@ local plr = game:GetService("Players").LocalPlayer
  Tool.Parent = plr.Character
     game.Players.LocalPlayer.Character.Humanoid:ChangeState(15)
  firetouchinterest(Target.Character.HumanoidRootPart, Tool.Handle, 0);
-end)
+end})
 
-Fun:NewButton("Break Peoples Screens (VERY LAGGY)", "Fun", function()
+Fun:AddButton({
+Name = "Break Everyones Screens (VERY LAGGY)",
+Callback = function()
 _G.breakgame = true
 while _G.breakgame == true do
 wait(6)
@@ -264,13 +341,37 @@ local args = {
 game:GetService("ReplicatedStorage").Crate_System_V2.Remote_Events.Accept_Trade_Request:FireServer(unpack(args))
 end
 end
-end)
+end})
 
-Fun:NewButton("Stop Messing With People's Screens", "Fun", function()
+Fun:AddButton({
+Name = "Stop Messing With Peoples Screens",
+Callback = function()
 _G.breakgame = false
-end)
+wait()
+_G.breakgame = false
+wait()
+_G.breakgame = false
+wait()
+_G.breakgame = false
+wait()
+_G.breakgame = false
+wait()
+_G.breakgame = false
+wait()
+_G.breakgame = false
+wait()
+_G.breakgame = false
+wait()
+_G.breakgame = false
+wait()
+_G.breakgame = false
+wait()
+_G.breakgame = false
+end})
 
-OtherStuff:NewButton("Buy Everything", "OtherStuff", function()
+Other:AddButton({
+Name = "Buy Everything",
+Callback = function()
 local args = {
     [1] = "QuickSpawn"
 }
@@ -312,16 +413,21 @@ local args = {
 }
 
 game:GetService("ReplicatedStorage").Remote_Functions.Shop.Purchase_Speed_Timer:InvokeServer(unpack(args))
-wait(0.5)
-game.StarterGui:SetCore("SendNotification", {
-Title = "Auto Bought Everything!";
-Text = "TheWorldOfZack#3012";
-Duration = 5;
+wait(0.4)
+OrionLib:MakeNotification({
+ Name = "Activated!",
+ Content = "Auto Bought Everything!",
+ Image = "rbxassetid://4483345998",
+ Time = 3
 })
 end
-)
+})
 
-Fun:NewTextBox("Force Trade User:", "Fun", function(lol)
+Fun:AddTextbox({
+Name = "Force Trade User:",
+Default = "Display Name Or Username",
+TextDisappear = false,
+Callback = function(lol)
 local Player = function(Ev)
  if Ev == "" then
   return nil
@@ -341,13 +447,16 @@ local args = {
 }
 
 game:GetService("ReplicatedStorage").Crate_System_V2.Remote_Events.Accept_Trade_Request:FireServer(unpack(args))
-end)
+end})
 
-Home:NewButton("Auto Respawn", "Home", function()
-game.StarterGui:SetCore("SendNotification", {
-Title = "INSTANT RESPAWN FOR RESETTING OR DYING";
-Text = "TheWorldOfZack#3012";
-Duration = 5;
+Home:AddButton({
+Name = "Quick Respawn",
+Callback = function()
+OrionLib:MakeNotification({
+ Name = "Activated!",
+ Content = "This Is For Quick Respawning Without Quick Spawn (dying or resetting)",
+ Image = "rbxassetid://4483345998",
+ Time = 3
 })
 while true do
 wait()
@@ -395,26 +504,32 @@ Respawn:InvokeServer(A_1)
         game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = saved
 end
 end
-end)
+end})
 
-Home:NewButton("AFK Farm (prob broken)", "Home", function()
-game.StarterGui:SetCore("SendNotification", {
-Title = "This Is Probably Broken :(";
-Text = "TheWorldOfZack#3012";
-Duration = 3;
+Home:AddButton({
+Name = "AFK Farm",
+Callback = function()
+OrionLib:MakeNotification({
+ Name = "Activated!",
+ Content = "Probably Broken :(",
+ Image = "rbxassetid://4483345998",
+ Time = 3
 })
 _G.afk1 = true
 while _G.afk1 == true do
 wait()
 game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-117.169624, 253.999847, 49.9136276)
 end
-end)
+end})
 
-OtherStuff:NewButton("Get Sword", "If doesn't work 1st time press again.", function()
-game.StarterGui:SetCore("SendNotification", {
-Title = "Teleport back with teleports or something";
-Text = "TheWorldOfZack#3012";
-Duration = 3;
+Other:AddButton({
+Name = "Get Sword",
+Callback = function()
+OrionLib:MakeNotification({
+ Name = "Activated!",
+ Content = "Teleport Back With The White Door In Winners Room Or Teleports (if didn't work then press again)",
+ Image = "rbxassetid://4483345998",
+ Time = 7
 })
 game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-117.169624, 253.999847, 49.9136276)
 wait(0.2)
@@ -432,13 +547,16 @@ fireclickdetector(game:GetService("Workspace").WinnersRoomServerSide.SwordGiver.
 wait(0.2)
 game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-117.169624, 253.999847, 49.9136276)
 end
-)
+})
 
-Teleport:NewButton("TP To Winners Room", "You need to touch the white door first.", function()
-game.StarterGui:SetCore("SendNotification", {
-Title = "Touch The White Door First";
-Text = "TheWorldOfZack#3012";
-Duration = 3;
+Teleport:AddButton({
+Name = "TP To Winners Room",
+Callback = function()
+OrionLib:MakeNotification({
+ Name = "Activated!",
+ Content = "Make Sure To Touch The White Door First (to win)",
+ Image = "rbxassetid://4483345998",
+ Time = 3
 })
 local playerHead = game.Players.LocalPlayer.Character.Head
 for i, v in pairs(game:GetService("Workspace").TopSection.PortalTeleportationModel.PortalDoor:GetDescendants()) do
@@ -452,27 +570,36 @@ end
 wait(0.2)
 game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(36.1369514, 233.999954, 2820.86865)
 end
-)
+})
 
-Teleport:NewButton("Flappy Bird (winners room)", "Teleport", function()
+Teleport:AddButton({
+Name = "Flappy Bird (winners room)",
+Callback = function()
 game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-54.7847023, 234.399963, 2805.98145)
 end
-)
+})
 
-Teleport:NewButton("Track Slide (winners room)", "Teleport", function()
+Teleport:AddButton({
+Name = "Track Slide (winners room)",
+Callback = function()
 game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-53.9553223, 234.199951, 2824.10547)
 end
-)
+})
 
-Teleport:NewButton("Turn Off AFK Farm", "Teleport", function()
+Teleport:AddButton({
+Name = "Turn off AFK Farm",
+Callback = function()
 _G.afk1 = false
-end)
+end})
 
-Fun:NewButton("(TOOL) Sink Player", "Needs A Tool And Must Be On The Player", function()
-game.StarterGui:SetCore("SendNotification", {
-Title = "To Sink Them Touch Them";
-Text = "TheWorldOfZack#3012";
-Duration = 3;
+Fun:AddButton({
+Name = "(TOOL) Z To Sink Player",
+Callback = function()
+OrionLib:MakeNotification({
+ Name = "Activated!",
+ Content = "Touch Somebody And Press Z To Sink The Player",
+ Image = "rbxassetid://4483345998",
+ Time = 5
 })
 wait()
 game.Players.LocalPlayer:GetMouse().KeyDown:connect(function(key)
@@ -499,17 +626,24 @@ tween = tweenService:Create(game:GetService("Players")["LocalPlayer"].Character.
 tween:Play()
 end
 end)
-end)
+end})
 
-Teleport:NewButton("TP To Roof", "Teleports", function()
+Teleport:AddButton({
+Name = "TP To Roof",
+Callback = function()
 game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-20.0604019, 277.999878, 49.0757294)
-end)
+end})
 
-Crash:NewTextBox("Crash Player", "Crashes A Player", function(okthen)
-game.StarterGui:SetCore("SendNotification", {
-Title = "Not Recommended For Free Exploits (lag)";
-Text = "TheWorldOfZack#3012";
-Duration = 5;
+Crashing:AddTextbox({
+Name = "Crash Player (VERY LAGGY):",
+Default = "Display Name Or Username",
+TextDisappear = false,
+Callback = function(okthen)
+OrionLib:MakeNotification({
+ Name = "Activated!",
+ Content = "NOT RECOMMENDED FOR FREE EXPLOITS! TAKE NOTE THAT THESE ARE LAGGY BECAUSE OF THE TRADING SYSTEM",
+ Image = "rbxassetid://4483345998",
+ Time = 3
 })
 wait()
 local Player = function(Ev)
@@ -535,9 +669,11 @@ local args = {
 
 game:GetService("ReplicatedStorage").Crate_System_V2.Remote_Events.Accept_Trade_Request:FireServer(unpack(args))
 end
-end)
+end})
 
-Crash:NewButton("Stop Crashing Player (press a lot)", "Crashing", function()
+Crashing:AddButton({
+Name = "Stop Crashing Player (PRESS A LOT!!!)",
+Callback = function()
 _G.crashplayer = false
 wait()
 game:GetService("ReplicatedStorage").Crate_System_V2.Remote_Events.Decline_Trade:FireServer()
@@ -553,13 +689,34 @@ wait()
 _G.crashplayer = false
 wait()
 game:GetService("ReplicatedStorage").Crate_System_V2.Remote_Events.Decline_Trade:FireServer()
-end)
+wait()
+_G.crashplayer = false
+wait()
+game:GetService("ReplicatedStorage").Crate_System_V2.Remote_Events.Decline_Trade:FireServer()
+wait()
+_G.crashplayer = false
+wait()
+game:GetService("ReplicatedStorage").Crate_System_V2.Remote_Events.Decline_Trade:FireServer()
+wait()
+_G.crashplayer = false
+wait()
+game:GetService("ReplicatedStorage").Crate_System_V2.Remote_Events.Decline_Trade:FireServer()
+wait()
+_G.crashplayer = false
+wait()
+game:GetService("ReplicatedStorage").Crate_System_V2.Remote_Events.Decline_Trade:FireServer()
+wait()
+_G.crashplayer = false
+end})
 
-Fun:NewButton("Inf Jump Bypass", "Spoof", function()
-game.StarterGui:SetCore("SendNotification", {
-Title = "Press On Every Round And Respawn (syn x)";
-Text = "TheWorldOfZack#3012";
-Duration = 6;
+Fun:AddButton({
+Name = "Spoof Inf Jump",
+Callback = function()
+OrionLib:MakeNotification({
+ Name = "Activated!",
+ Content = "Spoof's Inf Jump (Synapse X Only?)",
+ Image = "rbxassetid://4483345998",
+ Time = 3
 })
 wait()
 local h = game.Players.LocalPlayer.Character.HumanoidRootPart
@@ -590,4 +747,4 @@ UIS.InputBegan:connect(function(UserInput)
         end)
     end
 end)
-end)
+end})
