@@ -10415,3 +10415,5 @@ addscriptexist(4580204640, "SurvivetheKiller", "Acc", "https://raw.githubusercon
     
 addscript(1265834997,"Hitbox", "Hitbox", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Hitbox.lua")
                     
+                    
+addscriptexist(2512643572, "BubbleGumSimulator", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BubbleGumSimulator.lua")
