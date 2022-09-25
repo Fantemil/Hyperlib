@@ -9369,3 +9369,6 @@ addscriptexist(4058282580, "BoxingSimulatorAutoPunchAutosellBuyalldna", "Qalnik"
     
 addscript(3457390032,"Club Roblox [Auto Farm]", "ClubRobloxAutoFarm", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ClubRobloxAutoFarm.lua")
                     
+    
+addscript(2376885433,"Vesteria [God mode]", "VesteriaGodmode", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/VesteriaGodmode.lua")
+                    
