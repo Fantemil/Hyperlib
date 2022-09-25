@@ -9536,3 +9536,5 @@ addscriptexist(1537690962, "BeeSwarmSimulatorAutoFarm", "Qalnik", "https://raw.g
 addscriptexist(292439477, "PhantomForcesAimFovKillAura", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PhantomForcesAimFovKillAura.lua")
                     
 addscriptexist(4616652839, "ShindoAUTOQUEST", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ShindoAUTOQUEST.lua")
+                    
+addscriptexist(621129760, "KATAimKillallEsp", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/KATAimKillallEsp.lua")
