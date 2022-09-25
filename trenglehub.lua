@@ -10328,3 +10328,6 @@ addscript(2210085102,"INF ammo Naval Warfare", "INFammoNavalWarfare", "ChipyxaOO
                     
                     
 addscriptexist(6305942109, "LaundrySimulator", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LaundrySimulator.lua")
+    
+addscript(2193332090,"SuperHero Fighting Simulator", "SuperHeroFightingSimulator", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SuperHeroFightingSimulator.lua")
+                    
