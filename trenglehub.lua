@@ -9261,3 +9261,5 @@ addscriptexist(286090429, "ArsenalAIMKILLALLESPTRIGER", "Terni", "https://raw.gi
 addscriptexist(3376584594, "FlightSimulatorInfXp", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FlightSimulatorInfXp.lua")
                     
 addscriptexist(443406476, "ProjectLazarusKILLALLZOMBIES", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ProjectLazarusKILLALLZOMBIES.lua")
+                    
+addscriptexist(7082539621, "AnimeDestroyersSimulatorOPENSOURSE", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AnimeDestroyersSimulatorOPENSOURSE.lua")
