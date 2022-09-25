@@ -10375,3 +10375,5 @@ addscriptexist(5736409216, "MallTycoonAutoFarm", "ChipyxaOOFicial", "https://raw
 addscriptexist(155615604, "PrisonLife", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PrisonLife.lua")
                     
 addscriptexist(171391948, "VehicleSimulator", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/VehicleSimulator.lua")
+                    
+addscriptexist(6485529694, "BeeSim", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BeeSim.lua")
