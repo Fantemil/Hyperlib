@@ -9530,3 +9530,5 @@ addscript(5310443220,"GOD TYCOON [GET ALL WEAPONS]", "GODTYCOONGETALLWEAPONS", "
 addscriptexist(3851622790, "BreakInInstahealTeleprotsRemovetools", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BreakInInstahealTeleprotsRemovetools.lua")
                     
 addscriptexist(4999590694, "ZombieDefenseTycoonInfGOO", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ZombieDefenseTycoonInfGOO.lua")
+                    
+addscriptexist(1537690962, "BeeSwarmSimulatorAutoFarm", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BeeSwarmSimulatorAutoFarm.lua")
