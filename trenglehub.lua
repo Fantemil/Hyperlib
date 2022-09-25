@@ -9179,3 +9179,5 @@ addscript(6734679364,"Ninja Blade [BEST GUI, AUTO-FARM]", "NinjaBladeBESTGUIAUTO
                     
                     
 addscriptexist(537413528, "BuildABoatForTreasureNEWAUTOFARM", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BuildABoatForTreasureNEWAUTOFARM.lua")
+                    
+addscriptexist(3823781113, "SaberSimulatorAutoClickBossFarmBetaCandyFarm", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SaberSimulatorAutoClickBossFarmBetaCandyFarm.lua")
