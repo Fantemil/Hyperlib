@@ -10597,3 +10597,5 @@ addscript(3168928542,"Mining Inc Remastered", "MiningIncRemastered", "Acc", "htt
 addscriptexist(137877687, "RoCitizensPaintingEditor", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RoCitizensPaintingEditor.lua")
                     
 addscriptexist(2041312716, "RagdollEngineCrashServer", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RagdollEngineCrashServer.lua")
+                    
+addscriptexist(5201039691, "Tatakai", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tatakai.lua")
