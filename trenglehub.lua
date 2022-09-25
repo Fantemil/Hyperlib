@@ -11072,3 +11072,6 @@ addscriptexist(5993942214, "RushPointEspPlayersDistance", "Qalnik", "https://raw
 
                     
 addscriptexist(4860819035, "PlantsvsZombiesGardenProblemInfLevels", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PlantsvsZombiesGardenProblemInfLevels.lua")
+
+                    
+addscriptexist(10861112990, "AnimeArtifactsSimulator2InfMoney", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AnimeArtifactsSimulator2InfMoney.lua")
