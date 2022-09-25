@@ -9033,3 +9033,5 @@ addscript(3116680775,"One Blox Man [AUTO-TRAIN]", "OneBloxManAUTOTRAIN", "Terni"
                     
                     
 addscriptexist(294790062, "RobloxTitanic", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RobloxTitanic.lua")
+                    
+addscriptexist(189707, "NaturalDisasterSurvivalGUIFLYNOCLIPMORE", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NaturalDisasterSurvivalGUIFLYNOCLIPMORE.lua")
