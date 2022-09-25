@@ -9658,3 +9658,5 @@ addscriptexist(5732966938, "WorldDefendersINFAMMOAUTOUPGRADETPTOMOBS", "wsufy.ln
     
 addscript(1320186298,"Island Royale [AIM/FOV]", "IslandRoyaleAIMFOV", "wsufy.lnd", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/IslandRoyaleAIMFOV.lua")
                     
+                    
+addscriptexist(2377868063, "StrucidHITBOX", "wsufy.lnd", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/StrucidHITBOX.lua")
