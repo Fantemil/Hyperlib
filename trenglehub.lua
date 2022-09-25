@@ -9125,3 +9125,5 @@ addscriptexist(7180042682, "MilitaryTycoonAUTOBUILDAUTOKILLMORE", "Terni", "http
     
 addscript(7476406054,"Grow Up Simulator [AUTO-BUY, AUTO-FARM, AUTO-EGG MORE!]", "GrowUpSimulatorAUTOBUYAUTOFARMAUTOEGGMORE", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/GrowUpSimulatorAUTOBUYAUTOFARMAUTOEGGMORE.lua")
                     
+                    
+addscriptexist(4872321990, "IslandsFarmingFestivalAutoFarm", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/IslandsFarmingFestivalAutoFarm.lua")
