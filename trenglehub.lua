@@ -9877,3 +9877,6 @@ addscript(5541000308,"Knight Simulator", "KnightSimulator", "MaGiXx", "https://r
                     
                     
 addscriptexist(6794368433, "BeaSpiderTycoon", "MaGiXx", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BeaSpiderTycoon.lua")
+    
+addscript(6285815281,"LankyBox Simulator", "LankyBoxSimulator", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LankyBoxSimulator.lua")
+                    
