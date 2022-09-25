@@ -10720,3 +10720,5 @@ addscript(7493270266,"Fly, noclip, infinity jump, btools", "Flynoclipinfinityjum
 addscriptexist(2202352383, "SuperPowerTrainingSim", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SuperPowerTrainingSim.lua")
                     
 addscriptexist(4003872968, "GiantSurvival", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/GiantSurvival.lua")
+                    
+addscriptexist(286090429, "ArsenalРЎСЃAimBot", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ArsenalРЎСЃAimBot.lua")
