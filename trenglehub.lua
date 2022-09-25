@@ -10590,3 +10590,6 @@ addscriptexist(5293755937, "SpeedRunSimulatorFARM", "Acc", "https://raw.githubus
 addscriptexist(4556951723, "RagdollPhysics", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RagdollPhysics.lua")
                     
 addscriptexist(4723618670, "WisteriaAUTOFARM", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/WisteriaAUTOFARM.lua")
+    
+addscript(3168928542,"Mining Inc Remastered", "MiningIncRemastered", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MiningIncRemastered.lua")
+                    
