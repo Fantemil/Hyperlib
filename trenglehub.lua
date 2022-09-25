@@ -9880,3 +9880,6 @@ addscriptexist(6794368433, "BeaSpiderTycoon", "MaGiXx", "https://raw.githubuserc
     
 addscript(6285815281,"LankyBox Simulator", "LankyBoxSimulator", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LankyBoxSimulator.lua")
                     
+    
+addscript(6422237656,"My Toy Factory", "MyToyFactory", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MyToyFactory.lua")
+                    
