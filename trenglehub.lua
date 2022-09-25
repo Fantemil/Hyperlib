@@ -10491,3 +10491,6 @@ addscript(4723618670,"Wisteria", "Wisteria", "Acc", "https://raw.githubuserconte
                     
                     
 addscriptexist(137877687, "RoCitizens", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RoCitizens.lua")
+    
+addscript(6264538681,"Workout Island Script", "WorkoutIslandScript", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/WorkoutIslandScript.lua")
+                    
