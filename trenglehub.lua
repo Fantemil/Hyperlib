@@ -10017,3 +10017,5 @@ addscript(6770817102,"Cyber Base Tycoon", "CyberBaseTycoon", "Terni", "https://r
     
 addscript(1583450123,"BIG BOOGA DIG", "BIGBOOGADIG", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BIGBOOGADIG.lua")
                     
+                    
+addscriptexist(1224212277, "MadCityGUI", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MadCityGUI.lua")
