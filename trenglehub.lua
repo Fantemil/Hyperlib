@@ -9624,3 +9624,6 @@ addscriptexist(6904735821, "ShoeSimulatorDEMONSHOES", "wsufy.lnd", "https://raw.
 addscriptexist(5023820864, "TradeTowerAUTOCLICKAUTOSELLAUTOUPGRADEANTIAFKTP", "wsufy.lnd", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TradeTowerAUTOCLICKAUTOSELLAUTOUPGRADEANTIAFKTP.lua")
                     
 addscriptexist(6339160453, "NarutoWarTycoonONLYAUTOBUYANDANTIAFK", "wsufy.lnd", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NarutoWarTycoonONLYAUTOBUYANDANTIAFK.lua")
+    
+addscript(6984315364,"RoPets [AUTOFARM/TP]", "RoPetsAUTOFARMTP", "wsufy.lnd", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RoPetsAUTOFARMTP.lua")
+                    
