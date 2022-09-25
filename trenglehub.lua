@@ -9816,3 +9816,6 @@ addscript(4670822595,"Secret Hatching Simulator 2 GUI", "SecretHatchingSimulator
 addscriptexist(301549746, "CounterBloxHexagon", "UKpansR", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CounterBloxHexagon.lua")
                     
 addscriptexist(1345139196, "TreasureHuntSimulator", "MaGiXx", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TreasureHuntSimulator.lua")
+    
+addscript(4822852675,"Typing Simulator GUI", "TypingSimulatorGUI", "UKpansR", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TypingSimulatorGUI.lua")
+                    
