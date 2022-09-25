@@ -10252,3 +10252,6 @@ addscript(6048603509,"Blademaster Simulator", "BlademasterSimulator", "Terni", "
     
 addscript(5784984978,"Milk Simulator", "MilkSimulator", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MilkSimulator.lua")
                     
+    
+addscript(5546188609,"Scythe Simulator", "ScytheSimulator", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ScytheSimulator.lua")
+                    
