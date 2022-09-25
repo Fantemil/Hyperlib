@@ -9470,3 +9470,5 @@ addscriptexist(286090429, "ArsenalAimInfJumpEcp", "Qalnik", "https://raw.githubu
     
 addscript(6541075507,"Carnival Tycoon [Auto farm]", "CarnivalTycoonAutofarm", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CarnivalTycoonAutofarm.lua")
                     
+                    
+addscriptexist(5320510816, "TimberAutoFarm", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TimberAutoFarm.lua")
