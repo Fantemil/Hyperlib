@@ -11139,3 +11139,6 @@ addscriptuniversal("AUniversalTimeItemsFarmGodModeAutoQuest", "Qalnik", "https:/
                         
 addscriptuniversal("RobloxUniversalScriptAntiTPBypass", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RobloxUniversalScriptAntiTPBypass.lua")
     
+                        
+addscriptuniversal("RobloxUniversalScriptNameEsp", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RobloxUniversalScriptNameEsp.lua")
+    
