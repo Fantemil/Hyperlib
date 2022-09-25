@@ -9614,3 +9614,5 @@ addscript(6858184059,"Space Base Tycoon [AUTOFARM/ANTIAFK]", "SpaceBaseTycoonAUT
 addscriptexist(6273865312, "SupernaturalSimulatorAUTOFARMTPAUTOBUY", "wsufy.lnd", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SupernaturalSimulatorAUTOFARMTPAUTOBUY.lua")
                     
 addscriptexist(6299805723, "AnimeFightersSimulatorAutoFarmAutoQuestGetCoin", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AnimeFightersSimulatorAutoFarmAutoQuestGetCoin.lua")
+                    
+addscriptexist(6904735821, "ShoeSimulatorMONEYTRAILS", "wsufy.lnd", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ShoeSimulatorMONEYTRAILS.lua")
