@@ -10694,3 +10694,5 @@ addscript(9548631810,"Adopt Me TP", "AdoptMeTP", "Acc", "https://raw.githubuserc
                     
                     
 addscriptexist(8533682846, "AdoptMeFarmEvent", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AdoptMeFarmEvent.lua")
+                    
+addscriptexist(4616652839, "ShindoLifeALLGUI", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ShindoLifeALLGUI.lua")
