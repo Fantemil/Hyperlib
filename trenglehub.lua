@@ -10239,3 +10239,5 @@ addscript(6002047566,"Sorcerer Fighting Simulator", "SorcererFightingSimulator",
 addscriptexist(2622527242, "rBreachGUI", "ChipyxaOOFicial", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/rBreachGUI.lua")
                     
 addscriptexist(3494008884, "DonutBakeryTycoon", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DonutBakeryTycoon.lua")
+                    
+addscriptexist(3458435516, "LimitedSimulator2", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LimitedSimulator2.lua")
