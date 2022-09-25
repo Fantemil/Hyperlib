@@ -10517,3 +10517,5 @@ addscript(10740140258,"Castle Clickers", "CastleClickers", "Acc", "https://raw.g
                     
                     
 addscriptexist(112420803, "KohlsAdminHouseNBC", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/KohlsAdminHouseNBC.lua")
+                    
+addscriptexist(86322978, "UltimateRandomNight", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/UltimateRandomNight.lua")
