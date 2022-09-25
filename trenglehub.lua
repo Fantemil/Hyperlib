@@ -8974,3 +8974,5 @@ addscriptexist(920587237, "AdoptMeNEWAUTOFARMAUTOCHECKMORE", "Terni", "https://r
 addscriptexist(1962086868, "TowerofHellINFJUMPAUTOFARMNODAMAGE", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TowerofHellINFJUMPAUTOFARMNODAMAGE.lua")
                     
 addscriptexist(6284583030, "PetSimulatorXNEWGUIFREEALLPASSMORE", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PetSimulatorXNEWGUIFREEALLPASSMORE.lua")
+                    
+addscriptexist(606849621, "JailbreakGODMODEFREEMONEYVEHICLEMOD", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/JailbreakGODMODEFREEMONEYVEHICLEMOD.lua")
