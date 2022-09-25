@@ -1,0 +1,1 @@
+_G.Med = true  loadstring(game:HttpGet('https://raw.githubusercontent.com/RZiln/scripts/main/CloverMeditation.lua'))()
