@@ -10934,3 +10934,5 @@ addscriptexist(662417684, "LuckyBlocksBattlegroundsGui", "Acc", "https://raw.git
 addscriptexist(3527629287, "BIGPaintballGui", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BIGPaintballGui.lua")
                     
 addscriptexist(13822889, "LumberTycoon2Gui", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LumberTycoon2Gui.lua")
+                    
+addscriptexist(3527629287, "BIGPaintballAutoKill", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BIGPaintballAutoKill.lua")
