@@ -9026,3 +9026,5 @@ addscriptexist(606849621, "JailbreakFASTGUI", "Terni", "https://raw.githubuserco
     
 addscript(4806026225,"Defender's Depot [Auto Grab]", "DefendersDepotAutoGrab", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DefendersDepotAutoGrab.lua")
                     
+                    
+addscriptexist(4996049426, "AllStarTowerDefenseFarmCandy", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AllStarTowerDefenseFarmCandy.lua")
