@@ -8867,3 +8867,5 @@ addscriptexist(29812337, "FramedEsp", "Acc", "https://raw.githubusercontent.com/
 addscriptexist(7280118908, "SchoolSimulatorFreeGamepasses", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SchoolSimulatorFreeGamepasses.lua")
                     
 addscriptexist(893973440, "FleetheFacilityNeverFailHacking", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FleetheFacilityNeverFailHacking.lua")
+                    
+addscriptexist(3678761576, "ENTRENCHEDEspWalkSpeed", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ENTRENCHEDEspWalkSpeed.lua")
