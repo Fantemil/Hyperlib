@@ -9809,3 +9809,6 @@ addscriptexist(4855457388, "Demonfall", "Acc", "https://raw.githubusercontent.co
     
 addscript(6676587884,"My Chicken Farm! [BETA] GUI", "MyChickenFarmBETAGUI", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MyChickenFarmBETAGUI.lua")
                     
+    
+addscript(4670822595,"Secret Hatching Simulator 2 GUI", "SecretHatchingSimulator2GUI", "UKpansR", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SecretHatchingSimulator2GUI.lua")
+                    
