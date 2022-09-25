@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/LoakCloud/ROBLOX/main/Word%20Bomb"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/LOAKS-HUB/RBLX/main/LOAKS/SCRIPTS/2653064683.LOAKS"))()
