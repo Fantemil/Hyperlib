@@ -10425,3 +10425,6 @@ addscriptexist(3101667897, "Legendofspeed", "Acc", "https://raw.githubuserconten
 addscriptexist(1417427737, "MiningSimulator", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MiningSimulator.lua")
                     
 addscriptexist(606849621, "JailBreak", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/JailBreak.lua")
+    
+addscript(5902977746,"Ultimate Tower Defense Sim", "UltimateTowerDefenseSim", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/UltimateTowerDefenseSim.lua")
+                    
