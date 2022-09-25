@@ -9904,3 +9904,5 @@ addscript(6459707978,"Delivery Simulator", "DeliverySimulator", "Terni", "https:
 addscriptexist(5712833750, "AnimalSimulator", "MaGiXx", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AnimalSimulator.lua")
                     
 addscriptexist(6299805723, "AnimeFightersSimulator", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AnimeFightersSimulator.lua")
+                    
+addscriptexist(6542731310, "DogecoinMiningTycoon", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DogecoinMiningTycoon.lua")
