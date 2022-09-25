@@ -10269,3 +10269,5 @@ addscript(5025324461,"Smacking Simulator", "SmackingSimulator", "Terni", "https:
 addscriptexist(1962086868, "TowerofHell", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TowerofHell.lua")
                     
 addscriptexist(7860844204, "AntLifeESP", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AntLifeESP.lua")
+                    
+addscriptexist(6973939752, "ArsenalBANANINF", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ArsenalBANANINF.lua")
