@@ -9139,3 +9139,6 @@ addscriptexist(4616652839, "ShindoLifeAUTOFARMMISSIONMOBSMORE", "Terni", "https:
     
 addscript(5229400211,"Battle-Gods-Simulator [Auto-Buy, Auto-Farm, MORE!]", "BattleGodsSimulatorAutoBuyAutoFarmMORE", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BattleGodsSimulatorAutoBuyAutoFarmMORE.lua")
                     
+    
+addscript(1167791961,"Knife Simulator [MONEY FARM,AIM]", "KnifeSimulatorMONEYFARMAIM", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/KnifeSimulatorMONEYFARMAIM.lua")
+                    
