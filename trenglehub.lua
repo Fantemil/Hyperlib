@@ -10193,3 +10193,6 @@ addscriptexist(155382109, "SurviveandKilltheKillersinArea51", "Terni", "https://
 addscriptexist(3339374541, "MidnightRacingTokyo", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MidnightRacingTokyo.lua")
                     
 addscriptexist(6329844902, "LastPirates", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LastPirates.lua")
+    
+addscript(230503554,"Speed Run SImulator GUI", "SpeedRunSImulatorGUI", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SpeedRunSImulatorGUI.lua")
+                    
