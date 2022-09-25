@@ -10151,3 +10151,5 @@ addscript(6531005851,"Hub Script", "HubScript", "MaGiXx", "https://raw.githubuse
                     
                     
 addscriptexist(4499822233, "StarWarsBountyHuntersOuterRim", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/StarWarsBountyHuntersOuterRim.lua")
+                    
+addscriptexist(4850718823, "SkatePark", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SkatePark.lua")
