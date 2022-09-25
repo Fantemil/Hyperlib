@@ -10125,3 +10125,5 @@ addscript(6973939752,"Arsenal BANAN", "ArsenalBANAN", "Terni", "https://raw.gith
                     
                     
 addscriptexist(2732246600, "BloodyBattleGUI", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BloodyBattleGUI.lua")
+                    
+addscriptexist(4924922222, "BrookhavenRP", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BrookhavenRP.lua")
