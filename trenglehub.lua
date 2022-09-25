@@ -11048,3 +11048,6 @@ addscriptuniversal("UniversalTrashTalk", "astrofile", "https://raw.githubusercon
 
                     
 addscriptexist(9611809130, "CrazyPartyRPGTpToCrabArea", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CrazyPartyRPGTpToCrabArea.lua")
+
+                    
+addscriptexist(7138009149, "PHIGHTINGALPHAInfinityMoneyandGems", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PHIGHTINGALPHAInfinityMoneyandGems.lua")
