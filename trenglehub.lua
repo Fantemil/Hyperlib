@@ -9490,3 +9490,6 @@ addscriptexist(4996049426, "AllStarTowerDefenseAutoErwinBuffAutoMerlinBuffAutoJo
 addscriptexist(2753915549, "BloxFruitsMobFarmAutofarmmoneyInvis", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BloxFruitsMobFarmAutofarmmoneyInvis.lua")
                     
 addscriptexist(4410049285, "DrivingSimulatorAutoFarm", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DrivingSimulatorAutoFarm.lua")
+    
+addscript(4999590694,"Zombie Defense Tycoon [Get a gamepass/farm GOO/Gun mod]", "ZombieDefenseTycoonGetagamepassfarmGOOGunmod", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ZombieDefenseTycoonGetagamepassfarmGOOGunmod.lua")
+                    
