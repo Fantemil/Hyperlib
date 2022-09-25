@@ -10722,3 +10722,6 @@ addscriptexist(2202352383, "SuperPowerTrainingSim", "Acc", "https://raw.githubus
 addscriptexist(4003872968, "GiantSurvival", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/GiantSurvival.lua")
                     
 addscriptexist(286090429, "ArsenalРЎСЃAimBot", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ArsenalРЎСЃAimBot.lua")
+    
+addscript(10508802866,"Chat Bypass", "ChatBypass", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ChatBypass.lua")
+                    
