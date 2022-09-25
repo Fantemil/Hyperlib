@@ -10403,3 +10403,5 @@ addscript(4470259111,"Trolling GUI", "TrollingGUI", "Terni", "https://raw.github
                     
                     
 addscriptexist(21532277, "Notoriety", "rg10008", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Notoriety.lua")
+                    
+addscriptexist(654732683, "CarCrushers2", "rg10008", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CarCrushers2.lua")
