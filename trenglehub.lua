@@ -9889,3 +9889,5 @@ addscript(6689894296,"Brawl Legends", "BrawlLegends", "Terni", "https://raw.gith
     
 addscript(5254674128,"Pet Store Tycoon!", "PetStoreTycoon", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PetStoreTycoon.lua")
                     
+                    
+addscriptexist(4598019433, "GenericRoleplayGaem", "MaGiXx", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/GenericRoleplayGaem.lua")
