@@ -9998,3 +9998,5 @@ addscriptexist(301549746, "CounterBlox", "Terni", "https://raw.githubusercontent
 addscriptexist(1167791961, "KnifeSimulator", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/KnifeSimulator.lua")
                     
 addscriptexist(734159876, "SharkBite", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SharkBite.lua")
+                    
+addscriptexist(5534174456, "TropicalResortTycoon", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TropicalResortTycoon.lua")
