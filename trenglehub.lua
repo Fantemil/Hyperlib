@@ -9349,3 +9349,5 @@ addscript(1069951594,"Fall of Hell [Auto Win/+Time/Freeze Parts]", "FallofHellAu
                     
                     
 addscriptexist(1069951594, "FallofHellGodmode", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FallofHellGodmode.lua")
+                    
+addscriptexist(6299805723, "AnimeFightersSimulatorAutoSellFightersAutoCollectdropAutoFarm", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AnimeFightersSimulatorAutoSellFightersAutoCollectdropAutoFarm.lua")
