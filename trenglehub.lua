@@ -9797,3 +9797,5 @@ addscript(6723408631,"Idle Tappers GUI!", "IdleTappersGUI", "UKpansR", "https://
 addscriptexist(606849621, "JailbreakAutoFarm", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/JailbreakAutoFarm.lua")
                     
 addscriptexist(4543144283, "MegaNoobSimulatorOPGUI", "UKpansR", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MegaNoobSimulatorOPGUI.lua")
+                    
+addscriptexist(6938803436, "AnimeDimensions", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AnimeDimensions.lua")
