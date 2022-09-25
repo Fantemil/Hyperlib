@@ -9206,3 +9206,6 @@ addscript(6590445138,"Island Survival [Auto Farm]", "IslandSurvivalAutoFarm", "Q
 addscriptexist(7393403076, "AnimeArtifactsSimulatorFARMMONEYTEMPLATEDEMON", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AnimeArtifactsSimulatorFARMMONEYTEMPLATEDEMON.lua")
                     
 addscriptexist(606849621, "JailbreakAutoFarmInfNitroKillAura", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/JailbreakAutoFarmInfNitroKillAura.lua")
+    
+addscript(5734383673,"Roblox [Fly facilities]", "RobloxFlyfacilities", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RobloxFlyfacilities.lua")
+                    
