@@ -9863,3 +9863,6 @@ addscript(6234390472,"Cooking in the Rain", "CookingintheRain", "Terni", "https:
                     
                     
 addscriptexist(4806026225, "DefendersDepot", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DefendersDepot.lua")
+    
+addscript(5930941618,"My Salon GUI", "MySalonGUI", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MySalonGUI.lua")
+                    
