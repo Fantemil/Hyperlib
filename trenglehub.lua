@@ -10701,3 +10701,6 @@ addscript(4500662699,"Blood Moon Tycoon 2", "BloodMoonTycoon2", "Acc", "https://
                     
                     
 addscriptexist(3272915504, "WorldofMagic", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/WorldofMagic.lua")
+    
+addscript(5732973455,"HOURS", "HOURS", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/HOURS.lua")
+                    
