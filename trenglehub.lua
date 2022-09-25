@@ -11025,3 +11025,6 @@ addscriptuniversal("UniversalExplorer", "astrofile", "https://raw.githubusercont
 
                     
 addscriptexist(2537430692, "UniversalExplorer", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/UniversalExplorer.lua")
+
+                    
+addscriptexist(9417197334, "AnimeStoryAutoOres", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AnimeStoryAutoOres.lua")
