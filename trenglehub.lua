@@ -10229,3 +10229,6 @@ addscript(6352880659,"Snowball.io", "Snowballio", "Terni", "https://raw.githubus
     
 addscript(2616498302,"Slaying Simulator", "SlayingSimulator", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SlayingSimulator.lua")
                     
+    
+addscript(5257505590,"Saiyan Fighting Simulator", "SaiyanFightingSimulator", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SaiyanFightingSimulator.lua")
+                    
