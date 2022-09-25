@@ -9379,3 +9379,6 @@ addscript(3700469782,"2 Player Among Us Tycoon [1 click $2 million]", "2PlayerAm
 addscriptexist(4787629450, "BOOGABOOGAAutoHeal", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BOOGABOOGAAutoHeal.lua")
                     
 addscriptexist(6897226634, "TimberTREECUTTINGAURA", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TimberTREECUTTINGAURA.lua")
+    
+addscript(7081641016,"Bank Robbery Simulator [ Auto CollectDrop/Auto Sell/Bag]", "BankRobberySimulatorAutoCollectDropAutoSellBag", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BankRobberySimulatorAutoCollectDropAutoSellBag.lua")
+                    
