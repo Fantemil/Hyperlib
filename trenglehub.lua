@@ -10742,3 +10742,6 @@ addscriptexist(1240123653, "ZombieAttackGui", "Acc", "https://raw.githubusercont
 addscriptexist(893973440, "FleetheFacilityBetaGui", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FleetheFacilityBetaGui.lua")
                     
 addscriptexist(5617626326, "BloodSamurai2", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BloodSamurai2.lua")
+    
+addscript(749703080,"Avatar", "AvatarTheLastAirbender", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AvatarTheLastAirbender.lua")
+                    
