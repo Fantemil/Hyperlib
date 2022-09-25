@@ -10560,3 +10560,6 @@ addscript(5266363557,"Combo Clickers", "ComboClickers", "Acc", "https://raw.gith
                     
                     
 addscriptexist(2866967438, "FishingSimulator", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FishingSimulator.lua")
+    
+addscript(4795251564,"Blocks!", "Blocks", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blocks.lua")
+                    
