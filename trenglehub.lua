@@ -8939,3 +8939,6 @@ addscript(4543144283,"Mega Noob Simulator [Auto Kill, Kill Aura, Collect Coins]"
                     
                     
 addscriptexist(891852901, "GreenvilleAutoFarm", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/GreenvilleAutoFarm.lua")
+    
+addscript(7555007091,"Hexa Game [AutoWin]", "HexaGameAutoWin", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/HexaGameAutoWin.lua")
+                    
