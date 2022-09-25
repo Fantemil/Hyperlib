@@ -9184,3 +9184,5 @@ addscriptexist(3823781113, "SaberSimulatorAutoClickBossFarmBetaCandyFarm", "Qaln
     
 addscript(6129557066,"UFO Tycoon [AUTO-BUILD, AUTO-COLLECT]", "UFOTycoonAUTOBUILDAUTOCOLLECT", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/UFOTycoonAUTOBUILDAUTOCOLLECT.lua")
                     
+                    
+addscriptexist(7453798168, "YouTubeSimulatorXAutoClickAutoEditAutoCollectGems", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/YouTubeSimulatorXAutoClickAutoEditAutoCollectGems.lua")
