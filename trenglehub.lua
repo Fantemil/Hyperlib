@@ -10255,3 +10255,6 @@ addscript(5784984978,"Milk Simulator", "MilkSimulator", "Terni", "https://raw.gi
     
 addscript(5546188609,"Scythe Simulator", "ScytheSimulator", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ScytheSimulator.lua")
                     
+    
+addscript(1862413075,"Farming Simulator", "FarmingSimulator", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FarmingSimulator.lua")
+                    
