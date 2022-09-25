@@ -9246,3 +9246,5 @@ addscript(3376584594,"Flight Simulator [Inf money]", "FlightSimulatorInfmoney", 
                     
                     
 addscriptexist(286090429, "ArsenalNEWBESTGUI", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ArsenalNEWBESTGUI.lua")
+                    
+addscriptexist(2248408710, "DestructionSimulatorAutoFarm", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DestructionSimulatorAutoFarm.lua")
