@@ -9391,3 +9391,6 @@ addscript(7087534079,"Naruto Defense Simulator [Kill all]", "NarutoDefenseSimula
                     
                     
 addscriptexist(4410049285, "DrivingSimulatorInfNitro", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DrivingSimulatorInfNitro.lua")
+    
+addscript(7232621271,"Luobu Mystery Box Hunt [GET ALL BOXES]", "LuobuMysteryBoxHuntGETALLBOXES", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LuobuMysteryBoxHuntGETALLBOXES.lua")
+                    
