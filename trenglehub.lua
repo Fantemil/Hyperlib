@@ -10631,3 +10631,6 @@ addscript(5977280685,"Ninja Legends 2", "NinjaLegends2", "Acc", "https://raw.git
                     
                     
 addscriptexist(5665787539, "GodsOfGloryBETA", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/GodsOfGloryBETA.lua")
+    
+addscript(5802761955,"Last Honor - Gun Testing", "LastHonorGunTesting", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LastHonorGunTesting.lua")
+                    
