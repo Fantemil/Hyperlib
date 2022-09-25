@@ -10502,3 +10502,5 @@ addscript(7794847395,"Tapping Masters Script", "TappingMastersScript", "Acc", "h
     
 addscript(6121562632,"Relinquit", "Relinquit", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Relinquit.lua")
                     
+                    
+addscriptexist(4522347649, "RevizAdmin", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RevizAdmin.lua")
