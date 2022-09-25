@@ -9399,3 +9399,6 @@ addscriptexist(6284583030, "OPPetSimulatorXGUIDupeRainbows", "Acc", "https://raw
     
 addscript(7025847767,"Destroyer Simulator [Auto Rage/Auto Punch Bags/Auto rebirth]", "DestroyerSimulatorAutoRageAutoPunchBagsAutorebirth", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DestroyerSimulatorAutoRageAutoPunchBagsAutorebirth.lua")
                     
+    
+addscript(6279039046,"Sled Simulator [Auto Farm/Equip Good item]", "SledSimulatorAutoFarmEquipGooditem", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SledSimulatorAutoFarmEquipGooditem.lua")
+                    
