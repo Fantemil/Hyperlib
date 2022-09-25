@@ -9257,3 +9257,5 @@ addscript(6573910231,"Project Star [Stand Arrow,Rokakaka]", "ProjectStarStandArr
                     
                     
 addscriptexist(286090429, "ArsenalAIMKILLALLESPTRIGER", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ArsenalAIMKILLALLESPTRIGER.lua")
+                    
+addscriptexist(3376584594, "FlightSimulatorInfXp", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FlightSimulatorInfXp.lua")
