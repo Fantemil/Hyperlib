@@ -9120,3 +9120,5 @@ addscriptexist(137885680, "ZombieRushAutoShootAutoEquip", "Terni", "https://raw.
 addscriptexist(4616652839, "ShindoAutoFarmVipServerAutoRank", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ShindoAutoFarmVipServerAutoRank.lua")
                     
 addscriptexist(6953291455, "EatingSimulatorAUTOFARMAUTOBUYAUTOEGGMORE", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/EatingSimulatorAUTOFARMAUTOBUYAUTOEGGMORE.lua")
+                    
+addscriptexist(7180042682, "MilitaryTycoonAUTOBUILDAUTOKILLMORE", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MilitaryTycoonAUTOBUILDAUTOKILLMORE.lua")
