@@ -9835,3 +9835,5 @@ addscriptexist(4651779470, "RECOILBETA", "Terni", "https://raw.githubusercontent
     
 addscript(6011691652,"Magnet Legends", "MagnetLegends", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MagnetLegends.lua")
                     
+                    
+addscriptexist(3486025575, "MagnetSimulator", "MaGiXx", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MagnetSimulator.lua")
