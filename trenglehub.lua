@@ -9310,3 +9310,6 @@ addscriptexist(2546155523, "RoVilleAutoFarm", "Qalnik", "https://raw.githubuserc
 addscriptexist(3351674303, "DrivingEmpireAutoFarm", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DrivingEmpireAutoFarm.lua")
                     
 addscriptexist(2248408710, "DestructionSimulatorInfMoneyAutoSellAddlvl", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DestructionSimulatorInfMoneyAutoSellAddlvl.lua")
+    
+addscript(32331218,"Mega Marble Run Pit [Auto Farm]", "MegaMarbleRunPitAutoFarm", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MegaMarbleRunPitAutoFarm.lua")
+                    
