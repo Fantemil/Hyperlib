@@ -9221,3 +9221,5 @@ addscriptexist(7393403076, "AnimeArtifactsSimulatorFARMCOLLECT", "Terni", "https
 addscriptexist(6875469709, "STRONGESTPUNCHSIMULATORFarmArtifactInvisiblemodeSafeMode", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/STRONGESTPUNCHSIMULATORFarmArtifactInvisiblemodeSafeMode.lua")
                     
 addscriptexist(1962086868, "TowerofHellGODMODEGUI", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TowerofHellGODMODEGUI.lua")
+                    
+addscriptexist(4616652839, "ShindoBESTGUI", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ShindoBESTGUI.lua")
