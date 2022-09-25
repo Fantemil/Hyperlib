@@ -9761,3 +9761,6 @@ addscriptexist(6766156863, "StrongmanSimulatorNewScript", "to_hen", "https://raw
 addscriptexist(4850718823, "SkatePark200KXP15MILLIONCREDITSOPENSOURCE", "Полотенчик", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SkatePark200KXP15MILLIONCREDITSOPENSOURCE.lua")
                     
 addscriptexist(4996049426, "AllStarTowerDefenseAutoFarmUnitsInteractionSelectUnits", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AllStarTowerDefenseAutoFarmUnitsInteractionSelectUnits.lua")
+    
+addscript(6196669580,"Monster Quest - Auto Farm - Anti Afk", "MonsterQuestAutoFarmAntiAfk", "UKpansR", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MonsterQuestAutoFarmAntiAfk.lua")
+                    
