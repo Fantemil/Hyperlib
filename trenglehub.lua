@@ -9597,3 +9597,5 @@ addscriptexist(6904735821, "ShoeSimulatorAUTOFARMANTIAFKGETALLAUTOBUY", "wsufy.l
 addscriptexist(4580204640, "JUMPPOWERFORALLGAMES", "wsufy.lnd", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/JUMPPOWERFORALLGAMES.lua")
                     
 addscriptexist(6904735821, "ShoeSimulatorGLASSLACES", "wsufy.lnd", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ShoeSimulatorGLASSLACES.lua")
+                    
+addscriptexist(4058282580, "BoxingSimulatorAUTOFARMALLISLANDSCOINS", "wsufy.lnd", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BoxingSimulatorAUTOFARMALLISLANDSCOINS.lua")
