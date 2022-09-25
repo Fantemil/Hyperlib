@@ -9869,3 +9869,6 @@ addscript(5930941618,"My Salon GUI", "MySalonGUI", "Terni", "https://raw.githubu
     
 addscript(6419299687,"Crash Simulator", "CrashSimulator", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CrashSimulator.lua")
                     
+    
+addscript(5733777811,"Lockpicking Simulator", "LockpickingSimulator", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LockpickingSimulator.lua")
+                    
