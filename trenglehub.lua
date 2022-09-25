@@ -9323,3 +9323,5 @@ addscriptexist(2788229376, "DaHoodAutoFarmCrushServerAutoBuys", "Qalnik", "https
     
 addscript(5100475194,"Obby Trivia[Auto Farm]", "ObbyTriviaAutoFarm", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ObbyTriviaAutoFarm.lua")
                     
+                    
+addscriptexist(648362523, "BreakingPointFullbrightGundowmAfkKill", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BreakingPointFullbrightGundowmAfkKill.lua")
