@@ -9861,3 +9861,5 @@ addscript(3271441918,"Hero Simulator GUI", "HeroSimulatorGUI", "Terni", "https:/
     
 addscript(6234390472,"Cooking in the Rain", "CookingintheRain", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CookingintheRain.lua")
                     
+                    
+addscriptexist(4806026225, "DefendersDepot", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DefendersDepot.lua")
