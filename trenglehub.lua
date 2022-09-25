@@ -10882,3 +10882,5 @@ addscriptexist(734159876, "SharkBiteGUI", "Acc", "https://raw.githubusercontent.
 addscriptexist(137885680, "ZombieRushKillAll", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ZombieRushKillAll.lua")
                     
 addscriptexist(13822889, "LumberTycoon2PaintTools", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LumberTycoon2PaintTools.lua")
+                    
+addscriptexist(6610021055, "NoobyChat", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NoobyChat.lua")
