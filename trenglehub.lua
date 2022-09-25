@@ -10111,3 +10111,5 @@ addscriptexist(662417684, "LUCKYBLOCKSBattlegroundsGUI", "Terni", "https://raw.g
     
 addscript(8851865158,"Aethelbeorn", "Aethelbeorn", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Aethelbeorn.lua")
                     
+                    
+addscriptexist(6234390472, "Cookingintherain", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Cookingintherain.lua")
