@@ -10576,3 +10576,6 @@ addscript(4369222337,"Potion Simulator", "PotionSimulator", "Acc", "https://raw.
     
 addscript(4359012847,"Slashing Masters", "SlashingMasters", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SlashingMasters.lua")
                     
+    
+addscript(5230682285,"Space Legends", "SpaceLegends", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SpaceLegends.lua")
+                    
