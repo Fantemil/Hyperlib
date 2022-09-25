@@ -9526,3 +9526,5 @@ addscriptexist(5326405001, "BaseBattlesINFINITEAMMO", "Qalnik", "https://raw.git
     
 addscript(5310443220,"GOD TYCOON [GET ALL WEAPONS]", "GODTYCOONGETALLWEAPONS", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/GODTYCOONGETALLWEAPONS.lua")
                     
+                    
+addscriptexist(3851622790, "BreakInInstahealTeleprotsRemovetools", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BreakInInstahealTeleprotsRemovetools.lua")
