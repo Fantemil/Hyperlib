@@ -9358,3 +9358,6 @@ addscript(6198039277,"Cyber City Tycoon [Auto Farm]", "CyberCityTycoonAutoFarm",
                     
                     
 addscriptexist(2716845201, "WarriorSimulatorAutoFarmCollectCoinsAutoMoon", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/WarriorSimulatorAutoFarmCollectCoinsAutoMoon.lua")
+    
+addscript(6243699076,"The Mimic [Monster Esp/Door Ecp/Full Bright]", "TheMimicMonsterEspDoorEcpFullBright", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TheMimicMonsterEspDoorEcpFullBright.lua")
+                    
