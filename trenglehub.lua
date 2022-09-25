@@ -10317,3 +10317,6 @@ addscript(1599679393,"Pet Simulator!", "PetSimulator", "Ykpon", "https://raw.git
     
 addscript(6090639744,"Bacon Simulator", "BaconSimulator", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BaconSimulator.lua")
                     
+    
+addscript(5024229518,"Trading Simulator", "TradingSimulator", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TradingSimulator.lua")
+                    

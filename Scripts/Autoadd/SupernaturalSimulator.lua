@@ -1,1 +1,1 @@
- loadstring(game:HttpGet("https://pastebin.com/raw/TPvCDsbe", true))()
+ loadstring(game:HttpGet(("https://raw.githubusercontent.com/adrician/Supernatural-Simulator---Adrician-Marco-POLO/main/supernatural%20simulator.lua"),true))()

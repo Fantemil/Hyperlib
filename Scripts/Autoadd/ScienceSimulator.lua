@@ -1,1 +1,1 @@
- loadstring(game:HttpGet('https://raw.githubusercontent.com/Marco8642/science/main/science.lua'))()
+ loadstring(game:HttpGet("https://paste.gg/p/anonymous/8327388ef5b34664a1a4a8d4416b6c03/files/91881764bddb4658982d0fc39146fb5b/raw"))()

