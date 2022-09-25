@@ -9097,3 +9097,5 @@ addscript(7261675971,"Anime Storm Simulator [GUI FARM]", "AnimeStormSimulatorGUI
     
 addscript(5985232436,"Infectious Smile [Hip Height, Reset Character]", "InfectiousSmileHipHeightResetCharacter", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/InfectiousSmileHipHeightResetCharacter.lua")
                     
+                    
+addscriptexist(7336128600, "PetLegendsAutoFarmAntiAfkAutoOpenEggs", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PetLegendsAutoFarmAntiAfkAutoOpenEggs.lua")
