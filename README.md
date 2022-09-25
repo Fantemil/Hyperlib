@@ -35,7 +35,8 @@ You can change Basic Stuff there
 ## The General Tab
 Find basic and Universal Scripts here
 
-<img width="551" alt="General" src="https://user-images.githubusercontent.com/69359704/192143471-c51a44e3-4272-4592-b6ce-817bfc5cf36d.png">
+<img width="574" alt="General" src="https://user-images.githubusercontent.com/69359704/192156615-8b3c0770-ef60-4071-84a4-11ecc464aea2.png">
+
 
 ## The Game Hub Tab
 Find The Best Game Hubs Here
