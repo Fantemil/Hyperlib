@@ -9785,3 +9785,5 @@ addscriptexist(6299805723, "AnimeFightersSimulatorAutofarmAutoBuyEggsInfiniteYen
     
 addscript(6792241488,"Weight Lifing Simulator", "WeightLifingSimulator", "to_hen", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/WeightLifingSimulator.lua")
                     
+                    
+addscriptexist(286090429, "ROBLOXDYNAMICSILENTAIM–WORKSONARSENALCOUNTERBLOXOPENSOURCE", "Полотенчик", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ROBLOXDYNAMICSILENTAIM–WORKSONARSENALCOUNTERBLOXOPENSOURCE.lua")
