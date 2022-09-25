@@ -9673,3 +9673,6 @@ addscriptexist(1962086868, "TowerofhellINFJUMPFLYGODAUTOFARM", "wsufy.lnd", "htt
     
 addscript(6760562118,"Loot Lake Simulator [AUTOFARM/AUTOPLACE/ANTIAFK]", "LootLakeSimulatorAUTOFARMAUTOPLACEANTIAFK", "wsufy.lnd", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LootLakeSimulatorAUTOFARMAUTOPLACEANTIAFK.lua")
                     
+    
+addscript(7102729322,"Shaking Tapping [AUTOFARM/REBIRTHS/UPGRADES/EGG/ANTIAFK]", "ShakingTappingAUTOFARMREBIRTHSUPGRADESEGGANTIAFK", "wsufy.lnd", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ShakingTappingAUTOFARMREBIRTHSUPGRADESEGGANTIAFK.lua")
+                    
