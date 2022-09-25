@@ -9949,3 +9949,6 @@ addscriptexist(4811576324, "TotallyAccurateGunSimulator", "Terni", "https://raw.
     
 addscript(6774188812,"Mini Metro", "MiniMetro", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MiniMetro.lua")
                     
+    
+addscript(4846954296,"Toy Clicking Simulator!", "ToyClickingSimulator", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ToyClickingSimulator.lua")
+                    
