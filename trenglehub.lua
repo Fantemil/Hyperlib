@@ -10052,3 +10052,5 @@ addscriptexist(137885680, "ZombieRush", "Terni", "https://raw.githubusercontent.
 addscriptexist(1224212277, "BuildABoatForTreasure", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BuildABoatForTreasure.lua")
                     
 addscriptexist(142823291, "MurderMystery3", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MurderMystery3.lua")
+                    
+addscriptexist(3177438863, "SuperSaiyanSimulator2", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SuperSaiyanSimulator2.lua")
