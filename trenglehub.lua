@@ -11082,3 +11082,6 @@ addscriptuniversal("UniversalBypasserNwords", "astrofile", "https://raw.githubus
                         
 addscriptuniversal("UniversalStreamSniper", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/UniversalStreamSniper.lua")
     
+                        
+addscriptuniversal("UniversalInfinityStore", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/UniversalInfinityStore.lua")
+    
