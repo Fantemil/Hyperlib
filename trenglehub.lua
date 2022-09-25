@@ -9509,3 +9509,5 @@ addscriptexist(662417684, "LUCKYBLOCKSInfJumpAllgunsFly", "Qalnik", "https://raw
 addscriptexist(6284583030, "PetSimulatorXUpdateScript", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PetSimulatorXUpdateScript.lua")
                     
 addscriptexist(3527629287, "BIGPaintballKillallAimSpeed", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BIGPaintballKillallAimSpeed.lua")
+                    
+addscriptexist(4999590694, "ZombieDefenseTycoonKillallzombiefast", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ZombieDefenseTycoonKillallzombiefast.lua")
