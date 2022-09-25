@@ -10011,3 +10011,6 @@ addscriptexist(6610021055, "NoobArmyTycoon", "Terni", "https://raw.githubusercon
     
 addscript(6514274883,"Dream Island Tycoon", "DreamIslandTycoon", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DreamIslandTycoon.lua")
                     
+    
+addscript(6770817102,"Cyber Base Tycoon", "CyberBaseTycoon", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CyberBaseTycoon.lua")
+                    
