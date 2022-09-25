@@ -10888,3 +10888,6 @@ addscriptexist(6610021055, "NoobyChat", "Acc", "https://raw.githubusercontent.co
 addscriptexist(142823291, "MurderMystery2Coin", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MurderMystery2Coin.lua")
                     
 addscriptexist(920587237, "AdoptMeGui", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AdoptMeGui.lua")
+    
+addscript(5083731857,"Saitama Simulator AutoFarm", "SaitamaSimulatorAutoFarm", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SaitamaSimulatorAutoFarm.lua")
+                    
