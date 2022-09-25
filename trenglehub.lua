@@ -8929,3 +8929,5 @@ addscript(5865858426,"Retail Tycoon 2 [Auto Farm Event]", "RetailTycoon2AutoFarm
 addscriptexist(2551991523, "BrokenBonesIVStartStopClose", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BrokenBonesIVStartStopClose.lua")
                     
 addscriptexist(137885680, "ZombieRushKILLALLBRINGALLESP", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ZombieRushKILLALLBRINGALLESP.lua")
+                    
+addscriptexist(621129760, "KATAimSpamKnifeInfAmmo", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/KATAimSpamKnifeInfAmmo.lua")
