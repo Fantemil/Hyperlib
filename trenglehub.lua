@@ -10218,3 +10218,5 @@ addscriptexist(5659599095, "BloxStreets", "Terni", "https://raw.githubuserconten
     
 addscript(418574428,"Downfall", "Downfall", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Downfall.lua")
                     
+                    
+addscriptexist(263761432, "HorrificHousing", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/HorrificHousing.lua")

