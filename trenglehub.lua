@@ -10835,3 +10835,5 @@ addscript(755776245,"Restaurant Tycoon", "RestaurantTycoon", "Acc", "https://raw
                     
                     
 addscriptexist(4623386862, "Piggy", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Piggy.lua")
+                    
+addscriptexist(5535087806, "TappingMania", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TappingMania.lua")
