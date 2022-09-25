@@ -11097,3 +11097,6 @@ addscriptuniversal("RobloxUniversalScriptHatsAnimations", "astrofile", "https://
                         
 addscriptuniversal("RobloxUniversalScriptFirstPerson", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RobloxUniversalScriptFirstPerson.lua")
     
+                        
+addscriptuniversal("AUniversalTimeFarmThungItemsFarmGodmodeMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AUniversalTimeFarmThungItemsFarmGodmodeMore.lua")
+    
