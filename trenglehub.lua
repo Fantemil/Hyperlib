@@ -10996,3 +10996,5 @@ addscriptexist(2753915549, "BloxFruitsAutoStatsAutoFarmPlayer", "astrofile", "ht
 addscriptexist(606849621, "JailbreakNoWaitInfiniteDuckInfinitePunch", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/JailbreakNoWaitInfiniteDuckInfinitePunch.lua")
                     
 addscriptexist(4967465336, "RaysModInfinityHealth", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RaysModInfinityHealth.lua")
+                    
+addscriptexist(9264596435, "IdleHeroesSimulatorAutoAttackTpToEnemy", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/IdleHeroesSimulatorAutoAttackTpToEnemy.lua")
