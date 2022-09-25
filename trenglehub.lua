@@ -10536,3 +10536,6 @@ addscript(5645001551,"Munition (BETA)", "MunitionBETA", "Acc", "https://raw.gith
                     
                     
 addscriptexist(3351674303, "DrivingEmpireBETA", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DrivingEmpireBETA.lua")
+    
+addscript(5359071009,"Hunter x Online", "HunterxOnline", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/HunterxOnline.lua")
+                    
