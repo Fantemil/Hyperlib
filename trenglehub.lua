@@ -10531,3 +10531,6 @@ addscript(4601704679,"Bakon", "Bakon", "Acc", "https://raw.githubusercontent.com
                     
                     
 addscriptexist(1069951594, "FallofHell", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FallofHell.lua")
+    
+addscript(5645001551,"Munition (BETA)", "MunitionBETA", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MunitionBETA.lua")
+                    
