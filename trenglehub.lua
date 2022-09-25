@@ -10206,3 +10206,6 @@ addscript(5854098726,"Spooky Simulator", "SpookySimulator", "Terni", "https://ra
     
 addscript(2577423786,"Superhero Simulator", "SuperheroSimulator", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SuperheroSimulator.lua")
                     
+    
+addscript(394506555,"Glue Piece", "GluePiece", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/GluePiece.lua")
+                    
