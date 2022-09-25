@@ -9238,3 +9238,6 @@ addscript(164051105,"Super Bomb Survival [AUTO-WIN]", "SuperBombSurvivalAUTOWIN"
 addscriptexist(4545436299, "PetClicksSimulatorINFGEMSFARMMONEY", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PetClicksSimulatorINFGEMSFARMMONEY.lua")
                     
 addscriptexist(3607821695, "VietnamWarSimulator", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/VietnamWarSimulator.lua")
+    
+addscript(6042596851,"Navy War Tycoon [Auto Purchase/Auto rebirth/Auto Tp player]", "NavyWarTycoonAutoPurchaseAutorebirthAutoTpplayer", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NavyWarTycoonAutoPurchaseAutorebirthAutoTpplayer.lua")
+                    
