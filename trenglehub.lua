@@ -9919,3 +9919,5 @@ addscript(6075756195,"Clicking Havoc", "ClickingHavoc", "Terni", "https://raw.gi
     
 addscript(6090535886,"Blade Masters", "BladeMasters", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BladeMasters.lua")
                     
+                    
+addscriptexist(6915291292, "BakerySimulator", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BakerySimulator.lua")
