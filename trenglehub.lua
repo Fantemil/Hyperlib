@@ -10818,3 +10818,5 @@ addscriptexist(4470259111, "AdminGUI", "Acc", "https://raw.githubusercontent.com
     
 addscript(2636441885,"Speed City", "SpeedCity", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SpeedCity.lua")
                     
+                    
+addscriptexist(3127396113, "AvengersTestingServer", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AvengersTestingServer.lua")
