@@ -9822,3 +9822,5 @@ addscript(4822852675,"Typing Simulator GUI", "TypingSimulatorGUI", "UKpansR", "h
     
 addscript(6997540091,"Flower Magnet Simulator NEW GUI!", "FlowerMagnetSimulatorNEWGUI", "UKpansR", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FlowerMagnetSimulatorNEWGUI.lua")
                     
+                    
+addscriptexist(4042427666, "AnimeFightingSimulator", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AnimeFightingSimulator.lua")
