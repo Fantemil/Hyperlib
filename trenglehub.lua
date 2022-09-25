@@ -9295,3 +9295,5 @@ addscriptexist(4616652839, "ShindoAutoFarmGodmodeStoryFarm", "Qalnik", "https://
     
 addscript(7540891731,"Red Light, Green Light [Auto Farm]", "RedLightGreenLightAutoFarm", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RedLightGreenLightAutoFarm.lua")
                     
+                    
+addscriptexist(4924922222, "BrookhavenAdmincommands", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BrookhavenAdmincommands.lua")
