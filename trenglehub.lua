@@ -11084,3 +11084,6 @@ addscriptexist(542016179, "TeethyzDentistSpammakeappointments", "astrofile", "ht
 
                     
 addscriptexist(10710676163, "SPTSOriginAutoFarmAutoRespawnTpMore", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SPTSOriginAutoFarmAutoRespawnTpMore.lua")
+
+                    
+addscriptexist(4282985734, "CombatWarriorsAntiParryAutoParry", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CombatWarriorsAntiParryAutoParry.lua")
