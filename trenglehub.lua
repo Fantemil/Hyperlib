@@ -10394,3 +10394,5 @@ addscriptexist(3623096087, "MuscleLegends", "Ykpon", "https://raw.githubusercont
 addscriptexist(662417684, "LuckyBlocksBattlegrounds", "Ykpon", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LuckyBlocksBattlegrounds.lua")
                     
 addscriptexist(286090429, "ArsenalAim", "DeathDemon", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ArsenalAim.lua")
+                    
+addscriptexist(3101667897, "LegensOfSpeed", "Саске", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LegensOfSpeed.lua")
