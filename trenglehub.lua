@@ -10398,3 +10398,6 @@ addscriptexist(286090429, "ArsenalAim", "DeathDemon", "https://raw.githubusercon
 addscriptexist(3101667897, "LegensOfSpeed", "Саске", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LegensOfSpeed.lua")
                     
 addscriptexist(893973440, "FleeTheFacility", "Саске", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FleeTheFacility.lua")
+    
+addscript(4470259111,"Trolling GUI", "TrollingGUI", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TrollingGUI.lua")
+                    
