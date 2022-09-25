@@ -10979,3 +10979,6 @@ addscriptexist(2753915549, "BloxFruitsAutoFarmAutoSuperhuman", "astrofile", "htt
 addscriptexist(2041312716, "RagdollEngineFlyTeleportsmore", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RagdollEngineFlyTeleportsmore.lua")
                     
 addscriptexist(8737602449, "PLSDONATEFakeDonateNuke", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PLSDONATEFakeDonateNuke.lua")
+    
+addscript(542016179,"Teethyz Dentist", "TeethyzDentistAntiCheatDelete", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TeethyzDentistAntiCheatDelete.lua")
+                    
