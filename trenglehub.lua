@@ -9003,3 +9003,5 @@ addscriptexist(2512643572, "BubbleGumSimulatorTPautomaticallyclick", "Qalnik", "
 addscriptexist(6339160453, "AnimeNinjaWarTycoonInfmoneyfireinfinite", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AnimeNinjaWarTycoonInfmoneyfireinfinite.lua")
                     
 addscriptexist(7429434108, "AnimeTappersAutoFarmAutoRebirthBossFarm", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AnimeTappersAutoFarmAutoRebirthBossFarm.lua")
+                    
+addscriptexist(920587237, "AdoptMeAutoFarmCandy", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AdoptMeAutoFarmCandy.lua")
