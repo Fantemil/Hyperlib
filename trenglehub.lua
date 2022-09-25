@@ -10457,3 +10457,6 @@ addscriptexist(185655149, "Bloxburgv2", "Acc", "https://raw.githubusercontent.co
 addscriptexist(2202352383, "SuperPowerTrainingSimulator", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SuperPowerTrainingSimulator.lua")
                     
 addscriptexist(2414851778, "DungeonQuest", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DungeonQuest.lua")
+    
+addscript(5002210114,"Kitty", "Kitty", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Kitty.lua")
+                    
