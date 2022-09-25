@@ -9607,3 +9607,6 @@ addscriptexist(6284583030, "PetSimulatorXGetallShopItemsforFree", "Acc", "https:
 addscriptexist(4520749081, "KingLegacyAUTOFARMESPTP", "wsufy.lnd", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/KingLegacyAUTOFARMESPTP.lua")
                     
 addscriptexist(4580204640, "NOCLIPFORALLGAMES", "wsufy.lnd", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NOCLIPFORALLGAMES.lua")
+    
+addscript(6858184059,"Space Base Tycoon [AUTOFARM/ANTIAFK]", "SpaceBaseTycoonAUTOFARMANTIAFK", "wsufy.lnd", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SpaceBaseTycoonAUTOFARMANTIAFK.lua")
+                    
