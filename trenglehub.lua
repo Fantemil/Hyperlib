@@ -9255,3 +9255,5 @@ addscriptexist(3233893879, "BadBusinessBESTGUI", "Terni", "https://raw.githubuse
     
 addscript(6573910231,"Project Star [Stand Arrow,Rokakaka]", "ProjectStarStandArrowRokakaka", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ProjectStarStandArrowRokakaka.lua")
                     
+                    
+addscriptexist(286090429, "ArsenalAIMKILLALLESPTRIGER", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ArsenalAIMKILLALLESPTRIGER.lua")
