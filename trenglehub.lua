@@ -8859,3 +8859,5 @@ addscriptexist(7485253727, "TruePieceAutoFarm", "Acc", "https://raw.githubuserco
 addscriptexist(2262441883, "ElectricStateDarkRPKillSpeedTeleportKeyBinds", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ElectricStateDarkRPKillSpeedTeleportKeyBinds.lua")
                     
 addscriptexist(6802248248, "SAITAMANIAKillAura", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SAITAMANIAKillAura.lua")
+                    
+addscriptexist(286090429, "ArsenalAIMBOTESPALL", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ArsenalAIMBOTESPALL.lua")
