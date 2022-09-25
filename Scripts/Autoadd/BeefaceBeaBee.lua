@@ -1,0 +1,1 @@
+ loadstring(game:HttpGet('https://gist.githubusercontent.com/stellar-4242/87a169992016969e41e7da589503e947/raw/60fd38c2fa4ee5634d1be50da6aec4b50c5fa4f8/autofarm.lua'))()
