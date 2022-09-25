@@ -10745,3 +10745,6 @@ addscriptexist(5617626326, "BloodSamurai2", "Acc", "https://raw.githubuserconten
     
 addscript(749703080,"Avatar", "AvatarTheLastAirbender", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AvatarTheLastAirbender.lua")
                     
+    
+addscript(5080886060,"Heroes Legacy", "HeroesLegacy", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/HeroesLegacy.lua")
+                    
