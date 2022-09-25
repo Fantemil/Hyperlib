@@ -10173,3 +10173,5 @@ addscriptexist(6531005851, "LiftingTitans", "Terni", "https://raw.githubusercont
     
 addscript(5614655179,"Ultimate Admin Script", "UltimateAdminScript", "ChipyxaOOFicial", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/UltimateAdminScript.lua")
                     
+                    
+addscriptexist(5827078246, "CoinsHeroSimulator", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CoinsHeroSimulator.lua")
