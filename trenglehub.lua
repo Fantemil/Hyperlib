@@ -10509,3 +10509,6 @@ addscript(5744669807,"Undertale Ultimate TimeLine", "UndertaleUltimateTimeLine",
                     
                     
 addscriptexist(2551184308, "AfterTheFlashMirage", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AfterTheFlashMirage.lua")
+    
+addscript(4859936288,"Clicker Story", "ClickerStory", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ClickerStory.lua")
+                    
