@@ -10209,3 +10209,5 @@ addscript(2577423786,"Superhero Simulator", "SuperheroSimulator", "Terni", "http
     
 addscript(394506555,"Glue Piece", "GluePiece", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/GluePiece.lua")
                     
+                    
+addscriptexist(6804602922, "BoxingSimulator", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BoxingSimulator.lua")
