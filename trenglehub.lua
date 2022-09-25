@@ -8910,3 +8910,5 @@ addscriptexist(413424176, "CloneTycoon2KikBanPlayerInfiniteCashGemsGiantclone", 
 addscriptexist(2551991523, "BrokenBonesIVInfMoneySpamChat", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BrokenBonesIVInfMoneySpamChat.lua")
                     
 addscriptexist(3956818381, "NinjaLegendsAutoSwordAutoSellUnlockallislands", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NinjaLegendsAutoSwordAutoSellUnlockallislands.lua")
+                    
+addscriptexist(4246487209, "BossFightingSimulatorAutoClickSowrdAutoKillBossAutoUpgradeBackPack", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BossFightingSimulatorAutoClickSowrdAutoKillBossAutoUpgradeBackPack.lua")
