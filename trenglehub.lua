@@ -10060,3 +10060,5 @@ addscriptexist(920587237, "AdoptMe", "Terni", "https://raw.githubusercontent.com
 addscriptexist(3145447020, "MountEverestClimbingRoleplay", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MountEverestClimbingRoleplay.lua")
                     
 addscriptexist(4893679160, "BrainSimulator", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BrainSimulator.lua")
+                    
+addscriptexist(3823781113, "SaberSimulator", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SaberSimulator.lua")
