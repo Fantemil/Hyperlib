@@ -9755,3 +9755,5 @@ addscriptexist(4058282580, "BoxingSimulatorREALLYOPGUIAutoSellAutoFarm", "UKpans
 addscriptexist(286090429, "ArsenalVIEWMODELCHANGER–SKINARMMELEECHANGERCLIENTSIDED", "Полотенчик", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ArsenalVIEWMODELCHANGER–SKINARMMELEECHANGERCLIENTSIDED.lua")
                     
 addscriptexist(920587237, "AdoptMeVGHubScript2021", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AdoptMeVGHubScript2021.lua")
+                    
+addscriptexist(6766156863, "StrongmanSimulatorNewScript", "to_hen", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/StrongmanSimulatorNewScript.lua")
