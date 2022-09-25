@@ -10170,3 +10170,6 @@ addscript(5609538200,"Tower of Fun", "TowerofFun", "Terni", "https://raw.githubu
 addscriptexist(142823291, "MurderMystery2FAKEKNIFE", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MurderMystery2FAKEKNIFE.lua")
                     
 addscriptexist(6531005851, "LiftingTitans", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LiftingTitans.lua")
+    
+addscript(5614655179,"Ultimate Admin Script", "UltimateAdminScript", "ChipyxaOOFicial", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/UltimateAdminScript.lua")
+                    
