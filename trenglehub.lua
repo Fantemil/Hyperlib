@@ -10884,3 +10884,5 @@ addscriptexist(137885680, "ZombieRushKillAll", "Acc", "https://raw.githubusercon
 addscriptexist(13822889, "LumberTycoon2PaintTools", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LumberTycoon2PaintTools.lua")
                     
 addscriptexist(6610021055, "NoobyChat", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NoobyChat.lua")
+                    
+addscriptexist(142823291, "MurderMystery2Coin", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MurderMystery2Coin.lua")
