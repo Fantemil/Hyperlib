@@ -9774,3 +9774,5 @@ addscript(3137426313,"Tap Farm Tycoon! FULL AFK GUI", "TapFarmTycoonFULLAFKGUI",
                     
                     
 addscriptexist(2753915549, "BloxFruitsXenosHubGUI", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BloxFruitsXenosHubGUI.lua")
+                    
+addscriptexist(286090429, "ArsenalGUNMODSFORNEWUPDATEJULY2021", "Полотенчик", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ArsenalGUNMODSFORNEWUPDATEJULY2021.lua")
