@@ -9269,3 +9269,5 @@ addscriptexist(142823291, "MurderMystery2KILLALLESP", "Terni", "https://raw.gith
 addscriptexist(6573910231, "ProjectStarMOBSFARM", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ProjectStarMOBSFARM.lua")
                     
 addscriptexist(920587237, "AdoptMeBabyAutoFarmBuyeggAutoHealothers", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AdoptMeBabyAutoFarmBuyeggAutoHealothers.lua")
+                    
+addscriptexist(7045537335, "AnimeWorldsSimulatorFarmMisc", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AnimeWorldsSimulatorFarmMisc.lua")
