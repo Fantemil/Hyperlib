@@ -10608,3 +10608,5 @@ addscript(6409175633,"Auto-Sing [NGYU]", "AutoSingNGYU", "Acc", "https://raw.git
     
 addscript(1252559098,"Snow Shoveling Simulator", "SnowShovelingSimulator", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SnowShovelingSimulator.lua")
                     
+                    
+addscriptexist(5902977746, "SuperheroTowerDefense", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SuperheroTowerDefense.lua")
