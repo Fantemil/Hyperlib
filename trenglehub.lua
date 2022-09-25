@@ -9996,3 +9996,5 @@ addscriptexist(662417684, "LUCKYBLOCKSBattlegrounds", "Terni", "https://raw.gith
 addscriptexist(301549746, "CounterBlox", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CounterBlox.lua")
                     
 addscriptexist(1167791961, "KnifeSimulator", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/KnifeSimulator.lua")
+                    
+addscriptexist(734159876, "SharkBite", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SharkBite.lua")

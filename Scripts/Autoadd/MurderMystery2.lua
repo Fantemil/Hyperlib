@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("pastebin.com/MZaJmWL1", true))()
+game:GetService("ReplicatedStorage").IsXbox:FireServer()
