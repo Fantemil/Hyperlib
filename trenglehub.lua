@@ -9916,3 +9916,6 @@ addscriptexist(5264342538, "EndlessMiningSimulator", "MaGiXx", "https://raw.gith
     
 addscript(6075756195,"Clicking Havoc", "ClickingHavoc", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ClickingHavoc.lua")
                     
+    
+addscript(6090535886,"Blade Masters", "BladeMasters", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BladeMasters.lua")
+                    
