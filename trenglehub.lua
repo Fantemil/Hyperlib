@@ -10827,3 +10827,6 @@ addscript(4457085477,"Clover", "Clover", "Acc", "https://raw.githubusercontent.c
                     
                     
 addscriptexist(855499080, "SkyWars", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SkyWars.lua")
+    
+addscript(5790039516,"Lil Nas X Concert Experience", "LilNasXConcertExperience", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LilNasXConcertExperience.lua")
+                    

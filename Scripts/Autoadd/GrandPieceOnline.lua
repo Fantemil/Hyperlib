@@ -1,1 +1,1 @@
---[[ Made by budderattack550 on v3rmillion! Press "B" to turn on the esp Press "N" to turn it off ]] loadstring(game:HttpGet("https://hastebin.com/raw/xazazulami", true))()
+_G.InfStam = true -- change true to false to turn it off and execute again!  loadstring(game:HttpGet("https://hastebin.com/raw/ibakiwazet", true))()
