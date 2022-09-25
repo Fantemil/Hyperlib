@@ -9191,3 +9191,5 @@ addscriptexist(142823291, "MurderMystery2KillAllAutoFarmKnifeSpam", "Qalnik", "h
     
 addscript(7541759836,"凹凸世界：自由丛林", "凹凸世界：自由丛林", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/凹凸世界：自由丛林.lua")
                     
+                    
+addscriptexist(4866692557, "AgeofHeroes3FARMS", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AgeofHeroes3FARMS.lua")
