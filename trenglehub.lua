@@ -10244,3 +10244,5 @@ addscriptexist(3458435516, "LimitedSimulator2", "Terni", "https://raw.githubuser
     
 addscript(4952780297,"Combat Rift", "CombatRift", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CombatRift.lua")
                     
+                    
+addscriptexist(2990100290, "RPGSimulator", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RPGSimulator.lua")
