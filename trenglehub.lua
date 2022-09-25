@@ -10563,3 +10563,6 @@ addscriptexist(2866967438, "FishingSimulator", "Acc", "https://raw.githubusercon
     
 addscript(4795251564,"Blocks!", "Blocks", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blocks.lua")
                     
+    
+addscript(901793731,"D-DAY", "DDAY", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DDAY.lua")
+                    
