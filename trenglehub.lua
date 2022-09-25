@@ -10349,3 +10349,6 @@ addscriptexist(6681032961, "MuseumTycoon", "Terni", "https://raw.githubuserconte
     
 addscript(4926599832,"My Donut Store", "MyDonutStore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MyDonutStore.lua")
                     
+    
+addscript(6368458125,"PolyCityRP", "PolyCityRP", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PolyCityRP.lua")
+                    
