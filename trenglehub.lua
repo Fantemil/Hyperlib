@@ -10593,3 +10593,5 @@ addscriptexist(4723618670, "WisteriaAUTOFARM", "Acc", "https://raw.githubusercon
     
 addscript(3168928542,"Mining Inc Remastered", "MiningIncRemastered", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MiningIncRemastered.lua")
                     
+                    
+addscriptexist(137877687, "RoCitizensPaintingEditor", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RoCitizensPaintingEditor.lua")
