@@ -10043,3 +10043,6 @@ addscript(204990346,"Tiny Tanks!", "TinyTanks", "Terni", "https://raw.githubuser
     
 addscript(6771382126,"Noob Piece", "NoobPiece", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NoobPiece.lua")
                     
+    
+addscript(6264160858,"Plants v. Noobs", "PlantsvNoobs", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PlantsvNoobs.lua")
+                    
