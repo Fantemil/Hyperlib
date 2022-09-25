@@ -10629,3 +10629,5 @@ addscript(6110766473,"Flex Fight", "FlexFight", "Acc", "https://raw.githubuserco
     
 addscript(5977280685,"Ninja Legends 2", "NinjaLegends2", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NinjaLegends2.lua")
                     
+                    
+addscriptexist(5665787539, "GodsOfGloryBETA", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/GodsOfGloryBETA.lua")
