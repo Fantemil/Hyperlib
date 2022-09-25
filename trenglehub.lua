@@ -10854,3 +10854,5 @@ addscript(4254575069,"Champion Simulator", "ChampionSimulator", "Acc", "https://
                     
                     
 addscriptexist(3823781113, "SaberSimulatorGui", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SaberSimulatorGui.lua")
+                    
+addscriptexist(2788229376, "DaHoodScript", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DaHoodScript.lua")
