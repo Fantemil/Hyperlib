@@ -10187,3 +10187,5 @@ addscript(3082130015,"Ninja Magic", "NinjaMagic", "Terni", "https://raw.githubus
                     
                     
 addscriptexist(6490016198, "SlayerTycoon", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SlayerTycoon.lua")
+                    
+addscriptexist(155382109, "SurviveandKilltheKillersinArea51", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SurviveandKilltheKillersinArea51.lua")
