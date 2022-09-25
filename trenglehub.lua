@@ -10584,3 +10584,5 @@ addscriptexist(659222129, "Swordburst2", "Acc", "https://raw.githubusercontent.c
     
 addscript(16613936,"Greenwood Town", "GreenwoodTown", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/GreenwoodTown.lua")
                     
+                    
+addscriptexist(5293755937, "SpeedRunSimulatorFARM", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SpeedRunSimulatorFARM.lua")
