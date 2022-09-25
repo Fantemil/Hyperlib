@@ -11181,3 +11181,6 @@ addscriptuniversal("RobloxUniversalScriptNoclip", "astrofile", "https://raw.gith
 
                     
 addscriptexist(2537430692, "JengaInfjumpRemovePartsWalkSpeed", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/JengaInfjumpRemovePartsWalkSpeed.lua")
+
+                    
+addscriptexist(2577040780, "EvictionNoticeChallengeListFreePlayer", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/EvictionNoticeChallengeListFreePlayer.lua")
