@@ -8954,3 +8954,6 @@ addscriptexist(3101667897, "LegendsOfSpeedAUTOFARM", "Terni", "https://raw.githu
     
 addscript(7470980441,"Anime Attack Simulator [AUTO-FARM ALL WORLDS]", "AnimeAttackSimulatorAUTOFARMALLWORLDS", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AnimeAttackSimulatorAUTOFARMALLWORLDS.lua")
                     
+    
+addscript(6951762614,"UFO Simulator [AUTO-FARM, AUTO-CLAIM, MORE!]", "UFOSimulatorAUTOFARMAUTOCLAIMMORE", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/UFOSimulatorAUTOFARMAUTOCLAIMMORE.lua")
+                    
