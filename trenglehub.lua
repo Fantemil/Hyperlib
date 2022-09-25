@@ -19,6 +19,12 @@ function addscriptexist(Place,title,author,scriptlink)
     end
         
 end
+function addscriptuniversal(title,author,scriptlink)
+    generalscriptssection = _G.generalscriptssection
+    generalscriptssection:NewButton(title, author, function()
+        loadstring(game:HttpGet(scriptlink))()
+        end)
+end
 local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Library/kavo-ui.lua"))()
 _G.Window = Library.CreateLib("Hyperlib", "BloodTheme")
 Window = _G.Window
@@ -33,9 +39,9 @@ PlayerSection:NewSlider("Jumppower", "Changes the jumppower", 250, 50, function(
     game.Players.LocalPlayer.Character.Humanoid.JumpPower = v
 end)
 
-local generalscripts = Window:NewTab("General")
-local generalscriptssection = generalscripts:NewSection("---General Scripts---")
-
+_G.generalscripts = Window:NewTab("General")
+_G.generalscriptssection = generalscripts:NewSection("---General/Universal Scripts---")
+generalscriptssection = _G.generalscriptssection
 generalscriptssection:NewButton("Infinite Yield", "Made by EdgeIY and more", function()
     loadstring(game:HttpGet("https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source"))()
 end)
