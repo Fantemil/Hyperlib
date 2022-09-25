@@ -10947,3 +10947,5 @@ addscriptexist(443406476, "ProjectLazarusZOMBIES", "Acc", "https://raw.githubuse
 addscriptexist(205224386, "HideandSeek", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/HideandSeek.lua")
                     
 addscriptexist(2202352383, "SuperPowerTrainingGui", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SuperPowerTrainingGui.lua")
+                    
+addscriptexist(185655149, "BloxBurgGui", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BloxBurgGui.lua")
