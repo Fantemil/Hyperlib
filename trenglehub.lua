@@ -8947,3 +8947,5 @@ addscript(1182833048,"Growing Up [flying broom]", "GrowingUpflyingbroom", "Qalni
                     
                     
 addscriptexist(3851622790, "BreakInInstaHealTeleportGiveitems", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BreakInInstaHealTeleportGiveitems.lua")
+                    
+addscriptexist(13822889, "LumberTycoon2ANTIBLACKLISTMAXLANDPAINTTOOL", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LumberTycoon2ANTIBLACKLISTMAXLANDPAINTTOOL.lua")
