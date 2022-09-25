@@ -10100,3 +10100,5 @@ addscriptexist(9840387028, "EraofAlthea", "Terni", "https://raw.githubuserconten
     
 addscript(5692464985,"Gridiron Football", "GridironFootball", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/GridironFootball.lua")
                     
+                    
+addscriptexist(5865858426, "RetailTycoon", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RetailTycoon.lua")
