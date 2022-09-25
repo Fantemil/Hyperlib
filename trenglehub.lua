@@ -9079,3 +9079,5 @@ addscriptexist(6720959312, "BuildABoatForTreasureGodAutoFarmTransform", "Qalnik"
     
 addscript(4545436299,"Pet Clicks Simulator [AUTO-FARM, DEV TOOL]", "PetClicksSimulatorAUTOFARMDEVTOOL", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PetClicksSimulatorAUTOFARMDEVTOOL.lua")
                     
+                    
+addscriptexist(6299805723, "AnimeFightersSimulatorAUTOFARMGUIAUTOOPEN", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AnimeFightersSimulatorAUTOFARMGUIAUTOOPEN.lua")
