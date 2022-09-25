@@ -10815,3 +10815,6 @@ addscript(5396265722,"An Astonishing Day", "AnAstonishingDay", "Acc", "https://r
 addscriptexist(5130598377, "VacumSimulator", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/VacumSimulator.lua")
                     
 addscriptexist(4470259111, "AdminGUI", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AdminGUI.lua")
+    
+addscript(2636441885,"Speed City", "SpeedCity", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SpeedCity.lua")
+                    
