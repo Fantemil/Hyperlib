@@ -10936,3 +10936,6 @@ addscriptexist(3527629287, "BIGPaintballGui", "Acc", "https://raw.githubusercont
 addscriptexist(13822889, "LumberTycoon2Gui", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LumberTycoon2Gui.lua")
                     
 addscriptexist(3527629287, "BIGPaintballAutoKill", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BIGPaintballAutoKill.lua")
+    
+addscript(5596703547,"Weight Lifting Simulator 5", "WeightLiftingSimulator5", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/WeightLiftingSimulator5.lua")
+                    
