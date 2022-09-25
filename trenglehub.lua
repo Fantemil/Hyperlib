@@ -8851,3 +8851,5 @@ addscriptexist(6512923934, "UltraClickersAutoFarm", "Qalnik", "https://raw.githu
 addscriptexist(2753915549, "BloxFruitsAutoFarmFastAttack", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BloxFruitsAutoFarmFastAttack.lua")
                     
 addscriptexist(3260590327, "TowerDefenseSimulatorTowersRemoveToversAutoSkip", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TowerDefenseSimulatorTowersRemoveToversAutoSkip.lua")
+                    
+addscriptexist(7449695387, "PetFightersSimulatorGui", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PetFightersSimulatorGui.lua")
