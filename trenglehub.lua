@@ -9225,3 +9225,5 @@ addscriptexist(1962086868, "TowerofHellGODMODEGUI", "Terni", "https://raw.github
 addscriptexist(4616652839, "ShindoBESTGUI", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ShindoBESTGUI.lua")
                     
 addscriptexist(6284583030, "PetSimulatorXUPDATEDGUI", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PetSimulatorXUPDATEDGUI.lua")
+                    
+addscriptexist(7082539621, "AnimeDestroyersSimulatorAUTOFARMGUI", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AnimeDestroyersSimulatorAUTOFARMGUI.lua")
