@@ -9465,3 +9465,5 @@ addscriptexist(4520749081, "KingLegacyAutoQuestLevelFarmAutoBusoHaki", "Qalnik",
 addscriptexist(443406476, "ProjectLazarusKillAuraInfAmmoInstaKill", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ProjectLazarusKillAuraInfAmmoInstaKill.lua")
                     
 addscriptexist(155615604, "PrisonLifeArrsetallAntiArrsetGunmode", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PrisonLifeArrsetallAntiArrsetGunmode.lua")
+                    
+addscriptexist(286090429, "ArsenalAimInfJumpEcp", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ArsenalAimInfJumpEcp.lua")
