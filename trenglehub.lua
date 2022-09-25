@@ -9806,3 +9806,6 @@ addscript(1919383429,"Embrithas", "Embrithas", "Terni", "https://raw.githubuserc
                     
                     
 addscriptexist(4855457388, "Demonfall", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Demonfall.lua")
+    
+addscript(6676587884,"My Chicken Farm! [BETA] GUI", "MyChickenFarmBETAGUI", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MyChickenFarmBETAGUI.lua")
+                    
