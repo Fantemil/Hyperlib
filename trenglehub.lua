@@ -10541,3 +10541,5 @@ addscript(5359071009,"Hunter x Online", "HunterxOnline", "Acc", "https://raw.git
                     
                     
 addscriptexist(5272267802, "BeaToy", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BeaToy.lua")
+                    
+addscriptexist(4616652839, "ShindoLifeV2", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ShindoLifeV2.lua")
