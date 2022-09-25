@@ -10430,3 +10430,5 @@ addscript(5902977746,"Ultimate Tower Defense Sim", "UltimateTowerDefenseSim", "A
                     
                     
 addscriptexist(2619187362, "SuperPowerFightingSimulator", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SuperPowerFightingSimulator.lua")
+                    
+addscriptexist(445664957, "Parkour", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Parkour.lua")
