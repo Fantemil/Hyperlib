@@ -10155,3 +10155,6 @@ addscriptexist(4499822233, "StarWarsBountyHuntersOuterRim", "Terni", "https://ra
 addscriptexist(4850718823, "SkatePark", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SkatePark.lua")
                     
 addscriptexist(4934471106, "MyHeroMania", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MyHeroMania.lua")
+    
+addscript(6440133276,"Shampoo Simulator", "ShampooSimulator", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ShampooSimulator.lua")
+                    
