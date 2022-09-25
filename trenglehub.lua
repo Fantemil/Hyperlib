@@ -10262,3 +10262,6 @@ addscript(1862413075,"Farming Simulator", "FarmingSimulator", "Terni", "https://
 addscriptexist(6305942109, "LaundrySimulatorV2", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LaundrySimulatorV2.lua")
                     
 addscriptexist(5546188609, "ScytheSimulatorV2", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ScytheSimulatorV2.lua")
+    
+addscript(5025324461,"Smacking Simulator", "SmackingSimulator", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SmackingSimulator.lua")
+                    
