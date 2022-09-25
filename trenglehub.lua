@@ -10886,3 +10886,5 @@ addscriptexist(13822889, "LumberTycoon2PaintTools", "Acc", "https://raw.githubus
 addscriptexist(6610021055, "NoobyChat", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NoobyChat.lua")
                     
 addscriptexist(142823291, "MurderMystery2Coin", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MurderMystery2Coin.lua")
+                    
+addscriptexist(920587237, "AdoptMeGui", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AdoptMeGui.lua")
