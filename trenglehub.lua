@@ -11016,3 +11016,6 @@ addscriptexist(370731277, "MeepCityBalloonSpam", "astrofile", "https://raw.githu
     
 addscript(10861112990,"Anime Artifacts Simulator 2", "AnimeArtifactsSimulator2Infinitecoins", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AnimeArtifactsSimulator2Infinitecoins.lua")
                     
+
+                    
+addscriptexist(2537430692, "JengaTpToolTpToDestroyermore", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/JengaTpToolTpToDestroyermore.lua")
