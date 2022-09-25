@@ -10423,3 +10423,5 @@ addscriptexist(2041312716, "RobloxRagdollEngine", "Acc", "https://raw.githubuser
 addscriptexist(3101667897, "Legendofspeed", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Legendofspeed.lua")
                     
 addscriptexist(1417427737, "MiningSimulator", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MiningSimulator.lua")
+                    
+addscriptexist(606849621, "JailBreak", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/JailBreak.lua")
