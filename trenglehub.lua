@@ -10959,3 +10959,5 @@ addscriptexist(1962086868, "TowerOfHellGui", "Acc", "https://raw.githubuserconte
 addscriptexist(537413528, "BuildABoatGui", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BuildABoatGui.lua")
                     
 addscriptexist(606849621, "JailBreakGui", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/JailBreakGui.lua")
+                    
+addscriptexist(171391948, "VehicleSimulatorGui", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/VehicleSimulatorGui.lua")
