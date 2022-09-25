@@ -10811,3 +10811,5 @@ addscript(5167508836,"YouTube Champions", "YouTubeChampions", "Acc", "https://ra
     
 addscript(5396265722,"An Astonishing Day", "AnAstonishingDay", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AnAstonishingDay.lua")
                     
+                    
+addscriptexist(5130598377, "VacumSimulator", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/VacumSimulator.lua")
