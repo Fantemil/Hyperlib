@@ -11070,3 +11070,6 @@ addscriptuniversal("UniversalChatBypasser", "astrofile", "https://raw.githubuser
                         
 addscriptuniversal("UniversalInfJump", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/UniversalInfJump.lua")
     
+                        
+addscriptuniversal("UniversalAntiBan", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/UniversalAntiBan.lua")
+    
