@@ -1,1 +1,1 @@
- loadstring(game:HttpGet(('https://weismann-epic.s-ul.eu/nKpRNiLP')))()
+loadstring(game:HttpGet("https://pastebin.com/raw/jKVWMtfV", true))()
