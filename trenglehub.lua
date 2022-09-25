@@ -10340,3 +10340,5 @@ addscriptexist(5736409216, "MallTycoon", "Terni", "https://raw.githubusercontent
     
 addscript(5372450078,"Teddie Simulator", "TeddieSimulator", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TeddieSimulator.lua")
                     
+                    
+addscriptexist(1537690962, "BeeSwarmSimulator", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BeeSwarmSimulator.lua")
