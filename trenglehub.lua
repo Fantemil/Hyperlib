@@ -9426,3 +9426,5 @@ addscriptexist(893973440, "FleeTheFacilityAntiComputerloseHackcomputerfromdistan
     
 addscript(6137522359,"Super Speed Simulator [Auto Farm/Collect All Orbs/Anti Afk]", "SuperSpeedSimulatorAutoFarmCollectAllOrbsAntiAfk", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SuperSpeedSimulatorAutoFarmCollectAllOrbsAntiAfk.lua")
                     
+                    
+addscriptexist(6186867282, "ProjectXLAutoFarmRedeemallCodesGetQuests", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ProjectXLAutoFarmRedeemallCodesGetQuests.lua")
