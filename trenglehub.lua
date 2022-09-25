@@ -9122,3 +9122,6 @@ addscriptexist(4616652839, "ShindoAutoFarmVipServerAutoRank", "Terni", "https://
 addscriptexist(6953291455, "EatingSimulatorAUTOFARMAUTOBUYAUTOEGGMORE", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/EatingSimulatorAUTOFARMAUTOBUYAUTOEGGMORE.lua")
                     
 addscriptexist(7180042682, "MilitaryTycoonAUTOBUILDAUTOKILLMORE", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MilitaryTycoonAUTOBUILDAUTOKILLMORE.lua")
+    
+addscript(7476406054,"Grow Up Simulator [AUTO-BUY, AUTO-FARM, AUTO-EGG MORE!]", "GrowUpSimulatorAUTOBUYAUTOFARMAUTOEGGMORE", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/GrowUpSimulatorAUTOBUYAUTOFARMAUTOEGGMORE.lua")
+                    
