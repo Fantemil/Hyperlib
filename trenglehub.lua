@@ -11091,3 +11091,6 @@ addscriptuniversal("UniversalBasicDash", "astrofile", "https://raw.githubusercon
                         
 addscriptuniversal("RobloxUniversalNetless", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RobloxUniversalNetless.lua")
     
+                        
+addscriptuniversal("RobloxUniversalScriptHatsAnimations", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RobloxUniversalScriptHatsAnimations.lua")
+    
