@@ -9177,3 +9177,5 @@ addscriptexist(3272915504, "WorldofMagicGodModeChestFarm", "Terni", "https://raw
     
 addscript(6734679364,"Ninja Blade [BEST GUI, AUTO-FARM]", "NinjaBladeBESTGUIAUTOFARM", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NinjaBladeBESTGUIAUTOFARM.lua")
                     
+                    
+addscriptexist(537413528, "BuildABoatForTreasureNEWAUTOFARM", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BuildABoatForTreasureNEWAUTOFARM.lua")
