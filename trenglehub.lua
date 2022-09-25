@@ -10354,3 +10354,6 @@ addscript(6368458125,"PolyCityRP", "PolyCityRP", "Terni", "https://raw.githubuse
                     
                     
 addscriptexist(286090429, "ArsenalGUI", "DeathDemon", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ArsenalGUI.lua")
+    
+addscript(2673595672,"Dashing Simulator", "DashingSimulator", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DashingSimulator.lua")
+                    
