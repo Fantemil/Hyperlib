@@ -9749,3 +9749,5 @@ addscriptexist(3101667897, "LegendOfSpeedFarmingTeleport", "to_hen", "https://ra
     
 addscript(7016719633,"Developer Simulator OP GUI! - AutoFarm - AutoBuy", "DeveloperSimulatorOPGUIAutoFarmAutoBuy", "UKpansR", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DeveloperSimulatorOPGUIAutoFarmAutoBuy.lua")
                     
+                    
+addscriptexist(4058282580, "BoxingSimulatorREALLYOPGUIAutoSellAutoFarm", "UKpansR", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BoxingSimulatorREALLYOPGUIAutoSellAutoFarm.lua")
