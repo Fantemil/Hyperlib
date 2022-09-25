@@ -9620,3 +9620,5 @@ addscriptexist(6904735821, "ShoeSimulatorMONEYTRAILS", "wsufy.lnd", "https://raw
 addscriptexist(6904735821, "ShoeSimulatorGRANDPARING", "wsufy.lnd", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ShoeSimulatorGRANDPARING.lua")
                     
 addscriptexist(6904735821, "ShoeSimulatorDEMONSHOES", "wsufy.lnd", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ShoeSimulatorDEMONSHOES.lua")
+                    
+addscriptexist(5023820864, "TradeTowerAUTOCLICKAUTOSELLAUTOUPGRADEANTIAFKTP", "wsufy.lnd", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TradeTowerAUTOCLICKAUTOSELLAUTOUPGRADEANTIAFKTP.lua")
