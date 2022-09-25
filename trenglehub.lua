@@ -10443,3 +10443,6 @@ addscriptexist(1499872953, "BokuNoRobloxRemastered", "Acc", "https://raw.githubu
 addscriptexist(3527629287, "BIGPaintball", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BIGPaintball.lua")
                     
 addscriptexist(3351674303, "DrivingSimulator", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DrivingSimulator.lua")
+    
+addscript(5569431582,"Little World", "LittleWorld", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LittleWorld.lua")
+                    
