@@ -9069,3 +9069,6 @@ addscriptexist(6284583030, "PetSimulatorXNewGui", "Acc", "https://raw.githubuser
 addscriptexist(2753915549, "BloxFruitsESPAUTOSTATSFARM", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BloxFruitsESPAUTOSTATSFARM.lua")
                     
 addscriptexist(171391948, "VehicleSimulatorCARMODIFIER", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/VehicleSimulatorCARMODIFIER.lua")
+    
+addscript(6186867282,"Project XL [Auto Attack/Auto Skills/Auto rob]", "ProjectXLAutoAttackAutoSkillsAutorob", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ProjectXLAutoAttackAutoSkillsAutorob.lua")
+                    
