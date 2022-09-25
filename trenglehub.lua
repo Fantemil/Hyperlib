@@ -10474,3 +10474,5 @@ addscriptexist(1962086868, "TowerOfHell", "Acc", "https://raw.githubusercontent.
 addscriptexist(1899149341, "VehicleTycoon", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/VehicleTycoon.lua")
                     
 addscriptexist(606849621, "Jailbreak", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Jailbreak.lua")
+                    
+addscriptexist(4616652839, "Shindolife", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Shindolife.lua")
