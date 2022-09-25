@@ -10711,3 +10711,5 @@ addscript(5291187056,"Gui for Phantom For, Bad Bus", "GuiforPhantomForBadBus", "
 addscriptexist(4580204640, "ALLGAMESESP", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ALLGAMESESP.lua")
                     
 addscriptexist(155615604, "GGPrisonPrsionLifeGui", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/GGPrisonPrsionLifeGui.lua")
+                    
+addscriptexist(2041312716, "hatspin", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/hatspin.lua")

