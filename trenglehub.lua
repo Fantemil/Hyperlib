@@ -10379,3 +10379,5 @@ addscriptexist(171391948, "VehicleSimulator", "Terni", "https://raw.githubuserco
 addscriptexist(6485529694, "BeeSim", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BeeSim.lua")
                     
 addscriptexist(4616652839, "Shindo", "Ykpon", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Shindo.lua")
+                    
+addscriptexist(221718525, "NinjaTycoon", "Ykpon", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NinjaTycoon.lua")
