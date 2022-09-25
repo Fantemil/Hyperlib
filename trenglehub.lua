@@ -9832,3 +9832,6 @@ addscript(6381681200,"My Fish Store Tycoon", "MyFishStoreTycoon", "Terni", "http
                     
                     
 addscriptexist(4651779470, "RECOILBETA", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RECOILBETA.lua")
+    
+addscript(6011691652,"Magnet Legends", "MagnetLegends", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MagnetLegends.lua")
+                    
