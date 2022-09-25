@@ -10097,3 +10097,6 @@ addscript(5414779423,"Science Simulator!", "ScienceSimulator", "Terni", "https:/
                     
                     
 addscriptexist(9840387028, "EraofAlthea", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/EraofAlthea.lua")
+    
+addscript(5692464985,"Gridiron Football", "GridironFootball", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/GridironFootball.lua")
+                    
