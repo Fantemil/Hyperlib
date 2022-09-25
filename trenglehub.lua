@@ -9452,3 +9452,6 @@ addscript(5670292785,"Undead Defense Tycoon [Auto Farm]", "UndeadDefenseTycoonAu
                     
                     
 addscriptexist(443406476, "TheMazeespmonstersgetallbatteriesnoclip", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TheMazeespmonstersgetallbatteriesnoclip.lua")
+    
+addscript(5086470420,"LGBTQ+ Hangout 2 RAINBOW [Auto Farm]", "LGBTQHangout2RAINBOWAutoFarm", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LGBTQHangout2RAINBOWAutoFarm.lua")
+                    
