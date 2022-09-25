@@ -10986,3 +10986,5 @@ addscript(542016179,"Teethyz Dentist", "TeethyzDentistAntiCheatDelete", "astrofi
 addscriptexist(4860819035, "PlantsvsZombiesGardenProblemInfinitymoney", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PlantsvsZombiesGardenProblemInfinitymoney.lua")
                     
 addscriptexist(4282985734, "CombatWarriorsEspPlayersSilentAImmore", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CombatWarriorsEspPlayersSilentAImmore.lua")
+                    
+addscriptexist(648362523, "BreakingPointAutoFarmInfinityCoins", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BreakingPointAutoFarmInfinityCoins.lua")
