@@ -11005,3 +11005,5 @@ addscriptexist(10675066724, "SlimeTowerTycoonAutoCollectAutoDepositMore", "astro
     
 addscript(10758748100,"Killstreak Simulator Remake", "KillstreakSimulatorRemakeAddmanyKills", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/KillstreakSimulatorRemakeAddmanyKills.lua")
                     
+                    
+addscriptexist(370731277, "MeepCityBalloonSpam", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MeepCityBalloonSpam.lua")
