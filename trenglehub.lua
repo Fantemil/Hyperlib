@@ -9564,3 +9564,6 @@ addscriptexist(7009799230, "PressureWashSimulator", "Qalnik", "https://raw.githu
 addscriptexist(13822889, "LumberTycoon2KillplayerFillingPlayerSpeed", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LumberTycoon2KillplayerFillingPlayerSpeed.lua")
                     
 addscriptexist(4999590694, "ZombieDefenseTycoonInfmoneyVeryfastautofarm", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ZombieDefenseTycoonInfmoneyVeryfastautofarm.lua")
+    
+addscript(6808489605,"Aimblox BETA [Aim / Esp / Character]", "AimbloxBETAAimEspCharacter", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AimbloxBETAAimEspCharacter.lua")
+                    
