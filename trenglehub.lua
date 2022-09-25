@@ -10800,3 +10800,5 @@ addscript(4347362871,"My Farm", "MyFarm", "Acc", "https://raw.githubusercontent.
                     
                     
 addscriptexist(221718525, "NarutoTycoon", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NarutoTycoon.lua")
+                    
+addscriptexist(1730877806, "GrandPieceOnline", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/GrandPieceOnline.lua")
