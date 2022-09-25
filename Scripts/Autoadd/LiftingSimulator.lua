@@ -1,1 +1,1 @@
- loadstring(game:HttpGet("https://raw.githubusercontent.com/insanedude59/LiftingSim/main/LiftingSimulator.lua"))()
+loadstring(game:HttpGet(('https://pastebin.com/raw/zQ9zFW0f'),true))()
