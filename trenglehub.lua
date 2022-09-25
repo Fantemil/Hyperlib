@@ -9461,3 +9461,5 @@ addscriptexist(5740246170, "TowerSimulatorAUTOBUILD", "Qalnik", "https://raw.git
 addscriptexist(183364845, "SpeedRun4AutoFarmFreezeUnlockAllLVl", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SpeedRun4AutoFarmFreezeUnlockAllLVl.lua")
                     
 addscriptexist(4520749081, "KingLegacyAutoQuestLevelFarmAutoBusoHaki", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/KingLegacyAutoQuestLevelFarmAutoBusoHaki.lua")
+                    
+addscriptexist(443406476, "ProjectLazarusKillAuraInfAmmoInstaKill", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ProjectLazarusKillAuraInfAmmoInstaKill.lua")
