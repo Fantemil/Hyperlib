@@ -11081,3 +11081,6 @@ addscript(10882998385,"Endless Doors Beta", "EndlessDoorsBetaOverseereyenodmg", 
 
                     
 addscriptexist(542016179, "TeethyzDentistSpammakeappointments", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TeethyzDentistSpammakeappointments.lua")
+
+                    
+addscriptexist(10710676163, "SPTSOriginAutoFarmAutoRespawnTpMore", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SPTSOriginAutoFarmAutoRespawnTpMore.lua")
