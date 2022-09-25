@@ -9778,3 +9778,5 @@ addscriptexist(2753915549, "BloxFruitsXenosHubGUI", "Acc", "https://raw.githubus
 addscriptexist(286090429, "ArsenalGUNMODSFORNEWUPDATEJULY2021", "Полотенчик", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ArsenalGUNMODSFORNEWUPDATEJULY2021.lua")
                     
 addscriptexist(2809202155, "YourBizarreAdventureMiscAutoSkills", "to_hen", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/YourBizarreAdventureMiscAutoSkills.lua")
+                    
+addscriptexist(6953291455, "EatingSimulatorAutoFarmBuyEggMisc", "to_hen", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/EatingSimulatorAutoFarmBuyEggMisc.lua")
