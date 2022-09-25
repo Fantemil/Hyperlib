@@ -9858,3 +9858,6 @@ addscript(6028934209,"Soda Champions Simulator", "SodaChampionsSimulator", "Tern
     
 addscript(3271441918,"Hero Simulator GUI", "HeroSimulatorGUI", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/HeroSimulatorGUI.lua")
                     
+    
+addscript(6234390472,"Cooking in the Rain", "CookingintheRain", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CookingintheRain.lua")
+                    
