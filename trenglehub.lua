@@ -9678,3 +9678,5 @@ addscript(7102729322,"Shaking Tapping [AUTOFARM/REBIRTHS/UPGRADES/EGG/ANTIAFK]",
                     
                     
 addscriptexist(2960777560, "TreasureQuestAUTOFARM", "wsufy.lnd", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TreasureQuestAUTOFARM.lua")
+                    
+addscriptexist(5780309044, "StandsAwakeningGODMODECRASHAUTOFARMFLY", "wsufy.lnd", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/StandsAwakeningGODMODECRASHAUTOFARMFLY.lua")
