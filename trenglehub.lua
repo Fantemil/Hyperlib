@@ -9562,3 +9562,5 @@ addscriptexist(4999590694, "ZombieDefenseTycoonUNLOCKALLSKINS", "Qalnik", "https
 addscriptexist(7009799230, "PressureWashSimulator", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PressureWashSimulator.lua")
                     
 addscriptexist(13822889, "LumberTycoon2KillplayerFillingPlayerSpeed", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LumberTycoon2KillplayerFillingPlayerSpeed.lua")
+                    
+addscriptexist(4999590694, "ZombieDefenseTycoonInfmoneyVeryfastautofarm", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ZombieDefenseTycoonInfmoneyVeryfastautofarm.lua")
