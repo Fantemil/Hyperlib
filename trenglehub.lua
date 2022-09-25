@@ -10566,3 +10566,5 @@ addscript(4795251564,"Blocks!", "Blocks", "Acc", "https://raw.githubusercontent.
     
 addscript(901793731,"D-DAY", "DDAY", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DDAY.lua")
                     
+                    
+addscriptexist(536102540, "DragonBallZFinalStand", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DragonBallZFinalStand.lua")
