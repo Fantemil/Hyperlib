@@ -11250,3 +11250,6 @@ addscriptuniversal("AUniversalTimeMeteorFarmChestFarmMore", "Terni", "https://ra
                         
 addscriptuniversal("UniversalFEScriptHubSeveralFeatures", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/UniversalFEScriptHubSeveralFeatures.lua")
     
+                        
+addscriptuniversal("AUniversalTimeItemsFarmGodModeAutoInventory", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AUniversalTimeItemsFarmGodModeAutoInventory.lua")
+    
