@@ -9444,3 +9444,6 @@ addscript(7072693677,"Ro-Punch Man [Auto Farm]", "RoPunchManAutoFarm", "Qalnik",
 addscriptexist(286090429, "ArsenalKnifeAura", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ArsenalKnifeAura.lua")
                     
 addscriptexist(5827078246, "CoinsHeroSimulatorAutoFarmAutoSellSpeed", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CoinsHeroSimulatorAutoFarmAutoSellSpeed.lua")
+    
+addscript(5659599095,"BloxStreets [Auto Farm]", "BloxStreetsAutoFarm", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BloxStreetsAutoFarm.lua")
+                    
