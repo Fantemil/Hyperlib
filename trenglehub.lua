@@ -10602,3 +10602,6 @@ addscriptexist(5201039691, "Tatakai", "Acc", "https://raw.githubusercontent.com/
     
 addscript(10963175,"Game Store Money Script", "GameStoreMoneyScript", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/GameStoreMoneyScript.lua")
                     
+    
+addscript(6409175633,"Auto-Sing [NGYU]", "AutoSingNGYU", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AutoSingNGYU.lua")
+                    
