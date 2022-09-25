@@ -10062,3 +10062,6 @@ addscriptexist(3145447020, "MountEverestClimbingRoleplay", "Terni", "https://raw
 addscriptexist(4893679160, "BrainSimulator", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BrainSimulator.lua")
                     
 addscriptexist(3823781113, "SaberSimulator", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SaberSimulator.lua")
+    
+addscript(6495194916,"Dinosaur City", "DinosaurCity", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DinosaurCity.lua")
+                    
