@@ -8816,3 +8816,5 @@ addscriptexist(4580204640, "SurvivetheKillerTpDoorAfkFArmEsp", "Qalnik", "https:
 addscriptexist(4566572536, "VehicleLegendsAutoCollectCoins", "rbxscript", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/VehicleLegendsAutoCollectCoins.lua")
                     
 addscriptexist(534701013, "TheLabyrinthAutoFarmEspAutoInvisible", "rbxscript", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TheLabyrinthAutoFarmEspAutoInvisible.lua")
+                    
+addscriptexist(294790062, "RobloxTitanicGodModeSpamDropItem", "rbxscript", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RobloxTitanicGodModeSpamDropItem.lua")
