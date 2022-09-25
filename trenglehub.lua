@@ -9900,3 +9900,5 @@ addscript(6156903749,"Clicker Lords", "ClickerLords", "Terni", "https://raw.gith
     
 addscript(6459707978,"Delivery Simulator", "DeliverySimulator", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DeliverySimulator.lua")
                     
+                    
+addscriptexist(5712833750, "AnimalSimulator", "MaGiXx", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AnimalSimulator.lua")
