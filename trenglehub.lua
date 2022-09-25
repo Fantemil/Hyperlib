@@ -10922,3 +10922,5 @@ addscriptexist(5709572883, "LiftLegendsSimulatorAutoGui", "Acc", "https://raw.gi
 addscriptexist(920587237, "AdoptMeGUI", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AdoptMeGUI.lua")
                     
 addscriptexist(3101667897, "LegendofSpeedAutoFarm", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LegendofSpeedAutoFarm.lua")
+                    
+addscriptexist(5709572883, "LiftlegendsSimulatorFree", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LiftlegendsSimulatorFree.lua")
