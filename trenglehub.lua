@@ -8937,3 +8937,5 @@ addscript(734159876,"SharkBite [Kill Shark/Infinite Tooth/Kill Survives]", "Shar
     
 addscript(4543144283,"Mega Noob Simulator [Auto Kill, Kill Aura, Collect Coins]", "MegaNoobSimulatorAutoKillKillAuraCollectCoins", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MegaNoobSimulatorAutoKillKillAuraCollectCoins.lua")
                     
+                    
+addscriptexist(891852901, "GreenvilleAutoFarm", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/GreenvilleAutoFarm.lua")
