@@ -8931,3 +8931,6 @@ addscriptexist(2551991523, "BrokenBonesIVStartStopClose", "Qalnik", "https://raw
 addscriptexist(137885680, "ZombieRushKILLALLBRINGALLESP", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ZombieRushKILLALLBRINGALLESP.lua")
                     
 addscriptexist(621129760, "KATAimSpamKnifeInfAmmo", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/KATAimSpamKnifeInfAmmo.lua")
+    
+addscript(734159876,"SharkBite [Kill Shark/Infinite Tooth/Kill Survives]", "SharkBiteKillSharkInfiniteToothKillSurvives", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SharkBiteKillSharkInfiniteToothKillSurvives.lua")
+                    
