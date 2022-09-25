@@ -11030,3 +11030,6 @@ addscriptexist(9417197334, "AnimeStoryAutoOres", "Terni", "https://raw.githubuse
 
                     
 addscriptexist(9585537847, "SHADOVISRPGAutoFarmRaidsAutoJoinRaidGodModeMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SHADOVISRPGAutoFarmRaidsAutoJoinRaidGodModeMore.lua")
+
+                    
+addscriptexist(9534337535, "ShrekintheBackroomsBadgeGiver", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ShrekintheBackroomsBadgeGiver.lua")
