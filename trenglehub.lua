@@ -9302,3 +9302,5 @@ addscriptexist(6872265039, "BedWarsKillAuraEspAntiKnockBack", "Qalnik", "https:/
     
 addscript(7502447797,"Squid Game - Automatic registration underworks", "SquidGameAutomaticregistrationunderworks", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SquidGameAutomaticregistrationunderworks.lua")
                     
+                    
+addscriptexist(6573910231, "ProjectStarInfXp", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ProjectStarInfXp.lua")
