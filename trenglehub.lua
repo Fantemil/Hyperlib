@@ -11178,3 +11178,6 @@ addscriptuniversal("RobloxUniversalScriptMakerFE", "astrofile", "https://raw.git
                         
 addscriptuniversal("RobloxUniversalScriptNoclip", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RobloxUniversalScriptNoclip.lua")
     
+
+                    
+addscriptexist(2537430692, "JengaInfjumpRemovePartsWalkSpeed", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/JengaInfjumpRemovePartsWalkSpeed.lua")
