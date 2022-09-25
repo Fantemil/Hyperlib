@@ -10074,3 +10074,6 @@ addscriptexist(6273865312, "SupernaturalSimulator", "Terni", "https://raw.github
     
 addscript(6425918578,"Ore Magnet Simulator", "OreMagnetSimulator", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OreMagnetSimulator.lua")
                     
+    
+addscript(6679028787,"Mega Hotel Tycoon", "MegaHotelTycoon", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MegaHotelTycoon.lua")
+                    
