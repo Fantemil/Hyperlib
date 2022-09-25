@@ -9906,3 +9906,6 @@ addscriptexist(5712833750, "AnimalSimulator", "MaGiXx", "https://raw.githubuserc
 addscriptexist(6299805723, "AnimeFightersSimulator", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AnimeFightersSimulator.lua")
                     
 addscriptexist(6542731310, "DogecoinMiningTycoon", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DogecoinMiningTycoon.lua")
+    
+addscript(6704182071,"Cooking Simulator", "CookingSimulator", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CookingSimulator.lua")
+                    
