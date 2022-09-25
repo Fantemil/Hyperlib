@@ -9277,3 +9277,6 @@ addscriptexist(6284583030, "PetSimulatorXNEWBESTGUI", "Terni", "https://raw.gith
 addscriptexist(443406476, "ProjectLazarusAutoFarmKillAll", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ProjectLazarusAutoFarmKillAll.lua")
                     
 addscriptexist(7393403076, "AnimeArtifactsSimulatorFARMMOBSFASTATTACH", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AnimeArtifactsSimulatorFARMMOBSFASTATTACH.lua")
+    
+addscript(6010281397,"Squid Game [God Mode/Fake Lag]", "SquidGameGodModeFakeLag", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SquidGameGodModeFakeLag.lua")
+                    
