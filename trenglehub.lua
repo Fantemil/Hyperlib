@@ -11085,3 +11085,6 @@ addscriptuniversal("UniversalStreamSniper", "astrofile", "https://raw.githubuser
                         
 addscriptuniversal("UniversalInfinityStore", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/UniversalInfinityStore.lua")
     
+                        
+addscriptuniversal("UniversalBasicDash", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/UniversalBasicDash.lua")
+    
