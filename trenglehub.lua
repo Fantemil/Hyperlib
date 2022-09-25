@@ -10265,3 +10265,5 @@ addscriptexist(5546188609, "ScytheSimulatorV2", "Terni", "https://raw.githubuser
     
 addscript(5025324461,"Smacking Simulator", "SmackingSimulator", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SmackingSimulator.lua")
                     
+                    
+addscriptexist(1962086868, "TowerofHell", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TowerofHell.lua")
