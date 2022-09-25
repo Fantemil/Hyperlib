@@ -9663,3 +9663,6 @@ addscriptexist(2377868063, "StrucidHITBOX", "wsufy.lnd", "https://raw.githubuser
     
 addscript(2130061659,"Eat And Destroy! [AUTOFARM/ANTIAFK]", "EatAndDestroyAUTOFARMANTIAFK", "wsufy.lnd", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/EatAndDestroyAUTOFARMANTIAFK.lua")
                     
+    
+addscript(7015809878,"Action Tower Defense [AUTOKILLMOBS]", "ActionTowerDefenseAUTOKILLMOBS", "wsufy.lnd", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ActionTowerDefenseAUTOKILLMOBS.lua")
+                    
