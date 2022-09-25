@@ -1,0 +1,1 @@
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes").PlayerData:FireServer("Stats", nil, {Level = 10000000000, Exp = 10000000000, Coins = 10000000000, Triumphs = 10000000000}, nil, "Toxic Warfare")
