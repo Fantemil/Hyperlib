@@ -8920,3 +8920,5 @@ addscriptexist(662417684, "LUCKYBLOCKSInfAllBox", "Qalnik", "https://raw.githubu
 addscriptexist(142823291, "MurderMystery2KILLALLSHERIFANDMURDERESP", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MurderMystery2KILLALLSHERIFANDMURDERESP.lua")
                     
 addscriptexist(7453798168, "YouTubeSimulatorXAUTOCLICKAUTOEDITSTELEPORTS", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/YouTubeSimulatorXAUTOCLICKAUTOEDITSTELEPORTS.lua")
+                    
+addscriptexist(6484864709, "GymTycoonAutoWorkOutAutoCollectDropAutoNPCCheckIn", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/GymTycoonAutoWorkOutAutoCollectDropAutoNPCCheckIn.lua")
