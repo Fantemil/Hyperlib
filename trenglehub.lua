@@ -9556,3 +9556,5 @@ addscriptexist(286090429, "ArsenalCrachserver", "Qalnik", "https://raw.githubuse
 addscriptexist(6172932937, "EnergyAssaultAim", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/EnergyAssaultAim.lua")
                     
 addscriptexist(4954752502, "TowerofMiseryGODmode", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TowerofMiseryGODmode.lua")
+                    
+addscriptexist(4999590694, "ZombieDefenseTycoonUNLOCKALLSKINS", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ZombieDefenseTycoonUNLOCKALLSKINS.lua")
