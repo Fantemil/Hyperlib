@@ -8962,3 +8962,5 @@ addscript(4836887463,"Dog Piece [Give Fruit, Auto Skill, UI Toggle]", "DogPieceG
                     
                     
 addscriptexist(6299805723, "AnimeFightersSimulatorAutoFarmExtraDamageAutoCollectYen", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AnimeFightersSimulatorAutoFarmExtraDamageAutoCollectYen.lua")
+                    
+addscriptexist(3956818381, "NinjaLegendsAUTOBUYAUTOFARMAUTOSELLMORE", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NinjaLegendsAUTOBUYAUTOFARMAUTOSELLMORE.lua")
