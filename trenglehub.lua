@@ -11052,3 +11052,6 @@ addscriptexist(9611809130, "CrazyPartyRPGTpToCrabArea", "astrofile", "https://ra
                         
 addscriptuniversal("UniversalFPSBooster", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/UniversalFPSBooster.lua")
     
+                        
+addscriptuniversal("UniversalChangeNormalLightingtoFutureLighting", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/UniversalChangeNormalLightingtoFutureLighting.lua")
+    
