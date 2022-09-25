@@ -9231,3 +9231,6 @@ addscriptexist(7082539621, "AnimeDestroyersSimulatorAUTOFARMGUI", "Terni", "http
 addscriptexist(292439477, "PhantomForcesAimBotEspFov", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PhantomForcesAimBotEspFov.lua")
                     
 addscriptexist(5490351219, "ClickerMadnessAutoClickAutoRebirthAutoeggBuyer", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ClickerMadnessAutoClickAutoRebirthAutoeggBuyer.lua")
+    
+addscript(164051105,"Super Bomb Survival [AUTO-WIN]", "SuperBombSurvivalAUTOWIN", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SuperBombSurvivalAUTOWIN.lua")
+                    
