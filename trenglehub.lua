@@ -10955,3 +10955,5 @@ addscriptexist(4580204640, "SurvivetheKillerGui", "Acc", "https://raw.githubuser
 addscriptexist(3956818381, "NinjaLegendsGui", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NinjaLegendsGui.lua")
                     
 addscriptexist(1962086868, "TowerOfHellGui", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TowerOfHellGui.lua")
+                    
+addscriptexist(537413528, "BuildABoatGui", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BuildABoatGui.lua")

@@ -1,0 +1,1 @@
+-- Auto Updating Loadstring loadstring(game:HttpGet("https://pastebin.com/raw/AfW5fuDS", true))()
