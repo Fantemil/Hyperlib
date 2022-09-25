@@ -11202,3 +11202,6 @@ addscriptuniversal("RobloxUniversalScriptCmdsBar", "astrofile", "https://raw.git
                         
 addscriptuniversal("OldAUniversalTimeAdminPanel", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OldAUniversalTimeAdminPanel.lua")
     
+                        
+addscriptuniversal("RobloxUniversalScriptFEFlingAll", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RobloxUniversalScriptFEFlingAll.lua")
+    
