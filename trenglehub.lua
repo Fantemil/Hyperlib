@@ -10727,3 +10727,5 @@ addscript(10508802866,"Chat Bypass", "ChatBypass", "Acc", "https://raw.githubuse
                     
                     
 addscriptexist(2788229376, "DaHood", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DaHood.lua")
+                    
+addscriptexist(2413927524, "THERAKEв„ў", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/THERAKEв„ў.lua")

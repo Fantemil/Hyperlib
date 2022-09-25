@@ -1,1 +1,1 @@
- loadstring(game:HttpGet(('https://raw.githubusercontent.com/Pojken123/Hub/main/Hub')))()
+ while wait() do     game.ReplicatedStorage.Events.Sell:fireServer()     game.ReplicatedStorage.Events.Clicked:fireServer() end 
