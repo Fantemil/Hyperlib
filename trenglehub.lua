@@ -9271,3 +9271,5 @@ addscriptexist(6573910231, "ProjectStarMOBSFARM", "Terni", "https://raw.githubus
 addscriptexist(920587237, "AdoptMeBabyAutoFarmBuyeggAutoHealothers", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AdoptMeBabyAutoFarmBuyeggAutoHealothers.lua")
                     
 addscriptexist(7045537335, "AnimeWorldsSimulatorFarmMisc", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AnimeWorldsSimulatorFarmMisc.lua")
+                    
+addscriptexist(6284583030, "PetSimulatorXNEWBESTGUI", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PetSimulatorXNEWBESTGUI.lua")
