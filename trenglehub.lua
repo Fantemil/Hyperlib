@@ -8887,3 +8887,5 @@ addscript(7387530636,"Pirate Warriors AutoFarm", "PirateWarriorsAutoFarm", "Acc"
                     
                     
 addscriptexist(13822889, "LumberTycoon2DupeInventoryDupeMoney", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LumberTycoon2DupeInventoryDupeMoney.lua")
+                    
+addscriptexist(7239452266, "PopItSimulatorInfinitiGemsMoney", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PopItSimulatorInfinitiGemsMoney.lua")
