@@ -11157,3 +11157,6 @@ addscriptuniversal("RobloxUniversalScriptHitboxEsp", "astrofile", "https://raw.g
                         
 addscriptuniversal("RobloxUniversalScriptBlueScreen", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RobloxUniversalScriptBlueScreen.lua")
     
+                        
+addscriptuniversal("RobloxUniversalScriptAK47GunNotFE", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RobloxUniversalScriptAK47GunNotFE.lua")
+    
