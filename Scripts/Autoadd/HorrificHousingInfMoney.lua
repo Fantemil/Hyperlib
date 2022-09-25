@@ -1,0 +1,1 @@
+game.ReplicatedStorage.ShopPurchase:FireServer(-10000, "Ornament")
