@@ -10634,3 +10634,5 @@ addscriptexist(5665787539, "GodsOfGloryBETA", "Acc", "https://raw.githubusercont
     
 addscript(5802761955,"Last Honor - Gun Testing", "LastHonorGunTesting", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LastHonorGunTesting.lua")
                     
+                    
+addscriptexist(4893679160, "BigBrainSimulator", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BigBrainSimulator.lua")
