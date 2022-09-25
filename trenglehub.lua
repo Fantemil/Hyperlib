@@ -9329,3 +9329,5 @@ addscriptexist(648362523, "BreakingPointFullbrightGundowmAfkKill", "Qalnik", "ht
 addscriptexist(6573910231, "ProjectStarFarmItemInvis", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ProjectStarFarmItemInvis.lua")
                     
 addscriptexist(7009799230, "PressureWashSimulatorInfWater", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PressureWashSimulatorInfWater.lua")
+                    
+addscriptexist(4246487209, "BossFightingSimulator", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BossFightingSimulator.lua")
