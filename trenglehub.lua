@@ -10906,3 +10906,5 @@ addscript(6429781923,"Infinity Jump", "InfinityJump", "Acc", "https://raw.github
                     
                     
 addscriptexist(142823291, "MurderMystery2Gui", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MurderMystery2Gui.lua")
+                    
+addscriptexist(1599679393, "PetSimulatorGui", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PetSimulatorGui.lua")
