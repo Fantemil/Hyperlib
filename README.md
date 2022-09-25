@@ -35,7 +35,7 @@ You can change Basic Stuff there
 ## The General Tab
 Find many basic and Universal Scripts here
 
-<img width="574" alt="General" src="https://user-images.githubusercontent.com/69359704/192156615-8b3c0770-ef60-4071-84a4-11ecc464aea2.png">
+![](https://github.com/Fantemil/Hyperlib/blob/main/Media/GeneralShowcase.gif)
 
 
 ## The Game Hub Tab
