@@ -10918,3 +10918,5 @@ addscriptexist(1224212277, "MadCityGui", "Acc", "https://raw.githubusercontent.c
 addscriptexist(1962086868, "TowerofHellGui", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TowerofHellGui.lua")
                     
 addscriptexist(5709572883, "LiftLegendsSimulatorAutoGui", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LiftLegendsSimulatorAutoGui.lua")
+                    
+addscriptexist(920587237, "AdoptMeGUI", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AdoptMeGUI.lua")
