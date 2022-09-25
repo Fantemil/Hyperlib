@@ -10032,3 +10032,6 @@ addscriptexist(6737970321, "LivetopiaADMIN", "Terni", "https://raw.githubusercon
 addscriptexist(5379581123, "SwordFightandFlexYourTime", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SwordFightandFlexYourTime.lua")
                     
 addscriptexist(621129760, "KAT", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/KAT.lua")
+    
+addscript(3400631762,"Bizarre Blox", "BizarreBlox", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BizarreBlox.lua")
+                    
