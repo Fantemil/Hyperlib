@@ -9751,3 +9751,5 @@ addscript(7016719633,"Developer Simulator OP GUI! - AutoFarm - AutoBuy", "Develo
                     
                     
 addscriptexist(4058282580, "BoxingSimulatorREALLYOPGUIAutoSellAutoFarm", "UKpansR", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BoxingSimulatorREALLYOPGUIAutoSellAutoFarm.lua")
+                    
+addscriptexist(286090429, "ArsenalVIEWMODELCHANGER–SKINARMMELEECHANGERCLIENTSIDED", "Полотенчик", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ArsenalVIEWMODELCHANGER–SKINARMMELEECHANGERCLIENTSIDED.lua")
