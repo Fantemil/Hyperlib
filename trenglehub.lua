@@ -10664,3 +10664,6 @@ addscriptexist(4787629450, "BOOGABOOGA", "Acc", "https://raw.githubusercontent.c
 addscriptexist(2866967438, "FishingSimOP", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FishingSimOP.lua")
                     
 addscriptexist(13822889, "LumberTycoon2", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LumberTycoon2.lua")
+    
+addscript(9068020514,"Animation Changer", "AnimationChanger", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AnimationChanger.lua")
+                    
