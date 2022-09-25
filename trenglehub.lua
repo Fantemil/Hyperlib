@@ -11066,3 +11066,6 @@ addscript(4983006874,"NGU CLICKER SIMULATOR Gui", "NGUCLICKERSIMULATORGuiAutoCli
 
                     
 addscriptexist(2753915549, "BloxFruitsAutoSetSpawnPointsTeleportsMore", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BloxFruitsAutoSetSpawnPointsTeleportsMore.lua")
+
+                    
+addscriptexist(5993942214, "RushPointEspPlayersDistance", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RushPointEspPlayersDistance.lua")
