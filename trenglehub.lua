@@ -9193,3 +9193,6 @@ addscript(7541759836,"凹凸世界：自由丛林", "凹凸世界：自由丛林
                     
                     
 addscriptexist(4866692557, "AgeofHeroes3FARMS", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AgeofHeroes3FARMS.lua")
+    
+addscript(6410967163,"Beeface", "BeefaceBeaBeeNoclipAutoSellAutoExpand", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BeefaceBeaBeeNoclipAutoSellAutoExpand.lua")
+                    
