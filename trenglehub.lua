@@ -11007,3 +11007,6 @@ addscript(10758748100,"Killstreak Simulator Remake", "KillstreakSimulatorRemakeA
                     
                     
 addscriptexist(370731277, "MeepCityBalloonSpam", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MeepCityBalloonSpam.lua")
+    
+addscript(10861112990,"Anime Artifacts Simulator 2", "AnimeArtifactsSimulator2Infinitecoins", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AnimeArtifactsSimulator2Infinitecoins.lua")
+                    
