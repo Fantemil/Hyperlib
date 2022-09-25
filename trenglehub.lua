@@ -10862,3 +10862,5 @@ addscriptexist(230503554, "SpeedandJumphack", "Acc", "https://raw.githubusercont
 addscriptexist(4616652839, "ShinobiLife2", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ShinobiLife2.lua")
                     
 addscriptexist(4872321990, "IslandsGuiv2", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/IslandsGuiv2.lua")
+                    
+addscriptexist(2753915549, "FruitBloxAutoFarm", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FruitBloxAutoFarm.lua")
