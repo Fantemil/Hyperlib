@@ -11344,3 +11344,6 @@ addscriptexist(5602055394, "HoodModdedAimLockSilentAimMore", "astrofile", "https
 
                     
 addscriptexist(9872472334, "EvadeInfJumpQtoteleportMore", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/EvadeInfJumpQtoteleportMore.lua")
+
+                    
+addscriptexist(286090429, "ArsenalKillAllSilentAimMore", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ArsenalKillAllSilentAimMore.lua")
