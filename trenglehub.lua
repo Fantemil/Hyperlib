@@ -11325,3 +11325,6 @@ addscriptexist(7560156054, "ClickerSimulatorAutoClickAutoRebirthAutoPets", "astr
                         
 addscriptuniversal("UniversalSilentAimGUI", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/UniversalSilentAimGUI.lua")
     
+                        
+addscriptuniversal("AUniversalTimeAutoFarmAutoBankAutoSkill", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AUniversalTimeAutoFarmAutoBankAutoSkill.lua")
+    
