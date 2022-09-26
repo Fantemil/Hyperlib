@@ -11319,3 +11319,6 @@ addscriptexist(3527629287, "BIGPaintballEspFlyAimbot", "astrofile", "https://raw
 
                     
 addscriptexist(2512643572, "BubbleGumSimulatorCodeRedeemer", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BubbleGumSimulatorCodeRedeemer.lua")
+
+                    
+addscriptexist(7560156054, "ClickerSimulatorAutoClickAutoRebirthAutoPets", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ClickerSimulatorAutoClickAutoRebirthAutoPets.lua")
