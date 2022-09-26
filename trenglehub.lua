@@ -11335,3 +11335,6 @@ addscriptexist(7026828578, "SpeedSimulatorInfiniteMoney", "Terni", "https://raw.
 
                     
 addscriptexist(606849621, "JailbreakArrestAuraCarModsInfiniteNitroMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/JailbreakArrestAuraCarModsInfiniteNitroMore.lua")
+
+                    
+addscriptexist(9955279341, "InfinitySea2AutoSpinFamily", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/InfinitySea2AutoSpinFamily.lua")
