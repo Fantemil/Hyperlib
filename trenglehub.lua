@@ -11347,3 +11347,6 @@ addscriptexist(9872472334, "EvadeInfJumpQtoteleportMore", "astrofile", "https://
 
                     
 addscriptexist(286090429, "ArsenalKillAllSilentAimMore", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ArsenalKillAllSilentAimMore.lua")
+
+                    
+addscriptexist(914010731, "RoGhoulAutoFarmLookPlayersStatsWebhook", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RoGhoulAutoFarmLookPlayersStatsWebhook.lua")
