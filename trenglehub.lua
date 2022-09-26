@@ -11304,3 +11304,6 @@ addscriptexist(192800, "WorkAtAPizzaPlaceAutoFarmTeleportAntiKick", "Terni", "ht
     
 addscript(10142749739,"Pet Fighting Simulator", "PetFightingSimulatorInfiniteWheelSpins", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PetFightingSimulatorInfiniteWheelSpins.lua")
                     
+    
+addscript(206640076,"Deathrun", "DeathrunUnloadmap", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DeathrunUnloadmap.lua")
+                    
