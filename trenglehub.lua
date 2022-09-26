@@ -11301,3 +11301,6 @@ addscriptexist(10758748100, "KillstreakSimulatorRemakeBattleAxeAddKills", "astro
 
                     
 addscriptexist(192800, "WorkAtAPizzaPlaceAutoFarmTeleportAntiKick", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/WorkAtAPizzaPlaceAutoFarmTeleportAntiKick.lua")
+    
+addscript(10142749739,"Pet Fighting Simulator", "PetFightingSimulatorInfiniteWheelSpins", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PetFightingSimulatorInfiniteWheelSpins.lua")
+                    
