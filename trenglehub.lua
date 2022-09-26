@@ -11332,3 +11332,6 @@ addscriptexist(2753915549, "BloxFruitsAutoFarmAutoStats", "astrofile", "https://
 
                     
 addscriptexist(7026828578, "SpeedSimulatorInfiniteMoney", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SpeedSimulatorInfiniteMoney.lua")
+
+                    
+addscriptexist(606849621, "JailbreakArrestAuraCarModsInfiniteNitroMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/JailbreakArrestAuraCarModsInfiniteNitroMore.lua")
