@@ -11298,3 +11298,6 @@ addscriptexist(1537690962, "BeeSwarmSimulatorAutoFarmAutoDigDigmodeMore", "Qalni
 
                     
 addscriptexist(10758748100, "KillstreakSimulatorRemakeBattleAxeAddKills", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/KillstreakSimulatorRemakeBattleAxeAddKills.lua")
+
+                    
+addscriptexist(192800, "WorkAtAPizzaPlaceAutoFarmTeleportAntiKick", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/WorkAtAPizzaPlaceAutoFarmTeleportAntiKick.lua")
