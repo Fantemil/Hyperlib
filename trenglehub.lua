@@ -11329,3 +11329,6 @@ addscriptuniversal("UniversalSilentAimGUI", "Terni", "https://raw.githubusercont
 
                     
 addscriptexist(2753915549, "BloxFruitsAutoFarmAutoStats", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BloxFruitsAutoFarmAutoStats.lua")
+
+                    
+addscriptexist(7026828578, "SpeedSimulatorInfiniteMoney", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SpeedSimulatorInfiniteMoney.lua")
