@@ -1,1 +1,1 @@
-loadstring(game:HttpGet('https://scriptblox.com/raw/Prison-Life-3-GUI_227'))()
+loadstring(game:HttpGet('https://raw.githubusercontent.com/2dgeneralspam1/lua-releases/main/scripts/prison-life-three.lua'))()

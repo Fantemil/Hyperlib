@@ -11322,3 +11322,6 @@ addscriptexist(2512643572, "BubbleGumSimulatorCodeRedeemer", "astrofile", "https
 
                     
 addscriptexist(7560156054, "ClickerSimulatorAutoClickAutoRebirthAutoPets", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ClickerSimulatorAutoClickAutoRebirthAutoPets.lua")
+                        
+addscriptuniversal("UniversalSilentAimGUI", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/UniversalSilentAimGUI.lua")
+    
