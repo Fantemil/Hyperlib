@@ -21,6 +21,12 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/Fantemil/Trenglehub/m
 
 I need a lot of help improving the Hub! If you want to contribute then please send me your scripts or ideas on discord or make a pull request!!! Fantemil#2549
 
+# Checklist
+
+- [ ] When was the Script last updated Tab
+- [ ] More Things at the Player Tab
+- [ ] Adding Gamehubs automatically through the bot
+
 # Documentation
 
 ## The Player Tab
