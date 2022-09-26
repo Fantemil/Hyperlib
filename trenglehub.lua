@@ -11307,3 +11307,6 @@ addscript(10142749739,"Pet Fighting Simulator", "PetFightingSimulatorInfiniteWhe
     
 addscript(206640076,"Deathrun", "DeathrunUnloadmap", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DeathrunUnloadmap.lua")
                     
+
+                    
+addscriptexist(6284583030, "PetSimulatorXAutoFarmAreaTeleportsMore", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PetSimulatorXAutoFarmAreaTeleportsMore.lua")
