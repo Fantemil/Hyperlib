@@ -11295,3 +11295,6 @@ addscriptuniversal("AUniversalTimeChestsserverhop", "Qalnik", "https://raw.githu
 
                     
 addscriptexist(1537690962, "BeeSwarmSimulatorAutoFarmAutoDigDigmodeMore", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BeeSwarmSimulatorAutoFarmAutoDigDigmodeMore.lua")
+
+                    
+addscriptexist(10758748100, "KillstreakSimulatorRemakeBattleAxeAddKills", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/KillstreakSimulatorRemakeBattleAxeAddKills.lua")
