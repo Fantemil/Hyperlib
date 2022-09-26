@@ -11337,3 +11337,6 @@ addscriptuniversal("AUniversalTimeAutoThugFarm", "rbxscript", "https://raw.githu
                         
 addscriptuniversal("AUniversalTimeServercrusher", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AUniversalTimeServercrusher.lua")
     
+                        
+addscriptuniversal("AUniversalTimeGodAutoInvisibleAutoFarm", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AUniversalTimeGodAutoInvisibleAutoFarm.lua")
+    
