@@ -79,7 +79,7 @@ local Credits = Window:NewTab("Credits")
 local CreditsSection = Credits:NewSection("---Credits---")
 local CreditsSection2 = Credits:NewSection("Made by Fantemil#2549")
 local CreditsSection3 = Credits:NewSection("Powered by a python selenium bot")
-
+loadstring(game:HttpGet("https://github.com/Fantemil/Hyperlib/blob/main/Scripts/lastscriptlibupdate.lua"))()
 --Work at a Pizza Place
 
 if game.PlaceId == 192800 then 
@@ -11326,3 +11326,6 @@ addscriptexist(7560156054, "ClickerSimulatorAutoClickAutoRebirthAutoPets", "astr
                         
 addscriptuniversal("UniversalSilentAimGUI", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/UniversalSilentAimGUI.lua")
     
+
+                    
+addscriptexist(2753915549, "BloxFruitsAutoFarmAutoStats", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BloxFruitsAutoFarmAutoStats.lua")
