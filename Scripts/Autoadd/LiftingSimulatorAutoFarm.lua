@@ -1,1 +1,31 @@
--- Gui to Lua -- Version: 3.2  -- Instances:  local ScreenGui = Instance.new("ScreenGui") local frame = Instance.new("Frame") local OneSafeZone = Instance.new("TextButton") local Autoliftt = Instance.new("TextButton") local autosell = Instance.new("TextButton")  --Properties:  ScreenGui.Parent = game.CoreGui  frame.Name = "frame" frame.Parent = ScreenGui frame.BackgroundColor3 = Color3.fromRGB(0, 0, 0) frame.Position = UDim2.new(0.326148063, 0, 0.29880476, 0) frame.Size = UDim2.new(0, 371, 0, 188) frame.Active = true frame.Draggable = true  OneSafeZone.Name = "One Safe Zone" OneSafeZone.Parent = frame OneSafeZone.BackgroundColor3 = Color3.fromRGB(255, 0, 0) OneSafeZone.Position = UDim2.new(0.0539083555, 0, 0.0744680762, 0) OneSafeZone.Size = UDim2.new(0, 154, 0, 50) OneSafeZone.Font = Enum.Font.GothamBold OneSafeZone.Text = "One Safe Zone" OneSafeZone.TextColor3 = Color3.fromRGB(0, 0, 0) OneSafeZone.TextScaled = true OneSafeZone.TextSize = 14.000 OneSafeZone.TextWrapped = true OneSafeZone.MouseButton1Down:connect(function() local plr = game.Players local lplr = plr.LocalPlayer local lchar = lplr.Character local HRP = lchar.HumanoidRootPart  HRP.CFrame = CFrame.new(-100, 100, -10000)  local C = Instance.new("Part") C.Parent = workspace C.CFrame = CFrame.new(-100, 50, -10000) C.Size = Vector3.new(1000000, 100, 10000000) C.Anchored = true end)  Autoliftt.Name = "Auto liftt" Autoliftt.Parent = frame Autoliftt.BackgroundColor3 = Color3.fromRGB(255, 0, 0) Autoliftt.Position = UDim2.new(0.560646892, 0, 0.0744680837, 0) Autoliftt.Size = UDim2.new(0, 141, 0, 50) Autoliftt.Font = Enum.Font.GothamBold Autoliftt.Text = "Auto lift" Autoliftt.TextColor3 = Color3.fromRGB(0, 0, 0) Autoliftt.TextScaled = true Autoliftt.TextSize = 14.000 Autoliftt.TextWrapped = true Autoliftt.MouseButton1Down:connect(function() _G.Lift = true  while _G.Lift do wait(1.3) local table_1 = { [1] = 'GainMuscle' }; local Target = game:GetService("ReplicatedStorage").RemoteEvent; Target:FireServer(table_1); end end)   autosell.Name = "auto sell" autosell.Parent = frame autosell.BackgroundColor3 = Color3.fromRGB(255, 0, 0) autosell.Position = UDim2.new(0.185983822, 0, 0.462765962, 0) autosell.Size = UDim2.new(0, 200, 0, 50) autosell.Font = Enum.Font.GothamBold autosell.Text = "auto sell" autosell.TextColor3 = Color3.fromRGB(0, 0, 0) autosell.TextScaled = true autosell.TextSize = 14.000 autosell.TextWrapped = true autosell.MouseButton1Down:connect(function() _G.Sale = true  while _G.Sale do wait() local table_1 = { [1] = 'SellMuscle' }; local Target = game:GetService("ReplicatedStorage").RemoteEvent; Target:FireServer(table_1); end end)
+--if u need disable autofarm choose false
+
+_G.AutoLifting = true;
+_G.AutoSell = true
+spawn(function()
+while _G.AutoLifting ==  true do
+    
+local args = {
+    [1] = {
+        [1] = "GainMuscle",
+    },}
+wait()
+
+game:GetService("ReplicatedStorage").RemoteEvent:FireServer(unpack(args))
+
+end
+end)
+
+
+
+spawn(function()
+    while _G.AutoSell == true do
+local args = {
+    [1] = {
+        [1] = "SellMuscle",
+    },
+}
+wait()
+game:GetService("ReplicatedStorage").RemoteEvent:FireServer(unpack(args))
+end
+end)

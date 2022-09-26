@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://hastebin.com/raw/icunehicom",true))();
+{"message":"Document not found."}

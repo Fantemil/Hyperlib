@@ -11334,3 +11334,6 @@ addscriptuniversal("AUniversalTimeInvisibleAntiTsGodMode", "rbxscript", "https:/
                         
 addscriptuniversal("AUniversalTimeAutoThugFarm", "rbxscript", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AUniversalTimeAutoThugFarm.lua")
     
+                        
+addscriptuniversal("AUniversalTimeServercrusher", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AUniversalTimeServercrusher.lua")
+    
