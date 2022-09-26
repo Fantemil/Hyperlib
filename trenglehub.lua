@@ -11310,3 +11310,6 @@ addscript(206640076,"Deathrun", "DeathrunUnloadmap", "astrofile", "https://raw.g
 
                     
 addscriptexist(6284583030, "PetSimulatorXAutoFarmAreaTeleportsMore", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PetSimulatorXAutoFarmAreaTeleportsMore.lua")
+    
+addscript(6922573010,"Soccer Legends", "SoccerLegendsInstantWinTeleportToBlueGoalHitBallAura", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SoccerLegendsInstantWinTeleportToBlueGoalHitBallAura.lua")
+                    
