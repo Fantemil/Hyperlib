@@ -11328,3 +11328,6 @@ addscriptuniversal("UniversalSilentAimGUI", "Terni", "https://raw.githubusercont
                         
 addscriptuniversal("AUniversalTimeAutoFarmAutoBankAutoSkill", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AUniversalTimeAutoFarmAutoBankAutoSkill.lua")
     
+                        
+addscriptuniversal("AUniversalTimeInvisibleAntiTsGodMode", "rbxscript", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AUniversalTimeInvisibleAntiTsGodMode.lua")
+    
