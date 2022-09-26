@@ -11292,3 +11292,6 @@ addscriptuniversal("RobloxUniversalhub", "Qalnik", "https://raw.githubuserconten
                         
 addscriptuniversal("AUniversalTimeChestsserverhop", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AUniversalTimeChestsserverhop.lua")
     
+
+                    
+addscriptexist(1537690962, "BeeSwarmSimulatorAutoFarmAutoDigDigmodeMore", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BeeSwarmSimulatorAutoFarmAutoDigDigmodeMore.lua")
