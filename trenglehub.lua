@@ -11346,3 +11346,6 @@ addscriptuniversal("AUniversalTimeAutoFarmMiscAutoStore", "Acc", "https://raw.gi
                         
 addscriptuniversal("AUniversalTimeModeAutoFarmGodmodeAutoSkill", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AUniversalTimeModeAutoFarmGodmodeAutoSkill.lua")
     
+                        
+addscriptuniversal("AUniversalTimeAutoFarmKillAuraGodmode", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AUniversalTimeAutoFarmKillAuraGodmode.lua")
+    
