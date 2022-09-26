@@ -23,7 +23,7 @@ I need a lot of help improving the Hub! If you want to contribute then please se
 
 # Checklist
 
-- [ ] When was the Script last updated Tab
+
 - [ ] More Things at the Player Tab
 - [ ] Adding Gamehubs automatically through the bot
 
