@@ -79,10 +79,7 @@ local Credits = Window:NewTab("Credits")
 local CreditsSection = Credits:NewSection("---Credits---")
 local CreditsSection2 = Credits:NewSection("Made by Fantemil#2549")
 local CreditsSection3 = Credits:NewSection("Powered by a python selenium bot")
-local Lastupdate = Window:NewTab("Last Library Update")
-local lasttime = loadstring(game:HttpGet("https://raw.githubusercontent.com/Fantemil/Hyperlib/main/Scripts/lastscriptlibupdate.txt"))
-local LastupdateSection = Lastupdate:NewSection("Last Library Update: ",  lasttime)
-local DisclaimerSection = Lastupdate:NewSection("All data refer to the central european time zone (GMT+1")
+
 --Work at a Pizza Place
 
 if game.PlaceId == 192800 then 
