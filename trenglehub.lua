@@ -11338,3 +11338,6 @@ addscriptexist(606849621, "JailbreakArrestAuraCarModsInfiniteNitroMore", "Terni"
 
                     
 addscriptexist(9955279341, "InfinitySea2AutoSpinFamily", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/InfinitySea2AutoSpinFamily.lua")
+
+                    
+addscriptexist(5602055394, "HoodModdedAimLockSilentAimMore", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/HoodModdedAimLockSilentAimMore.lua")
