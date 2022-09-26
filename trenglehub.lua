@@ -11291,7 +11291,7 @@ addscriptuniversal("RobloxUniversalhub", "Qalnik", "https://raw.githubuserconten
     
                         
 addscriptuniversal("AUniversalTimeChestsserverhop", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AUniversalTimeChestsserverhop.lua")
-    
+    -
 
                     
 addscriptexist(1537690962, "BeeSwarmSimulatorAutoFarmAutoDigDigmodeMore", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BeeSwarmSimulatorAutoFarmAutoDigDigmodeMore.lua")
@@ -11324,31 +11324,4 @@ addscriptexist(2512643572, "BubbleGumSimulatorCodeRedeemer", "astrofile", "https
 addscriptexist(7560156054, "ClickerSimulatorAutoClickAutoRebirthAutoPets", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ClickerSimulatorAutoClickAutoRebirthAutoPets.lua")
                         
 addscriptuniversal("UniversalSilentAimGUI", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/UniversalSilentAimGUI.lua")
-    
-                        
-addscriptuniversal("AUniversalTimeAutoFarmAutoBankAutoSkill", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AUniversalTimeAutoFarmAutoBankAutoSkill.lua")
-    
-                        
-addscriptuniversal("AUniversalTimeInvisibleAntiTsGodMode", "rbxscript", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AUniversalTimeInvisibleAntiTsGodMode.lua")
-    
-                        
-addscriptuniversal("AUniversalTimeAutoThugFarm", "rbxscript", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AUniversalTimeAutoThugFarm.lua")
-    
-                        
-addscriptuniversal("AUniversalTimeServercrusher", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AUniversalTimeServercrusher.lua")
-    
-                        
-addscriptuniversal("AUniversalTimeGodAutoInvisibleAutoFarm", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AUniversalTimeGodAutoInvisibleAutoFarm.lua")
-    
-                        
-addscriptuniversal("AUniversalTimeAutoFarmMiscAutoStore", "Acc", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AUniversalTimeAutoFarmMiscAutoStore.lua")
-    
-                        
-addscriptuniversal("AUniversalTimeModeAutoFarmGodmodeAutoSkill", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AUniversalTimeModeAutoFarmGodmodeAutoSkill.lua")
-    
-                        
-addscriptuniversal("AUniversalTimeAutoFarmKillAuraGodmode", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AUniversalTimeAutoFarmKillAuraGodmode.lua")
-    
-                        
-addscriptuniversal("AUniversalTimeAutoMeteorsSandDebrisAutoFarmChests", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AUniversalTimeAutoMeteorsSandDebrisAutoFarmChests.lua")
     
