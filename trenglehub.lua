@@ -11349,3 +11349,6 @@ addscriptuniversal("AUniversalTimeModeAutoFarmGodmodeAutoSkill", "Qalnik", "http
                         
 addscriptuniversal("AUniversalTimeAutoFarmKillAuraGodmode", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AUniversalTimeAutoFarmKillAuraGodmode.lua")
     
+                        
+addscriptuniversal("AUniversalTimeAutoMeteorsSandDebrisAutoFarmChests", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AUniversalTimeAutoMeteorsSandDebrisAutoFarmChests.lua")
+    
