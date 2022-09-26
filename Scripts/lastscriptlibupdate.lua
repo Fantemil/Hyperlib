@@ -1,6 +1,6 @@
 
 local Lastupdate = Window:NewTab("Last Library Update")
-local lasttime = 26/09/2022 14:50:54
+local lasttime = 26/09/2022 14:51:08
 wait()
 local LastupdateSection = Lastupdate:NewSection("Last Library Update: ",  lasttime)
 local DisclaimerSection = LastupdateSection:NewLabel("Data according to CET (GMT+1)")

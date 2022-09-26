@@ -11341,3 +11341,6 @@ addscriptexist(9955279341, "InfinitySea2AutoSpinFamily", "Terni", "https://raw.g
 
                     
 addscriptexist(5602055394, "HoodModdedAimLockSilentAimMore", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/HoodModdedAimLockSilentAimMore.lua")
+
+                    
+addscriptexist(9872472334, "EvadeInfJumpQtoteleportMore", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/EvadeInfJumpQtoteleportMore.lua")
