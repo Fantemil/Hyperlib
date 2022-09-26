@@ -38,6 +38,12 @@ end)
 PlayerSection:NewSlider("Jumppower", "Changes the jumppower", 250, 50, function(v)
     game.Players.LocalPlayer.Character.Humanoid.JumpPower = v
 end)
+PlayerSection:NewSlider("Gravity", "Changes the gravity", 250, 0, function(v)
+    game.Workspace.Gravity = v
+end)
+
+
+
 
 generalscripts = Window:NewTab("General")
 _G.generalscripts = generalscripts
