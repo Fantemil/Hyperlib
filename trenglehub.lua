@@ -11350,3 +11350,6 @@ addscriptexist(286090429, "ArsenalKillAllSilentAimMore", "astrofile", "https://r
 
                     
 addscriptexist(914010731, "RoGhoulAutoFarmLookPlayersStatsWebhook", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RoGhoulAutoFarmLookPlayersStatsWebhook.lua")
+
+                    
+addscriptexist(142823291, "MurderMystery2StatusGameAutoFarm", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MurderMystery2StatusGameAutoFarm.lua")
