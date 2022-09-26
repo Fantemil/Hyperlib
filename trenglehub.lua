@@ -79,7 +79,10 @@ local Credits = Window:NewTab("Credits")
 local CreditsSection = Credits:NewSection("---Credits---")
 local CreditsSection2 = Credits:NewSection("Made by Fantemil#2549")
 local CreditsSection3 = Credits:NewSection("Powered by a python selenium bot")
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Fantemil/Hyperlib/main/Scripts/lastscriptlibupdate.lua"))()
+
+
+
+
 --Work at a Pizza Place
 
 if game.PlaceId == 192800 then 
