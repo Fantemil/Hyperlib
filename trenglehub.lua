@@ -11316,3 +11316,6 @@ addscript(6922573010,"Soccer Legends", "SoccerLegendsInstantWinTeleportToBlueGoa
 
                     
 addscriptexist(3527629287, "BIGPaintballEspFlyAimbot", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BIGPaintballEspFlyAimbot.lua")
+
+                    
+addscriptexist(2512643572, "BubbleGumSimulatorCodeRedeemer", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BubbleGumSimulatorCodeRedeemer.lua")
