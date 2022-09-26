@@ -11313,3 +11313,6 @@ addscriptexist(6284583030, "PetSimulatorXAutoFarmAreaTeleportsMore", "astrofile"
     
 addscript(6922573010,"Soccer Legends", "SoccerLegendsInstantWinTeleportToBlueGoalHitBallAura", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SoccerLegendsInstantWinTeleportToBlueGoalHitBallAura.lua")
                     
+
+                    
+addscriptexist(3527629287, "BIGPaintballEspFlyAimbot", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BIGPaintballEspFlyAimbot.lua")
