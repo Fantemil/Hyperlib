@@ -11331,3 +11331,6 @@ addscriptuniversal("AUniversalTimeAutoFarmAutoBankAutoSkill", "Qalnik", "https:/
                         
 addscriptuniversal("AUniversalTimeInvisibleAntiTsGodMode", "rbxscript", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AUniversalTimeInvisibleAntiTsGodMode.lua")
     
+                        
+addscriptuniversal("AUniversalTimeAutoThugFarm", "rbxscript", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AUniversalTimeAutoThugFarm.lua")
+    
