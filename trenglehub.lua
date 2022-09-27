@@ -11362,3 +11362,6 @@ addscriptexist(914010731, "RoGhoulAutoFarmLookPlayersStatsWebhook", "astrofile",
 
                     
 addscriptexist(142823291, "MurderMystery2StatusGameAutoFarm", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MurderMystery2StatusGameAutoFarm.lua")
+
+                    
+addscriptexist(10142749739, "PetFightingSimulatorInfinityCoins", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PetFightingSimulatorInfinityCoins.lua")
