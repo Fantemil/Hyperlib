@@ -11422,3 +11422,6 @@ addscriptuniversal("UniversalFEChatSlower", "astrofile", "https://raw.githubuser
 
                         
     addscriptexist(7991339063, "Rainbow Friends: Auto Win", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Rainbow Friends: Auto Win.lua")
+
+                        
+    addscriptexist(2788229376, "Da Hood: Infinity Cash, Godmode & More", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Da Hood: Infinity Cash, Godmode & More.lua")
