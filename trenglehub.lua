@@ -11398,3 +11398,6 @@ addscriptuniversal("UniversalFEChatSlower", "astrofile", "https://raw.githubuser
                             
     addscriptuniversal("Universal Aimlock", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal Aimlock.lua")
         
+
+                        
+    addscriptexist(9285238704, "Race Clicker: Auto Win, Auto Farm, Teleports", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Race Clicker: Auto Win, Auto Farm, Teleports.lua")
