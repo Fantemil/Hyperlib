@@ -11440,3 +11440,6 @@ addscriptuniversal("UniversalFEChatSlower", "astrofile", "https://raw.githubuser
 
                         
     addscriptexist(183364845, "SpeedRun4Unlocklvls", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SpeedRun4Unlocklvls.lua")
+
+                        
+    addscriptexist(3177438863, "DragonBloxAutoRebirthAutoFarmAutoLot", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DragonBloxAutoRebirthAutoFarmAutoLot.lua")
