@@ -11389,3 +11389,6 @@ addscriptuniversal("UniversalFEChatSlower", "astrofile", "https://raw.githubuser
 
                         
     addscriptexist(9524757503, "iHeartLand Music Tycoon: EVENT,Get a hat, Farm hearts", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/iHeartLand Music Tycoon: EVENT,Get a hat, Farm hearts.lua")
+
+                        
+    addscriptexist(2753915549, "BloxFruitsAutoFarmsChestsFarmEspMore", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BloxFruitsAutoFarmsChestsFarmEspMore.lua")
