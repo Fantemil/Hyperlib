@@ -11425,3 +11425,6 @@ addscriptuniversal("UniversalFEChatSlower", "astrofile", "https://raw.githubuser
 
                         
     addscriptexist(2788229376, "Da Hood: Infinity Cash, Godmode & More", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Da Hood: Infinity Cash, Godmode & More.lua")
+
+                        
+    addscriptexist(3956818381, "NinjaLegendsAutoSwingAutoSellAutoRebirth", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NinjaLegendsAutoSwingAutoSellAutoRebirth.lua")
