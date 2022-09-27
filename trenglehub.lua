@@ -11443,3 +11443,6 @@ addscriptuniversal("UniversalFEChatSlower", "astrofile", "https://raw.githubuser
 
                         
     addscriptexist(3177438863, "DragonBloxAutoRebirthAutoFarmAutoLot", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DragonBloxAutoRebirthAutoFarmAutoLot.lua")
+        
+    addscript(7243254032,"Bloody Baseplate", "Bloody Baseplate: Auto Stomp, Auto Glory Kill, Buy Items", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Bloody Baseplate: Auto Stomp, Auto Glory Kill, Buy Items.lua")
+                        
