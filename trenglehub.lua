@@ -11386,3 +11386,6 @@ addscriptexist(4282985734, "CombatWarriorsLegitAntiParryLegitAutoParry", "astrof
                         
 addscriptuniversal("UniversalFEChatSlower", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/UniversalFEChatSlower.lua")
     
+
+                        
+    addscriptexist(9524757503, "iHeartLand Music Tycoon: EVENT,Get a hat, Farm hearts", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/iHeartLand Music Tycoon: EVENT,Get a hat, Farm hearts.lua")
