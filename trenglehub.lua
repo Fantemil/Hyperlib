@@ -11419,3 +11419,6 @@ addscriptuniversal("UniversalFEChatSlower", "astrofile", "https://raw.githubuser
 
                         
     addscriptexist(286090429, "ArsenalAimbotESPFOV", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ArsenalAimbotESPFOV.lua")
+
+                        
+    addscriptexist(7991339063, "Rainbow Friends: Auto Win", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Rainbow Friends: Auto Win.lua")
