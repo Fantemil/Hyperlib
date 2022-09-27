@@ -11401,3 +11401,6 @@ addscriptuniversal("UniversalFEChatSlower", "astrofile", "https://raw.githubuser
 
                         
     addscriptexist(9285238704, "Race Clicker: Auto Win, Auto Farm, Teleports", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Race Clicker: Auto Win, Auto Farm, Teleports.lua")
+        
+    addscript(10371228324,"Camp Bonkers", "Camp Bonkers: Infinity Coins", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Camp Bonkers: Infinity Coins.lua")
+                        
