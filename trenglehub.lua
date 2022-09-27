@@ -11368,3 +11368,6 @@ addscriptexist(10142749739, "PetFightingSimulatorInfinityCoins", "astrofile", "h
 
                     
 addscriptexist(6751371363, "HoodDuelsWalkspeedSilentAimLockMore", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/HoodDuelsWalkspeedSilentAimLockMore.lua")
+
+                    
+addscriptexist(9551640993, "MiningSimulator2AutoFarmAutoClaimAchievementsMore", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MiningSimulator2AutoFarmAutoClaimAchievementsMore.lua")
