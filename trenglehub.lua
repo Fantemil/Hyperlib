@@ -11458,3 +11458,6 @@ addscriptuniversal("UniversalFEChatSlower", "astrofile", "https://raw.githubuser
 
                         
     addscriptexist(9524757503, "iHeartLand: Music Tycoon: Free IItems", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/iHeartLand: Music Tycoon: Free IItems.lua")
+
+                        
+    addscriptexist(9264596435, "Idle Heroes Simulator: Auto level, Auto kill", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Idle Heroes Simulator: Auto level, Auto kill.lua")
