@@ -11452,3 +11452,6 @@ addscriptuniversal("UniversalFEChatSlower", "astrofile", "https://raw.githubuser
         
     addscript(1487722208,"Barren", "Barren: Simple Esp", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Barren: Simple Esp.lua")
                         
+
+                        
+    addscriptexist(9992339729, "LongestAnswerWinsAnswer", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LongestAnswerWinsAnswer.lua")
