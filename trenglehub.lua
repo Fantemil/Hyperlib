@@ -11377,3 +11377,6 @@ addscriptexist(2753915549, "BloxFruitsAntiAFK", "astrofile", "https://raw.github
 
                     
 addscriptexist(8232438881, "ThiefSimulatorFreeRebirths", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ThiefSimulatorFreeRebirths.lua")
+                        
+addscriptuniversal("UniversalVersionCheckUtility", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/UniversalVersionCheckUtility.lua")
+    
