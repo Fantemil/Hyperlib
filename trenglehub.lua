@@ -11374,3 +11374,6 @@ addscriptexist(9551640993, "MiningSimulator2AutoFarmAutoClaimAchievementsMore", 
 
                     
 addscriptexist(2753915549, "BloxFruitsAntiAFK", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BloxFruitsAntiAFK.lua")
+
+                    
+addscriptexist(8232438881, "ThiefSimulatorFreeRebirths", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ThiefSimulatorFreeRebirths.lua")
