@@ -11428,3 +11428,6 @@ addscriptuniversal("UniversalFEChatSlower", "astrofile", "https://raw.githubuser
 
                         
     addscriptexist(3956818381, "NinjaLegendsAutoSwingAutoSellAutoRebirth", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NinjaLegendsAutoSwingAutoSellAutoRebirth.lua")
+
+                        
+    addscriptexist(6751371363, "Hood Duels: Aimlock", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Hood Duels: Aimlock.lua")
