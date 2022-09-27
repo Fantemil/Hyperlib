@@ -11383,3 +11383,6 @@ addscriptuniversal("UniversalVersionCheckUtility", "astrofile", "https://raw.git
 
                     
 addscriptexist(4282985734, "CombatWarriorsLegitAntiParryLegitAutoParry", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CombatWarriorsLegitAntiParryLegitAutoParry.lua")
+                        
+addscriptuniversal("UniversalFEChatSlower", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/UniversalFEChatSlower.lua")
+    
