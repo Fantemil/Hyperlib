@@ -11365,3 +11365,6 @@ addscriptexist(142823291, "MurderMystery2StatusGameAutoFarm", "astrofile", "http
 
                     
 addscriptexist(10142749739, "PetFightingSimulatorInfinityCoins", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PetFightingSimulatorInfinityCoins.lua")
+
+                    
+addscriptexist(6751371363, "HoodDuelsWalkspeedSilentAimLockMore", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/HoodDuelsWalkspeedSilentAimLockMore.lua")
