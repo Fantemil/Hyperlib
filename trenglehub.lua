@@ -11446,3 +11446,6 @@ addscriptuniversal("UniversalFEChatSlower", "astrofile", "https://raw.githubuser
         
     addscript(7243254032,"Bloody Baseplate", "Bloody Baseplate: Auto Stomp, Auto Glory Kill, Buy Items", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Bloody Baseplate: Auto Stomp, Auto Glory Kill, Buy Items.lua")
                         
+
+                        
+    addscriptexist(292439477, "Phantom Forces: Hitbox", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Phantom Forces: Hitbox.lua")
