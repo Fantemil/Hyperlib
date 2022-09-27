@@ -11431,3 +11431,6 @@ addscriptuniversal("UniversalFEChatSlower", "astrofile", "https://raw.githubuser
 
                         
     addscriptexist(6751371363, "Hood Duels: Aimlock", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Hood Duels: Aimlock.lua")
+        
+    addscript(10895555747,"Walmart Land", "Walmart Land: Inf Tokens", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Walmart Land: Inf Tokens.lua")
+                        
