@@ -11461,3 +11461,6 @@ addscriptuniversal("UniversalFEChatSlower", "astrofile", "https://raw.githubuser
 
                         
     addscriptexist(9264596435, "Idle Heroes Simulator: Auto level, Auto kill", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Idle Heroes Simulator: Auto level, Auto kill.lua")
+
+                        
+    addscriptexist(9992339729, "LongestAnswerWinssetwaterrisingChangequestiontextMore", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LongestAnswerWinssetwaterrisingChangequestiontextMore.lua")
