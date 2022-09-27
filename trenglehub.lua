@@ -11437,3 +11437,6 @@ addscriptuniversal("UniversalFEChatSlower", "astrofile", "https://raw.githubuser
 
                         
     addscriptexist(1224212277, "MadCityChapter2KillAll2", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MadCityChapter2KillAll2.lua")
+
+                        
+    addscriptexist(183364845, "SpeedRun4Unlocklvls", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SpeedRun4Unlocklvls.lua")
