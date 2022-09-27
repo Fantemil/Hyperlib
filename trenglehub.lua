@@ -11371,3 +11371,6 @@ addscriptexist(6751371363, "HoodDuelsWalkspeedSilentAimLockMore", "astrofile", "
 
                     
 addscriptexist(9551640993, "MiningSimulator2AutoFarmAutoClaimAchievementsMore", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MiningSimulator2AutoFarmAutoClaimAchievementsMore.lua")
+
+                    
+addscriptexist(2753915549, "BloxFruitsAntiAFK", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BloxFruitsAntiAFK.lua")
