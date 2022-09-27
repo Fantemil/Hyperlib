@@ -11407,3 +11407,6 @@ addscriptuniversal("UniversalFEChatSlower", "astrofile", "https://raw.githubuser
 
                         
     addscriptexist(10371228324, "Camp Bonkers: Give all badges", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Camp Bonkers: Give all badges.lua")
+
+                        
+    addscriptexist(9648883891, "FestivalTycoonInfinityMoney", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FestivalTycoonInfinityMoney.lua")
