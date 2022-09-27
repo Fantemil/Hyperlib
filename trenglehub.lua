@@ -11434,3 +11434,6 @@ addscriptuniversal("UniversalFEChatSlower", "astrofile", "https://raw.githubuser
         
     addscript(10895555747,"Walmart Land", "Walmart Land: Inf Tokens", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Walmart Land: Inf Tokens.lua")
                         
+
+                        
+    addscriptexist(1224212277, "MadCityChapter2KillAll2", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MadCityChapter2KillAll2.lua")
