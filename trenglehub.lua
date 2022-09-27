@@ -11392,3 +11392,6 @@ addscriptuniversal("UniversalFEChatSlower", "astrofile", "https://raw.githubuser
 
                         
     addscriptexist(2753915549, "BloxFruitsAutoFarmsChestsFarmEspMore", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BloxFruitsAutoFarmsChestsFarmEspMore.lua")
+
+                        
+    addscriptexist(4282985734, "Combat Warriors: Legit Anti Cheat & Auto Parry", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Combat Warriors: Legit Anti Cheat & Auto Parry.lua")
