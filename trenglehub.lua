@@ -11413,3 +11413,6 @@ addscriptuniversal("UniversalFEChatSlower", "astrofile", "https://raw.githubuser
 
                         
     addscriptexist(2986677229, "Giant Simulator: Auto Farm", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Giant Simulator: Auto Farm.lua")
+
+                        
+    addscriptexist(8737602449, "PLSDONATEAutoFarmServerHopAutoMsg", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PLSDONATEAutoFarmServerHopAutoMsg.lua")
