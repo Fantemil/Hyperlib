@@ -11380,3 +11380,6 @@ addscriptexist(8232438881, "ThiefSimulatorFreeRebirths", "astrofile", "https://r
                         
 addscriptuniversal("UniversalVersionCheckUtility", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/UniversalVersionCheckUtility.lua")
     
+
+                    
+addscriptexist(4282985734, "CombatWarriorsLegitAntiParryLegitAutoParry", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CombatWarriorsLegitAntiParryLegitAutoParry.lua")
