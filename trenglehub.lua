@@ -11449,3 +11449,6 @@ addscriptuniversal("UniversalFEChatSlower", "astrofile", "https://raw.githubuser
 
                         
     addscriptexist(292439477, "Phantom Forces: Hitbox", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Phantom Forces: Hitbox.lua")
+        
+    addscript(1487722208,"Barren", "Barren: Simple Esp", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Barren: Simple Esp.lua")
+                        
