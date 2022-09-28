@@ -11470,3 +11470,6 @@ addscriptuniversal("UniversalFEChatSlower", "astrofile", "https://raw.githubuser
         
     addscript(4793176968,"Mano County Police Patrol", "Mano County Police Patrol: Delete Map", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mano County Police Patrol: Delete Map.lua")
                         
+
+                        
+    addscriptexist(9103460924, "SwordFactoryXAutoDungeonBuyBoostsFastWebHook", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SwordFactoryXAutoDungeonBuyBoostsFastWebHook.lua")
