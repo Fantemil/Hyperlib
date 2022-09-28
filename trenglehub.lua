@@ -11476,3 +11476,6 @@ addscriptuniversal("UniversalFEChatSlower", "astrofile", "https://raw.githubuser
 
                         
     addscriptexist(286090429, "Arsenal: Wall Bang", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Arsenal: Wall Bang.lua")
+
+                        
+    addscriptexist(7180042682, "Military Tycoon: Auto Farm", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Military Tycoon: Auto Farm.lua")
