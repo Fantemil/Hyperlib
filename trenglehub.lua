@@ -11482,3 +11482,6 @@ addscriptuniversal("UniversalFEChatSlower", "astrofile", "https://raw.githubuser
         
     addscript(8511615377,"Panik", "PanikBotEspInfinityJumpHipHeight", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PanikBotEspInfinityJumpHipHeight.lua")
                         
+
+                        
+    addscriptexist(7305309231, "Taxi Boss: Auto Farm, Server Hop", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Taxi Boss: Auto Farm, Server Hop.lua")
