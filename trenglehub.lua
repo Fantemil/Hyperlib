@@ -11488,3 +11488,6 @@ addscriptuniversal("UniversalFEChatSlower", "astrofile", "https://raw.githubuser
 
                         
     addscriptexist(155615604, "Prison Life: Kill Players", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Prison Life: Kill Players.lua")
+
+                        
+    addscriptexist(4793176968, "Mano County Police Patrol: Tase All", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mano County Police Patrol: Tase All.lua")
