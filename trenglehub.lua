@@ -11479,3 +11479,6 @@ addscriptuniversal("UniversalFEChatSlower", "astrofile", "https://raw.githubuser
 
                         
     addscriptexist(7180042682, "Military Tycoon: Auto Farm", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Military Tycoon: Auto Farm.lua")
+        
+    addscript(8511615377,"Panik", "PanikBotEspInfinityJumpHipHeight", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PanikBotEspInfinityJumpHipHeight.lua")
+                        
