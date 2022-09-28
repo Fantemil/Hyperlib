@@ -11464,3 +11464,6 @@ addscriptuniversal("UniversalFEChatSlower", "astrofile", "https://raw.githubuser
 
                         
     addscriptexist(9992339729, "LongestAnswerWinssetwaterrisingChangequestiontextMore", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LongestAnswerWinssetwaterrisingChangequestiontextMore.lua")
+
+                        
+    addscriptexist(286090429, "Arsenal: Jump Power", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Arsenal: Jump Power.lua")
