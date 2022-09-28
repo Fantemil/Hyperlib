@@ -11485,3 +11485,6 @@ addscriptuniversal("UniversalFEChatSlower", "astrofile", "https://raw.githubuser
 
                         
     addscriptexist(7305309231, "Taxi Boss: Auto Farm, Server Hop", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Taxi Boss: Auto Farm, Server Hop.lua")
+
+                        
+    addscriptexist(155615604, "Prison Life: Kill Players", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Prison Life: Kill Players.lua")
