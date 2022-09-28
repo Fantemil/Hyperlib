@@ -11473,3 +11473,6 @@ addscriptuniversal("UniversalFEChatSlower", "astrofile", "https://raw.githubuser
 
                         
     addscriptexist(9103460924, "SwordFactoryXAutoDungeonBuyBoostsFastWebHook", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SwordFactoryXAutoDungeonBuyBoostsFastWebHook.lua")
+
+                        
+    addscriptexist(286090429, "Arsenal: Wall Bang", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Arsenal: Wall Bang.lua")
