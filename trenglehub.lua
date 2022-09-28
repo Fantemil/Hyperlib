@@ -11491,3 +11491,6 @@ addscriptuniversal("UniversalFEChatSlower", "astrofile", "https://raw.githubuser
 
                         
     addscriptexist(4793176968, "Mano County Police Patrol: Tase All", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mano County Police Patrol: Tase All.lua")
+        
+    addscript(10758111998,"2019 Booga Booga [REBORN]", "2019 Booga Booga [REBORN]: Auto Pickup Items", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/2019 Booga Booga [REBORN]: Auto Pickup Items.lua")
+                        
