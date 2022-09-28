@@ -11467,3 +11467,6 @@ addscriptuniversal("UniversalFEChatSlower", "astrofile", "https://raw.githubuser
 
                         
     addscriptexist(286090429, "Arsenal: Jump Power", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Arsenal: Jump Power.lua")
+        
+    addscript(4793176968,"Mano County Police Patrol", "Mano County Police Patrol: Delete Map", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mano County Police Patrol: Delete Map.lua")
+                        
