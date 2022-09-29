@@ -11518,3 +11518,6 @@ addscriptuniversal("UniversalFEChatSlower", "astrofile", "https://raw.githubuser
 
                         
     addscriptexist(9955279341, "Infinity Sea 2: Infinite Spins", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Infinity Sea 2: Infinite Spins.lua")
+
+                        
+    addscriptexist(2727067538, "EraofAltheaKillAraEspGodmode", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/EraofAltheaKillAraEspGodmode.lua")
