@@ -11704,3 +11704,6 @@ addscriptuniversal("UniversalFEChatSlower", "astrofile", "https://raw.githubuser
 
                         
     addscriptexist(542016179, "Teethyz Dentist: Anti Cheat Delete", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Teethyz Dentist: Anti Cheat Delete.lua")
+
+                        
+    addscriptexist(4860819035, "Plants vs Zombies Garden Problem: Infinity money", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Plants vs Zombies Garden Problem: Infinity money.lua")
