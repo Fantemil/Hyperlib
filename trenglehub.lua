@@ -11671,3 +11671,6 @@ addscriptuniversal("UniversalFEChatSlower", "astrofile", "https://raw.githubuser
 
                         
     addscriptexist(4967465336, "Ray's Mod: Infinity Health", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ray's Mod: Infinity Health.lua")
+
+                        
+    addscriptexist(10675066724, "Slime Tower Tycoon: Auto Collect, Auto Deposit & More", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Slime Tower Tycoon: Auto Collect, Auto Deposit & More.lua")
