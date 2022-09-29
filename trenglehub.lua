@@ -11695,3 +11695,6 @@ addscriptuniversal("UniversalFEChatSlower", "astrofile", "https://raw.githubuser
 
                         
     addscriptexist(5732973455, "HOURS: Unlock All", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/HOURS: Unlock All.lua")
+
+                        
+    addscriptexist(2041312716, "Ragdoll Engine: Fly, Teleports & more", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ragdoll Engine: Fly, Teleports & more.lua")
