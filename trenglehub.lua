@@ -11620,3 +11620,6 @@ addscriptuniversal("UniversalFEChatSlower", "astrofile", "https://raw.githubuser
 
                         
     addscriptexist(10142749739, "Pet Fighting Simulator: Infinity Coins", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pet Fighting Simulator: Infinity Coins.lua")
+
+                        
+    addscriptexist(9551640993, "Mining Simulator 2: Auto Farm, Auto Claim Achievements & More", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mining Simulator 2: Auto Farm, Auto Claim Achievements & More.lua")
