@@ -11848,3 +11848,6 @@ addscriptuniversal("UniversalFEChatSlower", "astrofile", "https://raw.githubuser
 
                         
     addscriptexist(488667523, "Those Who Remain | Items Esp", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Those Who Remain | Items Esp.lua")
+
+                        
+    addscriptexist(2512643572, "Bubble Gum Simulator | Redeem All Codes", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Bubble Gum Simulator | Redeem All Codes.lua")
