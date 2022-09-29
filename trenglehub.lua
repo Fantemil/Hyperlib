@@ -11827,3 +11827,6 @@ addscriptuniversal("UniversalFEChatSlower", "astrofile", "https://raw.githubuser
 
                         
     addscriptexist(2533391464, "Snowman Simulator GUI: Auto Farm, Kill All & More!", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Snowman Simulator GUI: Auto Farm, Kill All & More!.lua")
+                            
+    addscriptuniversal("Universal Walkspeed", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal Walkspeed.lua")
+        
