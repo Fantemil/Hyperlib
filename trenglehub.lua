@@ -11710,3 +11710,6 @@ addscriptuniversal("UniversalFEChatSlower", "astrofile", "https://raw.githubuser
 
                         
     addscriptexist(4282985734, "Combat Warriors: Esp Players, Silent AIm & more", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Combat Warriors: Esp Players, Silent AIm & more.lua")
+
+                        
+    addscriptexist(648362523, "Breaking Point: Auto Farm Infinity Coins", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Breaking Point: Auto Farm Infinity Coins.lua")
