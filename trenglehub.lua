@@ -11563,3 +11563,6 @@ addscriptuniversal("UniversalFEChatSlower", "astrofile", "https://raw.githubuser
 
                         
     addscriptexist(2727067538, "WorldZeroKillAuraAutoFarmNoClipMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/WorldZeroKillAuraAutoFarmNoClipMore.lua")
+
+                        
+    addscriptexist(9524757503, "iHeartLand Music Tycoon: Free Avatar Item", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/iHeartLand Music Tycoon: Free Avatar Item.lua")
