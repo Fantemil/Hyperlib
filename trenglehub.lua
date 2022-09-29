@@ -11809,3 +11809,6 @@ addscriptuniversal("UniversalFEChatSlower", "astrofile", "https://raw.githubuser
                             
     addscriptuniversal("Universal Report Abuse Anti Spy", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal Report Abuse Anti Spy.lua")
         
+
+                        
+    addscriptexist(2753915549, "Blox Fruits: Auto Farm, Teleports, Auto Stats", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blox Fruits: Auto Farm, Teleports, Auto Stats.lua")
