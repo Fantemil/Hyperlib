@@ -11815,3 +11815,6 @@ addscriptuniversal("UniversalFEChatSlower", "astrofile", "https://raw.githubuser
 
                         
     addscriptexist(2788229376, "Da Hood: Silent Aim", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Da Hood: Silent Aim.lua")
+                            
+    addscriptuniversal("Universal: SilentAim, AimLock", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal: SilentAim, AimLock.lua")
+        
