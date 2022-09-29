@@ -11500,3 +11500,6 @@ addscriptuniversal("UniversalFEChatSlower", "astrofile", "https://raw.githubuser
 
                         
     addscriptexist(9992339729, "LongestAnswerWinsAutoAnswerWalkspeed", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LongestAnswerWinsAutoAnswerWalkspeed.lua")
+
+                        
+    addscriptexist(5956785391, "Project Slayers: Unparty All", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Project Slayers: Unparty All.lua")
