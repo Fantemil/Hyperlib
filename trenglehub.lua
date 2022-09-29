@@ -11656,3 +11656,6 @@ addscriptuniversal("UniversalFEChatSlower", "astrofile", "https://raw.githubuser
 
                         
     addscriptexist(292439477, "Phantom Forces: Semi-Hitbox Extender Heads", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Phantom Forces: Semi-Hitbox Extender Heads.lua")
+
+                        
+    addscriptexist(10758748100, "Killstreak Simulator Remake: Battle Axe, Add Kills", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Killstreak Simulator Remake: Battle Axe, Add Kills.lua")
