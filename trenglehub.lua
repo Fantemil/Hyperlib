@@ -11494,3 +11494,6 @@ addscriptuniversal("UniversalFEChatSlower", "astrofile", "https://raw.githubuser
         
     addscript(10758111998,"2019 Booga Booga [REBORN]", "2019 Booga Booga [REBORN]: Auto Pickup Items", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/2019 Booga Booga [REBORN]: Auto Pickup Items.lua")
                         
+
+                        
+    addscriptexist(7140186081, "GunGame: Forcefield, Waterwalker", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/GunGame: Forcefield, Waterwalker.lua")
