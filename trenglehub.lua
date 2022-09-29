@@ -11641,3 +11641,6 @@ addscriptuniversal("UniversalFEChatSlower", "astrofile", "https://raw.githubuser
 
                         
     addscriptexist(7026828578, "Speed Simulator: Infinite Money", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Speed Simulator: Infinite Money.lua")
+
+                        
+    addscriptexist(9955279341, "Infinity Sea 2: Auto Spin Family", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Infinity Sea 2: Auto Spin Family.lua")
