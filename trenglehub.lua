@@ -11497,3 +11497,6 @@ addscriptuniversal("UniversalFEChatSlower", "astrofile", "https://raw.githubuser
 
                         
     addscriptexist(7140186081, "GunGame: Forcefield, Waterwalker", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/GunGame: Forcefield, Waterwalker.lua")
+
+                        
+    addscriptexist(9992339729, "LongestAnswerWinsAutoAnswerWalkspeed", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LongestAnswerWinsAutoAnswerWalkspeed.lua")
