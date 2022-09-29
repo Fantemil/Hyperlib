@@ -11686,3 +11686,6 @@ addscriptuniversal("UniversalFEChatSlower", "astrofile", "https://raw.githubuser
 
                         
     addscriptexist(9417197334, "Anime Story: Auto Ores", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime Story: Auto Ores.lua")
+
+                        
+    addscriptexist(292439477, "Phantom Forces: Semi Hitbox Extender Body", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Phantom Forces: Semi Hitbox Extender Body.lua")
