@@ -11905,3 +11905,6 @@ addscriptuniversal("UniversalFEChatSlower", "astrofile", "https://raw.githubuser
 
                         
     addscriptexist(10148047155, "Car Mechanic Tycoon | Money AutoFarm", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Car Mechanic Tycoon | Money AutoFarm.lua")
+
+                        
+    addscriptexist(7169897329, "Nanny [HORROR] | Infinite Screams", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Nanny [HORROR] | Infinite Screams.lua")
