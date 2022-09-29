@@ -11908,3 +11908,6 @@ addscriptuniversal("UniversalFEChatSlower", "astrofile", "https://raw.githubuser
 
                         
     addscriptexist(7169897329, "Nanny [HORROR] | Infinite Screams", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Nanny [HORROR] | Infinite Screams.lua")
+
+                        
+    addscriptexist(5993942214, "Rush Point | Skin Changer", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Rush Point | Skin Changer.lua")
