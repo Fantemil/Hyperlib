@@ -11866,3 +11866,6 @@ addscriptuniversal("UniversalFEChatSlower", "astrofile", "https://raw.githubuser
 
                         
     addscriptexist(9585537847, "SHADOVIS RPG | GUI - Multi Farm - Kill Aura & More!", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SHADOVIS RPG | GUI - Multi Farm - Kill Aura & More!.lua")
+
+                        
+    addscriptexist(8203181639, "Syrian Shenanigans | Inf Ammo", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Syrian Shenanigans | Inf Ammo.lua")
