@@ -11587,3 +11587,6 @@ addscriptuniversal("UniversalFEChatSlower", "astrofile", "https://raw.githubuser
 
                         
     addscriptexist(1224212277, "Mad City Chapter 2: Kill All", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mad City Chapter 2: Kill All.lua")
+
+                        
+    addscriptexist(4639625707, "OilWarfareTycoonGunModsEspInfiniteAmmoMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OilWarfareTycoonGunModsEspInfiniteAmmoMore.lua")
