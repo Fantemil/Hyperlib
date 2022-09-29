@@ -11863,3 +11863,6 @@ addscriptuniversal("UniversalFEChatSlower", "astrofile", "https://raw.githubuser
 
                         
     addscriptexist(9304358188, "Find The Memes | Get All Memes", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Find The Memes | Get All Memes.lua")
+
+                        
+    addscriptexist(9585537847, "SHADOVIS RPG | GUI - Multi Farm - Kill Aura & More!", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SHADOVIS RPG | GUI - Multi Farm - Kill Aura & More!.lua")
