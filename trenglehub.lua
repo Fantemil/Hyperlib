@@ -11548,3 +11548,6 @@ addscriptuniversal("UniversalFEChatSlower", "astrofile", "https://raw.githubuser
 
                         
     addscriptexist(4809447488, "Venture Tale: Auto Start, Kill Aura, Tp & more", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Venture Tale: Auto Start, Kill Aura, Tp & more.lua")
+
+                        
+    addscriptexist(5956785391, "Project Slayers: Infinite Spin, Auto Spin", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Project Slayers: Infinite Spin, Auto Spin.lua")
