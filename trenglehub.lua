@@ -11797,3 +11797,6 @@ addscriptuniversal("UniversalFEChatSlower", "astrofile", "https://raw.githubuser
                             
     addscriptuniversal("UniversalTellsalotaboutyou", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/UniversalTellsalotaboutyou.lua")
         
+
+                        
+    addscriptexist(5108997584, "Reason 2 Die: Teleports, Buy any item, Fly", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Reason 2 Die: Teleports, Buy any item, Fly.lua")
