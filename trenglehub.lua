@@ -11752,3 +11752,6 @@ addscriptuniversal("UniversalFEChatSlower", "astrofile", "https://raw.githubuser
         
     addscript(10882998385,"Endless Doors Beta", "Endless Doors Beta: Overseer eye no dmg", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Endless Doors Beta: Overseer eye no dmg.lua")
                         
+
+                        
+    addscriptexist(542016179, "Teethyz Dentist: Spam make appointments", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Teethyz Dentist: Spam make appointments.lua")
