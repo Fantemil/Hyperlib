@@ -11692,3 +11692,6 @@ addscriptuniversal("UniversalFEChatSlower", "astrofile", "https://raw.githubuser
 
                         
     addscriptexist(855499080, "SKYWARS: Server Lagger", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SKYWARS: Server Lagger.lua")
+
+                        
+    addscriptexist(5732973455, "HOURS: Unlock All", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/HOURS: Unlock All.lua")
