@@ -11875,3 +11875,6 @@ addscriptuniversal("UniversalFEChatSlower", "astrofile", "https://raw.githubuser
                             
     addscriptuniversal("Universal FPS Booster", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal FPS Booster.lua")
         
+
+                        
+    addscriptexist(10484095306, "CLIMB 100.000 STAIRS TO VIP! | Teleport To Mystery House", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CLIMB 100.000 STAIRS TO VIP! | Teleport To Mystery House.lua")
