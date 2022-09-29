@@ -11821,3 +11821,6 @@ addscriptuniversal("UniversalFEChatSlower", "astrofile", "https://raw.githubuser
 
                         
     addscriptexist(6403373529, "Slap Battles: AutoFarm Slapples, Trap AutoFarm", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Slap Battles: AutoFarm Slapples, Trap AutoFarm.lua")
+
+                        
+    addscriptexist(1224212277, "Mad City: Chapter 2 Loop Kill All", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mad City: Chapter 2 Loop Kill All.lua")
