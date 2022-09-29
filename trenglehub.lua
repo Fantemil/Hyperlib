@@ -11539,3 +11539,6 @@ addscriptuniversal("UniversalFEChatSlower", "astrofile", "https://raw.githubuser
         
     addscript(9554750143,"Pet Fighting Simulator", "Pet Fighting Simulator: Infinite Wheel Spins", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pet Fighting Simulator: Infinite Wheel Spins.lua")
                         
+
+                        
+    addscriptexist(9992339729, "Longest Answer: Wins Auto Player", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Longest Answer: Wins Auto Player.lua")
