@@ -11542,3 +11542,6 @@ addscriptuniversal("UniversalFEChatSlower", "astrofile", "https://raw.githubuser
 
                         
     addscriptexist(9992339729, "Longest Answer: Wins Auto Player", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Longest Answer: Wins Auto Player.lua")
+
+                        
+    addscriptexist(9585537847, "SHADOVIS RPG: Auto Rebirth, Auto Raid & more", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SHADOVIS RPG: Auto Rebirth, Auto Raid & more.lua")
