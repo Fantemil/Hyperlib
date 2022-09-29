@@ -11728,3 +11728,6 @@ addscriptuniversal("UniversalFEChatSlower", "astrofile", "https://raw.githubuser
 
                         
     addscriptexist(621129760, "KnifeAbilityTestSilentAimDrawFovInfinityAmmoMore", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/KnifeAbilityTestSilentAimDrawFovInfinityAmmoMore.lua")
+        
+    addscript(3483762032,"Oblivion Alpha", "OblivionAlpha3GamesSupport", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OblivionAlpha3GamesSupport.lua")
+                        
