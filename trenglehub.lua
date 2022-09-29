@@ -11791,3 +11791,6 @@ addscriptuniversal("UniversalFEChatSlower", "astrofile", "https://raw.githubuser
 
                         
     addscriptexist(9662949425, "Punch a brick wall simulator: AutoSell, AutoFarm, Auto Buy Rebriths", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Punch a brick wall simulator: AutoSell, AutoFarm, Auto Buy Rebriths.lua")
+
+                        
+    addscriptexist(8203181639, "Syrian Shenanigans: Fast Firerate", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Syrian Shenanigans: Fast Firerate.lua")
