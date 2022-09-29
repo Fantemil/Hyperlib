@@ -11617,3 +11617,6 @@ addscriptuniversal("UniversalFEChatSlower", "astrofile", "https://raw.githubuser
 
                         
     addscriptexist(7026828578, "Speed Simulator: Inf Money, Cash Farm", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Speed Simulator: Inf Money, Cash Farm.lua")
+
+                        
+    addscriptexist(10142749739, "Pet Fighting Simulator: Infinity Coins", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pet Fighting Simulator: Infinity Coins.lua")
