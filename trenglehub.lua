@@ -11650,3 +11650,6 @@ addscriptuniversal("UniversalFEChatSlower", "astrofile", "https://raw.githubuser
 
                         
     addscriptexist(914010731, "Ro-Ghoul: Auto Farm, Look Player's Stats, Webhook", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ro-Ghoul: Auto Farm, Look Player's Stats, Webhook.lua")
+
+                        
+    addscriptexist(142823291, "Murder Mystery 2: Status Game, Auto Farm", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Murder Mystery 2: Status Game, Auto Farm.lua")
