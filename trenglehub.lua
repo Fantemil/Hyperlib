@@ -11887,3 +11887,6 @@ addscriptuniversal("UniversalFEChatSlower", "astrofile", "https://raw.githubuser
 
                         
     addscriptexist(142823291, "Murder Mystery 2 | Fly", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Murder Mystery 2 | Fly.lua")
+                            
+    addscriptuniversal("Universal Change Normal Lighting to Future Lighting", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal Change Normal Lighting to Future Lighting.lua")
+        
