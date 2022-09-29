@@ -11785,3 +11785,6 @@ addscriptuniversal("UniversalFEChatSlower", "astrofile", "https://raw.githubuser
 
                         
     addscriptexist(7133467811, "Spin The Bottle: Invincibility", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Spin The Bottle: Invincibility.lua")
+
+                        
+    addscriptexist(7991339063, "Rainbow Friends: Return Items, Fullbright, Player Modifications", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Rainbow Friends: Return Items, Fullbright, Player Modifications.lua")
