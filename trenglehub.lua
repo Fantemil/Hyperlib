@@ -11608,3 +11608,6 @@ addscriptuniversal("UniversalFEChatSlower", "astrofile", "https://raw.githubuser
 
                         
     addscriptexist(4860819035, "Plants vs Zombies Garden Problem: Server Lag", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Plants vs Zombies Garden Problem: Server Lag.lua")
+        
+    addscript(10447320248,"Hide and Seek - Skill Battle", "HideandSeekSkillBattleInfMoney", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/HideandSeekSkillBattleInfMoney.lua")
+                        
