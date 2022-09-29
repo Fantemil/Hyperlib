@@ -11623,3 +11623,6 @@ addscriptuniversal("UniversalFEChatSlower", "astrofile", "https://raw.githubuser
 
                         
     addscriptexist(9551640993, "Mining Simulator 2: Auto Farm, Auto Claim Achievements & More", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mining Simulator 2: Auto Farm, Auto Claim Achievements & More.lua")
+
+                        
+    addscriptexist(2753915549, "Blox Fruits: Anti AFK", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blox Fruits: Anti AFK.lua")
