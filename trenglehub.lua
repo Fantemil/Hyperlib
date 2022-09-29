@@ -11698,3 +11698,6 @@ addscriptuniversal("UniversalFEChatSlower", "astrofile", "https://raw.githubuser
 
                         
     addscriptexist(2041312716, "Ragdoll Engine: Fly, Teleports & more", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ragdoll Engine: Fly, Teleports & more.lua")
+
+                        
+    addscriptexist(8737602449, "PLS DONATE: Fake Donate Nuke", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PLS DONATE: Fake Donate Nuke.lua")
