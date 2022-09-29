@@ -11605,3 +11605,6 @@ addscriptuniversal("UniversalFEChatSlower", "astrofile", "https://raw.githubuser
 
                         
     addscriptexist(2039118386, "Neighborhood war: AimBot", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Neighborhood war: AimBot.lua")
+
+                        
+    addscriptexist(4860819035, "Plants vs Zombies Garden Problem: Server Lag", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Plants vs Zombies Garden Problem: Server Lag.lua")
