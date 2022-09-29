@@ -11680,3 +11680,6 @@ addscriptuniversal("UniversalFEChatSlower", "astrofile", "https://raw.githubuser
 
                         
     addscriptexist(370731277, "MeepCity: Balloon Spam", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MeepCity: Balloon Spam.lua")
+
+                        
+    addscriptexist(10861112990, "Anime Artifacts Simulator 2: Infinite coins", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime Artifacts Simulator 2: Infinite coins.lua")
