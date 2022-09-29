@@ -11635,3 +11635,6 @@ addscriptuniversal("UniversalFEChatSlower", "astrofile", "https://raw.githubuser
 
                         
     addscriptexist(4282985734, "Combat Warriors: Legit Anti Parry, Legit Auto Parry", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Combat Warriors: Legit Anti Parry, Legit Auto Parry.lua")
+                            
+    addscriptuniversal("Universal FE Chat Slower", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal FE Chat Slower.lua")
+        
