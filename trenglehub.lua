@@ -11536,3 +11536,6 @@ addscriptuniversal("UniversalFEChatSlower", "astrofile", "https://raw.githubuser
 
                         
     addscriptexist(10895555747, "Walmart Land: Infinite Tokens Methond 2", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Walmart Land: Infinite Tokens Methond 2.lua")
+        
+    addscript(9554750143,"Pet Fighting Simulator", "Pet Fighting Simulator: Infinite Wheel Spins", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pet Fighting Simulator: Infinite Wheel Spins.lua")
+                        
