@@ -11842,3 +11842,6 @@ addscriptuniversal("UniversalFEChatSlower", "astrofile", "https://raw.githubuser
 
                         
     addscriptexist(10320240572, "Easy Race Clicker | AutoWin Farm, Auto Click, Auto Rebirth", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Easy Race Clicker | AutoWin Farm, Auto Click, Auto Rebirth.lua")
+
+                        
+    addscriptexist(662417684, "LUCKY BLOCKS Battlegrounds | Walkspeed, JumpPower, GiveAnyBlock", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LUCKY BLOCKS Battlegrounds | Walkspeed, JumpPower, GiveAnyBlock.lua")
