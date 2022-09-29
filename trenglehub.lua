@@ -11773,3 +11773,6 @@ addscriptuniversal("UniversalFEChatSlower", "astrofile", "https://raw.githubuser
                             
     addscriptuniversal("Universal Chat Bypasser", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal Chat Bypasser.lua")
         
+
+                        
+    addscriptexist(10631181587, "Stone Miner Simulator 2: Infinite Rebirth Tokens & Gems", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Stone Miner Simulator 2: Infinite Rebirth Tokens & Gems.lua")
