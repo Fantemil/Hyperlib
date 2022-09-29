@@ -11569,3 +11569,6 @@ addscriptuniversal("UniversalFEChatSlower", "astrofile", "https://raw.githubuser
         
     addscript(10107516163,"REALISTIC HOOD MODDED (ACS)", "REALISTIC HOOD MODDED (ACS): Op Guns", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/REALISTIC HOOD MODDED (ACS): Op Guns.lua")
                         
+
+                        
+    addscriptexist(5956785391, "Project Slayers: Spam Dash Effect", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Project Slayers: Spam Dash Effect.lua")
