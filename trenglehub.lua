@@ -11899,3 +11899,6 @@ addscriptuniversal("UniversalFEChatSlower", "astrofile", "https://raw.githubuser
 
                         
     addscriptexist(9133513813, "Hunted Hood | AutoPickUp", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Hunted Hood | AutoPickUp.lua")
+
+                        
+    addscriptexist(8750997647, "Tapping Legends X | AutoRebirth, AutoTap, AutoEggs", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tapping Legends X | AutoRebirth, AutoTap, AutoEggs.lua")
