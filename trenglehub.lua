@@ -11701,3 +11701,6 @@ addscriptuniversal("UniversalFEChatSlower", "astrofile", "https://raw.githubuser
 
                         
     addscriptexist(8737602449, "PLS DONATE: Fake Donate Nuke", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PLS DONATE: Fake Donate Nuke.lua")
+
+                        
+    addscriptexist(542016179, "Teethyz Dentist: Anti Cheat Delete", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Teethyz Dentist: Anti Cheat Delete.lua")
