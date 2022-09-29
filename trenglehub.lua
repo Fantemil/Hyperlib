@@ -11638,3 +11638,6 @@ addscriptuniversal("UniversalFEChatSlower", "astrofile", "https://raw.githubuser
                             
     addscriptuniversal("Universal FE Chat Slower", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal FE Chat Slower.lua")
         
+
+                        
+    addscriptexist(7026828578, "Speed Simulator: Infinite Money", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Speed Simulator: Infinite Money.lua")
