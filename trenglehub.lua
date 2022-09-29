@@ -11668,3 +11668,6 @@ addscriptuniversal("UniversalFEChatSlower", "astrofile", "https://raw.githubuser
 
                         
     addscriptexist(2512643572, "Bubble Gum Simulator: Code Redeemer", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Bubble Gum Simulator: Code Redeemer.lua")
+
+                        
+    addscriptexist(4967465336, "Ray's Mod: Infinity Health", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ray's Mod: Infinity Health.lua")
