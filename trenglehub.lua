@@ -11674,3 +11674,6 @@ addscriptuniversal("UniversalFEChatSlower", "astrofile", "https://raw.githubuser
 
                         
     addscriptexist(10675066724, "Slime Tower Tycoon: Auto Collect, Auto Deposit & More", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Slime Tower Tycoon: Auto Collect, Auto Deposit & More.lua")
+
+                        
+    addscriptexist(10758748100, "Killstreak Simulator Remake: Add many Kills", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Killstreak Simulator Remake: Add many Kills.lua")
