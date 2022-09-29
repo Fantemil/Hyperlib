@@ -11527,3 +11527,6 @@ addscriptuniversal("UniversalFEChatSlower", "astrofile", "https://raw.githubuser
 
                         
     addscriptexist(1224212277, "MadCityChapter2KillAllv2", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MadCityChapter2KillAllv2.lua")
+
+                        
+    addscriptexist(85697719, "Kingdom Life 2: God Mode, Op Weapons", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Kingdom Life 2: God Mode, Op Weapons.lua")
