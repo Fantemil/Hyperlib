@@ -11653,3 +11653,6 @@ addscriptuniversal("UniversalFEChatSlower", "astrofile", "https://raw.githubuser
 
                         
     addscriptexist(142823291, "Murder Mystery 2: Status Game, Auto Farm", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Murder Mystery 2: Status Game, Auto Farm.lua")
+
+                        
+    addscriptexist(292439477, "Phantom Forces: Semi-Hitbox Extender Heads", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Phantom Forces: Semi-Hitbox Extender Heads.lua")
