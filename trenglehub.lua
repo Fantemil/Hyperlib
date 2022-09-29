@@ -11767,3 +11767,6 @@ addscriptuniversal("UniversalFEChatSlower", "astrofile", "https://raw.githubuser
 
                         
     addscriptexist(142823291, "Murder Mystery 2: Fly, Esp, Noclip", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Murder Mystery 2: Fly, Esp, Noclip.lua")
+
+                        
+    addscriptexist(189707, "Natural Disaster Survival: Speed Changer, Gravity, Jumppower", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Natural Disaster Survival: Speed Changer, Gravity, Jumppower.lua")
