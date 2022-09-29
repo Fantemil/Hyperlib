@@ -11533,3 +11533,6 @@ addscriptuniversal("UniversalFEChatSlower", "astrofile", "https://raw.githubuser
 
                         
     addscriptexist(9872472334, "Evade: Monster Esp", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Evade: Monster Esp.lua")
+
+                        
+    addscriptexist(10895555747, "Walmart Land: Infinite Tokens Methond 2", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Walmart Land: Infinite Tokens Methond 2.lua")
