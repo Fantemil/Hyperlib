@@ -11836,3 +11836,6 @@ addscriptuniversal("UniversalFEChatSlower", "astrofile", "https://raw.githubuser
 
                         
     addscriptexist(2753915549, "Blox Fruits | GUI - Auto Saber, Auto Farm & More!", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blox Fruits | GUI - Auto Saber, Auto Farm & More!.lua")
+
+                        
+    addscriptexist(621129760, "Knife Ability Test | Free Radio", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Knife Ability Test | Free Radio.lua")
