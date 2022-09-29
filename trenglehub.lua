@@ -11740,3 +11740,6 @@ addscriptuniversal("UniversalFEChatSlower", "astrofile", "https://raw.githubuser
 
                         
     addscriptexist(5993942214, "RushPointEspPlayersDistance", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RushPointEspPlayersDistance.lua")
+
+                        
+    addscriptexist(1224212277, "Mad City: Chapter 2: Loop Kill All", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mad City: Chapter 2: Loop Kill All.lua")
