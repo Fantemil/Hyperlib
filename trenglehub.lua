@@ -11551,3 +11551,6 @@ addscriptuniversal("UniversalFEChatSlower", "astrofile", "https://raw.githubuser
 
                         
     addscriptexist(5956785391, "Project Slayers: Infinite Spin, Auto Spin", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Project Slayers: Infinite Spin, Auto Spin.lua")
+
+                        
+    addscriptexist(2788229376, "DaHoodAutoFarmTeleportsmore", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DaHoodAutoFarmTeleportsmore.lua")
