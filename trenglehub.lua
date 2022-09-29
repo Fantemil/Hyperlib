@@ -11572,3 +11572,6 @@ addscriptuniversal("UniversalFEChatSlower", "astrofile", "https://raw.githubuser
 
                         
     addscriptexist(5956785391, "Project Slayers: Spam Dash Effect", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Project Slayers: Spam Dash Effect.lua")
+                            
+    addscriptuniversal("Universal Fly, Walkspeed", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal Fly, Walkspeed.lua")
+        
