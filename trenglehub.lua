@@ -11854,3 +11854,6 @@ addscriptuniversal("UniversalFEChatSlower", "astrofile", "https://raw.githubuser
 
                         
     addscriptexist(10903978962, "Sheep Tycoon | Auto Farm, Auto Sell", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sheep Tycoon | Auto Farm, Auto Sell.lua")
+
+                        
+    addscriptexist(4639625707, "Oil Warfare Tycoon | Gun Mod", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Oil Warfare Tycoon | Gun Mod.lua")
