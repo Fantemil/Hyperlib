@@ -11629,3 +11629,6 @@ addscriptuniversal("UniversalFEChatSlower", "astrofile", "https://raw.githubuser
 
                         
     addscriptexist(8232438881, "Thief Simulator: Free Rebirths", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Thief Simulator: Free Rebirths.lua")
+                            
+    addscriptuniversal("Universal Version Check Utility", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal Version Check Utility.lua")
+        
