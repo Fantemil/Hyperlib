@@ -11683,3 +11683,6 @@ addscriptuniversal("UniversalFEChatSlower", "astrofile", "https://raw.githubuser
 
                         
     addscriptexist(10861112990, "Anime Artifacts Simulator 2: Infinite coins", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime Artifacts Simulator 2: Infinite coins.lua")
+
+                        
+    addscriptexist(9417197334, "Anime Story: Auto Ores", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime Story: Auto Ores.lua")
