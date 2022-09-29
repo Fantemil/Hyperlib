@@ -11512,3 +11512,6 @@ addscriptuniversal("UniversalFEChatSlower", "astrofile", "https://raw.githubuser
 
                         
     addscriptexist(7026828578, "Speed Simulator: Infinite Rebirths", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Speed Simulator: Infinite Rebirths.lua")
+        
+    addscript(8447279898,"The Pointless Printer Game v1.2.8", "The Pointless Printer Game v1.2.8: Infinite Money", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/The Pointless Printer Game v1.2.8: Infinite Money.lua")
+                        
