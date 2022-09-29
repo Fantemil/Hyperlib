@@ -11869,3 +11869,6 @@ addscriptuniversal("UniversalFEChatSlower", "astrofile", "https://raw.githubuser
 
                         
     addscriptexist(8203181639, "Syrian Shenanigans | Inf Ammo", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Syrian Shenanigans | Inf Ammo.lua")
+
+                        
+    addscriptexist(5610197459, "gang up on people simulator", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/gang up on people simulator.lua")
