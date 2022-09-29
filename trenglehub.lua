@@ -11662,3 +11662,6 @@ addscriptuniversal("UniversalFEChatSlower", "astrofile", "https://raw.githubuser
 
                         
     addscriptexist(206640076, "Deathrun: Unload map", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Deathrun: Unload map.lua")
+
+                        
+    addscriptexist(6284583030, "Pet Simulator X: Auto Farm Area, Teleports & More", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pet Simulator X: Auto Farm Area, Teleports & More.lua")
