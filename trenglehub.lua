@@ -11647,3 +11647,6 @@ addscriptuniversal("UniversalFEChatSlower", "astrofile", "https://raw.githubuser
 
                         
     addscriptexist(9872472334, "Evade: Inf Jump, Q to teleport & More", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Evade: Inf Jump, Q to teleport & More.lua")
+
+                        
+    addscriptexist(914010731, "Ro-Ghoul: Auto Farm, Look Player's Stats, Webhook", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ro-Ghoul: Auto Farm, Look Player's Stats, Webhook.lua")
