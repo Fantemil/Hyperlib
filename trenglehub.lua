@@ -11707,3 +11707,6 @@ addscriptuniversal("UniversalFEChatSlower", "astrofile", "https://raw.githubuser
 
                         
     addscriptexist(4860819035, "Plants vs Zombies Garden Problem: Infinity money", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Plants vs Zombies Garden Problem: Infinity money.lua")
+
+                        
+    addscriptexist(4282985734, "Combat Warriors: Esp Players, Silent AIm & more", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Combat Warriors: Esp Players, Silent AIm & more.lua")
