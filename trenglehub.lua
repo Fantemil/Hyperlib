@@ -11614,3 +11614,6 @@ addscriptuniversal("UniversalFEChatSlower", "astrofile", "https://raw.githubuser
 
                         
     addscriptexist(680750021, "CaseClickerAutoClickAutoOpenmore", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CaseClickerAutoClickAutoOpenmore.lua")
+
+                        
+    addscriptexist(7026828578, "Speed Simulator: Inf Money, Cash Farm", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Speed Simulator: Inf Money, Cash Farm.lua")
