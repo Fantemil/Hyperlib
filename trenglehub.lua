@@ -11560,3 +11560,6 @@ addscriptuniversal("UniversalFEChatSlower", "astrofile", "https://raw.githubuser
 
                         
     addscriptexist(6172932937, "Energy Assault: Wallbang", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Energy Assault: Wallbang.lua")
+
+                        
+    addscriptexist(2727067538, "WorldZeroKillAuraAutoFarmNoClipMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/WorldZeroKillAuraAutoFarmNoClipMore.lua")
