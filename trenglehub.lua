@@ -11611,3 +11611,6 @@ addscriptuniversal("UniversalFEChatSlower", "astrofile", "https://raw.githubuser
         
     addscript(10447320248,"Hide and Seek - Skill Battle", "HideandSeekSkillBattleInfMoney", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/HideandSeekSkillBattleInfMoney.lua")
                         
+
+                        
+    addscriptexist(680750021, "CaseClickerAutoClickAutoOpenmore", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CaseClickerAutoClickAutoOpenmore.lua")
