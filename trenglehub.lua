@@ -11626,3 +11626,6 @@ addscriptuniversal("UniversalFEChatSlower", "astrofile", "https://raw.githubuser
 
                         
     addscriptexist(2753915549, "Blox Fruits: Anti AFK", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blox Fruits: Anti AFK.lua")
+
+                        
+    addscriptexist(8232438881, "Thief Simulator: Free Rebirths", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Thief Simulator: Free Rebirths.lua")
