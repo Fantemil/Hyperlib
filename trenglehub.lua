@@ -11644,3 +11644,6 @@ addscriptuniversal("UniversalFEChatSlower", "astrofile", "https://raw.githubuser
 
                         
     addscriptexist(9955279341, "Infinity Sea 2: Auto Spin Family", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Infinity Sea 2: Auto Spin Family.lua")
+
+                        
+    addscriptexist(9872472334, "Evade: Inf Jump, Q to teleport & More", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Evade: Inf Jump, Q to teleport & More.lua")
