@@ -11557,3 +11557,6 @@ addscriptuniversal("UniversalFEChatSlower", "astrofile", "https://raw.githubuser
 
                         
     addscriptexist(155615604, "Prison Life: Kill Selected Player", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Prison Life: Kill Selected Player.lua")
+
+                        
+    addscriptexist(6172932937, "Energy Assault: Wallbang", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Energy Assault: Wallbang.lua")
