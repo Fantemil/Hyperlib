@@ -11770,3 +11770,6 @@ addscriptuniversal("UniversalFEChatSlower", "astrofile", "https://raw.githubuser
 
                         
     addscriptexist(189707, "Natural Disaster Survival: Speed Changer, Gravity, Jumppower", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Natural Disaster Survival: Speed Changer, Gravity, Jumppower.lua")
+                            
+    addscriptuniversal("Universal Chat Bypasser", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal Chat Bypasser.lua")
+        
