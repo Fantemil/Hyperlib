@@ -11566,3 +11566,6 @@ addscriptuniversal("UniversalFEChatSlower", "astrofile", "https://raw.githubuser
 
                         
     addscriptexist(9524757503, "iHeartLand Music Tycoon: Free Avatar Item", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/iHeartLand Music Tycoon: Free Avatar Item.lua")
+        
+    addscript(10107516163,"REALISTIC HOOD MODDED (ACS)", "REALISTIC HOOD MODDED (ACS): Op Guns", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/REALISTIC HOOD MODDED (ACS): Op Guns.lua")
+                        
