@@ -11716,3 +11716,6 @@ addscriptuniversal("UniversalFEChatSlower", "astrofile", "https://raw.githubuser
                             
     addscriptuniversal("Universal Trash Talk", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal Trash Talk.lua")
         
+
+                        
+    addscriptexist(9611809130, "Crazy Party RPG: Tp To Crab Area", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Crazy Party RPG: Tp To Crab Area.lua")
