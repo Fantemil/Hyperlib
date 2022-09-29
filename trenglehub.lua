@@ -11677,3 +11677,6 @@ addscriptuniversal("UniversalFEChatSlower", "astrofile", "https://raw.githubuser
 
                         
     addscriptexist(10758748100, "Killstreak Simulator Remake: Add many Kills", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Killstreak Simulator Remake: Add many Kills.lua")
+
+                        
+    addscriptexist(370731277, "MeepCity: Balloon Spam", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MeepCity: Balloon Spam.lua")
