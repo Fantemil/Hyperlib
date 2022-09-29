@@ -11545,3 +11545,6 @@ addscriptuniversal("UniversalFEChatSlower", "astrofile", "https://raw.githubuser
 
                         
     addscriptexist(9585537847, "SHADOVIS RPG: Auto Rebirth, Auto Raid & more", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SHADOVIS RPG: Auto Rebirth, Auto Raid & more.lua")
+
+                        
+    addscriptexist(4809447488, "Venture Tale: Auto Start, Kill Aura, Tp & more", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Venture Tale: Auto Start, Kill Aura, Tp & more.lua")
