@@ -11806,3 +11806,6 @@ addscriptuniversal("UniversalFEChatSlower", "astrofile", "https://raw.githubuser
                             
     addscriptuniversal("Universal Webhook", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal Webhook.lua")
         
+                            
+    addscriptuniversal("Universal Report Abuse Anti Spy", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal Report Abuse Anti Spy.lua")
+        
