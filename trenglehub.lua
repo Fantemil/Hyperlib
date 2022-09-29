@@ -11590,3 +11590,6 @@ addscriptuniversal("UniversalFEChatSlower", "astrofile", "https://raw.githubuser
 
                         
     addscriptexist(4639625707, "OilWarfareTycoonGunModsEspInfiniteAmmoMore", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OilWarfareTycoonGunModsEspInfiniteAmmoMore.lua")
+        
+    addscript(4325400580,"Army Tycoon", "ArmyTycoonGiveeveryoneallbuildingsQTonukeLagServer", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ArmyTycoonGiveeveryoneallbuildingsQTonukeLagServer.lua")
+                        
