@@ -11749,3 +11749,6 @@ addscriptuniversal("UniversalFEChatSlower", "astrofile", "https://raw.githubuser
 
                         
     addscriptexist(10861112990, "Anime Artifacts Simulator 2: Inf Money", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime Artifacts Simulator 2: Inf Money.lua")
+        
+    addscript(10882998385,"Endless Doors Beta", "Endless Doors Beta: Overseer eye no dmg", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Endless Doors Beta: Overseer eye no dmg.lua")
+                        
