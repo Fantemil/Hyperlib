@@ -11521,3 +11521,6 @@ addscriptuniversal("UniversalFEChatSlower", "astrofile", "https://raw.githubuser
 
                         
     addscriptexist(2727067538, "EraofAltheaKillAraEspGodmode", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/EraofAltheaKillAraEspGodmode.lua")
+
+                        
+    addscriptexist(10675066724, "SlimeTowerTycoonCollectAllDropAutoSell", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SlimeTowerTycoonCollectAllDropAutoSell.lua")
