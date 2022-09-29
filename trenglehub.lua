@@ -11581,3 +11581,6 @@ addscriptuniversal("UniversalFEChatSlower", "astrofile", "https://raw.githubuser
 
                         
     addscriptexist(6284583030, "Pet Simulator X: Auto Farm, Auto Eggs & More", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pet Simulator X: Auto Farm, Auto Eggs & More.lua")
+
+                        
+    addscriptexist(8232438881, "Thief Simulator: Auto Rob", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Thief Simulator: Auto Rob.lua")
