@@ -11818,3 +11818,6 @@ addscriptuniversal("UniversalFEChatSlower", "astrofile", "https://raw.githubuser
                             
     addscriptuniversal("Universal: SilentAim, AimLock", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal: SilentAim, AimLock.lua")
         
+
+                        
+    addscriptexist(6403373529, "Slap Battles: AutoFarm Slapples, Trap AutoFarm", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Slap Battles: AutoFarm Slapples, Trap AutoFarm.lua")
