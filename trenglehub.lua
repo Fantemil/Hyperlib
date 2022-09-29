@@ -11659,3 +11659,6 @@ addscriptuniversal("UniversalFEChatSlower", "astrofile", "https://raw.githubuser
 
                         
     addscriptexist(10758748100, "Killstreak Simulator Remake: Battle Axe, Add Kills", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Killstreak Simulator Remake: Battle Axe, Add Kills.lua")
+
+                        
+    addscriptexist(206640076, "Deathrun: Unload map", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Deathrun: Unload map.lua")
