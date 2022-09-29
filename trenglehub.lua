@@ -11509,3 +11509,6 @@ addscriptuniversal("UniversalFEChatSlower", "astrofile", "https://raw.githubuser
                             
     addscriptuniversal("Universal Walkspeed Spoofer", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal Walkspeed Spoofer.lua")
         
+
+                        
+    addscriptexist(7026828578, "Speed Simulator: Infinite Rebirths", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Speed Simulator: Infinite Rebirths.lua")
