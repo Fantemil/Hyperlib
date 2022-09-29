@@ -11689,3 +11689,6 @@ addscriptuniversal("UniversalFEChatSlower", "astrofile", "https://raw.githubuser
 
                         
     addscriptexist(292439477, "Phantom Forces: Semi Hitbox Extender Body", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Phantom Forces: Semi Hitbox Extender Body.lua")
+
+                        
+    addscriptexist(855499080, "SKYWARS: Server Lagger", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SKYWARS: Server Lagger.lua")
