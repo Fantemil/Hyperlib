@@ -11506,3 +11506,6 @@ addscriptuniversal("UniversalFEChatSlower", "astrofile", "https://raw.githubuser
 
                         
     addscriptexist(155615604, "Prison Life: Kill All Players", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Prison Life: Kill All Players.lua")
+                            
+    addscriptuniversal("Universal Walkspeed Spoofer", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal Walkspeed Spoofer.lua")
+        
