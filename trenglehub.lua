@@ -11890,3 +11890,6 @@ addscriptuniversal("UniversalFEChatSlower", "astrofile", "https://raw.githubuser
                             
     addscriptuniversal("Universal Change Normal Lighting to Future Lighting", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal Change Normal Lighting to Future Lighting.lua")
         
+
+                        
+    addscriptexist(9524757503, "iHeartLand: Music Tycoon | Instantly complete", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/iHeartLand: Music Tycoon | Instantly complete.lua")
