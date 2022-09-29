@@ -11803,3 +11803,6 @@ addscriptuniversal("UniversalFEChatSlower", "astrofile", "https://raw.githubuser
 
                         
     addscriptexist(3177438863, "Dragon Blox: Auto Quest, Auto Farm, AutoRebirth", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Dragon Blox: Auto Quest, Auto Farm, AutoRebirth.lua")
+                            
+    addscriptuniversal("Universal Webhook", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal Webhook.lua")
+        
