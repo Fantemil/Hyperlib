@@ -11782,3 +11782,6 @@ addscriptuniversal("UniversalFEChatSlower", "astrofile", "https://raw.githubuser
 
                         
     addscriptexist(8447393333, "Chocolate Factory Simulator: Infinite Money", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Chocolate Factory Simulator: Infinite Money.lua")
+
+                        
+    addscriptexist(7133467811, "Spin The Bottle: Invincibility", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Spin The Bottle: Invincibility.lua")
