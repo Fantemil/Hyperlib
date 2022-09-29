@@ -11764,3 +11764,6 @@ addscriptuniversal("UniversalFEChatSlower", "astrofile", "https://raw.githubuser
 
                         
     addscriptexist(7026828578, "Speed Simulator: Inf Rebirths, Speed Farm, Farm Rebirths", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Speed Simulator: Inf Rebirths, Speed Farm, Farm Rebirths.lua")
+
+                        
+    addscriptexist(142823291, "Murder Mystery 2: Fly, Esp, Noclip", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Murder Mystery 2: Fly, Esp, Noclip.lua")
