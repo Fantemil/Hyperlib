@@ -11743,3 +11743,6 @@ addscriptuniversal("UniversalFEChatSlower", "astrofile", "https://raw.githubuser
 
                         
     addscriptexist(1224212277, "Mad City: Chapter 2: Loop Kill All", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mad City: Chapter 2: Loop Kill All.lua")
+
+                        
+    addscriptexist(4860819035, "Plants vs Zombies Garden Problem: Inf Levels", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Plants vs Zombies Garden Problem: Inf Levels.lua")
