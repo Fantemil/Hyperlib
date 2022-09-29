@@ -11602,3 +11602,6 @@ addscriptuniversal("UniversalFEChatSlower", "astrofile", "https://raw.githubuser
 
                         
     addscriptexist(8916037983, "starving artists: Copy art", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/starving artists: Copy art.lua")
+
+                        
+    addscriptexist(2039118386, "Neighborhood war: AimBot", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Neighborhood war: AimBot.lua")
