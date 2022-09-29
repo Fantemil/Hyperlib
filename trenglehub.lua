@@ -11719,3 +11719,6 @@ addscriptuniversal("UniversalFEChatSlower", "astrofile", "https://raw.githubuser
 
                         
     addscriptexist(9611809130, "Crazy Party RPG: Tp To Crab Area", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Crazy Party RPG: Tp To Crab Area.lua")
+
+                        
+    addscriptexist(7138009149, "PHIGHTING ALPHA: Infinity Money and Gems", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PHIGHTING ALPHA: Infinity Money and Gems.lua")
