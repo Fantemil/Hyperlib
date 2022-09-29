@@ -11725,3 +11725,6 @@ addscriptuniversal("UniversalFEChatSlower", "astrofile", "https://raw.githubuser
 
                         
     addscriptexist(6516141723, "DOORSInstantInteractSkipLevels", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DOORSInstantInteractSkipLevels.lua")
+
+                        
+    addscriptexist(621129760, "KnifeAbilityTestSilentAimDrawFovInfinityAmmoMore", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/KnifeAbilityTestSilentAimDrawFovInfinityAmmoMore.lua")
