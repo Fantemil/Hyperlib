@@ -11746,3 +11746,6 @@ addscriptuniversal("UniversalFEChatSlower", "astrofile", "https://raw.githubuser
 
                         
     addscriptexist(4860819035, "Plants vs Zombies Garden Problem: Inf Levels", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Plants vs Zombies Garden Problem: Inf Levels.lua")
+
+                        
+    addscriptexist(10861112990, "Anime Artifacts Simulator 2: Inf Money", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime Artifacts Simulator 2: Inf Money.lua")
