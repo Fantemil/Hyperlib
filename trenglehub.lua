@@ -11911,3 +11911,6 @@ addscriptuniversal("UniversalFEChatSlower", "astrofile", "https://raw.githubuser
 
                         
     addscriptexist(5993942214, "Rush Point | Skin Changer", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Rush Point | Skin Changer.lua")
+
+                        
+    addscriptexist(1344307396, "Destroy the Noob | Give All Items", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Destroy the Noob | Give All Items.lua")
