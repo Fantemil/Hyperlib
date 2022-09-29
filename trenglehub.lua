@@ -11578,3 +11578,6 @@ addscriptuniversal("UniversalFEChatSlower", "astrofile", "https://raw.githubuser
 
                         
     addscriptexist(2039118386, "Neighborhood war: Silent Aim", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Neighborhood war: Silent Aim.lua")
+
+                        
+    addscriptexist(6284583030, "Pet Simulator X: Auto Farm, Auto Eggs & More", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pet Simulator X: Auto Farm, Auto Eggs & More.lua")
