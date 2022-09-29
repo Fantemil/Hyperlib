@@ -11896,3 +11896,6 @@ addscriptuniversal("UniversalFEChatSlower", "astrofile", "https://raw.githubuser
 
                         
     addscriptexist(185655149, "Roblox | Library 28 pieces", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Roblox | Library 28 pieces.lua")
+
+                        
+    addscriptexist(9133513813, "Hunted Hood | AutoPickUp", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Hunted Hood | AutoPickUp.lua")
