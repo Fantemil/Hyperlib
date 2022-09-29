@@ -11878,3 +11878,6 @@ addscriptuniversal("UniversalFEChatSlower", "astrofile", "https://raw.githubuser
 
                         
     addscriptexist(10484095306, "CLIMB 100.000 STAIRS TO VIP! | Teleport To Mystery House", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CLIMB 100.000 STAIRS TO VIP! | Teleport To Mystery House.lua")
+
+                        
+    addscriptexist(10531659515, "Shovel Battles | AutoFarm, Auto Kill All, Break All Players", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Shovel Battles | AutoFarm, Auto Kill All, Break All Players.lua")
