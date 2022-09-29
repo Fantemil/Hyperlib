@@ -11851,3 +11851,6 @@ addscriptuniversal("UniversalFEChatSlower", "astrofile", "https://raw.githubuser
 
                         
     addscriptexist(2512643572, "Bubble Gum Simulator | Redeem All Codes", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Bubble Gum Simulator | Redeem All Codes.lua")
+
+                        
+    addscriptexist(10903978962, "Sheep Tycoon | Auto Farm, Auto Sell", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sheep Tycoon | Auto Farm, Auto Sell.lua")
