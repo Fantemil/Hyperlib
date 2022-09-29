@@ -11584,3 +11584,6 @@ addscriptuniversal("UniversalFEChatSlower", "astrofile", "https://raw.githubuser
 
                         
     addscriptexist(8232438881, "Thief Simulator: Auto Rob", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Thief Simulator: Auto Rob.lua")
+
+                        
+    addscriptexist(1224212277, "Mad City Chapter 2: Kill All", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mad City Chapter 2: Kill All.lua")
