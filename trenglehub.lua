@@ -11872,3 +11872,6 @@ addscriptuniversal("UniversalFEChatSlower", "astrofile", "https://raw.githubuser
 
                         
     addscriptexist(5610197459, "gang up on people simulator", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/gang up on people simulator.lua")
+                            
+    addscriptuniversal("Universal FPS Booster", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal FPS Booster.lua")
+        
