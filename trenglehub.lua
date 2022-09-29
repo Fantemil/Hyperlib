@@ -11860,3 +11860,6 @@ addscriptuniversal("UniversalFEChatSlower", "astrofile", "https://raw.githubuser
 
                         
     addscriptexist(9919640604, "Gem Mining Incremental | Infinite Gems", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Gem Mining Incremental | Infinite Gems.lua")
+
+                        
+    addscriptexist(9304358188, "Find The Memes | Get All Memes", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Find The Memes | Get All Memes.lua")
