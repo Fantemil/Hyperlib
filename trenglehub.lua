@@ -11665,3 +11665,6 @@ addscriptuniversal("UniversalFEChatSlower", "astrofile", "https://raw.githubuser
 
                         
     addscriptexist(6284583030, "Pet Simulator X: Auto Farm Area, Teleports & More", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pet Simulator X: Auto Farm Area, Teleports & More.lua")
+
+                        
+    addscriptexist(2512643572, "Bubble Gum Simulator: Code Redeemer", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Bubble Gum Simulator: Code Redeemer.lua")
