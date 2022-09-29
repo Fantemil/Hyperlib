@@ -11845,3 +11845,6 @@ addscriptuniversal("UniversalFEChatSlower", "astrofile", "https://raw.githubuser
 
                         
     addscriptexist(662417684, "LUCKY BLOCKS Battlegrounds | Walkspeed, JumpPower, GiveAnyBlock", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LUCKY BLOCKS Battlegrounds | Walkspeed, JumpPower, GiveAnyBlock.lua")
+
+                        
+    addscriptexist(488667523, "Those Who Remain | Items Esp", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Those Who Remain | Items Esp.lua")
