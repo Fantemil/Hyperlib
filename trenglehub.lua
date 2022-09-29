@@ -11503,3 +11503,6 @@ addscriptuniversal("UniversalFEChatSlower", "astrofile", "https://raw.githubuser
 
                         
     addscriptexist(5956785391, "Project Slayers: Unparty All", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Project Slayers: Unparty All.lua")
+
+                        
+    addscriptexist(155615604, "Prison Life: Kill All Players", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Prison Life: Kill All Players.lua")
