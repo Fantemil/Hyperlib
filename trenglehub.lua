@@ -11884,3 +11884,6 @@ addscriptuniversal("UniversalFEChatSlower", "astrofile", "https://raw.githubuser
 
                         
     addscriptexist(662417684, "Lucky Block Battlegrounds | Block Giver", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Lucky Block Battlegrounds | Block Giver.lua")
+
+                        
+    addscriptexist(142823291, "Murder Mystery 2 | Fly", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Murder Mystery 2 | Fly.lua")
