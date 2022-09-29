@@ -11893,3 +11893,6 @@ addscriptuniversal("UniversalFEChatSlower", "astrofile", "https://raw.githubuser
 
                         
     addscriptexist(9524757503, "iHeartLand: Music Tycoon | Instantly complete", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/iHeartLand: Music Tycoon | Instantly complete.lua")
+
+                        
+    addscriptexist(185655149, "Roblox | Library 28 pieces", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Roblox | Library 28 pieces.lua")
