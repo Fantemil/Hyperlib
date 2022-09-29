@@ -11713,3 +11713,6 @@ addscriptuniversal("UniversalFEChatSlower", "astrofile", "https://raw.githubuser
 
                         
     addscriptexist(648362523, "Breaking Point: Auto Farm Infinity Coins", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Breaking Point: Auto Farm Infinity Coins.lua")
+                            
+    addscriptuniversal("Universal Trash Talk", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal Trash Talk.lua")
+        
