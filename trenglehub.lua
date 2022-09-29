@@ -11812,3 +11812,6 @@ addscriptuniversal("UniversalFEChatSlower", "astrofile", "https://raw.githubuser
 
                         
     addscriptexist(2753915549, "Blox Fruits: Auto Farm, Teleports, Auto Stats", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blox Fruits: Auto Farm, Teleports, Auto Stats.lua")
+
+                        
+    addscriptexist(2788229376, "Da Hood: Silent Aim", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Da Hood: Silent Aim.lua")
