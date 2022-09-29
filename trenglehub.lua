@@ -11761,3 +11761,6 @@ addscriptuniversal("UniversalFEChatSlower", "astrofile", "https://raw.githubuser
 
                         
     addscriptexist(4282985734, "Combat Warriors: Anti Parry, Auto Parry", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Combat Warriors: Anti Parry, Auto Parry.lua")
+
+                        
+    addscriptexist(7026828578, "Speed Simulator: Inf Rebirths, Speed Farm, Farm Rebirths", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Speed Simulator: Inf Rebirths, Speed Farm, Farm Rebirths.lua")
