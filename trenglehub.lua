@@ -11737,3 +11737,6 @@ addscriptuniversal("UniversalFEChatSlower", "astrofile", "https://raw.githubuser
 
                         
     addscriptexist(2753915549, "Blox Fruits: Auto Set Spawn Points, Teleports & More", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blox Fruits: Auto Set Spawn Points, Teleports & More.lua")
+
+                        
+    addscriptexist(5993942214, "RushPointEspPlayersDistance", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RushPointEspPlayersDistance.lua")
