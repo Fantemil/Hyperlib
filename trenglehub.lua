@@ -11593,3 +11593,6 @@ addscriptuniversal("UniversalFEChatSlower", "astrofile", "https://raw.githubuser
         
     addscript(4325400580,"Army Tycoon", "ArmyTycoonGiveeveryoneallbuildingsQTonukeLagServer", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ArmyTycoonGiveeveryoneallbuildingsQTonukeLagServer.lua")
                         
+
+                        
+    addscriptexist(7026828578, "Speed Simulator: Infinity Cash", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Speed Simulator: Infinity Cash.lua")
