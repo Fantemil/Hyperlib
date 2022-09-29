@@ -11857,3 +11857,6 @@ addscriptuniversal("UniversalFEChatSlower", "astrofile", "https://raw.githubuser
 
                         
     addscriptexist(4639625707, "Oil Warfare Tycoon | Gun Mod", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Oil Warfare Tycoon | Gun Mod.lua")
+
+                        
+    addscriptexist(9919640604, "Gem Mining Incremental | Infinite Gems", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Gem Mining Incremental | Infinite Gems.lua")
