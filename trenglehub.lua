@@ -11800,3 +11800,6 @@ addscriptuniversal("UniversalFEChatSlower", "astrofile", "https://raw.githubuser
 
                         
     addscriptexist(5108997584, "Reason 2 Die: Teleports, Buy any item, Fly", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Reason 2 Die: Teleports, Buy any item, Fly.lua")
+
+                        
+    addscriptexist(3177438863, "Dragon Blox: Auto Quest, Auto Farm, AutoRebirth", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Dragon Blox: Auto Quest, Auto Farm, AutoRebirth.lua")
