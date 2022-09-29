@@ -11788,3 +11788,6 @@ addscriptuniversal("UniversalFEChatSlower", "astrofile", "https://raw.githubuser
 
                         
     addscriptexist(7991339063, "Rainbow Friends: Return Items, Fullbright, Player Modifications", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Rainbow Friends: Return Items, Fullbright, Player Modifications.lua")
+
+                        
+    addscriptexist(9662949425, "Punch a brick wall simulator: AutoSell, AutoFarm, Auto Buy Rebriths", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Punch a brick wall simulator: AutoSell, AutoFarm, Auto Buy Rebriths.lua")
