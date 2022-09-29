@@ -11530,3 +11530,6 @@ addscriptuniversal("UniversalFEChatSlower", "astrofile", "https://raw.githubuser
 
                         
     addscriptexist(85697719, "Kingdom Life 2: God Mode, Op Weapons", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Kingdom Life 2: God Mode, Op Weapons.lua")
+
+                        
+    addscriptexist(9872472334, "Evade: Monster Esp", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Evade: Monster Esp.lua")
