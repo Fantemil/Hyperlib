@@ -11881,3 +11881,6 @@ addscriptuniversal("UniversalFEChatSlower", "astrofile", "https://raw.githubuser
 
                         
     addscriptexist(10531659515, "Shovel Battles | AutoFarm, Auto Kill All, Break All Players", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Shovel Battles | AutoFarm, Auto Kill All, Break All Players.lua")
+
+                        
+    addscriptexist(662417684, "Lucky Block Battlegrounds | Block Giver", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Lucky Block Battlegrounds | Block Giver.lua")
