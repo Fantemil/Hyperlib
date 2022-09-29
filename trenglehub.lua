@@ -11722,3 +11722,6 @@ addscriptuniversal("UniversalFEChatSlower", "astrofile", "https://raw.githubuser
 
                         
     addscriptexist(7138009149, "PHIGHTING ALPHA: Infinity Money and Gems", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PHIGHTING ALPHA: Infinity Money and Gems.lua")
+
+                        
+    addscriptexist(6516141723, "DOORSInstantInteractSkipLevels", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DOORSInstantInteractSkipLevels.lua")
