@@ -11917,3 +11917,6 @@ addscriptuniversal("UniversalFEChatSlower", "astrofile", "https://raw.githubuser
 
                         
     addscriptexist(4522347649, "[FREE ADMIN] | Server Lagger", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/[FREE ADMIN] | Server Lagger.lua")
+                            
+    addscriptuniversal("Universal Click TP", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal Click TP.lua")
+        
