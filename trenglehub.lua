@@ -11758,3 +11758,6 @@ addscriptuniversal("UniversalFEChatSlower", "astrofile", "https://raw.githubuser
 
                         
     addscriptexist(10710676163, "SPTSOriginAutoFarmAutoRespawnTpMore", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SPTSOriginAutoFarmAutoRespawnTpMore.lua")
+
+                        
+    addscriptexist(4282985734, "Combat Warriors: Anti Parry, Auto Parry", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Combat Warriors: Anti Parry, Auto Parry.lua")
