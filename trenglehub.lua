@@ -11731,3 +11731,6 @@ addscriptuniversal("UniversalFEChatSlower", "astrofile", "https://raw.githubuser
         
     addscript(3483762032,"Oblivion Alpha", "OblivionAlpha3GamesSupport", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OblivionAlpha3GamesSupport.lua")
                         
+        
+    addscript(4983006874,"NGU CLICKER SIMULATOR Gui", "NGU CLICKER SIMULATOR Gui: Auto Click, Auto Upgrade, Auto Pet Evolve", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NGU CLICKER SIMULATOR Gui: Auto Click, Auto Upgrade, Auto Pet Evolve.lua")
+                        
