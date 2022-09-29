@@ -11839,3 +11839,6 @@ addscriptuniversal("UniversalFEChatSlower", "astrofile", "https://raw.githubuser
 
                         
     addscriptexist(621129760, "Knife Ability Test | Free Radio", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Knife Ability Test | Free Radio.lua")
+
+                        
+    addscriptexist(10320240572, "Easy Race Clicker | AutoWin Farm, Auto Click, Auto Rebirth", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Easy Race Clicker | AutoWin Farm, Auto Click, Auto Rebirth.lua")
