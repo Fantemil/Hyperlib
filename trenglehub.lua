@@ -11599,3 +11599,6 @@ addscriptuniversal("UniversalFEChatSlower", "astrofile", "https://raw.githubuser
 
                         
     addscriptexist(4753520418, "The Hood: Aim Lock", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/The Hood: Aim Lock.lua")
+
+                        
+    addscriptexist(8916037983, "starving artists: Copy art", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/starving artists: Copy art.lua")
