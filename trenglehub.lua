@@ -11902,3 +11902,6 @@ addscriptuniversal("UniversalFEChatSlower", "astrofile", "https://raw.githubuser
 
                         
     addscriptexist(8750997647, "Tapping Legends X | AutoRebirth, AutoTap, AutoEggs", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tapping Legends X | AutoRebirth, AutoTap, AutoEggs.lua")
+
+                        
+    addscriptexist(10148047155, "Car Mechanic Tycoon | Money AutoFarm", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Car Mechanic Tycoon | Money AutoFarm.lua")
