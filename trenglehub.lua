@@ -11575,3 +11575,6 @@ addscriptuniversal("UniversalFEChatSlower", "astrofile", "https://raw.githubuser
                             
     addscriptuniversal("Universal Fly, Walkspeed", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal Fly, Walkspeed.lua")
         
+
+                        
+    addscriptexist(2039118386, "Neighborhood war: Silent Aim", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Neighborhood war: Silent Aim.lua")
