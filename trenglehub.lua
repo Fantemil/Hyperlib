@@ -11914,3 +11914,6 @@ addscriptuniversal("UniversalFEChatSlower", "astrofile", "https://raw.githubuser
 
                         
     addscriptexist(1344307396, "Destroy the Noob | Give All Items", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Destroy the Noob | Give All Items.lua")
+
+                        
+    addscriptexist(4522347649, "[FREE ADMIN] | Server Lagger", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/[FREE ADMIN] | Server Lagger.lua")
