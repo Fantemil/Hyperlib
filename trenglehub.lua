@@ -11935,3 +11935,6 @@ addscriptuniversal("UniversalFEChatSlower", "astrofile", "https://raw.githubuser
 
                         
     addscriptexist(7177496972, "Anime Warriors: Auto Farm, Auto Skills, Auto Replay", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime Warriors: Auto Farm, Auto Skills, Auto Replay.lua")
+                            
+    addscriptuniversal("Universal Admin Commands", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal Admin Commands.lua")
+        
