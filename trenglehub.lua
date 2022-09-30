@@ -11941,3 +11941,6 @@ addscriptuniversal("UniversalFEChatSlower", "astrofile", "https://raw.githubuser
                             
     addscriptuniversal("Universal GUI: Very smooth animations", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal GUI: Very smooth animations.lua")
         
+
+                        
+    addscriptexist(10895555747, "Walmart Land: Infinite Tokens Methond 1", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Walmart Land: Infinite Tokens Methond 1.lua")
