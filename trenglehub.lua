@@ -12001,3 +12001,6 @@ addscriptuniversal("UniversalFEChatSlower", "astrofile", "https://raw.githubuser
 
                         
     addscriptexist(10710676163, "SPTSOriginAutoRespawnAutoFarmTeleports", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SPTSOriginAutoRespawnAutoFarmTeleports.lua")
+        
+    addscript(9787091365,"Ninja Storm Simulator", "Ninja Storm Simulator: Auto Attack, Walkspeed, Auto Farm", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ninja Storm Simulator: Auto Attack, Walkspeed, Auto Farm.lua")
+                        
