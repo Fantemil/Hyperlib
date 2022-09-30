@@ -11998,3 +11998,6 @@ addscriptuniversal("UniversalFEChatSlower", "astrofile", "https://raw.githubuser
 
                         
     addscriptexist(9103460924, "SwordFactoryXAutoDungeon", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SwordFactoryXAutoDungeon.lua")
+
+                        
+    addscriptexist(10710676163, "SPTSOriginAutoRespawnAutoFarmTeleports", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SPTSOriginAutoRespawnAutoFarmTeleports.lua")
