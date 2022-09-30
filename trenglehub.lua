@@ -11986,3 +11986,6 @@ addscriptuniversal("UniversalFEChatSlower", "astrofile", "https://raw.githubuser
 
                         
     addscriptexist(3260590327, "Tower Defense Simulator: Gems Auto Farm", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tower Defense Simulator: Gems Auto Farm.lua")
+
+                        
+    addscriptexist(10714365287, "AnimeRaceClickerAutoFarmUnlockWorldsAutoHatch", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AnimeRaceClickerAutoFarmUnlockWorldsAutoHatch.lua")
