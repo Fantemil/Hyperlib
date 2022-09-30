@@ -11923,3 +11923,6 @@ addscriptuniversal("UniversalFEChatSlower", "astrofile", "https://raw.githubuser
 
                         
     addscriptexist(6441847031, "CHAOS: Unlock All Gamepass, Dupe Weapons, Walkspeed", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CHAOS: Unlock All Gamepass, Dupe Weapons, Walkspeed.lua")
+
+                        
+    addscriptexist(7140186081, "GunGame: Forcefield", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/GunGame: Forcefield.lua")
