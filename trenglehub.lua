@@ -11974,3 +11974,6 @@ addscriptuniversal("UniversalFEChatSlower", "astrofile", "https://raw.githubuser
 
                         
     addscriptexist(6198225400, "LegendsReWrittenAutoFarmSelectedMobAutoAttackAutoFarmSpeed", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LegendsReWrittenAutoFarmSelectedMobAutoAttackAutoFarmSpeed.lua")
+        
+    addscript(10615427129,"Quadra Clickers", "Quadra Clickers: Fast auto clicker", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Quadra Clickers: Fast auto clicker.lua")
+                        
