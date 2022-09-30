@@ -11950,3 +11950,6 @@ addscriptuniversal("UniversalFEChatSlower", "astrofile", "https://raw.githubuser
         
     addscript(10904953319,"Race Car Clickers", "RaceCarClickersAutoHatchAutoFarmAutoClick", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RaceCarClickersAutoHatchAutoFarmAutoClick.lua")
                         
+                            
+    addscriptuniversal("Universal Display Name Remover", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal Display Name Remover.lua")
+        
