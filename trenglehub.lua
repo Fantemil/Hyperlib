@@ -11980,3 +11980,6 @@ addscriptuniversal("UniversalFEChatSlower", "astrofile", "https://raw.githubuser
         
     addscript(9141579304,"Strength Simulator 2", "Strength Simulator 2: Auto Strenght", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Strength Simulator 2: Auto Strenght.lua")
                         
+
+                        
+    addscriptexist(10615427129, "Quadra Clickers: Give Majestical Arc Pet", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Quadra Clickers: Give Majestical Arc Pet.lua")
