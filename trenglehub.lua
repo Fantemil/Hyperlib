@@ -11959,3 +11959,6 @@ addscriptuniversal("UniversalFEChatSlower", "astrofile", "https://raw.githubuser
         
     addscript(4240267866,"WWE 2K22 Roblox Wrestling", "WWE 2K22 Roblox Wrestling: AntiCheat Bypass", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/WWE 2K22 Roblox Wrestling: AntiCheat Bypass.lua")
                         
+
+                        
+    addscriptexist(10631181587, "Stone Miner Simulator 2: Infinity Battle Pass", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Stone Miner Simulator 2: Infinity Battle Pass.lua")
