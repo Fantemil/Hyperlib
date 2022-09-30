@@ -11920,3 +11920,6 @@ addscriptuniversal("UniversalFEChatSlower", "astrofile", "https://raw.githubuser
                             
     addscriptuniversal("Universal Click TP", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal Click TP.lua")
         
+
+                        
+    addscriptexist(6441847031, "CHAOS: Unlock All Gamepass, Dupe Weapons, Walkspeed", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CHAOS: Unlock All Gamepass, Dupe Weapons, Walkspeed.lua")
