@@ -12010,3 +12010,6 @@ addscriptuniversal("UniversalFEChatSlower", "astrofile", "https://raw.githubuser
 
                         
     addscriptexist(10615427129, "Quadra Clickers: Free Light Spear Pet", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Quadra Clickers: Free Light Spear Pet.lua")
+
+                        
+    addscriptexist(9993529229, "Counter Blox Remastered: Inf Open Cases", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Counter Blox Remastered: Inf Open Cases.lua")
