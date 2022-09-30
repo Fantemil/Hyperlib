@@ -11983,3 +11983,6 @@ addscriptuniversal("UniversalFEChatSlower", "astrofile", "https://raw.githubuser
 
                         
     addscriptexist(10615427129, "Quadra Clickers: Give Majestical Arc Pet", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Quadra Clickers: Give Majestical Arc Pet.lua")
+
+                        
+    addscriptexist(3260590327, "Tower Defense Simulator: Gems Auto Farm", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tower Defense Simulator: Gems Auto Farm.lua")
