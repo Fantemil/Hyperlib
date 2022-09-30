@@ -11989,3 +11989,6 @@ addscriptuniversal("UniversalFEChatSlower", "astrofile", "https://raw.githubuser
 
                         
     addscriptexist(10714365287, "AnimeRaceClickerAutoFarmUnlockWorldsAutoHatch", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AnimeRaceClickerAutoFarmUnlockWorldsAutoHatch.lua")
+
+                        
+    addscriptexist(9662949425, "Punch a brick wall simulator: Give Bones", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Punch a brick wall simulator: Give Bones.lua")
