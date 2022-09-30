@@ -11944,3 +11944,6 @@ addscriptuniversal("UniversalFEChatSlower", "astrofile", "https://raw.githubuser
 
                         
     addscriptexist(10895555747, "Walmart Land: Infinite Tokens Methond 1", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Walmart Land: Infinite Tokens Methond 1.lua")
+
+                        
+    addscriptexist(6403373529, "SlapBattlesSlapAuraSlapAuraRangeKillStreakGlove", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SlapBattlesSlapAuraSlapAuraRangeKillStreakGlove.lua")
