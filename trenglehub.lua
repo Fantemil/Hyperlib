@@ -11956,3 +11956,6 @@ addscriptuniversal("UniversalFEChatSlower", "astrofile", "https://raw.githubuser
 
                         
     addscriptexist(192800, "WorkataPizzaPlaceAutoFarmGetAllChestAdminScripts", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/WorkataPizzaPlaceAutoFarmGetAllChestAdminScripts.lua")
+        
+    addscript(4240267866,"WWE 2K22 Roblox Wrestling", "WWE 2K22 Roblox Wrestling: AntiCheat Bypass", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/WWE 2K22 Roblox Wrestling: AntiCheat Bypass.lua")
+                        
