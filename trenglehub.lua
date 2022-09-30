@@ -11995,3 +11995,6 @@ addscriptuniversal("UniversalFEChatSlower", "astrofile", "https://raw.githubuser
 
                         
     addscriptexist(8500690972, "NO STOP Obby: Skip All Stages", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NO STOP Obby: Skip All Stages.lua")
+
+                        
+    addscriptexist(9103460924, "SwordFactoryXAutoDungeon", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SwordFactoryXAutoDungeon.lua")
