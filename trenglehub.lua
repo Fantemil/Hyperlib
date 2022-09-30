@@ -11938,3 +11938,6 @@ addscriptuniversal("UniversalFEChatSlower", "astrofile", "https://raw.githubuser
                             
     addscriptuniversal("Universal Admin Commands", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal Admin Commands.lua")
         
+                            
+    addscriptuniversal("Universal GUI: Very smooth animations", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal GUI: Very smooth animations.lua")
+        
