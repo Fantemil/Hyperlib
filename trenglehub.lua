@@ -11971,3 +11971,6 @@ addscriptuniversal("UniversalFEChatSlower", "astrofile", "https://raw.githubuser
 
                         
     addscriptexist(4282985734, "CombatWarriorsAntiAfkInfinityJumpInfinityStamina", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CombatWarriorsAntiAfkInfinityJumpInfinityStamina.lua")
+
+                        
+    addscriptexist(6198225400, "LegendsReWrittenAutoFarmSelectedMobAutoAttackAutoFarmSpeed", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LegendsReWrittenAutoFarmSelectedMobAutoAttackAutoFarmSpeed.lua")
