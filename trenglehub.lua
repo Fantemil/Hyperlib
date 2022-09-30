@@ -11992,3 +11992,6 @@ addscriptuniversal("UniversalFEChatSlower", "astrofile", "https://raw.githubuser
 
                         
     addscriptexist(9662949425, "Punch a brick wall simulator: Give Bones", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Punch a brick wall simulator: Give Bones.lua")
+
+                        
+    addscriptexist(8500690972, "NO STOP Obby: Skip All Stages", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NO STOP Obby: Skip All Stages.lua")
