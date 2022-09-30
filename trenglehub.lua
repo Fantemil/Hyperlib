@@ -11962,3 +11962,6 @@ addscriptuniversal("UniversalFEChatSlower", "astrofile", "https://raw.githubuser
 
                         
     addscriptexist(10631181587, "Stone Miner Simulator 2: Infinity Battle Pass", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Stone Miner Simulator 2: Infinity Battle Pass.lua")
+        
+    addscript(3823850583,"Street Simulator", "StreetSimulatorAutoFarm", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/StreetSimulatorAutoFarm.lua")
+                        
