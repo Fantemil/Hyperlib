@@ -11953,3 +11953,6 @@ addscriptuniversal("UniversalFEChatSlower", "astrofile", "https://raw.githubuser
                             
     addscriptuniversal("Universal Display Name Remover", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal Display Name Remover.lua")
         
+
+                        
+    addscriptexist(192800, "WorkataPizzaPlaceAutoFarmGetAllChestAdminScripts", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/WorkataPizzaPlaceAutoFarmGetAllChestAdminScripts.lua")
