@@ -11947,3 +11947,6 @@ addscriptuniversal("UniversalFEChatSlower", "astrofile", "https://raw.githubuser
 
                         
     addscriptexist(6403373529, "SlapBattlesSlapAuraSlapAuraRangeKillStreakGlove", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SlapBattlesSlapAuraSlapAuraRangeKillStreakGlove.lua")
+        
+    addscript(10904953319,"Race Car Clickers", "RaceCarClickersAutoHatchAutoFarmAutoClick", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RaceCarClickersAutoHatchAutoFarmAutoClick.lua")
+                        
