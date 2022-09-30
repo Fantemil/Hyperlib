@@ -12013,3 +12013,6 @@ addscriptuniversal("UniversalFEChatSlower", "astrofile", "https://raw.githubuser
 
                         
     addscriptexist(9993529229, "Counter Blox Remastered: Inf Open Cases", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Counter Blox Remastered: Inf Open Cases.lua")
+
+                        
+    addscriptexist(9993529229, "Counter Blox Remastered: Inf Open Any Case", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Counter Blox Remastered: Inf Open Any Case.lua")
