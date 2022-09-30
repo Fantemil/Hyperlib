@@ -12007,3 +12007,6 @@ addscriptuniversal("UniversalFEChatSlower", "astrofile", "https://raw.githubuser
 
                         
     addscriptexist(10439295403, "Anime Champions: Auto Quest, Teleports & More", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime Champions: Auto Quest, Teleports & More.lua")
+
+                        
+    addscriptexist(10615427129, "Quadra Clickers: Free Light Spear Pet", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Quadra Clickers: Free Light Spear Pet.lua")
