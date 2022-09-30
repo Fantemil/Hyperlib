@@ -11965,3 +11965,6 @@ addscriptuniversal("UniversalFEChatSlower", "astrofile", "https://raw.githubuser
         
     addscript(3823850583,"Street Simulator", "StreetSimulatorAutoFarm", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/StreetSimulatorAutoFarm.lua")
                         
+                            
+    addscriptuniversal("AUniversalTimeAutoFarmNPCsAutoFarmChestAutoFarmShards", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AUniversalTimeAutoFarmNPCsAutoFarmChestAutoFarmShards.lua")
+        
