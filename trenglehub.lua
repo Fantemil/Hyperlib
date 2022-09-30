@@ -11926,3 +11926,6 @@ addscriptuniversal("UniversalFEChatSlower", "astrofile", "https://raw.githubuser
 
                         
     addscriptexist(7140186081, "GunGame: Forcefield", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/GunGame: Forcefield.lua")
+        
+    addscript(10085978574,"My Little Pony", "My Little Pony: Visit Maretime Bay: Get Mascot Shoulder instantly", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/My Little Pony: Visit Maretime Bay: Get Mascot Shoulder instantly.lua")
+                        
