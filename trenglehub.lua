@@ -11932,3 +11932,6 @@ addscriptuniversal("UniversalFEChatSlower", "astrofile", "https://raw.githubuser
 
                         
     addscriptexist(10895555747, "WalmartLandGettokensFlingPeopleRejoin", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/WalmartLandGettokensFlingPeopleRejoin.lua")
+
+                        
+    addscriptexist(7177496972, "Anime Warriors: Auto Farm, Auto Skills, Auto Replay", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime Warriors: Auto Farm, Auto Skills, Auto Replay.lua")
