@@ -12055,3 +12055,6 @@ addscriptuniversal("UniversalFEChatSlower", "astrofile", "https://raw.githubuser
 
                         
     addscriptexist(9980179145, "SpeedRaceClickerAutoFarmAutoRebirthAutoEggs", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SpeedRaceClickerAutoFarmAutoRebirthAutoEggs.lua")
+
+                        
+    addscriptexist(9898710720, "Money Tycoon: Auto Buy, Auto Collect, Walkspeed", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Money Tycoon: Auto Buy, Auto Collect, Walkspeed.lua")
