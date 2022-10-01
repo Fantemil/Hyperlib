@@ -12049,3 +12049,6 @@ addscriptuniversal("UniversalFEChatSlower", "astrofile", "https://raw.githubuser
 
                         
     addscriptexist(9872472334, "Evade: Fullbright, Crash Server, Walkspeed", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Evade: Fullbright, Crash Server, Walkspeed.lua")
+
+                        
+    addscriptexist(537413528, "Build A Boat For Treasure: Walkspeed, Auto Farm, Auto Chest", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Build A Boat For Treasure: Walkspeed, Auto Farm, Auto Chest.lua")
