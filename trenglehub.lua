@@ -12046,3 +12046,6 @@ addscriptuniversal("UniversalFEChatSlower", "astrofile", "https://raw.githubuser
 
                         
     addscriptexist(10085978574, "My Little Pony: Visit Maretime Bay | Auto Farm Gems", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/My Little Pony: Visit Maretime Bay | Auto Farm Gems.lua")
+
+                        
+    addscriptexist(9872472334, "Evade: Fullbright, Crash Server, Walkspeed", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Evade: Fullbright, Crash Server, Walkspeed.lua")
