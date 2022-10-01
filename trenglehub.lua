@@ -12064,3 +12064,6 @@ addscriptuniversal("UniversalFEChatSlower", "astrofile", "https://raw.githubuser
 
                         
     addscriptexist(6284583030, "PetSimulatorXAutoFarmAutoCollectAutoEgg", "Qalnik", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PetSimulatorXAutoFarmAutoCollectAutoEgg.lua")
+
+                        
+    addscriptexist(9872472334, "EvadeAutoRespawnTeleportsESP", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/EvadeAutoRespawnTeleportsESP.lua")
