@@ -12040,3 +12040,6 @@ addscriptuniversal("UniversalFEChatSlower", "astrofile", "https://raw.githubuser
 
                         
     addscriptexist(4872321990, "Islands: buy pineapple seeds", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Islands: buy pineapple seeds.lua")
+        
+    addscript(5226151131,"Undertale", "Undertale: Multiverse Chaos | Auto Farm", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Undertale: Multiverse Chaos | Auto Farm.lua")
+                        
