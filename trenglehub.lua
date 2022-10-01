@@ -12076,3 +12076,6 @@ addscriptuniversal("UniversalFEChatSlower", "astrofile", "https://raw.githubuser
         
     addscript(6536647319,"Slayers Unleashed", "Slayers Unleashed: Unlock All, Executor", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Slayers Unleashed: Unlock All, Executor.lua")
                         
+        
+    addscript(9649680488,"Backrooms Race Clicker", "Backrooms Race Clicker: Auto Farm Wins", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Backrooms Race Clicker: Auto Farm Wins.lua")
+                        
