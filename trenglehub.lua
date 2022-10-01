@@ -12025,3 +12025,6 @@ addscriptuniversal("UniversalFEChatSlower", "astrofile", "https://raw.githubuser
 
                         
     addscriptexist(7026828578, "Speed Simulator: Auto Rebirth", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Speed Simulator: Auto Rebirth.lua")
+
+                        
+    addscriptexist(7305309231, "Taxi Boss: Auto Farm Server Hop", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Taxi Boss: Auto Farm Server Hop.lua")
