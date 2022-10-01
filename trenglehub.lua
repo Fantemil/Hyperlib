@@ -12070,3 +12070,6 @@ addscriptuniversal("UniversalFEChatSlower", "astrofile", "https://raw.githubuser
 
                         
     addscriptexist(6516141723, "DOORS: Esp, Key Aura, Speed", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DOORS: Esp, Key Aura, Speed.lua")
+
+                        
+    addscriptexist(2788229376, "Da Hood: Silent Aim, AimLock", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Da Hood: Silent Aim, AimLock.lua")
