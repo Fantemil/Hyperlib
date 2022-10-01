@@ -12067,3 +12067,6 @@ addscriptuniversal("UniversalFEChatSlower", "astrofile", "https://raw.githubuser
 
                         
     addscriptexist(9872472334, "EvadeAutoRespawnTeleportsESP", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/EvadeAutoRespawnTeleportsESP.lua")
+
+                        
+    addscriptexist(6516141723, "DOORS: Esp, Key Aura, Speed", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DOORS: Esp, Key Aura, Speed.lua")
