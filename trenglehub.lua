@@ -12019,3 +12019,6 @@ addscriptuniversal("UniversalFEChatSlower", "astrofile", "https://raw.githubuser
 
                         
     addscriptexist(9845465117, "AU:Reborn: Walkspeed, Farm Player, Noclip", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AU:Reborn: Walkspeed, Farm Player, Noclip.lua")
+
+                        
+    addscriptexist(537413528, "Arsenal: Silent Aim, Auto Farm", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Arsenal: Silent Aim, Auto Farm.lua")
