@@ -12028,3 +12028,6 @@ addscriptuniversal("UniversalFEChatSlower", "astrofile", "https://raw.githubuser
 
                         
     addscriptexist(7305309231, "Taxi Boss: Auto Farm Server Hop", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Taxi Boss: Auto Farm Server Hop.lua")
+
+                        
+    addscriptexist(7952502098, "Impossible Glass Bridge Obby: Reveal Glass", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Impossible Glass Bridge Obby: Reveal Glass.lua")
