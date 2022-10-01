@@ -12037,3 +12037,6 @@ addscriptuniversal("UniversalFEChatSlower", "astrofile", "https://raw.githubuser
                             
     addscriptuniversal("Universal Better FPS", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal Better FPS.lua")
         
+
+                        
+    addscriptexist(4872321990, "Islands: buy pineapple seeds", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Islands: buy pineapple seeds.lua")
