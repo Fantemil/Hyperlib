@@ -12022,3 +12022,6 @@ addscriptuniversal("UniversalFEChatSlower", "astrofile", "https://raw.githubuser
 
                         
     addscriptexist(537413528, "Arsenal: Silent Aim, Auto Farm", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Arsenal: Silent Aim, Auto Farm.lua")
+
+                        
+    addscriptexist(7026828578, "Speed Simulator: Auto Rebirth", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Speed Simulator: Auto Rebirth.lua")
