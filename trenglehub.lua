@@ -12043,3 +12043,6 @@ addscriptuniversal("UniversalFEChatSlower", "astrofile", "https://raw.githubuser
         
     addscript(5226151131,"Undertale", "Undertale: Multiverse Chaos | Auto Farm", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Undertale: Multiverse Chaos | Auto Farm.lua")
                         
+
+                        
+    addscriptexist(10085978574, "My Little Pony: Visit Maretime Bay | Auto Farm Gems", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/My Little Pony: Visit Maretime Bay | Auto Farm Gems.lua")
