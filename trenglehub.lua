@@ -12052,3 +12052,6 @@ addscriptuniversal("UniversalFEChatSlower", "astrofile", "https://raw.githubuser
 
                         
     addscriptexist(537413528, "Build A Boat For Treasure: Walkspeed, Auto Farm, Auto Chest", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Build A Boat For Treasure: Walkspeed, Auto Farm, Auto Chest.lua")
+
+                        
+    addscriptexist(9980179145, "SpeedRaceClickerAutoFarmAutoRebirthAutoEggs", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SpeedRaceClickerAutoFarmAutoRebirthAutoEggs.lua")
