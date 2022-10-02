@@ -12085,3 +12085,6 @@ addscriptuniversal("UniversalFEChatSlower", "astrofile", "https://raw.githubuser
 
                         
     addscriptexist(2753915549, "Blox Fruits: Auto Farm, Fruit Farm & More", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blox Fruits: Auto Farm, Fruit Farm & More.lua")
+
+                        
+    addscriptexist(10861112990, "Anime Artifacts Simulator 2: Kill Aura For Bosses", "Terni", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime Artifacts Simulator 2: Kill Aura For Bosses.lua")
