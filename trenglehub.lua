@@ -12082,3 +12082,6 @@ addscriptuniversal("UniversalFEChatSlower", "astrofile", "https://raw.githubuser
 
                         
     addscriptexist(6441847031, "CHAOS: Give Tools", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CHAOS: Give Tools.lua")
+
+                        
+    addscriptexist(2753915549, "Blox Fruits: Auto Farm, Fruit Farm & More", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blox Fruits: Auto Farm, Fruit Farm & More.lua")
