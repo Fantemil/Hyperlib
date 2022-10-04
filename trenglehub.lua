@@ -521,7 +521,55 @@ if game.PlaceId == 370731277 then
 end
 
 
-      
+if game.PlaceId  == 7047488135 then
+    local exclusivemain = Window:NewTab("Exclusive")
+    exscript = exclusivemain:NewSection("Autofarms")
+    exscript:NewButton("Auto Collect Orbs", "Auto Collects all Orbs; get speed SUPER FAST", function()
+        
+        local playerHead = game.Players.LocalPlayer.Character.Head
+        while true do
+            for i, v in pairs(game:GetService("Workspace").OrbSpawns:GetDescendants()) do
+                if v.Name == "TouchInterest" and v.Parent  then
+                    firetouchinterest(playerHead, v.Parent, 0)
+                    wait(0.01)
+                    firetouchinterest(playerHead, v.Parent, 1)
+                end
+                
+                
+            end
+        end  
+    end)
+    exscript:NewButton("Auto Collect Rings", "Auto Collects all Rings; Can also get you speed",function()
+        local playerHead = game.Players.LocalPlayer.Character.Head
+        while true do
+            for i, v in pairs(game:GetService("Workspace").OrbSpawns:GetDescendants()) do
+                if v.Name == "TouchInterest" and v.Parent  then
+                    firetouchinterest(playerHead, v.Parent, 0)
+                    wait(0.01)
+                    firetouchinterest(playerHead, v.Parent, 1)
+                end
+                
+                
+            end
+        end  
+    end)
+    exscript:NewButton("Auto Clicker", "Just a simple auto clicker", function()
+        while true do
+            game:GetService("ReplicatedStorage").Remotes.AddSpeed:FireServer()
+            wait(0.01)
+        end
+    end)
+    rebirthex = exclusivemain:NewSection("Rebirth")
+    rebirthex:NewButton("Auto Rebirth", "Automatically rebirths you", function(state)
+        while true do
+            
+            game:GetService("ReplicatedStorage").Remotes.Rebirth:FireServer()
+            wait(0.1)
+            
+        end
+    end)
+end
+
     
 addscript(142823291,"Murder Mystery 2", "MurderMystery2FlyEspNoclip", "astrofile", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MurderMystery2FlyEspNoclip.lua")
                     
