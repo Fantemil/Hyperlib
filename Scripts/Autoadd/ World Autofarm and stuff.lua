@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/WinterDinder/Every-Second-You-Get-1-Speed-Jump-Health/main/Protected%20(9).lua", true))()
