@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/senpaigm/Cat-Hub/main/PetSimulator.lua"))() 
+loadstring(game:HttpGet("https://milkup.info/script/PetSimulatorX/"))()
