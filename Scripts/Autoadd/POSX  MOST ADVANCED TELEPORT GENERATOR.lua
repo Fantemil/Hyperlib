@@ -1,0 +1,1 @@
+loadstring(game:HttpGet(('https://raw.githubusercontent.com/juywvm/-Roblox-Projects-/main/posX/loader.lua'),true))()
