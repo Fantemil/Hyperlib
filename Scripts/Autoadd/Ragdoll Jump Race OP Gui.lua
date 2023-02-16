@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Amenteso/robloxscripts/main/ragdolljump.lua",true))()
