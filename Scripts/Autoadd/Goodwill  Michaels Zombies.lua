@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Plusgaming1/Goodwill-/main/Michael's%20Zombies%20(Goodwill-Lib)", true))()
