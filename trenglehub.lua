@@ -578,3 +578,4 @@ addscript(6741970382,"Zombie-lab-Skins", "new script for this game", "pulled fro
 addscript(1069951594,"", "Fall of Hell - AutoWin, GodMode, FOV Changer", "pulled from rscripts", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Fall%20of%20Hell%20%20AutoWin%20GodMode%20FOV%20Changer.lua")
 addscriptexist(2788229376, "OhioMode V2, The Best Da Hood Script.", "pulled from rscripts", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OhioMode%20V%20The%20Best%20Da%20Hood%20Script.lua")
 addscript(6160139406,"The-Underground-War-3", "The Underground War 3 Flag Steal", "pulled from rscripts", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/The%20Underground%20War%20%20Flag%20Steal.lua")
+addscript(5076734934,"Rooms", "Rooms Script | Working ✅", "pulled from rscripts", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Rooms%20Script%20%20Working%20.lua")
