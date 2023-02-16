@@ -2,7 +2,7 @@
 <img width="230" alt="Hyperlib logo" src="https://user-images.githubusercontent.com/69359704/192140796-0cd0ea44-0b0f-4ec9-9157-502df1f5e043.png">
 
 # Open Source!
-The Selenium Bots are now open sourced but i won't develop them further
+My Version 1 Scripts are open source
 
 
 # Welcome to Hyperlib!
