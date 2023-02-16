@@ -1,1 +1,0 @@
-game.Players.LocalPlayer.PlayerGui.Main.BankFrame.NumberEvent:FireServer(-5000000000000000000000000, "Deposit")

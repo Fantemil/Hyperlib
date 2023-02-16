@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://github.com/sinret/rbxscript.com-scripts-reuploads-/raw/main/chainsaw", true))()

@@ -1,1 +1,0 @@
-game:GetService("ReplicatedStorage").RespawnService:FireServer(9e17)

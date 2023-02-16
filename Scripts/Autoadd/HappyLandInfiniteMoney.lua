@@ -1,1 +1,0 @@
- game:GetService("ReplicatedStorage").Events.BuyEggEvent:FireServer("RandomEgg", -1000000000)

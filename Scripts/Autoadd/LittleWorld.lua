@@ -1,1 +1,0 @@
- loadstring(game:HttpGet("https://raw.githubusercontent.com/DohmBoyOG/Script-Dump/main/LittleWorld_GUI_DohmScripts_Public.lua"))()

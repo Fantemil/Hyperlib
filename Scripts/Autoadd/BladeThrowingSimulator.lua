@@ -1,1 +1,0 @@
- loadstring(game:HttpGet("https://raw.githubusercontent.com/why-png/scriptstuffz/master/bts25", true))()

@@ -1,1 +1,0 @@
-game:GetService("ReplicatedStorage").Remotes.PlayerData:FireServer("Loadout", "Equip", { ["Slot"] = 4, ["Tower"] = "Hot Rash"} )

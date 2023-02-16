@@ -1,2 +1,0 @@
--- Teleport to quest giver (you have to confirm the quest manually, but only once, the autofarm automatically restarts the quest after completion)
-loadstring(game:HttpGet("https://paste.gg/p/anonymous/3c9a4484dd2a4649b769fac954d266e1/files/dc59c1e75acd4ab9827c58acbd058b72/raw", true))()

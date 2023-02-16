@@ -1,1 +1,0 @@
-game:GetService("ReplicatedStorage").RespawnService:FireServer(number) --just change number with whatever amount of money you want (number, not a string):

@@ -1,1 +1,0 @@
- loadstring(game:HttpGet('https://raw.githubusercontent.com/BAG0N/OPM_DF/main/saiyan.lua'))()

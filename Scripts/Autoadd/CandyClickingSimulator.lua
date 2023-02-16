@@ -1,1 +1,0 @@
- loadstring(game:HttpGet("https://raw.githubusercontent.com/Evzc/scripts/main/Candy_Clicking_Simulator.lua", true))()

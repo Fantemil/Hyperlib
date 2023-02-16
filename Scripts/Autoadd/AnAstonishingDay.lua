@@ -1,1 +1,0 @@
---[[ Scripts by: asdturner Material UI by: Twink Marie   Themes: Dark Light Mocha Aqua Jester ]] getgenv().Theme = "Dark" loadstring(game:HttpGet("https://pastebin.com/raw/1jbW4tNy"))()

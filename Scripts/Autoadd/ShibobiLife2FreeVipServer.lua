@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("http://atlas.6te.net/scripts/SL2PSScraper.txt"))()

@@ -1,1 +1,0 @@
- game:GetService("ReplicatedStorage").SledReplicatedStorage.Events.BuyUnlockEventFunction:InvokeServer("door","Bases",-99999500,2)

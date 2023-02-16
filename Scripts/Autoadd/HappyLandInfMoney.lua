@@ -1,1 +1,0 @@
-game:GetService("ReplicatedStorage").Events.BuyVirtualGoodEvent:FireServer(RedGrindSkateboard, -9000) -- money here

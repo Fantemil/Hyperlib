@@ -1,1 +1,0 @@
-game:GetService("ReplicatedStorage").GameEvents.Robots.SpawnRobot:FireServer("NeonDiamondDragon")

@@ -1,1 +1,0 @@
- loadstring(game:HttpGet(('https://raw.githubusercontent.com/Pojken123/Hub/main/Hub')))()

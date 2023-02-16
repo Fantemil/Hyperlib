@@ -1,1 +1,0 @@
-loadstring(game:GetObjects("rbxassetid://8194485654")[1].Source)("Petsi-X")

@@ -1,1 +1,0 @@
- loadstring(game:HttpGet("https://raw.githubusercontent.com/TSQ-new/Artem/master/Arsenal", true))()

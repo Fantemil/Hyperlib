@@ -1,1 +1,0 @@
---- BIG Paintball Script Found By Mr gunz loadstring(game:HttpGet("https://pastebin.com/raw/BdBcr0zs", true))()

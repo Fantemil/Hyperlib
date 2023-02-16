@@ -1,1 +1,0 @@
-https://www.roblox.com/games/7714627632/NEW-WEAPONS-Winds-of-Fortune#!/game-instances

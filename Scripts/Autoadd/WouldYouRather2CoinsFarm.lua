@@ -1,1 +1,0 @@
-while wait(5) do game:GetService("Lighting").GameModel.Events.CompletedObby:FireServer(game:GetService("Lighting").GameModel.RewardsObby.difficultyEXTREME) end

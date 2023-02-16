@@ -1,1 +1,0 @@
-loadstring(game:HttpGet('https://ghostbin.co/paste/ctpa/raw'))()

@@ -1,1 +1,0 @@
-game:GetService("ReplicatedStorage").Events.DameGuissss:InvokeServer({{"SSJ INFINITY",0,0,0},"Modes"})

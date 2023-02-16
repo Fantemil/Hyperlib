@@ -1,2 +1,0 @@
-s = [[)"dehsiniF"(tnirp;)eguh.htam-(revreSeriF:sreiTyuB.stnevE1202neewollaH.)"egarotSdetacilpeR"(ecivreSteG:emag;)"!nuf evah dna emag eht niojer ,'dehsiniF' ees uoy retfA .snioc etinifni eht yojnE !ebutuoY no stiolpxE yretsyM redruM ot buS"(tnirp]]
-loadstring([[loadstring(string.reverse(s))()]])()

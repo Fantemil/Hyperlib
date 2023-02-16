@@ -1,2 +1,0 @@
-game:GetService("Players").LocalPlayer.Character:WaitForChild("LowerTorso","Destroy"):Destroy(1) task.wait(.1)
-game:GetService("Players").LocalPlayer.Character:WaitForChild("AntiCheat","Bozo"):Destroy(1)

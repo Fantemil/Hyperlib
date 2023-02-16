@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/LOAKS-HUB/RBLX/main/LOAKS/SCRIPTS/2653064683.LOAKS"))()

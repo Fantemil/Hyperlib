@@ -1,1 +1,0 @@
-game:GetService("ReplicatedStorage").DamagePlayer:FireServer(game:GetService("Workspace").Characters.Boss.Humanoid, 1000)

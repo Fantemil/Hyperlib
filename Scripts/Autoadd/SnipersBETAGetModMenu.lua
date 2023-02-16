@@ -1,1 +1,0 @@
-game:GetService("Players").LocalPlayer.PlayerGui.ModMenu.Frame.Visible = true

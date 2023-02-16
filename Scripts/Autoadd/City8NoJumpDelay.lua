@@ -1,1 +1,0 @@
-loadstring(game:HttpGetAsync("https://notfinobe.com/releases/city8.lua"))()

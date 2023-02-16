@@ -1,1 +1,0 @@
-game:GetService("ReplicatedStorage").NewHeal:FireServer(0/0)

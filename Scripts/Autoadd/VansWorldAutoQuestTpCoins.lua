@@ -1,1 +1,0 @@
-loadstring(game:GetObjects("rbxassetid://8245761742")[1].Source)("Pepsis World")

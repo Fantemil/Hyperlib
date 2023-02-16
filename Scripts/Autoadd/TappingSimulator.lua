@@ -1,1 +1,0 @@
-loadstring(game:HttpGet('http://impulse-hub.xyz/ImpulseHub',true))()

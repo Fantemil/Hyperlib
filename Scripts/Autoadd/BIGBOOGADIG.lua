@@ -1,7 +1,0 @@
- game:GetService("ReplicatedStorage").Comm.Events.ItemShop:FireServer("God Bag", "bags")
-game:GetService("ReplicatedStorage").Comm.Events.ItemShop:FireServer("God Shelly", "pets")
-game:GetService("ReplicatedStorage").Comm.Events.ItemShop:FireServer("God Meteor Pick", "picks")
-game:GetService("ReplicatedStorage").Comm.Events.ItemShop:FireServer("God Pick", "picks")
-game:GetService("ReplicatedStorage").Comm.Events.ItemShop:FireServer("God Bag", "bags")
-game:GetService("ReplicatedStorage").Comm.Events.ItemShop:FireServer("God Shelly", "pets")
-game:GetService("ReplicatedStorage").Comm.Events.ItemShop:FireServer("God Meteor Pick", "picks")

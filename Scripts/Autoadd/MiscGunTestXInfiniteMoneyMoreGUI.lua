@@ -1,1 +1,0 @@
-return game.Players.LocalPlayer:Kick("\n Patched.\n Our Discord invite: mNadW6zUEz")

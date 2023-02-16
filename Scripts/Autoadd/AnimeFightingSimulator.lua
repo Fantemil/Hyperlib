@@ -1,1 +1,0 @@
-_G.FasterLoading=false loadstring(game:HttpGet("https://raw.githubusercontent.com/The3Bakers/Spicy-Bagel/main/SpicyBagelHub.lua"))()

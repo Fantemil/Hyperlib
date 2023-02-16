@@ -1,1 +1,0 @@
-game:GetService("ReplicatedStorage").BuyDoor:FireServer("Forest", -math.huge)

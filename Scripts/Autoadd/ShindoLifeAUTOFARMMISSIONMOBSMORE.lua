@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://snxw.ga/scripts/SnxwHub.txt"))()

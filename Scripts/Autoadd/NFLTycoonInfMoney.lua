@@ -1,1 +1,0 @@
-game:GetService("ReplicatedStorage").RemoteEvent:FireServer("SetMoney", 1e+100)

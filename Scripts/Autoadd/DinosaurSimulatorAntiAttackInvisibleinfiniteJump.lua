@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://auth.kinghub.one/free/"))()

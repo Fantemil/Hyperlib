@@ -1,1 +1,0 @@
-game.Players.LocalPlayer.PlayerGui.GamePassGui["Gib out"].Visible = true

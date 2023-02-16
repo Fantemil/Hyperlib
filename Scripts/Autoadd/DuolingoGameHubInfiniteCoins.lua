@@ -1,1 +1,0 @@
-game:GetService("ReplicatedStorage").CoinRemote:FireServer("addCoin", math.huge)

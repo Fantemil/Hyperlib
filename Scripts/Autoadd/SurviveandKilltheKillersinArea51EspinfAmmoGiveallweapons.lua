@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://github.com/Legenda06/Survive-and-Kill-the-Killers/blob/main/lua",true))()

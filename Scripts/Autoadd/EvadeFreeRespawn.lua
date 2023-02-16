@@ -1,1 +1,0 @@
-game:GetService("ReplicatedStorage").Events.Respawn:FireServer()

@@ -1,1 +1,0 @@
- loadstring(game:HttpGet('https://raw.githubusercontent.com/extreime/Roblox-scripts/main/Attack%20on%20Titan%20Downfall'))()

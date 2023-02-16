@@ -1,1 +1,0 @@
- loadstring(game:HttpGet(('https://raw.githubusercontent.com/serpentesz/scripts/main/critical%20legends.lua')))()
