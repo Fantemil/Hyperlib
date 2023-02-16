@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://github.com/WinterDinder/Every-Second-You-Get-1...-NEW-/raw/main/56_Clubs_Every_Second_You_Get_1.lua", true))()
