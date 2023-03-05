@@ -807,3 +807,4 @@ addscriptexist(9984770240, "Obby but you're a ball GUI | Skip level | finish gam
 addscript(11929558254,"Scripts for Current Game", "Every Second You Get +1... Autofarm", "pulled from rscripts", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Every%20Second%20You%20Get%20%20Autofarm.lua")
 addscriptuniversal("Phantom Forces | Movement Changer [Open Source]", "pulled from rscripts", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Phantom%20Forces%20%20Movement%20Changer%20Open%20Source.lua")
 addscriptexist(4483381587, "Rizzler (Ultimate Rizz)", "pulled from rscripts", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Rizzler%20Ultimate%20Rizz.lua")
+addscriptexist(9984770240, "Obby but you're a ball skip level(not gui)", "pulled from rscripts", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Obby%20but%20youre%20a%20ball%20skip%20levelnot%20gui.lua")
