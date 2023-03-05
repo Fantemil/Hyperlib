@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://gitlab.com/omnilocua/makima-project/-/raw/main/InfernoHub.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/enrabiaa/InfernoHub/main/InfernoHub.lua"))()
