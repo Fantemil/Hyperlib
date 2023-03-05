@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Crabmeat8179/Lua-scripts/main/Stop%20it%20slender%20collect%20pages.lua", true))()
