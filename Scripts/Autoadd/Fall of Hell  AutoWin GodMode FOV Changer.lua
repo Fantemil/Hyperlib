@@ -1,1 +1,5 @@
-loadstring(game:HttpGet('https://gitlab.com/wspcontr/onemorehub/-/raw/main/scriptloader.lua'))()
+loadstring(
+    game:HttpGet(
+        'https://onemorehub.weinzspace.com/'
+        )
+    )()
