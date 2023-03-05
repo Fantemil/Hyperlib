@@ -1,0 +1,2 @@
+_G.wl_key = ' ||PUT YOUR OWN KEY HERE, GET IT FROM AERO.MRGLASS.NL|| '
+loadstring(game:HttpGet('https://raw.githubusercontent.com/aerocontentdeliverynetwork/c2def827046d7084b13c563a47b4ec0fc508f18a/main/productionAeroHub.lua'))()
