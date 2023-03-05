@@ -876,3 +876,4 @@ addscriptexist(8054462345, "Michael's Zombies Script (Kill Aura, Noclip, No Relo
 addscript(4951858512,"Scripts for Current Game", "Victory Race Autofarm Wins", "pulled from rscripts", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Victory%20Race%20Autofarm%20Wins.lua")
 
 addscript(12480945489,"Scripts for Current Game", "Ice Cream Clicker Script (Auto Lick, Auto Sell, ETC)", "pulled from rscripts", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ice%20Cream%20Clicker%20Script%20Auto%20Lick%20Auto%20Sell%20ETC.lua")
+addscriptuniversal("Faster Tween Script [NEW]", "pulled from rscripts", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Faster%20Tween%20Script%20NEW.lua")
