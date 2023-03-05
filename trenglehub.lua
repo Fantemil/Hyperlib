@@ -93,6 +93,90 @@ local CreditsSection2 = Credits:NewSection("Made by Fantemil#2549")
 local CreditsSection3 = Credits:NewSection("Powered by a python selenium bot")
 
 
+function bigRedText(text)
+    game:GetService("StarterGui"):SetCore("ChatMakeSystemMessage", {
+        Text = text,
+        Color = Color3.new(1, 0, 0),
+        Font = Enum.Font.GothamBold,
+        FontSize = Enum.FontSize.Size48,
+    })
+end
+
+
+-- Create the clearChat() function
+function clearChat()
+    local clearMessage = ""
+    for i = 1, 20 do
+        clearMessage = clearMessage .. " "
+    end
+    
+    for i = 1, 30 do
+        game:GetService("StarterGui"):SetCore("ChatMakeSystemMessage", {
+            Text = clearMessage,
+            Color = Color3.new(1, 1, 1), -- set the color to white to make the messages invisible
+            Font = Enum.Font.SourceSans,
+            FontSize = Enum.FontSize.Size18,
+        })
+    end
+end
+
+function bigBlueItalicText(text)
+    game:GetService("StarterGui"):SetCore("ChatMakeSystemMessage", {
+        Text = text,
+        Color = Color3.fromRGB(0, 162, 255), -- set the color to blue
+        Font = Enum.Font.SourceSansItalic,
+        TextTransparency = 0,
+        TextStrokeTransparency = 0,
+        TextScaled = false,
+        TextWrapped = false,
+        TextXAlignment = Enum.TextXAlignment.Center,
+        TextYAlignment = Enum.TextYAlignment.Center,
+        TextStrokeColor3 = Color3.new(0, 0, 0),
+        FontSize = Enum.FontSize.Size48,
+    })
+end
+
+function getLocalPlayerName()
+    local player = game:GetService("Players").LocalPlayer
+    return player.Name
+end
+function characterCount(str)
+    return #str
+end
+function addDashes(num)
+    local result = ""
+    for i = 1, num do
+        result = result .. "-"
+    end
+    return result
+end
+function bigGreenItalicText(text)
+    game:GetService("StarterGui"):SetCore("ChatMakeSystemMessage", {
+        Text = text,
+        Color = Color3.fromRGB(0, 255, 0), -- set the color to blue
+        Font = Enum.Font.SourceSansItalic,
+        TextTransparency = 0,
+        TextStrokeTransparency = 0,
+        TextScaled = false,
+        TextWrapped = false,
+        TextXAlignment = Enum.TextXAlignment.Center,
+        TextYAlignment = Enum.TextYAlignment.Center,
+        TextStrokeColor3 = Color3.new(0, 0, 0),
+        FontSize = Enum.FontSize.Size48,
+    })
+end
+
+
+local usercustom = "Welcome to Hyperlib," .. " " .. getLocalPlayerName() .. "!"
+local customlen = characterCount(usercustom)
+clearChat()
+bigRedText(usercustom)
+bigRedText(addDashes(customlen))
+bigBlueItalicText("Script developed by Fantemil")
+bigRedText(addDashes(customlen))
+bigBlueItalicText("Check out the Project on Github:")
+bigGreenItalicText("https://github.com/Fantemil/Hyperlib")
+bigRedText(addDashes(customlen))
 
 
 --Work at a Pizza Place
@@ -857,3 +941,4 @@ addhub("Local Hub - Blox Fruits", "pulled from rscripts", "https://raw.githubuse
 addscript(6728870912,"Scripts for Current Game", "World Of Stands | Chest Autofarm", "pulled from rscripts", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/World%20Of%20Stands%20%20Chest%20Autofarm.lua")
 addscript(11400511154,"Scripts for Current Game", "Monkey Tycoon [Binary Hub]", "pulled from rscripts", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Monkey%20Tycoon%20Binary%20Hub.lua")
 addscriptexist(8054462345, "Michael's Zombies Knife Kill Aura Zombies ESP No Recoil No Spread Fire Rare and more", "pulled from rscripts", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Michaels%20Zombies%20Knife%20Kill%20Aura%20Zombies%20ESP%20No%20Recoil%20No%20Spread%20Fire%20Rare%20and%20more.lua")
+addscriptexist(11701792069, "Snow Plow Simulator Gui", "pulled from rscripts", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Snow%20Plow%20Simulator%20Gui.lua")
