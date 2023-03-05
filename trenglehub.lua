@@ -662,3 +662,5 @@ if game.PlaceId  == 7047488135 then
     end)
 end
 
+
+addscriptuniversal("17F7O's Anti Http Spy", "pulled from rscripts", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FOs%20Anti%20Http%20Spy.lua")
