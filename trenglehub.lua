@@ -96,15 +96,6 @@ local Credits = Window:NewTab("Credits")
 local CreditsSection = Credits:NewSection("---Credits---")
 local CreditsSection2 = Credits:NewSection("Made by Fantemil#2549")
 local CreditsSection3 = Credits:NewSection("Powered by a python selenium bot")
-local Stats = Window:NewTab("Stats")
-local StatsSection = Stats:NewSection("---Stats---")
-local httpService = game:GetService("HttpService")
-local url = "https://raw.githubusercontent.com/Fantemil/Hyperlib/main/Stats/gamecount.txt"
-local url2 = "https://raw.githubusercontent.com/Fantemil/Hyperlib/main/Stats/scriptcount.txt"
-local gameresponse = httpService:GetAsync(url)
-local scriptresponse = httpService:GetAsync(url2)
-local StatsSection2 = Stats:NewSection("Games Supported: "..gameresponse)
-local StatsSection3 = Stats:NewSection("Scripts Available: "..scriptresponse)
 
 
 
@@ -676,3 +667,5 @@ if game.PlaceId  == 7047488135 then
         end
     end)
 end
+
+addscriptuniversal("Kya-Ware | Making games better to play!", "pulled from rscripts", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/KyaWare%20%20Making%20games%20better%20to%20play.lua")
