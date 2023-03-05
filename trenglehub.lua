@@ -875,4 +875,4 @@ addscriptexist(9585537847, "Shadovis RPG Kill Aura Script", "pulled from rscript
 addscriptexist(8054462345, "Michael's Zombies Script (Kill Aura, Noclip, No Reload...)", "pulled from rscripts", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Michaels%20Zombies%20Script%20Kill%20Aura%20Noclip%20No%20Reload.lua")
 addscript(4951858512,"Scripts for Current Game", "Victory Race Autofarm Wins", "pulled from rscripts", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Victory%20Race%20Autofarm%20Wins.lua")
 
-        addscript(12480945489,"Scripts for Current Game", "Ice Cream Clicker Script (Auto Lick, Auto Sell, ETC)", "pulled from rscripts", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ice%20Cream%20Clicker%20Script%20Auto%20Lick%20Auto%20Sell%20ETC.lua")
+addscript(12480945489,"Scripts for Current Game", "Ice Cream Clicker Script (Auto Lick, Auto Sell, ETC)", "pulled from rscripts", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ice%20Cream%20Clicker%20Script%20Auto%20Lick%20Auto%20Sell%20ETC.lua")
