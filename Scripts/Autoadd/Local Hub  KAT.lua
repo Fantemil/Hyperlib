@@ -1,0 +1,2 @@
+_G.key = "" -- If you have key, you can put here. If not get key! *** Put key her before run!
+loadstring(game:HttpGet('https://raw.githubusercontent.com/ZoiIntra/LocalHub/main/FreeVersion/Loading_UI'))()
