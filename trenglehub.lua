@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 06.03.2023 16:15:40"
+lastupdate = "GMT +1: 06.03.2023 16:15:49"
 --^^^dont touch ^^^
 function addscript(Place,Gamename,title,author,scriptlink)
     _G.gamecount = _G.gamecount + 1
@@ -1154,3 +1154,4 @@ addscriptexist(5956785391, "Project Slayers Script | INFINITE WEN, Boss Farm & M
 addscript(596894229,"Scripts for Current Game", "Elemental Adventure Script | Auto XP Farm", "pulled from rscripts", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Elemental%20Adventure%20Script%20%20Auto%20XP%20Farm.lua")
 addscriptexist(6678877691, "ZO SAMURAI SCRIPT | Insane Features, Anti Cheat Bypass", "pulled from rscripts", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ZO%20SAMURAI%20SCRIPT%20%20Insane%20Features%20Anti%20Cheat%20Bypass.lua")
 addscript(6677985923,"Scripts for Current Game", "[UPDATED] Millionaire Empire Tycoon | Infinite Money!", "pulled from rscripts", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/UPDATED%20Millionaire%20Empire%20Tycoon%20%20Infinite%20Money.lua")
+addscript(5201039691,"Scripts for Current Game", "Tatakai V.2 Script | Money Farm", "pulled from rscripts", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tatakai%20V%20Script%20%20Money%20Farm.lua")
