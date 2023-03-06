@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 06.03.2023 15:47:21"
+lastupdate = "GMT +1: 06.03.2023 15:47:31"
 --^^^dont touch ^^^
 function addscript(Place,Gamename,title,author,scriptlink)
     _G.gamecount = _G.gamecount + 1
@@ -1091,3 +1091,4 @@ addscriptexist(4483381587, "Platinium Hub Universal Script", "pulled from rscrip
 addscriptexist(11445923563, "One Fruit Simulator Op Script Keyless", "pulled from rscripts", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/One%20Fruit%20Simulator%20Op%20Script%20Keyless.lua")
 addscript(9224601490,"Scripts for Current Game", "Auto Farm your fruit get gems easily", "pulled from rscripts", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Farm%20your%20fruit%20get%20gems%20easily.lua")
 addscriptuniversal("Crips Gaming Chair [Discontinued]", "pulled from rscripts", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Crips%20Gaming%20Chair%20Discontinued.lua")
+addscriptuniversal("Hydrogen Executor For Android & MacOS", "pulled from rscripts", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Hydrogen%20Executor%20For%20Android%20%20MacOS.lua")
