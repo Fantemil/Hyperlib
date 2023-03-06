@@ -1,6 +1,67 @@
 _G.gamecount = 0
 _G.scriptcount = 0
 lastupdate = "GMT +1: 06.03.2023 19:38:28"
+function getLocalPlayerName()
+    local player = game:GetService("Players").LocalPlayer
+    return player.Name
+end
+function bigRedText(text)
+    game:GetService("StarterGui"):SetCore("ChatMakeSystemMessage", {
+        Text = text,
+        Color = Color3.new(1, 0, 0),
+        Font = Enum.Font.GothamBold,
+        FontSize = Enum.FontSize.Size48,
+    })
+end
+
+function bigGreenItalicText(text)
+    game:GetService("StarterGui"):SetCore("ChatMakeSystemMessage", {
+        Text = text,
+        Color = Color3.fromRGB(0, 255, 0), -- set the color to blue
+        Font = Enum.Font.SourceSansItalic,
+        TextTransparency = 0,
+        TextStrokeTransparency = 0,
+        TextScaled = false,
+        TextWrapped = false,
+        TextXAlignment = Enum.TextXAlignment.Center,
+        TextYAlignment = Enum.TextYAlignment.Center,
+        TextStrokeColor3 = Color3.new(0, 0, 0),
+        FontSize = Enum.FontSize.Size48,
+    })
+end
+-- Create the clearChat() function
+function clearChat()
+    local clearMessage = ""
+    for i = 1, 20 do
+        clearMessage = clearMessage .. " "
+    end
+    
+    for i = 1, 30 do
+        game:GetService("StarterGui"):SetCore("ChatMakeSystemMessage", {
+            Text = clearMessage,
+            Color = Color3.new(1, 1, 1), -- set the color to white to make the messages invisible
+            Font = Enum.Font.SourceSans,
+            FontSize = Enum.FontSize.Size18,
+        })
+    end
+end
+
+function bigBlueItalicText(text)
+    game:GetService("StarterGui"):SetCore("ChatMakeSystemMessage", {
+        Text = text,
+        Color = Color3.fromRGB(0, 162, 255), -- set the color to blue
+        Font = Enum.Font.SourceSansItalic,
+        TextTransparency = 0,
+        TextStrokeTransparency = 0,
+        TextScaled = false,
+        TextWrapped = false,
+        TextXAlignment = Enum.TextXAlignment.Center,
+        TextYAlignment = Enum.TextYAlignment.Center,
+        TextStrokeColor3 = Color3.new(0, 0, 0),
+        FontSize = Enum.FontSize.Size48,
+    })
+end
+
 --^^^dont touch ^^^
 function addscript(Place,Gamename,title,author,scriptlink)
     _G.gamecount = _G.gamecount + 1
@@ -11,7 +72,15 @@ function addscript(Place,Gamename,title,author,scriptlink)
         main = _G.main
         _G.script = main:NewSection("---Scripts---")
         _G.script:NewButton(title, author, function()
-            loadstring(game:HttpGet(scriptlink))()
+            function toexecute()
+                loadstring(game:HttpGet(scriptlink))()
+            end
+            local success, result = pcall(toexecute)
+            if success then
+                bigGreenItalicText(getLocalPlayerName(), ", your Script executed successfully")
+            else
+                bigRedText(getLocalPlayerName(), ", your Script failed to execute")
+            end
         end)
     end
 end
@@ -20,21 +89,45 @@ function addscriptexist(Place,title,author,scriptlink)
     _G.scriptcount = _G.scriptcount + 1
     if game.PlaceId == Place then
         _G.script:NewButton(title, author, function()
-            loadstring(game:HttpGet(scriptlink))()
-            end)
+            function toexecute()
+                loadstring(game:HttpGet(scriptlink))()
+            end
+            local success, result = pcall(toexecute)
+            if success then
+                bigGreenItalicText(getLocalPlayerName(), ", your Script executed successfully")
+            else
+                bigRedText(getLocalPlayerName(), ", your Script failed to execute")
+            end
+        end)
     end
         
 end
 function addscriptuniversal(title,author,scriptlink)
     _G.scriptcount = _G.scriptcount + 1
     _G.generalscriptssection:NewButton(title, author, function()
-        loadstring(game:HttpGet(scriptlink))()
+            function toexecute()
+                loadstring(game:HttpGet(scriptlink))()
+            end
+            local success, result = pcall(toexecute)
+            if success then
+                bigGreenItalicText(getLocalPlayerName(), ", your Script executed successfully")
+            else
+                bigRedText(getLocalPlayerName(), ", your Script failed to execute")
+            end
         end)
 end
 function addhub(title,author,scriptlink)
     _G.scriptcount = _G.scriptcount + 1
     _G.gamehubsection:NewButton(title, author, function()
-        loadstring(game:HttpGet(scriptlink))()
+            function toexecute()
+                loadstring(game:HttpGet(scriptlink))()
+            end
+            local success, result = pcall(toexecute)
+            if success then
+                bigGreenItalicText(getLocalPlayerName(), ", your Script executed successfully")
+            else
+                bigRedText(getLocalPlayerName(), ", your Script failed to execute")
+            end
         end)
 end
 local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Library/kavo-ui.lua"))()
@@ -106,53 +199,7 @@ local CreditsSection3 = Credits:NewSection("Powered by a python selenium bot")
 
 
 
-function bigRedText(text)
-    game:GetService("StarterGui"):SetCore("ChatMakeSystemMessage", {
-        Text = text,
-        Color = Color3.new(1, 0, 0),
-        Font = Enum.Font.GothamBold,
-        FontSize = Enum.FontSize.Size48,
-    })
-end
 
-
--- Create the clearChat() function
-function clearChat()
-    local clearMessage = ""
-    for i = 1, 20 do
-        clearMessage = clearMessage .. " "
-    end
-    
-    for i = 1, 30 do
-        game:GetService("StarterGui"):SetCore("ChatMakeSystemMessage", {
-            Text = clearMessage,
-            Color = Color3.new(1, 1, 1), -- set the color to white to make the messages invisible
-            Font = Enum.Font.SourceSans,
-            FontSize = Enum.FontSize.Size18,
-        })
-    end
-end
-
-function bigBlueItalicText(text)
-    game:GetService("StarterGui"):SetCore("ChatMakeSystemMessage", {
-        Text = text,
-        Color = Color3.fromRGB(0, 162, 255), -- set the color to blue
-        Font = Enum.Font.SourceSansItalic,
-        TextTransparency = 0,
-        TextStrokeTransparency = 0,
-        TextScaled = false,
-        TextWrapped = false,
-        TextXAlignment = Enum.TextXAlignment.Center,
-        TextYAlignment = Enum.TextYAlignment.Center,
-        TextStrokeColor3 = Color3.new(0, 0, 0),
-        FontSize = Enum.FontSize.Size48,
-    })
-end
-
-function getLocalPlayerName()
-    local player = game:GetService("Players").LocalPlayer
-    return player.Name
-end
 function characterCount(str)
     return #str
 end
@@ -163,21 +210,7 @@ function addDashes(num)
     end
     return result
 end
-function bigGreenItalicText(text)
-    game:GetService("StarterGui"):SetCore("ChatMakeSystemMessage", {
-        Text = text,
-        Color = Color3.fromRGB(0, 255, 0), -- set the color to blue
-        Font = Enum.Font.SourceSansItalic,
-        TextTransparency = 0,
-        TextStrokeTransparency = 0,
-        TextScaled = false,
-        TextWrapped = false,
-        TextXAlignment = Enum.TextXAlignment.Center,
-        TextYAlignment = Enum.TextYAlignment.Center,
-        TextStrokeColor3 = Color3.new(0, 0, 0),
-        FontSize = Enum.FontSize.Size48,
-    })
-end
+
 function rprint(text, color)
     rconsoleprint("\n".. text, color)
 end
