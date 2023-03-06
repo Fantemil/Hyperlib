@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 06.03.2023 15:40:44"
+lastupdate = "GMT +1: 06.03.2023 15:40:54"
 --^^^dont touch ^^^
 function addscript(Place,Gamename,title,author,scriptlink)
     _G.gamecount = _G.gamecount + 1
@@ -1052,3 +1052,4 @@ addscript(7525610732,"Scripts for Current Game", "Best kaizen script out there",
 addscriptexist(11656036986, "CrossHub - make roblox games to become rich and famous [New Version]", "pulled from rscripts", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CrossHub%20%20make%20roblox%20games%20to%20become%20rich%20and%20famous%20New%20Version.lua")
 addscript(10967799786,"Scripts for Current Game", "Pet Lifting Simulator OP Script ", "pulled from rscripts", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pet%20Lifting%20Simulator%20OP%20Script%20.lua")
 addscriptexist(8540346411, "Rebirth Champions X Script Finish the game in a minute", "pulled from rscripts", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Rebirth%20Champions%20X%20Script%20Finish%20the%20game%20in%20a%20minute.lua")
+addscriptexist(142823291, "Eclipse Hub UNIVERSAL 10+ Games Supported KICK, BLIND, RESET, ALL IN MM2", "pulled from rscripts", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Eclipse%20Hub%20UNIVERSAL%20%20Games%20Supported%20KICK%20BLIND%20RESET%20ALL%20IN%20MM.lua")
