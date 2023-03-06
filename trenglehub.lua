@@ -1,5 +1,7 @@
 _G.gamecount = 0
 _G.scriptcount = 0
+local lastupdate = "GMT +1: 06/03/2023 13:46:11"local lastupdate = ""
+--^^^dont touch ^^^
 function addscript(Place,Gamename,title,author,scriptlink)
     _G.gamecount = _G.gamecount + 1
     _G.scriptcount = _G.scriptcount + 1
@@ -38,6 +40,9 @@ end
 local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Library/kavo-ui.lua"))()
 _G.Window = Library.CreateLib("Hyperlib", "BloodTheme")
 Window = _G.Window
+Statstab = Window:NewTab("Status")
+local StatusSection = Statstab:NewSection("---Last Update---")
+StatusSection:NewLabel(lastupdate)
 local Player = Window:NewTab("Player")
 local PlayerSection = Player:NewSection("Player")
 
@@ -51,6 +56,8 @@ end)
 PlayerSection:NewSlider("Gravity", "Changes the gravity", 250, 0, function(v)
     game.Workspace.Gravity = v
 end)
+
+
 
 
 
@@ -1012,3 +1019,4 @@ addscriptuniversal("School of Hierarchy [Mob Farm | Boxes Farm | Potential Scrip
 addscriptuniversal("Phantom Forces | Silent Aim [Open Source]", "pulled from rscripts", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Phantom%20Forces%20%20Silent%20Aim%20Open%20Source.lua")
 addscript(6048573718,"Scripts for Current Game", "POSX - MOST ADVANCED TELEPORT GENERATOR", "pulled from rscripts", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/POSX%20%20MOST%20ADVANCED%20TELEPORT%20GENERATOR.lua")
 addscriptexist(11866253403, "Ragdoll Jump Race OP Gui", "pulled from rscripts", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ragdoll%20Jump%20Race%20OP%20Gui.lua")
+addscriptexist(286090429, "Lux - Arsenal AutoWin and More!", "pulled from rscripts", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Lux%20%20Arsenal%20AutoWin%20and%20More.lua")
