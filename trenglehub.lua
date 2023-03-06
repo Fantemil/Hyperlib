@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 06.03.2023 16:14:41"
+lastupdate = "GMT +1: 06.03.2023 16:14:51"
 --^^^dont touch ^^^
 function addscript(Place,Gamename,title,author,scriptlink)
     _G.gamecount = _G.gamecount + 1
@@ -1148,3 +1148,4 @@ addscriptexist(8054462345, "Michaels Zombies Script | Always Headshot & Insta Re
 addscriptexist(6284583030, "Pet Simulator X ! Script", "pulled from rscripts", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pet%20Simulator%20X%20%20Script.lua")
 addscript(3686253681,"Scripts for Current Game", "Planet simulator | Insanely Fast Auto Farm", "pulled from rscripts", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Planet%20simulator%20%20Insanely%20Fast%20Auto%20Farm.lua")
 addscript(8950974597,"Scripts for Current Game", "Anime Speed Simulator | Gui", "pulled from rscripts", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime%20Speed%20Simulator%20%20Gui.lua")
+addscript(7180042682,"Scripts for Current Game", "Military Tycoon | LASER TRUCK event farm", "pulled from rscripts", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Military%20Tycoon%20%20LASER%20TRUCK%20event%20farm.lua")
