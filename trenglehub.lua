@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 06.03.2023 15:45:19"
+lastupdate = "GMT +1: 06.03.2023 15:45:30"
 --^^^dont touch ^^^
 function addscript(Place,Gamename,title,author,scriptlink)
     _G.gamecount = _G.gamecount + 1
@@ -1079,3 +1079,4 @@ addscript(2772610559,"Scripts for Current Game", "Farming and Friends Script", "
 addscriptexist(11063612131, "Every Second You Get +1 Jump Power | nihub", "pulled from rscripts", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Every%20Second%20You%20Get%20%20Jump%20Power%20%20nihub.lua")
 addscriptexist(10598587051, "Anime Clicker Fight ", "pulled from rscripts", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime%20Clicker%20Fight%20.lua")
 addscriptexist(286090429, "Arsenal Script | Silent Aimbot, ESP, Kill Aura, Gun Mods and more!", "pulled from rscripts", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Arsenal%20Script%20%20Silent%20Aimbot%20ESP%20Kill%20Aura%20Gun%20Mods%20and%20more.lua")
+addscriptuniversal("Blacksite Zeta Script | Gun Mods and more!", "pulled from rscripts", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blacksite%20Zeta%20Script%20%20Gun%20Mods%20and%20more.lua")
