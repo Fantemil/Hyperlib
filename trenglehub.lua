@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:39:57"
+lastupdate = "GMT +1: 07.03.2023 21:40:02"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -3050,3 +3050,5 @@ addscriptexist(4566572536, "Vehicle Legends: Auto Farm, Car Mod & More!", "pulle
 addscriptexist(11542692507, "Anime Souls Simulator: Auto Mob, Auto Attack & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime%20Souls%20Simulator%20Auto%20Mob%20Auto%20Attack%20%20More.lua")
 
 addscript(990364410, "Current Game","Survive the Night: Esp, Infinite Jump, Fly & More!", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Survive%20the%20Night%20Esp%20Infinite%20Jump%20Fly%20%20More.lua")
+
+addscript(5702593762, "Current Game","Climb 1,000 Stairs: Auto Farm, Auto Tween, Fly & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Climb%20%20Stairs%20Auto%20Farm%20Auto%20Tween%20Fly%20%20More.lua")
