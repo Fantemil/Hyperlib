@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 20:58:08"
+lastupdate = "GMT +1: 07.03.2023 20:58:12"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -1884,3 +1884,5 @@ addscriptexist(9498006165, "Tapping Simulator: Auto Equip Best Pets, Auto Tap, T
 addscriptexist(3956818381, "Ninja Legends: Auto Rebirth, Auto Sell, Auto Swing", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ninja%20Legends%20Auto%20Rebirth%20Auto%20Sell%20Auto%20Swing.lua")
 
 addscriptexist(920587237, "Adopt Me: AutoFarm, Auto Baby", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Adopt%20Me%20AutoFarm%20Auto%20Baby.lua")
+
+addscriptexist(920587237, "Adopt Me: Visual Pets", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Adopt%20Me%20Visual%20Pets.lua")
