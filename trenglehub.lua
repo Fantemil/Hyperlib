@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 22:02:07"
+lastupdate = "GMT +1: 07.03.2023 22:02:11"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -3660,3 +3660,5 @@ addscriptexist(2753915549, "+One Damage Every Second: Infinity Strenght, Auto Eg
 addscript(11847012723, "Current Game","SWAT | Breaching: Kill All", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SWAT%20%20Breaching%20Kill%20All.lua")
 
 addscript(3964975083, "Current Game","Build to survive: Remove Cages, Remove Mobs, Kill", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Build%20to%20survive%20Remove%20Cages%20Remove%20Mobs%20Kill.lua")
+
+addscript(5895971007, "Current Game","Allusions: Hitboxes, Walkspeed Slider", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Allusions%20Hitboxes%20Walkspeed%20Slider.lua")
