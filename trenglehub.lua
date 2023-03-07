@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:42:50"
+lastupdate = "GMT +1: 07.03.2023 21:42:53"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -3136,3 +3136,5 @@ addscript(3082707367, "Current Game","RO-Wizard: Auto Farm EXP, Kill All, Silent
 addscriptexist(9942628622, "Son Goku: The Finale: Unlock SSG, Unlock SSB, Ultra Instinct Omen", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Son%20Goku%20The%20Finale%20Unlock%20SSG%20Unlock%20SSB%20Ultra%20Instinct%20Omen.lua")
 
 addscriptuniversal("Universal Aimbot, FOV, Wallcheck", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Aimbot%20FOV%20Wallcheck.lua")
+
+addscriptexist(301549746, "Counter Blox: No Fire Damage, Auto Hop & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Counter%20Blox%20No%20Fire%20Damage%20Auto%20Hop%20%20More.lua")
