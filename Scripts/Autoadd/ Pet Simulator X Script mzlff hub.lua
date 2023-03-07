@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/mzlf/Hub/main/KeySystem"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/mzlf/Hub/main/PsxScript"))()
