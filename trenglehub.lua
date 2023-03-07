@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:31:30"
+lastupdate = "GMT +1: 07.03.2023 21:31:35"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -2806,3 +2806,5 @@ addscript(3360853050, "Current Game","Super Striker League: Animations, ESP & Mo
 addscriptuniversal("Universal FE Jhon Doe", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20FE%20Jhon%20Doe.lua")
 
 addscriptexist(2788229376, "Da Hood: Aim Lock, ESP & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Da%20Hood%20Aim%20Lock%20ESP%20%20More.lua")
+
+addscript(4522347649, "Current Game","FREE ADMIN: Adm Cmds", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FREE%20ADMIN%20Adm%20Cmds.lua")
