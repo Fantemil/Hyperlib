@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/RbxScriptCreator/GrassSimulator/main/GrassSimulatorHack.lua%22))()
