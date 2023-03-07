@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:36:16"
+lastupdate = "GMT +1: 07.03.2023 21:36:20"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -2944,3 +2944,5 @@ addscriptexist(2788229376, "Da Hood: Aim Lock, Fly & More", "pulled from rbxscri
 addscript(10041108328, "Current Game","Dark Life: No Recoil, No Spread, No Shoot Delay", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Dark%20Life%20No%20Recoil%20No%20Spread%20No%20Shoot%20Delay.lua")
 
 addscriptexist(142823291, "Murder Mystery 2: Silent Aim, Auto Farm Coins & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Murder%20Mystery%20%20Silent%20Aim%20Auto%20Farm%20Coins%20%20More.lua")
+
+addscriptexist(6284583030, "Pet Simulator X: Auto Farm, Auto Hatch & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pet%20Simulator%20X%20Auto%20Farm%20Auto%20Hatch%20%20More.lua")
