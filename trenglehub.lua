@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:10:01"
+lastupdate = "GMT +1: 07.03.2023 21:10:06"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -2232,3 +2232,5 @@ addscript(6708206173, "Current Game","Rate My Avatar: Trivia Booth", "pulled fro
 addscriptexist(11636413564, "Meme Mergers: Auto Merge, Auto Click, Auto Obby", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Meme%20Mergers%20Auto%20Merge%20Auto%20Click%20Auto%20Obby.lua")
 
 addscriptexist(6284583030, "Pet Simulator X: Auto-Farm, Keybinds & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pet%20Simulator%20X%20AutoFarm%20Keybinds%20%20More.lua")
+
+addscriptexist(9143982021, "Sword Battles: Spam Skills", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sword%20Battles%20Spam%20Skills.lua")
