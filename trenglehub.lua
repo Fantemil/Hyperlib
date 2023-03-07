@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:26:03"
+lastupdate = "GMT +1: 07.03.2023 21:26:08"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -2654,3 +2654,5 @@ addscriptexist(4924922222, "Brookhaven RP: Change Size", "pulled from rbxscript.
 addscriptexist(6679968919, "Fly Race: Auto Rebirth, Infinite Group Rewards", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Fly%20Race%20Auto%20Rebirth%20Infinite%20Group%20Rewards.lua")
 
 addhub("Kidachi Hub: 3 Games, New Link", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Kidachi%20Hub%20%20Games%20New%20Link.lua")
+
+addscriptexist(6284583030, "Pet Simulator X: Auto Farm Coins, Auto Collect & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pet%20Simulator%20X%20Auto%20Farm%20Coins%20Auto%20Collect%20%20More.lua")
