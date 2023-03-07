@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:12:02"
+lastupdate = "GMT +1: 07.03.2023 21:12:06"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -2292,3 +2292,5 @@ addscriptexist(2753915549, "Blox Fruits: Teleports, Server Hop & More", "pulled 
 addscript(11810939759, "Current Game","Guess The Build: Redeem All Codes", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Guess%20The%20Build%20Redeem%20All%20Codes.lua")
 
 addscriptexist(7899881670, "RB World 4: Anti Cheat Bypass", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RB%20World%20%20Anti%20Cheat%20Bypass.lua")
+
+addscript(9834528893, "Current Game","+1 Jump Every Second: Delete Cringe", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/%20Jump%20Every%20Second%20Delete%20Cringe.lua")
