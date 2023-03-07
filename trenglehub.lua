@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 22:20:09"
+lastupdate = "GMT +1: 07.03.2023 22:20:16"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -4178,3 +4178,5 @@ addscriptexist(1537690962, "Bee Swarm Simulator: Paper Plants Dupe", "pulled fro
 addscriptexist(12113006580, "NCT 127 World: Auto Coins", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NCT%20%20World%20Auto%20Coins.lua")
 
 addscriptexist(6728870912, "World of Stands: Chest Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/World%20of%20Stands%20Chest%20Farm.lua")
+
+addscriptexist(3475397644, "Dragon Adventures: Auto Incubate, Fly & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Dragon%20Adventures%20Auto%20Incubate%20Fly%20%20More.lua")
