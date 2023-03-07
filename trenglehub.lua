@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:58:24"
+lastupdate = "GMT +1: 07.03.2023 21:58:27"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -3556,3 +3556,5 @@ addscriptexist(5602055394, "Hood Modded: Speed Hack, ESP, Premium Version", "pul
 addscriptexist(9825515356, "Hood Customs: Silent Aim, FOV, ESP", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Hood%20Customs%20Silent%20Aim%20FOV%20ESP.lua")
 
 addscript(9824221333, "Current Game","Da Hood Aim Trainer: Low GFX, Fly & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Da%20Hood%20Aim%20Trainer%20Low%20GFX%20Fly%20%20More.lua")
+
+addhub("Oblivion Hub: Premium Version for Free", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Oblivion%20Hub%20Premium%20Version%20for%20Free.lua")
