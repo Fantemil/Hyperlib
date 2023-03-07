@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 22:26:46"
+lastupdate = "GMT +1: 07.03.2023 22:26:50"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -4342,3 +4342,5 @@ addscriptexist(3101667897, "Legends Of Speed: Orb & Gem Collector", "pulled from
 addscriptexist(5987922834, "Transfur Outbreak: Kill Aura, Aimbot, ESP", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Transfur%20Outbreak%20Kill%20Aura%20Aimbot%20ESP.lua")
 
 addscript(6939111033, "Current Game","Escape Papa Pizza's Pizzeria: Give All Items", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Escape%20Papa%20Pizzas%20Pizzeria%20Give%20All%20Items.lua")
+
+addscriptexist(8540346411, "Rebirth Champions X: Auto Upgrade, Auto Rebirth, Auto Click", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Rebirth%20Champions%20X%20Auto%20Upgrade%20Auto%20Rebirth%20Auto%20Click.lua")
