@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 22:17:20"
+lastupdate = "GMT +1: 07.03.2023 22:17:25"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -4094,3 +4094,5 @@ addscriptexist(11606818992, "STEEP STEPS: Press Q to Fly", "pulled from rbxscrip
 addscriptexist(537413528, "Build A Boat For Treasure: Auto Farm, Advanced Farm & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Build%20A%20Boat%20For%20Treasure%20Auto%20Farm%20Advanced%20Farm%20%20More.lua")
 
 addscript(10239497838, "Current Game","Slap Battles (FANMADE): Tp to admin area", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Slap%20Battles%20FANMADE%20Tp%20to%20admin%20area.lua")
+
+addscriptexist(189707, "Natural Disaster Survival: Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Natural%20Disaster%20Survival%20Auto%20Farm.lua")
