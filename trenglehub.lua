@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 15:48:51"
+lastupdate = "GMT +1: 07.03.2023 15:48:55"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -1346,3 +1346,7 @@ addscript(5902977746,"Current Game", "Ultimate Tower Defense: AutoFish, Teleport
 addscriptexist(11298754833, "MinerShaft: Diomond Ruby Steel Iron ESP", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MinerShaft%20Diomond%20Ruby%20Steel%20Iron%20ESP.lua")
 
 addscriptexist(7288936208, "Super Blox Soccer: Reach, Anti Cheat Bypass, Ball Size", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Super%20Blox%20Soccer%20Reach%20Anti%20Cheat%20Bypass%20Ball%20Size.lua")
+
+addscriptexist(6735572261, "Pilgrammed: Auto Parry", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pilgrammed%20Auto%20Parry.lua")
+
+addscriptuniversal("Holos Alts Controls", "pulled from rscripts", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Holos%20Alts%20Controls.lua")
