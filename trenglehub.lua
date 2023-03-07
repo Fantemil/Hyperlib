@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:06:32"
+lastupdate = "GMT +1: 07.03.2023 21:06:36"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -2128,3 +2128,5 @@ addscript(9666226803, "Current Game","Hotel Simulator: Infinite Kitchen Supplies
 addscriptexist(2768379856, "3008: Instant Interact", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/%20Instant%20Interact.lua")
 
 addscriptuniversal("Universal Remote Spy, Script Viewer, Explorer", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Remote%20Spy%20Script%20Viewer%20Explorer.lua")
+
+addscriptexist(6913960180, "Undertale Crazy Multiverse Tim: Finish Obby", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Undertale%20Crazy%20Multiverse%20Tim%20Finish%20Obby.lua")
