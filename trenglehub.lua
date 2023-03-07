@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 22:00:53"
+lastupdate = "GMT +1: 07.03.2023 22:00:57"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -3624,3 +3624,5 @@ addscriptuniversal("Universal Fe Hold Hats", "pulled from rbxscript.com", "https
 addscript(10048079179, "Current Game","Fat Simulator: Auto Eat, Auto Burp, Auto Fart", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Fat%20Simulator%20Auto%20Eat%20Auto%20Burp%20Auto%20Fart.lua")
 
 addscriptuniversal("Universal Invisible R15 or R6", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Invisible%20R%20or%20R.lua")
+
+addscriptuniversal("Universal Fly GUI", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Fly%20GUI.lua")
