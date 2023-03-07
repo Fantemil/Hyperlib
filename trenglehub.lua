@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:47:40"
+lastupdate = "GMT +1: 07.03.2023 21:47:44"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -3276,3 +3276,5 @@ addscriptexist(292439477, "Phantom Forces: Aimbot, FOV, Esp", "pulled from rbxsc
 addscriptexist(12996397, "Mega Fun Obby: Auto Complete Stages, Bagde Land, Walkspeed", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mega%20Fun%20Obby%20Auto%20Complete%20Stages%20Bagde%20Land%20Walkspeed.lua")
 
 addscriptexist(8908228901, "SharkBite 2: Player ESP, Teleport to Shark, Clear Water", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SharkBite%20%20Player%20ESP%20Teleport%20to%20Shark%20Clear%20Water.lua")
+
+addscriptexist(9872472334, "Evade: Auto Farm, Auto Respawn, Speed", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Evade%20Auto%20Farm%20Auto%20Respawn%20Speed.lua")
