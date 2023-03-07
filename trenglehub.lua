@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 22:27:34"
+lastupdate = "GMT +1: 07.03.2023 22:27:39"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -4366,3 +4366,5 @@ addscript(6846406540, "Current Game","Rob Mr Rich's Mansion Obby: Unlock all bad
 addscriptuniversal("Universal Giver Some Coil", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Giver%20Some%20Coil.lua")
 
 addscriptexist(9992339729, "Longest Answer Wins: Auto Farm, Anti Afk", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Longest%20Answer%20Wins%20Auto%20Farm%20Anti%20Afk.lua")
+
+addscriptexist(9848789324, "Ragdoll Engine: Teleports, Animations & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ragdoll%20Engine%20Teleports%20Animations%20%20More.lua")
