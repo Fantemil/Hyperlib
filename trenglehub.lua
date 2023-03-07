@@ -1305,3 +1305,4 @@ addscriptuniversal("Universal Simple webhook messenger", "pulled from rbxscript.
 addscript(12400504665, "Current Game","Hood Arena: Anti Slow, Esp, Aimlock", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Hood%20Arena%20Anti%20Slow%20Esp%20Aimlock.lua")
 
 addscriptuniversal("Name Hider | Universal Script", "pulled from rscripts", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Name%20Hider%20%20Universal%20Script.lua")
+addhub("Pickle Hub: 3 Games", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pickle%20Hub%20%20Games.lua")
