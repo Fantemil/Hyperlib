@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 22:16:09"
+lastupdate = "GMT +1: 07.03.2023 22:16:13"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -4060,3 +4060,5 @@ addscript(70005410, "Current Game","Blox Hunt: AutoFarm Tokens", "pulled from rb
 addscriptexist(286090429, "Arsenal: Aimbot", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Arsenal%20Aimbot.lua")
 
 addscript(233727153, "Current Game","Piano Keyboard: Auto Play Megalovania", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Piano%20Keyboard%20Auto%20Play%20Megalovania.lua")
+
+addscript(2130061659, "Current Game","Eat And Destroy: Auto Eat", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Eat%20And%20Destroy%20Auto%20Eat.lua")
