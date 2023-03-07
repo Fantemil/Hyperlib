@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 22:11:14"
+lastupdate = "GMT +1: 07.03.2023 22:11:18"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -3928,3 +3928,5 @@ addscriptexist(4913581664, "Cart Ride Into Rtide: Press All Buttons, Press All C
 addscript(6172932937, "Current Game","Energy Assault: Silent Aim, Kill All, Fly", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Energy%20Assault%20Silent%20Aim%20Kill%20All%20Fly.lua")
 
 addscriptexist(2788229376, "Da Hood: Press E to Lock Your Aim", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Da%20Hood%20Press%20E%20to%20Lock%20Your%20Aim.lua")
+
+addscriptexist(11040063484, "Sword Fighters Simulator: Auto Upgrade, Auto Hatch Eggs, Auto Farm Nearest", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sword%20Fighters%20Simulator%20Auto%20Upgrade%20Auto%20Hatch%20Eggs%20Auto%20Farm%20Nearest.lua")
