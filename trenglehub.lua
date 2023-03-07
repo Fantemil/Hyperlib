@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:12:57"
+lastupdate = "GMT +1: 07.03.2023 21:13:00"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -2318,3 +2318,5 @@ addscriptexist(10982284336, "Anime Idle Simulator: Unlimited Dps", "pulled from 
 addscriptexist(10673860069, "Horse Racing Club: Infinite Money, Infinite Exp, Auto Win Race & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Horse%20Racing%20Club%20Infinite%20Money%20Infinite%20Exp%20Auto%20Win%20Race%20%20More.lua")
 
 addscriptexist(8540346411, "Rebirth Champions X: Auto Collect", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Rebirth%20Champions%20X%20Auto%20Collect.lua")
+
+addscriptexist(2753915549, "Blox Fruits: Auto Farm, Fast Attack", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blox%20Fruits%20Auto%20Farm%20Fast%20Attack.lua")
