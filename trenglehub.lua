@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:46:00"
+lastupdate = "GMT +1: 07.03.2023 21:46:04"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -3230,3 +3230,5 @@ addscriptexist(606849621, "Jailbreak: Gun Mode, Give Items", "pulled from rbxscr
 addscriptexist(970962039, "Limited Time: Auto Collect Coins, Teleporter & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Limited%20Time%20Auto%20Collect%20Coins%20Teleporter%20%20More.lua")
 
 addscript(5987922834, "Current Game","Transfur Outbreak: Lag Servers", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Transfur%20Outbreak%20Lag%20Servers.lua")
+
+addscriptexist(11547613362, "Anime Fly Race: Collect Orbs, Auto Merge, Auto Rebirth", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime%20Fly%20Race%20Collect%20Orbs%20Auto%20Merge%20Auto%20Rebirth.lua")
