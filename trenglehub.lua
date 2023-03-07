@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 20:57:37"
+lastupdate = "GMT +1: 07.03.2023 20:57:44"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -1870,3 +1870,5 @@ addscriptexist(621129760, "Knife Ability Test: Walkspeed, Silent Aim, ESP", "pul
 addscriptexist(10596377987, "Bee Tycoon!: Auto Collect Honey", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Bee%20Tycoon%20Auto%20Collect%20Honey.lua")
 
 addscriptuniversal("Universal: Auto Click", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Auto%20Click.lua")
+
+addscriptexist(4490140733, "My Restaurant: Auto Farm, Teleport", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/My%20Restaurant%20Auto%20Farm%20Teleport.lua")
