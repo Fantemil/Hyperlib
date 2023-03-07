@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 12:38:16"
+lastupdate = "GMT +1: 07.03.2023 12:38:20"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -1185,3 +1185,5 @@ addscript(9049840490, "Current Game","Sonic Speed Simulator: Auto Rebirth, Infin
 addscriptuniversal("Universal Simple webhook messenger", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Simple%20webhook%20messenger.lua")
 
 addscript(12400504665, "Current Game","Hood Arena: Anti Slow, Esp, Aimlock", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Hood%20Arena%20Anti%20Slow%20Esp%20Aimlock.lua")
+
+addhub("Pickle Hub: 3 Games", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pickle%20Hub%20%20Games.lua")
