@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 12:34:59"
+lastupdate = "GMT +1: 07.03.2023 12:35:04"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -1093,3 +1093,5 @@ addscript(8916037983, "Current Game","starving artists: Redeem All Codes", "pull
 addscriptexist(3272915504, "Arcane Odyssey: Kill Aura, Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Arcane%20Odyssey%20Kill%20Aura%20Auto%20Farm.lua")
 
 addscript(6298464951, "Current Game","Roblox Is Unbreakable: Mob Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Roblox%20Is%20Unbreakable%20Mob%20Auto%20Farm.lua")
+
+addscriptexist(3272915504, "Arcane Odyssey: Auto Farm Chests", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Arcane%20Odyssey%20Auto%20Farm%20Chests.lua")
