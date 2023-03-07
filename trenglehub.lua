@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:45:12"
+lastupdate = "GMT +1: 07.03.2023 21:45:16"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -3206,3 +3206,5 @@ addscriptexist(8438158667, "Slide House Tumble: Auto Farm, Get Speed Coil, Disab
 addscriptexist(3101667897, "Legends Of Speed: Auto Get Steps, Auto Get Gems, Auto Rebirth", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Legends%20Of%20Speed%20Auto%20Get%20Steps%20Auto%20Get%20Gems%20Auto%20Rebirth.lua")
 
 addhub("Sycthe Hub: 5+ Games", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sycthe%20Hub%20%20Games.lua")
+
+addscriptexist(10704789056, "Drive World: Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Drive%20World%20Auto%20Farm.lua")
