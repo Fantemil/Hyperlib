@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 22:05:18"
+lastupdate = "GMT +1: 07.03.2023 22:05:22"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -3752,3 +3752,5 @@ addscriptexist(11430505281, "Anime Weapon Simulator: Auto Click, Auto Rank, Auto
 addscriptexist(9846056789, "PLS STEAL: Delete Cups, Restore Cups", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PLS%20STEAL%20Delete%20Cups%20Restore%20Cups.lua")
 
 addscriptexist(901793731, "D-DAY: Silent Aim, Godmode, Teleports", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DDAY%20Silent%20Aim%20Godmode%20Teleports.lua")
+
+addscriptexist(2971329387, "Cook Burgers: Teleports To Player, Interact, Teleports", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Cook%20Burgers%20Teleports%20To%20Player%20Interact%20Teleports.lua")
