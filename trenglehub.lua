@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 12:37:58"
+lastupdate = "GMT +1: 07.03.2023 12:38:02"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -1179,3 +1179,5 @@ addscriptexist(6516141723, "DOORS: ROOMS Auto Complete", "pulled from rbxscript.
 addscriptuniversal("Universal Block Builder", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Block%20Builder.lua")
 
 addscript(142823291, "Current Game","Murder Mystery 2: Esp, Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Murder%20Mystery%20%20Esp%20Auto%20Farm.lua")
+
+addscript(9049840490, "Current Game","Sonic Speed Simulator: Auto Rebirth, Infinity Exp", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sonic%20Speed%20Simulator%20Auto%20Rebirth%20Infinity%20Exp.lua")
