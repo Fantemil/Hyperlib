@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:53:50"
+lastupdate = "GMT +1: 07.03.2023 21:53:54"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -3454,3 +3454,5 @@ addhub("Fring Hub: 15+ Games", "pulled from rbxscript.com", "https://raw.githubu
 addscriptexist(11746859781, "Bubble Gum Clicker: Auto Click, Auto Sell, Auto Claim Rewards", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Bubble%20Gum%20Clicker%20Auto%20Click%20Auto%20Sell%20Auto%20Claim%20Rewards.lua")
 
 addscriptexist(3101667897, "Legends Of Speed: Auto Steps, Auto Rebirth, Auto Crystals", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Legends%20Of%20Speed%20Auto%20Steps%20Auto%20Rebirth%20Auto%20Crystals.lua")
+
+addscriptexist(3956818381, "Ninja Legends: Auto Sell, Auto Buy Belts & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ninja%20Legends%20Auto%20Sell%20Auto%20Buy%20Belts%20%20More.lua")
