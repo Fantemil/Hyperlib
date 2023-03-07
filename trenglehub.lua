@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 22:07:15"
+lastupdate = "GMT +1: 07.03.2023 22:07:18"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -3810,3 +3810,5 @@ addscriptexist(2248408710, "Destruction Simulator : Auto Farm", "pulled from rbx
 addhub("VHub: Fly, Kill Gui, Commands", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/VHub%20Fly%20Kill%20Gui%20Commands.lua")
 
 addscriptexist(970962039, "Limited Time: Emergency Stop, Give 9Qn Money", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Limited%20Time%20Emergency%20Stop%20Give%20Qn%20Money.lua")
+
+addscriptexist(6875469709, "STRONGEST PUNCH SIMULATOR: Auto Punch, Auto Farm, Auto Upg", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/STRONGEST%20PUNCH%20SIMULATOR%20Auto%20Punch%20Auto%20Farm%20Auto%20Upg.lua")
