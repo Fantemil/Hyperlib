@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 22:14:14"
+lastupdate = "GMT +1: 07.03.2023 22:14:18"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -4012,3 +4012,5 @@ addscript(155382109, "Current Game","Survive and Kill the Killers in Area 51: Gi
 addscriptexist(301549746, "Counter Blox: Silent Aim, Hitbox & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Counter%20Blox%20Silent%20Aim%20Hitbox%20%20More.lua")
 
 addhub("Gaming Hub: 40+ Games", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Gaming%20Hub%20%20Games.lua")
+
+addscriptexist(10925589760, "Merge Simulator: Auto Tap, Auto Merge, Auto Rebirth", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Merge%20Simulator%20Auto%20Tap%20Auto%20Merge%20Auto%20Rebirth.lua")
