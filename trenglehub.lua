@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 22:15:01"
+lastupdate = "GMT +1: 07.03.2023 22:15:05"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -4032,3 +4032,5 @@ addscriptexist(920587237, "Adopt Me: Instant Security Badge", "pulled from rbxsc
 addscriptexist(11430505281, "Anime Weapons Simulator: Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime%20Weapons%20Simulator%20Auto%20Farm.lua")
 
 addscript(10171072079, "Current Game","Operations: Siege: No recoil, Esp, Anto Vote Kick", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Operations%20Siege%20No%20recoil%20Esp%20Anto%20Vote%20Kick.lua")
+
+addscript(8579989858, "Current Game","Super Clicker Simulator: Auto Farm, Auto Rebirth & More!", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Super%20Clicker%20Simulator%20Auto%20Farm%20Auto%20Rebirth%20%20More.lua")
