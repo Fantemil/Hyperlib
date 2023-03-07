@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:21:44"
+lastupdate = "GMT +1: 07.03.2023 21:21:48"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -2560,3 +2560,5 @@ addscriptexist(379614936, "Assassin!: Silent Aim", "pulled from rbxscript.com", 
 addscript(7075737729, "Current Game","Hoop Central 6: Aimbot", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Hoop%20Central%20%20Aimbot.lua")
 
 addscriptexist(9655469250, "Earthscape Tycoon: Gun Mods", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Earthscape%20Tycoon%20Gun%20Mods.lua")
+
+addscriptexist(7253149844, "SCP Games and SCP Monsters: Fe Kill All Players", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SCP%20Games%20and%20SCP%20Monsters%20Fe%20Kill%20All%20Players.lua")
