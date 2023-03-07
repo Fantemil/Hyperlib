@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:58:31"
+lastupdate = "GMT +1: 07.03.2023 21:58:35"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -3560,3 +3560,5 @@ addscript(9824221333, "Current Game","Da Hood Aim Trainer: Low GFX, Fly & More",
 addhub("Oblivion Hub: Premium Version for Free", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Oblivion%20Hub%20Premium%20Version%20for%20Free.lua")
 
 addscript(3260590327, "Current Game","Tower Defense Simulator: Pizza Party Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tower%20Defense%20Simulator%20Pizza%20Party%20Auto%20Farm.lua")
+
+addscriptexist(3260590327, "Tower Defense Simulator: Molten Mode Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tower%20Defense%20Simulator%20Molten%20Mode%20Auto%20Farm.lua")
