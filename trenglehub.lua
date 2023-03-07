@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 22:21:01"
+lastupdate = "GMT +1: 07.03.2023 22:21:04"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -4204,3 +4204,5 @@ addscriptexist(11874473440, "Car Factory Tycoon: Auto Farm, Suto Update Cars, Au
 addscript(7830150255, "Current Game","HCBB 9v9 2.0: Auto Hit", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/HCBB%20v%20%20Auto%20Hit.lua")
 
 addscriptexist(11334163219, "Anime Power Simulator: Auto Farm, Auto Skill, Auto Summon", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime%20Power%20Simulator%20Auto%20Farm%20Auto%20Skill%20Auto%20Summon.lua")
+
+addscript(5712833750, "Current Game","Animal Simulator: Auto Give Coins, Auto Give Exp & More!", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Animal%20Simulator%20Auto%20Give%20Coins%20Auto%20Give%20Exp%20%20More.lua")
