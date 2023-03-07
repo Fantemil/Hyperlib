@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:59:08"
+lastupdate = "GMT +1: 07.03.2023 21:59:11"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -3578,3 +3578,5 @@ addscriptexist(2788229376, "Da Hood: Autofarm, Inf Stamina & More", "pulled from
 addscriptexist(6284583030, "Pet Simulator X: AutoFarm, Auto Egg & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pet%20Simulator%20X%20AutoFarm%20Auto%20Egg%20%20More.lua")
 
 addscriptexist(11606818992, "STEEP STEPS: Auto Farm Wins, Walkspeed & Jump Power Bypass", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/STEEP%20STEPS%20Auto%20Farm%20Wins%20Walkspeed%20%20Jump%20Power%20Bypass.lua")
+
+addscript(5409315202, "Current Game","Cook Burgers, but with 100 players: Troll GUI", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Cook%20Burgers%20but%20with%20%20players%20Troll%20GUI.lua")
