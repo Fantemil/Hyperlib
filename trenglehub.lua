@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 22:32:05"
+lastupdate = "GMT +1: 07.03.2023 22:32:09"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -4488,3 +4488,5 @@ addscriptexist(13822889, "Lumber Tycoon 2: Fly, Car Flight, Infinity Jumps", "pu
 addscriptuniversal("Universal ESP, Aimlock, Teleports", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20ESP%20Aimlock%20Teleports.lua")
 
 addscriptexist(621129760, "Knife Ability Test: FE Radio Bypasser", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Knife%20Ability%20Test%20FE%20Radio%20Bypasser.lua")
+
+addscript(1254185591, "Current Game","Dominus Lifting Simulator: Auto Clicker", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Dominus%20Lifting%20Simulator%20Auto%20Clicker.lua")
