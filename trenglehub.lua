@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:05:26"
+lastupdate = "GMT +1: 07.03.2023 21:05:31"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -2094,3 +2094,5 @@ addscript(12325279589, "Current Game","Head Fly Race: Auto Collect", "pulled fro
 addscriptexist(7336302630, "Project Delta: Silent Aim, Perfect Prediction", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Project%20Delta%20Silent%20Aim%20Perfect%20Prediction.lua")
 
 addscriptexist(7056922815, "Reaper 2: Auto Quest, Auto Skill & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Reaper%20%20Auto%20Quest%20Auto%20Skill%20%20More.lua")
+
+addscriptexist(6284583030, "Pet Simulator X: Auto Hatch Eggs, Auto Farm, Auto Conveyor", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pet%20Simulator%20X%20Auto%20Hatch%20Eggs%20Auto%20Farm%20Auto%20Conveyor.lua")
