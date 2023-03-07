@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:22:21"
+lastupdate = "GMT +1: 07.03.2023 21:22:25"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -2578,3 +2578,5 @@ addscriptuniversal("Universal Roblox Friend Botter [RoSMM]", "pulled from rbxscr
 addscriptexist(3101667897, "Legends Of Speed: Auto Rebirth, Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Legends%20Of%20Speed%20Auto%20Rebirth%20Auto%20Farm.lua")
 
 addscriptexist(7346416636, "Pop It Trading: Auto Buy, Server Crasher", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pop%20It%20Trading%20Auto%20Buy%20Server%20Crasher.lua")
+
+addscriptexist(11040063484, "Sword Fighters Simulator: Auto Click, Auto Ascend, Auto Equip Best Pets", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sword%20Fighters%20Simulator%20Auto%20Click%20Auto%20Ascend%20Auto%20Equip%20Best%20Pets.lua")
