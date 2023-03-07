@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:34:17"
+lastupdate = "GMT +1: 07.03.2023 21:34:20"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -2886,3 +2886,5 @@ addscriptexist(893973440, "Flee The Facility: Player Esp, Door Esp, Computer Esp
 addscriptexist(11620947043, "Flappy Clicker: Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Flappy%20Clicker%20Auto%20Farm.lua")
 
 addscriptexist(7056922815, "Reaper 2: Auto Farm Mobs, Bosses & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Reaper%20%20Auto%20Farm%20Mobs%20Bosses%20%20More.lua")
+
+addscriptexist(11196588443, "Zombie Merge Tycoon: Auto Collect Samples", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Zombie%20Merge%20Tycoon%20Auto%20Collect%20Samples.lua")
