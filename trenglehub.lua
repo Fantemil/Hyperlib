@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 22:09:30"
+lastupdate = "GMT +1: 07.03.2023 22:09:34"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -3878,3 +3878,5 @@ addscriptexist(286090429, "Arsenal: ESP, Aimbot, FOV", "pulled from rbxscript.co
 addscriptexist(11606818992, "STEEP STEPS: Teleports, FPS Booster & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/STEEP%20STEPS%20Teleports%20FPS%20Booster%20%20More.lua")
 
 addscriptuniversal("Universal Login GUI", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Login%20GUI.lua")
+
+addscriptexist(4282985734, "Combat Warriors: Kill Aura, Inf Jump, Anti Kick", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Combat%20Warriors%20Kill%20Aura%20Inf%20Jump%20Anti%20Kick.lua")
