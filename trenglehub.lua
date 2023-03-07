@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 22:00:32"
+lastupdate = "GMT +1: 07.03.2023 22:00:36"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -3614,3 +3614,5 @@ addscriptexist(11196588443, "Zombie Merge Tycoon: Auto Merge, Auto Deposit, Auto
 addscriptexist(4580204640, "Survive the Killer: ESP", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Survive%20the%20Killer%20ESP.lua")
 
 addscript(6186867282, "Current Game","Project XL: Auto Attack, Auto Dummy, Auto Mob", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Project%20XL%20Auto%20Attack%20Auto%20Dummy%20Auto%20Mob.lua")
+
+addscriptexist(11040063484, "Sword Fighters Simulator: Auto Buy Eggs, Auto Rank Up, Auto Click", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sword%20Fighters%20Simulator%20Auto%20Buy%20Eggs%20Auto%20Rank%20Up%20Auto%20Click.lua")
