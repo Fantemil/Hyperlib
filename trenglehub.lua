@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:33:51"
+lastupdate = "GMT +1: 07.03.2023 21:33:54"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -2874,3 +2874,5 @@ addscript(11877743732, "Current Game","Zombie Battle Tycoon: Hitbox, Auto Build,
 addhub("DR Tech Hub: 2 Games", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DR%20Tech%20Hub%20%20Games.lua")
 
 addhub("Universal pretend to be part of Blox Watch", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20pretend%20to%20be%20part%20of%20Blox%20Watch.lua")
+
+addhub("Universal FE Ball Roll", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20FE%20Ball%20Roll.lua")
