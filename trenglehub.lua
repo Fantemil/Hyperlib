@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:50:56"
+lastupdate = "GMT +1: 07.03.2023 21:51:00"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -3368,3 +3368,5 @@ addscriptexist(3956818381, "Ninja Legends: Auto Swing, Auto Sell, Auto Buy Belts
 addscriptexist(183364845, "Speed Run 4: Beat All Levels Loop and Not Loop, Speed", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Speed%20Run%20%20Beat%20All%20Levels%20Loop%20and%20Not%20Loop%20Speed.lua")
 
 addhub("ForRealium Hub: 4+ Games", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ForRealium%20Hub%20%20Games.lua")
+
+addhub("Universal Fling GUI", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Fling%20GUI.lua")
