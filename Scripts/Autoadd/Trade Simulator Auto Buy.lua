@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://gist.githubusercontent.com/dylaniscool54/deb0dde5f162fd28e030fc582179cf3b/raw/6b58037e3640bdcdf70bdab1d0f5f0e6ae9abbbe/tradesimbot", true))()
