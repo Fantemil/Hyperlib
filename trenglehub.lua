@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:41:41"
+lastupdate = "GMT +1: 07.03.2023 21:41:46"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -3102,3 +3102,5 @@ addscriptexist(301549746, "Counter Blox: Rapid Fire, Infinity Ammo, No Recoil", 
 addscript(137885680, "Current Game","Zombie Rush: Auto Farm, Auto Bring All, Aimbot", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Zombie%20Rush%20Auto%20Farm%20Auto%20Bring%20All%20Aimbot.lua")
 
 addscriptexist(2788229376, "Da Hood: Anti Afk", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Da%20Hood%20Anti%20Afk.lua")
+
+addscriptexist(6278885452, "Strong Katana Simulator: Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Strong%20Katana%20Simulator%20Auto%20Farm.lua")
