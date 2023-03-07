@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:31:35"
+lastupdate = "GMT +1: 07.03.2023 21:31:39"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -2808,3 +2808,5 @@ addscriptuniversal("Universal FE Jhon Doe", "pulled from rbxscript.com", "https:
 addscriptexist(2788229376, "Da Hood: Aim Lock, ESP & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Da%20Hood%20Aim%20Lock%20ESP%20%20More.lua")
 
 addscript(4522347649, "Current Game","FREE ADMIN: Adm Cmds", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FREE%20ADMIN%20Adm%20Cmds.lua")
+
+addscript(6808416928, "Current Game","AIMBLOX BETA: Aim Bot", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AIMBLOX%20BETA%20Aim%20Bot.lua")
