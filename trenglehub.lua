@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 22:13:29"
+lastupdate = "GMT +1: 07.03.2023 22:13:35"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -3992,3 +3992,5 @@ addscriptexist(5036207802, "RB Battles: Auto Farm Coins", "pulled from rbxscript
 addscriptexist(606849621, "Jailbreak: Inf Rocket Fuel", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Jailbreak%20Inf%20Rocket%20Fuel.lua")
 
 addscript(11639667117, "Current Game","Eat Same Color Food Challenge: Auto Collect Food, Instant Click, Walkspeed", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Eat%20Same%20Color%20Food%20Challenge%20Auto%20Collect%20Food%20Instant%20Click%20Walkspeed.lua")
+
+addscriptexist(5780309044, "Stands Awakening: Inf Rokakaka, Walkspeed & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Stands%20Awakening%20Inf%20Rokakaka%20Walkspeed%20%20More.lua")
