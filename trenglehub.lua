@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:02:59"
+lastupdate = "GMT +1: 07.03.2023 21:03:03"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -2022,3 +2022,5 @@ addscriptuniversal("Universal Animation Speed-Inator", "pulled from rbxscript.co
 addscriptexist(5989426850, "Transfur Infection 2: Walk Through Kill Barriers", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Transfur%20Infection%20%20Walk%20Through%20Kill%20Barriers.lua")
 
 addscript(12166287786, "Current Game","+1 Fat Every Second: Auto Rebirth, Auto Win, Walkspeed", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/%20Fat%20Every%20Second%20Auto%20Rebirth%20Auto%20Win%20Walkspeed.lua")
+
+addscript(11162791099, "Current Game","Free Hatchers: Auto Eggs, Auto Rebirth, Auto Equip Best", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Free%20Hatchers%20Auto%20Eggs%20Auto%20Rebirth%20Auto%20Equip%20Best.lua")
