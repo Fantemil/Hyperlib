@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 22:33:58"
+lastupdate = "GMT +1: 07.03.2023 22:34:03"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -4544,3 +4544,5 @@ addscriptexist(10704789056, "Drive World: Afk Cash Auto Farm", "pulled from rbxs
 addscript(10742364019, "Current Game","EGOIST Football: Auto Goal", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/EGOIST%20Football%20Auto%20Goal.lua")
 
 addscriptexist(5670218884, "Item Asylum: Item Esp", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Item%20Asylum%20Item%20Esp.lua")
+
+addscript(4829985161, "Current Game","Lookout Battle: Auto Collect Bones, Server Crasher & More!", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Lookout%20Battle%20Auto%20Collect%20Bones%20Server%20Crasher%20%20More.lua")
