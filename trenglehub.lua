@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 22:31:06"
+lastupdate = "GMT +1: 07.03.2023 22:31:13"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -4460,3 +4460,5 @@ addscriptexist(4616652839, "Shindo Life: Infinity Spins with options", "pulled f
 addscriptexist(4616652839, "Shindo Life: Infinity Spins", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Shindo%20Life%20Infinity%20Spins.lua")
 
 addscriptexist(11196588443, "Zombie Merge Tycoon: Kill Player", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Zombie%20Merge%20Tycoon%20Kill%20Player.lua")
+
+addscriptuniversal("Car Factory Tycoon: Op Auto Farm,Op Auto Upgrade", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Car%20Factory%20Tycoon%20Op%20Auto%20FarmOp%20Auto%20Upgrade.lua")
