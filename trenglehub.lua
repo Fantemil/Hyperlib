@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 15:46:33"
+lastupdate = "GMT +1: 07.03.2023 15:46:35"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -1259,3 +1259,5 @@ addscriptexist(6735572261, "Pilgrammed: Auto Attack, God Mode & More", "pulled f
 addscriptuniversal("Universal Dominus Builder", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Dominus%20Builder.lua")
 
 addscriptexist(2788229376, "Da Hood: Aimlock", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Da%20Hood%20Aimlock.lua")
+
+addscriptexist(3297964905, "Weaponry Kill All Script", "pulled from rscripts", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Weaponry%20Kill%20All%20Script.lua")
