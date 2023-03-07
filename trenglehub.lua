@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:16:42"
+lastupdate = "GMT +1: 07.03.2023 21:16:46"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -2424,3 +2424,5 @@ addscript(8209480473, "Current Game","Spotify Island: Auto Farm, Teleports, Walk
 addscriptexist(11746859781, "Bubble Gum Clicker: Auto Claim Reward, Auto Spin & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Bubble%20Gum%20Clicker%20Auto%20Claim%20Reward%20Auto%20Spin%20%20More.lua")
 
 addscript(4639625707, "Current Game","War Tycoon: Teleports, Godmode, Aimbot", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/War%20Tycoon%20Teleports%20Godmode%20Aimbot.lua")
+
+addscriptexist(8540346411, "Rebirth Champions X: Auto Rebirth, Auto Click", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Rebirth%20Champions%20X%20Auto%20Rebirth%20Auto%20Click.lua")
