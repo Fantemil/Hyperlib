@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:59:40"
+lastupdate = "GMT +1: 07.03.2023 21:59:45"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -3594,3 +3594,5 @@ addscriptexist(4508456371, "Shortest Answer Wins: Auto Type, Infinity Jumps, ESP
 addscript(10347946161, "Current Game","Rat Washing Tycoon: Auto Sell, Auto Collect & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Rat%20Washing%20Tycoon%20Auto%20Sell%20Auto%20Collect%20%20More.lua")
 
 addscriptexist(9872472334, "Evade: Fullbright, ESP, Godmode", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Evade%20Fullbright%20ESP%20Godmode.lua")
+
+addscriptexist(6403373529, "Slap Battles: Kill Aura, Anti Void, No Knockback", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Slap%20Battles%20Kill%20Aura%20Anti%20Void%20No%20Knockback.lua")
