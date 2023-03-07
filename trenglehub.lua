@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 20:56:15"
+lastupdate = "GMT +1: 07.03.2023 20:56:19"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -1830,3 +1830,5 @@ addscript(9737855826, "Current Game","Trade Simulator: Auto Buy", "pulled from r
 addscriptexist(2788229376, "Da Hood: Noclip, Aimlock, Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Da%20Hood%20Noclip%20Aimlock%20Auto%20Farm.lua")
 
 addscriptexist(8054462345, "Michael's Zombies: Esp, Knife Aura, Silent Aim", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Michaels%20Zombies%20Esp%20Knife%20Aura%20Silent%20Aim.lua")
+
+addscriptexist(3272915504, "Arcane Odyssey: Kill Aura, Farm Mobs", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Arcane%20Odyssey%20Kill%20Aura%20Farm%20Mobs.lua")
