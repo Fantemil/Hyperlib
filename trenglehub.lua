@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:53:28"
+lastupdate = "GMT +1: 07.03.2023 21:53:35"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -3444,3 +3444,5 @@ addscript(4572253581, "Current Game","MURDER: ESP", "pulled from rbxscript.com",
 addscript(5872075530, "Current Game","Anarchy: Silent Aim", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anarchy%20Silent%20Aim.lua")
 
 addscript(2636441885, "Current Game","Speed City: Auto Collect Orbs", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Speed%20City%20Auto%20Collect%20Orbs.lua")
+
+addscriptexist(9872472334, "Evade: Autofarm wins", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Evade%20Autofarm%20wins.lua")
