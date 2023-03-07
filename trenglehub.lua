@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 20:58:45"
+lastupdate = "GMT +1: 07.03.2023 20:58:48"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -1902,3 +1902,5 @@ addhub("Proxima Hub: 10+ Games", "pulled from rbxscript.com", "https://raw.githu
 addhub("Universal: Fly, Walkspeed, Noclip", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Fly%20Walkspeed%20Noclip.lua")
 
 addscriptexist(6741970382, "Zombie lab: Gun Mod", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Zombie%20lab%20Gun%20Mod.lua")
+
+addscriptexist(3956818381, "Ninja Legends: Auto Sell, Auto Swing & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ninja%20Legends%20Auto%20Sell%20Auto%20Swing%20%20More.lua")
