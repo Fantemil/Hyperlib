@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/XNEOFF/TP-TOOL/main/TP-TOOL.txt"))()
