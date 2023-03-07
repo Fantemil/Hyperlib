@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:28:22"
+lastupdate = "GMT +1: 07.03.2023 21:28:26"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -2720,3 +2720,5 @@ addscriptexist(292439477, "Phantom Forces: FOV, Aimbot, ESP", "pulled from rbxsc
 addscriptuniversal("Universal Speed hack, Gravity hack, Esp", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Speed%20hack%20Gravity%20hack%20Esp.lua")
 
 addscriptexist(2788229376, "Da Hood: Chat Bypasser", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Da%20Hood%20Chat%20Bypasser.lua")
+
+addscriptexist(2788229376, "Da Hood: No Slowdown", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Da%20Hood%20No%20Slowdown.lua")
