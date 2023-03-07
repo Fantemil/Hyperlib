@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 22:04:09"
+lastupdate = "GMT +1: 07.03.2023 22:04:13"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -3720,3 +3720,5 @@ addscriptexist(11400511154, "Monkey Tycoon: Auto Collect Bananas, Auto Deposit B
 addscriptexist(11874473440, "Car Factory Tycoon: Auto Farm, Auto Fill, Auto Sell", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Car%20Factory%20Tycoon%20Auto%20Farm%20Auto%20Fill%20Auto%20Sell.lua")
 
 addscriptexist(6516141723, "DOORS: Players Esp, Client Glow, Doors Esp,", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DOORS%20Players%20Esp%20Client%20Glow%20Doors%20Esp.lua")
+
+addscriptexist(2753915549, "Blox Fruits: Auto Farm, Tp island, Auto Stats", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blox%20Fruits%20Auto%20Farm%20Tp%20island%20Auto%20Stats.lua")
