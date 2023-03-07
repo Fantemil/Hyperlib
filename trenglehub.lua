@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 22:13:44"
+lastupdate = "GMT +1: 07.03.2023 22:13:47"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -3998,3 +3998,5 @@ addscriptexist(5780309044, "Stands Awakening: Inf Rokakaka, Walkspeed & More", "
 addhub("Tuber's Hubb: 5 Games", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tubers%20Hubb%20%20Games.lua")
 
 addscriptexist(990364410, "Survive the Night: Fly, Noclip, ESP", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Survive%20the%20Night%20Fly%20Noclip%20ESP.lua")
+
+addscriptexist(11156779721, "The Survival Game [BETA]: Infinite Stamina & Free Customization Gmps", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/The%20Survival%20Game%20BETA%20Infinite%20Stamina%20%20Free%20Customization%20Gmps.lua")
