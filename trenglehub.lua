@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 22:25:02"
+lastupdate = "GMT +1: 07.03.2023 22:25:07"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -4294,3 +4294,5 @@ addscriptexist(11156779721, "The Survival Game [BETA]: TSG.LUA", "pulled from rb
 addscript(10885451190, "Current Game","Undertale Simulated Approach: Insane Buffs", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Undertale%20Simulated%20Approach%20Insane%20Buffs.lua")
 
 addscriptuniversal("Universal FOV, Aimbot, ESP", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20FOV%20Aimbot%20ESP.lua")
+
+addscriptexist(11599913094, "Nuke Simulator: Auto Activate Boosts, Auto Shiny Nukes, Auto Rainbow Nukes", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Nuke%20Simulator%20Auto%20Activate%20Boosts%20Auto%20Shiny%20Nukes%20Auto%20Rainbow%20Nukes.lua")
