@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:00:25"
+lastupdate = "GMT +1: 07.03.2023 21:00:29"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -1950,3 +1950,5 @@ addscript(6353494961, "Current Game","Zombie Arena: Infinity Cash", "pulled from
 addscriptexist(6516141723, "DOORS: Press Q + Left Mouse click To Give Items", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DOORS%20Press%20Q%20%20Left%20Mouse%20click%20To%20Give%20Items.lua")
 
 addscriptexist(6284583030, "Pet Simulator X: Pet Sniper", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pet%20Simulator%20X%20Pet%20Sniper.lua")
+
+addscriptexist(4490140733, "My Restaurant: Auto-Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/My%20Restaurant%20AutoFarm.lua")
