@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 22:33:55"
+lastupdate = "GMT +1: 07.03.2023 22:33:58"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -4542,3 +4542,5 @@ addscriptexist(11939339894, "be a dad and get milk simulator: Get All Badges, Co
 addscriptexist(10704789056, "Drive World: Afk Cash Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Drive%20World%20Afk%20Cash%20Auto%20Farm.lua")
 
 addscript(10742364019, "Current Game","EGOIST Football: Auto Goal", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/EGOIST%20Football%20Auto%20Goal.lua")
+
+addscriptexist(5670218884, "Item Asylum: Item Esp", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Item%20Asylum%20Item%20Esp.lua")
