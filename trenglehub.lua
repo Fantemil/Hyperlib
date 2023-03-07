@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 12:34:33"
+lastupdate = "GMT +1: 07.03.2023 12:34:37"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -1083,3 +1083,5 @@ addscript(3255508650, "Current Game","brawl 2: God Mode", "pulled from rbxscript
 addscriptexist(9984770240, "Obby but you're a ball: Finish Medium Obby, Finish Easy Obby, Skip Level", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Obby%20but%20youre%20a%20ball%20Finish%20Medium%20Obby%20Finish%20Easy%20Obby%20Skip%20Level.lua")
 
 addscript(7664045612, "Current Game","Tiny Bread Factory: AutoFarm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tiny%20Bread%20Factory%20AutoFarm.lua")
+
+addscriptexist(3255508650, "brawl 2: Kill Aura", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/brawl%20%20Kill%20Aura.lua")
