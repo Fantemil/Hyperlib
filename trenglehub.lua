@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 22:14:49"
+lastupdate = "GMT +1: 07.03.2023 22:14:53"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -4026,3 +4026,5 @@ addscriptexist(5602055394, "Hood Modded: ESP, Silent Aim, Speedhack", "pulled fr
 addscriptexist(11302865934, "Every Second You Get +1 Health: Auto Health, Auto Win", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Every%20Second%20You%20Get%20%20Health%20Auto%20Health%20Auto%20Win.lua")
 
 addscript(6555368284, "Current Game","UNDERTALE [FIGHT]: Stamina Deleter, Hp Deleter & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/UNDERTALE%20FIGHT%20Stamina%20Deleter%20Hp%20Deleter%20%20More.lua")
+
+addscriptexist(920587237, "Adopt Me: Instant Security Badge", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Adopt%20Me%20Instant%20Security%20Badge.lua")
