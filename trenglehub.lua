@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:42:15"
+lastupdate = "GMT +1: 07.03.2023 21:42:19"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -3118,3 +3118,5 @@ addscriptexist(2788229376, "Da Hood: Fly, Noclip & More", "pulled from rbxscript
 addhub("Roblox: Silver Hub", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Roblox%20Silver%20Hub.lua")
 
 addscriptexist(621129760, "KAT: Silent Aim, WalkSpeed, Esp", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/KAT%20Silent%20Aim%20WalkSpeed%20Esp.lua")
+
+addscriptexist(2753915549, "Blox Fruits: Mirage Finder, Full Moon Finder Server Hop", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blox%20Fruits%20Mirage%20Finder%20Full%20Moon%20Finder%20Server%20Hop.lua")
