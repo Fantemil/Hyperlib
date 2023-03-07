@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 20:53:47"
+lastupdate = "GMT +1: 07.03.2023 20:53:51"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -1760,3 +1760,5 @@ addscriptexist(537413528, "Build A Boat For Treasure: AutoFarm Gold", "pulled fr
 addscript(9761112321, "Current Game","Survival Bruno the Encanto Movie Killer: Admin Cmds", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Survival%20Bruno%20the%20Encanto%20Movie%20Killer%20Admin%20Cmds.lua")
 
 addscriptuniversal("Universal Webhook Manager", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Webhook%20Manager.lua")
+
+addscriptexist(9872472334, "Evade: Auto Win, Auto Farm Valentines", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Evade%20Auto%20Win%20Auto%20Farm%20Valentines.lua")
