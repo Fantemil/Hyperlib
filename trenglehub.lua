@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:42:03"
+lastupdate = "GMT +1: 07.03.2023 21:42:07"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -3112,3 +3112,5 @@ addscriptexist(9498006165, "Tapping Simulator: Auto Farm, Auto Rebirth, Auto Egg
 addscript(8926741973, "Current Game","Backrooms GMod Map: Anti Trip, Respawn, Lightning Bolt", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Backrooms%20GMod%20Map%20Anti%20Trip%20Respawn%20Lightning%20Bolt.lua")
 
 addscriptexist(11040063484, "Sword Fighters Simulator: Auto Swing, Auto Ascend, Auto Equip Best Sword", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sword%20Fighters%20Simulator%20Auto%20Swing%20Auto%20Ascend%20Auto%20Equip%20Best%20Sword.lua")
+
+addscriptexist(2788229376, "Da Hood: Fly, Noclip & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Da%20Hood%20Fly%20Noclip%20%20More.lua")
