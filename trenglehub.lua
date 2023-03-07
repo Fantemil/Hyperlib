@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:48:42"
+lastupdate = "GMT +1: 07.03.2023 21:48:46"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -3308,3 +3308,5 @@ addscriptexist(292439477, "Phantom Forces: ESP, Hit Part, Keybinds", "pulled fro
 addscriptexist(5602055394, "Hood Modded: Aim Lock, Default FOV & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Hood%20Modded%20Aim%20Lock%20Default%20FOV%20%20More.lua")
 
 addscriptexist(8204899140, "Football Fusion 2: Auto TP, Silent Aim, Auto Jump", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Football%20Fusion%20%20Auto%20TP%20Silent%20Aim%20Auto%20Jump.lua")
+
+addscriptexist(2753915549, "Blox Fruits: Auto Farm Level, Auto Factory & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blox%20Fruits%20Auto%20Farm%20Level%20Auto%20Factory%20%20More.lua")
