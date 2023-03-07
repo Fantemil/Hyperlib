@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:48:38"
+lastupdate = "GMT +1: 07.03.2023 21:48:42"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -3306,3 +3306,5 @@ addscript(11270998580, "Current Game","MinerShaft: Kill aura, No fall damage, Sp
 addscriptexist(292439477, "Phantom Forces: ESP, Hit Part, Keybinds", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Phantom%20Forces%20ESP%20Hit%20Part%20Keybinds.lua")
 
 addscriptexist(5602055394, "Hood Modded: Aim Lock, Default FOV & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Hood%20Modded%20Aim%20Lock%20Default%20FOV%20%20More.lua")
+
+addscriptexist(8204899140, "Football Fusion 2: Auto TP, Silent Aim, Auto Jump", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Football%20Fusion%20%20Auto%20TP%20Silent%20Aim%20Auto%20Jump.lua")
