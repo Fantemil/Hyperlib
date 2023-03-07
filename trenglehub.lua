@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 22:13:17"
+lastupdate = "GMT +1: 07.03.2023 22:13:20"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -3986,3 +3986,5 @@ addscriptexist(5732973455, "HOURS: Gives all Characters, All Badges, Hitboxes", 
 addscriptexist(7991339063, "Rainbow Friends: Auto Feed Orange, Auto Farm, Cool Visual Functions", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Rainbow%20Friends%20Auto%20Feed%20Orange%20Auto%20Farm%20Cool%20Visual%20Functions.lua")
 
 addscriptexist(9848789324, "Ragdoll Engine: Teleports, No Fog & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ragdoll%20Engine%20Teleports%20No%20Fog%20%20More.lua")
+
+addscriptexist(5036207802, "RB Battles: Auto Farm Coins", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RB%20Battles%20Auto%20Farm%20Coins.lua")
