@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:34:28"
+lastupdate = "GMT +1: 07.03.2023 21:34:32"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -2892,3 +2892,5 @@ addscriptexist(11196588443, "Zombie Merge Tycoon: Auto Collect Samples", "pulled
 addscript(6125589657, "Current Game","Touch Football: Always Control Ball", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Touch%20Football%20Always%20Control%20Ball.lua")
 
 addscriptuniversal("Universal FE Nightmare Sans", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20FE%20Nightmare%20Sans.lua")
+
+addscript(10228777202, "Current Game","The Spinner: Auto Vote", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/The%20Spinner%20Auto%20Vote.lua")
