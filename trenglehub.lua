@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:17:15"
+lastupdate = "GMT +1: 07.03.2023 21:17:19"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -2432,3 +2432,5 @@ addscriptexist(6735572261, "Pilgrammed: Chest Farm", "pulled from rbxscript.com"
 addscriptexist(7732789524, "Neo Soccer League [DEMO]: Fling Every Ball", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Neo%20Soccer%20League%20DEMO%20Fling%20Every%20Ball.lua")
 
 addscriptexist(8908228901, "SharkBite 2: Teeth Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SharkBite%20%20Teeth%20Auto%20Farm.lua")
+
+addscriptexist(4639625707, "War Tycoon: Aimbot, Fly, Godmode", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/War%20Tycoon%20Aimbot%20Fly%20Godmode.lua")
