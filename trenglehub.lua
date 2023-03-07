@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:57:20"
+lastupdate = "GMT +1: 07.03.2023 21:57:25"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -3524,3 +3524,5 @@ addscriptexist(6918802270, "Project New World: Kill Aura, Farm Chest, Farm Mob",
 addscriptexist(142823291, "Murder Mystery 2: Auto Farm, Godmode, Invis god", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Murder%20Mystery%20%20Auto%20Farm%20Godmode%20Invis%20god.lua")
 
 addscriptexist(11701792069, "Snow Plow Simulator: Collect All Gems, Add Rebirths, Add Money", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Snow%20Plow%20Simulator%20Collect%20All%20Gems%20Add%20Rebirths%20Add%20Money.lua")
+
+addscriptexist(11302865934, "Every Second You Get +1 Health: Auto Wins, Auto Rebirth & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Every%20Second%20You%20Get%20%20Health%20Auto%20Wins%20Auto%20Rebirth%20%20More.lua")
