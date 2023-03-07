@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:40:37"
+lastupdate = "GMT +1: 07.03.2023 21:40:41"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -3070,3 +3070,5 @@ addscriptexist(1537690962, "Bee Swarm Simulator: Auto Dig, Auto Bubbles, Farm Fl
 addscriptexist(2866967438, "Fishing Simulator: Auto Fish, Tp, Walkspeed", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Fishing%20Simulator%20Auto%20Fish%20Tp%20Walkspeed.lua")
 
 addscriptexist(286090429, "Arsenal: 6+ Hubs", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Arsenal%20%20Hubs.lua")
+
+addscriptexist(9551640993, "Mining Simulator 2: Auto Farm, Auto Open Egg, Auto Buy", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mining%20Simulator%20%20Auto%20Farm%20Auto%20Open%20Egg%20Auto%20Buy.lua")
