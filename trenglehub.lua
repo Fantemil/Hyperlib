@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 22:06:27"
+lastupdate = "GMT +1: 07.03.2023 22:06:31"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -3786,3 +3786,5 @@ addscriptuniversal("Universal Auto Report", "pulled from rbxscript.com", "https:
 addscriptexist(8438158667, "Slide House Tumble: Auto Farm, Teleport to end", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Slide%20House%20Tumble%20Auto%20Farm%20Teleport%20to%20end.lua")
 
 addscript(8781849572, "Current Game","Star Simulator: Auto Farm, Auto Unlock", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Star%20Simulator%20Auto%20Farm%20Auto%20Unlock.lua")
+
+addscript(5041144419, "Current Game","SCP: Roleplay: Anti Afk, XP Farm, Noclip", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SCP%20Roleplay%20Anti%20Afk%20XP%20Farm%20Noclip.lua")
