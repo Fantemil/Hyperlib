@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 15:42:24"
+lastupdate = "GMT +1: 07.03.2023 15:42:25"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -1100,3 +1100,5 @@ addscriptexist(7952502098, "Impossible Glass Bridge Obby: Auto Win, Fly, Rejoin"
 addscriptuniversal("Universal ROSMM Key Bypass", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20ROSMM%20Key%20Bypass.lua")
 
 addscript(2413927524, "Current Game","The Rake REMASTERED: ESP", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/The%20Rake%20REMASTERED%20ESP.lua")
+
+addscript(9874911474,"Current Game", "Tha Bronx OP Script!", "pulled from rscripts", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tha%20Bronx%20OP%20Script.lua")
