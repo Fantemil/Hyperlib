@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:21:08"
+lastupdate = "GMT +1: 07.03.2023 21:21:12"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -2544,3 +2544,5 @@ addhub("Illumina: Hub 7 Games", "pulled from rbxscript.com", "https://raw.github
 addscriptexist(9796685905, "Super Hero Race Clicker: Auto Farm Wins, Free Gamepasses, More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Super%20Hero%20Race%20Clicker%20Auto%20Farm%20Wins%20Free%20Gamepasses%20More.lua")
 
 addscriptexist(7056922815, "Reaper 2: Auto Farm Mobs, Get Quests & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Reaper%20%20Auto%20Farm%20Mobs%20Get%20Quests%20%20More.lua")
+
+addscriptexist(5780309044, "Stands Awakening: Farm Items, Infinite Rokaka, Infinite Arrow", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Stands%20Awakening%20Farm%20Items%20Infinite%20Rokaka%20Infinite%20Arrow.lua")
