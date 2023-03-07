@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 22:07:52"
+lastupdate = "GMT +1: 07.03.2023 22:07:56"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -3828,3 +3828,5 @@ addscriptexist(9872472334, "Evade: Money Farm, Gift Farm, Auto Respawn", "pulled
 addhub("BatuhanG Hub: 17 Games", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BatuhanG%20Hub%20%20Games.lua")
 
 addscriptexist(11400511154, "Monkey Tycoon: Auto Collect, Deposit, Walkspeed", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Monkey%20Tycoon%20Auto%20Collect%20Deposit%20Walkspeed.lua")
+
+addscript(10898965735, "Current Game","Mine Racer: Auto Upgrade Dig, Auto Mine, Auto Join", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mine%20Racer%20Auto%20Upgrade%20Dig%20Auto%20Mine%20Auto%20Join.lua")
