@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:09:06"
+lastupdate = "GMT +1: 07.03.2023 21:09:10"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -2204,3 +2204,5 @@ addscriptexist(8821374215, "Saisei: Fast Swing, No Stun, Range OP", "pulled from
 addscriptexist(11746859781, "Bubble Gum Clicker: Auto Spin Wheel, Auto Click, Auto Claim Daily", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Bubble%20Gum%20Clicker%20Auto%20Spin%20Wheel%20Auto%20Click%20Auto%20Claim%20Daily.lua")
 
 addscriptexist(6735572261, "Pilgrammed: Auto ore mine", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pilgrammed%20Auto%20ore%20mine.lua")
+
+addhub("Gaming Script Hub: 51 Games", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Gaming%20Script%20Hub%20%20Games.lua")
