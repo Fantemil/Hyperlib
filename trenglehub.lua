@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 22:20:03"
+lastupdate = "GMT +1: 07.03.2023 22:20:09"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -4176,3 +4176,5 @@ addscriptexist(2788229376, "Da Hood: Buy Items, Fly & More", "pulled from rbxscr
 addscriptexist(1537690962, "Bee Swarm Simulator: Paper Plants Dupe", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Bee%20Swarm%20Simulator%20Paper%20Plants%20Dupe.lua")
 
 addscriptexist(12113006580, "NCT 127 World: Auto Coins", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NCT%20%20World%20Auto%20Coins.lua")
+
+addscriptexist(6728870912, "World of Stands: Chest Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/World%20of%20Stands%20Chest%20Farm.lua")
