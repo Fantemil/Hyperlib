@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:20:18"
+lastupdate = "GMT +1: 07.03.2023 21:20:22"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -2520,3 +2520,5 @@ addscriptexist(7732789524, "Neo Soccer League: Instantly Goals", "pulled from rb
 addscriptexist(2474168535, "Westbound: Auto Farm, Silent Aim, Gun Mods & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Westbound%20Auto%20Farm%20Silent%20Aim%20Gun%20Mods%20%20More.lua")
 
 addscript(11364184405, "Current Game","Super Fun Obby 500 Stages: Auto Complete", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Super%20Fun%20Obby%20%20Stages%20Auto%20Complete.lua")
+
+addscriptexist(11162791099, "Free Hatchers: Auto Farm, Auto Egg, More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Free%20Hatchers%20Auto%20Farm%20Auto%20Egg%20More.lua")
