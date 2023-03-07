@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 20:56:58"
+lastupdate = "GMT +1: 07.03.2023 20:57:02"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -1852,3 +1852,5 @@ addscript(10087074695, "Current Game","Knife Strife: Reach, Kill All, Instant Ki
 addscript(9862832367, "Current Game","Never-Ending Cart Ride: Inf Studs", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NeverEnding%20Cart%20Ride%20Inf%20Studs.lua")
 
 addscriptexist(6728870912, "World of Stands: Auto Skills, Auto Farm Player, Chest ESP", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/World%20of%20Stands%20Auto%20Skills%20Auto%20Farm%20Player%20Chest%20ESP.lua")
+
+addscriptexist(2753915549, "Blox Fruits: Fruit Mastery, Auto Farm & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blox%20Fruits%20Fruit%20Mastery%20Auto%20Farm%20%20More.lua")
