@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:44:25"
+lastupdate = "GMT +1: 07.03.2023 21:44:28"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -3182,3 +3182,5 @@ addscriptexist(9224601490, "Fruit Battlegrounds: Auto Farm", "pulled from rbxscr
 addscriptexist(12142833213, "Trampoline Towers: Auto Farm Wins", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Trampoline%20Towers%20Auto%20Farm%20Wins.lua")
 
 addscriptexist(6728870912, "World Of Stands: Auto Farm Mob, World Chest Farm, Auto M1", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/World%20Of%20Stands%20Auto%20Farm%20Mob%20World%20Chest%20Farm%20Auto%20M.lua")
+
+addscriptexist(6777872443, "Pixel Piece: Get Fruits, Auto Farm, Auto Quest & More!", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pixel%20Piece%20Get%20Fruits%20Auto%20Farm%20Auto%20Quest%20%20More.lua")
