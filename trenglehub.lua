@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:26:59"
+lastupdate = "GMT +1: 07.03.2023 21:27:08"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -2682,3 +2682,5 @@ addscript(5036207802, "Current Game","RB Battles: Auto Bomb", "pulled from rbxsc
 addscriptuniversal("Universal Aimlock", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Aimlock.lua")
 
 addscriptexist(11939339894, "be a dad and get milk simulator: Auto Collect Money", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/be%20a%20dad%20and%20get%20milk%20simulator%20Auto%20Collect%20Money.lua")
+
+addscriptexist(6741970382, "Zombie lab: Kill All", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Zombie%20lab%20Kill%20All.lua")
