@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 20:57:18"
+lastupdate = "GMT +1: 07.03.2023 20:57:22"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -1862,3 +1862,5 @@ addscriptexist(7305309231, "Taxi Boss: Anti Afk, Auto Farm, Options", "pulled fr
 addscript(2581070838, "Current Game","Connect 4: EMP", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Connect%20%20EMP.lua")
 
 addscriptuniversal("Universal FE Eat Self Hats", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20FE%20Eat%20Self%20Hats.lua")
+
+addscriptexist(2753915549, "Blox Fruits: Teleports, Auto Farm & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blox%20Fruits%20Teleports%20Auto%20Farm%20%20More.lua")
