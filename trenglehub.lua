@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:25:00"
+lastupdate = "GMT +1: 07.03.2023 21:25:04"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -2626,3 +2626,5 @@ addscriptexist(10358162137, "Demon Slayer Weak Legacy [BETA]: 100k Yen", "pulled
 addscriptexist(6679968919, "Fly Race!: Get +1 Million Wins", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Fly%20Race%20Get%20%20Million%20Wins.lua")
 
 addscriptexist(9992339729, "Longest Answer Wins: Auto Answer Each Question", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Longest%20Answer%20Wins%20Auto%20Answer%20Each%20Question.lua")
+
+addscriptexist(11196588443, "Zombie Merge Tycoon: Kill All Players & Zombies", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Zombie%20Merge%20Tycoon%20Kill%20All%20Players%20%20Zombies.lua")
