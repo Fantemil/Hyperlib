@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 22:08:45"
+lastupdate = "GMT +1: 07.03.2023 22:08:48"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -3854,3 +3854,5 @@ addscriptexist(142823291, "Murder Mystery 2: Kill All, Unlock Emotes, Esp", "pul
 addscriptexist(11400511154, "Monkey Tycoon: Auto Buy Monkey, Auto Sell, Auto Upgrade", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Monkey%20Tycoon%20Auto%20Buy%20Monkey%20Auto%20Sell%20Auto%20Upgrade.lua")
 
 addscriptexist(2753915549, "Blox Fruits: ADMINUS Devil Fruit Finder", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blox%20Fruits%20ADMINUS%20Devil%20Fruit%20Finder.lua")
+
+addscript(10675066724, "Current Game","Slime Tower Tycoon: Auto Collect Droptels, Auto Deposit, Auto Buy", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Slime%20Tower%20Tycoon%20Auto%20Collect%20Droptels%20Auto%20Deposit%20Auto%20Buy.lua")
