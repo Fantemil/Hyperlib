@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 22:21:38"
+lastupdate = "GMT +1: 07.03.2023 22:21:41"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -4224,3 +4224,5 @@ addscriptexist(11251823801, "Slap battles but bad: Table Spam, Fire Spam, Bomb S
 addscriptuniversal("Universal Time Freeze, Infinity Jumps, Bypassed Fly", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Time%20Freeze%20Infinity%20Jumps%20Bypassed%20Fly.lua")
 
 addscriptuniversal("Universal Fullbright", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Fullbright.lua")
+
+addscript(11087359821, "Current Game","Rob A Jewellery Store: Speed Coil, Gravity Coil", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Rob%20A%20Jewellery%20Store%20Speed%20Coil%20Gravity%20Coil.lua")
