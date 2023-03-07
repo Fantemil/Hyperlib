@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 22:31:28"
+lastupdate = "GMT +1: 07.03.2023 22:31:32"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -4470,3 +4470,5 @@ addscriptexist(10118559731, "nico's nextbots: Auto Farm, Walkspeed, Infinity Jum
 addscriptuniversal("Universal Rizzer GUI", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Rizzer%20GUI.lua")
 
 addscriptexist(12113006580, "NCT 127 World: Auto Collect", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NCT%20%20World%20Auto%20Collect.lua")
+
+addscriptexist(12017032683, "096 [SCP]: Unlock View, Fullbright, Scp and Player Esp", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/%20SCP%20Unlock%20View%20Fullbright%20Scp%20and%20Player%20Esp.lua")
