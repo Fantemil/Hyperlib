@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:55:43"
+lastupdate = "GMT +1: 07.03.2023 21:55:46"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -3476,3 +3476,5 @@ addscript(7265151852, "Current Game","Lost Kingdom Tycoon: Auto Farm", "pulled f
 addscriptexist(2788229376, "Da Hood: Auto Farm Money, Bounty Farm & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Da%20Hood%20Auto%20Farm%20Money%20Bounty%20Farm%20%20More.lua")
 
 addscriptexist(2788229376, "Da Hood: ESP, Go To & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Da%20Hood%20ESP%20Go%20To%20%20More.lua")
+
+addscriptexist(142823291, "Murder Mystery 2: Huge Leg Kill All, Silent Aim", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Murder%20Mystery%20%20Huge%20Leg%20Kill%20All%20Silent%20Aim.lua")
