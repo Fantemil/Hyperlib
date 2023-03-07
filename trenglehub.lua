@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:19:08"
+lastupdate = "GMT +1: 07.03.2023 21:19:12"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -2486,3 +2486,5 @@ addscriptuniversal("Universal Press E To Gravity", "pulled from rbxscript.com", 
 addscriptexist(2753915549, "Blox Fruits: Auto Buy, Auto-Farm, Teleports", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blox%20Fruits%20Auto%20Buy%20AutoFarm%20Teleports.lua")
 
 addscriptexist(155615604, "Prison Life: Silent Aim", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Prison%20Life%20Silent%20Aim.lua")
+
+addscriptexist(8750997647, "Tapping Legends X: Auto Tap, Auto Rebirth", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tapping%20Legends%20X%20Auto%20Tap%20Auto%20Rebirth.lua")
