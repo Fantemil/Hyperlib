@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:00:41"
+lastupdate = "GMT +1: 07.03.2023 21:00:45"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -1958,3 +1958,5 @@ addscriptexist(6735572261, "Pilgrammed: Fly, Speed & More", "pulled from rbxscri
 addscriptexist(2788229376, "Da Hood: RTX, Chat Spy, Trash Talk", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Da%20Hood%20RTX%20Chat%20Spy%20Trash%20Talk.lua")
 
 addscript(11815999225, "Current Game","Streak Swords: Admin Panel", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Streak%20Swords%20Admin%20Panel.lua")
+
+addscriptexist(7732789524, "Neo Soccer League: Auto Win", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Neo%20Soccer%20League%20Auto%20Win.lua")
