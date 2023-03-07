@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 15:43:44"
+lastupdate = "GMT +1: 07.03.2023 15:43:47"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -1153,3 +1153,5 @@ addscriptuniversal("Universal click tp script", "pulled from rscripts", "https:/
 addscript(2548157192, "Current Game","Funeral Home and Graveyard: Admin Panel", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Funeral%20Home%20and%20Graveyard%20Admin%20Panel.lua")
 
 addscriptexist(9872472334, "Evade: Auto Win, Teleport Method, Wallpapers", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Evade%20Auto%20Win%20Teleport%20Method%20Wallpapers.lua")
+
+addscriptexist(6284583030, "Pet Simulator X: Visual Pets", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pet%20Simulator%20X%20Visual%20Pets.lua")
