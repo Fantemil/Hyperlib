@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 22:08:04"
+lastupdate = "GMT +1: 07.03.2023 22:08:08"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -3834,3 +3834,5 @@ addscript(10898965735, "Current Game","Mine Racer: Auto Upgrade Dig, Auto Mine, 
 addscriptexist(11040063484, "Sword Fighters Simulator: Auto Collect Coins, Kill Aura, Auto Farm Mobs", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sword%20Fighters%20Simulator%20Auto%20Collect%20Coins%20Kill%20Aura%20Auto%20Farm%20Mobs.lua")
 
 addscriptexist(142823291, "Murder Mystery 2: OP Inventory", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Murder%20Mystery%20%20OP%20Inventory.lua")
+
+addscriptexist(10462101644, "Tall Man Run: Kick All, Server Hop", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tall%20Man%20Run%20Kick%20All%20Server%20Hop.lua")
