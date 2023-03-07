@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:30:11"
+lastupdate = "GMT +1: 07.03.2023 21:30:15"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -2770,3 +2770,5 @@ addscriptexist(8908228901, "SharkBite 2 : Auto Farm", "pulled from rbxscript.com
 addhub("Trophy Hub", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Trophy%20Hub.lua")
 
 addhub("Universal Animations, Anti Void, Hats", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Animations%20Anti%20Void%20Hats.lua")
+
+addscript(8216196965, "Current Game","Touch Soccer League: tossing each ball", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Touch%20Soccer%20League%20tossing%20each%20ball.lua")
