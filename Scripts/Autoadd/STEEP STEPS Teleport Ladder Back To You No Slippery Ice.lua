@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/iCuckyDev/RobloxScripts/main/Steep%20Steps"))()
