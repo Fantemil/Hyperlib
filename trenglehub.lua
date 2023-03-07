@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:36:58"
+lastupdate = "GMT +1: 07.03.2023 21:37:02"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -2966,3 +2966,5 @@ addscript(5704070545, "Current Game","The Flappy Men: Get 198 Level", "pulled fr
 addscriptexist(8054462345, "Michael's Zombies: ESP, Walkspeed, Auto Reload", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Michaels%20Zombies%20ESP%20Walkspeed%20Auto%20Reload.lua")
 
 addscript(11820706086, "Current Game","Project Playtime Multiplayer: Grab All, Instant Press, ESP", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Project%20Playtime%20Multiplayer%20Grab%20All%20Instant%20Press%20ESP.lua")
+
+addhub("Crazy Hub: 3 Games", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Crazy%20Hub%20%20Games.lua")
