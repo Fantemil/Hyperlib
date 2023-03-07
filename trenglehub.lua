@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:31:06"
+lastupdate = "GMT +1: 07.03.2023 21:31:10"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -2794,3 +2794,5 @@ addscript(6036526055, "Current Game","Westeros World: Kill Aura, Anti Afk, FOV",
 addscriptexist(155615604, "Prison Life: Kill All, Walkspeed & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Prison%20Life%20Kill%20All%20Walkspeed%20%20More.lua")
 
 addscript(6037246466, "Current Game","Offensive: Kill Aura, FPS Booster & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Offensive%20Kill%20Aura%20FPS%20Booster%20%20More.lua")
+
+addscriptexist(155615604, "Prison Life: Aimbot, Kill All, FOV", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Prison%20Life%20Aimbot%20Kill%20All%20FOV.lua")
