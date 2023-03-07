@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:14:26"
+lastupdate = "GMT +1: 07.03.2023 21:14:30"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -2360,3 +2360,5 @@ addscriptexist(11929558254, "+1 Per Second: Worlds Auto Farm, TP To Rebirth Plac
 addscriptexist(8568266872, "Kill Monsters to Save Princess: Auto Farm, Auto Egg, Auto Skill", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Kill%20Monsters%20to%20Save%20Princess%20Auto%20Farm%20Auto%20Egg%20Auto%20Skill.lua")
 
 addscriptexist(7560156054, "Clicker Simulator: Collect Hearts", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Clicker%20Simulator%20Collect%20Hearts.lua")
+
+addscriptexist(2866967438, "Fishing Simulator: Auto Fish, Auto Collect, Auto Buy & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Fishing%20Simulator%20Auto%20Fish%20Auto%20Collect%20Auto%20Buy%20%20More.lua")
