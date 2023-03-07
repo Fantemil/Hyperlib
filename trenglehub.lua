@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:32:26"
+lastupdate = "GMT +1: 07.03.2023 21:32:30"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -2832,3 +2832,5 @@ addscriptexist(6516141723, "DOORS: Key Chams, Mob Notifier & More", "pulled from
 addscriptexist(4924922222, "Brookhaven RP: Infinitely Big And Small", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Brookhaven%20RP%20Infinitely%20Big%20And%20Small.lua")
 
 addscriptexist(11696117193, "High Rollers Casino & Resort Map: Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/High%20Rollers%20Casino%20%20Resort%20Map%20Auto%20Farm.lua")
+
+addscript(2512643572, "Current Game","Bubble Gun Simulator: Auto Blow, Auto Sell, Auto Upgrade All & More!", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Bubble%20Gun%20Simulator%20Auto%20Blow%20Auto%20Sell%20Auto%20Upgrade%20All%20%20More.lua")
