@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:20:09"
+lastupdate = "GMT +1: 07.03.2023 21:20:14"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -2516,3 +2516,5 @@ addscriptexist(6735572261, "Pilgrammed: Ore Esp, Player Esp", "pulled from rbxsc
 addscript(885450884, "Current Game","The Grand Crossing Border Roleplay: Troll Features, Auto Farm & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/The%20Grand%20Crossing%20Border%20Roleplay%20Troll%20Features%20Auto%20Farm%20%20More.lua")
 
 addscriptexist(7732789524, "Neo Soccer League: Instantly Goals", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Neo%20Soccer%20League%20Instantly%20Goals.lua")
+
+addscriptexist(2474168535, "Westbound: Auto Farm, Silent Aim, Gun Mods & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Westbound%20Auto%20Farm%20Silent%20Aim%20Gun%20Mods%20%20More.lua")
