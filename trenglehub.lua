@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 22:19:29"
+lastupdate = "GMT +1: 07.03.2023 22:19:32"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -4158,3 +4158,5 @@ addscriptexist(4566572536, "Vehicle Legends: Anchor Vehicle, Speed Boost Multipl
 addscriptexist(3351674303, "Driving Empire: Platform Height, Drive on Platform & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Driving%20Empire%20Platform%20Height%20Drive%20on%20Platform%20%20More.lua")
 
 addscriptexist(7305309231, "Taxi Boss: TweenService Speed, Teleport to Saved Position & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Taxi%20Boss%20TweenService%20Speed%20Teleport%20to%20Saved%20Position%20%20More.lua")
+
+addhub("Universal Hub: 3+ Games", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Hub%20%20Games.lua")
