@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 15:42:29"
+lastupdate = "GMT +1: 07.03.2023 15:42:33"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -1103,3 +1103,5 @@ addscript(2413927524, "Current Game","The Rake REMASTERED: ESP", "pulled from rb
 
 addscript(9874911474,"Current Game", "Tha Bronx OP Script!", "pulled from rscripts", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tha%20Bronx%20OP%20Script.lua")
 addhub("X333 Hub: 5+ Games", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/X%20Hub%20%20Games.lua")
+
+addscript(6193049807, "Current Game","Tha Hood: Inf Jumps, Force Reset & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tha%20Hood%20Inf%20Jumps%20Force%20Reset%20%20More.lua")
