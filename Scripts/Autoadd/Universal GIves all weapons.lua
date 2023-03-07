@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/NICKISBAD/UtmmGUI2/main/main"))()
