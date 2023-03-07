@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:07:05"
+lastupdate = "GMT +1: 07.03.2023 21:07:09"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -2144,3 +2144,5 @@ addscriptexist(11063612131, "Every Second You Get +1 Jump Power: Auto Farm, Auto
 addscriptexist(6516141723, "DOORS: Instant Interact, Auto Skip Level & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DOORS%20Instant%20Interact%20Auto%20Skip%20Level%20%20More.lua")
 
 addscript(12142833213, "Current Game","Trampoline Towers: Farm Wins", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Trampoline%20Towers%20Farm%20Wins.lua")
+
+addscriptexist(3101667897, "Legends Of Speed: Auto Rebirth, Auto Get Steps, Auto Get Gems", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Legends%20Of%20Speed%20Auto%20Rebirth%20Auto%20Get%20Steps%20Auto%20Get%20Gems.lua")
