@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:59:53"
+lastupdate = "GMT +1: 07.03.2023 21:59:57"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -3600,3 +3600,5 @@ addscriptexist(6403373529, "Slap Battles: Kill Aura, Anti Void, No Knockback", "
 addhub("Distic Hub: 5+ Games", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Distic%20Hub%20%20Games.lua")
 
 addscriptexist(11196588443, "Zombie Merge Tycoon: Kill Boss", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Zombie%20Merge%20Tycoon%20Kill%20Boss.lua")
+
+addscriptuniversal("Universal send everyone friend request", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20send%20everyone%20friend%20request.lua")
