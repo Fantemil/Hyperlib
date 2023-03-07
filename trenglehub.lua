@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:53:10"
+lastupdate = "GMT +1: 07.03.2023 21:53:13"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -3434,3 +3434,5 @@ addscriptexist(9498006165, "Tapping Simulator: Auto Upgrade, Auto Rebirth & More
 addscriptuniversal("Universal Trigger Bot", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Trigger%20Bot.lua")
 
 addscriptexist(4616652839, "Shindo Life: Infinity Spins all 4 slots", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Shindo%20Life%20Infinity%20Spins%20all%20%20slots.lua")
+
+addscriptexist(2753915549, "Blox Fruits: Auto Farm Bone, Auto Farm Level, Auto Saber", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blox%20Fruits%20Auto%20Farm%20Bone%20Auto%20Farm%20Level%20Auto%20Saber.lua")
