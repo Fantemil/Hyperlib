@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/ProjectLightningDev/Project-Lightning-Loader/main/Loader.Lua"))()
+loadstring(game:HttpGet('https://scripts.luawl.com/16001/AdminusFreeVersion.lua'))()
