@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:11:51"
+lastupdate = "GMT +1: 07.03.2023 21:11:55"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -2286,3 +2286,5 @@ addscriptexist(142823291, "Murder Mystery 2: Esp", "pulled from rbxscript.com", 
 addscriptexist(2753915549, "Blox Fruits: Auto Farm, Auto Raid, Fruit Mastery", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blox%20Fruits%20Auto%20Farm%20Auto%20Raid%20Fruit%20Mastery.lua")
 
 addscriptexist(6516141723, "DOORS: Impossible Mode", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DOORS%20Impossible%20Mode.lua")
+
+addscriptexist(2753915549, "Blox Fruits: Teleports, Server Hop & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blox%20Fruits%20Teleports%20Server%20Hop%20%20More.lua")
