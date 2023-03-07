@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 22:19:40"
+lastupdate = "GMT +1: 07.03.2023 22:19:44"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -4164,3 +4164,5 @@ addhub("Universal Hub: 3+ Games", "pulled from rbxscript.com", "https://raw.gith
 addscript(488667523, "Current Game","Those Who Remain: Silent Aim, Wallbang", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Those%20Who%20Remain%20Silent%20Aim%20Wallbang.lua")
 
 addscript(11998813375, "Current Game","Calistreets: Box Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Calistreets%20Box%20Auto%20Farm.lua")
+
+addscriptuniversal("Universal FE invisible plane", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20FE%20invisible%20plane.lua")
