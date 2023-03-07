@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 12:31:46"
+lastupdate = "GMT +1: 07.03.2023 12:31:50"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -1001,3 +1001,5 @@ addscript(10599426741, "Current Game","Zach's Service Station: Auto Farm", "pull
 addscriptexist(11818704485, "+1 Damage Every Second: bring all mobs zone", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/%20Damage%20Every%20Second%20bring%20all%20mobs%20zone.lua")
 
 addscript(9938675423, "Current Game","Oaklands: Infinity Stamina", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Oaklands%20Infinity%20Stamina.lua")
+
+addscriptexist(6679968919, "Fly Race: Auto Rebirth, Auto Stud & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Fly%20Race%20Auto%20Rebirth%20Auto%20Stud%20%20More.lua")
