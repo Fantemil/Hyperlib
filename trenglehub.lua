@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:17:36"
+lastupdate = "GMT +1: 07.03.2023 21:17:40"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -2442,3 +2442,5 @@ addscriptuniversal("Universal FE Hat Spin", "pulled from rbxscript.com", "https:
 addscriptuniversal("Solarium Hub: 1 Game", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Solarium%20Hub%20%20Game.lua")
 
 addscriptexist(11939099110, "Ski Race: Auto Farm Trophies", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ski%20Race%20Auto%20Farm%20Trophies.lua")
+
+addscript(901793731, "Current Game","D-DAY: Silent Aim", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DDAY%20Silent%20Aim.lua")
