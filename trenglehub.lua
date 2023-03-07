@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 22:02:15"
+lastupdate = "GMT +1: 07.03.2023 22:02:19"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -3664,3 +3664,5 @@ addscript(3964975083, "Current Game","Build to survive: Remove Cages, Remove Mob
 addscript(5895971007, "Current Game","Allusions: Hitboxes, Walkspeed Slider", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Allusions%20Hitboxes%20Walkspeed%20Slider.lua")
 
 addscript(9043532917, "Current Game","Ramp Jumping - On sports cars: Go to player, Bald, Kill", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ramp%20Jumping%20%20On%20sports%20cars%20Go%20to%20player%20Bald%20Kill.lua")
+
+addscriptuniversal("Universal Vehicle GUI", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Vehicle%20GUI.lua")
