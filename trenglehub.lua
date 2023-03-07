@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:56:49"
+lastupdate = "GMT +1: 07.03.2023 21:56:53"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -3508,3 +3508,5 @@ addscriptexist(11040063484, "Sword Fighters Simulator: Auto Click, Auto Ascend, 
 addscriptexist(23578803, "Hotel Elephant: Game breaking", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Hotel%20Elephant%20Game%20breaking.lua")
 
 addscriptexist(185655149, "Welcome to Bloxburg: Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Welcome%20to%20Bloxburg%20Auto%20Farm.lua")
+
+addscriptexist(11800876530, "+1 Blocks Every Second: Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/%20Blocks%20Every%20Second%20Auto%20Farm.lua")
