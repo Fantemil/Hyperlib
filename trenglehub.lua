@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 22:20:34"
+lastupdate = "GMT +1: 07.03.2023 22:20:38"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -4190,3 +4190,5 @@ addscriptexist(11746859781, "Bubble Gum Clicker: Auto Farm, Auto Bubble, Auto Se
 addscriptexist(4282985734, "Combat Warriors: Kill Aura, Auto Parry, Anti Parry", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Combat%20Warriors%20Kill%20Aura%20Auto%20Parry%20Anti%20Parry.lua")
 
 addscriptexist(9825515356, "Hood Customs: Aimbot & Target Hud", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Hood%20Customs%20Aimbot%20%20Target%20Hud.lua")
+
+addscriptexist(5865858426, "Retail Tycoon 2: Auto Buy, Car Speed, Walkspeed", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Retail%20Tycoon%20%20Auto%20Buy%20Car%20Speed%20Walkspeed.lua")
