@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:44:54"
+lastupdate = "GMT +1: 07.03.2023 21:44:59"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -3198,3 +3198,5 @@ addscript(4841699106, "Current Game","Siren Head Rebirth: Fullbright, Walkspeed,
 addscriptexist(7346416636, "Pop It Trading: Auto Buy Items, Themes & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pop%20It%20Trading%20Auto%20Buy%20Items%20Themes%20%20More.lua")
 
 addscriptuniversal("Universal Hip Height, Max Health Changers", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Hip%20Height%20Max%20Health%20Changers.lua")
+
+addscriptexist(314927855, "Pillow Fight Simulator: Hitbox Expander, Sword Expander, Inf Yield", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pillow%20Fight%20Simulator%20Hitbox%20Expander%20Sword%20Expander%20Inf%20Yield.lua")
