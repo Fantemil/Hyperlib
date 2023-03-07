@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:21:31"
+lastupdate = "GMT +1: 07.03.2023 21:21:36"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -2554,3 +2554,5 @@ addscriptexist(10198661638, "Farm Factory Tycoon: Infinity Money", "pulled from 
 addscriptexist(11846163207, "Mage Tycoon: Infinity Jump, Auto Buttons, Invisible", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mage%20Tycoon%20Infinity%20Jump%20Auto%20Buttons%20Invisible.lua")
 
 addscriptexist(6284583030, "Pet Simulator X: Fake Stream Tools", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pet%20Simulator%20X%20Fake%20Stream%20Tools.lua")
+
+addscriptexist(379614936, "Assassin!: Silent Aim", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Assassin%20Silent%20Aim.lua")
