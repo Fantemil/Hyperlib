@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:32:01"
+lastupdate = "GMT +1: 07.03.2023 21:32:05"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -2820,3 +2820,5 @@ addscriptexist(2788229376, "Da Hood: Silent Aim, Aim Lock, Walkspeed", "pulled f
 addscriptexist(286090429, "Arsenal: AimBot", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Arsenal%20AimBot.lua")
 
 addscriptexist(5602055394, "Hood Modded: Headless, Fly, Animations", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Hood%20Modded%20Headless%20Fly%20Animations.lua")
+
+addscriptexist(9825515356, "Hood Customs: Animations, ESP, Aim Lock", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Hood%20Customs%20Animations%20ESP%20Aim%20Lock.lua")
