@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:52:05"
+lastupdate = "GMT +1: 07.03.2023 21:52:09"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -3402,3 +3402,5 @@ addscriptexist(11542692507, "Anime Souls Simulator: Auto Quest", "pulled from rb
 addscriptexist(4783966408, "Plates of Fate: Remastered: Minesweeper Solver", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Plates%20of%20Fate%20Remastered%20Minesweeper%20Solver.lua")
 
 addscriptexist(662417684, "LUCKY BLOCKS Battlegrounds: Fly, Spawn Blocks, Tp Tool", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LUCKY%20BLOCKS%20Battlegrounds%20Fly%20Spawn%20Blocks%20Tp%20Tool.lua")
+
+addscriptexist(6516141723, "DOORS: Entity notifier for A60 and A120", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DOORS%20Entity%20notifier%20for%20A%20and%20A.lua")
