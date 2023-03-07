@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 22:24:57"
+lastupdate = "GMT +1: 07.03.2023 22:25:02"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -4292,3 +4292,5 @@ addscriptexist(155615604, "Prison Life: Take Gun Modder", "pulled from rbxscript
 addscriptexist(11156779721, "The Survival Game [BETA]: TSG.LUA", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/The%20Survival%20Game%20BETA%20TSGLUA.lua")
 
 addscript(10885451190, "Current Game","Undertale Simulated Approach: Insane Buffs", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Undertale%20Simulated%20Approach%20Insane%20Buffs.lua")
+
+addscriptuniversal("Universal FOV, Aimbot, ESP", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20FOV%20Aimbot%20ESP.lua")
