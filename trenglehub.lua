@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 22:24:37"
+lastupdate = "GMT +1: 07.03.2023 22:24:42"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -4282,3 +4282,5 @@ addscriptexist(6728870912, "World of Stands: Auto Collect Chest", "pulled from r
 addscriptexist(621129760, "Knife Ability Test: Silent Aim", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Knife%20Ability%20Test%20Silent%20Aim.lua")
 
 addscriptexist(155615604, "Prison Life: Lag Server", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Prison%20Life%20Lag%20Server.lua")
+
+addscriptexist(3260590327, "Tower Defense Simulator: Best coins grind strat", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tower%20Defense%20Simulator%20Best%20coins%20grind%20strat.lua")
