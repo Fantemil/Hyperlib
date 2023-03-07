@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:35:12"
+lastupdate = "GMT +1: 07.03.2023 21:35:16"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -2914,3 +2914,5 @@ addscriptexist(9655469250, "EarthScape Tycoon: Auto Farm", "pulled from rbxscrip
 addscript(3099809263, "Current Game","Arcane Reborn: Chest Minimap", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Arcane%20Reborn%20Chest%20Minimap.lua")
 
 addscriptexist(71315343, "Dragon Ball Rage: Auto Train, Auto Farm Mobs, Teleport & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Dragon%20Ball%20Rage%20Auto%20Train%20Auto%20Farm%20Mobs%20Teleport%20%20More.lua")
+
+addscript(7863262550, "Current Game","Foblox: Airdrop Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Foblox%20Airdrop%20Auto%20Farm.lua")
