@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:13:18"
+lastupdate = "GMT +1: 07.03.2023 21:13:22"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -2328,3 +2328,5 @@ addscriptexist(9655469250, "EarthScape Tycoon: Gun Mods", "pulled from rbxscript
 addscriptexist(7899881670, "RB World 4: Hitbox, Aimbot, Auto Block", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RB%20World%20%20Hitbox%20Aimbot%20Auto%20Block.lua")
 
 addscript(340227283, "Current Game","RoBowling: Always Hit A Strike", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RoBowling%20Always%20Hit%20A%20Strike.lua")
+
+addscriptexist(11636413564, "Meme Mergers: Auto Click, Finish Obby", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Meme%20Mergers%20Auto%20Click%20Finish%20Obby.lua")
