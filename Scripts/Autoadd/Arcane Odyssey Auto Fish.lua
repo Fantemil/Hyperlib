@@ -1,8 +1,3 @@
 getgenv().toggle=true
-getgenv().fixedloc=true-- you can toggle this, turning this off will allow you to move to your own fishing spot.
-getgenv().rod="Wooden Rod"--[[
-Wooden Rod
-Collector's Rod
-Bronze Rod
-]]
+getgenv().fixedloc=true-- fixes the location of the player, this will just teleport you to the pier, better for afking
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Disttt/-Arcane-Odyssey/main/AutoFish.lua"))()
