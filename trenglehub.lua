@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:37:50"
+lastupdate = "GMT +1: 07.03.2023 21:37:54"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -2988,3 +2988,5 @@ addscriptexist(11620947043, "Flappy Clicker: Auto Click, Auto Rebirth", "pulled 
 addscriptexist(606849621, "Jailbreak: Inf Nitro, No Shoot Delay & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Jailbreak%20Inf%20Nitro%20No%20Shoot%20Delay%20%20More.lua")
 
 addscript(579955134, "Current Game","Auto Rap Battles: Auto Rap, Spam Sounds, Votes GUI", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Rap%20Battles%20Auto%20Rap%20Spam%20Sounds%20Votes%20GUI.lua")
+
+addscriptexist(11040063484, "Sword Fighters Simulator: Auto Collect, Auto Farm, Kill Aura", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sword%20Fighters%20Simulator%20Auto%20Collect%20Auto%20Farm%20Kill%20Aura.lua")
