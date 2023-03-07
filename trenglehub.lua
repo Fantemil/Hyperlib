@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 22:10:53"
+lastupdate = "GMT +1: 07.03.2023 22:10:57"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -3918,3 +3918,5 @@ addscriptuniversal("Universal Simple Infinity Jumps", "pulled from rbxscript.com
 addscriptexist(3214114884, "Flag Wars: Silent Aim, Trigger Bot, Hitboxes", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Flag%20Wars%20Silent%20Aim%20Trigger%20Bot%20Hitboxes.lua")
 
 addscript(527730528, "Current Game","Magic Training: Block Bypass", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Magic%20Training%20Block%20Bypass.lua")
+
+addscriptuniversal("Universal Other FPS Booster", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Other%20FPS%20Booster.lua")
