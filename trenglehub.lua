@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:13:22"
+lastupdate = "GMT +1: 07.03.2023 21:13:26"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -2330,3 +2330,5 @@ addscriptexist(7899881670, "RB World 4: Hitbox, Aimbot, Auto Block", "pulled fro
 addscript(340227283, "Current Game","RoBowling: Always Hit A Strike", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RoBowling%20Always%20Hit%20A%20Strike.lua")
 
 addscriptexist(11636413564, "Meme Mergers: Auto Click, Finish Obby", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Meme%20Mergers%20Auto%20Click%20Finish%20Obby.lua")
+
+addscriptexist(155615604, "Prison Life: Silent Aim, FOV, Teleports", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Prison%20Life%20Silent%20Aim%20FOV%20Teleports.lua")
