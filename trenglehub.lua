@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 22:29:35"
+lastupdate = "GMT +1: 07.03.2023 22:29:39"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -4418,3 +4418,5 @@ addscript(11459360004, "Current Game","Universal FE Sounds", "pulled from rbxscr
 addscript(10624667410, "Current Game","di makatulog: Annoy The Whole Server", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/di%20makatulog%20Annoy%20The%20Whole%20Server.lua")
 
 addscriptexist(9285238704, "Race Clicker: Auto Wins Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Race%20Clicker%20Auto%20Wins%20Farm.lua")
+
+addscript(9437926290, "Current Game","Anime Plush Simulator: V2 Auto Farm, Auto Collect, Auto Click & Egg Buyer", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime%20Plush%20Simulator%20V%20Auto%20Farm%20Auto%20Collect%20Auto%20Click%20%20Egg%20Buyer.lua")
