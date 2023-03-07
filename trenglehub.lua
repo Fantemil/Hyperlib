@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:28:41"
+lastupdate = "GMT +1: 07.03.2023 21:28:45"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -2728,3 +2728,5 @@ addscriptexist(11063612131, "Every Second You Get +1 Jump Power: Auto Farm", "pu
 addscript(2686040248, "Current Game","Math Obby: Correct Door Esp", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Math%20Obby%20Correct%20Door%20Esp.lua")
 
 addscriptexist(2788229376, "Da Hood: Auto Kill,Fling & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Da%20Hood%20Auto%20KillFling%20%20More.lua")
+
+addscriptexist(2788229376, "Da Hood: Reach", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Da%20Hood%20Reach.lua")
