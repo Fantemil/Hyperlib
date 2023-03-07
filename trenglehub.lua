@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:35:50"
+lastupdate = "GMT +1: 07.03.2023 21:35:55"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -2932,3 +2932,5 @@ addscriptexist(2788229376, "Da Hood: FOV, Silent Aim, Anti Lock", "pulled from r
 addscriptuniversal("Universal Spawn Stewie", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Spawn%20Stewie.lua")
 
 addscriptexist(2788229376, "Da Hood: Key Bypassed, Fly, Noclip", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Da%20Hood%20Key%20Bypassed%20Fly%20Noclip.lua")
+
+addscriptexist(6516141723, "DOORS: Sprint", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DOORS%20Sprint.lua")
