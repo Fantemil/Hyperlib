@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:04:27"
+lastupdate = "GMT +1: 07.03.2023 21:04:31"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -2066,3 +2066,5 @@ addscript(10198661638, "Current Game","Farm Factory Tycoon", "pulled from rbxscr
 addscript(8425637426, "Current Game","Write a Letter: Server Crasher", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Write%20a%20Letter%20Server%20Crasher.lua")
 
 addscriptexist(286090429, "Arsenal: Hitbox Expander", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Arsenal%20Hitbox%20Expander.lua")
+
+addhub("Cloud Hub: 5+ Games", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Cloud%20Hub%20%20Games.lua")
