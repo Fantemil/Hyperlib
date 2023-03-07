@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 22:10:41"
+lastupdate = "GMT +1: 07.03.2023 22:10:45"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -3912,3 +3912,5 @@ addscript(7503115095, "Current Game","Pop It Trading: Dupe any items", "pulled f
 addscriptuniversal("Universal Aimbot, Wallcheck, Team Check", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Aimbot%20Wallcheck%20Team%20Check.lua")
 
 addscriptexist(970962039, "Limited Time: Time Dupe", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Limited%20Time%20Time%20Dupe.lua")
+
+addscriptuniversal("Universal Simple Infinity Jumps", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Simple%20Infinity%20Jumps.lua")
