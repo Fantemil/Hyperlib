@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 22:18:13"
+lastupdate = "GMT +1: 07.03.2023 22:18:17"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -4120,3 +4120,5 @@ addscript(9571238478, "Current Game","Raise a Peter: Auto Clicker", "pulled from
 addscriptexist(11542692507, "Anime Souls Simulator: AutoSwing, Auto Hatch Eggs, AutoFarm Enemy", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime%20Souls%20Simulator%20AutoSwing%20Auto%20Hatch%20Eggs%20AutoFarm%20Enemy.lua")
 
 addscriptexist(3527629287, "Big Paintball: Fake own all guns", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Big%20Paintball%20Fake%20own%20all%20guns.lua")
+
+addscriptuniversal("Universal Chat Bot, Auto Respond", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Chat%20Bot%20Auto%20Respond.lua")
