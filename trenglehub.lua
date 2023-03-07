@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:05:00"
+lastupdate = "GMT +1: 07.03.2023 21:05:04"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -2082,3 +2082,5 @@ addscriptexist(4924922222, "Brookhaven RP: Lots Of Cool Features", "pulled from 
 addscriptexist(6516141723, "DOORS: Esp", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DOORS%20Esp.lua")
 
 addscriptexist(11542692507, "Anime Souls Simulator: Auto-Farm, Auto Hatch & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime%20Souls%20Simulator%20AutoFarm%20Auto%20Hatch%20%20More.lua")
+
+addscriptexist(4616652839, "Shindo Life: Auto Spin, Infinity Bloodlines & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Shindo%20Life%20Auto%20Spin%20Infinity%20Bloodlines%20%20More.lua")
