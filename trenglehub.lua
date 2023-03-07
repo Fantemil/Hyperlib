@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 20:58:37"
+lastupdate = "GMT +1: 07.03.2023 20:58:41"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -1898,3 +1898,5 @@ addscriptexist(2788229376, "Da Hood: Anit Lock UI", "pulled from rbxscript.com",
 addscriptexist(6516141723, "DOORS: Item Esp, Auto Hide, Fullbright & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DOORS%20Item%20Esp%20Auto%20Hide%20Fullbright%20%20More.lua")
 
 addhub("Proxima Hub: 10+ Games", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Proxima%20Hub%20%20Games.lua")
+
+addhub("Universal: Fly, Walkspeed, Noclip", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Fly%20Walkspeed%20Noclip.lua")
