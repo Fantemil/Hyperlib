@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:40:34"
+lastupdate = "GMT +1: 07.03.2023 21:40:37"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -3068,3 +3068,5 @@ addscriptexist(8908228901, "Shark Bite 2: Theeth Generator, Kill Aura, Kill Shar
 addscriptexist(1537690962, "Bee Swarm Simulator: Auto Dig, Auto Bubbles, Farm Flames", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Bee%20Swarm%20Simulator%20Auto%20Dig%20Auto%20Bubbles%20Farm%20Flames.lua")
 
 addscriptexist(2866967438, "Fishing Simulator: Auto Fish, Tp, Walkspeed", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Fishing%20Simulator%20Auto%20Fish%20Tp%20Walkspeed.lua")
+
+addscriptexist(286090429, "Arsenal: 6+ Hubs", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Arsenal%20%20Hubs.lua")
