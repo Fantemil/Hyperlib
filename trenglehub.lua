@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 22:16:40"
+lastupdate = "GMT +1: 07.03.2023 22:16:44"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -4074,3 +4074,5 @@ addscriptexist(11818704485, "+1 Damage Every Second: Inf strength", "pulled from
 addscriptexist(7655745946, "Dunking Simulator: Auto Rebirth, Auto Season Pass", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Dunking%20Simulator%20Auto%20Rebirth%20Auto%20Season%20Pass.lua")
 
 addscriptexist(3101667897, "Legends Of Speed: Auto Steps, Auto Rebirth, Auto Farm Gems", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Legends%20Of%20Speed%20Auto%20Steps%20Auto%20Rebirth%20Auto%20Farm%20Gems.lua")
+
+addscriptexist(6777872443, "Pixel Piece: Infinity Stats", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pixel%20Piece%20Infinity%20Stats.lua")
