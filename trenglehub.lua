@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:03:18"
+lastupdate = "GMT +1: 07.03.2023 21:03:22"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -2032,3 +2032,5 @@ addscriptexist(2753915549, "Blox Fruits: Auto Stats, Teleports, Aimbot", "pulled
 addscriptexist(537413528, "Build A Boat For Treasure: Morph, Teleports, Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Build%20A%20Boat%20For%20Treasure%20Morph%20Teleports%20Auto%20Farm.lua")
 
 addscript(970962039, "Current Game","Limited Time: Sign Bot", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Limited%20Time%20Sign%20Bot.lua")
+
+addscript(29812337, "Current Game","Framed: Aim Lock, FOV, Esp", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Framed%20Aim%20Lock%20FOV%20Esp.lua")
