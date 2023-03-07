@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:16:15"
+lastupdate = "GMT +1: 07.03.2023 21:16:18"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -2412,3 +2412,5 @@ addscriptexist(9143982021, "Sword Battles: Free kills", "pulled from rbxscript.c
 addscriptexist(1240123653, "Zombie Attack: Auto Farm, Zombie Bighead, Silent Aims", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Zombie%20Attack%20Auto%20Farm%20Zombie%20Bighead%20Silent%20Aims.lua")
 
 addscriptexist(9399205659, "Dragonball Ultimate Clash 2: Infinite Zeni", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Dragonball%20Ultimate%20Clash%20%20Infinite%20Zeni.lua")
+
+addscript(4723618670, "Current Game","Wisteria: Auto Meditae, Auto Fesh, Kill Aura & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Wisteria%20Auto%20Meditae%20Auto%20Fesh%20Kill%20Aura%20%20More.lua")
