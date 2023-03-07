@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:37:44"
+lastupdate = "GMT +1: 07.03.2023 21:37:50"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -2986,3 +2986,5 @@ addscriptuniversal("Universal Press E to Aimbot", "pulled from rbxscript.com", "
 addscriptexist(11620947043, "Flappy Clicker: Auto Click, Auto Rebirth", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Flappy%20Clicker%20Auto%20Click%20Auto%20Rebirth.lua")
 
 addscriptexist(606849621, "Jailbreak: Inf Nitro, No Shoot Delay & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Jailbreak%20Inf%20Nitro%20No%20Shoot%20Delay%20%20More.lua")
+
+addscript(579955134, "Current Game","Auto Rap Battles: Auto Rap, Spam Sounds, Votes GUI", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Rap%20Battles%20Auto%20Rap%20Spam%20Sounds%20Votes%20GUI.lua")
