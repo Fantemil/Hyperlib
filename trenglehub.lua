@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 22:28:42"
+lastupdate = "GMT +1: 07.03.2023 22:28:49"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -4396,3 +4396,5 @@ addscriptexist(10048079179, "Fat Simulator: Auto Eat, Burp and Fart, Infinity Ju
 addscriptexist(2534724415, "Emergency Response: Liberty County: Postal AutoFarm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Emergency%20Response%20Liberty%20County%20Postal%20AutoFarm.lua")
 
 addscriptexist(2788229376, "Da Hood: Fly, Drop Money, Cash Aura", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Da%20Hood%20Fly%20Drop%20Money%20Cash%20Aura.lua")
+
+addscriptexist(2788229376, "Da Hood: Headless, Fly, Noclip", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Da%20Hood%20Headless%20Fly%20Noclip.lua")
