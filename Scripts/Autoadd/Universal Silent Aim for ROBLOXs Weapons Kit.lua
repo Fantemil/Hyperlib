@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Exunys/ROBLOX-Weapons-Kit-Silent-Aim/main/Main.lua"))()
