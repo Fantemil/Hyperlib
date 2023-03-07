@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:20:48"
+lastupdate = "GMT +1: 07.03.2023 21:20:52"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -2534,3 +2534,5 @@ addscriptexist(8589310348, "Glory Kill Testing: Auto Reload, Unlock All, Kill Al
 addscriptexist(6728870912, "World of Stands: Instant Farm Chest, Auto Farm All Mobs, Farm Players", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/World%20of%20Stands%20Instant%20Farm%20Chest%20Auto%20Farm%20All%20Mobs%20Farm%20Players.lua")
 
 addscriptexist(5130598377, "A Universal Time: Farm All Items, Farm Boss, Farm Thugs", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/A%20Universal%20Time%20Farm%20All%20Items%20Farm%20Boss%20Farm%20Thugs.lua")
+
+addscriptuniversal("Universal HitBox Expand", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20HitBox%20Expand.lua")
