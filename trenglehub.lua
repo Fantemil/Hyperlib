@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 22:27:18"
+lastupdate = "GMT +1: 07.03.2023 22:27:22"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -4358,3 +4358,5 @@ addscriptexist(2788229376, "Da Hood: Reach, Aimlock, Noclip", "pulled from rbxsc
 addscriptuniversal("Universal Spam Empty Words", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Spam%20Empty%20Words.lua")
 
 addscriptuniversal("Universal Speed Coil Giver", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Speed%20Coil%20Giver.lua")
+
+addscriptexist(7180042682, "Military Tycoon: Grenadier AutoFarm, Auto Collect, Auto Rebirth", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Military%20Tycoon%20Grenadier%20AutoFarm%20Auto%20Collect%20Auto%20Rebirth.lua")
