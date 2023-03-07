@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:41:29"
+lastupdate = "GMT +1: 07.03.2023 21:41:33"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -3096,3 +3096,5 @@ addscriptexist(606849621, "Jailbreak: Auto Farm, Auto Arrest, Auto Rob & More!",
 addscriptexist(8568266872, "Kill Monsters to Save Princess: Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Kill%20Monsters%20to%20Save%20Princess%20Auto%20Farm.lua")
 
 addscriptexist(7056922815, "Reaper 2: Auto Quest, Auto Farm, WalkSpeed", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Reaper%20%20Auto%20Quest%20Auto%20Farm%20WalkSpeed.lua")
+
+addscriptexist(301549746, "Counter Blox: Rapid Fire, Infinity Ammo, No Recoil", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Counter%20Blox%20Rapid%20Fire%20Infinity%20Ammo%20No%20Recoil.lua")
