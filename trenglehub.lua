@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 22:02:44"
+lastupdate = "GMT +1: 07.03.2023 22:02:47"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -3678,3 +3678,5 @@ addscriptexist(4566572536, "Vehicle Legends: Drag Race Farm, Highway Race Farm, 
 addscriptuniversal("Universal Spin and Play Phonky Town", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Spin%20and%20Play%20Phonky%20Town.lua")
 
 addscriptexist(891852901, "Greenville: Auto Farm, Always Car Clean, Infinity Fuel", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Greenville%20Auto%20Farm%20Always%20Car%20Clean%20Infinity%20Fuel.lua")
+
+addscript(9555732501, "Current Game","Nen Fighting Simulator: Teleports, Auto Durability, Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Nen%20Fighting%20Simulator%20Teleports%20Auto%20Durability%20Auto%20Farm.lua")
