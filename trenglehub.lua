@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 22:21:19"
+lastupdate = "GMT +1: 07.03.2023 22:21:22"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -4214,3 +4214,5 @@ addscriptexist(11302865934, "Every Second You Get +1 Health: Auto Farm Wins", "p
 addscriptexist(6284583030, "Pet Simulator X: Auto Enchant, Auto Open Eggs, Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pet%20Simulator%20X%20Auto%20Enchant%20Auto%20Open%20Eggs%20Auto%20Farm.lua")
 
 addscriptuniversal("Universal get date and time and year and day number and month", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20get%20date%20and%20time%20and%20year%20and%20day%20number%20and%20month.lua")
+
+addscript(1252559098, "Current Game","Snow Shoveling Simulator: Set tool cooldown/speed to 0", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Snow%20Shoveling%20Simulator%20Set%20tool%20cooldownspeed%20to%20.lua")
