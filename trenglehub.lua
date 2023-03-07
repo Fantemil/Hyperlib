@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:08:26"
+lastupdate = "GMT +1: 07.03.2023 21:08:30"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -2186,3 +2186,5 @@ addscript(4065093137, "Current Game","eat sand: Auto Click, Auto Equip, Auto Tak
 addscriptexist(1554960397, "Car Dealership Tycoon: Auto Race", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Car%20Dealership%20Tycoon%20Auto%20Race.lua")
 
 addscript(9264596435, "Current Game","Idle Heroes Simulator: Auto Level Up, Auto Attack, Auto Tp", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Idle%20Heroes%20Simulator%20Auto%20Level%20Up%20Auto%20Attack%20Auto%20Tp.lua")
+
+addscriptexist(10704789056, "Drive World: Fast Cash Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Drive%20World%20Fast%20Cash%20Auto%20Farm.lua")
