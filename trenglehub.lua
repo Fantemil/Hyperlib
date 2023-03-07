@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:12:43"
+lastupdate = "GMT +1: 07.03.2023 21:12:46"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -2312,3 +2312,5 @@ addscript(11606818992, "Current Game","STEEP STEPS: Anti Cheat Bypass", "pulled 
 addscriptexist(8908228901, "SharkBite 2: Insta Kill Shark", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SharkBite%20%20Insta%20Kill%20Shark.lua")
 
 addscriptexist(6735572261, "Pilgrammed: God Mode, Chest Farm & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pilgrammed%20God%20Mode%20Chest%20Farm%20%20More.lua")
+
+addscriptexist(10982284336, "Anime Idle Simulator: Unlimited Dps", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime%20Idle%20Simulator%20Unlimited%20Dps.lua")
