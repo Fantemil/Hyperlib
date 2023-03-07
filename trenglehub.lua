@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:32:09"
+lastupdate = "GMT +1: 07.03.2023 21:32:14"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -2824,3 +2824,5 @@ addscriptexist(5602055394, "Hood Modded: Headless, Fly, Animations", "pulled fro
 addscriptexist(9825515356, "Hood Customs: Animations, ESP, Aim Lock", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Hood%20Customs%20Animations%20ESP%20Aim%20Lock.lua")
 
 addscript(1167791961, "Current Game","Knife Simulator: Silent Aim, Auto Farm, Players Esp & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Knife%20Simulator%20Silent%20Aim%20Auto%20Farm%20Players%20Esp%20%20More.lua")
+
+addscriptexist(3956818381, "Ninja Legends: Auto Swing, Auto Sell, Auto Hoops & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ninja%20Legends%20Auto%20Swing%20Auto%20Sell%20Auto%20Hoops%20%20More.lua")
