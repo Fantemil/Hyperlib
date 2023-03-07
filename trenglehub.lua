@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 22:30:59"
+lastupdate = "GMT +1: 07.03.2023 22:31:03"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -4456,3 +4456,5 @@ addscript(9182660355, "Current Game","Vector Fission: Infinite Money", "pulled f
 addscriptexist(11156779721, "The Survival Game [BETA]: KYA-WARE", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/The%20Survival%20Game%20BETA%20KYAWARE.lua")
 
 addscriptexist(4616652839, "Shindo Life: Infinity Spins with options", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Shindo%20Life%20Infinity%20Spins%20with%20options.lua")
+
+addscriptexist(4616652839, "Shindo Life: Infinity Spins", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Shindo%20Life%20Infinity%20Spins.lua")
