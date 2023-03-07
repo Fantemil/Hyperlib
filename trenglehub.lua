@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:23:12"
+lastupdate = "GMT +1: 07.03.2023 21:23:15"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -2602,3 +2602,5 @@ addscriptexist(2753915549, "Blox Fruits: Auto Farm, Redeem All Codes & More", "p
 addscriptexist(621129760, "KAT: Auto Sprint, Fullbright, Aimbot & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/KAT%20Auto%20Sprint%20Fullbright%20Aimbot%20%20More.lua")
 
 addscript(5074523379, "Current Game","The Asylum: Auto Finish Chapter, Disable FirstPerson & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/The%20Asylum%20Auto%20Finish%20Chapter%20Disable%20FirstPerson%20%20More.lua")
+
+addscriptexist(2377868063, "Strucid: ESP, Silent Aim, Aimbot", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Strucid%20ESP%20Silent%20Aim%20Aimbot.lua")
