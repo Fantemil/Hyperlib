@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 12:36:39"
+lastupdate = "GMT +1: 07.03.2023 12:36:44"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -1141,3 +1141,5 @@ addscriptexist(1962086868, "Tower Of Hell: Auto Farm, Teleport To End, God Mode 
 addscriptexist(3101667897, "Legends Of Speed: Auto Rebirth, Walkspeed & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Legends%20Of%20Speed%20Auto%20Rebirth%20Walkspeed%20%20More.lua")
 
 addscript(1240123653, "Current Game","Zombie Attack: Auto Kill", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Zombie%20Attack%20Auto%20Kill.lua")
+
+addscript(3398014311, "Current Game","Resaurant Tycoon 2: Auto-Farm, Auto Collect Bills", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Resaurant%20Tycoon%20%20AutoFarm%20Auto%20Collect%20Bills.lua")
