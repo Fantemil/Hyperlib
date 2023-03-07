@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:33:27"
+lastupdate = "GMT +1: 07.03.2023 21:33:31"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -2862,3 +2862,5 @@ addhub("Kater Hub: 3+ Games", "pulled from rbxscript.com", "https://raw.githubus
 addscriptexist(292439477, "Phantom Forces: ESP, Silent Aim", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Phantom%20Forces%20ESP%20Silent%20Aim.lua")
 
 addscriptexist(2474168535, "Westbound: ESP, Tracers & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Westbound%20ESP%20Tracers%20%20More.lua")
+
+addscriptexist(155615604, "Prison Life: Teleports, Auto Get All & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Prison%20Life%20Teleports%20Auto%20Get%20All%20%20More.lua")
