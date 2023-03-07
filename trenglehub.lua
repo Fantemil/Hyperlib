@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:09:53"
+lastupdate = "GMT +1: 07.03.2023 21:09:57"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -2228,3 +2228,5 @@ addscript(298400657, "Current Game","Dragon Ball Final Remastered: Auto Gauntlet
 addscriptexist(2474168535, "Westbound: No Recoil, No Spread, Silent Aim", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Westbound%20No%20Recoil%20No%20Spread%20Silent%20Aim.lua")
 
 addscript(6708206173, "Current Game","Rate My Avatar: Trivia Booth", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Rate%20My%20Avatar%20Trivia%20Booth.lua")
+
+addscriptexist(11636413564, "Meme Mergers: Auto Merge, Auto Click, Auto Obby", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Meme%20Mergers%20Auto%20Merge%20Auto%20Click%20Auto%20Obby.lua")
