@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 16:57:08"
+lastupdate = "GMT +1: 07.03.2023 16:57:17"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -1554,3 +1554,4 @@ addhub("Local Hub - KAT", "pulled from rscripts", "https://raw.githubusercontent
 addhub("Local Hub - Build A Boat For Treasure", "pulled from rscripts", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Local%20Hub%20%20Build%20A%20Boat%20For%20Treasure.lua")
 addhub("Local Hub - Blox Fruits", "pulled from rscripts", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Local%20Hub%20%20Blox%20Fruits.lua")
 addscript(6728870912,"Current Game", "World Of Stands | Chest Autofarm", "pulled from rscripts", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/World%20Of%20Stands%20%20Chest%20Autofarm.lua")
+addscript(11400511154,"Current Game", "Monkey Tycoon [Binary Hub]", "pulled from rscripts", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Monkey%20Tycoon%20Binary%20Hub.lua")
