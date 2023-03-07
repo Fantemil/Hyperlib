@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 22:25:41"
+lastupdate = "GMT +1: 07.03.2023 22:25:45"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -4308,3 +4308,5 @@ addscriptexist(2788229376, "Da Hood: Fake Macro", "pulled from rbxscript.com", "
 addscriptexist(192800, "Work At A Pizza Place: Fixed Sirel Killers Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Work%20At%20A%20Pizza%20Place%20Fixed%20Sirel%20Killers%20Auto%20Farm.lua")
 
 addscript(4669056864, "Current Game","Flex Your Account Age: Auto Obby", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Flex%20Your%20Account%20Age%20Auto%20Obby.lua")
+
+addscript(6751580221, "Current Game","Verdant Moon: Instant Kill Bosses", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Verdant%20Moon%20Instant%20Kill%20Bosses.lua")
