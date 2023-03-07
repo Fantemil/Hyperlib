@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:33:58"
+lastupdate = "GMT +1: 07.03.2023 21:34:02"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -2878,3 +2878,5 @@ addhub("Universal pretend to be part of Blox Watch", "pulled from rbxscript.com"
 addhub("Universal FE Ball Roll", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20FE%20Ball%20Roll.lua")
 
 addscriptexist(2788229376, "Da Hood: Fly", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Da%20Hood%20Fly.lua")
+
+addscriptexist(183364845, "Speed Run 4: Auto Farm Level, Give All", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Speed%20Run%20%20Auto%20Farm%20Level%20Give%20All.lua")
