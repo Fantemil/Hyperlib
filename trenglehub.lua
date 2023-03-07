@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:43:38"
+lastupdate = "GMT +1: 07.03.2023 21:43:42"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -3160,3 +3160,5 @@ addhub("Kidach Hub: 3+ Games", "pulled from rbxscript.com", "https://raw.githubu
 addhub("Find The Plugs: Auto Collect", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Find%20The%20Plugs%20Auto%20Collect.lua")
 
 addscriptexist(10446125875, "Anime Fruit Simulator: Kill Aura, Auto Moves & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime%20Fruit%20Simulator%20Kill%20Aura%20Auto%20Moves%20%20More.lua")
+
+addscriptexist(5154858502, "Murderers vs. Sheriffs: GUI with Bebo Mods", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Murderers%20vs%20Sheriffs%20GUI%20with%20Bebo%20Mods.lua")
