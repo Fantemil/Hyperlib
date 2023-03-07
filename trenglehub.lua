@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 20:59:44"
+lastupdate = "GMT +1: 07.03.2023 20:59:48"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -1932,3 +1932,5 @@ addscriptexist(11582083063, "Piece Adventures Simulator: Auto Skill, Auto Farm, 
 addscript(445664957, "Current Game","Parkour: Free Gamepasses, Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Parkour%20Free%20Gamepasses%20Auto%20Farm.lua")
 
 addscriptexist(6741970382, "Zombie lab: Anti Cheat Bypass, Cure Giver, Virus Giver", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Zombie%20lab%20Anti%20Cheat%20Bypass%20Cure%20Giver%20Virus%20Giver.lua")
+
+addscript(2929719084, "Current Game","F3X Islands: tntmasters SS", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FX%20Islands%20tntmasters%20SS.lua")
