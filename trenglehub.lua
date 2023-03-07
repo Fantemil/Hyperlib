@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:14:19"
+lastupdate = "GMT +1: 07.03.2023 21:14:22"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -2356,3 +2356,5 @@ addhub("Silver Hub: Keyless", "pulled from rbxscript.com", "https://raw.githubus
 addscript(8589310348, "Current Game","Glory Kill Testing: Kill All, Auto Reload, No recoil", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Glory%20Kill%20Testing%20Kill%20All%20Auto%20Reload%20No%20recoil.lua")
 
 addscriptexist(11929558254, "+1 Per Second: Worlds Auto Farm, TP To Rebirth Place, Walkspeed", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/%20Per%20Second%20Worlds%20Auto%20Farm%20TP%20To%20Rebirth%20Place%20Walkspeed.lua")
+
+addscriptexist(8568266872, "Kill Monsters to Save Princess: Auto Farm, Auto Egg, Auto Skill", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Kill%20Monsters%20to%20Save%20Princess%20Auto%20Farm%20Auto%20Egg%20Auto%20Skill.lua")
