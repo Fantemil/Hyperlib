@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:43:50"
+lastupdate = "GMT +1: 07.03.2023 21:43:54"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -3166,3 +3166,5 @@ addscriptexist(5154858502, "Murderers vs. Sheriffs: GUI with Bebo Mods", "pulled
 addscriptexist(621129760, "Knife Ability Test: Silent Aim, ESP & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Knife%20Ability%20Test%20Silent%20Aim%20ESP%20%20More.lua")
 
 addscriptexist(4566572536, "Vehicle Legends: Set brake force, Change Car Speed, Keybinds", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Vehicle%20Legends%20Set%20brake%20force%20Change%20Car%20Speed%20Keybinds.lua")
+
+addscriptexist(3351674303, "Driving Empire: Car Speed multiplier", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Driving%20Empire%20Car%20Speed%20multiplier.lua")
