@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 20:59:04"
+lastupdate = "GMT +1: 07.03.2023 20:59:08"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -1912,3 +1912,5 @@ addscript(9819654737, "Current Game","Raise A Sonic: Auto Collect, Auto Click, P
 addscript(9655469250, "Current Game","EarthScape Tycoon: AutoFarm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/EarthScape%20Tycoon%20AutoFarm.lua")
 
 addscriptexist(6735572261, "Pilgrammed: Auto Farm Mobs", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pilgrammed%20Auto%20Farm%20Mobs.lua")
+
+addscriptexist(2753915549, "Blox Fruits: Auto Farm Level, Kill Aura & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blox%20Fruits%20Auto%20Farm%20Level%20Kill%20Aura%20%20More.lua")
