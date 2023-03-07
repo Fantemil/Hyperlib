@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:01:54"
+lastupdate = "GMT +1: 07.03.2023 21:01:58"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -1990,3 +1990,5 @@ addscriptexist(1962086868, "Tower of Hell: Anti Cheat Bypass, Give Items, Remove
 addscriptuniversal("Universal Chat Modifier", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Chat%20Modifier.lua")
 
 addscriptexist(9825515356, "Hood Customs: Silent Aim, Fly, ESP", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Hood%20Customs%20Silent%20Aim%20Fly%20ESP.lua")
+
+addscriptexist(8540346411, "Rebirth Champions X: Auto Rebirth, Auto Egg, Auto Click", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Rebirth%20Champions%20X%20Auto%20Rebirth%20Auto%20Egg%20Auto%20Click.lua")
