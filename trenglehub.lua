@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:21:23"
+lastupdate = "GMT +1: 07.03.2023 21:21:27"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -2550,3 +2550,5 @@ addscriptexist(5780309044, "Stands Awakening: Farm Items, Infinite Rokaka, Infin
 addscriptexist(7732789524, "Neo Soccer League: Godmode, ESP, Walkspeed", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Neo%20Soccer%20League%20Godmode%20ESP%20Walkspeed.lua")
 
 addscriptexist(10198661638, "Farm Factory Tycoon: Infinity Money", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Farm%20Factory%20Tycoon%20Infinity%20Money.lua")
+
+addscriptexist(11846163207, "Mage Tycoon: Infinity Jump, Auto Buttons, Invisible", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mage%20Tycoon%20Infinity%20Jump%20Auto%20Buttons%20Invisible.lua")
