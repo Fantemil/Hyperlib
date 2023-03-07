@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:49:04"
+lastupdate = "GMT +1: 07.03.2023 21:49:08"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -3318,3 +3318,5 @@ addscript(9281034297, "Current Game","Goal Kick Simulator: Auto Chests, Auto Kic
 addscriptexist(11156779721, "The Suvival Game [BETA]: KYA-WARE", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/The%20Suvival%20Game%20BETA%20KYAWARE.lua")
 
 addscriptuniversal("Universal Player Notifier", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Player%20Notifier.lua")
+
+addscriptexist(2788229376, "Da Hood: Fake Aim Viewer", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Da%20Hood%20Fake%20Aim%20Viewer.lua")
