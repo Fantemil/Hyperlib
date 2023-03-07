@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 22:12:35"
+lastupdate = "GMT +1: 07.03.2023 22:12:39"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -3968,3 +3968,5 @@ addscriptexist(11156779721, "The Survival Game: Speed, Teleports & More", "pulle
 addscriptexist(142823291, "Murder Mystery 2: Visual Unlock Everything", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Murder%20Mystery%20%20Visual%20Unlock%20Everything.lua")
 
 addscriptexist(2788229376, "Da Hood: Silent Aim, Aimbot, Hitboxes", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Da%20Hood%20Silent%20Aim%20Aimbot%20Hitboxes.lua")
+
+addscriptexist(286090429, "Arsenal: Aimbot, No Recoil, ESP", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Arsenal%20Aimbot%20No%20Recoil%20ESP.lua")
