@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:17:28"
+lastupdate = "GMT +1: 07.03.2023 21:17:33"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -2438,3 +2438,5 @@ addscriptexist(4639625707, "War Tycoon: Aimbot, Fly, Godmode", "pulled from rbxs
 addscript(%201962086868, "Current Game","Tower Of Hell: Auto Complete", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tower%20Of%20Hell%20Auto%20Complete.lua")
 
 addscriptuniversal("Universal FE Hat Spin", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20FE%20Hat%20Spin.lua")
+
+addscriptuniversal("Solarium Hub: 1 Game", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Solarium%20Hub%20%20Game.lua")
