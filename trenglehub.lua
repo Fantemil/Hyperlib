@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 22:29:51"
+lastupdate = "GMT +1: 07.03.2023 22:29:55"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -4426,3 +4426,5 @@ addscriptexist(6872265039, "BedWars: Auto Win 2v2", "pulled from rbxscript.com",
 addscriptexist(3101667897, "Legends Of Speed: Auto Steps, Auto Hops, Auto Rebirth", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Legends%20Of%20Speed%20Auto%20Steps%20Auto%20Hops%20Auto%20Rebirth.lua")
 
 addscriptuniversal("Universal Teleport Tool", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Teleport%20Tool.lua")
+
+addscriptexist(8737602449, "PLS DONATE: Auto Thanks, Auto Beg, Webhook", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PLS%20DONATE%20Auto%20Thanks%20Auto%20Beg%20Webhook.lua")
