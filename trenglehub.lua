@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:44:51"
+lastupdate = "GMT +1: 07.03.2023 21:44:54"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -3196,3 +3196,5 @@ addscriptexist(10895555747, "Walmart Land: Auto Get Fruit Hat", "pulled from rbx
 addscript(4841699106, "Current Game","Siren Head Rebirth: Fullbright, Walkspeed, Infinity Jumps", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Siren%20Head%20Rebirth%20Fullbright%20Walkspeed%20Infinity%20Jumps.lua")
 
 addscriptexist(7346416636, "Pop It Trading: Auto Buy Items, Themes & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pop%20It%20Trading%20Auto%20Buy%20Items%20Themes%20%20More.lua")
+
+addscriptuniversal("Universal Hip Height, Max Health Changers", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Hip%20Height%20Max%20Health%20Changers.lua")
