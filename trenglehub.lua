@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:52:36"
+lastupdate = "GMT +1: 07.03.2023 21:52:39"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -3418,3 +3418,5 @@ addscriptexist(10925589760, "Merge Simulator: Auto Buy Cooldown, Auto Tap, Auto 
 addscriptexist(2414851778, "Dungeon Quest!: Auto Farm, Super Fast Get Level 100", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Dungeon%20Quest%20Auto%20Farm%20Super%20Fast%20Get%20Level%20.lua")
 
 addscriptexist(286090429, "Arsenal: FOV, ESP & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Arsenal%20FOV%20ESP%20%20More.lua")
+
+addscript(11103424163, "Current Game","Heist Tycoon: Inf Money", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Heist%20Tycoon%20Inf%20Money.lua")
