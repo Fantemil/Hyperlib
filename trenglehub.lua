@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 22:14:06"
+lastupdate = "GMT +1: 07.03.2023 22:14:10"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -4008,3 +4008,5 @@ addscript(9811932338, "Current Game","World Of Sorcery: Infinite Level", "pulled
 addhub("VOID HUB: 6 GAMES", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/VOID%20HUB%20%20GAMES.lua")
 
 addscript(155382109, "Current Game","Survive and Kill the Killers in Area 51: Give all guns, Unlock all Secrets, Teleport", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Survive%20and%20Kill%20the%20Killers%20in%20Area%20%20Give%20all%20guns%20Unlock%20all%20Secrets%20Teleport.lua")
+
+addscriptexist(301549746, "Counter Blox: Silent Aim, Hitbox & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Counter%20Blox%20Silent%20Aim%20Hitbox%20%20More.lua")
