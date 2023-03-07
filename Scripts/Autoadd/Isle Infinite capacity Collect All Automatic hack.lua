@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://gist.githubusercontent.com/w-a-e/cf38dd10d3ab3b5171f37841b380466a/raw/fa1a86dd321c6a0b225d802a14750dbd08c12178/isle2.35.lua"))()
