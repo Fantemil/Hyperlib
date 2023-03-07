@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 22:01:10"
+lastupdate = "GMT +1: 07.03.2023 22:01:14"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -3632,3 +3632,5 @@ addscriptexist(10704789056, "Drive World: Auto Farm, Method, Auto Reset", "pulle
 addscriptexist(10824616460, "Sword Slasher: Auto Stats, Bring Mobs, Auto Attack", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sword%20Slasher%20Auto%20Stats%20Bring%20Mobs%20Auto%20Attack.lua")
 
 addscriptexist(6284583030, "Pet Simulator X: OP Auto farm, Auto Open Eggs & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pet%20Simulator%20X%20OP%20Auto%20farm%20Auto%20Open%20Eggs%20%20More.lua")
+
+addscriptexist(286090429, "Arsenal: Silent Aim, ESP & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Arsenal%20Silent%20Aim%20ESP%20%20More.lua")
