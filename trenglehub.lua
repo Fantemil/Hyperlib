@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:20:56"
+lastupdate = "GMT +1: 07.03.2023 21:21:00"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -2538,3 +2538,5 @@ addscriptexist(5130598377, "A Universal Time: Farm All Items, Farm Boss, Farm Th
 addscriptuniversal("Universal HitBox Expand", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20HitBox%20Expand.lua")
 
 addscriptexist(893973440, "Flee the Facility: CPU Saver, Teleports", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Flee%20the%20Facility%20CPU%20Saver%20Teleports.lua")
+
+addhub("Illumina: Hub 7 Games", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Illumina%20Hub%20%20Games.lua")
