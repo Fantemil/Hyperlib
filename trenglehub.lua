@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 22:31:21"
+lastupdate = "GMT +1: 07.03.2023 22:31:24"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -4466,3 +4466,5 @@ addscriptuniversal("Car Factory Tycoon: Op Auto Farm,Op Auto Upgrade", "pulled f
 addscriptuniversal("Universal Friend Detector", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Friend%20Detector.lua")
 
 addscriptexist(10118559731, "nico's nextbots: Auto Farm, Walkspeed, Infinity Jumps", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/nicos%20nextbots%20Auto%20Farm%20Walkspeed%20Infinity%20Jumps.lua")
+
+addscriptuniversal("Universal Rizzer GUI", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Rizzer%20GUI.lua")
