@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:35:45"
+lastupdate = "GMT +1: 07.03.2023 21:35:50"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -2930,3 +2930,5 @@ addscriptuniversal("Universal CPU Saver", "pulled from rbxscript.com", "https://
 addscriptexist(2788229376, "Da Hood: FOV, Silent Aim, Anti Lock", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Da%20Hood%20FOV%20Silent%20Aim%20Anti%20Lock.lua")
 
 addscriptuniversal("Universal Spawn Stewie", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Spawn%20Stewie.lua")
+
+addscriptexist(2788229376, "Da Hood: Key Bypassed, Fly, Noclip", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Da%20Hood%20Key%20Bypassed%20Fly%20Noclip.lua")
