@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 22:04:18"
+lastupdate = "GMT +1: 07.03.2023 22:04:22"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -3724,3 +3724,5 @@ addscriptexist(6516141723, "DOORS: Players Esp, Client Glow, Doors Esp,", "pulle
 addscriptexist(2753915549, "Blox Fruits: Auto Farm, Tp island, Auto Stats", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blox%20Fruits%20Auto%20Farm%20Tp%20island%20Auto%20Stats.lua")
 
 addscriptexist(3281073759, "Guess the drawing: Server Crashing", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Guess%20the%20drawing%20Server%20Crashing.lua")
+
+addscriptexist(2788229376, "Da Hood: Money Esp, Fly Vehicle, Fly", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Da%20Hood%20Money%20Esp%20Fly%20Vehicle%20Fly.lua")
