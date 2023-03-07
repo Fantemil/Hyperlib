@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://raw.githubusercontent.com/XNEOFF/Shiftlock-Mobile/main/Shiftlock-Mobile.txt'))()
