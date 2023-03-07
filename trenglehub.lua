@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:16:18"
+lastupdate = "GMT +1: 07.03.2023 21:16:25"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -2414,3 +2414,5 @@ addscriptexist(1240123653, "Zombie Attack: Auto Farm, Zombie Bighead, Silent Aim
 addscriptexist(9399205659, "Dragonball Ultimate Clash 2: Infinite Zeni", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Dragonball%20Ultimate%20Clash%20%20Infinite%20Zeni.lua")
 
 addscript(4723618670, "Current Game","Wisteria: Auto Meditae, Auto Fesh, Kill Aura & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Wisteria%20Auto%20Meditae%20Auto%20Fesh%20Kill%20Aura%20%20More.lua")
+
+addscriptexist(621129760, "KAT: Silent Aim, Walkspeed, ESP", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/KAT%20Silent%20Aim%20Walkspeed%20ESP.lua")
