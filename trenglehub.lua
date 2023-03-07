@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:47:59"
+lastupdate = "GMT +1: 07.03.2023 21:48:02"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -3286,3 +3286,5 @@ addscriptexist(4566572536, "Vehicle Legends: Drag Race Auto Farm, Highway Race A
 addscriptexist(891852901, "Greenville: Anti Afk, Auto Farm, Inf Fue;", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Greenville%20Anti%20Afk%20Auto%20Farm%20Inf%20Fue.lua")
 
 addscriptexist(11196588443, "Zombie Merge Tycoon: Auto Collect Samples, Auto Put Samples, AFK Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Zombie%20Merge%20Tycoon%20Auto%20Collect%20Samples%20Auto%20Put%20Samples%20AFK%20Farm.lua")
+
+addhub("AeroHub: 15+ Games", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AeroHub%20%20Games.lua")
