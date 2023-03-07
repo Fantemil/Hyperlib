@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:52:53"
+lastupdate = "GMT +1: 07.03.2023 21:52:58"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -3426,3 +3426,5 @@ addscriptexist(155615604, "Prison Life: Give Guns, Remove Walls & More", "pulled
 addscriptexist(11400511154, "Monkey Tycoon: Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Monkey%20Tycoon%20Auto%20Farm.lua")
 
 addhub("Galaxy Hub: Key Bypassed", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Galaxy%20Hub%20Key%20Bypassed.lua")
+
+addhub("Universal No Fall", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20No%20Fall.lua")
