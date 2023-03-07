@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:10:14"
+lastupdate = "GMT +1: 07.03.2023 21:10:18"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -2238,3 +2238,5 @@ addscriptexist(9143982021, "Sword Battles: Spam Skills", "pulled from rbxscript.
 addscript(5740246170, "Current Game","Tower Simulator: Auto Build, Auto Upgrade", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tower%20Simulator%20Auto%20Build%20Auto%20Upgrade.lua")
 
 addscriptexist(8328351891, "Mega Mansion Tycoon: Auto collect, Auto Build", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mega%20Mansion%20Tycoon%20Auto%20collect%20Auto%20Build.lua")
+
+addscriptexist(2413927524, "The Rake REMASTERED: Esp Rake", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/The%20Rake%20REMASTERED%20Esp%20Rake.lua")
