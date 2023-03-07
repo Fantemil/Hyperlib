@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 20:56:23"
+lastupdate = "GMT +1: 07.03.2023 20:56:26"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -1834,3 +1834,5 @@ addscriptexist(8054462345, "Michael's Zombies: Esp, Knife Aura, Silent Aim", "pu
 addscriptexist(3272915504, "Arcane Odyssey: Kill Aura, Farm Mobs", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Arcane%20Odyssey%20Kill%20Aura%20Farm%20Mobs.lua")
 
 addscriptexist(8540346411, "Rebirth Champions X: Auto Click, Auto Rebirth & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Rebirth%20Champions%20X%20Auto%20Click%20Auto%20Rebirth%20%20More.lua")
+
+addscriptexist(11542692507, "Anime Souls Simulator: Auto Farm, Auto Kill Raid, Auto Attack", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime%20Souls%20Simulator%20Auto%20Farm%20Auto%20Kill%20Raid%20Auto%20Attack.lua")
