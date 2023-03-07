@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:12:10"
+lastupdate = "GMT +1: 07.03.2023 21:12:14"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -2296,3 +2296,5 @@ addscriptexist(7899881670, "RB World 4: Anti Cheat Bypass", "pulled from rbxscri
 addscript(9834528893, "Current Game","+1 Jump Every Second: Delete Cringe", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/%20Jump%20Every%20Second%20Delete%20Cringe.lua")
 
 addscriptexist(6516141723, "DOORS: Morph", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DOORS%20Morph.lua")
+
+addscriptexist(11345435986, "Chainsaw Man: Devil’s Heart: Esp", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Chainsaw%20Man%20Devils%20Heart%20Esp.lua")
