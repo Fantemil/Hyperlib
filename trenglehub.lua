@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:05:45"
+lastupdate = "GMT +1: 07.03.2023 21:05:49"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -2104,3 +2104,5 @@ addscriptexist(445664957, "Parkour: Auto Farm", "pulled from rbxscript.com", "ht
 addscriptexist(8737602449, "PLS DONATE: Сlub Teleport Bypass", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PLS%20DONATE%20%D0%A1lub%20Teleport%20Bypass.lua")
 
 addscriptexist(606849621, "Jailbreak: Infinity Nitro", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Jailbreak%20Infinity%20Nitro.lua")
+
+addscript(12264058682, "Current Game","GO TO JAIL AND MAKE FRIENDS TO ESCAPE tycoon: Auto Upgrade, Auto Buy, Auto Fill", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/GO%20TO%20JAIL%20AND%20MAKE%20FRIENDS%20TO%20ESCAPE%20tycoon%20Auto%20Upgrade%20Auto%20Buy%20Auto%20Fill.lua")
