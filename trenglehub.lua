@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 20:57:22"
+lastupdate = "GMT +1: 07.03.2023 20:57:25"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -1864,3 +1864,5 @@ addscript(2581070838, "Current Game","Connect 4: EMP", "pulled from rbxscript.co
 addscriptuniversal("Universal FE Eat Self Hats", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20FE%20Eat%20Self%20Hats.lua")
 
 addscriptexist(2753915549, "Blox Fruits: Teleports, Auto Farm & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blox%20Fruits%20Teleports%20Auto%20Farm%20%20More.lua")
+
+addscriptexist(621129760, "Knife Ability Test: Walkspeed, Silent Aim, ESP", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Knife%20Ability%20Test%20Walkspeed%20Silent%20Aim%20ESP.lua")
