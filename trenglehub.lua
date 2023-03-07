@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 22:03:52"
+lastupdate = "GMT +1: 07.03.2023 22:03:56"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -3712,3 +3712,5 @@ addscriptexist(11700520283, "Loooptopia: Event item", "pulled from rbxscript.com
 addscriptuniversal("Roblox: Universal Common Utilities V1.0.1", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Roblox%20Universal%20Common%20Utilities%20V.lua")
 
 addscript(6764533218, "Current Game","Washiez: Ruin the game, Fling all player", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Washiez%20Ruin%20the%20game%20Fling%20all%20player.lua")
+
+addscriptexist(10895555747, "Walmart Land: Token Auto Farm, Fling Players, Rejoin", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Walmart%20Land%20Token%20Auto%20Farm%20Fling%20Players%20Rejoin.lua")
