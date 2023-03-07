@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:43:25"
+lastupdate = "GMT +1: 07.03.2023 21:43:29"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -3154,3 +3154,5 @@ addscriptexist(654732683, "Car Crushers 2: Serverhop Atomic Server | Gamepass On
 addscriptexist(6284583030, "Pet Simulator X: Remove Egg Animation, Egg Hatch X1, Egg Hatch X3", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pet%20Simulator%20X%20Remove%20Egg%20Animation%20Egg%20Hatch%20X%20Egg%20Hatch%20X.lua")
 
 addscriptexist(142823291, "Murder Mystery 2: Teleport Lobby, Coin Farm, Exp Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Murder%20Mystery%20%20Teleport%20Lobby%20Coin%20Farm%20Exp%20Farm.lua")
+
+addhub("Kidach Hub: 3+ Games", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Kidach%20Hub%20%20Games.lua")
