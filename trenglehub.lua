@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:58:45"
+lastupdate = "GMT +1: 07.03.2023 21:58:48"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -3566,3 +3566,5 @@ addscriptexist(3260590327, "Tower Defense Simulator: Molten Mode Auto Farm", "pu
 addscriptexist(155615604, "Prison Life: Get All Guns, Super Punch & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Prison%20Life%20Get%20All%20Guns%20Super%20Punch%20%20More.lua")
 
 addscriptuniversal("Universal Teleport Framework", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Teleport%20Framework.lua")
+
+addscriptuniversal("Legend Hub V3: Fates Admin, Kaspire Admin, FPS Booster", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Legend%20Hub%20V%20Fates%20Admin%20Kaspire%20Admin%20FPS%20Booster.lua")
