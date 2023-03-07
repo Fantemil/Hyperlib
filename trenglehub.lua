@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:11:10"
+lastupdate = "GMT +1: 07.03.2023 21:11:14"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -2266,3 +2266,5 @@ addscriptexist(2753915549, "Blox Fruits: Auto Farm Level, Auto Raid & More", "pu
 addscriptexist(7991339063, "Rainbow Friends: Sprint, Fullbright, Anti Detect", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Rainbow%20Friends%20Sprint%20Fullbright%20Anti%20Detect.lua")
 
 addscriptexist(155615604, "Prison Life: Adm Cmds", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Prison%20Life%20Adm%20Cmds.lua")
+
+addscriptexist(185655149, "Welcome to Bloxburg: Auto Farm, Anit Cheat Bypass", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Welcome%20to%20Bloxburg%20Auto%20Farm%20Anit%20Cheat%20Bypass.lua")
