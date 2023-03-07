@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:03:34"
+lastupdate = "GMT +1: 07.03.2023 21:03:38"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -2040,3 +2040,5 @@ addscriptexist(537413528, "Build A Boat For Treasure: Walkspeed, Teleports & Mor
 addscript(10894722579, "Current Game","Feed The Noob Tycoon: Auto Sell, Auto Collect, Auto Buy & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Feed%20The%20Noob%20Tycoon%20Auto%20Sell%20Auto%20Collect%20Auto%20Buy%20%20More.lua")
 
 addscriptexist(12996397, "Mega Fun Obby: Auto Rebirth, Auto Farm & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mega%20Fun%20Obby%20Auto%20Rebirth%20Auto%20Farm%20%20More.lua")
+
+addscript(4580204640, "Current Game","Survive the Killer: Loot Aura, Teleports, Remove Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Survive%20the%20Killer%20Loot%20Aura%20Teleports%20Remove%20Farm.lua")
