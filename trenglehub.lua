@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:11:18"
+lastupdate = "GMT +1: 07.03.2023 21:11:21"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -2270,3 +2270,5 @@ addscriptexist(155615604, "Prison Life: Adm Cmds", "pulled from rbxscript.com", 
 addscriptexist(185655149, "Welcome to Bloxburg: Auto Farm, Anit Cheat Bypass", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Welcome%20to%20Bloxburg%20Auto%20Farm%20Anit%20Cheat%20Bypass.lua")
 
 addscriptexist(11582083063, "Piece Adventures Simulator: Auto Attack, Auto Skills, Auto Collect Coins", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Piece%20Adventures%20Simulator%20Auto%20Attack%20Auto%20Skills%20Auto%20Collect%20Coins.lua")
+
+addscriptexist(537413528, "Build A Boat For Treasure: Auto-Farm, Auto Buy, Teleports", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Build%20A%20Boat%20For%20Treasure%20AutoFarm%20Auto%20Buy%20Teleports.lua")
