@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:21:53"
+lastupdate = "GMT +1: 07.03.2023 21:21:57"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -2564,3 +2564,5 @@ addscriptexist(9655469250, "Earthscape Tycoon: Gun Mods", "pulled from rbxscript
 addscriptexist(7253149844, "SCP Games and SCP Monsters: Fe Kill All Players", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SCP%20Games%20and%20SCP%20Monsters%20Fe%20Kill%20All%20Players.lua")
 
 addscriptuniversal("Universal Open Source Key System", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Open%20Source%20Key%20System.lua")
+
+addscriptexist(2788229376, "Da Hood: Macro", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Da%20Hood%20Macro.lua")
