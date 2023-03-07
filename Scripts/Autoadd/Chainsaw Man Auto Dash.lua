@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/JYTheTrue/RB-Scripts/main/Chainsaw%20Man/AUTO%20DASH%20SCRIPT.txt"))()
