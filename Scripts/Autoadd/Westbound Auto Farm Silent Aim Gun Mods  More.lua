@@ -1,0 +1,1 @@
+loadstring(game.HttpGet(game, "https://raw.githubusercontent.com/Exunys/westbound.pro-Utilites/main/Main.lua"))()
