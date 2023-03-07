@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:56:00"
+lastupdate = "GMT +1: 07.03.2023 21:56:05"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -3484,3 +3484,5 @@ addscriptexist(11874473440, "Car Factory Tycoon: Auto Farm, Auto Sell, Auto Fill
 addscript(11700520283, "Current Game","Loooptopia: Get Items Instantly", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Loooptopia%20Get%20Items%20Instantly.lua")
 
 addscriptexist(11746859781, "Bubble Gum Clicker: Auto Blow, Auto Sell & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Bubble%20Gum%20Clicker%20Auto%20Blow%20Auto%20Sell%20%20More.lua")
+
+addscript(7969108904, "Current Game","Clicking Simulator: Fast Auto Clicker", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Clicking%20Simulator%20Fast%20Auto%20Clicker.lua")
