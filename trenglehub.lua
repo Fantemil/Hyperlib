@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:09:25"
+lastupdate = "GMT +1: 07.03.2023 21:09:29"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -2214,3 +2214,5 @@ addscriptexist(189707, "Natural Disaster Survival: God Mod, Auto Farm, Teleport 
 addscriptexist(286090429, "Arsenal: Silent Aim, Auto Kill & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Arsenal%20Silent%20Aim%20Auto%20Kill%20%20More.lua")
 
 addscriptexist(292439477, "Phantom Forces: ESP", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Phantom%20Forces%20ESP.lua")
+
+addscriptuniversal("Universal Friend Detector, Friend Notification System", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Friend%20Detector%20Friend%20Notification%20System.lua")
