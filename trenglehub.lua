@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 15:48:01"
+lastupdate = "GMT +1: 07.03.2023 15:48:05"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -1313,3 +1313,5 @@ addscriptexist(662417684, "LUCKY BLOCKS Battlegrounds: Keybinds, Spawn Block, Te
 
 addscript(5076734934,"Current Game", "Rooms Script | Working ✅", "pulled from rscripts", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Rooms%20Script%20%20Working%20.lua")
 addscript(11939339894, "Current Game","be a dad and get milk simulator: Collect Money", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/be%20a%20dad%20and%20get%20milk%20simulator%20Collect%20Money.lua")
+
+addscript(855499080, "Current Game","SKYWARS: Auto Farm, Teleports", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SKYWARS%20Auto%20Farm%20Teleports.lua")
