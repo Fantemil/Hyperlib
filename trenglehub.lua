@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:38:52"
+lastupdate = "GMT +1: 07.03.2023 21:38:58"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -3018,3 +3018,5 @@ addscript(11599913094, "Current Game","Nuke Simulator: Auto Farm", "pulled from 
 addscriptexist(8146731988, "Ultra Power Tycoon: Auto Upgrade, Auto Collect Cash", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ultra%20Power%20Tycoon%20Auto%20Upgrade%20Auto%20Collect%20Cash.lua")
 
 addscriptexist(11599913094, "Nuke Simulator: Auto claim chests, Auto equip best, Auto Collect", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Nuke%20Simulator%20Auto%20claim%20chests%20Auto%20equip%20best%20Auto%20Collect.lua")
+
+addscript(1599679393, "Current Game","Pet Simulator!: Auto Farm, Auto Egg, Auto Presents & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pet%20Simulator%20Auto%20Farm%20Auto%20Egg%20Auto%20Presents%20%20More.lua")
