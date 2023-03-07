@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:35:27"
+lastupdate = "GMT +1: 07.03.2023 21:35:33"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -2922,3 +2922,5 @@ addscriptexist(11430505281, "Anime Weapon Simulator: Auto Farm, Auto Collect , A
 addscriptexist(10198661638, "Farm Factory Tycoon: Auto Upgrade, Auto Buy & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Farm%20Factory%20Tycoon%20Auto%20Upgrade%20Auto%20Buy%20%20More.lua")
 
 addscriptexist(662417684, "LUCKY BLOCKS Battlegrounds: Fly,Sword Reach,Spawn Blocks", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LUCKY%20BLOCKS%20Battlegrounds%20FlySword%20ReachSpawn%20Blocks.lua")
+
+addscriptexist(11874473440, "Car Factory Tycoon: AutoFarm, Auto Sell, Teleports", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Car%20Factory%20Tycoon%20AutoFarm%20Auto%20Sell%20Teleports.lua")
