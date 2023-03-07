@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:42:12"
+lastupdate = "GMT +1: 07.03.2023 21:42:15"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -3116,3 +3116,5 @@ addscriptexist(11040063484, "Sword Fighters Simulator: Auto Swing, Auto Ascend, 
 addscriptexist(2788229376, "Da Hood: Fly, Noclip & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Da%20Hood%20Fly%20Noclip%20%20More.lua")
 
 addhub("Roblox: Silver Hub", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Roblox%20Silver%20Hub.lua")
+
+addscriptexist(621129760, "KAT: Silent Aim, WalkSpeed, Esp", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/KAT%20Silent%20Aim%20WalkSpeed%20Esp.lua")
