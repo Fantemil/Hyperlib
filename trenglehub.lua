@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 22:05:14"
+lastupdate = "GMT +1: 07.03.2023 22:05:18"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -3750,3 +3750,5 @@ addscriptexist(6284583030, "Pet Simulator X: Auto Hatch Pets, Auto Farm Coins, R
 addscriptexist(11430505281, "Anime Weapon Simulator: Auto Click, Auto Rank, Auto Equip Best Sword", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime%20Weapon%20Simulator%20Auto%20Click%20Auto%20Rank%20Auto%20Equip%20Best%20Sword.lua")
 
 addscriptexist(9846056789, "PLS STEAL: Delete Cups, Restore Cups", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PLS%20STEAL%20Delete%20Cups%20Restore%20Cups.lua")
+
+addscriptexist(901793731, "D-DAY: Silent Aim, Godmode, Teleports", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DDAY%20Silent%20Aim%20Godmode%20Teleports.lua")
