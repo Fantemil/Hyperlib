@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 22:16:48"
+lastupdate = "GMT +1: 07.03.2023 22:16:52"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -4078,3 +4078,5 @@ addscriptexist(3101667897, "Legends Of Speed: Auto Steps, Auto Rebirth, Auto Far
 addscriptexist(6777872443, "Pixel Piece: Infinity Stats", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pixel%20Piece%20Infinity%20Stats.lua")
 
 addscriptexist(11542692507, "Anime Souls Simulator: Auto-Farm, Auto-Quest, Auto-Punch", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime%20Souls%20Simulator%20AutoFarm%20AutoQuest%20AutoPunch.lua")
+
+addscript(3432786397, "Current Game","Pet Mining Simulator: BTools, Nuke, Kick", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pet%20Mining%20Simulator%20BTools%20Nuke%20Kick.lua")
