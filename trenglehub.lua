@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 22:23:22"
+lastupdate = "GMT +1: 07.03.2023 22:23:45"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -4268,3 +4268,5 @@ addscriptexist(4520749081, "King Legacy: Autofarm, Bring Fruit & More", "pulled 
 addscriptuniversal("Universal Give Any Weapon In Your Game", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Give%20Any%20Weapon%20In%20Your%20Game.lua")
 
 addscriptexist(11701792069, "Snow Plow Simulator: Eggs, Spawn Car, Infinity Money", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Snow%20Plow%20Simulator%20Eggs%20Spawn%20Car%20Infinity%20Money.lua")
+
+addscriptexist(11542692507, "Anime Souls Simulator: Autofarm main quest, Auto rebirths, Auto boost potion", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime%20Souls%20Simulator%20Autofarm%20main%20quest%20Auto%20rebirths%20Auto%20boost%20potion.lua")
