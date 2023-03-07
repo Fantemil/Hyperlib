@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 22:04:34"
+lastupdate = "GMT +1: 07.03.2023 22:04:38"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -3732,3 +3732,5 @@ addscriptexist(1758401491, "Public Bathroom Simulator: Spam Toilet Push, Instant
 addscriptexist(920587237, "Adopt Me: Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Adopt%20Me%20Auto%20Farm.lua")
 
 addscriptexist(2788229376, "Da Hood: Knock All, No recoil, Esp", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Da%20Hood%20Knock%20All%20No%20recoil%20Esp.lua")
+
+addscriptexist(10446125875, "Anime Fruit Simulator: Auto Attack, Auto Fruit Tp, Auto Grab Fruit", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime%20Fruit%20Simulator%20Auto%20Attack%20Auto%20Fruit%20Tp%20Auto%20Grab%20Fruit.lua")
