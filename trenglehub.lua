@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:37:36"
+lastupdate = "GMT +1: 07.03.2023 21:37:40"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -2982,3 +2982,5 @@ addscriptuniversal("Universal Free Gamepasses", "pulled from rbxscript.com", "ht
 addscript(5732973455, "Current Game","HOURS: Auto Kill, Get Badges, Godmode", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/HOURS%20Auto%20Kill%20Get%20Badges%20Godmode.lua")
 
 addscriptuniversal("Universal Press E to Aimbot", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Press%20E%20to%20Aimbot.lua")
+
+addscriptexist(11620947043, "Flappy Clicker: Auto Click, Auto Rebirth", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Flappy%20Clicker%20Auto%20Click%20Auto%20Rebirth.lua")
