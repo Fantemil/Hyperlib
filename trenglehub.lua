@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:51:04"
+lastupdate = "GMT +1: 07.03.2023 21:51:08"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -3372,3 +3372,5 @@ addhub("ForRealium Hub: 4+ Games", "pulled from rbxscript.com", "https://raw.git
 addhub("Universal Fling GUI", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Fling%20GUI.lua")
 
 addscriptexist(9825515356, "Hood Customs: Press Q to Silent Aim", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Hood%20Customs%20Press%20Q%20to%20Silent%20Aim.lua")
+
+addscriptexist(2971329387, "Cook Burgers: Free Badge", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Cook%20Burgers%20Free%20Badge.lua")
