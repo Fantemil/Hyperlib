@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:02:50"
+lastupdate = "GMT +1: 07.03.2023 21:02:55"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -2018,3 +2018,5 @@ addscriptexist(142823291, "Murder Mystery 2: Esp, Teleports, Kill Sheriff", "pul
 addscript(3725149043, "Current Game","Super Doomspire: Inf Jump", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Super%20Doomspire%20Inf%20Jump.lua")
 
 addscriptuniversal("Universal Animation Speed-Inator", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Animation%20SpeedInator.lua")
+
+addscriptexist(5989426850, "Transfur Infection 2: Walk Through Kill Barriers", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Transfur%20Infection%20%20Walk%20Through%20Kill%20Barriers.lua")
