@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 22:15:42"
+lastupdate = "GMT +1: 07.03.2023 22:15:46"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -4048,3 +4048,5 @@ addscriptexist(10824616460, "Sword Slasher: Auto Farm, Killaura, Auto Eggs", "pu
 addscriptexist(10446125875, "Anime Fruit Simulator: Auto Farm World 1 Mobs, Auto Skills & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime%20Fruit%20Simulator%20Auto%20Farm%20World%20%20Mobs%20Auto%20Skills%20%20More.lua")
 
 addscript(11251823801, "Current Game","Slap battles but bad: Ragdoll All Players", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Slap%20battles%20but%20bad%20Ragdoll%20All%20Players.lua")
+
+addscriptexist(9551640993, "Mining Simulator 2: Auto Sell, Block Aura, Teleports", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mining%20Simulator%20%20Auto%20Sell%20Block%20Aura%20Teleports.lua")
