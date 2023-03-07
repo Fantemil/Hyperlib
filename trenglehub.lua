@@ -1254,3 +1254,4 @@ addscriptexist(1240123653, "Zombie Attack: Auto Kill", "pulled from rbxscript.co
 addscriptexist(3398014311, "Resaurant Tycoon 2: Auto-Farm, Auto Collect Bills", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Resaurant%20Tycoon%20%20AutoFarm%20Auto%20Collect%20Bills.lua")
 
 addscriptuniversal("RobloxSMM UPDATED ", "pulled from rscripts", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RobloxSMM%20UPDATED%20.lua")
+addscriptexist(6735572261, "Pilgrammed: Auto Attack, God Mode & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pilgrammed%20Auto%20Attack%20God%20Mode%20%20More.lua")
