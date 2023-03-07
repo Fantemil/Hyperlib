@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:08:22"
+lastupdate = "GMT +1: 07.03.2023 21:08:26"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -2184,3 +2184,5 @@ addscript(6205205961, "Current Game","Escape Running Head: Unlock boss Gamepass,
 addscript(4065093137, "Current Game","eat sand: Auto Click, Auto Equip, Auto Take Shelter", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/eat%20sand%20Auto%20Click%20Auto%20Equip%20Auto%20Take%20Shelter.lua")
 
 addscriptexist(1554960397, "Car Dealership Tycoon: Auto Race", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Car%20Dealership%20Tycoon%20Auto%20Race.lua")
+
+addscript(9264596435, "Current Game","Idle Heroes Simulator: Auto Level Up, Auto Attack, Auto Tp", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Idle%20Heroes%20Simulator%20Auto%20Level%20Up%20Auto%20Attack%20Auto%20Tp.lua")
