@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 22:32:17"
+lastupdate = "GMT +1: 07.03.2023 22:32:20"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -4494,3 +4494,5 @@ addscript(1254185591, "Current Game","Dominus Lifting Simulator: Auto Clicker", 
 addscript(10821317529, "Current Game","Pickaxe Mining Simulator: Auto Mine, Auto Click, Auto Collect Drops", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pickaxe%20Mining%20Simulator%20Auto%20Mine%20Auto%20Click%20Auto%20Collect%20Drops.lua")
 
 addscriptexist(8657766101, "Marvellous Playground: No cooldown keybind", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Marvellous%20Playground%20No%20cooldown%20keybind.lua")
+
+addscript(11646284046, "Current Game","Dino Island Tycoon: Auto Farm, Auto Collect, Auto Deposit", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Dino%20Island%20Tycoon%20Auto%20Farm%20Auto%20Collect%20Auto%20Deposit.lua")
