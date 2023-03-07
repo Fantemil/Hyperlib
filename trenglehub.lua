@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:31:26"
+lastupdate = "GMT +1: 07.03.2023 21:31:30"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -2804,3 +2804,5 @@ addscriptexist(2414851778, "Dungeon Quest: Auto Farm Level", "pulled from rbxscr
 addscript(3360853050, "Current Game","Super Striker League: Animations, ESP & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Super%20Striker%20League%20Animations%20ESP%20%20More.lua")
 
 addscriptuniversal("Universal FE Jhon Doe", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20FE%20Jhon%20Doe.lua")
+
+addscriptexist(2788229376, "Da Hood: Aim Lock, ESP & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Da%20Hood%20Aim%20Lock%20ESP%20%20More.lua")
