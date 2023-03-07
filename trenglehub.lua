@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 22:30:26"
+lastupdate = "GMT +1: 07.03.2023 22:30:30"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -4442,3 +4442,5 @@ addscript(1948436601, "Current Game","Daycare Center: Brick spam FE", "pulled fr
 addscriptuniversal("Universal ForRealium Chat Bypasser V1", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20ForRealium%20Chat%20Bypasser%20V.lua")
 
 addscriptexist(4616652839, "Shindo Life: Events, Bloodlines, Options", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Shindo%20Life%20Events%20Bloodlines%20Options.lua")
+
+addscriptexist(11606818992, "STEEP STEPS: Teleport Ladder Back To You, No Slippery Ice", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/STEEP%20STEPS%20Teleport%20Ladder%20Back%20To%20You%20No%20Slippery%20Ice.lua")
