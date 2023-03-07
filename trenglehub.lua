@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:33:03"
+lastupdate = "GMT +1: 07.03.2023 21:33:06"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -2850,3 +2850,5 @@ addscript(5233782396, "Current Game","Creatures of Sonaria: Auto Eat Plants, Ant
 addscriptexist(6735572261, "Pilgrammed: Auto Farm Mob, Auto Equip, Auto Slash", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pilgrammed%20Auto%20Farm%20Mob%20Auto%20Equip%20Auto%20Slash.lua")
 
 addscript(680750021, "Current Game","Case Clicker: Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Case%20Clicker%20Auto%20Farm.lua")
+
+addhub("Axure Hub V2: 2 Games", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Axure%20Hub%20V%20%20Games.lua")
