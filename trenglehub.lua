@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 22:16:32"
+lastupdate = "GMT +1: 07.03.2023 22:16:36"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -4070,3 +4070,5 @@ addscript(11767933308, "Current Game","Smash & Grab: Auto Farm, Auto Power, Auto
 addscriptexist(2866967438, "Fishing Simulator: Autofarm, Auto Sell, Inf Cash", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Fishing%20Simulator%20Autofarm%20Auto%20Sell%20Inf%20Cash.lua")
 
 addscriptexist(11818704485, "+1 Damage Every Second: Inf strength", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/%20Damage%20Every%20Second%20Inf%20strength.lua")
+
+addscriptexist(7655745946, "Dunking Simulator: Auto Rebirth, Auto Season Pass", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Dunking%20Simulator%20Auto%20Rebirth%20Auto%20Season%20Pass.lua")
