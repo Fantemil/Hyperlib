@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 20:54:51"
+lastupdate = "GMT +1: 07.03.2023 20:54:55"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -1790,3 +1790,5 @@ addscriptuniversal("Universal FE Ravager", "pulled from rbxscript.com", "https:/
 addscriptexist(2753915549, "Blox Fruits: Auto Raid, Farm & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blox%20Fruits%20Auto%20Raid%20Farm%20%20More.lua")
 
 addscript(141084271, "Current Game","Rise of the Dead: Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Rise%20of%20the%20Dead%20Auto%20Farm.lua")
+
+addscriptexist(142823291, "Murder Mystery 2: Esp, Infinity Jumps, Fake Knife", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Murder%20Mystery%20%20Esp%20Infinity%20Jumps%20Fake%20Knife.lua")
