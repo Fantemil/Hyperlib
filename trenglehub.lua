@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 22:12:28"
+lastupdate = "GMT +1: 07.03.2023 22:12:32"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -3964,3 +3964,5 @@ addscriptexist(6777872443, "Pixel Piece: Teleport to Island, Auto Stats & More",
 addscriptexist(10704789056, "Drive World: Make Car Drifty", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Drive%20World%20Make%20Car%20Drifty.lua")
 
 addscriptexist(11156779721, "The Survival Game: Speed, Teleports & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/The%20Survival%20Game%20Speed%20Teleports%20%20More.lua")
+
+addscriptexist(142823291, "Murder Mystery 2: Visual Unlock Everything", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Murder%20Mystery%20%20Visual%20Unlock%20Everything.lua")
