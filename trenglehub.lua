@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 20:57:56"
+lastupdate = "GMT +1: 07.03.2023 20:58:00"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -1878,3 +1878,5 @@ addscript(11981794711, "Current Game","Color Race: Auto Win, Auto Hatch, Walkspe
 addscriptexist(443406476, "Project Lazarus: Gun Mod, Free Points, Kill All", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Project%20Lazarus%20Gun%20Mod%20Free%20Points%20Kill%20All.lua")
 
 addscriptexist(2788229376, "Da Hood: Aimbot, Kill Aura, Cash Aura", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Da%20Hood%20Aimbot%20Kill%20Aura%20Cash%20Aura.lua")
+
+addscriptexist(9498006165, "Tapping Simulator: Auto Equip Best Pets, Auto Tap, Teleports", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tapping%20Simulator%20Auto%20Equip%20Best%20Pets%20Auto%20Tap%20Teleports.lua")
