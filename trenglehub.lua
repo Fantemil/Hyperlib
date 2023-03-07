@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 22:05:22"
+lastupdate = "GMT +1: 07.03.2023 22:05:26"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -3754,3 +3754,5 @@ addscriptexist(9846056789, "PLS STEAL: Delete Cups, Restore Cups", "pulled from 
 addscriptexist(901793731, "D-DAY: Silent Aim, Godmode, Teleports", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DDAY%20Silent%20Aim%20Godmode%20Teleports.lua")
 
 addscriptexist(2971329387, "Cook Burgers: Teleports To Player, Interact, Teleports", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Cook%20Burgers%20Teleports%20To%20Player%20Interact%20Teleports.lua")
+
+addscriptexist(1899149341, "Vehicle Tycoon: Auto Collect Money, Auto Farm, Auto Race", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Vehicle%20Tycoon%20Auto%20Collect%20Money%20Auto%20Farm%20Auto%20Race.lua")
