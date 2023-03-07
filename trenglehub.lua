@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 20:56:03"
+lastupdate = "GMT +1: 07.03.2023 20:56:07"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -1824,3 +1824,5 @@ addscript(8750997647, "Current Game","Tapping Legends X: Auto Tap, Auto Rebirth,
 addscriptexist(662417684, "LUCKY BLOCKS Battlegrounds: Get All", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LUCKY%20BLOCKS%20Battlegrounds%20Get%20All.lua")
 
 addscriptexist(1962086868, "Tower of Hell: Godmode, Bunny Hop, Gravity", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tower%20of%20Hell%20Godmode%20Bunny%20Hop%20Gravity.lua")
+
+addscript(9737855826, "Current Game","Trade Simulator: Auto Buy", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Trade%20Simulator%20Auto%20Buy.lua")
