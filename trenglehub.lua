@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 22:16:22"
+lastupdate = "GMT +1: 07.03.2023 22:16:28"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -4066,3 +4066,5 @@ addscript(2130061659, "Current Game","Eat And Destroy: Auto Eat", "pulled from r
 addscript(12088544747, "Current Game","Pet Merge: AutoClick, AutoMerge", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pet%20Merge%20AutoClick%20AutoMerge.lua")
 
 addscript(11767933308, "Current Game","Smash & Grab: Auto Farm, Auto Power, Auto Rebirth", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Smash%20%20Grab%20Auto%20Farm%20Auto%20Power%20Auto%20Rebirth.lua")
+
+addscriptexist(2866967438, "Fishing Simulator: Autofarm, Auto Sell, Inf Cash", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Fishing%20Simulator%20Autofarm%20Auto%20Sell%20Inf%20Cash.lua")
