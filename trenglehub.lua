@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:00:29"
+lastupdate = "GMT +1: 07.03.2023 21:00:33"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -1952,3 +1952,5 @@ addscriptexist(6516141723, "DOORS: Press Q + Left Mouse click To Give Items", "p
 addscriptexist(6284583030, "Pet Simulator X: Pet Sniper", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pet%20Simulator%20X%20Pet%20Sniper.lua")
 
 addscriptexist(4490140733, "My Restaurant: Auto-Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/My%20Restaurant%20AutoFarm.lua")
+
+addscriptexist(6735572261, "Pilgrammed: Fly, Speed & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pilgrammed%20Fly%20Speed%20%20More.lua")
