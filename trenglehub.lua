@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:18:59"
+lastupdate = "GMT +1: 07.03.2023 21:19:05"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -2482,3 +2482,5 @@ addscriptuniversal("Universal Icy Notifications for Developers", "pulled from rb
 addscriptexist(6679968919, "Fly Race: Auto Win", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Fly%20Race%20Auto%20Win.lua")
 
 addscriptuniversal("Universal Press E To Gravity", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Press%20E%20To%20Gravity.lua")
+
+addscriptexist(2753915549, "Blox Fruits: Auto Buy, Auto-Farm, Teleports", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blox%20Fruits%20Auto%20Buy%20AutoFarm%20Teleports.lua")
