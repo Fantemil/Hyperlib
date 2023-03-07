@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:18:38"
+lastupdate = "GMT +1: 07.03.2023 21:18:42"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -2472,3 +2472,5 @@ addscriptexist(147848991, "Be A Parkour Ninja: Blind Everyone", "pulled from rbx
 addscriptexist(2753915549, "Blox Fruits: Auto-Farm, Teleports & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blox%20Fruits%20AutoFarm%20Teleports%20%20More.lua")
 
 addhub("Void Hub: 1 Game", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Void%20Hub%20%20Game.lua")
+
+addscriptexist(286090429, "Arsenal: Aim Bot, Super Speed & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Arsenal%20Aim%20Bot%20Super%20Speed%20%20More.lua")
