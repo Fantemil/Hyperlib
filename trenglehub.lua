@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 22:30:49"
+lastupdate = "GMT +1: 07.03.2023 22:30:55"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -4452,3 +4452,5 @@ addscriptexist(11040063484, "Sword Fighters Simulator: Auto Farm & More!", "pull
 addscriptexist(11156779721, "The Survival Game [BETA]: VAPE V4", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/The%20Survival%20Game%20BETA%20VAPE%20V.lua")
 
 addscript(9182660355, "Current Game","Vector Fission: Infinite Money", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Vector%20Fission%20Infinite%20Money.lua")
+
+addscriptexist(11156779721, "The Survival Game [BETA]: KYA-WARE", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/The%20Survival%20Game%20BETA%20KYAWARE.lua")
