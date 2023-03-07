@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 22:03:37"
+lastupdate = "GMT +1: 07.03.2023 22:03:41"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -3704,3 +3704,5 @@ addscriptexist(11874473440, "Car Factory Tycoon: Auto weld", "pulled from rbxscr
 addscriptexist(11156779721, "The Survival Game: Сrank up the speed", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/The%20Survival%20Game%20%D0%A1rank%20up%20the%20speed.lua")
 
 addscriptexist(8304191830, "Anime Adventures: Lag Switch", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime%20Adventures%20Lag%20Switch.lua")
+
+addscriptexist(11606818992, "STEEP STEPS: Bypass Anti Cheat", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/STEEP%20STEPS%20Bypass%20Anti%20Cheat.lua")
