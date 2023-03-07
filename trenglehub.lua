@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:57:52"
+lastupdate = "GMT +1: 07.03.2023 21:57:56"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -3540,3 +3540,5 @@ addscriptexist(6808416928, "AIMBLOX BETA: Aimbot, ESP, Trigger Bot", "pulled fro
 addhub("VHub: Univesal Hub", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/VHub%20Univesal%20Hub.lua")
 
 addscriptexist(11800876530, "+One Blocks Every Second: Auto Rebirth, Auto Click, Auto Hatch", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/One%20Blocks%20Every%20Second%20Auto%20Rebirth%20Auto%20Click%20Auto%20Hatch.lua")
+
+addhub("Rice Hub V2", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Rice%20Hub%20V.lua")
