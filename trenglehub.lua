@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 22:09:58"
+lastupdate = "GMT +1: 07.03.2023 22:10:02"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -3892,3 +3892,5 @@ addhub("Roblox: unfair Hub(50+ Games)", "pulled from rbxscript.com", "https://ra
 addscriptexist(11430505281, "Anime Weapon Simulator: Auto Click, Auto Equip Best Pets & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime%20Weapon%20Simulator%20Auto%20Click%20Auto%20Equip%20Best%20Pets%20%20More.lua")
 
 addscriptuniversal("Universal FOV, Silent Aim", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20FOV%20Silent%20Aim.lua")
+
+addscriptexist(3177438863, "Dragon Blox: Auto Strength Farm, Auto Rebirth, Get Drops", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Dragon%20Blox%20Auto%20Strength%20Farm%20Auto%20Rebirth%20Get%20Drops.lua")
