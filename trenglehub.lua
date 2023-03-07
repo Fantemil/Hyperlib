@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 20:54:36"
+lastupdate = "GMT +1: 07.03.2023 20:54:40"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -1782,3 +1782,5 @@ addscriptexist(3297964905, "Weaponry [beta]: Kill All, Movement Modifiers, Esp",
 addscriptexist(8908228901, "SharkBite 2: Gun Mod, Auto Farm, Firerate", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SharkBite%20%20Gun%20Mod%20Auto%20Farm%20Firerate.lua")
 
 addhub("Frightened Hub: 2 Games", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Frightened%20Hub%20%20Games.lua")
+
+addscriptexist(648362523, "Breaking Point: FullBright, Aimbot, WallCheck & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Breaking%20Point%20FullBright%20Aimbot%20WallCheck%20%20More.lua")
