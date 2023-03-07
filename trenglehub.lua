@@ -1276,3 +1276,4 @@ addscriptuniversal("Universal: Teleports", "pulled from rbxscript.com", "https:/
 addscriptexist(12389327869, "Contact: A-888: Auto-Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Contact%20A%20AutoFarm.lua")
 
 addscript(9796685905,"Current Game", "Super Hero Race Clicker Script", "pulled from rscripts", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Super%20Hero%20Race%20Clicker%20Script.lua")
+addscript(2295122555, "Current Game","Project JoJo: Auto Farm Level, Money Farm, Items Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Project%20JoJo%20Auto%20Farm%20Level%20Money%20Farm%20Items%20Farm.lua")
