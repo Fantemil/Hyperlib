@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:08:33"
+lastupdate = "GMT +1: 07.03.2023 21:08:37"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -2190,3 +2190,5 @@ addscript(9264596435, "Current Game","Idle Heroes Simulator: Auto Level Up, Auto
 addscriptexist(10704789056, "Drive World: Fast Cash Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Drive%20World%20Fast%20Cash%20Auto%20Farm.lua")
 
 addscriptexist(11636413564, "Meme Mergers: Simple Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Meme%20Mergers%20Simple%20Auto%20Farm.lua")
+
+addscript(338574920, "Current Game","Wings of Glory: Muzzle velocity changer", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Wings%20of%20Glory%20Muzzle%20velocity%20changer.lua")
