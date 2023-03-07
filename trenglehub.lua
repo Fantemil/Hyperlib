@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:24:52"
+lastupdate = "GMT +1: 07.03.2023 21:24:56"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -2622,3 +2622,5 @@ addscript(10358162137, "Current Game","Demon Slayer Weak Legacy [BETA]: 10k Exp"
 addscript(9773427501, "Current Game","Jitcity: Kick & Ban Menu", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Jitcity%20Kick%20%20Ban%20Menu.lua")
 
 addscriptexist(10358162137, "Demon Slayer Weak Legacy [BETA]: 100k Yen", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Demon%20Slayer%20Weak%20Legacy%20BETA%20k%20Yen.lua")
+
+addscriptexist(6679968919, "Fly Race!: Get +1 Million Wins", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Fly%20Race%20Get%20%20Million%20Wins.lua")
