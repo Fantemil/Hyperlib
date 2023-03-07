@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 22:30:33"
+lastupdate = "GMT +1: 07.03.2023 22:30:39"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -4446,3 +4446,5 @@ addscriptexist(4616652839, "Shindo Life: Events, Bloodlines, Options", "pulled f
 addscriptexist(11606818992, "STEEP STEPS: Teleport Ladder Back To You, No Slippery Ice", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/STEEP%20STEPS%20Teleport%20Ladder%20Back%20To%20You%20No%20Slippery%20Ice.lua")
 
 addscriptexist(10824616460, "Sword Slasher: Insta Kill All Mobs", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sword%20Slasher%20Insta%20Kill%20All%20Mobs.lua")
+
+addscriptexist(11040063484, "Sword Fighters Simulator: Auto Farm & More!", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sword%20Fighters%20Simulator%20Auto%20Farm%20%20More.lua")
