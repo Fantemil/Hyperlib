@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:20:00"
+lastupdate = "GMT +1: 07.03.2023 21:20:05"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -2512,3 +2512,5 @@ addscriptexist(292439477, "Phantom Forces: Hitbox Expander", "pulled from rbxscr
 addscriptexist(11846163207, "Mage Tycoon: Crate Esp", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mage%20Tycoon%20Crate%20Esp.lua")
 
 addscriptexist(6735572261, "Pilgrammed: Ore Esp, Player Esp", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pilgrammed%20Ore%20Esp%20Player%20Esp.lua")
+
+addscript(885450884, "Current Game","The Grand Crossing Border Roleplay: Troll Features, Auto Farm & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/The%20Grand%20Crossing%20Border%20Roleplay%20Troll%20Features%20Auto%20Farm%20%20More.lua")
