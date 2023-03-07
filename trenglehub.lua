@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 22:17:54"
+lastupdate = "GMT +1: 07.03.2023 22:17:58"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -4110,3 +4110,5 @@ addscriptuniversal("Universal ESP, Tracers, Show Team", "pulled from rbxscript.c
 addscriptexist(3851622790, "Break In (Story): Give Pizza, Give Apple", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Break%20In%20Story%20Give%20Pizza%20Give%20Apple.lua")
 
 addscriptexist(10945472407, "Strong Muscle Simulator: Auto Weight, Auto Rebirth, Auto Craft", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Strong%20Muscle%20Simulator%20Auto%20Weight%20Auto%20Rebirth%20Auto%20Craft.lua")
+
+addscriptexist(6808416928, "AIMBLOX BETA: Silent Aimbot", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AIMBLOX%20BETA%20Silent%20Aimbot.lua")
