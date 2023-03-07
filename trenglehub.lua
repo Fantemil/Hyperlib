@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:42:26"
+lastupdate = "GMT +1: 07.03.2023 21:42:30"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -3124,3 +3124,5 @@ addscriptexist(2753915549, "Blox Fruits: Mirage Finder, Full Moon Finder Server 
 addhub("Roblox: Axure Hub V2", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Roblox%20Axure%20Hub%20V.lua")
 
 addscriptexist(8540346411, "Rebirth Champions X: Auto Click, Auto Rebirhs", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Rebirth%20Champions%20X%20Auto%20Click%20Auto%20Rebirhs.lua")
+
+addscriptuniversal("Universal Explode GUI", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Explode%20GUI.lua")
