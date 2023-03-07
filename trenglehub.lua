@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 20:54:58"
+lastupdate = "GMT +1: 07.03.2023 20:55:03"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -1794,3 +1794,5 @@ addscript(141084271, "Current Game","Rise of the Dead: Auto Farm", "pulled from 
 addscriptexist(142823291, "Murder Mystery 2: Esp, Infinity Jumps, Fake Knife", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Murder%20Mystery%20%20Esp%20Infinity%20Jumps%20Fake%20Knife.lua")
 
 addscript(11258371342, "Current Game","PacSun Los Angeles Tycoon: Auto Build, Auto ATM, Ws", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PacSun%20Los%20Angeles%20Tycoon%20Auto%20Build%20Auto%20ATM%20Ws.lua")
+
+addscript(3095204897, "Current Game","Isle: Infinite capacity, Collect All, Automatic hack", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Isle%20Infinite%20capacity%20Collect%20All%20Automatic%20hack.lua")
