@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:18:31"
+lastupdate = "GMT +1: 07.03.2023 21:18:34"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -2468,3 +2468,5 @@ addscriptexist(5130598377, "A Universal Time: Auto Skill, Noclip & More", "pulle
 addscriptexist(155615604, "Prison Life: Spawn FE Sword", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Prison%20Life%20Spawn%20FE%20Sword.lua")
 
 addscriptexist(147848991, "Be A Parkour Ninja: Blind Everyone", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Be%20A%20Parkour%20Ninja%20Blind%20Everyone.lua")
+
+addscriptexist(2753915549, "Blox Fruits: Auto-Farm, Teleports & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blox%20Fruits%20AutoFarm%20Teleports%20%20More.lua")
