@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:36:43"
+lastupdate = "GMT +1: 07.03.2023 21:36:47"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -2958,3 +2958,5 @@ addhub("NukeVsCity Hub: Key Bypassed", "pulled from rbxscript.com", "https://raw
 addscriptexist(11330149751, "making scam calls to save your best friend tycoon: Auto Upgrade, Auto Help, Auto Scam", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/making%20scam%20calls%20to%20save%20your%20best%20friend%20tycoon%20Auto%20Upgrade%20Auto%20Help%20Auto%20Scam.lua")
 
 addscriptuniversal("Universal Walkspeed, Jump Power, Loop", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Walkspeed%20Jump%20Power%20Loop.lua")
+
+addscript(10449761463, "Current Game","Saitama Battleground: Auto Attack, Auto Farm, ESP", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Saitama%20Battleground%20Auto%20Attack%20Auto%20Farm%20ESP.lua")
