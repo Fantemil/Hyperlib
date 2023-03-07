@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:43:06"
+lastupdate = "GMT +1: 07.03.2023 21:43:10"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -3144,3 +3144,5 @@ addscript(10660791703, "Current Game","cart ride around nothing: Nuker Server", 
 addscript(2732246600, "Current Game","Bloody Battle: Get Ticker", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Bloody%20Battle%20Get%20Ticker.lua")
 
 addscriptexist(654732683, "Car Crushers 2: Auto Rebirtg, Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Car%20Crushers%20%20Auto%20Rebirtg%20Auto%20Farm.lua")
+
+addscriptexist(11345435986, "Chainsaw Man: Devil's Heart: Auto Quest, Auto Farm, Client AE Bypass", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Chainsaw%20Man%20Devils%20Heart%20Auto%20Quest%20Auto%20Farm%20Client%20AE%20Bypass.lua")
