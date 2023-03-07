@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 22:32:40"
+lastupdate = "GMT +1: 07.03.2023 22:32:43"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -4506,3 +4506,5 @@ addscriptexist(4566572536, "Vehicle Legends: Auto Farm, Noclip, Fly", "pulled fr
 addscriptexist(6728870912, "World of Stands: Players Auto Kill, Auto Attack, ESP", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/World%20of%20Stands%20Players%20Auto%20Kill%20Auto%20Attack%20ESP.lua")
 
 addscriptexist(21532277, "Notoriety: Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Notoriety%20Auto%20Farm.lua")
+
+addscriptexist(2753915549, "Blox Fruits: Asrilium Invisibility", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blox%20Fruits%20Asrilium%20Invisibility.lua")
