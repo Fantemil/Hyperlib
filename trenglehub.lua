@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 15:42:48"
+lastupdate = "GMT +1: 07.03.2023 15:42:51"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -1115,3 +1115,5 @@ addscriptexist(9872472334, "DevHub [Evade Added] +5 Games", "pulled from rscript
 addscript(2534724415, "Current Game","Emergency Response: Liberty County: Car Speed, Auto Solve, Teleports", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Emergency%20Response%20Liberty%20County%20Car%20Speed%20Auto%20Solve%20Teleports.lua")
 
 addscriptexist(2788229376, "Da Hood: Jumppower, Anti Lock, Aimlock", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Da%20Hood%20Jumppower%20Anti%20Lock%20Aimlock.lua")
+
+addscriptexist(11040063484, "Sword Fighters Simulator: Teleports, Auto Ascend & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sword%20Fighters%20Simulator%20Teleports%20Auto%20Ascend%20%20More.lua")
