@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:19:45"
+lastupdate = "GMT +1: 07.03.2023 21:19:49"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -2504,3 +2504,5 @@ addscript(5709572883, "Current Game","Lift Legends Simulator: Auto Sell, Auto Ta
 addscript(11846163207, "Current Game","Mage Tycoon: Spam Dropper", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mage%20Tycoon%20Spam%20Dropper.lua")
 
 addscriptexist(6735572261, "Pilgrammed: Insta Kill Mobs", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pilgrammed%20Insta%20Kill%20Mobs.lua")
+
+addscriptexist(6728870912, "World of Stands: Farm Chest, Tp, Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/World%20of%20Stands%20Farm%20Chest%20Tp%20Auto%20Farm.lua")
