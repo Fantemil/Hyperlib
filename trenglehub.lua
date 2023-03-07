@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:33:11"
+lastupdate = "GMT +1: 07.03.2023 21:33:15"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -2854,3 +2854,5 @@ addscript(680750021, "Current Game","Case Clicker: Auto Farm", "pulled from rbxs
 addhub("Axure Hub V2: 2 Games", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Axure%20Hub%20V%20%20Games.lua")
 
 addhub("Universal AK-47", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20AK.lua")
+
+addscriptexist(142823291, "Murder Mystery 2: Noclip, Silent Aim & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Murder%20Mystery%20%20Noclip%20Silent%20Aim%20%20More.lua")
