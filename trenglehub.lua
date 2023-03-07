@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 22:19:20"
+lastupdate = "GMT +1: 07.03.2023 22:19:25"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -4154,3 +4154,5 @@ addscriptexist(4913581664, "Cart Ride Into Rtide: Auto Press Carts Buttons, Tele
 addscriptexist(9825515356, "Hood Customs: Aimbot, Auto Lock, Wall-Check", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Hood%20Customs%20Aimbot%20Auto%20Lock%20WallCheck.lua")
 
 addscriptexist(4566572536, "Vehicle Legends: Anchor Vehicle, Speed Boost Multiplayer & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Vehicle%20Legends%20Anchor%20Vehicle%20Speed%20Boost%20Multiplayer%20%20More.lua")
+
+addscriptexist(3351674303, "Driving Empire: Platform Height, Drive on Platform & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Driving%20Empire%20Platform%20Height%20Drive%20on%20Platform%20%20More.lua")
