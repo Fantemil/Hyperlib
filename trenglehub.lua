@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 22:15:50"
+lastupdate = "GMT +1: 07.03.2023 22:15:55"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -4052,3 +4052,5 @@ addscript(11251823801, "Current Game","Slap battles but bad: Ragdoll All Players
 addscriptexist(9551640993, "Mining Simulator 2: Auto Sell, Block Aura, Teleports", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mining%20Simulator%20%20Auto%20Sell%20Block%20Aura%20Teleports.lua")
 
 addscriptexist(155615604, "Prison Life: Admin Commands", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Prison%20Life%20Admin%20Commands.lua")
+
+addscriptexist(9498006165, "Tapping Simulator: Auto Click, Auto Rebirth, Auto Hatch", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tapping%20Simulator%20Auto%20Click%20Auto%20Rebirth%20Auto%20Hatch.lua")
