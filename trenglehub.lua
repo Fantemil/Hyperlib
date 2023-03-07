@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:43:54"
+lastupdate = "GMT +1: 07.03.2023 21:43:57"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -3168,3 +3168,5 @@ addscriptexist(621129760, "Knife Ability Test: Silent Aim, ESP & More", "pulled 
 addscriptexist(4566572536, "Vehicle Legends: Set brake force, Change Car Speed, Keybinds", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Vehicle%20Legends%20Set%20brake%20force%20Change%20Car%20Speed%20Keybinds.lua")
 
 addscriptexist(3351674303, "Driving Empire: Car Speed multiplier", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Driving%20Empire%20Car%20Speed%20multiplier.lua")
+
+addscriptexist(6872265039, "BedWars: GUI with Vape V4", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BedWars%20GUI%20with%20Vape%20V.lua")
