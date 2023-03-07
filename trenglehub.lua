@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 20:56:50"
+lastupdate = "GMT +1: 07.03.2023 20:56:54"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -1848,3 +1848,5 @@ addscriptexist(5130598377, "A Universal Time: Teleports, Inf Jump & More", "pull
 addscript(7232779505, "Current Game","Type Race: AutoFarm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Type%20Race%20AutoFarm.lua")
 
 addscript(10087074695, "Current Game","Knife Strife: Reach, Kill All, Instant Kill", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Knife%20Strife%20Reach%20Kill%20All%20Instant%20Kill.lua")
+
+addscript(9862832367, "Current Game","Never-Ending Cart Ride: Inf Studs", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NeverEnding%20Cart%20Ride%20Inf%20Studs.lua")
