@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:51:48"
+lastupdate = "GMT +1: 07.03.2023 21:51:52"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -3394,3 +3394,5 @@ addscriptexist(2971329387, "Cook Burgers: Teleport Anything To You", "pulled fro
 addscriptexist(286090429, "Arsenal: Ping Spoofer", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Arsenal%20Ping%20Spoofer.lua")
 
 addscript(1758401491, "Current Game","Public Bathroom Simulator: Noob Spam Sound, Toilet Spam Sound, Get Tools", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Public%20Bathroom%20Simulator%20Noob%20Spam%20Sound%20Toilet%20Spam%20Sound%20Get%20Tools.lua")
+
+addscriptexist(11874473440, "Car Factory Tycoon: Mod Car, Auto Farm, Tp", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Car%20Factory%20Tycoon%20Mod%20Car%20Auto%20Farm%20Tp.lua")
