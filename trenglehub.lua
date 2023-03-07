@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:30:42"
+lastupdate = "GMT +1: 07.03.2023 21:30:46"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -2784,3 +2784,5 @@ addscriptexist(10598587051, "Anime Clicker Fight: Auto Click, Walkspeed, Auto Ha
 addscriptexist(4490140733, "My Restaurant: Teleports, Auto Farm & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/My%20Restaurant%20Teleports%20Auto%20Farm%20%20More.lua")
 
 addscriptexist(5902977746, "Ultimate Tower Defense: Teleports, Auto Fish & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ultimate%20Tower%20Defense%20Teleports%20Auto%20Fish%20%20More.lua")
+
+addscriptexist(6284583030, "Pet Simulator X: Auto Farm, Walkspeed, Auto Enchant", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pet%20Simulator%20X%20Auto%20Farm%20Walkspeed%20Auto%20Enchant.lua")
