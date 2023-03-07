@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 15:47:23"
+lastupdate = "GMT +1: 07.03.2023 15:47:25"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -1290,3 +1290,4 @@ addscriptexist(8568266872, "Kill Monsters To Save Princess: Auto Waves, Fast Hit
 addscriptexist(3398014311, "Restaurant Tycoon 2: Insta Finish For Npcs, Instant Cook", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Restaurant%20Tycoon%20%20Insta%20Finish%20For%20Npcs%20Instant%20Cook.lua")
 
 addscript(6741970382,"Current Game", "troll script and cool features", "pulled from rscripts", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/troll%20script%20and%20cool%20features.lua")
+addscriptexist(6516141723, "DOORS: ROOMS Auto Complete", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DOORS%20ROOMS%20Auto%20Complete.lua")
