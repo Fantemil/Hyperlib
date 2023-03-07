@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:34:51"
+lastupdate = "GMT +1: 07.03.2023 21:34:54"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -2904,3 +2904,5 @@ addscriptuniversal("Universal FE Chat Troller", "pulled from rbxscript.com", "ht
 addscript(6751893745, "Current Game","Doors Story: Inf Cash", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Doors%20Story%20Inf%20Cash.lua")
 
 addscriptexist(8908228901, "Sharkbite 2: Free Boats", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sharkbite%20%20Free%20Boats.lua")
+
+addscriptuniversal("Universal Shiftlock Unlcok", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Shiftlock%20Unlcok.lua")
