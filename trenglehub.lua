@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 15:48:19"
+lastupdate = "GMT +1: 07.03.2023 15:48:20"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -1324,3 +1324,4 @@ addscriptexist(537413528, "Build A Boat For Treasure: Click TP, Auto Farm & More
 addscriptexist(3956818381, "Ninja Legends: Auto Sell, Auto Swing, Auto Buy", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ninja%20Legends%20Auto%20Sell%20Auto%20Swing%20Auto%20Buy.lua")
 
 addscriptexist(10982284336, "Auto Farm Basic / OXYGEN", "pulled from rscripts", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Farm%20Basic%20%20OXYGEN.lua")
+addscript(5130598377, "Current Game","A Universal Time: God Mode, Auto Quest, Items Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/A%20Universal%20Time%20God%20Mode%20Auto%20Quest%20Items%20Farm.lua")
