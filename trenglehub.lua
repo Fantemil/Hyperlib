@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:48:20"
+lastupdate = "GMT +1: 07.03.2023 21:48:23"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -3296,3 +3296,5 @@ addscriptexist(10714365287, "Anime Racing Clicker: Redeem Codes, Auto Click, Aut
 addscriptexist(7232779505, "Type Race: Unlock all badges", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Type%20Race%20Unlock%20all%20badges.lua")
 
 addscriptuniversal("Universal Hitboxes", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Hitboxes.lua")
+
+addscriptuniversal("Universal Perm Animation Changer", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Perm%20Animation%20Changer.lua")
