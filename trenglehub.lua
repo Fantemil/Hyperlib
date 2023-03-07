@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:13:00"
+lastupdate = "GMT +1: 07.03.2023 21:13:07"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -2320,3 +2320,5 @@ addscriptexist(10673860069, "Horse Racing Club: Infinite Money, Infinite Exp, Au
 addscriptexist(8540346411, "Rebirth Champions X: Auto Collect", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Rebirth%20Champions%20X%20Auto%20Collect.lua")
 
 addscriptexist(2753915549, "Blox Fruits: Auto Farm, Fast Attack", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blox%20Fruits%20Auto%20Farm%20Fast%20Attack.lua")
+
+addscriptexist(7056922815, "Reaper 2: AutoFarm, Auto Quest, Teleports", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Reaper%20%20AutoFarm%20Auto%20Quest%20Teleports.lua")
