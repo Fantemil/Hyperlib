@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:07:13"
+lastupdate = "GMT +1: 07.03.2023 21:07:16"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -2148,3 +2148,5 @@ addscript(12142833213, "Current Game","Trampoline Towers: Farm Wins", "pulled fr
 addscriptexist(3101667897, "Legends Of Speed: Auto Rebirth, Auto Get Steps, Auto Get Gems", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Legends%20Of%20Speed%20Auto%20Rebirth%20Auto%20Get%20Steps%20Auto%20Get%20Gems.lua")
 
 addscript(164051105, "Current Game","Super Bomb Sirvival: Auto Farm, God Mode, Esp & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Super%20Bomb%20Sirvival%20Auto%20Farm%20God%20Mode%20Esp%20%20More.lua")
+
+addscriptexist(893973440, "Flee the Facility: Player Esp, Computer Esp, Inf Stamina", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Flee%20the%20Facility%20Player%20Esp%20Computer%20Esp%20Inf%20Stamina.lua")
