@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 22:27:26"
+lastupdate = "GMT +1: 07.03.2023 22:27:30"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -4362,3 +4362,5 @@ addscriptuniversal("Universal Speed Coil Giver", "pulled from rbxscript.com", "h
 addscriptexist(7180042682, "Military Tycoon: Grenadier AutoFarm, Auto Collect, Auto Rebirth", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Military%20Tycoon%20Grenadier%20AutoFarm%20Auto%20Collect%20Auto%20Rebirth.lua")
 
 addscript(6846406540, "Current Game","Rob Mr Rich's Mansion Obby: Unlock all badges", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Rob%20Mr%20Richs%20Mansion%20Obby%20Unlock%20all%20badges.lua")
+
+addscriptuniversal("Universal Giver Some Coil", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Giver%20Some%20Coil.lua")
