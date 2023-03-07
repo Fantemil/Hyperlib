@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 20:55:14"
+lastupdate = "GMT +1: 07.03.2023 20:55:18"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -1802,3 +1802,5 @@ addscript(3279760276, "Current Game","Chechnya 1994: Loop Kill All", "pulled fro
 addscriptexist(6516141723, "DOORS: Notification, Esp, Skip Level", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DOORS%20Notification%20Esp%20Skip%20Level.lua")
 
 addscriptexist(9551640993, "Mining Simulator 2: Auto Sell, Auto Mine & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mining%20Simulator%20%20Auto%20Sell%20Auto%20Mine%20%20More.lua")
+
+addhub("V.G Hub: 140+ Games", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/VG%20Hub%20%20Games.lua")
