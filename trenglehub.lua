@@ -1372,3 +1372,4 @@ addscriptexist(8568266872, "Kill Monsters To Save Princess: Auto Farm", "pulled 
 addscriptexist(11040063484, "Sword Fighters Simulator: Kill Aura, Auto Collect Orbs, Auto Claim Chests & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sword%20Fighters%20Simulator%20Kill%20Aura%20Auto%20Collect%20Orbs%20Auto%20Claim%20Chests%20%20More.lua")
 
 addscriptexist(606849621, "Jailbreak - No Wait, Inf Nitro, No Shoot Delay & More", "pulled from rscripts", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Jailbreak%20%20No%20Wait%20Inf%20Nitro%20No%20Shoot%20Delay%20%20More.lua")
+addscriptexist(1537690962, "Bee Swarm Simulator: Auto Jelly Spinner", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Bee%20Swarm%20Simulator%20Auto%20Jelly%20Spinner.lua")
