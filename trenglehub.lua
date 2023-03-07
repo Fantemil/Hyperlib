@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 15:48:23"
+lastupdate = "GMT +1: 07.03.2023 15:48:28"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -1327,3 +1327,5 @@ addscriptexist(10982284336, "Auto Farm Basic / OXYGEN", "pulled from rscripts", 
 addscript(5130598377, "Current Game","A Universal Time: God Mode, Auto Quest, Items Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/A%20Universal%20Time%20God%20Mode%20Auto%20Quest%20Items%20Farm.lua")
 
 addscriptuniversal("Universal Aimbot", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Aimbot.lua")
+
+addscript(11334163219,"Current Game", "Anime Power Simulator - V3.0", "pulled from rscripts", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime%20Power%20Simulator%20%20V.lua")
