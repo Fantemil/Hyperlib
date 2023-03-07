@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:37:24"
+lastupdate = "GMT +1: 07.03.2023 21:37:28"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -2976,3 +2976,5 @@ addscriptexist(9872472334, "Evade: Auto Farm, ESP & More", "pulled from rbxscrip
 addscript(8554378337, "Current Game","Weapon Fighting Simulator: Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Weapon%20Fighting%20Simulator%20Auto%20Farm.lua")
 
 addscriptexist(6741970382, "Zombie lab: Auto Farm, Give Cure", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Zombie%20lab%20Auto%20Farm%20Give%20Cure.lua")
+
+addscriptuniversal("Universal Free Gamepasses", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Free%20Gamepasses.lua")
