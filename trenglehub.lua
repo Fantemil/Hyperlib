@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 22:26:04"
+lastupdate = "GMT +1: 07.03.2023 22:26:08"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -4320,3 +4320,5 @@ addscriptexist(4282985734, "Combat Warriors: Auto Parry, Infinity Stamina, Infin
 addscriptexist(292439477, "Phantom Forces: Walkspeed, Jump power, Silent Aim", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Phantom%20Forces%20Walkspeed%20Jump%20power%20Silent%20Aim.lua")
 
 addscriptuniversal("Universal Infinity Jumps, Walkspeed, Jump power", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Infinity%20Jumps%20Walkspeed%20Jump%20power.lua")
+
+addscriptexist(1252559098, "Snow Shoveling Simulator: Fast Tools", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Snow%20Shoveling%20Simulator%20Fast%20Tools.lua")
