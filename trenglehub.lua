@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:21:27"
+lastupdate = "GMT +1: 07.03.2023 21:21:31"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -2552,3 +2552,5 @@ addscriptexist(7732789524, "Neo Soccer League: Godmode, ESP, Walkspeed", "pulled
 addscriptexist(10198661638, "Farm Factory Tycoon: Infinity Money", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Farm%20Factory%20Tycoon%20Infinity%20Money.lua")
 
 addscriptexist(11846163207, "Mage Tycoon: Infinity Jump, Auto Buttons, Invisible", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mage%20Tycoon%20Infinity%20Jump%20Auto%20Buttons%20Invisible.lua")
+
+addscriptexist(6284583030, "Pet Simulator X: Fake Stream Tools", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pet%20Simulator%20X%20Fake%20Stream%20Tools.lua")
