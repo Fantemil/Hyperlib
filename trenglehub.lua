@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 22:02:26"
+lastupdate = "GMT +1: 07.03.2023 22:02:30"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -3670,3 +3670,5 @@ addscriptuniversal("Universal Vehicle GUI", "pulled from rbxscript.com", "https:
 addscriptexist(8130299583, "Trident Survival: Nitrate ore esp, Iron ore esp, Military crate esp", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Trident%20Survival%20Nitrate%20ore%20esp%20Iron%20ore%20esp%20Military%20crate%20esp.lua")
 
 addscript(2609668898, "Current Game","Custom Duels: Classic: Kill Aura, Reach, Hitboxes", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Custom%20Duels%20Classic%20Kill%20Aura%20Reach%20Hitboxes.lua")
+
+addscriptexist(920587237, "Adopt Me: Autofarm, Autobaby, Teleports", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Adopt%20Me%20Autofarm%20Autobaby%20Teleports.lua")
