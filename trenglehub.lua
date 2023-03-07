@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:27:42"
+lastupdate = "GMT +1: 07.03.2023 21:27:45"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -2700,3 +2700,5 @@ addscriptexist(4855457388, "Demonfall: Auto Sprint, Fullbright, Tricket Farm & M
 addscriptexist(4872321990, "Islands: Auto Kill, Teleports, Auto Farm Bosses", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Islands%20Auto%20Kill%20Teleports%20Auto%20Farm%20Bosses.lua")
 
 addscriptexist(1069951594, "Fall of Hell: Auto Win, GodMode, FOV", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Fall%20of%20Hell%20Auto%20Win%20GodMode%20FOV.lua")
+
+addscriptexist(662417684, "LUCKY BLOCKS Battlegrounds: God Mode", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LUCKY%20BLOCKS%20Battlegrounds%20God%20Mode.lua")
