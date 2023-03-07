@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 20:55:41"
+lastupdate = "GMT +1: 07.03.2023 20:55:45"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -1814,3 +1814,5 @@ addscript(10673860069, "Current Game","Horse Racing Club: Inf Money, Auto Win Ra
 addscriptexist(142823291, "Murder Mystery 2: God Mode, Auto Farm, Invisible", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Murder%20Mystery%20%20God%20Mode%20Auto%20Farm%20Invisible.lua")
 
 addscriptuniversal("Universal: Chat Bypasser, ForRealium Keyless", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Chat%20Bypasser%20ForRealium%20Keyless.lua")
+
+addscript(2619187362, "Current Game","Super Power Fighting Simulator: Auto Farm, Anit Afk", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Super%20Power%20Fighting%20Simulator%20Auto%20Farm%20Anit%20Afk.lua")
