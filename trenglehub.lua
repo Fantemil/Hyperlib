@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 22:12:24"
+lastupdate = "GMT +1: 07.03.2023 22:12:28"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -3962,3 +3962,5 @@ addscript(12113006580, "Current Game","NCT 127 World: Get Emote Without Waiting 
 addscriptexist(6777872443, "Pixel Piece: Teleport to Island, Auto Stats & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pixel%20Piece%20Teleport%20to%20Island%20Auto%20Stats%20%20More.lua")
 
 addscriptexist(10704789056, "Drive World: Make Car Drifty", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Drive%20World%20Make%20Car%20Drifty.lua")
+
+addscriptexist(11156779721, "The Survival Game: Speed, Teleports & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/The%20Survival%20Game%20Speed%20Teleports%20%20More.lua")
