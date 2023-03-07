@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 22:18:28"
+lastupdate = "GMT +1: 07.03.2023 22:18:32"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -4128,3 +4128,5 @@ addscriptuniversal("Universal Auto Say The Bible", "pulled from rbxscript.com", 
 addscriptexist(5965591336, "Soul War: Auto Stats, Auto Farm & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Soul%20War%20Auto%20Stats%20Auto%20Farm%20%20More.lua")
 
 addscriptexist(2753915549, "Blox Fruits: Bring Mobs, Fast Attack & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blox%20Fruits%20Bring%20Mobs%20Fast%20Attack%20%20More.lua")
+
+addscriptuniversal("Universal GUI Pack", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20GUI%20Pack.lua")
