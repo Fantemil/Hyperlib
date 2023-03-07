@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:53:06"
+lastupdate = "GMT +1: 07.03.2023 21:53:10"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -3432,3 +3432,5 @@ addhub("Universal No Fall", "pulled from rbxscript.com", "https://raw.githubuser
 addscriptexist(9498006165, "Tapping Simulator: Auto Upgrade, Auto Rebirth & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tapping%20Simulator%20Auto%20Upgrade%20Auto%20Rebirth%20%20More.lua")
 
 addscriptuniversal("Universal Trigger Bot", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Trigger%20Bot.lua")
+
+addscriptexist(4616652839, "Shindo Life: Infinity Spins all 4 slots", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Shindo%20Life%20Infinity%20Spins%20all%20%20slots.lua")
