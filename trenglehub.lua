@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 12:37:12"
+lastupdate = "GMT +1: 07.03.2023 12:37:16"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -1155,3 +1155,5 @@ addscriptexist(9825515356, "Hood Customs: Headless, Aim Lock & More", "pulled fr
 addscript(185655149, "Current Game","Welcome to Bloxburg: Pizza Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Welcome%20to%20Bloxburg%20Pizza%20Auto%20Farm.lua")
 
 addscriptexist(9825515356, "Hood Customs: AntiLock", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Hood%20Customs%20AntiLock.lua")
+
+addscriptexist(5602055394, "Hood Modded: Anti-Lock", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Hood%20Modded%20AntiLock.lua")
