@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:15:14"
+lastupdate = "GMT +1: 07.03.2023 21:15:18"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -2384,3 +2384,5 @@ addscriptexist(891852901, "Greenville: Auto Farm, Walkspeed, Infinite Jump & Mor
 addscript(4011063766, "Current Game","Tank Warfare: Change firerate, magazine, Reserve", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tank%20Warfare%20Change%20firerate%20magazine%20Reserve.lua")
 
 addscriptexist(4738545896, "SHOOT OUT!: Silent Aim, Gun Mods, Auto Kill All & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SHOOT%20OUT%20Silent%20Aim%20Gun%20Mods%20Auto%20Kill%20All%20%20More.lua")
+
+addscriptexist(1240123653, "Zombies Attack: Auto Farm, Aimbot, Wallcheck & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Zombies%20Attack%20Auto%20Farm%20Aimbot%20Wallcheck%20%20More.lua")
