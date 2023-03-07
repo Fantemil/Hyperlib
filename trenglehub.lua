@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:07:21"
+lastupdate = "GMT +1: 07.03.2023 21:07:24"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -2152,3 +2152,5 @@ addscript(164051105, "Current Game","Super Bomb Sirvival: Auto Farm, God Mode, E
 addscriptexist(893973440, "Flee the Facility: Player Esp, Computer Esp, Inf Stamina", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Flee%20the%20Facility%20Player%20Esp%20Computer%20Esp%20Inf%20Stamina.lua")
 
 addscriptexist(4616652839, "Shindo Life: Auto Farm, Auto Rank, Auto War & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Shindo%20Life%20Auto%20Farm%20Auto%20Rank%20Auto%20War%20%20More.lua")
+
+addscript(4866692557, "Current Game","Age of Heroes: Rep Farm, Life Saver, Auto Orbs & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Age%20of%20Heroes%20Rep%20Farm%20Life%20Saver%20Auto%20Orbs%20%20More.lua")
