@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:02:55"
+lastupdate = "GMT +1: 07.03.2023 21:02:59"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -2020,3 +2020,5 @@ addscript(3725149043, "Current Game","Super Doomspire: Inf Jump", "pulled from r
 addscriptuniversal("Universal Animation Speed-Inator", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Animation%20SpeedInator.lua")
 
 addscriptexist(5989426850, "Transfur Infection 2: Walk Through Kill Barriers", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Transfur%20Infection%20%20Walk%20Through%20Kill%20Barriers.lua")
+
+addscript(12166287786, "Current Game","+1 Fat Every Second: Auto Rebirth, Auto Win, Walkspeed", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/%20Fat%20Every%20Second%20Auto%20Rebirth%20Auto%20Win%20Walkspeed.lua")
