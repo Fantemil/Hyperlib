@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:08:02"
+lastupdate = "GMT +1: 07.03.2023 21:08:06"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -2174,3 +2174,5 @@ addscriptexist(5780309044, "Stands Awakening: Farm Items, Farm Players, Inf Roka
 addscriptuniversal("Universal FE Drop Hats", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20FE%20Drop%20Hats.lua")
 
 addscriptexist(142823291, "Murder Mystery 2: Auto Farm, EXP Farm, ESP", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Murder%20Mystery%20%20Auto%20Farm%20EXP%20Farm%20ESP.lua")
+
+addscriptexist(7056922815, "Reaper 2: Auto Farms Mobs Get Quests, Teleports", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Reaper%20%20Auto%20Farms%20Mobs%20Get%20Quests%20Teleports.lua")
