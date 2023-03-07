@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:06:46"
+lastupdate = "GMT +1: 07.03.2023 21:06:50"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -2134,3 +2134,5 @@ addscriptexist(6913960180, "Undertale Crazy Multiverse Tim: Finish Obby", "pulle
 addscriptexist(11196588443, "Zombie Merge Tycoon: Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Zombie%20Merge%20Tycoon%20Auto%20Farm.lua")
 
 addscriptexist(2768379856, "3008: Spam Something", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/%20Spam%20Something.lua")
+
+addscriptexist(9872472334, "Evade: Click TP, God Mode, Teleports", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Evade%20Click%20TP%20God%20Mode%20Teleports.lua")
