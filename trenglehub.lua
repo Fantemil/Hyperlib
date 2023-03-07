@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 22:02:55"
+lastupdate = "GMT +1: 07.03.2023 22:02:59"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -3684,3 +3684,5 @@ addscript(9555732501, "Current Game","Nen Fighting Simulator: Teleports, Auto Du
 addscript(4723932, "Current Game","Undead Nation: Press T to turn on inf spider summonning", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Undead%20Nation%20Press%20T%20to%20turn%20on%20inf%20spider%20summonning.lua")
 
 addscript(5965591336, "Current Game","Soul War: Auto Exam Solver", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Soul%20War%20Auto%20Exam%20Solver.lua")
+
+addscriptexist(4522347649, "FREE ADMIN: Loop Cmd All, String, Spam Cmds", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FREE%20ADMIN%20Loop%20Cmd%20All%20String%20Spam%20Cmds.lua")
