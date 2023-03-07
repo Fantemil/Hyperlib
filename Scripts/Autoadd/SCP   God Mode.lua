@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://raw.githubusercontent.com/CHnamedata/WhatDaHeck/main/3008GodMode.lua'))()
