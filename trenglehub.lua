@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:33:31"
+lastupdate = "GMT +1: 07.03.2023 21:33:35"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -2864,3 +2864,5 @@ addscriptexist(292439477, "Phantom Forces: ESP, Silent Aim", "pulled from rbxscr
 addscriptexist(2474168535, "Westbound: ESP, Tracers & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Westbound%20ESP%20Tracers%20%20More.lua")
 
 addscriptexist(155615604, "Prison Life: Teleports, Auto Get All & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Prison%20Life%20Teleports%20Auto%20Get%20All%20%20More.lua")
+
+addscriptexist(2788229376, "Da Hood: Noclip, FOV, Walkspeed", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Da%20Hood%20Noclip%20FOV%20Walkspeed.lua")
