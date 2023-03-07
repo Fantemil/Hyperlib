@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:49:34"
+lastupdate = "GMT +1: 07.03.2023 21:49:38"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -3334,3 +3334,5 @@ addscriptuniversal("Universal FE Kidnap", "pulled from rbxscript.com", "https://
 addscriptuniversal("Universal GIves all weapons", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20GIves%20all%20weapons.lua")
 
 addscriptexist(11542692507, "Anime Souls Simulator: Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime%20Souls%20Simulator%20Auto%20Farm.lua")
+
+addscriptexist(11542692507, "Anime Souls Simulator: V2 Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime%20Souls%20Simulator%20V%20Auto%20Farm.lua")
