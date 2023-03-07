@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:20:43"
+lastupdate = "GMT +1: 07.03.2023 21:20:48"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -2532,3 +2532,5 @@ addscriptexist(6284583030, "Pet Simulator X!: Auto Farm, Gui", "pulled from rbxs
 addscriptexist(8589310348, "Glory Kill Testing: Auto Reload, Unlock All, Kill All Zombies", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Glory%20Kill%20Testing%20Auto%20Reload%20Unlock%20All%20Kill%20All%20Zombies.lua")
 
 addscriptexist(6728870912, "World of Stands: Instant Farm Chest, Auto Farm All Mobs, Farm Players", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/World%20of%20Stands%20Instant%20Farm%20Chest%20Auto%20Farm%20All%20Mobs%20Farm%20Players.lua")
+
+addscriptexist(5130598377, "A Universal Time: Farm All Items, Farm Boss, Farm Thugs", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/A%20Universal%20Time%20Farm%20All%20Items%20Farm%20Boss%20Farm%20Thugs.lua")
