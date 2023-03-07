@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:58:20"
+lastupdate = "GMT +1: 07.03.2023 21:58:24"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -3554,3 +3554,5 @@ addscript(9579228669, "Current Game","Everyday Car Driving: Auto Farm, Auto Farm
 addscriptexist(5602055394, "Hood Modded: Speed Hack, ESP, Premium Version", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Hood%20Modded%20Speed%20Hack%20ESP%20Premium%20Version.lua")
 
 addscriptexist(9825515356, "Hood Customs: Silent Aim, FOV, ESP", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Hood%20Customs%20Silent%20Aim%20FOV%20ESP.lua")
+
+addscript(9824221333, "Current Game","Da Hood Aim Trainer: Low GFX, Fly & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Da%20Hood%20Aim%20Trainer%20Low%20GFX%20Fly%20%20More.lua")
