@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:22:50"
+lastupdate = "GMT +1: 07.03.2023 21:22:54"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -2590,3 +2590,5 @@ addscript(5569431582, "Current Game","Little World: Auto Fruit, Auto Farm Boss, 
 addscriptexist(4566572536, "Vehicle Legends: Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Vehicle%20Legends%20Auto%20Farm.lua")
 
 addscript(3475397644, "Current Game","Dragon Adventures: Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Dragon%20Adventures%20Auto%20Farm.lua")
+
+addscriptexist(3101667897, "Legends Of Speed: Auto Orbs, Auto Rebirth, Auto Hoops & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Legends%20Of%20Speed%20Auto%20Orbs%20Auto%20Rebirth%20Auto%20Hoops%20%20More.lua")
