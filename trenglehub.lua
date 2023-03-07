@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:20:26"
+lastupdate = "GMT +1: 07.03.2023 21:20:31"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -2524,3 +2524,5 @@ addscript(11364184405, "Current Game","Super Fun Obby 500 Stages: Auto Complete"
 addscriptexist(11162791099, "Free Hatchers: Auto Farm, Auto Egg, More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Free%20Hatchers%20Auto%20Farm%20Auto%20Egg%20More.lua")
 
 addscriptexist(6735572261, "Pilgrammed: Gui, Chest Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pilgrammed%20Gui%20Chest%20Farm.lua")
+
+addscriptexist(893973440, "Flee The Facility: Teleport To Any Computer, Esp & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Flee%20The%20Facility%20Teleport%20To%20Any%20Computer%20Esp%20%20More.lua")
