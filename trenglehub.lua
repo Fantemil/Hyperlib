@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:52:19"
+lastupdate = "GMT +1: 07.03.2023 21:52:24"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -3410,3 +3410,5 @@ addscriptexist(7655745946, "Dunking Simulator: Unlimited Boosts, Auto Farm, No M
 addscriptexist(155615604, "Prison Life: Walkspeed and Jump power sliders, Weapons Giver", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Prison%20Life%20Walkspeed%20and%20Jump%20power%20sliders%20Weapons%20Giver.lua")
 
 addscriptexist(11874473440, "Car Factory Tycoon: Car Modder, Auto Farm, Auto Sell", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Car%20Factory%20Tycoon%20Car%20Modder%20Auto%20Farm%20Auto%20Sell.lua")
+
+addhub("Universal Pro Hub: Chat Spy, Infinity Yield, CMD-X", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Pro%20Hub%20Chat%20Spy%20Infinity%20Yield%20CMDX.lua")
