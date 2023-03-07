@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:57:04"
+lastupdate = "GMT +1: 07.03.2023 21:57:09"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -3516,3 +3516,5 @@ addhub("Legend Hub V4: Reviz Admin, Infinity Yield & More", "pulled from rbxscri
 addscriptexist(6728870912, "World of Stands: Treasure Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/World%20of%20Stands%20Treasure%20Auto%20Farm.lua")
 
 addscriptexist(6679968919, "Fly Race: Auto Grab Orbs, Auto Rebirth & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Fly%20Race%20Auto%20Grab%20Orbs%20Auto%20Rebirth%20%20More.lua")
+
+addscriptexist(11302865934, "Every Second You Get +1 Health: Auto Farm Bost Buttons, Teleport to Player, Walkspeed Slider", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Every%20Second%20You%20Get%20%20Health%20Auto%20Farm%20Bost%20Buttons%20Teleport%20to%20Player%20Walkspeed%20Slider.lua")
