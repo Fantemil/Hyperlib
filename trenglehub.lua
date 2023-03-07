@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:40:06"
+lastupdate = "GMT +1: 07.03.2023 21:40:10"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -3054,3 +3054,5 @@ addscript(990364410, "Current Game","Survive the Night: Esp, Infinite Jump, Fly 
 addscript(5702593762, "Current Game","Climb 1,000 Stairs: Auto Farm, Auto Tween, Fly & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Climb%20%20Stairs%20Auto%20Farm%20Auto%20Tween%20Fly%20%20More.lua")
 
 addscriptexist(2788229376, "Da Hood: Auto Grab Cash, Auto HospitalJob, Infinite Stamina & More!", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Da%20Hood%20Auto%20Grab%20Cash%20Auto%20HospitalJob%20Infinite%20Stamina%20%20More.lua")
+
+addscriptexist(537413528, "Build A Boat For Treasure: Auto Farm, God Mode, Teleport & More!", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Build%20A%20Boat%20For%20Treasure%20Auto%20Farm%20God%20Mode%20Teleport%20%20More.lua")
