@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:26:13"
+lastupdate = "GMT +1: 07.03.2023 21:26:17"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -2658,3 +2658,5 @@ addhub("Kidachi Hub: 3 Games, New Link", "pulled from rbxscript.com", "https://r
 addscriptexist(6284583030, "Pet Simulator X: Auto Farm Coins, Auto Collect & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pet%20Simulator%20X%20Auto%20Farm%20Coins%20Auto%20Collect%20%20More.lua")
 
 addscriptexist(12264058682, "GO TO JAIL AND MAKE FRIENDS TO ESCAPE tycoon: Auto Build, Auto Create, Walkspeed", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/GO%20TO%20JAIL%20AND%20MAKE%20FRIENDS%20TO%20ESCAPE%20tycoon%20Auto%20Build%20Auto%20Create%20Walkspeed.lua")
+
+addscriptuniversal("Universal Notifications", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Notifications.lua")
