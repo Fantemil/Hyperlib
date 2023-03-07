@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 17:44:05"
+lastupdate = "GMT +1: 07.03.2023 17:44:50"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -1736,3 +1736,4 @@ addscript(9840387028,"Current Game", "Era Of Althea Script GUI | Auto Farm, Auto
 addscript(6468323505,"Current Game", "Anime Warriors Script GUI | God Mode, Auto Farm & MORE", "pulled from rscripts", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime%20Warriors%20Script%20GUI%20%20God%20Mode%20Auto%20Farm%20%20MORE.lua")
 addscriptexist(6468323505, "Spellbound Infinite Money Script", "pulled from rscripts", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Spellbound%20Infinite%20Money%20Script.lua")
 addscriptexist(1224212277, "Mad City: Chapter 2 | Fast Auto Rob With Server Hop", "pulled from rscripts", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mad%20City%20Chapter%20%20%20Fast%20Auto%20Rob%20With%20Server%20Hop.lua")
+addscript(9167501050,"Current Game", "Lightsaber Arena Script | Kill Aura, Auto Block & MORE", "pulled from rscripts", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Lightsaber%20Arena%20Script%20%20Kill%20Aura%20Auto%20Block%20%20MORE.lua")
