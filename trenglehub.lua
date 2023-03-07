@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 22:05:38"
+lastupdate = "GMT +1: 07.03.2023 22:05:41"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -3762,3 +3762,5 @@ addscriptexist(11547613362, "Anime Fly Race: Auto Farm, Auto Collect Orbs, Auto 
 addscriptexist(9551640993, "Mining Simulator 2: Auto Mine, Auto Unlock World, Auto Sell", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mining%20Simulator%20%20Auto%20Mine%20Auto%20Unlock%20World%20Auto%20Sell.lua")
 
 addscriptexist(6284583030, "Pet Simulator X: Auto Eggs, Auto Farm & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pet%20Simulator%20X%20Auto%20Eggs%20Auto%20Farm%20%20More.lua")
+
+addscript(3102144307, "Current Game","Anime Clicker Simulator: Auto Click, Auto Rebirth, Auto Upg", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime%20Clicker%20Simulator%20Auto%20Click%20Auto%20Rebirth%20Auto%20Upg.lua")
