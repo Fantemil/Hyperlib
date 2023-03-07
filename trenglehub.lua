@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:29:25"
+lastupdate = "GMT +1: 07.03.2023 21:29:29"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -2750,3 +2750,5 @@ addscriptexist(9872472334, "Evade: AutoFarm,Inf Jump & More", "pulled from rbxsc
 addscriptexist(189707, "Natural Disaster Survival: Auto Farm, Inf Jump, Teleports", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Natural%20Disaster%20Survival%20Auto%20Farm%20Inf%20Jump%20Teleports.lua")
 
 addscript(5144193105, "Current Game","Star Wars: Galaxy Roleplay: Free Gamepasses", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Star%20Wars%20Galaxy%20Roleplay%20Free%20Gamepasses.lua")
+
+addscript(738339342, "Current Game","FE2: Annoying Snapshot", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FE%20Annoying%20Snapshot.lua")
