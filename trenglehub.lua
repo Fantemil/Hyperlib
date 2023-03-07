@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:13:41"
+lastupdate = "GMT +1: 07.03.2023 21:13:45"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -2338,3 +2338,5 @@ addscriptexist(21532277, "Notoriety: Infinity Jump, Gun Mods, Loot Aura", "pulle
 addscriptexist(155615604, "Prison Life: Name Color GUI", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Prison%20Life%20Name%20Color%20GUI.lua")
 
 addscriptexist(6735572261, "Pilgrammed: Ore Esp", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pilgrammed%20Ore%20Esp.lua")
+
+addscript(11940636110, "Current Game","Mining Factory Tycoon: Inf Cash, Finish Obby, Walkspeed", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mining%20Factory%20Tycoon%20Inf%20Cash%20Finish%20Obby%20Walkspeed.lua")
