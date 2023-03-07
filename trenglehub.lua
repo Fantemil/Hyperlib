@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:57:36"
+lastupdate = "GMT +1: 07.03.2023 21:57:40"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -3532,3 +3532,5 @@ addscriptexist(11063612131, "Every Second You Get +1 Jump Power: Auto Egg Openin
 addhub("J Hub: 2 Games", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/J%20Hub%20%20Games.lua")
 
 addscriptexist(2753915549, "Blox Fruits: Simple Chest Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blox%20Fruits%20Simple%20Chest%20Auto%20Farm.lua")
+
+addscriptexist(621129760, "Knife Ability Test: Auto Blurt Roles, Show FOV & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Knife%20Ability%20Test%20Auto%20Blurt%20Roles%20Show%20FOV%20%20More.lua")
