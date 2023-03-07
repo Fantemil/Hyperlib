@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 22:11:39"
+lastupdate = "GMT +1: 07.03.2023 22:11:43"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -3940,3 +3940,5 @@ addscriptexist(6777872443, "Pixel Piece: Auto Farm Mob, Auto Skill & More", "pul
 addscriptuniversal("Universal FPS Booster", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20FPS%20Booster.lua")
 
 addscriptuniversal("Universal Shower Of FPS", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Shower%20Of%20FPS.lua")
+
+addscriptexist(286090429, "Arsenal: Kill Aura, Fullbright, Chat Spammer", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Arsenal%20Kill%20Aura%20Fullbright%20Chat%20Spammer.lua")
