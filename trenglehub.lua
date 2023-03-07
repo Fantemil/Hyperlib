@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:22:18"
+lastupdate = "GMT +1: 07.03.2023 21:22:21"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -2576,3 +2576,5 @@ addscriptexist(6284583030, "Pet Simulator X: Auto Farm, Auto Hatch Eggs, Auto En
 addscriptuniversal("Universal Roblox Friend Botter [RoSMM]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Roblox%20Friend%20Botter%20RoSMM.lua")
 
 addscriptexist(3101667897, "Legends Of Speed: Auto Rebirth, Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Legends%20Of%20Speed%20Auto%20Rebirth%20Auto%20Farm.lua")
+
+addscriptexist(7346416636, "Pop It Trading: Auto Buy, Server Crasher", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pop%20It%20Trading%20Auto%20Buy%20Server%20Crasher.lua")
