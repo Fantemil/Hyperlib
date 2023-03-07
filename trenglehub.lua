@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 22:08:17"
+lastupdate = "GMT +1: 07.03.2023 22:08:21"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -3840,3 +3840,5 @@ addscriptexist(10462101644, "Tall Man Run: Kick All, Server Hop", "pulled from r
 addscript(8704997000, "Current Game","Maple Hospital: Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Maple%20Hospital%20Auto%20Farm.lua")
 
 addscriptexist(142823291, "Murder Mystery 2: Walkspeed, Auto Get Gun & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Murder%20Mystery%20%20Walkspeed%20Auto%20Get%20Gun%20%20More.lua")
+
+addscriptexist(6777872443, "Pixel Piece: Tp Bypass", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pixel%20Piece%20Tp%20Bypass.lua")
