@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 15:45:27"
+lastupdate = "GMT +1: 07.03.2023 15:45:30"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -1216,3 +1216,5 @@ addscriptexist(11746859781, "Bubble Gum Clicker: Auto spin wheel, auto blow bubb
 addscriptexist(537413528, "Build A Boat For Treasure: Inf Jumps, Fly & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Build%20A%20Boat%20For%20Treasure%20Inf%20Jumps%20Fly%20%20More.lua")
 
 addscriptexist(2788229376, "Da Hood: Troll, Aimlock, Killbot", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Da%20Hood%20Troll%20Aimlock%20Killbot.lua")
+
+addscriptuniversal("Player Teleport Script || Tween, Teleport Button", "pulled from rscripts", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Player%20Teleport%20Script%20%20Tween%20Teleport%20Button.lua")
