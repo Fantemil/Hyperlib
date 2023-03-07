@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 22:08:56"
+lastupdate = "GMT +1: 07.03.2023 22:08:59"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -3860,3 +3860,5 @@ addscript(10675066724, "Current Game","Slime Tower Tycoon: Auto Collect Droptels
 addscriptexist(5965591336, "Soul War: Kill Aura, Auto Farm & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Soul%20War%20Kill%20Aura%20Auto%20Farm%20%20More.lua")
 
 addscriptexist(9825515356, "Hood Customs: Aimbot", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Hood%20Customs%20Aimbot.lua")
+
+addscript(9942997989, "Current Game","STEEP STEPS: ypass Anti Cheat, Get Ladder, Remove Fog", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/STEEP%20STEPS%20ypass%20Anti%20Cheat%20Get%20Ladder%20Remove%20Fog.lua")
