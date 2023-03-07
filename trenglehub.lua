@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 22:01:50"
+lastupdate = "GMT +1: 07.03.2023 22:01:54"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -3652,3 +3652,5 @@ addscriptexist(4616652839, "Shindo Life: Key Bypassed, Bloodlines, Misc", "pulle
 addscriptexist(3214114884, "Flag Wars: Silent Aim, Wallbang", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Flag%20Wars%20Silent%20Aim%20Wallbang.lua")
 
 addscriptuniversal("Universal FE Baby Minions", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20FE%20Baby%20Minions.lua")
+
+addscriptexist(2534724415, "Emergency Response: Liberty County: Auto Complete Robberies", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Emergency%20Response%20Liberty%20County%20Auto%20Complete%20Robberies.lua")
