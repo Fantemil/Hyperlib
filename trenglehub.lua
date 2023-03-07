@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 22:09:16"
+lastupdate = "GMT +1: 07.03.2023 22:09:19"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -3870,3 +3870,5 @@ addscriptexist(606849621, "Jailbreak: Infinity Nitro, Anti Ragdoll & More", "pul
 addhub("Pig Hub: Useful Functions", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pig%20Hub%20Useful%20Functions.lua")
 
 addscriptexist(8540346411, "Rebirth Champions X: Auto Tap, Auto Buy, Auto Eggs", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Rebirth%20Champions%20X%20Auto%20Tap%20Auto%20Buy%20Auto%20Eggs.lua")
+
+addscriptexist(1962086868, "Tower of Hell: Tp To The Top, Godmode, Walkspeed", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tower%20of%20Hell%20Tp%20To%20The%20Top%20Godmode%20Walkspeed.lua")
