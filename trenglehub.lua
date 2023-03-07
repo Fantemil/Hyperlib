@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 22:28:15"
+lastupdate = "GMT +1: 07.03.2023 22:28:19"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -4384,3 +4384,5 @@ addscript(5593925613, "Current Game","Countryball World: Walkspeed, Jump Power, 
 addscriptexist(11040063484, "Sword Fighters Simulator: Kill Aura, Auto Pickup Coins", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sword%20Fighters%20Simulator%20Kill%20Aura%20Auto%20Pickup%20Coins.lua")
 
 addscript(5413701977, "Current Game","|FREE ADMIN| Admin House: Explode All, Jail All, Kick All", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FREE%20ADMIN%20Admin%20House%20Explode%20All%20Jail%20All%20Kick%20All.lua")
+
+addscriptexist(3260590327, "Tower Defense Simulator: Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tower%20Defense%20Simulator%20Auto%20Farm.lua")
