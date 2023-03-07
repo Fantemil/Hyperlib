@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 22:00:42"
+lastupdate = "GMT +1: 07.03.2023 22:00:45"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -3618,3 +3618,5 @@ addscript(6186867282, "Current Game","Project XL: Auto Attack, Auto Dummy, Auto 
 addscriptexist(11040063484, "Sword Fighters Simulator: Auto Buy Eggs, Auto Rank Up, Auto Click", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sword%20Fighters%20Simulator%20Auto%20Buy%20Eggs%20Auto%20Rank%20Up%20Auto%20Click.lua")
 
 addscriptexist(4282985734, "Combat Warriors: Infinity Stamina, No Dash, No Ragdoll", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Combat%20Warriors%20Infinity%20Stamina%20No%20Dash%20No%20Ragdoll.lua")
+
+addscriptuniversal("Universal Fe Hold Hats", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Fe%20Hold%20Hats.lua")
