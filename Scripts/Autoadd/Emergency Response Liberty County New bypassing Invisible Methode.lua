@@ -1,0 +1,1 @@
+game.Players.LocalPlayer.Character:FindFirstChild("LowerTorso"):FindFirstChild("Root"):Destroy()
