@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/MonkeyHUBB/MonkeyHUB_StreetzWar/main/README.md"))()
