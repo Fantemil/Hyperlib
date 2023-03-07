@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:44:14"
+lastupdate = "GMT +1: 07.03.2023 21:44:20"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -3178,3 +3178,5 @@ addscriptexist(6516141723, "DOORS: ESP Items, ESP Key, Notifier", "pulled from r
 addscriptexist(6284583030, "Pet Simulator X: Auto Farm Coins, Auto Hatch Eggs & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pet%20Simulator%20X%20Auto%20Farm%20Coins%20Auto%20Hatch%20Eggs%20%20More.lua")
 
 addscriptexist(9224601490, "Fruit Battlegrounds: Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Fruit%20Battlegrounds%20Auto%20Farm.lua")
+
+addscriptexist(12142833213, "Trampoline Towers: Auto Farm Wins", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Trampoline%20Towers%20Auto%20Farm%20Wins.lua")
