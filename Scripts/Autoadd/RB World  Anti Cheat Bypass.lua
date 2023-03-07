@@ -1,8 +1,8 @@
-RB Wo--Credit to mxkxkks (Script owner)
+--Credit to mxkxkks (Script maker)
 
 local gamememe = getrawmetatable(game)
 local Closure,Caller = hide_me or newcclosure,checkcaller or is_protosmasher_caller or Cer.isCerus
-local writeable = setreadonly(gamememe,false) 
+local writeable = setreadonly(gamememe,false) or make_writeable(gamememe)
 local name,index,nindex = gamememe.__namecall,gamememe.__index,gamememe.__newindex
 
 gamememe.__newindex = Closure(function(self,Property,b)
@@ -42,4 +42,4 @@ gamememe.__namecall= Closure(function(self,...)
        end
    end
    return name(self,...)
-end)rld 4
+end)
