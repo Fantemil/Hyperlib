@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 22:07:48"
+lastupdate = "GMT +1: 07.03.2023 22:07:52"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -3826,3 +3826,5 @@ addscriptexist(142823291, "Murder Mystery 2: Knife Aura, Godmode, Noclip", "pull
 addscriptexist(9872472334, "Evade: Money Farm, Gift Farm, Auto Respawn", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Evade%20Money%20Farm%20Gift%20Farm%20Auto%20Respawn.lua")
 
 addhub("BatuhanG Hub: 17 Games", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BatuhanG%20Hub%20%20Games.lua")
+
+addscriptexist(11400511154, "Monkey Tycoon: Auto Collect, Deposit, Walkspeed", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Monkey%20Tycoon%20Auto%20Collect%20Deposit%20Walkspeed.lua")
