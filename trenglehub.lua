@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 12:39:41"
+lastupdate = "GMT +1: 07.03.2023 12:39:44"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -1229,3 +1229,5 @@ addscript(6110766473, "Current Game","Flex Fight: Auto-Farm", "pulled from rbxsc
 addscriptexist(2753915549, "Blox Fruits: Auto Farm Coins", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blox%20Fruits%20Auto%20Farm%20Coins.lua")
 
 addscriptexist(5938036553, "FRONTLINES: Kill All", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FRONTLINES%20Kill%20All.lua")
+
+addscript(891852901, "Current Game","Greenville: Car Tuning Gui", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Greenville%20Car%20Tuning%20Gui.lua")
