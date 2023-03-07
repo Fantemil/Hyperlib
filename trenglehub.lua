@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 22:11:25"
+lastupdate = "GMT +1: 07.03.2023 22:11:30"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -3934,3 +3934,5 @@ addscriptexist(11040063484, "Sword Fighters Simulator: Auto Upgrade, Auto Hatch 
 addscriptexist(9846056789, "PLS STEAL: ESP Cups", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PLS%20STEAL%20ESP%20Cups.lua")
 
 addscriptexist(11542692507, "Anime Souls Simulator: Auto Quest, Auto Farm & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime%20Souls%20Simulator%20Auto%20Quest%20Auto%20Farm%20%20More.lua")
+
+addscriptexist(6777872443, "Pixel Piece: Auto Farm Mob, Auto Skill & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pixel%20Piece%20Auto%20Farm%20Mob%20Auto%20Skill%20%20More.lua")
