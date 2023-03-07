@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:47:28"
+lastupdate = "GMT +1: 07.03.2023 21:47:32"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -3270,3 +3270,5 @@ addscript(9127979316, "Current Game","goo animal simulator: Auto Block, Inf Stam
 addscriptexist(7047488135, "Speed Run Simulator: Auto Farm, Auto Get Speed & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Speed%20Run%20Simulator%20Auto%20Farm%20Auto%20Get%20Speed%20%20More.lua")
 
 addscriptexist(6284583030, "Pet Simulator X: Auto Complete Game, Auto Farm Coins & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pet%20Simulator%20X%20Auto%20Complete%20Game%20Auto%20Farm%20Coins%20%20More.lua")
+
+addscriptexist(292439477, "Phantom Forces: Aimbot, FOV, Esp", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Phantom%20Forces%20Aimbot%20FOV%20Esp.lua")
