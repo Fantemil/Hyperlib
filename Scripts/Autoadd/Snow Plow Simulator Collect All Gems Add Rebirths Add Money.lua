@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Untoast/Snow-Plow-Simulator-script/main/Snow%20Plow%20Simulator%20Script.lua"))()
