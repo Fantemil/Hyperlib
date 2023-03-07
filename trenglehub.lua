@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:04:35"
+lastupdate = "GMT +1: 07.03.2023 21:04:39"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -2070,3 +2070,5 @@ addscriptexist(286090429, "Arsenal: Hitbox Expander", "pulled from rbxscript.com
 addhub("Cloud Hub: 5+ Games", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Cloud%20Hub%20%20Games.lua")
 
 addscriptexist(6284583030, "Pet Simulator X: Auto-Farm, Auto Use Boosts & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pet%20Simulator%20X%20AutoFarm%20Auto%20Use%20Boosts%20%20More.lua")
+
+addscriptexist(2753915549, "Blox Fruits: Devil Fruit Finder", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blox%20Fruits%20Devil%20Fruit%20Finder.lua")
