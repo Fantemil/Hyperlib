@@ -1,0 +1,2 @@
+_G.wl_key = 'b350d170910a43f28967300de29ade77e215b669'
+loadstring(game:HttpGet('https://raw.githubusercontent.com/aerocontentdeliverynetwork/3456465f7453x447r76h86856233423645756354b/master/prod.lua'))()
