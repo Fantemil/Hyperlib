@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/AliCode14/MyScripts/main/mega%20mansion%20tycoon.lua"))()
