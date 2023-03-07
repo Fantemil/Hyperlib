@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:53:17"
+lastupdate = "GMT +1: 07.03.2023 21:53:21"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -3438,3 +3438,5 @@ addscriptexist(4616652839, "Shindo Life: Infinity Spins all 4 slots", "pulled fr
 addscriptexist(2753915549, "Blox Fruits: Auto Farm Bone, Auto Farm Level, Auto Saber", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blox%20Fruits%20Auto%20Farm%20Bone%20Auto%20Farm%20Level%20Auto%20Saber.lua")
 
 addscriptexist(6229116934, "Hoopz: Auto Shoot, Auto Jump, Silent Aim", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Hoopz%20Auto%20Shoot%20Auto%20Jump%20Silent%20Aim.lua")
+
+addscript(4572253581, "Current Game","MURDER: ESP", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MURDER%20ESP.lua")
