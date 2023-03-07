@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ZapHub-Script/ZapHub/main/ZapHub%20(Steep%20Steps).txt", true))()
