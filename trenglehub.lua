@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:36:35"
+lastupdate = "GMT +1: 07.03.2023 21:36:40"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -2954,3 +2954,5 @@ addscriptexist(6872265039, "BedWars: Aimbot, Instant Break, FOV", "pulled from r
 addscriptexist(2753915549, "Blox Fruits: Auto Farm Level, Auto Quest & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blox%20Fruits%20Auto%20Farm%20Level%20Auto%20Quest%20%20More.lua")
 
 addhub("NukeVsCity Hub: Key Bypassed", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NukeVsCity%20Hub%20Key%20Bypassed.lua")
+
+addscriptexist(11330149751, "making scam calls to save your best friend tycoon: Auto Upgrade, Auto Help, Auto Scam", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/making%20scam%20calls%20to%20save%20your%20best%20friend%20tycoon%20Auto%20Upgrade%20Auto%20Help%20Auto%20Scam.lua")
