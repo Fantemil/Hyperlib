@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 22:33:41"
+lastupdate = "GMT +1: 07.03.2023 22:33:45"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -4536,3 +4536,5 @@ addscriptexist(1537690962, "Bee Swarm Simulator: Remove Tags, Anti Cheat & More!
 addscript(10259717178, "Current Game","A Bizarre Day Modded Rebooted: Kill All", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/A%20Bizarre%20Day%20Modded%20Rebooted%20Kill%20All.lua")
 
 addscriptexist(292439477, "Phantom Forces: Hitbox Expander Gui", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Phantom%20Forces%20Hitbox%20Expander%20Gui.lua")
+
+addscriptexist(11939339894, "be a dad and get milk simulator: Get All Badges, Collect All Money", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/be%20a%20dad%20and%20get%20milk%20simulator%20Get%20All%20Badges%20Collect%20All%20Money.lua")
