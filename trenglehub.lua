@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 22:25:32"
+lastupdate = "GMT +1: 07.03.2023 22:25:38"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -4304,3 +4304,5 @@ addscript(7208474339, "Current Game","SpeedLands V2 [DEMO]: Infinite Boosters Ra
 addscriptexist(6125589657, "Touch Football: Football Aimlock & Auto Goal Keybinds", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Touch%20Football%20Football%20Aimlock%20%20Auto%20Goal%20Keybinds.lua")
 
 addscriptexist(2788229376, "Da Hood: Fake Macro", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Da%20Hood%20Fake%20Macro.lua")
+
+addscriptexist(192800, "Work At A Pizza Place: Fixed Sirel Killers Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Work%20At%20A%20Pizza%20Place%20Fixed%20Sirel%20Killers%20Auto%20Farm.lua")
