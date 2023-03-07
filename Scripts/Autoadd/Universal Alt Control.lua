@@ -1,16 +1,14 @@
-_G.host = "USERNAME" -- host username
-loadstring(game:HttpGet('https://raw.githubusercontent.com/uwuya/Eternals-Alt-Control/main/real'))()
---[[ COMMANDS
-.freeze -- freeze alts
-.unfreeze -- unfreeze alts
-.kill -- kill alts
-.bring -- bring alts
-.antiafk -- you can afk without getting kicked
-.savecpu -- lower cpu (white screen)
-.stopsavecpu -- disable (white screen)
-.kick -- kick alts
-.hidechat -- disable chat
-.openchat -- enables chat
-.rejoin -- alts rejoin same server
-.ds -- copy discord invite
---]]
+-- discord server for updates | https://discord.gg/wZrvdGZDCd
+-- script:
+
+_G.controller = "your main account username"
+
+alts = {
+    alt1 = "your alt", -- put none if you don't want more alts
+    alt2 = "your alt",
+    alt3 = "your alt",
+    alt4 = "your alt",
+    alt5 = "your alt"
+}
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/hologrammw/holo-alt-control/main/altcontrol.lua", true))()
