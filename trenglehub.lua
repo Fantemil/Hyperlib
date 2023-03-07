@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 15:47:32"
+lastupdate = "GMT +1: 07.03.2023 15:47:34"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -1295,3 +1295,4 @@ addscriptexist(6516141723, "DOORS: ROOMS Auto Complete", "pulled from rbxscript.
 addscriptuniversal("Universal Block Builder", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Block%20Builder.lua")
 
 addscript(1069951594,"Current Game", "Fall of Hell - AutoWin, GodMode, FOV Changer", "pulled from rscripts", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Fall%20of%20Hell%20%20AutoWin%20GodMode%20FOV%20Changer.lua")
+addscriptexist(142823291, "Murder Mystery 2: Esp, Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Murder%20Mystery%20%20Esp%20Auto%20Farm.lua")
