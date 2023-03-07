@@ -1,0 +1,1 @@
+loadstring(game:HttpGet(('https://raw.githubusercontent.com/CJFabro8/Client-Things/main/Gravity%20Coil'),true))()
