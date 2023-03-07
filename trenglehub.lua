@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 22:19:09"
+lastupdate = "GMT +1: 07.03.2023 22:19:12"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -4148,3 +4148,5 @@ addscriptexist(6284583030, "Pet Simulator X: Start Auto Farm, Auto Hatch Eggs & 
 addscriptexist(3101667897, "Legends Of Speed: Auto Farm Red Orbs, Auto Farm Gems, Auto Rebirth", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Legends%20Of%20Speed%20Auto%20Farm%20Red%20Orbs%20Auto%20Farm%20Gems%20Auto%20Rebirth.lua")
 
 addscriptexist(292439477, "Phantom Forces: Silent Aim, Auto Shoot, FOV", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Phantom%20Forces%20Silent%20Aim%20Auto%20Shoot%20FOV.lua")
+
+addscriptexist(4913581664, "Cart Ride Into Rtide: Auto Press Carts Buttons, Teleports", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Cart%20Ride%20Into%20Rtide%20Auto%20Press%20Carts%20Buttons%20Teleports.lua")
