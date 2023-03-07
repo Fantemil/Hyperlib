@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:33:06"
+lastupdate = "GMT +1: 07.03.2023 21:33:11"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -2852,3 +2852,5 @@ addscriptexist(6735572261, "Pilgrammed: Auto Farm Mob, Auto Equip, Auto Slash", 
 addscript(680750021, "Current Game","Case Clicker: Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Case%20Clicker%20Auto%20Farm.lua")
 
 addhub("Axure Hub V2: 2 Games", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Axure%20Hub%20V%20%20Games.lua")
+
+addhub("Universal AK-47", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20AK.lua")
