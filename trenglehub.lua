@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:07:24"
+lastupdate = "GMT +1: 07.03.2023 21:07:28"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -2154,3 +2154,5 @@ addscriptexist(893973440, "Flee the Facility: Player Esp, Computer Esp, Inf Stam
 addscriptexist(4616652839, "Shindo Life: Auto Farm, Auto Rank, Auto War & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Shindo%20Life%20Auto%20Farm%20Auto%20Rank%20Auto%20War%20%20More.lua")
 
 addscript(4866692557, "Current Game","Age of Heroes: Rep Farm, Life Saver, Auto Orbs & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Age%20of%20Heroes%20Rep%20Farm%20Life%20Saver%20Auto%20Orbs%20%20More.lua")
+
+addscriptexist(3851622790, "Break In (Story): Kill Aura, Kill All Players, GodMode", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Break%20In%20Story%20Kill%20Aura%20Kill%20All%20Players%20GodMode.lua")
