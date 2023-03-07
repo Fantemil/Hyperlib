@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:26:49"
+lastupdate = "GMT +1: 07.03.2023 21:26:54"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -2678,3 +2678,5 @@ addscript(654732683, "Current Game","Car Crushers 2: Auto Farm", "pulled from rb
 addscript(7655489843, "Current Game","Anime Battlegrounds X: Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime%20Battlegrounds%20X%20Auto%20Farm.lua")
 
 addscript(5036207802, "Current Game","RB Battles: Auto Bomb", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RB%20Battles%20Auto%20Bomb.lua")
+
+addscriptuniversal("Universal Aimlock", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Aimlock.lua")
