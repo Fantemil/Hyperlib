@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 20:55:49"
+lastupdate = "GMT +1: 07.03.2023 20:55:54"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -1818,3 +1818,5 @@ addscriptuniversal("Universal: Chat Bypasser, ForRealium Keyless", "pulled from 
 addscript(2619187362, "Current Game","Super Power Fighting Simulator: Auto Farm, Anit Afk", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Super%20Power%20Fighting%20Simulator%20Auto%20Farm%20Anit%20Afk.lua")
 
 addscriptexist(3101667897, "Legends Of Speed: Auto Farm, Auto Race & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Legends%20Of%20Speed%20Auto%20Farm%20Auto%20Race%20%20More.lua")
+
+addscript(8750997647, "Current Game","Tapping Legends X: Auto Tap, Auto Rebirth, Auto Upgrade", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tapping%20Legends%20X%20Auto%20Tap%20Auto%20Rebirth%20Auto%20Upgrade.lua")
