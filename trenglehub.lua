@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:22:32"
+lastupdate = "GMT +1: 07.03.2023 21:22:36"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -2582,3 +2582,5 @@ addscriptexist(7346416636, "Pop It Trading: Auto Buy, Server Crasher", "pulled f
 addscriptexist(11040063484, "Sword Fighters Simulator: Auto Click, Auto Ascend, Auto Equip Best Pets", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sword%20Fighters%20Simulator%20Auto%20Click%20Auto%20Ascend%20Auto%20Equip%20Best%20Pets.lua")
 
 addscript(5977280685, "Current Game","Ninja Legends 2: Auto Swing, Auto Sell, Auto Buy All & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ninja%20Legends%20%20Auto%20Swing%20Auto%20Sell%20Auto%20Buy%20All%20%20More.lua")
+
+addscriptexist(142823291, "Murder Mystery 2: Aimbot, Auto Farm, God Mode & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Murder%20Mystery%20%20Aimbot%20Auto%20Farm%20God%20Mode%20%20More.lua")
