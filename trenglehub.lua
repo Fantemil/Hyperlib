@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:18:15"
+lastupdate = "GMT +1: 07.03.2023 21:18:19"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -2460,3 +2460,5 @@ addscriptuniversal("Universal MacNotify", "pulled from rbxscript.com", "https://
 addscriptexist(155615604, "Prison Life: Spam Sound", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Prison%20Life%20Spam%20Sound.lua")
 
 addscriptexist(5780309044, "Stands Awakening: Jumppower, Walkspeed, Noclip", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Stands%20Awakening%20Jumppower%20Walkspeed%20Noclip.lua")
+
+addscriptexist(155615604, "Prison Life: Fly, Noclip & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Prison%20Life%20Fly%20Noclip%20%20More.lua")
