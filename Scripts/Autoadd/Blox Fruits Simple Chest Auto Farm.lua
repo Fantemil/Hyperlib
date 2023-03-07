@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/nuqi7/TP-Chest-Blox-Fruit/main/TPChest.lua"))()
