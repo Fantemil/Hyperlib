@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:41:50"
+lastupdate = "GMT +1: 07.03.2023 21:41:53"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -3106,3 +3106,5 @@ addscriptexist(2788229376, "Da Hood: Anti Afk", "pulled from rbxscript.com", "ht
 addscriptexist(6278885452, "Strong Katana Simulator: Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Strong%20Katana%20Simulator%20Auto%20Farm.lua")
 
 addscriptexist(4924922222, "Brookhaven RP: Teleports, Troll GUI", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Brookhaven%20RP%20Teleports%20Troll%20GUI.lua")
+
+addscriptexist(9498006165, "Tapping Simulator: Auto Farm, Auto Rebirth, Auto Egg", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tapping%20Simulator%20Auto%20Farm%20Auto%20Rebirth%20Auto%20Egg.lua")
