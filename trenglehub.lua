@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 22:20:41"
+lastupdate = "GMT +1: 07.03.2023 22:20:45"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -4194,3 +4194,5 @@ addscriptexist(9825515356, "Hood Customs: Aimbot & Target Hud", "pulled from rbx
 addscriptexist(5865858426, "Retail Tycoon 2: Auto Buy, Car Speed, Walkspeed", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Retail%20Tycoon%20%20Auto%20Buy%20Car%20Speed%20Walkspeed.lua")
 
 addscriptexist(10836055001, "Monster Hunt Simulator: Op Auto Farm & More!", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Monster%20Hunt%20Simulator%20Op%20Auto%20Farm%20%20More.lua")
+
+addscriptexist(9224601490, "Fruit Battlegrounds: Auto Spin", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Fruit%20Battlegrounds%20Auto%20Spin.lua")
