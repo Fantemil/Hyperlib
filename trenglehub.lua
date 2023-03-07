@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 20:58:30"
+lastupdate = "GMT +1: 07.03.2023 20:58:34"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -1894,3 +1894,5 @@ addscriptuniversal("Universal ChatGPT In Roblox", "pulled from rbxscript.com", "
 addscriptexist(537413528, "Build A Boat For Treasure: AutoFarm, Crash Server, Bread", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Build%20A%20Boat%20For%20Treasure%20AutoFarm%20Crash%20Server%20Bread.lua")
 
 addscriptexist(2788229376, "Da Hood: Anit Lock UI", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Da%20Hood%20Anit%20Lock%20UI.lua")
+
+addscriptexist(6516141723, "DOORS: Item Esp, Auto Hide, Fullbright & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DOORS%20Item%20Esp%20Auto%20Hide%20Fullbright%20%20More.lua")
