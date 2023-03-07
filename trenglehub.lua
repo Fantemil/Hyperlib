@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 22:20:19"
+lastupdate = "GMT +1: 07.03.2023 22:20:23"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -4182,3 +4182,5 @@ addscriptexist(6728870912, "World of Stands: Chest Farm", "pulled from rbxscript
 addscriptexist(3475397644, "Dragon Adventures: Auto Incubate, Fly & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Dragon%20Adventures%20Auto%20Incubate%20Fly%20%20More.lua")
 
 addscriptexist(11800876530, "+1 Blocks Every Second: AutoFarm, Auto Place, Auto Rebirth", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/%20Blocks%20Every%20Second%20AutoFarm%20Auto%20Place%20Auto%20Rebirth.lua")
+
+addscriptexist(11756661207, "Stairs Of RAGE: Ignore Colors", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Stairs%20Of%20RAGE%20Ignore%20Colors.lua")
