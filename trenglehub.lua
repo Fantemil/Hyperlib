@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:24:48"
+lastupdate = "GMT +1: 07.03.2023 21:24:52"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -2620,3 +2620,5 @@ addscript(12170626852, "Current Game","Mini Megafactory: ALL Level Crystals coll
 addscript(10358162137, "Current Game","Demon Slayer Weak Legacy [BETA]: 10k Exp", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Demon%20Slayer%20Weak%20Legacy%20BETA%20k%20Exp.lua")
 
 addscript(9773427501, "Current Game","Jitcity: Kick & Ban Menu", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Jitcity%20Kick%20%20Ban%20Menu.lua")
+
+addscriptexist(10358162137, "Demon Slayer Weak Legacy [BETA]: 100k Yen", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Demon%20Slayer%20Weak%20Legacy%20BETA%20k%20Yen.lua")
