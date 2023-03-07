@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:46:29"
+lastupdate = "GMT +1: 07.03.2023 21:46:33"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -3242,3 +3242,5 @@ addscript(11756661207, "Current Game","Stairs Of RAGE: Auto Farm", "pulled from 
 addscriptexist(2753915549, "Blox FruitsL Auto Find Fruits with Server Hop", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blox%20FruitsL%20Auto%20Find%20Fruits%20with%20Server%20Hop.lua")
 
 addscriptexist(11345435986, "Chainsaw Man: Devil's Heart: Auto Clean", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Chainsaw%20Man%20Devils%20Heart%20Auto%20Clean.lua")
+
+addscriptexist(6938803436, "Anime Dimensions Simulator: Auto Retry, AFK, Auto Level", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime%20Dimensions%20Simulator%20Auto%20Retry%20AFK%20Auto%20Level.lua")
