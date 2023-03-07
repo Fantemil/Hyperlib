@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 22:32:36"
+lastupdate = "GMT +1: 07.03.2023 22:32:40"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -4504,3 +4504,5 @@ addscriptexist(6918802270, "Project New World: Level Farm, Auto Quest, KillAura"
 addscriptexist(4566572536, "Vehicle Legends: Auto Farm, Noclip, Fly", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Vehicle%20Legends%20Auto%20Farm%20Noclip%20Fly.lua")
 
 addscriptexist(6728870912, "World of Stands: Players Auto Kill, Auto Attack, ESP", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/World%20of%20Stands%20Players%20Auto%20Kill%20Auto%20Attack%20ESP.lua")
+
+addscriptexist(21532277, "Notoriety: Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Notoriety%20Auto%20Farm.lua")
