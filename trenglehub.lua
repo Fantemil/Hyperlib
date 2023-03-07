@@ -1061,3 +1061,5 @@ addscript(10456235914, "Current Game","Redwood Prison: Reworked: Kill All, One P
 addscript(662417684, "Current Game","LUCKY BLOCKS Battlegrounds: Hitbox, Open Blocks, Keyless", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LUCKY%20BLOCKS%20Battlegrounds%20Hitbox%20Open%20Blocks%20Keyless.lua")
 
 addhub("Vsync Hub: 5+ Games", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Vsync%20Hub%20%20Games.lua")
+
+addscriptexist(6516141723, "OP Doors Entity Spawner", "pulled from rscripts", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20Doors%20Entity%20Spawner.lua")
