@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 22:19:55"
+lastupdate = "GMT +1: 07.03.2023 22:19:59"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -4172,3 +4172,5 @@ addscriptexist(11581747218, "Scp Warfare Tycoon: Auto Collect", "pulled from rbx
 addhub("VHub: Key Bypassed", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/VHub%20Key%20Bypassed.lua")
 
 addscriptexist(2788229376, "Da Hood: Buy Items, Fly & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Da%20Hood%20Buy%20Items%20Fly%20%20More.lua")
+
+addscriptexist(1537690962, "Bee Swarm Simulator: Paper Plants Dupe", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Bee%20Swarm%20Simulator%20Paper%20Plants%20Dupe.lua")
