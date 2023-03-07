@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:56:16"
+lastupdate = "GMT +1: 07.03.2023 21:56:21"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -3492,3 +3492,5 @@ addscriptexist(2788229376, "Da Hood: Enclosed Leak Gui", "pulled from rbxscript.
 addscriptexist(2534724415, "Emergency Response Liberty County: Full Anti Cheat Bypass, Gun Mods & More!", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Emergency%20Response%20Liberty%20County%20Full%20Anti%20Cheat%20Bypass%20Gun%20Mods%20%20More.lua")
 
 addscript(7167319176, "Current Game","Chicago Remastered: Auto Pickup Guns", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Chicago%20Remastered%20Auto%20Pickup%20Guns.lua")
+
+addscriptexist(286090429, "Arsenal: Aimbot, ESP, Fov", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Arsenal%20Aimbot%20ESP%20Fov.lua")
