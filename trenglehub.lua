@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:59:00"
+lastupdate = "GMT +1: 07.03.2023 21:59:04"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -3574,3 +3574,5 @@ addscriptexist(9938675423, "Oaklands: Tree Aura, Log Aura & More", "pulled from 
 addscriptexist(2788229376, "Da Hood: Aim Viewer", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Da%20Hood%20Aim%20Viewer.lua")
 
 addscriptexist(2788229376, "Da Hood: Autofarm, Inf Stamina & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Da%20Hood%20Autofarm%20Inf%20Stamina%20%20More.lua")
+
+addscriptexist(6284583030, "Pet Simulator X: AutoFarm, Auto Egg & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pet%20Simulator%20X%20AutoFarm%20Auto%20Egg%20%20More.lua")
