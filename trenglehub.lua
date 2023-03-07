@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:52:58"
+lastupdate = "GMT +1: 07.03.2023 21:53:02"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -3428,3 +3428,5 @@ addscriptexist(11400511154, "Monkey Tycoon: Auto Farm", "pulled from rbxscript.c
 addhub("Galaxy Hub: Key Bypassed", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Galaxy%20Hub%20Key%20Bypassed.lua")
 
 addhub("Universal No Fall", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20No%20Fall.lua")
+
+addscriptexist(9498006165, "Tapping Simulator: Auto Upgrade, Auto Rebirth & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tapping%20Simulator%20Auto%20Upgrade%20Auto%20Rebirth%20%20More.lua")
