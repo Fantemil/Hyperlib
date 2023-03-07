@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 22:02:47"
+lastupdate = "GMT +1: 07.03.2023 22:02:51"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -3680,3 +3680,5 @@ addscriptuniversal("Universal Spin and Play Phonky Town", "pulled from rbxscript
 addscriptexist(891852901, "Greenville: Auto Farm, Always Car Clean, Infinity Fuel", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Greenville%20Auto%20Farm%20Always%20Car%20Clean%20Infinity%20Fuel.lua")
 
 addscript(9555732501, "Current Game","Nen Fighting Simulator: Teleports, Auto Durability, Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Nen%20Fighting%20Simulator%20Teleports%20Auto%20Durability%20Auto%20Farm.lua")
+
+addscript(4723932, "Current Game","Undead Nation: Press T to turn on inf spider summonning", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Undead%20Nation%20Press%20T%20to%20turn%20on%20inf%20spider%20summonning.lua")
