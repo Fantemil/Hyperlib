@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://gist.githubusercontent.com/SpinnySpiwal/dc33835466bf0fa13f2e2de2a9cd0185/raw/87a8ee1a4a848ee832e87786ad44bc8ad1ccf313/StarSimulator1.lua"))()
