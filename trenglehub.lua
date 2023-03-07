@@ -1035,3 +1035,4 @@ addscriptexist(3272915504, "Arcane Odyssey: God mode", "pulled from rbxscript.co
 addscriptexist(12299415668, "Aggressive Multiplayer: Collect All Orbs", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Aggressive%20Multiplayer%20Collect%20All%20Orbs.lua")
 
 addscript(10313751253,"Current Game", "Free Bike Spawn Gamepass", "pulled from rscripts", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Free%20Bike%20Spawn%20Gamepass.lua")
+addscriptexist(11943871352, "Homework Printing Simulator: Unlock All, Inf Cash", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Homework%20Printing%20Simulator%20Unlock%20All%20Inf%20Cash.lua")
