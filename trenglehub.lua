@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:15:27"
+lastupdate = "GMT +1: 07.03.2023 21:15:31"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -2390,3 +2390,5 @@ addscriptexist(1240123653, "Zombies Attack: Auto Farm, Aimbot, Wallcheck & More"
 addscript(3623096087, "Current Game","Muscle Legends: Auto Farm, Auto Mob, Auto Rebirth & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Muscle%20Legends%20Auto%20Farm%20Auto%20Mob%20Auto%20Rebirth%20%20More.lua")
 
 addscriptuniversal("Universal RTX Gui", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20RTX%20Gui.lua")
+
+addscriptexist(286090429, "Arsenal: Kill All, Aimbot, Inf Ammo", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Arsenal%20Kill%20All%20Aimbot%20Inf%20Ammo.lua")
