@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/WinterDinder/Ski-Race/main/Main", true))()
