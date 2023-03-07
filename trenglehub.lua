@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 15:40:24"
+lastupdate = "GMT +1: 07.03.2023 15:40:28"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -1026,3 +1026,5 @@ addscriptexist(537413528, "Build A Boat For Treasure: Auto Hatch, Auto Win, Auto
 
 addscript(6678877691,"Current Game", "ZO SAMURAI - Killaura", "pulled from rscripts", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ZO%20SAMURAI%20%20Killaura.lua")
 addscriptexist(3272915504, "Arcane Odyssey: Instant Max Level And Galleeons", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Arcane%20Odyssey%20Instant%20Max%20Level%20And%20Galleeons.lua")
+
+addscriptexist(3272915504, "Arcane Odyssey: Auto Fish", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Arcane%20Odyssey%20Auto%20Fish.lua")
