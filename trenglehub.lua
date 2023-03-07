@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 15:39:54"
+lastupdate = "GMT +1: 07.03.2023 15:39:56"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -1008,3 +1008,4 @@ addscript(11746859781, "Current Game","Bubble Gum Clicker: Auto Spin Wheel, Auto
 addscriptexist(5602055394, "Hood Modded: Fly, Float, FOV", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Hood%20Modded%20Fly%20Float%20FOV.lua")
 
 addscript(2116002761,"Current Game", "Aftons Family Diner", "pulled from rscripts", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Aftons%20Family%20Diner.lua")
+addscript(9280321544, "Current Game","98% Fail Impossible Glass Bridge!: Give Gears, Show Correct Glasses, Finish Bridge", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/%20Fail%20Impossible%20Glass%20Bridge%20Give%20Gears%20Show%20Correct%20Glasses%20Finish%20Bridge.lua")
