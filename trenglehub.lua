@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:27:45"
+lastupdate = "GMT +1: 07.03.2023 21:27:50"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -2702,3 +2702,5 @@ addscriptexist(4872321990, "Islands: Auto Kill, Teleports, Auto Farm Bosses", "p
 addscriptexist(1069951594, "Fall of Hell: Auto Win, GodMode, FOV", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Fall%20of%20Hell%20Auto%20Win%20GodMode%20FOV.lua")
 
 addscriptexist(662417684, "LUCKY BLOCKS Battlegrounds: God Mode", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LUCKY%20BLOCKS%20Battlegrounds%20God%20Mode.lua")
+
+addscriptexist(920587237, "Adopt Me: Pet Auto Farm, Auto Buy Items, All Teleports, Auto Collect Gingerbreads", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Adopt%20Me%20Pet%20Auto%20Farm%20Auto%20Buy%20Items%20All%20Teleports%20Auto%20Collect%20Gingerbreads.lua")
