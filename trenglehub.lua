@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 15:47:54"
+lastupdate = "GMT +1: 07.03.2023 15:47:57"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -1308,3 +1308,5 @@ addscriptuniversal("Name Hider | Universal Script", "pulled from rscripts", "htt
 addhub("Pickle Hub: 3 Games", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pickle%20Hub%20%20Games.lua")
 
 addscriptexist(1962086868, "Tower of Hell: Inf Jumps, Auto Win & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tower%20of%20Hell%20Inf%20Jumps%20Auto%20Win%20%20More.lua")
+
+addscriptexist(662417684, "LUCKY BLOCKS Battlegrounds: Keybinds, Spawn Block, Teleports", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LUCKY%20BLOCKS%20Battlegrounds%20Keybinds%20Spawn%20Block%20Teleports.lua")
