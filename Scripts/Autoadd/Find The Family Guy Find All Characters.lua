@@ -1,0 +1,1 @@
+for i,v in next, game:GetService("Workspace").Characters:GetChildren() do firetouchinterest(game.Players.LocalPlayer.Character.HumanoidRootPart, v, 0) end
