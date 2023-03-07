@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/betalord1231/Rbx-Scripts/main/Clicking%20Sim%20Script"))()
