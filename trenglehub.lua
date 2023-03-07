@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:24:41"
+lastupdate = "GMT +1: 07.03.2023 21:24:44"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -2616,3 +2616,5 @@ addhub("Nex Hub: 3+ Games", "pulled from rbxscript.com", "https://raw.githubuser
 addscriptexist(8146731988, "Ultra Power Tycoon: Auto Collect Money, Auto Upgrade, Give All Weapons", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ultra%20Power%20Tycoon%20Auto%20Collect%20Money%20Auto%20Upgrade%20Give%20All%20Weapons.lua")
 
 addscript(12170626852, "Current Game","Mini Megafactory: ALL Level Crystals collect", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mini%20Megafactory%20ALL%20Level%20Crystals%20collect.lua")
+
+addscript(10358162137, "Current Game","Demon Slayer Weak Legacy [BETA]: 10k Exp", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Demon%20Slayer%20Weak%20Legacy%20BETA%20k%20Exp.lua")
