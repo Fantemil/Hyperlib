@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 20:57:06"
+lastupdate = "GMT +1: 07.03.2023 20:57:10"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -1856,3 +1856,5 @@ addscriptexist(6728870912, "World of Stands: Auto Skills, Auto Farm Player, Ches
 addscriptexist(2753915549, "Blox Fruits: Fruit Mastery, Auto Farm & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blox%20Fruits%20Fruit%20Mastery%20Auto%20Farm%20%20More.lua")
 
 addscript(4954096313, "Current Game","Field Trip Z: Auto Heal, Esp, God Mode & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Field%20Trip%20Z%20Auto%20Heal%20Esp%20God%20Mode%20%20More.lua")
+
+addscriptexist(7305309231, "Taxi Boss: Anti Afk, Auto Farm, Options", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Taxi%20Boss%20Anti%20Afk%20Auto%20Farm%20Options.lua")
