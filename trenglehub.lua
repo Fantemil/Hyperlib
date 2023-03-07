@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 20:57:31"
+lastupdate = "GMT +1: 07.03.2023 20:57:37"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -1868,3 +1868,5 @@ addscriptexist(2753915549, "Blox Fruits: Teleports, Auto Farm & More", "pulled f
 addscriptexist(621129760, "Knife Ability Test: Walkspeed, Silent Aim, ESP", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Knife%20Ability%20Test%20Walkspeed%20Silent%20Aim%20ESP.lua")
 
 addscriptexist(10596377987, "Bee Tycoon!: Auto Collect Honey", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Bee%20Tycoon%20Auto%20Collect%20Honey.lua")
+
+addscriptuniversal("Universal: Auto Click", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Auto%20Click.lua")
