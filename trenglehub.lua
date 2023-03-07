@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 22:20:53"
+lastupdate = "GMT +1: 07.03.2023 22:20:57"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -4200,3 +4200,5 @@ addscriptexist(9224601490, "Fruit Battlegrounds: Auto Spin", "pulled from rbxscr
 addscript(8351248417, "Current Game","The Booth Plaza 2: Simple Tomato Aimbot", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/The%20Booth%20Plaza%20%20Simple%20Tomato%20Aimbot.lua")
 
 addscriptexist(11874473440, "Car Factory Tycoon: Auto Farm, Suto Update Cars, Auto AirDrop", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Car%20Factory%20Tycoon%20Auto%20Farm%20Suto%20Update%20Cars%20Auto%20AirDrop.lua")
+
+addscript(7830150255, "Current Game","HCBB 9v9 2.0: Auto Hit", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/HCBB%20v%20%20Auto%20Hit.lua")
