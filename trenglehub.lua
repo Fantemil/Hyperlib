@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 15:46:42"
+lastupdate = "GMT +1: 07.03.2023 15:46:45"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -1264,3 +1264,5 @@ addscriptexist(3297964905, "Weaponry Kill All Script", "pulled from rscripts", "
 addscriptexist(9825515356, "Hood Customs: Headless, Aim Lock & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Hood%20Customs%20Headless%20Aim%20Lock%20%20More.lua")
 
 addscript(185655149, "Current Game","Welcome to Bloxburg: Pizza Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Welcome%20to%20Bloxburg%20Pizza%20Auto%20Farm.lua")
+
+addhub("AirHub | UNIVERSAL AIMBOT, WALL HACK ESP & CROSSHAIR GUI", "pulled from rscripts", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AirHub%20%20UNIVERSAL%20AIMBOT%20WALL%20HACK%20ESP%20%20CROSSHAIR%20GUI.lua")
