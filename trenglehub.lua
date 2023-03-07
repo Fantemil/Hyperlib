@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:58:11"
+lastupdate = "GMT +1: 07.03.2023 21:58:15"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -3550,3 +3550,5 @@ addscriptexist(6777872443, "Pixel Piece: Auto Farm Enemy, Auto Quest, Auto Stats
 addhub("Wheel Hub: Car Games Support", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Wheel%20Hub%20Car%20Games%20Support.lua")
 
 addscript(9579228669, "Current Game","Everyday Car Driving: Auto Farm, Auto Farm Speed, Car Speed", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Everyday%20Car%20Driving%20Auto%20Farm%20Auto%20Farm%20Speed%20Car%20Speed.lua")
+
+addscriptexist(5602055394, "Hood Modded: Speed Hack, ESP, Premium Version", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Hood%20Modded%20Speed%20Hack%20ESP%20Premium%20Version.lua")
