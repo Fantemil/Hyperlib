@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 22:08:21"
+lastupdate = "GMT +1: 07.03.2023 22:08:26"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -3842,3 +3842,5 @@ addscript(8704997000, "Current Game","Maple Hospital: Auto Farm", "pulled from r
 addscriptexist(142823291, "Murder Mystery 2: Walkspeed, Auto Get Gun & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Murder%20Mystery%20%20Walkspeed%20Auto%20Get%20Gun%20%20More.lua")
 
 addscriptexist(6777872443, "Pixel Piece: Tp Bypass", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pixel%20Piece%20Tp%20Bypass.lua")
+
+addhub("Yum Hub: 3 Games", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Yum%20Hub%20%20Games.lua")
