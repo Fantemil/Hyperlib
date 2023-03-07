@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:54:09"
+lastupdate = "GMT +1: 07.03.2023 21:54:13"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -3464,3 +3464,5 @@ addscriptexist(5732973455, "HOURS: Get All Characters", "pulled from rbxscript.c
 addscript(9798463281, "Current Game","Cube Combination: Cube Eater", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Cube%20Combination%20Cube%20Eater.lua")
 
 addscriptexist(2788229376, "Da Hood: RGB Guns", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Da%20Hood%20RGB%20Guns.lua")
+
+addscriptexist(142823291, "Murder Mystery 2: Coin Autofarm, Teleports & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Murder%20Mystery%20%20Coin%20Autofarm%20Teleports%20%20More.lua")
