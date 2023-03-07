@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:04:10"
+lastupdate = "GMT +1: 07.03.2023 21:04:14"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -2058,3 +2058,5 @@ addhub("Wheel Hub: Vehicle Games", "pulled from rbxscript.com", "https://raw.git
 addscriptexist(648362523, "Breaking Point: AutoFarm Credits", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Breaking%20Point%20AutoFarm%20Credits.lua")
 
 addscriptexist(4872321990, "Islands: Loot Aura", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Islands%20Loot%20Aura.lua")
+
+addscriptexist(3956818381, "Ninja Legends: Auto Sell, Auto Farm, Auto Buy", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ninja%20Legends%20Auto%20Sell%20Auto%20Farm%20Auto%20Buy.lua")
