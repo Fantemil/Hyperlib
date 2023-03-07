@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:06:18"
+lastupdate = "GMT +1: 07.03.2023 21:06:21"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -2120,3 +2120,5 @@ addscriptexist(3351674303, "Driving Empire: Auto-Farm, Car Speed & More", "pulle
 addscript(6461766546, "Current Game","A Hero's Destiny: Auto Stats, Auto Farm Lvl, Auto Skills", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/A%20Heros%20Destiny%20Auto%20Stats%20Auto%20Farm%20Lvl%20Auto%20Skills.lua")
 
 addscriptexist(8884334497, "Mining Clicker Simulator: Auto Upgrade, Auto Claim Rewards & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mining%20Clicker%20Simulator%20Auto%20Upgrade%20Auto%20Claim%20Rewards%20%20More.lua")
+
+addscript(171391948, "Current Game","Vehicle Simulator: Keybinds, Speed", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Vehicle%20Simulator%20Keybinds%20Speed.lua")
