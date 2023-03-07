@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:50:30"
+lastupdate = "GMT +1: 07.03.2023 21:50:35"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -3356,3 +3356,5 @@ addscriptexist(10875701453, "Edward the Man-Eating Train: Reset, No E wait, Gun 
 addscriptexist(6516141723, "DOORS: No E Wait, Spawn Seek, Fullbright", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DOORS%20No%20E%20Wait%20Spawn%20Seek%20Fullbright.lua")
 
 addscriptexist(11542692507, "Anime Souls Simulator: Auto Attack, Auto Mob", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime%20Souls%20Simulator%20Auto%20Attack%20Auto%20Mob.lua")
+
+addscriptexist(6284583030, "Pet Simulator X: Auto Fuse, Auto Convert & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pet%20Simulator%20X%20Auto%20Fuse%20Auto%20Convert%20%20More.lua")
