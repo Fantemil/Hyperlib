@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:15:34"
+lastupdate = "GMT +1: 07.03.2023 21:15:38"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -2394,3 +2394,5 @@ addscriptuniversal("Universal RTX Gui", "pulled from rbxscript.com", "https://ra
 addscriptexist(286090429, "Arsenal: Kill All, Aimbot, Inf Ammo", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Arsenal%20Kill%20All%20Aimbot%20Inf%20Ammo.lua")
 
 addscriptexist(9848789324, "Ragdoll Engine: Server Crasher, Teleports, Animations", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ragdoll%20Engine%20Server%20Crasher%20Teleports%20Animations.lua")
+
+addscriptexist(8260276694, "Ability Wars: AutoFarm, Godmode, Kill all", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ability%20Wars%20AutoFarm%20Godmode%20Kill%20all.lua")
