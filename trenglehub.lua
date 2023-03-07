@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:29:42"
+lastupdate = "GMT +1: 07.03.2023 21:29:46"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -2758,3 +2758,5 @@ addscriptexist(10446125875, "Anime Fruit Simulator: Auto Attack,Auto Farm NPC,Au
 addscriptexist(205224386, "Hide and Seek Extreme: Auto Collect,Auto Win,ESP", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Hide%20and%20Seek%20Extreme%20Auto%20CollectAuto%20WinESP.lua")
 
 addscript(10141683154, "Current Game","Unreal Simulation: Server Crasher", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Unreal%20Simulation%20Server%20Crasher.lua")
+
+addscriptexist(11939099110, "Ski Race: Auto Win, Auto Rebirth, Auto Hatch", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ski%20Race%20Auto%20Win%20Auto%20Rebirth%20Auto%20Hatch.lua")
