@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:46:38"
+lastupdate = "GMT +1: 07.03.2023 21:46:42"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -3246,3 +3246,5 @@ addscriptexist(11345435986, "Chainsaw Man: Devil's Heart: Auto Clean", "pulled f
 addscriptexist(6938803436, "Anime Dimensions Simulator: Auto Retry, AFK, Auto Level", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime%20Dimensions%20Simulator%20Auto%20Retry%20AFK%20Auto%20Level.lua")
 
 addscriptexist(12996397, "Mega Fun Obby: Auto Farm Rebirths, Points", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mega%20Fun%20Obby%20Auto%20Farm%20Rebirths%20Points.lua")
+
+addscriptexist(155615604, "Prison Life: Fly, Noclip, Anti Taser", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Prison%20Life%20Fly%20Noclip%20Anti%20Taser.lua")
