@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:14:54"
+lastupdate = "GMT +1: 07.03.2023 21:14:58"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -2374,3 +2374,5 @@ addscriptexist(10704789056, "Drive World: Car Speed, Auto Farm, Walkspeed", "pul
 addscriptexist(292439477, "Phantom Forces: Walkspeed, Gravity, No Fall Damage", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Phantom%20Forces%20Walkspeed%20Gravity%20No%20Fall%20Damage.lua")
 
 addscriptexist(6403373529, "Slap Battles: Kill Aura, God Mode, Kill All", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Slap%20Battles%20Kill%20Aura%20God%20Mode%20Kill%20All.lua")
+
+addscript(5023820864, "Current Game","Trade Tower: Auto Click, Auto Afk, Auto Jack Pot & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Trade%20Tower%20Auto%20Click%20Auto%20Afk%20Auto%20Jack%20Pot%20%20More.lua")
