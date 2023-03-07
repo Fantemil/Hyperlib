@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 17:03:14"
+lastupdate = "GMT +1: 07.03.2023 17:03:24"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -1593,3 +1593,4 @@ addscriptexist(2753915549, "Blox Fruit Gui Hub", "pulled from rscripts", "https:
 addscript(7791873535,"Current Game", "REALISTIC HOOD AUTOFARM 1MIL IN UNDER 2 MINS!", "pulled from rscripts", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/REALISTIC%20HOOD%20AUTOFARM%20MIL%20IN%20UNDER%20%20MINS.lua")
 addscriptexist(8908228901, "Catware Sharkbite 2 script", "pulled from rscripts", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Catware%20Sharkbite%20%20script.lua")
 addscriptexist(9872472334, "Evade Gift Auto Farm", "pulled from rscripts", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Evade%20Gift%20Auto%20Farm.lua")
+addscriptuniversal("Phantom Forces Script | Silent Aim, Rage Bot and more. [SYNAPSE X ONLY]", "pulled from rscripts", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Phantom%20Forces%20Script%20%20Silent%20Aim%20Rage%20Bot%20and%20more%20SYNAPSE%20X%20ONLY.lua")
