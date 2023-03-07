@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 22:18:38"
+lastupdate = "GMT +1: 07.03.2023 22:18:41"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -4132,3 +4132,5 @@ addscriptexist(2753915549, "Blox Fruits: Bring Mobs, Fast Attack & More", "pulle
 addscriptuniversal("Universal GUI Pack", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20GUI%20Pack.lua")
 
 addscriptexist(6777872443, "Pixel Piece: Auto Punch, Auto Quest, Auto Skills", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pixel%20Piece%20Auto%20Punch%20Auto%20Quest%20Auto%20Skills.lua")
+
+addscriptexist(11767933308, "Smash & Grab: Auto Attack, Auto Power, Auto Join Dig", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Smash%20%20Grab%20Auto%20Attack%20Auto%20Power%20Auto%20Join%20Dig.lua")
