@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:50:14"
+lastupdate = "GMT +1: 07.03.2023 21:50:18"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -3348,3 +3348,5 @@ addscript(9529019408, "Current Game","Zombie Army Simulator: Auto Click, Auto Cl
 addscriptexist(2788229376, "Da Hood: Aimlock, ESP & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Da%20Hood%20Aimlock%20ESP%20%20More.lua")
 
 addscript(6153766069, "Current Game","Escape The Carnival of Terror Obby: Auto Complete", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Escape%20The%20Carnival%20of%20Terror%20Obby%20Auto%20Complete.lua")
+
+addscriptexist(11156779721, "The Survival Game: Kill Aura, Silent Aim, Auto Leave", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/The%20Survival%20Game%20Kill%20Aura%20Silent%20Aim%20Auto%20Leave.lua")
