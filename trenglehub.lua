@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:45:16"
+lastupdate = "GMT +1: 07.03.2023 21:45:21"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -3208,3 +3208,5 @@ addscriptexist(3101667897, "Legends Of Speed: Auto Get Steps, Auto Get Gems, Aut
 addhub("Sycthe Hub: 5+ Games", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sycthe%20Hub%20%20Games.lua")
 
 addscriptexist(10704789056, "Drive World: Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Drive%20World%20Auto%20Farm.lua")
+
+addscriptuniversal("Universal Custom Synapse V3 Error Handler", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Custom%20Synapse%20V%20Error%20Handler.lua")
