@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 22:22:30"
+lastupdate = "GMT +1: 07.03.2023 22:22:33"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -4248,3 +4248,5 @@ addscriptexist(654732683, "Car Crushers 2: OP Car", "pulled from rbxscript.com",
 addscriptexist(8737602449, "PLS DONATE: Scam casino", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PLS%20DONATE%20Scam%20casino.lua")
 
 addscriptexist(537413528, "Build A Boat For Treasure: Auto Farm, Teleports, No Water Damage", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Build%20A%20Boat%20For%20Treasure%20Auto%20Farm%20Teleports%20No%20Water%20Damage.lua")
+
+addscriptexist(8737602449, "PLS DONATE: Fake Donate", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PLS%20DONATE%20Fake%20Donate.lua")
