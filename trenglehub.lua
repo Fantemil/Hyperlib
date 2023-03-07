@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:26:46"
+lastupdate = "GMT +1: 07.03.2023 21:26:49"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -2676,3 +2676,5 @@ addscriptexist(12170626852, "Mini Megafactory: All Level Crystals Collect", "pul
 addscript(654732683, "Current Game","Car Crushers 2: Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Car%20Crushers%20%20Auto%20Farm.lua")
 
 addscript(7655489843, "Current Game","Anime Battlegrounds X: Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime%20Battlegrounds%20X%20Auto%20Farm.lua")
+
+addscript(5036207802, "Current Game","RB Battles: Auto Bomb", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RB%20Battles%20Auto%20Bomb.lua")
