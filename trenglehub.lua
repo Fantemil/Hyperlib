@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:23:05"
+lastupdate = "GMT +1: 07.03.2023 21:23:08"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -2598,3 +2598,5 @@ addscriptexist(815405518, "The Floor Is LAVA: Auto Farm", "pulled from rbxscript
 addscript(3587619225, "Current Game","Mega Easy Obby: Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mega%20Easy%20Obby%20Auto%20Farm.lua")
 
 addscriptexist(2753915549, "Blox Fruits: Auto Farm, Redeem All Codes & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blox%20Fruits%20Auto%20Farm%20Redeem%20All%20Codes%20%20More.lua")
+
+addscriptexist(621129760, "KAT: Auto Sprint, Fullbright, Aimbot & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/KAT%20Auto%20Sprint%20Fullbright%20Aimbot%20%20More.lua")
