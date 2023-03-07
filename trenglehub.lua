@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 22:22:54"
+lastupdate = "GMT +1: 07.03.2023 22:23:00"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -4260,3 +4260,5 @@ addscriptexist(286090429, "Arsenal: Start Spinning, Stop Spinning, Element Spinn
 addscriptexist(7346416636, "Pop It Trading: Auto Accept, Auto Drop, Anti Grab", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pop%20It%20Trading%20Auto%20Accept%20Auto%20Drop%20Anti%20Grab.lua")
 
 addscriptexist(286090429, "Arsenal: Aimbot, Silent Aim, Team Check", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Arsenal%20Aimbot%20Silent%20Aim%20Team%20Check.lua")
+
+addscriptexist(301549746, "Counter Blox: No Recoil, Infinity Ammo, ESP", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Counter%20Blox%20No%20Recoil%20Infinity%20Ammo%20ESP.lua")
