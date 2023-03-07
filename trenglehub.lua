@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 22:15:21"
+lastupdate = "GMT +1: 07.03.2023 22:15:25"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -4040,3 +4040,5 @@ addscriptexist(11103424163, "Heist Tycoon: Auto Farm", "pulled from rbxscript.co
 addscript(2996067865, "Current Game","th3ltgrounds: Silent Aim", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/thltgrounds%20Silent%20Aim.lua")
 
 addscriptexist(11606818992, "STEEP STEPS: Kick Player", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/STEEP%20STEPS%20Kick%20Player.lua")
+
+addscriptexist(2788229376, "Da Hood: SuperHuman, Press X to Fly, Teleports", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Da%20Hood%20SuperHuman%20Press%20X%20to%20Fly%20Teleports.lua")
