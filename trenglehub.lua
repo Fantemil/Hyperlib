@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:30:24"
+lastupdate = "GMT +1: 07.03.2023 21:30:28"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -2776,3 +2776,5 @@ addscript(8216196965, "Current Game","Touch Soccer League: tossing each ball", "
 addscriptexist(12264058682, "GO TO JAIL AND MAKE FRIENDS TO ESCAPE tycoon: Auto Fill Belts, Auto Make Presents, Auto Collect Presents", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/GO%20TO%20JAIL%20AND%20MAKE%20FRIENDS%20TO%20ESCAPE%20tycoon%20Auto%20Fill%20Belts%20Auto%20Make%20Presents%20Auto%20Collect%20Presents.lua")
 
 addscriptexist(2753915549, "Blox Fruits: Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blox%20Fruits%20Auto%20Farm.lua")
+
+addscriptexist(12083773314, "Troop Army Simulator: Simple Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Troop%20Army%20Simulator%20Simple%20Auto%20Farm.lua")
