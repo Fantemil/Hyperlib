@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:11:58"
+lastupdate = "GMT +1: 07.03.2023 21:12:02"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -2290,3 +2290,5 @@ addscriptexist(6516141723, "DOORS: Impossible Mode", "pulled from rbxscript.com"
 addscriptexist(2753915549, "Blox Fruits: Teleports, Server Hop & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blox%20Fruits%20Teleports%20Server%20Hop%20%20More.lua")
 
 addscript(11810939759, "Current Game","Guess The Build: Redeem All Codes", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Guess%20The%20Build%20Redeem%20All%20Codes.lua")
+
+addscriptexist(7899881670, "RB World 4: Anti Cheat Bypass", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RB%20World%20%20Anti%20Cheat%20Bypass.lua")
