@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:38:02"
+lastupdate = "GMT +1: 07.03.2023 21:38:06"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -2994,3 +2994,5 @@ addscriptexist(11040063484, "Sword Fighters Simulator: Auto Collect, Auto Farm, 
 addscriptexist(10446125875, "Anime Fruit Simulator: Auto Upgrade, Auto Farm & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime%20Fruit%20Simulator%20Auto%20Upgrade%20Auto%20Farm%20%20More.lua")
 
 addscriptuniversal("Universal BTools, Fly, Noclip", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20BTools%20Fly%20Noclip.lua")
+
+addscriptexist(11746859781, "Bubble Gum Clicker: Auto Sell, Auto Bubble, Auto Collect", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Bubble%20Gum%20Clicker%20Auto%20Sell%20Auto%20Bubble%20Auto%20Collect.lua")
