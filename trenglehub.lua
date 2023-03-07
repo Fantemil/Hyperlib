@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:03:43"
+lastupdate = "GMT +1: 07.03.2023 21:03:46"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -2044,3 +2044,5 @@ addscriptexist(12996397, "Mega Fun Obby: Auto Rebirth, Auto Farm & More", "pulle
 addscript(4580204640, "Current Game","Survive the Killer: Loot Aura, Teleports, Remove Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Survive%20the%20Killer%20Loot%20Aura%20Teleports%20Remove%20Farm.lua")
 
 addscriptexist(893973440, "Flee the Facility: Anti Slow, Teleports & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Flee%20the%20Facility%20Anti%20Slow%20Teleports%20%20More.lua")
+
+addscriptexist(292439477, "Phantom Forces: Aim Bot, Esp & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Phantom%20Forces%20Aim%20Bot%20Esp%20%20More.lua")
