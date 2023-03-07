@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 22:11:10"
+lastupdate = "GMT +1: 07.03.2023 22:11:14"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -3926,3 +3926,5 @@ addscriptexist(11800876530, "+One Blocks Every Second: Auto Farm, Auto Rebirth, 
 addscriptexist(4913581664, "Cart Ride Into Rtide: Press All Buttons, Press All Carts Stop Button, Press All Carts Up Button", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Cart%20Ride%20Into%20Rtide%20Press%20All%20Buttons%20Press%20All%20Carts%20Stop%20Button%20Press%20All%20Carts%20Up%20Button.lua")
 
 addscript(6172932937, "Current Game","Energy Assault: Silent Aim, Kill All, Fly", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Energy%20Assault%20Silent%20Aim%20Kill%20All%20Fly.lua")
+
+addscriptexist(2788229376, "Da Hood: Press E to Lock Your Aim", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Da%20Hood%20Press%20E%20to%20Lock%20Your%20Aim.lua")
