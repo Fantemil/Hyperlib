@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 12:34:18"
+lastupdate = "GMT +1: 07.03.2023 12:34:22"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -1075,3 +1075,5 @@ addscriptexist(error, "Roblox: Apple Library", "pulled from rbxscript.com", "htt
 addscript(3194099138, "Current Game","R'lyeh The Sunken City: Unlock Everything", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Rlyeh%20The%20Sunken%20City%20Unlock%20Everything.lua")
 
 addscriptexist(error, "Roblox: Better volume slider", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Roblox%20Better%20volume%20slider.lua")
+
+addscriptexist(3272915504, "Arcane Odyssey: Chest Tp", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Arcane%20Odyssey%20Chest%20Tp.lua")
