@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:19:49"
+lastupdate = "GMT +1: 07.03.2023 21:19:53"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -2506,3 +2506,5 @@ addscript(11846163207, "Current Game","Mage Tycoon: Spam Dropper", "pulled from 
 addscriptexist(6735572261, "Pilgrammed: Insta Kill Mobs", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pilgrammed%20Insta%20Kill%20Mobs.lua")
 
 addscriptexist(6728870912, "World of Stands: Farm Chest, Tp, Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/World%20of%20Stands%20Farm%20Chest%20Tp%20Auto%20Farm.lua")
+
+addscriptexist(292439477, "Phantom Forces: Hitbox Expander", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Phantom%20Forces%20Hitbox%20Expander.lua")
