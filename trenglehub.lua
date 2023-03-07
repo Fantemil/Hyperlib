@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 22:30:04"
+lastupdate = "GMT +1: 07.03.2023 22:30:09"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -4432,3 +4432,5 @@ addscriptexist(8737602449, "PLS DONATE: Auto Thanks, Auto Beg, Webhook", "pulled
 addhub("Universal Hub for Devs", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Hub%20for%20Devs.lua")
 
 addscript(11523304146, "Current Game","Stone Farm Simulator: Auto Sell, Auto Mine", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Stone%20Farm%20Simulator%20Auto%20Sell%20Auto%20Mine.lua")
+
+addscript(5670218884, "Current Game","item asylum: Hitboxes, Kill All & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/item%20asylum%20Hitboxes%20Kill%20All%20%20More.lua")
