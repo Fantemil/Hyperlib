@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:51:12"
+lastupdate = "GMT +1: 07.03.2023 21:51:18"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -3376,3 +3376,5 @@ addscriptexist(9825515356, "Hood Customs: Press Q to Silent Aim", "pulled from r
 addscriptexist(2971329387, "Cook Burgers: Free Badge", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Cook%20Burgers%20Free%20Badge.lua")
 
 addscript(5976159288, "Current Game","Formula Apex: Anti AFK, Farm Money & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Formula%20Apex%20Anti%20AFK%20Farm%20Money%20%20More.lua")
+
+addscriptexist(6918802270, "Project New World: Infinity Stamina, Key Bypassed, Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Project%20New%20World%20Infinity%20Stamina%20Key%20Bypassed%20Auto%20Farm.lua")
