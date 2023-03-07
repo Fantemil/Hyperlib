@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:30:54"
+lastupdate = "GMT +1: 07.03.2023 21:31:01"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -2790,3 +2790,5 @@ addscriptexist(6284583030, "Pet Simulator X: Auto Farm, Walkspeed, Auto Enchant"
 addscript(2577040780, "Current Game","Eviction Notice: Auto Challenges", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Eviction%20Notice%20Auto%20Challenges.lua")
 
 addscript(6036526055, "Current Game","Westeros World: Kill Aura, Anti Afk, FOV", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Westeros%20World%20Kill%20Aura%20Anti%20Afk%20FOV.lua")
+
+addscriptexist(155615604, "Prison Life: Kill All, Walkspeed & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Prison%20Life%20Kill%20All%20Walkspeed%20%20More.lua")
