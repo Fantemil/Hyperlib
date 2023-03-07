@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:45:36"
+lastupdate = "GMT +1: 07.03.2023 21:45:40"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -3218,3 +3218,5 @@ addscriptexist(11746859781, "Bubble Gum Clicker: Auto Farm Bubbles, Farm Pickups
 addscriptexist(11874473440, "Car Factory Tycoon!: Mod Car, Semi Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Car%20Factory%20Tycoon%20Mod%20Car%20Semi%20Auto%20Farm.lua")
 
 addscriptexist(205224386, "Hide and Seek Extreme: ESP all, Auto win, Collect Coins", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Hide%20and%20Seek%20Extreme%20ESP%20all%20Auto%20win%20Collect%20Coins.lua")
+
+addscriptexist(6872265039, "BedWars: Projectile Aura, Projectile Aimbot & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BedWars%20Projectile%20Aura%20Projectile%20Aimbot%20%20More.lua")
