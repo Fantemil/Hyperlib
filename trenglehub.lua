@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 12:31:01"
+lastupdate = "GMT +1: 07.03.2023 12:31:05"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -979,3 +979,5 @@ addscript(662417684, "Current Game","LUCKY BLOCKS Battlegrounds: Hitbox, Open Bl
 addhub("Vsync Hub: 5+ Games", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Vsync%20Hub%20%20Games.lua")
 
 addhub("Universal Chat Censority Bypasser", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Chat%20Censority%20Bypasser.lua")
+
+addscript(6804602922, "Current Game","BOXING BETA: Inf Stam, WalkSpeed, NoClip", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BOXING%20BETA%20Inf%20Stam%20WalkSpeed%20NoClip.lua")
