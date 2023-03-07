@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:27:23"
+lastupdate = "GMT +1: 07.03.2023 21:27:27"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -2692,3 +2692,5 @@ addscriptexist(9498006165, "Tapping Simulator: Auto Tap, Auto Pet, Auto rebirth"
 addscript(8278412720, "Current Game","CS Prison Life: No Fall Damage, Teleports & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CS%20Prison%20Life%20No%20Fall%20Damage%20Teleports%20%20More.lua")
 
 addscript(11166344460, "Current Game","Easy Stud Jump Obby: Insta Complete It All And Complete Spawn Stages", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Easy%20Stud%20Jump%20Obby%20Insta%20Complete%20It%20All%20And%20Complete%20Spawn%20Stages.lua")
+
+addscriptexist(4580204640, "Survive the Killer: ESP, Auto Kill, Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Survive%20the%20Killer%20ESP%20Auto%20Kill%20Auto%20Farm.lua")
