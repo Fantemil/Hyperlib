@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:48:02"
+lastupdate = "GMT +1: 07.03.2023 21:48:06"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -3288,3 +3288,5 @@ addscriptexist(891852901, "Greenville: Anti Afk, Auto Farm, Inf Fue;", "pulled f
 addscriptexist(11196588443, "Zombie Merge Tycoon: Auto Collect Samples, Auto Put Samples, AFK Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Zombie%20Merge%20Tycoon%20Auto%20Collect%20Samples%20Auto%20Put%20Samples%20AFK%20Farm.lua")
 
 addhub("AeroHub: 15+ Games", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AeroHub%20%20Games.lua")
+
+addscript(3823781113, "Current Game","Saber Simulator: Auto Swing, Auto Sell, Boss Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Saber%20Simulator%20Auto%20Swing%20Auto%20Sell%20Boss%20Farm.lua")
