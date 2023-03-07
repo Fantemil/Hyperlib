@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 15:40:53"
+lastupdate = "GMT +1: 07.03.2023 15:40:56"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -1043,3 +1043,5 @@ addscriptexist(5938036553, "FRONTLINES: FPS Booster, Fullbright, Aimbot", "pulle
 
 addscriptexist(5938036553, "FRONTLINES | ESP Boxes, Tracers, Rainbow", "pulled from rscripts", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FRONTLINES%20%20ESP%20Boxes%20Tracers%20Rainbow.lua")
 addscript(11345435986, "Current Game","Chainsaw Man: Devil's Heart: Autofarm Mobs, Player name esp, Mob esp", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Chainsaw%20Man%20Devils%20Heart%20Autofarm%20Mobs%20Player%20name%20esp%20Mob%20esp.lua")
+
+addscript(8540168650, "Current Game","Stand Upright: Rebooted: Auto Buy, Auto Store, Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Stand%20Upright%20Rebooted%20Auto%20Buy%20Auto%20Store%20Auto%20Farm.lua")
