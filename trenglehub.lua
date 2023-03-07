@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 20:54:44"
+lastupdate = "GMT +1: 07.03.2023 20:54:47"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -1786,3 +1786,5 @@ addhub("Frightened Hub: 2 Games", "pulled from rbxscript.com", "https://raw.gith
 addscriptexist(648362523, "Breaking Point: FullBright, Aimbot, WallCheck & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Breaking%20Point%20FullBright%20Aimbot%20WallCheck%20%20More.lua")
 
 addscriptuniversal("Universal FE Ravager", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20FE%20Ravager.lua")
+
+addscriptexist(2753915549, "Blox Fruits: Auto Raid, Farm & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blox%20Fruits%20Auto%20Raid%20Farm%20%20More.lua")
