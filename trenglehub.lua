@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:30:28"
+lastupdate = "GMT +1: 07.03.2023 21:30:34"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -2778,3 +2778,5 @@ addscriptexist(12264058682, "GO TO JAIL AND MAKE FRIENDS TO ESCAPE tycoon: Auto 
 addscriptexist(2753915549, "Blox Fruits: Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blox%20Fruits%20Auto%20Farm.lua")
 
 addscriptexist(12083773314, "Troop Army Simulator: Simple Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Troop%20Army%20Simulator%20Simple%20Auto%20Farm.lua")
+
+addscriptexist(10598587051, "Anime Clicker Fight: Auto Click, Walkspeed, Auto Hatch", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime%20Clicker%20Fight%20Auto%20Click%20Walkspeed%20Auto%20Hatch.lua")
