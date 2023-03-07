@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 22:13:57"
+lastupdate = "GMT +1: 07.03.2023 22:14:01"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -4004,3 +4004,5 @@ addscriptexist(11156779721, "The Survival Game [BETA]: Infinite Stamina & Free C
 addscriptexist(2619187362, "Super Power Fighting Simulator: Auto Buy Chest, Auto Quest, Auto Train", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Super%20Power%20Fighting%20Simulator%20Auto%20Buy%20Chest%20Auto%20Quest%20Auto%20Train.lua")
 
 addscript(9811932338, "Current Game","World Of Sorcery: Infinite Level", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/World%20Of%20Sorcery%20Infinite%20Level.lua")
+
+addhub("VOID HUB: 6 GAMES", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/VOID%20HUB%20%20GAMES.lua")
