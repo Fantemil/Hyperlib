@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:02:30"
+lastupdate = "GMT +1: 07.03.2023 21:02:35"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -2008,3 +2008,5 @@ addscriptexist(10455492548, "Побег от а4 адопт ми паркур б
 addscriptexist(1224212277, "Mad City: Infinity Nitro, Teleports & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mad%20City%20Infinity%20Nitro%20Teleports%20%20More.lua")
 
 addscript(9143982021, "Current Game","Sword Battles: Teleports", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sword%20Battles%20Teleports.lua")
+
+addscriptexist(2753915549, "Blox Fruits: Fruit Mastery, Farm Gun Mastery, Auto Farm Lvl", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blox%20Fruits%20Fruit%20Mastery%20Farm%20Gun%20Mastery%20Auto%20Farm%20Lvl.lua")
