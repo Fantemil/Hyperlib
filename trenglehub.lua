@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:20:52"
+lastupdate = "GMT +1: 07.03.2023 21:20:56"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -2536,3 +2536,5 @@ addscriptexist(6728870912, "World of Stands: Instant Farm Chest, Auto Farm All M
 addscriptexist(5130598377, "A Universal Time: Farm All Items, Farm Boss, Farm Thugs", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/A%20Universal%20Time%20Farm%20All%20Items%20Farm%20Boss%20Farm%20Thugs.lua")
 
 addscriptuniversal("Universal HitBox Expand", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20HitBox%20Expand.lua")
+
+addscriptexist(893973440, "Flee the Facility: CPU Saver, Teleports", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Flee%20the%20Facility%20CPU%20Saver%20Teleports.lua")
