@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 22:31:52"
+lastupdate = "GMT +1: 07.03.2023 22:31:56"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -4482,3 +4482,5 @@ addscriptexist(11599913094, "Nuke Simulator: Auto Collect, Equip Best, Anti AFK"
 addscriptexist(5712833750, "Animal Simulator: Auto Farm, Firework Spam & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Animal%20Simulator%20Auto%20Farm%20Firework%20Spam%20%20More.lua")
 
 addscript(11572573905, "Current Game","Power Wash Tycoon: Auto Collect", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Power%20Wash%20Tycoon%20Auto%20Collect.lua")
+
+addscriptexist(13822889, "Lumber Tycoon 2: Fly, Car Flight, Infinity Jumps", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Lumber%20Tycoon%20%20Fly%20Car%20Flight%20Infinity%20Jumps.lua")
