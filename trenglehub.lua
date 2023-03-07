@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 20:58:48"
+lastupdate = "GMT +1: 07.03.2023 20:58:52"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -1904,3 +1904,5 @@ addhub("Universal: Fly, Walkspeed, Noclip", "pulled from rbxscript.com", "https:
 addscriptexist(6741970382, "Zombie lab: Gun Mod", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Zombie%20lab%20Gun%20Mod.lua")
 
 addscriptexist(3956818381, "Ninja Legends: Auto Sell, Auto Swing & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ninja%20Legends%20Auto%20Sell%20Auto%20Swing%20%20More.lua")
+
+addscript(3851622790, "Current Game","Break In (Story): Teleports, Auto Hit Bad Guys, Befriend Cat", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Break%20In%20Story%20Teleports%20Auto%20Hit%20Bad%20Guys%20Befriend%20Cat.lua")
