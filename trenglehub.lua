@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:32:51"
+lastupdate = "GMT +1: 07.03.2023 21:32:55"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -2844,3 +2844,5 @@ addscriptexist(9992339729, "Longest Answer Wins: Farm", "pulled from rbxscript.c
 addscript(133815151, "Current Game","The Final Stand 2: Zombie Esp, Aimbot, Trigger Bot & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/The%20Final%20Stand%20%20Zombie%20Esp%20Aimbot%20Trigger%20Bot%20%20More.lua")
 
 addscriptexist(6284583030, "Pet Simulator X: Auto Farm, Auto Pet, Auto Fuse & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pet%20Simulator%20X%20Auto%20Farm%20Auto%20Pet%20Auto%20Fuse%20%20More.lua")
+
+addscript(5233782396, "Current Game","Creatures of Sonaria: Auto Eat Plants, Anti Hunger, Auto Eat Meat & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Creatures%20of%20Sonaria%20Auto%20Eat%20Plants%20Anti%20Hunger%20Auto%20Eat%20Meat%20%20More.lua")
