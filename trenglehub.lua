@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:40:25"
+lastupdate = "GMT +1: 07.03.2023 21:40:30"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -3064,3 +3064,5 @@ addscriptexist(2753915549, "Blox Fruits: Aimbot, Wallcheck, Esp & More!", "pulle
 addscriptexist(314927855, "Pillow Fight Simulator: Mesh Plastik, Hitbox Expander, Teleports", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pillow%20Fight%20Simulator%20Mesh%20Plastik%20Hitbox%20Expander%20Teleports.lua")
 
 addscriptexist(8908228901, "Shark Bite 2: Theeth Generator, Kill Aura, Kill Shark", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Shark%20Bite%20%20Theeth%20Generator%20Kill%20Aura%20Kill%20Shark.lua")
+
+addscriptexist(1537690962, "Bee Swarm Simulator: Auto Dig, Auto Bubbles, Farm Flames", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Bee%20Swarm%20Simulator%20Auto%20Dig%20Auto%20Bubbles%20Farm%20Flames.lua")
