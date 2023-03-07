@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:29:08"
+lastupdate = "GMT +1: 07.03.2023 21:29:11"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -2742,3 +2742,5 @@ addscriptexist(189707, "Natural Disaster Survival: AutoFarm", "pulled from rbxsc
 addscript(6229116934, "Current Game","Hoopz: Auto Click, Reach, Auto Move", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Hoopz%20Auto%20Click%20Reach%20Auto%20Move.lua")
 
 addscript(8204899140, "Current Game","Football Fusion 2: Silent Aim,Auto Jump,Auto TP", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Football%20Fusion%20%20Silent%20AimAuto%20JumpAuto%20TP.lua")
+
+addscriptexist(2788229376, "Da Hood: Auto Buy,God Mode,Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Da%20Hood%20Auto%20BuyGod%20ModeAuto%20Farm.lua")
