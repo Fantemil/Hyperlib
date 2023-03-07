@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 12:36:07"
+lastupdate = "GMT +1: 07.03.2023 12:36:11"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -1125,3 +1125,5 @@ addscriptexist(error, "Siku's UI Library: Sliders, Toggles, Dropdowns", "pulled 
 addscriptuniversal("Universal Chat-Bot", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20ChatBot.lua")
 
 addscriptexist(7056922815, "Reaper 2: Inf Jumps, Auto Farm & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Reaper%20%20Inf%20Jumps%20Auto%20Farm%20%20More.lua")
+
+addscript(7732789524, "Current Game","Neo Soccer League: Fling every ball", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Neo%20Soccer%20League%20Fling%20every%20ball.lua")
