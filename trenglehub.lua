@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 12:36:51"
+lastupdate = "GMT +1: 07.03.2023 12:36:55"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -1147,3 +1147,5 @@ addscript(3398014311, "Current Game","Resaurant Tycoon 2: Auto-Farm, Auto Collec
 addscriptexist(6735572261, "Pilgrammed: Auto Attack, God Mode & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pilgrammed%20Auto%20Attack%20God%20Mode%20%20More.lua")
 
 addscriptuniversal("Universal Dominus Builder", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Dominus%20Builder.lua")
+
+addscriptexist(2788229376, "Da Hood: Aimlock", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Da%20Hood%20Aimlock.lua")
