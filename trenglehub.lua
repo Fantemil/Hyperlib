@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:25:30"
+lastupdate = "GMT +1: 07.03.2023 21:25:34"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -2640,3 +2640,5 @@ addscriptexist(537413528, "Build A Boat For Treasure: Auto Farm, Event Quests & 
 addscriptexist(2753915549, "Blox Fruits: Auto Farm Chests", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blox%20Fruits%20Auto%20Farm%20Chests.lua")
 
 addscriptexist(1554960397, "Car Dealership Tycoon: Car Speed, Auto Farm Long Way, Auto Farm Highway", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Car%20Dealership%20Tycoon%20Car%20Speed%20Auto%20Farm%20Long%20Way%20Auto%20Farm%20Highway.lua")
+
+addscriptexist(11939099110, "Ski Race: Auto Win, Auto Farm, Auto Hatch", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ski%20Race%20Auto%20Win%20Auto%20Farm%20Auto%20Hatch.lua")
