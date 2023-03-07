@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:44:06"
+lastupdate = "GMT +1: 07.03.2023 21:44:10"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -3174,3 +3174,5 @@ addscriptexist(6872265039, "BedWars: GUI with Vape V4", "pulled from rbxscript.c
 addhub("Oxygen Hub: 10+ Games", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Oxygen%20Hub%20%20Games.lua")
 
 addscriptexist(6516141723, "DOORS: ESP Items, ESP Key, Notifier", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DOORS%20ESP%20Items%20ESP%20Key%20Notifier.lua")
+
+addscriptexist(6284583030, "Pet Simulator X: Auto Farm Coins, Auto Hatch Eggs & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pet%20Simulator%20X%20Auto%20Farm%20Coins%20Auto%20Hatch%20Eggs%20%20More.lua")
