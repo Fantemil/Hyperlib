@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 12:29:53"
+lastupdate = "GMT +1: 07.03.2023 12:29:58"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -945,3 +945,5 @@ addscriptexist(3272915504, "Arcane Odyssey: Island Tp", "pulled from rbxscript.c
 addscriptexist(3956818381, "Ninja Legends: Auto Sell, Auto Swing, Auto Hoops", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ninja%20Legends%20Auto%20Sell%20Auto%20Swing%20Auto%20Hoops.lua")
 
 addscriptexist(537413528, "Build A Boat For Treasure: Auto Hatch, Auto Win, Auto Farm Gold", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Build%20A%20Boat%20For%20Treasure%20Auto%20Hatch%20Auto%20Win%20Auto%20Farm%20Gold.lua")
+
+addscriptexist(3272915504, "Arcane Odyssey: Instant Max Level And Galleeons", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Arcane%20Odyssey%20Instant%20Max%20Level%20And%20Galleeons.lua")
