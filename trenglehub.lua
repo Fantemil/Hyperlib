@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 22:28:23"
+lastupdate = "GMT +1: 07.03.2023 22:28:27"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -4388,3 +4388,5 @@ addscript(5413701977, "Current Game","|FREE ADMIN| Admin House: Explode All, Jai
 addscriptexist(3260590327, "Tower Defense Simulator: Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tower%20Defense%20Simulator%20Auto%20Farm.lua")
 
 addscriptexist(292439477, "Phantom Forces: Movement Changer", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Phantom%20Forces%20Movement%20Changer.lua")
+
+addscriptuniversal("Universal Better Friend Detector", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Better%20Friend%20Detector.lua")
