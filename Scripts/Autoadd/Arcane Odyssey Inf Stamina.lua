@@ -1,0 +1,1 @@
+game:GetService("ReplicatedStorage").RS.Remotes.Combat.StaminaCost:FireServer(-100000000, "Dodge")
