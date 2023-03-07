@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 22:23:08"
+lastupdate = "GMT +1: 07.03.2023 22:23:22"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -4266,3 +4266,5 @@ addscriptexist(301549746, "Counter Blox: No Recoil, Infinity Ammo, ESP", "pulled
 addscriptexist(4520749081, "King Legacy: Autofarm, Bring Fruit & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/King%20Legacy%20Autofarm%20Bring%20Fruit%20%20More.lua")
 
 addscriptuniversal("Universal Give Any Weapon In Your Game", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Give%20Any%20Weapon%20In%20Your%20Game.lua")
+
+addscriptexist(11701792069, "Snow Plow Simulator: Eggs, Spawn Car, Infinity Money", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Snow%20Plow%20Simulator%20Eggs%20Spawn%20Car%20Infinity%20Money.lua")
