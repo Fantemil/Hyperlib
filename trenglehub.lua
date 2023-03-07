@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 22:10:10"
+lastupdate = "GMT +1: 07.03.2023 22:10:14"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -3898,3 +3898,5 @@ addscriptexist(3177438863, "Dragon Blox: Auto Strength Farm, Auto Rebirth, Get D
 addscriptexist(654732683, "Car Crushers 2: Mods Your Current Car", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Car%20Crushers%20%20Mods%20Your%20Current%20Car.lua")
 
 addscriptexist(286090429, "Arsenal: Walkspeed, Jump Power, Super Human", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Arsenal%20Walkspeed%20Jump%20Power%20Super%20Human.lua")
+
+addscriptexist(11542692507, "Anime Souls Simulator: Auto Attack, Auto Mobs & More!", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime%20Souls%20Simulator%20Auto%20Attack%20Auto%20Mobs%20%20More.lua")
