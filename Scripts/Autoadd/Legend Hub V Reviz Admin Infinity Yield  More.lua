@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/L3G3NDPL4YZ/LOL-hub/main/LEGENDHUB%20V4,true))()
