@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 15:43:28"
+lastupdate = "GMT +1: 07.03.2023 15:43:29"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -1141,3 +1141,5 @@ addscriptexist(662417684, "LUCKY BLOCKS Battlegrounds: Walkspeed, Jump Power, Sp
 addscript(5827078246, "Current Game","Coins Hero Simulator: Auto Hatch Eggs, Auto Buy, Auto Sell", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Coins%20Hero%20Simulator%20Auto%20Hatch%20Eggs%20Auto%20Buy%20Auto%20Sell.lua")
 
 addscript(10446125875, "Current Game","Anime Fruit Simulator: Auto Attack, Auto Upgrade, Auto Hatch", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime%20Fruit%20Simulator%20Auto%20Attack%20Auto%20Upgrade%20Auto%20Hatch.lua")
+
+addhub("Xix Script Hub [WORKS IN ANY GAME] [UPDATE]", "pulled from rscripts", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Xix%20Script%20Hub%20WORKS%20IN%20ANY%20GAME%20UPDATE.lua")
