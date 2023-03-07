@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:08:10"
+lastupdate = "GMT +1: 07.03.2023 21:08:13"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -2178,3 +2178,5 @@ addscriptexist(142823291, "Murder Mystery 2: Auto Farm, EXP Farm, ESP", "pulled 
 addscriptexist(7056922815, "Reaper 2: Auto Farms Mobs Get Quests, Teleports", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Reaper%20%20Auto%20Farms%20Mobs%20Get%20Quests%20Teleports.lua")
 
 addscriptexist(189707, "Natural Disaster Survival: Godmode, Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Natural%20Disaster%20Survival%20Godmode%20Auto%20Farm.lua")
+
+addscript(6205205961, "Current Game","Escape Running Head: Unlock boss Gamepass, Unlock double jump Gamepass", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Escape%20Running%20Head%20Unlock%20boss%20Gamepass%20Unlock%20double%20jump%20Gamepass.lua")
