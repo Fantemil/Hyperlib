@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:44:47"
+lastupdate = "GMT +1: 07.03.2023 21:44:51"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -3194,3 +3194,5 @@ addscriptexist(11257760806, "live in a back alley simulator [beta]: Auto Sell, A
 addscriptexist(10895555747, "Walmart Land: Auto Get Fruit Hat", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Walmart%20Land%20Auto%20Get%20Fruit%20Hat.lua")
 
 addscript(4841699106, "Current Game","Siren Head Rebirth: Fullbright, Walkspeed, Infinity Jumps", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Siren%20Head%20Rebirth%20Fullbright%20Walkspeed%20Infinity%20Jumps.lua")
+
+addscriptexist(7346416636, "Pop It Trading: Auto Buy Items, Themes & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pop%20It%20Trading%20Auto%20Buy%20Items%20Themes%20%20More.lua")
