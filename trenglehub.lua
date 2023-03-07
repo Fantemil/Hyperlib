@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:22:39"
+lastupdate = "GMT +1: 07.03.2023 21:22:43"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -2586,3 +2586,5 @@ addscript(5977280685, "Current Game","Ninja Legends 2: Auto Swing, Auto Sell, Au
 addscriptexist(142823291, "Murder Mystery 2: Aimbot, Auto Farm, God Mode & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Murder%20Mystery%20%20Aimbot%20Auto%20Farm%20God%20Mode%20%20More.lua")
 
 addscript(5569431582, "Current Game","Little World: Auto Fruit, Auto Farm Boss, Auto Flags & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Little%20World%20Auto%20Fruit%20Auto%20Farm%20Boss%20Auto%20Flags%20%20More.lua")
+
+addscriptexist(4566572536, "Vehicle Legends: Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Vehicle%20Legends%20Auto%20Farm.lua")
