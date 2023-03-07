@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 22:29:27"
+lastupdate = "GMT +1: 07.03.2023 22:29:31"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -4414,3 +4414,5 @@ addscriptuniversal("Universal Lyrics Bot", "pulled from rbxscript.com", "https:/
 addscriptexist(8260276694, "Ability Wars: Auto Farm, Auto Quest, Hitbox Expander & More!", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ability%20Wars%20Auto%20Farm%20Auto%20Quest%20Hitbox%20Expander%20%20More.lua")
 
 addscript(11459360004, "Current Game","Universal FE Sounds", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20FE%20Sounds.lua")
+
+addscript(10624667410, "Current Game","di makatulog: Annoy The Whole Server", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/di%20makatulog%20Annoy%20The%20Whole%20Server.lua")
