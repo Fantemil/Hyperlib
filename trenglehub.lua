@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 22:19:51"
+lastupdate = "GMT +1: 07.03.2023 22:19:55"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -4170,3 +4170,5 @@ addscriptuniversal("Universal FE invisible plane", "pulled from rbxscript.com", 
 addscriptexist(11581747218, "Scp Warfare Tycoon: Auto Collect", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Scp%20Warfare%20Tycoon%20Auto%20Collect.lua")
 
 addhub("VHub: Key Bypassed", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/VHub%20Key%20Bypassed.lua")
+
+addscriptexist(2788229376, "Da Hood: Buy Items, Fly & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Da%20Hood%20Buy%20Items%20Fly%20%20More.lua")
