@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:17:57"
+lastupdate = "GMT +1: 07.03.2023 21:18:02"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -2452,3 +2452,5 @@ addscriptexist(2474168535, "Westbound: Gun Mods, Silent Aim & More", "pulled fro
 addscriptuniversal("Universal Beautiful colors", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Beautiful%20colors.lua")
 
 addscript(6352880659, "Current Game","Snowball.io: Auto Win, Jump Power, No Cooldown", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Snowballio%20Auto%20Win%20Jump%20Power%20No%20Cooldown.lua")
+
+addscriptexist(6284583030, "Pet Simulator X: Auto Farm, Auto Collect, Auto Eggs", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pet%20Simulator%20X%20Auto%20Farm%20Auto%20Collect%20Auto%20Eggs.lua")
