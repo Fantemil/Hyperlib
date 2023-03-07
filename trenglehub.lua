@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 20:54:17"
+lastupdate = "GMT +1: 07.03.2023 20:54:20"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -1774,3 +1774,5 @@ addscriptexist(3527629287, "Big Paintball: Kill All, Fly, Esp", "pulled from rbx
 addscriptexist(370731277, "MeepCity: Teleports, Rejoin, Big Head", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MeepCity%20Teleports%20Rejoin%20Big%20Head.lua")
 
 addscriptexist(3272915504, "Arcane Odyssey: Kill Aura, Chest Farm, Auto Farm Pirates", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Arcane%20Odyssey%20Kill%20Aura%20Chest%20Farm%20Auto%20Farm%20Pirates.lua")
+
+addscriptexist(662417684, "LUCKY BLOCKS Battlegrounds: Teleports, Get Blocks & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LUCKY%20BLOCKS%20Battlegrounds%20Teleports%20Get%20Blocks%20%20More.lua")
