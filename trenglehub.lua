@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:32:34"
+lastupdate = "GMT +1: 07.03.2023 21:32:39"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -2836,3 +2836,5 @@ addscriptexist(11696117193, "High Rollers Casino & Resort Map: Auto Farm", "pull
 addscript(2512643572, "Current Game","Bubble Gun Simulator: Auto Blow, Auto Sell, Auto Upgrade All & More!", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Bubble%20Gun%20Simulator%20Auto%20Blow%20Auto%20Sell%20Auto%20Upgrade%20All%20%20More.lua")
 
 addscriptexist(2727067538, "World // Zero: Kill Aura, Auto Farm, Auto Skill & More!", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/World%20%20Zero%20Kill%20Aura%20Auto%20Farm%20Auto%20Skill%20%20More.lua")
+
+addscript(3486025575, "Current Game","Magnet Simulator: Auto Farm, Auto Sell, Auto Egg & More!", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Magnet%20Simulator%20Auto%20Farm%20Auto%20Sell%20Auto%20Egg%20%20More.lua")
