@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:50:48"
+lastupdate = "GMT +1: 07.03.2023 21:50:52"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -3364,3 +3364,5 @@ addhub("Lunar Hub: 1 Games", "pulled from rbxscript.com", "https://raw.githubuse
 addscript(9528010, "Current Game","Blood and Iron: Auto Build, Quick Build", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blood%20and%20Iron%20Auto%20Build%20Quick%20Build.lua")
 
 addscriptexist(3956818381, "Ninja Legends: Auto Swing, Auto Sell, Auto Buy Belts", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ninja%20Legends%20Auto%20Swing%20Auto%20Sell%20Auto%20Buy%20Belts.lua")
+
+addscriptexist(183364845, "Speed Run 4: Beat All Levels Loop and Not Loop, Speed", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Speed%20Run%20%20Beat%20All%20Levels%20Loop%20and%20Not%20Loop%20Speed.lua")
