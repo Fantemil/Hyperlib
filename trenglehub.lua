@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 22:27:04"
+lastupdate = "GMT +1: 07.03.2023 22:27:07"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -4350,3 +4350,5 @@ addscriptexist(11884594868, "Anime Defense Simulator: Auto buy Eggs, Auto buy We
 addscriptexist(2753915549, "Blox Fruits: Auto Stats, Auto Farm Level, Auto New World", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blox%20Fruits%20Auto%20Stats%20Auto%20Farm%20Level%20Auto%20New%20World.lua")
 
 addscriptexist(286090429, "Arsenal: Aimbot, FOV, Wall Check", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Arsenal%20Aimbot%20FOV%20Wall%20Check.lua")
+
+addscriptuniversal("Universal Roblox size Changer", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Roblox%20size%20Changer.lua")
