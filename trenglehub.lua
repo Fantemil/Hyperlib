@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:43:29"
+lastupdate = "GMT +1: 07.03.2023 21:43:34"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -3156,3 +3156,5 @@ addscriptexist(6284583030, "Pet Simulator X: Remove Egg Animation, Egg Hatch X1,
 addscriptexist(142823291, "Murder Mystery 2: Teleport Lobby, Coin Farm, Exp Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Murder%20Mystery%20%20Teleport%20Lobby%20Coin%20Farm%20Exp%20Farm.lua")
 
 addhub("Kidach Hub: 3+ Games", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Kidach%20Hub%20%20Games.lua")
+
+addhub("Find The Plugs: Auto Collect", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Find%20The%20Plugs%20Auto%20Collect.lua")
