@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 15:48:38"
+lastupdate = "GMT +1: 07.03.2023 15:48:42"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -1337,3 +1337,5 @@ addscriptexist(142823291, "Murder Mystery 2: Server Crasher, Auto Farm, Kill All
 
 addscript(4759640416,"Current Game", "The Underground War 2 Flag TP", "pulled from rscripts", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/The%20Underground%20War%20%20Flag%20TP.lua")
 addscript(2551991523, "Current Game","Broken Bones IV: Auto-Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Broken%20Bones%20IV%20AutoFarm.lua")
+
+addscriptexist(662417684, "LUCKY BLOCKS Battlegrounds: Fly, Spawn Blocks, Jumppower", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LUCKY%20BLOCKS%20Battlegrounds%20Fly%20Spawn%20Blocks%20Jumppower.lua")
