@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:03:07"
+lastupdate = "GMT +1: 07.03.2023 21:03:11"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -2026,3 +2026,5 @@ addscript(12166287786, "Current Game","+1 Fat Every Second: Auto Rebirth, Auto W
 addscript(11162791099, "Current Game","Free Hatchers: Auto Eggs, Auto Rebirth, Auto Equip Best", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Free%20Hatchers%20Auto%20Eggs%20Auto%20Rebirth%20Auto%20Equip%20Best.lua")
 
 addscriptexist(4282985734, "Combat Warriors: Silent Aim, Auto Parry & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Combat%20Warriors%20Silent%20Aim%20Auto%20Parry%20%20More.lua")
+
+addscriptexist(2753915549, "Blox Fruits: Auto Stats, Teleports, Aimbot", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blox%20Fruits%20Auto%20Stats%20Teleports%20Aimbot.lua")
