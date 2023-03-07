@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:59:19"
+lastupdate = "GMT +1: 07.03.2023 21:59:23"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -3584,3 +3584,5 @@ addscript(5409315202, "Current Game","Cook Burgers, but with 100 players: Troll 
 addhub("Xdeformebred Hub: 3+ Games", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Xdeformebred%20Hub%20%20Games.lua")
 
 addhub("Cheaters Hub: 9 Games", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Cheaters%20Hub%20%20Games.lua")
+
+addscript(9598746251, "Current Game","Home Run Simulator: Auto Farm, Auto Rebirth, Auto Crates", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Home%20Run%20Simulator%20Auto%20Farm%20Auto%20Rebirth%20Auto%20Crates.lua")
