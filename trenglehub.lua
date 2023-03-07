@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 22:13:09"
+lastupdate = "GMT +1: 07.03.2023 22:13:13"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -3982,3 +3982,5 @@ addscriptexist(3527629287, "Big Paintball: Trigger Bot", "pulled from rbxscript.
 addscriptexist(3101667897, "Legends Of Speed: Auto Collect Orbs", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Legends%20Of%20Speed%20Auto%20Collect%20Orbs.lua")
 
 addscriptexist(5732973455, "HOURS: Gives all Characters, All Badges, Hitboxes", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/HOURS%20Gives%20all%20Characters%20All%20Badges%20Hitboxes.lua")
+
+addscriptexist(7991339063, "Rainbow Friends: Auto Feed Orange, Auto Farm, Cool Visual Functions", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Rainbow%20Friends%20Auto%20Feed%20Orange%20Auto%20Farm%20Cool%20Visual%20Functions.lua")
