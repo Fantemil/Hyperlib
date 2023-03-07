@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:20:14"
+lastupdate = "GMT +1: 07.03.2023 21:20:18"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -2518,3 +2518,5 @@ addscript(885450884, "Current Game","The Grand Crossing Border Roleplay: Troll F
 addscriptexist(7732789524, "Neo Soccer League: Instantly Goals", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Neo%20Soccer%20League%20Instantly%20Goals.lua")
 
 addscriptexist(2474168535, "Westbound: Auto Farm, Silent Aim, Gun Mods & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Westbound%20Auto%20Farm%20Silent%20Aim%20Gun%20Mods%20%20More.lua")
+
+addscript(11364184405, "Current Game","Super Fun Obby 500 Stages: Auto Complete", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Super%20Fun%20Obby%20%20Stages%20Auto%20Complete.lua")
