@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:28:49"
+lastupdate = "GMT +1: 07.03.2023 21:28:53"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -2732,3 +2732,5 @@ addscriptexist(2788229376, "Da Hood: Auto Kill,Fling & More", "pulled from rbxsc
 addscriptexist(2788229376, "Da Hood: Reach", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Da%20Hood%20Reach.lua")
 
 addscriptexist(2788229376, "Da Hood: Noclip, Keybind B", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Da%20Hood%20Noclip%20Keybind%20B.lua")
+
+addscriptexist(2788229376, "Da Hood: Anti Cheat Bypass", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Da%20Hood%20Anti%20Cheat%20Bypass.lua")
