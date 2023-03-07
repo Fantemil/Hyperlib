@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:51:25"
+lastupdate = "GMT +1: 07.03.2023 21:51:29"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -3382,3 +3382,5 @@ addscriptexist(6918802270, "Project New World: Infinity Stamina, Key Bypassed, A
 addhub("ExtremeHub: Key System Bypassed", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ExtremeHub%20Key%20System%20Bypassed.lua")
 
 addscriptexist(11040063484, "Sword Fighters Simulator: Kill Aura, Farm Mob, Farm Nearest Mob", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sword%20Fighters%20Simulator%20Kill%20Aura%20Farm%20Mob%20Farm%20Nearest%20Mob.lua")
+
+addscriptexist(6516141723, "DOORS: Fullbright, Walkspeed Loop & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DOORS%20Fullbright%20Walkspeed%20Loop%20%20More.lua")
