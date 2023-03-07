@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 22:29:12"
+lastupdate = "GMT +1: 07.03.2023 22:29:20"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -4408,3 +4408,5 @@ addscriptexist(155615604, "Prison Life: Give all nonriot guns", "pulled from rbx
 addscriptexist(4924922222, "Brookhaven RP: Kick All, Kill All & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Brookhaven%20RP%20Kick%20All%20Kill%20All%20%20More.lua")
 
 addscriptexist(920587237, "Adopt Me: Auto Farm, Auto Farm Lanterns, Auto Buy", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Adopt%20Me%20Auto%20Farm%20Auto%20Farm%20Lanterns%20Auto%20Buy.lua")
+
+addscriptuniversal("Universal Lyrics Bot", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Lyrics%20Bot.lua")
