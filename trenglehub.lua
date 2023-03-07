@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:22:02"
+lastupdate = "GMT +1: 07.03.2023 21:22:06"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -2568,3 +2568,5 @@ addscriptuniversal("Universal Open Source Key System", "pulled from rbxscript.co
 addscriptexist(2788229376, "Da Hood: Macro", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Da%20Hood%20Macro.lua")
 
 addscriptexist(6678877691, "ZO SAMURAI: Kill Aura, Spinbot & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ZO%20SAMURAI%20Kill%20Aura%20Spinbot%20%20More.lua")
+
+addscript(9942628622, "Current Game","Son Goku: The Finale: Get All", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Son%20Goku%20The%20Finale%20Get%20All.lua")
