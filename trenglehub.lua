@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:06:25"
+lastupdate = "GMT +1: 07.03.2023 21:06:29"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -2124,3 +2124,5 @@ addscriptexist(8884334497, "Mining Clicker Simulator: Auto Upgrade, Auto Claim R
 addscript(171391948, "Current Game","Vehicle Simulator: Keybinds, Speed", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Vehicle%20Simulator%20Keybinds%20Speed.lua")
 
 addscript(9666226803, "Current Game","Hotel Simulator: Infinite Kitchen Supplies", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Hotel%20Simulator%20Infinite%20Kitchen%20Supplies.lua")
+
+addscriptexist(2768379856, "3008: Instant Interact", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/%20Instant%20Interact.lua")
