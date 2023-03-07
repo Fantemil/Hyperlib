@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:04:43"
+lastupdate = "GMT +1: 07.03.2023 21:04:49"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -2074,3 +2074,5 @@ addscriptexist(6284583030, "Pet Simulator X: Auto-Farm, Auto Use Boosts & More",
 addscriptexist(2753915549, "Blox Fruits: Devil Fruit Finder", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blox%20Fruits%20Devil%20Fruit%20Finder.lua")
 
 addscript(10253248401, "Current Game","Elemental Powers Tycoon: No Cooldown", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Elemental%20Powers%20Tycoon%20No%20Cooldown.lua")
+
+addscriptexist(1962086868, "Tower of Hell: Get Items, Auto Win, Walkspeed", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tower%20of%20Hell%20Get%20Items%20Auto%20Win%20Walkspeed.lua")
