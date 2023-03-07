@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:07:33"
+lastupdate = "GMT +1: 07.03.2023 21:07:36"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -2158,3 +2158,5 @@ addscript(4866692557, "Current Game","Age of Heroes: Rep Farm, Life Saver, Auto 
 addscriptexist(3851622790, "Break In (Story): Kill Aura, Kill All Players, GodMode", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Break%20In%20Story%20Kill%20Aura%20Kill%20All%20Players%20GodMode.lua")
 
 addscriptexist(2248408710, "Destruction Simulator: Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Destruction%20Simulator%20Auto%20Farm.lua")
+
+addscript(6788787407, "Current Game","Warrior Champions: Auto Farm, Auto Swing, Auto Sell & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Warrior%20Champions%20Auto%20Farm%20Auto%20Swing%20Auto%20Sell%20%20More.lua")
