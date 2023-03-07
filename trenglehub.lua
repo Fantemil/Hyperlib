@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:17:54"
+lastupdate = "GMT +1: 07.03.2023 21:17:57"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -2450,3 +2450,5 @@ addscriptexist(301549746, "Counter Blox: Rapid Fire, No Recoil, No Spread", "pul
 addscriptexist(2474168535, "Westbound: Gun Mods, Silent Aim & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Westbound%20Gun%20Mods%20Silent%20Aim%20%20More.lua")
 
 addscriptuniversal("Universal Beautiful colors", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Beautiful%20colors.lua")
+
+addscript(6352880659, "Current Game","Snowball.io: Auto Win, Jump Power, No Cooldown", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Snowballio%20Auto%20Win%20Jump%20Power%20No%20Cooldown.lua")
