@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/mkswlorn/Eclipsis/main/EclipsisGUI%20V2", true))()
