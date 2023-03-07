@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 20:56:26"
+lastupdate = "GMT +1: 07.03.2023 20:56:30"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -1836,3 +1836,5 @@ addscriptexist(3272915504, "Arcane Odyssey: Kill Aura, Farm Mobs", "pulled from 
 addscriptexist(8540346411, "Rebirth Champions X: Auto Click, Auto Rebirth & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Rebirth%20Champions%20X%20Auto%20Click%20Auto%20Rebirth%20%20More.lua")
 
 addscriptexist(11542692507, "Anime Souls Simulator: Auto Farm, Auto Kill Raid, Auto Attack", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime%20Souls%20Simulator%20Auto%20Farm%20Auto%20Kill%20Raid%20Auto%20Attack.lua")
+
+addscriptexist(7056922815, "Reaper 2: Inf Jumps, Walkspeed, Noclip", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Reaper%20%20Inf%20Jumps%20Walkspeed%20Noclip.lua")
