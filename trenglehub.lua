@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:13:54"
+lastupdate = "GMT +1: 07.03.2023 21:13:58"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -2344,3 +2344,5 @@ addscript(11940636110, "Current Game","Mining Factory Tycoon: Inf Cash, Finish O
 addscriptexist(11542692507, "Anime Souls Simulator: Auto Egg, Auto Equip Best, Auto Upgrade", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime%20Souls%20Simulator%20Auto%20Egg%20Auto%20Equip%20Best%20Auto%20Upgrade.lua")
 
 addscriptexist(11345435986, "Chainsaw Man: Devil's Heart: Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Chainsaw%20Man%20Devils%20Heart%20Auto%20Farm.lua")
+
+addscript(23578803, "Current Game","Hotel Elephant: Server Crasher", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Hotel%20Elephant%20Server%20Crasher.lua")
