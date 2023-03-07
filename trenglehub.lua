@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 12:35:52"
+lastupdate = "GMT +1: 07.03.2023 12:35:56"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -1117,3 +1117,5 @@ addscript(1962086868, "Current Game","Tower Of Hell: God Mode, Auto Farm, Infini
 addscript(10108131074, "Current Game","Mow The Lawn: Auto Farm, Walkspeed, Jumppower", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mow%20The%20Lawn%20Auto%20Farm%20Walkspeed%20Jumppower.lua")
 
 addscriptuniversal("Universal Remove Surface Textures and Effects", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Remove%20Surface%20Textures%20and%20Effects.lua")
+
+addscript(11153589280, "Current Game","DOORS Race: Auto Win, Auto Tap", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DOORS%20Race%20Auto%20Win%20Auto%20Tap.lua")
