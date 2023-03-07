@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:11:43"
+lastupdate = "GMT +1: 07.03.2023 21:11:47"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -2282,3 +2282,5 @@ addscriptexist(10673860069, "Horse Racing Club: Remove Race Obstacles", "pulled 
 addscriptexist(6075270490, "Teamwork Puzzles: Auto Win", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Teamwork%20Puzzles%20Auto%20Win.lua")
 
 addscriptexist(142823291, "Murder Mystery 2: Esp", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Murder%20Mystery%20%20Esp.lua")
+
+addscriptexist(2753915549, "Blox Fruits: Auto Farm, Auto Raid, Fruit Mastery", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blox%20Fruits%20Auto%20Farm%20Auto%20Raid%20Fruit%20Mastery.lua")
