@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 22:25:49"
+lastupdate = "GMT +1: 07.03.2023 22:25:53"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -4312,3 +4312,5 @@ addscript(4669056864, "Current Game","Flex Your Account Age: Auto Obby", "pulled
 addscript(6751580221, "Current Game","Verdant Moon: Instant Kill Bosses", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Verdant%20Moon%20Instant%20Kill%20Bosses.lua")
 
 addscriptexist(11874473440, "Car Factory Tycoon: Auto Sell, Auto Fill Materials, Get Material", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Car%20Factory%20Tycoon%20Auto%20Sell%20Auto%20Fill%20Materials%20Get%20Material.lua")
+
+addscriptexist(11251823801, "Slap battles but bad: Key Binds", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Slap%20battles%20but%20bad%20Key%20Binds.lua")
