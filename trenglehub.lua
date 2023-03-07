@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 15:44:39"
+lastupdate = "GMT +1: 07.03.2023 15:44:42"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -1189,3 +1189,5 @@ addscriptexist(3255508650, "brawl 2: Kill Aura", "pulled from rbxscript.com", "h
 
 addscript(1240123653,"Current Game", "Zombie Attack: Autofarm OP", "pulled from rscripts", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Zombie%20Attack%20Autofarm%20OP.lua")
 addscriptexist(9961650006, "Shockwave Racing: Auto Farm Wins", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Shockwave%20Racing%20Auto%20Farm%20Wins.lua")
+
+addscript(8916037983, "Current Game","starving artists: Redeem All Codes", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/starving%20artists%20Redeem%20All%20Codes.lua")
