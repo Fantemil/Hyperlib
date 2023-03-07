@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:07:51"
+lastupdate = "GMT +1: 07.03.2023 21:07:55"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -2168,3 +2168,5 @@ addscriptexist(3652625463, "Lifting Simulator: Auto Sell, Auto Gain & More", "pu
 addscript(2537430692, "Current Game","Jenga: TP Win", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Jenga%20TP%20Win.lua")
 
 addscriptexist(7180042682, "Military Tycoon: Auto Raid, Server Hop", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Military%20Tycoon%20Auto%20Raid%20Server%20Hop.lua")
+
+addscriptexist(5780309044, "Stands Awakening: Farm Items, Farm Players, Inf Rokaka", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Stands%20Awakening%20Farm%20Items%20Farm%20Players%20Inf%20Rokaka.lua")
