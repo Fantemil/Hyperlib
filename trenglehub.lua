@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 12:39:56"
+lastupdate = "GMT +1: 07.03.2023 12:40:02"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -1237,3 +1237,5 @@ addscriptexist(3272915504, "Arcane Odyssey: Infinite Money", "pulled from rbxscr
 addscriptexist(3272915504, "Arcane Odyssey: Kill Aura", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Arcane%20Odyssey%20Kill%20Aura.lua")
 
 addscript(6507422231, "Current Game","Twilight Daycare: Hide Name, Crash Server & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Twilight%20Daycare%20Hide%20Name%20Crash%20Server%20%20More.lua")
+
+addscriptexist(8568266872, "Kill Monsters To Save Princess: Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Kill%20Monsters%20To%20Save%20Princess%20Auto%20Farm.lua")
