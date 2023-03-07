@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 22:24:27"
+lastupdate = "GMT +1: 07.03.2023 22:24:31"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -4278,3 +4278,5 @@ addscriptexist(8054462345, "Michael's Zombies: Walkspeed, Noclip, Bullet Speed",
 addscriptexist(11547613362, "Anime Fly Race: Anti Afk, Auto Chi, Auto Yen", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime%20Fly%20Race%20Anti%20Afk%20Auto%20Chi%20Auto%20Yen.lua")
 
 addscriptexist(6728870912, "World of Stands: Auto Collect Chest", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/World%20of%20Stands%20Auto%20Collect%20Chest.lua")
+
+addscriptexist(621129760, "Knife Ability Test: Silent Aim", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Knife%20Ability%20Test%20Silent%20Aim.lua")
