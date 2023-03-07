@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:45:44"
+lastupdate = "GMT +1: 07.03.2023 21:45:47"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -3222,3 +3222,5 @@ addscriptexist(205224386, "Hide and Seek Extreme: ESP all, Auto win, Collect Coi
 addscriptexist(6872265039, "BedWars: Projectile Aura, Projectile Aimbot & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BedWars%20Projectile%20Aura%20Projectile%20Aimbot%20%20More.lua")
 
 addscriptexist(621129760, "Knife Ability Test: Silent Aim, FOV, ESP", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Knife%20Ability%20Test%20Silent%20Aim%20FOV%20ESP.lua")
+
+addscript(11676335670, "Current Game","Hunter X Athena: Auto Train Nen", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Hunter%20X%20Athena%20Auto%20Train%20Nen.lua")
