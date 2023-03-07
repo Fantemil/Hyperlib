@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:14:07"
+lastupdate = "GMT +1: 07.03.2023 21:14:11"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -2350,3 +2350,5 @@ addscript(23578803, "Current Game","Hotel Elephant: Server Crasher", "pulled fro
 addscriptexist(6728870912, "World of Stands: AutoFarm, Walkspeed, Noclip", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/World%20of%20Stands%20AutoFarm%20Walkspeed%20Noclip.lua")
 
 addscriptexist(286090429, "Arsenal: Kill All, Silent Aim, Tags", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Arsenal%20Kill%20All%20Silent%20Aim%20Tags.lua")
+
+addhub("Silver Hub: Keyless", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Silver%20Hub%20Keyless.lua")
