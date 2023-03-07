@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 22:18:58"
+lastupdate = "GMT +1: 07.03.2023 22:19:01"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -4142,3 +4142,5 @@ addscriptexist(1224212277, "Mad City: Chapter 2: Auto Rob, Auto Arrest, Teleport
 addscript(9772878203, "Current Game","raise a floppa 2: Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/raise%20a%20floppa%20%20Auto%20Farm.lua")
 
 addscriptuniversal("Universal Streaming slash Recording, Hide username", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Streaming%20slash%20Recording%20Hide%20username.lua")
+
+addscriptexist(6284583030, "Pet Simulator X: Start Auto Farm, Auto Hatch Eggs & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pet%20Simulator%20X%20Start%20Auto%20Farm%20Auto%20Hatch%20Eggs%20%20More.lua")
