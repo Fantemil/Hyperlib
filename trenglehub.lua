@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:05:57"
+lastupdate = "GMT +1: 07.03.2023 21:06:02"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -2110,3 +2110,5 @@ addscript(12264058682, "Current Game","GO TO JAIL AND MAKE FRIENDS TO ESCAPE tyc
 addscriptexist(11939099110, "Ski Race: Auto Farm, Auto Win, Rejoin Autofarm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ski%20Race%20Auto%20Farm%20Auto%20Win%20Rejoin%20Autofarm.lua")
 
 addscriptexist(3851622790, "Break In (Story): Walkspeed, Auto Planks, Infinity Energy", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Break%20In%20Story%20Walkspeed%20Auto%20Planks%20Infinity%20Energy.lua")
+
+addscriptexist(648362523, "Breaking Point: Silent Aim", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Breaking%20Point%20Silent%20Aim.lua")
