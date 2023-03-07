@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:12:39"
+lastupdate = "GMT +1: 07.03.2023 21:12:43"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -2310,3 +2310,5 @@ addscriptexist(141084271, "Rise Of The Dead: Auto Farm", "pulled from rbxscript.
 addscript(11606818992, "Current Game","STEEP STEPS: Anti Cheat Bypass", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/STEEP%20STEPS%20Anti%20Cheat%20Bypass.lua")
 
 addscriptexist(8908228901, "SharkBite 2: Insta Kill Shark", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SharkBite%20%20Insta%20Kill%20Shark.lua")
+
+addscriptexist(6735572261, "Pilgrammed: God Mode, Chest Farm & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pilgrammed%20God%20Mode%20Chest%20Farm%20%20More.lua")
