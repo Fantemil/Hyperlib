@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:25:26"
+lastupdate = "GMT +1: 07.03.2023 21:25:30"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -2638,3 +2638,5 @@ addscript(7137212917, "Current Game","Fly Race: Auto Rebirths, Inf Chest Open, F
 addscriptexist(537413528, "Build A Boat For Treasure: Auto Farm, Event Quests & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Build%20A%20Boat%20For%20Treasure%20Auto%20Farm%20Event%20Quests%20%20More.lua")
 
 addscriptexist(2753915549, "Blox Fruits: Auto Farm Chests", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blox%20Fruits%20Auto%20Farm%20Chests.lua")
+
+addscriptexist(1554960397, "Car Dealership Tycoon: Car Speed, Auto Farm Long Way, Auto Farm Highway", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Car%20Dealership%20Tycoon%20Car%20Speed%20Auto%20Farm%20Long%20Way%20Auto%20Farm%20Highway.lua")
