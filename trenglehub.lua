@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 22:17:45"
+lastupdate = "GMT +1: 07.03.2023 22:17:50"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -4106,3 +4106,5 @@ addscriptexist(9992339729, "Longest Answer Wins: Copy Answer, Auto Answer, Answe
 addscriptexist(133815151, "The Final Stand 2: Silent Aim", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/The%20Final%20Stand%20%20Silent%20Aim.lua")
 
 addscriptuniversal("Universal ESP, Tracers, Show Team", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20ESP%20Tracers%20Show%20Team.lua")
+
+addscriptexist(3851622790, "Break In (Story): Give Pizza, Give Apple", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Break%20In%20Story%20Give%20Pizza%20Give%20Apple.lua")
