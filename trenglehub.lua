@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 22:18:02"
+lastupdate = "GMT +1: 07.03.2023 22:18:06"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -4114,3 +4114,5 @@ addscriptexist(10945472407, "Strong Muscle Simulator: Auto Weight, Auto Rebirth,
 addscriptexist(6808416928, "AIMBLOX BETA: Silent Aimbot", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AIMBLOX%20BETA%20Silent%20Aimbot.lua")
 
 addscriptexist(2753915549, "Blox Fruits: Full Moon Finder Server Hopper", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blox%20Fruits%20Full%20Moon%20Finder%20Server%20Hopper.lua")
+
+addscript(9571238478, "Current Game","Raise a Peter: Auto Clicker", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Raise%20a%20Peter%20Auto%20Clicker.lua")
