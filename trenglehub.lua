@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:32:59"
+lastupdate = "GMT +1: 07.03.2023 21:33:03"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -2848,3 +2848,5 @@ addscriptexist(6284583030, "Pet Simulator X: Auto Farm, Auto Pet, Auto Fuse & Mo
 addscript(5233782396, "Current Game","Creatures of Sonaria: Auto Eat Plants, Anti Hunger, Auto Eat Meat & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Creatures%20of%20Sonaria%20Auto%20Eat%20Plants%20Anti%20Hunger%20Auto%20Eat%20Meat%20%20More.lua")
 
 addscriptexist(6735572261, "Pilgrammed: Auto Farm Mob, Auto Equip, Auto Slash", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pilgrammed%20Auto%20Farm%20Mob%20Auto%20Equip%20Auto%20Slash.lua")
+
+addscript(680750021, "Current Game","Case Clicker: Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Case%20Clicker%20Auto%20Farm.lua")
