@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 22:11:01"
+lastupdate = "GMT +1: 07.03.2023 22:11:05"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -3922,3 +3922,5 @@ addscript(527730528, "Current Game","Magic Training: Block Bypass", "pulled from
 addscriptuniversal("Universal Other FPS Booster", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Other%20FPS%20Booster.lua")
 
 addscriptexist(11800876530, "+One Blocks Every Second: Auto Farm, Auto Rebirth, Auto Eggs", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/One%20Blocks%20Every%20Second%20Auto%20Farm%20Auto%20Rebirth%20Auto%20Eggs.lua")
+
+addscriptexist(4913581664, "Cart Ride Into Rtide: Press All Buttons, Press All Carts Stop Button, Press All Carts Up Button", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Cart%20Ride%20Into%20Rtide%20Press%20All%20Buttons%20Press%20All%20Carts%20Stop%20Button%20Press%20All%20Carts%20Up%20Button.lua")
