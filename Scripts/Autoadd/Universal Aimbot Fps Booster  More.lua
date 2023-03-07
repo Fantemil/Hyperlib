@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/NICKISBAD/NIX-HUB/main/Nick's%20ScriptLab.txt"))()
