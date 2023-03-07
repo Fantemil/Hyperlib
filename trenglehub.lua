@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 12:35:13"
+lastupdate = "GMT +1: 07.03.2023 12:35:17"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -1099,3 +1099,5 @@ addscriptexist(3272915504, "Arcane Odyssey: Auto Farm Chests", "pulled from rbxs
 addscriptexist(189707, "Natural Disaster Survival: Auto Farm Win", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Natural%20Disaster%20Survival%20Auto%20Farm%20Win.lua")
 
 addscriptexist(11345435986, "Chainsaw Man: Devil`s: Auto Farm Mobs, Player Name Esp & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Chainsaw%20Man%20Devils%20Auto%20Farm%20Mobs%20Player%20Name%20Esp%20%20More.lua")
+
+addscript(11397035899, "Current Game","Unicorn Tycoon: Auto Merge, Auto Collect, Auto Purchases", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Unicorn%20Tycoon%20Auto%20Merge%20Auto%20Collect%20Auto%20Purchases.lua")
