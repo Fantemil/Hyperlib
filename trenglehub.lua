@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:10:10"
+lastupdate = "GMT +1: 07.03.2023 21:10:14"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -2236,3 +2236,5 @@ addscriptexist(6284583030, "Pet Simulator X: Auto-Farm, Keybinds & More", "pulle
 addscriptexist(9143982021, "Sword Battles: Spam Skills", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sword%20Battles%20Spam%20Skills.lua")
 
 addscript(5740246170, "Current Game","Tower Simulator: Auto Build, Auto Upgrade", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tower%20Simulator%20Auto%20Build%20Auto%20Upgrade.lua")
+
+addscriptexist(8328351891, "Mega Mansion Tycoon: Auto collect, Auto Build", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mega%20Mansion%20Tycoon%20Auto%20collect%20Auto%20Build.lua")
