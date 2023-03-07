@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 17:43:37"
+lastupdate = "GMT +1: 07.03.2023 17:43:46"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -1733,3 +1733,4 @@ addscriptexist(4490140733, "My Restaurant OP Auto Farm | Make Money Fast", "pull
 addscriptexist(9498006165, "Tapping Simulator GUI | SKIP SHINY STAGE *OP*", "pulled from rscripts", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tapping%20Simulator%20GUI%20%20SKIP%20SHINY%20STAGE%20OP.lua")
 addscriptexist(6872265039, "Roblox Bedwars Script VAPE V4 + Config!", "pulled from rscripts", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Roblox%20Bedwars%20Script%20VAPE%20V%20%20Config.lua")
 addscript(9840387028,"Current Game", "Era Of Althea Script GUI | Auto Farm, Auto Quest & MORE", "pulled from rscripts", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Era%20Of%20Althea%20Script%20GUI%20%20Auto%20Farm%20Auto%20Quest%20%20MORE.lua")
+addscript(6468323505,"Current Game", "Anime Warriors Script GUI | God Mode, Auto Farm & MORE", "pulled from rscripts", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime%20Warriors%20Script%20GUI%20%20God%20Mode%20Auto%20Farm%20%20MORE.lua")
