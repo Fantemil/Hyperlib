@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:53:58"
+lastupdate = "GMT +1: 07.03.2023 21:54:02"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -3458,3 +3458,5 @@ addscriptexist(3101667897, "Legends Of Speed: Auto Steps, Auto Rebirth, Auto Cry
 addscriptexist(3956818381, "Ninja Legends: Auto Sell, Auto Buy Belts & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ninja%20Legends%20Auto%20Sell%20Auto%20Buy%20Belts%20%20More.lua")
 
 addscript(6000468131, "Current Game","Granny: ESP for Items, Granny, Players", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Granny%20ESP%20for%20Items%20Granny%20Players.lua")
+
+addscriptexist(5732973455, "HOURS: Get All Characters", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/HOURS%20Get%20All%20Characters.lua")
