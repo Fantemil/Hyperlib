@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 22:06:44"
+lastupdate = "GMT +1: 07.03.2023 22:06:48"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -3794,3 +3794,5 @@ addscriptexist(2788229376, "Da Hood: Call All, Bag All, Free Items", "pulled fro
 addscriptuniversal("Universal infinite jump", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20infinite%20jump.lua")
 
 addscriptexist(10824616460, "Sword Slasher: Auto Upgrade", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sword%20Slasher%20Auto%20Upgrade.lua")
+
+addscript(8131063774, "Current Game","Shattered Psycho Online: Present Esp", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Shattered%20Psycho%20Online%20Present%20Esp.lua")
