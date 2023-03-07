@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 22:26:24"
+lastupdate = "GMT +1: 07.03.2023 22:26:28"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -4330,3 +4330,5 @@ addscriptexist(9938675423, "Oaklands: Ore esp", "pulled from rbxscript.com", "ht
 addscriptuniversal("Universal Collision Enabler", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Collision%20Enabler.lua")
 
 addscriptexist(9938675423, "Oaklands: Teleports, Fullbright & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Oaklands%20Teleports%20Fullbright%20%20More.lua")
+
+addscriptexist(1252559098, "Snow Shoveling Simulator: Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Snow%20Shoveling%20Simulator%20Auto%20Farm.lua")
