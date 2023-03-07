@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 22:07:40"
+lastupdate = "GMT +1: 07.03.2023 22:07:44"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -3822,3 +3822,5 @@ addscriptexist(6777872443, "Pixel Piece: Infinite Dash, No Cooldown Dash", "pull
 addscriptexist(920587237, "Adopt Me: Pet Auto Farm, Baby Auto Farm, Walkspeed", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Adopt%20Me%20Pet%20Auto%20Farm%20Baby%20Auto%20Farm%20Walkspeed.lua")
 
 addscriptexist(142823291, "Murder Mystery 2: Knife Aura, Godmode, Noclip", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Murder%20Mystery%20%20Knife%20Aura%20Godmode%20Noclip.lua")
+
+addscriptexist(9872472334, "Evade: Money Farm, Gift Farm, Auto Respawn", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Evade%20Money%20Farm%20Gift%20Farm%20Auto%20Respawn.lua")
