@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 22:26:28"
+lastupdate = "GMT +1: 07.03.2023 22:26:31"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -4332,3 +4332,5 @@ addscriptuniversal("Universal Collision Enabler", "pulled from rbxscript.com", "
 addscriptexist(9938675423, "Oaklands: Teleports, Fullbright & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Oaklands%20Teleports%20Fullbright%20%20More.lua")
 
 addscriptexist(1252559098, "Snow Shoveling Simulator: Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Snow%20Shoveling%20Simulator%20Auto%20Farm.lua")
+
+addscriptexist(286090429, "Arsenal: Infinity Ammo, No Recoil, ESP", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Arsenal%20Infinity%20Ammo%20No%20Recoil%20ESP.lua")
