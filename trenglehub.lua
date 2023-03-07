@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 15:47:41"
+lastupdate = "GMT +1: 07.03.2023 15:47:44"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -1300,3 +1300,4 @@ addscriptexist(142823291, "Murder Mystery 2: Esp, Auto Farm", "pulled from rbxsc
 addscript(9049840490, "Current Game","Sonic Speed Simulator: Auto Rebirth, Infinity Exp", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sonic%20Speed%20Simulator%20Auto%20Rebirth%20Infinity%20Exp.lua")
 
 addscript(6160139406,"Current Game", "The Underground War 3 Flag Steal", "pulled from rscripts", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/The%20Underground%20War%20%20Flag%20Steal.lua")
+addscriptuniversal("Universal Simple webhook messenger", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Simple%20webhook%20messenger.lua")
