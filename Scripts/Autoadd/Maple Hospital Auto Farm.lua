@@ -1,0 +1,1 @@
+loadstring(game.HttpGet(game,"https://raw.githubusercontent.com/78n/Amity/main/Maple.lua"))()
