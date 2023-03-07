@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 22:07:07"
+lastupdate = "GMT +1: 07.03.2023 22:07:10"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -3806,3 +3806,5 @@ addhub("Golden Hub: 3+ Games Support", "pulled from rbxscript.com", "https://raw
 addscript(5852812686, "Current Game","Candy Clicking Simulator: Auto Click, Auto Open egg, Auto Rebirths", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Candy%20Clicking%20Simulator%20Auto%20Click%20Auto%20Open%20egg%20Auto%20Rebirths.lua")
 
 addscriptexist(2248408710, "Destruction Simulator : Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Destruction%20Simulator%20%20Auto%20Farm.lua")
+
+addhub("VHub: Fly, Kill Gui, Commands", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/VHub%20Fly%20Kill%20Gui%20Commands.lua")
