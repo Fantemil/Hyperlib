@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:19:36"
+lastupdate = "GMT +1: 07.03.2023 21:19:42"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -2500,3 +2500,5 @@ addscriptexist(12400504665, "Hood Arena: ESP, Aimlock", "pulled from rbxscript.c
 addscriptexist(11040063484, "Sword Fighters Simulator: Auto Farm, Auto Quest, Auto Upgrade", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sword%20Fighters%20Simulator%20Auto%20Farm%20Auto%20Quest%20Auto%20Upgrade.lua")
 
 addscript(5709572883, "Current Game","Lift Legends Simulator: Auto Sell, Auto Tap, Auto Rebirth", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Lift%20Legends%20Simulator%20Auto%20Sell%20Auto%20Tap%20Auto%20Rebirth.lua")
+
+addscript(11846163207, "Current Game","Mage Tycoon: Spam Dropper", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mage%20Tycoon%20Spam%20Dropper.lua")
