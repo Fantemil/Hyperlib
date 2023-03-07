@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://ipig.cf/silverhub/silverhub.lua"))()
