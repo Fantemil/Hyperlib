@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 22:09:12"
+lastupdate = "GMT +1: 07.03.2023 22:09:16"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -3868,3 +3868,5 @@ addscriptexist(537413528, "Build A Boat For Treasure: Auto Farm, Auto Buy, Telep
 addscriptexist(606849621, "Jailbreak: Infinity Nitro, Anti Ragdoll & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Jailbreak%20Infinity%20Nitro%20Anti%20Ragdoll%20%20More.lua")
 
 addhub("Pig Hub: Useful Functions", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pig%20Hub%20Useful%20Functions.lua")
+
+addscriptexist(8540346411, "Rebirth Champions X: Auto Tap, Auto Buy, Auto Eggs", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Rebirth%20Champions%20X%20Auto%20Tap%20Auto%20Buy%20Auto%20Eggs.lua")
