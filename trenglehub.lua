@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:23:27"
+lastupdate = "GMT +1: 07.03.2023 21:23:32"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -2610,3 +2610,5 @@ addscriptexist(183364845, "Speed Run 4: Auto Farm, Btools, Noclip & More", "pull
 addscriptexist(11547613362, "Anime Fly Race: Auto Rebirth, Auto Give Chi, Auto Give Yen", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime%20Fly%20Race%20Auto%20Rebirth%20Auto%20Give%20Chi%20Auto%20Give%20Yen.lua")
 
 addscriptexist(3351674303, "Driving Empire: A lot of Auto Farms, Car Speed, Walkspeed", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Driving%20Empire%20A%20lot%20of%20Auto%20Farms%20Car%20Speed%20Walkspeed.lua")
+
+addhub("Nex Hub: 3+ Games", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Nex%20Hub%20%20Games.lua")
