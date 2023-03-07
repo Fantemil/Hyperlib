@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 22:21:26"
+lastupdate = "GMT +1: 07.03.2023 22:21:29"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -4218,3 +4218,5 @@ addscriptuniversal("Universal get date and time and year and day number and mont
 addscript(1252559098, "Current Game","Snow Shoveling Simulator: Set tool cooldown/speed to 0", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Snow%20Shoveling%20Simulator%20Set%20tool%20cooldownspeed%20to%20.lua")
 
 addscriptexist(8130299583, "Trident Survival: YURI X V3", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Trident%20Survival%20YURI%20X%20V.lua")
+
+addscriptexist(11251823801, "Slap battles but bad: Table Spam, Fire Spam, Bomb Spam", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Slap%20battles%20but%20bad%20Table%20Spam%20Fire%20Spam%20Bomb%20Spam.lua")
