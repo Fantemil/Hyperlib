@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:41:00"
+lastupdate = "GMT +1: 07.03.2023 21:41:04"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -3082,3 +3082,5 @@ addscriptexist(6284583030, "Pet Simulator X: Auto Hatch Eggs, Auto Farm, Walkspe
 addscript(10277607801, "Current Game","Apeirophobia: Jump Power, Walkspeed, Monster ESP", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Apeirophobia%20Jump%20Power%20Walkspeed%20Monster%20ESP.lua")
 
 addscriptexist(3527629287, "Big Paintball: Kill All, Insta Bullets, ESP", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Big%20Paintball%20Kill%20All%20Insta%20Bullets%20ESP.lua")
+
+addscriptexist(11345435986, "Chainsaw Man: Devil's Heart: Heart Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Chainsaw%20Man%20Devils%20Heart%20Heart%20Farm.lua")
