@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 22:31:37"
+lastupdate = "GMT +1: 07.03.2023 22:31:41"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -4474,3 +4474,5 @@ addscriptexist(12113006580, "NCT 127 World: Auto Collect", "pulled from rbxscrip
 addscriptexist(12017032683, "096 [SCP]: Unlock View, Fullbright, Scp and Player Esp", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/%20SCP%20Unlock%20View%20Fullbright%20Scp%20and%20Player%20Esp.lua")
 
 addscriptexist(537413528, "Build A Boat For Treasure: Auto Farm, Auto Chests, Infinity Yield", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Build%20A%20Boat%20For%20Treasure%20Auto%20Farm%20Auto%20Chests%20Infinity%20Yield.lua")
+
+addscriptexist(6872265039, "BedWars: Private Vape V4", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BedWars%20Private%20Vape%20V.lua")
