@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:26:20"
+lastupdate = "GMT +1: 07.03.2023 21:26:24"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -2662,3 +2662,5 @@ addscriptexist(12264058682, "GO TO JAIL AND MAKE FRIENDS TO ESCAPE tycoon: Auto 
 addscriptuniversal("Universal Notifications", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Notifications.lua")
 
 addscriptexist(7180042682, "Military Tycoon: Event Farm, Teleports, AutoRaid", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Military%20Tycoon%20Event%20Farm%20Teleports%20AutoRaid.lua")
+
+addscriptexist(9984770240, "Obby but you're a ball: Skip Current Level", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Obby%20but%20youre%20a%20ball%20Skip%20Current%20Level.lua")
