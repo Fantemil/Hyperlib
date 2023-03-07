@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:26:38"
+lastupdate = "GMT +1: 07.03.2023 21:26:42"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -2672,3 +2672,5 @@ addscriptexist(7120576005, "Stack Ball: Auto Finish", "pulled from rbxscript.com
 addscript(11792175607, "Current Game","Terraria Boss Battles REMASTERED: Server Crasher", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Terraria%20Boss%20Battles%20REMASTERED%20Server%20Crasher.lua")
 
 addscriptexist(12170626852, "Mini Megafactory: All Level Crystals Collect", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mini%20Megafactory%20All%20Level%20Crystals%20Collect.lua")
+
+addscript(654732683, "Current Game","Car Crushers 2: Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Car%20Crushers%20%20Auto%20Farm.lua")
