@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:37:12"
+lastupdate = "GMT +1: 07.03.2023 21:37:16"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -2972,3 +2972,5 @@ addhub("Crazy Hub: 3 Games", "pulled from rbxscript.com", "https://raw.githubuse
 addhub("Rayfield Hub Beta", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Rayfield%20Hub%20Beta.lua")
 
 addscriptexist(9872472334, "Evade: Auto Farm, ESP & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Evade%20Auto%20Farm%20ESP%20%20More.lua")
+
+addscript(8554378337, "Current Game","Weapon Fighting Simulator: Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Weapon%20Fighting%20Simulator%20Auto%20Farm.lua")
