@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 20:55:37"
+lastupdate = "GMT +1: 07.03.2023 20:55:41"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -1812,3 +1812,5 @@ addscriptexist(2788229376, "Da Hood: Aimlock, Cash Tools, Trolling", "pulled fro
 addscript(10673860069, "Current Game","Horse Racing Club: Inf Money, Auto Win Race & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Horse%20Racing%20Club%20Inf%20Money%20Auto%20Win%20Race%20%20More.lua")
 
 addscriptexist(142823291, "Murder Mystery 2: God Mode, Auto Farm, Invisible", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Murder%20Mystery%20%20God%20Mode%20Auto%20Farm%20Invisible.lua")
+
+addscriptuniversal("Universal: Chat Bypasser, ForRealium Keyless", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Chat%20Bypasser%20ForRealium%20Keyless.lua")
