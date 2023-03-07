@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:39:47"
+lastupdate = "GMT +1: 07.03.2023 21:39:50"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -3044,3 +3044,5 @@ addscriptexist(815405518, "The Floor Is LAVA: Autofarm, TP All Coins And Diamond
 addscriptexist(2753915549, "Blox Fruits: Auto Chest, Auto Farm Level, Redeem Codes", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blox%20Fruits%20Auto%20Chest%20Auto%20Farm%20Level%20Redeem%20Codes.lua")
 
 addscriptexist(8568266872, "Kill Monsters to Save Princess: Teleport to the back of a monster", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Kill%20Monsters%20to%20Save%20Princess%20Teleport%20to%20the%20back%20of%20a%20monster.lua")
+
+addscriptexist(4566572536, "Vehicle Legends: Auto Farm, Car Mod & More!", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Vehicle%20Legends%20Auto%20Farm%20Car%20Mod%20%20More.lua")
