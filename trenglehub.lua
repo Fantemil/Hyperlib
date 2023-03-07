@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 15:40:11"
+lastupdate = "GMT +1: 07.03.2023 15:40:14"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -1018,3 +1018,5 @@ addscriptexist(3272915504, "Arcane Odyssey: Chest Esp", "pulled from rbxscript.c
 addscript(7952502098, "Current Game","Impossible Glass Bridge Obby: Teleports, Auto Farm, Walkspeed", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Impossible%20Glass%20Bridge%20Obby%20Teleports%20Auto%20Farm%20Walkspeed.lua")
 
 addscriptexist(3272915504, "Arcane Odyssey: Island Tp", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Arcane%20Odyssey%20Island%20Tp.lua")
+
+addscriptexist(2753915549, "VOID HUB | NEW GUI!!", "pulled from rscripts", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/VOID%20HUB%20%20NEW%20GUI.lua")
