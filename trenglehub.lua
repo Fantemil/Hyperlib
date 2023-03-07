@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 22:19:44"
+lastupdate = "GMT +1: 07.03.2023 22:19:47"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -4166,3 +4166,5 @@ addscript(488667523, "Current Game","Those Who Remain: Silent Aim, Wallbang", "p
 addscript(11998813375, "Current Game","Calistreets: Box Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Calistreets%20Box%20Auto%20Farm.lua")
 
 addscriptuniversal("Universal FE invisible plane", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20FE%20invisible%20plane.lua")
+
+addscriptexist(11581747218, "Scp Warfare Tycoon: Auto Collect", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Scp%20Warfare%20Tycoon%20Auto%20Collect.lua")
