@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:25:22"
+lastupdate = "GMT +1: 07.03.2023 21:25:26"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -2636,3 +2636,5 @@ addscriptexist(142823291, "Murder Mystery 2: ESP, Jumppower, Infinity Jump", "pu
 addscript(7137212917, "Current Game","Fly Race: Auto Rebirths, Inf Chest Open, Full Bright", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Fly%20Race%20Auto%20Rebirths%20Inf%20Chest%20Open%20Full%20Bright.lua")
 
 addscriptexist(537413528, "Build A Boat For Treasure: Auto Farm, Event Quests & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Build%20A%20Boat%20For%20Treasure%20Auto%20Farm%20Event%20Quests%20%20More.lua")
+
+addscriptexist(2753915549, "Blox Fruits: Auto Farm Chests", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blox%20Fruits%20Auto%20Farm%20Chests.lua")
