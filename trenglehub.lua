@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:57:28"
+lastupdate = "GMT +1: 07.03.2023 21:57:32"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -3528,3 +3528,5 @@ addscriptexist(11701792069, "Snow Plow Simulator: Collect All Gems, Add Rebirths
 addscriptexist(11302865934, "Every Second You Get +1 Health: Auto Wins, Auto Rebirth & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Every%20Second%20You%20Get%20%20Health%20Auto%20Wins%20Auto%20Rebirth%20%20More.lua")
 
 addscriptexist(11063612131, "Every Second You Get +1 Jump Power: Auto Egg Opening, Auto Rebirth & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Every%20Second%20You%20Get%20%20Jump%20Power%20Auto%20Egg%20Opening%20Auto%20Rebirth%20%20More.lua")
+
+addhub("J Hub: 2 Games", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/J%20Hub%20%20Games.lua")
