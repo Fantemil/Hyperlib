@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 22:14:30"
+lastupdate = "GMT +1: 07.03.2023 22:14:35"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -4020,3 +4020,5 @@ addscript(5939428933, "Current Game","Crewmates!: Invisible, Ghost", "pulled fro
 addscriptexist(2788229376, "Da Hood: Auto Box", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Da%20Hood%20Auto%20Box.lua")
 
 addscript(11581747218, "Current Game","Scp Warfare Tycoon: Auto Buy", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Scp%20Warfare%20Tycoon%20Auto%20Buy.lua")
+
+addscriptexist(5602055394, "Hood Modded: ESP, Silent Aim, Speedhack", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Hood%20Modded%20ESP%20Silent%20Aim%20Speedhack.lua")
