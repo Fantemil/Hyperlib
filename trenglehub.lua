@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:45:51"
+lastupdate = "GMT +1: 07.03.2023 21:45:56"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -3226,3 +3226,5 @@ addscriptexist(621129760, "Knife Ability Test: Silent Aim, FOV, ESP", "pulled fr
 addscript(11676335670, "Current Game","Hunter X Athena: Auto Train Nen", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Hunter%20X%20Athena%20Auto%20Train%20Nen.lua")
 
 addscriptexist(606849621, "Jailbreak: Gun Mode, Give Items", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Jailbreak%20Gun%20Mode%20Give%20Items.lua")
+
+addscriptexist(970962039, "Limited Time: Auto Collect Coins, Teleporter & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Limited%20Time%20Auto%20Collect%20Coins%20Teleporter%20%20More.lua")
