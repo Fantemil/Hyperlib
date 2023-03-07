@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:18:46"
+lastupdate = "GMT +1: 07.03.2023 21:18:50"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -2476,3 +2476,5 @@ addhub("Void Hub: 1 Game", "pulled from rbxscript.com", "https://raw.githubuserc
 addscriptexist(286090429, "Arsenal: Aim Bot, Super Speed & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Arsenal%20Aim%20Bot%20Super%20Speed%20%20More.lua")
 
 addscriptexist(9498006165, "Tapping Simulator: Auto Hatch, Auto Rebirth, Auto Click", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tapping%20Simulator%20Auto%20Hatch%20Auto%20Rebirth%20Auto%20Click.lua")
+
+addscriptuniversal("Universal Icy Notifications for Developers", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Icy%20Notifications%20for%20Developers.lua")
