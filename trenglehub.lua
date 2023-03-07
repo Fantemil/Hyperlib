@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 22:32:59"
+lastupdate = "GMT +1: 07.03.2023 22:33:03"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -4516,3 +4516,5 @@ addscript(3145447020, "Current Game","Mt. Everest Climbing Roleplay: Godmode, In
 addscript(4588604953, "Current Game","Criminality: Kill Aura, Silent Aim, Finish Aura", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Criminality%20Kill%20Aura%20Silent%20Aim%20Finish%20Aura.lua")
 
 addscriptexist(9796685905, "Super Hero Race Clicker: Best Auto Farm, Auto Tap, Auto Rebirth", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Super%20Hero%20Race%20Clicker%20Best%20Auto%20Farm%20Auto%20Tap%20Auto%20Rebirth.lua")
+
+addscriptexist(6284583030, "Pet Simulator X: Auto Farm, Auto Egg, Anti Lag", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pet%20Simulator%20X%20Auto%20Farm%20Auto%20Egg%20Anti%20Lag.lua")
