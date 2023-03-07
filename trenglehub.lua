@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:40:17"
+lastupdate = "GMT +1: 07.03.2023 21:40:21"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -3060,3 +3060,5 @@ addscriptexist(537413528, "Build A Boat For Treasure: Auto Farm, God Mode, Telep
 addscriptexist(155615604, "Prison Life: Undiscovered server-breaking vulnerability", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Prison%20Life%20Undiscovered%20serverbreaking%20vulnerability.lua")
 
 addscriptexist(2753915549, "Blox Fruits: Aimbot, Wallcheck, Esp & More!", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blox%20Fruits%20Aimbot%20Wallcheck%20Esp%20%20More.lua")
+
+addscriptexist(314927855, "Pillow Fight Simulator: Mesh Plastik, Hitbox Expander, Teleports", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pillow%20Fight%20Simulator%20Mesh%20Plastik%20Hitbox%20Expander%20Teleports.lua")
