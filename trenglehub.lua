@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:49:15"
+lastupdate = "GMT +1: 07.03.2023 21:49:18"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -3324,3 +3324,5 @@ addscriptexist(2788229376, "Da Hood: Fake Aim Viewer", "pulled from rbxscript.co
 addscript(10700669209, "Current Game","Control Army: Autosell, Auto Farm, Destroy Aura", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Control%20Army%20Autosell%20Auto%20Farm%20Destroy%20Aura.lua")
 
 addscriptuniversal("Universal Aimbot, Fps Booster & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Aimbot%20Fps%20Booster%20%20More.lua")
+
+addscriptexist(2971329387, "Cook Burgers: Auto drink existing potions", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Cook%20Burgers%20Auto%20drink%20existing%20potions.lua")
