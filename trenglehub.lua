@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 22:33:49"
+lastupdate = "GMT +1: 07.03.2023 22:33:55"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -4540,3 +4540,5 @@ addscriptexist(292439477, "Phantom Forces: Hitbox Expander Gui", "pulled from rb
 addscriptexist(11939339894, "be a dad and get milk simulator: Get All Badges, Collect All Money", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/be%20a%20dad%20and%20get%20milk%20simulator%20Get%20All%20Badges%20Collect%20All%20Money.lua")
 
 addscriptexist(10704789056, "Drive World: Afk Cash Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Drive%20World%20Afk%20Cash%20Auto%20Farm.lua")
+
+addscript(10742364019, "Current Game","EGOIST Football: Auto Goal", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/EGOIST%20Football%20Auto%20Goal.lua")
