@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 22:25:20"
+lastupdate = "GMT +1: 07.03.2023 22:25:25"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -4300,3 +4300,5 @@ addscriptexist(11599913094, "Nuke Simulator: Auto Activate Boosts, Auto Shiny Nu
 addscriptexist(606849621, "Jailbreak: Hotbar Auto Sorter", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Jailbreak%20Hotbar%20Auto%20Sorter.lua")
 
 addscript(7208474339, "Current Game","SpeedLands V2 [DEMO]: Infinite Boosters Range, Instant Acceleration, No Car Damage", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SpeedLands%20V%20DEMO%20Infinite%20Boosters%20Range%20Instant%20Acceleration%20No%20Car%20Damage.lua")
+
+addscriptexist(6125589657, "Touch Football: Football Aimlock & Auto Goal Keybinds", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Touch%20Football%20Football%20Aimlock%20%20Auto%20Goal%20Keybinds.lua")
