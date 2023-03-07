@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:13:37"
+lastupdate = "GMT +1: 07.03.2023 21:13:41"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -2336,3 +2336,5 @@ addscriptexist(155615604, "Prison Life: Silent Aim, FOV, Teleports", "pulled fro
 addscriptexist(21532277, "Notoriety: Infinity Jump, Gun Mods, Loot Aura", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Notoriety%20Infinity%20Jump%20Gun%20Mods%20Loot%20Aura.lua")
 
 addscriptexist(155615604, "Prison Life: Name Color GUI", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Prison%20Life%20Name%20Color%20GUI.lua")
+
+addscriptexist(6735572261, "Pilgrammed: Ore Esp", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pilgrammed%20Ore%20Esp.lua")
