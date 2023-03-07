@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:15:02"
+lastupdate = "GMT +1: 07.03.2023 21:15:06"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -2378,3 +2378,5 @@ addscriptexist(6403373529, "Slap Battles: Kill Aura, God Mode, Kill All", "pulle
 addscript(5023820864, "Current Game","Trade Tower: Auto Click, Auto Afk, Auto Jack Pot & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Trade%20Tower%20Auto%20Click%20Auto%20Afk%20Auto%20Jack%20Pot%20%20More.lua")
 
 addscriptexist(2788229376, "Da Hood: God mode, Aimlocks, Resolvers", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Da%20Hood%20God%20mode%20Aimlocks%20Resolvers.lua")
+
+addscriptexist(891852901, "Greenville: Auto Farm, Walkspeed, Infinite Jump & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Greenville%20Auto%20Farm%20Walkspeed%20Infinite%20Jump%20%20More.lua")
