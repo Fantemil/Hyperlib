@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:50:18"
+lastupdate = "GMT +1: 07.03.2023 21:50:22"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -3350,3 +3350,5 @@ addscriptexist(2788229376, "Da Hood: Aimlock, ESP & More", "pulled from rbxscrip
 addscript(6153766069, "Current Game","Escape The Carnival of Terror Obby: Auto Complete", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Escape%20The%20Carnival%20of%20Terror%20Obby%20Auto%20Complete.lua")
 
 addscriptexist(11156779721, "The Survival Game: Kill Aura, Silent Aim, Auto Leave", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/The%20Survival%20Game%20Kill%20Aura%20Silent%20Aim%20Auto%20Leave.lua")
+
+addscriptexist(10875701453, "Edward the Man-Eating Train: Reset, No E wait, Gun Mods", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Edward%20the%20ManEating%20Train%20Reset%20No%20E%20wait%20Gun%20Mods.lua")
