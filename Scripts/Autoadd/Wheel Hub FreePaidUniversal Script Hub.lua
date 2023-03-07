@@ -1,2 +1,3 @@
---BROUGHT TO YOU BY RSCRIPTS.NET--
-loadstring(game:HttpGet("https://raw.githubusercontent.com/AaronS69420/WheelHub/main/MainFile", true))()
+Main:  loadstring(game:HttpGet('https://scripts.luawl.com/15911/Wheelhub.lua'))()
+
+Universal: loadstring(game:HttpGet('https://pastebin.com/raw/FSLFyYFz'))()
