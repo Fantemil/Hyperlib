@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:59:29"
+lastupdate = "GMT +1: 07.03.2023 21:59:32"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -3588,3 +3588,5 @@ addhub("Cheaters Hub: 9 Games", "pulled from rbxscript.com", "https://raw.github
 addscript(9598746251, "Current Game","Home Run Simulator: Auto Farm, Auto Rebirth, Auto Crates", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Home%20Run%20Simulator%20Auto%20Farm%20Auto%20Rebirth%20Auto%20Crates.lua")
 
 addscriptexist(11162791099, "Free Hatchers: Auto Buy Eggs, Teleports, Inf Money", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Free%20Hatchers%20Auto%20Buy%20Eggs%20Teleports%20Inf%20Money.lua")
+
+addscriptexist(4508456371, "Shortest Answer Wins: Auto Type, Infinity Jumps, ESP", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Shortest%20Answer%20Wins%20Auto%20Type%20Infinity%20Jumps%20ESP.lua")
