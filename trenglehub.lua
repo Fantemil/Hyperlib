@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 12:33:48"
+lastupdate = "GMT +1: 07.03.2023 12:33:51"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -1061,3 +1061,5 @@ addscript(6678877691, "Current Game","ZO: Kill Aura", "pulled from rbxscript.com
 addscript(7991339063, "Current Game","Rainbow Friends: Walkspeed, Enable Jump, Get Items", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Rainbow%20Friends%20Walkspeed%20Enable%20Jump%20Get%20Items.lua")
 
 addscript(6902912928, "Current Game","GET TO THE TOP: Inf Money", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/GET%20TO%20THE%20TOP%20Inf%20Money.lua")
+
+addscriptexist(11636413564, "Meme Mergers: Auto Merge, Auto Click Best Block, Auto Rebirth", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Meme%20Mergers%20Auto%20Merge%20Auto%20Click%20Best%20Block%20Auto%20Rebirth.lua")
