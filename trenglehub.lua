@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 22:21:45"
+lastupdate = "GMT +1: 07.03.2023 22:21:49"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -4228,3 +4228,5 @@ addscriptuniversal("Universal Fullbright", "pulled from rbxscript.com", "https:/
 addscript(11087359821, "Current Game","Rob A Jewellery Store: Speed Coil, Gravity Coil", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Rob%20A%20Jewellery%20Store%20Speed%20Coil%20Gravity%20Coil.lua")
 
 addscriptuniversal("Universal Auto Insulter", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Auto%20Insulter.lua")
+
+addscriptuniversal("Aero Hub: 30+ Games", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Aero%20Hub%20%20Games.lua")
