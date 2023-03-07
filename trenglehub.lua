@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:42:53"
+lastupdate = "GMT +1: 07.03.2023 21:42:58"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -3138,3 +3138,5 @@ addscriptexist(9942628622, "Son Goku: The Finale: Unlock SSG, Unlock SSB, Ultra 
 addscriptuniversal("Universal Aimbot, FOV, Wallcheck", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Aimbot%20FOV%20Wallcheck.lua")
 
 addscriptexist(301549746, "Counter Blox: No Fire Damage, Auto Hop & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Counter%20Blox%20No%20Fire%20Damage%20Auto%20Hop%20%20More.lua")
+
+addscript(10660791703, "Current Game","cart ride around nothing: Nuker Server", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/cart%20ride%20around%20nothing%20Nuker%20Server.lua")
