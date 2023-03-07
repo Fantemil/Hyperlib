@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 22:10:22"
+lastupdate = "GMT +1: 07.03.2023 22:10:26"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -3904,3 +3904,5 @@ addscriptexist(11542692507, "Anime Souls Simulator: Auto Attack, Auto Mobs & Mor
 addscriptexist(2788229376, "Da Hood: Tracers, Silent Aim", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Da%20Hood%20Tracers%20Silent%20Aim.lua")
 
 addscriptexist(3101667897, "Legends Of Speed: Auto Farm Steps, Auto Farm Hoops, Auto Farm Gems", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Legends%20Of%20Speed%20Auto%20Farm%20Steps%20Auto%20Farm%20Hoops%20Auto%20Farm%20Gems.lua")
+
+addscript(9103898828, "Current Game","Rogue Demon: No Cooldown, Killaura, Godmode", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Rogue%20Demon%20No%20Cooldown%20Killaura%20Godmode.lua")
