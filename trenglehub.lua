@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:45:09"
+lastupdate = "GMT +1: 07.03.2023 21:45:12"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -3204,3 +3204,5 @@ addscriptexist(314927855, "Pillow Fight Simulator: Hitbox Expander, Sword Expand
 addscriptexist(8438158667, "Slide House Tumble: Auto Farm, Get Speed Coil, Disable Ragdoll", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Slide%20House%20Tumble%20Auto%20Farm%20Get%20Speed%20Coil%20Disable%20Ragdoll.lua")
 
 addscriptexist(3101667897, "Legends Of Speed: Auto Get Steps, Auto Get Gems, Auto Rebirth", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Legends%20Of%20Speed%20Auto%20Get%20Steps%20Auto%20Get%20Gems%20Auto%20Rebirth.lua")
+
+addhub("Sycthe Hub: 5+ Games", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sycthe%20Hub%20%20Games.lua")
