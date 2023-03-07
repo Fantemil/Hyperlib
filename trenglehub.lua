@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 22:13:39"
+lastupdate = "GMT +1: 07.03.2023 22:13:44"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -3996,3 +3996,5 @@ addscript(11639667117, "Current Game","Eat Same Color Food Challenge: Auto Colle
 addscriptexist(5780309044, "Stands Awakening: Inf Rokakaka, Walkspeed & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Stands%20Awakening%20Inf%20Rokakaka%20Walkspeed%20%20More.lua")
 
 addhub("Tuber's Hubb: 5 Games", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tubers%20Hubb%20%20Games.lua")
+
+addscriptexist(990364410, "Survive the Night: Fly, Noclip, ESP", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Survive%20the%20Night%20Fly%20Noclip%20ESP.lua")
