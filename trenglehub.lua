@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 22:25:56"
+lastupdate = "GMT +1: 07.03.2023 22:26:00"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -4316,3 +4316,5 @@ addscriptexist(11874473440, "Car Factory Tycoon: Auto Sell, Auto Fill Materials,
 addscriptexist(11251823801, "Slap battles but bad: Key Binds", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Slap%20battles%20but%20bad%20Key%20Binds.lua")
 
 addscriptexist(4282985734, "Combat Warriors: Auto Parry, Infinity Stamina, Infinity Jumps", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Combat%20Warriors%20Auto%20Parry%20Infinity%20Stamina%20Infinity%20Jumps.lua")
+
+addscriptexist(292439477, "Phantom Forces: Walkspeed, Jump power, Silent Aim", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Phantom%20Forces%20Walkspeed%20Jump%20power%20Silent%20Aim.lua")
