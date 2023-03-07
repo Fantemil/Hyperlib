@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:33:39"
+lastupdate = "GMT +1: 07.03.2023 21:33:43"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -2868,3 +2868,5 @@ addscriptexist(155615604, "Prison Life: Teleports, Auto Get All & More", "pulled
 addscriptexist(2788229376, "Da Hood: Noclip, FOV, Walkspeed", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Da%20Hood%20Noclip%20FOV%20Walkspeed.lua")
 
 addscriptexist(3956818381, "Ninja Legends: AutoFarm, Auto Sell & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ninja%20Legends%20AutoFarm%20Auto%20Sell%20%20More.lua")
+
+addscript(11877743732, "Current Game","Zombie Battle Tycoon: Hitbox, Auto Build, Claim Gifts", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Zombie%20Battle%20Tycoon%20Hitbox%20Auto%20Build%20Claim%20Gifts.lua")
