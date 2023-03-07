@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 12:40:10"
+lastupdate = "GMT +1: 07.03.2023 12:40:14"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -1243,3 +1243,5 @@ addscriptexist(8568266872, "Kill Monsters To Save Princess: Auto Farm", "pulled 
 addscriptexist(11040063484, "Sword Fighters Simulator: Kill Aura, Auto Collect Orbs, Auto Claim Chests & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sword%20Fighters%20Simulator%20Kill%20Aura%20Auto%20Collect%20Orbs%20Auto%20Claim%20Chests%20%20More.lua")
 
 addscriptexist(1537690962, "Bee Swarm Simulator: Auto Jelly Spinner", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Bee%20Swarm%20Simulator%20Auto%20Jelly%20Spinner.lua")
+
+addscriptexist(3101667897, "Legends Of Speed: Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Legends%20Of%20Speed%20Auto%20Farm.lua")
