@@ -66,6 +66,7 @@ end
 function addscript(Place,Gamename,title,author,scriptlink, website)
     _G.gamecount = _G.gamecount + 1
     _G.scriptcount = _G.scriptcount + 1
+    name = title
     if game.PlaceId == Place then
         Window = _G.Window
         _G.main = Window:NewTab(Gamename)
@@ -75,11 +76,13 @@ function addscript(Place,Gamename,title,author,scriptlink, website)
             function toexecute()
                 loadstring(game:HttpGet(scriptlink))()
             end
+            bigBlueItalicText("Attempting to execute your script '" .. name .."' ...")
+
             local success, result = pcall(toexecute)
             if success then
-                bigGreenItalicText(getLocalPlayerName().. ", your Script executed successfully!")
+                bigGreenItalicText(getLocalPlayerName().. ", your Script '" .. name .."' executed successfully!")
             else
-                bigRedText(getLocalPlayerName().. ", your Script failed to execute!")
+                bigRedText(getLocalPlayerName().. ", your Script '" .. name .."' failed to execute!")
             end
         end)
     end
@@ -87,16 +90,20 @@ end
 
 function addscriptexist(Place,title,author,scriptlink)
     _G.scriptcount = _G.scriptcount + 1
+    name = title
+
     if game.PlaceId == Place then
         _G.script:NewButton(title, author, function()
             function toexecute()
                 loadstring(game:HttpGet(scriptlink))()
             end
+            bigBlueItalicText("Attempting to execute your script '" .. name .."' ...")
+
             local success, result = pcall(toexecute)
             if success then
-                bigGreenItalicText(getLocalPlayerName().. ", your Script executed successfully!")
+                bigGreenItalicText(getLocalPlayerName().. ", your Script '" .. name .."' executed successfully!")
             else
-                bigRedText(getLocalPlayerName().. ", your Script failed to execute!")
+                bigRedText(getLocalPlayerName().. ", your Script '" .. name .."' failed to execute!")
             end
         end)
     end
@@ -104,29 +111,36 @@ function addscriptexist(Place,title,author,scriptlink)
 end
 function addscriptuniversal(title,author,scriptlink)
     _G.scriptcount = _G.scriptcount + 1
+    name = title
+
     _G.generalscriptssection:NewButton(title, author, function()
             function toexecute()
                 loadstring(game:HttpGet(scriptlink))()
             end
+            bigBlueItalicText("Attempting to execute your script '" .. name .."' ...")
+
             local success, result = pcall(toexecute)
             if success then
-                bigGreenItalicText(getLocalPlayerName().. ", your Script executed successfully!")
+                bigGreenItalicText(getLocalPlayerName().. ", your Script '" .. name .."' executed successfully!")
             else
-                bigRedText(getLocalPlayerName().. ", your Script failed to execute!")
+                bigRedText(getLocalPlayerName().. ", your Script '" .. name .."' failed to execute!")
             end
         end)
 end
 function addhub(title,author,scriptlink)
     _G.scriptcount = _G.scriptcount + 1
+    name = title
+
     _G.gamehubsection:NewButton(title, author, function()
             function toexecute()
                 loadstring(game:HttpGet(scriptlink))()
             end
+            bigBlueItalicText("Attempting to execute your script '" .. name .."' ...")
             local success, result = pcall(toexecute)
             if success then
-                bigGreenItalicText(getLocalPlayerName().. ", your Script executed successfully!")
+                bigGreenItalicText(getLocalPlayerName().. ", your Script '" .. name .."' executed successfully!")
             else
-                bigRedText(getLocalPlayerName().. ", your Script failed to execute!")
+                bigRedText(getLocalPlayerName().. ", your Script '" .. name .."' failed to execute!")
             end
         end)
 end
