@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 15:42:41"
+lastupdate = "GMT +1: 07.03.2023 15:42:43"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -1110,3 +1110,5 @@ addscriptexist(286090429, "AdvanceTech | Arsenal | V3", "pulled from rscripts", 
 addscript(4505214429, "Current Game","Soul Eater: Resonance: Free Things", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Soul%20Eater%20Resonance%20Free%20Things.lua")
 
 addscriptexist(286090429, "Arsenal: FOV, Silent Aim, Killaura", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Arsenal%20FOV%20Silent%20Aim%20Killaura.lua")
+
+addscriptexist(9872472334, "DevHub [Evade Added] +5 Games", "pulled from rscripts", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DevHub%20Evade%20Added%20%20Games.lua")
