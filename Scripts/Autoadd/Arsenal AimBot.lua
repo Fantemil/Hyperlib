@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://cdn.wearedevs.net/scripts/WRD Aimbot.txt"))()
+loadstring(game:HttpGet("https://pastebin.com/raw/CwQcEnEd"))()
