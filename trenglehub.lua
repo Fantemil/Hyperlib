@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:51:41"
+lastupdate = "GMT +1: 07.03.2023 21:51:44"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -3390,3 +3390,5 @@ addscriptexist(192800, "Work at a Pizza Place: Auto Farm", "pulled from rbxscrip
 addscript(3281073759, "Current Game","Guess the drawing: Server Crasher", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Guess%20the%20drawing%20Server%20Crasher.lua")
 
 addscriptexist(2971329387, "Cook Burgers: Teleport Anything To You", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Cook%20Burgers%20Teleport%20Anything%20To%20You.lua")
+
+addscriptexist(286090429, "Arsenal: Ping Spoofer", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Arsenal%20Ping%20Spoofer.lua")
