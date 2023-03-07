@@ -77,9 +77,9 @@ function addscript(Place,Gamename,title,author,scriptlink, website)
             end
             local success, result = pcall(toexecute)
             if success then
-                bigGreenItalicText(getLocalPlayerName().. ", your Script executed successfully")
+                bigGreenItalicText(getLocalPlayerName().. ", your Script executed successfully!")
             else
-                bigRedText(getLocalPlayerName().. ", your Script failed to execute")
+                bigRedText(getLocalPlayerName().. ", your Script failed to execute!")
             end
         end)
     end
@@ -94,9 +94,9 @@ function addscriptexist(Place,title,author,scriptlink)
             end
             local success, result = pcall(toexecute)
             if success then
-                bigGreenItalicText(getLocalPlayerName().. ", your Script executed successfully")
+                bigGreenItalicText(getLocalPlayerName().. ", your Script executed successfully!")
             else
-                bigRedText(getLocalPlayerName().. ", your Script failed to execute")
+                bigRedText(getLocalPlayerName().. ", your Script failed to execute!")
             end
         end)
     end
@@ -110,9 +110,9 @@ function addscriptuniversal(title,author,scriptlink)
             end
             local success, result = pcall(toexecute)
             if success then
-                bigGreenItalicText(getLocalPlayerName().. ", your Script executed successfully")
+                bigGreenItalicText(getLocalPlayerName().. ", your Script executed successfully!")
             else
-                bigRedText(getLocalPlayerName().. ", your Script failed to execute")
+                bigRedText(getLocalPlayerName().. ", your Script failed to execute!")
             end
         end)
 end
@@ -124,9 +124,9 @@ function addhub(title,author,scriptlink)
             end
             local success, result = pcall(toexecute)
             if success then
-                bigGreenItalicText(getLocalPlayerName().. ", your Script executed successfully")
+                bigGreenItalicText(getLocalPlayerName().. ", your Script executed successfully!")
             else
-                bigRedText(getLocalPlayerName().. ", your Script failed to execute")
+                bigRedText(getLocalPlayerName().. ", your Script failed to execute!")
             end
         end)
 end
