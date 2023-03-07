@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 20:59:53"
+lastupdate = "GMT +1: 07.03.2023 20:59:57"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -1936,3 +1936,5 @@ addscriptexist(6741970382, "Zombie lab: Anti Cheat Bypass, Cure Giver, Virus Giv
 addscript(2929719084, "Current Game","F3X Islands: tntmasters SS", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FX%20Islands%20tntmasters%20SS.lua")
 
 addscriptexist(6679968919, "Fly Race: Walkspeed, Jump Power, Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Fly%20Race%20Walkspeed%20Jump%20Power%20Auto%20Farm.lua")
+
+addscriptexist(920587237, "Adopt Me: Auto Buy, Auto Trade, Jumppower", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Adopt%20Me%20Auto%20Buy%20Auto%20Trade%20Jumppower.lua")
