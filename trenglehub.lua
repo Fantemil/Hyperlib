@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 22:18:49"
+lastupdate = "GMT +1: 07.03.2023 22:18:53"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -4138,3 +4138,5 @@ addscriptexist(11767933308, "Smash & Grab: Auto Attack, Auto Power, Auto Join Di
 addscriptexist(11302865934, "Every Second You Get +1 Health: Auto Win", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Every%20Second%20You%20Get%20%20Health%20Auto%20Win.lua")
 
 addscriptexist(1224212277, "Mad City: Chapter 2: Auto Rob, Auto Arrest, Teleports", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mad%20City%20Chapter%20%20Auto%20Rob%20Auto%20Arrest%20Teleports.lua")
+
+addscript(9772878203, "Current Game","raise a floppa 2: Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/raise%20a%20floppa%20%20Auto%20Farm.lua")
