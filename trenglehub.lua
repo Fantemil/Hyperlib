@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:23:15"
+lastupdate = "GMT +1: 07.03.2023 21:23:19"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -2604,3 +2604,5 @@ addscriptexist(621129760, "KAT: Auto Sprint, Fullbright, Aimbot & More", "pulled
 addscript(5074523379, "Current Game","The Asylum: Auto Finish Chapter, Disable FirstPerson & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/The%20Asylum%20Auto%20Finish%20Chapter%20Disable%20FirstPerson%20%20More.lua")
 
 addscriptexist(2377868063, "Strucid: ESP, Silent Aim, Aimbot", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Strucid%20ESP%20Silent%20Aim%20Aimbot.lua")
+
+addscriptexist(183364845, "Speed Run 4: Auto Farm, Btools, Noclip & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Speed%20Run%20%20Auto%20Farm%20Btools%20Noclip%20%20More.lua")
