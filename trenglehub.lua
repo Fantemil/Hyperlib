@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:34:40"
+lastupdate = "GMT +1: 07.03.2023 21:34:43"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -2898,3 +2898,5 @@ addscript(10228777202, "Current Game","The Spinner: Auto Vote", "pulled from rbx
 addscriptuniversal("Universal FE Headless", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20FE%20Headless.lua")
 
 addscriptuniversal("Universal FE Kinetic Gun", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20FE%20Kinetic%20Gun.lua")
+
+addscriptuniversal("Universal FE Chat Troller", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20FE%20Chat%20Troller.lua")
