@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:05:09"
+lastupdate = "GMT +1: 07.03.2023 21:05:14"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -2086,3 +2086,5 @@ addscriptexist(11542692507, "Anime Souls Simulator: Auto-Farm, Auto Hatch & More
 addscriptexist(4616652839, "Shindo Life: Auto Spin, Infinity Bloodlines & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Shindo%20Life%20Auto%20Spin%20Infinity%20Bloodlines%20%20More.lua")
 
 addscriptexist(11345435986, "Chainsaw Man: Server Hop, Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Chainsaw%20Man%20Server%20Hop%20Auto%20Farm.lua")
+
+addscriptexist(606849621, "Jailbreak: Auto Rob", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Jailbreak%20Auto%20Rob.lua")
