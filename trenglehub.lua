@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:38:40"
+lastupdate = "GMT +1: 07.03.2023 21:38:44"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -3012,3 +3012,5 @@ addscriptuniversal("Universal Fly", "pulled from rbxscript.com", "https://raw.gi
 addscriptuniversal("Universal Roblox Unfocused Window Optimization", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Roblox%20Unfocused%20Window%20Optimization.lua")
 
 addscriptexist(10228777202, "The Spinner: Auto Vote, God Mode, Show Gosts", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/The%20Spinner%20Auto%20Vote%20God%20Mode%20Show%20Gosts.lua")
+
+addscript(11599913094, "Current Game","Nuke Simulator: Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Nuke%20Simulator%20Auto%20Farm.lua")
