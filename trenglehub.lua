@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:48:50"
+lastupdate = "GMT +1: 07.03.2023 21:48:55"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -3312,3 +3312,5 @@ addscriptexist(8204899140, "Football Fusion 2: Auto TP, Silent Aim, Auto Jump", 
 addscriptexist(2753915549, "Blox Fruits: Auto Farm Level, Auto Factory & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blox%20Fruits%20Auto%20Farm%20Level%20Auto%20Factory%20%20More.lua")
 
 addscriptexist(292439477, "Phantom Forces: Material, Lines, Frag Indicator", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Phantom%20Forces%20Material%20Lines%20Frag%20Indicator.lua")
+
+addscript(9281034297, "Current Game","Goal Kick Simulator: Auto Chests, Auto Kick, Auto Rebirth", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Goal%20Kick%20Simulator%20Auto%20Chests%20Auto%20Kick%20Auto%20Rebirth.lua")
