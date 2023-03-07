@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 22:33:12"
+lastupdate = "GMT +1: 07.03.2023 22:33:16"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -4522,3 +4522,5 @@ addscriptexist(6284583030, "Pet Simulator X: Auto Farm, Auto Egg, Anti Lag", "pu
 addscript(11722450615, "Current Game","steal roblox games to pay grandpa's bail tycoon: Auto Create Game, Anti Afk, Auto Build", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/steal%20roblox%20games%20to%20pay%20grandpas%20bail%20tycoon%20Auto%20Create%20Game%20Anti%20Afk%20Auto%20Build.lua")
 
 addscriptexist(990566015, "Cursed Islands: Auto Delete Disasters, Auto Collect Coins, Auto Win", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Cursed%20Islands%20Auto%20Delete%20Disasters%20Auto%20Collect%20Coins%20Auto%20Win.lua")
+
+addscriptexist(1215581239, "Doomspire Brickbattle: Auto Kill All, Farm Kills", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Doomspire%20Brickbattle%20Auto%20Kill%20All%20Farm%20Kills.lua")
