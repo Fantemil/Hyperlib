@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 22:03:16"
+lastupdate = "GMT +1: 07.03.2023 22:03:20"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -3694,3 +3694,5 @@ addscriptexist(10704789056, "Drive World: Fast Auto Farm", "pulled from rbxscrip
 addscriptexist(6299805723, "Anime Fighters Simulator: Dupe Script", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime%20Fighters%20Simulator%20Dupe%20Script.lua")
 
 addscriptexist(11746859781, "Bubble Gum Clicker: Auto Bubble, Auto Sell, Auto Hatch", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Bubble%20Gum%20Clicker%20Auto%20Bubble%20Auto%20Sell%20Auto%20Hatch.lua")
+
+addscriptexist(10446125875, "Anime Fruit Simulator: Auto Skills, Auto Farm, Auto Attack", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime%20Fruit%20Simulator%20Auto%20Skills%20Auto%20Farm%20Auto%20Attack.lua")
