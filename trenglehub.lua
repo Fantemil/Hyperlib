@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 22:24:19"
+lastupdate = "GMT +1: 07.03.2023 22:24:23"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -4274,3 +4274,5 @@ addscriptexist(11542692507, "Anime Souls Simulator: Autofarm main quest, Auto re
 addscriptexist(11430505281, "Anime Weapon Simulator: Auto Farm, Auto Collect Drops, Auto Equip Best Weapon", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime%20Weapon%20Simulator%20Auto%20Farm%20Auto%20Collect%20Drops%20Auto%20Equip%20Best%20Weapon.lua")
 
 addscriptexist(8054462345, "Michael's Zombies: Walkspeed, Noclip, Bullet Speed", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Michaels%20Zombies%20Walkspeed%20Noclip%20Bullet%20Speed.lua")
+
+addscriptexist(11547613362, "Anime Fly Race: Anti Afk, Auto Chi, Auto Yen", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime%20Fly%20Race%20Anti%20Afk%20Auto%20Chi%20Auto%20Yen.lua")
