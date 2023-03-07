@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 22:34:15"
+lastupdate = "GMT +1: 07.03.2023 22:34:18"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -4550,3 +4550,5 @@ addscript(4829985161, "Current Game","Lookout Battle: Auto Collect Bones, Server
 addscriptexist(6284583030, "Pet Simulator X!: Auto Farm, Auto Collect, Auto Hatch", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pet%20Simulator%20X%20Auto%20Farm%20Auto%20Collect%20Auto%20Hatch.lua")
 
 addscriptexist(2768379856, "SCP - 3008: God Mode", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SCP%20%20%20God%20Mode.lua")
+
+addscriptexist(10462101644, "Tall Man Run: Kick All, Destroy Everything, Destroy map", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tall%20Man%20Run%20Kick%20All%20Destroy%20Everything%20Destroy%20map.lua")
