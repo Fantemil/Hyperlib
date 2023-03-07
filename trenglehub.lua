@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:01:05"
+lastupdate = "GMT +1: 07.03.2023 21:01:09"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -1970,3 +1970,5 @@ addscriptexist(12389327869, "Contact: A-888: No Spread, No Recoil, Inf Ammo", "p
 addscriptexist(662417684, "Lucky Block Battlegrounds: Block Select, Hide Name", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Lucky%20Block%20Battlegrounds%20Block%20Select%20Hide%20Name.lua")
 
 addscriptexist(6953291455, "Eating Simulator: Auto-Farm, Auto Sell, Teleports", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Eating%20Simulator%20AutoFarm%20Auto%20Sell%20Teleports.lua")
+
+addscriptexist(11620947043, "Flappy Clicker: Auto Click, Auto Rebirth, Auto Buy Lands", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Flappy%20Clicker%20Auto%20Click%20Auto%20Rebirth%20Auto%20Buy%20Lands.lua")
