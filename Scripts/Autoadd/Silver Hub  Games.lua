@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://ipig.cf/silverhub/silverhub.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/iPigTW/Silver-HUB/main/SilverHub.lua",true))()
