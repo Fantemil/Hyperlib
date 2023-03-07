@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:40:49"
+lastupdate = "GMT +1: 07.03.2023 21:40:53"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -3076,3 +3076,5 @@ addscriptexist(9551640993, "Mining Simulator 2: Auto Farm, Auto Open Egg, Auto B
 addscriptexist(6284583030, "Pet Simulator X: 5 Hubs", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pet%20Simulator%20X%20%20Hubs.lua")
 
 addscriptexist(9872472334, "Evade: Auto Farm, Auto Respawn, Respawn For Free", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Evade%20Auto%20Farm%20Auto%20Respawn%20Respawn%20For%20Free.lua")
+
+addscriptexist(6284583030, "Pet Simulator X: Auto Hatch Eggs, Auto Farm, Walkspeed", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pet%20Simulator%20X%20Auto%20Hatch%20Eggs%20Auto%20Farm%20Walkspeed.lua")
