@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 22:12:50"
+lastupdate = "GMT +1: 07.03.2023 22:12:54"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -3974,3 +3974,5 @@ addscriptexist(286090429, "Arsenal: Aimbot, No Recoil, ESP", "pulled from rbxscr
 addscriptexist(155615604, "Prison Life: Spawn Gun Remington 870", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Prison%20Life%20Spawn%20Gun%20Remington%20.lua")
 
 addscriptexist(9938675423, "Oaklands: Tree Aura", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Oaklands%20Tree%20Aura.lua")
+
+addscriptexist(2788229376, "Da Hood: Fly, Noclip, Fly Speed", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Da%20Hood%20Fly%20Noclip%20Fly%20Speed.lua")
