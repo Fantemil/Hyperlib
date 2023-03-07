@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 22:32:51"
+lastupdate = "GMT +1: 07.03.2023 22:32:55"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -4512,3 +4512,5 @@ addscriptexist(2753915549, "Blox Fruits: Asrilium Invisibility", "pulled from rb
 addscriptuniversal("Universal Make Parts Can Collide", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Make%20Parts%20Can%20Collide.lua")
 
 addscript(3145447020, "Current Game","Mt. Everest Climbing Roleplay: Godmode, Infinity Jumps, Speedhack", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mt%20Everest%20Climbing%20Roleplay%20Godmode%20Infinity%20Jumps%20Speedhack.lua")
+
+addscript(4588604953, "Current Game","Criminality: Kill Aura, Silent Aim, Finish Aura", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Criminality%20Kill%20Aura%20Silent%20Aim%20Finish%20Aura.lua")
