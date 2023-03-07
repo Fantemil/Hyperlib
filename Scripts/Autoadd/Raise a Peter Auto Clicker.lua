@@ -1,0 +1,1 @@
+while true do fireclickdetector(game:GetService("Workspace").Interactables.Peter.Peter.Clickable.DropMoney) task.wait() end
