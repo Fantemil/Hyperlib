@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:51:00"
+lastupdate = "GMT +1: 07.03.2023 21:51:04"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -3370,3 +3370,5 @@ addscriptexist(183364845, "Speed Run 4: Beat All Levels Loop and Not Loop, Speed
 addhub("ForRealium Hub: 4+ Games", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ForRealium%20Hub%20%20Games.lua")
 
 addhub("Universal Fling GUI", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Fling%20GUI.lua")
+
+addscriptexist(9825515356, "Hood Customs: Press Q to Silent Aim", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Hood%20Customs%20Press%20Q%20to%20Silent%20Aim.lua")
