@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 22:06:03"
+lastupdate = "GMT +1: 07.03.2023 22:06:07"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -3774,3 +3774,5 @@ addscriptexist(6512923934, "Ultra Clickers Simulator: Auto Farming, Noclip, Tele
 addscriptexist(10895555747, "Walmart Land: Fruit Hat", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Walmart%20Land%20Fruit%20Hat.lua")
 
 addscriptexist(9498006165, "Tapping Simulator: Auto Farm, Auto Eggs, Auto Rebirth", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tapping%20Simulator%20Auto%20Farm%20Auto%20Eggs%20Auto%20Rebirth.lua")
+
+addscriptexist(920587237, "Adopt Me: CPU Limiter, Anti Afk, Auto Farms", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Adopt%20Me%20CPU%20Limiter%20Anti%20Afk%20Auto%20Farms.lua")
