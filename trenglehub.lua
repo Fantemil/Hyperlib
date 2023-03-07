@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:20:35"
+lastupdate = "GMT +1: 07.03.2023 21:20:39"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -2528,3 +2528,5 @@ addscriptexist(6735572261, "Pilgrammed: Gui, Chest Farm", "pulled from rbxscript
 addscriptexist(893973440, "Flee The Facility: Teleport To Any Computer, Esp & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Flee%20The%20Facility%20Teleport%20To%20Any%20Computer%20Esp%20%20More.lua")
 
 addscriptexist(6284583030, "Pet Simulator X!: Auto Farm, Gui", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pet%20Simulator%20X%20Auto%20Farm%20Gui.lua")
+
+addscriptexist(8589310348, "Glory Kill Testing: Auto Reload, Unlock All, Kill All Zombies", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Glory%20Kill%20Testing%20Auto%20Reload%20Unlock%20All%20Kill%20All%20Zombies.lua")
