@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:51:33"
+lastupdate = "GMT +1: 07.03.2023 21:51:37"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -3386,3 +3386,5 @@ addscriptexist(11040063484, "Sword Fighters Simulator: Kill Aura, Farm Mob, Farm
 addscriptexist(6516141723, "DOORS: Fullbright, Walkspeed Loop & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DOORS%20Fullbright%20Walkspeed%20Loop%20%20More.lua")
 
 addscriptexist(192800, "Work at a Pizza Place: Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Work%20at%20a%20Pizza%20Place%20Auto%20Farm.lua")
+
+addscript(3281073759, "Current Game","Guess the drawing: Server Crasher", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Guess%20the%20drawing%20Server%20Crasher.lua")
