@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 22:09:08"
+lastupdate = "GMT +1: 07.03.2023 22:09:12"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -3866,3 +3866,5 @@ addscript(9942997989, "Current Game","STEEP STEPS: ypass Anti Cheat, Get Ladder,
 addscriptexist(537413528, "Build A Boat For Treasure: Auto Farm, Auto Buy, Telepoorts", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Build%20A%20Boat%20For%20Treasure%20Auto%20Farm%20Auto%20Buy%20Telepoorts.lua")
 
 addscriptexist(606849621, "Jailbreak: Infinity Nitro, Anti Ragdoll & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Jailbreak%20Infinity%20Nitro%20Anti%20Ragdoll%20%20More.lua")
+
+addhub("Pig Hub: Useful Functions", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pig%20Hub%20Useful%20Functions.lua")
