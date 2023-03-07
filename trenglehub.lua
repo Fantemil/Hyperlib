@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 22:30:39"
+lastupdate = "GMT +1: 07.03.2023 22:30:43"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -4448,3 +4448,5 @@ addscriptexist(11606818992, "STEEP STEPS: Teleport Ladder Back To You, No Slippe
 addscriptexist(10824616460, "Sword Slasher: Insta Kill All Mobs", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sword%20Slasher%20Insta%20Kill%20All%20Mobs.lua")
 
 addscriptexist(11040063484, "Sword Fighters Simulator: Auto Farm & More!", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sword%20Fighters%20Simulator%20Auto%20Farm%20%20More.lua")
+
+addscriptexist(11156779721, "The Survival Game [BETA]: VAPE V4", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/The%20Survival%20Game%20BETA%20VAPE%20V.lua")
