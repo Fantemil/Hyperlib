@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 22:17:13"
+lastupdate = "GMT +1: 07.03.2023 22:17:17"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -4090,3 +4090,5 @@ addscriptuniversal("Universal CMD-X, Infinity Yield, Six Doll Stand", "pulled fr
 addscriptuniversal("Roblox: Universal Aim Bot", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Roblox%20Universal%20Aim%20Bot.lua")
 
 addscriptexist(11606818992, "STEEP STEPS: Press Q to Fly", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/STEEP%20STEPS%20Press%20Q%20to%20Fly.lua")
+
+addscriptexist(537413528, "Build A Boat For Treasure: Auto Farm, Advanced Farm & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Build%20A%20Boat%20For%20Treasure%20Auto%20Farm%20Advanced%20Farm%20%20More.lua")
