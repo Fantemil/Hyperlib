@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:16:34"
+lastupdate = "GMT +1: 07.03.2023 21:16:38"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -2420,3 +2420,5 @@ addscriptexist(621129760, "KAT: Silent Aim, Walkspeed, ESP", "pulled from rbxscr
 addscriptexist(12142833213, "Trampoline Towers: Auto Win, Walkspeed, ESP", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Trampoline%20Towers%20Auto%20Win%20Walkspeed%20ESP.lua")
 
 addscript(8209480473, "Current Game","Spotify Island: Auto Farm, Teleports, Walkspeed", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Spotify%20Island%20Auto%20Farm%20Teleports%20Walkspeed.lua")
+
+addscriptexist(11746859781, "Bubble Gum Clicker: Auto Claim Reward, Auto Spin & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Bubble%20Gum%20Clicker%20Auto%20Claim%20Reward%20Auto%20Spin%20%20More.lua")
