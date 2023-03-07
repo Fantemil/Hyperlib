@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 22:30:18"
+lastupdate = "GMT +1: 07.03.2023 22:30:22"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -4438,3 +4438,5 @@ addscript(5670218884, "Current Game","item asylum: Hitboxes, Kill All & More", "
 addscriptexist(5670218884, "item asylum: ESP", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/item%20asylum%20ESP.lua")
 
 addscript(1948436601, "Current Game","Daycare Center: Brick spam FE", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Daycare%20Center%20Brick%20spam%20FE.lua")
+
+addscriptuniversal("Universal ForRealium Chat Bypasser V1", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20ForRealium%20Chat%20Bypasser%20V.lua")
