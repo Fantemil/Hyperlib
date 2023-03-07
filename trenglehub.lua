@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:57:44"
+lastupdate = "GMT +1: 07.03.2023 21:57:47"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -3536,3 +3536,5 @@ addscriptexist(2753915549, "Blox Fruits: Simple Chest Auto Farm", "pulled from r
 addscriptexist(621129760, "Knife Ability Test: Auto Blurt Roles, Show FOV & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Knife%20Ability%20Test%20Auto%20Blurt%20Roles%20Show%20FOV%20%20More.lua")
 
 addscriptexist(6808416928, "AIMBLOX BETA: Aimbot, ESP, Trigger Bot", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AIMBLOX%20BETA%20Aimbot%20ESP%20Trigger%20Bot.lua")
+
+addhub("VHub: Univesal Hub", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/VHub%20Univesal%20Hub.lua")
