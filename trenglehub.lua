@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:47:11"
+lastupdate = "GMT +1: 07.03.2023 21:47:15"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -3262,3 +3262,5 @@ addscriptexist(4872321990, "Islands: Autofarm mobs/bosses, Teleports", "pulled f
 addscriptexist(1537690962, "Bee Swarm Simulator: Auto Farm, Auto Planter & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Bee%20Swarm%20Simulator%20Auto%20Farm%20Auto%20Planter%20%20More.lua")
 
 addscriptexist(286090429, "Arsenal: Silent Aim, Auto Kill All", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Arsenal%20Silent%20Aim%20Auto%20Kill%20All.lua")
+
+addscriptexist(9874911474, "Tha Bronx 2: Walkspeed, Teleports, Kill All", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tha%20Bronx%20%20Walkspeed%20Teleports%20Kill%20All.lua")
