@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 22:03:45"
+lastupdate = "GMT +1: 07.03.2023 22:03:49"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -3708,3 +3708,5 @@ addscriptexist(8304191830, "Anime Adventures: Lag Switch", "pulled from rbxscrip
 addscriptexist(11606818992, "STEEP STEPS: Bypass Anti Cheat", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/STEEP%20STEPS%20Bypass%20Anti%20Cheat.lua")
 
 addscriptexist(11700520283, "Loooptopia: Event item", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Loooptopia%20Event%20item.lua")
+
+addscriptuniversal("Roblox: Universal Common Utilities V1.0.1", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Roblox%20Universal%20Common%20Utilities%20V.lua")
