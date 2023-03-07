@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 22:27:43"
+lastupdate = "GMT +1: 07.03.2023 22:27:49"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -4370,3 +4370,5 @@ addscriptexist(9992339729, "Longest Answer Wins: Auto Farm, Anti Afk", "pulled f
 addscriptexist(9848789324, "Ragdoll Engine: Teleports, Animations & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ragdoll%20Engine%20Teleports%20Animations%20%20More.lua")
 
 addscriptexist(2788229376, "Da Hood: Target Section, Macro, PP Bat", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Da%20Hood%20Target%20Section%20Macro%20PP%20Bat.lua")
+
+addscriptexist(11639667117, "Eat Same Color Food Challenge: Auto Collect Food, Instant Click", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Eat%20Same%20Color%20Food%20Challenge%20Auto%20Collect%20Food%20Instant%20Click.lua")
