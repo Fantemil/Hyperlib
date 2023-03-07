@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 17:42:41"
+lastupdate = "GMT +1: 07.03.2023 17:42:50"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -1727,3 +1727,4 @@ addscriptexist(8054462345, "Michaels Zombies Script Kill Aura, Noclip, No Reload
 addscript(4951858512,"Current Game", "Victory Race Autofarm Wins", "pulled from rscripts", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Victory%20Race%20Autofarm%20Wins.lua")
 addscript(4733278992,"Current Game", "Sword Blox Online Kill Aura Script", "pulled from rscripts", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sword%20Blox%20Online%20Kill%20Aura%20Script.lua")
 addscriptexist(7305309231, "Taxi Boss Auto Farm Script", "pulled from rscripts", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Taxi%20Boss%20Auto%20Farm%20Script.lua")
+addscript(7127407851,"Current Game", "Attack on Titan: Evolution GUI | Always Nape, Speed Bypass", "pulled from rscripts", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Attack%20on%20Titan%20Evolution%20GUI%20%20Always%20Nape%20Speed%20Bypass.lua")
