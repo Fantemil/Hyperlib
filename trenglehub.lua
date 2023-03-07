@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:42:41"
+lastupdate = "GMT +1: 07.03.2023 21:42:46"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -3132,3 +3132,5 @@ addscriptexist(7056922815, "Reaper 2: Auto Farm, Auto Get Quest, Walkspeed", "pu
 addscriptexist(11040063484, "Sword Fighters Simulator: Auto Farm, Auto Power, Auto Upgrade", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sword%20Fighters%20Simulator%20Auto%20Farm%20Auto%20Power%20Auto%20Upgrade.lua")
 
 addscript(3082707367, "Current Game","RO-Wizard: Auto Farm EXP, Kill All, Silent Aim", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ROWizard%20Auto%20Farm%20EXP%20Kill%20All%20Silent%20Aim.lua")
+
+addscriptexist(9942628622, "Son Goku: The Finale: Unlock SSG, Unlock SSB, Ultra Instinct Omen", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Son%20Goku%20The%20Finale%20Unlock%20SSG%20Unlock%20SSB%20Ultra%20Instinct%20Omen.lua")
