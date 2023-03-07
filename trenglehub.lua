@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:56:56"
+lastupdate = "GMT +1: 07.03.2023 21:57:00"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -3512,3 +3512,5 @@ addscriptexist(185655149, "Welcome to Bloxburg: Auto Farm", "pulled from rbxscri
 addscriptexist(11800876530, "+1 Blocks Every Second: Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/%20Blocks%20Every%20Second%20Auto%20Farm.lua")
 
 addhub("Legend Hub V4: Reviz Admin, Infinity Yield & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Legend%20Hub%20V%20Reviz%20Admin%20Infinity%20Yield%20%20More.lua")
+
+addscriptexist(6728870912, "World of Stands: Treasure Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/World%20of%20Stands%20Treasure%20Auto%20Farm.lua")
