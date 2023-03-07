@@ -1,0 +1,1 @@
+game:GetService("ReplicatedStorage").Events.TesterAcess.k100k:FireServer()
