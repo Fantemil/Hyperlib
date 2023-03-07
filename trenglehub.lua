@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 22:05:30"
+lastupdate = "GMT +1: 07.03.2023 22:05:34"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -3758,3 +3758,5 @@ addscriptexist(2971329387, "Cook Burgers: Teleports To Player, Interact, Telepor
 addscriptexist(1899149341, "Vehicle Tycoon: Auto Collect Money, Auto Farm, Auto Race", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Vehicle%20Tycoon%20Auto%20Collect%20Money%20Auto%20Farm%20Auto%20Race.lua")
 
 addscriptexist(11547613362, "Anime Fly Race: Auto Farm, Auto Collect Orbs, Auto Collect Chests", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime%20Fly%20Race%20Auto%20Farm%20Auto%20Collect%20Orbs%20Auto%20Collect%20Chests.lua")
+
+addscriptexist(9551640993, "Mining Simulator 2: Auto Mine, Auto Unlock World, Auto Sell", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mining%20Simulator%20%20Auto%20Mine%20Auto%20Unlock%20World%20Auto%20Sell.lua")
