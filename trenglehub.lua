@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 22:09:45"
+lastupdate = "GMT +1: 07.03.2023 22:09:51"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -3886,3 +3886,5 @@ addscriptexist(6284583030, "Pet Simulator X: A set of GUI's", "pulled from rbxsc
 addscriptexist(10700669209, "Control Army: Auto Attack, Inf Jump, WalkSpeed", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Control%20Army%20Auto%20Attack%20Inf%20Jump%20WalkSpeed.lua")
 
 addscriptexist(10446125875, "Anime Fruit Simulator: Auto Farm Boss, Auto Attack Mobs & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime%20Fruit%20Simulator%20Auto%20Farm%20Boss%20Auto%20Attack%20Mobs%20%20More.lua")
+
+addhub("Roblox: unfair Hub(50+ Games)", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Roblox%20unfair%20Hub%20Games.lua")
