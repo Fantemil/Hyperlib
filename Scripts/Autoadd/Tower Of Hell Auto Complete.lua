@@ -1,0 +1,1 @@
+game.Players.LocalPlayer.Character:PivotTo(workspace.tower.finishes.Finish:GetPivot())
