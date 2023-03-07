@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:47:03"
+lastupdate = "GMT +1: 07.03.2023 21:47:07"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -3258,3 +3258,5 @@ addscript(137877687, "Current Game","RoCitizens: Fitness Farm", "pulled from rbx
 addscriptexist(189707, "Natural Disaster Survival: Autofarm, Godmode & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Natural%20Disaster%20Survival%20Autofarm%20Godmode%20%20More.lua")
 
 addscriptexist(4872321990, "Islands: Autofarm mobs/bosses, Teleports", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Islands%20Autofarm%20mobsbosses%20Teleports.lua")
+
+addscriptexist(1537690962, "Bee Swarm Simulator: Auto Farm, Auto Planter & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Bee%20Swarm%20Simulator%20Auto%20Farm%20Auto%20Planter%20%20More.lua")
