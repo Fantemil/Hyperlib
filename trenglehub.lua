@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:32:43"
+lastupdate = "GMT +1: 07.03.2023 21:32:47"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -2840,3 +2840,5 @@ addscriptexist(2727067538, "World // Zero: Kill Aura, Auto Farm, Auto Skill & Mo
 addscript(3486025575, "Current Game","Magnet Simulator: Auto Farm, Auto Sell, Auto Egg & More!", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Magnet%20Simulator%20Auto%20Farm%20Auto%20Sell%20Auto%20Egg%20%20More.lua")
 
 addscriptexist(9992339729, "Longest Answer Wins: Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Longest%20Answer%20Wins%20Farm.lua")
+
+addscript(133815151, "Current Game","The Final Stand 2: Zombie Esp, Aimbot, Trigger Bot & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/The%20Final%20Stand%20%20Zombie%20Esp%20Aimbot%20Trigger%20Bot%20%20More.lua")
