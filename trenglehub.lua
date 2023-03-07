@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 22:11:51"
+lastupdate = "GMT +1: 07.03.2023 22:11:55"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -3946,3 +3946,5 @@ addscriptexist(286090429, "Arsenal: Kill Aura, Fullbright, Chat Spammer", "pulle
 addhub("DevHub: 5 Games, New Loadstring", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DevHub%20%20Games%20New%20Loadstring.lua")
 
 addscriptexist(579955134, "Auto Rap Battles: Face Rap, Spam Hands, Vote GUI", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Rap%20Battles%20Face%20Rap%20Spam%20Hands%20Vote%20GUI.lua")
+
+addscriptexist(6516141723, "DOORS: Key Aura, Book Aura, Notifier", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DOORS%20Key%20Aura%20Book%20Aura%20Notifier.lua")
