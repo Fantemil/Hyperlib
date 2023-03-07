@@ -1,0 +1,1 @@
+getgenv().BatusMadeThisShit=true;loadstring(game:HttpGet("https://raw.githubusercontent.com/juywvm/-Roblox-Projects-/main/Doomspire%20Brickbattle/autofarm_kills.lua"))();
