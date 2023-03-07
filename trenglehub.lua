@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:49:22"
+lastupdate = "GMT +1: 07.03.2023 21:49:27"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -3328,3 +3328,5 @@ addscriptuniversal("Universal Aimbot, Fps Booster & More", "pulled from rbxscrip
 addscriptexist(2971329387, "Cook Burgers: Auto drink existing potions", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Cook%20Burgers%20Auto%20drink%20existing%20potions.lua")
 
 addscriptexist(8328351891, "Mega Mansion Tycoon: Auto Build, Collect Money, Walkspeed", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mega%20Mansion%20Tycoon%20Auto%20Build%20Collect%20Money%20Walkspeed.lua")
+
+addscriptuniversal("Universal FE Kidnap", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20FE%20Kidnap.lua")
