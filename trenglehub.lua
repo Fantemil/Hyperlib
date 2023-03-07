@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:04:53"
+lastupdate = "GMT +1: 07.03.2023 21:04:57"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -2078,3 +2078,5 @@ addscript(10253248401, "Current Game","Elemental Powers Tycoon: No Cooldown", "p
 addscriptexist(1962086868, "Tower of Hell: Get Items, Auto Win, Walkspeed", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tower%20of%20Hell%20Get%20Items%20Auto%20Win%20Walkspeed.lua")
 
 addscriptexist(4924922222, "Brookhaven RP: Lots Of Cool Features", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Brookhaven%20RP%20Lots%20Of%20Cool%20Features.lua")
+
+addscriptexist(6516141723, "DOORS: Esp", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DOORS%20Esp.lua")
