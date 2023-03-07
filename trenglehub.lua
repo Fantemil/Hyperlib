@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:28:07"
+lastupdate = "GMT +1: 07.03.2023 21:28:10"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -2712,3 +2712,5 @@ addscriptexist(71315343, "Dragon Ball Rage: Remote Beautifier", "pulled from rbx
 addscriptexist(2788229376, "Da Hood: Headless", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Da%20Hood%20Headless.lua")
 
 addscriptexist(11397035899, "Unicorn Tycoon: Auto Buy Unicorns, Auto Collect, Auto Merge & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Unicorn%20Tycoon%20Auto%20Buy%20Unicorns%20Auto%20Collect%20Auto%20Merge%20%20More.lua")
+
+addscript(1458767429, "Current Game","ABA: Afk World Server Hopper, Afk Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ABA%20Afk%20World%20Server%20Hopper%20Afk%20Auto%20Farm.lua")
