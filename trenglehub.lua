@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:05:14"
+lastupdate = "GMT +1: 07.03.2023 21:05:18"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -2088,3 +2088,5 @@ addscriptexist(4616652839, "Shindo Life: Auto Spin, Infinity Bloodlines & More",
 addscriptexist(11345435986, "Chainsaw Man: Server Hop, Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Chainsaw%20Man%20Server%20Hop%20Auto%20Farm.lua")
 
 addscriptexist(606849621, "Jailbreak: Auto Rob", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Jailbreak%20Auto%20Rob.lua")
+
+addscript(12325279589, "Current Game","Head Fly Race: Auto Collect", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Head%20Fly%20Race%20Auto%20Collect.lua")
