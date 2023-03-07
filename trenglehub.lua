@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:10:47"
+lastupdate = "GMT +1: 07.03.2023 21:10:51"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -2254,3 +2254,5 @@ addscript(6243699076, "Current Game","The Mimic: Fullbright, ESP, Sprint", "pull
 addscriptexist(6735572261, "Pilgrammed: Grab all mirrors", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pilgrammed%20Grab%20all%20mirrors.lua")
 
 addscriptexist(7499189111, "Encounters: Esp, Legit, Rage", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Encounters%20Esp%20Legit%20Rage.lua")
+
+addscriptexist(10673860069, "Horse Racing Club: Auto Win Race, Inf Money/Exp, Rainbow Saddle", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Horse%20Racing%20Club%20Auto%20Win%20Race%20Inf%20MoneyExp%20Rainbow%20Saddle.lua")
