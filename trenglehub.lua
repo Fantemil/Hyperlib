@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 22:14:57"
+lastupdate = "GMT +1: 07.03.2023 22:15:01"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -4030,3 +4030,5 @@ addscript(6555368284, "Current Game","UNDERTALE [FIGHT]: Stamina Deleter, Hp Del
 addscriptexist(920587237, "Adopt Me: Instant Security Badge", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Adopt%20Me%20Instant%20Security%20Badge.lua")
 
 addscriptexist(11430505281, "Anime Weapons Simulator: Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime%20Weapons%20Simulator%20Auto%20Farm.lua")
+
+addscript(10171072079, "Current Game","Operations: Siege: No recoil, Esp, Anto Vote Kick", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Operations%20Siege%20No%20recoil%20Esp%20Anto%20Vote%20Kick.lua")
