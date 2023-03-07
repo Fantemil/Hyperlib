@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 15:47:11"
+lastupdate = "GMT +1: 07.03.2023 15:47:13"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -1281,3 +1281,5 @@ addscript(2295122555, "Current Game","Project JoJo: Auto Farm Level, Money Farm,
 addscriptexist(7288936208, "Super Blox Soccer: Ball Size, Auto bypass Anti Cheat", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Super%20Blox%20Soccer%20Ball%20Size%20Auto%20bypass%20Anti%20Cheat.lua")
 
 addscriptexist(3272915504, "Arcane Odyssey: Infinite Statpoints", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Arcane%20Odyssey%20Infinite%20Statpoints.lua")
+
+addscriptexist(537413528, "Build A Boat Auto Farm Script", "pulled from rscripts", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Build%20A%20Boat%20Auto%20Farm%20Script.lua")
