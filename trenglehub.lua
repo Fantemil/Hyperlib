@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:35:38"
+lastupdate = "GMT +1: 07.03.2023 21:35:41"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -2926,3 +2926,5 @@ addscriptexist(662417684, "LUCKY BLOCKS Battlegrounds: Fly,Sword Reach,Spawn Blo
 addscriptexist(11874473440, "Car Factory Tycoon: AutoFarm, Auto Sell, Teleports", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Car%20Factory%20Tycoon%20AutoFarm%20Auto%20Sell%20Teleports.lua")
 
 addscriptuniversal("Universal CPU Saver", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20CPU%20Saver.lua")
+
+addscriptexist(2788229376, "Da Hood: FOV, Silent Aim, Anti Lock", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Da%20Hood%20FOV%20Silent%20Aim%20Anti%20Lock.lua")
