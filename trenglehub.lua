@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:08:49"
+lastupdate = "GMT +1: 07.03.2023 21:08:53"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -2198,3 +2198,5 @@ addscriptexist(2753915549, "Blox Fruits: Auto Buy Haki", "pulled from rbxscript.
 addscriptexist(6735572261, "Pilgrammed: Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pilgrammed%20Auto%20Farm.lua")
 
 addscriptexist(6516141723, "DOORS: Entity Spawner", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DOORS%20Entity%20Spawner.lua")
+
+addscriptexist(8821374215, "Saisei: Fast Swing, No Stun, Range OP", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Saisei%20Fast%20Swing%20No%20Stun%20Range%20OP.lua")
