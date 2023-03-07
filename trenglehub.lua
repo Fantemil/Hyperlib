@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 22:28:01"
+lastupdate = "GMT +1: 07.03.2023 22:28:06"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -4378,3 +4378,5 @@ addscriptexist(6918802270, "Project New World: Infinity Stamina, Auto Farm Level
 addscript(4951130016, "Current Game","The Kinetic Abilities: Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/The%20Kinetic%20Abilities%20Auto%20Farm.lua")
 
 addscript(6155643742, "Current Game","Fall Block: Destroy the map", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Fall%20Block%20Destroy%20the%20map.lua")
+
+addscript(5593925613, "Current Game","Countryball World: Walkspeed, Jump Power, Fly", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Countryball%20World%20Walkspeed%20Jump%20Power%20Fly.lua")
