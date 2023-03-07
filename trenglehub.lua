@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 22:06:34"
+lastupdate = "GMT +1: 07.03.2023 22:06:40"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -3790,3 +3790,5 @@ addscript(8781849572, "Current Game","Star Simulator: Auto Farm, Auto Unlock", "
 addscript(5041144419, "Current Game","SCP: Roleplay: Anti Afk, XP Farm, Noclip", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SCP%20Roleplay%20Anti%20Afk%20XP%20Farm%20Noclip.lua")
 
 addscriptexist(2788229376, "Da Hood: Call All, Bag All, Free Items", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Da%20Hood%20Call%20All%20Bag%20All%20Free%20Items.lua")
+
+addscriptuniversal("Universal infinite jump", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20infinite%20jump.lua")
