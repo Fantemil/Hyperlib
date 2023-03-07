@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 12:39:10"
+lastupdate = "GMT +1: 07.03.2023 12:39:13"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -1213,3 +1213,5 @@ addscript(2248408710, "Current Game","Destruction Simulator: No Cooldown, Walksp
 addscriptexist(142823291, "Murder Mystery 2: Server Crasher, Auto Farm, Kill All", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Murder%20Mystery%20%20Server%20Crasher%20Auto%20Farm%20Kill%20All.lua")
 
 addscript(2551991523, "Current Game","Broken Bones IV: Auto-Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Broken%20Bones%20IV%20AutoFarm.lua")
+
+addscriptexist(662417684, "LUCKY BLOCKS Battlegrounds: Fly, Spawn Blocks, Jumppower", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LUCKY%20BLOCKS%20Battlegrounds%20Fly%20Spawn%20Blocks%20Jumppower.lua")
