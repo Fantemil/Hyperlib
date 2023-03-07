@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:25:34"
+lastupdate = "GMT +1: 07.03.2023 21:25:38"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -2642,3 +2642,5 @@ addscriptexist(2753915549, "Blox Fruits: Auto Farm Chests", "pulled from rbxscri
 addscriptexist(1554960397, "Car Dealership Tycoon: Car Speed, Auto Farm Long Way, Auto Farm Highway", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Car%20Dealership%20Tycoon%20Car%20Speed%20Auto%20Farm%20Long%20Way%20Auto%20Farm%20Highway.lua")
 
 addscriptexist(11939099110, "Ski Race: Auto Win, Auto Farm, Auto Hatch", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ski%20Race%20Auto%20Win%20Auto%20Farm%20Auto%20Hatch.lua")
+
+addscriptexist(11729688377, "Booga Booga [REBORN]: Kill Aura, OP Auto Farm, Speed And Teleport Bypass", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Booga%20Booga%20REBORN%20Kill%20Aura%20OP%20Auto%20Farm%20Speed%20And%20Teleport%20Bypass.lua")
