@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:08:41"
+lastupdate = "GMT +1: 07.03.2023 21:08:45"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -2194,3 +2194,5 @@ addscriptexist(11636413564, "Meme Mergers: Simple Auto Farm", "pulled from rbxsc
 addscript(338574920, "Current Game","Wings of Glory: Muzzle velocity changer", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Wings%20of%20Glory%20Muzzle%20velocity%20changer.lua")
 
 addscriptexist(2753915549, "Blox Fruits: Auto Buy Haki", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blox%20Fruits%20Auto%20Buy%20Haki.lua")
+
+addscriptexist(6735572261, "Pilgrammed: Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pilgrammed%20Auto%20Farm.lua")
