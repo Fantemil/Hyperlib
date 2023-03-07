@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 22:08:59"
+lastupdate = "GMT +1: 07.03.2023 22:09:05"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -3862,3 +3862,5 @@ addscriptexist(5965591336, "Soul War: Kill Aura, Auto Farm & More", "pulled from
 addscriptexist(9825515356, "Hood Customs: Aimbot", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Hood%20Customs%20Aimbot.lua")
 
 addscript(9942997989, "Current Game","STEEP STEPS: ypass Anti Cheat, Get Ladder, Remove Fog", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/STEEP%20STEPS%20ypass%20Anti%20Cheat%20Get%20Ladder%20Remove%20Fog.lua")
+
+addscriptexist(537413528, "Build A Boat For Treasure: Auto Farm, Auto Buy, Telepoorts", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Build%20A%20Boat%20For%20Treasure%20Auto%20Farm%20Auto%20Buy%20Telepoorts.lua")
