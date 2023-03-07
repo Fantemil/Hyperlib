@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:43:18"
+lastupdate = "GMT +1: 07.03.2023 21:43:22"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -3150,3 +3150,5 @@ addscriptexist(11345435986, "Chainsaw Man: Devil's Heart: Auto Quest, Auto Farm,
 addscriptexist(6516141723, "DOORS: Auto Heartbeat, No dark Rooms, Anti rush", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DOORS%20Auto%20Heartbeat%20No%20dark%20Rooms%20Anti%20rush.lua")
 
 addscriptexist(654732683, "Car Crushers 2: Serverhop Atomic Server | Gamepass Only", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Car%20Crushers%20%20Serverhop%20Atomic%20Server%20%20Gamepass%20Only.lua")
+
+addscriptexist(6284583030, "Pet Simulator X: Remove Egg Animation, Egg Hatch X1, Egg Hatch X3", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pet%20Simulator%20X%20Remove%20Egg%20Animation%20Egg%20Hatch%20X%20Egg%20Hatch%20X.lua")
