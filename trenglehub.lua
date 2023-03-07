@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:30:34"
+lastupdate = "GMT +1: 07.03.2023 21:30:38"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -2780,3 +2780,5 @@ addscriptexist(2753915549, "Blox Fruits: Auto Farm", "pulled from rbxscript.com"
 addscriptexist(12083773314, "Troop Army Simulator: Simple Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Troop%20Army%20Simulator%20Simple%20Auto%20Farm.lua")
 
 addscriptexist(10598587051, "Anime Clicker Fight: Auto Click, Walkspeed, Auto Hatch", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime%20Clicker%20Fight%20Auto%20Click%20Walkspeed%20Auto%20Hatch.lua")
+
+addscriptexist(4490140733, "My Restaurant: Teleports, Auto Farm & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/My%20Restaurant%20Teleports%20Auto%20Farm%20%20More.lua")
