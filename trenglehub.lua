@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:35:19"
+lastupdate = "GMT +1: 07.03.2023 21:35:23"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -2918,3 +2918,5 @@ addscriptexist(71315343, "Dragon Ball Rage: Auto Train, Auto Farm Mobs, Teleport
 addscript(7863262550, "Current Game","Foblox: Airdrop Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Foblox%20Airdrop%20Auto%20Farm.lua")
 
 addscriptexist(11430505281, "Anime Weapon Simulator: Auto Farm, Auto Collect , Auto Throw", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime%20Weapon%20Simulator%20Auto%20Farm%20Auto%20Collect%20%20Auto%20Throw.lua")
+
+addscriptexist(10198661638, "Farm Factory Tycoon: Auto Upgrade, Auto Buy & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Farm%20Factory%20Tycoon%20Auto%20Upgrade%20Auto%20Buy%20%20More.lua")
