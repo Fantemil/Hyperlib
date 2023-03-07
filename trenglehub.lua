@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:44:36"
+lastupdate = "GMT +1: 07.03.2023 21:44:39"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -3188,3 +3188,5 @@ addscriptexist(6777872443, "Pixel Piece: Get Fruits, Auto Farm, Auto Quest & Mor
 addscript(12292508604, "Current Game","Lose Speed Per Second!: Auto Farm Wins & Coins", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Lose%20Speed%20Per%20Second%20Auto%20Farm%20Wins%20%20Coins.lua")
 
 addscriptexist(1240123653, "Zombie Attack: Auto Kill All", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Zombie%20Attack%20Auto%20Kill%20All.lua")
+
+addscriptexist(11257760806, "live in a back alley simulator [beta]: Auto Sell, Auto Farm Trash", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/live%20in%20a%20back%20alley%20simulator%20beta%20Auto%20Sell%20Auto%20Farm%20Trash.lua")
