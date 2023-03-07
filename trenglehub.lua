@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:04:17"
+lastupdate = "GMT +1: 07.03.2023 21:04:22"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -2062,3 +2062,5 @@ addscriptexist(4872321990, "Islands: Loot Aura", "pulled from rbxscript.com", "h
 addscriptexist(3956818381, "Ninja Legends: Auto Sell, Auto Farm, Auto Buy", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ninja%20Legends%20Auto%20Sell%20Auto%20Farm%20Auto%20Buy.lua")
 
 addscript(10198661638, "Current Game","Farm Factory Tycoon", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Farm%20Factory%20Tycoon.lua")
+
+addscript(8425637426, "Current Game","Write a Letter: Server Crasher", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Write%20a%20Letter%20Server%20Crasher.lua")
