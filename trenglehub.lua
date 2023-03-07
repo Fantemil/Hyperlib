@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:01:42"
+lastupdate = "GMT +1: 07.03.2023 21:01:49"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -1986,3 +1986,5 @@ addscriptexist(2548157192, "Funeral Home and Graveyard: Break the Game", "pulled
 addscript(7560156054, "Current Game","Clicker Simulator: Auto Hatch Eggs, Auto Rebirth, Auto Tap", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Clicker%20Simulator%20Auto%20Hatch%20Eggs%20Auto%20Rebirth%20Auto%20Tap.lua")
 
 addscriptexist(1962086868, "Tower of Hell: Anti Cheat Bypass, Give Items, Remove Fog", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tower%20of%20Hell%20Anti%20Cheat%20Bypass%20Give%20Items%20Remove%20Fog.lua")
+
+addscriptuniversal("Universal Chat Modifier", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Chat%20Modifier.lua")
