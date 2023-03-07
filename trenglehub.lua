@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 20:54:32"
+lastupdate = "GMT +1: 07.03.2023 20:54:36"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -1780,3 +1780,5 @@ addscriptexist(662417684, "LUCKY BLOCKS Battlegrounds: Teleports, Get Blocks & M
 addscriptexist(3297964905, "Weaponry [beta]: Kill All, Movement Modifiers, Esp", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Weaponry%20beta%20Kill%20All%20Movement%20Modifiers%20Esp.lua")
 
 addscriptexist(8908228901, "SharkBite 2: Gun Mod, Auto Farm, Firerate", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SharkBite%20%20Gun%20Mod%20Auto%20Farm%20Firerate.lua")
+
+addhub("Frightened Hub: 2 Games", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Frightened%20Hub%20%20Games.lua")
