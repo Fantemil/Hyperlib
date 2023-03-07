@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 22:21:56"
+lastupdate = "GMT +1: 07.03.2023 22:22:01"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -4234,3 +4234,5 @@ addscriptuniversal("Aero Hub: 30+ Games", "pulled from rbxscript.com", "https://
 addscriptuniversal("L Hub: 5+ Games", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/L%20Hub%20%20Games.lua")
 
 addscript(7734941266, "Current Game","UTMM: Calamity: Get Everything", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/UTMM%20Calamity%20Get%20Everything.lua")
+
+addscriptexist(6512923934, "Ultra Clickers Simulator: Auto Farm, Noclip, Teleports", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ultra%20Clickers%20Simulator%20Auto%20Farm%20Noclip%20Teleports.lua")
