@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:19:20"
+lastupdate = "GMT +1: 07.03.2023 21:19:23"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -2492,3 +2492,5 @@ addscriptexist(8750997647, "Tapping Legends X: Auto Tap, Auto Rebirth", "pulled 
 addscriptexist(11989217843, "Find The Family Guy: Find All Characters", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Find%20The%20Family%20Guy%20Find%20All%20Characters.lua")
 
 addscriptexist(5130598377, "A Universal Time: Farm All Items, Farm Boss, Players", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/A%20Universal%20Time%20Farm%20All%20Items%20Farm%20Boss%20Players.lua")
+
+addscriptexist(8908228901, "SharkBite 2: Walkspeed, Fly, No Recoil", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SharkBite%20%20Walkspeed%20Fly%20No%20Recoil.lua")
