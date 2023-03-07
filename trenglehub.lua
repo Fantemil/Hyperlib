@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:06:53"
+lastupdate = "GMT +1: 07.03.2023 21:06:57"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -2138,3 +2138,5 @@ addscriptexist(2768379856, "3008: Spam Something", "pulled from rbxscript.com", 
 addscriptexist(9872472334, "Evade: Click TP, God Mode, Teleports", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Evade%20Click%20TP%20God%20Mode%20Teleports.lua")
 
 addscriptexist(4924922222, "Brookhaven RP: Teleporter, Instant Kill All & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Brookhaven%20RP%20Teleporter%20Instant%20Kill%20All%20%20More.lua")
+
+addscriptexist(11063612131, "Every Second You Get +1 Jump Power: Auto Farm, Auto Rebirth & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Every%20Second%20You%20Get%20%20Jump%20Power%20Auto%20Farm%20Auto%20Rebirth%20%20More.lua")
