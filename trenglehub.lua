@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 22:28:59"
+lastupdate = "GMT +1: 07.03.2023 22:29:03"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -4402,3 +4402,5 @@ addscriptexist(2788229376, "Da Hood: Headless, Fly, Noclip", "pulled from rbxscr
 addscriptexist(9825515356, "Hood Customs: Silent Aimlock, Noclip", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Hood%20Customs%20Silent%20Aimlock%20Noclip.lua")
 
 addscriptexist(5036207802, "RB Battles: Auto Make Coins", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RB%20Battles%20Auto%20Make%20Coins.lua")
+
+addscriptexist(155615604, "Prison Life: Give all nonriot guns", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Prison%20Life%20Give%20all%20nonriot%20guns.lua")
