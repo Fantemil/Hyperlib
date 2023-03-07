@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:21:36"
+lastupdate = "GMT +1: 07.03.2023 21:21:40"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -2556,3 +2556,5 @@ addscriptexist(11846163207, "Mage Tycoon: Infinity Jump, Auto Buttons, Invisible
 addscriptexist(6284583030, "Pet Simulator X: Fake Stream Tools", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pet%20Simulator%20X%20Fake%20Stream%20Tools.lua")
 
 addscriptexist(379614936, "Assassin!: Silent Aim", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Assassin%20Silent%20Aim.lua")
+
+addscript(7075737729, "Current Game","Hoop Central 6: Aimbot", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Hoop%20Central%20%20Aimbot.lua")
