@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 12:31:19"
+lastupdate = "GMT +1: 07.03.2023 12:31:23"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -989,3 +989,5 @@ addscript(7899881670, "Current Game","RB World 4: AimBot", "pulled from rbxscrip
 addscriptexist(3101667897, "Legends Of Speed: Auto Race, Auto Join Race, Auto Speed", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Legends%20Of%20Speed%20Auto%20Race%20Auto%20Join%20Race%20Auto%20Speed.lua")
 
 addscriptexist(3297964905, "Weaponry: Kill All, Movement Mods, Esp", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Weaponry%20Kill%20All%20Movement%20Mods%20Esp.lua")
+
+addhub("Galaxy Hub: 10+ Games", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Galaxy%20Hub%20%20Games.lua")
