@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 12:33:20"
+lastupdate = "GMT +1: 07.03.2023 12:33:24"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -1047,3 +1047,5 @@ addscript(10446125875, "Current Game","Anime Fruit Simulator: Auto Attack, Auto 
 addscriptexist(8549934015, "REx: Reincarnated: Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/REx%20Reincarnated%20Auto%20Farm.lua")
 
 addscriptexist(2788229376, "Da Hood: Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Da%20Hood%20Auto%20Farm.lua")
+
+addscriptexist(2788229376, "Da Hood: Auto Farm Atm, Auto Farm, Infinite Jump & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Da%20Hood%20Auto%20Farm%20Atm%20Auto%20Farm%20Infinite%20Jump%20%20More.lua")
