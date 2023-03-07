@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 15:48:55"
+lastupdate = "GMT +1: 07.03.2023 15:49:00"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -1350,3 +1350,4 @@ addscriptexist(7288936208, "Super Blox Soccer: Reach, Anti Cheat Bypass, Ball Si
 addscriptexist(6735572261, "Pilgrammed: Auto Parry", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pilgrammed%20Auto%20Parry.lua")
 
 addscriptuniversal("Holos Alts Controls", "pulled from rscripts", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Holos%20Alts%20Controls.lua")
+addscript(6110766473, "Current Game","Flex Fight: Auto-Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Flex%20Fight%20AutoFarm.lua")
