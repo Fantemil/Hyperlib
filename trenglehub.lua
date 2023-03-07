@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:39:26"
+lastupdate = "GMT +1: 07.03.2023 21:39:30"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -3034,3 +3034,5 @@ addscriptexist(9285238704, "Race Clicker: Auto Equip Best Pets, Auto Click, Auto
 addscriptuniversal("Universal ESP, Hitbox Extender", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20ESP%20Hitbox%20Extender.lua")
 
 addscriptexist(920587237, "Adopt Me: Auto Baby Farm, Auto Invisible, Crash Server & More!", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Adopt%20Me%20Auto%20Baby%20Farm%20Auto%20Invisible%20Crash%20Server%20%20More.lua")
+
+addscriptexist(6679968919, "Fly Race: 1 Million wins GUI", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Fly%20Race%20%20Million%20wins%20GUI.lua")
