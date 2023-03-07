@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SmartModBoy/rate-my-avatars/master/rate%20my%20avatar", true))()
