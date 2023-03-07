@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 22:01:29"
+lastupdate = "GMT +1: 07.03.2023 22:01:33"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -3642,3 +3642,5 @@ addscript(6285815281, "Current Game","LankyBox Simulator: Auto Collect Hearts, A
 addscript(7603193259, "Current Game","Friday Night Bloxxin: Auto Player", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Friday%20Night%20Bloxxin%20Auto%20Player.lua")
 
 addscript(6584731191, "Current Game","Ragdoll Engine: Ragdolls everyone", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ragdoll%20Engine%20Ragdolls%20everyone.lua")
+
+addscriptexist(7180042682, "Military Tycoon: Oops Hub Key Bypassed", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Military%20Tycoon%20Oops%20Hub%20Key%20Bypassed.lua")
