@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:46:55"
+lastupdate = "GMT +1: 07.03.2023 21:46:59"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -3254,3 +3254,5 @@ addscriptexist(3214114884, "Flag Wars: Esp, Insta Kill, Auto Capture", "pulled f
 addscriptexist(11216791462, "Hungry Pig: Autofarm, Remove Maze Walls, Speed", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Hungry%20Pig%20Autofarm%20Remove%20Maze%20Walls%20Speed.lua")
 
 addscript(137877687, "Current Game","RoCitizens: Fitness Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RoCitizens%20Fitness%20Farm.lua")
+
+addscriptexist(189707, "Natural Disaster Survival: Autofarm, Godmode & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Natural%20Disaster%20Survival%20Autofarm%20Godmode%20%20More.lua")
