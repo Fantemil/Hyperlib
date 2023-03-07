@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:02:02"
+lastupdate = "GMT +1: 07.03.2023 21:02:06"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -1994,3 +1994,5 @@ addscriptexist(9825515356, "Hood Customs: Silent Aim, Fly, ESP", "pulled from rb
 addscriptexist(8540346411, "Rebirth Champions X: Auto Rebirth, Auto Egg, Auto Click", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Rebirth%20Champions%20X%20Auto%20Rebirth%20Auto%20Egg%20Auto%20Click.lua")
 
 addscript(6933626061, "Current Game","TLK Prison: Get Items", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TLK%20Prison%20Get%20Items.lua")
+
+addscriptexist(8054462345, "Michael's Zombies: Auto Win", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Michaels%20Zombies%20Auto%20Win.lua")
