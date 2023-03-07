@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 22:22:41"
+lastupdate = "GMT +1: 07.03.2023 22:22:46"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -4254,3 +4254,5 @@ addscriptexist(8737602449, "PLS DONATE: Fake Donate", "pulled from rbxscript.com
 addscriptuniversal("Universal Press Z to Anti Lock", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Press%20Z%20to%20Anti%20Lock.lua")
 
 addscriptexist(11156779721, "The Survival Game: Kill Aura, Teleports, Silent Aim", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/The%20Survival%20Game%20Kill%20Aura%20Teleports%20Silent%20Aim.lua")
+
+addscriptexist(286090429, "Arsenal: Start Spinning, Stop Spinning, Element Spinning", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Arsenal%20Start%20Spinning%20Stop%20Spinning%20Element%20Spinning.lua")
