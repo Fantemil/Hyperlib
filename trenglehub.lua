@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 22:02:04"
+lastupdate = "GMT +1: 07.03.2023 22:02:07"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -3658,3 +3658,5 @@ addscriptexist(2534724415, "Emergency Response: Liberty County: Auto Complete Ro
 addscriptexist(2753915549, "+One Damage Every Second: Infinity Strenght, Auto Eggs, Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/One%20Damage%20Every%20Second%20Infinity%20Strenght%20Auto%20Eggs%20Auto%20Farm.lua")
 
 addscript(11847012723, "Current Game","SWAT | Breaching: Kill All", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SWAT%20%20Breaching%20Kill%20All.lua")
+
+addscript(3964975083, "Current Game","Build to survive: Remove Cages, Remove Mobs, Kill", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Build%20to%20survive%20Remove%20Cages%20Remove%20Mobs%20Kill.lua")
