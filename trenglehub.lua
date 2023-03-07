@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:09:44"
+lastupdate = "GMT +1: 07.03.2023 21:09:48"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -2224,3 +2224,5 @@ addscriptexist(2788229376, "Da Hood: Teleports, ESP & More", "pulled from rbxscr
 addscriptexist(11430505281, "Anime Weapon Simulator: Auto-Farm, Auto Collect, Auto Click", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime%20Weapon%20Simulator%20AutoFarm%20Auto%20Collect%20Auto%20Click.lua")
 
 addscript(298400657, "Current Game","Dragon Ball Final Remastered: Auto Gauntlet", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Dragon%20Ball%20Final%20Remastered%20Auto%20Gauntlet.lua")
+
+addscriptexist(2474168535, "Westbound: No Recoil, No Spread, Silent Aim", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Westbound%20No%20Recoil%20No%20Spread%20Silent%20Aim.lua")
