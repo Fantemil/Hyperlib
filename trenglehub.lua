@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:13:10"
+lastupdate = "GMT +1: 07.03.2023 21:13:14"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -2324,3 +2324,5 @@ addscriptexist(2753915549, "Blox Fruits: Auto Farm, Fast Attack", "pulled from r
 addscriptexist(7056922815, "Reaper 2: AutoFarm, Auto Quest, Teleports", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Reaper%20%20AutoFarm%20Auto%20Quest%20Teleports.lua")
 
 addscriptexist(9655469250, "EarthScape Tycoon: Gun Mods", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/EarthScape%20Tycoon%20Gun%20Mods.lua")
+
+addscriptexist(7899881670, "RB World 4: Hitbox, Aimbot, Auto Block", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RB%20World%20%20Hitbox%20Aimbot%20Auto%20Block.lua")
