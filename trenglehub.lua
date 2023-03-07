@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:21:57"
+lastupdate = "GMT +1: 07.03.2023 21:22:02"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -2566,3 +2566,5 @@ addscriptexist(7253149844, "SCP Games and SCP Monsters: Fe Kill All Players", "p
 addscriptuniversal("Universal Open Source Key System", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Open%20Source%20Key%20System.lua")
 
 addscriptexist(2788229376, "Da Hood: Macro", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Da%20Hood%20Macro.lua")
+
+addscriptexist(6678877691, "ZO SAMURAI: Kill Aura, Spinbot & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ZO%20SAMURAI%20Kill%20Aura%20Spinbot%20%20More.lua")
