@@ -1,0 +1,2 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/RiseValco/keybypasses/main/kelrepl.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/OopssSorry/Vip-Scripts-OopssHub-/main/MilitaryTycoonFarm.lua"))()
