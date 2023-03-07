@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 15:41:07"
+lastupdate = "GMT +1: 07.03.2023 15:41:13"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -1052,3 +1052,5 @@ addscriptexist(5938036553, "FRONTLINES | Hitbox Extender", "pulled from rscripts
 addscriptexist(11345435986, "Chainsaw Man: Auto Dash", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Chainsaw%20Man%20Auto%20Dash.lua")
 
 addscriptexist(11746859781, "Bubble Gum Clicker: AutoFarm, Auto Spin & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Bubble%20Gum%20Clicker%20AutoFarm%20Auto%20Spin%20%20More.lua")
+
+addscriptexist(5938036553, "FRONTLINES | Speed Hack", "pulled from rscripts", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FRONTLINES%20%20Speed%20Hack.lua")
