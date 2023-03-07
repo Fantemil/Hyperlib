@@ -1,0 +1,2 @@
+local Tycoon = game:GetService("Workspace").Tycoons[game:GetService("Workspace").Tycoons:FindFirstChildOfClass("Part").Name.." Tycoon"]
+while true do firetouchinterest(game:GetService("Players").LocalPlayer.Character.HumanoidRootPart, Tycoon.MoneyCollector.Hitbox, 0) task.wait() firetouchinterest(game:GetService("Players").LocalPlayer.Character.HumanoidRootPart, Tycoon.MoneyCollector.Hitbox, 1) task.wait() end
