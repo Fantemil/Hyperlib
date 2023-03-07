@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 22:24:46"
+lastupdate = "GMT +1: 07.03.2023 22:24:50"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -4286,3 +4286,5 @@ addscriptexist(155615604, "Prison Life: Lag Server", "pulled from rbxscript.com"
 addscriptexist(3260590327, "Tower Defense Simulator: Best coins grind strat", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tower%20Defense%20Simulator%20Best%20coins%20grind%20strat.lua")
 
 addscriptexist(9285238704, "Race Clicker: Wins Farm, Auto Click, Auto Rebirth", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Race%20Clicker%20Wins%20Farm%20Auto%20Click%20Auto%20Rebirth.lua")
+
+addscriptexist(155615604, "Prison Life: Take Gun Modder", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Prison%20Life%20Take%20Gun%20Modder.lua")
