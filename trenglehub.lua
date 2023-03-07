@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:06:06"
+lastupdate = "GMT +1: 07.03.2023 21:06:10"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -2114,3 +2114,5 @@ addscriptexist(3851622790, "Break In (Story): Walkspeed, Auto Planks, Infinity E
 addscriptexist(648362523, "Breaking Point: Silent Aim", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Breaking%20Point%20Silent%20Aim.lua")
 
 addscriptexist(6516141723, "DOORS: Instant Interact, Anti-Seek, Remove Seek Obstacles", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DOORS%20Instant%20Interact%20AntiSeek%20Remove%20Seek%20Obstacles.lua")
+
+addscriptexist(3351674303, "Driving Empire: Auto-Farm, Car Speed & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Driving%20Empire%20AutoFarm%20Car%20Speed%20%20More.lua")
