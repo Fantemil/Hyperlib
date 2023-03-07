@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:58:53"
+lastupdate = "GMT +1: 07.03.2023 21:58:57"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -3570,3 +3570,5 @@ addscriptuniversal("Universal Teleport Framework", "pulled from rbxscript.com", 
 addscriptuniversal("Legend Hub V3: Fates Admin, Kaspire Admin, FPS Booster", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Legend%20Hub%20V%20Fates%20Admin%20Kaspire%20Admin%20FPS%20Booster.lua")
 
 addscriptexist(9938675423, "Oaklands: Tree Aura, Log Aura & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Oaklands%20Tree%20Aura%20Log%20Aura%20%20More.lua")
+
+addscriptexist(2788229376, "Da Hood: Aim Viewer", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Da%20Hood%20Aim%20Viewer.lua")
