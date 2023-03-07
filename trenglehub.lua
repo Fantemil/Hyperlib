@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:34:58"
+lastupdate = "GMT +1: 07.03.2023 21:35:04"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -2908,3 +2908,5 @@ addscriptexist(8908228901, "Sharkbite 2: Free Boats", "pulled from rbxscript.com
 addscriptuniversal("Universal Shiftlock Unlcok", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Shiftlock%20Unlcok.lua")
 
 addscriptuniversal("Roblox: SimpleSpy v3", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Roblox%20SimpleSpy%20v.lua")
+
+addscriptexist(9655469250, "EarthScape Tycoon: Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/EarthScape%20Tycoon%20Auto%20Farm.lua")
