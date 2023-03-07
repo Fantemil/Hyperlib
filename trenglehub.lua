@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 12:30:21"
+lastupdate = "GMT +1: 07.03.2023 12:30:24"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -959,3 +959,5 @@ addscript(11943871352, "Current Game","Homework Printing Simulator: Unlock All, 
 addscriptexist(6284583030, "Pet Simulator X: Auto Fuse, Auto-Collect, Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pet%20Simulator%20X%20Auto%20Fuse%20AutoCollect%20Auto%20Farm.lua")
 
 addscript(5938036553, "Current Game","FRONTLINES: FPS Booster, Fullbright, Aimbot", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FRONTLINES%20FPS%20Booster%20Fullbright%20Aimbot.lua")
+
+addscript(11345435986, "Current Game","Chainsaw Man: Devil's Heart: Autofarm Mobs, Player name esp, Mob esp", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Chainsaw%20Man%20Devils%20Heart%20Autofarm%20Mobs%20Player%20name%20esp%20Mob%20esp.lua")
