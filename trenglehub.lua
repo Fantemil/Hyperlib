@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:12:31"
+lastupdate = "GMT +1: 07.03.2023 21:12:35"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -2306,3 +2306,5 @@ addscriptexist(9872472334, "Evade: Auto Farm Wins", "pulled from rbxscript.com",
 addscriptexist(6516141723, "DOORS: Anti Cheat Bypass", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DOORS%20Anti%20Cheat%20Bypass.lua")
 
 addscriptexist(141084271, "Rise Of The Dead: Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Rise%20Of%20The%20Dead%20Auto%20Farm.lua")
+
+addscript(11606818992, "Current Game","STEEP STEPS: Anti Cheat Bypass", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/STEEP%20STEPS%20Anti%20Cheat%20Bypass.lua")
