@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 12:37:38"
+lastupdate = "GMT +1: 07.03.2023 12:37:41"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -1169,3 +1169,5 @@ addscript(7288936208, "Current Game","Super Blox Soccer: Ball Size, Auto bypass 
 addscriptexist(3272915504, "Arcane Odyssey: Infinite Statpoints", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Arcane%20Odyssey%20Infinite%20Statpoints.lua")
 
 addscriptexist(6516141723, "DOORS: Insta Kill, Infinite Ammo, Fast Reload", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DOORS%20Insta%20Kill%20Infinite%20Ammo%20Fast%20Reload.lua")
+
+addscriptexist(8568266872, "Kill Monsters To Save Princess: Auto Waves, Fast Hit", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Kill%20Monsters%20To%20Save%20Princess%20Auto%20Waves%20Fast%20Hit.lua")
