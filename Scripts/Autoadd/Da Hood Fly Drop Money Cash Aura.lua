@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/GuizzyisbackV2LOL/dhcGuiV1/main/Lua.v1", true))()
