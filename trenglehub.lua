@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:52:32"
+lastupdate = "GMT +1: 07.03.2023 21:52:36"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -3416,3 +3416,5 @@ addhub("Universal Pro Hub: Chat Spy, Infinity Yield, CMD-X", "pulled from rbxscr
 addscriptexist(10925589760, "Merge Simulator: Auto Buy Cooldown, Auto Tap, Auto Finish Obby", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Merge%20Simulator%20Auto%20Buy%20Cooldown%20Auto%20Tap%20Auto%20Finish%20Obby.lua")
 
 addscriptexist(2414851778, "Dungeon Quest!: Auto Farm, Super Fast Get Level 100", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Dungeon%20Quest%20Auto%20Farm%20Super%20Fast%20Get%20Level%20.lua")
+
+addscriptexist(286090429, "Arsenal: FOV, ESP & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Arsenal%20FOV%20ESP%20%20More.lua")
