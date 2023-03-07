@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:44:59"
+lastupdate = "GMT +1: 07.03.2023 21:45:03"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -3200,3 +3200,5 @@ addscriptexist(7346416636, "Pop It Trading: Auto Buy Items, Themes & More", "pul
 addscriptuniversal("Universal Hip Height, Max Health Changers", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Hip%20Height%20Max%20Health%20Changers.lua")
 
 addscriptexist(314927855, "Pillow Fight Simulator: Hitbox Expander, Sword Expander, Inf Yield", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pillow%20Fight%20Simulator%20Hitbox%20Expander%20Sword%20Expander%20Inf%20Yield.lua")
+
+addscriptexist(8438158667, "Slide House Tumble: Auto Farm, Get Speed Coil, Disable Ragdoll", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Slide%20House%20Tumble%20Auto%20Farm%20Get%20Speed%20Coil%20Disable%20Ragdoll.lua")
