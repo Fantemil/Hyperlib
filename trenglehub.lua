@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 15:48:28"
+lastupdate = "GMT +1: 07.03.2023 15:48:32"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -1330,3 +1330,5 @@ addscriptuniversal("Universal Aimbot", "pulled from rbxscript.com", "https://raw
 
 addscript(11334163219,"Current Game", "Anime Power Simulator - V3.0", "pulled from rscripts", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime%20Power%20Simulator%20%20V.lua")
 addscriptexist(7991339063, "Rainbow Friends: Get All, Esp & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Rainbow%20Friends%20Get%20All%20Esp%20%20More.lua")
+
+addscript(2248408710, "Current Game","Destruction Simulator: No Cooldown, Walkspeed, Jump Power", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Destruction%20Simulator%20No%20Cooldown%20Walkspeed%20Jump%20Power.lua")
