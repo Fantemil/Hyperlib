@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/FFJ1/Roblox-Exploits/main/scripts/aimbot.lua"))()
+loadstring(game:HttpGet("https://cdn.wearedevs.net/scripts/WRD Aimbot.txt"))()
