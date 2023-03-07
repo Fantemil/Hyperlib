@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:56:25"
+lastupdate = "GMT +1: 07.03.2023 21:56:29"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -3496,3 +3496,5 @@ addscript(7167319176, "Current Game","Chicago Remastered: Auto Pickup Guns", "pu
 addscriptexist(286090429, "Arsenal: Aimbot, ESP, Fov", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Arsenal%20Aimbot%20ESP%20Fov.lua")
 
 addscriptuniversal("Universal Unlcok Shiftlock, Unlock Camera Mode, Unlock Movement Mode", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Unlcok%20Shiftlock%20Unlock%20Camera%20Mode%20Unlock%20Movement%20Mode.lua")
+
+addscriptexist(11884594868, "Anime Defense Simulator: Auto Farm, Auto Noclip, Eggs", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime%20Defense%20Simulator%20Auto%20Farm%20Auto%20Noclip%20Eggs.lua")
