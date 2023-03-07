@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Aidanman14/VermillionHub/main/DBFRAutoGuantlet"))()
