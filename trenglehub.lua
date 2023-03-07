@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:12:18"
+lastupdate = "GMT +1: 07.03.2023 21:12:23"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -2300,3 +2300,5 @@ addscriptexist(6516141723, "DOORS: Morph", "pulled from rbxscript.com", "https:/
 addscriptexist(11345435986, "Chainsaw Man: Devil’s Heart: Esp", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Chainsaw%20Man%20Devils%20Heart%20Esp.lua")
 
 addscript(2746687316, "Current Game","Games Unite Testing Place: Esp", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Games%20Unite%20Testing%20Place%20Esp.lua")
+
+addscriptexist(9872472334, "Evade: Auto Farm Wins", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Evade%20Auto%20Farm%20Wins.lua")
