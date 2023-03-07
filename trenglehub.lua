@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:08:53"
+lastupdate = "GMT +1: 07.03.2023 21:09:00"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -2200,3 +2200,5 @@ addscriptexist(6735572261, "Pilgrammed: Auto Farm", "pulled from rbxscript.com",
 addscriptexist(6516141723, "DOORS: Entity Spawner", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DOORS%20Entity%20Spawner.lua")
 
 addscriptexist(8821374215, "Saisei: Fast Swing, No Stun, Range OP", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Saisei%20Fast%20Swing%20No%20Stun%20Range%20OP.lua")
+
+addscriptexist(11746859781, "Bubble Gum Clicker: Auto Spin Wheel, Auto Click, Auto Claim Daily", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Bubble%20Gum%20Clicker%20Auto%20Spin%20Wheel%20Auto%20Click%20Auto%20Claim%20Daily.lua")
