@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 22:07:27"
+lastupdate = "GMT +1: 07.03.2023 22:07:31"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -3816,3 +3816,5 @@ addscriptexist(6875469709, "STRONGEST PUNCH SIMULATOR: Auto Punch, Auto Farm, Au
 addscriptexist(286090429, "Arsenal: Silent Aim, FOV", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Arsenal%20Silent%20Aim%20FOV.lua")
 
 addhub("Kyoichi Hub: Key Bypassed", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Kyoichi%20Hub%20Key%20Bypassed.lua")
+
+addscriptexist(6777872443, "Pixel Piece: Infinite Dash, No Cooldown Dash", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pixel%20Piece%20Infinite%20Dash%20No%20Cooldown%20Dash.lua")
