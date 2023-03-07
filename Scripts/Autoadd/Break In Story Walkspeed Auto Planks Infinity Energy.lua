@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://raw.githubusercontent.com/VinegarBigBoy/Darkie-G/main/Break%20In%20Updated'))()
