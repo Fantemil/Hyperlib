@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 20:56:42"
+lastupdate = "GMT +1: 07.03.2023 20:56:46"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -1844,3 +1844,5 @@ addscriptuniversal("Universal: Teleports GUI", "pulled from rbxscript.com", "htt
 addscriptexist(5780309044, "Stands Awakening: Jumppower, Auto Farm Players, Brightness", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Stands%20Awakening%20Jumppower%20Auto%20Farm%20Players%20Brightness.lua")
 
 addscriptexist(5130598377, "A Universal Time: Teleports, Inf Jump & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/A%20Universal%20Time%20Teleports%20Inf%20Jump%20%20More.lua")
+
+addscript(7232779505, "Current Game","Type Race: AutoFarm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Type%20Race%20AutoFarm.lua")
