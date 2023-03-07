@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/lobox920/Altraxs-Hub/main/Loader.lua", true))()
+loadstring(game:HttpGet('https://raw.githubusercontent.com/IceMinisterq/Altraxs-Hub/main/ER%3ALC'))()
