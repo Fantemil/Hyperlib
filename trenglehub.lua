@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:35:04"
+lastupdate = "GMT +1: 07.03.2023 21:35:08"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -2910,3 +2910,5 @@ addscriptuniversal("Universal Shiftlock Unlcok", "pulled from rbxscript.com", "h
 addscriptuniversal("Roblox: SimpleSpy v3", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Roblox%20SimpleSpy%20v.lua")
 
 addscriptexist(9655469250, "EarthScape Tycoon: Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/EarthScape%20Tycoon%20Auto%20Farm.lua")
+
+addscript(3099809263, "Current Game","Arcane Reborn: Chest Minimap", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Arcane%20Reborn%20Chest%20Minimap.lua")
