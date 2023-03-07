@@ -1,0 +1,1 @@
+for i, v in pairs(game:GetService("ReplicatedStorage").BadgeRemotes:GetChildren()) do v:FireServer() end
