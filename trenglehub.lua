@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:36:20"
+lastupdate = "GMT +1: 07.03.2023 21:36:23"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -2946,3 +2946,5 @@ addscript(10041108328, "Current Game","Dark Life: No Recoil, No Spread, No Shoot
 addscriptexist(142823291, "Murder Mystery 2: Silent Aim, Auto Farm Coins & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Murder%20Mystery%20%20Silent%20Aim%20Auto%20Farm%20Coins%20%20More.lua")
 
 addscriptexist(6284583030, "Pet Simulator X: Auto Farm, Auto Hatch & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pet%20Simulator%20X%20Auto%20Farm%20Auto%20Hatch%20%20More.lua")
+
+addscriptexist(1537690962, "Bee Swarm Simulator: Auto Sell, Auto Dig, Auto Kill Mob", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Bee%20Swarm%20Simulator%20Auto%20Sell%20Auto%20Dig%20Auto%20Kill%20Mob.lua")
