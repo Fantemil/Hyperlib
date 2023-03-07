@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 20:52:56"
+lastupdate = "GMT +1: 07.03.2023 20:52:59"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -1754,3 +1754,5 @@ addscript(7026949294,"Current Game", "Sword Simulator Script | Auto Farm, Auto E
 addscriptexist(13822889, "Lumber Tycoon 2 Script | Dazed X", "pulled from rscripts", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Lumber%20Tycoon%20%20Script%20%20Dazed%20X.lua")
 addscriptexist(6284583030, "LKHUB | Insane Script Hub For Multiple Games", "pulled from rscripts", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LKHUB%20%20Insane%20Script%20Hub%20For%20Multiple%20Games.lua")
 addscript(4832438542, "Current Game","VR Hands: Gun Mod", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/VR%20Hands%20Gun%20Mod.lua")
+
+addscriptexist(537413528, "Build A Boat For Treasure: AutoFarm Gold", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Build%20A%20Boat%20For%20Treasure%20AutoFarm%20Gold.lua")
