@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:27:12"
+lastupdate = "GMT +1: 07.03.2023 21:27:16"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -2686,3 +2686,5 @@ addscriptexist(11939339894, "be a dad and get milk simulator: Auto Collect Money
 addscriptexist(6741970382, "Zombie lab: Kill All", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Zombie%20lab%20Kill%20All.lua")
 
 addscriptexist(3101667897, "Legends Of Speed: Auto Farm, Auto Speed, Auto Gems", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Legends%20Of%20Speed%20Auto%20Farm%20Auto%20Speed%20Auto%20Gems.lua")
+
+addscriptexist(9498006165, "Tapping Simulator: Auto Tap, Auto Pet, Auto rebirth", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tapping%20Simulator%20Auto%20Tap%20Auto%20Pet%20Auto%20rebirth.lua")
