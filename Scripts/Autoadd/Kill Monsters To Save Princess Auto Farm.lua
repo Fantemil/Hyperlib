@@ -1,1 +1,3 @@
- loadstring(game:HttpGet("https://raw.githubusercontent.com/OneProtocol/Project/main/Loader", true))()
+while wait(0.01) do
+    game:GetService("ReplicatedStorage").Remote.Weapon.TakeDamage:FireServer()
+end
