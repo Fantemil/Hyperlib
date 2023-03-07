@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:00:10"
+lastupdate = "GMT +1: 07.03.2023 21:00:14"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -1942,3 +1942,5 @@ addscriptexist(920587237, "Adopt Me: Auto Buy, Auto Trade, Jumppower", "pulled f
 addhub("Speed X Hub: 10+ Games", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Speed%20X%20Hub%20%20Games.lua")
 
 addscriptexist(6516141723, "DOORS: Auto Skip Levels, Fullbright, Skip Level", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DOORS%20Auto%20Skip%20Levels%20Fullbright%20Skip%20Level.lua")
+
+addscriptexist(6284583030, "Pet Simulator X: AutoFarm, Auto Hatch & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pet%20Simulator%20X%20AutoFarm%20Auto%20Hatch%20%20More.lua")
