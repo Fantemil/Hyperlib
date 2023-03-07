@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:46:16"
+lastupdate = "GMT +1: 07.03.2023 21:46:20"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -3238,3 +3238,5 @@ addscriptexist(4490140733, "My Restaurant: Teleports, Faster Workers", "pulled f
 addscriptuniversal("Universal Find Remotes Using Getgc", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Find%20Remotes%20Using%20Getgc.lua")
 
 addscript(11756661207, "Current Game","Stairs Of RAGE: Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Stairs%20Of%20RAGE%20Auto%20Farm.lua")
+
+addscriptexist(2753915549, "Blox FruitsL Auto Find Fruits with Server Hop", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blox%20FruitsL%20Auto%20Find%20Fruits%20with%20Server%20Hop.lua")
