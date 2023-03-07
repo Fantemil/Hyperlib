@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:21:17"
+lastupdate = "GMT +1: 07.03.2023 21:21:23"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -2548,3 +2548,5 @@ addscriptexist(7056922815, "Reaper 2: Auto Farm Mobs, Get Quests & More", "pulle
 addscriptexist(5780309044, "Stands Awakening: Farm Items, Infinite Rokaka, Infinite Arrow", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Stands%20Awakening%20Farm%20Items%20Infinite%20Rokaka%20Infinite%20Arrow.lua")
 
 addscriptexist(7732789524, "Neo Soccer League: Godmode, ESP, Walkspeed", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Neo%20Soccer%20League%20Godmode%20ESP%20Walkspeed.lua")
+
+addscriptexist(10198661638, "Farm Factory Tycoon: Infinity Money", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Farm%20Factory%20Tycoon%20Infinity%20Money.lua")
