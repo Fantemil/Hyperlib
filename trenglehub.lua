@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:25:08"
+lastupdate = "GMT +1: 07.03.2023 21:25:11"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -2630,3 +2630,5 @@ addscriptexist(9992339729, "Longest Answer Wins: Auto Answer Each Question", "pu
 addscriptexist(11196588443, "Zombie Merge Tycoon: Kill All Players & Zombies", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Zombie%20Merge%20Tycoon%20Kill%20All%20Players%20%20Zombies.lua")
 
 addscriptexist(370731277, "Meep City: Auto Farm, Free Gamepasses & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Meep%20City%20Auto%20Farm%20Free%20Gamepasses%20%20More.lua")
+
+addscriptexist(142823291, "Murder Mystery 2: ESP, Jumppower, Infinity Jump", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Murder%20Mystery%20%20ESP%20Jumppower%20Infinity%20Jump.lua")
