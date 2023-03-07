@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:56:21"
+lastupdate = "GMT +1: 07.03.2023 21:56:25"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -3494,3 +3494,5 @@ addscriptexist(2534724415, "Emergency Response Liberty County: Full Anti Cheat B
 addscript(7167319176, "Current Game","Chicago Remastered: Auto Pickup Guns", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Chicago%20Remastered%20Auto%20Pickup%20Guns.lua")
 
 addscriptexist(286090429, "Arsenal: Aimbot, ESP, Fov", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Arsenal%20Aimbot%20ESP%20Fov.lua")
+
+addscriptuniversal("Universal Unlcok Shiftlock, Unlock Camera Mode, Unlock Movement Mode", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Unlcok%20Shiftlock%20Unlock%20Camera%20Mode%20Unlock%20Movement%20Mode.lua")
