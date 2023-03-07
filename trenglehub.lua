@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 22:21:08"
+lastupdate = "GMT +1: 07.03.2023 22:21:11"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -4208,3 +4208,5 @@ addscriptexist(11334163219, "Anime Power Simulator: Auto Farm, Auto Skill, Auto 
 addscript(5712833750, "Current Game","Animal Simulator: Auto Give Coins, Auto Give Exp & More!", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Animal%20Simulator%20Auto%20Give%20Coins%20Auto%20Give%20Exp%20%20More.lua")
 
 addscript(9207492417, "Current Game","Rogue Nightmare: Auto Heavy Attack & More!", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Rogue%20Nightmare%20Auto%20Heavy%20Attack%20%20More.lua")
+
+addscriptexist(11302865934, "Every Second You Get +1 Health: Auto Farm Wins", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Every%20Second%20You%20Get%20%20Health%20Auto%20Farm%20Wins.lua")
