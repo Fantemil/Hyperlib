@@ -1,0 +1,11 @@
+function OnAdded()
+ repeat task.wait() until game:GetService("Players").LocalPlayer.Character and game:GetService("Players").LocalPlayer.Character:FindFirstChildOfClass("Humanoid")
+ firetouchinterest(game:GetService("Players").LocalPlayer.Character.HumanoidRootPart,game:GetService("Workspace").Wins.Pipe,0)
+ firetouchinterest(game:GetService("Players").LocalPlayer.Character.HumanoidRootPart,game:GetService("Workspace").Wins.Pipe,1)
+ wait(.3)
+ game:GetService("Players").LocalPlayer.Character:FindFirstChildOfClass("Humanoid"):ChangeState(15)
+end
+OnAdded()
+game:GetService("Players").LocalPlayer.CharacterAdded:Connect(function(c)
+ OnAdded()
+end)
