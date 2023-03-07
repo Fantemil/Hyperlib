@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:42:58"
+lastupdate = "GMT +1: 07.03.2023 21:43:02"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -3140,3 +3140,5 @@ addscriptuniversal("Universal Aimbot, FOV, Wallcheck", "pulled from rbxscript.co
 addscriptexist(301549746, "Counter Blox: No Fire Damage, Auto Hop & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Counter%20Blox%20No%20Fire%20Damage%20Auto%20Hop%20%20More.lua")
 
 addscript(10660791703, "Current Game","cart ride around nothing: Nuker Server", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/cart%20ride%20around%20nothing%20Nuker%20Server.lua")
+
+addscript(2732246600, "Current Game","Bloody Battle: Get Ticker", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Bloody%20Battle%20Get%20Ticker.lua")
