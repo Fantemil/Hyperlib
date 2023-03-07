@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 22:03:03"
+lastupdate = "GMT +1: 07.03.2023 22:03:07"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -3688,3 +3688,5 @@ addscript(5965591336, "Current Game","Soul War: Auto Exam Solver", "pulled from 
 addscriptexist(4522347649, "FREE ADMIN: Loop Cmd All, String, Spam Cmds", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FREE%20ADMIN%20Loop%20Cmd%20All%20String%20Spam%20Cmds.lua")
 
 addscript(218377574, "Current Game","Admin Simulator: Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Admin%20Simulator%20Auto%20Farm.lua")
+
+addscriptexist(10704789056, "Drive World: Fast Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Drive%20World%20Fast%20Auto%20Farm.lua")
