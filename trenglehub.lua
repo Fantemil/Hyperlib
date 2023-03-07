@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:01:22"
+lastupdate = "GMT +1: 07.03.2023 21:01:27"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -1978,3 +1978,5 @@ addscriptexist(9796685905, "Super Hero Race Clicker: Free Gamepasses, Auto Farm 
 addscriptexist(3297964905, "Weaponry: Auto Kill, Esp, Walkspeed", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Weaponry%20Auto%20Kill%20Esp%20Walkspeed.lua")
 
 addscriptexist(5926001758, "Color Block: Inf Jump, Click TP, Speed Hack", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Color%20Block%20Inf%20Jump%20Click%20TP%20Speed%20Hack.lua")
+
+addscriptuniversal("Universal For Realium Chat Bypasser", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20For%20Realium%20Chat%20Bypasser.lua")
