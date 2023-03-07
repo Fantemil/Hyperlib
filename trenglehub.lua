@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:52:01"
+lastupdate = "GMT +1: 07.03.2023 21:52:05"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -3400,3 +3400,5 @@ addscriptexist(11874473440, "Car Factory Tycoon: Mod Car, Auto Farm, Tp", "pulle
 addscriptexist(11542692507, "Anime Souls Simulator: Auto Quest", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime%20Souls%20Simulator%20Auto%20Quest.lua")
 
 addscriptexist(4783966408, "Plates of Fate: Remastered: Minesweeper Solver", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Plates%20of%20Fate%20Remastered%20Minesweeper%20Solver.lua")
+
+addscriptexist(662417684, "LUCKY BLOCKS Battlegrounds: Fly, Spawn Blocks, Tp Tool", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LUCKY%20BLOCKS%20Battlegrounds%20Fly%20Spawn%20Blocks%20Tp%20Tool.lua")
