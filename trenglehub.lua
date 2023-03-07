@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 15:44:11"
+lastupdate = "GMT +1: 07.03.2023 15:44:15"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -1172,3 +1172,5 @@ addscriptexist(10704789056, "Drive World AUTOFARM 100% FREE OP!", "pulled from r
 addscript(379614936, "Current Game","Assassin: Esp, Infinite Jump, Walkhack & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Assassin%20Esp%20Infinite%20Jump%20Walkhack%20%20More.lua")
 
 addscriptexist(9872472334, "Evade: Godmode, ESP, Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Evade%20Godmode%20ESP%20Auto%20Farm.lua")
+
+addscript(183364845,"Current Game", "New Speed Run 4 Script", "pulled from rscripts", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/New%20Speed%20Run%20%20Script.lua")
