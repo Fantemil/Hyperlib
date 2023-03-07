@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:01:27"
+lastupdate = "GMT +1: 07.03.2023 21:01:31"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -1980,3 +1980,5 @@ addscriptexist(3297964905, "Weaponry: Auto Kill, Esp, Walkspeed", "pulled from r
 addscriptexist(5926001758, "Color Block: Inf Jump, Click TP, Speed Hack", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Color%20Block%20Inf%20Jump%20Click%20TP%20Speed%20Hack.lua")
 
 addscriptuniversal("Universal For Realium Chat Bypasser", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20For%20Realium%20Chat%20Bypasser.lua")
+
+addscriptexist(2548157192, "Funeral Home and Graveyard: Break the Game", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Funeral%20Home%20and%20Graveyard%20Break%20the%20Game.lua")
