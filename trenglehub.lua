@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:39:09"
+lastupdate = "GMT +1: 07.03.2023 21:39:14"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -3026,3 +3026,5 @@ addscript(3177438863, "Current Game","Dragon Blox: Auto Mob, Auto Boss, Auto Reb
 addscriptexist(5130598377, "A Universal Time: God Mode, Auto Chests, Auto Mentor & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/A%20Universal%20Time%20God%20Mode%20Auto%20Chests%20Auto%20Mentor%20%20More.lua")
 
 addscript(2569453732, "Current Game","Rise Of Nations: Sell Electronics, Loop Puppet Request, Buy All Resources", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Rise%20Of%20Nations%20Sell%20Electronics%20Loop%20Puppet%20Request%20Buy%20All%20Resources.lua")
+
+addscript(11760692772, "Current Game","Sling Race: Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sling%20Race%20Auto%20Farm.lua")
