@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:34:10"
+lastupdate = "GMT +1: 07.03.2023 21:34:17"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -2884,3 +2884,5 @@ addscriptexist(183364845, "Speed Run 4: Auto Farm Level, Give All", "pulled from
 addscriptexist(893973440, "Flee The Facility: Player Esp, Door Esp, Computer Esp & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Flee%20The%20Facility%20Player%20Esp%20Door%20Esp%20Computer%20Esp%20%20More.lua")
 
 addscriptexist(11620947043, "Flappy Clicker: Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Flappy%20Clicker%20Auto%20Farm.lua")
+
+addscriptexist(7056922815, "Reaper 2: Auto Farm Mobs, Bosses & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Reaper%20%20Auto%20Farm%20Mobs%20Bosses%20%20More.lua")
