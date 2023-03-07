@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Untoast/Obby-but-you-re-a-ball/main/Obby%20but%20you're%20a%20ball%20GUI.lua", true))()
