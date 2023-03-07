@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 22:32:25"
+lastupdate = "GMT +1: 07.03.2023 22:32:29"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -4498,3 +4498,5 @@ addscriptexist(8657766101, "Marvellous Playground: No cooldown keybind", "pulled
 addscript(11646284046, "Current Game","Dino Island Tycoon: Auto Farm, Auto Collect, Auto Deposit", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Dino%20Island%20Tycoon%20Auto%20Farm%20Auto%20Collect%20Auto%20Deposit.lua")
 
 addscriptexist(6918802270, "Project New World: Auto Quest, Auto Stats, Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Project%20New%20World%20Auto%20Quest%20Auto%20Stats%20Auto%20Farm.lua")
+
+addscriptexist(6918802270, "Project New World: Level Farm, Auto Quest, KillAura", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Project%20New%20World%20Level%20Farm%20Auto%20Quest%20KillAura.lua")
