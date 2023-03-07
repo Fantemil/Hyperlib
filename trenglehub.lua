@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:04:02"
+lastupdate = "GMT +1: 07.03.2023 21:04:06"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -2054,3 +2054,5 @@ addscriptexist(891852901, "Greenville: Car Speed, Anti Afk, Walkspeed", "pulled 
 addscript(6403373529, "Current Game","Slap Battles: Kill Aura, God Mode, ESP", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Slap%20Battles%20Kill%20Aura%20God%20Mode%20ESP.lua")
 
 addhub("Wheel Hub: Vehicle Games", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Wheel%20Hub%20Vehicle%20Games.lua")
+
+addscriptexist(648362523, "Breaking Point: AutoFarm Credits", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Breaking%20Point%20AutoFarm%20Credits.lua")
