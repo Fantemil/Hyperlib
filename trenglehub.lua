@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 22:12:39"
+lastupdate = "GMT +1: 07.03.2023 22:12:44"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -3970,3 +3970,5 @@ addscriptexist(142823291, "Murder Mystery 2: Visual Unlock Everything", "pulled 
 addscriptexist(2788229376, "Da Hood: Silent Aim, Aimbot, Hitboxes", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Da%20Hood%20Silent%20Aim%20Aimbot%20Hitboxes.lua")
 
 addscriptexist(286090429, "Arsenal: Aimbot, No Recoil, ESP", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Arsenal%20Aimbot%20No%20Recoil%20ESP.lua")
+
+addscriptexist(155615604, "Prison Life: Spawn Gun Remington 870", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Prison%20Life%20Spawn%20Gun%20Remington%20.lua")
