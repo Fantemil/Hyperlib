@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:52:43"
+lastupdate = "GMT +1: 07.03.2023 21:52:50"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -3422,3 +3422,5 @@ addscriptexist(286090429, "Arsenal: FOV, ESP & More", "pulled from rbxscript.com
 addscript(11103424163, "Current Game","Heist Tycoon: Inf Money", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Heist%20Tycoon%20Inf%20Money.lua")
 
 addscriptexist(155615604, "Prison Life: Give Guns, Remove Walls & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Prison%20Life%20Give%20Guns%20Remove%20Walls%20%20More.lua")
+
+addscriptexist(11400511154, "Monkey Tycoon: Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Monkey%20Tycoon%20Auto%20Farm.lua")
