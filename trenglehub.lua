@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 22:22:19"
+lastupdate = "GMT +1: 07.03.2023 22:22:22"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -4242,3 +4242,5 @@ addscriptexist(893973440, "Flee the Facility: Crawl As Beast, Unlock Camera, ESP
 addhub("Universal ESP, Remove Fog, Respawn", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20ESP%20Remove%20Fog%20Respawn.lua")
 
 addscriptuniversal("Universal Fe Btools R6 Only", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Fe%20Btools%20R%20Only.lua")
+
+addscriptexist(654732683, "Car Crushers 2: OP Car", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Car%20Crushers%20%20OP%20Car.lua")
