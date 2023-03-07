@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:55:50"
+lastupdate = "GMT +1: 07.03.2023 21:55:54"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -3480,3 +3480,5 @@ addscriptexist(2788229376, "Da Hood: ESP, Go To & More", "pulled from rbxscript.
 addscriptexist(142823291, "Murder Mystery 2: Huge Leg Kill All, Silent Aim", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Murder%20Mystery%20%20Huge%20Leg%20Kill%20All%20Silent%20Aim.lua")
 
 addscriptexist(11874473440, "Car Factory Tycoon: Auto Farm, Auto Sell, Auto Fill", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Car%20Factory%20Tycoon%20Auto%20Farm%20Auto%20Sell%20Auto%20Fill.lua")
+
+addscript(11700520283, "Current Game","Loooptopia: Get Items Instantly", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Loooptopia%20Get%20Items%20Instantly.lua")
