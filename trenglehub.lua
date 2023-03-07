@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 22:18:21"
+lastupdate = "GMT +1: 07.03.2023 22:18:24"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -4124,3 +4124,5 @@ addscriptexist(3527629287, "Big Paintball: Fake own all guns", "pulled from rbxs
 addscriptuniversal("Universal Chat Bot, Auto Respond", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Chat%20Bot%20Auto%20Respond.lua")
 
 addscriptuniversal("Universal Auto Say The Bible", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Auto%20Say%20The%20Bible.lua")
+
+addscriptexist(5965591336, "Soul War: Auto Stats, Auto Farm & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Soul%20War%20Auto%20Stats%20Auto%20Farm%20%20More.lua")
