@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 20:59:16"
+lastupdate = "GMT +1: 07.03.2023 20:59:19"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -1918,3 +1918,5 @@ addscriptexist(2753915549, "Blox Fruits: Auto Farm Level, Kill Aura & More", "pu
 addscriptexist(205224386, "Hide and Seek Extreme: ESP, Auto Win, Collect Coins", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Hide%20and%20Seek%20Extreme%20ESP%20Auto%20Win%20Collect%20Coins.lua")
 
 addhub("NiFox Hub: 3+ Games", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NiFox%20Hub%20%20Games.lua")
+
+addscript(11227688003, "Current Game","Every Second You Get Smarter: Auto Collect", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Every%20Second%20You%20Get%20Smarter%20Auto%20Collect.lua")
