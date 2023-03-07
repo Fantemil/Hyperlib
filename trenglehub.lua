@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 22:20:23"
+lastupdate = "GMT +1: 07.03.2023 22:20:27"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -4184,3 +4184,5 @@ addscriptexist(3475397644, "Dragon Adventures: Auto Incubate, Fly & More", "pull
 addscriptexist(11800876530, "+1 Blocks Every Second: AutoFarm, Auto Place, Auto Rebirth", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/%20Blocks%20Every%20Second%20AutoFarm%20Auto%20Place%20Auto%20Rebirth.lua")
 
 addscriptexist(11756661207, "Stairs Of RAGE: Ignore Colors", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Stairs%20Of%20RAGE%20Ignore%20Colors.lua")
+
+addscriptexist(11746859781, "Bubble Gum Clicker: Auto Farm, Auto Bubble, Auto Sell", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Bubble%20Gum%20Clicker%20Auto%20Farm%20Auto%20Bubble%20Auto%20Sell.lua")
