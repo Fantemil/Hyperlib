@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 22:10:32"
+lastupdate = "GMT +1: 07.03.2023 22:10:36"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -3908,3 +3908,5 @@ addscriptexist(3101667897, "Legends Of Speed: Auto Farm Steps, Auto Farm Hoops, 
 addscript(9103898828, "Current Game","Rogue Demon: No Cooldown, Killaura, Godmode", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Rogue%20Demon%20No%20Cooldown%20Killaura%20Godmode.lua")
 
 addscript(7503115095, "Current Game","Pop It Trading: Dupe any items", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pop%20It%20Trading%20Dupe%20any%20items.lua")
+
+addscriptuniversal("Universal Aimbot, Wallcheck, Team Check", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Aimbot%20Wallcheck%20Team%20Check.lua")
