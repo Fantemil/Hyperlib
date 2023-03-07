@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 22:05:00"
+lastupdate = "GMT +1: 07.03.2023 22:05:06"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -3744,3 +3744,5 @@ addscript(4934471106, "Current Game","My Hero Mania: Auto mob, Auto Attack, Auto
 addscriptexist(2788229376, "Da Hood: Silent Aim To Closest Point", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Da%20Hood%20Silent%20Aim%20To%20Closest%20Point.lua")
 
 addscript(9742783208, "Current Game","Raise a Yippee: Auto Clicker, Auto Collector, Auto Food", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Raise%20a%20Yippee%20Auto%20Clicker%20Auto%20Collector%20Auto%20Food.lua")
+
+addscriptexist(6284583030, "Pet Simulator X: Auto Hatch Pets, Auto Farm Coins, Redeem Codes", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pet%20Simulator%20X%20Auto%20Hatch%20Pets%20Auto%20Farm%20Coins%20Redeem%20Codes.lua")
