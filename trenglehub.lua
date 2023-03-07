@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:29:00"
+lastupdate = "GMT +1: 07.03.2023 21:29:04"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -2738,3 +2738,5 @@ addscriptexist(2788229376, "Da Hood: Anti Cheat Bypass", "pulled from rbxscript.
 addscript(12017032683, "Current Game","096 [SCP]: Never get Hunger", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/%20SCP%20Never%20get%20Hunger.lua")
 
 addscriptexist(189707, "Natural Disaster Survival: AutoFarm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Natural%20Disaster%20Survival%20AutoFarm.lua")
+
+addscript(6229116934, "Current Game","Hoopz: Auto Click, Reach, Auto Move", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Hoopz%20Auto%20Click%20Reach%20Auto%20Move.lua")
