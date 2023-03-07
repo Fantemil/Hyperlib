@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:17:50"
+lastupdate = "GMT +1: 07.03.2023 21:17:54"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -2448,3 +2448,5 @@ addscript(901793731, "Current Game","D-DAY: Silent Aim", "pulled from rbxscript.
 addscriptexist(301549746, "Counter Blox: Rapid Fire, No Recoil, No Spread", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Counter%20Blox%20Rapid%20Fire%20No%20Recoil%20No%20Spread.lua")
 
 addscriptexist(2474168535, "Westbound: Gun Mods, Silent Aim & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Westbound%20Gun%20Mods%20Silent%20Aim%20%20More.lua")
+
+addscriptuniversal("Universal Beautiful colors", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Beautiful%20colors.lua")
