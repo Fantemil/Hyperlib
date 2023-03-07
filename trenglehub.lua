@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 20:53:55"
+lastupdate = "GMT +1: 07.03.2023 20:53:59"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -1764,3 +1764,5 @@ addscriptuniversal("Universal Webhook Manager", "pulled from rbxscript.com", "ht
 addscriptexist(9872472334, "Evade: Auto Win, Auto Farm Valentines", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Evade%20Auto%20Win%20Auto%20Farm%20Valentines.lua")
 
 addscriptexist(1554960397, "Car Dealership Tycoon: Walkspeed, Jump Power, Teleports", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Car%20Dealership%20Tycoon%20Walkspeed%20Jump%20Power%20Teleports.lua")
+
+addscript(9733390246, "Current Game","Stair Tappers: Auto Tap", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Stair%20Tappers%20Auto%20Tap.lua")
