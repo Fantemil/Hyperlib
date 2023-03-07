@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:53:42"
+lastupdate = "GMT +1: 07.03.2023 21:53:46"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -3450,3 +3450,5 @@ addscriptexist(9872472334, "Evade: Autofarm wins", "pulled from rbxscript.com", 
 addscriptexist(5865858426, "Retail Tycoon 2: Clock Hub", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Retail%20Tycoon%20%20Clock%20Hub.lua")
 
 addhub("Fring Hub: 15+ Games", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Fring%20Hub%20%20Games.lua")
+
+addscriptexist(11746859781, "Bubble Gum Clicker: Auto Click, Auto Sell, Auto Claim Rewards", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Bubble%20Gum%20Clicker%20Auto%20Click%20Auto%20Sell%20Auto%20Claim%20Rewards.lua")
