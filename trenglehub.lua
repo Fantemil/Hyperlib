@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 22:14:21"
+lastupdate = "GMT +1: 07.03.2023 22:14:25"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -4016,3 +4016,5 @@ addhub("Gaming Hub: 40+ Games", "pulled from rbxscript.com", "https://raw.github
 addscriptexist(10925589760, "Merge Simulator: Auto Tap, Auto Merge, Auto Rebirth", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Merge%20Simulator%20Auto%20Tap%20Auto%20Merge%20Auto%20Rebirth.lua")
 
 addscript(5939428933, "Current Game","Crewmates!: Invisible, Ghost", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Crewmates%20Invisible%20Ghost.lua")
+
+addscriptexist(2788229376, "Da Hood: Auto Box", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Da%20Hood%20Auto%20Box.lua")
