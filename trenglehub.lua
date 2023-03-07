@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 22:03:56"
+lastupdate = "GMT +1: 07.03.2023 22:04:00"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -3714,3 +3714,5 @@ addscriptuniversal("Roblox: Universal Common Utilities V1.0.1", "pulled from rbx
 addscript(6764533218, "Current Game","Washiez: Ruin the game, Fling all player", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Washiez%20Ruin%20the%20game%20Fling%20all%20player.lua")
 
 addscriptexist(10895555747, "Walmart Land: Token Auto Farm, Fling Players, Rejoin", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Walmart%20Land%20Token%20Auto%20Farm%20Fling%20Players%20Rejoin.lua")
+
+addscriptexist(11400511154, "Monkey Tycoon: Auto Collect Bananas, Auto Deposit Bananas, Auto Buy Monkeys", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Monkey%20Tycoon%20Auto%20Collect%20Bananas%20Auto%20Deposit%20Bananas%20Auto%20Buy%20Monkeys.lua")
