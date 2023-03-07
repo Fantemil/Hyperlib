@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:14:46"
+lastupdate = "GMT +1: 07.03.2023 21:14:50"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -2370,3 +2370,5 @@ addscriptexist(2866967438, "Fishing Simulator: Auto Farm", "pulled from rbxscrip
 addscriptexist(8568266872, "Kill Monsters To Save Princess: Auto Waves, Insta Kill, Auto Egg, Auto Skill", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Kill%20Monsters%20To%20Save%20Princess%20Auto%20Waves%20Insta%20Kill%20Auto%20Egg%20Auto%20Skill.lua")
 
 addscriptexist(10704789056, "Drive World: Car Speed, Auto Farm, Walkspeed", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Drive%20World%20Car%20Speed%20Auto%20Farm%20Walkspeed.lua")
+
+addscriptexist(292439477, "Phantom Forces: Walkspeed, Gravity, No Fall Damage", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Phantom%20Forces%20Walkspeed%20Gravity%20No%20Fall%20Damage.lua")
