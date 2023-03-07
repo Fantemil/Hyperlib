@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 20:54:12"
+lastupdate = "GMT +1: 07.03.2023 20:54:17"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -1772,3 +1772,5 @@ addscript(914010731, "Current Game","Ro-Ghoul: Auto Skills, Auto Farm", "pulled 
 addscriptexist(3527629287, "Big Paintball: Kill All, Fly, Esp", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Big%20Paintball%20Kill%20All%20Fly%20Esp.lua")
 
 addscriptexist(370731277, "MeepCity: Teleports, Rejoin, Big Head", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MeepCity%20Teleports%20Rejoin%20Big%20Head.lua")
+
+addscriptexist(3272915504, "Arcane Odyssey: Kill Aura, Chest Farm, Auto Farm Pirates", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Arcane%20Odyssey%20Kill%20Aura%20Chest%20Farm%20Auto%20Farm%20Pirates.lua")
