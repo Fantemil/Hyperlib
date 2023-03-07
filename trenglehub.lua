@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:45:24"
+lastupdate = "GMT +1: 07.03.2023 21:45:28"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -3212,3 +3212,5 @@ addscriptexist(10704789056, "Drive World: Auto Farm", "pulled from rbxscript.com
 addscriptuniversal("Universal Custom Synapse V3 Error Handler", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Custom%20Synapse%20V%20Error%20Handler.lua")
 
 addscriptexist(23578803, "Hotel Elephant: Make Server Fricked", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Hotel%20Elephant%20Make%20Server%20Fricked.lua")
+
+addscriptexist(11746859781, "Bubble Gum Clicker: Auto Farm Bubbles, Farm Pickups", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Bubble%20Gum%20Clicker%20Auto%20Farm%20Bubbles%20Farm%20Pickups.lua")
