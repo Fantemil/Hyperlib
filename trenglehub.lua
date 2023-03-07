@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 22:12:03"
+lastupdate = "GMT +1: 07.03.2023 22:12:07"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -3952,3 +3952,5 @@ addscriptexist(6516141723, "DOORS: Key Aura, Book Aura, Notifier", "pulled from 
 addscript(8657766101, "Current Game","Marvellous Playground: Unlock All Characters", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Marvellous%20Playground%20Unlock%20All%20Characters.lua")
 
 addscriptexist(8737602449, "PLS DONATE: Walk On Walls, Anit Afk, Invisible", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PLS%20DONATE%20Walk%20On%20Walls%20Anit%20Afk%20Invisible.lua")
+
+addscriptexist(2753915549, "Blox Fruits: AutoFarm, Auto Stats, Teleports", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blox%20Fruits%20AutoFarm%20Auto%20Stats%20Teleports.lua")
