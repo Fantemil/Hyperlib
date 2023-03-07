@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:57:13"
+lastupdate = "GMT +1: 07.03.2023 21:57:16"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -3520,3 +3520,5 @@ addscriptexist(6679968919, "Fly Race: Auto Grab Orbs, Auto Rebirth & More", "pul
 addscriptexist(11302865934, "Every Second You Get +1 Health: Auto Farm Bost Buttons, Teleport to Player, Walkspeed Slider", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Every%20Second%20You%20Get%20%20Health%20Auto%20Farm%20Bost%20Buttons%20Teleport%20to%20Player%20Walkspeed%20Slider.lua")
 
 addscriptexist(6918802270, "Project New World: Kill Aura, Farm Chest, Farm Mob", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Project%20New%20World%20Kill%20Aura%20Farm%20Chest%20Farm%20Mob.lua")
+
+addscriptexist(142823291, "Murder Mystery 2: Auto Farm, Godmode, Invis god", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Murder%20Mystery%20%20Auto%20Farm%20Godmode%20Invis%20god.lua")
