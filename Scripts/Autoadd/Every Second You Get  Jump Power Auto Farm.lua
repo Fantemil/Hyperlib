@@ -1,9 +1,15 @@
-local plr = game:GetService("Players").LocalPlayer
-while wait(1) do
-    if plr.leaderstats.Wins.Value == plr.requiredwins.value then
-        game:GetService("ReplicatedStorage"):WaitForChild("RebirthEvent"):FireServer()
-        print("Rebirthed!")
-    else
-        game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(194584.453, 122862.148, 326.917)
+getgenv().farm = true
+task.spawn(function()
+local pp = game.Players.LocalPlayer.Character.Head
+while task.wait() do
+    if not getgenv().farm then break end
+for i, v in pairs(game:GetService("Workspace").Wins.World10:GetDescendants()) do
+    if v.Name == "TouchInterest" and v.Parent then
+        firetouchinterest(pp, v.Parent, 0)
+        wait(0.1)
+        firetouchinterest(pp, v.Parent, 1)
+        break
     end
 end
+end
+end)
