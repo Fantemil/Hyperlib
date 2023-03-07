@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 22:07:56"
+lastupdate = "GMT +1: 07.03.2023 22:08:00"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -3830,3 +3830,5 @@ addhub("BatuhanG Hub: 17 Games", "pulled from rbxscript.com", "https://raw.githu
 addscriptexist(11400511154, "Monkey Tycoon: Auto Collect, Deposit, Walkspeed", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Monkey%20Tycoon%20Auto%20Collect%20Deposit%20Walkspeed.lua")
 
 addscript(10898965735, "Current Game","Mine Racer: Auto Upgrade Dig, Auto Mine, Auto Join", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mine%20Racer%20Auto%20Upgrade%20Dig%20Auto%20Mine%20Auto%20Join.lua")
+
+addscriptexist(11040063484, "Sword Fighters Simulator: Auto Collect Coins, Kill Aura, Auto Farm Mobs", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sword%20Fighters%20Simulator%20Auto%20Collect%20Coins%20Kill%20Aura%20Auto%20Farm%20Mobs.lua")
