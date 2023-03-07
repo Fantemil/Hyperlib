@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 22:33:45"
+lastupdate = "GMT +1: 07.03.2023 22:33:49"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -4538,3 +4538,5 @@ addscript(10259717178, "Current Game","A Bizarre Day Modded Rebooted: Kill All",
 addscriptexist(292439477, "Phantom Forces: Hitbox Expander Gui", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Phantom%20Forces%20Hitbox%20Expander%20Gui.lua")
 
 addscriptexist(11939339894, "be a dad and get milk simulator: Get All Badges, Collect All Money", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/be%20a%20dad%20and%20get%20milk%20simulator%20Get%20All%20Badges%20Collect%20All%20Money.lua")
+
+addscriptexist(10704789056, "Drive World: Afk Cash Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Drive%20World%20Afk%20Cash%20Auto%20Farm.lua")
