@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:19:12"
+lastupdate = "GMT +1: 07.03.2023 21:19:16"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -2488,3 +2488,5 @@ addscriptexist(2753915549, "Blox Fruits: Auto Buy, Auto-Farm, Teleports", "pulle
 addscriptexist(155615604, "Prison Life: Silent Aim", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Prison%20Life%20Silent%20Aim.lua")
 
 addscriptexist(8750997647, "Tapping Legends X: Auto Tap, Auto Rebirth", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tapping%20Legends%20X%20Auto%20Tap%20Auto%20Rebirth.lua")
+
+addscriptexist(11989217843, "Find The Family Guy: Find All Characters", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Find%20The%20Family%20Guy%20Find%20All%20Characters.lua")
