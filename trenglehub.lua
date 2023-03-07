@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 22:04:38"
+lastupdate = "GMT +1: 07.03.2023 22:04:41"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -3734,3 +3734,5 @@ addscriptexist(920587237, "Adopt Me: Auto Farm", "pulled from rbxscript.com", "h
 addscriptexist(2788229376, "Da Hood: Knock All, No recoil, Esp", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Da%20Hood%20Knock%20All%20No%20recoil%20Esp.lua")
 
 addscriptexist(10446125875, "Anime Fruit Simulator: Auto Attack, Auto Fruit Tp, Auto Grab Fruit", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime%20Fruit%20Simulator%20Auto%20Attack%20Auto%20Fruit%20Tp%20Auto%20Grab%20Fruit.lua")
+
+addscriptexist(1554960397, "Car Dealership Tycoon: Auto Races, Auto Farm, Walkspeed", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Car%20Dealership%20Tycoon%20Auto%20Races%20Auto%20Farm%20Walkspeed.lua")
