@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:02:15"
+lastupdate = "GMT +1: 07.03.2023 21:02:18"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -2000,3 +2000,5 @@ addscriptexist(8054462345, "Michael's Zombies: Auto Win", "pulled from rbxscript
 addscriptexist(10726371567, "Find The Simpsons: Auto Collect", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Find%20The%20Simpsons%20Auto%20Collect.lua")
 
 addscriptexist(155615604, "Prison Life: Keycard Sniper", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Prison%20Life%20Keycard%20Sniper.lua")
+
+addscriptexist(2727067538, "World // Zero: Auto Farm, Noclip, Speed & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/World%20%20Zero%20Auto%20Farm%20Noclip%20Speed%20%20More.lua")
