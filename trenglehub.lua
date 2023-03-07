@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:04:57"
+lastupdate = "GMT +1: 07.03.2023 21:05:00"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -2080,3 +2080,5 @@ addscriptexist(1962086868, "Tower of Hell: Get Items, Auto Win, Walkspeed", "pul
 addscriptexist(4924922222, "Brookhaven RP: Lots Of Cool Features", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Brookhaven%20RP%20Lots%20Of%20Cool%20Features.lua")
 
 addscriptexist(6516141723, "DOORS: Esp", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DOORS%20Esp.lua")
+
+addscriptexist(11542692507, "Anime Souls Simulator: Auto-Farm, Auto Hatch & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime%20Souls%20Simulator%20AutoFarm%20Auto%20Hatch%20%20More.lua")
