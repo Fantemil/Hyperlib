@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 22:02:35"
+lastupdate = "GMT +1: 07.03.2023 22:02:40"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -3674,3 +3674,5 @@ addscript(2609668898, "Current Game","Custom Duels: Classic: Kill Aura, Reach, H
 addscriptexist(920587237, "Adopt Me: Autofarm, Autobaby, Teleports", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Adopt%20Me%20Autofarm%20Autobaby%20Teleports.lua")
 
 addscriptexist(4566572536, "Vehicle Legends: Drag Race Farm, Highway Race Farm, Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Vehicle%20Legends%20Drag%20Race%20Farm%20Highway%20Race%20Farm%20Auto%20Farm.lua")
+
+addscriptuniversal("Universal Spin and Play Phonky Town", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Spin%20and%20Play%20Phonky%20Town.lua")
