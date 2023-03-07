@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 22:06:12"
+lastupdate = "GMT +1: 07.03.2023 22:06:15"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -3778,3 +3778,5 @@ addscriptexist(9498006165, "Tapping Simulator: Auto Farm, Auto Eggs, Auto Rebirt
 addscriptexist(920587237, "Adopt Me: CPU Limiter, Anti Afk, Auto Farms", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Adopt%20Me%20CPU%20Limiter%20Anti%20Afk%20Auto%20Farms.lua")
 
 addscriptexist(2534724415, "Emergency Response: Liberty County: New bypassing Invisible Methode", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Emergency%20Response%20Liberty%20County%20New%20bypassing%20Invisible%20Methode.lua")
+
+addscriptexist(11257760806, "live in a back alley simulator: Mythical Trash Farm, Regular Trash Farm, Sell Trash", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/live%20in%20a%20back%20alley%20simulator%20Mythical%20Trash%20Farm%20Regular%20Trash%20Farm%20Sell%20Trash.lua")
