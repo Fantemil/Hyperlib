@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 22:07:03"
+lastupdate = "GMT +1: 07.03.2023 22:07:07"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -3804,3 +3804,5 @@ addscript(7239319209, "Current Game","Ohio: Punch Aura", "pulled from rbxscript.
 addhub("Golden Hub: 3+ Games Support", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Golden%20Hub%20%20Games%20Support.lua")
 
 addscript(5852812686, "Current Game","Candy Clicking Simulator: Auto Click, Auto Open egg, Auto Rebirths", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Candy%20Clicking%20Simulator%20Auto%20Click%20Auto%20Open%20egg%20Auto%20Rebirths.lua")
+
+addscriptexist(2248408710, "Destruction Simulator : Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Destruction%20Simulator%20%20Auto%20Farm.lua")
