@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:07:41"
+lastupdate = "GMT +1: 07.03.2023 21:07:44"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -2162,3 +2162,5 @@ addscriptexist(2248408710, "Destruction Simulator: Auto Farm", "pulled from rbxs
 addscript(6788787407, "Current Game","Warrior Champions: Auto Farm, Auto Swing, Auto Sell & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Warrior%20Champions%20Auto%20Farm%20Auto%20Swing%20Auto%20Sell%20%20More.lua")
 
 addscriptexist(8146731988, "Ultra Power Tycon: Teleports, Speed, Jumppower", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ultra%20Power%20Tycon%20Teleports%20Speed%20Jumppower.lua")
+
+addscriptexist(3652625463, "Lifting Simulator: Auto Sell, Auto Gain & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Lifting%20Simulator%20Auto%20Sell%20Auto%20Gain%20%20More.lua")
