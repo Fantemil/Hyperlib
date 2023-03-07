@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 20:56:33"
+lastupdate = "GMT +1: 07.03.2023 20:56:37"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -1840,3 +1840,5 @@ addscriptexist(11542692507, "Anime Souls Simulator: Auto Farm, Auto Kill Raid, A
 addscriptexist(7056922815, "Reaper 2: Inf Jumps, Walkspeed, Noclip", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Reaper%20%20Inf%20Jumps%20Walkspeed%20Noclip.lua")
 
 addscriptuniversal("Universal: Teleports GUI", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Teleports%20GUI.lua")
+
+addscriptexist(5780309044, "Stands Awakening: Jumppower, Auto Farm Players, Brightness", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Stands%20Awakening%20Jumppower%20Auto%20Farm%20Players%20Brightness.lua")
