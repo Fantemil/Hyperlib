@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:01:01"
+lastupdate = "GMT +1: 07.03.2023 21:01:05"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -1968,3 +1968,5 @@ addscript(7378050129, "Current Game","Kill R63 with DOOM music: Infinity Ammo", 
 addscriptexist(12389327869, "Contact: A-888: No Spread, No Recoil, Inf Ammo", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Contact%20A%20No%20Spread%20No%20Recoil%20Inf%20Ammo.lua")
 
 addscriptexist(662417684, "Lucky Block Battlegrounds: Block Select, Hide Name", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Lucky%20Block%20Battlegrounds%20Block%20Select%20Hide%20Name.lua")
+
+addscriptexist(6953291455, "Eating Simulator: Auto-Farm, Auto Sell, Teleports", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Eating%20Simulator%20AutoFarm%20Auto%20Sell%20Teleports.lua")
