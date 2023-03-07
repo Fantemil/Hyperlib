@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:28:14"
+lastupdate = "GMT +1: 07.03.2023 21:28:18"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -2716,3 +2716,5 @@ addscriptexist(11397035899, "Unicorn Tycoon: Auto Buy Unicorns, Auto Collect, Au
 addscript(1458767429, "Current Game","ABA: Afk World Server Hopper, Afk Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ABA%20Afk%20World%20Server%20Hopper%20Afk%20Auto%20Farm.lua")
 
 addscriptexist(292439477, "Phantom Forces: FOV, Aimbot, ESP", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Phantom%20Forces%20FOV%20Aimbot%20ESP.lua")
+
+addscriptuniversal("Universal Speed hack, Gravity hack, Esp", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Speed%20hack%20Gravity%20hack%20Esp.lua")
