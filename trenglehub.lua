@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:45:28"
+lastupdate = "GMT +1: 07.03.2023 21:45:32"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -3214,3 +3214,5 @@ addscriptuniversal("Universal Custom Synapse V3 Error Handler", "pulled from rbx
 addscriptexist(23578803, "Hotel Elephant: Make Server Fricked", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Hotel%20Elephant%20Make%20Server%20Fricked.lua")
 
 addscriptexist(11746859781, "Bubble Gum Clicker: Auto Farm Bubbles, Farm Pickups", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Bubble%20Gum%20Clicker%20Auto%20Farm%20Bubbles%20Farm%20Pickups.lua")
+
+addscriptexist(11874473440, "Car Factory Tycoon!: Mod Car, Semi Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Car%20Factory%20Tycoon%20Mod%20Car%20Semi%20Auto%20Farm.lua")
