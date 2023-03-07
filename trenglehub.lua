@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 22:01:41"
+lastupdate = "GMT +1: 07.03.2023 22:01:44"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -3648,3 +3648,5 @@ addscriptexist(7180042682, "Military Tycoon: Oops Hub Key Bypassed", "pulled fro
 addscriptexist(3101667897, "Legends Of Speed: Gems Auto Farm, Steps Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Legends%20Of%20Speed%20Gems%20Auto%20Farm%20Steps%20Auto%20Farm.lua")
 
 addscriptexist(4616652839, "Shindo Life: Key Bypassed, Bloodlines, Misc", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Shindo%20Life%20Key%20Bypassed%20Bloodlines%20Misc.lua")
+
+addscriptexist(3214114884, "Flag Wars: Silent Aim, Wallbang", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Flag%20Wars%20Silent%20Aim%20Wallbang.lua")
