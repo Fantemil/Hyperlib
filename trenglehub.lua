@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:31:17"
+lastupdate = "GMT +1: 07.03.2023 21:31:22"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -2800,3 +2800,5 @@ addscriptexist(155615604, "Prison Life: Aimbot, Kill All, FOV", "pulled from rbx
 addscript(735030788, "Current Game","Royale High: AutoFarm, Crash Server, Teleports", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Royale%20High%20AutoFarm%20Crash%20Server%20Teleports.lua")
 
 addscriptexist(2414851778, "Dungeon Quest: Auto Farm Level", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Dungeon%20Quest%20Auto%20Farm%20Level.lua")
+
+addscript(3360853050, "Current Game","Super Striker League: Animations, ESP & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Super%20Striker%20League%20Animations%20ESP%20%20More.lua")
