@@ -1360,3 +1360,5 @@ addscriptexist(5938036553, "FRONTLINES: Kill All", "pulled from rbxscript.com", 
 addscript(891852901, "Current Game","Greenville: Car Tuning Gui", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Greenville%20Car%20Tuning%20Gui.lua")
 
 addscriptexist(3272915504, "Arcane Odyssey: Infinite Money", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Arcane%20Odyssey%20Infinite%20Money.lua")
+
+addscriptexist(1962086868, "Tower Of Hell: AutoWin, Get All Items, GodMode", "pulled from rscripts", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tower%20Of%20Hell%20AutoWin%20Get%20All%20Items%20GodMode.lua")
