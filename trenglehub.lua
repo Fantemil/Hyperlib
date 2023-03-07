@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:10:59"
+lastupdate = "GMT +1: 07.03.2023 21:11:02"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -2260,3 +2260,5 @@ addscriptexist(10673860069, "Horse Racing Club: Auto Win Race, Inf Money/Exp, Ra
 addscriptexist(6735572261, "Pilgrammed: Spawn setter", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pilgrammed%20Spawn%20setter.lua")
 
 addscriptexist(6735572261, "Pilgrammed: Farm Chest", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pilgrammed%20Farm%20Chest.lua")
+
+addscriptexist(2753915549, "Blox Fruits: Auto Farm Level, Auto Raid & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blox%20Fruits%20Auto%20Farm%20Level%20Auto%20Raid%20%20More.lua")
