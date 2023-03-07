@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:00:54"
+lastupdate = "GMT +1: 07.03.2023 21:00:57"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -1964,3 +1964,5 @@ addscriptexist(7732789524, "Neo Soccer League: Auto Win", "pulled from rbxscript
 addscriptexist(10875701453, "Edward the Man-Eating Train: Infinity Ammo, Inf Health, Esp", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Edward%20the%20ManEating%20Train%20Infinity%20Ammo%20Inf%20Health%20Esp.lua")
 
 addscript(7378050129, "Current Game","Kill R63 with DOOM music: Infinity Ammo", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Kill%20R%20with%20DOOM%20music%20Infinity%20Ammo.lua")
+
+addscriptexist(12389327869, "Contact: A-888: No Spread, No Recoil, Inf Ammo", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Contact%20A%20No%20Spread%20No%20Recoil%20Inf%20Ammo.lua")
