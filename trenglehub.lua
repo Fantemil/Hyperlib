@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:54:18"
+lastupdate = "GMT +1: 07.03.2023 21:54:24"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -3468,3 +3468,5 @@ addscriptexist(2788229376, "Da Hood: RGB Guns", "pulled from rbxscript.com", "ht
 addscriptexist(142823291, "Murder Mystery 2: Coin Autofarm, Teleports & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Murder%20Mystery%20%20Coin%20Autofarm%20Teleports%20%20More.lua")
 
 addscriptexist(11400511154, "Monkey Tycoon: Auto Merge, Auto Collect, Auto Deposit", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Monkey%20Tycoon%20Auto%20Merge%20Auto%20Collect%20Auto%20Deposit.lua")
+
+addscriptexist(2788229376, "Da Hood: Aim Locks, Teleports, Keybinds", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Da%20Hood%20Aim%20Locks%20Teleports%20Keybinds.lua")
