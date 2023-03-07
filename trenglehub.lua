@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 22:19:32"
+lastupdate = "GMT +1: 07.03.2023 22:19:36"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -4160,3 +4160,5 @@ addscriptexist(3351674303, "Driving Empire: Platform Height, Drive on Platform &
 addscriptexist(7305309231, "Taxi Boss: TweenService Speed, Teleport to Saved Position & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Taxi%20Boss%20TweenService%20Speed%20Teleport%20to%20Saved%20Position%20%20More.lua")
 
 addhub("Universal Hub: 3+ Games", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Hub%20%20Games.lua")
+
+addscript(488667523, "Current Game","Those Who Remain: Silent Aim, Wallbang", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Those%20Who%20Remain%20Silent%20Aim%20Wallbang.lua")
