@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:09:33"
+lastupdate = "GMT +1: 07.03.2023 21:09:37"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -2218,3 +2218,5 @@ addscriptexist(292439477, "Phantom Forces: ESP", "pulled from rbxscript.com", "h
 addscriptuniversal("Universal Friend Detector, Friend Notification System", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Friend%20Detector%20Friend%20Notification%20System.lua")
 
 addscriptuniversal("Universal: 5 Games", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20%20Games.lua")
+
+addscriptexist(2788229376, "Da Hood: Teleports, ESP & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Da%20Hood%20Teleports%20ESP%20%20More.lua")
