@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:50:26"
+lastupdate = "GMT +1: 07.03.2023 21:50:30"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -3354,3 +3354,5 @@ addscriptexist(11156779721, "The Survival Game: Kill Aura, Silent Aim, Auto Leav
 addscriptexist(10875701453, "Edward the Man-Eating Train: Reset, No E wait, Gun Mods", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Edward%20the%20ManEating%20Train%20Reset%20No%20E%20wait%20Gun%20Mods.lua")
 
 addscriptexist(6516141723, "DOORS: No E Wait, Spawn Seek, Fullbright", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DOORS%20No%20E%20Wait%20Spawn%20Seek%20Fullbright.lua")
+
+addscriptexist(11542692507, "Anime Souls Simulator: Auto Attack, Auto Mob", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime%20Souls%20Simulator%20Auto%20Attack%20Auto%20Mob.lua")
