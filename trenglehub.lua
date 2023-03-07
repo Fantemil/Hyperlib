@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 22:33:08"
+lastupdate = "GMT +1: 07.03.2023 22:33:12"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -4520,3 +4520,5 @@ addscriptexist(9796685905, "Super Hero Race Clicker: Best Auto Farm, Auto Tap, A
 addscriptexist(6284583030, "Pet Simulator X: Auto Farm, Auto Egg, Anti Lag", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pet%20Simulator%20X%20Auto%20Farm%20Auto%20Egg%20Anti%20Lag.lua")
 
 addscript(11722450615, "Current Game","steal roblox games to pay grandpa's bail tycoon: Auto Create Game, Anti Afk, Auto Build", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/steal%20roblox%20games%20to%20pay%20grandpas%20bail%20tycoon%20Auto%20Create%20Game%20Anti%20Afk%20Auto%20Build.lua")
+
+addscriptexist(990566015, "Cursed Islands: Auto Delete Disasters, Auto Collect Coins, Auto Win", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Cursed%20Islands%20Auto%20Delete%20Disasters%20Auto%20Collect%20Coins%20Auto%20Win.lua")
