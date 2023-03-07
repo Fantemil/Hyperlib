@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 20:55:28"
+lastupdate = "GMT +1: 07.03.2023 20:55:33"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -1808,3 +1808,5 @@ addhub("V.G Hub: 140+ Games", "pulled from rbxscript.com", "https://raw.githubus
 addscriptexist(286090429, "Arsenal: Aimbot, Silent Aim, Gun Mods", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Arsenal%20Aimbot%20Silent%20Aim%20Gun%20Mods.lua")
 
 addscriptexist(2788229376, "Da Hood: Aimlock, Cash Tools, Trolling", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Da%20Hood%20Aimlock%20Cash%20Tools%20Trolling.lua")
+
+addscript(10673860069, "Current Game","Horse Racing Club: Inf Money, Auto Win Race & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Horse%20Racing%20Club%20Inf%20Money%20Auto%20Win%20Race%20%20More.lua")
