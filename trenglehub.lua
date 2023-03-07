@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 22:28:31"
+lastupdate = "GMT +1: 07.03.2023 22:28:38"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -4392,3 +4392,5 @@ addscriptexist(292439477, "Phantom Forces: Movement Changer", "pulled from rbxsc
 addscriptuniversal("Universal Better Friend Detector", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Better%20Friend%20Detector.lua")
 
 addscriptexist(10048079179, "Fat Simulator: Auto Eat, Burp and Fart, Infinity Jumps, Auto Rebirth", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Fat%20Simulator%20Auto%20Eat%20Burp%20and%20Fart%20Infinity%20Jumps%20Auto%20Rebirth.lua")
+
+addscriptexist(2534724415, "Emergency Response: Liberty County: Postal AutoFarm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Emergency%20Response%20Liberty%20County%20Postal%20AutoFarm.lua")
