@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 22:19:59"
+lastupdate = "GMT +1: 07.03.2023 22:20:03"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -4174,3 +4174,5 @@ addhub("VHub: Key Bypassed", "pulled from rbxscript.com", "https://raw.githubuse
 addscriptexist(2788229376, "Da Hood: Buy Items, Fly & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Da%20Hood%20Buy%20Items%20Fly%20%20More.lua")
 
 addscriptexist(1537690962, "Bee Swarm Simulator: Paper Plants Dupe", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Bee%20Swarm%20Simulator%20Paper%20Plants%20Dupe.lua")
+
+addscriptexist(12113006580, "NCT 127 World: Auto Coins", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NCT%20%20World%20Auto%20Coins.lua")
