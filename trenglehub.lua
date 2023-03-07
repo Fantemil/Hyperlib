@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:48:11"
+lastupdate = "GMT +1: 07.03.2023 21:48:15"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -3292,3 +3292,5 @@ addhub("AeroHub: 15+ Games", "pulled from rbxscript.com", "https://raw.githubuse
 addscript(3823781113, "Current Game","Saber Simulator: Auto Swing, Auto Sell, Boss Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Saber%20Simulator%20Auto%20Swing%20Auto%20Sell%20Boss%20Farm.lua")
 
 addscriptexist(10714365287, "Anime Racing Clicker: Redeem Codes, Auto Click, Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime%20Racing%20Clicker%20Redeem%20Codes%20Auto%20Click%20Auto%20Farm.lua")
+
+addscriptexist(7232779505, "Type Race: Unlock all badges", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Type%20Race%20Unlock%20all%20badges.lua")
