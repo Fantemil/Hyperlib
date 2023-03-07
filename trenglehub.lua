@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:38:28"
+lastupdate = "GMT +1: 07.03.2023 21:38:32"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -3006,3 +3006,5 @@ addscript(11800876530, "Current Game","+1 Blocks Every Second: Auto Click, Auto 
 addscript(10291129032, "Current Game","Flappy Bird Race: Auto Collect, Auto Rebirth & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Flappy%20Bird%20Race%20Auto%20Collect%20Auto%20Rebirth%20%20More.lua")
 
 addscriptexist(292439477, "Phantom Forces: Aimbot, Wallcheck, Rainbow Gun & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Phantom%20Forces%20Aimbot%20Wallcheck%20Rainbow%20Gun%20%20More.lua")
+
+addscriptuniversal("Universal Fly", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Fly.lua")
