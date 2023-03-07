@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:48:31"
+lastupdate = "GMT +1: 07.03.2023 21:48:35"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -3302,3 +3302,5 @@ addscriptuniversal("Universal Perm Animation Changer", "pulled from rbxscript.co
 addscriptexist(12017032683, "096 [SCP]: Esp", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/%20SCP%20Esp.lua")
 
 addscript(11270998580, "Current Game","MinerShaft: Kill aura, No fall damage, Speed", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MinerShaft%20Kill%20aura%20No%20fall%20damage%20Speed.lua")
+
+addscriptexist(292439477, "Phantom Forces: ESP, Hit Part, Keybinds", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Phantom%20Forces%20ESP%20Hit%20Part%20Keybinds.lua")
