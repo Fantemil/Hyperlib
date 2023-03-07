@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:46:08"
+lastupdate = "GMT +1: 07.03.2023 21:46:12"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -3234,3 +3234,5 @@ addscript(5987922834, "Current Game","Transfur Outbreak: Lag Servers", "pulled f
 addscriptexist(11547613362, "Anime Fly Race: Collect Orbs, Auto Merge, Auto Rebirth", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime%20Fly%20Race%20Collect%20Orbs%20Auto%20Merge%20Auto%20Rebirth.lua")
 
 addscriptexist(4490140733, "My Restaurant: Teleports, Faster Workers", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/My%20Restaurant%20Teleports%20Faster%20Workers.lua")
+
+addscriptuniversal("Universal Find Remotes Using Getgc", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Find%20Remotes%20Using%20Getgc.lua")
