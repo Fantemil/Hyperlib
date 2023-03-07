@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:29:50"
+lastupdate = "GMT +1: 07.03.2023 21:29:53"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -2762,3 +2762,5 @@ addscript(10141683154, "Current Game","Unreal Simulation: Server Crasher", "pull
 addscriptexist(11939099110, "Ski Race: Auto Win, Auto Rebirth, Auto Hatch", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ski%20Race%20Auto%20Win%20Auto%20Rebirth%20Auto%20Hatch.lua")
 
 addscriptexist(7167649916, "SIREN COP'S PRISON: Get All, Teleports, Auto Win", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SIREN%20COPS%20PRISON%20Get%20All%20Teleports%20Auto%20Win.lua")
+
+addscriptexist(2753915549, "Blox Fruits: Auto Fruit", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blox%20Fruits%20Auto%20Fruit.lua")
