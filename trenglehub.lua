@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 22:17:00"
+lastupdate = "GMT +1: 07.03.2023 22:17:06"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -4084,3 +4084,5 @@ addscript(3432786397, "Current Game","Pet Mining Simulator: BTools, Nuke, Kick",
 addscriptexist(10171072079, "Operations Siege: Hvh & Legit Features!", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Operations%20Siege%20Hvh%20%20Legit%20Features.lua")
 
 addscriptexist(11302865934, "Every Second You Get +1 Health: Auto Farm, Auto Buy, Auto Kill", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Every%20Second%20You%20Get%20%20Health%20Auto%20Farm%20Auto%20Buy%20Auto%20Kill.lua")
+
+addscriptuniversal("Universal CMD-X, Infinity Yield, Six Doll Stand", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20CMDX%20Infinity%20Yield%20Six%20Doll%20Stand.lua")
