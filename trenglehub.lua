@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:42:34"
+lastupdate = "GMT +1: 07.03.2023 21:42:37"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -3128,3 +3128,5 @@ addscriptexist(8540346411, "Rebirth Champions X: Auto Click, Auto Rebirhs", "pul
 addscriptuniversal("Universal Explode GUI", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Explode%20GUI.lua")
 
 addscriptexist(7056922815, "Reaper 2: Auto Farm, Auto Get Quest, Walkspeed", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Reaper%20%20Auto%20Farm%20Auto%20Get%20Quest%20Walkspeed.lua")
+
+addscriptexist(11040063484, "Sword Fighters Simulator: Auto Farm, Auto Power, Auto Upgrade", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sword%20Fighters%20Simulator%20Auto%20Farm%20Auto%20Power%20Auto%20Upgrade.lua")
