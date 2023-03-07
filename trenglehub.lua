@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:36:27"
+lastupdate = "GMT +1: 07.03.2023 21:36:31"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -2950,3 +2950,5 @@ addscriptexist(6284583030, "Pet Simulator X: Auto Farm, Auto Hatch & More", "pul
 addscriptexist(1537690962, "Bee Swarm Simulator: Auto Sell, Auto Dig, Auto Kill Mob", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Bee%20Swarm%20Simulator%20Auto%20Sell%20Auto%20Dig%20Auto%20Kill%20Mob.lua")
 
 addscriptexist(6872265039, "BedWars: Aimbot, Instant Break, FOV", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BedWars%20Aimbot%20Instant%20Break%20FOV.lua")
+
+addscriptexist(2753915549, "Blox Fruits: Auto Farm Level, Auto Quest & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blox%20Fruits%20Auto%20Farm%20Level%20Auto%20Quest%20%20More.lua")
