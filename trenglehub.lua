@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 22:32:29"
+lastupdate = "GMT +1: 07.03.2023 22:32:33"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -4500,3 +4500,5 @@ addscript(11646284046, "Current Game","Dino Island Tycoon: Auto Farm, Auto Colle
 addscriptexist(6918802270, "Project New World: Auto Quest, Auto Stats, Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Project%20New%20World%20Auto%20Quest%20Auto%20Stats%20Auto%20Farm.lua")
 
 addscriptexist(6918802270, "Project New World: Level Farm, Auto Quest, KillAura", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Project%20New%20World%20Level%20Farm%20Auto%20Quest%20KillAura.lua")
+
+addscriptexist(4566572536, "Vehicle Legends: Auto Farm, Noclip, Fly", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Vehicle%20Legends%20Auto%20Farm%20Noclip%20Fly.lua")
