@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 22:33:33"
+lastupdate = "GMT +1: 07.03.2023 22:33:37"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -4532,3 +4532,5 @@ addscriptexist(2772610559, "Farming and Friends: Semi Auto Farm", "pulled from r
 addhub("Roblox: Fun Hub", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Roblox%20Fun%20Hub.lua")
 
 addscriptexist(1537690962, "Bee Swarm Simulator: Remove Tags, Anti Cheat & More!", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Bee%20Swarm%20Simulator%20Remove%20Tags%20Anti%20Cheat%20%20More.lua")
+
+addscript(10259717178, "Current Game","A Bizarre Day Modded Rebooted: Kill All", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/A%20Bizarre%20Day%20Modded%20Rebooted%20Kill%20All.lua")
