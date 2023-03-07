@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 20:59:57"
+lastupdate = "GMT +1: 07.03.2023 21:00:01"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -1938,3 +1938,5 @@ addscript(2929719084, "Current Game","F3X Islands: tntmasters SS", "pulled from 
 addscriptexist(6679968919, "Fly Race: Walkspeed, Jump Power, Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Fly%20Race%20Walkspeed%20Jump%20Power%20Auto%20Farm.lua")
 
 addscriptexist(920587237, "Adopt Me: Auto Buy, Auto Trade, Jumppower", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Adopt%20Me%20Auto%20Buy%20Auto%20Trade%20Jumppower.lua")
+
+addhub("Speed X Hub: 10+ Games", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Speed%20X%20Hub%20%20Games.lua")
