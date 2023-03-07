@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 22:26:55"
+lastupdate = "GMT +1: 07.03.2023 22:27:00"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -4346,3 +4346,5 @@ addscript(6939111033, "Current Game","Escape Papa Pizza's Pizzeria: Give All Ite
 addscriptexist(8540346411, "Rebirth Champions X: Auto Upgrade, Auto Rebirth, Auto Click", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Rebirth%20Champions%20X%20Auto%20Upgrade%20Auto%20Rebirth%20Auto%20Click.lua")
 
 addscriptexist(11884594868, "Anime Defense Simulator: Auto buy Eggs, Auto buy Weapons, Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime%20Defense%20Simulator%20Auto%20buy%20Eggs%20Auto%20buy%20Weapons%20Auto%20Farm.lua")
+
+addscriptexist(2753915549, "Blox Fruits: Auto Stats, Auto Farm Level, Auto New World", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blox%20Fruits%20Auto%20Stats%20Auto%20Farm%20Level%20Auto%20New%20World.lua")
