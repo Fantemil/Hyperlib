@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:15:46"
+lastupdate = "GMT +1: 07.03.2023 21:15:51"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -2400,3 +2400,5 @@ addscriptexist(8260276694, "Ability Wars: AutoFarm, Godmode, Kill all", "pulled 
 addscriptexist(298400657, "Dragon Ball Final Remastered: Auto Meditate", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Dragon%20Ball%20Final%20Remastered%20Auto%20Meditate.lua")
 
 addscriptuniversal("Universal Chat Bypasser", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Chat%20Bypasser.lua")
+
+addscriptexist(2788229376, "Da Hood: Free Animations", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Da%20Hood%20Free%20Animations.lua")
