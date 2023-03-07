@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 20:58:56"
+lastupdate = "GMT +1: 07.03.2023 20:58:59"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -1908,3 +1908,5 @@ addscriptexist(3956818381, "Ninja Legends: Auto Sell, Auto Swing & More", "pulle
 addscript(3851622790, "Current Game","Break In (Story): Teleports, Auto Hit Bad Guys, Befriend Cat", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Break%20In%20Story%20Teleports%20Auto%20Hit%20Bad%20Guys%20Befriend%20Cat.lua")
 
 addscript(9819654737, "Current Game","Raise A Sonic: Auto Collect, Auto Click, Poor Aura", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Raise%20A%20Sonic%20Auto%20Collect%20Auto%20Click%20Poor%20Aura.lua")
+
+addscript(9655469250, "Current Game","EarthScape Tycoon: AutoFarm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/EarthScape%20Tycoon%20AutoFarm.lua")
