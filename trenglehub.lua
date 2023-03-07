@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:14:50"
+lastupdate = "GMT +1: 07.03.2023 21:14:54"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -2372,3 +2372,5 @@ addscriptexist(8568266872, "Kill Monsters To Save Princess: Auto Waves, Insta Ki
 addscriptexist(10704789056, "Drive World: Car Speed, Auto Farm, Walkspeed", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Drive%20World%20Car%20Speed%20Auto%20Farm%20Walkspeed.lua")
 
 addscriptexist(292439477, "Phantom Forces: Walkspeed, Gravity, No Fall Damage", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Phantom%20Forces%20Walkspeed%20Gravity%20No%20Fall%20Damage.lua")
+
+addscriptexist(6403373529, "Slap Battles: Kill Aura, God Mode, Kill All", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Slap%20Battles%20Kill%20Aura%20God%20Mode%20Kill%20All.lua")
