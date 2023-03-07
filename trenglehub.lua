@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:02:39"
+lastupdate = "GMT +1: 07.03.2023 21:02:43"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -2012,3 +2012,5 @@ addscript(9143982021, "Current Game","Sword Battles: Teleports", "pulled from rb
 addscriptexist(2753915549, "Blox Fruits: Fruit Mastery, Farm Gun Mastery, Auto Farm Lvl", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blox%20Fruits%20Fruit%20Mastery%20Farm%20Gun%20Mastery%20Auto%20Farm%20Lvl.lua")
 
 addscript(147848991, "Current Game","Be A Parkour Ninja: Hitbox", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Be%20A%20Parkour%20Ninja%20Hitbox.lua")
+
+addscriptexist(142823291, "Murder Mystery 2: Esp, Teleports, Kill Sheriff", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Murder%20Mystery%20%20Esp%20Teleports%20Kill%20Sheriff.lua")
