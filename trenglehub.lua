@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:09:14"
+lastupdate = "GMT +1: 07.03.2023 21:09:18"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -2208,3 +2208,5 @@ addscriptexist(6735572261, "Pilgrammed: Auto ore mine", "pulled from rbxscript.c
 addhub("Gaming Script Hub: 51 Games", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Gaming%20Script%20Hub%20%20Games.lua")
 
 addhub("Better Roblox: Aimbot, ESP & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Better%20Roblox%20Aimbot%20ESP%20%20More.lua")
+
+addscriptexist(189707, "Natural Disaster Survival: God Mod, Auto Farm, Teleport Method", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Natural%20Disaster%20Survival%20God%20Mod%20Auto%20Farm%20Teleport%20Method.lua")
