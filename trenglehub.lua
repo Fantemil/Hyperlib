@@ -1329,3 +1329,4 @@ addscript(5130598377, "Current Game","A Universal Time: God Mode, Auto Quest, It
 addscriptuniversal("Universal Aimbot", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Aimbot.lua")
 
 addscript(11334163219,"Current Game", "Anime Power Simulator - V3.0", "pulled from rscripts", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime%20Power%20Simulator%20%20V.lua")
+addscriptexist(7991339063, "Rainbow Friends: Get All, Esp & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Rainbow%20Friends%20Get%20All%20Esp%20%20More.lua")
