@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 22:08:33"
+lastupdate = "GMT +1: 07.03.2023 22:08:37"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -3848,3 +3848,5 @@ addhub("Yum Hub: 3 Games", "pulled from rbxscript.com", "https://raw.githubuserc
 addscriptexist(6777872443, "Pixel Piece: Teleport to the Test Place", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pixel%20Piece%20Teleport%20to%20the%20Test%20Place.lua")
 
 addscript(632574862, "Current Game","Eclipsis: Aimbot, Trigger Bot, Hitboxes", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Eclipsis%20Aimbot%20Trigger%20Bot%20Hitboxes.lua")
+
+addscriptexist(142823291, "Murder Mystery 2: Kill All, Unlock Emotes, Esp", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Murder%20Mystery%20%20Kill%20All%20Unlock%20Emotes%20Esp.lua")
