@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:36:51"
+lastupdate = "GMT +1: 07.03.2023 21:36:54"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -2962,3 +2962,5 @@ addscriptuniversal("Universal Walkspeed, Jump Power, Loop", "pulled from rbxscri
 addscript(10449761463, "Current Game","Saitama Battleground: Auto Attack, Auto Farm, ESP", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Saitama%20Battleground%20Auto%20Attack%20Auto%20Farm%20ESP.lua")
 
 addscript(5704070545, "Current Game","The Flappy Men: Get 198 Level", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/The%20Flappy%20Men%20Get%20%20Level.lua")
+
+addscriptexist(8054462345, "Michael's Zombies: ESP, Walkspeed, Auto Reload", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Michaels%20Zombies%20ESP%20Walkspeed%20Auto%20Reload.lua")
