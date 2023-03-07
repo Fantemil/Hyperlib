@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 12:36:23"
+lastupdate = "GMT +1: 07.03.2023 12:36:27"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -1133,3 +1133,5 @@ addscriptuniversal("Universal: RTX", "pulled from rbxscript.com", "https://raw.g
 addscript(7336302630, "Current Game","Project Delta: Movement Prediction, Projectile Drop Prediction", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Project%20Delta%20Movement%20Prediction%20Projectile%20Drop%20Prediction.lua")
 
 addscriptexist(error, "Universial Tool", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universial%20Tool.lua")
+
+addscriptuniversal("Universal Camera Flasher", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Camera%20Flasher.lua")
