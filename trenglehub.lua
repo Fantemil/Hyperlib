@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 22:21:33"
+lastupdate = "GMT +1: 07.03.2023 22:21:38"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -4222,3 +4222,5 @@ addscriptexist(8130299583, "Trident Survival: YURI X V3", "pulled from rbxscript
 addscriptexist(11251823801, "Slap battles but bad: Table Spam, Fire Spam, Bomb Spam", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Slap%20battles%20but%20bad%20Table%20Spam%20Fire%20Spam%20Bomb%20Spam.lua")
 
 addscriptuniversal("Universal Time Freeze, Infinity Jumps, Bypassed Fly", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Time%20Freeze%20Infinity%20Jumps%20Bypassed%20Fly.lua")
+
+addscriptuniversal("Universal Fullbright", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Fullbright.lua")
