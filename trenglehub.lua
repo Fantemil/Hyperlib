@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:32:19"
+lastupdate = "GMT +1: 07.03.2023 21:32:22"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -2828,3 +2828,5 @@ addscript(1167791961, "Current Game","Knife Simulator: Silent Aim, Auto Farm, Pl
 addscriptexist(3956818381, "Ninja Legends: Auto Swing, Auto Sell, Auto Hoops & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ninja%20Legends%20Auto%20Swing%20Auto%20Sell%20Auto%20Hoops%20%20More.lua")
 
 addscriptexist(6516141723, "DOORS: Key Chams, Mob Notifier & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DOORS%20Key%20Chams%20Mob%20Notifier%20%20More.lua")
+
+addscriptexist(4924922222, "Brookhaven RP: Infinitely Big And Small", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Brookhaven%20RP%20Infinitely%20Big%20And%20Small.lua")
