@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 22:05:49"
+lastupdate = "GMT +1: 07.03.2023 22:05:55"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -3768,3 +3768,5 @@ addscript(3102144307, "Current Game","Anime Clicker Simulator: Auto Click, Auto 
 addscriptexist(2753915549, "Blox Fruits: Infinity Jumps, Noclip, Aimbot", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blox%20Fruits%20Infinity%20Jumps%20Noclip%20Aimbot.lua")
 
 addscriptuniversal("Universal FE Hat Universe", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20FE%20Hat%20Universe.lua")
+
+addscriptexist(6512923934, "Ultra Clickers Simulator: Auto Farming, Noclip, Teleports", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ultra%20Clickers%20Simulator%20Auto%20Farming%20Noclip%20Teleports.lua")
