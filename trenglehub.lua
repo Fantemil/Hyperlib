@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 20:55:03"
+lastupdate = "GMT +1: 07.03.2023 20:55:07"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -1796,3 +1796,5 @@ addscriptexist(142823291, "Murder Mystery 2: Esp, Infinity Jumps, Fake Knife", "
 addscript(11258371342, "Current Game","PacSun Los Angeles Tycoon: Auto Build, Auto ATM, Ws", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PacSun%20Los%20Angeles%20Tycoon%20Auto%20Build%20Auto%20ATM%20Ws.lua")
 
 addscript(3095204897, "Current Game","Isle: Infinite capacity, Collect All, Automatic hack", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Isle%20Infinite%20capacity%20Collect%20All%20Automatic%20hack.lua")
+
+addscript(3279760276, "Current Game","Chechnya 1994: Loop Kill All", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Chechnya%20%20Loop%20Kill%20All.lua")
