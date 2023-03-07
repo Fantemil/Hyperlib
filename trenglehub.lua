@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:56:42"
+lastupdate = "GMT +1: 07.03.2023 21:56:46"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -3504,3 +3504,5 @@ addscriptexist(286090429, "Arsenal: Auto Win", "pulled from rbxscript.com", "htt
 addscriptexist(11430505281, "Anime Weapon Simulator: Auto Runk Up, Auto Click, Auto Collect Coins", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime%20Weapon%20Simulator%20Auto%20Runk%20Up%20Auto%20Click%20Auto%20Collect%20Coins.lua")
 
 addscriptexist(11040063484, "Sword Fighters Simulator: Auto Click, Auto Ascend, Auto Upgrade", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sword%20Fighters%20Simulator%20Auto%20Click%20Auto%20Ascend%20Auto%20Upgrade.lua")
+
+addscriptexist(23578803, "Hotel Elephant: Game breaking", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Hotel%20Elephant%20Game%20breaking.lua")
