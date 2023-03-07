@@ -61,6 +61,22 @@ function bigBlueItalicText(text)
         FontSize = Enum.FontSize.Size48,
     })
 end
+function bigRedItalicText(text)
+    game:GetService("StarterGui"):SetCore("ChatMakeSystemMessage", {
+        Text = text,
+        Color = Color3.fromRGB(255, 0, 0), -- set the color to red
+        Font = Enum.Font.SourceSansItalic,
+        TextTransparency = 0,
+        TextStrokeTransparency = 0,
+        TextScaled = false,
+        TextWrapped = false,
+        TextXAlignment = Enum.TextXAlignment.Center,
+        TextYAlignment = Enum.TextYAlignment.Center,
+        TextStrokeColor3 = Color3.new(0, 0, 0),
+        FontSize = Enum.FontSize.Size48,
+    })
+end
+
 
 --^^^dont touch ^^^
 function addscript(Place,Gamename,title,author,scriptlink, website)
@@ -76,13 +92,13 @@ function addscript(Place,Gamename,title,author,scriptlink, website)
             function toexecute()
                 loadstring(game:HttpGet(scriptlink))()
             end
-            bigBlueItalicText("Attempting to execute your script '" .. name .."' ...")
+            bigBlueItalicText("Attempting to execute your script...")
 
             local success, result = pcall(toexecute)
             if success then
-                bigGreenItalicText(getLocalPlayerName().. ", your Script '" .. name .."' executed successfully!")
+                bigGreenItalicText(getLocalPlayerName().. ", your Script executed successfully!")
             else
-                bigRedText(getLocalPlayerName().. ", your Script '" .. name .."' failed to execute!")
+                bigRedItalicText(getLocalPlayerName().. ", your Script failed to execute!")
             end
         end)
     end
@@ -97,13 +113,13 @@ function addscriptexist(Place,title,author,scriptlink)
             function toexecute()
                 loadstring(game:HttpGet(scriptlink))()
             end
-            bigBlueItalicText("Attempting to execute your script '" .. name .."' ...")
+            bigBlueItalicText("Attempting to execute your script...")
 
             local success, result = pcall(toexecute)
             if success then
-                bigGreenItalicText(getLocalPlayerName().. ", your Script '" .. name .."' executed successfully!")
+                bigGreenItalicText(getLocalPlayerName().. ", your Script executed successfully!")
             else
-                bigRedText(getLocalPlayerName().. ", your Script '" .. name .."' failed to execute!")
+                bigRedItalicText(getLocalPlayerName().. ", your Script failed to execute!")
             end
         end)
     end
@@ -117,13 +133,13 @@ function addscriptuniversal(title,author,scriptlink)
             function toexecute()
                 loadstring(game:HttpGet(scriptlink))()
             end
-            bigBlueItalicText("Attempting to execute your script '" .. name .."' ...")
+            bigBlueItalicText("Attempting to execute your script...")
 
             local success, result = pcall(toexecute)
             if success then
-                bigGreenItalicText(getLocalPlayerName().. ", your Script '" .. name .."' executed successfully!")
+                bigGreenItalicText(getLocalPlayerName().. ", your Script executed successfully!")
             else
-                bigRedText(getLocalPlayerName().. ", your Script '" .. name .."' failed to execute!")
+                bigRedItalicText(getLocalPlayerName().. ", your Script failed to execute!")
             end
         end)
 end
@@ -135,12 +151,12 @@ function addhub(title,author,scriptlink)
             function toexecute()
                 loadstring(game:HttpGet(scriptlink))()
             end
-            bigBlueItalicText("Attempting to execute your script '" .. name .."' ...")
+            bigBlueItalicText("Attempting to execute your script...")
             local success, result = pcall(toexecute)
             if success then
-                bigGreenItalicText(getLocalPlayerName().. ", your Script '" .. name .."' executed successfully!")
+                bigGreenItalicText(getLocalPlayerName().. ", your Script executed successfully!")
             else
-                bigRedText(getLocalPlayerName().. ", your Script '" .. name .."' failed to execute!")
+                bigRedItalicText(getLocalPlayerName().. ", your Script failed to execute!")
             end
         end)
 end
