@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:15:58"
+lastupdate = "GMT +1: 07.03.2023 21:16:02"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -2406,3 +2406,5 @@ addscriptexist(2788229376, "Da Hood: Free Animations", "pulled from rbxscript.co
 addscriptexist(155615604, "Prison Life: Auto Arrest, Auto Reload & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Prison%20Life%20Auto%20Arrest%20Auto%20Reload%20%20More.lua")
 
 addscriptuniversal("Universal Kelrepl Key System Bypass", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Kelrepl%20Key%20System%20Bypass.lua")
+
+addscriptexist(9143982021, "Sword Battles: Free kills", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sword%20Battles%20Free%20kills.lua")
