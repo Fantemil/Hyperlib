@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:29:15"
+lastupdate = "GMT +1: 07.03.2023 21:29:20"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -2746,3 +2746,5 @@ addscript(8204899140, "Current Game","Football Fusion 2: Silent Aim,Auto Jump,Au
 addscriptexist(2788229376, "Da Hood: Auto Buy,God Mode,Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Da%20Hood%20Auto%20BuyGod%20ModeAuto%20Farm.lua")
 
 addscriptexist(9872472334, "Evade: AutoFarm,Inf Jump & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Evade%20AutoFarmInf%20Jump%20%20More.lua")
+
+addscriptexist(189707, "Natural Disaster Survival: Auto Farm, Inf Jump, Teleports", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Natural%20Disaster%20Survival%20Auto%20Farm%20Inf%20Jump%20Teleports.lua")
