@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:53:39"
+lastupdate = "GMT +1: 07.03.2023 21:53:42"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -3448,3 +3448,5 @@ addscript(2636441885, "Current Game","Speed City: Auto Collect Orbs", "pulled fr
 addscriptexist(9872472334, "Evade: Autofarm wins", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Evade%20Autofarm%20wins.lua")
 
 addscriptexist(5865858426, "Retail Tycoon 2: Clock Hub", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Retail%20Tycoon%20%20Clock%20Hub.lua")
+
+addhub("Fring Hub: 15+ Games", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Fring%20Hub%20%20Games.lua")
