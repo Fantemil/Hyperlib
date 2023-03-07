@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:39:33"
+lastupdate = "GMT +1: 07.03.2023 21:39:37"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -3038,3 +3038,5 @@ addscriptexist(920587237, "Adopt Me: Auto Baby Farm, Auto Invisible, Crash Serve
 addscriptexist(6679968919, "Fly Race: 1 Million wins GUI", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Fly%20Race%20%20Million%20wins%20GUI.lua")
 
 addscriptexist(6679968919, "Fly Race: +1Million Wins", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Fly%20Race%20Million%20Wins.lua")
+
+addscriptexist(815405518, "The Floor Is LAVA: Autofarm, TP All Coins And Diamond, TP Obby Finish", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/The%20Floor%20Is%20LAVA%20Autofarm%20TP%20All%20Coins%20And%20Diamond%20TP%20Obby%20Finish.lua")
