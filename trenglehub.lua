@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:03:54"
+lastupdate = "GMT +1: 07.03.2023 21:03:58"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -2050,3 +2050,5 @@ addscriptexist(292439477, "Phantom Forces: Aim Bot, Esp & More", "pulled from rb
 addscriptexist(12996397, "Mega Fun Obby: Auto Win, Auto Farm & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mega%20Fun%20Obby%20Auto%20Win%20Auto%20Farm%20%20More.lua")
 
 addscriptexist(891852901, "Greenville: Car Speed, Anti Afk, Walkspeed", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Greenville%20Car%20Speed%20Anti%20Afk%20Walkspeed.lua")
+
+addscript(6403373529, "Current Game","Slap Battles: Kill Aura, God Mode, ESP", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Slap%20Battles%20Kill%20Aura%20God%20Mode%20ESP.lua")
