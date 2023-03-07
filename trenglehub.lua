@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:36:03"
+lastupdate = "GMT +1: 07.03.2023 21:36:07"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -2938,3 +2938,5 @@ addscriptexist(6516141723, "DOORS: Sprint", "pulled from rbxscript.com", "https:
 addscriptexist(2788229376, "Da Hood: Fake Crouch, Anti Aim", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Da%20Hood%20Fake%20Crouch%20Anti%20Aim.lua")
 
 addscriptuniversal("Universal FE Smoke, FE Vape, Troll", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20FE%20Smoke%20FE%20Vape%20Troll.lua")
+
+addscriptexist(2788229376, "Da Hood: Aim Lock, Fly & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Da%20Hood%20Aim%20Lock%20Fly%20%20More.lua")
