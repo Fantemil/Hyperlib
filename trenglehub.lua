@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 21:56:53"
+lastupdate = "GMT +1: 07.03.2023 21:56:56"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -3510,3 +3510,5 @@ addscriptexist(23578803, "Hotel Elephant: Game breaking", "pulled from rbxscript
 addscriptexist(185655149, "Welcome to Bloxburg: Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Welcome%20to%20Bloxburg%20Auto%20Farm.lua")
 
 addscriptexist(11800876530, "+1 Blocks Every Second: Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/%20Blocks%20Every%20Second%20Auto%20Farm.lua")
+
+addhub("Legend Hub V4: Reviz Admin, Infinity Yield & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Legend%20Hub%20V%20Reviz%20Admin%20Infinity%20Yield%20%20More.lua")
