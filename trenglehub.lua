@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 20:59:31"
+lastupdate = "GMT +1: 07.03.2023 20:59:35"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -1926,3 +1926,5 @@ addscript(6356806222, "Current Game","Lag Test 2021: Anti Lag", "pulled from rbx
 addscript(6938803436, "Current Game","Anime Dimensions Simulator: Auto Raid, Auto Win", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime%20Dimensions%20Simulator%20Auto%20Raid%20Auto%20Win.lua")
 
 addscript(10027379988, "Current Game","Sheep Farm: Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sheep%20Farm%20Auto%20Farm.lua")
+
+addscriptexist(11582083063, "Piece Adventures Simulator: Auto Skill, Auto Farm, Auto Collect & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Piece%20Adventures%20Simulator%20Auto%20Skill%20Auto%20Farm%20Auto%20Collect%20%20More.lua")
