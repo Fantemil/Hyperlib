@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 06:40:33"
+lastupdate = "GMT +1: 08.03.2023 06:40:39"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -4710,3 +4710,5 @@ addscriptuniversal("Universal Korblox And Headless", "pulled from rbxscript.com"
 addscript(221718525, "Current Game","Ninja Tycoon: Auto Build, Auto Click Dropper, Auto Collect", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ninja%20Tycoon%20Auto%20Build%20Auto%20Click%20Dropper%20Auto%20Collect.lua")
 
 addscriptexist(6516141723, "DOORS: Sponguss Hub, Give Crucifix", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DOORS%20Sponguss%20Hub%20Give%20Crucifix.lua")
+
+addscriptexist(155615604, "Prison Life: Teleports, Remove Doors & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Prison%20Life%20Teleports%20Remove%20Doors%20%20More.lua")
