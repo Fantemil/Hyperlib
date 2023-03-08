@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 07:04:24"
+lastupdate = "GMT +1: 08.03.2023 07:04:28"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -5438,3 +5438,5 @@ addscript(10224689615, "Current Game","Money Clicker Simulator: Auto Clicker", "
 addscriptexist(370731277, "MeepCity: Fling, Go To Player, View", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MeepCity%20Fling%20Go%20To%20Player%20View.lua")
 
 addscriptexist(3623096087, "Muscle Legends: Infinity Jumps, Auto Crystal, Auto Rebirth", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Muscle%20Legends%20Infinity%20Jumps%20Auto%20Crystal%20Auto%20Rebirth.lua")
+
+addscriptexist(3623096087, "Muscle Legends: Kill Everyone, Teleports, Player Stats", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Muscle%20Legends%20Kill%20Everyone%20Teleports%20Player%20Stats.lua")
