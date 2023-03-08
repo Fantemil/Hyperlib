@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 16:53:16"
+lastupdate = "GMT +1: 08.03.2023 16:53:22"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -9304,3 +9304,5 @@ addscriptexist(2753915549, "Blox Fruits: ESP, Auto Stats & More", "pulled from r
 addscriptexist(10726371567, "Find The Simpsons: Auto Simpsons", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Find%20The%20Simpsons%20Auto%20Simpsons.lua")
 
 addhub("Space Hub: Cool games support", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Space%20Hub%20Cool%20games%20support.lua")
+
+addscript(10924916839, "Current Game","Bee Factory: Auto Collect Honey", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Bee%20Factory%20Auto%20Collect%20Honey.lua")
