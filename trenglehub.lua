@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 12:24:39"
+lastupdate = "GMT +1: 08.03.2023 12:24:43"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -5988,3 +5988,5 @@ addscriptexist(11103424163, "Heist Tycoon: Infinity Money, Noclip, Speedhacks", 
 addscriptexist(10404327868, "Timber Champions: Infinite Hatch Speed, Auto Farm, Free Passes", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Timber%20Champions%20Infinite%20Hatch%20Speed%20Auto%20Farm%20Free%20Passes.lua")
 
 addscriptexist(10726371567, "Find The Simpsons: Collect All Simpsons, Walkspeed & Jumppower Sliders", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Find%20The%20Simpsons%20Collect%20All%20Simpsons%20Walkspeed%20%20Jumppower%20Sliders.lua")
+
+addscriptexist(71315343, "Dragon Ball Rage: Play Music, BLTime, Options", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Dragon%20Ball%20Rage%20Play%20Music%20BLTime%20Options.lua")
