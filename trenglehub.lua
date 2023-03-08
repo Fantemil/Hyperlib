@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 06:51:27"
+lastupdate = "GMT +1: 08.03.2023 06:51:30"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -5044,3 +5044,5 @@ addscriptexist(10898965735, "Mine Racer: Auto Eggs, Auto Mine, Auto Join", "pull
 addscriptexist(6872265039, "BedWars: Press P to teleport", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BedWars%20Press%20P%20to%20teleport.lua")
 
 addscriptexist(9992339729, "Longest Answer Wins: Give Longest Answer, Copy Longest Answer, Answer", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Longest%20Answer%20Wins%20Give%20Longest%20Answer%20Copy%20Longest%20Answer%20Answer.lua")
+
+addscriptexist(29812337, "Framed: Aimlock, ESP, Remove Face", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Framed%20Aimlock%20ESP%20Remove%20Face.lua")
