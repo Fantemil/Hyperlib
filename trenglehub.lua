@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 13:17:44"
+lastupdate = "GMT +1: 08.03.2023 13:17:54"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -7388,3 +7388,5 @@ addscriptexist(6888253864, "Wacky Wizards: Auto Win RB Battles", "pulled from rb
 addscriptexist(10531659515, "Shovel Battles: Kill Aura, Give Hits, God Mode", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Shovel%20Battles%20Kill%20Aura%20Give%20Hits%20God%20Mode.lua")
 
 addscriptexist(6708206173, "Rate My Avatar: My custom 3D rendering engine", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Rate%20My%20Avatar%20My%20custom%20D%20rendering%20engine.lua")
+
+addscriptexist(11400511154, "Monkey Tycoon: Auto Buy Droppers", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Monkey%20Tycoon%20Auto%20Buy%20Droppers.lua")
