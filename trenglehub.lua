@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 14:51:55"
+lastupdate = "GMT +1: 08.03.2023 14:51:59"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -8172,3 +8172,5 @@ addhub("AcrHub: 25 Games", "pulled from rbxscript.com", "https://raw.githubuserc
 addscriptexist(9862832367, "Never-Ending Cart Ride: Break all cars, Annoy all, Fly", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NeverEnding%20Cart%20Ride%20Break%20all%20cars%20Annoy%20all%20Fly.lua")
 
 addscriptexist(10918081103, "Killstreak Chaos: Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Killstreak%20Chaos%20Auto%20Farm.lua")
+
+addscriptexist(2788229376, "Da Hood: Press B to Aim Lock", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Da%20Hood%20Press%20B%20to%20Aim%20Lock.lua")
