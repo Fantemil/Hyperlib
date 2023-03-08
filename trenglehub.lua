@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 06:48:02"
+lastupdate = "GMT +1: 08.03.2023 06:48:05"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -4942,3 +4942,5 @@ addscriptexist(5972698540, "Easy Obby: Teleport Menu", "pulled from rbxscript.co
 addscriptexist(893973440, "Flee the Facility: ESP, XRay & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Flee%20the%20Facility%20ESP%20XRay%20%20More.lua")
 
 addscriptexist(2693023319, "Expedition Antarctica: Free VIP, Free Storm Goggles, Remove Fall Damage", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Expedition%20Antarctica%20Free%20VIP%20Free%20Storm%20Goggles%20Remove%20Fall%20Damage.lua")
+
+addscriptexist(2809202155, "Your Bizarre Adventure: Skip Loading Screen", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Your%20Bizarre%20Adventure%20Skip%20Loading%20Screen.lua")
