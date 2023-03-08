@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 20:48:46"
+lastupdate = "GMT +1: 08.03.2023 20:48:50"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -14440,3 +14440,5 @@ addscriptexist(4581966615, "Anomic [Inf Stamina, Esp]", "pulled from rbxscript.c
 addscriptexist(2866967438, "Fishing Simulator [Auto Farm, Auto Fish]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Fishing%20Simulator%20Auto%20Farm%20Auto%20Fish.lua")
 
 addscriptexist(5602055394, "Hood Modded [Inf Jump, Esp]]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Hood%20Modded%20Inf%20Jump%20Esp.lua")
+
+addscriptexist(8962384769, "Firework Simulator [Auto Hatch, AutoFarm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Firework%20Simulator%20Auto%20Hatch%20AutoFarm.lua")
