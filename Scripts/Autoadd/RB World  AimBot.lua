@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/CEOs-Hub/Script/main/.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Legenda06/RB-World-4/main/README.md"))()
