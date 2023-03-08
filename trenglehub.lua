@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 07:01:18"
+lastupdate = "GMT +1: 08.03.2023 07:01:21"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -5346,3 +5346,5 @@ addscriptexist(2788229376, "Da Hood: Walskpeed, Jump Power, Hitboxes", "pulled f
 addscriptexist(155615604, "Prison Life: Kill Aura, Auto Respawn, Prison Breaker", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Prison%20Life%20Kill%20Aura%20Auto%20Respawn%20Prison%20Breaker.lua")
 
 addscriptexist(11216791462, "Hungry Pig: Infinity Money", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Hungry%20Pig%20Infinity%20Money.lua")
+
+addscriptexist(10427804764, "Soulmate Colour: Change color to any text you want", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Soulmate%20Colour%20Change%20color%20to%20any%20text%20you%20want.lua")
