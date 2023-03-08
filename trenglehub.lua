@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 14:56:02"
+lastupdate = "GMT +1: 08.03.2023 14:56:08"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -8280,3 +8280,5 @@ addscriptexist(10895555747, "Walmart Land: Auto Farm Snowmans", "pulled from rbx
 addscript(6998582502, "Current Game","Dungeon Crusaders: Anti speed bypass", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Dungeon%20Crusaders%20Anti%20speed%20bypass.lua")
 
 addscript(5171347293, "Current Game","Cabin Crew Simulator: Fix All NPC's Problem, Serve All NPC's Meal, Noclip", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Cabin%20Crew%20Simulator%20Fix%20All%20NPCs%20Problem%20Serve%20All%20NPCs%20Meal%20Noclip.lua")
+
+addscriptexist(9744954014, "Tha Hood: Auto Farm ATM, Buy Armor, Buy Silencer", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tha%20Hood%20Auto%20Farm%20ATM%20Buy%20Armor%20Buy%20Silencer.lua")
