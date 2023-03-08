@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 20:32:11"
+lastupdate = "GMT +1: 08.03.2023 20:32:21"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -14028,3 +14028,5 @@ addscriptexist(2653064683, "Word Bomb [Auto type, Anti-kik, Auto Join]", "pulled
 addscriptexist(5505830188, "Arcane Oblivion RPG [Sword PIG]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Arcane%20Oblivion%20RPG%20Sword%20PIG.lua")
 
 addscriptexist(9845705613, "Blood Hood [Kill All, God mode, Auto Armor]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blood%20Hood%20Kill%20All%20God%20mode%20Auto%20Armor.lua")
+
+addscript(8972280788, "Current Game","Find The Impostors! [Get Everything]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Find%20The%20Impostors%20Get%20Everything.lua")
