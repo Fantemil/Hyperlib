@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 20:58:52"
+lastupdate = "GMT +1: 08.03.2023 20:58:56"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -14696,3 +14696,5 @@ addscriptexist(9498006165, "Tapping Simulator [AutoClick, AutoRebirth]", "pulled
 addscriptexist(7177496972, "Anime Warriors [Auto Farm, Better Gfx]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime%20Warriors%20Auto%20Farm%20Better%20Gfx.lua")
 
 addscriptexist(7560156054, "Clicker Simulator [Collect all trophies]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Clicker%20Simulator%20Collect%20all%20trophies.lua")
+
+addscriptexist(9049840490, "Sonic Speed Simulator [Auto Win Race, Collect All Obbys, Auto Run]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sonic%20Speed%20Simulator%20Auto%20Win%20Race%20Collect%20All%20Obbys%20Auto%20Run.lua")
