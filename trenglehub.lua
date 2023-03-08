@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 07:04:57"
+lastupdate = "GMT +1: 08.03.2023 07:05:01"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -5456,3 +5456,5 @@ addscriptexist(1962086868, "Tower of Hell: Godmode, Player Mods, Give All Items"
 addscriptexist(9498006165, "Tapping Simulator: Auto Tap, Auto Rebirth, Open Frames", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tapping%20Simulator%20Auto%20Tap%20Auto%20Rebirth%20Open%20Frames.lua")
 
 addscriptexist(10977918334, "Merge Droppers: Infinity Parts, Auto Deposit, Auto Buy Droppers", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Merge%20Droppers%20Infinity%20Parts%20Auto%20Deposit%20Auto%20Buy%20Droppers.lua")
+
+addscriptexist(3956818381, "Ninja Legends: Auto Swing, Auto Buy Swords & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ninja%20Legends%20Auto%20Swing%20Auto%20Buy%20Swords%20%20More.lua")
