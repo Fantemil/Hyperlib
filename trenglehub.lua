@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 13:07:00"
+lastupdate = "GMT +1: 08.03.2023 13:07:04"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -7106,3 +7106,5 @@ addscriptexist(920587237, "Adopt Me: Pet Manager, Cash Manager, Event Manager", 
 addscriptexist(698448212, "RoBeats: Great Chance, Okay Chance, Auto Player", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RoBeats%20Great%20Chance%20Okay%20Chance%20Auto%20Player.lua")
 
 addscriptexist(4566572536, "Vehicle Legends: Auto Highway Race, Auto Circuit Race, Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Vehicle%20Legends%20Auto%20Highway%20Race%20Auto%20Circuit%20Race%20Auto%20Farm.lua")
+
+addscriptexist(8054462345, "Michael's Zombies: No spread", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Michaels%20Zombies%20No%20spread.lua")
