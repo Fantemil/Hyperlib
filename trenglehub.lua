@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 20:21:25"
+lastupdate = "GMT +1: 08.03.2023 20:21:29"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -13740,3 +13740,5 @@ addscriptexist(2580982329, "Texting Simulator | GUI - Fast Auto Farm", "pulled f
 addscriptexist(2809202155, "Your Bizarre Adventure | Item Farm ServerHop", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Your%20Bizarre%20Adventure%20%20Item%20Farm%20ServerHop.lua")
 
 addscriptexist(2753915549, "Blox Fruits | BuyItem, AutoFarm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blox%20Fruits%20%20BuyItem%20AutoFarm.lua")
+
+addscriptexist(10439295403, "Anime Champions | Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime%20Champions%20%20Auto%20Farm.lua")
