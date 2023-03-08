@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 16:48:46"
+lastupdate = "GMT +1: 08.03.2023 16:48:50"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -9188,3 +9188,5 @@ addscriptexist(6902912928, "GET TO THE TOP: Get All Items, Annoy Players, Walksp
 addscriptexist(2788229376, "Da Hood: AImlock, Player Mods & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Da%20Hood%20AImlock%20Player%20Mods%20%20More.lua")
 
 addscriptexist(3956818381, "Ninja Legends: Auto Sell, Auto Open Crystalls & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ninja%20Legends%20Auto%20Sell%20Auto%20Open%20Crystalls%20%20More.lua")
+
+addscript(9300344892, "Current Game","Tornado Simulator: Auto Sell, Auto Collection, Auto Rebirth", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tornado%20Simulator%20Auto%20Sell%20Auto%20Collection%20Auto%20Rebirth.lua")
