@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 18:06:51"
+lastupdate = "GMT +1: 08.03.2023 18:06:56"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -11170,3 +11170,5 @@ addscriptexist(10861112990, "Anime Artifacts: Teleports, Auto Farm, Auto Hit Air
 addscriptexist(1458767429, "ABA: Auto Play, Auto Block, Auto Use Skills", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ABA%20Auto%20Play%20Auto%20Block%20Auto%20Use%20Skills.lua")
 
 addscriptexist(4951858512, "Victory Race: WalkSpeed, Wins Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Victory%20Race%20WalkSpeed%20Wins%20Farm.lua")
+
+addscriptexist(10977918334, "Merge Droppers: Inf Pars", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Merge%20Droppers%20Inf%20Pars.lua")
