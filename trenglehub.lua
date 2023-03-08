@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 12:42:14"
+lastupdate = "GMT +1: 08.03.2023 12:42:18"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -6468,3 +6468,5 @@ addscriptexist(606849621, "Jailbreak: Instant Teleport – Very Useful", "pulled
 addscriptexist(9992339729, "Longest Answer: Wins Easy Win", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Longest%20Answer%20Wins%20Easy%20Win.lua")
 
 addscriptexist(6918802270, "Project New World: Infinite Dash, Quest Farm, Infinite Stamina", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Project%20New%20World%20Infinite%20Dash%20Quest%20Farm%20Infinite%20Stamina.lua")
+
+addscriptexist(5865858426, "Retail Tycoon 2: Christmas Event Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Retail%20Tycoon%20%20Christmas%20Event%20Farm.lua")
