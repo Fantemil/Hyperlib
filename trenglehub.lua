@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 18:09:20"
+lastupdate = "GMT +1: 08.03.2023 18:09:24"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -11232,3 +11232,5 @@ addhub("Nau Hub: 2 Games", "pulled from rbxscript.com", "https://raw.githubuserc
 addscriptexist(3260590327, "Tower Defense Simulator: Sniper & Scout Auto Farm [level 0]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tower%20Defense%20Simulator%20Sniper%20%20Scout%20Auto%20Farm%20level%20.lua")
 
 addscriptexist(606849621, "Jailbreak: Infinity Nitro, Car Fly & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Jailbreak%20Infinity%20Nitro%20Car%20Fly%20%20More.lua")
+
+addscriptexist(2413927524, "The Rake REMASTERED: Player ESP, Rake Killaura, Bring Scraps", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/The%20Rake%20REMASTERED%20Player%20ESP%20Rake%20Killaura%20Bring%20Scraps.lua")
