@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 21:21:00"
+lastupdate = "GMT +1: 08.03.2023 21:21:05"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -15050,3 +15050,5 @@ addscriptexist(4410049285, "Driving Simulator [Walkspeed, Rainbow Car]", "pulled
 addscriptexist(10524502174, "One Punch Fighters [AutoRankUp, AutoClick]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/One%20Punch%20Fighters%20AutoRankUp%20AutoClick.lua")
 
 addscriptexist(648362523, "Breaking Point [Dupe]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Breaking%20Point%20Dupe.lua")
+
+addscriptexist(6516141723, "DOORS [Gui with cool functions]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DOORS%20Gui%20with%20cool%20functions.lua")
