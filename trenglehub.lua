@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 19:11:33"
+lastupdate = "GMT +1: 08.03.2023 19:11:38"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -12578,3 +12578,5 @@ addscriptexist(855499080, "SKYWARS: Esp, SIlent Aim, Teleports", "pulled from rb
 addscriptexist(4036494886, "Gun Simulator: Infinity Coins", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Gun%20Simulator%20Infinity%20Coins.lua")
 
 addscriptexist(5956785391, "Project Slayers: AutoTrain Breathing", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Project%20Slayers%20AutoTrain%20Breathing.lua")
+
+addscriptexist(9992339729, "Longest Answer Wins: Answer Question, Auto Win & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Longest%20Answer%20Wins%20Answer%20Question%20Auto%20Win%20%20More.lua")
