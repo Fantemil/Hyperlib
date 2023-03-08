@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 12:56:32"
+lastupdate = "GMT +1: 08.03.2023 12:56:36"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -6836,3 +6836,5 @@ addscriptexist(1537690962, "Bee Swarm Simulator: Auto Farm, Godmode & More", "pu
 addscriptexist(11346342371, "making memes in your basement at 3 AM tycoon: Very Fast Upload", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/making%20memes%20in%20your%20basement%20at%20%20AM%20tycoon%20Very%20Fast%20Upload.lua")
 
 addscriptexist(6422372837, "Snipers: Silent Aim, No Shoot Cooldown, Wallbang", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Snipers%20Silent%20Aim%20No%20Shoot%20Cooldown%20Wallbang.lua")
+
+addscript(1662219031, "Current Game","Life in Paradise: Parts Spamer", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Life%20in%20Paradise%20Parts%20Spamer.lua")
