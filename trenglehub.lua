@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 06:49:47"
+lastupdate = "GMT +1: 08.03.2023 06:49:50"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -4996,3 +4996,5 @@ addscriptexist(3527629287, "Big Paintball! Silent Aim, Wallbang", "pulled from r
 addscriptexist(11639667117, "Eat Same Color Food Challenge: Bring Items, Instant Press", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Eat%20Same%20Color%20Food%20Challenge%20Bring%20Items%20Instant%20Press.lua")
 
 addscriptexist(891852901, "Greenville: AutoFarm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Greenville%20AutoFarm.lua")
+
+addscriptexist(1962086868, "Tower of Hell: Ac bypass, Instant win, Inf jump", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tower%20of%20Hell%20Ac%20bypass%20Instant%20win%20Inf%20jump.lua")
