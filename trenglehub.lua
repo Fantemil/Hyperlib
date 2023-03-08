@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 17:16:07"
+lastupdate = "GMT +1: 08.03.2023 17:16:11"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -9888,3 +9888,5 @@ addscript(11436221007, "Current Game","Elton John Presents 'Beyond The Yellow Br
 addscript(7817016260, "Current Game","Bloxston Mystery: Anti Cheat Bypass, Expose Roles In Chat", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Bloxston%20Mystery%20Anti%20Cheat%20Bypass%20Expose%20Roles%20In%20Chat.lua")
 
 addscriptexist(292439477, "Phantom Forces: Geolocation Lootbox Restriction Bypass", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Phantom%20Forces%20Geolocation%20Lootbox%20Restriction%20Bypass.lua")
+
+addscriptexist(5956785391, "Project Slayers: Auto Farm, Kill Aura, Inf Stamina & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Project%20Slayers%20Auto%20Farm%20Kill%20Aura%20Inf%20Stamina%20%20More.lua")
