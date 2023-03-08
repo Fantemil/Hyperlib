@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 21:19:07"
+lastupdate = "GMT +1: 08.03.2023 21:19:13"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -15004,3 +15004,5 @@ addscriptexist(2039118386, "Neighborhood war [Bypasser]", "pulled from rbxscript
 addhub("Luna Hub [9 SUPPORTED GAMES]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Luna%20Hub%20%20SUPPORTED%20GAMES.lua")
 
 addscriptexist(2772610559, "Farming and Friends [Auto Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Farming%20and%20Friends%20Auto%20Farm.lua")
+
+addscriptexist(9183932460, "Untitled Hood [Silent aim, Fly]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Untitled%20Hood%20Silent%20aim%20Fly.lua")
