@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 14:40:06"
+lastupdate = "GMT +1: 08.03.2023 14:40:10"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -7852,3 +7852,5 @@ addscriptuniversal("Universal Reach / Killaura", "pulled from rbxscript.com", "h
 addscriptexist(8506369721, "dig to china: Auto Teleport to China", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/dig%20to%20china%20Auto%20Teleport%20to%20China.lua")
 
 addscriptexist(6403373529, "Slap Battles: MegaRock Auto-Get, Redacted Auto-Get", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Slap%20Battles%20MegaRock%20AutoGet%20Redacted%20AutoGet.lua")
+
+addscriptuniversal("Universal Grandmaster's Animations", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Grandmasters%20Animations.lua")
