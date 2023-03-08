@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 13:03:41"
+lastupdate = "GMT +1: 08.03.2023 13:03:45"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -7020,3 +7020,5 @@ addscriptexist(6299805723, "Anime Fighters Simulator: Auto Click Damage, Auto Fa
 addhub("Lazium Hub: 15+ Games", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Lazium%20Hub%20%20Games.lua")
 
 addscriptexist(920587237, "Adopt Me: Back Flip, Front Flip, All Pets Neon or Fly or Rideable", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Adopt%20Me%20Back%20Flip%20Front%20Flip%20All%20Pets%20Neon%20or%20Fly%20or%20Rideable.lua")
+
+addscriptexist(4508456371, "Shortest Answer Wins: Money Collector, Anti Afk, Auto Type", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Shortest%20Answer%20Wins%20Money%20Collector%20Anti%20Afk%20Auto%20Type.lua")
