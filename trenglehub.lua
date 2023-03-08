@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 17:29:01"
+lastupdate = "GMT +1: 08.03.2023 17:29:06"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -10220,3 +10220,5 @@ addscriptexist(6516141723, "DOORS: Make the Room you are in red", "pulled from r
 addscriptexist(10108131074, "Mow The Lawn: Auto Hatch Eggs, Auto Mow, Auto Refill Gas", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mow%20The%20Lawn%20Auto%20Hatch%20Eggs%20Auto%20Mow%20Auto%20Refill%20Gas.lua")
 
 addscriptexist(10631181587, "Stone Miner Simulator 2: Auto Sell, Auto Upgrade, Auto Buy", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Stone%20Miner%20Simulator%20%20Auto%20Sell%20Auto%20Upgrade%20Auto%20Buy.lua")
+
+addscriptexist(654732683, "Car Crushers 2: Auto Farm, Car Mods & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Car%20Crushers%20%20Auto%20Farm%20Car%20Mods%20%20More.lua")
