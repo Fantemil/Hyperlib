@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 12:55:48"
+lastupdate = "GMT +1: 08.03.2023 12:55:56"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -6820,3 +6820,5 @@ addscriptexist(5956785391, "Project Slayers: Infinite Dungeon Auto Farm", "pulle
 addscript(9524757503, "Current Game","iHeartLand: Music Tycoon: Absorb The Bell", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/iHeartLand%20Music%20Tycoon%20Absorb%20The%20Bell.lua")
 
 addscriptuniversal("Universal Character Editor Thing", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Character%20Editor%20Thing.lua")
+
+addscriptexist(292439477, "Phantom Forces: Silent AIm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Phantom%20Forces%20Silent%20AIm.lua")
