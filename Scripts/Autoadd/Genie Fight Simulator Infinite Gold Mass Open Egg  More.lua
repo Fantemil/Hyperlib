@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/dielanforrealms/Genie-Fight-Simulator-GUI/main/Source%20Code",true))()
