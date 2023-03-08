@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 12:24:54"
+lastupdate = "GMT +1: 08.03.2023 12:24:58"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -5996,3 +5996,5 @@ addscriptexist(1252559098, "Snow Shoveling Simulator: Unlock Cave, No Cooldown &
 addscript(8573962925, "Current Game","Alternate Battlegrounds: Attack To Back, Auto Clicker", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Alternate%20Battlegrounds%20Attack%20To%20Back%20Auto%20Clicker.lua")
 
 addscriptexist(6516141723, "DOORS: Unlock All Achievements, No Screech, Fly", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DOORS%20Unlock%20All%20Achievements%20No%20Screech%20Fly.lua")
+
+addscriptexist(10598587051, "Anime Clicker Fight: Auto Click, Auto Dash, Auto Run", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime%20Clicker%20Fight%20Auto%20Click%20Auto%20Dash%20Auto%20Run.lua")
