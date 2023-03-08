@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 18:53:06"
+lastupdate = "GMT +1: 08.03.2023 18:53:10"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -12176,3 +12176,5 @@ addscript(9711302332, "Current Game","Clicker Heroes: Auto Clicker, Auto Damage 
 addscriptexist(9733390246, "Stair Tappers: Auto Play, Keybinds", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Stair%20Tappers%20Auto%20Play%20Keybinds.lua")
 
 addscriptexist(10804519995, "Ro Fruit: Inf Stats", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ro%20Fruit%20Inf%20Stats.lua")
+
+addscriptexist(10819569010, "Fall: Win Almost Everything, Find Most Badges, Die By Cars", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Fall%20Win%20Almost%20Everything%20Find%20Most%20Badges%20Die%20By%20Cars.lua")
