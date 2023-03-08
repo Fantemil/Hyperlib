@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 18:13:01"
+lastupdate = "GMT +1: 08.03.2023 18:13:06"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -11318,3 +11318,5 @@ addscript(258258996, "Current Game","Miners Haven 2022: Candy Farm", "pulled fro
 addscript(10297454652, "Current Game","Call Of Mini Zombies: Infinite Stats", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Call%20Of%20Mini%20Zombies%20Infinite%20Stats.lua")
 
 addscriptexist(3260590327, "Tower Defense Simulator: Auto Farm Gems, Auto Strat", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tower%20Defense%20Simulator%20Auto%20Farm%20Gems%20Auto%20Strat.lua")
+
+addscriptexist(9993529229, "Counter Blox Remastered: Kill All, ESP, Trigger Bot", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Counter%20Blox%20Remastered%20Kill%20All%20ESP%20Trigger%20Bot.lua")
