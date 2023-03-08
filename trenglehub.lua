@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 17:43:28"
+lastupdate = "GMT +1: 08.03.2023 17:43:37"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -10584,3 +10584,5 @@ addscriptexist(11187148979, "Ultra Unfair: Auto Farm, Kill Aura, Auto Quest & Mo
 addscriptexist(2809202155, "Your Bizarre Adventure: Auto Sbr", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Your%20Bizarre%20Adventure%20Auto%20Sbr.lua")
 
 addscriptexist(8908228901, "SharkBite 2: Auto Farm As Survivor, AFK Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SharkBite%20%20Auto%20Farm%20As%20Survivor%20AFK%20Farm.lua")
+
+addscript(10439295403, "Current Game","Anime Champions: Auto Stats, Teleports, Fast Attack", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime%20Champions%20Auto%20Stats%20Teleports%20Fast%20Attack.lua")
