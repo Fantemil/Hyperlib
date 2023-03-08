@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 20:41:58"
+lastupdate = "GMT +1: 08.03.2023 20:42:03"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -14278,3 +14278,5 @@ addscript(9291030453, "Current Game","The Chainsmokers Concert Experience [GetAl
 addscriptexist(9872472334, "Evade [AutoRespawn, Esp]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Evade%20AutoRespawn%20Esp.lua")
 
 addscriptexist(2537430692, "Jenga [Walkspeed, End Game]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Jenga%20Walkspeed%20End%20Game.lua")
+
+addscriptexist(7655745946, "Dunking Simulator [Free Gamepass]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Dunking%20Simulator%20Free%20Gamepass.lua")
