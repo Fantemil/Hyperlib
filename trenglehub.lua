@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 18:00:37"
+lastupdate = "GMT +1: 08.03.2023 18:00:42"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -11012,3 +11012,5 @@ addscriptexist(648362523, "Breaking Point: Auto Farm, Full Bright, Aimbot", "pul
 addscriptexist(9872472334, "Evade: Auto Farm, God Mode, Infinity Jump", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Evade%20Auto%20Farm%20God%20Mode%20Infinity%20Jump.lua")
 
 addscriptexist(8726743209, "Refinery Caves: Wood Sell Auto Farm, Delievery Auto Farm, Bring All Ores", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Refinery%20Caves%20Wood%20Sell%20Auto%20Farm%20Delievery%20Auto%20Farm%20Bring%20All%20Ores.lua")
+
+addhub("COCONUT HUB: 7 Games", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/COCONUT%20HUB%20%20Games.lua")
