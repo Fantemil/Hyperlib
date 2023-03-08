@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 14:39:40"
+lastupdate = "GMT +1: 08.03.2023 14:39:44"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -7840,3 +7840,5 @@ addscriptexist(2788229376, "Da Hood: FOV, Wall Check, Silent Aim", "pulled from 
 addscriptuniversal("Universal Server Finder", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Server%20Finder.lua")
 
 addscriptexist(7525610732, "Kaizen: Auto Farm Mob, Weapon, Inf Stamina", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Kaizen%20Auto%20Farm%20Mob%20Weapon%20Inf%20Stamina.lua")
+
+addscriptexist(6679968919, "Fly Race: Auto Farm, Auto Loops, Auto Laps", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Fly%20Race%20Auto%20Farm%20Auto%20Loops%20Auto%20Laps.lua")
