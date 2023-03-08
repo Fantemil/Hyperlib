@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 14:58:12"
+lastupdate = "GMT +1: 08.03.2023 14:58:16"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -8338,3 +8338,5 @@ addscriptexist(3837841034, "Deadline: Enemy Esp - Open Source", "pulled from rbx
 addscriptexist(8506369721, "Dig To China: Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Dig%20To%20China%20Auto%20Farm.lua")
 
 addscriptexist(71315343, "Dragon Race Clicker: Server Crasher", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Dragon%20Race%20Clicker%20Server%20Crasher.lua")
+
+addscriptexist(10041108328, "Dark Life [beta]: Printer Steal, Gun Steal", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Dark%20Life%20beta%20Printer%20Steal%20Gun%20Steal.lua")
