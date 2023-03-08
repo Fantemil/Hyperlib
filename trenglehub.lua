@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 13:17:40"
+lastupdate = "GMT +1: 08.03.2023 13:17:44"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -7386,3 +7386,5 @@ addscriptexist(2753915549, "Blox Fruits: Auto Chest, Server Hop", "pulled from r
 addscriptexist(6888253864, "Wacky Wizards: Auto Win RB Battles", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Wacky%20Wizards%20Auto%20Win%20RB%20Battles.lua")
 
 addscriptexist(10531659515, "Shovel Battles: Kill Aura, Give Hits, God Mode", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Shovel%20Battles%20Kill%20Aura%20Give%20Hits%20God%20Mode.lua")
+
+addscriptexist(6708206173, "Rate My Avatar: My custom 3D rendering engine", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Rate%20My%20Avatar%20My%20custom%20D%20rendering%20engine.lua")
