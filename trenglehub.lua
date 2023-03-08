@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 07:07:43"
+lastupdate = "GMT +1: 08.03.2023 07:07:49"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -5542,3 +5542,5 @@ addscriptexist(6516141723, "DOORS: Spawn Seek, Spawn Jack, Spawn Glitch", "pulle
 addscriptexist(11040063484, "Sword Fighters Simulator: Kill Aura, Auto Farm, Collect Coins", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sword%20Fighters%20Simulator%20Kill%20Aura%20Auto%20Farm%20Collect%20Coins.lua")
 
 addscriptexist(5993942214, "Rush Point: Silent Aim, No Recoil, Bhop", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Rush%20Point%20Silent%20Aim%20No%20Recoil%20Bhop.lua")
+
+addscriptexist(286090429, "Arsenal: Infinity Ammo, Silent AIm, ESP", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Arsenal%20Infinity%20Ammo%20Silent%20AIm%20ESP.lua")
