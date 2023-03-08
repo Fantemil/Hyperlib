@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 13:02:11"
+lastupdate = "GMT +1: 08.03.2023 13:02:15"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -6982,3 +6982,5 @@ addscript(6366283085, "Current Game","GARENA FREE FIRE MAX: Auto Kill All Player
 addscriptuniversal("Universal Instance Creator", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Instance%20Creator.lua")
 
 addscript(3144213556, "Current Game","Troll Obby: Press F to complete the Obby", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Troll%20Obby%20Press%20F%20to%20complete%20the%20Obby.lua")
+
+addscript(10119617028, "Current Game","Airsoft Center: Crasher for game", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Airsoft%20Center%20Crasher%20for%20game.lua")
