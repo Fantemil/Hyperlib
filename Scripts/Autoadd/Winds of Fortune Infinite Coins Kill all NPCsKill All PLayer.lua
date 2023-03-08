@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/aquakoalas/pirate-game-stuff/main/PirateGameMainCodeButLikeKeyless"))()
