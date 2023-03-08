@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 07:08:53"
+lastupdate = "GMT +1: 08.03.2023 07:08:57"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -5578,3 +5578,5 @@ addscriptexist(7952502098, "Impossible Glass Bridge Obby: Show Correct Parts", "
 addscriptexist(920587237, "Adopt Me: Player ESP, XRay", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Adopt%20Me%20Player%20ESP%20XRay.lua")
 
 addscriptexist(1537690962, "Bee Swarm Simulator: Auto Dig, Auto Sprinkler, Auto Plant", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Bee%20Swarm%20Simulator%20Auto%20Dig%20Auto%20Sprinkler%20Auto%20Plant.lua")
+
+addscriptexist(3956818381, "Ninja Legends: Auto Swing, Auto Sell, Coins Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ninja%20Legends%20Auto%20Swing%20Auto%20Sell%20Coins%20Farm.lua")
