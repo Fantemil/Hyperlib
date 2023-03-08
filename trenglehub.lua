@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 15:16:25"
+lastupdate = "GMT +1: 08.03.2023 15:16:29"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -8826,3 +8826,5 @@ addscriptexist(7180042682, "Military Tycoon: Event Auto Farm", "pulled from rbxs
 addscript(10906235788, "Current Game","Crocs World Minigames: Free UGC item", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Crocs%20World%20Minigames%20Free%20UGC%20item.lua")
 
 addscriptexist(2317712696, "The Wild West: No Spread, Fullbright & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/The%20Wild%20West%20No%20Spread%20Fullbright%20%20More.lua")
+
+addscriptexist(623694595, "Phenom: Aimbot", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Phenom%20Aimbot.lua")
