@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 19:15:58"
+lastupdate = "GMT +1: 08.03.2023 19:16:03"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -12668,3 +12668,5 @@ addscriptexist(2546155523, "RoVille: Taxi driver farm, Auto restock business, Po
 addscriptexist(537413528, "Arsenal: Silent Aim, Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Arsenal%20Silent%20Aim%20Auto%20Farm.lua")
 
 addscriptexist(7305309231, "Taxi Boss: Auto Farm Server Hop", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Taxi%20Boss%20Auto%20Farm%20Server%20Hop.lua")
+
+addscriptexist(7952502098, "Impossible Glass Bridge Obby: Reveal Glass", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Impossible%20Glass%20Bridge%20Obby%20Reveal%20Glass.lua")
