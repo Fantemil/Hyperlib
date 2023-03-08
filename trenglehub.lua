@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 14:33:41"
+lastupdate = "GMT +1: 08.03.2023 14:33:45"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -7680,3 +7680,5 @@ addscriptexist(11445923563, "One Fruit Simulator: Auto Skills, Auto Train & More
 addscriptexist(2788229376, "Da Hood: Lettuce Farm, Auto Shoes & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Da%20Hood%20Lettuce%20Farm%20Auto%20Shoes%20%20More.lua")
 
 addscriptexist(3233893879, "Bad Business: Aimbot, ESP", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Bad%20Business%20Aimbot%20ESP.lua")
+
+addscript(7426523309, "Current Game","Clean Up Roblox! Ban selected Player", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Clean%20Up%20Roblox%20Ban%20selected%20Player.lua")
