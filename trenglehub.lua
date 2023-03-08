@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 19:10:55"
+lastupdate = "GMT +1: 08.03.2023 19:11:00"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -12562,3 +12562,5 @@ addscriptexist(10861112990, "Anime Artifacts Simulator 2: Inf Money", "pulled fr
 addscriptexist(9167501050, "Lightsaber Arena: Kill Aura, Ear Rape, Auto Swap Forms", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Lightsaber%20Arena%20Kill%20Aura%20Ear%20Rape%20Auto%20Swap%20Forms.lua")
 
 addscriptexist(2753915549, "Blox Fruits: Auto Farm, Fruit Farm & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blox%20Fruits%20Auto%20Farm%20Fruit%20Farm%20%20More.lua")
+
+addscriptexist(537413528, "Build A Boat For Treasure: Auto Farm, Anti Afk", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Build%20A%20Boat%20For%20Treasure%20Auto%20Farm%20Anti%20Afk.lua")
