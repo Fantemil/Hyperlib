@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 19:37:50"
+lastupdate = "GMT +1: 08.03.2023 19:37:55"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -13154,3 +13154,5 @@ addscriptexist(2753915549, "Blox Fruits: Auto Farm, Teleports, Auto Stats", "pul
 addscript(28586816, "Current Game","Get Eaten: Auto Farm Points, Player Modifications, Anti Kick", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Get%20Eaten%20Auto%20Farm%20Points%20Player%20Modifications%20Anti%20Kick.lua")
 
 addscriptuniversal("Universal: SilentAim, AimLock", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20SilentAim%20AimLock.lua")
+
+addscriptexist(6516141723, "DOORS: Walkspeed, FullBright, FOV", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DOORS%20Walkspeed%20FullBright%20FOV.lua")
