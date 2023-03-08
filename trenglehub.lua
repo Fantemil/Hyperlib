@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 17:38:27"
+lastupdate = "GMT +1: 08.03.2023 17:38:31"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -10454,3 +10454,5 @@ addscriptexist(2788229376, "Da Hood: Outfit Changer", "pulled from rbxscript.com
 addscriptexist(8726743209, "Refinery Caves: Teleports, Anti AFK, Auto Farm Delievery Boxes", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Refinery%20Caves%20Teleports%20Anti%20AFK%20Auto%20Farm%20Delievery%20Boxes.lua")
 
 addscriptexist(147848991, "Be A Parkour Ninja: Auto Kill", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Be%20A%20Parkour%20Ninja%20Auto%20Kill.lua")
+
+addscriptexist(537413528, "Build A Boat For Treasure: Auto Farms, Auto Buy Chests, Teleports", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Build%20A%20Boat%20For%20Treasure%20Auto%20Farms%20Auto%20Buy%20Chests%20Teleports.lua")
