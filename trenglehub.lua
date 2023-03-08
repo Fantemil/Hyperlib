@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 17:22:46"
+lastupdate = "GMT +1: 08.03.2023 17:22:51"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -10058,3 +10058,5 @@ addscriptexist(2753915549, "Blox Fruits: Aimbot, Auto Stats & More", "pulled fro
 addscriptexist(6717367660, "Happy Land: Money Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Happy%20Land%20Money%20Auto%20Farm.lua")
 
 addscriptexist(10723695195, "Anime Evolution Simulator: Auto Farm, Auto Power, Collect Coins", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime%20Evolution%20Simulator%20Auto%20Farm%20Auto%20Power%20Collect%20Coins.lua")
+
+addscriptexist(10320240572, "Easy Race Clicker: Auto Trail, Server Hop, Auto Rebirth", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Easy%20Race%20Clicker%20Auto%20Trail%20Server%20Hop%20Auto%20Rebirth.lua")
