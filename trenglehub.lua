@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 14:34:26"
+lastupdate = "GMT +1: 08.03.2023 14:34:30"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -7700,3 +7700,5 @@ addscriptexist(9601565001, "Car Crash System: Spawn any paid car, Telekinesis, T
 addscriptuniversal("Universal Float Keyboard", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Float%20Keyboard.lua")
 
 addscriptexist(6191637341, "Weapon Simulator 2: Bring All Candies", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Weapon%20Simulator%20%20Bring%20All%20Candies.lua")
+
+addscriptexist(11596351062, "prove mom wrong by being a famous rapper tycoon: Anti Afk, Auto Collect CDS, Auto Sell CDS", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/prove%20mom%20wrong%20by%20being%20a%20famous%20rapper%20tycoon%20Anti%20Afk%20Auto%20Collect%20CDS%20Auto%20Sell%20CDS.lua")
