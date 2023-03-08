@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 16:44:38"
+lastupdate = "GMT +1: 08.03.2023 16:44:43"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -9088,3 +9088,5 @@ addscript(9297410766, "Current Game","Crossbar Challenge Simulator: Get all hats
 addscriptexist(10723695195, "Anime Evolution Simulator: Auto Kill Mob, Auto Click, Magnet", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime%20Evolution%20Simulator%20Auto%20Kill%20Mob%20Auto%20Click%20Magnet.lua")
 
 addscriptexist(4872321990, "Islands: God mode", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Islands%20God%20mode.lua")
+
+addscriptexist(8377686524, "Classic Undertale: Last Reset: Player | Server Craher, God mode", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Classic%20Undertale%20Last%20Reset%20Player%20%20Server%20Craher%20God%20mode.lua")
