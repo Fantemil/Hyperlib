@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 14:50:37"
+lastupdate = "GMT +1: 08.03.2023 14:50:42"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -8138,3 +8138,5 @@ addscriptexist(2788229376, "Da Hood: Bullet tracer, Low GFX, Smooth lock", "pull
 addscriptexist(292439477, "Phantom Forces: ESP Boxes Players", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Phantom%20Forces%20ESP%20Boxes%20Players.lua")
 
 addscriptexist(292439477, "Phantom Forces: Silent Aim and ESP", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Phantom%20Forces%20Silent%20Aim%20and%20ESP.lua")
+
+addscript(11298615665, "Current Game","+1 Speed Every Second: Auto Farm, Anti Afk", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/%20Speed%20Every%20Second%20Auto%20Farm%20Anti%20Afk.lua")
