@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 18:14:14"
+lastupdate = "GMT +1: 08.03.2023 18:14:18"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -11348,3 +11348,5 @@ addscriptexist(5130598377, "A Universal Time: God Mode, Auto Farm, Walkspeed", "
 addscript(8396586868, "Current Game","A 0ne Piece Game: Auto Farm, Teleports & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/A%20ne%20Piece%20Game%20Auto%20Farm%20Teleports%20%20More.lua")
 
 addscriptexist(8304191830, "Anime Adventures: Auto Sell, Auto Abilities, Auto Upgrade", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime%20Adventures%20Auto%20Sell%20Auto%20Abilities%20Auto%20Upgrade.lua")
+
+addscriptexist(8304191830, "Anime Adventures: Auto Farm, Webhooks & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime%20Adventures%20Auto%20Farm%20Webhooks%20%20More.lua")
