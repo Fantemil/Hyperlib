@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 18:43:55"
+lastupdate = "GMT +1: 08.03.2023 18:44:07"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -11994,3 +11994,5 @@ addscriptexist(5712833750, "Animal Simulator: Auto Collect Treasure, Walkspeed &
 addscript(9777600316, "Current Game","My Freak Ghoul 2: Infinity Stats", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/My%20Freak%20Ghoul%20%20Infinity%20Stats.lua")
 
 addscriptexist(10675042838, "Lemonade Tycoon: Auto Purge", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Lemonade%20Tycoon%20Auto%20Purge.lua")
+
+addscriptexist(6516141723, "DOORS: Auto Farm Coins", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DOORS%20Auto%20Farm%20Coins.lua")
