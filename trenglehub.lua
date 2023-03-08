@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 20:44:24"
+lastupdate = "GMT +1: 08.03.2023 20:44:30"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -14336,3 +14336,5 @@ addscriptuniversal("Roblox Universal Script [AK-47 Gun, Not FE]", "pulled from r
 addscriptexist(286090429, "Arsenal [No Spread, Aimbot]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Arsenal%20No%20Spread%20Aimbot.lua")
 
 addscriptexist(662417684, "LUCKY BLOCKS Battlegrounds [Open Any LuckyBlock]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LUCKY%20BLOCKS%20Battlegrounds%20Open%20Any%20LuckyBlock.lua")
+
+addscriptexist(8884334497, "Mining Clicker Simulator [AutoRebirth, AutoClick]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mining%20Clicker%20Simulator%20AutoRebirth%20AutoClick.lua")
