@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 18:20:28"
+lastupdate = "GMT +1: 08.03.2023 18:20:33"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -11502,3 +11502,5 @@ addscriptexist(4924922222, "Brookhaven RP: Auto Farm Candy", "pulled from rbxscr
 addscriptexist(2753915549, "Blox Fruits: Auto Farm, Auto Stats & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blox%20Fruits%20Auto%20Farm%20Auto%20Stats%20%20More.lua")
 
 addscriptexist(2809202155, "Yba, Your Bizarre Adventure: Invisibility, Auto Farm, Supet Jump", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Yba%20Your%20Bizarre%20Adventure%20Invisibility%20Auto%20Farm%20Supet%20Jump.lua")
+
+addscript(10635076883, "Current Game","Gummy Bear Tycoon: Auto Farm, Auto Buy, Auto Upgrade", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Gummy%20Bear%20Tycoon%20Auto%20Farm%20Auto%20Buy%20Auto%20Upgrade.lua")
