@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 07:11:47"
+lastupdate = "GMT +1: 08.03.2023 07:11:53"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -5666,3 +5666,5 @@ addscript(8283207656, "Current Game","Easy Glass Bridge: Glass Esp", "pulled fro
 addscript(988099446, "Current Game","MMC Zombies Project: Knife InstaKill", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MMC%20Zombies%20Project%20Knife%20InstaKill.lua")
 
 addscriptexist(2788229376, "Da Hood: Mango Hub", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Da%20Hood%20Mango%20Hub.lua")
+
+addscriptexist(11196588443, "Zombie Merge Tycoon: Auto Put, Auto Upgrade, Walkspeed Slider", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Zombie%20Merge%20Tycoon%20Auto%20Put%20Auto%20Upgrade%20Walkspeed%20Slider.lua")
