@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 19:05:17"
+lastupdate = "GMT +1: 08.03.2023 19:05:21"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -12442,3 +12442,5 @@ addscript(8811446235, "Current Game","FORTBLOX: Silent Aim, ESP, Fov", "pulled f
 addscriptexist(2753915549, "Blox Fruits: Auto Farm Level, Kill All, Teleports & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blox%20Fruits%20Auto%20Farm%20Level%20Kill%20All%20Teleports%20%20More.lua")
 
 addscriptexist(10260193230, "Meme Sea: Auto Farming, Auto Quest", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Meme%20Sea%20Auto%20Farming%20Auto%20Quest.lua")
+
+addscriptexist(10425191433, "Trick Shot Simulator: Money Multiplier, Gems Boost", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Trick%20Shot%20Simulator%20Money%20Multiplier%20Gems%20Boost.lua")
