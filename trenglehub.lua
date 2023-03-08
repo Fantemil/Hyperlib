@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 06:56:31"
+lastupdate = "GMT +1: 08.03.2023 06:56:35"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -5200,3 +5200,5 @@ addscriptexist(8737602449, "PLS DONATE: Server Hop, Auto Change, Jump", "pulled 
 addhub("Ripper Hub: Key Bypass", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ripper%20Hub%20Key%20Bypass.lua")
 
 addscriptexist(13822889, "Lumber Tycoon 2: Fly, Inf Jumps, Noclip", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Lumber%20Tycoon%20%20Fly%20Inf%20Jumps%20Noclip.lua")
+
+addscriptexist(286090429, "Arsenal: Aimbot, Silent Aim & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Arsenal%20Aimbot%20Silent%20Aim%20%20More.lua")
