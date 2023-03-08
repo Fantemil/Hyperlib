@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 19:14:38"
+lastupdate = "GMT +1: 08.03.2023 19:14:42"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -12638,3 +12638,5 @@ addscriptexist(10005865562, "Midnight Hours: Items Esp", "pulled from rbxscript.
 addscriptexist(8659293202, "The Rake Blood Hour Test: Kill Rake,", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/The%20Rake%20Blood%20Hour%20Test%20Kill%20Rake.lua")
 
 addscriptexist(10087074695, "Knife Strife: Loop Kill All, Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Knife%20Strife%20Loop%20Kill%20All%20Auto%20Farm.lua")
+
+addscriptexist(10631181587, "Stone Miner Simulator 2: Free Battle Pass Egg", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Stone%20Miner%20Simulator%20%20Free%20Battle%20Pass%20Egg.lua")
