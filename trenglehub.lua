@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 07:02:32"
+lastupdate = "GMT +1: 08.03.2023 07:02:37"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -5382,3 +5382,5 @@ addscriptexist(2753915549, "Blox Fruits: Mob Aura, No stun, Auto buso", "pulled 
 addscriptexist(662417684, "LUCKY BLOCKS Battlegrounds: Fly, TP Tool, Lucky Blocks Giver", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LUCKY%20BLOCKS%20Battlegrounds%20Fly%20TP%20Tool%20Lucky%20Blocks%20Giver.lua")
 
 addscriptexist(7655745946, "Dunking Simulator: Infinite money, Auto Rebirth, Auto Buy Ball & Jersey", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Dunking%20Simulator%20Infinite%20money%20Auto%20Rebirth%20Auto%20Buy%20Ball%20%20Jersey.lua")
+
+addscriptexist(6741970382, "Zombie lab: Kill All, Godmode, Super Gun", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Zombie%20lab%20Kill%20All%20Godmode%20Super%20Gun.lua")
