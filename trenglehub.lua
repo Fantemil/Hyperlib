@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 17:24:13"
+lastupdate = "GMT +1: 08.03.2023 17:24:17"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -10096,3 +10096,5 @@ addscriptexist(734159876, "Sharkbite 1: Modify Turrets", "pulled from rbxscript.
 addscriptexist(8540168650, "Stand Upright Rebooted: Lair Farm - Drop System & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Stand%20Upright%20Rebooted%20Lair%20Farm%20%20Drop%20System%20%20More.lua")
 
 addscriptexist(2809202155, "Your Bizarre Adventure: Auto Shiny Farm With Server Hop", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Your%20Bizarre%20Adventure%20Auto%20Shiny%20Farm%20With%20Server%20Hop.lua")
+
+addscript(8476164859, "Current Game","Survive The Slimes: Nuke Slimes", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Survive%20The%20Slimes%20Nuke%20Slimes.lua")
