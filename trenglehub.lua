@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 06:25:37"
+lastupdate = "GMT +1: 08.03.2023 06:25:41"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -4586,3 +4586,5 @@ addscript(10931513550, "Current Game","A One Piece Devil Fruit: Auto Spin", "pul
 addscriptuniversal("Universal Anti Http Spy + Anti Remote Spy", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Anti%20Http%20Spy%20%20Anti%20Remote%20Spy.lua")
 
 addscriptexist(537413528, "Build A Boat For Treasure: Click TP, Auto Farm & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Build%20A%20Boat%20For%20Treasure%20Click%20TP%20Auto%20Farm%20%20More.lua")
+
+addscript(8712817601, "Current Game","BARRY'S PRISON RUN: Infinity Jump, Jumppower, Walkspeed", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BARRYS%20PRISON%20RUN%20Infinity%20Jump%20Jumppower%20Walkspeed.lua")
