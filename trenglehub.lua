@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 17:20:59"
+lastupdate = "GMT +1: 08.03.2023 17:21:03"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -10012,3 +10012,5 @@ addscriptexist(10628787331, "Hill Disasters: Free Coins", "pulled from rbxscript
 addscript(734159876, "Current Game","Sharkbite 1: Modify Speed", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sharkbite%20%20Modify%20Speed.lua")
 
 addscriptexist(6717367660, "Happy Land: Infinite Money", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Happy%20Land%20Infinite%20Money.lua")
+
+addscriptexist(445664957, "Parkour: Auto Farm Points & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Parkour%20Auto%20Farm%20Points%20%20More.lua")
