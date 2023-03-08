@@ -1,0 +1,2 @@
+game:GetService("ReplicatedStorage").RemoteEvents.BattleBotLevelUp:FireServer("Head",0,-math.huge,"Upgrade1")
+game:GetService("ReplicatedStorage").RemoteFunctions.UnlockUpgrades:InvokeServer(-math.huge,"Head")
