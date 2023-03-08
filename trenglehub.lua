@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 18:35:55"
+lastupdate = "GMT +1: 08.03.2023 18:36:03"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -11838,3 +11838,5 @@ addscriptexist(360589910, "Hoops - Demo (Basketball): Infinity Stamina, Press E 
 addscriptexist(3851622790, "Break In (Story): Item Giver, Teleports, Walkspeed", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Break%20In%20Story%20Item%20Giver%20Teleports%20Walkspeed.lua")
 
 addscript(2561448528, "Current Game","Your Local Mechanic: Endlees money", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Your%20Local%20Mechanic%20Endlees%20money.lua")
+
+addscriptexist(2512643572, "Bubble Gum Simulator: Auto Farm Snowflakes", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Bubble%20Gum%20Simulator%20Auto%20Farm%20Snowflakes.lua")
