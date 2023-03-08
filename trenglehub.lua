@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 16:56:30"
+lastupdate = "GMT +1: 08.03.2023 16:56:35"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -9386,3 +9386,5 @@ addhub("Viper Hub: 3 Games", "pulled from rbxscript.com", "https://raw.githubuse
 addscriptexist(3101667897, "Legends Of Speed: Auto Orbs, Auto Rebirths, Auto Buy", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Legends%20Of%20Speed%20Auto%20Orbs%20Auto%20Rebirths%20Auto%20Buy.lua")
 
 addscriptexist(2474168535, "Westbound: Reload Speed, Fan Fire, Instant Fire", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Westbound%20Reload%20Speed%20Fan%20Fire%20Instant%20Fire.lua")
+
+addscriptexist(9649680488, "Backrooms Race Clicker: Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Backrooms%20Race%20Clicker%20Auto%20Farm.lua")
