@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 14:55:02"
+lastupdate = "GMT +1: 08.03.2023 14:55:07"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -8252,3 +8252,5 @@ addscriptexist(6516141723, "DOORS: Auto Screech, Anti Rush & More", "pulled from
 addscriptexist(6168898345, "Bulwark: Always Hit Head, Always Parry, Auto Tp", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Bulwark%20Always%20Hit%20Head%20Always%20Parry%20Auto%20Tp.lua")
 
 addscriptexist(2768379856, "3008: No Fog, Instant Pickup & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/%20No%20Fog%20Instant%20Pickup%20%20More.lua")
+
+addhub("Cappuccino Hub: 4 Games", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Cappuccino%20Hub%20%20Games.lua")
