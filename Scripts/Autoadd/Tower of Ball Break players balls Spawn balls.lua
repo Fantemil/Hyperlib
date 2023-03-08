@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/insuretya/Tower-of-balls/main/Tower%20of%20ballz.lua"))();
