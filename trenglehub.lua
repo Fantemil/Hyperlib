@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 12:32:25"
+lastupdate = "GMT +1: 08.03.2023 12:32:29"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -6196,3 +6196,5 @@ addscriptexist(5561268850, "Randomly Generated Droids: Collect Circuits, Complet
 addscript(10180880196, "Current Game","Fling Champions: Auto Farm Candycorns, Auto Open Eggs, Auto Upgrade Power", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Fling%20Champions%20Auto%20Farm%20Candycorns%20Auto%20Open%20Eggs%20Auto%20Upgrade%20Power.lua")
 
 addscriptexist(8908228901, "Sharkbite 2: Auto Farm, No Cooldown, Noclip", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sharkbite%20%20Auto%20Farm%20No%20Cooldown%20Noclip.lua")
+
+addscriptexist(2753915549, "Blox Fruits: Auto Upgrade Stats, Auto Farm Chests & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blox%20Fruits%20Auto%20Upgrade%20Stats%20Auto%20Farm%20Chests%20%20More.lua")
