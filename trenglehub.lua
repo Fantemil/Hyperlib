@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 18:03:12"
+lastupdate = "GMT +1: 08.03.2023 18:03:16"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -11076,3 +11076,5 @@ addscriptexist(443406476, "Project Lazarus: Fly, God Mode, Teleports", "pulled f
 addscriptexist(6872265039, "BedWars: Kill Aura, Fly & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BedWars%20Kill%20Aura%20Fly%20%20More.lua")
 
 addscriptexist(8278412720, "CS Prison Life: Kill All, Server Crash, Teleports", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CS%20Prison%20Life%20Kill%20All%20Server%20Crash%20Teleports.lua")
+
+addscriptuniversal("Universal Dog FE", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Dog%20FE.lua")
