@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 21:15:58"
+lastupdate = "GMT +1: 08.03.2023 21:16:02"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -14922,3 +14922,5 @@ addscriptexist(5041144419, "SCP: Roleplay [ESP, Killaura]", "pulled from rbxscri
 addscriptexist(9203864304, "raise a floppa [Auto Collect, Auto Fill]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/raise%20a%20floppa%20Auto%20Collect%20Auto%20Fill.lua")
 
 addscriptexist(155615604, "Prison Life [Inf Stamina, Remove doors]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Prison%20Life%20Inf%20Stamina%20Remove%20doors.lua")
+
+addscriptexist(3101667897, "Legends Of Speed⚡[Auto Farm, Auto Rebirth]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Legends%20Of%20SpeedAuto%20Farm%20Auto%20Rebirth.lua")
