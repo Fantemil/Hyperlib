@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 13:18:16"
+lastupdate = "GMT +1: 08.03.2023 13:18:27"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -7400,3 +7400,5 @@ addscriptexist(8657766101, "Marvellous Playground: Paid Characters, Free Charact
 addscriptexist(11400511154, "Monkey Tycoon: Auto Banana Launcher Speed", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Monkey%20Tycoon%20Auto%20Banana%20Launcher%20Speed.lua")
 
 addscriptexist(142823291, "Murder Mystery 2: Teambased Chams", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Murder%20Mystery%20%20Teambased%20Chams.lua")
+
+addscriptexist(3177438863, "Dragon Blox: Steal Loot, Always Hit, Auto Quests", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Dragon%20Blox%20Steal%20Loot%20Always%20Hit%20Auto%20Quests.lua")
