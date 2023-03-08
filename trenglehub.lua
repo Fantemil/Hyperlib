@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 12:57:02"
+lastupdate = "GMT +1: 08.03.2023 12:57:05"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -6850,3 +6850,5 @@ addscriptuniversal("Universal Anti Webhook logging", "pulled from rbxscript.com"
 addscript(7591156407, "Current Game","My School Tycoon: Safe Code Finder", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/My%20School%20Tycoon%20Safe%20Code%20Finder.lua")
 
 addscriptexist(11561748530, "Glide Race: Infinite Speed", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Glide%20Race%20Infinite%20Speed.lua")
+
+addhub("Catalyst Hub V2: 1 Game", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Catalyst%20Hub%20V%20%20Game.lua")
