@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 20:29:38"
+lastupdate = "GMT +1: 08.03.2023 20:29:41"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -13960,3 +13960,5 @@ addscriptexist(10676523834, "Racing Rocket [Max Power Farm, Star Farm]", "pulled
 addscriptexist(10676523834, "Racing Rocket [Farm Star Fast]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Racing%20Rocket%20Farm%20Star%20Fast.lua")
 
 addscriptexist(183364845, "Speed Run 4 [Inf Gems, AutoStars]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Speed%20Run%20%20Inf%20Gems%20AutoStars.lua")
+
+addscriptuniversal("Roblox Universal Script [KeyStrokes]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Roblox%20Universal%20Script%20KeyStrokes.lua")
