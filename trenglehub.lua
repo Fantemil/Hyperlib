@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 12:50:12"
+lastupdate = "GMT +1: 08.03.2023 12:50:16"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -6674,3 +6674,5 @@ addhub("Games Hub: 10+ Games", "pulled from rbxscript.com", "https://raw.githubu
 addscriptexist(286090429, "Arsenal: Silent AIm, Godmode & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Arsenal%20Silent%20AIm%20Godmode%20%20More.lua")
 
 addhub("Nactical Z: Walkspeed Slider, Infinity Yield, Ace Hub", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Nactical%20Z%20Walkspeed%20Slider%20Infinity%20Yield%20Ace%20Hub.lua")
+
+addscriptexist(1554960397, "Car Dealership Tycoon: TP To Santa, AutoLaps Christmas Race, Find 7 Items", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Car%20Dealership%20Tycoon%20TP%20To%20Santa%20AutoLaps%20Christmas%20Race%20Find%20%20Items.lua")
