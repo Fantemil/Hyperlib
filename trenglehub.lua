@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 18:09:33"
+lastupdate = "GMT +1: 08.03.2023 18:09:38"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -11238,3 +11238,5 @@ addscriptexist(2413927524, "The Rake REMASTERED: Player ESP, Rake Killaura, Brin
 addscript(10984838211, "Current Game","Battlefield Tycoon: Freeze Enemies, Really Op", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Battlefield%20Tycoon%20Freeze%20Enemies%20Really%20Op.lua")
 
 addscriptuniversal("Universal Join Admin Kicker", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Join%20Admin%20Kicker.lua")
+
+addscriptexist(155615604, "Prison Life: Team Changer, Item Giver, Gun Mods", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Prison%20Life%20Team%20Changer%20Item%20Giver%20Gun%20Mods.lua")
