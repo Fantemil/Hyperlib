@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 06:56:45"
+lastupdate = "GMT +1: 08.03.2023 06:56:50"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -5206,3 +5206,5 @@ addscriptexist(286090429, "Arsenal: Aimbot, Silent Aim & More", "pulled from rbx
 addscriptexist(4954096313, "Field Trip Z: Kill All Zombies, Godmode, Give All Heal items", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Field%20Trip%20Z%20Kill%20All%20Zombies%20Godmode%20Give%20All%20Heal%20items.lua")
 
 addscriptexist(142823291, "Murder Mystery 2: Murderer Detector, Detective Detector, Gun Drop ESP", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Murder%20Mystery%20%20Murderer%20Detector%20Detective%20Detector%20Gun%20Drop%20ESP.lua")
+
+addscript(11137812995, "Current Game","Shuudan: Speedhack", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Shuudan%20Speedhack.lua")
