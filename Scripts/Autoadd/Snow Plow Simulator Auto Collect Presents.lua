@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/DignityDC/plowsimcoin/main/collectCoin", true))()
