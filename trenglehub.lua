@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 19:06:30"
+lastupdate = "GMT +1: 08.03.2023 19:06:35"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -12472,3 +12472,5 @@ addscriptexist(9993529229, "Sheep Tycoon: Inf Wool", "pulled from rbxscript.com"
 addscriptuniversal("Universal Anti Ban", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Anti%20Ban.lua")
 
 addscriptexist(4954752502, "Tower of Misery: Fly, Teleports, Gravity Coil", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tower%20of%20Misery%20Fly%20Teleports%20Gravity%20Coil.lua")
+
+addhub("Dark Universal ScriptHub", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Dark%20Universal%20ScriptHub.lua")
