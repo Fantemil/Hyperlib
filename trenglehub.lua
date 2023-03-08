@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 18:56:19"
+lastupdate = "GMT +1: 08.03.2023 18:56:24"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -12246,3 +12246,5 @@ addscriptexist(6569480109, "EAU Park™: Aimbot, Delete All Balls", "pulled from
 addscriptexist(5307215810, "Randomizer: Aimbot, Noclip, Esp", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Randomizer%20Aimbot%20Noclip%20Esp.lua")
 
 addscriptexist(9848789324, "Ragdoll Engine: Push Aura, Spam Chat, FE Items", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ragdoll%20Engine%20Push%20Aura%20Spam%20Chat%20FE%20Items.lua")
+
+addscriptexist(10531659515, "Shovel Battles: Kill All, Farm Players, Farm Hits & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Shovel%20Battles%20Kill%20All%20Farm%20Players%20Farm%20Hits%20%20More.lua")
