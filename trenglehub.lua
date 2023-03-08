@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 07:07:33"
+lastupdate = "GMT +1: 08.03.2023 07:07:36"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -5536,3 +5536,5 @@ addscript(3339374541, "Current Game","Midnight Racing: Tokyo DEMO: Presents Esp 
 addscriptexist(23578803, "Hotel Elephant: Map Destroyer", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Hotel%20Elephant%20Map%20Destroyer.lua")
 
 addscriptexist(1240123653, "Zombie Attack: Auto Farm, Silent Aim, Hitboxes", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Zombie%20Attack%20Auto%20Farm%20Silent%20Aim%20Hitboxes.lua")
+
+addscriptexist(6516141723, "DOORS: Spawn Seek, Spawn Jack, Spawn Glitch", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DOORS%20Spawn%20Seek%20Spawn%20Jack%20Spawn%20Glitch.lua")
