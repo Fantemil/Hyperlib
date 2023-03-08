@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 14:43:32"
+lastupdate = "GMT +1: 08.03.2023 14:43:36"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -7946,3 +7946,5 @@ addscriptexist(7525610732, "Kaizen: Anti Ragdoll, Anti Fall Damage, Select Weapo
 addscript(11447840296, "Current Game","2019 Booga Booga [REBORN]: Auto Heal Bloofruits", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/%20Booga%20Booga%20REBORN%20Auto%20Heal%20Bloofruits.lua")
 
 addscriptexist(8506369721, "dig to china: Auto Farm Points with Server Hop", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/dig%20to%20china%20Auto%20Farm%20Points%20with%20Server%20Hop.lua")
+
+addscriptexist(8540346411, "Rebirth Champions X: Auto Tap, Auto Rebirth, Auto Craft Pets", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Rebirth%20Champions%20X%20Auto%20Tap%20Auto%20Rebirth%20Auto%20Craft%20Pets.lua")
