@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 18:44:14"
+lastupdate = "GMT +1: 08.03.2023 18:44:25"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -11998,3 +11998,5 @@ addscriptexist(10675042838, "Lemonade Tycoon: Auto Purge", "pulled from rbxscrip
 addscriptexist(6516141723, "DOORS: Auto Farm Coins", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DOORS%20Auto%20Farm%20Coins.lua")
 
 addscriptexist(9285238704, "Race Clicker: Collect All Wins, Wins Auto Farm, Auto CLicker KeyBind", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Race%20Clicker%20Collect%20All%20Wins%20Wins%20Auto%20Farm%20Auto%20CLicker%20KeyBind.lua")
+
+addscriptexist(155615604, "Prison Life: Get Crude Knife", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Prison%20Life%20Get%20Crude%20Knife.lua")
