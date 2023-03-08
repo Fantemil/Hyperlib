@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 12:25:37"
+lastupdate = "GMT +1: 08.03.2023 12:25:42"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -6016,3 +6016,5 @@ addscriptuniversal("Universal anti webhook logger", "pulled from rbxscript.com",
 addscriptexist(6284583030, "Pet Simulator X! Auto Farm Coins, Auto Craft Pets & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pet%20Simulator%20X%20Auto%20Farm%20Coins%20Auto%20Craft%20Pets%20%20More.lua")
 
 addscriptexist(11606818992, "STEEP STEPS: Change jump power, Change speed, Change meters", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/STEEP%20STEPS%20Change%20jump%20power%20Change%20speed%20Change%20meters.lua")
+
+addscriptexist(286090429, "Arsenal: Infinity Jumps, Instant Respawn, Anti Aim", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Arsenal%20Infinity%20Jumps%20Instant%20Respawn%20Anti%20Aim.lua")
