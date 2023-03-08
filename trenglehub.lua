@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 15:04:07"
+lastupdate = "GMT +1: 08.03.2023 15:04:13"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -8496,3 +8496,5 @@ addscriptexist(6679968919, "Fly Race: Auto Farm, Auto Rebirth, Tp", "pulled from
 addscriptexist(11195100561, "RUNNING FROM THE INTERNET! Equip All Items, Anti Afk", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RUNNING%20FROM%20THE%20INTERNET%20Equip%20All%20Items%20Anti%20Afk.lua")
 
 addscriptexist(6284583030, "Pet Simulator X: Auto Gem Farm, Stat Tracker & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pet%20Simulator%20X%20Auto%20Gem%20Farm%20Stat%20Tracker%20%20More.lua")
+
+addscriptexist(9049840490, "Sonic Speed Simulator: Auto Farm, Auto Rebirth, Auto Run", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sonic%20Speed%20Simulator%20Auto%20Farm%20Auto%20Rebirth%20Auto%20Run.lua")
