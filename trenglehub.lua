@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 19:12:23"
+lastupdate = "GMT +1: 08.03.2023 19:12:28"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -12598,3 +12598,5 @@ addscriptexist(566399244, "Elemental Battlegrounds: Auto Gem, Shard Grabber", "p
 addscriptexist(8659293202, "Rake blood hour test: Unlock Devs Gui", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Rake%20blood%20hour%20test%20Unlock%20Devs%20Gui.lua")
 
 addscriptexist(4855457388, "Demonfall: Auto Farm, No Fall, Godmode", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Demonfall%20Auto%20Farm%20No%20Fall%20Godmode.lua")
+
+addscriptexist(10861112990, "Anime Artifacts Simulator 2: Kill Aura For Bosses", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime%20Artifacts%20Simulator%20%20Kill%20Aura%20For%20Bosses.lua")
