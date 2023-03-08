@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 18:28:49"
+lastupdate = "GMT +1: 08.03.2023 18:28:54"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -11710,3 +11710,5 @@ addhub("Universal Discord Webhook", "pulled from rbxscript.com", "https://raw.gi
 addscriptexist(417267366, "Dollhouse Roleplay: Claim Coin x10", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Dollhouse%20Roleplay%20Claim%20Coin%20x.lua")
 
 addscriptexist(11177482306, "Streetz War: Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Streetz%20War%20Auto%20Farm.lua")
+
+addscript(5917852358, "Current Game","Find the codes: Esp", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Find%20the%20codes%20Esp.lua")
