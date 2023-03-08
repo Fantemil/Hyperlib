@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 16:38:06"
+lastupdate = "GMT +1: 08.03.2023 16:38:10"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -8932,3 +8932,5 @@ addscriptexist(155615604, "Prison Life: Infinity Stamina, Team Switcher & More",
 addscriptexist(9598746251, "Home Run Simulator: Upgrade Strenght, Upgrade Acuracy, Auto Swing", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Home%20Run%20Simulator%20Upgrade%20Strenght%20Upgrade%20Acuracy%20Auto%20Swing.lua")
 
 addhub("ExoHub: 3 Games", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ExoHub%20%20Games.lua")
+
+addscriptexist(8908228901, "SharkBite 2: Godmode, Autofarm, Auto Invite All", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SharkBite%20%20Godmode%20Autofarm%20Auto%20Invite%20All.lua")
