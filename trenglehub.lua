@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 21:05:08"
+lastupdate = "GMT +1: 08.03.2023 21:05:12"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -14846,3 +14846,5 @@ addscriptuniversal("Roblox Universal Script [Bot Killsay]", "pulled from rbxscri
 addscriptexist(1997193809, "Backpacking [Auto Farm, Destroy All Seats]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Backpacking%20Auto%20Farm%20Destroy%20All%20Seats.lua")
 
 addscriptuniversal("Roblox Universal Script [Invisible]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Roblox%20Universal%20Script%20Invisible.lua")
+
+addscriptexist(9840387028, "Era of Althea [Redeem codes]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Era%20of%20Althea%20Redeem%20codes.lua")
