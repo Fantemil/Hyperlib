@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/dudeididntliterally/rainbowfriends/main/highlight.lua", true))()
