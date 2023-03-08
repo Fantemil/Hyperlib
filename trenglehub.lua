@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 21:03:30"
+lastupdate = "GMT +1: 08.03.2023 21:03:34"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -14806,3 +14806,5 @@ addscriptexist(3432786397, "Pet Mining Simulator [Btools, Kill]", "pulled from r
 addscriptuniversal("Roblox [Universal Aim Esp]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Roblox%20Universal%20Aim%20Esp.lua")
 
 addscriptexist(9551640993, "Mining Simulator 2 [Auto Mine, Auto Rebirth, Redeem All Codes]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mining%20Simulator%20%20Auto%20Mine%20Auto%20Rebirth%20Redeem%20All%20Codes.lua")
+
+addscriptexist(7664413141, "Creeper Chaos [Anti-cheat bypass, Walkspeed changer]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Creeper%20Chaos%20Anticheat%20bypass%20Walkspeed%20changer.lua")
