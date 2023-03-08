@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 17:05:09"
+lastupdate = "GMT +1: 08.03.2023 17:05:13"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -9604,3 +9604,5 @@ addscriptexist(9848789324, "Ragdoll Engine: Anti Fling, Anti Ragdoll, Anti Kill 
 addscript(1240644540, "Current Game","Vampire Hunters 3: Insta Break", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Vampire%20Hunters%20%20Insta%20Break.lua")
 
 addscriptexist(9832066570, "Tower Battles Defensive Holds: Gun Mod", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tower%20Battles%20Defensive%20Holds%20Gun%20Mod.lua")
+
+addscriptexist(2809202155, "Your Bizarre Adventure: Teleport Bypass", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Your%20Bizarre%20Adventure%20Teleport%20Bypass.lua")
