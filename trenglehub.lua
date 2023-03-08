@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 20:16:32"
+lastupdate = "GMT +1: 08.03.2023 20:16:38"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -13612,3 +13612,5 @@ addscriptuniversal("Universal Infinity Store", "pulled from rbxscript.com", "htt
 addscriptuniversal("Universal Basic Dash", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Basic%20Dash.lua")
 
 addscript(10275942471, "Current Game","Color Race! | Get alot of Wins + Speed", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Color%20Race%20%20Get%20alot%20of%20Wins%20%20Speed.lua")
+
+addscript(8227619186, "Current Game","Murder Mystery A | Gems AutoFarm, Walkspeed, Inf Jump", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Murder%20Mystery%20A%20%20Gems%20AutoFarm%20Walkspeed%20Inf%20Jump.lua")
