@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 17:38:31"
+lastupdate = "GMT +1: 08.03.2023 17:38:36"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -10456,3 +10456,5 @@ addscriptexist(8726743209, "Refinery Caves: Teleports, Anti AFK, Auto Farm Delie
 addscriptexist(147848991, "Be A Parkour Ninja: Auto Kill", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Be%20A%20Parkour%20Ninja%20Auto%20Kill.lua")
 
 addscriptexist(537413528, "Build A Boat For Treasure: Auto Farms, Auto Buy Chests, Teleports", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Build%20A%20Boat%20For%20Treasure%20Auto%20Farms%20Auto%20Buy%20Chests%20Teleports.lua")
+
+addscriptexist(6298464951, "Roblox Is Unbreakable: Auto Farm Arrow, Auto Farm Requiem Arrow & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Roblox%20Is%20Unbreakable%20Auto%20Farm%20Arrow%20Auto%20Farm%20Requiem%20Arrow%20%20More.lua")
