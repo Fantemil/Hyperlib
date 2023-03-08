@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 17:29:30"
+lastupdate = "GMT +1: 08.03.2023 17:29:34"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -10232,3 +10232,5 @@ addscriptexist(5865858426, "Retail Tycoon 2: Pumpkin Auto Farm", "pulled from rb
 addscript(5732301513, "Current Game","TRENCHES: Kill All", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TRENCHES%20Kill%20All.lua")
 
 addscriptexist(183364845, "Speed Run 4: Auto Farm, Fly, Infinity Jump", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Speed%20Run%20%20Auto%20Farm%20Fly%20Infinity%20Jump.lua")
+
+addscriptexist(7664413141, "Creeper Chaos: Auto Delete Creeper Cons, ESP & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Creeper%20Chaos%20Auto%20Delete%20Creeper%20Cons%20ESP%20%20More.lua")
