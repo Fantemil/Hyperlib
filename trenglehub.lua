@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 17:52:52"
+lastupdate = "GMT +1: 08.03.2023 17:52:56"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -10816,3 +10816,5 @@ addscript(10364927844, "Current Game","Elemental Fighting Simulator: Auto Farm, 
 addhub("Argetnar Hub: 6 Games", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Argetnar%20Hub%20%20Games.lua")
 
 addhub("Roblox: Library", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Roblox%20Library.lua")
+
+addhub("VERY HOT UI ORCA: Jump Power, Popular Scripts & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/VERY%20HOT%20UI%20ORCA%20Jump%20Power%20Popular%20Scripts%20%20More.lua")
