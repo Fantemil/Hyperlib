@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 20:52:00"
+lastupdate = "GMT +1: 08.03.2023 20:52:04"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -14522,3 +14522,5 @@ addscriptexist(7714627632, "Winds of Fortune [Auto Farm, Food Store, Esp]", "pul
 addscriptexist(9551640993, "Mining Simulator 2 [BloxAura, AutoHatch]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mining%20Simulator%20%20BloxAura%20AutoHatch.lua")
 
 addscriptexist(2537430692, "Jenga [Instant Win, Walkspeed]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Jenga%20Instant%20Win%20Walkspeed.lua")
+
+addscriptexist(8963721566, "The Backrooms [Inf Stamina]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/The%20Backrooms%20Inf%20Stamina.lua")
