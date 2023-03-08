@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 19:11:24"
+lastupdate = "GMT +1: 08.03.2023 19:11:28"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -12574,3 +12574,5 @@ addscriptexist(9993529229, "Counter Blox: Remastered | Case Opener", "pulled fro
 addscriptexist(663655429, "Pick A Side: Autofarm, Hitbox, Sprint", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pick%20A%20Side%20Autofarm%20Hitbox%20Sprint.lua")
 
 addscriptexist(855499080, "SKYWARS: Esp, SIlent Aim, Teleports", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SKYWARS%20Esp%20SIlent%20Aim%20Teleports.lua")
+
+addscriptexist(4036494886, "Gun Simulator: Infinity Coins", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Gun%20Simulator%20Infinity%20Coins.lua")
