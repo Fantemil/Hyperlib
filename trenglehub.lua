@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 13:01:27"
+lastupdate = "GMT +1: 08.03.2023 13:01:31"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -6964,3 +6964,5 @@ addscriptexist(2866967438, "Fishing Simulator: Auto Farm, Auto Pick Auto sell", 
 addscriptexist(2809202155, "Your Bizarre Adventure: Tp AutoFarm items, Walk Speed, Activate Stand Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Your%20Bizarre%20Adventure%20Tp%20AutoFarm%20items%20Walk%20Speed%20Activate%20Stand%20Farm.lua")
 
 addscriptexist(2809202155, "Your Bizarre Adventure: Stand Auto Farm, NPC Auto Farm, Teleports.", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Your%20Bizarre%20Adventure%20Stand%20Auto%20Farm%20NPC%20Auto%20Farm%20Teleports.lua")
+
+addscriptexist(3527629287, "BIG Paintball: Kill all, Silent Aim, Aimbot", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BIG%20Paintball%20Kill%20all%20Silent%20Aim%20Aimbot.lua")
