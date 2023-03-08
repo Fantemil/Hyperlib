@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 17:34:29"
+lastupdate = "GMT +1: 08.03.2023 17:34:37"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -10354,3 +10354,5 @@ addscriptexist(2039118386, "Neighborhood war: Simple Silent Aim", "pulled from r
 addscript(8232438881, "Current Game","Thief Simulator: Free Rebirths", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Thief%20Simulator%20Free%20Rebirths.lua")
 
 addscript(306964494, "Current Game","Loomian Legacy: Auto Heal", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Loomian%20Legacy%20Auto%20Heal.lua")
+
+addscriptexist(920587237, "Adopt Me: Press X to XRay", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Adopt%20Me%20Press%20X%20to%20XRay.lua")
