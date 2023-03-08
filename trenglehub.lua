@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 19:08:36"
+lastupdate = "GMT +1: 08.03.2023 19:08:42"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -12516,3 +12516,5 @@ addscriptexist(9848789324, "Ragdoll Engine: AntiFling, Teleports & More", "pulle
 addscriptexist(2569453732, "Rise of Nations: Esp, Auto Determines, Clear Alerts", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Rise%20of%20Nations%20Esp%20Auto%20Determines%20Clear%20Alerts.lua")
 
 addscript(9786070403, "Current Game","Piece X Tycoon: Summon from the first thing, Loop het fire fruit mastery", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Piece%20X%20Tycoon%20Summon%20from%20the%20first%20thing%20Loop%20het%20fire%20fruit%20mastery.lua")
+
+addscriptexist(4282985734, "Combat Warriors: Kill Aura, Infinity Stamina & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Combat%20Warriors%20Kill%20Aura%20Infinity%20Stamina%20%20More.lua")
