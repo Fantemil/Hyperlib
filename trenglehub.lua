@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 16:50:32"
+lastupdate = "GMT +1: 08.03.2023 16:50:35"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -9234,3 +9234,5 @@ addscriptexist(1962086868, "Tower Of Hell: Buy Selected Item, TP To End, Remove 
 addscriptexist(9551640993, "Mining Simulator 2: Auto Trick Or Treat, Auto Sell, Auto Eggs", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mining%20Simulator%20%20Auto%20Trick%20Or%20Treat%20Auto%20Sell%20Auto%20Eggs.lua")
 
 addscriptexist(3956818381, "Ninja Legends: Auto Buy Shurikens, Unlock All Worlds, Auto Rebirth", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ninja%20Legends%20Auto%20Buy%20Shurikens%20Unlock%20All%20Worlds%20Auto%20Rebirth.lua")
+
+addscriptexist(9498006165, "Tapping Simulator: Open Frames, Auto Tap, Jump power", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tapping%20Simulator%20Open%20Frames%20Auto%20Tap%20Jump%20power.lua")
