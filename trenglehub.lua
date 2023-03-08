@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 17:43:06"
+lastupdate = "GMT +1: 08.03.2023 17:43:10"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -10574,3 +10574,5 @@ addscriptexist(9498006165, "Tapping Simulator: Auto Tap, Auto Upgrade & More", "
 addscript(3823850583, "Current Game","Street Simulator: Auto Farm Small and Bigger", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Street%20Simulator%20Auto%20Farm%20Small%20and%20Bigger.lua")
 
 addscriptexist(6913960180, "Undertale Crazy Multiverse Timeline: Simple Auto Farm GUI", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Undertale%20Crazy%20Multiverse%20Timeline%20Simple%20Auto%20Farm%20GUI.lua")
+
+addscriptexist(286090429, "Arsenal: Aimbot, ESP, Gun Mods", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Arsenal%20Aimbot%20ESP%20Gun%20Mods.lua")
