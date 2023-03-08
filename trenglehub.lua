@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 17:48:06"
+lastupdate = "GMT +1: 08.03.2023 17:48:11"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -10700,3 +10700,5 @@ addscriptexist(2317712696, "The Wild West: Ins Stamina, No Fall Damage, Auto Spr
 addscriptexist(10070062081, "Minion Simulator: Auto Collect, Auto Farm, Multi Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Minion%20Simulator%20Auto%20Collect%20Auto%20Farm%20Multi%20Farm.lua")
 
 addscript(8534845015, "Current Game","Sakura Stand: Tp to boxes ban bypass", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sakura%20Stand%20Tp%20to%20boxes%20ban%20bypass.lua")
+
+addscriptexist(9880062154, "The Last Strandeds: Kill Player", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/The%20Last%20Strandeds%20Kill%20Player.lua")
