@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 15:06:19"
+lastupdate = "GMT +1: 08.03.2023 15:06:23"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -8554,3 +8554,5 @@ addscriptexist(360589910, "Hoops - Demo (Basketball): Press E TP, Infinity Stami
 addscriptexist(10898965735, "Mine Racer: Auto Join, Auto Rebirth, Auto Mine", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mine%20Racer%20Auto%20Join%20Auto%20Rebirth%20Auto%20Mine.lua")
 
 addscriptexist(5777099015, "Cheese Escape: Add Cheese, Teleports", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Cheese%20Escape%20Add%20Cheese%20Teleports.lua")
+
+addscriptexist(2788229376, "Da Hood: Chat Spoofer, Server Crasher", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Da%20Hood%20Chat%20Spoofer%20Server%20Crasher.lua")
