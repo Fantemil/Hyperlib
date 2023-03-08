@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 17:02:10"
+lastupdate = "GMT +1: 08.03.2023 17:02:15"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -9530,3 +9530,5 @@ addscriptuniversal("Universal Virus Spamer", "pulled from rbxscript.com", "https
 addscriptuniversal("AceHub: Script Hub", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AceHub%20Script%20Hub.lua")
 
 addscriptuniversal("Universal LuaSeel Deobfuscator", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20LuaSeel%20Deobfuscator.lua")
+
+addscriptexist(5956785391, "Project Slayers: Infinity Hp", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Project%20Slayers%20Infinity%20Hp.lua")
