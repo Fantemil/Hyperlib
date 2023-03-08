@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 20:23:21"
+lastupdate = "GMT +1: 08.03.2023 20:23:25"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -13794,3 +13794,5 @@ addscriptexist(6753004901, "Swing City | Unlock All Skills, Farm Money, Instant 
 addscriptuniversal("Roblox Universal Script | First Person", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Roblox%20Universal%20Script%20%20First%20Person.lua")
 
 addscriptexist(5343994291, "Outlaster | AutoFish, Esp, Inf Jump", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Outlaster%20%20AutoFish%20Esp%20Inf%20Jump.lua")
+
+addscriptexist(2116002761, "Afton's Family Diner | Unlock Everything, Inf Yield", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Aftons%20Family%20Diner%20%20Unlock%20Everything%20Inf%20Yield.lua")
