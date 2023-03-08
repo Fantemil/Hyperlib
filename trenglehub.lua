@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 14:25:44"
+lastupdate = "GMT +1: 08.03.2023 14:25:48"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -7476,3 +7476,5 @@ addscriptexist(2753915549, "Blox Fruits: Infinity Observation Range, Chest Auto 
 addscriptuniversal("Universal Get Closest Player Form LocalPlayer", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Get%20Closest%20Player%20Form%20LocalPlayer.lua")
 
 addscriptuniversal("MultXi: Many Games Support", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MultXi%20Many%20Games%20Support.lua")
+
+addscriptexist(9798463281, "Cube Combination: Infinite Pickup Reach", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Cube%20Combination%20Infinite%20Pickup%20Reach.lua")
