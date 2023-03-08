@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 06:56:41"
+lastupdate = "GMT +1: 08.03.2023 06:56:45"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -5204,3 +5204,5 @@ addscriptexist(13822889, "Lumber Tycoon 2: Fly, Inf Jumps, Noclip", "pulled from
 addscriptexist(286090429, "Arsenal: Aimbot, Silent Aim & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Arsenal%20Aimbot%20Silent%20Aim%20%20More.lua")
 
 addscriptexist(4954096313, "Field Trip Z: Kill All Zombies, Godmode, Give All Heal items", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Field%20Trip%20Z%20Kill%20All%20Zombies%20Godmode%20Give%20All%20Heal%20items.lua")
+
+addscriptexist(142823291, "Murder Mystery 2: Murderer Detector, Detective Detector, Gun Drop ESP", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Murder%20Mystery%20%20Murderer%20Detector%20Detective%20Detector%20Gun%20Drop%20ESP.lua")
