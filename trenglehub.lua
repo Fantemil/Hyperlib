@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 19:13:33"
+lastupdate = "GMT +1: 08.03.2023 19:13:41"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -12620,3 +12620,5 @@ addscript(6884319169, "Current Game","MIC UP: Lag And Noise Spaw", "pulled from 
 addscriptexist(4282985734, "Combat Warriors: No Ragdoll, Inf Jump, No Cooldown & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Combat%20Warriors%20No%20Ragdoll%20Inf%20Jump%20No%20Cooldown%20%20More.lua")
 
 addscriptexist(10861112990, "Anime Artifacts Simulator 2: Insta Kill", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime%20Artifacts%20Simulator%20%20Insta%20Kill.lua")
+
+addscriptexist(10895555747, "Walmart Land: Infinite Tokens, Give Tokens, Auto Point & More!", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Walmart%20Land%20Infinite%20Tokens%20Give%20Tokens%20Auto%20Point%20%20More.lua")
