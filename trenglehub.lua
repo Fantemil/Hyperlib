@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 12:49:32"
+lastupdate = "GMT +1: 08.03.2023 12:49:36"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -6656,3 +6656,5 @@ addhub("Strike Hub: Updated Version", "pulled from rbxscript.com", "https://raw.
 addscriptexist(3851622790, "Break In: God Mode, Teleport, get items]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Break%20In%20God%20Mode%20Teleport%20get%20items.lua")
 
 addscriptexist(1962086868, "Tower Of Hell: Remove Anti Cheat, Auto Win, Auto Buy", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tower%20Of%20Hell%20Remove%20Anti%20Cheat%20Auto%20Win%20Auto%20Buy.lua")
+
+addscriptexist(5865858426, "Retail Tycoon 2: Gift Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Retail%20Tycoon%20%20Gift%20Farm.lua")
