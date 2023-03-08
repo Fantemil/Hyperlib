@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 12:28:09"
+lastupdate = "GMT +1: 08.03.2023 12:28:13"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -6076,3 +6076,5 @@ addscript(7196856665, "Current Game","Wave Sword Bots Game: Kill Aura", "pulled 
 addscriptexist(9704893711, "Dha Hood: View Aimers", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Dha%20Hood%20View%20Aimers.lua")
 
 addscriptexist(863266079, "Apocalypse Rising 2: Aimbot, Silent, FOV Slider", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Apocalypse%20Rising%20%20Aimbot%20Silent%20FOV%20Slider.lua")
+
+addscriptexist(4508456371, "Shortest Answer Wins: Teleport To VIP", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Shortest%20Answer%20Wins%20Teleport%20To%20VIP.lua")
