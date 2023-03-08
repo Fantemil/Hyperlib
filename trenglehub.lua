@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 18:19:43"
+lastupdate = "GMT +1: 08.03.2023 18:19:47"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -11482,3 +11482,5 @@ addscript(10232731562, "Current Game","Pro Piece PRO MAX: God MOde, Insta Kill, 
 addscriptexist(6516141723, "DOORS: Summon Entities", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DOORS%20Summon%20Entities.lua")
 
 addhub("Space Hub UI Icons", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Space%20Hub%20UI%20Icons.lua")
+
+addscriptexist(6159892946, "Aim Trainer: Auto Player", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Aim%20Trainer%20Auto%20Player.lua")
