@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 12:37:09"
+lastupdate = "GMT +1: 08.03.2023 12:37:13"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -6326,3 +6326,5 @@ addscriptexist(6170705260, "Blending Simulator 2: Presents Auto Farm", "pulled f
 addscriptexist(9100638688, "Drivers Paradise: Unlimited Cash & Free Cars", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Drivers%20Paradise%20Unlimited%20Cash%20%20Free%20Cars.lua")
 
 addscriptexist(8737602449, "PLS DONATE: Spy Amounts", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PLS%20DONATE%20Spy%20Amounts.lua")
+
+addscriptexist(537413528, "Build A Boat For Treasure: Crash Server", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Build%20A%20Boat%20For%20Treasure%20Crash%20Server.lua")
