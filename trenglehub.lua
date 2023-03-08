@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 17:33:54"
+lastupdate = "GMT +1: 08.03.2023 17:33:59"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -10340,3 +10340,5 @@ addscriptexist(2753915549, "Blox Fruits: Server Hop, Fruit Farm", "pulled from r
 addscriptexist(606849621, "Jailbreak: Silent Aim, Wallbang", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Jailbreak%20Silent%20Aim%20Wallbang.lua")
 
 addhub("REFLEX HUB V2: Working 6 games", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/REFLEX%20HUB%20V%20Working%20%20games.lua")
+
+addscriptexist(9787091365, "Ninja Storm Simulator: Auto Farm, Auto Skill, Auto Attack", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ninja%20Storm%20Simulator%20Auto%20Farm%20Auto%20Skill%20Auto%20Attack.lua")
