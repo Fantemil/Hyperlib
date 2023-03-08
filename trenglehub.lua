@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 20:21:08"
+lastupdate = "GMT +1: 08.03.2023 20:21:11"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -13732,3 +13732,5 @@ addscriptexist(9662949425, "Punch a brick wall simulator | Infinite Bones, Auto 
 addscriptexist(5498056786, "Handball Association | Infinite Stamina - No Dive Cooldown", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Handball%20Association%20%20Infinite%20Stamina%20%20No%20Dive%20Cooldown.lua")
 
 addscriptexist(8146731988, "Ultra Power Tycoon | GUI - Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ultra%20Power%20Tycoon%20%20GUI%20%20Auto%20Farm.lua")
+
+addscriptexist(10524502174, "One Punch Fighters | GUI - Auto Punch, Auto Farm & More!", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/One%20Punch%20Fighters%20%20GUI%20%20Auto%20Punch%20Auto%20Farm%20%20More.lua")
