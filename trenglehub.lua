@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 19:17:26"
+lastupdate = "GMT +1: 08.03.2023 19:17:32"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -12706,3 +12706,5 @@ addscriptexist(9872472334, "Evade: Auto Respawn, Teleports, ESP", "pulled from r
 addscriptexist(10714365287, "Anime Race Clicker: Auto Farm, Unlock Worlds, AutoHatch", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime%20Race%20Clicker%20Auto%20Farm%20Unlock%20Worlds%20AutoHatch.lua")
 
 addscriptexist(9662949425, "Punch a brick wall simulator: Give Bones", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Punch%20a%20brick%20wall%20simulator%20Give%20Bones.lua")
+
+addscriptexist(8500690972, "NO STOP Obby: Skip All Stages", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NO%20STOP%20Obby%20Skip%20All%20Stages.lua")
