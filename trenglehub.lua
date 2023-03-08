@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 12:58:09"
+lastupdate = "GMT +1: 08.03.2023 12:58:13"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -6878,3 +6878,5 @@ addscriptexist(9912491609, "How Far Can You Slide: Cash Farm, Shop, Rebirth.", "
 addscriptexist(3652625463, "Lifting Simulator: Auto lift, Auto Sell", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Lifting%20Simulator%20Auto%20lift%20Auto%20Sell.lua")
 
 addscriptexist(9942628622, "Son Goku: The Finale: Unlock SSJB, Unlock SSJG", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Son%20Goku%20The%20Finale%20Unlock%20SSJB%20Unlock%20SSJG.lua")
+
+addscript(6523078987, "Current Game","Slap Battles: Killstreak Edition: Equip tool to Kill All", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Slap%20Battles%20Killstreak%20Edition%20Equip%20tool%20to%20Kill%20All.lua")
