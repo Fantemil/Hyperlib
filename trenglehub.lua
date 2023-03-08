@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 18:54:02"
+lastupdate = "GMT +1: 08.03.2023 18:54:06"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -12196,3 +12196,5 @@ addscript(6569480109, "Current Game","EAU Park: WalkSpeed, AimBot, No travel", "
 addscript(9478827096, "Current Game","Tower of Ball: Break players balls, Spawn balls", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tower%20of%20Ball%20Break%20players%20balls%20Spawn%20balls.lua")
 
 addscriptexist(10181361874, "Death Academy Online: Kill Aura, Inf Stats, Crash Cerver", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Death%20Academy%20Online%20Kill%20Aura%20Inf%20Stats%20Crash%20Cerver.lua")
+
+addscriptexist(3214114884, "Flag Wars: Aim Bot", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Flag%20Wars%20Aim%20Bot.lua")
