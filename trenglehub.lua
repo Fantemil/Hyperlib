@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 06:51:38"
+lastupdate = "GMT +1: 08.03.2023 06:51:43"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -5050,3 +5050,5 @@ addscriptexist(29812337, "Framed: Aimlock, ESP, Remove Face", "pulled from rbxsc
 addscriptuniversal("Universal Fly, Godmode, Walkspeed Slider", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Fly%20Godmode%20Walkspeed%20Slider.lua")
 
 addscriptuniversal("WolfHub: CMD-X, Infinity Yield, Chiezzy Hub", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/WolfHub%20CMDX%20Infinity%20Yield%20Chiezzy%20Hub.lua")
+
+addscriptexist(11040063484, "Sword Fighters Simulator: Auto Ascend, KillAura, Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sword%20Fighters%20Simulator%20Auto%20Ascend%20KillAura%20Auto%20Farm.lua")
