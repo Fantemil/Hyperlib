@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 19:15:07"
+lastupdate = "GMT +1: 08.03.2023 19:15:11"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -12650,3 +12650,5 @@ addscriptexist(621129760, "Knife Ability Test: Kill All", "pulled from rbxscript
 addscript(4983006874, "Current Game","NGU CLICKER SIMULATOR: Auto Clicker, Auto Upgrade, Auto Pet Evolve", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NGU%20CLICKER%20SIMULATOR%20Auto%20Clicker%20Auto%20Upgrade%20Auto%20Pet%20Evolve.lua")
 
 addscript(850917308, "Current Game","Star Wars: Lightsaber Battles II - Teleports, Infinite Stamina, Invisible", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Star%20Wars%20Lightsaber%20Battles%20II%20%20Teleports%20Infinite%20Stamina%20Invisible.lua")
+
+addscriptexist(2693023319, "Expedition Antarctica: Win, Infinite Money, Enter Standard Plane", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Expedition%20Antarctica%20Win%20Infinite%20Money%20Enter%20Standard%20Plane.lua")
