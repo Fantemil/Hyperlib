@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 15:00:39"
+lastupdate = "GMT +1: 08.03.2023 15:00:43"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -8406,3 +8406,5 @@ addscriptexist(11402147065, "Ragdoll Clicker: Auto Click, Auto Farm, Auto Rebirt
 addscriptexist(11063612131, "Every Second You Get +1 Jump Power: Auto Open Eggs, Auto Rebirth, Teleports", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Every%20Second%20You%20Get%20%20Jump%20Power%20Auto%20Open%20Eggs%20Auto%20Rebirth%20Teleports.lua")
 
 addscriptexist(8069117419, "Demon Soul Simulator: Auto Attack, Auto Train, Auto Eggs", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Demon%20Soul%20Simulator%20Auto%20Attack%20Auto%20Train%20Auto%20Eggs.lua")
+
+addscriptexist(10898965735, "Mine Racer: Auto Mine, Auto Upgrades, Auto Eggs", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mine%20Racer%20Auto%20Mine%20Auto%20Upgrades%20Auto%20Eggs.lua")
