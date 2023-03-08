@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 17:31:23"
+lastupdate = "GMT +1: 08.03.2023 17:31:31"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -10282,3 +10282,5 @@ addscriptexist(5602055394, "Hood Modded: Walkspeed, Trash Talk, Anti Stomp", "pu
 addscriptexist(3851622790, "Break In (Story): FE Sound Player", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Break%20In%20Story%20FE%20Sound%20Player.lua")
 
 addscriptexist(6939111033, "Escape Papa Pizza's Pizzeria: Give Tools", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Escape%20Papa%20Pizzas%20Pizzeria%20Give%20Tools.lua")
+
+addscriptexist(155615604, "Prison Life: Teleports, Arrest Yourself & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Prison%20Life%20Teleports%20Arrest%20Yourself%20%20More.lua")
