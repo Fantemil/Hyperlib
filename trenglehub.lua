@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 21:03:34"
+lastupdate = "GMT +1: 08.03.2023 21:03:38"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -14808,3 +14808,5 @@ addscriptuniversal("Roblox [Universal Aim Esp]", "pulled from rbxscript.com", "h
 addscriptexist(9551640993, "Mining Simulator 2 [Auto Mine, Auto Rebirth, Redeem All Codes]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mining%20Simulator%20%20Auto%20Mine%20Auto%20Rebirth%20Redeem%20All%20Codes.lua")
 
 addscriptexist(7664413141, "Creeper Chaos [Anti-cheat bypass, Walkspeed changer]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Creeper%20Chaos%20Anticheat%20bypass%20Walkspeed%20changer.lua")
+
+addscriptexist(1224212277, "Mad City [Reset Character (Bypass bug), ESP, Silent AIM]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mad%20City%20Reset%20Character%20Bypass%20bug%20ESP%20Silent%20AIM.lua")
