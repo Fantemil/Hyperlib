@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 19:15:40"
+lastupdate = "GMT +1: 08.03.2023 19:15:44"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -12662,3 +12662,5 @@ addscriptexist(5956785391, "Project Slayers: Inf Spin", "pulled from rbxscript.c
 addscriptexist(10895555747, "Walmart Land: Free Tokens", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Walmart%20Land%20Free%20Tokens.lua")
 
 addscript(10615427129, "Current Game","Quadra Clickers: Give All Pets, Auto Clicker", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Quadra%20Clickers%20Give%20All%20Pets%20Auto%20Clicker.lua")
+
+addscriptexist(2546155523, "RoVille: Taxi driver farm, Auto restock business, Police clerk farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RoVille%20Taxi%20driver%20farm%20Auto%20restock%20business%20Police%20clerk%20farm.lua")
