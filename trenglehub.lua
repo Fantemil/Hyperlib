@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 19:55:21"
+lastupdate = "GMT +1: 08.03.2023 19:55:27"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -13304,3 +13304,5 @@ addscriptexist(6872265039, "BedWars | GUI - Auto Clicker, Aim Assist & More!", "
 addscriptexist(185655149, "Bloxburg | Pizza Delivery Job Auto Farm With Tp Bypass", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Bloxburg%20%20Pizza%20Delivery%20Job%20Auto%20Farm%20With%20Tp%20Bypass.lua")
 
 addscriptexist(10347946161, "Rat Washing Tycoon | Auto Collect Rats, Auto Sell, Auto Complete obby", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Rat%20Washing%20Tycoon%20%20Auto%20Collect%20Rats%20Auto%20Sell%20Auto%20Complete%20obby.lua")
+
+addscriptexist(9955279341, "Infinity Sea 2 | Auto Farm Npc, Auto Chest Farm, Killaura", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Infinity%20Sea%20%20%20Auto%20Farm%20Npc%20Auto%20Chest%20Farm%20Killaura.lua")
