@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 17:50:39"
+lastupdate = "GMT +1: 08.03.2023 17:50:47"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -10762,3 +10762,5 @@ addscriptexist(537413528, "Build A Boat For Treasure: Auto Farm, Neon Block, Toy
 addscriptexist(10920409126, "Anime Fusion Tycoon (Looped Version pf this script): Infinity Ki", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime%20Fusion%20Tycoon%20Looped%20Version%20pf%20this%20script%20Infinity%20Ki.lua")
 
 addscriptexist(6872265039, "BedWars: Click Teleport", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BedWars%20Click%20Teleport.lua")
+
+addscriptexist(7952502098, "Impossible Glass Bridge Obby: Auto Farm, Remove Breakable Glass, Teleports", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Impossible%20Glass%20Bridge%20Obby%20Auto%20Farm%20Remove%20Breakable%20Glass%20Teleports.lua")
