@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 18:48:36"
+lastupdate = "GMT +1: 08.03.2023 18:48:41"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -12086,3 +12086,5 @@ addscriptexist(8540346411, "Rebirth Champions X: Get All Crystals", "pulled from
 addscriptexist(9912491609, "How Far Can You Fly: Infinite Money", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/How%20Far%20Can%20You%20Fly%20Infinite%20Money.lua")
 
 addscriptexist(9912491609, "How Far Can You Fly: Auto Buy Walking Speed", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/How%20Far%20Can%20You%20Fly%20Auto%20Buy%20Walking%20Speed.lua")
+
+addscriptexist(142823291, "Murder Mystery 2: Highlight Esp", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Murder%20Mystery%20%20Highlight%20Esp.lua")
