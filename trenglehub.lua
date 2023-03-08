@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 15:15:28"
+lastupdate = "GMT +1: 08.03.2023 15:15:32"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -8802,3 +8802,5 @@ addscriptexist(9649680488, "Backrooms Race Clicker: Auto Clicker", "pulled from 
 addscriptexist(10598587051, "Anime Clicker Fight: Auto Farm, Auto Clicker, Auto Open", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime%20Clicker%20Fight%20Auto%20Farm%20Auto%20Clicker%20Auto%20Open.lua")
 
 addscriptexist(9992339729, "Longest Answer Wins: Answer randomly, Answer, WalkSpeed", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Longest%20Answer%20Wins%20Answer%20randomly%20Answer%20WalkSpeed.lua")
+
+addscriptexist(3260590327, "Tower Defense Simulator: StackTower,Sell All,AutoChain", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tower%20Defense%20Simulator%20StackTowerSell%20AllAutoChain.lua")
