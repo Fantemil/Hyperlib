@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 18:46:12"
+lastupdate = "GMT +1: 08.03.2023 18:46:19"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -12028,3 +12028,5 @@ addscript(8046196743, "Current Game","La Kantina Vibe: Server Crasher", "pulled 
 addscriptexist(6403549175, "Plane Shooter: Infinite Gems, God Mode, Auto Kill & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Plane%20Shooter%20Infinite%20Gems%20God%20Mode%20Auto%20Kill%20%20More.lua")
 
 addscriptexist(9551640993, "Mining Simulator 2: Halloween Update Auto Farm Gui", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mining%20Simulator%20%20Halloween%20Update%20Auto%20Farm%20Gui.lua")
+
+addscript(9554750143, "Current Game","Pet Fighting Simulator: Infinite Money & Gems", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pet%20Fighting%20Simulator%20Infinite%20Money%20%20Gems.lua")
