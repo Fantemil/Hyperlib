@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 16:36:49"
+lastupdate = "GMT +1: 08.03.2023 16:36:54"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -8898,3 +8898,5 @@ addscriptuniversal("Universal Infinite Jumps, Walkspeed and Jump Power changers"
 addscriptexist(3177438863, "Dragon Blox: Auto Click, Auto Rebirth", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Dragon%20Blox%20Auto%20Click%20Auto%20Rebirth.lua")
 
 addscriptexist(738339342, "Flood Escape 2: AutoVote, Skip Map Loading, Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Flood%20Escape%20%20AutoVote%20Skip%20Map%20Loading%20Auto%20Farm.lua")
+
+addscriptexist(662417684, "LUCKY BLOCKS Battlegrounds: Fly, Spawn Blocks, Hitbox", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LUCKY%20BLOCKS%20Battlegrounds%20Fly%20Spawn%20Blocks%20Hitbox.lua")
