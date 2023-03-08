@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 07:01:01"
+lastupdate = "GMT +1: 08.03.2023 07:01:05"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -5338,3 +5338,5 @@ addscriptexist(2317712696, "The Wild West: Silent Aim, Gun Mods, ESP", "pulled f
 addscriptexist(9264596435, "Idle Heroes Simulator: Auto Attack Enemy, Hit Aura & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Idle%20Heroes%20Simulator%20Auto%20Attack%20Enemy%20Hit%20Aura%20%20More.lua")
 
 addscriptexist(6888253864, "Wacky Wizards: Finish Obby, Remove Laser, Walkspeed", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Wacky%20Wizards%20Finish%20Obby%20Remove%20Laser%20Walkspeed.lua")
+
+addscriptexist(2753915549, "Blox Fruits: WalkSpeed Bypass", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blox%20Fruits%20WalkSpeed%20Bypass.lua")
