@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 12:30:37"
+lastupdate = "GMT +1: 08.03.2023 12:30:41"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -6146,3 +6146,5 @@ addscriptuniversal("Universal FE Xester Animations", "pulled from rbxscript.com"
 addscriptexist(21532277, "Notoriety: Low Detection", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Notoriety%20Low%20Detection.lua")
 
 addscriptexist(4623386862, "Piggy: Get Gun, Get Bullets, Teleport to Safe Code Spot", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Piggy%20Get%20Gun%20Get%20Bullets%20Teleport%20to%20Safe%20Code%20Spot.lua")
+
+addscript(4913331862, "Current Game","RECOIL: Tp's you to the Upgrade room", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RECOIL%20Tps%20you%20to%20the%20Upgrade%20room.lua")
