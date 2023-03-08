@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 12:45:23"
+lastupdate = "GMT +1: 08.03.2023 12:45:28"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -6558,3 +6558,5 @@ addscript(11137575513, "Current Game","The Chosen One: Anti Glitch, Unfreeze, Ge
 addscriptexist(1242235469, "ball and axe: Auto Win", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ball%20and%20axe%20Auto%20Win.lua")
 
 addhub("Celestial Hub: 20+ Games", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Celestial%20Hub%20%20Games.lua")
+
+addscript(11200197064, "Current Game","Rich Clicker Simulator! Auto Farm, Fast CPS, Boost FPS", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Rich%20Clicker%20Simulator%20Auto%20Farm%20Fast%20CPS%20Boost%20FPS.lua")
