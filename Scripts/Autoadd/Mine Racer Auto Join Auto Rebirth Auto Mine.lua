@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/senpaigm/Cat-Hub/main/Mine%20Racer.lua"))()
