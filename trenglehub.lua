@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 18:39:01"
+lastupdate = "GMT +1: 08.03.2023 18:39:07"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -11904,3 +11904,5 @@ addscript(460710135, "Current Game","Mount of the Gods: Kill All Animals, Break 
 addscriptexist(1242235469, "ball and axe: Gravity, Save Locate, Reach", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ball%20and%20axe%20Gravity%20Save%20Locate%20Reach.lua")
 
 addscriptexist(155615604, "Prison Life: Get Keycard, Remove All Fences, Walkspeed", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Prison%20Life%20Get%20Keycard%20Remove%20All%20Fences%20Walkspeed.lua")
+
+addscriptexist(606849621, "Jailbreak: Infinity Nitro, Open All Doors & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Jailbreak%20Infinity%20Nitro%20Open%20All%20Doors%20%20More.lua")
