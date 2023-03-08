@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 18:02:54"
+lastupdate = "GMT +1: 08.03.2023 18:02:58"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -11068,3 +11068,5 @@ addscriptexist(9281034297, "Goal Kick Simulator: Kick Aimbot, Auto Kick, Auto Ch
 addscriptexist(155615604, "Prison Life: Walkspeed, Gun Mods, GIve Guns", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Prison%20Life%20Walkspeed%20Gun%20Mods%20GIve%20Guns.lua")
 
 addscriptexist(7180042682, "Military Tycoon (FIXED): Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Military%20Tycoon%20FIXED%20Auto%20Farm.lua")
+
+addscriptuniversal("Universal Car script FE", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Car%20script%20FE.lua")
