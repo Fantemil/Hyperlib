@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 06:40:09"
+lastupdate = "GMT +1: 08.03.2023 06:40:12"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -4696,3 +4696,5 @@ addscriptexist(537413528, "Build A Boat For Treasure: Auto Win, Auto Buy Chests,
 addscriptexist(606849621, "Jailbreak: Inf Jetpack Fuel", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Jailbreak%20Inf%20Jetpack%20Fuel.lua")
 
 addscript(7280118908, "Current Game","School Simulator: Get all Gamepasses", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/School%20Simulator%20Get%20all%20Gamepasses.lua")
+
+addscriptexist(155615604, "Prison Life: Summon AK-47", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Prison%20Life%20Summon%20AK.lua")
