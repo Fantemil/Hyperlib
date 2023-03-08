@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 17:28:25"
+lastupdate = "GMT +1: 08.03.2023 17:28:30"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -10206,3 +10206,5 @@ addscript(9304358188, "Current Game","Find The Memes: Unlock All", "pulled from 
 addscript(4860819035, "Current Game","Plants vs Zombies Garden Problem: Break Server", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Plants%20vs%20Zombies%20Garden%20Problem%20Break%20Server.lua")
 
 addscriptexist(10347946161, "Rat Washing Tycoon: Auto Collect Rats", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Rat%20Washing%20Tycoon%20Auto%20Collect%20Rats.lua")
+
+addscript(2041312716, "Current Game","Ragdoll Engine: Teleports, No Push Cooldown & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ragdoll%20Engine%20Teleports%20No%20Push%20Cooldown%20%20More.lua")
