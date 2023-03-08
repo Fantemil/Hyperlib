@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 18:42:01"
+lastupdate = "GMT +1: 08.03.2023 18:42:07"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -11956,3 +11956,5 @@ addscript(4608737604, "Current Game","fight: Auto Pickup Every Gun", "pulled fro
 addscriptexist(10430505147, "Skateman Simulator: Auto Farm, Auto Hatch, Auto Ramp", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Skateman%20Simulator%20Auto%20Farm%20Auto%20Hatch%20Auto%20Ramp.lua")
 
 addscriptexist(155615604, "Prison Life: Get All Guns, Noclip & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Prison%20Life%20Get%20All%20Guns%20Noclip%20%20More.lua")
+
+addscriptexist(5490351219, "Clicker Madness: Auto Click, Teleports & more", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Clicker%20Madness%20Auto%20Click%20Teleports%20%20more.lua")
