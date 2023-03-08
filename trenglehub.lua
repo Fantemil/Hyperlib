@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 12:53:59"
+lastupdate = "GMT +1: 08.03.2023 12:54:03"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -6772,3 +6772,5 @@ addscriptexist(6679968919, "Fly Race: Studs Farm, Bring Orbs, Anti Afk.", "pulle
 addscriptexist(9285238704, "Race Clicker: Teleports, Auto Win, Auto Rebirth", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Race%20Clicker%20Teleports%20Auto%20Win%20Auto%20Rebirth.lua")
 
 addscriptexist(11040063484, "Sword Fighters Simulator: Webhooks, Auto Farm Quests & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sword%20Fighters%20Simulator%20Webhooks%20Auto%20Farm%20Quests%20%20More.lua")
+
+addscriptexist(218377574, "Admin Simulator: Auto Lift", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Admin%20Simulator%20Auto%20Lift.lua")
