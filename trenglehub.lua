@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 14:34:10"
+lastupdate = "GMT +1: 08.03.2023 14:34:14"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -7692,3 +7692,5 @@ addscriptuniversal("Universal Anti Kick not server sided", "pulled from rbxscrip
 addscriptuniversal("Universal Player Join and Leaves Server Logger", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Player%20Join%20and%20Leaves%20Server%20Logger.lua")
 
 addscriptexist(9143982021, "Sword Battles: Get Flash Sword", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sword%20Battles%20Get%20Flash%20Sword.lua")
+
+addscriptexist(3101667897, "Legends Of Speed: Auto Take Red Orbs", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Legends%20Of%20Speed%20Auto%20Take%20Red%20Orbs.lua")
