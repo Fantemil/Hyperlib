@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 18:55:20"
+lastupdate = "GMT +1: 08.03.2023 18:55:29"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -12226,3 +12226,5 @@ addscriptexist(1046190774, "Haloween Night: Auto Farm, Teleports", "pulled from 
 addscriptexist(8929050629, "Mo's Academy: Get Everything GUI", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mos%20Academy%20Get%20Everything%20GUI.lua")
 
 addscriptexist(3527629287, "Big Paintball: Kill Aura, All Weapons, Esp", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Big%20Paintball%20Kill%20Aura%20All%20Weapons%20Esp.lua")
+
+addscriptexist(4753520418, "The Hood: Aimlock, FOV", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/The%20Hood%20Aimlock%20FOV.lua")
