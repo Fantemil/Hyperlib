@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 17:09:40"
+lastupdate = "GMT +1: 08.03.2023 17:09:44"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -9718,3 +9718,5 @@ addscriptexist(4738545896, "SHOOT OUT: Kill All, Silent Aim, Esp", "pulled from 
 addscriptexist(6229116934, "Hoopz: Reach, Walkspeed, Aimbot", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Hoopz%20Reach%20Walkspeed%20Aimbot.lua")
 
 addscriptexist(4588604953, "Criminality: Aim, ESP", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Criminality%20Aim%20ESP.lua")
+
+addscriptexist(537413528, "Build A Boat For Treasure: Auto Farm, Auto Rare Chests, Auto Common Chests", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Build%20A%20Boat%20For%20Treasure%20Auto%20Farm%20Auto%20Rare%20Chests%20Auto%20Common%20Chests.lua")
