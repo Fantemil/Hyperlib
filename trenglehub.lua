@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 17:35:34"
+lastupdate = "GMT +1: 08.03.2023 17:35:38"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -10380,3 +10380,5 @@ addscriptexist(914010731, "Ro-Ghoul: Auto Farm Boss, Spam Skill, Auto Cash Out",
 addscriptexist(10723695195, "Anime Evolution Simulator: Auto Farm, Attack Delay, Auto Power", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime%20Evolution%20Simulator%20Auto%20Farm%20Attack%20Delay%20Auto%20Power.lua")
 
 addscriptexist(10118559731, "nico's nextbots: GodMode, Infinity Jumps, Fly", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/nicos%20nextbots%20GodMode%20Infinity%20Jumps%20Fly.lua")
+
+addscriptexist(10523236737, "Multiverse Battlegrounds: Kill ALL", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Multiverse%20Battlegrounds%20Kill%20ALL.lua")
