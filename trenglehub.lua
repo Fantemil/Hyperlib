@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 20:22:28"
+lastupdate = "GMT +1: 08.03.2023 20:22:32"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -13770,3 +13770,5 @@ addscriptexist(286090429, "Arsenal | ESP", "pulled from rbxscript.com", "https:/
 addscript(1343871267, "Current Game","Fredbear's Mega Roleplay | Transform All, Mutate Player or all, Animatronic", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Fredbears%20Mega%20Roleplay%20%20Transform%20All%20Mutate%20Player%20or%20all%20Animatronic.lua")
 
 addscriptexist(2537430692, "Jenga | Win Game, Remove Objects and Kill Bricks, Force Death", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Jenga%20%20Win%20Game%20Remove%20Objects%20and%20Kill%20Bricks%20Force%20Death.lua")
+
+addscript(10604409263, "Current Game","Moscow, Soviet Union | 100K Every Second", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Moscow%20Soviet%20Union%20%20K%20Every%20Second.lua")
