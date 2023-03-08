@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 20:24:24"
+lastupdate = "GMT +1: 08.03.2023 20:24:28"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -13822,3 +13822,5 @@ addscriptexist(8227619186, "Murder Mystery A | ESP, Kill All, Get Revolver", "pu
 addscriptexist(662417684, "LUCKY BLOCKS Battlegrounds | Kill All, Kill Aura, Inf Jump", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LUCKY%20BLOCKS%20Battlegrounds%20%20Kill%20All%20Kill%20Aura%20Inf%20Jump.lua")
 
 addscriptexist(7075737729, "Hoop Central 6 | Anti Cheat Bypasss, Bypass, Item Bypass", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Hoop%20Central%20%20%20Anti%20Cheat%20Bypasss%20Bypass%20Item%20Bypass.lua")
+
+addscriptexist(6753004901, "Swing City | Unlock All Skills, Farm Money, Exp FAST", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Swing%20City%20%20Unlock%20All%20Skills%20Farm%20Money%20Exp%20FAST.lua")
