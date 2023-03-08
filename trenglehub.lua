@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 12:50:35"
+lastupdate = "GMT +1: 08.03.2023 12:50:39"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -6684,3 +6684,5 @@ addscript(10679961467, "Current Game","5050 Pick A Door Obby!: Instant Win, Tele
 addhub("NauHub: 13 Games", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NauHub%20%20Games.lua")
 
 addscript(7205641391, "Current Game","Monday Morning Misery: Auto Player", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Monday%20Morning%20Misery%20Auto%20Player.lua")
+
+addscriptexist(863266079, "Apocalypse Rising 2: Parvus Hub", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Apocalypse%20Rising%20%20Parvus%20Hub.lua")
