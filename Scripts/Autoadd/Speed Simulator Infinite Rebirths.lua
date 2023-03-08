@@ -1,0 +1,6 @@
+while wait(0.1) do
+
+game:GetService("ReplicatedStorage").GlobalFunctions.RebirthPlayerCallFromClient:FireServer()
+
+game:GetService("ReplicatedStorage").GlobalFunctions.AddPlayerSpeed:FireServer(99999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999,999999999999999999)
+end
