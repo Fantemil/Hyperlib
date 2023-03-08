@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 07:18:32"
+lastupdate = "GMT +1: 08.03.2023 07:18:36"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -5874,3 +5874,5 @@ addscriptexist(6170705260, "Blending Simulator 2: Auto Collect Ingredients, Auto
 addscript(4991214437, "Current Game","town: Town Plot Copier", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/town%20Town%20Plot%20Copier.lua")
 
 addscriptexist(10914683361, "Busy Business! Instant Order, Instant Serve", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Busy%20Business%20Instant%20Order%20Instant%20Serve.lua")
+
+addscriptexist(10598587051, "Anime Clicker Fight: Auto Farm, Auto Click, Egg.", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime%20Clicker%20Fight%20Auto%20Farm%20Auto%20Click%20Egg.lua")
