@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 17:15:28"
+lastupdate = "GMT +1: 08.03.2023 17:15:33"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -9870,3 +9870,5 @@ addscriptexist(9498006165, "Tapping Simulator: Auto Tapper, Auto Claim Random Re
 addscriptexist(4520749081, "King Legacy Hub", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/King%20Legacy%20Hub.lua")
 
 addscriptexist(2788229376, "Da Hood: Anti Kick", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Da%20Hood%20Anti%20Kick.lua")
+
+addscriptexist(2788229376, "Da Hood: Auto Kick When Mod Join", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Da%20Hood%20Auto%20Kick%20When%20Mod%20Join.lua")
