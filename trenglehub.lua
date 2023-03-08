@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 12:42:55"
+lastupdate = "GMT +1: 08.03.2023 12:42:59"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -6488,3 +6488,5 @@ addscriptexist(4651779470, "RECOIL: Unlock Camo and Attachments", "pulled from r
 addscriptexist(9585800888, "Plane crash physics: Server Lagger", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Plane%20crash%20physics%20Server%20Lagger.lua")
 
 addscriptexist(11572573905, "Power Wash Tycoon: Infinity Capacity", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Power%20Wash%20Tycoon%20Infinity%20Capacity.lua")
+
+addscriptexist(5895971007, "Allusions: Gui, Stat Change & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Allusions%20Gui%20Stat%20Change%20%20More.lua")
