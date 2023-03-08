@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 18:23:24"
+lastupdate = "GMT +1: 08.03.2023 18:23:29"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -11576,3 +11576,5 @@ addscriptexist(8884334497, "Mining Clicker Simulator: Auto Farm, Auto Buy, Auto 
 addscript(10758748100, "Current Game","Killstreak Simulator Remake: Kill All, Farm Players, Farm Hits", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Killstreak%20Simulator%20Remake%20Kill%20All%20Farm%20Players%20Farm%20Hits.lua")
 
 addscriptexist(2753915549, "Blox Fruits: Set Spawn Point, Super Human, Fast Run", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blox%20Fruits%20Set%20Spawn%20Point%20Super%20Human%20Fast%20Run.lua")
+
+addscript(9097655905, "Current Game","Genie Fight Simulator: Unlock All Worlds, Claim All Loyalty Rewards, Infinity Gold", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Genie%20Fight%20Simulator%20Unlock%20All%20Worlds%20Claim%20All%20Loyalty%20Rewards%20Infinity%20Gold.lua")
