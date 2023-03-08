@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 06:39:50"
+lastupdate = "GMT +1: 08.03.2023 06:39:54"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -4686,3 +4686,5 @@ addscript(281489669, "Current Game","Wizard Tycoon - 2 Player: Kill All", "pulle
 addhub("Universal Henry stickmin 360 headshot MP4", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Henry%20stickmin%20%20headshot%20MP.lua")
 
 addscriptexist(2753915549, "Blox Fruits: Chest Farmer", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blox%20Fruits%20Chest%20Farmer.lua")
+
+addscriptexist(2753915549, "Blox Fruits: Fruit Founder", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blox%20Fruits%20Fruit%20Founder.lua")
