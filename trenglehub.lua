@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 16:48:10"
+lastupdate = "GMT +1: 08.03.2023 16:48:17"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -9174,3 +9174,5 @@ addscriptexist(292439477, "Phantom Forces: Silent Aim V2", "pulled from rbxscrip
 addscript(7262405121, "Current Game","Ridgeway County Concepts: Arrest Player, Teleport Player, Play All Air Horns", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ridgeway%20County%20Concepts%20Arrest%20Player%20Teleport%20Player%20Play%20All%20Air%20Horns.lua")
 
 addscript(10681346822, "Current Game","Roblox But You Get Smarter Every Second: Wipe Server Stats", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Roblox%20But%20You%20Get%20Smarter%20Every%20Second%20Wipe%20Server%20Stats.lua")
+
+addscriptexist(6516141723, "DOORS: Spawn Entities, Keybinds, Options", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DOORS%20Spawn%20Entities%20Keybinds%20Options.lua")
