@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 15:17:22"
+lastupdate = "GMT +1: 08.03.2023 15:17:29"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -8852,3 +8852,5 @@ addscriptexist(3101667897, "Legends Of Speed: Auto Gem, Auto Race, Auto Orbs", "
 addscriptexist(10041108328, "Dark Life: God Mode", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Dark%20Life%20God%20Mode.lua")
 
 addscriptexist(10404327868, "Timber Champions: Reset Stats", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Timber%20Champions%20Reset%20Stats.lua")
+
+addhub("Phonk Hub: 3 Games", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Phonk%20Hub%20%20Games.lua")
