@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 16:58:48"
+lastupdate = "GMT +1: 08.03.2023 16:58:52"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -9446,3 +9446,5 @@ addscriptexist(5956785391, "Project Slayers: Kill Aura, Noclip, Auto Farm", "pul
 addscriptexist(5865858426, "Retail Tycoon 2: Philips Auto Farm, Get Ugc Item", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Retail%20Tycoon%20%20Philips%20Auto%20Farm%20Get%20Ugc%20Item.lua")
 
 addscriptexist(3260590327, "Tower Defense Simulator: Auto Chain", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tower%20Defense%20Simulator%20Auto%20Chain.lua")
+
+addscriptexist(286090429, "Arsenal: AImbot, ESP, Max Ammo", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Arsenal%20AImbot%20ESP%20Max%20Ammo.lua")
