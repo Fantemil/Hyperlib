@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 18:59:42"
+lastupdate = "GMT +1: 08.03.2023 18:59:47"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -12324,3 +12324,5 @@ addscriptexist(606849621, "Jailbreak: Collect Airdrops, No Punch Aura & More", "
 addscriptexist(2753915549, "Blox Fruits: ESP, Auto next sea & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blox%20Fruits%20ESP%20Auto%20next%20sea%20%20More.lua")
 
 addscriptexist(7026949294, "Sword Simulator: Auto Swing Sword, Auto Group Rewards & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sword%20Simulator%20Auto%20Swing%20Sword%20Auto%20Group%20Rewards%20%20More.lua")
+
+addscriptexist(8482451541, "Brick Defense: Auto WIn Game", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Brick%20Defense%20Auto%20WIn%20Game.lua")
