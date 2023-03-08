@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 14:53:30"
+lastupdate = "GMT +1: 08.03.2023 14:53:34"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -8212,3 +8212,5 @@ addscriptexist(13822889, "Lumber Tycoon 2: Dupe Money, Options, FOV", "pulled fr
 addscriptuniversal("Universal Update Checker", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Update%20Checker.lua")
 
 addscriptuniversal("Universal Get Sturdy", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Get%20Sturdy.lua")
+
+addscriptexist(8737602449, "PLS DONATE: Server Hop, Auto Thank You, Text Update", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PLS%20DONATE%20Server%20Hop%20Auto%20Thank%20You%20Text%20Update.lua")
