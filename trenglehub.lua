@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 12:50:20"
+lastupdate = "GMT +1: 08.03.2023 12:50:24"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -6678,3 +6678,5 @@ addhub("Nactical Z: Walkspeed Slider, Infinity Yield, Ace Hub", "pulled from rbx
 addscriptexist(1554960397, "Car Dealership Tycoon: TP To Santa, AutoLaps Christmas Race, Find 7 Items", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Car%20Dealership%20Tycoon%20TP%20To%20Santa%20AutoLaps%20Christmas%20Race%20Find%20%20Items.lua")
 
 addscript(5490351219, "Current Game","Clicker Madness! Fast Auto Clicker", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Clicker%20Madness%20Fast%20Auto%20Clicker.lua")
+
+addscript(10679961467, "Current Game","5050 Pick A Door Obby!: Instant Win, Teleport To End", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/%20Pick%20A%20Door%20Obby%20Instant%20Win%20Teleport%20To%20End.lua")
