@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 12:40:21"
+lastupdate = "GMT +1: 08.03.2023 12:40:24"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -6416,3 +6416,5 @@ addscriptexist(11382413635, "Human Cannon: Auto Farm Gems", "pulled from rbxscri
 addscriptuniversal("Universal AntiAfk", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20AntiAfk.lua")
 
 addscriptuniversal("Platinium Hub: 10+ Games Support", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Platinium%20Hub%20%20Games%20Support.lua")
+
+addscriptexist(443406476, "Project Lazarus: Teleports, Aimbot, Fly", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Project%20Lazarus%20Teleports%20Aimbot%20Fly.lua")
