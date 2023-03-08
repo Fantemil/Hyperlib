@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 17:26:43"
+lastupdate = "GMT +1: 08.03.2023 17:26:49"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -10160,3 +10160,5 @@ addscriptexist(7047488135, "Speed Run Simulator: Fast Auto Collect Orbs, Auto Re
 addscript(6769764667, "Current Game","Factory Simulator: Auto Farm, Auto Store & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Factory%20Simulator%20Auto%20Farm%20Auto%20Store%20%20More.lua")
 
 addscriptexist(11238892040, "Type or Die: Search Bar", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Type%20or%20Die%20Search%20Bar.lua")
+
+addscript(9802068147, "Current Game","Museum Tycoon: Auto Collect, Auto Farm. Auto Buy", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Museum%20Tycoon%20Auto%20Collect%20Auto%20Farm%20Auto%20Buy.lua")
