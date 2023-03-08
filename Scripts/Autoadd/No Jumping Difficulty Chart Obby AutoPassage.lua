@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://gist.githubusercontent.com/Zenix4739/766b7b261e719f6b78e935232865e037/raw/549facf4c381e904f75e48adde36b7590395a0cc/Script%2520on%2520No%2520jumping%2520Obby"))();
