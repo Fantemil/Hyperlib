@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 18:33:26"
+lastupdate = "GMT +1: 08.03.2023 18:33:31"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -11784,3 +11784,5 @@ addscript(2202352383, "Current Game","SPTS Classic & Origin: Train Body, Toughne
 addscriptexist(9625096419, "Tapper Simulator: Auto Hatch, Auto Click, Equip Best Pets", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tapper%20Simulator%20Auto%20Hatch%20Auto%20Click%20Equip%20Best%20Pets.lua")
 
 addscriptexist(10205046075, "Onslaught Public Dev Server: Gun Mod & Annoy Server", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Onslaught%20Public%20Dev%20Server%20Gun%20Mod%20%20Annoy%20Server.lua")
+
+addscript(3082002798, "Current Game","T-Titans Battlegrounds: Insta Kill, Hitbox, Auto Spawn", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TTitans%20Battlegrounds%20Insta%20Kill%20Hitbox%20Auto%20Spawn.lua")
