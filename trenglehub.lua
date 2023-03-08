@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 20:59:25"
+lastupdate = "GMT +1: 08.03.2023 20:59:32"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -14710,3 +14710,5 @@ addscriptexist(8704181738, "Tiến Tiến Piece [Gamepass Sword]", "pulled from 
 addscriptexist(6284583030, "Pet Simulator X [Auto Farm, Auto Egg, WalkSpeed]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pet%20Simulator%20X%20Auto%20Farm%20Auto%20Egg%20WalkSpeed.lua")
 
 addscriptexist(142823291, "Murder Mystery 2 [Auto farm, Esp, Kill Aura]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Murder%20Mystery%20%20Auto%20farm%20Esp%20Kill%20Aura.lua")
+
+addscript(4965975642, "Current Game","Survival Of the Fittest [Godmode, KillAura]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Survival%20Of%20the%20Fittest%20Godmode%20KillAura.lua")
