@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 16:45:15"
+lastupdate = "GMT +1: 08.03.2023 16:45:20"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -9104,3 +9104,5 @@ addscriptexist(6284583030, "Pet Simulator X: Auto Farm, Auto Pets & More", "pull
 addscriptexist(11346342371, "making memes in your basement at 3 AM tycoon:Auto Sell, Auto Upload, Auto Collect", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/making%20memes%20in%20your%20basement%20at%20%20AM%20tycoonAuto%20Sell%20Auto%20Upload%20Auto%20Collect.lua")
 
 addscriptexist(10681622988, "Easy Jump Clicker: Auto win, Rebirths, Clicks", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Easy%20Jump%20Clicker%20Auto%20win%20Rebirths%20Clicks.lua")
+
+addscriptexist(1962086868, "Tower of Hell: Auto Farm, Esp, Auto Buy", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tower%20of%20Hell%20Auto%20Farm%20Esp%20Auto%20Buy.lua")
