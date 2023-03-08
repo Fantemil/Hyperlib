@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 19:14:19"
+lastupdate = "GMT +1: 08.03.2023 19:14:24"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -12630,3 +12630,5 @@ addscriptexist(7177496972, "Anime Warriors: Auto Skills, Auto Farming & More", "
 addscript(228181322, "Current Game","Dinosaur Simulator: Infinite Coins", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Dinosaur%20Simulator%20Infinite%20Coins.lua")
 
 addscriptexist(228181322, "Dinosaur Simulator: Buy All Dinosaurus", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Dinosaur%20Simulator%20Buy%20All%20Dinosaurus.lua")
+
+addscriptexist(10005865562, "Midnight Hours: Monster Esp", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Midnight%20Hours%20Monster%20Esp.lua")
