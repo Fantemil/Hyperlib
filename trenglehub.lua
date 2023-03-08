@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 17:01:06"
+lastupdate = "GMT +1: 08.03.2023 17:01:10"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -9502,3 +9502,5 @@ addscriptexist(10977918334, "Merge Droppers: Inf Parts, Deposit, Merge", "pulled
 addscriptexist(10108131074, "Mow The Lawn: Auto Hatch, Auto Refil Gas, Auto Mow", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mow%20The%20Lawn%20Auto%20Hatch%20Auto%20Refil%20Gas%20Auto%20Mow.lua")
 
 addscriptexist(8750997647, "Tapping Legends X: Auto Extract, Auto Tap, Auto Farm Drops", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tapping%20Legends%20X%20Auto%20Extract%20Auto%20Tap%20Auto%20Farm%20Drops.lua")
+
+addscriptexist(2809202155, "Your Bizarre Adventure: Auto Farm Items", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Your%20Bizarre%20Adventure%20Auto%20Farm%20Items.lua")
