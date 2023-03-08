@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 19:51:18"
+lastupdate = "GMT +1: 08.03.2023 19:51:22"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -13218,3 +13218,5 @@ addscript(10484095306, "Current Game","CLIMB 100.000 STAIRS TO VIP! | Teleport T
 addscriptexist(9585537847, "SHADOVIS RPG [Fast Item Skills - Auto Collect & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SHADOVIS%20RPG%20Fast%20Item%20Skills%20%20Auto%20Collect%20%20More.lua")
 
 addscriptexist(13822889, "Lumber Tycoon 2 | Walkspeed, Noclip, Anti afk", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Lumber%20Tycoon%20%20%20Walkspeed%20Noclip%20Anti%20afk.lua")
+
+addscriptexist(10531659515, "Shovel Battles | AutoFarm, Auto Kill All, Break All Players", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Shovel%20Battles%20%20AutoFarm%20Auto%20Kill%20All%20Break%20All%20Players.lua")
