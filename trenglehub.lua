@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 12:32:40"
+lastupdate = "GMT +1: 08.03.2023 12:32:45"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -6204,3 +6204,5 @@ addscriptexist(6284583030, "Pet Simulator X: Walkspeeds, Fly & More", "pulled fr
 addscriptexist(6170705260, "Blending Simulator 2: Ingredients Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blending%20Simulator%20%20Ingredients%20Auto%20Farm.lua")
 
 addscriptexist(6170705260, "Blending Simulator 2: Blend Token Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blending%20Simulator%20%20Blend%20Token%20Auto%20Farm.lua")
+
+addscriptexist(6170705260, "Blending Simulator 2: Infinite Skill Points", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blending%20Simulator%20%20Infinite%20Skill%20Points.lua")
