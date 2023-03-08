@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 14:32:08"
+lastupdate = "GMT +1: 08.03.2023 14:32:11"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -7640,3 +7640,5 @@ addscriptexist(10918081103, "Killstreak Chaos: Op Kill Aura For Any Glove", "pul
 addscriptexist(205224386, "Hide And Seek Extreme: Grab All Coins, Player Esp", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Hide%20And%20Seek%20Extreme%20Grab%20All%20Coins%20Player%20Esp.lua")
 
 addscriptexist(6198225400, "Legends Re:Written: God Mode, Trade Things", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Legends%20ReWritten%20God%20Mode%20Trade%20Things.lua")
+
+addscript(11533168821, "Current Game","How Far Can You Dunk: Auto Collect Boost", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/How%20Far%20Can%20You%20Dunk%20Auto%20Collect%20Boost.lua")
