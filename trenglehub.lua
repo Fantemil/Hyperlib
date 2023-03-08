@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 14:37:37"
+lastupdate = "GMT +1: 08.03.2023 14:37:41"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -7784,3 +7784,5 @@ addscriptexist(3233893879, "Bad Business: Sprint Speed, Visuals, Hit Part", "pul
 addscriptexist(6872265039, "BedWars: Vxpe V4, JSBR, Sigma", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BedWars%20Vxpe%20V%20JSBR%20Sigma.lua")
 
 addscriptexist(11445923563, "One Fruit Simulator: Auto Farm, Auto Open Chests, Auto Collect Fruits", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/One%20Fruit%20Simulator%20Auto%20Farm%20Auto%20Open%20Chests%20Auto%20Collect%20Fruits.lua")
+
+addscriptuniversal("Universal Fake Admin Button", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Fake%20Admin%20Button.lua")
