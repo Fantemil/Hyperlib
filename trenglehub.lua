@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 13:06:40"
+lastupdate = "GMT +1: 08.03.2023 13:06:44"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -7098,3 +7098,5 @@ addscript(9718523719, "Current Game","Raise a Noob: Auto Feed, Auto Click, Colle
 addscriptexist(6447798030, "Funky Friday: Auto Collect Rings", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Funky%20Friday%20Auto%20Collect%20Rings.lua")
 
 addscriptexist(5712833750, "Animal Simulator: Auto Collect Coins", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Animal%20Simulator%20Auto%20Collect%20Coins.lua")
+
+addscriptexist(3177438863, "Dragon Blox: Auto Punch, Auto Kills Mobs, Auto Rebirth", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Dragon%20Blox%20Auto%20Punch%20Auto%20Kills%20Mobs%20Auto%20Rebirth.lua")
