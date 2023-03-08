@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 21:07:05"
+lastupdate = "GMT +1: 08.03.2023 21:07:11"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -14894,3 +14894,5 @@ addscriptexist(10108131074, "Mow The Lawn! [Auto Farm, Serverhop]", "pulled from
 addscript(4003872968, "Current Game","Giant Survival! [Inf Money, Best Gun]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Giant%20Survival%20Inf%20Money%20Best%20Gun.lua")
 
 addscriptexist(4967465336, "Ray's Mod [Inf Money, Inf Ammo]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Rays%20Mod%20Inf%20Money%20Inf%20Ammo.lua")
+
+addscriptexist(8531522502, "Facility Of Redemption [WalkSpeed]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Facility%20Of%20Redemption%20WalkSpeed.lua")
