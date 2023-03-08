@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 19:35:13"
+lastupdate = "GMT +1: 08.03.2023 19:35:19"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -13096,3 +13096,5 @@ addscriptexist(4282985734, "Combat Warriors: Anti Parry, Auto Parry", "pulled fr
 addscriptexist(2569453732, "Rise of Nations: Build Bot, Sell Bot, Esp", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Rise%20of%20Nations%20Build%20Bot%20Sell%20Bot%20Esp.lua")
 
 addscriptexist(7026828578, "Speed Simulator: Inf Rebirths, Speed Farm, Farm Rebirths", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Speed%20Simulator%20Inf%20Rebirths%20Speed%20Farm%20Farm%20Rebirths.lua")
+
+addscriptexist(286090429, "Arsenal: Silent Aim, Visuals", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Arsenal%20Silent%20Aim%20Visuals.lua")
