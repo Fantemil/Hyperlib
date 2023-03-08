@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 20:40:13"
+lastupdate = "GMT +1: 08.03.2023 20:40:17"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -14236,3 +14236,5 @@ addscriptexist(13822889, "Lumber Tycoon 2 [Inf Jump, Walkspeed]", "pulled from r
 addscriptexist(4951858512, "Victory Race [Walkspeed, AutoFarm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Victory%20Race%20Walkspeed%20AutoFarm.lua")
 
 addscriptexist(5490351219, "Clicker Madness [Auto Open Egg, Auto Clicker, Tp]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Clicker%20Madness%20Auto%20Open%20Egg%20Auto%20Clicker%20Tp.lua")
+
+addscriptexist(9598746251, "Home Run Simulator [Auto home Run Auto Upgrade, Auto rebirth]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Home%20Run%20Simulator%20Auto%20home%20Run%20Auto%20Upgrade%20Auto%20rebirth.lua")
