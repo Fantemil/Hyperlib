@@ -1,1 +1,1 @@
-loadstring(game:HttpGet(('https://raw.githubusercontent.com/ProtoRBLX/Victory-Race-Defeater/main/README.md'),true))()
+game.Workspace.YOUR USERNAME HERE.Humanoid.WalkSpeed = 9999999999999
