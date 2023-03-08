@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 18:30:31"
+lastupdate = "GMT +1: 08.03.2023 18:30:37"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -11746,3 +11746,5 @@ addscriptexist(155615604, "Prison Life: Weapon Mods, Teleport & More", "pulled f
 addscriptexist(7655745946, "Dunking Simulator: Redeem All Codes, Unlimited Spins, Auto Green", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Dunking%20Simulator%20Redeem%20All%20Codes%20Unlimited%20Spins%20Auto%20Green.lua")
 
 addscriptexist(10425191433, "Trick Shot Simulator: Infinty Cash, Infinity Gems", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Trick%20Shot%20Simulator%20Infinty%20Cash%20Infinity%20Gems.lua")
+
+addscriptexist(10925589760, "Merge Simulator: Merge All Blocks, Teleporter To Players, Give x2 Frenzy", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Merge%20Simulator%20Merge%20All%20Blocks%20Teleporter%20To%20Players%20Give%20x%20Frenzy.lua")
