@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 17:53:28"
+lastupdate = "GMT +1: 08.03.2023 17:53:32"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -10830,3 +10830,5 @@ addscriptexist(8304191830, "Anime Adventures: Sell All Units, Enemy Spawn Esp & 
 addscriptexist(10652184030, "Jump Clicker: Infinite Jumps, Taps", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Jump%20Clicker%20Infinite%20Jumps%20Taps.lua")
 
 addscriptexist(9872472334, "Evade: Auto Farm Xp/Money, Bot Esp & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Evade%20Auto%20Farm%20XpMoney%20Bot%20Esp%20%20More.lua")
+
+addscriptexist(8737602449, "PLS DONATE: Steal Booth Text GUI", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PLS%20DONATE%20Steal%20Booth%20Text%20GUI.lua")
