@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 16:59:26"
+lastupdate = "GMT +1: 08.03.2023 16:59:33"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -9462,3 +9462,5 @@ addscriptexist(3398014311, "Restaurant Tycoon 2: Player Instant Cook", "pulled f
 addscriptexist(6679968919, "Fly Race: Auto Rebirth, Auto Go Farthest, Buy Egg", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Fly%20Race%20Auto%20Rebirth%20Auto%20Go%20Farthest%20Buy%20Egg.lua")
 
 addscript(10631181587, "Current Game","Stone Miner Simulator 2: Auto Buy Spikes, Auto Sell, Auto Upgrade Capacity", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Stone%20Miner%20Simulator%20%20Auto%20Buy%20Spikes%20Auto%20Sell%20Auto%20Upgrade%20Capacity.lua")
+
+addscript(10425191433, "Current Game","Trick Shot Simulator: Options, Auto Upgrades, Auto Unbox", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Trick%20Shot%20Simulator%20Options%20Auto%20Upgrades%20Auto%20Unbox.lua")
