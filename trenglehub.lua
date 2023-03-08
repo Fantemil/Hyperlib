@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 12:55:17"
+lastupdate = "GMT +1: 08.03.2023 12:55:21"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -6806,3 +6806,5 @@ addscriptexist(2788229376, "Da Hood: Press V to lock Aim", "pulled from rbxscrip
 addscriptuniversal("Universal back door scanner", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20back%20door%20scanner.lua")
 
 addscriptexist(10742364019, "[BETA] EGOIST: Max Shoot", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BETA%20EGOIST%20Max%20Shoot.lua")
+
+addscriptexist(2788229376, "Da Hood: Skin Changer", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Da%20Hood%20Skin%20Changer.lua")
