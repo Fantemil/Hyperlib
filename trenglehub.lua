@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 13:03:53"
+lastupdate = "GMT +1: 08.03.2023 13:03:57"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -7026,3 +7026,5 @@ addscriptexist(4508456371, "Shortest Answer Wins: Money Collector, Anti Afk, Aut
 addscriptexist(2809202155, "Your Bizarre Adventure: Event Present Autofarm, ServerHop", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Your%20Bizarre%20Adventure%20Event%20Present%20Autofarm%20ServerHop.lua")
 
 addscriptuniversal("Universal Small Avatar", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Small%20Avatar.lua")
+
+addscript(32331218, "Current Game","Mega Marble Run Pit: Auto Farm Credits", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mega%20Marble%20Run%20Pit%20Auto%20Farm%20Credits.lua")
