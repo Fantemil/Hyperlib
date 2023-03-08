@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 18:36:14"
+lastupdate = "GMT +1: 08.03.2023 18:36:20"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -11844,3 +11844,5 @@ addscriptexist(2512643572, "Bubble Gum Simulator: Auto Farm Snowflakes", "pulled
 addscript(7256082823, "Current Game","Smart Boss Fights: Equip Items, Walkspeed, Jump Power", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Smart%20Boss%20Fights%20Equip%20Items%20Walkspeed%20Jump%20Power.lua")
 
 addscriptexist(6099256669, "Menacing Timeline: Kill All", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Menacing%20Timeline%20Kill%20All.lua")
+
+addscriptexist(8482451541, "Brick Defense: Infinite Defeats", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Brick%20Defense%20Infinite%20Defeats.lua")
