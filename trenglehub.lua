@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 16:56:55"
+lastupdate = "GMT +1: 08.03.2023 16:56:59"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -9396,3 +9396,5 @@ addscriptexist(5956785391, "Project Slayers: Auto Farm Boss, Kill Aura, Inf Stam
 addscript(11255073656, "Current Game","Mining Merge Clicker Tycoon: Auto Sell, Auto Merge, Auto Crates", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mining%20Merge%20Clicker%20Tycoon%20Auto%20Sell%20Auto%20Merge%20Auto%20Crates.lua")
 
 addscript(888622377, "Current Game","Lucky Crates: Jump Power, Fly, Inifnity Money", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Lucky%20Crates%20Jump%20Power%20Fly%20Inifnity%20Money.lua")
+
+addscriptexist(2768379856, "3008 [2.71]: Insta Pickup", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/%20%20Insta%20Pickup.lua")
