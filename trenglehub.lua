@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 07:07:18"
+lastupdate = "GMT +1: 08.03.2023 07:07:22"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -5528,3 +5528,5 @@ addscript(11636534838, "Current Game","Every Second Your Neck Grows: Auto Grow",
 addscriptexist(4924922222, "Brookhaven RP: Kill People", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Brookhaven%20RP%20Kill%20People.lua")
 
 addscriptexist(2414851778, "Dungeon Quest: Kill Aura, God Mode, Auto Sell", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Dungeon%20Quest%20Kill%20Aura%20God%20Mode%20Auto%20Sell.lua")
+
+addscriptexist(5154858502, "Murderers vs. Sheriffs: Kill All, Knife Aura, Gun Aura", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Murderers%20vs%20Sheriffs%20Kill%20All%20Knife%20Aura%20Gun%20Aura.lua")
