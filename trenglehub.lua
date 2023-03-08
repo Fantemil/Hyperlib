@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 16:49:15"
+lastupdate = "GMT +1: 08.03.2023 16:49:20"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -9202,3 +9202,5 @@ addscript(10320240572, "Current Game","Easy Race Clicker: Auto Click, Auto Win R
 addscriptexist(8884334497, "Mining Clicker Simulator: Auto Claim Rewards, Auto Click, Auto Rebirth", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mining%20Clicker%20Simulator%20Auto%20Claim%20Rewards%20Auto%20Click%20Auto%20Rebirth.lua")
 
 addscript(6764302962, "Current Game","Junk Simulator: Auto Mine, Auto Claim Treasure, Auto Sell", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Junk%20Simulator%20Auto%20Mine%20Auto%20Claim%20Treasure%20Auto%20Sell.lua")
+
+addscriptexist(10723695195, "Anime Evolution Simulator: Auto Rank Up, Auto Train Power, Auto Collect Drops", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime%20Evolution%20Simulator%20Auto%20Rank%20Up%20Auto%20Train%20Power%20Auto%20Collect%20Drops.lua")
