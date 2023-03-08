@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 20:38:33"
+lastupdate = "GMT +1: 08.03.2023 20:38:37"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -14192,3 +14192,5 @@ addscriptexist(9658251985, "The Rake Kill Test [Kill Rake, On/Of Power, Shadow H
 addscriptexist(6428174188, "LOST RPG [Get all items]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LOST%20RPG%20Get%20all%20items.lua")
 
 addscriptexist(292439477, "Phantom Forces [No Recoil]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Phantom%20Forces%20No%20Recoil.lua")
+
+addscriptexist(1537690962, "Bee Swarm Simulator [Autofarm, Auto dig, Auto convert]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Bee%20Swarm%20Simulator%20Autofarm%20Auto%20dig%20Auto%20convert.lua")
