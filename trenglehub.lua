@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 19:18:41"
+lastupdate = "GMT +1: 08.03.2023 19:18:45"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -12734,3 +12734,5 @@ addscriptexist(8232438881, "Thief Simulator: Auto Farm Npc, Buy Tools & More", "
 addscriptexist(2788229376, "Da Hood: Silent Aim, AimLock", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Da%20Hood%20Silent%20Aim%20AimLock.lua")
 
 addscriptexist(6536647319, "Slayers Unleashed: Unlock All, Executor", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Slayers%20Unleashed%20Unlock%20All%20Executor.lua")
+
+addscriptexist(9649680488, "Backrooms Race Clicker: Auto Farm Wins", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Backrooms%20Race%20Clicker%20Auto%20Farm%20Wins.lua")
