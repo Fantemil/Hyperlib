@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 19:36:09"
+lastupdate = "GMT +1: 08.03.2023 19:36:15"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -13118,3 +13118,5 @@ addscriptexist(2788229376, "Da Hood: Titan", "pulled from rbxscript.com", "https
 addscriptuniversal("Universal Fling All", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Fling%20All.lua")
 
 addscript(8447393333, "Current Game","Chocolate Factory Simulator: Infinite Money", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Chocolate%20Factory%20Simulator%20Infinite%20Money.lua")
+
+addscript(7133467811, "Current Game","Spin The Bottle: Invincibility", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Spin%20The%20Bottle%20Invincibility.lua")
