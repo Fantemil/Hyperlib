@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 06:39:07"
+lastupdate = "GMT +1: 08.03.2023 06:39:11"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -4664,3 +4664,5 @@ addscriptexist(1962086868, "Tower of Hell: Admin Commands", "pulled from rbxscri
 addscriptexist(11156779721, "The Survival Game [BETA]: Kill Aura, Equipped Weapon Check & More!", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/The%20Survival%20Game%20BETA%20Kill%20Aura%20Equipped%20Weapon%20Check%20%20More.lua")
 
 addscriptexist(2753915549, "Blox Fruits: Attack delay switch", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blox%20Fruits%20Attack%20delay%20switch.lua")
+
+addscriptexist(6284583030, "Pet Simulator X: Anti X Stealer Logger", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pet%20Simulator%20X%20Anti%20X%20Stealer%20Logger.lua")
