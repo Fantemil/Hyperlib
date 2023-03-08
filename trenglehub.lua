@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 20:28:00"
+lastupdate = "GMT +1: 08.03.2023 20:28:07"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -13920,3 +13920,5 @@ addscriptexist(9498006165, "Slime Tower Tycoon [Auto Collect, Auto buy Slimes, A
 addscript(10429088113, "Current Game","Jump Race [Auto Win]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Jump%20Race%20Auto%20Win.lua")
 
 addscriptexist(9872472334, "Evade [Auto Farm - Fast Revive & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Evade%20Auto%20Farm%20%20Fast%20Revive%20%20More.lua")
+
+addscriptexist(8130299583, "Trident Survival [GUI - Esp, Aimbot & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Trident%20Survival%20GUI%20%20Esp%20Aimbot%20%20More.lua")
