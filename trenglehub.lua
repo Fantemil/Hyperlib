@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 07:05:15"
+lastupdate = "GMT +1: 08.03.2023 07:05:19"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -5466,3 +5466,5 @@ addscriptexist(537413528, "Build A Boat For Treasure: Remove Shadows, Water God 
 addscriptuniversal("Universal Anti JJSploit", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Anti%20JJSploit.lua")
 
 addscriptuniversal("Universal Make Any Gun Semi Automatic", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Make%20Any%20Gun%20Semi%20Automatic.lua")
+
+addscriptexist(11722450615, "steal roblox games to pay grandpa's bail tycoon: Auto create game, Auto upgrades, Auto build", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/steal%20roblox%20games%20to%20pay%20grandpas%20bail%20tycoon%20Auto%20create%20game%20Auto%20upgrades%20Auto%20build.lua")
