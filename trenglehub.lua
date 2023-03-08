@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 18:49:55"
+lastupdate = "GMT +1: 08.03.2023 18:50:00"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -12114,3 +12114,5 @@ addscript(10859879084, "Current Game","Lord Boros Simulator: Unlock Robux Char",
 addscriptexist(13822889, "Lumber Tycoon 2: Dupe Inventory, Bring Wood, Bring Item", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Lumber%20Tycoon%20%20Dupe%20Inventory%20Bring%20Wood%20Bring%20Item.lua")
 
 addscriptexist(8726743209, "Refinery Caves: Auto-Farm, No Damage, No Water Blur", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Refinery%20Caves%20AutoFarm%20No%20Damage%20No%20Water%20Blur.lua")
+
+addscript(6700823483, "Current Game","Idiotic Investing: Screw Everyone", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Idiotic%20Investing%20Screw%20Everyone.lua")
