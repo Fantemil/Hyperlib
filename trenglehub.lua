@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 14:25:55"
+lastupdate = "GMT +1: 08.03.2023 14:26:00"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -7482,3 +7482,5 @@ addscriptexist(9798463281, "Cube Combination: Infinite Pickup Reach", "pulled fr
 addscriptexist(11449238237, "Billionaire Empire! Auto Click, Auto Collect, Auto Arrest Monkeys", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Billionaire%20Empire%20Auto%20Click%20Auto%20Collect%20Auto%20Arrest%20Monkeys.lua")
 
 addscriptexist(155615604, "Prison Life: Get All Items, Auto Fire, Teleports", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Prison%20Life%20Get%20All%20Items%20Auto%20Fire%20Teleports.lua")
+
+addscriptexist(1730877806, "Grand Piece Online: Teleport to Fishman", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Grand%20Piece%20Online%20Teleport%20to%20Fishman.lua")
