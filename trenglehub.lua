@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 07:18:01"
+lastupdate = "GMT +1: 08.03.2023 07:18:05"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -5858,3 +5858,5 @@ addscriptexist(6407649031, "NO-SCOPE ARCADE: Silent Aim, ESP", "pulled from rbxs
 addscriptexist(6888253864, "Wacky Wizards: Remove Laser, Complete Obby, Infinity Jumps", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Wacky%20Wizards%20Remove%20Laser%20Complete%20Obby%20Infinity%20Jumps.lua")
 
 addscriptexist(4282985734, "Combat Warriors: Kill Aura, Teleports, Walk Speed", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Combat%20Warriors%20Kill%20Aura%20Teleports%20Walk%20Speed.lua")
+
+addscriptexist(11729688377, "Booga Booga [REBORN]: Auto Heal, Kill Aura, Pickup Aura", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Booga%20Booga%20REBORN%20Auto%20Heal%20Kill%20Aura%20Pickup%20Aura.lua")
