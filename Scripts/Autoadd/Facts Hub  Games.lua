@@ -1,1 +1,1 @@
-loadstring(game:HttpGet('https://factshub.vercel.app'))()
+loadstring(game:HttpGet('https://raw.githubusercontent.com/Faacts/FactsHub/main/Loader'))();
