@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 12:53:43"
+lastupdate = "GMT +1: 08.03.2023 12:53:47"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -6764,3 +6764,5 @@ addscriptexist(8540346411, "Rebirth Champions X: Auto Collect Presents, Auto Cla
 addscriptexist(6125589657, "Touch Football: Coin farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Touch%20Football%20Coin%20farm.lua")
 
 addscriptexist(11040063484, "Sword Fighters Simulator: Auto Farm, Fight Aura, Auto Collect.", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sword%20Fighters%20Simulator%20Auto%20Farm%20Fight%20Aura%20Auto%20Collect.lua")
+
+addscriptexist(10291129032, "Flappy Bird Race: Auto Farm Coins, Auto Collect Bird, Hatch Egg.", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Flappy%20Bird%20Race%20Auto%20Farm%20Coins%20Auto%20Collect%20Bird%20Hatch%20Egg.lua")
