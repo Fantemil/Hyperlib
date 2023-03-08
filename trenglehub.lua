@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 18:20:52"
+lastupdate = "GMT +1: 08.03.2023 18:20:56"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -11512,3 +11512,5 @@ addscriptexist(10912060909, "Black Adam Experience: Get Scavenger Hunt Item, Tri
 addscript(6742344663, "Current Game","Cost: Infinite Rp", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Cost%20Infinite%20Rp.lua")
 
 addscript(10079563592, "Current Game","Pirates Era X: Fruit Grabber", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pirates%20Era%20X%20Fruit%20Grabber.lua")
+
+addscriptexist(142823291, "Murder Mystery 2: Kill All, God mode, Auto FArm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Murder%20Mystery%20%20Kill%20All%20God%20mode%20Auto%20FArm.lua")
