@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 19:21:35"
+lastupdate = "GMT +1: 08.03.2023 19:21:40"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -12800,3 +12800,5 @@ addscriptexist(5956785391, "Project Slayers: Spam Dash Effect", "pulled from rbx
 addscriptexist(6741970382, "Zombie lab: Inf Ammo, Fire Rate, Get Minigun", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Zombie%20lab%20Inf%20Ammo%20Fire%20Rate%20Get%20Minigun.lua")
 
 addscriptuniversal("Universal Fly, Walkspeed", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Fly%20Walkspeed.lua")
+
+addscriptexist(2039118386, "Neighborhood war: Silent Aim", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Neighborhood%20war%20Silent%20Aim.lua")
