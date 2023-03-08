@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 18:10:00"
+lastupdate = "GMT +1: 08.03.2023 18:10:06"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -11248,3 +11248,5 @@ addscriptexist(7560156054, "Clicker Simulator: Auto Pickup Pumpkins", "pulled fr
 addscript(3198259055, "Current Game","Jailbreak: Infinity Jump, Fly & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Jailbreak%20Infinity%20Jump%20Fly%20%20More.lua")
 
 addscriptexist(10984838211, "Battlefield Tycoon: Freeze all NPC", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Battlefield%20Tycoon%20Freeze%20all%20NPC.lua")
+
+addscriptexist(6764302962, "Junk Simulator: Auto Farm, Auto Eggs, Auto Sell", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Junk%20Simulator%20Auto%20Farm%20Auto%20Eggs%20Auto%20Sell.lua")
