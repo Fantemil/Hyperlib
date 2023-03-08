@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 17:10:16"
+lastupdate = "GMT +1: 08.03.2023 17:10:19"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -9734,3 +9734,5 @@ addscriptexist(2622527242, "Scp Rbreach: Hitbox Expander, Infinite Capacity", "p
 addscriptexist(11187148979, "Ultra unFair: Auto Bossing, Auto Farm, Kill Aura", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ultra%20unFair%20Auto%20Bossing%20Auto%20Farm%20Kill%20Aura.lua")
 
 addscriptexist(2653064683, "Word Bomb: Aimbot, ESP, Keybinds", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Word%20Bomb%20Aimbot%20ESP%20Keybinds.lua")
+
+addscriptexist(6516141723, "DOORS: No Screech, Walkspeed & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DOORS%20No%20Screech%20Walkspeed%20%20More.lua")
