@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 07:15:09"
+lastupdate = "GMT +1: 08.03.2023 07:15:15"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -5768,3 +5768,5 @@ addscript(11195100561, "Current Game","RUNNING FROM THE INTERNET: No Cooldown, S
 addscript(6422372837, "Current Game","Snipers [BETA]: Silent Aim & Esp", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Snipers%20BETA%20Silent%20Aim%20%20Esp.lua")
 
 addscriptexist(11040063484, "Sword Fighters Simulator: Auto Dungeon & More!", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sword%20Fighters%20Simulator%20Auto%20Dungeon%20%20More.lua")
+
+addscriptexist(11040063484, "Sword Fighting Simulator: Auto Farm & More!", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sword%20Fighting%20Simulator%20Auto%20Farm%20%20More.lua")
