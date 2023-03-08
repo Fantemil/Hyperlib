@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 20:14:46"
+lastupdate = "GMT +1: 08.03.2023 20:14:51"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -13566,3 +13566,5 @@ addscriptexist(142823291, "Murder Mystery 2 | XRay, Chams Esp, AutoFarms", "pull
 addscriptexist(3177438863, "Dragon Blox | Auto Multiplier Zone, Auto Attack, Auto Rebirth", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Dragon%20Blox%20%20Auto%20Multiplier%20Zone%20Auto%20Attack%20Auto%20Rebirth.lua")
 
 addscriptexist(3177438863, "Dragon Blox | Auto Attack - Auto Rebirth", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Dragon%20Blox%20%20Auto%20Attack%20%20Auto%20Rebirth.lua")
+
+addscriptexist(10192063645, "Thy Hood | Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Thy%20Hood%20%20Auto%20Farm.lua")
