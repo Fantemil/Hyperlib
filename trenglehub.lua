@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 16:51:27"
+lastupdate = "GMT +1: 08.03.2023 16:51:32"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -9258,3 +9258,5 @@ addscriptexist(7525610732, "Kaizen: Auto Farm, No Fall Damage, No Dash Cooldown"
 addscriptexist(10224689615, "Money Clicker Simulator: Auto Click, Auto Rebirth, Teleports", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Money%20Clicker%20Simulator%20Auto%20Click%20Auto%20Rebirth%20Teleports.lua")
 
 addscriptexist(9285238704, "Race Clicker: Redeem all Codes, Auto Craft, Auto Rebirth", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Race%20Clicker%20Redeem%20all%20Codes%20Auto%20Craft%20Auto%20Rebirth.lua")
+
+addscript(328028363, "Current Game","Typical Colors 2: Godmode, Auto Farm, Silent aim", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Typical%20Colors%20%20Godmode%20Auto%20Farm%20Silent%20aim.lua")
