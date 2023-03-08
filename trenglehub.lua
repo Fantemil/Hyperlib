@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 12:45:45"
+lastupdate = "GMT +1: 08.03.2023 12:45:49"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -6568,3 +6568,5 @@ addscriptexist(11302865934, "Every Second You Get +1 Health: Auto Farm Rebirths"
 addscript(2506738224, "Current Game","Fallen: Anti Cheat Disabler", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Fallen%20Anti%20Cheat%20Disabler.lua")
 
 addscriptexist(8204899140, "Football Fusion 2: Throw Visualizer", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Football%20Fusion%20%20Throw%20Visualizer.lua")
+
+addscriptuniversal("Universal Fake Lag", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Fake%20Lag.lua")
