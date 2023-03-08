@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 21:19:18"
+lastupdate = "GMT +1: 08.03.2023 21:19:22"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -15008,3 +15008,5 @@ addscriptexist(2772610559, "Farming and Friends [Auto Farm]", "pulled from rbxsc
 addscriptexist(9183932460, "Untitled Hood [Silent aim, Fly]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Untitled%20Hood%20Silent%20aim%20Fly.lua")
 
 addscriptexist(9284097280, "Apartment Tycoon [Auto collect cash]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Apartment%20Tycoon%20Auto%20collect%20cash.lua")
+
+addscriptexist(9243187709, "Pedagondia Faunas [Kill Aura]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pedagondia%20Faunas%20Kill%20Aura.lua")
