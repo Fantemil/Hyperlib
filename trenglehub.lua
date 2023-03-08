@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 16:35:43"
+lastupdate = "GMT +1: 08.03.2023 16:35:48"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -8870,3 +8870,5 @@ addscriptexist(443406476, "Project Lazarus: Infinity Ammo, Insta Kill", "pulled 
 addscript(9183932460, "Current Game","Untitled Hood: Silent Aim", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Untitled%20Hood%20Silent%20Aim.lua")
 
 addscriptexist(9772878203, "Raise A Floppa 2: Auto Click Floppa, Auto Collect Cash & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Raise%20A%20Floppa%20%20Auto%20Click%20Floppa%20Auto%20Collect%20Cash%20%20More.lua")
+
+addscriptexist(5602055394, "Hood Modded: Press Q to Pink Hitboxes", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Hood%20Modded%20Press%20Q%20to%20Pink%20Hitboxes.lua")
