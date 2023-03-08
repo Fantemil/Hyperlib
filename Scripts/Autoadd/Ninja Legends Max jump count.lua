@@ -1,0 +1,1 @@
+game.Players.LocalPlayer.multiJumpCount.Value = 999999
