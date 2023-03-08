@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 19:51:55"
+lastupdate = "GMT +1: 08.03.2023 19:51:59"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -13234,3 +13234,5 @@ addscript(8302406789, "Current Game","Anime Lifting Simulator | Auto Buy Eggs, A
 addscript(961409234, "Current Game","Blood Moon Tycoon | Crash Server", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blood%20Moon%20Tycoon%20%20Crash%20Server.lua")
 
 addscriptexist(8737602449, "PLS DONATE | Auto ThankYou, Server Hop, AutoSpam", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PLS%20DONATE%20%20Auto%20ThankYou%20Server%20Hop%20AutoSpam.lua")
+
+addscriptexist(2753915549, "Blox Fruits | GUI - Auto Farm, Redeem All Codes & More!", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blox%20Fruits%20%20GUI%20%20Auto%20Farm%20Redeem%20All%20Codes%20%20More.lua")
