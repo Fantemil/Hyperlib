@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 20:53:57"
+lastupdate = "GMT +1: 08.03.2023 20:54:01"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -14570,3 +14570,5 @@ addscriptexist(9658251985, "The Rake Kill Test [-10 Kills]", "pulled from rbxscr
 addscriptexist(9658251985, "The Rake Kill Test [+10 kills]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/The%20Rake%20Kill%20Test%20%20kills.lua")
 
 addscriptexist(9658251985, "The Rake Kill Test [Inf Money]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/The%20Rake%20Kill%20Test%20Inf%20Money.lua")
+
+addscriptexist(8963721566, "The Backrooms - KV31 [Inf Stamina]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/The%20Backrooms%20%20KV%20Inf%20Stamina.lua")
