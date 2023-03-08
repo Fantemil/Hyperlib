@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 13:12:37"
+lastupdate = "GMT +1: 08.03.2023 13:12:43"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -7254,3 +7254,5 @@ addscriptexist(6679968919, "Fly Race: Auto Laps, Auto Orbs, Auto Rebirth", "pull
 addscriptexist(6447798030, "Funky Friday: Auto Collect Rings, Sonic Prime Event", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Funky%20Friday%20Auto%20Collect%20Rings%20Sonic%20Prime%20Event.lua")
 
 addscriptexist(9224601490, "Fruit Battlegrounds: Auto Farm V2", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Fruit%20Battlegrounds%20Auto%20Farm%20V.lua")
+
+addscript(6296721452, "Current Game","Greedy Snake Instantly: Eat All Food", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Greedy%20Snake%20Instantly%20Eat%20All%20Food.lua")
