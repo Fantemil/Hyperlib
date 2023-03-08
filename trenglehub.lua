@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 14:58:53"
+lastupdate = "GMT +1: 08.03.2023 14:58:57"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -8358,3 +8358,5 @@ addscriptexist(537413528, "Build A Boat For Treasure: Auto Farm, Auto Open Chest
 addscript(9680886326, "Current Game","West Elm Home Design: Give All Items", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/West%20Elm%20Home%20Design%20Give%20All%20Items.lua")
 
 addscriptexist(8927008367, "Kengun Online: Money Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Kengun%20Online%20Money%20Auto%20Farm.lua")
+
+addscriptexist(2986677229, "Giant Simulator: Auto Farm Orbs", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Giant%20Simulator%20Auto%20Farm%20Orbs.lua")
