@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 14:59:49"
+lastupdate = "GMT +1: 08.03.2023 14:59:53"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -8384,3 +8384,5 @@ addscriptexist(2768379856, "3008: base grieffer", "pulled from rbxscript.com", "
 addscriptexist(5956785391, "Project Slayers: Auto Farm, Auto Block, Kill Aura", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Project%20Slayers%20Auto%20Farm%20Auto%20Block%20Kill%20Aura.lua")
 
 addscriptexist(920587237, "Adopt Me: Neon Pets", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Adopt%20Me%20Neon%20Pets.lua")
+
+addscriptexist(4508456371, "Shortest Answer Wins: Auto Server Hop, Auto Reveal, Auto Say GG", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Shortest%20Answer%20Wins%20Auto%20Server%20Hop%20Auto%20Reveal%20Auto%20Say%20GG.lua")
