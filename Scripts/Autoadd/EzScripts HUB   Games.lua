@@ -1,0 +1,12 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/TurfuFrogy/EzScripts/main/loader.lua"))()
+
+--[[
+PLS DONATE
+REBIRTH CHAMPIONS X
+MURDER MYSTERY 2
+TAPPING LEGENDS X
+BUILD A BOAT FOR TREASURE
+PET SIMULATOR X (SOON)
+MOW THE LAWN SIMULATOR (SOON)
+MINING SIMULATOR (SOON)
+--]]
