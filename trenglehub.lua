@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 07:15:49"
+lastupdate = "GMT +1: 08.03.2023 07:15:53"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -5788,3 +5788,5 @@ addscriptexist(8884334497, "Mining Clicker Simulator: Auto Clicker, Auto Rebirth
 addscript(7177496972, "Current Game","Anime Warriors: Auto Farm, Better GFX", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime%20Warriors%20Auto%20Farm%20Better%20GFX.lua")
 
 addhub("Kingdom Hub: 5 Games", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Kingdom%20Hub%20%20Games.lua")
+
+addscriptexist(8130299583, "Trident Survival: Aimbot, Grab All & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Trident%20Survival%20Aimbot%20Grab%20All%20%20More.lua")
