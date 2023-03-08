@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 20:49:08"
+lastupdate = "GMT +1: 08.03.2023 20:49:12"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -14450,3 +14450,5 @@ addscriptexist(3738091713, "Boxing League [KillAura, Lock-on]", "pulled from rbx
 addscriptexist(2788229376, "Da Hood [Fly, SilentAim]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Da%20Hood%20Fly%20SilentAim.lua")
 
 addscriptexist(286090429, "Arsenal [God mode]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Arsenal%20God%20mode.lua")
+
+addscriptexist(6284583030, "Pet Simulator X [AutoFarm, AutoCollect]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pet%20Simulator%20X%20AutoFarm%20AutoCollect.lua")
