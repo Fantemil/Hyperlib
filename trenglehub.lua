@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 19:35:53"
+lastupdate = "GMT +1: 08.03.2023 19:35:59"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -13112,3 +13112,5 @@ addscript(4760217946, "Current Game","Limited Badges: Badge Collector", "pulled 
 addscriptexist(189707, "Natural Disaster Survival: Speed Changer, Gravity, Jumppower", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Natural%20Disaster%20Survival%20Speed%20Changer%20Gravity%20Jumppower.lua")
 
 addscriptexist(10631181587, "Stone Miner Simulator 2: Infinite Rebirth Tokens & Gems", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Stone%20Miner%20Simulator%20%20Infinite%20Rebirth%20Tokens%20%20Gems.lua")
+
+addscriptexist(2788229376, "Da Hood: Titan", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Da%20Hood%20Titan.lua")
