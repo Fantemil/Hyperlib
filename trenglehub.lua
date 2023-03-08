@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 17:21:44"
+lastupdate = "GMT +1: 08.03.2023 17:21:48"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -10030,3 +10030,5 @@ addscript(7184600262, "Current Game","Gridiron Football 2.0: Auto Catch, Auto Sn
 addhub("Unfair Hub: 40+ Games Supported", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Unfair%20Hub%20%20Games%20Supported.lua")
 
 addscriptexist(6516141723, "DOORS: Screech Every 15 Seconds, ESP, Player Mods", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DOORS%20Screech%20Every%20%20Seconds%20ESP%20Player%20Mods.lua")
+
+addscriptexist(9872472334, "Evade: Click TP, Teleports, Infinity Jump", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Evade%20Click%20TP%20Teleports%20Infinity%20Jump.lua")
