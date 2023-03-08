@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 15:04:42"
+lastupdate = "GMT +1: 08.03.2023 15:04:46"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -8512,3 +8512,5 @@ addscriptexist(3102144307, "Sword Fighters Simulator: Auto Tp To Mobs, Auto Atta
 addscriptexist(920587237, "Adopt Me: Pet Auto Farm, Walkspeed, Multi Buyer", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Adopt%20Me%20Pet%20Auto%20Farm%20Walkspeed%20Multi%20Buyer.lua")
 
 addscript(2901172949, "Current Game","In Plain Sight 2: Player ESP", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/In%20Plain%20Sight%20%20Player%20ESP.lua")
+
+addscriptexist(7714627632, "Winds of Fortune: Auto Farm, Kill all, Esp", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Winds%20of%20Fortune%20Auto%20Farm%20Kill%20all%20Esp.lua")
