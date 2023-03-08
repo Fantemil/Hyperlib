@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 18:33:31"
+lastupdate = "GMT +1: 08.03.2023 18:33:37"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -11786,3 +11786,5 @@ addscriptexist(9625096419, "Tapper Simulator: Auto Hatch, Auto Click, Equip Best
 addscriptexist(10205046075, "Onslaught Public Dev Server: Gun Mod & Annoy Server", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Onslaught%20Public%20Dev%20Server%20Gun%20Mod%20%20Annoy%20Server.lua")
 
 addscript(3082002798, "Current Game","T-Titans Battlegrounds: Insta Kill, Hitbox, Auto Spawn", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TTitans%20Battlegrounds%20Insta%20Kill%20Hitbox%20Auto%20Spawn.lua")
+
+addscriptexist(10260193230, "Meme Sea: Teleport To Spawned Fruit", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Meme%20Sea%20Teleport%20To%20Spawned%20Fruit.lua")
