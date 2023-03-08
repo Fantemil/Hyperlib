@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 20:20:42"
+lastupdate = "GMT +1: 08.03.2023 20:20:47"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -13722,3 +13722,5 @@ addscriptexist(9648883891, "Festival Tycoon | Inf Money, Auto Collect, Auto Purc
 addscript(6067244110, "Current Game","Flood Escape 2 Ultimate | Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Flood%20Escape%20%20Ultimate%20%20Auto%20Farm.lua")
 
 addscriptexist(10676523834, "Racing Rocket | AutoFarm, AutoReborn, AutoIteams", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Racing%20Rocket%20%20AutoFarm%20AutoReborn%20AutoIteams.lua")
+
+addscript(10647156264, "Current Game","Become a Nextbot | Teleports, Walkspeed, Get Rare Nextbots", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Become%20a%20Nextbot%20%20Teleports%20Walkspeed%20Get%20Rare%20Nextbots.lua")
