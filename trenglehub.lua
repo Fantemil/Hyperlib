@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 21:17:16"
+lastupdate = "GMT +1: 08.03.2023 21:17:20"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -14954,3 +14954,5 @@ addscriptexist(286090429, "Arsenal [SilentAim, KillAll]", "pulled from rbxscript
 addscriptexist(13822889, "Lumber Tycoon 2 [Walkspeed, AutoBuy]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Lumber%20Tycoon%20%20Walkspeed%20AutoBuy.lua")
 
 addscriptexist(391104146, "Let's Party∞ +Gear Testing Edition [Noclip,Fly]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Lets%20Party%20Gear%20Testing%20Edition%20NoclipFly.lua")
+
+addscriptexist(10184360875, "Pet&Fishing Simulator [Inf Money]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PetFishing%20Simulator%20Inf%20Money.lua")
