@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 18:37:15"
+lastupdate = "GMT +1: 08.03.2023 18:37:21"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -11862,3 +11862,5 @@ addscript(9789157089, "Current Game","Warrior Legends Simulator: Kill Aura Bypas
 addscriptexist(11105076407, "Swimming Race Clicker: Auto Win, Auto Rebirth, Auto Hatch", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Swimming%20Race%20Clicker%20Auto%20Win%20Auto%20Rebirth%20Auto%20Hatch.lua")
 
 addscriptexist(735030788, "RoyalIoween: Auto Farm Candy, Auto Farm Chests, Fountain GUI", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RoyalIoween%20Auto%20Farm%20Candy%20Auto%20Farm%20Chests%20Fountain%20GUI.lua")
+
+addscriptexist(2788229376, "Da Hood: Silent Aim, FOV, Aimbot", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Da%20Hood%20Silent%20Aim%20FOV%20Aimbot.lua")
