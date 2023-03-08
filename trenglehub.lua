@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 17:22:15"
+lastupdate = "GMT +1: 08.03.2023 17:22:19"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -10044,3 +10044,5 @@ addscriptexist(9848789324, "Ragdoll Engine: GUI omnilocuaHub", "pulled from rbxs
 addscript(10417027559, "Current Game","Vliccs Difficulty Chart Obby 2: Get All Nametags", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Vliccs%20Difficulty%20Chart%20Obby%20%20Get%20All%20Nametags.lua")
 
 addscriptuniversal("Universal Anti kick and AntiCheat", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Anti%20kick%20and%20AntiCheat.lua")
+
+addscriptexist(286090429, "Arsenal: Server Crasher", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Arsenal%20Server%20Crasher.lua")
