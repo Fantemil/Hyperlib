@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://raw.githubusercontent.com/centerepic/BordrGuiRepo/main/BORDRGUI.lua'))()
