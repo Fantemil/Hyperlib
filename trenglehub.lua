@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 17:25:12"
+lastupdate = "GMT +1: 08.03.2023 17:25:16"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -10120,3 +10120,5 @@ addscriptexist(10726371567, "Find The Simpsons: Find All Simpsons, Speed", "pull
 addscriptexist(8540346411, "Rebirth Champions X: Auto Collect Pumpkins, Auto Click & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Rebirth%20Champions%20X%20Auto%20Collect%20Pumpkins%20Auto%20Click%20%20More.lua")
 
 addscriptexist(11448052802, "Pet Rift: Auto Farm, Auto Egg", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pet%20Rift%20Auto%20Farm%20Auto%20Egg.lua")
+
+addscript(47324, "Current Game","Sword Fights on The Heights IV: Invisible, Force Field & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sword%20Fights%20on%20The%20Heights%20IV%20Invisible%20Force%20Field%20%20More.lua")
