@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 18:39:20"
+lastupdate = "GMT +1: 08.03.2023 18:39:26"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -11912,3 +11912,5 @@ addscriptexist(6403373529, "Slap Battles: Auto Farm AI", "pulled from rbxscript.
 addscriptexist(536102540, "DBZ Final Stand: Hides Your Level", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DBZ%20Final%20Stand%20Hides%20Your%20Level.lua")
 
 addscriptexist(10925589760, "Merge Simulator: Free Money", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Merge%20Simulator%20Free%20Money.lua")
+
+addscriptexist(6888253864, "Wacky Wizards: Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Wacky%20Wizards%20Auto%20Farm.lua")
