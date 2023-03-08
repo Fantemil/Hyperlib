@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 16:41:40"
+lastupdate = "GMT +1: 08.03.2023 16:41:47"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -9016,3 +9016,5 @@ addscriptuniversal("Universal ESP, Fly, Infinity Jumps", "pulled from rbxscript.
 addscriptuniversal("Universal Sound Spam Hax", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Sound%20Spam%20Hax.lua")
 
 addscriptexist(1962086868, "Tower of Hell: God mode, Tp player, Get all items", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tower%20of%20Hell%20God%20mode%20Tp%20player%20Get%20all%20items.lua")
+
+addscriptexist(9551640993, "Mining Simulator 2: Auto Mine, Auto Open Egg, Auto Throw", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mining%20Simulator%20%20Auto%20Mine%20Auto%20Open%20Egg%20Auto%20Throw.lua")
