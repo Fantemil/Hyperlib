@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 17:50:24"
+lastupdate = "GMT +1: 08.03.2023 17:50:28"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -10756,3 +10756,5 @@ addscript(9898710720, "Current Game","Money Tycoon: Walkspeed, Anti Afk, Auto Re
 addscriptexist(6875469709, "STRONGEST PUNCH SIMULATOR: Auto Farm, Auto Punch, Settings", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/STRONGEST%20PUNCH%20SIMULATOR%20Auto%20Farm%20Auto%20Punch%20Settings.lua")
 
 addscriptuniversal("Universal FE Chat Bot", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20FE%20Chat%20Bot.lua")
+
+addscriptexist(537413528, "Build A Boat For Treasure: Auto Farm, Neon Block, ToyBlock", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Build%20A%20Boat%20For%20Treasure%20Auto%20Farm%20Neon%20Block%20ToyBlock.lua")
