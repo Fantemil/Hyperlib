@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 15:17:29"
+lastupdate = "GMT +1: 08.03.2023 15:17:34"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -8854,3 +8854,5 @@ addscriptexist(10041108328, "Dark Life: God Mode", "pulled from rbxscript.com", 
 addscriptexist(10404327868, "Timber Champions: Reset Stats", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Timber%20Champions%20Reset%20Stats.lua")
 
 addhub("Phonk Hub: 3 Games", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Phonk%20Hub%20%20Games.lua")
+
+addscript(9324584537, "Current Game","The Island Reborn: Inf Money", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/The%20Island%20Reborn%20Inf%20Money.lua")
