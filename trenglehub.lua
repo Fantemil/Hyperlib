@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 19:02:33"
+lastupdate = "GMT +1: 08.03.2023 19:02:37"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -12386,3 +12386,5 @@ addscriptexist(10723695195, "Anime Evolution Simulator: Auto Attack Mob Teleport
 addscriptexist(9894044804, "Blade Simulator: Auto Sell, Auto Swing, Auto Eggs", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blade%20Simulator%20Auto%20Sell%20Auto%20Swing%20Auto%20Eggs.lua")
 
 addscriptexist(2653064683, "Word Bomb: Auto Join, Auto Type, Anti Kick", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Word%20Bomb%20Auto%20Join%20Auto%20Type%20Anti%20Kick.lua")
+
+addscriptexist(4282985734, "Combat Warriors: Walkspeed, KillAura, AutoParry", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Combat%20Warriors%20Walkspeed%20KillAura%20AutoParry.lua")
