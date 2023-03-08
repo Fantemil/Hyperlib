@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 20:00:07"
+lastupdate = "GMT +1: 08.03.2023 20:00:13"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -13406,3 +13406,5 @@ addscriptexist(6229116934, "Hoopz | Aimbot, Reach, Walkspeed", "pulled from rbxs
 addscriptexist(10192063645, "Thy hood | Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Thy%20hood%20%20Auto%20Farm.lua")
 
 addscript(2472820296, "Current Game","Ultimate Lifting Simulator | Get Strenght, AutoRebrith, Get Speed", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ultimate%20Lifting%20Simulator%20%20Get%20Strenght%20AutoRebrith%20Get%20Speed.lua")
+
+addscriptexist(7180042682, "Military Tycoon | AutoFarm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Military%20Tycoon%20%20AutoFarm.lua")
