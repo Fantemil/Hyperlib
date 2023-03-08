@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 18:58:20"
+lastupdate = "GMT +1: 08.03.2023 18:58:29"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -12292,3 +12292,5 @@ addscriptexist(9103460924, "Sword Factory X: Auto Plasma Chest Farm", "pulled fr
 addscriptexist(10903978962, "Sheep Tycoon: Auto Double Money", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sheep%20Tycoon%20Auto%20Double%20Money.lua")
 
 addscriptexist(663655429, "Pick A Side (Cracked): Hitbox, Auto Farm, No Jump Cooldown", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pick%20A%20Side%20Cracked%20Hitbox%20Auto%20Farm%20No%20Jump%20Cooldown.lua")
+
+addscriptexist(4787629450, "BOOGA BOOGA - Classic - Uncopylocked: Walkspeed, Jump Power, Infinity Jump", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BOOGA%20BOOGA%20%20Classic%20%20Uncopylocked%20Walkspeed%20Jump%20Power%20Infinity%20Jump.lua")
