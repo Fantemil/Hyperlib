@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 06:44:15"
+lastupdate = "GMT +1: 08.03.2023 06:44:18"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -4822,3 +4822,5 @@ addscriptexist(6728870912, "World Of Stands: Auto Farm, Player Farm, Chest Farm 
 addscriptuniversal("Universal Play Cookie Clicker In roblox", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Play%20Cookie%20Clicker%20In%20roblox.lua")
 
 addscriptexist(1537690962, "Bee Swarm Simulator: Auto Farm, Auto Buy & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Bee%20Swarm%20Simulator%20Auto%20Farm%20Auto%20Buy%20%20More.lua")
+
+addscriptexist(5602055394, "Hood Modded: Auto Toxic, Fake Macro, Aimlock", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Hood%20Modded%20Auto%20Toxic%20Fake%20Macro%20Aimlock.lua")
