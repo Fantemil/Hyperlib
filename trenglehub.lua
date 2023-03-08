@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 19:37:55"
+lastupdate = "GMT +1: 08.03.2023 19:38:00"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -13156,3 +13156,5 @@ addscript(28586816, "Current Game","Get Eaten: Auto Farm Points, Player Modifica
 addscriptuniversal("Universal: SilentAim, AimLock", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20SilentAim%20AimLock.lua")
 
 addscriptexist(6516141723, "DOORS: Walkspeed, FullBright, FOV", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DOORS%20Walkspeed%20FullBright%20FOV.lua")
+
+addscriptexist(9872472334, "Evade: Walkspeed, Jumppower, AutoFarm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Evade%20Walkspeed%20Jumppower%20AutoFarm.lua")
