@@ -2,7 +2,7 @@ local player = game.Players.LocalPlayer
 local mouse = player:GetMouse()
 bind = "e" -- has to be lowercase
 mouse.KeyDown:connect(function(key)
-if key == bind then do 
+if key == bind then do
 local plr = game:GetService("Players").LocalPlayer
 local mouse = plr:GetMouse()
 hrp = plr.Character.HumanoidRootPart
@@ -18,6 +18,6 @@ wait(3) clone:destroy()
 
 
 
-end 
+end
 end
 end)
