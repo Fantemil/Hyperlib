@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 17:11:32"
+lastupdate = "GMT +1: 08.03.2023 17:11:37"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -9768,3 +9768,5 @@ addscriptexist(5740246170, "Tower Simulator: Auto Click, Auto Join Plots", "pull
 addscriptexist(5602055394, "Hood Modded: Press Q to Lock Your Aim", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Hood%20Modded%20Press%20Q%20to%20Lock%20Your%20Aim.lua")
 
 addscriptexist(914010731, "Ro-Ghoul: uto Farm Boss, Auto Equip Weapon, Spam Skill", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RoGhoul%20uto%20Farm%20Boss%20Auto%20Equip%20Weapon%20Spam%20Skill.lua")
+
+addscriptexist(2753915549, "Blox Fruits: Auto Farm Chests, Auto Farm Level", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blox%20Fruits%20Auto%20Farm%20Chests%20Auto%20Farm%20Level.lua")
