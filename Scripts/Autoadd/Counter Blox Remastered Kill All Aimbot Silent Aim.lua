@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Te1amon/Reflex/main/loader.lua"))()
