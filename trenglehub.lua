@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 17:08:31"
+lastupdate = "GMT +1: 08.03.2023 17:08:34"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -9688,3 +9688,5 @@ addscriptexist(7991339063, "Rainbow Friends: Grab All Blocks", "pulled from rbxs
 addscriptexist(445664957, "Parkour: Auto Farm Points, No Cola Cooldown, Inf Glider Stamina", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Parkour%20Auto%20Farm%20Points%20No%20Cola%20Cooldown%20Inf%20Glider%20Stamina.lua")
 
 addscriptexist(9872472334, "Evade: Walkspeed, Fly, Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Evade%20Walkspeed%20Fly%20Auto%20Farm.lua")
+
+addscriptexist(10404327868, "Timber Champions: Auto Farm, Auto Buy Everything, Auto Hatch", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Timber%20Champions%20Auto%20Farm%20Auto%20Buy%20Everything%20Auto%20Hatch.lua")
