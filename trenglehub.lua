@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 18:29:22"
+lastupdate = "GMT +1: 08.03.2023 18:29:27"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -11722,3 +11722,5 @@ addscriptexist(286090429, "Arsenal: Infinity Jump, Silent Aim & More", "pulled f
 addscriptexist(621129760, "Knife Ability Test: Silent Aim, Godmode & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Knife%20Ability%20Test%20Silent%20Aim%20Godmode%20%20More.lua")
 
 addscriptexist(2474168535, "Westbound: Gun Mod, ESP, Infinity Jump", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Westbound%20Gun%20Mod%20ESP%20Infinity%20Jump.lua")
+
+addscriptexist(155615604, "Prison Life: Remove Walls, Team Changer & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Prison%20Life%20Remove%20Walls%20Team%20Changer%20%20More.lua")
