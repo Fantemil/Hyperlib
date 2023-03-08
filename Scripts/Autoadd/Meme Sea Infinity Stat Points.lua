@@ -1,0 +1,1 @@
+game:GetService("Players").LocalPlayer.PlayerGui.GameGui.Stats.Stats.SpendPoints:FireServer(game:GetService("Players").LocalPlayer.PlayerData.SwordLevel, "-999999999999999")
