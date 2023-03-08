@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 06:46:23"
+lastupdate = "GMT +1: 08.03.2023 06:46:26"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -4890,3 +4890,5 @@ addscriptexist(23578803, "Hotel Elephant: Infinity Money", "pulled from rbxscrip
 addscriptexist(2609668898, "Custom Duels: Classic: Auto Lagger", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Custom%20Duels%20Classic%20Auto%20Lagger.lua")
 
 addscriptexist(7070810903, "crying simulator: Press Z to Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/crying%20simulator%20Press%20Z%20to%20Auto%20Farm.lua")
+
+addscript(11629950047, "Current Game","ProTube Race Clicker: Subs Farm, Speed Farm, Auto Click", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ProTube%20Race%20Clicker%20Subs%20Farm%20Speed%20Farm%20Auto%20Click.lua")
