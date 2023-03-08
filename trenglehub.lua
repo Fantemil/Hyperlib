@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 17:53:32"
+lastupdate = "GMT +1: 08.03.2023 17:53:36"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -10832,3 +10832,5 @@ addscriptexist(10652184030, "Jump Clicker: Infinite Jumps, Taps", "pulled from r
 addscriptexist(9872472334, "Evade: Auto Farm Xp/Money, Bot Esp & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Evade%20Auto%20Farm%20XpMoney%20Bot%20Esp%20%20More.lua")
 
 addscriptexist(8737602449, "PLS DONATE: Steal Booth Text GUI", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PLS%20DONATE%20Steal%20Booth%20Text%20GUI.lua")
+
+addscriptexist(2727067538, "World // Zero: Dodge 1 Shot Event Boss Mechanics", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/World%20%20Zero%20Dodge%20%20Shot%20Event%20Boss%20Mechanics.lua")
