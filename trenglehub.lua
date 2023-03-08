@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 14:42:39"
+lastupdate = "GMT +1: 08.03.2023 14:42:43"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -7922,3 +7922,5 @@ addscriptexist(662417684, "LUCKY BLOCKS Battlegrounds: Walkspeed, Jumppower, Ope
 addscript(6494429951, "Current Game","Hoop Session: Press X to Silent Aimbot", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Hoop%20Session%20Press%20X%20to%20Silent%20Aimbot.lua")
 
 addscriptexist(141084271, "Rise of the Dead: Heal Player, Zombie ESP, Godmode", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Rise%20of%20the%20Dead%20Heal%20Player%20Zombie%20ESP%20Godmode.lua")
+
+addscriptexist(8737602449, "PLS DONATE: Booth AI", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PLS%20DONATE%20Booth%20AI.lua")
