@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 17:31:00"
+lastupdate = "GMT +1: 08.03.2023 17:31:04"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -10272,3 +10272,5 @@ addscriptexist(286090429, "Arsenal: Anti Aim, Kill All, AimBot", "pulled from rb
 addhub("Absolutionsm Hub: 7 Games", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Absolutionsm%20Hub%20%20Games.lua")
 
 addscriptexist(2788229376, "Da Hood: Aim Lock, Silent Aim, Infinity Jump", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Da%20Hood%20Aim%20Lock%20Silent%20Aim%20Infinity%20Jump.lua")
+
+addscriptexist(6516141723, "DOORS: Press H to Spawn Screech", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DOORS%20Press%20H%20to%20Spawn%20Screech.lua")
