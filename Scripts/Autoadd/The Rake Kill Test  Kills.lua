@@ -1,1 +1,1 @@
-game:GetService("ReplicatedStorage").AdminPanelEvents.MinusTenSurvivals:FireServer("username")
+game:GetService("ReplicatedStorage").AdminPanelEvents.TenSurvivals:FireServer("username")
