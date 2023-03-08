@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 16:57:49"
+lastupdate = "GMT +1: 08.03.2023 16:57:56"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -9420,3 +9420,5 @@ addhub("Universal XYZ Gui", "pulled from rbxscript.com", "https://raw.githubuser
 addscript(11313908433, "Current Game","Button Infinity: Auto Farm, Free Private Server Game", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Button%20Infinity%20Auto%20Farm%20Free%20Private%20Server%20Game.lua")
 
 addscriptexist(2788229376, "Da Hood: Fly, Anti Lock & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Da%20Hood%20Fly%20Anti%20Lock%20%20More.lua")
+
+addscriptexist(6913960180, "Undertale Crazy Multiverse Timeline: Core Giver, Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Undertale%20Crazy%20Multiverse%20Timeline%20Core%20Giver%20Auto%20Farm.lua")
