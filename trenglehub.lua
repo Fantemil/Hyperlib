@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 15:12:11"
+lastupdate = "GMT +1: 08.03.2023 15:12:15"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -8710,3 +8710,5 @@ addscriptexist(606849621, "Jailbreak: Infinity Nitro, No Ragdoll & More", "pulle
 addscriptexist(270499015, "Sandhurst Military Academy: Spam shoot", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sandhurst%20Military%20Academy%20Spam%20shoot.lua")
 
 addscriptexist(8927008367, "Kengun Online: Auto Pushup, Auto Squat, Auto Situp", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Kengun%20Online%20Auto%20Pushup%20Auto%20Squat%20Auto%20Situp.lua")
+
+addscriptexist(9414511685, "Drive Cars Down A Hill: Money Auto Farm, Server Lagger", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Drive%20Cars%20Down%20A%20Hill%20Money%20Auto%20Farm%20Server%20Lagger.lua")
