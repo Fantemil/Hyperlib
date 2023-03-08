@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 12:34:45"
+lastupdate = "GMT +1: 08.03.2023 12:34:49"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -6260,3 +6260,5 @@ addscriptexist(537413528, "Build A Boat For Treasure: Auto Farm, Water God Mode,
 addscriptexist(9601565001, "Car Crash System: Crash Server", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Car%20Crash%20System%20Crash%20Server.lua")
 
 addscript(7182546997, "Current Game","Attack On Titan Vengeance: Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Attack%20On%20Titan%20Vengeance%20Auto%20Farm.lua")
+
+addscriptexist(2534724415, "Emergency Response Liberty County: Full Anti Cheat Bypass - Gun Mods & More!", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Emergency%20Response%20Liberty%20County%20Full%20Anti%20Cheat%20Bypass%20%20Gun%20Mods%20%20More.lua")
