@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 06:53:26"
+lastupdate = "GMT +1: 08.03.2023 06:53:30"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -5106,3 +5106,5 @@ addscriptexist(3351674303, "Driving Empire: Auto Race, Alt Farming, Auto Farm", 
 addscriptexist(10446125875, "Anime Fruit Simulator: Auto Attack, Auto Skills, Auto Farm Bosses", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime%20Fruit%20Simulator%20Auto%20Attack%20Auto%20Skills%20Auto%20Farm%20Bosses.lua")
 
 addscriptexist(9872472334, "Evade: Auto Farm Gifts", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Evade%20Auto%20Farm%20Gifts.lua")
+
+addscriptexist(8908228901, "Sharkbite 2: Safe Auto Farm, Gun Mods, ESP", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sharkbite%20%20Safe%20Auto%20Farm%20Gun%20Mods%20ESP.lua")
