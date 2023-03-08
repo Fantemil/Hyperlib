@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 19:36:47"
+lastupdate = "GMT +1: 08.03.2023 19:36:51"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -13132,3 +13132,5 @@ addscriptexist(7991339063, "Rainbow Friends: Return Items, Fullbright, Player Mo
 addscriptexist(9662949425, "Punch a brick wall simulator: AutoSell, AutoFarm, Auto Buy Rebriths", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Punch%20a%20brick%20wall%20simulator%20AutoSell%20AutoFarm%20Auto%20Buy%20Rebriths.lua")
 
 addscript(8203181639, "Current Game","Syrian Shenanigans: Fast Firerate", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Syrian%20Shenanigans%20Fast%20Firerate.lua")
+
+addscriptuniversal("Universal Tells a lot about you", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Tells%20a%20lot%20about%20you.lua")
