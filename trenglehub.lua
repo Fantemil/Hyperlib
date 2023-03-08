@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 19:58:32"
+lastupdate = "GMT +1: 08.03.2023 19:58:37"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -13372,3 +13372,5 @@ addscriptexist(1962086868, "Tower Of Hell | Get All Gears [NOT FE]", "pulled fro
 addscriptexist(2788229376, "Da Hood | Aimlock, Target Aimbot, Anti Aim", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Da%20Hood%20%20Aimlock%20Target%20Aimbot%20Anti%20Aim.lua")
 
 addscriptexist(10108131074, "Mow The Lawn! | Auto Refil Gas, Auto Mow, Auto Hatch Eggs.", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mow%20The%20Lawn%20%20Auto%20Refil%20Gas%20Auto%20Mow%20Auto%20Hatch%20Eggs.lua")
+
+addscriptexist(10676523834, "Racing Rocket | Auto Click Power, Auto Hatch, Auto Upgrade Rocket", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Racing%20Rocket%20%20Auto%20Click%20Power%20Auto%20Hatch%20Auto%20Upgrade%20Rocket.lua")
