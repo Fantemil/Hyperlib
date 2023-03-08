@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 06:25:31"
+lastupdate = "GMT +1: 08.03.2023 06:25:34"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -4582,3 +4582,5 @@ addhub("FRV Hub V2: 20+ Games", "pulled from rbxscript.com", "https://raw.github
 addhub("Universal: Teleports, Walkspeed, Kick Player", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Teleports%20Walkspeed%20Kick%20Player.lua")
 
 addscript(10931513550, "Current Game","A One Piece Devil Fruit: Auto Spin", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/A%20One%20Piece%20Devil%20Fruit%20Auto%20Spin.lua")
+
+addscriptuniversal("Universal Anti Http Spy + Anti Remote Spy", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Anti%20Http%20Spy%20%20Anti%20Remote%20Spy.lua")
