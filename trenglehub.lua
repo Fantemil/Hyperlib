@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 19:19:11"
+lastupdate = "GMT +1: 08.03.2023 19:19:15"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -12746,3 +12746,5 @@ addscriptexist(9872472334, "Evade: Money Fark, Afk Farm", "pulled from rbxscript
 addscriptexist(6441847031, "CHAOS: Unlock All Gamepass, Dupe Weapons, Walkspeed", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CHAOS%20Unlock%20All%20Gamepass%20Dupe%20Weapons%20Walkspeed.lua")
 
 addscript(7140186081, "Current Game","GunGame: Forcefield", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/GunGame%20Forcefield.lua")
+
+addscriptexist(10085978574, "My Little Pony: Visit Maretime Bay: Get Mascot Shoulder instantly", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/My%20Little%20Pony%20Visit%20Maretime%20Bay%20Get%20Mascot%20Shoulder%20instantly.lua")
