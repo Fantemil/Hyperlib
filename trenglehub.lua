@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 20:02:13"
+lastupdate = "GMT +1: 08.03.2023 20:02:23"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -13448,3 +13448,5 @@ addscriptexist(7169897329, "Nanny | Redeem Codes, Inf Stamina, Buy Any Item", "p
 addscriptexist(3411100258, "prtty much evry bordr gam evr | Autofarm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/prtty%20much%20evry%20bordr%20gam%20evr%20%20Autofarm.lua")
 
 addscriptexist(7991339063, "Rainbow Friends | AutoWin", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Rainbow%20Friends%20%20AutoWin.lua")
+
+addscriptexist(10192063645, "Thy Hood | Get Excalibur Sword", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Thy%20Hood%20%20Get%20Excalibur%20Sword.lua")
