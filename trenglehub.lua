@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 18:37:21"
+lastupdate = "GMT +1: 08.03.2023 18:37:25"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -11864,3 +11864,5 @@ addscriptexist(11105076407, "Swimming Race Clicker: Auto Win, Auto Rebirth, Auto
 addscriptexist(735030788, "RoyalIoween: Auto Farm Candy, Auto Farm Chests, Fountain GUI", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RoyalIoween%20Auto%20Farm%20Candy%20Auto%20Farm%20Chests%20Fountain%20GUI.lua")
 
 addscriptexist(2788229376, "Da Hood: Silent Aim, FOV, Aimbot", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Da%20Hood%20Silent%20Aim%20FOV%20Aimbot.lua")
+
+addscript(8360240897, "Current Game","World of Trollge: Auto Farm, Auto Craft, Teleports", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/World%20of%20Trollge%20Auto%20Farm%20Auto%20Craft%20Teleports.lua")
