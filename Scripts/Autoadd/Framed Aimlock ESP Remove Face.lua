@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://raw.githubusercontent.com/centerepic/Framed-GUI/main/Framed%20GUI.lua'))()
