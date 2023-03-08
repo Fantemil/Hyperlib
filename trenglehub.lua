@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 06:55:46"
+lastupdate = "GMT +1: 08.03.2023 06:55:52"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -5178,3 +5178,5 @@ addscriptexist(9551640993, "Mining Simulator 2: Auto Mine, Auto Rebirth & More",
 addscriptexist(189707, "Natural Disaster Survival: Teleports, Anti Fall Damage, Game Info Display", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Natural%20Disaster%20Survival%20Teleports%20Anti%20Fall%20Damage%20Game%20Info%20Display.lua")
 
 addscriptexist(6137321701, "Blair: Nightvision", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blair%20Nightvision.lua")
+
+addscriptexist(2210085102, "Naval Warfare: Teleport, God Mode, Inf Ammo", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Naval%20Warfare%20Teleport%20God%20Mode%20Inf%20Ammo.lua")
