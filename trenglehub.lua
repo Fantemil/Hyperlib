@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 14:43:03"
+lastupdate = "GMT +1: 08.03.2023 14:43:07"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -7932,3 +7932,5 @@ addscriptexist(2474168535, "Westbound: Auto Farm, Aim Bot, Esp", "pulled from rb
 addscriptexist(11382413635, "Human Cannon: Kpen Egg, Vip Zone, 5 rebirths", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Human%20Cannon%20Kpen%20Egg%20Vip%20Zone%20%20rebirths.lua")
 
 addscriptexist(2768379856, "3008: Be An Asshole, Base Grieffer", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/%20Be%20An%20Asshole%20Base%20Grieffer.lua")
+
+addscriptexist(155615604, "Prison Life: Amin Cmd, WalkSpeed, Weapon", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Prison%20Life%20Amin%20Cmd%20WalkSpeed%20Weapon.lua")
