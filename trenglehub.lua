@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 18:11:57"
+lastupdate = "GMT +1: 08.03.2023 18:12:01"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -11294,3 +11294,5 @@ addhub("Ophelia Hub: 8 Games", "pulled from rbxscript.com", "https://raw.githubu
 addscriptexist(3840352284, "Volleyball 4.2: Infinity Stamina", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Volleyball%20%20Infinity%20Stamina.lua")
 
 addscript(8929050629, "Current Game","Mos Academy: Free Items", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mos%20Academy%20Free%20Items.lua")
+
+addscriptexist(8069117419, "Demon Soul Simulator: Auto Farm, Auto Collect Orbs, Auto Boss", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Demon%20Soul%20Simulator%20Auto%20Farm%20Auto%20Collect%20Orbs%20Auto%20Boss.lua")
