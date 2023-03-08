@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 20:34:33"
+lastupdate = "GMT +1: 08.03.2023 20:34:39"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -14086,3 +14086,5 @@ addscriptexist(8328351891, "Mega Mansion Tycoon [Auto Buy, Auto Collect, Money M
 addscriptexist(286090429, "Arsenal [Kill All, Silent Aim, Esp]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Arsenal%20Kill%20All%20Silent%20Aim%20Esp.lua")
 
 addscriptuniversal("Roblox Universal Script [AntiTP Bypass]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Roblox%20Universal%20Script%20AntiTP%20Bypass.lua")
+
+addscriptuniversal("Roblox Universal Script [Name Esp]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Roblox%20Universal%20Script%20Name%20Esp.lua")
