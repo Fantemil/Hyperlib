@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 20:21:41"
+lastupdate = "GMT +1: 08.03.2023 20:21:46"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -13748,3 +13748,5 @@ addscript(10558210932, "Current Game","The Test | Win Minigame, Person To Kill, 
 addscriptexist(9551640993, "Mining Simulator 2 | AutoMine, AutoEggs, Smart Sell", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mining%20Simulator%20%20%20AutoMine%20AutoEggs%20Smart%20Sell.lua")
 
 addscriptexist(8884433153, "Collect All Pets! | AutoEggs, AutoFarm, AutoCollect", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Collect%20All%20Pets%20%20AutoEggs%20AutoFarm%20AutoCollect.lua")
+
+addscriptexist(286090429, "Arsenal | Instant Respawn", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Arsenal%20%20Instant%20Respawn.lua")
