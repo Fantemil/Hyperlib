@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 18:58:34"
+lastupdate = "GMT +1: 08.03.2023 18:58:38"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -12296,3 +12296,5 @@ addscriptexist(663655429, "Pick A Side (Cracked): Hitbox, Auto Farm, No Jump Coo
 addscriptexist(4787629450, "BOOGA BOOGA - Classic - Uncopylocked: Walkspeed, Jump Power, Infinity Jump", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BOOGA%20BOOGA%20%20Classic%20%20Uncopylocked%20Walkspeed%20Jump%20Power%20Infinity%20Jump.lua")
 
 addscriptexist(7026828578, "Speed Simulator: Infinite Rebirths", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Speed%20Simulator%20Infinite%20Rebirths.lua")
+
+addscriptexist(2753915549, "Blox Fruits: Teleports, Auto Stats & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blox%20Fruits%20Teleports%20Auto%20Stats%20%20More.lua")
