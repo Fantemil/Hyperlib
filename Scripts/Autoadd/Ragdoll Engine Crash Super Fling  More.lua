@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/killersess/frise_x/main/load.lua", true))()
