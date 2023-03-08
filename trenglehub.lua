@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 16:51:03"
+lastupdate = "GMT +1: 08.03.2023 16:51:09"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -9248,3 +9248,5 @@ addscriptexist(10919241870, "Rarity Factory Tycoon: Auto Farm, Auto Buy, Auto Ob
 addscriptexist(5791762440, "Sonic.exe survival: Press E to Fly", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sonicexe%20survival%20Press%20E%20to%20Fly.lua")
 
 addscriptuniversal("Universal Shift Lock", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Shift%20Lock.lua")
+
+addscriptuniversal("Osmium Library", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Osmium%20Library.lua")
