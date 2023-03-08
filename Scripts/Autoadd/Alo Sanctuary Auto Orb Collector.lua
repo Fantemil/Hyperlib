@@ -1,4 +1,5 @@
 local orb = game.Workspace.Map.OrangeOrbs
+
 while true do
 for i,v in pairs (orb:GetChildren()) do
   if v:IsA("Model") then
