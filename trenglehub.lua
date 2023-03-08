@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 18:46:01"
+lastupdate = "GMT +1: 08.03.2023 18:46:08"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -12024,3 +12024,5 @@ addscriptexist(10758111998, "Booga Booga [REBORN]: Kill Aura, Auto Heal, Auto Fa
 addscriptexist(9097655905, "Genie Fight Simulator: Infinite Gold, Mass Open Egg & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Genie%20Fight%20Simulator%20Infinite%20Gold%20Mass%20Open%20Egg%20%20More.lua")
 
 addscript(8046196743, "Current Game","La Kantina Vibe: Server Crasher", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/La%20Kantina%20Vibe%20Server%20Crasher.lua")
+
+addscriptexist(6403549175, "Plane Shooter: Infinite Gems, God Mode, Auto Kill & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Plane%20Shooter%20Infinite%20Gems%20God%20Mode%20Auto%20Kill%20%20More.lua")
