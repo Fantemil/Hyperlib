@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 06:49:19"
+lastupdate = "GMT +1: 08.03.2023 06:49:23"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -4982,3 +4982,5 @@ addscriptexist(370731277, "MeepCity: Auto Farm Fishes, Silent Aim Fishing, Avata
 addscriptexist(6284583030, "Pet Simulator X: Cheat farm, Area farm, Mastery farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pet%20Simulator%20X%20Cheat%20farm%20Area%20farm%20Mastery%20farm.lua")
 
 addscriptexist(920587237, "Adopt Me: Data rollback, Dupe", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Adopt%20Me%20Data%20rollback%20Dupe.lua")
+
+addscript(11495558803, "Current Game","Every Second You Get +1 Damage: NPC Farm, Auto Rebirth", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Every%20Second%20You%20Get%20%20Damage%20NPC%20Farm%20Auto%20Rebirth.lua")
