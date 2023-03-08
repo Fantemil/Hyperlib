@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 12:24:43"
+lastupdate = "GMT +1: 08.03.2023 12:24:47"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -5990,3 +5990,5 @@ addscriptexist(10404327868, "Timber Champions: Infinite Hatch Speed, Auto Farm, 
 addscriptexist(10726371567, "Find The Simpsons: Collect All Simpsons, Walkspeed & Jumppower Sliders", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Find%20The%20Simpsons%20Collect%20All%20Simpsons%20Walkspeed%20%20Jumppower%20Sliders.lua")
 
 addscriptexist(71315343, "Dragon Ball Rage: Play Music, BLTime, Options", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Dragon%20Ball%20Rage%20Play%20Music%20BLTime%20Options.lua")
+
+addscriptexist(1252559098, "Snow Shoveling Simulator: Unlock Cave, No Cooldown & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Snow%20Shoveling%20Simulator%20Unlock%20Cave%20No%20Cooldown%20%20More.lua")
