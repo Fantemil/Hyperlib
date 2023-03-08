@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 18:10:49"
+lastupdate = "GMT +1: 08.03.2023 18:10:54"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -11268,3 +11268,5 @@ addscriptexist(10681346822, "Roblox But Every Second You Get +1 Jump Power: Auto
 addscriptuniversal("Universal: ESP, Walkspeed, Walk On Walls", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20ESP%20Walkspeed%20Walk%20On%20Walls.lua")
 
 addscriptexist(8908228901, "SharkBite 2: Kill All", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SharkBite%20%20Kill%20All.lua")
+
+addscriptexist(10889408214, "DEFLECT: Auto Hit", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DEFLECT%20Auto%20Hit.lua")
