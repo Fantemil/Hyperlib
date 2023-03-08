@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 12:53:18"
+lastupdate = "GMT +1: 08.03.2023 12:53:23"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -6754,3 +6754,5 @@ addscriptexist(11495830780, "Dunking Simulator: Auto Farm", "pulled from rbxscri
 addscriptexist(10404327868, "Timber Champions: Auto Farm, Craft All Pets, Auto Buy Eggs", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Timber%20Champions%20Auto%20Farm%20Craft%20All%20Pets%20Auto%20Buy%20Eggs.lua")
 
 addscriptexist(10030740606, "Sweets obby! Auto Complete, Remove Kill Bricks, Remove Stairs", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sweets%20obby%20Auto%20Complete%20Remove%20Kill%20Bricks%20Remove%20Stairs.lua")
+
+addscript(11459646568, "Current Game","How Far Can You Backflip? Infinity Studs, Infinity Coins", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/How%20Far%20Can%20You%20Backflip%20Infinity%20Studs%20Infinity%20Coins.lua")
