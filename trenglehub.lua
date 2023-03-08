@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 07:09:27"
+lastupdate = "GMT +1: 08.03.2023 07:09:30"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -5596,3 +5596,5 @@ addscriptexist(11187148979, "Ultra unFair: Kill Aura", "pulled from rbxscript.co
 addscript(4623386862, "Current Game","Piggy: FOV, Infinity Jumps, Auto Voting", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Piggy%20FOV%20Infinity%20Jumps%20Auto%20Voting.lua")
 
 addhub("Core Hub: 10+ Games", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Core%20Hub%20%20Games.lua")
+
+addscript(277751860, "Current Game","Epic Minigames: Click TP, Infinity Jumps, Always Playing", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Epic%20Minigames%20Click%20TP%20Infinity%20Jumps%20Always%20Playing.lua")
