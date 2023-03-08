@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 13:20:17"
+lastupdate = "GMT +1: 08.03.2023 13:20:21"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -7452,3 +7452,5 @@ addscriptexist(6607361476, "Shopping Wars: Tp to Cart, Tp to escape, Pick Up Ful
 addscriptexist(10028173768, "Queen Elizebeth Obby: All GamePasses", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Queen%20Elizebeth%20Obby%20All%20GamePasses.lua")
 
 addscriptexist(4787647409, "Blacksite Zeta: No recoil, Inf Ammo, No Spread", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blacksite%20Zeta%20No%20recoil%20Inf%20Ammo%20No%20Spread.lua")
+
+addscriptexist(155615604, "Prison life: Invisible Gu, Get All guns, Remove All Doors", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Prison%20life%20Invisible%20Gu%20Get%20All%20guns%20Remove%20All%20Doors.lua")
