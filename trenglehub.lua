@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 18:04:33"
+lastupdate = "GMT +1: 08.03.2023 18:04:39"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -11114,3 +11114,5 @@ addscriptuniversal("Universal Virus Script", "pulled from rbxscript.com", "https
 addscriptexist(8884433153, "Collect All Pets: Auto Farm, Auto Claim Quest Reward, Auto Collect", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Collect%20All%20Pets%20Auto%20Farm%20Auto%20Claim%20Quest%20Reward%20Auto%20Collect.lua")
 
 addscriptexist(1962086868, "Tower Of Hell: Remove Anti Cheat, Teleport to End, Give All Items", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tower%20Of%20Hell%20Remove%20Anti%20Cheat%20Teleport%20to%20End%20Give%20All%20Items.lua")
+
+addscriptexist(286090429, "Arsenal: ESP, Aimbot, Auto Open Cases", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Arsenal%20ESP%20Aimbot%20Auto%20Open%20Cases.lua")
