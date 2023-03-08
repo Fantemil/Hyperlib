@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 18:21:00"
+lastupdate = "GMT +1: 08.03.2023 18:21:04"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -11516,3 +11516,5 @@ addscript(10079563592, "Current Game","Pirates Era X: Fruit Grabber", "pulled fr
 addscriptexist(142823291, "Murder Mystery 2: Kill All, God mode, Auto FArm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Murder%20Mystery%20%20Kill%20All%20God%20mode%20Auto%20FArm.lua")
 
 addscriptexist(10758111998, "Booga Booga: Pumpkin ESP", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Booga%20Booga%20Pumpkin%20ESP.lua")
+
+addscriptexist(11189979930, "Pet Crafting Simulator: Auto Farm, Auto Merge, Auto Buy", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pet%20Crafting%20Simulator%20Auto%20Farm%20Auto%20Merge%20Auto%20Buy.lua")
