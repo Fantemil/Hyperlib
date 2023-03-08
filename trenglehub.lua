@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 20:29:20"
+lastupdate = "GMT +1: 08.03.2023 20:29:24"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -13952,3 +13952,5 @@ addscriptexist(4809447488, "Venture Tale [AutoRetry, AutoReplay]", "pulled from 
 addscriptexist(10676523834, "Racing Rocket [Farm Points]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Racing%20Rocket%20Farm%20Points.lua")
 
 addscriptexist(10676523834, "Racing Rocket [Auto buy Egg]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Racing%20Rocket%20Auto%20buy%20Egg.lua")
+
+addscript(3017870574, "Current Game","2 Player Evolution Tycoon [Auto Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/%20Player%20Evolution%20Tycoon%20Auto%20Farm.lua")
