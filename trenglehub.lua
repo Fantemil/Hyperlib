@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 20:50:11"
+lastupdate = "GMT +1: 08.03.2023 20:50:16"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -14478,3 +14478,5 @@ addscriptexist(370731277, "MeepCity [Go Kart, Zzz animation]", "pulled from rbxs
 addscriptexist(5872075530, "Anarchy [Esp, Hitboxes]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anarchy%20Esp%20Hitboxes.lua")
 
 addhub("Wheat Hub [Games 41]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Wheat%20Hub%20Games%20.lua")
+
+addscriptexist(2788229376, "Da Hood [SilentAim]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Da%20Hood%20SilentAim.lua")
