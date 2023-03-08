@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 17:13:06"
+lastupdate = "GMT +1: 08.03.2023 17:13:10"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -9808,3 +9808,5 @@ addscriptexist(606849621, "Jailbreak: Instant Teleport To Museum", "pulled from 
 addscriptexist(606849621, "Jailbreak: Instant Teleport To Tomb", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Jailbreak%20Instant%20Teleport%20To%20Tomb.lua")
 
 addscriptexist(606849621, "Jailbreak: Gun Mods, Silent Aim & More!", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Jailbreak%20Gun%20Mods%20Silent%20Aim%20%20More.lua")
+
+addscriptexist(183364845, "Speed Run 4: Teleporter", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Speed%20Run%20%20Teleporter.lua")
