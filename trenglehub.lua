@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 12:45:49"
+lastupdate = "GMT +1: 08.03.2023 12:45:53"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -6570,3 +6570,5 @@ addscript(2506738224, "Current Game","Fallen: Anti Cheat Disabler", "pulled from
 addscriptexist(8204899140, "Football Fusion 2: Throw Visualizer", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Football%20Fusion%20%20Throw%20Visualizer.lua")
 
 addscriptuniversal("Universal Fake Lag", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Fake%20Lag.lua")
+
+addscriptexist(7239319209, "Ohio: Kill Aura, Stomp Aura, Teleport To Vault", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ohio%20Kill%20Aura%20Stomp%20Aura%20Teleport%20To%20Vault.lua")
