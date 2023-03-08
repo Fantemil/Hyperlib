@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 18:31:23"
+lastupdate = "GMT +1: 08.03.2023 18:31:29"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -11764,3 +11764,5 @@ addscriptexist(2788229376, "Da Hood: Super Sword Giver", "pulled from rbxscript.
 addscriptexist(10912060909, "Black Adam Experience: Teleport To Dr Fate Helmet", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Black%20Adam%20Experience%20Teleport%20To%20Dr%20Fate%20Helmet.lua")
 
 addscript(5150267415, "Current Game","steal a bank to get some beans: Finish The Game", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/steal%20a%20bank%20to%20get%20some%20beans%20Finish%20The%20Game.lua")
+
+addscript(1046190774, "Current Game","Halloween Night: Knock on Random Door, Collect all Candy, Teleport to Sell Area", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Halloween%20Night%20Knock%20on%20Random%20Door%20Collect%20all%20Candy%20Teleport%20to%20Sell%20Area.lua")
