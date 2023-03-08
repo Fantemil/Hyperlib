@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 13:08:55"
+lastupdate = "GMT +1: 08.03.2023 13:08:59"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -7158,3 +7158,5 @@ addscriptexist(2753915549, "Blox Fruits: Auto Farm, Auto Confetti, Auto Chests",
 addscriptuniversal("Universal Press V to toggle voice chat", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Press%20V%20to%20toggle%20voice%20chat.lua")
 
 addscript(6712992897, "Current Game","CRAZY: Get Unobtainable Weapons", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CRAZY%20Get%20Unobtainable%20Weapons.lua")
+
+addscript(5791762440, "Current Game","Sonic.exe survival: Immortal Mod", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sonicexe%20survival%20Immortal%20Mod.lua")
