@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 15:16:58"
+lastupdate = "GMT +1: 08.03.2023 15:17:02"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -8842,3 +8842,5 @@ addscriptexist(4991214437, "town: Copy Plot", "pulled from rbxscript.com", "http
 addscriptexist(5956785391, "Project Slayers: Inf Breath, Auto Farm, Teleports", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Project%20Slayers%20Inf%20Breath%20Auto%20Farm%20Teleports.lua")
 
 addhub("Pacifist Hub: 5+ Games", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pacifist%20Hub%20%20Games.lua")
+
+addscriptexist(3686253681, "Planet Simulator: Auto Farm, Auto Popup Clicker, Auto Rebirth", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Planet%20Simulator%20Auto%20Farm%20Auto%20Popup%20Clicker%20Auto%20Rebirth.lua")
