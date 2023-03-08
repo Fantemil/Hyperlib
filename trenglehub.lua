@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 20:44:12"
+lastupdate = "GMT +1: 08.03.2023 20:44:17"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -14332,3 +14332,5 @@ addscriptexist(1240644540, "Vampire Hunters 3 [Spam Screen Text]", "pulled from 
 addscriptexist(10001513103, "Limited Words [Annoy Mods, Waste Words, Get Joseph Badge]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Limited%20Words%20Annoy%20Mods%20Waste%20Words%20Get%20Joseph%20Badge.lua")
 
 addscriptuniversal("Roblox Universal Script [AK-47 Gun, Not FE]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Roblox%20Universal%20Script%20AK%20Gun%20Not%20FE.lua")
+
+addscriptexist(286090429, "Arsenal [No Spread, Aimbot]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Arsenal%20No%20Spread%20Aimbot.lua")
