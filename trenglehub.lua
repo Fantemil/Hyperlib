@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 12:35:34"
+lastupdate = "GMT +1: 08.03.2023 12:35:38"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -6284,3 +6284,5 @@ addscript(6249640453, "Current Game","Classic Retro Craftwars: Kill All", "pulle
 addhub("Norther Hub: Infinity Yield, V.G. Hub, Infiity Jumps", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Norther%20Hub%20Infinity%20Yield%20VG%20Hub%20Infiity%20Jumps.lua")
 
 addscriptexist(10700669209, "Control Army: Auto Kill Pigs", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Control%20Army%20Auto%20Kill%20Pigs.lua")
+
+addscriptexist(2788229376, "Da Hood: Animations Gamepass", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Da%20Hood%20Animations%20Gamepass.lua")
