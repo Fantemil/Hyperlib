@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 20:11:55"
+lastupdate = "GMT +1: 08.03.2023 20:11:59"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -13488,3 +13488,5 @@ addscriptexist(2753915549, "Blox Fruits | AutoFarm Level, KillAura, Aimbot", "pu
 addscriptexist(8146731988, "Ultra Power Tycoon | Inf Jump, Player Modifications, Esp", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ultra%20Power%20Tycoon%20%20Inf%20Jump%20Player%20Modifications%20Esp.lua")
 
 addscriptexist(7952502098, "Impossible Glass Bridge Obby! | AutoFarm Money, Show Breaking Glass", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Impossible%20Glass%20Bridge%20Obby%20%20AutoFarm%20Money%20Show%20Breaking%20Glass.lua")
+
+addscriptexist(10675066724, "Slime Tower Tycoon | Auto Obby, Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Slime%20Tower%20Tycoon%20%20Auto%20Obby%20Auto%20Farm.lua")
