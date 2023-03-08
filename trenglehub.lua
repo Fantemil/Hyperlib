@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 17:37:13"
+lastupdate = "GMT +1: 08.03.2023 17:37:17"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -10424,3 +10424,5 @@ addscriptexist(8084034728, "Roblox But Every Second You Become Stronger: Infinit
 addscriptexist(8908228901, "Sharkbite 2: Gui CATWARE", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sharkbite%20%20Gui%20CATWARE.lua")
 
 addscriptexist(11372561941, "How Far Can You Ragdoll: Auto Collect Coins, Auto Win, Auto Rebirth", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/How%20Far%20Can%20You%20Ragdoll%20Auto%20Collect%20Coins%20Auto%20Win%20Auto%20Rebirth.lua")
+
+addscriptexist(10742364019, "EGOIST: Break Game", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/EGOIST%20Break%20Game.lua")
