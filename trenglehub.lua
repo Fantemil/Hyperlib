@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 20:52:30"
+lastupdate = "GMT +1: 08.03.2023 20:52:34"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -14534,3 +14534,5 @@ addscriptuniversal("Roblox Universal Script [Noclip]", "pulled from rbxscript.co
 addscriptexist(360589910, "Hoops - Demo [AimBot, Auto Block, Hitbox player]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Hoops%20%20Demo%20AimBot%20Auto%20Block%20Hitbox%20player.lua")
 
 addscriptexist(155615604, "Prison Life [Godmode, Killall]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Prison%20Life%20Godmode%20Killall.lua")
+
+addscriptexist(360589910, "Hoops - Demo [PlayerHitbox, Aimbot]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Hoops%20%20Demo%20PlayerHitbox%20Aimbot.lua")
