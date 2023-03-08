@@ -1,0 +1,1 @@
+loadstring(game:HttpGet(('https://raw.githubusercontent.com/Aidez/survival_of_the_fittest/main/main_script'),true))()
