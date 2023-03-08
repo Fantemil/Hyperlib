@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 12:43:24"
+lastupdate = "GMT +1: 08.03.2023 12:43:27"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -6502,3 +6502,5 @@ addscriptexist(2788229376, "Da Hood: Show where people are aiming", "pulled from
 addscript(11242465380, "Current Game","Find The DOORS Morphs: Anchor when you teleported, Walkspeed Slider, Telepots", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Find%20The%20DOORS%20Morphs%20Anchor%20when%20you%20teleported%20Walkspeed%20Slider%20Telepots.lua")
 
 addscriptuniversal("Universal Radar", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Radar.lua")
+
+addscriptexist(8260276694, "Ability Wars: Godmode, Auto Farm, Kill Aura", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ability%20Wars%20Godmode%20Auto%20Farm%20Kill%20Aura.lua")
