@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 07:10:24"
+lastupdate = "GMT +1: 08.03.2023 07:10:28"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -5624,3 +5624,5 @@ addhub("Maxey Hub: 5+ Games", "pulled from rbxscript.com", "https://raw.githubus
 addscriptexist(7525610732, "Kaizen: Auto Clan Spinner, Anti Afk, UI Settings", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Kaizen%20Auto%20Clan%20Spinner%20Anti%20Afk%20UI%20Settings.lua")
 
 addscript(10653151312, "Current Game","Undertale Soul OPs Boss Rush: Extended: Anticheat Bypass, Antiban", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Undertale%20Soul%20OPs%20Boss%20Rush%20Extended%20Anticheat%20Bypass%20Antiban.lua")
+
+addscriptexist(5956785391, "Project Slayers: Infinity Breathing, Auto Farm Bosses & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Project%20Slayers%20Infinity%20Breathing%20Auto%20Farm%20Bosses%20%20More.lua")
