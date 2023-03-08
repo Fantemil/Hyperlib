@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 16:44:54"
+lastupdate = "GMT +1: 08.03.2023 16:44:58"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -9094,3 +9094,5 @@ addscriptexist(8377686524, "Classic Undertale: Last Reset: Player | Server Crahe
 addscriptexist(9324584537, "The Island: Inf Money", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/The%20Island%20Inf%20Money.lua")
 
 addscriptexist(8377686524, "Classic Undertale: Last Reset: UTMM Weapons", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Classic%20Undertale%20Last%20Reset%20UTMM%20Weapons.lua")
+
+addscriptexist(5911084042, "Specter: Auto Collect, ESP, Teleports", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Specter%20Auto%20Collect%20ESP%20Teleports.lua")
