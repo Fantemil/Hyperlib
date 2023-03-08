@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 07:12:16"
+lastupdate = "GMT +1: 08.03.2023 07:12:20"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -5680,3 +5680,5 @@ addscriptexist(8884433153, "Collect All Pets: Auto Farm, Auto Jump, Teleport Egg
 addscriptuniversal("Universal Fire all RemoteEvents in ReplicatedStorage", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Fire%20all%20RemoteEvents%20in%20ReplicatedStorage.lua")
 
 addscriptuniversal("Universal chat filter issues message", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20chat%20filter%20issues%20message.lua")
+
+addscriptuniversal("Posx: Most Advanced Teleport Generator", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Posx%20Most%20Advanced%20Teleport%20Generator.lua")
