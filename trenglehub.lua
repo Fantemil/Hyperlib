@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 18:25:38"
+lastupdate = "GMT +1: 08.03.2023 18:25:43"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -11628,3 +11628,5 @@ addscriptexist(10925589760, "Merge Simulator: Auto Farm, Auto Rebirth, Auto Clic
 addscriptexist(2474168535, "Westbound: No Ragdoll, FOV Circle, Instant-Struggle", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Westbound%20No%20Ragdoll%20FOV%20Circle%20InstantStruggle.lua")
 
 addscriptuniversal("Universal Grab Co Ordinates", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Grab%20Co%20Ordinates.lua")
+
+addscriptuniversal("Universal FE Script Hub", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20FE%20Script%20Hub.lua")
