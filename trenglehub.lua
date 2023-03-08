@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 21:00:00"
+lastupdate = "GMT +1: 08.03.2023 21:00:07"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -14724,3 +14724,5 @@ addscriptexist(9872472334, "Evade [Free Respawn]", "pulled from rbxscript.com", 
 addscriptexist(5766084948, "SCP: The Red Lake [Esp, SilentAim]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SCP%20The%20Red%20Lake%20Esp%20SilentAim.lua")
 
 addscriptexist(4543144283, "Mega Noob Simulator [Auto Farm, Kill Aura, Coin Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mega%20Noob%20Simulator%20Auto%20Farm%20Kill%20Aura%20Coin%20Farm.lua")
+
+addscript(4850718823, "Current Game","Skatepark [Auto xp, Credit Farm, Credit Esp]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Skatepark%20Auto%20xp%20Credit%20Farm%20Credit%20Esp.lua")
