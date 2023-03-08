@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 20:27:06"
+lastupdate = "GMT +1: 08.03.2023 20:27:10"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -13896,3 +13896,5 @@ addscriptexist(662417684, "LUCKY BLOCKS Battlegrounds [Kill All - Kill Aura & Mo
 addscriptexist(6753004901, "Swing City [Unlock All Skins & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Swing%20City%20Unlock%20All%20Skins%20%20More.lua")
 
 addscriptexist(7369208341, "SuperHero: Universe [1.7] [Infinite Coins]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SuperHero%20Universe%20%20Infinite%20Coins.lua")
+
+addscriptexist(2066381781, "Deadly Sins Retribution [Teleport To Istar]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Deadly%20Sins%20Retribution%20Teleport%20To%20Istar.lua")
