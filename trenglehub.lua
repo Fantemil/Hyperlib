@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 17:03:07"
+lastupdate = "GMT +1: 08.03.2023 17:03:11"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -9554,3 +9554,5 @@ addscriptexist(8209480473, "Spotify Island: Instant wins", "pulled from rbxscrip
 addscriptexist(11237748076, "Stranger Things Immersive Watch Party: Items ESP, Auto Farm EXP", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Stranger%20Things%20Immersive%20Watch%20Party%20Items%20ESP%20Auto%20Farm%20EXP.lua")
 
 addscriptexist(606849621, "Jailbreak: Robbery Assistance, LocalPlayer & More!", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Jailbreak%20Robbery%20Assistance%20LocalPlayer%20%20More.lua")
+
+addscriptexist(11459646568, "How Far Can You Fly? Inf Coins", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/How%20Far%20Can%20You%20Fly%20Inf%20Coins.lua")
