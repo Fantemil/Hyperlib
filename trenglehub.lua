@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 07:13:40"
+lastupdate = "GMT +1: 08.03.2023 07:13:44"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -5722,3 +5722,5 @@ addscriptexist(298400657, "Dragon Ball Final Remastered: Auto Meditation, Auto G
 addscriptuniversal("RoBowling: Aimbot, Hitbox Expander", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RoBowling%20Aimbot%20Hitbox%20Expander.lua")
 
 addscript(9635904979, "Current Game","Find The Sonic Morphs: Collect All Morphs", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Find%20The%20Sonic%20Morphs%20Collect%20All%20Morphs.lua")
+
+addscriptexist(2809202155, "Your Bizarre Adventure: Item Farm, Pickup Items, Mob Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Your%20Bizarre%20Adventure%20Item%20Farm%20Pickup%20Items%20Mob%20Auto%20Farm.lua")
