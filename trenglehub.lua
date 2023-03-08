@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 19:55:32"
+lastupdate = "GMT +1: 08.03.2023 19:55:37"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -13308,3 +13308,5 @@ addscriptexist(10347946161, "Rat Washing Tycoon | Auto Collect Rats, Auto Sell, 
 addscriptexist(9955279341, "Infinity Sea 2 | Auto Farm Npc, Auto Chest Farm, Killaura", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Infinity%20Sea%20%20%20Auto%20Farm%20Npc%20Auto%20Chest%20Farm%20Killaura.lua")
 
 addscriptexist(2569453732, "Rise of Nations | Unit Esp, Auto Develop Cities & More!", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Rise%20of%20Nations%20%20Unit%20Esp%20Auto%20Develop%20Cities%20%20More.lua")
+
+addhub("UnnamedHub | 3 Games", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/UnnamedHub%20%20%20Games.lua")
