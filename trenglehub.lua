@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 19:36:04"
+lastupdate = "GMT +1: 08.03.2023 19:36:09"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -13116,3 +13116,5 @@ addscriptexist(10631181587, "Stone Miner Simulator 2: Infinite Rebirth Tokens & 
 addscriptexist(2788229376, "Da Hood: Titan", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Da%20Hood%20Titan.lua")
 
 addscriptuniversal("Universal Fling All", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Fling%20All.lua")
+
+addscript(8447393333, "Current Game","Chocolate Factory Simulator: Infinite Money", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Chocolate%20Factory%20Simulator%20Infinite%20Money.lua")
