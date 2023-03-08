@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 13:06:03"
+lastupdate = "GMT +1: 08.03.2023 13:06:07"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -7080,3 +7080,5 @@ addscriptexist(5712833750, "Animal Simulator: Auto Collect Coin", "pulled from r
 addscript(2262441883, "Current Game","Electric State DarkRP(Beta): Printer And Shipment Esp", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Electric%20State%20DarkRPBeta%20Printer%20And%20Shipment%20Esp.lua")
 
 addscriptexist(10291129032, "Flappy Bird Race: Auto Farm & More!", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Flappy%20Bird%20Race%20Auto%20Farm%20%20More.lua")
+
+addscriptexist(10404327868, "Timber Champions: Auto Collect Orbs, Auto Attack Boss, Auto Collect Chests", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Timber%20Champions%20Auto%20Collect%20Orbs%20Auto%20Attack%20Boss%20Auto%20Collect%20Chests.lua")
