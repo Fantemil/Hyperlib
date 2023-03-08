@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 12:49:24"
+lastupdate = "GMT +1: 08.03.2023 12:49:28"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -6652,3 +6652,5 @@ addscriptexist(286090429, "Arsenal: Aimbot, FOV, ESP", "pulled from rbxscript.co
 addscriptexist(10914683361, "Busy Business: Auto Hotdog", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Busy%20Business%20Auto%20Hotdog.lua")
 
 addhub("Strike Hub: Updated Version", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Strike%20Hub%20Updated%20Version.lua")
+
+addscriptexist(3851622790, "Break In: God Mode, Teleport, get items]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Break%20In%20God%20Mode%20Teleport%20get%20items.lua")
