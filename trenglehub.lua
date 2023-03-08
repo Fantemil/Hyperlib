@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 20:57:16"
+lastupdate = "GMT +1: 08.03.2023 20:57:20"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -14654,3 +14654,5 @@ addscript(7285447838, "Current Game","Tokyo Saga [Auto Farm Strenght, Money]", "
 addscriptexist(3233893879, "Bad Business [Silent Aim]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Bad%20Business%20Silent%20Aim.lua")
 
 addscriptexist(2788229376, "Da Hood [Legit Silent Aim]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Da%20Hood%20Legit%20Silent%20Aim.lua")
+
+addscriptexist(6403373529, "Slap Battles [Anti Ragdoll, Auto Toxic]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Slap%20Battles%20Anti%20Ragdoll%20Auto%20Toxic.lua")
