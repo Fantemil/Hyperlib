@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 16:55:08"
+lastupdate = "GMT +1: 08.03.2023 16:55:12"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -9350,3 +9350,5 @@ addscriptexist(6678877691, "ZO: Fly, Auto Block, Auto Parry", "pulled from rbxsc
 addscriptexist(11153589280, "DOORS Race Clicker: Auto Farm Wins, Auto Speed, Auto Hatch", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DOORS%20Race%20Clicker%20Auto%20Farm%20Wins%20Auto%20Speed%20Auto%20Hatch.lua")
 
 addscriptexist(4994661268, "Undertale: Judgement Day: Crash Server, Dupe Items", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Undertale%20Judgement%20Day%20Crash%20Server%20Dupe%20Items.lua")
+
+addscriptexist(5780309044, "Stands Awakening: Item Spawn Notifier", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Stands%20Awakening%20Item%20Spawn%20Notifier.lua")
