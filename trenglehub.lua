@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 19:24:02"
+lastupdate = "GMT +1: 08.03.2023 19:24:06"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -12848,3 +12848,5 @@ addscriptexist(286090429, "Arsenal: Jump Power", "pulled from rbxscript.com", "h
 addscript(8674186618, "Current Game","Crate Opening Incremental: Noclip, Btools, Auto Open", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Crate%20Opening%20Incremental%20Noclip%20Btools%20Auto%20Open.lua")
 
 addscriptexist(4793176968, "Mano County Police Patrol: Delete Map", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mano%20County%20Police%20Patrol%20Delete%20Map.lua")
+
+addscriptexist(9103460924, "Sword Factory X: Auto Dungeon, Buy Boosts Fast, WebHook", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sword%20Factory%20X%20Auto%20Dungeon%20Buy%20Boosts%20Fast%20WebHook.lua")
