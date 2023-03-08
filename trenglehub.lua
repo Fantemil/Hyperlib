@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 06:41:41"
+lastupdate = "GMT +1: 08.03.2023 06:41:45"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -4746,3 +4746,5 @@ addscriptexist(8737602449, "Adopt Me: Pet Autofarm, Auto Neon, Auto Trade", "pul
 addscriptexist(5154858502, "Murderers vs. Sheriffs: Kill All, Gun Aura, Name ESP", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Murderers%20vs%20Sheriffs%20Kill%20All%20Gun%20Aura%20Name%20ESP.lua")
 
 addscriptexist(11884594868, "Anime Defense Simulator: Auto Noclip, Auto Open Eggs, Redeem Codes", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime%20Defense%20Simulator%20Auto%20Noclip%20Auto%20Open%20Eggs%20Redeem%20Codes.lua")
+
+addscriptexist(9498006165, "Tapping Simulator: Auto Clicker", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tapping%20Simulator%20Auto%20Clicker.lua")
