@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 20:26:17"
+lastupdate = "GMT +1: 08.03.2023 20:26:21"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -13872,3 +13872,5 @@ addscript(10207722290, "Current Game","Lifting Legends Simulator [Auto Farm]", "
 addscriptexist(9585537847, "SHADOVIS RPG [Auto Collect, KillAura]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SHADOVIS%20RPG%20Auto%20Collect%20KillAura.lua")
 
 addscriptexist(10710676163, "SPTS : Origin [Speed And Jump Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SPTS%20%20Origin%20Speed%20And%20Jump%20Farm.lua")
+
+addscriptexist(1962086868, "Tower of Hell [Fly, Walkspeed]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tower%20of%20Hell%20Fly%20Walkspeed.lua")
