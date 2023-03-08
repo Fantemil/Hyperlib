@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 18:42:14"
+lastupdate = "GMT +1: 08.03.2023 18:42:18"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -11960,3 +11960,5 @@ addscriptexist(155615604, "Prison Life: Get All Guns, Noclip & More", "pulled fr
 addscriptexist(5490351219, "Clicker Madness: Auto Click, Teleports & more", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Clicker%20Madness%20Auto%20Click%20Teleports%20%20more.lua")
 
 addscriptexist(6872265039, "BedWars: Kill aura, Infinity Jump & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BedWars%20Kill%20aura%20Infinity%20Jump%20%20More.lua")
+
+addscriptexist(2727067538, "World // Zero: Auto Farm, Kill Aura, Auto Collect Drop", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/World%20%20Zero%20Auto%20Farm%20Kill%20Aura%20Auto%20Collect%20Drop.lua")
