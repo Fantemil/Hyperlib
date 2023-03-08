@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 20:32:52"
+lastupdate = "GMT +1: 08.03.2023 20:32:56"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -14044,3 +14044,5 @@ addscriptuniversal("Roblox Universal Script [Walkspeed, Inf Yield]", "pulled fro
 addscriptexist(10524502174, "One Punch Fighters [AutoFarm, AutoSummon]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/One%20Punch%20Fighters%20AutoFarm%20AutoSummon.lua")
 
 addscriptexist(7056922815, "Reaper 2 [AutoFarm, AutoEat]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Reaper%20%20AutoFarm%20AutoEat.lua")
+
+addscriptexist(893973440, "Flee the Facility [Hide beast light]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Flee%20the%20Facility%20Hide%20beast%20light.lua")
