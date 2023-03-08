@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 17:30:39"
+lastupdate = "GMT +1: 08.03.2023 17:30:43"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -10262,3 +10262,5 @@ addscript(7502726087, "Current Game","Be a Hero: Auto Farm", "pulled from rbxscr
 addscriptexist(8146731988, "Ultra Power Tycoon: Auto Farm, Walkspeed, Auto Buy", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ultra%20Power%20Tycoon%20Auto%20Farm%20Walkspeed%20Auto%20Buy.lua")
 
 addscriptexist(9417197334, "Anime Story: Auto Farm, Auto Stat, Auto Quest", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime%20Story%20Auto%20Farm%20Auto%20Stat%20Auto%20Quest.lua")
+
+addscriptexist(4639625707, "Oil Warfare Tycoon: Gun Mods, ESP, Infinity Jumps", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Oil%20Warfare%20Tycoon%20Gun%20Mods%20ESP%20Infinity%20Jumps.lua")
