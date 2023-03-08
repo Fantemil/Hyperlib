@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 17:30:22"
+lastupdate = "GMT +1: 08.03.2023 17:30:26"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -10254,3 +10254,5 @@ addscriptexist(6938803436, "Anime Dimensions: Auto Join, Auto Skils, Auto Farm",
 addscriptexist(5130598377, "A Universal Time: Auto Farm Meteor, God Mode, Auto Farm Chest", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/A%20Universal%20Time%20Auto%20Farm%20Meteor%20God%20Mode%20Auto%20Farm%20Chest.lua")
 
 addscriptexist(11436221007, "Elton John Presents Beyond The Yellow Brick Road: Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Elton%20John%20Presents%20Beyond%20The%20Yellow%20Brick%20Road%20Auto%20Farm.lua")
+
+addscriptexist(10277607801, "Apeirophobia: Walkspeed, Monster ESP, Full Bright", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Apeirophobia%20Walkspeed%20Monster%20ESP%20Full%20Bright.lua")
