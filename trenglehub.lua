@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 17:27:24"
+lastupdate = "GMT +1: 08.03.2023 17:27:28"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -10178,3 +10178,5 @@ addscriptexist(8084034728, "Roblox But Every Second You Become Stronger: 2x Spee
 addscript(6761209900, "Current Game","SUFFER: Loop Ragdoll All", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SUFFER%20Loop%20Ragdoll%20All.lua")
 
 addscriptexist(10347946161, "Rat Washing Tycoon: Auto Sell Rats, Player Mods, Auto Collect Rats", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Rat%20Washing%20Tycoon%20Auto%20Sell%20Rats%20Player%20Mods%20Auto%20Collect%20Rats.lua")
+
+addscriptuniversal("Universal Anti kick and Anti Cheat", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Anti%20kick%20and%20Anti%20Cheat.lua")
