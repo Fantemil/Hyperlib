@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 17:05:56"
+lastupdate = "GMT +1: 08.03.2023 17:06:01"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -9624,3 +9624,5 @@ addscriptuniversal("Universal Fly, Speed, ESP", "pulled from rbxscript.com", "ht
 addscriptexist(6516141723, "DOORS: No Screech, Skip Level, Key Chams", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DOORS%20No%20Screech%20Skip%20Level%20Key%20Chams.lua")
 
 addscriptexist(9498006165, "Tapping Simulator: Auto Tap, Walkspeed, Auto Eggs", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tapping%20Simulator%20Auto%20Tap%20Walkspeed%20Auto%20Eggs.lua")
+
+addscriptexist(6403373529, "Slap Battles: Faster brick placement For Trap", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Slap%20Battles%20Faster%20brick%20placement%20For%20Trap.lua")
