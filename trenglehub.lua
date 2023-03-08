@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 18:53:02"
+lastupdate = "GMT +1: 08.03.2023 18:53:06"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -12174,3 +12174,5 @@ addscriptexist(9195713767, "Sword Haven: Auto Farm, Auto Boost, Auto buy", "pull
 addscript(9711302332, "Current Game","Clicker Heroes: Auto Clicker, Auto Damage World Crystals & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Clicker%20Heroes%20Auto%20Clicker%20Auto%20Damage%20World%20Crystals%20%20More.lua")
 
 addscriptexist(9733390246, "Stair Tappers: Auto Play, Keybinds", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Stair%20Tappers%20Auto%20Play%20Keybinds.lua")
+
+addscriptexist(10804519995, "Ro Fruit: Inf Stats", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ro%20Fruit%20Inf%20Stats.lua")
