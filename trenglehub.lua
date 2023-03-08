@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 18:58:42"
+lastupdate = "GMT +1: 08.03.2023 18:58:47"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -12300,3 +12300,5 @@ addscriptexist(7026828578, "Speed Simulator: Infinite Rebirths", "pulled from rb
 addscriptexist(2753915549, "Blox Fruits: Teleports, Auto Stats & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blox%20Fruits%20Teleports%20Auto%20Stats%20%20More.lua")
 
 addscriptuniversal("Universal Floating Flinger FE", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Floating%20Flinger%20FE.lua")
+
+addscript(2523890061, "Current Game","Tower Battle: Esp, Speed, Jump & more", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tower%20Battle%20Esp%20Speed%20Jump%20%20more.lua")
