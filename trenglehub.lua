@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 16:43:38"
+lastupdate = "GMT +1: 08.03.2023 16:43:42"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -9064,3 +9064,5 @@ addscript(10594623896, "Current Game","Master Punching Simulator: Auto Click, Au
 addscriptexist(9498006165, "Tapping Simulator: Auto Click, Auto Buy, Auto Hatch", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tapping%20Simulator%20Auto%20Click%20Auto%20Buy%20Auto%20Hatch.lua")
 
 addscriptexist(5956785391, "Project Slayers: Auto Quest, WalkSpeed, TP", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Project%20Slayers%20Auto%20Quest%20WalkSpeed%20TP.lua")
+
+addscriptexist(11346342371, "making memes in your basement at 3 AM tycoon: Auto Upload, Auto Complete", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/making%20memes%20in%20your%20basement%20at%20%20AM%20tycoon%20Auto%20Upload%20Auto%20Complete.lua")
