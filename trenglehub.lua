@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 14:54:34"
+lastupdate = "GMT +1: 08.03.2023 14:54:42"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -8240,3 +8240,5 @@ addscriptexist(2809202155, "Your Bizarre Adventure: Pity Farm", "pulled from rbx
 addscriptexist(606849621, "Jailbreak: Infinity Nitro, Fly, Infinity Jumps", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Jailbreak%20Infinity%20Nitro%20Fly%20Infinity%20Jumps.lua")
 
 addscriptexist(537413528, "Build A Boat For Treasure: Player Mods, Auto Buy & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Build%20A%20Boat%20For%20Treasure%20Player%20Mods%20Auto%20Buy%20%20More.lua")
+
+addscriptexist(537413528, "Build A Boat For Treasure: Auto Farm, Auto Buys & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Build%20A%20Boat%20For%20Treasure%20Auto%20Farm%20Auto%20Buys%20%20More.lua")
