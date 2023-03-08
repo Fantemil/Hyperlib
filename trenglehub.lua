@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 15:03:50"
+lastupdate = "GMT +1: 08.03.2023 15:03:57"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -8490,3 +8490,5 @@ addscriptexist(7267631004, "carry people simulator 3: Auto Grab", "pulled from r
 addscriptexist(292439477, "Phantom Forces: Silent Aim, ESP", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Phantom%20Forces%20Silent%20Aim%20ESP.lua")
 
 addscriptexist(11040063484, "Sword Fighters Simulator: Auto Clicker", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sword%20Fighters%20Simulator%20Auto%20Clicker.lua")
+
+addscriptexist(6679968919, "Fly Race: Auto Farm, Auto Rebirth, Tp", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Fly%20Race%20Auto%20Farm%20Auto%20Rebirth%20Tp.lua")
