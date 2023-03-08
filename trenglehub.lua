@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 20:39:18"
+lastupdate = "GMT +1: 08.03.2023 20:39:23"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -14212,3 +14212,5 @@ addscriptexist(8054462345, "Michael's Zombies [KillAura]", "pulled from rbxscrip
 addscript(9386846196, "Current Game","Brawling Grounds [AddHeal, KillAura]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Brawling%20Grounds%20AddHeal%20KillAura.lua")
 
 addscript(7540727946, "Current Game","Hoops Life Basketball [Auto Guard, AutoDunk]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Hoops%20Life%20Basketball%20Auto%20Guard%20AutoDunk.lua")
+
+addscriptexist(2788229376, "Da Hood [AutoHeal, Inf Jump]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Da%20Hood%20AutoHeal%20Inf%20Jump.lua")
