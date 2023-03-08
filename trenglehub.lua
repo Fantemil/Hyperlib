@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 20:29:33"
+lastupdate = "GMT +1: 08.03.2023 20:29:38"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -13958,3 +13958,5 @@ addscript(3017870574, "Current Game","2 Player Evolution Tycoon [Auto Farm]", "p
 addscriptexist(10676523834, "Racing Rocket [Max Power Farm, Star Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Racing%20Rocket%20Max%20Power%20Farm%20Star%20Farm.lua")
 
 addscriptexist(10676523834, "Racing Rocket [Farm Star Fast]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Racing%20Rocket%20Farm%20Star%20Fast.lua")
+
+addscriptexist(183364845, "Speed Run 4 [Inf Gems, AutoStars]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Speed%20Run%20%20Inf%20Gems%20AutoStars.lua")
