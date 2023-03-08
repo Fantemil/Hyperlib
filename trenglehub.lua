@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 07:07:25"
+lastupdate = "GMT +1: 08.03.2023 07:07:29"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -5532,3 +5532,5 @@ addscriptexist(2414851778, "Dungeon Quest: Kill Aura, God Mode, Auto Sell", "pul
 addscriptexist(5154858502, "Murderers vs. Sheriffs: Kill All, Knife Aura, Gun Aura", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Murderers%20vs%20Sheriffs%20Kill%20All%20Knife%20Aura%20Gun%20Aura.lua")
 
 addscript(3339374541, "Current Game","Midnight Racing: Tokyo DEMO: Presents Esp For Limited Event", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Midnight%20Racing%20Tokyo%20DEMO%20Presents%20Esp%20For%20Limited%20Event.lua")
+
+addscriptexist(23578803, "Hotel Elephant: Map Destroyer", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Hotel%20Elephant%20Map%20Destroyer.lua")
