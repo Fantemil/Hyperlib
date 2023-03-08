@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 13:15:43"
+lastupdate = "GMT +1: 08.03.2023 13:15:47"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -7336,3 +7336,5 @@ addscriptexist(10404327868, "Timber Champions: Auto Farm, Auto Egg, Auto Сollec
 addscript(7215261025, "Current Game","Retro TDS: Auto Farm GUI", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Retro%20TDS%20Auto%20Farm%20GUI.lua")
 
 addscriptexist(11063612131, "Every Second You Get +1 Jump Power: Auto Buy Pets, Auto Rebirth, Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Every%20Second%20You%20Get%20%20Jump%20Power%20Auto%20Buy%20Pets%20Auto%20Rebirth%20Auto%20Farm.lua")
+
+addscript(4752917845, "Current Game","reroll gg: Open Case, Buy Case, Sell Skins", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/reroll%20gg%20Open%20Case%20Buy%20Case%20Sell%20Skins.lua")
