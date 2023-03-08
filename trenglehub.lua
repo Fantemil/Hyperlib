@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 20:51:22"
+lastupdate = "GMT +1: 08.03.2023 20:51:26"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -14506,3 +14506,5 @@ addscript(10150367093, "Current Game","Baking Tycoon [Claim Codes, Claim Plot, X
 addscriptexist(155615604, "Prison Life [Inf Stamina, Inst Respawn]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Prison%20Life%20Inf%20Stamina%20Inst%20Respawn.lua")
 
 addscriptuniversal("Roblox Universal Script [Boombox visualizer]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Roblox%20Universal%20Script%20Boombox%20visualizer.lua")
+
+addscriptuniversal("Roblox Universal Script [NOT FE, Shotgun]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Roblox%20Universal%20Script%20NOT%20FE%20Shotgun.lua")
