@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 17:05:31"
+lastupdate = "GMT +1: 08.03.2023 17:05:39"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -9614,3 +9614,5 @@ addscriptuniversal("Universal Hitbox GUI", "pulled from rbxscript.com", "https:/
 addscriptexist(2551991523, "Broken Bones IV: Infinity Money", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Broken%20Bones%20IV%20Infinity%20Money.lua")
 
 addscriptexist(10758111998, "2019 Booga Booga [reborn]: Pumpkins Esp", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/%20Booga%20Booga%20reborn%20Pumpkins%20Esp.lua")
+
+addscriptexist(11237748076, "Stranger Things Immersive Watch Party: Get Waffle Backpack, Complete Scavenger Hunt", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Stranger%20Things%20Immersive%20Watch%20Party%20Get%20Waffle%20Backpack%20Complete%20Scavenger%20Hunt.lua")
