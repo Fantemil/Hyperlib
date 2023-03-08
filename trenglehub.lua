@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 14:50:25"
+lastupdate = "GMT +1: 08.03.2023 14:50:32"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -8134,3 +8134,5 @@ addscriptexist(286090429, "Arsenal: Smooth Lock, Silent Aim, Hitboxes", "pulled 
 addscriptexist(10898965735, "Mine Racer: Auto Buy Egg, Auto Equip Best Pickaxe, Complete The Obby", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mine%20Racer%20Auto%20Buy%20Egg%20Auto%20Equip%20Best%20Pickaxe%20Complete%20The%20Obby.lua")
 
 addscriptexist(2788229376, "Da Hood: Bullet tracer, Low GFX, Smooth lock", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Da%20Hood%20Bullet%20tracer%20Low%20GFX%20Smooth%20lock.lua")
+
+addscriptexist(292439477, "Phantom Forces: ESP Boxes Players", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Phantom%20Forces%20ESP%20Boxes%20Players.lua")
