@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 17:28:04"
+lastupdate = "GMT +1: 08.03.2023 17:28:08"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -10196,3 +10196,5 @@ addscript(9648883891, "Current Game","Festival Tycoon: Auto Buy, Infinite Money,
 addscriptexist(6939111033, "Escape Papa Pizza's Pizzeria: Get Shop Items For Free", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Escape%20Papa%20Pizzas%20Pizzeria%20Get%20Shop%20Items%20For%20Free.lua")
 
 addscriptexist(2317712696, "The Wild West: Mine Ore Esp, Auto Sprint & More!", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/The%20Wild%20West%20Mine%20Ore%20Esp%20Auto%20Sprint%20%20More.lua")
+
+addscriptexist(891852901, "Greenville: Speed Hack, Auto Farm & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Greenville%20Speed%20Hack%20Auto%20Farm%20%20More.lua")
