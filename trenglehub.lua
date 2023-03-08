@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 20:25:36"
+lastupdate = "GMT +1: 08.03.2023 20:25:40"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -13854,3 +13854,5 @@ addscriptexist(9361614975, "My City Tycoon | Auto Obby, AutoClick", "pulled from
 addscriptexist(5924471692, "Bloxford DarkRP | Server Lagger", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Bloxford%20DarkRP%20%20Server%20Lagger.lua")
 
 addscript(7369208341, "Current Game","SuperHero: Universe | Infinity Tokens", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SuperHero%20Universe%20%20Infinity%20Tokens.lua")
+
+addscriptexist(5987922834, "Transfur Outbreak | AimBot, Esp, Get All emote gamepass", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Transfur%20Outbreak%20%20AimBot%20Esp%20Get%20All%20emote%20gamepass.lua")
