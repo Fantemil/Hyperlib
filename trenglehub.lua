@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 18:05:16"
+lastupdate = "GMT +1: 08.03.2023 18:05:20"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -11132,3 +11132,5 @@ addscriptexist(9551640993, "Mining Simulator 2: Auto Sell, Auto Farm, Auto Eggs"
 addscriptexist(4872321990, "Islands: Zombie Cletus Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Islands%20Zombie%20Cletus%20Farm.lua")
 
 addscriptexist(8908228901, "SharkBite 2: Inf teeth, Inf ammo, Auto Win", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SharkBite%20%20Inf%20teeth%20Inf%20ammo%20Auto%20Win.lua")
+
+addscriptexist(8908228901, "SharkBite 2: Fast Farm teeth, Insta Kill Shark, Esp", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SharkBite%20%20Fast%20Farm%20teeth%20Insta%20Kill%20Shark%20Esp.lua")
