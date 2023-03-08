@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 12:26:56"
+lastupdate = "GMT +1: 08.03.2023 12:27:05"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -6050,3 +6050,5 @@ addscript(360589910, "Current Game","Hoops - Demo: Infinite Stamina, Hookmetamet
 addscriptexist(6516141723, "DOORS: Amogus Character", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DOORS%20Amogus%20Character.lua")
 
 addscriptexist(10462101644, "Tall Man Run: Get Comically Big, Kill Game & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tall%20Man%20Run%20Get%20Comically%20Big%20Kill%20Game%20%20More.lua")
+
+addscriptuniversal("Universal Annoying Sound, Kill Sound Service, Mute Game", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Annoying%20Sound%20Kill%20Sound%20Service%20Mute%20Game.lua")
