@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 12:21:17"
+lastupdate = "GMT +1: 08.03.2023 12:21:21"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -5896,3 +5896,5 @@ addscriptuniversal("Leck Hub: 5+ Games", "pulled from rbxscript.com", "https://r
 addscriptexist(3956818381, "Ninja Legends: Auto Farm, Auto Sell, Auto Swing", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ninja%20Legends%20Auto%20Farm%20Auto%20Sell%20Auto%20Swing.lua")
 
 addscriptexist(1537690962, "Bee Swarm Simulator: Histy Hub, Macro V2, Pepsi Swarm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Bee%20Swarm%20Simulator%20Histy%20Hub%20Macro%20V%20Pepsi%20Swarm.lua")
+
+addscriptexist(1554960397, "Car Dealership Tycoon: Auto Farm Speed, Walkspeed, Anti Afk", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Car%20Dealership%20Tycoon%20Auto%20Farm%20Speed%20Walkspeed%20Anti%20Afk.lua")
