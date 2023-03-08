@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 20:35:06"
+lastupdate = "GMT +1: 08.03.2023 20:35:10"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -14100,3 +14100,5 @@ addscriptexist(8054462345, "Michael's Zombies [Kill Aura]", "pulled from rbxscri
 addscriptexist(8130299583, "Trident Survival [Esp, Head Hbe, Xray]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Trident%20Survival%20Esp%20Head%20Hbe%20Xray.lua")
 
 addscriptexist(9737855826, "Trade Simulator [AntiAFK]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Trade%20Simulator%20AntiAFK.lua")
+
+addscriptuniversal("Roblox Universal Script [Movement Tracker]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Roblox%20Universal%20Script%20Movement%20Tracker.lua")
