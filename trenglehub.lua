@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 07:06:36"
+lastupdate = "GMT +1: 08.03.2023 07:06:39"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -5506,3 +5506,5 @@ addscriptexist(3823781113, "Saber Simulator: Flag Teleports, Islands Teleports &
 addscriptexist(9281034297, "Goal Kick Simulator: Auto Kick, Auto Rebirth, Auto Chests", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Goal%20Kick%20Simulator%20Auto%20Kick%20Auto%20Rebirth%20Auto%20Chests.lua")
 
 addscript(31490825, "Current Game","Military War Tycoon: Auto Farm, Auto Collect Cash, No Reload", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Military%20War%20Tycoon%20Auto%20Farm%20Auto%20Collect%20Cash%20No%20Reload.lua")
+
+addscriptexist(9872472334, "Evade: ESP, Tracers, Auto Respawn", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Evade%20ESP%20Tracers%20Auto%20Respawn.lua")
