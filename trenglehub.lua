@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 19:00:39"
+lastupdate = "GMT +1: 08.03.2023 19:00:44"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -12346,3 +12346,5 @@ addhub("Hydra Hub Ui Lib", "pulled from rbxscript.com", "https://raw.githubuserc
 addscriptexist(2753915549, "Blox Fruits: Fruit Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blox%20Fruits%20Fruit%20Farm.lua")
 
 addscriptexist(2753915549, "Blox Fruits: Gold Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blox%20Fruits%20Gold%20Auto%20Farm.lua")
+
+addscriptexist(2753915549, "Blox Fruits: Hitbox Expander", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blox%20Fruits%20Hitbox%20Expander.lua")
