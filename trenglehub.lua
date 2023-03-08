@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 19:31:29"
+lastupdate = "GMT +1: 08.03.2023 19:31:34"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -13012,3 +13012,5 @@ addscriptexist(606849621, "Jailbreak: No Wait, Infinite Duck, Infinite Punch", "
 addscript(4967465336, "Current Game","Ray's Mod: Infinity Health", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Rays%20Mod%20Infinity%20Health.lua")
 
 addscriptexist(9264596435, "Idle Heroes Simulator: Auto Attack, Tp To Enemy", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Idle%20Heroes%20Simulator%20Auto%20Attack%20Tp%20To%20Enemy.lua")
+
+addscriptexist(4282985734, "Combat Warriors: Fly, Killaura", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Combat%20Warriors%20Fly%20Killaura.lua")
