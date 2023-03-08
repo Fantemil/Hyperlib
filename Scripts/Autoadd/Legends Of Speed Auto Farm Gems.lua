@@ -1,10 +1,8 @@
 while true do
-    wait(0.1)
-local args = {
-    [1] = "collectOrb",
-    [2] = "Gem",
-    [3] = "City"
-}
-
-game:GetService("ReplicatedStorage").rEvents.orbEvent:FireServer(unpack(args))
+ wait (0.1)
+local A_1 = "collectOrb"
+local A_2 = "Gem"
+local A_3 = "City"
+local Event = game:GetService("ReplicatedStorage").rEvents.orbEvent
+Event:FireServer(A_1, A_2, A_3)
 end
