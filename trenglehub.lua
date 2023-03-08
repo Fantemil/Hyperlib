@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 14:41:49"
+lastupdate = "GMT +1: 08.03.2023 14:41:53"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -7898,3 +7898,5 @@ addscriptuniversal("Universal Teleport To Players, Drop All Accessories, Reset",
 addscriptexist(5036207802, "RB Battles! Coins Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RB%20Battles%20Coins%20Auto%20Farm.lua")
 
 addscriptexist(9224601490, "Fruit Battlegrounds: Start Auto Farm, Stop Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Fruit%20Battlegrounds%20Start%20Auto%20Farm%20Stop%20Auto%20Farm.lua")
+
+addhub("Kyoichi Hub: Many Games", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Kyoichi%20Hub%20Many%20Games.lua")
