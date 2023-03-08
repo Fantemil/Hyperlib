@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 20:41:52"
+lastupdate = "GMT +1: 08.03.2023 20:41:58"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -14276,3 +14276,5 @@ addscriptexist(537413528, "Build A Boat For Treasure [AutoFarm, Auto Chests]", "
 addscript(9291030453, "Current Game","The Chainsmokers Concert Experience [GetAllLetters, Walkspeed]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/The%20Chainsmokers%20Concert%20Experience%20GetAllLetters%20Walkspeed.lua")
 
 addscriptexist(9872472334, "Evade [AutoRespawn, Esp]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Evade%20AutoRespawn%20Esp.lua")
+
+addscriptexist(2537430692, "Jenga [Walkspeed, End Game]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Jenga%20Walkspeed%20End%20Game.lua")
