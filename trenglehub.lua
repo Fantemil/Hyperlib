@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 19:23:07"
+lastupdate = "GMT +1: 08.03.2023 19:23:14"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -12826,3 +12826,5 @@ addscriptexist(1224212277, "Mad City Chapter 2: Kill All v2", "pulled from rbxsc
 addscriptexist(9872472334, "Evade: Monster Esp", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Evade%20Monster%20Esp.lua")
 
 addscriptexist(9554750143, "Pet Fighting Simulator: Infinite Wheel Spins", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pet%20Fighting%20Simulator%20Infinite%20Wheel%20Spins.lua")
+
+addscriptexist(9992339729, "Longest Answer: Wins Auto Player", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Longest%20Answer%20Wins%20Auto%20Player.lua")
