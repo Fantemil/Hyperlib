@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 16:49:35"
+lastupdate = "GMT +1: 08.03.2023 16:49:40"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -9210,3 +9210,5 @@ addscriptexist(9281034297, "Goal Kick Simulator: Auto Kick, Auto Rebirth, Auto U
 addscriptexist(3214114884, "Flag Wars: Auto Kill", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Flag%20Wars%20Auto%20Kill.lua")
 
 addscriptexist(5712833750, "Animal Simulator: Tp To Player, Auto Collect Chests, Kill aura", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Animal%20Simulator%20Tp%20To%20Player%20Auto%20Collect%20Chests%20Kill%20aura.lua")
+
+addscript(7462526249, "Current Game","NIKELAND: Bring Football, Auto Dance", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NIKELAND%20Bring%20Football%20Auto%20Dance.lua")
