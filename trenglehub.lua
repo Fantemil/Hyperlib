@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 19:27:28"
+lastupdate = "GMT +1: 08.03.2023 19:27:33"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -12920,3 +12920,5 @@ addscriptexist(9648883891, "Festival Tycoon: Infinity Money", "pulled from rbxsc
 addscriptexist(9993529229, "Counter Blox: Remastered: Silent Aim, Hitbox & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Counter%20Blox%20Remastered%20Silent%20Aim%20Hitbox%20%20More.lua")
 
 addscript(4325400580, "Current Game","Army Tycoon: Give everyone all buildings, Q To nuke, Lag Server", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Army%20Tycoon%20Give%20everyone%20all%20buildings%20Q%20To%20nuke%20Lag%20Server.lua")
+
+addscriptexist(7026828578, "Speed Simulator: Infinity Cash", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Speed%20Simulator%20Infinity%20Cash.lua")
