@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 20:55:42"
+lastupdate = "GMT +1: 08.03.2023 20:55:46"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -14614,3 +14614,5 @@ addscriptexist(5985232436, "Infectious Smile [NoSlowdown, HitAura]", "pulled fro
 addscriptexist(10047913840, "Training Simulator [AutoLift, AutoRebirth]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Training%20Simulator%20AutoLift%20AutoRebirth.lua")
 
 addscriptuniversal("Roblox Universal Script [Cmds Bar]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Roblox%20Universal%20Script%20Cmds%20Bar.lua")
+
+addscript(3458435516, "Current Game","Limited Simulator 2 [AutoBuy]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Limited%20Simulator%20%20AutoBuy.lua")
