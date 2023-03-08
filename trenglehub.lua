@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 17:00:27"
+lastupdate = "GMT +1: 08.03.2023 17:00:34"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -9486,3 +9486,5 @@ addscriptexist(648362523, "Breaking Point: Invisible", "pulled from rbxscript.co
 addscriptexist(6441847031, "CHAOS: Server Crash, Free gamepass, Hitbox", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CHAOS%20Server%20Crash%20Free%20gamepass%20Hitbox.lua")
 
 addscriptexist(9832066570, "Tower Battles: Defensive Holds: Hitbox Expander", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tower%20Battles%20Defensive%20Holds%20Hitbox%20Expander.lua")
+
+addscriptexist(5956785391, "Project Slayers: Kill All Mobs, Kill Aura", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Project%20Slayers%20Kill%20All%20Mobs%20Kill%20Aura.lua")
