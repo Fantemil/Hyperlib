@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 15:01:20"
+lastupdate = "GMT +1: 08.03.2023 15:01:24"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -8424,3 +8424,5 @@ addscriptexist(8506369721, "dig to china: Auto Farm, Auto Rejoin", "pulled from 
 addscriptexist(10875701453, "Edward the Man-Eating Train: Semi God mode", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Edward%20the%20ManEating%20Train%20Semi%20God%20mode.lua")
 
 addscriptexist(10875701453, "Edward the Man-Eating Train: Gun mod", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Edward%20the%20ManEating%20Train%20Gun%20mod.lua")
+
+addscript(8590762007, "Current Game","normal real time strategy game: See other players money", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/normal%20real%20time%20strategy%20game%20See%20other%20players%20money.lua")
