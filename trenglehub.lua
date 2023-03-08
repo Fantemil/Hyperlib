@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 17:58:32"
+lastupdate = "GMT +1: 08.03.2023 17:58:36"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -10962,3 +10962,5 @@ addscriptexist(9598746251, "Home Run Simulator: Auto Home Run, Auto rebirth, Aut
 addscript(10912060909, "Current Game","Black Adam Experience: Get All Items, Bolts & Complete The Game", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Black%20Adam%20Experience%20Get%20All%20Items%20Bolts%20%20Complete%20The%20Game.lua")
 
 addscript(8077862388, "Current Game","The W: Silent Aim, Fly, No Ragdoll, Gun Mods & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/The%20W%20Silent%20Aim%20Fly%20No%20Ragdoll%20Gun%20Mods%20%20More.lua")
+
+addscriptexist(8884334497, "Mining Clicker Simulator: Auto Click, Auto Rebirth, WalkSpeed", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mining%20Clicker%20Simulator%20Auto%20Click%20Auto%20Rebirth%20WalkSpeed.lua")
