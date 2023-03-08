@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 18:27:23"
+lastupdate = "GMT +1: 08.03.2023 18:27:28"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -11674,3 +11674,5 @@ addscript(10430505147, "Current Game","Skateman Simulator: Auto Farm, Auto Ramp,
 addscriptexist(9941633436, "Rank Simulator: Infinty Gems, Auto Click", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Rank%20Simulator%20Infinty%20Gems%20Auto%20Click.lua")
 
 addscriptexist(537413528, "Build A Boat For Treasure: Auto Farm, Gravity & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Build%20A%20Boat%20For%20Treasure%20Auto%20Farm%20Gravity%20%20More.lua")
+
+addscript(2580982329, "Current Game","Texting Simulator: Auto Text, Auto Redeem All Codes & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Texting%20Simulator%20Auto%20Text%20Auto%20Redeem%20All%20Codes%20%20More.lua")
