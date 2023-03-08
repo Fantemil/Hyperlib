@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 14:38:40"
+lastupdate = "GMT +1: 08.03.2023 14:38:44"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -7812,3 +7812,5 @@ addscriptexist(9224601490, "Fruit Battlegrounds: Auto Farm Exp, WalkSpeed. Hop S
 addscriptexist(7305309231, "Taxi Boss: Remove Fog, Auto Presents, Auto Taxi", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Taxi%20Boss%20Remove%20Fog%20Auto%20Presents%20Auto%20Taxi.lua")
 
 addscriptexist(6808416928, "Aimblox BETA: Silent Aimbot, FOV, ESP", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Aimblox%20BETA%20Silent%20Aimbot%20FOV%20ESP.lua")
+
+addscriptexist(6403373529, "Slap Battles: Slap Aura, Anti Aim, Auto Heal", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Slap%20Battles%20Slap%20Aura%20Anti%20Aim%20Auto%20Heal.lua")
