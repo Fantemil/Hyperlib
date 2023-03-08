@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 20:37:10"
+lastupdate = "GMT +1: 08.03.2023 20:37:14"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -14154,3 +14154,5 @@ addscriptuniversal("Roblox Universal Script [Fps Boost]", "pulled from rbxscript
 addscriptexist(6299805723, "Anime Fighters Simulator [Auto Farm, AutoClick]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime%20Fighters%20Simulator%20Auto%20Farm%20AutoClick.lua")
 
 addscriptexist(8737602449, "PLS DONATE [Server Hop, AutoBeg]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PLS%20DONATE%20Server%20Hop%20AutoBeg.lua")
+
+addscriptexist(3101667897, "Legends Of Speed [Auto Hoops, AutoRace]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Legends%20Of%20Speed%20Auto%20Hoops%20AutoRace.lua")
