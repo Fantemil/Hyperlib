@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 19:32:12"
+lastupdate = "GMT +1: 08.03.2023 19:32:23"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -13028,3 +13028,5 @@ addscriptexist(10861112990, "Anime Artifacts Simulator 2: Infinite coins", "pull
 addscriptexist(2537430692, "Jenga: Tp Tool, Tp To Destroyer & more", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Jenga%20Tp%20Tool%20Tp%20To%20Destroyer%20%20more.lua")
 
 addscriptuniversal("Universal Explorer", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Explorer.lua")
+
+addscriptexist(3351674303, "Driving Empire: Fast Auto Farm, Car Mods, Auto Race", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Driving%20Empire%20Fast%20Auto%20Farm%20Car%20Mods%20Auto%20Race.lua")
