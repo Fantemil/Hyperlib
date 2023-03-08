@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 12:41:16"
+lastupdate = "GMT +1: 08.03.2023 12:41:20"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -6442,3 +6442,5 @@ addscriptexist(6447798030, "Funky Friday: Finish Obby, Auto Player", "pulled fro
 addscriptexist(7525610732, "Kaizen: Auto Farm, Attack Options, Add Points", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Kaizen%20Auto%20Farm%20Attack%20Options%20Add%20Points.lua")
 
 addscriptexist(6918802270, "Project New World: Auto Quest Farm, Auto Equip Weapon, Auto Upgrade Selected", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Project%20New%20World%20Auto%20Quest%20Farm%20Auto%20Equip%20Weapon%20Auto%20Upgrade%20Selected.lua")
+
+addscriptexist(6679968919, "Fly Race: Auto Win, Auto Rebirth, Auto Collect Orbs", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Fly%20Race%20Auto%20Win%20Auto%20Rebirth%20Auto%20Collect%20Orbs.lua")
