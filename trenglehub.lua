@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 07:02:16"
+lastupdate = "GMT +1: 08.03.2023 07:02:21"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -5374,3 +5374,5 @@ addscriptuniversal("Universal Mouse icon changer", "pulled from rbxscript.com", 
 addscriptexist(6125589657, "Touch Football: Infinity Money, Anti Afk, Walkspeed", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Touch%20Football%20Infinity%20Money%20Anti%20Afk%20Walkspeed.lua")
 
 addscript(6170705260, "Current Game","Blending Simulator 2: Auto Farm, Auto Blend", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blending%20Simulator%20%20Auto%20Farm%20Auto%20Blend.lua")
+
+addscriptuniversal("Universal Fly Gui", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Fly%20Gui.lua")
