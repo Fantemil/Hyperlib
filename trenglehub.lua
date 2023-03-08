@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 17:02:01"
+lastupdate = "GMT +1: 08.03.2023 17:02:06"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -9526,3 +9526,5 @@ addscriptexist(10723695195, "Anime Evolution Simulator: Auto Collect Coins, Auto
 addscriptexist(10925589760, "Merge Simulator: Auto Upgrades, Auto Click Blocks, Auto Hatch", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Merge%20Simulator%20Auto%20Upgrades%20Auto%20Click%20Blocks%20Auto%20Hatch.lua")
 
 addscriptuniversal("Universal Virus Spamer", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Virus%20Spamer.lua")
+
+addscriptuniversal("AceHub: Script Hub", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AceHub%20Script%20Hub.lua")
