@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 18:08:47"
+lastupdate = "GMT +1: 08.03.2023 18:08:51"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -11218,3 +11218,5 @@ addscriptexist(8726743209, "Refinery Caves: Auto Sell Ores", "pulled from rbxscr
 addscriptexist(8726743209, "Refinery Caves: Auto Ore Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Refinery%20Caves%20Auto%20Ore%20Farm.lua")
 
 addscriptexist(8596797381, "Northside Chicago: Infinite Stamina, Map Destruction, Audio Abuse", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Northside%20Chicago%20Infinite%20Stamina%20Map%20Destruction%20Audio%20Abuse.lua")
+
+addscriptexist(1240123653, "Zombie Attack: Auto Farm, Silent Aim, Overpowered Level 100 In 15 Mins", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Zombie%20Attack%20Auto%20Farm%20Silent%20Aim%20Overpowered%20Level%20%20In%20%20Mins.lua")
