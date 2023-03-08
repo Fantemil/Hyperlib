@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 06:50:39"
+lastupdate = "GMT +1: 08.03.2023 06:50:47"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -5024,3 +5024,5 @@ addscriptexist(10821317529, "Pickaxe Mining Simulator: Auto Mine, Auto Collect D
 addscriptexist(10462101644, "Tall Man Run: Kick all, Destroy Server", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tall%20Man%20Run%20Kick%20all%20Destroy%20Server.lua")
 
 addscript(10723695195, "Current Game","Anime Evolution Simulator: Auto Train Power, Auto Collect Drops, Auto Rank Up", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime%20Evolution%20Simulator%20Auto%20Train%20Power%20Auto%20Collect%20Drops%20Auto%20Rank%20Up.lua")
+
+addscriptexist(3527629287, "Big Paintball! Rapid Fire, One Shot, ESP", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Big%20Paintball%20Rapid%20Fire%20One%20Shot%20ESP.lua")
