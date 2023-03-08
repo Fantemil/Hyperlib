@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 19:06:21"
+lastupdate = "GMT +1: 08.03.2023 19:06:25"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -12468,3 +12468,5 @@ addscriptexist(6284583030, "Pet Simulator X: Auto Farm, Auto Collect Loot Bag & 
 addscriptexist(537413528, "Build A Boat For Treshure: Auto Farm, Auto Buy, No Water Damage", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Build%20A%20Boat%20For%20Treshure%20Auto%20Farm%20Auto%20Buy%20No%20Water%20Damage.lua")
 
 addscriptexist(9993529229, "Sheep Tycoon: Inf Wool", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sheep%20Tycoon%20Inf%20Wool.lua")
+
+addscriptuniversal("Universal Anti Ban", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Anti%20Ban.lua")
