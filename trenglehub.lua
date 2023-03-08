@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 19:53:21"
+lastupdate = "GMT +1: 08.03.2023 19:53:30"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -13264,3 +13264,5 @@ addscriptexist(5993942214, "Rush Point | Skin Changer", "pulled from rbxscript.c
 addscript(1344307396, "Current Game","Destroy the Noob | Give All Items", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Destroy%20the%20Noob%20%20Give%20All%20Items.lua")
 
 addscriptexist(4522347649, "[FREE ADMIN] | Server Lagger", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FREE%20ADMIN%20%20Server%20Lagger.lua")
+
+addscript(7603178367, "Current Game","Chipotle Burrito Builder | Auto Complete Event", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Chipotle%20Burrito%20Builder%20%20Auto%20Complete%20Event.lua")
