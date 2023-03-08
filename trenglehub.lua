@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 07:13:03"
+lastupdate = "GMT +1: 08.03.2023 07:13:07"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -5704,3 +5704,5 @@ addscriptexist(10456235914, "Redwood Prison Reworked: Kill Player, Void Player &
 addscriptexist(6361937392, "Steal Time From Others & Be The Best: Teleport Aura", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Steal%20Time%20From%20Others%20%20Be%20The%20Best%20Teleport%20Aura.lua")
 
 addscriptexist(730951264, "The Maze: Anti Jumpscare, Infinite Throw Axe & More!", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/The%20Maze%20Anti%20Jumpscare%20Infinite%20Throw%20Axe%20%20More.lua")
+
+addscriptexist(335760407, "TPS: Street Soccer: Auto Kick", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TPS%20Street%20Soccer%20Auto%20Kick.lua")
