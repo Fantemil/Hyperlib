@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 15:05:32"
+lastupdate = "GMT +1: 08.03.2023 15:05:36"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -8534,3 +8534,5 @@ addscriptuniversal("Universal Free Cam", "pulled from rbxscript.com", "https://r
 addscriptexist(11382413635, "Human Cannon: Multiple Money Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Human%20Cannon%20Multiple%20Money%20Farm.lua")
 
 addscriptexist(6284583030, "Pet Simulator X: Auto Farm, Auto Eggs, Walkspeed", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pet%20Simulator%20X%20Auto%20Farm%20Auto%20Eggs%20Walkspeed.lua")
+
+addscriptexist(11400511154, "Monkey Tycoon: Auto Merge, Auto Sell, Get Bananas", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Monkey%20Tycoon%20Auto%20Merge%20Auto%20Sell%20Get%20Bananas.lua")
