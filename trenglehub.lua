@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 07:06:11"
+lastupdate = "GMT +1: 08.03.2023 07:06:14"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -5494,3 +5494,5 @@ addscript(60654525, "Current Game","The Legendary Swords RPG: Mystic Arcane Swor
 addscript(9353921664, "Current Game","find milk at the store and leave your kids obby: Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/find%20milk%20at%20the%20store%20and%20leave%20your%20kids%20obby%20Auto%20Farm.lua")
 
 addscriptexist(6441847031, "CHAOS: Kill Player. Godmode & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CHAOS%20Kill%20Player%20Godmode%20%20More.lua")
+
+addscriptexist(6284583030, "Pet Simulator X: Webhook, Notify if kicked, Macro", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pet%20Simulator%20X%20Webhook%20Notify%20if%20kicked%20Macro.lua")
