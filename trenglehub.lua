@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 18:05:25"
+lastupdate = "GMT +1: 08.03.2023 18:05:31"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -11136,3 +11136,5 @@ addscriptexist(8908228901, "SharkBite 2: Inf teeth, Inf ammo, Auto Win", "pulled
 addscriptexist(8908228901, "SharkBite 2: Fast Farm teeth, Insta Kill Shark, Esp", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SharkBite%20%20Fast%20Farm%20teeth%20Insta%20Kill%20Shark%20Esp.lua")
 
 addscriptexist(10977918334, "Merge Droppers!: Unlimited Cash", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Merge%20Droppers%20Unlimited%20Cash.lua")
+
+addscriptexist(7177496972, "Anime Warriors: Auto Farm GUI", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime%20Warriors%20Auto%20Farm%20GUI.lua")
