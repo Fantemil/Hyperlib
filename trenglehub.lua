@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 19:37:22"
+lastupdate = "GMT +1: 08.03.2023 19:37:28"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -13144,3 +13144,5 @@ addscript(7419509075#ropro-quick-search, "Current Game","cart ride around used c
 addscriptexist(3177438863, "Dragon Blox: Auto Quest, Auto Farm, AutoRebirth", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Dragon%20Blox%20Auto%20Quest%20Auto%20Farm%20AutoRebirth.lua")
 
 addhub("Roblox Infinity Hub", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Roblox%20Infinity%20Hub.lua")
+
+addhub("Universal Report Abuse Anti Spy", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Report%20Abuse%20Anti%20Spy.lua")
