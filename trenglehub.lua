@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 18:21:31"
+lastupdate = "GMT +1: 08.03.2023 18:21:40"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -11530,3 +11530,5 @@ addscriptexist(10925589760, "Merge Simulator: Auto Marge, Auto buy, Auto rebirth
 addscriptexist(8482713490, "Forgotten Memories: Animatronic Esp & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Forgotten%20Memories%20Animatronic%20Esp%20%20More.lua")
 
 addscriptexist(2534724415, "Emergency Response Liberty County: Anti Arrest - Anti Taze & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Emergency%20Response%20Liberty%20County%20Anti%20Arrest%20%20Anti%20Taze%20%20More.lua")
+
+addscriptexist(9285238704, "Race Clicker: Halloween Event Fastest Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Race%20Clicker%20Halloween%20Event%20Fastest%20Auto%20Farm.lua")
