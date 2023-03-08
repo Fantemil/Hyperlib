@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 17:16:58"
+lastupdate = "GMT +1: 08.03.2023 17:17:03"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -9912,3 +9912,5 @@ addscriptexist(3101667897, "Legends Of Speed: Get All Hoops And Orbs, Walkspeed,
 addscriptexist(155615604, "Prison Life: Walkspeed, Give All Guns, Noclip", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Prison%20Life%20Walkspeed%20Give%20All%20Guns%20Noclip.lua")
 
 addscriptexist(9049840490, "Sonic Speed Simulator: Auto Collect, Auto Rebirth, Auto Steps", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sonic%20Speed%20Simulator%20Auto%20Collect%20Auto%20Rebirth%20Auto%20Steps.lua")
+
+addscriptexist(185655149, "Welcome to Bloxburg: Hide Player, Auto Farm, Anti Ban", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Welcome%20to%20Bloxburg%20Hide%20Player%20Auto%20Farm%20Anti%20Ban.lua")
