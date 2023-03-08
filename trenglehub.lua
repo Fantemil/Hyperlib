@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 21:05:57"
+lastupdate = "GMT +1: 08.03.2023 21:06:02"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -14864,3 +14864,5 @@ addscriptexist(863266079, "Apocalypse Rising 2 [Inf Jump, Aimbot]", "pulled from
 addscriptuniversal("Roblox Universal Script [Free Animation]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Roblox%20Universal%20Script%20Free%20Animation.lua")
 
 addscriptexist(10047913840, "Training Simulator [Remote Spy]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Training%20Simulator%20Remote%20Spy.lua")
+
+addscriptexist(3823781113, "Saber Simulator [Auto Clicker]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Saber%20Simulator%20Auto%20Clicker.lua")
