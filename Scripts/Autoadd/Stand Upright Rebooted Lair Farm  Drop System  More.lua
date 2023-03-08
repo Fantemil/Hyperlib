@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://polar7.wtf/ProjectPolar/StandUpright.lua"))()
