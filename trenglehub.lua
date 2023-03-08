@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 21:02:04"
+lastupdate = "GMT +1: 08.03.2023 21:02:08"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -14772,3 +14772,5 @@ addscript(9970551995, "Current Game","Touch The Grass Simulator! [AutoHatch, Kil
 addscriptexist(10087074695, "Knife Strife! [KillAll, Instant Kills]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Knife%20Strife%20KillAll%20Instant%20Kills.lua")
 
 addscriptexist(698448212, "RoBeats [AutoPlay]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RoBeats%20AutoPlay.lua")
+
+addscriptexist(445664957, "Parkour [Bag Esp]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Parkour%20Bag%20Esp.lua")
