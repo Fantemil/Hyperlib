@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 12:50:08"
+lastupdate = "GMT +1: 08.03.2023 12:50:12"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -6672,3 +6672,5 @@ addscriptexist(9143982021, "Sword Battles: Get Most Badges", "pulled from rbxscr
 addhub("Games Hub: 10+ Games", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Games%20Hub%20%20Games.lua")
 
 addscriptexist(286090429, "Arsenal: Silent AIm, Godmode & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Arsenal%20Silent%20AIm%20Godmode%20%20More.lua")
+
+addhub("Nactical Z: Walkspeed Slider, Infinity Yield, Ace Hub", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Nactical%20Z%20Walkspeed%20Slider%20Infinity%20Yield%20Ace%20Hub.lua")
