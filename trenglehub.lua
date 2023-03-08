@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 20:42:51"
+lastupdate = "GMT +1: 08.03.2023 20:42:56"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -14298,3 +14298,5 @@ addscriptuniversal("Roblox Universal Script [Gun Modifier]", "pulled from rbxscr
 addscript(5326405001, "Current Game","Base Battles (Fixed) [Silent Aim, Esp]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Base%20Battles%20Fixed%20Silent%20Aim%20Esp.lua")
 
 addscript(6452292184, "Current Game","Speed Runner! [AutoFarm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Speed%20Runner%20AutoFarm.lua")
+
+addscriptexist(3956818381, "Ninja Legends [Auto Clicker]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ninja%20Legends%20Auto%20Clicker.lua")
