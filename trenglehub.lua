@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 16:51:52"
+lastupdate = "GMT +1: 08.03.2023 16:51:58"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -9266,3 +9266,5 @@ addscriptexist(10861112990, "Anime Artifacts Simulator: Auto Farm, Auto Kill Bos
 addscriptuniversal("Universal Forcefield", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Forcefield.lua")
 
 addscriptuniversal("Statue Extras: Anime Games", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Statue%20Extras%20Anime%20Games.lua")
+
+addscript(9486506804, "Current Game","FIFA World: Endless amount of Money", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FIFA%20World%20Endless%20amount%20of%20Money.lua")
