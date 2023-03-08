@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 16:40:53"
+lastupdate = "GMT +1: 08.03.2023 16:41:00"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -9000,3 +9000,5 @@ addscriptexist(6284583030, "Pet Simulator X: New Free Gui, Auto Farm", "pulled f
 addscript(6099256669, "Current Game","A Menacing Timeline: Items Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/A%20Menacing%20Timeline%20Items%20Auto%20Farm.lua")
 
 addscriptexist(5811374318, "Dragon Piece: Infinity Legendary Fruits", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Dragon%20Piece%20Infinity%20Legendary%20Fruits.lua")
+
+addscriptexist(8377686524, "Classic Undertale: Last Reset: Weapons Spawner", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Classic%20Undertale%20Last%20Reset%20Weapons%20Spawner.lua")
