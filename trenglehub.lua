@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 20:15:52"
+lastupdate = "GMT +1: 08.03.2023 20:15:56"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -13596,3 +13596,5 @@ addscriptexist(9264596435, "Idle Heroes Simulator | Auto Farm, Auto Upgrade", "p
 addscript(10508296878, "Current Game","Murder Mystery 7 | Redeem All Codes", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Murder%20Mystery%20%20%20Redeem%20All%20Codes.lua")
 
 addscriptexist(1224212277, "Mad City | AutoFarm EXP", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mad%20City%20%20AutoFarm%20EXP.lua")
+
+addscriptexist(3527629287, "BIG Paintball! | Unlock All", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BIG%20Paintball%20%20Unlock%20All.lua")
