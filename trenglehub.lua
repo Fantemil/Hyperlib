@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 13:02:58"
+lastupdate = "GMT +1: 08.03.2023 13:03:02"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -7002,3 +7002,5 @@ addscriptexist(11040063484, "Sword fighters Simulator: Auto Farm Near, Auto Farm
 addscript(11541764080, "Current Game","Snowman Tycoon: Auto Merge Droppers, Auto Grab Drops, Auto Deposit", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Snowman%20Tycoon%20Auto%20Merge%20Droppers%20Auto%20Grab%20Drops%20Auto%20Deposit.lua")
 
 addscriptexist(10967799786, "Pet Lifting Simulator: Auto Farm Coins, Auto Rebirth, Auto Taps", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pet%20Lifting%20Simulator%20Auto%20Farm%20Coins%20Auto%20Rebirth%20Auto%20Taps.lua")
+
+addscriptexist(11216791462, "Hungry Pig: Auto Grab Food, Walkspeed, Infinity Coins", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Hungry%20Pig%20Auto%20Grab%20Food%20Walkspeed%20Infinity%20Coins.lua")
