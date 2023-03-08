@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 19:16:17"
+lastupdate = "GMT +1: 08.03.2023 19:16:22"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -12676,3 +12676,5 @@ addscriptuniversal("Universal Spawn Soldier", "pulled from rbxscript.com", "http
 addscriptuniversal("Universal Better FPS", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Better%20FPS.lua")
 
 addscriptuniversal("Roblox: Chat bot", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Roblox%20Chat%20bot.lua")
+
+addscriptexist(4872321990, "Islands: buy pineapple seeds", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Islands%20buy%20pineapple%20seeds.lua")
