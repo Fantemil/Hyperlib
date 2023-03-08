@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 18:30:07"
+lastupdate = "GMT +1: 08.03.2023 18:30:13"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -11738,3 +11738,5 @@ addscriptexist(69184822, "Theme Park Tycoon 2: Teleport Menu, Clean Park, Edit N
 addscriptexist(9506026642, "Reaper Clicker: Teleport To Last Island", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Reaper%20Clicker%20Teleport%20To%20Last%20Island.lua")
 
 addscriptexist(9506026642, "Reaper Clicker: Auto Rebirth", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Reaper%20Clicker%20Auto%20Rebirth.lua")
+
+addscriptexist(2474168535, "Westbound: Silent Aim, Esp, No Recoil", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Westbound%20Silent%20Aim%20Esp%20No%20Recoil.lua")
