@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 13:15:22"
+lastupdate = "GMT +1: 08.03.2023 13:15:26"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -7326,3 +7326,5 @@ addscriptexist(2986677229, "Giant Simulator: Auto Rebirth", "pulled from rbxscri
 addscriptexist(1962086868, "Tower of Hell: Rb Battles- Finish Event, Pc/Mobile", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tower%20of%20Hell%20Rb%20Battles%20Finish%20Event%20PcMobile.lua")
 
 addscriptexist(10404327868, "Timber Champions: Auto Farm, Collect Orbs, Auto Buy Eggs", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Timber%20Champions%20Auto%20Farm%20Collect%20Orbs%20Auto%20Buy%20Eggs.lua")
+
+addscriptexist(2809202155, "Your Bizarre Adventure: Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Your%20Bizarre%20Adventure%20Auto%20Farm.lua")
