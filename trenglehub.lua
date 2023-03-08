@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 06:40:19"
+lastupdate = "GMT +1: 08.03.2023 06:40:23"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -4702,3 +4702,5 @@ addscriptexist(155615604, "Prison Life: Summon AK-47", "pulled from rbxscript.co
 addscriptexist(137877687, "RoCitizens: Data game changer", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RoCitizens%20Data%20game%20changer.lua")
 
 addscriptexist(155615604, "Prison Life: Summon M9", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Prison%20Life%20Summon%20M.lua")
+
+addscriptexist(10277607801, "Apeirophobia: Fullbright, ESP & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Apeirophobia%20Fullbright%20ESP%20%20More.lua")
