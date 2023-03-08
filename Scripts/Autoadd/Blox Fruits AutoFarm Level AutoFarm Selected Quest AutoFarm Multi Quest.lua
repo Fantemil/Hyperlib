@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://gitlab.com/L1ZOT/skays-hub/-/raw/main/Script/"..game.PlaceId.."/Script.lua"))()
