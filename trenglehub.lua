@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 12:56:45"
+lastupdate = "GMT +1: 08.03.2023 12:56:49"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -6842,3 +6842,5 @@ addscript(1662219031, "Current Game","Life in Paradise: Parts Spamer", "pulled f
 addscriptexist(9579228669, "Everyday Car Driving: Bug Server", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Everyday%20Car%20Driving%20Bug%20Server.lua")
 
 addscriptexist(6512923934, "Ultra Clickers Simulator! Auto Clicker", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ultra%20Clickers%20Simulator%20Auto%20Clicker.lua")
+
+addscriptexist(218377574, "Admin Simulator: Auto Rebirth, Auto Click", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Admin%20Simulator%20Auto%20Rebirth%20Auto%20Click.lua")
