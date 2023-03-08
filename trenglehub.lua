@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 20:53:38"
+lastupdate = "GMT +1: 08.03.2023 20:53:42"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -14562,3 +14562,5 @@ addscriptexist(2665326799, "Find The Button [Esp, Inf Jump]", "pulled from rbxsc
 addscriptexist(8540346411, "Rebirth Champions X [AutoRebrith, AutoEquipBestPets]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Rebirth%20Champions%20X%20AutoRebrith%20AutoEquipBestPets.lua")
 
 addscriptexist(6608498361, "cursed tank simulator [Big Crew]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/cursed%20tank%20simulator%20Big%20Crew.lua")
+
+addscriptexist(8737602449, "PLS DONATE [Text Bypass]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PLS%20DONATE%20Text%20Bypass.lua")
