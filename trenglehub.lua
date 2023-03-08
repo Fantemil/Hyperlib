@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 17:29:49"
+lastupdate = "GMT +1: 08.03.2023 17:29:54"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -10240,3 +10240,5 @@ addscript(8369888266, "Current Game","RedCliff: Custom Hair, Super Happy Face, R
 addscriptexist(10320240572, "Race Clicker: Auto Complete, Auto Prestige, Auto Speed", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Race%20Clicker%20Auto%20Complete%20Auto%20Prestige%20Auto%20Speed.lua")
 
 addscript(5116869569, "Current Game","Doodle World: Storage Acces Button", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Doodle%20World%20Storage%20Acces%20Button.lua")
+
+addscriptexist(10652184030, "Jump Clicker: Infinity Stats", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Jump%20Clicker%20Infinity%20Stats.lua")
