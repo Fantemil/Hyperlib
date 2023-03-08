@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 18:40:15"
+lastupdate = "GMT +1: 08.03.2023 18:40:24"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -11932,3 +11932,5 @@ addscriptexist(7026949294, "Sword Simulator: Teleports, Auto Achievements, Kill 
 addscriptexist(2809202155, "Your Bizarre Adventure: Stand Farm, Item Farm, Stand Control", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Your%20Bizarre%20Adventure%20Stand%20Farm%20Item%20Farm%20Stand%20Control.lua")
 
 addscriptexist(3198259055, "SoulShatters Test Place: Free Dust Sans", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SoulShatters%20Test%20Place%20Free%20Dust%20Sans.lua")
+
+addscript(4499822233, "Current Game","Star Wars Bounty Hunters: Outer Rim: Infinity Levels", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Star%20Wars%20Bounty%20Hunters%20Outer%20Rim%20Infinity%20Levels.lua")
