@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 19:18:55"
+lastupdate = "GMT +1: 08.03.2023 19:19:02"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -12740,3 +12740,5 @@ addscriptexist(9649680488, "Backrooms Race Clicker: Auto Farm Wins", "pulled fro
 addscriptuniversal("Universal Chat Hax", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Chat%20Hax.lua")
 
 addscriptexist(6441847031, "CHAOS: Give Tools", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CHAOS%20Give%20Tools.lua")
+
+addscriptexist(9872472334, "Evade: Money Fark, Afk Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Evade%20Money%20Fark%20Afk%20Farm.lua")
