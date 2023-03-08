@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 07:03:15"
+lastupdate = "GMT +1: 08.03.2023 07:03:19"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -5402,3 +5402,5 @@ addscript(10681622988, "Current Game","Easy Jump Clicker: Auto Click, Auto Win, 
 addscriptexist(5712833750, "Animal Simulator: Auto Farm, Name Features, Firework Spam", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Animal%20Simulator%20Auto%20Farm%20Name%20Features%20Firework%20Spam.lua")
 
 addscript(1345139196, "Current Game","Treasure Hunt Simulator: Auto Farm Chests, Auto Open Crates, Sell When Full", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Treasure%20Hunt%20Simulator%20Auto%20Farm%20Chests%20Auto%20Open%20Crates%20Sell%20When%20Full.lua")
+
+addscript(6198039277, "Current Game","Cyber City Tycoon: WalkSpeed, Auto Rob, Auto Buy Buttons", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Cyber%20City%20Tycoon%20WalkSpeed%20Auto%20Rob%20Auto%20Buy%20Buttons.lua")
