@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 17:48:27"
+lastupdate = "GMT +1: 08.03.2023 17:48:31"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -10706,3 +10706,5 @@ addscriptexist(9880062154, "The Last Strandeds: Kill Player", "pulled from rbxsc
 addscriptexist(8084034728, "Roblox but every second you become stronger: 10 Gems gift", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Roblox%20but%20every%20second%20you%20become%20stronger%20%20Gems%20gift.lua")
 
 addscriptexist(8084034728, "Roblox but every second you become stronger: Inf Gems", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Roblox%20but%20every%20second%20you%20become%20stronger%20Inf%20Gems.lua")
+
+addscriptexist(2753915549, "Blox Fruits: Auto Farm Chests, Teleports & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blox%20Fruits%20Auto%20Farm%20Chests%20Teleports%20%20More.lua")
