@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 17:15:18"
+lastupdate = "GMT +1: 08.03.2023 17:15:23"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -9866,3 +9866,5 @@ addscriptexist(9912491609, "How Far Can You Fly? AFK Farm", "pulled from rbxscri
 addscriptuniversal("Universal FE Baller", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20FE%20Baller.lua")
 
 addscriptexist(9498006165, "Tapping Simulator: Auto Tapper, Auto Claim Random Rewards", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tapping%20Simulator%20Auto%20Tapper%20Auto%20Claim%20Random%20Rewards.lua")
+
+addscriptexist(4520749081, "King Legacy Hub", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/King%20Legacy%20Hub.lua")
