@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/03koios/Loader/main/Loader.lua"))()
+loadstring(game:HttpGet(('https://raw.githubusercontent.com/naufalafif080419/NauHubLoadstring/main/Loadstring.lua')))()
