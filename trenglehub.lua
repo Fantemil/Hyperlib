@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 21:02:27"
+lastupdate = "GMT +1: 08.03.2023 21:02:31"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -14780,3 +14780,5 @@ addscriptexist(9980179145, "Speed Race Clicker [AutoFarm, AutoChest]", "pulled f
 addscriptexist(10087074695, "Knife Strife [Kill All]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Knife%20Strife%20Kill%20All.lua")
 
 addscriptexist(5116869569, "Doodle World [Auto Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Doodle%20World%20Auto%20Farm.lua")
+
+addscriptexist(662417684, "LUCKY BLOCKS Battlegrounds [Get all lucky blocks]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LUCKY%20BLOCKS%20Battlegrounds%20Get%20all%20lucky%20blocks.lua")
