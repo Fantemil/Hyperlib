@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 06:47:18"
+lastupdate = "GMT +1: 08.03.2023 06:47:22"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -4918,3 +4918,5 @@ addscriptexist(4588604953, "Criminality: Silent AIm, Kill Aura, Gun Mods", "pull
 addscript(11206345614, "Current Game","Every Second You Get Richer: Auto Clicker", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Every%20Second%20You%20Get%20Richer%20Auto%20Clicker.lua")
 
 addscriptexist(5780309044, "Stands Awakening: Infinity E, Auto Skills & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Stands%20Awakening%20Infinity%20E%20Auto%20Skills%20%20More.lua")
+
+addscript(4042427666, "Current Game","Anime Fighting Simulator: God Mode", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime%20Fighting%20Simulator%20God%20Mode.lua")
