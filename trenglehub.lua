@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 17:51:35"
+lastupdate = "GMT +1: 08.03.2023 17:51:39"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -10786,3 +10786,5 @@ addscriptexist(3652625463, "Lifting Simulator: Auto Lift, Auto Sell, Walkspeed",
 addscript(6484864709, "Current Game","Gym Tycoon: Auto Workout, Infinity Money, Auto Collect Drops", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Gym%20Tycoon%20Auto%20Workout%20Infinity%20Money%20Auto%20Collect%20Drops.lua")
 
 addscript(1828509885, "Current Game","Egg Farm Simulator: Auto Hire Heroes, Auto Farm Chickens, Auto Collect Meat", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Egg%20Farm%20Simulator%20Auto%20Hire%20Heroes%20Auto%20Farm%20Chickens%20Auto%20Collect%20Meat.lua")
+
+addscriptexist(6953291455, "Eating Simulator: Auto Egg, Auto Sell & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Eating%20Simulator%20Auto%20Egg%20Auto%20Sell%20%20More.lua")
