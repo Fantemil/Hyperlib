@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 14:31:18"
+lastupdate = "GMT +1: 08.03.2023 14:31:22"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -7620,3 +7620,5 @@ addscriptuniversal("Universal Save Place IDs of Universal Places", "pulled from 
 addscriptexist(6441847031, "CHAOS: Dupe, Small Hitboxes, Spam C4", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CHAOS%20Dupe%20Small%20Hitboxes%20Spam%20C.lua")
 
 addscriptexist(537413528, "Build A Boat For Treasure: Auto Farm, Auto Open Chest, Server Hop", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Build%20A%20Boat%20For%20Treasure%20Auto%20Farm%20Auto%20Open%20Chest%20Server%20Hop.lua")
+
+addscriptexist(8657766101, "Marvellous Playground: Get all characters", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Marvellous%20Playground%20Get%20all%20characters.lua")
