@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 15:09:55"
+lastupdate = "GMT +1: 08.03.2023 15:10:00"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -8650,3 +8650,5 @@ addscriptexist(292439477, "Phantom Forces: ESP, Gun modes, Hitboxes", "pulled fr
 addscript(9759729519, "Current Game","All Of Us Are Dead: Kill All, No Recoil, Infinity Ammo", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/All%20Of%20Us%20Are%20Dead%20Kill%20All%20No%20Recoil%20Infinity%20Ammo.lua")
 
 addscriptuniversal("Universal CPU/GPU Saver", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20CPUGPU%20Saver.lua")
+
+addscriptexist(10041108328, "Dark Life: Printer Speed, Player ESP, Printer Steal", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Dark%20Life%20Printer%20Speed%20Player%20ESP%20Printer%20Steal.lua")
