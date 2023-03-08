@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 18:08:00"
+lastupdate = "GMT +1: 08.03.2023 18:08:05"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -11198,3 +11198,5 @@ addscriptexist(9498006165, "Tapping Simulator: Halloween Autoclicker", "pulled f
 addscriptexist(9912491609, "How Far Can You Fly: Auto Farm, Auto Collect Bronze Coin, Auto Rebirth", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/How%20Far%20Can%20You%20Fly%20Auto%20Farm%20Auto%20Collect%20Bronze%20Coin%20Auto%20Rebirth.lua")
 
 addscriptexist(2788229376, "Da Hood: Cash Aura, Anti Stomp & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Da%20Hood%20Cash%20Aura%20Anti%20Stomp%20%20More.lua")
+
+addscriptexist(10925589760, "Merge Simulator: Auto Upgrade, Auto Merge, Auto Tap", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Merge%20Simulator%20Auto%20Upgrade%20Auto%20Merge%20Auto%20Tap.lua")
