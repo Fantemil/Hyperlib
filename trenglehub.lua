@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 20:00:02"
+lastupdate = "GMT +1: 08.03.2023 20:00:07"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -13404,3 +13404,5 @@ addscriptexist(2622527242, "SCP rBreach | Infinity Capacity, Esp, Walkspeed", "p
 addscriptexist(6229116934, "Hoopz | Aimbot, Reach, Walkspeed", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Hoopz%20%20Aimbot%20Reach%20Walkspeed.lua")
 
 addscriptexist(10192063645, "Thy hood | Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Thy%20hood%20%20Auto%20Farm.lua")
+
+addscript(2472820296, "Current Game","Ultimate Lifting Simulator | Get Strenght, AutoRebrith, Get Speed", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ultimate%20Lifting%20Simulator%20%20Get%20Strenght%20AutoRebrith%20Get%20Speed.lua")
