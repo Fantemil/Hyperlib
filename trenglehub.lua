@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 20:01:14"
+lastupdate = "GMT +1: 08.03.2023 20:01:20"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -13430,3 +13430,5 @@ addscriptexist(8737602449, "Pls Donate | Auto Thank, Auto Beg, AntiAfk", "pulled
 addscriptexist(537413528, "Build a boat for treasure | Auto Farm, AutoBuy, Teleports", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Build%20a%20boat%20for%20treasure%20%20Auto%20Farm%20AutoBuy%20Teleports.lua")
 
 addscriptexist(2551991523, "Broken Bones 4 | Auto Break Bones", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Broken%20Bones%20%20%20Auto%20Break%20Bones.lua")
+
+addscriptexist(648362523, "Breaking Point | Auto Win", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Breaking%20Point%20%20Auto%20Win.lua")
