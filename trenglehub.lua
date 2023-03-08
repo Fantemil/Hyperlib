@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 19:30:19"
+lastupdate = "GMT +1: 08.03.2023 19:30:23"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -12984,3 +12984,5 @@ addscriptexist(292439477, "Phantom Forces: Semi-Hitbox Extender Heads", "pulled 
 addscriptexist(536102540, "DBZ Final Stand: Auto Stats, Earth God Mode", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DBZ%20Final%20Stand%20Auto%20Stats%20Earth%20God%20Mode.lua")
 
 addscriptexist(1537690962, "Bee Swarm Simulator: Auto Farm, Auto Dig, Dig mode & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Bee%20Swarm%20Simulator%20Auto%20Farm%20Auto%20Dig%20Dig%20mode%20%20More.lua")
+
+addscriptexist(10758748100, "Killstreak Simulator Remake: Battle Axe, Add Kills", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Killstreak%20Simulator%20Remake%20Battle%20Axe%20Add%20Kills.lua")
