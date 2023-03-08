@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 14:48:32"
+lastupdate = "GMT +1: 08.03.2023 14:48:36"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -8084,3 +8084,5 @@ addscriptexist(662417684, "Lucky Blocks Battlegrounds: Infinite Items", "pulled 
 addscript(7370989846, "Current Game","Don't Make The Button Angry: Instant Coin, Remove Kill Parts & More!", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Dont%20Make%20The%20Button%20Angry%20Instant%20Coin%20Remove%20Kill%20Parts%20%20More.lua")
 
 addscriptexist(9551640993, "Mining Simulator 2: Christmas Event Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mining%20Simulator%20%20Christmas%20Event%20Auto%20Farm.lua")
+
+addscriptexist(292439477, "Phantom Forces: Bunny Hop", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Phantom%20Forces%20Bunny%20Hop.lua")
