@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 17:08:18"
+lastupdate = "GMT +1: 08.03.2023 17:08:22"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -9682,3 +9682,5 @@ addscript(7967092071, "Current Game","Guess the Emoji: Auto Guess Correct Answer
 addscriptexist(648362523, "Breaking Point: Auto Farm, Open Selected Crates.", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Breaking%20Point%20Auto%20Farm%20Open%20Selected%20Crates.lua")
 
 addscript(11372561941, "Current Game","How Far Can You Ragdol: Auto Collect Coins, Auto Upgrade Speed, Auto Rebirth", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/How%20Far%20Can%20You%20Ragdol%20Auto%20Collect%20Coins%20Auto%20Upgrade%20Speed%20Auto%20Rebirth.lua")
+
+addscriptexist(7991339063, "Rainbow Friends: Grab All Blocks", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Rainbow%20Friends%20Grab%20All%20Blocks.lua")
