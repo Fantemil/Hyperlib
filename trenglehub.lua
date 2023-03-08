@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 17:38:41"
+lastupdate = "GMT +1: 08.03.2023 17:38:45"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -10460,3 +10460,5 @@ addscriptexist(537413528, "Build A Boat For Treasure: Auto Farms, Auto Buy Chest
 addscriptexist(6298464951, "Roblox Is Unbreakable: Auto Farm Arrow, Auto Farm Requiem Arrow & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Roblox%20Is%20Unbreakable%20Auto%20Farm%20Arrow%20Auto%20Farm%20Requiem%20Arrow%20%20More.lua")
 
 addscript(5244411056, "Current Game","Bloxy Bingo: Auto Mark", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Bloxy%20Bingo%20Auto%20Mark.lua")
+
+addscriptexist(2753915549, "Blox Fruits: Extend NPC Hitbox, Extend Player Hitbox", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blox%20Fruits%20Extend%20NPC%20Hitbox%20Extend%20Player%20Hitbox.lua")
