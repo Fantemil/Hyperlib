@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 13:08:01"
+lastupdate = "GMT +1: 08.03.2023 13:08:07"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -7134,3 +7134,5 @@ addscriptexist(9224601490, "Fruit Battlegrounds: Pvp Esp", "pulled from rbxscrip
 addscriptexist(10875701453, "Edward the Man-Eating Train: Inf Stamina, Inf Ammo, Esp", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Edward%20the%20ManEating%20Train%20Inf%20Stamina%20Inf%20Ammo%20Esp.lua")
 
 addscriptexist(8540346411, "Rebirth Champions X: Auto Click, Auto Rebirth, Auto Open", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Rebirth%20Champions%20X%20Auto%20Click%20Auto%20Rebirth%20Auto%20Open.lua")
+
+addscriptexist(7305309231, "Taxi Boss: Auto Get Presents", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Taxi%20Boss%20Auto%20Get%20Presents.lua")
