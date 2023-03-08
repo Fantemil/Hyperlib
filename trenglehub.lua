@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 06:48:14"
+lastupdate = "GMT +1: 08.03.2023 06:48:17"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -4948,3 +4948,5 @@ addscriptexist(2809202155, "Your Bizarre Adventure: Skip Loading Screen", "pulle
 addscriptexist(11895850995, "Viet Pirates X: Infinite Beli, Infinity Fruits", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Viet%20Pirates%20X%20Infinite%20Beli%20Infinity%20Fruits.lua")
 
 addscriptuniversal("Universal Kings Universal ESP", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Kings%20Universal%20ESP.lua")
+
+addscript(6125809531, "Current Game","Untitled Attack on Titan: Infinite Health, Infinite Gas, Infinite Blade", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Untitled%20Attack%20on%20Titan%20Infinite%20Health%20Infinite%20Gas%20Infinite%20Blade.lua")
