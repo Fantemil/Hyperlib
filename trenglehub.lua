@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 20:46:08"
+lastupdate = "GMT +1: 08.03.2023 20:46:13"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -14378,3 +14378,5 @@ addscript(6973274562, "Current Game","Melee Mash Revenge! [Godmode, KillAll]", "
 addscriptexist(4616652839, "Shindo Life [AutoKey, AutoFarm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Shindo%20Life%20AutoKey%20AutoFarm.lua")
 
 addscript(9983979661, "Current Game","Dragon Farm Simulator [AutoCollect]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Dragon%20Farm%20Simulator%20AutoCollect.lua")
+
+addscriptexist(5777099015, "Cheese Escape [AutoCollectCheese, Godmode]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Cheese%20Escape%20AutoCollectCheese%20Godmode.lua")
