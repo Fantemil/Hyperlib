@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 19:11:51"
+lastupdate = "GMT +1: 08.03.2023 19:11:56"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -12586,3 +12586,5 @@ addscriptexist(9414511685, "Drive Cars Down A Hill: OP Auto Farm", "pulled from 
 addscriptexist(10447678365, "Dinosaur Simulator: Buy All Dinosaurs", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Dinosaur%20Simulator%20Buy%20All%20Dinosaurs.lua")
 
 addscriptexist(662417684, "LUCKY BLOCKS Battlegrounds: Spawn Block, Inf Jump, Fly", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LUCKY%20BLOCKS%20Battlegrounds%20Spawn%20Block%20Inf%20Jump%20Fly.lua")
+
+addscriptexist(4282985734, "Combat Warriors: Auto Parry, Auto Revive & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Combat%20Warriors%20Auto%20Parry%20Auto%20Revive%20%20More.lua")
