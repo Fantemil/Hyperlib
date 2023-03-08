@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 20:37:32"
+lastupdate = "GMT +1: 08.03.2023 20:37:36"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -14164,3 +14164,5 @@ addscriptuniversal("Roblox Universal Script [Catify Chat]", "pulled from rbxscri
 addscriptexist(5602055394, "Hood Modded [Silent Aim, Esp]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Hood%20Modded%20Silent%20Aim%20Esp.lua")
 
 addscriptuniversal("Roblox Universal Script [Off Chat]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Roblox%20Universal%20Script%20Off%20Chat.lua")
+
+addscriptexist(10347946161, "Rat Washing Tycoon [Auto Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Rat%20Washing%20Tycoon%20Auto%20Farm.lua")
