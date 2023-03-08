@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 17:23:52"
+lastupdate = "GMT +1: 08.03.2023 17:23:57"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -10088,3 +10088,5 @@ addscriptexist(10889408214, "DEFLECT: Auto-deflect", "pulled from rbxscript.com"
 addscriptexist(606849621, "Jailbreak: Silent Aim & Wallbang", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Jailbreak%20Silent%20Aim%20%20Wallbang.lua")
 
 addscriptexist(9912491609, "How Far Can You Fly: Auto Farm Studs, Auto Farm, Coins Auto Rebirth", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/How%20Far%20Can%20You%20Fly%20Auto%20Farm%20Studs%20Auto%20Farm%20Coins%20Auto%20Rebirth.lua")
+
+addscript(10523236737, "Current Game","Multiverse Battlegrounds: Kill All", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Multiverse%20Battlegrounds%20Kill%20All.lua")
