@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 12:22:13"
+lastupdate = "GMT +1: 08.03.2023 12:22:17"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -5924,3 +5924,5 @@ addscriptexist(71315343, "Dragon Ball Rage: Attack Auto Farm, Qi Auto Farm, Ener
 addscriptexist(10598587051, "Anime Clicker Fight: Auto Farm, Auto Click, Auto Open Eggs", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime%20Clicker%20Fight%20Auto%20Farm%20Auto%20Click%20Auto%20Open%20Eggs.lua")
 
 addscript(5670292785, "Current Game","Undead Defense Tycoon: Auto Kill, Auto Build, Walkspeed Slider", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Undead%20Defense%20Tycoon%20Auto%20Kill%20Auto%20Build%20Walkspeed%20Slider.lua")
+
+addscriptexist(5130598377, "A Universal Time: Auto Farm Bosses, Auto Use Skills, Walkspeed Slider", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/A%20Universal%20Time%20Auto%20Farm%20Bosses%20Auto%20Use%20Skills%20Walkspeed%20Slider.lua")
