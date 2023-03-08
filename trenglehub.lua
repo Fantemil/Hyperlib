@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 13:16:32"
+lastupdate = "GMT +1: 08.03.2023 13:16:36"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -7356,3 +7356,5 @@ addscriptexist(10028173768, "Queen Elizebeth Obby: Get Jump Coil", "pulled from 
 addscriptexist(9055015233, "My Hood: Teleport to Player, Super Human & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/My%20Hood%20Teleport%20to%20Player%20Super%20Human%20%20More.lua")
 
 addscript(9414511685, "Current Game","Drive Cars Down A Hill! Extra Vehicles", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Drive%20Cars%20Down%20A%20Hill%20Extra%20Vehicles.lua")
+
+addscriptexist(2753915549, "Blox Fruits: Anti Afk, Server Hop, Anti Kick", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blox%20Fruits%20Anti%20Afk%20Server%20Hop%20Anti%20Kick.lua")
