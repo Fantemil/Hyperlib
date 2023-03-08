@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 19:54:47"
+lastupdate = "GMT +1: 08.03.2023 19:54:53"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -13290,3 +13290,5 @@ addscriptexist(2788229376, "Da Hood | Fly, Pickup Knife, AutoBuy", "pulled from 
 addscriptexist(9431770682, "Lost Rooms [ESP, Fly, Farm and More]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Lost%20Rooms%20ESP%20Fly%20Farm%20and%20More.lua")
 
 addscriptexist(21532277, "Notoriety | Walkspeed, Fly, Tp Bypass", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Notoriety%20%20Walkspeed%20Fly%20Tp%20Bypass.lua")
+
+addscript(9072679513, "Current Game","Anime Impact Simulator! | Auto Train, Auto Rank, Auto Energy", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime%20Impact%20Simulator%20%20Auto%20Train%20Auto%20Rank%20Auto%20Energy.lua")
