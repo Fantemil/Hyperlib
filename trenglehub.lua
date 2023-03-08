@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 17:25:38"
+lastupdate = "GMT +1: 08.03.2023 17:25:42"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -10132,3 +10132,5 @@ addscriptexist(8908228901, "SharkBite 2: Auto Vase, ESP, Gun Mods", "pulled from
 addscriptexist(6361937392, "steal time from others & be the best: FOV, Reach", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/steal%20time%20from%20others%20%20be%20the%20best%20FOV%20Reach.lua")
 
 addscriptexist(155615604, "Prison Life: Kill All Players", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Prison%20Life%20Kill%20All%20Players.lua")
+
+addscriptexist(1458767429, "ABAABA: Candy Auto Grab", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ABAABA%20Candy%20Auto%20Grab.lua")
