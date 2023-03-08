@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 12:37:38"
+lastupdate = "GMT +1: 08.03.2023 12:37:42"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -6340,3 +6340,5 @@ addscriptexist(606849621, "Jailbreak: Change Walkspeed", "pulled from rbxscript.
 addscriptuniversal("Universal Speed Hack", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Speed%20Hack.lua")
 
 addscriptexist(218377574, "Admin Simulator: Admin Lvl Auto Farm, Kill, Fling", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Admin%20Simulator%20Admin%20Lvl%20Auto%20Farm%20Kill%20Fling.lua")
+
+addscriptexist(2534724415, "Emergency Response: Liberty County: ESP, Auto Farm, Aimbot", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Emergency%20Response%20Liberty%20County%20ESP%20Auto%20Farm%20Aimbot.lua")
