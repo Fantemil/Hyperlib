@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 12:46:22"
+lastupdate = "GMT +1: 08.03.2023 12:46:26"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -6586,3 +6586,5 @@ addscript(10956766913, "Current Game","SHEIN x Klarna Wonderland: Level Farm, Wa
 addscriptuniversal("Universal Voice Chat Bypass", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Voice%20Chat%20Bypass.lua")
 
 addscript(6607361476, "Current Game","Shopping Wars: RB Battles Event", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Shopping%20Wars%20RB%20Battles%20Event.lua")
+
+addscriptexist(6422372837, "Snipers [BETA]: Silent Aim, No Shot Cooldown & More!", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Snipers%20BETA%20Silent%20Aim%20No%20Shot%20Cooldown%20%20More.lua")
