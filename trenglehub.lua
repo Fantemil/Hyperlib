@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 06:47:30"
+lastupdate = "GMT +1: 08.03.2023 06:47:33"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -4924,3 +4924,5 @@ addscript(4042427666, "Current Game","Anime Fighting Simulator: God Mode", "pull
 addscriptexist(11216791462, "Hungry Pig: Buy All Items", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Hungry%20Pig%20Buy%20All%20Items.lua")
 
 addscriptuniversal("Universal Detect People", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Detect%20People.lua")
+
+addscriptexist(6872265039, "BedWars: Kil Aura", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BedWars%20Kil%20Aura.lua")
