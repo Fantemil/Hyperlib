@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 17:16:46"
+lastupdate = "GMT +1: 08.03.2023 17:16:51"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -9906,3 +9906,5 @@ addscriptexist(7047488135, "Speed Run Simulator: Orbs, Rings Collector", "pulled
 addscriptexist(8908228901, "SharkBite 2 [NEW]: Rigged Bite", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SharkBite%20%20NEW%20Rigged%20Bite.lua")
 
 addscript(10298335542, "Current Game","Basketball Stars 2: Handle Badge Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Basketball%20Stars%20%20Handle%20Badge%20Farm.lua")
+
+addscriptexist(3101667897, "Legends Of Speed: Get All Hoops And Orbs, Walkspeed, Jump Power", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Legends%20Of%20Speed%20Get%20All%20Hoops%20And%20Orbs%20Walkspeed%20Jump%20Power.lua")
