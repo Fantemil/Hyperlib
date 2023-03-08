@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 20:27:02"
+lastupdate = "GMT +1: 08.03.2023 20:27:06"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -13894,3 +13894,5 @@ addscriptexist(9431770682, "Lost Rooms [Inf Whistles, Fullbright]", "pulled from
 addscriptexist(662417684, "LUCKY BLOCKS Battlegrounds [Kill All - Kill Aura & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LUCKY%20BLOCKS%20Battlegrounds%20Kill%20All%20%20Kill%20Aura%20%20More.lua")
 
 addscriptexist(6753004901, "Swing City [Unlock All Skins & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Swing%20City%20Unlock%20All%20Skins%20%20More.lua")
+
+addscriptexist(7369208341, "SuperHero: Universe [1.7] [Infinite Coins]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SuperHero%20Universe%20%20Infinite%20Coins.lua")
