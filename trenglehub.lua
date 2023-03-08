@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 14:51:25"
+lastupdate = "GMT +1: 08.03.2023 14:51:29"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -8158,3 +8158,5 @@ addscriptexist(11040063484, "Sword Fighters Simulator: Auto Collect Coins, Auto 
 addscriptuniversal("Universal FE Portal Gun", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20FE%20Portal%20Gun.lua")
 
 addscriptexist(147848991, "Be A Parkour Ninja: Hitbox Expander", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Be%20A%20Parkour%20Ninja%20Hitbox%20Expander.lua")
+
+addscriptexist(537413528, "Build A Boat For Treasure: Auto Farm, Auto Buy, Teleports", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Build%20A%20Boat%20For%20Treasure%20Auto%20Farm%20Auto%20Buy%20Teleports.lua")
