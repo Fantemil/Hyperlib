@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 17:56:45"
+lastupdate = "GMT +1: 08.03.2023 17:56:49"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -10914,3 +10914,5 @@ addscriptexist(10977918334, "Merge Droppers: Unlimited Money & Auto Collect", "p
 addscriptexist(2727067538, "World // Zero: Fast Spinner", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/World%20%20Zero%20Fast%20Spinner.lua")
 
 addscriptexist(3823781113, "Saber Simulator: Auto Farm, Auto sell, Buy All", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Saber%20Simulator%20Auto%20Farm%20Auto%20sell%20Buy%20All.lua")
+
+addscriptexist(8884334497, "Mining Clicker Simulator: Auto Mine, Auto claim rewards, Auto rebirth", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mining%20Clicker%20Simulator%20Auto%20Mine%20Auto%20claim%20rewards%20Auto%20rebirth.lua")
