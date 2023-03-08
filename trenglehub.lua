@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 13:09:07"
+lastupdate = "GMT +1: 08.03.2023 13:09:11"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -7164,3 +7164,5 @@ addscript(5791762440, "Current Game","Sonic.exe survival: Immortal Mod", "pulled
 addscriptexist(2788229376, "Da Hood: Hitboxes, Keybinds, FOV", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Da%20Hood%20Hitboxes%20Keybinds%20FOV.lua")
 
 addscriptexist(2753915549, "Blox Fruits: Auto Farm Money", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blox%20Fruits%20Auto%20Farm%20Money.lua")
+
+addscript(11374030763, "Current Game","Strongest Tapper Simulator: Auto Taps", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Strongest%20Tapper%20Simulator%20Auto%20Taps.lua")
