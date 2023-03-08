@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 20:56:21"
+lastupdate = "GMT +1: 08.03.2023 20:56:25"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -14630,3 +14630,5 @@ addscriptexist(5023820864, "Trade Tower [Auto Click, Auto Upgrade]", "pulled fro
 addscriptexist(142823291, "Murder Mystery 2 [Coin Farm, Esp]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Murder%20Mystery%20%20Coin%20Farm%20Esp.lua")
 
 addscriptuniversal("Roblox Universal Script [Chat Bypass]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Roblox%20Universal%20Script%20Chat%20Bypass.lua")
+
+addscript(8876384197, "Current Game","steal time from others & flex your sword [Reach Script]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/steal%20time%20from%20others%20%20flex%20your%20sword%20Reach%20Script.lua")
