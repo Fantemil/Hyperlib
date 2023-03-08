@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 14:49:06"
+lastupdate = "GMT +1: 08.03.2023 14:49:10"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -8100,3 +8100,5 @@ addscript(6062820905, "Current Game","Ro Leveling: Infinite Abilities", "pulled 
 addscriptexist(9555732501, "Nen Fighting Simulator: Auto Farm Strenght, Auto Farm Agillity, Auto Farm Nen", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Nen%20Fighting%20Simulator%20Auto%20Farm%20Strenght%20Auto%20Farm%20Agillity%20Auto%20Farm%20Nen.lua")
 
 addscriptexist(8884334497, "Mining Clicker Simulator: Auto Buy Next Pickaxe, Auto Eggs, Auto Claim Rewards", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mining%20Clicker%20Simulator%20Auto%20Buy%20Next%20Pickaxe%20Auto%20Eggs%20Auto%20Claim%20Rewards.lua")
+
+addscriptexist(6299805723, "Anime Fighters Simulator: Auto Time Trail, Auto Skip Room, Auto Click Damage", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime%20Fighters%20Simulator%20Auto%20Time%20Trail%20Auto%20Skip%20Room%20Auto%20Click%20Damage.lua")
