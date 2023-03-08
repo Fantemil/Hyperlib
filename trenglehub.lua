@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 20:26:39"
+lastupdate = "GMT +1: 08.03.2023 20:26:43"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -13884,3 +13884,5 @@ addscriptexist(7369208341, "SuperHero: Universe [Inf Money]", "pulled from rbxsc
 addscriptexist(2066381781, "Deadly Sins Retribution [Auto Spin Race]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Deadly%20Sins%20Retribution%20Auto%20Spin%20Race.lua")
 
 addscriptexist(2066381781, "Deadly Sins Retribution [Auto Spin Magic]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Deadly%20Sins%20Retribution%20Auto%20Spin%20Magic.lua")
+
+addscriptexist(10484095306, "CLIMB 100.000 STAIRS TO VIP [Teleport to End]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CLIMB%20%20STAIRS%20TO%20VIP%20Teleport%20to%20End.lua")
