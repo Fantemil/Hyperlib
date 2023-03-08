@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 18:09:29"
+lastupdate = "GMT +1: 08.03.2023 18:09:33"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -11236,3 +11236,5 @@ addscriptexist(606849621, "Jailbreak: Infinity Nitro, Car Fly & More", "pulled f
 addscriptexist(2413927524, "The Rake REMASTERED: Player ESP, Rake Killaura, Bring Scraps", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/The%20Rake%20REMASTERED%20Player%20ESP%20Rake%20Killaura%20Bring%20Scraps.lua")
 
 addscript(10984838211, "Current Game","Battlefield Tycoon: Freeze Enemies, Really Op", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Battlefield%20Tycoon%20Freeze%20Enemies%20Really%20Op.lua")
+
+addscriptuniversal("Universal Join Admin Kicker", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Join%20Admin%20Kicker.lua")
