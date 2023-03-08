@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 18:00:15"
+lastupdate = "GMT +1: 08.03.2023 18:00:20"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -11004,3 +11004,5 @@ addscriptexist(10758111998, "Booga Booga REBORN: Kill Aura, Auto Pick Up, Auto C
 addscriptexist(9733390246, "Stair Tappers: Auto Tap, Auto Rebirth, Mute Music", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Stair%20Tappers%20Auto%20Tap%20Auto%20Rebirth%20Mute%20Music.lua")
 
 addscriptexist(10904953319, "Race Car Clickers: Unlimited Wins", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Race%20Car%20Clickers%20Unlimited%20Wins.lua")
+
+addscriptexist(10920409126, "Anime Fusion Tycoon: Infinity Ki", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime%20Fusion%20Tycoon%20Infinity%20Ki.lua")
