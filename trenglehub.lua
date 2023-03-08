@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 19:35:27"
+lastupdate = "GMT +1: 08.03.2023 19:35:32"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -13102,3 +13102,5 @@ addscriptexist(286090429, "Arsenal: Silent Aim, Visuals", "pulled from rbxscript
 addscriptexist(1962086868, "Tower of Hell: Godmode, Tp To Finish", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tower%20of%20Hell%20Godmode%20Tp%20To%20Finish.lua")
 
 addscriptexist(8396586868, "A 0ne Piece Game: Auto Quest, Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/A%20ne%20Piece%20Game%20Auto%20Quest%20Auto%20Farm.lua")
+
+addscriptexist(142823291, "Murder Mystery 2: Fly, Esp, Noclip", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Murder%20Mystery%20%20Fly%20Esp%20Noclip.lua")
