@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 06:58:02"
+lastupdate = "GMT +1: 08.03.2023 06:58:06"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -5248,3 +5248,5 @@ addscript(10840095864, "Current Game","Mission Mars: Get All Event Items", "pull
 addscriptexist(292439477, "Phantom Forces: Fast Animations", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Phantom%20Forces%20Fast%20Animations.lua")
 
 addscriptexist(11701792069, "Snow Plow Simulator: Auto Collect Presents", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Snow%20Plow%20Simulator%20Auto%20Collect%20Presents.lua")
+
+addscript(11523066819, "Current Game","Tower Merge Simulator: Auto Merge, Auto Click", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tower%20Merge%20Simulator%20Auto%20Merge%20Auto%20Click.lua")
