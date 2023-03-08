@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 13:14:42"
+lastupdate = "GMT +1: 08.03.2023 13:14:46"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -7308,3 +7308,5 @@ addscriptexist(2753915549, "Blox Fruits: Auto Farm Lvl, Fast Attack, Farm Chest"
 addscriptexist(2788229376, "Da Hood: Fly, Loopkill, Fling", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Da%20Hood%20Fly%20Loopkill%20Fling.lua")
 
 addscriptexist(13822889, "Lumber Tycoon 2: Flying, Teleporting, Speed", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Lumber%20Tycoon%20%20Flying%20Teleporting%20Speed.lua")
+
+addscriptexist(10598587051, "Anime Clicker Fight: Auto Click, Auto Run, Teleport", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime%20Clicker%20Fight%20Auto%20Click%20Auto%20Run%20Teleport.lua")
