@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 16:42:04"
+lastupdate = "GMT +1: 08.03.2023 16:42:09"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -9026,3 +9026,5 @@ addscriptexist(3101667897, "Legends of Speed: Auto Orb, Auto Race, Auto Gem", "p
 addscriptexist(11400511154, "Monkey Tycoon: Auto collect bananna, Buy dropper speed", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Monkey%20Tycoon%20Auto%20collect%20bananna%20Buy%20dropper%20speed.lua")
 
 addscriptexist(4752917845, "reroll gg: Inf Money", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/reroll%20gg%20Inf%20Money.lua")
+
+addscript(10861112990, "Current Game","Anime Artifacts Simulat: Auto Farm Current Area", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime%20Artifacts%20Simulat%20Auto%20Farm%20Current%20Area.lua")
