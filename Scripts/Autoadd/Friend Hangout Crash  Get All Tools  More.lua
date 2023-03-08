@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/IWillyLovePython/FriendHangout/main/main.lua"))()
