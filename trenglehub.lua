@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 07:05:29"
+lastupdate = "GMT +1: 08.03.2023 07:05:33"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -5474,3 +5474,5 @@ addscriptexist(6678877691, "ZO SAMURAI: Auto Parry", "pulled from rbxscript.com"
 addscriptexist(3360853050, "Super Striker League: No Steal, Ball Size, Invisible", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Super%20Striker%20League%20No%20Steal%20Ball%20Size%20Invisible.lua")
 
 addscriptexist(192800, "Work at a Pizza Place: Server Lag", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Work%20at%20a%20Pizza%20Place%20Server%20Lag.lua")
+
+addscript(5796917097, "Current Game","Road to Gramby's: Silent AIm, Bullet Tracers, Auto Shoot", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Road%20to%20Grambys%20Silent%20AIm%20Bullet%20Tracers%20Auto%20Shoot.lua")
