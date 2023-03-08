@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 18:27:36"
+lastupdate = "GMT +1: 08.03.2023 18:27:40"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -11680,3 +11680,5 @@ addscript(2580982329, "Current Game","Texting Simulator: Auto Text, Auto Redeem 
 addscriptexist(7026828578, "Speed Simulator: Speed", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Speed%20Simulator%20Speed.lua")
 
 addscriptexist(9666226803, "Motel Simulator: Auto Cook, Cook Once, Instant Interest", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Motel%20Simulator%20Auto%20Cook%20Cook%20Once%20Instant%20Interest.lua")
+
+addscriptexist(8726743209, "Refinery Caves: Tp Waypoint, WalkSpeed,WalkJump", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Refinery%20Caves%20Tp%20Waypoint%20WalkSpeedWalkJump.lua")
