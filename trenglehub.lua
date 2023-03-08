@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 07:01:09"
+lastupdate = "GMT +1: 08.03.2023 07:01:14"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -5342,3 +5342,5 @@ addscriptexist(6888253864, "Wacky Wizards: Finish Obby, Remove Laser, Walkspeed"
 addscriptexist(2753915549, "Blox Fruits: WalkSpeed Bypass", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blox%20Fruits%20WalkSpeed%20Bypass.lua")
 
 addscriptexist(2788229376, "Da Hood: Walskpeed, Jump Power, Hitboxes", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Da%20Hood%20Walskpeed%20Jump%20Power%20Hitboxes.lua")
+
+addscriptexist(155615604, "Prison Life: Kill Aura, Auto Respawn, Prison Breaker", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Prison%20Life%20Kill%20Aura%20Auto%20Respawn%20Prison%20Breaker.lua")
