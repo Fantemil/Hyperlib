@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 17:26:05"
+lastupdate = "GMT +1: 08.03.2023 17:26:09"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -10142,3 +10142,5 @@ addscriptexist(9872472334, "Evade: EXP Auto Farm, Money Auto Farm, Anti AFK", "p
 addscriptexist(3101667897, "Legends Of Speed: Auto Hoop, Auto Rebirth, Misc", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Legends%20Of%20Speed%20Auto%20Hoop%20Auto%20Rebirth%20Misc.lua")
 
 addhub("Plasek HUB: 3 Games", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Plasek%20HUB%20%20Games.lua")
+
+addscriptexist(9167501050, "Lightsaber Arena: Teleport to all Players, Auto Swap, Kill Aura", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Lightsaber%20Arena%20Teleport%20to%20all%20Players%20Auto%20Swap%20Kill%20Aura.lua")
