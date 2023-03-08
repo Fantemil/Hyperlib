@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 20:28:49"
+lastupdate = "GMT +1: 08.03.2023 20:28:55"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -13940,3 +13940,5 @@ addscriptexist(7138009149, "PHIGHTING! [NPC Esp]", "pulled from rbxscript.com", 
 addscriptexist(7138009149, "PHIGHTING! [Semi GodMode]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PHIGHTING%20Semi%20GodMode.lua")
 
 addscriptexist(5076734934, "Rooms [Hunting status check]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Rooms%20Hunting%20status%20check.lua")
+
+addscriptexist(9872472334, "Evade [AntiKick, AntiLag]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Evade%20AntiKick%20AntiLag.lua")
