@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 20:25:00"
+lastupdate = "GMT +1: 08.03.2023 20:25:04"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -13838,3 +13838,5 @@ addscriptexist(2753915549, "Blox Fruits [AutoFarm, AutoBoss]", "pulled from rbxs
 addscriptuniversal("Roblox Universal Script [Nword Spammer]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Roblox%20Universal%20Script%20Nword%20Spammer.lua")
 
 addscriptexist(4588604953, "Criminality [Auto Block, Esp]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Criminality%20Auto%20Block%20Esp.lua")
+
+addscriptexist(8482451541, "Brick Defense [Unlock All Towers & Infinite Tix]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Brick%20Defense%20Unlock%20All%20Towers%20%20Infinite%20Tix.lua")
