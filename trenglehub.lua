@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 06:55:39"
+lastupdate = "GMT +1: 08.03.2023 06:55:43"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -5174,3 +5174,5 @@ addscriptexist(537413528, "Build A Boat For Treasure: Water Godmode, Auto Farm, 
 addscriptexist(5766084948, "SCP: The Red Lake: Kill Closest, Silent Aim, Fill Up Ammo", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SCP%20The%20Red%20Lake%20Kill%20Closest%20Silent%20Aim%20Fill%20Up%20Ammo.lua")
 
 addscriptexist(9551640993, "Mining Simulator 2: Auto Mine, Auto Rebirth & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mining%20Simulator%20%20Auto%20Mine%20Auto%20Rebirth%20%20More.lua")
+
+addscriptexist(189707, "Natural Disaster Survival: Teleports, Anti Fall Damage, Game Info Display", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Natural%20Disaster%20Survival%20Teleports%20Anti%20Fall%20Damage%20Game%20Info%20Display.lua")
