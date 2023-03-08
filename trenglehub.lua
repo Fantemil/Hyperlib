@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 20:58:20"
+lastupdate = "GMT +1: 08.03.2023 20:58:24"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -14682,3 +14682,5 @@ addscript(7009799230, "Current Game","Pressure Wash Simulator [Inf Money, Auto C
 addscriptuniversal("Roblox Universal Script [Simple Spy]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Roblox%20Universal%20Script%20Simple%20Spy.lua")
 
 addscriptexist(286090429, "Arsenal [Aimbot, KillAura]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Arsenal%20Aimbot%20KillAura.lua")
+
+addscriptexist(8750997647, "Tapping Legends X [Auto Click, Auto Rebirth]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tapping%20Legends%20X%20Auto%20Click%20Auto%20Rebirth.lua")
