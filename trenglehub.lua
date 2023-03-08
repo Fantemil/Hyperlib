@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 16:55:36"
+lastupdate = "GMT +1: 08.03.2023 16:55:41"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -9362,3 +9362,5 @@ addscriptexist(8204899140, "Football Fusion 2: Magnet", "pulled from rbxscript.c
 addscriptexist(443406476, "Project Lazarus Zombies: Auto Mystery Box", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Project%20Lazarus%20Zombies%20Auto%20Mystery%20Box.lua")
 
 addscriptexist(443406476, "Project Lazarus Zombies: Infinite Damage - Always Headshot", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Project%20Lazarus%20Zombies%20Infinite%20Damage%20%20Always%20Headshot.lua")
+
+addscriptexist(5865858426, "Retail Tycoon 2: Free Avatar Item", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Retail%20Tycoon%20%20Free%20Avatar%20Item.lua")
