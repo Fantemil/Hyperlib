@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 13:07:45"
+lastupdate = "GMT +1: 08.03.2023 13:07:49"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -7126,3 +7126,5 @@ addscriptexist(1554960397, "Car Dealership Tycoon: Car Speed, Teleports, Ultimat
 addscript(10175705301, "Current Game","Cant Say the Word: Server Crasher", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Cant%20Say%20the%20Word%20Server%20Crasher.lua")
 
 addscriptexist(8506369721, "dig to china: Farm Bomb", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/dig%20to%20china%20Farm%20Bomb.lua")
+
+addscript(6716339004, "Current Game","Tsunami Disaster Survival: Inf Money", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tsunami%20Disaster%20Survival%20Inf%20Money.lua")
