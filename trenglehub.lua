@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 14:54:16"
+lastupdate = "GMT +1: 08.03.2023 14:54:20"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -8232,3 +8232,5 @@ addscriptuniversal("Universal FE PNG Loader", "pulled from rbxscript.com", "http
 addscriptexist(11445923563, "One Fruit Simulator: Auto farm, Auto attack, Auto Punch", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/One%20Fruit%20Simulator%20Auto%20farm%20Auto%20attack%20Auto%20Punch.lua")
 
 addscriptexist(5561268850, "Randomly Generated Droids: Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Randomly%20Generated%20Droids%20Auto%20Farm.lua")
+
+addscriptexist(2809202155, "Your Bizarre Adventure: Auto Farm Lucky Arrows, Webhook", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Your%20Bizarre%20Adventure%20Auto%20Farm%20Lucky%20Arrows%20Webhook.lua")
