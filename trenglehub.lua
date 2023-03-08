@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 17:42:12"
+lastupdate = "GMT +1: 08.03.2023 17:42:16"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -10550,3 +10550,5 @@ addscriptexist(6284583030, "Pet Simulator X: Gem Farm, Chest Farm, Farm Coins by
 addscriptexist(10828925984, "Robot Tycoon: Infinity Gems", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Robot%20Tycoon%20Infinity%20Gems.lua")
 
 addscriptexist(5780309044, "Starving Artists: ESP", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Starving%20Artists%20ESP.lua")
+
+addscript(6951762614, "Current Game","UFO Simulator: Auto Kill, Collect Drops, Auto Rebirth", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/UFO%20Simulator%20Auto%20Kill%20Collect%20Drops%20Auto%20Rebirth.lua")
