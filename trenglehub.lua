@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 18:15:31"
+lastupdate = "GMT +1: 08.03.2023 18:15:35"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -11380,3 +11380,5 @@ addscriptexist(9912491609, "How Far Can You Fly: Auto Farm, Auto Collect Coin, A
 addscriptexist(9872472334, "Evade: ESP, Auto Farm, Godmode", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Evade%20ESP%20Auto%20Farm%20Godmode.lua")
 
 addscript(10293798252, "Current Game","Arsenal: Reloaded: Aimlock, Inifnity Ammo & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Arsenal%20Reloaded%20Aimlock%20Inifnity%20Ammo%20%20More.lua")
+
+addscriptexist(8482713490, "Forgotten Memories: Teleport Areas ,Walkspeed Bypass, Animatronic ESP", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Forgotten%20Memories%20Teleport%20Areas%20Walkspeed%20Bypass%20Animatronic%20ESP.lua")
