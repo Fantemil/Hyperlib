@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 18:25:04"
+lastupdate = "GMT +1: 08.03.2023 18:25:11"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -11616,3 +11616,5 @@ addscriptexist(9992339729, "Longest Answer Wins: Auto Answer Words", "pulled fro
 addscriptuniversal("Universal Trolling GUI", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Trolling%20GUI.lua")
 
 addscript(6403549175, "Current Game","Plane Shooter: Infinity Gems, Godmode, Auto Next Mission", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Plane%20Shooter%20Infinity%20Gems%20Godmode%20Auto%20Next%20Mission.lua")
+
+addscriptexist(5602055394, "Hood Modded: Inf jump, Trash Talk, Silent aim", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Hood%20Modded%20Inf%20jump%20Trash%20Talk%20Silent%20aim.lua")
