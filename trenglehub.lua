@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 20:29:57"
+lastupdate = "GMT +1: 08.03.2023 20:30:02"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -13968,3 +13968,5 @@ addscriptexist(8260276694, "Ability Wars [Combat Bot]", "pulled from rbxscript.c
 addscript(7986132460, "Current Game","Cannon Simulator [Gives the alt a pet]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Cannon%20Simulator%20Gives%20the%20alt%20a%20pet.lua")
 
 addscript(10819593230, "Current Game","SLICE PVP [Inf Healt, Spam Balls]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SLICE%20PVP%20Inf%20Healt%20Spam%20Balls.lua")
+
+addscriptexist(2809202155, "Your Bizarre Adventure [ClickTp, SuperSpeed]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Your%20Bizarre%20Adventure%20ClickTp%20SuperSpeed.lua")
