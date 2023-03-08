@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 18:22:50"
+lastupdate = "GMT +1: 08.03.2023 18:22:54"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -11562,3 +11562,5 @@ addscriptexist(537413528, "Universal BABFT Gui V3", "pulled from rbxscript.com",
 addscriptuniversal("Universal FE Virtual reality", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20FE%20Virtual%20reality.lua")
 
 addscriptexist(5490351219, "Clicker Madness: Fast AutoTap, Teleports, Auto Eggs", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Clicker%20Madness%20Fast%20AutoTap%20Teleports%20Auto%20Eggs.lua")
+
+addscriptuniversal("Universal Remover Beta close Menu", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Remover%20Beta%20close%20Menu.lua")
