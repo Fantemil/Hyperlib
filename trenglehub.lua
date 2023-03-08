@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 06:42:53"
+lastupdate = "GMT +1: 08.03.2023 06:42:57"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -4784,3 +4784,5 @@ addscriptexist(11701792069, "Snow Plow Simulator: Infinity Snow, Infinity Rebirt
 addscriptexist(11606818992, "STEEP STEPS: Click TP, Teleports, AC Bypass", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/STEEP%20STEPS%20Click%20TP%20Teleports%20AC%20Bypass.lua")
 
 addscriptuniversal("Universal depth of field", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20depth%20of%20field.lua")
+
+addscriptexist(8054462345, "Michael's Zombies: Kill aura, noclip, Walkspeed", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Michaels%20Zombies%20Kill%20aura%20noclip%20Walkspeed.lua")
