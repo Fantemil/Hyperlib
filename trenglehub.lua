@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 17:53:01"
+lastupdate = "GMT +1: 08.03.2023 17:53:08"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -10820,3 +10820,5 @@ addhub("Roblox: Library", "pulled from rbxscript.com", "https://raw.githubuserco
 addhub("VERY HOT UI ORCA: Jump Power, Popular Scripts & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/VERY%20HOT%20UI%20ORCA%20Jump%20Power%20Popular%20Scripts%20%20More.lua")
 
 addscriptexist(7305309231, "Taxi Boss: Car Speed, Jump Power, Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Taxi%20Boss%20Car%20Speed%20Jump%20Power%20Auto%20Farm.lua")
+
+addscriptexist(891852901, "Greenville: Car Suspensions, Auto Farm, Infinity Fuel", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Greenville%20Car%20Suspensions%20Auto%20Farm%20Infinity%20Fuel.lua")
