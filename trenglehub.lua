@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 19:28:17"
+lastupdate = "GMT +1: 08.03.2023 19:28:21"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -12940,3 +12940,5 @@ addscript(10447320248, "Current Game","Hide and Seek - Skill Battle: Inf Money",
 addscript(5166670285, "Current Game","Badge Walk Free Badges: Badge Collector", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Badge%20Walk%20Free%20Badges%20Badge%20Collector.lua")
 
 addscriptexist(680750021, "Case Clicker: Auto Click, Auto Open & more", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Case%20Clicker%20Auto%20Click%20Auto%20Open%20%20more.lua")
+
+addscriptexist(7026828578, "Speed Simulator: Inf Money, Cash Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Speed%20Simulator%20Inf%20Money%20Cash%20Farm.lua")
