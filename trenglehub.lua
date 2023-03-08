@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 07:17:23"
+lastupdate = "GMT +1: 08.03.2023 07:17:27"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -5838,3 +5838,5 @@ addscriptuniversal("Wheel Hub: 20+ Games", "pulled from rbxscript.com", "https:/
 addscriptexist(4872321990, "Islands: Auto Kill, Auto Farm & more", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Islands%20Auto%20Kill%20Auto%20Farm%20%20more.lua")
 
 addscriptexist(192800, "Work at a Pizza Place: Ovens spam and others", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Work%20at%20a%20Pizza%20Place%20Ovens%20spam%20and%20others.lua")
+
+addscriptuniversal("Universal R15 part controller", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20R%20part%20controller.lua")
