@@ -1,0 +1,1 @@
+loadstring(game:HttpGet(("https://raw.githubusercontent.com/OmenDjinn/TbHub/main/TB%20Hub.lua")))()
