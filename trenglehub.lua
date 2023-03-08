@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 17:14:34"
+lastupdate = "GMT +1: 08.03.2023 17:14:38"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -9846,3 +9846,5 @@ addscriptexist(4282985734, "Combat Warriors: Walkspeed, Anti Afk & More", "pulle
 addscript(7584496019, "Current Game","99% Fail Impossible Obby: Wall Color, Inf Yield, Teleports", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/%20Fail%20Impossible%20Obby%20Wall%20Color%20Inf%20Yield%20Teleports.lua")
 
 addhub("HP Hub: 10 Games", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/HP%20Hub%20%20Games.lua")
+
+addscriptexist(2768379856, "3008: Godmode, Daytime, ESP", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/%20Godmode%20Daytime%20ESP.lua")
