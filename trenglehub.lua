@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 20:12:33"
+lastupdate = "GMT +1: 08.03.2023 20:12:37"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -13506,3 +13506,5 @@ addscript(5063021080, "Current Game","My Modded Day | Walkspeed, Grab all Items,
 addscriptexist(10652184030, "Jump Clicker | Infinite Stats/Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Jump%20Clicker%20%20Infinite%20StatsAuto%20Farm.lua")
 
 addscriptexist(183364845, "Speed Run 4 | AutoFarm Gems", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Speed%20Run%20%20%20AutoFarm%20Gems.lua")
+
+addscriptexist(1962086868, "Tower Of Hell | Remove Anticheat, Remove Fog, Give all items", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tower%20Of%20Hell%20%20Remove%20Anticheat%20Remove%20Fog%20Give%20all%20items.lua")
