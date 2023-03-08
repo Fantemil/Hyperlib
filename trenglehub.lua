@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 15:11:32"
+lastupdate = "GMT +1: 08.03.2023 15:11:43"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -8694,3 +8694,5 @@ addscriptexist(6407649031, "NO-SCOPE ARCADE: Silent Aim, No Recoil, No Spread", 
 addscriptexist(9825515356, "Hood Customs: Press E to Silent Aim", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Hood%20Customs%20Press%20E%20to%20Silent%20Aim.lua")
 
 addscriptexist(292439477, "Phantom Forces: FOV, Silent Aim & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Phantom%20Forces%20FOV%20Silent%20Aim%20%20More.lua")
+
+addscriptexist(360589910, "Hoops - Demo (Basketball): Steal Aura, ESP, Aimbot", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Hoops%20%20Demo%20Basketball%20Steal%20Aura%20ESP%20Aimbot.lua")
