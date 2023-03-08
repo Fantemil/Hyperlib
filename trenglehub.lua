@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 12:52:38"
+lastupdate = "GMT +1: 08.03.2023 12:52:44"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -6736,3 +6736,5 @@ addscriptuniversal("Universal UK current time", "pulled from rbxscript.com", "ht
 addscriptuniversal("Universal Detector Pop Up GUI", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Detector%20Pop%20Up%20GUI.lua")
 
 addscriptexist(4522347649, "[FREE ADMIN]: Equip Wind Horn, Fly Around", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FREE%20ADMIN%20Equip%20Wind%20Horn%20Fly%20Around.lua")
+
+addscript(7229578935, "Current Game","VoxelCraft: Insta Break, ESP Chest, Speed", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/VoxelCraft%20Insta%20Break%20ESP%20Chest%20Speed.lua")
