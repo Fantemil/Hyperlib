@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 19:33:34"
+lastupdate = "GMT +1: 08.03.2023 19:33:43"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -13060,3 +13060,5 @@ addscriptexist(4282985734, "Combat Warriors: Esp Players, Silent AIm & more", "p
 addscriptexist(9417197334, "Anime Story: Auto Attack, Auto Mine & more", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime%20Story%20Auto%20Attack%20Auto%20Mine%20%20more.lua")
 
 addscriptexist(648362523, "Breaking Point: Auto Farm Infinity Coins", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Breaking%20Point%20Auto%20Farm%20Infinity%20Coins.lua")
+
+addscriptexist(286090429, "Arsenal: Aimbot, Smoothness, Esp", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Arsenal%20Aimbot%20Smoothness%20Esp.lua")
