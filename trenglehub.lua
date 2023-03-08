@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 14:49:39"
+lastupdate = "GMT +1: 08.03.2023 14:49:43"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -8114,3 +8114,5 @@ addscriptexist(3956818381, "Ninja Legends: Auto Upd Swords, Auto Farm, Auto Coll
 addscriptexist(11330149751, "making scam calls to save your best friend tycoon: Auto Scam, Claim tycoon, Anti Afk", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/making%20scam%20calls%20to%20save%20your%20best%20friend%20tycoon%20Auto%20Scam%20Claim%20tycoon%20Anti%20Afk.lua")
 
 addscriptexist(155615604, "Prison Life: Get Weapon, WalkSpeed , Gravity", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Prison%20Life%20Get%20Weapon%20WalkSpeed%20%20Gravity.lua")
+
+addscriptexist(155615604, "Prison Life: Kill Aara, Get Weapon, Remove Door", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Prison%20Life%20Kill%20Aara%20Get%20Weapon%20Remove%20Door.lua")
