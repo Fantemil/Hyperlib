@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 07:11:56"
+lastupdate = "GMT +1: 08.03.2023 07:12:00"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -5670,3 +5670,5 @@ addscriptexist(2788229376, "Da Hood: Mango Hub", "pulled from rbxscript.com", "h
 addscriptexist(11196588443, "Zombie Merge Tycoon: Auto Put, Auto Upgrade, Walkspeed Slider", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Zombie%20Merge%20Tycoon%20Auto%20Put%20Auto%20Upgrade%20Walkspeed%20Slider.lua")
 
 addscript(10834415065, "Current Game","Roblox but every second you level up: Destory game", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Roblox%20but%20every%20second%20you%20level%20up%20Destory%20game.lua")
+
+addscriptuniversal("Universal unanchored part holder", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20unanchored%20part%20holder.lua")
