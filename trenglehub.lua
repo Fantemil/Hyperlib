@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 13:00:28"
+lastupdate = "GMT +1: 08.03.2023 13:00:33"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -6938,3 +6938,5 @@ addscript(5307215810, "Current Game","Randomizer: ESP, Infinity Ammo, SIlent AIm
 addscriptexist(621129760, "KAT: God mode, AimBot, Esp", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/KAT%20God%20mode%20AimBot%20Esp.lua")
 
 addscriptexist(6456351776, "Kaiju Paradise: Walkspeed, Inf jump, Bypass Safezone Barrier", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Kaiju%20Paradise%20Walkspeed%20Inf%20jump%20Bypass%20Safezone%20Barrier.lua")
+
+addscriptexist(6679968919, "Fly Race: Free Gamepasses", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Fly%20Race%20Free%20Gamepasses.lua")
