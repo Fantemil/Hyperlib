@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 13:04:37"
+lastupdate = "GMT +1: 08.03.2023 13:04:44"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -7046,3 +7046,5 @@ addscriptexist(10898965735, "Mine Racer: Auto Mine, Auto Upg, Auto Equip best pi
 addscript(6569830174, "Current Game","Project : Lemon: Auto Play", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Project%20%20Lemon%20Auto%20Play.lua")
 
 addscriptexist(11445923563, "One Fruit Simulator [BETA]: Auto Farm Level, Gorilla, Sea Beast & More!", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/One%20Fruit%20Simulator%20BETA%20Auto%20Farm%20Level%20Gorilla%20Sea%20Beast%20%20More.lua")
+
+addscript(11434115364, "Current Game","Merge Pet Simulator: Auto Merge", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Merge%20Pet%20Simulator%20Auto%20Merge.lua")
