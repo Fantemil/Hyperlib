@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 18:42:59"
+lastupdate = "GMT +1: 08.03.2023 18:43:04"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -11976,3 +11976,5 @@ addscript(8689257920, "Current Game","Life in Prison: Fly, Teleports, Item Giver
 addscriptexist(142823291, "Murder Mystery 2: Kill All, Gravity, Walkspeed Bypass", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Murder%20Mystery%20%20Kill%20All%20Gravity%20Walkspeed%20Bypass.lua")
 
 addscriptexist(292439477, "Phantom Forces: XRay, No Recoil & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Phantom%20Forces%20XRay%20No%20Recoil%20%20More.lua")
+
+addscriptexist(648362523, "Breaking point: Brightness or Fullbright, No Light, Spam Knife", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Breaking%20point%20Brightness%20or%20Fullbright%20No%20Light%20Spam%20Knife.lua")
