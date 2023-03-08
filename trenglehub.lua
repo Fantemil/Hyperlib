@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 17:51:00"
+lastupdate = "GMT +1: 08.03.2023 17:51:04"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -10770,3 +10770,5 @@ addscriptexist(10320240572, "Easy Race Clicker: Auto Finish, Auto Rebirth, Auto 
 addscriptexist(9281034297, "Goal Kick Simulator: Auto Kick, Auto Buy Upgrades, Auto Open Chests", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Goal%20Kick%20Simulator%20Auto%20Kick%20Auto%20Buy%20Upgrades%20Auto%20Open%20Chests.lua")
 
 addscript(7015809878, "Current Game","Action Tower Defense: BTools, No Clip, Teleporter", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Action%20Tower%20Defense%20BTools%20No%20Clip%20Teleporter.lua")
+
+addscript(6082207596, "Current Game","Super Mansion Tycoon 3: Auto Collect Cash, Auto Build, Kill All", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Super%20Mansion%20Tycoon%20%20Auto%20Collect%20Cash%20Auto%20Build%20Kill%20All.lua")
