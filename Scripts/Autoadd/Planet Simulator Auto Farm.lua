@@ -1,0 +1,1 @@
+while wait() do game:GetService("ReplicatedStorage").ChangePlayerStat:FireServer("Mass",math.huge) end
