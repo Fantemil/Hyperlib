@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 12:37:13"
+lastupdate = "GMT +1: 08.03.2023 12:37:17"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -6328,3 +6328,5 @@ addscriptexist(9100638688, "Drivers Paradise: Unlimited Cash & Free Cars", "pull
 addscriptexist(8737602449, "PLS DONATE: Spy Amounts", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PLS%20DONATE%20Spy%20Amounts.lua")
 
 addscriptexist(537413528, "Build A Boat For Treasure: Crash Server", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Build%20A%20Boat%20For%20Treasure%20Crash%20Server.lua")
+
+addscriptexist(142823291, "Murder Mystery 2: Kill All, Godmode, Auto Farm Coins", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Murder%20Mystery%20%20Kill%20All%20Godmode%20Auto%20Farm%20Coins.lua")
