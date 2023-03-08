@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 14:57:54"
+lastupdate = "GMT +1: 08.03.2023 14:58:00"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -8330,3 +8330,5 @@ addscriptuniversal("Universal Auto Clicker", "pulled from rbxscript.com", "https
 addscriptuniversal("Visual Sword Fighting", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Visual%20Sword%20Fighting.lua")
 
 addscriptuniversal("Universal Tuber Tool", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Tuber%20Tool.lua")
+
+addscriptexist(2809202155, "Your Bizarre Adventure: Auto 1v1", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Your%20Bizarre%20Adventure%20Auto%20v.lua")
