@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/PikachuHack/BackBencher-Hub-Private-/main/BackBencher%20Hub%5BPrivate%5D"))()
