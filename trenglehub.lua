@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 12:29:08"
+lastupdate = "GMT +1: 08.03.2023 12:29:12"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -6104,3 +6104,5 @@ addscriptexist(1537690962, "Bee Swarm Simulator: Smart Autofarm, Farm in boosted
 addscriptexist(11866253403, "Super Jump Race: Auto Farm Worlds, Auto Eggs, Auto Rebirth", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Super%20Jump%20Race%20Auto%20Farm%20Worlds%20Auto%20Eggs%20Auto%20Rebirth.lua")
 
 addscriptexist(6516141723, "DOORS: Figure Crucifix", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DOORS%20Figure%20Crucifix.lua")
+
+addscriptuniversal("Universal Display Name Remover", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Display%20Name%20Remover.lua")
