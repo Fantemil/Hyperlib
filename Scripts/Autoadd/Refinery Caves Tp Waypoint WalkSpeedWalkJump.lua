@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://raw.githubusercontent.com/Moon22222/Scriptss/main/Astro%20Hub'))()
