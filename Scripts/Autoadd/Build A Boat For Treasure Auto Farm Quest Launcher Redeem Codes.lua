@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/VIPFirstTime/Fe-Build-A-Boat-Update/main/StepXnC.lua/LoadN.txt"))()
