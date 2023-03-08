@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 19:52:25"
+lastupdate = "GMT +1: 08.03.2023 19:52:34"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -13246,3 +13246,5 @@ addscriptexist(2753915549, "Blox Fruits | GUI - Fast Attack Mode, Auto Farm & Mo
 addscript(9133513813, "Current Game","Hunted Hood | AutoPickUp", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Hunted%20Hood%20%20AutoPickUp.lua")
 
 addscriptexist(8750997647, "Tapping Legends X | AutoRebirth, AutoTap, AutoEggs", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tapping%20Legends%20X%20%20AutoRebirth%20AutoTap%20AutoEggs.lua")
+
+addscript(10148047155, "Current Game","Car Mechanic Tycoon | Money AutoFarm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Car%20Mechanic%20Tycoon%20%20Money%20AutoFarm.lua")
