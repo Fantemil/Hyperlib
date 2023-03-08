@@ -1,39 +1,50 @@
 local function find_by_name(t, name) for _, v in pairs(t) do if v.name == name then return v end end end
+
 local actor = find_by_name(getactors(), 'lol')
+
 -- ESP
 loadstring(game:HttpGet("https://pastehub.net/raw.php?p=f51adc3eb0c", true))()
+
 -- aimbot
 syn.run_on_actor(actor, [[if not getgenv or not mousemoverel then
    game:GetService("Players").LocalPlayer:Kick("Your exploit is not supported!")
 end
+
 getgenv().AIMBOT_SETTINGS = {
    smoothness = 2,
    FOV = 400,
    VisibleCheck = true,
 }
+
 -- services
 local players = game:GetService("Players")
 local RunService = game:GetService("RunService")
 local UserInputService = game:GetService("UserInputService")
+
 -- variables
 local client = players.LocalPlayer
 local shared = getrenv().shared
 local camera = workspace.CurrentCamera
 local mouseLocation = UserInputService.GetMouseLocation
 local WorldToViewportPoint = camera.WorldToViewportPoint
+
 -- modules
 local replicationObject = shared.require("ReplicationObject")
 local replicationInterface = shared.require("ReplicationInterface")
+
 -- functions
 local function isAlive(entry)
    return replicationObject.isAlive(entry)
 end
+
 local function isVisible(p, ...)
    if not getgenv().AIMBOT_SETTINGS.VisibleCheck then
        return true
    end
+
    return #camera:GetPartsObscuringTarget({ p }, { camera, client.Character, workspace.Ignore, ... }) == 0
 end
+
 local function get_closest(fov: number)
    local targetPos: Vector3 = nil
    local magnitude: number = fov or math.huge
@@ -41,10 +52,13 @@ local function get_closest(fov: number)
        if player == client or player.Team == client.Team then
            continue
        end
+
        local entry = replicationInterface.getEntry(player)
        local character = entry and replicationObject.getThirdPersonObject(entry)
+
        if character and isAlive(entry) then
            local body_parts = character:getCharacterHash()
+
            local screen_pos, on_screen = WorldToViewportPoint(camera, body_parts.head.Position)
            local screen_pos_2D = Vector2.new(screen_pos.X, screen_pos.Y)
            local new_magnitude = (screen_pos_2D - mouseLocation(UserInputService)).Magnitude
@@ -74,6 +88,7 @@ circle.Filled = false
 circle.Transparency = 1
 circle.Color = Color3.new(1, 0.5, 0)
 circle.Visible = true
+
 RunService.RenderStepped:Connect(function()
    if UserInputService:IsMouseButtonPressed(Enum.UserInputType.MouseButton2) then
        local _pos = get_closest(getgenv().AIMBOT_SETTINGS.FOV)
