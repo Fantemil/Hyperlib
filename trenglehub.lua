@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 19:15:50"
+lastupdate = "GMT +1: 08.03.2023 19:15:58"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -12666,3 +12666,5 @@ addscript(10615427129, "Current Game","Quadra Clickers: Give All Pets, Auto Clic
 addscriptexist(2546155523, "RoVille: Taxi driver farm, Auto restock business, Police clerk farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RoVille%20Taxi%20driver%20farm%20Auto%20restock%20business%20Police%20clerk%20farm.lua")
 
 addscriptexist(537413528, "Arsenal: Silent Aim, Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Arsenal%20Silent%20Aim%20Auto%20Farm.lua")
+
+addscriptexist(7305309231, "Taxi Boss: Auto Farm Server Hop", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Taxi%20Boss%20Auto%20Farm%20Server%20Hop.lua")
