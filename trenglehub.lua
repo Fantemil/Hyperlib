@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 12:44:09"
+lastupdate = "GMT +1: 08.03.2023 12:44:13"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -6524,3 +6524,5 @@ addscript(6048370697, "Current Game","Snowballer: Auto Farm Show, Auto Sell, Aut
 addscript(11495830780, "Current Game","Dunking Simulator: Auto Dunk, Auto Open Eggs, Auto Collect Boosts", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Dunking%20Simulator%20Auto%20Dunk%20Auto%20Open%20Eggs%20Auto%20Collect%20Boosts.lua")
 
 addscriptexist(893973440, "Flee the Facility: Player Esp, Computer Esp, Go to random computer", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Flee%20the%20Facility%20Player%20Esp%20Computer%20Esp%20Go%20to%20random%20computer.lua")
+
+addscriptexist(11495830780, "Dunking Race: Auto Durk, Collect Boost, Equip Best Pets", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Dunking%20Race%20Auto%20Durk%20Collect%20Boost%20Equip%20Best%20Pets.lua")
