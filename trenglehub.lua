@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 18:15:22"
+lastupdate = "GMT +1: 08.03.2023 18:15:27"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -11376,3 +11376,5 @@ addscriptexist(5154858502, "Murderers vs Sheriffs: Auto Kill", "pulled from rbxs
 addscriptexist(6516141723, "DOORS: Rush Key, Rush, Ambush Key", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DOORS%20Rush%20Key%20Rush%20Ambush%20Key.lua")
 
 addscriptexist(9912491609, "How Far Can You Fly: Auto Farm, Auto Collect Coin, Auto Rebirths", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/How%20Far%20Can%20You%20Fly%20Auto%20Farm%20Auto%20Collect%20Coin%20Auto%20Rebirths.lua")
+
+addscriptexist(9872472334, "Evade: ESP, Auto Farm, Godmode", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Evade%20ESP%20Auto%20Farm%20Godmode.lua")
