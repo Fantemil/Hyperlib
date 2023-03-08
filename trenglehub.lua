@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 20:46:53"
+lastupdate = "GMT +1: 08.03.2023 20:46:57"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -14396,3 +14396,5 @@ addscriptexist(5326405001, "Base Battles [No Spread, Esp]", "pulled from rbxscri
 addscript(5901548022, "Current Game","Try To Die [Give All Tools]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Try%20To%20Die%20Give%20All%20Tools.lua")
 
 addscriptexist(9129288160, "Tommy Play [AutoFarm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tommy%20Play%20AutoFarm.lua")
+
+addscript(7165194252, "Current Game","Ranger Piece [Get Spawned Items]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ranger%20Piece%20Get%20Spawned%20Items.lua")
