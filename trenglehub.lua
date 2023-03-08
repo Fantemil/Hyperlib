@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 19:21:26"
+lastupdate = "GMT +1: 08.03.2023 19:21:30"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -12796,3 +12796,5 @@ addscriptexist(9144187696, "A Piece: Infinite Stats, Infinite Spin & More!", "pu
 addscript(10107516163, "Current Game","REALISTIC HOOD MODDED (ACS): Op Guns", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/REALISTIC%20HOOD%20MODDED%20ACS%20Op%20Guns.lua")
 
 addscriptexist(5956785391, "Project Slayers: Spam Dash Effect", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Project%20Slayers%20Spam%20Dash%20Effect.lua")
+
+addscriptexist(6741970382, "Zombie lab: Inf Ammo, Fire Rate, Get Minigun", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Zombie%20lab%20Inf%20Ammo%20Fire%20Rate%20Get%20Minigun.lua")
