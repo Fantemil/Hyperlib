@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 19:01:22"
+lastupdate = "GMT +1: 08.03.2023 19:01:34"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -12362,3 +12362,5 @@ addscriptexist(8726743209, "Refinery Caves: Teleporter", "pulled from rbxscript.
 addscriptexist(23578803, "Hotel Elephant: Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Hotel%20Elephant%20Auto%20Farm.lua")
 
 addscriptexist(4058282580, "Boxing Simulator: Auto Farm Coins, Infinity Health, Walkspeed", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Boxing%20Simulator%20Auto%20Farm%20Coins%20Infinity%20Health%20Walkspeed.lua")
+
+addscript(10602062861, "Current Game","Amazon Trip Around the Blox: Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Amazon%20Trip%20Around%20the%20Blox%20Auto%20Farm.lua")
