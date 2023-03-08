@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 07:06:14"
+lastupdate = "GMT +1: 08.03.2023 07:06:18"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -5496,3 +5496,5 @@ addscript(9353921664, "Current Game","find milk at the store and leave your kids
 addscriptexist(6441847031, "CHAOS: Kill Player. Godmode & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CHAOS%20Kill%20Player%20Godmode%20%20More.lua")
 
 addscriptexist(6284583030, "Pet Simulator X: Webhook, Notify if kicked, Macro", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pet%20Simulator%20X%20Webhook%20Notify%20if%20kicked%20Macro.lua")
+
+addscriptexist(9498006165, "Tapping Simulator: Auto Tap, Auto Use Boosts, Auto Rebirth", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tapping%20Simulator%20Auto%20Tap%20Auto%20Use%20Boosts%20Auto%20Rebirth.lua")
