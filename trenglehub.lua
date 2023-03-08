@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 12:47:51"
+lastupdate = "GMT +1: 08.03.2023 12:47:55"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -6628,3 +6628,5 @@ addscriptexist(137885680, "Zombie Rush: Auto Gifts", "pulled from rbxscript.com"
 addscript(11507104600, "Current Game","DOORS FLOOR 2 CONCEPTS: Auto Win", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DOORS%20FLOOR%20%20CONCEPTS%20Auto%20Win.lua")
 
 addscriptexist(2788229376, "Da Hood: Press Q to target Aim", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Da%20Hood%20Press%20Q%20to%20target%20Aim.lua")
+
+addscriptexist(21532277, "Notoriety: Server Hop, Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Notoriety%20Server%20Hop%20Auto%20Farm.lua")
