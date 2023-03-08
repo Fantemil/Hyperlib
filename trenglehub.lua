@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 06:37:08"
+lastupdate = "GMT +1: 08.03.2023 06:37:12"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -4614,3 +4614,5 @@ addscriptexist(8438158667, "Slide House Tumble: Fastest Auto Farm", "pulled from
 addscriptexist(9938675423, "Oaklands: Remote Spy, Auto Dehashes Remotes", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Oaklands%20Remote%20Spy%20Auto%20Dehashes%20Remotes.lua")
 
 addscriptexist(155615604, "Prison Life: Loop Get Guns", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Prison%20Life%20Loop%20Get%20Guns.lua")
+
+addscriptuniversal("Universal No Cooldown", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20No%20Cooldown.lua")
