@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 17:40:58"
+lastupdate = "GMT +1: 08.03.2023 17:41:02"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -10518,3 +10518,5 @@ addscriptuniversal("Universal FE Nametag Hider", "pulled from rbxscript.com", "h
 addscript(10920409126, "Current Game","Anime Fusion Tycoon: Auto Rebirth, Inifnity Ki, Walkspeed", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime%20Fusion%20Tycoon%20Auto%20Rebirth%20Inifnity%20Ki%20Walkspeed.lua")
 
 addscriptexist(8750997647, "Tapping Legends X: Auto Rebirth, Auto Tap & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tapping%20Legends%20X%20Auto%20Rebirth%20Auto%20Tap%20%20More.lua")
+
+addscript(10070062081, "Current Game","Minion Simulator: Auto Collect, Auto Farm, Auto Swing", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Minion%20Simulator%20Auto%20Collect%20Auto%20Farm%20Auto%20Swing.lua")
