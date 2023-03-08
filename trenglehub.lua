@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 18:18:07"
+lastupdate = "GMT +1: 08.03.2023 18:18:12"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -11442,3 +11442,5 @@ addscriptexist(10723695195, "Anime Evolution Simulator: Auto Farm, Auto Buy, Aut
 addscript(6206893534, "Current Game","Cobra Kai Karate: Auto Farm Bugs, Auto Farm Pushups, Auto Click", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Cobra%20Kai%20Karate%20Auto%20Farm%20Bugs%20Auto%20Farm%20Pushups%20Auto%20Click.lua")
 
 addscript(8679682580, "Current Game","Burn The Minions: TPs", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Burn%20The%20Minions%20TPs.lua")
+
+addscriptexist(164051105, "Super Bomb Survival: Auto farm, Anti Ragdoll, God mode", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Super%20Bomb%20Survival%20Auto%20farm%20Anti%20Ragdoll%20God%20mode.lua")
