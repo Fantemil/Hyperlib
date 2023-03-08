@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 19:28:47"
+lastupdate = "GMT +1: 08.03.2023 19:28:52"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -12950,3 +12950,5 @@ addscriptexist(6751371363, "Hood Duels: Walkspeed, Silent Aim Lock & More", "pul
 addscriptexist(9551640993, "Mining Simulator 2: Auto Farm, Auto Claim Achievements & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mining%20Simulator%20%20Auto%20Farm%20Auto%20Claim%20Achievements%20%20More.lua")
 
 addscriptexist(5041144419, "SCP Roleplay: Auto Reload, Teleport To Location/Player", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SCP%20Roleplay%20Auto%20Reload%20Teleport%20To%20LocationPlayer.lua")
+
+addscriptexist(4924922222, "Brookhaven RP: Anti Afk", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Brookhaven%20RP%20Anti%20Afk.lua")
