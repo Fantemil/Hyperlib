@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 17:53:50"
+lastupdate = "GMT +1: 08.03.2023 17:53:54"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -10840,3 +10840,5 @@ addscriptexist(183364845, "Speed Run 4: Tp lvl", "pulled from rbxscript.com", "h
 addscriptexist(8482713490, "Forgotten Memories: Teleport Buttons", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Forgotten%20Memories%20Teleport%20Buttons.lua")
 
 addscriptexist(9872472334, "Evade: Ticket Auto Farm, Esp Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Evade%20Ticket%20Auto%20Farm%20Esp%20Auto%20Farm.lua")
+
+addscript(6911523175, "Current Game","Bee Swarm Simulator: Recreate Autofarm, Hive Dupe GUI", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Bee%20Swarm%20Simulator%20Recreate%20Autofarm%20Hive%20Dupe%20GUI.lua")
