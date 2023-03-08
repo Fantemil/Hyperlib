@@ -1,1 +1,1 @@
-game:GetService("ReplicatedStorage").Events.CosmeticObyy.GiveTokensCosmeticObby:FireServer(999999999);
+game:GetService("ReplicatedStorage").Events.ManicureChallenge.GiveTokensManicureChallenge:FireServer(999999999);
