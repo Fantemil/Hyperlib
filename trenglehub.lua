@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 18:01:27"
+lastupdate = "GMT +1: 08.03.2023 18:01:32"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -11032,3 +11032,5 @@ addscript(5310443220, "Current Game","GOD TYCOON: Auto Tycoon, Click Dropper, Si
 addscriptexist(8054462345, "Michael's Zombies: No Recoil, Silent Aim, FOV", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Michaels%20Zombies%20No%20Recoil%20Silent%20Aim%20FOV.lua")
 
 addscriptexist(10277607801, "Apeirophobia: Infinity Stamina, Disable Drowning, Complete Level", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Apeirophobia%20Infinity%20Stamina%20Disable%20Drowning%20Complete%20Level.lua")
+
+addscriptexist(8146731988, "Ultra Power Tycoon: Silent Aim, Click TP, Get All Powers", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ultra%20Power%20Tycoon%20Silent%20Aim%20Click%20TP%20Get%20All%20Powers.lua")
