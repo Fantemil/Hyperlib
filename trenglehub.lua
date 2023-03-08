@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 21:17:06"
+lastupdate = "GMT +1: 08.03.2023 21:17:11"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -14950,3 +14950,5 @@ addscriptexist(1554960397, "Car Dealership Tycoon [Auto Race Dune, Auto Race Ral
 addscriptexist(417267366, "Dollhouse Roleplay [Adm Cmds]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Dollhouse%20Roleplay%20Adm%20Cmds.lua")
 
 addscriptexist(286090429, "Arsenal [SilentAim, KillAll]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Arsenal%20SilentAim%20KillAll.lua")
+
+addscriptexist(13822889, "Lumber Tycoon 2 [Walkspeed, AutoBuy]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Lumber%20Tycoon%20%20Walkspeed%20AutoBuy.lua")
