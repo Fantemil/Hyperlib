@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 07:03:31"
+lastupdate = "GMT +1: 08.03.2023 07:03:35"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -5410,3 +5410,5 @@ addscriptexist(863266079, "Apocalypse Rising 2: Silent Aim, Esp, Chams", "pulled
 addscriptexist(379614936, "Assassin: Anti Cheat Bypass", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Assassin%20Anti%20Cheat%20Bypass.lua")
 
 addscriptexist(3527629287, "Big Paintball: Silent Aim, Wall Bang, Open Source", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Big%20Paintball%20Silent%20Aim%20Wall%20Bang%20Open%20Source.lua")
+
+addscriptexist(7560156054, "Clicker Simulator: Collect Snowflakes", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Clicker%20Simulator%20Collect%20Snowflakes.lua")
