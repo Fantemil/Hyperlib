@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 12:28:43"
+lastupdate = "GMT +1: 08.03.2023 12:28:47"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -6092,3 +6092,5 @@ addscriptexist(6284583030, "Pet Simulator X: FPS Lock, Rejoin, Enable Rendering"
 addscriptexist(10598587051, "Anime Clicker Fight: Auto Run, Auto Dash, Auto Buy Eggs", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime%20Clicker%20Fight%20Auto%20Run%20Auto%20Dash%20Auto%20Buy%20Eggs.lua")
 
 addscriptexist(8216196965, "Touch Soccer League: Bug Game, Coin Farm, Options", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Touch%20Soccer%20League%20Bug%20Game%20Coin%20Farm%20Options.lua")
+
+addscriptuniversal("Universal Kill-aura, Godmode, Kill all", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Killaura%20Godmode%20Kill%20all.lua")
