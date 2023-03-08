@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 12:40:57"
+lastupdate = "GMT +1: 08.03.2023 12:41:01"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -6434,3 +6434,5 @@ addscriptexist(6918802270, "Project New World: Auto Farm Lvl, Auto Stats & More"
 addscript(11384409671, "Current Game","FG Battles: Kill All, Collect Coins", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FG%20Battles%20Kill%20All%20Collect%20Coins.lua")
 
 addscriptexist(920587237, "Adopt Me! Smart Pets", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Adopt%20Me%20Smart%20Pets.lua")
+
+addscriptexist(2753915549, "Blox Fruits: Auto Next World, Teleports, Auto Saber", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blox%20Fruits%20Auto%20Next%20World%20Teleports%20Auto%20Saber.lua")
