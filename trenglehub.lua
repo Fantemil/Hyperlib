@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 20:51:32"
+lastupdate = "GMT +1: 08.03.2023 20:51:36"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -14510,3 +14510,5 @@ addscriptuniversal("Roblox Universal Script [Boombox visualizer]", "pulled from 
 addscriptuniversal("Roblox Universal Script [NOT FE, Shotgun]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Roblox%20Universal%20Script%20NOT%20FE%20Shotgun.lua")
 
 addscriptexist(7305309231, "Taxi Boss [Walkspeed, AutoFarm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Taxi%20Boss%20Walkspeed%20AutoFarm.lua")
+
+addscript(8963721566, "Current Game","The Backrooms [Third Person]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/The%20Backrooms%20Third%20Person.lua")
