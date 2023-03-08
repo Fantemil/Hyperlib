@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 13:12:58"
+lastupdate = "GMT +1: 08.03.2023 13:13:02"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -7262,3 +7262,5 @@ addscriptexist(205224386, "Hide And Seek Extreme: Auto Farm", "pulled from rbxsc
 addscriptexist(8657766101, "Marvellous Playground: Humans Unlock", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Marvellous%20Playground%20Humans%20Unlock.lua")
 
 addscriptexist(8657766101, "Marvellous Playground: No Cooldown", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Marvellous%20Playground%20No%20Cooldown.lua")
+
+addscriptuniversal("Universal Pipe Tool", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Pipe%20Tool.lua")
