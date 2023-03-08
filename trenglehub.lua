@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 19:00:26"
+lastupdate = "GMT +1: 08.03.2023 19:00:30"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -12340,3 +12340,5 @@ addscriptexist(8884334497, "Mining Clicker Simulator: Auto Rebirth, Auto Tap, In
 addscriptexist(6429911702, "Master's Difficulty Chart Obby: Remove All KillParts, Finish Many Obbies", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Masters%20Difficulty%20Chart%20Obby%20Remove%20All%20KillParts%20Finish%20Many%20Obbies.lua")
 
 addscriptexist(9498006165, "Tapping Simulator: Auto Tap, Auto Rebirth, Auto Eggs", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tapping%20Simulator%20Auto%20Tap%20Auto%20Rebirth%20Auto%20Eggs.lua")
+
+addhub("Hydra Hub Ui Lib", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Hydra%20Hub%20Ui%20Lib.lua")
