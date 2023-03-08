@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 14:32:37"
+lastupdate = "GMT +1: 08.03.2023 14:32:43"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -7654,3 +7654,5 @@ addscript(6552369796, "Current Game","Neon Knights: Insta Kill, No Damage, Serve
 addscriptexist(2753915549, "Blox Fruits: The #1 Free Gui Cracked - Key System Removed", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blox%20Fruits%20The%20%20Free%20Gui%20Cracked%20%20Key%20System%20Removed.lua")
 
 addscriptexist(2788229376, "Da Hood: Money Gravity, Big Head, Shazam, Auto Muscles", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Da%20Hood%20Money%20Gravity%20Big%20Head%20Shazam%20Auto%20Muscles.lua")
+
+addscriptexist(11445923563, "One Fruit Simulator: Mastery Op Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/One%20Fruit%20Simulator%20Mastery%20Op%20Auto%20Farm.lua")
