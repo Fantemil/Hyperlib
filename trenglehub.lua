@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 18:47:07"
+lastupdate = "GMT +1: 08.03.2023 18:47:11"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -12048,3 +12048,5 @@ addscriptexist(10779604733, "VBet: Auto Collect Pumpkins & Get Headless", "pulle
 addscriptexist(735030788, "Royal High: Royalloween Event", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Royal%20High%20Royalloween%20Event.lua")
 
 addscriptexist(8482451541, "Brick Defense: Infinite Wins", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Brick%20Defense%20Infinite%20Wins.lua")
+
+addscript(9195713767, "Current Game","Sword Haven: Auto Farm, Teleports, Fast Collect & More!", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sword%20Haven%20Auto%20Farm%20Teleports%20Fast%20Collect%20%20More.lua")
