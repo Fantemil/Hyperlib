@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 17:39:16"
+lastupdate = "GMT +1: 08.03.2023 17:39:20"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -10476,3 +10476,5 @@ addscriptexist(10675066724, "Slime Tower Tycoon: Travel Menu, Grab All Orbs, Dep
 addscriptexist(4490140733, "My Restaurant: Auto Farm, Universal Features", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/My%20Restaurant%20Auto%20Farm%20Universal%20Features.lua")
 
 addscriptexist(10523236737, "Multiverse Battlegrounds: Buy All", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Multiverse%20Battlegrounds%20Buy%20All.lua")
+
+addscriptexist(10523236737, "Multiverse Battlegrounds: Infinite Money", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Multiverse%20Battlegrounds%20Infinite%20Money.lua")
