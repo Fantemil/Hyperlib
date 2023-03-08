@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 15:13:29"
+lastupdate = "GMT +1: 08.03.2023 15:13:33"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -8746,3 +8746,5 @@ addscript(2546155523, "Current Game","RoVille: Auto Farm", "pulled from rbxscrip
 addscript(9249776514, "Current Game","Givenchy Beauty House: Auto Farm UGC Item", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Givenchy%20Beauty%20House%20Auto%20Farm%20UGC%20Item.lua")
 
 addscriptuniversal("Universal Zombie Run", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Zombie%20Run.lua")
+
+addscriptexist(5956785391, "Project Slayers: Auto Kill Mobs, Auto Farm Mobs, Auto Loot Chests", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Project%20Slayers%20Auto%20Kill%20Mobs%20Auto%20Farm%20Mobs%20Auto%20Loot%20Chests.lua")
