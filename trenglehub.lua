@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 06:56:50"
+lastupdate = "GMT +1: 08.03.2023 06:56:53"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -5208,3 +5208,5 @@ addscriptexist(4954096313, "Field Trip Z: Kill All Zombies, Godmode, Give All He
 addscriptexist(142823291, "Murder Mystery 2: Murderer Detector, Detective Detector, Gun Drop ESP", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Murder%20Mystery%20%20Murderer%20Detector%20Detective%20Detector%20Gun%20Drop%20ESP.lua")
 
 addscript(11137812995, "Current Game","Shuudan: Speedhack", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Shuudan%20Speedhack.lua")
+
+addscriptexist(10456235914, "Redwood Prison: Reworked | Kill Player, Void Player, Fly", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Redwood%20Prison%20Reworked%20%20Kill%20Player%20Void%20Player%20Fly.lua")
