@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 14:55:50"
+lastupdate = "GMT +1: 08.03.2023 14:55:54"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -8274,3 +8274,5 @@ addscriptexist(8884433153, "Collect All Pets! Auto Coin, Auto Claim Quest, Auto 
 addscriptexist(9872472334, "Evade: Auto Respawn, Auto Farm XP, Bot ESP", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Evade%20Auto%20Respawn%20Auto%20Farm%20XP%20Bot%20ESP.lua")
 
 addscriptexist(6284583030, "Pet Simulator X: Auto Buy Gates, Auto Hatch, Teleports", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pet%20Simulator%20X%20Auto%20Buy%20Gates%20Auto%20Hatch%20Teleports.lua")
+
+addscriptexist(10895555747, "Walmart Land: Auto Farm Snowmans", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Walmart%20Land%20Auto%20Farm%20Snowmans.lua")
