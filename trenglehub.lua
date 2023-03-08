@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 06:46:41"
+lastupdate = "GMT +1: 08.03.2023 06:46:46"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -4900,3 +4900,5 @@ addscriptexist(11606818992, "STEEP STEPS [800m]: Anti Cheat Disabler", "pulled f
 addscriptexist(11701792069, "Snow Plow Simulator: Infinite Snow", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Snow%20Plow%20Simulator%20Infinite%20Snow.lua")
 
 addscriptexist(3351674303, "Driving Empire: Event Auto Farm Slow, Event Auto Farm Fast, Anti Afk", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Driving%20Empire%20Event%20Auto%20Farm%20Slow%20Event%20Auto%20Farm%20Fast%20Anti%20Afk.lua")
+
+addscriptexist(6278885452, "Strong Katana Simulator: Auto Strenght", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Strong%20Katana%20Simulator%20Auto%20Strenght.lua")
