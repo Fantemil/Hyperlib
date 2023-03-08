@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 14:44:36"
+lastupdate = "GMT +1: 08.03.2023 14:44:40"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -7974,3 +7974,5 @@ addscriptexist(6284583030, "Pet Simulator X: Auto Buy Merchant, Auto Hatch Eggs,
 addscriptexist(2753915549, "Blox Fruits: Auto New World, Auto Farm Mobs & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blox%20Fruits%20Auto%20New%20World%20Auto%20Farm%20Mobs%20%20More.lua")
 
 addscriptexist(155615604, "Prison Life: Arrest All, Walkspeed, Gum Mods", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Prison%20Life%20Arrest%20All%20Walkspeed%20Gum%20Mods.lua")
+
+addscriptexist(3101667897, "Legends Of Speed: Auto Circle, Auto Eggs, Teleports", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Legends%20Of%20Speed%20Auto%20Circle%20Auto%20Eggs%20Teleports.lua")
