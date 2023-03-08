@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 20:23:39"
+lastupdate = "GMT +1: 08.03.2023 20:23:46"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -13802,3 +13802,5 @@ addscriptexist(10439295403, "Anime Champions | Kill Aura, Reset Skill Points, Au
 addscriptexist(2788229376, "Da Hood | Inf Stamina, Fly, Esp", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Da%20Hood%20%20Inf%20Stamina%20Fly%20Esp.lua")
 
 addscriptexist(155615604, "Prison Life | 500 Ammo", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Prison%20Life%20%20%20Ammo.lua")
+
+addscriptexist(5130598377, "A Universal Time | Farm Thung - Items Farm - Godmode & More!", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/A%20Universal%20Time%20%20Farm%20Thung%20%20Items%20Farm%20%20Godmode%20%20More.lua")
