@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 19:23:18"
+lastupdate = "GMT +1: 08.03.2023 19:23:23"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -12830,3 +12830,5 @@ addscriptexist(9554750143, "Pet Fighting Simulator: Infinite Wheel Spins", "pull
 addscriptexist(9992339729, "Longest Answer: Wins Auto Player", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Longest%20Answer%20Wins%20Auto%20Player.lua")
 
 addscriptexist(9585537847, "SHADOVIS RPG: Auto Rebirth, Auto Raid & more", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SHADOVIS%20RPG%20Auto%20Rebirth%20Auto%20Raid%20%20more.lua")
+
+addscript(4809447488, "Current Game","Venture Tale: Auto Start, Kill Aura, Tp & more", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Venture%20Tale%20Auto%20Start%20Kill%20Aura%20Tp%20%20more.lua")
