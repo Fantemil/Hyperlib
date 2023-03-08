@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 13:03:06"
+lastupdate = "GMT +1: 08.03.2023 13:03:15"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -7006,3 +7006,5 @@ addscriptexist(10967799786, "Pet Lifting Simulator: Auto Farm Coins, Auto Rebirt
 addscriptexist(11216791462, "Hungry Pig: Auto Grab Food, Walkspeed, Infinity Coins", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Hungry%20Pig%20Auto%20Grab%20Food%20Walkspeed%20Infinity%20Coins.lua")
 
 addscript(6681032961, "Current Game","Museum Tycoon: Infinity Money", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Museum%20Tycoon%20Infinity%20Money.lua")
+
+addscript(10028173768, "Current Game","Queen Elizebeth Obby: Teleport to The End", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Queen%20Elizebeth%20Obby%20Teleport%20to%20The%20End.lua")
