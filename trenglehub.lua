@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 07:07:55"
+lastupdate = "GMT +1: 08.03.2023 07:07:59"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -5548,3 +5548,5 @@ addscriptexist(286090429, "Arsenal: Infinity Ammo, Silent AIm, ESP", "pulled fro
 addscriptexist(10106105124, "Wheat Farming Simulator: Auto Farm, Tp Pet, Auto Sell", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Wheat%20Farming%20Simulator%20Auto%20Farm%20Tp%20Pet%20Auto%20Sell.lua")
 
 addscriptexist(292439477, "Phantom Forces: Knife Aura, Auto Stab", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Phantom%20Forces%20Knife%20Aura%20Auto%20Stab.lua")
+
+addscript(6161747775, "Current Game","Pirate Clash: Hitbox Expander, Gun Mods & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pirate%20Clash%20Hitbox%20Expander%20Gun%20Mods%20%20More.lua")
