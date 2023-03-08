@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 18:44:32"
+lastupdate = "GMT +1: 08.03.2023 18:44:41"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -12002,3 +12002,5 @@ addscriptexist(9285238704, "Race Clicker: Collect All Wins, Wins Auto Farm, Auto
 addscriptexist(155615604, "Prison Life: Get Crude Knife", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Prison%20Life%20Get%20Crude%20Knife.lua")
 
 addscriptexist(9498006165, "Tapping Simulator: Auto Click, Auto Rebirth, Inifnity Jump", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tapping%20Simulator%20Auto%20Click%20Auto%20Rebirth%20Inifnity%20Jump.lua")
+
+addscriptexist(8534845015, "Sakura Stand: Item Notifier, Walkspeed, Auto Farm Boxes", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sakura%20Stand%20Item%20Notifier%20Walkspeed%20Auto%20Farm%20Boxes.lua")
