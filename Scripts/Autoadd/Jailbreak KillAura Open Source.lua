@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://raw.githubusercontent.com/MinWasTakenOnGitHub/Roblox-Scripts/main/Jailbreak/KillAura'))()
