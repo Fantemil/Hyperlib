@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 18:46:30"
+lastupdate = "GMT +1: 08.03.2023 18:46:36"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -12034,3 +12034,5 @@ addscript(9554750143, "Current Game","Pet Fighting Simulator: Infinite Money & G
 addscriptexist(1215581239, "Doomspire Brickbattle: Brick Spam", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Doomspire%20Brickbattle%20Brick%20Spam.lua")
 
 addscriptexist(8482451541, "Brick Defense: Halloween Event, Instantly Collect The Pumpkin", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Brick%20Defense%20Halloween%20Event%20Instantly%20Collect%20The%20Pumpkin.lua")
+
+addscript(245440965, "Current Game","Shipping Lanes: All Teleports, Auto Refuel Ship, Auto Repair Ship", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Shipping%20Lanes%20All%20Teleports%20Auto%20Refuel%20Ship%20Auto%20Repair%20Ship.lua")
