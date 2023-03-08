@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 12:36:38"
+lastupdate = "GMT +1: 08.03.2023 12:36:42"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -6312,3 +6312,5 @@ addscriptexist(920587237, "Adopt Me: Auto Race Complete", "pulled from rbxscript
 addscript(9588998913, "Current Game","Empire Clash: Semi-Auto Blacksmith", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Empire%20Clash%20SemiAuto%20Blacksmith.lua")
 
 addscriptexist(6918802270, "Project New World: Chest Farm, Teleport Bypass, Server Hop", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Project%20New%20World%20Chest%20Farm%20Teleport%20Bypass%20Server%20Hop.lua")
+
+addscriptexist(9551640993, "Mining Simulator 2: Sell When Full, Mine Aura, Auto Farm Houses", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mining%20Simulator%20%20Sell%20When%20Full%20Mine%20Aura%20Auto%20Farm%20Houses.lua")
