@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 21:08:06"
+lastupdate = "GMT +1: 08.03.2023 21:08:12"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -14916,3 +14916,5 @@ addscriptexist(7009799230, "Pressure Wash Simulator [Inf Evrth, Inf Money]", "pu
 addscriptexist(10524502174, "One Punch Fighters [Auto Farm, Auto Click]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/One%20Punch%20Fighters%20Auto%20Farm%20Auto%20Click.lua")
 
 addscriptexist(2788229376, "Da Hood [Silent Aim]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Da%20Hood%20Silent%20Aim.lua")
+
+addscriptexist(5041144419, "SCP: Roleplay [ESP, Killaura]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SCP%20Roleplay%20ESP%20Killaura.lua")
