@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 17:23:44"
+lastupdate = "GMT +1: 08.03.2023 17:23:48"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -10084,3 +10084,5 @@ addscriptexist(292439477, "Pet Fighting Simulator: Auto Farm Money", "pulled fro
 addscript(2185497593, "Current Game","Arcade Island X: Working Arcade Auto Games", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Arcade%20Island%20X%20Working%20Arcade%20Auto%20Games.lua")
 
 addscriptexist(10889408214, "DEFLECT: Auto-deflect", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DEFLECT%20Autodeflect.lua")
+
+addscriptexist(606849621, "Jailbreak: Silent Aim & Wallbang", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Jailbreak%20Silent%20Aim%20%20Wallbang.lua")
