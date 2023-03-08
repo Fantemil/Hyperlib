@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 18:34:48"
+lastupdate = "GMT +1: 08.03.2023 18:34:52"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -11814,3 +11814,5 @@ addscriptexist(286090429, "Arsenal: God Mode, Esp, Silent Aim & More!", "pulled 
 addscriptexist(6872265039, "BedWars: Speed, Jump Power, Fps booster", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BedWars%20Speed%20Jump%20Power%20Fps%20booster.lua")
 
 addscriptexist(7243254032, "Bloody Baseplate: Glory Kills, Auto Stomp", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Bloody%20Baseplate%20Glory%20Kills%20Auto%20Stomp.lua")
+
+addscriptexist(2788229376, "Da Hood: Crash BDH Op", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Da%20Hood%20Crash%20BDH%20Op.lua")
