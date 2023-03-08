@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 12:59:41"
+lastupdate = "GMT +1: 08.03.2023 12:59:45"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -6918,3 +6918,5 @@ addscriptexist(11656036986, "make roblox games to become rich and famous tycoon:
 addscriptexist(192800, "Work at a Pizza Place: FE Insta Kick", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Work%20at%20a%20Pizza%20Place%20FE%20Insta%20Kick.lua")
 
 addscriptexist(7239319209, "Ohio: Bank Valt Teleporter", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ohio%20Bank%20Valt%20Teleporter.lua")
+
+addscriptexist(8554378337, "Weapon Fighting Simulator: Auto Boss, Auto Gumble, Auto Collect", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Weapon%20Fighting%20Simulator%20Auto%20Boss%20Auto%20Gumble%20Auto%20Collect.lua")
