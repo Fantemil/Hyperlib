@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 07:02:09"
+lastupdate = "GMT +1: 08.03.2023 07:02:12"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -5370,3 +5370,5 @@ addscript(10675042838, "Current Game","Lemonade Tycoon: Simple Auto Harvest, Aut
 addscriptexist(855499080, "SKYWARS: Teleports, Auto Heal, Anit Void", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SKYWARS%20Teleports%20Auto%20Heal%20Anit%20Void.lua")
 
 addscriptuniversal("Universal Mouse icon changer", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Mouse%20icon%20changer.lua")
+
+addscriptexist(6125589657, "Touch Football: Infinity Money, Anti Afk, Walkspeed", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Touch%20Football%20Infinity%20Money%20Anti%20Afk%20Walkspeed.lua")
