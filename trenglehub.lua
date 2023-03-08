@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 13:00:57"
+lastupdate = "GMT +1: 08.03.2023 13:01:02"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -6950,3 +6950,5 @@ addscriptexist(9798463281, "Cube Combination: Click Auto Bridge", "pulled from r
 addscriptexist(11179373590, "Broken Bones 5: Make Gravity", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Broken%20Bones%20%20Make%20Gravity.lua")
 
 addscript(4519672226, "Current Game","Egg Clicker: Auto Click, Auto Lvl Up, Auto Prestige", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Egg%20Clicker%20Auto%20Click%20Auto%20Lvl%20Up%20Auto%20Prestige.lua")
+
+addscriptexist(8540346411, "Rebirth Champions X: Auto collect presents , auto farm , auto open eggs", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Rebirth%20Champions%20X%20Auto%20collect%20presents%20%20auto%20farm%20%20auto%20open%20eggs.lua")
