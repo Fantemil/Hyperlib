@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 18:13:10"
+lastupdate = "GMT +1: 08.03.2023 18:13:14"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -11322,3 +11322,5 @@ addscriptexist(3260590327, "Tower Defense Simulator: Auto Farm Gems, Auto Strat"
 addscriptexist(9993529229, "Counter Blox Remastered: Kill All, ESP, Trigger Bot", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Counter%20Blox%20Remastered%20Kill%20All%20ESP%20Trigger%20Bot.lua")
 
 addscriptexist(11189979930, "Pet Crafting Simulator: Auto Merge, Auto Rebirth, Auto Upgrade", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pet%20Crafting%20Simulator%20Auto%20Merge%20Auto%20Rebirth%20Auto%20Upgrade.lua")
+
+addscriptexist(4924922222, "Brookhaven RP: Candy Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Brookhaven%20RP%20Candy%20Auto%20Farm.lua")
