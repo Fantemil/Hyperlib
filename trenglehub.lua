@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 17:22:29"
+lastupdate = "GMT +1: 08.03.2023 17:22:34"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -10050,3 +10050,5 @@ addscriptexist(286090429, "Arsenal: Server Crasher", "pulled from rbxscript.com"
 addscriptexist(2546155523, "RoVille [Halloween!]: Op Fossil Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RoVille%20Halloween%20Op%20Fossil%20Farm.lua")
 
 addscriptexist(6939111033, "Escape Papa Pizza's Pizzeria: Give tools", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Escape%20Papa%20Pizzas%20Pizzeria%20Give%20tools.lua")
+
+addscriptexist(6516141723, "DOORS: Auto Complete, Anti Jumpscares, ESP Chams", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DOORS%20Auto%20Complete%20Anti%20Jumpscares%20ESP%20Chams.lua")
