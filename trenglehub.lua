@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 12:27:13"
+lastupdate = "GMT +1: 08.03.2023 12:27:17"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -6056,3 +6056,5 @@ addscriptuniversal("Universal Annoying Sound, Kill Sound Service, Mute Game", "p
 addscriptexist(537413528, "Build A Boat For Treasure: Auto Farm Gold", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Build%20A%20Boat%20For%20Treasure%20Auto%20Farm%20Gold.lua")
 
 addscriptexist(6918802270, "Project New World: Auto Chest", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Project%20New%20World%20Auto%20Chest.lua")
+
+addscriptexist(6352880659, "Snowball.io: Fling All", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Snowballio%20Fling%20All.lua")
