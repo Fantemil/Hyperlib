@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 12:39:45"
+lastupdate = "GMT +1: 08.03.2023 12:39:49"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -6400,3 +6400,5 @@ addscriptexist(21532277, "Notoriety: Auto Farm - Synapse X Only", "pulled from r
 addscriptexist(6918802270, "Project New World: Chest Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Project%20New%20World%20Chest%20Auto%20Farm.lua")
 
 addscriptexist(11040063484, "Sword Fighters Simulator: Kill Aura, Auto Farm Mobs, Auto Farm Nearest Mob", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sword%20Fighters%20Simulator%20Kill%20Aura%20Auto%20Farm%20Mobs%20Auto%20Farm%20Nearest%20Mob.lua")
+
+addscriptexist(2788229376, "Da Hood: Auto Farm, Anti Slow, Fly", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Da%20Hood%20Auto%20Farm%20Anti%20Slow%20Fly.lua")
