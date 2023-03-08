@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/sewerslut/Roblox/main/Games/Shipping-Lanes"))()
