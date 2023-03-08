@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 13:12:29"
+lastupdate = "GMT +1: 08.03.2023 13:12:33"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -7250,3 +7250,5 @@ addscript(1467230998, "Current Game","TROOP LIFE: Anti Ban, Kill All, Get Gun", 
 addscript(11177482306, "Current Game","Streetz War 2: Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Streetz%20War%20%20Auto%20Farm.lua")
 
 addscriptexist(6679968919, "Fly Race: Auto Laps, Auto Orbs, Auto Rebirth", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Fly%20Race%20Auto%20Laps%20Auto%20Orbs%20Auto%20Rebirth.lua")
+
+addscriptexist(6447798030, "Funky Friday: Auto Collect Rings, Sonic Prime Event", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Funky%20Friday%20Auto%20Collect%20Rings%20Sonic%20Prime%20Event.lua")
