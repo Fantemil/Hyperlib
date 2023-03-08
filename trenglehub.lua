@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 14:36:08"
+lastupdate = "GMT +1: 08.03.2023 14:36:12"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -7744,3 +7744,5 @@ addscriptexist(8737602449, "PLS DONATE: Self Bot", "pulled from rbxscript.com", 
 addscriptexist(1537690962, "Bee Swarm Simulator: Andromeda Hub, kocmoc, EZ Hub", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Bee%20Swarm%20Simulator%20Andromeda%20Hub%20kocmoc%20EZ%20Hub.lua")
 
 addscriptexist(7346416636, "Pop It Trading: Press F to Remove Items", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pop%20It%20Trading%20Press%20F%20to%20Remove%20Items.lua")
+
+addscript(11571301605, "Current Game","Night Hood: Godbullet", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Night%20Hood%20Godbullet.lua")
