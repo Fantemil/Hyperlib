@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 20:19:52"
+lastupdate = "GMT +1: 08.03.2023 20:19:56"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -13700,3 +13700,5 @@ addscript(653205701, "Current Game","Fort Martin RP | God Mode", "pulled from rb
 addscriptexist(9648883891, "Festival Tycoon | Infinite Cash - Get Free Items", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Festival%20Tycoon%20%20Infinite%20Cash%20%20Get%20Free%20Items.lua")
 
 addscriptexist(7138009149, "PHIGHTING! | Infinite Cash", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PHIGHTING%20%20Infinite%20Cash.lua")
+
+addscriptexist(286090429, "Arsenal | Hitbox, Esp", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Arsenal%20%20Hitbox%20Esp.lua")
