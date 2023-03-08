@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 17:20:17"
+lastupdate = "GMT +1: 08.03.2023 17:20:21"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -9994,3 +9994,5 @@ addscriptexist(4490140733, "My Restaurant: Fast Sutff, Walkspeed, XP Farm", "pul
 addscript(8482451541, "Current Game","Brick Defense: Infinity Money", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Brick%20Defense%20Infinity%20Money.lua")
 
 addscriptexist(10861112990, "Anime Artifacts Simulator: Press B To Kill Aura", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime%20Artifacts%20Simulator%20Press%20B%20To%20Kill%20Aura.lua")
+
+addscriptexist(10198661638, "Farm Factory Tycoon: Auto Collect, Fly, Auto Buy", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Farm%20Factory%20Tycoon%20Auto%20Collect%20Fly%20Auto%20Buy.lua")
