@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 07:03:05"
+lastupdate = "GMT +1: 08.03.2023 07:03:08"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -5396,3 +5396,5 @@ addscriptexist(6872265039, "BedWars: Custom Long Jump Vape Plugin", "pulled from
 addscriptexist(6441847031, "CHAOS: Dupe Items, Lock Nearest, Godmode", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CHAOS%20Dupe%20Items%20Lock%20Nearest%20Godmode.lua")
 
 addscriptexist(11629950047, "ProTube Race Clicker: Subscribers Auto Farm, Auto Click", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ProTube%20Race%20Clicker%20Subscribers%20Auto%20Farm%20Auto%20Click.lua")
+
+addscript(10681622988, "Current Game","Easy Jump Clicker: Auto Click, Auto Win, Auto Eggs", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Easy%20Jump%20Clicker%20Auto%20Click%20Auto%20Win%20Auto%20Eggs.lua")
