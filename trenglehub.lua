@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 06:37:46"
+lastupdate = "GMT +1: 08.03.2023 06:37:49"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -4632,3 +4632,5 @@ addscriptexist(11542692507, "Anime Souls Simulator: Auto Farm Gui", "pulled from
 addscriptexist(286090429, "Arsenal: Night Hub", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Arsenal%20Night%20Hub.lua")
 
 addscriptexist(286090429, "Arsenal: Slaughter Event", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Arsenal%20Slaughter%20Event.lua")
+
+addscriptexist(11874473440, "Car Factory Tycoon!: Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Car%20Factory%20Tycoon%20Auto%20Farm.lua")
