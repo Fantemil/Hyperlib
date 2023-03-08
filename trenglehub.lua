@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 12:32:29"
+lastupdate = "GMT +1: 08.03.2023 12:32:32"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -6198,3 +6198,5 @@ addscript(10180880196, "Current Game","Fling Champions: Auto Farm Candycorns, Au
 addscriptexist(8908228901, "Sharkbite 2: Auto Farm, No Cooldown, Noclip", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sharkbite%20%20Auto%20Farm%20No%20Cooldown%20Noclip.lua")
 
 addscriptexist(2753915549, "Blox Fruits: Auto Upgrade Stats, Auto Farm Chests & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blox%20Fruits%20Auto%20Upgrade%20Stats%20Auto%20Farm%20Chests%20%20More.lua")
+
+addscriptexist(6284583030, "Pet Simulator X: Walkspeeds, Fly & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pet%20Simulator%20X%20Walkspeeds%20Fly%20%20More.lua")
