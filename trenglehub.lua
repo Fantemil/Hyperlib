@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 20:19:29"
+lastupdate = "GMT +1: 08.03.2023 20:19:36"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -13690,3 +13690,5 @@ addscriptexist(3214114884, "Flag Wars! | Hitbox, Chams", "pulled from rbxscript.
 addscriptexist(6516141723, "DOORS | AutoSkipLvl, Instant Interact", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DOORS%20%20AutoSkipLvl%20Instant%20Interact.lua")
 
 addscriptexist(8737602449, "PLS DONATE | Fly, Walkspeed", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PLS%20DONATE%20%20Fly%20Walkspeed.lua")
+
+addscriptexist(4913581664, "Cart Ride Into Rdite! | AutoClick", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Cart%20Ride%20Into%20Rdite%20%20AutoClick.lua")
