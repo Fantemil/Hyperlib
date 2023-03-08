@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 17:06:30"
+lastupdate = "GMT +1: 08.03.2023 17:06:36"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -9638,3 +9638,5 @@ addscriptexist(8726743209, "Refinery Caves: No Water Blur, Clear Weather & More"
 addscriptexist(2753915549, "Blox Fruits: Auto Team, Auto Eat Fruit, Auto Store Fruit", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blox%20Fruits%20Auto%20Team%20Auto%20Eat%20Fruit%20Auto%20Store%20Fruit.lua")
 
 addscriptexist(5865858426, "Retail Tycoon 2: Philips Coins AutoFarm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Retail%20Tycoon%20%20Philips%20Coins%20AutoFarm.lua")
+
+addscript(6422033265, "Current Game","No Jumping Difficulty Chart Obby: AutoPassage", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/No%20Jumping%20Difficulty%20Chart%20Obby%20AutoPassage.lua")
