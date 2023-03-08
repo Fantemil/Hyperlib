@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 18:54:34"
+lastupdate = "GMT +1: 08.03.2023 18:54:39"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -12208,3 +12208,5 @@ addscriptexist(10180880196, "Fling Champions: Auto Complete Launch Area", "pulle
 addscriptexist(4036494886, "Gun Simulator: Inf Money", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Gun%20Simulator%20Inf%20Money.lua")
 
 addscriptexist(8482451541, "Brick Defense: Delete Everyone's Towers", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Brick%20Defense%20Delete%20Everyones%20Towers.lua")
+
+addscript(8612195438, "Current Game","Clicker Party Simulator: Auto Click, Auto Rebirth & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Clicker%20Party%20Simulator%20Auto%20Click%20Auto%20Rebirth%20%20More.lua")
