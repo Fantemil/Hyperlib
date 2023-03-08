@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 19:25:52"
+lastupdate = "GMT +1: 08.03.2023 19:25:58"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -12886,3 +12886,5 @@ addscriptexist(3177438863, "Dragon Blox: Auto Rebirth, Auto Farm, Auto Lot", "pu
 addscriptexist(7243254032, "Bloody Baseplate: Auto Stomp, Auto Glory Kill, Buy Items", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Bloody%20Baseplate%20Auto%20Stomp%20Auto%20Glory%20Kill%20Buy%20Items.lua")
 
 addscript(6713610501, "Current Game","Guess How Many: Show Amount", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Guess%20How%20Many%20Show%20Amount.lua")
+
+addscriptexist(1487722208, "Barren: Simple Esp", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Barren%20Simple%20Esp.lua")
