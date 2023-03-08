@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 20:53:51"
+lastupdate = "GMT +1: 08.03.2023 20:53:57"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -14568,3 +14568,5 @@ addscriptexist(8737602449, "PLS DONATE [Text Bypass]", "pulled from rbxscript.co
 addscriptexist(9658251985, "The Rake Kill Test [-10 Kills]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/The%20Rake%20Kill%20Test%20%20Kills.lua")
 
 addscriptexist(9658251985, "The Rake Kill Test [+10 kills]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/The%20Rake%20Kill%20Test%20%20kills.lua")
+
+addscriptexist(9658251985, "The Rake Kill Test [Inf Money]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/The%20Rake%20Kill%20Test%20Inf%20Money.lua")
