@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 18:28:08"
+lastupdate = "GMT +1: 08.03.2023 18:28:14"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -11694,3 +11694,5 @@ addscript(9885181578, "Current Game","Sanrio Obby: Auto Farm", "pulled from rbxs
 addscriptexist(6708206173, "Rate my avatar: Animations", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Rate%20my%20avatar%20Animations.lua")
 
 addscriptexist(9486506804, "FiFa World: Collect all treasure,Inf coins,Auto buy pack", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FiFa%20World%20Collect%20all%20treasureInf%20coinsAuto%20buy%20pack.lua")
+
+addhub("PENDULUM HUB Gui R6", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PENDULUM%20HUB%20Gui%20R.lua")
