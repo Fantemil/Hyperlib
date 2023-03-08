@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 19:34:20"
+lastupdate = "GMT +1: 08.03.2023 19:34:24"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -13076,3 +13076,5 @@ addscriptexist(621129760, "Knife Ability Test: Silent Aim, Draw Fov, Infinity Am
 addscriptexist(4983006874, "NGU CLICKER SIMULATOR Gui: Auto Click, Auto Upgrade, Auto Pet Evolve", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NGU%20CLICKER%20SIMULATOR%20Gui%20Auto%20Click%20Auto%20Upgrade%20Auto%20Pet%20Evolve.lua")
 
 addscriptexist(2753915549, "Blox Fruits: Auto Set Spawn Points, Teleports & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blox%20Fruits%20Auto%20Set%20Spawn%20Points%20Teleports%20%20More.lua")
+
+addscriptexist(5993942214, "Rush Point: Esp Players, Distance", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Rush%20Point%20Esp%20Players%20Distance.lua")
