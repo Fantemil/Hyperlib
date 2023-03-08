@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 18:57:19"
+lastupdate = "GMT +1: 08.03.2023 18:57:24"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -12268,3 +12268,5 @@ addscriptexist(9554750143, "Pet Fighting Simulator: Infinite Coins, Infinite Gem
 addscriptexist(3411100258, "prtty much evry bordr gam evr: Hide Name, No Hunger & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/prtty%20much%20evry%20bordr%20gam%20evr%20Hide%20Name%20No%20Hunger%20%20More.lua")
 
 addscriptexist(990364410, "Survive the Night: Task Esp, Full Bright, Point Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Survive%20the%20Night%20Task%20Esp%20Full%20Bright%20Point%20Farm.lua")
+
+addscriptexist(189707, "Natural Disaster Survival: Choose Next Map, Teleports, Walkspeed", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Natural%20Disaster%20Survival%20Choose%20Next%20Map%20Teleports%20Walkspeed.lua")
