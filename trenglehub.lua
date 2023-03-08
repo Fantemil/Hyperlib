@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 19:30:29"
+lastupdate = "GMT +1: 08.03.2023 19:30:37"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -12988,3 +12988,5 @@ addscriptexist(1537690962, "Bee Swarm Simulator: Auto Farm, Auto Dig, Dig mode &
 addscriptexist(10758748100, "Killstreak Simulator Remake: Battle Axe, Add Kills", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Killstreak%20Simulator%20Remake%20Battle%20Axe%20Add%20Kills.lua")
 
 addscriptexist(192800, "Work At A Pizza Place: Auto Farm, Teleport, Anti Kick", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Work%20At%20A%20Pizza%20Place%20Auto%20Farm%20Teleport%20Anti%20Kick.lua")
+
+addscript(206640076, "Current Game","Deathrun: Unload map", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Deathrun%20Unload%20map.lua")
