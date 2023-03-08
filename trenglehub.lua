@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 15:07:46"
+lastupdate = "GMT +1: 08.03.2023 15:07:50"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -8592,3 +8592,5 @@ addscriptexist(2317712696, "The Wild West: Gun Mods", "pulled from rbxscript.com
 addscriptexist(11330149751, "making scam calls to save your best friend tycoon: Auto Farm Scam Calls, Auto Upgrades", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/making%20scam%20calls%20to%20save%20your%20best%20friend%20tycoon%20Auto%20Farm%20Scam%20Calls%20Auto%20Upgrades.lua")
 
 addscriptexist(10714365287, "Anime Racing Clicker: Auto Farm, Auto Hatch, Auto Rebirth", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime%20Racing%20Clicker%20Auto%20Farm%20Auto%20Hatch%20Auto%20Rebirth.lua")
+
+addscriptexist(10652184030, "Jump Clicker: Auto Rebrith, Auto Farm, Auto Click", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Jump%20Clicker%20Auto%20Rebrith%20Auto%20Farm%20Auto%20Click.lua")
