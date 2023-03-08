@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 20:13:21"
+lastupdate = "GMT +1: 08.03.2023 20:13:25"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -13528,3 +13528,5 @@ addscriptexist(4616652839, "Shindo Life | Autofarm Mobs, Auto Key Press, Infinit
 addscriptexist(2066381781, "Deadly Sins Retribution | Change Stats, Auto Farm, God Mode", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Deadly%20Sins%20Retribution%20%20Change%20Stats%20Auto%20Farm%20God%20Mode.lua")
 
 addscript(9630689264, "Current Game","Hood Genesis | Delete All Doors, Instant Kill, Goto Random", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Hood%20Genesis%20%20Delete%20All%20Doors%20Instant%20Kill%20Goto%20Random.lua")
+
+addscriptexist(2788229376, "Da Hood | Teleports, Esp, Aimlock", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Da%20Hood%20%20Teleports%20Esp%20Aimlock.lua")
