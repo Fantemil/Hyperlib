@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 19:53:05"
+lastupdate = "GMT +1: 08.03.2023 19:53:10"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -13258,3 +13258,5 @@ addscript(10377670005, "Current Game","Kidnap Simulator | Auto Kidnap", "pulled 
 addscriptexist(10377670005, "Kidnap Simulator | 100k Kidnap Every Second", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Kidnap%20Simulator%20%20k%20Kidnap%20Every%20Second.lua")
 
 addscriptexist(2788229376, "Da Hood | Aim Lock, AntiLag, Silent Mode", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Da%20Hood%20%20Aim%20Lock%20AntiLag%20Silent%20Mode.lua")
+
+addscriptexist(5993942214, "Rush Point | Skin Changer", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Rush%20Point%20%20Skin%20Changer.lua")
