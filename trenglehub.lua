@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 15:11:55"
+lastupdate = "GMT +1: 08.03.2023 15:11:58"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -8702,3 +8702,5 @@ addscriptexist(6516141723, "DOORS: M249 Giver", "pulled from rbxscript.com", "ht
 addscriptexist(10205046075, "Onslaught Public Dev Server: Kill All", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Onslaught%20Public%20Dev%20Server%20Kill%20All.lua")
 
 addscriptuniversal("Universal FPS Maker", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20FPS%20Maker.lua")
+
+addscriptexist(1962086868, "Tower Of Hell: Godmode, Remove Killbricks, Get All Items", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tower%20Of%20Hell%20Godmode%20Remove%20Killbricks%20Get%20All%20Items.lua")
