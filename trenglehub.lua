@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 12:23:16"
+lastupdate = "GMT +1: 08.03.2023 12:23:23"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -5952,3 +5952,5 @@ addscript(4994661268, "Current Game","Undertale: Judgement Day: Skip Round, Coin
 addscriptexist(10243982775, "RedBox: FOV slider, Silent aim, Double tap", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RedBox%20FOV%20slider%20Silent%20aim%20Double%20tap.lua")
 
 addhub("IpHub: 3 Games", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/IpHub%20%20Games.lua")
+
+addscriptuniversal("Universal Body Stealer File Version", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Body%20Stealer%20File%20Version.lua")
