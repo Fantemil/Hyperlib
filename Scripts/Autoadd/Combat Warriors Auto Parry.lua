@@ -1,1 +1,1 @@
-loadstring(game:HttpGet(('https://raw.githubusercontent.com/ToothlessNight/DragonHub/main/Auto%20Parry'),true))()
+loadstring(game:HttpGet(('https://pastebin.com/etnrcR1e'),true))()
