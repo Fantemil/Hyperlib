@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 18:47:20"
+lastupdate = "GMT +1: 08.03.2023 18:47:25"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -12054,3 +12054,5 @@ addscript(9195713767, "Current Game","Sword Haven: Auto Farm, Teleports, Fast Co
 addscript(11161243190, "Current Game","Project Polaro: Add Item, Pokemon moves, Change Log", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Project%20Polaro%20Add%20Item%20Pokemon%20moves%20Change%20Log.lua")
 
 addscriptexist(10710676163, "SPTS : Origin | Auto Farm, Auto Server Hop, Auto respawn", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SPTS%20%20Origin%20%20Auto%20Farm%20Auto%20Server%20Hop%20Auto%20respawn.lua")
+
+addscript(6828235261, "Current Game","FNAF: Coop | Animatronic Esp, Infinite Sprint & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FNAF%20Coop%20%20Animatronic%20Esp%20Infinite%20Sprint%20%20More.lua")
