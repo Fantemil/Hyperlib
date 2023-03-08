@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 14:51:47"
+lastupdate = "GMT +1: 08.03.2023 14:51:51"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -8168,3 +8168,5 @@ addscriptexist(286090429, "Arsenal: ESP, Aimbot, Mods", "pulled from rbxscript.c
 addscriptexist(920587237, "Adopt Me: Farm Ginger", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Adopt%20Me%20Farm%20Ginger.lua")
 
 addhub("AcrHub: 25 Games", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AcrHub%20%20Games.lua")
+
+addscriptexist(9862832367, "Never-Ending Cart Ride: Break all cars, Annoy all, Fly", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NeverEnding%20Cart%20Ride%20Break%20all%20cars%20Annoy%20all%20Fly.lua")
