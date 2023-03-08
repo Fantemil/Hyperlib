@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 13:12:16"
+lastupdate = "GMT +1: 08.03.2023 13:12:20"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -7244,3 +7244,5 @@ addscriptexist(662417684, "LUCKY BLOCKS Battlegrounds: Get All Items", "pulled f
 addscriptexist(10875701453, "Edward the Man-Eating Train: Gun Modification", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Edward%20the%20ManEating%20Train%20Gun%20Modification.lua")
 
 addscriptuniversal("Universal Start Auto Time, Spoof Autotime, Stop autotime rejoins", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Start%20Auto%20Time%20Spoof%20Autotime%20Stop%20autotime%20rejoins.lua")
+
+addscript(1467230998, "Current Game","TROOP LIFE: Anti Ban, Kill All, Get Gun", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TROOP%20LIFE%20Anti%20Ban%20Kill%20All%20Get%20Gun.lua")
