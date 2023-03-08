@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 17:14:55"
+lastupdate = "GMT +1: 08.03.2023 17:14:59"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -9856,3 +9856,5 @@ addscriptexist(443406476, "Project Lazarus: AFK Farm, Gun Mods, Silent Aim", "pu
 addscriptexist(8365905206, "untitled tag game: Auto Collect Coins", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/untitled%20tag%20game%20Auto%20Collect%20Coins.lua")
 
 addscriptexist(8365905206, "untitled tag game: Fullbright, Toggle Hitboxes, Spoofers", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/untitled%20tag%20game%20Fullbright%20Toggle%20Hitboxes%20Spoofers.lua")
+
+addscriptexist(5956785391, "Project Slayers: Auto Farm, Kill Aura, Boss Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Project%20Slayers%20Auto%20Farm%20Kill%20Aura%20Boss%20Farm.lua")
