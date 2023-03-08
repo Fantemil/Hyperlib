@@ -1,1 +1,1 @@
-loadstring(game:HttpGet('https://pastebin.com/raw/g1CG7iCi'))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/sinret/rbxscript.com-scripts-reuploads-/main/pl", true))()
