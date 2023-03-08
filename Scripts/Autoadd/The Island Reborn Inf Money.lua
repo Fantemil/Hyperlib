@@ -1,0 +1,1 @@
+game:GetService("ReplicatedStorage").Remotes.Shop:FireServer("M4A1", -5000)
