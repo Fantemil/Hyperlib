@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 20:17:35"
+lastupdate = "GMT +1: 08.03.2023 20:17:40"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -13638,3 +13638,5 @@ addscriptexist(920587237, "Adopt Me! | Auto Farm, Fun Functions, Fly", "pulled f
 addscriptexist(10524502174, "One Punch Fighters Simulator | AutoFarm, AutoDelete, AutoBuy", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/One%20Punch%20Fighters%20Simulator%20%20AutoFarm%20AutoDelete%20AutoBuy.lua")
 
 addscriptexist(1537690962, "Bee Swarm Simulator | Auto Convert Pollen, AutoDig, AutoFarm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Bee%20Swarm%20Simulator%20%20Auto%20Convert%20Pollen%20AutoDig%20AutoFarm.lua")
+
+addscript(6055959032, "Current Game","Jailbird | GUI - Aimbot, Esp & More!", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Jailbird%20%20GUI%20%20Aimbot%20Esp%20%20More.lua")
