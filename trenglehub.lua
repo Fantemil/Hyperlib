@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 17:18:27"
+lastupdate = "GMT +1: 08.03.2023 17:18:31"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -9948,3 +9948,5 @@ addscriptexist(8750997647, "Tapping Legends X: Auto Collect Drill, Auto Eggs & M
 addscriptexist(6516141723, "DOORS: No screech, Instant Interact, Figure Chams", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DOORS%20No%20screech%20Instant%20Interact%20Figure%20Chams.lua")
 
 addscript(402122991, "Current Game","Redwood Prison: Team Switcher, Spam Doors, Teleports", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Redwood%20Prison%20Team%20Switcher%20Spam%20Doors%20Teleports.lua")
+
+addscriptexist(6403373529, "Slap Battles: Be Gold Forever", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Slap%20Battles%20Be%20Gold%20Forever.lua")
