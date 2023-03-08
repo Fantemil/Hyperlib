@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 17:59:00"
+lastupdate = "GMT +1: 08.03.2023 17:59:04"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -10974,3 +10974,5 @@ addscriptexist(8304191830, "Anime Adventures: Sell All, Auto Place&Upgrade, No m
 addscriptexist(10023995823, "Da Backrooms: Anti-cheat Bypass", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Da%20Backrooms%20Anticheat%20Bypass.lua")
 
 addscriptexist(8908228901, "SharkBite 2: Teeth Generator, Kill Aura, Kill All", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SharkBite%20%20Teeth%20Generator%20Kill%20Aura%20Kill%20All.lua")
+
+addscriptexist(8908228901, "SharkBite 2 [NEW]: Kill All & Teeth Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SharkBite%20%20NEW%20Kill%20All%20%20Teeth%20Farm.lua")
