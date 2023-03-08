@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 17:36:46"
+lastupdate = "GMT +1: 08.03.2023 17:36:50"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -10412,3 +10412,5 @@ addscript(6336491204, "Current Game","Karate: God mode, Autoblock, Anti attack, 
 addscriptexist(537413528, "Build A Boat For Treasure: Auto Farm, Jump Power, Walkspeed", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Build%20A%20Boat%20For%20Treasure%20Auto%20Farm%20Jump%20Power%20Walkspeed.lua")
 
 addscript(9739393895, "Current Game","Car Crash Simulator 2: Serverside Delete Tool", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Car%20Crash%20Simulator%20%20Serverside%20Delete%20Tool.lua")
+
+addscript(11236233078, "Current Game","Killstreak: Mayhem: Slap Someone", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Killstreak%20Mayhem%20Slap%20Someone.lua")
