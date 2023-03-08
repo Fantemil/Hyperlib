@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 12:30:53"
+lastupdate = "GMT +1: 08.03.2023 12:30:57"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -6154,3 +6154,5 @@ addscriptexist(8069117419, "Demon Soul Simulator: AutoFarm, Teleports & More", "
 addscript(11179373590, "Current Game","Broken Bones 5: Max Damage", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Broken%20Bones%20%20Max%20Damage.lua")
 
 addscript(11302867501, "Current Game","Every Second You Get Stronger: Auto Farm Wins", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Every%20Second%20You%20Get%20Stronger%20Auto%20Farm%20Wins.lua")
+
+addscriptexist(6284583030, "Pet Simulator X: Teleport To Gifts", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pet%20Simulator%20X%20Teleport%20To%20Gifts.lua")
