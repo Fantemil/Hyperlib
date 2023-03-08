@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ufouzzed/MaxeyMadeThis/main/Kaiju%20Paradise"))()
