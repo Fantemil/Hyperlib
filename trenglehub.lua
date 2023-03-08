@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 19:34:34"
+lastupdate = "GMT +1: 08.03.2023 19:34:44"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -13082,3 +13082,5 @@ addscriptexist(5993942214, "Rush Point: Esp Players, Distance", "pulled from rbx
 addscriptexist(1224212277, "Mad City: Chapter 2: Loop Kill All", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mad%20City%20Chapter%20%20Loop%20Kill%20All.lua")
 
 addscriptexist(4860819035, "Plants vs Zombies Garden Problem: Inf Levels", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Plants%20vs%20Zombies%20Garden%20Problem%20Inf%20Levels.lua")
+
+addscriptexist(8304191830, "Anime Adventures: Auto Farm, Auto Join", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime%20Adventures%20Auto%20Farm%20Auto%20Join.lua")
