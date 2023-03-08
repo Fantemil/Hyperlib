@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 14:51:04"
+lastupdate = "GMT +1: 08.03.2023 14:51:08"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -8148,3 +8148,5 @@ addscriptexist(4282985734, "Combat Warriors: Kill Aura, Auto Equip, Stomp Aura",
 addscriptexist(292439477, "Phantom Forces: Silent Aim, No recoil, Gun Mods", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Phantom%20Forces%20Silent%20Aim%20No%20recoil%20Gun%20Mods.lua")
 
 addscriptexist(7525610732, "Kaizen: Auto Quest, Auto Sellect Weapon, Add ponts", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Kaizen%20Auto%20Quest%20Auto%20Sellect%20Weapon%20Add%20ponts.lua")
+
+addscriptexist(11040063484, "Sword Fighters Simulator: Auto Collect, Auto Ascend, Auto Claim Chest", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sword%20Fighters%20Simulator%20Auto%20Collect%20Auto%20Ascend%20Auto%20Claim%20Chest.lua")
