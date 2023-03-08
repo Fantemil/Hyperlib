@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Kargomil/PhonkScriptV.1/main/Aim/esp"))()
