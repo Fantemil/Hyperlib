@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 18:59:23"
+lastupdate = "GMT +1: 08.03.2023 18:59:28"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -12316,3 +12316,5 @@ addscript(5915341487, "Current Game","Pancake's Wall Hop Difficulty Chart: Autom
 addscriptexist(3956818381, "Ninja Legends: Auto Sell, Auto Crystals, Auto Upgrade Swords", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ninja%20Legends%20Auto%20Sell%20Auto%20Crystals%20Auto%20Upgrade%20Swords.lua")
 
 addscriptexist(10320240572, "Easy Race Clicker: Auto Finish, Auto Rebirth, Auto Pets", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Easy%20Race%20Clicker%20Auto%20Finish%20Auto%20Rebirth%20Auto%20Pets.lua")
+
+addscriptexist(9207492417, "Roguelike Prototype: Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Roguelike%20Prototype%20Auto%20Farm.lua")
