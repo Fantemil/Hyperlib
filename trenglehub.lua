@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 17:37:59"
+lastupdate = "GMT +1: 08.03.2023 17:38:03"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -10444,3 +10444,5 @@ addscriptexist(8726743209, "Refinery Caves: No Shadows, Walkspeed Slider, Telepo
 addscriptexist(8908228901, "SharkBite 2: Instant Kill Sharks", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SharkBite%20%20Instant%20Kill%20Sharks.lua")
 
 addscriptexist(8232438881, "Thief Simulator: Npc Rob, Collect Group Reward & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Thief%20Simulator%20Npc%20Rob%20Collect%20Group%20Reward%20%20More.lua")
+
+addscriptexist(8916037983, "Starving Artists: Profit Calculator", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Starving%20Artists%20Profit%20Calculator.lua")
