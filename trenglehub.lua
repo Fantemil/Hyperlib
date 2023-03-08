@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 18:24:17"
+lastupdate = "GMT +1: 08.03.2023 18:24:21"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -11596,3 +11596,5 @@ addscriptexist(8726743209, "Refinery Caves: Purple Tree Esp", "pulled from rbxsc
 addscript(4036494886, "Current Game","Gun Simulator: Infinite Money, Stars & All Pets", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Gun%20Simulator%20Infinite%20Money%20Stars%20%20All%20Pets.lua")
 
 addscriptexist(10710676163, "SPTS Origin: Auto Farm, Kill All, Auto Death Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SPTS%20Origin%20Auto%20Farm%20Kill%20All%20Auto%20Death%20Farm.lua")
+
+addscriptexist(10714365287, "Anime Racing Clicker: Unlock Worlds, Auto Click, Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime%20Racing%20Clicker%20Unlock%20Worlds%20Auto%20Click%20Auto%20Farm.lua")
