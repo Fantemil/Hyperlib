@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 14:59:02"
+lastupdate = "GMT +1: 08.03.2023 14:59:08"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -8362,3 +8362,5 @@ addscriptexist(8927008367, "Kengun Online: Money Auto Farm", "pulled from rbxscr
 addscriptexist(2986677229, "Giant Simulator: Auto Farm Orbs", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Giant%20Simulator%20Auto%20Farm%20Orbs.lua")
 
 addscriptexist(70005410, "Blox Hunt V2.7.28: Unlock Gamepasses & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blox%20Hunt%20V%20Unlock%20Gamepasses%20%20More.lua")
+
+addscriptexist(10875701453, "Edward The Man Eating Train: Walkspeed", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Edward%20The%20Man%20Eating%20Train%20Walkspeed.lua")
