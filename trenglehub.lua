@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 06:49:44"
+lastupdate = "GMT +1: 08.03.2023 06:49:47"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -4994,3 +4994,5 @@ addscript(4918537844, "Current Game","Space Station Infinity: Do every research"
 addscriptexist(3527629287, "Big Paintball! Silent Aim, Wallbang", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Big%20Paintball%20Silent%20Aim%20Wallbang.lua")
 
 addscriptexist(11639667117, "Eat Same Color Food Challenge: Bring Items, Instant Press", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Eat%20Same%20Color%20Food%20Challenge%20Bring%20Items%20Instant%20Press.lua")
+
+addscriptexist(891852901, "Greenville: AutoFarm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Greenville%20AutoFarm.lua")
