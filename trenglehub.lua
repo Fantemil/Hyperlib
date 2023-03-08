@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 18:12:07"
+lastupdate = "GMT +1: 08.03.2023 18:12:11"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -11298,3 +11298,5 @@ addscript(8929050629, "Current Game","Mos Academy: Free Items", "pulled from rbx
 addscriptexist(8069117419, "Demon Soul Simulator: Auto Farm, Auto Collect Orbs, Auto Boss", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Demon%20Soul%20Simulator%20Auto%20Farm%20Auto%20Collect%20Orbs%20Auto%20Boss.lua")
 
 addscriptexist(8726743209, "Refinery Caves: Sell ore, Tp, Full Birght", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Refinery%20Caves%20Sell%20ore%20Tp%20Full%20Birght.lua")
+
+addscript(5721826509, "Current Game","Amongst Us: Infinity Task Range, Teleports, Infinity Report Range", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Amongst%20Us%20Infinity%20Task%20Range%20Teleports%20Infinity%20Report%20Range.lua")
