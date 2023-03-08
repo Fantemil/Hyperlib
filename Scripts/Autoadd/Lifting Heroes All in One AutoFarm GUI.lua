@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/7fxcode/vaporlite/main/main.lua",true))()
