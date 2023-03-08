@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 14:42:14"
+lastupdate = "GMT +1: 08.03.2023 14:42:18"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -7910,3 +7910,5 @@ addscript(11563572312, "Current Game","Ultimate Magnet Simulator: Infinite Cash"
 addscriptexist(4042427666, "Anime Fighting Simulator: Devil Fruit Farm, Auto Chikara, Auto Farm Train", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime%20Fighting%20Simulator%20Devil%20Fruit%20Farm%20Auto%20Chikara%20Auto%20Farm%20Train.lua")
 
 addhub("PWR Hub: 5+ Games", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PWR%20Hub%20%20Games.lua")
+
+addhub("Universal R15 Server Crasher", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20R%20Server%20Crasher.lua")
