@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 13:07:18"
+lastupdate = "GMT +1: 08.03.2023 13:07:22"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -7114,3 +7114,5 @@ addscriptexist(920587237, "Adopt Me: Pet Farm & More!", "pulled from rbxscript.c
 addscriptexist(920587237, "Adopt Me: Shnigel Utils", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Adopt%20Me%20Shnigel%20Utils.lua")
 
 addscriptexist(6407649031, "NO-SCOPE ARCADE: Gun Mods, Aimbot, Silent Aim", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NOSCOPE%20ARCADE%20Gun%20Mods%20Aimbot%20Silent%20Aim.lua")
+
+addscript(7243254032, "Current Game","Bloody Baseplate: Inf Money", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Bloody%20Baseplate%20Inf%20Money.lua")
