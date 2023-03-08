@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 18:24:42"
+lastupdate = "GMT +1: 08.03.2023 18:24:46"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -11606,3 +11606,5 @@ addscriptexist(2116002761, "Afton's Family Diner: Unlock All", "pulled from rbxs
 addhub("Universal Script Hub: FE Emotes, Animations, Accessories", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Script%20Hub%20FE%20Emotes%20Animations%20Accessories.lua")
 
 addscriptexist(7026828578, "Speed Simulator: Endless Cash", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Speed%20Simulator%20Endless%20Cash.lua")
+
+addscriptexist(2653064683, "Word Bomb: Auto Type", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Word%20Bomb%20Auto%20Type.lua")
