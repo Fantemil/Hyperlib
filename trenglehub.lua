@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 13:06:36"
+lastupdate = "GMT +1: 08.03.2023 13:06:40"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -7096,3 +7096,5 @@ addscriptexist(2753915549, "Blox Fruits: Astro Hub, Owu Hub, Magma Hub", "pulled
 addscript(9718523719, "Current Game","Raise a Noob: Auto Feed, Auto Click, Collect Bobux", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Raise%20a%20Noob%20Auto%20Feed%20Auto%20Click%20Collect%20Bobux.lua")
 
 addscriptexist(6447798030, "Funky Friday: Auto Collect Rings", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Funky%20Friday%20Auto%20Collect%20Rings.lua")
+
+addscriptexist(5712833750, "Animal Simulator: Auto Collect Coins", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Animal%20Simulator%20Auto%20Collect%20Coins.lua")
