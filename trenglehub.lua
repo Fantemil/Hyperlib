@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 17:12:38"
+lastupdate = "GMT +1: 08.03.2023 17:12:45"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -9796,3 +9796,5 @@ addscriptexist(9772878203, "Raise A Floppa 2: Auto Pet Floppa, Auto Click Floppa
 addscript(7044096177, "Current Game","The Obby Elevator: Auto Farm Levels, Auto Farm Coins, Get Badges", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/The%20Obby%20Elevator%20Auto%20Farm%20Levels%20Auto%20Farm%20Coins%20Get%20Badges.lua")
 
 addscriptexist(10919241870, "Rarity Factory Tycoon: Auto Collect, Auto Deposit, Teleports", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Rarity%20Factory%20Tycoon%20Auto%20Collect%20Auto%20Deposit%20Teleports.lua")
+
+addscriptexist(5956785391, "Project Slayers: Auto Breath", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Project%20Slayers%20Auto%20Breath.lua")
