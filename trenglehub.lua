@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 15:01:04"
+lastupdate = "GMT +1: 08.03.2023 15:01:08"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -8416,3 +8416,5 @@ addhub("Strike Hub: 8 Games", "pulled from rbxscript.com", "https://raw.githubus
 addscriptexist(10041108328, "Dark Life: Inf Ammo, No Recoil, No Shot Delay", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Dark%20Life%20Inf%20Ammo%20No%20Recoil%20No%20Shot%20Delay.lua")
 
 addscriptexist(9874911474, "Tha Bronx 2: Auto Farm Thing", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tha%20Bronx%20%20Auto%20Farm%20Thing.lua")
+
+addscriptuniversal("Universal Bubble Chat Enabler", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Bubble%20Chat%20Enabler.lua")
