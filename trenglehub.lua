@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 19:06:47"
+lastupdate = "GMT +1: 08.03.2023 19:06:52"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -12478,3 +12478,5 @@ addhub("Dark Universal ScriptHub", "pulled from rbxscript.com", "https://raw.git
 addscriptexist(10675066724, "Slime Tower Tycoon: Auto Merge, Auto Deposit, Auto Collect", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Slime%20Tower%20Tycoon%20Auto%20Merge%20Auto%20Deposit%20Auto%20Collect.lua")
 
 addscriptexist(2185497593, "Arcade Island X Working Arcade: Auto Chip, Auto Dogecoin", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Arcade%20Island%20X%20Working%20Arcade%20Auto%20Chip%20Auto%20Dogecoin.lua")
+
+addscriptexist(2248408710, "Destruction Simulator: Infinite Coins", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Destruction%20Simulator%20Infinite%20Coins.lua")
