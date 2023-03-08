@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 15:08:38"
+lastupdate = "GMT +1: 08.03.2023 15:08:43"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -8616,3 +8616,5 @@ addhub("LHub: 2 Games and Universal", "pulled from rbxscript.com", "https://raw.
 addhub("VHub: Trolling GUI, ESP & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/VHub%20Trolling%20GUI%20ESP%20%20More.lua")
 
 addhub("Platinum Hub: 5 Games", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Platinum%20Hub%20%20Games.lua")
+
+addscriptexist(6403373529, "Slap Battles: Normal Anti-Void, Auto Toxic, Walkspeed", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Slap%20Battles%20Normal%20AntiVoid%20Auto%20Toxic%20Walkspeed.lua")
