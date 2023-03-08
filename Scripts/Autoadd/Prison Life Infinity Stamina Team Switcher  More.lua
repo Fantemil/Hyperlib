@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SchoolTrash/FantasyHub/main/Prison%20LifeV1.1"))()
