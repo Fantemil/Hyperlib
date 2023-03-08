@@ -1,0 +1,2 @@
+getgenv().method = "fn" -- put the two letters (method) here. available ones are pq, bj, dq and hu. fn is recommended by default.
+loadstring(game:HttpGet("https://raw.githubusercontent.com/sy-nn/synergy/additional/betterbypasser",true))()
