@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 12:45:32"
+lastupdate = "GMT +1: 08.03.2023 12:45:37"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -6562,3 +6562,5 @@ addhub("Celestial Hub: 20+ Games", "pulled from rbxscript.com", "https://raw.git
 addscript(11200197064, "Current Game","Rich Clicker Simulator! Auto Farm, Fast CPS, Boost FPS", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Rich%20Clicker%20Simulator%20Auto%20Farm%20Fast%20CPS%20Boost%20FPS.lua")
 
 addscript(1535701761, "Current Game","The Clown Killings Reborn: Auto Survive, Bypass TP Anti Cheat, Teleports", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/The%20Clown%20Killings%20Reborn%20Auto%20Survive%20Bypass%20TP%20Anti%20Cheat%20Teleports.lua")
+
+addscriptexist(11302865934, "Every Second You Get +1 Health: Auto Farm Rebirths", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Every%20Second%20You%20Get%20%20Health%20Auto%20Farm%20Rebirths.lua")
