@@ -1,0 +1,15 @@
+local Player = game:GetService("Players").LocalPlayer
+local Character = Player.Character
+Character["Right Arm"].Size = Vector3.new(8,5,5)
+Character["Left Arm"].Size = Vector3.new(8,5,5)
+Character["Right Arm"].Transparency = 1
+Character["Left Arm"].Transparency = 1
+Character["Right Leg"].Size = Vector3.new(8,2,5)
+Character["Left Leg"].Size = Vector3.new(8,2,5)
+Character["Right Leg"].Transparency = 1
+Character["Left Leg"].Transparency = 1
+Character["Torso"].Size = Vector3.new(5,5,5)
+Character["Torso"].Transparency = 1
+Character.HumanoidRootPart.Size = Vector3.new(10,2,10)
+Character.HumanoidRootPart.Size = Vector3.new(10,2,10)
+Character.HumanoidRootPart.Transparency = 0.9
