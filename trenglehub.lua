@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 18:21:13"
+lastupdate = "GMT +1: 08.03.2023 18:21:17"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -11522,3 +11522,5 @@ addscriptexist(11189979930, "Pet Crafting Simulator: Auto Farm, Auto Merge, Auto
 addscriptexist(9993529229, "Counter Blox Remastered: Aimbot + More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Counter%20Blox%20Remastered%20Aimbot%20%20More.lua")
 
 addscriptexist(11189979930, "Pet Crafting Simulator: Auto Farm, Insta KIll, Auto Hit", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pet%20Crafting%20Simulator%20Auto%20Farm%20Insta%20KIll%20Auto%20Hit.lua")
+
+addscript(8980446061, "Current Game","Ultaverse: Collect All Bugs", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ultaverse%20Collect%20All%20Bugs.lua")
