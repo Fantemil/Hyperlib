@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 13:13:22"
+lastupdate = "GMT +1: 08.03.2023 13:13:30"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -7272,3 +7272,5 @@ addscriptexist(662417684, "Lucky Blocks Battlegrounds: Get All Weapons", "pulled
 addscriptexist(286090429, "Arsenal: Silent Aim, ESP Chams, Rapid Fire", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Arsenal%20Silent%20Aim%20ESP%20Chams%20Rapid%20Fire.lua")
 
 addscriptexist(2377868063, "Strucid: Kill All, Aim Bot, Trigger Bot", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Strucid%20Kill%20All%20Aim%20Bot%20Trigger%20Bot.lua")
+
+addscript(1296881293, "Current Game","Warship Roleplay: Radio Chat Spammer", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Warship%20Roleplay%20Radio%20Chat%20Spammer.lua")
