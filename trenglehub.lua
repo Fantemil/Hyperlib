@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 14:52:27"
+lastupdate = "GMT +1: 08.03.2023 14:52:32"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -8184,3 +8184,5 @@ addscriptexist(142823291, "Murder Mystery 2: Auto Farm, Auto Grab, Auto Kill", "
 addscript(7663817366, "Current Game","Prison Roleplay: Escape Plan: Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Prison%20Roleplay%20Escape%20Plan%20Auto%20Farm.lua")
 
 addhub("Catalyst Hub: 15+ Games", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Catalyst%20Hub%20%20Games.lua")
+
+addscriptexist(9601565001, "Car Crash System: Telekinesis, Anti Afk, Tiers", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Car%20Crash%20System%20Telekinesis%20Anti%20Afk%20Tiers.lua")
