@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 16:44:29"
+lastupdate = "GMT +1: 08.03.2023 16:44:33"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -9084,3 +9084,5 @@ addscriptexist(9772878203, "raise a floppa 2: Auto Click Floppa, Auto Collect Ca
 addscriptexist(2788229376, "Da Hood: God mode, Fly, Tp", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Da%20Hood%20God%20mode%20Fly%20Tp.lua")
 
 addscript(9297410766, "Current Game","Crossbar Challenge Simulator: Get all hats", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Crossbar%20Challenge%20Simulator%20Get%20all%20hats.lua")
+
+addscriptexist(10723695195, "Anime Evolution Simulator: Auto Kill Mob, Auto Click, Magnet", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime%20Evolution%20Simulator%20Auto%20Kill%20Mob%20Auto%20Click%20Magnet.lua")
