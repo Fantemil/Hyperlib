@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 14:47:24"
+lastupdate = "GMT +1: 08.03.2023 14:47:28"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -8052,3 +8052,5 @@ addscriptexist(11196588443, "Zombie Merge Tycoon: Infinite Orbs", "pulled from r
 addscriptexist(11195100561, "Running From The Internet: Gui, Auto Spin & More!", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Running%20From%20The%20Internet%20Gui%20Auto%20Spin%20%20More.lua")
 
 addscript(85697719, "Current Game","Kingdom Life II: Premium Gamepass weapons for free, Eastern Gamepass weapons for free, Give Items", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Kingdom%20Life%20II%20Premium%20Gamepass%20weapons%20for%20free%20Eastern%20Gamepass%20weapons%20for%20free%20Give%20Items.lua")
+
+addscriptexist(920587237, "Adopt Me: Gui, Pet Farm & More!", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Adopt%20Me%20Gui%20Pet%20Farm%20%20More.lua")
