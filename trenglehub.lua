@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 20:16:24"
+lastupdate = "GMT +1: 08.03.2023 20:16:28"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -13608,3 +13608,5 @@ addscriptexist(2788229376, "Da Hood | Silent Aim another version", "pulled from 
 addscriptuniversal("Universal Stream Sniper", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Stream%20Sniper.lua")
 
 addscriptuniversal("Universal Infinity Store", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Infinity%20Store.lua")
+
+addscriptuniversal("Universal Basic Dash", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Basic%20Dash.lua")
