@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 16:43:56"
+lastupdate = "GMT +1: 08.03.2023 16:44:00"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -9072,3 +9072,5 @@ addscriptexist(10198661638, "Farm Factory Tycoon: Inifnity Money, Auto Buy Butto
 addscriptuniversal("Universal Send Message to Webhook", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Send%20Message%20to%20Webhook.lua")
 
 addscriptexist(2753915549, "Blox Fruits: Chest Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blox%20Fruits%20Chest%20Auto%20Farm.lua")
+
+addscript(10819504705, "Current Game","Anime Racers Simulator: Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime%20Racers%20Simulator%20Auto%20Farm.lua")
