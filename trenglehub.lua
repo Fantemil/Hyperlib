@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 19:21:40"
+lastupdate = "GMT +1: 08.03.2023 19:21:55"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -12802,3 +12802,5 @@ addscriptexist(6741970382, "Zombie lab: Inf Ammo, Fire Rate, Get Minigun", "pull
 addscriptuniversal("Universal Fly, Walkspeed", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Fly%20Walkspeed.lua")
 
 addscriptexist(2039118386, "Neighborhood war: Silent Aim", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Neighborhood%20war%20Silent%20Aim.lua")
+
+addscriptexist(1224212277, "Mad City Chapter 2: Kill All", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mad%20City%20Chapter%20%20Kill%20All.lua")
