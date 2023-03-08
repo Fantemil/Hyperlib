@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 18:38:11"
+lastupdate = "GMT +1: 08.03.2023 18:38:16"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -11886,3 +11886,5 @@ addscriptexist(9551640993, "Mining Simulator 2: Farm Ore, Buy Event Items & More
 addscriptexist(10804519995, "Ro Fruit: Auto Farm Mobs, Insta Kill, Auto Hit", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ro%20Fruit%20Auto%20Farm%20Mobs%20Insta%20Kill%20Auto%20Hit.lua")
 
 addscriptexist(536102540, "DBZ Final Stand: No Cooldown", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DBZ%20Final%20Stand%20No%20Cooldown.lua")
+
+addscriptexist(8726743209, "Refinery Caves: Auto Farm, Walkspeed, Box Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Refinery%20Caves%20Auto%20Farm%20Walkspeed%20Box%20Auto%20Farm.lua")
