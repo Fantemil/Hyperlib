@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 16:56:59"
+lastupdate = "GMT +1: 08.03.2023 16:57:05"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -9398,3 +9398,5 @@ addscript(11255073656, "Current Game","Mining Merge Clicker Tycoon: Auto Sell, A
 addscript(888622377, "Current Game","Lucky Crates: Jump Power, Fly, Inifnity Money", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Lucky%20Crates%20Jump%20Power%20Fly%20Inifnity%20Money.lua")
 
 addscriptexist(2768379856, "3008 [2.71]: Insta Pickup", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/%20%20Insta%20Pickup.lua")
+
+addscriptuniversal("Universal Key System Free Discord Bot", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Key%20System%20Free%20Discord%20Bot.lua")
