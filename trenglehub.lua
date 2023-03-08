@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 12:55:35"
+lastupdate = "GMT +1: 08.03.2023 12:55:39"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -6814,3 +6814,5 @@ addscriptexist(9224601490, "Fruit Battlegrounds: Infinite Spin", "pulled from rb
 addscriptexist(11330149751, "making scam calls to save your best friend tycoon: Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/making%20scam%20calls%20to%20save%20your%20best%20friend%20tycoon%20Auto%20Farm.lua")
 
 addscriptexist(11572573905, "Power Wash Tycoon: Power Mod, Water Per Sec Mod", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Power%20Wash%20Tycoon%20Power%20Mod%20Water%20Per%20Sec%20Mod.lua")
+
+addscriptexist(5956785391, "Project Slayers: Infinite Dungeon Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Project%20Slayers%20Infinite%20Dungeon%20Auto%20Farm.lua")
