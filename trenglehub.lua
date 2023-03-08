@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 06:44:06"
+lastupdate = "GMT +1: 08.03.2023 06:44:11"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -4818,3 +4818,5 @@ addscriptexist(11606818992, "STEEP-STEPS [900]: Anti Cheat Bypass", "pulled from
 addscriptexist(192800, "Work At A Pizza Place: Delete Workspace & More!", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Work%20At%20A%20Pizza%20Place%20Delete%20Workspace%20%20More.lua")
 
 addscriptexist(6728870912, "World Of Stands: Auto Farm, Player Farm, Chest Farm & More!", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/World%20Of%20Stands%20Auto%20Farm%20Player%20Farm%20Chest%20Farm%20%20More.lua")
+
+addscriptuniversal("Universal Play Cookie Clicker In roblox", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Play%20Cookie%20Clicker%20In%20roblox.lua")
