@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 20:28:27"
+lastupdate = "GMT +1: 08.03.2023 20:28:31"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -13930,3 +13930,5 @@ addscriptexist(5130598377, "A Universal Time [Godmode, AutoShardsFarm]", "pulled
 addscriptexist(9744954014, "THA HOOD!!! [Walkspeed, Godmode]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/THA%20HOOD%20Walkspeed%20Godmode.lua")
 
 addscriptexist(445664957, "Parkour [Inf Levels]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Parkour%20Inf%20Levels.lua")
+
+addscriptexist(4954752502, "Tower of Misery [Auto Farm - God Mode - Kill Player & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tower%20of%20Misery%20Auto%20Farm%20%20God%20Mode%20%20Kill%20Player%20%20More.lua")
