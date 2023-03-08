@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 14:42:18"
+lastupdate = "GMT +1: 08.03.2023 14:42:22"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -7912,3 +7912,5 @@ addscriptexist(4042427666, "Anime Fighting Simulator: Devil Fruit Farm, Auto Chi
 addhub("PWR Hub: 5+ Games", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PWR%20Hub%20%20Games.lua")
 
 addhub("Universal R15 Server Crasher", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20R%20Server%20Crasher.lua")
+
+addscriptexist(155615604, "Prison Life: Give Guns, Player Mods, Teleports", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Prison%20Life%20Give%20Guns%20Player%20Mods%20Teleports.lua")
