@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 14:57:09"
+lastupdate = "GMT +1: 08.03.2023 14:57:13"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -8310,3 +8310,5 @@ addhub("Facts Hub: 41 Games", "pulled from rbxscript.com", "https://raw.githubus
 addscriptexist(10106105124, "Wheat Farming Simulator: Teleports, Auto Sell, Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Wheat%20Farming%20Simulator%20Teleports%20Auto%20Sell%20Auto%20Farm.lua")
 
 addscriptexist(10875701453, "Edward The Man Eating Train: Server Crasher", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Edward%20The%20Man%20Eating%20Train%20Server%20Crasher.lua")
+
+addscriptexist(10875701453, "Edward The Man Eating Train: Semi God Mode", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Edward%20The%20Man%20Eating%20Train%20Semi%20God%20Mode.lua")
