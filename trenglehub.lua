@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 18:19:23"
+lastupdate = "GMT +1: 08.03.2023 18:19:27"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -11472,3 +11472,5 @@ addscriptexist(9832066570, "Tower Battles: Kill All", "pulled from rbxscript.com
 addscriptexist(7184600262, "Gridiron Football 2.0: Inf Stats", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Gridiron%20Football%20%20Inf%20Stats.lua")
 
 addscriptexist(8884433153, "Collect All Pets: Auto Farm, Invis", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Collect%20All%20Pets%20Auto%20Farm%20Invis.lua")
+
+addscriptuniversal("Universal Trolling Gui", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Trolling%20Gui.lua")
