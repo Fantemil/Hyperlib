@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 17:06:21"
+lastupdate = "GMT +1: 08.03.2023 17:06:25"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -9634,3 +9634,5 @@ addscriptexist(6679968919, "Fly Race: Auto Race, Auto Collect Orb, Auto Rebirth"
 addscriptexist(10758111998, "2019 Booga Booga [REBORN]: Hide Name, Hide Health, Auto Build", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/%20Booga%20Booga%20REBORN%20Hide%20Name%20Hide%20Health%20Auto%20Build.lua")
 
 addscriptexist(8726743209, "Refinery Caves: No Water Blur, Clear Weather & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Refinery%20Caves%20No%20Water%20Blur%20Clear%20Weather%20%20More.lua")
+
+addscriptexist(2753915549, "Blox Fruits: Auto Team, Auto Eat Fruit, Auto Store Fruit", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blox%20Fruits%20Auto%20Team%20Auto%20Eat%20Fruit%20Auto%20Store%20Fruit.lua")
