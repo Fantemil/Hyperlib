@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 20:47:25"
+lastupdate = "GMT +1: 08.03.2023 20:47:29"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -14410,3 +14410,5 @@ addscriptexist(10476933477, "Strong Ninja Simulator [Auto Hatch, Auto Click]", "
 addscriptexist(8704181738, "Tiến Tiến Piece [Free Yoru]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ti%E1%BA%BFn%20Ti%E1%BA%BFn%20Piece%20Free%20Yoru.lua")
 
 addscriptexist(8704181738, "Tiến Tiến Piece [Debt to all players]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ti%E1%BA%BFn%20Ti%E1%BA%BFn%20Piece%20Debt%20to%20all%20players.lua")
+
+addscriptexist(10524502174, "One Punch Fighters [Auto Farm Mob, Auto Collect Coins, Auto Summon]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/One%20Punch%20Fighters%20Auto%20Farm%20Mob%20Auto%20Collect%20Coins%20Auto%20Summon.lua")
