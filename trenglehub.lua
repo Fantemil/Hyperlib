@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 20:57:29"
+lastupdate = "GMT +1: 08.03.2023 20:57:34"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -14660,3 +14660,5 @@ addscriptexist(6403373529, "Slap Battles [Anti Ragdoll, Auto Toxic]", "pulled fr
 addscriptexist(662417684, "BLOCKS Battlegrounds [Get any item, Walkspeed]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BLOCKS%20Battlegrounds%20Get%20any%20item%20Walkspeed.lua")
 
 addscriptexist(7952502098, "Impossible Glass Bridge Obby! [Correct Path]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Impossible%20Glass%20Bridge%20Obby%20Correct%20Path.lua")
+
+addscriptexist(7952502098, "Impossible Glass Bridge Obby! [Inf Money]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Impossible%20Glass%20Bridge%20Obby%20Inf%20Money.lua")
