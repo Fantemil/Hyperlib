@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 12:38:41"
+lastupdate = "GMT +1: 08.03.2023 12:38:45"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -6370,3 +6370,5 @@ addscriptexist(10700669209, "Control Army: Auto Kill Golems", "pulled from rbxsc
 addscriptexist(10700669209, "Control Army: Spam Damage For Golden Golems", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Control%20Army%20Spam%20Damage%20For%20Golden%20Golems.lua")
 
 addscriptuniversal("Universal Look at Player when its close to you", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Look%20at%20Player%20when%20its%20close%20to%20you.lua")
+
+addscriptuniversal("Universal Get Synapse Version", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Get%20Synapse%20Version.lua")
