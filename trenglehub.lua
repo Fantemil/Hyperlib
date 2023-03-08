@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 06:46:57"
+lastupdate = "GMT +1: 08.03.2023 06:47:00"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -4908,3 +4908,5 @@ addscript(3226555017, "Current Game","SCP: Site Roleplay | Open doors, Spam Radi
 addscript(4695287616, "Current Game","F3X SandBox: Server Crasher", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FX%20SandBox%20Server%20Crasher.lua")
 
 addscriptuniversal("Universal GUI Emotes", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20GUI%20Emotes.lua")
+
+addscriptexist(2788229376, "Da Hood: Aimlock, Flying, ESP", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Da%20Hood%20Aimlock%20Flying%20ESP.lua")
