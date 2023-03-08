@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 17:10:53"
+lastupdate = "GMT +1: 08.03.2023 17:10:58"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -9752,3 +9752,5 @@ addscriptexist(7991339063, "Rainbow Friends: Pickup all items, place all items, 
 addscript(9103460924, "Current Game","Sword Factory X: Fullbright, Noclip, ESP", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sword%20Factory%20X%20Fullbright%20Noclip%20ESP.lua")
 
 addscriptexist(6764533218, "Washiez: Admin Detector", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Washiez%20Admin%20Detector.lua")
+
+addscript(3056526277, "Current Game","Build and Survive: Auto Heal, Auto Collect All Coins, Auto Collect Star", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Build%20and%20Survive%20Auto%20Heal%20Auto%20Collect%20All%20Coins%20Auto%20Collect%20Star.lua")
