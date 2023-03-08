@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 06:55:10"
+lastupdate = "GMT +1: 08.03.2023 06:55:14"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -5160,3 +5160,5 @@ addscript(5620664339, "Current Game","RoStreets: Grab All Items, No Stomp, Hitbo
 addscript(8508161757, "Current Game","Raise An Albert: Auto Collect Money", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Raise%20An%20Albert%20Auto%20Collect%20Money.lua")
 
 addscriptexist(7560156054, "Clicker Simulator: Auto Click, Auto Claim Gifts, Auto Collect Chests", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Clicker%20Simulator%20Auto%20Click%20Auto%20Claim%20Gifts%20Auto%20Collect%20Chests.lua")
+
+addscriptexist(8131063774, "Shattered Psycho Online: Data Rollback", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Shattered%20Psycho%20Online%20Data%20Rollback.lua")
