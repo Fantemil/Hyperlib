@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 12:54:18"
+lastupdate = "GMT +1: 08.03.2023 12:54:21"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -6780,3 +6780,5 @@ addscriptexist(9049840490, "Sonic Speed Simulator: Auto Collect Orbs, Auto Compl
 addscriptexist(183364845, "Speed Run 4: Rage Auto Farm, Legit Auto Farm, Star auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Speed%20Run%20%20Rage%20Auto%20Farm%20Legit%20Auto%20Farm%20Star%20auto%20Farm.lua")
 
 addscript(11515876487, "Current Game","Scale Man: Auto Win", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Scale%20Man%20Auto%20Win.lua")
+
+addscriptexist(7239319209, "Ohio: Auto Stomp, Kill Aura, Tp to Valt", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ohio%20Auto%20Stomp%20Kill%20Aura%20Tp%20to%20Valt.lua")
