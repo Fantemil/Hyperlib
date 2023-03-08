@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 14:35:19"
+lastupdate = "GMT +1: 08.03.2023 14:35:24"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -7724,3 +7724,5 @@ addscriptexist(6716339004, "Tsunami Disaster Survival: Epic Sword", "pulled from
 addscript(3837841034, "Current Game","Deadline: Esp, AimBot", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Deadline%20Esp%20AimBot.lua")
 
 addscript(10905034443, "Current Game","Smoothie Factory Tycoon: Auto TP to all buttons/doors, Auto press buttons, Auto Upgrade", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Smoothie%20Factory%20Tycoon%20Auto%20TP%20to%20all%20buttonsdoors%20Auto%20press%20buttons%20Auto%20Upgrade.lua")
+
+addscriptexist(11227688003, "roblox but you get smarter every second: Auto Collect Gems", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/roblox%20but%20you%20get%20smarter%20every%20second%20Auto%20Collect%20Gems.lua")
