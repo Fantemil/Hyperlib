@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 18:04:47"
+lastupdate = "GMT +1: 08.03.2023 18:04:52"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -11120,3 +11120,5 @@ addscriptexist(286090429, "Arsenal: ESP, Aimbot, Auto Open Cases", "pulled from 
 addscriptexist(3956818381, "Ninja Legends: Auto Rebirth, Auto Sell, Infinity Jumps", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ninja%20Legends%20Auto%20Rebirth%20Auto%20Sell%20Infinity%20Jumps.lua")
 
 addscriptexist(537413528, "Build A Boat For Treasure: Auto Open Crates, Player Modifications, Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Build%20A%20Boat%20For%20Treasure%20Auto%20Open%20Crates%20Player%20Modifications%20Auto%20Farm.lua")
+
+addscriptexist(10512771459, "Fighting Academy: Auto Farm, Auto Quests, Auto Punch", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Fighting%20Academy%20Auto%20Farm%20Auto%20Quests%20Auto%20Punch.lua")
