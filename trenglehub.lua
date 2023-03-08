@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 17:46:36"
+lastupdate = "GMT +1: 08.03.2023 17:46:40"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -10660,3 +10660,5 @@ addscriptexist(10828925984, "Robot Tycoon: Infinite Coins & Gems", "pulled from 
 addscriptexist(10417027559, "Vliccs' Difficulty Chart Obby 2: Inf Skip", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Vliccs%20Difficulty%20Chart%20Obby%20%20Inf%20Skip.lua")
 
 addscriptexist(4669056864, "Flex Your Account Age: Spam Hats", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Flex%20Your%20Account%20Age%20Spam%20Hats.lua")
+
+addscriptexist(5534174456, "Tropical Resort Tycoon: Auto Build, Auto Obby, Teleports", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tropical%20Resort%20Tycoon%20Auto%20Build%20Auto%20Obby%20Teleports.lua")
