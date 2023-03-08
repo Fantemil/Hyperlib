@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://raw.githubusercontent.com/Dekkosploits/RGD-Updated/main/RGD%20Gui'))()
