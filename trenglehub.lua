@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 16:53:08"
+lastupdate = "GMT +1: 08.03.2023 16:53:12"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -9300,3 +9300,5 @@ addscriptexist(10977918334, "Merge Droppers: Walkspeed, Auto Deposit, Auto Merge
 addscriptexist(142823291, "Murder Mystery 2: ESP, Gun Grabber & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Murder%20Mystery%20%20ESP%20Gun%20Grabber%20%20More.lua")
 
 addscriptexist(2753915549, "Blox Fruits: ESP, Auto Stats & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blox%20Fruits%20ESP%20Auto%20Stats%20%20More.lua")
+
+addscriptexist(10726371567, "Find The Simpsons: Auto Simpsons", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Find%20The%20Simpsons%20Auto%20Simpsons.lua")
