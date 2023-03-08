@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 13:10:30"
+lastupdate = "GMT +1: 08.03.2023 13:10:34"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -7198,3 +7198,5 @@ addscriptexist(3102144307, "Anime Clicker Simulator: Auto Clicker, No Remote", "
 addscriptexist(6804602922, "BOXING BETA: Semi God Mode", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BOXING%20BETA%20Semi%20God%20Mode.lua")
 
 addscriptexist(10914683361, "Busy Business: Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Busy%20Business%20Auto%20Farm.lua")
+
+addscriptexist(10914683361, "Busy Business: Instant Order & Instant Serve", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Busy%20Business%20Instant%20Order%20%20Instant%20Serve.lua")
