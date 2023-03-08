@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 20:42:08"
+lastupdate = "GMT +1: 08.03.2023 20:42:12"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -14282,3 +14282,5 @@ addscriptexist(2537430692, "Jenga [Walkspeed, End Game]", "pulled from rbxscript
 addscriptexist(7655745946, "Dunking Simulator [Free Gamepass]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Dunking%20Simulator%20Free%20Gamepass.lua")
 
 addscriptexist(286090429, "Arsenal [Rainbow Gun, Aimbot]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Arsenal%20Rainbow%20Gun%20Aimbot.lua")
+
+addscriptexist(5130598377, "Tapping Legends X [Auto Farms, Auto Hatch, Auto Rebirth]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tapping%20Legends%20X%20Auto%20Farms%20Auto%20Hatch%20Auto%20Rebirth.lua")
