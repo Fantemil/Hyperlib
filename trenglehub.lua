@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 18:04:00"
+lastupdate = "GMT +1: 08.03.2023 18:04:04"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -11098,3 +11098,5 @@ addscriptexist(4951858512, "Victory Race: Auto Aura, Auto Win, Auto Click", "pul
 addscriptuniversal("Universal Tall Avatar", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Tall%20Avatar.lua")
 
 addscriptexist(9571238478, "Raise a Peter: Auto-Joe, Auto-Click, Auto-Collect", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Raise%20a%20Peter%20AutoJoe%20AutoClick%20AutoCollect.lua")
+
+addscriptexist(1224212277, "Mad City: Chapter 2 | Auto Rob", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mad%20City%20Chapter%20%20%20Auto%20Rob.lua")
