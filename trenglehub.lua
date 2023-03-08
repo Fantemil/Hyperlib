@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 18:12:21"
+lastupdate = "GMT +1: 08.03.2023 18:12:28"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -11304,3 +11304,5 @@ addscript(5721826509, "Current Game","Amongst Us: Infinity Task Range, Teleports
 addscriptexist(164051105, "Super Bomb Survival: Auto Farm & More!", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Super%20Bomb%20Survival%20Auto%20Farm%20%20More.lua")
 
 addscriptexist(662417684, "Lucky Blocks Battlegrounds: Spawn Blocks, Reach, Fly & More!", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Lucky%20Blocks%20Battlegrounds%20Spawn%20Blocks%20Reach%20Fly%20%20More.lua")
+
+addscript(2066381781, "Current Game","Deadly Sins Retribution: Auto Spin Race and Magic", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Deadly%20Sins%20Retribution%20Auto%20Spin%20Race%20and%20Magic.lua")
