@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 06:53:48"
+lastupdate = "GMT +1: 08.03.2023 06:53:52"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -5118,3 +5118,5 @@ addscriptexist(2788229376, "Da Hood: Fly, Headless, Korblox", "pulled from rbxsc
 addscriptexist(2753915549, "Blox Fruits: Auto Farm, Teleports, ESP", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blox%20Fruits%20Auto%20Farm%20Teleports%20ESP.lua")
 
 addscriptexist(6516141723, "DOORS: Auto Skip Levels, Key ESP, Walkspeed Slider", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DOORS%20Auto%20Skip%20Levels%20Key%20ESP%20Walkspeed%20Slider.lua")
+
+addscriptexist(11156779721, "The Survival Game: Auto Farm, Invisible, Hitboxes", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/The%20Survival%20Game%20Auto%20Farm%20Invisible%20Hitboxes.lua")
