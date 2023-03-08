@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 14:51:51"
+lastupdate = "GMT +1: 08.03.2023 14:51:55"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -8170,3 +8170,5 @@ addscriptexist(920587237, "Adopt Me: Farm Ginger", "pulled from rbxscript.com", 
 addhub("AcrHub: 25 Games", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AcrHub%20%20Games.lua")
 
 addscriptexist(9862832367, "Never-Ending Cart Ride: Break all cars, Annoy all, Fly", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NeverEnding%20Cart%20Ride%20Break%20all%20cars%20Annoy%20all%20Fly.lua")
+
+addscriptexist(10918081103, "Killstreak Chaos: Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Killstreak%20Chaos%20Auto%20Farm.lua")
