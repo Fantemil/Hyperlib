@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 19:57:08"
+lastupdate = "GMT +1: 08.03.2023 19:57:13"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -13344,3 +13344,5 @@ addscriptexist(5956785391, "Project Slayers | Stun Effect Server Breaker", "pull
 addscriptexist(488667523, "Those Who Remain | Item ESP", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Those%20Who%20Remain%20%20Item%20ESP.lua")
 
 addscriptexist(5732301513, "TRENCHES | Kill All Enemies", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TRENCHES%20%20Kill%20All%20Enemies.lua")
+
+addscriptexist(3177438863, "Dragon Blox | GUI", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Dragon%20Blox%20%20GUI.lua")
