@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 19:35:19"
+lastupdate = "GMT +1: 08.03.2023 19:35:23"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -13098,3 +13098,5 @@ addscriptexist(2569453732, "Rise of Nations: Build Bot, Sell Bot, Esp", "pulled 
 addscriptexist(7026828578, "Speed Simulator: Inf Rebirths, Speed Farm, Farm Rebirths", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Speed%20Simulator%20Inf%20Rebirths%20Speed%20Farm%20Farm%20Rebirths.lua")
 
 addscriptexist(286090429, "Arsenal: Silent Aim, Visuals", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Arsenal%20Silent%20Aim%20Visuals.lua")
+
+addscriptexist(1962086868, "Tower of Hell: Godmode, Tp To Finish", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tower%20of%20Hell%20Godmode%20Tp%20To%20Finish.lua")
