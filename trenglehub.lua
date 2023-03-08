@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 16:38:50"
+lastupdate = "GMT +1: 08.03.2023 16:38:54"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -8950,3 +8950,5 @@ addscriptuniversal("Universal Server Hop, Noclip, Jump Power", "pulled from rbxs
 addscriptexist(990566015, "Cursed Islands: Auto Play, Water Remover, Teleports", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Cursed%20Islands%20Auto%20Play%20Water%20Remover%20Teleports.lua")
 
 addscriptexist(6516141723, "DOORS: Auto-Win Heartbeat, Headlight, Fullbright", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DOORS%20AutoWin%20Heartbeat%20Headlight%20Fullbright.lua")
+
+addscript(11129854470, "Current Game","Akuma Pirates: Max Stats", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Akuma%20Pirates%20Max%20Stats.lua")
