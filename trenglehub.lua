@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 06:25:48"
+lastupdate = "GMT +1: 08.03.2023 06:25:52"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -4592,3 +4592,5 @@ addscript(8712817601, "Current Game","BARRY'S PRISON RUN: Infinity Jump, Jumppow
 addscriptuniversal("Universal M3Q: Click TP, Optimization & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20MQ%20Click%20TP%20Optimization%20%20More.lua")
 
 addscriptexist(9872472334, "Evade: Fullbright, No Camera Shake, Esp", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Evade%20Fullbright%20No%20Camera%20Shake%20Esp.lua")
+
+addscriptexist(1962086868, "Tower of Hell: Anti Cheat Bypass, Auto Win", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tower%20of%20Hell%20Anti%20Cheat%20Bypass%20Auto%20Win.lua")
