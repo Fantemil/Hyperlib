@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 17:46:31"
+lastupdate = "GMT +1: 08.03.2023 17:46:36"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -10658,3 +10658,5 @@ addscriptexist(2788229376, "Da Hood: God Mode, Auto Farm, Anti Aim & More", "pul
 addscriptexist(10828925984, "Robot Tycoon: Infinite Coins & Gems", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Robot%20Tycoon%20Infinite%20Coins%20%20Gems.lua")
 
 addscriptexist(10417027559, "Vliccs' Difficulty Chart Obby 2: Inf Skip", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Vliccs%20Difficulty%20Chart%20Obby%20%20Inf%20Skip.lua")
+
+addscriptexist(4669056864, "Flex Your Account Age: Spam Hats", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Flex%20Your%20Account%20Age%20Spam%20Hats.lua")
