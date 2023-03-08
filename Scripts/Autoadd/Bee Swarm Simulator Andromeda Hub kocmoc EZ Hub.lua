@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://raw.githubusercontent.com/WinterDinder/Bee-Swarm-Simulator-Script/main/Bee%20Swarm%20Simulator.lua'))()
