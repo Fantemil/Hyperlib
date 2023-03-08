@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 14:55:23"
+lastupdate = "GMT +1: 08.03.2023 14:55:27"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -8260,3 +8260,5 @@ addscriptexist(11330149751, "making scam calls to save your best friend tycoon: 
 addscriptexist(9224601490, "Fruit Battlegrounds: ESP, Names, Health", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Fruit%20Battlegrounds%20ESP%20Names%20Health.lua")
 
 addscriptexist(2753915549, "Blox Fruits: Chests Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blox%20Fruits%20Chests%20Auto%20Farm.lua")
+
+addscript(417267366, "Current Game","Dollhouse Roleplay: Chat Bypasses", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Dollhouse%20Roleplay%20Chat%20Bypasses.lua")
