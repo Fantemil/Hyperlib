@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 07:09:17"
+lastupdate = "GMT +1: 08.03.2023 07:09:20"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -5590,3 +5590,5 @@ addscriptexist(6356806222, "Lag Test 2021: Destroy parts", "pulled from rbxscrip
 addscriptexist(537413528, "Build A Boat For Treasure: Auto Farm, Teleport Team, WalkSpeed", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Build%20A%20Boat%20For%20Treasure%20Auto%20Farm%20Teleport%20Team%20WalkSpeed.lua")
 
 addscript(10243982775, "Current Game","RedBox: Camera FOV, Infinity Ammo & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RedBox%20Camera%20FOV%20Infinity%20Ammo%20%20More.lua")
+
+addscriptexist(11187148979, "Ultra unFair: Kill Aura", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ultra%20unFair%20Kill%20Aura.lua")
