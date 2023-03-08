@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 16:57:24"
+lastupdate = "GMT +1: 08.03.2023 16:57:28"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -9408,3 +9408,5 @@ addscriptexist(11237748076, "Stranger Things Immersive Watch Party: Auto Farm, I
 addscriptuniversal("Universal Aimbot & Esp", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Aimbot%20%20Esp.lua")
 
 addscriptexist(192800, "Work at a Pizza Place: Drop Trucks Contests, Disable Job Buttons, Gravity", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Work%20at%20a%20Pizza%20Place%20Drop%20Trucks%20Contests%20Disable%20Job%20Buttons%20Gravity.lua")
+
+addscriptuniversal("Universal XYZ Position Printer", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20XYZ%20Position%20Printer.lua")
