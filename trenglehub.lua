@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 20:54:16"
+lastupdate = "GMT +1: 08.03.2023 20:54:20"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -14576,3 +14576,5 @@ addscriptexist(8963721566, "The Backrooms - KV31 [Inf Stamina]", "pulled from rb
 addscript(10627835972, "Current Game","Death Sandbox [Kill All]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Death%20Sandbox%20Kill%20All.lua")
 
 addscriptexist(9285238704, "Race Clicker [Auto Click, Auto Win]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Race%20Clicker%20Auto%20Click%20Auto%20Win.lua")
+
+addscriptexist(286090429, "Arsenal [KillAll, Invisible]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Arsenal%20KillAll%20Invisible.lua")
