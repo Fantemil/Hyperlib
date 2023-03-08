@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 20:16:13"
+lastupdate = "GMT +1: 08.03.2023 20:16:18"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -13604,3 +13604,5 @@ addscriptexist(621129760, "Knife Ability Test | Silent Aim, Aim Torso, Fov", "pu
 addscriptexist(286090429, "Arsenal | Aimlock, Esp, AimKey", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Arsenal%20%20Aimlock%20Esp%20AimKey.lua")
 
 addscriptexist(2788229376, "Da Hood | Silent Aim another version", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Da%20Hood%20%20Silent%20Aim%20another%20version.lua")
+
+addscriptuniversal("Universal Stream Sniper", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Stream%20Sniper.lua")
