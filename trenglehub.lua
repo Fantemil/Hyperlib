@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 13:06:56"
+lastupdate = "GMT +1: 08.03.2023 13:07:00"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -7104,3 +7104,5 @@ addscriptexist(3177438863, "Dragon Blox: Auto Punch, Auto Kills Mobs, Auto Rebir
 addscriptexist(920587237, "Adopt Me: Pet Manager, Cash Manager, Event Manager", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Adopt%20Me%20Pet%20Manager%20Cash%20Manager%20Event%20Manager.lua")
 
 addscriptexist(698448212, "RoBeats: Great Chance, Okay Chance, Auto Player", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RoBeats%20Great%20Chance%20Okay%20Chance%20Auto%20Player.lua")
+
+addscriptexist(4566572536, "Vehicle Legends: Auto Highway Race, Auto Circuit Race, Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Vehicle%20Legends%20Auto%20Highway%20Race%20Auto%20Circuit%20Race%20Auto%20Farm.lua")
