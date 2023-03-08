@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 17:33:39"
+lastupdate = "GMT +1: 08.03.2023 17:33:44"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -10334,3 +10334,5 @@ addscriptexist(10523236737, "Multiverse Battlegrounds: Infinity Cash", "pulled f
 addscriptexist(2377868063, "Strucid: Silent Aim, FOV", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Strucid%20Silent%20Aim%20FOV.lua")
 
 addscriptexist(286090429, "Arsenal: Silent Aim, ESP, Esp Boxes", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Arsenal%20Silent%20Aim%20ESP%20Esp%20Boxes.lua")
+
+addscriptexist(2753915549, "Blox Fruits: Server Hop, Fruit Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blox%20Fruits%20Server%20Hop%20Fruit%20Farm.lua")
