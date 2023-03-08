@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 18:34:18"
+lastupdate = "GMT +1: 08.03.2023 18:34:22"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -11802,3 +11802,5 @@ addscriptexist(5130598377, "A Universal Time: Auto Store, Farm Items & More", "p
 addscript(6156548228, "Current Game","Vibe Place: Anti AFK", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Vibe%20Place%20Anti%20AFK.lua")
 
 addscriptexist(10912060909, "Black Adam Experience: Auto Claim UGC Items", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Black%20Adam%20Experience%20Auto%20Claim%20UGC%20Items.lua")
+
+addscriptexist(10180880196, "Fling Champions: Auto Candy, Auto Eggs, Auto Upgrade", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Fling%20Champions%20Auto%20Candy%20Auto%20Eggs%20Auto%20Upgrade.lua")
