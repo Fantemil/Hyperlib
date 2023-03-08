@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 06:43:32"
+lastupdate = "GMT +1: 08.03.2023 06:43:36"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -4804,3 +4804,5 @@ addscriptexist(11701792069, "Snow Plow Simulator: Gems Farm", "pulled from rbxsc
 addscript(11270995869, "Current Game","MinerShaft: Dupe Items", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MinerShaft%20Dupe%20Items.lua")
 
 addscriptexist(1240123653, "Zombie Attack: Auto Farm, Christmas Event Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Zombie%20Attack%20Auto%20Farm%20Christmas%20Event%20Farm.lua")
+
+addscript(6581117225, "Current Game","A Roca: Shift Run, Serverhop, Walkspeed", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/A%20Roca%20Shift%20Run%20Serverhop%20Walkspeed.lua")
