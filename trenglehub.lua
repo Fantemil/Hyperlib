@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 19:52:51"
+lastupdate = "GMT +1: 08.03.2023 19:52:57"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -13254,3 +13254,5 @@ addscriptexist(9648883891, "Festival Tycoon | Add 10M$", "pulled from rbxscript.
 addscriptexist(7169897329, "Nanny [HORROR] | Infinite Screams", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Nanny%20HORROR%20%20Infinite%20Screams.lua")
 
 addscript(10377670005, "Current Game","Kidnap Simulator | Auto Kidnap", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Kidnap%20Simulator%20%20Auto%20Kidnap.lua")
+
+addscriptexist(10377670005, "Kidnap Simulator | 100k Kidnap Every Second", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Kidnap%20Simulator%20%20k%20Kidnap%20Every%20Second.lua")
