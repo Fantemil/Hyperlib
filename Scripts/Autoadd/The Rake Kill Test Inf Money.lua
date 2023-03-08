@@ -1,0 +1,1 @@
+game:GetService("ReplicatedStorage").AdminPanelEvents.InfinitePoints:FireServer("username")
