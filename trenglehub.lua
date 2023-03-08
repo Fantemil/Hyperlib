@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 07:06:26"
+lastupdate = "GMT +1: 08.03.2023 07:06:32"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -5502,3 +5502,5 @@ addscriptexist(9498006165, "Tapping Simulator: Auto Tap, Auto Use Boosts, Auto R
 addscript(8962384769, "Current Game","Firework Simulator: Open Gui's, Auto Open Eggs, Auto Collect Orbs", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Firework%20Simulator%20Open%20Guis%20Auto%20Open%20Eggs%20Auto%20Collect%20Orbs.lua")
 
 addscriptexist(3823781113, "Saber Simulator: Flag Teleports, Islands Teleports & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Saber%20Simulator%20Flag%20Teleports%20Islands%20Teleports%20%20More.lua")
+
+addscriptexist(9281034297, "Goal Kick Simulator: Auto Kick, Auto Rebirth, Auto Chests", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Goal%20Kick%20Simulator%20Auto%20Kick%20Auto%20Rebirth%20Auto%20Chests.lua")
