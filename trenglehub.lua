@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 18:00:55"
+lastupdate = "GMT +1: 08.03.2023 18:01:01"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -11020,3 +11020,5 @@ addscriptexist(10903978962, "Sheep Tycoon: Auto Farm, Auto Sell, Teleports", "pu
 addhub("Universal Boombox Hub", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Boombox%20Hub.lua")
 
 addscript(10913380117, "Current Game","Booth Plaza REUPLOAD: Auto Booth, Night Mode, Click TP", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Booth%20Plaza%20REUPLOAD%20Auto%20Booth%20Night%20Mode%20Click%20TP.lua")
+
+addscriptexist(1296881293, "Warship RP, WW2: Admin Guns, Infinity Ammo, Hide Names", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Warship%20RP%20WW%20Admin%20Guns%20Infinity%20Ammo%20Hide%20Names.lua")
