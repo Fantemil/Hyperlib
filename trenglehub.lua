@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 17:43:55"
+lastupdate = "GMT +1: 08.03.2023 17:44:00"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -10594,3 +10594,5 @@ addscriptexist(10925589760, "Merge Simulator: Auto Merge Blocks, Auto Upgrade, A
 addscriptexist(5865858426, "Retail Tycoon 2: Auto Collect Pumpkins", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Retail%20Tycoon%20%20Auto%20Collect%20Pumpkins.lua")
 
 addscriptexist(10925589760, "Merge Simulator: Auto Click, Auto Merge & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Merge%20Simulator%20Auto%20Click%20Auto%20Merge%20%20More.lua")
+
+addscript(8482713490, "Current Game","Forgotten Memories: No Fog, Full Bright, Animatronic ESP", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Forgotten%20Memories%20No%20Fog%20Full%20Bright%20Animatronic%20ESP.lua")
