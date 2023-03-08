@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 18:39:11"
+lastupdate = "GMT +1: 08.03.2023 18:39:15"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -11908,3 +11908,5 @@ addscriptexist(155615604, "Prison Life: Get Keycard, Remove All Fences, Walkspee
 addscriptexist(606849621, "Jailbreak: Infinity Nitro, Open All Doors & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Jailbreak%20Infinity%20Nitro%20Open%20All%20Doors%20%20More.lua")
 
 addscriptexist(6403373529, "Slap Battles: Auto Farm AI", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Slap%20Battles%20Auto%20Farm%20AI.lua")
+
+addscriptexist(536102540, "DBZ Final Stand: Hides Your Level", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DBZ%20Final%20Stand%20Hides%20Your%20Level.lua")
