@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 20:22:58"
+lastupdate = "GMT +1: 08.03.2023 20:23:02"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -13784,3 +13784,5 @@ addscriptexist(920587237, "Adopt Me | GUI - Auto Farm, Fun Functions", "pulled f
 addscriptexist(10087074695, "Knife Strife! [Kill All - Dupe Tools & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Knife%20Strife%20Kill%20All%20%20Dupe%20Tools%20%20More.lua")
 
 addscriptexist(1962086868, "Tower of Hell | AutoWin, Inf Jumps, Finish", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tower%20of%20Hell%20%20AutoWin%20Inf%20Jumps%20Finish.lua")
+
+addscript(4556951723, "Current Game","Ragdoll Physics | Free Badge", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ragdoll%20Physics%20%20Free%20Badge.lua")
