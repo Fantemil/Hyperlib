@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 07:17:45"
+lastupdate = "GMT +1: 08.03.2023 07:17:50"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -5850,3 +5850,5 @@ addscriptexist(2788229376, "Da Hood: Anti Aim", "pulled from rbxscript.com", "ht
 addscriptexist(183364845, "Speed Run 4: Auto Beat All Levels, Walkspeed Slider, Rejoin", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Speed%20Run%20%20Auto%20Beat%20All%20Levels%20Walkspeed%20Slider%20Rejoin.lua")
 
 addscript(4169490976, "Current Game","Mortem Metallum: Server Crasher", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mortem%20Metallum%20Server%20Crasher.lua")
+
+addscriptexist(1554960397, "Car Dealership Tycoon: Auto Farm, Auto Races, Teleports", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Car%20Dealership%20Tycoon%20Auto%20Farm%20Auto%20Races%20Teleports.lua")
