@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 06:58:31"
+lastupdate = "GMT +1: 08.03.2023 06:58:34"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -5262,3 +5262,5 @@ addscriptexist(6741970382, "Zombie Lab: Kill All", "pulled from rbxscript.com", 
 addscriptexist(11701792069, "Snow Plow Simulator: Snow Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Snow%20Plow%20Simulator%20Snow%20Farm.lua")
 
 addscriptexist(1537690962, "Bee Swarm Simulator: Auto Dig, Auto Srinkler & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Bee%20Swarm%20Simulator%20Auto%20Dig%20Auto%20Srinkler%20%20More.lua")
+
+addscriptuniversal("Universal Outfit Changer group bypass", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Outfit%20Changer%20group%20bypass.lua")
