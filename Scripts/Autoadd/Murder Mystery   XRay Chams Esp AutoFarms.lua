@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/MurderMysteryExploits/Universal-Murder-Mystery-Script/main/Universal%20MM%20Script%20Loader?token=GHSAT0AAAAAABXAKZHGTHODFISN7P36WTBGYXAIK2Q"))()
