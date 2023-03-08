@@ -1,0 +1,1 @@
+game.ReplicatedStorage.NetworkEvent:FireServer ("AwardCash", 10000000000000000000000000000000) 
