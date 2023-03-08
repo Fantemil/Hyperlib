@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 19:56:42"
+lastupdate = "GMT +1: 08.03.2023 19:56:47"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -13334,3 +13334,5 @@ addscriptexist(9993529229, "Counter Blox: Remastered | Silent Aim, Esp, Aimbot",
 addscriptexist(9872472334, "Evade | GUI - Auto Farm, God Mode & More!", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Evade%20%20GUI%20%20Auto%20Farm%20God%20Mode%20%20More.lua")
 
 addscriptexist(10192063645, "Thy Hood | Tool Collector", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Thy%20Hood%20%20Tool%20Collector.lua")
+
+addscriptuniversal("Universal Cool Character", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Cool%20Character.lua")
