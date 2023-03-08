@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 17:45:22"
+lastupdate = "GMT +1: 08.03.2023 17:45:26"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -10632,3 +10632,5 @@ addscriptexist(6490016198, "Slayer Tycoon: Auto Build, Auto Collect Cash, Auto A
 addscript(10775789257, "Current Game","Construction Tycoon: Unlimited Money", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Construction%20Tycoon%20Unlimited%20Money.lua")
 
 addscript(9209100656, "Current Game","Mars Base Tycoon: Infinite Money", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mars%20Base%20Tycoon%20Infinite%20Money.lua")
+
+addscriptexist(10758955211, "Skydive Race Clicker: Get Badges, Get Speeds, Get Wins", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Skydive%20Race%20Clicker%20Get%20Badges%20Get%20Speeds%20Get%20Wins.lua")
