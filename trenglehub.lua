@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 18:41:31"
+lastupdate = "GMT +1: 08.03.2023 18:41:42"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -11948,3 +11948,5 @@ addscriptuniversal("Universal Skin Scp 173", "pulled from rbxscript.com", "https
 addscriptexist(286090429, "Arsenal: AImbot, Silent Aim, Esp", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Arsenal%20AImbot%20Silent%20Aim%20Esp.lua")
 
 addscriptexist(155615604, "Prison Life: Walkspeed, Jump Power", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Prison%20Life%20Walkspeed%20Jump%20Power.lua")
+
+addscriptexist(9417197334, "Anime Story: Auto Farm, Auto Quest, Insta Kill & more", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime%20Story%20Auto%20Farm%20Auto%20Quest%20Insta%20Kill%20%20more.lua")
