@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 15:00:47"
+lastupdate = "GMT +1: 08.03.2023 15:00:52"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -8410,3 +8410,5 @@ addscriptexist(8069117419, "Demon Soul Simulator: Auto Attack, Auto Train, Auto 
 addscriptexist(10898965735, "Mine Racer: Auto Mine, Auto Upgrades, Auto Eggs", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mine%20Racer%20Auto%20Mine%20Auto%20Upgrades%20Auto%20Eggs.lua")
 
 addhub("AlphaZero Hub: 3 Games", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AlphaZero%20Hub%20%20Games.lua")
+
+addhub("Strike Hub: 8 Games", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Strike%20Hub%20%20Games.lua")
