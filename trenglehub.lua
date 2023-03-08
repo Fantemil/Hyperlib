@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 16:39:58"
+lastupdate = "GMT +1: 08.03.2023 16:40:04"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -8978,3 +8978,5 @@ addscriptexist(6516141723, "DOORS: Headlight, Keybinds, Walkspeed", "pulled from
 addscriptexist(10914683361, "Busy Business: Auto Make Order, Auto Take Order, Auto Server Order", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Busy%20Business%20Auto%20Make%20Order%20Auto%20Take%20Order%20Auto%20Server%20Order.lua")
 
 addscriptexist(4855457388, "Demonfall: Clear Sight, Auto Groud, ESP", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Demonfall%20Clear%20Sight%20Auto%20Groud%20ESP.lua")
+
+addscriptexist(6679968919, "Fly Race: Ultra Hub Gui", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Fly%20Race%20Ultra%20Hub%20Gui.lua")
