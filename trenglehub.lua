@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 19:34:53"
+lastupdate = "GMT +1: 08.03.2023 19:34:58"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -13088,3 +13088,5 @@ addscriptexist(8304191830, "Anime Adventures: Auto Farm, Auto Join", "pulled fro
 addscript(10882998385, "Current Game","Endless Doors Beta: Overseer eye no dmg", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Endless%20Doors%20Beta%20Overseer%20eye%20no%20dmg.lua")
 
 addscriptexist(542016179, "Teethyz Dentist: Spam make appointments", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Teethyz%20Dentist%20Spam%20make%20appointments.lua")
+
+addscriptexist(10710676163, "SPTS: Origin (Auto Farm, Auto Respawn, Tp & More)", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SPTS%20Origin%20Auto%20Farm%20Auto%20Respawn%20Tp%20%20More.lua")
