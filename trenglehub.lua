@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 20:17:45"
+lastupdate = "GMT +1: 08.03.2023 20:17:49"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -13642,3 +13642,5 @@ addscriptexist(1537690962, "Bee Swarm Simulator | Auto Convert Pollen, AutoDig, 
 addscript(6055959032, "Current Game","Jailbird | GUI - Aimbot, Esp & More!", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Jailbird%20%20GUI%20%20Aimbot%20Esp%20%20More.lua")
 
 addscriptexist(10484095306, "CLIMB 100.000 STAIRS TO VIP! | Teleport To End", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CLIMB%20%20STAIRS%20TO%20VIP%20%20Teleport%20To%20End.lua")
+
+addscriptuniversal("Roblox Universal | Netless", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Roblox%20Universal%20%20Netless.lua")
