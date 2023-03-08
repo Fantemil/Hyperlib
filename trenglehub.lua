@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 17:40:05"
+lastupdate = "GMT +1: 08.03.2023 17:40:09"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -10496,3 +10496,5 @@ addscriptexist(10652184030, "Jump Clicker: Unlimited Jumps", "pulled from rbxscr
 addscriptexist(9264596435, "Idle Heroes Simulator: Auto Swing, Auto Mob TP, Auto Hire Heroes", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Idle%20Heroes%20Simulator%20Auto%20Swing%20Auto%20Mob%20TP%20Auto%20Hire%20Heroes.lua")
 
 addscriptexist(9648883891, "Festival Tycoon: Auto buy, Infinity Money, Auto Collect", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Festival%20Tycoon%20Auto%20buy%20Infinity%20Money%20Auto%20Collect.lua")
+
+addscript(7933240245, "Current Game","Viking Tycoon: Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Viking%20Tycoon%20Auto%20Farm.lua")
