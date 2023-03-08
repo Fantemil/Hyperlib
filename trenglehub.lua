@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 12:40:32"
+lastupdate = "GMT +1: 08.03.2023 12:40:37"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -6422,3 +6422,5 @@ addscriptexist(443406476, "Project Lazarus: Teleports, Aimbot, Fly", "pulled fro
 addscriptexist(8750997647, "Tapping Legends X: Auto Tap, Auto Rebirth, Auto Hatch", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tapping%20Legends%20X%20Auto%20Tap%20Auto%20Rebirth%20Auto%20Hatch.lua")
 
 addscript(4787647409, "Current Game","Blacksite Zeta: Anti Cheat Bypass", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blacksite%20Zeta%20Anti%20Cheat%20Bypass.lua")
+
+addscriptexist(70005410, "Blox Hunt: Auto Complete Obby", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blox%20Hunt%20Auto%20Complete%20Obby.lua")
