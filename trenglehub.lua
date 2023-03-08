@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 21:07:39"
+lastupdate = "GMT +1: 08.03.2023 21:07:45"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -14906,3 +14906,5 @@ addscriptexist(2534724415, "Emergency Response: Liberty County [Undetected Telep
 addscript(10351639671, "Current Game","Anime Legends Simulator [Auto Complete Event]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime%20Legends%20Simulator%20Auto%20Complete%20Event.lua")
 
 addscriptuniversal("Roblox Universal Script [FE Emotes, Animations]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Roblox%20Universal%20Script%20FE%20Emotes%20Animations.lua")
+
+addscriptuniversal("Roblox Universal Script [Adm Commands]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Roblox%20Universal%20Script%20Adm%20Commands.lua")
