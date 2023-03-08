@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 18:10:15"
+lastupdate = "GMT +1: 08.03.2023 18:10:19"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -11254,3 +11254,5 @@ addscriptexist(6764302962, "Junk Simulator: Auto Farm, Auto Eggs, Auto Sell", "p
 addscriptexist(2788229376, "Da Hood: Server Crasher", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Da%20Hood%20Server%20Crasher.lua")
 
 addscriptexist(3198259055, "SoulShatters Test Place: Godmode, ESP, Auto Block", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SoulShatters%20Test%20Place%20Godmode%20ESP%20Auto%20Block.lua")
+
+addscriptexist(2248408710, "Destruction Simulator: Auto Farm, Auto Sell, Infinity XP", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Destruction%20Simulator%20Auto%20Farm%20Auto%20Sell%20Infinity%20XP.lua")
