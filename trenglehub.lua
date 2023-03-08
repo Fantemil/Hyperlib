@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 07:15:46"
+lastupdate = "GMT +1: 08.03.2023 07:15:49"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -5786,3 +5786,5 @@ addscriptexist(6403373529, "Slap Battles: Auto Clicker, Slap Aura, Slap Farm", "
 addscriptexist(8884334497, "Mining Clicker Simulator: Auto Clicker, Auto Rebirth, Better GFX", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mining%20Clicker%20Simulator%20Auto%20Clicker%20Auto%20Rebirth%20Better%20GFX.lua")
 
 addscript(7177496972, "Current Game","Anime Warriors: Auto Farm, Better GFX", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime%20Warriors%20Auto%20Farm%20Better%20GFX.lua")
+
+addhub("Kingdom Hub: 5 Games", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Kingdom%20Hub%20%20Games.lua")
