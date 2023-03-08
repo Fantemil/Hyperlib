@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 14:49:56"
+lastupdate = "GMT +1: 08.03.2023 14:50:00"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -8122,3 +8122,5 @@ addscriptexist(292439477, "Phantom Forces: AimBot, Silent Aim", "pulled from rbx
 addscriptexist(2753915549, "Blox Fruits: Auto Farm Lvl, Auto Sellect Weapon, Mastery Mode", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blox%20Fruits%20Auto%20Farm%20Lvl%20Auto%20Sellect%20Weapon%20Mastery%20Mode.lua")
 
 addscriptexist(6516141723, "DOORS: Dorr Esp, FullBright, Get All Badges", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DOORS%20Dorr%20Esp%20FullBright%20Get%20All%20Badges.lua")
+
+addscriptexist(2753915549, "Blox Fruits: Auto Farm, Fast Attack, Auto Select Weapon", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blox%20Fruits%20Auto%20Farm%20Fast%20Attack%20Auto%20Select%20Weapon.lua")
