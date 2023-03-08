@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ToothlessNight/DragonHub/main/AAAA%20Universal%20Script",true))();
