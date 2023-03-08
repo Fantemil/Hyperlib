@@ -1,10 +1,1 @@
-repeat
-    wait()
-until game:IsLoaded()
-wait()
-
-if getconnections then
-    for _, v in next, getconnections(game:GetService("Players").LocalPlayer.Idled) do
-        v:Disable()
-    end
-end
+loadstring(game:HttpGet("https://raw.githubusercontent.com/2dgeneralspam1/scripts-and-stuff/master/scripts/LoadstringypVvhJBq4QNz", true))()
