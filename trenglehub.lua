@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 20:14:32"
+lastupdate = "GMT +1: 08.03.2023 20:14:36"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -13560,3 +13560,5 @@ addscriptexist(9264596435, "Idle Heroes Simulator | Auto Hit - Auto Buy Heroes",
 addscriptexist(2753915549, "Blox Fruits | Chest Farm, Teleports, Visuals", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blox%20Fruits%20%20Chest%20Farm%20Teleports%20Visuals.lua")
 
 addscriptexist(8540168650, "Stand Upright: Rebooted | Stand Farm, Item Farm, Quest Farming", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Stand%20Upright%20Rebooted%20%20Stand%20Farm%20Item%20Farm%20Quest%20Farming.lua")
+
+addscriptexist(142823291, "Murder Mystery 2 | XRay, Chams Esp, AutoFarms", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Murder%20Mystery%20%20%20XRay%20Chams%20Esp%20AutoFarms.lua")
