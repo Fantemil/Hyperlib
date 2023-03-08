@@ -1,0 +1,1 @@
+loadstring(game:HttpGet(("https://raw.githubusercontent.com/spookysss/MakingMemesInYourBasement/main/script.lua"), true))()
