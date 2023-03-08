@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 20:39:00"
+lastupdate = "GMT +1: 08.03.2023 20:39:06"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -14204,3 +14204,5 @@ addscriptexist(2537430692, "Jenga [NoKillBrick, FLy]", "pulled from rbxscript.co
 addscriptexist(2537430692, "Jenga [End Game, Moai]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Jenga%20End%20Game%20Moai.lua")
 
 addscriptexist(8737602449, "PLS DONATE [AutoBeg, Webhook]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PLS%20DONATE%20AutoBeg%20Webhook.lua")
+
+addscriptuniversal("Roblox Universal Script [Blue Screen]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Roblox%20Universal%20Script%20Blue%20Screen.lua")
