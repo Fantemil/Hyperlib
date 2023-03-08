@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 19:10:41"
+lastupdate = "GMT +1: 08.03.2023 19:10:45"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -12556,3 +12556,5 @@ addscriptexist(9872472334, "Evade: Auto quadruple trouble", "pulled from rbxscri
 addscriptexist(1554960397, "Car Dealership Tycoon: Set Speed your Car", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Car%20Dealership%20Tycoon%20Set%20Speed%20your%20Car.lua")
 
 addscriptexist(292439477, "Phantom Forces: Unlock All Guns", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Phantom%20Forces%20Unlock%20All%20Guns.lua")
+
+addscriptexist(10861112990, "Anime Artifacts Simulator 2: Inf Money", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime%20Artifacts%20Simulator%20%20Inf%20Money.lua")
