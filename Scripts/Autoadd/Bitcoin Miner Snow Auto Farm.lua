@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/contentdeleted/lua/main/autofarm.lua"))();
