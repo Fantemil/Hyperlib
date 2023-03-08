@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 18:22:05"
+lastupdate = "GMT +1: 08.03.2023 18:22:09"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -11544,3 +11544,5 @@ addscript(8447279898, "Current Game","The Pointless Printer Game: Inf money", "p
 addscript(10037235473, "Current Game","New York: The Hood: Auto Farm, Teleports", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/New%20York%20The%20Hood%20Auto%20Farm%20Teleports.lua")
 
 addscriptexist(8122612051, "Slendytubbies VS Redux: Inf custards", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Slendytubbies%20VS%20Redux%20Inf%20custards.lua")
+
+addscriptexist(1224212277, "Mad City: Teleport, Silent AIM, ESP & more", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mad%20City%20Teleport%20Silent%20AIM%20ESP%20%20more.lua")
