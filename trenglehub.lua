@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 18:17:56"
+lastupdate = "GMT +1: 08.03.2023 18:18:00"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -11438,3 +11438,5 @@ addscriptexist(8726743209, "Refinery Caves: Auto Farm, Auto Sell, Tp", "pulled f
 addscriptexist(10925589760, "Merge Simulator: Merge All Blocks", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Merge%20Simulator%20Merge%20All%20Blocks.lua")
 
 addscriptexist(10723695195, "Anime Evolution Simulator: Auto Farm, Auto Buy, Auto Claim Gift", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime%20Evolution%20Simulator%20Auto%20Farm%20Auto%20Buy%20Auto%20Claim%20Gift.lua")
+
+addscript(6206893534, "Current Game","Cobra Kai Karate: Auto Farm Bugs, Auto Farm Pushups, Auto Click", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Cobra%20Kai%20Karate%20Auto%20Farm%20Bugs%20Auto%20Farm%20Pushups%20Auto%20Click.lua")
