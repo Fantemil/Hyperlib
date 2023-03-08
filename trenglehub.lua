@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 13:11:28"
+lastupdate = "GMT +1: 08.03.2023 13:11:33"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -7222,3 +7222,5 @@ addscriptexist(6872265039, "BedWars: Keybinds, Spam, ESP", "pulled from rbxscrip
 addscriptexist(901793731, "D-DAY: Gun Modification", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DDAY%20Gun%20Modification.lua")
 
 addscriptexist(2788229376, "Da Hood: Melee Reach, Knife Pickup, Fake Macro", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Da%20Hood%20Melee%20Reach%20Knife%20Pickup%20Fake%20Macro.lua")
+
+addscriptexist(662417684, "LUCKY BLOCKS Battlegrounds: Bring All Players, Teleporter, Get All Items", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LUCKY%20BLOCKS%20Battlegrounds%20Bring%20All%20Players%20Teleporter%20Get%20All%20Items.lua")
