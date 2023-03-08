@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 17:10:37"
+lastupdate = "GMT +1: 08.03.2023 17:10:41"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -9744,3 +9744,5 @@ addscriptexist(155615604, "Prison Life: Gun Mods, Gun Giver, Team Changer", "pul
 addscriptexist(2788229376, "Da Hood: Trigger Bot, Teleports & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Da%20Hood%20Trigger%20Bot%20Teleports%20%20More.lua")
 
 addscriptexist(2788229376, "Da Hood: Locked Aim", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Da%20Hood%20Locked%20Aim.lua")
+
+addscriptexist(9498006165, "Tapping Simulator: Auto Claim Daily Reward, Auto Tap", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tapping%20Simulator%20Auto%20Claim%20Daily%20Reward%20Auto%20Tap.lua")
