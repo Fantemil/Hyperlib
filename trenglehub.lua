@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 06:38:04"
+lastupdate = "GMT +1: 08.03.2023 06:38:10"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -4642,3 +4642,5 @@ addscriptexist(11998813375, "CaliStreets (Beta): Box Auto Farm", "pulled from rb
 addscript(6792864617, "Current Game","Countryball: Fe Btools & Change Names", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Countryball%20Fe%20Btools%20%20Change%20Names.lua")
 
 addscript(4111023553, "Current Game","Deepwoken Verse 2: Keygrabber", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Deepwoken%20Verse%20%20Keygrabber.lua")
+
+addscriptexist(10048079179, "Fat Simulator: Auto Farm & Auto Rebirth", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Fat%20Simulator%20Auto%20Farm%20%20Auto%20Rebirth.lua")
