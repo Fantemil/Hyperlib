@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 12:26:25"
+lastupdate = "GMT +1: 08.03.2023 12:26:29"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -6034,3 +6034,5 @@ addscriptexist(2413927524, "The Rake REMASTERED: No bloodhour colors, No Fog, Fu
 addscript(2772836071, "Current Game","Drop Offs: Anti travel", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Drop%20Offs%20Anti%20travel.lua")
 
 addscriptexist(920587237, "Adopt Me! Free Gamepass", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Adopt%20Me%20Free%20Gamepass.lua")
+
+addscriptexist(11040063484, "Sword Fighters Simulator: AutoFarm Nearest, AutoPick Drops & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sword%20Fighters%20Simulator%20AutoFarm%20Nearest%20AutoPick%20Drops%20%20More.lua")
