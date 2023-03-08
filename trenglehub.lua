@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 07:13:22"
+lastupdate = "GMT +1: 08.03.2023 07:13:26"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -5714,3 +5714,5 @@ addscriptexist(855499080, "SKYWARS: Teleports, Anti Void & More", "pulled from r
 addscriptexist(10347946161, "Rat Washing Tycoon: Auto Farm, Auto Collect, Auto Obby", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Rat%20Washing%20Tycoon%20Auto%20Farm%20Auto%20Collect%20Auto%20Obby.lua")
 
 addscriptexist(445664957, "Parkour: Bag's ESP", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Parkour%20Bags%20ESP.lua")
+
+addscriptexist(8540346411, "Rebirth Champions X: Auto Craft All, Auto Eggs, Auto Rebirth", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Rebirth%20Champions%20X%20Auto%20Craft%20All%20Auto%20Eggs%20Auto%20Rebirth.lua")
