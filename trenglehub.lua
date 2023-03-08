@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 17:06:36"
+lastupdate = "GMT +1: 08.03.2023 17:06:40"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -9640,3 +9640,5 @@ addscriptexist(2753915549, "Blox Fruits: Auto Team, Auto Eat Fruit, Auto Store F
 addscriptexist(5865858426, "Retail Tycoon 2: Philips Coins AutoFarm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Retail%20Tycoon%20%20Philips%20Coins%20AutoFarm.lua")
 
 addscript(6422033265, "Current Game","No Jumping Difficulty Chart Obby: AutoPassage", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/No%20Jumping%20Difficulty%20Chart%20Obby%20AutoPassage.lua")
+
+addscriptexist(2248408710, "Destruction Simulator: Auto Rankup, Infinity Money, Money Boost", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Destruction%20Simulator%20Auto%20Rankup%20Infinity%20Money%20Money%20Boost.lua")
