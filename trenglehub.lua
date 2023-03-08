@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 06:42:27"
+lastupdate = "GMT +1: 08.03.2023 06:42:30"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -4770,3 +4770,5 @@ addscriptexist(11701792069, "Snow Plow Simulator: Infinity Money", "pulled from 
 addscriptexist(6284583030, "Pet Simulator X: Notify If Kicked Webhook", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pet%20Simulator%20X%20Notify%20If%20Kicked%20Webhook.lua")
 
 addscriptexist(11701792069, "Snow Plow Simulator: Auto Buy Eggs, Infinity Rebirth, Spawn Car", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Snow%20Plow%20Simulator%20Auto%20Buy%20Eggs%20Infinity%20Rebirth%20Spawn%20Car.lua")
+
+addscriptexist(9281034297, "Goal Kick Simulator: Anti Afk, Infinity Jumps, Walkspeed", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Goal%20Kick%20Simulator%20Anti%20Afk%20Infinity%20Jumps%20Walkspeed.lua")
