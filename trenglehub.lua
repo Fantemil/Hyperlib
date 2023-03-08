@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 17:36:08"
+lastupdate = "GMT +1: 08.03.2023 17:36:12"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -10394,3 +10394,5 @@ addscriptuniversal("Universal Webhook detection", "pulled from rbxscript.com", "
 addscriptexist(9555732501, "Nen Fighting Simulator: Auto Farm Strenght, Teleports & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Nen%20Fighting%20Simulator%20Auto%20Farm%20Strenght%20Teleports%20%20More.lua")
 
 addscriptexist(10893141806, "Truck Factory Tycoon: Auto Collect Cash, Walkspeed, Fly", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Truck%20Factory%20Tycoon%20Auto%20Collect%20Cash%20Walkspeed%20Fly.lua")
+
+addscript(11189979930, "Current Game","Pet Crafting Simulator: Auto Rebirth, Auto Click, Infinite 2x Frenzy", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pet%20Crafting%20Simulator%20Auto%20Rebirth%20Auto%20Click%20Infinite%20x%20Frenzy.lua")
