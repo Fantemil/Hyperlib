@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 15:10:45"
+lastupdate = "GMT +1: 08.03.2023 15:10:51"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -8672,3 +8672,5 @@ addscriptexist(11346342371, "making memes in your basement at 3 AM tycoon: Insta
 addscriptexist(2788229376, "Da Hood: Anti Stomp, No Fog & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Da%20Hood%20Anti%20Stomp%20No%20Fog%20%20More.lua")
 
 addscriptexist(2809202155, "Your Bizarre Adventure: Op Auto Sbr", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Your%20Bizarre%20Adventure%20Op%20Auto%20Sbr.lua")
+
+addscriptexist(9498006165, "Tapping Simulator: Auto Claim Rewards, Auto Upgrader & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tapping%20Simulator%20Auto%20Claim%20Rewards%20Auto%20Upgrader%20%20More.lua")
