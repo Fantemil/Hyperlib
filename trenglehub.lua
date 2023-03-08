@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 17:09:26"
+lastupdate = "GMT +1: 08.03.2023 17:09:30"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -9712,3 +9712,5 @@ addscriptexist(8908228901, "SharkBite 2: Auto Farm, Auto Kill Shark, Noclip", "p
 addscriptexist(10681622988, "Easy Jump Clicker: Universal Auto Farm For All Stats", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Easy%20Jump%20Clicker%20Universal%20Auto%20Farm%20For%20All%20Stats.lua")
 
 addscriptexist(8726743209, "Refinery Caves: Client-Side Item Spawner", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Refinery%20Caves%20ClientSide%20Item%20Spawner.lua")
+
+addscriptexist(4738545896, "SHOOT OUT: Kill All, Silent Aim, Esp", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SHOOT%20OUT%20Kill%20All%20Silent%20Aim%20Esp.lua")
