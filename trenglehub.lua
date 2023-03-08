@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 13:08:46"
+lastupdate = "GMT +1: 08.03.2023 13:08:51"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -7154,3 +7154,5 @@ addscriptexist(9055015233, "My Hood: Auto Armor, Auto Kill, Cash Drop", "pulled 
 addscriptexist(920587237, "Adopt Me: Pet Auto Farm, Auto Buy, Teleports", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Adopt%20Me%20Pet%20Auto%20Farm%20Auto%20Buy%20Teleports.lua")
 
 addscriptexist(2753915549, "Blox Fruits: Auto Farm, Auto Confetti, Auto Chests", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blox%20Fruits%20Auto%20Farm%20Auto%20Confetti%20Auto%20Chests.lua")
+
+addscriptuniversal("Universal Press V to toggle voice chat", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Press%20V%20to%20toggle%20voice%20chat.lua")
