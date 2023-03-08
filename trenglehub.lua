@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 06:37:37"
+lastupdate = "GMT +1: 08.03.2023 06:37:40"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -4628,3 +4628,5 @@ addscript(691884101, "Current Game","Dynamic Ship Simulator III: Anti Cheat Bypa
 addscriptexist(920587237, "Adopt Me!: Lantern Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Adopt%20Me%20Lantern%20Auto%20Farm.lua")
 
 addscriptexist(11542692507, "Anime Souls Simulator: Auto Farm Gui", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime%20Souls%20Simulator%20Auto%20Farm%20Gui.lua")
+
+addscriptexist(286090429, "Arsenal: Night Hub", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Arsenal%20Night%20Hub.lua")
