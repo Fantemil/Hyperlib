@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 06:55:02"
+lastupdate = "GMT +1: 08.03.2023 06:55:06"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -5156,3 +5156,5 @@ addscript(10030740606, "Current Game","Sweets obby! Auto Complete, Anti Detect, 
 addscript(623694595, "Current Game","Phenom: Camlock, Auto Guard, Long Arms", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Phenom%20Camlock%20Auto%20Guard%20Long%20Arms.lua")
 
 addscript(5620664339, "Current Game","RoStreets: Grab All Items, No Stomp, Hitboxes", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RoStreets%20Grab%20All%20Items%20No%20Stomp%20Hitboxes.lua")
+
+addscript(8508161757, "Current Game","Raise An Albert: Auto Collect Money", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Raise%20An%20Albert%20Auto%20Collect%20Money.lua")
