@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 20:11:26"
+lastupdate = "GMT +1: 08.03.2023 20:11:30"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -13474,3 +13474,5 @@ addscriptexist(185655149, "Welcome to Bloxburg | AutoFarm", "pulled from rbxscri
 addscriptexist(9284097280, "Apartment Tycoon | AutoBuy, AutoCollect, Fly", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Apartment%20Tycoon%20%20AutoBuy%20AutoCollect%20Fly.lua")
 
 addscript(10447882390, "Current Game","Zombie Research Tycoon | AutoCollect, AutoBuy, AutoMine", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Zombie%20Research%20Tycoon%20%20AutoCollect%20AutoBuy%20AutoMine.lua")
+
+addscriptexist(10631181587, "Stone Miner Simulator 2 | Claim All Codes, Claims All login Rewards", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Stone%20Miner%20Simulator%20%20%20Claim%20All%20Codes%20Claims%20All%20login%20Rewards.lua")
