@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 12:33:14"
+lastupdate = "GMT +1: 08.03.2023 12:33:18"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -6218,3 +6218,5 @@ addscriptexist(5233782396, "Creatures of Sonaria: Auto Farm Gifts", "pulled from
 addscriptexist(8908228901, "Sharkbite 2: AFK Present Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sharkbite%20%20AFK%20Present%20Farm.lua")
 
 addscriptexist(6361937392, "steal time from others & be the best: Blinker", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/steal%20time%20from%20others%20%20be%20the%20best%20Blinker.lua")
+
+addscriptexist(6361937392, "steal time from others & be the best: Auto Leave", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/steal%20time%20from%20others%20%20be%20the%20best%20Auto%20Leave.lua")
