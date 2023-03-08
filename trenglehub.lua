@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 12:35:50"
+lastupdate = "GMT +1: 08.03.2023 12:35:54"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -6290,3 +6290,5 @@ addscriptexist(2788229376, "Da Hood: Animations Gamepass", "pulled from rbxscrip
 addscriptuniversal("Universal Fe Back Flip, Front Flip, Super Human", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Fe%20Back%20Flip%20Front%20Flip%20Super%20Human.lua")
 
 addscriptexist(155615604, "Prison Life: Remove Doors, Remove Fences, Give All Guns", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Prison%20Life%20Remove%20Doors%20Remove%20Fences%20Give%20All%20Guns.lua")
+
+addscriptexist(6516141723, "DOORS: Entity Spawner, Get All Achievements & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DOORS%20Entity%20Spawner%20Get%20All%20Achievements%20%20More.lua")
