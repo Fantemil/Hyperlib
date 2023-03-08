@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 14:36:19"
+lastupdate = "GMT +1: 08.03.2023 14:36:23"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -7748,3 +7748,5 @@ addscriptexist(7346416636, "Pop It Trading: Press F to Remove Items", "pulled fr
 addscript(11571301605, "Current Game","Night Hood: Godbullet", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Night%20Hood%20Godbullet.lua")
 
 addscriptexist(1554960397, "Car Dealership Tycoon: Two Versions of Auto Farm, Speed Hack", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Car%20Dealership%20Tycoon%20Two%20Versions%20of%20Auto%20Farm%20Speed%20Hack.lua")
+
+addhub("Midnight Racing Hub: 20+ Games", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Midnight%20Racing%20Hub%20%20Games.lua")
