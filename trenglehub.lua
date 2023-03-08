@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 14:59:57"
+lastupdate = "GMT +1: 08.03.2023 15:00:01"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -8388,3 +8388,5 @@ addscriptexist(920587237, "Adopt Me: Neon Pets", "pulled from rbxscript.com", "h
 addscriptexist(4508456371, "Shortest Answer Wins: Auto Server Hop, Auto Reveal, Auto Say GG", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Shortest%20Answer%20Wins%20Auto%20Server%20Hop%20Auto%20Reveal%20Auto%20Say%20GG.lua")
 
 addscriptexist(9874911474, "Tha Bronx 2 (beta) Kill All", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tha%20Bronx%20%20beta%20Kill%20All.lua")
+
+addscriptexist(9874911474, "Tha Bronx 2 (beta): Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tha%20Bronx%20%20beta%20Auto%20Farm.lua")
