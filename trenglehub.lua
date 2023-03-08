@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 19:37:00"
+lastupdate = "GMT +1: 08.03.2023 19:37:06"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -13138,3 +13138,5 @@ addscriptuniversal("Universal Tells a lot about you", "pulled from rbxscript.com
 addscript(5610197459, "Current Game","gang up on people simulator: AutoFarm, AutoSlap, Walkspeed, Buy Section", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/gang%20up%20on%20people%20simulator%20AutoFarm%20AutoSlap%20Walkspeed%20Buy%20Section.lua")
 
 addscript(5108997584, "Current Game","Reason 2 Die: Teleports, Buy any item, Fly", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Reason%20%20Die%20Teleports%20Buy%20any%20item%20Fly.lua")
+
+addscript(7419509075#ropro-quick-search, "Current Game","cart ride around used car batter: Teleports, Auto Coins, Get tools", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/cart%20ride%20around%20used%20car%20batter%20Teleports%20Auto%20Coins%20Get%20tools.lua")
