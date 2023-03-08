@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 18:54:44"
+lastupdate = "GMT +1: 08.03.2023 18:54:50"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -12212,3 +12212,5 @@ addscriptexist(8482451541, "Brick Defense: Delete Everyone's Towers", "pulled fr
 addscript(8612195438, "Current Game","Clicker Party Simulator: Auto Click, Auto Rebirth & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Clicker%20Party%20Simulator%20Auto%20Click%20Auto%20Rebirth%20%20More.lua")
 
 addscriptexist(6516141723, "DOORS: Jump Power, Walkspeed, ESP", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DOORS%20Jump%20Power%20Walkspeed%20ESP.lua")
+
+addscriptexist(9872472334, "Evade: Auto Farm Wins, Walkspeed Boost, Fly", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Evade%20Auto%20Farm%20Wins%20Walkspeed%20Boost%20Fly.lua")
