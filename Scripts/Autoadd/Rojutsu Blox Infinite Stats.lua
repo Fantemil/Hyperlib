@@ -1,0 +1,1 @@
+workspace.EventHolder.AddPoints.Reactor:FireServer("Points", 0/0)
