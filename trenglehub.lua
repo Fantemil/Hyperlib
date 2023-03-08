@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 15:06:15"
+lastupdate = "GMT +1: 08.03.2023 15:06:19"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -8552,3 +8552,5 @@ addscript(1021289358, "Current Game","Football Universe: No Miss Accuracy Catch,
 addscriptexist(360589910, "Hoops - Demo (Basketball): Press E TP, Infinity Stamina, Aimbot", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Hoops%20%20Demo%20Basketball%20Press%20E%20TP%20Infinity%20Stamina%20Aimbot.lua")
 
 addscriptexist(10898965735, "Mine Racer: Auto Join, Auto Rebirth, Auto Mine", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mine%20Racer%20Auto%20Join%20Auto%20Rebirth%20Auto%20Mine.lua")
+
+addscriptexist(5777099015, "Cheese Escape: Add Cheese, Teleports", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Cheese%20Escape%20Add%20Cheese%20Teleports.lua")
