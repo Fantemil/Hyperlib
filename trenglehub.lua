@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 14:50:19"
+lastupdate = "GMT +1: 08.03.2023 14:50:25"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -8132,3 +8132,5 @@ addscriptexist(11445923563, "One Fruit Simulator: Kill Aura, Auto Quest, Auto Co
 addscriptexist(286090429, "Arsenal: Smooth Lock, Silent Aim, Hitboxes", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Arsenal%20Smooth%20Lock%20Silent%20Aim%20Hitboxes.lua")
 
 addscriptexist(10898965735, "Mine Racer: Auto Buy Egg, Auto Equip Best Pickaxe, Complete The Obby", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mine%20Racer%20Auto%20Buy%20Egg%20Auto%20Equip%20Best%20Pickaxe%20Complete%20The%20Obby.lua")
+
+addscriptexist(2788229376, "Da Hood: Bullet tracer, Low GFX, Smooth lock", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Da%20Hood%20Bullet%20tracer%20Low%20GFX%20Smooth%20lock.lua")
