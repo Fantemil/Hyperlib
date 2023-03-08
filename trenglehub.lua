@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 16:46:25"
+lastupdate = "GMT +1: 08.03.2023 16:46:29"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -9132,3 +9132,5 @@ addscriptexist(6284583030, "Pet Simulator X: Auto Farm, Auto Open Egg, Tp", "pul
 addscriptexist(920587237, "Adopt Me: Auto Farm, Auto PayOut, Auto Trade Decline", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Adopt%20Me%20Auto%20Farm%20Auto%20PayOut%20Auto%20Trade%20Decline.lua")
 
 addscriptuniversal("Universal Hitbox Extender", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Hitbox%20Extender.lua")
+
+addscriptexist(7560156054, "Clicker Simulator: Inf Money", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Clicker%20Simulator%20Inf%20Money.lua")
