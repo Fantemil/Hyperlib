@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 13:04:54"
+lastupdate = "GMT +1: 08.03.2023 13:04:58"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -7052,3 +7052,5 @@ addscript(11434115364, "Current Game","Merge Pet Simulator: Auto Merge", "pulled
 addscriptexist(10028173768, "Queen Elizebeth Obby: Get All Gamepasses", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Queen%20Elizebeth%20Obby%20Get%20All%20Gamepasses.lua")
 
 addscriptexist(8054462345, "Michael's Zombies: Esp , Kill Aura, Auto Guns", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Michaels%20Zombies%20Esp%20%20Kill%20Aura%20Auto%20Guns.lua")
+
+addscript(9911362945, "Current Game","Project: Bronze Forever: Aim Bot, Chect team, Fov", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Project%20Bronze%20Forever%20Aim%20Bot%20Chect%20team%20Fov.lua")
