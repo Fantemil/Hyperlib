@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 13:06:11"
+lastupdate = "GMT +1: 08.03.2023 13:06:16"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -7084,3 +7084,5 @@ addscriptexist(10291129032, "Flappy Bird Race: Auto Farm & More!", "pulled from 
 addscriptexist(10404327868, "Timber Champions: Auto Collect Orbs, Auto Attack Boss, Auto Collect Chests", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Timber%20Champions%20Auto%20Collect%20Orbs%20Auto%20Attack%20Boss%20Auto%20Collect%20Chests.lua")
 
 addscriptexist(11200197064, "Rich Clicker Simulator: Auto Click, Anti Afk, FPS Boost", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Rich%20Clicker%20Simulator%20Auto%20Click%20Anti%20Afk%20FPS%20Boost.lua")
+
+addscriptexist(9984770240, "Obby but you're a ball: Auto Complete Obby Instantly", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Obby%20but%20youre%20a%20ball%20Auto%20Complete%20Obby%20Instantly.lua")
