@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 18:42:50"
+lastupdate = "GMT +1: 08.03.2023 18:42:55"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -11972,3 +11972,5 @@ addscriptexist(1537690962, "Bee Swarm Simulator: Auto Farm, Teleport to Rares & 
 addscriptexist(1215581239, "Doomspire Brickbattle: Teleports, ESP, Walkspeed", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Doomspire%20Brickbattle%20Teleports%20ESP%20Walkspeed.lua")
 
 addscript(8689257920, "Current Game","Life in Prison: Fly, Teleports, Item Giver", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Life%20in%20Prison%20Fly%20Teleports%20Item%20Giver.lua")
+
+addscriptexist(142823291, "Murder Mystery 2: Kill All, Gravity, Walkspeed Bypass", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Murder%20Mystery%20%20Kill%20All%20Gravity%20Walkspeed%20Bypass.lua")
