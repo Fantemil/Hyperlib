@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 20:51:26"
+lastupdate = "GMT +1: 08.03.2023 20:51:32"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -14508,3 +14508,5 @@ addscriptexist(155615604, "Prison Life [Inf Stamina, Inst Respawn]", "pulled fro
 addscriptuniversal("Roblox Universal Script [Boombox visualizer]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Roblox%20Universal%20Script%20Boombox%20visualizer.lua")
 
 addscriptuniversal("Roblox Universal Script [NOT FE, Shotgun]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Roblox%20Universal%20Script%20NOT%20FE%20Shotgun.lua")
+
+addscriptexist(7305309231, "Taxi Boss [Walkspeed, AutoFarm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Taxi%20Boss%20Walkspeed%20AutoFarm.lua")
