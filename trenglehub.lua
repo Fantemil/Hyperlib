@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 20:25:51"
+lastupdate = "GMT +1: 08.03.2023 20:25:55"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -13860,3 +13860,5 @@ addscriptexist(5987922834, "Transfur Outbreak | AimBot, Esp, Get All emote gamep
 addscriptexist(2753915549, "Blox Fruits | Redeem Codes, AutoFarm, Chest AutoFarm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blox%20Fruits%20%20Redeem%20Codes%20AutoFarm%20Chest%20AutoFarm.lua")
 
 addscriptexist(9431770682, "Lost Rooms | Esp, Material ESP, Full Bright", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Lost%20Rooms%20%20Esp%20Material%20ESP%20Full%20Bright.lua")
+
+addscriptexist(2788229376, "Da Hood | Cash Aura, Noclip, AutoStomp", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Da%20Hood%20%20Cash%20Aura%20Noclip%20AutoStomp.lua")
