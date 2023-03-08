@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 14:30:59"
+lastupdate = "GMT +1: 08.03.2023 14:31:02"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -7612,3 +7612,5 @@ addscriptexist(662417684, "LUCKY BLOCKS Battlegrounds: Walkspeed & Jumppower sli
 addscriptexist(2788229376, "Da Hood: Fly, No Jump Delay, Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Da%20Hood%20Fly%20No%20Jump%20Delay%20Auto%20Farm.lua")
 
 addscriptexist(6607361476, "Shopping Wars: Teleport to Escape, Teleport to Keycard, Pickup Full Items", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Shopping%20Wars%20Teleport%20to%20Escape%20Teleport%20to%20Keycard%20Pickup%20Full%20Items.lua")
+
+addscriptexist(9571238478, "Raise a Peter: Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Raise%20a%20Peter%20Auto%20Farm.lua")
