@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 16:48:37"
+lastupdate = "GMT +1: 08.03.2023 16:48:42"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -9184,3 +9184,5 @@ addscriptexist(11379155384, "Every Second You Jump Higher: Auto Win", "pulled fr
 addscriptexist(3260590327, "Tower Defense Simulator: Pizza Auto Strat", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tower%20Defense%20Simulator%20Pizza%20Auto%20Strat.lua")
 
 addscriptexist(6902912928, "GET TO THE TOP: Get All Items, Annoy Players, Walkspeed", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/GET%20TO%20THE%20TOP%20Get%20All%20Items%20Annoy%20Players%20Walkspeed.lua")
+
+addscriptexist(2788229376, "Da Hood: AImlock, Player Mods & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Da%20Hood%20AImlock%20Player%20Mods%20%20More.lua")
