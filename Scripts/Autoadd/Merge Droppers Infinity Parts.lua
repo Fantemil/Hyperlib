@@ -1,8 +1,6 @@
 while wait() do
-local args = {
-    [1] = 16, --put any if you want to collect that part recommended dont mess with it though.
-    [2] = Vector3.new(224.57415771484375, 5.614215850830078, 225.75262451171875)
-}
+local ohNumber1 = 16
+local ohVector32 = Vector3.new(1.3657619953155518, 5.57810115814209, 315.98724365234375)
 
-game:GetService("ReplicatedStorage").Signals.RemoteEvents.GetWoolRemote:FireServer(unpack(args))
+game:GetService("ReplicatedStorage").Signals.RemoteEvents.GetWoolRemote:FireServer(ohNumber1, ohVector32)
 end
