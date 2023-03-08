@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 18:38:51"
+lastupdate = "GMT +1: 08.03.2023 18:39:01"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -11902,3 +11902,5 @@ addscriptexist(6243699076, "The Mimic: Auto Complete Haloween Trial", "pulled fr
 addscript(460710135, "Current Game","Mount of the Gods: Kill All Animals, Break All Rocks & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mount%20of%20the%20Gods%20Kill%20All%20Animals%20Break%20All%20Rocks%20%20More.lua")
 
 addscriptexist(1242235469, "ball and axe: Gravity, Save Locate, Reach", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ball%20and%20axe%20Gravity%20Save%20Locate%20Reach.lua")
+
+addscriptexist(155615604, "Prison Life: Get Keycard, Remove All Fences, Walkspeed", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Prison%20Life%20Get%20Keycard%20Remove%20All%20Fences%20Walkspeed.lua")
