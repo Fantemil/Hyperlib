@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 18:23:05"
+lastupdate = "GMT +1: 08.03.2023 18:23:09"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -11568,3 +11568,5 @@ addscriptuniversal("Universal Remover Beta close Menu", "pulled from rbxscript.c
 addscript(10646916820, "Current Game","Muscle Race Clicker: Auto Clicker", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Muscle%20Race%20Clicker%20Auto%20Clicker.lua")
 
 addscriptexist(10925589760, "Merge Simulator: Auto Merge, Auto Finish Obby, Auto Tap", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Merge%20Simulator%20Auto%20Merge%20Auto%20Finish%20Obby%20Auto%20Tap.lua")
+
+addhub("Universal Script-Hub", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20ScriptHub.lua")
