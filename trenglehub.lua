@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 06:50:09"
+lastupdate = "GMT +1: 08.03.2023 06:50:13"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -5008,3 +5008,5 @@ addscriptexist(286090429, "Arsenal: Silent Aim, Aimbot, Hit Part", "pulled from 
 addscript(10106105124, "Current Game","Wheat Farming Simulator: Auto Mega Rebirth, Redeem All Codes, Auto Rebirth", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Wheat%20Farming%20Simulator%20Auto%20Mega%20Rebirth%20Redeem%20All%20Codes%20Auto%20Rebirth.lua")
 
 addscriptexist(2753915549, "Blox Fruits: AutoFarm Level, AutoFarm Selected Quest, AutoFarm Multi Quest", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blox%20Fruits%20AutoFarm%20Level%20AutoFarm%20Selected%20Quest%20AutoFarm%20Multi%20Quest.lua")
+
+addscriptexist(292439477, "Phantom Forces: CPU Limiter, Anti Afk, No Fall Damage", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Phantom%20Forces%20CPU%20Limiter%20Anti%20Afk%20No%20Fall%20Damage.lua")
