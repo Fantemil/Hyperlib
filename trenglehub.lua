@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 06:43:18"
+lastupdate = "GMT +1: 08.03.2023 06:43:23"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -4798,3 +4798,5 @@ addscriptexist(11800876530, "+One Blocks Every Second: Auto Place", "pulled from
 addhub("AtomicX Hub: 4 Games", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AtomicX%20Hub%20%20Games.lua")
 
 addscriptexist(9529019408, "Zombie Army Simulator: Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Zombie%20Army%20Simulator%20Auto%20Farm.lua")
+
+addscriptexist(11701792069, "Snow Plow Simulator: Gems Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Snow%20Plow%20Simulator%20Gems%20Farm.lua")
