@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 06:47:48"
+lastupdate = "GMT +1: 08.03.2023 06:47:51"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -4934,3 +4934,5 @@ addscriptexist(2788229376, "Da Hood: Options, ESP, Aimlock", "pulled from rbxscr
 addscriptexist(233727153, "Piano Keyboard: Auto Piano", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Piano%20Keyboard%20Auto%20Piano.lua")
 
 addscriptuniversal("Universal Client Cooldown Bypass", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Client%20Cooldown%20Bypass.lua")
+
+addscriptexist(3527629287, "Big Paintball: Rapid Fire, Instant Bullets, Automatic", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Big%20Paintball%20Rapid%20Fire%20Instant%20Bullets%20Automatic.lua")
