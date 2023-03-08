@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 16:48:01"
+lastupdate = "GMT +1: 08.03.2023 16:48:06"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -9170,3 +9170,5 @@ addscriptexist(6284583030, "Pet Simulator X: Auto Farm For All Areas, Auto Encha
 addscriptexist(292439477, "Phantom Forces: Radar Hack", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Phantom%20Forces%20Radar%20Hack.lua")
 
 addscriptexist(292439477, "Phantom Forces: Silent Aim V2", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Phantom%20Forces%20Silent%20Aim%20V.lua")
+
+addscript(7262405121, "Current Game","Ridgeway County Concepts: Arrest Player, Teleport Player, Play All Air Horns", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ridgeway%20County%20Concepts%20Arrest%20Player%20Teleport%20Player%20Play%20All%20Air%20Horns.lua")
