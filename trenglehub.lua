@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 07:14:06"
+lastupdate = "GMT +1: 08.03.2023 07:14:09"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -5736,3 +5736,5 @@ addscriptexist(2753915549, "Blox Fruits: Kill Aura, Auto Farm, Auto Stats", "pul
 addscriptexist(10675066724, "Slime Tower Tycoon: Auto Collect, Auto Sell, Auto Merge", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Slime%20Tower%20Tycoon%20Auto%20Collect%20Auto%20Sell%20Auto%20Merge.lua")
 
 addscriptexist(9872472334, "Evade: Character Speed & Jump power, Auto Respawn, ESP", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Evade%20Character%20Speed%20%20Jump%20power%20Auto%20Respawn%20ESP.lua")
+
+addscriptexist(8260276694, "Ability Wars: Auto Kill, Auto Speed", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ability%20Wars%20Auto%20Kill%20Auto%20Speed.lua")
