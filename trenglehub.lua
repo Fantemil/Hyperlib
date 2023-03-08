@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 19:27:01"
+lastupdate = "GMT +1: 08.03.2023 19:27:06"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -12910,3 +12910,5 @@ addscriptexist(9285238704, "Race Clicker: Auto Win, Auto Farm, Teleports", "pull
 addscriptexist(537413528, "Build A Boat For Treasure: Autofarm Chest, Walkspeed, Teleports", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Build%20A%20Boat%20For%20Treasure%20Autofarm%20Chest%20Walkspeed%20Teleports.lua")
 
 addscript(10371228324, "Current Game","Camp Bonkers: Infinity Coins", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Camp%20Bonkers%20Infinity%20Coins.lua")
+
+addscriptexist(10371228324, "Camp Bonkers: Give all badges", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Camp%20Bonkers%20Give%20all%20badges.lua")
