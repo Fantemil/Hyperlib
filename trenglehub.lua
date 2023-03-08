@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 17:43:15"
+lastupdate = "GMT +1: 08.03.2023 17:43:19"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -10578,3 +10578,5 @@ addscriptexist(6913960180, "Undertale Crazy Multiverse Timeline: Simple Auto Far
 addscriptexist(286090429, "Arsenal: Aimbot, ESP, Gun Mods", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Arsenal%20Aimbot%20ESP%20Gun%20Mods.lua")
 
 addscript(10758955211, "Current Game","Skydive Race Clicker: Auto Farm Speeds, Auto Farm Wins", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Skydive%20Race%20Clicker%20Auto%20Farm%20Speeds%20Auto%20Farm%20Wins.lua")
+
+addscriptexist(11187148979, "Ultra Unfair: Auto Farm, Kill Aura, Auto Quest & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ultra%20Unfair%20Auto%20Farm%20Kill%20Aura%20Auto%20Quest%20%20More.lua")
