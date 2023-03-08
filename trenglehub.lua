@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 06:40:30"
+lastupdate = "GMT +1: 08.03.2023 06:40:33"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -4708,3 +4708,5 @@ addscriptexist(10277607801, "Apeirophobia: Fullbright, ESP & More", "pulled from
 addscriptuniversal("Universal Korblox And Headless", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Korblox%20And%20Headless.lua")
 
 addscript(221718525, "Current Game","Ninja Tycoon: Auto Build, Auto Click Dropper, Auto Collect", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ninja%20Tycoon%20Auto%20Build%20Auto%20Click%20Dropper%20Auto%20Collect.lua")
+
+addscriptexist(6516141723, "DOORS: Sponguss Hub, Give Crucifix", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DOORS%20Sponguss%20Hub%20Give%20Crucifix.lua")
