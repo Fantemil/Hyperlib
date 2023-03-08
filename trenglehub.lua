@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 16:36:41"
+lastupdate = "GMT +1: 08.03.2023 16:36:45"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -8894,3 +8894,5 @@ addscriptexist(286090429, "Arsenal: Walkspeed, Auto Collect, Silent Aim", "pulle
 addscriptexist(4522347649, "[FREE ADMIN]: Explode All, Control All, Player Mods", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FREE%20ADMIN%20Explode%20All%20Control%20All%20Player%20Mods.lua")
 
 addscriptuniversal("Universal Infinite Jumps, Walkspeed and Jump Power changers", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Infinite%20Jumps%20Walkspeed%20and%20Jump%20Power%20changers.lua")
+
+addscriptexist(3177438863, "Dragon Blox: Auto Click, Auto Rebirth", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Dragon%20Blox%20Auto%20Click%20Auto%20Rebirth.lua")
