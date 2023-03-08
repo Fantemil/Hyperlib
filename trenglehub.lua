@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 14:25:24"
+lastupdate = "GMT +1: 08.03.2023 14:25:28"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -7468,3 +7468,5 @@ addscriptexist(6447798030, "Funky Friday: Reedem codes, WalkSpeed, Auto Play", "
 addscriptexist(370731277, "Meepcity: Free Gamepass, Meep name changer, Back deleted items (AtomicX)", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Meepcity%20Free%20Gamepass%20Meep%20name%20changer%20Back%20deleted%20items%20AtomicX.lua")
 
 addscriptexist(142823291, "Murder Mystery 2: Auto farm, Godmode, Invis Godmode", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Murder%20Mystery%20%20Auto%20farm%20Godmode%20Invis%20Godmode.lua")
+
+addscript(11449238237, "Current Game","Billionaire Empire: Auto Collect Gold, Auto Refil, Auto Click", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Billionaire%20Empire%20Auto%20Collect%20Gold%20Auto%20Refil%20Auto%20Click.lua")
