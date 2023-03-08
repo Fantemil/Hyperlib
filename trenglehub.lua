@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 06:43:04"
+lastupdate = "GMT +1: 08.03.2023 06:43:07"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -4790,3 +4790,5 @@ addscriptexist(8054462345, "Michael's Zombies: Kill aura, noclip, Walkspeed", "p
 addscriptexist(6284583030, "Pet Simulator X: Remove Egg Animation, Egg Hatch x1, Egg Hatch x3", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pet%20Simulator%20X%20Remove%20Egg%20Animation%20Egg%20Hatch%20x%20Egg%20Hatch%20x.lua")
 
 addscriptexist(3101667897, "Legends Of Speed: Hoop Farm, Orb Farm, Gem Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Legends%20Of%20Speed%20Hoop%20Farm%20Orb%20Farm%20Gem%20Farm.lua")
+
+addscriptexist(11547613362, "Anime Fly Race: Auto Win, Auto claim Daily Rewards, Auto Rebirth", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime%20Fly%20Race%20Auto%20Win%20Auto%20claim%20Daily%20Rewards%20Auto%20Rebirth.lua")
