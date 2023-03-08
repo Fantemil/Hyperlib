@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 20:41:03"
+lastupdate = "GMT +1: 08.03.2023 20:41:08"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -14254,3 +14254,5 @@ addscript(9949781550, "Current Game","Digging Simulator [Inf Money]", "pulled fr
 addscript(10204162989, "Current Game","Pickaxe Simulator [Auto Mine, Equip Best Pets, Redeem Code]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pickaxe%20Simulator%20Auto%20Mine%20Equip%20Best%20Pets%20Redeem%20Code.lua")
 
 addscriptexist(6516141723, "DOORS [Fullbright, Esp]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DOORS%20Fullbright%20Esp.lua")
+
+addscriptexist(4042427666, "Anime Fighting Simulator [AutoFarm Mob, Farm Chikara Shards]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime%20Fighting%20Simulator%20AutoFarm%20Mob%20Farm%20Chikara%20Shards.lua")
