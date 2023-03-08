@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 13:03:15"
+lastupdate = "GMT +1: 08.03.2023 13:03:18"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -7008,3 +7008,5 @@ addscriptexist(11216791462, "Hungry Pig: Auto Grab Food, Walkspeed, Infinity Coi
 addscript(6681032961, "Current Game","Museum Tycoon: Infinity Money", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Museum%20Tycoon%20Infinity%20Money.lua")
 
 addscript(10028173768, "Current Game","Queen Elizebeth Obby: Teleport to The End", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Queen%20Elizebeth%20Obby%20Teleport%20to%20The%20End.lua")
+
+addscriptexist(11040063484, "Sword Fighters Simulator: Auto Farm Mobs, Auto Farm Quests & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sword%20Fighters%20Simulator%20Auto%20Farm%20Mobs%20Auto%20Farm%20Quests%20%20More.lua")
