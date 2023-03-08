@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 19:36:43"
+lastupdate = "GMT +1: 08.03.2023 19:36:47"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -13130,3 +13130,5 @@ addscriptexist(17541193, "Pinewood Computer Core: Teleport To Areas", "pulled fr
 addscriptexist(7991339063, "Rainbow Friends: Return Items, Fullbright, Player Modifications", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Rainbow%20Friends%20Return%20Items%20Fullbright%20Player%20Modifications.lua")
 
 addscriptexist(9662949425, "Punch a brick wall simulator: AutoSell, AutoFarm, Auto Buy Rebriths", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Punch%20a%20brick%20wall%20simulator%20AutoSell%20AutoFarm%20Auto%20Buy%20Rebriths.lua")
+
+addscript(8203181639, "Current Game","Syrian Shenanigans: Fast Firerate", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Syrian%20Shenanigans%20Fast%20Firerate.lua")
