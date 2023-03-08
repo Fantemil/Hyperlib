@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 17:28:53"
+lastupdate = "GMT +1: 08.03.2023 17:28:57"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -10216,3 +10216,5 @@ addscript(8481844229, "Current Game","Berry Avenue RP: Glitch Tool, Rainbow Car,
 addscriptexist(1242235469, "ball and axe: Unlocks Axe, Removes Limits", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ball%20and%20axe%20Unlocks%20Axe%20Removes%20Limits.lua")
 
 addscriptexist(6516141723, "DOORS: Make the Room you are in red", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DOORS%20Make%20the%20Room%20you%20are%20in%20red.lua")
+
+addscriptexist(10108131074, "Mow The Lawn: Auto Hatch Eggs, Auto Mow, Auto Refill Gas", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mow%20The%20Lawn%20Auto%20Hatch%20Eggs%20Auto%20Mow%20Auto%20Refill%20Gas.lua")
