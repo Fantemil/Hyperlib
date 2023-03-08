@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 13:01:53"
+lastupdate = "GMT +1: 08.03.2023 13:01:57"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -6974,3 +6974,5 @@ addscript(11088884990, "Current Game","Goal Clicker: Wins Farm, Auto Click, Hatc
 addscript(4225025295, "Current Game","OP NINJA SIMULATOR: Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20NINJA%20SIMULATOR%20Auto%20Farm.lua")
 
 addscriptexist(10598587051, "Anime Clicker Fight: Auto Clicker", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime%20Clicker%20Fight%20Auto%20Clicker.lua")
+
+addscriptuniversal("Universal Kill Aura", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Kill%20Aura.lua")
