@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 16:42:33"
+lastupdate = "GMT +1: 08.03.2023 16:42:38"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -9038,3 +9038,5 @@ addscriptexist(7655745946, "Dunking Simulator: Redeem Codes, Infinity Spins, Aut
 addhub("Rice Hub: 3 Games", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Rice%20Hub%20%20Games.lua")
 
 addscript(8365905206, "Current Game","untitled tag game: Auto Tag, Hitboxes, Walkspeed", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/untitled%20tag%20game%20Auto%20Tag%20Hitboxes%20Walkspeed.lua")
+
+addscriptexist(10224689615, "Money Clicker Simulator: Gamepass, Trade Spam,Fast Money Clicker", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Money%20Clicker%20Simulator%20Gamepass%20Trade%20SpamFast%20Money%20Clicker.lua")
