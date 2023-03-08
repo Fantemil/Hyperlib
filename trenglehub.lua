@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 06:41:59"
+lastupdate = "GMT +1: 08.03.2023 06:42:04"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -4756,3 +4756,5 @@ addscriptexist(3956818381, "Ninja Legends: Max jump count", "pulled from rbxscri
 addscriptexist(6516141723, "DOORS: Key Aura, Infinity Jumps, Walkspeed", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DOORS%20Key%20Aura%20Infinity%20Jumps%20Walkspeed.lua")
 
 addscriptexist(1224212277, "Mad City: Chapter 2: Silent Aim, ESP, Auto Rob", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mad%20City%20Chapter%20%20Silent%20Aim%20ESP%20Auto%20Rob.lua")
+
+addscriptexist(142823291, "Murder Mystery 2: Walkspeeed, ESP, Silent Aim", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Murder%20Mystery%20%20Walkspeeed%20ESP%20Silent%20Aim.lua")
