@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 18:50:00"
+lastupdate = "GMT +1: 08.03.2023 18:50:06"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -12116,3 +12116,5 @@ addscriptexist(13822889, "Lumber Tycoon 2: Dupe Inventory, Bring Wood, Bring Ite
 addscriptexist(8726743209, "Refinery Caves: Auto-Farm, No Damage, No Water Blur", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Refinery%20Caves%20AutoFarm%20No%20Damage%20No%20Water%20Blur.lua")
 
 addscript(6700823483, "Current Game","Idiotic Investing: Screw Everyone", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Idiotic%20Investing%20Screw%20Everyone.lua")
+
+addscriptexist(537413528, "Build A Boat For Treasure: No Water Damage, Fake Gold Giver, Block Giver", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Build%20A%20Boat%20For%20Treasure%20No%20Water%20Damage%20Fake%20Gold%20Giver%20Block%20Giver.lua")
