@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 12:36:03"
+lastupdate = "GMT +1: 08.03.2023 12:36:09"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -6296,3 +6296,5 @@ addscriptexist(6516141723, "DOORS: Entity Spawner, Get All Achievements & More",
 addscriptexist(11216791462, "Hungry Pig: Spam Wall event", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Hungry%20Pig%20Spam%20Wall%20event.lua")
 
 addscriptexist(277751860, "Epic Minigames: Give Secret Room Badge, Miscs, Infinity Jumps", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Epic%20Minigames%20Give%20Secret%20Room%20Badge%20Miscs%20Infinity%20Jumps.lua")
+
+addscriptexist(648362523, "Breaking Point: Auto Farm Credits", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Breaking%20Point%20Auto%20Farm%20Credits.lua")
