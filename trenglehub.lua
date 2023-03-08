@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 06:25:19"
+lastupdate = "GMT +1: 08.03.2023 06:25:23"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -4576,3 +4576,5 @@ addscript(10760024537, "Current Game","Ultimate Easy Obby: Auto Skip Levels", "p
 addscriptexist(11746859781, "Bubble Gum Clicker: Auto-Farm, Sell Bubble, Auto Collect", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Bubble%20Gum%20Clicker%20AutoFarm%20Sell%20Bubble%20Auto%20Collect.lua")
 
 addscriptexist(3587619225, "Mega Easy Obby: Jumppower, Auto Rotate & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mega%20Easy%20Obby%20Jumppower%20Auto%20Rotate%20%20More.lua")
+
+addhub("FRV Hub V2: 20+ Games", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FRV%20Hub%20V%20%20Games.lua")
