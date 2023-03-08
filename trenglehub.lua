@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 07:16:00"
+lastupdate = "GMT +1: 08.03.2023 07:16:04"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -5794,3 +5794,5 @@ addscriptexist(8130299583, "Trident Survival: Aimbot, Grab All & More", "pulled 
 addscriptexist(5956785391, "Project Slayers: Auto Farm, Auto Quest, Local Player Features", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Project%20Slayers%20Auto%20Farm%20Auto%20Quest%20Local%20Player%20Features.lua")
 
 addscriptexist(9598746251, "Home Run Simulator: Auto Farm, Auto Upgrade, Auto Rebirth", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Home%20Run%20Simulator%20Auto%20Farm%20Auto%20Upgrade%20Auto%20Rebirth.lua")
+
+addscriptuniversal("Universal Minecraft Keystrokes", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Minecraft%20Keystrokes.lua")
