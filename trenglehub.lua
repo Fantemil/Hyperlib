@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 20:11:00"
+lastupdate = "GMT +1: 08.03.2023 20:11:06"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -13462,3 +13462,5 @@ addscriptexist(2248408710, "Destruction Simulator | Add Coins, Reset, Remove Coo
 addscriptexist(2788229376, "Da Hood | Smooth Aim Lock", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Da%20Hood%20%20Smooth%20Aim%20Lock.lua")
 
 addscriptuniversal("Universal Discord Server Auto Join", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Discord%20Server%20Auto%20Join.lua")
+
+addscriptexist(2753915549, "Blox Fruits | Auto Farm, Auto Elite, Auto Superhuman", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blox%20Fruits%20%20Auto%20Farm%20Auto%20Elite%20Auto%20Superhuman.lua")
