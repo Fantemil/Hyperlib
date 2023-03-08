@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 20:52:42"
+lastupdate = "GMT +1: 08.03.2023 20:52:47"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -14540,3 +14540,5 @@ addscriptexist(360589910, "Hoops - Demo [PlayerHitbox, Aimbot]", "pulled from rb
 addscriptexist(142823291, "Murder Mystery 2 [AutoFarm, Godmode]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Murder%20Mystery%20%20AutoFarm%20Godmode.lua")
 
 addscriptexist(2622527242, "SCP rBreach [Inf Capacity, Fast Escape]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SCP%20rBreach%20Inf%20Capacity%20Fast%20Escape.lua")
+
+addscriptexist(2537430692, "Jenga [Inf jump, Remove Parts, WalkSpeed]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Jenga%20Inf%20jump%20Remove%20Parts%20WalkSpeed.lua")
