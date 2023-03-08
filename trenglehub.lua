@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 06:47:41"
+lastupdate = "GMT +1: 08.03.2023 06:47:44"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -4930,3 +4930,5 @@ addscriptexist(6872265039, "BedWars: Kil Aura", "pulled from rbxscript.com", "ht
 addscriptexist(11103424163, "Heist Tycoon: Infinity Money", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Heist%20Tycoon%20Infinity%20Money.lua")
 
 addscriptexist(2788229376, "Da Hood: Options, ESP, Aimlock", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Da%20Hood%20Options%20ESP%20Aimlock.lua")
+
+addscriptexist(233727153, "Piano Keyboard: Auto Piano", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Piano%20Keyboard%20Auto%20Piano.lua")
