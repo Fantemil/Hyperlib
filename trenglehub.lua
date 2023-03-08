@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 14:25:39"
+lastupdate = "GMT +1: 08.03.2023 14:25:44"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -7474,3 +7474,5 @@ addscript(11449238237, "Current Game","Billionaire Empire: Auto Collect Gold, Au
 addscriptexist(2753915549, "Blox Fruits: Infinity Observation Range, Chest Auto Farm, Auto Stats", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blox%20Fruits%20Infinity%20Observation%20Range%20Chest%20Auto%20Farm%20Auto%20Stats.lua")
 
 addscriptuniversal("Universal Get Closest Player Form LocalPlayer", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Get%20Closest%20Player%20Form%20LocalPlayer.lua")
+
+addscriptuniversal("MultXi: Many Games Support", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MultXi%20Many%20Games%20Support.lua")
