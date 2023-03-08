@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/JustDevT/Roblox/main/Mad%20City%20Chatper%202.lua",true))()
