@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 18:20:07"
+lastupdate = "GMT +1: 08.03.2023 18:20:11"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -11492,3 +11492,5 @@ addscript(69184822, "Current Game","Theme Park Tycoon 2: Tp Player, Clean PArk",
 addscriptexist(10293798252, "Arsenal Reloaded: Server Crasher", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Arsenal%20Reloaded%20Server%20Crasher.lua")
 
 addhub("Roblox: Pendulum Hub", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Roblox%20Pendulum%20Hub.lua")
+
+addscriptexist(5307215810, "Randomizer: Aimbot, Esp, If Ammo", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Randomizer%20Aimbot%20Esp%20If%20Ammo.lua")
