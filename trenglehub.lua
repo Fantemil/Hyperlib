@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 15:05:13"
+lastupdate = "GMT +1: 08.03.2023 15:05:19"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -8526,3 +8526,5 @@ addhub("LynX Hub V2: 5 Games", "pulled from rbxscript.com", "https://raw.githubu
 addscriptexist(2413927524, "The Rake REMASTERED: FullBright, ESP, Notifiers", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/The%20Rake%20REMASTERED%20FullBright%20ESP%20Notifiers.lua")
 
 addscriptexist(9498006165, "Tapping Simulator: Auto Rebirth, Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tapping%20Simulator%20Auto%20Rebirth%20Auto%20Farm.lua")
+
+addscriptexist(9224601490, "Fruit Battlegrounds: Auto Attack", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Fruit%20Battlegrounds%20Auto%20Attack.lua")
