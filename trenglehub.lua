@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 19:58:22"
+lastupdate = "GMT +1: 08.03.2023 19:58:27"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -13368,3 +13368,5 @@ addscriptexist(2788229376, "Da Hood | AutoFarm, Korblox, AutoFarm Weight.", "pul
 addscriptexist(6677985923, "Millionaire Empire Tycoon | Cash Giver, Walkspeed, Jumppower", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Millionaire%20Empire%20Tycoon%20%20Cash%20Giver%20Walkspeed%20Jumppower.lua")
 
 addscriptexist(1962086868, "Tower Of Hell | Get All Gears [NOT FE]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tower%20Of%20Hell%20%20Get%20All%20Gears%20NOT%20FE.lua")
+
+addscriptexist(2788229376, "Da Hood | Aimlock, Target Aimbot, Anti Aim", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Da%20Hood%20%20Aimlock%20Target%20Aimbot%20Anti%20Aim.lua")
