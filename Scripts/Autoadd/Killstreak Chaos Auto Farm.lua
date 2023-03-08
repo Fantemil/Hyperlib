@@ -1,0 +1,1 @@
+while true do game:GetService("ReplicatedStorage").gameAssets.events.AddSlaps:FireServer() wait(0.000000001) end
