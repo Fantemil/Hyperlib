@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 07:10:11"
+lastupdate = "GMT +1: 08.03.2023 07:10:15"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -5618,3 +5618,5 @@ addhub("Celectial Hub: 20+ Games", "pulled from rbxscript.com", "https://raw.git
 addscript(10524502174, "Current Game","One Punch Fighters Simulator: Auto Open Eggs, Auto Farm Coins, Teleports", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/One%20Punch%20Fighters%20Simulator%20Auto%20Open%20Eggs%20Auto%20Farm%20Coins%20Teleports.lua")
 
 addscriptexist(621129760, "Knife Ability Test: Infinity Ammo, Silent Aim & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Knife%20Ability%20Test%20Infinity%20Ammo%20Silent%20Aim%20%20More.lua")
+
+addhub("Maxey Hub: 5+ Games", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Maxey%20Hub%20%20Games.lua")
