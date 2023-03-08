@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 14:26:38"
+lastupdate = "GMT +1: 08.03.2023 14:26:42"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -7502,3 +7502,5 @@ addscriptexist(2753915549, "Blox Fruits: FPS Booster", "pulled from rbxscript.co
 addscriptexist(10028173768, "Queen Elizebeth Obby: Give Speed Coil", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Queen%20Elizebeth%20Obby%20Give%20Speed%20Coil.lua")
 
 addscriptexist(6516141723, "DOORS: Trolling Scripts", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DOORS%20Trolling%20Scripts.lua")
+
+addscriptexist(6607361476, "Shopping Wars: Auto Complete RB Battles", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Shopping%20Wars%20Auto%20Complete%20RB%20Battles.lua")
