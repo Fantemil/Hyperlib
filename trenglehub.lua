@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 14:27:55"
+lastupdate = "GMT +1: 08.03.2023 14:28:03"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -7536,3 +7536,5 @@ addscriptexist(10875701453, "Edward the Man-Eating Train: Insta kill", "pulled f
 addscriptexist(1458767429, "ABA: Fastest Afk Grind", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ABA%20Fastest%20Afk%20Grind.lua")
 
 addscript(510444657, "Current Game","CRIMINAL VS. SWAT: Kill All, God Mode", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CRIMINAL%20VS%20SWAT%20Kill%20All%20God%20Mode.lua")
+
+addscript(5233268561, "Current Game","A Bizarre Journey! Kill Aura", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/A%20Bizarre%20Journey%20Kill%20Aura.lua")
