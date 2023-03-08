@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 13:08:38"
+lastupdate = "GMT +1: 08.03.2023 13:08:42"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -7150,3 +7150,5 @@ addscriptexist(9551640993, "Mining Simulator 2: Find Chests, Auto Mine & More", 
 addscriptexist(3351674303, "Driving Empire: Anti Afk, Auto Farm 1, Auto Farm 2.", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Driving%20Empire%20Anti%20Afk%20Auto%20Farm%20%20Auto%20Farm%20.lua")
 
 addscriptexist(9055015233, "My Hood: Auto Armor, Auto Kill, Cash Drop", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/My%20Hood%20Auto%20Armor%20Auto%20Kill%20Cash%20Drop.lua")
+
+addscriptexist(920587237, "Adopt Me: Pet Auto Farm, Auto Buy, Teleports", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Adopt%20Me%20Pet%20Auto%20Farm%20Auto%20Buy%20Teleports.lua")
