@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 06:39:54"
+lastupdate = "GMT +1: 08.03.2023 06:39:57"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -4688,3 +4688,5 @@ addhub("Universal Henry stickmin 360 headshot MP4", "pulled from rbxscript.com",
 addscriptexist(2753915549, "Blox Fruits: Chest Farmer", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blox%20Fruits%20Chest%20Farmer.lua")
 
 addscriptexist(2753915549, "Blox Fruits: Fruit Founder", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blox%20Fruits%20Fruit%20Founder.lua")
+
+addscriptexist(9872472334, "Evade: Money Farm, AFK Farm, ESP", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Evade%20Money%20Farm%20AFK%20Farm%20ESP.lua")
