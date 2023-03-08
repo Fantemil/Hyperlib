@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 06:54:05"
+lastupdate = "GMT +1: 08.03.2023 06:54:08"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -5126,3 +5126,5 @@ addscriptexist(6918802270, "Project New World: Auto Farm, Auto Krampus & More", 
 addhub("Eclipse Hub: Free 5 Games", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Eclipse%20Hub%20Free%20%20Games.lua")
 
 addscriptexist(537413528, "Build A Boat For Treasure: Teleports, Auto Quest, Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Build%20A%20Boat%20For%20Treasure%20Teleports%20Auto%20Quest%20Auto%20Farm.lua")
+
+addscriptexist(2753915549, "Blox Fruits: Auto Farm Levels, Auto Farm Mastery & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blox%20Fruits%20Auto%20Farm%20Levels%20Auto%20Farm%20Mastery%20%20More.lua")
