@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 19:14:58"
+lastupdate = "GMT +1: 08.03.2023 19:15:03"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -12646,3 +12646,5 @@ addscriptexist(4639625707, "Oil Warfare Tycoon: Gun Mods, Player Mods & More!", 
 addscript(9763056316, "Current Game","Eastern Front Military War Simulator: Op Guns - No Recoil & Infinite Ammo", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Eastern%20Front%20Military%20War%20Simulator%20Op%20Guns%20%20No%20Recoil%20%20Infinite%20Ammo.lua")
 
 addscriptexist(621129760, "Knife Ability Test: Kill All", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Knife%20Ability%20Test%20Kill%20All.lua")
+
+addscript(4983006874, "Current Game","NGU CLICKER SIMULATOR: Auto Clicker, Auto Upgrade, Auto Pet Evolve", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NGU%20CLICKER%20SIMULATOR%20Auto%20Clicker%20Auto%20Upgrade%20Auto%20Pet%20Evolve.lua")
