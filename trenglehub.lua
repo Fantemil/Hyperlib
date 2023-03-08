@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 17:46:01"
+lastupdate = "GMT +1: 08.03.2023 17:46:05"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -10648,3 +10648,5 @@ addscriptexist(8737602449, "PLS DONATE: Send Donation, Booth Text, Set Colour Te
 addscriptexist(6913960180, "Undertale Crazy Multiverse Timeline: Custom Character Editor", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Undertale%20Crazy%20Multiverse%20Timeline%20Custom%20Character%20Editor.lua")
 
 addscriptexist(6516141723, "DOORS: Spawn Rick Astley", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DOORS%20Spawn%20Rick%20Astley.lua")
+
+addscriptexist(2753915549, "Blox Fruits: Auto Farm, Teleports & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blox%20Fruits%20Auto%20Farm%20Teleports%20%20More.lua")
