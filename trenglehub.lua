@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 17:38:58"
+lastupdate = "GMT +1: 08.03.2023 17:39:02"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -10468,3 +10468,5 @@ addscript(482742811, "Current Game","Be Crushed by a Speeding Wall: Coin Auto Fa
 addscriptexist(10675066724, "Slime Tower Tycoon: Auto Buy Drop Rate, Auto Merge, Auto Buy Slimes", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Slime%20Tower%20Tycoon%20Auto%20Buy%20Drop%20Rate%20Auto%20Merge%20Auto%20Buy%20Slimes.lua")
 
 addscriptexist(10726371567, "Find The Simpsons: Auto Find all Simpsons, Auto adds every Simpson from Update to Update", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Find%20The%20Simpsons%20Auto%20Find%20all%20Simpsons%20Auto%20adds%20every%20Simpson%20from%20Update%20to%20Update.lua")
+
+addscriptexist(5865858426, "Retail Tycoon 2: AutoBuy, Options", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Retail%20Tycoon%20%20AutoBuy%20Options.lua")
