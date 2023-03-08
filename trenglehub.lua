@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 15:08:11"
+lastupdate = "GMT +1: 08.03.2023 15:08:15"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -8604,3 +8604,5 @@ addscriptexist(6403373529, "Slap Battles: Bus Spam, Dark Orb Farm, Teleports", "
 addscriptuniversal("Universal Key System For Script Free", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Key%20System%20For%20Script%20Free.lua")
 
 addscriptexist(443406476, "Project Lazarus: Infinity Ammo, Infinity Clip, One Hit Kill", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Project%20Lazarus%20Infinity%20Ammo%20Infinity%20Clip%20One%20Hit%20Kill.lua")
+
+addscriptexist(9414511685, "Drive Cars Down A Hill: Auto Farm, Teleports, Walkspeed and Jump power changer", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Drive%20Cars%20Down%20A%20Hill%20Auto%20Farm%20Teleports%20Walkspeed%20and%20Jump%20power%20changer.lua")
