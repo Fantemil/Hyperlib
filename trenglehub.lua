@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 13:05:58"
+lastupdate = "GMT +1: 08.03.2023 13:06:03"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -7078,3 +7078,5 @@ addscriptexist(920587237, "Adopt Me!: Crash - Useful For Duping Methods", "pulle
 addscriptexist(5712833750, "Animal Simulator: Auto Collect Coin", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Animal%20Simulator%20Auto%20Collect%20Coin.lua")
 
 addscript(2262441883, "Current Game","Electric State DarkRP(Beta): Printer And Shipment Esp", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Electric%20State%20DarkRPBeta%20Printer%20And%20Shipment%20Esp.lua")
+
+addscriptexist(10291129032, "Flappy Bird Race: Auto Farm & More!", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Flappy%20Bird%20Race%20Auto%20Farm%20%20More.lua")
