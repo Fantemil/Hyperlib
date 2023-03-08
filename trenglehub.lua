@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 16:36:59"
+lastupdate = "GMT +1: 08.03.2023 16:37:04"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -8902,3 +8902,5 @@ addscriptexist(738339342, "Flood Escape 2: AutoVote, Skip Map Loading, Auto Farm
 addscriptexist(662417684, "LUCKY BLOCKS Battlegrounds: Fly, Spawn Blocks, Hitbox", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LUCKY%20BLOCKS%20Battlegrounds%20Fly%20Spawn%20Blocks%20Hitbox.lua")
 
 addscriptexist(9680886326, "West Elm Home Design: Farm Money", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/West%20Elm%20Home%20Design%20Farm%20Money.lua")
+
+addscriptexist(1962086868, "Tower Of Hell: Auto Farm Wins, Instant Win, Godmode", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tower%20Of%20Hell%20Auto%20Farm%20Wins%20Instant%20Win%20Godmode.lua")
