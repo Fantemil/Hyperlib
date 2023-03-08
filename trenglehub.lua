@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 16:41:51"
+lastupdate = "GMT +1: 08.03.2023 16:41:55"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -9020,3 +9020,5 @@ addscriptexist(1962086868, "Tower of Hell: God mode, Tp player, Get all items", 
 addscriptexist(9551640993, "Mining Simulator 2: Auto Mine, Auto Open Egg, Auto Throw", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mining%20Simulator%20%20Auto%20Mine%20Auto%20Open%20Egg%20Auto%20Throw.lua")
 
 addscriptexist(189707, "Natural Disaster Survival: Get Ballon, No Fall Damage, ServerHop", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Natural%20Disaster%20Survival%20Get%20Ballon%20No%20Fall%20Damage%20ServerHop.lua")
+
+addscriptexist(3101667897, "Legends of Speed: Auto Orb, Auto Race, Auto Gem", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Legends%20of%20Speed%20Auto%20Orb%20Auto%20Race%20Auto%20Gem.lua")
