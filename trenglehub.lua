@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 06:41:19"
+lastupdate = "GMT +1: 08.03.2023 06:41:23"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -4734,3 +4734,5 @@ addscriptexist(2788229376, "Da Hood: Anti Stomp, Auto Buy, Teleports", "pulled f
 addscript(9473567656, "Current Game","Work at a Hotel & Resort: Kill All, Jail, Fling", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Work%20at%20a%20Hotel%20%20Resort%20Kill%20All%20Jail%20Fling.lua")
 
 addscriptexist(70005410, "Blox Hunt: Hider ESP", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blox%20Hunt%20Hider%20ESP.lua")
+
+addscript(5736409216, "Current Game","Mall Tycoon: Auto Collect", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mall%20Tycoon%20Auto%20Collect.lua")
