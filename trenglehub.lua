@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 14:54:53"
+lastupdate = "GMT +1: 08.03.2023 14:54:57"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -8248,3 +8248,5 @@ addscriptexist(1962086868, "Tower Of Hell: Teleport To The Finish, God Mode & Mo
 addscriptexist(10898965735, "Mine Racer: Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mine%20Racer%20Auto%20Farm.lua")
 
 addscriptexist(6516141723, "DOORS: Auto Screech, Anti Rush & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DOORS%20Auto%20Screech%20Anti%20Rush%20%20More.lua")
+
+addscriptexist(6168898345, "Bulwark: Always Hit Head, Always Parry, Auto Tp", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Bulwark%20Always%20Hit%20Head%20Always%20Parry%20Auto%20Tp.lua")
