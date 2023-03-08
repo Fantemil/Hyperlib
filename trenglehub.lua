@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 18:20:48"
+lastupdate = "GMT +1: 08.03.2023 18:20:52"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -11510,3 +11510,5 @@ addscriptexist(10714365287, "Anime Racing Clicker: Teleports, Auto Farm", "pulle
 addscriptexist(10912060909, "Black Adam Experience: Get Scavenger Hunt Item, Trivia Item & Merch", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Black%20Adam%20Experience%20Get%20Scavenger%20Hunt%20Item%20Trivia%20Item%20%20Merch.lua")
 
 addscript(6742344663, "Current Game","Cost: Infinite Rp", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Cost%20Infinite%20Rp.lua")
+
+addscript(10079563592, "Current Game","Pirates Era X: Fruit Grabber", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pirates%20Era%20X%20Fruit%20Grabber.lua")
