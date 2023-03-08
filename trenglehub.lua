@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 07:02:24"
+lastupdate = "GMT +1: 08.03.2023 07:02:28"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -5378,3 +5378,5 @@ addscript(6170705260, "Current Game","Blending Simulator 2: Auto Farm, Auto Blen
 addscriptuniversal("Universal Fly Gui", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Fly%20Gui.lua")
 
 addscriptexist(2753915549, "Blox Fruits: Mob Aura, No stun, Auto buso", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blox%20Fruits%20Mob%20Aura%20No%20stun%20Auto%20buso.lua")
+
+addscriptexist(662417684, "LUCKY BLOCKS Battlegrounds: Fly, TP Tool, Lucky Blocks Giver", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LUCKY%20BLOCKS%20Battlegrounds%20Fly%20TP%20Tool%20Lucky%20Blocks%20Giver.lua")
