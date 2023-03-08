@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 16:52:36"
+lastupdate = "GMT +1: 08.03.2023 16:52:40"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -9286,3 +9286,5 @@ addscriptexist(5602055394, "Hood Modded: Silent Aim, ESP & More", "pulled from r
 addscriptexist(6000468131, "Granny: Item, player, and exit ESP", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Granny%20Item%20player%20and%20exit%20ESP.lua")
 
 addscriptexist(5740246170, "Tower Simulator: Build Bricks, Buy Left Upgrade, But Right Upgrade", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tower%20Simulator%20Build%20Bricks%20Buy%20Left%20Upgrade%20But%20Right%20Upgrade.lua")
+
+addhub("Wheel Hub: 18 Car Games", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Wheel%20Hub%20%20Car%20Games.lua")
