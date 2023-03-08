@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 19:21:15"
+lastupdate = "GMT +1: 08.03.2023 19:21:21"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -12792,3 +12792,5 @@ addscriptexist(2727067538, "World // Zero: Kill Aura, Auto Farm, No Clip & More!
 addscriptexist(9524757503, "iHeartLand Music Tycoon: Free Avatar Item", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/iHeartLand%20Music%20Tycoon%20Free%20Avatar%20Item.lua")
 
 addscriptexist(9144187696, "A Piece: Infinite Stats, Infinite Spin & More!", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/A%20Piece%20Infinite%20Stats%20Infinite%20Spin%20%20More.lua")
+
+addscript(10107516163, "Current Game","REALISTIC HOOD MODDED (ACS): Op Guns", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/REALISTIC%20HOOD%20MODDED%20ACS%20Op%20Guns.lua")
