@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 06:45:20"
+lastupdate = "GMT +1: 08.03.2023 06:45:23"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -4858,3 +4858,5 @@ addscriptexist(292439477, "Phantom Forces: Aimbot, ESP, FOV", "pulled from rbxsc
 addscriptexist(2753915549, "Blox Fruits: Teleports, Dungeon Section & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blox%20Fruits%20Teleports%20Dungeon%20Section%20%20More.lua")
 
 addscriptexist(8216196965, "Touch Soccer League: Auto Goal", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Touch%20Soccer%20League%20Auto%20Goal.lua")
+
+addscriptexist(147848991, "Be A Parkour Ninja: No Jump Cooldown, Kunai Aura, ESP", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Be%20A%20Parkour%20Ninja%20No%20Jump%20Cooldown%20Kunai%20Aura%20ESP.lua")
