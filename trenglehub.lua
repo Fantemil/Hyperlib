@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 14:37:17"
+lastupdate = "GMT +1: 08.03.2023 14:37:21"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -7774,3 +7774,5 @@ addscriptexist(8540346411, "Rebirth Champions X: Auto Rebirth, Auto Click & More
 addscriptexist(1962086868, "Tower Of Hell: Insta Win, Get All Items, Auto Buy", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tower%20Of%20Hell%20Insta%20Win%20Get%20All%20Items%20Auto%20Buy.lua")
 
 addscriptexist(286090429, "Arsenal: ESP, Third Person, Infinity Jumps", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Arsenal%20ESP%20Third%20Person%20Infinity%20Jumps.lua")
+
+addscriptexist(286090429, "Arsenal: FOV, Silent Aimbot, Wallbang", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Arsenal%20FOV%20Silent%20Aimbot%20Wallbang.lua")
