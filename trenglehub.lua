@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 13:15:51"
+lastupdate = "GMT +1: 08.03.2023 13:15:59"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -7340,3 +7340,5 @@ addscriptexist(11063612131, "Every Second You Get +1 Jump Power: Auto Buy Pets, 
 addscript(4752917845, "Current Game","reroll gg: Open Case, Buy Case, Sell Skins", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/reroll%20gg%20Open%20Case%20Buy%20Case%20Sell%20Skins.lua")
 
 addscript(5924471692, "Current Game","Bloxford DarkRP: Insta Kill", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Bloxford%20DarkRP%20Insta%20Kill.lua")
+
+addhub("Eternity Hub: 5 Games", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Eternity%20Hub%20%20Games.lua")
