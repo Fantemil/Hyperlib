@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 12:55:56"
+lastupdate = "GMT +1: 08.03.2023 12:56:00"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -6822,3 +6822,5 @@ addscript(9524757503, "Current Game","iHeartLand: Music Tycoon: Absorb The Bell"
 addscriptuniversal("Universal Character Editor Thing", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Character%20Editor%20Thing.lua")
 
 addscriptexist(292439477, "Phantom Forces: Silent AIm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Phantom%20Forces%20Silent%20AIm.lua")
+
+addscriptexist(292439477, "Phantom Forces: Anti Cheat Bypasser", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Phantom%20Forces%20Anti%20Cheat%20Bypasser.lua")
