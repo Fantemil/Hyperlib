@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 07:12:30"
+lastupdate = "GMT +1: 08.03.2023 07:12:34"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -5688,3 +5688,5 @@ addscriptexist(8540346411, "Rebirth Champions X: Auto Collect presents, Auto cli
 addscriptexist(621129760, "Knife Ability Test: Silent Aim, Teleports, Walkspeed", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Knife%20Ability%20Test%20Silent%20Aim%20Teleports%20Walkspeed.lua")
 
 addscriptexist(7239319209, "Ohio: Auto Rob Bank", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ohio%20Auto%20Rob%20Bank.lua")
+
+addscriptexist(11599913094, "Nuke Simulator!: Auto Activate Boosts & More!", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Nuke%20Simulator%20Auto%20Activate%20Boosts%20%20More.lua")
