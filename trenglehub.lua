@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 18:47:57"
+lastupdate = "GMT +1: 08.03.2023 18:48:04"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -12070,3 +12070,5 @@ addscript(147536429, "Current Game","Field of Battle: Tool Reach", "pulled from 
 addscriptexist(4282985734, "Combat Warriors: Nova.xyz and birdzware", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Combat%20Warriors%20Novaxyz%20and%20birdzware.lua")
 
 addscriptexist(8204899140, "Football Fusion 2: Mag Reach", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Football%20Fusion%20%20Mag%20Reach.lua")
+
+addscriptexist(7056922815, "Reaper 2: Auto Farm Mobs, Auto Farm Player, Auto Eat", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Reaper%20%20Auto%20Farm%20Mobs%20Auto%20Farm%20Player%20Auto%20Eat.lua")
