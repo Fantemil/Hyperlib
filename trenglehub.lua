@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 06:25:09"
+lastupdate = "GMT +1: 08.03.2023 06:25:13"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -4570,3 +4570,5 @@ addscriptexist(11989217843, "Find The Family Guy: Walkspeed, Find All Characters
 addscriptexist(189707, "Natural Disaster Survival: Headless, Auto Jump & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Natural%20Disaster%20Survival%20Headless%20Auto%20Jump%20%20More.lua")
 
 addscriptexist(9498006165, "Tapping Simulator: Auto Click, Auto Rebirth & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tapping%20Simulator%20Auto%20Click%20Auto%20Rebirth%20%20More.lua")
+
+addscript(10760024537, "Current Game","Ultimate Easy Obby: Auto Skip Levels", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ultimate%20Easy%20Obby%20Auto%20Skip%20Levels.lua")
