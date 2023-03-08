@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 20:36:35"
+lastupdate = "GMT +1: 08.03.2023 20:36:40"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -14140,3 +14140,5 @@ addscriptexist(9498006165, "Tapping Simulator [AutoRebirth, Inf Jump]", "pulled 
 addscriptexist(9872472334, "Evade [Quick Revive, Show Chat, Autofarm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Evade%20Quick%20Revive%20Show%20Chat%20Autofarm.lua")
 
 addscript(6609611538, "Current Game","Mechanica [Lag Server]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mechanica%20Lag%20Server.lua")
+
+addscriptexist(286090429, "Arsenal [Kill Aura, AimBot, Team Check]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Arsenal%20Kill%20Aura%20AimBot%20Team%20Check.lua")
