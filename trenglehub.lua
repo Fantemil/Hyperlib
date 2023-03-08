@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 18:15:40"
+lastupdate = "GMT +1: 08.03.2023 18:15:44"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -11384,3 +11384,5 @@ addscript(10293798252, "Current Game","Arsenal: Reloaded: Aimlock, Inifnity Ammo
 addscriptexist(8482713490, "Forgotten Memories: Teleport Areas ,Walkspeed Bypass, Animatronic ESP", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Forgotten%20Memories%20Teleport%20Areas%20Walkspeed%20Bypass%20Animatronic%20ESP.lua")
 
 addscriptexist(142823291, "Murder Mystery 2: Xbox Knife, Candy Auto Farm & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Murder%20Mystery%20%20Xbox%20Knife%20Candy%20Auto%20Farm%20%20More.lua")
+
+addscriptexist(9103460924, "Sword Factory X: Auto Re, Enchant", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sword%20Factory%20X%20Auto%20Re%20Enchant.lua")
