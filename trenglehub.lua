@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 15:15:08"
+lastupdate = "GMT +1: 08.03.2023 15:15:12"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -8792,3 +8792,5 @@ addscriptexist(5561268850, "Randomly Generated Droids: Inf Strenght, Kill Droids
 addscript(4779613061, "Current Game","South London 2: Inf Ammo, Cross Chain, Aimbot", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/South%20London%20%20Inf%20Ammo%20Cross%20Chain%20Aimbot.lua")
 
 addscriptexist(9601565001, "Car Crash System: Unlock Car Tiers", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Car%20Crash%20System%20Unlock%20Car%20Tiers.lua")
+
+addscriptexist(7714627632, "Winds of Fortune: Infinite Coins, Kill all NPC's,Kill All PLayer", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Winds%20of%20Fortune%20Infinite%20Coins%20Kill%20all%20NPCsKill%20All%20PLayer.lua")
