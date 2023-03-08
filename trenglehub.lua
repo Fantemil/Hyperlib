@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 15:15:03"
+lastupdate = "GMT +1: 08.03.2023 15:15:08"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -8790,3 +8790,5 @@ addscriptexist(2753915549, "Blox Fruits: Auto Farm Level, Auto Saber, Auto Legen
 addscriptexist(5561268850, "Randomly Generated Droids: Inf Strenght, Kill Droids, Teleports", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Randomly%20Generated%20Droids%20Inf%20Strenght%20Kill%20Droids%20Teleports.lua")
 
 addscript(4779613061, "Current Game","South London 2: Inf Ammo, Cross Chain, Aimbot", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/South%20London%20%20Inf%20Ammo%20Cross%20Chain%20Aimbot.lua")
+
+addscriptexist(9601565001, "Car Crash System: Unlock Car Tiers", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Car%20Crash%20System%20Unlock%20Car%20Tiers.lua")
