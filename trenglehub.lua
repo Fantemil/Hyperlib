@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 13:13:51"
+lastupdate = "GMT +1: 08.03.2023 13:13:56"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -7284,3 +7284,5 @@ addscriptexist(6407649031, "NO-SCOPE ARCADE: Silent Aim, Customizable ESP, Gun M
 addscriptexist(1962086868, "Tower Of Hell: RB Battle Complete", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tower%20Of%20Hell%20RB%20Battle%20Complete.lua")
 
 addscriptexist(6875469709, "STRONGEST PUNCH SIMULATOR: Auto Farm, Auto Orbs, Auto Next World", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/STRONGEST%20PUNCH%20SIMULATOR%20Auto%20Farm%20Auto%20Orbs%20Auto%20Next%20World.lua")
+
+addscriptexist(3101667897, "Legends Of Speed: Auto Farm Crystals", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Legends%20Of%20Speed%20Auto%20Farm%20Crystals.lua")
