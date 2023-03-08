@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 17:13:36"
+lastupdate = "GMT +1: 08.03.2023 17:13:40"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -9822,3 +9822,5 @@ addscriptexist(10118559731, "nico's nextbots: Out Of Bounds, Killer ESP, Gravity
 addscript(5598577415, "Current Game","Frog Simulator: Auto Farm, Auto Rebirth, Auto Sell", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Frog%20Simulator%20Auto%20Farm%20Auto%20Rebirth%20Auto%20Sell.lua")
 
 addscriptexist(6516141723, "DOORS: Hip Height, Godmode, Infinity Yield", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DOORS%20Hip%20Height%20Godmode%20Infinity%20Yield.lua")
+
+addscriptexist(6284583030, "Pet Simulator X: Auto Farm, Auto Egg, Teleports", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pet%20Simulator%20X%20Auto%20Farm%20Auto%20Egg%20Teleports.lua")
