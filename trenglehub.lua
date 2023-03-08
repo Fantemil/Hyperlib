@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 20:32:29"
+lastupdate = "GMT +1: 08.03.2023 20:32:34"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -14034,3 +14034,5 @@ addscript(8972280788, "Current Game","Find The Impostors! [Get Everything]", "pu
 addscriptexist(6403373529, "Slap Battles [DarkOrbFarm, AntiRagdoll]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Slap%20Battles%20DarkOrbFarm%20AntiRagdoll.lua")
 
 addscriptuniversal("Roblox Universal Script [Walkspeed]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Roblox%20Universal%20Script%20Walkspeed.lua")
+
+addscriptuniversal("Roblox Universal Script [E To Sit]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Roblox%20Universal%20Script%20E%20To%20Sit.lua")
