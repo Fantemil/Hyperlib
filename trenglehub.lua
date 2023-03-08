@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 13:08:42"
+lastupdate = "GMT +1: 08.03.2023 13:08:46"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -7152,3 +7152,5 @@ addscriptexist(3351674303, "Driving Empire: Anti Afk, Auto Farm 1, Auto Farm 2."
 addscriptexist(9055015233, "My Hood: Auto Armor, Auto Kill, Cash Drop", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/My%20Hood%20Auto%20Armor%20Auto%20Kill%20Cash%20Drop.lua")
 
 addscriptexist(920587237, "Adopt Me: Pet Auto Farm, Auto Buy, Teleports", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Adopt%20Me%20Pet%20Auto%20Farm%20Auto%20Buy%20Teleports.lua")
+
+addscriptexist(2753915549, "Blox Fruits: Auto Farm, Auto Confetti, Auto Chests", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blox%20Fruits%20Auto%20Farm%20Auto%20Confetti%20Auto%20Chests.lua")
