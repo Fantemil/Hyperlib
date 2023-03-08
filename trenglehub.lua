@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 18:50:16"
+lastupdate = "GMT +1: 08.03.2023 18:50:22"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -12122,3 +12122,5 @@ addscriptexist(537413528, "Build A Boat For Treasure: No Water Damage, Fake Gold
 addscriptexist(8737602449, "PLS DONATE: Fake Donate Not FE", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PLS%20DONATE%20Fake%20Donate%20Not%20FE.lua")
 
 addscriptexist(10895555747, "Walmart Land: Infinity Tokens, Collect All Daily Tokens, Auto Points", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Walmart%20Land%20Infinity%20Tokens%20Collect%20All%20Daily%20Tokens%20Auto%20Points.lua")
+
+addscriptuniversal("Universal LinkVertise Bypasser", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20LinkVertise%20Bypasser.lua")
