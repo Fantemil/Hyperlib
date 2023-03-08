@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 06:38:53"
+lastupdate = "GMT +1: 08.03.2023 06:38:57"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -4658,3 +4658,5 @@ addscriptexist(537413528, "Build A Boat For Treasure: Auto Farm, No Water Damage
 addscriptexist(8131063774, "Shattered Psycho Online: Chest Auto Farm With Server Hop", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Shattered%20Psycho%20Online%20Chest%20Auto%20Farm%20With%20Server%20Hop.lua")
 
 addscriptexist(8908228901, "Sharkbite 2: AutoKill Shark, AutoKill Survivors, VaseFarm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sharkbite%20%20AutoKill%20Shark%20AutoKill%20Survivors%20VaseFarm.lua")
+
+addscriptexist(1962086868, "Tower of Hell: Admin Commands", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tower%20of%20Hell%20Admin%20Commands.lua")
