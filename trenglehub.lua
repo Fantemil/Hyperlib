@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 20:50:46"
+lastupdate = "GMT +1: 08.03.2023 20:50:50"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -14492,3 +14492,5 @@ addscript(8436975214, "Current Game","Dangerous Speeds [Unlock All Cars]", "pull
 addscriptexist(10320240572, "Easy Race Clicker [AutoWins]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Easy%20Race%20Clicker%20AutoWins.lua")
 
 addscriptexist(6608498361, "cursed tank simulator [Increase Ammunition hitbox]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/cursed%20tank%20simulator%20Increase%20Ammunition%20hitbox.lua")
+
+addscriptexist(8328351891, "Mega Mansion Tycoon [CollectCash, Make Day]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mega%20Mansion%20Tycoon%20CollectCash%20Make%20Day.lua")
