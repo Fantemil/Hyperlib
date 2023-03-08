@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 12:27:37"
+lastupdate = "GMT +1: 08.03.2023 12:27:44"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -6068,3 +6068,5 @@ addscriptexist(8540346411, "Rebirth Champions X: Auto Clicker, Auto Claim Chests
 addscriptexist(3527629287, "Big Paintball: Kill All, Insta Bullets, Rapid Fire", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Big%20Paintball%20Kill%20All%20Insta%20Bullets%20Rapid%20Fire.lua")
 
 addscriptexist(1962086868, "Tower of Hell: Infinity Jumps, To End, Freeze All Parts", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tower%20of%20Hell%20Infinity%20Jumps%20To%20End%20Freeze%20All%20Parts.lua")
+
+addhub("Noob Hub: 9 Games", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Noob%20Hub%20%20Games.lua")
