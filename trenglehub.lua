@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 20:54:24"
+lastupdate = "GMT +1: 08.03.2023 20:54:29"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -14580,3 +14580,5 @@ addscriptexist(9285238704, "Race Clicker [Auto Click, Auto Win]", "pulled from r
 addscriptexist(286090429, "Arsenal [KillAll, Invisible]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Arsenal%20KillAll%20Invisible.lua")
 
 addscriptexist(6766156863, "Strongman Simulator [Anti Afk, AutoRebirth]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Strongman%20Simulator%20Anti%20Afk%20AutoRebirth.lua")
+
+addscriptexist(5956785391, "Project Slayers [Auto Farm, Fish Farm, Inf stamina]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Project%20Slayers%20Auto%20Farm%20Fish%20Farm%20Inf%20stamina.lua")
