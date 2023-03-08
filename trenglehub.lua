@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 16:51:09"
+lastupdate = "GMT +1: 08.03.2023 16:51:15"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -9250,3 +9250,5 @@ addscriptexist(5791762440, "Sonic.exe survival: Press E to Fly", "pulled from rb
 addscriptuniversal("Universal Shift Lock", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Shift%20Lock.lua")
 
 addscriptuniversal("Osmium Library", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Osmium%20Library.lua")
+
+addscriptexist(9872472334, "Evade: Auto Farm, Teleport Q, Infinity Jumps", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Evade%20Auto%20Farm%20Teleport%20Q%20Infinity%20Jumps.lua")
