@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 20:26:51"
+lastupdate = "GMT +1: 08.03.2023 20:26:56"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -13890,3 +13890,5 @@ addscriptexist(10484095306, "CLIMB 100.000 STAIRS TO VIP [Teleport to End]", "pu
 addscriptexist(8884334497, "Mining Clicker Simulator [Auto Click, Auto Rebirth, Better GTX ]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mining%20Clicker%20Simulator%20Auto%20Click%20Auto%20Rebirth%20Better%20GTX%20.lua")
 
 addscriptexist(9431770682, "Lost Rooms [Inf Whistles, Fullbright]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Lost%20Rooms%20Inf%20Whistles%20Fullbright.lua")
+
+addscriptexist(662417684, "LUCKY BLOCKS Battlegrounds [Kill All - Kill Aura & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LUCKY%20BLOCKS%20Battlegrounds%20Kill%20All%20%20Kill%20Aura%20%20More.lua")
