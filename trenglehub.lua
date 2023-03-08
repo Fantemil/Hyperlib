@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 12:54:58"
+lastupdate = "GMT +1: 08.03.2023 12:55:02"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -6798,3 +6798,5 @@ addscriptexist(3101667897, "Legends Of Speed: Auto Farm Gems", "pulled from rbxs
 addscriptexist(7196856665, "Wave Sword Bots Game: Kill Aura, No Cheat Detect", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Wave%20Sword%20Bots%20Game%20Kill%20Aura%20No%20Cheat%20Detect.lua")
 
 addscript(8621928057, "Current Game","Find The Pou: Teleports, Walkspeed Slider, Options", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Find%20The%20Pou%20Teleports%20Walkspeed%20Slider%20Options.lua")
+
+addscriptexist(2551991523, "Broken Bones IV: Money Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Broken%20Bones%20IV%20Money%20Auto%20Farm.lua")
