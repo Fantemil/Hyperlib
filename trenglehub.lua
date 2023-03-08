@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 14:54:07"
+lastupdate = "GMT +1: 08.03.2023 14:54:11"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -8228,3 +8228,5 @@ addhub("NauHub Material Icons Kit", "pulled from rbxscript.com", "https://raw.gi
 addscript(11513339030, "Current Game","Jump Higher Per Second: Auto Farm, Walkspeed, BTools", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Jump%20Higher%20Per%20Second%20Auto%20Farm%20Walkspeed%20BTools.lua")
 
 addscriptuniversal("Universal FE PNG Loader", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20FE%20PNG%20Loader.lua")
+
+addscriptexist(11445923563, "One Fruit Simulator: Auto farm, Auto attack, Auto Punch", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/One%20Fruit%20Simulator%20Auto%20farm%20Auto%20attack%20Auto%20Punch.lua")
