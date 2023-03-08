@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 20:00:35"
+lastupdate = "GMT +1: 08.03.2023 20:00:40"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -13416,3 +13416,5 @@ addscriptexist(9524757503, "iHeartLand: Music Tycoon | Get Free Item", "pulled f
 addscriptexist(2185497593, "Arcade Island X: Working Arcade | AutoFarm money", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Arcade%20Island%20X%20Working%20Arcade%20%20AutoFarm%20money.lua")
 
 addscript(6289365295, "Current Game","Sky's Difficulty Chart Obby | AutoComplete", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Skys%20Difficulty%20Chart%20Obby%20%20AutoComplete.lua")
+
+addscriptexist(9993529229, "Counter Blox: Remastered | Esp, Rage Bot, Auto Wall", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Counter%20Blox%20Remastered%20%20Esp%20Rage%20Bot%20Auto%20Wall.lua")
