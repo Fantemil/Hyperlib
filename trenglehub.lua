@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 19:18:49"
+lastupdate = "GMT +1: 08.03.2023 19:18:55"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -12738,3 +12738,5 @@ addscriptexist(6536647319, "Slayers Unleashed: Unlock All, Executor", "pulled fr
 addscriptexist(9649680488, "Backrooms Race Clicker: Auto Farm Wins", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Backrooms%20Race%20Clicker%20Auto%20Farm%20Wins.lua")
 
 addscriptuniversal("Universal Chat Hax", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Chat%20Hax.lua")
+
+addscriptexist(6441847031, "CHAOS: Give Tools", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CHAOS%20Give%20Tools.lua")
