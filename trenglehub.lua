@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 20:58:48"
+lastupdate = "GMT +1: 08.03.2023 20:58:52"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -14694,3 +14694,5 @@ addscript(3467049496, "Current Game","MARVEL: Battlegrounds [Free Gamepasses]", 
 addscriptexist(9498006165, "Tapping Simulator [AutoClick, AutoRebirth]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tapping%20Simulator%20AutoClick%20AutoRebirth.lua")
 
 addscriptexist(7177496972, "Anime Warriors [Auto Farm, Better Gfx]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime%20Warriors%20Auto%20Farm%20Better%20Gfx.lua")
+
+addscriptexist(7560156054, "Clicker Simulator [Collect all trophies]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Clicker%20Simulator%20Collect%20all%20trophies.lua")
