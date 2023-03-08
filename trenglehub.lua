@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 20:22:12"
+lastupdate = "GMT +1: 08.03.2023 20:22:16"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -13762,3 +13762,5 @@ addscript(9814637986, "Current Game","Slap Battles: Average FanMade | Kill, Give
 addscriptexist(10148047155, "Car Mechanic Tycoon | Walkspeed, AntiKick, AutoFarm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Car%20Mechanic%20Tycoon%20%20Walkspeed%20AntiKick%20AutoFarm.lua")
 
 addscriptexist(6403373529, "Slap Battles | KillAura, Anti Chase, Anti Ragdoll, No Time Stop", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Slap%20Battles%20%20KillAura%20Anti%20Chase%20Anti%20Ragdoll%20No%20Time%20Stop.lua")
+
+addscript(9112775301, "Current Game","Da Hood Fights l Auto Steal", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Da%20Hood%20Fights%20l%20Auto%20Steal.lua")
