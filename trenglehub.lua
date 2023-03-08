@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 20:30:46"
+lastupdate = "GMT +1: 08.03.2023 20:30:50"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -13988,3 +13988,5 @@ addscriptexist(9807416796, "De Hood [Fast Buy, AutoStomp]", "pulled from rbxscri
 addscriptexist(9431770682, "Lost Rooms [Collect Materials]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Lost%20Rooms%20Collect%20Materials.lua")
 
 addscriptexist(5505830188, "Arcane Oblivion RPG [30QnD Damage Weapon]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Arcane%20Oblivion%20RPG%20QnD%20Damage%20Weapon.lua")
+
+addscriptexist(298400657, "Dragon Ball Final Remastered [GUI - Hit Aura, Unlock Quests]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Dragon%20Ball%20Final%20Remastered%20GUI%20%20Hit%20Aura%20Unlock%20Quests.lua")
