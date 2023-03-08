@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 07:13:55"
+lastupdate = "GMT +1: 08.03.2023 07:13:59"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -5730,3 +5730,5 @@ addscriptexist(10675066724, "Slime Tower Tycoon: Auto Collect Droplets, Auto Dep
 addscriptexist(370731277, "MeepCity: Fling, Big Head, Big Size", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MeepCity%20Fling%20Big%20Head%20Big%20Size.lua")
 
 addscript(10674429038, "Current Game","Pickaxe Simulator: Auto Farm, Auto Hatch, Auto Delete", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pickaxe%20Simulator%20Auto%20Farm%20Auto%20Hatch%20Auto%20Delete.lua")
+
+addscriptexist(2753915549, "Blox Fruits: Kill Aura, Auto Farm, Auto Stats", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blox%20Fruits%20Kill%20Aura%20Auto%20Farm%20Auto%20Stats.lua")
