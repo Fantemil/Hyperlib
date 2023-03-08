@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 06:44:29"
+lastupdate = "GMT +1: 08.03.2023 06:44:33"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -4830,3 +4830,5 @@ addscriptexist(1554960397, "Car Dealership Tycoon: Auto Race, Custom Car speed, 
 addscriptexist(5865858426, "Retail Tycoon 2: Auto Buy, Purchase Delay, Item To Buy", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Retail%20Tycoon%20%20Auto%20Buy%20Purchase%20Delay%20Item%20To%20Buy.lua")
 
 addscriptexist(8750997647, "Tapping Legends X: Auto Tap, Auto Egg, Auto Rebirth", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tapping%20Legends%20X%20Auto%20Tap%20Auto%20Egg%20Auto%20Rebirth.lua")
+
+addscript(5346891762, "Current Game","Bridge Worm: Head Admin Giver", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Bridge%20Worm%20Head%20Admin%20Giver.lua")
