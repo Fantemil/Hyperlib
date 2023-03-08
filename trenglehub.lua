@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 20:44:56"
+lastupdate = "GMT +1: 08.03.2023 20:45:01"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -14348,3 +14348,5 @@ addscriptexist(5154858502, "Murderers vs. Sheriffs [KillAura]", "pulled from rbx
 addscriptexist(2788229376, "Da Hood [AimLock]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Da%20Hood%20AimLock.lua")
 
 addscriptexist(10524502174, "One Punch Fighters [AutoPunch, Remove Barriers]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/One%20Punch%20Fighters%20AutoPunch%20Remove%20Barriers.lua")
+
+addscriptexist(6284583030, "Pet Simulator X [Auto Farm, Auto open Egg, Auto Farm Chest]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pet%20Simulator%20X%20Auto%20Farm%20Auto%20open%20Egg%20Auto%20Farm%20Chest.lua")
