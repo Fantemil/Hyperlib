@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 12:27:56"
+lastupdate = "GMT +1: 08.03.2023 12:28:04"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -6072,3 +6072,5 @@ addscriptexist(1962086868, "Tower of Hell: Infinity Jumps, To End, Freeze All Pa
 addhub("Noob Hub: 9 Games", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Noob%20Hub%20%20Games.lua")
 
 addscript(7196856665, "Current Game","Wave Sword Bots Game: Kill Aura", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Wave%20Sword%20Bots%20Game%20Kill%20Aura.lua")
+
+addscriptexist(9704893711, "Dha Hood: View Aimers", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Dha%20Hood%20View%20Aimers.lua")
