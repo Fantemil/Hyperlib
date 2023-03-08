@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 12:57:10"
+lastupdate = "GMT +1: 08.03.2023 12:57:15"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -6854,3 +6854,5 @@ addscriptexist(11561748530, "Glide Race: Infinite Speed", "pulled from rbxscript
 addhub("Catalyst Hub V2: 1 Game", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Catalyst%20Hub%20V%20%20Game.lua")
 
 addhub("Universal Game Loader", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Game%20Loader.lua")
+
+addscriptexist(286090429, "Arsenal: Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Arsenal%20Auto%20Farm.lua")
