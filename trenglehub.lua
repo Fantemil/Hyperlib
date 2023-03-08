@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 17:55:57"
+lastupdate = "GMT +1: 08.03.2023 17:56:01"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -10892,3 +10892,5 @@ addscriptexist(9264596435, "Idle Heroes Simulator: Auto Farm, Auto Reroll Passiv
 addscript(5108587039, "Current Game","Palm Ridge Beta: Auto Farm Race, Click TP, Free Gamepasses", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Palm%20Ridge%20Beta%20Auto%20Farm%20Race%20Click%20TP%20Free%20Gamepasses.lua")
 
 addscript(10447678365, "Current Game","Dinosaur Simulator: Teleports, Kill Aura, Walkspeed", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Dinosaur%20Simulator%20Teleports%20Kill%20Aura%20Walkspeed.lua")
+
+addscriptexist(4490140733, "My Restaurant: Infinite Exp, Auto Complete Goal 1 and 5 & More!", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/My%20Restaurant%20Infinite%20Exp%20Auto%20Complete%20Goal%20%20and%20%20%20More.lua")
