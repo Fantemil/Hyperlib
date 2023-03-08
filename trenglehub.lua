@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 14:29:27"
+lastupdate = "GMT +1: 08.03.2023 14:29:36"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -7574,3 +7574,5 @@ addscriptexist(5036207802, "RB Battles! Auto Complete Hub", "pulled from rbxscri
 addscriptexist(10914683361, "Busy Business! Auto Farm Money", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Busy%20Business%20Auto%20Farm%20Money.lua")
 
 addscriptexist(11382413635, "Human Cannon: Auto Farm Diamonds, Auto Farm TNT, Auto Farm Studs", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Human%20Cannon%20Auto%20Farm%20Diamonds%20Auto%20Farm%20TNT%20Auto%20Farm%20Studs.lua")
+
+addscriptexist(1224212277, "Mad City: Chapter 2: Silent Aim, Autorob, Anti-AFK", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mad%20City%20Chapter%20%20Silent%20Aim%20Autorob%20AntiAFK.lua")
