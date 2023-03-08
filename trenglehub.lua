@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 20:48:07"
+lastupdate = "GMT +1: 08.03.2023 20:48:12"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -14424,3 +14424,5 @@ addscriptexist(9648883891, "Festival Tycoon [Sword Pack, Inf Cash]", "pulled fro
 addscriptexist(10243982775, "RedBox 2 [Quickswap weapons]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RedBox%20%20Quickswap%20weapons.lua")
 
 addscriptexist(8130299583, "TRIDENT SURVIVAL [Esp]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TRIDENT%20SURVIVAL%20Esp.lua")
+
+addscriptuniversal("Roblox Universal Script [Anti-AFK]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Roblox%20Universal%20Script%20AntiAFK.lua")
