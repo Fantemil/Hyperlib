@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 18:28:17"
+lastupdate = "GMT +1: 08.03.2023 18:28:22"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -11698,3 +11698,5 @@ addscriptexist(9486506804, "FiFa World: Collect all treasure,Inf coins,Auto buy 
 addhub("PENDULUM HUB Gui R6", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PENDULUM%20HUB%20Gui%20R.lua")
 
 addscriptexist(10912060909, "Black Adam Experience: Auto Grab Bolts", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Black%20Adam%20Experience%20Auto%20Grab%20Bolts.lua")
+
+addscript(6048230437, "Current Game","Crawl: Auto Start Dungeon, Auto Hit, Spam Slash", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Crawl%20Auto%20Start%20Dungeon%20Auto%20Hit%20Spam%20Slash.lua")
