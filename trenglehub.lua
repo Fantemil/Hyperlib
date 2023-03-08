@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 18:16:36"
+lastupdate = "GMT +1: 08.03.2023 18:16:41"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -11408,3 +11408,5 @@ addscript(7002808196, "Current Game","Симулятор падения в Ка�
 addscript(6766156863, "Current Game","Strongman Simulator: Auto Farm Energy, Auto Workout, Auto Rebirths", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Strongman%20Simulator%20Auto%20Farm%20Energy%20Auto%20Workout%20Auto%20Rebirths.lua")
 
 addscriptexist(2788229376, "Da Hood: Crush Server", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Da%20Hood%20Crush%20Server.lua")
+
+addscript(9862250432, "Current Game","Nations Roleplay 2: Anti Admin, Server Hop, Auto Draw", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Nations%20Roleplay%20%20Anti%20Admin%20Server%20Hop%20Auto%20Draw.lua")
