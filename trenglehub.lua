@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 16:52:53"
+lastupdate = "GMT +1: 08.03.2023 16:52:58"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -9294,3 +9294,5 @@ addscriptexist(5956785391, "Project Slayers: NPC Farm, Boss Farm, Modify Walkspe
 addscriptuniversal("Universal Serversided Ping Lagger", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Serversided%20Ping%20Lagger.lua")
 
 addscriptexist(2753915549, "Blox Fruits: Auto Select Weapon, Auto Skills & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blox%20Fruits%20Auto%20Select%20Weapon%20Auto%20Skills%20%20More.lua")
+
+addscriptexist(10977918334, "Merge Droppers: Walkspeed, Auto Deposit, Auto Merge", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Merge%20Droppers%20Walkspeed%20Auto%20Deposit%20Auto%20Merge.lua")
