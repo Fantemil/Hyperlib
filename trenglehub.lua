@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 17:17:22"
+lastupdate = "GMT +1: 08.03.2023 17:17:27"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -9922,3 +9922,5 @@ addscriptexist(6229116934, "Hoopz: Auto Pickup, Settings, Silent Aim", "pulled f
 addscriptexist(2866967438, "Fishing Simulator: Auto Farm, Auto Kill Sharks & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Fishing%20Simulator%20Auto%20Farm%20Auto%20Kill%20Sharks%20%20More.lua")
 
 addscriptexist(9285238704, "Race Clicker: Tp To Haloween, Auto Farm, Server Hop", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Race%20Clicker%20Tp%20To%20Haloween%20Auto%20Farm%20Server%20Hop.lua")
+
+addscript(10628787331, "Current Game","Hill Disasters: Inf Coin", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Hill%20Disasters%20Inf%20Coin.lua")
