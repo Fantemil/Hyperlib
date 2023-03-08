@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 06:50:21"
+lastupdate = "GMT +1: 08.03.2023 06:50:25"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -5014,3 +5014,5 @@ addscriptexist(292439477, "Phantom Forces: CPU Limiter, Anti Afk, No Fall Damage
 addscriptexist(11040063484, "Sword Fighters Simulator: Equip Best Pets, Auto Farm Selected, Auto Open Eggs", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sword%20Fighters%20Simulator%20Equip%20Best%20Pets%20Auto%20Farm%20Selected%20Auto%20Open%20Eggs.lua")
 
 addscriptexist(11729688377, "Booga Booga [REBORN]: Auto Atack, Auto Pickup, Auto Heal", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Booga%20Booga%20REBORN%20Auto%20Atack%20Auto%20Pickup%20Auto%20Heal.lua")
+
+addscriptexist(7791873535, "REALISTIC HOOD: No Recoil, Teleports & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/REALISTIC%20HOOD%20No%20Recoil%20Teleports%20%20More.lua")
