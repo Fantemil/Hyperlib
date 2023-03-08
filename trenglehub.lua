@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 14:40:36"
+lastupdate = "GMT +1: 08.03.2023 14:40:40"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -7866,3 +7866,5 @@ addscriptexist(445664957, "Parkour: Godmode", "pulled from rbxscript.com", "http
 addscriptexist(3956818381, "Ninja Legends: Auto Farm, Chi Farm, Auto Sell", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ninja%20Legends%20Auto%20Farm%20Chi%20Farm%20Auto%20Sell.lua")
 
 addscriptexist(2788229376, "Da Hood: Underground resolver", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Da%20Hood%20Underground%20resolver.lua")
+
+addscriptexist(155615604, "Prison Life: Teleport, speedhack, Jumphack", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Prison%20Life%20Teleport%20speedhack%20Jumphack.lua")
