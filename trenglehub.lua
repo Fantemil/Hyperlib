@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 21:03:12"
+lastupdate = "GMT +1: 08.03.2023 21:03:16"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -14798,3 +14798,5 @@ addscriptexist(537413528, "Build A Boat For Treasure [Auto Farm]", "pulled from 
 addscriptexist(6055959032, "Jailbird [Silent AimBot, Chams, Fly]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Jailbird%20Silent%20AimBot%20Chams%20Fly.lua")
 
 addscriptexist(6172932937, "Energy Assault [Silent AimBot, Chams, Esp]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Energy%20Assault%20Silent%20AimBot%20Chams%20Esp.lua")
+
+addscriptexist(5780309044, "Stands Awakening [Auto farm stands, Instantly change stands]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Stands%20Awakening%20Auto%20farm%20stands%20Instantly%20change%20stands.lua")
