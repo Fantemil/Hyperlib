@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://WheatHub.kelprepl.repl.co/main"))()
