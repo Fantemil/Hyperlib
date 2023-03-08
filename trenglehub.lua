@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 17:25:25"
+lastupdate = "GMT +1: 08.03.2023 17:25:29"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -10126,3 +10126,5 @@ addscript(47324, "Current Game","Sword Fights on The Heights IV: Invisible, Forc
 addscriptexist(7305309231, "Taxi Boss: Infinity Candies and Cash", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Taxi%20Boss%20Infinity%20Candies%20and%20Cash.lua")
 
 addscriptexist(6172932937, "Energy Assault: WallBang", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Energy%20Assault%20WallBang.lua")
+
+addscriptexist(8908228901, "SharkBite 2: Auto Vase, ESP, Gun Mods", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SharkBite%20%20Auto%20Vase%20ESP%20Gun%20Mods.lua")
