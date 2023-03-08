@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 07.03.2023 22:34:22"
+lastupdate = "GMT +1: 08.03.2023 06:22:11"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -4554,3 +4554,5 @@ addscriptexist(2768379856, "SCP - 3008: God Mode", "pulled from rbxscript.com", 
 addscriptexist(10462101644, "Tall Man Run: Kick All, Destroy Everything, Destroy map", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tall%20Man%20Run%20Kick%20All%20Destroy%20Everything%20Destroy%20map.lua")
 
 addscriptexist(2474168535, "Westbound: Silent Aim, Gun Mod", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Westbound%20Silent%20Aim%20Gun%20Mod.lua")
+
+addscriptexist(9601565001, "Car Crash System: Anti Afk, Trolling, Fly", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Car%20Crash%20System%20Anti%20Afk%20Trolling%20Fly.lua")
