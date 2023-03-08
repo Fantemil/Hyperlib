@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 18:01:36"
+lastupdate = "GMT +1: 08.03.2023 18:01:41"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -11036,3 +11036,5 @@ addscriptexist(10277607801, "Apeirophobia: Infinity Stamina, Disable Drowning, C
 addscriptexist(8146731988, "Ultra Power Tycoon: Silent Aim, Click TP, Get All Powers", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ultra%20Power%20Tycoon%20Silent%20Aim%20Click%20TP%20Get%20All%20Powers.lua")
 
 addscriptexist(5154858502, "Murderers vs. Sheriffs: Silent AIm, Kill All, Wall Bang", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Murderers%20vs%20Sheriffs%20Silent%20AIm%20Kill%20All%20Wall%20Bang.lua")
+
+addscriptexist(2768379856, "3008: Auto Stats, No Fall Damage, No Fog", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/%20Auto%20Stats%20No%20Fall%20Damage%20No%20Fog.lua")
