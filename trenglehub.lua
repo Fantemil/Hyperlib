@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 14:28:34"
+lastupdate = "GMT +1: 08.03.2023 14:28:38"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -7550,3 +7550,5 @@ addscriptexist(8657766101, "Marvellous Playground: Get All Characters for Free E
 addscriptexist(537413528, "Build A Boat For Treasure: Gold/Gold Block Autofarm, Plot Teleports, Teleport tool", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Build%20A%20Boat%20For%20Treasure%20GoldGold%20Block%20Autofarm%20Plot%20Teleports%20Teleport%20tool.lua")
 
 addscriptexist(11434115364, "Merge Pet Simulator: Auto Click Best Pet, Auto Upgrade, Auto Rebirths", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Merge%20Pet%20Simulator%20Auto%20Click%20Best%20Pet%20Auto%20Upgrade%20Auto%20Rebirths.lua")
+
+addscriptexist(7346416636, "Pop It Trading: Auto Buy Box Toy House, Be Giant, Infinity Yield", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pop%20It%20Trading%20Auto%20Buy%20Box%20Toy%20House%20Be%20Giant%20Infinity%20Yield.lua")
