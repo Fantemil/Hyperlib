@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 15:01:45"
+lastupdate = "GMT +1: 08.03.2023 15:01:50"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -8436,3 +8436,5 @@ addscriptexist(10456811278, "Milk Tycoon: Auto Farm, Auto Collect, Auto Sell", "
 addscript(4591043103, "Current Game","Marble Rider Star Quest: Auto click stars", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Marble%20Rider%20Star%20Quest%20Auto%20click%20stars.lua")
 
 addscriptexist(5777099015, "Cheese Escape: Get Cheese, TP in key and door, Spam Click", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Cheese%20Escape%20Get%20Cheese%20TP%20in%20key%20and%20door%20Spam%20Click.lua")
+
+addscriptuniversal("Universal Lib Loader", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Lib%20Loader.lua")
