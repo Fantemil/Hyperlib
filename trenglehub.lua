@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 17:05:21"
+lastupdate = "GMT +1: 08.03.2023 17:05:25"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -9610,3 +9610,5 @@ addscriptexist(2809202155, "Your Bizarre Adventure: Teleport Bypass", "pulled fr
 addscriptexist(2474168535, "Westbound: Spread, Max Ammo, Reload Speed", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Westbound%20Spread%20Max%20Ammo%20Reload%20Speed.lua")
 
 addscriptuniversal("Universal Hitbox GUI", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Hitbox%20GUI.lua")
+
+addscriptexist(2551991523, "Broken Bones IV: Infinity Money", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Broken%20Bones%20IV%20Infinity%20Money.lua")
