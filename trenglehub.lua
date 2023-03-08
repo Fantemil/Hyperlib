@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 19:07:55"
+lastupdate = "GMT +1: 08.03.2023 19:08:08"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -12502,3 +12502,5 @@ addscriptexist(9284097280, "Apartment Tycoon: Auto Clean, Auto Collect, Anti Kic
 addscriptexist(9264596435, "Idle Heroes Simulator: Auto Attack Enemy, Auto Next Lvl, Auto Open Chest", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Idle%20Heroes%20Simulator%20Auto%20Attack%20Enemy%20Auto%20Next%20Lvl%20Auto%20Open%20Chest.lua")
 
 addscriptexist(2413927524, "The Rake REMASTERED: Full Bright, Inf Stamina, ESP", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/The%20Rake%20REMASTERED%20Full%20Bright%20Inf%20Stamina%20ESP.lua")
+
+addscriptexist(3964975083, "Build to survive: Teleport To, BTools, Clear Bases", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Build%20to%20survive%20Teleport%20To%20BTools%20Clear%20Bases.lua")
