@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 18:14:53"
+lastupdate = "GMT +1: 08.03.2023 18:14:57"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -11364,3 +11364,5 @@ addscript(5104202731, "Current Game","Southwest Florida Beta: Auto Farm, Anti Af
 addscript(4110892437, "Current Game","Kaiju Universe: Get Minilla Head", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Kaiju%20Universe%20Get%20Minilla%20Head.lua")
 
 addscriptexist(292439477, "Phantom Forces: Silent Aim, Aimbot, Esp", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Phantom%20Forces%20Silent%20Aim%20Aimbot%20Esp.lua")
+
+addscriptexist(92604236, "High School Life: Always hit good shots", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/High%20School%20Life%20Always%20hit%20good%20shots.lua")
