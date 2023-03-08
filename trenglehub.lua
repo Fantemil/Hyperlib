@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 17:42:01"
+lastupdate = "GMT +1: 08.03.2023 17:42:05"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -10546,3 +10546,5 @@ addscriptexist(10681622988, "Easy Jump Clicker: Auto Farm Wins, Auto Farm Rebirt
 addscript(5690862508, "Current Game","Sans Multiversal Battles 2: Tool Giver, Get All Attacks, Godmode", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sans%20Multiversal%20Battles%20%20Tool%20Giver%20Get%20All%20Attacks%20Godmode.lua")
 
 addscriptexist(6284583030, "Pet Simulator X: Gem Farm, Chest Farm, Farm Coins by health", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pet%20Simulator%20X%20Gem%20Farm%20Chest%20Farm%20Farm%20Coins%20by%20health.lua")
+
+addscriptexist(10828925984, "Robot Tycoon: Infinity Gems", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Robot%20Tycoon%20Infinity%20Gems.lua")
