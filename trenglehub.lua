@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 16:49:03"
+lastupdate = "GMT +1: 08.03.2023 16:49:07"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -9196,3 +9196,5 @@ addscriptexist(4991214437, "town: Gun Mod", "pulled from rbxscript.com", "https:
 addscript(8097148487, "Current Game","Magic Champions: Auto Strenght, Auto Wisdom, Walkspeed", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Magic%20Champions%20Auto%20Strenght%20Auto%20Wisdom%20Walkspeed.lua")
 
 addscriptexist(3823781113, "Saber Simulator: Auto Swing, Auto Sell, Auto Kill Players", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Saber%20Simulator%20Auto%20Swing%20Auto%20Sell%20Auto%20Kill%20Players.lua")
+
+addscript(10320240572, "Current Game","Easy Race Clicker: Auto Click, Auto Win Race, Auto Eggs", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Easy%20Race%20Clicker%20Auto%20Click%20Auto%20Win%20Race%20Auto%20Eggs.lua")
