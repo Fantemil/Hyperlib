@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 20:46:37"
+lastupdate = "GMT +1: 08.03.2023 20:46:42"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -14390,3 +14390,5 @@ addscriptexist(6678877691, "ZO ぞ SAMURAI [RageBot, Godmode]", "pulled from rbx
 addscript(10157366004, "Current Game","Strongest Tapper Simulator [AutoUpgrade, AutoClick]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Strongest%20Tapper%20Simulator%20AutoUpgrade%20AutoClick.lua")
 
 addscriptexist(142823291, "Murder Mystery 2 [Esp, Godmode]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Murder%20Mystery%20%20Esp%20Godmode.lua")
+
+addscriptexist(5326405001, "Base Battles [No Spread, Esp]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Base%20Battles%20No%20Spread%20Esp.lua")
