@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 06:54:24"
+lastupdate = "GMT +1: 08.03.2023 06:54:28"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -5136,3 +5136,5 @@ addscript(2986677229, "Current Game","Giant Simulator: Auto Collect Orbs, Auto A
 addhub("LK Hub: Key Bypassed", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LK%20Hub%20Key%20Bypassed.lua")
 
 addscriptexist(11156779721, "The Survival Game: Circle Target, Kill Aura & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/The%20Survival%20Game%20Circle%20Target%20Kill%20Aura%20%20More.lua")
+
+addscriptexist(11156779721, "The Survival Game: Autofarm, Invisible", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/The%20Survival%20Game%20Autofarm%20Invisible.lua")
