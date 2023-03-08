@@ -1,0 +1,2 @@
+getgenv().URL = "https://example.com" -- This is the link to the website you want to steal the body from
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SeasonalKirito/projects/main/Roblox/Body%20Stealer.lua"))()
