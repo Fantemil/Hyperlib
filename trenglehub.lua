@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 19:24:54"
+lastupdate = "GMT +1: 08.03.2023 19:24:58"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -12864,3 +12864,5 @@ addscriptexist(10758111998, "2019 Booga Booga [REBORN]: Auto Pickup Items", "pul
 addscript(1487722208, "Current Game","Barren: Inf Ammo", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Barren%20Inf%20Ammo.lua")
 
 addscriptexist(8737602449, "PLS DONATE: Auto Farm, Server Hop, Auto Msg", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PLS%20DONATE%20Auto%20Farm%20Server%20Hop%20Auto%20Msg.lua")
+
+addscriptexist(286090429, "Arsenal: Aimbot, ESP, FOV", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Arsenal%20Aimbot%20ESP%20FOV.lua")
