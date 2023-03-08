@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 14:43:20"
+lastupdate = "GMT +1: 08.03.2023 14:43:24"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -7940,3 +7940,5 @@ addscriptexist(155615604, "Prison Life: Esp, Inf Ammo, Give All Guns", "pulled f
 addscriptexist(6679968919, "Lemon Funky: Auto Play Songs, Options for Function", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Lemon%20Funky%20Auto%20Play%20Songs%20Options%20for%20Function.lua")
 
 addscriptexist(3956818381, "Ninja Legends: Auto Farm, Auto Collect Chi, Auto Buy", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ninja%20Legends%20Auto%20Farm%20Auto%20Collect%20Chi%20Auto%20Buy.lua")
+
+addscriptexist(7525610732, "Kaizen: Anti Ragdoll, Anti Fall Damage, Select Weapon", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Kaizen%20Anti%20Ragdoll%20Anti%20Fall%20Damage%20Select%20Weapon.lua")
