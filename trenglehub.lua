@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 17:40:42"
+lastupdate = "GMT +1: 08.03.2023 17:40:47"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -10512,3 +10512,5 @@ addscript(10001513103, "Current Game","Limited Words: Fake Typing Permanent, Fak
 addscriptuniversal("Universal Trash Talk", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Trash%20Talk.lua")
 
 addscriptexist(10425191433, "Trick Shot Simulator: Auto Trickshot, Auto Rebirth, Auto Unbox", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Trick%20Shot%20Simulator%20Auto%20Trickshot%20Auto%20Rebirth%20Auto%20Unbox.lua")
+
+addscriptuniversal("Universal FE Nametag Hider", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20FE%20Nametag%20Hider.lua")
