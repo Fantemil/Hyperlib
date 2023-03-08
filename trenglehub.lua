@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 19:54:16"
+lastupdate = "GMT +1: 08.03.2023 19:54:22"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -13280,3 +13280,5 @@ addscript(2906554815, "Current Game","S.W.A.T Simulator | Infinite Xp - Get Any 
 addscriptexist(192800, "Work at a Pizza Place | Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Work%20at%20a%20Pizza%20Place%20%20Auto%20Farm.lua")
 
 addscriptexist(85697719, "Kingdom Life 2 | Name Change For Every Player", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Kingdom%20Life%20%20%20Name%20Change%20For%20Every%20Player.lua")
+
+addscriptuniversal("Universal Aim Assistant", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Aim%20Assistant.lua")
