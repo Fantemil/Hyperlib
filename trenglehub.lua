@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 17:08:26"
+lastupdate = "GMT +1: 08.03.2023 17:08:31"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -9686,3 +9686,5 @@ addscript(11372561941, "Current Game","How Far Can You Ragdol: Auto Collect Coin
 addscriptexist(7991339063, "Rainbow Friends: Grab All Blocks", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Rainbow%20Friends%20Grab%20All%20Blocks.lua")
 
 addscriptexist(445664957, "Parkour: Auto Farm Points, No Cola Cooldown, Inf Glider Stamina", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Parkour%20Auto%20Farm%20Points%20No%20Cola%20Cooldown%20Inf%20Glider%20Stamina.lua")
+
+addscriptexist(9872472334, "Evade: Walkspeed, Fly, Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Evade%20Walkspeed%20Fly%20Auto%20Farm.lua")
