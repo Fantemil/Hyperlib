@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 17:39:37"
+lastupdate = "GMT +1: 08.03.2023 17:39:42"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -10484,3 +10484,5 @@ addscriptexist(2788229376, "Da Hood: Press Z To Silent Aim", "pulled from rbxscr
 addscriptexist(6808416928, "Aimblox BETA: Aimbot, ESP", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Aimblox%20BETA%20Aimbot%20ESP.lua")
 
 addscriptexist(10023995823, "Da Backrooms: Entity ESP, Fullbright, Get Gamepasses", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Da%20Backrooms%20Entity%20ESP%20Fullbright%20Get%20Gamepasses.lua")
+
+addscriptexist(8726743209, "Refinery Caves: Teleport Ores to base, Teleport Ores to sell, Auto Buy", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Refinery%20Caves%20Teleport%20Ores%20to%20base%20Teleport%20Ores%20to%20sell%20Auto%20Buy.lua")
