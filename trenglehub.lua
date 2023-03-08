@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 13:03:33"
+lastupdate = "GMT +1: 08.03.2023 13:03:37"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -7016,3 +7016,5 @@ addscriptexist(286090429, "Arsenal: Silent Aim, Infinity Ammo & More", "pulled f
 addscript(10684709969, "Current Game","ShimmerVille RP: Find Presents Go to santa, Collect Snowflakes", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ShimmerVille%20RP%20Find%20Presents%20Go%20to%20santa%20Collect%20Snowflakes.lua")
 
 addscriptexist(6299805723, "Anime Fighters Simulator: Auto Click Damage, Auto Farm, Auto Open Eggs", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime%20Fighters%20Simulator%20Auto%20Click%20Damage%20Auto%20Farm%20Auto%20Open%20Eggs.lua")
+
+addhub("Lazium Hub: 15+ Games", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Lazium%20Hub%20%20Games.lua")
