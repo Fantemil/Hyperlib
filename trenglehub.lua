@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 17:18:55"
+lastupdate = "GMT +1: 08.03.2023 17:19:00"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -9958,3 +9958,5 @@ addscriptexist(192800, "Work at a Pizza Place: Server Crasher", "pulled from rbx
 addscriptexist(488667523, "Those Who Remain: Inf Ammo, Silent Aim & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Those%20Who%20Remain%20Inf%20Ammo%20Silent%20Aim%20%20More.lua")
 
 addscriptexist(6516141723, "DOORS: Spawn Regular Entities", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DOORS%20Spawn%20Regular%20Entities.lua")
+
+addscriptexist(2788229376, "Da Hood: Script Hub", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Da%20Hood%20Script%20Hub.lua")
