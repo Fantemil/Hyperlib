@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 12:43:32"
+lastupdate = "GMT +1: 08.03.2023 12:43:36"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -6506,3 +6506,5 @@ addscriptuniversal("Universal Radar", "pulled from rbxscript.com", "https://raw.
 addscriptexist(8260276694, "Ability Wars: Godmode, Auto Farm, Kill Aura", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ability%20Wars%20Godmode%20Auto%20Farm%20Kill%20Aura.lua")
 
 addscript(740581508, "Current Game","Entry Point: Gun Mods", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Entry%20Point%20Gun%20Mods.lua")
+
+addscriptexist(11382413635, "Human Cannon: Coins Farm, Collect TNT, Auto Buy TNT, Auto Rebirth", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Human%20Cannon%20Coins%20Farm%20Collect%20TNT%20Auto%20Buy%20TNT%20Auto%20Rebirth.lua")
