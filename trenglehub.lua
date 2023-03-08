@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 14:45:28"
+lastupdate = "GMT +1: 08.03.2023 14:45:32"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -7998,3 +7998,5 @@ addscriptexist(9224601490, "Fruit Battlegrounds: Auto Farm, WalkSpeed, JumpPower
 addscriptexist(7525610732, "Kaizen: Auto Quest, Safe Mode, Auto Equip weapon", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Kaizen%20Auto%20Quest%20Safe%20Mode%20Auto%20Equip%20weapon.lua")
 
 addscriptexist(11445923563, "One Fruit Simulator: Collect Chest, Auto Farm Lvl, Teleports", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/One%20Fruit%20Simulator%20Collect%20Chest%20Auto%20Farm%20Lvl%20Teleports.lua")
+
+addscriptexist(4872321990, "Islands: Godmode, Teleport tree, Auto Fish", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Islands%20Godmode%20Teleport%20tree%20Auto%20Fish.lua")
