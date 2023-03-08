@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 13:05:21"
+lastupdate = "GMT +1: 08.03.2023 13:05:25"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -7062,3 +7062,5 @@ addscriptexist(6808416928, "Aimblox BETA: Illusion Hub Free Gui", "pulled from r
 addscriptexist(10404327868, "Timber Champions: Auto Farm, Craft All Pets, Collect Orbs & More!", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Timber%20Champions%20Auto%20Farm%20Craft%20All%20Pets%20Collect%20Orbs%20%20More.lua")
 
 addscriptexist(9872472334, "Evade: Auto Farm Ticket, Auto Respawn, Respawn Once", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Evade%20Auto%20Farm%20Ticket%20Auto%20Respawn%20Respawn%20Once.lua")
+
+addscriptexist(8657766101, "Marvellous Playground: Kill aura", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Marvellous%20Playground%20Kill%20aura.lua")
