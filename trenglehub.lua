@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 12:22:44"
+lastupdate = "GMT +1: 08.03.2023 12:22:48"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -5938,3 +5938,5 @@ addscriptexist(3260590327, "Tower Defense Simulator: Loard Clicker", "pulled fro
 addscriptexist(6679968919, "Fly Race: Auto rebirth, Auto craft, Auto collect orb", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Fly%20Race%20Auto%20rebirth%20Auto%20craft%20Auto%20collect%20orb.lua")
 
 addscriptexist(920587237, "Adopt Me: Unlock all collections (ServerSided)", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Adopt%20Me%20Unlock%20all%20collections%20ServerSided.lua")
+
+addscriptexist(8540346411, "Rebirth Champions X: Auto Click, Auto Rebirth, Auto Upgrade", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Rebirth%20Champions%20X%20Auto%20Click%20Auto%20Rebirth%20Auto%20Upgrade.lua")
