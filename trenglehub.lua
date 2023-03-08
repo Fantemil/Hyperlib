@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 17:31:14"
+lastupdate = "GMT +1: 08.03.2023 17:31:18"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -10278,3 +10278,5 @@ addscriptexist(6516141723, "DOORS: Press H to Spawn Screech", "pulled from rbxsc
 addscriptexist(9912491609, "How Far Can You Fly: Auto Farm, Auto Byy, Auto rebirth", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/How%20Far%20Can%20You%20Fly%20Auto%20Farm%20Auto%20Byy%20Auto%20rebirth.lua")
 
 addscriptexist(5602055394, "Hood Modded: Walkspeed, Trash Talk, Anti Stomp", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Hood%20Modded%20Walkspeed%20Trash%20Talk%20Anti%20Stomp.lua")
+
+addscriptexist(3851622790, "Break In (Story): FE Sound Player", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Break%20In%20Story%20FE%20Sound%20Player.lua")
