@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 17:13:22"
+lastupdate = "GMT +1: 08.03.2023 17:13:27"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -9816,3 +9816,5 @@ addscriptexist(7305309231, "Taxi Boss: Grab Corns", "pulled from rbxscript.com",
 addscriptexist(189707, "Natural Disaster Survival: Walk on Water, Walkspeed & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Natural%20Disaster%20Survival%20Walk%20on%20Water%20Walkspeed%20%20More.lua")
 
 addscriptexist(7378050129, "Kill R63 with DOOM music: Jump Power, Spawn Ammo Box, Dark Mode", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Kill%20R%20with%20DOOM%20music%20Jump%20Power%20Spawn%20Ammo%20Box%20Dark%20Mode.lua")
+
+addscriptexist(10118559731, "nico's nextbots: Out Of Bounds, Killer ESP, Gravity", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/nicos%20nextbots%20Out%20Of%20Bounds%20Killer%20ESP%20Gravity.lua")
