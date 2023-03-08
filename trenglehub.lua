@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 12:36:46"
+lastupdate = "GMT +1: 08.03.2023 12:36:50"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -6316,3 +6316,5 @@ addscriptexist(6918802270, "Project New World: Chest Farm, Teleport Bypass, Serv
 addscriptexist(9551640993, "Mining Simulator 2: Sell When Full, Mine Aura, Auto Farm Houses", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mining%20Simulator%20%20Sell%20When%20Full%20Mine%20Aura%20Auto%20Farm%20Houses.lua")
 
 addscriptexist(8540346411, "Rebirth Champions X: Auto Eggs, Auto Click, Auto Rebirth", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Rebirth%20Champions%20X%20Auto%20Eggs%20Auto%20Click%20Auto%20Rebirth.lua")
+
+addscriptexist(286090429, "Arsenal: Aimbot, Infinite Ammo, GodMode", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Arsenal%20Aimbot%20Infinite%20Ammo%20GodMode.lua")
