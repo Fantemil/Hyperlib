@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 20:11:09"
+lastupdate = "GMT +1: 08.03.2023 20:11:14"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -13466,3 +13466,5 @@ addscriptuniversal("Universal Discord Server Auto Join", "pulled from rbxscript.
 addscriptexist(2753915549, "Blox Fruits | Auto Farm, Auto Elite, Auto Superhuman", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blox%20Fruits%20%20Auto%20Farm%20Auto%20Elite%20Auto%20Superhuman.lua")
 
 addscriptexist(6755746130, "Fruit Juice Tycoon: Refreshed | Auto Farm, Auto Sell, Auto Buy", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Fruit%20Juice%20Tycoon%20Refreshed%20%20Auto%20Farm%20Auto%20Sell%20Auto%20Buy.lua")
+
+addscriptexist(286090429, "Arsenal (Bolts Hub Upd) | Silent Aim, KillAll, Instant Equip", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Arsenal%20Bolts%20Hub%20Upd%20%20Silent%20Aim%20KillAll%20Instant%20Equip.lua")
