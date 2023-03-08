@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 14:46:44"
+lastupdate = "GMT +1: 08.03.2023 14:46:48"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -8032,3 +8032,5 @@ addscriptexist(2916899287, "Blackhawk Rescue Mission 5: Gui, Insane Features!", 
 addscriptexist(5490351219, "Clicker Madness: Norm Auto Click, Auto Boss, Loop Kill All", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Clicker%20Madness%20Norm%20Auto%20Click%20Auto%20Boss%20Loop%20Kill%20All.lua")
 
 addscriptexist(10053187005, "Counter Blox Reimagined: Spawn Every Item", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Counter%20Blox%20Reimagined%20Spawn%20Every%20Item.lua")
+
+addscriptexist(8750997647, "Tapping Legends X: Auto Tap, Auto Buy Tap Skins, Auto Collect", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tapping%20Legends%20X%20Auto%20Tap%20Auto%20Buy%20Tap%20Skins%20Auto%20Collect.lua")
