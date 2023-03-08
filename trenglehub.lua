@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 18:08:38"
+lastupdate = "GMT +1: 08.03.2023 18:08:42"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -11214,3 +11214,5 @@ addscriptexist(9848789324, "Ragdoll Engine: Anti Ragdoll, Anti Fling, Walkspeed"
 addscriptexist(10710676163, "SPTS : Origin: Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SPTS%20%20Origin%20Auto%20Farm.lua")
 
 addscriptexist(8726743209, "Refinery Caves: Auto Sell Ores", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Refinery%20Caves%20Auto%20Sell%20Ores.lua")
+
+addscriptexist(8726743209, "Refinery Caves: Auto Ore Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Refinery%20Caves%20Auto%20Ore%20Farm.lua")
