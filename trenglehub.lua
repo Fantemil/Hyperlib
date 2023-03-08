@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 19:22:47"
+lastupdate = "GMT +1: 08.03.2023 19:22:53"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -12820,3 +12820,5 @@ addscript(9955279341, "Current Game","Infinity Sea 2: Infinite Spins", "pulled f
 addscriptexist(2727067538, "Era of Althea: Kill Ara, Esp, God mode", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Era%20of%20Althea%20Kill%20Ara%20Esp%20God%20mode.lua")
 
 addscriptexist(10675066724, "Slime Tower Tycoon: Collect All Drop, Auto Sell", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Slime%20Tower%20Tycoon%20Collect%20All%20Drop%20Auto%20Sell.lua")
+
+addscriptexist(1224212277, "Mad City Chapter 2: Kill All v2", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mad%20City%20Chapter%20%20Kill%20All%20v.lua")
