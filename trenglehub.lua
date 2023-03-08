@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 15:00:52"
+lastupdate = "GMT +1: 08.03.2023 15:00:57"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -8412,3 +8412,5 @@ addscriptexist(10898965735, "Mine Racer: Auto Mine, Auto Upgrades, Auto Eggs", "
 addhub("AlphaZero Hub: 3 Games", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AlphaZero%20Hub%20%20Games.lua")
 
 addhub("Strike Hub: 8 Games", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Strike%20Hub%20%20Games.lua")
+
+addscriptexist(10041108328, "Dark Life: Inf Ammo, No Recoil, No Shot Delay", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Dark%20Life%20Inf%20Ammo%20No%20Recoil%20No%20Shot%20Delay.lua")
