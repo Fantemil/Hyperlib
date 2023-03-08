@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 19:59:30"
+lastupdate = "GMT +1: 08.03.2023 19:59:34"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -13392,3 +13392,5 @@ addscriptexist(85697719, "Kingdom Life II | Name Change For Every Player", "pull
 addscriptexist(9414511685, "Drive Cars Down A Hill! | Crash Server", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Drive%20Cars%20Down%20A%20Hill%20%20Crash%20Server.lua")
 
 addscriptexist(183364845, "Speed Run 4 | Fly, AutoFarm, Infinity Jump", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Speed%20Run%20%20%20Fly%20AutoFarm%20Infinity%20Jump.lua")
+
+addscriptexist(4042427666, "Anime Fighting Simulator | Fly, AutoFarm, Auto Quests", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime%20Fighting%20Simulator%20%20Fly%20AutoFarm%20Auto%20Quests.lua")
