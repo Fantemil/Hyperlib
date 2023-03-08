@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 21:03:21"
+lastupdate = "GMT +1: 08.03.2023 21:03:25"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -14802,3 +14802,5 @@ addscriptexist(6172932937, "Energy Assault [Silent AimBot, Chams, Esp]", "pulled
 addscriptexist(5780309044, "Stands Awakening [Auto farm stands, Instantly change stands]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Stands%20Awakening%20Auto%20farm%20stands%20Instantly%20change%20stands.lua")
 
 addscriptexist(3432786397, "Pet Mining Simulator [Btools, Kill]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pet%20Mining%20Simulator%20Btools%20Kill.lua")
+
+addscriptuniversal("Roblox [Universal Aim Esp]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Roblox%20Universal%20Aim%20Esp.lua")
