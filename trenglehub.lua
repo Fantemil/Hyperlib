@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 19:23:38"
+lastupdate = "GMT +1: 08.03.2023 19:23:42"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -12838,3 +12838,5 @@ addscriptexist(9144187696, "A Piece: Free Skill Point & More", "pulled from rbxs
 addscriptexist(5956785391, "Project Slayers: Infinite Spin, Auto Spin", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Project%20Slayers%20Infinite%20Spin%20Auto%20Spin.lua")
 
 addscriptexist(4639625707, "Oil Warfare Tycoon: Gun Mods, Esp, Infinite Ammo & More!", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Oil%20Warfare%20Tycoon%20Gun%20Mods%20Esp%20Infinite%20Ammo%20%20More.lua")
+
+addscriptuniversal("Universal Esp", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Esp.lua")
