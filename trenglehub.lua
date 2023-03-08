@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 17:27:32"
+lastupdate = "GMT +1: 08.03.2023 17:27:36"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -10182,3 +10182,5 @@ addscriptexist(10347946161, "Rat Washing Tycoon: Auto Sell Rats, Player Mods, Au
 addscriptuniversal("Universal Anti kick and Anti Cheat", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Anti%20kick%20and%20Anti%20Cheat.lua")
 
 addscript(4986149763, "Current Game","Shooting Game: Press E to Kill All", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Shooting%20Game%20Press%20E%20to%20Kill%20All.lua")
+
+addscriptexist(5865858426, "Retail Tycoon 2: Pumpkin Autofarm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Retail%20Tycoon%20%20Pumpkin%20Autofarm.lua")
