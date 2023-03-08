@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 17:34:59"
+lastupdate = "GMT +1: 08.03.2023 17:35:04"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -10366,3 +10366,5 @@ addscriptexist(6678877691, "ZO: Rage Bot, Auto Bal Pre, God Mode", "pulled from 
 addscriptexist(9183932460, "Untitled Hood: Aim Lock", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Untitled%20Hood%20Aim%20Lock.lua")
 
 addscriptexist(2788229376, "Da Hood: Silent Aim, ESP Boxes, FOV", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Da%20Hood%20Silent%20Aim%20ESP%20Boxes%20FOV.lua")
+
+addscriptexist(11346342371, "making memes in your basement at 3 AM tycoon: Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/making%20memes%20in%20your%20basement%20at%20%20AM%20tycoon%20Auto%20Farm.lua")
