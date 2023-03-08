@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 07:00:33"
+lastupdate = "GMT +1: 08.03.2023 07:00:36"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -5324,3 +5324,5 @@ addscriptexist(9872472334, "Evade: Exp Farm, Money Farm, Anti Afk", "pulled from
 addscriptexist(6516141723, "DOORS: Key Aura, Book Aura, ESP", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DOORS%20Key%20Aura%20Book%20Aura%20ESP.lua")
 
 addscriptexist(10675066724, "Slime Tower Tycoon: Auto Collect, Auto Deposit, Auto Merge", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Slime%20Tower%20Tycoon%20Auto%20Collect%20Auto%20Deposit%20Auto%20Merge.lua")
+
+addscript(10903978962, "Current Game","Sheep Tycoon: Infinite Money, Infinite Wool", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sheep%20Tycoon%20Infinite%20Money%20Infinite%20Wool.lua")
