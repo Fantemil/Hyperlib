@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://raw.githubusercontent.com/superaceCZ/SmartTechnologies/main/SmartUi%3A%20Cursed%20Islands'))()
