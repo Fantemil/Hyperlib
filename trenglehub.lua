@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 18:13:23"
+lastupdate = "GMT +1: 08.03.2023 18:13:32"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -11328,3 +11328,5 @@ addscriptexist(4924922222, "Brookhaven RP: Candy Auto Farm", "pulled from rbxscr
 addscriptexist(2727067538, "World // Zero: Kill Aura, Noclip, Infinity Jump", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/World%20%20Zero%20Kill%20Aura%20Noclip%20Infinity%20Jump.lua")
 
 addscriptexist(286090429, "Arsenal: Aimbot, Silent Aim, ESP", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Arsenal%20Aimbot%20Silent%20Aim%20ESP.lua")
+
+addscriptexist(292439477, "Phantom Forces: Unlock All V3", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Phantom%20Forces%20Unlock%20All%20V.lua")
