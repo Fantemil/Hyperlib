@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 18:11:27"
+lastupdate = "GMT +1: 08.03.2023 18:11:32"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -11282,3 +11282,5 @@ addscriptexist(286090429, "Arsenal: Silent Aim, Aimbot, ESP", "pulled from rbxsc
 addscriptexist(2788229376, "Da Hood: Auto Stomp, Cash Aura, Teleports", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Da%20Hood%20Auto%20Stomp%20Cash%20Aura%20Teleports.lua")
 
 addscriptexist(5956785391, "Project Slayers: Autofarm, Teleports, KillAura", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Project%20Slayers%20Autofarm%20Teleports%20KillAura.lua")
+
+addscriptexist(7462526249, "NIKELAND: Get All ghosts", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NIKELAND%20Get%20All%20ghosts.lua")
