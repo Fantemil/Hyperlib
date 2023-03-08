@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 21:21:59"
+lastupdate = "GMT +1: 08.03.2023 21:22:03"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -15074,3 +15074,5 @@ addscript(6802248248, "Current Game","SAITAMANIA [Auto Spin, Rebirth]", "pulled 
 addscript(260606376, "Current Game","Realistic Roleplay 2 [Auto Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Realistic%20Roleplay%20%20Auto%20Farm.lua")
 
 addscript(7941853407, "Current Game","Squishmallow [Auto Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Squishmallow%20Auto%20Farm.lua")
+
+addscript(10315830663, "Current Game","Cant Say The Letter [Inf Time]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Cant%20Say%20The%20Letter%20Inf%20Time.lua")
