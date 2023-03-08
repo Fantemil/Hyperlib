@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 16:52:06"
+lastupdate = "GMT +1: 08.03.2023 16:52:10"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -9272,3 +9272,5 @@ addscript(9486506804, "Current Game","FIFA World: Endless amount of Money", "pul
 addscriptexist(11459646568, "How Far Can You Backflip: Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/How%20Far%20Can%20You%20Backflip%20Auto%20Farm.lua")
 
 addscriptexist(9281034297, "Goal Kick Simulator: Auto Hatch, Auto Upgrade, Auto Rebirth", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Goal%20Kick%20Simulator%20Auto%20Hatch%20Auto%20Upgrade%20Auto%20Rebirth.lua")
+
+addscript(10631384212, "Current Game","Treasure Hunt Islands: Auto Mine, Auto Chest, Auto Sell", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Treasure%20Hunt%20Islands%20Auto%20Mine%20Auto%20Chest%20Auto%20Sell.lua")
