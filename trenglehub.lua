@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 16:40:20"
+lastupdate = "GMT +1: 08.03.2023 16:40:24"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -8988,3 +8988,5 @@ addscriptexist(4872321990, "Islands: God Mode", "pulled from rbxscript.com", "ht
 addscriptexist(893973440, "Flee The Facility: Get Hammer Without", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Flee%20The%20Facility%20Get%20Hammer%20Without.lua")
 
 addscript(10260193230, "Current Game","Meme Sea: Fruit Teleport", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Meme%20Sea%20Fruit%20Teleport.lua")
+
+addscriptexist(8054462345, "Michaels Zombies: Zombie Esp", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Michaels%20Zombies%20Zombie%20Esp.lua")
