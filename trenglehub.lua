@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 16:58:20"
+lastupdate = "GMT +1: 08.03.2023 16:58:24"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -9434,3 +9434,5 @@ addscriptexist(9848789324, "Ragdoll Engine: Crash, Super Fling & More", "pulled 
 addscript(10758111998, "Current Game","2019 Booga Booga [REBORN]: Cheaters Hub", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/%20Booga%20Booga%20REBORN%20Cheaters%20Hub.lua")
 
 addscript(166986752, "Current Game","Plane Crazy: Printing", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Plane%20Crazy%20Printing.lua")
+
+addscriptexist(9055015233, "My Hood: Instant Crash Server", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/My%20Hood%20Instant%20Crash%20Server.lua")
