@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SoyElPekka/RobloxHub/main/Find%20The%20Simpsons%20Gui%22,true))()
