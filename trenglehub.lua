@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 19:52:05"
+lastupdate = "GMT +1: 08.03.2023 19:52:10"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -13238,3 +13238,5 @@ addscriptexist(8737602449, "PLS DONATE | Auto ThankYou, Server Hop, AutoSpam", "
 addscriptexist(2753915549, "Blox Fruits | GUI - Auto Farm, Redeem All Codes & More!", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blox%20Fruits%20%20GUI%20%20Auto%20Farm%20Redeem%20All%20Codes%20%20More.lua")
 
 addscriptexist(9524757503, "iHeartLand: Music Tycoon | Instantly complete", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/iHeartLand%20Music%20Tycoon%20%20Instantly%20complete.lua")
+
+addscriptexist(2753915549, "Blox Fruits | GUI - Auto Level Farm, Stack Mobs & More!", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blox%20Fruits%20%20GUI%20%20Auto%20Level%20Farm%20Stack%20Mobs%20%20More.lua")
