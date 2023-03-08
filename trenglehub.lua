@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 07:00:17"
+lastupdate = "GMT +1: 08.03.2023 07:00:20"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -5316,3 +5316,5 @@ addscriptexist(286090429, "Theif Simulator: Auto Farm, Auto Buy, Auto Claim Rewa
 addscriptuniversal("Universal FE Headless, Korblox & Faces", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20FE%20Headless%20Korblox%20%20Faces.lua")
 
 addscriptexist(7180042682, "Military Tycoon: Auto Farm, Speed, Multiplayer", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Military%20Tycoon%20Auto%20Farm%20Speed%20Multiplayer.lua")
+
+addscript(9993529229, "Current Game","Counter Blox: Remastered: Open Infinity Cases", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Counter%20Blox%20Remastered%20Open%20Infinity%20Cases.lua")
