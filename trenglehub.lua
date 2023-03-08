@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 14:27:37"
+lastupdate = "GMT +1: 08.03.2023 14:27:43"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -7528,3 +7528,5 @@ addscriptexist(537413528, "Build A Boat For Treasure: Auto Farm, Walkspeed & Jum
 addscriptexist(6741970382, "Zombie lab: Get Cure, Infinity Ammo, Remove Doors", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Zombie%20lab%20Get%20Cure%20Infinity%20Ammo%20Remove%20Doors.lua")
 
 addscript(2950277844, "Current Game","The Chill Elevator: Infinity Chill Coins", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/The%20Chill%20Elevator%20Infinity%20Chill%20Coins.lua")
+
+addscriptexist(8726743209, "Refinery Caves: Purple Tree Finder with Serverhop", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Refinery%20Caves%20Purple%20Tree%20Finder%20with%20Serverhop.lua")
