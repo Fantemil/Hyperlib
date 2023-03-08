@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 14:55:30"
+lastupdate = "GMT +1: 08.03.2023 14:55:34"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -8264,3 +8264,5 @@ addscriptexist(2753915549, "Blox Fruits: Chests Auto Farm", "pulled from rbxscri
 addscript(417267366, "Current Game","Dollhouse Roleplay: Chat Bypasses", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Dollhouse%20Roleplay%20Chat%20Bypasses.lua")
 
 addscript(6679274937, "Current Game","Vans World: Get 3 UGC Items", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Vans%20World%20Get%20%20UGC%20Items.lua")
+
+addscriptexist(6938803436, "Anime Dimensions: Hide Name, Auto Retry, Auto Join", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime%20Dimensions%20Hide%20Name%20Auto%20Retry%20Auto%20Join.lua")
