@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 18:07:28"
+lastupdate = "GMT +1: 08.03.2023 18:07:33"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -11184,3 +11184,5 @@ addscriptexist(537413528, "Build A Boat For Treasure: Auto Farm, Teleports, Serv
 addscriptexist(8077862388, "The W: Silent Aim, Auto Kill, Show Beam", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/The%20W%20Silent%20Aim%20Auto%20Kill%20Show%20Beam.lua")
 
 addscript(8596797381, "Current Game","Northside Chicago: Infinity Stamina, Gun Spawners, GunMods", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Northside%20Chicago%20Infinity%20Stamina%20Gun%20Spawners%20GunMods.lua")
+
+addscript(6269446951, "Current Game","Smooth Slicing: Kill Aura", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Smooth%20Slicing%20Kill%20Aura.lua")
