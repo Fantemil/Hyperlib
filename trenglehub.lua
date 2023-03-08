@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 07:00:47"
+lastupdate = "GMT +1: 08.03.2023 07:00:51"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -5332,3 +5332,5 @@ addscript(510411669, "Current Game","Fantastic Frontier: Fly, Teleports, Kill Au
 addscript(4058282580, "Current Game","Boxing Simulator: Farm Coins, Farm Strentgh, Walkspeed", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Boxing%20Simulator%20Farm%20Coins%20Farm%20Strentgh%20Walkspeed.lua")
 
 addscriptexist(855499080, "SKYWARS: ESP, Silent Aim, Auto Collect Coins", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SKYWARS%20ESP%20Silent%20Aim%20Auto%20Collect%20Coins.lua")
+
+addscriptexist(2317712696, "The Wild West: Silent Aim, Gun Mods, ESP", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/The%20Wild%20West%20Silent%20Aim%20Gun%20Mods%20ESP.lua")
