@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 15:01:36"
+lastupdate = "GMT +1: 08.03.2023 15:01:40"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -8432,3 +8432,5 @@ addscriptexist(920587237, "Adopt Me: Ping, Date, Fps", "pulled from rbxscript.co
 addscriptexist(8737602449, "PLS DONATE: Text Upd, Colorpicker, Auto Thanks", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PLS%20DONATE%20Text%20Upd%20Colorpicker%20Auto%20Thanks.lua")
 
 addscriptexist(10456811278, "Milk Tycoon: Auto Farm, Auto Collect, Auto Sell", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Milk%20Tycoon%20Auto%20Farm%20Auto%20Collect%20Auto%20Sell.lua")
+
+addscript(4591043103, "Current Game","Marble Rider Star Quest: Auto click stars", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Marble%20Rider%20Star%20Quest%20Auto%20click%20stars.lua")
