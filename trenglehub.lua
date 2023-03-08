@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 15:02:26"
+lastupdate = "GMT +1: 08.03.2023 15:02:31"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -8454,3 +8454,5 @@ addscript(9096377689, "Current Game","Killstreak Sword Fighting Beta: Close Serv
 addscript(9729943388, "Current Game","Making Scam Calls To Save Your Best Friend Tycoon: Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Making%20Scam%20Calls%20To%20Save%20Your%20Best%20Friend%20Tycoon%20Auto%20Farm.lua")
 
 addscriptexist(270499015, "Sandhurst Military Academy: Spam Shoot", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sandhurst%20Military%20Academy%20Spam%20Shoot.lua")
+
+addscript(3057050847, "Current Game","Site-76 Prison Anomalies: Check For Staff, Auto Escape Farm, Money & Exp", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Site%20Prison%20Anomalies%20Check%20For%20Staff%20Auto%20Escape%20Farm%20Money%20%20Exp.lua")
