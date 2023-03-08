@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 21:04:20"
+lastupdate = "GMT +1: 08.03.2023 21:04:25"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -14826,3 +14826,5 @@ addscriptexist(8750997647, "Tapping Legends X [AutoTap, AutoRebirth, Autoclicker
 addscriptexist(10321372166, "Pet Simulator X [Auto Farm, Auto open Pets, Auto Golden pets]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pet%20Simulator%20X%20Auto%20Farm%20Auto%20open%20Pets%20Auto%20Golden%20pets.lua")
 
 addscriptexist(445664957, "Parkour [Esp Types]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Parkour%20Esp%20Types.lua")
+
+addscriptexist(9840387028, "Era of Althea [Auto Mobs, Walkspeed]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Era%20of%20Althea%20Auto%20Mobs%20Walkspeed.lua")
