@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 15:16:29"
+lastupdate = "GMT +1: 08.03.2023 15:16:33"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -8828,3 +8828,5 @@ addscript(10906235788, "Current Game","Crocs World Minigames: Free UGC item", "p
 addscriptexist(2317712696, "The Wild West: No Spread, Fullbright & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/The%20Wild%20West%20No%20Spread%20Fullbright%20%20More.lua")
 
 addscriptexist(623694595, "Phenom: Aimbot", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Phenom%20Aimbot.lua")
+
+addscriptexist(6494429951, "Hoop Session: Silent Aim", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Hoop%20Session%20Silent%20Aim.lua")
