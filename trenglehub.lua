@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 13:09:11"
+lastupdate = "GMT +1: 08.03.2023 13:09:15"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -7166,3 +7166,5 @@ addscriptexist(2788229376, "Da Hood: Hitboxes, Keybinds, FOV", "pulled from rbxs
 addscriptexist(2753915549, "Blox Fruits: Auto Farm Money", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blox%20Fruits%20Auto%20Farm%20Money.lua")
 
 addscript(11374030763, "Current Game","Strongest Tapper Simulator: Auto Taps", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Strongest%20Tapper%20Simulator%20Auto%20Taps.lua")
+
+addscript(1379818574, "Current Game","Push Oofs Off Skyscrapers: Teleport to Vip Deaths, Teleport to 300 oofs required", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Push%20Oofs%20Off%20Skyscrapers%20Teleport%20to%20Vip%20Deaths%20Teleport%20to%20%20oofs%20required.lua")
