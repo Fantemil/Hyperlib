@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 13:12:24"
+lastupdate = "GMT +1: 08.03.2023 13:12:29"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -7248,3 +7248,5 @@ addscriptuniversal("Universal Start Auto Time, Spoof Autotime, Stop autotime rej
 addscript(1467230998, "Current Game","TROOP LIFE: Anti Ban, Kill All, Get Gun", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TROOP%20LIFE%20Anti%20Ban%20Kill%20All%20Get%20Gun.lua")
 
 addscript(11177482306, "Current Game","Streetz War 2: Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Streetz%20War%20%20Auto%20Farm.lua")
+
+addscriptexist(6679968919, "Fly Race: Auto Laps, Auto Orbs, Auto Rebirth", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Fly%20Race%20Auto%20Laps%20Auto%20Orbs%20Auto%20Rebirth.lua")
