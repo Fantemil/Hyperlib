@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://raw.githubusercontent.com/NightMoon1/MoonV2/main/moon'))()
