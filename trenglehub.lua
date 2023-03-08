@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 16:47:52"
+lastupdate = "GMT +1: 08.03.2023 16:47:57"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -9166,3 +9166,5 @@ addscriptexist(9787091365, "Ninja Storm Simulator: Auto Farm, Auto Abilities", "
 addscriptexist(5740246170, "Tower Simulator: Build Bricks, Buy Left and Right Upgrades", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tower%20Simulator%20Build%20Bricks%20Buy%20Left%20and%20Right%20Upgrades.lua")
 
 addscriptexist(6284583030, "Pet Simulator X: Auto Farm For All Areas, Auto Enchant Pets & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pet%20Simulator%20X%20Auto%20Farm%20For%20All%20Areas%20Auto%20Enchant%20Pets%20%20More.lua")
+
+addscriptexist(292439477, "Phantom Forces: Radar Hack", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Phantom%20Forces%20Radar%20Hack.lua")
