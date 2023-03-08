@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 17:07:03"
+lastupdate = "GMT +1: 08.03.2023 17:07:09"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -9652,3 +9652,5 @@ addscriptexist(9872472334, "Evade: Inf Jumps, Auto Respawn, Respawn", "pulled fr
 addscript(10211547957, "Current Game","Bread Factory Tycoon: Infinite Money - X2 Money & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Bread%20Factory%20Tycoon%20Infinite%20Money%20%20X%20Money%20%20More.lua")
 
 addscript(5802642341, "Current Game","City Life: Player ESP, Spawn Car In Police Station, Hip Height", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/City%20Life%20Player%20ESP%20Spawn%20Car%20In%20Police%20Station%20Hip%20Height.lua")
+
+addscriptuniversal("Universal Aimbot & ESP", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Aimbot%20%20ESP.lua")
