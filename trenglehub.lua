@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 07:16:07"
+lastupdate = "GMT +1: 08.03.2023 07:16:11"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -5798,3 +5798,5 @@ addscriptexist(9598746251, "Home Run Simulator: Auto Farm, Auto Upgrade, Auto Re
 addscriptuniversal("Universal Minecraft Keystrokes", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Minecraft%20Keystrokes.lua")
 
 addscriptexist(8737602449, "PLS DONATE: Legit Mode, Webhooks, Auto Thank", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PLS%20DONATE%20Legit%20Mode%20Webhooks%20Auto%20Thank.lua")
+
+addscript(9744954014, "Current Game","Tha Hood: Godmode, Inf Ammo, Fake Money", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tha%20Hood%20Godmode%20Inf%20Ammo%20Fake%20Money.lua")
