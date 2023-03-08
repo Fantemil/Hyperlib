@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 14:34:22"
+lastupdate = "GMT +1: 08.03.2023 14:34:26"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -7698,3 +7698,5 @@ addscriptexist(3101667897, "Legends Of Speed: Auto Take Red Orbs", "pulled from 
 addscriptexist(9601565001, "Car Crash System: Spawn any paid car, Telekinesis, Trolling", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Car%20Crash%20System%20Spawn%20any%20paid%20car%20Telekinesis%20Trolling.lua")
 
 addscriptuniversal("Universal Float Keyboard", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Float%20Keyboard.lua")
+
+addscriptexist(6191637341, "Weapon Simulator 2: Bring All Candies", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Weapon%20Simulator%20%20Bring%20All%20Candies.lua")
