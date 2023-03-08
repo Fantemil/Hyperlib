@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 20:15:07"
+lastupdate = "GMT +1: 08.03.2023 20:15:11"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -13576,3 +13576,5 @@ addscriptexist(9417197334, "Anime Story | Auto Farm - Auto Quest", "pulled from 
 addscriptexist(6229116934, "Hoopz | GUI - Aimbot, Silent Aim", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Hoopz%20%20GUI%20%20Aimbot%20Silent%20Aim.lua")
 
 addscriptexist(2788229376, "Da Hood | GUI - AimLock, Silent Aim & More!", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Da%20Hood%20%20GUI%20%20AimLock%20Silent%20Aim%20%20More.lua")
+
+addscriptexist(8482451541, "Brick Defense | Auto Adds Towers When Released", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Brick%20Defense%20%20Auto%20Adds%20Towers%20When%20Released.lua")
