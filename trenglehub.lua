@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 20:30:07"
+lastupdate = "GMT +1: 08.03.2023 20:30:11"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -13972,3 +13972,5 @@ addscript(10819593230, "Current Game","SLICE PVP [Inf Healt, Spam Balls]", "pull
 addscriptexist(2809202155, "Your Bizarre Adventure [ClickTp, SuperSpeed]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Your%20Bizarre%20Adventure%20ClickTp%20SuperSpeed.lua")
 
 addscriptexist(286090429, "Arsenal [Fly, Aimbot]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Arsenal%20Fly%20Aimbot.lua")
+
+addscriptexist(2727067538, "World // Zero [AutoFarm, Walkspeed]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/World%20%20Zero%20AutoFarm%20Walkspeed.lua")
