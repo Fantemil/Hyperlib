@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 21:03:25"
+lastupdate = "GMT +1: 08.03.2023 21:03:30"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -14804,3 +14804,5 @@ addscriptexist(5780309044, "Stands Awakening [Auto farm stands, Instantly change
 addscriptexist(3432786397, "Pet Mining Simulator [Btools, Kill]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pet%20Mining%20Simulator%20Btools%20Kill.lua")
 
 addscriptuniversal("Roblox [Universal Aim Esp]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Roblox%20Universal%20Aim%20Esp.lua")
+
+addscriptexist(9551640993, "Mining Simulator 2 [Auto Mine, Auto Rebirth, Redeem All Codes]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mining%20Simulator%20%20Auto%20Mine%20Auto%20Rebirth%20Redeem%20All%20Codes.lua")
