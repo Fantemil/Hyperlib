@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 12:59:49"
+lastupdate = "GMT +1: 08.03.2023 12:59:53"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -6922,3 +6922,5 @@ addscriptexist(7239319209, "Ohio: Bank Valt Teleporter", "pulled from rbxscript.
 addscriptexist(8554378337, "Weapon Fighting Simulator: Auto Boss, Auto Gumble, Auto Collect", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Weapon%20Fighting%20Simulator%20Auto%20Boss%20Auto%20Gumble%20Auto%20Collect.lua")
 
 addscriptexist(5865858426, "Retail Tycoon 2: Christmas Event AutoFarm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Retail%20Tycoon%20%20Christmas%20Event%20AutoFarm.lua")
+
+addscriptexist(5956785391, "Project Slayers: Auto Farm Dungeons", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Project%20Slayers%20Auto%20Farm%20Dungeons.lua")
