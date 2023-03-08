@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 18:43:04"
+lastupdate = "GMT +1: 08.03.2023 18:43:10"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -11978,3 +11978,5 @@ addscriptexist(142823291, "Murder Mystery 2: Kill All, Gravity, Walkspeed Bypass
 addscriptexist(292439477, "Phantom Forces: XRay, No Recoil & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Phantom%20Forces%20XRay%20No%20Recoil%20%20More.lua")
 
 addscriptexist(648362523, "Breaking point: Brightness or Fullbright, No Light, Spam Knife", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Breaking%20point%20Brightness%20or%20Fullbright%20No%20Light%20Spam%20Knife.lua")
+
+addscriptexist(5827078246, "Coins Hero Simulator: Auto Farm, Auto Buy, Auto Eggs", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Coins%20Hero%20Simulator%20Auto%20Farm%20Auto%20Buy%20Auto%20Eggs.lua")
