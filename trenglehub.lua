@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 17:03:28"
+lastupdate = "GMT +1: 08.03.2023 17:03:32"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -9564,3 +9564,5 @@ addscriptexist(10347946161, "Rat Washing Tycoon: Auto Wash, Options, Auto Collec
 addscriptexist(10041108328, "Dark Life: Godmode", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Dark%20Life%20Godmode.lua")
 
 addhub("EnergyHub: 2 Games", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/EnergyHub%20%20Games.lua")
+
+addscriptexist(9832066570, "Tower Battles Defensive Holds: Head Hitbox Expander", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tower%20Battles%20Defensive%20Holds%20Head%20Hitbox%20Expander.lua")
