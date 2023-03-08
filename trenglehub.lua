@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 13:09:45"
+lastupdate = "GMT +1: 08.03.2023 13:09:49"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -7180,3 +7180,5 @@ addscriptexist(3177438863, "Dragon Blox: Auto Strenght Farm, Auto Get Drop, Auto
 addscriptexist(6804602922, "BOXING: Auto Block", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BOXING%20Auto%20Block.lua")
 
 addscript(1547610457, "Current Game","Free Draw: Big Black Square", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Free%20Draw%20Big%20Black%20Square.lua")
+
+addscriptexist(2753915549, "Blox Fruits: Level Up Detector", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blox%20Fruits%20Level%20Up%20Detector.lua")
