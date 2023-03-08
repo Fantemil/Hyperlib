@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 20:30:42"
+lastupdate = "GMT +1: 08.03.2023 20:30:46"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -13986,3 +13986,5 @@ addscriptexist(10676523834, "Racing Rocket [Click Power]", "pulled from rbxscrip
 addscriptexist(9807416796, "De Hood [Fast Buy, AutoStomp]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/De%20Hood%20Fast%20Buy%20AutoStomp.lua")
 
 addscriptexist(9431770682, "Lost Rooms [Collect Materials]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Lost%20Rooms%20Collect%20Materials.lua")
+
+addscriptexist(5505830188, "Arcane Oblivion RPG [30QnD Damage Weapon]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Arcane%20Oblivion%20RPG%20QnD%20Damage%20Weapon.lua")
