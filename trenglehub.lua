@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 18:24:10"
+lastupdate = "GMT +1: 08.03.2023 18:24:17"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -11594,3 +11594,5 @@ addscriptexist(10758111998, "2019 Booga Booga [REBORN]: Auto Farm", "pulled from
 addscriptexist(8726743209, "Refinery Caves: Purple Tree Esp", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Refinery%20Caves%20Purple%20Tree%20Esp.lua")
 
 addscript(4036494886, "Current Game","Gun Simulator: Infinite Money, Stars & All Pets", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Gun%20Simulator%20Infinite%20Money%20Stars%20%20All%20Pets.lua")
+
+addscriptexist(10710676163, "SPTS Origin: Auto Farm, Kill All, Auto Death Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SPTS%20Origin%20Auto%20Farm%20Kill%20All%20Auto%20Death%20Farm.lua")
