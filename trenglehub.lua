@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 20:42:44"
+lastupdate = "GMT +1: 08.03.2023 20:42:51"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -14296,3 +14296,5 @@ addscriptexist(2537430692, "Jenga [Win, Remove KillBrick]", "pulled from rbxscri
 addscriptuniversal("Roblox Universal Script [Gun Modifier]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Roblox%20Universal%20Script%20Gun%20Modifier.lua")
 
 addscript(5326405001, "Current Game","Base Battles (Fixed) [Silent Aim, Esp]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Base%20Battles%20Fixed%20Silent%20Aim%20Esp.lua")
+
+addscript(6452292184, "Current Game","Speed Runner! [AutoFarm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Speed%20Runner%20AutoFarm.lua")
