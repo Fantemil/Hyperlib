@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 12:47:14"
+lastupdate = "GMT +1: 08.03.2023 12:47:17"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -6610,3 +6610,5 @@ addscriptexist(9541558008, "Untitled Fps Game: Infinite Ammo", "pulled from rbxs
 addscript(7714627632, "Current Game","Winds Of Fortune: Teleport To All Maps", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Winds%20Of%20Fortune%20Teleport%20To%20All%20Maps.lua")
 
 addscriptexist(338574920, "Wings Of Glory: Ai Autoplay", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Wings%20Of%20Glory%20Ai%20Autoplay.lua")
+
+addscriptexist(4723618670, "Wisteria: Trinket Farm, Open Source", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Wisteria%20Trinket%20Farm%20Open%20Source.lua")
