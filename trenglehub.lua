@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 06:50:54"
+lastupdate = "GMT +1: 08.03.2023 06:50:59"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -5030,3 +5030,5 @@ addscriptexist(3527629287, "Big Paintball! Rapid Fire, One Shot, ESP", "pulled f
 addscriptuniversal("Universal GUI: Speed, Gravity", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20GUI%20Speed%20Gravity.lua")
 
 addscriptexist(11884594868, "Anime Defense Simulator: Auto Attack, Teleport, Float", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime%20Defense%20Simulator%20Auto%20Attack%20Teleport%20Float.lua")
+
+addscriptuniversal("Iicrrbii: Universal GUI", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Iicrrbii%20Universal%20GUI.lua")
