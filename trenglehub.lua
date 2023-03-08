@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 17:22:34"
+lastupdate = "GMT +1: 08.03.2023 17:22:38"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -10052,3 +10052,5 @@ addscriptexist(2546155523, "RoVille [Halloween!]: Op Fossil Farm", "pulled from 
 addscriptexist(6939111033, "Escape Papa Pizza's Pizzeria: Give tools", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Escape%20Papa%20Pizzas%20Pizzeria%20Give%20tools.lua")
 
 addscriptexist(6516141723, "DOORS: Auto Complete, Anti Jumpscares, ESP Chams", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DOORS%20Auto%20Complete%20Anti%20Jumpscares%20ESP%20Chams.lua")
+
+addscriptexist(2753915549, "Blox Fruits: Aimbot, Auto Stats & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blox%20Fruits%20Aimbot%20Auto%20Stats%20%20More.lua")
