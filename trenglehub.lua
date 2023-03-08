@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 19:56:51"
+lastupdate = "GMT +1: 08.03.2023 19:56:56"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -13338,3 +13338,5 @@ addscriptexist(10192063645, "Thy Hood | Tool Collector", "pulled from rbxscript.
 addscriptuniversal("Universal Cool Character", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Cool%20Character.lua")
 
 addscriptuniversal("Universal FE Ruin EX", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20FE%20Ruin%20EX.lua")
+
+addscriptexist(5956785391, "Project Slayers | Stun Effect Server Breaker", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Project%20Slayers%20%20Stun%20Effect%20Server%20Breaker.lua")
