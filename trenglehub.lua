@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 18:23:42"
+lastupdate = "GMT +1: 08.03.2023 18:23:47"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -11584,3 +11584,5 @@ addscriptexist(9571238478, "Raise a Peter: Collect Money", "pulled from rbxscrip
 addscriptexist(4991214437, "town: FullBright, Noclip, Walkspeed", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/town%20FullBright%20Noclip%20Walkspeed.lua")
 
 addscript(10181361874, "Current Game","Death Academy Online: Crash Server, Kill Aura, Add Weapon Spins", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Death%20Academy%20Online%20Crash%20Server%20Kill%20Aura%20Add%20Weapon%20Spins.lua")
+
+addscriptuniversal("Universal Anti Discord Autojoin", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Anti%20Discord%20Autojoin.lua")
