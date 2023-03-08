@@ -1,0 +1,1 @@
+game:GetService("ReplicatedStorage").Document.Remote.Stats:FireServer("MaxExp", "restats")
