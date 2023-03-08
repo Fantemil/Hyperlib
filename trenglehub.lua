@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 13:07:09"
+lastupdate = "GMT +1: 08.03.2023 13:07:12"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -7110,3 +7110,5 @@ addscriptexist(4566572536, "Vehicle Legends: Auto Highway Race, Auto Circuit Rac
 addscriptexist(8054462345, "Michael's Zombies: No spread", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Michaels%20Zombies%20No%20spread.lua")
 
 addscriptexist(920587237, "Adopt Me: Pet Farm & More!", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Adopt%20Me%20Pet%20Farm%20%20More.lua")
+
+addscriptexist(920587237, "Adopt Me: Shnigel Utils", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Adopt%20Me%20Shnigel%20Utils.lua")
