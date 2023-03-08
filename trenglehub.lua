@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 17:31:42"
+lastupdate = "GMT +1: 08.03.2023 17:31:47"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -10288,3 +10288,5 @@ addscriptexist(155615604, "Prison Life: Teleports, Arrest Yourself & More", "pul
 addscriptexist(9993529229, "Counter Blox Remastered: Kill All, Aimbot, Silent Aim", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Counter%20Blox%20Remastered%20Kill%20All%20Aimbot%20Silent%20Aim.lua")
 
 addscriptexist(4188447592, "Cat Simulator: Auto Claw, Auto Sell & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Cat%20Simulator%20Auto%20Claw%20Auto%20Sell%20%20More.lua")
+
+addscriptexist(2809202155, "Your Bizarre Adventure: Shiny Auto Farm, Server Hop", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Your%20Bizarre%20Adventure%20Shiny%20Auto%20Farm%20Server%20Hop.lua")
