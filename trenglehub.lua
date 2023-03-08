@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 13:18:32"
+lastupdate = "GMT +1: 08.03.2023 13:18:37"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -7404,3 +7404,5 @@ addscriptexist(142823291, "Murder Mystery 2: Teambased Chams", "pulled from rbxs
 addscriptexist(3177438863, "Dragon Blox: Steal Loot, Always Hit, Auto Quests", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Dragon%20Blox%20Steal%20Loot%20Always%20Hit%20Auto%20Quests.lua")
 
 addscriptexist(7305309231, "Taxi Boss: Auto Open Presents", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Taxi%20Boss%20Auto%20Open%20Presents.lua")
+
+addscriptuniversal("Universal Unic Gui", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Unic%20Gui.lua")
