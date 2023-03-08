@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 19:06:57"
+lastupdate = "GMT +1: 08.03.2023 19:07:06"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -12482,3 +12482,5 @@ addscriptexist(2185497593, "Arcade Island X Working Arcade: Auto Chip, Auto Doge
 addscriptexist(2248408710, "Destruction Simulator: Infinite Coins", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Destruction%20Simulator%20Infinite%20Coins.lua")
 
 addscript(6569721593, "Current Game","Clapper Clicker: Auto Rebirth, Auto Farm, Auto Egg", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Clapper%20Clicker%20Auto%20Rebirth%20Auto%20Farm%20Auto%20Egg.lua")
+
+addscriptexist(5956785391, "Project Slayers: Infinite Spins", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Project%20Slayers%20Infinite%20Spins.lua")
