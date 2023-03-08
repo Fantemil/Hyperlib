@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 20:38:46"
+lastupdate = "GMT +1: 08.03.2023 20:38:51"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -14198,3 +14198,5 @@ addscriptexist(1537690962, "Bee Swarm Simulator [Autofarm, Auto dig, Auto conver
 addscriptexist(7714627632, "Winds of Fortune [AutoFarm, Esp]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Winds%20of%20Fortune%20AutoFarm%20Esp.lua")
 
 addscriptexist(7056922815, "Reaper 2 [Auto Fam, Auto Quest, Auto Skills]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Reaper%20%20Auto%20Fam%20Auto%20Quest%20Auto%20Skills.lua")
+
+addscriptexist(2537430692, "Jenga [NoKillBrick, FLy]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Jenga%20NoKillBrick%20FLy.lua")
