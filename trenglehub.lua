@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 21:17:25"
+lastupdate = "GMT +1: 08.03.2023 21:17:29"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -14958,3 +14958,5 @@ addscriptexist(391104146, "Let's Party∞ +Gear Testing Edition [Noclip,Fly]", "
 addscriptexist(10184360875, "Pet&Fishing Simulator [Inf Money]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PetFishing%20Simulator%20Inf%20Money.lua")
 
 addscriptexist(2039118386, "Neighborhood war [Anti Ragdoll, No fall dmg]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Neighborhood%20war%20Anti%20Ragdoll%20No%20fall%20dmg.lua")
+
+addscriptexist(10524502174, "One Punch Fighters [AutoFarm, AutoRank]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/One%20Punch%20Fighters%20AutoFarm%20AutoRank.lua")
