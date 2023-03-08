@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 06:50:32"
+lastupdate = "GMT +1: 08.03.2023 06:50:35"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -5020,3 +5020,5 @@ addscriptexist(7791873535, "REALISTIC HOOD: No Recoil, Teleports & More", "pulle
 addscriptexist(2753915549, "Blox Fruits: Max Stats", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blox%20Fruits%20Max%20Stats.lua")
 
 addscriptexist(10821317529, "Pickaxe Mining Simulator: Auto Mine, Auto Collect Drops & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pickaxe%20Mining%20Simulator%20Auto%20Mine%20Auto%20Collect%20Drops%20%20More.lua")
+
+addscriptexist(10462101644, "Tall Man Run: Kick all, Destroy Server", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tall%20Man%20Run%20Kick%20all%20Destroy%20Server.lua")
