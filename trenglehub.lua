@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 17:56:01"
+lastupdate = "GMT +1: 08.03.2023 17:56:06"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -10894,3 +10894,5 @@ addscript(5108587039, "Current Game","Palm Ridge Beta: Auto Farm Race, Click TP,
 addscript(10447678365, "Current Game","Dinosaur Simulator: Teleports, Kill Aura, Walkspeed", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Dinosaur%20Simulator%20Teleports%20Kill%20Aura%20Walkspeed.lua")
 
 addscriptexist(4490140733, "My Restaurant: Infinite Exp, Auto Complete Goal 1 and 5 & More!", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/My%20Restaurant%20Infinite%20Exp%20Auto%20Complete%20Goal%20%20and%20%20%20More.lua")
+
+addscriptexist(10723695195, "Anime Evolution Simulator: Auto Eggs, Kill Aura, Auto Collect Coins", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime%20Evolution%20Simulator%20Auto%20Eggs%20Kill%20Aura%20Auto%20Collect%20Coins.lua")
