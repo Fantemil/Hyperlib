@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 19:26:12"
+lastupdate = "GMT +1: 08.03.2023 19:26:16"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -12892,3 +12892,5 @@ addscriptexist(1487722208, "Barren: Simple Esp", "pulled from rbxscript.com", "h
 addscriptexist(9524757503, "iHeartLand: Music Tycoon: Free IItems", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/iHeartLand%20Music%20Tycoon%20Free%20IItems.lua")
 
 addscriptexist(10676523834, "Racing Rocket: Auto Max Power, Auto Farm Stars", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Racing%20Rocket%20Auto%20Max%20Power%20Auto%20Farm%20Stars.lua")
+
+addscriptexist(9264596435, "Idle Heroes Simulator: Auto level, Auto kill", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Idle%20Heroes%20Simulator%20Auto%20level%20Auto%20kill.lua")
