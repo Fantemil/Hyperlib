@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 06:49:54"
+lastupdate = "GMT +1: 08.03.2023 06:49:57"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -5000,3 +5000,5 @@ addscriptexist(891852901, "Greenville: AutoFarm", "pulled from rbxscript.com", "
 addscriptexist(1962086868, "Tower of Hell: Ac bypass, Instant win, Inf jump", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tower%20of%20Hell%20Ac%20bypass%20Instant%20win%20Inf%20jump.lua")
 
 addscriptexist(10875701453, "Edward the Man-Eating Train: ESP, Infinity Damage, Infinity Stamina", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Edward%20the%20ManEating%20Train%20ESP%20Infinity%20Damage%20Infinity%20Stamina.lua")
+
+addhub("ReQiuYTPL Hub: 2 Games", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ReQiuYTPL%20Hub%20%20Games.lua")
