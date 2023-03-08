@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 20:33:10"
+lastupdate = "GMT +1: 08.03.2023 20:33:14"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -14052,3 +14052,5 @@ addscript(4529536977, "Current Game","Pembroke Pines [Inf Money]", "pulled from 
 addscriptexist(10675066724, "Slime Tower Tycoon [Auto Collect, Auto Sell, Auto Buy]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Slime%20Tower%20Tycoon%20Auto%20Collect%20Auto%20Sell%20Auto%20Buy.lua")
 
 addscriptexist(10675066724, "Slime Tower Tycoon [Auto Deposit, Auto Merge, Auto Buy]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Slime%20Tower%20Tycoon%20Auto%20Deposit%20Auto%20Merge%20Auto%20Buy.lua")
+
+addscript(7952526341, "Current Game","Draw Drawings and turn it 3D and play around [Crash Server]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Draw%20Drawings%20and%20turn%20it%20D%20and%20play%20around%20Crash%20Server.lua")
