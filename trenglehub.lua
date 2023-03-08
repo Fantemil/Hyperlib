@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 16:54:46"
+lastupdate = "GMT +1: 08.03.2023 16:54:50"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -9340,3 +9340,5 @@ addscriptexist(286090429, "Arsenal: ESP, Auto Clicker, Infinite Money", "pulled 
 addscriptexist(155615604, "Prison Life: Super Punch, BTools, KillAura", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Prison%20Life%20Super%20Punch%20BTools%20KillAura.lua")
 
 addscriptexist(5956785391, "Project Slayers: Insta Kill Remote - Open Source", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Project%20Slayers%20Insta%20Kill%20Remote%20%20Open%20Source.lua")
+
+addscriptexist(6403373529, "Slap Battles: Say sus and make a vinethud", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Slap%20Battles%20Say%20sus%20and%20make%20a%20vinethud.lua")
