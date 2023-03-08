@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 06:57:35"
+lastupdate = "GMT +1: 08.03.2023 06:57:38"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -5232,3 +5232,5 @@ addscriptexist(2788229376, "Da Hood: Spectate Player, Aim Viewer", "pulled from 
 addscript(6888253864, "Current Game","Wacky Wizards: Walkspeed, Infinity Jump, Finish Obby", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Wacky%20Wizards%20Walkspeed%20Infinity%20Jump%20Finish%20Obby.lua")
 
 addscriptexist(6516141723, "DOORS: Anti Eye", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DOORS%20Anti%20Eye.lua")
+
+addscriptexist(1224212277, "Mad City: Chapter 2 | Walkspeed, Infinity Jump & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mad%20City%20Chapter%20%20%20Walkspeed%20Infinity%20Jump%20%20More.lua")
