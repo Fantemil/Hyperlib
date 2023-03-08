@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SleepyLama/Project-Da-backrooms/main/main.lua"))()
