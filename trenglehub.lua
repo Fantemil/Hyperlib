@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 14:31:42"
+lastupdate = "GMT +1: 08.03.2023 14:31:46"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -7628,3 +7628,5 @@ addscriptexist(3233893879, "Bad Business: Auto Farm", "pulled from rbxscript.com
 addscriptexist(6872265039, "Bedwars: Vape V4", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Bedwars%20Vape%20V.lua")
 
 addscriptexist(6872265039, "Bedwars: Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Bedwars%20Auto%20Farm.lua")
+
+addscriptexist(1537690962, "Bee Swarm Simulator: Auto Farm, Auto Dig, Auto Sprinkler", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Bee%20Swarm%20Simulator%20Auto%20Farm%20Auto%20Dig%20Auto%20Sprinkler.lua")
