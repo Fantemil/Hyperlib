@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 17:26:39"
+lastupdate = "GMT +1: 08.03.2023 17:26:43"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -10158,3 +10158,5 @@ addscriptexist(9848789324, "Ragdoll Engine: R15 FE Invisible Character", "pulled
 addscriptexist(7047488135, "Speed Run Simulator: Fast Auto Collect Orbs, Auto Rebirth, Fast Upgrade", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Speed%20Run%20Simulator%20Fast%20Auto%20Collect%20Orbs%20Auto%20Rebirth%20Fast%20Upgrade.lua")
 
 addscript(6769764667, "Current Game","Factory Simulator: Auto Farm, Auto Store & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Factory%20Simulator%20Auto%20Farm%20Auto%20Store%20%20More.lua")
+
+addscriptexist(11238892040, "Type or Die: Search Bar", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Type%20or%20Die%20Search%20Bar.lua")
