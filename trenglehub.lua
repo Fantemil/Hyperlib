@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 20:41:30"
+lastupdate = "GMT +1: 08.03.2023 20:41:35"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -14266,3 +14266,5 @@ addscriptexist(9285238704, "Race Clicker [Auto Farm Wins]", "pulled from rbxscri
 addscriptexist(10087074695, "Knife Strife! [Dupe Knifes not fixed]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Knife%20Strife%20Dupe%20Knifes%20not%20fixed.lua")
 
 addscriptexist(4951858512, "Victory Race [AutoFarm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Victory%20Race%20AutoFarm.lua")
+
+addscriptexist(3587619225, "Mega Easy Obby [Claim All Badges, Walkspeed]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mega%20Easy%20Obby%20Claim%20All%20Badges%20Walkspeed.lua")
