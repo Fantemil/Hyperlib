@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 06:58:10"
+lastupdate = "GMT +1: 08.03.2023 06:58:16"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -5252,3 +5252,5 @@ addscriptexist(11701792069, "Snow Plow Simulator: Auto Collect Presents", "pulle
 addscript(11523066819, "Current Game","Tower Merge Simulator: Auto Merge, Auto Click", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tower%20Merge%20Simulator%20Auto%20Merge%20Auto%20Click.lua")
 
 addscriptexist(11156779721, "The Survival Game: Kill Aura, Infinite Stamina", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/The%20Survival%20Game%20Kill%20Aura%20Infinite%20Stamina.lua")
+
+addscriptexist(1240123653, "Zombie Attack: Silent Aim, Auto Farm, Speed", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Zombie%20Attack%20Silent%20Aim%20Auto%20Farm%20Speed.lua")
