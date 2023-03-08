@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 14:39:07"
+lastupdate = "GMT +1: 08.03.2023 14:39:11"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -7824,3 +7824,5 @@ addscript(383793228, "Current Game","Adopt and Raise a Baby: Infinity Cash", "pu
 addscriptuniversal("Universal Anti Chat Ban", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Anti%20Chat%20Ban.lua")
 
 addscriptuniversal("Universal roblox universe viewer", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20roblox%20universe%20viewer.lua")
+
+addscript(8508303900, "Current Game","Tower of Flood Escape 2: Auto Open Boxes, Redeem Codes, Bypass Anti-Cheat", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tower%20of%20Flood%20Escape%20%20Auto%20Open%20Boxes%20Redeem%20Codes%20Bypass%20AntiCheat.lua")
