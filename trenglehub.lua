@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 17:58:18"
+lastupdate = "GMT +1: 08.03.2023 17:58:24"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -10956,3 +10956,5 @@ addscriptexist(2753915549, "Blox Fruits: Auto Farm Level, Auto Farm Mastery, Aut
 addscriptexist(8908228901, "SharkBite 2: Kill Aura, Freeze All, Teeth Generator", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SharkBite%20%20Kill%20Aura%20Freeze%20All%20Teeth%20Generator.lua")
 
 addscriptexist(1962086868, "Tower of Hell: Anti Cheat Bypass, Wall Remover", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tower%20of%20Hell%20Anti%20Cheat%20Bypass%20Wall%20Remover.lua")
+
+addscriptexist(9598746251, "Home Run Simulator: Auto Home Run, Auto rebirth, Auto Speed", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Home%20Run%20Simulator%20Auto%20Home%20Run%20Auto%20rebirth%20Auto%20Speed.lua")
