@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 18:10:54"
+lastupdate = "GMT +1: 08.03.2023 18:11:00"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -11270,3 +11270,5 @@ addscriptuniversal("Universal: ESP, Walkspeed, Walk On Walls", "pulled from rbxs
 addscriptexist(8908228901, "SharkBite 2: Kill All", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SharkBite%20%20Kill%20All.lua")
 
 addscriptexist(10889408214, "DEFLECT: Auto Hit", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DEFLECT%20Auto%20Hit.lua")
+
+addscriptexist(137877687, "RoCitizens: Account Generator", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RoCitizens%20Account%20Generator.lua")
