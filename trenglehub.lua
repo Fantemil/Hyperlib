@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 06:44:45"
+lastupdate = "GMT +1: 08.03.2023 06:44:49"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -4838,3 +4838,5 @@ addscriptexist(11800876530, "One Blocks Every Second: Auto Build, Auto Rebirth",
 addscriptexist(1240123653, "Zombie Attack: Silent Aim, Hitbox, Auto Equip", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Zombie%20Attack%20Silent%20Aim%20Hitbox%20Auto%20Equip.lua")
 
 addscriptexist(3956818381, "Ninja Legends: Unlock All Islands, Auto Sell, Auto Buy", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ninja%20Legends%20Unlock%20All%20Islands%20Auto%20Sell%20Auto%20Buy.lua")
+
+addscriptuniversal("Universal Aimbot, ESP", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Aimbot%20ESP.lua")
