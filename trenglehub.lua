@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 17:44:44"
+lastupdate = "GMT +1: 08.03.2023 17:44:48"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -10616,3 +10616,5 @@ addscript(6129557066, "Current Game","UFO Tycoon: Auto Ring, Auto Collect Cash, 
 addscript(6296076147, "Current Game","My Dragon Tycoon: Auto Harvest, Teleports & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/My%20Dragon%20Tycoon%20Auto%20Harvest%20Teleports%20%20More.lua")
 
 addscriptexist(5041144419, "SCP: Roleplay | Increased Headshot Rate", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SCP%20Roleplay%20%20Increased%20Headshot%20Rate.lua")
+
+addscriptexist(221718525, "Ninja Tycoon: Auto Farm, Auto Build, Auto Click", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ninja%20Tycoon%20Auto%20Farm%20Auto%20Build%20Auto%20Click.lua")
