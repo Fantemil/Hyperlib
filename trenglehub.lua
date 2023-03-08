@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 20:41:43"
+lastupdate = "GMT +1: 08.03.2023 20:41:48"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -14272,3 +14272,5 @@ addscriptexist(3587619225, "Mega Easy Obby [Claim All Badges, Walkspeed]", "pull
 addscriptexist(7560156054, "Clicker Simulator [Auto Rebirth, Auto Eggs]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Clicker%20Simulator%20Auto%20Rebirth%20Auto%20Eggs.lua")
 
 addscriptexist(537413528, "Build A Boat For Treasure [AutoFarm, Auto Chests]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Build%20A%20Boat%20For%20Treasure%20AutoFarm%20Auto%20Chests.lua")
+
+addscript(9291030453, "Current Game","The Chainsmokers Concert Experience [GetAllLetters, Walkspeed]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/The%20Chainsmokers%20Concert%20Experience%20GetAllLetters%20Walkspeed.lua")
