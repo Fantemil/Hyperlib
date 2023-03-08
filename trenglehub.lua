@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 17:37:17"
+lastupdate = "GMT +1: 08.03.2023 17:37:24"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -10426,3 +10426,5 @@ addscriptexist(8908228901, "Sharkbite 2: Gui CATWARE", "pulled from rbxscript.co
 addscriptexist(11372561941, "How Far Can You Ragdoll: Auto Collect Coins, Auto Win, Auto Rebirth", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/How%20Far%20Can%20You%20Ragdoll%20Auto%20Collect%20Coins%20Auto%20Win%20Auto%20Rebirth.lua")
 
 addscriptexist(10742364019, "EGOIST: Break Game", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/EGOIST%20Break%20Game.lua")
+
+addscriptexist(9912491609, "How Far Can You Fly: Auto Buy SM, Auto Rebirth, Auto Farm Coins", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/How%20Far%20Can%20You%20Fly%20Auto%20Buy%20SM%20Auto%20Rebirth%20Auto%20Farm%20Coins.lua")
