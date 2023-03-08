@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 18:11:23"
+lastupdate = "GMT +1: 08.03.2023 18:11:27"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -11280,3 +11280,5 @@ addscriptexist(8369888266, "Redcliff City RP: GAmepass, RainBow car, RainBow Ava
 addscriptexist(286090429, "Arsenal: Silent Aim, Aimbot, ESP", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Arsenal%20Silent%20Aim%20Aimbot%20ESP.lua")
 
 addscriptexist(2788229376, "Da Hood: Auto Stomp, Cash Aura, Teleports", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Da%20Hood%20Auto%20Stomp%20Cash%20Aura%20Teleports.lua")
+
+addscriptexist(5956785391, "Project Slayers: Autofarm, Teleports, KillAura", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Project%20Slayers%20Autofarm%20Teleports%20KillAura.lua")
