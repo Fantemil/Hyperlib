@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 20:37:56"
+lastupdate = "GMT +1: 08.03.2023 20:38:03"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -14176,3 +14176,5 @@ addhub("Roblox [Ultimate Hub]", "pulled from rbxscript.com", "https://raw.github
 addscript(6778844213, "Current Game","Euphoria ragdoll testing [Donation Gui]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Euphoria%20ragdoll%20testing%20Donation%20Gui.lua")
 
 addscriptuniversal("Roblox Universal Script [Hitbox, Esp]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Roblox%20Universal%20Script%20Hitbox%20Esp.lua")
+
+addscriptexist(662417684, "LUCKY BLOCKS Battlegrounds. [Fly, Get All Items]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LUCKY%20BLOCKS%20Battlegrounds%20Fly%20Get%20All%20Items.lua")
