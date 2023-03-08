@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 17:32:44"
+lastupdate = "GMT +1: 08.03.2023 17:32:53"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -10314,3 +10314,5 @@ addscriptexist(1962086868, "Tower Of Hell: Godmode, Teleport To Finish, Give All
 addscriptuniversal("Universal RTX Mode, No Lags", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20RTX%20Mode%20No%20Lags.lua")
 
 addscriptexist(443406476, "Project Lazarus: Inf Ammo", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Project%20Lazarus%20Inf%20Ammo.lua")
+
+addscriptexist(7560156054, "Clicker Simulator: Pumpkin Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Clicker%20Simulator%20Pumpkin%20Farm.lua")
