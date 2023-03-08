@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 20:56:12"
+lastupdate = "GMT +1: 08.03.2023 20:56:16"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -14626,3 +14626,5 @@ addscript(6677573193, "Current Game","Axe Champions Simulator [AutoSell, AutoHat
 addscriptexist(9414511685, "Drive Cars Down A Hill! [AutoFarm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Drive%20Cars%20Down%20A%20Hill%20AutoFarm.lua")
 
 addscriptexist(5023820864, "Trade Tower [Auto Click, Auto Upgrade]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Trade%20Tower%20Auto%20Click%20Auto%20Upgrade.lua")
+
+addscriptexist(142823291, "Murder Mystery 2 [Coin Farm, Esp]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Murder%20Mystery%20%20Coin%20Farm%20Esp.lua")
