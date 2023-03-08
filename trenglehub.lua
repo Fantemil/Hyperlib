@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 19:09:42"
+lastupdate = "GMT +1: 08.03.2023 19:09:46"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -12536,3 +12536,5 @@ addscript(4751054607, "Current Game","Sneezing Simulator: Auto Farm, Auto Upgrad
 addscriptexist(8438158667, "Slide House Tumble: Teleport To End, Destroy Ramps, Show Ramps", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Slide%20House%20Tumble%20Teleport%20To%20End%20Destroy%20Ramps%20Show%20Ramps.lua")
 
 addscriptexist(2866967438, "Fishing Simulator: Auto Farm, Auto Kill Shark & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Fishing%20Simulator%20Auto%20Farm%20Auto%20Kill%20Shark%20%20More.lua")
+
+addscriptuniversal("Universal Teleport Bypasser", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Teleport%20Bypasser.lua")
