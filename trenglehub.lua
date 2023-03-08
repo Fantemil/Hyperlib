@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 14:36:36"
+lastupdate = "GMT +1: 08.03.2023 14:36:40"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -7756,3 +7756,5 @@ addscriptexist(11162791099, "Sandbox Hatchers X: inf Money, Auto Buy, TP", "pull
 addscriptexist(2753915549, "Fly Race: Auto Collect, Auto Laps, Auto Rebirth", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Fly%20Race%20Auto%20Collect%20Auto%20Laps%20Auto%20Rebirth.lua")
 
 addscriptuniversal("Universal ESP Tracers", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20ESP%20Tracers.lua")
+
+addscriptuniversal("Universal BTools, Kill, Ragdoll", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20BTools%20Kill%20Ragdoll.lua")
