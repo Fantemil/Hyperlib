@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 20:50:23"
+lastupdate = "GMT +1: 08.03.2023 20:50:27"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -14482,3 +14482,5 @@ addhub("Wheat Hub [Games 41]", "pulled from rbxscript.com", "https://raw.githubu
 addscriptexist(2788229376, "Da Hood [SilentAim]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Da%20Hood%20SilentAim.lua")
 
 addscriptexist(3351674303, "Driving Empire [AutoFarm, AutoDragRace]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Driving%20Empire%20AutoFarm%20AutoDragRace.lua")
+
+addscriptexist(6708206173, "Rate My Avatar [Animations, WalkSpeed, Swears]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Rate%20My%20Avatar%20Animations%20WalkSpeed%20Swears.lua")
