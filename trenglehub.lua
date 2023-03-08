@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 12:57:27"
+lastupdate = "GMT +1: 08.03.2023 12:57:36"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -6862,3 +6862,5 @@ addscriptexist(11040063484, "Sword Fighters Simulator: WalkSpeed, JumpPower, Aut
 addscript(2745661925, "Current Game","Jump Over The Walls: Bring Winning Stands", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Jump%20Over%20The%20Walls%20Bring%20Winning%20Stands.lua")
 
 addscriptexist(11448431235, "Baryon: Auto Farm Beli", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Baryon%20Auto%20Farm%20Beli.lua")
+
+addscriptexist(4616652839, "Shindo Life: Auto Quest, Boss Quest, Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Shindo%20Life%20Auto%20Quest%20Boss%20Quest%20Auto%20Farm.lua")
