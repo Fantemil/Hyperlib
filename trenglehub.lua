@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 19:05:38"
+lastupdate = "GMT +1: 08.03.2023 19:05:42"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -12452,3 +12452,5 @@ addscriptexist(2569453732, "Rise of Nations: Country Dox, Mass Actions, Smart Se
 addscriptexist(3101667897, "Legends Of Speed: Auto Hop, Auto Rebirth, Anti Afk", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Legends%20Of%20Speed%20Auto%20Hop%20Auto%20Rebirth%20Anti%20Afk.lua")
 
 addscriptexist(537413528, "Build A Boat For Treasure: Gold Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Build%20A%20Boat%20For%20Treasure%20Gold%20Auto%20Farm.lua")
+
+addscriptexist(2317712696, "The Wild West: No Recoil, Silent Aim, Esp", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/The%20Wild%20West%20No%20Recoil%20Silent%20Aim%20Esp.lua")
