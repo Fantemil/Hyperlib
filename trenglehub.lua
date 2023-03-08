@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 17:55:05"
+lastupdate = "GMT +1: 08.03.2023 17:55:13"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -10872,3 +10872,5 @@ addscriptuniversal("Universal bypass chat", "pulled from rbxscript.com", "https:
 addscriptexist(6284583030, "Pet Simulator X: Auto Farm, Auto Egg, No Key", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pet%20Simulator%20X%20Auto%20Farm%20Auto%20Egg%20No%20Key.lua")
 
 addscriptexist(155615604, "Prison Life: Arrest All, Supet Punch, Auto GetGuns", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Prison%20Life%20Arrest%20All%20Supet%20Punch%20Auto%20GetGuns.lua")
+
+addscriptexist(4616652839, "Shindo Life: Infinite Rell Coins", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Shindo%20Life%20Infinite%20Rell%20Coins.lua")
