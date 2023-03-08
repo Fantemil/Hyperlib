@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 20:31:59"
+lastupdate = "GMT +1: 08.03.2023 20:32:03"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -14022,3 +14022,5 @@ addscriptexist(8130299583, "Trident Survial [Aimbot, Silent Aim, ESP]", "pulled 
 addscript(8293257677, "Current Game","Surreal RPG [100 damage]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Surreal%20RPG%20%20damage.lua")
 
 addscriptexist(8130299583, "Trident Survival [Fast Break]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Trident%20Survival%20Fast%20Break.lua")
+
+addscriptexist(2653064683, "Word Bomb [Auto type, Anti-kik, Auto Join]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Word%20Bomb%20Auto%20type%20Antikik%20Auto%20Join.lua")
