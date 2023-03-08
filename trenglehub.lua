@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 20:24:56"
+lastupdate = "GMT +1: 08.03.2023 20:25:00"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -13836,3 +13836,5 @@ addscriptexist(9648883891, "Festival Tycoon [TpToChainmokers]", "pulled from rbx
 addscriptexist(2753915549, "Blox Fruits [AutoFarm, AutoBoss]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blox%20Fruits%20AutoFarm%20AutoBoss.lua")
 
 addscriptuniversal("Roblox Universal Script [Nword Spammer]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Roblox%20Universal%20Script%20Nword%20Spammer.lua")
+
+addscriptexist(4588604953, "Criminality [Auto Block, Esp]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Criminality%20Auto%20Block%20Esp.lua")
