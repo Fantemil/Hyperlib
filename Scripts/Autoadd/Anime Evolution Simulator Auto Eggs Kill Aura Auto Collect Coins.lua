@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ArgetnarYT/Ui/main/ArgetnarHub.lua"))()
