@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 19:20:15"
+lastupdate = "GMT +1: 08.03.2023 19:20:20"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -12768,3 +12768,5 @@ addscript(4240267866, "Current Game","WWE 2K22 Roblox Wrestling: AntiCheat Bypas
 addscriptexist(10631181587, "Stone Miner Simulator 2: Infinity Battle Pass", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Stone%20Miner%20Simulator%20%20Infinity%20Battle%20Pass.lua")
 
 addscriptexist(5130598377, "A Universal Time: Auto Farm NPCs, Auto Farm Chest, Auto Farm Shards", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/A%20Universal%20Time%20Auto%20Farm%20NPCs%20Auto%20Farm%20Chest%20Auto%20Farm%20Shards.lua")
+
+addscriptexist(4282985734, "Combat Warriors: Anti Afk, Infinity Jump, Infinity Stamina", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Combat%20Warriors%20Anti%20Afk%20Infinity%20Jump%20Infinity%20Stamina.lua")
