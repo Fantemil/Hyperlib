@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://github.com/BillsTheGod/V3RMILLION_PROJECTS/blob/main/OpenAI.lua"))()
