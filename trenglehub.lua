@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 17:47:07"
+lastupdate = "GMT +1: 08.03.2023 17:47:12"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -10674,3 +10674,5 @@ addscriptexist(9912491609, "How Far Can You Fly? Auto Farm Money, Auto Collect C
 addscript(9623163321, "Current Game","Zombie Bunker Tycoon: Infinity Money", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Zombie%20Bunker%20Tycoon%20Infinity%20Money.lua")
 
 addscript(7105775253, "Current Game","YEET Legends: Auto Farm, Kill Aura, Fly", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/YEET%20Legends%20Auto%20Farm%20Kill%20Aura%20Fly.lua")
+
+addscriptexist(2727067538, "World // Zero: Auto Sell, Auto Farm Dungeon & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/World%20%20Zero%20Auto%20Sell%20Auto%20Farm%20Dungeon%20%20More.lua")
