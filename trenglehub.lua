@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 13:13:34"
+lastupdate = "GMT +1: 08.03.2023 13:13:38"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -7276,3 +7276,5 @@ addscriptexist(2377868063, "Strucid: Kill All, Aim Bot, Trigger Bot", "pulled fr
 addscript(1296881293, "Current Game","Warship Roleplay: Radio Chat Spammer", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Warship%20Roleplay%20Radio%20Chat%20Spammer.lua")
 
 addscriptexist(7991339063, "Rainbow Friends: Esp Monster, Full Bight, Send Items", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Rainbow%20Friends%20Esp%20Monster%20Full%20Bight%20Send%20Items.lua")
+
+addscriptexist(11445923563, "One Fruit Simulator: Auto Level, Auto Collect Fruits/Chests, Auto Punch", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/One%20Fruit%20Simulator%20Auto%20Level%20Auto%20Collect%20FruitsChests%20Auto%20Punch.lua")
