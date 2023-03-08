@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 06:36:47"
+lastupdate = "GMT +1: 08.03.2023 06:36:50"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -4602,3 +4602,5 @@ addscriptuniversal("Universal Assault gun", "pulled from rbxscript.com", "https:
 addscriptexist(292439477, "Phantom Forces: Aimbot, ESP", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Phantom%20Forces%20Aimbot%20ESP.lua")
 
 addscriptexist(185655149, "Welcome to Bloxburg: Pizza Delievery Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Welcome%20to%20Bloxburg%20Pizza%20Delievery%20Auto%20Farm.lua")
+
+addscript(1242235469, "Current Game","ball and axe: Axe Swing Speed, Inf Axe Stick Range", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ball%20and%20axe%20Axe%20Swing%20Speed%20Inf%20Axe%20Stick%20Range.lua")
