@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 19:36:33"
+lastupdate = "GMT +1: 08.03.2023 19:36:37"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -13126,3 +13126,5 @@ addscript(2533391464, "Current Game","Snowman Simulator: Auto Farm Snow, Auto Fa
 addscriptexist(5116869569, "Doodle World: AutoFarm, Autofarm Options, Catch Options", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Doodle%20World%20AutoFarm%20Autofarm%20Options%20Catch%20Options.lua")
 
 addscriptexist(17541193, "Pinewood Computer Core: Teleport To Areas", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pinewood%20Computer%20Core%20Teleport%20To%20Areas.lua")
+
+addscriptexist(7991339063, "Rainbow Friends: Return Items, Fullbright, Player Modifications", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Rainbow%20Friends%20Return%20Items%20Fullbright%20Player%20Modifications.lua")
