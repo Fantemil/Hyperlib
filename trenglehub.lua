@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 20:13:47"
+lastupdate = "GMT +1: 08.03.2023 20:13:51"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -13540,3 +13540,5 @@ addscriptexist(3956818381, "Ninja Legends | AutoSwing, AutoSell, Unlock All Elem
 addscriptexist(286090429, "Arsenal | Hitbox Expander, ESP", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Arsenal%20%20Hitbox%20Expander%20ESP.lua")
 
 addscriptexist(155615604, "Prison Life | Btools, Fly, Walkspeed", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Prison%20Life%20%20Btools%20Fly%20Walkspeed.lua")
+
+addscriptexist(142823291, "Murder Mystery 2 | KillAll, KillSheriff, GodMode, Silent Aim", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Murder%20Mystery%20%20%20KillAll%20KillSheriff%20GodMode%20Silent%20Aim.lua")
