@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 18:16:19"
+lastupdate = "GMT +1: 08.03.2023 18:16:23"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -11400,3 +11400,5 @@ addscriptexist(13822889, "Lumber Tycoon 2: Teleport To Closest Spook, Server Hop
 addscriptexist(9941633436, "Rank Simulator: Auto Collect Candy Corn", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Rank%20Simulator%20Auto%20Collect%20Candy%20Corn.lua")
 
 addscriptexist(606849621, "Jailbreak: KillAura, Open Source", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Jailbreak%20KillAura%20Open%20Source.lua")
+
+addscriptexist(2753915549, "Blox Fruits: Auto Farm, Buy Items & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blox%20Fruits%20Auto%20Farm%20Buy%20Items%20%20More.lua")
