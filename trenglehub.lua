@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 15:05:24"
+lastupdate = "GMT +1: 08.03.2023 15:05:28"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -8530,3 +8530,5 @@ addscriptexist(9498006165, "Tapping Simulator: Auto Rebirth, Auto Farm", "pulled
 addscriptexist(9224601490, "Fruit Battlegrounds: Auto Attack", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Fruit%20Battlegrounds%20Auto%20Attack.lua")
 
 addscriptuniversal("Universal Free Cam", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Free%20Cam.lua")
+
+addscriptexist(11382413635, "Human Cannon: Multiple Money Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Human%20Cannon%20Multiple%20Money%20Farm.lua")
