@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 20:14:54"
+lastupdate = "GMT +1: 08.03.2023 20:14:58"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -13570,3 +13570,5 @@ addscriptexist(3177438863, "Dragon Blox | Auto Attack - Auto Rebirth", "pulled f
 addscriptexist(10192063645, "Thy Hood | Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Thy%20Hood%20%20Auto%20Farm.lua")
 
 addscriptexist(1242235469, "ball and axe | Unlock Your Axe - Remove Limits", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ball%20and%20axe%20%20Unlock%20Your%20Axe%20%20Remove%20Limits.lua")
+
+addscriptexist(9417197334, "Anime Story | Auto Farm - Auto Quest", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime%20Story%20%20Auto%20Farm%20%20Auto%20Quest.lua")
