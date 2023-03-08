@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 06:48:10"
+lastupdate = "GMT +1: 08.03.2023 06:48:14"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -4946,3 +4946,5 @@ addscriptexist(2693023319, "Expedition Antarctica: Free VIP, Free Storm Goggles,
 addscriptexist(2809202155, "Your Bizarre Adventure: Skip Loading Screen", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Your%20Bizarre%20Adventure%20Skip%20Loading%20Screen.lua")
 
 addscriptexist(11895850995, "Viet Pirates X: Infinite Beli, Infinity Fruits", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Viet%20Pirates%20X%20Infinite%20Beli%20Infinity%20Fruits.lua")
+
+addscriptuniversal("Universal Kings Universal ESP", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Kings%20Universal%20ESP.lua")
