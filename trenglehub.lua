@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 18:35:41"
+lastupdate = "GMT +1: 08.03.2023 18:35:46"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -11832,3 +11832,5 @@ addscriptexist(4282985734, "Combat Warriors: Silent Aim, Aimbot, Infinity Stamin
 addscriptexist(4195834406, "Dragon Ball Online Generations: Auto collects dragon balls, Serverhops", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Dragon%20Ball%20Online%20Generations%20Auto%20collects%20dragon%20balls%20Serverhops.lua")
 
 addscriptexist(292439477, "Phantom Forces: Auto Killer", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Phantom%20Forces%20Auto%20Killer.lua")
+
+addscriptexist(360589910, "Hoops - Demo (Basketball): Infinity Stamina, Press E Tp, Aimbot", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Hoops%20%20Demo%20Basketball%20Infinity%20Stamina%20Press%20E%20Tp%20Aimbot.lua")
