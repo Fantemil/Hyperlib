@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 07:08:21"
+lastupdate = "GMT +1: 08.03.2023 07:08:26"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -5562,3 +5562,5 @@ addscript(6839658013, "Current Game","NPC Tower Defense: Auto Sell", "pulled fro
 addscriptexist(8908228901, "Sharkbite 2: Present Afk Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sharkbite%20%20Present%20Afk%20Auto%20Farm.lua")
 
 addscriptexist(9534337535, "Shrek In The Backrooms: Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Shrek%20In%20The%20Backrooms%20Auto%20Farm.lua")
+
+addscript(11187148979, "Current Game","Ultra UnFair: Kill Aura", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ultra%20UnFair%20Kill%20Aura.lua")
