@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 20:44:01"
+lastupdate = "GMT +1: 08.03.2023 20:44:06"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -14328,3 +14328,5 @@ addscriptexist(537413528, "Build A Boat For Treasure [AutoFarm, Auto Open Chest]
 addscriptexist(7280118908, "School Simulator [Free Gamepass]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/School%20Simulator%20Free%20Gamepass.lua")
 
 addscriptexist(1240644540, "Vampire Hunters 3 [Spam Screen Text]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Vampire%20Hunters%20%20Spam%20Screen%20Text.lua")
+
+addscriptexist(10001513103, "Limited Words [Annoy Mods, Waste Words, Get Joseph Badge]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Limited%20Words%20Annoy%20Mods%20Waste%20Words%20Get%20Joseph%20Badge.lua")
