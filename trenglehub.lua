@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 20:17:00"
+lastupdate = "GMT +1: 08.03.2023 20:17:05"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -13622,3 +13622,5 @@ addscriptexist(9648883891, "Festival Tycoon | AutoEnd Tycoon", "pulled from rbxs
 addscriptexist(10714365287, "Anime Race Clicker | AutoFarm, AutoHatch, Unlock Worlds", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime%20Race%20Clicker%20%20AutoFarm%20AutoHatch%20Unlock%20Worlds.lua")
 
 addscriptexist(9030362964, "Field Goal Simulator | Auto Farm Goals", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Field%20Goal%20Simulator%20%20Auto%20Farm%20Goals.lua")
+
+addscriptexist(4639625707, "Oil Warfare Tycoon | Walkspeed, Jumppower, Inf Jump", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Oil%20Warfare%20Tycoon%20%20Walkspeed%20Jumppower%20Inf%20Jump.lua")
