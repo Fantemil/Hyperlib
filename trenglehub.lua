@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 15:06:00"
+lastupdate = "GMT +1: 08.03.2023 15:06:04"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -8546,3 +8546,5 @@ addscriptexist(4872321990, "Islands: Can Teleport, Auto Kill Boss, God Mode", "p
 addscriptexist(10723695195, "Anime Evolution Simulator: Auto Rank Up, Auto Tp Tp Mob & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime%20Evolution%20Simulator%20Auto%20Rank%20Up%20Auto%20Tp%20Tp%20Mob%20%20More.lua")
 
 addscriptexist(6516141723, "DOORS: Skip Door, Spawn Screech, ESP players", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DOORS%20Skip%20Door%20Spawn%20Screech%20ESP%20players.lua")
+
+addscript(1021289358, "Current Game","Football Universe: No Miss Accuracy Catch, Anti Tackle, Tackle Keybind", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Football%20Universe%20No%20Miss%20Accuracy%20Catch%20Anti%20Tackle%20Tackle%20Keybind.lua")
