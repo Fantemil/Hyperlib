@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 20:13:08"
+lastupdate = "GMT +1: 08.03.2023 20:13:13"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -13522,3 +13522,5 @@ addscriptuniversal("Universal Bypasser Nwords", "pulled from rbxscript.com", "ht
 addscriptexist(9992339729, "Longest Answer Wins | Blocks Changer", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Longest%20Answer%20Wins%20%20Blocks%20Changer.lua")
 
 addscriptexist(537413528, "Build A Boat For Treasure | Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Build%20A%20Boat%20For%20Treasure%20%20Auto%20Farm.lua")
+
+addscriptexist(4616652839, "Shindo Life | Autofarm Mobs, Auto Key Press, Infinite Jump", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Shindo%20Life%20%20Autofarm%20Mobs%20Auto%20Key%20Press%20Infinite%20Jump.lua")
