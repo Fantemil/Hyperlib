@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 06:37:24"
+lastupdate = "GMT +1: 08.03.2023 06:37:27"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -4622,3 +4622,5 @@ addscript(5561268850, "Current Game","Randomly Generated Droids: Kills all droid
 addscriptexist(3260590327, "Tower Defense Simulator: Auto Strat, Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tower%20Defense%20Simulator%20Auto%20Strat%20Auto%20Farm.lua")
 
 addscriptuniversal("Universal Fps Booster", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Fps%20Booster.lua")
+
+addscript(691884101, "Current Game","Dynamic Ship Simulator III: Anti Cheat Bypass", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Dynamic%20Ship%20Simulator%20III%20Anti%20Cheat%20Bypass.lua")
