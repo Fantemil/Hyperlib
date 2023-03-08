@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 18:27:05"
+lastupdate = "GMT +1: 08.03.2023 18:27:10"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -11666,3 +11666,5 @@ addscriptexist(10635076883, "Gummy Bear Tycoon: Auto Collect Bears, Auto Upgrade
 addscriptexist(286090429, "Arsenal: Invisible", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Arsenal%20Invisible.lua")
 
 addscriptexist(10456811278, "Milk Tycoon: Auto Collect Milk, Redeem Codes & more", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Milk%20Tycoon%20Auto%20Collect%20Milk%20Redeem%20Codes%20%20more.lua")
+
+addscriptexist(4588604953, "Criminality: Autofarm, Silent Aim & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Criminality%20Autofarm%20Silent%20Aim%20%20More.lua")
