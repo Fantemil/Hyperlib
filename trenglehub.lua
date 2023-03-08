@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 13:17:31"
+lastupdate = "GMT +1: 08.03.2023 13:17:36"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -7382,3 +7382,5 @@ addscriptexist(8069117419, "Demon Soul Simulator: Quests, Rebirth, Punck Xp", "p
 addscriptexist(11323427280, "Plane Race: Auto Race, Auto Collect Boost, Auto rebirth", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Plane%20Race%20Auto%20Race%20Auto%20Collect%20Boost%20Auto%20rebirth.lua")
 
 addscriptexist(2753915549, "Blox Fruits: Auto Chest, Server Hop", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blox%20Fruits%20Auto%20Chest%20Server%20Hop.lua")
+
+addscriptexist(6888253864, "Wacky Wizards: Auto Win RB Battles", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Wacky%20Wizards%20Auto%20Win%20RB%20Battles.lua")
