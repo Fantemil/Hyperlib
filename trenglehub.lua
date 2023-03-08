@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 12:39:14"
+lastupdate = "GMT +1: 08.03.2023 12:39:18"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -6386,3 +6386,5 @@ addscriptexist(10977918334, "Merge Droppers Infinity Parts", "pulled from rbxscr
 addscriptexist(6284583030, "Pet Simulator X: Gpu Saver, Cpu Saver, FPS Limiter", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pet%20Simulator%20X%20Gpu%20Saver%20Cpu%20Saver%20FPS%20Limiter.lua")
 
 addscriptexist(2788229376, "Da Hood: Silent Aim, Resolver, Teleports", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Da%20Hood%20Silent%20Aim%20Resolver%20Teleports.lua")
+
+addscriptexist(9825515356, "Hood Customs: Aim Lock, Anti Lock, Teleports", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Hood%20Customs%20Aim%20Lock%20Anti%20Lock%20Teleports.lua")
