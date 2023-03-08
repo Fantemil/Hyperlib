@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 20:51:41"
+lastupdate = "GMT +1: 08.03.2023 20:51:46"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -14514,3 +14514,5 @@ addscriptexist(7305309231, "Taxi Boss [Walkspeed, AutoFarm]", "pulled from rbxsc
 addscript(8963721566, "Current Game","The Backrooms [Third Person]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/The%20Backrooms%20Third%20Person.lua")
 
 addscriptexist(6284583030, "Pet Simulator X [AutoFarm, AutoEggs]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pet%20Simulator%20X%20AutoFarm%20AutoEggs.lua")
+
+addscriptexist(10325366821, "OOF Tycoon! [AutoCollect OOFs]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OOF%20Tycoon%20AutoCollect%20OOFs.lua")
