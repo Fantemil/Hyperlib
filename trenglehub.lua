@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 20:50:27"
+lastupdate = "GMT +1: 08.03.2023 20:50:33"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -14484,3 +14484,5 @@ addscriptexist(2788229376, "Da Hood [SilentAim]", "pulled from rbxscript.com", "
 addscriptexist(3351674303, "Driving Empire [AutoFarm, AutoDragRace]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Driving%20Empire%20AutoFarm%20AutoDragRace.lua")
 
 addscriptexist(6708206173, "Rate My Avatar [Animations, WalkSpeed, Swears]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Rate%20My%20Avatar%20Animations%20WalkSpeed%20Swears.lua")
+
+addscript(6542731310, "Current Game","Dogecoin Mining Tycoon [Clear gpu's, Tp, WalkSPeed]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Dogecoin%20Mining%20Tycoon%20Clear%20gpus%20Tp%20WalkSPeed.lua")
