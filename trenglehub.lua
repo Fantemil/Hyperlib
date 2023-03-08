@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 16:36:04"
+lastupdate = "GMT +1: 08.03.2023 16:36:08"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -8878,3 +8878,5 @@ addscriptexist(6751371363, "Hood Duels: Aim Lock, Silent Aim", "pulled from rbxs
 addscriptexist(1962086868, "Tower Of Hell: Auto Buy, Bunny Hop & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tower%20Of%20Hell%20Auto%20Buy%20Bunny%20Hop%20%20More.lua")
 
 addscriptexist(1662219031, "Life in Paradise: Seat Teleport", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Life%20in%20Paradise%20Seat%20Teleport.lua")
+
+addscriptexist(6708206173, "Rate My Avatar: Self Bot", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Rate%20My%20Avatar%20Self%20Bot.lua")
