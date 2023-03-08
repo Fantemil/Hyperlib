@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 15:09:35"
+lastupdate = "GMT +1: 08.03.2023 15:09:39"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -8642,3 +8642,5 @@ addscriptexist(9872472334, "Evade: ESP, Boxes, Auto Respawn", "pulled from rbxsc
 addscriptexist(920587237, "Adopt Me: Make Pet Mega Neon", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Adopt%20Me%20Make%20Pet%20Mega%20Neon.lua")
 
 addscriptexist(920587237, "Adopt Me: Make Pet Rideable", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Adopt%20Me%20Make%20Pet%20Rideable.lua")
+
+addscriptexist(920587237, "Adopt Me: Make Pet Neon", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Adopt%20Me%20Make%20Pet%20Neon.lua")
