@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 19:40:15"
+lastupdate = "GMT +1: 08.03.2023 19:50:21"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -13198,3 +13198,5 @@ addscriptexist(10903978962, "Sheep Tycoon | Auto Farm, Auto Sell", "pulled from 
 addscriptexist(4639625707, "Oil Warfare Tycoon | Gun Mod", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Oil%20Warfare%20Tycoon%20%20Gun%20Mod.lua")
 
 addscriptexist(9919640604, "Gem Mining Incremental | Infinite Gems", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Gem%20Mining%20Incremental%20%20Infinite%20Gems.lua")
+
+addscriptexist(9304358188, "Find The Memes | Get All Memes", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Find%20The%20Memes%20%20Get%20All%20Memes.lua")
