@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 12:25:14"
+lastupdate = "GMT +1: 08.03.2023 12:25:19"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -6006,3 +6006,5 @@ addscriptexist(6679968919, "Fly Race: Auto Collect Orbs, Semi Auto Farm, Auto Fa
 addscriptexist(318978013, "Kick Off: Teleports, Goals, Fly", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Kick%20Off%20Teleports%20Goals%20Fly.lua")
 
 addscriptuniversal("Universal Teleport to Player", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Teleport%20to%20Player.lua")
+
+addscriptexist(11103424163, "Heist Tycoon: Speedhack, Infinity Money, Noclip", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Heist%20Tycoon%20Speedhack%20Infinity%20Money%20Noclip.lua")
