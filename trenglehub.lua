@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 16:59:41"
+lastupdate = "GMT +1: 08.03.2023 16:59:45"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -9468,3 +9468,5 @@ addscript(10425191433, "Current Game","Trick Shot Simulator: Options, Auto Upgra
 addscript(7664413141, "Current Game","Creeper Chaos: Afk Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Creeper%20Chaos%20Afk%20Farm.lua")
 
 addscriptexist(3851622790, "Break In: Auto eat, Give eat, Tools", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Break%20In%20Auto%20eat%20Give%20eat%20Tools.lua")
+
+addscriptexist(5956785391, "Project Slayers: Full Anticheat Kick Bypass", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Project%20Slayers%20Full%20Anticheat%20Kick%20Bypass.lua")
