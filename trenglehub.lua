@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 19:21:05"
+lastupdate = "GMT +1: 08.03.2023 19:21:10"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -12788,3 +12788,5 @@ addscriptexist(155615604, "Prison Life: Kill Selected Player", "pulled from rbxs
 addscriptexist(6172932937, "Energy Assault: Wallbang", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Energy%20Assault%20Wallbang.lua")
 
 addscriptexist(2727067538, "World // Zero: Kill Aura, Auto Farm, No Clip & More!", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/World%20%20Zero%20Kill%20Aura%20Auto%20Farm%20No%20Clip%20%20More.lua")
+
+addscriptexist(9524757503, "iHeartLand Music Tycoon: Free Avatar Item", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/iHeartLand%20Music%20Tycoon%20Free%20Avatar%20Item.lua")
