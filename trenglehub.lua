@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 12:52:12"
+lastupdate = "GMT +1: 08.03.2023 12:52:17"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -6724,3 +6724,5 @@ addscript(9894044804, "Current Game","Blade Simulator: Auto Swing, Auto Sell, Au
 addscript(5804394780, "Current Game","raise a monke! Auto Click, Auto Collect Money, Auto Buy Food", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/raise%20a%20monke%20Auto%20Click%20Auto%20Collect%20Money%20Auto%20Buy%20Food.lua")
 
 addscriptexist(11196588443, "Zombie Merge Tycoon: Auto collect, Auto deposit, Auto upgrade", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Zombie%20Merge%20Tycoon%20Auto%20collect%20Auto%20deposit%20Auto%20upgrade.lua")
+
+addscriptexist(286090429, "Arsenal: Aimbot, Silent Aim, FOV", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Arsenal%20Aimbot%20Silent%20Aim%20FOV.lua")
