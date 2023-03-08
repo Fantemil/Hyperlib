@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 17:23:30"
+lastupdate = "GMT +1: 08.03.2023 17:23:36"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -10078,3 +10078,5 @@ addscript(8500690972, "Current Game","NO STOP OBBY: Skip All Stages", "pulled fr
 addscript(9417197334, "Current Game","Anime Story: Auto Ores", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime%20Story%20Auto%20Ores.lua")
 
 addscript(5722378074, "Current Game","Anime Legacy: No Ability Cooldown", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime%20Legacy%20No%20Ability%20Cooldown.lua")
+
+addscriptexist(292439477, "Pet Fighting Simulator: Auto Farm Money", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pet%20Fighting%20Simulator%20Auto%20Farm%20Money.lua")
