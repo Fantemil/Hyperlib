@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 12:43:53"
+lastupdate = "GMT +1: 08.03.2023 12:43:56"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -6516,3 +6516,5 @@ addscript(9977604524, "Current Game","Alphabet Lore Race: Wins Farm, Auto Click,
 addscriptexist(11040063484, "Sword Fighters Simulator: Auto Farm Quest, Auto Click, Auto Collect Coins.", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sword%20Fighters%20Simulator%20Auto%20Farm%20Quest%20Auto%20Click%20Auto%20Collect%20Coins.lua")
 
 addscriptexist(370731277, "MeepCity: Free Gamepasses, Silent Aim, Unlimited Bucket", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MeepCity%20Free%20Gamepasses%20Silent%20Aim%20Unlimited%20Bucket.lua")
+
+addscriptexist(10030740606, "Sweets obby! No Cheat Detect, Server Shutdown, Get All Tools", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sweets%20obby%20No%20Cheat%20Detect%20Server%20Shutdown%20Get%20All%20Tools.lua")
