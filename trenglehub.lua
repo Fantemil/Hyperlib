@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 06:42:42"
+lastupdate = "GMT +1: 08.03.2023 06:42:46"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -4778,3 +4778,5 @@ addscriptexist(1962086868, "Tower of Hell: Anti Cheat, Instant Win", "pulled fro
 addscriptexist(292439477, "Phantom Forces: Hitboxes Expand", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Phantom%20Forces%20Hitboxes%20Expand.lua")
 
 addscriptexist(11701792069, "Snow Plow Simulator: Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Snow%20Plow%20Simulator%20Auto%20Farm.lua")
+
+addscriptexist(11701792069, "Snow Plow Simulator: Infinity Snow, Infinity Rebirths", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Snow%20Plow%20Simulator%20Infinity%20Snow%20Infinity%20Rebirths.lua")
