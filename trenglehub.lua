@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 16:44:16"
+lastupdate = "GMT +1: 08.03.2023 16:44:20"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -9080,3 +9080,5 @@ addscriptexist(443406476, "Project Lazarus: Damage Multpliers", "pulled from rbx
 addscriptexist(9524757503, "iHeartLand: Music Tycoon: Collect All planets", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/iHeartLand%20Music%20Tycoon%20Collect%20All%20planets.lua")
 
 addscriptexist(9772878203, "raise a floppa 2: Auto Click Floppa, Auto Collect Cash, Auto Claim Rent", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/raise%20a%20floppa%20%20Auto%20Click%20Floppa%20Auto%20Collect%20Cash%20Auto%20Claim%20Rent.lua")
+
+addscriptexist(2788229376, "Da Hood: God mode, Fly, Tp", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Da%20Hood%20God%20mode%20Fly%20Tp.lua")
