@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 12:56:17"
+lastupdate = "GMT +1: 08.03.2023 12:56:21"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -6830,3 +6830,5 @@ addscriptexist(855499080, "SKYWARS: Equip MVP armor, Mine Aura, FE Shield", "pul
 addscriptexist(370731277, "MeepCity: Free Gamepass, Fishing Silent Aim, Fishing unlimited bucket size", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MeepCity%20Free%20Gamepass%20Fishing%20Silent%20Aim%20Fishing%20unlimited%20bucket%20size.lua")
 
 addscript(5342047554, "Current Game","Backstretch Battles Remastered: Vehicle Fly", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Backstretch%20Battles%20Remastered%20Vehicle%20Fly.lua")
+
+addscriptexist(1537690962, "Bee Swarm Simulator: Auto Farm, Godmode & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Bee%20Swarm%20Simulator%20Auto%20Farm%20Godmode%20%20More.lua")
