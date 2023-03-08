@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 06:49:00"
+lastupdate = "GMT +1: 08.03.2023 06:49:04"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -4974,3 +4974,5 @@ addscriptexist(10760024537, "Ultimate Easy Obby: Auto Win", "pulled from rbxscri
 addscriptexist(11729688377, "Booga Booga [REBORN]: Auto Farm, Speed Bypass & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Booga%20Booga%20REBORN%20Auto%20Farm%20Speed%20Bypass%20%20More.lua")
 
 addscriptexist(8916037983, "starving artists: Themes", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/starving%20artists%20Themes.lua")
+
+addscriptexist(10889408214, "DEFLECT: Legit Auto Deflect, Auto Deflect, Hitbox Expander", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DEFLECT%20Legit%20Auto%20Deflect%20Auto%20Deflect%20Hitbox%20Expander.lua")
