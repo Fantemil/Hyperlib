@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 14:35:54"
+lastupdate = "GMT +1: 08.03.2023 14:35:58"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -7738,3 +7738,5 @@ addscriptexist(8737602449, "PLS DONATE: Fortune Cookie", "pulled from rbxscript.
 addscript(2988554876, "Current Game","Military Simulator: Full Auto, Firerate, No Recoil", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Military%20Simulator%20Full%20Auto%20Firerate%20No%20Recoil.lua")
 
 addscriptexist(10723695195, "Anime Evolution Simulator: Auto Farm, Auto Collect Coins, Power Teleports", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime%20Evolution%20Simulator%20Auto%20Farm%20Auto%20Collect%20Coins%20Power%20Teleports.lua")
+
+addscriptexist(8737602449, "PLS DONATE: Self Bot", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PLS%20DONATE%20Self%20Bot.lua")
