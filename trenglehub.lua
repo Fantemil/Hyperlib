@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 19:53:57"
+lastupdate = "GMT +1: 08.03.2023 19:54:02"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -13274,3 +13274,5 @@ addscriptexist(2185497593, "Arcade Island X: Working Arcade | Auto Farm Money, A
 addscriptexist(1242235469, "Ball and axe | Reach & More!", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ball%20and%20axe%20%20Reach%20%20More.lua")
 
 addscript(4997792989, "Current Game","Homeless Simulator In Russia | Infinite Money", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Homeless%20Simulator%20In%20Russia%20%20Infinite%20Money.lua")
+
+addscript(2906554815, "Current Game","S.W.A.T Simulator | Infinite Xp - Get Any Gun", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SWAT%20Simulator%20%20Infinite%20Xp%20%20Get%20Any%20Gun.lua")
