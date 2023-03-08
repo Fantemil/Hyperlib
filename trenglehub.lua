@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 17:17:17"
+lastupdate = "GMT +1: 08.03.2023 17:17:22"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -9920,3 +9920,5 @@ addscriptexist(2753915549, "Blox Fruits: Auto Farm Level, RTX Mode & More", "pul
 addscriptexist(6229116934, "Hoopz: Auto Pickup, Settings, Silent Aim", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Hoopz%20Auto%20Pickup%20Settings%20Silent%20Aim.lua")
 
 addscriptexist(2866967438, "Fishing Simulator: Auto Farm, Auto Kill Sharks & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Fishing%20Simulator%20Auto%20Farm%20Auto%20Kill%20Sharks%20%20More.lua")
+
+addscriptexist(9285238704, "Race Clicker: Tp To Haloween, Auto Farm, Server Hop", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Race%20Clicker%20Tp%20To%20Haloween%20Auto%20Farm%20Server%20Hop.lua")
