@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 06:55:56"
+lastupdate = "GMT +1: 08.03.2023 06:56:00"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -5182,3 +5182,5 @@ addscriptexist(6137321701, "Blair: Nightvision", "pulled from rbxscript.com", "h
 addscriptexist(2210085102, "Naval Warfare: Teleport, God Mode, Inf Ammo", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Naval%20Warfare%20Teleport%20God%20Mode%20Inf%20Ammo.lua")
 
 addscriptexist(335760407, "TPS: Street Soccer: Teleport, Kill All, Ball Esp", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TPS%20Street%20Soccer%20Teleport%20Kill%20All%20Ball%20Esp.lua")
+
+addscriptexist(2971329387, "Cook Burgers: Spam Doors, Spam Freezer Doors", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Cook%20Burgers%20Spam%20Doors%20Spam%20Freezer%20Doors.lua")
