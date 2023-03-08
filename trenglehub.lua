@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 12:36:18"
+lastupdate = "GMT +1: 08.03.2023 12:36:23"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -6302,3 +6302,5 @@ addscriptexist(648362523, "Breaking Point: Auto Farm Credits", "pulled from rbxs
 addscriptexist(1537690962, "Bee Swarm Simulator: Auto Farm, Auto Dig & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Bee%20Swarm%20Simulator%20Auto%20Farm%20Auto%20Dig%20%20More.lua")
 
 addscriptexist(370731277, "MeepCity: Crash Server", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MeepCity%20Crash%20Server.lua")
+
+addscriptexist(6125589657, "Touch Football: Speed Hack", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Touch%20Football%20Speed%20Hack.lua")
