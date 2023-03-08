@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 12:48:39"
+lastupdate = "GMT +1: 08.03.2023 12:49:15"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -6646,3 +6646,5 @@ addscriptexist(9872472334, "Evade: ESP, Auto Farm Tickets, Auto Farm Money", "pu
 addscriptuniversal("Roblox: Universal coords finder V3", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Roblox%20Universal%20coords%20finder%20V.lua")
 
 addscriptexist(3527629287, "BIG Paintball: Silent Aimbot, Tracers, ESP", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BIG%20Paintball%20Silent%20Aimbot%20Tracers%20ESP.lua")
+
+addscriptexist(286090429, "Arsenal: Aimbot, FOV, ESP", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Arsenal%20Aimbot%20FOV%20ESP.lua")
