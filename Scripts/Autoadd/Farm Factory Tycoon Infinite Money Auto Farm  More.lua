@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/AviraManager/roblox-scripts/main/farm-factory-tycoon", true))()
