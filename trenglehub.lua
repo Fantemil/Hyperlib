@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 17:56:22"
+lastupdate = "GMT +1: 08.03.2023 17:56:26"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -10904,3 +10904,5 @@ addscriptexist(9872472334, "Evade: Fast Revive, Auto Respawn, ESP", "pulled from
 addscriptuniversal("Universal Legit Tracing Script", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Legit%20Tracing%20Script.lua")
 
 addscriptexist(4975865235, "Mechanical Ascension X: Teleporter To Crates", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mechanical%20Ascension%20X%20Teleporter%20To%20Crates.lua")
+
+addscriptexist(2727067538, "World // Zero: 1 Shoot Boss Win", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/World%20%20Zero%20%20Shoot%20Boss%20Win.lua")
