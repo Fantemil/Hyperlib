@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 17:44:56"
+lastupdate = "GMT +1: 08.03.2023 17:45:00"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -10622,3 +10622,5 @@ addscriptexist(221718525, "Ninja Tycoon: Auto Farm, Auto Build, Auto Click", "pu
 addscript(4543144283, "Current Game","Mega Noob Simulator: Kill Aura, Auto Rebirth, Auto Collect Coins", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mega%20Noob%20Simulator%20Kill%20Aura%20Auto%20Rebirth%20Auto%20Collect%20Coins.lua")
 
 addscriptexist(5670292785, "Undead Defense Tycoon: Auto Build, Auto Kill, Teleporter", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Undead%20Defense%20Tycoon%20Auto%20Build%20Auto%20Kill%20Teleporter.lua")
+
+addscriptexist(8084034728, "Roblox but every second you become stronger: X2 Jumps", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Roblox%20but%20every%20second%20you%20become%20stronger%20X%20Jumps.lua")
