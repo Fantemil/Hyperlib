@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 18:37:39"
+lastupdate = "GMT +1: 08.03.2023 18:37:43"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -11872,3 +11872,5 @@ addscriptexist(142823291, "Murder Mystery 2: Silent Aim, Kill Aura & More", "pul
 addscriptexist(7991339063, "Rainbow Friends: ESP, FullBright, Send Item", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Rainbow%20Friends%20ESP%20FullBright%20Send%20Item.lua")
 
 addscriptexist(6243699076, "The Mimic: Instant Complete Normal TWT", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/The%20Mimic%20Instant%20Complete%20Normal%20TWT.lua")
+
+addscriptexist(6229116934, "Hoopz: Silent aim, Aimbot, Auto Change Power", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Hoopz%20Silent%20aim%20Aimbot%20Auto%20Change%20Power.lua")
