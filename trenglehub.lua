@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 18:23:29"
+lastupdate = "GMT +1: 08.03.2023 18:23:33"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -11578,3 +11578,5 @@ addscript(10758748100, "Current Game","Killstreak Simulator Remake: Kill All, Fa
 addscriptexist(2753915549, "Blox Fruits: Set Spawn Point, Super Human, Fast Run", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blox%20Fruits%20Set%20Spawn%20Point%20Super%20Human%20Fast%20Run.lua")
 
 addscript(9097655905, "Current Game","Genie Fight Simulator: Unlock All Worlds, Claim All Loyalty Rewards, Infinity Gold", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Genie%20Fight%20Simulator%20Unlock%20All%20Worlds%20Claim%20All%20Loyalty%20Rewards%20Infinity%20Gold.lua")
+
+addscriptexist(9571238478, "Raise a Peter: Collect Money", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Raise%20a%20Peter%20Collect%20Money.lua")
