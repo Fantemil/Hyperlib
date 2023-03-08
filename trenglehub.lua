@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 12:22:21"
+lastupdate = "GMT +1: 08.03.2023 12:22:25"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -5928,3 +5928,5 @@ addscript(5670292785, "Current Game","Undead Defense Tycoon: Auto Kill, Auto Bui
 addscriptexist(5130598377, "A Universal Time: Auto Farm Bosses, Auto Use Skills, Walkspeed Slider", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/A%20Universal%20Time%20Auto%20Farm%20Bosses%20Auto%20Use%20Skills%20Walkspeed%20Slider.lua")
 
 addscriptexist(2788229376, "Da Hood: Crasher", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Da%20Hood%20Crasher.lua")
+
+addscriptexist(10598587051, "Anime Clicker Fight: AutoRun, AutoClick, AutoDash", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime%20Clicker%20Fight%20AutoRun%20AutoClick%20AutoDash.lua")
