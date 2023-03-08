@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 17:54:01"
+lastupdate = "GMT +1: 08.03.2023 17:54:06"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -10844,3 +10844,5 @@ addscriptexist(9872472334, "Evade: Ticket Auto Farm, Esp Auto Farm", "pulled fro
 addscript(6911523175, "Current Game","Bee Swarm Simulator: Recreate Autofarm, Hive Dupe GUI", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Bee%20Swarm%20Simulator%20Recreate%20Autofarm%20Hive%20Dupe%20GUI.lua")
 
 addscriptexist(221718525, "Ninja Tycoon: Auto Build, Auto Click Droppers, Safe Mode", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ninja%20Tycoon%20Auto%20Build%20Auto%20Click%20Droppers%20Safe%20Mode.lua")
+
+addscriptexist(10861112990, "Anime Artifacts Simulator: Noclip, ESP, Walkspeed", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime%20Artifacts%20Simulator%20Noclip%20ESP%20Walkspeed.lua")
