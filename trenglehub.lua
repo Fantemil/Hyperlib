@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 17:01:25"
+lastupdate = "GMT +1: 08.03.2023 17:01:29"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -9510,3 +9510,5 @@ addscriptexist(3398014311, "Restaurant Tycoon 2: Player Instant Cook V2", "pulle
 addscriptexist(10758111998, "2019 Booga booga [REBORN]: Cheaters Hub", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/%20Booga%20booga%20REBORN%20Cheaters%20Hub.lua")
 
 addhub("Kyoichi Hub 20+ Games", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Kyoichi%20Hub%20%20Games.lua")
+
+addscriptexist(8884334497, "Mining Clicker Simulator: Auto Buy Egg, Auto Upgrade, Auto Clicker", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mining%20Clicker%20Simulator%20Auto%20Buy%20Egg%20Auto%20Upgrade%20Auto%20Clicker.lua")
