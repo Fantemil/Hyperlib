@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 18:49:21"
+lastupdate = "GMT +1: 08.03.2023 18:49:26"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -12100,3 +12100,5 @@ addscriptexist(21532277, "Notoriety: Hitbox, ESP, Tp To Key Card", "pulled from 
 addscriptexist(10903978962, "Sheep Tycoon: Auto Farm, Auto Sell, Walkspeed", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sheep%20Tycoon%20Auto%20Farm%20Auto%20Sell%20Walkspeed.lua")
 
 addscriptexist(4924922222, "Brookhaven RP: Rainbow Avatar, Rainbow Car, Money Gun", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Brookhaven%20RP%20Rainbow%20Avatar%20Rainbow%20Car%20Money%20Gun.lua")
+
+addscriptexist(8369888266, "Redcliff City RP: Spam Notify All, Small Avatar, Free Hats", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Redcliff%20City%20RP%20Spam%20Notify%20All%20Small%20Avatar%20Free%20Hats.lua")
