@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 16:46:29"
+lastupdate = "GMT +1: 08.03.2023 16:46:35"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -9134,3 +9134,5 @@ addscriptexist(920587237, "Adopt Me: Auto Farm, Auto PayOut, Auto Trade Decline"
 addscriptuniversal("Universal Hitbox Extender", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Hitbox%20Extender.lua")
 
 addscriptexist(7560156054, "Clicker Simulator: Inf Money", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Clicker%20Simulator%20Inf%20Money.lua")
+
+addscriptexist(11346342371, "making memes in your basement at 3 AM tycoon: Automatically collect all memes , Automatically upload all memes", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/making%20memes%20in%20your%20basement%20at%20%20AM%20tycoon%20Automatically%20collect%20all%20memes%20%20Automatically%20upload%20all%20memes.lua")
