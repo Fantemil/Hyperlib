@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 07:10:52"
+lastupdate = "GMT +1: 08.03.2023 07:10:56"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -5638,3 +5638,5 @@ addscriptexist(4282985734, "Combat Warriors: Boss Farm", "pulled from rbxscript.
 addscriptexist(1224212277, "Mad City: Chapter 2: ESP Crates, Silent AIM, Teleport", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mad%20City%20Chapter%20%20ESP%20Crates%20Silent%20AIM%20Teleport.lua")
 
 addscriptexist(7180042682, "Military Tycoon: Auto raid", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Military%20Tycoon%20Auto%20raid.lua")
+
+addscriptexist(2753915549, "Blox Fruits: Auto Farm Levels, Auto Super Human & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blox%20Fruits%20Auto%20Farm%20Levels%20Auto%20Super%20Human%20%20More.lua")
