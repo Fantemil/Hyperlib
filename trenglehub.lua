@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 17:24:34"
+lastupdate = "GMT +1: 08.03.2023 17:24:40"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -10106,3 +10106,5 @@ addscriptexist(648362523, "Breaking Point: Auto Farm - 200k Per Hour", "pulled f
 addscriptexist(914010731, "Ro-ghoul: Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Roghoul%20Auto%20Farm.lua")
 
 addscriptexist(2866967438, "Fishing Simulator: Updated Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Fishing%20Simulator%20Updated%20Auto%20Farm.lua")
+
+addscriptexist(3527629287, "BIG Paintball: Start Auto Farm, Stop Auto Farm, Player ESP", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BIG%20Paintball%20Start%20Auto%20Farm%20Stop%20Auto%20Farm%20Player%20ESP.lua")
