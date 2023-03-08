@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 17:25:42"
+lastupdate = "GMT +1: 08.03.2023 17:25:46"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -10134,3 +10134,5 @@ addscriptexist(6361937392, "steal time from others & be the best: FOV, Reach", "
 addscriptexist(155615604, "Prison Life: Kill All Players", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Prison%20Life%20Kill%20All%20Players.lua")
 
 addscriptexist(1458767429, "ABAABA: Candy Auto Grab", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ABAABA%20Candy%20Auto%20Grab.lua")
+
+addscriptexist(9414511685, "Drive Cars Down A Hill: Free Guns, Infinity Ammo", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Drive%20Cars%20Down%20A%20Hill%20Free%20Guns%20Infinity%20Ammo.lua")
