@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 19:58:55"
+lastupdate = "GMT +1: 08.03.2023 19:59:03"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -13380,3 +13380,5 @@ addscriptuniversal("Universal Make a Part", "pulled from rbxscript.com", "https:
 addscriptexist(2066381781, "Deadly Sins Retribution | Auto Farm, Auto Quest, Godmode", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Deadly%20Sins%20Retribution%20%20Auto%20Farm%20Auto%20Quest%20Godmode.lua")
 
 addscriptuniversal("Universal Anti Chat banner / logger", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Anti%20Chat%20banner%20%20logger.lua")
+
+addscriptexist(10320240572, "Easy Race Clicker | Fast Win Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Easy%20Race%20Clicker%20%20Fast%20Win%20Auto%20Farm.lua")
