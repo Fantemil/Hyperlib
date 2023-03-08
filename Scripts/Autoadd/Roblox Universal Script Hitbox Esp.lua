@@ -1,0 +1,1 @@
+if syn then else loadstring(game:HttpGet('https://raw.githubusercontent.com/2dgeneralspam1/lua-releases/main/iris-compat.lua'))()end;local function a()print("Loading...")loadstring(syn.request({Url='https://raw.githubusercontent.com/2dgeneralspam1/CheatX/main/versions/cheatx-old.lua'}).Body)()end;pcall(a)
