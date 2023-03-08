@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 18:12:47"
+lastupdate = "GMT +1: 08.03.2023 18:12:53"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -11312,3 +11312,5 @@ addscript(6612749452, "Current Game","Mineblox Simulator: Auto MIne, Auto Buy Pi
 addscriptexist(2788229376, "Da Hood: Resolve, Anti Lock, Auto Prediction", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Da%20Hood%20Resolve%20Anti%20Lock%20Auto%20Prediction.lua")
 
 addscriptexist(286090429, "Arsenal: Silent AIm, Kill All, ESP", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Arsenal%20Silent%20AIm%20Kill%20All%20ESP.lua")
+
+addscript(258258996, "Current Game","Miners Haven 2022: Candy Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Miners%20Haven%20%20Candy%20Farm.lua")
