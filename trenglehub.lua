@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 06:49:29"
+lastupdate = "GMT +1: 08.03.2023 06:49:33"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -4986,3 +4986,5 @@ addscriptexist(920587237, "Adopt Me: Data rollback, Dupe", "pulled from rbxscrip
 addscript(11495558803, "Current Game","Every Second You Get +1 Damage: NPC Farm, Auto Rebirth", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Every%20Second%20You%20Get%20%20Damage%20NPC%20Farm%20Auto%20Rebirth.lua")
 
 addscriptexist(292439477, "Phantom Forces: Hitbox GUI", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Phantom%20Forces%20Hitbox%20GUI.lua")
+
+addscriptexist(9796685905, "Super Hero Race Clicker: Auto Rebirth, Auto Click, Gems Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Super%20Hero%20Race%20Clicker%20Auto%20Rebirth%20Auto%20Click%20Gems%20Farm.lua")
