@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 20:56:35"
+lastupdate = "GMT +1: 08.03.2023 20:56:39"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -14636,3 +14636,5 @@ addscript(8876384197, "Current Game","steal time from others & flex your sword [
 addscriptexist(4036494886, "Gun Simulator [Inf Everything]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Gun%20Simulator%20Inf%20Everything.lua")
 
 addscriptexist(9049840490, "Sonic Speed Simulator [AutoRun, AutoRebrith]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sonic%20Speed%20Simulator%20AutoRun%20AutoRebrith.lua")
+
+addhub("Roblox [RICE HUB]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Roblox%20RICE%20HUB.lua")
