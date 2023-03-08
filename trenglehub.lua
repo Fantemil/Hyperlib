@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 15:05:46"
+lastupdate = "GMT +1: 08.03.2023 15:05:51"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -8540,3 +8540,5 @@ addscriptexist(11400511154, "Monkey Tycoon: Auto Merge, Auto Sell, Get Bananas",
 addscriptexist(6679968919, "Fly Race: Auto Craft Pets, Infinity Storage, Infinity Pets Equipped", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Fly%20Race%20Auto%20Craft%20Pets%20Infinity%20Storage%20Infinity%20Pets%20Equipped.lua")
 
 addscriptexist(11346342371, "making memes in your basement at 3 AM tycoon: Instant Uploads, Infinity Jumps, Loop Upgrade", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/making%20memes%20in%20your%20basement%20at%20%20AM%20tycoon%20Instant%20Uploads%20Infinity%20Jumps%20Loop%20Upgrade.lua")
+
+addscriptexist(4872321990, "Islands: Can Teleport, Auto Kill Boss, God Mode", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Islands%20Can%20Teleport%20Auto%20Kill%20Boss%20God%20Mode.lua")
