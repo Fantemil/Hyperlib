@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 17:49:40"
+lastupdate = "GMT +1: 08.03.2023 17:49:44"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -10736,3 +10736,5 @@ addscript(10192063645, "Current Game","Thy hood: Auto Farm, Teleports, Attack al
 addscript(4975865235, "Current Game","Mechanical Ascension X: Teleport to ghosts Jerry event", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mechanical%20Ascension%20X%20Teleport%20to%20ghosts%20Jerry%20event.lua")
 
 addscriptexist(4975865235, "Mechanical Ascension X: Teleport To Candy", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mechanical%20Ascension%20X%20Teleport%20To%20Candy.lua")
+
+addscriptexist(6516141723, "DOORS: Event Notifier, Avoid Rush Ambush ect", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DOORS%20Event%20Notifier%20Avoid%20Rush%20Ambush%20ect.lua")
