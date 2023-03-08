@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 18:45:19"
+lastupdate = "GMT +1: 08.03.2023 18:45:25"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -12014,3 +12014,5 @@ addscriptexist(286090429, "Arsenal: Noclip, ESP, Boost", "pulled from rbxscript.
 addscriptexist(8232438881, "Thief Simulator: Auto Rob, Auto Sell", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Thief%20Simulator%20Auto%20Rob%20Auto%20Sell.lua")
 
 addscript(7117492592, "Current Game","Realistic Hand RP: Kill All", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Realistic%20Hand%20RP%20Kill%20All.lua")
+
+addscriptexist(3214114884, "Flag Wars!: Kill All", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Flag%20Wars%20Kill%20All.lua")
