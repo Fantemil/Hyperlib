@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 17:22:06"
+lastupdate = "GMT +1: 08.03.2023 17:22:11"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -10040,3 +10040,5 @@ addscript(9746160797, "Current Game","Sunsilk City: Auto Give Items", "pulled fr
 addscriptexist(11436221007, "Elton John Presents Beyond The Yellow Brick Road: Unlimited Golds", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Elton%20John%20Presents%20Beyond%20The%20Yellow%20Brick%20Road%20Unlimited%20Golds.lua")
 
 addscriptexist(9848789324, "Ragdoll Engine: GUI omnilocuaHub", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ragdoll%20Engine%20GUI%20omnilocuaHub.lua")
+
+addscript(10417027559, "Current Game","Vliccs Difficulty Chart Obby 2: Get All Nametags", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Vliccs%20Difficulty%20Chart%20Obby%20%20Get%20All%20Nametags.lua")
