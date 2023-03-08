@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 20:51:03"
+lastupdate = "GMT +1: 08.03.2023 20:51:08"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -14500,3 +14500,5 @@ addscriptexist(6284583030, "Pet Simulator X [Auto Farm, Auto Hatch]", "pulled fr
 addscriptexist(2622527242, "SCP rBreach [Waklspeed, GetAmmo]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SCP%20rBreach%20Waklspeed%20GetAmmo.lua")
 
 addscriptexist(4036494886, "Gun Simulator [Inf Money, Inf medals]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Gun%20Simulator%20Inf%20Money%20Inf%20medals.lua")
+
+addscript(10150367093, "Current Game","Baking Tycoon [Claim Codes, Claim Plot, X2 5 min]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Baking%20Tycoon%20Claim%20Codes%20Claim%20Plot%20X%20%20min.lua")
