@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 17:36:34"
+lastupdate = "GMT +1: 08.03.2023 17:36:38"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -10406,3 +10406,5 @@ addscriptexist(8726743209, "Refinery Caves: Advanced Ore Teleport", "pulled from
 addscript(10085978574, "Current Game","My Little Pony: Visit Maretime Bay: Get All IItems", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/My%20Little%20Pony%20Visit%20Maretime%20Bay%20Get%20All%20IItems.lua")
 
 addscriptexist(2727067538, "World // Zero: Noclip, Inifnity Jump, Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/World%20%20Zero%20Noclip%20Inifnity%20Jump%20Auto%20Farm.lua")
+
+addscript(6336491204, "Current Game","Karate: God mode, Autoblock, Anti attack, Hitbox Expander", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Karate%20God%20mode%20Autoblock%20Anti%20attack%20Hitbox%20Expander.lua")
