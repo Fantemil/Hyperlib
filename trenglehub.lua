@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 06:46:20"
+lastupdate = "GMT +1: 08.03.2023 06:46:23"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -4888,3 +4888,5 @@ addscriptexist(5154858502, "Murderers vs. Sheriffs: Kill All, Knife Aura, ESP", 
 addscriptexist(23578803, "Hotel Elephant: Infinity Money", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Hotel%20Elephant%20Infinity%20Money.lua")
 
 addscriptexist(2609668898, "Custom Duels: Classic: Auto Lagger", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Custom%20Duels%20Classic%20Auto%20Lagger.lua")
+
+addscriptexist(7070810903, "crying simulator: Press Z to Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/crying%20simulator%20Press%20Z%20to%20Auto%20Farm.lua")
