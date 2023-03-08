@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 14:44:48"
+lastupdate = "GMT +1: 08.03.2023 14:44:52"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -7980,3 +7980,5 @@ addscriptexist(3101667897, "Legends Of Speed: Auto Circle, Auto Eggs, Teleports"
 addscriptexist(6933626061, "TLK Prison: Admin Commands Bar", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TLK%20Prison%20Admin%20Commands%20Bar.lua")
 
 addscriptexist(5956785391, "Project Slayers: Remove Hit Delay, Killaura, Fast Pickup items", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Project%20Slayers%20Remove%20Hit%20Delay%20Killaura%20Fast%20Pickup%20items.lua")
+
+addscriptexist(6172932937, "Energy Assault: Trigger Bot", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Energy%20Assault%20Trigger%20Bot.lua")
