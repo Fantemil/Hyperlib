@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 18:56:02"
+lastupdate = "GMT +1: 08.03.2023 18:56:07"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -12240,3 +12240,5 @@ addscriptexist(9872472334, "Evade: FullBright, Godmode & More", "pulled from rbx
 addscriptexist(10652184030, "Jump Clicker: Auto Farm, Anti Kick, Auto Rebirth", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Jump%20Clicker%20Auto%20Farm%20Anti%20Kick%20Auto%20Rebirth.lua")
 
 addscriptexist(8482451541, "Brick Defense: Win Game", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Brick%20Defense%20Win%20Game.lua")
+
+addscriptexist(6569480109, "EAU Park™: Aimbot, Delete All Balls", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/EAU%20Park%20Aimbot%20Delete%20All%20Balls.lua")
