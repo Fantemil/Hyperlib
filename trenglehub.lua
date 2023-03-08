@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 20:18:23"
+lastupdate = "GMT +1: 08.03.2023 20:18:29"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -13660,3 +13660,5 @@ addhub("ECLIPSE HUB | Tower Of Hell, Adopt Me, Murder Mystery", "pulled from rbx
 addscriptexist(8884433153, "Collect All Pets! | Auto Farm Coins, Free Gamepasses, Unlock All Doors", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Collect%20All%20Pets%20%20Auto%20Farm%20Coins%20Free%20Gamepasses%20Unlock%20All%20Doors.lua")
 
 addscriptexist(9662949425, "Punch a brick wall simulator | Inf Bones, AutoUp, AutoRebirth", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Punch%20a%20brick%20wall%20simulator%20%20Inf%20Bones%20AutoUp%20AutoRebirth.lua")
+
+addscriptexist(10676523834, "Racing Rocket | Inf Stars", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Racing%20Rocket%20%20Inf%20Stars.lua")
