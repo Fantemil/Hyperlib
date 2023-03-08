@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://gist.githubusercontent.com/vanya6583/d5c9f421c2656bc782e3bf7e4da10f5a/raw/20f9b6a1fe83aa4b5e52db000570e137cc5fabd0/TowerBattle"))()
