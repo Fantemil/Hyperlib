@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 15:12:56"
+lastupdate = "GMT +1: 08.03.2023 15:13:00"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -8732,3 +8732,5 @@ addscript(11355697822, "Current Game","Mushroom Men Tycoon: Auto Deliever, Auto 
 addscriptexist(4520749081, "King Legacy: Auto New Worlds, Auto Farm, Auto Stats", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/King%20Legacy%20Auto%20New%20Worlds%20Auto%20Farm%20Auto%20Stats.lua")
 
 addscriptexist(286090429, "Arsenal: Fly, Player Mods, Skin Giver", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Arsenal%20Fly%20Player%20Mods%20Skin%20Giver.lua")
+
+addscriptexist(6284583030, "Pet Simulator X Hub", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pet%20Simulator%20X%20Hub.lua")
