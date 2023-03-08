@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 21:03:50"
+lastupdate = "GMT +1: 08.03.2023 21:03:55"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -14814,3 +14814,5 @@ addscriptexist(1224212277, "Mad City [Reset Character (Bypass bug), ESP, Silent 
 addscriptexist(70005410, "Blox Hunt Tokens [Autofarm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blox%20Hunt%20Tokens%20Autofarm.lua")
 
 addscriptexist(1224212277, "Mad City [Fly, AutoFarm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mad%20City%20Fly%20AutoFarm.lua")
+
+addscriptexist(537413528, "Build A Boat For Treasure [Quests, Auto Farm, Many Functions]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Build%20A%20Boat%20For%20Treasure%20Quests%20Auto%20Farm%20Many%20Functions.lua")
