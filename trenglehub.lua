@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 15:01:58"
+lastupdate = "GMT +1: 08.03.2023 15:02:02"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -8442,3 +8442,5 @@ addscriptuniversal("Universal Lib Loader", "pulled from rbxscript.com", "https:/
 addscriptexist(23578803, "Hotel Elephant: Admin V1, Infinite Money, Ruin Server", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Hotel%20Elephant%20Admin%20V%20Infinite%20Money%20Ruin%20Server.lua")
 
 addscript(10622006440, "Current Game","Hyper Realistic Csgo Guns: Skin Changer", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Hyper%20Realistic%20Csgo%20Guns%20Skin%20Changer.lua")
+
+addscript(294790062, "Current Game","Roblox Titanic: Point Auto Farm, Setup All Liveboats, Water Damage Disable", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Roblox%20Titanic%20Point%20Auto%20Farm%20Setup%20All%20Liveboats%20Water%20Damage%20Disable.lua")
