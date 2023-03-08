@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 18:48:09"
+lastupdate = "GMT +1: 08.03.2023 18:48:13"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -12074,3 +12074,5 @@ addscriptexist(8204899140, "Football Fusion 2: Mag Reach", "pulled from rbxscrip
 addscriptexist(7056922815, "Reaper 2: Auto Farm Mobs, Auto Farm Player, Auto Eat", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Reaper%20%20Auto%20Farm%20Mobs%20Auto%20Farm%20Player%20Auto%20Eat.lua")
 
 addscriptexist(10652184030, "Jump Clicker: Auto Farm, Auto Click, Auto Hatch", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Jump%20Clicker%20Auto%20Farm%20Auto%20Click%20Auto%20Hatch.lua")
+
+addscriptexist(8726743209, "Refinery Caves: Rare Ore Esp", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Refinery%20Caves%20Rare%20Ore%20Esp.lua")
