@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 07:06:46"
+lastupdate = "GMT +1: 08.03.2023 07:06:51"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -5512,3 +5512,5 @@ addscriptexist(9872472334, "Evade: ESP, Tracers, Auto Respawn", "pulled from rbx
 addscriptexist(2619187362, "Super Power Fighting Simulator: Auto Train, Auto Farm Strenght & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Super%20Power%20Fighting%20Simulator%20Auto%20Train%20Auto%20Farm%20Strenght%20%20More.lua")
 
 addscriptuniversal("Universal Executor Function Searcher", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Executor%20Function%20Searcher.lua")
+
+addscriptuniversal("Real King Community: 5+ Games", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Real%20King%20Community%20%20Games.lua")
