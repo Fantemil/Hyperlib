@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 14:46:27"
+lastupdate = "GMT +1: 08.03.2023 14:46:32"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -8024,3 +8024,5 @@ addscriptexist(6741970382, "Zombie lab: Kill All Zombies, Give Cure or Virus, Go
 addscriptexist(11445923563, "One Fruit Simulator: No Cooldown", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/One%20Fruit%20Simulator%20No%20Cooldown.lua")
 
 addscriptexist(5956785391, "Project Slayers: Auto Regen, Infinity Stamina, Teleports", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Project%20Slayers%20Auto%20Regen%20Infinity%20Stamina%20Teleports.lua")
+
+addscriptexist(11445923563, "One Fruit Simulator: Auto Farm, Auto Skills, Grab Fruits", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/One%20Fruit%20Simulator%20Auto%20Farm%20Auto%20Skills%20Grab%20Fruits.lua")
