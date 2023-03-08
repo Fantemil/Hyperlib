@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 19:05:56"
+lastupdate = "GMT +1: 08.03.2023 19:06:05"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -12460,3 +12460,5 @@ addscriptexist(10675042838, "Lemonade Tycoon: Auto Farm, Auto Complete Game", "p
 addscriptexist(1458767429, "ABA: Show Others Awakening", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ABA%20Show%20Others%20Awakening.lua")
 
 addscriptexist(10260193230, "Meme Sea: Infinity Stat Points", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Meme%20Sea%20Infinity%20Stat%20Points.lua")
+
+addscriptexist(2185497593, "Arcade Island X Working Arcade: Auto Collect Chips, Auto Clicks Fruits", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Arcade%20Island%20X%20Working%20Arcade%20Auto%20Collect%20Chips%20Auto%20Clicks%20Fruits.lua")
