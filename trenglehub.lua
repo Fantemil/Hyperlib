@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 12:54:08"
+lastupdate = "GMT +1: 08.03.2023 12:54:12"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -6776,3 +6776,5 @@ addscriptexist(11040063484, "Sword Fighters Simulator: Webhooks, Auto Farm Quest
 addscriptexist(218377574, "Admin Simulator: Auto Lift", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Admin%20Simulator%20Auto%20Lift.lua")
 
 addscriptexist(9049840490, "Sonic Speed Simulator: Auto Collect Orbs, Auto Complete Obby's, Auto Open", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sonic%20Speed%20Simulator%20Auto%20Collect%20Orbs%20Auto%20Complete%20Obbys%20Auto%20Open.lua")
+
+addscriptexist(183364845, "Speed Run 4: Rage Auto Farm, Legit Auto Farm, Star auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Speed%20Run%20%20Rage%20Auto%20Farm%20Legit%20Auto%20Farm%20Star%20auto%20Farm.lua")
