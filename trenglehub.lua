@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 13:04:24"
+lastupdate = "GMT +1: 08.03.2023 13:04:28"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -7040,3 +7040,5 @@ addscriptexist(1537690962, "Bee Swarm Simulator: Auto Farm, Auto Collect Polen, 
 addscriptexist(6677985923, "Millionaire Empire Tycoon: WalkSpeed, Inf Money, Inf Jump", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Millionaire%20Empire%20Tycoon%20WalkSpeed%20Inf%20Money%20Inf%20Jump.lua")
 
 addscriptexist(6679968919, "Fly Race: Auto Win, Auto Collect Orbs, Auto Rebirth", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Fly%20Race%20Auto%20Win%20Auto%20Collect%20Orbs%20Auto%20Rebirth.lua")
+
+addscriptexist(10898965735, "Mine Racer: Auto Mine, Auto Upg, Auto Equip best picexe", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mine%20Racer%20Auto%20Mine%20Auto%20Upg%20Auto%20Equip%20best%20picexe.lua")
