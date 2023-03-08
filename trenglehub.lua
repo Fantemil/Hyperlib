@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 17:08:38"
+lastupdate = "GMT +1: 08.03.2023 17:08:42"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -9692,3 +9692,5 @@ addscriptexist(9872472334, "Evade: Walkspeed, Fly, Auto Farm", "pulled from rbxs
 addscriptexist(10404327868, "Timber Champions: Auto Farm, Auto Buy Everything, Auto Hatch", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Timber%20Champions%20Auto%20Farm%20Auto%20Buy%20Everything%20Auto%20Hatch.lua")
 
 addscriptexist(9551640993, "Mining simulator 2: Auto Farm, Auto Buy, Auto Sell", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mining%20simulator%20%20Auto%20Farm%20Auto%20Buy%20Auto%20Sell.lua")
+
+addscriptexist(2377868063, "Strucid: Crash Server", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Strucid%20Crash%20Server.lua")
