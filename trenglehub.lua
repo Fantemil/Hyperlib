@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 21:16:57"
+lastupdate = "GMT +1: 08.03.2023 21:17:02"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -14946,3 +14946,5 @@ addscript(1923555882, "Current Game","East Brickton [Auto Farm]", "pulled from r
 addscriptexist(4566572536, "Vehicle Legends [AutoFarm, AntiAFK]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Vehicle%20Legends%20AutoFarm%20AntiAFK.lua")
 
 addscriptexist(1554960397, "Car Dealership Tycoon [Auto Race Dune, Auto Race Rally]]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Car%20Dealership%20Tycoon%20Auto%20Race%20Dune%20Auto%20Race%20Rally.lua")
+
+addscriptexist(417267366, "Dollhouse Roleplay [Adm Cmds]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Dollhouse%20Roleplay%20Adm%20Cmds.lua")
