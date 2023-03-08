@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 17:06:50"
+lastupdate = "GMT +1: 08.03.2023 17:06:54"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -9646,3 +9646,5 @@ addscriptexist(2248408710, "Destruction Simulator: Auto Rankup, Infinity Money, 
 addscriptexist(205224386, "Hide And Seek Extreme: Fly, Auto Win, Walkspeed", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Hide%20And%20Seek%20Extreme%20Fly%20Auto%20Win%20Walkspeed.lua")
 
 addscriptexist(3527629287, "BIG Paintball: Kill All Farm, ESP, Misc", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BIG%20Paintball%20Kill%20All%20Farm%20ESP%20Misc.lua")
+
+addscriptexist(9872472334, "Evade: Inf Jumps, Auto Respawn, Respawn", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Evade%20Inf%20Jumps%20Auto%20Respawn%20Respawn.lua")
