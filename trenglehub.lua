@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 12:46:57"
+lastupdate = "GMT +1: 08.03.2023 12:47:01"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -6602,3 +6602,5 @@ addscript(11759625413, "Current Game","Dem's Upgrade Tree: Admin Panel", "pulled
 addscriptuniversal("Universal Aim Viewer", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Aim%20Viewer.lua")
 
 addscriptexist(4811576324, "Total Accurate Gun Simulator: Gun Mods", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Total%20Accurate%20Gun%20Simulator%20Gun%20Mods.lua")
+
+addscriptexist(3297964905, "Weaponry: Fast Firerate, No Recoil, No Spread, Instant Reload", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Weaponry%20Fast%20Firerate%20No%20Recoil%20No%20Spread%20Instant%20Reload.lua")
