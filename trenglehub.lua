@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 17:45:46"
+lastupdate = "GMT +1: 08.03.2023 17:45:53"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -10642,3 +10642,5 @@ addscriptexist(4490140733, "My Restaurant: Auto shrine, Auto Fireplace & More", 
 addscriptexist(10828925984, "Robot Tycoon: Infinity coins and gems", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Robot%20Tycoon%20Infinity%20coins%20and%20gems.lua")
 
 addscriptuniversal("Universal Join low player server", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Join%20low%20player%20server.lua")
+
+addscriptexist(8737602449, "PLS DONATE: Send Donation, Booth Text, Set Colour Text", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PLS%20DONATE%20Send%20Donation%20Booth%20Text%20Set%20Colour%20Text.lua")
