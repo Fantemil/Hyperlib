@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 06:51:53"
+lastupdate = "GMT +1: 08.03.2023 06:51:57"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -5058,3 +5058,5 @@ addscriptexist(537413528, "Build A Boat For Treasure: Auto Farm, Quest Launcher,
 addscriptuniversal("Universal environment spoofer", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20environment%20spoofer.lua")
 
 addscriptexist(537413528, "Build A Boat For Treasure: Auto Build, Save Build, Load File", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Build%20A%20Boat%20For%20Treasure%20Auto%20Build%20Save%20Build%20Load%20File.lua")
+
+addscriptuniversal("Universal function environment spy", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20function%20environment%20spy.lua")
