@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 18:42:44"
+lastupdate = "GMT +1: 08.03.2023 18:42:50"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -11970,3 +11970,5 @@ addscriptexist(2788229376, "Da Hood: Anti Lock, Anti Aim & More", "pulled from r
 addscriptexist(1537690962, "Bee Swarm Simulator: Auto Farm, Teleport to Rares & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Bee%20Swarm%20Simulator%20Auto%20Farm%20Teleport%20to%20Rares%20%20More.lua")
 
 addscriptexist(1215581239, "Doomspire Brickbattle: Teleports, ESP, Walkspeed", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Doomspire%20Brickbattle%20Teleports%20ESP%20Walkspeed.lua")
+
+addscript(8689257920, "Current Game","Life in Prison: Fly, Teleports, Item Giver", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Life%20in%20Prison%20Fly%20Teleports%20Item%20Giver.lua")
