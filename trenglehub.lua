@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 20:24:06"
+lastupdate = "GMT +1: 08.03.2023 20:24:12"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -13814,3 +13814,5 @@ addscriptuniversal("Roblox Universal Script [Money Bag]", "pulled from rbxscript
 addscriptexist(8534845015, "Sakura Stand [Item Esp, Dummy Farm, DummyGod & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sakura%20Stand%20Item%20Esp%20Dummy%20Farm%20DummyGod%20%20More.lua")
 
 addscriptexist(8962384769, "Firework Simulator [AutoFarm, KillAura]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Firework%20Simulator%20AutoFarm%20KillAura.lua")
+
+addscriptexist(1401417393, "Endurance [GUI - Speed Hack, AntiCheat Bypass & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Endurance%20GUI%20%20Speed%20Hack%20AntiCheat%20Bypass%20%20More.lua")
