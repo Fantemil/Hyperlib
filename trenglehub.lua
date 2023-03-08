@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 18:22:35"
+lastupdate = "GMT +1: 08.03.2023 18:22:42"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -11556,3 +11556,5 @@ addscriptuniversal("Universal Translator", "pulled from rbxscript.com", "https:/
 addscriptuniversal("Universal Synapse Launcher", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Synapse%20Launcher.lua")
 
 addscriptexist(8232438881, "Thief Simuulator: Rob Npc`s - Upgrade Skills & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Thief%20Simuulator%20Rob%20Npcs%20%20Upgrade%20Skills%20%20More.lua")
+
+addscriptexist(537413528, "Universal BABFT Gui V3", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20BABFT%20Gui%20V.lua")
