@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 18:40:24"
+lastupdate = "GMT +1: 08.03.2023 18:40:34"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -11934,3 +11934,5 @@ addscriptexist(2809202155, "Your Bizarre Adventure: Stand Farm, Item Farm, Stand
 addscriptexist(3198259055, "SoulShatters Test Place: Free Dust Sans", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SoulShatters%20Test%20Place%20Free%20Dust%20Sans.lua")
 
 addscript(4499822233, "Current Game","Star Wars Bounty Hunters: Outer Rim: Infinity Levels", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Star%20Wars%20Bounty%20Hunters%20Outer%20Rim%20Infinity%20Levels.lua")
+
+addscript(9415736218, "Current Game","Sushi Restaurant Tycoon: Infinity Golden Eggs", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sushi%20Restaurant%20Tycoon%20Infinity%20Golden%20Eggs.lua")
