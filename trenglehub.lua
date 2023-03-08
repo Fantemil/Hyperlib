@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 15:15:59"
+lastupdate = "GMT +1: 08.03.2023 15:16:04"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -8814,3 +8814,5 @@ addscriptexist(5041144419, "SCP: Roleplay: Get Guns, Get Eyeball Morph", "pulled
 addscriptexist(6516141723, "DOORS: Noclip, Fullbright, ESP", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DOORS%20Noclip%20Fullbright%20ESP.lua")
 
 addscriptexist(1662219031, "Life in Paradise: Remove Strollers", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Life%20in%20Paradise%20Remove%20Strollers.lua")
+
+addscript(6794368433, "Current Game","Be a Spider Tycoon: Auto Farm, Walkspeed Slider", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Be%20a%20Spider%20Tycoon%20Auto%20Farm%20Walkspeed%20Slider.lua")
