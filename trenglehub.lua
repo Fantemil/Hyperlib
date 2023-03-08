@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 20:52:09"
+lastupdate = "GMT +1: 08.03.2023 20:52:16"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -14526,3 +14526,5 @@ addscriptexist(2537430692, "Jenga [Instant Win, Walkspeed]", "pulled from rbxscr
 addscriptexist(8963721566, "The Backrooms [Inf Stamina]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/The%20Backrooms%20Inf%20Stamina.lua")
 
 addscriptuniversal("Roblox Universal Script [Maker FE]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Roblox%20Universal%20Script%20Maker%20FE.lua")
+
+addscriptexist(9872472334, "Evade [Free Gamepasses]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Evade%20Free%20Gamepasses.lua")
