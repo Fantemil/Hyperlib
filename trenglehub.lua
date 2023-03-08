@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 20:20:24"
+lastupdate = "GMT +1: 08.03.2023 20:20:29"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -13714,3 +13714,5 @@ addscriptexist(7560156054, "Clicker Simulator | AutoRebirth, AutoClick", "pulled
 addscriptexist(6229116934, "Hoopz | Aimbot, Walkspeed", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Hoopz%20%20Aimbot%20Walkspeed.lua")
 
 addscript(5505830188, "Current Game","Arcane Oblivion RPG | AutoBoss, AutoFarm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Arcane%20Oblivion%20RPG%20%20AutoBoss%20AutoFarm.lua")
+
+addscriptexist(621129760, "Knife Ability Test | Godmode, SeverBreak", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Knife%20Ability%20Test%20%20Godmode%20SeverBreak.lua")
