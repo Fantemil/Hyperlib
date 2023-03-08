@@ -1,75 +1,91 @@
-getgenv().S = {
-    Legit = true,
-    FOV = 250,
-    WallCheck = true,
-    Smooth = 0.1
+getgenv().AIMBOT_SETTINGS = {
+smoothness = 2,
+FOV = 250,
+VisibleCheck = true,
 }
-for i,v in pairs(game:GetChildren()) do
-    getgenv()[v.ClassName] = v 
-end 
-local Player = Players.LocalPlayer
-local Mouse = Player:GetMouse()
-local Shoot = false
 
-function NotObstructing(i, v)
-    if S.WallCheck then
-        c = Workspace.CurrentCamera.CFrame.Position
-        a = Ray.new(c, i - c)
-        f = Workspace:FindPartOnRayWithIgnoreList(a, v)
-        return f == nil
-    else
-        return true
-    end
+-- services
+local players = game:GetService("Players")
+local RunService = game:GetService("RunService")
+local UserInputService = game:GetService("UserInputService")
+
+-- variables
+local client = players.LocalPlayer
+local shared = getrenv().shared
+local camera = workspace.CurrentCamera
+local mouseLocation = UserInputService.GetMouseLocation
+local WorldToViewportPoint = camera.WorldToViewportPoint
+
+-- modules
+local replicationObject = shared.require("ReplicationObject")
+local replicationInterface = shared.require("ReplicationInterface")
+
+-- functions
+local function isAlive(entry)
+return replicationObject.isAlive(entry)
 end
 
-local GetClosestPlayerToCurser = function()
-    local Target = nil 
-    local MaxDistance = math.huge
-    for i,v in pairs(Workspace.Players:GetChildren()) do
-        if v.Name ~= Player.TeamColor.Name then
-            for i,v in pairs(v:GetChildren()) do
-                if v:IsA("Model") then
-                    local OnPoint, OnScreen = Workspace.CurrentCamera:WorldToViewportPoint(v:GetModelCFrame().Position)
-                    if OnScreen and NotObstructing(v:GetModelCFrame().Position, {Player.Character, v}) then
-                    local Mag = (Vector2.new(Mouse.X, Mouse.Y) - Vector2.new(OnPoint.X, OnPoint.Y)).Magnitude
-                        if Mag < MaxDistance then
-                            Target = v
-                            MaxDistance = Mag 
-                        end 
-                    end 
-                end 
-            end 
-        end 
-    end 
-    return Target 
-end 
-
-local Return = function(A)
-    return Workspace.CurrentCamera:WorldToScreenPoint(A)
+local function isVisible(p, ...)
+if not getgenv().AIMBOT_SETTINGS.VisibleCheck then
+return true
 end
 
-UserInputService.InputBegan:Connect(
-    function(v)
-        if v.UserInputType == Enum.UserInputType.MouseButton2 then
-            Shoot = true
-        end
-    end
-)
+return #camera:GetPartsObscuringTarget({ p }, { camera, client.Character, workspace.Ignore, ... }) == 0
+end
 
-UserInputService.InputEnded:Connect(
-    function(v)
-        if v.UserInputType == Enum.UserInputType.MouseButton2 then
-            Shoot = false
-        end
-    end
-)
+local function get_closest(fov: number)
+local targetPos: Vector3 = nil
+local magnitude: number = fov or math.huge
+for _, player in pairs(players:GetPlayers()) do
+if player == client or player.Team == client.Team then
+continue
+end
 
-RunService.Stepped:Connect(function()
-    pcall(function()
-        if not S.Legit or not Shoot then return end
-        local SexPosition = Return(GetClosestPlayerToCurser():GetModelCFrame().Position)
-        local MousePosition = Return(Mouse.Hit.Position)
-        local OldX, OldY = (SexPosition.X - MousePosition.X), (SexPosition.Y - MousePosition.Y) 
-        mousemoverel(OldX * S.Smooth, OldY * S.Smooth)
-    end)
+local entry = replicationInterface.getEntry(player)
+local character = entry and replicationObject.getThirdPersonObject(entry)
+
+if character and isAlive(entry) then
+local body_parts = character:getCharacterHash()
+
+local screen_pos, on_screen = WorldToViewportPoint(camera, body_parts.head.Position)
+local screen_pos_2D = Vector2.new(screen_pos.X, screen_pos.Y)
+local new_magnitude = (screen_pos_2D - mouseLocation(UserInputService)).Magnitude
+if
+on_screen
+and new_magnitude < magnitude
+and isVisible(body_parts.head.Position, body_parts.torso.Parent)
+then
+magnitude = new_magnitude
+targetPos = body_parts.head.Position
+end
+end
+end
+return targetPos
+end
+local mouse = client:GetMouse()
+local function aimAt(pos, smooth)
+local targetPos = camera:WorldToScreenPoint(pos)
+local mousePos = camera:WorldToScreenPoint(mouse.Hit.p)
+mousemoverel((targetPos.X - mousePos.X) / smooth, (targetPos.Y - mousePos.Y) / smooth)
+end
+local circle = Drawing.new("Circle")
+circle.Thickness = 2
+circle.NumSides = 12
+circle.Radius = 350
+circle.Filled = false
+circle.Transparency = 1
+circle.Color = Color3.new(1, 0.5, 0)
+circle.Visible = true
+
+RunService.RenderStepped:Connect(function()
+if UserInputService:IsMouseButtonPressed(Enum.UserInputType.MouseButton2) then
+local _pos = get_closest(getgenv().AIMBOT_SETTINGS.FOV)
+if _pos then
+aimAt(_pos, getgenv().AIMBOT_SETTINGS.smoothness)
+end
+end
+if circle.__OBJECT_EXISTS then
+circle.Position = mouseLocation(UserInputService)
+circle.Radius = getgenv().AIMBOT_SETTINGS.FOV
+end
 end)
