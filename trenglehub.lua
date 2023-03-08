@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 17:33:59"
+lastupdate = "GMT +1: 08.03.2023 17:34:03"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -10342,3 +10342,5 @@ addscriptexist(606849621, "Jailbreak: Silent Aim, Wallbang", "pulled from rbxscr
 addhub("REFLEX HUB V2: Working 6 games", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/REFLEX%20HUB%20V%20Working%20%20games.lua")
 
 addscriptexist(9787091365, "Ninja Storm Simulator: Auto Farm, Auto Skill, Auto Attack", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ninja%20Storm%20Simulator%20Auto%20Farm%20Auto%20Skill%20Auto%20Attack.lua")
+
+addscriptexist(10710676163, "SPTS : Origin | Anti AFK", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SPTS%20%20Origin%20%20Anti%20AFK.lua")
