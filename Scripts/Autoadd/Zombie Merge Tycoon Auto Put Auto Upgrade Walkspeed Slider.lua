@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/stopfox/ScriptKorzKZ/main/Zombie%20Merge%20Tycoon.lua", true))()
