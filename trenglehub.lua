@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 19:07:14"
+lastupdate = "GMT +1: 08.03.2023 19:07:18"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -12486,3 +12486,5 @@ addscript(6569721593, "Current Game","Clapper Clicker: Auto Rebirth, Auto Farm, 
 addscriptexist(5956785391, "Project Slayers: Infinite Spins", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Project%20Slayers%20Infinite%20Spins.lua")
 
 addscriptexist(510411669, "Fantastic Frontier: Teleports, Fast Regen Stamina", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Fantastic%20Frontier%20Teleports%20Fast%20Regen%20Stamina.lua")
+
+addscriptexist(10675042838, "Lemonade Tycoon: Auto Hervest, Auto Serve", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Lemonade%20Tycoon%20Auto%20Hervest%20Auto%20Serve.lua")
