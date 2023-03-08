@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 17:30:04"
+lastupdate = "GMT +1: 08.03.2023 17:30:08"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -10246,3 +10246,5 @@ addscriptexist(10652184030, "Jump Clicker: Infinity Stats", "pulled from rbxscri
 addscriptexist(3177438863, "Dragon Blox: Auto Quest, Auto Farm, Auto Punch", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Dragon%20Blox%20Auto%20Quest%20Auto%20Farm%20Auto%20Punch.lua")
 
 addscriptexist(9872472334, "Evade: Auto Farm XP, Auto Respawn, Auto Revive Peoples", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Evade%20Auto%20Farm%20XP%20Auto%20Respawn%20Auto%20Revive%20Peoples.lua")
+
+addscriptexist(6299805723, "Anime Fighters Simulator: Auto Farm, Select Enemy, Auto Click", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime%20Fighters%20Simulator%20Auto%20Farm%20Select%20Enemy%20Auto%20Click.lua")
