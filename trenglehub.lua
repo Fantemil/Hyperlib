@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 20:35:46"
+lastupdate = "GMT +1: 08.03.2023 20:35:50"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -14118,3 +14118,5 @@ addscript(9203864304, "Current Game","raise a floppa [AutoClick, AutoCollectMone
 addscriptexist(7047488135, "Speed Run Simulator [AutoClick, Win Race]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Speed%20Run%20Simulator%20AutoClick%20Win%20Race.lua")
 
 addscriptexist(2788229376, "Da Hood [Aimlock, Silent Aim]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Da%20Hood%20Aimlock%20Silent%20Aim.lua")
+
+addscriptuniversal("Roblox Universal Script [WalkOnWalls]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Roblox%20Universal%20Script%20WalkOnWalls.lua")
