@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 14:57:21"
+lastupdate = "GMT +1: 08.03.2023 14:57:25"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -8316,3 +8316,5 @@ addscriptexist(10875701453, "Edward The Man Eating Train: Semi God Mode", "pulle
 addscriptexist(6679968919, "Fly Race: Auto Farm, Auto Rebirth, Walkspeed", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Fly%20Race%20Auto%20Farm%20Auto%20Rebirth%20Walkspeed.lua")
 
 addscriptexist(2753915549, "Blox Fruits: Infinity Stamina, Anti Blur, Brightness", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blox%20Fruits%20Infinity%20Stamina%20Anti%20Blur%20Brightness.lua")
+
+addscriptexist(11238892040, "Type or Die: Auto Type, Auto Win, Auto Reval", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Type%20or%20Die%20Auto%20Type%20Auto%20Win%20Auto%20Reval.lua")
