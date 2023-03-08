@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 13:15:00"
+lastupdate = "GMT +1: 08.03.2023 13:15:06"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -7316,3 +7316,5 @@ addscriptexist(13822889, "Lumber Tycoon 2: Tp, Fly, Wood", "pulled from rbxscrip
 addscriptexist(8054462345, "Michael's Zombies: Knife Kill Aura, Flame Kill Auraю, Auto Gun Reload", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Michaels%20Zombies%20Knife%20Kill%20Aura%20Flame%20Kill%20Aura%D1%8E%20Auto%20Gun%20Reload.lua")
 
 addscriptexist(286090429, "Arsenal: Silent Aim, Wallbang, ESP", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Arsenal%20Silent%20Aim%20Wallbang%20ESP.lua")
+
+addscriptexist(2772610559, "Farming and Friends: Flying, Teleport, Speed", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Farming%20and%20Friends%20Flying%20Teleport%20Speed.lua")
