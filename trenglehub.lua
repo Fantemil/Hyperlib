@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 19:53:15"
+lastupdate = "GMT +1: 08.03.2023 19:53:21"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -13262,3 +13262,5 @@ addscriptexist(2788229376, "Da Hood | Aim Lock, AntiLag, Silent Mode", "pulled f
 addscriptexist(5993942214, "Rush Point | Skin Changer", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Rush%20Point%20%20Skin%20Changer.lua")
 
 addscript(1344307396, "Current Game","Destroy the Noob | Give All Items", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Destroy%20the%20Noob%20%20Give%20All%20Items.lua")
+
+addscriptexist(4522347649, "[FREE ADMIN] | Server Lagger", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FREE%20ADMIN%20%20Server%20Lagger.lua")
