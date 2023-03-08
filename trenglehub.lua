@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 12:24:22"
+lastupdate = "GMT +1: 08.03.2023 12:24:26"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -5980,3 +5980,5 @@ addscriptexist(8884334497, "Mining Clicker Simulator: Auto Rebirth, Auto Click B
 addscriptexist(286090429, "Arsenal: ESP, RGB Gun, Rapid Fire", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Arsenal%20ESP%20RGB%20Gun%20Rapid%20Fire.lua")
 
 addscriptexist(10347946161, "Rat Washing Tycoon: Auto Collect, Auto Wash, Auto Buy Buttons", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Rat%20Washing%20Tycoon%20Auto%20Collect%20Auto%20Wash%20Auto%20Buy%20Buttons.lua")
+
+addhub("Obscure Hub: 30+ Games", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Obscure%20Hub%20%20Games.lua")
