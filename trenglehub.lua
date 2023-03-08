@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 18:41:42"
+lastupdate = "GMT +1: 08.03.2023 18:41:50"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -11950,3 +11950,5 @@ addscriptexist(286090429, "Arsenal: AImbot, Silent Aim, Esp", "pulled from rbxsc
 addscriptexist(155615604, "Prison Life: Walkspeed, Jump Power", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Prison%20Life%20Walkspeed%20Jump%20Power.lua")
 
 addscriptexist(9417197334, "Anime Story: Auto Farm, Auto Quest, Insta Kill & more", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime%20Story%20Auto%20Farm%20Auto%20Quest%20Insta%20Kill%20%20more.lua")
+
+addscript(4608737604, "Current Game","fight: Auto Pickup Every Gun", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/fight%20Auto%20Pickup%20Every%20Gun.lua")
