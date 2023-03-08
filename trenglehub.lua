@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 17:14:28"
+lastupdate = "GMT +1: 08.03.2023 17:14:34"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -9844,3 +9844,5 @@ addscriptexist(155615604, "Prison Life: Arrest All, Auto Get Guns, Super Punch",
 addscriptexist(4282985734, "Combat Warriors: Walkspeed, Anti Afk & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Combat%20Warriors%20Walkspeed%20Anti%20Afk%20%20More.lua")
 
 addscript(7584496019, "Current Game","99% Fail Impossible Obby: Wall Color, Inf Yield, Teleports", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/%20Fail%20Impossible%20Obby%20Wall%20Color%20Inf%20Yield%20Teleports.lua")
+
+addhub("HP Hub: 10 Games", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/HP%20Hub%20%20Games.lua")
