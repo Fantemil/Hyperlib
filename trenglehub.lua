@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 12:57:47"
+lastupdate = "GMT +1: 08.03.2023 12:57:51"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -6868,3 +6868,5 @@ addscriptexist(4616652839, "Shindo Life: Auto Quest, Boss Quest, Auto Farm", "pu
 addscriptexist(11103424163, "Heist Tycoon: Infinity Money, FPS Booster, Jump Power Changer", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Heist%20Tycoon%20Infinity%20Money%20FPS%20Booster%20Jump%20Power%20Changer.lua")
 
 addscriptexist(11448431235, "Baryon: Infinity Orbs, Sell Orbs, Buy Fruit", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Baryon%20Infinity%20Orbs%20Sell%20Orbs%20Buy%20Fruit.lua")
+
+addscriptexist(9049840490, "Sonic Speed Simulator: RB Battles Get Badge", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sonic%20Speed%20Simulator%20RB%20Battles%20Get%20Badge.lua")
