@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 14:52:41"
+lastupdate = "GMT +1: 08.03.2023 14:52:45"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -8190,3 +8190,5 @@ addscriptexist(9601565001, "Car Crash System: Telekinesis, Anti Afk, Tiers", "pu
 addscript(10968324786, "Current Game","Dat Hood: Server Crasher, Server Logger", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Dat%20Hood%20Server%20Crasher%20Server%20Logger.lua")
 
 addscriptexist(537413528, "Build A Boat For Treasure: Auto Farm, ESP, Godmode", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Build%20A%20Boat%20For%20Treasure%20Auto%20Farm%20ESP%20Godmode.lua")
+
+addscriptexist(286090429, "Arsenal: Infinity Ammo, Auto Shoot, Options", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Arsenal%20Infinity%20Ammo%20Auto%20Shoot%20Options.lua")
