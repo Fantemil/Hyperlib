@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 20:57:38"
+lastupdate = "GMT +1: 08.03.2023 20:57:42"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -14664,3 +14664,5 @@ addscriptexist(7952502098, "Impossible Glass Bridge Obby! [Correct Path]", "pull
 addscriptexist(7952502098, "Impossible Glass Bridge Obby! [Inf Money]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Impossible%20Glass%20Bridge%20Obby%20Inf%20Money.lua")
 
 addscriptexist(6516141723, "DOORS [Auto Skip Rooms]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DOORS%20Auto%20Skip%20Rooms.lua")
+
+addscriptexist(2788229376, "Da Hood [Aim Lock]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Da%20Hood%20Aim%20Lock.lua")
