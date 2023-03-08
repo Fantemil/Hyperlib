@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 07:09:59"
+lastupdate = "GMT +1: 08.03.2023 07:10:03"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -5612,3 +5612,5 @@ addscriptexist(2788229376, "Da Hood: Auto Farm, Auto Heal & More", "pulled from 
 addscript(9919640604, "Current Game","Gem Mining Incremental: Infinity Gems", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Gem%20Mining%20Incremental%20Infinity%20Gems.lua")
 
 addscriptexist(8884334497, "Mining Clicker Simulator: Auto Buy Pickaxe, Auto Rebirth, Auto Click", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mining%20Clicker%20Simulator%20Auto%20Buy%20Pickaxe%20Auto%20Rebirth%20Auto%20Click.lua")
+
+addhub("Celectial Hub: 20+ Games", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Celectial%20Hub%20%20Games.lua")
