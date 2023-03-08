@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 12:54:21"
+lastupdate = "GMT +1: 08.03.2023 12:54:25"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -6782,3 +6782,5 @@ addscriptexist(183364845, "Speed Run 4: Rage Auto Farm, Legit Auto Farm, Star au
 addscript(11515876487, "Current Game","Scale Man: Auto Win", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Scale%20Man%20Auto%20Win.lua")
 
 addscriptexist(7239319209, "Ohio: Auto Stomp, Kill Aura, Tp to Valt", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ohio%20Auto%20Stomp%20Kill%20Aura%20Tp%20to%20Valt.lua")
+
+addscript(11343134438, "Current Game","Roblox but every second you get +1 Strength: Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Roblox%20but%20every%20second%20you%20get%20%20Strength%20Auto%20Farm.lua")
