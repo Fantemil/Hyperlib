@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 17:25:04"
+lastupdate = "GMT +1: 08.03.2023 17:25:08"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -10116,3 +10116,5 @@ addscriptexist(5171347293, "Cabin Crew Simulator: Get Gamepasses, Fix All NPC'S 
 addscriptexist(1537690962, "Bee Swarm Simulator: Auto Farm Field, Auto Dig, Auto Collect", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Bee%20Swarm%20Simulator%20Auto%20Farm%20Field%20Auto%20Dig%20Auto%20Collect.lua")
 
 addscriptexist(10726371567, "Find The Simpsons: Find All Simpsons, Speed", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Find%20The%20Simpsons%20Find%20All%20Simpsons%20Speed.lua")
+
+addscriptexist(8540346411, "Rebirth Champions X: Auto Collect Pumpkins, Auto Click & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Rebirth%20Champions%20X%20Auto%20Collect%20Pumpkins%20Auto%20Click%20%20More.lua")
