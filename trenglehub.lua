@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 06:45:55"
+lastupdate = "GMT +1: 08.03.2023 06:45:59"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -4876,3 +4876,5 @@ addscript(2693023319, "Current Game","Expedition Antarctica: Godmode, Infinity M
 addhub("Kidachi Hub: 2 Games", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Kidachi%20Hub%20%20Games.lua")
 
 addscriptexist(1224212277, "Mad City: Crates ESP", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mad%20City%20Crates%20ESP.lua")
+
+addscript(7070810903, "Current Game","crying simulator: Auto Cry, Auto Drink", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/crying%20simulator%20Auto%20Cry%20Auto%20Drink.lua")
