@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://raw.githubusercontent.com/PapierLP/Scripts/main/Slime%20Tower%20Tycoon'))()
