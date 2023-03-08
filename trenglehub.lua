@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 16:52:44"
+lastupdate = "GMT +1: 08.03.2023 16:52:50"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -9290,3 +9290,5 @@ addscriptexist(5740246170, "Tower Simulator: Build Bricks, Buy Left Upgrade, But
 addhub("Wheel Hub: 18 Car Games", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Wheel%20Hub%20%20Car%20Games.lua")
 
 addscriptexist(5956785391, "Project Slayers: NPC Farm, Boss Farm, Modify Walkspeed", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Project%20Slayers%20NPC%20Farm%20Boss%20Farm%20Modify%20Walkspeed.lua")
+
+addscriptuniversal("Universal Serversided Ping Lagger", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Serversided%20Ping%20Lagger.lua")
