@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 14:54:26"
+lastupdate = "GMT +1: 08.03.2023 14:54:30"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -8236,3 +8236,5 @@ addscriptexist(5561268850, "Randomly Generated Droids: Auto Farm", "pulled from 
 addscriptexist(2809202155, "Your Bizarre Adventure: Auto Farm Lucky Arrows, Webhook", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Your%20Bizarre%20Adventure%20Auto%20Farm%20Lucky%20Arrows%20Webhook.lua")
 
 addscriptexist(2809202155, "Your Bizarre Adventure: Pity Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Your%20Bizarre%20Adventure%20Pity%20Farm.lua")
+
+addscriptexist(606849621, "Jailbreak: Infinity Nitro, Fly, Infinity Jumps", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Jailbreak%20Infinity%20Nitro%20Fly%20Infinity%20Jumps.lua")
