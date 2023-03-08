@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://raw.githubusercontent.com/RGF0AKLS023LXZ/Public-Scripts/main/ridgeway%20concepts%20gui.txt'))()
