@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 13:16:16"
+lastupdate = "GMT +1: 08.03.2023 13:16:21"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -7348,3 +7348,5 @@ addscriptexist(9055015233, "My Hood: Auto Farm", "pulled from rbxscript.com", "h
 addscriptexist(11040063484, "Sword Fighters Simulator: Auto Farm Quest, Auto Farm Nearest, Auto Click", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sword%20Fighters%20Simulator%20Auto%20Farm%20Quest%20Auto%20Farm%20Nearest%20Auto%20Click.lua")
 
 addscript(7722306047, "Current Game","Pet Simulator X: Auto Egg Open, Open Gui's, Unlock Gamepass", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pet%20Simulator%20X%20Auto%20Egg%20Open%20Open%20Guis%20Unlock%20Gamepass.lua")
+
+addscriptexist(6407649031, "No-Scope ARCADE: Esp, Infinite Jump, Bunny Hop", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NoScope%20ARCADE%20Esp%20Infinite%20Jump%20Bunny%20Hop.lua")
