@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 17:49:25"
+lastupdate = "GMT +1: 08.03.2023 17:49:30"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -10730,3 +10730,5 @@ addscriptexist(3233893879, "Bad Business: Aim Bot, ESP", "pulled from rbxscript.
 addscriptexist(6516141723, "DOORS: Keybinds, Summon Entities, Summon Multiplayer", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DOORS%20Keybinds%20Summon%20Entities%20Summon%20Multiplayer.lua")
 
 addscriptexist(11169441681, "Word Bridge: Auto Plank", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Word%20Bridge%20Auto%20Plank.lua")
+
+addscript(10192063645, "Current Game","Thy hood: Auto Farm, Teleports, Attack all tools", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Thy%20hood%20Auto%20Farm%20Teleports%20Attack%20all%20tools.lua")
