@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 20:27:40"
+lastupdate = "GMT +1: 08.03.2023 20:27:44"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -13912,3 +13912,5 @@ addscriptexist(10676523834, "Racing Rocket [Infinite Speed]", "pulled from rbxsc
 addscript(113690124, "Current Game","Noob Onslaught [Inf Money]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Noob%20Onslaught%20Inf%20Money.lua")
 
 addscriptexist(6284583030, "Pet Simulator X [GUI - Auto Farm, Chest Farm & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pet%20Simulator%20X%20GUI%20%20Auto%20Farm%20Chest%20Farm%20%20More.lua")
+
+addscriptexist(8540346411, "Rebirth Champions X [Auto Click, Auto Rebirth, Auto Open Egg]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Rebirth%20Champions%20X%20Auto%20Click%20Auto%20Rebirth%20Auto%20Open%20Egg.lua")
