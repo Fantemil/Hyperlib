@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 06:50:59"
+lastupdate = "GMT +1: 08.03.2023 06:51:02"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -5032,3 +5032,5 @@ addscriptuniversal("Universal GUI: Speed, Gravity", "pulled from rbxscript.com",
 addscriptexist(11884594868, "Anime Defense Simulator: Auto Attack, Teleport, Float", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime%20Defense%20Simulator%20Auto%20Attack%20Teleport%20Float.lua")
 
 addscriptuniversal("Iicrrbii: Universal GUI", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Iicrrbii%20Universal%20GUI.lua")
+
+addscriptexist(7791873535, "REALISTIC HOOD: Autofarm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/REALISTIC%20HOOD%20Autofarm.lua")
