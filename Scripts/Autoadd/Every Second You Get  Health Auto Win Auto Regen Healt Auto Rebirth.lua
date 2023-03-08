@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/danixbo/idk/main/Every%20Second%20You%20Get%20%2B1%20Health%20Script", true))()
