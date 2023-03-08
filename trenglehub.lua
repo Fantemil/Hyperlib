@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 20:37:52"
+lastupdate = "GMT +1: 08.03.2023 20:37:56"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -14174,3 +14174,5 @@ addscriptexist(10705886260, "Strucid [Kill All]", "pulled from rbxscript.com", "
 addhub("Roblox [Ultimate Hub]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Roblox%20Ultimate%20Hub.lua")
 
 addscript(6778844213, "Current Game","Euphoria ragdoll testing [Donation Gui]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Euphoria%20ragdoll%20testing%20Donation%20Gui.lua")
+
+addscriptuniversal("Roblox Universal Script [Hitbox, Esp]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Roblox%20Universal%20Script%20Hitbox%20Esp.lua")
