@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 19:29:03"
+lastupdate = "GMT +1: 08.03.2023 19:29:07"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -12956,3 +12956,5 @@ addscriptexist(4924922222, "Brookhaven RP: Anti Afk", "pulled from rbxscript.com
 addscriptuniversal("Universal Version Check Utility", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Version%20Check%20Utility.lua")
 
 addscriptexist(4282985734, "Combat Warriors: Legit Anti Parry, Legit Auto Parry", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Combat%20Warriors%20Legit%20Anti%20Parry%20Legit%20Auto%20Parry.lua")
+
+addscriptuniversal("Universal FE Chat Slower", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20FE%20Chat%20Slower.lua")
