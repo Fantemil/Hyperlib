@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 17:16:54"
+lastupdate = "GMT +1: 08.03.2023 17:16:58"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -9910,3 +9910,5 @@ addscript(10298335542, "Current Game","Basketball Stars 2: Handle Badge Farm", "
 addscriptexist(3101667897, "Legends Of Speed: Get All Hoops And Orbs, Walkspeed, Jump Power", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Legends%20Of%20Speed%20Get%20All%20Hoops%20And%20Orbs%20Walkspeed%20Jump%20Power.lua")
 
 addscriptexist(155615604, "Prison Life: Walkspeed, Give All Guns, Noclip", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Prison%20Life%20Walkspeed%20Give%20All%20Guns%20Noclip.lua")
+
+addscriptexist(9049840490, "Sonic Speed Simulator: Auto Collect, Auto Rebirth, Auto Steps", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sonic%20Speed%20Simulator%20Auto%20Collect%20Auto%20Rebirth%20Auto%20Steps.lua")
