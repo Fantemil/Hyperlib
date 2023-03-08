@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 13:13:11"
+lastupdate = "GMT +1: 08.03.2023 13:13:15"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -7268,3 +7268,5 @@ addscriptuniversal("Universal Pipe Tool", "pulled from rbxscript.com", "https://
 addscriptexist(10914683361, "Busy Business! Auto Make Hotdogs", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Busy%20Business%20Auto%20Make%20Hotdogs.lua")
 
 addscriptexist(662417684, "Lucky Blocks Battlegrounds: Get All Weapons", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Lucky%20Blocks%20Battlegrounds%20Get%20All%20Weapons.lua")
+
+addscriptexist(286090429, "Arsenal: Silent Aim, ESP Chams, Rapid Fire", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Arsenal%20Silent%20Aim%20ESP%20Chams%20Rapid%20Fire.lua")
