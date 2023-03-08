@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 13:01:39"
+lastupdate = "GMT +1: 08.03.2023 13:01:44"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -6970,3 +6970,5 @@ addscriptexist(3527629287, "BIG Paintball: Kill all, Silent Aim, Aimbot", "pulle
 addscript(11109756592, "Current Game","YouTube Simulator Z: Auto Click", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/YouTube%20Simulator%20Z%20Auto%20Click.lua")
 
 addscript(11088884990, "Current Game","Goal Clicker: Wins Farm, Auto Click, Hatch.", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Goal%20Clicker%20Wins%20Farm%20Auto%20Click%20Hatch.lua")
+
+addscript(4225025295, "Current Game","OP NINJA SIMULATOR: Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20NINJA%20SIMULATOR%20Auto%20Farm.lua")
