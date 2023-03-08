@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 06:42:11"
+lastupdate = "GMT +1: 08.03.2023 06:42:15"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -4762,3 +4762,5 @@ addscriptexist(142823291, "Murder Mystery 2: Walkspeeed, ESP, Silent Aim", "pull
 addscriptexist(8750997647, "Tapping Legends X: AFK, Auto Tap, Auto Rebirth", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tapping%20Legends%20X%20AFK%20Auto%20Tap%20Auto%20Rebirth.lua")
 
 addscriptexist(286090429, "Arsenal: Silent Aim, FOV & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Arsenal%20Silent%20Aim%20FOV%20%20More.lua")
+
+addscriptexist(3351674303, "Driving Empire: Auto Farm, Infinity Jumps, ESP", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Driving%20Empire%20Auto%20Farm%20Infinity%20Jumps%20ESP.lua")
