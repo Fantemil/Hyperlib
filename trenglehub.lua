@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 12:21:49"
+lastupdate = "GMT +1: 08.03.2023 12:21:52"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -5912,3 +5912,5 @@ addscriptexist(3823781113, "Saber Simulator: Auto Swing, Auto Sell, Auto Buy", "
 addscriptexist(9872472334, "Evade: Money Farm, Ticket Farm, Infinity Jumps", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Evade%20Money%20Farm%20Ticket%20Farm%20Infinity%20Jumps.lua")
 
 addscriptexist(6516141723, "DOORS: Entity Spawner, Red Room, Options", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DOORS%20Entity%20Spawner%20Red%20Room%20Options.lua")
+
+addscriptexist(11302865934, "Every Second You Get +1 Health: Auto Rebirth, Get All Gear, Wins Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Every%20Second%20You%20Get%20%20Health%20Auto%20Rebirth%20Get%20All%20Gear%20Wins%20Auto%20Farm.lua")
