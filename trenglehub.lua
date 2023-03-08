@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 20:35:36"
+lastupdate = "GMT +1: 08.03.2023 20:35:42"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -14114,3 +14114,5 @@ addscript(4893679160, "Current Game","Big Brain Simulator [AutoSell, Collect Coi
 addscript(6245984328, "Current Game","NERF Strike [AutoFarm, Hitboxes]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NERF%20Strike%20AutoFarm%20Hitboxes.lua")
 
 addscript(9203864304, "Current Game","raise a floppa [AutoClick, AutoCollectMoney]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/raise%20a%20floppa%20AutoClick%20AutoCollectMoney.lua")
+
+addscriptexist(7047488135, "Speed Run Simulator [AutoClick, Win Race]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Speed%20Run%20Simulator%20AutoClick%20Win%20Race.lua")
