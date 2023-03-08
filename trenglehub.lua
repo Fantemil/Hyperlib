@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 12:56:49"
+lastupdate = "GMT +1: 08.03.2023 12:56:53"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -6844,3 +6844,5 @@ addscriptexist(9579228669, "Everyday Car Driving: Bug Server", "pulled from rbxs
 addscriptexist(6512923934, "Ultra Clickers Simulator! Auto Clicker", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ultra%20Clickers%20Simulator%20Auto%20Clicker.lua")
 
 addscriptexist(218377574, "Admin Simulator: Auto Rebirth, Auto Click", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Admin%20Simulator%20Auto%20Rebirth%20Auto%20Click.lua")
+
+addscriptuniversal("Universal Anti Webhook logging", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Anti%20Webhook%20logging.lua")
