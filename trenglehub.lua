@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 14:32:19"
+lastupdate = "GMT +1: 08.03.2023 14:32:23"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -7646,3 +7646,5 @@ addscript(11533168821, "Current Game","How Far Can You Dunk: Auto Collect Boost"
 addscriptexist(10198661638, "Farm Factory Tycoon: Auto Spawn Cash", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Farm%20Factory%20Tycoon%20Auto%20Spawn%20Cash.lua")
 
 addscript(7791106063, "Current Game","Furry Infection: Auto Breakout, Insta Kill, Delete Kill Parts", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Furry%20Infection%20Auto%20Breakout%20Insta%20Kill%20Delete%20Kill%20Parts.lua")
+
+addscriptexist(142823291, "Murder Mystery 2: Auto Grab Gun, Silent Aim, Kill All", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Murder%20Mystery%20%20Auto%20Grab%20Gun%20Silent%20Aim%20Kill%20All.lua")
