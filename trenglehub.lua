@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 19:38:10"
+lastupdate = "GMT +1: 08.03.2023 19:38:16"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -13162,3 +13162,5 @@ addscriptexist(9872472334, "Evade: Walkspeed, Jumppower, AutoFarm", "pulled from
 addscriptexist(6403373529, "Slap Battles: AutoFarm Slapples, Trap AutoFarm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Slap%20Battles%20AutoFarm%20Slapples%20Trap%20AutoFarm.lua")
 
 addscriptexist(185655149, "Bloxburg: Automatic Pizza Delivery", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Bloxburg%20Automatic%20Pizza%20Delivery.lua")
+
+addscriptuniversal("Universal Walk An Walls", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Walk%20An%20Walls.lua")
