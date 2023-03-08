@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 16:54:07"
+lastupdate = "GMT +1: 08.03.2023 16:54:11"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -9322,3 +9322,5 @@ addscriptexist(4520749081, "King Legacy: Auto Next Sea, Auto Farm, ESP", "pulled
 addscriptexist(10726371567, "Find The Simpsons: Get All Simpsons, Jumppower, Rejoin", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Find%20The%20Simpsons%20Get%20All%20Simpsons%20Jumppower%20Rejoin.lua")
 
 addscriptuniversal("Universal No Gravity", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20No%20Gravity.lua")
+
+addscript(6606081876, "Current Game","Crossover Arena: Gun Mods", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Crossover%20Arena%20Gun%20Mods.lua")
