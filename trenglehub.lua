@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 14:27:26"
+lastupdate = "GMT +1: 08.03.2023 14:27:33"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -7524,3 +7524,5 @@ addscriptexist(10598587051, "Anime Clicker Fight: Auto Click, Auto Equip Best Pe
 addscriptexist(11400511154, "Monkey Tycoon: Auto Collect, Auto Deposit", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Monkey%20Tycoon%20Auto%20Collect%20Auto%20Deposit.lua")
 
 addscriptexist(537413528, "Build A Boat For Treasure: Auto Farm, Walkspeed & Jumppower sliders", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Build%20A%20Boat%20For%20Treasure%20Auto%20Farm%20Walkspeed%20%20Jumppower%20sliders.lua")
+
+addscriptexist(6741970382, "Zombie lab: Get Cure, Infinity Ammo, Remove Doors", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Zombie%20lab%20Get%20Cure%20Infinity%20Ammo%20Remove%20Doors.lua")
