@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 13:14:30"
+lastupdate = "GMT +1: 08.03.2023 13:14:34"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -7302,3 +7302,5 @@ addscriptexist(286090429, "Aresenal: Aimbot, Wallhacks, Gun Mods", "pulled from 
 addscriptexist(11445923563, "One Fruit Simulator: Auto Farm Level , Auto Farm Gorilla, Auto Farm Sea Beast", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/One%20Fruit%20Simulator%20Auto%20Farm%20Level%20%20Auto%20Farm%20Gorilla%20Auto%20Farm%20Sea%20Beast.lua")
 
 addscriptexist(4913581664, "Cart Ride Into Rdite: Invisible Fling, Spam Up On Carts, Spam Down On Carts", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Cart%20Ride%20Into%20Rdite%20Invisible%20Fling%20Spam%20Up%20On%20Carts%20Spam%20Down%20On%20Carts.lua")
+
+addscriptexist(2753915549, "Blox Fruits: Auto Farm Lvl, Fast Attack, Farm Chest", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blox%20Fruits%20Auto%20Farm%20Lvl%20Fast%20Attack%20Farm%20Chest.lua")
