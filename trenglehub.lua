@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 14:39:31"
+lastupdate = "GMT +1: 08.03.2023 14:39:37"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -7836,3 +7836,5 @@ addscriptexist(8540168650, "Stand Upright: Rebooted: Auto Farm, Auto Umbrella & 
 addscriptuniversal("Universal Local Player Informations", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Local%20Player%20Informations.lua")
 
 addscriptexist(2788229376, "Da Hood: FOV, Wall Check, Silent Aim", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Da%20Hood%20FOV%20Wall%20Check%20Silent%20Aim.lua")
+
+addscriptuniversal("Universal Server Finder", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Server%20Finder.lua")
