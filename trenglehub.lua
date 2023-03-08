@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 18:04:56"
+lastupdate = "GMT +1: 08.03.2023 18:05:00"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -11124,3 +11124,5 @@ addscriptexist(537413528, "Build A Boat For Treasure: Auto Open Crates, Player M
 addscriptexist(10512771459, "Fighting Academy: Auto Farm, Auto Quests, Auto Punch", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Fighting%20Academy%20Auto%20Farm%20Auto%20Quests%20Auto%20Punch.lua")
 
 addscriptexist(8482713490, "Forgotten Memories: Infinite Money", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Forgotten%20Memories%20Infinite%20Money.lua")
+
+addscriptexist(9872472334, "Evade: Ticket Autofarm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Evade%20Ticket%20Autofarm.lua")
