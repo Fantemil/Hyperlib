@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 16:38:18"
+lastupdate = "GMT +1: 08.03.2023 16:38:23"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -8938,3 +8938,5 @@ addscriptexist(8908228901, "SharkBite 2: Godmode, Autofarm, Auto Invite All", "p
 addscriptexist(10906235788, "Crocs World Minigames: Collect all the Jibbitz, Walkspeed", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Crocs%20World%20Minigames%20Collect%20all%20the%20Jibbitz%20Walkspeed.lua")
 
 addscriptexist(9498006165, "Tapping Simulator: Auto Rebirth, Auto Clicker, Infinity Jumps", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tapping%20Simulator%20Auto%20Rebirth%20Auto%20Clicker%20Infinity%20Jumps.lua")
+
+addscriptexist(10053187005, "Counter Blox Reimagined: Rainbow Valorant Knife", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Counter%20Blox%20Reimagined%20Rainbow%20Valorant%20Knife.lua")
