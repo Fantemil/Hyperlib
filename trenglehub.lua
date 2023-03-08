@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 19:33:05"
+lastupdate = "GMT +1: 08.03.2023 19:33:09"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -13048,3 +13048,5 @@ addscriptexist(10676523834, "Racing Rocket: Auto Clicker, Auto Star & more", "pu
 addscriptexist(2041312716, "Ragdoll Engine: Fly, Teleports & more", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ragdoll%20Engine%20Fly%20Teleports%20%20more.lua")
 
 addscriptuniversal("Universal Google Translator", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Google%20Translator.lua")
+
+addscriptexist(8737602449, "PLS DONATE: Fake Donate Nuke", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PLS%20DONATE%20Fake%20Donate%20Nuke.lua")
