@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 12:21:44"
+lastupdate = "GMT +1: 08.03.2023 12:21:49"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -5910,3 +5910,5 @@ addscriptexist(3956818381, "Ninja Legends: Unlock All Elements, Auto Swing & Mor
 addscriptexist(3823781113, "Saber Simulator: Auto Swing, Auto Sell, Auto Buy", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Saber%20Simulator%20Auto%20Swing%20Auto%20Sell%20Auto%20Buy.lua")
 
 addscriptexist(9872472334, "Evade: Money Farm, Ticket Farm, Infinity Jumps", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Evade%20Money%20Farm%20Ticket%20Farm%20Infinity%20Jumps.lua")
+
+addscriptexist(6516141723, "DOORS: Entity Spawner, Red Room, Options", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DOORS%20Entity%20Spawner%20Red%20Room%20Options.lua")
