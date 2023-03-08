@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 06:40:01"
+lastupdate = "GMT +1: 08.03.2023 06:40:05"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -4692,3 +4692,5 @@ addscriptexist(2753915549, "Blox Fruits: Fruit Founder", "pulled from rbxscript.
 addscriptexist(9872472334, "Evade: Money Farm, AFK Farm, ESP", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Evade%20Money%20Farm%20AFK%20Farm%20ESP.lua")
 
 addscriptexist(537413528, "Build A Boat For Treasure: Auto Win, Auto Buy Chests, Auto Farm Golds", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Build%20A%20Boat%20For%20Treasure%20Auto%20Win%20Auto%20Buy%20Chests%20Auto%20Farm%20Golds.lua")
+
+addscriptexist(606849621, "Jailbreak: Inf Jetpack Fuel", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Jailbreak%20Inf%20Jetpack%20Fuel.lua")
