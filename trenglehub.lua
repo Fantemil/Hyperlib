@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 16:52:50"
+lastupdate = "GMT +1: 08.03.2023 16:52:53"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -9292,3 +9292,5 @@ addhub("Wheel Hub: 18 Car Games", "pulled from rbxscript.com", "https://raw.gith
 addscriptexist(5956785391, "Project Slayers: NPC Farm, Boss Farm, Modify Walkspeed", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Project%20Slayers%20NPC%20Farm%20Boss%20Farm%20Modify%20Walkspeed.lua")
 
 addscriptuniversal("Universal Serversided Ping Lagger", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Serversided%20Ping%20Lagger.lua")
+
+addscriptexist(2753915549, "Blox Fruits: Auto Select Weapon, Auto Skills & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blox%20Fruits%20Auto%20Select%20Weapon%20Auto%20Skills%20%20More.lua")
