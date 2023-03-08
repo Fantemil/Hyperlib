@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 20:18:03"
+lastupdate = "GMT +1: 08.03.2023 20:18:07"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -13650,3 +13650,5 @@ addscriptexist(10484095306, "CLIMB 100.000 STAIRS TO VIP | Teleport to Mystery H
 addscript(5987989452, "Current Game","monke game [GetWeapon, MonkeyColor]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/monke%20game%20GetWeapon%20MonkeyColor.lua")
 
 addscriptexist(9498006165, "Tapping Simulator! | AutoClick, AutoRebirth", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tapping%20Simulator%20%20AutoClick%20AutoRebirth.lua")
+
+addscriptexist(286090429, "Arsenal | Silent Aim, Esp", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Arsenal%20%20Silent%20Aim%20Esp.lua")
