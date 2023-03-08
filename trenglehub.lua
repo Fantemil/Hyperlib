@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 14:35:45"
+lastupdate = "GMT +1: 08.03.2023 14:35:50"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -7734,3 +7734,5 @@ addscriptexist(2788229376, "Da Hood: Show Where People Are Aiming, Very Overpowe
 addscriptexist(6552369796, "neon Knights: Quick Speed", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/neon%20Knights%20Quick%20Speed.lua")
 
 addscriptexist(8737602449, "PLS DONATE: Fortune Cookie", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PLS%20DONATE%20Fortune%20Cookie.lua")
+
+addscript(2988554876, "Current Game","Military Simulator: Full Auto, Firerate, No Recoil", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Military%20Simulator%20Full%20Auto%20Firerate%20No%20Recoil.lua")
