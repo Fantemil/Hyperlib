@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 14:45:36"
+lastupdate = "GMT +1: 08.03.2023 14:45:44"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -8002,3 +8002,5 @@ addscriptexist(11445923563, "One Fruit Simulator: Collect Chest, Auto Farm Lvl, 
 addscriptexist(4872321990, "Islands: Godmode, Teleport tree, Auto Fish", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Islands%20Godmode%20Teleport%20tree%20Auto%20Fish.lua")
 
 addscriptexist(2534724415, "Emergency Response: Liberty County: Auto Get Code For Bank Robbery, House ESP, Jewerly ESP", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Emergency%20Response%20Liberty%20County%20Auto%20Get%20Code%20For%20Bank%20Robbery%20House%20ESP%20Jewerly%20ESP.lua")
+
+addscriptexist(155615604, "Prison Life: Inf Stamina, Silent CMD, Anti Arrest", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Prison%20Life%20Inf%20Stamina%20Silent%20CMD%20Anti%20Arrest.lua")
