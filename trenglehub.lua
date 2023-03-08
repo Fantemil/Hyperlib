@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 20:26:24"
+lastupdate = "GMT +1: 08.03.2023 20:26:28"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -13876,3 +13876,5 @@ addscriptexist(10710676163, "SPTS : Origin [Speed And Jump Farm]", "pulled from 
 addscriptexist(1962086868, "Tower of Hell [Fly, Walkspeed]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tower%20of%20Hell%20Fly%20Walkspeed.lua")
 
 addscriptexist(9049840490, "Sonic Speed Simulator [AutoRace, AutoStep]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sonic%20Speed%20Simulator%20AutoRace%20AutoStep.lua")
+
+addscriptexist(10087074695, "Knife Strife [Kill all, Kill aura, Instant kill]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Knife%20Strife%20Kill%20all%20Kill%20aura%20Instant%20kill.lua")
