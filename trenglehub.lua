@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 18:38:40"
+lastupdate = "GMT +1: 08.03.2023 18:38:45"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -11898,3 +11898,5 @@ addscriptexist(3851622790, "Break In (Story): Instant Heal, Auto Eat & More", "p
 addscriptexist(9941633436, "Rank Simulator: Auto Collect Stars", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Rank%20Simulator%20Auto%20Collect%20Stars.lua")
 
 addscriptexist(6243699076, "The Mimic: Auto Complete Haloween Trial", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/The%20Mimic%20Auto%20Complete%20Haloween%20Trial.lua")
+
+addscript(460710135, "Current Game","Mount of the Gods: Kill All Animals, Break All Rocks & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mount%20of%20the%20Gods%20Kill%20All%20Animals%20Break%20All%20Rocks%20%20More.lua")
