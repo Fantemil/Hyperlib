@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 16:52:58"
+lastupdate = "GMT +1: 08.03.2023 16:53:04"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -9296,3 +9296,5 @@ addscriptuniversal("Universal Serversided Ping Lagger", "pulled from rbxscript.c
 addscriptexist(2753915549, "Blox Fruits: Auto Select Weapon, Auto Skills & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blox%20Fruits%20Auto%20Select%20Weapon%20Auto%20Skills%20%20More.lua")
 
 addscriptexist(10977918334, "Merge Droppers: Walkspeed, Auto Deposit, Auto Merge", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Merge%20Droppers%20Walkspeed%20Auto%20Deposit%20Auto%20Merge.lua")
+
+addscriptexist(142823291, "Murder Mystery 2: ESP, Gun Grabber & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Murder%20Mystery%20%20ESP%20Gun%20Grabber%20%20More.lua")
