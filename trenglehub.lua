@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 19:20:43"
+lastupdate = "GMT +1: 08.03.2023 19:20:48"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -12778,3 +12778,5 @@ addscriptexist(10615427129, "Quadra Clickers: Fast auto clicker", "pulled from r
 addscript(9141579304, "Current Game","Strength Simulator 2: Auto Strenght", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Strength%20Simulator%20%20Auto%20Strenght.lua")
 
 addscriptexist(6872265039, "BedWars: Kill Aura, Auto Scaffold & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BedWars%20Kill%20Aura%20Auto%20Scaffold%20%20More.lua")
+
+addscriptexist(3260590327, "Tower Defense Simulator: Gems Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tower%20Defense%20Simulator%20Gems%20Auto%20Farm.lua")
