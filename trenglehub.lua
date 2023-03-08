@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 18:05:55"
+lastupdate = "GMT +1: 08.03.2023 18:05:59"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -11148,3 +11148,5 @@ addscriptexist(863266079, "Apocalypse Rising 2: Item Giver", "pulled from rbxscr
 addscriptexist(893973440, "Flee the Facility: Walkspeed, Gravity, ESP", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Flee%20the%20Facility%20Walkspeed%20Gravity%20ESP.lua")
 
 addscriptexist(8482713490, "Forgotten Memories: Marionette Block", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Forgotten%20Memories%20Marionette%20Block.lua")
+
+addscriptexist(292439477, "Phantom Forces: Unlock All", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Phantom%20Forces%20Unlock%20All.lua")
