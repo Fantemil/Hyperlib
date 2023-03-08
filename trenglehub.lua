@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 12:29:16"
+lastupdate = "GMT +1: 08.03.2023 12:29:20"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -6108,3 +6108,5 @@ addscriptexist(6516141723, "DOORS: Figure Crucifix", "pulled from rbxscript.com"
 addscriptuniversal("Universal Display Name Remover", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Display%20Name%20Remover.lua")
 
 addscript(8947693494, "Current Game","NYC:Bronx: Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NYCBronx%20Auto%20Farm.lua")
+
+addscriptexist(537413528, "Build A Boat For Treasure: Teleports, Crash Server, Antiafk", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Build%20A%20Boat%20For%20Treasure%20Teleports%20Crash%20Server%20Antiafk.lua")
