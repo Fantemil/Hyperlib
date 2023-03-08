@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://github.com/GhostDuckyy/GhostDuckyy/blob/main/Source/Bubble%20Gum%20Clicker.lua?raw=true"))()
