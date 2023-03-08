@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 17:09:48"
+lastupdate = "GMT +1: 08.03.2023 17:09:53"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -9722,3 +9722,5 @@ addscriptexist(4588604953, "Criminality: Aim, ESP", "pulled from rbxscript.com",
 addscriptexist(537413528, "Build A Boat For Treasure: Auto Farm, Auto Rare Chests, Auto Common Chests", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Build%20A%20Boat%20For%20Treasure%20Auto%20Farm%20Auto%20Rare%20Chests%20Auto%20Common%20Chests.lua")
 
 addscript(7250769796, "Current Game","Build to survive: Hip Height, Name ESP, Teleports", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Build%20to%20survive%20Hip%20Height%20Name%20ESP%20Teleports.lua")
+
+addscriptexist(6516141723, "DOORS: Anti Rush, Inf Jumps & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DOORS%20Anti%20Rush%20Inf%20Jumps%20%20More.lua")
