@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 16:58:08"
+lastupdate = "GMT +1: 08.03.2023 16:58:12"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -9428,3 +9428,5 @@ addscriptexist(9498006165, "Tapping Simulator! Auto Tap, Auto Rebirth, Auto Upgr
 addscriptexist(3956818381, "Ninja Legends: Auto Hoops, Auto Collect All Chests, Unlock All Worlds", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ninja%20Legends%20Auto%20Hoops%20Auto%20Collect%20All%20Chests%20Unlock%20All%20Worlds.lua")
 
 addscriptexist(7305309231, "Taxo Boss: Buy Cars Without Relationship", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Taxo%20Boss%20Buy%20Cars%20Without%20Relationship.lua")
+
+addscriptexist(9848789324, "Ragdoll Engine: Crash, Super Fling & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ragdoll%20Engine%20Crash%20Super%20Fling%20%20More.lua")
