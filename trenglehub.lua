@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 16:50:14"
+lastupdate = "GMT +1: 08.03.2023 16:50:18"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -9226,3 +9226,5 @@ addscriptexist(11196588443, "Zombie Merge Tycoon: Auto Deposit, Inf Sample, Auto
 addscriptexist(5780309044, "Stands Awakening: Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Stands%20Awakening%20Auto%20Farm.lua")
 
 addscriptuniversal("Universal Create A Pastebin With Your AssetID", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Create%20A%20Pastebin%20With%20Your%20AssetID.lua")
+
+addscriptexist(8884433153, "Collect All Pets: Auto Claim Quest Reward, Auto Collect, Auto Eggs", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Collect%20All%20Pets%20Auto%20Claim%20Quest%20Reward%20Auto%20Collect%20Auto%20Eggs.lua")
