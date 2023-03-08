@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 14:32:59"
+lastupdate = "GMT +1: 08.03.2023 14:33:03"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -7664,3 +7664,5 @@ addscriptexist(698448212, "Robeats: Auto Player, Perfect Scores Every Time", "pu
 addscriptexist(2753915549, "Blox Fruits: Auto Quests, Auto Farm, Auto Haki", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blox%20Fruits%20Auto%20Quests%20Auto%20Farm%20Auto%20Haki.lua")
 
 addscriptexist(4913581664, "Cart Ride Into Rdite! Spam Down On Carts, Spam Up On Carts, Inv Fling", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Cart%20Ride%20Into%20Rdite%20Spam%20Down%20On%20Carts%20Spam%20Up%20On%20Carts%20Inv%20Fling.lua")
+
+addscriptuniversal("Universal Print When Player Join Game", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Print%20When%20Player%20Join%20Game.lua")
