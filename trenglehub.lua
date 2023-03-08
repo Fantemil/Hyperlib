@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 17:50:01"
+lastupdate = "GMT +1: 08.03.2023 17:50:06"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -10746,3 +10746,5 @@ addscriptexist(10775789257, "Construction Tycoon: Infinity Money", "pulled from 
 addscriptexist(10675042838, "Lemonade Tycoon: Auto Farm, Auto Harvest & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Lemonade%20Tycoon%20Auto%20Farm%20Auto%20Harvest%20%20More.lua")
 
 addscriptexist(9802068147, "Museum Tycoon: Auto Buy Buttons, Auto Collect Cash, Anti Afk", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Museum%20Tycoon%20Auto%20Buy%20Buttons%20Auto%20Collect%20Cash%20Anti%20Afk.lua")
+
+addscriptexist(1224212277, "Mad City Chapter 2: Auto Rob", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mad%20City%20Chapter%20%20Auto%20Rob.lua")
