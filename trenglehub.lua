@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 17:19:41"
+lastupdate = "GMT +1: 08.03.2023 17:19:47"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -9978,3 +9978,5 @@ addscriptexist(85697719, "Kingdom Life II: Godmode, Gamepass Morphs, OP Weapons"
 addscriptexist(5602055394, "Hood Modded: Press X to Fling Boombox", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Hood%20Modded%20Press%20X%20to%20Fling%20Boombox.lua")
 
 addscriptexist(142823291, "Murder Mystery 2: ESP, Aimbot, FOV", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Murder%20Mystery%20%20ESP%20Aimbot%20FOV.lua")
+
+addscriptexist(3411100258, "prtty much evry bordr gam evr: Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/prtty%20much%20evry%20bordr%20gam%20evr%20Auto%20Farm.lua")
