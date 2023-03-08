@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 17:38:50"
+lastupdate = "GMT +1: 08.03.2023 17:38:54"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -10464,3 +10464,5 @@ addscript(5244411056, "Current Game","Bloxy Bingo: Auto Mark", "pulled from rbxs
 addscriptexist(2753915549, "Blox Fruits: Extend NPC Hitbox, Extend Player Hitbox", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blox%20Fruits%20Extend%20NPC%20Hitbox%20Extend%20Player%20Hitbox.lua")
 
 addscript(482742811, "Current Game","Be Crushed by a Speeding Wall: Coin Auto Farm, Walkspeed, Teleports", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Be%20Crushed%20by%20a%20Speeding%20Wall%20Coin%20Auto%20Farm%20Walkspeed%20Teleports.lua")
+
+addscriptexist(10675066724, "Slime Tower Tycoon: Auto Buy Drop Rate, Auto Merge, Auto Buy Slimes", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Slime%20Tower%20Tycoon%20Auto%20Buy%20Drop%20Rate%20Auto%20Merge%20Auto%20Buy%20Slimes.lua")
