@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 15:14:57"
+lastupdate = "GMT +1: 08.03.2023 15:15:03"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -8788,3 +8788,5 @@ addscriptexist(6407649031, "NO-SCOPE ARCADE: Bunny Hop, Auto Toxic, FOV", "pulle
 addscriptexist(2753915549, "Blox Fruits: Auto Farm Level, Auto Saber, Auto Legendary Sword", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blox%20Fruits%20Auto%20Farm%20Level%20Auto%20Saber%20Auto%20Legendary%20Sword.lua")
 
 addscriptexist(5561268850, "Randomly Generated Droids: Inf Strenght, Kill Droids, Teleports", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Randomly%20Generated%20Droids%20Inf%20Strenght%20Kill%20Droids%20Teleports.lua")
+
+addscript(4779613061, "Current Game","South London 2: Inf Ammo, Cross Chain, Aimbot", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/South%20London%20%20Inf%20Ammo%20Cross%20Chain%20Aimbot.lua")
