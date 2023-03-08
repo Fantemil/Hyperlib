@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 19:59:17"
+lastupdate = "GMT +1: 08.03.2023 19:59:25"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -13388,3 +13388,5 @@ addscriptexist(621129760, "Knife Ability Test | Walkspeed, Jumppower, Esp", "pul
 addscriptexist(10675066724, "Slime Tower Tycoon | Anti Afk, Auto Collect, Walkspeed", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Slime%20Tower%20Tycoon%20%20Anti%20Afk%20Auto%20Collect%20Walkspeed.lua")
 
 addscriptexist(85697719, "Kingdom Life II | Name Change For Every Player", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Kingdom%20Life%20II%20%20Name%20Change%20For%20Every%20Player.lua")
+
+addscriptexist(9414511685, "Drive Cars Down A Hill! | Crash Server", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Drive%20Cars%20Down%20A%20Hill%20%20Crash%20Server.lua")
