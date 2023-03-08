@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 17:28:12"
+lastupdate = "GMT +1: 08.03.2023 17:28:16"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -10200,3 +10200,5 @@ addscriptexist(2317712696, "The Wild West: Mine Ore Esp, Auto Sprint & More!", "
 addscriptexist(891852901, "Greenville: Speed Hack, Auto Farm & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Greenville%20Speed%20Hack%20Auto%20Farm%20%20More.lua")
 
 addscriptexist(6456351776, "Kaiju Paradise: Vanish Away You", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Kaiju%20Paradise%20Vanish%20Away%20You.lua")
+
+addscript(9304358188, "Current Game","Find The Memes: Unlock All", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Find%20The%20Memes%20Unlock%20All.lua")
