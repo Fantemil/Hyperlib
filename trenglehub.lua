@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 20:25:28"
+lastupdate = "GMT +1: 08.03.2023 20:25:32"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -13850,3 +13850,5 @@ addscriptexist(5987922834, "Transfur Outbreak! | Aimbot, Visuals, AutoRejoin", "
 addscript(9361614975, "Current Game","My City Tycoon | Auto Click, Auto Oby, Clicker", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/My%20City%20Tycoon%20%20Auto%20Click%20Auto%20Oby%20Clicker.lua")
 
 addscriptexist(9361614975, "My City Tycoon | Auto Obby, AutoClick", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/My%20City%20Tycoon%20%20Auto%20Obby%20AutoClick.lua")
+
+addscriptexist(5924471692, "Bloxford DarkRP | Server Lagger", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Bloxford%20DarkRP%20%20Server%20Lagger.lua")
