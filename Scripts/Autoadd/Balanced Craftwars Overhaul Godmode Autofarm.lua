@@ -1,0 +1,1 @@
+loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/Kiraaa02/scripts/main/balancedcraftwarsoverhaul.lua"))()
