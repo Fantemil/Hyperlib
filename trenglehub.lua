@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 15:11:20"
+lastupdate = "GMT +1: 08.03.2023 15:11:24"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -8688,3 +8688,5 @@ addscriptexist(10106105124, "Wheat Farming Simulator: Auto Farm and More", "pull
 addscriptexist(443406476, "Project Lazarus: Godmode, No Recoil, Walkspeed", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Project%20Lazarus%20Godmode%20No%20Recoil%20Walkspeed.lua")
 
 addscriptuniversal("Universal Anti Cheat", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Anti%20Cheat.lua")
+
+addscriptexist(6407649031, "NO-SCOPE ARCADE: Silent Aim, No Recoil, No Spread", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NOSCOPE%20ARCADE%20Silent%20Aim%20No%20Recoil%20No%20Spread.lua")
