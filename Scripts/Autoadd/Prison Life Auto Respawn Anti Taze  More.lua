@@ -1,0 +1,1 @@
+loadstring(game:HttpGetAsync"https://raw.githubusercontent.com/GFXTI/AthenaClient/main/AthenaPrisonLife.lua")()
