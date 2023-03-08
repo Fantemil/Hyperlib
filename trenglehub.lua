@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 14:27:13"
+lastupdate = "GMT +1: 08.03.2023 14:27:17"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -7518,3 +7518,5 @@ addscriptexist(7525610732, "Kaizen: AutoFarm, BestQuest, AutoQuest", "pulled fro
 addscriptexist(10028173768, "Queen Elizebeth Obby: Get all gamepasses", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Queen%20Elizebeth%20Obby%20Get%20all%20gamepasses.lua")
 
 addscriptuniversal("Universal Anti Fly Bypass", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Anti%20Fly%20Bypass.lua")
+
+addscriptexist(10598587051, "Anime Clicker Fight: Auto Click, Auto Equip Best Pets, TP", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime%20Clicker%20Fight%20Auto%20Click%20Auto%20Equip%20Best%20Pets%20TP.lua")
