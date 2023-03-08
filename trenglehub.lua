@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 07:09:01"
+lastupdate = "GMT +1: 08.03.2023 07:09:05"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -5582,3 +5582,5 @@ addscriptexist(1537690962, "Bee Swarm Simulator: Auto Dig, Auto Sprinkler, Auto 
 addscriptexist(3956818381, "Ninja Legends: Auto Swing, Auto Sell, Coins Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ninja%20Legends%20Auto%20Swing%20Auto%20Sell%20Coins%20Farm.lua")
 
 addscriptexist(10898965735, "Mine Racer: Auto Join Race, Auto Mine, Auto Open Eggs", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mine%20Racer%20Auto%20Join%20Race%20Auto%20Mine%20Auto%20Open%20Eggs.lua")
+
+addscriptuniversal("Universal Rayfield Key System Print Key", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Rayfield%20Key%20System%20Print%20Key.lua")
