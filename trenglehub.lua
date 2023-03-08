@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 12:55:27"
+lastupdate = "GMT +1: 08.03.2023 12:55:31"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -6810,3 +6810,5 @@ addscriptexist(10742364019, "[BETA] EGOIST: Max Shoot", "pulled from rbxscript.c
 addscriptexist(2788229376, "Da Hood: Skin Changer", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Da%20Hood%20Skin%20Changer.lua")
 
 addscriptexist(9224601490, "Fruit Battlegrounds: Infinite Spin", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Fruit%20Battlegrounds%20Infinite%20Spin.lua")
+
+addscriptexist(11330149751, "making scam calls to save your best friend tycoon: Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/making%20scam%20calls%20to%20save%20your%20best%20friend%20tycoon%20Auto%20Farm.lua")
