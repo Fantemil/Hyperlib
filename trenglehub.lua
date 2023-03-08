@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 18:16:32"
+lastupdate = "GMT +1: 08.03.2023 18:16:36"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -11406,3 +11406,5 @@ addscriptexist(2753915549, "Blox Fruits: Auto Farm, Buy Items & More", "pulled f
 addscript(7002808196, "Current Game","Симулятор падения в Канаву: AutoFarm, Remove Animations, Anti Afk", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/%D0%A1%D0%B8%D0%BC%D1%83%D0%BB%D1%8F%D1%82%D0%BE%D1%80%20%D0%BF%D0%B0%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F%20%D0%B2%20%D0%9A%D0%B0%D0%BD%D0%B0%D0%B2%D1%83%20AutoFarm%20Remove%20Animations%20Anti%20Afk.lua")
 
 addscript(6766156863, "Current Game","Strongman Simulator: Auto Farm Energy, Auto Workout, Auto Rebirths", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Strongman%20Simulator%20Auto%20Farm%20Energy%20Auto%20Workout%20Auto%20Rebirths.lua")
+
+addscriptexist(2788229376, "Da Hood: Crush Server", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Da%20Hood%20Crush%20Server.lua")
