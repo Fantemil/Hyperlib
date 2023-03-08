@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 16:37:08"
+lastupdate = "GMT +1: 08.03.2023 16:37:12"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -8906,3 +8906,5 @@ addscriptexist(9680886326, "West Elm Home Design: Farm Money", "pulled from rbxs
 addscriptexist(1962086868, "Tower Of Hell: Auto Farm Wins, Instant Win, Godmode", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tower%20Of%20Hell%20Auto%20Farm%20Wins%20Instant%20Win%20Godmode.lua")
 
 addscriptexist(1537690962, "Bee Swarm Simulator: New Overpowered Farming Gui", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Bee%20Swarm%20Simulator%20New%20Overpowered%20Farming%20Gui.lua")
+
+addscriptexist(5956785391, "Project Slayers: Moonrise Hub", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Project%20Slayers%20Moonrise%20Hub.lua")
