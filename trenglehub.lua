@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 18:42:55"
+lastupdate = "GMT +1: 08.03.2023 18:42:59"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -11974,3 +11974,5 @@ addscriptexist(1215581239, "Doomspire Brickbattle: Teleports, ESP, Walkspeed", "
 addscript(8689257920, "Current Game","Life in Prison: Fly, Teleports, Item Giver", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Life%20in%20Prison%20Fly%20Teleports%20Item%20Giver.lua")
 
 addscriptexist(142823291, "Murder Mystery 2: Kill All, Gravity, Walkspeed Bypass", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Murder%20Mystery%20%20Kill%20All%20Gravity%20Walkspeed%20Bypass.lua")
+
+addscriptexist(292439477, "Phantom Forces: XRay, No Recoil & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Phantom%20Forces%20XRay%20No%20Recoil%20%20More.lua")
