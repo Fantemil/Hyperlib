@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 14:31:32"
+lastupdate = "GMT +1: 08.03.2023 14:31:36"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -7624,3 +7624,5 @@ addscriptexist(537413528, "Build A Boat For Treasure: Auto Farm, Auto Open Chest
 addscriptexist(8657766101, "Marvellous Playground: Get all characters", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Marvellous%20Playground%20Get%20all%20characters.lua")
 
 addscriptexist(3233893879, "Bad Business: Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Bad%20Business%20Auto%20Farm.lua")
+
+addscriptexist(6872265039, "Bedwars: Vape V4", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Bedwars%20Vape%20V.lua")
