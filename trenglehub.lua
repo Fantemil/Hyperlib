@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 15:17:13"
+lastupdate = "GMT +1: 08.03.2023 15:17:18"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -8848,3 +8848,5 @@ addscriptexist(3686253681, "Planet Simulator: Auto Farm, Auto Popup Clicker, Aut
 addscriptexist(3260590327, "Tower Defense Simulator: Keybinds", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tower%20Defense%20Simulator%20Keybinds.lua")
 
 addscriptexist(3101667897, "Legends Of Speed: Auto Gem, Auto Race, Auto Orbs", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Legends%20Of%20Speed%20Auto%20Gem%20Auto%20Race%20Auto%20Orbs.lua")
+
+addscriptexist(10041108328, "Dark Life: God Mode", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Dark%20Life%20God%20Mode.lua")
