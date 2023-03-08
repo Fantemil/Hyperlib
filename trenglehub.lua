@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 14:32:00"
+lastupdate = "GMT +1: 08.03.2023 14:32:04"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -7636,3 +7636,5 @@ addscriptexist(9414511685, "Drive Cars Down A Hill!: Destroy Bomb", "pulled from
 addscriptexist(6198225400, "Legends Re:Written: Make Two Targets Force Trade & Godmode", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Legends%20ReWritten%20Make%20Two%20Targets%20Force%20Trade%20%20Godmode.lua")
 
 addscriptexist(10918081103, "Killstreak Chaos: Op Kill Aura For Any Glove", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Killstreak%20Chaos%20Op%20Kill%20Aura%20For%20Any%20Glove.lua")
+
+addscriptexist(205224386, "Hide And Seek Extreme: Grab All Coins, Player Esp", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Hide%20And%20Seek%20Extreme%20Grab%20All%20Coins%20Player%20Esp.lua")
