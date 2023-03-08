@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 20:03:20"
+lastupdate = "GMT +1: 08.03.2023 20:03:31"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -13456,3 +13456,5 @@ addscript(6979242564, "Current Game","Noob's High Jump Per Difficulty Chart Obby
 addscriptexist(9872472334, "Evade | Auto Farm Xp - Auto Teleport & Revive + More!", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Evade%20%20Auto%20Farm%20Xp%20%20Auto%20Teleport%20%20Revive%20%20More.lua")
 
 addscriptexist(9498006165, "Tapping Simulator! | Remove Egg Hatch and Click Delay", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tapping%20Simulator%20%20Remove%20Egg%20Hatch%20and%20Click%20Delay.lua")
+
+addscriptexist(2248408710, "Destruction Simulator | Add Coins, Reset, Remove Cooldown", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Destruction%20Simulator%20%20Add%20Coins%20Reset%20Remove%20Cooldown.lua")
