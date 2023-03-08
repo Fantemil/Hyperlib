@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 19:32:29"
+lastupdate = "GMT +1: 08.03.2023 19:32:34"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -13032,3 +13032,5 @@ addscriptuniversal("Universal Explorer", "pulled from rbxscript.com", "https://r
 addscriptexist(3351674303, "Driving Empire: Fast Auto Farm, Car Mods, Auto Race", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Driving%20Empire%20Fast%20Auto%20Farm%20Car%20Mods%20Auto%20Race.lua")
 
 addscriptexist(9585537847, "SHADOVIS RPG: Auto Farm Raids, Auto Join Raid, God Mode & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SHADOVIS%20RPG%20Auto%20Farm%20Raids%20Auto%20Join%20Raid%20God%20Mode%20%20More.lua")
+
+addscriptexist(9534337535, "Shrek in the Backrooms: Badge Giver", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Shrek%20in%20the%20Backrooms%20Badge%20Giver.lua")
