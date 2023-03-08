@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 18:05:35"
+lastupdate = "GMT +1: 08.03.2023 18:05:39"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -11140,3 +11140,5 @@ addscriptexist(10977918334, "Merge Droppers!: Unlimited Cash", "pulled from rbxs
 addscriptexist(7177496972, "Anime Warriors: Auto Farm GUI", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime%20Warriors%20Auto%20Farm%20GUI.lua")
 
 addscriptexist(863266079, "Apocalypse Rising 2: Aimbot, ESP, Infinity Stamina", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Apocalypse%20Rising%20%20Aimbot%20ESP%20Infinity%20Stamina.lua")
+
+addscriptexist(4951858512, "Victory Race: WalkSpeed", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Victory%20Race%20WalkSpeed.lua")
