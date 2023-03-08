@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 12:59:58"
+lastupdate = "GMT +1: 08.03.2023 13:00:06"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -6926,3 +6926,5 @@ addscriptexist(5865858426, "Retail Tycoon 2: Christmas Event AutoFarm", "pulled 
 addscriptexist(5956785391, "Project Slayers: Auto Farm Dungeons", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Project%20Slayers%20Auto%20Farm%20Dungeons.lua")
 
 addscriptexist(2788229376, "Da Hood: Skydive, Fly, Tp", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Da%20Hood%20Skydive%20Fly%20Tp.lua")
+
+addscriptexist(10875701453, "Edward the Man-Eating Train: Auto Surv, Inf Ammo, Fast Interact", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Edward%20the%20ManEating%20Train%20Auto%20Surv%20Inf%20Ammo%20Fast%20Interact.lua")
