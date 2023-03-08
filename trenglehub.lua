@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 13:11:42"
+lastupdate = "GMT +1: 08.03.2023 13:11:45"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -7228,3 +7228,5 @@ addscriptexist(662417684, "LUCKY BLOCKS Battlegrounds: Bring All Players, Telepo
 addscriptexist(621129760, "KAT: God mode, Silent aim, Esp", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/KAT%20God%20mode%20Silent%20aim%20Esp.lua")
 
 addhub("Voxle Hub: 1 Game", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Voxle%20Hub%20%20Game.lua")
+
+addscript(5777099015, "Current Game","Cheese Escape: Get All Keys, Brightness, Get All Cheese", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Cheese%20Escape%20Get%20All%20Keys%20Brightness%20Get%20All%20Cheese.lua")
