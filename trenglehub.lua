@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 20:44:35"
+lastupdate = "GMT +1: 08.03.2023 20:44:40"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -14340,3 +14340,5 @@ addscriptexist(662417684, "LUCKY BLOCKS Battlegrounds [Open Any LuckyBlock]", "p
 addscriptexist(8884334497, "Mining Clicker Simulator [AutoRebirth, AutoClick]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mining%20Clicker%20Simulator%20AutoRebirth%20AutoClick.lua")
 
 addscriptexist(2537430692, "Jenga [Stop Game]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Jenga%20Stop%20Game.lua")
+
+addscriptexist(4282985734, "Combat Warriors [Esp, KillAura]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Combat%20Warriors%20Esp%20KillAura.lua")
