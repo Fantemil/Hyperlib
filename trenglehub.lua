@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 13:04:10"
+lastupdate = "GMT +1: 08.03.2023 13:04:14"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -7034,3 +7034,5 @@ addscriptexist(9798463281, "Cube Combination: Admin Detector", "pulled from rbxs
 addscript(5874128725, "Current Game","No Jumping Difficulty Chart Obby: Enable Jump", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/No%20Jumping%20Difficulty%20Chart%20Obby%20Enable%20Jump.lua")
 
 addscriptexist(2753915549, "Blox Fruits: Auto Farm Lvl, Auto Select Weapon, Inf Energy", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blox%20Fruits%20Auto%20Farm%20Lvl%20Auto%20Select%20Weapon%20Inf%20Energy.lua")
+
+addscriptexist(1537690962, "Bee Swarm Simulator: Auto Farm, Auto Collect Polen, Auto Make Honey", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Bee%20Swarm%20Simulator%20Auto%20Farm%20Auto%20Collect%20Polen%20Auto%20Make%20Honey.lua")
