@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 06:59:53"
+lastupdate = "GMT +1: 08.03.2023 06:59:57"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -5304,3 +5304,5 @@ addscriptexist(142823291, "Murder Mystery 2: Xbox Knife Giver", "pulled from rbx
 addscriptuniversal("Universal Chat trolling", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Chat%20trolling.lua")
 
 addscriptuniversal("Universal Lisbon", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Lisbon.lua")
+
+addscriptexist(2788229376, "Da Hood: 120 FOV, Float, Trash Talk", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Da%20Hood%20%20FOV%20Float%20Trash%20Talk.lua")
