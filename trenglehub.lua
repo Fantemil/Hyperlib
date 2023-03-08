@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 06:43:36"
+lastupdate = "GMT +1: 08.03.2023 06:43:41"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -4806,3 +4806,5 @@ addscript(11270995869, "Current Game","MinerShaft: Dupe Items", "pulled from rbx
 addscriptexist(1240123653, "Zombie Attack: Auto Farm, Christmas Event Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Zombie%20Attack%20Auto%20Farm%20Christmas%20Event%20Farm.lua")
 
 addscript(6581117225, "Current Game","A Roca: Shift Run, Serverhop, Walkspeed", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/A%20Roca%20Shift%20Run%20Serverhop%20Walkspeed.lua")
+
+addscriptexist(1554960397, "Car Dealership Tycoon: Auto Farm, Auto Race, Teleport", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Car%20Dealership%20Tycoon%20Auto%20Farm%20Auto%20Race%20Teleport.lua")
