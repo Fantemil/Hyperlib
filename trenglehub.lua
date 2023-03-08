@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 12:57:55"
+lastupdate = "GMT +1: 08.03.2023 12:58:00"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -6872,3 +6872,5 @@ addscriptexist(11448431235, "Baryon: Infinity Orbs, Sell Orbs, Buy Fruit", "pull
 addscriptexist(9049840490, "Sonic Speed Simulator: RB Battles Get Badge", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sonic%20Speed%20Simulator%20RB%20Battles%20Get%20Badge.lua")
 
 addscript(10195374565, "Current Game","Weight Lifting Simulator 3: Auto Farm, Auto Buy Weights, GamePasses.", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Weight%20Lifting%20Simulator%20%20Auto%20Farm%20Auto%20Buy%20Weights%20GamePasses.lua")
+
+addscriptexist(9912491609, "How Far Can You Slide: Cash Farm, Shop, Rebirth.", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/How%20Far%20Can%20You%20Slide%20Cash%20Farm%20Shop%20Rebirth.lua")
