@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 19:10:13"
+lastupdate = "GMT +1: 08.03.2023 19:10:19"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -12546,3 +12546,5 @@ addscriptexist(648362523, "Breaking Point: Kill Aura, Auto Farm, Esp & More!", "
 addscriptexist(510411669, "Fantastic Frontier: Faster Kill, Fly, Tp", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Fantastic%20Frontier%20Faster%20Kill%20Fly%20Tp.lua")
 
 addscriptexist(2693023319, "Expedition Antarctica: Teleports, Get Coins, Fast Win", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Expedition%20Antarctica%20Teleports%20Get%20Coins%20Fast%20Win.lua")
+
+addscriptexist(1730877806, "Grand Piece Online: Auto Stats, Auto Farm, Teleports", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Grand%20Piece%20Online%20Auto%20Stats%20Auto%20Farm%20Teleports.lua")
