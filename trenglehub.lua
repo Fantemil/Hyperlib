@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 06:41:07"
+lastupdate = "GMT +1: 08.03.2023 06:41:11"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -4728,3 +4728,5 @@ addscript(11895850995, "Current Game","Viet Pirates X: Auto Drop Fruit, Auto Spa
 addscriptuniversal("Kings Universal Stuff", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Kings%20Universal%20Stuff.lua")
 
 addscriptexist(2788229376, "Da Hood: Fly, Anti Stomp, Godmode", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Da%20Hood%20Fly%20Anti%20Stomp%20Godmode.lua")
+
+addscriptexist(2788229376, "Da Hood: Anti Stomp, Auto Buy, Teleports", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Da%20Hood%20Anti%20Stomp%20Auto%20Buy%20Teleports.lua")
