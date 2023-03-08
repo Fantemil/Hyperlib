@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 17:56:58"
+lastupdate = "GMT +1: 08.03.2023 17:57:02"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -10920,3 +10920,5 @@ addscriptexist(8884334497, "Mining Clicker Simulator: Auto Mine, Auto claim rewa
 addscriptexist(2628115891, "Ant Life [Beta Testing]: Auto kill Ant enemie, Auto Farm, Safe zone tp", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ant%20Life%20Beta%20Testing%20Auto%20kill%20Ant%20enemie%20Auto%20Farm%20Safe%20zone%20tp.lua")
 
 addscriptexist(11227688003, "roblox but you get smarter every second: Gem Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/roblox%20but%20you%20get%20smarter%20every%20second%20Gem%20Auto%20Farm.lua")
+
+addscriptexist(7305309231, "Taxi Boss: Auto Spin Halloween Wheel", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Taxi%20Boss%20Auto%20Spin%20Halloween%20Wheel.lua")
