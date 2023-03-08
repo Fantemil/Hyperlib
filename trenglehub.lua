@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 17:10:58"
+lastupdate = "GMT +1: 08.03.2023 17:11:02"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -9754,3 +9754,5 @@ addscript(9103460924, "Current Game","Sword Factory X: Fullbright, Noclip, ESP",
 addscriptexist(6764533218, "Washiez: Admin Detector", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Washiez%20Admin%20Detector.lua")
 
 addscript(3056526277, "Current Game","Build and Survive: Auto Heal, Auto Collect All Coins, Auto Collect Star", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Build%20and%20Survive%20Auto%20Heal%20Auto%20Collect%20All%20Coins%20Auto%20Collect%20Star.lua")
+
+addscriptexist(6872265039, "BedWars: Endless round", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BedWars%20Endless%20round.lua")
