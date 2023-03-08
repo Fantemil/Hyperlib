@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 06:37:56"
+lastupdate = "GMT +1: 08.03.2023 06:38:01"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -4638,3 +4638,5 @@ addscriptexist(11874473440, "Car Factory Tycoon!: Auto Farm", "pulled from rbxsc
 addscriptexist(2753915549, "Blox Fruits: 20+ Script Hubs All Combined Into One", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blox%20Fruits%20%20Script%20Hubs%20All%20Combined%20Into%20One.lua")
 
 addscriptexist(11998813375, "CaliStreets (Beta): Box Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CaliStreets%20Beta%20Box%20Auto%20Farm.lua")
+
+addscript(6792864617, "Current Game","Countryball: Fe Btools & Change Names", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Countryball%20Fe%20Btools%20%20Change%20Names.lua")
