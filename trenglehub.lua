@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 06:59:06"
+lastupdate = "GMT +1: 08.03.2023 06:59:10"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -5280,3 +5280,5 @@ addscriptexist(893973440, "Flee the Facility: ESP Players, Fullbright, No Slowdo
 addscriptexist(11656036986, "make roblox games to become rich and famous: X2 Crash Auto Obby Complete", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/make%20roblox%20games%20to%20become%20rich%20and%20famous%20X%20Crash%20Auto%20Obby%20Complete.lua")
 
 addscriptexist(2609668898, "Custom Duels: Classic | Auto Swing, Walkspeed, Hitboxes", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Custom%20Duels%20Classic%20%20Auto%20Swing%20Walkspeed%20Hitboxes.lua")
+
+addscriptuniversal("Universal Infinity Jumps, Gravity & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Infinity%20Jumps%20Gravity%20%20More.lua")
