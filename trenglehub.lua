@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 19:24:21"
+lastupdate = "GMT +1: 08.03.2023 19:24:29"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -12854,3 +12854,5 @@ addscriptexist(9103460924, "Sword Factory X: Auto Dungeon, Buy Boosts Fast, WebH
 addscriptexist(286090429, "Arsenal: Wall Bang", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Arsenal%20Wall%20Bang.lua")
 
 addscript(8511615377, "Current Game","Panik: Bot Esp, Infinity Jump, Hip Height", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Panik%20Bot%20Esp%20Infinity%20Jump%20Hip%20Height.lua")
+
+addscriptexist(155615604, "Prison Life: Kill Players", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Prison%20Life%20Kill%20Players.lua")
