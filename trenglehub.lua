@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 17:19:28"
+lastupdate = "GMT +1: 08.03.2023 17:19:32"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -9972,3 +9972,5 @@ addscript(10182167049, "Current Game","Magic Punching Simulator: Attack All Mobs
 addscriptexist(6516141723, "DOORS: Auto Farm, Server Hop", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DOORS%20Auto%20Farm%20Server%20Hop.lua")
 
 addhub("Amatrasu Hub: 5 games", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Amatrasu%20Hub%20%20games.lua")
+
+addscriptexist(85697719, "Kingdom Life II: Godmode, Gamepass Morphs, OP Weapons", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Kingdom%20Life%20II%20Godmode%20Gamepass%20Morphs%20OP%20Weapons.lua")
