@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 15:04:50"
+lastupdate = "GMT +1: 08.03.2023 15:04:55"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -8516,3 +8516,5 @@ addscript(2901172949, "Current Game","In Plain Sight 2: Player ESP", "pulled fro
 addscriptexist(7714627632, "Winds of Fortune: Auto Farm, Kill all, Esp", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Winds%20of%20Fortune%20Auto%20Farm%20Kill%20all%20Esp.lua")
 
 addscriptuniversal("Universal Audio Logger", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Audio%20Logger.lua")
+
+addscript(11469951942, "Current Game","MinerCraft: Full bright, ESP, KillAura", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MinerCraft%20Full%20bright%20ESP%20KillAura.lua")
