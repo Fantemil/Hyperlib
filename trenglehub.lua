@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 06:52:35"
+lastupdate = "GMT +1: 08.03.2023 06:52:39"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -5080,3 +5080,5 @@ addscriptexist(6284583030, "Pet Simulator X: Multi Target Auto Farm, Egg Auto Op
 addscriptexist(920587237, "Adopt Me: Walkspeed, Auto Hide, Noclip", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Adopt%20Me%20Walkspeed%20Auto%20Hide%20Noclip.lua")
 
 addscriptexist(6516141723, "DOORS: Skip Door, Auto Farm, Remove Walls", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DOORS%20Skip%20Door%20Auto%20Farm%20Remove%20Walls.lua")
+
+addscript(3233893879, "Current Game","Bad Business: No Spread, Infinity Ammo, Silent Aim", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Bad%20Business%20No%20Spread%20Infinity%20Ammo%20Silent%20Aim.lua")
