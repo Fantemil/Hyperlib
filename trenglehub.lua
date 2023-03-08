@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 12:40:15"
+lastupdate = "GMT +1: 08.03.2023 12:40:21"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -6414,3 +6414,5 @@ addscriptexist(6875469709, "STRONGEST PUNCH SIMULATOR: Auto Farm Orbs", "pulled 
 addscriptexist(11382413635, "Human Cannon: Auto Farm Gems", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Human%20Cannon%20Auto%20Farm%20Gems.lua")
 
 addscriptuniversal("Universal AntiAfk", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20AntiAfk.lua")
+
+addscriptuniversal("Platinium Hub: 10+ Games Support", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Platinium%20Hub%20%20Games%20Support.lua")
