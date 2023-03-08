@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 13:08:59"
+lastupdate = "GMT +1: 08.03.2023 13:09:03"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -7160,3 +7160,5 @@ addscriptuniversal("Universal Press V to toggle voice chat", "pulled from rbxscr
 addscript(6712992897, "Current Game","CRAZY: Get Unobtainable Weapons", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CRAZY%20Get%20Unobtainable%20Weapons.lua")
 
 addscript(5791762440, "Current Game","Sonic.exe survival: Immortal Mod", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sonicexe%20survival%20Immortal%20Mod.lua")
+
+addscriptexist(2788229376, "Da Hood: Hitboxes, Keybinds, FOV", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Da%20Hood%20Hitboxes%20Keybinds%20FOV.lua")
