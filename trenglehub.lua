@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 15:15:44"
+lastupdate = "GMT +1: 08.03.2023 15:15:50"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -8808,3 +8808,5 @@ addscriptexist(3260590327, "Tower Defense Simulator: StackTower,Sell All,AutoCha
 addhub("LALOL Hub: 5 Games", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LALOL%20Hub%20%20Games.lua")
 
 addhub("Universal Rayfield Key System Bypass", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Rayfield%20Key%20System%20Bypass.lua")
+
+addscriptexist(5041144419, "SCP: Roleplay: Get Guns, Get Eyeball Morph", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SCP%20Roleplay%20Get%20Guns%20Get%20Eyeball%20Morph.lua")
