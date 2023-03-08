@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 20:24:43"
+lastupdate = "GMT +1: 08.03.2023 20:24:48"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -13830,3 +13830,5 @@ addscriptexist(4639625707, "Warfare Tycoon | Kill Players, Kill item, Kill All",
 addscriptexist(2788229376, "Da Hood | NoClip, Auto Farm, Fly", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Da%20Hood%20%20NoClip%20Auto%20Farm%20Fly.lua")
 
 addscriptexist(10087074695, "Knife Strife! | Walkspeed, Fly, Inf Jump", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Knife%20Strife%20%20Walkspeed%20Fly%20Inf%20Jump.lua")
+
+addscriptexist(9648883891, "Festival Tycoon [TpToChainmokers]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Festival%20Tycoon%20TpToChainmokers.lua")
