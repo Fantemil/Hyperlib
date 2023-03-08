@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 13:06:20"
+lastupdate = "GMT +1: 08.03.2023 13:06:24"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -7088,3 +7088,5 @@ addscriptexist(11200197064, "Rich Clicker Simulator: Auto Click, Anti Afk, FPS B
 addscriptexist(9984770240, "Obby but you're a ball: Auto Complete Obby Instantly", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Obby%20but%20youre%20a%20ball%20Auto%20Complete%20Obby%20Instantly.lua")
 
 addscript(5026999321, "Current Game","A Dumb Day: Auto Use Banknotes, Kill Aura, Grab Items", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/A%20Dumb%20Day%20Auto%20Use%20Banknotes%20Kill%20Aura%20Grab%20Items.lua")
+
+addscriptexist(9551640993, "Mining Simulator 2: Christmas House Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mining%20Simulator%20%20Christmas%20House%20Farm.lua")
