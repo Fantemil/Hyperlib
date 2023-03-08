@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 18:24:21"
+lastupdate = "GMT +1: 08.03.2023 18:24:29"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -11598,3 +11598,5 @@ addscript(4036494886, "Current Game","Gun Simulator: Infinite Money, Stars & All
 addscriptexist(10710676163, "SPTS Origin: Auto Farm, Kill All, Auto Death Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SPTS%20Origin%20Auto%20Farm%20Kill%20All%20Auto%20Death%20Farm.lua")
 
 addscriptexist(10714365287, "Anime Racing Clicker: Unlock Worlds, Auto Click, Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime%20Racing%20Clicker%20Unlock%20Worlds%20Auto%20Click%20Auto%20Farm.lua")
+
+addscriptexist(10447678365, "Dinosaur Simulator: Kill Aura", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Dinosaur%20Simulator%20Kill%20Aura.lua")
