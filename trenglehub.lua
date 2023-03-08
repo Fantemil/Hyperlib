@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 18:56:33"
+lastupdate = "GMT +1: 08.03.2023 18:56:37"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -12250,3 +12250,5 @@ addscriptexist(9848789324, "Ragdoll Engine: Push Aura, Spam Chat, FE Items", "pu
 addscriptexist(10531659515, "Shovel Battles: Kill All, Farm Players, Farm Hits & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Shovel%20Battles%20Kill%20All%20Farm%20Players%20Farm%20Hits%20%20More.lua")
 
 addscriptexist(9961650006, "Shockwave Racing: Instant Win", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Shockwave%20Racing%20Instant%20Win.lua")
+
+addscript(8659293202, "Current Game","The Rake Blood Hour Test: Developer Gui", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/The%20Rake%20Blood%20Hour%20Test%20Developer%20Gui.lua")
