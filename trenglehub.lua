@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 18:51:55"
+lastupdate = "GMT +1: 08.03.2023 18:52:02"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -12152,3 +12152,5 @@ addscriptexist(10905034443, "Smoothie Factory Tycoon: Auto Blend, Do Obby, Auto 
 addscript(9807416796, "Current Game","[ZOMBIES] De Hood: Infinite Money", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ZOMBIES%20De%20Hood%20Infinite%20Money.lua")
 
 addscriptexist(1224212277, "Mad City: Chapter 2: Teleports, Aimbot, Vehicle Mod & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mad%20City%20Chapter%20%20Teleports%20Aimbot%20Vehicle%20Mod%20%20More.lua")
+
+addscriptexist(10320240572, "Easy Race Clicker: Auto Farm, Auto Rebirth", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Easy%20Race%20Clicker%20Auto%20Farm%20Auto%20Rebirth.lua")
