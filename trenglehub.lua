@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 19:17:52"
+lastupdate = "GMT +1: 08.03.2023 19:17:58"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -12714,3 +12714,5 @@ addscriptexist(10710676163, "SPTS Origin: Auto Respawn, Auto Farm, Teleports", "
 addscriptexist(9787091365, "Ninja Storm Simulator: Auto Attack, Walkspeed, Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ninja%20Storm%20Simulator%20Auto%20Attack%20Walkspeed%20Auto%20Farm.lua")
 
 addscriptexist(10439295403, "Anime Champions: Auto Quest, Teleports & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime%20Champions%20Auto%20Quest%20Teleports%20%20More.lua")
+
+addscript(10261818242, "Current Game","Donut Factory Tycoon: Auto Sell, Walkspeed, Obby finishes", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Donut%20Factory%20Tycoon%20Auto%20Sell%20Walkspeed%20Obby%20finishes.lua")
