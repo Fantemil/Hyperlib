@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 20:49:50"
+lastupdate = "GMT +1: 08.03.2023 20:49:54"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -14468,3 +14468,5 @@ addscript(5256165620, "Current Game","3-2-1 Blast Off Simulator [AutoBuy, Gem Sh
 addscriptexist(9285238704, "Race Clicker [Server Hop, AutoWin]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Race%20Clicker%20Server%20Hop%20AutoWin.lua")
 
 addscript(7128635125, "Current Game","Old A Bizarry Day Modded [Adm Cmds]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Old%20A%20Bizarry%20Day%20Modded%20Adm%20Cmds.lua")
+
+addscriptexist(370731277, "MeepCity [FishingSilentAim, AvatarEditor]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MeepCity%20FishingSilentAim%20AvatarEditor.lua")
