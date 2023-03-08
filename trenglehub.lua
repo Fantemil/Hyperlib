@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 14:46:56"
+lastupdate = "GMT +1: 08.03.2023 14:46:59"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -8038,3 +8038,5 @@ addscriptexist(8750997647, "Tapping Legends X: Auto Tap, Auto Buy Tap Skins, Aut
 addscriptexist(10291129032, "Flappy Bird Race: Free Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Flappy%20Bird%20Race%20Free%20Auto%20Farm.lua")
 
 addscript(10238264463, "Current Game","Last Words: Infinite Donated", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Last%20Words%20Infinite%20Donated.lua")
+
+addscriptexist(9551640993, "Mining Simulator 2: Christmas House Farm Gui", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mining%20Simulator%20%20Christmas%20House%20Farm%20Gui.lua")
