@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 14:33:57"
+lastupdate = "GMT +1: 08.03.2023 14:34:03"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -7688,3 +7688,5 @@ addscriptexist(7791106063, "Furry Infection: Auto Break out, Insta kill, Delete 
 addscriptexist(205224386, "Hide And Seek Extreme: ESP Chams Gui", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Hide%20And%20Seek%20Extreme%20ESP%20Chams%20Gui.lua")
 
 addscriptuniversal("Universal Anti Kick not server sided", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Anti%20Kick%20not%20server%20sided.lua")
+
+addscriptuniversal("Universal Player Join and Leaves Server Logger", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Player%20Join%20and%20Leaves%20Server%20Logger.lua")
