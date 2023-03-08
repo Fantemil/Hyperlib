@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 13:11:00"
+lastupdate = "GMT +1: 08.03.2023 13:11:11"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -7212,3 +7212,5 @@ addscript(4806026225, "Current Game","Defenders Depot - Tower Defense: Crate Aut
 addscript(10914197474, "Current Game","Killstreak Test: Free Admin", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Killstreak%20Test%20Free%20Admin.lua")
 
 addscriptexist(6875469709, "STRONGEST PUNCH SIMULATOR: Auto Next World, Auto Farm Orbs, Auto Punch.", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/STRONGEST%20PUNCH%20SIMULATOR%20Auto%20Next%20World%20Auto%20Farm%20Orbs%20Auto%20Punch.lua")
+
+addscriptexist(7991339063, "Rainbow Friends: Fake Box, WalkSpeed. Monster Esp", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Rainbow%20Friends%20Fake%20Box%20WalkSpeed%20Monster%20Esp.lua")
