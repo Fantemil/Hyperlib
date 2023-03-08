@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/BlueCat666/RoVille/main/RoVille.lua", true))()
