@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 20:59:52"
+lastupdate = "GMT +1: 08.03.2023 20:59:56"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -14720,3 +14720,5 @@ addscriptexist(277751860, "Epic [Anti Cheat Bypass]", "pulled from rbxscript.com
 addscriptexist(6516141723, "DOORS [Wardrobe Esp, Event Notifiers]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DOORS%20Wardrobe%20Esp%20Event%20Notifiers.lua")
 
 addscriptexist(9872472334, "Evade [Free Respawn]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Evade%20Free%20Respawn.lua")
+
+addscriptexist(5766084948, "SCP: The Red Lake [Esp, SilentAim]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SCP%20The%20Red%20Lake%20Esp%20SilentAim.lua")
