@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 15:06:31"
+lastupdate = "GMT +1: 08.03.2023 15:06:35"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -8560,3 +8560,5 @@ addscriptexist(2788229376, "Da Hood: Chat Spoofer, Server Crasher", "pulled from
 addscriptexist(2788229376, "Da Hood: Knock All, Fly, Go To Player", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Da%20Hood%20Knock%20All%20Fly%20Go%20To%20Player.lua")
 
 addscriptexist(9984770240, "Obby but you're a ball: Complete the game in 1 Second", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Obby%20but%20youre%20a%20ball%20Complete%20the%20game%20in%20%20Second.lua")
+
+addscriptexist(9236100787, "TR HOOD: Simple Kill Aura", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TR%20HOOD%20Simple%20Kill%20Aura.lua")
