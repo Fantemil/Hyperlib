@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 18:07:33"
+lastupdate = "GMT +1: 08.03.2023 18:07:37"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -11186,3 +11186,5 @@ addscriptexist(8077862388, "The W: Silent Aim, Auto Kill, Show Beam", "pulled fr
 addscript(8596797381, "Current Game","Northside Chicago: Infinity Stamina, Gun Spawners, GunMods", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Northside%20Chicago%20Infinity%20Stamina%20Gun%20Spawners%20GunMods.lua")
 
 addscript(6269446951, "Current Game","Smooth Slicing: Kill Aura", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Smooth%20Slicing%20Kill%20Aura.lua")
+
+addscriptexist(8482713490, "Forgotten Memories: Notifies, Teleport Areas, ESP", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Forgotten%20Memories%20Notifies%20Teleport%20Areas%20ESP.lua")
