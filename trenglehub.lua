@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 18:40:10"
+lastupdate = "GMT +1: 08.03.2023 18:40:15"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -11930,3 +11930,5 @@ addscriptexist(621129760, "Knife Ability Test: Silent Aim, Infinity Jump, FOV", 
 addscriptexist(7026949294, "Sword Simulator: Teleports, Auto Achievements, Kill Aura", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sword%20Simulator%20Teleports%20Auto%20Achievements%20Kill%20Aura.lua")
 
 addscriptexist(2809202155, "Your Bizarre Adventure: Stand Farm, Item Farm, Stand Control", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Your%20Bizarre%20Adventure%20Stand%20Farm%20Item%20Farm%20Stand%20Control.lua")
+
+addscriptexist(3198259055, "SoulShatters Test Place: Free Dust Sans", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SoulShatters%20Test%20Place%20Free%20Dust%20Sans.lua")
