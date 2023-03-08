@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 14:30:04"
+lastupdate = "GMT +1: 08.03.2023 14:30:11"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -7588,3 +7588,5 @@ addscriptexist(11302865934, "Every Second You Get +1 Health: Auto Win, Auto Rege
 addscriptexist(6447798030, "Funky Friday: Auto Collect Event Rings", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Funky%20Friday%20Auto%20Collect%20Event%20Rings.lua")
 
 addscriptexist(6298464951, "Roblox Is Unbreakable: Dupe Stands, Items, Money", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Roblox%20Is%20Unbreakable%20Dupe%20Stands%20Items%20Money.lua")
+
+addscriptexist(5346891762, "Bridge Worm: Head Admins Commands", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Bridge%20Worm%20Head%20Admins%20Commands.lua")
