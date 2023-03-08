@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 17:18:13"
+lastupdate = "GMT +1: 08.03.2023 17:18:17"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -9942,3 +9942,5 @@ addscriptexist(4639625707, "War Tycoon: Capture Flag, Teleporter, Remove Fall Da
 addscriptexist(164051105, "Super Bomb Survival: Auto Farm, Auto Collect Gems, Auto Collect Coins", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Super%20Bomb%20Survival%20Auto%20Farm%20Auto%20Collect%20Gems%20Auto%20Collect%20Coins.lua")
 
 addscriptexist(9551640993, "Mining Simulator 2: Auto Deposit Fireshard, Block Aura & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mining%20Simulator%20%20Auto%20Deposit%20Fireshard%20Block%20Aura%20%20More.lua")
+
+addscriptexist(8750997647, "Tapping Legends X: Auto Collect Drill, Auto Eggs & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tapping%20Legends%20X%20Auto%20Collect%20Drill%20Auto%20Eggs%20%20More.lua")
