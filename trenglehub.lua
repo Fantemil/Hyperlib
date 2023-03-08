@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 06:26:21"
+lastupdate = "GMT +1: 08.03.2023 06:30:43"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -4555,3 +4555,5 @@ addscriptexist(10462101644, "Tall Man Run: Kick All, Destroy Everything, Destroy
 
 addscriptexist(2474168535, "Westbound: Silent Aim, Gun Mod", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Westbound%20Silent%20Aim%20Gun%20Mod.lua")
 
+
+addscriptexist(9601565001, "Car Crash System: Anti Afk, Trolling, Fly", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Car%20Crash%20System%20Anti%20Afk%20Trolling%20Fly.lua")
