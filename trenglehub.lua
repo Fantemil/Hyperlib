@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 18:10:24"
+lastupdate = "GMT +1: 08.03.2023 18:10:28"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -11258,3 +11258,5 @@ addscriptexist(3198259055, "SoulShatters Test Place: Godmode, ESP, Auto Block", 
 addscriptexist(2248408710, "Destruction Simulator: Auto Farm, Auto Sell, Infinity XP", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Destruction%20Simulator%20Auto%20Farm%20Auto%20Sell%20Infinity%20XP.lua")
 
 addscriptexist(10710676163, "SPTS : Origin: Auto Farm All Stats", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SPTS%20%20Origin%20Auto%20Farm%20All%20Stats.lua")
+
+addscriptexist(9103460924, "Sword Factory X: Auto Dungeon, Teleports, Auto Farm Section", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sword%20Factory%20X%20Auto%20Dungeon%20Teleports%20Auto%20Farm%20Section.lua")
