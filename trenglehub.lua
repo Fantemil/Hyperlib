@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 12:25:55"
+lastupdate = "GMT +1: 08.03.2023 12:26:00"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -6022,3 +6022,5 @@ addscriptexist(286090429, "Arsenal: Infinity Jumps, Instant Respawn, Anti Aim", 
 addscriptexist(2753915549, "Blox Fruits: Auto Farm, Auto Raid, Bring Fruit", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blox%20Fruits%20Auto%20Farm%20Auto%20Raid%20Bring%20Fruit.lua")
 
 addscriptexist(10977918334, "Merge Droppers! Infinity Money", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Merge%20Droppers%20Infinity%20Money.lua")
+
+addscriptuniversal("Universal Jump Power, Walkspeed Sliders", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Jump%20Power%20Walkspeed%20Sliders.lua")
