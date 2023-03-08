@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 18:12:41"
+lastupdate = "GMT +1: 08.03.2023 18:12:47"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -11310,3 +11310,5 @@ addscript(2066381781, "Current Game","Deadly Sins Retribution: Auto Spin Race an
 addscript(6612749452, "Current Game","Mineblox Simulator: Auto MIne, Auto Buy PickAxes, Auto Expand Plot", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mineblox%20Simulator%20Auto%20MIne%20Auto%20Buy%20PickAxes%20Auto%20Expand%20Plot.lua")
 
 addscriptexist(2788229376, "Da Hood: Resolve, Anti Lock, Auto Prediction", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Da%20Hood%20Resolve%20Anti%20Lock%20Auto%20Prediction.lua")
+
+addscriptexist(286090429, "Arsenal: Silent AIm, Kill All, ESP", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Arsenal%20Silent%20AIm%20Kill%20All%20ESP.lua")
