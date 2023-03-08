@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 21:06:24"
+lastupdate = "GMT +1: 08.03.2023 21:06:29"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -14876,3 +14876,5 @@ addscriptexist(2413927524, "The Rake REMASTERED [Notifications, Esp]", "pulled f
 addscript(10386774046, "Current Game","Legend Magician [Insane Reach]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Legend%20Magician%20Insane%20Reach.lua")
 
 addscriptexist(6168898345, "Bulwark [Auto Parry]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Bulwark%20Auto%20Parry.lua")
+
+addscript(9531918774, "Current Game","mid eastern conflict sim [Inf Ammo]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/mid%20eastern%20conflict%20sim%20Inf%20Ammo.lua")
