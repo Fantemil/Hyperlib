@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 17:36:59"
+lastupdate = "GMT +1: 08.03.2023 17:37:03"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -10418,3 +10418,5 @@ addscript(11236233078, "Current Game","Killstreak: Mayhem: Slap Someone", "pulle
 addscriptexist(6403373529, "Slap Battles: Slapple Auto Farm, Anti Cheat Bypass, Jump Power", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Slap%20Battles%20Slapple%20Auto%20Farm%20Anti%20Cheat%20Bypass%20Jump%20Power.lua")
 
 addscriptexist(10417027559, "Vliccs Difficulty Chart Obby 2: Infinite Skips", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Vliccs%20Difficulty%20Chart%20Obby%20%20Infinite%20Skips.lua")
+
+addscriptexist(8084034728, "Roblox But Every Second You Become Stronger: Infinite Gems", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Roblox%20But%20Every%20Second%20You%20Become%20Stronger%20Infinite%20Gems.lua")
