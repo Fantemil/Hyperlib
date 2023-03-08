@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 12:23:38"
+lastupdate = "GMT +1: 08.03.2023 12:23:44"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -5960,3 +5960,5 @@ addscriptexist(443406476, "Project Lazarus: Infinite Points", "pulled from rbxsc
 addscript(7294000494, "Current Game","Craftwars Knockoff: Auto Ore Farm, Auto Farm NPC, Auto Mine", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Craftwars%20Knockoff%20Auto%20Ore%20Farm%20Auto%20Farm%20NPC%20Auto%20Mine.lua")
 
 addscriptuniversal("Universal Vehicle Fly", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Vehicle%20Fly.lua")
+
+addscriptexist(1224212277, "Mad City: Chapter 2: Crates Teleport", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mad%20City%20Chapter%20%20Crates%20Teleport.lua")
