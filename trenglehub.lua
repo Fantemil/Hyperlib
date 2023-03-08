@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 17:26:23"
+lastupdate = "GMT +1: 08.03.2023 17:26:27"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -10150,3 +10150,5 @@ addscript(8122612051, "Current Game","Slendytubbies VS Redux: Infinity Custards"
 addscriptexist(3411100258, "prtty much evry bordr gam evr: No Hunger, Infinity Stamina, Anti Timeout", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/prtty%20much%20evry%20bordr%20gam%20evr%20No%20Hunger%20Infinity%20Stamina%20Anti%20Timeout.lua")
 
 addscript(566399244, "Current Game","Elemental Battlegrounds: Auto Shards Grabber", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Elemental%20Battlegrounds%20Auto%20Shards%20Grabber.lua")
+
+addscript(1466995005, "Current Game","RAGDOLL UNIVERSE: Candy Auto Pickup", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RAGDOLL%20UNIVERSE%20Candy%20Auto%20Pickup.lua")
