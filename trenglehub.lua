@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 20:48:22"
+lastupdate = "GMT +1: 08.03.2023 20:48:26"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -14430,3 +14430,5 @@ addscriptuniversal("Roblox Universal Script [Anti-AFK]", "pulled from rbxscript.
 addscriptexist(2788229376, "Da Hood [AutoFarm, AutoCollect]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Da%20Hood%20AutoFarm%20AutoCollect.lua")
 
 addscriptuniversal("Roblox Universal Script [GFX Script]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Roblox%20Universal%20Script%20GFX%20Script.lua")
+
+addscriptexist(7305309231, "Taxi Boss [AutoFarm, AntiAfk]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Taxi%20Boss%20AutoFarm%20AntiAfk.lua")
