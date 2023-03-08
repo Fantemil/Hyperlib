@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 18:11:42"
+lastupdate = "GMT +1: 08.03.2023 18:11:46"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -11288,3 +11288,5 @@ addscriptexist(7462526249, "NIKELAND: Get All ghosts", "pulled from rbxscript.co
 addscriptexist(2753915549, "Blox fruits: Autofarm level, Auto raid, Nring fruits", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blox%20fruits%20Autofarm%20level%20Auto%20raid%20Nring%20fruits.lua")
 
 addscriptexist(10758955211, "Skydive Race Clicker: Auto Farm, Auto Rebirths, Auto Wins", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Skydive%20Race%20Clicker%20Auto%20Farm%20Auto%20Rebirths%20Auto%20Wins.lua")
+
+addhub("Ophelia Hub: 8 Games", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ophelia%20Hub%20%20Games.lua")
