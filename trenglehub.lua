@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 19:25:35"
+lastupdate = "GMT +1: 08.03.2023 19:25:39"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -12880,3 +12880,5 @@ addscriptexist(6751371363, "Hood Duels: Aimlock", "pulled from rbxscript.com", "
 addscriptexist(10895555747, "Walmart Land: Inf Tokens", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Walmart%20Land%20Inf%20Tokens.lua")
 
 addscriptexist(183364845, "Speed Run 4: Unlock lvls", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Speed%20Run%20%20Unlock%20lvls.lua")
+
+addscriptexist(3177438863, "Dragon Blox: Auto Rebirth, Auto Farm, Auto Lot", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Dragon%20Blox%20Auto%20Rebirth%20Auto%20Farm%20Auto%20Lot.lua")
