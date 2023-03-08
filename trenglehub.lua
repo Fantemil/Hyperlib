@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 17:20:04"
+lastupdate = "GMT +1: 08.03.2023 17:20:09"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -9988,3 +9988,5 @@ addscriptexist(2753915549, "Blox Fruits: Anti AFK", "pulled from rbxscript.com",
 addscriptexist(2753915549, "Blox Fruits: Devil Fruits Teleport", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blox%20Fruits%20Devil%20Fruits%20Teleport.lua")
 
 addscriptexist(11436221007, "Elton John: Roblox Event Collect All The Gold Bars", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Elton%20John%20Roblox%20Event%20Collect%20All%20The%20Gold%20Bars.lua")
+
+addscriptexist(4490140733, "My Restaurant: Fast Sutff, Walkspeed, XP Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/My%20Restaurant%20Fast%20Sutff%20Walkspeed%20XP%20Farm.lua")
