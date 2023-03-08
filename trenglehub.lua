@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 20:38:07"
+lastupdate = "GMT +1: 08.03.2023 20:38:12"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -14180,3 +14180,5 @@ addscriptuniversal("Roblox Universal Script [Hitbox, Esp]", "pulled from rbxscri
 addscriptexist(662417684, "LUCKY BLOCKS Battlegrounds. [Fly, Get All Items]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LUCKY%20BLOCKS%20Battlegrounds%20Fly%20Get%20All%20Items.lua")
 
 addscriptexist(5041144419, "SCP: Roleplay [Escape Facility, KillAura]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SCP%20Roleplay%20Escape%20Facility%20KillAura.lua")
+
+addscriptexist(10087074695, "Knife Strife! [Insta Kill]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Knife%20Strife%20Insta%20Kill.lua")
