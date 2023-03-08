@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SmallPreston/Smallys-Hub/main/SmallysHub.lua"))()
