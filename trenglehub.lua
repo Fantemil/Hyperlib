@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 07:12:00"
+lastupdate = "GMT +1: 08.03.2023 07:12:05"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -5672,3 +5672,5 @@ addscriptexist(11196588443, "Zombie Merge Tycoon: Auto Put, Auto Upgrade, Walksp
 addscript(10834415065, "Current Game","Roblox but every second you level up: Destory game", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Roblox%20but%20every%20second%20you%20level%20up%20Destory%20game.lua")
 
 addscriptuniversal("Universal unanchored part holder", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20unanchored%20part%20holder.lua")
+
+addscript(698448212, "Current Game","RoBeats: Auto Player", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RoBeats%20Auto%20Player.lua")
