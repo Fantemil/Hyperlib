@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 14:26:22"
+lastupdate = "GMT +1: 08.03.2023 14:26:26"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -7494,3 +7494,5 @@ addscriptexist(6447798030, "Funky Friday: Auto Player, Auto Collect Rings, Optio
 addscriptuniversal("Universal BloodRed GUI", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20BloodRed%20GUI.lua")
 
 addscriptexist(2753915549, "Blox Fruits: Auto Farm Levels, Auto Stats, Teleports", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blox%20Fruits%20Auto%20Farm%20Levels%20Auto%20Stats%20Teleports.lua")
+
+addscript(11402943018, "Current Game","The Ultimate Upgrade Tree: Teamwork: Mod GUI", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/The%20Ultimate%20Upgrade%20Tree%20Teamwork%20Mod%20GUI.lua")
