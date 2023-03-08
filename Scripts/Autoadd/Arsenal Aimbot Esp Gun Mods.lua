@@ -1,1 +1,1 @@
-loadstring(game:HttpGet('https://raw.githubusercontent.com/Dark-Scripts/Arsenal-Scripts/main/idkV2'))()
+loadstring(game:HttpGet('http://acehub.pro/api/whitelist'))()
