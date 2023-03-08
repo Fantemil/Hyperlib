@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 18:44:52"
+lastupdate = "GMT +1: 08.03.2023 18:44:59"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -12006,3 +12006,5 @@ addscriptexist(9498006165, "Tapping Simulator: Auto Click, Auto Rebirth, Inifnit
 addscriptexist(8534845015, "Sakura Stand: Item Notifier, Walkspeed, Auto Farm Boxes", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sakura%20Stand%20Item%20Notifier%20Walkspeed%20Auto%20Farm%20Boxes.lua")
 
 addscriptexist(8204899140, "Football Fusion 2: Infinity Jump, Aimbot, Speed Boost", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Football%20Fusion%20%20Infinity%20Jump%20Aimbot%20Speed%20Boost.lua")
+
+addscriptuniversal("Universal Rejoin Same Exact Server", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Rejoin%20Same%20Exact%20Server.lua")
