@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 12:24:26"
+lastupdate = "GMT +1: 08.03.2023 12:24:30"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -5982,3 +5982,5 @@ addscriptexist(286090429, "Arsenal: ESP, RGB Gun, Rapid Fire", "pulled from rbxs
 addscriptexist(10347946161, "Rat Washing Tycoon: Auto Collect, Auto Wash, Auto Buy Buttons", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Rat%20Washing%20Tycoon%20Auto%20Collect%20Auto%20Wash%20Auto%20Buy%20Buttons.lua")
 
 addhub("Obscure Hub: 30+ Games", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Obscure%20Hub%20%20Games.lua")
+
+addscriptexist(11103424163, "Heist Tycoon: Infinity Money, Noclip, Speedhacks", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Heist%20Tycoon%20Infinity%20Money%20Noclip%20Speedhacks.lua")
