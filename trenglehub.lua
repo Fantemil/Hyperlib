@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 17:34:41"
+lastupdate = "GMT +1: 08.03.2023 17:34:45"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -10358,3 +10358,5 @@ addscript(306964494, "Current Game","Loomian Legacy: Auto Heal", "pulled from rb
 addscriptexist(920587237, "Adopt Me: Press X to XRay", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Adopt%20Me%20Press%20X%20to%20XRay.lua")
 
 addscriptexist(1537690962, "Bee Swarm Simulator: Remove Tags, Anti Reset, Ban", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Bee%20Swarm%20Simulator%20Remove%20Tags%20Anti%20Reset%20Ban.lua")
+
+addscriptexist(10905034443, "Smoothie Factory Tycoon: Auto Obby, Auto Buy, Auto Jar", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Smoothie%20Factory%20Tycoon%20Auto%20Obby%20Auto%20Buy%20Auto%20Jar.lua")
