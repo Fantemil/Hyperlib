@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 16:39:34"
+lastupdate = "GMT +1: 08.03.2023 16:39:38"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -8968,3 +8968,5 @@ addscriptexist(7655745946, "Dunking Simulator: Infinity Money, Auto Rebirth, Aut
 addhub("Fantasy Hub: 3 Games", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Fantasy%20Hub%20%20Games.lua")
 
 addscriptexist(9598746251, "Home Run Simulator: Auto Open, Auto Swing, Auto Upgrades", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Home%20Run%20Simulator%20Auto%20Open%20Auto%20Swing%20Auto%20Upgrades.lua")
+
+addscriptexist(155615604, "Prison Life: Kill Aura, Super Punch, Spawn Guns", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Prison%20Life%20Kill%20Aura%20Super%20Punch%20Spawn%20Guns.lua")
