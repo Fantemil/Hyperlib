@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 19:38:25"
+lastupdate = "GMT +1: 08.03.2023 19:38:30"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -13166,3 +13166,5 @@ addscriptexist(185655149, "Bloxburg: Automatic Pizza Delivery", "pulled from rbx
 addscriptuniversal("Universal Walk An Walls", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Walk%20An%20Walls.lua")
 
 addscriptexist(2788229376, "Da Hood GUI: Auto Farm, Fly, God Mode & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Da%20Hood%20GUI%20Auto%20Farm%20Fly%20God%20Mode%20%20More.lua")
+
+addscriptuniversal("Universal Zerio Spy", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Zerio%20Spy.lua")
