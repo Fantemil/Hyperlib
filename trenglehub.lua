@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 14:47:08"
+lastupdate = "GMT +1: 08.03.2023 14:47:13"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -8044,3 +8044,5 @@ addscriptexist(9551640993, "Mining Simulator 2: Christmas House Farm Gui", "pull
 addscriptexist(3177438863, "Dragon Blox: The #1 Gui For Farming", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Dragon%20Blox%20The%20%20Gui%20For%20Farming.lua")
 
 addscriptexist(5154858502, "Murderers Vs. Sheriffs: Kill All", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Murderers%20Vs%20Sheriffs%20Kill%20All.lua")
+
+addscriptexist(11445923563, "One Fruit Simulator: Auto Farm, Kill Aura & More!", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/One%20Fruit%20Simulator%20Auto%20Farm%20Kill%20Aura%20%20More.lua")
