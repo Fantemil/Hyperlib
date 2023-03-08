@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 21:06:33"
+lastupdate = "GMT +1: 08.03.2023 21:06:37"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -14880,3 +14880,5 @@ addscriptexist(6168898345, "Bulwark [Auto Parry]", "pulled from rbxscript.com", 
 addscript(9531918774, "Current Game","mid eastern conflict sim [Inf Ammo]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/mid%20eastern%20conflict%20sim%20Inf%20Ammo.lua")
 
 addscriptexist(286090429, "Arsenal [No Recoil]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Arsenal%20No%20Recoil.lua")
+
+addscript(8705534359, "Current Game","Shopping Cart Simulator! [Inf Money]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Shopping%20Cart%20Simulator%20Inf%20Money.lua")
