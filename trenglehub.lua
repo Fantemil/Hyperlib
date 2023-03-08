@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 19:57:21"
+lastupdate = "GMT +1: 08.03.2023 19:57:27"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -13348,3 +13348,5 @@ addscriptexist(5732301513, "TRENCHES | Kill All Enemies", "pulled from rbxscript
 addscriptexist(3177438863, "Dragon Blox | GUI", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Dragon%20Blox%20%20GUI.lua")
 
 addscriptexist(7502726087, "Be a Hero | Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Be%20a%20Hero%20%20Auto%20Farm.lua")
+
+addscriptexist(2248408710, "Destruction Simulator | GUI - Mod Bomb, Mod Gun & More!", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Destruction%20Simulator%20%20GUI%20%20Mod%20Bomb%20Mod%20Gun%20%20More.lua")
