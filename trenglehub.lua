@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 15:09:26"
+lastupdate = "GMT +1: 08.03.2023 15:09:31"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -8638,3 +8638,5 @@ addscriptexist(920587237, "Adopt Me: Make Flyable", "pulled from rbxscript.com",
 addscriptexist(10898965735, "Mine Racer: Auto Join, Auto Upgrade, Auto Rebirth", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mine%20Racer%20Auto%20Join%20Auto%20Upgrade%20Auto%20Rebirth.lua")
 
 addscriptexist(9872472334, "Evade: ESP, Boxes, Auto Respawn", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Evade%20ESP%20Boxes%20Auto%20Respawn.lua")
+
+addscriptexist(920587237, "Adopt Me: Make Pet Mega Neon", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Adopt%20Me%20Make%20Pet%20Mega%20Neon.lua")
