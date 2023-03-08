@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 20:40:07"
+lastupdate = "GMT +1: 08.03.2023 20:40:13"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -14234,3 +14234,5 @@ addscript(7055501563, "Current Game","Public Bathroom Simulator [Crash Server]",
 addscriptexist(13822889, "Lumber Tycoon 2 [Inf Jump, Walkspeed]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Lumber%20Tycoon%20%20Inf%20Jump%20Walkspeed.lua")
 
 addscriptexist(4951858512, "Victory Race [Walkspeed, AutoFarm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Victory%20Race%20Walkspeed%20AutoFarm.lua")
+
+addscriptexist(5490351219, "Clicker Madness [Auto Open Egg, Auto Clicker, Tp]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Clicker%20Madness%20Auto%20Open%20Egg%20Auto%20Clicker%20Tp.lua")
