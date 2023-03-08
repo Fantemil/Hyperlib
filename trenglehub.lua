@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 18:29:12"
+lastupdate = "GMT +1: 08.03.2023 18:29:17"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -11718,3 +11718,5 @@ addscriptexist(10924916839, "Bee Tower Tycoon: Auto Buy, Auto Upgrade & More", "
 addscriptexist(11189979930, "Pet Crafting Simulator: Auto Merge, Auto Complete Obby, Auto Rebirth", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pet%20Crafting%20Simulator%20Auto%20Merge%20Auto%20Complete%20Obby%20Auto%20Rebirth.lua")
 
 addscriptexist(286090429, "Arsenal: Infinity Jump, Silent Aim & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Arsenal%20Infinity%20Jump%20Silent%20Aim%20%20More.lua")
+
+addscriptexist(621129760, "Knife Ability Test: Silent Aim, Godmode & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Knife%20Ability%20Test%20Silent%20Aim%20Godmode%20%20More.lua")
