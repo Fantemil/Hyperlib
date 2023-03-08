@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 17:41:54"
+lastupdate = "GMT +1: 08.03.2023 17:42:01"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -10544,3 +10544,5 @@ addscriptexist(8908228901, "SharkBite 2 [NEW]: Auto Farm Afk, Survivor Auto Farm
 addscriptexist(10681622988, "Easy Jump Clicker: Auto Farm Wins, Auto Farm Rebirths, Auto Farm Jump Power", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Easy%20Jump%20Clicker%20Auto%20Farm%20Wins%20Auto%20Farm%20Rebirths%20Auto%20Farm%20Jump%20Power.lua")
 
 addscript(5690862508, "Current Game","Sans Multiversal Battles 2: Tool Giver, Get All Attacks, Godmode", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sans%20Multiversal%20Battles%20%20Tool%20Giver%20Get%20All%20Attacks%20Godmode.lua")
+
+addscriptexist(6284583030, "Pet Simulator X: Gem Farm, Chest Farm, Farm Coins by health", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pet%20Simulator%20X%20Gem%20Farm%20Chest%20Farm%20Farm%20Coins%20by%20health.lua")
