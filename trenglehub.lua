@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 17:12:04"
+lastupdate = "GMT +1: 08.03.2023 17:12:08"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -9782,3 +9782,5 @@ addscriptexist(5780309044, "Stands Awakening: Event Boss Helper", "pulled from r
 addscriptexist(1962086868, "Tower Of Hell: God Mode, Give All Items & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tower%20Of%20Hell%20God%20Mode%20Give%20All%20Items%20%20More.lua")
 
 addscriptexist(10321372166, "Pet Simulator X: Infinite jump, Auto Eggs & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pet%20Simulator%20X%20Infinite%20jump%20Auto%20Eggs%20%20More.lua")
+
+addscript(9625096419, "Current Game","Tapper Simulator: AutoHatch, Auto Rebirth, Auto Click", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tapper%20Simulator%20AutoHatch%20Auto%20Rebirth%20Auto%20Click.lua")
