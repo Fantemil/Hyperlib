@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 16:57:36"
+lastupdate = "GMT +1: 08.03.2023 16:57:40"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -9414,3 +9414,5 @@ addscriptuniversal("Universal XYZ Position Printer", "pulled from rbxscript.com"
 addscriptexist(648362523, "Breaking Point: Auto Farm, ESP, Kill Aura", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Breaking%20Point%20Auto%20Farm%20ESP%20Kill%20Aura.lua")
 
 addhub("Linkvertise Hub: 5 Games", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Linkvertise%20Hub%20%20Games.lua")
+
+addhub("Universal XYZ Gui", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20XYZ%20Gui.lua")
