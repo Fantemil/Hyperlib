@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 17:47:56"
+lastupdate = "GMT +1: 08.03.2023 17:48:00"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -10696,3 +10696,5 @@ addscriptexist(7180042682, "Military Tycoon: Cash Auto-Farm, Auto-Buy Tycoon Stu
 addscriptexist(9586878618, "Inazuma Rebirth: Auto Van Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Inazuma%20Rebirth%20Auto%20Van%20Farm.lua")
 
 addscriptexist(2317712696, "The Wild West: Ins Stamina, No Fall Damage, Auto Sprint", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/The%20Wild%20West%20Ins%20Stamina%20No%20Fall%20Damage%20Auto%20Sprint.lua")
+
+addscriptexist(10070062081, "Minion Simulator: Auto Collect, Auto Farm, Multi Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Minion%20Simulator%20Auto%20Collect%20Auto%20Farm%20Multi%20Farm.lua")
