@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 14:37:46"
+lastupdate = "GMT +1: 08.03.2023 14:37:50"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -7788,3 +7788,5 @@ addscriptexist(11445923563, "One Fruit Simulator: Auto Farm, Auto Open Chests, A
 addscriptuniversal("Universal Fake Admin Button", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Fake%20Admin%20Button.lua")
 
 addscriptexist(2788229376, "Da Hood: Fly, Silent AIm, Bounty Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Da%20Hood%20Fly%20Silent%20AIm%20Bounty%20Farm.lua")
+
+addscriptuniversal("Universal Spinbot, BHop, Options", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Spinbot%20BHop%20Options.lua")
