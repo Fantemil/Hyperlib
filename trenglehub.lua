@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 07:18:20"
+lastupdate = "GMT +1: 08.03.2023 07:18:23"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -5868,3 +5868,5 @@ addscriptexist(3623096087, "Muscle Legends: Auto Rebirth, Auto Strength, Safe Pl
 addscript(11327460595, "Current Game","Cart Ride Race: Race, Cart Max Speed, Auto Click", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Cart%20Ride%20Race%20Race%20Cart%20Max%20Speed%20Auto%20Click.lua")
 
 addscriptexist(3233893879, "Bad Business: Infinity Ammo", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Bad%20Business%20Infinity%20Ammo.lua")
+
+addscriptexist(6170705260, "Blending Simulator 2: Auto Collect Ingredients, Auto Get Badges, Teleports", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blending%20Simulator%20%20Auto%20Collect%20Ingredients%20Auto%20Get%20Badges%20Teleports.lua")
