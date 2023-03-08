@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 12:20:39"
+lastupdate = "GMT +1: 08.03.2023 12:20:43"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -5880,3 +5880,5 @@ addscriptexist(10598587051, "Anime Clicker Fight: Auto Farm, Auto Click, Egg.", 
 addscriptexist(6516141723, "DOORS: Distance, Door numbering, Highlights", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DOORS%20Distance%20Door%20numbering%20Highlights.lua")
 
 addscriptexist(6422372837, "Snipers: Silent Aim, No Shoot Cooldown", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Snipers%20Silent%20Aim%20No%20Shoot%20Cooldown.lua")
+
+addscriptexist(6679968919, "Fly Race: Semi-Auto Farm, Auto Farm, Auto Collect Orbs.", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Fly%20Race%20SemiAuto%20Farm%20Auto%20Farm%20Auto%20Collect%20Orbs.lua")
