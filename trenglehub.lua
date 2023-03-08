@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 17:26:31"
+lastupdate = "GMT +1: 08.03.2023 17:26:35"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -10154,3 +10154,5 @@ addscript(566399244, "Current Game","Elemental Battlegrounds: Auto Shards Grabbe
 addscript(1466995005, "Current Game","RAGDOLL UNIVERSE: Candy Auto Pickup", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RAGDOLL%20UNIVERSE%20Candy%20Auto%20Pickup.lua")
 
 addscriptexist(9848789324, "Ragdoll Engine: R15 FE Invisible Character", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ragdoll%20Engine%20R%20FE%20Invisible%20Character.lua")
+
+addscriptexist(7047488135, "Speed Run Simulator: Fast Auto Collect Orbs, Auto Rebirth, Fast Upgrade", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Speed%20Run%20Simulator%20Fast%20Auto%20Collect%20Orbs%20Auto%20Rebirth%20Fast%20Upgrade.lua")
