@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 18:01:11"
+lastupdate = "GMT +1: 08.03.2023 18:01:15"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -11026,3 +11026,5 @@ addscriptexist(1296881293, "Warship RP, WW2: Admin Guns, Infinity Ammo, Hide Nam
 addscript(6961824067, "Current Game","Fling Things and People: Auto Slot, Silent Aim, Anti Grab", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Fling%20Things%20and%20People%20Auto%20Slot%20Silent%20Aim%20Anti%20Grab.lua")
 
 addscriptexist(893973440, "Flee the Facility: Silent Aim, Auto Hack, Highlight computers", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Flee%20the%20Facility%20Silent%20Aim%20Auto%20Hack%20Highlight%20computers.lua")
+
+addscript(5310443220, "Current Game","GOD TYCOON: Auto Tycoon, Click Dropper, Silent Aim", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/GOD%20TYCOON%20Auto%20Tycoon%20Click%20Dropper%20Silent%20Aim.lua")
