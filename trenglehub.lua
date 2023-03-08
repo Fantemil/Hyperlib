@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 14:38:21"
+lastupdate = "GMT +1: 08.03.2023 14:38:25"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -7804,3 +7804,5 @@ addscriptexist(9819654737, "Raise A Sonic: Auto Farm, Auto Feed Sonic, Auto Clic
 addscriptexist(9414511685, "Drive Cars Down A Hill: Destroy bomb", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Drive%20Cars%20Down%20A%20Hill%20Destroy%20bomb.lua")
 
 addscriptexist(10598587051, "Anime Clicker Fight: Autoclick, Autospeed", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime%20Clicker%20Fight%20Autoclick%20Autospeed.lua")
+
+addscriptexist(11346342371, "making memes in your basement at 3 AM tycoon: Instant Upload, Wake Workers, Create Memes", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/making%20memes%20in%20your%20basement%20at%20%20AM%20tycoon%20Instant%20Upload%20Wake%20Workers%20Create%20Memes.lua")
