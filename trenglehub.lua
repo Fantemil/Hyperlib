@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 12:58:22"
+lastupdate = "GMT +1: 08.03.2023 12:58:27"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -6884,3 +6884,5 @@ addscript(6523078987, "Current Game","Slap Battles: Killstreak Edition: Equip to
 addscriptexist(6447798030, "Funky Friday: Auto Player", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Funky%20Friday%20Auto%20Player.lua")
 
 addscriptexist(9224601490, "Fruit Battlegrounds: Infinity Spins, Rollback", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Fruit%20Battlegrounds%20Infinity%20Spins%20Rollback.lua")
+
+addscriptexist(10903978962, "Sheep Tycoon: Auto Teleport to Money", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sheep%20Tycoon%20Auto%20Teleport%20to%20Money.lua")
