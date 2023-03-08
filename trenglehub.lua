@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 12:32:04"
+lastupdate = "GMT +1: 08.03.2023 12:32:08"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -6186,3 +6186,5 @@ addscriptexist(1962086868, "Tower Of Hell: Bypasser Anti Cheat", "pulled from rb
 addscriptexist(286090429, "Arsenal: Aimbot, Esp, Gun Mods", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Arsenal%20Aimbot%20Esp%20Gun%20Mods.lua")
 
 addscriptexist(2753915549, "Blox Fruits: 20+ Hubs All Combined Into One", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blox%20Fruits%20%20Hubs%20All%20Combined%20Into%20One.lua")
+
+addscript(9100638688, "Current Game","Drivers Paradise: Unlimited Candy Canes", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Drivers%20Paradise%20Unlimited%20Candy%20Canes.lua")
