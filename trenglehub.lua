@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 20:55:15"
+lastupdate = "GMT +1: 08.03.2023 20:55:19"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -14602,3 +14602,5 @@ addscript(10218821851, "Current Game","Client Replication [Fe Becoming a monster
 addscriptexist(8204899140, "Football Fusion 2 [Auto Catch, FootballLock, Auto Captain]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Football%20Fusion%20%20Auto%20Catch%20FootballLock%20Auto%20Captain.lua")
 
 addscriptuniversal("Roblox Universal Script [Esp, Tracers]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Roblox%20Universal%20Script%20Esp%20Tracers.lua")
+
+addscriptexist(2788229376, "Da Hood [Legit Aimlock]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Da%20Hood%20Legit%20Aimlock.lua")
