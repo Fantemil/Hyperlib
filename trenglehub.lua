@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 07:16:57"
+lastupdate = "GMT +1: 08.03.2023 07:17:00"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -5824,3 +5824,5 @@ addscriptexist(11656036986, "make roblox games to become rich and famous: Auto C
 addscriptuniversal("Universal Sword Damage Multiplier", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Sword%20Damage%20Multiplier.lua")
 
 addscriptexist(286090429, "Arsenal: Silent Aim, Godmode, Aimbot", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Arsenal%20Silent%20Aim%20Godmode%20Aimbot.lua")
+
+addscript(5911084042, "Current Game","Anime Evolution Simulator: Auto Click, Auto Kill Mob, Auto Kill Boss", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime%20Evolution%20Simulator%20Auto%20Click%20Auto%20Kill%20Mob%20Auto%20Kill%20Boss.lua")
