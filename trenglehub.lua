@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 12:31:01"
+lastupdate = "GMT +1: 08.03.2023 12:31:05"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -6158,3 +6158,5 @@ addscript(11302867501, "Current Game","Every Second You Get Stronger: Auto Farm 
 addscriptexist(6284583030, "Pet Simulator X: Teleport To Gifts", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pet%20Simulator%20X%20Teleport%20To%20Gifts.lua")
 
 addscript(2634602814, "Current Game","Bully Stories: Change Anyones Rp Name", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Bully%20Stories%20Change%20Anyones%20Rp%20Name.lua")
+
+addscriptexist(9819654737, "Raise A Sonic: Auto Click Sonic, Auto Collect Rings, Auto Feed", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Raise%20A%20Sonic%20Auto%20Click%20Sonic%20Auto%20Collect%20Rings%20Auto%20Feed.lua")
