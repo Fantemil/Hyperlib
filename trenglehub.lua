@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 14:41:40"
+lastupdate = "GMT +1: 08.03.2023 14:41:45"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -7894,3 +7894,5 @@ addscript(11169441681, "Current Game","Word Bridge: Auto Answer, Coins Farm", "p
 addscriptexist(3956818381, "Ninja Legends: Anti-Afk, Auto Clicker", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ninja%20Legends%20AntiAfk%20Auto%20Clicker.lua")
 
 addscriptuniversal("Universal Teleport To Players, Drop All Accessories, Reset", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Teleport%20To%20Players%20Drop%20All%20Accessories%20Reset.lua")
+
+addscriptexist(5036207802, "RB Battles! Coins Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RB%20Battles%20Coins%20Auto%20Farm.lua")
