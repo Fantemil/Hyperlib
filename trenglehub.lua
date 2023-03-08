@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 06:38:17"
+lastupdate = "GMT +1: 08.03.2023 06:38:20"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -4646,3 +4646,5 @@ addscript(4111023553, "Current Game","Deepwoken Verse 2: Keygrabber", "pulled fr
 addscriptexist(10048079179, "Fat Simulator: Auto Farm & Auto Rebirth", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Fat%20Simulator%20Auto%20Farm%20%20Auto%20Rebirth.lua")
 
 addscriptexist(3652625463, "Lifting Simulator: Auto Gain, Auto Sell & More!", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Lifting%20Simulator%20Auto%20Gain%20Auto%20Sell%20%20More.lua")
+
+addscriptexist(606849621, "Jailbreak: Auto Arrest", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Jailbreak%20Auto%20Arrest.lua")
