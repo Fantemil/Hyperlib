@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 17:08:01"
+lastupdate = "GMT +1: 08.03.2023 17:08:05"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -9676,3 +9676,5 @@ addscriptexist(11227688003, "roblox but you get smarter every second: Auto Farm"
 addscriptexist(3851622790, "Break In (Story): Give Medkit, Delete All Tools, Godmode", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Break%20In%20Story%20Give%20Medkit%20Delete%20All%20Tools%20Godmode.lua")
 
 addscriptexist(2753915549, "Blox Fruits: Visual Infnity Levels", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blox%20Fruits%20Visual%20Infnity%20Levels.lua")
+
+addscript(7967092071, "Current Game","Guess the Emoji: Auto Guess Correct Answer", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Guess%20the%20Emoji%20Auto%20Guess%20Correct%20Answer.lua")
