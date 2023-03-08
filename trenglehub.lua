@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 14:48:40"
+lastupdate = "GMT +1: 08.03.2023 14:48:46"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -8088,3 +8088,5 @@ addscriptexist(9551640993, "Mining Simulator 2: Christmas Event Auto Farm", "pul
 addscriptexist(292439477, "Phantom Forces: Bunny Hop", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Phantom%20Forces%20Bunny%20Hop.lua")
 
 addscriptexist(292439477, "Phantom Forces: Esp", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Phantom%20Forces%20Esp.lua")
+
+addscriptexist(5036207802, "Rb Battles!: Infinite Coins", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Rb%20Battles%20Infinite%20Coins.lua")
