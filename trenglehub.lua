@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 17:17:13"
+lastupdate = "GMT +1: 08.03.2023 17:17:17"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -9918,3 +9918,5 @@ addscriptexist(185655149, "Welcome to Bloxburg: Hide Player, Auto Farm, Anti Ban
 addscriptexist(2753915549, "Blox Fruits: Auto Farm Level, RTX Mode & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blox%20Fruits%20Auto%20Farm%20Level%20RTX%20Mode%20%20More.lua")
 
 addscriptexist(6229116934, "Hoopz: Auto Pickup, Settings, Silent Aim", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Hoopz%20Auto%20Pickup%20Settings%20Silent%20Aim.lua")
+
+addscriptexist(2866967438, "Fishing Simulator: Auto Farm, Auto Kill Sharks & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Fishing%20Simulator%20Auto%20Farm%20Auto%20Kill%20Sharks%20%20More.lua")
