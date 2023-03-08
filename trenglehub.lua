@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 17:02:48"
+lastupdate = "GMT +1: 08.03.2023 17:02:52"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -9546,3 +9546,5 @@ addscriptexist(10631384212, "Treasure Hunt Islands: Auto Mine Block, Auto Mine C
 addscriptexist(2809202155, "Your Bizarre Adventure: Auto Farm, Server Hop", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Your%20Bizarre%20Adventure%20Auto%20Farm%20Server%20Hop.lua")
 
 addscriptexist(1962086868, "Tower Of Hell: Tp To Finish, Godmode, Jump power", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tower%20Of%20Hell%20Tp%20To%20Finish%20Godmode%20Jump%20power.lua")
+
+addscriptexist(286090429, "Arsenal: Aimbot, ESP, No Recoil", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Arsenal%20Aimbot%20ESP%20No%20Recoil.lua")
