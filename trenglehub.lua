@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 19:07:45"
+lastupdate = "GMT +1: 08.03.2023 19:07:50"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -12498,3 +12498,5 @@ addscriptexist(10462101644, "Tall Man Run: Crash Server", "pulled from rbxscript
 addscriptexist(2753915549, "Blox Fruits: Auto Super Human, Auto Farm Fish Tail", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blox%20Fruits%20Auto%20Super%20Human%20Auto%20Farm%20Fish%20Tail.lua")
 
 addscriptexist(9284097280, "Apartment Tycoon: Auto Clean, Auto Collect, Anti Kick", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Apartment%20Tycoon%20Auto%20Clean%20Auto%20Collect%20Anti%20Kick.lua")
+
+addscriptexist(9264596435, "Idle Heroes Simulator: Auto Attack Enemy, Auto Next Lvl, Auto Open Chest", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Idle%20Heroes%20Simulator%20Auto%20Attack%20Enemy%20Auto%20Next%20Lvl%20Auto%20Open%20Chest.lua")
