@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 06:50:17"
+lastupdate = "GMT +1: 08.03.2023 06:50:21"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -5012,3 +5012,5 @@ addscriptexist(2753915549, "Blox Fruits: AutoFarm Level, AutoFarm Selected Quest
 addscriptexist(292439477, "Phantom Forces: CPU Limiter, Anti Afk, No Fall Damage", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Phantom%20Forces%20CPU%20Limiter%20Anti%20Afk%20No%20Fall%20Damage.lua")
 
 addscriptexist(11040063484, "Sword Fighters Simulator: Equip Best Pets, Auto Farm Selected, Auto Open Eggs", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sword%20Fighters%20Simulator%20Equip%20Best%20Pets%20Auto%20Farm%20Selected%20Auto%20Open%20Eggs.lua")
+
+addscriptexist(11729688377, "Booga Booga [REBORN]: Auto Atack, Auto Pickup, Auto Heal", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Booga%20Booga%20REBORN%20Auto%20Atack%20Auto%20Pickup%20Auto%20Heal.lua")
