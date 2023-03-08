@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 12:30:30"
+lastupdate = "GMT +1: 08.03.2023 12:30:34"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -6142,3 +6142,5 @@ addscriptexist(6161747775, "Pirate Clash: Hitbox, NoReload", "pulled from rbxscr
 addscriptexist(2414851778, "Dungeon Quest: Kill Aura, God Mode, Auto Swing.", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Dungeon%20Quest%20Kill%20Aura%20God%20Mode%20Auto%20Swing.lua")
 
 addscriptuniversal("Universal FE Xester Animations", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20FE%20Xester%20Animations.lua")
+
+addscriptexist(21532277, "Notoriety: Low Detection", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Notoriety%20Low%20Detection.lua")
