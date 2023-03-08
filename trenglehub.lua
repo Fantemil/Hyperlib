@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 13:18:54"
+lastupdate = "GMT +1: 08.03.2023 13:18:58"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -7414,3 +7414,5 @@ addscriptexist(3101667897, "Legends Of Speed: Auto Farm Orbs, Auto Race, Auto Ho
 addscriptexist(7026949294, "Sword Simulator: Auto Egg, Auto Farm, Auto Claim rewards", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sword%20Simulator%20Auto%20Egg%20Auto%20Farm%20Auto%20Claim%20rewards.lua")
 
 addscriptexist(31490825, "Military War Tycoon: Inf Jump, Inf Ammo, WalkSpeed", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Military%20War%20Tycoon%20Inf%20Jump%20Inf%20Ammo%20WalkSpeed.lua")
+
+addscriptexist(2768379856, "3008: Select All, Esp , Esp Box", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/%20Select%20All%20Esp%20%20Esp%20Box.lua")
