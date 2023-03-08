@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 18:22:14"
+lastupdate = "GMT +1: 08.03.2023 18:22:18"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -11548,3 +11548,5 @@ addscriptexist(8122612051, "Slendytubbies VS Redux: Inf custards", "pulled from 
 addscriptexist(1224212277, "Mad City: Teleport, Silent AIM, ESP & more", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mad%20City%20Teleport%20Silent%20AIM%20ESP%20%20more.lua")
 
 addhub("Roblox Universal Hub Holder", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Roblox%20Universal%20Hub%20Holder.lua")
+
+addscript(6429911702, "Current Game","Master's Difficulty Chart Obby: Finish Obbies, Remove Killparts", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Masters%20Difficulty%20Chart%20Obby%20Finish%20Obbies%20Remove%20Killparts.lua")
