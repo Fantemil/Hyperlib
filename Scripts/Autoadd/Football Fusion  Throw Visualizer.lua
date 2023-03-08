@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://gist.githubusercontent.com/saucekid/fecadca8d9753b9306a1a30389c62d7f/raw/f24608a0ed72d66b40d3102dbc0b70d11c9ea829/ffvisualizer.lua"))()
