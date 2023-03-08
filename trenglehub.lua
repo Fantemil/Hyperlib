@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 12:39:36"
+lastupdate = "GMT +1: 08.03.2023 12:39:40"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -6396,3 +6396,5 @@ addscriptexist(13822889, "Lumber Tycoon 2: Tree Getter Gui, Open Source", "pulle
 addscriptexist(142823291, "Murder Mystery 2: Auto Farm, God Mode, Kill All", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Murder%20Mystery%20%20Auto%20Farm%20God%20Mode%20Kill%20All.lua")
 
 addscriptexist(21532277, "Notoriety: Auto Farm - Synapse X Only", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Notoriety%20Auto%20Farm%20%20Synapse%20X%20Only.lua")
+
+addscriptexist(6918802270, "Project New World: Chest Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Project%20New%20World%20Chest%20Auto%20Farm.lua")
