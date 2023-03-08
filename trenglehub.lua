@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 19:59:09"
+lastupdate = "GMT +1: 08.03.2023 19:59:13"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -13384,3 +13384,5 @@ addscriptuniversal("Universal Anti Chat banner / logger", "pulled from rbxscript
 addscriptexist(10320240572, "Easy Race Clicker | Fast Win Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Easy%20Race%20Clicker%20%20Fast%20Win%20Auto%20Farm.lua")
 
 addscriptexist(621129760, "Knife Ability Test | Walkspeed, Jumppower, Esp", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Knife%20Ability%20Test%20%20Walkspeed%20Jumppower%20Esp.lua")
+
+addscriptexist(10675066724, "Slime Tower Tycoon | Anti Afk, Auto Collect, Walkspeed", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Slime%20Tower%20Tycoon%20%20Anti%20Afk%20Auto%20Collect%20Walkspeed.lua")
