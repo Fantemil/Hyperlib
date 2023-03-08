@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 14:31:50"
+lastupdate = "GMT +1: 08.03.2023 14:31:56"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -7632,3 +7632,5 @@ addscriptexist(6872265039, "Bedwars: Auto Farm", "pulled from rbxscript.com", "h
 addscriptexist(1537690962, "Bee Swarm Simulator: Auto Farm, Auto Dig, Auto Sprinkler", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Bee%20Swarm%20Simulator%20Auto%20Farm%20Auto%20Dig%20Auto%20Sprinkler.lua")
 
 addscriptexist(9414511685, "Drive Cars Down A Hill!: Destroy Bomb", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Drive%20Cars%20Down%20A%20Hill%20Destroy%20Bomb.lua")
+
+addscriptexist(6198225400, "Legends Re:Written: Make Two Targets Force Trade & Godmode", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Legends%20ReWritten%20Make%20Two%20Targets%20Force%20Trade%20%20Godmode.lua")
