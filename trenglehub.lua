@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 17:19:14"
+lastupdate = "GMT +1: 08.03.2023 17:19:18"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -9966,3 +9966,5 @@ addscriptexist(286090429, "Arsenal: Owl Hub, Orca & More", "pulled from rbxscrip
 addscriptexist(9872472334, "Evade: Speed, ESP, Ticket Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Evade%20Speed%20ESP%20Ticket%20Farm.lua")
 
 addscriptexist(9872472334, "Evade: Anti Afk, Auto Farm & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Evade%20Anti%20Afk%20Auto%20Farm%20%20More.lua")
+
+addscript(10182167049, "Current Game","Magic Punching Simulator: Attack All Mobs", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Magic%20Punching%20Simulator%20Attack%20All%20Mobs.lua")
