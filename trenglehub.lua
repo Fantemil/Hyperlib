@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 12:37:47"
+lastupdate = "GMT +1: 08.03.2023 12:37:51"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -6344,3 +6344,5 @@ addscriptexist(218377574, "Admin Simulator: Admin Lvl Auto Farm, Kill, Fling", "
 addscriptexist(2534724415, "Emergency Response: Liberty County: ESP, Auto Farm, Aimbot", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Emergency%20Response%20Liberty%20County%20ESP%20Auto%20Farm%20Aimbot.lua")
 
 addscriptexist(10462101644, "Tall Man Run: Auto Farm Wins", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tall%20Man%20Run%20Auto%20Farm%20Wins.lua")
+
+addscriptuniversal("Universal GPU Saver", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20GPU%20Saver.lua")
