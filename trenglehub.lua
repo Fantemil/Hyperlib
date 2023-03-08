@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 06:48:48"
+lastupdate = "GMT +1: 08.03.2023 06:48:53"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -4968,3 +4968,5 @@ addscriptexist(9586878618, "Inazuma Rebirth: Speed Auto Farm, Stamina Auto Farm,
 addhub("KylnDantas Hub Cracked", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/KylnDantas%20Hub%20Cracked.lua")
 
 addscriptexist(7239319209, "Ohio: Auto Register Rob, Auto Bank Rob, Fly", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ohio%20Auto%20Register%20Rob%20Auto%20Bank%20Rob%20Fly.lua")
+
+addscriptexist(10760024537, "Ultimate Easy Obby: Auto Win", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ultimate%20Easy%20Obby%20Auto%20Win.lua")
