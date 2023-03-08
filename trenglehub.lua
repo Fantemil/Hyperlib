@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 18:20:38"
+lastupdate = "GMT +1: 08.03.2023 18:20:42"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -11506,3 +11506,5 @@ addscriptexist(2809202155, "Yba, Your Bizarre Adventure: Invisibility, Auto Farm
 addscript(10635076883, "Current Game","Gummy Bear Tycoon: Auto Farm, Auto Buy, Auto Upgrade", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Gummy%20Bear%20Tycoon%20Auto%20Farm%20Auto%20Buy%20Auto%20Upgrade.lua")
 
 addscriptexist(10714365287, "Anime Racing Clicker: Teleports, Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime%20Racing%20Clicker%20Teleports%20Auto%20Farm.lua")
+
+addscriptexist(10912060909, "Black Adam Experience: Get Scavenger Hunt Item, Trivia Item & Merch", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Black%20Adam%20Experience%20Get%20Scavenger%20Hunt%20Item%20Trivia%20Item%20%20Merch.lua")
