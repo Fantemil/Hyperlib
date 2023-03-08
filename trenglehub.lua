@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 14:58:57"
+lastupdate = "GMT +1: 08.03.2023 14:59:02"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -8360,3 +8360,5 @@ addscript(9680886326, "Current Game","West Elm Home Design: Give All Items", "pu
 addscriptexist(8927008367, "Kengun Online: Money Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Kengun%20Online%20Money%20Auto%20Farm.lua")
 
 addscriptexist(2986677229, "Giant Simulator: Auto Farm Orbs", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Giant%20Simulator%20Auto%20Farm%20Orbs.lua")
+
+addscriptexist(70005410, "Blox Hunt V2.7.28: Unlock Gamepasses & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blox%20Hunt%20V%20Unlock%20Gamepasses%20%20More.lua")
