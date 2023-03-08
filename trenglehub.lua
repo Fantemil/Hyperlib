@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 17:32:39"
+lastupdate = "GMT +1: 08.03.2023 17:32:44"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -10312,3 +10312,5 @@ addscriptexist(10675066724, "Slime Tower Tycoon: Auto Merge, Options, Auto Colle
 addscriptexist(1962086868, "Tower Of Hell: Godmode, Teleport To Finish, Give All Tools", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tower%20Of%20Hell%20Godmode%20Teleport%20To%20Finish%20Give%20All%20Tools.lua")
 
 addscriptuniversal("Universal RTX Mode, No Lags", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20RTX%20Mode%20No%20Lags.lua")
+
+addscriptexist(443406476, "Project Lazarus: Inf Ammo", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Project%20Lazarus%20Inf%20Ammo.lua")
