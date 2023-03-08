@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 15:02:14"
+lastupdate = "GMT +1: 08.03.2023 15:02:17"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -8448,3 +8448,5 @@ addscript(294790062, "Current Game","Roblox Titanic: Point Auto Farm, Setup All 
 addscript(3661577685, "Current Game","Fighting Game: Trinket Auto Pickup", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Fighting%20Game%20Trinket%20Auto%20Pickup.lua")
 
 addscript(2306562216, "Current Game","Camping: Get Basket, Get Items, Unlock Chat", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Camping%20Get%20Basket%20Get%20Items%20Unlock%20Chat.lua")
+
+addscript(9096377689, "Current Game","Killstreak Sword Fighting Beta: Close Server", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Killstreak%20Sword%20Fighting%20Beta%20Close%20Server.lua")
