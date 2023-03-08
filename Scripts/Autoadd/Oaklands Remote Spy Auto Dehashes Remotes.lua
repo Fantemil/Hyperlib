@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/HimikoToga1474/Public-Releases/master/Simple%20Spy%20v3%20Oaklands%20Dehasher"))()
