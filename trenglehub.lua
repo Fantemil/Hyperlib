@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 15:04:32"
+lastupdate = "GMT +1: 08.03.2023 15:04:38"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -8508,3 +8508,5 @@ addhub("Project Phantom: Big Quality Hub, Many Games Support", "pulled from rbxs
 addscriptexist(6516141723, "DOORS: Screech Spammer", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DOORS%20Screech%20Spammer.lua")
 
 addscriptexist(3102144307, "Sword Fighters Simulator: Auto Tp To Mobs, Auto Attack Mobs, Auto Farm Power", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sword%20Fighters%20Simulator%20Auto%20Tp%20To%20Mobs%20Auto%20Attack%20Mobs%20Auto%20Farm%20Power.lua")
+
+addscriptexist(920587237, "Adopt Me: Pet Auto Farm, Walkspeed, Multi Buyer", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Adopt%20Me%20Pet%20Auto%20Farm%20Walkspeed%20Multi%20Buyer.lua")
