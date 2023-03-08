@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 12:27:09"
+lastupdate = "GMT +1: 08.03.2023 12:27:13"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -6054,3 +6054,5 @@ addscriptexist(10462101644, "Tall Man Run: Get Comically Big, Kill Game & More",
 addscriptuniversal("Universal Annoying Sound, Kill Sound Service, Mute Game", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Annoying%20Sound%20Kill%20Sound%20Service%20Mute%20Game.lua")
 
 addscriptexist(537413528, "Build A Boat For Treasure: Auto Farm Gold", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Build%20A%20Boat%20For%20Treasure%20Auto%20Farm%20Gold.lua")
+
+addscriptexist(6918802270, "Project New World: Auto Chest", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Project%20New%20World%20Auto%20Chest.lua")
