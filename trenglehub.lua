@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 17:57:27"
+lastupdate = "GMT +1: 08.03.2023 17:57:34"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -10934,3 +10934,5 @@ addscriptexist(8908228901, "SharkBite 2:Auto Far, WalkSPeed, Tp", "pulled from r
 addscriptexist(6794368433, "Be a Spider Tycoon: Auto Build, Redeem All Codes, Sell Button", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Be%20a%20Spider%20Tycoon%20Auto%20Build%20Redeem%20All%20Codes%20Sell%20Button.lua")
 
 addscriptexist(3956818381, "Ninja Legends: Auto Swing, Auto Eggs & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ninja%20Legends%20Auto%20Swing%20Auto%20Eggs%20%20More.lua")
+
+addscriptexist(292439477, "Phantom Forces: Enable Esp", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Phantom%20Forces%20Enable%20Esp.lua")
