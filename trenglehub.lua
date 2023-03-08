@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 18:57:37"
+lastupdate = "GMT +1: 08.03.2023 18:57:43"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -12274,3 +12274,5 @@ addscriptexist(189707, "Natural Disaster Survival: Choose Next Map, Teleports, W
 addscript(6608498361, "Current Game","cursed tank simulator: Anti Cheat Bypasser", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/cursed%20tank%20simulator%20Anti%20Cheat%20Bypasser.lua")
 
 addscriptexist(9414511685, "Drive Down Cars a Hill: Auto Farm, Manual Money Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Drive%20Down%20Cars%20a%20Hill%20Auto%20Farm%20Manual%20Money%20Farm.lua")
+
+addscript(4996049426, "Current Game","All Star Tower Defense: Auto Unit Upgrade", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/All%20Star%20Tower%20Defense%20Auto%20Unit%20Upgrade.lua")
