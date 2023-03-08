@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 18:39:50"
+lastupdate = "GMT +1: 08.03.2023 18:39:57"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -11924,3 +11924,5 @@ addscript(7006496598, "Current Game","Bleeding Blades: Hitbox Extenders, ESP, La
 addscript(2627036812, "Current Game","Zulu Wars: Teleports, Hitbox", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Zulu%20Wars%20Teleports%20Hitbox.lua")
 
 addscriptexist(5985232436, "Infectious Smile: ESP, Hitboxes & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Infectious%20Smile%20ESP%20Hitboxes%20%20More.lua")
+
+addscriptexist(621129760, "Knife Ability Test: Silent Aim, Infinity Jump, FOV", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Knife%20Ability%20Test%20Silent%20Aim%20Infinity%20Jump%20FOV.lua")
