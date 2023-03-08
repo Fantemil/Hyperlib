@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 07:02:57"
+lastupdate = "GMT +1: 08.03.2023 07:03:01"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -5392,3 +5392,5 @@ addscriptuniversal("Universal Webhook Spammer", "pulled from rbxscript.com", "ht
 addscript(6441847031, "Current Game","CHAOS: Fly, Infinity Yield & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CHAOS%20Fly%20Infinity%20Yield%20%20More.lua")
 
 addscriptexist(6872265039, "BedWars: Custom Long Jump Vape Plugin", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BedWars%20Custom%20Long%20Jump%20Vape%20Plugin.lua")
+
+addscriptexist(6441847031, "CHAOS: Dupe Items, Lock Nearest, Godmode", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CHAOS%20Dupe%20Items%20Lock%20Nearest%20Godmode.lua")
