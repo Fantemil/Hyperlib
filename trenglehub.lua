@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 06:58:23"
+lastupdate = "GMT +1: 08.03.2023 06:58:27"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -5258,3 +5258,5 @@ addscriptexist(1240123653, "Zombie Attack: Silent Aim, Auto Farm, Speed", "pulle
 addscriptexist(11701792069, "Snow Plow Simulator: Infinite Money & Rebirths", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Snow%20Plow%20Simulator%20Infinite%20Money%20%20Rebirths.lua")
 
 addscriptexist(6741970382, "Zombie Lab: Kill All", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Zombie%20Lab%20Kill%20All.lua")
+
+addscriptexist(11701792069, "Snow Plow Simulator: Snow Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Snow%20Plow%20Simulator%20Snow%20Farm.lua")
