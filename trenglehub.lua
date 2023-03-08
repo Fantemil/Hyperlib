@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 19:17:42"
+lastupdate = "GMT +1: 08.03.2023 19:17:47"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -12710,3 +12710,5 @@ addscriptexist(9662949425, "Punch a brick wall simulator: Give Bones", "pulled f
 addscriptexist(8500690972, "NO STOP Obby: Skip All Stages", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NO%20STOP%20Obby%20Skip%20All%20Stages.lua")
 
 addscriptexist(10710676163, "SPTS Origin: Auto Respawn, Auto Farm, Teleports", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SPTS%20Origin%20Auto%20Respawn%20Auto%20Farm%20Teleports.lua")
+
+addscriptexist(9787091365, "Ninja Storm Simulator: Auto Attack, Walkspeed, Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ninja%20Storm%20Simulator%20Auto%20Attack%20Walkspeed%20Auto%20Farm.lua")
