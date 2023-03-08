@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 14:39:11"
+lastupdate = "GMT +1: 08.03.2023 14:39:15"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -7826,3 +7826,5 @@ addscriptuniversal("Universal Anti Chat Ban", "pulled from rbxscript.com", "http
 addscriptuniversal("Universal roblox universe viewer", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20roblox%20universe%20viewer.lua")
 
 addscript(8508303900, "Current Game","Tower of Flood Escape 2: Auto Open Boxes, Redeem Codes, Bypass Anti-Cheat", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tower%20of%20Flood%20Escape%20%20Auto%20Open%20Boxes%20Redeem%20Codes%20Bypass%20AntiCheat.lua")
+
+addscript(814559626, "Current Game","Dimension 23: Character Changer", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Dimension%20%20Character%20Changer.lua")
