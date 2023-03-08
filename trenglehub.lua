@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 20:01:48"
+lastupdate = "GMT +1: 08.03.2023 20:01:54"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -13440,3 +13440,5 @@ addscript(10753832846, "Current Game","Axe Gui Factory | Damage Loop", "pulled f
 addscript(5683833663, "Current Game","Ragdoll Engine | Kill, Anti Fling, Anti Kill", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ragdoll%20Engine%20%20Kill%20Anti%20Fling%20Anti%20Kill.lua")
 
 addhub("Universal Hub Loader", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Hub%20Loader.lua")
+
+addscriptexist(8737602449, "PLS DONATE | Animations, Emotes, Dances", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PLS%20DONATE%20%20Animations%20Emotes%20Dances.lua")
