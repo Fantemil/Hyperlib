@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 20:18:58"
+lastupdate = "GMT +1: 08.03.2023 20:19:03"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -13676,3 +13676,5 @@ addscript(8894888083, "Current Game","Pinata Legends | Infinity Gems and Coins",
 addscriptexist(9992339729, "Longest Answer Wins | Infinity Blocks", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Longest%20Answer%20Wins%20%20Infinity%20Blocks.lua")
 
 addscript(5498056786, "Current Game","Handball Association | Infinity Stamina", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Handball%20Association%20%20Infinity%20Stamina.lua")
+
+addscriptexist(2066381781, "Deadly Sins Retribution | AutoSpin Race", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Deadly%20Sins%20Retribution%20%20AutoSpin%20Race.lua")
