@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 21:21:34"
+lastupdate = "GMT +1: 08.03.2023 21:21:38"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -15062,3 +15062,5 @@ addscriptexist(2768379856, "SCP 3008 [Water Compatible, Give Items]", "pulled fr
 addscriptexist(9585537847, "SHADOVIS RPG [Auto Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SHADOVIS%20RPG%20Auto%20Farm.lua")
 
 addscript(4241242833, "Current Game","Family Paradise [Rainbow Skin, Auto Run]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Family%20Paradise%20Rainbow%20Skin%20Auto%20Run.lua")
+
+addscriptexist(9872472334, "Evade [FullBright, Inf Jump]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Evade%20FullBright%20Inf%20Jump.lua")
