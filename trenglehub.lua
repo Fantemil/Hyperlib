@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 20:24:12"
+lastupdate = "GMT +1: 08.03.2023 20:24:16"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -13816,3 +13816,5 @@ addscriptexist(8534845015, "Sakura Stand [Item Esp, Dummy Farm, DummyGod & More!
 addscriptexist(8962384769, "Firework Simulator [AutoFarm, KillAura]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Firework%20Simulator%20AutoFarm%20KillAura.lua")
 
 addscriptexist(1401417393, "Endurance [GUI - Speed Hack, AntiCheat Bypass & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Endurance%20GUI%20%20Speed%20Hack%20AntiCheat%20Bypass%20%20More.lua")
+
+addscriptexist(8227619186, "Murder Mystery A | ESP, Kill All, Get Revolver", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Murder%20Mystery%20A%20%20ESP%20Kill%20All%20Get%20Revolver.lua")
