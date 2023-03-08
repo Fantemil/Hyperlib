@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 18:47:34"
+lastupdate = "GMT +1: 08.03.2023 18:47:38"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -12060,3 +12060,5 @@ addscript(6828235261, "Current Game","FNAF: Coop | Animatronic Esp, Infinite Spr
 addscriptexist(5917852358, "Find the codes: Shutdown", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Find%20the%20codes%20Shutdown.lua")
 
 addscriptexist(5917852358, "Find the codes: Kick People", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Find%20the%20codes%20Kick%20People.lua")
+
+addscriptexist(891852901, "Greenville: Free Cam Toggle", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Greenville%20Free%20Cam%20Toggle.lua")
