@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 17:48:39"
+lastupdate = "GMT +1: 08.03.2023 17:48:43"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -10712,3 +10712,5 @@ addscriptexist(2753915549, "Blox Fruits: Auto Farm Chests, Teleports & More", "p
 addscriptexist(7180042682, "Military Tycoon: Auto Collect Cash, Silent Aim & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Military%20Tycoon%20Auto%20Collect%20Cash%20Silent%20Aim%20%20More.lua")
 
 addscript(7071444234, "Current Game","Pet Story: Auto Revive, Infinity Treat, Spam Talk", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pet%20Story%20Auto%20Revive%20Infinity%20Treat%20Spam%20Talk.lua")
+
+addscript(9231657575, "Current Game","Buffman Simulator: Auto Collect Candy", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Buffman%20Simulator%20Auto%20Collect%20Candy.lua")
