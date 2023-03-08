@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 17:54:20"
+lastupdate = "GMT +1: 08.03.2023 17:54:24"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -10852,3 +10852,5 @@ addscriptexist(4410049285, "Driving Simulator: Auto Farm Speed, Anti AFK, Click 
 addscript(7087534079, "Current Game","Naruto Defense Simulator: Auto Play, Redeem Codes, Auto Upgrade", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Naruto%20Defense%20Simulator%20Auto%20Play%20Redeem%20Codes%20Auto%20Upgrade.lua")
 
 addscript(10204556059, "Current Game","NARS Color Quest: Auto Grab Mask", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NARS%20Color%20Quest%20Auto%20Grab%20Mask.lua")
+
+addscriptexist(7305309231, "Taxi Boss: Candy Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Taxi%20Boss%20Candy%20Auto%20Farm.lua")
