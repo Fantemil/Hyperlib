@@ -1,0 +1,1 @@
+loadstring(game:HttpGetAsync('https://raw.githubusercontent.com/MilkMeNow123/NuggetHub./main/NuggetHub'))("Made by daddy apple and NuggetHub")
