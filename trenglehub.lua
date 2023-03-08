@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 18:43:37"
+lastupdate = "GMT +1: 08.03.2023 18:43:45"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -11990,3 +11990,5 @@ addscript(8986335348, "Current Game","Mortem Metallum [BETA]: Get every weapon",
 addscriptexist(9872472334, "Evade: Morphs, Infinity Jump & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Evade%20Morphs%20Infinity%20Jump%20%20More.lua")
 
 addscriptexist(5712833750, "Animal Simulator: Auto Collect Treasure, Walkspeed & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Animal%20Simulator%20Auto%20Collect%20Treasure%20Walkspeed%20%20More.lua")
+
+addscript(9777600316, "Current Game","My Freak Ghoul 2: Infinity Stats", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/My%20Freak%20Ghoul%20%20Infinity%20Stats.lua")
