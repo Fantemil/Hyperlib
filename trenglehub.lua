@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 12:26:04"
+lastupdate = "GMT +1: 08.03.2023 12:26:08"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -6026,3 +6026,5 @@ addscriptexist(10977918334, "Merge Droppers! Infinity Money", "pulled from rbxsc
 addscriptuniversal("Universal Jump Power, Walkspeed Sliders", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Jump%20Power%20Walkspeed%20Sliders.lua")
 
 addscriptexist(5993942214, "Rush Point: ESP, Aimbot, FOV", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Rush%20Point%20ESP%20Aimbot%20FOV.lua")
+
+addscriptexist(6125589657, "Touch Football: Auto Goal", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Touch%20Football%20Auto%20Goal.lua")
