@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 18:04:25"
+lastupdate = "GMT +1: 08.03.2023 18:04:29"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -11110,3 +11110,5 @@ addscriptexist(5233782396, "Creatures of Sonaria: Auto Farm Wisps", "pulled from
 addscriptuniversal("Universal Loop fling all", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Loop%20fling%20all.lua")
 
 addscriptuniversal("Universal Virus Script", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Virus%20Script.lua")
+
+addscriptexist(8884433153, "Collect All Pets: Auto Farm, Auto Claim Quest Reward, Auto Collect", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Collect%20All%20Pets%20Auto%20Farm%20Auto%20Claim%20Quest%20Reward%20Auto%20Collect.lua")
