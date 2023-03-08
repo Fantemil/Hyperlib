@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 13:18:45"
+lastupdate = "GMT +1: 08.03.2023 13:18:49"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -7410,3 +7410,5 @@ addscriptuniversal("Universal Unic Gui", "pulled from rbxscript.com", "https://r
 addscriptexist(1537690962, "Bee Swarm Simulator: Auto Farm, Auto Quest, Auto Stinger", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Bee%20Swarm%20Simulator%20Auto%20Farm%20Auto%20Quest%20Auto%20Stinger.lua")
 
 addscriptexist(3101667897, "Legends Of Speed: Auto Farm Orbs, Auto Race, Auto Hoops", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Legends%20Of%20Speed%20Auto%20Farm%20Orbs%20Auto%20Race%20Auto%20Hoops.lua")
+
+addscriptexist(7026949294, "Sword Simulator: Auto Egg, Auto Farm, Auto Claim rewards", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sword%20Simulator%20Auto%20Egg%20Auto%20Farm%20Auto%20Claim%20rewards.lua")
