@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 17:57:46"
+lastupdate = "GMT +1: 08.03.2023 17:57:51"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -10942,3 +10942,5 @@ addscriptexist(2788229376, "Da Hood: Fly, Anti Lock, Auto Farms", "pulled from r
 addscriptexist(4991214437, "town: ESP, Aimbot, Plot Stealer", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/town%20ESP%20Aimbot%20Plot%20Stealer.lua")
 
 addscriptuniversal("Universal AntiHook Function", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20AntiHook%20Function.lua")
+
+addscriptuniversal("Domain X", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Domain%20X.lua")
