@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 12:26:45"
+lastupdate = "GMT +1: 08.03.2023 12:26:49"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -6044,3 +6044,5 @@ addscriptuniversal("Universal Visual Works", "pulled from rbxscript.com", "https
 addscript(2629642516, "Current Game","Bitcoin Miner: Snow Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Bitcoin%20Miner%20Snow%20Auto%20Farm.lua")
 
 addscriptexist(4566572536, "Vehicle Legends: Auto Farm, Car Speed, Anti Afk", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Vehicle%20Legends%20Auto%20Farm%20Car%20Speed%20Anti%20Afk.lua")
+
+addscript(360589910, "Current Game","Hoops - Demo: Infinite Stamina, Hookmetamethod for throwing, Aimbot", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Hoops%20%20Demo%20Infinite%20Stamina%20Hookmetamethod%20for%20throwing%20Aimbot.lua")
