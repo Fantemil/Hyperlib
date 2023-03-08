@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 07:14:32"
+lastupdate = "GMT +1: 08.03.2023 07:14:39"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -5750,3 +5750,5 @@ addscriptexist(662417684, "LUCKY BLOCKS Battlegrounds: Get any Block, Hitbox Exp
 addscriptexist(3214114884, "Flag Wars: Hitbox Expander, ESP, Chams", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Flag%20Wars%20Hitbox%20Expander%20ESP%20Chams.lua")
 
 addscriptexist(662417684, "LUCKY BLOCKS Battlegrounds: Kill Aura, Kill All, Get any Block", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LUCKY%20BLOCKS%20Battlegrounds%20Kill%20Aura%20Kill%20All%20Get%20any%20Block.lua")
+
+addscriptexist(2788229376, "Da Hood: Quick Buy, Auto Stomp & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Da%20Hood%20Quick%20Buy%20Auto%20Stomp%20%20More.lua")
