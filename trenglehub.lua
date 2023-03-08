@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 06:54:31"
+lastupdate = "GMT +1: 08.03.2023 06:54:35"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -5140,3 +5140,5 @@ addscriptexist(11156779721, "The Survival Game: Circle Target, Kill Aura & More"
 addscriptexist(11156779721, "The Survival Game: Autofarm, Invisible", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/The%20Survival%20Game%20Autofarm%20Invisible.lua")
 
 addscript(9585800888, "Current Game","Plane crash physics: Infinity Cash, Free Military Planes, Walkspeed", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Plane%20crash%20physics%20Infinity%20Cash%20Free%20Military%20Planes%20Walkspeed.lua")
+
+addscriptexist(11676335670, "Hunter X Athena: AutoPushup", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Hunter%20X%20Athena%20AutoPushup.lua")
