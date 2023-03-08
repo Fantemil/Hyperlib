@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 16:59:37"
+lastupdate = "GMT +1: 08.03.2023 16:59:41"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -9466,3 +9466,5 @@ addscript(10631181587, "Current Game","Stone Miner Simulator 2: Auto Buy Spikes,
 addscript(10425191433, "Current Game","Trick Shot Simulator: Options, Auto Upgrades, Auto Unbox", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Trick%20Shot%20Simulator%20Options%20Auto%20Upgrades%20Auto%20Unbox.lua")
 
 addscript(7664413141, "Current Game","Creeper Chaos: Afk Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Creeper%20Chaos%20Afk%20Farm.lua")
+
+addscriptexist(3851622790, "Break In: Auto eat, Give eat, Tools", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Break%20In%20Auto%20eat%20Give%20eat%20Tools.lua")
