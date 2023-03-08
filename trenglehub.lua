@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 19:36:15"
+lastupdate = "GMT +1: 08.03.2023 19:36:20"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -13120,3 +13120,5 @@ addscriptuniversal("Universal Fling All", "pulled from rbxscript.com", "https://
 addscript(8447393333, "Current Game","Chocolate Factory Simulator: Infinite Money", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Chocolate%20Factory%20Simulator%20Infinite%20Money.lua")
 
 addscript(7133467811, "Current Game","Spin The Bottle: Invincibility", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Spin%20The%20Bottle%20Invincibility.lua")
+
+addscript(2533391464, "Current Game","Snowman Simulator: Auto Farm Snow, Auto Farm Presents & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Snowman%20Simulator%20Auto%20Farm%20Snow%20Auto%20Farm%20Presents%20%20More.lua")
