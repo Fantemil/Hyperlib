@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 18:11:10"
+lastupdate = "GMT +1: 08.03.2023 18:11:15"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -11274,3 +11274,5 @@ addscriptexist(10889408214, "DEFLECT: Auto Hit", "pulled from rbxscript.com", "h
 addscriptexist(137877687, "RoCitizens: Account Generator", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RoCitizens%20Account%20Generator.lua")
 
 addscriptexist(920587237, "Adopt Me: Auto Win", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Adopt%20Me%20Auto%20Win.lua")
+
+addscriptexist(8369888266, "Redcliff City RP: GAmepass, RainBow car, RainBow Avatar", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Redcliff%20City%20RP%20GAmepass%20RainBow%20car%20RainBow%20Avatar.lua")
