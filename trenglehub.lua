@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 17:12:54"
+lastupdate = "GMT +1: 08.03.2023 17:12:58"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -9802,3 +9802,5 @@ addscriptexist(5956785391, "Project Slayers: Auto Breath", "pulled from rbxscrip
 addscriptexist(537413528, "Build A Boat For Treasure: Auto Farm, Auto Chest, Anti AFK", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Build%20A%20Boat%20For%20Treasure%20Auto%20Farm%20Auto%20Chest%20Anti%20AFK.lua")
 
 addscriptexist(2788229376, "Da Hood: Auto Kill, Fake Macro & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Da%20Hood%20Auto%20Kill%20Fake%20Macro%20%20More.lua")
+
+addscriptexist(606849621, "Jailbreak: Instant Teleport To Museum", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Jailbreak%20Instant%20Teleport%20To%20Museum.lua")
