@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 18:25:23"
+lastupdate = "GMT +1: 08.03.2023 18:25:28"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -11622,3 +11622,5 @@ addscriptexist(5602055394, "Hood Modded: Inf jump, Trash Talk, Silent aim", "pul
 addscriptexist(9498006165, "Tapping Simulator: Auto Click, Auto Upgrade all, Auto Claim Gifts", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tapping%20Simulator%20Auto%20Click%20Auto%20Upgrade%20all%20Auto%20Claim%20Gifts.lua")
 
 addscriptexist(10925589760, "Merge Simulator: Auto Rebirth", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Merge%20Simulator%20Auto%20Rebirth.lua")
+
+addscriptexist(10925589760, "Merge Simulator: Auto Farm, Auto Rebirth, Auto Click", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Merge%20Simulator%20Auto%20Farm%20Auto%20Rebirth%20Auto%20Click.lua")
