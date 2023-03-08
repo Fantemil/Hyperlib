@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 12:36:50"
+lastupdate = "GMT +1: 08.03.2023 12:36:57"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -6318,3 +6318,5 @@ addscriptexist(9551640993, "Mining Simulator 2: Sell When Full, Mine Aura, Auto 
 addscriptexist(8540346411, "Rebirth Champions X: Auto Eggs, Auto Click, Auto Rebirth", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Rebirth%20Champions%20X%20Auto%20Eggs%20Auto%20Click%20Auto%20Rebirth.lua")
 
 addscriptexist(286090429, "Arsenal: Aimbot, Infinite Ammo, GodMode", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Arsenal%20Aimbot%20Infinite%20Ammo%20GodMode.lua")
+
+addscriptexist(4282985734, "Combat Warriors: New Anti Cheat Bypass", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Combat%20Warriors%20New%20Anti%20Cheat%20Bypass.lua")
