@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 18:26:46"
+lastupdate = "GMT +1: 08.03.2023 18:26:50"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -11658,3 +11658,5 @@ addscriptexist(9941633436, "Rank Simulator: Free Upgrades", "pulled from rbxscri
 addscriptexist(9498006165, "Tapping Simulator: Click Tp, Infinity Jump, Player ESP", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tapping%20Simulator%20Click%20Tp%20Infinity%20Jump%20Player%20ESP.lua")
 
 addscriptexist(6516141723, "Doors: Farm to Door 100, WalkSpeed, Esp", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Doors%20Farm%20to%20Door%20%20WalkSpeed%20Esp.lua")
+
+addscriptexist(10347946161, "Rat Washing Tycoon: Auto Collect Rats, Auto Sell Rats, Player Modifications", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Rat%20Washing%20Tycoon%20Auto%20Collect%20Rats%20Auto%20Sell%20Rats%20Player%20Modifications.lua")
