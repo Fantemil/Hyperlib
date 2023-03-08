@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 13:16:50"
+lastupdate = "GMT +1: 08.03.2023 13:16:54"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -7364,3 +7364,5 @@ addscriptexist(6516141723, "DOORS: One Speed Every Door", "pulled from rbxscript
 addscript(11323427280, "Current Game","Plane Race: Auto Race, Auto Collect Boost & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Plane%20Race%20Auto%20Race%20Auto%20Collect%20Boost%20%20More.lua")
 
 addscriptexist(2809202155, "Your Bizarre Adventure: Auto Farm Quests, Auto Farm NPC's, Use Stands", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Your%20Bizarre%20Adventure%20Auto%20Farm%20Quests%20Auto%20Farm%20NPCs%20Use%20Stands.lua")
+
+addscriptexist(3851622790, "Break In (Story): Get Weapons, Endings & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Break%20In%20Story%20Get%20Weapons%20Endings%20%20More.lua")
