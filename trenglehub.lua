@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 07:00:24"
+lastupdate = "GMT +1: 08.03.2023 07:00:29"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -5320,3 +5320,5 @@ addscriptexist(7180042682, "Military Tycoon: Auto Farm, Speed, Multiplayer", "pu
 addscript(9993529229, "Current Game","Counter Blox: Remastered: Open Infinity Cases", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Counter%20Blox%20Remastered%20Open%20Infinity%20Cases.lua")
 
 addscriptexist(9872472334, "Evade: Exp Farm, Money Farm, Anti Afk", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Evade%20Exp%20Farm%20Money%20Farm%20Anti%20Afk.lua")
+
+addscriptexist(6516141723, "DOORS: Key Aura, Book Aura, ESP", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DOORS%20Key%20Aura%20Book%20Aura%20ESP.lua")
