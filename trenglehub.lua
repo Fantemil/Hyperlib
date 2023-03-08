@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 06:38:57"
+lastupdate = "GMT +1: 08.03.2023 06:39:01"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -4660,3 +4660,5 @@ addscriptexist(8131063774, "Shattered Psycho Online: Chest Auto Farm With Server
 addscriptexist(8908228901, "Sharkbite 2: AutoKill Shark, AutoKill Survivors, VaseFarm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sharkbite%20%20AutoKill%20Shark%20AutoKill%20Survivors%20VaseFarm.lua")
 
 addscriptexist(1962086868, "Tower of Hell: Admin Commands", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tower%20of%20Hell%20Admin%20Commands.lua")
+
+addscriptexist(11156779721, "The Survival Game [BETA]: Kill Aura, Equipped Weapon Check & More!", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/The%20Survival%20Game%20BETA%20Kill%20Aura%20Equipped%20Weapon%20Check%20%20More.lua")
