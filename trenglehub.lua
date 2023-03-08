@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 15:08:07"
+lastupdate = "GMT +1: 08.03.2023 15:08:11"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -8602,3 +8602,5 @@ addhub("F2B Hub: 10 Games", "pulled from rbxscript.com", "https://raw.githubuser
 addscriptexist(6403373529, "Slap Battles: Bus Spam, Dark Orb Farm, Teleports", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Slap%20Battles%20Bus%20Spam%20Dark%20Orb%20Farm%20Teleports.lua")
 
 addscriptuniversal("Universal Key System For Script Free", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Key%20System%20For%20Script%20Free.lua")
+
+addscriptexist(443406476, "Project Lazarus: Infinity Ammo, Infinity Clip, One Hit Kill", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Project%20Lazarus%20Infinity%20Ammo%20Infinity%20Clip%20One%20Hit%20Kill.lua")
