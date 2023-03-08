@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 17:31:31"
+lastupdate = "GMT +1: 08.03.2023 17:31:38"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -10284,3 +10284,5 @@ addscriptexist(3851622790, "Break In (Story): FE Sound Player", "pulled from rbx
 addscriptexist(6939111033, "Escape Papa Pizza's Pizzeria: Give Tools", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Escape%20Papa%20Pizzas%20Pizzeria%20Give%20Tools.lua")
 
 addscriptexist(155615604, "Prison Life: Teleports, Arrest Yourself & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Prison%20Life%20Teleports%20Arrest%20Yourself%20%20More.lua")
+
+addscriptexist(9993529229, "Counter Blox Remastered: Kill All, Aimbot, Silent Aim", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Counter%20Blox%20Remastered%20Kill%20All%20Aimbot%20Silent%20Aim.lua")
