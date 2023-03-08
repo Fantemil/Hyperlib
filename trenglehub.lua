@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 20:20:05"
+lastupdate = "GMT +1: 08.03.2023 20:20:10"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -13706,3 +13706,5 @@ addscriptexist(286090429, "Arsenal | Hitbox, Esp", "pulled from rbxscript.com", 
 addscriptexist(9742783208, "Raise a Yippee | AutoClick, AutoFood", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Raise%20a%20Yippee%20%20AutoClick%20AutoFood.lua")
 
 addscript(8891045283, "Current Game","Find The Bacons | GetAllBacons", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Find%20The%20Bacons%20%20GetAllBacons.lua")
+
+addscriptexist(298400657, "Dragon Ball Final Remastered | GUI - Infinite Ki, Infinite Stamina", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Dragon%20Ball%20Final%20Remastered%20%20GUI%20%20Infinite%20Ki%20Infinite%20Stamina.lua")
