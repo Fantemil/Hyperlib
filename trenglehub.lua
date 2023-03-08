@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 18:09:38"
+lastupdate = "GMT +1: 08.03.2023 18:09:42"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -11240,3 +11240,5 @@ addscript(10984838211, "Current Game","Battlefield Tycoon: Freeze Enemies, Reall
 addscriptuniversal("Universal Join Admin Kicker", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Join%20Admin%20Kicker.lua")
 
 addscriptexist(155615604, "Prison Life: Team Changer, Item Giver, Gun Mods", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Prison%20Life%20Team%20Changer%20Item%20Giver%20Gun%20Mods.lua")
+
+addscriptexist(8750997647, "Tapping Legends X: Auto Click, Auto Rebirth, Auto Eggs", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tapping%20Legends%20X%20Auto%20Click%20Auto%20Rebirth%20Auto%20Eggs.lua")
