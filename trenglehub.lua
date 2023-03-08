@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 12:35:38"
+lastupdate = "GMT +1: 08.03.2023 12:35:43"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -6286,3 +6286,5 @@ addhub("Norther Hub: Infinity Yield, V.G. Hub, Infiity Jumps", "pulled from rbxs
 addscriptexist(10700669209, "Control Army: Auto Kill Pigs", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Control%20Army%20Auto%20Kill%20Pigs.lua")
 
 addscriptexist(2788229376, "Da Hood: Animations Gamepass", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Da%20Hood%20Animations%20Gamepass.lua")
+
+addscriptuniversal("Universal Fe Back Flip, Front Flip, Super Human", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Fe%20Back%20Flip%20Front%20Flip%20Super%20Human.lua")
