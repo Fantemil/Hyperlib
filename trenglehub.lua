@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 13:12:07"
+lastupdate = "GMT +1: 08.03.2023 13:12:12"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -7240,3 +7240,5 @@ addscriptexist(10404327868, "Timber Champions: Auto Farm, Auto Collect Chests, A
 addscriptexist(1224212277, "Mad City: Chapter 2: Auto Rob, Silent Aim, Anti Afk", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mad%20City%20Chapter%20%20Auto%20Rob%20Silent%20Aim%20Anti%20Afk.lua")
 
 addscriptexist(662417684, "LUCKY BLOCKS Battlegrounds: Get All Items", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LUCKY%20BLOCKS%20Battlegrounds%20Get%20All%20Items.lua")
+
+addscriptexist(10875701453, "Edward the Man-Eating Train: Gun Modification", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Edward%20the%20ManEating%20Train%20Gun%20Modification.lua")
