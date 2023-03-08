@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 18:46:40"
+lastupdate = "GMT +1: 08.03.2023 18:46:46"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -12038,3 +12038,5 @@ addscriptexist(8482451541, "Brick Defense: Halloween Event, Instantly Collect Th
 addscript(245440965, "Current Game","Shipping Lanes: All Teleports, Auto Refuel Ship, Auto Repair Ship", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Shipping%20Lanes%20All%20Teleports%20Auto%20Refuel%20Ship%20Auto%20Repair%20Ship.lua")
 
 addscriptexist(9941633436, "Rank Simulator: Inf Money", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Rank%20Simulator%20Inf%20Money.lua")
+
+addscriptexist(8590762007, "normal real time strategy game: See Cash players", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/normal%20real%20time%20strategy%20game%20See%20Cash%20players.lua")
