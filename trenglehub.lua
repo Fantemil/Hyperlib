@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 19:18:16"
+lastupdate = "GMT +1: 08.03.2023 19:18:20"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -12724,3 +12724,5 @@ addscriptexist(9993529229, "Counter Blox Remastered: Inf Open Cases", "pulled fr
 addscriptexist(9993529229, "Counter Blox Remastered: Inf Open Any Case", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Counter%20Blox%20Remastered%20Inf%20Open%20Any%20Case.lua")
 
 addscriptexist(9845465117, "AU:Reborn: Walkspeed, Farm Player, Noclip", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AUReborn%20Walkspeed%20Farm%20Player%20Noclip.lua")
+
+addscriptexist(6516141723, "DOORS: Esp, Key Aura, Speed", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DOORS%20Esp%20Key%20Aura%20Speed.lua")
