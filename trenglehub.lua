@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 20:45:15"
+lastupdate = "GMT +1: 08.03.2023 20:45:19"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -14356,3 +14356,5 @@ addhub("Roblox [Zlatko Hub]", "pulled from rbxscript.com", "https://raw.githubus
 addhub("Roblox [Realityy Hub]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Roblox%20Realityy%20Hub.lua")
 
 addscriptexist(9103090927, "Stumble Buddies [Kick All]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Stumble%20Buddies%20Kick%20All.lua")
+
+addscriptexist(2653064683, "Word Bomb [Auto Type, AutoJoin]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Word%20Bomb%20Auto%20Type%20AutoJoin.lua")
