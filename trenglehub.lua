@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 20:55:01"
+lastupdate = "GMT +1: 08.03.2023 20:55:05"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -14596,3 +14596,5 @@ addscript(10397561422, "Current Game","Plushie simulator [Teddy spammer, Unlock 
 addscriptexist(537413528, "Build A Boat For Treasure [Auto Farm, WalkSpeed, Godmode Water]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Build%20A%20Boat%20For%20Treasure%20Auto%20Farm%20WalkSpeed%20Godmode%20Water.lua")
 
 addscript(4962588958, "Current Game","Teamwork Obby [2 Player Obby] [AutoFarm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Teamwork%20Obby%20%20Player%20Obby%20AutoFarm.lua")
+
+addscript(10218821851, "Current Game","Client Replication [Fe Becoming a monster]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Client%20Replication%20Fe%20Becoming%20a%20monster.lua")
