@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 06:49:07"
+lastupdate = "GMT +1: 08.03.2023 06:49:14"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -4978,3 +4978,5 @@ addscriptexist(8916037983, "starving artists: Themes", "pulled from rbxscript.co
 addscriptexist(10889408214, "DEFLECT: Legit Auto Deflect, Auto Deflect, Hitbox Expander", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DEFLECT%20Legit%20Auto%20Deflect%20Auto%20Deflect%20Hitbox%20Expander.lua")
 
 addscriptexist(370731277, "MeepCity: Auto Farm Fishes, Silent Aim Fishing, Avatar Equipper", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MeepCity%20Auto%20Farm%20Fishes%20Silent%20Aim%20Fishing%20Avatar%20Equipper.lua")
+
+addscriptexist(6284583030, "Pet Simulator X: Cheat farm, Area farm, Mastery farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pet%20Simulator%20X%20Cheat%20farm%20Area%20farm%20Mastery%20farm.lua")
