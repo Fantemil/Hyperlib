@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 13:00:39"
+lastupdate = "GMT +1: 08.03.2023 13:00:43"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -6942,3 +6942,5 @@ addscriptexist(6456351776, "Kaiju Paradise: Walkspeed, Inf jump, Bypass Safezone
 addscriptexist(6679968919, "Fly Race: Free Gamepasses", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Fly%20Race%20Free%20Gamepasses.lua")
 
 addscriptexist(9733390246, "Stair Tappers! Auto Taper", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Stair%20Tappers%20Auto%20Taper.lua")
+
+addscriptexist(11179373590, "Broken Bones 5: Infinity Money", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Broken%20Bones%20%20Infinity%20Money.lua")
