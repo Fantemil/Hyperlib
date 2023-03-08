@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 12:51:12"
+lastupdate = "GMT +1: 08.03.2023 12:51:16"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -6700,3 +6700,5 @@ addscriptexist(4616652839, "Shindo Life: Auto Add, Bloodlines, Elements", "pulle
 addscriptexist(7952502098, "Impossible Glass Bridge Obby: Easy Win", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Impossible%20Glass%20Bridge%20Obby%20Easy%20Win.lua")
 
 addscriptexist(11547613362, "Fly Race: Boost FPS, Auto Buy Egg, Auto Merge", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Fly%20Race%20Boost%20FPS%20Auto%20Buy%20Egg%20Auto%20Merge.lua")
+
+addscriptexist(4872321990, "Islands: Teleport Bypass", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Islands%20Teleport%20Bypass.lua")
