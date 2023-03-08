@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 18:53:34"
+lastupdate = "GMT +1: 08.03.2023 18:53:38"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -12186,3 +12186,5 @@ addscriptexist(1224212277, "Mad City Chapter 2: Esp, Aim, FullBight", "pulled fr
 addscriptexist(10364927844, "Elemental Fighting Simulator: Auto Collect Drops, Auto Farm, Teleports", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Elemental%20Fighting%20Simulator%20Auto%20Collect%20Drops%20Auto%20Farm%20Teleports.lua")
 
 addscript(8649501395, "Current Game","NFL Tycoon: Auto Collect Money, Auto Buy, Collect All Footballs", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NFL%20Tycoon%20Auto%20Collect%20Money%20Auto%20Buy%20Collect%20All%20Footballs.lua")
+
+addscriptexist(9551640993, "Mining Simulator 2: Auto Farm, Auto Sell, Auto rebirth", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mining%20Simulator%20%20Auto%20Farm%20Auto%20Sell%20Auto%20rebirth.lua")
