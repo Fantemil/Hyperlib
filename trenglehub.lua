@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 20:44:44"
+lastupdate = "GMT +1: 08.03.2023 20:44:51"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -14344,3 +14344,5 @@ addscriptexist(2537430692, "Jenga [Stop Game]", "pulled from rbxscript.com", "ht
 addscriptexist(4282985734, "Combat Warriors [Esp, KillAura]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Combat%20Warriors%20Esp%20KillAura.lua")
 
 addscriptexist(5154858502, "Murderers vs. Sheriffs [KillAura]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Murderers%20vs%20Sheriffs%20KillAura.lua")
+
+addscriptexist(2788229376, "Da Hood [AimLock]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Da%20Hood%20AimLock.lua")
