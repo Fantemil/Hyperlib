@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 07:08:29"
+lastupdate = "GMT +1: 08.03.2023 07:08:33"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -5566,3 +5566,5 @@ addscriptexist(9534337535, "Shrek In The Backrooms: Auto Farm", "pulled from rbx
 addscript(11187148979, "Current Game","Ultra UnFair: Kill Aura", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ultra%20UnFair%20Kill%20Aura.lua")
 
 addscriptexist(6298464951, "Roblox Is Unbreakable: Get Values Of Selected Items", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Roblox%20Is%20Unbreakable%20Get%20Values%20Of%20Selected%20Items.lua")
+
+addscript(9649680488, "Current Game","Backrooms Race Clicker: Mega Speed", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Backrooms%20Race%20Clicker%20Mega%20Speed.lua")
