@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 07:17:15"
+lastupdate = "GMT +1: 08.03.2023 07:17:19"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -5834,3 +5834,5 @@ addscriptexist(5796917097, "Road to Gramby's: Silent aim, More bullets, Auto Sho
 addscriptuniversal("Universal Shiftlock Unlocker", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Shiftlock%20Unlocker.lua")
 
 addscriptuniversal("Wheel Hub: 20+ Games", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Wheel%20Hub%20%20Games.lua")
+
+addscriptexist(4872321990, "Islands: Auto Kill, Auto Farm & more", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Islands%20Auto%20Kill%20Auto%20Farm%20%20more.lua")
