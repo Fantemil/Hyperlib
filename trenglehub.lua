@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 19:11:00"
+lastupdate = "GMT +1: 08.03.2023 19:11:06"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -12564,3 +12564,5 @@ addscriptexist(9167501050, "Lightsaber Arena: Kill Aura, Ear Rape, Auto Swap For
 addscriptexist(2753915549, "Blox Fruits: Auto Farm, Fruit Farm & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blox%20Fruits%20Auto%20Farm%20Fruit%20Farm%20%20More.lua")
 
 addscriptexist(537413528, "Build A Boat For Treasure: Auto Farm, Anti Afk", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Build%20A%20Boat%20For%20Treasure%20Auto%20Farm%20Anti%20Afk.lua")
+
+addscriptexist(292439477, "Phantom Forces: Aimbot, ESP, Wallcheck", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Phantom%20Forces%20Aimbot%20ESP%20Wallcheck.lua")
