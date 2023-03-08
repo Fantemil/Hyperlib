@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 20:45:37"
+lastupdate = "GMT +1: 08.03.2023 20:45:42"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -14366,3 +14366,5 @@ addscriptexist(340227283, "RoBowling [Hitbox, Aimbot]", "pulled from rbxscript.c
 addscriptexist(7664413141, "Creeper Chaos [Beta] [Auto Farm, Esp]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Creeper%20Chaos%20Beta%20Auto%20Farm%20Esp.lua")
 
 addscript(10201298018, "Current Game","Vampire Hunters 2 Remake [Gun grab, Outfit saver, Role esp]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Vampire%20Hunters%20%20Remake%20Gun%20grab%20Outfit%20saver%20Role%20esp.lua")
+
+addscriptexist(9585537847, "SHADOVIS RPG [AutoRebrith, Open Shop]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SHADOVIS%20RPG%20AutoRebrith%20Open%20Shop.lua")
