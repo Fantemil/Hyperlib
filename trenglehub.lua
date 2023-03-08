@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 16:36:20"
+lastupdate = "GMT +1: 08.03.2023 16:36:25"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -8886,3 +8886,5 @@ addscriptuniversal("Universal vehicle speed boost", "pulled from rbxscript.com",
 addscriptexist(9524757503, "iHeartLand: Music Tycoon: Collect All Planet", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/iHeartLand%20Music%20Tycoon%20Collect%20All%20Planet.lua")
 
 addscript(8377686524, "Current Game","Classic Undertale: Last Reset: Godmode, Anti Attack, Auto Attack", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Classic%20Undertale%20Last%20Reset%20Godmode%20Anti%20Attack%20Auto%20Attack.lua")
+
+addscriptexist(10898965735, "Mine Racer: Auto Upgrade, Auto Mine, Anti AFK", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mine%20Racer%20Auto%20Upgrade%20Auto%20Mine%20Anti%20AFK.lua")
