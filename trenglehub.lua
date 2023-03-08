@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 12:46:18"
+lastupdate = "GMT +1: 08.03.2023 12:46:22"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -6584,3 +6584,5 @@ addscriptexist(2768379856, "3008: WalkSpeed and JumpPower Sliders, Infinity Jump
 addscript(10956766913, "Current Game","SHEIN x Klarna Wonderland: Level Farm, Walk the Runway", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SHEIN%20x%20Klarna%20Wonderland%20Level%20Farm%20Walk%20the%20Runway.lua")
 
 addscriptuniversal("Universal Voice Chat Bypass", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Voice%20Chat%20Bypass.lua")
+
+addscript(6607361476, "Current Game","Shopping Wars: RB Battles Event", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Shopping%20Wars%20RB%20Battles%20Event.lua")
