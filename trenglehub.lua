@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 19:22:37"
+lastupdate = "GMT +1: 08.03.2023 19:22:41"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -12816,3 +12816,5 @@ addscriptuniversal("Universal Walkspeed Spoofer", "pulled from rbxscript.com", "
 addscriptexist(8447279898, "The Pointless Printer Game v1.2.8: Infinite Money", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/The%20Pointless%20Printer%20Game%20v%20Infinite%20Money.lua")
 
 addscript(9955279341, "Current Game","Infinity Sea 2: Infinite Spins", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Infinity%20Sea%20%20Infinite%20Spins.lua")
+
+addscriptexist(2727067538, "Era of Althea: Kill Ara, Esp, God mode", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Era%20of%20Althea%20Kill%20Ara%20Esp%20God%20mode.lua")
