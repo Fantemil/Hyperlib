@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 17:27:46"
+lastupdate = "GMT +1: 08.03.2023 17:27:50"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -10188,3 +10188,5 @@ addscriptexist(5865858426, "Retail Tycoon 2: Pumpkin Autofarm", "pulled from rbx
 addscriptuniversal("Universal Fast Copier", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Fast%20Copier.lua")
 
 addscriptuniversal("Real King UI Library", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Real%20King%20UI%20Library.lua")
+
+addscriptexist(9993529229, "Counter Blox Remastered: Silent Aim, Infinity Jump, Walkspeed", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Counter%20Blox%20Remastered%20Silent%20Aim%20Infinity%20Jump%20Walkspeed.lua")
