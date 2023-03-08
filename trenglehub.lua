@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 12:56:00"
+lastupdate = "GMT +1: 08.03.2023 12:56:04"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -6824,3 +6824,5 @@ addscriptuniversal("Universal Character Editor Thing", "pulled from rbxscript.co
 addscriptexist(292439477, "Phantom Forces: Silent AIm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Phantom%20Forces%20Silent%20AIm.lua")
 
 addscriptexist(292439477, "Phantom Forces: Anti Cheat Bypasser", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Phantom%20Forces%20Anti%20Cheat%20Bypasser.lua")
+
+addscriptexist(855499080, "SKYWARS: Equip MVP armor, Mine Aura, FE Shield", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SKYWARS%20Equip%20MVP%20armor%20Mine%20Aura%20FE%20Shield.lua")
