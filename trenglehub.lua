@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 14:49:15"
+lastupdate = "GMT +1: 08.03.2023 14:49:19"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -8104,3 +8104,5 @@ addscriptexist(8884334497, "Mining Clicker Simulator: Auto Buy Next Pickaxe, Aut
 addscriptexist(6299805723, "Anime Fighters Simulator: Auto Time Trail, Auto Skip Room, Auto Click Damage", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime%20Fighters%20Simulator%20Auto%20Time%20Trail%20Auto%20Skip%20Room%20Auto%20Click%20Damage.lua")
 
 addscriptexist(10925589760, "Merge Simulator: Simple Auto Merge", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Merge%20Simulator%20Simple%20Auto%20Merge.lua")
+
+addscriptexist(6284583030, "Pet Simulator X: Auto Farm, Auto Collect Orbs, Auto Open Eggs", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pet%20Simulator%20X%20Auto%20Farm%20Auto%20Collect%20Orbs%20Auto%20Open%20Eggs.lua")
