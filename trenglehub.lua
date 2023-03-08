@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 18:35:30"
+lastupdate = "GMT +1: 08.03.2023 18:35:35"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -11828,3 +11828,5 @@ addscriptexist(7002808196, "Simulator of falling into a Ditch: Auto Farm", "pull
 addscript(2037885598, "Current Game","Sushi Restaurant Tycoon: Infinite Golden Egg", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sushi%20Restaurant%20Tycoon%20Infinite%20Golden%20Egg.lua")
 
 addscriptexist(4282985734, "Combat Warriors: Silent Aim, Aimbot, Infinity Stamina", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Combat%20Warriors%20Silent%20Aim%20Aimbot%20Infinity%20Stamina.lua")
+
+addscriptexist(4195834406, "Dragon Ball Online Generations: Auto collects dragon balls, Serverhops", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Dragon%20Ball%20Online%20Generations%20Auto%20collects%20dragon%20balls%20Serverhops.lua")
