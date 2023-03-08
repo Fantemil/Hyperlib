@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 20:49:32"
+lastupdate = "GMT +1: 08.03.2023 20:49:37"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -14460,3 +14460,5 @@ addscriptexist(7952502098, "Impossible Glass Bridge Obby [Auto Farm]", "pulled f
 addscript(14745996, "Current Game","Gun Testing [Walkspeed, FreeDoors]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Gun%20Testing%20Walkspeed%20FreeDoors.lua")
 
 addscriptexist(2665326799, "Find The Button [Button Esp, Inf Jump]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Find%20The%20Button%20Button%20Esp%20Inf%20Jump.lua")
+
+addscriptexist(286090429, "Arsenal (Cookie Hub v2). [KillAll, SilentAim]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Arsenal%20Cookie%20Hub%20v%20KillAll%20SilentAim.lua")
