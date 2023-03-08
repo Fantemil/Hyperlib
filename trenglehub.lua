@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 12:53:15"
+lastupdate = "GMT +1: 08.03.2023 12:53:18"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -6752,3 +6752,5 @@ addscriptexist(7791873535, "REALISTIC HOOD: Infinite Money", "pulled from rbxscr
 addscriptexist(11495830780, "Dunking Simulator: Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Dunking%20Simulator%20Auto%20Farm.lua")
 
 addscriptexist(10404327868, "Timber Champions: Auto Farm, Craft All Pets, Auto Buy Eggs", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Timber%20Champions%20Auto%20Farm%20Craft%20All%20Pets%20Auto%20Buy%20Eggs.lua")
+
+addscriptexist(10030740606, "Sweets obby! Auto Complete, Remove Kill Bricks, Remove Stairs", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sweets%20obby%20Auto%20Complete%20Remove%20Kill%20Bricks%20Remove%20Stairs.lua")
