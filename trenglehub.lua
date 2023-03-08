@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 16:50:44"
+lastupdate = "GMT +1: 08.03.2023 16:50:48"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -9240,3 +9240,5 @@ addscriptexist(9498006165, "Tapping Simulator: Open Frames, Auto Tap, Jump power
 addscriptexist(5956785391, "Project Slayers: Old Server Finder", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Project%20Slayers%20Old%20Server%20Finder.lua")
 
 addscriptexist(5956785391, "Project Slayers: Auto Collect Chests", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Project%20Slayers%20Auto%20Collect%20Chests.lua")
+
+addscriptexist(5956785391, "Project Slayers: Insta Kill", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Project%20Slayers%20Insta%20Kill.lua")
