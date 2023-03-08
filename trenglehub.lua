@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 19:58:41"
+lastupdate = "GMT +1: 08.03.2023 19:58:46"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -13376,3 +13376,5 @@ addscriptexist(10108131074, "Mow The Lawn! | Auto Refil Gas, Auto Mow, Auto Hatc
 addscriptexist(10676523834, "Racing Rocket | Auto Click Power, Auto Hatch, Auto Upgrade Rocket", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Racing%20Rocket%20%20Auto%20Click%20Power%20Auto%20Hatch%20Auto%20Upgrade%20Rocket.lua")
 
 addscriptuniversal("Universal Make a Part", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Make%20a%20Part.lua")
+
+addscriptexist(2066381781, "Deadly Sins Retribution | Auto Farm, Auto Quest, Godmode", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Deadly%20Sins%20Retribution%20%20Auto%20Farm%20Auto%20Quest%20Godmode.lua")
