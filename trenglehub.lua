@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 15:13:41"
+lastupdate = "GMT +1: 08.03.2023 15:13:45"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -8752,3 +8752,5 @@ addscriptexist(5956785391, "Project Slayers: Auto Kill Mobs, Auto Farm Mobs, Aut
 addscriptexist(1537690962, "Bee Swarm Simulator: Auto Quests, Auto Dispenser, Teleports", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Bee%20Swarm%20Simulator%20Auto%20Quests%20Auto%20Dispenser%20Teleports.lua")
 
 addscriptexist(2809202155, "Your Bizarre Adventure: Lucky Arrow Server Hop", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Your%20Bizarre%20Adventure%20Lucky%20Arrow%20Server%20Hop.lua")
+
+addscriptexist(2809202155, "Your Bizarre Adventure: Auto 1v1 Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Your%20Bizarre%20Adventure%20Auto%20v%20Farm.lua")
