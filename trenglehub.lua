@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 18:20:15"
+lastupdate = "GMT +1: 08.03.2023 18:20:19"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -11496,3 +11496,5 @@ addhub("Roblox: Pendulum Hub", "pulled from rbxscript.com", "https://raw.githubu
 addscriptexist(5307215810, "Randomizer: Aimbot, Esp, If Ammo", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Randomizer%20Aimbot%20Esp%20If%20Ammo.lua")
 
 addscriptexist(2474168535, "Westbound: Aimbot, ESP, Teleport", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Westbound%20Aimbot%20ESP%20Teleport.lua")
+
+addscriptexist(4924922222, "Brookhaven RP: Auto Farm Candy", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Brookhaven%20RP%20Auto%20Farm%20Candy.lua")
