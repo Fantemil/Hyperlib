@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 17:34:08"
+lastupdate = "GMT +1: 08.03.2023 17:34:12"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -10346,3 +10346,5 @@ addscriptexist(9787091365, "Ninja Storm Simulator: Auto Farm, Auto Skill, Auto A
 addscriptexist(10710676163, "SPTS : Origin | Anti AFK", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SPTS%20%20Origin%20%20Anti%20AFK.lua")
 
 addscriptexist(9993529229, "Counter Blox: Remastered | Fast Get Knifes", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Counter%20Blox%20Remastered%20%20Fast%20Get%20Knifes.lua")
+
+addscript(7569324314, "Current Game","Naruto Roleplay: Kill People, Crash Server, Ear Rape", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Naruto%20Roleplay%20Kill%20People%20Crash%20Server%20Ear%20Rape.lua")
