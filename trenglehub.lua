@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 21:06:56"
+lastupdate = "GMT +1: 08.03.2023 21:07:00"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -14890,3 +14890,5 @@ addscript(3199109640, "Current Game","Camping 2 [TP, Walkspeed]", "pulled from r
 addscriptexist(3237168, "One Piece: Legendary [Auto Farm, Auto Attack]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/One%20Piece%20Legendary%20Auto%20Farm%20Auto%20Attack.lua")
 
 addscriptexist(10108131074, "Mow The Lawn! [Auto Farm, Serverhop]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mow%20The%20Lawn%20Auto%20Farm%20Serverhop.lua")
+
+addscript(4003872968, "Current Game","Giant Survival! [Inf Money, Best Gun]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Giant%20Survival%20Inf%20Money%20Best%20Gun.lua")
