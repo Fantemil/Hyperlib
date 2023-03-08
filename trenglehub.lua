@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 07:11:04"
+lastupdate = "GMT +1: 08.03.2023 07:11:07"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -5644,3 +5644,5 @@ addscriptexist(2753915549, "Blox Fruits: Auto Farm Levels, Auto Super Human & Mo
 addscriptexist(7346416636, "Pop It Trading: Buy Items", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pop%20It%20Trading%20Buy%20Items.lua")
 
 addscriptexist(11040063484, "Sword Fighters Simulator: Auto Swing, Auto Pickup, Tp to npcs", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sword%20Fighters%20Simulator%20Auto%20Swing%20Auto%20Pickup%20Tp%20to%20npcs.lua")
+
+addscript(2098516465, "Current Game","Roblox High School 2: UGC Item Giver", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Roblox%20High%20School%20%20UGC%20Item%20Giver.lua")
