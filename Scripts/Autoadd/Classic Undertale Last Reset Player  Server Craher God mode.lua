@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://rawscripts.net/raw/RE-OPENED-Classic-Undertale:-Last-Reset-UT-OP-SCRIPT-NOT-MINE-7106"))()
