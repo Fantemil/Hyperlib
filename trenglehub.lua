@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 15:03:38"
+lastupdate = "GMT +1: 08.03.2023 15:03:42"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -8484,3 +8484,5 @@ addscriptexist(4954752502, "Tower of Misery: Auto Farm Gems", "pulled from rbxsc
 addscriptexist(9579228669, "Everyday Car Driving: Auto Farm, Get Gamepass Cars", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Everyday%20Car%20Driving%20Auto%20Farm%20Get%20Gamepass%20Cars.lua")
 
 addscriptexist(11109756592, "YouTube Simulator Z: Auto Clicker", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/YouTube%20Simulator%20Z%20Auto%20Clicker.lua")
+
+addscriptexist(7267631004, "carry people simulator 3: Auto Grab", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/carry%20people%20simulator%20%20Auto%20Grab.lua")
