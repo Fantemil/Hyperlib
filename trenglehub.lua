@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 12:37:34"
+lastupdate = "GMT +1: 08.03.2023 12:37:38"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -6338,3 +6338,5 @@ addscriptexist(11400511154, "Monkey Tycoon: Anti Lag, Auto Deposit, Walkspeed", 
 addscriptexist(606849621, "Jailbreak: Change Walkspeed", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Jailbreak%20Change%20Walkspeed.lua")
 
 addscriptuniversal("Universal Speed Hack", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Speed%20Hack.lua")
+
+addscriptexist(218377574, "Admin Simulator: Admin Lvl Auto Farm, Kill, Fling", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Admin%20Simulator%20Admin%20Lvl%20Auto%20Farm%20Kill%20Fling.lua")
