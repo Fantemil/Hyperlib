@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 17:18:06"
+lastupdate = "GMT +1: 08.03.2023 17:18:13"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -9940,3 +9940,5 @@ addscriptexist(4616652839, "Shindo Life: Infinity Levels, Infinity Rell", "pulle
 addscriptexist(4639625707, "War Tycoon: Capture Flag, Teleporter, Remove Fall Damage", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/War%20Tycoon%20Capture%20Flag%20Teleporter%20Remove%20Fall%20Damage.lua")
 
 addscriptexist(164051105, "Super Bomb Survival: Auto Farm, Auto Collect Gems, Auto Collect Coins", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Super%20Bomb%20Survival%20Auto%20Farm%20Auto%20Collect%20Gems%20Auto%20Collect%20Coins.lua")
+
+addscriptexist(9551640993, "Mining Simulator 2: Auto Deposit Fireshard, Block Aura & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mining%20Simulator%20%20Auto%20Deposit%20Fireshard%20Block%20Aura%20%20More.lua")
