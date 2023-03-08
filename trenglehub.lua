@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 18:30:13"
+lastupdate = "GMT +1: 08.03.2023 18:30:18"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -11740,3 +11740,5 @@ addscriptexist(9506026642, "Reaper Clicker: Teleport To Last Island", "pulled fr
 addscriptexist(9506026642, "Reaper Clicker: Auto Rebirth", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Reaper%20Clicker%20Auto%20Rebirth.lua")
 
 addscriptexist(2474168535, "Westbound: Silent Aim, Esp, No Recoil", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Westbound%20Silent%20Aim%20Esp%20No%20Recoil.lua")
+
+addscriptexist(155615604, "Prison Life: Weapon Mods, Teleport & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Prison%20Life%20Weapon%20Mods%20Teleport%20%20More.lua")
