@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/yabujin/mewwo-hub/main/script.lua"))()
