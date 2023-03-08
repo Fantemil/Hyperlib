@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 13:12:50"
+lastupdate = "GMT +1: 08.03.2023 13:12:54"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -7258,3 +7258,5 @@ addscriptexist(9224601490, "Fruit Battlegrounds: Auto Farm V2", "pulled from rbx
 addscript(6296721452, "Current Game","Greedy Snake Instantly: Eat All Food", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Greedy%20Snake%20Instantly%20Eat%20All%20Food.lua")
 
 addscriptexist(205224386, "Hide And Seek Extreme: Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Hide%20And%20Seek%20Extreme%20Auto%20Farm.lua")
+
+addscriptexist(8657766101, "Marvellous Playground: Humans Unlock", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Marvellous%20Playground%20Humans%20Unlock.lua")
