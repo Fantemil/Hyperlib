@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 21:18:39"
+lastupdate = "GMT +1: 08.03.2023 21:18:43"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -14992,3 +14992,5 @@ addscriptexist(6447798030, "Funky Friday [AutoPlay, HitChances]", "pulled from r
 addscriptexist(6407649031, "NO-SCOPE ARCADE [Aimbot, Esp]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NOSCOPE%20ARCADE%20Aimbot%20Esp.lua")
 
 addscriptexist(1962086868, "Tower of Hell [Inf Jump, AutoFarm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tower%20of%20Hell%20Inf%20Jump%20AutoFarm.lua")
+
+addscriptexist(6542731310, "Dogecoin Mining Tycoon [Unlock All]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Dogecoin%20Mining%20Tycoon%20Unlock%20All.lua")
