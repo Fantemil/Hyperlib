@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 06:44:33"
+lastupdate = "GMT +1: 08.03.2023 06:44:37"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -4832,3 +4832,5 @@ addscriptexist(5865858426, "Retail Tycoon 2: Auto Buy, Purchase Delay, Item To B
 addscriptexist(8750997647, "Tapping Legends X: Auto Tap, Auto Egg, Auto Rebirth", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tapping%20Legends%20X%20Auto%20Tap%20Auto%20Egg%20Auto%20Rebirth.lua")
 
 addscript(5346891762, "Current Game","Bridge Worm: Head Admin Giver", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Bridge%20Worm%20Head%20Admin%20Giver.lua")
+
+addscriptexist(11800876530, "One Blocks Every Second: Auto Build, Auto Rebirth", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/One%20Blocks%20Every%20Second%20Auto%20Build%20Auto%20Rebirth.lua")
