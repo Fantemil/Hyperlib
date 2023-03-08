@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 19:57:50"
+lastupdate = "GMT +1: 08.03.2023 19:57:56"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -13358,3 +13358,5 @@ addscriptexist(10192063645, "Thy hood | Get Excalibur", "pulled from rbxscript.c
 addscriptexist(9872472334, "Evade | Tp To map, TP To safe zone, AutoJump", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Evade%20%20Tp%20To%20map%20TP%20To%20safe%20zone%20AutoJump.lua")
 
 addscriptexist(5780309044, "stands awakening | Instantly Change Stand, Walkspeed, Noclip", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/stands%20awakening%20%20Instantly%20Change%20Stand%20Walkspeed%20Noclip.lua")
+
+addscriptexist(3956818381, "Ninja Legends | Dupe Pets", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ninja%20Legends%20%20Dupe%20Pets.lua")
