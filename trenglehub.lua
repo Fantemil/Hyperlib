@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 13:19:33"
+lastupdate = "GMT +1: 08.03.2023 13:19:37"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -7432,3 +7432,5 @@ addscriptexist(9848789324, "Ragdoll Engine: Push Aura, Anti Kill, Anti Ragdoll",
 addscript(8523408215, "Current Game","Alo Sanctuary: Auto Orb Collector", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Alo%20Sanctuary%20Auto%20Orb%20Collector.lua")
 
 addscript(8531522502, "Current Game","Facility Of Redemption: Kill Aura, Grab all items, Insta Kill", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Facility%20Of%20Redemption%20Kill%20Aura%20Grab%20all%20items%20Insta%20Kill.lua")
+
+addscript(3411100258, "Current Game","prtty much evry bordr gam evr: Auto Buy Items, Make Potions, Options", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/prtty%20much%20evry%20bordr%20gam%20evr%20Auto%20Buy%20Items%20Make%20Potions%20Options.lua")
