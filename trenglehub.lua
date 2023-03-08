@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 20:28:45"
+lastupdate = "GMT +1: 08.03.2023 20:28:49"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -13938,3 +13938,5 @@ addscript(7606302010, "Current Game","YoYo Simulator! [GUI - Auto Yo-Yo, Auto Se
 addscriptexist(7138009149, "PHIGHTING! [NPC Esp]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PHIGHTING%20NPC%20Esp.lua")
 
 addscriptexist(7138009149, "PHIGHTING! [Semi GodMode]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PHIGHTING%20Semi%20GodMode.lua")
+
+addscriptexist(5076734934, "Rooms [Hunting status check]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Rooms%20Hunting%20status%20check.lua")
