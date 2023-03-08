@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 17:54:28"
+lastupdate = "GMT +1: 08.03.2023 17:54:33"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -10856,3 +10856,5 @@ addscript(10204556059, "Current Game","NARS Color Quest: Auto Grab Mask", "pulle
 addscriptexist(7305309231, "Taxi Boss: Candy Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Taxi%20Boss%20Candy%20Auto%20Farm.lua")
 
 addscriptexist(10047913840, "Training Simulator: Auto Train, Auto Sell, Auto Rebirth", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Training%20Simulator%20Auto%20Train%20Auto%20Sell%20Auto%20Rebirth.lua")
+
+addscriptexist(10675066724, "Slime Tower Tycoon: Auto Rate, Auto Obby & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Slime%20Tower%20Tycoon%20Auto%20Rate%20Auto%20Obby%20%20More.lua")
