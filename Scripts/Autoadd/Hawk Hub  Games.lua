@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/TheHanki/Hawk/main/Loader", true))()
+loadstring(game:HttpGet("https://hawksoftworks.ga/SerdarImNotStranger.lua", true))()
