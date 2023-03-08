@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 19:30:03"
+lastupdate = "GMT +1: 08.03.2023 19:30:08"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -12978,3 +12978,5 @@ addscriptexist(914010731, "Ro-Ghoul: Auto Farm, Look Player's Stats, Webhook", "
 addscriptexist(142823291, "Murder Mystery 2: Status Game, Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Murder%20Mystery%20%20Status%20Game%20Auto%20Farm.lua")
 
 addscriptexist(185655149, "Welcome to Bloxburg: Script Collection", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Welcome%20to%20Bloxburg%20Script%20Collection.lua")
+
+addscriptexist(292439477, "Phantom Forces: Semi-Hitbox Extender Heads", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Phantom%20Forces%20SemiHitbox%20Extender%20Heads.lua")
