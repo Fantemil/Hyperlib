@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 06:55:18"
+lastupdate = "GMT +1: 08.03.2023 06:55:25"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -5164,3 +5164,5 @@ addscriptexist(7560156054, "Clicker Simulator: Auto Click, Auto Claim Gifts, Aut
 addscriptexist(8131063774, "Shattered Psycho Online: Data Rollback", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Shattered%20Psycho%20Online%20Data%20Rollback.lua")
 
 addscriptexist(292439477, "Phantom Forces: Knife Aura", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Phantom%20Forces%20Knife%20Aura.lua")
+
+addscriptexist(3823781113, "Saber Simulator: Auto Buy, Auto Swing, Auto Equip Saber", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Saber%20Simulator%20Auto%20Buy%20Auto%20Swing%20Auto%20Equip%20Saber.lua")
