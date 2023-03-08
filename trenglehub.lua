@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 06:25:58"
+lastupdate = "GMT +1: 08.03.2023 06:26:02"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -4598,3 +4598,5 @@ addscriptexist(1962086868, "Tower of Hell: Anti Cheat Bypass, Auto Win", "pulled
 addscriptexist(142823291, "Murder Mystery 2: Jumppower, Walkspeed, Kill Aura", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Murder%20Mystery%20%20Jumppower%20Walkspeed%20Kill%20Aura.lua")
 
 addscriptexist(286090429, "Arsenal: Anti Cheat Bypass, Walkspeed, Silent Aim", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Arsenal%20Anti%20Cheat%20Bypass%20Walkspeed%20Silent%20Aim.lua")
+
+addscriptexist(4913581664, "Cart Ride Into Rdite: Fly, Spam, Rejoin", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Cart%20Ride%20Into%20Rdite%20Fly%20Spam%20Rejoin.lua")
