@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 19:04:28"
+lastupdate = "GMT +1: 08.03.2023 19:04:32"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -12424,3 +12424,5 @@ addscriptexist(5993942214, "Rush Point: Anti Aim, Silent Aim, Esp", "pulled from
 addscriptexist(9285238704, "Race Clicker: Auto Win, Auto Click, Anti Afk", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Race%20Clicker%20Auto%20Win%20Auto%20Click%20Anti%20Afk.lua")
 
 addscriptexist(6229116934, "Hoopz: Silent Aim, Auto Guard, Walkspeed", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Hoopz%20Silent%20Aim%20Auto%20Guard%20Walkspeed.lua")
+
+addscriptexist(735030788, "RoyalIoween: Gem Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RoyalIoween%20Gem%20Farm.lua")
