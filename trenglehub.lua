@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 12:40:07"
+lastupdate = "GMT +1: 08.03.2023 12:40:12"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -6410,3 +6410,5 @@ addscriptexist(2753915549, "Blox Fruits: Auto Farm Lvl, Auto Farm Quests, Auto S
 addscriptexist(6875469709, "STRONGEST PUNCH SIMULATOR: Toggle Popups, Auto Safe Zone, Auto Punch", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/STRONGEST%20PUNCH%20SIMULATOR%20Toggle%20Popups%20Auto%20Safe%20Zone%20Auto%20Punch.lua")
 
 addscriptexist(6875469709, "STRONGEST PUNCH SIMULATOR: Auto Farm Orbs", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/STRONGEST%20PUNCH%20SIMULATOR%20Auto%20Farm%20Orbs.lua")
+
+addscriptexist(11382413635, "Human Cannon: Auto Farm Gems", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Human%20Cannon%20Auto%20Farm%20Gems.lua")
