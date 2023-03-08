@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 12:32:49"
+lastupdate = "GMT +1: 08.03.2023 12:32:55"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -6208,3 +6208,5 @@ addscriptexist(6170705260, "Blending Simulator 2: Blend Token Auto Farm", "pulle
 addscriptexist(6170705260, "Blending Simulator 2: Infinite Skill Points", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blending%20Simulator%20%20Infinite%20Skill%20Points.lua")
 
 addscriptexist(2753915549, "Blox Fruits: Bypass Tp, Very fast attack, White/Black Screen", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blox%20Fruits%20Bypass%20Tp%20Very%20fast%20attack%20WhiteBlack%20Screen.lua")
+
+addscriptexist(10875701453, "Edward the Man-Eating Train: Gun Editor", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Edward%20the%20ManEating%20Train%20Gun%20Editor.lua")
