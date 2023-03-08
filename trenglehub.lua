@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 16:37:19"
+lastupdate = "GMT +1: 08.03.2023 16:37:23"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -8910,3 +8910,5 @@ addscriptexist(1537690962, "Bee Swarm Simulator: New Overpowered Farming Gui", "
 addscriptexist(5956785391, "Project Slayers: Moonrise Hub", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Project%20Slayers%20Moonrise%20Hub.lua")
 
 addscriptuniversal("Universal Anti-AFK, ESP, Infinity Yield", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20AntiAFK%20ESP%20Infinity%20Yield.lua")
+
+addscriptuniversal("Universal Inf Jumps", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Inf%20Jumps.lua")
