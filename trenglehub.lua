@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 13:13:42"
+lastupdate = "GMT +1: 08.03.2023 13:13:46"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -7280,3 +7280,5 @@ addscriptexist(7991339063, "Rainbow Friends: Esp Monster, Full Bight, Send Items
 addscriptexist(11445923563, "One Fruit Simulator: Auto Level, Auto Collect Fruits/Chests, Auto Punch", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/One%20Fruit%20Simulator%20Auto%20Level%20Auto%20Collect%20FruitsChests%20Auto%20Punch.lua")
 
 addscriptexist(6407649031, "NO-SCOPE ARCADE: Silent Aim, Customizable ESP, Gun Mods", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NOSCOPE%20ARCADE%20Silent%20Aim%20Customizable%20ESP%20Gun%20Mods.lua")
+
+addscriptexist(1962086868, "Tower Of Hell: RB Battle Complete", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tower%20Of%20Hell%20RB%20Battle%20Complete.lua")
