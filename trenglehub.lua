@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 19:32:43"
+lastupdate = "GMT +1: 08.03.2023 19:32:47"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -13038,3 +13038,5 @@ addscriptexist(9534337535, "Shrek in the Backrooms: Badge Giver", "pulled from r
 addscriptexist(292439477, "Phantom Forces: Semi Hitbox Extender Body", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Phantom%20Forces%20Semi%20Hitbox%20Extender%20Body.lua")
 
 addscriptexist(855499080, "SKYWARS: Server Lagger", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SKYWARS%20Server%20Lagger.lua")
+
+addscriptexist(5732973455, "HOURS: Unlock All", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/HOURS%20Unlock%20All.lua")
