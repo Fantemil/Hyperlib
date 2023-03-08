@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 20:49:20"
+lastupdate = "GMT +1: 08.03.2023 20:49:27"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -14456,3 +14456,5 @@ addscriptexist(6284583030, "Pet Simulator X [AutoFarm, AutoCollect]", "pulled fr
 addscript(9757510382, "Current Game","Trade Simulator [AutoFarm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Trade%20Simulator%20AutoFarm.lua")
 
 addscriptexist(7952502098, "Impossible Glass Bridge Obby [Auto Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Impossible%20Glass%20Bridge%20Obby%20Auto%20Farm.lua")
+
+addscript(14745996, "Current Game","Gun Testing [Walkspeed, FreeDoors]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Gun%20Testing%20Walkspeed%20FreeDoors.lua")
