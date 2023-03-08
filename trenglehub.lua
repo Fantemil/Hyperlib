@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 19:00:30"
+lastupdate = "GMT +1: 08.03.2023 19:00:35"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -12342,3 +12342,5 @@ addscriptexist(6429911702, "Master's Difficulty Chart Obby: Remove All KillParts
 addscriptexist(9498006165, "Tapping Simulator: Auto Tap, Auto Rebirth, Auto Eggs", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tapping%20Simulator%20Auto%20Tap%20Auto%20Rebirth%20Auto%20Eggs.lua")
 
 addhub("Hydra Hub Ui Lib", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Hydra%20Hub%20Ui%20Lib.lua")
+
+addscriptexist(2753915549, "Blox Fruits: Fruit Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blox%20Fruits%20Fruit%20Farm.lua")
