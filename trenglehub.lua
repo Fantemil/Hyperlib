@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 16:57:56"
+lastupdate = "GMT +1: 08.03.2023 16:58:00"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -9422,3 +9422,5 @@ addscript(11313908433, "Current Game","Button Infinity: Auto Farm, Free Private 
 addscriptexist(2788229376, "Da Hood: Fly, Anti Lock & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Da%20Hood%20Fly%20Anti%20Lock%20%20More.lua")
 
 addscriptexist(6913960180, "Undertale Crazy Multiverse Timeline: Core Giver, Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Undertale%20Crazy%20Multiverse%20Timeline%20Core%20Giver%20Auto%20Farm.lua")
+
+addscriptexist(9498006165, "Tapping Simulator! Auto Tap, Auto Rebirth, Auto Upgrade", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tapping%20Simulator%20Auto%20Tap%20Auto%20Rebirth%20Auto%20Upgrade.lua")
