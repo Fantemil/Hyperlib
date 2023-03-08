@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 12:35:43"
+lastupdate = "GMT +1: 08.03.2023 12:35:50"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -6288,3 +6288,5 @@ addscriptexist(10700669209, "Control Army: Auto Kill Pigs", "pulled from rbxscri
 addscriptexist(2788229376, "Da Hood: Animations Gamepass", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Da%20Hood%20Animations%20Gamepass.lua")
 
 addscriptuniversal("Universal Fe Back Flip, Front Flip, Super Human", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Fe%20Back%20Flip%20Front%20Flip%20Super%20Human.lua")
+
+addscriptexist(155615604, "Prison Life: Remove Doors, Remove Fences, Give All Guns", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Prison%20Life%20Remove%20Doors%20Remove%20Fences%20Give%20All%20Guns.lua")
