@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 17:16:42"
+lastupdate = "GMT +1: 08.03.2023 17:16:46"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -9904,3 +9904,5 @@ addscript(11344499264, "Current Game","How Far Can You Ragdoll: Ultimate: Infini
 addscriptexist(7047488135, "Speed Run Simulator: Orbs, Rings Collector", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Speed%20Run%20Simulator%20Orbs%20Rings%20Collector.lua")
 
 addscriptexist(8908228901, "SharkBite 2 [NEW]: Rigged Bite", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SharkBite%20%20NEW%20Rigged%20Bite.lua")
+
+addscript(10298335542, "Current Game","Basketball Stars 2: Handle Badge Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Basketball%20Stars%20%20Handle%20Badge%20Farm.lua")
