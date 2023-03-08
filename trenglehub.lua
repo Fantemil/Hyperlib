@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 17:11:50"
+lastupdate = "GMT +1: 08.03.2023 17:11:54"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -9776,3 +9776,5 @@ addscriptexist(537413528, "Build A Boat For Treasure: Win the game, Auto Play, B
 addscriptexist(10919241870, "Rarity Factory Tycoon: Auto Buy Buttons, Auto Sell, Auto Collect", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Rarity%20Factory%20Tycoon%20Auto%20Buy%20Buttons%20Auto%20Sell%20Auto%20Collect.lua")
 
 addscriptexist(8737602449, "PLS DONATE: Fake Donate, Walkspeed, Gravity", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PLS%20DONATE%20Fake%20Donate%20Walkspeed%20Gravity.lua")
+
+addscriptexist(5780309044, "Stands Awakening: Event Boss Helper", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Stands%20Awakening%20Event%20Boss%20Helper.lua")
