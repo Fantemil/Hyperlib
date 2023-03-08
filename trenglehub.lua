@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 06:57:55"
+lastupdate = "GMT +1: 08.03.2023 06:57:59"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -5244,3 +5244,5 @@ addscriptexist(1554960397, "Car Dealership Tycoon: Auto Loot Tp, Auto Race, Tele
 addscriptuniversal("Universal see chat logs", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20see%20chat%20logs.lua")
 
 addscript(10840095864, "Current Game","Mission Mars: Get All Event Items", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mission%20Mars%20Get%20All%20Event%20Items.lua")
+
+addscriptexist(292439477, "Phantom Forces: Fast Animations", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Phantom%20Forces%20Fast%20Animations.lua")
