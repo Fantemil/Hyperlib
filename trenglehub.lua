@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 18:18:00"
+lastupdate = "GMT +1: 08.03.2023 18:18:07"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -11440,3 +11440,5 @@ addscriptexist(10925589760, "Merge Simulator: Merge All Blocks", "pulled from rb
 addscriptexist(10723695195, "Anime Evolution Simulator: Auto Farm, Auto Buy, Auto Claim Gift", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime%20Evolution%20Simulator%20Auto%20Farm%20Auto%20Buy%20Auto%20Claim%20Gift.lua")
 
 addscript(6206893534, "Current Game","Cobra Kai Karate: Auto Farm Bugs, Auto Farm Pushups, Auto Click", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Cobra%20Kai%20Karate%20Auto%20Farm%20Bugs%20Auto%20Farm%20Pushups%20Auto%20Click.lua")
+
+addscript(8679682580, "Current Game","Burn The Minions: TPs", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Burn%20The%20Minions%20TPs.lua")
