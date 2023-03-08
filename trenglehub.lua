@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 14:47:21"
+lastupdate = "GMT +1: 08.03.2023 14:47:24"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -8050,3 +8050,5 @@ addscriptexist(11445923563, "One Fruit Simulator: Auto Farm, Kill Aura & More!",
 addscriptexist(11196588443, "Zombie Merge Tycoon: Infinite Orbs", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Zombie%20Merge%20Tycoon%20Infinite%20Orbs.lua")
 
 addscriptexist(11195100561, "Running From The Internet: Gui, Auto Spin & More!", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Running%20From%20The%20Internet%20Gui%20Auto%20Spin%20%20More.lua")
+
+addscript(85697719, "Current Game","Kingdom Life II: Premium Gamepass weapons for free, Eastern Gamepass weapons for free, Give Items", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Kingdom%20Life%20II%20Premium%20Gamepass%20weapons%20for%20free%20Eastern%20Gamepass%20weapons%20for%20free%20Give%20Items.lua")
