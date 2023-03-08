@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 18:38:27"
+lastupdate = "GMT +1: 08.03.2023 18:38:32"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -11892,3 +11892,5 @@ addscriptexist(8726743209, "Refinery Caves: Auto Farm, Walkspeed, Box Auto Farm"
 addscriptexist(21532277, "Notoriety: ESP, Show Hitbox, Noclip", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Notoriety%20ESP%20Show%20Hitbox%20Noclip.lua")
 
 addscriptexist(10979991953, "Max Speed: Instant Win, Auto Clicker, Server Hop", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Max%20Speed%20Instant%20Win%20Auto%20Clicker%20Server%20Hop.lua")
+
+addscriptexist(3851622790, "Break In (Story): Instant Heal, Auto Eat & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Break%20In%20Story%20Instant%20Heal%20Auto%20Eat%20%20More.lua")
