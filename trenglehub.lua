@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 20:14:22"
+lastupdate = "GMT +1: 08.03.2023 20:14:28"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -13556,3 +13556,5 @@ addscript(4601704679, "Current Game","Bakon | Walkspeed, AutoFarmm JumpPower", "
 addscriptexist(9049840490, "Sonic Speed Simulator | Auto Win Race, Auto Run, Auto Rebirth", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sonic%20Speed%20Simulator%20%20Auto%20Win%20Race%20Auto%20Run%20Auto%20Rebirth.lua")
 
 addscriptexist(9264596435, "Idle Heroes Simulator | Auto Hit - Auto Buy Heroes", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Idle%20Heroes%20Simulator%20%20Auto%20Hit%20%20Auto%20Buy%20Heroes.lua")
+
+addscriptexist(2753915549, "Blox Fruits | Chest Farm, Teleports, Visuals", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blox%20Fruits%20%20Chest%20Farm%20Teleports%20Visuals.lua")
