@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 17:35:50"
+lastupdate = "GMT +1: 08.03.2023 17:35:54"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -10386,3 +10386,5 @@ addscriptexist(10523236737, "Multiverse Battlegrounds: Kill ALL", "pulled from r
 addscriptexist(11187148979, "Ultra unFair: Autofarm, Questing, Auto Reroll", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ultra%20unFair%20Autofarm%20Questing%20Auto%20Reroll.lua")
 
 addscriptexist(10742364019, "EGOIST: Break game", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/EGOIST%20Break%20game.lua")
+
+addscriptexist(6717367660, "Happy Land: Inf Money", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Happy%20Land%20Inf%20Money.lua")
