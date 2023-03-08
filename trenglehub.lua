@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 14:54:42"
+lastupdate = "GMT +1: 08.03.2023 14:54:45"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -8242,3 +8242,5 @@ addscriptexist(606849621, "Jailbreak: Infinity Nitro, Fly, Infinity Jumps", "pul
 addscriptexist(537413528, "Build A Boat For Treasure: Player Mods, Auto Buy & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Build%20A%20Boat%20For%20Treasure%20Player%20Mods%20Auto%20Buy%20%20More.lua")
 
 addscriptexist(537413528, "Build A Boat For Treasure: Auto Farm, Auto Buys & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Build%20A%20Boat%20For%20Treasure%20Auto%20Farm%20Auto%20Buys%20%20More.lua")
+
+addscriptexist(1962086868, "Tower Of Hell: Teleport To The Finish, God Mode & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tower%20Of%20Hell%20Teleport%20To%20The%20Finish%20God%20Mode%20%20More.lua")
