@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 16:55:20"
+lastupdate = "GMT +1: 08.03.2023 16:55:25"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -9356,3 +9356,5 @@ addscriptexist(5780309044, "Stands Awakening: Item Spawn Notifier", "pulled from
 addscriptexist(5956785391, "Project Slayers: Instant kill aura, Auto Farm Boss, Godmode", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Project%20Slayers%20Instant%20kill%20aura%20Auto%20Farm%20Boss%20Godmode.lua")
 
 addscriptexist(10404327868, "Timber Champions: Auto Farm Trees, Auto Collect Orbs, Auto Collect Chests", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Timber%20Champions%20Auto%20Farm%20Trees%20Auto%20Collect%20Orbs%20Auto%20Collect%20Chests.lua")
+
+addscriptexist(8204899140, "Football Fusion 2: Magnet", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Football%20Fusion%20%20Magnet.lua")
