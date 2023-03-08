@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 15:03:20"
+lastupdate = "GMT +1: 08.03.2023 15:03:25"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -8476,3 +8476,5 @@ addscriptexist(3837841034, "Deadline: Enemy ESP", "pulled from rbxscript.com", "
 addscriptexist(8737602449, "PLS DONATE: Test Upd, Auto thanks, Text Color", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PLS%20DONATE%20Test%20Upd%20Auto%20thanks%20Text%20Color.lua")
 
 addscriptexist(5977280685, "Ninja Legends: Autofarm, Autocollect All Hoops, Autosell", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ninja%20Legends%20Autofarm%20Autocollect%20All%20Hoops%20Autosell.lua")
+
+addscriptexist(9825515356, "Hood Customs: Press E to Lock/Unlock", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Hood%20Customs%20Press%20E%20to%20LockUnlock.lua")
