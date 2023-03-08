@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 15:12:36"
+lastupdate = "GMT +1: 08.03.2023 15:12:40"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -8722,3 +8722,5 @@ addscriptexist(6516141723, "DOOR: Spawn Rush, Give Lighter, Give Things", "pulle
 addscriptexist(9414511685, "Drive Cars Down A Hill: Go To Spawn, Auto Farm Money, Player Mods", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Drive%20Cars%20Down%20A%20Hill%20Go%20To%20Spawn%20Auto%20Farm%20Money%20Player%20Mods.lua")
 
 addhub("DragonHub: Many Games", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DragonHub%20Many%20Games.lua")
+
+addscriptexist(155615604, "Prison Life: Give Guns, Walkspeed and Jump Power sliders, FPS Unlock", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Prison%20Life%20Give%20Guns%20Walkspeed%20and%20Jump%20Power%20sliders%20FPS%20Unlock.lua")
