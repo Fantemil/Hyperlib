@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 17:01:10"
+lastupdate = "GMT +1: 08.03.2023 17:01:15"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -9504,3 +9504,5 @@ addscriptexist(10108131074, "Mow The Lawn: Auto Hatch, Auto Refil Gas, Auto Mow"
 addscriptexist(8750997647, "Tapping Legends X: Auto Extract, Auto Tap, Auto Farm Drops", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tapping%20Legends%20X%20Auto%20Extract%20Auto%20Tap%20Auto%20Farm%20Drops.lua")
 
 addscriptexist(2809202155, "Your Bizarre Adventure: Auto Farm Items", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Your%20Bizarre%20Adventure%20Auto%20Farm%20Items.lua")
+
+addscriptexist(3398014311, "Restaurant Tycoon 2: Player Instant Cook V2", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Restaurant%20Tycoon%20%20Player%20Instant%20Cook%20V.lua")
