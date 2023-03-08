@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 17:32:27"
+lastupdate = "GMT +1: 08.03.2023 17:32:31"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -10306,3 +10306,5 @@ addscriptexist(4639625707, "Oil Warfare Tycoon: Gun Mods, Player Mods, ESP", "pu
 addscript(10005865562, "Current Game","Midnight Hours: Monsters ESP, Basement Entry", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Midnight%20Hours%20Monsters%20ESP%20Basement%20Entry.lua")
 
 addscriptexist(10005865562, "Midnight Hours: Items ESP", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Midnight%20Hours%20Items%20ESP.lua")
+
+addscriptexist(10675066724, "Slime Tower Tycoon: Auto Merge, Options, Auto Collect", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Slime%20Tower%20Tycoon%20Auto%20Merge%20Options%20Auto%20Collect.lua")
