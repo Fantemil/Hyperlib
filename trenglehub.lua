@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 18:00:29"
+lastupdate = "GMT +1: 08.03.2023 18:00:33"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -11008,3 +11008,5 @@ addscriptexist(10904953319, "Race Car Clickers: Unlimited Wins", "pulled from rb
 addscriptexist(10920409126, "Anime Fusion Tycoon: Infinity Ki", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime%20Fusion%20Tycoon%20Infinity%20Ki.lua")
 
 addscriptexist(648362523, "Breaking Point: Auto Farm, Full Bright, Aimbot", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Breaking%20Point%20Auto%20Farm%20Full%20Bright%20Aimbot.lua")
+
+addscriptexist(9872472334, "Evade: Auto Farm, God Mode, Infinity Jump", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Evade%20Auto%20Farm%20God%20Mode%20Infinity%20Jump.lua")
