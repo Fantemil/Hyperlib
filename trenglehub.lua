@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 20:28:07"
+lastupdate = "GMT +1: 08.03.2023 20:28:15"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -13922,3 +13922,5 @@ addscript(10429088113, "Current Game","Jump Race [Auto Win]", "pulled from rbxsc
 addscriptexist(9872472334, "Evade [Auto Farm - Fast Revive & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Evade%20Auto%20Farm%20%20Fast%20Revive%20%20More.lua")
 
 addscriptexist(8130299583, "Trident Survival [GUI - Esp, Aimbot & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Trident%20Survival%20GUI%20%20Esp%20Aimbot%20%20More.lua")
+
+addscriptexist(10106105124, "Wheat Farming Simulator [Spawn Any Mythical Pet]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Wheat%20Farming%20Simulator%20Spawn%20Any%20Mythical%20Pet.lua")
