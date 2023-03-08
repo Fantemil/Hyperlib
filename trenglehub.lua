@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 19:04:54"
+lastupdate = "GMT +1: 08.03.2023 19:05:00"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -12434,3 +12434,5 @@ addscriptexist(2561448528, "Your Local Mechanic: Infinity Cash", "pulled from rb
 addscript(1401417393, "Current Game","Ragdoll System Test: Break Server", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ragdoll%20System%20Test%20Break%20Server.lua")
 
 addscriptexist(8585657145, "Anime Hero Simulator: Kill Aura, Auto Join Dungeon, Auto Collect Coins", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime%20Hero%20Simulator%20Kill%20Aura%20Auto%20Join%20Dungeon%20Auto%20Collect%20Coins.lua")
+
+addscriptexist(10277607801, "Apeirophobia: No Fog, Infinite Stamina & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Apeirophobia%20No%20Fog%20Infinite%20Stamina%20%20More.lua")
