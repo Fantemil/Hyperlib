@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 15:08:31"
+lastupdate = "GMT +1: 08.03.2023 15:08:35"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -8612,3 +8612,5 @@ addscriptexist(60654525, "The Legendary Swords RPG: Give Sun Axe, Give Fire Blad
 addhub("FlexuTek Hub: Hubs, Animation scripts, Admins scripts", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FlexuTek%20Hub%20Hubs%20Animation%20scripts%20Admins%20scripts.lua")
 
 addhub("LHub: 2 Games and Universal", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LHub%20%20Games%20and%20Universal.lua")
+
+addhub("VHub: Trolling GUI, ESP & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/VHub%20Trolling%20GUI%20ESP%20%20More.lua")
