@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 20:16:00"
+lastupdate = "GMT +1: 08.03.2023 20:16:06"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -13600,3 +13600,5 @@ addscriptexist(1224212277, "Mad City | AutoFarm EXP", "pulled from rbxscript.com
 addscriptexist(3527629287, "BIG Paintball! | Unlock All", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BIG%20Paintball%20%20Unlock%20All.lua")
 
 addscriptexist(621129760, "Knife Ability Test | Silent Aim, Aim Torso, Fov", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Knife%20Ability%20Test%20%20Silent%20Aim%20Aim%20Torso%20Fov.lua")
+
+addscriptexist(286090429, "Arsenal | Aimlock, Esp, AimKey", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Arsenal%20%20Aimlock%20Esp%20AimKey.lua")
