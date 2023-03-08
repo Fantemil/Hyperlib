@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Noahtaker/scripts/main/clickersimtrophies.lua", true))()
