@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 19:14:13"
+lastupdate = "GMT +1: 08.03.2023 19:14:19"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -12628,3 +12628,5 @@ addscriptexist(9993529229, "Counter Blox: Remastered | Get Knifes Fast", "pulled
 addscriptexist(7177496972, "Anime Warriors: Auto Skills, Auto Farming & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime%20Warriors%20Auto%20Skills%20Auto%20Farming%20%20More.lua")
 
 addscript(228181322, "Current Game","Dinosaur Simulator: Infinite Coins", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Dinosaur%20Simulator%20Infinite%20Coins.lua")
+
+addscriptexist(228181322, "Dinosaur Simulator: Buy All Dinosaurus", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Dinosaur%20Simulator%20Buy%20All%20Dinosaurus.lua")
