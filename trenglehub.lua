@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 19:33:29"
+lastupdate = "GMT +1: 08.03.2023 19:33:34"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -13058,3 +13058,5 @@ addscriptexist(4860819035, "Plants vs Zombies Garden Problem: Infinity money", "
 addscriptexist(4282985734, "Combat Warriors: Esp Players, Silent AIm & more", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Combat%20Warriors%20Esp%20Players%20Silent%20AIm%20%20more.lua")
 
 addscriptexist(9417197334, "Anime Story: Auto Attack, Auto Mine & more", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime%20Story%20Auto%20Attack%20Auto%20Mine%20%20more.lua")
+
+addscriptexist(648362523, "Breaking Point: Auto Farm Infinity Coins", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Breaking%20Point%20Auto%20Farm%20Infinity%20Coins.lua")
