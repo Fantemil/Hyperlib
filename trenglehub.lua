@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 13:02:20"
+lastupdate = "GMT +1: 08.03.2023 13:02:25"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -6986,3 +6986,5 @@ addscript(3144213556, "Current Game","Troll Obby: Press F to complete the Obby",
 addscript(10119617028, "Current Game","Airsoft Center: Crasher for game", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Airsoft%20Center%20Crasher%20for%20game.lua")
 
 addscript(7267631004, "Current Game","carry people simulator 3: Grab Aura, Anti Death, Void All", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/carry%20people%20simulator%20%20Grab%20Aura%20Anti%20Death%20Void%20All.lua")
+
+addscriptexist(6403373529, "Slap Battles: Slap Auto Farm, Anti Ragdoll & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Slap%20Battles%20Slap%20Auto%20Farm%20Anti%20Ragdoll%20%20More.lua")
