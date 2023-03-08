@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 14:47:55"
+lastupdate = "GMT +1: 08.03.2023 14:47:59"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -8066,3 +8066,5 @@ addscriptexist(286090429, "Arsenal: Gui Aimhook", "pulled from rbxscript.com", "
 addscriptexist(10424315298, "Country Collectors: Op Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Country%20Collectors%20Op%20Auto%20Farm.lua")
 
 addscriptexist(8267733039, "Specter 2: Character, Van, Change character", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Specter%20%20Character%20Van%20Change%20character.lua")
+
+addscriptexist(8267733039, "Specter 2: Ghost Esp, Remove Doors, Full Birght", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Specter%20%20Ghost%20Esp%20Remove%20Doors%20Full%20Birght.lua")
