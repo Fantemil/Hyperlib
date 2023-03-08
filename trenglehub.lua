@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 20:16:48"
+lastupdate = "GMT +1: 08.03.2023 20:16:52"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -13618,3 +13618,5 @@ addscript(8227619186, "Current Game","Murder Mystery A | Gems AutoFarm, Walkspee
 addscriptexist(5490351219, "Clicker Madness! | AutoFarm, Boss Farm, Claim Flags", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Clicker%20Madness%20%20AutoFarm%20Boss%20Farm%20Claim%20Flags.lua")
 
 addscriptexist(9648883891, "Festival Tycoon | AutoEnd Tycoon", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Festival%20Tycoon%20%20AutoEnd%20Tycoon.lua")
+
+addscriptexist(10714365287, "Anime Race Clicker | AutoFarm, AutoHatch, Unlock Worlds", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime%20Race%20Clicker%20%20AutoFarm%20AutoHatch%20Unlock%20Worlds.lua")
