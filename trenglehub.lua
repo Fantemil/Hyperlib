@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 15:13:00"
+lastupdate = "GMT +1: 08.03.2023 15:13:07"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -8734,3 +8734,5 @@ addscriptexist(4520749081, "King Legacy: Auto New Worlds, Auto Farm, Auto Stats"
 addscriptexist(286090429, "Arsenal: Fly, Player Mods, Skin Giver", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Arsenal%20Fly%20Player%20Mods%20Skin%20Giver.lua")
 
 addscriptexist(6284583030, "Pet Simulator X Hub", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pet%20Simulator%20X%20Hub.lua")
+
+addscript(5032892136, "Current Game","An Infinite Road Trip: Jump Hack", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/An%20Infinite%20Road%20Trip%20Jump%20Hack.lua")
