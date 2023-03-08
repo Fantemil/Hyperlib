@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 12:40:48"
+lastupdate = "GMT +1: 08.03.2023 12:40:52"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -6430,3 +6430,5 @@ addscriptexist(6299805723, "Anime Fighters Simulator: Autofarm, Auto purchase st
 addscriptexist(6361937392, "steal time from others & be the best: Teleport Aura", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/steal%20time%20from%20others%20%20be%20the%20best%20Teleport%20Aura.lua")
 
 addscriptexist(6918802270, "Project New World: Auto Farm Lvl, Auto Stats & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Project%20New%20World%20Auto%20Farm%20Lvl%20Auto%20Stats%20%20More.lua")
+
+addscript(11384409671, "Current Game","FG Battles: Kill All, Collect Coins", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FG%20Battles%20Kill%20All%20Collect%20Coins.lua")
