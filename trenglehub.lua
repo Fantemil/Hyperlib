@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 12:26:16"
+lastupdate = "GMT +1: 08.03.2023 12:26:20"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -6030,3 +6030,5 @@ addscriptexist(5993942214, "Rush Point: ESP, Aimbot, FOV", "pulled from rbxscrip
 addscriptexist(6125589657, "Touch Football: Auto Goal", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Touch%20Football%20Auto%20Goal.lua")
 
 addscriptexist(2413927524, "The Rake REMASTERED: No bloodhour colors, No Fog, Fullbright", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/The%20Rake%20REMASTERED%20No%20bloodhour%20colors%20No%20Fog%20Fullbright.lua")
+
+addscript(2772836071, "Current Game","Drop Offs: Anti travel", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Drop%20Offs%20Anti%20travel.lua")
