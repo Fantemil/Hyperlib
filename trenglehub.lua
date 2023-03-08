@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 18:46:25"
+lastupdate = "GMT +1: 08.03.2023 18:46:30"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -12032,3 +12032,5 @@ addscriptexist(9551640993, "Mining Simulator 2: Halloween Update Auto Farm Gui",
 addscript(9554750143, "Current Game","Pet Fighting Simulator: Infinite Money & Gems", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pet%20Fighting%20Simulator%20Infinite%20Money%20%20Gems.lua")
 
 addscriptexist(1215581239, "Doomspire Brickbattle: Brick Spam", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Doomspire%20Brickbattle%20Brick%20Spam.lua")
+
+addscriptexist(8482451541, "Brick Defense: Halloween Event, Instantly Collect The Pumpkin", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Brick%20Defense%20Halloween%20Event%20Instantly%20Collect%20The%20Pumpkin.lua")
