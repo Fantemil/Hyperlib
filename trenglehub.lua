@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 07:08:03"
+lastupdate = "GMT +1: 08.03.2023 07:08:07"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -5552,3 +5552,5 @@ addscriptexist(292439477, "Phantom Forces: Knife Aura, Auto Stab", "pulled from 
 addscript(6161747775, "Current Game","Pirate Clash: Hitbox Expander, Gun Mods & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pirate%20Clash%20Hitbox%20Expander%20Gun%20Mods%20%20More.lua")
 
 addscriptexist(11040063484, "Sword Fighters Simulator: Auto Farm, Auto Ascend, Auto Power", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sword%20Fighters%20Simulator%20Auto%20Farm%20Auto%20Ascend%20Auto%20Power.lua")
+
+addscriptexist(10106105124, "Wheat Farming Simulator: Auto Sell, Auto Farm Wheat, Auto Farm Golden", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Wheat%20Farming%20Simulator%20Auto%20Sell%20Auto%20Farm%20Wheat%20Auto%20Farm%20Golden.lua")
