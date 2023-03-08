@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 16:45:55"
+lastupdate = "GMT +1: 08.03.2023 16:46:03"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -9120,3 +9120,5 @@ addscriptexist(10598587051, "Anime Clicker Fight: Farm, Hatch, Triple Hatch", "p
 addscriptexist(10723695195, "Anime Evolution Simulator: Auto Open, Collect Drops, Auto Click", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime%20Evolution%20Simulator%20Auto%20Open%20Collect%20Drops%20Auto%20Click.lua")
 
 addscriptexist(7525610732, "Kaizen: Auto Farm, Anti Ragdoll, No Dash CoolDown", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Kaizen%20Auto%20Farm%20Anti%20Ragdoll%20No%20Dash%20CoolDown.lua")
+
+addscriptexist(621129760, "Knife Ability Test: Aimbot, Esp, FOV", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Knife%20Ability%20Test%20Aimbot%20Esp%20FOV.lua")
