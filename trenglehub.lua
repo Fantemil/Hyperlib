@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 14:39:03"
+lastupdate = "GMT +1: 08.03.2023 14:39:07"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -7822,3 +7822,5 @@ addscriptexist(2788229376, "Da Hood: Notify, Auto Pred, Air Shot", "pulled from 
 addscript(383793228, "Current Game","Adopt and Raise a Baby: Infinity Cash", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Adopt%20and%20Raise%20a%20Baby%20Infinity%20Cash.lua")
 
 addscriptuniversal("Universal Anti Chat Ban", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Anti%20Chat%20Ban.lua")
+
+addscriptuniversal("Universal roblox universe viewer", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20roblox%20universe%20viewer.lua")
