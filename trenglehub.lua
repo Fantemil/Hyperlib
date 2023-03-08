@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 12:48:24"
+lastupdate = "GMT +1: 08.03.2023 12:48:29"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -6642,3 +6642,5 @@ addscriptexist(10598587051, "Anime Clicker Fight: Fast Auto Click, Auto Dash, Au
 addscriptexist(3101667897, "Legends Of Speed: Auto Open Crystals, Auto Collect Hoops, Auto Rebirth", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Legends%20Of%20Speed%20Auto%20Open%20Crystals%20Auto%20Collect%20Hoops%20Auto%20Rebirth.lua")
 
 addscriptexist(9872472334, "Evade: ESP, Auto Farm Tickets, Auto Farm Money", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Evade%20ESP%20Auto%20Farm%20Tickets%20Auto%20Farm%20Money.lua")
+
+addscriptuniversal("Roblox: Universal coords finder V3", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Roblox%20Universal%20coords%20finder%20V.lua")
