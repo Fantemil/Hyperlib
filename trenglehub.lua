@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 16:42:25"
+lastupdate = "GMT +1: 08.03.2023 16:42:29"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -9034,3 +9034,5 @@ addscriptexist(2413927524, "The Rake REMASTERED: Esp Rake, Esp Gun, FullBirght",
 addscriptuniversal("Universal Rejoin To Game", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Rejoin%20To%20Game.lua")
 
 addscriptexist(7655745946, "Dunking Simulator: Redeem Codes, Infinity Spins, Auto Rebirth", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Dunking%20Simulator%20Redeem%20Codes%20Infinity%20Spins%20Auto%20Rebirth.lua")
+
+addhub("Rice Hub: 3 Games", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Rice%20Hub%20%20Games.lua")
