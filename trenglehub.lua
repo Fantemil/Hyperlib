@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 14:37:54"
+lastupdate = "GMT +1: 08.03.2023 14:38:02"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -7792,3 +7792,5 @@ addscriptexist(2788229376, "Da Hood: Fly, Silent AIm, Bounty Farm", "pulled from
 addscriptuniversal("Universal Spinbot, BHop, Options", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Spinbot%20BHop%20Options.lua")
 
 addscriptuniversal("PistolaBollaHUB: Ice Hub, Ghost Hub, V Hub", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PistolaBollaHUB%20Ice%20Hub%20Ghost%20Hub%20V%20Hub.lua")
+
+addscriptexist(3351674303, "Driving Empire: Auto Farm, Speed Hack, Bypass", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Driving%20Empire%20Auto%20Farm%20Speed%20Hack%20Bypass.lua")
