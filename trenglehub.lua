@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 19:08:53"
+lastupdate = "GMT +1: 08.03.2023 19:08:57"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -12522,3 +12522,5 @@ addscriptexist(4282985734, "Combat Warriors: Kill Aura, Infinity Stamina & More"
 addscript(9677464361, "Current Game","Basketball Pro Simulator: Auto Throw, Gamepasses & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Basketball%20Pro%20Simulator%20Auto%20Throw%20Gamepasses%20%20More.lua")
 
 addscriptexist(8766919349, "Lifting Heros: Auto Lift, Auto Buy, Auto Eggs", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Lifting%20Heros%20Auto%20Lift%20Auto%20Buy%20Auto%20Eggs.lua")
+
+addscript(10118504428, "Current Game","My Prison: Arrest All, Auto Clean, Auto Fill Tunnel", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/My%20Prison%20Arrest%20All%20Auto%20Clean%20Auto%20Fill%20Tunnel.lua")
