@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 20:30:28"
+lastupdate = "GMT +1: 08.03.2023 20:30:36"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -13982,3 +13982,5 @@ addscriptexist(662417684, "LUCKY BLOCKS Battlegrounds [Inf Jump, Walkspeed]", "p
 addscript(8458333139, "Current Game","1 LIFE [Fast Farm Lvl]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/%20LIFE%20Fast%20Farm%20Lvl.lua")
 
 addscriptexist(10676523834, "Racing Rocket [Click Power]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Racing%20Rocket%20Click%20Power.lua")
+
+addscriptexist(9807416796, "De Hood [Fast Buy, AutoStomp]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/De%20Hood%20Fast%20Buy%20AutoStomp.lua")
