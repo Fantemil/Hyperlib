@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 15:17:37"
+lastupdate = "GMT +1: 08.03.2023 15:17:41"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -8858,3 +8858,5 @@ addhub("Phonk Hub: 3 Games", "pulled from rbxscript.com", "https://raw.githubuse
 addscript(9324584537, "Current Game","The Island Reborn: Inf Money", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/The%20Island%20Reborn%20Inf%20Money.lua")
 
 addscriptexist(537413528, "Build A Boat For Treasure: Autobuyer, Codes Redeemer, Teleports", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Build%20A%20Boat%20For%20Treasure%20Autobuyer%20Codes%20Redeemer%20Teleports.lua")
+
+addscriptuniversal("Universal R15 Full NPC Control", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20R%20Full%20NPC%20Control.lua")
