@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 12:34:23"
+lastupdate = "GMT +1: 08.03.2023 12:34:28"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -6250,3 +6250,5 @@ addscriptexist(901793731, "D-DAY: Gun Mod", "pulled from rbxscript.com", "https:
 addscriptexist(205224386, "Hide and Seek Extreme: Hider, Seker", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Hide%20and%20Seek%20Extreme%20Hider%20Seker.lua")
 
 addscriptexist(1252559098, "Snow Shoveling Simulator: Sell Snow, WalkSpeed, Get Gamepasses", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Snow%20Shoveling%20Simulator%20Sell%20Snow%20WalkSpeed%20Get%20Gamepasses.lua")
+
+addscriptuniversal("Universal Auto Piano", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Auto%20Piano.lua")
