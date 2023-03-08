@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 14:40:14"
+lastupdate = "GMT +1: 08.03.2023 14:40:18"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -7856,3 +7856,5 @@ addscriptexist(6403373529, "Slap Battles: MegaRock Auto-Get, Redacted Auto-Get",
 addscriptuniversal("Universal Grandmaster's Animations", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Grandmasters%20Animations.lua")
 
 addscriptexist(3177438863, "Dragon Blox: Auto Farm, Auto Rebirths, Autp Drops", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Dragon%20Blox%20Auto%20Farm%20Auto%20Rebirths%20Autp%20Drops.lua")
+
+addscriptexist(443406476, "Project Lazarus: Press Z to Auto Myster Box", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Project%20Lazarus%20Press%20Z%20to%20Auto%20Myster%20Box.lua")
