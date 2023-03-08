@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 06:58:54"
+lastupdate = "GMT +1: 08.03.2023 06:58:59"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -5274,3 +5274,5 @@ addscriptexist(855499080, "SKYWARS: Air Block, Farm Wins & More", "pulled from r
 addscriptexist(142823291, "Murder Mystery 2: Kill Sheriff, Kill Murderer, Teleports", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Murder%20Mystery%20%20Kill%20Sheriff%20Kill%20Murderer%20Teleports.lua")
 
 addscriptuniversal("Universal Walkspeed Slider, Fly, Fling All", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Walkspeed%20Slider%20Fly%20Fling%20All.lua")
+
+addscriptexist(893973440, "Flee the Facility: ESP Players, Fullbright, No Slowdown", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Flee%20the%20Facility%20ESP%20Players%20Fullbright%20No%20Slowdown.lua")
