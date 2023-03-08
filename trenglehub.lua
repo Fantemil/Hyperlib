@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 17:54:56"
+lastupdate = "GMT +1: 08.03.2023 17:55:01"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -10868,3 +10868,5 @@ addscriptexist(10775789257, "Construction Tycoon: Auto Rob, Walkspeed, Jump Powe
 addscript(10179229656, "Current Game","Make a Wish: Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Make%20a%20Wish%20Auto%20Farm.lua")
 
 addscriptuniversal("Universal bypass chat", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20bypass%20chat.lua")
+
+addscriptexist(6284583030, "Pet Simulator X: Auto Farm, Auto Egg, No Key", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pet%20Simulator%20X%20Auto%20Farm%20Auto%20Egg%20No%20Key.lua")
