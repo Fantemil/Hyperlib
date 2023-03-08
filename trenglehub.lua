@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 18:50:43"
+lastupdate = "GMT +1: 08.03.2023 18:50:49"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -12130,3 +12130,5 @@ addscriptuniversal("Universal Server Stats Tracker", "pulled from rbxscript.com"
 addscriptexist(1458767429, "ABA: Auto Play, Hard Reset", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ABA%20Auto%20Play%20Hard%20Reset.lua")
 
 addscriptexist(10925589760, "Merge Simulator: Auto Merge, Auto Rebirth, Complete Obbies", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Merge%20Simulator%20Auto%20Merge%20Auto%20Rebirth%20Complete%20Obbies.lua")
+
+addscriptexist(6407649031, "NO-SCOPE ARCADE: Aimbot, Esp, Fov", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NOSCOPE%20ARCADE%20Aimbot%20Esp%20Fov.lua")
