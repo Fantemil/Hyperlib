@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 17:42:20"
+lastupdate = "GMT +1: 08.03.2023 17:42:24"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -10554,3 +10554,5 @@ addscriptexist(5780309044, "Starving Artists: ESP", "pulled from rbxscript.com",
 addscript(6951762614, "Current Game","UFO Simulator: Auto Kill, Collect Drops, Auto Rebirth", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/UFO%20Simulator%20Auto%20Kill%20Collect%20Drops%20Auto%20Rebirth.lua")
 
 addscriptexist(2788229376, "Da Hood: Fly, Silent AIm & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Da%20Hood%20Fly%20Silent%20AIm%20%20More.lua")
+
+addscript(11105076407, "Current Game","Swim Race Clicker: Auto Craft All, Auto Prestige", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Swim%20Race%20Clicker%20Auto%20Craft%20All%20Auto%20Prestige.lua")
