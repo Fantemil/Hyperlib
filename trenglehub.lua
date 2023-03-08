@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 21:20:46"
+lastupdate = "GMT +1: 08.03.2023 21:20:50"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -15046,3 +15046,5 @@ addscriptexist(286090429, "Arsenal [Kill All, Silent Aim]", "pulled from rbxscri
 addscriptexist(1962086868, "Tower of Hell [God Mode, Inf Jump]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tower%20of%20Hell%20God%20Mode%20Inf%20Jump.lua")
 
 addscriptexist(4410049285, "Driving Simulator [Walkspeed, Rainbow Car]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Driving%20Simulator%20Walkspeed%20Rainbow%20Car.lua")
+
+addscriptexist(10524502174, "One Punch Fighters [AutoRankUp, AutoClick]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/One%20Punch%20Fighters%20AutoRankUp%20AutoClick.lua")
