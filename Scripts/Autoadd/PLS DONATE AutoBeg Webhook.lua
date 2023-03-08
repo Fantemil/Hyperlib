@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://raw.githubusercontent.com/BxB-HUB/BxB-Hub-PremiumScript/eabc2d811c4d795e7e0bebb1e1de2f1278354e67/BxB-Script/PLS-Donate/PLSDONATE.lua'))()
