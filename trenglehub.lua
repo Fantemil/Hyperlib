@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 12:41:01"
+lastupdate = "GMT +1: 08.03.2023 12:41:08"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -6436,3 +6436,5 @@ addscript(11384409671, "Current Game","FG Battles: Kill All, Collect Coins", "pu
 addscriptexist(920587237, "Adopt Me! Smart Pets", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Adopt%20Me%20Smart%20Pets.lua")
 
 addscriptexist(2753915549, "Blox Fruits: Auto Next World, Teleports, Auto Saber", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blox%20Fruits%20Auto%20Next%20World%20Teleports%20Auto%20Saber.lua")
+
+addscriptexist(6447798030, "Funky Friday: Finish Obby, Auto Player", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Funky%20Friday%20Finish%20Obby%20Auto%20Player.lua")
