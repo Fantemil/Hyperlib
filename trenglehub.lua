@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 17:41:42"
+lastupdate = "GMT +1: 08.03.2023 17:41:46"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -10538,3 +10538,5 @@ addscriptexist(10851599, "Roblox Talent Show: Rep Farm", "pulled from rbxscript.
 addscriptexist(9586878618, "Inazuma Rebirth: Op Cash Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Inazuma%20Rebirth%20Op%20Cash%20Farm.lua")
 
 addscript(10828925984, "Current Game","Robot Tycoon: Endless Coins", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Robot%20Tycoon%20Endless%20Coins.lua")
+
+addscriptexist(8908228901, "SharkBite 2 [NEW]: Auto Farm Afk, Survivor Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SharkBite%20%20NEW%20Auto%20Farm%20Afk%20Survivor%20Auto%20Farm.lua")
