@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 07:05:42"
+lastupdate = "GMT +1: 08.03.2023 07:05:46"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -5480,3 +5480,5 @@ addscript(5796917097, "Current Game","Road to Gramby's: Silent AIm, Bullet Trace
 addscriptexist(2788229376, "Da Hood: Auto Farm, Auto Stomp, Shoe Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Da%20Hood%20Auto%20Farm%20Auto%20Stomp%20Shoe%20Farm.lua")
 
 addscriptexist(9992339729, "Longest Answer Wins: Farm Blocks, Print Answer, Answer question", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Longest%20Answer%20Wins%20Farm%20Blocks%20Print%20Answer%20Answer%20question.lua")
+
+addscriptexist(8737602449, "PLS DONATE: Fake Donations", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PLS%20DONATE%20Fake%20Donations.lua")
