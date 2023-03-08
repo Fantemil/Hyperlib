@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 13:05:35"
+lastupdate = "GMT +1: 08.03.2023 13:05:39"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -7068,3 +7068,5 @@ addscriptexist(8657766101, "Marvellous Playground: Kill aura", "pulled from rbxs
 addscriptexist(292439477, "Phantom Forces: Aimbot, ESP, Gun Mods", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Phantom%20Forces%20Aimbot%20ESP%20Gun%20Mods.lua")
 
 addscriptexist(443406476, "Project Lazarus: Kill All Zombie, Freeze Zombie, Inf Ammo", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Project%20Lazarus%20Kill%20All%20Zombie%20Freeze%20Zombie%20Inf%20Ammo.lua")
+
+addscriptexist(1458767429, "ABA: Fastest Afk Gold Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ABA%20Fastest%20Afk%20Gold%20Farm.lua")
