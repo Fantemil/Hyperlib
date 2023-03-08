@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 19:09:55"
+lastupdate = "GMT +1: 08.03.2023 19:10:00"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -12542,3 +12542,5 @@ addscriptuniversal("Universal Teleport Bypasser", "pulled from rbxscript.com", "
 addscriptexist(6516141723, "DOORS: FullBright, Remove Walls, Fly", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DOORS%20FullBright%20Remove%20Walls%20Fly.lua")
 
 addscriptexist(648362523, "Breaking Point: Kill Aura, Auto Farm, Esp & More!", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Breaking%20Point%20Kill%20Aura%20Auto%20Farm%20Esp%20%20More.lua")
+
+addscriptexist(510411669, "Fantastic Frontier: Faster Kill, Fly, Tp", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Fantastic%20Frontier%20Faster%20Kill%20Fly%20Tp.lua")
