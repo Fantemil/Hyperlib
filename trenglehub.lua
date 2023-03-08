@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 18:17:29"
+lastupdate = "GMT +1: 08.03.2023 18:17:34"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -11428,3 +11428,5 @@ addscriptexist(3101667897, "Legends Of Speed: Xp Farm, Farm Gem, Auto Rebirth", 
 addscriptexist(8884433153, "Collect All Pets: Auto Farm, Auto Collect Coins, Auto Hatch", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Collect%20All%20Pets%20Auto%20Farm%20Auto%20Collect%20Coins%20Auto%20Hatch.lua")
 
 addscript(7444263453, "Current Game","Jetpack Jumpers: Inifnity Cash", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Jetpack%20Jumpers%20Inifnity%20Cash.lua")
+
+addscriptexist(4282985734, "Combat Warriors: Hitbox Extender", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Combat%20Warriors%20Hitbox%20Extender.lua")
