@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 17:03:19"
+lastupdate = "GMT +1: 08.03.2023 17:03:24"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -9560,3 +9560,5 @@ addscriptexist(11459646568, "How Far Can You Fly? Inf Coins", "pulled from rbxsc
 addscriptexist(10675066724, "Slime Tower Tycoon: Auto Collect, Auto Buy, Options", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Slime%20Tower%20Tycoon%20Auto%20Collect%20Auto%20Buy%20Options.lua")
 
 addscriptexist(10347946161, "Rat Washing Tycoon: Auto Wash, Options, Auto Collect", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Rat%20Washing%20Tycoon%20Auto%20Wash%20Options%20Auto%20Collect.lua")
+
+addscriptexist(10041108328, "Dark Life: Godmode", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Dark%20Life%20Godmode.lua")
