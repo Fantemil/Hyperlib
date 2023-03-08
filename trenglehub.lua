@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 07:03:38"
+lastupdate = "GMT +1: 08.03.2023 07:03:42"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -5414,3 +5414,5 @@ addscriptexist(3527629287, "Big Paintball: Silent Aim, Wall Bang, Open Source", 
 addscriptexist(7560156054, "Clicker Simulator: Collect Snowflakes", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Clicker%20Simulator%20Collect%20Snowflakes.lua")
 
 addscript(6429245608, "Current Game","Blood Surge: Auto Farm, Kill Aura & More!", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blood%20Surge%20Auto%20Farm%20Kill%20Aura%20%20More.lua")
+
+addscript(5324597737, "Current Game","Dragon Ball Evolution [ALPHA]: Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Dragon%20Ball%20Evolution%20ALPHA%20Auto%20Farm.lua")
