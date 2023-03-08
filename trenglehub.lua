@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 12:58:17"
+lastupdate = "GMT +1: 08.03.2023 12:58:22"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -6882,3 +6882,5 @@ addscriptexist(9942628622, "Son Goku: The Finale: Unlock SSJB, Unlock SSJG", "pu
 addscript(6523078987, "Current Game","Slap Battles: Killstreak Edition: Equip tool to Kill All", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Slap%20Battles%20Killstreak%20Edition%20Equip%20tool%20to%20Kill%20All.lua")
 
 addscriptexist(6447798030, "Funky Friday: Auto Player", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Funky%20Friday%20Auto%20Player.lua")
+
+addscriptexist(9224601490, "Fruit Battlegrounds: Infinity Spins, Rollback", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Fruit%20Battlegrounds%20Infinity%20Spins%20Rollback.lua")
