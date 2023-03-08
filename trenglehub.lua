@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 20:41:17"
+lastupdate = "GMT +1: 08.03.2023 20:41:22"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -14260,3 +14260,5 @@ addscriptexist(4042427666, "Anime Fighting Simulator [AutoFarm Mob, Farm Chikara
 addscriptexist(6447798030, "Funky Friday [Auto Play, Auto Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Funky%20Friday%20Auto%20Play%20Auto%20Farm.lua")
 
 addscriptexist(5956785391, "Project Slayers [Inf Stamina, Autofarm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Project%20Slayers%20Inf%20Stamina%20Autofarm.lua")
+
+addscriptexist(9285238704, "Race Clicker [Auto Farm Wins]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Race%20Clicker%20Auto%20Farm%20Wins.lua")
