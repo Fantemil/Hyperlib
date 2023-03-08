@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 16:39:43"
+lastupdate = "GMT +1: 08.03.2023 16:39:47"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -8972,3 +8972,5 @@ addscriptexist(9598746251, "Home Run Simulator: Auto Open, Auto Swing, Auto Upgr
 addscriptexist(155615604, "Prison Life: Kill Aura, Super Punch, Spawn Guns", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Prison%20Life%20Kill%20Aura%20Super%20Punch%20Spawn%20Guns.lua")
 
 addscriptexist(10175705301, "Cant Say the Word: Time Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Cant%20Say%20the%20Word%20Time%20Auto%20Farm.lua")
+
+addscriptexist(6516141723, "DOORS: Headlight, Keybinds, Walkspeed", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DOORS%20Headlight%20Keybinds%20Walkspeed.lua")
