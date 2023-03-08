@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 07:04:46"
+lastupdate = "GMT +1: 08.03.2023 07:04:49"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -5450,3 +5450,5 @@ addscriptexist(1240123653, "Zombie Attack: Auto Farm, Walkspeed Slider, Inifnity
 addscriptexist(6516141723, "DOORS: Fullbright, Key Aura, ESP", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DOORS%20Fullbright%20Key%20Aura%20ESP.lua")
 
 addscript(9912491609, "Current Game","How Far Can You Fly: Auto Buy Walkspeed", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/How%20Far%20Can%20You%20Fly%20Auto%20Buy%20Walkspeed.lua")
+
+addscriptexist(1962086868, "Tower of Hell: Godmode, Player Mods, Give All Items", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tower%20of%20Hell%20Godmode%20Player%20Mods%20Give%20All%20Items.lua")
