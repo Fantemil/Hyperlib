@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 17:17:56"
+lastupdate = "GMT +1: 08.03.2023 17:18:02"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -9936,3 +9936,5 @@ addscript(9144187696, "Current Game","A PIECE: Crash Server, Auto Drop Fruit, Au
 addscriptexist(10175705301, "Cant Say the Word: Infinity Timeplayed", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Cant%20Say%20the%20Word%20Infinity%20Timeplayed.lua")
 
 addscriptexist(4616652839, "Shindo Life: Infinity Levels, Infinity Rell", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Shindo%20Life%20Infinity%20Levels%20Infinity%20Rell.lua")
+
+addscriptexist(4639625707, "War Tycoon: Capture Flag, Teleporter, Remove Fall Damage", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/War%20Tycoon%20Capture%20Flag%20Teleporter%20Remove%20Fall%20Damage.lua")
