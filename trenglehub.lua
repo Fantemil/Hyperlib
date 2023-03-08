@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 19:57:37"
+lastupdate = "GMT +1: 08.03.2023 19:57:43"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -13354,3 +13354,5 @@ addscriptexist(2248408710, "Destruction Simulator | GUI - Mod Bomb, Mod Gun & Mo
 addscriptexist(2534724415, "Emergency Response: Liberty County | GUI - Unlock Cars, Auto ATM & More!", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Emergency%20Response%20Liberty%20County%20%20GUI%20%20Unlock%20Cars%20Auto%20ATM%20%20More.lua")
 
 addscriptexist(10192063645, "Thy hood | Get Excalibur", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Thy%20hood%20%20Get%20Excalibur.lua")
+
+addscriptexist(9872472334, "Evade | Tp To map, TP To safe zone, AutoJump", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Evade%20%20Tp%20To%20map%20TP%20To%20safe%20zone%20AutoJump.lua")
