@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 21:00:54"
+lastupdate = "GMT +1: 08.03.2023 21:00:58"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -14746,3 +14746,5 @@ addscriptexist(8737602449, "PLS DONATE [Fly, Esp]", "pulled from rbxscript.com",
 addscriptexist(920587237, "Adopt Me [Auto Farm, Buy any egg]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Adopt%20Me%20Auto%20Farm%20Buy%20any%20egg.lua")
 
 addscriptexist(1962086868, "Tower of Hell [Godmode, Win]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tower%20of%20Hell%20Godmode%20Win.lua")
+
+addscriptexist(537413528, "Build A Boat For Treasure [AutoFarm, Morhps]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Build%20A%20Boat%20For%20Treasure%20AutoFarm%20Morhps.lua")
