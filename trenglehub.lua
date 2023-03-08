@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 07:14:46"
+lastupdate = "GMT +1: 08.03.2023 07:14:49"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -5756,3 +5756,5 @@ addscriptexist(2788229376, "Da Hood: Quick Buy, Auto Stomp & More", "pulled from
 addscriptexist(2753915549, "Blox Fruits: Auto Farm, Auto Superman, Fast Attack", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blox%20Fruits%20Auto%20Farm%20Auto%20Superman%20Fast%20Attack.lua")
 
 addscriptexist(292439477, "Phantom Forces: Aimbot, Esp", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Phantom%20Forces%20Aimbot%20Esp.lua")
+
+addscript(17541193, "Current Game","Pinewood Computer Core: Teleport Gui", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pinewood%20Computer%20Core%20Teleport%20Gui.lua")
