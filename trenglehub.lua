@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 18:09:47"
+lastupdate = "GMT +1: 08.03.2023 18:09:55"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -11244,3 +11244,5 @@ addscriptexist(155615604, "Prison Life: Team Changer, Item Giver, Gun Mods", "pu
 addscriptexist(8750997647, "Tapping Legends X: Auto Click, Auto Rebirth, Auto Eggs", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tapping%20Legends%20X%20Auto%20Click%20Auto%20Rebirth%20Auto%20Eggs.lua")
 
 addscriptexist(7560156054, "Clicker Simulator: Auto Pickup Pumpkins", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Clicker%20Simulator%20Auto%20Pickup%20Pumpkins.lua")
+
+addscript(3198259055, "Current Game","Jailbreak: Infinity Jump, Fly & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Jailbreak%20Infinity%20Jump%20Fly%20%20More.lua")
