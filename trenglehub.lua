@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 17:50:52"
+lastupdate = "GMT +1: 08.03.2023 17:50:56"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -10766,3 +10766,5 @@ addscriptexist(6872265039, "BedWars: Click Teleport", "pulled from rbxscript.com
 addscriptexist(7952502098, "Impossible Glass Bridge Obby: Auto Farm, Remove Breakable Glass, Teleports", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Impossible%20Glass%20Bridge%20Obby%20Auto%20Farm%20Remove%20Breakable%20Glass%20Teleports.lua")
 
 addscriptexist(10320240572, "Easy Race Clicker: Auto Finish, Auto Rebirth, Auto Eggs", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Easy%20Race%20Clicker%20Auto%20Finish%20Auto%20Rebirth%20Auto%20Eggs.lua")
+
+addscriptexist(9281034297, "Goal Kick Simulator: Auto Kick, Auto Buy Upgrades, Auto Open Chests", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Goal%20Kick%20Simulator%20Auto%20Kick%20Auto%20Buy%20Upgrades%20Auto%20Open%20Chests.lua")
