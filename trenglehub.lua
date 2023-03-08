@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 18:07:51"
+lastupdate = "GMT +1: 08.03.2023 18:07:55"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -11194,3 +11194,5 @@ addscriptexist(2534724415, "Emergency Response: Liberty County: Vehicle Mega Spe
 addscript(9941633436, "Current Game","Rank Simulator: Auto Collect Halloween Candycorn", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Rank%20Simulator%20Auto%20Collect%20Halloween%20Candycorn.lua")
 
 addscriptexist(9498006165, "Tapping Simulator: Halloween Autoclicker", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tapping%20Simulator%20Halloween%20Autoclicker.lua")
+
+addscriptexist(9912491609, "How Far Can You Fly: Auto Farm, Auto Collect Bronze Coin, Auto Rebirth", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/How%20Far%20Can%20You%20Fly%20Auto%20Farm%20Auto%20Collect%20Bronze%20Coin%20Auto%20Rebirth.lua")
