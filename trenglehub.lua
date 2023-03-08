@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 14:27:05"
+lastupdate = "GMT +1: 08.03.2023 14:27:09"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -7514,3 +7514,5 @@ addscript(10900677021, "Current Game","Killstreak Sword Fighting BETA: Auto Farm
 addscript(5343994291, "Current Game","Outlaster: Clue Finder", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Outlaster%20Clue%20Finder.lua")
 
 addscriptexist(7525610732, "Kaizen: AutoFarm, BestQuest, AutoQuest", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Kaizen%20AutoFarm%20BestQuest%20AutoQuest.lua")
+
+addscriptexist(10028173768, "Queen Elizebeth Obby: Get all gamepasses", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Queen%20Elizebeth%20Obby%20Get%20all%20gamepasses.lua")
