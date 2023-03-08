@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 07:17:08"
+lastupdate = "GMT +1: 08.03.2023 07:17:12"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -5830,3 +5830,5 @@ addscript(5911084042, "Current Game","Anime Evolution Simulator: Auto Click, Aut
 addscriptexist(10851599, "Roblox Talent Show: Auto Play Piano's Songs", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Roblox%20Talent%20Show%20Auto%20Play%20Pianos%20Songs.lua")
 
 addscriptexist(5796917097, "Road to Gramby's: Silent aim, More bullets, Auto Shoot", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Road%20to%20Grambys%20Silent%20aim%20More%20bullets%20Auto%20Shoot.lua")
+
+addscriptuniversal("Universal Shiftlock Unlocker", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Shiftlock%20Unlocker.lua")
