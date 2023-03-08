@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 18:41:01"
+lastupdate = "GMT +1: 08.03.2023 18:41:10"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -11942,3 +11942,5 @@ addscript(4540286603, "Current Game","NORTHWIND: Infinity Stamina, No gun spread
 addscriptuniversal("Universal Sword Auto Killer", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Sword%20Auto%20Killer.lua")
 
 addscriptexist(5244411056, "Bloxy Bingo: Auto Marker", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Bloxy%20Bingo%20Auto%20Marker.lua")
+
+addscriptuniversal("Universal Skin Scp 173", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Skin%20Scp%20.lua")
