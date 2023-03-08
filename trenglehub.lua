@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 20:27:32"
+lastupdate = "GMT +1: 08.03.2023 20:27:36"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -13908,3 +13908,5 @@ addscriptexist(2753915549, "Blox Fruits [GUI - Auto Farm Level, Auto Farm Master
 addscript(6884476776, "Current Game","Friend Hangout [Crash - Get All Tools & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Friend%20Hangout%20Crash%20%20Get%20All%20Tools%20%20More.lua")
 
 addscriptexist(10676523834, "Racing Rocket [Infinite Speed]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Racing%20Rocket%20Infinite%20Speed.lua")
+
+addscript(113690124, "Current Game","Noob Onslaught [Inf Money]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Noob%20Onslaught%20Inf%20Money.lua")
