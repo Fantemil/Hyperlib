@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 19:55:43"
+lastupdate = "GMT +1: 08.03.2023 19:55:48"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -13312,3 +13312,5 @@ addscriptexist(2569453732, "Rise of Nations | Unit Esp, Auto Develop Cities & Mo
 addhub("UnnamedHub | 3 Games", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/UnnamedHub%20%20%20Games.lua")
 
 addscriptexist(3823781113, "Saber Simulator | GUI - Auto Farming, Auto Upgrade & More!", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Saber%20Simulator%20%20GUI%20%20Auto%20Farming%20Auto%20Upgrade%20%20More.lua")
+
+addscriptexist(155615604, "Prison Life | Get All Guns, Auto Get Key Card, Super Punch", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Prison%20Life%20%20Get%20All%20Guns%20Auto%20Get%20Key%20Card%20Super%20Punch.lua")
