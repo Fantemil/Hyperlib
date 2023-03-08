@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 17:14:12"
+lastupdate = "GMT +1: 08.03.2023 17:14:16"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -9836,3 +9836,5 @@ addscriptexist(648362523, "Bee Swarm Simulator: Auto Dig, Use All Dispensers & M
 addscriptexist(8908228901, "SharkBite 2: Modify Speeds", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SharkBite%20%20Modify%20Speeds.lua")
 
 addscriptexist(1458767429, "ABA: Candy Grabber", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ABA%20Candy%20Grabber.lua")
+
+addscript(11448052802, "Current Game","Pet Rift: Auto Attack", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pet%20Rift%20Auto%20Attack.lua")
