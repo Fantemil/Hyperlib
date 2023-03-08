@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 17:24:40"
+lastupdate = "GMT +1: 08.03.2023 17:24:48"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -10108,3 +10108,5 @@ addscriptexist(914010731, "Ro-ghoul: Auto Farm", "pulled from rbxscript.com", "h
 addscriptexist(2866967438, "Fishing Simulator: Updated Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Fishing%20Simulator%20Updated%20Auto%20Farm.lua")
 
 addscriptexist(3527629287, "BIG Paintball: Start Auto Farm, Stop Auto Farm, Player ESP", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BIG%20Paintball%20Start%20Auto%20Farm%20Stop%20Auto%20Farm%20Player%20ESP.lua")
+
+addscriptexist(8726743209, "Refinery Caves: Woood Auto Farm, Ore Teleports, Keybinds", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Refinery%20Caves%20Woood%20Auto%20Farm%20Ore%20Teleports%20Keybinds.lua")
