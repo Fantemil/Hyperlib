@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 06:57:45"
+lastupdate = "GMT +1: 08.03.2023 06:57:49"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -5238,3 +5238,5 @@ addscriptexist(1224212277, "Mad City: Chapter 2 | Walkspeed, Infinity Jump & Mor
 addscriptexist(6708206173, "Rate My Avatar: Bad apple player", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Rate%20My%20Avatar%20Bad%20apple%20player.lua")
 
 addscript(4954752502, "Current Game","Tower of Misery: Auto Win, Teleport to Top, Play Game", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tower%20of%20Misery%20Auto%20Win%20Teleport%20to%20Top%20Play%20Game.lua")
+
+addscriptexist(1554960397, "Car Dealership Tycoon: Auto Loot Tp, Auto Race, Teleports", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Car%20Dealership%20Tycoon%20Auto%20Loot%20Tp%20Auto%20Race%20Teleports.lua")
