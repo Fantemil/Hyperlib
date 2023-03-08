@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 17:21:20"
+lastupdate = "GMT +1: 08.03.2023 17:21:25"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -10020,3 +10020,5 @@ addscriptexist(606849621, "Jailbreak: Kill Aura", "pulled from rbxscript.com", "
 addscript(9372570969, "Current Game","GRUMPY GRAN: Get Badge", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/GRUMPY%20GRAN%20Get%20Badge.lua")
 
 addscript(6448788420, "Current Game","Laredo Tx, Border Rp V1.8.0: Destroy Server", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Laredo%20Tx%20Border%20Rp%20V%20Destroy%20Server.lua")
+
+addscriptexist(9848789324, "Ragdoll Engine: Fling, Kill Fling, Fe Character Size & More!", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ragdoll%20Engine%20Fling%20Kill%20Fling%20Fe%20Character%20Size%20%20More.lua")
