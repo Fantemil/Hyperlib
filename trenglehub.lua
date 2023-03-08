@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 06:54:16"
+lastupdate = "GMT +1: 08.03.2023 06:54:20"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -5132,3 +5132,5 @@ addscriptexist(2753915549, "Blox Fruits: Auto Farm Levels, Auto Farm Mastery & M
 addscriptexist(183364845, "Speed Run 4: Star Auto Farm, Gem Auto Farm, Anti Afk", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Speed%20Run%20%20Star%20Auto%20Farm%20Gem%20Auto%20Farm%20Anti%20Afk.lua")
 
 addscript(2986677229, "Current Game","Giant Simulator: Auto Collect Orbs, Auto Attack", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Giant%20Simulator%20Auto%20Collect%20Orbs%20Auto%20Attack.lua")
+
+addhub("LK Hub: Key Bypassed", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LK%20Hub%20Key%20Bypassed.lua")
