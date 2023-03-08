@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 16:38:27"
+lastupdate = "GMT +1: 08.03.2023 16:38:31"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -8942,3 +8942,5 @@ addscriptexist(9498006165, "Tapping Simulator: Auto Rebirth, Auto Clicker, Infin
 addscriptexist(10053187005, "Counter Blox Reimagined: Rainbow Valorant Knife", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Counter%20Blox%20Reimagined%20Rainbow%20Valorant%20Knife.lua")
 
 addscriptexist(2753915549, "Blox Fruits: Mirage Island TP", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blox%20Fruits%20Mirage%20Island%20TP.lua")
+
+addscript(1997193809, "Current Game","Backpacking: Auto Farm, Destroy All Seats, FPS Boost", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Backpacking%20Auto%20Farm%20Destroy%20All%20Seats%20FPS%20Boost.lua")
