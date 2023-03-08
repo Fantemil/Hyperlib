@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 18:08:19"
+lastupdate = "GMT +1: 08.03.2023 18:08:25"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -11206,3 +11206,5 @@ addscriptexist(6516141723, "DOORS: Godmode, Walkspeed, Jump Power", "pulled from
 addscriptexist(6516141723, "DOORS: Jumpscares, Notification, Eneties Spawner", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DOORS%20Jumpscares%20Notification%20Eneties%20Spawner.lua")
 
 addscriptexist(155615604, "Prison Life: Auto Respawn, Anti Taze & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Prison%20Life%20Auto%20Respawn%20Anti%20Taze%20%20More.lua")
+
+addscriptexist(9993529229, "Counter Blox: Remastered: Kill All", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Counter%20Blox%20Remastered%20Kill%20All.lua")
