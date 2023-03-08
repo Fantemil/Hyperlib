@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 06:49:04"
+lastupdate = "GMT +1: 08.03.2023 06:49:07"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -4976,3 +4976,5 @@ addscriptexist(11729688377, "Booga Booga [REBORN]: Auto Farm, Speed Bypass & Mor
 addscriptexist(8916037983, "starving artists: Themes", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/starving%20artists%20Themes.lua")
 
 addscriptexist(10889408214, "DEFLECT: Legit Auto Deflect, Auto Deflect, Hitbox Expander", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DEFLECT%20Legit%20Auto%20Deflect%20Auto%20Deflect%20Hitbox%20Expander.lua")
+
+addscriptexist(370731277, "MeepCity: Auto Farm Fishes, Silent Aim Fishing, Avatar Equipper", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MeepCity%20Auto%20Farm%20Fishes%20Silent%20Aim%20Fishing%20Avatar%20Equipper.lua")
