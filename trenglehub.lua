@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 18:16:51"
+lastupdate = "GMT +1: 08.03.2023 18:16:55"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -11414,3 +11414,5 @@ addscript(9862250432, "Current Game","Nations Roleplay 2: Anti Admin, Server Hop
 addscriptexist(286090429, "Arsenal: Hitbox Script", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Arsenal%20Hitbox%20Script.lua")
 
 addscriptexist(9285238704, "Race Clicker: Auto Farm Wins, Anit AFK, FOV", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Race%20Clicker%20Auto%20Farm%20Wins%20Anit%20AFK%20FOV.lua")
+
+addscriptexist(7560156054, "Clicker Simulator: Auto Сlick, Auto Eggs, Auto Buy Jumps", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Clicker%20Simulator%20Auto%20%D0%A1lick%20Auto%20Eggs%20Auto%20Buy%20Jumps.lua")
