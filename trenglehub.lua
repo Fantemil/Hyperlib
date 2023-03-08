@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 17:52:48"
+lastupdate = "GMT +1: 08.03.2023 17:52:52"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -10814,3 +10814,5 @@ addscriptexist(4188447592, "Cat Simulator: Auto Claw, Auto Buy, Auto Sell", "pul
 addscript(10364927844, "Current Game","Elemental Fighting Simulator: Auto Farm, Auto Open Chests, Teleports", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Elemental%20Fighting%20Simulator%20Auto%20Farm%20Auto%20Open%20Chests%20Teleports.lua")
 
 addhub("Argetnar Hub: 6 Games", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Argetnar%20Hub%20%20Games.lua")
+
+addhub("Roblox: Library", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Roblox%20Library.lua")
