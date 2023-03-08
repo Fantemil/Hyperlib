@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 12:46:10"
+lastupdate = "GMT +1: 08.03.2023 12:46:14"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -6580,3 +6580,5 @@ addscriptexist(9825515356, "Hood Customs: Silent Aimbot", "pulled from rbxscript
 addscriptexist(10918081103, "Killstreak Chaos: Godmode", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Killstreak%20Chaos%20Godmode.lua")
 
 addscriptexist(2768379856, "3008: WalkSpeed and JumpPower Sliders, Infinity Jumps & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/%20WalkSpeed%20and%20JumpPower%20Sliders%20Infinity%20Jumps%20%20More.lua")
+
+addscript(10956766913, "Current Game","SHEIN x Klarna Wonderland: Level Farm, Walk the Runway", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SHEIN%20x%20Klarna%20Wonderland%20Level%20Farm%20Walk%20the%20Runway.lua")
