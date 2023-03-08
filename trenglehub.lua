@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 17:39:33"
+lastupdate = "GMT +1: 08.03.2023 17:39:37"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -10482,3 +10482,5 @@ addscriptexist(10523236737, "Multiverse Battlegrounds: Infinite Money", "pulled 
 addscriptexist(2788229376, "Da Hood: Press Z To Silent Aim", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Da%20Hood%20Press%20Z%20To%20Silent%20Aim.lua")
 
 addscriptexist(6808416928, "Aimblox BETA: Aimbot, ESP", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Aimblox%20BETA%20Aimbot%20ESP.lua")
+
+addscriptexist(10023995823, "Da Backrooms: Entity ESP, Fullbright, Get Gamepasses", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Da%20Backrooms%20Entity%20ESP%20Fullbright%20Get%20Gamepasses.lua")
