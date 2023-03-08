@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 17:37:28"
+lastupdate = "GMT +1: 08.03.2023 17:37:32"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -10430,3 +10430,5 @@ addscriptexist(10742364019, "EGOIST: Break Game", "pulled from rbxscript.com", "
 addscriptexist(9912491609, "How Far Can You Fly: Auto Buy SM, Auto Rebirth, Auto Farm Coins", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/How%20Far%20Can%20You%20Fly%20Auto%20Buy%20SM%20Auto%20Rebirth%20Auto%20Farm%20Coins.lua")
 
 addscriptexist(2753915549, "Blox Fruits: Auto Farm Devil Fruit, Auto Eat Fruit, Auto Team", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blox%20Fruits%20Auto%20Farm%20Devil%20Fruit%20Auto%20Eat%20Fruit%20Auto%20Team.lua")
+
+addscriptexist(4188447592, "Cat Simulator: Auto Claw, Auto Sell, Auto Buy", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Cat%20Simulator%20Auto%20Claw%20Auto%20Sell%20Auto%20Buy.lua")
