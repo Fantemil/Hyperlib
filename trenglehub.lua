@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 19:58:11"
+lastupdate = "GMT +1: 08.03.2023 19:58:18"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -13364,3 +13364,5 @@ addscriptexist(3956818381, "Ninja Legends | Dupe Pets", "pulled from rbxscript.c
 addscriptexist(10192063645, "Thy hood | Automated Sword Finder, WalkSpeed Changer", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Thy%20hood%20%20Automated%20Sword%20Finder%20WalkSpeed%20Changer.lua")
 
 addscriptexist(2788229376, "Da Hood | AutoFarm, Korblox, AutoFarm Weight.", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Da%20Hood%20%20AutoFarm%20Korblox%20AutoFarm%20Weight.lua")
+
+addscriptexist(6677985923, "Millionaire Empire Tycoon | Cash Giver, Walkspeed, Jumppower", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Millionaire%20Empire%20Tycoon%20%20Cash%20Giver%20Walkspeed%20Jumppower.lua")
