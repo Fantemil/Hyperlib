@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 20:33:45"
+lastupdate = "GMT +1: 08.03.2023 20:33:49"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -14064,3 +14064,5 @@ addscriptexist(5130598377, "A Universal Time [Items Farm, God Mode, Auto Quest]"
 addscriptexist(815405518, "The Floor Is LAVA [Survival Farm, Points Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/The%20Floor%20Is%20LAVA%20Survival%20Farm%20Points%20Farm.lua")
 
 addscriptexist(8884334497, "Mining Clicker Simulator [Auto Mine, Auto Biy Egg, Auto buy Pickaxe]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mining%20Clicker%20Simulator%20Auto%20Mine%20Auto%20Biy%20Egg%20Auto%20buy%20Pickaxe.lua")
+
+addscriptexist(8458333139, "1 LIFE [Kill, Tp everyone]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/%20LIFE%20Kill%20Tp%20everyone.lua")
