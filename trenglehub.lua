@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 13:16:36"
+lastupdate = "GMT +1: 08.03.2023 13:16:41"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -7358,3 +7358,5 @@ addscriptexist(9055015233, "My Hood: Teleport to Player, Super Human & More", "p
 addscript(9414511685, "Current Game","Drive Cars Down A Hill! Extra Vehicles", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Drive%20Cars%20Down%20A%20Hill%20Extra%20Vehicles.lua")
 
 addscriptexist(2753915549, "Blox Fruits: Anti Afk, Server Hop, Anti Kick", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blox%20Fruits%20Anti%20Afk%20Server%20Hop%20Anti%20Kick.lua")
+
+addscriptexist(6516141723, "DOORS: One Speed Every Door", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DOORS%20One%20Speed%20Every%20Door.lua")
