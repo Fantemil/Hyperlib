@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 14:26:18"
+lastupdate = "GMT +1: 08.03.2023 14:26:22"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -7492,3 +7492,5 @@ addscriptexist(6407649031, "NO-SCOPE ARCADE: No Fire Rate, FOV & More", "pulled 
 addscriptexist(6447798030, "Funky Friday: Auto Player, Auto Collect Rings, Options", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Funky%20Friday%20Auto%20Player%20Auto%20Collect%20Rings%20Options.lua")
 
 addscriptuniversal("Universal BloodRed GUI", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20BloodRed%20GUI.lua")
+
+addscriptexist(2753915549, "Blox Fruits: Auto Farm Levels, Auto Stats, Teleports", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blox%20Fruits%20Auto%20Farm%20Levels%20Auto%20Stats%20Teleports.lua")
