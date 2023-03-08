@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 17:10:25"
+lastupdate = "GMT +1: 08.03.2023 17:10:29"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -9738,3 +9738,5 @@ addscriptexist(2653064683, "Word Bomb: Aimbot, ESP, Keybinds", "pulled from rbxs
 addscriptexist(6516141723, "DOORS: No Screech, Walkspeed & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DOORS%20No%20Screech%20Walkspeed%20%20More.lua")
 
 addscriptexist(8750997647, "Tapping Legends X: Auto Equip Best Pets, Auto Farm & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tapping%20Legends%20X%20Auto%20Equip%20Best%20Pets%20Auto%20Farm%20%20More.lua")
+
+addscriptexist(155615604, "Prison Life: Gun Mods, Gun Giver, Team Changer", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Prison%20Life%20Gun%20Mods%20Gun%20Giver%20Team%20Changer.lua")
