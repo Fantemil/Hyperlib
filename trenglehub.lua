@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 20:23:58"
+lastupdate = "GMT +1: 08.03.2023 20:24:02"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -13810,3 +13810,5 @@ addscriptexist(9807416796, "De Hood [Server Crash]", "pulled from rbxscript.com"
 addscript(3237168, "Current Game","One Piece: Legendary [Auto StealFruit, AutoStore]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/One%20Piece%20Legendary%20Auto%20StealFruit%20AutoStore.lua")
 
 addscriptuniversal("Roblox Universal Script [Money Bag]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Roblox%20Universal%20Script%20Money%20Bag.lua")
+
+addscriptexist(8534845015, "Sakura Stand [Item Esp, Dummy Farm, DummyGod & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sakura%20Stand%20Item%20Esp%20Dummy%20Farm%20DummyGod%20%20More.lua")
