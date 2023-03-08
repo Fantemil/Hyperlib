@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 19:03:18"
+lastupdate = "GMT +1: 08.03.2023 19:03:23"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -12402,3 +12402,5 @@ addscriptexist(1962086868, "Tower Of Hell: Remove AC, Give All Items, Tp To End"
 addscriptexist(4872321990, "Islands: Auto Harvest, Mine Rock", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Islands%20Auto%20Harvest%20Mine%20Rock.lua")
 
 addscriptexist(5915341487, "Pancake's Wall Hop Difficulty Chart: Auto Win", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pancakes%20Wall%20Hop%20Difficulty%20Chart%20Auto%20Win.lua")
+
+addscriptexist(8585657145, "Anime Evolution Simulator: Auto Power, Auto Rank Up, Auto Upgrade Weapon", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime%20Evolution%20Simulator%20Auto%20Power%20Auto%20Rank%20Up%20Auto%20Upgrade%20Weapon.lua")
