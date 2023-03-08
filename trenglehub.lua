@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 12:56:10"
+lastupdate = "GMT +1: 08.03.2023 12:56:17"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -6828,3 +6828,5 @@ addscriptexist(292439477, "Phantom Forces: Anti Cheat Bypasser", "pulled from rb
 addscriptexist(855499080, "SKYWARS: Equip MVP armor, Mine Aura, FE Shield", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SKYWARS%20Equip%20MVP%20armor%20Mine%20Aura%20FE%20Shield.lua")
 
 addscriptexist(370731277, "MeepCity: Free Gamepass, Fishing Silent Aim, Fishing unlimited bucket size", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MeepCity%20Free%20Gamepass%20Fishing%20Silent%20Aim%20Fishing%20unlimited%20bucket%20size.lua")
+
+addscript(5342047554, "Current Game","Backstretch Battles Remastered: Vehicle Fly", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Backstretch%20Battles%20Remastered%20Vehicle%20Fly.lua")
