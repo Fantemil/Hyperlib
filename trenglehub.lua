@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 15:07:50"
+lastupdate = "GMT +1: 08.03.2023 15:07:54"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -8594,3 +8594,5 @@ addscriptexist(11330149751, "making scam calls to save your best friend tycoon: 
 addscriptexist(10714365287, "Anime Racing Clicker: Auto Farm, Auto Hatch, Auto Rebirth", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime%20Racing%20Clicker%20Auto%20Farm%20Auto%20Hatch%20Auto%20Rebirth.lua")
 
 addscriptexist(10652184030, "Jump Clicker: Auto Rebrith, Auto Farm, Auto Click", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Jump%20Clicker%20Auto%20Rebrith%20Auto%20Farm%20Auto%20Click.lua")
+
+addscriptexist(6679968919, "Fly Race: Auto Craft, Auto Farm, Auto Rebirth", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Fly%20Race%20Auto%20Craft%20Auto%20Farm%20Auto%20Rebirth.lua")
