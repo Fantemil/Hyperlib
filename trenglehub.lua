@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 20:00:57"
+lastupdate = "GMT +1: 08.03.2023 20:01:02"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -13424,3 +13424,5 @@ addscriptexist(155615604, "Prison Life | Gun Mode, Give Gun, Walkspeed", "pulled
 addscriptexist(8508303900, "Tower of Flood Escape 2 | Free Open Case.", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tower%20of%20Flood%20Escape%20%20%20Free%20Open%20Case.lua")
 
 addscriptexist(8750997647, "Tapping legends X | AutoClick, AutoRebirth, AutoHatch", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tapping%20legends%20X%20%20AutoClick%20AutoRebirth%20AutoHatch.lua")
+
+addscriptexist(8737602449, "Pls Donate | Auto Thank, Auto Beg, AntiAfk", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pls%20Donate%20%20Auto%20Thank%20Auto%20Beg%20AntiAfk.lua")
