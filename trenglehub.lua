@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 12:32:08"
+lastupdate = "GMT +1: 08.03.2023 12:32:12"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -6188,3 +6188,5 @@ addscriptexist(286090429, "Arsenal: Aimbot, Esp, Gun Mods", "pulled from rbxscri
 addscriptexist(2753915549, "Blox Fruits: 20+ Hubs All Combined Into One", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blox%20Fruits%20%20Hubs%20All%20Combined%20Into%20One.lua")
 
 addscript(9100638688, "Current Game","Drivers Paradise: Unlimited Candy Canes", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Drivers%20Paradise%20Unlimited%20Candy%20Canes.lua")
+
+addscriptexist(2788229376, "Da Hood: Streamable Silent Aim", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Da%20Hood%20Streamable%20Silent%20Aim.lua")
