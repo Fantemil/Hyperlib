@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 19:37:28"
+lastupdate = "GMT +1: 08.03.2023 19:37:33"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -13146,3 +13146,5 @@ addscriptexist(3177438863, "Dragon Blox: Auto Quest, Auto Farm, AutoRebirth", "p
 addhub("Roblox Infinity Hub", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Roblox%20Infinity%20Hub.lua")
 
 addhub("Universal Report Abuse Anti Spy", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Report%20Abuse%20Anti%20Spy.lua")
+
+addscriptexist(5783581, "TPS: Ultimate Soccer: Catch Ball, Release Ball, AutoRun", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TPS%20Ultimate%20Soccer%20Catch%20Ball%20Release%20Ball%20AutoRun.lua")
