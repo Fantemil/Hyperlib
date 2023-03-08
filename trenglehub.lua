@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 20:23:15"
+lastupdate = "GMT +1: 08.03.2023 20:23:21"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -13792,3 +13792,5 @@ addscriptexist(9133513813, "Hunted Hood | AutoSteal", "pulled from rbxscript.com
 addscriptexist(6753004901, "Swing City | Unlock All Skills, Farm Money, Instant Quests", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Swing%20City%20%20Unlock%20All%20Skills%20Farm%20Money%20Instant%20Quests.lua")
 
 addscriptuniversal("Roblox Universal Script | First Person", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Roblox%20Universal%20Script%20%20First%20Person.lua")
+
+addscriptexist(5343994291, "Outlaster | AutoFish, Esp, Inf Jump", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Outlaster%20%20AutoFish%20Esp%20Inf%20Jump.lua")
