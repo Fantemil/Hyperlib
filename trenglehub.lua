@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 15:11:08"
+lastupdate = "GMT +1: 08.03.2023 15:11:12"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -8682,3 +8682,5 @@ addscriptexist(9680886326, "West Elm Home Design: Money Farm", "pulled from rbxs
 addscriptexist(9680886326, "West Elm Home Design: Server Disconnector", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/West%20Elm%20Home%20Design%20Server%20Disconnector.lua")
 
 addscriptexist(11196588443, "Zombie Merge Tycoon: Infinity Money", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Zombie%20Merge%20Tycoon%20Infinity%20Money.lua")
+
+addscriptexist(10106105124, "Wheat Farming Simulator: Auto Farm and More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Wheat%20Farming%20Simulator%20Auto%20Farm%20and%20More.lua")
