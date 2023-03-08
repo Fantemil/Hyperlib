@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 20:15:18"
+lastupdate = "GMT +1: 08.03.2023 20:15:22"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -13580,3 +13580,5 @@ addscriptexist(2788229376, "Da Hood | GUI - AimLock, Silent Aim & More!", "pulle
 addscriptexist(8482451541, "Brick Defense | Auto Adds Towers When Released", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Brick%20Defense%20%20Auto%20Adds%20Towers%20When%20Released.lua")
 
 addscriptexist(537413528, "Build A Boat For Treasure | GUI - Auto Farm, Utilites & More!", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Build%20A%20Boat%20For%20Treasure%20%20GUI%20%20Auto%20Farm%20Utilites%20%20More.lua")
+
+addscriptexist(142823291, "Murder Mystery 2 | GUI - God Mode, Kill Aura & More!", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Murder%20Mystery%20%20%20GUI%20%20God%20Mode%20Kill%20Aura%20%20More.lua")
