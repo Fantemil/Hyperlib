@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 18:19:10"
+lastupdate = "GMT +1: 08.03.2023 18:19:15"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -11468,3 +11468,5 @@ addscriptexist(8726743209, "Refinery Caves: Full Bright, Auto Farm, Tp", "pulled
 addscript(413053960, "Current Game","The Legendary Swords 2 RPG: Get Infinity Strenght, Auto Rebirth & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/The%20Legendary%20Swords%20%20RPG%20Get%20Infinity%20Strenght%20Auto%20Rebirth%20%20More.lua")
 
 addscriptexist(9832066570, "Tower Battles: Kill All", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tower%20Battles%20Kill%20All.lua")
+
+addscriptexist(7184600262, "Gridiron Football 2.0: Inf Stats", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Gridiron%20Football%20%20Inf%20Stats.lua")
