@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 17:39:20"
+lastupdate = "GMT +1: 08.03.2023 17:39:27"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -10478,3 +10478,5 @@ addscriptexist(4490140733, "My Restaurant: Auto Farm, Universal Features", "pull
 addscriptexist(10523236737, "Multiverse Battlegrounds: Buy All", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Multiverse%20Battlegrounds%20Buy%20All.lua")
 
 addscriptexist(10523236737, "Multiverse Battlegrounds: Infinite Money", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Multiverse%20Battlegrounds%20Infinite%20Money.lua")
+
+addscriptexist(2788229376, "Da Hood: Press Z To Silent Aim", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Da%20Hood%20Press%20Z%20To%20Silent%20Aim.lua")
