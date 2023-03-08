@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 19:29:23"
+lastupdate = "GMT +1: 08.03.2023 19:29:27"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -12962,3 +12962,5 @@ addscriptuniversal("Universal FE Chat Slower", "pulled from rbxscript.com", "htt
 addscriptexist(606849621, "Jailbreak: Arrest Aura, Car Mods, Infinite Nitro & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Jailbreak%20Arrest%20Aura%20Car%20Mods%20Infinite%20Nitro%20%20More.lua")
 
 addscriptexist(9955279341, "Infinity Sea 2: Auto Spin Family", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Infinity%20Sea%20%20Auto%20Spin%20Family.lua")
+
+addscriptexist(137885680, "Zombie Rush: Silent Aim, Esp, FOV", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Zombie%20Rush%20Silent%20Aim%20Esp%20FOV.lua")
