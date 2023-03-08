@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 15:01:12"
+lastupdate = "GMT +1: 08.03.2023 15:01:16"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -8420,3 +8420,5 @@ addscriptexist(9874911474, "Tha Bronx 2: Auto Farm Thing", "pulled from rbxscrip
 addscriptuniversal("Universal Bubble Chat Enabler", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Bubble%20Chat%20Enabler.lua")
 
 addscriptexist(8506369721, "dig to china: Auto Farm, Auto Rejoin", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/dig%20to%20china%20Auto%20Farm%20Auto%20Rejoin.lua")
+
+addscriptexist(10875701453, "Edward the Man-Eating Train: Semi God mode", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Edward%20the%20ManEating%20Train%20Semi%20God%20mode.lua")
