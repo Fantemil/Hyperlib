@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 14:28:58"
+lastupdate = "GMT +1: 08.03.2023 14:29:02"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -7562,3 +7562,5 @@ addscript(10979991953, "Current Game","Max Speed: Auto Finish Complete", "pulled
 addscriptexist(920587237, "Adopt Me: AutoFarm Baby, CPU Usage Imporver, Auto Snowball", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Adopt%20Me%20AutoFarm%20Baby%20CPU%20Usage%20Imporver%20Auto%20Snowball.lua")
 
 addscriptexist(6679968919, "Fly Race: Auto Laps, Auto Rebirth, Auto Orbs", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Fly%20Race%20Auto%20Laps%20Auto%20Rebirth%20Auto%20Orbs.lua")
+
+addscriptexist(10914683361, "Busy Business! Auto Lemonade", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Busy%20Business%20Auto%20Lemonade.lua")
