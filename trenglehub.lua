@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 17:56:49"
+lastupdate = "GMT +1: 08.03.2023 17:56:54"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -10916,3 +10916,5 @@ addscriptexist(2727067538, "World // Zero: Fast Spinner", "pulled from rbxscript
 addscriptexist(3823781113, "Saber Simulator: Auto Farm, Auto sell, Buy All", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Saber%20Simulator%20Auto%20Farm%20Auto%20sell%20Buy%20All.lua")
 
 addscriptexist(8884334497, "Mining Clicker Simulator: Auto Mine, Auto claim rewards, Auto rebirth", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mining%20Clicker%20Simulator%20Auto%20Mine%20Auto%20claim%20rewards%20Auto%20rebirth.lua")
+
+addscriptexist(2628115891, "Ant Life [Beta Testing]: Auto kill Ant enemie, Auto Farm, Safe zone tp", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ant%20Life%20Beta%20Testing%20Auto%20kill%20Ant%20enemie%20Auto%20Farm%20Safe%20zone%20tp.lua")
