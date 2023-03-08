@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 13:05:08"
+lastupdate = "GMT +1: 08.03.2023 13:05:12"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -7056,3 +7056,5 @@ addscriptexist(8054462345, "Michael's Zombies: Esp , Kill Aura, Auto Guns", "pul
 addscript(9911362945, "Current Game","Project: Bronze Forever: Aim Bot, Chect team, Fov", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Project%20Bronze%20Forever%20Aim%20Bot%20Chect%20team%20Fov.lua")
 
 addscriptexist(7056922815, "Reaper 2: AutoFarm, AutoQuest, Teleports", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Reaper%20%20AutoFarm%20AutoQuest%20Teleports.lua")
+
+addscriptexist(6808416928, "Aimblox BETA: Illusion Hub Free Gui", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Aimblox%20BETA%20Illusion%20Hub%20Free%20Gui.lua")
