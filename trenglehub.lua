@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 07:06:04"
+lastupdate = "GMT +1: 08.03.2023 07:06:07"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -5490,3 +5490,5 @@ addscriptexist(6918802270, "Project New World: Auto Farm, Auto Quest, Kill Aura"
 addscript(8585657145, "Current Game","Anime Hero Simulator: Loop Teleports, Auto Collect, Kill Aura", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime%20Hero%20Simulator%20Loop%20Teleports%20Auto%20Collect%20Kill%20Aura.lua")
 
 addscript(60654525, "Current Game","The Legendary Swords RPG: Mystic Arcane Sword Giver", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/The%20Legendary%20Swords%20RPG%20Mystic%20Arcane%20Sword%20Giver.lua")
+
+addscript(9353921664, "Current Game","find milk at the store and leave your kids obby: Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/find%20milk%20at%20the%20store%20and%20leave%20your%20kids%20obby%20Auto%20Farm.lua")
