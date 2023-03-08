@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 18:18:56"
+lastupdate = "GMT +1: 08.03.2023 18:19:05"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -11464,3 +11464,5 @@ addscriptexist(335760407, "TPS: Street Soccer | Player Modifications, ESP & More
 addscript(11163098830, "Current Game","Halloween Race Clicker: Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Halloween%20Race%20Clicker%20Auto%20Farm.lua")
 
 addscriptexist(8726743209, "Refinery Caves: Full Bright, Auto Farm, Tp", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Refinery%20Caves%20Full%20Bright%20Auto%20Farm%20Tp.lua")
+
+addscript(413053960, "Current Game","The Legendary Swords 2 RPG: Get Infinity Strenght, Auto Rebirth & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/The%20Legendary%20Swords%20%20RPG%20Get%20Infinity%20Strenght%20Auto%20Rebirth%20%20More.lua")
