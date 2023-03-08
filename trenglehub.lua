@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 20:43:19"
+lastupdate = "GMT +1: 08.03.2023 20:43:23"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -14310,3 +14310,5 @@ addscriptexist(8204899140, "Football Fusion 2 [Auto Captain, AutoJump]", "pulled
 addscriptexist(9845705613, "Blood Hood [AutoPunch, KillAll]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blood%20Hood%20AutoPunch%20KillAll.lua")
 
 addscript(10184360875, "Current Game","Pet&Fishing Simulator [Auto Sell, Auto Fish]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PetFishing%20Simulator%20Auto%20Sell%20Auto%20Fish.lua")
+
+addscriptexist(9285238704, "Race Clicker [AutoFarm, AutoClick]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Race%20Clicker%20AutoFarm%20AutoClick.lua")
