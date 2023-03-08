@@ -1,0 +1,1 @@
+while task.wait(0.1) do game.Players.LocalPlayer.Character.Humanoid.WalkSpeed = 50 end
