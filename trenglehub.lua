@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 06:48:53"
+lastupdate = "GMT +1: 08.03.2023 06:48:56"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -4970,3 +4970,5 @@ addhub("KylnDantas Hub Cracked", "pulled from rbxscript.com", "https://raw.githu
 addscriptexist(7239319209, "Ohio: Auto Register Rob, Auto Bank Rob, Fly", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ohio%20Auto%20Register%20Rob%20Auto%20Bank%20Rob%20Fly.lua")
 
 addscriptexist(10760024537, "Ultimate Easy Obby: Auto Win", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ultimate%20Easy%20Obby%20Auto%20Win.lua")
+
+addscriptexist(11729688377, "Booga Booga [REBORN]: Auto Farm, Speed Bypass & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Booga%20Booga%20REBORN%20Auto%20Farm%20Speed%20Bypass%20%20More.lua")
