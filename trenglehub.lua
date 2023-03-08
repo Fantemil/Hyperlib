@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 21:00:49"
+lastupdate = "GMT +1: 08.03.2023 21:00:54"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -14744,3 +14744,5 @@ addscriptuniversal("Roblox Universal Script [Aimbot FOV]", "pulled from rbxscrip
 addscriptexist(8737602449, "PLS DONATE [Fly, Esp]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PLS%20DONATE%20Fly%20Esp.lua")
 
 addscriptexist(920587237, "Adopt Me [Auto Farm, Buy any egg]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Adopt%20Me%20Auto%20Farm%20Buy%20any%20egg.lua")
+
+addscriptexist(1962086868, "Tower of Hell [Godmode, Win]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tower%20of%20Hell%20Godmode%20Win.lua")
