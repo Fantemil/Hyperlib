@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 12:59:33"
+lastupdate = "GMT +1: 08.03.2023 12:59:37"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -6914,3 +6914,5 @@ addscriptexist(4616652839, "Shindo Life: Auto Farm, No Cooldown & More", "pulled
 addscriptexist(4616652839, "Shindo Life: Spin Bloodlines, Options, Spin Elements", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Shindo%20Life%20Spin%20Bloodlines%20Options%20Spin%20Elements.lua")
 
 addscriptexist(11656036986, "make roblox games to become rich and famous tycoon: Auto release games", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/make%20roblox%20games%20to%20become%20rich%20and%20famous%20tycoon%20Auto%20release%20games.lua")
+
+addscriptexist(192800, "Work at a Pizza Place: FE Insta Kick", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Work%20at%20a%20Pizza%20Place%20FE%20Insta%20Kick.lua")
