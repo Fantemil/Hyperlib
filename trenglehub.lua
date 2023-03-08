@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 15:10:04"
+lastupdate = "GMT +1: 08.03.2023 15:10:09"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -8654,3 +8654,5 @@ addscriptuniversal("Universal CPU/GPU Saver", "pulled from rbxscript.com", "http
 addscriptexist(10041108328, "Dark Life: Printer Speed, Player ESP, Printer Steal", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Dark%20Life%20Printer%20Speed%20Player%20ESP%20Printer%20Steal.lua")
 
 addscriptexist(5956785391, "Project Slayers: Webhook, Auto Loot, Godspeed", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Project%20Slayers%20Webhook%20Auto%20Loot%20Godspeed.lua")
+
+addscriptuniversal("Universal Anti-AFK", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20AntiAFK.lua")
