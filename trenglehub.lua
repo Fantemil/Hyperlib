@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 18:06:14"
+lastupdate = "GMT +1: 08.03.2023 18:06:18"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -11154,3 +11154,5 @@ addscriptexist(292439477, "Phantom Forces: Unlock All", "pulled from rbxscript.c
 addscript(11312500614, "Current Game","SPTS:Custom II: ESP, Walkspeed, Auto Farm All Stats", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SPTSCustom%20II%20ESP%20Walkspeed%20Auto%20Farm%20All%20Stats.lua")
 
 addscriptexist(11187148979, "Ultra unFair: Kill Aura, Relic Spin, No Cooldown", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ultra%20unFair%20Kill%20Aura%20Relic%20Spin%20No%20Cooldown.lua")
+
+addscriptexist(3260590327, "Tower Defense Simulator: Auto Farm(Other units)", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tower%20Defense%20Simulator%20Auto%20FarmOther%20units.lua")
