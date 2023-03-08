@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 12:38:57"
+lastupdate = "GMT +1: 08.03.2023 12:39:01"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -6378,3 +6378,5 @@ addscriptexist(286090429, "Arsenal: God Mode, Silent Aim, Walkspeed", "pulled fr
 addscriptexist(189707, "Natural Disaster Survival: Morphs, Animations, Infinity Yield", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Natural%20Disaster%20Survival%20Morphs%20Animations%20Infinity%20Yield.lua")
 
 addscriptexist(286090429, "Arsenal: Silent Aim, Rapid Fire, Aimbot", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Arsenal%20Silent%20Aim%20Rapid%20Fire%20Aimbot.lua")
+
+addscriptexist(2753915549, "Blox Fruits: Bypass TP, Auto Farm Bone, Auto Farm Mobs", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blox%20Fruits%20Bypass%20TP%20Auto%20Farm%20Bone%20Auto%20Farm%20Mobs.lua")
