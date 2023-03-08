@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 15:10:13"
+lastupdate = "GMT +1: 08.03.2023 15:10:17"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -8658,3 +8658,5 @@ addscriptexist(5956785391, "Project Slayers: Webhook, Auto Loot, Godspeed", "pul
 addscriptuniversal("Universal Anti-AFK", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20AntiAFK.lua")
 
 addscriptuniversal("Universal ESP, Fullbright, Aimlock", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20ESP%20Fullbright%20Aimlock.lua")
+
+addscriptexist(7714627632, "Winds of Fortune: Teleport Menu, Sell", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Winds%20of%20Fortune%20Teleport%20Menu%20Sell.lua")
