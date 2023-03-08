@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 17:04:24"
+lastupdate = "GMT +1: 08.03.2023 17:04:28"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -9588,3 +9588,5 @@ addscriptexist(8737602449, "PLS DONATE: Auto Beg, Walkspeed, Anti Afk", "pulled 
 addscriptexist(537413528, "Build A Boat For Treasure: Auto Chests, Auto Farm, Teleports", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Build%20A%20Boat%20For%20Treasure%20Auto%20Chests%20Auto%20Farm%20Teleports.lua")
 
 addscriptexist(6516141723, "DOORS: Fullbright, Noclip, ESP", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DOORS%20Fullbright%20Noclip%20ESP.lua")
+
+addscriptexist(5865858426, "Retail Tycoon 2: Free UGC Item", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Retail%20Tycoon%20%20Free%20UGC%20Item.lua")
