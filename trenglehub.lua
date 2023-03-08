@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 07:04:31"
+lastupdate = "GMT +1: 08.03.2023 07:04:35"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -5442,3 +5442,5 @@ addscriptexist(3623096087, "Muscle Legends: Infinity Jumps, Auto Crystal, Auto R
 addscriptexist(3623096087, "Muscle Legends: Kill Everyone, Teleports, Player Stats", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Muscle%20Legends%20Kill%20Everyone%20Teleports%20Player%20Stats.lua")
 
 addscript(6456351776, "Current Game","Kaiju Paradise: No bat Cool down, No Grab Cool Down, Walkspeed Slider", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Kaiju%20Paradise%20No%20bat%20Cool%20down%20No%20Grab%20Cool%20Down%20Walkspeed%20Slider.lua")
+
+addscript(2960777560, "Current Game","Treasure Quest: Auto Farm Hyperfrost's Revenge Dungeon", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Treasure%20Quest%20Auto%20Farm%20Hyperfrosts%20Revenge%20Dungeon.lua")
