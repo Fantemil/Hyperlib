@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 13:11:11"
+lastupdate = "GMT +1: 08.03.2023 13:11:16"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -7214,3 +7214,5 @@ addscript(10914197474, "Current Game","Killstreak Test: Free Admin", "pulled fro
 addscriptexist(6875469709, "STRONGEST PUNCH SIMULATOR: Auto Next World, Auto Farm Orbs, Auto Punch.", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/STRONGEST%20PUNCH%20SIMULATOR%20Auto%20Next%20World%20Auto%20Farm%20Orbs%20Auto%20Punch.lua")
 
 addscriptexist(7991339063, "Rainbow Friends: Fake Box, WalkSpeed. Monster Esp", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Rainbow%20Friends%20Fake%20Box%20WalkSpeed%20Monster%20Esp.lua")
+
+addscriptexist(6284583030, "Pet Simulator X: Auto Enchant Pets, Auto Fuse Pets, Auto Darm Matter Pets", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pet%20Simulator%20X%20Auto%20Enchant%20Pets%20Auto%20Fuse%20Pets%20Auto%20Darm%20Matter%20Pets.lua")
