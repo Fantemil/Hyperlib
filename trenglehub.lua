@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 07:11:36"
+lastupdate = "GMT +1: 08.03.2023 07:11:40"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -5660,3 +5660,5 @@ addscriptexist(2788229376, "Da Hood: Silent AIm, Aimlock & More", "pulled from r
 addscriptexist(3351674303, "Driving Empire: Walkspeed, Car Speed, Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Driving%20Empire%20Walkspeed%20Car%20Speed%20Auto%20Farm.lua")
 
 addscriptexist(9872472334, "Evade: Fast Revive, Respawn, Fullbright", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Evade%20Fast%20Revive%20Respawn%20Fullbright.lua")
+
+addscript(8283207656, "Current Game","Easy Glass Bridge: Glass Esp", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Easy%20Glass%20Bridge%20Glass%20Esp.lua")
