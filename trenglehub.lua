@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 17:27:54"
+lastupdate = "GMT +1: 08.03.2023 17:27:58"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -10192,3 +10192,5 @@ addscriptuniversal("Real King UI Library", "pulled from rbxscript.com", "https:/
 addscriptexist(9993529229, "Counter Blox Remastered: Silent Aim, Infinity Jump, Walkspeed", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Counter%20Blox%20Remastered%20Silent%20Aim%20Infinity%20Jump%20Walkspeed.lua")
 
 addscript(9648883891, "Current Game","Festival Tycoon: Auto Buy, Infinite Money, Auto Collect & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Festival%20Tycoon%20Auto%20Buy%20Infinite%20Money%20Auto%20Collect%20%20More.lua")
+
+addscriptexist(6939111033, "Escape Papa Pizza's Pizzeria: Get Shop Items For Free", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Escape%20Papa%20Pizzas%20Pizzeria%20Get%20Shop%20Items%20For%20Free.lua")
