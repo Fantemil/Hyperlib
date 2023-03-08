@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 14:59:18"
+lastupdate = "GMT +1: 08.03.2023 14:59:22"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -8368,3 +8368,5 @@ addscriptexist(10875701453, "Edward The Man Eating Train: Walkspeed", "pulled fr
 addhub("Shnigel Hub: 4 Games", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Shnigel%20Hub%20%20Games.lua")
 
 addscript(8066856875, "Current Game","Pirate`s Dream: Auto Farm, Auto Chest & More!", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pirates%20Dream%20Auto%20Farm%20Auto%20Chest%20%20More.lua")
+
+addscriptuniversal("Universal Realistic Day and Night", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Realistic%20Day%20and%20Night.lua")
