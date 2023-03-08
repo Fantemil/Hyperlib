@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 20:35:23"
+lastupdate = "GMT +1: 08.03.2023 20:35:27"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -14108,3 +14108,5 @@ addscriptexist(1962086868, "Tower of Hell [God mode]", "pulled from rbxscript.co
 addscriptexist(7180042682, "Military Tycoon [Targets events farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Military%20Tycoon%20Targets%20events%20farm.lua")
 
 addscriptexist(286090429, "Arsenal [Inf Ammo]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Arsenal%20Inf%20Ammo.lua")
+
+addscript(4893679160, "Current Game","Big Brain Simulator [AutoSell, Collect Coins]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Big%20Brain%20Simulator%20AutoSell%20Collect%20Coins.lua")
