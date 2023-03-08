@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 18:58:47"
+lastupdate = "GMT +1: 08.03.2023 18:58:51"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -12302,3 +12302,5 @@ addscriptexist(2753915549, "Blox Fruits: Teleports, Auto Stats & More", "pulled 
 addscriptuniversal("Universal Floating Flinger FE", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Floating%20Flinger%20FE.lua")
 
 addscript(2523890061, "Current Game","Tower Battle: Esp, Speed, Jump & more", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tower%20Battle%20Esp%20Speed%20Jump%20%20more.lua")
+
+addscriptexist(10447678365, "Dinosaur Simulator: Infinity Coins", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Dinosaur%20Simulator%20Infinity%20Coins.lua")
