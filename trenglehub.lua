@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 16:44:05"
+lastupdate = "GMT +1: 08.03.2023 16:44:12"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -9076,3 +9076,5 @@ addscriptexist(2753915549, "Blox Fruits: Chest Auto Farm", "pulled from rbxscrip
 addscript(10819504705, "Current Game","Anime Racers Simulator: Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime%20Racers%20Simulator%20Auto%20Farm.lua")
 
 addscriptexist(443406476, "Project Lazarus: Damage Multpliers", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Project%20Lazarus%20Damage%20Multpliers.lua")
+
+addscriptexist(9524757503, "iHeartLand: Music Tycoon: Collect All planets", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/iHeartLand%20Music%20Tycoon%20Collect%20All%20planets.lua")
