@@ -1,1 +1,2 @@
-loadstring(game:HttpGet("https://www.soggy-ware.cf/Cracks/Rayfield.lua"))()
+--key is 123
+loadstring(game:HttpGet("https://soggy-ware.cf/Side/UniversalRayfieldSystemCrack.lua"))()
