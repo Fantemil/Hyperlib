@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 18:15:53"
+lastupdate = "GMT +1: 08.03.2023 18:15:57"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -11390,3 +11390,5 @@ addscriptexist(9103460924, "Sword Factory X: Auto Re, Enchant", "pulled from rbx
 addscriptexist(6949542776, "Pixel Gun Tower Defense: Auto Strat Record Tool", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pixel%20Gun%20Tower%20Defense%20Auto%20Strat%20Record%20Tool.lua")
 
 addscript(9030362964, "Current Game","Field Goal Simulator: Auto Kick, Perfect Kick", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Field%20Goal%20Simulator%20Auto%20Kick%20Perfect%20Kick.lua")
+
+addscript(9506026642, "Current Game","Reaper Clicker: Auto Clicker, Infinity Jump, Auto Egg", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Reaper%20Clicker%20Auto%20Clicker%20Infinity%20Jump%20Auto%20Egg.lua")
