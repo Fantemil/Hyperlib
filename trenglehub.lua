@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 14:26:05"
+lastupdate = "GMT +1: 08.03.2023 14:26:09"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -7486,3 +7486,5 @@ addscriptexist(155615604, "Prison Life: Get All Items, Auto Fire, Teleports", "p
 addscriptexist(1730877806, "Grand Piece Online: Teleport to Fishman", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Grand%20Piece%20Online%20Teleport%20to%20Fishman.lua")
 
 addscriptexist(5712833750, "Animal Simulator: Auto Farm Coins", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Animal%20Simulator%20Auto%20Farm%20Coins.lua")
+
+addscriptexist(6407649031, "NO-SCOPE ARCADE: No Fire Rate, FOV & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NOSCOPE%20ARCADE%20No%20Fire%20Rate%20FOV%20%20More.lua")
