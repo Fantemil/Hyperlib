@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 06:49:33"
+lastupdate = "GMT +1: 08.03.2023 06:49:37"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -4988,3 +4988,5 @@ addscript(11495558803, "Current Game","Every Second You Get +1 Damage: NPC Farm,
 addscriptexist(292439477, "Phantom Forces: Hitbox GUI", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Phantom%20Forces%20Hitbox%20GUI.lua")
 
 addscriptexist(9796685905, "Super Hero Race Clicker: Auto Rebirth, Auto Click, Gems Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Super%20Hero%20Race%20Clicker%20Auto%20Rebirth%20Auto%20Click%20Gems%20Farm.lua")
+
+addscript(4918537844, "Current Game","Space Station Infinity: Do every research", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Space%20Station%20Infinity%20Do%20every%20research.lua")
