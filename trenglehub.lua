@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 20:52:51"
+lastupdate = "GMT +1: 08.03.2023 20:52:59"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -14544,3 +14544,5 @@ addscriptexist(2622527242, "SCP rBreach [Inf Capacity, Fast Escape]", "pulled fr
 addscriptexist(2537430692, "Jenga [Inf jump, Remove Parts, WalkSpeed]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Jenga%20Inf%20jump%20Remove%20Parts%20WalkSpeed.lua")
 
 addscriptexist(8436975214, "Dangerous Speeds [Unlock All Car]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Dangerous%20Speeds%20Unlock%20All%20Car.lua")
+
+addscriptexist(2577040780, "Eviction Notice [ChallengeList, FreePlayer]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Eviction%20Notice%20ChallengeList%20FreePlayer.lua")
