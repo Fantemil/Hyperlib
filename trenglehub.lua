@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 18:29:36"
+lastupdate = "GMT +1: 08.03.2023 18:29:42"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -11728,3 +11728,5 @@ addscriptexist(155615604, "Prison Life: Remove Walls, Team Changer & More", "pul
 addscriptexist(10675066724, "Slime Tower Tycoon: Next Lvl, Last Lvl, Auto Attack", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Slime%20Tower%20Tycoon%20Next%20Lvl%20Last%20Lvl%20Auto%20Attack.lua")
 
 addscriptexist(6888253864, "Wacky Wizards: Candy Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Wacky%20Wizards%20Candy%20Auto%20Farm.lua")
+
+addscriptexist(155615604, "Prison Life: Teleports, FOV, Kill Aura", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Prison%20Life%20Teleports%20FOV%20Kill%20Aura.lua")
