@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 20:34:25"
+lastupdate = "GMT +1: 08.03.2023 20:34:29"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -14082,3 +14082,5 @@ addscript(9658251985, "Current Game","The Rake Kill Test [Kick paleyrs]", "pulle
 addscriptexist(9658251985, "The Rake Kill Test [Kill people]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/The%20Rake%20Kill%20Test%20Kill%20people.lua")
 
 addscriptexist(8328351891, "Mega Mansion Tycoon [Auto Buy, Auto Collect, Money Make Day]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mega%20Mansion%20Tycoon%20Auto%20Buy%20Auto%20Collect%20Money%20Make%20Day.lua")
+
+addscriptexist(286090429, "Arsenal [Kill All, Silent Aim, Esp]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Arsenal%20Kill%20All%20Silent%20Aim%20Esp.lua")
