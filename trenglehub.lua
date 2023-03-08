@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 12:48:04"
+lastupdate = "GMT +1: 08.03.2023 12:48:09"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -6634,3 +6634,5 @@ addscriptexist(21532277, "Notoriety: Server Hop, Auto Farm", "pulled from rbxscr
 addscript(11544568654, "Current Game","How Far Can You Slap? Auto Slap", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/How%20Far%20Can%20You%20Slap%20Auto%20Slap.lua")
 
 addscriptexist(5036207802, "RB Battles: Play a song inside of the game using secret piano", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RB%20Battles%20Play%20a%20song%20inside%20of%20the%20game%20using%20secret%20piano.lua")
+
+addscriptexist(6512923934, "Ultra Clickers Simulator: Get All Pets, Spam Clicks, Infinity Gems", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ultra%20Clickers%20Simulator%20Get%20All%20Pets%20Spam%20Clicks%20Infinity%20Gems.lua")
