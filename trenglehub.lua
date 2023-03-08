@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 15:02:17"
+lastupdate = "GMT +1: 08.03.2023 15:02:22"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -8450,3 +8450,5 @@ addscript(3661577685, "Current Game","Fighting Game: Trinket Auto Pickup", "pull
 addscript(2306562216, "Current Game","Camping: Get Basket, Get Items, Unlock Chat", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Camping%20Get%20Basket%20Get%20Items%20Unlock%20Chat.lua")
 
 addscript(9096377689, "Current Game","Killstreak Sword Fighting Beta: Close Server", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Killstreak%20Sword%20Fighting%20Beta%20Close%20Server.lua")
+
+addscript(9729943388, "Current Game","Making Scam Calls To Save Your Best Friend Tycoon: Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Making%20Scam%20Calls%20To%20Save%20Your%20Best%20Friend%20Tycoon%20Auto%20Farm.lua")
