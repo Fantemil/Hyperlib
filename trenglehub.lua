@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 19:20:24"
+lastupdate = "GMT +1: 08.03.2023 19:20:34"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -12772,3 +12772,5 @@ addscriptexist(5130598377, "A Universal Time: Auto Farm NPCs, Auto Farm Chest, A
 addscriptexist(4282985734, "Combat Warriors: Anti Afk, Infinity Jump, Infinity Stamina", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Combat%20Warriors%20Anti%20Afk%20Infinity%20Jump%20Infinity%20Stamina.lua")
 
 addscriptexist(6198225400, "Legends Re Written: Auto Farm Selected Mob, Auto Attack, Auto Farm Speed", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Legends%20Re%20Written%20Auto%20Farm%20Selected%20Mob%20Auto%20Attack%20Auto%20Farm%20Speed.lua")
+
+addscriptexist(10615427129, "Quadra Clickers: Fast auto clicker", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Quadra%20Clickers%20Fast%20auto%20clicker.lua")
