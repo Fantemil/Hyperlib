@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 18:45:45"
+lastupdate = "GMT +1: 08.03.2023 18:45:54"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -12020,3 +12020,5 @@ addscriptexist(3214114884, "Flag Wars!: Kill All", "pulled from rbxscript.com", 
 addscriptexist(3214114884, "Flag Wars: Silent Aim & Gun Mode", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Flag%20Wars%20Silent%20Aim%20%20Gun%20Mode.lua")
 
 addscriptexist(10758111998, "Booga Booga [REBORN]: Kill Aura, Auto Heal, Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Booga%20Booga%20REBORN%20Kill%20Aura%20Auto%20Heal%20Auto%20Farm.lua")
+
+addscriptexist(9097655905, "Genie Fight Simulator: Infinite Gold, Mass Open Egg & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Genie%20Fight%20Simulator%20Infinite%20Gold%20Mass%20Open%20Egg%20%20More.lua")
