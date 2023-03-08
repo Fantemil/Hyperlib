@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 18:49:13"
+lastupdate = "GMT +1: 08.03.2023 18:49:17"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -12096,3 +12096,5 @@ addscriptexist(2753915549, "Blox Fruits: Auto Farm, Auto Farm Boss, Teleports", 
 addscript(6572877929, "Current Game","Rojutsu Blox: Infinite Stats", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Rojutsu%20Blox%20Infinite%20Stats.lua")
 
 addscriptexist(21532277, "Notoriety: Hitbox, ESP, Tp To Key Card", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Notoriety%20Hitbox%20ESP%20Tp%20To%20Key%20Card.lua")
+
+addscriptexist(10903978962, "Sheep Tycoon: Auto Farm, Auto Sell, Walkspeed", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sheep%20Tycoon%20Auto%20Farm%20Auto%20Sell%20Walkspeed.lua")
