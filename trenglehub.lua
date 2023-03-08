@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 16:38:54"
+lastupdate = "GMT +1: 08.03.2023 16:38:59"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -8952,3 +8952,5 @@ addscriptexist(990566015, "Cursed Islands: Auto Play, Water Remover, Teleports",
 addscriptexist(6516141723, "DOORS: Auto-Win Heartbeat, Headlight, Fullbright", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DOORS%20AutoWin%20Heartbeat%20Headlight%20Fullbright.lua")
 
 addscript(11129854470, "Current Game","Akuma Pirates: Max Stats", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Akuma%20Pirates%20Max%20Stats.lua")
+
+addscriptexist(6284583030, "Pet Simulator X: New Auto Farm Gui", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pet%20Simulator%20X%20New%20Auto%20Farm%20Gui.lua")
