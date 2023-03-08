@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 12:54:44"
+lastupdate = "GMT +1: 08.03.2023 12:54:48"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -6792,3 +6792,5 @@ addscriptexist(1340132428, "Armored Patrol: Bring All Crates, Infinite ammo, Vie
 addscriptexist(7239319209, "Ohio: Kill aura, Auto Stomp", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ohio%20Kill%20aura%20Auto%20Stomp.lua")
 
 addscript(9055015233, "Current Game","My Hood: Fast Autofarm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/My%20Hood%20Fast%20Autofarm.lua")
+
+addscriptexist(3101667897, "Legends Of Speed: Auto Farm Gems", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Legends%20Of%20Speed%20Auto%20Farm%20Gems.lua")
