@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 19:15:27"
+lastupdate = "GMT +1: 08.03.2023 19:15:31"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -12658,3 +12658,5 @@ addscriptexist(9648883891, "Festival Tycoon: Inf Money", "pulled from rbxscript.
 addscriptexist(2248408710, "Destruction Simulator: Money Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Destruction%20Simulator%20Money%20Farm.lua")
 
 addscriptexist(5956785391, "Project Slayers: Inf Spin", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Project%20Slayers%20Inf%20Spin.lua")
+
+addscriptexist(10895555747, "Walmart Land: Free Tokens", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Walmart%20Land%20Free%20Tokens.lua")
