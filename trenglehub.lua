@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 17:17:43"
+lastupdate = "GMT +1: 08.03.2023 17:17:47"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -9930,3 +9930,5 @@ addscriptexist(445664957, "Parkour: Sr Flow, Set Combo, Infinite Magrail", "pull
 addscriptuniversal("Universal Module Helper", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Module%20Helper.lua")
 
 addscriptexist(10652184030, "Jump Clicker: Auto Egg, Auto Click, Rejoin Server", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Jump%20Clicker%20Auto%20Egg%20Auto%20Click%20Rejoin%20Server.lua")
+
+addscript(9144187696, "Current Game","A PIECE: Crash Server, Auto Drop Fruit, Auto Spin", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/A%20PIECE%20Crash%20Server%20Auto%20Drop%20Fruit%20Auto%20Spin.lua")
