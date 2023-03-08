@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 20:01:02"
+lastupdate = "GMT +1: 08.03.2023 20:01:07"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -13426,3 +13426,5 @@ addscriptexist(8508303900, "Tower of Flood Escape 2 | Free Open Case.", "pulled 
 addscriptexist(8750997647, "Tapping legends X | AutoClick, AutoRebirth, AutoHatch", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tapping%20legends%20X%20%20AutoClick%20AutoRebirth%20AutoHatch.lua")
 
 addscriptexist(8737602449, "Pls Donate | Auto Thank, Auto Beg, AntiAfk", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pls%20Donate%20%20Auto%20Thank%20Auto%20Beg%20AntiAfk.lua")
+
+addscriptexist(537413528, "Build a boat for treasure | Auto Farm, AutoBuy, Teleports", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Build%20a%20boat%20for%20treasure%20%20Auto%20Farm%20AutoBuy%20Teleports.lua")
