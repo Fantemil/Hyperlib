@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 15:07:20"
+lastupdate = "GMT +1: 08.03.2023 15:07:29"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -8582,3 +8582,5 @@ addscriptexist(10723695195, "Anime Evolution Simulator: Auto Fight, Fight Aura, 
 addscriptuniversal("Universal Fly, Spin, Infinity Jumps", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Fly%20Spin%20Infinity%20Jumps.lua")
 
 addscriptexist(8069117419, "Demon Soul Simulator: Auto Collect Dispatch, Auto Dispatch, Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Demon%20Soul%20Simulator%20Auto%20Collect%20Dispatch%20Auto%20Dispatch%20Auto%20Farm.lua")
+
+addscriptexist(147848991, "Be A Parkour Ninja: KillAura, Hitboxes, Respawn Button", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Be%20A%20Parkour%20Ninja%20KillAura%20Hitboxes%20Respawn%20Button.lua")
