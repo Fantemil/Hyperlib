@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 21:22:08"
+lastupdate = "GMT +1: 08.03.2023 21:22:12"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -15078,3 +15078,5 @@ addscript(7941853407, "Current Game","Squishmallow [Auto Farm]", "pulled from rb
 addscript(10315830663, "Current Game","Cant Say The Letter [Inf Time]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Cant%20Say%20The%20Letter%20Inf%20Time.lua")
 
 addscriptexist(10315830663, "Cant Say The Letter [Give Tools]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Cant%20Say%20The%20Letter%20Give%20Tools.lua")
+
+addscriptexist(10315830663, "Cant Say The Letter [Can says Letter]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Cant%20Say%20The%20Letter%20Can%20says%20Letter.lua")
