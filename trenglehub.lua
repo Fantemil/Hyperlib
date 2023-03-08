@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 12:28:25"
+lastupdate = "GMT +1: 08.03.2023 12:28:29"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -6084,3 +6084,5 @@ addscriptexist(7239319209, "Ohio: Autofarm, Aimbot, Kill Aura", "pulled from rbx
 addscriptexist(7180042682, "Military Tycoon: Presents Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Military%20Tycoon%20Presents%20Auto%20Farm.lua")
 
 addscriptuniversal("Universal Animation Spy v1", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Animation%20Spy%20v.lua")
+
+addscriptexist(1458767429, "ABA: Fastest Afk Auto Farm, Server Hop", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ABA%20Fastest%20Afk%20Auto%20Farm%20Server%20Hop.lua")
