@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 16:52:14"
+lastupdate = "GMT +1: 08.03.2023 16:52:19"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -9276,3 +9276,5 @@ addscriptexist(9281034297, "Goal Kick Simulator: Auto Hatch, Auto Upgrade, Auto 
 addscript(10631384212, "Current Game","Treasure Hunt Islands: Auto Mine, Auto Chest, Auto Sell", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Treasure%20Hunt%20Islands%20Auto%20Mine%20Auto%20Chest%20Auto%20Sell.lua")
 
 addscriptexist(328028363, "Typical Colors 2: No KnockBack, No Spread & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Typical%20Colors%20%20No%20KnockBack%20No%20Spread%20%20More.lua")
+
+addscript(11237748076, "Current Game","Stranger Things Immersive Watch Party: Get Free Items", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Stranger%20Things%20Immersive%20Watch%20Party%20Get%20Free%20Items.lua")
