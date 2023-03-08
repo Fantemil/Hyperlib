@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 20:52:21"
+lastupdate = "GMT +1: 08.03.2023 20:52:25"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -14530,3 +14530,5 @@ addscriptuniversal("Roblox Universal Script [Maker FE]", "pulled from rbxscript.
 addscriptexist(9872472334, "Evade [Free Gamepasses]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Evade%20Free%20Gamepasses.lua")
 
 addscriptuniversal("Roblox Universal Script [Noclip]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Roblox%20Universal%20Script%20Noclip.lua")
+
+addscriptexist(360589910, "Hoops - Demo [AimBot, Auto Block, Hitbox player]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Hoops%20%20Demo%20AimBot%20Auto%20Block%20Hitbox%20player.lua")
