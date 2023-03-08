@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 14:44:52"
+lastupdate = "GMT +1: 08.03.2023 14:44:57"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -7982,3 +7982,5 @@ addscriptexist(6933626061, "TLK Prison: Admin Commands Bar", "pulled from rbxscr
 addscriptexist(5956785391, "Project Slayers: Remove Hit Delay, Killaura, Fast Pickup items", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Project%20Slayers%20Remove%20Hit%20Delay%20Killaura%20Fast%20Pickup%20items.lua")
 
 addscriptexist(6172932937, "Energy Assault: Trigger Bot", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Energy%20Assault%20Trigger%20Bot.lua")
+
+addscriptexist(2753915549, "Blox Fruits: Auto Papers", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blox%20Fruits%20Auto%20Papers.lua")
