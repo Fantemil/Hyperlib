@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 18:35:10"
+lastupdate = "GMT +1: 08.03.2023 18:35:14"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -11820,3 +11820,5 @@ addscriptexist(2788229376, "Da Hood: Crash BDH Op", "pulled from rbxscript.com",
 addscriptexist(7180042682, "Military Tycoon: Auto Farm GUI", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Military%20Tycoon%20Auto%20Farm%20GUI.lua")
 
 addhub("Galaxy Hub: Many Games Support", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Galaxy%20Hub%20Many%20Games%20Support.lua")
+
+addscriptexist(9486506804, "FIFA World: Auto Grab Words", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FIFA%20World%20Auto%20Grab%20Words.lua")
