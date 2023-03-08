@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 17:50:10"
+lastupdate = "GMT +1: 08.03.2023 17:50:15"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -10750,3 +10750,5 @@ addscriptexist(9802068147, "Museum Tycoon: Auto Buy Buttons, Auto Collect Cash, 
 addscriptexist(1224212277, "Mad City Chapter 2: Auto Rob", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mad%20City%20Chapter%20%20Auto%20Rob.lua")
 
 addscript(6442957604, "Current Game","Custom PC Tycoon: Auto Buy, Auto Sell, Auto Build Parts", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Custom%20PC%20Tycoon%20Auto%20Buy%20Auto%20Sell%20Auto%20Build%20Parts.lua")
+
+addscript(9898710720, "Current Game","Money Tycoon: Walkspeed, Anti Afk, Auto Rebirth", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Money%20Tycoon%20Walkspeed%20Anti%20Afk%20Auto%20Rebirth.lua")
