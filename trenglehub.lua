@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 12:59:37"
+lastupdate = "GMT +1: 08.03.2023 12:59:41"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -6916,3 +6916,5 @@ addscriptexist(4616652839, "Shindo Life: Spin Bloodlines, Options, Spin Elements
 addscriptexist(11656036986, "make roblox games to become rich and famous tycoon: Auto release games", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/make%20roblox%20games%20to%20become%20rich%20and%20famous%20tycoon%20Auto%20release%20games.lua")
 
 addscriptexist(192800, "Work at a Pizza Place: FE Insta Kick", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Work%20at%20a%20Pizza%20Place%20FE%20Insta%20Kick.lua")
+
+addscriptexist(7239319209, "Ohio: Bank Valt Teleporter", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ohio%20Bank%20Valt%20Teleporter.lua")
