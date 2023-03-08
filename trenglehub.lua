@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 18:18:21"
+lastupdate = "GMT +1: 08.03.2023 18:18:26"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -11448,3 +11448,5 @@ addscriptexist(164051105, "Super Bomb Survival: Auto farm, Anti Ragdoll, God mod
 addscriptexist(2788229376, "Da Hood: Silent Aim, Teleports, Walkspeed", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Da%20Hood%20Silent%20Aim%20Teleports%20Walkspeed.lua")
 
 addscript(6159892946, "Current Game","Aim Trainer: Auto Play", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Aim%20Trainer%20Auto%20Play.lua")
+
+addscriptexist(9625096419, "Tapper Simulator: Auto Farm, Auto Rebirth, Auto Hatch", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tapper%20Simulator%20Auto%20Farm%20Auto%20Rebirth%20Auto%20Hatch.lua")
