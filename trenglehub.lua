@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 19:25:13"
+lastupdate = "GMT +1: 08.03.2023 19:25:18"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -12872,3 +12872,5 @@ addscriptexist(7991339063, "Rainbow Friends: Auto Win", "pulled from rbxscript.c
 addscriptexist(2788229376, "Da Hood: Infinity Cash, Godmode & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Da%20Hood%20Infinity%20Cash%20Godmode%20%20More.lua")
 
 addscriptexist(3956818381, "Ninja Legends: Auto Swing, Auto Sell, Auto Rebirth", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ninja%20Legends%20Auto%20Swing%20Auto%20Sell%20Auto%20Rebirth.lua")
+
+addscriptexist(10675066724, "Slime Tower Tycoon: Auto Obby, Auto Collect, Auto Merge", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Slime%20Tower%20Tycoon%20Auto%20Obby%20Auto%20Collect%20Auto%20Merge.lua")
