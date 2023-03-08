@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 07:18:36"
+lastupdate = "GMT +1: 08.03.2023 07:18:39"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -5876,3 +5876,5 @@ addscript(4991214437, "Current Game","town: Town Plot Copier", "pulled from rbxs
 addscriptexist(10914683361, "Busy Business! Instant Order, Instant Serve", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Busy%20Business%20Instant%20Order%20Instant%20Serve.lua")
 
 addscriptexist(10598587051, "Anime Clicker Fight: Auto Farm, Auto Click, Egg.", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime%20Clicker%20Fight%20Auto%20Farm%20Auto%20Click%20Egg.lua")
+
+addscriptexist(6516141723, "DOORS: Distance, Door numbering, Highlights", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DOORS%20Distance%20Door%20numbering%20Highlights.lua")
