@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 16:46:08"
+lastupdate = "GMT +1: 08.03.2023 16:46:12"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -9124,3 +9124,5 @@ addscriptexist(7525610732, "Kaizen: Auto Farm, Anti Ragdoll, No Dash CoolDown", 
 addscriptexist(621129760, "Knife Ability Test: Aimbot, Esp, FOV", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Knife%20Ability%20Test%20Aimbot%20Esp%20FOV.lua")
 
 addscriptexist(2809202155, "Your Bizarre Adventure: Lucky Arrow Hopper", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Your%20Bizarre%20Adventure%20Lucky%20Arrow%20Hopper.lua")
+
+addscriptexist(2809202155, "Your Bizarre Adventure: Farm things", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Your%20Bizarre%20Adventure%20Farm%20things.lua")
