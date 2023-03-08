@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 17:59:36"
+lastupdate = "GMT +1: 08.03.2023 17:59:41"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -10988,3 +10988,5 @@ addscriptexist(1962086868, "Tower of Hell: God Mode, Walkspeed, Go To End", "pul
 addscriptexist(10298335542, "Basketball Stars 2: AimBot", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Basketball%20Stars%20%20AimBot.lua")
 
 addscript(10904953319, "Current Game","Race Car Clickers: Infinite Candy", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Race%20Car%20Clickers%20Infinite%20Candy.lua")
+
+addscriptexist(8908228901, "SharkBite 2 [NEW]: Shark Esp", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SharkBite%20%20NEW%20Shark%20Esp.lua")
