@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 19:34:24"
+lastupdate = "GMT +1: 08.03.2023 19:34:29"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -13078,3 +13078,5 @@ addscriptexist(4983006874, "NGU CLICKER SIMULATOR Gui: Auto Click, Auto Upgrade,
 addscriptexist(2753915549, "Blox Fruits: Auto Set Spawn Points, Teleports & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blox%20Fruits%20Auto%20Set%20Spawn%20Points%20Teleports%20%20More.lua")
 
 addscriptexist(5993942214, "Rush Point: Esp Players, Distance", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Rush%20Point%20Esp%20Players%20Distance.lua")
+
+addscriptexist(1224212277, "Mad City: Chapter 2: Loop Kill All", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mad%20City%20Chapter%20%20Loop%20Kill%20All.lua")
