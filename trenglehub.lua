@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 19:23:52"
+lastupdate = "GMT +1: 08.03.2023 19:23:57"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -12844,3 +12844,5 @@ addscriptuniversal("Universal Esp", "pulled from rbxscript.com", "https://raw.gi
 addscriptexist(4581966615, "Anomic: FOV, One Shot", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anomic%20FOV%20One%20Shot.lua")
 
 addscriptexist(286090429, "Arsenal: Jump Power", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Arsenal%20Jump%20Power.lua")
+
+addscript(8674186618, "Current Game","Crate Opening Incremental: Noclip, Btools, Auto Open", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Crate%20Opening%20Incremental%20Noclip%20Btools%20Auto%20Open.lua")
