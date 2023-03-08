@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 19:19:42"
+lastupdate = "GMT +1: 08.03.2023 19:19:49"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -12758,3 +12758,5 @@ addscriptuniversal("Universal GUI: Very smooth animations", "pulled from rbxscri
 addscriptexist(10895555747, "Walmart Land: Infinite Tokens Methond 1", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Walmart%20Land%20Infinite%20Tokens%20Methond%20.lua")
 
 addscriptexist(6403373529, "Slap Battles: Slap Aura, Slap Aura Range, KillStreak Glove", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Slap%20Battles%20Slap%20Aura%20Slap%20Aura%20Range%20KillStreak%20Glove.lua")
+
+addscriptexist(10904953319, "Race Car Clickers: Auto Hatch, Auto Farm, Auto Click", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Race%20Car%20Clickers%20Auto%20Hatch%20Auto%20Farm%20Auto%20Click.lua")
