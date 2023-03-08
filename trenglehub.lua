@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 12:35:00"
+lastupdate = "GMT +1: 08.03.2023 12:35:04"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -6268,3 +6268,5 @@ addscriptexist(292439477, "Phantom Forces: Anti Fall Damage", "pulled from rbxsc
 addscriptexist(4651779470, "RECOIL: Infinite Ammo, Auto Guns & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RECOIL%20Infinite%20Ammo%20Auto%20Guns%20%20More.lua")
 
 addscriptuniversal("Universal FE Snake", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20FE%20Snake.lua")
+
+addscriptexist(7560156054, "Clicker Simulator: Auto Collect All Snowflakes", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Clicker%20Simulator%20Auto%20Collect%20All%20Snowflakes.lua")
