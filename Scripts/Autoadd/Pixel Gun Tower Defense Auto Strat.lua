@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/usamiername/pgtd-replayer/main/minified-rec.lua"))()
