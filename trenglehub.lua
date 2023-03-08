@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 15:08:27"
+lastupdate = "GMT +1: 08.03.2023 15:08:31"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -8610,3 +8610,5 @@ addscriptexist(9414511685, "Drive Cars Down A Hill: Auto Farm, Teleports, Walksp
 addscriptexist(60654525, "The Legendary Swords RPG: Give Sun Axe, Give Fire Blade, Infinity Gold", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/The%20Legendary%20Swords%20RPG%20Give%20Sun%20Axe%20Give%20Fire%20Blade%20Infinity%20Gold.lua")
 
 addhub("FlexuTek Hub: Hubs, Animation scripts, Admins scripts", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FlexuTek%20Hub%20Hubs%20Animation%20scripts%20Admins%20scripts.lua")
+
+addhub("LHub: 2 Games and Universal", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LHub%20%20Games%20and%20Universal.lua")
