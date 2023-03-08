@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://raw.githubusercontent.com/pawstep/scripts/main/Car%20Crash%20System.lua'))()
