@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 18:25:50"
+lastupdate = "GMT +1: 08.03.2023 18:25:54"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -11632,3 +11632,5 @@ addscriptuniversal("Universal Grab Co Ordinates", "pulled from rbxscript.com", "
 addscriptuniversal("Universal FE Script Hub", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20FE%20Script%20Hub.lua")
 
 addscriptexist(5307215810, "RandomizerV2: Aimbot, New UI, Esp", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RandomizerV%20Aimbot%20New%20UI%20Esp.lua")
+
+addscriptuniversal("Universal Steal Website Bodies With Script", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Steal%20Website%20Bodies%20With%20Script.lua")
