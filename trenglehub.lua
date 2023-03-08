@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 19:27:53"
+lastupdate = "GMT +1: 08.03.2023 19:27:58"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -12930,3 +12930,5 @@ addscriptexist(8916037983, "starving artists: Copy art", "pulled from rbxscript.
 addscriptexist(2039118386, "Neighborhood war: AimBot", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Neighborhood%20war%20AimBot.lua")
 
 addscriptexist(142823291, "Murder Mystery 2: Murderer and Sheriff finder", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Murder%20Mystery%20%20Murderer%20and%20Sheriff%20finder.lua")
+
+addscriptexist(4860819035, "Plants vs Zombies Garden Problem: Server Lag", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Plants%20vs%20Zombies%20Garden%20Problem%20Server%20Lag.lua")
