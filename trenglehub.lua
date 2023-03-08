@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 06:50:28"
+lastupdate = "GMT +1: 08.03.2023 06:50:32"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -5018,3 +5018,5 @@ addscriptexist(11729688377, "Booga Booga [REBORN]: Auto Atack, Auto Pickup, Auto
 addscriptexist(7791873535, "REALISTIC HOOD: No Recoil, Teleports & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/REALISTIC%20HOOD%20No%20Recoil%20Teleports%20%20More.lua")
 
 addscriptexist(2753915549, "Blox Fruits: Max Stats", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blox%20Fruits%20Max%20Stats.lua")
+
+addscriptexist(10821317529, "Pickaxe Mining Simulator: Auto Mine, Auto Collect Drops & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pickaxe%20Mining%20Simulator%20Auto%20Mine%20Auto%20Collect%20Drops%20%20More.lua")
