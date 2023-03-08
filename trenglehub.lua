@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 17:26:00"
+lastupdate = "GMT +1: 08.03.2023 17:26:05"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -10140,3 +10140,5 @@ addscriptexist(9414511685, "Drive Cars Down A Hill: Free Guns, Infinity Ammo", "
 addscriptexist(9872472334, "Evade: EXP Auto Farm, Money Auto Farm, Anti AFK", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Evade%20EXP%20Auto%20Farm%20Money%20Auto%20Farm%20Anti%20AFK.lua")
 
 addscriptexist(3101667897, "Legends Of Speed: Auto Hoop, Auto Rebirth, Misc", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Legends%20Of%20Speed%20Auto%20Hoop%20Auto%20Rebirth%20Misc.lua")
+
+addhub("Plasek HUB: 3 Games", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Plasek%20HUB%20%20Games.lua")
