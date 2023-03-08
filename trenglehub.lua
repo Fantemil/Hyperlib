@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 16:53:32"
+lastupdate = "GMT +1: 08.03.2023 16:53:36"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -9310,3 +9310,5 @@ addscript(10924916839, "Current Game","Bee Factory: Auto Collect Honey", "pulled
 addscriptexist(2753915549, "Blox Fruits: Auto Farm Level, Auto Stats, Teleports", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blox%20Fruits%20Auto%20Farm%20Level%20Auto%20Stats%20Teleports.lua")
 
 addscriptexist(10925589760, "Merge Simulator: Auto Merge, Auto Upgrade, Auto Tap", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Merge%20Simulator%20Auto%20Merge%20Auto%20Upgrade%20Auto%20Tap.lua")
+
+addscriptexist(11227688003, "Roblox But You Get Smarter Every Second: Auto Collect Gems", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Roblox%20But%20You%20Get%20Smarter%20Every%20Second%20Auto%20Collect%20Gems.lua")
