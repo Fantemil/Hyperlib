@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 17:04:57"
+lastupdate = "GMT +1: 08.03.2023 17:05:04"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -9600,3 +9600,5 @@ addscriptexist(7047488135, "Speed Run Simulator: Options, Auto Rings, Auto Eggs"
 addscriptexist(5956785391, "Project Slayers: Frost Hub Type Bypass", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Project%20Slayers%20Frost%20Hub%20Type%20Bypass.lua")
 
 addscriptexist(9848789324, "Ragdoll Engine: Anti Fling, Anti Ragdoll, Anti Kill & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ragdoll%20Engine%20Anti%20Fling%20Anti%20Ragdoll%20Anti%20Kill%20%20More.lua")
+
+addscript(1240644540, "Current Game","Vampire Hunters 3: Insta Break", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Vampire%20Hunters%20%20Insta%20Break.lua")
