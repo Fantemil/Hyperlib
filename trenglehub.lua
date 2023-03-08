@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 19:03:23"
+lastupdate = "GMT +1: 08.03.2023 19:03:28"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -12404,3 +12404,5 @@ addscriptexist(4872321990, "Islands: Auto Harvest, Mine Rock", "pulled from rbxs
 addscriptexist(5915341487, "Pancake's Wall Hop Difficulty Chart: Auto Win", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pancakes%20Wall%20Hop%20Difficulty%20Chart%20Auto%20Win.lua")
 
 addscriptexist(8585657145, "Anime Evolution Simulator: Auto Power, Auto Rank Up, Auto Upgrade Weapon", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime%20Evolution%20Simulator%20Auto%20Power%20Auto%20Rank%20Up%20Auto%20Upgrade%20Weapon.lua")
+
+addscript(9284097280, "Current Game","Apartment Tycoon: Unlock Fly, Remove Blur, Collect Safes", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Apartment%20Tycoon%20Unlock%20Fly%20Remove%20Blur%20Collect%20Safes.lua")
