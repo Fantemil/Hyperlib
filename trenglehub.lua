@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 17:09:35"
+lastupdate = "GMT +1: 08.03.2023 17:09:40"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -9716,3 +9716,5 @@ addscriptexist(8726743209, "Refinery Caves: Client-Side Item Spawner", "pulled f
 addscriptexist(4738545896, "SHOOT OUT: Kill All, Silent Aim, Esp", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SHOOT%20OUT%20Kill%20All%20Silent%20Aim%20Esp.lua")
 
 addscriptexist(6229116934, "Hoopz: Reach, Walkspeed, Aimbot", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Hoopz%20Reach%20Walkspeed%20Aimbot.lua")
+
+addscriptexist(4588604953, "Criminality: Aim, ESP", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Criminality%20Aim%20ESP.lua")
