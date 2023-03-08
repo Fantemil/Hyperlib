@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 12:52:52"
+lastupdate = "GMT +1: 08.03.2023 12:52:58"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -6742,3 +6742,5 @@ addscript(7229578935, "Current Game","VoxelCraft: Insta Break, ESP Chest, Speed"
 addscript(10919241870, "Current Game","Rarity Factory Tycoon: Auto Pickup Balls & More!", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Rarity%20Factory%20Tycoon%20Auto%20Pickup%20Balls%20%20More.lua")
 
 addscriptexist(292439477, "Phantom Forces: Speed", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Phantom%20Forces%20Speed.lua")
+
+addscriptexist(3233893879, "Bad Business: No Recoil, Instant Reload, FOV", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Bad%20Business%20No%20Recoil%20Instant%20Reload%20FOV.lua")
