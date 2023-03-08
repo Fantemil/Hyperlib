@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 17:56:09"
+lastupdate = "GMT +1: 08.03.2023 17:56:13"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -10898,3 +10898,5 @@ addscriptexist(4490140733, "My Restaurant: Infinite Exp, Auto Complete Goal 1 an
 addscriptexist(10723695195, "Anime Evolution Simulator: Auto Eggs, Kill Aura, Auto Collect Coins", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime%20Evolution%20Simulator%20Auto%20Eggs%20Kill%20Aura%20Auto%20Collect%20Coins.lua")
 
 addscriptuniversal("Universal Calculator", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Calculator.lua")
+
+addscriptexist(9872472334, "Evade: Fast Revive, Auto Respawn, ESP", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Evade%20Fast%20Revive%20Auto%20Respawn%20ESP.lua")
