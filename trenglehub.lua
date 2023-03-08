@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 13:06:28"
+lastupdate = "GMT +1: 08.03.2023 13:06:32"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -7092,3 +7092,5 @@ addscript(5026999321, "Current Game","A Dumb Day: Auto Use Banknotes, Kill Aura,
 addscriptexist(9551640993, "Mining Simulator 2: Christmas House Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mining%20Simulator%20%20Christmas%20House%20Farm.lua")
 
 addscriptexist(2753915549, "Blox Fruits: Astro Hub, Owu Hub, Magma Hub", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blox%20Fruits%20Astro%20Hub%20Owu%20Hub%20Magma%20Hub.lua")
+
+addscript(9718523719, "Current Game","Raise a Noob: Auto Feed, Auto Click, Collect Bobux", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Raise%20a%20Noob%20Auto%20Feed%20Auto%20Click%20Collect%20Bobux.lua")
