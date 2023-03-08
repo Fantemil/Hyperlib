@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 06:47:33"
+lastupdate = "GMT +1: 08.03.2023 06:47:37"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -4926,3 +4926,5 @@ addscriptexist(11216791462, "Hungry Pig: Buy All Items", "pulled from rbxscript.
 addscriptuniversal("Universal Detect People", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Detect%20People.lua")
 
 addscriptexist(6872265039, "BedWars: Kil Aura", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BedWars%20Kil%20Aura.lua")
+
+addscriptexist(11103424163, "Heist Tycoon: Infinity Money", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Heist%20Tycoon%20Infinity%20Money.lua")
