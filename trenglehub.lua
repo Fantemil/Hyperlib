@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 12:21:01"
+lastupdate = "GMT +1: 08.03.2023 12:21:08"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -5890,3 +5890,5 @@ addhub("KylnDantas Hub: 5+ Games", "pulled from rbxscript.com", "https://raw.git
 addscriptexist(3956818381, "Ninja Legends: Auto Collect Hoops, Teleports & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ninja%20Legends%20Auto%20Collect%20Hoops%20Teleports%20%20More.lua")
 
 addscript(9704893711, "Current Game","Dha Hood: Dupe Items, Anti Slow, Godmode Armour", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Dha%20Hood%20Dupe%20Items%20Anti%20Slow%20Godmode%20Armour.lua")
+
+addscriptuniversal("Leck Hub: 5+ Games", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Leck%20Hub%20%20Games.lua")
