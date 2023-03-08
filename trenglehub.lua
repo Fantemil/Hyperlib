@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 12:51:34"
+lastupdate = "GMT +1: 08.03.2023 12:51:39"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -6710,3 +6710,5 @@ addscriptexist(13822889, "Lumber Tycoon 2: Dupe Your Entire Inventory", "pulled 
 addscriptexist(7346416636, "Pop It Trading: Teleports, Fake Drop, Buy Items", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pop%20It%20Trading%20Teleports%20Fake%20Drop%20Buy%20Items.lua")
 
 addscriptexist(988099446, "MMC Zombies Project: Knife Insta Kill", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MMC%20Zombies%20Project%20Knife%20Insta%20Kill.lua")
+
+addscriptexist(292439477, "Phantom Forces: Aimbot & Silent Aim", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Phantom%20Forces%20Aimbot%20%20Silent%20Aim.lua")
