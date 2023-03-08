@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 20:39:31"
+lastupdate = "GMT +1: 08.03.2023 20:39:35"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -14218,3 +14218,5 @@ addscriptexist(2788229376, "Da Hood [AutoHeal, Inf Jump]", "pulled from rbxscrip
 addscriptexist(6403373529, "Slap Battles [AutoFarm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Slap%20Battles%20AutoFarm.lua")
 
 addscriptexist(2753915549, "Blox Fruits [Script-Hub]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blox%20Fruits%20ScriptHub.lua")
+
+addscriptexist(2753915549, "Blox Fruits [AutoFarm Dungeon, Esp]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blox%20Fruits%20AutoFarm%20Dungeon%20Esp.lua")
