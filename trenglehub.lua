@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 20:12:12"
+lastupdate = "GMT +1: 08.03.2023 20:12:16"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -13496,3 +13496,5 @@ addscriptexist(9992339729, "Longest Answer Wins | Infinite Blocks", "pulled from
 addscriptexist(2753915549, "Blox Fruits | AutoFarm, Auto Quest, Auto Set Spawn Point", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blox%20Fruits%20%20AutoFarm%20Auto%20Quest%20Auto%20Set%20Spawn%20Point.lua")
 
 addscriptexist(893973440, "Flee The Facility | ESP, Tp to comp., Walkspeed", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Flee%20The%20Facility%20%20ESP%20Tp%20to%20comp%20Walkspeed.lua")
+
+addscriptexist(9264596435, "Idle Heroes Simulator! | Auto Farm, Auto Hire, Auto Upgr", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Idle%20Heroes%20Simulator%20%20Auto%20Farm%20Auto%20Hire%20Auto%20Upgr.lua")
