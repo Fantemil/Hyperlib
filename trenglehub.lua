@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 18:03:20"
+lastupdate = "GMT +1: 08.03.2023 18:03:24"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -11080,3 +11080,5 @@ addscriptexist(8278412720, "CS Prison Life: Kill All, Server Crash, Teleports", 
 addscriptuniversal("Universal Dog FE", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Dog%20FE.lua")
 
 addscript(111311599, "Current Game","CRITICAL STRIKE: Admin Commands", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CRITICAL%20STRIKE%20Admin%20Commands.lua")
+
+addscriptexist(8540346411, "Rebirth Champions X: Pumpkins Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Rebirth%20Champions%20X%20Pumpkins%20Auto%20Farm.lua")
