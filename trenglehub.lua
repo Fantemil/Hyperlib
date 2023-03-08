@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 07:09:40"
+lastupdate = "GMT +1: 08.03.2023 07:09:43"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -5602,3 +5602,5 @@ addscript(277751860, "Current Game","Epic Minigames: Click TP, Infinity Jumps, A
 addscriptexist(2788229376, "Da Hood: Force Reset, Godmode, Fly", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Da%20Hood%20Force%20Reset%20Godmode%20Fly.lua")
 
 addscript(6949542776, "Current Game","Pixel Gun Tower Defense: Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pixel%20Gun%20Tower%20Defense%20Auto%20Farm.lua")
+
+addscriptexist(1537690962, "Bee Swarm Simulator: Auto Farm, Auto Kill Crab, Auto Dig", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Bee%20Swarm%20Simulator%20Auto%20Farm%20Auto%20Kill%20Crab%20Auto%20Dig.lua")
