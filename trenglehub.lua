@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 12:37:58"
+lastupdate = "GMT +1: 08.03.2023 12:38:02"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -6350,3 +6350,5 @@ addscriptuniversal("Universal GPU Saver", "pulled from rbxscript.com", "https://
 addscriptexist(9551640993, "Mining Simulator 2: Auto Mine, Auto Rebirth, Auto Sell", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mining%20Simulator%20%20Auto%20Mine%20Auto%20Rebirth%20Auto%20Sell.lua")
 
 addscriptexist(192800, "Work At A Pizza Place: All In One Spam", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Work%20At%20A%20Pizza%20Place%20All%20In%20One%20Spam.lua")
+
+addscript(23144831, "Current Game","Craftwars: Get Everything", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Craftwars%20Get%20Everything.lua")
