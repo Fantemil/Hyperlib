@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 16:40:08"
+lastupdate = "GMT +1: 08.03.2023 16:40:12"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -8982,3 +8982,5 @@ addscriptexist(4855457388, "Demonfall: Clear Sight, Auto Groud, ESP", "pulled fr
 addscriptexist(6679968919, "Fly Race: Ultra Hub Gui", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Fly%20Race%20Ultra%20Hub%20Gui.lua")
 
 addscript(92604236, "Current Game","High School Life: Auto Farm Trash & Perfect Hoop", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/High%20School%20Life%20Auto%20Farm%20Trash%20%20Perfect%20Hoop.lua")
+
+addscriptexist(4872321990, "Islands: God Mode", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Islands%20God%20Mode.lua")
