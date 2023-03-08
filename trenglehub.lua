@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 13:08:11"
+lastupdate = "GMT +1: 08.03.2023 13:08:15"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -7138,3 +7138,5 @@ addscriptexist(8540346411, "Rebirth Champions X: Auto Click, Auto Rebirth, Auto 
 addscriptexist(7305309231, "Taxi Boss: Auto Get Presents", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Taxi%20Boss%20Auto%20Get%20Presents.lua")
 
 addscriptexist(8506369721, "dig to china: Auto Win", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/dig%20to%20china%20Auto%20Win.lua")
+
+addhub("Vynixius Hub: Big quality works", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Vynixius%20Hub%20Big%20quality%20works.lua")
