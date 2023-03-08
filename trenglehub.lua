@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 18:14:23"
+lastupdate = "GMT +1: 08.03.2023 18:14:27"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -11352,3 +11352,5 @@ addscriptexist(8304191830, "Anime Adventures: Auto Sell, Auto Abilities, Auto Up
 addscriptexist(8304191830, "Anime Adventures: Auto Farm, Webhooks & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime%20Adventures%20Auto%20Farm%20Webhooks%20%20More.lua")
 
 addscript(3261957210, "Current Game","Thanos Simulator: Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Thanos%20Simulator%20Auto%20Farm.lua")
+
+addscriptexist(5130598377, "A Universal Time: Auto Invisible, Auto Farm Items, Teleports", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/A%20Universal%20Time%20Auto%20Invisible%20Auto%20Farm%20Items%20Teleports.lua")
