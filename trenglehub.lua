@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 17:02:24"
+lastupdate = "GMT +1: 08.03.2023 17:02:29"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -9536,3 +9536,5 @@ addscriptexist(5956785391, "Project Slayers: Infinity Hp", "pulled from rbxscrip
 addscriptexist(6708206173, "Rate My Avatar: Share Screen", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Rate%20My%20Avatar%20Share%20Screen.lua")
 
 addscriptexist(3956818381, "Ninja Legends: Claim All Chests, Auto Swing & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ninja%20Legends%20Claim%20All%20Chests%20Auto%20Swing%20%20More.lua")
+
+addscriptexist(3260590327, "Tower Defense Simulator: Auto Farm Gems, Server Hop", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tower%20Defense%20Simulator%20Auto%20Farm%20Gems%20Server%20Hop.lua")
