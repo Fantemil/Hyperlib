@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 20:22:03"
+lastupdate = "GMT +1: 08.03.2023 20:22:08"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -13758,3 +13758,5 @@ addscriptexist(9417197334, "Anime Story | Auto Summon", "pulled from rbxscript.c
 addscriptexist(8482451541, "Brick Defense | Auto Farm Grind Infinite Tix", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Brick%20Defense%20%20Auto%20Farm%20Grind%20Infinite%20Tix.lua")
 
 addscript(9814637986, "Current Game","Slap Battles: Average FanMade | Kill, Give Panel, Kick, Ban", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Slap%20Battles%20Average%20FanMade%20%20Kill%20Give%20Panel%20Kick%20Ban.lua")
+
+addscriptexist(10148047155, "Car Mechanic Tycoon | Walkspeed, AntiKick, AutoFarm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Car%20Mechanic%20Tycoon%20%20Walkspeed%20AntiKick%20AutoFarm.lua")
