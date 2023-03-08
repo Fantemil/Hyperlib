@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 16:48:17"
+lastupdate = "GMT +1: 08.03.2023 16:48:21"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -9176,3 +9176,5 @@ addscript(7262405121, "Current Game","Ridgeway County Concepts: Arrest Player, T
 addscript(10681346822, "Current Game","Roblox But You Get Smarter Every Second: Wipe Server Stats", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Roblox%20But%20You%20Get%20Smarter%20Every%20Second%20Wipe%20Server%20Stats.lua")
 
 addscriptexist(6516141723, "DOORS: Spawn Entities, Keybinds, Options", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DOORS%20Spawn%20Entities%20Keybinds%20Options.lua")
+
+addscriptexist(5956785391, "Project Slayers: Auto Farm Mobs, Auto Farm All Bosses, Auto Farm Demon Horns", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Project%20Slayers%20Auto%20Farm%20Mobs%20Auto%20Farm%20All%20Bosses%20Auto%20Farm%20Demon%20Horns.lua")
