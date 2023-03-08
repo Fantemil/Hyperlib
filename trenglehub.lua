@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 20:34:16"
+lastupdate = "GMT +1: 08.03.2023 20:34:20"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -14078,3 +14078,5 @@ addscriptexist(9772878203, "raise a floppa 2 [Automatic Crystal Farm]", "pulled 
 addscript(6428174188, "Current Game","Lost RPG [Get All Items]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Lost%20RPG%20Get%20All%20Items.lua")
 
 addscript(9658251985, "Current Game","The Rake Kill Test [Kick paleyrs]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/The%20Rake%20Kill%20Test%20Kick%20paleyrs.lua")
+
+addscriptexist(9658251985, "The Rake Kill Test [Kill people]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/The%20Rake%20Kill%20Test%20Kill%20people.lua")
