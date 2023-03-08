@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 20:32:56"
+lastupdate = "GMT +1: 08.03.2023 20:33:00"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -14046,3 +14046,5 @@ addscriptexist(10524502174, "One Punch Fighters [AutoFarm, AutoSummon]", "pulled
 addscriptexist(7056922815, "Reaper 2 [AutoFarm, AutoEat]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Reaper%20%20AutoFarm%20AutoEat.lua")
 
 addscriptexist(893973440, "Flee the Facility [Hide beast light]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Flee%20the%20Facility%20Hide%20beast%20light.lua")
+
+addscript(4529536977, "Current Game","Pembroke Pines [Inf Money]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pembroke%20Pines%20Inf%20Money.lua")
