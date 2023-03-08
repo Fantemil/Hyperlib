@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 19:19:23"
+lastupdate = "GMT +1: 08.03.2023 19:19:33"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -12752,3 +12752,5 @@ addscriptexist(10085978574, "My Little Pony: Visit Maretime Bay: Get Mascot Shou
 addscriptexist(10895555747, "Walmart Land: Get tokens, Fling People, Rejoin", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Walmart%20Land%20Get%20tokens%20Fling%20People%20Rejoin.lua")
 
 addscriptexist(7177496972, "Anime Warriors: Auto Farm, Auto Skills, Auto Replay", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime%20Warriors%20Auto%20Farm%20Auto%20Skills%20Auto%20Replay.lua")
+
+addscriptuniversal("Universal GUI: Very smooth animations", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20GUI%20Very%20smooth%20animations.lua")
