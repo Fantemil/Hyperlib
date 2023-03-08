@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 15:04:17"
+lastupdate = "GMT +1: 08.03.2023 15:04:21"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -8500,3 +8500,5 @@ addscriptexist(6284583030, "Pet Simulator X: Auto Gem Farm, Stat Tracker & More"
 addscriptexist(9049840490, "Sonic Speed Simulator: Auto Farm, Auto Rebirth, Auto Run", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sonic%20Speed%20Simulator%20Auto%20Farm%20Auto%20Rebirth%20Auto%20Run.lua")
 
 addscriptexist(8066856875, "Pirate's Dream: Kill Aura, Auto Collect, Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pirates%20Dream%20Kill%20Aura%20Auto%20Collect%20Auto%20Farm.lua")
+
+addscriptexist(9551640993, "Mining Simulator 2: Auto Save Position, Auto Mine, Auto Factory", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mining%20Simulator%20%20Auto%20Save%20Position%20Auto%20Mine%20Auto%20Factory.lua")
