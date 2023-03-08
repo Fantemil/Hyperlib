@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 21:02:49"
+lastupdate = "GMT +1: 08.03.2023 21:02:53"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -14788,3 +14788,5 @@ addscriptexist(6766156863, "Strongman Simulator [Very OP Autofarm]", "pulled fro
 addscriptexist(7728848215, "Slashing Simulator [Auto Farm, Teleport All Worlds, WalkSpeed]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Slashing%20Simulator%20Auto%20Farm%20Teleport%20All%20Worlds%20WalkSpeed.lua")
 
 addscriptexist(9961650006, "Shockwave Racing [Auto Win]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Shockwave%20Racing%20Auto%20Win.lua")
+
+addscriptexist(8260276694, "Ability Wars [Esp, Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ability%20Wars%20Esp%20Farm.lua")
