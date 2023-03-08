@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 19:02:08"
+lastupdate = "GMT +1: 08.03.2023 19:02:12"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -12376,3 +12376,5 @@ addscriptexist(4793176968, "Mano County Police Patrol: Anti Exploit, Radio Disab
 addscriptexist(4872321990, "Islands: Auto Harvest - Replant & Mine Rock", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Islands%20Auto%20Harvest%20%20Replant%20%20Mine%20Rock.lua")
 
 addscriptexist(13822889, "Lumber Tycoon 2: Sinister, Spook Wood Hopper", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Lumber%20Tycoon%20%20Sinister%20Spook%20Wood%20Hopper.lua")
+
+addscriptexist(8308074824, "Meme Piece: Infinite Stats", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Meme%20Piece%20Infinite%20Stats.lua")
