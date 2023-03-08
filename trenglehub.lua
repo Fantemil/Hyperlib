@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 18:49:40"
+lastupdate = "GMT +1: 08.03.2023 18:49:44"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -12108,3 +12108,5 @@ addscriptexist(920587237, "Adopt Me: Auto Clouse Candy Gui, Auto Teleport Spleef
 addscriptuniversal("Universal Head Pet", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Head%20Pet.lua")
 
 addscriptexist(1240123653, "Zombie Attack: Kill Aura, Auto farm, Anti Kick", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Zombie%20Attack%20Kill%20Aura%20Auto%20farm%20Anti%20Kick.lua")
+
+addscript(10859879084, "Current Game","Lord Boros Simulator: Unlock Robux Char", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Lord%20Boros%20Simulator%20Unlock%20Robux%20Char.lua")
