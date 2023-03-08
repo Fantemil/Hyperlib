@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 18:02:35"
+lastupdate = "GMT +1: 08.03.2023 18:02:39"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -11060,3 +11060,5 @@ addscriptexist(9281034297, "Goal Kick Simulator: Auto Powered Areas, Auto Kick, 
 addscriptexist(9285238704, "Race Clicker: Auto Win, Auto Click, Auto Open", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Race%20Clicker%20Auto%20Win%20Auto%20Click%20Auto%20Open.lua")
 
 addscriptexist(7305309231, "Taxi Boss: Auto Taxi, Auto Race, Click TP", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Taxi%20Boss%20Auto%20Taxi%20Auto%20Race%20Click%20TP.lua")
+
+addscript(8619263259, "Current Game","Critical Legends: Teleports, Auto Cheats, God Mode", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Critical%20Legends%20Teleports%20Auto%20Cheats%20God%20Mode.lua")
