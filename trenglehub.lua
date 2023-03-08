@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 17:17:36"
+lastupdate = "GMT +1: 08.03.2023 17:17:43"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -9928,3 +9928,5 @@ addscript(10628787331, "Current Game","Hill Disasters: Inf Coin", "pulled from r
 addscriptexist(445664957, "Parkour: Sr Flow, Set Combo, Infinite Magrail", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Parkour%20Sr%20Flow%20Set%20Combo%20Infinite%20Magrail.lua")
 
 addscriptuniversal("Universal Module Helper", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Module%20Helper.lua")
+
+addscriptexist(10652184030, "Jump Clicker: Auto Egg, Auto Click, Rejoin Server", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Jump%20Clicker%20Auto%20Egg%20Auto%20Click%20Rejoin%20Server.lua")
