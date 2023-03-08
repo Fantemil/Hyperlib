@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 20:31:38"
+lastupdate = "GMT +1: 08.03.2023 20:31:43"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -14012,3 +14012,5 @@ addscriptexist(9744954014, "THA HOOD!!! [Godmode, Inf Ammo]", "pulled from rbxsc
 addscriptexist(10676523834, "Racing Rocket [Infinite Star]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Racing%20Rocket%20Infinite%20Star.lua")
 
 addscriptexist(7991339063, "Rainbow Friends [Inf Jumps, Auto Farm, Glitch Blue]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Rainbow%20Friends%20Inf%20Jumps%20Auto%20Farm%20Glitch%20Blue.lua")
+
+addscriptexist(5130598377, "A Universal Time [Auto Farms, Thug Farm, Godmode]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/A%20Universal%20Time%20Auto%20Farms%20Thug%20Farm%20Godmode.lua")
