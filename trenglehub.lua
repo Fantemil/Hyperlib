@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 16:49:55"
+lastupdate = "GMT +1: 08.03.2023 16:49:59"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -9218,3 +9218,5 @@ addscriptexist(4855457388, "Demonfall: Auto Farm, Godmode, ESP", "pulled from rb
 addscript(1382113806, "Current Game","Silent Assassin: Inf Jumps, ESP, Tp Head", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Silent%20Assassin%20Inf%20Jumps%20ESP%20Tp%20Head.lua")
 
 addscriptexist(1382113806, "Silent Assassin: Aimbot, Kill Assasin, ESP", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Silent%20Assassin%20Aimbot%20Kill%20Assasin%20ESP.lua")
+
+addscriptexist(6198039277, "Cyber City Tycoon: Infinity Money", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Cyber%20City%20Tycoon%20Infinity%20Money.lua")
