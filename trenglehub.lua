@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 14:46:19"
+lastupdate = "GMT +1: 08.03.2023 14:46:23"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -8020,3 +8020,5 @@ addscriptexist(3956818381, "Ninja Legends: Auto Collect Coins, Auto Collect Chi,
 addscriptexist(2753915549, "Blox Fruits: ESP for Fruit", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blox%20Fruits%20ESP%20for%20Fruit.lua")
 
 addscriptexist(6741970382, "Zombie lab: Kill All Zombies, Give Cure or Virus, God All Zombies", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Zombie%20lab%20Kill%20All%20Zombies%20Give%20Cure%20or%20Virus%20God%20All%20Zombies.lua")
+
+addscriptexist(11445923563, "One Fruit Simulator: No Cooldown", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/One%20Fruit%20Simulator%20No%20Cooldown.lua")
