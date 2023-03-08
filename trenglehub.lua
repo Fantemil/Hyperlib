@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 14:25:28"
+lastupdate = "GMT +1: 08.03.2023 14:25:33"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -7470,3 +7470,5 @@ addscriptexist(370731277, "Meepcity: Free Gamepass, Meep name changer, Back dele
 addscriptexist(142823291, "Murder Mystery 2: Auto farm, Godmode, Invis Godmode", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Murder%20Mystery%20%20Auto%20farm%20Godmode%20Invis%20Godmode.lua")
 
 addscript(11449238237, "Current Game","Billionaire Empire: Auto Collect Gold, Auto Refil, Auto Click", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Billionaire%20Empire%20Auto%20Collect%20Gold%20Auto%20Refil%20Auto%20Click.lua")
+
+addscriptexist(2753915549, "Blox Fruits: Infinity Observation Range, Chest Auto Farm, Auto Stats", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blox%20Fruits%20Infinity%20Observation%20Range%20Chest%20Auto%20Farm%20Auto%20Stats.lua")
