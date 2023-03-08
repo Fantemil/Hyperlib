@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 19:23:27"
+lastupdate = "GMT +1: 08.03.2023 19:23:32"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -12834,3 +12834,5 @@ addscriptexist(9585537847, "SHADOVIS RPG: Auto Rebirth, Auto Raid & more", "pull
 addscript(4809447488, "Current Game","Venture Tale: Auto Start, Kill Aura, Tp & more", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Venture%20Tale%20Auto%20Start%20Kill%20Aura%20Tp%20%20more.lua")
 
 addscriptexist(9144187696, "A Piece: Free Skill Point & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/A%20Piece%20Free%20Skill%20Point%20%20More.lua")
+
+addscriptexist(5956785391, "Project Slayers: Infinite Spin, Auto Spin", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Project%20Slayers%20Infinite%20Spin%20Auto%20Spin.lua")
