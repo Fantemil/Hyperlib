@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 19:55:03"
+lastupdate = "GMT +1: 08.03.2023 19:55:07"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -13296,3 +13296,5 @@ addscript(9072679513, "Current Game","Anime Impact Simulator! | Auto Train, Auto
 addscriptexist(6461766546, "A Hero's Destiny | Auto Farm, Auto Train, Auto Punch", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/A%20Heros%20Destiny%20%20Auto%20Farm%20Auto%20Train%20Auto%20Punch.lua")
 
 addscriptexist(183364845, "Speed Run 4 | Auto Farm - Complete Dimensionn & More!", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Speed%20Run%20%20%20Auto%20Farm%20%20Complete%20Dimensionn%20%20More.lua")
+
+addscriptexist(961409234, "Blood Moon Tycoon | Instant Server Lagger", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blood%20Moon%20Tycoon%20%20Instant%20Server%20Lagger.lua")
