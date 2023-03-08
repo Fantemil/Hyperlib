@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 14:59:41"
+lastupdate = "GMT +1: 08.03.2023 14:59:45"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -8380,3 +8380,5 @@ addscriptexist(1962086868, "Tower Of Hell: Auto Buy, Auto WIn, Remove Anti Cheat
 addscriptuniversal("Universal Shift to Sprint or Run", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Shift%20to%20Sprint%20or%20Run.lua")
 
 addscriptexist(2768379856, "3008: base grieffer", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/%20base%20grieffer.lua")
+
+addscriptexist(5956785391, "Project Slayers: Auto Farm, Auto Block, Kill Aura", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Project%20Slayers%20Auto%20Farm%20Auto%20Block%20Kill%20Aura.lua")
