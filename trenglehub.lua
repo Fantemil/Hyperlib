@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 15:03:42"
+lastupdate = "GMT +1: 08.03.2023 15:03:46"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -8486,3 +8486,5 @@ addscriptexist(9579228669, "Everyday Car Driving: Auto Farm, Get Gamepass Cars",
 addscriptexist(11109756592, "YouTube Simulator Z: Auto Clicker", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/YouTube%20Simulator%20Z%20Auto%20Clicker.lua")
 
 addscriptexist(7267631004, "carry people simulator 3: Auto Grab", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/carry%20people%20simulator%20%20Auto%20Grab.lua")
+
+addscriptexist(292439477, "Phantom Forces: Silent Aim, ESP", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Phantom%20Forces%20Silent%20Aim%20ESP.lua")
