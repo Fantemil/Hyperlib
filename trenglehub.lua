@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 17:42:39"
+lastupdate = "GMT +1: 08.03.2023 17:42:43"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -10562,3 +10562,5 @@ addscriptexist(2653064683, "Word Bomb: Options, Auto Play, Type Word", "pulled f
 addscriptexist(10723695195, "Anime Evolution Simulator: Auto Use Boosts, Auto Click, Auto Rank Up", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime%20Evolution%20Simulator%20Auto%20Use%20Boosts%20Auto%20Click%20Auto%20Rank%20Up.lua")
 
 addscriptexist(9285238704, "Race Clicker: Auto Farm All Stages, Auto Farm 1k", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Race%20Clicker%20Auto%20Farm%20All%20Stages%20Auto%20Farm%20k.lua")
+
+addscriptexist(10347946161, "Rat Washing Tycoon: Auto Wash, Auto Collect, Auto Obby", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Rat%20Washing%20Tycoon%20Auto%20Wash%20Auto%20Collect%20Auto%20Obby.lua")
