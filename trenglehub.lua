@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 12:21:41"
+lastupdate = "GMT +1: 08.03.2023 12:21:44"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -5908,3 +5908,5 @@ addhub("Mini Hub: 5+ Games", "pulled from rbxscript.com", "https://raw.githubuse
 addscriptexist(3956818381, "Ninja Legends: Unlock All Elements, Auto Swing & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ninja%20Legends%20Unlock%20All%20Elements%20Auto%20Swing%20%20More.lua")
 
 addscriptexist(3823781113, "Saber Simulator: Auto Swing, Auto Sell, Auto Buy", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Saber%20Simulator%20Auto%20Swing%20Auto%20Sell%20Auto%20Buy.lua")
+
+addscriptexist(9872472334, "Evade: Money Farm, Ticket Farm, Infinity Jumps", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Evade%20Money%20Farm%20Ticket%20Farm%20Infinity%20Jumps.lua")
