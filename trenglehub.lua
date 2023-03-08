@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 16:42:09"
+lastupdate = "GMT +1: 08.03.2023 16:42:14"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -9028,3 +9028,5 @@ addscriptexist(11400511154, "Monkey Tycoon: Auto collect bananna, Buy dropper sp
 addscriptexist(4752917845, "reroll gg: Inf Money", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/reroll%20gg%20Inf%20Money.lua")
 
 addscript(10861112990, "Current Game","Anime Artifacts Simulat: Auto Farm Current Area", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime%20Artifacts%20Simulat%20Auto%20Farm%20Current%20Area.lua")
+
+addscriptexist(2413927524, "The Rake REMASTERED: Esp Rake, Esp Gun, FullBirght", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/The%20Rake%20REMASTERED%20Esp%20Rake%20Esp%20Gun%20FullBirght.lua")
