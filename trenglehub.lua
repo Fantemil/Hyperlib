@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 14:42:31"
+lastupdate = "GMT +1: 08.03.2023 14:42:35"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -7918,3 +7918,5 @@ addscriptexist(155615604, "Prison Life: Give Guns, Player Mods, Teleports", "pul
 addscriptexist(11063612131, "Every Second You Get +1 Jump Power: Click Teleport, Auto Rebirth, Auto Eggs", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Every%20Second%20You%20Get%20%20Jump%20Power%20Click%20Teleport%20Auto%20Rebirth%20Auto%20Eggs.lua")
 
 addscriptexist(662417684, "LUCKY BLOCKS Battlegrounds: Walkspeed, Jumppower, Open Blocks", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LUCKY%20BLOCKS%20Battlegrounds%20Walkspeed%20Jumppower%20Open%20Blocks.lua")
+
+addscript(6494429951, "Current Game","Hoop Session: Press X to Silent Aimbot", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Hoop%20Session%20Press%20X%20to%20Silent%20Aimbot.lua")
