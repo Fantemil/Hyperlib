@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 17:49:13"
+lastupdate = "GMT +1: 08.03.2023 17:49:17"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -10724,3 +10724,5 @@ addscript(2628115891, "Current Game","Ant Life [Beta Testing]: Kill Aura, ESP", 
 addscriptexist(9739393895, "Car Crash Simulator 2: Delete Tool(Serverside)", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Car%20Crash%20Simulator%20%20Delete%20ToolServerside.lua")
 
 addscript(8381567809, "Current Game","Ninja Star Simulator: Auto Merge, Auto Craft, Collect Drops", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ninja%20Star%20Simulator%20Auto%20Merge%20Auto%20Craft%20Collect%20Drops.lua")
+
+addscriptexist(3233893879, "Bad Business: Aim Bot, ESP", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Bad%20Business%20Aim%20Bot%20ESP.lua")
