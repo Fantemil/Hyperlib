@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 21:00:16"
+lastupdate = "GMT +1: 08.03.2023 21:00:20"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -14730,3 +14730,5 @@ addscript(4850718823, "Current Game","Skatepark [Auto xp, Credit Farm, Credit Es
 addscriptexist(7991339063, "Rainbow Friends [Esp, Collect Items]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Rainbow%20Friends%20Esp%20Collect%20Items.lua")
 
 addscriptexist(9585537847, "SHADOVIS RPG [KillAura, Auto Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SHADOVIS%20RPG%20KillAura%20Auto%20Farm.lua")
+
+addscriptuniversal("Roblox Universal Script [Graphic Enhancer]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Roblox%20Universal%20Script%20Graphic%20Enhancer.lua")
