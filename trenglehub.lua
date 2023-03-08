@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 17:45:57"
+lastupdate = "GMT +1: 08.03.2023 17:46:01"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -10646,3 +10646,5 @@ addscriptuniversal("Universal Join low player server", "pulled from rbxscript.co
 addscriptexist(8737602449, "PLS DONATE: Send Donation, Booth Text, Set Colour Text", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PLS%20DONATE%20Send%20Donation%20Booth%20Text%20Set%20Colour%20Text.lua")
 
 addscriptexist(6913960180, "Undertale Crazy Multiverse Timeline: Custom Character Editor", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Undertale%20Crazy%20Multiverse%20Timeline%20Custom%20Character%20Editor.lua")
+
+addscriptexist(6516141723, "DOORS: Spawn Rick Astley", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DOORS%20Spawn%20Rick%20Astley.lua")
