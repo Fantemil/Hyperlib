@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 15:00:25"
+lastupdate = "GMT +1: 08.03.2023 15:00:29"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -8400,3 +8400,5 @@ addscript(11379155384, "Current Game","+1 Jump Each Second: AutoWin", "pulled fr
 addscriptuniversal("Universal Red Simple Spy", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Red%20Simple%20Spy.lua")
 
 addscript(11402147065, "Current Game","Ragdoll Clicker: Auto Clicker, Auto Rebirth, Auto Win Distance", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ragdoll%20Clicker%20Auto%20Clicker%20Auto%20Rebirth%20Auto%20Win%20Distance.lua")
+
+addscriptexist(11402147065, "Ragdoll Clicker: Auto Click, Auto Farm, Auto Rebirth", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ragdoll%20Clicker%20Auto%20Click%20Auto%20Farm%20Auto%20Rebirth.lua")
