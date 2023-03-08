@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 12:47:59"
+lastupdate = "GMT +1: 08.03.2023 12:48:04"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -6632,3 +6632,5 @@ addscriptexist(2788229376, "Da Hood: Press Q to target Aim", "pulled from rbxscr
 addscriptexist(21532277, "Notoriety: Server Hop, Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Notoriety%20Server%20Hop%20Auto%20Farm.lua")
 
 addscript(11544568654, "Current Game","How Far Can You Slap? Auto Slap", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/How%20Far%20Can%20You%20Slap%20Auto%20Slap.lua")
+
+addscriptexist(5036207802, "RB Battles: Play a song inside of the game using secret piano", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RB%20Battles%20Play%20a%20song%20inside%20of%20the%20game%20using%20secret%20piano.lua")
