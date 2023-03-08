@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/DaRuthlessPWR/UNIVERSALPWRHUB/main/Script", true))()
