@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 14:35:02"
+lastupdate = "GMT +1: 08.03.2023 14:35:06"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -7716,3 +7716,5 @@ addscriptuniversal("Universal Detect Synapse Users", "pulled from rbxscript.com"
 addscriptexist(3956818381, "Ninja Legends: KOTH Farm, Auto Swing & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ninja%20Legends%20KOTH%20Farm%20Auto%20Swing%20%20More.lua")
 
 addscript(9236100787, "Current Game","TR HOOD: Kill Aura", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TR%20HOOD%20Kill%20Aura.lua")
+
+addscriptexist(3177438863, "Dragon Blox: Auto Transform, Auto Rebirth, Auto Kill Mobs", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Dragon%20Blox%20Auto%20Transform%20Auto%20Rebirth%20Auto%20Kill%20Mobs.lua")
