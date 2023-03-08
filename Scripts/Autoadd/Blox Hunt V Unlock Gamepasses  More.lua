@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/LynXzl/Scripts/main/Blox%20Hunt/Script.lua"))()
