@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 19:34:48"
+lastupdate = "GMT +1: 08.03.2023 19:34:53"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -13086,3 +13086,5 @@ addscriptexist(4860819035, "Plants vs Zombies Garden Problem: Inf Levels", "pull
 addscriptexist(8304191830, "Anime Adventures: Auto Farm, Auto Join", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime%20Adventures%20Auto%20Farm%20Auto%20Join.lua")
 
 addscript(10882998385, "Current Game","Endless Doors Beta: Overseer eye no dmg", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Endless%20Doors%20Beta%20Overseer%20eye%20no%20dmg.lua")
+
+addscriptexist(542016179, "Teethyz Dentist: Spam make appointments", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Teethyz%20Dentist%20Spam%20make%20appointments.lua")
