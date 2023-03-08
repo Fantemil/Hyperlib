@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 14:34:53"
+lastupdate = "GMT +1: 08.03.2023 14:34:58"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -7712,3 +7712,5 @@ addscriptexist(192800, "Work at a Pizza Place: Auto Farm Money and Cash", "pulle
 addscriptexist(2753915549, "Blox Fruits: Auto Farm Boss, Auto Farm Mobs & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blox%20Fruits%20Auto%20Farm%20Boss%20Auto%20Farm%20Mobs%20%20More.lua")
 
 addscriptuniversal("Universal Detect Synapse Users", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Detect%20Synapse%20Users.lua")
+
+addscriptexist(3956818381, "Ninja Legends: KOTH Farm, Auto Swing & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ninja%20Legends%20KOTH%20Farm%20Auto%20Swing%20%20More.lua")
