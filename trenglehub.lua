@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 20:54:33"
+lastupdate = "GMT +1: 08.03.2023 20:54:38"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -14584,3 +14584,5 @@ addscriptexist(6766156863, "Strongman Simulator [Anti Afk, AutoRebirth]", "pulle
 addscriptexist(5956785391, "Project Slayers [Auto Farm, Fish Farm, Inf stamina]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Project%20Slayers%20Auto%20Farm%20Fish%20Farm%20Inf%20stamina.lua")
 
 addscriptexist(6284583030, "Pet Simulator X [AutoFarm, AutoHatch]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pet%20Simulator%20X%20AutoFarm%20AutoHatch.lua")
+
+addscriptexist(9585537847, "SHADOVIS RPG [Collect All Cubits]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SHADOVIS%20RPG%20Collect%20All%20Cubits.lua")
