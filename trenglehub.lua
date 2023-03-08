@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 06:39:11"
+lastupdate = "GMT +1: 08.03.2023 06:39:15"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -4666,3 +4666,5 @@ addscriptexist(11156779721, "The Survival Game [BETA]: Kill Aura, Equipped Weapo
 addscriptexist(2753915549, "Blox Fruits: Attack delay switch", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blox%20Fruits%20Attack%20delay%20switch.lua")
 
 addscriptexist(6284583030, "Pet Simulator X: Anti X Stealer Logger", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pet%20Simulator%20X%20Anti%20X%20Stealer%20Logger.lua")
+
+addscriptexist(6403373529, "Slap Battles: Slap Aura, Killstreak Glove, Spam", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Slap%20Battles%20Slap%20Aura%20Killstreak%20Glove%20Spam.lua")
