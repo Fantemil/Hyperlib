@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 20:51:51"
+lastupdate = "GMT +1: 08.03.2023 20:51:55"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -14518,3 +14518,5 @@ addscriptexist(6284583030, "Pet Simulator X [AutoFarm, AutoEggs]", "pulled from 
 addscriptexist(10325366821, "OOF Tycoon! [AutoCollect OOFs]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OOF%20Tycoon%20AutoCollect%20OOFs.lua")
 
 addscriptexist(7714627632, "Winds of Fortune [Auto Farm, Food Store, Esp]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Winds%20of%20Fortune%20Auto%20Farm%20Food%20Store%20Esp.lua")
+
+addscriptexist(9551640993, "Mining Simulator 2 [BloxAura, AutoHatch]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mining%20Simulator%20%20BloxAura%20AutoHatch.lua")
