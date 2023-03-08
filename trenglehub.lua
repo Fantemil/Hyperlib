@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 18:54:54"
+lastupdate = "GMT +1: 08.03.2023 18:54:58"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -12216,3 +12216,5 @@ addscriptexist(6516141723, "DOORS: Jump Power, Walkspeed, ESP", "pulled from rbx
 addscriptexist(9872472334, "Evade: Auto Farm Wins, Walkspeed Boost, Fly", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Evade%20Auto%20Farm%20Wins%20Walkspeed%20Boost%20Fly.lua")
 
 addscriptexist(6516141723, "DOORS: Noclip, Instant Interact, Notifications", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DOORS%20Noclip%20Instant%20Interact%20Notifications.lua")
+
+addscriptexist(286090429, "Arsenal: Simple Hitbox Expander", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Arsenal%20Simple%20Hitbox%20Expander.lua")
