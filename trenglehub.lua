@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 13:04:50"
+lastupdate = "GMT +1: 08.03.2023 13:04:54"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -7050,3 +7050,5 @@ addscriptexist(11445923563, "One Fruit Simulator [BETA]: Auto Farm Level, Gorill
 addscript(11434115364, "Current Game","Merge Pet Simulator: Auto Merge", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Merge%20Pet%20Simulator%20Auto%20Merge.lua")
 
 addscriptexist(10028173768, "Queen Elizebeth Obby: Get All Gamepasses", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Queen%20Elizebeth%20Obby%20Get%20All%20Gamepasses.lua")
+
+addscriptexist(8054462345, "Michael's Zombies: Esp , Kill Aura, Auto Guns", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Michaels%20Zombies%20Esp%20%20Kill%20Aura%20Auto%20Guns.lua")
