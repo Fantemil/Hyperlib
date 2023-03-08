@@ -1,0 +1,1 @@
+   game:GetService("ReplicatedStorage").Remotes.To_Server.Handle_Initiate_S:FireServer("Sword_Combat_Slash", game.Players.LocalPlayer, game.Players.LocalPlaye.Character, game.Players.LocalPlaye.Character.HumanoidRootPart, game.Players.LocalPlaye.Character.Humanoid, 1, nil, nil, 99999)
