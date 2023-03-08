@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 20:35:54"
+lastupdate = "GMT +1: 08.03.2023 20:35:59"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -14122,3 +14122,5 @@ addscriptexist(2788229376, "Da Hood [Aimlock, Silent Aim]", "pulled from rbxscri
 addscriptuniversal("Roblox Universal Script [WalkOnWalls]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Roblox%20Universal%20Script%20WalkOnWalls.lua")
 
 addscriptexist(286090429, "Arsenal [Esp, Silent Aim]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Arsenal%20Esp%20Silent%20Aim.lua")
+
+addscriptexist(8540346411, "Rebirth Champions X [AutoSpin, AutoCraft]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Rebirth%20Champions%20X%20AutoSpin%20AutoCraft.lua")
