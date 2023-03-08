@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 13:07:41"
+lastupdate = "GMT +1: 08.03.2023 13:07:45"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -7124,3 +7124,5 @@ addscriptexist(10291129032, "Flappy Bird Race: Auto Rebirth, Anti Afk, Get Studs
 addscriptexist(1554960397, "Car Dealership Tycoon: Car Speed, Teleports, UltimateSpeedHack", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Car%20Dealership%20Tycoon%20Car%20Speed%20Teleports%20UltimateSpeedHack.lua")
 
 addscript(10175705301, "Current Game","Cant Say the Word: Server Crasher", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Cant%20Say%20the%20Word%20Server%20Crasher.lua")
+
+addscriptexist(8506369721, "dig to china: Farm Bomb", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/dig%20to%20china%20Farm%20Bomb.lua")
