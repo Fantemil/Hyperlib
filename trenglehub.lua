@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 18:11:32"
+lastupdate = "GMT +1: 08.03.2023 18:11:37"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -11284,3 +11284,5 @@ addscriptexist(2788229376, "Da Hood: Auto Stomp, Cash Aura, Teleports", "pulled 
 addscriptexist(5956785391, "Project Slayers: Autofarm, Teleports, KillAura", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Project%20Slayers%20Autofarm%20Teleports%20KillAura.lua")
 
 addscriptexist(7462526249, "NIKELAND: Get All ghosts", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NIKELAND%20Get%20All%20ghosts.lua")
+
+addscriptexist(2753915549, "Blox fruits: Autofarm level, Auto raid, Nring fruits", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blox%20fruits%20Autofarm%20level%20Auto%20raid%20Nring%20fruits.lua")
