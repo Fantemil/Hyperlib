@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 19:05:48"
+lastupdate = "GMT +1: 08.03.2023 19:05:52"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -12456,3 +12456,5 @@ addscriptexist(537413528, "Build A Boat For Treasure: Gold Auto Farm", "pulled f
 addscriptexist(2317712696, "The Wild West: No Recoil, Silent Aim, Esp", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/The%20Wild%20West%20No%20Recoil%20Silent%20Aim%20Esp.lua")
 
 addscriptexist(10675042838, "Lemonade Tycoon: Auto Farm, Auto Complete Game", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Lemonade%20Tycoon%20Auto%20Farm%20Auto%20Complete%20Game.lua")
+
+addscriptexist(1458767429, "ABA: Show Others Awakening", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ABA%20Show%20Others%20Awakening.lua")
