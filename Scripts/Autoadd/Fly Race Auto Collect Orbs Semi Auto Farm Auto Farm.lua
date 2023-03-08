@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Zockerhd01/Scripts/main/FlyRace"))()
