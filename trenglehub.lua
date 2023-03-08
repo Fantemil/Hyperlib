@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 17:41:10"
+lastupdate = "GMT +1: 08.03.2023 17:41:14"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -10524,3 +10524,5 @@ addscript(10070062081, "Current Game","Minion Simulator: Auto Collect, Auto Farm
 addscriptexist(10714365287, "Anime Race Clicker: Auto Hatch Eggs, Auto Equip Best, Auto Click", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime%20Race%20Clicker%20Auto%20Hatch%20Eggs%20Auto%20Equip%20Best%20Auto%20Click.lua")
 
 addscriptexist(2377868063, "Strucid: Makes skiders more powerfull", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Strucid%20Makes%20skiders%20more%20powerfull.lua")
+
+addscriptexist(2248408710, "Destruction Simulator: Auto Sell, Instant FIre, Fast Rocket", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Destruction%20Simulator%20Auto%20Sell%20Instant%20FIre%20Fast%20Rocket.lua")
