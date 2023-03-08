@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 07:07:14"
+lastupdate = "GMT +1: 08.03.2023 07:07:18"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -5526,3 +5526,5 @@ addscriptexist(9872472334, "Evade: Auto Win, Walkspeed, Inf Jumps", "pulled from
 addscript(11636534838, "Current Game","Every Second Your Neck Grows: Auto Grow", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Every%20Second%20Your%20Neck%20Grows%20Auto%20Grow.lua")
 
 addscriptexist(4924922222, "Brookhaven RP: Kill People", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Brookhaven%20RP%20Kill%20People.lua")
+
+addscriptexist(2414851778, "Dungeon Quest: Kill Aura, God Mode, Auto Sell", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Dungeon%20Quest%20Kill%20Aura%20God%20Mode%20Auto%20Sell.lua")
