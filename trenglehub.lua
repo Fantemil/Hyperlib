@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 13:19:09"
+lastupdate = "GMT +1: 08.03.2023 13:19:13"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -7420,3 +7420,5 @@ addscriptexist(2768379856, "3008: Select All, Esp , Esp Box", "pulled from rbxsc
 addscript(6191637341, "Current Game","Weapon Simulator 2: Auto Multi", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Weapon%20Simulator%20%20Auto%20Multi.lua")
 
 addscriptexist(7346416636, "Pop It Trading: Dupe Items by crashing the server", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pop%20It%20Trading%20Dupe%20Items%20by%20crashing%20the%20server.lua")
+
+addscriptuniversal("Universal Kidnap UI", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Kidnap%20UI.lua")
