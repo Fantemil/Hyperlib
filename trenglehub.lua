@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 18:00:46"
+lastupdate = "GMT +1: 08.03.2023 18:00:50"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -11016,3 +11016,5 @@ addscriptexist(8726743209, "Refinery Caves: Wood Sell Auto Farm, Delievery Auto 
 addhub("COCONUT HUB: 7 Games", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/COCONUT%20HUB%20%20Games.lua")
 
 addscriptexist(10903978962, "Sheep Tycoon: Auto Farm, Auto Sell, Teleports", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sheep%20Tycoon%20Auto%20Farm%20Auto%20Sell%20Teleports.lua")
+
+addhub("Universal Boombox Hub", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Boombox%20Hub.lua")
