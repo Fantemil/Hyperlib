@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 12:47:30"
+lastupdate = "GMT +1: 08.03.2023 12:47:34"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -6618,3 +6618,5 @@ addscript(5332805908, "Current Game","Build a Hideout and Sword Fight: Equip swo
 addscriptexist(4520749081, "King Legacy: Auto Skills, Teleports & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/King%20Legacy%20Auto%20Skills%20Teleports%20%20More.lua")
 
 addscriptexist(2788229376, "Da Hood: Chat Spy, Fly & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Da%20Hood%20Chat%20Spy%20Fly%20%20More.lua")
+
+addscriptuniversal("Universal Other Admin Panel Remake", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Other%20Admin%20Panel%20Remake.lua")
