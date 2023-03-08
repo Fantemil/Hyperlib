@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 06:52:42"
+lastupdate = "GMT +1: 08.03.2023 06:52:46"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -5084,3 +5084,5 @@ addscriptexist(6516141723, "DOORS: Skip Door, Auto Farm, Remove Walls", "pulled 
 addscript(3233893879, "Current Game","Bad Business: No Spread, Infinity Ammo, Silent Aim", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Bad%20Business%20No%20Spread%20Infinity%20Ammo%20Silent%20Aim.lua")
 
 addhub("Mops Hub: 11 Games", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mops%20Hub%20%20Games.lua")
+
+addscriptexist(11445923563, "ONE FRUIT: Auto Defense, Auto Open Crates, Auto Farm Selected", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ONE%20FRUIT%20Auto%20Defense%20Auto%20Open%20Crates%20Auto%20Farm%20Selected.lua")
