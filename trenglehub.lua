@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 12:44:47"
+lastupdate = "GMT +1: 08.03.2023 12:44:51"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -6542,3 +6542,5 @@ addhub("Chiezzy Hub: 10+ Games", "pulled from rbxscript.com", "https://raw.githu
 addscriptexist(10898965735, "Mine Racer: AutoFarm, AutoMine, Auto Rebirth", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mine%20Racer%20AutoFarm%20AutoMine%20Auto%20Rebirth.lua")
 
 addscriptexist(142823291, "Murder Mystery 2: Auto Farm, Godmode, Kill", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Murder%20Mystery%20%20Auto%20Farm%20Godmode%20Kill.lua")
+
+addscript(4793176968, "Current Game","Mano County Police Patrol: Kill All", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mano%20County%20Police%20Patrol%20Kill%20All.lua")
