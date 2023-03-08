@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 20:28:39"
+lastupdate = "GMT +1: 08.03.2023 20:28:45"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -13936,3 +13936,5 @@ addscriptexist(4954752502, "Tower of Misery [Auto Farm - God Mode - Kill Player 
 addscript(7606302010, "Current Game","YoYo Simulator! [GUI - Auto Yo-Yo, Auto Sell & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/YoYo%20Simulator%20GUI%20%20Auto%20YoYo%20Auto%20Sell%20%20More.lua")
 
 addscriptexist(7138009149, "PHIGHTING! [NPC Esp]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PHIGHTING%20NPC%20Esp.lua")
+
+addscriptexist(7138009149, "PHIGHTING! [Semi GodMode]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PHIGHTING%20Semi%20GodMode.lua")
