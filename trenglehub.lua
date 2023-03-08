@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 12:41:35"
+lastupdate = "GMT +1: 08.03.2023 12:41:39"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -6450,3 +6450,5 @@ addscriptexist(7952502098, "Impossible Glass Bridge Obby! See Correct Tile, Remo
 addscriptuniversal("Universal Noclip and Speed", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Noclip%20and%20Speed.lua")
 
 addscriptuniversal("Universal IICRRBII", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20IICRRBII.lua")
+
+addscriptexist(1554960397, "Car Dealership Tycoon: Christmas Event Candy Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Car%20Dealership%20Tycoon%20Christmas%20Event%20Candy%20Farm.lua")
