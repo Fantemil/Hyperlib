@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 18:52:20"
+lastupdate = "GMT +1: 08.03.2023 18:52:27"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -12162,3 +12162,5 @@ addscript(4787629450, "Current Game","Booga Booga: Kill Aura, Break Aura, Auto P
 addscriptexist(8726743209, "Refinery Caves: Esp Purple Tree", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Refinery%20Caves%20Esp%20Purple%20Tree.lua")
 
 addscriptexist(10804519995, "Ro Fruit: Auto Farm, Auto Buy Fruit, Auto Hit", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ro%20Fruit%20Auto%20Farm%20Auto%20Buy%20Fruit%20Auto%20Hit.lua")
+
+addscript(9662949425, "Current Game","Punch a brick wall simulator: Inf Money", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Punch%20a%20brick%20wall%20simulator%20Inf%20Money.lua")
