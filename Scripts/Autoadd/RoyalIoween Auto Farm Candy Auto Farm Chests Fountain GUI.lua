@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/NocturneMoDz/RoyalIoween/main/FrenchCanCan", true))()
