@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 19:29:31"
+lastupdate = "GMT +1: 08.03.2023 19:29:36"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -12966,3 +12966,5 @@ addscriptexist(9955279341, "Infinity Sea 2: Auto Spin Family", "pulled from rbxs
 addscriptexist(137885680, "Zombie Rush: Silent Aim, Esp, FOV", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Zombie%20Rush%20Silent%20Aim%20Esp%20FOV.lua")
 
 addscriptexist(5602055394, "Hood Modded: AimLock, Silent Aim & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Hood%20Modded%20AimLock%20Silent%20Aim%20%20More.lua")
+
+addscriptexist(2537430692, "Jenga: Walkspeed, Instant Win, Remove Killbrick", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Jenga%20Walkspeed%20Instant%20Win%20Remove%20Killbrick.lua")
