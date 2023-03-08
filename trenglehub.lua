@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 17:45:30"
+lastupdate = "GMT +1: 08.03.2023 17:45:37"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -10636,3 +10636,5 @@ addscript(9209100656, "Current Game","Mars Base Tycoon: Infinite Money", "pulled
 addscriptexist(10758955211, "Skydive Race Clicker: Get Badges, Get Speeds, Get Wins", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Skydive%20Race%20Clicker%20Get%20Badges%20Get%20Speeds%20Get%20Wins.lua")
 
 addscriptexist(8482713490, "Forgotten Memories: Notify Generators, Teleport Areas, Walkspeed bypass", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Forgotten%20Memories%20Notify%20Generators%20Teleport%20Areas%20Walkspeed%20bypass.lua")
+
+addscriptexist(4490140733, "My Restaurant: Auto shrine, Auto Fireplace & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/My%20Restaurant%20Auto%20shrine%20Auto%20Fireplace%20%20More.lua")
