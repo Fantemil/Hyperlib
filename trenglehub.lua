@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 06:46:46"
+lastupdate = "GMT +1: 08.03.2023 06:46:49"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -4902,3 +4902,5 @@ addscriptexist(11701792069, "Snow Plow Simulator: Infinite Snow", "pulled from r
 addscriptexist(3351674303, "Driving Empire: Event Auto Farm Slow, Event Auto Farm Fast, Anti Afk", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Driving%20Empire%20Event%20Auto%20Farm%20Slow%20Event%20Auto%20Farm%20Fast%20Anti%20Afk.lua")
 
 addscriptexist(6278885452, "Strong Katana Simulator: Auto Strenght", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Strong%20Katana%20Simulator%20Auto%20Strenght.lua")
+
+addscript(3226555017, "Current Game","SCP: Site Roleplay | Open doors, Spam Radio, Invisible", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SCP%20Site%20Roleplay%20%20Open%20doors%20Spam%20Radio%20Invisible.lua")
