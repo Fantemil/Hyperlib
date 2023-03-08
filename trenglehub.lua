@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 13:03:37"
+lastupdate = "GMT +1: 08.03.2023 13:03:41"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -7018,3 +7018,5 @@ addscript(10684709969, "Current Game","ShimmerVille RP: Find Presents Go to sant
 addscriptexist(6299805723, "Anime Fighters Simulator: Auto Click Damage, Auto Farm, Auto Open Eggs", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime%20Fighters%20Simulator%20Auto%20Click%20Damage%20Auto%20Farm%20Auto%20Open%20Eggs.lua")
 
 addhub("Lazium Hub: 15+ Games", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Lazium%20Hub%20%20Games.lua")
+
+addscriptexist(920587237, "Adopt Me: Back Flip, Front Flip, All Pets Neon or Fly or Rideable", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Adopt%20Me%20Back%20Flip%20Front%20Flip%20All%20Pets%20Neon%20or%20Fly%20or%20Rideable.lua")
