@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 20:53:24"
+lastupdate = "GMT +1: 08.03.2023 20:53:28"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -14556,3 +14556,5 @@ addscript(8818978508, "Current Game","Space Simulator Reborn [AutoClick, AutoHat
 addscriptexist(9733390246, "Stair Tappers [Auto Play]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Stair%20Tappers%20Auto%20Play.lua")
 
 addscriptexist(5490351219, "Clicker Madness [ Auto Click, Auto rebirth, Teleport]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Clicker%20Madness%20%20Auto%20Click%20Auto%20rebirth%20Teleport.lua")
+
+addscriptexist(2665326799, "Find The Button [Esp, Inf Jump]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Find%20The%20Button%20Esp%20Inf%20Jump.lua")
