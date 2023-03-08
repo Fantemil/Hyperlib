@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 12:41:39"
+lastupdate = "GMT +1: 08.03.2023 12:41:43"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -6452,3 +6452,5 @@ addscriptuniversal("Universal Noclip and Speed", "pulled from rbxscript.com", "h
 addscriptuniversal("Universal IICRRBII", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20IICRRBII.lua")
 
 addscriptexist(1554960397, "Car Dealership Tycoon: Christmas Event Candy Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Car%20Dealership%20Tycoon%20Christmas%20Event%20Candy%20Farm.lua")
+
+addscript(9541558008, "Current Game","Untitled FPS Game DEMO: Gun Mods", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Untitled%20FPS%20Game%20DEMO%20Gun%20Mods.lua")
