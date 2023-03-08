@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 18:33:37"
+lastupdate = "GMT +1: 08.03.2023 18:33:45"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -11788,3 +11788,5 @@ addscriptexist(10205046075, "Onslaught Public Dev Server: Gun Mod & Annoy Server
 addscript(3082002798, "Current Game","T-Titans Battlegrounds: Insta Kill, Hitbox, Auto Spawn", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TTitans%20Battlegrounds%20Insta%20Kill%20Hitbox%20Auto%20Spawn.lua")
 
 addscriptexist(10260193230, "Meme Sea: Teleport To Spawned Fruit", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Meme%20Sea%20Teleport%20To%20Spawned%20Fruit.lua")
+
+addscriptexist(13822889, "Lumber Tycoon 2: Spook Wood Finder", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Lumber%20Tycoon%20%20Spook%20Wood%20Finder.lua")
