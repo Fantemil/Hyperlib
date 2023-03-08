@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 12:31:41"
+lastupdate = "GMT +1: 08.03.2023 12:31:45"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -6176,3 +6176,5 @@ addscriptexist(1962086868, "Tower Of Hell: AntiCheat Bypasser", "pulled from rbx
 addscript(10918081103, "Current Game","Killstreak Chaos: Slap Aura", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Killstreak%20Chaos%20Slap%20Aura.lua")
 
 addscriptexist(6422372837, "Snipers [BETA]: Silent Aim & Player Highlight Esp", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Snipers%20BETA%20Silent%20Aim%20%20Player%20Highlight%20Esp.lua")
+
+addscriptexist(192800, "Work At A Pizza Place: Sing Script & Chat Hide Method", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Work%20At%20A%20Pizza%20Place%20Sing%20Script%20%20Chat%20Hide%20Method.lua")
