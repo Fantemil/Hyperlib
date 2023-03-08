@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 18:24:29"
+lastupdate = "GMT +1: 08.03.2023 18:24:33"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -11600,3 +11600,5 @@ addscriptexist(10710676163, "SPTS Origin: Auto Farm, Kill All, Auto Death Farm",
 addscriptexist(10714365287, "Anime Racing Clicker: Unlock Worlds, Auto Click, Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime%20Racing%20Clicker%20Unlock%20Worlds%20Auto%20Click%20Auto%20Farm.lua")
 
 addscriptexist(10447678365, "Dinosaur Simulator: Kill Aura", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Dinosaur%20Simulator%20Kill%20Aura.lua")
+
+addscriptexist(2116002761, "Afton's Family Diner: Unlock All", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Aftons%20Family%20Diner%20Unlock%20All.lua")
