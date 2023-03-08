@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 20:38:17"
+lastupdate = "GMT +1: 08.03.2023 20:38:21"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -14184,3 +14184,5 @@ addscriptexist(5041144419, "SCP: Roleplay [Escape Facility, KillAura]", "pulled 
 addscriptexist(10087074695, "Knife Strife! [Insta Kill]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Knife%20Strife%20Insta%20Kill.lua")
 
 addscriptexist(3351674303, "Driving Empire [AutoFarm, Auto Race]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Driving%20Empire%20AutoFarm%20Auto%20Race.lua")
+
+addscriptuniversal("Roblox Universal Script [RemoteSpy]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Roblox%20Universal%20Script%20RemoteSpy.lua")
