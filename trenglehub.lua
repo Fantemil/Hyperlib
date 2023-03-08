@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 13:10:50"
+lastupdate = "GMT +1: 08.03.2023 13:10:54"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -7208,3 +7208,5 @@ addscript(10674065190, "Current Game","Clicker Run!: Auto Farm", "pulled from rb
 addscriptexist(8069117419, "Demon Soul Simulator: Stat Changer Gui", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Demon%20Soul%20Simulator%20Stat%20Changer%20Gui.lua")
 
 addscript(4806026225, "Current Game","Defenders Depot - Tower Defense: Crate Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Defenders%20Depot%20%20Tower%20Defense%20Crate%20Auto%20Farm.lua")
+
+addscript(10914197474, "Current Game","Killstreak Test: Free Admin", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Killstreak%20Test%20Free%20Admin.lua")
