@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 19:01:13"
+lastupdate = "GMT +1: 08.03.2023 19:01:18"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -12358,3 +12358,5 @@ addhub("LOAKS HUB: 12 Games Support", "pulled from rbxscript.com", "https://raw.
 addscriptexist(6447798030, "Funky Friday: Points AutoFarm, Boss AutoFarm, Anti Afk", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Funky%20Friday%20Points%20AutoFarm%20Boss%20AutoFarm%20Anti%20Afk.lua")
 
 addscriptexist(8726743209, "Refinery Caves: Teleporter", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Refinery%20Caves%20Teleporter.lua")
+
+addscriptexist(23578803, "Hotel Elephant: Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Hotel%20Elephant%20Auto%20Farm.lua")
