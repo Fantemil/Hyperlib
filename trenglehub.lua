@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 14:29:54"
+lastupdate = "GMT +1: 08.03.2023 14:30:00"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -7584,3 +7584,5 @@ addscriptexist(6191637341, "Weapon Simulator 2: Auto Farm Power", "pulled from r
 addscript(338521019, "Current Game","Identity Fraud: Anticheat bypass, Remove Doors", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Identity%20Fraud%20Anticheat%20bypass%20Remove%20Doors.lua")
 
 addscriptexist(11302865934, "Every Second You Get +1 Health: Auto Win, Auto Regen Healt, Auto Rebirth", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Every%20Second%20You%20Get%20%20Health%20Auto%20Win%20Auto%20Regen%20Healt%20Auto%20Rebirth.lua")
+
+addscriptexist(6447798030, "Funky Friday: Auto Collect Event Rings", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Funky%20Friday%20Auto%20Collect%20Event%20Rings.lua")
