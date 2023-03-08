@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 12:52:03"
+lastupdate = "GMT +1: 08.03.2023 12:52:08"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -6720,3 +6720,5 @@ addscriptexist(2788229376, "Da Hood: Snowball Gattling Gun", "pulled from rbxscr
 addscriptexist(11561748530, "Glide Race: Get Max 1M Power, Boost FPS, Server Hop", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Glide%20Race%20Get%20Max%20M%20Power%20Boost%20FPS%20Server%20Hop.lua")
 
 addscript(9894044804, "Current Game","Blade Simulator: Auto Swing, Auto Sell, Auto Sell With Delay", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blade%20Simulator%20Auto%20Swing%20Auto%20Sell%20Auto%20Sell%20With%20Delay.lua")
+
+addscript(5804394780, "Current Game","raise a monke! Auto Click, Auto Collect Money, Auto Buy Food", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/raise%20a%20monke%20Auto%20Click%20Auto%20Collect%20Money%20Auto%20Buy%20Food.lua")
