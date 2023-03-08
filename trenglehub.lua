@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 17:06:11"
+lastupdate = "GMT +1: 08.03.2023 17:06:17"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -9630,3 +9630,5 @@ addscriptexist(6403373529, "Slap Battles: Faster brick placement For Trap", "pul
 addscriptexist(10972284553, "Skala Simulator: Auto Clicker", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Skala%20Simulator%20Auto%20Clicker.lua")
 
 addscriptexist(6679968919, "Fly Race: Auto Race, Auto Collect Orb, Auto Rebirth", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Fly%20Race%20Auto%20Race%20Auto%20Collect%20Orb%20Auto%20Rebirth.lua")
+
+addscriptexist(10758111998, "2019 Booga Booga [REBORN]: Hide Name, Hide Health, Auto Build", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/%20Booga%20Booga%20REBORN%20Hide%20Name%20Hide%20Health%20Auto%20Build.lua")
