@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 19:16:26"
+lastupdate = "GMT +1: 08.03.2023 19:16:30"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -12680,3 +12680,5 @@ addscriptuniversal("Roblox: Chat bot", "pulled from rbxscript.com", "https://raw
 addscriptexist(4872321990, "Islands: buy pineapple seeds", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Islands%20buy%20pineapple%20seeds.lua")
 
 addscript(5226151131, "Current Game","Undertale: Multiverse Chaos | Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Undertale%20Multiverse%20Chaos%20%20Auto%20Farm.lua")
+
+addscriptexist(10085978574, "My Little Pony: Visit Maretime Bay | Auto Farm Gems", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/My%20Little%20Pony%20Visit%20Maretime%20Bay%20%20Auto%20Farm%20Gems.lua")
