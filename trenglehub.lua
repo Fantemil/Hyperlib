@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 17:12:26"
+lastupdate = "GMT +1: 08.03.2023 17:12:33"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -9792,3 +9792,5 @@ addscriptexist(3652625463, "Lifting Simulator: Auto Farm, Buy Gui", "pulled from
 addscriptexist(9551640993, "Mining Simulator 2: Auto Sell, XRay & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mining%20Simulator%20%20Auto%20Sell%20XRay%20%20More.lua")
 
 addscriptexist(9772878203, "Raise A Floppa 2: Auto Pet Floppa, Auto Click Floppa & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Raise%20A%20Floppa%20%20Auto%20Pet%20Floppa%20Auto%20Click%20Floppa%20%20More.lua")
+
+addscript(7044096177, "Current Game","The Obby Elevator: Auto Farm Levels, Auto Farm Coins, Get Badges", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/The%20Obby%20Elevator%20Auto%20Farm%20Levels%20Auto%20Farm%20Coins%20Get%20Badges.lua")
