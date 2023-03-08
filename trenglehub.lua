@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 19:14:47"
+lastupdate = "GMT +1: 08.03.2023 19:14:52"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -12642,3 +12642,5 @@ addscriptexist(10087074695, "Knife Strife: Loop Kill All, Auto Farm", "pulled fr
 addscriptexist(10631181587, "Stone Miner Simulator 2: Free Battle Pass Egg", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Stone%20Miner%20Simulator%20%20Free%20Battle%20Pass%20Egg.lua")
 
 addscriptexist(4639625707, "Oil Warfare Tycoon: Gun Mods, Player Mods & More!", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Oil%20Warfare%20Tycoon%20Gun%20Mods%20Player%20Mods%20%20More.lua")
+
+addscript(9763056316, "Current Game","Eastern Front Military War Simulator: Op Guns - No Recoil & Infinite Ammo", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Eastern%20Front%20Military%20War%20Simulator%20Op%20Guns%20%20No%20Recoil%20%20Infinite%20Ammo.lua")
