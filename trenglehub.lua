@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 06:44:22"
+lastupdate = "GMT +1: 08.03.2023 06:44:25"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -4826,3 +4826,5 @@ addscriptexist(1537690962, "Bee Swarm Simulator: Auto Farm, Auto Buy & More", "p
 addscriptexist(5602055394, "Hood Modded: Auto Toxic, Fake Macro, Aimlock", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Hood%20Modded%20Auto%20Toxic%20Fake%20Macro%20Aimlock.lua")
 
 addscriptexist(1554960397, "Car Dealership Tycoon: Auto Race, Custom Car speed, Teleport", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Car%20Dealership%20Tycoon%20Auto%20Race%20Custom%20Car%20speed%20Teleport.lua")
+
+addscriptexist(5865858426, "Retail Tycoon 2: Auto Buy, Purchase Delay, Item To Buy", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Retail%20Tycoon%20%20Auto%20Buy%20Purchase%20Delay%20Item%20To%20Buy.lua")
