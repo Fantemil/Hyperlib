@@ -1,0 +1,1 @@
+loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/danixbo/idk/main/Strongest%20Tapper%20Simulator%20%5BNEW!%5D"))()
