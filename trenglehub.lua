@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 14:26:56"
+lastupdate = "GMT +1: 08.03.2023 14:27:00"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -7510,3 +7510,5 @@ addscriptexist(7722306047, "Pet Simulator X: Auto Buy Eggs, Unlock Gamepasses, O
 addscriptexist(11495830780, "Dunking Race: Auto Crowns Farm, Auto Shoes Farm, Auto Eggs", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Dunking%20Race%20Auto%20Crowns%20Farm%20Auto%20Shoes%20Farm%20Auto%20Eggs.lua")
 
 addscript(10900677021, "Current Game","Killstreak Sword Fighting BETA: Auto Farm Glacier Location", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Killstreak%20Sword%20Fighting%20BETA%20Auto%20Farm%20Glacier%20Location.lua")
+
+addscript(5343994291, "Current Game","Outlaster: Clue Finder", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Outlaster%20Clue%20Finder.lua")
