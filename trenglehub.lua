@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 18:08:34"
+lastupdate = "GMT +1: 08.03.2023 18:08:38"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -11212,3 +11212,5 @@ addscriptexist(9993529229, "Counter Blox: Remastered: Kill All", "pulled from rb
 addscriptexist(9848789324, "Ragdoll Engine: Anti Ragdoll, Anti Fling, Walkspeed", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ragdoll%20Engine%20Anti%20Ragdoll%20Anti%20Fling%20Walkspeed.lua")
 
 addscriptexist(10710676163, "SPTS : Origin: Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SPTS%20%20Origin%20Auto%20Farm.lua")
+
+addscriptexist(8726743209, "Refinery Caves: Auto Sell Ores", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Refinery%20Caves%20Auto%20Sell%20Ores.lua")
