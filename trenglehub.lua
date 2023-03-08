@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 12:30:16"
+lastupdate = "GMT +1: 08.03.2023 12:30:21"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -6136,3 +6136,5 @@ addscript(4195834406, "Current Game","Dragon Ball Online Generations: Auto Colle
 addscript(6222531507, "Current Game","CHESS: Free Skin", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CHESS%20Free%20Skin.lua")
 
 addscriptexist(286090429, "Arsenal: Silent Aim, FOV, ESP", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Arsenal%20Silent%20Aim%20FOV%20ESP.lua")
+
+addscriptexist(6161747775, "Pirate Clash: Hitbox, NoReload", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pirate%20Clash%20Hitbox%20NoReload.lua")
