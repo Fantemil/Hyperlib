@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 07:02:48"
+lastupdate = "GMT +1: 08.03.2023 07:02:54"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -5388,3 +5388,5 @@ addscriptexist(6741970382, "Zombie lab: Kill All, Godmode, Super Gun", "pulled f
 addscriptexist(11302865934, "Every Second You Get +1 Health: Auto Rebirth, Auto Win", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Every%20Second%20You%20Get%20%20Health%20Auto%20Rebirth%20Auto%20Win.lua")
 
 addscriptuniversal("Universal Webhook Spammer", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Webhook%20Spammer.lua")
+
+addscript(6441847031, "Current Game","CHAOS: Fly, Infinity Yield & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CHAOS%20Fly%20Infinity%20Yield%20%20More.lua")
