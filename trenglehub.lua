@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 12:44:34"
+lastupdate = "GMT +1: 08.03.2023 12:44:39"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -6536,3 +6536,5 @@ addscriptexist(9798463281, "Cube Combination: Infinite reach, basically Click TP
 addscriptexist(4651779470, "RECOIL: Inf Ammo, Auto Guns, Instant Reload", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RECOIL%20Inf%20Ammo%20Auto%20Guns%20Instant%20Reload.lua")
 
 addscriptexist(147848991, "Be A Parkour Ninja: Kunai Tools, Bomb Tools, Hitbox", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Be%20A%20Parkour%20Ninja%20Kunai%20Tools%20Bomb%20Tools%20Hitbox.lua")
+
+addhub("Chiezzy Hub: 10+ Games", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Chiezzy%20Hub%20%20Games.lua")
