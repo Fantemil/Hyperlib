@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 12:46:34"
+lastupdate = "GMT +1: 08.03.2023 12:46:38"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -6592,3 +6592,5 @@ addscriptexist(6422372837, "Snipers [BETA]: Silent Aim, No Shot Cooldown & More!
 addscriptexist(11547613362, "Anime Fly Race: Auto Chi Getter", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime%20Fly%20Race%20Auto%20Chi%20Getter.lua")
 
 addscript(4246487209, "Current Game","Boss Fighting Simulator: Auto Clicker", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Boss%20Fighting%20Simulator%20Auto%20Clicker.lua")
+
+addscript(7535149098, "Current Game","Space Tycoon: Op Cash & Gem Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Space%20Tycoon%20Op%20Cash%20%20Gem%20Farm.lua")
