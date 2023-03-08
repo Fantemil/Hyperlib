@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 15:03:30"
+lastupdate = "GMT +1: 08.03.2023 15:03:34"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -8480,3 +8480,5 @@ addscriptexist(5977280685, "Ninja Legends: Autofarm, Autocollect All Hoops, Auto
 addscriptexist(9825515356, "Hood Customs: Press E to Lock/Unlock", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Hood%20Customs%20Press%20E%20to%20LockUnlock.lua")
 
 addscriptexist(4954752502, "Tower of Misery: Auto Farm Gems", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tower%20of%20Misery%20Auto%20Farm%20Gems.lua")
+
+addscriptexist(9579228669, "Everyday Car Driving: Auto Farm, Get Gamepass Cars", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Everyday%20Car%20Driving%20Auto%20Farm%20Get%20Gamepass%20Cars.lua")
