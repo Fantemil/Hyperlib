@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 13:01:07"
+lastupdate = "GMT +1: 08.03.2023 13:01:11"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -6954,3 +6954,5 @@ addscript(4519672226, "Current Game","Egg Clicker: Auto Click, Auto Lvl Up, Auto
 addscriptexist(8540346411, "Rebirth Champions X: Auto collect presents , auto farm , auto open eggs", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Rebirth%20Champions%20X%20Auto%20collect%20presents%20%20auto%20farm%20%20auto%20open%20eggs.lua")
 
 addscriptexist(1599679393, "Pet Simulator: Unlock all, Teleport, Max Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pet%20Simulator%20Unlock%20all%20Teleport%20Max%20Farm.lua")
+
+addscriptexist(10598587051, "Anime Clicker Fight: Fast Click, WalkSpeed.", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime%20Clicker%20Fight%20Fast%20Click%20WalkSpeed.lua")
