@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 12:57:20"
+lastupdate = "GMT +1: 08.03.2023 12:57:23"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -6858,3 +6858,5 @@ addhub("Universal Game Loader", "pulled from rbxscript.com", "https://raw.github
 addscriptexist(286090429, "Arsenal: Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Arsenal%20Auto%20Farm.lua")
 
 addscriptexist(11040063484, "Sword Fighters Simulator: WalkSpeed, JumpPower, AutoClick", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sword%20Fighters%20Simulator%20WalkSpeed%20JumpPower%20AutoClick.lua")
+
+addscript(2745661925, "Current Game","Jump Over The Walls: Bring Winning Stands", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Jump%20Over%20The%20Walls%20Bring%20Winning%20Stands.lua")
