@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 18:26:38"
+lastupdate = "GMT +1: 08.03.2023 18:26:42"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -11654,3 +11654,5 @@ addscriptexist(8554378337, "Weapon Fighting Simulator: Player ESP, Auto Grind Bo
 addscriptexist(298400657, "Dragon Ball Final Remastered: Auto farm zeni, Shadow, Power level", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Dragon%20Ball%20Final%20Remastered%20Auto%20farm%20zeni%20Shadow%20Power%20level.lua")
 
 addscriptexist(9941633436, "Rank Simulator: Free Upgrades", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Rank%20Simulator%20Free%20Upgrades.lua")
+
+addscriptexist(9498006165, "Tapping Simulator: Click Tp, Infinity Jump, Player ESP", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tapping%20Simulator%20Click%20Tp%20Infinity%20Jump%20Player%20ESP.lua")
