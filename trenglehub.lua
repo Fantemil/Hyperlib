@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 12:28:21"
+lastupdate = "GMT +1: 08.03.2023 12:28:25"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -6082,3 +6082,5 @@ addscriptexist(4508456371, "Shortest Answer Wins: Teleport To VIP", "pulled from
 addscriptexist(7239319209, "Ohio: Autofarm, Aimbot, Kill Aura", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ohio%20Autofarm%20Aimbot%20Kill%20Aura.lua")
 
 addscriptexist(7180042682, "Military Tycoon: Presents Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Military%20Tycoon%20Presents%20Auto%20Farm.lua")
+
+addscriptuniversal("Universal Animation Spy v1", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Animation%20Spy%20v.lua")
