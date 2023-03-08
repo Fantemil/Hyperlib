@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 19:30:53"
+lastupdate = "GMT +1: 08.03.2023 19:30:58"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -12996,3 +12996,5 @@ addscriptexist(6284583030, "Pet Simulator X: Auto Farm Area, Teleports & More", 
 addscriptexist(292439477, "Phantom Forces: Silent Aim, Aimbot & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Phantom%20Forces%20Silent%20Aim%20Aimbot%20%20More.lua")
 
 addscript(6922573010, "Current Game","Soccer Legends: Instant Win, Teleport To Blue Goal, Hit Ball Aura", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Soccer%20Legends%20Instant%20Win%20Teleport%20To%20Blue%20Goal%20Hit%20Ball%20Aura.lua")
+
+addscriptexist(3527629287, "BIG Paintball: Esp, Fly, Aimbot", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BIG%20Paintball%20Esp%20Fly%20Aimbot.lua")
