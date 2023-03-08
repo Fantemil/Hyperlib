@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 15:01:54"
+lastupdate = "GMT +1: 08.03.2023 15:01:58"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -8440,3 +8440,5 @@ addscriptexist(5777099015, "Cheese Escape: Get Cheese, TP in key and door, Spam 
 addscriptuniversal("Universal Lib Loader", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Lib%20Loader.lua")
 
 addscriptexist(23578803, "Hotel Elephant: Admin V1, Infinite Money, Ruin Server", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Hotel%20Elephant%20Admin%20V%20Infinite%20Money%20Ruin%20Server.lua")
+
+addscript(10622006440, "Current Game","Hyper Realistic Csgo Guns: Skin Changer", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Hyper%20Realistic%20Csgo%20Guns%20Skin%20Changer.lua")
