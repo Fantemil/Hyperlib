@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/JumbleBumble/Scripts/main/StrongNinjaSimulatorGUI.lua",true))()
