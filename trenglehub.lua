@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 16:59:14"
+lastupdate = "GMT +1: 08.03.2023 16:59:22"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -9458,3 +9458,5 @@ addscriptexist(9498006165, "Ballistic Hub", "pulled from rbxscript.com", "https:
 addscriptexist(8884433153, "Collect All Pets: Auto Claim Quests, Auto Claim All Hidden Pets", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Collect%20All%20Pets%20Auto%20Claim%20Quests%20Auto%20Claim%20All%20Hidden%20Pets.lua")
 
 addscriptexist(3398014311, "Restaurant Tycoon 2: Player Instant Cook", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Restaurant%20Tycoon%20%20Player%20Instant%20Cook.lua")
+
+addscriptexist(6679968919, "Fly Race: Auto Rebirth, Auto Go Farthest, Buy Egg", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Fly%20Race%20Auto%20Rebirth%20Auto%20Go%20Farthest%20Buy%20Egg.lua")
