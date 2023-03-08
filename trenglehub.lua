@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 14:25:09"
+lastupdate = "GMT +1: 08.03.2023 14:25:13"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -7462,3 +7462,5 @@ addscriptexist(6447798030, "Funky Friday: Points Farm, WinStreak Farm Left, WinS
 addscriptexist(4787647409, "Blacksite Zeta: Gun Mods, Teleports, Fly Speed", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blacksite%20Zeta%20Gun%20Mods%20Teleports%20Fly%20Speed.lua")
 
 addscriptexist(2534724415, "Emergency Response: Liberty County: Infinity Accuracy, No Recoil, Get Gun", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Emergency%20Response%20Liberty%20County%20Infinity%20Accuracy%20No%20Recoil%20Get%20Gun.lua")
+
+addscriptexist(6447798030, "Funky Friday: Reedem codes, WalkSpeed, Auto Play", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Funky%20Friday%20Reedem%20codes%20WalkSpeed%20Auto%20Play.lua")
