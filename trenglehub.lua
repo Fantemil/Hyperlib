@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 16:44:48"
+lastupdate = "GMT +1: 08.03.2023 16:44:54"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -9092,3 +9092,5 @@ addscriptexist(4872321990, "Islands: God mode", "pulled from rbxscript.com", "ht
 addscriptexist(8377686524, "Classic Undertale: Last Reset: Player | Server Craher, God mode", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Classic%20Undertale%20Last%20Reset%20Player%20%20Server%20Craher%20God%20mode.lua")
 
 addscriptexist(9324584537, "The Island: Inf Money", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/The%20Island%20Inf%20Money.lua")
+
+addscriptexist(8377686524, "Classic Undertale: Last Reset: UTMM Weapons", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Classic%20Undertale%20Last%20Reset%20UTMM%20Weapons.lua")
