@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 06:53:37"
+lastupdate = "GMT +1: 08.03.2023 06:53:41"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -5112,3 +5112,5 @@ addscriptexist(8908228901, "Sharkbite 2: Safe Auto Farm, Gun Mods, ESP", "pulled
 addscriptexist(2753915549, "Blox Fruits: Autofarm, Auto Quest, Fly", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blox%20Fruits%20Autofarm%20Auto%20Quest%20Fly.lua")
 
 addscriptexist(537413528, "Build A Boat For Treasure: Morph Chicken, Morph Fox, Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Build%20A%20Boat%20For%20Treasure%20Morph%20Chicken%20Morph%20Fox%20Auto%20Farm.lua")
+
+addscriptexist(2788229376, "Da Hood: Fly, Headless, Korblox", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Da%20Hood%20Fly%20Headless%20Korblox.lua")
