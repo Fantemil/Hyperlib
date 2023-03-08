@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 12:23:44"
+lastupdate = "GMT +1: 08.03.2023 12:23:48"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -5962,3 +5962,5 @@ addscript(7294000494, "Current Game","Craftwars Knockoff: Auto Ore Farm, Auto Fa
 addscriptuniversal("Universal Vehicle Fly", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Vehicle%20Fly.lua")
 
 addscriptexist(1224212277, "Mad City: Chapter 2: Crates Teleport", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mad%20City%20Chapter%20%20Crates%20Teleport.lua")
+
+addscriptexist(1458767429, "ABA: Webhook, Server Hop, Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ABA%20Webhook%20Server%20Hop%20Auto%20Farm.lua")
