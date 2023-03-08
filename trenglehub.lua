@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 14:36:40"
+lastupdate = "GMT +1: 08.03.2023 14:36:45"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -7758,3 +7758,5 @@ addscriptexist(2753915549, "Fly Race: Auto Collect, Auto Laps, Auto Rebirth", "p
 addscriptuniversal("Universal ESP Tracers", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20ESP%20Tracers.lua")
 
 addscriptuniversal("Universal BTools, Kill, Ragdoll", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20BTools%20Kill%20Ragdoll.lua")
+
+addscript(8267733039, "Current Game","Specter 2: Full Bright, Select A zone, Auto Delect Ghost Orbs", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Specter%20%20Full%20Bright%20Select%20A%20zone%20Auto%20Delect%20Ghost%20Orbs.lua")
