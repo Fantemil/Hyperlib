@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 18:17:00"
+lastupdate = "GMT +1: 08.03.2023 18:17:12"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -11418,3 +11418,5 @@ addscriptexist(9285238704, "Race Clicker: Auto Farm Wins, Anit AFK, FOV", "pulle
 addscriptexist(7560156054, "Clicker Simulator: Auto Сlick, Auto Eggs, Auto Buy Jumps", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Clicker%20Simulator%20Auto%20%D0%A1lick%20Auto%20Eggs%20Auto%20Buy%20Jumps.lua")
 
 addscriptexist(6403373529, "Slap Battles: Candy Farm, Auto Cliecker, Invis", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Slap%20Battles%20Candy%20Farm%20Auto%20Cliecker%20Invis.lua")
+
+addscriptexist(8540346411, "Rebirth Champions X: Auto Click, Auto Hatch", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Rebirth%20Champions%20X%20Auto%20Click%20Auto%20Hatch.lua")
