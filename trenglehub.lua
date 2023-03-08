@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 14:36:58"
+lastupdate = "GMT +1: 08.03.2023 14:37:02"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -7766,3 +7766,5 @@ addscriptexist(6403373529, "Slap Battles: Serverhop Auto Farm", "pulled from rbx
 addscriptexist(5036207802, "RB Battles!: Coin Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RB%20Battles%20Coin%20Auto%20Farm.lua")
 
 addscriptexist(6772424226, "2 Player Millionaire Tycoon: Infinity Money", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/%20Player%20Millionaire%20Tycoon%20Infinity%20Money.lua")
+
+addscriptexist(7722306047, "Pet Simulator X: Auto Farm Coins, Auto Hatch Eggs, Auto Craft", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pet%20Simulator%20X%20Auto%20Farm%20Coins%20Auto%20Hatch%20Eggs%20Auto%20Craft.lua")
