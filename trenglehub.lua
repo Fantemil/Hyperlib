@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 15:08:23"
+lastupdate = "GMT +1: 08.03.2023 15:08:27"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -8608,3 +8608,5 @@ addscriptexist(443406476, "Project Lazarus: Infinity Ammo, Infinity Clip, One Hi
 addscriptexist(9414511685, "Drive Cars Down A Hill: Auto Farm, Teleports, Walkspeed and Jump power changer", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Drive%20Cars%20Down%20A%20Hill%20Auto%20Farm%20Teleports%20Walkspeed%20and%20Jump%20power%20changer.lua")
 
 addscriptexist(60654525, "The Legendary Swords RPG: Give Sun Axe, Give Fire Blade, Infinity Gold", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/The%20Legendary%20Swords%20RPG%20Give%20Sun%20Axe%20Give%20Fire%20Blade%20Infinity%20Gold.lua")
+
+addhub("FlexuTek Hub: Hubs, Animation scripts, Admins scripts", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FlexuTek%20Hub%20Hubs%20Animation%20scripts%20Admins%20scripts.lua")
