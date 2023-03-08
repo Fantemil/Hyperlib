@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 12:58:52"
+lastupdate = "GMT +1: 08.03.2023 12:58:56"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -6898,3 +6898,5 @@ addscriptexist(286090429, "Arsenal: Overpowered Auto Farm, Kill Everyone In The 
 addscript(11534222714, "Current Game","Attack On Titan: Freedom War: Auto Kill Titans, Infinite Damage", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Attack%20On%20Titan%20Freedom%20War%20Auto%20Kill%20Titans%20Infinite%20Damage.lua")
 
 addscriptexist(3233893879, "Bad Business: Auto Frag", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Bad%20Business%20Auto%20Frag.lua")
+
+addscriptexist(11179373590, "Broken Bones 5: Infinite Money, Fast Xp", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Broken%20Bones%20%20Infinite%20Money%20Fast%20Xp.lua")
