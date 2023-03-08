@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 17:16:15"
+lastupdate = "GMT +1: 08.03.2023 17:16:22"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -9892,3 +9892,5 @@ addscriptexist(292439477, "Phantom Forces: Geolocation Lootbox Restriction Bypas
 addscriptexist(5956785391, "Project Slayers: Auto Farm, Kill Aura, Inf Stamina & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Project%20Slayers%20Auto%20Farm%20Kill%20Aura%20Inf%20Stamina%20%20More.lua")
 
 addscriptexist(2788229376, "Da Hood: Multiple Scripts", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Da%20Hood%20Multiple%20Scripts.lua")
+
+addscriptexist(537413528, "Build A Boat For Treasure: Op Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Build%20A%20Boat%20For%20Treasure%20Op%20Auto%20Farm.lua")
