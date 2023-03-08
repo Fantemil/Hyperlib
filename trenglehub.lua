@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 20:25:24"
+lastupdate = "GMT +1: 08.03.2023 20:25:28"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -13848,3 +13848,5 @@ addscriptexist(5602055394, "Hood Modded | Spin, Esp, Tp", "pulled from rbxscript
 addscriptexist(5987922834, "Transfur Outbreak! | Aimbot, Visuals, AutoRejoin", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Transfur%20Outbreak%20%20Aimbot%20Visuals%20AutoRejoin.lua")
 
 addscript(9361614975, "Current Game","My City Tycoon | Auto Click, Auto Oby, Clicker", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/My%20City%20Tycoon%20%20Auto%20Click%20Auto%20Oby%20Clicker.lua")
+
+addscriptexist(9361614975, "My City Tycoon | Auto Obby, AutoClick", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/My%20City%20Tycoon%20%20Auto%20Obby%20AutoClick.lua")
