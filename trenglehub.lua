@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 13:18:37"
+lastupdate = "GMT +1: 08.03.2023 13:18:41"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -7406,3 +7406,5 @@ addscriptexist(3177438863, "Dragon Blox: Steal Loot, Always Hit, Auto Quests", "
 addscriptexist(7305309231, "Taxi Boss: Auto Open Presents", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Taxi%20Boss%20Auto%20Open%20Presents.lua")
 
 addscriptuniversal("Universal Unic Gui", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Unic%20Gui.lua")
+
+addscriptexist(1537690962, "Bee Swarm Simulator: Auto Farm, Auto Quest, Auto Stinger", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Bee%20Swarm%20Simulator%20Auto%20Farm%20Auto%20Quest%20Auto%20Stinger.lua")
