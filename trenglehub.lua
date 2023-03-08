@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 17:21:48"
+lastupdate = "GMT +1: 08.03.2023 17:21:52"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -10032,3 +10032,5 @@ addhub("Unfair Hub: 40+ Games Supported", "pulled from rbxscript.com", "https://
 addscriptexist(6516141723, "DOORS: Screech Every 15 Seconds, ESP, Player Mods", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DOORS%20Screech%20Every%20%20Seconds%20ESP%20Player%20Mods.lua")
 
 addscriptexist(9872472334, "Evade: Click TP, Teleports, Infinity Jump", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Evade%20Click%20TP%20Teleports%20Infinity%20Jump.lua")
+
+addscript(10963175, "Current Game","Game Store Tycoon: Give Yourself 10k, Walkspeed, Teleports", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Game%20Store%20Tycoon%20Give%20Yourself%20k%20Walkspeed%20Teleports.lua")
