@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 19:19:33"
+lastupdate = "GMT +1: 08.03.2023 19:19:38"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -12754,3 +12754,5 @@ addscriptexist(10895555747, "Walmart Land: Get tokens, Fling People, Rejoin", "p
 addscriptexist(7177496972, "Anime Warriors: Auto Farm, Auto Skills, Auto Replay", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime%20Warriors%20Auto%20Farm%20Auto%20Skills%20Auto%20Replay.lua")
 
 addscriptuniversal("Universal GUI: Very smooth animations", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20GUI%20Very%20smooth%20animations.lua")
+
+addscriptexist(10895555747, "Walmart Land: Infinite Tokens Methond 1", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Walmart%20Land%20Infinite%20Tokens%20Methond%20.lua")
