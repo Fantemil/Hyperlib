@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 12:44:00"
+lastupdate = "GMT +1: 08.03.2023 12:44:05"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -6520,3 +6520,5 @@ addscriptexist(370731277, "MeepCity: Free Gamepasses, Silent Aim, Unlimited Buck
 addscriptexist(10030740606, "Sweets obby! No Cheat Detect, Server Shutdown, Get All Tools", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sweets%20obby%20No%20Cheat%20Detect%20Server%20Shutdown%20Get%20All%20Tools.lua")
 
 addscript(6048370697, "Current Game","Snowballer: Auto Farm Show, Auto Sell, Auto Farm-Gummies", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Snowballer%20Auto%20Farm%20Show%20Auto%20Sell%20Auto%20FarmGummies.lua")
+
+addscript(11495830780, "Current Game","Dunking Simulator: Auto Dunk, Auto Open Eggs, Auto Collect Boosts", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Dunking%20Simulator%20Auto%20Dunk%20Auto%20Open%20Eggs%20Auto%20Collect%20Boosts.lua")
