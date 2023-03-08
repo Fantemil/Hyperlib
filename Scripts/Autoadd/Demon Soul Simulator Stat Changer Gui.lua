@@ -1,0 +1,2 @@
+-- Guide on how to safely access the key: https://www.youtube.com/watch?v=yhQH2TkeH80
+loadstring(game:HttpGet('https://raw.githubusercontent.com/big-balla-script-maka/free-scripts/main/DemonSoulSim.lua'))()
