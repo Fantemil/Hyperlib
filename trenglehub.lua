@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 20:43:05"
+lastupdate = "GMT +1: 08.03.2023 20:43:09"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -14304,3 +14304,5 @@ addscriptexist(3956818381, "Ninja Legends [Auto Clicker]", "pulled from rbxscrip
 addscriptexist(286090429, "Arsenal [Non FE Dev Skins]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Arsenal%20Non%20FE%20Dev%20Skins.lua")
 
 addscriptexist(2788229376, "Evade [Optimize utillities]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Evade%20Optimize%20utillities.lua")
+
+addscriptexist(8204899140, "Football Fusion 2 [Auto Captain, AutoJump]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Football%20Fusion%20%20Auto%20Captain%20AutoJump.lua")
