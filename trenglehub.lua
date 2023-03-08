@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 16:55:59"
+lastupdate = "GMT +1: 08.03.2023 16:56:04"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -9372,3 +9372,5 @@ addscriptexist(2788229376, "Da Hood: Anti Lock", "pulled from rbxscript.com", "h
 addscriptexist(2537430692, "Jenga: Instant Win, Remove Kill Brick, Fates Admin", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Jenga%20Instant%20Win%20Remove%20Kill%20Brick%20Fates%20Admin.lua")
 
 addscriptexist(445664957, "Parkour: God Mode", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Parkour%20God%20Mode.lua")
+
+addscript(9832066570, "Current Game","Tower Battles: Defensive Holds | Gun Mods", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tower%20Battles%20Defensive%20Holds%20%20Gun%20Mods.lua")
