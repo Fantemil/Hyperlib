@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 21:01:41"
+lastupdate = "GMT +1: 08.03.2023 21:01:45"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -14764,3 +14764,5 @@ addscriptexist(621129760, "Knife Ability Test [Aimbot]", "pulled from rbxscript.
 addscriptexist(10087074695, "Knife Strife! [All Knives]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Knife%20Strife%20All%20Knives.lua")
 
 addscriptexist(147848991, "Be A Parkour Ninja [Silent Aim, Esp]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Be%20A%20Parkour%20Ninja%20Silent%20Aim%20Esp.lua")
+
+addscript(9863691914, "Current Game","Backrooms Morphs [Kill All Players, NPCs", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Backrooms%20Morphs%20Kill%20All%20Players%20NPCs.lua")
