@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 20:11:22"
+lastupdate = "GMT +1: 08.03.2023 20:11:26"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -13472,3 +13472,5 @@ addscriptexist(286090429, "Arsenal (Bolts Hub Upd) | Silent Aim, KillAll, Instan
 addscriptexist(185655149, "Welcome to Bloxburg | AutoFarm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Welcome%20to%20Bloxburg%20%20AutoFarm.lua")
 
 addscriptexist(9284097280, "Apartment Tycoon | AutoBuy, AutoCollect, Fly", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Apartment%20Tycoon%20%20AutoBuy%20AutoCollect%20Fly.lua")
+
+addscript(10447882390, "Current Game","Zombie Research Tycoon | AutoCollect, AutoBuy, AutoMine", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Zombie%20Research%20Tycoon%20%20AutoCollect%20AutoBuy%20AutoMine.lua")
