@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 19:18:35"
+lastupdate = "GMT +1: 08.03.2023 19:18:41"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -12732,3 +12732,5 @@ addscriptexist(10085978574, "My Little Pony Visit Maretime Bay: Quest Farm, Coll
 addscriptexist(8232438881, "Thief Simulator: Auto Farm Npc, Buy Tools & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Thief%20Simulator%20Auto%20Farm%20Npc%20Buy%20Tools%20%20More.lua")
 
 addscriptexist(2788229376, "Da Hood: Silent Aim, AimLock", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Da%20Hood%20Silent%20Aim%20AimLock.lua")
+
+addscriptexist(6536647319, "Slayers Unleashed: Unlock All, Executor", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Slayers%20Unleashed%20Unlock%20All%20Executor.lua")
