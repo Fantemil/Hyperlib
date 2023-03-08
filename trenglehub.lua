@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 19:39:05"
+lastupdate = "GMT +1: 08.03.2023 19:39:10"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -13176,3 +13176,5 @@ addscriptexist(2580982329, "Texting Simulator: AutoFarm", "pulled from rbxscript
 addscriptexist(3351674303, "Driving Empire: AutoFarm, Jumppower, Antiafk", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Driving%20Empire%20AutoFarm%20Jumppower%20Antiafk.lua")
 
 addscriptexist(2753915549, "Blox Fruits | GUI - Auto Saber, Auto Farm & More!", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blox%20Fruits%20%20GUI%20%20Auto%20Saber%20Auto%20Farm%20%20More.lua")
+
+addscriptexist(2753915549, "Blox Fruits | GUI - Auto Farm Level, Auto New World & More!", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blox%20Fruits%20%20GUI%20%20Auto%20Farm%20Level%20Auto%20New%20World%20%20More.lua")
