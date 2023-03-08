@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 06:53:09"
+lastupdate = "GMT +1: 08.03.2023 06:53:14"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -5098,3 +5098,5 @@ addscriptexist(3527629287, "Big Paintball: Click TP, Walkspeed, Jump Power", "pu
 addscriptexist(3226555017, "SCP: Site Roleplay | Hitbox Expander", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SCP%20Site%20Roleplay%20%20Hitbox%20Expander.lua")
 
 addscriptexist(5602055394, "Hood Modded: Auto stomp, Kill auro, Aura Stomp", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Hood%20Modded%20Auto%20stomp%20Kill%20auro%20Aura%20Stomp.lua")
+
+addscript(10710676163, "Current Game","SPTS : Origin: ESP, Fly, Auto Use Fists", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SPTS%20%20Origin%20ESP%20Fly%20Auto%20Use%20Fists.lua")
