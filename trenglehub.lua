@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 17:47:38"
+lastupdate = "GMT +1: 08.03.2023 17:47:41"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -10688,3 +10688,5 @@ addscriptexist(6516141723, "DOORS: Fullbright, Headlight, ESP for practically ev
 addscript(10291185772, "Current Game","Fantasy Town Tycoon: Infinity Coins", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Fantasy%20Town%20Tycoon%20Infinity%20Coins.lua")
 
 addscriptexist(4872321990, "Islands: Seed Farm, Auto Harvest, Auto Plant", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Islands%20Seed%20Farm%20Auto%20Harvest%20Auto%20Plant.lua")
+
+addscriptexist(4866692557, "Age of Heroes: Mob Auto Farm, Orb Auto Farm, Auto Stats", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Age%20of%20Heroes%20Mob%20Auto%20Farm%20Orb%20Auto%20Farm%20Auto%20Stats.lua")
