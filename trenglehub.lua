@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 06:57:13"
+lastupdate = "GMT +1: 08.03.2023 06:57:16"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -5220,3 +5220,5 @@ addscriptexist(920587237, "Adopt Me: Pet Auto Farm, Auto Neon & More", "pulled f
 addscriptexist(292439477, "Phantom Forces: CPU Limiter, ESP, No Fall Damage", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Phantom%20Forces%20CPU%20Limiter%20ESP%20No%20Fall%20Damage.lua")
 
 addscript(4714308751, "Current Game","Defend The Train BETA: Best Server Lagger", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Defend%20The%20Train%20BETA%20Best%20Server%20Lagger.lua")
+
+addscript(4927429832, "Current Game","Wonder Woman: The Themyscira Experience: Auto Get Shovel, Auto Farm Treasures & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Wonder%20Woman%20The%20Themyscira%20Experience%20Auto%20Get%20Shovel%20Auto%20Farm%20Treasures%20%20More.lua")
