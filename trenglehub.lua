@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 18:27:45"
+lastupdate = "GMT +1: 08.03.2023 18:27:51"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -11684,3 +11684,5 @@ addscriptexist(9666226803, "Motel Simulator: Auto Cook, Cook Once, Instant Inter
 addscriptexist(8726743209, "Refinery Caves: Tp Waypoint, WalkSpeed,WalkJump", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Refinery%20Caves%20Tp%20Waypoint%20WalkSpeedWalkJump.lua")
 
 addscriptexist(3260590327, "Tower Defense Simulator: Auto Collect Razors", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tower%20Defense%20Simulator%20Auto%20Collect%20Razors.lua")
+
+addscriptuniversal("Universal Synapse V3", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Synapse%20V.lua")
