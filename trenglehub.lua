@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 19:30:08"
+lastupdate = "GMT +1: 08.03.2023 19:30:13"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -12980,3 +12980,5 @@ addscriptexist(142823291, "Murder Mystery 2: Status Game, Auto Farm", "pulled fr
 addscriptexist(185655149, "Welcome to Bloxburg: Script Collection", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Welcome%20to%20Bloxburg%20Script%20Collection.lua")
 
 addscriptexist(292439477, "Phantom Forces: Semi-Hitbox Extender Heads", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Phantom%20Forces%20SemiHitbox%20Extender%20Heads.lua")
+
+addscriptexist(536102540, "DBZ Final Stand: Auto Stats, Earth God Mode", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DBZ%20Final%20Stand%20Auto%20Stats%20Earth%20God%20Mode.lua")
