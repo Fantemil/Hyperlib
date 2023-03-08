@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 07:15:19"
+lastupdate = "GMT +1: 08.03.2023 07:15:22"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -5772,3 +5772,5 @@ addscriptexist(11040063484, "Sword Fighters Simulator: Auto Dungeon & More!", "p
 addscriptexist(11040063484, "Sword Fighting Simulator: Auto Farm & More!", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sword%20Fighting%20Simulator%20Auto%20Farm%20%20More.lua")
 
 addscriptexist(6590798593, "Waterloo at home: Self God Mode, Targetting Features, Server Trolling", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Waterloo%20at%20home%20Self%20God%20Mode%20Targetting%20Features%20Server%20Trolling.lua")
+
+addscriptexist(7863262550, "FOBLOX: Equip Any Gun, Godmode, Hitboxes", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FOBLOX%20Equip%20Any%20Gun%20Godmode%20Hitboxes.lua")
