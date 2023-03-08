@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 14:57:01"
+lastupdate = "GMT +1: 08.03.2023 14:57:05"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -8306,3 +8306,5 @@ addscript(10006876110, "Current Game","FortBlox Battle Royale: Skin Unlocker", "
 addscriptexist(8737602449, "PLS DONATE: Auto Beg, Auto Thanks, Walkspeed Slider", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PLS%20DONATE%20Auto%20Beg%20Auto%20Thanks%20Walkspeed%20Slider.lua")
 
 addhub("Facts Hub: 41 Games", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Facts%20Hub%20%20Games.lua")
+
+addscriptexist(10106105124, "Wheat Farming Simulator: Teleports, Auto Sell, Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Wheat%20Farming%20Simulator%20Teleports%20Auto%20Sell%20Auto%20Farm.lua")
