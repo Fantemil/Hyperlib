@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 16:49:20"
+lastupdate = "GMT +1: 08.03.2023 16:49:24"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -9204,3 +9204,5 @@ addscriptexist(8884334497, "Mining Clicker Simulator: Auto Claim Rewards, Auto C
 addscript(6764302962, "Current Game","Junk Simulator: Auto Mine, Auto Claim Treasure, Auto Sell", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Junk%20Simulator%20Auto%20Mine%20Auto%20Claim%20Treasure%20Auto%20Sell.lua")
 
 addscriptexist(10723695195, "Anime Evolution Simulator: Auto Rank Up, Auto Train Power, Auto Collect Drops", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime%20Evolution%20Simulator%20Auto%20Rank%20Up%20Auto%20Train%20Power%20Auto%20Collect%20Drops.lua")
+
+addscriptexist(9281034297, "Goal Kick Simulator: Auto Kick, Auto Rebirth, Auto Upgrade", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Goal%20Kick%20Simulator%20Auto%20Kick%20Auto%20Rebirth%20Auto%20Upgrade.lua")
