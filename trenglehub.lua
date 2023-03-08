@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 07:12:20"
+lastupdate = "GMT +1: 08.03.2023 07:12:23"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -5682,3 +5682,5 @@ addscriptuniversal("Universal Fire all RemoteEvents in ReplicatedStorage", "pull
 addscriptuniversal("Universal chat filter issues message", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20chat%20filter%20issues%20message.lua")
 
 addscriptuniversal("Posx: Most Advanced Teleport Generator", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Posx%20Most%20Advanced%20Teleport%20Generator.lua")
+
+addscriptexist(8540346411, "Rebirth Champions X: Auto Collect presents, Auto click, Auto rebirth,", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Rebirth%20Champions%20X%20Auto%20Collect%20presents%20Auto%20click%20Auto%20rebirth.lua")
