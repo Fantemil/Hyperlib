@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 20:18:50"
+lastupdate = "GMT +1: 08.03.2023 20:18:54"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -13672,3 +13672,5 @@ addscriptexist(8146731988, "Ultra Power Tycoon | Auto Collect, AutoBuy, Walkspee
 addscriptexist(6608498361, "cursed tank simulator | KillAll Tanks", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/cursed%20tank%20simulator%20%20KillAll%20Tanks.lua")
 
 addscript(8894888083, "Current Game","Pinata Legends | Infinity Gems and Coins", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pinata%20Legends%20%20Infinity%20Gems%20and%20Coins.lua")
+
+addscriptexist(9992339729, "Longest Answer Wins | Infinity Blocks", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Longest%20Answer%20Wins%20%20Infinity%20Blocks.lua")
