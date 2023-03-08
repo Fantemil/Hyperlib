@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 15:17:46"
+lastupdate = "GMT +1: 08.03.2023 15:17:50"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -8862,3 +8862,5 @@ addscriptexist(537413528, "Build A Boat For Treasure: Autobuyer, Codes Redeemer,
 addscriptuniversal("Universal R15 Full NPC Control", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20R%20Full%20NPC%20Control.lua")
 
 addscriptexist(1662219031, "Life in Paradise: Lag Server", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Life%20in%20Paradise%20Lag%20Server.lua")
+
+addscriptuniversal("Universal Audio Destroyer", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Audio%20Destroyer.lua")
