@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 14:56:36"
+lastupdate = "GMT +1: 08.03.2023 14:56:40"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -8296,3 +8296,5 @@ addscriptexist(11563572312, "Ultimate Magnet Simulator: Infinity Money", "pulled
 addscriptuniversal("Universal Silent Aim, ESP Boxes, No Recoil", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Silent%20Aim%20ESP%20Boxes%20No%20Recoil.lua")
 
 addscriptuniversal("Universal Automatically Report Bot", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Automatically%20Report%20Bot.lua")
+
+addscriptexist(662417684, "LUCKY BLOCKS Battlegrounds: Open Galaxy Block, Open Rainbow Block, Super Human", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LUCKY%20BLOCKS%20Battlegrounds%20Open%20Galaxy%20Block%20Open%20Rainbow%20Block%20Super%20Human.lua")
