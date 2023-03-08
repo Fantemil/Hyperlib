@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 19:25:27"
+lastupdate = "GMT +1: 08.03.2023 19:25:35"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -12878,3 +12878,5 @@ addscriptexist(10675066724, "Slime Tower Tycoon: Auto Obby, Auto Collect, Auto M
 addscriptexist(6751371363, "Hood Duels: Aimlock", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Hood%20Duels%20Aimlock.lua")
 
 addscriptexist(10895555747, "Walmart Land: Inf Tokens", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Walmart%20Land%20Inf%20Tokens.lua")
+
+addscriptexist(183364845, "Speed Run 4: Unlock lvls", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Speed%20Run%20%20Unlock%20lvls.lua")
