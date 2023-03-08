@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 17:34:16"
+lastupdate = "GMT +1: 08.03.2023 17:34:20"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -10350,3 +10350,5 @@ addscriptexist(9993529229, "Counter Blox: Remastered | Fast Get Knifes", "pulled
 addscript(7569324314, "Current Game","Naruto Roleplay: Kill People, Crash Server, Ear Rape", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Naruto%20Roleplay%20Kill%20People%20Crash%20Server%20Ear%20Rape.lua")
 
 addscriptexist(2039118386, "Neighborhood war: Simple Silent Aim", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Neighborhood%20war%20Simple%20Silent%20Aim.lua")
+
+addscript(8232438881, "Current Game","Thief Simulator: Free Rebirths", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Thief%20Simulator%20Free%20Rebirths.lua")
