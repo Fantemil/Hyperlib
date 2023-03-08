@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 20:55:46"
+lastupdate = "GMT +1: 08.03.2023 20:55:51"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -14616,3 +14616,5 @@ addscriptexist(10047913840, "Training Simulator [AutoLift, AutoRebirth]", "pulle
 addscriptuniversal("Roblox Universal Script [Cmds Bar]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Roblox%20Universal%20Script%20Cmds%20Bar.lua")
 
 addscript(3458435516, "Current Game","Limited Simulator 2 [AutoBuy]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Limited%20Simulator%20%20AutoBuy.lua")
+
+addscriptexist(142823291, "Murder Mystery 2 [KillAura, Godmode]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Murder%20Mystery%20%20KillAura%20Godmode.lua")
