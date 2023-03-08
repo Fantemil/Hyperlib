@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 18:57:48"
+lastupdate = "GMT +1: 08.03.2023 18:57:54"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -12278,3 +12278,5 @@ addscriptexist(9414511685, "Drive Down Cars a Hill: Auto Farm, Manual Money Farm
 addscript(4996049426, "Current Game","All Star Tower Defense: Auto Unit Upgrade", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/All%20Star%20Tower%20Defense%20Auto%20Unit%20Upgrade.lua")
 
 addscriptexist(10439295403, "Anime Champions: Auto Farm, Auto Quest", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime%20Champions%20Auto%20Farm%20Auto%20Quest.lua")
+
+addscriptexist(9662949425, "Punch a brick wall simulator: Infinite Money", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Punch%20a%20brick%20wall%20simulator%20Infinite%20Money.lua")
