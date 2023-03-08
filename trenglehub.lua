@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 17:55:52"
+lastupdate = "GMT +1: 08.03.2023 17:55:57"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -10890,3 +10890,5 @@ addscriptexist(2413927524, "The Rake REMASTERED: Infinity Stamina, No Jumpscares
 addscriptexist(9264596435, "Idle Heroes Simulator: Auto Farm, Auto Reroll Passive & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Idle%20Heroes%20Simulator%20Auto%20Farm%20Auto%20Reroll%20Passive%20%20More.lua")
 
 addscript(5108587039, "Current Game","Palm Ridge Beta: Auto Farm Race, Click TP, Free Gamepasses", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Palm%20Ridge%20Beta%20Auto%20Farm%20Race%20Click%20TP%20Free%20Gamepasses.lua")
+
+addscript(10447678365, "Current Game","Dinosaur Simulator: Teleports, Kill Aura, Walkspeed", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Dinosaur%20Simulator%20Teleports%20Kill%20Aura%20Walkspeed.lua")
