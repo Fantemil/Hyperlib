@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 20:56:43"
+lastupdate = "GMT +1: 08.03.2023 20:56:48"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -14640,3 +14640,5 @@ addscriptexist(9049840490, "Sonic Speed Simulator [AutoRun, AutoRebrith]", "pull
 addhub("Roblox [RICE HUB]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Roblox%20RICE%20HUB.lua")
 
 addscript(394846350, "Current Game","Jump Simulator [Auto Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Jump%20Simulator%20Auto%20Farm.lua")
+
+addscriptexist(7655745946, "Dunking Simulator [Inf Spins, Bust Cash]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Dunking%20Simulator%20Inf%20Spins%20Bust%20Cash.lua")
