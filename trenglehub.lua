@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 20:28:19"
+lastupdate = "GMT +1: 08.03.2023 20:28:23"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -13926,3 +13926,5 @@ addscriptexist(8130299583, "Trident Survival [GUI - Esp, Aimbot & More!]", "pull
 addscriptexist(10106105124, "Wheat Farming Simulator [Spawn Any Mythical Pet]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Wheat%20Farming%20Simulator%20Spawn%20Any%20Mythical%20Pet.lua")
 
 addscriptexist(5130598377, "A Universal Time [Godmode, AutoShardsFarm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/A%20Universal%20Time%20Godmode%20AutoShardsFarm.lua")
+
+addscriptexist(9744954014, "THA HOOD!!! [Walkspeed, Godmode]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/THA%20HOOD%20Walkspeed%20Godmode.lua")
