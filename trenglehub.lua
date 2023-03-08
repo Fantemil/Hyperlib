@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 17:58:10"
+lastupdate = "GMT +1: 08.03.2023 17:58:14"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -10952,3 +10952,5 @@ addscriptexist(8482713490, "Forgotten Memories: Full Bright, Esp, FOV", "pulled 
 addscriptexist(6708206173, "Rate My Avatar: Auto Snipe Booth, Auto Snipe Knight & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Rate%20My%20Avatar%20Auto%20Snipe%20Booth%20Auto%20Snipe%20Knight%20%20More.lua")
 
 addscriptexist(2753915549, "Blox Fruits: Auto Farm Level, Auto Farm Mastery, Auto Farm Bosses & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blox%20Fruits%20Auto%20Farm%20Level%20Auto%20Farm%20Mastery%20Auto%20Farm%20Bosses%20%20More.lua")
+
+addscriptexist(8908228901, "SharkBite 2: Kill Aura, Freeze All, Teeth Generator", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SharkBite%20%20Kill%20Aura%20Freeze%20All%20Teeth%20Generator.lua")
