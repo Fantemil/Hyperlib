@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 16:55:46"
+lastupdate = "GMT +1: 08.03.2023 16:55:51"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -9366,3 +9366,5 @@ addscriptexist(443406476, "Project Lazarus Zombies: Infinite Damage - Always Hea
 addscriptexist(5865858426, "Retail Tycoon 2: Free Avatar Item", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Retail%20Tycoon%20%20Free%20Avatar%20Item.lua")
 
 addscriptexist(2788229376, "Da Hood: Click Q To Aimlock On A Target", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Da%20Hood%20Click%20Q%20To%20Aimlock%20On%20A%20Target.lua")
+
+addscriptexist(2788229376, "Da Hood: Anti Lock", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Da%20Hood%20Anti%20Lock.lua")
