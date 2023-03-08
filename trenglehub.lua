@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 17:12:18"
+lastupdate = "GMT +1: 08.03.2023 17:12:22"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -9788,3 +9788,5 @@ addscript(9625096419, "Current Game","Tapper Simulator: AutoHatch, Auto Rebirth,
 addscript(9328724748, "Current Game","Crypto Tycoon: Auto Exchange, Auto Click, NFT Sniper", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Crypto%20Tycoon%20Auto%20Exchange%20Auto%20Click%20NFT%20Sniper.lua")
 
 addscriptexist(3652625463, "Lifting Simulator: Auto Farm, Buy Gui", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Lifting%20Simulator%20Auto%20Farm%20Buy%20Gui.lua")
+
+addscriptexist(9551640993, "Mining Simulator 2: Auto Sell, XRay & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mining%20Simulator%20%20Auto%20Sell%20XRay%20%20More.lua")
