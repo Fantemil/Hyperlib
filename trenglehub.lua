@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 12:34:12"
+lastupdate = "GMT +1: 08.03.2023 12:34:15"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -6244,3 +6244,5 @@ addscriptexist(9798463281, "Cube Combination: Auto Bridge", "pulled from rbxscri
 addscriptexist(2788229376, "Da Hood: Teleports, Combat, Character", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Da%20Hood%20Teleports%20Combat%20Character.lua")
 
 addscript(5002210114, "Current Game","Kitty: Press R to attack", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Kitty%20Press%20R%20to%20attack.lua")
+
+addscriptexist(901793731, "D-DAY: Gun Mod", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DDAY%20Gun%20Mod.lua")
