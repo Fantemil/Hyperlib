@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 18:16:01"
+lastupdate = "GMT +1: 08.03.2023 18:16:05"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -11394,3 +11394,5 @@ addscript(9030362964, "Current Game","Field Goal Simulator: Auto Kick, Perfect K
 addscript(9506026642, "Current Game","Reaper Clicker: Auto Clicker, Infinity Jump, Auto Egg", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Reaper%20Clicker%20Auto%20Clicker%20Infinity%20Jump%20Auto%20Egg.lua")
 
 addscriptexist(3823850583, "Street Simulator: Farm MOney", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Street%20Simulator%20Farm%20MOney.lua")
+
+addscriptexist(13822889, "Lumber Tycoon 2: Teleport To Closest Spook, Server Hop & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Lumber%20Tycoon%20%20Teleport%20To%20Closest%20Spook%20Server%20Hop%20%20More.lua")
