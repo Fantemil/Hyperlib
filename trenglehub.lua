@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 17:43:10"
+lastupdate = "GMT +1: 08.03.2023 17:43:15"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -10576,3 +10576,5 @@ addscript(3823850583, "Current Game","Street Simulator: Auto Farm Small and Bigg
 addscriptexist(6913960180, "Undertale Crazy Multiverse Timeline: Simple Auto Farm GUI", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Undertale%20Crazy%20Multiverse%20Timeline%20Simple%20Auto%20Farm%20GUI.lua")
 
 addscriptexist(286090429, "Arsenal: Aimbot, ESP, Gun Mods", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Arsenal%20Aimbot%20ESP%20Gun%20Mods.lua")
+
+addscript(10758955211, "Current Game","Skydive Race Clicker: Auto Farm Speeds, Auto Farm Wins", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Skydive%20Race%20Clicker%20Auto%20Farm%20Speeds%20Auto%20Farm%20Wins.lua")
