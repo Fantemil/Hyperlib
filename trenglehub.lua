@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 17:53:40"
+lastupdate = "GMT +1: 08.03.2023 17:53:45"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -10836,3 +10836,5 @@ addscriptexist(8737602449, "PLS DONATE: Steal Booth Text GUI", "pulled from rbxs
 addscriptexist(2727067538, "World // Zero: Dodge 1 Shot Event Boss Mechanics", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/World%20%20Zero%20Dodge%20%20Shot%20Event%20Boss%20Mechanics.lua")
 
 addscriptexist(183364845, "Speed Run 4: Tp lvl", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Speed%20Run%20%20Tp%20lvl.lua")
+
+addscriptexist(8482713490, "Forgotten Memories: Teleport Buttons", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Forgotten%20Memories%20Teleport%20Buttons.lua")
