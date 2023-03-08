@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 20:15:26"
+lastupdate = "GMT +1: 08.03.2023 20:15:30"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -13584,3 +13584,5 @@ addscriptexist(537413528, "Build A Boat For Treasure | GUI - Auto Farm, Utilites
 addscriptexist(142823291, "Murder Mystery 2 | GUI - God Mode, Kill Aura & More!", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Murder%20Mystery%20%20%20GUI%20%20God%20Mode%20Kill%20Aura%20%20More.lua")
 
 addhub("EzScripts HUB | 5 Games", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/EzScripts%20HUB%20%20%20Games.lua")
+
+addscriptexist(8750997647, "Tapping Legends X | GUI - Auto Click, Auto Rebirth & More!", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tapping%20Legends%20X%20%20GUI%20%20Auto%20Click%20Auto%20Rebirth%20%20More.lua")
