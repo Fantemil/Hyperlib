@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 06:54:51"
+lastupdate = "GMT +1: 08.03.2023 06:54:55"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -5150,3 +5150,5 @@ addscript(5715080538, "Current Game","Red vs Blue Gun Battle: Press E to Kill Al
 addscriptexist(10742364019, "EGOIST: Aimbot", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/EGOIST%20Aimbot.lua")
 
 addscriptexist(6728870912, "World of Stands: Auto Farm Npc, Auto Use Skills, Auto Farm All Npc's", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/World%20of%20Stands%20Auto%20Farm%20Npc%20Auto%20Use%20Skills%20Auto%20Farm%20All%20Npcs.lua")
+
+addscript(10030740606, "Current Game","Sweets obby! Auto Complete, Anti Detect, Remove Kill Bricks", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sweets%20obby%20Auto%20Complete%20Anti%20Detect%20Remove%20Kill%20Bricks.lua")
