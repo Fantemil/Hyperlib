@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 19:00:35"
+lastupdate = "GMT +1: 08.03.2023 19:00:39"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -12344,3 +12344,5 @@ addscriptexist(9498006165, "Tapping Simulator: Auto Tap, Auto Rebirth, Auto Eggs
 addhub("Hydra Hub Ui Lib", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Hydra%20Hub%20Ui%20Lib.lua")
 
 addscriptexist(2753915549, "Blox Fruits: Fruit Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blox%20Fruits%20Fruit%20Farm.lua")
+
+addscriptexist(2753915549, "Blox Fruits: Gold Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blox%20Fruits%20Gold%20Auto%20Farm.lua")
