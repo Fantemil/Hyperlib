@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 06:52:00"
+lastupdate = "GMT +1: 08.03.2023 06:52:04"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -5062,3 +5062,5 @@ addscriptexist(537413528, "Build A Boat For Treasure: Auto Build, Save Build, Lo
 addscriptuniversal("Universal function environment spy", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20function%20environment%20spy.lua")
 
 addscriptexist(2788229376, "Da Hood: Fly, Aimlock, Silent AIm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Da%20Hood%20Fly%20Aimlock%20Silent%20AIm.lua")
+
+addscriptexist(11895850995, "Viet Pirates X: Auto Spawn Fruit, Auto Drop Fruit, Infinity Bell", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Viet%20Pirates%20X%20Auto%20Spawn%20Fruit%20Auto%20Drop%20Fruit%20Infinity%20Bell.lua")
