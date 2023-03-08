@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 06:38:39"
+lastupdate = "GMT +1: 08.03.2023 06:38:45"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -4654,3 +4654,5 @@ addscriptexist(8054462345, "Michael's Zombies: Knife Kill Aura, Zombies Esp & Mo
 addscriptexist(11874473440, "Car Factory Tycoon: Teleports, Auto Sell, Auto Build", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Car%20Factory%20Tycoon%20Teleports%20Auto%20Sell%20Auto%20Build.lua")
 
 addscriptexist(537413528, "Build A Boat For Treasure: Auto Farm, No Water Damage, Walkspeed", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Build%20A%20Boat%20For%20Treasure%20Auto%20Farm%20No%20Water%20Damage%20Walkspeed.lua")
+
+addscriptexist(8131063774, "Shattered Psycho Online: Chest Auto Farm With Server Hop", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Shattered%20Psycho%20Online%20Chest%20Auto%20Farm%20With%20Server%20Hop.lua")
