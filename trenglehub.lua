@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 15:08:55"
+lastupdate = "GMT +1: 08.03.2023 15:08:59"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -8624,3 +8624,5 @@ addscriptexist(10652184030, "Jump Clicker: Anti Afk, Auto Rebirth, Auto Race", "
 addscriptuniversal("Universal FE Random walk position", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20FE%20Random%20walk%20position.lua")
 
 addscriptuniversal("Nexus Hub: Animations, Hubs, Fly", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Nexus%20Hub%20Animations%20Hubs%20Fly.lua")
+
+addscriptexist(8737602449, "PLS DONATE: Fake Donate, Options", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PLS%20DONATE%20Fake%20Donate%20Options.lua")
