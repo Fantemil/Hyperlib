@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 17:00:09"
+lastupdate = "GMT +1: 08.03.2023 17:00:14"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -9480,3 +9480,5 @@ addscriptexist(8540168650, "Stand Upright: Rebooted | Lair Auto Farm, Drop Syste
 addscriptexist(1537690962, "Bee Swarm Simulator: Auto Farm, Auto Flames & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Bee%20Swarm%20Simulator%20Auto%20Farm%20Auto%20Flames%20%20More.lua")
 
 addscriptexist(4282985734, "Combat Warriors Hub", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Combat%20Warriors%20Hub.lua")
+
+addscriptexist(648362523, "Breaking Point: Invisible", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Breaking%20Point%20Invisible.lua")
