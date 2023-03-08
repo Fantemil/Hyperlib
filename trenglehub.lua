@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 21:00:44"
+lastupdate = "GMT +1: 08.03.2023 21:00:49"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -14742,3 +14742,5 @@ addscript(2686500207, "Current Game","A Bizarre Day [Auto Farm, Teleports]", "pu
 addscriptuniversal("Roblox Universal Script [Aimbot FOV]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Roblox%20Universal%20Script%20Aimbot%20FOV.lua")
 
 addscriptexist(8737602449, "PLS DONATE [Fly, Esp]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PLS%20DONATE%20Fly%20Esp.lua")
+
+addscriptexist(920587237, "Adopt Me [Auto Farm, Buy any egg]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Adopt%20Me%20Auto%20Farm%20Buy%20any%20egg.lua")
