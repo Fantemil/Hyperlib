@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 18:10:37"
+lastupdate = "GMT +1: 08.03.2023 18:10:44"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -11264,3 +11264,5 @@ addscriptexist(9103460924, "Sword Factory X: Auto Dungeon, Teleports, Auto Farm 
 addhub("Mixed Hub: 3 Games", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mixed%20Hub%20%20Games.lua")
 
 addscriptexist(10681346822, "Roblox But Every Second You Get +1 Jump Power: Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Roblox%20But%20Every%20Second%20You%20Get%20%20Jump%20Power%20Auto%20Farm.lua")
+
+addscriptuniversal("Universal: ESP, Walkspeed, Walk On Walls", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20ESP%20Walkspeed%20Walk%20On%20Walls.lua")
