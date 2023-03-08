@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 20:13:29"
+lastupdate = "GMT +1: 08.03.2023 20:13:34"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -13532,3 +13532,5 @@ addscript(9630689264, "Current Game","Hood Genesis | Delete All Doors, Instant K
 addscriptexist(2788229376, "Da Hood | Teleports, Esp, Aimlock", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Da%20Hood%20%20Teleports%20Esp%20Aimlock.lua")
 
 addscriptexist(142823291, "Murder Mystery 2 | Silent Aim, Speed Hax, KillAll", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Murder%20Mystery%20%20%20Silent%20Aim%20Speed%20Hax%20KillAll.lua")
+
+addscriptexist(4924922222, "Brookhaven RP | Teleports", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Brookhaven%20RP%20%20Teleports.lua")
