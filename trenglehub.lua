@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 06:54:01"
+lastupdate = "GMT +1: 08.03.2023 06:54:05"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -5124,3 +5124,5 @@ addscriptexist(11156779721, "The Survival Game: Auto Farm, Invisible, Hitboxes",
 addscriptexist(6918802270, "Project New World: Auto Farm, Auto Krampus & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Project%20New%20World%20Auto%20Farm%20Auto%20Krampus%20%20More.lua")
 
 addhub("Eclipse Hub: Free 5 Games", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Eclipse%20Hub%20Free%20%20Games.lua")
+
+addscriptexist(537413528, "Build A Boat For Treasure: Teleports, Auto Quest, Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Build%20A%20Boat%20For%20Treasure%20Teleports%20Auto%20Quest%20Auto%20Farm.lua")
