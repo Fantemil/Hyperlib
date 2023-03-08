@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 17:41:24"
+lastupdate = "GMT +1: 08.03.2023 17:41:29"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -10530,3 +10530,5 @@ addscriptexist(2248408710, "Destruction Simulator: Auto Sell, Instant FIre, Fast
 addscript(9528144165, "Current Game","0ne Piece: Auto Farm B", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ne%20Piece%20Auto%20Farm%20B.lua")
 
 addscriptexist(10211547957, "Bread Factory Tycoon: Infinite Cash & X2 Multiplier", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Bread%20Factory%20Tycoon%20Infinite%20Cash%20%20X%20Multiplier.lua")
+
+addscriptexist(3351674303, "Driving Empire: Simple Candy Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Driving%20Empire%20Simple%20Candy%20Farm.lua")
