@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 14:45:19"
+lastupdate = "GMT +1: 08.03.2023 14:45:24"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -7994,3 +7994,5 @@ addscriptexist(292439477, "Phantom Forces: Go to Ban Land, Hitboxes & More", "pu
 addscriptexist(6516141723, "DOORS: Christmas Gun Giver", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DOORS%20Christmas%20Gun%20Giver.lua")
 
 addscriptexist(9224601490, "Fruit Battlegrounds: Auto Farm, WalkSpeed, JumpPower", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Fruit%20Battlegrounds%20Auto%20Farm%20WalkSpeed%20JumpPower.lua")
+
+addscriptexist(7525610732, "Kaizen: Auto Quest, Safe Mode, Auto Equip weapon", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Kaizen%20Auto%20Quest%20Safe%20Mode%20Auto%20Equip%20weapon.lua")
