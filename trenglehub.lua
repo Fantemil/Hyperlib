@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 16:37:31"
+lastupdate = "GMT +1: 08.03.2023 16:37:35"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -8916,3 +8916,5 @@ addscriptuniversal("Universal Inf Jumps", "pulled from rbxscript.com", "https://
 addscript(10696235781, "Current Game","Anime Race Clicker: Auto Make Wins", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime%20Race%20Clicker%20Auto%20Make%20Wins.lua")
 
 addscript(11093884242, "Current Game","ABC Lore: Infinity Coins, Infinity Gems", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ABC%20Lore%20Infinity%20Coins%20Infinity%20Gems.lua")
+
+addscriptuniversal("Universal 2016 Game menu Cosmetic", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20%20Game%20menu%20Cosmetic.lua")
