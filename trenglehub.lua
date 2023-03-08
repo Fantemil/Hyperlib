@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 12:33:00"
+lastupdate = "GMT +1: 08.03.2023 12:33:05"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -6212,3 +6212,5 @@ addscriptexist(2753915549, "Blox Fruits: Bypass Tp, Very fast attack, White/Blac
 addscriptexist(10875701453, "Edward the Man-Eating Train: Gun Editor", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Edward%20the%20ManEating%20Train%20Gun%20Editor.lua")
 
 addscriptexist(10723695195, "Anime Evolution Simulator: Teleports, Auto Open & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime%20Evolution%20Simulator%20Teleports%20Auto%20Open%20%20More.lua")
+
+addscriptexist(5233782396, "Creatures of Sonaria: Auto Farm Gifts", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Creatures%20of%20Sonaria%20Auto%20Farm%20Gifts.lua")
