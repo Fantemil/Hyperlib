@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 18:29:27"
+lastupdate = "GMT +1: 08.03.2023 18:29:31"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -11724,3 +11724,5 @@ addscriptexist(621129760, "Knife Ability Test: Silent Aim, Godmode & More", "pul
 addscriptexist(2474168535, "Westbound: Gun Mod, ESP, Infinity Jump", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Westbound%20Gun%20Mod%20ESP%20Infinity%20Jump.lua")
 
 addscriptexist(155615604, "Prison Life: Remove Walls, Team Changer & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Prison%20Life%20Remove%20Walls%20Team%20Changer%20%20More.lua")
+
+addscriptexist(10675066724, "Slime Tower Tycoon: Next Lvl, Last Lvl, Auto Attack", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Slime%20Tower%20Tycoon%20Next%20Lvl%20Last%20Lvl%20Auto%20Attack.lua")
