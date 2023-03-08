@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 18:25:59"
+lastupdate = "GMT +1: 08.03.2023 18:26:05"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -11636,3 +11636,5 @@ addscriptexist(5307215810, "RandomizerV2: Aimbot, New UI, Esp", "pulled from rbx
 addscriptuniversal("Universal Steal Website Bodies With Script", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Steal%20Website%20Bodies%20With%20Script.lua")
 
 addscriptuniversal("Universa Script GUI", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universa%20Script%20GUI.lua")
+
+addscriptuniversal("Universal FPS Counter", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20FPS%20Counter.lua")
