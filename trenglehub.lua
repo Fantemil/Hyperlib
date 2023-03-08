@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 17:09:13"
+lastupdate = "GMT +1: 08.03.2023 17:09:17"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -9706,3 +9706,5 @@ addscriptexist(10723695195, "Anime Evolution Simulator: Auto Fight, Auto Collect
 addscriptexist(2788229376, "Da Hood: Crasher Server", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Da%20Hood%20Crasher%20Server.lua")
 
 addscript(2622527242, "Current Game","SCP rBreach: Infinity Capacity, Hitbox, No Weapon Spread", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SCP%20rBreach%20Infinity%20Capacity%20Hitbox%20No%20Weapon%20Spread.lua")
+
+addscriptexist(8908228901, "SharkBite 2: Auto Farm, Auto Kill Shark, Noclip", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SharkBite%20%20Auto%20Farm%20Auto%20Kill%20Shark%20Noclip.lua")
