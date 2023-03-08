@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 18:33:45"
+lastupdate = "GMT +1: 08.03.2023 18:33:50"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -11790,3 +11790,5 @@ addscript(3082002798, "Current Game","T-Titans Battlegrounds: Insta Kill, Hitbox
 addscriptexist(10260193230, "Meme Sea: Teleport To Spawned Fruit", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Meme%20Sea%20Teleport%20To%20Spawned%20Fruit.lua")
 
 addscriptexist(13822889, "Lumber Tycoon 2: Spook Wood Finder", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Lumber%20Tycoon%20%20Spook%20Wood%20Finder.lua")
+
+addscript(4853191911, "Current Game","Sonic.EXE RP: Custom Things", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SonicEXE%20RP%20Custom%20Things.lua")
