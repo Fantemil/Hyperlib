@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 18:14:32"
+lastupdate = "GMT +1: 08.03.2023 18:14:38"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -11356,3 +11356,5 @@ addscript(3261957210, "Current Game","Thanos Simulator: Auto Farm", "pulled from
 addscriptexist(5130598377, "A Universal Time: Auto Invisible, Auto Farm Items, Teleports", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/A%20Universal%20Time%20Auto%20Invisible%20Auto%20Farm%20Items%20Teleports.lua")
 
 addscript(6755746130, "Current Game","Fruit Juice Tycoon: Refreshed: Auto Farm, Teleports", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Fruit%20Juice%20Tycoon%20Refreshed%20Auto%20Farm%20Teleports.lua")
+
+addscript(5622162130, "Current Game","Late Night Drive: Walkspeed, BTools, Jump Power", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Late%20Night%20Drive%20Walkspeed%20BTools%20Jump%20Power.lua")
