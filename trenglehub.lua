@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 15:12:23"
+lastupdate = "GMT +1: 08.03.2023 15:12:28"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -8716,3 +8716,5 @@ addscriptexist(9414511685, "Drive Cars Down A Hill: Money Auto Farm, Server Lagg
 addscript(9845465117, "Current Game","AU:Reborn : Auto Ranked 1V1", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AUReborn%20%20Auto%20Ranked%20V.lua")
 
 addscriptexist(1730877806, "Grand Piece Online: Auto Stats, Auto Level Farm, Auto FInd Vip Server", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Grand%20Piece%20Online%20Auto%20Stats%20Auto%20Level%20Farm%20Auto%20FInd%20Vip%20Server.lua")
+
+addscriptexist(6516141723, "DOOR: Spawn Rush, Give Lighter, Give Things", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DOOR%20Spawn%20Rush%20Give%20Lighter%20Give%20Things.lua")
