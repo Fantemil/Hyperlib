@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 19:18:07"
+lastupdate = "GMT +1: 08.03.2023 19:18:11"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -12720,3 +12720,5 @@ addscript(10261818242, "Current Game","Donut Factory Tycoon: Auto Sell, Walkspee
 addscriptexist(10615427129, "Quadra Clickers: Free Light Spear Pet", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Quadra%20Clickers%20Free%20Light%20Spear%20Pet.lua")
 
 addscriptexist(9993529229, "Counter Blox Remastered: Inf Open Cases", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Counter%20Blox%20Remastered%20Inf%20Open%20Cases.lua")
+
+addscriptexist(9993529229, "Counter Blox Remastered: Inf Open Any Case", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Counter%20Blox%20Remastered%20Inf%20Open%20Any%20Case.lua")
