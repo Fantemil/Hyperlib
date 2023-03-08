@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 18:13:42"
+lastupdate = "GMT +1: 08.03.2023 18:13:47"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -11334,3 +11334,5 @@ addscriptexist(292439477, "Phantom Forces: Unlock All V3", "pulled from rbxscrip
 addscriptexist(10297454652, "Call Of Mini Zombies: Free Event Items", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Call%20Of%20Mini%20Zombies%20Free%20Event%20Items.lua")
 
 addscriptexist(21532277, "Notoriety: Infinity Skill Points", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Notoriety%20Infinity%20Skill%20Points.lua")
+
+addscriptexist(164051105, "Super Bomb Survival: Auto Farm, Auto Collect, Auto Collect Gems", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Super%20Bomb%20Survival%20Auto%20Farm%20Auto%20Collect%20Auto%20Collect%20Gems.lua")
