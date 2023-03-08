@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 12:31:14"
+lastupdate = "GMT +1: 08.03.2023 12:31:18"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -6164,3 +6164,5 @@ addscriptexist(9819654737, "Raise A Sonic: Auto Click Sonic, Auto Collect Rings,
 addscript(11448431235, "Current Game","Baryon: Farm item, Inf money, Lvl Autofarm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Baryon%20Farm%20item%20Inf%20money%20Lvl%20Autofarm.lua")
 
 addscriptuniversal("Universal Swag Keystrokes", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Swag%20Keystrokes.lua")
+
+addscriptexist(10967799786, "Pet Clicking Simulator: Auto Farm, Auto Hatch, Auto Rebirth", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pet%20Clicking%20Simulator%20Auto%20Farm%20Auto%20Hatch%20Auto%20Rebirth.lua")
