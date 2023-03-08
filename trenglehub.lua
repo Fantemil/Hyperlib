@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 06:54:08"
+lastupdate = "GMT +1: 08.03.2023 06:54:12"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -5128,3 +5128,5 @@ addhub("Eclipse Hub: Free 5 Games", "pulled from rbxscript.com", "https://raw.gi
 addscriptexist(537413528, "Build A Boat For Treasure: Teleports, Auto Quest, Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Build%20A%20Boat%20For%20Treasure%20Teleports%20Auto%20Quest%20Auto%20Farm.lua")
 
 addscriptexist(2753915549, "Blox Fruits: Auto Farm Levels, Auto Farm Mastery & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blox%20Fruits%20Auto%20Farm%20Levels%20Auto%20Farm%20Mastery%20%20More.lua")
+
+addscriptexist(183364845, "Speed Run 4: Star Auto Farm, Gem Auto Farm, Anti Afk", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Speed%20Run%20%20Star%20Auto%20Farm%20Gem%20Auto%20Farm%20Anti%20Afk.lua")
