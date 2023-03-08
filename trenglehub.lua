@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 19:07:22"
+lastupdate = "GMT +1: 08.03.2023 19:07:28"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -12490,3 +12490,5 @@ addscriptexist(510411669, "Fantastic Frontier: Teleports, Fast Regen Stamina", "
 addscriptexist(10675042838, "Lemonade Tycoon: Auto Hervest, Auto Serve", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Lemonade%20Tycoon%20Auto%20Hervest%20Auto%20Serve.lua")
 
 addscriptexist(9167501050, "Lightsaber Arena: Teleport All Players & More!", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Lightsaber%20Arena%20Teleport%20All%20Players%20%20More.lua")
+
+addscriptexist(7026949294, "Sword Simulator: Auto Antimatter, Auto Omega, Auto Evolution", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sword%20Simulator%20Auto%20Antimatter%20Auto%20Omega%20Auto%20Evolution.lua")
