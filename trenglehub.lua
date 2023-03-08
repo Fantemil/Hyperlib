@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 14:39:57"
+lastupdate = "GMT +1: 08.03.2023 14:40:01"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -7848,3 +7848,5 @@ addscriptexist(10723695195, "Anime Evolution Simulator: Auto Kill Near, Auto Cli
 addscriptexist(9285238704, "Race Clicker: Auto Craft, Auto Win, Auto Hatch", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Race%20Clicker%20Auto%20Craft%20Auto%20Win%20Auto%20Hatch.lua")
 
 addscriptuniversal("Universal Reach / Killaura", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Reach%20%20Killaura.lua")
+
+addscriptexist(8506369721, "dig to china: Auto Teleport to China", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/dig%20to%20china%20Auto%20Teleport%20to%20China.lua")
