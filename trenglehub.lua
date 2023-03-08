@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 12:38:11"
+lastupdate = "GMT +1: 08.03.2023 12:38:15"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -6356,3 +6356,5 @@ addscript(23144831, "Current Game","Craftwars: Get Everything", "pulled from rbx
 addscriptuniversal("Universal RoWeb Module", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20RoWeb%20Module.lua")
 
 addscript(7336477134, "Current Game","Minerscave: Dupe Sapphire", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Minerscave%20Dupe%20Sapphire.lua")
+
+addscript(6165106805, "Current Game","get a snack at 4 am: Unlock ll endings", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/get%20a%20snack%20at%20%20am%20Unlock%20ll%20endings.lua")
