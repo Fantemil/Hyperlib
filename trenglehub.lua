@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 21:17:47"
+lastupdate = "GMT +1: 08.03.2023 21:17:51"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -14968,3 +14968,5 @@ addscriptexist(6516141723, "DOORS [Instant Interact, Skip Lvl]", "pulled from rb
 addscriptexist(4809447488, "Venture Tale [Auto Retry, Auto Collect]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Venture%20Tale%20Auto%20Retry%20Auto%20Collect.lua")
 
 addscriptexist(6468323505, "Spellbound ✨ Magic RPG [Auto Raid Tower, Inf Coins]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Spellbound%20%20Magic%20RPG%20Auto%20Raid%20Tower%20Inf%20Coins.lua")
+
+addscript(7052083961, "Current Game","Velocity Online [Auto Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Velocity%20Online%20Auto%20Farm.lua")
