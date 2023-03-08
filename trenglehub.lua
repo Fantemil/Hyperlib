@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 19:57:43"
+lastupdate = "GMT +1: 08.03.2023 19:57:50"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -13356,3 +13356,5 @@ addscriptexist(2534724415, "Emergency Response: Liberty County | GUI - Unlock Ca
 addscriptexist(10192063645, "Thy hood | Get Excalibur", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Thy%20hood%20%20Get%20Excalibur.lua")
 
 addscriptexist(9872472334, "Evade | Tp To map, TP To safe zone, AutoJump", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Evade%20%20Tp%20To%20map%20TP%20To%20safe%20zone%20AutoJump.lua")
+
+addscriptexist(5780309044, "stands awakening | Instantly Change Stand, Walkspeed, Noclip", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/stands%20awakening%20%20Instantly%20Change%20Stand%20Walkspeed%20Noclip.lua")
