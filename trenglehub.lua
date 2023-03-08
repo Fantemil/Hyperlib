@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 18:06:18"
+lastupdate = "GMT +1: 08.03.2023 18:06:23"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -11156,3 +11156,5 @@ addscript(11312500614, "Current Game","SPTS:Custom II: ESP, Walkspeed, Auto Farm
 addscriptexist(11187148979, "Ultra unFair: Kill Aura, Relic Spin, No Cooldown", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ultra%20unFair%20Kill%20Aura%20Relic%20Spin%20No%20Cooldown.lua")
 
 addscriptexist(3260590327, "Tower Defense Simulator: Auto Farm(Other units)", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tower%20Defense%20Simulator%20Auto%20FarmOther%20units.lua")
+
+addscriptexist(9285238704, "Race Clicker: Auto Tween Win, Auto Win, Teleports", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Race%20Clicker%20Auto%20Tween%20Win%20Auto%20Win%20Teleports.lua")
