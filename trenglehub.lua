@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 06:59:28"
+lastupdate = "GMT +1: 08.03.2023 06:59:31"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -5292,3 +5292,5 @@ addscriptuniversal("Universal webhook spammer, remover", "pulled from rbxscript.
 addscriptexist(286090429, "Arsenal: Universal Torso Hitboxes", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Arsenal%20Universal%20Torso%20Hitboxes.lua")
 
 addscript(3770659466, "Current Game","Fnaf Five Nights Simulator: Collect All ITems, Godmode, Walkspeed", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Fnaf%20Five%20Nights%20Simulator%20Collect%20All%20ITems%20Godmode%20Walkspeed.lua")
+
+addscriptexist(155615604, "Prison Life: Teleport to Criminal Base, GIve Guns, Gun Mods", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Prison%20Life%20Teleport%20to%20Criminal%20Base%20GIve%20Guns%20Gun%20Mods.lua")
