@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 18:17:21"
+lastupdate = "GMT +1: 08.03.2023 18:17:25"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -11424,3 +11424,5 @@ addscriptexist(8540346411, "Rebirth Champions X: Auto Click, Auto Hatch", "pulle
 addscriptexist(9486506804, "FIFA World: Collect All Letters, Collect All Coin, WalkSPeed", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FIFA%20World%20Collect%20All%20Letters%20Collect%20All%20Coin%20WalkSPeed.lua")
 
 addscriptexist(3101667897, "Legends Of Speed: Xp Farm, Farm Gem, Auto Rebirth", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Legends%20Of%20Speed%20Xp%20Farm%20Farm%20Gem%20Auto%20Rebirth.lua")
+
+addscriptexist(8884433153, "Collect All Pets: Auto Farm, Auto Collect Coins, Auto Hatch", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Collect%20All%20Pets%20Auto%20Farm%20Auto%20Collect%20Coins%20Auto%20Hatch.lua")
