@@ -1,0 +1,1 @@
+fireclickdetector(game:GetService("Workspace").Map.MinillaEvent.MinillaHead.ClickDetector)
