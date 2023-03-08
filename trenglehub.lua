@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 20:54:55"
+lastupdate = "GMT +1: 08.03.2023 20:55:01"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -14594,3 +14594,5 @@ addscriptexist(8963721566, "The Backrooms - KV31 [WalkSpeed]", "pulled from rbxs
 addscript(10397561422, "Current Game","Plushie simulator [Teddy spammer, Unlock jumps, Nnlock islands]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Plushie%20simulator%20Teddy%20spammer%20Unlock%20jumps%20Nnlock%20islands.lua")
 
 addscriptexist(537413528, "Build A Boat For Treasure [Auto Farm, WalkSpeed, Godmode Water]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Build%20A%20Boat%20For%20Treasure%20Auto%20Farm%20WalkSpeed%20Godmode%20Water.lua")
+
+addscript(4962588958, "Current Game","Teamwork Obby [2 Player Obby] [AutoFarm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Teamwork%20Obby%20%20Player%20Obby%20AutoFarm.lua")
