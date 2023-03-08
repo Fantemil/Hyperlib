@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 15:14:10"
+lastupdate = "GMT +1: 08.03.2023 15:14:14"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -8766,3 +8766,5 @@ addscriptexist(185655149, "Welcome to Bloxburg: Auto Farm Money", "pulled from r
 addscript(10944357250, "Current Game","Stair Legends! Auto Climb", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Stair%20Legends%20Auto%20Climb.lua")
 
 addscriptexist(192800, "Work at a Pizza Place: FE Sound Spam, Walkspeed, Noclip", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Work%20at%20a%20Pizza%20Place%20FE%20Sound%20Spam%20Walkspeed%20Noclip.lua")
+
+addscript(9880062154, "Current Game","Decaying Winter: The Last Strandeds: No Virus spread, Godmode, ESP", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Decaying%20Winter%20The%20Last%20Strandeds%20No%20Virus%20spread%20Godmode%20ESP.lua")
