@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 07:10:32"
+lastupdate = "GMT +1: 08.03.2023 07:10:37"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -5628,3 +5628,5 @@ addscript(10653151312, "Current Game","Undertale Soul OPs Boss Rush: Extended: A
 addscriptexist(5956785391, "Project Slayers: Infinity Breathing, Auto Farm Bosses & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Project%20Slayers%20Infinity%20Breathing%20Auto%20Farm%20Bosses%20%20More.lua")
 
 addscript(9196514723, "Current Game","ChicBlocko: Teleports, Auto Farm, Shop GUI Activators", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ChicBlocko%20Teleports%20Auto%20Farm%20Shop%20GUI%20Activators.lua")
+
+addscriptexist(7952502098, "Impossible Glass Bridge Obby: Teleport to the End", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Impossible%20Glass%20Bridge%20Obby%20Teleport%20to%20the%20End.lua")
