@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Cyncus/Scourge---Scripts/main/Scourge%2C%20Waterloo%20At%20Home%20Script.lua"))()
