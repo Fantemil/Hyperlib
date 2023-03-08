@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 19:04:20"
+lastupdate = "GMT +1: 08.03.2023 19:04:24"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -12420,3 +12420,5 @@ addscriptexist(2248408710, "Destruction Simulator: Infinity Coins, Sell Bricks",
 addscriptexist(445664957, "Parkour: Auto Bag Collector", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Parkour%20Auto%20Bag%20Collector.lua")
 
 addscriptexist(5993942214, "Rush Point: Anti Aim, Silent Aim, Esp", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Rush%20Point%20Anti%20Aim%20Silent%20Aim%20Esp.lua")
+
+addscriptexist(9285238704, "Race Clicker: Auto Win, Auto Click, Anti Afk", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Race%20Clicker%20Auto%20Win%20Auto%20Click%20Anti%20Afk.lua")
