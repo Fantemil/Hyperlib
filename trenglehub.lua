@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 17:02:33"
+lastupdate = "GMT +1: 08.03.2023 17:02:37"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -9540,3 +9540,5 @@ addscriptexist(3956818381, "Ninja Legends: Claim All Chests, Auto Swing & More",
 addscriptexist(3260590327, "Tower Defense Simulator: Auto Farm Gems, Server Hop", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tower%20Defense%20Simulator%20Auto%20Farm%20Gems%20Server%20Hop.lua")
 
 addscriptexist(7952502098, "Impossible Glass Bridge Obby: Teleports, Remove Breakable Bricks, Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Impossible%20Glass%20Bridge%20Obby%20Teleports%20Remove%20Breakable%20Bricks%20Auto%20Farm.lua")
+
+addscriptexist(10631384212, "Treasure Hunt Islands: Auto Mine Block, Auto Mine Chest, ESP", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Treasure%20Hunt%20Islands%20Auto%20Mine%20Block%20Auto%20Mine%20Chest%20ESP.lua")
