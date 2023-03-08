@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Gab1tzuu404/roblox-scripts/main/jailbreak.lua"))()
