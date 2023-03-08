@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 16:37:35"
+lastupdate = "GMT +1: 08.03.2023 16:37:39"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -8918,3 +8918,5 @@ addscript(10696235781, "Current Game","Anime Race Clicker: Auto Make Wins", "pul
 addscript(11093884242, "Current Game","ABC Lore: Infinity Coins, Infinity Gems", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ABC%20Lore%20Infinity%20Coins%20Infinity%20Gems.lua")
 
 addscriptuniversal("Universal 2016 Game menu Cosmetic", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20%20Game%20menu%20Cosmetic.lua")
+
+addscriptexist(3859039810, "Munching Masters Simulator: Inf Moeny", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Munching%20Masters%20Simulator%20Inf%20Moeny.lua")
