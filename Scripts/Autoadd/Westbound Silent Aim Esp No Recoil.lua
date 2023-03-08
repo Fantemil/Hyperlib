@@ -1,0 +1,1 @@
+loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/HemLish/Game/main/Aegis%20The%20Border.lua"))()
