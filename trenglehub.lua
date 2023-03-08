@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 14:56:27"
+lastupdate = "GMT +1: 08.03.2023 14:56:32"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -8292,3 +8292,5 @@ addscriptexist(2753915549, "Blox Fruits: Auto Farm Bosses, Auto Stats, Auto Farm
 addscriptexist(6284583030, "Pet Simulator X: Lucky Blocks Autofarm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pet%20Simulator%20X%20Lucky%20Blocks%20Autofarm.lua")
 
 addscriptexist(11563572312, "Ultimate Magnet Simulator: Infinity Money", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ultimate%20Magnet%20Simulator%20Infinity%20Money.lua")
+
+addscriptuniversal("Universal Silent Aim, ESP Boxes, No Recoil", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Silent%20Aim%20ESP%20Boxes%20No%20Recoil.lua")
