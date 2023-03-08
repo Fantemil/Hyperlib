@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 14:43:36"
+lastupdate = "GMT +1: 08.03.2023 14:43:41"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -7948,3 +7948,5 @@ addscript(11447840296, "Current Game","2019 Booga Booga [REBORN]: Auto Heal Bloo
 addscriptexist(8506369721, "dig to china: Auto Farm Points with Server Hop", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/dig%20to%20china%20Auto%20Farm%20Points%20with%20Server%20Hop.lua")
 
 addscriptexist(8540346411, "Rebirth Champions X: Auto Tap, Auto Rebirth, Auto Craft Pets", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Rebirth%20Champions%20X%20Auto%20Tap%20Auto%20Rebirth%20Auto%20Craft%20Pets.lua")
+
+addscriptexist(9264596435, "Idle Heroes Simulator! Auto Claim Daily Chest, Auto Hire, Auto Tp To Mob", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Idle%20Heroes%20Simulator%20Auto%20Claim%20Daily%20Chest%20Auto%20Hire%20Auto%20Tp%20To%20Mob.lua")
