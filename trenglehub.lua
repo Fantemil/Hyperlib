@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 12:23:02"
+lastupdate = "GMT +1: 08.03.2023 12:23:07"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -5946,3 +5946,5 @@ addscriptexist(11040063484, "Sword Fighters Simulator: Auto Click, Auto Ascend, 
 addhub("Kater Hub: Sounds, Teleports & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Kater%20Hub%20Sounds%20Teleports%20%20More.lua")
 
 addscriptexist(7655745946, "Dunking Simulator: Max Stats, Infinity Boosts, Infinity Money", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Dunking%20Simulator%20Max%20Stats%20Infinity%20Boosts%20Infinity%20Money.lua")
+
+addscript(4994661268, "Current Game","Undertale: Judgement Day: Skip Round, Coin Autofarm, Speedhacks", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Undertale%20Judgement%20Day%20Skip%20Round%20Coin%20Autofarm%20Speedhacks.lua")
