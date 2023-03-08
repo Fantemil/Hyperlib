@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 19:25:22"
+lastupdate = "GMT +1: 08.03.2023 19:25:27"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -12876,3 +12876,5 @@ addscriptexist(3956818381, "Ninja Legends: Auto Swing, Auto Sell, Auto Rebirth",
 addscriptexist(10675066724, "Slime Tower Tycoon: Auto Obby, Auto Collect, Auto Merge", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Slime%20Tower%20Tycoon%20Auto%20Obby%20Auto%20Collect%20Auto%20Merge.lua")
 
 addscriptexist(6751371363, "Hood Duels: Aimlock", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Hood%20Duels%20Aimlock.lua")
+
+addscriptexist(10895555747, "Walmart Land: Inf Tokens", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Walmart%20Land%20Inf%20Tokens.lua")
