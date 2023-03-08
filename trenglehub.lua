@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 13:17:03"
+lastupdate = "GMT +1: 08.03.2023 13:17:07"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -7370,3 +7370,5 @@ addscriptexist(3851622790, "Break In (Story): Get Weapons, Endings & More", "pul
 addscriptexist(920587237, "Adopt Me: Server Crasher", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Adopt%20Me%20Server%20Crasher.lua")
 
 addscript(10531659515, "Current Game","Shovel Battles: Kill Aura, Give Hits,God Mode", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Shovel%20Battles%20Kill%20Aura%20Give%20HitsGod%20Mode.lua")
+
+addscriptexist(6888253864, "Wacky Wizards: Auto Win", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Wacky%20Wizards%20Auto%20Win.lua")
