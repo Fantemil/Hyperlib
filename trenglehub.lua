@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 20:57:53"
+lastupdate = "GMT +1: 08.03.2023 20:57:58"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -14670,3 +14670,5 @@ addscriptexist(2788229376, "Da Hood [Aim Lock]", "pulled from rbxscript.com", "h
 addscriptexist(1554960397, "Car Dealership Tycoon [Auto Farm, Auto Drag Race]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Car%20Dealership%20Tycoon%20Auto%20Farm%20Auto%20Drag%20Race.lua")
 
 addscriptexist(2551991523, "Broken Bones 4 [Inf Jum, AutoFarm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Broken%20Bones%20%20Inf%20Jum%20AutoFarm.lua")
+
+addscriptexist(537413528, "Build A Boat For Treasure [Inf Jump, GodMode]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Build%20A%20Boat%20For%20Treasure%20Inf%20Jump%20GodMode.lua")
