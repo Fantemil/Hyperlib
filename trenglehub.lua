@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 15:13:53"
+lastupdate = "GMT +1: 08.03.2023 15:13:57"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -8758,3 +8758,5 @@ addscriptexist(2809202155, "Your Bizarre Adventure: Auto 1v1 Farm", "pulled from
 addhub("Godly Hub: Aimbot", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Godly%20Hub%20Aimbot.lua")
 
 addscriptexist(286090429, "Arsenal: Silent Aim, FLY, 2d Box ESP", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Arsenal%20Silent%20Aim%20FLY%20d%20Box%20ESP.lua")
+
+addscriptexist(2317712696, "The Wild West: Gun Mods, ESP, Fullbright", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/The%20Wild%20West%20Gun%20Mods%20ESP%20Fullbright.lua")
