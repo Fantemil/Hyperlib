@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 19:31:34"
+lastupdate = "GMT +1: 08.03.2023 19:31:40"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -13014,3 +13014,5 @@ addscript(4967465336, "Current Game","Ray's Mod: Infinity Health", "pulled from 
 addscriptexist(9264596435, "Idle Heroes Simulator: Auto Attack, Tp To Enemy", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Idle%20Heroes%20Simulator%20Auto%20Attack%20Tp%20To%20Enemy.lua")
 
 addscriptexist(4282985734, "Combat Warriors: Fly, Killaura", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Combat%20Warriors%20Fly%20Killaura.lua")
+
+addscriptexist(10675066724, "Slime Tower Tycoon: Auto Collect, Auto Deposit & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Slime%20Tower%20Tycoon%20Auto%20Collect%20Auto%20Deposit%20%20More.lua")
