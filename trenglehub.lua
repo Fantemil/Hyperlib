@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 17:44:13"
+lastupdate = "GMT +1: 08.03.2023 17:44:18"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -10602,3 +10602,5 @@ addscriptexist(137877687, "RoCitizens: Unlock All Gamepasses", "pulled from rbxs
 addscriptexist(13822889, "Lumber Tycoon 2: Click TP, Walkspeed, Inifnity Jump", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Lumber%20Tycoon%20%20Click%20TP%20Walkspeed%20Inifnity%20Jump.lua")
 
 addscriptexist(292439477, "Phantom Forces: AImbot, ESP, FOV", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Phantom%20Forces%20AImbot%20ESP%20FOV.lua")
+
+addscriptexist(286090429, "Arsenal: Hitbox Enable", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Arsenal%20Hitbox%20Enable.lua")
