@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 19:54:32"
+lastupdate = "GMT +1: 08.03.2023 19:54:41"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -13286,3 +13286,5 @@ addscriptuniversal("Universal Aim Assistant", "pulled from rbxscript.com", "http
 addscriptuniversal("Blox Fruits | GUI - Auto Farm, Auto Level & More!", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blox%20Fruits%20%20GUI%20%20Auto%20Farm%20Auto%20Level%20%20More.lua")
 
 addscriptexist(2788229376, "Da Hood | Fly, Pickup Knife, AutoBuy", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Da%20Hood%20%20Fly%20Pickup%20Knife%20AutoBuy.lua")
+
+addscriptexist(9431770682, "Lost Rooms [ESP, Fly, Farm and More]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Lost%20Rooms%20ESP%20Fly%20Farm%20and%20More.lua")
