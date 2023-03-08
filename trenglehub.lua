@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 20:56:02"
+lastupdate = "GMT +1: 08.03.2023 20:56:07"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -14622,3 +14622,5 @@ addscriptexist(142823291, "Murder Mystery 2 [KillAura, Godmode]", "pulled from r
 addscriptexist(4490140733, "My Restaurant! [Auto Farm, Money Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/My%20Restaurant%20Auto%20Farm%20Money%20Farm.lua")
 
 addscript(6677573193, "Current Game","Axe Champions Simulator [AutoSell, AutoHatch]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Axe%20Champions%20Simulator%20AutoSell%20AutoHatch.lua")
+
+addscriptexist(9414511685, "Drive Cars Down A Hill! [AutoFarm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Drive%20Cars%20Down%20A%20Hill%20AutoFarm.lua")
