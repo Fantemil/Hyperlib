@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 20:46:48"
+lastupdate = "GMT +1: 08.03.2023 20:46:53"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -14394,3 +14394,5 @@ addscriptexist(142823291, "Murder Mystery 2 [Esp, Godmode]", "pulled from rbxscr
 addscriptexist(5326405001, "Base Battles [No Spread, Esp]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Base%20Battles%20No%20Spread%20Esp.lua")
 
 addscript(5901548022, "Current Game","Try To Die [Give All Tools]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Try%20To%20Die%20Give%20All%20Tools.lua")
+
+addscriptexist(9129288160, "Tommy Play [AutoFarm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tommy%20Play%20AutoFarm.lua")
