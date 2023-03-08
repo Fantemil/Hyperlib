@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 07:09:10"
+lastupdate = "GMT +1: 08.03.2023 07:09:13"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -5586,3 +5586,5 @@ addscriptexist(10898965735, "Mine Racer: Auto Join Race, Auto Mine, Auto Open Eg
 addscriptuniversal("Universal Rayfield Key System Print Key", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Rayfield%20Key%20System%20Print%20Key.lua")
 
 addscriptexist(6356806222, "Lag Test 2021: Destroy parts", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Lag%20Test%20%20Destroy%20parts.lua")
+
+addscriptexist(537413528, "Build A Boat For Treasure: Auto Farm, Teleport Team, WalkSpeed", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Build%20A%20Boat%20For%20Treasure%20Auto%20Farm%20Teleport%20Team%20WalkSpeed.lua")
