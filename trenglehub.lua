@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 13:13:02"
+lastupdate = "GMT +1: 08.03.2023 13:13:06"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -7264,3 +7264,5 @@ addscriptexist(8657766101, "Marvellous Playground: Humans Unlock", "pulled from 
 addscriptexist(8657766101, "Marvellous Playground: No Cooldown", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Marvellous%20Playground%20No%20Cooldown.lua")
 
 addscriptuniversal("Universal Pipe Tool", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Pipe%20Tool.lua")
+
+addscriptexist(10914683361, "Busy Business! Auto Make Hotdogs", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Busy%20Business%20Auto%20Make%20Hotdogs.lua")
