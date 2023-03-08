@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 20:59:32"
+lastupdate = "GMT +1: 08.03.2023 20:59:38"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -14712,3 +14712,5 @@ addscriptexist(6284583030, "Pet Simulator X [Auto Farm, Auto Egg, WalkSpeed]", "
 addscriptexist(142823291, "Murder Mystery 2 [Auto farm, Esp, Kill Aura]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Murder%20Mystery%20%20Auto%20farm%20Esp%20Kill%20Aura.lua")
 
 addscript(4965975642, "Current Game","Survival Of the Fittest [Godmode, KillAura]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Survival%20Of%20the%20Fittest%20Godmode%20KillAura.lua")
+
+addscriptuniversal("Roblox Universal Script [FE Fling All]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Roblox%20Universal%20Script%20FE%20Fling%20All.lua")
