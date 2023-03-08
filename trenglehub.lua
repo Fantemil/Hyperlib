@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 18:57:02"
+lastupdate = "GMT +1: 08.03.2023 18:57:08"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -12262,3 +12262,5 @@ addscriptexist(10861112990, "Anime Artifacts Simulator 2: Infinite Weapon Crates
 addscriptexist(8482451541, "Brick Defense: Infinite Money", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Brick%20Defense%20Infinite%20Money.lua")
 
 addscriptexist(10779604733, "VBet: Auto Farm Click", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/VBet%20Auto%20Farm%20Click.lua")
+
+addscriptexist(9554750143, "Pet Fighting Simulator: Infinite Coins, Infinite Gems, Infinite Items", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pet%20Fighting%20Simulator%20Infinite%20Coins%20Infinite%20Gems%20Infinite%20Items.lua")
