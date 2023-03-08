@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 18:37:48"
+lastupdate = "GMT +1: 08.03.2023 18:37:53"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -11876,3 +11876,5 @@ addscriptexist(6243699076, "The Mimic: Instant Complete Normal TWT", "pulled fro
 addscriptexist(6229116934, "Hoopz: Silent aim, Aimbot, Auto Change Power", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Hoopz%20Silent%20aim%20Aimbot%20Auto%20Change%20Power.lua")
 
 addscriptexist(7180042682, "Military Tycoon: Auto Farm Items", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Military%20Tycoon%20Auto%20Farm%20Items.lua")
+
+addscriptexist(2210085102, "Naval Warfare: Infinity Ammo, Rapid Fire, Kill Opposite Team", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Naval%20Warfare%20Infinity%20Ammo%20Rapid%20Fire%20Kill%20Opposite%20Team.lua")
