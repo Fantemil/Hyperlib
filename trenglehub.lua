@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 14:50:05"
+lastupdate = "GMT +1: 08.03.2023 14:50:10"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -8126,3 +8126,5 @@ addscriptexist(6516141723, "DOORS: Dorr Esp, FullBright, Get All Badges", "pulle
 addscriptexist(2753915549, "Blox Fruits: Auto Farm, Fast Attack, Auto Select Weapon", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blox%20Fruits%20Auto%20Farm%20Fast%20Attack%20Auto%20Select%20Weapon.lua")
 
 addscriptexist(7525610732, "Kaizen: Auto Farm, Stats, Options", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Kaizen%20Auto%20Farm%20Stats%20Options.lua")
+
+addscriptexist(11445923563, "One Fruit Simulator: Kill Aura, Auto Quest, Auto Collect Fruits", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/One%20Fruit%20Simulator%20Kill%20Aura%20Auto%20Quest%20Auto%20Collect%20Fruits.lua")
