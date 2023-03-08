@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 06:24:50"
+lastupdate = "GMT +1: 08.03.2023 06:24:53"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -4560,3 +4560,5 @@ addscriptexist(9601565001, "Car Crash System: Anti Afk, Trolling, Fly", "pulled 
 addscriptexist(9601565001, "Car Crash System: Anti Afk, Trolling, Fly", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Car%20Crash%20System%20Anti%20Afk%20Trolling%20Fly.lua")
 
 addhub("DevHub: 6 Games", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DevHub%20%20Games.lua")
+
+addscriptexist(12017032683, "SCP: Stranded: Inf Stamina, Walkspeed, Inf Health", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SCP%20Stranded%20Inf%20Stamina%20Walkspeed%20Inf%20Health.lua")
