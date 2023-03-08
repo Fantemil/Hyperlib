@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 17:54:10"
+lastupdate = "GMT +1: 08.03.2023 17:54:16"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -10848,3 +10848,5 @@ addscriptexist(221718525, "Ninja Tycoon: Auto Build, Auto Click Droppers, Safe M
 addscriptexist(10861112990, "Anime Artifacts Simulator: Noclip, ESP, Walkspeed", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime%20Artifacts%20Simulator%20Noclip%20ESP%20Walkspeed.lua")
 
 addscriptexist(4410049285, "Driving Simulator: Auto Farm Speed, Anti AFK, Click TP", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Driving%20Simulator%20Auto%20Farm%20Speed%20Anti%20AFK%20Click%20TP.lua")
+
+addscript(7087534079, "Current Game","Naruto Defense Simulator: Auto Play, Redeem Codes, Auto Upgrade", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Naruto%20Defense%20Simulator%20Auto%20Play%20Redeem%20Codes%20Auto%20Upgrade.lua")
