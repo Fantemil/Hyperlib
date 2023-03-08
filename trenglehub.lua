@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 18:12:36"
+lastupdate = "GMT +1: 08.03.2023 18:12:41"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -11308,3 +11308,5 @@ addscriptexist(662417684, "Lucky Blocks Battlegrounds: Spawn Blocks, Reach, Fly 
 addscript(2066381781, "Current Game","Deadly Sins Retribution: Auto Spin Race and Magic", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Deadly%20Sins%20Retribution%20Auto%20Spin%20Race%20and%20Magic.lua")
 
 addscript(6612749452, "Current Game","Mineblox Simulator: Auto MIne, Auto Buy PickAxes, Auto Expand Plot", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mineblox%20Simulator%20Auto%20MIne%20Auto%20Buy%20PickAxes%20Auto%20Expand%20Plot.lua")
+
+addscriptexist(2788229376, "Da Hood: Resolve, Anti Lock, Auto Prediction", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Da%20Hood%20Resolve%20Anti%20Lock%20Auto%20Prediction.lua")
