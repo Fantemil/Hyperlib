@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 17:04:48"
+lastupdate = "GMT +1: 08.03.2023 17:04:57"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -9598,3 +9598,5 @@ addscript(10321372166, "Current Game","Pet Simulator X: Auto Farm, Auto Collect 
 addscriptexist(7047488135, "Speed Run Simulator: Options, Auto Rings, Auto Eggs", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Speed%20Run%20Simulator%20Options%20Auto%20Rings%20Auto%20Eggs.lua")
 
 addscriptexist(5956785391, "Project Slayers: Frost Hub Type Bypass", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Project%20Slayers%20Frost%20Hub%20Type%20Bypass.lua")
+
+addscriptexist(9848789324, "Ragdoll Engine: Anti Fling, Anti Ragdoll, Anti Kill & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ragdoll%20Engine%20Anti%20Fling%20Anti%20Ragdoll%20Anti%20Kill%20%20More.lua")
