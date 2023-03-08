@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 19:08:48"
+lastupdate = "GMT +1: 08.03.2023 19:08:53"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -12520,3 +12520,5 @@ addscript(9786070403, "Current Game","Piece X Tycoon: Summon from the first thin
 addscriptexist(4282985734, "Combat Warriors: Kill Aura, Infinity Stamina & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Combat%20Warriors%20Kill%20Aura%20Infinity%20Stamina%20%20More.lua")
 
 addscript(9677464361, "Current Game","Basketball Pro Simulator: Auto Throw, Gamepasses & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Basketball%20Pro%20Simulator%20Auto%20Throw%20Gamepasses%20%20More.lua")
+
+addscriptexist(8766919349, "Lifting Heros: Auto Lift, Auto Buy, Auto Eggs", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Lifting%20Heros%20Auto%20Lift%20Auto%20Buy%20Auto%20Eggs.lua")
