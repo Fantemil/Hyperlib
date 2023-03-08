@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 16:59:53"
+lastupdate = "GMT +1: 08.03.2023 16:59:57"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -9474,3 +9474,5 @@ addscriptexist(5956785391, "Project Slayers: Full Anticheat Kick Bypass", "pulle
 addscriptexist(7180042682, "Military Tycoon: Auto Farm, FPS, Ping", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Military%20Tycoon%20Auto%20Farm%20FPS%20Ping.lua")
 
 addscriptexist(2788229376, "Da Hood: Trigger Bot, FOV & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Da%20Hood%20Trigger%20Bot%20FOV%20%20More.lua")
+
+addscriptexist(8540168650, "Stand Upright: Rebooted | Lair Auto Farm, Drop System", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Stand%20Upright%20Rebooted%20%20Lair%20Auto%20Farm%20Drop%20System.lua")
