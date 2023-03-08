@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 17:21:57"
+lastupdate = "GMT +1: 08.03.2023 17:22:02"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -10036,3 +10036,5 @@ addscriptexist(9872472334, "Evade: Click TP, Teleports, Infinity Jump", "pulled 
 addscript(10963175, "Current Game","Game Store Tycoon: Give Yourself 10k, Walkspeed, Teleports", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Game%20Store%20Tycoon%20Give%20Yourself%20k%20Walkspeed%20Teleports.lua")
 
 addscript(9746160797, "Current Game","Sunsilk City: Auto Give Items", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sunsilk%20City%20Auto%20Give%20Items.lua")
+
+addscriptexist(11436221007, "Elton John Presents Beyond The Yellow Brick Road: Unlimited Golds", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Elton%20John%20Presents%20Beyond%20The%20Yellow%20Brick%20Road%20Unlimited%20Golds.lua")
