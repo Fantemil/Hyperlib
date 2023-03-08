@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Blissful4992/ROBLOX/main/TPSoccer.lua"))()
