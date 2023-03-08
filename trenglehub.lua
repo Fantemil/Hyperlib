@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 07:10:03"
+lastupdate = "GMT +1: 08.03.2023 07:10:07"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -5614,3 +5614,5 @@ addscript(9919640604, "Current Game","Gem Mining Incremental: Infinity Gems", "p
 addscriptexist(8884334497, "Mining Clicker Simulator: Auto Buy Pickaxe, Auto Rebirth, Auto Click", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mining%20Clicker%20Simulator%20Auto%20Buy%20Pickaxe%20Auto%20Rebirth%20Auto%20Click.lua")
 
 addhub("Celectial Hub: 20+ Games", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Celectial%20Hub%20%20Games.lua")
+
+addscript(10524502174, "Current Game","One Punch Fighters Simulator: Auto Open Eggs, Auto Farm Coins, Teleports", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/One%20Punch%20Fighters%20Simulator%20Auto%20Open%20Eggs%20Auto%20Farm%20Coins%20Teleports.lua")
