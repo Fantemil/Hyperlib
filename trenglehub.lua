@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 20:18:33"
+lastupdate = "GMT +1: 08.03.2023 20:18:37"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -13664,3 +13664,5 @@ addscriptexist(9662949425, "Punch a brick wall simulator | Inf Bones, AutoUp, Au
 addscriptexist(10676523834, "Racing Rocket | Inf Stars", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Racing%20Rocket%20%20Inf%20Stars.lua")
 
 addscriptexist(277751860, "Epic Minigames | Walkspeed, Infinity Jump, ClickTP", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Epic%20Minigames%20%20Walkspeed%20Infinity%20Jump%20ClickTP.lua")
+
+addscriptexist(6804602922, "BOXING BETA! | Walkspeed, Ragdoll, Inf Dodge Stamina", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BOXING%20BETA%20%20Walkspeed%20Ragdoll%20Inf%20Dodge%20Stamina.lua")
