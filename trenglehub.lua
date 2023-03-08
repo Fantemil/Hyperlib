@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 12:24:50"
+lastupdate = "GMT +1: 08.03.2023 12:24:54"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -5994,3 +5994,5 @@ addscriptexist(71315343, "Dragon Ball Rage: Play Music, BLTime, Options", "pulle
 addscriptexist(1252559098, "Snow Shoveling Simulator: Unlock Cave, No Cooldown & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Snow%20Shoveling%20Simulator%20Unlock%20Cave%20No%20Cooldown%20%20More.lua")
 
 addscript(8573962925, "Current Game","Alternate Battlegrounds: Attack To Back, Auto Clicker", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Alternate%20Battlegrounds%20Attack%20To%20Back%20Auto%20Clicker.lua")
+
+addscriptexist(6516141723, "DOORS: Unlock All Achievements, No Screech, Fly", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DOORS%20Unlock%20All%20Achievements%20No%20Screech%20Fly.lua")
