@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 14:58:37"
+lastupdate = "GMT +1: 08.03.2023 14:58:41"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -8350,3 +8350,5 @@ addscript(7774228661, "Current Game","Pirates Dream: Kill Aura", "pulled from rb
 addscriptexist(9579228669, "Everyday Car Driving: Loop Money", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Everyday%20Car%20Driving%20Loop%20Money.lua")
 
 addscriptexist(8328351891, "Mega Mansion Tycoon: Auto Collect, Auto Build", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mega%20Mansion%20Tycoon%20Auto%20Collect%20Auto%20Build.lua")
+
+addscript(10456811278, "Current Game","Milk Tycoon: Auto Farm, Auto Player", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Milk%20Tycoon%20Auto%20Farm%20Auto%20Player.lua")
