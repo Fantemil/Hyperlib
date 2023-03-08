@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 07:10:40"
+lastupdate = "GMT +1: 08.03.2023 07:10:45"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -5632,3 +5632,5 @@ addscript(9196514723, "Current Game","ChicBlocko: Teleports, Auto Farm, Shop GUI
 addscriptexist(7952502098, "Impossible Glass Bridge Obby: Teleport to the End", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Impossible%20Glass%20Bridge%20Obby%20Teleport%20to%20the%20End.lua")
 
 addscriptexist(2788229376, "Da Hood: Press X to Anti Lock", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Da%20Hood%20Press%20X%20to%20Anti%20Lock.lua")
+
+addscriptexist(4282985734, "Combat Warriors: Boss Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Combat%20Warriors%20Boss%20Farm.lua")
