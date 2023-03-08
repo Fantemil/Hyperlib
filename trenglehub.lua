@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 13:14:12"
+lastupdate = "GMT +1: 08.03.2023 13:14:18"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -7294,3 +7294,5 @@ addscriptexist(10875701453, "Edward the Man-Eating Train: Autofarm ticket, Modif
 addscriptexist(277751860, "Epic Minigames: Click TP, Walkspeed, Inf Jumps", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Epic%20Minigames%20Click%20TP%20Walkspeed%20Inf%20Jumps.lua")
 
 addscriptexist(7991339063, "Rainbow Friends: Auto Farm Items , Glitch Monster, Esp", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Rainbow%20Friends%20Auto%20Farm%20Items%20%20Glitch%20Monster%20Esp.lua")
+
+addscriptexist(9798463281, "Cube Combination: Cube Dumper", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Cube%20Combination%20Cube%20Dumper.lua")
