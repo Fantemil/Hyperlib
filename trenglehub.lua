@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 15:12:32"
+lastupdate = "GMT +1: 08.03.2023 15:12:36"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -8720,3 +8720,5 @@ addscriptexist(1730877806, "Grand Piece Online: Auto Stats, Auto Level Farm, Aut
 addscriptexist(6516141723, "DOOR: Spawn Rush, Give Lighter, Give Things", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DOOR%20Spawn%20Rush%20Give%20Lighter%20Give%20Things.lua")
 
 addscriptexist(9414511685, "Drive Cars Down A Hill: Go To Spawn, Auto Farm Money, Player Mods", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Drive%20Cars%20Down%20A%20Hill%20Go%20To%20Spawn%20Auto%20Farm%20Money%20Player%20Mods.lua")
+
+addhub("DragonHub: Many Games", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DragonHub%20Many%20Games.lua")
