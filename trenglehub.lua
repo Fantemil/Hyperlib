@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 18:18:34"
+lastupdate = "GMT +1: 08.03.2023 18:18:38"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -11454,3 +11454,5 @@ addscriptexist(9625096419, "Tapper Simulator: Auto Farm, Auto Rebirth, Auto Hatc
 addscriptexist(6516141723, "DOORS: Summon Screech", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DOORS%20Summon%20Screech.lua")
 
 addscriptuniversal("Universal Server Stat Icons", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Server%20Stat%20Icons.lua")
+
+addscript(8864518888, "Current Game","Pet Legends 2: Auto Farm, Auto Hatch & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pet%20Legends%20%20Auto%20Farm%20Auto%20Hatch%20%20More.lua")
