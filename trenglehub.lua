@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 19:03:39"
+lastupdate = "GMT +1: 08.03.2023 19:03:51"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -12410,3 +12410,5 @@ addscript(9284097280, "Current Game","Apartment Tycoon: Unlock Fly, Remove Blur,
 addscriptexist(2753915549, "Blox Fruits: Auto Farm Level, Auto New World & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blox%20Fruits%20Auto%20Farm%20Level%20Auto%20New%20World%20%20More.lua")
 
 addscriptexist(10447678365, "Dinosaur Simulator: Inf Money", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Dinosaur%20Simulator%20Inf%20Money.lua")
+
+addscriptexist(3198259055, "SoulShatters Test Place: God mode, Open Source", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SoulShatters%20Test%20Place%20God%20mode%20Open%20Source.lua")
