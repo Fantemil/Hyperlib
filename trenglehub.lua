@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 18:59:07"
+lastupdate = "GMT +1: 08.03.2023 18:59:12"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -12310,3 +12310,5 @@ addscriptexist(1242235469, "ball and axe: Limits Remover", "pulled from rbxscrip
 addscriptexist(10779604733, "VBet: Auto Click, Auto Open Case, Auto Cash Out", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/VBet%20Auto%20Click%20Auto%20Open%20Case%20Auto%20Cash%20Out.lua")
 
 addscriptexist(1224212277, "Mad City: Kill All", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mad%20City%20Kill%20All.lua")
+
+addscript(5915341487, "Current Game","Pancake's Wall Hop Difficulty Chart: Automatic Skip Stage, Skip Stage", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pancakes%20Wall%20Hop%20Difficulty%20Chart%20Automatic%20Skip%20Stage%20Skip%20Stage.lua")
