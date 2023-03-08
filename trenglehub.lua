@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 18:04:12"
+lastupdate = "GMT +1: 08.03.2023 18:04:16"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -11104,3 +11104,5 @@ addscriptexist(1224212277, "Mad City: Chapter 2 | Auto Rob", "pulled from rbxscr
 addscript(10379662529, "Current Game","Victory Jump: Mute Music, Auto Win, Auto Click", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Victory%20Jump%20Mute%20Music%20Auto%20Win%20Auto%20Click.lua")
 
 addscriptexist(8540346411, "Rebirth Champions X: Get all Pumpkins", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Rebirth%20Champions%20X%20Get%20all%20Pumpkins.lua")
+
+addscriptexist(5233782396, "Creatures of Sonaria: Auto Farm Wisps", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Creatures%20of%20Sonaria%20Auto%20Farm%20Wisps.lua")
