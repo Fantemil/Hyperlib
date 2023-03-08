@@ -14,9 +14,8 @@ local GetClosestToCursor = function()
        if not enemy:FindFirstChild("Head") then continue end
        if not enemy:FindFirstChildOfClass("Humanoid") then continue end
        if enemy.Humanoid.Health <= 0 then continue end
-       local screenPos, visible = workspace.CurrentCamera:WorldToViewportPoint(enemy.Head.Position)
 
-       if not visible then continue end
+       local screenPos, visible = workspace.CurrentCamera:WorldToViewportPoint(enemy.Head.Position)
 
        local distance = (Vector2.new(Mouse.X, Mouse.Y) - Vector2.new(screenPos.X, screenPos.Y)).Magnitude
        if distance < closestDistance then
@@ -49,13 +48,17 @@ local Highlight = function(ClosestEnemy)
    t:Play()
 end
 
-local old; old = hookmetamethod(game, "__index", function(this, index)
-   if not checkcaller() and this == Mouse and index == "Hit" then
+
+local old; old = hookmetamethod(game, '__namecall', function(this, ...)
+  local args = {...}
+  local method = getnamecallmethod()
+
+  if not checkcaller() and method == 'FireServer' and this.Name == "Gun" then
        if ClosestEnemy then
            task.spawn(Highlight, ClosestEnemy)
-           return ClosestEnemy.Head.CFrame
+           args[1]["Hit"] = ClosestEnemy.Head
        end
    end
 
-   return old(this, index)
+  return old(this, unpack(args))
 end)
