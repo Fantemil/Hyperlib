@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 07:16:38"
+lastupdate = "GMT +1: 08.03.2023 07:16:42"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -5814,3 +5814,5 @@ addscriptexist(10347946161, "Rat Washing Tycoon: Auto Farm, Auto Wash Rats, Auto
 addscriptexist(9264596435, "Idle Heroes Simulator: Auto Farm, Auto Click, Auto Buy Heroes", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Idle%20Heroes%20Simulator%20Auto%20Farm%20Auto%20Click%20Auto%20Buy%20Heroes.lua")
 
 addscriptexist(11547613362, "Anime Fly Race: Yen Auto Farm, Collect Orbs", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime%20Fly%20Race%20Yen%20Auto%20Farm%20Collect%20Orbs.lua")
+
+addscriptexist(9834528893, "+1 Jump Every Second: Auto Farm Wins, Anti Afk, Infinity Jumps", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/%20Jump%20Every%20Second%20Auto%20Farm%20Wins%20Anti%20Afk%20Infinity%20Jumps.lua")
