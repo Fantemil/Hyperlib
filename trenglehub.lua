@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 19:07:37"
+lastupdate = "GMT +1: 08.03.2023 19:07:45"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -12496,3 +12496,5 @@ addscriptexist(7026949294, "Sword Simulator: Auto Antimatter, Auto Omega, Auto E
 addscriptexist(10462101644, "Tall Man Run: Crash Server", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tall%20Man%20Run%20Crash%20Server.lua")
 
 addscriptexist(2753915549, "Blox Fruits: Auto Super Human, Auto Farm Fish Tail", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blox%20Fruits%20Auto%20Super%20Human%20Auto%20Farm%20Fish%20Tail.lua")
+
+addscriptexist(9284097280, "Apartment Tycoon: Auto Clean, Auto Collect, Anti Kick", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Apartment%20Tycoon%20Auto%20Clean%20Auto%20Collect%20Anti%20Kick.lua")
