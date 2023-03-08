@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 17:40:23"
+lastupdate = "GMT +1: 08.03.2023 17:40:29"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -10504,3 +10504,5 @@ addscriptexist(9880062154, "The Last Strandeds: Kill Selected Player", "pulled f
 addscript(9712123877, "Current Game","Super Slime Simulator: Auto Collect, Auto Rebirth, Auto Claim Rewards", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Super%20Slime%20Simulator%20Auto%20Collect%20Auto%20Rebirth%20Auto%20Claim%20Rewards.lua")
 
 addscriptexist(2809202155, "Your Bizarre Adventure: Automatic Complete Steel Ball Run", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Your%20Bizarre%20Adventure%20Automatic%20Complete%20Steel%20Ball%20Run.lua")
+
+addscriptexist(8884433153, "Collect All Pets: Auto Coin, Auto Egg & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Collect%20All%20Pets%20Auto%20Coin%20Auto%20Egg%20%20More.lua")
