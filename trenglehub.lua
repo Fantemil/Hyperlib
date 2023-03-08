@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 12:25:33"
+lastupdate = "GMT +1: 08.03.2023 12:25:37"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -6014,3 +6014,5 @@ addscriptuniversal("Universal Printer User Information", "pulled from rbxscript.
 addscriptuniversal("Universal anti webhook logger", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20anti%20webhook%20logger.lua")
 
 addscriptexist(6284583030, "Pet Simulator X! Auto Farm Coins, Auto Craft Pets & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pet%20Simulator%20X%20Auto%20Farm%20Coins%20Auto%20Craft%20Pets%20%20More.lua")
+
+addscriptexist(11606818992, "STEEP STEPS: Change jump power, Change speed, Change meters", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/STEEP%20STEPS%20Change%20jump%20power%20Change%20speed%20Change%20meters.lua")
