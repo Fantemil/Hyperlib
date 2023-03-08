@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 19:00:11"
+lastupdate = "GMT +1: 08.03.2023 19:00:18"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -12334,3 +12334,5 @@ addscriptexist(10710676163, "SPTS Origin: Teleport, Auto Farm, ESP", "pulled fro
 addscriptexist(155615604, "Prison Life: Get All Guns, BTools, Teleports", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Prison%20Life%20Get%20All%20Guns%20BTools%20Teleports.lua")
 
 addscriptexist(5104202731, "Southwest Florida Beta: Anti Afk", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Southwest%20Florida%20Beta%20Anti%20Afk.lua")
+
+addscriptexist(8884334497, "Mining Clicker Simulator: Auto Rebirth, Auto Tap, Infinity Jump", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mining%20Clicker%20Simulator%20Auto%20Rebirth%20Auto%20Tap%20Infinity%20Jump.lua")
