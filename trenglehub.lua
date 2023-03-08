@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 17:39:46"
+lastupdate = "GMT +1: 08.03.2023 17:39:50"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -10488,3 +10488,5 @@ addscriptexist(10023995823, "Da Backrooms: Entity ESP, Fullbright, Get Gamepasse
 addscriptexist(8726743209, "Refinery Caves: Teleport Ores to base, Teleport Ores to sell, Auto Buy", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Refinery%20Caves%20Teleport%20Ores%20to%20base%20Teleport%20Ores%20to%20sell%20Auto%20Buy.lua")
 
 addscriptexist(621129760, "Knife Ability Test: Lag server", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Knife%20Ability%20Test%20Lag%20server.lua")
+
+addscriptexist(7991339063, "Rainbow Friends: High Light Monsters", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Rainbow%20Friends%20High%20Light%20Monsters.lua")
