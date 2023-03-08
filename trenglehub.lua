@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 20:31:26"
+lastupdate = "GMT +1: 08.03.2023 20:31:30"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -14006,3 +14006,5 @@ addscriptexist(7138009149, "PHIGHTING [Inf Cash]", "pulled from rbxscript.com", 
 addscript(9845705613, "Current Game","Blood Hood [Godmode, KillAll]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blood%20Hood%20Godmode%20KillAll.lua")
 
 addscriptexist(7138009149, "PHIGHTING [NPC esp]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PHIGHTING%20NPC%20esp.lua")
+
+addscriptexist(9744954014, "THA HOOD!!! [Godmode, Inf Ammo]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/THA%20HOOD%20Godmode%20Inf%20Ammo.lua")
