@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 07:05:22"
+lastupdate = "GMT +1: 08.03.2023 07:05:26"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -5470,3 +5470,5 @@ addscriptuniversal("Universal Make Any Gun Semi Automatic", "pulled from rbxscri
 addscriptexist(11722450615, "steal roblox games to pay grandpa's bail tycoon: Auto create game, Auto upgrades, Auto build", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/steal%20roblox%20games%20to%20pay%20grandpas%20bail%20tycoon%20Auto%20create%20game%20Auto%20upgrades%20Auto%20build.lua")
 
 addscriptexist(6678877691, "ZO SAMURAI: Auto Parry", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ZO%20SAMURAI%20Auto%20Parry.lua")
+
+addscriptexist(3360853050, "Super Striker League: No Steal, Ball Size, Invisible", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Super%20Striker%20League%20No%20Steal%20Ball%20Size%20Invisible.lua")
