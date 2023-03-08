@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 19:51:37"
+lastupdate = "GMT +1: 08.03.2023 19:51:42"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -13226,3 +13226,5 @@ addscriptexist(662417684, "Lucky Block Battlegrounds | Block Giver", "pulled fro
 addscript(180364455, "Current Game","Survive The Disasters 2 | Anticheat bypass", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Survive%20The%20Disasters%20%20%20Anticheat%20bypass.lua")
 
 addscriptexist(142823291, "Murder Mystery 2 | Fly", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Murder%20Mystery%20%20%20Fly.lua")
+
+addscriptuniversal("Universal Change Normal Lighting to Future Lighting", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Change%20Normal%20Lighting%20to%20Future%20Lighting.lua")
