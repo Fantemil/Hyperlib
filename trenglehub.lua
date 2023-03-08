@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 06:42:04"
+lastupdate = "GMT +1: 08.03.2023 06:42:08"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -4758,3 +4758,5 @@ addscriptexist(6516141723, "DOORS: Key Aura, Infinity Jumps, Walkspeed", "pulled
 addscriptexist(1224212277, "Mad City: Chapter 2: Silent Aim, ESP, Auto Rob", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mad%20City%20Chapter%20%20Silent%20Aim%20ESP%20Auto%20Rob.lua")
 
 addscriptexist(142823291, "Murder Mystery 2: Walkspeeed, ESP, Silent Aim", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Murder%20Mystery%20%20Walkspeeed%20ESP%20Silent%20Aim.lua")
+
+addscriptexist(8750997647, "Tapping Legends X: AFK, Auto Tap, Auto Rebirth", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tapping%20Legends%20X%20AFK%20Auto%20Tap%20Auto%20Rebirth.lua")
