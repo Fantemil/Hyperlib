@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 12:23:27"
+lastupdate = "GMT +1: 08.03.2023 12:23:31"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -5956,3 +5956,5 @@ addhub("IpHub: 3 Games", "pulled from rbxscript.com", "https://raw.githubusercon
 addscriptuniversal("Universal Body Stealer File Version", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Body%20Stealer%20File%20Version.lua")
 
 addscriptexist(443406476, "Project Lazarus: Infinite Points", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Project%20Lazarus%20Infinite%20Points.lua")
+
+addscript(7294000494, "Current Game","Craftwars Knockoff: Auto Ore Farm, Auto Farm NPC, Auto Mine", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Craftwars%20Knockoff%20Auto%20Ore%20Farm%20Auto%20Farm%20NPC%20Auto%20Mine.lua")
