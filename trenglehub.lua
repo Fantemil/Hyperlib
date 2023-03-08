@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 13:07:49"
+lastupdate = "GMT +1: 08.03.2023 13:07:52"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -7128,3 +7128,5 @@ addscript(10175705301, "Current Game","Cant Say the Word: Server Crasher", "pull
 addscriptexist(8506369721, "dig to china: Farm Bomb", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/dig%20to%20china%20Farm%20Bomb.lua")
 
 addscript(6716339004, "Current Game","Tsunami Disaster Survival: Inf Money", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tsunami%20Disaster%20Survival%20Inf%20Money.lua")
+
+addscriptexist(9224601490, "Fruit Battlegrounds: Pvp Esp", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Fruit%20Battlegrounds%20Pvp%20Esp.lua")
