@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 14:43:59"
+lastupdate = "GMT +1: 08.03.2023 14:44:03"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -7958,3 +7958,5 @@ addscript(10424315298, "Current Game","Country Collectors: Auto Farm Wins", "pul
 addscriptexist(10424315298, "Country Collectors: Infinite Money", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Country%20Collectors%20Infinite%20Money.lua")
 
 addscriptexist(6679968919, "Fly Race: Noob Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Fly%20Race%20Noob%20Auto%20Farm.lua")
+
+addscriptexist(6403373529, "Slap Battles: Auto Farm Server Hop", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Slap%20Battles%20Auto%20Farm%20Server%20Hop.lua")
