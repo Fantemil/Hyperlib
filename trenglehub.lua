@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 19:12:54"
+lastupdate = "GMT +1: 08.03.2023 19:12:58"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -12608,3 +12608,5 @@ addscriptexist(10861112990, "Anime Artifacts Simulator 2: Kill Aura For Event Du
 addscriptexist(6284583030, "Pet Simulator X: Auto Farm, Teleports, Fun & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pet%20Simulator%20X%20Auto%20Farm%20Teleports%20Fun%20%20More.lua")
 
 addscriptexist(10861112990, "Anime Artifacts Simulator 2: Kill Aura For Monsters", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime%20Artifacts%20Simulator%20%20Kill%20Aura%20For%20Monsters.lua")
+
+addscript(10374645170, "Current Game","One Piece Battles: Auto Farm Kings Punch", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/One%20Piece%20Battles%20Auto%20Farm%20Kings%20Punch.lua")
