@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 16:46:46"
+lastupdate = "GMT +1: 08.03.2023 16:46:50"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -9140,3 +9140,5 @@ addscriptexist(11346342371, "making memes in your basement at 3 AM tycoon: Autom
 addscriptexist(5796917097, "Road to Gramby's: Item Spawner, God Mode, Fly", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Road%20to%20Grambys%20Item%20Spawner%20God%20Mode%20Fly.lua")
 
 addscriptexist(7525610732, "Kaizen: Anti-Afk ,Money farm, WalkSpeed", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Kaizen%20AntiAfk%20Money%20farm%20WalkSpeed.lua")
+
+addscriptexist(7525610732, "Kaizen: God mode, Inf Stamina, Anti Ragdoll", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Kaizen%20God%20mode%20Inf%20Stamina%20Anti%20Ragdoll.lua")
