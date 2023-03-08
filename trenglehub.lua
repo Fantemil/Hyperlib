@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 16:47:07"
+lastupdate = "GMT +1: 08.03.2023 16:47:11"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -9148,3 +9148,5 @@ addscriptexist(286090429, "Arsenal: Ai Bots, Auto Farm, God Mode & More", "pulle
 addscriptexist(6872265039, "BedWars: Aim Assist, Auto Clicker, Reach & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BedWars%20Aim%20Assist%20Auto%20Clicker%20Reach%20%20More.lua")
 
 addscriptexist(7560156054, "Clicker Simulator: Infinite Money", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Clicker%20Simulator%20Infinite%20Money.lua")
+
+addscriptexist(10681622988, "Easy Jump Clicker: Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Easy%20Jump%20Clicker%20Auto%20Farm.lua")
