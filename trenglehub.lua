@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 17:46:59"
+lastupdate = "GMT +1: 08.03.2023 17:47:03"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -10670,3 +10670,5 @@ addscriptexist(8084034728, "Roblox but every second you become stronger: Launch 
 addscriptexist(8084034728, "Roblox but every second you become stronger: WalkSpeed, Jump Power", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Roblox%20but%20every%20second%20you%20become%20stronger%20WalkSpeed%20Jump%20Power.lua")
 
 addscriptexist(9912491609, "How Far Can You Fly? Auto Farm Money, Auto Collect Coins, Auto Buy Rebirths", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/How%20Far%20Can%20You%20Fly%20Auto%20Farm%20Money%20Auto%20Collect%20Coins%20Auto%20Buy%20Rebirths.lua")
+
+addscript(9623163321, "Current Game","Zombie Bunker Tycoon: Infinity Money", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Zombie%20Bunker%20Tycoon%20Infinity%20Money.lua")
