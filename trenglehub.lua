@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 15:00:29"
+lastupdate = "GMT +1: 08.03.2023 15:00:33"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -8402,3 +8402,5 @@ addscriptuniversal("Universal Red Simple Spy", "pulled from rbxscript.com", "htt
 addscript(11402147065, "Current Game","Ragdoll Clicker: Auto Clicker, Auto Rebirth, Auto Win Distance", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ragdoll%20Clicker%20Auto%20Clicker%20Auto%20Rebirth%20Auto%20Win%20Distance.lua")
 
 addscriptexist(11402147065, "Ragdoll Clicker: Auto Click, Auto Farm, Auto Rebirth", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ragdoll%20Clicker%20Auto%20Click%20Auto%20Farm%20Auto%20Rebirth.lua")
+
+addscriptexist(11063612131, "Every Second You Get +1 Jump Power: Auto Open Eggs, Auto Rebirth, Teleports", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Every%20Second%20You%20Get%20%20Jump%20Power%20Auto%20Open%20Eggs%20Auto%20Rebirth%20Teleports.lua")
