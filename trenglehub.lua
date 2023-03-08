@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 20:14:09"
+lastupdate = "GMT +1: 08.03.2023 20:14:13"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -13550,3 +13550,5 @@ addscriptexist(9417197334, "Anime Story [GUI - Stats Changer]", "pulled from rbx
 addscriptexist(335760407, "TPS: Ultimate Soccer | Inf Stamina, AutoGK, Reach", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TPS%20Ultimate%20Soccer%20%20Inf%20Stamina%20AutoGK%20Reach.lua")
 
 addscriptexist(9585537847, "SHADOVIS RPG | AutoCollect Cubits, AutoRebirth, KillAura", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SHADOVIS%20RPG%20%20AutoCollect%20Cubits%20AutoRebirth%20KillAura.lua")
+
+addscript(4601704679, "Current Game","Bakon | Walkspeed, AutoFarmm JumpPower", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Bakon%20%20Walkspeed%20AutoFarmm%20JumpPower.lua")
