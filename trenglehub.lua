@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 21:17:38"
+lastupdate = "GMT +1: 08.03.2023 21:17:43"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -14964,3 +14964,5 @@ addscriptexist(10524502174, "One Punch Fighters [AutoFarm, AutoRank]", "pulled f
 addscriptexist(2753915549, "Blox Fruits [AutoFarm Beli]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blox%20Fruits%20AutoFarm%20Beli.lua")
 
 addscriptexist(6516141723, "DOORS [Instant Interact, Skip Lvl]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DOORS%20Instant%20Interact%20Skip%20Lvl.lua")
+
+addscriptexist(4809447488, "Venture Tale [Auto Retry, Auto Collect]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Venture%20Tale%20Auto%20Retry%20Auto%20Collect.lua")
