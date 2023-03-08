@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 17:00:47"
+lastupdate = "GMT +1: 08.03.2023 17:00:52"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -9494,3 +9494,5 @@ addscriptexist(9872472334, "Evade: Auto Farm, ESP, Auto Respawn", "pulled from r
 addscriptexist(2512643572, "Bubble Gum Simulator: Auto Blow, Auto Sell, Anti Afk", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Bubble%20Gum%20Simulator%20Auto%20Blow%20Auto%20Sell%20Anti%20Afk.lua")
 
 addscriptexist(10404327868, "Timber Champions: Auto Farm, Auto Hatch Any Egg, Auto Collect Orbs", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Timber%20Champions%20Auto%20Farm%20Auto%20Hatch%20Any%20Egg%20Auto%20Collect%20Orbs.lua")
+
+addscriptexist(536102540, "DBZ Final Stand: Infinity Stats", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DBZ%20Final%20Stand%20Infinity%20Stats.lua")
