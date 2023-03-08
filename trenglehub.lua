@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 14:29:06"
+lastupdate = "GMT +1: 08.03.2023 14:29:12"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -7566,3 +7566,5 @@ addscriptexist(6679968919, "Fly Race: Auto Laps, Auto Rebirth, Auto Orbs", "pull
 addscriptexist(10914683361, "Busy Business! Auto Lemonade", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Busy%20Business%20Auto%20Lemonade.lua")
 
 addscript(11217941123, "Current Game","stupid idiot cafe: Kick All People From The Server", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/stupid%20idiot%20cafe%20Kick%20All%20People%20From%20The%20Server.lua")
+
+addscriptexist(2262441883, "Electric State DarkRP: Printer ESP, Shipment ESP", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Electric%20State%20DarkRP%20Printer%20ESP%20Shipment%20ESP.lua")
