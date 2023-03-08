@@ -1,18 +1,19 @@
-while wait() do
-    game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(10266, 27323.252, 173, 0, 0, -1, -1, 0, 0, 0, 1, 0)
-        wait(12.0)
+_G.Active = true -- toggle on/off
+while _G.Active do
+wait(0.1)
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-231, 2536, -11)
+wait(0.1)
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(0, 1872, 132)
+wait(0.1)
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(381, 8982, -44)
+wait(0.1)
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(2052, 6208, 133)
+wait(0.1)
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(4050, 8738, 140)
+wait(0.1)
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(6050, 13433, 153)
+wait(0.1)
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(8052, 19193, 154)
+
+game:GetService("ReplicatedStorage").RebirthEvent:FireServer() --- Remove this remote if you don't want to auto rebirth
 end
--- World coord wins --
--- World 1 : -1, 1868.94995, 130, 0, 0, -1, -1, 0, 0, 0, 1, 0
--- World 2 : 2049, 6205.05029, 131, 0, 0, -1, -1, 0, 0, 0, 1, 0
--- World 3 : 4049, 8734.84961, 141, 0, 0, -1, -1, 0, 0, 0, 1, 0
--- World 4 : 6049, 13429.8496, 152, 0, 0, -1, -1, 0, 0, 0, 1, 0
--- World 5 : 8049, 19189.8516, 161, 0, 0, -1, -1, 0, 0, 0, 1, 0
--- World 6 : 10266, 27323.252, 173, 0, 0, -1, -1, 0, 0, 0, 1, 0
-
--- Secret Badge --
--- Begin : 17.0961304, -114.21283, -49.8958893, 0, 0, -1, -1, 0, 0, 0, 1, 0
--- End : 17.0000038, -107.300003, 125.900009, -1, 0, -0, 0, 0, -1, 0, -1, -0
-
--- Teleport --
--- game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(coord)
