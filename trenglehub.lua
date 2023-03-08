@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 14:40:56"
+lastupdate = "GMT +1: 08.03.2023 14:41:00"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -7876,3 +7876,5 @@ addscriptexist(6938803436, "Anime Dimensions Simulator: Auto Farm, Dimension Lis
 addhub("Universal Hub for many games", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Hub%20for%20many%20games.lua")
 
 addscriptexist(920587237, "Adopt Me: Gingerbread Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Adopt%20Me%20Gingerbread%20Farm.lua")
+
+addscriptexist(3177438863, "Dragon Blox: Auto Farm Gui, Very Powerful", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Dragon%20Blox%20Auto%20Farm%20Gui%20Very%20Powerful.lua")
