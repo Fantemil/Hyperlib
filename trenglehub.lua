@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 21:18:47"
+lastupdate = "GMT +1: 08.03.2023 21:18:52"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -14996,3 +14996,5 @@ addscriptexist(1962086868, "Tower of Hell [Inf Jump, AutoFarm]", "pulled from rb
 addscriptexist(6542731310, "Dogecoin Mining Tycoon [Unlock All]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Dogecoin%20Mining%20Tycoon%20Unlock%20All.lua")
 
 addscriptexist(10184360875, "Pet&Fishing Simulator [Auto Farm Rebirth]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PetFishing%20Simulator%20Auto%20Farm%20Rebirth.lua")
+
+addscriptexist(2537430692, "Jenga [Sound Vine Boom]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Jenga%20Sound%20Vine%20Boom.lua")
