@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 16:39:15"
+lastupdate = "GMT +1: 08.03.2023 16:39:20"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -8960,3 +8960,5 @@ addscriptexist(10053187005, "Counter Blox Reimagined: Skin Changer", "pulled fro
 addscriptuniversal("Universal Gui Detection Bypass", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Gui%20Detection%20Bypass.lua")
 
 addscriptuniversal("Universal UI Libs", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20UI%20Libs.lua")
+
+addscriptexist(11459646568, "How Far Can You Backflip: Auto buy Speed, Auto Rebirth, Infinity Money", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/How%20Far%20Can%20You%20Backflip%20Auto%20buy%20Speed%20Auto%20Rebirth%20Infinity%20Money.lua")
