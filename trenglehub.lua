@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 18:19:31"
+lastupdate = "GMT +1: 08.03.2023 18:19:35"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -11476,3 +11476,5 @@ addscriptexist(8884433153, "Collect All Pets: Auto Farm, Invis", "pulled from rb
 addscriptuniversal("Universal Trolling Gui", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Trolling%20Gui.lua")
 
 addscriptuniversal("Universal Silent Aim Gui", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Silent%20Aim%20Gui.lua")
+
+addscript(10232731562, "Current Game","Pro Piece PRO MAX: God MOde, Insta Kill, Auto Fruits", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pro%20Piece%20PRO%20MAX%20God%20MOde%20Insta%20Kill%20Auto%20Fruits.lua")
