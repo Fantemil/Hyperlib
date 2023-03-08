@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 18:35:18"
+lastupdate = "GMT +1: 08.03.2023 18:35:23"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -11824,3 +11824,5 @@ addhub("Galaxy Hub: Many Games Support", "pulled from rbxscript.com", "https://r
 addscriptexist(9486506804, "FIFA World: Auto Grab Words", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FIFA%20World%20Auto%20Grab%20Words.lua")
 
 addscriptexist(7002808196, "Simulator of falling into a Ditch: Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Simulator%20of%20falling%20into%20a%20Ditch%20Auto%20Farm.lua")
+
+addscript(2037885598, "Current Game","Sushi Restaurant Tycoon: Infinite Golden Egg", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sushi%20Restaurant%20Tycoon%20Infinite%20Golden%20Egg.lua")
