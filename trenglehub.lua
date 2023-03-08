@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 16:56:08"
+lastupdate = "GMT +1: 08.03.2023 16:56:13"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -9376,3 +9376,5 @@ addscriptexist(445664957, "Parkour: God Mode", "pulled from rbxscript.com", "htt
 addscript(9832066570, "Current Game","Tower Battles: Defensive Holds | Gun Mods", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tower%20Battles%20Defensive%20Holds%20%20Gun%20Mods.lua")
 
 addscript(3376584594, "Current Game","Flight Simulator: Infinite Money", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Flight%20Simulator%20Infinite%20Money.lua")
+
+addscript(10476933477, "Current Game","Strong Ninja Simulator: Auto Strength, Auto Rebirth, Trade Spam", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Strong%20Ninja%20Simulator%20Auto%20Strength%20Auto%20Rebirth%20Trade%20Spam.lua")
