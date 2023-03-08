@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 15:09:03"
+lastupdate = "GMT +1: 08.03.2023 15:09:09"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -8628,3 +8628,5 @@ addscriptuniversal("Nexus Hub: Animations, Hubs, Fly", "pulled from rbxscript.co
 addscriptexist(8737602449, "PLS DONATE: Fake Donate, Options", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PLS%20DONATE%20Fake%20Donate%20Options.lua")
 
 addscript(8015075184, "Current Game","3-2-1 Blast Off Simulator: Auto Buy Rocket, Auto Buy Fuel Scoop, Auto Buy Backpack", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/%20Blast%20Off%20Simulator%20Auto%20Buy%20Rocket%20Auto%20Buy%20Fuel%20Scoop%20Auto%20Buy%20Backpack.lua")
+
+addscript(10325366821, "Current Game","OOF Tycoon: Autocollect, Autoincrese, Autoprize", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OOF%20Tycoon%20Autocollect%20Autoincrese%20Autoprize.lua")
