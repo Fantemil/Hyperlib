@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 14:46:36"
+lastupdate = "GMT +1: 08.03.2023 14:46:40"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -8028,3 +8028,5 @@ addscriptexist(5956785391, "Project Slayers: Auto Regen, Infinity Stamina, Telep
 addscriptexist(11445923563, "One Fruit Simulator: Auto Farm, Auto Skills, Grab Fruits", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/One%20Fruit%20Simulator%20Auto%20Farm%20Auto%20Skills%20Grab%20Fruits.lua")
 
 addscriptexist(2916899287, "Blackhawk Rescue Mission 5: Gui, Insane Features!", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blackhawk%20Rescue%20Mission%20%20Gui%20Insane%20Features.lua")
+
+addscriptexist(5490351219, "Clicker Madness: Norm Auto Click, Auto Boss, Loop Kill All", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Clicker%20Madness%20Norm%20Auto%20Click%20Auto%20Boss%20Loop%20Kill%20All.lua")
