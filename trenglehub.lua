@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 16:58:28"
+lastupdate = "GMT +1: 08.03.2023 16:58:32"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -9438,3 +9438,5 @@ addscript(166986752, "Current Game","Plane Crazy: Printing", "pulled from rbxscr
 addscriptexist(9055015233, "My Hood: Instant Crash Server", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/My%20Hood%20Instant%20Crash%20Server.lua")
 
 addscript(6536647319, "Current Game","Slayers Unleashed: Admin Commands", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Slayers%20Unleashed%20Admin%20Commands.lua")
+
+addscript(4870984160, "Current Game","Cornerstone Arcade: Auto Farm Work", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Cornerstone%20Arcade%20Auto%20Farm%20Work.lua")
