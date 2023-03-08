@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 18:46:46"
+lastupdate = "GMT +1: 08.03.2023 18:46:53"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -12040,3 +12040,5 @@ addscript(245440965, "Current Game","Shipping Lanes: All Teleports, Auto Refuel 
 addscriptexist(9941633436, "Rank Simulator: Inf Money", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Rank%20Simulator%20Inf%20Money.lua")
 
 addscriptexist(8590762007, "normal real time strategy game: See Cash players", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/normal%20real%20time%20strategy%20game%20See%20Cash%20players.lua")
+
+addscript(7688166467, "Current Game","Sitting Simulator Gui: Sword Bot & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sitting%20Simulator%20Gui%20Sword%20Bot%20%20More.lua")
