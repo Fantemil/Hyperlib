@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 13:15:39"
+lastupdate = "GMT +1: 08.03.2023 13:15:43"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -7334,3 +7334,5 @@ addscriptexist(4616652839, "Shindo Life: Auto Farm, Boss Farm, Jin Farm", "pulle
 addscriptexist(10404327868, "Timber Champions: Auto Farm, Auto Egg, Auto Сollect Orbs", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Timber%20Champions%20Auto%20Farm%20Auto%20Egg%20Auto%20%D0%A1ollect%20Orbs.lua")
 
 addscript(7215261025, "Current Game","Retro TDS: Auto Farm GUI", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Retro%20TDS%20Auto%20Farm%20GUI.lua")
+
+addscriptexist(11063612131, "Every Second You Get +1 Jump Power: Auto Buy Pets, Auto Rebirth, Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Every%20Second%20You%20Get%20%20Jump%20Power%20Auto%20Buy%20Pets%20Auto%20Rebirth%20Auto%20Farm.lua")
