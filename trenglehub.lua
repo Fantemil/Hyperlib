@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 16:47:19"
+lastupdate = "GMT +1: 08.03.2023 16:47:24"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -9154,3 +9154,5 @@ addscriptexist(10681622988, "Easy Jump Clicker: Auto Farm", "pulled from rbxscri
 addscript(263761432, "Current Game","Horrific Housing: Soul Auto Collect", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Horrific%20Housing%20Soul%20Auto%20Collect.lua")
 
 addscriptexist(1662219031, "Life In Paradise: Seat Teleport", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Life%20In%20Paradise%20Seat%20Teleport.lua")
+
+addscript(7836133734, "Current Game","Minus Elevation: Enemy Chams, Button Chams", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Minus%20Elevation%20Enemy%20Chams%20Button%20Chams.lua")
