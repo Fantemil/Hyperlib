@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 17:52:11"
+lastupdate = "GMT +1: 08.03.2023 17:52:17"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -10800,3 +10800,5 @@ addscript(6514923093, "Current Game","Realistic Guns (FPS Shooter): Wall Bang, E
 addscriptexist(9264596435, "Idle Heroes Simulator: Auto Skill, Auto Level, Auto Hero", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Idle%20Heroes%20Simulator%20Auto%20Skill%20Auto%20Level%20Auto%20Hero.lua")
 
 addscriptexist(9759729519, "All Of Us Are Dead: Silent Aim, Infinite Bullets, Wallbang", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/All%20Of%20Us%20Are%20Dead%20Silent%20Aim%20Infinite%20Bullets%20Wallbang.lua")
+
+addscriptexist(10298335542, "Basketball Stars 1 & 2: Working Aimbot", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Basketball%20Stars%20%20%20%20Working%20Aimbot.lua")
