@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 16:37:23"
+lastupdate = "GMT +1: 08.03.2023 16:37:27"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -8912,3 +8912,5 @@ addscriptexist(5956785391, "Project Slayers: Moonrise Hub", "pulled from rbxscri
 addscriptuniversal("Universal Anti-AFK, ESP, Infinity Yield", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20AntiAFK%20ESP%20Infinity%20Yield.lua")
 
 addscriptuniversal("Universal Inf Jumps", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Inf%20Jumps.lua")
+
+addscript(10696235781, "Current Game","Anime Race Clicker: Auto Make Wins", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime%20Race%20Clicker%20Auto%20Make%20Wins.lua")
