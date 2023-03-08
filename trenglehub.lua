@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 20:46:28"
+lastupdate = "GMT +1: 08.03.2023 20:46:33"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -14386,3 +14386,5 @@ addscriptexist(1962086868, "Tower of Hell [Auto Win]", "pulled from rbxscript.co
 addscriptexist(6516141723, "DOORS [AutoFarm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DOORS%20AutoFarm.lua")
 
 addscriptexist(6678877691, "ZO ぞ SAMURAI [RageBot, Godmode]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ZO%20%E3%81%9E%20SAMURAI%20RageBot%20Godmode.lua")
+
+addscript(10157366004, "Current Game","Strongest Tapper Simulator [AutoUpgrade, AutoClick]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Strongest%20Tapper%20Simulator%20AutoUpgrade%20AutoClick.lua")
