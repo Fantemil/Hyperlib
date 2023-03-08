@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 16:38:38"
+lastupdate = "GMT +1: 08.03.2023 16:38:44"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -8946,3 +8946,5 @@ addscriptexist(2753915549, "Blox Fruits: Mirage Island TP", "pulled from rbxscri
 addscript(1997193809, "Current Game","Backpacking: Auto Farm, Destroy All Seats, FPS Boost", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Backpacking%20Auto%20Farm%20Destroy%20All%20Seats%20FPS%20Boost.lua")
 
 addscriptuniversal("Universal Server Hop, Noclip, Jump Power", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Server%20Hop%20Noclip%20Jump%20Power.lua")
+
+addscriptexist(990566015, "Cursed Islands: Auto Play, Water Remover, Teleports", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Cursed%20Islands%20Auto%20Play%20Water%20Remover%20Teleports.lua")
