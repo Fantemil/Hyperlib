@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 13:14:04"
+lastupdate = "GMT +1: 08.03.2023 13:14:08"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -7290,3 +7290,5 @@ addscriptexist(3101667897, "Legends Of Speed: Auto Farm Crystals", "pulled from 
 addscriptexist(7991339063, "Rainbow Friends: God mode, Esp Monsters, Collect All Items", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Rainbow%20Friends%20God%20mode%20Esp%20Monsters%20Collect%20All%20Items.lua")
 
 addscriptexist(10875701453, "Edward the Man-Eating Train: Autofarm ticket, Modify ammo, Fast interact", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Edward%20the%20ManEating%20Train%20Autofarm%20ticket%20Modify%20ammo%20Fast%20interact.lua")
+
+addscriptexist(277751860, "Epic Minigames: Click TP, Walkspeed, Inf Jumps", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Epic%20Minigames%20Click%20TP%20Walkspeed%20Inf%20Jumps.lua")
