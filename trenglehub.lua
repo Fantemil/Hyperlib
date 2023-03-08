@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 06:48:27"
+lastupdate = "GMT +1: 08.03.2023 06:48:30"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -4956,3 +4956,5 @@ addscriptexist(6728870912, "World of Stands: Noclip, Walkspeed, Chest Farm", "pu
 addscriptexist(1962086868, "Tower of Hell: Auto Buy, Teleport to End, Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tower%20of%20Hell%20Auto%20Buy%20Teleport%20to%20End%20Auto%20Farm.lua")
 
 addscriptexist(3587619225, "Mega Easy Obby: Free Double Jump Gamepass", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mega%20Easy%20Obby%20Free%20Double%20Jump%20Gamepass.lua")
+
+addscriptuniversal("Universal Execute script only whitelist", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Execute%20script%20only%20whitelist.lua")
