@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 06:52:50"
+lastupdate = "GMT +1: 08.03.2023 06:52:54"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -5088,3 +5088,5 @@ addhub("Mops Hub: 11 Games", "pulled from rbxscript.com", "https://raw.githubuse
 addscriptexist(11445923563, "ONE FRUIT: Auto Defense, Auto Open Crates, Auto Farm Selected", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ONE%20FRUIT%20Auto%20Defense%20Auto%20Open%20Crates%20Auto%20Farm%20Selected.lua")
 
 addscript(10977918334, "Current Game","Merge Droppers: Infinity Parts, Auto Collect, Auto Deposit", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Merge%20Droppers%20Infinity%20Parts%20Auto%20Collect%20Auto%20Deposit.lua")
+
+addscriptexist(6679968919, "Fly Race: Auto Collect Orb, Auto Rebirth, Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Fly%20Race%20Auto%20Collect%20Orb%20Auto%20Rebirth%20Auto%20Farm.lua")
