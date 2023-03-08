@@ -1,3 +1,43 @@
-local A_1 = "{Removing Head, Hold Tight...}" local A_2 = "All" local Event = game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest Event:FireServer(A_1, A_2)
-local lp = game:GetService "Players".LocalPlayer if lp.Character:FindFirstChild "Head" then local char = lp.Character char.Archivable = true local new = char:Clone() new.Parent = workspace lp.Character = new wait(2) local oldhum = char:FindFirstChildWhichIsA "Humanoid" local newhum = oldhum:Clone() newhum.Parent = char newhum.RequiresNeck = false oldhum.Parent = nil wait(2) lp.Character = char new:Destroy() wait(1) newhum:GetPropertyChangedSignal("Health"):Connect( function() if newhum.Health <= 0 then oldhum.Parent = lp.Character wait(1) oldhum:Destroy() end end) workspace.CurrentCamera.CameraSubject = char if char:FindFirstChild "Animate" then char.Animate.Disabled = true wait(.1) char.Animate.Disabled = false end lp.Character:FindFirstChild "Head":Destroy() end
-local A_1 = "{Head Removed Successfully. Reset to Return to Normal.}" local A_2 = "All" local Event = game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest Event:FireServer(A_1, A_2)
+-- services
+local players = game:GetService("Players")
+local starterGui = game:GetService("StarterGui")
+-- objects
+local player = players.LocalPlayer
+local character = player.Character
+local humanoid = character:FindFirstChildWhichIsA("Humanoid")
+local head, torso = character:FindFirstChild("Head"), character:FindFirstChild("UpperTorso")
+local resetBindable = Instance.new("BindableEvent")
+-- variables
+local destroyFunc, resetBindableConnection = character.Destroy, nil
+-- main
+-- initializes the permadeath
+player.Character = nil
+player.Character = character
+task.wait(players.RespawnTime + .05)
+
+humanoid.BreakJointsOnDeath = false
+humanoid:SetStateEnabled(Enum.HumanoidStateType.Dead, false)
+if humanoid.RigType == Enum.HumanoidRigType.R15 then
+   task.defer(destroyFunc, (head.Neck))
+end
+task.defer(destroyFunc, head) -- and we destroy the head
+
+resetBindableConnection = resetBindable.Event:Connect(function()
+   starterGui:SetCore("ResetButtonCallback", true)
+   resetBindableConnection:Disconnect()
+
+   if player.Character == character then
+       character:Destroy()
+       local daModel = Instance.new("Model")
+       local _daModelHumanoid = Instance.new("Humanoid")
+       _daModelHumanoid.Parent = daModel
+       player.Character = daModel
+
+       task.delay(players.RespawnTime, destroyFunc, daModel)
+   else
+       player.Character:BreakJoints()
+   end
+end)
+starterGui:SetCore("ResetButtonCallback", resetBindable)
+
+--fixed for synapse
