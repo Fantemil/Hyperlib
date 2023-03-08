@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 20:36:29"
+lastupdate = "GMT +1: 08.03.2023 20:36:35"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -14138,3 +14138,5 @@ addscriptexist(4520749081, "King Legacy [Inf Dash, AutoFarm]", "pulled from rbxs
 addscriptexist(9498006165, "Tapping Simulator [AutoRebirth, Inf Jump]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tapping%20Simulator%20AutoRebirth%20Inf%20Jump.lua")
 
 addscriptexist(9872472334, "Evade [Quick Revive, Show Chat, Autofarm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Evade%20Quick%20Revive%20Show%20Chat%20Autofarm.lua")
+
+addscript(6609611538, "Current Game","Mechanica [Lag Server]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mechanica%20Lag%20Server.lua")
