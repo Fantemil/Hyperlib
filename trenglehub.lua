@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 19:35:41"
+lastupdate = "GMT +1: 08.03.2023 19:35:46"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -13108,3 +13108,5 @@ addscriptexist(142823291, "Murder Mystery 2: Fly, Esp, Noclip", "pulled from rbx
 addscriptexist(2753915549, "Blox Fruits GUI: Auto Farm, Fast Attack & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blox%20Fruits%20GUI%20Auto%20Farm%20Fast%20Attack%20%20More.lua")
 
 addscript(4760217946, "Current Game","Limited Badges: Badge Collector", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Limited%20Badges%20Badge%20Collector.lua")
+
+addscriptexist(189707, "Natural Disaster Survival: Speed Changer, Gravity, Jumppower", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Natural%20Disaster%20Survival%20Speed%20Changer%20Gravity%20Jumppower.lua")
