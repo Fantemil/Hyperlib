@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 06:36:15"
+lastupdate = "GMT +1: 08.03.2023 06:36:32"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -4592,3 +4592,5 @@ addscriptexist(4639625707, "War Tycoon: Barrel Auto Farm, Server Hop", "pulled f
 addscriptuniversal("Universal Fly GUI V3", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Fly%20GUI%20V.lua")
 
 addscriptexist(6284583030, "Pet Simulator X!: Auto Farm, Auto Collect, Auto Hatch", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pet%20Simulator%20X%20Auto%20Farm%20Auto%20Collect%20Auto%20Hatch.lua")
+
+addscriptuniversal("Unievrsal Notification System", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Unievrsal%20Notification%20System.lua")
