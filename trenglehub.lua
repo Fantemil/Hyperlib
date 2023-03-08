@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 20:35:32"
+lastupdate = "GMT +1: 08.03.2023 20:35:36"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -14112,3 +14112,5 @@ addscriptexist(286090429, "Arsenal [Inf Ammo]", "pulled from rbxscript.com", "ht
 addscript(4893679160, "Current Game","Big Brain Simulator [AutoSell, Collect Coins]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Big%20Brain%20Simulator%20AutoSell%20Collect%20Coins.lua")
 
 addscript(6245984328, "Current Game","NERF Strike [AutoFarm, Hitboxes]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NERF%20Strike%20AutoFarm%20Hitboxes.lua")
+
+addscript(9203864304, "Current Game","raise a floppa [AutoClick, AutoCollectMoney]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/raise%20a%20floppa%20AutoClick%20AutoCollectMoney.lua")
