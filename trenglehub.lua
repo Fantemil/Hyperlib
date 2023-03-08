@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 16:56:47"
+lastupdate = "GMT +1: 08.03.2023 16:56:51"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -9392,3 +9392,5 @@ addscriptexist(9649680488, "Backrooms Race Clicker: Auto Farm", "pulled from rbx
 addscriptexist(10041108328, "Dark Life: Remove collect cooldown", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Dark%20Life%20Remove%20collect%20cooldown.lua")
 
 addscriptexist(5956785391, "Project Slayers: Auto Farm Boss, Kill Aura, Inf Stamina", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Project%20Slayers%20Auto%20Farm%20Boss%20Kill%20Aura%20Inf%20Stamina.lua")
+
+addscript(11255073656, "Current Game","Mining Merge Clicker Tycoon: Auto Sell, Auto Merge, Auto Crates", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mining%20Merge%20Clicker%20Tycoon%20Auto%20Sell%20Auto%20Merge%20Auto%20Crates.lua")
