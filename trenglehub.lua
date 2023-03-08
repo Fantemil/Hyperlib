@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 18:49:30"
+lastupdate = "GMT +1: 08.03.2023 18:49:34"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -12104,3 +12104,5 @@ addscriptexist(4924922222, "Brookhaven RP: Rainbow Avatar, Rainbow Car, Money Gu
 addscriptexist(8369888266, "Redcliff City RP: Spam Notify All, Small Avatar, Free Hats", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Redcliff%20City%20RP%20Spam%20Notify%20All%20Small%20Avatar%20Free%20Hats.lua")
 
 addscriptexist(920587237, "Adopt Me: Auto Clouse Candy Gui, Auto Teleport Spleef, Auto Win Spleef", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Adopt%20Me%20Auto%20Clouse%20Candy%20Gui%20Auto%20Teleport%20Spleef%20Auto%20Win%20Spleef.lua")
+
+addscriptuniversal("Universal Head Pet", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Head%20Pet.lua")
