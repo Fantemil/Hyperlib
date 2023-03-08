@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 14:57:25"
+lastupdate = "GMT +1: 08.03.2023 14:57:29"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -8318,3 +8318,5 @@ addscriptexist(6679968919, "Fly Race: Auto Farm, Auto Rebirth, Walkspeed", "pull
 addscriptexist(2753915549, "Blox Fruits: Infinity Stamina, Anti Blur, Brightness", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blox%20Fruits%20Infinity%20Stamina%20Anti%20Blur%20Brightness.lua")
 
 addscriptexist(11238892040, "Type or Die: Auto Type, Auto Win, Auto Reval", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Type%20or%20Die%20Auto%20Type%20Auto%20Win%20Auto%20Reval.lua")
+
+addscriptexist(9992339729, "Longest Answer Wins: Auto Answer, Anti Afk, Notifier", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Longest%20Answer%20Wins%20Auto%20Answer%20Anti%20Afk%20Notifier.lua")
