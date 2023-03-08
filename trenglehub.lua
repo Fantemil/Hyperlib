@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 17:31:54"
+lastupdate = "GMT +1: 08.03.2023 17:32:00"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -10292,3 +10292,5 @@ addscriptexist(4188447592, "Cat Simulator: Auto Claw, Auto Sell & More", "pulled
 addscriptexist(2809202155, "Your Bizarre Adventure: Shiny Auto Farm, Server Hop", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Your%20Bizarre%20Adventure%20Shiny%20Auto%20Farm%20Server%20Hop.lua")
 
 addscriptexist(11238892040, "Type or Die: Gives Longest Words", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Type%20or%20Die%20Gives%20Longest%20Words.lua")
+
+addscriptexist(9993529229, "Counter Blox: Remastered: FOV, Silent Aim, ESP", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Counter%20Blox%20Remastered%20FOV%20Silent%20Aim%20ESP.lua")
