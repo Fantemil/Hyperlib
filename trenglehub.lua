@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 18:37:03"
+lastupdate = "GMT +1: 08.03.2023 18:37:15"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -11860,3 +11860,5 @@ addscript(10804519995, "Current Game","Ro Fruit: Insta Kill, Auto Farm, Auto Hit
 addscript(9789157089, "Current Game","Warrior Legends Simulator: Kill Aura Bypass", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Warrior%20Legends%20Simulator%20Kill%20Aura%20Bypass.lua")
 
 addscriptexist(11105076407, "Swimming Race Clicker: Auto Win, Auto Rebirth, Auto Hatch", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Swimming%20Race%20Clicker%20Auto%20Win%20Auto%20Rebirth%20Auto%20Hatch.lua")
+
+addscriptexist(735030788, "RoyalIoween: Auto Farm Candy, Auto Farm Chests, Fountain GUI", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RoyalIoween%20Auto%20Farm%20Candy%20Auto%20Farm%20Chests%20Fountain%20GUI.lua")
