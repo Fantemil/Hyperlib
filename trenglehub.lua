@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 17:33:23"
+lastupdate = "GMT +1: 08.03.2023 17:33:27"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -10328,3 +10328,5 @@ addscriptexist(6949542776, "Pixel Gun Tower Defense: Auto Strat", "pulled from r
 addscriptexist(142823291, "Murder Mystery 2: Jump Power, Teleports, FOV", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Murder%20Mystery%20%20Jump%20Power%20Teleports%20FOV.lua")
 
 addscriptexist(2788229376, "Da Hood: Give SMG, Give Popcorn & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Da%20Hood%20Give%20SMG%20Give%20Popcorn%20%20More.lua")
+
+addscriptexist(10523236737, "Multiverse Battlegrounds: Infinity Cash", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Multiverse%20Battlegrounds%20Infinity%20Cash.lua")
