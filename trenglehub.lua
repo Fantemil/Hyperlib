@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 06:38:26"
+lastupdate = "GMT +1: 08.03.2023 06:38:29"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -4650,3 +4650,5 @@ addscriptexist(3652625463, "Lifting Simulator: Auto Gain, Auto Sell & More!", "p
 addscriptexist(606849621, "Jailbreak: Auto Arrest", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Jailbreak%20Auto%20Arrest.lua")
 
 addscriptexist(8054462345, "Michael's Zombies: Knife Kill Aura, Zombies Esp & More!", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Michaels%20Zombies%20Knife%20Kill%20Aura%20Zombies%20Esp%20%20More.lua")
+
+addscriptexist(11874473440, "Car Factory Tycoon: Teleports, Auto Sell, Auto Build", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Car%20Factory%20Tycoon%20Teleports%20Auto%20Sell%20Auto%20Build.lua")
