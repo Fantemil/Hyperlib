@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 15:14:07"
+lastupdate = "GMT +1: 08.03.2023 15:14:10"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -8764,3 +8764,5 @@ addscriptexist(2317712696, "The Wild West: Gun Mods, ESP, Fullbright", "pulled f
 addscriptexist(185655149, "Welcome to Bloxburg: Auto Farm Money", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Welcome%20to%20Bloxburg%20Auto%20Farm%20Money.lua")
 
 addscript(10944357250, "Current Game","Stair Legends! Auto Climb", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Stair%20Legends%20Auto%20Climb.lua")
+
+addscriptexist(192800, "Work at a Pizza Place: FE Sound Spam, Walkspeed, Noclip", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Work%20at%20a%20Pizza%20Place%20FE%20Sound%20Spam%20Walkspeed%20Noclip.lua")
