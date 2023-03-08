@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 06:43:57"
+lastupdate = "GMT +1: 08.03.2023 06:44:01"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -4814,3 +4814,5 @@ addscriptexist(292439477, "Phantom Forces: Basic Esp, Wall Check, Open Source", 
 addscriptexist(8131063774, "Shattered Psycho Online: Present Teleport", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Shattered%20Psycho%20Online%20Present%20Teleport.lua")
 
 addscriptexist(11606818992, "STEEP-STEPS [900]: Anti Cheat Bypass", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/STEEPSTEPS%20%20Anti%20Cheat%20Bypass.lua")
+
+addscriptexist(192800, "Work At A Pizza Place: Delete Workspace & More!", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Work%20At%20A%20Pizza%20Place%20Delete%20Workspace%20%20More.lua")
