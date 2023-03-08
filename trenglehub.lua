@@ -2435,7 +2435,7 @@ addscriptexist(8908228901, "SharkBite 2: Teeth Auto Farm", "pulled from rbxscrip
 
 addscriptexist(4639625707, "War Tycoon: Aimbot, Fly, Godmode", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/War%20Tycoon%20Aimbot%20Fly%20Godmode.lua")
 
-addscript(%201962086868, "Current Game","Tower Of Hell: Auto Complete", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tower%20Of%20Hell%20Auto%20Complete.lua")
+addscript(201962086868, "Current Game","Tower Of Hell: Auto Complete", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tower%20Of%20Hell%20Auto%20Complete.lua")
 
 addscriptuniversal("Universal FE Hat Spin", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20FE%20Hat%20Spin.lua")
 
@@ -13139,7 +13139,7 @@ addscript(5610197459, "Current Game","gang up on people simulator: AutoFarm, Aut
 
 addscript(5108997584, "Current Game","Reason 2 Die: Teleports, Buy any item, Fly", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Reason%20%20Die%20Teleports%20Buy%20any%20item%20Fly.lua")
 
-addscript(7419509075#ropro-quick-search, "Current Game","cart ride around used car batter: Teleports, Auto Coins, Get tools", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/cart%20ride%20around%20used%20car%20batter%20Teleports%20Auto%20Coins%20Get%20tools.lua")
+addscript(7419509075, "Current Game","cart ride around used car batter: Teleports, Auto Coins, Get tools", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/cart%20ride%20around%20used%20car%20batter%20Teleports%20Auto%20Coins%20Get%20tools.lua")
 
 addscriptexist(3177438863, "Dragon Blox: Auto Quest, Auto Farm, AutoRebirth", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Dragon%20Blox%20Auto%20Quest%20Auto%20Farm%20AutoRebirth.lua")
 
