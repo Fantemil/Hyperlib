@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 17:54:50"
+lastupdate = "GMT +1: 08.03.2023 17:54:56"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -10866,3 +10866,5 @@ addscript(8254077515, "Current Game","Royalty Kingdom 2: Autofarm ghost plants",
 addscriptexist(10775789257, "Construction Tycoon: Auto Rob, Walkspeed, Jump Power", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Construction%20Tycoon%20Auto%20Rob%20Walkspeed%20Jump%20Power.lua")
 
 addscript(10179229656, "Current Game","Make a Wish: Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Make%20a%20Wish%20Auto%20Farm.lua")
+
+addscriptuniversal("Universal bypass chat", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20bypass%20chat.lua")
