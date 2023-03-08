@@ -59,7 +59,7 @@ end)
 
 game.StarterGui:SetCore("SendNotification", {
     Title = "Killaura is now on";
-    Text = "Press G to toggle\n Made by ZiroPonto";
+    Text = "Press G to toggle\n Made by Aidez";
     Icon = "rbxassetid://2541869220";
     Duration = 7;
 })
