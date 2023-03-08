@@ -27,7 +27,7 @@ while wait(0.5) do
  if getgenv().toggled == false then continue end
  if not game:GetService("Players").LocalPlayer.Character then continue end
  if not game:GetService("Players").LocalPlayer.Character:FindFirstChild("HumanoidRootPart") then continue end
-    
+ 
     local nearestEnemy = getNearestEnemy()
     if nearestEnemy then
         require(game:GetService("ReplicatedStorage").Module.RayCast).RayIgnoreNonCollideWithIgnoreList = function(...)
