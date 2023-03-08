@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 06:57:31"
+lastupdate = "GMT +1: 08.03.2023 06:57:35"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -5230,3 +5230,5 @@ addscript(863266079, "Current Game","Apocalypse Rising 2: Silent Aim, FOV & More
 addscriptexist(2788229376, "Da Hood: Spectate Player, Aim Viewer", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Da%20Hood%20Spectate%20Player%20Aim%20Viewer.lua")
 
 addscript(6888253864, "Current Game","Wacky Wizards: Walkspeed, Infinity Jump, Finish Obby", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Wacky%20Wizards%20Walkspeed%20Infinity%20Jump%20Finish%20Obby.lua")
+
+addscriptexist(6516141723, "DOORS: Anti Eye", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DOORS%20Anti%20Eye.lua")
