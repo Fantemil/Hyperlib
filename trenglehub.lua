@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 17:58:02"
+lastupdate = "GMT +1: 08.03.2023 17:58:06"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -10948,3 +10948,5 @@ addscriptuniversal("Domain X", "pulled from rbxscript.com", "https://raw.githubu
 addscriptexist(10001513103, "Limited Words: Redeem Code", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Limited%20Words%20Redeem%20Code.lua")
 
 addscriptexist(8482713490, "Forgotten Memories: Full Bright, Esp, FOV", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Forgotten%20Memories%20Full%20Bright%20Esp%20FOV.lua")
+
+addscriptexist(6708206173, "Rate My Avatar: Auto Snipe Booth, Auto Snipe Knight & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Rate%20My%20Avatar%20Auto%20Snipe%20Booth%20Auto%20Snipe%20Knight%20%20More.lua")
