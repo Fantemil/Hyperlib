@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 17:07:28"
+lastupdate = "GMT +1: 08.03.2023 17:07:33"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -9662,3 +9662,5 @@ addscript(8704181738, "Current Game","Tien Tien Peice: Hitbox, Auto Gacha, Auto 
 addscriptuniversal("Universal BSOD", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20BSOD.lua")
 
 addscriptuniversal("Universal Group Bypasser", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Group%20Bypasser.lua")
+
+addscriptexist(9848789324, "Ragdoll Engine: Anti Fling, Anti Ragdoll & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ragdoll%20Engine%20Anti%20Fling%20Anti%20Ragdoll%20%20More.lua")
