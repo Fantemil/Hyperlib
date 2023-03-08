@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 15:00:17"
+lastupdate = "GMT +1: 08.03.2023 15:00:21"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -8396,3 +8396,5 @@ addscriptuniversal("Universal Ping Spoofer", "pulled from rbxscript.com", "https
 addscriptuniversal("Universal Mobile Keyboard", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Mobile%20Keyboard.lua")
 
 addscript(11379155384, "Current Game","+1 Jump Each Second: AutoWin", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/%20Jump%20Each%20Second%20AutoWin.lua")
+
+addscriptuniversal("Universal Red Simple Spy", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Red%20Simple%20Spy.lua")
