@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 12:43:45"
+lastupdate = "GMT +1: 08.03.2023 12:43:49"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -6512,3 +6512,5 @@ addscriptexist(11382413635, "Human Cannon: Coins Farm, Collect TNT, Auto Buy TNT
 addscript(11561748530, "Current Game","Glide Race: Infite Speed, Auto Race.", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Glide%20Race%20Infite%20Speed%20Auto%20Race.lua")
 
 addscript(9977604524, "Current Game","Alphabet Lore Race: Wins Farm, Auto Click, Anti Afk.", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Alphabet%20Lore%20Race%20Wins%20Farm%20Auto%20Click%20Anti%20Afk.lua")
+
+addscriptexist(11040063484, "Sword Fighters Simulator: Auto Farm Quest, Auto Click, Auto Collect Coins.", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sword%20Fighters%20Simulator%20Auto%20Farm%20Quest%20Auto%20Click%20Auto%20Collect%20Coins.lua")
