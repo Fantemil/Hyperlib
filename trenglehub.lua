@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 06:53:19"
+lastupdate = "GMT +1: 08.03.2023 06:53:23"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -5102,3 +5102,5 @@ addscriptexist(5602055394, "Hood Modded: Auto stomp, Kill auro, Aura Stomp", "pu
 addscript(10710676163, "Current Game","SPTS : Origin: ESP, Fly, Auto Use Fists", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SPTS%20%20Origin%20ESP%20Fly%20Auto%20Use%20Fists.lua")
 
 addscriptexist(3351674303, "Driving Empire: Auto Race, Alt Farming, Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Driving%20Empire%20Auto%20Race%20Alt%20Farming%20Auto%20Farm.lua")
+
+addscriptexist(10446125875, "Anime Fruit Simulator: Auto Attack, Auto Skills, Auto Farm Bosses", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime%20Fruit%20Simulator%20Auto%20Attack%20Auto%20Skills%20Auto%20Farm%20Bosses.lua")
