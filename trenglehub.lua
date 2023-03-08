@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 19:25:58"
+lastupdate = "GMT +1: 08.03.2023 19:26:06"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -12888,3 +12888,5 @@ addscriptexist(7243254032, "Bloody Baseplate: Auto Stomp, Auto Glory Kill, Buy I
 addscript(6713610501, "Current Game","Guess How Many: Show Amount", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Guess%20How%20Many%20Show%20Amount.lua")
 
 addscriptexist(1487722208, "Barren: Simple Esp", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Barren%20Simple%20Esp.lua")
+
+addscriptexist(9524757503, "iHeartLand: Music Tycoon: Free IItems", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/iHeartLand%20Music%20Tycoon%20Free%20IItems.lua")
