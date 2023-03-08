@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 14:53:57"
+lastupdate = "GMT +1: 08.03.2023 14:54:00"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -8224,3 +8224,5 @@ addscriptexist(4872321990, "Islands: Mob Farming, Boss Farming, Kill aura", "pul
 addscriptexist(9872472334, "Evade: Auto Farm, Fast Revive & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Evade%20Auto%20Farm%20Fast%20Revive%20%20More.lua")
 
 addhub("NauHub Material Icons Kit", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NauHub%20Material%20Icons%20Kit.lua")
+
+addscript(11513339030, "Current Game","Jump Higher Per Second: Auto Farm, Walkspeed, BTools", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Jump%20Higher%20Per%20Second%20Auto%20Farm%20Walkspeed%20BTools.lua")
