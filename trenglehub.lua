@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 16:40:38"
+lastupdate = "GMT +1: 08.03.2023 16:40:43"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -8996,3 +8996,5 @@ addscriptexist(3859039810, "Munching Masters Simulator: Infinite Cash, Get 1 Mil
 addscriptexist(7952502098, "Impossible Glass Bridge Obby! Auto Farm, ESP Correct Glasses", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Impossible%20Glass%20Bridge%20Obby%20Auto%20Farm%20ESP%20Correct%20Glasses.lua")
 
 addscriptexist(6284583030, "Pet Simulator X: New Free Gui, Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pet%20Simulator%20X%20New%20Free%20Gui%20Auto%20Farm.lua")
+
+addscript(6099256669, "Current Game","A Menacing Timeline: Items Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/A%20Menacing%20Timeline%20Items%20Auto%20Farm.lua")
