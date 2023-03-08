@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 20:47:48"
+lastupdate = "GMT +1: 08.03.2023 20:47:53"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -14416,3 +14416,5 @@ addscriptexist(10524502174, "One Punch Fighters [Auto Farm Mob, Auto Collect Coi
 addscriptexist(8204899140, "Football Fusion 2 [AutoCaptain, Legit Mags]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Football%20Fusion%20%20AutoCaptain%20Legit%20Mags.lua")
 
 addscriptexist(9648883891, "Festival Tycoon [Get Free Items]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Festival%20Tycoon%20Get%20Free%20Items.lua")
+
+addscriptexist(286090429, "Arsenal [Anticheat Disabler]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Arsenal%20Anticheat%20Disabler.lua")
