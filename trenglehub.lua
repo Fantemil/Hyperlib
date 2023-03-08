@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 12:59:10"
+lastupdate = "GMT +1: 08.03.2023 12:59:14"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -6904,3 +6904,5 @@ addscriptexist(11179373590, "Broken Bones 5: Infinite Money, Fast Xp", "pulled f
 addscript(6168898345, "Current Game","Bulwark: Auto Combat Bot", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Bulwark%20Auto%20Combat%20Bot.lua")
 
 addscriptexist(9055015233, "My Hood: Fastest Cash Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/My%20Hood%20Fastest%20Cash%20Auto%20Farm.lua")
+
+addscriptexist(9571238478, "Raise A Peter: Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Raise%20A%20Peter%20Auto%20Farm.lua")
