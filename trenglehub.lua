@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 14:27:22"
+lastupdate = "GMT +1: 08.03.2023 14:27:26"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -7522,3 +7522,5 @@ addscriptuniversal("Universal Anti Fly Bypass", "pulled from rbxscript.com", "ht
 addscriptexist(10598587051, "Anime Clicker Fight: Auto Click, Auto Equip Best Pets, TP", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime%20Clicker%20Fight%20Auto%20Click%20Auto%20Equip%20Best%20Pets%20TP.lua")
 
 addscriptexist(11400511154, "Monkey Tycoon: Auto Collect, Auto Deposit", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Monkey%20Tycoon%20Auto%20Collect%20Auto%20Deposit.lua")
+
+addscriptexist(537413528, "Build A Boat For Treasure: Auto Farm, Walkspeed & Jumppower sliders", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Build%20A%20Boat%20For%20Treasure%20Auto%20Farm%20Walkspeed%20%20Jumppower%20sliders.lua")
