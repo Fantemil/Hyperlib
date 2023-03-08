@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 16:39:53"
+lastupdate = "GMT +1: 08.03.2023 16:39:58"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -8976,3 +8976,5 @@ addscriptexist(10175705301, "Cant Say the Word: Time Auto Farm", "pulled from rb
 addscriptexist(6516141723, "DOORS: Headlight, Keybinds, Walkspeed", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DOORS%20Headlight%20Keybinds%20Walkspeed.lua")
 
 addscriptexist(10914683361, "Busy Business: Auto Make Order, Auto Take Order, Auto Server Order", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Busy%20Business%20Auto%20Make%20Order%20Auto%20Take%20Order%20Auto%20Server%20Order.lua")
+
+addscriptexist(4855457388, "Demonfall: Clear Sight, Auto Groud, ESP", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Demonfall%20Clear%20Sight%20Auto%20Groud%20ESP.lua")
