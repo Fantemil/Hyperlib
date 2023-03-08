@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 18:55:53"
+lastupdate = "GMT +1: 08.03.2023 18:55:57"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -12236,3 +12236,5 @@ addscriptexist(10087074695, "Knife Strife: Instant Kill, Kill Aura, Killall", "p
 addscriptexist(8122612051, "Slendytubbies VS Redux: Infinity Coins", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Slendytubbies%20VS%20Redux%20Infinity%20Coins.lua")
 
 addscriptexist(9872472334, "Evade: FullBright, Godmode & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Evade%20FullBright%20Godmode%20%20More.lua")
+
+addscriptexist(10652184030, "Jump Clicker: Auto Farm, Anti Kick, Auto Rebirth", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Jump%20Clicker%20Auto%20Farm%20Anti%20Kick%20Auto%20Rebirth.lua")
