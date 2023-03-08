@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 20:49:46"
+lastupdate = "GMT +1: 08.03.2023 20:49:50"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -14466,3 +14466,5 @@ addscriptexist(286090429, "Arsenal (Cookie Hub v2). [KillAll, SilentAim]", "pull
 addscript(5256165620, "Current Game","3-2-1 Blast Off Simulator [AutoBuy, Gem Shop]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/%20Blast%20Off%20Simulator%20AutoBuy%20Gem%20Shop.lua")
 
 addscriptexist(9285238704, "Race Clicker [Server Hop, AutoWin]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Race%20Clicker%20Server%20Hop%20AutoWin.lua")
+
+addscript(7128635125, "Current Game","Old A Bizarry Day Modded [Adm Cmds]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Old%20A%20Bizarry%20Day%20Modded%20Adm%20Cmds.lua")
