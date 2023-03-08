@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 15:14:52"
+lastupdate = "GMT +1: 08.03.2023 15:14:57"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -8786,3 +8786,5 @@ addscript(10809467765, "Current Game","Zipline Obby: Auto Beat Game", "pulled fr
 addscriptexist(6407649031, "NO-SCOPE ARCADE: Bunny Hop, Auto Toxic, FOV", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NOSCOPE%20ARCADE%20Bunny%20Hop%20Auto%20Toxic%20FOV.lua")
 
 addscriptexist(2753915549, "Blox Fruits: Auto Farm Level, Auto Saber, Auto Legendary Sword", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blox%20Fruits%20Auto%20Farm%20Level%20Auto%20Saber%20Auto%20Legendary%20Sword.lua")
+
+addscriptexist(5561268850, "Randomly Generated Droids: Inf Strenght, Kill Droids, Teleports", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Randomly%20Generated%20Droids%20Inf%20Strenght%20Kill%20Droids%20Teleports.lua")
