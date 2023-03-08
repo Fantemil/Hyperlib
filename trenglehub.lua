@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 20:17:09"
+lastupdate = "GMT +1: 08.03.2023 20:17:13"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -13626,3 +13626,5 @@ addscriptexist(9030362964, "Field Goal Simulator | Auto Farm Goals", "pulled fro
 addscriptexist(4639625707, "Oil Warfare Tycoon | Walkspeed, Jumppower, Inf Jump", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Oil%20Warfare%20Tycoon%20%20Walkspeed%20Jumppower%20Inf%20Jump.lua")
 
 addscriptexist(10320240572, "Easy Race Clicker | Auto Rebirth, AutoWin Races, AutoSpeed", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Easy%20Race%20Clicker%20%20Auto%20Rebirth%20AutoWin%20Races%20AutoSpeed.lua")
+
+addscriptexist(7952502098, "Impossible Glass Bridge Obby! | Auto Win/Infinity Cash", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Impossible%20Glass%20Bridge%20Obby%20%20Auto%20WinInfinity%20Cash.lua")
