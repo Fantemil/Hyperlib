@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 17:36:22"
+lastupdate = "GMT +1: 08.03.2023 17:36:26"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -10400,3 +10400,5 @@ addscript(11189979930, "Current Game","Pet Crafting Simulator: Auto Rebirth, Aut
 addscriptexist(10758111998, "Booga Booga [REBORN]: Kill Aura, Instant Heal, Silent aim", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Booga%20Booga%20REBORN%20Kill%20Aura%20Instant%20Heal%20Silent%20aim.lua")
 
 addscript(10598963932, "Current Game","Cat Piece: Infinity Geli", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Cat%20Piece%20Infinity%20Geli.lua")
+
+addscriptexist(8726743209, "Refinery Caves: Advanced Ore Teleport", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Refinery%20Caves%20Advanced%20Ore%20Teleport.lua")
