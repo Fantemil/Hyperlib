@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 17:24:03"
+lastupdate = "GMT +1: 08.03.2023 17:24:08"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -10092,3 +10092,5 @@ addscriptexist(9912491609, "How Far Can You Fly: Auto Farm Studs, Auto Farm, Coi
 addscript(10523236737, "Current Game","Multiverse Battlegrounds: Kill All", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Multiverse%20Battlegrounds%20Kill%20All.lua")
 
 addscriptexist(734159876, "Sharkbite 1: Modify Turrets", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sharkbite%20%20Modify%20Turrets.lua")
+
+addscriptexist(8540168650, "Stand Upright Rebooted: Lair Farm - Drop System & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Stand%20Upright%20Rebooted%20Lair%20Farm%20%20Drop%20System%20%20More.lua")
