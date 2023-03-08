@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 12:54:30"
+lastupdate = "GMT +1: 08.03.2023 12:54:34"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -6786,3 +6786,5 @@ addscriptexist(7239319209, "Ohio: Auto Stomp, Kill Aura, Tp to Valt", "pulled fr
 addscript(11343134438, "Current Game","Roblox but every second you get +1 Strength: Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Roblox%20but%20every%20second%20you%20get%20%20Strength%20Auto%20Farm.lua")
 
 addscriptexist(920587237, "Adopt Me: Rollback Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Adopt%20Me%20Rollback%20Auto%20Farm.lua")
+
+addscriptexist(1340132428, "Armored Patrol: Bring All Crates, Infinite ammo, View Player", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Armored%20Patrol%20Bring%20All%20Crates%20Infinite%20ammo%20View%20Player.lua")
