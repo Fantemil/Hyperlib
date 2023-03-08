@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 19:55:12"
+lastupdate = "GMT +1: 08.03.2023 19:55:16"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -13300,3 +13300,5 @@ addscriptexist(183364845, "Speed Run 4 | Auto Farm - Complete Dimensionn & More!
 addscriptexist(961409234, "Blood Moon Tycoon | Instant Server Lagger", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blood%20Moon%20Tycoon%20%20Instant%20Server%20Lagger.lua")
 
 addscriptexist(6872265039, "BedWars | GUI - Auto Clicker, Aim Assist & More!", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BedWars%20%20GUI%20%20Auto%20Clicker%20Aim%20Assist%20%20More.lua")
+
+addscriptexist(185655149, "Bloxburg | Pizza Delivery Job Auto Farm With Tp Bypass", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Bloxburg%20%20Pizza%20Delivery%20Job%20Auto%20Farm%20With%20Tp%20Bypass.lua")
