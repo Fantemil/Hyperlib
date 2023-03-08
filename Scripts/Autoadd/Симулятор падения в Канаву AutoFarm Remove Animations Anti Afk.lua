@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Namer32/DitchFallSimulator/master/Simulation.lua"))()
