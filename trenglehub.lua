@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 06:46:33"
+lastupdate = "GMT +1: 08.03.2023 06:46:37"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -4896,3 +4896,5 @@ addscript(11629950047, "Current Game","ProTube Race Clicker: Subs Farm, Speed Fa
 addscript(4753520418, "Current Game","The Hood: Bypas Anti Lock, Infinity Jump, Silent Aim", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/The%20Hood%20Bypas%20Anti%20Lock%20Infinity%20Jump%20Silent%20Aim.lua")
 
 addscriptexist(11606818992, "STEEP STEPS [800m]: Anti Cheat Disabler", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/STEEP%20STEPS%20m%20Anti%20Cheat%20Disabler.lua")
+
+addscriptexist(11701792069, "Snow Plow Simulator: Infinite Snow", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Snow%20Plow%20Simulator%20Infinite%20Snow.lua")
