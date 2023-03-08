@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 17:51:13"
+lastupdate = "GMT +1: 08.03.2023 17:51:17"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -10776,3 +10776,5 @@ addscript(6082207596, "Current Game","Super Mansion Tycoon 3: Auto Collect Cash,
 addscriptexist(5244411056, "Bloxy Bingo: Auto Bingo, Auto Mark, Dark Theme", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Bloxy%20Bingo%20Auto%20Bingo%20Auto%20Mark%20Dark%20Theme.lua")
 
 addscript(7050008107, "Current Game","Hospital Tycoon: Auto Buy Buttons, Auto Collect Cash, Auto Rebirth", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Hospital%20Tycoon%20Auto%20Buy%20Buttons%20Auto%20Collect%20Cash%20Auto%20Rebirth.lua")
+
+addscriptexist(142823291, "Murder Mystery 2: Gun Grabber, Noclip & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Murder%20Mystery%20%20Gun%20Grabber%20Noclip%20%20More.lua")
