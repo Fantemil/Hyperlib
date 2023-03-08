@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 14:57:33"
+lastupdate = "GMT +1: 08.03.2023 14:57:38"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -8322,3 +8322,5 @@ addscriptexist(11238892040, "Type or Die: Auto Type, Auto Win, Auto Reval", "pul
 addscriptexist(9992339729, "Longest Answer Wins: Auto Answer, Anti Afk, Notifier", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Longest%20Answer%20Wins%20Auto%20Answer%20Anti%20Afk%20Notifier.lua")
 
 addhub("Quadra Hub: 5 Games", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Quadra%20Hub%20%20Games.lua")
+
+addscriptexist(10875701453, "Edward the Man-Eating Train: 500 Ammo shout", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Edward%20the%20ManEating%20Train%20%20Ammo%20shout.lua")
