@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 17:30:30"
+lastupdate = "GMT +1: 08.03.2023 17:30:34"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -10258,3 +10258,5 @@ addscriptexist(11436221007, "Elton John Presents Beyond The Yellow Brick Road: A
 addscriptexist(10277607801, "Apeirophobia: Walkspeed, Monster ESP, Full Bright", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Apeirophobia%20Walkspeed%20Monster%20ESP%20Full%20Bright.lua")
 
 addscript(7502726087, "Current Game","Be a Hero: Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Be%20a%20Hero%20Auto%20Farm.lua")
+
+addscriptexist(8146731988, "Ultra Power Tycoon: Auto Farm, Walkspeed, Auto Buy", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ultra%20Power%20Tycoon%20Auto%20Farm%20Walkspeed%20Auto%20Buy.lua")
