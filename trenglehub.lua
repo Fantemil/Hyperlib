@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 14:39:27"
+lastupdate = "GMT +1: 08.03.2023 14:39:31"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -7834,3 +7834,5 @@ addscript(11157946245, "Current Game","2019 Booga Booga [REBORN]: Rage Heal, Aut
 addscriptexist(8540168650, "Stand Upright: Rebooted: Auto Farm, Auto Umbrella & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Stand%20Upright%20Rebooted%20Auto%20Farm%20Auto%20Umbrella%20%20More.lua")
 
 addscriptuniversal("Universal Local Player Informations", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Local%20Player%20Informations.lua")
+
+addscriptexist(2788229376, "Da Hood: FOV, Wall Check, Silent Aim", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Da%20Hood%20FOV%20Wall%20Check%20Silent%20Aim.lua")
