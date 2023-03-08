@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 07:11:21"
+lastupdate = "GMT +1: 08.03.2023 07:11:25"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -5652,3 +5652,5 @@ addscriptexist(2753915549, "Blox Fruits: Auto Collect Chests", "pulled from rbxs
 addscript(11550488312, "Current Game","Destroy and Conquer: Auto reload, Aimbot, No Fall Damage", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Destroy%20and%20Conquer%20Auto%20reload%20Aimbot%20No%20Fall%20Damage.lua")
 
 addscriptexist(71315343, "Dragon Ball Rage: Auto Charge, Train Agility, Auto Zenkai", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Dragon%20Ball%20Rage%20Auto%20Charge%20Train%20Agility%20Auto%20Zenkai.lua")
+
+addhub("L HUB: 5+ Games", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/L%20HUB%20%20Games.lua")
