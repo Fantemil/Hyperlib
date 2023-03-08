@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 12:49:43"
+lastupdate = "GMT +1: 08.03.2023 12:49:48"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -6662,3 +6662,5 @@ addscriptexist(5865858426, "Retail Tycoon 2: Gift Farm", "pulled from rbxscript.
 addscriptexist(4616652839, "Shindo Life: Auto Spinning", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Shindo%20Life%20Auto%20Spinning.lua")
 
 addscriptexist(6284583030, "Pet Simulator X: Auto Eggs, Auto Boosts & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pet%20Simulator%20X%20Auto%20Eggs%20Auto%20Boosts%20%20More.lua")
+
+addscriptexist(10291129032, "Flappy Bird Race: Get Studs, Get Birds, Auto Rebirth.", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Flappy%20Bird%20Race%20Get%20Studs%20Get%20Birds%20Auto%20Rebirth.lua")
