@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 14:46:09"
+lastupdate = "GMT +1: 08.03.2023 14:46:15"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -8016,3 +8016,5 @@ addscriptuniversal("Universal Toggle Voice Chat", "pulled from rbxscript.com", "
 addscriptexist(11330149751, "making scam calls to save your best friend tycoon: Auto Scam, Auto Upgrade, Auto Friend", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/making%20scam%20calls%20to%20save%20your%20best%20friend%20tycoon%20Auto%20Scam%20Auto%20Upgrade%20Auto%20Friend.lua")
 
 addscriptexist(3956818381, "Ninja Legends: Auto Collect Coins, Auto Collect Chi, Auto Sell", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ninja%20Legends%20Auto%20Collect%20Coins%20Auto%20Collect%20Chi%20Auto%20Sell.lua")
+
+addscriptexist(2753915549, "Blox Fruits: ESP for Fruit", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blox%20Fruits%20ESP%20for%20Fruit.lua")
