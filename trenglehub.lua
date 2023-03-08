@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 12:24:00"
+lastupdate = "GMT +1: 08.03.2023 12:24:06"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -5970,3 +5970,5 @@ addscriptexist(11606818992, "STEEP STEPS: Get Back Your Ladder", "pulled from rb
 addscriptexist(3260590327, "Tower Defense Simulator: Auto Collect Candy Canes", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tower%20Defense%20Simulator%20Auto%20Collect%20Candy%20Canes.lua")
 
 addscriptuniversal("Universal Notifier", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Notifier.lua")
+
+addscriptexist(537413528, "Build A Boat For Treasure: Water Speed Changer", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Build%20A%20Boat%20For%20Treasure%20Water%20Speed%20Changer.lua")
