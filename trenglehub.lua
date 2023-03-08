@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 19:38:30"
+lastupdate = "GMT +1: 08.03.2023 19:38:40"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -13168,3 +13168,5 @@ addscriptuniversal("Universal Walk An Walls", "pulled from rbxscript.com", "http
 addscriptexist(2788229376, "Da Hood GUI: Auto Farm, Fly, God Mode & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Da%20Hood%20GUI%20Auto%20Farm%20Fly%20God%20Mode%20%20More.lua")
 
 addscriptuniversal("Universal Zerio Spy", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Zerio%20Spy.lua")
+
+addscriptexist(2533391464, "Snowman Simulator GUI: Auto Farm, Kill All & More!", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Snowman%20Simulator%20GUI%20Auto%20Farm%20Kill%20All%20%20More.lua")
