@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 12:39:59"
+lastupdate = "GMT +1: 08.03.2023 12:40:03"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -6406,3 +6406,5 @@ addscriptexist(2788229376, "Da Hood: Auto Farm, Anti Slow, Fly", "pulled from rb
 addscript(6717367660, "Current Game","Happy Land: Auto Farm Money", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Happy%20Land%20Auto%20Farm%20Money.lua")
 
 addscriptexist(2753915549, "Blox Fruits: Auto Farm Lvl, Auto Farm Quests, Auto Saber", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blox%20Fruits%20Auto%20Farm%20Lvl%20Auto%20Farm%20Quests%20Auto%20Saber.lua")
+
+addscriptexist(6875469709, "STRONGEST PUNCH SIMULATOR: Toggle Popups, Auto Safe Zone, Auto Punch", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/STRONGEST%20PUNCH%20SIMULATOR%20Toggle%20Popups%20Auto%20Safe%20Zone%20Auto%20Punch.lua")
