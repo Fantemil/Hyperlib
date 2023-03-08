@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 17:17:52"
+lastupdate = "GMT +1: 08.03.2023 17:17:56"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -9934,3 +9934,5 @@ addscriptexist(10652184030, "Jump Clicker: Auto Egg, Auto Click, Rejoin Server",
 addscript(9144187696, "Current Game","A PIECE: Crash Server, Auto Drop Fruit, Auto Spin", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/A%20PIECE%20Crash%20Server%20Auto%20Drop%20Fruit%20Auto%20Spin.lua")
 
 addscriptexist(10175705301, "Cant Say the Word: Infinity Timeplayed", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Cant%20Say%20the%20Word%20Infinity%20Timeplayed.lua")
+
+addscriptexist(4616652839, "Shindo Life: Infinity Levels, Infinity Rell", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Shindo%20Life%20Infinity%20Levels%20Infinity%20Rell.lua")
