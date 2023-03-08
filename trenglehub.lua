@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 06:36:40"
+lastupdate = "GMT +1: 08.03.2023 06:36:42"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -4598,3 +4598,5 @@ addscriptuniversal("Unievrsal Notification System", "pulled from rbxscript.com",
 addscriptexist(11156779721, "The Survival Game: Kill Aura, Teleports & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/The%20Survival%20Game%20Kill%20Aura%20Teleports%20%20More.lua")
 
 addscriptuniversal("Universal Assault gun", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Assault%20gun.lua")
+
+addscriptexist(292439477, "Phantom Forces: Aimbot, ESP", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Phantom%20Forces%20Aimbot%20ESP.lua")
