@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 07:12:51"
+lastupdate = "GMT +1: 08.03.2023 07:12:54"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -5698,3 +5698,5 @@ addscript(10851599, "Current Game","Roblox Talent Show: Auto Farm", "pulled from
 addscriptexist(6002091275, "Stone-haven County Asylum: Spill Cleaner, Kill Auras/hitman, Buy Section", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Stonehaven%20County%20Asylum%20Spill%20Cleaner%20Kill%20Aurashitman%20Buy%20Section.lua")
 
 addscriptexist(4783966408, "Plates Of Fate Remastered: Collect Gold Coins, Collect Gift Boxes, Auto Win", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Plates%20Of%20Fate%20Remastered%20Collect%20Gold%20Coins%20Collect%20Gift%20Boxes%20Auto%20Win.lua")
+
+addscriptexist(10456235914, "Redwood Prison Reworked: Kill Player, Void Player & More!", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Redwood%20Prison%20Reworked%20Kill%20Player%20Void%20Player%20%20More.lua")
