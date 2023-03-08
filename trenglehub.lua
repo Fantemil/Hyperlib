@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 17:15:57"
+lastupdate = "GMT +1: 08.03.2023 17:16:03"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -9884,3 +9884,5 @@ addscriptexist(3956818381, "Ninja Legends: Auto Sell, Auto Farm, Auto Buy Belts"
 addscriptexist(6422372837, "Snipers: Auto Kill All, Kill All Once, Always Hit", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Snipers%20Auto%20Kill%20All%20Kill%20All%20Once%20Always%20Hit.lua")
 
 addscript(11436221007, "Current Game","Elton John Presents 'Beyond The Yellow Brick Road': Auto Collect Bricks, Complete all trivia", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Elton%20John%20Presents%20Beyond%20The%20Yellow%20Brick%20Road%20Auto%20Collect%20Bricks%20Complete%20all%20trivia.lua")
+
+addscript(7817016260, "Current Game","Bloxston Mystery: Anti Cheat Bypass, Expose Roles In Chat", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Bloxston%20Mystery%20Anti%20Cheat%20Bypass%20Expose%20Roles%20In%20Chat.lua")
