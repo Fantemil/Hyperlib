@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 17:52:25"
+lastupdate = "GMT +1: 08.03.2023 17:52:32"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -10806,3 +10806,5 @@ addscriptexist(10298335542, "Basketball Stars 1 & 2: Working Aimbot", "pulled fr
 addscriptexist(192800, "Work at a pizza place: Become a Manager, Auto Farm, Teleporter", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Work%20at%20a%20pizza%20place%20Become%20a%20Manager%20Auto%20Farm%20Teleporter.lua")
 
 addscriptexist(621129760, "Knife Ability Test: Aimbot, Auto Sprint, Full Bright", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Knife%20Ability%20Test%20Aimbot%20Auto%20Sprint%20Full%20Bright.lua")
+
+addscriptexist(10598963932, "Cat Piece: Max Geli", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Cat%20Piece%20Max%20Geli.lua")
