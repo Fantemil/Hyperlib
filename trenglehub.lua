@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 17:30:51"
+lastupdate = "GMT +1: 08.03.2023 17:30:56"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -10268,3 +10268,5 @@ addscriptexist(4639625707, "Oil Warfare Tycoon: Gun Mods, ESP, Infinity Jumps", 
 addscriptexist(8908228901, "SharkBite 2: Modify Turrets", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SharkBite%20%20Modify%20Turrets.lua")
 
 addscriptexist(286090429, "Arsenal: Anti Aim, Kill All, AimBot", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Arsenal%20Anti%20Aim%20Kill%20All%20AimBot.lua")
+
+addhub("Absolutionsm Hub: 7 Games", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Absolutionsm%20Hub%20%20Games.lua")
