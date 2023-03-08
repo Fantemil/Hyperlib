@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 14:58:24"
+lastupdate = "GMT +1: 08.03.2023 14:58:29"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -8344,3 +8344,5 @@ addscriptexist(10041108328, "Dark Life [beta]: Printer Steal, Gun Steal", "pulle
 addscriptexist(2753915549, "Blox Fruits: Project Vellerius V3", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blox%20Fruits%20Project%20Vellerius%20V.lua")
 
 addscriptexist(7655745946, "Dunking Simulator: Infinite Boosts", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Dunking%20Simulator%20Infinite%20Boosts.lua")
+
+addscript(7774228661, "Current Game","Pirates Dream: Kill Aura", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pirates%20Dream%20Kill%20Aura.lua")
