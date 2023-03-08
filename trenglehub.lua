@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 18:37:25"
+lastupdate = "GMT +1: 08.03.2023 18:37:30"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -11866,3 +11866,5 @@ addscriptexist(735030788, "RoyalIoween: Auto Farm Candy, Auto Farm Chests, Fount
 addscriptexist(2788229376, "Da Hood: Silent Aim, FOV, Aimbot", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Da%20Hood%20Silent%20Aim%20FOV%20Aimbot.lua")
 
 addscript(8360240897, "Current Game","World of Trollge: Auto Farm, Auto Craft, Teleports", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/World%20of%20Trollge%20Auto%20Farm%20Auto%20Craft%20Teleports.lua")
+
+addscriptexist(142823291, "Murder Mystery 2: Silent Aim, Kill Aura & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Murder%20Mystery%20%20Silent%20Aim%20Kill%20Aura%20%20More.lua")
