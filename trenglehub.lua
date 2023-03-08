@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 12:22:33"
+lastupdate = "GMT +1: 08.03.2023 12:22:36"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -5932,3 +5932,5 @@ addscriptexist(2788229376, "Da Hood: Crasher", "pulled from rbxscript.com", "htt
 addscriptexist(10598587051, "Anime Clicker Fight: AutoRun, AutoClick, AutoDash", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime%20Clicker%20Fight%20AutoRun%20AutoClick%20AutoDash.lua")
 
 addscriptexist(606849621, "Jailbreak: Remove holding E time", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Jailbreak%20Remove%20holding%20E%20time.lua")
+
+addscriptexist(3260590327, "Tower Defense Simulator: Loard Clicker", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tower%20Defense%20Simulator%20Loard%20Clicker.lua")
