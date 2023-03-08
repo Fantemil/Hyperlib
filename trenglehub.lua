@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 21:05:50"
+lastupdate = "GMT +1: 08.03.2023 21:05:57"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -14862,3 +14862,5 @@ addscript(9243187709, "Current Game","Pedagondia Faunas [Inf Stamina, Auto Eat]"
 addscriptexist(863266079, "Apocalypse Rising 2 [Inf Jump, Aimbot]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Apocalypse%20Rising%20%20Inf%20Jump%20Aimbot.lua")
 
 addscriptuniversal("Roblox Universal Script [Free Animation]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Roblox%20Universal%20Script%20Free%20Animation.lua")
+
+addscriptexist(10047913840, "Training Simulator [Remote Spy]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Training%20Simulator%20Remote%20Spy.lua")
