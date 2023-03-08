@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 07:08:14"
+lastupdate = "GMT +1: 08.03.2023 07:08:17"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -5558,3 +5558,5 @@ addscriptexist(10106105124, "Wheat Farming Simulator: Auto Sell, Auto Farm Wheat
 addscriptexist(3101667897, "Legends Of Speed: Auto Hoops, Auto Rebirth, Auto Gem", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Legends%20Of%20Speed%20Auto%20Hoops%20Auto%20Rebirth%20Auto%20Gem.lua")
 
 addscript(6839658013, "Current Game","NPC Tower Defense: Auto Sell", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NPC%20Tower%20Defense%20Auto%20Sell.lua")
+
+addscriptexist(8908228901, "Sharkbite 2: Present Afk Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sharkbite%20%20Present%20Afk%20Auto%20Farm.lua")
