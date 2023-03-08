@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 14:43:55"
+lastupdate = "GMT +1: 08.03.2023 14:43:59"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -7956,3 +7956,5 @@ addscriptexist(5956785391, "Project Slayers: Noclip, Infinity Jumps, Player ESP"
 addscript(10424315298, "Current Game","Country Collectors: Auto Farm Wins", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Country%20Collectors%20Auto%20Farm%20Wins.lua")
 
 addscriptexist(10424315298, "Country Collectors: Infinite Money", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Country%20Collectors%20Infinite%20Money.lua")
+
+addscriptexist(6679968919, "Fly Race: Noob Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Fly%20Race%20Noob%20Auto%20Farm.lua")
