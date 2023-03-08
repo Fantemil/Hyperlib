@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 16:54:55"
+lastupdate = "GMT +1: 08.03.2023 16:54:59"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -9344,3 +9344,5 @@ addscriptexist(5956785391, "Project Slayers: Insta Kill Remote - Open Source", "
 addscriptexist(6403373529, "Slap Battles: Say sus and make a vinethud", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Slap%20Battles%20Say%20sus%20and%20make%20a%20vinethud.lua")
 
 addscript(10893141806, "Current Game","Truck Factory Tycoon: Auto Functions Section, Teleport Section, Fun Section", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Truck%20Factory%20Tycoon%20Auto%20Functions%20Section%20Teleport%20Section%20Fun%20Section.lua")
+
+addscriptexist(6678877691, "ZO: Fly, Auto Block, Auto Parry", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ZO%20Fly%20Auto%20Block%20Auto%20Parry.lua")
