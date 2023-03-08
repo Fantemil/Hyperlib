@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 16:44:00"
+lastupdate = "GMT +1: 08.03.2023 16:44:05"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -9074,3 +9074,5 @@ addscriptuniversal("Universal Send Message to Webhook", "pulled from rbxscript.c
 addscriptexist(2753915549, "Blox Fruits: Chest Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blox%20Fruits%20Chest%20Auto%20Farm.lua")
 
 addscript(10819504705, "Current Game","Anime Racers Simulator: Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime%20Racers%20Simulator%20Auto%20Farm.lua")
+
+addscriptexist(443406476, "Project Lazarus: Damage Multpliers", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Project%20Lazarus%20Damage%20Multpliers.lua")
