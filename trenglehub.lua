@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 14:39:49"
+lastupdate = "GMT +1: 08.03.2023 14:39:53"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -7844,3 +7844,5 @@ addscriptexist(7525610732, "Kaizen: Auto Farm Mob, Weapon, Inf Stamina", "pulled
 addscriptexist(6679968919, "Fly Race: Auto Farm, Auto Loops, Auto Laps", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Fly%20Race%20Auto%20Farm%20Auto%20Loops%20Auto%20Laps.lua")
 
 addscriptexist(10723695195, "Anime Evolution Simulator: Auto Kill Near, Auto Click, Teleports", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime%20Evolution%20Simulator%20Auto%20Kill%20Near%20Auto%20Click%20Teleports.lua")
+
+addscriptexist(9285238704, "Race Clicker: Auto Craft, Auto Win, Auto Hatch", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Race%20Clicker%20Auto%20Craft%20Auto%20Win%20Auto%20Hatch.lua")
