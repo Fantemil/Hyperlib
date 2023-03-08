@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 19:04:42"
+lastupdate = "GMT +1: 08.03.2023 19:04:47"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -12430,3 +12430,5 @@ addscriptexist(735030788, "RoyalIoween: Gem Farm", "pulled from rbxscript.com", 
 addscriptexist(6608498361, "cursed tank simulator: Allow Teamkill", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/cursed%20tank%20simulator%20Allow%20Teamkill.lua")
 
 addscriptexist(2561448528, "Your Local Mechanic: Infinity Cash", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Your%20Local%20Mechanic%20Infinity%20Cash.lua")
+
+addscript(1401417393, "Current Game","Ragdoll System Test: Break Server", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ragdoll%20System%20Test%20Break%20Server.lua")
