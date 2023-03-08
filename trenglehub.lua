@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 17:07:33"
+lastupdate = "GMT +1: 08.03.2023 17:07:37"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -9664,3 +9664,5 @@ addscriptuniversal("Universal BSOD", "pulled from rbxscript.com", "https://raw.g
 addscriptuniversal("Universal Group Bypasser", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Group%20Bypasser.lua")
 
 addscriptexist(9848789324, "Ragdoll Engine: Anti Fling, Anti Ragdoll & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ragdoll%20Engine%20Anti%20Fling%20Anti%20Ragdoll%20%20More.lua")
+
+addscriptexist(4490140733, "My Restaurant: EXP Auto Farm, Walkspeed and Jumppower sliders, Teleports", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/My%20Restaurant%20EXP%20Auto%20Farm%20Walkspeed%20and%20Jumppower%20sliders%20Teleports.lua")
