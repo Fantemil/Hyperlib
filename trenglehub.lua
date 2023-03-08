@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 20:31:07"
+lastupdate = "GMT +1: 08.03.2023 20:31:12"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -13998,3 +13998,5 @@ addscriptuniversal("Roblox Universal Script [Realistic Graphic]", "pulled from r
 addscriptexist(6229116934, "Hoopz [Ball Esp, Aimbot]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Hoopz%20Ball%20Esp%20Aimbot.lua")
 
 addscriptexist(9733390246, "Stair Tappers [AutoPlay, LegitHack]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Stair%20Tappers%20AutoPlay%20LegitHack.lua")
+
+addscriptexist(3851622790, "Break In (Story) [Godmode]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Break%20In%20Story%20Godmode.lua")
