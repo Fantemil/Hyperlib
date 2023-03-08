@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 14:49:52"
+lastupdate = "GMT +1: 08.03.2023 14:49:56"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -8120,3 +8120,5 @@ addscriptexist(155615604, "Prison Life: Kill Aara, Get Weapon, Remove Door", "pu
 addscriptexist(292439477, "Phantom Forces: AimBot, Silent Aim", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Phantom%20Forces%20AimBot%20Silent%20Aim.lua")
 
 addscriptexist(2753915549, "Blox Fruits: Auto Farm Lvl, Auto Sellect Weapon, Mastery Mode", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blox%20Fruits%20Auto%20Farm%20Lvl%20Auto%20Sellect%20Weapon%20Mastery%20Mode.lua")
+
+addscriptexist(6516141723, "DOORS: Dorr Esp, FullBright, Get All Badges", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DOORS%20Dorr%20Esp%20FullBright%20Get%20All%20Badges.lua")
