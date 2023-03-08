@@ -1,1 +1,1 @@
-loadstring(game:HttpGet('https://raw.githubusercontent.com/sunkenball/POV_Website_Provider_Down/main/Simspons.lua'))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/kooggy/Scripts/main/Find%20The%20Simpsons.lua"))()
