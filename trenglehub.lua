@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 06:41:30"
+lastupdate = "GMT +1: 08.03.2023 06:41:34"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -4740,3 +4740,5 @@ addscript(5736409216, "Current Game","Mall Tycoon: Auto Collect", "pulled from r
 addscript(10652184030, "Current Game","Jump Clicker: Auto Farm, Auto Rebirth, Auto Click", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Jump%20Clicker%20Auto%20Farm%20Auto%20Rebirth%20Auto%20Click.lua")
 
 addscriptexist(9872472334, "Evade: Tool Spammer, Godmode, ESP", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Evade%20Tool%20Spammer%20Godmode%20ESP.lua")
+
+addscriptexist(8737602449, "Adopt Me: Pet Autofarm, Auto Neon, Auto Trade", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Adopt%20Me%20Pet%20Autofarm%20Auto%20Neon%20Auto%20Trade.lua")
