@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 14:46:52"
+lastupdate = "GMT +1: 08.03.2023 14:46:56"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -8036,3 +8036,5 @@ addscriptexist(10053187005, "Counter Blox Reimagined: Spawn Every Item", "pulled
 addscriptexist(8750997647, "Tapping Legends X: Auto Tap, Auto Buy Tap Skins, Auto Collect", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tapping%20Legends%20X%20Auto%20Tap%20Auto%20Buy%20Tap%20Skins%20Auto%20Collect.lua")
 
 addscriptexist(10291129032, "Flappy Bird Race: Free Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Flappy%20Bird%20Race%20Free%20Auto%20Farm.lua")
+
+addscript(10238264463, "Current Game","Last Words: Infinite Donated", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Last%20Words%20Infinite%20Donated.lua")
