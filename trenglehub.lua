@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 18:30:50"
+lastupdate = "GMT +1: 08.03.2023 18:30:55"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -11752,3 +11752,5 @@ addscriptexist(10925589760, "Merge Simulator: Merge All Blocks, Teleporter To Pl
 addscript(10676523834, "Current Game","Racing Rocket: Teleport Menu, Manipulate Reward Stars, Auto Clicks", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Racing%20Rocket%20Teleport%20Menu%20Manipulate%20Reward%20Stars%20Auto%20Clicks.lua")
 
 addscriptexist(340227283, "RoBowling: Grab Coins, Teleporter", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RoBowling%20Grab%20Coins%20Teleporter.lua")
+
+addscriptexist(4282985734, "Combat Warriors: Hitbox Expander", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Combat%20Warriors%20Hitbox%20Expander.lua")
