@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 06:52:19"
+lastupdate = "GMT +1: 08.03.2023 06:52:23"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -5072,3 +5072,5 @@ addscriptexist(10925589760, "Merge Simulator: Auto Merge, Auto Tap, Auto Buy Upg
 addscriptexist(1962086868, "Tower of Hell: Walk Speed, Jump Power, Noclip", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tower%20of%20Hell%20Walk%20Speed%20Jump%20Power%20Noclip.lua")
 
 addscriptexist(142823291, "Murder Mystery 2: Auto Farm, Kill All, Godmode", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Murder%20Mystery%20%20Auto%20Farm%20Kill%20All%20Godmode.lua")
+
+addscriptexist(662417684, "LUCKY BLOCKS Battlegrounds: Fly, Get All Items, Walkspeed", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LUCKY%20BLOCKS%20Battlegrounds%20Fly%20Get%20All%20Items%20Walkspeed.lua")
