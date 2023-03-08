@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 14:47:45"
+lastupdate = "GMT +1: 08.03.2023 14:47:49"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -8062,3 +8062,5 @@ addscriptexist(11445923563, "One Fruit Simulator: Auto Attack, Auto Farm, Auto P
 addscriptexist(11445923563, "One Fruit Simulator: Auto Farm Lvl, Collect Chest, Collect Fruit", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/One%20Fruit%20Simulator%20Auto%20Farm%20Lvl%20Collect%20Chest%20Collect%20Fruit.lua")
 
 addscriptexist(286090429, "Arsenal: Gui Aimhook", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Arsenal%20Gui%20Aimhook.lua")
+
+addscriptexist(10424315298, "Country Collectors: Op Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Country%20Collectors%20Op%20Auto%20Farm.lua")
