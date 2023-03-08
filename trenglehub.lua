@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 13:09:29"
+lastupdate = "GMT +1: 08.03.2023 13:09:33"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -7172,3 +7172,5 @@ addscript(1379818574, "Current Game","Push Oofs Off Skyscrapers: Teleport to Vip
 addscriptuniversal("Universal Kill Aura Set Range", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Kill%20Aura%20Set%20Range.lua")
 
 addscriptexist(1537690962, "Bee Swarm Simulator: Extra Things, Auto Farm, Auto Kill Mobs", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Bee%20Swarm%20Simulator%20Extra%20Things%20Auto%20Farm%20Auto%20Kill%20Mobs.lua")
+
+addscriptexist(11400511154, "Monkey Tycoon: Grab Bananas", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Monkey%20Tycoon%20Grab%20Bananas.lua")
