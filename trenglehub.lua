@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 14:53:17"
+lastupdate = "GMT +1: 08.03.2023 14:53:21"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -8206,3 +8206,5 @@ addscriptexist(8750997647, "Tapping Legends X: Auto Rebirth, Walkspeed Slider, A
 addscriptexist(3823781113, "Saber Simulator: Auto Farm Golems, Auto Farm Flags, Player Mods", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Saber%20Simulator%20Auto%20Farm%20Golems%20Auto%20Farm%20Flags%20Player%20Mods.lua")
 
 addscriptexist(3587619225, "Mega Easy Obby: Server Hop, Unlock All Pets, Unlock Gamepasses", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mega%20Easy%20Obby%20Server%20Hop%20Unlock%20All%20Pets%20Unlock%20Gamepasses.lua")
+
+addscriptexist(13822889, "Lumber Tycoon 2: Dupe Money, Options, FOV", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Lumber%20Tycoon%20%20Dupe%20Money%20Options%20FOV.lua")
