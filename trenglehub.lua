@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 19:29:47"
+lastupdate = "GMT +1: 08.03.2023 19:29:52"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -12972,3 +12972,5 @@ addscriptexist(2537430692, "Jenga: Walkspeed, Instant Win, Remove Killbrick", "p
 addscriptexist(9872472334, "Evade: Inf Jump, Q to teleport & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Evade%20Inf%20Jump%20Q%20to%20teleport%20%20More.lua")
 
 addscriptexist(286090429, "Arsenal: Kill All, Silent Aim & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Arsenal%20Kill%20All%20Silent%20Aim%20%20More.lua")
+
+addscriptexist(914010731, "Ro-Ghoul: Auto Farm, Look Player's Stats, Webhook", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RoGhoul%20Auto%20Farm%20Look%20Players%20Stats%20Webhook.lua")
