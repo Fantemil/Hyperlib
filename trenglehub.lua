@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 18:01:01"
+lastupdate = "GMT +1: 08.03.2023 18:01:07"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -11022,3 +11022,5 @@ addhub("Universal Boombox Hub", "pulled from rbxscript.com", "https://raw.github
 addscript(10913380117, "Current Game","Booth Plaza REUPLOAD: Auto Booth, Night Mode, Click TP", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Booth%20Plaza%20REUPLOAD%20Auto%20Booth%20Night%20Mode%20Click%20TP.lua")
 
 addscriptexist(1296881293, "Warship RP, WW2: Admin Guns, Infinity Ammo, Hide Names", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Warship%20RP%20WW%20Admin%20Guns%20Infinity%20Ammo%20Hide%20Names.lua")
+
+addscript(6961824067, "Current Game","Fling Things and People: Auto Slot, Silent Aim, Anti Grab", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Fling%20Things%20and%20People%20Auto%20Slot%20Silent%20Aim%20Anti%20Grab.lua")
