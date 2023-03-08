@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 17:45:13"
+lastupdate = "GMT +1: 08.03.2023 17:45:17"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -10628,3 +10628,5 @@ addscriptexist(8084034728, "Roblox but every second you become stronger: X2 Jump
 addscriptexist(5343994291, "Outlaster: Walkspeed, Infinity Jump & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Outlaster%20Walkspeed%20Infinity%20Jump%20%20More.lua")
 
 addscriptexist(6490016198, "Slayer Tycoon: Auto Build, Auto Collect Cash, Auto Attack", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Slayer%20Tycoon%20Auto%20Build%20Auto%20Collect%20Cash%20Auto%20Attack.lua")
+
+addscript(10775789257, "Current Game","Construction Tycoon: Unlimited Money", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Construction%20Tycoon%20Unlimited%20Money.lua")
