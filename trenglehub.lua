@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 13:14:18"
+lastupdate = "GMT +1: 08.03.2023 13:14:22"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -7296,3 +7296,5 @@ addscriptexist(277751860, "Epic Minigames: Click TP, Walkspeed, Inf Jumps", "pul
 addscriptexist(7991339063, "Rainbow Friends: Auto Farm Items , Glitch Monster, Esp", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Rainbow%20Friends%20Auto%20Farm%20Items%20%20Glitch%20Monster%20Esp.lua")
 
 addscriptexist(9798463281, "Cube Combination: Cube Dumper", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Cube%20Combination%20Cube%20Dumper.lua")
+
+addscriptexist(286090429, "Aresenal: Aimbot, Wallhacks, Gun Mods", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Aresenal%20Aimbot%20Wallhacks%20Gun%20Mods.lua")
