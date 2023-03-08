@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 20:35:18"
+lastupdate = "GMT +1: 08.03.2023 20:35:23"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -14106,3 +14106,5 @@ addscriptuniversal("Roblox Universal Script [Movement Tracker]", "pulled from rb
 addscriptexist(1962086868, "Tower of Hell [God mode]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tower%20of%20Hell%20God%20mode.lua")
 
 addscriptexist(7180042682, "Military Tycoon [Targets events farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Military%20Tycoon%20Targets%20events%20farm.lua")
+
+addscriptexist(286090429, "Arsenal [Inf Ammo]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Arsenal%20Inf%20Ammo.lua")
