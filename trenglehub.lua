@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 18:51:23"
+lastupdate = "GMT +1: 08.03.2023 18:51:31"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -12142,3 +12142,5 @@ addscript(8317914163, "Current Game","Liberty Island Tycoon: Give All Gamepasses
 addscriptexist(8864518888, "Pet Legends 2: Auto Hatch, Free Gamepasses, Teleports", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pet%20Legends%20%20Auto%20Hatch%20Free%20Gamepasses%20Teleports.lua")
 
 addscriptexist(286090429, "Arsenal: Gun Mods", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Arsenal%20Gun%20Mods.lua")
+
+addscriptexist(10260193230, "Meme Sea: Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Meme%20Sea%20Auto%20Farm.lua")
