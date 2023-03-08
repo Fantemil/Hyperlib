@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 19:01:54"
+lastupdate = "GMT +1: 08.03.2023 19:02:01"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -12372,3 +12372,5 @@ addscriptexist(606849621, "Jailbreak: ESP", "pulled from rbxscript.com", "https:
 addscriptexist(8308074824, "Meme Piece: Op Xp", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Meme%20Piece%20Op%20Xp.lua")
 
 addscriptexist(4793176968, "Mano County Police Patrol: Anti Exploit, Radio Disabler", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mano%20County%20Police%20Patrol%20Anti%20Exploit%20Radio%20Disabler.lua")
+
+addscriptexist(4872321990, "Islands: Auto Harvest - Replant & Mine Rock", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Islands%20Auto%20Harvest%20%20Replant%20%20Mine%20Rock.lua")
