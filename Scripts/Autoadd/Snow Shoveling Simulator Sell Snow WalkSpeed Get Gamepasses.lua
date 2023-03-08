@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/CrazorTheCat/thiscontainstuff/main/snowShovelingSimulatorGUI.lua"))()
