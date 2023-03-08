@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 18:34:35"
+lastupdate = "GMT +1: 08.03.2023 18:34:40"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -11808,3 +11808,5 @@ addscriptexist(10180880196, "Fling Champions: Auto Candy, Auto Eggs, Auto Upgrad
 addscriptexist(3823781113, "Saber Simulator: Auto Clikc, Auto Sell & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Saber%20Simulator%20Auto%20Clikc%20Auto%20Sell%20%20More.lua")
 
 addscript(10939017491, "Current Game","Pls Make Me Rich: Money Bots, Anti AFK", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pls%20Make%20Me%20Rich%20Money%20Bots%20Anti%20AFK.lua")
+
+addscriptexist(286090429, "Arsenal: God Mode, Esp, Silent Aim & More!", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Arsenal%20God%20Mode%20Esp%20Silent%20Aim%20%20More.lua")
