@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 14:48:03"
+lastupdate = "GMT +1: 08.03.2023 14:48:08"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -8070,3 +8070,5 @@ addscriptexist(8267733039, "Specter 2: Character, Van, Change character", "pulle
 addscriptexist(8267733039, "Specter 2: Ghost Esp, Remove Doors, Full Birght", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Specter%20%20Ghost%20Esp%20Remove%20Doors%20Full%20Birght.lua")
 
 addscriptexist(3837841034, "Deadline: Aimbot & Esp", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Deadline%20Aimbot%20%20Esp.lua")
+
+addscriptexist(9224601490, "Fruit Battlegrounds: Redeem All Codes", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Fruit%20Battlegrounds%20Redeem%20All%20Codes.lua")
