@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 15:07:16"
+lastupdate = "GMT +1: 08.03.2023 15:07:20"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -8580,3 +8580,5 @@ addscriptexist(9534337535, "Shrek in the Backrooms: Unlock all Levels", "pulled 
 addscriptexist(10723695195, "Anime Evolution Simulator: Auto Fight, Fight Aura, Auto Farm Boss", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime%20Evolution%20Simulator%20Auto%20Fight%20Fight%20Aura%20Auto%20Farm%20Boss.lua")
 
 addscriptuniversal("Universal Fly, Spin, Infinity Jumps", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Fly%20Spin%20Infinity%20Jumps.lua")
+
+addscriptexist(8069117419, "Demon Soul Simulator: Auto Collect Dispatch, Auto Dispatch, Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Demon%20Soul%20Simulator%20Auto%20Collect%20Dispatch%20Auto%20Dispatch%20Auto%20Farm.lua")
