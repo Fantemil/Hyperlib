@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 07:01:43"
+lastupdate = "GMT +1: 08.03.2023 07:01:48"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -5360,3 +5360,5 @@ addscriptexist(2413927524, "The Rake REMASTERED: ESP, No Clothing, Fullbright", 
 addscript(5534174456, "Current Game","Tropical Resort Tycoon: Auto Build, Auto Obby, Teleporter", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tropical%20Resort%20Tycoon%20Auto%20Build%20Auto%20Obby%20Teleporter.lua")
 
 addscript(11382413635, "Current Game","Human Cannon: Auto Buy TNT, Coins Farm, Auto Rebirth", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Human%20Cannon%20Auto%20Buy%20TNT%20Coins%20Farm%20Auto%20Rebirth.lua")
+
+addscriptexist(1224212277, "Mad City: Auto Teleport To Crates & Esp", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mad%20City%20Auto%20Teleport%20To%20Crates%20%20Esp.lua")
