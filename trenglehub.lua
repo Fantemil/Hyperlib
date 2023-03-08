@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 18:57:08"
+lastupdate = "GMT +1: 08.03.2023 18:57:13"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -12264,3 +12264,5 @@ addscriptexist(8482451541, "Brick Defense: Infinite Money", "pulled from rbxscri
 addscriptexist(10779604733, "VBet: Auto Farm Click", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/VBet%20Auto%20Farm%20Click.lua")
 
 addscriptexist(9554750143, "Pet Fighting Simulator: Infinite Coins, Infinite Gems, Infinite Items", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pet%20Fighting%20Simulator%20Infinite%20Coins%20Infinite%20Gems%20Infinite%20Items.lua")
+
+addscriptexist(3411100258, "prtty much evry bordr gam evr: Hide Name, No Hunger & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/prtty%20much%20evry%20bordr%20gam%20evr%20Hide%20Name%20No%20Hunger%20%20More.lua")
