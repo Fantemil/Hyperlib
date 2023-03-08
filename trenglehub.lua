@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 19:52:39"
+lastupdate = "GMT +1: 08.03.2023 19:52:44"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -13250,3 +13250,5 @@ addscriptexist(8750997647, "Tapping Legends X | AutoRebirth, AutoTap, AutoEggs",
 addscript(10148047155, "Current Game","Car Mechanic Tycoon | Money AutoFarm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Car%20Mechanic%20Tycoon%20%20Money%20AutoFarm.lua")
 
 addscriptexist(9648883891, "Festival Tycoon | Add 10M$", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Festival%20Tycoon%20%20Add%20M.lua")
+
+addscriptexist(7169897329, "Nanny [HORROR] | Infinite Screams", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Nanny%20HORROR%20%20Infinite%20Screams.lua")
