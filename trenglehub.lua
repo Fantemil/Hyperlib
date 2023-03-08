@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 20:15:56"
+lastupdate = "GMT +1: 08.03.2023 20:16:00"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -13598,3 +13598,5 @@ addscript(10508296878, "Current Game","Murder Mystery 7 | Redeem All Codes", "pu
 addscriptexist(1224212277, "Mad City | AutoFarm EXP", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mad%20City%20%20AutoFarm%20EXP.lua")
 
 addscriptexist(3527629287, "BIG Paintball! | Unlock All", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BIG%20Paintball%20%20Unlock%20All.lua")
+
+addscriptexist(621129760, "Knife Ability Test | Silent Aim, Aim Torso, Fov", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Knife%20Ability%20Test%20%20Silent%20Aim%20Aim%20Torso%20Fov.lua")
