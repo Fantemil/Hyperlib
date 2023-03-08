@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 20:11:59"
+lastupdate = "GMT +1: 08.03.2023 20:12:04"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -13490,3 +13490,5 @@ addscriptexist(8146731988, "Ultra Power Tycoon | Inf Jump, Player Modifications,
 addscriptexist(7952502098, "Impossible Glass Bridge Obby! | AutoFarm Money, Show Breaking Glass", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Impossible%20Glass%20Bridge%20Obby%20%20AutoFarm%20Money%20Show%20Breaking%20Glass.lua")
 
 addscriptexist(10675066724, "Slime Tower Tycoon | Auto Obby, Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Slime%20Tower%20Tycoon%20%20Auto%20Obby%20Auto%20Farm.lua")
+
+addscriptexist(9992339729, "Longest Answer Wins | Infinite Blocks", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Longest%20Answer%20Wins%20%20Infinite%20Blocks.lua")
