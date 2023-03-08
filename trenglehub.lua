@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 20:12:22"
+lastupdate = "GMT +1: 08.03.2023 20:12:26"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -13500,3 +13500,5 @@ addscriptexist(893973440, "Flee The Facility | ESP, Tp to comp., Walkspeed", "pu
 addscriptexist(9264596435, "Idle Heroes Simulator! | Auto Farm, Auto Hire, Auto Upgr", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Idle%20Heroes%20Simulator%20%20Auto%20Farm%20Auto%20Hire%20Auto%20Upgr.lua")
 
 addscriptexist(8540168650, "Stand Upright: Rebooted | AutoFarm, Items Farm, AutoBuy", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Stand%20Upright%20Rebooted%20%20AutoFarm%20Items%20Farm%20AutoBuy.lua")
+
+addscript(5063021080, "Current Game","My Modded Day | Walkspeed, Grab all Items, Teleports", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/My%20Modded%20Day%20%20Walkspeed%20Grab%20all%20Items%20Teleports.lua")
