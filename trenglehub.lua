@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 13:10:22"
+lastupdate = "GMT +1: 08.03.2023 13:10:26"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -7194,3 +7194,5 @@ addscriptexist(2753915549, "Blox Fruits: Auto Farm, Teleport Mod , Devil Fuit Fa
 addscriptexist(5956785391, "Project Slayers: Fast Kill-Aura, Infinite Stamina, Boss Farming", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Project%20Slayers%20Fast%20KillAura%20Infinite%20Stamina%20Boss%20Farming.lua")
 
 addscriptexist(3102144307, "Anime Clicker Simulator: Auto Clicker, No Remote", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime%20Clicker%20Simulator%20Auto%20Clicker%20No%20Remote.lua")
+
+addscriptexist(6804602922, "BOXING BETA: Semi God Mode", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BOXING%20BETA%20Semi%20God%20Mode.lua")
