@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 12:42:47"
+lastupdate = "GMT +1: 08.03.2023 12:42:51"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -6484,3 +6484,5 @@ addscriptexist(6918802270, "Project New World: Chest farm autohop", "pulled from
 addscriptexist(920587237, "Adopt Me: Get all NFR and MFR pets", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Adopt%20Me%20Get%20all%20NFR%20and%20MFR%20pets.lua")
 
 addscriptexist(4651779470, "RECOIL: Unlock Camo and Attachments", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RECOIL%20Unlock%20Camo%20and%20Attachments.lua")
+
+addscriptexist(9585800888, "Plane crash physics: Server Lagger", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Plane%20crash%20physics%20Server%20Lagger.lua")
