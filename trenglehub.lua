@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 15:07:38"
+lastupdate = "GMT +1: 08.03.2023 15:07:42"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -8588,3 +8588,5 @@ addscriptexist(147848991, "Be A Parkour Ninja: KillAura, Hitboxes, Respawn Butto
 addscriptexist(4616652839, "Shindo Life: Auto Farm, Boss Farm & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Shindo%20Life%20Auto%20Farm%20Boss%20Farm%20%20More.lua")
 
 addscriptexist(2317712696, "The Wild West: Gun Mods", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/The%20Wild%20West%20Gun%20Mods.lua")
+
+addscriptexist(11330149751, "making scam calls to save your best friend tycoon: Auto Farm Scam Calls, Auto Upgrades", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/making%20scam%20calls%20to%20save%20your%20best%20friend%20tycoon%20Auto%20Farm%20Scam%20Calls%20Auto%20Upgrades.lua")
