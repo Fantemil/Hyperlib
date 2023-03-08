@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 20:12:51"
+lastupdate = "GMT +1: 08.03.2023 20:12:56"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -13514,3 +13514,5 @@ addscriptexist(8884433153, "Collect All Pets! | AutoFarm, AutoCollect, Auto Clai
 addscriptexist(3198259055, "SoulShatters Test Place | Cool Character", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SoulShatters%20Test%20Place%20%20Cool%20Character.lua")
 
 addscriptexist(9992339729, "Longest Answer Wins | Unlimited Blocks", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Longest%20Answer%20Wins%20%20Unlimited%20Blocks.lua")
+
+addscriptexist(10320240572, "Easy Race Clicker | Fast Auto Win, Auto Rebirth, Auto Speed", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Easy%20Race%20Clicker%20%20Fast%20Auto%20Win%20Auto%20Rebirth%20Auto%20Speed.lua")
