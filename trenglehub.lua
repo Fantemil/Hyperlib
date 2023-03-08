@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 15:03:07"
+lastupdate = "GMT +1: 08.03.2023 15:03:11"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -8470,3 +8470,5 @@ addscriptexist(920587237, "Adopt Me: Make pet flyable;", "pulled from rbxscript.
 addscriptexist(920587237, "Adopt Me: Make pet rideable", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Adopt%20Me%20Make%20pet%20rideable.lua")
 
 addscriptexist(3057050847, "Prison Anomalies: Auto Escape Farm, Remove Doors, Remove Lasers", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Prison%20Anomalies%20Auto%20Escape%20Farm%20Remove%20Doors%20Remove%20Lasers.lua")
+
+addscriptexist(3837841034, "Deadline: Enemy ESP", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Deadline%20Enemy%20ESP.lua")
