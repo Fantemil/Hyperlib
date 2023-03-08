@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 14:37:29"
+lastupdate = "GMT +1: 08.03.2023 14:37:33"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -7780,3 +7780,5 @@ addscriptexist(286090429, "Arsenal: FOV, Silent Aimbot, Wallbang", "pulled from 
 addscriptexist(10404327868, "Timber Champions: Auto Farm, Auto Collect Orbs, Auto Buy Eggs", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Timber%20Champions%20Auto%20Farm%20Auto%20Collect%20Orbs%20Auto%20Buy%20Eggs.lua")
 
 addscriptexist(3233893879, "Bad Business: Sprint Speed, Visuals, Hit Part", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Bad%20Business%20Sprint%20Speed%20Visuals%20Hit%20Part.lua")
+
+addscriptexist(6872265039, "BedWars: Vxpe V4, JSBR, Sigma", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BedWars%20Vxpe%20V%20JSBR%20Sigma.lua")
