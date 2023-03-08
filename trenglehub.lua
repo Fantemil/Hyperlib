@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 12:30:04"
+lastupdate = "GMT +1: 08.03.2023 12:30:08"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -6130,3 +6130,5 @@ addscript(11238892040, "Current Game","Type or Die: Bypass Copy/Paste anti Cheat
 addscriptexist(8540346411, "Rebirth Champions X: Auto Farm, Auto Eggs, Options", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Rebirth%20Champions%20X%20Auto%20Farm%20Auto%20Eggs%20Options.lua")
 
 addscript(4651779470, "Current Game","RECOIL: Auto Guns, Instant Reload, Infinity Ammo", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RECOIL%20Auto%20Guns%20Instant%20Reload%20Infinity%20Ammo.lua")
+
+addscript(4195834406, "Current Game","Dragon Ball Online Generations: Auto Collect Dragon Balls", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Dragon%20Ball%20Online%20Generations%20Auto%20Collect%20Dragon%20Balls.lua")
