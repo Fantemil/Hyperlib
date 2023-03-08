@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 13:16:04"
+lastupdate = "GMT +1: 08.03.2023 13:16:11"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -7344,3 +7344,5 @@ addscript(5924471692, "Current Game","Bloxford DarkRP: Insta Kill", "pulled from
 addhub("Eternity Hub: 5 Games", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Eternity%20Hub%20%20Games.lua")
 
 addscriptexist(9055015233, "My Hood: Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/My%20Hood%20Auto%20Farm.lua")
+
+addscriptexist(11040063484, "Sword Fighters Simulator: Auto Farm Quest, Auto Farm Nearest, Auto Click", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sword%20Fighters%20Simulator%20Auto%20Farm%20Quest%20Auto%20Farm%20Nearest%20Auto%20Click.lua")
