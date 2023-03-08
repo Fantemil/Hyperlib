@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 20:42:28"
+lastupdate = "GMT +1: 08.03.2023 20:42:33"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -14290,3 +14290,5 @@ addscriptexist(2753915549, "Blox Fruits [AutoFarm Mobs, Esp Chest]", "pulled fro
 addscriptexist(3177438863, "Dragon Blox [AutoLoot, AutoRebirth]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Dragon%20Blox%20AutoLoot%20AutoRebirth.lua")
 
 addscript(9862161924, "Current Game","glass game [Show Fake Glass]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/glass%20game%20Show%20Fake%20Glass.lua")
+
+addscriptexist(2537430692, "Jenga [Win, Remove KillBrick]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Jenga%20Win%20Remove%20KillBrick.lua")
