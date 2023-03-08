@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 07:15:02"
+lastupdate = "GMT +1: 08.03.2023 07:15:06"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -5764,3 +5764,5 @@ addscriptexist(6918802270, "Project New World: Infinite Range, Auto Farm", "pull
 addscript(6753004901, "Current Game","Swing City: Collect Money, Unlock All Skills, Get All Collectibles", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Swing%20City%20Collect%20Money%20Unlock%20All%20Skills%20Get%20All%20Collectibles.lua")
 
 addscript(11195100561, "Current Game","RUNNING FROM THE INTERNET: No Cooldown, Silent Aim", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RUNNING%20FROM%20THE%20INTERNET%20No%20Cooldown%20Silent%20Aim.lua")
+
+addscript(6422372837, "Current Game","Snipers [BETA]: Silent Aim & Esp", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Snipers%20BETA%20Silent%20Aim%20%20Esp.lua")
