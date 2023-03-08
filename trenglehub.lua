@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 17:46:44"
+lastupdate = "GMT +1: 08.03.2023 17:46:48"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -10664,3 +10664,5 @@ addscriptexist(4669056864, "Flex Your Account Age: Spam Hats", "pulled from rbxs
 addscriptexist(5534174456, "Tropical Resort Tycoon: Auto Build, Auto Obby, Teleports", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tropical%20Resort%20Tycoon%20Auto%20Build%20Auto%20Obby%20Teleports.lua")
 
 addscriptexist(185655149, "Bloxburg: Anti Ban Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Bloxburg%20Anti%20Ban%20Auto%20Farm.lua")
+
+addscriptexist(8084034728, "Roblox but every second you become stronger: Launch Nuke", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Roblox%20but%20every%20second%20you%20become%20stronger%20Launch%20Nuke.lua")
