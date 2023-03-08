@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 13:01:16"
+lastupdate = "GMT +1: 08.03.2023 13:01:20"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -6958,3 +6958,5 @@ addscriptexist(1599679393, "Pet Simulator: Unlock all, Teleport, Max Farm", "pul
 addscriptexist(10598587051, "Anime Clicker Fight: Fast Click, WalkSpeed.", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime%20Clicker%20Fight%20Fast%20Click%20WalkSpeed.lua")
 
 addscriptexist(1730877806, "Grand Piece Online: Walk Speed, Esp Chests, Esp Players", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Grand%20Piece%20Online%20Walk%20Speed%20Esp%20Chests%20Esp%20Players.lua")
+
+addscriptexist(2866967438, "Fishing Simulator: Auto Farm, Auto Pick Auto sell", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Fishing%20Simulator%20Auto%20Farm%20Auto%20Pick%20Auto%20sell.lua")
