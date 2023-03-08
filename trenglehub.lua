@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 14:52:59"
+lastupdate = "GMT +1: 08.03.2023 14:53:04"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -8198,3 +8198,5 @@ addscriptexist(5985232436, "Infectious Smile: Give You Red Tag", "pulled from rb
 addscriptexist(6516141723, "DOORS: Options, Spawn Entities & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DOORS%20Options%20Spawn%20Entities%20%20More.lua")
 
 addscriptexist(5956785391, "Project Slayers: Auto Farm Bosses, Killaura, Inf Stamina", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Project%20Slayers%20Auto%20Farm%20Bosses%20Killaura%20Inf%20Stamina.lua")
+
+addscriptexist(5130598377, "A Universal Time: Meteor Farm, Chest Farm, Auto Farm Bosses", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/A%20Universal%20Time%20Meteor%20Farm%20Chest%20Farm%20Auto%20Farm%20Bosses.lua")
