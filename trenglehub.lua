@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 20:59:43"
+lastupdate = "GMT +1: 08.03.2023 20:59:47"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -14716,3 +14716,5 @@ addscript(4965975642, "Current Game","Survival Of the Fittest [Godmode, KillAura
 addscriptuniversal("Roblox Universal Script [FE Fling All]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Roblox%20Universal%20Script%20FE%20Fling%20All.lua")
 
 addscriptexist(277751860, "Epic [Anti Cheat Bypass]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Epic%20Anti%20Cheat%20Bypass.lua")
+
+addscriptexist(6516141723, "DOORS [Wardrobe Esp, Event Notifiers]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DOORS%20Wardrobe%20Esp%20Event%20Notifiers.lua")
