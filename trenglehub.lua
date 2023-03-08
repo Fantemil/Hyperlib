@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 18:18:42"
+lastupdate = "GMT +1: 08.03.2023 18:18:46"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -11458,3 +11458,5 @@ addscriptuniversal("Universal Server Stat Icons", "pulled from rbxscript.com", "
 addscript(8864518888, "Current Game","Pet Legends 2: Auto Farm, Auto Hatch & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pet%20Legends%20%20Auto%20Farm%20Auto%20Hatch%20%20More.lua")
 
 addscriptexist(335760407, "TPS: Street Soccer: Anti Kick, RTX Mode, Reacts", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TPS%20Street%20Soccer%20Anti%20Kick%20RTX%20Mode%20Reacts.lua")
+
+addscriptexist(335760407, "TPS: Street Soccer | Player Modifications, ESP & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TPS%20Street%20Soccer%20%20Player%20Modifications%20ESP%20%20More.lua")
