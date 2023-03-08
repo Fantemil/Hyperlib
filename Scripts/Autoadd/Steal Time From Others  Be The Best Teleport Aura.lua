@@ -1,4 +1,34 @@
 --//Lazy code and messy
+local KeyBind = Enum.KeyCode.RightShift --//You can edit keybind by replacing "RightShift" with your key
+
+
+
+local ScreenGui = Instance.new("ScreenGui") --//Gui on bottem left side of you screen
+local Frame = Instance.new("Frame")
+local TextLabel = Instance.new("TextLabel")
+
+ScreenGui.Parent = (game:GetService("CoreGui") or gethui())
+ScreenGui.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
+
+Frame.Parent = ScreenGui
+Frame.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+Frame.BackgroundTransparency = 1.000
+Frame.Position = UDim2.new(0.00698215654, 0, 0.937655866, 0)
+Frame.Size = UDim2.new(0, 289, 0, 42)
+
+TextLabel.Parent = Frame
+TextLabel.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+TextLabel.BackgroundTransparency = 1.000
+TextLabel.Position = UDim2.new(0.0415224917, 0, 0, 0)
+TextLabel.Size = UDim2.new(0, 296, 0, 33)
+TextLabel.Font = Enum.Font.SourceSansBold
+TextLabel.Text = "AutoAim: false"
+TextLabel.TextColor3 = Color3.fromRGB(255, 0, 0)
+TextLabel.TextScaled = true
+TextLabel.TextSize = 14.000
+TextLabel.TextWrapped = true
+TextLabel.TextXAlignment = Enum.TextXAlignment.Left
+
 local run = function(a,Called)
  local Error,Value = pcall(function()
   coroutine.wrap(a)(Called)
@@ -21,8 +51,14 @@ local States = {
 local UserInputService = game:GetService("UserInputService")
 
 local function onInputBegan(input, _gameProcessed)
- if input.KeyCode == Enum.KeyCode.RightShift then
+ if input.KeyCode == KeyBind then
   States.AutoAim = not States.AutoAim
+  TextLabel.Text = "AutoAim: "..tostring(States.AutoAim)
+  if States.AutoAim then
+   TextLabel.TextColor3 = Color3.new(0.0431373, 1, 0.0431373)
+  else
+   TextLabel.TextColor3 = Color3.new(1, 0, 0.0156863)
+  end
  end
 end
 
@@ -69,15 +105,22 @@ local Character = Player.Character
 
 local Mouse = Player:GetMouse()
 local RunService = game:GetService("RunService")
-local ta = {0,0}
 local Root = game.Players.LocalPlayer.Character.HumanoidRootPart
 local RootPos, MousePos = Root.Position, findNearestPlayer(Root.Position)
+game:GetService("Players").LocalPlayer.CharacterAdded:Connect(function(a)
+ repeat task.wait() until a and a:FindFirstChildOfClass("Humanoid")
+ Root =game:GetService("Players").LocalPlayer.Character:FindFirstChild("HumanoidRootPart")
+ RootPos, MousePos = Root.Position, findNearestPlayer(Root.Position)
+end)
 RunService.RenderStepped:Connect(function()
  if States.AutoAim then
   RootPos, MousePos = Root.Position, findNearestPlayer(Root.Position)
-  if MousePos then
-   Root.CFrame = CFrame.new(RootPos, Vector3.new(MousePos.Position.X, RootPos.Y, MousePos.Position.Z))
-  end
+  pcall(function()
+   
+   if MousePos then
+    Root.CFrame = CFrame.new(RootPos, Vector3.new(MousePos.Position.X, RootPos.Y, MousePos.Position.Z))
+   end
+  end)
  end
 end)
 local stop = false
@@ -87,32 +130,17 @@ local changecd = false
 task.spawn(function()
  while true do
   task.wait()
-  if States.AutoAim then
-   if MousePos and RootPos then
-    task.spawn(function()
-     if not changecd then
-      changecd = true
-      if ta[1] == -3 then
-       ta[1] = 3
-      else
-       ta[1] = -3
-      end
-      if ta[2] == -1.7 then
-       ta[2] = 1.7
-      else
-       ta[2] = -1.7
-      end
-      wait()
-      changecd = false
+  pcall(function()
+   if States.AutoAim then
+    if MousePos and RootPos then
+     if MousePos and States.AutoAim then
+      Root.CFrame = MousePos.CFrame*CFrame.new(0,0,3)
+      pcall(function()
+       game:GetService("Players").LocalPlayer.Character:FindFirstChildOfClass("Tool"):Activate()
+      end)
      end
-    end)
-    if MousePos and States.AutoAim then
-     Root.CFrame = MousePos.CFrame+Vector3.new(ta[1],0,ta[2])
-    else
-     ta[1]=0
-     ta[2]=0
     end
    end
-  end
+  end)
  end
 end)
