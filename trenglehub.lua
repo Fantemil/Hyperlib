@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 14:37:50"
+lastupdate = "GMT +1: 08.03.2023 14:37:54"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -7790,3 +7790,5 @@ addscriptuniversal("Universal Fake Admin Button", "pulled from rbxscript.com", "
 addscriptexist(2788229376, "Da Hood: Fly, Silent AIm, Bounty Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Da%20Hood%20Fly%20Silent%20AIm%20Bounty%20Farm.lua")
 
 addscriptuniversal("Universal Spinbot, BHop, Options", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Spinbot%20BHop%20Options.lua")
+
+addscriptuniversal("PistolaBollaHUB: Ice Hub, Ghost Hub, V Hub", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PistolaBollaHUB%20Ice%20Hub%20Ghost%20Hub%20V%20Hub.lua")
