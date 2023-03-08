@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 20:19:12"
+lastupdate = "GMT +1: 08.03.2023 20:19:16"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -13682,3 +13682,5 @@ addscriptexist(2066381781, "Deadly Sins Retribution | AutoSpin Race", "pulled fr
 addscriptexist(2066381781, "Deadly Sins Retribution | Auto Spin Magic", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Deadly%20Sins%20Retribution%20%20Auto%20Spin%20Magic.lua")
 
 addscriptexist(1554960397, "Car Dealership Tycoon | AutoFarm, AutoDrive", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Car%20Dealership%20Tycoon%20%20AutoFarm%20AutoDrive.lua")
+
+addscriptexist(2537430692, "Jenga | Win Game, Fly", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Jenga%20%20Win%20Game%20Fly.lua")
