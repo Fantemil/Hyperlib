@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 19:00:18"
+lastupdate = "GMT +1: 08.03.2023 19:00:22"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -12336,3 +12336,5 @@ addscriptexist(155615604, "Prison Life: Get All Guns, BTools, Teleports", "pulle
 addscriptexist(5104202731, "Southwest Florida Beta: Anti Afk", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Southwest%20Florida%20Beta%20Anti%20Afk.lua")
 
 addscriptexist(8884334497, "Mining Clicker Simulator: Auto Rebirth, Auto Tap, Infinity Jump", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mining%20Clicker%20Simulator%20Auto%20Rebirth%20Auto%20Tap%20Infinity%20Jump.lua")
+
+addscriptexist(6429911702, "Master's Difficulty Chart Obby: Remove All KillParts, Finish Many Obbies", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Masters%20Difficulty%20Chart%20Obby%20Remove%20All%20KillParts%20Finish%20Many%20Obbies.lua")
