@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 17:59:19"
+lastupdate = "GMT +1: 08.03.2023 17:59:25"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -10982,3 +10982,5 @@ addscriptexist(9992339729, "Longest Answer Wins: Slow Answer, Realistic Answer, 
 addscriptexist(4566572536, "Vehicle Legends: WalkSpeed, Tp, Drive on Water", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Vehicle%20Legends%20WalkSpeed%20Tp%20Drive%20on%20Water.lua")
 
 addscriptexist(4188447592, "Cat Simulator: Auto Farm & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Cat%20Simulator%20Auto%20Farm%20%20More.lua")
+
+addscriptexist(1962086868, "Tower of Hell: God Mode, Walkspeed, Go To End", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tower%20of%20Hell%20God%20Mode%20Walkspeed%20Go%20To%20End.lua")
