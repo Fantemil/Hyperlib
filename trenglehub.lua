@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 12:44:43"
+lastupdate = "GMT +1: 08.03.2023 12:44:47"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -6540,3 +6540,5 @@ addscriptexist(147848991, "Be A Parkour Ninja: Kunai Tools, Bomb Tools, Hitbox",
 addhub("Chiezzy Hub: 10+ Games", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Chiezzy%20Hub%20%20Games.lua")
 
 addscriptexist(10898965735, "Mine Racer: AutoFarm, AutoMine, Auto Rebirth", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mine%20Racer%20AutoFarm%20AutoMine%20Auto%20Rebirth.lua")
+
+addscriptexist(142823291, "Murder Mystery 2: Auto Farm, Godmode, Kill", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Murder%20Mystery%20%20Auto%20Farm%20Godmode%20Kill.lua")
