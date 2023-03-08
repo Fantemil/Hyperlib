@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 07:17:53"
+lastupdate = "GMT +1: 08.03.2023 07:17:58"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -5854,3 +5854,5 @@ addscript(4169490976, "Current Game","Mortem Metallum: Server Crasher", "pulled 
 addscriptexist(1554960397, "Car Dealership Tycoon: Auto Farm, Auto Races, Teleports", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Car%20Dealership%20Tycoon%20Auto%20Farm%20Auto%20Races%20Teleports.lua")
 
 addscriptexist(6407649031, "NO-SCOPE ARCADE: Silent Aim, ESP", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NOSCOPE%20ARCADE%20Silent%20Aim%20ESP.lua")
+
+addscriptexist(6888253864, "Wacky Wizards: Remove Laser, Complete Obby, Infinity Jumps", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Wacky%20Wizards%20Remove%20Laser%20Complete%20Obby%20Infinity%20Jumps.lua")
