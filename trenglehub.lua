@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 06:59:57"
+lastupdate = "GMT +1: 08.03.2023 07:00:02"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -5306,3 +5306,5 @@ addscriptuniversal("Universal Chat trolling", "pulled from rbxscript.com", "http
 addscriptuniversal("Universal Lisbon", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Lisbon.lua")
 
 addscriptexist(2788229376, "Da Hood: 120 FOV, Float, Trash Talk", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Da%20Hood%20%20FOV%20Float%20Trash%20Talk.lua")
+
+addhub("Universal X333 Hub: 3+ Games", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20X%20Hub%20%20Games.lua")
