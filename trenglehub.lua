@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 21:01:21"
+lastupdate = "GMT +1: 08.03.2023 21:01:26"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -14758,3 +14758,5 @@ addscriptexist(537413528, "Build A Boat For Treasure [AutoFarm, Click TP Tool]",
 addscriptexist(1730877806, "Grand Piece Online [No Fall Damage, Auto Farm Beli]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Grand%20Piece%20Online%20No%20Fall%20Damage%20Auto%20Farm%20Beli.lua")
 
 addscriptexist(10087074695, "Knife Strife! [Dupe Knife]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Knife%20Strife%20Dupe%20Knife.lua")
+
+addscriptexist(621129760, "Knife Ability Test [Aimbot]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Knife%20Ability%20Test%20Aimbot.lua")
