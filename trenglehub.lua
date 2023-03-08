@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 17:44:04"
+lastupdate = "GMT +1: 08.03.2023 17:44:09"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -10598,3 +10598,5 @@ addscriptexist(10925589760, "Merge Simulator: Auto Click, Auto Merge & More", "p
 addscript(8482713490, "Current Game","Forgotten Memories: No Fog, Full Bright, Animatronic ESP", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Forgotten%20Memories%20No%20Fog%20Full%20Bright%20Animatronic%20ESP.lua")
 
 addscriptexist(137877687, "RoCitizens: Unlock All Gamepasses", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RoCitizens%20Unlock%20All%20Gamepasses.lua")
+
+addscriptexist(13822889, "Lumber Tycoon 2: Click TP, Walkspeed, Inifnity Jump", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Lumber%20Tycoon%20%20Click%20TP%20Walkspeed%20Inifnity%20Jump.lua")
