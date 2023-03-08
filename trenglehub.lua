@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 17:04:28"
+lastupdate = "GMT +1: 08.03.2023 17:04:32"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -9590,3 +9590,5 @@ addscriptexist(537413528, "Build A Boat For Treasure: Auto Chests, Auto Farm, Te
 addscriptexist(6516141723, "DOORS: Fullbright, Noclip, ESP", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DOORS%20Fullbright%20Noclip%20ESP.lua")
 
 addscriptexist(5865858426, "Retail Tycoon 2: Free UGC Item", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Retail%20Tycoon%20%20Free%20UGC%20Item.lua")
+
+addscriptexist(286090429, "Arsenal: Kill Game, Auto Report, Silent Aim", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Arsenal%20Kill%20Game%20Auto%20Report%20Silent%20Aim.lua")
