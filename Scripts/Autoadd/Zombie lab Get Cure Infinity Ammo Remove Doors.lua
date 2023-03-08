@@ -1,0 +1,1 @@
+loadstring(game:HttpGet(('https://raw.githubusercontent.com/CJFabro8/MultiX/main/MultiX'),true))()
