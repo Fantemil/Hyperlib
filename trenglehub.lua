@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 12:42:38"
+lastupdate = "GMT +1: 08.03.2023 12:42:41"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -6480,3 +6480,5 @@ addscriptexist(1537690962, "Bee Swarm Simulator: Convert All, Auto Farm & More",
 addhub("Voxle Hub: 3 Games", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Voxle%20Hub%20%20Games.lua")
 
 addscriptexist(6918802270, "Project New World: Chest farm autohop", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Project%20New%20World%20Chest%20farm%20autohop.lua")
+
+addscriptexist(920587237, "Adopt Me: Get all NFR and MFR pets", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Adopt%20Me%20Get%20all%20NFR%20and%20MFR%20pets.lua")
