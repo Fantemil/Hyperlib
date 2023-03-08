@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 20:44:40"
+lastupdate = "GMT +1: 08.03.2023 20:44:44"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -14342,3 +14342,5 @@ addscriptexist(8884334497, "Mining Clicker Simulator [AutoRebirth, AutoClick]", 
 addscriptexist(2537430692, "Jenga [Stop Game]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Jenga%20Stop%20Game.lua")
 
 addscriptexist(4282985734, "Combat Warriors [Esp, KillAura]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Combat%20Warriors%20Esp%20KillAura.lua")
+
+addscriptexist(5154858502, "Murderers vs. Sheriffs [KillAura]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Murderers%20vs%20Sheriffs%20KillAura.lua")
