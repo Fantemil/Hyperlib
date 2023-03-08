@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 12:51:25"
+lastupdate = "GMT +1: 08.03.2023 12:51:30"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -6706,3 +6706,5 @@ addscriptexist(4872321990, "Islands: Teleport Bypass", "pulled from rbxscript.co
 addscriptexist(8657766101, "Marvellous Playground: Kill All", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Marvellous%20Playground%20Kill%20All.lua")
 
 addscriptexist(13822889, "Lumber Tycoon 2: Dupe Your Entire Inventory", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Lumber%20Tycoon%20%20Dupe%20Your%20Entire%20Inventory.lua")
+
+addscriptexist(7346416636, "Pop It Trading: Teleports, Fake Drop, Buy Items", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pop%20It%20Trading%20Teleports%20Fake%20Drop%20Buy%20Items.lua")
