@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 06:50:13"
+lastupdate = "GMT +1: 08.03.2023 06:50:17"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -5010,3 +5010,5 @@ addscript(10106105124, "Current Game","Wheat Farming Simulator: Auto Mega Rebirt
 addscriptexist(2753915549, "Blox Fruits: AutoFarm Level, AutoFarm Selected Quest, AutoFarm Multi Quest", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blox%20Fruits%20AutoFarm%20Level%20AutoFarm%20Selected%20Quest%20AutoFarm%20Multi%20Quest.lua")
 
 addscriptexist(292439477, "Phantom Forces: CPU Limiter, Anti Afk, No Fall Damage", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Phantom%20Forces%20CPU%20Limiter%20Anti%20Afk%20No%20Fall%20Damage.lua")
+
+addscriptexist(11040063484, "Sword Fighters Simulator: Equip Best Pets, Auto Farm Selected, Auto Open Eggs", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sword%20Fighters%20Simulator%20Equip%20Best%20Pets%20Auto%20Farm%20Selected%20Auto%20Open%20Eggs.lua")
