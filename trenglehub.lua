@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 12:35:12"
+lastupdate = "GMT +1: 08.03.2023 12:35:17"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -6274,3 +6274,5 @@ addscriptexist(7560156054, "Clicker Simulator: Auto Collect All Snowflakes", "pu
 addscriptexist(10462101644, "Tall Man Run: Give Size", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tall%20Man%20Run%20Give%20Size.lua")
 
 addscriptexist(10462101644, "Tall Man Run: Infinity Points", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tall%20Man%20Run%20Infinity%20Points.lua")
+
+addscriptexist(3351674303, "Driving Empire: Presents Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Driving%20Empire%20Presents%20Auto%20Farm.lua")
