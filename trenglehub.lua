@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 06:47:04"
+lastupdate = "GMT +1: 08.03.2023 06:47:11"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -4912,3 +4912,5 @@ addscriptuniversal("Universal GUI Emotes", "pulled from rbxscript.com", "https:/
 addscriptexist(2788229376, "Da Hood: Aimlock, Flying, ESP", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Da%20Hood%20Aimlock%20Flying%20ESP.lua")
 
 addscriptexist(6516141723, "DOORS: Esp, Auto Escape, Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DOORS%20Esp%20Auto%20Escape%20Auto%20Farm.lua")
+
+addscriptexist(4588604953, "Criminality: Silent AIm, Kill Aura, Gun Mods", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Criminality%20Silent%20AIm%20Kill%20Aura%20Gun%20Mods.lua")
