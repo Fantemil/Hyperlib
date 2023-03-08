@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 20:27:56"
+lastupdate = "GMT +1: 08.03.2023 20:28:00"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -13918,3 +13918,5 @@ addscriptexist(8540346411, "Rebirth Champions X [Auto Click, Auto Rebirth, Auto 
 addscriptexist(9498006165, "Slime Tower Tycoon [Auto Collect, Auto buy Slimes, Auto Merge]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Slime%20Tower%20Tycoon%20Auto%20Collect%20Auto%20buy%20Slimes%20Auto%20Merge.lua")
 
 addscript(10429088113, "Current Game","Jump Race [Auto Win]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Jump%20Race%20Auto%20Win.lua")
+
+addscriptexist(9872472334, "Evade [Auto Farm - Fast Revive & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Evade%20Auto%20Farm%20%20Fast%20Revive%20%20More.lua")
