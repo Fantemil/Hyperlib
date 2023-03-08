@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 19:11:10"
+lastupdate = "GMT +1: 08.03.2023 19:11:15"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -12568,3 +12568,5 @@ addscriptexist(537413528, "Build A Boat For Treasure: Auto Farm, Anti Afk", "pul
 addscriptexist(292439477, "Phantom Forces: Aimbot, ESP, Wallcheck", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Phantom%20Forces%20Aimbot%20ESP%20Wallcheck.lua")
 
 addscriptexist(8360240897, "World of Trollge: Auto Farm, Anti Afk, Walkspeed", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/World%20of%20Trollge%20Auto%20Farm%20Anti%20Afk%20Walkspeed.lua")
+
+addscriptexist(9993529229, "Counter Blox: Remastered | Case Opener", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Counter%20Blox%20Remastered%20%20Case%20Opener.lua")
