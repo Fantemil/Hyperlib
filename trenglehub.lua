@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 07:09:47"
+lastupdate = "GMT +1: 08.03.2023 07:09:52"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -5606,3 +5606,5 @@ addscript(6949542776, "Current Game","Pixel Gun Tower Defense: Auto Farm", "pull
 addscriptexist(1537690962, "Bee Swarm Simulator: Auto Farm, Auto Kill Crab, Auto Dig", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Bee%20Swarm%20Simulator%20Auto%20Farm%20Auto%20Kill%20Crab%20Auto%20Dig.lua")
 
 addscriptexist(335760407, "TPS: Street Soccer: Auto Goal, Auto Goal Keeper, Auto Shoot", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TPS%20Street%20Soccer%20Auto%20Goal%20Auto%20Goal%20Keeper%20Auto%20Shoot.lua")
+
+addscriptexist(2788229376, "Da Hood: Auto Farm, Auto Heal & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Da%20Hood%20Auto%20Farm%20Auto%20Heal%20%20More.lua")
