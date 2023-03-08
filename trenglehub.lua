@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 07:15:34"
+lastupdate = "GMT +1: 08.03.2023 07:15:39"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -5780,3 +5780,5 @@ addscript(5985232436, "Current Game","Infectious Smile: Hit Aura, No Slowdown, G
 addscript(6490016198, "Current Game","Slayer Tycoon: Hitbox Changer, Teleports, Walkspeed Slider", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Slayer%20Tycoon%20Hitbox%20Changer%20Teleports%20Walkspeed%20Slider.lua")
 
 addscript(6407649031, "Current Game","NO-SCOPE ARCADE: Aimbot, Instatnt Equip & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NOSCOPE%20ARCADE%20Aimbot%20Instatnt%20Equip%20%20More.lua")
+
+addscriptexist(6403373529, "Slap Battles: Auto Clicker, Slap Aura, Slap Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Slap%20Battles%20Auto%20Clicker%20Slap%20Aura%20Slap%20Farm.lua")
