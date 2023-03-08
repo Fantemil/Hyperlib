@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 07:13:11"
+lastupdate = "GMT +1: 08.03.2023 07:13:14"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -5708,3 +5708,5 @@ addscriptexist(730951264, "The Maze: Anti Jumpscare, Infinite Throw Axe & More!"
 addscriptexist(335760407, "TPS: Street Soccer: Auto Kick", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TPS%20Street%20Soccer%20Auto%20Kick.lua")
 
 addscript(6582467377, "Current Game","Vanity [BETA]: Kill Aura, Bypasses Anti Cheat", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Vanity%20BETA%20Kill%20Aura%20Bypasses%20Anti%20Cheat.lua")
+
+addscriptexist(855499080, "SKYWARS: Teleports, Anti Void & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SKYWARS%20Teleports%20Anti%20Void%20%20More.lua")
