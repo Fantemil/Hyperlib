@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 20:15:34"
+lastupdate = "GMT +1: 08.03.2023 20:15:38"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -13588,3 +13588,5 @@ addhub("EzScripts HUB | 5 Games", "pulled from rbxscript.com", "https://raw.gith
 addscriptexist(8750997647, "Tapping Legends X | GUI - Auto Click, Auto Rebirth & More!", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tapping%20Legends%20X%20%20GUI%20%20Auto%20Click%20Auto%20Rebirth%20%20More.lua")
 
 addscriptexist(8884433153, "Collect All Pets! | Auto Claim Daily Egg, Auto Farm, TP Egg", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Collect%20All%20Pets%20%20Auto%20Claim%20Daily%20Egg%20Auto%20Farm%20TP%20Egg.lua")
+
+addscriptexist(2788229376, "Da Hood | Simple AimLock", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Da%20Hood%20%20Simple%20AimLock.lua")
