@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 07:04:17"
+lastupdate = "GMT +1: 08.03.2023 07:04:20"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -5434,3 +5434,5 @@ addscriptexist(3101667897, "Legends Of Speed: Auto Steps, Auto Win Race, Auto Re
 addscriptexist(10898965735, "Mine Racer: Auto Join, Anti Afk, Auto Open Eggs", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mine%20Racer%20Auto%20Join%20Anti%20Afk%20Auto%20Open%20Eggs.lua")
 
 addscript(10224689615, "Current Game","Money Clicker Simulator: Auto Clicker", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Money%20Clicker%20Simulator%20Auto%20Clicker.lua")
+
+addscriptexist(370731277, "MeepCity: Fling, Go To Player, View", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MeepCity%20Fling%20Go%20To%20Player%20View.lua")
