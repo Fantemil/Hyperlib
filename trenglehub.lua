@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 18:05:05"
+lastupdate = "GMT +1: 08.03.2023 18:05:12"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -11128,3 +11128,5 @@ addscriptexist(8482713490, "Forgotten Memories: Infinite Money", "pulled from rb
 addscriptexist(9872472334, "Evade: Ticket Autofarm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Evade%20Ticket%20Autofarm.lua")
 
 addscriptexist(9551640993, "Mining Simulator 2: Auto Sell, Auto Farm, Auto Eggs", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mining%20Simulator%20%20Auto%20Sell%20Auto%20Farm%20Auto%20Eggs.lua")
+
+addscriptexist(4872321990, "Islands: Zombie Cletus Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Islands%20Zombie%20Cletus%20Farm.lua")
