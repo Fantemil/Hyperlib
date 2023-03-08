@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 19:21:00"
+lastupdate = "GMT +1: 08.03.2023 19:21:05"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -12786,3 +12786,5 @@ addscriptexist(2788229376, "Da Hood: Auto Farm, Teleports & more", "pulled from 
 addscriptexist(155615604, "Prison Life: Kill Selected Player", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Prison%20Life%20Kill%20Selected%20Player.lua")
 
 addscriptexist(6172932937, "Energy Assault: Wallbang", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Energy%20Assault%20Wallbang.lua")
+
+addscriptexist(2727067538, "World // Zero: Kill Aura, Auto Farm, No Clip & More!", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/World%20%20Zero%20Kill%20Aura%20Auto%20Farm%20No%20Clip%20%20More.lua")
