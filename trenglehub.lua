@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 20:45:06"
+lastupdate = "GMT +1: 08.03.2023 20:45:10"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -14352,3 +14352,5 @@ addscriptexist(10524502174, "One Punch Fighters [AutoPunch, Remove Barriers]", "
 addscriptexist(6284583030, "Pet Simulator X [Auto Farm, Auto open Egg, Auto Farm Chest]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pet%20Simulator%20X%20Auto%20Farm%20Auto%20open%20Egg%20Auto%20Farm%20Chest.lua")
 
 addhub("Roblox [Zlatko Hub]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Roblox%20Zlatko%20Hub.lua")
+
+addhub("Roblox [Realityy Hub]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Roblox%20Realityy%20Hub.lua")
