@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 12:39:22"
+lastupdate = "GMT +1: 08.03.2023 12:39:28"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -6390,3 +6390,5 @@ addscriptexist(2788229376, "Da Hood: Silent Aim, Resolver, Teleports", "pulled f
 addscriptexist(9825515356, "Hood Customs: Aim Lock, Anti Lock, Teleports", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Hood%20Customs%20Aim%20Lock%20Anti%20Lock%20Teleports.lua")
 
 addscriptexist(3233893879, "Bad Business 3.19: Aimbot, Silent Aim, Open Source", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Bad%20Business%20%20Aimbot%20Silent%20Aim%20Open%20Source.lua")
+
+addscriptexist(13822889, "Lumber Tycoon 2: Tree Getter Gui, Open Source", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Lumber%20Tycoon%20%20Tree%20Getter%20Gui%20Open%20Source.lua")
