@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 17:59:09"
+lastupdate = "GMT +1: 08.03.2023 17:59:14"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -10978,3 +10978,5 @@ addscriptexist(8908228901, "SharkBite 2: Teeth Generator, Kill Aura, Kill All", 
 addscriptexist(8908228901, "SharkBite 2 [NEW]: Kill All & Teeth Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SharkBite%20%20NEW%20Kill%20All%20%20Teeth%20Farm.lua")
 
 addscriptexist(9992339729, "Longest Answer Wins: Slow Answer, Realistic Answer, Anti Kick", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Longest%20Answer%20Wins%20Slow%20Answer%20Realistic%20Answer%20Anti%20Kick.lua")
+
+addscriptexist(4566572536, "Vehicle Legends: WalkSpeed, Tp, Drive on Water", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Vehicle%20Legends%20WalkSpeed%20Tp%20Drive%20on%20Water.lua")
