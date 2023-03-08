@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 13:08:20"
+lastupdate = "GMT +1: 08.03.2023 13:08:24"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -7142,3 +7142,5 @@ addscriptexist(8506369721, "dig to china: Auto Win", "pulled from rbxscript.com"
 addhub("Vynixius Hub: Big quality works", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Vynixius%20Hub%20Big%20quality%20works.lua")
 
 addhub("Rolly Hub: 6 Games", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Rolly%20Hub%20%20Games.lua")
+
+addscriptexist(5956785391, "Project Lazarus: Farm All Bosses, Kill Aura & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Project%20Lazarus%20Farm%20All%20Bosses%20Kill%20Aura%20%20More.lua")
