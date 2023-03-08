@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 18:47:53"
+lastupdate = "GMT +1: 08.03.2023 18:47:57"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -12068,3 +12068,5 @@ addscriptexist(9993529229, "Counter Blox: Remastered: Updated Case Opener", "pul
 addscript(147536429, "Current Game","Field of Battle: Tool Reach", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Field%20of%20Battle%20Tool%20Reach.lua")
 
 addscriptexist(4282985734, "Combat Warriors: Nova.xyz and birdzware", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Combat%20Warriors%20Novaxyz%20and%20birdzware.lua")
+
+addscriptexist(8204899140, "Football Fusion 2: Mag Reach", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Football%20Fusion%20%20Mag%20Reach.lua")
