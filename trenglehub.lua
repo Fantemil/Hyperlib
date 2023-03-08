@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 13:17:58"
+lastupdate = "GMT +1: 08.03.2023 13:18:03"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -7392,3 +7392,5 @@ addscriptexist(6708206173, "Rate My Avatar: My custom 3D rendering engine", "pul
 addscriptexist(11400511154, "Monkey Tycoon: Auto Buy Droppers", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Monkey%20Tycoon%20Auto%20Buy%20Droppers.lua")
 
 addscriptexist(11400511154, "Monkey Tycoon: Auto Deposit Bananas", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Monkey%20Tycoon%20Auto%20Deposit%20Bananas.lua")
+
+addscriptexist(8657766101, "Marvellous Playground: Unlock Gamepass", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Marvellous%20Playground%20Unlock%20Gamepass.lua")
