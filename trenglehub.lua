@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 06:36:32"
+lastupdate = "GMT +1: 08.03.2023 06:36:36"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -4594,3 +4594,5 @@ addscriptuniversal("Universal Fly GUI V3", "pulled from rbxscript.com", "https:/
 addscriptexist(6284583030, "Pet Simulator X!: Auto Farm, Auto Collect, Auto Hatch", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pet%20Simulator%20X%20Auto%20Farm%20Auto%20Collect%20Auto%20Hatch.lua")
 
 addscriptuniversal("Unievrsal Notification System", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Unievrsal%20Notification%20System.lua")
+
+addscriptexist(11156779721, "The Survival Game: Kill Aura, Teleports & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/The%20Survival%20Game%20Kill%20Aura%20Teleports%20%20More.lua")
