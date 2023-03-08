@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 16:36:32"
+lastupdate = "GMT +1: 08.03.2023 16:36:37"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -8890,3 +8890,5 @@ addscript(8377686524, "Current Game","Classic Undertale: Last Reset: Godmode, An
 addscriptexist(10898965735, "Mine Racer: Auto Upgrade, Auto Mine, Anti AFK", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mine%20Racer%20Auto%20Upgrade%20Auto%20Mine%20Anti%20AFK.lua")
 
 addscriptexist(286090429, "Arsenal: Walkspeed, Auto Collect, Silent Aim", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Arsenal%20Walkspeed%20Auto%20Collect%20Silent%20Aim.lua")
+
+addscriptexist(4522347649, "[FREE ADMIN]: Explode All, Control All, Player Mods", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FREE%20ADMIN%20Explode%20All%20Control%20All%20Player%20Mods.lua")
