@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 07:16:15"
+lastupdate = "GMT +1: 08.03.2023 07:16:19"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -5802,3 +5802,5 @@ addscriptexist(8737602449, "PLS DONATE: Legit Mode, Webhooks, Auto Thank", "pull
 addscript(9744954014, "Current Game","Tha Hood: Godmode, Inf Ammo, Fake Money", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tha%20Hood%20Godmode%20Inf%20Ammo%20Fake%20Money.lua")
 
 addscriptexist(10675066724, "Slime Tower Tycoon: Merge, Auto Collect, Deposit Drops", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Slime%20Tower%20Tycoon%20Merge%20Auto%20Collect%20Deposit%20Drops.lua")
+
+addscriptexist(3260590327, "Tower Defense Simulator: Best Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tower%20Defense%20Simulator%20Best%20Auto%20Farm.lua")
