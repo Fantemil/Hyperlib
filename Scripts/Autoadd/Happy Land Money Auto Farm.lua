@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://raw.githubusercontent.com/kooggy/Scripts/main/Happy%20Land.lua'))()
