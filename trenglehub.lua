@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 18:27:10"
+lastupdate = "GMT +1: 08.03.2023 18:27:14"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -11668,3 +11668,5 @@ addscriptexist(286090429, "Arsenal: Invisible", "pulled from rbxscript.com", "ht
 addscriptexist(10456811278, "Milk Tycoon: Auto Collect Milk, Redeem Codes & more", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Milk%20Tycoon%20Auto%20Collect%20Milk%20Redeem%20Codes%20%20more.lua")
 
 addscriptexist(4588604953, "Criminality: Autofarm, Silent Aim & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Criminality%20Autofarm%20Silent%20Aim%20%20More.lua")
+
+addscript(10430505147, "Current Game","Skateman Simulator: Auto Farm, Auto Ramp, Auto Eggs", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Skateman%20Simulator%20Auto%20Farm%20Auto%20Ramp%20Auto%20Eggs.lua")
