@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 12:45:20"
+lastupdate = "GMT +1: 08.03.2023 12:45:23"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -6556,3 +6556,5 @@ addscriptexist(9498006165, "Tapping Simulator: Auto Rebirth, Auto Claim Rewards,
 addscript(11137575513, "Current Game","The Chosen One: Anti Glitch, Unfreeze, Get Tools", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/The%20Chosen%20One%20Anti%20Glitch%20Unfreeze%20Get%20Tools.lua")
 
 addscriptexist(1242235469, "ball and axe: Auto Win", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ball%20and%20axe%20Auto%20Win.lua")
+
+addhub("Celestial Hub: 20+ Games", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Celestial%20Hub%20%20Games.lua")
