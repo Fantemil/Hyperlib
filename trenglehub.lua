@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 18:55:08"
+lastupdate = "GMT +1: 08.03.2023 18:55:15"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -12222,3 +12222,5 @@ addscriptexist(286090429, "Arsenal: Simple Hitbox Expander", "pulled from rbxscr
 addscriptexist(10903978962, "Sheep Tycoon: Auto Farm, Auto Upgrade Rate, Auto Buy Sheep", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sheep%20Tycoon%20Auto%20Farm%20Auto%20Upgrade%20Rate%20Auto%20Buy%20Sheep.lua")
 
 addscriptexist(1046190774, "Haloween Night: Auto Farm, Teleports", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Haloween%20Night%20Auto%20Farm%20Teleports.lua")
+
+addscriptexist(8929050629, "Mo's Academy: Get Everything GUI", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mos%20Academy%20Get%20Everything%20GUI.lua")
