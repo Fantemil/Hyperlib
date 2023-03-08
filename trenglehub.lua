@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 19:19:06"
+lastupdate = "GMT +1: 08.03.2023 19:19:11"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -12744,3 +12744,5 @@ addscriptexist(6441847031, "CHAOS: Give Tools", "pulled from rbxscript.com", "ht
 addscriptexist(9872472334, "Evade: Money Fark, Afk Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Evade%20Money%20Fark%20Afk%20Farm.lua")
 
 addscriptexist(6441847031, "CHAOS: Unlock All Gamepass, Dupe Weapons, Walkspeed", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CHAOS%20Unlock%20All%20Gamepass%20Dupe%20Weapons%20Walkspeed.lua")
+
+addscript(7140186081, "Current Game","GunGame: Forcefield", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/GunGame%20Forcefield.lua")
