@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 16:58:38"
+lastupdate = "GMT +1: 08.03.2023 16:58:44"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -9442,3 +9442,5 @@ addscript(6536647319, "Current Game","Slayers Unleashed: Admin Commands", "pulle
 addscript(4870984160, "Current Game","Cornerstone Arcade: Auto Farm Work", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Cornerstone%20Arcade%20Auto%20Farm%20Work.lua")
 
 addscriptexist(5956785391, "Project Slayers: Kill Aura, Noclip, Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Project%20Slayers%20Kill%20Aura%20Noclip%20Auto%20Farm.lua")
+
+addscriptexist(5865858426, "Retail Tycoon 2: Philips Auto Farm, Get Ugc Item", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Retail%20Tycoon%20%20Philips%20Auto%20Farm%20Get%20Ugc%20Item.lua")
