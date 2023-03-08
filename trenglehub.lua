@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 20:33:22"
+lastupdate = "GMT +1: 08.03.2023 20:33:29"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -14056,3 +14056,5 @@ addscriptexist(10675066724, "Slime Tower Tycoon [Auto Deposit, Auto Merge, Auto 
 addscript(7952526341, "Current Game","Draw Drawings and turn it 3D and play around [Crash Server]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Draw%20Drawings%20and%20turn%20it%20D%20and%20play%20around%20Crash%20Server.lua")
 
 addscriptexist(6516141723, "DOORS [Skip lvls, Anti screech, Always win games]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DOORS%20Skip%20lvls%20Anti%20screech%20Always%20win%20games.lua")
+
+addscriptexist(6055959032, "Jailbird [Aimbot, FOV Scale, Show FOV]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Jailbird%20Aimbot%20FOV%20Scale%20Show%20FOV.lua")
