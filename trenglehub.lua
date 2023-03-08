@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 17:23:04"
+lastupdate = "GMT +1: 08.03.2023 17:23:08"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -10066,3 +10066,5 @@ addscriptexist(155615604, "Prison Life: Selected Player Kill", "pulled from rbxs
 addscriptexist(9103460924, "Sword Factory X: Auto Dungeon, Auto Re Enchant, Buy Boosts Fast", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sword%20Factory%20X%20Auto%20Dungeon%20Auto%20Re%20Enchant%20Buy%20Boosts%20Fast.lua")
 
 addscriptexist(9872472334, "Evade: Monster ESP with names and Tracers", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Evade%20Monster%20ESP%20with%20names%20and%20Tracers.lua")
+
+addscriptexist(9144187696, "A PIECE: Tp To Quest Guy, Walkspeed, Skill Points Add", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/A%20PIECE%20Tp%20To%20Quest%20Guy%20Walkspeed%20Skill%20Points%20Add.lua")
