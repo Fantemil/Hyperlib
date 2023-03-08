@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 20:22:20"
+lastupdate = "GMT +1: 08.03.2023 20:22:24"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -13766,3 +13766,5 @@ addscriptexist(6403373529, "Slap Battles | KillAura, Anti Chase, Anti Ragdoll, N
 addscript(9112775301, "Current Game","Da Hood Fights l Auto Steal", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Da%20Hood%20Fights%20l%20Auto%20Steal.lua")
 
 addscriptexist(286090429, "Arsenal | ESP", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Arsenal%20%20ESP.lua")
+
+addscript(1343871267, "Current Game","Fredbear's Mega Roleplay | Transform All, Mutate Player or all, Animatronic", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Fredbears%20Mega%20Roleplay%20%20Transform%20All%20Mutate%20Player%20or%20all%20Animatronic.lua")
