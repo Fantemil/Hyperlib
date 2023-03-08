@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 06:26:02"
+lastupdate = "GMT +1: 08.03.2023 06:26:05"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -4600,3 +4600,5 @@ addscriptexist(142823291, "Murder Mystery 2: Jumppower, Walkspeed, Kill Aura", "
 addscriptexist(286090429, "Arsenal: Anti Cheat Bypass, Walkspeed, Silent Aim", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Arsenal%20Anti%20Cheat%20Bypass%20Walkspeed%20Silent%20Aim.lua")
 
 addscriptexist(4913581664, "Cart Ride Into Rdite: Fly, Spam, Rejoin", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Cart%20Ride%20Into%20Rdite%20Fly%20Spam%20Rejoin.lua")
+
+addscriptexist(1224212277, "Mad City: Auto Rob, Silent Aim, Anti Afk", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mad%20City%20Auto%20Rob%20Silent%20Aim%20Anti%20Afk.lua")
