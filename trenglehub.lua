@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 20:43:36"
+lastupdate = "GMT +1: 08.03.2023 20:43:41"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -14318,3 +14318,5 @@ addscriptexist(2788229376, "Da Hood [Anti Stomp, Godmode]", "pulled from rbxscri
 addscriptexist(9872472334, "Evade [AutoRespawn, Bot Esp]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Evade%20AutoRespawn%20Bot%20Esp.lua")
 
 addscriptexist(3956818381, "Ninja Legends [AutoFarm, AutoCrystals]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ninja%20Legends%20AutoFarm%20AutoCrystals.lua")
+
+addscriptexist(4951858512, "Victory Race [Anti Lag, AutoWin]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Victory%20Race%20Anti%20Lag%20AutoWin.lua")
