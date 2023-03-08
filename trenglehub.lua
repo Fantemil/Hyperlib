@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 17:07:24"
+lastupdate = "GMT +1: 08.03.2023 17:07:28"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -9660,3 +9660,5 @@ addscriptexist(10347946161, "Rat Washing Tycoon: Auto Sell, Auto Collect, Auto B
 addscript(8704181738, "Current Game","Tien Tien Peice: Hitbox, Auto Gacha, Auto Skills", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tien%20Tien%20Peice%20Hitbox%20Auto%20Gacha%20Auto%20Skills.lua")
 
 addscriptuniversal("Universal BSOD", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20BSOD.lua")
+
+addscriptuniversal("Universal Group Bypasser", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Group%20Bypasser.lua")
