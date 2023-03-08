@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 17:21:28"
+lastupdate = "GMT +1: 08.03.2023 17:21:35"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -10024,3 +10024,5 @@ addscript(6448788420, "Current Game","Laredo Tx, Border Rp V1.8.0: Destroy Serve
 addscriptexist(9848789324, "Ragdoll Engine: Fling, Kill Fling, Fe Character Size & More!", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ragdoll%20Engine%20Fling%20Kill%20Fling%20Fe%20Character%20Size%20%20More.lua")
 
 addscriptexist(3851622790, "Break In (Story): Item Giver, Kil All, Godmode", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Break%20In%20Story%20Item%20Giver%20Kil%20All%20Godmode.lua")
+
+addscript(7184600262, "Current Game","Gridiron Football 2.0: Auto Catch, Auto Snap Ball, Speed Hack", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Gridiron%20Football%20%20Auto%20Catch%20Auto%20Snap%20Ball%20Speed%20Hack.lua")
