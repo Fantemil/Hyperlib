@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 12:37:02"
+lastupdate = "GMT +1: 08.03.2023 12:37:05"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -6322,3 +6322,5 @@ addscriptexist(286090429, "Arsenal: Aimbot, Infinite Ammo, GodMode", "pulled fro
 addscriptexist(4282985734, "Combat Warriors: New Anti Cheat Bypass", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Combat%20Warriors%20New%20Anti%20Cheat%20Bypass.lua")
 
 addscriptexist(6170705260, "Blending Simulator 2: Presents Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blending%20Simulator%20%20Presents%20Auto%20Farm.lua")
+
+addscriptexist(9100638688, "Drivers Paradise: Unlimited Cash & Free Cars", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Drivers%20Paradise%20Unlimited%20Cash%20%20Free%20Cars.lua")
