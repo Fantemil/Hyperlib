@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/AlterRainbow/Scripts/main/Snipers%20%5BBETA%5D.lua"))()
