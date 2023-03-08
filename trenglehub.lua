@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 12:53:02"
+lastupdate = "GMT +1: 08.03.2023 12:53:06"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -6746,3 +6746,5 @@ addscriptexist(292439477, "Phantom Forces: Speed", "pulled from rbxscript.com", 
 addscriptexist(3233893879, "Bad Business: No Recoil, Instant Reload, FOV", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Bad%20Business%20No%20Recoil%20Instant%20Reload%20FOV.lua")
 
 addscriptexist(6708206173, "Rate My Avatar: Auto Rate & Auto Serverhop", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Rate%20My%20Avatar%20Auto%20Rate%20%20Auto%20Serverhop.lua")
+
+addscriptexist(7791873535, "REALISTIC HOOD: Infinite Money", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/REALISTIC%20HOOD%20Infinite%20Money.lua")
