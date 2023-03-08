@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 14:58:20"
+lastupdate = "GMT +1: 08.03.2023 14:58:24"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -8342,3 +8342,5 @@ addscriptexist(71315343, "Dragon Race Clicker: Server Crasher", "pulled from rbx
 addscriptexist(10041108328, "Dark Life [beta]: Printer Steal, Gun Steal", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Dark%20Life%20beta%20Printer%20Steal%20Gun%20Steal.lua")
 
 addscriptexist(2753915549, "Blox Fruits: Project Vellerius V3", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blox%20Fruits%20Project%20Vellerius%20V.lua")
+
+addscriptexist(7655745946, "Dunking Simulator: Infinite Boosts", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Dunking%20Simulator%20Infinite%20Boosts.lua")
