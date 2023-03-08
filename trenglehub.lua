@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 16:45:27"
+lastupdate = "GMT +1: 08.03.2023 16:45:31"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -9108,3 +9108,5 @@ addscriptexist(10681622988, "Easy Jump Clicker: Auto win, Rebirths, Clicks", "pu
 addscriptexist(1962086868, "Tower of Hell: Auto Farm, Esp, Auto Buy", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tower%20of%20Hell%20Auto%20Farm%20Esp%20Auto%20Buy.lua")
 
 addscript(6905769625, "Current Game","Rooftop Basketball: AimBot", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Rooftop%20Basketball%20AimBot.lua")
+
+addscript(9787091365, "Current Game","Ninja Storm Simulator: Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ninja%20Storm%20Simulator%20Auto%20Farm.lua")
