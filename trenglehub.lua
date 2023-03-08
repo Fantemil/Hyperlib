@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 20:50:41"
+lastupdate = "GMT +1: 08.03.2023 20:50:46"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -14490,3 +14490,5 @@ addscript(6542731310, "Current Game","Dogecoin Mining Tycoon [Clear gpu's, Tp, W
 addscript(8436975214, "Current Game","Dangerous Speeds [Unlock All Cars]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Dangerous%20Speeds%20Unlock%20All%20Cars.lua")
 
 addscriptexist(10320240572, "Easy Race Clicker [AutoWins]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Easy%20Race%20Clicker%20AutoWins.lua")
+
+addscriptexist(6608498361, "cursed tank simulator [Increase Ammunition hitbox]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/cursed%20tank%20simulator%20Increase%20Ammunition%20hitbox.lua")
