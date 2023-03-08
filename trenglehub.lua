@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 19:03:57"
+lastupdate = "GMT +1: 08.03.2023 19:04:03"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -12414,3 +12414,5 @@ addscriptexist(10447678365, "Dinosaur Simulator: Inf Money", "pulled from rbxscr
 addscriptexist(3198259055, "SoulShatters Test Place: God mode, Open Source", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SoulShatters%20Test%20Place%20God%20mode%20Open%20Source.lua")
 
 addscriptexist(10903978962, "Sheep Tycoon: Infinity Coins", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sheep%20Tycoon%20Infinity%20Coins.lua")
+
+addscriptexist(2248408710, "Destruction Simulator: Infinity Coins, Sell Bricks", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Destruction%20Simulator%20Infinity%20Coins%20Sell%20Bricks.lua")
