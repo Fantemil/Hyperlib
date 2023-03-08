@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 13:05:25"
+lastupdate = "GMT +1: 08.03.2023 13:05:29"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -7064,3 +7064,5 @@ addscriptexist(10404327868, "Timber Champions: Auto Farm, Craft All Pets, Collec
 addscriptexist(9872472334, "Evade: Auto Farm Ticket, Auto Respawn, Respawn Once", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Evade%20Auto%20Farm%20Ticket%20Auto%20Respawn%20Respawn%20Once.lua")
 
 addscriptexist(8657766101, "Marvellous Playground: Kill aura", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Marvellous%20Playground%20Kill%20aura.lua")
+
+addscriptexist(292439477, "Phantom Forces: Aimbot, ESP, Gun Mods", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Phantom%20Forces%20Aimbot%20ESP%20Gun%20Mods.lua")
