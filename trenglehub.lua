@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 18:08:25"
+lastupdate = "GMT +1: 08.03.2023 18:08:30"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -11208,3 +11208,5 @@ addscriptexist(6516141723, "DOORS: Jumpscares, Notification, Eneties Spawner", "
 addscriptexist(155615604, "Prison Life: Auto Respawn, Anti Taze & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Prison%20Life%20Auto%20Respawn%20Anti%20Taze%20%20More.lua")
 
 addscriptexist(9993529229, "Counter Blox: Remastered: Kill All", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Counter%20Blox%20Remastered%20Kill%20All.lua")
+
+addscriptexist(9848789324, "Ragdoll Engine: Anti Ragdoll, Anti Fling, Walkspeed", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ragdoll%20Engine%20Anti%20Ragdoll%20Anti%20Fling%20Walkspeed.lua")
