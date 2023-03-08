@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 18:26:25"
+lastupdate = "GMT +1: 08.03.2023 18:26:29"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -11648,3 +11648,5 @@ addscriptuniversal("Universal Internal UI", "pulled from rbxscript.com", "https:
 addscriptexist(10861112990, "Anime Artifacts Simulator 2: Inf weapon crate", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime%20Artifacts%20Simulator%20%20Inf%20weapon%20crate.lua")
 
 addscriptexist(2753915549, "Blox Fruits: Auto Stats, Auto Click, Auto Teleport to Chests", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blox%20Fruits%20Auto%20Stats%20Auto%20Click%20Auto%20Teleport%20to%20Chests.lua")
+
+addscriptexist(8554378337, "Weapon Fighting Simulator: Player ESP, Auto Grind Boss, Free Cam", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Weapon%20Fighting%20Simulator%20Player%20ESP%20Auto%20Grind%20Boss%20Free%20Cam.lua")
