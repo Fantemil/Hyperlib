@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 17:37:41"
+lastupdate = "GMT +1: 08.03.2023 17:37:45"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -10436,3 +10436,5 @@ addscriptexist(4188447592, "Cat Simulator: Auto Claw, Auto Sell, Auto Buy", "pul
 addscriptexist(2377868063, "Strucid: Silent AIm, No Recoil & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Strucid%20Silent%20AIm%20No%20Recoil%20%20More.lua")
 
 addscriptexist(6751580221, "Verdant Moon: ESP, Tracers, Anti Afk", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Verdant%20Moon%20ESP%20Tracers%20Anti%20Afk.lua")
+
+addscriptexist(3351674303, "Driving Empire: Candy Farm, Wlkspeed, BTools", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Driving%20Empire%20Candy%20Farm%20Wlkspeed%20BTools.lua")
