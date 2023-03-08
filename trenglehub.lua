@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 14:45:05"
+lastupdate = "GMT +1: 08.03.2023 14:45:09"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -7988,3 +7988,5 @@ addscriptexist(2753915549, "Blox Fruits: Auto Papers", "pulled from rbxscript.co
 addscriptuniversal("Universal FE Lagswitch", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20FE%20Lagswitch.lua")
 
 addscriptexist(286090429, "Arsenal: Aimbot, Hitbox, ESP", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Arsenal%20Aimbot%20Hitbox%20ESP.lua")
+
+addscriptexist(292439477, "Phantom Forces: Go to Ban Land, Hitboxes & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Phantom%20Forces%20Go%20to%20Ban%20Land%20Hitboxes%20%20More.lua")
