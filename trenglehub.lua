@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 17:07:45"
+lastupdate = "GMT +1: 08.03.2023 17:07:50"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -9670,3 +9670,5 @@ addscriptexist(4490140733, "My Restaurant: EXP Auto Farm, Walkspeed and Jumppowe
 addscriptexist(164051105, "Super Bomb Survival: Auto Staff", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Super%20Bomb%20Survival%20Auto%20Staff.lua")
 
 addscriptexist(155615604, "Prison Life: Inf Stamina, Hubs, Get Remington", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Prison%20Life%20Inf%20Stamina%20Hubs%20Get%20Remington.lua")
+
+addscriptexist(11227688003, "roblox but you get smarter every second: Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/roblox%20but%20you%20get%20smarter%20every%20second%20Auto%20Farm.lua")
