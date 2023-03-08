@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 13:00:11"
+lastupdate = "GMT +1: 08.03.2023 13:00:16"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -6930,3 +6930,5 @@ addscriptexist(2788229376, "Da Hood: Skydive, Fly, Tp", "pulled from rbxscript.c
 addscriptexist(10875701453, "Edward the Man-Eating Train: Auto Surv, Inf Ammo, Fast Interact", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Edward%20the%20ManEating%20Train%20Auto%20Surv%20Inf%20Ammo%20Fast%20Interact.lua")
 
 addscriptuniversal("Universal Sleitnick Service Assist", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Sleitnick%20Service%20Assist.lua")
+
+addscript(9129288160, "Current Game","Tommy Play: Infinity Jumps, Bring Snowman Head, Hitbox", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tommy%20Play%20Infinity%20Jumps%20Bring%20Snowman%20Head%20Hitbox.lua")
