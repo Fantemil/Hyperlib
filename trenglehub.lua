@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 19:32:47"
+lastupdate = "GMT +1: 08.03.2023 19:32:52"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -13040,3 +13040,5 @@ addscriptexist(292439477, "Phantom Forces: Semi Hitbox Extender Body", "pulled f
 addscriptexist(855499080, "SKYWARS: Server Lagger", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SKYWARS%20Server%20Lagger.lua")
 
 addscriptexist(5732973455, "HOURS: Unlock All", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/HOURS%20Unlock%20All.lua")
+
+addscriptexist(2753915549, "Blox Fruits: Auto Farm, AutoSuperhuman", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blox%20Fruits%20Auto%20Farm%20AutoSuperhuman.lua")
