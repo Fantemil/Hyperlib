@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 14:26:47"
+lastupdate = "GMT +1: 08.03.2023 14:26:51"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -7506,3 +7506,5 @@ addscriptexist(6516141723, "DOORS: Trolling Scripts", "pulled from rbxscript.com
 addscriptexist(6607361476, "Shopping Wars: Auto Complete RB Battles", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Shopping%20Wars%20Auto%20Complete%20RB%20Battles.lua")
 
 addscriptexist(7722306047, "Pet Simulator X: Auto Buy Eggs, Unlock Gamepasses, Open GUI's", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pet%20Simulator%20X%20Auto%20Buy%20Eggs%20Unlock%20Gamepasses%20Open%20GUIs.lua")
+
+addscriptexist(11495830780, "Dunking Race: Auto Crowns Farm, Auto Shoes Farm, Auto Eggs", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Dunking%20Race%20Auto%20Crowns%20Farm%20Auto%20Shoes%20Farm%20Auto%20Eggs.lua")
