@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 19:50:50"
+lastupdate = "GMT +1: 08.03.2023 19:50:54"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -13208,3 +13208,5 @@ addscriptexist(5796917097, "Road to Grambys | God Mode - Fly & More!", "pulled f
 addscriptexist(10675066724, "Slime Tower Tycoon | AutoBuy Slime, Auto Farm, Walkspeed", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Slime%20Tower%20Tycoon%20%20AutoBuy%20Slime%20Auto%20Farm%20Walkspeed.lua")
 
 addscriptexist(621129760, "Knife Ability Test | Walkspeed, Inf Yield, AutoThrow", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Knife%20Ability%20Test%20%20Walkspeed%20Inf%20Yield%20AutoThrow.lua")
+
+addscriptexist(8203181639, "Syrian Shenanigans | Inf Ammo", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Syrian%20Shenanigans%20%20Inf%20Ammo.lua")
