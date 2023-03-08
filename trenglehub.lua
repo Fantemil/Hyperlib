@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 17:47:17"
+lastupdate = "GMT +1: 08.03.2023 17:47:21"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -10678,3 +10678,5 @@ addscript(7105775253, "Current Game","YEET Legends: Auto Farm, Kill Aura, Fly", 
 addscriptexist(2727067538, "World // Zero: Auto Sell, Auto Farm Dungeon & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/World%20%20Zero%20Auto%20Sell%20Auto%20Farm%20Dungeon%20%20More.lua")
 
 addscriptexist(6125809531, "Untitled Attack On Titan: Infinity Blade, Infinity Gas, Anti Grab", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Untitled%20Attack%20On%20Titan%20Infinity%20Blade%20Infinity%20Gas%20Anti%20Grab.lua")
+
+addscriptexist(6516141723, "DOORS: Esp, PickUp Aura, Full Bright", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DOORS%20Esp%20PickUp%20Aura%20Full%20Bright.lua")
