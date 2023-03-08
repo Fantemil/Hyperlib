@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 20:22:44"
+lastupdate = "GMT +1: 08.03.2023 20:22:50"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -13778,3 +13778,5 @@ addscriptexist(9498006165, "Tapping Simulator | Auto Tap, Auto Rebirth, Better G
 addscriptuniversal("Roblox Universal Script | Hats, Animations", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Roblox%20Universal%20Script%20%20Hats%20Animations.lua")
 
 addscriptexist(6284583030, "Pet Simulator X | AutoFarm, AutoCollect", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pet%20Simulator%20X%20%20AutoFarm%20AutoCollect.lua")
+
+addscriptexist(920587237, "Adopt Me | GUI - Auto Farm, Fun Functions", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Adopt%20Me%20%20GUI%20%20Auto%20Farm%20Fun%20Functions.lua")
