@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 16:56:21"
+lastupdate = "GMT +1: 08.03.2023 16:56:26"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -9382,3 +9382,5 @@ addscript(10476933477, "Current Game","Strong Ninja Simulator: Auto Strength, Au
 addscriptexist(155615604, "Prison Life: Gun Mods, Get All Guns, Get Key", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Prison%20Life%20Gun%20Mods%20Get%20All%20Guns%20Get%20Key.lua")
 
 addhub("Viper Hub: 3 Games", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Viper%20Hub%20%20Games.lua")
+
+addscriptexist(3101667897, "Legends Of Speed: Auto Orbs, Auto Rebirths, Auto Buy", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Legends%20Of%20Speed%20Auto%20Orbs%20Auto%20Rebirths%20Auto%20Buy.lua")
