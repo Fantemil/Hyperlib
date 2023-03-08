@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 13:05:49"
+lastupdate = "GMT +1: 08.03.2023 13:05:54"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -7074,3 +7074,5 @@ addscriptexist(1458767429, "ABA: Fastest Afk Gold Farm", "pulled from rbxscript.
 addscriptexist(286090429, "Arsenal: Kill All, Silent Aim, Kill Aura", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Arsenal%20Kill%20All%20Silent%20Aim%20Kill%20Aura.lua")
 
 addscriptexist(920587237, "Adopt Me!: Crash - Useful For Duping Methods", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Adopt%20Me%20Crash%20%20Useful%20For%20Duping%20Methods.lua")
+
+addscriptexist(5712833750, "Animal Simulator: Auto Collect Coin", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Animal%20Simulator%20Auto%20Collect%20Coin.lua")
