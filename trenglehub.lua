@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 17:26:53"
+lastupdate = "GMT +1: 08.03.2023 17:26:58"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -10164,3 +10164,5 @@ addscriptexist(11238892040, "Type or Die: Search Bar", "pulled from rbxscript.co
 addscript(9802068147, "Current Game","Museum Tycoon: Auto Collect, Auto Farm. Auto Buy", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Museum%20Tycoon%20Auto%20Collect%20Auto%20Farm%20Auto%20Buy.lua")
 
 addscript(7169897329, "Current Game","Nanny: Infinity Screams, Any Character", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Nanny%20Infinity%20Screams%20Any%20Character.lua")
+
+addscriptexist(6516141723, "DOORS: Spawner Monsters", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DOORS%20Spawner%20Monsters.lua")
