@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/MoiDev211/Prison-Life-Teleport-speedhack-Jumphack-/main/Prison%20Life%20%5B%20Teleport%2C%20speedhack%2C%20Jumphack%20%5D%22))()
