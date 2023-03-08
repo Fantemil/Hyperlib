@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 18:34:11"
+lastupdate = "GMT +1: 08.03.2023 18:34:18"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -11800,3 +11800,5 @@ addscriptexist(2753915549, "Blox Fruits: Tween Teleporter", "pulled from rbxscri
 addscriptexist(5130598377, "A Universal Time: Auto Store, Farm Items & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/A%20Universal%20Time%20Auto%20Store%20Farm%20Items%20%20More.lua")
 
 addscript(6156548228, "Current Game","Vibe Place: Anti AFK", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Vibe%20Place%20Anti%20AFK.lua")
+
+addscriptexist(10912060909, "Black Adam Experience: Auto Claim UGC Items", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Black%20Adam%20Experience%20Auto%20Claim%20UGC%20Items.lua")
