@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 07:05:12"
+lastupdate = "GMT +1: 08.03.2023 07:05:15"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -5464,3 +5464,5 @@ addscriptexist(10723695195, "Anime Evolution Simulator: Auto Train Power, Auto C
 addscriptexist(537413528, "Build A Boat For Treasure: Remove Shadows, Water God Mode, Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Build%20A%20Boat%20For%20Treasure%20Remove%20Shadows%20Water%20God%20Mode%20Auto%20Farm.lua")
 
 addscriptuniversal("Universal Anti JJSploit", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Anti%20JJSploit.lua")
+
+addscriptuniversal("Universal Make Any Gun Semi Automatic", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Make%20Any%20Gun%20Semi%20Automatic.lua")
