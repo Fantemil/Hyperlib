@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Kyleeeeeeeeeeeeee/rcx/main/rebirth-champions-x"))()
