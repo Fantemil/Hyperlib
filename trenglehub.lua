@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 14:29:51"
+lastupdate = "GMT +1: 08.03.2023 14:29:54"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -7582,3 +7582,5 @@ addscriptexist(2753915549, "Blox Fruits: Auto Farm Mobs, Auto Fish Tails & More"
 addscriptexist(6191637341, "Weapon Simulator 2: Auto Farm Power", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Weapon%20Simulator%20%20Auto%20Farm%20Power.lua")
 
 addscript(338521019, "Current Game","Identity Fraud: Anticheat bypass, Remove Doors", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Identity%20Fraud%20Anticheat%20bypass%20Remove%20Doors.lua")
+
+addscriptexist(11302865934, "Every Second You Get +1 Health: Auto Win, Auto Regen Healt, Auto Rebirth", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Every%20Second%20You%20Get%20%20Health%20Auto%20Win%20Auto%20Regen%20Healt%20Auto%20Rebirth.lua")
