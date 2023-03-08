@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 20:53:10"
+lastupdate = "GMT +1: 08.03.2023 20:53:15"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -14550,3 +14550,5 @@ addscriptexist(2577040780, "Eviction Notice [ChallengeList, FreePlayer]", "pulle
 addscriptexist(10118559731, "Nico's Nextbots [Godmode]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Nicos%20Nextbots%20Godmode.lua")
 
 addscriptexist(7346416636, "Pop It Trading [AutoScam, Dupe]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pop%20It%20Trading%20AutoScam%20Dupe.lua")
+
+addscript(8818978508, "Current Game","Space Simulator Reborn [AutoClick, AutoHatch]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Space%20Simulator%20Reborn%20AutoClick%20AutoHatch.lua")
