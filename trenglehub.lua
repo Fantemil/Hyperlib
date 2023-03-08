@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 06:45:45"
+lastupdate = "GMT +1: 08.03.2023 06:45:49"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -4870,3 +4870,5 @@ addscriptexist(4282985734, "Combat Warriors: Kill Aura, Auto Parry, Infinity Jum
 addscript(6751371363, "Current Game","Hood Duels: Silent Aim, Open Source", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Hood%20Duels%20Silent%20Aim%20Open%20Source.lua")
 
 addscriptexist(11939339894, "Be A Dad And Get Milk Simulator: Get All Badges, Collect All Money", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Be%20A%20Dad%20And%20Get%20Milk%20Simulator%20Get%20All%20Badges%20Collect%20All%20Money.lua")
+
+addscript(2693023319, "Current Game","Expedition Antarctica: Godmode, Infinity Money, VIP", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Expedition%20Antarctica%20Godmode%20Infinity%20Money%20VIP.lua")
