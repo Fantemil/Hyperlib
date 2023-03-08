@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 19:15:17"
+lastupdate = "GMT +1: 08.03.2023 19:15:22"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -12654,3 +12654,5 @@ addscript(850917308, "Current Game","Star Wars: Lightsaber Battles II - Teleport
 addscriptexist(2693023319, "Expedition Antarctica: Win, Infinite Money, Enter Standard Plane", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Expedition%20Antarctica%20Win%20Infinite%20Money%20Enter%20Standard%20Plane.lua")
 
 addscriptexist(9648883891, "Festival Tycoon: Inf Money", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Festival%20Tycoon%20Inf%20Money.lua")
+
+addscriptexist(2248408710, "Destruction Simulator: Money Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Destruction%20Simulator%20Money%20Farm.lua")
