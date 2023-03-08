@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 06:54:39"
+lastupdate = "GMT +1: 08.03.2023 06:54:44"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -5144,3 +5144,5 @@ addscript(9585800888, "Current Game","Plane crash physics: Infinity Cash, Free M
 addscriptexist(11676335670, "Hunter X Athena: AutoPushup", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Hunter%20X%20Athena%20AutoPushup.lua")
 
 addscriptexist(2753915549, "Blox Fruits: Auto Farm Levels, Auto Chests & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blox%20Fruits%20Auto%20Farm%20Levels%20Auto%20Chests%20%20More.lua")
+
+addscript(5715080538, "Current Game","Red vs Blue Gun Battle: Press E to Kill All", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Red%20vs%20Blue%20Gun%20Battle%20Press%20E%20to%20Kill%20All.lua")
