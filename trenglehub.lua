@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 17:44:30"
+lastupdate = "GMT +1: 08.03.2023 17:44:34"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -10610,3 +10610,5 @@ addscriptexist(4872321990, "Islands: Harvest and Plant Wheat, Mine Ores & More",
 addscriptexist(8084034728, "Roblox but every second you become stronger: X2 Speed", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Roblox%20but%20every%20second%20you%20become%20stronger%20X%20Speed.lua")
 
 addscript(6897226634, "Current Game","Timber: Auto Sell, Auto Upgrade & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Timber%20Auto%20Sell%20Auto%20Upgrade%20%20More.lua")
+
+addscript(6129557066, "Current Game","UFO Tycoon: Auto Ring, Auto Collect Cash, Auto Build", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/UFO%20Tycoon%20Auto%20Ring%20Auto%20Collect%20Cash%20Auto%20Build.lua")
