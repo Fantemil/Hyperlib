@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 18:36:37"
+lastupdate = "GMT +1: 08.03.2023 18:36:43"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -11852,3 +11852,5 @@ addscriptexist(9912491609, "How Far Can You Fly: Coin Farm & Auto Farm", "pulled
 addscript(1645083423, "Current Game","ALL OUT ZOMBIES: Zombie Pandemic: Auto Kill All Zombies", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ALL%20OUT%20ZOMBIES%20Zombie%20Pandemic%20Auto%20Kill%20All%20Zombies.lua")
 
 addscriptexist(8726743209, "Refinery Caves: Automatic Purple Tree Funder", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Refinery%20Caves%20Automatic%20Purple%20Tree%20Funder.lua")
+
+addscriptexist(263761432, "Horrific Housing: Infinity Money, Auto Farm, Teleports", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Horrific%20Housing%20Infinity%20Money%20Auto%20Farm%20Teleports.lua")
