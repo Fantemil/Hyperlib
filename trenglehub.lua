@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 19:08:13"
+lastupdate = "GMT +1: 08.03.2023 19:08:17"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -12506,3 +12506,5 @@ addscriptexist(2413927524, "The Rake REMASTERED: Full Bright, Inf Stamina, ESP",
 addscriptexist(3964975083, "Build to survive: Teleport To, BTools, Clear Bases", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Build%20to%20survive%20Teleport%20To%20BTools%20Clear%20Bases.lua")
 
 addscriptexist(10631181587, "Stone Miner Simulator 2: Auto Sell, Auto Hatch, Auto Upgrade", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Stone%20Miner%20Simulator%20%20Auto%20Sell%20Auto%20Hatch%20Auto%20Upgrade.lua")
+
+addscriptexist(7180042682, "Military Tycoon: Auto Complete Event", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Military%20Tycoon%20Auto%20Complete%20Event.lua")
