@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 12:24:14"
+lastupdate = "GMT +1: 08.03.2023 12:24:18"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -5976,3 +5976,5 @@ addscriptexist(537413528, "Build A Boat For Treasure: Water Speed Changer", "pul
 addscriptexist(6284583030, "Pet Simulator X: Auto Convert, Auto Open Eggs, Auto Farm Coins", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pet%20Simulator%20X%20Auto%20Convert%20Auto%20Open%20Eggs%20Auto%20Farm%20Coins.lua")
 
 addscriptexist(8884334497, "Mining Clicker Simulator: Auto Rebirth, Auto Click Boss, Auto Click", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mining%20Clicker%20Simulator%20Auto%20Rebirth%20Auto%20Click%20Boss%20Auto%20Click.lua")
+
+addscriptexist(286090429, "Arsenal: ESP, RGB Gun, Rapid Fire", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Arsenal%20ESP%20RGB%20Gun%20Rapid%20Fire.lua")
