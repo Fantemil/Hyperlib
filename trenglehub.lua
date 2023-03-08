@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 19:11:47"
+lastupdate = "GMT +1: 08.03.2023 19:11:51"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -12584,3 +12584,5 @@ addscriptexist(9992339729, "Longest Answer Wins: Answer Question, Auto Win & Mor
 addscriptexist(9414511685, "Drive Cars Down A Hill: OP Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Drive%20Cars%20Down%20A%20Hill%20OP%20Auto%20Farm.lua")
 
 addscriptexist(10447678365, "Dinosaur Simulator: Buy All Dinosaurs", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Dinosaur%20Simulator%20Buy%20All%20Dinosaurs.lua")
+
+addscriptexist(662417684, "LUCKY BLOCKS Battlegrounds: Spawn Block, Inf Jump, Fly", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LUCKY%20BLOCKS%20Battlegrounds%20Spawn%20Block%20Inf%20Jump%20Fly.lua")
