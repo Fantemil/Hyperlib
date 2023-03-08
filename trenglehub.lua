@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 17:11:02"
+lastupdate = "GMT +1: 08.03.2023 17:11:06"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -9756,3 +9756,5 @@ addscriptexist(6764533218, "Washiez: Admin Detector", "pulled from rbxscript.com
 addscript(3056526277, "Current Game","Build and Survive: Auto Heal, Auto Collect All Coins, Auto Collect Star", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Build%20and%20Survive%20Auto%20Heal%20Auto%20Collect%20All%20Coins%20Auto%20Collect%20Star.lua")
 
 addscriptexist(6872265039, "BedWars: Endless round", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BedWars%20Endless%20round.lua")
+
+addscriptexist(166986752, "Plane Crazy: Infinity Terrain Generation, Kill TNT", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Plane%20Crazy%20Infinity%20Terrain%20Generation%20Kill%20TNT.lua")
