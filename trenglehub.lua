@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 18:54:10"
+lastupdate = "GMT +1: 08.03.2023 18:54:16"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -12200,3 +12200,5 @@ addscriptexist(10181361874, "Death Academy Online: Kill Aura, Inf Stats, Crash C
 addscriptexist(3214114884, "Flag Wars: Aim Bot", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Flag%20Wars%20Aim%20Bot.lua")
 
 addscriptexist(10243982775, "RedBox: Anti Arrest, Auto Arrest, Bomb All", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RedBox%20Anti%20Arrest%20Auto%20Arrest%20Bomb%20All.lua")
+
+addscript(6939849554, "Current Game","Cart Ride Tycoon thru a Cave 2: Coin Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Cart%20Ride%20Tycoon%20thru%20a%20Cave%20%20Coin%20Farm.lua")
