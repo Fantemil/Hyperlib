@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 06:53:02"
+lastupdate = "GMT +1: 08.03.2023 06:53:06"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -5094,3 +5094,5 @@ addscriptexist(6679968919, "Fly Race: Auto Collect Orb, Auto Rebirth, Auto Farm"
 addscriptexist(2753915549, "Blox Fruits: AntiBlur", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blox%20Fruits%20AntiBlur.lua")
 
 addscriptexist(3527629287, "Big Paintball: Click TP, Walkspeed, Jump Power", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Big%20Paintball%20Click%20TP%20Walkspeed%20Jump%20Power.lua")
+
+addscriptexist(3226555017, "SCP: Site Roleplay | Hitbox Expander", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SCP%20Site%20Roleplay%20%20Hitbox%20Expander.lua")
