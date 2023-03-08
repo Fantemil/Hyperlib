@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 15:02:44"
+lastupdate = "GMT +1: 08.03.2023 15:02:50"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -8460,3 +8460,5 @@ addscript(3057050847, "Current Game","Site-76 Prison Anomalies: Check For Staff,
 addscriptexist(4591043103, "Marble Rider Star Quest: Auto Click Star", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Marble%20Rider%20Star%20Quest%20Auto%20Click%20Star.lua")
 
 addscript(10205046075, "Current Game","Onslaught Public Dev Server: Kill Aura, Claim Loan, Infinite stamina", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Onslaught%20Public%20Dev%20Server%20Kill%20Aura%20Claim%20Loan%20Infinite%20stamina.lua")
+
+addscriptexist(920587237, "Adopt Me: Mega Neon Pets", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Adopt%20Me%20Mega%20Neon%20Pets.lua")
