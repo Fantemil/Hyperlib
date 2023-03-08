@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/2567-rblx/EventBypass/main/games/Chipotle%20Burrito%20Builder.lua",true))()
