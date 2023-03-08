@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 06:59:20"
+lastupdate = "GMT +1: 08.03.2023 06:59:24"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -5288,3 +5288,5 @@ addscriptexist(855499080, "SKYWARS: Auto Farm Wins, Anti Void & More", "pulled f
 addscript(318978013, "Current Game","Kick Off: Goal, Fly, Ball Troll", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Kick%20Off%20Goal%20Fly%20Ball%20Troll.lua")
 
 addscriptuniversal("Universal webhook spammer, remover", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20webhook%20spammer%20remover.lua")
+
+addscriptexist(286090429, "Arsenal: Universal Torso Hitboxes", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Arsenal%20Universal%20Torso%20Hitboxes.lua")
