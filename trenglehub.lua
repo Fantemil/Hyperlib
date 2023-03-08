@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 06:46:05"
+lastupdate = "GMT +1: 08.03.2023 06:46:09"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -4880,3 +4880,5 @@ addscriptexist(1224212277, "Mad City: Crates ESP", "pulled from rbxscript.com", 
 addscript(7070810903, "Current Game","crying simulator: Auto Cry, Auto Drink", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/crying%20simulator%20Auto%20Cry%20Auto%20Drink.lua")
 
 addscriptexist(2753915549, "Blox Fruits: Money Auto Farm, Auto FInd Fruit & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blox%20Fruits%20Money%20Auto%20Farm%20Auto%20FInd%20Fruit%20%20More.lua")
+
+addscriptexist(10821317529, "Pickaxe Mining Simulator: Auto Mine, Auto Click & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pickaxe%20Mining%20Simulator%20Auto%20Mine%20Auto%20Click%20%20More.lua")
