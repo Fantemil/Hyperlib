@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/incSynoid/Energy/main/Script/Loader.lua"))()
