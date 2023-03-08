@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 17:58:47"
+lastupdate = "GMT +1: 08.03.2023 17:58:51"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -10968,3 +10968,5 @@ addscriptexist(8884334497, "Mining Clicker Simulator: Auto Click, Auto Rebirth, 
 addscriptexist(5490351219, "Clicker Madness: Kill Boss, Auto Clicker, God Auto Clicker", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Clicker%20Madness%20Kill%20Boss%20Auto%20Clicker%20God%20Auto%20Clicker.lua")
 
 addscript(10982620122, "Current Game","Undertale: Last Corridor Remaster | Win Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Undertale%20Last%20Corridor%20Remaster%20%20Win%20Farm.lua")
+
+addscriptexist(8304191830, "Anime Adventures: Sell All, Auto Place&Upgrade, No maessages", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime%20Adventures%20Sell%20All%20Auto%20PlaceUpgrade%20No%20maessages.lua")
