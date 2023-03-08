@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 17:16:34"
+lastupdate = "GMT +1: 08.03.2023 17:16:38"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -9900,3 +9900,5 @@ addscript(7470169863, "Current Game","Elton John Presents: Roblox Event, Auto Co
 addscript(10512771459, "Current Game","Fighting Academy: Auto Bench Press", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Fighting%20Academy%20Auto%20Bench%20Press.lua")
 
 addscript(11344499264, "Current Game","How Far Can You Ragdoll: Ultimate: Infinite Gems", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/How%20Far%20Can%20You%20Ragdoll%20Ultimate%20Infinite%20Gems.lua")
+
+addscriptexist(7047488135, "Speed Run Simulator: Orbs, Rings Collector", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Speed%20Run%20Simulator%20Orbs%20Rings%20Collector.lua")
