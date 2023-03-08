@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 06:51:09"
+lastupdate = "GMT +1: 08.03.2023 06:51:17"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -5038,3 +5038,5 @@ addscriptexist(7791873535, "REALISTIC HOOD: Autofarm", "pulled from rbxscript.co
 addscriptexist(286090429, "Arsenal: AimLock, Esp, Chams", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Arsenal%20AimLock%20Esp%20Chams.lua")
 
 addscriptexist(11196588443, "Zombie Merge Tycoon: Sample Multiplier V2", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Zombie%20Merge%20Tycoon%20Sample%20Multiplier%20V.lua")
+
+addscriptexist(10898965735, "Mine Racer: Auto Eggs, Auto Mine, Auto Join", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mine%20Racer%20Auto%20Eggs%20Auto%20Mine%20Auto%20Join.lua")
