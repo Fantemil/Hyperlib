@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 19:26:49"
+lastupdate = "GMT +1: 08.03.2023 19:26:56"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -12906,3 +12906,5 @@ addscriptexist(2753915549, "Blox Fruits: Auto Farms, Chests Farm, Esp & More!", 
 addscriptexist(4282985734, "Combat Warriors: Legit Anti Cheat & Auto Parry", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Combat%20Warriors%20Legit%20Anti%20Cheat%20%20Auto%20Parry.lua")
 
 addscriptexist(9285238704, "Race Clicker: Auto Win, Auto Farm, Teleports", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Race%20Clicker%20Auto%20Win%20Auto%20Farm%20Teleports.lua")
+
+addscriptexist(537413528, "Build A Boat For Treasure: Autofarm Chest, Walkspeed, Teleports", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Build%20A%20Boat%20For%20Treasure%20Autofarm%20Chest%20Walkspeed%20Teleports.lua")
