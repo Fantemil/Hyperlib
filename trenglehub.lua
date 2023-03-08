@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 20:33:55"
+lastupdate = "GMT +1: 08.03.2023 20:33:59"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -14068,3 +14068,5 @@ addscriptexist(8884334497, "Mining Clicker Simulator [Auto Mine, Auto Biy Egg, A
 addscriptexist(8458333139, "1 LIFE [Kill, Tp everyone]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/%20LIFE%20Kill%20Tp%20everyone.lua")
 
 addscriptexist(10207722290, "Lifting Legends Simulator [Auto Farm, Sell, Buy]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Lifting%20Legends%20Simulator%20Auto%20Farm%20Sell%20Buy.lua")
+
+addscriptexist(10676523834, "Racing Rocket [Upgrade Rocket]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Racing%20Rocket%20Upgrade%20Rocket.lua")
