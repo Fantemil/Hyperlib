@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 07:14:25"
+lastupdate = "GMT +1: 08.03.2023 07:14:28"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -5746,3 +5746,5 @@ addscriptexist(8962384769, "Firework Simulator: Auto Farm, Kill Aura, Collect Dr
 addscriptexist(286090429, "Arsenal: Fly, Speed, Aimbot", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Arsenal%20Fly%20Speed%20Aimbot.lua")
 
 addscriptexist(662417684, "LUCKY BLOCKS Battlegrounds: Get any Block, Hitbox Expander, Local Player", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LUCKY%20BLOCKS%20Battlegrounds%20Get%20any%20Block%20Hitbox%20Expander%20Local%20Player.lua")
+
+addscriptexist(3214114884, "Flag Wars: Hitbox Expander, ESP, Chams", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Flag%20Wars%20Hitbox%20Expander%20ESP%20Chams.lua")
