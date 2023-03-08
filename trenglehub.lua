@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 17:57:19"
+lastupdate = "GMT +1: 08.03.2023 17:57:23"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -10930,3 +10930,5 @@ addscriptexist(537413528, "Build A Boat For Treasure: Auto Farm, Auto Buy Chests
 addscriptexist(4616652839, "Shindo Life: Infinite Spins + Max Rank", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Shindo%20Life%20Infinite%20Spins%20%20Max%20Rank.lua")
 
 addscriptexist(8908228901, "SharkBite 2:Auto Far, WalkSPeed, Tp", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SharkBite%20Auto%20Far%20WalkSPeed%20Tp.lua")
+
+addscriptexist(6794368433, "Be a Spider Tycoon: Auto Build, Redeem All Codes, Sell Button", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Be%20a%20Spider%20Tycoon%20Auto%20Build%20Redeem%20All%20Codes%20Sell%20Button.lua")
