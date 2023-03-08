@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 12:55:09"
+lastupdate = "GMT +1: 08.03.2023 12:55:12"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -6802,3 +6802,5 @@ addscript(8621928057, "Current Game","Find The Pou: Teleports, Walkspeed Slider,
 addscriptexist(2551991523, "Broken Bones IV: Money Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Broken%20Bones%20IV%20Money%20Auto%20Farm.lua")
 
 addscriptexist(2788229376, "Da Hood: Press V to lock Aim", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Da%20Hood%20Press%20V%20to%20lock%20Aim.lua")
+
+addscriptuniversal("Universal back door scanner", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20back%20door%20scanner.lua")
