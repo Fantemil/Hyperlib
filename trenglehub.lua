@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 14:49:23"
+lastupdate = "GMT +1: 08.03.2023 14:49:27"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -8108,3 +8108,5 @@ addscriptexist(10925589760, "Merge Simulator: Simple Auto Merge", "pulled from r
 addscriptexist(6284583030, "Pet Simulator X: Auto Farm, Auto Collect Orbs, Auto Open Eggs", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pet%20Simulator%20X%20Auto%20Farm%20Auto%20Collect%20Orbs%20Auto%20Open%20Eggs.lua")
 
 addscriptexist(7525610732, "Kaizen: Auto Log Quests", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Kaizen%20Auto%20Log%20Quests.lua")
+
+addscriptexist(3956818381, "Ninja Legends: Auto Upd Swords, Auto Farm, Auto Collect", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ninja%20Legends%20Auto%20Upd%20Swords%20Auto%20Farm%20Auto%20Collect.lua")
