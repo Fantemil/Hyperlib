@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 12:44:21"
+lastupdate = "GMT +1: 08.03.2023 12:44:26"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -6530,3 +6530,5 @@ addscriptexist(11495830780, "Dunking Race: Auto Durk, Collect Boost, Equip Best 
 addscriptexist(8283207656, "EASY Glass Bridge: Auto Win", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/EASY%20Glass%20Bridge%20Auto%20Win.lua")
 
 addscriptexist(8283207656, "EASY Glass Bridge: Glass ESP", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/EASY%20Glass%20Bridge%20Glass%20ESP.lua")
+
+addscriptexist(9798463281, "Cube Combination: Infinite reach, basically Click TP", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Cube%20Combination%20Infinite%20reach%20basically%20Click%20TP.lua")
