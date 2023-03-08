@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 12:58:31"
+lastupdate = "GMT +1: 08.03.2023 12:58:36"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -6888,3 +6888,5 @@ addscriptexist(9224601490, "Fruit Battlegrounds: Infinity Spins, Rollback", "pul
 addscriptexist(10903978962, "Sheep Tycoon: Auto Teleport to Money", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sheep%20Tycoon%20Auto%20Teleport%20to%20Money.lua")
 
 addscriptexist(8540346411, "Rebirth Champions X: Auto Collect All Presents", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Rebirth%20Champions%20X%20Auto%20Collect%20All%20Presents.lua")
+
+addscriptexist(9143982021, "Sword Battles: Get Galaxy Sword", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sword%20Battles%20Get%20Galaxy%20Sword.lua")
