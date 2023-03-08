@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 12:33:44"
+lastupdate = "GMT +1: 08.03.2023 12:33:48"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -6230,3 +6230,5 @@ addscriptexist(3233893879, "Bad Business: Hitbox Expander", "pulled from rbxscri
 addscriptexist(621129760, "Knife Ability Test: Silent Aim, ESP, Full Bright", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Knife%20Ability%20Test%20Silent%20Aim%20ESP%20Full%20Bright.lua")
 
 addscriptexist(621129760, "Knife Ability Test: Owl Hub, Voidz, Dark Hub", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Knife%20Ability%20Test%20Owl%20Hub%20Voidz%20Dark%20Hub.lua")
+
+addscript(10006547495, "Current Game","Haunted Town: Auto Hit, Auto Heal, Infinity Damage", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Haunted%20Town%20Auto%20Hit%20Auto%20Heal%20Infinity%20Damage.lua")
