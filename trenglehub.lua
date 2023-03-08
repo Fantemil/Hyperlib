@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 12:23:48"
+lastupdate = "GMT +1: 08.03.2023 12:23:52"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -5964,3 +5964,5 @@ addscriptuniversal("Universal Vehicle Fly", "pulled from rbxscript.com", "https:
 addscriptexist(1224212277, "Mad City: Chapter 2: Crates Teleport", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mad%20City%20Chapter%20%20Crates%20Teleport.lua")
 
 addscriptexist(1458767429, "ABA: Webhook, Server Hop, Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ABA%20Webhook%20Server%20Hop%20Auto%20Farm.lua")
+
+addscriptexist(11606818992, "STEEP STEPS: Get Back Your Ladder", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/STEEP%20STEPS%20Get%20Back%20Your%20Ladder.lua")
