@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 12:45:53"
+lastupdate = "GMT +1: 08.03.2023 12:45:57"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -6572,3 +6572,5 @@ addscriptexist(8204899140, "Football Fusion 2: Throw Visualizer", "pulled from r
 addscriptuniversal("Universal Fake Lag", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Fake%20Lag.lua")
 
 addscriptexist(7239319209, "Ohio: Kill Aura, Stomp Aura, Teleport To Vault", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ohio%20Kill%20Aura%20Stomp%20Aura%20Teleport%20To%20Vault.lua")
+
+addscriptexist(2248408710, "Destruction Simulator: Auto Sell, Walkspeed, Options", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Destruction%20Simulator%20Auto%20Sell%20Walkspeed%20Options.lua")
