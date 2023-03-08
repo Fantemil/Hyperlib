@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 12:52:26"
+lastupdate = "GMT +1: 08.03.2023 12:52:30"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -6730,3 +6730,5 @@ addscriptexist(286090429, "Arsenal: Aimbot, Silent Aim, FOV", "pulled from rbxsc
 addscriptexist(2788229376, "Da Hood: Infinity Zoom, Fly & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Da%20Hood%20Infinity%20Zoom%20Fly%20%20More.lua")
 
 addscriptexist(2753915549, "making scam calls to save your best friend tycoon: Infinity Double Money, Auto Farm, Upgrades", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/making%20scam%20calls%20to%20save%20your%20best%20friend%20tycoon%20Infinity%20Double%20Money%20Auto%20Farm%20Upgrades.lua")
+
+addscriptuniversal("Universal UK current time", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20UK%20current%20time.lua")
