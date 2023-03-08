@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 17:07:20"
+lastupdate = "GMT +1: 08.03.2023 17:07:24"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -9658,3 +9658,5 @@ addscriptuniversal("Universal Aimbot & ESP", "pulled from rbxscript.com", "https
 addscriptexist(10347946161, "Rat Washing Tycoon: Auto Sell, Auto Collect, Auto Buy", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Rat%20Washing%20Tycoon%20Auto%20Sell%20Auto%20Collect%20Auto%20Buy.lua")
 
 addscript(8704181738, "Current Game","Tien Tien Peice: Hitbox, Auto Gacha, Auto Skills", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tien%20Tien%20Peice%20Hitbox%20Auto%20Gacha%20Auto%20Skills.lua")
+
+addscriptuniversal("Universal BSOD", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20BSOD.lua")
