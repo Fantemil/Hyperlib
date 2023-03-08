@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 19:22:11"
+lastupdate = "GMT +1: 08.03.2023 19:22:22"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -12810,3 +12810,5 @@ addscriptexist(7140186081, "GunGame: Forcefield, Waterwalker", "pulled from rbxs
 addscriptexist(9992339729, "Longest Answer Wins: Auto Answer, Walkspeed", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Longest%20Answer%20Wins%20Auto%20Answer%20Walkspeed.lua")
 
 addscriptexist(5956785391, "Project Slayers: Unparty All", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Project%20Slayers%20Unparty%20All.lua")
+
+addscriptuniversal("Universal Walkspeed Spoofer", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Walkspeed%20Spoofer.lua")
