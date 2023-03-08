@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 12:29:27"
+lastupdate = "GMT +1: 08.03.2023 12:29:32"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -6114,3 +6114,5 @@ addscriptexist(537413528, "Build A Boat For Treasure: Teleports, Crash Server, A
 addscript(10053187005, "Current Game","Counter Blox: Reimagined: Inventory Changer", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Counter%20Blox%20Reimagined%20Inventory%20Changer.lua")
 
 addscriptexist(142823291, "Murder Mystery 2: Auto Farm, Kill Aura & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Murder%20Mystery%20%20Auto%20Farm%20Kill%20Aura%20%20More.lua")
+
+addhub("Universal VHub", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20VHub.lua")
