@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 07:16:24"
+lastupdate = "GMT +1: 08.03.2023 07:16:27"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -5806,3 +5806,5 @@ addscriptexist(10675066724, "Slime Tower Tycoon: Merge, Auto Collect, Deposit Dr
 addscriptexist(3260590327, "Tower Defense Simulator: Best Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tower%20Defense%20Simulator%20Best%20Auto%20Farm.lua")
 
 addscriptexist(2753915549, "Blox Fruit: Auto Farm, Item Farm, Fruit Sniper", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blox%20Fruit%20Auto%20Farm%20Item%20Farm%20Fruit%20Sniper.lua")
+
+addscriptexist(2809202155, "Your Bizarre Adventure: NPC & Item Auto Farm, Auto Quest, ESP", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Your%20Bizarre%20Adventure%20NPC%20%20Item%20Auto%20Farm%20Auto%20Quest%20ESP.lua")
