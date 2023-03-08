@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 06:59:10"
+lastupdate = "GMT +1: 08.03.2023 06:59:13"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -5282,3 +5282,5 @@ addscriptexist(11656036986, "make roblox games to become rich and famous: X2 Cra
 addscriptexist(2609668898, "Custom Duels: Classic | Auto Swing, Walkspeed, Hitboxes", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Custom%20Duels%20Classic%20%20Auto%20Swing%20Walkspeed%20Hitboxes.lua")
 
 addscriptuniversal("Universal Infinity Jumps, Gravity & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Infinity%20Jumps%20Gravity%20%20More.lua")
+
+addscriptexist(855499080, "SKYWARS: Auto Farm Wins, Anti Void & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SKYWARS%20Auto%20Farm%20Wins%20Anti%20Void%20%20More.lua")
