@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 06:47:11"
+lastupdate = "GMT +1: 08.03.2023 06:47:15"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -4914,3 +4914,5 @@ addscriptexist(2788229376, "Da Hood: Aimlock, Flying, ESP", "pulled from rbxscri
 addscriptexist(6516141723, "DOORS: Esp, Auto Escape, Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DOORS%20Esp%20Auto%20Escape%20Auto%20Farm.lua")
 
 addscriptexist(4588604953, "Criminality: Silent AIm, Kill Aura, Gun Mods", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Criminality%20Silent%20AIm%20Kill%20Aura%20Gun%20Mods.lua")
+
+addscript(11206345614, "Current Game","Every Second You Get Richer: Auto Clicker", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Every%20Second%20You%20Get%20Richer%20Auto%20Clicker.lua")
