@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 18:03:29"
+lastupdate = "GMT +1: 08.03.2023 18:03:33"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -11084,3 +11084,5 @@ addscript(111311599, "Current Game","CRITICAL STRIKE: Admin Commands", "pulled f
 addscriptexist(8540346411, "Rebirth Champions X: Pumpkins Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Rebirth%20Champions%20X%20Pumpkins%20Auto%20Farm.lua")
 
 addscript(6290184304, "Current Game","My Pet Shop: Money Giver", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/My%20Pet%20Shop%20Money%20Giver.lua")
+
+addscriptexist(2534724415, "Emergency Response: Liberty County: Full AntiCheat bypass, Rank Unlock, Gun Mods", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Emergency%20Response%20Liberty%20County%20Full%20AntiCheat%20bypass%20Rank%20Unlock%20Gun%20Mods.lua")
