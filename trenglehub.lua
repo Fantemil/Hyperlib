@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 06:36:42"
+lastupdate = "GMT +1: 08.03.2023 06:36:47"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -4600,3 +4600,5 @@ addscriptexist(11156779721, "The Survival Game: Kill Aura, Teleports & More", "p
 addscriptuniversal("Universal Assault gun", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Assault%20gun.lua")
 
 addscriptexist(292439477, "Phantom Forces: Aimbot, ESP", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Phantom%20Forces%20Aimbot%20ESP.lua")
+
+addscriptexist(185655149, "Welcome to Bloxburg: Pizza Delievery Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Welcome%20to%20Bloxburg%20Pizza%20Delievery%20Auto%20Farm.lua")
