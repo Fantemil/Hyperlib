@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 18:29:54"
+lastupdate = "GMT +1: 08.03.2023 18:29:59"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -11734,3 +11734,5 @@ addscriptexist(155615604, "Prison Life: Teleports, FOV, Kill Aura", "pulled from
 addscriptexist(3587619225, "Mega Easy Obby: Check Point Farm, Unlock Gamepass, Player Mods", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mega%20Easy%20Obby%20Check%20Point%20Farm%20Unlock%20Gamepass%20Player%20Mods.lua")
 
 addscriptexist(69184822, "Theme Park Tycoon 2: Teleport Menu, Clean Park, Edit Name Park", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Theme%20Park%20Tycoon%20%20Teleport%20Menu%20Clean%20Park%20Edit%20Name%20Park.lua")
+
+addscriptexist(9506026642, "Reaper Clicker: Teleport To Last Island", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Reaper%20Clicker%20Teleport%20To%20Last%20Island.lua")
