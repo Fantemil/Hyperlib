@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 17:54:41"
+lastupdate = "GMT +1: 08.03.2023 17:54:45"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -10862,3 +10862,5 @@ addscriptexist(10675066724, "Slime Tower Tycoon: Auto Rate, Auto Obby & More", "
 addscriptexist(6336491204, "Karate: Auto Block", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Karate%20Auto%20Block.lua")
 
 addscript(8254077515, "Current Game","Royalty Kingdom 2: Autofarm ghost plants", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Royalty%20Kingdom%20%20Autofarm%20ghost%20plants.lua")
+
+addscriptexist(10775789257, "Construction Tycoon: Auto Rob, Walkspeed, Jump Power", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Construction%20Tycoon%20Auto%20Rob%20Walkspeed%20Jump%20Power.lua")
