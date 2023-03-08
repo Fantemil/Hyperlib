@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 20:29:00"
+lastupdate = "GMT +1: 08.03.2023 20:29:05"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -13944,3 +13944,5 @@ addscriptexist(5076734934, "Rooms [Hunting status check]", "pulled from rbxscrip
 addscriptexist(9872472334, "Evade [AntiKick, AntiLag]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Evade%20AntiKick%20AntiLag.lua")
 
 addscriptexist(2788229376, "Da Hood [AutoFarm, Noclip]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Da%20Hood%20AutoFarm%20Noclip.lua")
+
+addscriptexist(9585537847, "SHADOVIS RPG [Godmode]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SHADOVIS%20RPG%20Godmode.lua")
