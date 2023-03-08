@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 20:36:44"
+lastupdate = "GMT +1: 08.03.2023 20:36:48"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -14144,3 +14144,5 @@ addscript(6609611538, "Current Game","Mechanica [Lag Server]", "pulled from rbxs
 addscriptexist(286090429, "Arsenal [Kill Aura, AimBot, Team Check]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Arsenal%20Kill%20Aura%20AimBot%20Team%20Check.lua")
 
 addscriptexist(10053187005, "Counter Blox: Reimagined [Kill All, Aimbot, Esp]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Counter%20Blox%20Reimagined%20Kill%20All%20Aimbot%20Esp.lua")
+
+addscript(2124720684, "Current Game","Dragon Ball: Xeno Multiverse [Kill Aura, Auto Farm, WalkSpeed]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Dragon%20Ball%20Xeno%20Multiverse%20Kill%20Aura%20Auto%20Farm%20WalkSpeed.lua")
