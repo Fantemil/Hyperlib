@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 12:43:27"
+lastupdate = "GMT +1: 08.03.2023 12:43:32"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -6504,3 +6504,5 @@ addscript(11242465380, "Current Game","Find The DOORS Morphs: Anchor when you te
 addscriptuniversal("Universal Radar", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Radar.lua")
 
 addscriptexist(8260276694, "Ability Wars: Godmode, Auto Farm, Kill Aura", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ability%20Wars%20Godmode%20Auto%20Farm%20Kill%20Aura.lua")
+
+addscript(740581508, "Current Game","Entry Point: Gun Mods", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Entry%20Point%20Gun%20Mods.lua")
