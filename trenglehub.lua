@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 14:44:15"
+lastupdate = "GMT +1: 08.03.2023 14:44:19"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -7966,3 +7966,5 @@ addscript(6808589067, "Current Game","Shindens: Gui Very Overpowered", "pulled f
 addscriptexist(9744954014, "Tha Hood: Inf Money & More!", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tha%20Hood%20Inf%20Money%20%20More.lua")
 
 addscriptexist(8204899140, "Football Fusion 2: Legit Maps, Auto Captain, Game Stats Changer", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Football%20Fusion%20%20Legit%20Maps%20Auto%20Captain%20Game%20Stats%20Changer.lua")
+
+addscriptexist(6741970382, "Zombie lab: Teleports, Instant Give Cure, Instant Give Virus", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Zombie%20lab%20Teleports%20Instant%20Give%20Cure%20Instant%20Give%20Virus.lua")
