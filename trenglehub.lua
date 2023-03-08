@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 17:57:02"
+lastupdate = "GMT +1: 08.03.2023 17:57:06"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -10922,3 +10922,5 @@ addscriptexist(2628115891, "Ant Life [Beta Testing]: Auto kill Ant enemie, Auto 
 addscriptexist(11227688003, "roblox but you get smarter every second: Gem Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/roblox%20but%20you%20get%20smarter%20every%20second%20Gem%20Auto%20Farm.lua")
 
 addscriptexist(7305309231, "Taxi Boss: Auto Spin Halloween Wheel", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Taxi%20Boss%20Auto%20Spin%20Halloween%20Wheel.lua")
+
+addscriptexist(6284583030, "Pet Simulator X: Auto Farm, Auto Open Egg & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pet%20Simulator%20X%20Auto%20Farm%20Auto%20Open%20Egg%20%20More.lua")
