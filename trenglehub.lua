@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 13:10:34"
+lastupdate = "GMT +1: 08.03.2023 13:10:38"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -7200,3 +7200,5 @@ addscriptexist(6804602922, "BOXING BETA: Semi God Mode", "pulled from rbxscript.
 addscriptexist(10914683361, "Busy Business: Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Busy%20Business%20Auto%20Farm.lua")
 
 addscriptexist(10914683361, "Busy Business: Instant Order & Instant Serve", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Busy%20Business%20Instant%20Order%20%20Instant%20Serve.lua")
+
+addscriptexist(10021291734, "Crop Farming Incremental: Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Crop%20Farming%20Incremental%20Auto%20Farm.lua")
