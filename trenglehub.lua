@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 20:17:31"
+lastupdate = "GMT +1: 08.03.2023 20:17:35"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -13636,3 +13636,5 @@ addscriptexist(6447798030, "Funky Friday | AutoPlayer, Hitchances, Unlockables",
 addscriptexist(920587237, "Adopt Me! | Auto Farm, Fun Functions, Fly", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Adopt%20Me%20%20Auto%20Farm%20Fun%20Functions%20Fly.lua")
 
 addscriptexist(10524502174, "One Punch Fighters Simulator | AutoFarm, AutoDelete, AutoBuy", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/One%20Punch%20Fighters%20Simulator%20%20AutoFarm%20AutoDelete%20AutoBuy.lua")
+
+addscriptexist(1537690962, "Bee Swarm Simulator | Auto Convert Pollen, AutoDig, AutoFarm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Bee%20Swarm%20Simulator%20%20Auto%20Convert%20Pollen%20AutoDig%20AutoFarm.lua")
