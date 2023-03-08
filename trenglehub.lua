@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 06:57:23"
+lastupdate = "GMT +1: 08.03.2023 06:57:27"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -5226,3 +5226,5 @@ addscript(4927429832, "Current Game","Wonder Woman: The Themyscira Experience: A
 addscript(9534337535, "Current Game","Shrek in the Backrooms: Fast Loot Respawn, Auto Farm Coin, Loot Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Shrek%20in%20the%20Backrooms%20Fast%20Loot%20Respawn%20Auto%20Farm%20Coin%20Loot%20Auto%20Farm.lua")
 
 addscript(863266079, "Current Game","Apocalypse Rising 2: Silent Aim, FOV & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Apocalypse%20Rising%20%20Silent%20Aim%20FOV%20%20More.lua")
+
+addscriptexist(2788229376, "Da Hood: Spectate Player, Aim Viewer", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Da%20Hood%20Spectate%20Player%20Aim%20Viewer.lua")
