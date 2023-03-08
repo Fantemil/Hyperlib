@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 19:08:08"
+lastupdate = "GMT +1: 08.03.2023 19:08:13"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -12504,3 +12504,5 @@ addscriptexist(9264596435, "Idle Heroes Simulator: Auto Attack Enemy, Auto Next 
 addscriptexist(2413927524, "The Rake REMASTERED: Full Bright, Inf Stamina, ESP", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/The%20Rake%20REMASTERED%20Full%20Bright%20Inf%20Stamina%20ESP.lua")
 
 addscriptexist(3964975083, "Build to survive: Teleport To, BTools, Clear Bases", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Build%20to%20survive%20Teleport%20To%20BTools%20Clear%20Bases.lua")
+
+addscriptexist(10631181587, "Stone Miner Simulator 2: Auto Sell, Auto Hatch, Auto Upgrade", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Stone%20Miner%20Simulator%20%20Auto%20Sell%20Auto%20Hatch%20Auto%20Upgrade.lua")
