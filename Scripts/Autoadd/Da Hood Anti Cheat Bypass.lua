@@ -1,31 +1,27 @@
-local Detectors = {
-    CHECKER_1 = true,
-    TeleportDetect = true,
-    OneMoreTime = true,
-    BANREMOTE = true,
-    KICKREMOTE = true,
-    PERMAIDBAN = true,
-    BreathingHAMON = true
-}
+-- want more scripts like this? join our discord! https://discord.gg/CkSYPCYxtM
 
-local mt = getrawmetatable(game)
-local backupnamecall = mt.__namecall
-setreadonly(mt, false)
-
-mt.__namecall = newcclosure(function(...)
-    local method = getnamecallmethod()
-    local args = {...}
-
-    if (method == "FireServer" and tostring(args[1]) == "MainEvent" and Detectors[args[2]]) then
-        return wait(9e9)
+local a = game.ReplicatedStorage.MainEvent
+local b = {"CHECKER_1", "TeleportDetect", "OneMoreTime"}
+local c
+c =
+    hookmetamethod(
+    game,
+    "__namecall",
+    function(...)
+        local d = {...}
+        local self = d[1]
+        local e = getnamecallmethod()
+        local f = getcallingscript()
+        if e == "FireServer" and self == a and table.find(b, d[2]) then
+            return
+        end
+        if not checkcaller() and getfenv(2).crash then
+            hookfunction(
+                getfenv(2).crash,
+                function()
+                end
+            )
+        end
+        return c(...)
     end
-
-    if (not checkcaller() and getfenv(1).crash ~= nil and getfenv(1).checkChild ~= nil) then
-        getcallingscript():Destroy()
-        return wait(9e9)
-    end
-
-    return backupnamecall(...)
-end)
-
-setreadonly(mt, true)
+)
