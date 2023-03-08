@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 18:08:15"
+lastupdate = "GMT +1: 08.03.2023 18:08:19"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -11204,3 +11204,5 @@ addscriptexist(10925589760, "Merge Simulator: Auto Upgrade, Auto Merge, Auto Tap
 addscriptexist(6516141723, "DOORS: Godmode, Walkspeed, Jump Power", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DOORS%20Godmode%20Walkspeed%20Jump%20Power.lua")
 
 addscriptexist(6516141723, "DOORS: Jumpscares, Notification, Eneties Spawner", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DOORS%20Jumpscares%20Notification%20Eneties%20Spawner.lua")
+
+addscriptexist(155615604, "Prison Life: Auto Respawn, Anti Taze & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Prison%20Life%20Auto%20Respawn%20Anti%20Taze%20%20More.lua")
