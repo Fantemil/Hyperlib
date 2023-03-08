@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 07:18:27"
+lastupdate = "GMT +1: 08.03.2023 07:18:32"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -5872,3 +5872,5 @@ addscriptexist(3233893879, "Bad Business: Infinity Ammo", "pulled from rbxscript
 addscriptexist(6170705260, "Blending Simulator 2: Auto Collect Ingredients, Auto Get Badges, Teleports", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blending%20Simulator%20%20Auto%20Collect%20Ingredients%20Auto%20Get%20Badges%20Teleports.lua")
 
 addscript(4991214437, "Current Game","town: Town Plot Copier", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/town%20Town%20Plot%20Copier.lua")
+
+addscriptexist(10914683361, "Busy Business! Instant Order, Instant Serve", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Busy%20Business%20Instant%20Order%20Instant%20Serve.lua")
