@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 13:07:31"
+lastupdate = "GMT +1: 08.03.2023 13:07:35"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -7120,3 +7120,5 @@ addscript(7243254032, "Current Game","Bloody Baseplate: Inf Money", "pulled from
 addscriptexist(2753915549, "Blox Fruits: Auto Stats, Teleports & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blox%20Fruits%20Auto%20Stats%20Teleports%20%20More.lua")
 
 addscriptexist(10291129032, "Flappy Bird Race: Auto Rebirth, Anti Afk, Get Studs", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Flappy%20Bird%20Race%20Auto%20Rebirth%20Anti%20Afk%20Get%20Studs.lua")
+
+addscriptexist(1554960397, "Car Dealership Tycoon: Car Speed, Teleports, UltimateSpeedHack", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Car%20Dealership%20Tycoon%20Car%20Speed%20Teleports%20UltimateSpeedHack.lua")
