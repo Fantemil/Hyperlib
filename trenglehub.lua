@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 12:49:58"
+lastupdate = "GMT +1: 08.03.2023 12:50:03"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -6668,3 +6668,5 @@ addscriptexist(10291129032, "Flappy Bird Race: Get Studs, Get Birds, Auto Rebirt
 addscript(5630129588, "Current Game","Smash Legends: Auto Farm, Auto Sell, Auto Open All chests", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Smash%20Legends%20Auto%20Farm%20Auto%20Sell%20Auto%20Open%20All%20chests.lua")
 
 addscriptexist(9143982021, "Sword Battles: Get Most Badges", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sword%20Battles%20Get%20Most%20Badges.lua")
+
+addhub("Games Hub: 10+ Games", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Games%20Hub%20%20Games.lua")
