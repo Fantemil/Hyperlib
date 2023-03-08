@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 19:32:56"
+lastupdate = "GMT +1: 08.03.2023 19:33:00"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -13044,3 +13044,5 @@ addscriptexist(5732973455, "HOURS: Unlock All", "pulled from rbxscript.com", "ht
 addscriptexist(2753915549, "Blox Fruits: Auto Farm, AutoSuperhuman", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blox%20Fruits%20Auto%20Farm%20AutoSuperhuman.lua")
 
 addscriptexist(10676523834, "Racing Rocket: Auto Clicker, Auto Star & more", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Racing%20Rocket%20Auto%20Clicker%20Auto%20Star%20%20more.lua")
+
+addscriptexist(2041312716, "Ragdoll Engine: Fly, Teleports & more", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ragdoll%20Engine%20Fly%20Teleports%20%20more.lua")
