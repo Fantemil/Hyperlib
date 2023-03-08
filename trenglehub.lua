@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 06:51:23"
+lastupdate = "GMT +1: 08.03.2023 06:51:27"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -5042,3 +5042,5 @@ addscriptexist(11196588443, "Zombie Merge Tycoon: Sample Multiplier V2", "pulled
 addscriptexist(10898965735, "Mine Racer: Auto Eggs, Auto Mine, Auto Join", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mine%20Racer%20Auto%20Eggs%20Auto%20Mine%20Auto%20Join.lua")
 
 addscriptexist(6872265039, "BedWars: Press P to teleport", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BedWars%20Press%20P%20to%20teleport.lua")
+
+addscriptexist(9992339729, "Longest Answer Wins: Give Longest Answer, Copy Longest Answer, Answer", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Longest%20Answer%20Wins%20Give%20Longest%20Answer%20Copy%20Longest%20Answer%20Answer.lua")
