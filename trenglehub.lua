@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 18:33:00"
+lastupdate = "GMT +1: 08.03.2023 18:33:06"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -11774,3 +11774,5 @@ addscriptexist(9486506804, "FIFA World: Ugc Scavenger Hunt", "pulled from rbxscr
 addscriptexist(5917852358, "Find the codes: Kill All Sniper Only", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Find%20the%20codes%20Kill%20All%20Sniper%20Only.lua")
 
 addscriptexist(5917852358, "Find the codes: Silent Aim", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Find%20the%20codes%20Silent%20Aim.lua")
+
+addscriptexist(7184600262, "Gridiron Football 2.0: Infinite Stats, Instant 99 Ovr", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Gridiron%20Football%20%20Infinite%20Stats%20Instant%20%20Ovr.lua")
