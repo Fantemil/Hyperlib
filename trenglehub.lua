@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 18:22:01"
+lastupdate = "GMT +1: 08.03.2023 18:22:05"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -11542,3 +11542,5 @@ addscriptexist(7569324314, "Naruto Roleplay: Kill People - Crash Server - Ear Ra
 addscript(8447279898, "Current Game","The Pointless Printer Game: Inf money", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/The%20Pointless%20Printer%20Game%20Inf%20money.lua")
 
 addscript(10037235473, "Current Game","New York: The Hood: Auto Farm, Teleports", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/New%20York%20The%20Hood%20Auto%20Farm%20Teleports.lua")
+
+addscriptexist(8122612051, "Slendytubbies VS Redux: Inf custards", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Slendytubbies%20VS%20Redux%20Inf%20custards.lua")
