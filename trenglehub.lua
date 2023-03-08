@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 18:02:30"
+lastupdate = "GMT +1: 08.03.2023 18:02:35"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -11058,3 +11058,5 @@ addscript(6664138223, "Current Game","RIOT: Infinity Stamina, Rage Mode, Kill Au
 addscriptexist(9281034297, "Goal Kick Simulator: Auto Powered Areas, Auto Kick, Auto Enchant", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Goal%20Kick%20Simulator%20Auto%20Powered%20Areas%20Auto%20Kick%20Auto%20Enchant.lua")
 
 addscriptexist(9285238704, "Race Clicker: Auto Win, Auto Click, Auto Open", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Race%20Clicker%20Auto%20Win%20Auto%20Click%20Auto%20Open.lua")
+
+addscriptexist(7305309231, "Taxi Boss: Auto Taxi, Auto Race, Click TP", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Taxi%20Boss%20Auto%20Taxi%20Auto%20Race%20Click%20TP.lua")
