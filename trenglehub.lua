@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 18:27:56"
+lastupdate = "GMT +1: 08.03.2023 18:28:00"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -11688,3 +11688,5 @@ addscriptexist(3260590327, "Tower Defense Simulator: Auto Collect Razors", "pull
 addscriptuniversal("Universal Synapse V3", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Synapse%20V.lua")
 
 addscriptexist(189707, "Natural Disaster Survival: NO Fall Damage, Auto Farm, Remove Snow", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Natural%20Disaster%20Survival%20NO%20Fall%20Damage%20Auto%20Farm%20Remove%20Snow.lua")
+
+addscript(9885181578, "Current Game","Sanrio Obby: Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sanrio%20Obby%20Auto%20Farm.lua")
