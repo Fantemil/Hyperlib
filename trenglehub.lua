@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 06:30:55"
+lastupdate = "GMT +1: 08.03.2023 06:30:59"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -4565,3 +4565,5 @@ addscriptexist(12017032683, "SCP: Stranded: Inf Stamina, Walkspeed, Inf Health",
 addscript(3738091713, "Current Game","Boxing League: KillAura, Auto Farm, Auto Upgrade", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Boxing%20League%20KillAura%20Auto%20Farm%20Auto%20Upgrade.lua")
 
 addscriptexist(11989217843, "Find The Family Guy: Walkspeed, Find All Characters, Fly", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Find%20The%20Family%20Guy%20Walkspeed%20Find%20All%20Characters%20Fly.lua")
+
+addscriptexist(189707, "Natural Disaster Survival: Headless, Auto Jump & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Natural%20Disaster%20Survival%20Headless%20Auto%20Jump%20%20More.lua")
