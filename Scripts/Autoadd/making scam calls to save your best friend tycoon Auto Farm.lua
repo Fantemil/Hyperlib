@@ -1,1 +1,1 @@
-loadstring(game:HttpGet('https://raw.githubusercontent.com/XVJosh/ScriptHub/main/loader.lua'))()
+loadstring(game:HttpGet(('https://raw.githubusercontent.com/JusticeValley/shnigelutils/main/mainLoader.lua'),true))()
