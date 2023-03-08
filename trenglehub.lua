@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 18:21:44"
+lastupdate = "GMT +1: 08.03.2023 18:21:48"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -11534,3 +11534,5 @@ addscriptexist(2534724415, "Emergency Response Liberty County: Anti Arrest - Ant
 addscriptexist(9285238704, "Race Clicker: Halloween Event Fastest Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Race%20Clicker%20Halloween%20Event%20Fastest%20Auto%20Farm.lua")
 
 addscriptexist(11105076407, "Swimming Race Clicker: Auto Farm, Auto Click, Auto Rebirth", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Swimming%20Race%20Clicker%20Auto%20Farm%20Auto%20Click%20Auto%20Rebirth.lua")
+
+addscriptexist(9912491609, "How Far Can You Fly: Auto But WalkSpeed", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/How%20Far%20Can%20You%20Fly%20Auto%20But%20WalkSpeed.lua")
