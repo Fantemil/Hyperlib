@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 16:46:56"
+lastupdate = "GMT +1: 08.03.2023 16:47:00"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -9144,3 +9144,5 @@ addscriptexist(7525610732, "Kaizen: Anti-Afk ,Money farm, WalkSpeed", "pulled fr
 addscriptexist(7525610732, "Kaizen: God mode, Inf Stamina, Anti Ragdoll", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Kaizen%20God%20mode%20Inf%20Stamina%20Anti%20Ragdoll.lua")
 
 addscriptexist(286090429, "Arsenal: Ai Bots, Auto Farm, God Mode & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Arsenal%20Ai%20Bots%20Auto%20Farm%20God%20Mode%20%20More.lua")
+
+addscriptexist(6872265039, "BedWars: Aim Assist, Auto Clicker, Reach & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BedWars%20Aim%20Assist%20Auto%20Clicker%20Reach%20%20More.lua")
