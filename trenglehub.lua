@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 06:45:37"
+lastupdate = "GMT +1: 08.03.2023 06:45:40"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -4866,3 +4866,5 @@ addscriptexist(1240123653, "Zombie Attack: Auto Farm, Walkspeed, Fly", "pulled f
 addscriptexist(286090429, "Arsenal: Silent Aim, Gun Mods, Esp", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Arsenal%20Silent%20Aim%20Gun%20Mods%20Esp.lua")
 
 addscriptexist(4282985734, "Combat Warriors: Kill Aura, Auto Parry, Infinity Jump", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Combat%20Warriors%20Kill%20Aura%20Auto%20Parry%20Infinity%20Jump.lua")
+
+addscript(6751371363, "Current Game","Hood Duels: Silent Aim, Open Source", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Hood%20Duels%20Silent%20Aim%20Open%20Source.lua")
