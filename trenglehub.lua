@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 13:19:45"
+lastupdate = "GMT +1: 08.03.2023 13:19:49"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -7438,3 +7438,5 @@ addscript(3411100258, "Current Game","prtty much evry bordr gam evr: Auto Buy It
 addscriptexist(1537690962, "Bee Swarm Simulator: Autofarm, Auto dig & autodig mode, Auto sprinkler", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Bee%20Swarm%20Simulator%20Autofarm%20Auto%20dig%20%20autodig%20mode%20Auto%20sprinkler.lua")
 
 addscriptexist(2414851778, "Dungeon Quest! Inventory Sorter", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Dungeon%20Quest%20Inventory%20Sorter.lua")
+
+addscript(6198225400, "Current Game","Legends Re:Written: Godmode, Trade Things", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Legends%20ReWritten%20Godmode%20Trade%20Things.lua")
