@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 19:54:27"
+lastupdate = "GMT +1: 08.03.2023 19:54:32"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -13284,3 +13284,5 @@ addscriptexist(85697719, "Kingdom Life 2 | Name Change For Every Player", "pulle
 addscriptuniversal("Universal Aim Assistant", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Aim%20Assistant.lua")
 
 addscriptuniversal("Blox Fruits | GUI - Auto Farm, Auto Level & More!", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blox%20Fruits%20%20GUI%20%20Auto%20Farm%20Auto%20Level%20%20More.lua")
+
+addscriptexist(2788229376, "Da Hood | Fly, Pickup Knife, AutoBuy", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Da%20Hood%20%20Fly%20Pickup%20Knife%20AutoBuy.lua")
