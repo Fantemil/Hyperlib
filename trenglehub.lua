@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 13:02:29"
+lastupdate = "GMT +1: 08.03.2023 13:02:33"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -6990,3 +6990,5 @@ addscript(7267631004, "Current Game","carry people simulator 3: Grab Aura, Anti 
 addscriptexist(6403373529, "Slap Battles: Slap Auto Farm, Anti Ragdoll & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Slap%20Battles%20Slap%20Auto%20Farm%20Anti%20Ragdoll%20%20More.lua")
 
 addscriptexist(286090429, "Arsenal: Auto Back stabs", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Arsenal%20Auto%20Back%20stabs.lua")
+
+addscriptexist(893973440, "Flee the Facility: Esp, FullBright, Esp Exits", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Flee%20the%20Facility%20Esp%20FullBright%20Esp%20Exits.lua")
