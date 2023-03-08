@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 13:15:14"
+lastupdate = "GMT +1: 08.03.2023 13:15:18"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -7322,3 +7322,5 @@ addscriptexist(2772610559, "Farming and Friends: Flying, Teleport, Speed", "pull
 addscriptexist(9993529229, "Counter Blox: Flawless Aimbot, Insane Anti Aim, Customizable ESP", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Counter%20Blox%20Flawless%20Aimbot%20Insane%20Anti%20Aim%20Customizable%20ESP.lua")
 
 addscriptexist(2986677229, "Giant Simulator: Auto Rebirth", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Giant%20Simulator%20Auto%20Rebirth.lua")
+
+addscriptexist(1962086868, "Tower of Hell: Rb Battles- Finish Event, Pc/Mobile", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tower%20of%20Hell%20Rb%20Battles%20Finish%20Event%20PcMobile.lua")
