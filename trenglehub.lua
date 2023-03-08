@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 12:34:56"
+lastupdate = "GMT +1: 08.03.2023 12:35:00"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -6266,3 +6266,5 @@ addscriptexist(2534724415, "Emergency Response Liberty County: Full Anti Cheat B
 addscriptexist(292439477, "Phantom Forces: Anti Fall Damage", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Phantom%20Forces%20Anti%20Fall%20Damage.lua")
 
 addscriptexist(4651779470, "RECOIL: Infinite Ammo, Auto Guns & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RECOIL%20Infinite%20Ammo%20Auto%20Guns%20%20More.lua")
+
+addscriptuniversal("Universal FE Snake", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20FE%20Snake.lua")
