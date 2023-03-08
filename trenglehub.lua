@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 18:43:19"
+lastupdate = "GMT +1: 08.03.2023 18:43:23"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -11984,3 +11984,5 @@ addscriptexist(5827078246, "Coins Hero Simulator: Auto Farm, Auto Buy, Auto Eggs
 addscript(8123652942, "Current Game","Legend-Piece: Infinity Stats, Infinity Damage, Player Mods", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LegendPiece%20Infinity%20Stats%20Infinity%20Damage%20Player%20Mods.lua")
 
 addscriptexist(360589910, "Hoops - Demo (Basketball): Reach", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Hoops%20%20Demo%20Basketball%20Reach.lua")
+
+addscript(8986335348, "Current Game","Mortem Metallum [BETA]: Get every weapon", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mortem%20Metallum%20BETA%20Get%20every%20weapon.lua")
