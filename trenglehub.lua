@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 06:55:32"
+lastupdate = "GMT +1: 08.03.2023 06:55:36"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -5170,3 +5170,5 @@ addscriptexist(3823781113, "Saber Simulator: Auto Buy, Auto Swing, Auto Equip Sa
 addscriptexist(10462101644, "Tall Man Run: Spam Points, Kill Game, ESP", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tall%20Man%20Run%20Spam%20Points%20Kill%20Game%20ESP.lua")
 
 addscriptexist(537413528, "Build A Boat For Treasure: Water Godmode, Auto Farm, Auto Chests", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Build%20A%20Boat%20For%20Treasure%20Water%20Godmode%20Auto%20Farm%20Auto%20Chests.lua")
+
+addscriptexist(5766084948, "SCP: The Red Lake: Kill Closest, Silent Aim, Fill Up Ammo", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SCP%20The%20Red%20Lake%20Kill%20Closest%20Silent%20Aim%20Fill%20Up%20Ammo.lua")
