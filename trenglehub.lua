@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 20:25:55"
+lastupdate = "GMT +1: 08.03.2023 20:25:59"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -13862,3 +13862,5 @@ addscriptexist(2753915549, "Blox Fruits | Redeem Codes, AutoFarm, Chest AutoFarm
 addscriptexist(9431770682, "Lost Rooms | Esp, Material ESP, Full Bright", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Lost%20Rooms%20%20Esp%20Material%20ESP%20Full%20Bright.lua")
 
 addscriptexist(2788229376, "Da Hood | Cash Aura, Noclip, AutoStomp", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Da%20Hood%20%20Cash%20Aura%20Noclip%20AutoStomp.lua")
+
+addscriptexist(5712833750, "Animal Simulator | Unlock Characters", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Animal%20Simulator%20%20Unlock%20Characters.lua")
