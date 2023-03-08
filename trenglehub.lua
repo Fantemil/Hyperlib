@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 17:37:51"
+lastupdate = "GMT +1: 08.03.2023 17:37:55"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -10440,3 +10440,5 @@ addscriptexist(6751580221, "Verdant Moon: ESP, Tracers, Anti Afk", "pulled from 
 addscriptexist(3351674303, "Driving Empire: Candy Farm, Wlkspeed, BTools", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Driving%20Empire%20Candy%20Farm%20Wlkspeed%20BTools.lua")
 
 addscriptexist(8726743209, "Refinery Caves: No Shadows, Walkspeed Slider, Teleports", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Refinery%20Caves%20No%20Shadows%20Walkspeed%20Slider%20Teleports.lua")
+
+addscriptexist(8908228901, "SharkBite 2: Instant Kill Sharks", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SharkBite%20%20Instant%20Kill%20Sharks.lua")
