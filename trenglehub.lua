@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 21:18:13"
+lastupdate = "GMT +1: 08.03.2023 21:18:17"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -14980,3 +14980,5 @@ addscript(696347899, "Current Game","Stepford County Railway [Auto Farm]", "pull
 addscript(10151870864, "Current Game","Ice Factory Tycoon [Auto Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ice%20Factory%20Tycoon%20Auto%20Farm.lua")
 
 addscriptexist(7606302010, "YoYo Simulator [Auto YoYo, Auto Hatch]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/YoYo%20Simulator%20Auto%20YoYo%20Auto%20Hatch.lua")
+
+addscript(8811271345, "Current Game","Balanced Craftwars Overhaul [Godmode, Autofarm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Balanced%20Craftwars%20Overhaul%20Godmode%20Autofarm.lua")
