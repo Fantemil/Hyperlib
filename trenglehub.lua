@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 18:03:37"
+lastupdate = "GMT +1: 08.03.2023 18:03:41"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -11088,3 +11088,5 @@ addscript(6290184304, "Current Game","My Pet Shop: Money Giver", "pulled from rb
 addscriptexist(2534724415, "Emergency Response: Liberty County: Full AntiCheat bypass, Rank Unlock, Gun Mods", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Emergency%20Response%20Liberty%20County%20Full%20AntiCheat%20bypass%20Rank%20Unlock%20Gun%20Mods.lua")
 
 addscriptexist(6441847031, "CHAOS: Infinity Stamina & Dash, Silent Aim, Spam Weapon", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CHAOS%20Infinity%20Stamina%20%20Dash%20Silent%20Aim%20Spam%20Weapon.lua")
+
+addscriptexist(6490016198, "Slayer Tycoon: Auto Tycoon, Collect Drops, Click Teleport", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Slayer%20Tycoon%20Auto%20Tycoon%20Collect%20Drops%20Click%20Teleport.lua")
