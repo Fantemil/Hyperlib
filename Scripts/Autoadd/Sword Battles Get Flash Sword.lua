@@ -1,0 +1,1 @@
+game:GetService("TeleportService"):Teleport(11209251135, LocalPlayer)
