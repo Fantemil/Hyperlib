@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 14:42:07"
+lastupdate = "GMT +1: 08.03.2023 14:42:11"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -7906,3 +7906,5 @@ addscript(8317588085, "Current Game","Block Tycoon: Get All Items", "pulled from
 addscript(2780612764, "Current Game","Kavra's Kingdom: Anti Afk", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Kavras%20Kingdom%20Anti%20Afk.lua")
 
 addscript(11563572312, "Current Game","Ultimate Magnet Simulator: Infinite Cash", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ultimate%20Magnet%20Simulator%20Infinite%20Cash.lua")
+
+addscriptexist(4042427666, "Anime Fighting Simulator: Devil Fruit Farm, Auto Chikara, Auto Farm Train", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime%20Fighting%20Simulator%20Devil%20Fruit%20Farm%20Auto%20Chikara%20Auto%20Farm%20Train.lua")
