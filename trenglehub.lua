@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 19:05:30"
+lastupdate = "GMT +1: 08.03.2023 19:05:34"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -12448,3 +12448,5 @@ addscriptexist(10425191433, "Trick Shot Simulator: Money Multiplier, Gems Boost"
 addscriptexist(10675066724, "Slime Tower Tycoon: Auto Obby, Auto Collect", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Slime%20Tower%20Tycoon%20Auto%20Obby%20Auto%20Collect.lua")
 
 addscriptexist(2569453732, "Rise of Nations: Country Dox, Mass Actions, Smart Sell", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Rise%20of%20Nations%20Country%20Dox%20Mass%20Actions%20Smart%20Sell.lua")
+
+addscriptexist(3101667897, "Legends Of Speed: Auto Hop, Auto Rebirth, Anti Afk", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Legends%20Of%20Speed%20Auto%20Hop%20Auto%20Rebirth%20Anti%20Afk.lua")
