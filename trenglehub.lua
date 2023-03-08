@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 18:52:15"
+lastupdate = "GMT +1: 08.03.2023 18:52:20"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -12160,3 +12160,5 @@ addscript(10054126519, "Current Game","Euphoria Blood Testing: Gun Mod", "pulled
 addscript(4787629450, "Current Game","Booga Booga: Kill Aura, Break Aura, Auto Pickup", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Booga%20Booga%20Kill%20Aura%20Break%20Aura%20Auto%20Pickup.lua")
 
 addscriptexist(8726743209, "Refinery Caves: Esp Purple Tree", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Refinery%20Caves%20Esp%20Purple%20Tree.lua")
+
+addscriptexist(10804519995, "Ro Fruit: Auto Farm, Auto Buy Fruit, Auto Hit", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ro%20Fruit%20Auto%20Farm%20Auto%20Buy%20Fruit%20Auto%20Hit.lua")
