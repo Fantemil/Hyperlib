@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/JustDevT/Roblox/main/Obfus%20Full%20DevHub.lua", true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/JustDevT/Roblox/main/DevHub%20Game%20Select%20Obfus.lua",true))()
