@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 16:43:13"
+lastupdate = "GMT +1: 08.03.2023 16:43:17"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -9056,3 +9056,5 @@ addscriptexist(10969817967, "Construction Simulator: Auto Worker Boost, Auto Lev
 addscriptexist(3101667897, "Legends Of Speed: Auto Farm Fast", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Legends%20Of%20Speed%20Auto%20Farm%20Fast.lua")
 
 addscriptexist(11459646568, "How Far Can You Backflip: Auto Rebirth, Infinity Money, Auto Buy Speed", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/How%20Far%20Can%20You%20Backflip%20Auto%20Rebirth%20Infinity%20Money%20Auto%20Buy%20Speed.lua")
+
+addscriptexist(2788229376, "Da Hood: Fake Lag, Fly & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Da%20Hood%20Fake%20Lag%20Fly%20%20More.lua")
