@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 17:51:21"
+lastupdate = "GMT +1: 08.03.2023 17:51:27"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -10780,3 +10780,5 @@ addscript(7050008107, "Current Game","Hospital Tycoon: Auto Buy Buttons, Auto Co
 addscriptexist(142823291, "Murder Mystery 2: Gun Grabber, Noclip & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Murder%20Mystery%20%20Gun%20Grabber%20Noclip%20%20More.lua")
 
 addscript(4109933355, "Current Game","House Tycoon: Auto Collect Cash, Anti Afk, Auto Build", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/House%20Tycoon%20Auto%20Collect%20Cash%20Anti%20Afk%20Auto%20Build.lua")
+
+addscriptexist(3652625463, "Lifting Simulator: Auto Lift, Auto Sell, Walkspeed", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Lifting%20Simulator%20Auto%20Lift%20Auto%20Sell%20Walkspeed.lua")
