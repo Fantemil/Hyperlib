@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 18:26:17"
+lastupdate = "GMT +1: 08.03.2023 18:26:21"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -11644,3 +11644,5 @@ addscriptuniversal("Universal Small Character FE", "pulled from rbxscript.com", 
 addscriptexist(3851622790, "Break In (Story): Be Friend Cat, Kill Enemies, Insta Heal", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Break%20In%20Story%20Be%20Friend%20Cat%20Kill%20Enemies%20Insta%20Heal.lua")
 
 addscriptuniversal("Universal Internal UI", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Internal%20UI.lua")
+
+addscriptexist(10861112990, "Anime Artifacts Simulator 2: Inf weapon crate", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime%20Artifacts%20Simulator%20%20Inf%20weapon%20crate.lua")
