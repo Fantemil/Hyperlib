@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 07:08:42"
+lastupdate = "GMT +1: 08.03.2023 07:08:46"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -5572,3 +5572,5 @@ addscript(9649680488, "Current Game","Backrooms Race Clicker: Mega Speed", "pull
 addscriptexist(8260276694, "Ability Wars: Auto Slap Everyone", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ability%20Wars%20Auto%20Slap%20Everyone.lua")
 
 addscriptexist(8304191830, "Anime Adventures: Auto Leave, Auto Skip Wave & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime%20Adventures%20Auto%20Leave%20Auto%20Skip%20Wave%20%20More.lua")
+
+addscriptexist(7952502098, "Impossible Glass Bridge Obby: Show Correct Parts", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Impossible%20Glass%20Bridge%20Obby%20Show%20Correct%20Parts.lua")
