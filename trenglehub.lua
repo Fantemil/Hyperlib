@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 17:28:38"
+lastupdate = "GMT +1: 08.03.2023 17:28:45"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -10210,3 +10210,5 @@ addscriptexist(10347946161, "Rat Washing Tycoon: Auto Collect Rats", "pulled fro
 addscript(2041312716, "Current Game","Ragdoll Engine: Teleports, No Push Cooldown & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ragdoll%20Engine%20Teleports%20No%20Push%20Cooldown%20%20More.lua")
 
 addscriptexist(4924922222, "Brookhaven RP: Rainbow House, Smoking Gun & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Brookhaven%20RP%20Rainbow%20House%20Smoking%20Gun%20%20More.lua")
+
+addscript(8481844229, "Current Game","Berry Avenue RP: Glitch Tool, Rainbow Car, Spam Light", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Berry%20Avenue%20RP%20Glitch%20Tool%20Rainbow%20Car%20Spam%20Light.lua")
