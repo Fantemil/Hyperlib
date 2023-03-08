@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 19:16:54"
+lastupdate = "GMT +1: 08.03.2023 19:16:59"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -12692,3 +12692,5 @@ addscript(9980179145, "Current Game","Speed Race Clicker: Auto Farm, Auto Rebirt
 addscriptexist(9898710720, "Money Tycoon: Auto Buy, Auto Collect, Walkspeed", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Money%20Tycoon%20Auto%20Buy%20Auto%20Collect%20Walkspeed.lua")
 
 addscriptexist(3057050847, "Site-76: Auto Farm, Teleport & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Site%20Auto%20Farm%20Teleport%20%20More.lua")
+
+addscriptexist(6516141723, "DOORS: Auto Skip Level, Instant Interact, Chams", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DOORS%20Auto%20Skip%20Level%20Instant%20Interact%20Chams.lua")
