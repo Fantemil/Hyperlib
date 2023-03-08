@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 12:29:36"
+lastupdate = "GMT +1: 08.03.2023 12:29:40"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -6118,3 +6118,5 @@ addscriptexist(142823291, "Murder Mystery 2: Auto Farm, Kill Aura & More", "pull
 addhub("Universal VHub", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20VHub.lua")
 
 addscriptexist(2753915549, "Blox Fruits: Mob Aura, Auto get all items, Auto Collect Items", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blox%20Fruits%20Mob%20Aura%20Auto%20get%20all%20items%20Auto%20Collect%20Items.lua")
+
+addscriptuniversal("Universal FE Kill Closet Player", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20FE%20Kill%20Closet%20Player.lua")
