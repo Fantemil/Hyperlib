@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 06:57:02"
+lastupdate = "GMT +1: 08.03.2023 06:57:05"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -5214,3 +5214,5 @@ addscriptexist(10456235914, "Redwood Prison: Reworked | Kill Player, Void Player
 addscriptexist(6708206173, "Rate My Avatar: Ad decals finder", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Rate%20My%20Avatar%20Ad%20decals%20finder.lua")
 
 addscriptexist(9498006165, "Tapping Simulator: Auto Rebirth, Redeem All Codes & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tapping%20Simulator%20Auto%20Rebirth%20Redeem%20All%20Codes%20%20More.lua")
+
+addscriptexist(920587237, "Adopt Me: Pet Auto Farm, Auto Neon & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Adopt%20Me%20Pet%20Auto%20Farm%20Auto%20Neon%20%20More.lua")
