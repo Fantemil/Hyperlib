@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 12:25:19"
+lastupdate = "GMT +1: 08.03.2023 12:25:24"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -6008,3 +6008,5 @@ addscriptexist(318978013, "Kick Off: Teleports, Goals, Fly", "pulled from rbxscr
 addscriptuniversal("Universal Teleport to Player", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Teleport%20to%20Player.lua")
 
 addscriptexist(11103424163, "Heist Tycoon: Speedhack, Infinity Money, Noclip", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Heist%20Tycoon%20Speedhack%20Infinity%20Money%20Noclip.lua")
+
+addscriptuniversal("Universal Printer User Information", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Printer%20User%20Information.lua")
