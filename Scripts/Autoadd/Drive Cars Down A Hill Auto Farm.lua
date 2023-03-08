@@ -1,0 +1,1 @@
+loadstring(game:HttpGet"https://raw.githubusercontent.com/MadeByAnxiety/QuickHub/main/Script")()    
