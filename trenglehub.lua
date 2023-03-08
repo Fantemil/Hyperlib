@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 20:01:41"
+lastupdate = "GMT +1: 08.03.2023 20:01:48"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -13438,3 +13438,5 @@ addscript(102131021, "Current Game","Flood Survival Waves | Choose Maps, Infinit
 addscript(10753832846, "Current Game","Axe Gui Factory | Damage Loop", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Axe%20Gui%20Factory%20%20Damage%20Loop.lua")
 
 addscript(5683833663, "Current Game","Ragdoll Engine | Kill, Anti Fling, Anti Kill", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ragdoll%20Engine%20%20Kill%20Anti%20Fling%20Anti%20Kill.lua")
+
+addhub("Universal Hub Loader", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Hub%20Loader.lua")
