@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 18:07:02"
+lastupdate = "GMT +1: 08.03.2023 18:07:06"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -11174,3 +11174,5 @@ addscriptexist(4951858512, "Victory Race: WalkSpeed, Wins Farm", "pulled from rb
 addscriptexist(10977918334, "Merge Droppers: Inf Pars", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Merge%20Droppers%20Inf%20Pars.lua")
 
 addscriptexist(10723695195, "Anime Evolution Simulator: Auto Rank, Auto Eggs, Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime%20Evolution%20Simulator%20Auto%20Rank%20Auto%20Eggs%20Auto%20Farm.lua")
+
+addscriptexist(8540346411, "Rebirth Champions X: Auto Click, Auto Craft, Auto Buy Eggs", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Rebirth%20Champions%20X%20Auto%20Click%20Auto%20Craft%20Auto%20Buy%20Eggs.lua")
