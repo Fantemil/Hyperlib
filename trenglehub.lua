@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 17:53:45"
+lastupdate = "GMT +1: 08.03.2023 17:53:50"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -10838,3 +10838,5 @@ addscriptexist(2727067538, "World // Zero: Dodge 1 Shot Event Boss Mechanics", "
 addscriptexist(183364845, "Speed Run 4: Tp lvl", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Speed%20Run%20%20Tp%20lvl.lua")
 
 addscriptexist(8482713490, "Forgotten Memories: Teleport Buttons", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Forgotten%20Memories%20Teleport%20Buttons.lua")
+
+addscriptexist(9872472334, "Evade: Ticket Auto Farm, Esp Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Evade%20Ticket%20Auto%20Farm%20Esp%20Auto%20Farm.lua")
