@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 19:51:04"
+lastupdate = "GMT +1: 08.03.2023 19:51:09"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -13212,3 +13212,5 @@ addscriptexist(621129760, "Knife Ability Test | Walkspeed, Inf Yield, AutoThrow"
 addscriptexist(8203181639, "Syrian Shenanigans | Inf Ammo", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Syrian%20Shenanigans%20%20Inf%20Ammo.lua")
 
 addscriptexist(10198661638, "Farm Factory Tycoon | AutoFarm, AutoClaim, Teleports", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Farm%20Factory%20Tycoon%20%20AutoFarm%20AutoClaim%20Teleports.lua")
+
+addscript(10484095306, "Current Game","CLIMB 100.000 STAIRS TO VIP! | Teleport To Mystery House", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CLIMB%20%20STAIRS%20TO%20VIP%20%20Teleport%20To%20Mystery%20House.lua")
