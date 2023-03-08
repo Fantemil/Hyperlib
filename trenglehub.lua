@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 15:09:09"
+lastupdate = "GMT +1: 08.03.2023 15:09:13"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -8630,3 +8630,5 @@ addscriptexist(8737602449, "PLS DONATE: Fake Donate, Options", "pulled from rbxs
 addscript(8015075184, "Current Game","3-2-1 Blast Off Simulator: Auto Buy Rocket, Auto Buy Fuel Scoop, Auto Buy Backpack", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/%20Blast%20Off%20Simulator%20Auto%20Buy%20Rocket%20Auto%20Buy%20Fuel%20Scoop%20Auto%20Buy%20Backpack.lua")
 
 addscript(10325366821, "Current Game","OOF Tycoon: Autocollect, Autoincrese, Autoprize", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OOF%20Tycoon%20Autocollect%20Autoincrese%20Autoprize.lua")
+
+addscriptexist(10875701453, "Edward the Man-Eating Train: Infinite Stamina, Infinite Ammo, Instant E", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Edward%20the%20ManEating%20Train%20Infinite%20Stamina%20Infinite%20Ammo%20Instant%20E.lua")
