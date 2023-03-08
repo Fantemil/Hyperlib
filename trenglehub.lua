@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 20:27:10"
+lastupdate = "GMT +1: 08.03.2023 20:27:14"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -13898,3 +13898,5 @@ addscriptexist(6753004901, "Swing City [Unlock All Skins & More!]", "pulled from
 addscriptexist(7369208341, "SuperHero: Universe [1.7] [Infinite Coins]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SuperHero%20Universe%20%20Infinite%20Coins.lua")
 
 addscriptexist(2066381781, "Deadly Sins Retribution [Teleport To Istar]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Deadly%20Sins%20Retribution%20Teleport%20To%20Istar.lua")
+
+addscriptexist(8704181738, "Tien Tien Piece [Auto Farm Gems In Second Sea]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tien%20Tien%20Piece%20Auto%20Farm%20Gems%20In%20Second%20Sea.lua")
