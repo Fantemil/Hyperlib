@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 12:40:24"
+lastupdate = "GMT +1: 08.03.2023 12:40:28"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -6418,3 +6418,5 @@ addscriptuniversal("Universal AntiAfk", "pulled from rbxscript.com", "https://ra
 addscriptuniversal("Platinium Hub: 10+ Games Support", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Platinium%20Hub%20%20Games%20Support.lua")
 
 addscriptexist(443406476, "Project Lazarus: Teleports, Aimbot, Fly", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Project%20Lazarus%20Teleports%20Aimbot%20Fly.lua")
+
+addscriptexist(8750997647, "Tapping Legends X: Auto Tap, Auto Rebirth, Auto Hatch", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tapping%20Legends%20X%20Auto%20Tap%20Auto%20Rebirth%20Auto%20Hatch.lua")
