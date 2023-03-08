@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 18:28:34"
+lastupdate = "GMT +1: 08.03.2023 18:28:39"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -11706,3 +11706,5 @@ addhub("Roblox: Script Fe Hub", "pulled from rbxscript.com", "https://raw.github
 addhub("Universal Sword Destroing Gui", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Sword%20Destroing%20Gui.lua")
 
 addhub("Universal Discord Webhook", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Discord%20Webhook.lua")
+
+addscriptexist(417267366, "Dollhouse Roleplay: Claim Coin x10", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Dollhouse%20Roleplay%20Claim%20Coin%20x.lua")
