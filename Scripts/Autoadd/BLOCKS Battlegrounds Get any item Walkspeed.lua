@@ -1,0 +1,1 @@
+loadstring(game:HttpGet(('https://raw.githubusercontent.com/rblxscriptsnet/scripts/main/LUCKY%20BLOCKS%20Battlegrounds'),true))()
