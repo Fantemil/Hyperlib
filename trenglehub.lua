@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 18:48:18"
+lastupdate = "GMT +1: 08.03.2023 18:48:22"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -12078,3 +12078,5 @@ addscriptexist(10652184030, "Jump Clicker: Auto Farm, Auto Click, Auto Hatch", "
 addscriptexist(8726743209, "Refinery Caves: Rare Ore Esp", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Refinery%20Caves%20Rare%20Ore%20Esp.lua")
 
 addscriptexist(1645083423, "ALL OUT ZOMBIES: Zombie Pandemic: Auto Collect Powerups", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ALL%20OUT%20ZOMBIES%20Zombie%20Pandemic%20Auto%20Collect%20Powerups.lua")
+
+addscript(9649198724, "Current Game","My Kennel: Infinite Coins", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/My%20Kennel%20Infinite%20Coins.lua")
