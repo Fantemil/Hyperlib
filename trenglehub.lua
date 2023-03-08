@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 17:14:46"
+lastupdate = "GMT +1: 08.03.2023 17:14:51"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -9852,3 +9852,5 @@ addscriptexist(2768379856, "3008: Godmode, Daytime, ESP", "pulled from rbxscript
 addscriptexist(23578803, "Hotel Elephant: Inf Money, Teleports, Walkspeed", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Hotel%20Elephant%20Inf%20Money%20Teleports%20Walkspeed.lua")
 
 addscriptexist(443406476, "Project Lazarus: AFK Farm, Gun Mods, Silent Aim", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Project%20Lazarus%20AFK%20Farm%20Gun%20Mods%20Silent%20Aim.lua")
+
+addscriptexist(8365905206, "untitled tag game: Auto Collect Coins", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/untitled%20tag%20game%20Auto%20Collect%20Coins.lua")
