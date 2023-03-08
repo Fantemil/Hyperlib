@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 12:28:29"
+lastupdate = "GMT +1: 08.03.2023 12:28:33"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -6086,3 +6086,5 @@ addscriptexist(7180042682, "Military Tycoon: Presents Auto Farm", "pulled from r
 addscriptuniversal("Universal Animation Spy v1", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Animation%20Spy%20v.lua")
 
 addscriptexist(1458767429, "ABA: Fastest Afk Auto Farm, Server Hop", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ABA%20Fastest%20Afk%20Auto%20Farm%20Server%20Hop.lua")
+
+addscriptexist(6284583030, "Pet Simulator X: FPS Lock, Rejoin, Enable Rendering", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pet%20Simulator%20X%20FPS%20Lock%20Rejoin%20Enable%20Rendering.lua")
