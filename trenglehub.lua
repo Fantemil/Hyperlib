@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 15:11:16"
+lastupdate = "GMT +1: 08.03.2023 15:11:20"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -8686,3 +8686,5 @@ addscriptexist(11196588443, "Zombie Merge Tycoon: Infinity Money", "pulled from 
 addscriptexist(10106105124, "Wheat Farming Simulator: Auto Farm and More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Wheat%20Farming%20Simulator%20Auto%20Farm%20and%20More.lua")
 
 addscriptexist(443406476, "Project Lazarus: Godmode, No Recoil, Walkspeed", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Project%20Lazarus%20Godmode%20No%20Recoil%20Walkspeed.lua")
+
+addscriptuniversal("Universal Anti Cheat", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Anti%20Cheat.lua")
