@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/DimdonTM/DimdonTM/main/GUI_pirate_clash.lua"))()
