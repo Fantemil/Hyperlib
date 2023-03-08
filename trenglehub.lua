@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 14:38:10"
+lastupdate = "GMT +1: 08.03.2023 14:38:14"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -7798,3 +7798,5 @@ addscriptexist(3351674303, "Driving Empire: Auto Farm, Speed Hack, Bypass", "pul
 addscriptexist(5796917097, "Road to Gramby's: Grab bucks, Godmode, TP to temple", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Road%20to%20Grambys%20Grab%20bucks%20Godmode%20TP%20to%20temple.lua")
 
 addscriptexist(10598587051, "Anime Clicker Fight: Auto Get Money Titan Area", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime%20Clicker%20Fight%20Auto%20Get%20Money%20Titan%20Area.lua")
+
+addscriptexist(9819654737, "Raise A Sonic: Auto Farm, Auto Feed Sonic, Auto Click Sonic", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Raise%20A%20Sonic%20Auto%20Farm%20Auto%20Feed%20Sonic%20Auto%20Click%20Sonic.lua")
