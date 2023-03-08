@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 17:39:55"
+lastupdate = "GMT +1: 08.03.2023 17:39:59"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -10492,3 +10492,5 @@ addscriptexist(621129760, "Knife Ability Test: Lag server", "pulled from rbxscri
 addscriptexist(7991339063, "Rainbow Friends: High Light Monsters", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Rainbow%20Friends%20High%20Light%20Monsters.lua")
 
 addscriptexist(10652184030, "Jump Clicker: Unlimited Jumps", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Jump%20Clicker%20Unlimited%20Jumps.lua")
+
+addscriptexist(9264596435, "Idle Heroes Simulator: Auto Swing, Auto Mob TP, Auto Hire Heroes", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Idle%20Heroes%20Simulator%20Auto%20Swing%20Auto%20Mob%20TP%20Auto%20Hire%20Heroes.lua")
