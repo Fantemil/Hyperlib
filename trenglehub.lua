@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 13:15:06"
+lastupdate = "GMT +1: 08.03.2023 13:15:10"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -7318,3 +7318,5 @@ addscriptexist(8054462345, "Michael's Zombies: Knife Kill Aura, Flame Kill Aura—
 addscriptexist(286090429, "Arsenal: Silent Aim, Wallbang, ESP", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Arsenal%20Silent%20Aim%20Wallbang%20ESP.lua")
 
 addscriptexist(2772610559, "Farming and Friends: Flying, Teleport, Speed", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Farming%20and%20Friends%20Flying%20Teleport%20Speed.lua")
+
+addscriptexist(9993529229, "Counter Blox: Flawless Aimbot, Insane Anti Aim, Customizable ESP", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Counter%20Blox%20Flawless%20Aimbot%20Insane%20Anti%20Aim%20Customizable%20ESP.lua")
