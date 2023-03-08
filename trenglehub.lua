@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 17:45:53"
+lastupdate = "GMT +1: 08.03.2023 17:45:57"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -10644,3 +10644,5 @@ addscriptexist(10828925984, "Robot Tycoon: Infinity coins and gems", "pulled fro
 addscriptuniversal("Universal Join low player server", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Join%20low%20player%20server.lua")
 
 addscriptexist(8737602449, "PLS DONATE: Send Donation, Booth Text, Set Colour Text", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PLS%20DONATE%20Send%20Donation%20Booth%20Text%20Set%20Colour%20Text.lua")
+
+addscriptexist(6913960180, "Undertale Crazy Multiverse Timeline: Custom Character Editor", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Undertale%20Crazy%20Multiverse%20Timeline%20Custom%20Character%20Editor.lua")
