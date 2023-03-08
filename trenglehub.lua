@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 16:54:34"
+lastupdate = "GMT +1: 08.03.2023 16:54:38"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -9334,3 +9334,5 @@ addscript(10656893781, "Current Game","UT the start of madness: Spectate Player,
 addscriptexist(6516141723, "DOORS: Walkspeed, ESP, Fullbright", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DOORS%20Walkspeed%20ESP%20Fullbright.lua")
 
 addscriptexist(7305309231, "Taxi Boss: Auto Farm, Candy Farm, Pumpkin Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Taxi%20Boss%20Auto%20Farm%20Candy%20Farm%20Pumpkin%20Farm.lua")
+
+addscriptexist(286090429, "Arsenal: ESP, Auto Clicker, Infinite Money", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Arsenal%20ESP%20Auto%20Clicker%20Infinite%20Money.lua")
