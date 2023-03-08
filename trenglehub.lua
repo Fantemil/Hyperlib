@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 16:47:40"
+lastupdate = "GMT +1: 08.03.2023 16:47:48"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -9162,3 +9162,5 @@ addscript(7129976468, "Current Game","Making Memes In Your Basement At 3 Am Tyco
 addscriptexist(1662219031, "Life In Paradise: Teleport To Any Player", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Life%20In%20Paradise%20Teleport%20To%20Any%20Player.lua")
 
 addscriptexist(9787091365, "Ninja Storm Simulator: Auto Farm, Auto Abilities", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ninja%20Storm%20Simulator%20Auto%20Farm%20Auto%20Abilities.lua")
+
+addscriptexist(5740246170, "Tower Simulator: Build Bricks, Buy Left and Right Upgrades", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tower%20Simulator%20Build%20Bricks%20Buy%20Left%20and%20Right%20Upgrades.lua")
