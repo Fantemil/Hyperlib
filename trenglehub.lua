@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 17:42:16"
+lastupdate = "GMT +1: 08.03.2023 17:42:20"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -10552,3 +10552,5 @@ addscriptexist(10828925984, "Robot Tycoon: Infinity Gems", "pulled from rbxscrip
 addscriptexist(5780309044, "Starving Artists: ESP", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Starving%20Artists%20ESP.lua")
 
 addscript(6951762614, "Current Game","UFO Simulator: Auto Kill, Collect Drops, Auto Rebirth", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/UFO%20Simulator%20Auto%20Kill%20Collect%20Drops%20Auto%20Rebirth.lua")
+
+addscriptexist(2788229376, "Da Hood: Fly, Silent AIm & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Da%20Hood%20Fly%20Silent%20AIm%20%20More.lua")
