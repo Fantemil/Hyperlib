@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 15:13:21"
+lastupdate = "GMT +1: 08.03.2023 15:13:25"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -8742,3 +8742,5 @@ addscriptexist(5796917097, "Road to Gramby's: Godmode, Fly, Item Spawner", "pull
 addscript(7138657319, "Current Game","Football Duels: Football Mag, Options", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Football%20Duels%20Football%20Mag%20Options.lua")
 
 addscript(2546155523, "Current Game","RoVille: Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RoVille%20Auto%20Farm.lua")
+
+addscript(9249776514, "Current Game","Givenchy Beauty House: Auto Farm UGC Item", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Givenchy%20Beauty%20House%20Auto%20Farm%20UGC%20Item.lua")
