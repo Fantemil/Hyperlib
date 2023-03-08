@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 12:43:11"
+lastupdate = "GMT +1: 08.03.2023 12:43:16"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -6496,3 +6496,5 @@ addscriptexist(6737970321, "Livetopia: Collect all candy's", "pulled from rbxscr
 addscript(11789124018, "Current Game","Maxwell Circle: Get All Badges", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Maxwell%20Circle%20Get%20All%20Badges.lua")
 
 addscriptexist(3233893879, "Bad Business: Infinite Ammo", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Bad%20Business%20Infinite%20Ammo.lua")
+
+addscriptexist(2788229376, "Da Hood: Show where people are aiming", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Da%20Hood%20Show%20where%20people%20are%20aiming.lua")
