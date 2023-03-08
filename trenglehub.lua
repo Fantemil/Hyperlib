@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 12:41:31"
+lastupdate = "GMT +1: 08.03.2023 12:41:35"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -6448,3 +6448,5 @@ addscriptexist(6679968919, "Fly Race: Auto Win, Auto Rebirth, Auto Collect Orbs"
 addscriptexist(7952502098, "Impossible Glass Bridge Obby! See Correct Tile, Remove Gamepass Stuff, Auto Complete Obby", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Impossible%20Glass%20Bridge%20Obby%20See%20Correct%20Tile%20Remove%20Gamepass%20Stuff%20Auto%20Complete%20Obby.lua")
 
 addscriptuniversal("Universal Noclip and Speed", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Noclip%20and%20Speed.lua")
+
+addscriptuniversal("Universal IICRRBII", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20IICRRBII.lua")
