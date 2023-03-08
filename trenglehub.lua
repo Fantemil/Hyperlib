@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 18:08:10"
+lastupdate = "GMT +1: 08.03.2023 18:08:15"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -11202,3 +11202,5 @@ addscriptexist(2788229376, "Da Hood: Cash Aura, Anti Stomp & More", "pulled from
 addscriptexist(10925589760, "Merge Simulator: Auto Upgrade, Auto Merge, Auto Tap", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Merge%20Simulator%20Auto%20Upgrade%20Auto%20Merge%20Auto%20Tap.lua")
 
 addscriptexist(6516141723, "DOORS: Godmode, Walkspeed, Jump Power", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DOORS%20Godmode%20Walkspeed%20Jump%20Power.lua")
+
+addscriptexist(6516141723, "DOORS: Jumpscares, Notification, Eneties Spawner", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DOORS%20Jumpscares%20Notification%20Eneties%20Spawner.lua")
