@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 18:01:53"
+lastupdate = "GMT +1: 08.03.2023 18:02:02"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -11044,3 +11044,5 @@ addscriptexist(4410049285, "Driving Simulator: Auto Drive, Infinity Nitro, Auto 
 addscriptexist(9431770682, "Lost Rooms: Auto Stats, Auto Loot, Auto Craft", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Lost%20Rooms%20Auto%20Stats%20Auto%20Loot%20Auto%20Craft.lua")
 
 addscript(2418863943, "Current Game","Roanoke: Auto Farm, Anti AFK, Car Speed", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Roanoke%20Auto%20Farm%20Anti%20AFK%20Car%20Speed.lua")
+
+addscriptexist(10512771459, "Fighting Academy: Auto Farm Pushups, Auto Punch, Teleports", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Fighting%20Academy%20Auto%20Farm%20Pushups%20Auto%20Punch%20Teleports.lua")
