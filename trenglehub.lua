@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 17:14:59"
+lastupdate = "GMT +1: 08.03.2023 17:15:05"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -9858,3 +9858,5 @@ addscriptexist(8365905206, "untitled tag game: Auto Collect Coins", "pulled from
 addscriptexist(8365905206, "untitled tag game: Fullbright, Toggle Hitboxes, Spoofers", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/untitled%20tag%20game%20Fullbright%20Toggle%20Hitboxes%20Spoofers.lua")
 
 addscriptexist(5956785391, "Project Slayers: Auto Farm, Kill Aura, Boss Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Project%20Slayers%20Auto%20Farm%20Kill%20Aura%20Boss%20Farm.lua")
+
+addscriptexist(606849621, "Jailbreak: Allow Equip with Items, Walkspeed & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Jailbreak%20Allow%20Equip%20with%20Items%20Walkspeed%20%20More.lua")
