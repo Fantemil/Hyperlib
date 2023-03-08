@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 17:01:34"
+lastupdate = "GMT +1: 08.03.2023 17:01:39"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -9514,3 +9514,5 @@ addhub("Kyoichi Hub 20+ Games", "pulled from rbxscript.com", "https://raw.github
 addscriptexist(8884334497, "Mining Clicker Simulator: Auto Buy Egg, Auto Upgrade, Auto Clicker", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mining%20Clicker%20Simulator%20Auto%20Buy%20Egg%20Auto%20Upgrade%20Auto%20Clicker.lua")
 
 addscriptexist(3398014311, "Restaurant Tycoon 2: NPC Instant Cook", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Restaurant%20Tycoon%20%20NPC%20Instant%20Cook.lua")
+
+addscriptexist(11227688003, "roblox but you get smarter every second: Gem Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/roblox%20but%20you%20get%20smarter%20every%20second%20Gem%20Farm.lua")
