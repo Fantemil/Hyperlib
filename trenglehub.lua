@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 07:01:28"
+lastupdate = "GMT +1: 08.03.2023 07:01:32"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -5352,3 +5352,5 @@ addscriptexist(10427804764, "Soulmate Colour: Change color to any text you want"
 addscriptexist(10427804764, "Soulmate Colour: Auto Farm Tokens", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Soulmate%20Colour%20Auto%20Farm%20Tokens.lua")
 
 addscriptexist(6516141723, "DOORS: Hardcore Mode", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DOORS%20Hardcore%20Mode.lua")
+
+addscriptexist(370731277, "MeepCity: Auto Farm, Get Car, Get Jetpack", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MeepCity%20Auto%20Farm%20Get%20Car%20Get%20Jetpack.lua")
