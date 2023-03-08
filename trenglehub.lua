@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 18:37:57"
+lastupdate = "GMT +1: 08.03.2023 18:38:01"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -11880,3 +11880,5 @@ addscriptexist(7180042682, "Military Tycoon: Auto Farm Items", "pulled from rbxs
 addscriptexist(2210085102, "Naval Warfare: Infinity Ammo, Rapid Fire, Kill Opposite Team", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Naval%20Warfare%20Infinity%20Ammo%20Rapid%20Fire%20Kill%20Opposite%20Team.lua")
 
 addscriptuniversal("Universal ESP Player", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20ESP%20Player.lua")
+
+addscriptexist(9551640993, "Mining Simulator 2: Farm Ore, Buy Event Items & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mining%20Simulator%20%20Farm%20Ore%20Buy%20Event%20Items%20%20More.lua")
