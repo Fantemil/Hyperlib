@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 12:53:10"
+lastupdate = "GMT +1: 08.03.2023 12:53:15"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -6750,3 +6750,5 @@ addscriptexist(6708206173, "Rate My Avatar: Auto Rate & Auto Serverhop", "pulled
 addscriptexist(7791873535, "REALISTIC HOOD: Infinite Money", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/REALISTIC%20HOOD%20Infinite%20Money.lua")
 
 addscriptexist(11495830780, "Dunking Simulator: Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Dunking%20Simulator%20Auto%20Farm.lua")
+
+addscriptexist(10404327868, "Timber Champions: Auto Farm, Craft All Pets, Auto Buy Eggs", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Timber%20Champions%20Auto%20Farm%20Craft%20All%20Pets%20Auto%20Buy%20Eggs.lua")
