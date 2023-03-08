@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 13:08:29"
+lastupdate = "GMT +1: 08.03.2023 13:08:34"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -7146,3 +7146,5 @@ addhub("Rolly Hub: 6 Games", "pulled from rbxscript.com", "https://raw.githubuse
 addscriptexist(5956785391, "Project Lazarus: Farm All Bosses, Kill Aura & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Project%20Lazarus%20Farm%20All%20Bosses%20Kill%20Aura%20%20More.lua")
 
 addscriptexist(9551640993, "Mining Simulator 2: Find Chests, Auto Mine & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mining%20Simulator%20%20Find%20Chests%20Auto%20Mine%20%20More.lua")
+
+addscriptexist(3351674303, "Driving Empire: Anti Afk, Auto Farm 1, Auto Farm 2.", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Driving%20Empire%20Anti%20Afk%20Auto%20Farm%20%20Auto%20Farm%20.lua")
