@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 16:52:28"
+lastupdate = "GMT +1: 08.03.2023 16:52:32"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -9282,3 +9282,5 @@ addscript(11237748076, "Current Game","Stranger Things Immersive Watch Party: Ge
 addscriptexist(10723695195, "Anime Evolution Simulator: Auto Farm, Kill Aura, Power Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime%20Evolution%20Simulator%20Auto%20Farm%20Kill%20Aura%20Power%20Farm.lua")
 
 addscriptexist(5602055394, "Hood Modded: Silent Aim, ESP & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Hood%20Modded%20Silent%20Aim%20ESP%20%20More.lua")
+
+addscriptexist(6000468131, "Granny: Item, player, and exit ESP", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Granny%20Item%20player%20and%20exit%20ESP.lua")
