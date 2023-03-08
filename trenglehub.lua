@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 17:33:07"
+lastupdate = "GMT +1: 08.03.2023 17:33:14"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -10322,3 +10322,5 @@ addscriptexist(11346342371, "making memes in your basement at 3 AM tycoon: AutoF
 addscriptexist(10726371567, "Find The Simpsons: Auto Farm Simpsons", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Find%20The%20Simpsons%20Auto%20Farm%20Simpsons.lua")
 
 addscriptexist(2534724415, "Emergency Response: Liberty County | Anti Arrest, Anti Taze, Anti Beanbag", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Emergency%20Response%20Liberty%20County%20%20Anti%20Arrest%20Anti%20Taze%20Anti%20Beanbag.lua")
+
+addscriptexist(6949542776, "Pixel Gun Tower Defense: Auto Strat", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pixel%20Gun%20Tower%20Defense%20Auto%20Strat.lua")
