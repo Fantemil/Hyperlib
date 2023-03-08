@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 20:37:22"
+lastupdate = "GMT +1: 08.03.2023 20:37:28"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -14160,3 +14160,5 @@ addscriptexist(3101667897, "Legends Of Speed [Auto Hoops, AutoRace]", "pulled fr
 addscriptuniversal("Roblox Universal Script [Admin Commands]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Roblox%20Universal%20Script%20Admin%20Commands.lua")
 
 addscriptuniversal("Roblox Universal Script [Catify Chat]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Roblox%20Universal%20Script%20Catify%20Chat.lua")
+
+addscriptexist(5602055394, "Hood Modded [Silent Aim, Esp]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Hood%20Modded%20Silent%20Aim%20Esp.lua")
