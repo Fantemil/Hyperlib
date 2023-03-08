@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 17:55:17"
+lastupdate = "GMT +1: 08.03.2023 17:55:22"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -10876,3 +10876,5 @@ addscriptexist(155615604, "Prison Life: Arrest All, Supet Punch, Auto GetGuns", 
 addscriptexist(4616652839, "Shindo Life: Infinite Rell Coins", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Shindo%20Life%20Infinite%20Rell%20Coins.lua")
 
 addscript(8766919349, "Current Game","Lifting Heroes: All in One AutoFarm GUI", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Lifting%20Heroes%20All%20in%20One%20AutoFarm%20GUI.lua")
+
+addscriptexist(10828925984, "Robot Tycoon: Inf Money", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Robot%20Tycoon%20Inf%20Money.lua")
