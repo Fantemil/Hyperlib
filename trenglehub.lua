@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 16:38:01"
+lastupdate = "GMT +1: 08.03.2023 16:38:06"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -8930,3 +8930,5 @@ addscript(4710186309, "Current Game","Slap Battles: Killstreak Simulator: Return
 addscriptexist(155615604, "Prison Life: Infinity Stamina, Team Switcher & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Prison%20Life%20Infinity%20Stamina%20Team%20Switcher%20%20More.lua")
 
 addscriptexist(9598746251, "Home Run Simulator: Upgrade Strenght, Upgrade Acuracy, Auto Swing", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Home%20Run%20Simulator%20Upgrade%20Strenght%20Upgrade%20Acuracy%20Auto%20Swing.lua")
+
+addhub("ExoHub: 3 Games", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ExoHub%20%20Games.lua")
