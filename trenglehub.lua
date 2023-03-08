@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 21:03:45"
+lastupdate = "GMT +1: 08.03.2023 21:03:50"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -14812,3 +14812,5 @@ addscriptexist(7664413141, "Creeper Chaos [Anti-cheat bypass, Walkspeed changer]
 addscriptexist(1224212277, "Mad City [Reset Character (Bypass bug), ESP, Silent AIM]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mad%20City%20Reset%20Character%20Bypass%20bug%20ESP%20Silent%20AIM.lua")
 
 addscriptexist(70005410, "Blox Hunt Tokens [Autofarm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blox%20Hunt%20Tokens%20Autofarm.lua")
+
+addscriptexist(1224212277, "Mad City [Fly, AutoFarm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mad%20City%20Fly%20AutoFarm.lua")
