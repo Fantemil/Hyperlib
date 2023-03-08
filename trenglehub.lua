@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 12:26:34"
+lastupdate = "GMT +1: 08.03.2023 12:26:37"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -6038,3 +6038,5 @@ addscriptexist(920587237, "Adopt Me! Free Gamepass", "pulled from rbxscript.com"
 addscriptexist(11040063484, "Sword Fighters Simulator: AutoFarm Nearest, AutoPick Drops & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sword%20Fighters%20Simulator%20AutoFarm%20Nearest%20AutoPick%20Drops%20%20More.lua")
 
 addscriptexist(443406476, "Project Lazarus: Damage Modifier", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Project%20Lazarus%20Damage%20Modifier.lua")
+
+addscriptuniversal("Universal Visual Works", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Visual%20Works.lua")
