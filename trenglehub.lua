@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 19:13:18"
+lastupdate = "GMT +1: 08.03.2023 19:13:25"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -12616,3 +12616,5 @@ addscriptexist(8122612051, "Slendytubbies VS Redux: Infinite Custards", "pulled 
 addscriptexist(8482451541, "Brick Defense: Remove Difficilty Level Requirements", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Brick%20Defense%20Remove%20Difficilty%20Level%20Requirements.lua")
 
 addscript(6884319169, "Current Game","MIC UP: Lag And Noise Spaw", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MIC%20UP%20Lag%20And%20Noise%20Spaw.lua")
+
+addscriptexist(4282985734, "Combat Warriors: No Ragdoll, Inf Jump, No Cooldown & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Combat%20Warriors%20No%20Ragdoll%20Inf%20Jump%20No%20Cooldown%20%20More.lua")
