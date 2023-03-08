@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 20:23:29"
+lastupdate = "GMT +1: 08.03.2023 20:23:33"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -13798,3 +13798,5 @@ addscriptexist(5343994291, "Outlaster | AutoFish, Esp, Inf Jump", "pulled from r
 addscriptexist(2116002761, "Afton's Family Diner | Unlock Everything, Inf Yield", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Aftons%20Family%20Diner%20%20Unlock%20Everything%20Inf%20Yield.lua")
 
 addscriptexist(10439295403, "Anime Champions | Kill Aura, Reset Skill Points, AutoQuest", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime%20Champions%20%20Kill%20Aura%20Reset%20Skill%20Points%20AutoQuest.lua")
+
+addscriptexist(2788229376, "Da Hood | Inf Stamina, Fly, Esp", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Da%20Hood%20%20Inf%20Stamina%20Fly%20Esp.lua")
