@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 20:34:39"
+lastupdate = "GMT +1: 08.03.2023 20:34:44"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -14088,3 +14088,5 @@ addscriptexist(286090429, "Arsenal [Kill All, Silent Aim, Esp]", "pulled from rb
 addscriptuniversal("Roblox Universal Script [AntiTP Bypass]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Roblox%20Universal%20Script%20AntiTP%20Bypass.lua")
 
 addscriptuniversal("Roblox Universal Script [Name Esp]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Roblox%20Universal%20Script%20Name%20Esp.lua")
+
+addscriptexist(8425637426, "Write a Letter [Auto Give Notes]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Write%20a%20Letter%20Auto%20Give%20Notes.lua")
