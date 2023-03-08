@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 19:22:06"
+lastupdate = "GMT +1: 08.03.2023 19:22:11"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -12808,3 +12808,5 @@ addscriptexist(1224212277, "Mad City Chapter 2: Kill All", "pulled from rbxscrip
 addscriptexist(7140186081, "GunGame: Forcefield, Waterwalker", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/GunGame%20Forcefield%20Waterwalker.lua")
 
 addscriptexist(9992339729, "Longest Answer Wins: Auto Answer, Walkspeed", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Longest%20Answer%20Wins%20Auto%20Answer%20Walkspeed.lua")
+
+addscriptexist(5956785391, "Project Slayers: Unparty All", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Project%20Slayers%20Unparty%20All.lua")
