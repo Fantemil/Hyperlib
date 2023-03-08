@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 18:01:41"
+lastupdate = "GMT +1: 08.03.2023 18:01:45"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -11038,3 +11038,5 @@ addscriptexist(8146731988, "Ultra Power Tycoon: Silent Aim, Click TP, Get All Po
 addscriptexist(5154858502, "Murderers vs. Sheriffs: Silent AIm, Kill All, Wall Bang", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Murderers%20vs%20Sheriffs%20Silent%20AIm%20Kill%20All%20Wall%20Bang.lua")
 
 addscriptexist(2768379856, "3008: Auto Stats, No Fall Damage, No Fog", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/%20Auto%20Stats%20No%20Fall%20Damage%20No%20Fog.lua")
+
+addscriptexist(4410049285, "Driving Simulator: Auto Drive, Infinity Nitro, Auto Race", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Driving%20Simulator%20Auto%20Drive%20Infinity%20Nitro%20Auto%20Race.lua")
