@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 20:58:02"
+lastupdate = "GMT +1: 08.03.2023 20:58:07"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -14674,3 +14674,5 @@ addscriptexist(2551991523, "Broken Bones 4 [Inf Jum, AutoFarm]", "pulled from rb
 addscriptexist(537413528, "Build A Boat For Treasure [Inf Jump, GodMode]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Build%20A%20Boat%20For%20Treasure%20Inf%20Jump%20GodMode.lua")
 
 addscriptexist(3214114884, "Flag Wars! [KillAll, CaptureFlag]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Flag%20Wars%20KillAll%20CaptureFlag.lua")
+
+addscriptexist(2580982329, "Texting Simulator [Auto Coins, AutoFarm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Texting%20Simulator%20Auto%20Coins%20AutoFarm.lua")
