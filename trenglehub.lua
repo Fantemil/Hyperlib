@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 14:41:31"
+lastupdate = "GMT +1: 08.03.2023 14:41:36"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -7890,3 +7890,5 @@ addscriptexist(7180042682, "Military Tycoon: Quick Player", "pulled from rbxscri
 addscriptexist(3823781113, "Saber Simulator: Auto Tap", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Saber%20Simulator%20Auto%20Tap.lua")
 
 addscript(11169441681, "Current Game","Word Bridge: Auto Answer, Coins Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Word%20Bridge%20Auto%20Answer%20Coins%20Farm.lua")
+
+addscriptexist(3956818381, "Ninja Legends: Anti-Afk, Auto Clicker", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ninja%20Legends%20AntiAfk%20Auto%20Clicker.lua")
