@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 20:53:47"
+lastupdate = "GMT +1: 08.03.2023 20:53:51"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -14566,3 +14566,5 @@ addscriptexist(6608498361, "cursed tank simulator [Big Crew]", "pulled from rbxs
 addscriptexist(8737602449, "PLS DONATE [Text Bypass]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PLS%20DONATE%20Text%20Bypass.lua")
 
 addscriptexist(9658251985, "The Rake Kill Test [-10 Kills]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/The%20Rake%20Kill%20Test%20%20Kills.lua")
+
+addscriptexist(9658251985, "The Rake Kill Test [+10 kills]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/The%20Rake%20Kill%20Test%20%20kills.lua")
