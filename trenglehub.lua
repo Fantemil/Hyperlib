@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 17:57:58"
+lastupdate = "GMT +1: 08.03.2023 17:58:02"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -10946,3 +10946,5 @@ addscriptuniversal("Universal AntiHook Function", "pulled from rbxscript.com", "
 addscriptuniversal("Domain X", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Domain%20X.lua")
 
 addscriptexist(10001513103, "Limited Words: Redeem Code", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Limited%20Words%20Redeem%20Code.lua")
+
+addscriptexist(8482713490, "Forgotten Memories: Full Bright, Esp, FOV", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Forgotten%20Memories%20Full%20Bright%20Esp%20FOV.lua")
