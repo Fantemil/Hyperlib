@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 16:54:29"
+lastupdate = "GMT +1: 08.03.2023 16:54:34"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -9332,3 +9332,5 @@ addscript(7549229959, "Current Game","Squid Game: Walk Speed, Godmode, Kill All"
 addscript(10656893781, "Current Game","UT the start of madness: Spectate Player, Reset Character, ESP", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/UT%20the%20start%20of%20madness%20Spectate%20Player%20Reset%20Character%20ESP.lua")
 
 addscriptexist(6516141723, "DOORS: Walkspeed, ESP, Fullbright", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DOORS%20Walkspeed%20ESP%20Fullbright.lua")
+
+addscriptexist(7305309231, "Taxi Boss: Auto Farm, Candy Farm, Pumpkin Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Taxi%20Boss%20Auto%20Farm%20Candy%20Farm%20Pumpkin%20Farm.lua")
