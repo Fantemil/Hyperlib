@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 17:04:07"
+lastupdate = "GMT +1: 08.03.2023 17:04:12"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -9580,3 +9580,5 @@ addscriptexist(8540346411, "Rebirth Champions X: Auto Tap, Auto Rebirth, Auto Bu
 addscriptexist(5865858426, "Retail Tycoon 2: Auto Take Phillips coins", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Retail%20Tycoon%20%20Auto%20Take%20Phillips%20coins.lua")
 
 addscriptexist(4520749081, "King Legacy: Auto Farm, Auto Skill, Auto Quest", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/King%20Legacy%20Auto%20Farm%20Auto%20Skill%20Auto%20Quest.lua")
+
+addscriptexist(8304191830, "Anime Adventures: Script Hub", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime%20Adventures%20Script%20Hub.lua")
