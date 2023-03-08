@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 18:09:05"
+lastupdate = "GMT +1: 08.03.2023 18:09:10"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -11226,3 +11226,5 @@ addscriptexist(1240123653, "Zombie Attack: Gain 300 Levels In 1 Hour", "pulled f
 addscriptexist(855499080, "SKYWARS: Mine Aura, God Mode, Fe Shield & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SKYWARS%20Mine%20Aura%20God%20Mode%20Fe%20Shield%20%20More.lua")
 
 addscriptexist(4913581664, "Cart Ride Into Rdite: Destroy Game", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Cart%20Ride%20Into%20Rdite%20Destroy%20Game.lua")
+
+addhub("Nau Hub: 2 Games", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Nau%20Hub%20%20Games.lua")
