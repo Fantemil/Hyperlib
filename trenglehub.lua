@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 19:03:03"
+lastupdate = "GMT +1: 08.03.2023 19:03:08"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -12396,3 +12396,5 @@ addscriptexist(10903978962, "Sheep Tycoon: Auto Sell", "pulled from rbxscript.co
 addhub("PlasekHUB 4 Games", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PlasekHUB%20%20Games.lua")
 
 addscriptexist(537413528, "Build A Boat For Treasure: Auto Farm Golden Blocks", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Build%20A%20Boat%20For%20Treasure%20Auto%20Farm%20Golden%20Blocks.lua")
+
+addscriptexist(1962086868, "Tower Of Hell: Remove AC, Give All Items, Tp To End", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tower%20Of%20Hell%20Remove%20AC%20Give%20All%20Items%20Tp%20To%20End.lua")
