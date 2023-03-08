@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 15:06:53"
+lastupdate = "GMT +1: 08.03.2023 15:06:57"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -8570,3 +8570,5 @@ addscript(5811374318, "Current Game","Dragon Piece: Auto PVP on, Auto PVP off", 
 addscript(3859039810, "Current Game","Munching Masters Simulator: Auto Eat, Auto Sell", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Munching%20Masters%20Simulator%20Auto%20Eat%20Auto%20Sell.lua")
 
 addscriptexist(2753915549, "Blox Fruits: Auto Farm Lvl, Teleports, Auto Stats", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blox%20Fruits%20Auto%20Farm%20Lvl%20Teleports%20Auto%20Stats.lua")
+
+addscriptexist(4292776423, "Unit: Classified: Spam Voices", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Unit%20Classified%20Spam%20Voices.lua")
