@@ -1,0 +1,1 @@
+loadstring(game:HttpGet(('https://raw.githubusercontent.com/Aidez/doodle_world/main/storage_access_button'),true))()
