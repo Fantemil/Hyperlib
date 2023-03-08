@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 18:39:40"
+lastupdate = "GMT +1: 08.03.2023 18:39:45"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -11920,3 +11920,5 @@ addscriptexist(9941633436, "Rank Simulator: Infinite Gems", "pulled from rbxscri
 addscript(10779604733, "Current Game","VBet: Auto Collect Pumpkins", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/VBet%20Auto%20Collect%20Pumpkins.lua")
 
 addscript(7006496598, "Current Game","Bleeding Blades: Hitbox Extenders, ESP, Lagswitch", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Bleeding%20Blades%20Hitbox%20Extenders%20ESP%20Lagswitch.lua")
+
+addscript(2627036812, "Current Game","Zulu Wars: Teleports, Hitbox", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Zulu%20Wars%20Teleports%20Hitbox.lua")
