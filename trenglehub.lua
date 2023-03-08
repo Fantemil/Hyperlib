@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 14:51:12"
+lastupdate = "GMT +1: 08.03.2023 14:51:17"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -8152,3 +8152,5 @@ addscriptexist(7525610732, "Kaizen: Auto Quest, Auto Sellect Weapon, Add ponts",
 addscriptexist(11040063484, "Sword Fighters Simulator: Auto Collect, Auto Ascend, Auto Claim Chest", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sword%20Fighters%20Simulator%20Auto%20Collect%20Auto%20Ascend%20Auto%20Claim%20Chest.lua")
 
 addscriptexist(7525610732, "Kaizen: No Fall Damage, Auto Stat, Select Weapon", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Kaizen%20No%20Fall%20Damage%20Auto%20Stat%20Select%20Weapon.lua")
+
+addscriptexist(11040063484, "Sword Fighters Simulator: Auto Collect Coins, Auto Farm, Auto Swing", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sword%20Fighters%20Simulator%20Auto%20Collect%20Coins%20Auto%20Farm%20Auto%20Swing.lua")
