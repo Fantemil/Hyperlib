@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 20:19:03"
+lastupdate = "GMT +1: 08.03.2023 20:19:08"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -13678,3 +13678,5 @@ addscriptexist(9992339729, "Longest Answer Wins | Infinity Blocks", "pulled from
 addscript(5498056786, "Current Game","Handball Association | Infinity Stamina", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Handball%20Association%20%20Infinity%20Stamina.lua")
 
 addscriptexist(2066381781, "Deadly Sins Retribution | AutoSpin Race", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Deadly%20Sins%20Retribution%20%20AutoSpin%20Race.lua")
+
+addscriptexist(2066381781, "Deadly Sins Retribution | Auto Spin Magic", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Deadly%20Sins%20Retribution%20%20Auto%20Spin%20Magic.lua")
