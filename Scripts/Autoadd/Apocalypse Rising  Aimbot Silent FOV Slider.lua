@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/sneksnake/NitroAR2/main/output.lua", true))()
