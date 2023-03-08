@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 18:01:19"
+lastupdate = "GMT +1: 08.03.2023 18:01:27"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -11030,3 +11030,5 @@ addscriptexist(893973440, "Flee the Facility: Silent Aim, Auto Hack, Highlight c
 addscript(5310443220, "Current Game","GOD TYCOON: Auto Tycoon, Click Dropper, Silent Aim", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/GOD%20TYCOON%20Auto%20Tycoon%20Click%20Dropper%20Silent%20Aim.lua")
 
 addscriptexist(8054462345, "Michael's Zombies: No Recoil, Silent Aim, FOV", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Michaels%20Zombies%20No%20Recoil%20Silent%20Aim%20FOV.lua")
+
+addscriptexist(10277607801, "Apeirophobia: Infinity Stamina, Disable Drowning, Complete Level", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Apeirophobia%20Infinity%20Stamina%20Disable%20Drowning%20Complete%20Level.lua")
