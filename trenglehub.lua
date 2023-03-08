@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 12:21:29"
+lastupdate = "GMT +1: 08.03.2023 12:21:33"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -5902,3 +5902,5 @@ addscriptexist(1554960397, "Car Dealership Tycoon: Auto Farm Speed, Walkspeed, A
 addscriptexist(6284583030, "Pet Simulator X: Auto Collect Lootbags, Auto Collect Orbs, Auto Merchant", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pet%20Simulator%20X%20Auto%20Collect%20Lootbags%20Auto%20Collect%20Orbs%20Auto%20Merchant.lua")
 
 addscript(11495557882, "Current Game","Every Second You Get +1 Speed: Auto Farm Wins", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Every%20Second%20You%20Get%20%20Speed%20Auto%20Farm%20Wins.lua")
+
+addhub("Mini Hub: 5+ Games", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mini%20Hub%20%20Games.lua")
