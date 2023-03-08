@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 14:34:44"
+lastupdate = "GMT +1: 08.03.2023 14:34:49"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -7708,3 +7708,5 @@ addscript(8192066499, "Current Game","Pirate Piece: Break Server, Kill Players, 
 addscriptexist(2753915549, "Blox Fruits: Bring Mobs, Auto Chests, Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blox%20Fruits%20Bring%20Mobs%20Auto%20Chests%20Auto%20Farm.lua")
 
 addscriptexist(192800, "Work at a Pizza Place: Auto Farm Money and Cash", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Work%20at%20a%20Pizza%20Place%20Auto%20Farm%20Money%20and%20Cash.lua")
+
+addscriptexist(2753915549, "Blox Fruits: Auto Farm Boss, Auto Farm Mobs & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blox%20Fruits%20Auto%20Farm%20Boss%20Auto%20Farm%20Mobs%20%20More.lua")
