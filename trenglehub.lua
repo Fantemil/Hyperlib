@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 12:59:25"
+lastupdate = "GMT +1: 08.03.2023 12:59:29"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -6910,3 +6910,5 @@ addscriptexist(9571238478, "Raise A Peter: Auto Farm", "pulled from rbxscript.co
 addscriptexist(8540346411, "Rebirth Champions X: Auto Amulet, Auto Rebirth, Auto Click", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Rebirth%20Champions%20X%20Auto%20Amulet%20Auto%20Rebirth%20Auto%20Click.lua")
 
 addscriptexist(4616652839, "Shindo Life: Auto Farm, No Cooldown & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Shindo%20Life%20Auto%20Farm%20No%20Cooldown%20%20More.lua")
+
+addscriptexist(4616652839, "Shindo Life: Spin Bloodlines, Options, Spin Elements", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Shindo%20Life%20Spin%20Bloodlines%20Options%20Spin%20Elements.lua")
