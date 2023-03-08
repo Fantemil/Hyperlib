@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 17:15:13"
+lastupdate = "GMT +1: 08.03.2023 17:15:18"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -9864,3 +9864,5 @@ addscriptexist(606849621, "Jailbreak: Allow Equip with Items, Walkspeed & More",
 addscriptexist(9912491609, "How Far Can You Fly? AFK Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/How%20Far%20Can%20You%20Fly%20AFK%20Farm.lua")
 
 addscriptuniversal("Universal FE Baller", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20FE%20Baller.lua")
+
+addscriptexist(9498006165, "Tapping Simulator: Auto Tapper, Auto Claim Random Rewards", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tapping%20Simulator%20Auto%20Tapper%20Auto%20Claim%20Random%20Rewards.lua")
