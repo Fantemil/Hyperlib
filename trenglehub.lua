@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 15:11:47"
+lastupdate = "GMT +1: 08.03.2023 15:11:51"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -8698,3 +8698,5 @@ addscriptexist(292439477, "Phantom Forces: FOV, Silent Aim & More", "pulled from
 addscriptexist(360589910, "Hoops - Demo (Basketball): Steal Aura, ESP, Aimbot", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Hoops%20%20Demo%20Basketball%20Steal%20Aura%20ESP%20Aimbot.lua")
 
 addscriptexist(6516141723, "DOORS: M249 Giver", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DOORS%20M%20Giver.lua")
+
+addscriptexist(10205046075, "Onslaught Public Dev Server: Kill All", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Onslaught%20Public%20Dev%20Server%20Kill%20All.lua")
