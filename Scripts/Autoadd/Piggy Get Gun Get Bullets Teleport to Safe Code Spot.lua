@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://raw.githubusercontent.com/tip52/useless-projects/main/piggy%20rb%20battles%20bit'))()
