@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 19:22:59"
+lastupdate = "GMT +1: 08.03.2023 19:23:07"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -12824,3 +12824,5 @@ addscriptexist(10675066724, "Slime Tower Tycoon: Collect All Drop, Auto Sell", "
 addscriptexist(1224212277, "Mad City Chapter 2: Kill All v2", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mad%20City%20Chapter%20%20Kill%20All%20v.lua")
 
 addscriptexist(9872472334, "Evade: Monster Esp", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Evade%20Monster%20Esp.lua")
+
+addscriptexist(9554750143, "Pet Fighting Simulator: Infinite Wheel Spins", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pet%20Fighting%20Simulator%20Infinite%20Wheel%20Spins.lua")
