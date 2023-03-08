@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 21:07:23"
+lastupdate = "GMT +1: 08.03.2023 21:07:27"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -14900,3 +14900,5 @@ addscriptexist(8531522502, "Facility Of Redemption [WalkSpeed]", "pulled from rb
 addscript(391104146, "Current Game","Let's Party∞ +Gear Testing Edition [Ban All, Fly]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Lets%20Party%20Gear%20Testing%20Edition%20Ban%20All%20Fly.lua")
 
 addscriptexist(891852901, "Greenville [Car Stealer]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Greenville%20Car%20Stealer.lua")
+
+addscriptexist(2534724415, "Emergency Response: Liberty County [Undetected Teleport]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Emergency%20Response%20Liberty%20County%20Undetected%20Teleport.lua")
