@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 18:36:26"
+lastupdate = "GMT +1: 08.03.2023 18:36:32"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -11848,3 +11848,5 @@ addscriptexist(6099256669, "Menacing Timeline: Kill All", "pulled from rbxscript
 addscriptexist(8482451541, "Brick Defense: Infinite Defeats", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Brick%20Defense%20Infinite%20Defeats.lua")
 
 addscriptexist(9912491609, "How Far Can You Fly: Coin Farm & Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/How%20Far%20Can%20You%20Fly%20Coin%20Farm%20%20Auto%20Farm.lua")
+
+addscript(1645083423, "Current Game","ALL OUT ZOMBIES: Zombie Pandemic: Auto Kill All Zombies", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ALL%20OUT%20ZOMBIES%20Zombie%20Pandemic%20Auto%20Kill%20All%20Zombies.lua")
