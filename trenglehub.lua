@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 14:48:16"
+lastupdate = "GMT +1: 08.03.2023 14:48:20"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -8076,3 +8076,5 @@ addscriptexist(9224601490, "Fruit Battlegrounds: Redeem All Codes", "pulled from
 addscript(6342469457, "Current Game","Heavens Arena: Instant Evade, Auto Punch, Auto Attack & More!", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Heavens%20Arena%20Instant%20Evade%20Auto%20Punch%20Auto%20Attack%20%20More.lua")
 
 addscriptexist(9224601490, "Fruit Battlegrounds: Simple Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Fruit%20Battlegrounds%20Simple%20Auto%20Farm.lua")
+
+addscriptexist(8927008367, "Kengun Online: Money Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Kengun%20Online%20Money%20Farm.lua")
