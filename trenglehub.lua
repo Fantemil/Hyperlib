@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 14:53:44"
+lastupdate = "GMT +1: 08.03.2023 14:53:48"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -8218,3 +8218,5 @@ addscriptexist(8737602449, "PLS DONATE: Server Hop, Auto Thank You, Text Update"
 addscriptexist(11596351062, "prove mom wrong by being a famous rapper tycoon: Auto Sell, Auto Create, Auto Help", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/prove%20mom%20wrong%20by%20being%20a%20famous%20rapper%20tycoon%20Auto%20Sell%20Auto%20Create%20Auto%20Help.lua")
 
 addscriptuniversal("Universal Anti Fling", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Anti%20Fling.lua")
+
+addscriptexist(4872321990, "Islands: Mob Farming, Boss Farming, Kill aura", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Islands%20Mob%20Farming%20Boss%20Farming%20Kill%20aura.lua")
