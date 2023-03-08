@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 12:41:52"
+lastupdate = "GMT +1: 08.03.2023 12:41:57"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -6458,3 +6458,5 @@ addscript(9541558008, "Current Game","Untitled FPS Game DEMO: Gun Mods", "pulled
 addscriptexist(6516141723, "DOORS: Key Aura, FE Entity spawner, Player Mods", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DOORS%20Key%20Aura%20FE%20Entity%20spawner%20Player%20Mods.lua")
 
 addscript(11197013890, "Current Game","Merge Slash Tycoon: Inf Money, Auto Sprint, Anti Afk", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Merge%20Slash%20Tycoon%20Inf%20Money%20Auto%20Sprint%20Anti%20Afk.lua")
+
+addscript(4543878497, "Current Game","Case Opening Simulator 2: Auto Open Free Case", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Case%20Opening%20Simulator%20%20Auto%20Open%20Free%20Case.lua")
