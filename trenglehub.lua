@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 20:34:58"
+lastupdate = "GMT +1: 08.03.2023 20:35:02"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -14096,3 +14096,5 @@ addscriptexist(8737602449, "PLS DONATE [Random Fourene Cookie]", "pulled from rb
 addscriptexist(9304358188, "Find The Memes [Get All]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Find%20The%20Memes%20Get%20All.lua")
 
 addscriptexist(8054462345, "Michael's Zombies [Kill Aura]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Michaels%20Zombies%20Kill%20Aura.lua")
+
+addscriptexist(8130299583, "Trident Survival [Esp, Head Hbe, Xray]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Trident%20Survival%20Esp%20Head%20Hbe%20Xray.lua")
