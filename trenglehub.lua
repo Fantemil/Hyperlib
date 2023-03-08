@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 17:29:59"
+lastupdate = "GMT +1: 08.03.2023 17:30:04"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -10244,3 +10244,5 @@ addscript(5116869569, "Current Game","Doodle World: Storage Acces Button", "pull
 addscriptexist(10652184030, "Jump Clicker: Infinity Stats", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Jump%20Clicker%20Infinity%20Stats.lua")
 
 addscriptexist(3177438863, "Dragon Blox: Auto Quest, Auto Farm, Auto Punch", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Dragon%20Blox%20Auto%20Quest%20Auto%20Farm%20Auto%20Punch.lua")
+
+addscriptexist(9872472334, "Evade: Auto Farm XP, Auto Respawn, Auto Revive Peoples", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Evade%20Auto%20Farm%20XP%20Auto%20Respawn%20Auto%20Revive%20Peoples.lua")
