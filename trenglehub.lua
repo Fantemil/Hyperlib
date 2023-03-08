@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 15:15:55"
+lastupdate = "GMT +1: 08.03.2023 15:15:59"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -8812,3 +8812,5 @@ addhub("Universal Rayfield Key System Bypass", "pulled from rbxscript.com", "htt
 addscriptexist(5041144419, "SCP: Roleplay: Get Guns, Get Eyeball Morph", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SCP%20Roleplay%20Get%20Guns%20Get%20Eyeball%20Morph.lua")
 
 addscriptexist(6516141723, "DOORS: Noclip, Fullbright, ESP", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DOORS%20Noclip%20Fullbright%20ESP.lua")
+
+addscriptexist(1662219031, "Life in Paradise: Remove Strollers", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Life%20in%20Paradise%20Remove%20Strollers.lua")
