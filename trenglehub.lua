@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 12:31:33"
+lastupdate = "GMT +1: 08.03.2023 12:31:37"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -6172,3 +6172,5 @@ addscript(5783581, "Current Game","TPS: Ultimate Soccer: Inf Stamina, Reach, Aut
 addscriptexist(286090429, "Arsenal: Press F to lock your Aim", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Arsenal%20Press%20F%20to%20lock%20your%20Aim.lua")
 
 addscriptexist(1962086868, "Tower Of Hell: AntiCheat Bypasser", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tower%20Of%20Hell%20AntiCheat%20Bypasser.lua")
+
+addscript(10918081103, "Current Game","Killstreak Chaos: Slap Aura", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Killstreak%20Chaos%20Slap%20Aura.lua")
