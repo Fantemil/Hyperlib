@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 17:40:13"
+lastupdate = "GMT +1: 08.03.2023 17:40:19"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -10500,3 +10500,5 @@ addscriptexist(9648883891, "Festival Tycoon: Auto buy, Infinity Money, Auto Coll
 addscript(7933240245, "Current Game","Viking Tycoon: Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Viking%20Tycoon%20Auto%20Farm.lua")
 
 addscriptexist(9880062154, "The Last Strandeds: Kill Selected Player", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/The%20Last%20Strandeds%20Kill%20Selected%20Player.lua")
+
+addscript(9712123877, "Current Game","Super Slime Simulator: Auto Collect, Auto Rebirth, Auto Claim Rewards", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Super%20Slime%20Simulator%20Auto%20Collect%20Auto%20Rebirth%20Auto%20Claim%20Rewards.lua")
