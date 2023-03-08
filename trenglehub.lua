@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 19:56:05"
+lastupdate = "GMT +1: 08.03.2023 19:56:10"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -13320,3 +13320,5 @@ addscriptexist(2066381781, "Deadly Sins Retribution | Fast Auto Spin For Magic",
 addscriptexist(2788229376, "Da Hood | Anti Lock Section, Teleports, Fly", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Da%20Hood%20%20Anti%20Lock%20Section%20Teleports%20Fly.lua")
 
 addscriptexist(2788229376, "Da Hood | Another Aimlock", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Da%20Hood%20%20Another%20Aimlock.lua")
+
+addscriptexist(155615604, "Prison Life | Teleports, Gun Modes, Arest", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Prison%20Life%20%20Teleports%20Gun%20Modes%20Arest.lua")
