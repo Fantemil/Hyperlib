@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 20:58:28"
+lastupdate = "GMT +1: 08.03.2023 20:58:33"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -14686,3 +14686,5 @@ addscriptexist(286090429, "Arsenal [Aimbot, KillAura]", "pulled from rbxscript.c
 addscriptexist(8750997647, "Tapping Legends X [Auto Click, Auto Rebirth]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tapping%20Legends%20X%20Auto%20Click%20Auto%20Rebirth.lua")
 
 addscriptexist(298400657, "Dragon Ball Final Remastered [Kill Aura, Inf Ki, Inf Stamina]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Dragon%20Ball%20Final%20Remastered%20Kill%20Aura%20Inf%20Ki%20Inf%20Stamina.lua")
+
+addscript(7397915958, "Current Game","Old A Universal Time [Admin Panel]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Old%20A%20Universal%20Time%20Admin%20Panel.lua")
