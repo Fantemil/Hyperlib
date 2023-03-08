@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 21:04:00"
+lastupdate = "GMT +1: 08.03.2023 21:04:06"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -14818,3 +14818,5 @@ addscriptexist(1224212277, "Mad City [Fly, AutoFarm]", "pulled from rbxscript.co
 addscriptexist(537413528, "Build A Boat For Treasure [Quests, Auto Farm, Many Functions]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Build%20A%20Boat%20For%20Treasure%20Quests%20Auto%20Farm%20Many%20Functions.lua")
 
 addscript(3376769145, "Current Game","Dragon Ball Warriors [Use the best form]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Dragon%20Ball%20Warriors%20Use%20the%20best%20form.lua")
+
+addscriptexist(10243982775, "RedBox 2 [Quickswap weapons, Martyrdom]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RedBox%20%20Quickswap%20weapons%20Martyrdom.lua")
