@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 14:41:05"
+lastupdate = "GMT +1: 08.03.2023 14:41:09"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -7880,3 +7880,5 @@ addscriptexist(920587237, "Adopt Me: Gingerbread Farm", "pulled from rbxscript.c
 addscriptexist(3177438863, "Dragon Blox: Auto Farm Gui, Very Powerful", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Dragon%20Blox%20Auto%20Farm%20Gui%20Very%20Powerful.lua")
 
 addscriptexist(5561268850, "Randomly Generated Droids: Kill All Druids", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Randomly%20Generated%20Droids%20Kill%20All%20Druids.lua")
+
+addscriptexist(9224601490, "Fruit Battlegrounds: Free Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Fruit%20Battlegrounds%20Free%20Auto%20Farm.lua")
