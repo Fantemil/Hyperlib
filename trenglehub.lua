@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 06:45:03"
+lastupdate = "GMT +1: 08.03.2023 06:45:06"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -4848,3 +4848,5 @@ addscriptexist(621129760, "Knife Ability Test: Ctrl TP, Teleports, ESP", "pulled
 addscript(2916899287, "Current Game","Blackhawk Rescue Mission 5: Aimbot, Silent Aim & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blackhawk%20Rescue%20Mission%20%20Aimbot%20Silent%20Aim%20%20More.lua")
 
 addscript(12109643, "Current Game","Fencing: Dupe Spray", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Fencing%20Dupe%20Spray.lua")
+
+addscriptexist(10875701453, "Edward the Man-Eating Train: Infinity Ammo, ESP, Auto Survival", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Edward%20the%20ManEating%20Train%20Infinity%20Ammo%20ESP%20Auto%20Survival.lua")
