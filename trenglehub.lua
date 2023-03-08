@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 15:08:02"
+lastupdate = "GMT +1: 08.03.2023 15:08:07"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -8600,3 +8600,5 @@ addscriptexist(6679968919, "Fly Race: Auto Craft, Auto Farm, Auto Rebirth", "pul
 addhub("F2B Hub: 10 Games", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FB%20Hub%20%20Games.lua")
 
 addscriptexist(6403373529, "Slap Battles: Bus Spam, Dark Orb Farm, Teleports", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Slap%20Battles%20Bus%20Spam%20Dark%20Orb%20Farm%20Teleports.lua")
+
+addscriptuniversal("Universal Key System For Script Free", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Key%20System%20For%20Script%20Free.lua")
