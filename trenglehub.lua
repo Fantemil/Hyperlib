@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 06:40:39"
+lastupdate = "GMT +1: 08.03.2023 06:40:43"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -4712,3 +4712,5 @@ addscript(221718525, "Current Game","Ninja Tycoon: Auto Build, Auto Click Droppe
 addscriptexist(6516141723, "DOORS: Sponguss Hub, Give Crucifix", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DOORS%20Sponguss%20Hub%20Give%20Crucifix.lua")
 
 addscriptexist(155615604, "Prison Life: Teleports, Remove Doors & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Prison%20Life%20Teleports%20Remove%20Doors%20%20More.lua")
+
+addhub("Space Hub: 20+ Games", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Space%20Hub%20%20Games.lua")
