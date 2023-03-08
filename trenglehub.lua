@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 07:10:56"
+lastupdate = "GMT +1: 08.03.2023 07:10:59"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -5640,3 +5640,5 @@ addscriptexist(1224212277, "Mad City: Chapter 2: ESP Crates, Silent AIM, Telepor
 addscriptexist(7180042682, "Military Tycoon: Auto raid", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Military%20Tycoon%20Auto%20raid.lua")
 
 addscriptexist(2753915549, "Blox Fruits: Auto Farm Levels, Auto Super Human & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blox%20Fruits%20Auto%20Farm%20Levels%20Auto%20Super%20Human%20%20More.lua")
+
+addscriptexist(7346416636, "Pop It Trading: Buy Items", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pop%20It%20Trading%20Buy%20Items.lua")
