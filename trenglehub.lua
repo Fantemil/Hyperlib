@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 17:03:36"
+lastupdate = "GMT +1: 08.03.2023 17:03:43"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -9568,3 +9568,5 @@ addhub("EnergyHub: 2 Games", "pulled from rbxscript.com", "https://raw.githubuse
 addscriptexist(9832066570, "Tower Battles Defensive Holds: Head Hitbox Expander", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tower%20Battles%20Defensive%20Holds%20Head%20Hitbox%20Expander.lua")
 
 addscriptexist(11227688003, "Roblox But You Get Smarter Every Second: Spam Hatch Any Egg", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Roblox%20But%20You%20Get%20Smarter%20Every%20Second%20Spam%20Hatch%20Any%20Egg.lua")
+
+addscriptexist(9498006165, "Tapping Simulator: Auto Clicker, Reset Speed, Walkspeed Slider", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tapping%20Simulator%20Auto%20Clicker%20Reset%20Speed%20Walkspeed%20Slider.lua")
