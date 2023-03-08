@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 17:41:33"
+lastupdate = "GMT +1: 08.03.2023 17:41:37"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -10534,3 +10534,5 @@ addscriptexist(10211547957, "Bread Factory Tycoon: Infinite Cash & X2 Multiplier
 addscriptexist(3351674303, "Driving Empire: Simple Candy Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Driving%20Empire%20Simple%20Candy%20Farm.lua")
 
 addscriptexist(10851599, "Roblox Talent Show: Rep Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Roblox%20Talent%20Show%20Rep%20Farm.lua")
+
+addscriptexist(9586878618, "Inazuma Rebirth: Op Cash Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Inazuma%20Rebirth%20Op%20Cash%20Farm.lua")
