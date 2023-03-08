@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 18:19:53"
+lastupdate = "GMT +1: 08.03.2023 18:19:57"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -11486,3 +11486,5 @@ addhub("Space Hub UI Icons", "pulled from rbxscript.com", "https://raw.githubuse
 addscriptexist(6159892946, "Aim Trainer: Auto Player", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Aim%20Trainer%20Auto%20Player.lua")
 
 addscriptexist(9625096419, "Tapper Simulator: Auto Tap, Auto Equip Best Pet & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tapper%20Simulator%20Auto%20Tap%20Auto%20Equip%20Best%20Pet%20%20More.lua")
+
+addscript(69184822, "Current Game","Theme Park Tycoon 2: Tp Player, Clean PArk", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Theme%20Park%20Tycoon%20%20Tp%20Player%20Clean%20PArk.lua")
