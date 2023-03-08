@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 16:38:23"
+lastupdate = "GMT +1: 08.03.2023 16:38:27"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -8940,3 +8940,5 @@ addscriptexist(10906235788, "Crocs World Minigames: Collect all the Jibbitz, Wal
 addscriptexist(9498006165, "Tapping Simulator: Auto Rebirth, Auto Clicker, Infinity Jumps", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tapping%20Simulator%20Auto%20Rebirth%20Auto%20Clicker%20Infinity%20Jumps.lua")
 
 addscriptexist(10053187005, "Counter Blox Reimagined: Rainbow Valorant Knife", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Counter%20Blox%20Reimagined%20Rainbow%20Valorant%20Knife.lua")
+
+addscriptexist(2753915549, "Blox Fruits: Mirage Island TP", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blox%20Fruits%20Mirage%20Island%20TP.lua")
