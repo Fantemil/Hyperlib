@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 14:28:50"
+lastupdate = "GMT +1: 08.03.2023 14:28:53"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -7558,3 +7558,5 @@ addscriptexist(8737602449, "PLS DONATE: Auto Chat", "pulled from rbxscript.com",
 addscriptexist(11402943018, "Teamwork: Mog GUI, Troll Gui", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Teamwork%20Mog%20GUI%20Troll%20Gui.lua")
 
 addscript(10979991953, "Current Game","Max Speed: Auto Finish Complete", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Max%20Speed%20Auto%20Finish%20Complete.lua")
+
+addscriptexist(920587237, "Adopt Me: AutoFarm Baby, CPU Usage Imporver, Auto Snowball", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Adopt%20Me%20AutoFarm%20Baby%20CPU%20Usage%20Imporver%20Auto%20Snowball.lua")
