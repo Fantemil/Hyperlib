@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 20:25:12"
+lastupdate = "GMT +1: 08.03.2023 20:25:16"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -13844,3 +13844,5 @@ addscriptexist(8482451541, "Brick Defense [Unlock All Towers & Infinite Tix]", "
 addscriptexist(6055959032, "Jailbird | Esp, AimBot, Silent-Aim", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Jailbird%20%20Esp%20AimBot%20SilentAim.lua")
 
 addscriptexist(5602055394, "Hood Modded | Spin, Esp, Tp", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Hood%20Modded%20%20Spin%20Esp%20Tp.lua")
+
+addscriptexist(5987922834, "Transfur Outbreak! | Aimbot, Visuals, AutoRejoin", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Transfur%20Outbreak%20%20Aimbot%20Visuals%20AutoRejoin.lua")
