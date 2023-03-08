@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 21:16:40"
+lastupdate = "GMT +1: 08.03.2023 21:16:44"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -14938,3 +14938,5 @@ addscriptexist(6681032961, "Museum Tycoon [Inf Cash]", "pulled from rbxscript.co
 addscript(6357903043, "Current Game","Aniverse [Auto Farm, Auto Replay]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Aniverse%20Auto%20Farm%20Auto%20Replay.lua")
 
 addscriptexist(2306562216, "Camping [Get Items, Walkspeed]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Camping%20Get%20Items%20Walkspeed.lua")
+
+addscriptexist(8304191830, "Anime Adventures [Auto Challenge, Auto Inf Mode]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime%20Adventures%20Auto%20Challenge%20Auto%20Inf%20Mode.lua")
