@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 19:24:34"
+lastupdate = "GMT +1: 08.03.2023 19:24:42"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -12858,3 +12858,5 @@ addscript(8511615377, "Current Game","Panik: Bot Esp, Infinity Jump, Hip Height"
 addscriptexist(155615604, "Prison Life: Kill Players", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Prison%20Life%20Kill%20Players.lua")
 
 addscriptexist(4793176968, "Mano County Police Patrol: Tase All", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mano%20County%20Police%20Patrol%20Tase%20All.lua")
+
+addscriptexist(10758111998, "2019 Booga Booga [REBORN]: Auto Pickup Items", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/%20Booga%20Booga%20REBORN%20Auto%20Pickup%20Items.lua")
