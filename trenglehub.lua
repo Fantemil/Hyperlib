@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 16:42:54"
+lastupdate = "GMT +1: 08.03.2023 16:42:58"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -9048,3 +9048,5 @@ addscriptexist(6403373529, "Slap Battles: Anti Ragdoll", "pulled from rbxscript.
 addscriptexist(2413927524, "The Rake REMASTERED: Inf Sramina, Rake Esp, No fall Damage", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/The%20Rake%20REMASTERED%20Inf%20Sramina%20Rake%20Esp%20No%20fall%20Damage.lua")
 
 addscriptexist(9414511685, "Drive Cars Down A Hill: Money Farm, Server Logger", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Drive%20Cars%20Down%20A%20Hill%20Money%20Farm%20Server%20Logger.lua")
+
+addscriptexist(10726371567, "Find The Simpsons: Find All Simsons", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Find%20The%20Simpsons%20Find%20All%20Simsons.lua")
