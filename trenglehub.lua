@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 13:19:21"
+lastupdate = "GMT +1: 08.03.2023 13:19:25"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -7426,3 +7426,5 @@ addscriptuniversal("Universal Kidnap UI", "pulled from rbxscript.com", "https://
 addscriptexist(8657766101, "Marvellous Playground: Keybinds, Spam Attacks, Gamepass Character", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Marvellous%20Playground%20Keybinds%20Spam%20Attacks%20Gamepass%20Character.lua")
 
 addscript(2653064683, "Current Game","Word Bomb: Auto-Type, Word-List Options, Type Delay", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Word%20Bomb%20AutoType%20WordList%20Options%20Type%20Delay.lua")
+
+addscriptexist(9848789324, "Ragdoll Engine: Push Aura, Anti Kill, Anti Ragdoll", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ragdoll%20Engine%20Push%20Aura%20Anti%20Kill%20Anti%20Ragdoll.lua")
