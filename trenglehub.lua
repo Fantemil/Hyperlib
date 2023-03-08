@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 15:10:36"
+lastupdate = "GMT +1: 08.03.2023 15:10:41"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -8668,3 +8668,5 @@ addscriptexist(292439477, "Phantom Forces: Hitbox Extender, Silent Aim, ESP", "p
 addscriptexist(286090429, "Arsenal: Infinity Ammo, No Recoil, Wallbang", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Arsenal%20Infinity%20Ammo%20No%20Recoil%20Wallbang.lua")
 
 addscriptexist(11346342371, "making memes in your basement at 3 AM tycoon: Instant Upload, Infinity Jumps, Speed", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/making%20memes%20in%20your%20basement%20at%20%20AM%20tycoon%20Instant%20Upload%20Infinity%20Jumps%20Speed.lua")
+
+addscriptexist(2788229376, "Da Hood: Anti Stomp, No Fog & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Da%20Hood%20Anti%20Stomp%20No%20Fog%20%20More.lua")
