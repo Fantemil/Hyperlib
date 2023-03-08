@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ilovesordfactory/shittyautodungeon/main/publictest"))()
