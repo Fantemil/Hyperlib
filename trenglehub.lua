@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 12:25:03"
+lastupdate = "GMT +1: 08.03.2023 12:25:06"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -6000,3 +6000,5 @@ addscriptexist(6516141723, "DOORS: Unlock All Achievements, No Screech, Fly", "p
 addscriptexist(10598587051, "Anime Clicker Fight: Auto Click, Auto Dash, Auto Run", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime%20Clicker%20Fight%20Auto%20Click%20Auto%20Dash%20Auto%20Run.lua")
 
 addscriptexist(11040063484, "Sword Fighters Simulator: Auto Farm, Auto Collect, Fight Aura", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sword%20Fighters%20Simulator%20Auto%20Farm%20Auto%20Collect%20Fight%20Aura.lua")
+
+addscriptexist(6679968919, "Fly Race: Auto Collect Orbs, Semi Auto Farm, Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Fly%20Race%20Auto%20Collect%20Orbs%20Semi%20Auto%20Farm%20Auto%20Farm.lua")
