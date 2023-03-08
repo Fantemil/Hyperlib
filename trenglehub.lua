@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 21:16:44"
+lastupdate = "GMT +1: 08.03.2023 21:16:48"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -14940,3 +14940,5 @@ addscript(6357903043, "Current Game","Aniverse [Auto Farm, Auto Replay]", "pulle
 addscriptexist(2306562216, "Camping [Get Items, Walkspeed]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Camping%20Get%20Items%20Walkspeed.lua")
 
 addscriptexist(8304191830, "Anime Adventures [Auto Challenge, Auto Inf Mode]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime%20Adventures%20Auto%20Challenge%20Auto%20Inf%20Mode.lua")
+
+addscript(1923555882, "Current Game","East Brickton [Auto Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/East%20Brickton%20Auto%20Farm.lua")
