@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 12:51:22"
+lastupdate = "GMT +1: 08.03.2023 12:51:25"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -6704,3 +6704,5 @@ addscriptexist(11547613362, "Fly Race: Boost FPS, Auto Buy Egg, Auto Merge", "pu
 addscriptexist(4872321990, "Islands: Teleport Bypass", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Islands%20Teleport%20Bypass.lua")
 
 addscriptexist(8657766101, "Marvellous Playground: Kill All", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Marvellous%20Playground%20Kill%20All.lua")
+
+addscriptexist(13822889, "Lumber Tycoon 2: Dupe Your Entire Inventory", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Lumber%20Tycoon%20%20Dupe%20Your%20Entire%20Inventory.lua")
