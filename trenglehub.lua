@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 16:55:25"
+lastupdate = "GMT +1: 08.03.2023 16:55:32"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -9358,3 +9358,5 @@ addscriptexist(5956785391, "Project Slayers: Instant kill aura, Auto Farm Boss, 
 addscriptexist(10404327868, "Timber Champions: Auto Farm Trees, Auto Collect Orbs, Auto Collect Chests", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Timber%20Champions%20Auto%20Farm%20Trees%20Auto%20Collect%20Orbs%20Auto%20Collect%20Chests.lua")
 
 addscriptexist(8204899140, "Football Fusion 2: Magnet", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Football%20Fusion%20%20Magnet.lua")
+
+addscriptexist(443406476, "Project Lazarus Zombies: Auto Mystery Box", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Project%20Lazarus%20Zombies%20Auto%20Mystery%20Box.lua")
