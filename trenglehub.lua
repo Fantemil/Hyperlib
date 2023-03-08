@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 18:07:06"
+lastupdate = "GMT +1: 08.03.2023 18:07:11"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -11176,3 +11176,5 @@ addscriptexist(10977918334, "Merge Droppers: Inf Pars", "pulled from rbxscript.c
 addscriptexist(10723695195, "Anime Evolution Simulator: Auto Rank, Auto Eggs, Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime%20Evolution%20Simulator%20Auto%20Rank%20Auto%20Eggs%20Auto%20Farm.lua")
 
 addscriptexist(8540346411, "Rebirth Champions X: Auto Click, Auto Craft, Auto Buy Eggs", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Rebirth%20Champions%20X%20Auto%20Click%20Auto%20Craft%20Auto%20Buy%20Eggs.lua")
+
+addscriptexist(7462526249, "NIKELAND: Ghost Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NIKELAND%20Ghost%20Farm.lua")
