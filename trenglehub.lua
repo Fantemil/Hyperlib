@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 12:29:59"
+lastupdate = "GMT +1: 08.03.2023 12:30:04"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -6128,3 +6128,5 @@ addscriptexist(662417684, "LUCKY BLOCKS Battlegrounds: Kill all, Kill Aura, Open
 addscript(11238892040, "Current Game","Type or Die: Bypass Copy/Paste anti Cheat, Auto Answer", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Type%20or%20Die%20Bypass%20CopyPaste%20anti%20Cheat%20Auto%20Answer.lua")
 
 addscriptexist(8540346411, "Rebirth Champions X: Auto Farm, Auto Eggs, Options", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Rebirth%20Champions%20X%20Auto%20Farm%20Auto%20Eggs%20Options.lua")
+
+addscript(4651779470, "Current Game","RECOIL: Auto Guns, Instant Reload, Infinity Ammo", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RECOIL%20Auto%20Guns%20Instant%20Reload%20Infinity%20Ammo.lua")
