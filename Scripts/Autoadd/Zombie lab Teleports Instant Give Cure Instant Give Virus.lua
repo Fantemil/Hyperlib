@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/WinterDinder/vigilant-tegelram/main/Zombie%20Lab.lua"))()
