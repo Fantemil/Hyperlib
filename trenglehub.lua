@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 19:38:55"
+lastupdate = "GMT +1: 08.03.2023 19:39:00"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -13172,3 +13172,5 @@ addscriptuniversal("Universal Zerio Spy", "pulled from rbxscript.com", "https://
 addscriptexist(2533391464, "Snowman Simulator GUI: Auto Farm, Kill All & More!", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Snowman%20Simulator%20GUI%20Auto%20Farm%20Kill%20All%20%20More.lua")
 
 addscriptexist(2580982329, "Texting Simulator: AutoFarm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Texting%20Simulator%20AutoFarm.lua")
+
+addscriptexist(3351674303, "Driving Empire: AutoFarm, Jumppower, Antiafk", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Driving%20Empire%20AutoFarm%20Jumppower%20Antiafk.lua")
