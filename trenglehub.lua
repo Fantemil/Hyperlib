@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 15:12:03"
+lastupdate = "GMT +1: 08.03.2023 15:12:07"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -8706,3 +8706,5 @@ addscriptuniversal("Universal FPS Maker", "pulled from rbxscript.com", "https://
 addscriptexist(1962086868, "Tower Of Hell: Godmode, Remove Killbricks, Get All Items", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tower%20Of%20Hell%20Godmode%20Remove%20Killbricks%20Get%20All%20Items.lua")
 
 addscriptexist(606849621, "Jailbreak: Infinity Nitro, No Ragdoll & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Jailbreak%20Infinity%20Nitro%20No%20Ragdoll%20%20More.lua")
+
+addscriptexist(270499015, "Sandhurst Military Academy: Spam shoot", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sandhurst%20Military%20Academy%20Spam%20shoot.lua")
