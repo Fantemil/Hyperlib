@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 07:16:49"
+lastupdate = "GMT +1: 08.03.2023 07:16:53"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -5820,3 +5820,5 @@ addscriptexist(9834528893, "+1 Jump Every Second: Auto Farm Wins, Anti Afk, Infi
 addscriptexist(6918802270, "Project New World: Auto Stats, Auto Quest, Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Project%20New%20World%20Auto%20Stats%20Auto%20Quest%20Auto%20Farm.lua")
 
 addscriptexist(11656036986, "make roblox games to become rich and famous: Auto Create Game", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/make%20roblox%20games%20to%20become%20rich%20and%20famous%20Auto%20Create%20Game.lua")
+
+addscriptuniversal("Universal Sword Damage Multiplier", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Sword%20Damage%20Multiplier.lua")
