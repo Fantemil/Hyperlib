@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 20:21:54"
+lastupdate = "GMT +1: 08.03.2023 20:22:00"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -13754,3 +13754,5 @@ addscriptexist(286090429, "Arsenal | Instant Respawn", "pulled from rbxscript.co
 addscriptexist(9417197334, "Anime Story | Semi Infinite Gems & Infinite Coins", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime%20Story%20%20Semi%20Infinite%20Gems%20%20Infinite%20Coins.lua")
 
 addscriptexist(9417197334, "Anime Story | Auto Summon", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime%20Story%20%20Auto%20Summon.lua")
+
+addscriptexist(8482451541, "Brick Defense | Auto Farm Grind Infinite Tix", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Brick%20Defense%20%20Auto%20Farm%20Grind%20Infinite%20Tix.lua")
