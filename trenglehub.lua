@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 19:28:26"
+lastupdate = "GMT +1: 08.03.2023 19:28:31"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -12944,3 +12944,5 @@ addscriptexist(680750021, "Case Clicker: Auto Click, Auto Open & more", "pulled 
 addscriptexist(7026828578, "Speed Simulator: Inf Money, Cash Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Speed%20Simulator%20Inf%20Money%20Cash%20Farm.lua")
 
 addscript(10142749739, "Current Game","Pet Fighting Simulator: Infinity Coins", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pet%20Fighting%20Simulator%20Infinity%20Coins.lua")
+
+addscriptexist(6751371363, "Hood Duels: Walkspeed, Silent Aim Lock & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Hood%20Duels%20Walkspeed%20Silent%20Aim%20Lock%20%20More.lua")
