@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 06:57:52"
+lastupdate = "GMT +1: 08.03.2023 06:57:55"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -5242,3 +5242,5 @@ addscript(4954752502, "Current Game","Tower of Misery: Auto Win, Teleport to Top
 addscriptexist(1554960397, "Car Dealership Tycoon: Auto Loot Tp, Auto Race, Teleports", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Car%20Dealership%20Tycoon%20Auto%20Loot%20Tp%20Auto%20Race%20Teleports.lua")
 
 addscriptuniversal("Universal see chat logs", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20see%20chat%20logs.lua")
+
+addscript(10840095864, "Current Game","Mission Mars: Get All Event Items", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mission%20Mars%20Get%20All%20Event%20Items.lua")
