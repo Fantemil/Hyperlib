@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 17:53:24"
+lastupdate = "GMT +1: 08.03.2023 17:53:28"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -10828,3 +10828,5 @@ addscript(7076840707, "Current Game","Sword Slashers Simulator: Auto Click, Auto
 addscriptexist(8304191830, "Anime Adventures: Sell All Units, Enemy Spawn Esp & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime%20Adventures%20Sell%20All%20Units%20Enemy%20Spawn%20Esp%20%20More.lua")
 
 addscriptexist(10652184030, "Jump Clicker: Infinite Jumps, Taps", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Jump%20Clicker%20Infinite%20Jumps%20Taps.lua")
+
+addscriptexist(9872472334, "Evade: Auto Farm Xp/Money, Bot Esp & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Evade%20Auto%20Farm%20XpMoney%20Bot%20Esp%20%20More.lua")
