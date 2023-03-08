@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 15:16:21"
+lastupdate = "GMT +1: 08.03.2023 15:16:25"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -8824,3 +8824,5 @@ addscriptexist(10622006440, "Hyper Realistic CSGO Guns: Bunny Hop", "pulled from
 addscriptexist(7180042682, "Military Tycoon: Event Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Military%20Tycoon%20Event%20Auto%20Farm.lua")
 
 addscript(10906235788, "Current Game","Crocs World Minigames: Free UGC item", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Crocs%20World%20Minigames%20Free%20UGC%20item.lua")
+
+addscriptexist(2317712696, "The Wild West: No Spread, Fullbright & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/The%20Wild%20West%20No%20Spread%20Fullbright%20%20More.lua")
