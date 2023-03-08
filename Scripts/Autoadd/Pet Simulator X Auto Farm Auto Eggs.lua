@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Blackout4781/ama-hub-scripts/main/Pet%20Sim%20X"))()
