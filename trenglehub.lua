@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 14:55:19"
+lastupdate = "GMT +1: 08.03.2023 14:55:23"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -8258,3 +8258,5 @@ addhub("Cappuccino Hub: 4 Games", "pulled from rbxscript.com", "https://raw.gith
 addscriptexist(11330149751, "making scam calls to save your best friend tycoon: Auto Farm Money", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/making%20scam%20calls%20to%20save%20your%20best%20friend%20tycoon%20Auto%20Farm%20Money.lua")
 
 addscriptexist(9224601490, "Fruit Battlegrounds: ESP, Names, Health", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Fruit%20Battlegrounds%20ESP%20Names%20Health.lua")
+
+addscriptexist(2753915549, "Blox Fruits: Chests Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blox%20Fruits%20Chests%20Auto%20Farm.lua")
