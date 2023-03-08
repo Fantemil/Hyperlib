@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 07:16:04"
+lastupdate = "GMT +1: 08.03.2023 07:16:07"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -5796,3 +5796,5 @@ addscriptexist(5956785391, "Project Slayers: Auto Farm, Auto Quest, Local Player
 addscriptexist(9598746251, "Home Run Simulator: Auto Farm, Auto Upgrade, Auto Rebirth", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Home%20Run%20Simulator%20Auto%20Farm%20Auto%20Upgrade%20Auto%20Rebirth.lua")
 
 addscriptuniversal("Universal Minecraft Keystrokes", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Minecraft%20Keystrokes.lua")
+
+addscriptexist(8737602449, "PLS DONATE: Legit Mode, Webhooks, Auto Thank", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PLS%20DONATE%20Legit%20Mode%20Webhooks%20Auto%20Thank.lua")
