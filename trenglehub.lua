@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 06:37:04"
+lastupdate = "GMT +1: 08.03.2023 06:37:08"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -4612,3 +4612,5 @@ addscriptexist(6284583030, "Pet Simulator X: AutoFarm, Dark Converting, Auto Orb
 addscriptexist(8438158667, "Slide House Tumble: Fastest Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Slide%20House%20Tumble%20Fastest%20Auto%20Farm.lua")
 
 addscriptexist(9938675423, "Oaklands: Remote Spy, Auto Dehashes Remotes", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Oaklands%20Remote%20Spy%20Auto%20Dehashes%20Remotes.lua")
+
+addscriptexist(155615604, "Prison Life: Loop Get Guns", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Prison%20Life%20Loop%20Get%20Guns.lua")
