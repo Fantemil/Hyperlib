@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 18:33:55"
+lastupdate = "GMT +1: 08.03.2023 18:34:01"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -11794,3 +11794,5 @@ addscriptexist(13822889, "Lumber Tycoon 2: Spook Wood Finder", "pulled from rbxs
 addscript(4853191911, "Current Game","Sonic.EXE RP: Custom Things", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SonicEXE%20RP%20Custom%20Things.lua")
 
 addscriptexist(292439477, "Phantom Forces: Hitbox, ESP", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Phantom%20Forces%20Hitbox%20ESP.lua")
+
+addscriptexist(2753915549, "Blox Fruits: Tween Teleporter", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blox%20Fruits%20Tween%20Teleporter.lua")
