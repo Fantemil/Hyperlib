@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 19:33:59"
+lastupdate = "GMT +1: 08.03.2023 19:34:04"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -13068,3 +13068,5 @@ addscript(9611809130, "Current Game","Crazy Party RPG: Tp To Crab Area", "pulled
 addscriptexist(1242235469, "ball and axe: Gravity, Go To Saved Location, Infinity Reach", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ball%20and%20axe%20Gravity%20Go%20To%20Saved%20Location%20Infinity%20Reach.lua")
 
 addscript(7138009149, "Current Game","PHIGHTING ALPHA: Infinity Money and Gems", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PHIGHTING%20ALPHA%20Infinity%20Money%20and%20Gems.lua")
+
+addscriptexist(6516141723, "DOORS: Instant Interact, Skip Levels", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DOORS%20Instant%20Interact%20Skip%20Levels.lua")
