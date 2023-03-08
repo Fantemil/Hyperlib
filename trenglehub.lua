@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 06:57:09"
+lastupdate = "GMT +1: 08.03.2023 06:57:13"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -5218,3 +5218,5 @@ addscriptexist(9498006165, "Tapping Simulator: Auto Rebirth, Redeem All Codes & 
 addscriptexist(920587237, "Adopt Me: Pet Auto Farm, Auto Neon & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Adopt%20Me%20Pet%20Auto%20Farm%20Auto%20Neon%20%20More.lua")
 
 addscriptexist(292439477, "Phantom Forces: CPU Limiter, ESP, No Fall Damage", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Phantom%20Forces%20CPU%20Limiter%20ESP%20No%20Fall%20Damage.lua")
+
+addscript(4714308751, "Current Game","Defend The Train BETA: Best Server Lagger", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Defend%20The%20Train%20BETA%20Best%20Server%20Lagger.lua")
