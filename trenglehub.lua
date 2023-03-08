@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 13:04:20"
+lastupdate = "GMT +1: 08.03.2023 13:04:24"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -7038,3 +7038,5 @@ addscriptexist(2753915549, "Blox Fruits: Auto Farm Lvl, Auto Select Weapon, Inf 
 addscriptexist(1537690962, "Bee Swarm Simulator: Auto Farm, Auto Collect Polen, Auto Make Honey", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Bee%20Swarm%20Simulator%20Auto%20Farm%20Auto%20Collect%20Polen%20Auto%20Make%20Honey.lua")
 
 addscriptexist(6677985923, "Millionaire Empire Tycoon: WalkSpeed, Inf Money, Inf Jump", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Millionaire%20Empire%20Tycoon%20WalkSpeed%20Inf%20Money%20Inf%20Jump.lua")
+
+addscriptexist(6679968919, "Fly Race: Auto Win, Auto Collect Orbs, Auto Rebirth", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Fly%20Race%20Auto%20Win%20Auto%20Collect%20Orbs%20Auto%20Rebirth.lua")
