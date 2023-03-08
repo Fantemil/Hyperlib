@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 19:13:06"
+lastupdate = "GMT +1: 08.03.2023 19:13:13"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -12612,3 +12612,5 @@ addscriptexist(10861112990, "Anime Artifacts Simulator 2: Kill Aura For Monsters
 addscript(10374645170, "Current Game","One Piece Battles: Auto Farm Kings Punch", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/One%20Piece%20Battles%20Auto%20Farm%20Kings%20Punch.lua")
 
 addscriptexist(8122612051, "Slendytubbies VS Redux: Infinite Custards", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Slendytubbies%20VS%20Redux%20Infinite%20Custards.lua")
+
+addscriptexist(8482451541, "Brick Defense: Remove Difficilty Level Requirements", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Brick%20Defense%20Remove%20Difficilty%20Level%20Requirements.lua")
