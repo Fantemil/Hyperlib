@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 21:18:59"
+lastupdate = "GMT +1: 08.03.2023 21:19:03"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -15000,3 +15000,5 @@ addscriptexist(10184360875, "Pet&Fishing Simulator [Auto Farm Rebirth]", "pulled
 addscriptexist(2537430692, "Jenga [Sound Vine Boom]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Jenga%20Sound%20Vine%20Boom.lua")
 
 addscriptexist(2039118386, "Neighborhood war [Bypasser]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Neighborhood%20war%20Bypasser.lua")
+
+addhub("Luna Hub [9 SUPPORTED GAMES]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Luna%20Hub%20%20SUPPORTED%20GAMES.lua")
