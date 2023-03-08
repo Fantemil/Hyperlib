@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 20:33:37"
+lastupdate = "GMT +1: 08.03.2023 20:33:41"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -14060,3 +14060,5 @@ addscriptexist(6516141723, "DOORS [Skip lvls, Anti screech, Always win games]", 
 addscriptexist(6055959032, "Jailbird [Aimbot, FOV Scale, Show FOV]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Jailbird%20Aimbot%20FOV%20Scale%20Show%20FOV.lua")
 
 addscriptexist(5130598377, "A Universal Time [Items Farm, God Mode, Auto Quest]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/A%20Universal%20Time%20Items%20Farm%20God%20Mode%20Auto%20Quest.lua")
+
+addscriptexist(815405518, "The Floor Is LAVA [Survival Farm, Points Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/The%20Floor%20Is%20LAVA%20Survival%20Farm%20Points%20Farm.lua")
