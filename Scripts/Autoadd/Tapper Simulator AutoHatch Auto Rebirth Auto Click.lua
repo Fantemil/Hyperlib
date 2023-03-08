@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://raw.githubusercontent.com/TrustsenseDev/Archangel-Scripts/main/Tapper%20Simulator'))()
