@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 19:27:10"
+lastupdate = "GMT +1: 08.03.2023 19:27:16"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -12914,3 +12914,5 @@ addscript(10371228324, "Current Game","Camp Bonkers: Infinity Coins", "pulled fr
 addscriptexist(10371228324, "Camp Bonkers: Give all badges", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Camp%20Bonkers%20Give%20all%20badges.lua")
 
 addscriptexist(286090429, "Arsenal: Instant Equip, Silent Aim & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Arsenal%20Instant%20Equip%20Silent%20Aim%20%20More.lua")
+
+addscriptexist(9648883891, "Festival Tycoon: Infinity Money", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Festival%20Tycoon%20Infinity%20Money.lua")
