@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 18:47:48"
+lastupdate = "GMT +1: 08.03.2023 18:47:53"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -12066,3 +12066,5 @@ addscriptexist(891852901, "Greenville: Free Cam Toggle", "pulled from rbxscript.
 addscriptexist(9993529229, "Counter Blox: Remastered: Updated Case Opener", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Counter%20Blox%20Remastered%20Updated%20Case%20Opener.lua")
 
 addscript(147536429, "Current Game","Field of Battle: Tool Reach", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Field%20of%20Battle%20Tool%20Reach.lua")
+
+addscriptexist(4282985734, "Combat Warriors: Nova.xyz and birdzware", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Combat%20Warriors%20Novaxyz%20and%20birdzware.lua")
