@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 17:16:22"
+lastupdate = "GMT +1: 08.03.2023 17:16:26"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -9894,3 +9894,5 @@ addscriptexist(5956785391, "Project Slayers: Auto Farm, Kill Aura, Inf Stamina &
 addscriptexist(2788229376, "Da Hood: Multiple Scripts", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Da%20Hood%20Multiple%20Scripts.lua")
 
 addscriptexist(537413528, "Build A Boat For Treasure: Op Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Build%20A%20Boat%20For%20Treasure%20Op%20Auto%20Farm.lua")
+
+addscript(7470169863, "Current Game","Elton John Presents: Roblox Event, Auto Collect Gold & Answer All", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Elton%20John%20Presents%20Roblox%20Event%20Auto%20Collect%20Gold%20%20Answer%20All.lua")
