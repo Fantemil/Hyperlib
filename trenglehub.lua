@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 16:54:16"
+lastupdate = "GMT +1: 08.03.2023 16:54:20"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -9326,3 +9326,5 @@ addscriptuniversal("Universal No Gravity", "pulled from rbxscript.com", "https:/
 addscript(6606081876, "Current Game","Crossover Arena: Gun Mods", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Crossover%20Arena%20Gun%20Mods.lua")
 
 addscriptexist(6284583030, "Pet Simulator X: Auto Enchant, Auto Boosts, Teleports", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pet%20Simulator%20X%20Auto%20Enchant%20Auto%20Boosts%20Teleports.lua")
+
+addscript(7549229959, "Current Game","Squid Game: Walk Speed, Godmode, Kill All", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Squid%20Game%20Walk%20Speed%20Godmode%20Kill%20All.lua")
