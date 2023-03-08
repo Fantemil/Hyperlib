@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 18:06:37"
+lastupdate = "GMT +1: 08.03.2023 18:06:42"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -11164,3 +11164,5 @@ addscriptexist(3956818381, "Ninja Legends: Auto Farm, Auto Sell, Auto Collect Ho
 addscript(11150416759, "Current Game","Pet Race Clicker: Auto Farm, Auto Click, Auto Rebirth", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pet%20Race%20Clicker%20Auto%20Farm%20Auto%20Click%20Auto%20Rebirth.lua")
 
 addscriptexist(6336491204, "Karate: Remove Hitbox, ReAdd Hitbox", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Karate%20Remove%20Hitbox%20ReAdd%20Hitbox.lua")
+
+addscriptexist(10861112990, "Anime Artifacts: Teleports, Auto Farm, Auto Hit Air", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime%20Artifacts%20Teleports%20Auto%20Farm%20Auto%20Hit%20Air.lua")
