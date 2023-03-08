@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 20:23:50"
+lastupdate = "GMT +1: 08.03.2023 20:23:54"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -13806,3 +13806,5 @@ addscriptexist(155615604, "Prison Life | 500 Ammo", "pulled from rbxscript.com",
 addscriptexist(5130598377, "A Universal Time | Farm Thung - Items Farm - Godmode & More!", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/A%20Universal%20Time%20%20Farm%20Thung%20%20Items%20Farm%20%20Godmode%20%20More.lua")
 
 addscriptexist(9807416796, "De Hood [Server Crash]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/De%20Hood%20Server%20Crash.lua")
+
+addscript(3237168, "Current Game","One Piece: Legendary [Auto StealFruit, AutoStore]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/One%20Piece%20Legendary%20Auto%20StealFruit%20AutoStore.lua")
