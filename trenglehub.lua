@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 15:05:04"
+lastupdate = "GMT +1: 08.03.2023 15:05:09"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -8522,3 +8522,5 @@ addscript(11469951942, "Current Game","MinerCraft: Full bright, ESP, KillAura", 
 addscriptexist(8927008367, "Kengun Online: Money Farm, Option & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Kengun%20Online%20Money%20Farm%20Option%20%20More.lua")
 
 addhub("LynX Hub V2: 5 Games", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LynX%20Hub%20V%20%20Games.lua")
+
+addscriptexist(2413927524, "The Rake REMASTERED: FullBright, ESP, Notifiers", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/The%20Rake%20REMASTERED%20FullBright%20ESP%20Notifiers.lua")
