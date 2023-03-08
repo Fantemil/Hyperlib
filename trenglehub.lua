@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 19:19:38"
+lastupdate = "GMT +1: 08.03.2023 19:19:42"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -12756,3 +12756,5 @@ addscriptexist(7177496972, "Anime Warriors: Auto Farm, Auto Skills, Auto Replay"
 addscriptuniversal("Universal GUI: Very smooth animations", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20GUI%20Very%20smooth%20animations.lua")
 
 addscriptexist(10895555747, "Walmart Land: Infinite Tokens Methond 1", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Walmart%20Land%20Infinite%20Tokens%20Methond%20.lua")
+
+addscriptexist(6403373529, "Slap Battles: Slap Aura, Slap Aura Range, KillStreak Glove", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Slap%20Battles%20Slap%20Aura%20Slap%20Aura%20Range%20KillStreak%20Glove.lua")
