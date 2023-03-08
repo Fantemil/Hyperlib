@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 07:10:45"
+lastupdate = "GMT +1: 08.03.2023 07:10:48"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -5634,3 +5634,5 @@ addscriptexist(7952502098, "Impossible Glass Bridge Obby: Teleport to the End", 
 addscriptexist(2788229376, "Da Hood: Press X to Anti Lock", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Da%20Hood%20Press%20X%20to%20Anti%20Lock.lua")
 
 addscriptexist(4282985734, "Combat Warriors: Boss Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Combat%20Warriors%20Boss%20Farm.lua")
+
+addscriptexist(1224212277, "Mad City: Chapter 2: ESP Crates, Silent AIM, Teleport", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mad%20City%20Chapter%20%20ESP%20Crates%20Silent%20AIM%20Teleport.lua")
