@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 17:35:30"
+lastupdate = "GMT +1: 08.03.2023 17:35:34"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -10378,3 +10378,5 @@ addscriptexist(8328351891, "Mega Mansion Tycoon: Auto Farm, Auto Collect, Auto B
 addscriptexist(914010731, "Ro-Ghoul: Auto Farm Boss, Spam Skill, Auto Cash Out", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RoGhoul%20Auto%20Farm%20Boss%20Spam%20Skill%20Auto%20Cash%20Out.lua")
 
 addscriptexist(10723695195, "Anime Evolution Simulator: Auto Farm, Attack Delay, Auto Power", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime%20Evolution%20Simulator%20Auto%20Farm%20Attack%20Delay%20Auto%20Power.lua")
+
+addscriptexist(10118559731, "nico's nextbots: GodMode, Infinity Jumps, Fly", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/nicos%20nextbots%20GodMode%20Infinity%20Jumps%20Fly.lua")
