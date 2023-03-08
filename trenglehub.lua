@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 14:48:58"
+lastupdate = "GMT +1: 08.03.2023 14:49:02"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -8096,3 +8096,5 @@ addscriptexist(8908228901, "SharkBite 2: No Jump Cooldown, Shark Esp, Auto Telep
 addscriptexist(7056922815, "Reaper 2: Auto Spin", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Reaper%20%20Auto%20Spin.lua")
 
 addscript(6062820905, "Current Game","Ro Leveling: Infinite Abilities", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ro%20Leveling%20Infinite%20Abilities.lua")
+
+addscriptexist(9555732501, "Nen Fighting Simulator: Auto Farm Strenght, Auto Farm Agillity, Auto Farm Nen", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Nen%20Fighting%20Simulator%20Auto%20Farm%20Strenght%20Auto%20Farm%20Agillity%20Auto%20Farm%20Nen.lua")
