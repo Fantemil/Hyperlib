@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 18:07:37"
+lastupdate = "GMT +1: 08.03.2023 18:07:42"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -11188,3 +11188,5 @@ addscript(8596797381, "Current Game","Northside Chicago: Infinity Stamina, Gun S
 addscript(6269446951, "Current Game","Smooth Slicing: Kill Aura", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Smooth%20Slicing%20Kill%20Aura.lua")
 
 addscriptexist(8482713490, "Forgotten Memories: Notifies, Teleport Areas, ESP", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Forgotten%20Memories%20Notifies%20Teleport%20Areas%20ESP.lua")
+
+addscriptexist(2534724415, "Emergency Response: Liberty County: Vehicle Mega Speed", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Emergency%20Response%20Liberty%20County%20Vehicle%20Mega%20Speed.lua")
