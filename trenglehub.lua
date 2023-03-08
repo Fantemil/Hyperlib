@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 19:06:11"
+lastupdate = "GMT +1: 08.03.2023 19:06:16"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -12464,3 +12464,5 @@ addscriptexist(10260193230, "Meme Sea: Infinity Stat Points", "pulled from rbxsc
 addscriptexist(2185497593, "Arcade Island X Working Arcade: Auto Collect Chips, Auto Clicks Fruits", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Arcade%20Island%20X%20Working%20Arcade%20Auto%20Collect%20Chips%20Auto%20Clicks%20Fruits.lua")
 
 addscriptexist(6284583030, "Pet Simulator X: Auto Farm, Auto Collect Loot Bag & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pet%20Simulator%20X%20Auto%20Farm%20Auto%20Collect%20Loot%20Bag%20%20More.lua")
+
+addscriptexist(537413528, "Build A Boat For Treshure: Auto Farm, Auto Buy, No Water Damage", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Build%20A%20Boat%20For%20Treshure%20Auto%20Farm%20Auto%20Buy%20No%20Water%20Damage.lua")
