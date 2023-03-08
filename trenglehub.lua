@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 06:49:37"
+lastupdate = "GMT +1: 08.03.2023 06:49:40"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -4990,3 +4990,5 @@ addscriptexist(292439477, "Phantom Forces: Hitbox GUI", "pulled from rbxscript.c
 addscriptexist(9796685905, "Super Hero Race Clicker: Auto Rebirth, Auto Click, Gems Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Super%20Hero%20Race%20Clicker%20Auto%20Rebirth%20Auto%20Click%20Gems%20Farm.lua")
 
 addscript(4918537844, "Current Game","Space Station Infinity: Do every research", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Space%20Station%20Infinity%20Do%20every%20research.lua")
+
+addscriptexist(3527629287, "Big Paintball! Silent Aim, Wallbang", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Big%20Paintball%20Silent%20Aim%20Wallbang.lua")
