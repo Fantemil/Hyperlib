@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 06:59:46"
+lastupdate = "GMT +1: 08.03.2023 06:59:49"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -5300,3 +5300,5 @@ addscriptexist(2512643572, "Bubble Gum Simulator: Auto Sell, Auto Blow", "pulled
 addscript(1591277193, "Current Game","Gotham City: Kill All", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Gotham%20City%20Kill%20All.lua")
 
 addscriptexist(142823291, "Murder Mystery 2: Xbox Knife Giver", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Murder%20Mystery%20%20Xbox%20Knife%20Giver.lua")
+
+addscriptuniversal("Universal Chat trolling", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Chat%20trolling.lua")
