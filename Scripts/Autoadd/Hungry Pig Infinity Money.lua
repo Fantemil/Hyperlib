@@ -1,6 +1,9 @@
-game:GetService("ReplicatedStorage").PurchasePet:FireServer{
- ["Description"] = "This will light up a path infront of you.",
- ["ImageID"] = "rbxassetid://11864692764",
- ["Name"] = "FlashLight",
- ["Cost"] = -9999999999e9999999999
+local args = {
+    [1] = {
+        ["ImageID"] = "rbxassetid://11746951753",
+        ["Name"] = "SpeedCoil",
+        ["Cost"] = -100000 --change to any amount not too high or it will break
+    }
 }
+
+game:GetService("ReplicatedStorage").PurchasePet:FireServer(unpack(args))
