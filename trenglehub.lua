@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 12:42:33"
+lastupdate = "GMT +1: 08.03.2023 12:42:38"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -6478,3 +6478,5 @@ addscriptexist(11197013890, "Merge Slash Tycoon: Auto Collect Money, Auto Spint,
 addscriptexist(1537690962, "Bee Swarm Simulator: Convert All, Auto Farm & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Bee%20Swarm%20Simulator%20Convert%20All%20Auto%20Farm%20%20More.lua")
 
 addhub("Voxle Hub: 3 Games", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Voxle%20Hub%20%20Games.lua")
+
+addscriptexist(6918802270, "Project New World: Chest farm autohop", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Project%20New%20World%20Chest%20farm%20autohop.lua")
