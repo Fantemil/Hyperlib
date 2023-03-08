@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 12:56:36"
+lastupdate = "GMT +1: 08.03.2023 12:56:42"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -6838,3 +6838,5 @@ addscriptexist(11346342371, "making memes in your basement at 3 AM tycoon: Very 
 addscriptexist(6422372837, "Snipers: Silent Aim, No Shoot Cooldown, Wallbang", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Snipers%20Silent%20Aim%20No%20Shoot%20Cooldown%20Wallbang.lua")
 
 addscript(1662219031, "Current Game","Life in Paradise: Parts Spamer", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Life%20in%20Paradise%20Parts%20Spamer.lua")
+
+addscriptexist(9579228669, "Everyday Car Driving: Bug Server", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Everyday%20Car%20Driving%20Bug%20Server.lua")
