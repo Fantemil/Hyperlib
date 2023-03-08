@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 20:13:00"
+lastupdate = "GMT +1: 08.03.2023 20:13:04"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -13518,3 +13518,5 @@ addscriptexist(9992339729, "Longest Answer Wins | Unlimited Blocks", "pulled fro
 addscriptexist(10320240572, "Easy Race Clicker | Fast Auto Win, Auto Rebirth, Auto Speed", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Easy%20Race%20Clicker%20%20Fast%20Auto%20Win%20Auto%20Rebirth%20Auto%20Speed.lua")
 
 addscriptuniversal("Universal Bypasser Nwords", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Bypasser%20Nwords.lua")
+
+addscriptexist(9992339729, "Longest Answer Wins | Blocks Changer", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Longest%20Answer%20Wins%20%20Blocks%20Changer.lua")
