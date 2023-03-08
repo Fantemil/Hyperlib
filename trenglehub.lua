@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 15:14:40"
+lastupdate = "GMT +1: 08.03.2023 15:14:44"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -8780,3 +8780,5 @@ addscriptexist(11513339030, "Every Second +1 Jump Power: Auto Win, Auto Farm", "
 addscriptuniversal("Universal Aimbot, ESP, Team Check", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Aimbot%20ESP%20Team%20Check.lua")
 
 addscriptexist(5561268850, "Randomly Generated Droids: Auto Rejoin, God Mode, Fly", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Randomly%20Generated%20Droids%20Auto%20Rejoin%20God%20Mode%20Fly.lua")
+
+addscript(10809467765, "Current Game","Zipline Obby: Auto Beat Game", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Zipline%20Obby%20Auto%20Beat%20Game.lua")
