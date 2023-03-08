@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 20:46:17"
+lastupdate = "GMT +1: 08.03.2023 20:46:22"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -14382,3 +14382,5 @@ addscript(9983979661, "Current Game","Dragon Farm Simulator [AutoCollect]", "pul
 addscriptexist(5777099015, "Cheese Escape [AutoCollectCheese, Godmode]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Cheese%20Escape%20AutoCollectCheese%20Godmode.lua")
 
 addscriptexist(1962086868, "Tower of Hell [Auto Win]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tower%20of%20Hell%20Auto%20Win.lua")
+
+addscriptexist(6516141723, "DOORS [AutoFarm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DOORS%20AutoFarm.lua")
