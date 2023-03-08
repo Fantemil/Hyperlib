@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 18:31:07"
+lastupdate = "GMT +1: 08.03.2023 18:31:12"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -11758,3 +11758,5 @@ addscriptexist(4282985734, "Combat Warriors: Hitbox Expander", "pulled from rbxs
 addscriptexist(10675042838, "Lemonade Tycoon: Remove Package, Redeem All Known Codes, Lemonade Production", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Lemonade%20Tycoon%20Remove%20Package%20Redeem%20All%20Known%20Codes%20Lemonade%20Production.lua")
 
 addscriptexist(8278412720, "CS Prison Life: Infinite Taser Range", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CS%20Prison%20Life%20Infinite%20Taser%20Range.lua")
+
+addscriptexist(2788229376, "Da Hood: Super Sword Giver", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Da%20Hood%20Super%20Sword%20Giver.lua")
