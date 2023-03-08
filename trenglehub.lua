@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 17:18:22"
+lastupdate = "GMT +1: 08.03.2023 17:18:27"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -9946,3 +9946,5 @@ addscriptexist(9551640993, "Mining Simulator 2: Auto Deposit Fireshard, Block Au
 addscriptexist(8750997647, "Tapping Legends X: Auto Collect Drill, Auto Eggs & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tapping%20Legends%20X%20Auto%20Collect%20Drill%20Auto%20Eggs%20%20More.lua")
 
 addscriptexist(6516141723, "DOORS: No screech, Instant Interact, Figure Chams", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DOORS%20No%20screech%20Instant%20Interact%20Figure%20Chams.lua")
+
+addscript(402122991, "Current Game","Redwood Prison: Team Switcher, Spam Doors, Teleports", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Redwood%20Prison%20Team%20Switcher%20Spam%20Doors%20Teleports.lua")
