@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 19:31:56"
+lastupdate = "GMT +1: 08.03.2023 19:32:04"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -13022,3 +13022,5 @@ addscriptexist(10758748100, "Killstreak Simulator Remake: Add many Kills", "pull
 addscriptexist(370731277, "MeepCity: Balloon Spam", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MeepCity%20Balloon%20Spam.lua")
 
 addscript(4851363266, "Current Game","MyPark: Anti Contest, Auto Score & more", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MyPark%20Anti%20Contest%20Auto%20Score%20%20more.lua")
+
+addscriptexist(10861112990, "Anime Artifacts Simulator 2: Infinite coins", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime%20Artifacts%20Simulator%20%20Infinite%20coins.lua")
