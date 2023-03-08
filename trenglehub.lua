@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 06:39:19"
+lastupdate = "GMT +1: 08.03.2023 06:39:23"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -4670,3 +4670,5 @@ addscriptexist(6284583030, "Pet Simulator X: Anti X Stealer Logger", "pulled fro
 addscriptexist(6403373529, "Slap Battles: Slap Aura, Killstreak Glove, Spam", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Slap%20Battles%20Slap%20Aura%20Killstreak%20Glove%20Spam.lua")
 
 addscriptexist(488667523, "Those Who Remain: Full Bright, No Fog, Speed", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Those%20Who%20Remain%20Full%20Bright%20No%20Fog%20Speed.lua")
+
+addscriptexist(1537690962, "Bee Swarm Simulator: Crasher", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Bee%20Swarm%20Simulator%20Crasher.lua")
