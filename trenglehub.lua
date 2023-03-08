@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 12:58:48"
+lastupdate = "GMT +1: 08.03.2023 12:58:52"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -6896,3 +6896,5 @@ addscriptexist(863266079, "Apocalypse Rising 2: Instant Respawn, Instant Reload 
 addscriptexist(286090429, "Arsenal: Overpowered Auto Farm, Kill Everyone In The Server", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Arsenal%20Overpowered%20Auto%20Farm%20Kill%20Everyone%20In%20The%20Server.lua")
 
 addscript(11534222714, "Current Game","Attack On Titan: Freedom War: Auto Kill Titans, Infinite Damage", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Attack%20On%20Titan%20Freedom%20War%20Auto%20Kill%20Titans%20Infinite%20Damage.lua")
+
+addscriptexist(3233893879, "Bad Business: Auto Frag", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Bad%20Business%20Auto%20Frag.lua")
