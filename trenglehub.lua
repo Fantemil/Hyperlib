@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 07:00:10"
+lastupdate = "GMT +1: 08.03.2023 07:00:14"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -5312,3 +5312,5 @@ addhub("Universal X333 Hub: 3+ Games", "pulled from rbxscript.com", "https://raw
 addscript(7026828578, "Current Game","Speed Simulator: Infinite Money", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Speed%20Simulator%20Infinite%20Money.lua")
 
 addscriptexist(286090429, "Theif Simulator: Auto Farm, Auto Buy, Auto Claim Rewards", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Theif%20Simulator%20Auto%20Farm%20Auto%20Buy%20Auto%20Claim%20Rewards.lua")
+
+addscriptuniversal("Universal FE Headless, Korblox & Faces", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20FE%20Headless%20Korblox%20%20Faces.lua")
