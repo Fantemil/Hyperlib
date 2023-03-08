@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 17:10:01"
+lastupdate = "GMT +1: 08.03.2023 17:10:07"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -9728,3 +9728,5 @@ addscriptexist(6516141723, "DOORS: Anti Rush, Inf Jumps & More", "pulled from rb
 addscriptexist(3956818381, "Ninja Legends: Auto Hoops, FPS, Auto Swing", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ninja%20Legends%20Auto%20Hoops%20FPS%20Auto%20Swing.lua")
 
 addscriptexist(1458767429, "ABA: Fastest Candy Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ABA%20Fastest%20Candy%20Farm.lua")
+
+addscriptexist(2622527242, "Scp Rbreach: Hitbox Expander, Infinite Capacity", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Scp%20Rbreach%20Hitbox%20Expander%20Infinite%20Capacity.lua")
