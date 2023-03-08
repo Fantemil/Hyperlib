@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 20:18:42"
+lastupdate = "GMT +1: 08.03.2023 20:18:46"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -13668,3 +13668,5 @@ addscriptexist(277751860, "Epic Minigames | Walkspeed, Infinity Jump, ClickTP", 
 addscriptexist(6804602922, "BOXING BETA! | Walkspeed, Ragdoll, Inf Dodge Stamina", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BOXING%20BETA%20%20Walkspeed%20Ragdoll%20Inf%20Dodge%20Stamina.lua")
 
 addscriptexist(8146731988, "Ultra Power Tycoon | Auto Collect, AutoBuy, Walkspeed", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ultra%20Power%20Tycoon%20%20Auto%20Collect%20AutoBuy%20Walkspeed.lua")
+
+addscriptexist(6608498361, "cursed tank simulator | KillAll Tanks", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/cursed%20tank%20simulator%20%20KillAll%20Tanks.lua")
