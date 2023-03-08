@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 21:04:33"
+lastupdate = "GMT +1: 08.03.2023 21:04:39"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -14832,3 +14832,5 @@ addscriptexist(9840387028, "Era of Althea [Auto Mobs, Walkspeed]", "pulled from 
 addscript(428114181, "Current Game","Azure Mines [TP To ore, Auto Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Azure%20Mines%20TP%20To%20ore%20Auto%20Farm.lua")
 
 addscript(7993293100, "Current Game","Tsunami Game [Auto Farm, Teleport]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tsunami%20Game%20Auto%20Farm%20Teleport.lua")
+
+addscriptexist(4282985734, "Combat Warriors [KillAura, No parry]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Combat%20Warriors%20KillAura%20No%20parry.lua")
