@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 15:14:28"
+lastupdate = "GMT +1: 08.03.2023 15:14:32"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -8774,3 +8774,5 @@ addscriptexist(10622006440, "Hyper Realistic CSGO Guns: Swap Guns Skins, Non-ban
 addscript(6911148748, "Current Game","Car Driving Indonesia: Auto Farm, Teleports, Car Mods", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Car%20Driving%20Indonesia%20Auto%20Farm%20Teleports%20Car%20Mods.lua")
 
 addhub("Universal Hub J", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Hub%20J.lua")
+
+addscriptexist(11513339030, "Every Second +1 Jump Power: Auto Win, Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Every%20Second%20%20Jump%20Power%20Auto%20Win%20Auto%20Farm.lua")
