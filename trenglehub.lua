@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 17:20:21"
+lastupdate = "GMT +1: 08.03.2023 17:20:27"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -9996,3 +9996,5 @@ addscript(8482451541, "Current Game","Brick Defense: Infinity Money", "pulled fr
 addscriptexist(10861112990, "Anime Artifacts Simulator: Press B To Kill Aura", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime%20Artifacts%20Simulator%20Press%20B%20To%20Kill%20Aura.lua")
 
 addscriptexist(10198661638, "Farm Factory Tycoon: Auto Collect, Fly, Auto Buy", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Farm%20Factory%20Tycoon%20Auto%20Collect%20Fly%20Auto%20Buy.lua")
+
+addscriptexist(9848789324, "Ragdoll Engine: Teleports, Break All Cannons", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ragdoll%20Engine%20Teleports%20Break%20All%20Cannons.lua")
