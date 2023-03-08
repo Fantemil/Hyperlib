@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 13:00:19"
+lastupdate = "GMT +1: 08.03.2023 13:00:23"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -6934,3 +6934,5 @@ addscriptuniversal("Universal Sleitnick Service Assist", "pulled from rbxscript.
 addscript(9129288160, "Current Game","Tommy Play: Infinity Jumps, Bring Snowman Head, Hitbox", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tommy%20Play%20Infinity%20Jumps%20Bring%20Snowman%20Head%20Hitbox.lua")
 
 addscript(5307215810, "Current Game","Randomizer: ESP, Infinity Ammo, SIlent AIm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Randomizer%20ESP%20Infinity%20Ammo%20SIlent%20AIm.lua")
+
+addscriptexist(621129760, "KAT: God mode, AimBot, Esp", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/KAT%20God%20mode%20AimBot%20Esp.lua")
