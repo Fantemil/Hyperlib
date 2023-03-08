@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 19:09:04"
+lastupdate = "GMT +1: 08.03.2023 19:09:09"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -12526,3 +12526,5 @@ addscriptexist(8766919349, "Lifting Heros: Auto Lift, Auto Buy, Auto Eggs", "pul
 addscript(10118504428, "Current Game","My Prison: Arrest All, Auto Clean, Auto Fill Tunnel", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/My%20Prison%20Arrest%20All%20Auto%20Clean%20Auto%20Fill%20Tunnel.lua")
 
 addscriptexist(6875469709, "Strongest Punch Simulator: Teleport Speed, Auto Farm, Auto Punch", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Strongest%20Punch%20Simulator%20Teleport%20Speed%20Auto%20Farm%20Auto%20Punch.lua")
+
+addscriptexist(9284097280, "Apartment Tycoon: Auto Collect Cash, Auto Buy Buttons, Anti Afk", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Apartment%20Tycoon%20Auto%20Collect%20Cash%20Auto%20Buy%20Buttons%20Anti%20Afk.lua")
