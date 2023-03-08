@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 19:56:20"
+lastupdate = "GMT +1: 08.03.2023 19:56:24"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -13326,3 +13326,5 @@ addscriptexist(155615604, "Prison Life | Teleports, Gun Modes, Arest", "pulled f
 addscriptexist(2753915549, "Blox Fruits | Auto Farm, Auto Stats, Teleports", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blox%20Fruits%20%20Auto%20Farm%20Auto%20Stats%20Teleports.lua")
 
 addscriptexist(7991339063, "Rainbow Friends | Auto Collect Items, Finish Area Teleport, Walkspeed", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Rainbow%20Friends%20%20Auto%20Collect%20Items%20Finish%20Area%20Teleport%20Walkspeed.lua")
+
+addscriptexist(4997792989, "Homeless Simulator In Russia | Pet Autofarm, Inf Money", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Homeless%20Simulator%20In%20Russia%20%20Pet%20Autofarm%20Inf%20Money.lua")
