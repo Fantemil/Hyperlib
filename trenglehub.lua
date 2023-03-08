@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 07:13:18"
+lastupdate = "GMT +1: 08.03.2023 07:13:22"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -5712,3 +5712,5 @@ addscript(6582467377, "Current Game","Vanity [BETA]: Kill Aura, Bypasses Anti Ch
 addscriptexist(855499080, "SKYWARS: Teleports, Anti Void & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SKYWARS%20Teleports%20Anti%20Void%20%20More.lua")
 
 addscriptexist(10347946161, "Rat Washing Tycoon: Auto Farm, Auto Collect, Auto Obby", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Rat%20Washing%20Tycoon%20Auto%20Farm%20Auto%20Collect%20Auto%20Obby.lua")
+
+addscriptexist(445664957, "Parkour: Bag's ESP", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Parkour%20Bags%20ESP.lua")
