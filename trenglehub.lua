@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 17:21:08"
+lastupdate = "GMT +1: 08.03.2023 17:21:15"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -10016,3 +10016,5 @@ addscriptexist(6717367660, "Happy Land: Infinite Money", "pulled from rbxscript.
 addscriptexist(445664957, "Parkour: Auto Farm Points & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Parkour%20Auto%20Farm%20Points%20%20More.lua")
 
 addscriptexist(606849621, "Jailbreak: Kill Aura", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Jailbreak%20Kill%20Aura.lua")
+
+addscript(9372570969, "Current Game","GRUMPY GRAN: Get Badge", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/GRUMPY%20GRAN%20Get%20Badge.lua")
