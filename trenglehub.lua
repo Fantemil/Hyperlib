@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 17:58:24"
+lastupdate = "GMT +1: 08.03.2023 17:58:28"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -10958,3 +10958,5 @@ addscriptexist(8908228901, "SharkBite 2: Kill Aura, Freeze All, Teeth Generator"
 addscriptexist(1962086868, "Tower of Hell: Anti Cheat Bypass, Wall Remover", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tower%20of%20Hell%20Anti%20Cheat%20Bypass%20Wall%20Remover.lua")
 
 addscriptexist(9598746251, "Home Run Simulator: Auto Home Run, Auto rebirth, Auto Speed", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Home%20Run%20Simulator%20Auto%20Home%20Run%20Auto%20rebirth%20Auto%20Speed.lua")
+
+addscript(10912060909, "Current Game","Black Adam Experience: Get All Items, Bolts & Complete The Game", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Black%20Adam%20Experience%20Get%20All%20Items%20Bolts%20%20Complete%20The%20Game.lua")
