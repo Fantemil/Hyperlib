@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 16:45:07"
+lastupdate = "GMT +1: 08.03.2023 16:45:11"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -9100,3 +9100,5 @@ addscriptexist(5911084042, "Specter: Auto Collect, ESP, Teleports", "pulled from
 addscriptexist(6403373529, "Slap Battles: Player Freeze Script", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Slap%20Battles%20Player%20Freeze%20Script.lua")
 
 addscriptexist(6284583030, "Pet Simulator X: Auto Farm, Auto Pets & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pet%20Simulator%20X%20Auto%20Farm%20Auto%20Pets%20%20More.lua")
+
+addscriptexist(11346342371, "making memes in your basement at 3 AM tycoon:Auto Sell, Auto Upload, Auto Collect", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/making%20memes%20in%20your%20basement%20at%20%20AM%20tycoonAuto%20Sell%20Auto%20Upload%20Auto%20Collect.lua")
