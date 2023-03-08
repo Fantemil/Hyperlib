@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 18:32:53"
+lastupdate = "GMT +1: 08.03.2023 18:33:00"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -11772,3 +11772,5 @@ addscriptexist(5917852358, "Find the codes: Warn All", "pulled from rbxscript.co
 addscriptexist(9486506804, "FIFA World: Ugc Scavenger Hunt", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FIFA%20World%20Ugc%20Scavenger%20Hunt.lua")
 
 addscriptexist(5917852358, "Find the codes: Kill All Sniper Only", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Find%20the%20codes%20Kill%20All%20Sniper%20Only.lua")
+
+addscriptexist(5917852358, "Find the codes: Silent Aim", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Find%20the%20codes%20Silent%20Aim.lua")
