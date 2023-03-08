@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 16:50:35"
+lastupdate = "GMT +1: 08.03.2023 16:50:40"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -9236,3 +9236,5 @@ addscriptexist(9551640993, "Mining Simulator 2: Auto Trick Or Treat, Auto Sell, 
 addscriptexist(3956818381, "Ninja Legends: Auto Buy Shurikens, Unlock All Worlds, Auto Rebirth", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ninja%20Legends%20Auto%20Buy%20Shurikens%20Unlock%20All%20Worlds%20Auto%20Rebirth.lua")
 
 addscriptexist(9498006165, "Tapping Simulator: Open Frames, Auto Tap, Jump power", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tapping%20Simulator%20Open%20Frames%20Auto%20Tap%20Jump%20power.lua")
+
+addscriptexist(5956785391, "Project Slayers: Old Server Finder", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Project%20Slayers%20Old%20Server%20Finder.lua")
