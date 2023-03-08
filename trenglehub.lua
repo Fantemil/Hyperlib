@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 16:42:42"
+lastupdate = "GMT +1: 08.03.2023 16:42:46"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -9042,3 +9042,5 @@ addscript(8365905206, "Current Game","untitled tag game: Auto Tag, Hitboxes, Wal
 addscriptexist(10224689615, "Money Clicker Simulator: Gamepass, Trade Spam,Fast Money Clicker", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Money%20Clicker%20Simulator%20Gamepass%20Trade%20SpamFast%20Money%20Clicker.lua")
 
 addscriptexist(2768379856, "3008: Esp, FullBirght, No fall damage", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/%20Esp%20FullBirght%20No%20fall%20damage.lua")
+
+addscriptexist(6403373529, "Slap Battles: Anti Ragdoll", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Slap%20Battles%20Anti%20Ragdoll.lua")
