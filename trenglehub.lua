@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 17:59:25"
+lastupdate = "GMT +1: 08.03.2023 17:59:29"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -10984,3 +10984,5 @@ addscriptexist(4566572536, "Vehicle Legends: WalkSpeed, Tp, Drive on Water", "pu
 addscriptexist(4188447592, "Cat Simulator: Auto Farm & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Cat%20Simulator%20Auto%20Farm%20%20More.lua")
 
 addscriptexist(1962086868, "Tower of Hell: God Mode, Walkspeed, Go To End", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tower%20of%20Hell%20God%20Mode%20Walkspeed%20Go%20To%20End.lua")
+
+addscriptexist(10298335542, "Basketball Stars 2: AimBot", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Basketball%20Stars%20%20AimBot.lua")
