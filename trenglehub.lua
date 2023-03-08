@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 20:40:42"
+lastupdate = "GMT +1: 08.03.2023 20:40:46"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -14246,3 +14246,5 @@ addscriptexist(7050008107, "Hospital Tycoon [Collect Cash, Buy Buttons]", "pulle
 addscriptexist(8146731988, "Ultra Power Tycoon [Power, Grab All items]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ultra%20Power%20Tycoon%20Power%20Grab%20All%20items.lua")
 
 addscript(7860844204, "Current Game","Life Sentence [KillAura, ItemFarm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Life%20Sentence%20KillAura%20ItemFarm.lua")
+
+addscript(10117551326, "Current Game","UTBM (Dustpreme Hall drip) [God Mode]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/UTBM%20Dustpreme%20Hall%20drip%20God%20Mode.lua")
