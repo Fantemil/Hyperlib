@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 07:11:25"
+lastupdate = "GMT +1: 08.03.2023 07:11:29"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -5654,3 +5654,5 @@ addscript(11550488312, "Current Game","Destroy and Conquer: Auto reload, Aimbot,
 addscriptexist(71315343, "Dragon Ball Rage: Auto Charge, Train Agility, Auto Zenkai", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Dragon%20Ball%20Rage%20Auto%20Charge%20Train%20Agility%20Auto%20Zenkai.lua")
 
 addhub("L HUB: 5+ Games", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/L%20HUB%20%20Games.lua")
+
+addscriptexist(2788229376, "Da Hood: Silent AIm, Aimlock & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Da%20Hood%20Silent%20AIm%20Aimlock%20%20More.lua")
