@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 19:51:27"
+lastupdate = "GMT +1: 08.03.2023 19:51:32"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -13222,3 +13222,5 @@ addscriptexist(13822889, "Lumber Tycoon 2 | Walkspeed, Noclip, Anti afk", "pulle
 addscriptexist(10531659515, "Shovel Battles | AutoFarm, Auto Kill All, Break All Players", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Shovel%20Battles%20%20AutoFarm%20Auto%20Kill%20All%20Break%20All%20Players.lua")
 
 addscriptexist(662417684, "Lucky Block Battlegrounds | Block Giver", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Lucky%20Block%20Battlegrounds%20%20Block%20Giver.lua")
+
+addscript(180364455, "Current Game","Survive The Disasters 2 | Anticheat bypass", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Survive%20The%20Disasters%20%20%20Anticheat%20bypass.lua")
