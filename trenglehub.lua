@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 14:53:13"
+lastupdate = "GMT +1: 08.03.2023 14:53:17"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -8204,3 +8204,5 @@ addscriptexist(5130598377, "A Universal Time: Meteor Farm, Chest Farm, Auto Farm
 addscriptexist(8750997647, "Tapping Legends X: Auto Rebirth, Walkspeed Slider, Auto Hatch", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tapping%20Legends%20X%20Auto%20Rebirth%20Walkspeed%20Slider%20Auto%20Hatch.lua")
 
 addscriptexist(3823781113, "Saber Simulator: Auto Farm Golems, Auto Farm Flags, Player Mods", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Saber%20Simulator%20Auto%20Farm%20Golems%20Auto%20Farm%20Flags%20Player%20Mods.lua")
+
+addscriptexist(3587619225, "Mega Easy Obby: Server Hop, Unlock All Pets, Unlock Gamepasses", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mega%20Easy%20Obby%20Server%20Hop%20Unlock%20All%20Pets%20Unlock%20Gamepasses.lua")
