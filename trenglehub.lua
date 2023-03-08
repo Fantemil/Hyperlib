@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 14:25:52"
+lastupdate = "GMT +1: 08.03.2023 14:25:55"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -7480,3 +7480,5 @@ addscriptuniversal("MultXi: Many Games Support", "pulled from rbxscript.com", "h
 addscriptexist(9798463281, "Cube Combination: Infinite Pickup Reach", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Cube%20Combination%20Infinite%20Pickup%20Reach.lua")
 
 addscriptexist(11449238237, "Billionaire Empire! Auto Click, Auto Collect, Auto Arrest Monkeys", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Billionaire%20Empire%20Auto%20Click%20Auto%20Collect%20Auto%20Arrest%20Monkeys.lua")
+
+addscriptexist(155615604, "Prison Life: Get All Items, Auto Fire, Teleports", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Prison%20Life%20Get%20All%20Items%20Auto%20Fire%20Teleports.lua")
