@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 17:46:09"
+lastupdate = "GMT +1: 08.03.2023 17:46:18"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -10652,3 +10652,5 @@ addscriptexist(6516141723, "DOORS: Spawn Rick Astley", "pulled from rbxscript.co
 addscriptexist(2753915549, "Blox Fruits: Auto Farm, Teleports & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blox%20Fruits%20Auto%20Farm%20Teleports%20%20More.lua")
 
 addscriptexist(306964494, "Loomian Legacy: Auto Disc Drop, Auto Heal & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Loomian%20Legacy%20Auto%20Disc%20Drop%20Auto%20Heal%20%20More.lua")
+
+addscriptexist(2788229376, "Da Hood: God Mode, Auto Farm, Anti Aim & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Da%20Hood%20God%20Mode%20Auto%20Farm%20Anti%20Aim%20%20More.lua")
