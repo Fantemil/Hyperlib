@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 16:53:45"
+lastupdate = "GMT +1: 08.03.2023 16:53:50"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -9314,3 +9314,5 @@ addscriptexist(10925589760, "Merge Simulator: Auto Merge, Auto Upgrade, Auto Tap
 addscriptexist(11227688003, "Roblox But You Get Smarter Every Second: Auto Collect Gems", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Roblox%20But%20You%20Get%20Smarter%20Every%20Second%20Auto%20Collect%20Gems.lua")
 
 addscriptexist(4520749081, "King Legacy: Auto Farm, Devil Fruit ESP, Devil Fruit Sniper", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/King%20Legacy%20Auto%20Farm%20Devil%20Fruit%20ESP%20Devil%20Fruit%20Sniper.lua")
+
+addscriptexist(5956785391, "Project Slayers: Infinity Stamina, Auto Farm, Teleports", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Project%20Slayers%20Infinity%20Stamina%20Auto%20Farm%20Teleports.lua")
