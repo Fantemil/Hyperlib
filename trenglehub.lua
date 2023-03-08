@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 20:43:48"
+lastupdate = "GMT +1: 08.03.2023 20:43:52"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -14322,3 +14322,5 @@ addscriptexist(3956818381, "Ninja Legends [AutoFarm, AutoCrystals]", "pulled fro
 addscriptexist(4951858512, "Victory Race [Anti Lag, AutoWin]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Victory%20Race%20Anti%20Lag%20AutoWin.lua")
 
 addscriptexist(4042427666, "Anime Fighting Simulator [Inf Yen and Chikara]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime%20Fighting%20Simulator%20Inf%20Yen%20and%20Chikara.lua")
+
+addscriptexist(537413528, "Build A Boat For Treasure [AutoFarm, Auto Open Chest]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Build%20A%20Boat%20For%20Treasure%20AutoFarm%20Auto%20Open%20Chest.lua")
