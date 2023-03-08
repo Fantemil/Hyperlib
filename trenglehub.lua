@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 17:08:52"
+lastupdate = "GMT +1: 08.03.2023 17:08:56"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -9698,3 +9698,5 @@ addscriptexist(2377868063, "Strucid: Crash Server", "pulled from rbxscript.com",
 addscript(9382557519, "Current Game","Fat Race Clicker: Auto Farm, Auto Hatch, Auto Click", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Fat%20Race%20Clicker%20Auto%20Farm%20Auto%20Hatch%20Auto%20Click.lua")
 
 addscriptexist(9880062154, "Decaying Winter: The Last Strandeds: Call people french or sound play", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Decaying%20Winter%20The%20Last%20Strandeds%20Call%20people%20french%20or%20sound%20play.lua")
+
+addscriptexist(5956785391, "Project Slayers: Auto Farm Second World", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Project%20Slayers%20Auto%20Farm%20Second%20World.lua")
