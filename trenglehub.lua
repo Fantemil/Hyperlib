@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 06:39:30"
+lastupdate = "GMT +1: 08.03.2023 06:39:33"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -4676,3 +4676,5 @@ addscriptexist(1537690962, "Bee Swarm Simulator: Crasher", "pulled from rbxscrip
 addscriptexist(286090429, "Arsenal: Press E to Kill All", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Arsenal%20Press%20E%20to%20Kill%20All.lua")
 
 addscriptexist(286090429, "Arsenal: Aimbot, Silent Aim, Godmode", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Arsenal%20Aimbot%20Silent%20Aim%20Godmode.lua")
+
+addscriptexist(4913581664, "Cart Ride Into Rtide: Fling, Invisible, Rejoin", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Cart%20Ride%20Into%20Rtide%20Fling%20Invisible%20Rejoin.lua")
