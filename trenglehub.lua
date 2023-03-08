@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 12:28:33"
+lastupdate = "GMT +1: 08.03.2023 12:28:37"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -6088,3 +6088,5 @@ addscriptuniversal("Universal Animation Spy v1", "pulled from rbxscript.com", "h
 addscriptexist(1458767429, "ABA: Fastest Afk Auto Farm, Server Hop", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ABA%20Fastest%20Afk%20Auto%20Farm%20Server%20Hop.lua")
 
 addscriptexist(6284583030, "Pet Simulator X: FPS Lock, Rejoin, Enable Rendering", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pet%20Simulator%20X%20FPS%20Lock%20Rejoin%20Enable%20Rendering.lua")
+
+addscriptexist(10598587051, "Anime Clicker Fight: Auto Run, Auto Dash, Auto Buy Eggs", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime%20Clicker%20Fight%20Auto%20Run%20Auto%20Dash%20Auto%20Buy%20Eggs.lua")
