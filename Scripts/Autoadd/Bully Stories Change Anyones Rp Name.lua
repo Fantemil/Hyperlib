@@ -1,0 +1,1 @@
+game.Players["PlayerName"].Character:FindFirstChildOfClass("Model").ServerHandler:FireServer([[new nickname]])
