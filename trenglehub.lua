@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 20:45:48"
+lastupdate = "GMT +1: 08.03.2023 20:45:53"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -14370,3 +14370,5 @@ addscript(10201298018, "Current Game","Vampire Hunters 2 Remake [Gun grab, Outfi
 addscriptexist(9585537847, "SHADOVIS RPG [AutoRebrith, Open Shop]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SHADOVIS%20RPG%20AutoRebrith%20Open%20Shop.lua")
 
 addhub("Roblox [Celestial Hub]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Roblox%20Celestial%20Hub.lua")
+
+addscriptexist(2537430692, "Jenga [Win, Remove Jengas, Remove Kill Brick]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Jenga%20Win%20Remove%20Jengas%20Remove%20Kill%20Brick.lua")
