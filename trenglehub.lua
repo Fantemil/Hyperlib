@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 12:20:47"
+lastupdate = "GMT +1: 08.03.2023 12:20:51"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -5884,3 +5884,5 @@ addscriptexist(6422372837, "Snipers: Silent Aim, No Shoot Cooldown", "pulled fro
 addscriptexist(6679968919, "Fly Race: Semi-Auto Farm, Auto Farm, Auto Collect Orbs.", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Fly%20Race%20SemiAuto%20Farm%20Auto%20Farm%20Auto%20Collect%20Orbs.lua")
 
 addscript(270499015, "Current Game","Sandhurst Military Academy: Anti Cheat Bypasses, Free Gun, Hitbox Extender", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sandhurst%20Military%20Academy%20Anti%20Cheat%20Bypasses%20Free%20Gun%20Hitbox%20Extender.lua")
+
+addhub("KylnDantas Hub: 5+ Games", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/KylnDantas%20Hub%20%20Games.lua")
