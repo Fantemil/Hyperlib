@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 12:29:51"
+lastupdate = "GMT +1: 08.03.2023 12:29:55"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -6124,3 +6124,5 @@ addscriptuniversal("Universal FE Kill Closet Player", "pulled from rbxscript.com
 addscript(4811576324, "Current Game","Totally Accurate Gun Simulator: Rapid Fire, Silent Aim", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Totally%20Accurate%20Gun%20Simulator%20Rapid%20Fire%20Silent%20Aim.lua")
 
 addscriptexist(662417684, "LUCKY BLOCKS Battlegrounds: Kill all, Kill Aura, Open all blocks", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LUCKY%20BLOCKS%20Battlegrounds%20Kill%20all%20Kill%20Aura%20Open%20all%20blocks.lua")
+
+addscript(11238892040, "Current Game","Type or Die: Bypass Copy/Paste anti Cheat, Auto Answer", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Type%20or%20Die%20Bypass%20CopyPaste%20anti%20Cheat%20Auto%20Answer.lua")
