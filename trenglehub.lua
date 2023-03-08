@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 19:05:11"
+lastupdate = "GMT +1: 08.03.2023 19:05:17"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -12440,3 +12440,5 @@ addscriptexist(10277607801, "Apeirophobia: No Fog, Infinite Stamina & More", "pu
 addscript(8811446235, "Current Game","FORTBLOX: Silent Aim, ESP, Fov", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FORTBLOX%20Silent%20Aim%20ESP%20Fov.lua")
 
 addscriptexist(2753915549, "Blox Fruits: Auto Farm Level, Kill All, Teleports & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blox%20Fruits%20Auto%20Farm%20Level%20Kill%20All%20Teleports%20%20More.lua")
+
+addscriptexist(10260193230, "Meme Sea: Auto Farming, Auto Quest", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Meme%20Sea%20Auto%20Farming%20Auto%20Quest.lua")
