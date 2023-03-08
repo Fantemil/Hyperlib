@@ -1,1 +1,3 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/TrixAde/Proxima-Hub/main/Main.lua"))()
+-- Join the discord for a free key! https://discord.gg/robloxcheats
+
+loadstring(game:HttpGet('http://galaxy-hub.gay/whitelist'))()
