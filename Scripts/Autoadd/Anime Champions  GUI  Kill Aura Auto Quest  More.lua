@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://gist.githubusercontent.com/26eldrpau/acca093feb7feab66de8200e5c7d4808/raw/743ad6b4038ea01a5930194bba055021daa7ec2b/balloon%2520hub%2520anime%2520champions"))()
