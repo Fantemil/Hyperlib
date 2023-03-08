@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 07:17:27"
+lastupdate = "GMT +1: 08.03.2023 07:17:30"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -5840,3 +5840,5 @@ addscriptexist(4872321990, "Islands: Auto Kill, Auto Farm & more", "pulled from 
 addscriptexist(192800, "Work at a Pizza Place: Ovens spam and others", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Work%20at%20a%20Pizza%20Place%20Ovens%20spam%20and%20others.lua")
 
 addscriptuniversal("Universal R15 part controller", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20R%20part%20controller.lua")
+
+addscriptexist(7655745946, "Dunking Simulator: Perfect Accuracy, Auto Farm, Unlock Gamepasses", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Dunking%20Simulator%20Perfect%20Accuracy%20Auto%20Farm%20Unlock%20Gamepasses.lua")
