@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 13:20:30"
+lastupdate = "GMT +1: 08.03.2023 14:25:01"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -7458,3 +7458,5 @@ addscriptexist(155615604, "Prison life: Invisible Gu, Get All guns, Remove All D
 addscriptexist(6447798030, "Funky Friday: Auto Play, Auto Collect Rings, Delay mode", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Funky%20Friday%20Auto%20Play%20Auto%20Collect%20Rings%20Delay%20mode.lua")
 
 addscriptexist(6447798030, "Funky Friday: Points Farm, WinStreak Farm Left, WinStreak Farm Right", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Funky%20Friday%20Points%20Farm%20WinStreak%20Farm%20Left%20WinStreak%20Farm%20Right.lua")
+
+addscriptexist(4787647409, "Blacksite Zeta: Gun Mods, Teleports, Fly Speed", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blacksite%20Zeta%20Gun%20Mods%20Teleports%20Fly%20Speed.lua")
