@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 20:36:12"
+lastupdate = "GMT +1: 08.03.2023 20:36:16"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -14130,3 +14130,5 @@ addscriptexist(8750997647, "Tapping Legends X [AutoEggs, AutoRebirth]", "pulled 
 addscript(7453798168, "Current Game","YouTube Simulator X [AutoCandy, AutoClick]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/YouTube%20Simulator%20X%20AutoCandy%20AutoClick.lua")
 
 addscriptexist(3823781113, "Saber Simulator [AutoSwing, AutoBuy]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Saber%20Simulator%20AutoSwing%20AutoBuy.lua")
+
+addscriptexist(2788229376, "Da Hood [Silent Aim, Fly, WalkSpeed]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Da%20Hood%20Silent%20Aim%20Fly%20WalkSpeed.lua")
