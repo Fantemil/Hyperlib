@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 16:35:54"
+lastupdate = "GMT +1: 08.03.2023 16:35:58"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -8874,3 +8874,5 @@ addscriptexist(9772878203, "Raise A Floppa 2: Auto Click Floppa, Auto Collect Ca
 addscriptexist(5602055394, "Hood Modded: Press Q to Pink Hitboxes", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Hood%20Modded%20Press%20Q%20to%20Pink%20Hitboxes.lua")
 
 addscriptexist(6751371363, "Hood Duels: Aim Lock, Silent Aim", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Hood%20Duels%20Aim%20Lock%20Silent%20Aim.lua")
+
+addscriptexist(1962086868, "Tower Of Hell: Auto Buy, Bunny Hop & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tower%20Of%20Hell%20Auto%20Buy%20Bunny%20Hop%20%20More.lua")
