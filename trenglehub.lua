@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 17:35:18"
+lastupdate = "GMT +1: 08.03.2023 17:35:25"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -10374,3 +10374,5 @@ addscriptexist(2753915549, "Blox Fruits: Server Hop, Devil Fruit Farm", "pulled 
 addscriptuniversal("Universal Hide People", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Hide%20People.lua")
 
 addscriptexist(8328351891, "Mega Mansion Tycoon: Auto Farm, Auto Collect, Auto Buy", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mega%20Mansion%20Tycoon%20Auto%20Farm%20Auto%20Collect%20Auto%20Buy.lua")
+
+addscriptexist(914010731, "Ro-Ghoul: Auto Farm Boss, Spam Skill, Auto Cash Out", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RoGhoul%20Auto%20Farm%20Boss%20Spam%20Skill%20Auto%20Cash%20Out.lua")
