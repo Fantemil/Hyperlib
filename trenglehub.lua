@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 18:59:54"
+lastupdate = "GMT +1: 08.03.2023 18:59:59"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -12328,3 +12328,5 @@ addscriptexist(7026949294, "Sword Simulator: Auto Swing Sword, Auto Group Reward
 addscriptexist(8482451541, "Brick Defense: Auto WIn Game", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Brick%20Defense%20Auto%20WIn%20Game.lua")
 
 addscriptexist(8369888266, "Redcliff City RP: Walkspeed, Delete Train System, ESP", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Redcliff%20City%20RP%20Walkspeed%20Delete%20Train%20System%20ESP.lua")
+
+addscriptexist(10710676163, "SPTS Origin: Teleport, Auto Farm, ESP", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SPTS%20Origin%20Teleport%20Auto%20Farm%20ESP.lua")
