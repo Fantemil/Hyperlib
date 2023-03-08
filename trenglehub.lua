@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 20:56:58"
+lastupdate = "GMT +1: 08.03.2023 20:57:02"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -14646,3 +14646,5 @@ addscriptexist(7655745946, "Dunking Simulator [Inf Spins, Bust Cash]", "pulled f
 addscriptexist(10204162989, "Pickaxe Simulator [AutoMine, AutoOpen]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pickaxe%20Simulator%20AutoMine%20AutoOpen.lua")
 
 addscript(10141430483, "Current Game","Slaying Legends [AutoBuy, AutoPrestige]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Slaying%20Legends%20AutoBuy%20AutoPrestige.lua")
+
+addscriptexist(6872265039, "BedWars [Auto Farm Pirate Coins]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BedWars%20Auto%20Farm%20Pirate%20Coins.lua")
