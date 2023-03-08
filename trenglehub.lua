@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 14:43:50"
+lastupdate = "GMT +1: 08.03.2023 14:43:55"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -7954,3 +7954,5 @@ addscriptexist(9264596435, "Idle Heroes Simulator! Auto Claim Daily Chest, Auto 
 addscriptexist(5956785391, "Project Slayers: Noclip, Infinity Jumps, Player ESP", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Project%20Slayers%20Noclip%20Infinity%20Jumps%20Player%20ESP.lua")
 
 addscript(10424315298, "Current Game","Country Collectors: Auto Farm Wins", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Country%20Collectors%20Auto%20Farm%20Wins.lua")
+
+addscriptexist(10424315298, "Country Collectors: Infinite Money", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Country%20Collectors%20Infinite%20Money.lua")
