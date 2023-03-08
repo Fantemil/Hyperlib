@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 19:16:45"
+lastupdate = "GMT +1: 08.03.2023 19:16:50"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -12688,3 +12688,5 @@ addscriptexist(9872472334, "Evade: Fullbright, Crash Server, Walkspeed", "pulled
 addscriptexist(537413528, "Build A Boat For Treasure: Walkspeed, Auto Farm, Auto Chest", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Build%20A%20Boat%20For%20Treasure%20Walkspeed%20Auto%20Farm%20Auto%20Chest.lua")
 
 addscript(9980179145, "Current Game","Speed Race Clicker: Auto Farm, Auto Rebirth, Auto Eggs", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Speed%20Race%20Clicker%20Auto%20Farm%20Auto%20Rebirth%20Auto%20Eggs.lua")
+
+addscriptexist(9898710720, "Money Tycoon: Auto Buy, Auto Collect, Walkspeed", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Money%20Tycoon%20Auto%20Buy%20Auto%20Collect%20Walkspeed.lua")
