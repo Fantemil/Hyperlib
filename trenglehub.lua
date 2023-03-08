@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 16:43:21"
+lastupdate = "GMT +1: 08.03.2023 16:43:28"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -9060,3 +9060,5 @@ addscriptexist(11459646568, "How Far Can You Backflip: Auto Rebirth, Infinity Mo
 addscriptexist(2788229376, "Da Hood: Fake Lag, Fly & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Da%20Hood%20Fake%20Lag%20Fly%20%20More.lua")
 
 addscript(10594623896, "Current Game","Master Punching Simulator: Auto Click, Auto Attack, Auto Hatch", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Master%20Punching%20Simulator%20Auto%20Click%20Auto%20Attack%20Auto%20Hatch.lua")
+
+addscriptexist(9498006165, "Tapping Simulator: Auto Click, Auto Buy, Auto Hatch", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tapping%20Simulator%20Auto%20Click%20Auto%20Buy%20Auto%20Hatch.lua")
