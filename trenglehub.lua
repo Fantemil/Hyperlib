@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 06:25:45"
+lastupdate = "GMT +1: 08.03.2023 06:25:48"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -4590,3 +4590,5 @@ addscriptexist(537413528, "Build A Boat For Treasure: Click TP, Auto Farm & More
 addscript(8712817601, "Current Game","BARRY'S PRISON RUN: Infinity Jump, Jumppower, Walkspeed", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BARRYS%20PRISON%20RUN%20Infinity%20Jump%20Jumppower%20Walkspeed.lua")
 
 addscriptuniversal("Universal M3Q: Click TP, Optimization & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20MQ%20Click%20TP%20Optimization%20%20More.lua")
+
+addscriptexist(9872472334, "Evade: Fullbright, No Camera Shake, Esp", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Evade%20Fullbright%20No%20Camera%20Shake%20Esp.lua")
