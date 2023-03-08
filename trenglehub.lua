@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 14:50:51"
+lastupdate = "GMT +1: 08.03.2023 14:50:56"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -8144,3 +8144,5 @@ addscript(11298615665, "Current Game","+1 Speed Every Second: Auto Farm, Anti Af
 addscriptexist(5036207802, "RB Battles! Unlimited Coins", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RB%20Battles%20Unlimited%20Coins.lua")
 
 addscriptexist(4282985734, "Combat Warriors: Kill Aura, Auto Equip, Stomp Aura", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Combat%20Warriors%20Kill%20Aura%20Auto%20Equip%20Stomp%20Aura.lua")
+
+addscriptexist(292439477, "Phantom Forces: Silent Aim, No recoil, Gun Mods", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Phantom%20Forces%20Silent%20Aim%20No%20recoil%20Gun%20Mods.lua")
