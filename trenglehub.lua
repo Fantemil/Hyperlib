@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 07:18:09"
+lastupdate = "GMT +1: 08.03.2023 07:18:12"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -5862,3 +5862,5 @@ addscriptexist(4282985734, "Combat Warriors: Kill Aura, Teleports, Walk Speed", 
 addscriptexist(11729688377, "Booga Booga [REBORN]: Auto Heal, Kill Aura, Pickup Aura", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Booga%20Booga%20REBORN%20Auto%20Heal%20Kill%20Aura%20Pickup%20Aura.lua")
 
 addscriptexist(2248408710, "Destruction Simulator: Max Level, Infinity Money, No Cooldown", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Destruction%20Simulator%20Max%20Level%20Infinity%20Money%20No%20Cooldown.lua")
+
+addscriptexist(3623096087, "Muscle Legends: Auto Rebirth, Auto Strength, Safe Place", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Muscle%20Legends%20Auto%20Rebirth%20Auto%20Strength%20Safe%20Place.lua")
