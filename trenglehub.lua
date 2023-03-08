@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 20:13:51"
+lastupdate = "GMT +1: 08.03.2023 20:13:56"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -13542,3 +13542,5 @@ addscriptexist(286090429, "Arsenal | Hitbox Expander, ESP", "pulled from rbxscri
 addscriptexist(155615604, "Prison Life | Btools, Fly, Walkspeed", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Prison%20Life%20%20Btools%20Fly%20Walkspeed.lua")
 
 addscriptexist(142823291, "Murder Mystery 2 | KillAll, KillSheriff, GodMode, Silent Aim", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Murder%20Mystery%20%20%20KillAll%20KillSheriff%20GodMode%20Silent%20Aim.lua")
+
+addscriptexist(8674186618, "Crate Opening Incremental | Auto Rebirth, Auto open all cases, Universal Features", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Crate%20Opening%20Incremental%20%20Auto%20Rebirth%20Auto%20open%20all%20cases%20Universal%20Features.lua")
