@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 14:28:18"
+lastupdate = "GMT +1: 08.03.2023 14:28:22"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -7544,3 +7544,5 @@ addscriptexist(5041144419, "SCP: Roleplay: Give you Rapid Fire", "pulled from rb
 addscriptuniversal("Universal Admin Commands Bar", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Admin%20Commands%20Bar.lua")
 
 addscriptuniversal("Promise Library", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Promise%20Library.lua")
+
+addscriptexist(8657766101, "Marvellous Playground: Get All Characters for Free Even Unreleased Ones", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Marvellous%20Playground%20Get%20All%20Characters%20for%20Free%20Even%20Unreleased%20Ones.lua")
