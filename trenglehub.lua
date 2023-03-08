@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 18:26:05"
+lastupdate = "GMT +1: 08.03.2023 18:26:09"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -11638,3 +11638,5 @@ addscriptuniversal("Universal Steal Website Bodies With Script", "pulled from rb
 addscriptuniversal("Universa Script GUI", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universa%20Script%20GUI.lua")
 
 addscriptuniversal("Universal FPS Counter", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20FPS%20Counter.lua")
+
+addscriptuniversal("Universal Small Character FE", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Small%20Character%20FE.lua")
