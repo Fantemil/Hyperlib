@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 17:32:58"
+lastupdate = "GMT +1: 08.03.2023 17:33:02"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -10318,3 +10318,5 @@ addscriptexist(443406476, "Project Lazarus: Inf Ammo", "pulled from rbxscript.co
 addscriptexist(7560156054, "Clicker Simulator: Pumpkin Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Clicker%20Simulator%20Pumpkin%20Farm.lua")
 
 addscriptexist(11346342371, "making memes in your basement at 3 AM tycoon: AutoFarm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/making%20memes%20in%20your%20basement%20at%20%20AM%20tycoon%20AutoFarm.lua")
+
+addscriptexist(10726371567, "Find The Simpsons: Auto Farm Simpsons", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Find%20The%20Simpsons%20Auto%20Farm%20Simpsons.lua")
