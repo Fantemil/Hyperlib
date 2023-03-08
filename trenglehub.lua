@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 15:13:37"
+lastupdate = "GMT +1: 08.03.2023 15:13:41"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -8750,3 +8750,5 @@ addscriptuniversal("Universal Zombie Run", "pulled from rbxscript.com", "https:/
 addscriptexist(5956785391, "Project Slayers: Auto Kill Mobs, Auto Farm Mobs, Auto Loot Chests", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Project%20Slayers%20Auto%20Kill%20Mobs%20Auto%20Farm%20Mobs%20Auto%20Loot%20Chests.lua")
 
 addscriptexist(1537690962, "Bee Swarm Simulator: Auto Quests, Auto Dispenser, Teleports", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Bee%20Swarm%20Simulator%20Auto%20Quests%20Auto%20Dispenser%20Teleports.lua")
+
+addscriptexist(2809202155, "Your Bizarre Adventure: Lucky Arrow Server Hop", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Your%20Bizarre%20Adventure%20Lucky%20Arrow%20Server%20Hop.lua")
