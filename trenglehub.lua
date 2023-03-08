@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 19:09:27"
+lastupdate = "GMT +1: 08.03.2023 19:09:34"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -12532,3 +12532,5 @@ addscriptexist(9284097280, "Apartment Tycoon: Auto Collect Cash, Auto Buy Button
 addscriptexist(10675066724, "Slime Tower Tycoon: Auto Merge, Auto Collect, Auto Deposit", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Slime%20Tower%20Tycoon%20Auto%20Merge%20Auto%20Collect%20Auto%20Deposit.lua")
 
 addscript(4751054607, "Current Game","Sneezing Simulator: Auto Farm, Auto Upgrades, Auto Bonus", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sneezing%20Simulator%20Auto%20Farm%20Auto%20Upgrades%20Auto%20Bonus.lua")
+
+addscriptexist(8438158667, "Slide House Tumble: Teleport To End, Destroy Ramps, Show Ramps", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Slide%20House%20Tumble%20Teleport%20To%20End%20Destroy%20Ramps%20Show%20Ramps.lua")
