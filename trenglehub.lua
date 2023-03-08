@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 17:29:19"
+lastupdate = "GMT +1: 08.03.2023 17:29:25"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -10228,3 +10228,5 @@ addscriptuniversal("Universal Get all the free emotes", "pulled from rbxscript.c
 addscriptexist(5346891762, "Bridge Worm: Admin Rank Giver", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Bridge%20Worm%20Admin%20Rank%20Giver.lua")
 
 addscriptexist(5865858426, "Retail Tycoon 2: Pumpkin Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Retail%20Tycoon%20%20Pumpkin%20Auto%20Farm.lua")
+
+addscript(5732301513, "Current Game","TRENCHES: Kill All", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TRENCHES%20Kill%20All.lua")
