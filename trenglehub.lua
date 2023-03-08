@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 07:12:38"
+lastupdate = "GMT +1: 08.03.2023 07:12:42"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -5692,3 +5692,5 @@ addscriptexist(7239319209, "Ohio: Auto Rob Bank", "pulled from rbxscript.com", "
 addscriptexist(11599913094, "Nuke Simulator!: Auto Activate Boosts & More!", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Nuke%20Simulator%20Auto%20Activate%20Boosts%20%20More.lua")
 
 addscriptexist(292439477, "Phantom Forces: Silent Aim, Auto Wall, Auto Shoot", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Phantom%20Forces%20Silent%20Aim%20Auto%20Wall%20Auto%20Shoot.lua")
+
+addscript(10851599, "Current Game","Roblox Talent Show: Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Roblox%20Talent%20Show%20Auto%20Farm.lua")
