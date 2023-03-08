@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 12:44:56"
+lastupdate = "GMT +1: 08.03.2023 12:45:00"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -6546,3 +6546,5 @@ addscriptexist(142823291, "Murder Mystery 2: Auto Farm, Godmode, Kill", "pulled 
 addscript(4793176968, "Current Game","Mano County Police Patrol: Kill All", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mano%20County%20Police%20Patrol%20Kill%20All.lua")
 
 addscript(10021291734, "Current Game","Crop Farming Incremental: Auto Plant, Auto Harvest, Buy Seeds", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Crop%20Farming%20Incremental%20Auto%20Plant%20Auto%20Harvest%20Buy%20Seeds.lua")
+
+addscriptexist(8884334497, "Mining Clicker Simulator: Auto Click, Auto Rebirth & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mining%20Clicker%20Simulator%20Auto%20Click%20Auto%20Rebirth%20%20More.lua")
