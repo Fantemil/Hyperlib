@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 07:06:58"
+lastupdate = "GMT +1: 08.03.2023 07:07:03"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -5518,3 +5518,5 @@ addscriptuniversal("Real King Community: 5+ Games", "pulled from rbxscript.com",
 addscriptexist(9772878203, "raise a floppa 2: Auto Click Floppa, Auto Click Baby & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/raise%20a%20floppa%20%20Auto%20Click%20Floppa%20Auto%20Click%20Baby%20%20More.lua")
 
 addscript(8084034728, "Current Game","Roblox but every second you become stronger: Auto Farm Gems", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Roblox%20but%20every%20second%20you%20become%20stronger%20Auto%20Farm%20Gems.lua")
+
+addscriptexist(9872472334, "Evade: Fullbright, Auto Farm & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Evade%20Fullbright%20Auto%20Farm%20%20More.lua")
