@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 06:51:34"
+lastupdate = "GMT +1: 08.03.2023 06:51:38"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -5048,3 +5048,5 @@ addscriptexist(9992339729, "Longest Answer Wins: Give Longest Answer, Copy Longe
 addscriptexist(29812337, "Framed: Aimlock, ESP, Remove Face", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Framed%20Aimlock%20ESP%20Remove%20Face.lua")
 
 addscriptuniversal("Universal Fly, Godmode, Walkspeed Slider", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Fly%20Godmode%20Walkspeed%20Slider.lua")
+
+addscriptuniversal("WolfHub: CMD-X, Infinity Yield, Chiezzy Hub", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/WolfHub%20CMDX%20Infinity%20Yield%20Chiezzy%20Hub.lua")
