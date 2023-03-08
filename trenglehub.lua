@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 14:52:13"
+lastupdate = "GMT +1: 08.03.2023 14:52:19"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -8178,3 +8178,5 @@ addscriptexist(2788229376, "Da Hood: Press B to Aim Lock", "pulled from rbxscrip
 addscriptexist(9224601490, "Fruit Battlegrounds: Auto Farm, Auto Xp, Attack Target", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Fruit%20Battlegrounds%20Auto%20Farm%20Auto%20Xp%20Attack%20Target.lua")
 
 addscriptexist(9224601490, "Fruit Battlegrounds: Auto Farm, Esp, Box Esp", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Fruit%20Battlegrounds%20Auto%20Farm%20Esp%20Box%20Esp.lua")
+
+addscriptexist(142823291, "Murder Mystery 2: Auto Farm, Auto Grab, Auto Kill", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Murder%20Mystery%20%20Auto%20Farm%20Auto%20Grab%20Auto%20Kill.lua")
