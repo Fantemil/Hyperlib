@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 18:02:58"
+lastupdate = "GMT +1: 08.03.2023 18:03:03"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -11070,3 +11070,5 @@ addscriptexist(155615604, "Prison Life: Walkspeed, Gun Mods, GIve Guns", "pulled
 addscriptexist(7180042682, "Military Tycoon (FIXED): Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Military%20Tycoon%20FIXED%20Auto%20Farm.lua")
 
 addscriptuniversal("Universal Car script FE", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Car%20script%20FE.lua")
+
+addscriptexist(443406476, "Project Lazarus: Fly, God Mode, Teleports", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Project%20Lazarus%20Fly%20God%20Mode%20Teleports.lua")
