@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 18:13:56"
+lastupdate = "GMT +1: 08.03.2023 18:14:01"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -11340,3 +11340,5 @@ addscriptexist(164051105, "Super Bomb Survival: Auto Farm, Auto Collect, Auto Co
 addscriptexist(6461766546, "A hero destiny: Auto Punch, Auto Train, Auto Spin", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/A%20hero%20destiny%20Auto%20Punch%20Auto%20Train%20Auto%20Spin.lua")
 
 addscriptexist(2753915549, "Blox Fruits: Auto Skills, Kill Aura", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blox%20Fruits%20Auto%20Skills%20Kill%20Aura.lua")
+
+addscriptexist(7462526249, "NIKELAND: Collect All Ghosts", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NIKELAND%20Collect%20All%20Ghosts.lua")
