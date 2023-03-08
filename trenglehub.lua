@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 18:08:05"
+lastupdate = "GMT +1: 08.03.2023 18:08:10"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -11200,3 +11200,5 @@ addscriptexist(9912491609, "How Far Can You Fly: Auto Farm, Auto Collect Bronze 
 addscriptexist(2788229376, "Da Hood: Cash Aura, Anti Stomp & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Da%20Hood%20Cash%20Aura%20Anti%20Stomp%20%20More.lua")
 
 addscriptexist(10925589760, "Merge Simulator: Auto Upgrade, Auto Merge, Auto Tap", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Merge%20Simulator%20Auto%20Upgrade%20Auto%20Merge%20Auto%20Tap.lua")
+
+addscriptexist(6516141723, "DOORS: Godmode, Walkspeed, Jump Power", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DOORS%20Godmode%20Walkspeed%20Jump%20Power.lua")
