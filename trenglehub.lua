@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 20:22:37"
+lastupdate = "GMT +1: 08.03.2023 20:22:41"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -13774,3 +13774,5 @@ addscriptexist(2537430692, "Jenga | Win Game, Remove Objects and Kill Bricks, Fo
 addscript(10604409263, "Current Game","Moscow, Soviet Union | 100K Every Second", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Moscow%20Soviet%20Union%20%20K%20Every%20Second.lua")
 
 addscriptexist(9498006165, "Tapping Simulator | Auto Tap, Auto Rebirth, Better Gtx", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tapping%20Simulator%20%20Auto%20Tap%20Auto%20Rebirth%20Better%20Gtx.lua")
+
+addscriptuniversal("Roblox Universal Script | Hats, Animations", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Roblox%20Universal%20Script%20%20Hats%20Animations.lua")
