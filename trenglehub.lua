@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 12:35:17"
+lastupdate = "GMT +1: 08.03.2023 12:35:21"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -6276,3 +6276,5 @@ addscriptexist(10462101644, "Tall Man Run: Give Size", "pulled from rbxscript.co
 addscriptexist(10462101644, "Tall Man Run: Infinity Points", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tall%20Man%20Run%20Infinity%20Points.lua")
 
 addscriptexist(3351674303, "Driving Empire: Presents Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Driving%20Empire%20Presents%20Auto%20Farm.lua")
+
+addscriptexist(10456235914, "Redwood Prison Reworked: Kill All", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Redwood%20Prison%20Reworked%20Kill%20All.lua")
