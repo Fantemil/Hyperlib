@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 12:34:41"
+lastupdate = "GMT +1: 08.03.2023 12:34:45"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -6258,3 +6258,5 @@ addscript(6230718877, "Current Game","Pain: Kill Aura for Minigun", "pulled from
 addscriptexist(537413528, "Build A Boat For Treasure: Auto Farm, Water God Mode, Infinity Jumps", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Build%20A%20Boat%20For%20Treasure%20Auto%20Farm%20Water%20God%20Mode%20Infinity%20Jumps.lua")
 
 addscriptexist(9601565001, "Car Crash System: Crash Server", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Car%20Crash%20System%20Crash%20Server.lua")
+
+addscript(7182546997, "Current Game","Attack On Titan Vengeance: Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Attack%20On%20Titan%20Vengeance%20Auto%20Farm.lua")
