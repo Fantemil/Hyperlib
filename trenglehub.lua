@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 17:27:07"
+lastupdate = "GMT +1: 08.03.2023 17:27:11"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -10170,3 +10170,5 @@ addscriptexist(6516141723, "DOORS: Spawner Monsters", "pulled from rbxscript.com
 addscript(6947273631, "Current Game","Stick Guns: Free Wishes & Infinite Money", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Stick%20Guns%20Free%20Wishes%20%20Infinite%20Money.lua")
 
 addscriptexist(1730877806, "Grand Piece Online: Lunar Hub", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Grand%20Piece%20Online%20Lunar%20Hub.lua")
+
+addscriptexist(8084034728, "Roblox but every second you become stronger: Farm Gem, Auto Rebirth", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Roblox%20but%20every%20second%20you%20become%20stronger%20Farm%20Gem%20Auto%20Rebirth.lua")
