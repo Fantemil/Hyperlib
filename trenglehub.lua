@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 07:17:37"
+lastupdate = "GMT +1: 08.03.2023 07:17:41"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -5846,3 +5846,5 @@ addscriptexist(7655745946, "Dunking Simulator: Perfect Accuracy, Auto Farm, Unlo
 addscriptexist(6516141723, "DOORS: Auto Win, Walkspeed Slider & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DOORS%20Auto%20Win%20Walkspeed%20Slider%20%20More.lua")
 
 addscriptexist(2788229376, "Da Hood: Anti Aim", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Da%20Hood%20Anti%20Aim.lua")
+
+addscriptexist(183364845, "Speed Run 4: Auto Beat All Levels, Walkspeed Slider, Rejoin", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Speed%20Run%20%20Auto%20Beat%20All%20Levels%20Walkspeed%20Slider%20Rejoin.lua")
