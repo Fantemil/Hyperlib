@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 17:15:49"
+lastupdate = "GMT +1: 08.03.2023 17:15:53"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -9880,3 +9880,5 @@ addscriptexist(286090429, "Arsenal: Script Hub", "pulled from rbxscript.com", "h
 addscriptexist(6403373529, "Slap Battles: Spawn a well", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Slap%20Battles%20Spawn%20a%20well.lua")
 
 addscriptexist(3956818381, "Ninja Legends: Auto Sell, Auto Farm, Auto Buy Belts", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ninja%20Legends%20Auto%20Sell%20Auto%20Farm%20Auto%20Buy%20Belts.lua")
+
+addscriptexist(6422372837, "Snipers: Auto Kill All, Kill All Once, Always Hit", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Snipers%20Auto%20Kill%20All%20Kill%20All%20Once%20Always%20Hit.lua")
