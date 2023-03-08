@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 17:11:23"
+lastupdate = "GMT +1: 08.03.2023 17:11:28"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -9764,3 +9764,5 @@ addscriptexist(10977918334, "Merge Droppers: infinity Parts", "pulled from rbxsc
 addscript(8116417963, "Current Game","Vehicle Simulator: Infinity Disc", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Vehicle%20Simulator%20Infinity%20Disc.lua")
 
 addscriptexist(5740246170, "Tower Simulator: Auto Click, Auto Join Plots", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tower%20Simulator%20Auto%20Click%20Auto%20Join%20Plots.lua")
+
+addscriptexist(5602055394, "Hood Modded: Press Q to Lock Your Aim", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Hood%20Modded%20Press%20Q%20to%20Lock%20Your%20Aim.lua")
