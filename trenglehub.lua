@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 15:01:50"
+lastupdate = "GMT +1: 08.03.2023 15:01:54"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -8438,3 +8438,5 @@ addscript(4591043103, "Current Game","Marble Rider Star Quest: Auto click stars"
 addscriptexist(5777099015, "Cheese Escape: Get Cheese, TP in key and door, Spam Click", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Cheese%20Escape%20Get%20Cheese%20TP%20in%20key%20and%20door%20Spam%20Click.lua")
 
 addscriptuniversal("Universal Lib Loader", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Lib%20Loader.lua")
+
+addscriptexist(23578803, "Hotel Elephant: Admin V1, Infinite Money, Ruin Server", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Hotel%20Elephant%20Admin%20V%20Infinite%20Money%20Ruin%20Server.lua")
