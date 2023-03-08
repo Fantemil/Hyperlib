@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 19:20:52"
+lastupdate = "GMT +1: 08.03.2023 19:20:57"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -12782,3 +12782,5 @@ addscriptexist(6872265039, "BedWars: Kill Aura, Auto Scaffold & More", "pulled f
 addscriptexist(3260590327, "Tower Defense Simulator: Gems Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tower%20Defense%20Simulator%20Gems%20Auto%20Farm.lua")
 
 addscriptexist(2788229376, "Da Hood: Auto Farm, Teleports & more", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Da%20Hood%20Auto%20Farm%20Teleports%20%20more.lua")
+
+addscriptexist(155615604, "Prison Life: Kill Selected Player", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Prison%20Life%20Kill%20Selected%20Player.lua")
