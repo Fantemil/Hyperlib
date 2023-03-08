@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 18:10:19"
+lastupdate = "GMT +1: 08.03.2023 18:10:24"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -11256,3 +11256,5 @@ addscriptexist(2788229376, "Da Hood: Server Crasher", "pulled from rbxscript.com
 addscriptexist(3198259055, "SoulShatters Test Place: Godmode, ESP, Auto Block", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SoulShatters%20Test%20Place%20Godmode%20ESP%20Auto%20Block.lua")
 
 addscriptexist(2248408710, "Destruction Simulator: Auto Farm, Auto Sell, Infinity XP", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Destruction%20Simulator%20Auto%20Farm%20Auto%20Sell%20Infinity%20XP.lua")
+
+addscriptexist(10710676163, "SPTS : Origin: Auto Farm All Stats", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SPTS%20%20Origin%20Auto%20Farm%20All%20Stats.lua")
