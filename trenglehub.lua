@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 19:02:37"
+lastupdate = "GMT +1: 08.03.2023 19:02:41"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -12388,3 +12388,5 @@ addscriptexist(9894044804, "Blade Simulator: Auto Sell, Auto Swing, Auto Eggs", 
 addscriptexist(2653064683, "Word Bomb: Auto Join, Auto Type, Anti Kick", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Word%20Bomb%20Auto%20Join%20Auto%20Type%20Anti%20Kick.lua")
 
 addscriptexist(4282985734, "Combat Warriors: Walkspeed, KillAura, AutoParry", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Combat%20Warriors%20Walkspeed%20KillAura%20AutoParry.lua")
+
+addscriptexist(10903978962, "Sheep Tycoon: Infinity Wool", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sheep%20Tycoon%20Infinity%20Wool.lua")
