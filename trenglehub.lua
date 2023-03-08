@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 16:48:25"
+lastupdate = "GMT +1: 08.03.2023 16:48:31"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -9180,3 +9180,5 @@ addscriptexist(6516141723, "DOORS: Spawn Entities, Keybinds, Options", "pulled f
 addscriptexist(5956785391, "Project Slayers: Auto Farm Mobs, Auto Farm All Bosses, Auto Farm Demon Horns", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Project%20Slayers%20Auto%20Farm%20Mobs%20Auto%20Farm%20All%20Bosses%20Auto%20Farm%20Demon%20Horns.lua")
 
 addscriptexist(11379155384, "Every Second You Jump Higher: Auto Win", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Every%20Second%20You%20Jump%20Higher%20Auto%20Win.lua")
+
+addscriptexist(3260590327, "Tower Defense Simulator: Pizza Auto Strat", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tower%20Defense%20Simulator%20Pizza%20Auto%20Strat.lua")
