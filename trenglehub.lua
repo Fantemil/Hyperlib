@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 15:16:50"
+lastupdate = "GMT +1: 08.03.2023 15:16:54"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -8838,3 +8838,5 @@ addscriptexist(10889408214, "DEFLECT: Auto Deflect", "pulled from rbxscript.com"
 addscriptexist(6679968919, "Fly Race: Auto Farm, Bring All Orbs, Anti AFK", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Fly%20Race%20Auto%20Farm%20Bring%20All%20Orbs%20Anti%20AFK.lua")
 
 addscriptexist(4991214437, "town: Copy Plot", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/town%20Copy%20Plot.lua")
+
+addscriptexist(5956785391, "Project Slayers: Inf Breath, Auto Farm, Teleports", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Project%20Slayers%20Inf%20Breath%20Auto%20Farm%20Teleports.lua")
