@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 12:42:09"
+lastupdate = "GMT +1: 08.03.2023 12:42:14"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -6466,3 +6466,5 @@ addscriptexist(5233782396, "Creature Of Sonaria: Gift Farm, Auto Answer Minigame
 addscriptexist(606849621, "Jailbreak: Instant Teleport – Very Useful", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Jailbreak%20Instant%20Teleport%20%20Very%20Useful.lua")
 
 addscriptexist(9992339729, "Longest Answer: Wins Easy Win", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Longest%20Answer%20Wins%20Easy%20Win.lua")
+
+addscriptexist(6918802270, "Project New World: Infinite Dash, Quest Farm, Infinite Stamina", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Project%20New%20World%20Infinite%20Dash%20Quest%20Farm%20Infinite%20Stamina.lua")
