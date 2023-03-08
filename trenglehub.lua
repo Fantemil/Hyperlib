@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 14:48:54"
+lastupdate = "GMT +1: 08.03.2023 14:48:58"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -8094,3 +8094,5 @@ addscriptexist(5036207802, "Rb Battles!: Infinite Coins", "pulled from rbxscript
 addscriptexist(8908228901, "SharkBite 2: No Jump Cooldown, Shark Esp, Auto Teleport Above Shark", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SharkBite%20%20No%20Jump%20Cooldown%20Shark%20Esp%20Auto%20Teleport%20Above%20Shark.lua")
 
 addscriptexist(7056922815, "Reaper 2: Auto Spin", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Reaper%20%20Auto%20Spin.lua")
+
+addscript(6062820905, "Current Game","Ro Leveling: Infinite Abilities", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ro%20Leveling%20Infinite%20Abilities.lua")
