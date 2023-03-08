@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/danixbo/idk/main/Rich%20Clicker%20Simulator%20Script"))() 
