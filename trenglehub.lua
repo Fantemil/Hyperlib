@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 19:53:37"
+lastupdate = "GMT +1: 08.03.2023 19:53:47"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -13268,3 +13268,5 @@ addscriptexist(4522347649, "[FREE ADMIN] | Server Lagger", "pulled from rbxscrip
 addscript(7603178367, "Current Game","Chipotle Burrito Builder | Auto Complete Event", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Chipotle%20Burrito%20Builder%20%20Auto%20Complete%20Event.lua")
 
 addscriptuniversal("Universal FE Gale Fighter", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20FE%20Gale%20Fighter.lua")
+
+addscriptexist(2185497593, "Arcade Island X: Working Arcade | Auto Farm Money, AutoFarm XP, Walkspeed", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Arcade%20Island%20X%20Working%20Arcade%20%20Auto%20Farm%20Money%20AutoFarm%20XP%20Walkspeed.lua")
