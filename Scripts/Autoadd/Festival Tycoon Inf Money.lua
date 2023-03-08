@@ -1,0 +1,1 @@
+game.ReplicatedStorage.RemoteObjects.DanceGameCash:FireServer(9e9)
