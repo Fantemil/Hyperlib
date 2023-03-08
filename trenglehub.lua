@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 12:29:47"
+lastupdate = "GMT +1: 08.03.2023 12:29:51"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -6122,3 +6122,5 @@ addscriptexist(2753915549, "Blox Fruits: Mob Aura, Auto get all items, Auto Coll
 addscriptuniversal("Universal FE Kill Closet Player", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20FE%20Kill%20Closet%20Player.lua")
 
 addscript(4811576324, "Current Game","Totally Accurate Gun Simulator: Rapid Fire, Silent Aim", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Totally%20Accurate%20Gun%20Simulator%20Rapid%20Fire%20Silent%20Aim.lua")
+
+addscriptexist(662417684, "LUCKY BLOCKS Battlegrounds: Kill all, Kill Aura, Open all blocks", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LUCKY%20BLOCKS%20Battlegrounds%20Kill%20all%20Kill%20Aura%20Open%20all%20blocks.lua")
