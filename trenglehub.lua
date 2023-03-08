@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 06:52:04"
+lastupdate = "GMT +1: 08.03.2023 06:52:08"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -5064,3 +5064,5 @@ addscriptuniversal("Universal function environment spy", "pulled from rbxscript.
 addscriptexist(2788229376, "Da Hood: Fly, Aimlock, Silent AIm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Da%20Hood%20Fly%20Aimlock%20Silent%20AIm.lua")
 
 addscriptexist(11895850995, "Viet Pirates X: Auto Spawn Fruit, Auto Drop Fruit, Infinity Bell", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Viet%20Pirates%20X%20Auto%20Spawn%20Fruit%20Auto%20Drop%20Fruit%20Infinity%20Bell.lua")
+
+addscriptexist(10967799786, "Pet Clicking Simulator: Auto Farm Coins, Auto Rebirths & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pet%20Clicking%20Simulator%20Auto%20Farm%20Coins%20Auto%20Rebirths%20%20More.lua")
