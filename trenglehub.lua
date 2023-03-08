@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 14:41:23"
+lastupdate = "GMT +1: 08.03.2023 14:41:27"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -7886,3 +7886,5 @@ addscriptexist(9224601490, "Fruit Battlegrounds: Free Auto Farm", "pulled from r
 addscriptexist(1962086868, "Tower Of Hell: Mega Speed", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tower%20Of%20Hell%20Mega%20Speed.lua")
 
 addscriptexist(7180042682, "Military Tycoon: Quick Player", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Military%20Tycoon%20Quick%20Player.lua")
+
+addscriptexist(3823781113, "Saber Simulator: Auto Tap", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Saber%20Simulator%20Auto%20Tap.lua")
