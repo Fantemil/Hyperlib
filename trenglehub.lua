@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 20:37:01"
+lastupdate = "GMT +1: 08.03.2023 20:37:05"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -14150,3 +14150,5 @@ addscript(2124720684, "Current Game","Dragon Ball: Xeno Multiverse [Kill Aura, A
 addscriptexist(4042427666, "Anime Fighting Simulator [Inf Yen, Inf Chikara]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime%20Fighting%20Simulator%20Inf%20Yen%20Inf%20Chikara.lua")
 
 addscriptuniversal("Roblox Universal Script [Fps Boost]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Roblox%20Universal%20Script%20Fps%20Boost.lua")
+
+addscriptexist(6299805723, "Anime Fighters Simulator [Auto Farm, AutoClick]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime%20Fighters%20Simulator%20Auto%20Farm%20AutoClick.lua")
