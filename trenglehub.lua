@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 19:00:56"
+lastupdate = "GMT +1: 08.03.2023 19:01:01"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -12352,3 +12352,5 @@ addscriptexist(2753915549, "Blox Fruits: Hitbox Expander", "pulled from rbxscrip
 addscriptexist(2317712696, "The Wild West: Silent Aim, No Recoil, Fast Reload & More!", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/The%20Wild%20West%20Silent%20Aim%20No%20Recoil%20Fast%20Reload%20%20More.lua")
 
 addscriptexist(7560156054, "Clicker Simulator: Auto Clicker, Walkspeed & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Clicker%20Simulator%20Auto%20Clicker%20Walkspeed%20%20More.lua")
+
+addhub("LOAKS HUB: 12 Games Support", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LOAKS%20HUB%20%20Games%20Support.lua")
