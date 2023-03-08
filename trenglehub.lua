@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 06:32:40"
+lastupdate = "GMT +1: 08.03.2023 06:32:43"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -4587,11 +4587,3 @@ addscriptuniversal("Universal Anti Http Spy + Anti Remote Spy", "pulled from rbx
 addscriptexist(6284583030, "Pet Simulator X: Auto Farm, Auto Egg, Server Hops", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pet%20Simulator%20X%20Auto%20Farm%20Auto%20Egg%20Server%20Hops.lua")
 
 addscriptexist(2772610559, "Farming and Friends: Semi Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Farming%20and%20Friends%20Semi%20Auto%20Farm.lua")
-
-addhub("Roblox: Fun Hub", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Roblox%20Fun%20Hub.lua")
-
-addscriptexist(1537690962, "Bee Swarm Simulator: Remove Tags, Anti Cheat & More!", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Bee%20Swarm%20Simulator%20Remove%20Tags%20Anti%20Cheat%20%20More.lua")
-
-addscriptexist(10259717178, "A Bizarre Day Modded Rebooted: Kill All", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/A%20Bizarre%20Day%20Modded%20Rebooted%20Kill%20All.lua")
-
-addscriptexist(292439477, "Phantom Forces: Hitbox Expander Gui", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Phantom%20Forces%20Hitbox%20Expander%20Gui.lua")
