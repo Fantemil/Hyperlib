@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 20:42:18"
+lastupdate = "GMT +1: 08.03.2023 20:42:23"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -14286,3 +14286,5 @@ addscriptexist(286090429, "Arsenal [Rainbow Gun, Aimbot]", "pulled from rbxscrip
 addscriptexist(5130598377, "Tapping Legends X [Auto Farms, Auto Hatch, Auto Rebirth]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tapping%20Legends%20X%20Auto%20Farms%20Auto%20Hatch%20Auto%20Rebirth.lua")
 
 addscriptexist(2753915549, "Blox Fruits [AutoFarm Mobs, Esp Chest]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blox%20Fruits%20AutoFarm%20Mobs%20Esp%20Chest.lua")
+
+addscriptexist(3177438863, "Dragon Blox [AutoLoot, AutoRebirth]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Dragon%20Blox%20AutoLoot%20AutoRebirth.lua")
