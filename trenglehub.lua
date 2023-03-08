@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 18:53:53"
+lastupdate = "GMT +1: 08.03.2023 18:53:57"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -12192,3 +12192,5 @@ addscriptexist(9551640993, "Mining Simulator 2: Auto Farm, Auto Sell, Auto rebir
 addscript(2597632885, "Current Game","sno day: Get All Hats, Auto Farm, Teleports", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/sno%20day%20Get%20All%20Hats%20Auto%20Farm%20Teleports.lua")
 
 addscript(6569480109, "Current Game","EAU Park: WalkSpeed, AimBot, No travel", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/EAU%20Park%20WalkSpeed%20AimBot%20No%20travel.lua")
+
+addscript(9478827096, "Current Game","Tower of Ball: Break players balls, Spawn balls", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tower%20of%20Ball%20Break%20players%20balls%20Spawn%20balls.lua")
