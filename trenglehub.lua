@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 20:59:05"
+lastupdate = "GMT +1: 08.03.2023 20:59:09"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -14702,3 +14702,5 @@ addscriptexist(9049840490, "Sonic Speed Simulator [Auto Win Race, Collect All Ob
 addscriptexist(9551640993, "Mining Simulator 2 [Auto Mine, Auto Sell, Auto Factory]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mining%20Simulator%20%20Auto%20Mine%20Auto%20Sell%20Auto%20Factory.lua")
 
 addscriptexist(8737602449, "PLS DONATE [Tp, Auto Thanks, Server Hoppper]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PLS%20DONATE%20Tp%20Auto%20Thanks%20Server%20Hoppper.lua")
+
+addscriptexist(8750997647, "Tapping Legends X [Auto Clicker, Auto rebirth, Auto Egg]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tapping%20Legends%20X%20Auto%20Clicker%20Auto%20rebirth%20Auto%20Egg.lua")
