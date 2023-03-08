@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 06:50:01"
+lastupdate = "GMT +1: 08.03.2023 06:50:05"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -5004,3 +5004,5 @@ addscriptexist(10875701453, "Edward the Man-Eating Train: ESP, Infinity Damage, 
 addhub("ReQiuYTPL Hub: 2 Games", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ReQiuYTPL%20Hub%20%20Games.lua")
 
 addscriptexist(286090429, "Arsenal: Silent Aim, Aimbot, Hit Part", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Arsenal%20Silent%20Aim%20Aimbot%20Hit%20Part.lua")
+
+addscript(10106105124, "Current Game","Wheat Farming Simulator: Auto Mega Rebirth, Redeem All Codes, Auto Rebirth", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Wheat%20Farming%20Simulator%20Auto%20Mega%20Rebirth%20Redeem%20All%20Codes%20Auto%20Rebirth.lua")
