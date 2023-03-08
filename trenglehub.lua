@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 07:14:13"
+lastupdate = "GMT +1: 08.03.2023 07:14:18"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -5740,3 +5740,5 @@ addscriptexist(9872472334, "Evade: Character Speed & Jump power, Auto Respawn, E
 addscriptexist(8260276694, "Ability Wars: Auto Kill, Auto Speed", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ability%20Wars%20Auto%20Kill%20Auto%20Speed.lua")
 
 addscriptexist(10198661638, "Farm Factory Tycoon: Infinite Money, Auto Farm & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Farm%20Factory%20Tycoon%20Infinite%20Money%20Auto%20Farm%20%20More.lua")
+
+addscriptexist(8962384769, "Firework Simulator: Auto Farm, Kill Aura, Collect Drops", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Firework%20Simulator%20Auto%20Farm%20Kill%20Aura%20Collect%20Drops.lua")
