@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 17:02:06"
+lastupdate = "GMT +1: 08.03.2023 17:02:10"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -9528,3 +9528,5 @@ addscriptexist(10925589760, "Merge Simulator: Auto Upgrades, Auto Click Blocks, 
 addscriptuniversal("Universal Virus Spamer", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Virus%20Spamer.lua")
 
 addscriptuniversal("AceHub: Script Hub", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AceHub%20Script%20Hub.lua")
+
+addscriptuniversal("Universal LuaSeel Deobfuscator", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20LuaSeel%20Deobfuscator.lua")
