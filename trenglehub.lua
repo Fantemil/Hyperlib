@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 12:48:13"
+lastupdate = "GMT +1: 08.03.2023 12:48:17"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -6638,3 +6638,5 @@ addscriptexist(5036207802, "RB Battles: Play a song inside of the game using sec
 addscriptexist(6512923934, "Ultra Clickers Simulator: Get All Pets, Spam Clicks, Infinity Gems", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ultra%20Clickers%20Simulator%20Get%20All%20Pets%20Spam%20Clicks%20Infinity%20Gems.lua")
 
 addscriptexist(10598587051, "Anime Clicker Fight: Fast Auto Click, Auto Dash, Auto Spin", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime%20Clicker%20Fight%20Fast%20Auto%20Click%20Auto%20Dash%20Auto%20Spin.lua")
+
+addscriptexist(3101667897, "Legends Of Speed: Auto Open Crystals, Auto Collect Hoops, Auto Rebirth", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Legends%20Of%20Speed%20Auto%20Open%20Crystals%20Auto%20Collect%20Hoops%20Auto%20Rebirth.lua")
