@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 06:56:17"
+lastupdate = "GMT +1: 08.03.2023 06:56:21"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -5192,3 +5192,5 @@ addscriptexist(142823291, "Murder Mystery 2: Auto Farm, Esp, Godmode", "pulled f
 addscriptexist(4616652839, "Shindo Life: Autofarm, NoCooldown, KillAura", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Shindo%20Life%20Autofarm%20NoCooldown%20KillAura.lua")
 
 addscriptexist(10742364019, "EGOIST: High kick, Auto Dribble, Aimbot", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/EGOIST%20High%20kick%20Auto%20Dribble%20Aimbot.lua")
+
+addscriptexist(2753915549, "Blox Fruits: Auto Farm Level, Teleports & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blox%20Fruits%20Auto%20Farm%20Level%20Teleports%20%20More.lua")
