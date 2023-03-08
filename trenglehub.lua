@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 13:11:51"
+lastupdate = "GMT +1: 08.03.2023 13:11:55"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -7232,3 +7232,5 @@ addhub("Voxle Hub: 1 Game", "pulled from rbxscript.com", "https://raw.githubuser
 addscript(5777099015, "Current Game","Cheese Escape: Get All Keys, Brightness, Get All Cheese", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Cheese%20Escape%20Get%20All%20Keys%20Brightness%20Get%20All%20Cheese.lua")
 
 addscriptexist(4787647409, "Blacksite Zeta: Gun Mods, ESP, Fly", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blacksite%20Zeta%20Gun%20Mods%20ESP%20Fly.lua")
+
+addscriptexist(9601565001, "Car Crash System: Tuned Cab, Mining Truck, Fly", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Car%20Crash%20System%20Tuned%20Cab%20Mining%20Truck%20Fly.lua")
