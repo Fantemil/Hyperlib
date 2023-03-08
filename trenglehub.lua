@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 13:19:58"
+lastupdate = "GMT +1: 08.03.2023 13:20:02"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -7444,3 +7444,5 @@ addscript(6198225400, "Current Game","Legends Re:Written: Godmode, Trade Things"
 addscriptexist(11063612131, "Every Second You Get +1 Jump Power: Auto Farm Wins", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Every%20Second%20You%20Get%20%20Jump%20Power%20Auto%20Farm%20Wins.lua")
 
 addscriptexist(6447798030, "Funky Friday: Auto Complete Event", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Funky%20Friday%20Auto%20Complete%20Event.lua")
+
+addscriptexist(9414511685, "Drive Cars Down A: Free Special Vehicle", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Drive%20Cars%20Down%20A%20Free%20Special%20Vehicle.lua")
