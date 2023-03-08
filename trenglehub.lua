@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 12:39:05"
+lastupdate = "GMT +1: 08.03.2023 12:39:10"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -6382,3 +6382,5 @@ addscriptexist(286090429, "Arsenal: Silent Aim, Rapid Fire, Aimbot", "pulled fro
 addscriptexist(2753915549, "Blox Fruits: Bypass TP, Auto Farm Bone, Auto Farm Mobs", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blox%20Fruits%20Bypass%20TP%20Auto%20Farm%20Bone%20Auto%20Farm%20Mobs.lua")
 
 addscriptexist(10977918334, "Merge Droppers Infinity Parts", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Merge%20Droppers%20Infinity%20Parts.lua")
+
+addscriptexist(6284583030, "Pet Simulator X: Gpu Saver, Cpu Saver, FPS Limiter", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pet%20Simulator%20X%20Gpu%20Saver%20Cpu%20Saver%20FPS%20Limiter.lua")
