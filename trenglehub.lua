@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 06:47:55"
+lastupdate = "GMT +1: 08.03.2023 06:47:58"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -4938,3 +4938,5 @@ addscriptuniversal("Universal Client Cooldown Bypass", "pulled from rbxscript.co
 addscriptexist(3527629287, "Big Paintball: Rapid Fire, Instant Bullets, Automatic", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Big%20Paintball%20Rapid%20Fire%20Instant%20Bullets%20Automatic.lua")
 
 addscriptexist(5972698540, "Easy Obby: Teleport Menu", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Easy%20Obby%20Teleport%20Menu.lua")
+
+addscriptexist(893973440, "Flee the Facility: ESP, XRay & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Flee%20the%20Facility%20ESP%20XRay%20%20More.lua")
