@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://raw.githubusercontent.com/KodaLINEN/Sword-Fighters-/main/Main'))()
