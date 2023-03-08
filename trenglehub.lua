@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 15:15:39"
+lastupdate = "GMT +1: 08.03.2023 15:15:44"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -8806,3 +8806,5 @@ addscriptexist(9992339729, "Longest Answer Wins: Answer randomly, Answer, WalkSp
 addscriptexist(3260590327, "Tower Defense Simulator: StackTower,Sell All,AutoChain", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tower%20Defense%20Simulator%20StackTowerSell%20AllAutoChain.lua")
 
 addhub("LALOL Hub: 5 Games", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LALOL%20Hub%20%20Games.lua")
+
+addhub("Universal Rayfield Key System Bypass", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Rayfield%20Key%20System%20Bypass.lua")
