@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 15:12:48"
+lastupdate = "GMT +1: 08.03.2023 15:12:52"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -8728,3 +8728,5 @@ addscriptexist(155615604, "Prison Life: Give Guns, Walkspeed and Jump Power slid
 addscriptexist(11400511154, "Monkey Tycoon: Auto Merge, Anti Afk, Auto Deposit", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Monkey%20Tycoon%20Auto%20Merge%20Anti%20Afk%20Auto%20Deposit.lua")
 
 addscript(11355697822, "Current Game","Mushroom Men Tycoon: Auto Deliever, Auto Buy Pets, Infinity Money", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mushroom%20Men%20Tycoon%20Auto%20Deliever%20Auto%20Buy%20Pets%20Infinity%20Money.lua")
+
+addscriptexist(4520749081, "King Legacy: Auto New Worlds, Auto Farm, Auto Stats", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/King%20Legacy%20Auto%20New%20Worlds%20Auto%20Farm%20Auto%20Stats.lua")
