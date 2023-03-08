@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 19:39:17"
+lastupdate = "GMT +1: 08.03.2023 19:39:26"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -13180,3 +13180,5 @@ addscriptexist(2753915549, "Blox Fruits | GUI - Auto Saber, Auto Farm & More!", 
 addscriptexist(2753915549, "Blox Fruits | GUI - Auto Farm Level, Auto New World & More!", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blox%20Fruits%20%20GUI%20%20Auto%20Farm%20Level%20Auto%20New%20World%20%20More.lua")
 
 addscriptexist(621129760, "Knife Ability Test | Free Radio", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Knife%20Ability%20Test%20%20Free%20Radio.lua")
+
+addscriptexist(10320240572, "Easy Race Clicker | AutoWin Farm, Auto Click, Auto Rebirth", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Easy%20Race%20Clicker%20%20AutoWin%20Farm%20Auto%20Click%20Auto%20Rebirth.lua")
