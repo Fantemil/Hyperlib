@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 14:35:10"
+lastupdate = "GMT +1: 08.03.2023 14:35:14"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -7720,3 +7720,5 @@ addscript(9236100787, "Current Game","TR HOOD: Kill Aura", "pulled from rbxscrip
 addscriptexist(3177438863, "Dragon Blox: Auto Transform, Auto Rebirth, Auto Kill Mobs", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Dragon%20Blox%20Auto%20Transform%20Auto%20Rebirth%20Auto%20Kill%20Mobs.lua")
 
 addscriptexist(6716339004, "Tsunami Disaster Survival: Epic Sword", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tsunami%20Disaster%20Survival%20Epic%20Sword.lua")
+
+addscript(3837841034, "Current Game","Deadline: Esp, AimBot", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Deadline%20Esp%20AimBot.lua")
