@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 13:02:33"
+lastupdate = "GMT +1: 08.03.2023 13:02:39"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -6992,3 +6992,5 @@ addscriptexist(6403373529, "Slap Battles: Slap Auto Farm, Anti Ragdoll & More", 
 addscriptexist(286090429, "Arsenal: Auto Back stabs", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Arsenal%20Auto%20Back%20stabs.lua")
 
 addscriptexist(893973440, "Flee the Facility: Esp, FullBright, Esp Exits", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Flee%20the%20Facility%20Esp%20FullBright%20Esp%20Exits.lua")
+
+addscriptexist(10895555747, "Walmart Land: Find All the SnowMan", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Walmart%20Land%20Find%20All%20the%20SnowMan.lua")
