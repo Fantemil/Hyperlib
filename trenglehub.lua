@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 17:57:34"
+lastupdate = "GMT +1: 08.03.2023 17:57:38"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -10936,3 +10936,5 @@ addscriptexist(6794368433, "Be a Spider Tycoon: Auto Build, Redeem All Codes, Se
 addscriptexist(3956818381, "Ninja Legends: Auto Swing, Auto Eggs & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ninja%20Legends%20Auto%20Swing%20Auto%20Eggs%20%20More.lua")
 
 addscriptexist(292439477, "Phantom Forces: Enable Esp", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Phantom%20Forces%20Enable%20Esp.lua")
+
+addscriptexist(2788229376, "Da Hood: Fly, Anti Lock, Auto Farms", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Da%20Hood%20Fly%20Anti%20Lock%20Auto%20Farms.lua")
