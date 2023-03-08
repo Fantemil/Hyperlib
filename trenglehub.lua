@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 19:16:35"
+lastupdate = "GMT +1: 08.03.2023 19:16:39"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -12684,3 +12684,5 @@ addscript(5226151131, "Current Game","Undertale: Multiverse Chaos | Auto Farm", 
 addscriptexist(10085978574, "My Little Pony: Visit Maretime Bay | Auto Farm Gems", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/My%20Little%20Pony%20Visit%20Maretime%20Bay%20%20Auto%20Farm%20Gems.lua")
 
 addscriptexist(9872472334, "Evade: Fullbright, Crash Server, Walkspeed", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Evade%20Fullbright%20Crash%20Server%20Walkspeed.lua")
+
+addscriptexist(537413528, "Build A Boat For Treasure: Walkspeed, Auto Farm, Auto Chest", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Build%20A%20Boat%20For%20Treasure%20Walkspeed%20Auto%20Farm%20Auto%20Chest.lua")
