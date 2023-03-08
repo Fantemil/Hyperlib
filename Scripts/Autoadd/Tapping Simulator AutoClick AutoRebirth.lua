@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/KxngW/KxngW/main/KingdomHub.lua"))()
+loadstring(game:HttpGet('https://raw.githubusercontent.com/KxngW/KxngW/main/v1.lua'))()
