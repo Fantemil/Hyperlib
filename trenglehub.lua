@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 06:56:24"
+lastupdate = "GMT +1: 08.03.2023 06:56:28"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -5196,3 +5196,5 @@ addscriptexist(10742364019, "EGOIST: High kick, Auto Dribble, Aimbot", "pulled f
 addscriptexist(2753915549, "Blox Fruits: Auto Farm Level, Teleports & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blox%20Fruits%20Auto%20Farm%20Level%20Teleports%20%20More.lua")
 
 addscriptexist(8737602449, "PLS DONATE: Server Hop, Auto Change, Jump", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PLS%20DONATE%20Server%20Hop%20Auto%20Change%20Jump.lua")
+
+addhub("Ripper Hub: Key Bypass", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ripper%20Hub%20Key%20Bypass.lua")
