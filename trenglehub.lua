@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 19:04:13"
+lastupdate = "GMT +1: 08.03.2023 19:04:20"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -12418,3 +12418,5 @@ addscriptexist(10903978962, "Sheep Tycoon: Infinity Coins", "pulled from rbxscri
 addscriptexist(2248408710, "Destruction Simulator: Infinity Coins, Sell Bricks", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Destruction%20Simulator%20Infinity%20Coins%20Sell%20Bricks.lua")
 
 addscriptexist(445664957, "Parkour: Auto Bag Collector", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Parkour%20Auto%20Bag%20Collector.lua")
+
+addscriptexist(5993942214, "Rush Point: Anti Aim, Silent Aim, Esp", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Rush%20Point%20Anti%20Aim%20Silent%20Aim%20Esp.lua")
