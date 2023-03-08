@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 21:02:36"
+lastupdate = "GMT +1: 08.03.2023 21:02:44"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -14784,3 +14784,5 @@ addscriptexist(5116869569, "Doodle World [Auto Farm]", "pulled from rbxscript.co
 addscriptexist(662417684, "LUCKY BLOCKS Battlegrounds [Get all lucky blocks]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LUCKY%20BLOCKS%20Battlegrounds%20Get%20all%20lucky%20blocks.lua")
 
 addscriptexist(6766156863, "Strongman Simulator [Very OP Autofarm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Strongman%20Simulator%20Very%20OP%20Autofarm.lua")
+
+addscriptexist(7728848215, "Slashing Simulator [Auto Farm, Teleport All Worlds, WalkSpeed]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Slashing%20Simulator%20Auto%20Farm%20Teleport%20All%20Worlds%20WalkSpeed.lua")
