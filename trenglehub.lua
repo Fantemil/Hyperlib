@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 17:05:17"
+lastupdate = "GMT +1: 08.03.2023 17:05:21"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -9608,3 +9608,5 @@ addscriptexist(9832066570, "Tower Battles Defensive Holds: Gun Mod", "pulled fro
 addscriptexist(2809202155, "Your Bizarre Adventure: Teleport Bypass", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Your%20Bizarre%20Adventure%20Teleport%20Bypass.lua")
 
 addscriptexist(2474168535, "Westbound: Spread, Max Ammo, Reload Speed", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Westbound%20Spread%20Max%20Ammo%20Reload%20Speed.lua")
+
+addscriptuniversal("Universal Hitbox GUI", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Hitbox%20GUI.lua")
