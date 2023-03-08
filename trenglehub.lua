@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 15:14:01"
+lastupdate = "GMT +1: 08.03.2023 15:14:07"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -8762,3 +8762,5 @@ addscriptexist(286090429, "Arsenal: Silent Aim, FLY, 2d Box ESP", "pulled from r
 addscriptexist(2317712696, "The Wild West: Gun Mods, ESP, Fullbright", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/The%20Wild%20West%20Gun%20Mods%20ESP%20Fullbright.lua")
 
 addscriptexist(185655149, "Welcome to Bloxburg: Auto Farm Money", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Welcome%20to%20Bloxburg%20Auto%20Farm%20Money.lua")
+
+addscript(10944357250, "Current Game","Stair Legends! Auto Climb", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Stair%20Legends%20Auto%20Climb.lua")
