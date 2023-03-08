@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 14:28:42"
+lastupdate = "GMT +1: 08.03.2023 14:28:46"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -7554,3 +7554,5 @@ addscriptexist(11434115364, "Merge Pet Simulator: Auto Click Best Pet, Auto Upgr
 addscriptexist(7346416636, "Pop It Trading: Auto Buy Box Toy House, Be Giant, Infinity Yield", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pop%20It%20Trading%20Auto%20Buy%20Box%20Toy%20House%20Be%20Giant%20Infinity%20Yield.lua")
 
 addscriptexist(8737602449, "PLS DONATE: Auto Chat", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PLS%20DONATE%20Auto%20Chat.lua")
+
+addscriptexist(11402943018, "Teamwork: Mog GUI, Troll Gui", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Teamwork%20Mog%20GUI%20Troll%20Gui.lua")
