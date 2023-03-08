@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 12:38:27"
+lastupdate = "GMT +1: 08.03.2023 12:38:31"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -6364,3 +6364,5 @@ addscriptexist(9834528893, "+One Speed Every Second: Auto Farm Wins", "pulled fr
 addscriptexist(11656036986, "make roblox games to become rich and famous: Auto Create Games, Anti Afk, Auto Build", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/make%20roblox%20games%20to%20become%20rich%20and%20famous%20Auto%20Create%20Games%20Anti%20Afk%20Auto%20Build.lua")
 
 addscriptexist(13822889, "Lumber Tycoon 2: Get End Tree", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Lumber%20Tycoon%20%20Get%20End%20Tree.lua")
+
+addscriptexist(10700669209, "Control Army: Auto Kill Golems", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Control%20Army%20Auto%20Kill%20Golems.lua")
