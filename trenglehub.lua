@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 12:21:33"
+lastupdate = "GMT +1: 08.03.2023 12:21:37"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -5904,3 +5904,5 @@ addscriptexist(6284583030, "Pet Simulator X: Auto Collect Lootbags, Auto Collect
 addscript(11495557882, "Current Game","Every Second You Get +1 Speed: Auto Farm Wins", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Every%20Second%20You%20Get%20%20Speed%20Auto%20Farm%20Wins.lua")
 
 addhub("Mini Hub: 5+ Games", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mini%20Hub%20%20Games.lua")
+
+addscriptexist(3956818381, "Ninja Legends: Unlock All Elements, Auto Swing & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ninja%20Legends%20Unlock%20All%20Elements%20Auto%20Swing%20%20More.lua")
