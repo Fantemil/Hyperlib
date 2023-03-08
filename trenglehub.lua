@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 14:53:08"
+lastupdate = "GMT +1: 08.03.2023 14:53:13"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -8202,3 +8202,5 @@ addscriptexist(5956785391, "Project Slayers: Auto Farm Bosses, Killaura, Inf Sta
 addscriptexist(5130598377, "A Universal Time: Meteor Farm, Chest Farm, Auto Farm Bosses", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/A%20Universal%20Time%20Meteor%20Farm%20Chest%20Farm%20Auto%20Farm%20Bosses.lua")
 
 addscriptexist(8750997647, "Tapping Legends X: Auto Rebirth, Walkspeed Slider, Auto Hatch", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tapping%20Legends%20X%20Auto%20Rebirth%20Walkspeed%20Slider%20Auto%20Hatch.lua")
+
+addscriptexist(3823781113, "Saber Simulator: Auto Farm Golems, Auto Farm Flags, Player Mods", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Saber%20Simulator%20Auto%20Farm%20Golems%20Auto%20Farm%20Flags%20Player%20Mods.lua")
