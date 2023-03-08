@@ -1,0 +1,2 @@
+--// No Linkvertise! Get the key in this server: discord.gg/A9Qbj9a37M  //--
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Cripzs/Crip-s-Gaming-Chair-Key-System/main/main%20loader.lua"))()
