@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 14:32:15"
+lastupdate = "GMT +1: 08.03.2023 14:32:19"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -7644,3 +7644,5 @@ addscriptexist(6198225400, "Legends Re:Written: God Mode, Trade Things", "pulled
 addscript(11533168821, "Current Game","How Far Can You Dunk: Auto Collect Boost", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/How%20Far%20Can%20You%20Dunk%20Auto%20Collect%20Boost.lua")
 
 addscriptexist(10198661638, "Farm Factory Tycoon: Auto Spawn Cash", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Farm%20Factory%20Tycoon%20Auto%20Spawn%20Cash.lua")
+
+addscript(7791106063, "Current Game","Furry Infection: Auto Breakout, Insta Kill, Delete Kill Parts", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Furry%20Infection%20Auto%20Breakout%20Insta%20Kill%20Delete%20Kill%20Parts.lua")
