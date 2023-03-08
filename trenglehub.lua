@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 16:39:07"
+lastupdate = "GMT +1: 08.03.2023 16:39:11"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -8956,3 +8956,5 @@ addscript(11129854470, "Current Game","Akuma Pirates: Max Stats", "pulled from r
 addscriptexist(6284583030, "Pet Simulator X: New Auto Farm Gui", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pet%20Simulator%20X%20New%20Auto%20Farm%20Gui.lua")
 
 addscriptexist(10053187005, "Counter Blox Reimagined: Skin Changer", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Counter%20Blox%20Reimagined%20Skin%20Changer.lua")
+
+addscriptuniversal("Universal Gui Detection Bypass", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Gui%20Detection%20Bypass.lua")
