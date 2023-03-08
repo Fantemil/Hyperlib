@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 19:34:04"
+lastupdate = "GMT +1: 08.03.2023 19:34:08"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -13070,3 +13070,5 @@ addscriptexist(1242235469, "ball and axe: Gravity, Go To Saved Location, Infinit
 addscript(7138009149, "Current Game","PHIGHTING ALPHA: Infinity Money and Gems", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PHIGHTING%20ALPHA%20Infinity%20Money%20and%20Gems.lua")
 
 addscriptexist(6516141723, "DOORS: Instant Interact, Skip Levels", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DOORS%20Instant%20Interact%20Skip%20Levels.lua")
+
+addscriptexist(621129760, "Knife Ability Test: Silent Aim, Draw Fov, Infinity Ammo & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Knife%20Ability%20Test%20Silent%20Aim%20Draw%20Fov%20Infinity%20Ammo%20%20More.lua")
