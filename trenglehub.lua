@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 14:45:56"
+lastupdate = "GMT +1: 08.03.2023 14:46:01"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -8010,3 +8010,5 @@ addscriptexist(2788229376, "Da Hood: Reach, Knock All, Bag All", "pulled from rb
 addscriptexist(11445923563, "One Fruit Simulator: Grab Fruits, Collect Chests, Auto Farm Levels", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/One%20Fruit%20Simulator%20Grab%20Fruits%20Collect%20Chests%20Auto%20Farm%20Levels.lua")
 
 addscriptexist(7722306047, "Pet Simulator X: Auto Farm Chests, Auto Use Boosts & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pet%20Simulator%20X%20Auto%20Farm%20Chests%20Auto%20Use%20Boosts%20%20More.lua")
+
+addscriptuniversal("Universal Toggle Voice Chat", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Toggle%20Voice%20Chat.lua")
