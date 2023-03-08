@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 07:07:11"
+lastupdate = "GMT +1: 08.03.2023 07:07:14"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -5524,3 +5524,5 @@ addscriptexist(9872472334, "Evade: Fullbright, Auto Farm & More", "pulled from r
 addscriptexist(9872472334, "Evade: Auto Win, Walkspeed, Inf Jumps", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Evade%20Auto%20Win%20Walkspeed%20Inf%20Jumps.lua")
 
 addscript(11636534838, "Current Game","Every Second Your Neck Grows: Auto Grow", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Every%20Second%20Your%20Neck%20Grows%20Auto%20Grow.lua")
+
+addscriptexist(4924922222, "Brookhaven RP: Kill People", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Brookhaven%20RP%20Kill%20People.lua")
