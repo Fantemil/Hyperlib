@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 12:23:07"
+lastupdate = "GMT +1: 08.03.2023 12:23:11"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -5948,3 +5948,5 @@ addhub("Kater Hub: Sounds, Teleports & More", "pulled from rbxscript.com", "http
 addscriptexist(7655745946, "Dunking Simulator: Max Stats, Infinity Boosts, Infinity Money", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Dunking%20Simulator%20Max%20Stats%20Infinity%20Boosts%20Infinity%20Money.lua")
 
 addscript(4994661268, "Current Game","Undertale: Judgement Day: Skip Round, Coin Autofarm, Speedhacks", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Undertale%20Judgement%20Day%20Skip%20Round%20Coin%20Autofarm%20Speedhacks.lua")
+
+addscriptexist(10243982775, "RedBox: FOV slider, Silent aim, Double tap", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RedBox%20FOV%20slider%20Silent%20aim%20Double%20tap.lua")
