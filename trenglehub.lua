@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 12:33:48"
+lastupdate = "GMT +1: 08.03.2023 12:33:52"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -6232,3 +6232,5 @@ addscriptexist(621129760, "Knife Ability Test: Silent Aim, ESP, Full Bright", "p
 addscriptexist(621129760, "Knife Ability Test: Owl Hub, Voidz, Dark Hub", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Knife%20Ability%20Test%20Owl%20Hub%20Voidz%20Dark%20Hub.lua")
 
 addscript(10006547495, "Current Game","Haunted Town: Auto Hit, Auto Heal, Infinity Damage", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Haunted%20Town%20Auto%20Hit%20Auto%20Heal%20Infinity%20Damage.lua")
+
+addscriptexist(9862832367, "Never-Ending Cart Ride: Rainbow Carts, Lag Carts, Player Mods", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NeverEnding%20Cart%20Ride%20Rainbow%20Carts%20Lag%20Carts%20Player%20Mods.lua")
