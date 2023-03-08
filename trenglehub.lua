@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 17:32:00"
+lastupdate = "GMT +1: 08.03.2023 17:32:04"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -10294,3 +10294,5 @@ addscriptexist(2809202155, "Your Bizarre Adventure: Shiny Auto Farm, Server Hop"
 addscriptexist(11238892040, "Type or Die: Gives Longest Words", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Type%20or%20Die%20Gives%20Longest%20Words.lua")
 
 addscriptexist(9993529229, "Counter Blox: Remastered: FOV, Silent Aim, ESP", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Counter%20Blox%20Remastered%20FOV%20Silent%20Aim%20ESP.lua")
+
+addscriptexist(6516141723, "DOORS: Brightness, ESP & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DOORS%20Brightness%20ESP%20%20More.lua")
