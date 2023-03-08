@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 20:32:38"
+lastupdate = "GMT +1: 08.03.2023 20:32:43"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -14038,3 +14038,5 @@ addscriptuniversal("Roblox Universal Script [Walkspeed]", "pulled from rbxscript
 addscriptuniversal("Roblox Universal Script [E To Sit]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Roblox%20Universal%20Script%20E%20To%20Sit.lua")
 
 addscriptuniversal("Roblox Universal Script [ChatBypass]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Roblox%20Universal%20Script%20ChatBypass.lua")
+
+addscriptuniversal("Roblox Universal Script [Walkspeed, Inf Yield]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Roblox%20Universal%20Script%20Walkspeed%20Inf%20Yield.lua")
