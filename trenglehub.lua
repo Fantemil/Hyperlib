@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 18:17:34"
+lastupdate = "GMT +1: 08.03.2023 18:17:41"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -11430,3 +11430,5 @@ addscriptexist(8884433153, "Collect All Pets: Auto Farm, Auto Collect Coins, Aut
 addscript(7444263453, "Current Game","Jetpack Jumpers: Inifnity Cash", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Jetpack%20Jumpers%20Inifnity%20Cash.lua")
 
 addscriptexist(4282985734, "Combat Warriors: Hitbox Extender", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Combat%20Warriors%20Hitbox%20Extender.lua")
+
+addscriptexist(7026949294, "Sword Simulator: Kill Aura", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sword%20Simulator%20Kill%20Aura.lua")
