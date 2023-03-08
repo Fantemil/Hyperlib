@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 17:19:04"
+lastupdate = "GMT +1: 08.03.2023 17:19:09"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -9962,3 +9962,5 @@ addscriptexist(6516141723, "DOORS: Spawn Regular Entities", "pulled from rbxscri
 addscriptexist(2788229376, "Da Hood: Script Hub", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Da%20Hood%20Script%20Hub.lua")
 
 addscriptexist(286090429, "Arsenal: Owl Hub, Orca & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Arsenal%20Owl%20Hub%20Orca%20%20More.lua")
+
+addscriptexist(9872472334, "Evade: Speed, ESP, Ticket Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Evade%20Speed%20ESP%20Ticket%20Farm.lua")
