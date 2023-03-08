@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 17:26:09"
+lastupdate = "GMT +1: 08.03.2023 17:26:15"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -10144,3 +10144,5 @@ addscriptexist(3101667897, "Legends Of Speed: Auto Hoop, Auto Rebirth, Misc", "p
 addhub("Plasek HUB: 3 Games", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Plasek%20HUB%20%20Games.lua")
 
 addscriptexist(9167501050, "Lightsaber Arena: Teleport to all Players, Auto Swap, Kill Aura", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Lightsaber%20Arena%20Teleport%20to%20all%20Players%20Auto%20Swap%20Kill%20Aura.lua")
+
+addscript(8122612051, "Current Game","Slendytubbies VS Redux: Infinity Custards", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Slendytubbies%20VS%20Redux%20Infinity%20Custards.lua")
