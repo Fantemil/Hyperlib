@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 12:53:31"
+lastupdate = "GMT +1: 08.03.2023 12:53:34"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -6758,3 +6758,5 @@ addscriptexist(10030740606, "Sweets obby! Auto Complete, Remove Kill Bricks, Rem
 addscript(11459646568, "Current Game","How Far Can You Backflip? Infinity Studs, Infinity Coins", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/How%20Far%20Can%20You%20Backflip%20Infinity%20Studs%20Infinity%20Coins.lua")
 
 addscriptexist(11445923563, "One Fruit Simulator: Gorilla Farm, Auto Farm Level, Auto Skill", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/One%20Fruit%20Simulator%20Gorilla%20Farm%20Auto%20Farm%20Level%20Auto%20Skill.lua")
+
+addscriptexist(8540346411, "Rebirth Champions X: Auto Collect Presents, Auto Claim Daily Chest & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Rebirth%20Champions%20X%20Auto%20Collect%20Presents%20Auto%20Claim%20Daily%20Chest%20%20More.lua")
