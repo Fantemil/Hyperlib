@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 18:40:02"
+lastupdate = "GMT +1: 08.03.2023 18:40:10"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -11928,3 +11928,5 @@ addscriptexist(5985232436, "Infectious Smile: ESP, Hitboxes & More", "pulled fro
 addscriptexist(621129760, "Knife Ability Test: Silent Aim, Infinity Jump, FOV", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Knife%20Ability%20Test%20Silent%20Aim%20Infinity%20Jump%20FOV.lua")
 
 addscriptexist(7026949294, "Sword Simulator: Teleports, Auto Achievements, Kill Aura", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sword%20Simulator%20Teleports%20Auto%20Achievements%20Kill%20Aura.lua")
+
+addscriptexist(2809202155, "Your Bizarre Adventure: Stand Farm, Item Farm, Stand Control", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Your%20Bizarre%20Adventure%20Stand%20Farm%20Item%20Farm%20Stand%20Control.lua")
