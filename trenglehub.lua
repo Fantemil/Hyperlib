@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 17:59:46"
+lastupdate = "GMT +1: 08.03.2023 17:59:50"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -10992,3 +10992,5 @@ addscript(10904953319, "Current Game","Race Car Clickers: Infinite Candy", "pull
 addscriptexist(8908228901, "SharkBite 2 [NEW]: Shark Esp", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SharkBite%20%20NEW%20Shark%20Esp.lua")
 
 addscriptexist(4566572536, "Vehicle Legends: Auto Race, Fast Pumpkin Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Vehicle%20Legends%20Auto%20Race%20Fast%20Pumpkin%20Farm.lua")
+
+addscript(8571871474, "Current Game","Gun Fighting Tycoon: Silent Aim, Insta Kill, Auto Tycoon", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Gun%20Fighting%20Tycoon%20Silent%20Aim%20Insta%20Kill%20Auto%20Tycoon.lua")
