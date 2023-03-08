@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 14:37:06"
+lastupdate = "GMT +1: 08.03.2023 14:37:13"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -7770,3 +7770,5 @@ addscriptexist(6772424226, "2 Player Millionaire Tycoon: Infinity Money", "pulle
 addscriptexist(7722306047, "Pet Simulator X: Auto Farm Coins, Auto Hatch Eggs, Auto Craft", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pet%20Simulator%20X%20Auto%20Farm%20Coins%20Auto%20Hatch%20Eggs%20Auto%20Craft.lua")
 
 addscriptexist(8540346411, "Rebirth Champions X: Auto Rebirth, Auto Click & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Rebirth%20Champions%20X%20Auto%20Rebirth%20Auto%20Click%20%20More.lua")
+
+addscriptexist(1962086868, "Tower Of Hell: Insta Win, Get All Items, Auto Buy", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tower%20Of%20Hell%20Insta%20Win%20Get%20All%20Items%20Auto%20Buy.lua")
