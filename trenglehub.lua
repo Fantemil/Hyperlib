@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 07:04:38"
+lastupdate = "GMT +1: 08.03.2023 07:04:42"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -5446,3 +5446,5 @@ addscript(6456351776, "Current Game","Kaiju Paradise: No bat Cool down, No Grab 
 addscript(2960777560, "Current Game","Treasure Quest: Auto Farm Hyperfrost's Revenge Dungeon", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Treasure%20Quest%20Auto%20Farm%20Hyperfrosts%20Revenge%20Dungeon.lua")
 
 addscriptexist(1240123653, "Zombie Attack: Auto Farm, Walkspeed Slider, Inifnity jumps", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Zombie%20Attack%20Auto%20Farm%20Walkspeed%20Slider%20Inifnity%20jumps.lua")
+
+addscriptexist(6516141723, "DOORS: Fullbright, Key Aura, ESP", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DOORS%20Fullbright%20Key%20Aura%20ESP.lua")
