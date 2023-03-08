@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 17:30:12"
+lastupdate = "GMT +1: 08.03.2023 17:30:18"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -10250,3 +10250,5 @@ addscriptexist(9872472334, "Evade: Auto Farm XP, Auto Respawn, Auto Revive Peopl
 addscriptexist(6299805723, "Anime Fighters Simulator: Auto Farm, Select Enemy, Auto Click", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime%20Fighters%20Simulator%20Auto%20Farm%20Select%20Enemy%20Auto%20Click.lua")
 
 addscriptexist(6938803436, "Anime Dimensions: Auto Join, Auto Skils, Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime%20Dimensions%20Auto%20Join%20Auto%20Skils%20Auto%20Farm.lua")
+
+addscriptexist(5130598377, "A Universal Time: Auto Farm Meteor, God Mode, Auto Farm Chest", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/A%20Universal%20Time%20Auto%20Farm%20Meteor%20God%20Mode%20Auto%20Farm%20Chest.lua")
