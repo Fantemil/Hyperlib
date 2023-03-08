@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 14:33:37"
+lastupdate = "GMT +1: 08.03.2023 14:33:41"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -7678,3 +7678,5 @@ addscriptexist(9224601490, "Fruit Battlegrounds: Star Hub", "pulled from rbxscri
 addscriptexist(11445923563, "One Fruit Simulator: Auto Skills, Auto Train & More!", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/One%20Fruit%20Simulator%20Auto%20Skills%20Auto%20Train%20%20More.lua")
 
 addscriptexist(2788229376, "Da Hood: Lettuce Farm, Auto Shoes & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Da%20Hood%20Lettuce%20Farm%20Auto%20Shoes%20%20More.lua")
+
+addscriptexist(3233893879, "Bad Business: Aimbot, ESP", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Bad%20Business%20Aimbot%20ESP.lua")
