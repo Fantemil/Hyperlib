@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 20:02:02"
+lastupdate = "GMT +1: 08.03.2023 20:02:07"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -13444,3 +13444,5 @@ addhub("Universal Hub Loader", "pulled from rbxscript.com", "https://raw.githubu
 addscriptexist(8737602449, "PLS DONATE | Animations, Emotes, Dances", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PLS%20DONATE%20%20Animations%20Emotes%20Dances.lua")
 
 addscriptexist(7169897329, "Nanny | Redeem Codes, Inf Stamina, Buy Any Item", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Nanny%20%20Redeem%20Codes%20Inf%20Stamina%20Buy%20Any%20Item.lua")
+
+addscriptexist(3411100258, "prtty much evry bordr gam evr | Autofarm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/prtty%20much%20evry%20bordr%20gam%20evr%20%20Autofarm.lua")
