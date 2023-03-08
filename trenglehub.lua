@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 17:34:50"
+lastupdate = "GMT +1: 08.03.2023 17:34:54"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -10362,3 +10362,5 @@ addscriptexist(1537690962, "Bee Swarm Simulator: Remove Tags, Anti Reset, Ban", 
 addscriptexist(10905034443, "Smoothie Factory Tycoon: Auto Obby, Auto Buy, Auto Jar", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Smoothie%20Factory%20Tycoon%20Auto%20Obby%20Auto%20Buy%20Auto%20Jar.lua")
 
 addscriptexist(6678877691, "ZO: Rage Bot, Auto Bal Pre, God Mode", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ZO%20Rage%20Bot%20Auto%20Bal%20Pre%20God%20Mode.lua")
+
+addscriptexist(9183932460, "Untitled Hood: Aim Lock", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Untitled%20Hood%20Aim%20Lock.lua")
