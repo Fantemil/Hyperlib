@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 06:48:17"
+lastupdate = "GMT +1: 08.03.2023 06:48:20"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -4950,3 +4950,5 @@ addscriptexist(11895850995, "Viet Pirates X: Infinite Beli, Infinity Fruits", "p
 addscriptuniversal("Universal Kings Universal ESP", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Kings%20Universal%20ESP.lua")
 
 addscript(6125809531, "Current Game","Untitled Attack on Titan: Infinite Health, Infinite Gas, Infinite Blade", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Untitled%20Attack%20on%20Titan%20Infinite%20Health%20Infinite%20Gas%20Infinite%20Blade.lua")
+
+addscriptexist(6728870912, "World of Stands: Noclip, Walkspeed, Chest Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/World%20of%20Stands%20Noclip%20Walkspeed%20Chest%20Farm.lua")
