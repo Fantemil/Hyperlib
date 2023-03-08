@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 17:06:46"
+lastupdate = "GMT +1: 08.03.2023 17:06:50"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -9644,3 +9644,5 @@ addscript(6422033265, "Current Game","No Jumping Difficulty Chart Obby: AutoPass
 addscriptexist(2248408710, "Destruction Simulator: Auto Rankup, Infinity Money, Money Boost", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Destruction%20Simulator%20Auto%20Rankup%20Infinity%20Money%20Money%20Boost.lua")
 
 addscriptexist(205224386, "Hide And Seek Extreme: Fly, Auto Win, Walkspeed", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Hide%20And%20Seek%20Extreme%20Fly%20Auto%20Win%20Walkspeed.lua")
+
+addscriptexist(3527629287, "BIG Paintball: Kill All Farm, ESP, Misc", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BIG%20Paintball%20Kill%20All%20Farm%20ESP%20Misc.lua")
