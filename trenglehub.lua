@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 20:15:48"
+lastupdate = "GMT +1: 08.03.2023 20:15:52"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -13594,3 +13594,5 @@ addscriptexist(2788229376, "Da Hood | Simple AimLock", "pulled from rbxscript.co
 addscriptexist(9264596435, "Idle Heroes Simulator | Auto Farm, Auto Upgrade", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Idle%20Heroes%20Simulator%20%20Auto%20Farm%20Auto%20Upgrade.lua")
 
 addscript(10508296878, "Current Game","Murder Mystery 7 | Redeem All Codes", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Murder%20Mystery%20%20%20Redeem%20All%20Codes.lua")
+
+addscriptexist(1224212277, "Mad City | AutoFarm EXP", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mad%20City%20%20AutoFarm%20EXP.lua")
