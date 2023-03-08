@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 06:43:50"
+lastupdate = "GMT +1: 08.03.2023 06:43:54"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -4810,3 +4810,5 @@ addscript(6581117225, "Current Game","A Roca: Shift Run, Serverhop, Walkspeed", 
 addscriptexist(1554960397, "Car Dealership Tycoon: Auto Farm, Auto Race, Teleport", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Car%20Dealership%20Tycoon%20Auto%20Farm%20Auto%20Race%20Teleport.lua")
 
 addscriptexist(292439477, "Phantom Forces: Basic Esp, Wall Check, Open Source", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Phantom%20Forces%20Basic%20Esp%20Wall%20Check%20Open%20Source.lua")
+
+addscriptexist(8131063774, "Shattered Psycho Online: Present Teleport", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Shattered%20Psycho%20Online%20Present%20Teleport.lua")
