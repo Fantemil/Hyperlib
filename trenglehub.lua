@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 20:48:59"
+lastupdate = "GMT +1: 08.03.2023 20:49:03"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -14446,3 +14446,5 @@ addscriptexist(8962384769, "Firework Simulator [Auto Hatch, AutoFarm]", "pulled 
 addscriptuniversal("Roblox Universal Script [Inf Jump, ClickTP]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Roblox%20Universal%20Script%20Inf%20Jump%20ClickTP.lua")
 
 addscriptexist(3738091713, "Boxing League [KillAura, Lock-on]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Boxing%20League%20KillAura%20Lockon.lua")
+
+addscriptexist(2788229376, "Da Hood [Fly, SilentAim]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Da%20Hood%20Fly%20SilentAim.lua")
