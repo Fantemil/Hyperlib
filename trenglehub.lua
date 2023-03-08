@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 14:33:11"
+lastupdate = "GMT +1: 08.03.2023 14:33:15"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -7670,3 +7670,5 @@ addscriptuniversal("Universal Print When Player Join Game", "pulled from rbxscri
 addscriptexist(3101667897, "Legends Of Speed: Teleport all Blue orbs to You", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Legends%20Of%20Speed%20Teleport%20all%20Blue%20orbs%20to%20You.lua")
 
 addscriptexist(9704893711, "Dha Hood: Godmode Enable", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Dha%20Hood%20Godmode%20Enable.lua")
+
+addscriptexist(6447798030, "Funky Friday: Rb Battles Auto Play For Badge", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Funky%20Friday%20Rb%20Battles%20Auto%20Play%20For%20Badge.lua")
