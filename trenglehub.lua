@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 19:59:56"
+lastupdate = "GMT +1: 08.03.2023 20:00:02"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -13402,3 +13402,5 @@ addscriptexist(3956818381, "Ninja Legends | AutoFarm, AutoFarmBoss, AutoSell", "
 addscriptexist(2622527242, "SCP rBreach | Infinity Capacity, Esp, Walkspeed", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SCP%20rBreach%20%20Infinity%20Capacity%20Esp%20Walkspeed.lua")
 
 addscriptexist(6229116934, "Hoopz | Aimbot, Reach, Walkspeed", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Hoopz%20%20Aimbot%20Reach%20Walkspeed.lua")
+
+addscriptexist(10192063645, "Thy hood | Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Thy%20hood%20%20Auto%20Farm.lua")
