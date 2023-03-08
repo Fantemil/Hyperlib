@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 14:42:03"
+lastupdate = "GMT +1: 08.03.2023 14:42:07"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -7904,3 +7904,5 @@ addhub("Kyoichi Hub: Many Games", "pulled from rbxscript.com", "https://raw.gith
 addscript(8317588085, "Current Game","Block Tycoon: Get All Items", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Block%20Tycoon%20Get%20All%20Items.lua")
 
 addscript(2780612764, "Current Game","Kavra's Kingdom: Anti Afk", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Kavras%20Kingdom%20Anti%20Afk.lua")
+
+addscript(11563572312, "Current Game","Ultimate Magnet Simulator: Infinite Cash", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ultimate%20Magnet%20Simulator%20Infinite%20Cash.lua")
