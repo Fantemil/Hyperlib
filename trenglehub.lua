@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 20:47:58"
+lastupdate = "GMT +1: 08.03.2023 20:48:02"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -14420,3 +14420,5 @@ addscriptexist(9648883891, "Festival Tycoon [Get Free Items]", "pulled from rbxs
 addscriptexist(286090429, "Arsenal [Anticheat Disabler]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Arsenal%20Anticheat%20Disabler.lua")
 
 addscriptexist(9648883891, "Festival Tycoon [Sword Pack, Inf Cash]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Festival%20Tycoon%20Sword%20Pack%20Inf%20Cash.lua")
+
+addscriptexist(10243982775, "RedBox 2 [Quickswap weapons]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RedBox%20%20Quickswap%20weapons.lua")
