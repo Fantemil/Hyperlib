@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 16:54:25"
+lastupdate = "GMT +1: 08.03.2023 16:54:29"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -9330,3 +9330,5 @@ addscriptexist(6284583030, "Pet Simulator X: Auto Enchant, Auto Boosts, Teleport
 addscript(7549229959, "Current Game","Squid Game: Walk Speed, Godmode, Kill All", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Squid%20Game%20Walk%20Speed%20Godmode%20Kill%20All.lua")
 
 addscript(10656893781, "Current Game","UT the start of madness: Spectate Player, Reset Character, ESP", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/UT%20the%20start%20of%20madness%20Spectate%20Player%20Reset%20Character%20ESP.lua")
+
+addscriptexist(6516141723, "DOORS: Walkspeed, ESP, Fullbright", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DOORS%20Walkspeed%20ESP%20Fullbright.lua")
