@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 16:41:08"
+lastupdate = "GMT +1: 08.03.2023 16:41:14"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -9006,3 +9006,5 @@ addscriptexist(8377686524, "Classic Undertale: Last Reset: Weapons Spawner", "pu
 addscript(10969817967, "Current Game","Construction Simulator: Auto Farm, Auto Buy Upgrades, Auto Worker Boost", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Construction%20Simulator%20Auto%20Farm%20Auto%20Buy%20Upgrades%20Auto%20Worker%20Boost.lua")
 
 addscriptuniversal("Universal Webhook Tools", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Webhook%20Tools.lua")
+
+addscriptexist(2537430692, "Jenga: FE Bass Boosted Vine Boom", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Jenga%20FE%20Bass%20Boosted%20Vine%20Boom.lua")
