@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 12:26:37"
+lastupdate = "GMT +1: 08.03.2023 12:26:41"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -6040,3 +6040,5 @@ addscriptexist(11040063484, "Sword Fighters Simulator: AutoFarm Nearest, AutoPic
 addscriptexist(443406476, "Project Lazarus: Damage Modifier", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Project%20Lazarus%20Damage%20Modifier.lua")
 
 addscriptuniversal("Universal Visual Works", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Visual%20Works.lua")
+
+addscript(2629642516, "Current Game","Bitcoin Miner: Snow Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Bitcoin%20Miner%20Snow%20Auto%20Farm.lua")
