@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 06:39:40"
+lastupdate = "GMT +1: 08.03.2023 06:39:46"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -4682,3 +4682,5 @@ addscriptexist(4913581664, "Cart Ride Into Rtide: Fling, Invisible, Rejoin", "pu
 addscriptexist(738339342, "Flood Escape 2: Server Crasher", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Flood%20Escape%20%20Server%20Crasher.lua")
 
 addscript(281489669, "Current Game","Wizard Tycoon - 2 Player: Kill All", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Wizard%20Tycoon%20%20%20Player%20Kill%20All.lua")
+
+addhub("Universal Henry stickmin 360 headshot MP4", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Henry%20stickmin%20%20headshot%20MP.lua")
