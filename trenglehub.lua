@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 19:01:01"
+lastupdate = "GMT +1: 08.03.2023 19:01:07"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -12354,3 +12354,5 @@ addscriptexist(2317712696, "The Wild West: Silent Aim, No Recoil, Fast Reload & 
 addscriptexist(7560156054, "Clicker Simulator: Auto Clicker, Walkspeed & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Clicker%20Simulator%20Auto%20Clicker%20Walkspeed%20%20More.lua")
 
 addhub("LOAKS HUB: 12 Games Support", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LOAKS%20HUB%20%20Games%20Support.lua")
+
+addscriptexist(6447798030, "Funky Friday: Points AutoFarm, Boss AutoFarm, Anti Afk", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Funky%20Friday%20Points%20AutoFarm%20Boss%20AutoFarm%20Anti%20Afk.lua")
