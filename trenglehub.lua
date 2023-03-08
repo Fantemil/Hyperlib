@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 17:24:30"
+lastupdate = "GMT +1: 08.03.2023 17:24:34"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -10104,3 +10104,5 @@ addscriptexist(9880062154, "The Last Strandeds: Server Crasher", "pulled from rb
 addscriptexist(648362523, "Breaking Point: Auto Farm - 200k Per Hour", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Breaking%20Point%20Auto%20Farm%20%20k%20Per%20Hour.lua")
 
 addscriptexist(914010731, "Ro-ghoul: Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Roghoul%20Auto%20Farm.lua")
+
+addscriptexist(2866967438, "Fishing Simulator: Updated Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Fishing%20Simulator%20Updated%20Auto%20Farm.lua")
