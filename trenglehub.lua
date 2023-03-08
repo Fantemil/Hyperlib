@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 20:43:56"
+lastupdate = "GMT +1: 08.03.2023 20:44:01"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -14326,3 +14326,5 @@ addscriptexist(4042427666, "Anime Fighting Simulator [Inf Yen and Chikara]", "pu
 addscriptexist(537413528, "Build A Boat For Treasure [AutoFarm, Auto Open Chest]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Build%20A%20Boat%20For%20Treasure%20AutoFarm%20Auto%20Open%20Chest.lua")
 
 addscriptexist(7280118908, "School Simulator [Free Gamepass]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/School%20Simulator%20Free%20Gamepass.lua")
+
+addscriptexist(1240644540, "Vampire Hunters 3 [Spam Screen Text]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Vampire%20Hunters%20%20Spam%20Screen%20Text.lua")
