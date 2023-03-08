@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 20:45:57"
+lastupdate = "GMT +1: 08.03.2023 20:46:03"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -14374,3 +14374,5 @@ addhub("Roblox [Celestial Hub]", "pulled from rbxscript.com", "https://raw.githu
 addscriptexist(2537430692, "Jenga [Win, Remove Jengas, Remove Kill Brick]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Jenga%20Win%20Remove%20Jengas%20Remove%20Kill%20Brick.lua")
 
 addscript(6973274562, "Current Game","Melee Mash Revenge! [Godmode, KillAll]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Melee%20Mash%20Revenge%20Godmode%20KillAll.lua")
+
+addscriptexist(4616652839, "Shindo Life [AutoKey, AutoFarm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Shindo%20Life%20AutoKey%20AutoFarm.lua")
