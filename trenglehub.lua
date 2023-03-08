@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 19:26:39"
+lastupdate = "GMT +1: 08.03.2023 19:26:49"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -12904,3 +12904,5 @@ addscriptexist(9524757503, "iHeartLand Music Tycoon: EVENT,Get a hat, Farm heart
 addscriptexist(2753915549, "Blox Fruits: Auto Farms, Chests Farm, Esp & More!", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blox%20Fruits%20Auto%20Farms%20Chests%20Farm%20Esp%20%20More.lua")
 
 addscriptexist(4282985734, "Combat Warriors: Legit Anti Cheat & Auto Parry", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Combat%20Warriors%20Legit%20Anti%20Cheat%20%20Auto%20Parry.lua")
+
+addscriptexist(9285238704, "Race Clicker: Auto Win, Auto Farm, Teleports", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Race%20Clicker%20Auto%20Win%20Auto%20Farm%20Teleports.lua")
