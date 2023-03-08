@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 14:31:07"
+lastupdate = "GMT +1: 08.03.2023 14:31:13"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -7616,3 +7616,5 @@ addscriptexist(6607361476, "Shopping Wars: Teleport to Escape, Teleport to Keyca
 addscriptexist(9571238478, "Raise a Peter: Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Raise%20a%20Peter%20Auto%20Farm.lua")
 
 addscriptuniversal("Universal Save Place IDs of Universal Places", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Save%20Place%20IDs%20of%20Universal%20Places.lua")
+
+addscriptexist(6441847031, "CHAOS: Dupe, Small Hitboxes, Spam C4", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CHAOS%20Dupe%20Small%20Hitboxes%20Spam%20C.lua")
