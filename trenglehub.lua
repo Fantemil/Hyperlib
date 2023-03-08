@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 18:28:59"
+lastupdate = "GMT +1: 08.03.2023 18:29:03"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -11714,3 +11714,5 @@ addscriptexist(11177482306, "Streetz War: Auto Farm", "pulled from rbxscript.com
 addscript(5917852358, "Current Game","Find the codes: Esp", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Find%20the%20codes%20Esp.lua")
 
 addscriptexist(10924916839, "Bee Tower Tycoon: Auto Buy, Auto Upgrade & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Bee%20Tower%20Tycoon%20Auto%20Buy%20Auto%20Upgrade%20%20More.lua")
+
+addscriptexist(11189979930, "Pet Crafting Simulator: Auto Merge, Auto Complete Obby, Auto Rebirth", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pet%20Crafting%20Simulator%20Auto%20Merge%20Auto%20Complete%20Obby%20Auto%20Rebirth.lua")
