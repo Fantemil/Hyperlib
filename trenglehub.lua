@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 18:17:52"
+lastupdate = "GMT +1: 08.03.2023 18:17:56"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -11436,3 +11436,5 @@ addscriptexist(7026949294, "Sword Simulator: Kill Aura", "pulled from rbxscript.
 addscriptexist(8726743209, "Refinery Caves: Auto Farm, Auto Sell, Tp", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Refinery%20Caves%20Auto%20Farm%20Auto%20Sell%20Tp.lua")
 
 addscriptexist(10925589760, "Merge Simulator: Merge All Blocks", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Merge%20Simulator%20Merge%20All%20Blocks.lua")
+
+addscriptexist(10723695195, "Anime Evolution Simulator: Auto Farm, Auto Buy, Auto Claim Gift", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime%20Evolution%20Simulator%20Auto%20Farm%20Auto%20Buy%20Auto%20Claim%20Gift.lua")
