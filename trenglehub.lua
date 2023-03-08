@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 20:39:48"
+lastupdate = "GMT +1: 08.03.2023 20:39:52"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -14226,3 +14226,5 @@ addscriptexist(6461766546, "A Hero's Destiny [Auto Spin, Auto Quest, Auto Skills
 addscriptexist(9143982021, "Sword Battles [KillAura, Godmode]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sword%20Battles%20KillAura%20Godmode.lua")
 
 addscript(9103090927, "Current Game","Stumble Buddies [Kick Players, Change Map]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Stumble%20Buddies%20Kick%20Players%20Change%20Map.lua")
+
+addscript(5890116343, "Current Game","Age Simulator [AutoFarm, AutoAge]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Age%20Simulator%20AutoFarm%20AutoAge.lua")
