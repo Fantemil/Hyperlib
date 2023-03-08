@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 21:05:03"
+lastupdate = "GMT +1: 08.03.2023 21:05:08"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -14844,3 +14844,5 @@ addscriptuniversal("Roblox Universal Script [FE Rich Items]", "pulled from rbxsc
 addscriptuniversal("Roblox Universal Script [Bot Killsay]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Roblox%20Universal%20Script%20Bot%20Killsay.lua")
 
 addscriptexist(1997193809, "Backpacking [Auto Farm, Destroy All Seats]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Backpacking%20Auto%20Farm%20Destroy%20All%20Seats.lua")
+
+addscriptuniversal("Roblox Universal Script [Invisible]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Roblox%20Universal%20Script%20Invisible.lua")
