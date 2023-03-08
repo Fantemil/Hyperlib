@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 18:04:39"
+lastupdate = "GMT +1: 08.03.2023 18:04:43"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -11116,3 +11116,5 @@ addscriptexist(8884433153, "Collect All Pets: Auto Farm, Auto Claim Quest Reward
 addscriptexist(1962086868, "Tower Of Hell: Remove Anti Cheat, Teleport to End, Give All Items", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tower%20Of%20Hell%20Remove%20Anti%20Cheat%20Teleport%20to%20End%20Give%20All%20Items.lua")
 
 addscriptexist(286090429, "Arsenal: ESP, Aimbot, Auto Open Cases", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Arsenal%20ESP%20Aimbot%20Auto%20Open%20Cases.lua")
+
+addscriptexist(3956818381, "Ninja Legends: Auto Rebirth, Auto Sell, Infinity Jumps", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ninja%20Legends%20Auto%20Rebirth%20Auto%20Sell%20Infinity%20Jumps.lua")
