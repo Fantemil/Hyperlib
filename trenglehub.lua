@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 06:37:27"
+lastupdate = "GMT +1: 08.03.2023 06:37:33"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -4624,3 +4624,5 @@ addscriptexist(3260590327, "Tower Defense Simulator: Auto Strat, Auto Farm", "pu
 addscriptuniversal("Universal Fps Booster", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Fps%20Booster.lua")
 
 addscript(691884101, "Current Game","Dynamic Ship Simulator III: Anti Cheat Bypass", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Dynamic%20Ship%20Simulator%20III%20Anti%20Cheat%20Bypass.lua")
+
+addscriptexist(920587237, "Adopt Me!: Lantern Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Adopt%20Me%20Lantern%20Auto%20Farm.lua")
