@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 14:30:00"
+lastupdate = "GMT +1: 08.03.2023 14:30:04"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -7586,3 +7586,5 @@ addscript(338521019, "Current Game","Identity Fraud: Anticheat bypass, Remove Do
 addscriptexist(11302865934, "Every Second You Get +1 Health: Auto Win, Auto Regen Healt, Auto Rebirth", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Every%20Second%20You%20Get%20%20Health%20Auto%20Win%20Auto%20Regen%20Healt%20Auto%20Rebirth.lua")
 
 addscriptexist(6447798030, "Funky Friday: Auto Collect Event Rings", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Funky%20Friday%20Auto%20Collect%20Event%20Rings.lua")
+
+addscriptexist(6298464951, "Roblox Is Unbreakable: Dupe Stands, Items, Money", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Roblox%20Is%20Unbreakable%20Dupe%20Stands%20Items%20Money.lua")
