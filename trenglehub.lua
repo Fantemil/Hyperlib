@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 18:09:10"
+lastupdate = "GMT +1: 08.03.2023 18:09:15"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -11228,3 +11228,5 @@ addscriptexist(855499080, "SKYWARS: Mine Aura, God Mode, Fe Shield & More", "pul
 addscriptexist(4913581664, "Cart Ride Into Rdite: Destroy Game", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Cart%20Ride%20Into%20Rdite%20Destroy%20Game.lua")
 
 addhub("Nau Hub: 2 Games", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Nau%20Hub%20%20Games.lua")
+
+addscriptexist(3260590327, "Tower Defense Simulator: Sniper & Scout Auto Farm [level 0]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tower%20Defense%20Simulator%20Sniper%20%20Scout%20Auto%20Farm%20level%20.lua")
