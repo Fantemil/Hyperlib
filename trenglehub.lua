@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 19:22:22"
+lastupdate = "GMT +1: 08.03.2023 19:22:32"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -12812,3 +12812,5 @@ addscriptexist(9992339729, "Longest Answer Wins: Auto Answer, Walkspeed", "pulle
 addscriptexist(5956785391, "Project Slayers: Unparty All", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Project%20Slayers%20Unparty%20All.lua")
 
 addscriptuniversal("Universal Walkspeed Spoofer", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Walkspeed%20Spoofer.lua")
+
+addscriptexist(8447279898, "The Pointless Printer Game v1.2.8: Infinite Money", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/The%20Pointless%20Printer%20Game%20v%20Infinite%20Money.lua")
