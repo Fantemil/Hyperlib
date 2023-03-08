@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 18:27:32"
+lastupdate = "GMT +1: 08.03.2023 18:27:36"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -11678,3 +11678,5 @@ addscriptexist(537413528, "Build A Boat For Treasure: Auto Farm, Gravity & More"
 addscript(2580982329, "Current Game","Texting Simulator: Auto Text, Auto Redeem All Codes & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Texting%20Simulator%20Auto%20Text%20Auto%20Redeem%20All%20Codes%20%20More.lua")
 
 addscriptexist(7026828578, "Speed Simulator: Speed", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Speed%20Simulator%20Speed.lua")
+
+addscriptexist(9666226803, "Motel Simulator: Auto Cook, Cook Once, Instant Interest", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Motel%20Simulator%20Auto%20Cook%20Cook%20Once%20Instant%20Interest.lua")
