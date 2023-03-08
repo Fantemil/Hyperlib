@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 06:40:50"
+lastupdate = "GMT +1: 08.03.2023 06:40:53"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -4718,3 +4718,5 @@ addhub("Space Hub: 20+ Games", "pulled from rbxscript.com", "https://raw.githubu
 addscriptexist(142823291, "Murder Mystery 2: Teleport To Lobby, Autofarm Coin, Autofarm Exp", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Murder%20Mystery%20%20Teleport%20To%20Lobby%20Autofarm%20Coin%20Autofarm%20Exp.lua")
 
 addscriptuniversal("Universal Free future lighting", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Free%20future%20lighting.lua")
+
+addscriptuniversal("Universal Teleports, Walkspeed, Noclip", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Teleports%20Walkspeed%20Noclip.lua")
