@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 18:31:17"
+lastupdate = "GMT +1: 08.03.2023 18:31:23"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -11762,3 +11762,5 @@ addscriptexist(8278412720, "CS Prison Life: Infinite Taser Range", "pulled from 
 addscriptexist(2788229376, "Da Hood: Super Sword Giver", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Da%20Hood%20Super%20Sword%20Giver.lua")
 
 addscriptexist(10912060909, "Black Adam Experience: Teleport To Dr Fate Helmet", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Black%20Adam%20Experience%20Teleport%20To%20Dr%20Fate%20Helmet.lua")
+
+addscript(5150267415, "Current Game","steal a bank to get some beans: Finish The Game", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/steal%20a%20bank%20to%20get%20some%20beans%20Finish%20The%20Game.lua")
