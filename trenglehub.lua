@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 12:46:42"
+lastupdate = "GMT +1: 08.03.2023 12:46:45"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -6596,3 +6596,5 @@ addscript(4246487209, "Current Game","Boss Fighting Simulator: Auto Clicker", "p
 addscript(7535149098, "Current Game","Space Tycoon: Op Cash & Gem Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Space%20Tycoon%20Op%20Cash%20%20Gem%20Farm.lua")
 
 addscriptexist(4811576324, "Total Accurate Gun Simulator: Kill All", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Total%20Accurate%20Gun%20Simulator%20Kill%20All.lua")
+
+addscript(11759625413, "Current Game","Dem's Upgrade Tree: Admin Panel", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Dems%20Upgrade%20Tree%20Admin%20Panel.lua")
