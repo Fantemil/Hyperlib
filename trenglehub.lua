@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 21:04:43"
+lastupdate = "GMT +1: 08.03.2023 21:04:48"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -14836,3 +14836,5 @@ addscript(7993293100, "Current Game","Tsunami Game [Auto Farm, Teleport]", "pull
 addscriptexist(4282985734, "Combat Warriors [KillAura, No parry]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Combat%20Warriors%20KillAura%20No%20parry.lua")
 
 addscriptexist(8540346411, "Rebirth Champions X [Auto Buy, Auto Clicker]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Rebirth%20Champions%20X%20Auto%20Buy%20Auto%20Clicker.lua")
+
+addscriptexist(2788229376, "Da Hood [Trash Talk]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Da%20Hood%20Trash%20Talk.lua")
