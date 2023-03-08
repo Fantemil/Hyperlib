@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 20:34:04"
+lastupdate = "GMT +1: 08.03.2023 20:34:08"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -14072,3 +14072,5 @@ addscriptexist(10207722290, "Lifting Legends Simulator [Auto Farm, Sell, Buy]", 
 addscriptexist(10676523834, "Racing Rocket [Upgrade Rocket]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Racing%20Rocket%20Upgrade%20Rocket.lua")
 
 addscriptexist(8750997647, "Tapping Legends X [AutoClick, AutoUpgrade]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tapping%20Legends%20X%20AutoClick%20AutoUpgrade.lua")
+
+addscriptexist(9772878203, "raise a floppa 2 [Automatic Crystal Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/raise%20a%20floppa%20%20Automatic%20Crystal%20Farm.lua")
