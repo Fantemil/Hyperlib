@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 17:42:52"
+lastupdate = "GMT +1: 08.03.2023 17:42:56"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -10568,3 +10568,5 @@ addscriptexist(10347946161, "Rat Washing Tycoon: Auto Wash, Auto Collect, Auto O
 addscriptexist(7047488135, "Speed Run Simulator: Auto Click, Auto Rebirth, Auto Rings", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Speed%20Run%20Simulator%20Auto%20Click%20Auto%20Rebirth%20Auto%20Rings.lua")
 
 addscriptexist(6447798030, "Funky Friday: Infinity Stats", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Funky%20Friday%20Infinity%20Stats.lua")
+
+addscriptexist(9498006165, "Tapping Simulator: Auto Tap, Auto Upgrade & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tapping%20Simulator%20Auto%20Tap%20Auto%20Upgrade%20%20More.lua")
