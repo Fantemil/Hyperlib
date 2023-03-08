@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 19:18:20"
+lastupdate = "GMT +1: 08.03.2023 19:18:27"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -12726,3 +12726,5 @@ addscriptexist(9993529229, "Counter Blox Remastered: Inf Open Any Case", "pulled
 addscriptexist(9845465117, "AU:Reborn: Walkspeed, Farm Player, Noclip", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AUReborn%20Walkspeed%20Farm%20Player%20Noclip.lua")
 
 addscriptexist(6516141723, "DOORS: Esp, Key Aura, Speed", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DOORS%20Esp%20Key%20Aura%20Speed.lua")
+
+addscriptexist(10085978574, "My Little Pony Visit Maretime Bay: Quest Farm, Collect All Items, Get Sparky Shoulder Pet", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/My%20Little%20Pony%20Visit%20Maretime%20Bay%20Quest%20Farm%20Collect%20All%20Items%20Get%20Sparky%20Shoulder%20Pet.lua")
