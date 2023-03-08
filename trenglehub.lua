@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 14:59:33"
+lastupdate = "GMT +1: 08.03.2023 14:59:37"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -8376,3 +8376,5 @@ addscriptexist(3101667897, "Legends Of Speed: Auto Collect Orbs, Hoops, Auto Reb
 addscript(4292776423, "Current Game","Unit: Classified: Kill All", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Unit%20Classified%20Kill%20All.lua")
 
 addscriptexist(1962086868, "Tower Of Hell: Auto Buy, Auto WIn, Remove Anti Cheat", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tower%20Of%20Hell%20Auto%20Buy%20Auto%20WIn%20Remove%20Anti%20Cheat.lua")
+
+addscriptuniversal("Universal Shift to Sprint or Run", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Shift%20to%20Sprint%20or%20Run.lua")
