@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 19:24:58"
+lastupdate = "GMT +1: 08.03.2023 19:25:04"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -12866,3 +12866,5 @@ addscript(1487722208, "Current Game","Barren: Inf Ammo", "pulled from rbxscript.
 addscriptexist(8737602449, "PLS DONATE: Auto Farm, Server Hop, Auto Msg", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PLS%20DONATE%20Auto%20Farm%20Server%20Hop%20Auto%20Msg.lua")
 
 addscriptexist(286090429, "Arsenal: Aimbot, ESP, FOV", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Arsenal%20Aimbot%20ESP%20FOV.lua")
+
+addscriptexist(7991339063, "Rainbow Friends: Auto Win", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Rainbow%20Friends%20Auto%20Win.lua")
