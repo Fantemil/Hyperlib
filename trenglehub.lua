@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 20:29:45"
+lastupdate = "GMT +1: 08.03.2023 20:29:52"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -13964,3 +13964,5 @@ addscriptexist(183364845, "Speed Run 4 [Inf Gems, AutoStars]", "pulled from rbxs
 addscriptuniversal("Roblox Universal Script [KeyStrokes]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Roblox%20Universal%20Script%20KeyStrokes.lua")
 
 addscriptexist(8260276694, "Ability Wars [Combat Bot]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ability%20Wars%20Combat%20Bot.lua")
+
+addscript(7986132460, "Current Game","Cannon Simulator [Gives the alt a pet]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Cannon%20Simulator%20Gives%20the%20alt%20a%20pet.lua")
