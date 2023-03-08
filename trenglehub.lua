@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 07:12:12"
+lastupdate = "GMT +1: 08.03.2023 07:12:16"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -5678,3 +5678,5 @@ addscript(698448212, "Current Game","RoBeats: Auto Player", "pulled from rbxscri
 addscriptexist(8884433153, "Collect All Pets: Auto Farm, Auto Jump, Teleport Egg", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Collect%20All%20Pets%20Auto%20Farm%20Auto%20Jump%20Teleport%20Egg.lua")
 
 addscriptuniversal("Universal Fire all RemoteEvents in ReplicatedStorage", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Fire%20all%20RemoteEvents%20in%20ReplicatedStorage.lua")
+
+addscriptuniversal("Universal chat filter issues message", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20chat%20filter%20issues%20message.lua")
