@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 16:54:59"
+lastupdate = "GMT +1: 08.03.2023 16:55:04"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -9346,3 +9346,5 @@ addscriptexist(6403373529, "Slap Battles: Say sus and make a vinethud", "pulled 
 addscript(10893141806, "Current Game","Truck Factory Tycoon: Auto Functions Section, Teleport Section, Fun Section", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Truck%20Factory%20Tycoon%20Auto%20Functions%20Section%20Teleport%20Section%20Fun%20Section.lua")
 
 addscriptexist(6678877691, "ZO: Fly, Auto Block, Auto Parry", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ZO%20Fly%20Auto%20Block%20Auto%20Parry.lua")
+
+addscriptexist(11153589280, "DOORS Race Clicker: Auto Farm Wins, Auto Speed, Auto Hatch", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DOORS%20Race%20Clicker%20Auto%20Farm%20Wins%20Auto%20Speed%20Auto%20Hatch.lua")
