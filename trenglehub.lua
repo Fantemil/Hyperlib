@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 15:17:54"
+lastupdate = "GMT +1: 08.03.2023 15:17:58"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -8866,3 +8866,5 @@ addscriptexist(1662219031, "Life in Paradise: Lag Server", "pulled from rbxscrip
 addscriptuniversal("Universal Audio Destroyer", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Audio%20Destroyer.lua")
 
 addscriptexist(443406476, "Project Lazarus: Infinity Ammo, Insta Kill", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Project%20Lazarus%20Infinity%20Ammo%20Insta%20Kill.lua")
+
+addscript(9183932460, "Current Game","Untitled Hood: Silent Aim", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Untitled%20Hood%20Silent%20Aim.lua")
