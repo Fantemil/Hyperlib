@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 07:04:42"
+lastupdate = "GMT +1: 08.03.2023 07:04:46"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -5448,3 +5448,5 @@ addscript(2960777560, "Current Game","Treasure Quest: Auto Farm Hyperfrost's Rev
 addscriptexist(1240123653, "Zombie Attack: Auto Farm, Walkspeed Slider, Inifnity jumps", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Zombie%20Attack%20Auto%20Farm%20Walkspeed%20Slider%20Inifnity%20jumps.lua")
 
 addscriptexist(6516141723, "DOORS: Fullbright, Key Aura, ESP", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DOORS%20Fullbright%20Key%20Aura%20ESP.lua")
+
+addscript(9912491609, "Current Game","How Far Can You Fly: Auto Buy Walkspeed", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/How%20Far%20Can%20You%20Fly%20Auto%20Buy%20Walkspeed.lua")
