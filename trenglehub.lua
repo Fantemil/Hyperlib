@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 16:50:52"
+lastupdate = "GMT +1: 08.03.2023 16:50:59"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -9244,3 +9244,5 @@ addscriptexist(5956785391, "Project Slayers: Auto Collect Chests", "pulled from 
 addscriptexist(5956785391, "Project Slayers: Insta Kill", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Project%20Slayers%20Insta%20Kill.lua")
 
 addscriptexist(10919241870, "Rarity Factory Tycoon: Auto Farm, Auto Buy, Auto Obby", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Rarity%20Factory%20Tycoon%20Auto%20Farm%20Auto%20Buy%20Auto%20Obby.lua")
+
+addscriptexist(5791762440, "Sonic.exe survival: Press E to Fly", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sonicexe%20survival%20Press%20E%20to%20Fly.lua")
