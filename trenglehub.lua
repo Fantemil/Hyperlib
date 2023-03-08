@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 19:35:32"
+lastupdate = "GMT +1: 08.03.2023 19:35:36"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -13104,3 +13104,5 @@ addscriptexist(1962086868, "Tower of Hell: Godmode, Tp To Finish", "pulled from 
 addscriptexist(8396586868, "A 0ne Piece Game: Auto Quest, Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/A%20ne%20Piece%20Game%20Auto%20Quest%20Auto%20Farm.lua")
 
 addscriptexist(142823291, "Murder Mystery 2: Fly, Esp, Noclip", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Murder%20Mystery%20%20Fly%20Esp%20Noclip.lua")
+
+addscriptexist(2753915549, "Blox Fruits GUI: Auto Farm, Fast Attack & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blox%20Fruits%20GUI%20Auto%20Farm%20Fast%20Attack%20%20More.lua")
