@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 12:34:03"
+lastupdate = "GMT +1: 08.03.2023 12:34:08"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -6240,3 +6240,5 @@ addscriptexist(2753915549, "Blox Fruits: Bring mob, Fast Attack, Auto Buso", "pu
 addscriptexist(606849621, "Jailbreak: RB Battles Badge Giver", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Jailbreak%20RB%20Battles%20Badge%20Giver.lua")
 
 addscriptexist(9798463281, "Cube Combination: Auto Bridge", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Cube%20Combination%20Auto%20Bridge.lua")
+
+addscriptexist(2788229376, "Da Hood: Teleports, Combat, Character", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Da%20Hood%20Teleports%20Combat%20Character.lua")
