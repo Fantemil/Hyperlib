@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 19:31:44"
+lastupdate = "GMT +1: 08.03.2023 19:31:49"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -13018,3 +13018,5 @@ addscriptexist(4282985734, "Combat Warriors: Fly, Killaura", "pulled from rbxscr
 addscriptexist(10675066724, "Slime Tower Tycoon: Auto Collect, Auto Deposit & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Slime%20Tower%20Tycoon%20Auto%20Collect%20Auto%20Deposit%20%20More.lua")
 
 addscriptexist(10758748100, "Killstreak Simulator Remake: Add many Kills", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Killstreak%20Simulator%20Remake%20Add%20many%20Kills.lua")
+
+addscriptexist(370731277, "MeepCity: Balloon Spam", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MeepCity%20Balloon%20Spam.lua")
