@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 17:32:14"
+lastupdate = "GMT +1: 08.03.2023 17:32:18"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -10300,3 +10300,5 @@ addscriptexist(6516141723, "DOORS: Brightness, ESP & More", "pulled from rbxscri
 addscriptexist(10710676163, "SPTS : Origin | Auto Train, Auto Respawn", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SPTS%20%20Origin%20%20Auto%20Train%20Auto%20Respawn.lua")
 
 addscriptexist(4111023553, "Deepwoken: Auto Wisp", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Deepwoken%20Auto%20Wisp.lua")
+
+addscriptexist(4639625707, "Oil Warfare Tycoon: Gun Mods, Player Mods, ESP", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Oil%20Warfare%20Tycoon%20Gun%20Mods%20Player%20Mods%20ESP.lua")
