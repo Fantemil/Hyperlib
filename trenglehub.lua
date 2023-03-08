@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 19:50:30"
+lastupdate = "GMT +1: 08.03.2023 19:50:36"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -13202,3 +13202,5 @@ addscriptexist(9919640604, "Gem Mining Incremental | Infinite Gems", "pulled fro
 addscriptexist(9304358188, "Find The Memes | Get All Memes", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Find%20The%20Memes%20%20Get%20All%20Memes.lua")
 
 addscriptexist(9585537847, "SHADOVIS RPG | GUI - Multi Farm - Kill Aura & More!", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SHADOVIS%20RPG%20%20GUI%20%20Multi%20Farm%20%20Kill%20Aura%20%20More.lua")
+
+addscriptexist(5796917097, "Road to Grambys | God Mode - Fly & More!", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Road%20to%20Grambys%20%20God%20Mode%20%20Fly%20%20More.lua")
