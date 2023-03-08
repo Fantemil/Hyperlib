@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 20:00:40"
+lastupdate = "GMT +1: 08.03.2023 20:00:47"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -13418,3 +13418,5 @@ addscriptexist(2185497593, "Arcade Island X: Working Arcade | AutoFarm money", "
 addscript(6289365295, "Current Game","Sky's Difficulty Chart Obby | AutoComplete", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Skys%20Difficulty%20Chart%20Obby%20%20AutoComplete.lua")
 
 addscriptexist(9993529229, "Counter Blox: Remastered | Esp, Rage Bot, Auto Wall", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Counter%20Blox%20Remastered%20%20Esp%20Rage%20Bot%20Auto%20Wall.lua")
+
+addscriptexist(155615604, "Prison Life | Gun Mode, Give Gun, Walkspeed", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Prison%20Life%20%20Gun%20Mode%20Give%20Gun%20Walkspeed.lua")
