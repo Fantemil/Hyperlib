@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 12:50:43"
+lastupdate = "GMT +1: 08.03.2023 12:50:50"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -6688,3 +6688,5 @@ addscript(7205641391, "Current Game","Monday Morning Misery: Auto Player", "pull
 addscriptexist(863266079, "Apocalypse Rising 2: Parvus Hub", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Apocalypse%20Rising%20%20Parvus%20Hub.lua")
 
 addscriptexist(3177438863, "Dragon Blox: Auto Farm, Kill Aura, Best Form & More!", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Dragon%20Blox%20Auto%20Farm%20Kill%20Aura%20Best%20Form%20%20More.lua")
+
+addscript(10527318818, "Current Game","goofy legends: Get Everything", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/goofy%20legends%20Get%20Everything.lua")
