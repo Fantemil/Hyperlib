@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 18:39:31"
+lastupdate = "GMT +1: 08.03.2023 18:39:35"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -11916,3 +11916,5 @@ addscriptexist(10925589760, "Merge Simulator: Free Money", "pulled from rbxscrip
 addscriptexist(6888253864, "Wacky Wizards: Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Wacky%20Wizards%20Auto%20Farm.lua")
 
 addscriptexist(9941633436, "Rank Simulator: Infinite Gems", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Rank%20Simulator%20Infinite%20Gems.lua")
+
+addscript(10779604733, "Current Game","VBet: Auto Collect Pumpkins", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/VBet%20Auto%20Collect%20Pumpkins.lua")
