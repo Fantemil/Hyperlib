@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 14:32:27"
+lastupdate = "GMT +1: 08.03.2023 14:32:32"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -7650,3 +7650,5 @@ addscript(7791106063, "Current Game","Furry Infection: Auto Breakout, Insta Kill
 addscriptexist(142823291, "Murder Mystery 2: Auto Grab Gun, Silent Aim, Kill All", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Murder%20Mystery%20%20Auto%20Grab%20Gun%20Silent%20Aim%20Kill%20All.lua")
 
 addscript(6552369796, "Current Game","Neon Knights: Insta Kill, No Damage, Server Hop Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Neon%20Knights%20Insta%20Kill%20No%20Damage%20Server%20Hop%20Auto%20Farm.lua")
+
+addscriptexist(2753915549, "Blox Fruits: The #1 Free Gui Cracked - Key System Removed", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blox%20Fruits%20The%20%20Free%20Gui%20Cracked%20%20Key%20System%20Removed.lua")
