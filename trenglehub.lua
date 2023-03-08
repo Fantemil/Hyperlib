@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 17:05:47"
+lastupdate = "GMT +1: 08.03.2023 17:05:51"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -9620,3 +9620,5 @@ addscriptexist(11237748076, "Stranger Things Immersive Watch Party: Get Waffle B
 addscriptuniversal("Universal Keyboard Gui", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Keyboard%20Gui.lua")
 
 addscriptuniversal("Universal Fly, Speed, ESP", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Fly%20Speed%20ESP.lua")
+
+addscriptexist(6516141723, "DOORS: No Screech, Skip Level, Key Chams", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DOORS%20No%20Screech%20Skip%20Level%20Key%20Chams.lua")
