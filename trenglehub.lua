@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 17:59:54"
+lastupdate = "GMT +1: 08.03.2023 17:59:59"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -10996,3 +10996,5 @@ addscriptexist(4566572536, "Vehicle Legends: Auto Race, Fast Pumpkin Farm", "pul
 addscript(8571871474, "Current Game","Gun Fighting Tycoon: Silent Aim, Insta Kill, Auto Tycoon", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Gun%20Fighting%20Tycoon%20Silent%20Aim%20Insta%20Kill%20Auto%20Tycoon.lua")
 
 addscript(10702033108, "Current Game","Bloody Ragdoll Engine: Auto PVP, Anti Ragdoll, Auto Weapons", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Bloody%20Ragdoll%20Engine%20Auto%20PVP%20Anti%20Ragdoll%20Auto%20Weapons.lua")
+
+addscript(7076813495, "Current Game","Basketball Stars: AimBot", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Basketball%20Stars%20AimBot.lua")
