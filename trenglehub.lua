@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 15:07:04"
+lastupdate = "GMT +1: 08.03.2023 15:07:08"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -8574,3 +8574,5 @@ addscriptexist(2753915549, "Blox Fruits: Auto Farm Lvl, Teleports, Auto Stats", 
 addscriptexist(4292776423, "Unit: Classified: Spam Voices", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Unit%20Classified%20Spam%20Voices.lua")
 
 addscriptexist(10106105124, "Wheat Farming Simulator: Redeem All Codes, Auto Farm Wheat, Auto Sell", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Wheat%20Farming%20Simulator%20Redeem%20All%20Codes%20Auto%20Farm%20Wheat%20Auto%20Sell.lua")
+
+addscriptexist(9534337535, "Shrek in the Backrooms: Unlock all Levels", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Shrek%20in%20the%20Backrooms%20Unlock%20all%20Levels.lua")
