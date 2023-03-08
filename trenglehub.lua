@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 20:37:44"
+lastupdate = "GMT +1: 08.03.2023 20:37:48"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -14170,3 +14170,5 @@ addscriptexist(10347946161, "Rat Washing Tycoon [Auto Farm]", "pulled from rbxsc
 addscript(10705886260, "Current Game","Strucid [Anti-Cheat Bypass]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Strucid%20AntiCheat%20Bypass.lua")
 
 addscriptexist(10705886260, "Strucid [Kill All]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Strucid%20Kill%20All.lua")
+
+addhub("Roblox [Ultimate Hub]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Roblox%20Ultimate%20Hub.lua")
