@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 19:10:28"
+lastupdate = "GMT +1: 08.03.2023 19:10:36"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -12552,3 +12552,5 @@ addscriptexist(1730877806, "Grand Piece Online: Auto Stats, Auto Farm, Teleports
 addscriptexist(9588998913, "Empire Clash: Speedhack", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Empire%20Clash%20Speedhack.lua")
 
 addscriptexist(9872472334, "Evade: Auto quadruple trouble", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Evade%20Auto%20quadruple%20trouble.lua")
+
+addscriptexist(1554960397, "Car Dealership Tycoon: Set Speed your Car", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Car%20Dealership%20Tycoon%20Set%20Speed%20your%20Car.lua")
