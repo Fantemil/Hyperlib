@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 18:08:56"
+lastupdate = "GMT +1: 08.03.2023 18:09:01"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -11222,3 +11222,5 @@ addscriptexist(8596797381, "Northside Chicago: Infinite Stamina, Map Destruction
 addscriptexist(1240123653, "Zombie Attack: Auto Farm, Silent Aim, Overpowered Level 100 In 15 Mins", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Zombie%20Attack%20Auto%20Farm%20Silent%20Aim%20Overpowered%20Level%20%20In%20%20Mins.lua")
 
 addscriptexist(1240123653, "Zombie Attack: Gain 300 Levels In 1 Hour", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Zombie%20Attack%20Gain%20%20Levels%20In%20%20Hour.lua")
+
+addscriptexist(855499080, "SKYWARS: Mine Aura, God Mode, Fe Shield & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SKYWARS%20Mine%20Aura%20God%20Mode%20Fe%20Shield%20%20More.lua")
