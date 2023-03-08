@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 14:28:07"
+lastupdate = "GMT +1: 08.03.2023 14:28:14"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -7540,3 +7540,5 @@ addscript(510444657, "Current Game","CRIMINAL VS. SWAT: Kill All, God Mode", "pu
 addscript(5233268561, "Current Game","A Bizarre Journey! Kill Aura", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/A%20Bizarre%20Journey%20Kill%20Aura.lua")
 
 addscriptexist(5041144419, "SCP: Roleplay: Give you Rapid Fire", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SCP%20Roleplay%20Give%20you%20Rapid%20Fire.lua")
+
+addscriptuniversal("Universal Admin Commands Bar", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Admin%20Commands%20Bar.lua")
