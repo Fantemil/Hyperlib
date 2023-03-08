@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 15:16:54"
+lastupdate = "GMT +1: 08.03.2023 15:16:58"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -8840,3 +8840,5 @@ addscriptexist(6679968919, "Fly Race: Auto Farm, Bring All Orbs, Anti AFK", "pul
 addscriptexist(4991214437, "town: Copy Plot", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/town%20Copy%20Plot.lua")
 
 addscriptexist(5956785391, "Project Slayers: Inf Breath, Auto Farm, Teleports", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Project%20Slayers%20Inf%20Breath%20Auto%20Farm%20Teleports.lua")
+
+addhub("Pacifist Hub: 5+ Games", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pacifist%20Hub%20%20Games.lua")
