@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 06:46:53"
+lastupdate = "GMT +1: 08.03.2023 06:46:57"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -4906,3 +4906,5 @@ addscriptexist(6278885452, "Strong Katana Simulator: Auto Strenght", "pulled fro
 addscript(3226555017, "Current Game","SCP: Site Roleplay | Open doors, Spam Radio, Invisible", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SCP%20Site%20Roleplay%20%20Open%20doors%20Spam%20Radio%20Invisible.lua")
 
 addscript(4695287616, "Current Game","F3X SandBox: Server Crasher", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FX%20SandBox%20Server%20Crasher.lua")
+
+addscriptuniversal("Universal GUI Emotes", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20GUI%20Emotes.lua")
