@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 20:40:51"
+lastupdate = "GMT +1: 08.03.2023 20:40:57"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -14250,3 +14250,5 @@ addscript(7860844204, "Current Game","Life Sentence [KillAura, ItemFarm]", "pull
 addscript(10117551326, "Current Game","UTBM (Dustpreme Hall drip) [God Mode]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/UTBM%20Dustpreme%20Hall%20drip%20God%20Mode.lua")
 
 addscript(9949781550, "Current Game","Digging Simulator [Inf Money]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Digging%20Simulator%20Inf%20Money.lua")
+
+addscript(10204162989, "Current Game","Pickaxe Simulator [Auto Mine, Equip Best Pets, Redeem Code]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pickaxe%20Simulator%20Auto%20Mine%20Equip%20Best%20Pets%20Redeem%20Code.lua")
