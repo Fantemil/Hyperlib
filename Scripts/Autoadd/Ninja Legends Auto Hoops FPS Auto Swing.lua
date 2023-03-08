@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Blackout4781/Open-Source/main/Nub%20Hub%20Ninja%20Legends"))()
