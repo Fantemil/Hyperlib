@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 18:20:11"
+lastupdate = "GMT +1: 08.03.2023 18:20:15"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -11494,3 +11494,5 @@ addscriptexist(10293798252, "Arsenal Reloaded: Server Crasher", "pulled from rbx
 addhub("Roblox: Pendulum Hub", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Roblox%20Pendulum%20Hub.lua")
 
 addscriptexist(5307215810, "Randomizer: Aimbot, Esp, If Ammo", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Randomizer%20Aimbot%20Esp%20If%20Ammo.lua")
+
+addscriptexist(2474168535, "Westbound: Aimbot, ESP, Teleport", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Westbound%20Aimbot%20ESP%20Teleport.lua")
