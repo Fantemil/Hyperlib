@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 17:00:39"
+lastupdate = "GMT +1: 08.03.2023 17:00:43"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -9490,3 +9490,5 @@ addscriptexist(9832066570, "Tower Battles: Defensive Holds: Hitbox Expander", "p
 addscriptexist(5956785391, "Project Slayers: Kill All Mobs, Kill Aura", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Project%20Slayers%20Kill%20All%20Mobs%20Kill%20Aura.lua")
 
 addscriptexist(9872472334, "Evade: Auto Farm, ESP, Auto Respawn", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Evade%20Auto%20Farm%20ESP%20Auto%20Respawn.lua")
+
+addscriptexist(2512643572, "Bubble Gum Simulator: Auto Blow, Auto Sell, Anti Afk", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Bubble%20Gum%20Simulator%20Auto%20Blow%20Auto%20Sell%20Anti%20Afk.lua")
