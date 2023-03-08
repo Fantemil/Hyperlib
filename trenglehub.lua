@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 07:06:07"
+lastupdate = "GMT +1: 08.03.2023 07:06:11"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -5492,3 +5492,5 @@ addscript(8585657145, "Current Game","Anime Hero Simulator: Loop Teleports, Auto
 addscript(60654525, "Current Game","The Legendary Swords RPG: Mystic Arcane Sword Giver", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/The%20Legendary%20Swords%20RPG%20Mystic%20Arcane%20Sword%20Giver.lua")
 
 addscript(9353921664, "Current Game","find milk at the store and leave your kids obby: Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/find%20milk%20at%20the%20store%20and%20leave%20your%20kids%20obby%20Auto%20Farm.lua")
+
+addscriptexist(6441847031, "CHAOS: Kill Player. Godmode & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CHAOS%20Kill%20Player%20Godmode%20%20More.lua")
