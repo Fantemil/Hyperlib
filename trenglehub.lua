@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 17:55:37"
+lastupdate = "GMT +1: 08.03.2023 17:55:42"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -10884,3 +10884,5 @@ addscript(6377740507, "Current Game","Miraculous RP: Auto Event, Auto Coins, Swi
 addscriptexist(8726743209, "Refinery Caves: Auto Farm Delivery Boxes, Server Hop & More!", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Refinery%20Caves%20Auto%20Farm%20Delivery%20Boxes%20Server%20Hop%20%20More.lua")
 
 addscriptexist(1554960397, "Car Dealership Tycoon: Auto Collect Pumpkins", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Car%20Dealership%20Tycoon%20Auto%20Collect%20Pumpkins.lua")
+
+addscriptexist(2413927524, "The Rake REMASTERED: Infinity Stamina, No Jumpscares, Kill Aura", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/The%20Rake%20REMASTERED%20Infinity%20Stamina%20No%20Jumpscares%20Kill%20Aura.lua")
