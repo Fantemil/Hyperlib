@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 17:49:21"
+lastupdate = "GMT +1: 08.03.2023 17:49:25"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -10728,3 +10728,5 @@ addscript(8381567809, "Current Game","Ninja Star Simulator: Auto Merge, Auto Cra
 addscriptexist(3233893879, "Bad Business: Aim Bot, ESP", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Bad%20Business%20Aim%20Bot%20ESP.lua")
 
 addscriptexist(6516141723, "DOORS: Keybinds, Summon Entities, Summon Multiplayer", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DOORS%20Keybinds%20Summon%20Entities%20Summon%20Multiplayer.lua")
+
+addscriptexist(11169441681, "Word Bridge: Auto Plank", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Word%20Bridge%20Auto%20Plank.lua")
