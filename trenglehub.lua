@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 20:24:34"
+lastupdate = "GMT +1: 08.03.2023 20:24:38"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -13826,3 +13826,5 @@ addscriptexist(7075737729, "Hoop Central 6 | Anti Cheat Bypasss, Bypass, Item By
 addscriptexist(6753004901, "Swing City | Unlock All Skills, Farm Money, Exp FAST", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Swing%20City%20%20Unlock%20All%20Skills%20Farm%20Money%20Exp%20FAST.lua")
 
 addscriptexist(4639625707, "Warfare Tycoon | Kill Players, Kill item, Kill All", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Warfare%20Tycoon%20%20Kill%20Players%20Kill%20item%20Kill%20All.lua")
+
+addscriptexist(2788229376, "Da Hood | NoClip, Auto Farm, Fly", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Da%20Hood%20%20NoClip%20Auto%20Farm%20Fly.lua")
