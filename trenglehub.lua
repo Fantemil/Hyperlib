@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 19:31:11"
+lastupdate = "GMT +1: 08.03.2023 19:31:16"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -13004,3 +13004,5 @@ addscriptexist(2512643572, "Bubble Gum Simulator: Code Redeemer", "pulled from r
 addscript(6472002757, "Current Game","Shards of Genesis: KillAura, Godmode", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Shards%20of%20Genesis%20KillAura%20Godmode.lua")
 
 addscriptexist(7560156054, "Clicker Simulator: Auto Click, Auto Rebirth, Auto Pets", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Clicker%20Simulator%20Auto%20Click%20Auto%20Rebirth%20Auto%20Pets.lua")
+
+addscriptexist(2753915549, "Blox Fruits: Auto Stats, Auto Farm Player", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blox%20Fruits%20Auto%20Stats%20Auto%20Farm%20Player.lua")
