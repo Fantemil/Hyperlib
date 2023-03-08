@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 07:05:51"
+lastupdate = "GMT +1: 08.03.2023 07:05:54"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -5484,3 +5484,5 @@ addscriptexist(9992339729, "Longest Answer Wins: Farm Blocks, Print Answer, Answ
 addscriptexist(8737602449, "PLS DONATE: Fake Donations", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PLS%20DONATE%20Fake%20Donations.lua")
 
 addscriptexist(4505214429, "Soul Eater: Resonance | Money Farm, Level Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Soul%20Eater%20Resonance%20%20Money%20Farm%20Level%20Farm.lua")
+
+addscriptexist(6918802270, "Project New World: Auto Farm, Auto Quest, Kill Aura", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Project%20New%20World%20Auto%20Farm%20Auto%20Quest%20Kill%20Aura.lua")
