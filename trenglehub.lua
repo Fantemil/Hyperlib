@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 20:22:54"
+lastupdate = "GMT +1: 08.03.2023 20:22:58"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -13782,3 +13782,5 @@ addscriptexist(6284583030, "Pet Simulator X | AutoFarm, AutoCollect", "pulled fr
 addscriptexist(920587237, "Adopt Me | GUI - Auto Farm, Fun Functions", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Adopt%20Me%20%20GUI%20%20Auto%20Farm%20Fun%20Functions.lua")
 
 addscriptexist(10087074695, "Knife Strife! [Kill All - Dupe Tools & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Knife%20Strife%20Kill%20All%20%20Dupe%20Tools%20%20More.lua")
+
+addscriptexist(1962086868, "Tower of Hell | AutoWin, Inf Jumps, Finish", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tower%20of%20Hell%20%20AutoWin%20Inf%20Jumps%20Finish.lua")
