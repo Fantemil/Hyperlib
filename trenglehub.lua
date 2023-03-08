@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 16:57:16"
+lastupdate = "GMT +1: 08.03.2023 16:57:20"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -9404,3 +9404,5 @@ addscriptuniversal("Universal Key System Free Discord Bot", "pulled from rbxscri
 addscriptuniversal("Universal Portable Checkpoint", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Portable%20Checkpoint.lua")
 
 addscriptexist(11237748076, "Stranger Things Immersive Watch Party: Auto Farm, Items ESP", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Stranger%20Things%20Immersive%20Watch%20Party%20Auto%20Farm%20Items%20ESP.lua")
+
+addscriptuniversal("Universal Aimbot & Esp", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Aimbot%20%20Esp.lua")
