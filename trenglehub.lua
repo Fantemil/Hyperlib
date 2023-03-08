@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 17:36:03"
+lastupdate = "GMT +1: 08.03.2023 17:36:08"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -10392,3 +10392,5 @@ addscriptexist(6717367660, "Happy Land: Inf Money", "pulled from rbxscript.com",
 addscriptuniversal("Universal Webhook detection", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Webhook%20detection.lua")
 
 addscriptexist(9555732501, "Nen Fighting Simulator: Auto Farm Strenght, Teleports & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Nen%20Fighting%20Simulator%20Auto%20Farm%20Strenght%20Teleports%20%20More.lua")
+
+addscriptexist(10893141806, "Truck Factory Tycoon: Auto Collect Cash, Walkspeed, Fly", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Truck%20Factory%20Tycoon%20Auto%20Collect%20Cash%20Walkspeed%20Fly.lua")
