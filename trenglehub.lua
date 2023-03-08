@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 17:22:38"
+lastupdate = "GMT +1: 08.03.2023 17:22:42"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -10054,3 +10054,5 @@ addscriptexist(6939111033, "Escape Papa Pizza's Pizzeria: Give tools", "pulled f
 addscriptexist(6516141723, "DOORS: Auto Complete, Anti Jumpscares, ESP Chams", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DOORS%20Auto%20Complete%20Anti%20Jumpscares%20ESP%20Chams.lua")
 
 addscriptexist(2753915549, "Blox Fruits: Aimbot, Auto Stats & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blox%20Fruits%20Aimbot%20Auto%20Stats%20%20More.lua")
+
+addscriptexist(6717367660, "Happy Land: Money Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Happy%20Land%20Money%20Auto%20Farm.lua")
