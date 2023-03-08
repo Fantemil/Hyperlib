@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 07:07:36"
+lastupdate = "GMT +1: 08.03.2023 07:07:40"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -5538,3 +5538,5 @@ addscriptexist(23578803, "Hotel Elephant: Map Destroyer", "pulled from rbxscript
 addscriptexist(1240123653, "Zombie Attack: Auto Farm, Silent Aim, Hitboxes", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Zombie%20Attack%20Auto%20Farm%20Silent%20Aim%20Hitboxes.lua")
 
 addscriptexist(6516141723, "DOORS: Spawn Seek, Spawn Jack, Spawn Glitch", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DOORS%20Spawn%20Seek%20Spawn%20Jack%20Spawn%20Glitch.lua")
+
+addscriptexist(11040063484, "Sword Fighters Simulator: Kill Aura, Auto Farm, Collect Coins", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sword%20Fighters%20Simulator%20Kill%20Aura%20Auto%20Farm%20Collect%20Coins.lua")
