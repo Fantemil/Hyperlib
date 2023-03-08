@@ -7,6 +7,7 @@ local function getRoleColor(plr)
        return Color3.new(0, 255, 0)
    end
 end
+
 while true do
    for _, v in pairs(game.Players:GetChildren()) do
        if v ~= game.Players.LocalPlayer and v.Character and not v.Character:FindFirstChild("Highlight") then
