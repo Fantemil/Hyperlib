@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 16:45:36"
+lastupdate = "GMT +1: 08.03.2023 16:45:40"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -9112,3 +9112,5 @@ addscript(6905769625, "Current Game","Rooftop Basketball: AimBot", "pulled from 
 addscript(9787091365, "Current Game","Ninja Storm Simulator: Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ninja%20Storm%20Simulator%20Auto%20Farm.lua")
 
 addscriptexist(9498006165, "Tapping Simulator: Unlock Words, Auto Clicker, Auto Rebirth", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tapping%20Simulator%20Unlock%20Words%20Auto%20Clicker%20Auto%20Rebirth.lua")
+
+addscriptexist(189707, "Natural Disaster Survival: Godmode, No Fall Damage, Sand Storm OFF", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Natural%20Disaster%20Survival%20Godmode%20No%20Fall%20Damage%20Sand%20Storm%20OFF.lua")
