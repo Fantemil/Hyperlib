@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 14:56:12"
+lastupdate = "GMT +1: 08.03.2023 14:56:16"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -8284,3 +8284,5 @@ addscript(5171347293, "Current Game","Cabin Crew Simulator: Fix All NPC's Proble
 addscriptexist(9744954014, "Tha Hood: Auto Farm ATM, Buy Armor, Buy Silencer", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tha%20Hood%20Auto%20Farm%20ATM%20Buy%20Armor%20Buy%20Silencer.lua")
 
 addscriptexist(2753915549, "Blox Fruits: Auto Farm Confetti", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blox%20Fruits%20Auto%20Farm%20Confetti.lua")
+
+addscriptuniversal("Universal RTX version of Roblox", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20RTX%20version%20of%20Roblox.lua")
