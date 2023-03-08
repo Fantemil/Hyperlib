@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 20:11:42"
+lastupdate = "GMT +1: 08.03.2023 20:11:46"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -13482,3 +13482,5 @@ addscriptexist(2788229376, "Da Hood | Cash Collect, Fly, Noclip", "pulled from r
 addscriptexist(10631181587, "Stone Miner Simulator 2 | AutoRebirth", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Stone%20Miner%20Simulator%20%20%20AutoRebirth.lua")
 
 addscript(9829869210, "Current Game","Karate Kick Simulator | KillAll", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Karate%20Kick%20Simulator%20%20KillAll.lua")
+
+addscriptexist(2753915549, "Blox Fruits | AutoFarm Level, KillAura, Aimbot", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blox%20Fruits%20%20AutoFarm%20Level%20KillAura%20Aimbot.lua")
