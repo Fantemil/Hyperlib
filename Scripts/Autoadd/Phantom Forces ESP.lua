@@ -248,4 +248,3 @@ end
 create_conection(players.PlayerAdded, function(player)
     cheat_client:add_player_esp(player)
 end)
- 
