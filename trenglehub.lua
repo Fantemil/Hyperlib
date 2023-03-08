@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 19:01:43"
+lastupdate = "GMT +1: 08.03.2023 19:01:48"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -12368,3 +12368,5 @@ addscript(10602062861, "Current Game","Amazon Trip Around the Blox: Auto Farm", 
 addscriptexist(8304191830, "Anime Adventures: Auto Use Skill, Auto Farm & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime%20Adventures%20Auto%20Use%20Skill%20Auto%20Farm%20%20More.lua")
 
 addscriptexist(606849621, "Jailbreak: ESP", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Jailbreak%20ESP.lua")
+
+addscriptexist(8308074824, "Meme Piece: Op Xp", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Meme%20Piece%20Op%20Xp.lua")
