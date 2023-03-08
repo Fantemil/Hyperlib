@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 19:35:46"
+lastupdate = "GMT +1: 08.03.2023 19:35:53"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -13110,3 +13110,5 @@ addscriptexist(2753915549, "Blox Fruits GUI: Auto Farm, Fast Attack & More", "pu
 addscript(4760217946, "Current Game","Limited Badges: Badge Collector", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Limited%20Badges%20Badge%20Collector.lua")
 
 addscriptexist(189707, "Natural Disaster Survival: Speed Changer, Gravity, Jumppower", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Natural%20Disaster%20Survival%20Speed%20Changer%20Gravity%20Jumppower.lua")
+
+addscriptexist(10631181587, "Stone Miner Simulator 2: Infinite Rebirth Tokens & Gems", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Stone%20Miner%20Simulator%20%20Infinite%20Rebirth%20Tokens%20%20Gems.lua")
