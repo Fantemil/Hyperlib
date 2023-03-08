@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 20:43:09"
+lastupdate = "GMT +1: 08.03.2023 20:43:14"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -14306,3 +14306,5 @@ addscriptexist(286090429, "Arsenal [Non FE Dev Skins]", "pulled from rbxscript.c
 addscriptexist(2788229376, "Evade [Optimize utillities]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Evade%20Optimize%20utillities.lua")
 
 addscriptexist(8204899140, "Football Fusion 2 [Auto Captain, AutoJump]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Football%20Fusion%20%20Auto%20Captain%20AutoJump.lua")
+
+addscriptexist(9845705613, "Blood Hood [AutoPunch, KillAll]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blood%20Hood%20AutoPunch%20KillAll.lua")
