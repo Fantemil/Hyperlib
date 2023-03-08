@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 20:40:25"
+lastupdate = "GMT +1: 08.03.2023 20:40:29"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -14242,3 +14242,5 @@ addscriptexist(9598746251, "Home Run Simulator [Auto home Run Auto Upgrade, Auto
 addscriptexist(3101667897, "Legends Of Speed [Auto Grab orbs, Auto Grab Rings, Auto Rebirth]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Legends%20Of%20Speed%20Auto%20Grab%20orbs%20Auto%20Grab%20Rings%20Auto%20Rebirth.lua")
 
 addscriptexist(7050008107, "Hospital Tycoon [Collect Cash, Buy Buttons]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Hospital%20Tycoon%20Collect%20Cash%20Buy%20Buttons.lua")
+
+addscriptexist(8146731988, "Ultra Power Tycoon [Power, Grab All items]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ultra%20Power%20Tycoon%20Power%20Grab%20All%20items.lua")
