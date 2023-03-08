@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 06:51:02"
+lastupdate = "GMT +1: 08.03.2023 06:51:06"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -5034,3 +5034,5 @@ addscriptexist(11884594868, "Anime Defense Simulator: Auto Attack, Teleport, Flo
 addscriptuniversal("Iicrrbii: Universal GUI", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Iicrrbii%20Universal%20GUI.lua")
 
 addscriptexist(7791873535, "REALISTIC HOOD: Autofarm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/REALISTIC%20HOOD%20Autofarm.lua")
+
+addscriptexist(286090429, "Arsenal: AimLock, Esp, Chams", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Arsenal%20AimLock%20Esp%20Chams.lua")
