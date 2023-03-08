@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 14:41:57"
+lastupdate = "GMT +1: 08.03.2023 14:42:03"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -7902,3 +7902,5 @@ addscriptexist(9224601490, "Fruit Battlegrounds: Start Auto Farm, Stop Auto Farm
 addhub("Kyoichi Hub: Many Games", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Kyoichi%20Hub%20Many%20Games.lua")
 
 addscript(8317588085, "Current Game","Block Tycoon: Get All Items", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Block%20Tycoon%20Get%20All%20Items.lua")
+
+addscript(2780612764, "Current Game","Kavra's Kingdom: Anti Afk", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Kavras%20Kingdom%20Anti%20Afk.lua")
