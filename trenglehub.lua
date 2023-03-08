@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 07:03:57"
+lastupdate = "GMT +1: 08.03.2023 07:04:01"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -5424,3 +5424,5 @@ addscript(6416498845, "Current Game","Facility Roleplay: Remove Nametag, Esp, Au
 addscript(2937803962, "Current Game","God Simulator 2: Farm Aura, Auto Sell", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/God%20Simulator%20%20Farm%20Aura%20Auto%20Sell.lua")
 
 addscript(8927008367, "Current Game","Kengun Online: Auto Farm, Auto Window, Auto Eat", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Kengun%20Online%20Auto%20Farm%20Auto%20Window%20Auto%20Eat.lua")
+
+addscriptexist(621129760, "Knife Ability Test: Auto Farm, Silent Aim, Player ESP", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Knife%20Ability%20Test%20Auto%20Farm%20Silent%20Aim%20Player%20ESP.lua")
