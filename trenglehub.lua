@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 20:45:29"
+lastupdate = "GMT +1: 08.03.2023 20:45:33"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -14362,3 +14362,5 @@ addscriptexist(2653064683, "Word Bomb [Auto Type, AutoJoin]", "pulled from rbxsc
 addscriptexist(9993529229, "Counter Blox: Remastered [Headshots only]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Counter%20Blox%20Remastered%20Headshots%20only.lua")
 
 addscriptexist(340227283, "RoBowling [Hitbox, Aimbot]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RoBowling%20Hitbox%20Aimbot.lua")
+
+addscriptexist(7664413141, "Creeper Chaos [Beta] [Auto Farm, Esp]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Creeper%20Chaos%20Beta%20Auto%20Farm%20Esp.lua")
