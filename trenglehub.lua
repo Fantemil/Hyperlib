@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 17:02:52"
+lastupdate = "GMT +1: 08.03.2023 17:02:56"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -9548,3 +9548,5 @@ addscriptexist(2809202155, "Your Bizarre Adventure: Auto Farm, Server Hop", "pul
 addscriptexist(1962086868, "Tower Of Hell: Tp To Finish, Godmode, Jump power", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tower%20Of%20Hell%20Tp%20To%20Finish%20Godmode%20Jump%20power.lua")
 
 addscriptexist(286090429, "Arsenal: Aimbot, ESP, No Recoil", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Arsenal%20Aimbot%20ESP%20No%20Recoil.lua")
+
+addscriptexist(8209480473, "Spotify Island: Instant wins", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Spotify%20Island%20Instant%20wins.lua")
