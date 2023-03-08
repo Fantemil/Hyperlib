@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 13:09:55"
+lastupdate = "GMT +1: 08.03.2023 13:09:59"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -7184,3 +7184,5 @@ addscript(1547610457, "Current Game","Free Draw: Big Black Square", "pulled from
 addscriptexist(2753915549, "Blox Fruits: Level Up Detector", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blox%20Fruits%20Level%20Up%20Detector.lua")
 
 addscriptexist(606849621, "Jailbreak: Vehicle fly", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Jailbreak%20Vehicle%20fly.lua")
+
+addscriptexist(2753915549, "Blox Fruits: Auto Farm, Teleport,Devil Fruit Sniper", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blox%20Fruits%20Auto%20Farm%20TeleportDevil%20Fruit%20Sniper.lua")
