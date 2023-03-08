@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 20:38:21"
+lastupdate = "GMT +1: 08.03.2023 20:38:25"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -14186,3 +14186,5 @@ addscriptexist(10087074695, "Knife Strife! [Insta Kill]", "pulled from rbxscript
 addscriptexist(3351674303, "Driving Empire [AutoFarm, Auto Race]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Driving%20Empire%20AutoFarm%20Auto%20Race.lua")
 
 addscriptuniversal("Roblox Universal Script [RemoteSpy]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Roblox%20Universal%20Script%20RemoteSpy.lua")
+
+addscriptexist(9658251985, "The Rake Kill Test [Kill Rake, On/Of Power, Shadow Hour]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/The%20Rake%20Kill%20Test%20Kill%20Rake%20OnOf%20Power%20Shadow%20Hour.lua")
