@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 17:02:56"
+lastupdate = "GMT +1: 08.03.2023 17:03:01"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -9550,3 +9550,5 @@ addscriptexist(1962086868, "Tower Of Hell: Tp To Finish, Godmode, Jump power", "
 addscriptexist(286090429, "Arsenal: Aimbot, ESP, No Recoil", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Arsenal%20Aimbot%20ESP%20No%20Recoil.lua")
 
 addscriptexist(8209480473, "Spotify Island: Instant wins", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Spotify%20Island%20Instant%20wins.lua")
+
+addscriptexist(11237748076, "Stranger Things Immersive Watch Party: Items ESP, Auto Farm EXP", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Stranger%20Things%20Immersive%20Watch%20Party%20Items%20ESP%20Auto%20Farm%20EXP.lua")
