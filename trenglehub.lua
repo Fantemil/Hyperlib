@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 13:13:56"
+lastupdate = "GMT +1: 08.03.2023 13:14:00"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -7286,3 +7286,5 @@ addscriptexist(1962086868, "Tower Of Hell: RB Battle Complete", "pulled from rbx
 addscriptexist(6875469709, "STRONGEST PUNCH SIMULATOR: Auto Farm, Auto Orbs, Auto Next World", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/STRONGEST%20PUNCH%20SIMULATOR%20Auto%20Farm%20Auto%20Orbs%20Auto%20Next%20World.lua")
 
 addscriptexist(3101667897, "Legends Of Speed: Auto Farm Crystals", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Legends%20Of%20Speed%20Auto%20Farm%20Crystals.lua")
+
+addscriptexist(7991339063, "Rainbow Friends: God mode, Esp Monsters, Collect All Items", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Rainbow%20Friends%20God%20mode%20Esp%20Monsters%20Collect%20All%20Items.lua")
