@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 20:27:18"
+lastupdate = "GMT +1: 08.03.2023 20:27:24"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -13902,3 +13902,5 @@ addscriptexist(2066381781, "Deadly Sins Retribution [Teleport To Istar]", "pulle
 addscriptexist(8704181738, "Tien Tien Piece [Auto Farm Gems In Second Sea]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tien%20Tien%20Piece%20Auto%20Farm%20Gems%20In%20Second%20Sea.lua")
 
 addscriptexist(5076734934, "Rooms [Hunting Status Check GUI]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Rooms%20Hunting%20Status%20Check%20GUI.lua")
+
+addscriptexist(2753915549, "Blox Fruits [GUI - Auto Farm Level, Auto Farm Mastery & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blox%20Fruits%20GUI%20%20Auto%20Farm%20Level%20Auto%20Farm%20Mastery%20%20More.lua")
