@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 14:47:32"
+lastupdate = "GMT +1: 08.03.2023 14:47:36"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -8056,3 +8056,5 @@ addscript(85697719, "Current Game","Kingdom Life II: Premium Gamepass weapons fo
 addscriptexist(920587237, "Adopt Me: Gui, Pet Farm & More!", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Adopt%20Me%20Gui%20Pet%20Farm%20%20More.lua")
 
 addscriptexist(6772424226, "2 Player Millioniare Tycoon: Infinite Cash", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/%20Player%20Millioniare%20Tycoon%20Infinite%20Cash.lua")
+
+addscriptexist(11445923563, "One Fruit Simulator: Auto Attack, Auto Farm, Auto Punch", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/One%20Fruit%20Simulator%20Auto%20Attack%20Auto%20Farm%20Auto%20Punch.lua")
