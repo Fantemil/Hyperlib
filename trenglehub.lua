@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 13:10:04"
+lastupdate = "GMT +1: 08.03.2023 13:10:12"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -7188,3 +7188,5 @@ addscriptexist(606849621, "Jailbreak: Vehicle fly", "pulled from rbxscript.com",
 addscriptexist(2753915549, "Blox Fruits: Auto Farm, Teleport,Devil Fruit Sniper", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blox%20Fruits%20Auto%20Farm%20TeleportDevil%20Fruit%20Sniper.lua")
 
 addscriptexist(9541558008, "Untitled FPS Game DEMO: Inf Ammo, No recoil", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Untitled%20FPS%20Game%20DEMO%20Inf%20Ammo%20No%20recoil.lua")
+
+addscriptexist(2753915549, "Blox Fruits: Auto Farm, Teleport Mod , Devil Fuit Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blox%20Fruits%20Auto%20Farm%20Teleport%20Mod%20%20Devil%20Fuit%20Farm.lua")
