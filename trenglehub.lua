@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 18:23:58"
+lastupdate = "GMT +1: 08.03.2023 18:24:06"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -11590,3 +11590,5 @@ addscriptuniversal("Universal Anti Discord Autojoin", "pulled from rbxscript.com
 addscript(10819569010, "Current Game","Fall: No Fall Damage", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Fall%20No%20Fall%20Damage.lua")
 
 addscriptexist(10758111998, "2019 Booga Booga [REBORN]: Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/%20Booga%20Booga%20REBORN%20Auto%20Farm.lua")
+
+addscriptexist(8726743209, "Refinery Caves: Purple Tree Esp", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Refinery%20Caves%20Purple%20Tree%20Esp.lua")
