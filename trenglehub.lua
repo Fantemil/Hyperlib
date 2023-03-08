@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 14:40:44"
+lastupdate = "GMT +1: 08.03.2023 14:40:48"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -7870,3 +7870,5 @@ addscriptexist(2788229376, "Da Hood: Underground resolver", "pulled from rbxscri
 addscriptexist(155615604, "Prison Life: Teleport, speedhack, Jumphack", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Prison%20Life%20Teleport%20speedhack%20Jumphack.lua")
 
 addscriptexist(2753915549, "Blox Fruits: Auto Farm Bone, Auto Superhuman & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blox%20Fruits%20Auto%20Farm%20Bone%20Auto%20Superhuman%20%20More.lua")
+
+addscriptexist(6938803436, "Anime Dimensions Simulator: Auto Farm, Dimension List, Settings for Dimensions", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime%20Dimensions%20Simulator%20Auto%20Farm%20Dimension%20List%20Settings%20for%20Dimensions.lua")
