@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 20:21:33"
+lastupdate = "GMT +1: 08.03.2023 20:21:37"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -13744,3 +13744,5 @@ addscriptexist(2753915549, "Blox Fruits | BuyItem, AutoFarm", "pulled from rbxsc
 addscriptexist(10439295403, "Anime Champions | Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime%20Champions%20%20Auto%20Farm.lua")
 
 addscript(10558210932, "Current Game","The Test | Win Minigame, Person To Kill, Choose Correct Number", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/The%20Test%20%20Win%20Minigame%20Person%20To%20Kill%20Choose%20Correct%20Number.lua")
+
+addscriptexist(9551640993, "Mining Simulator 2 | AutoMine, AutoEggs, Smart Sell", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mining%20Simulator%20%20%20AutoMine%20AutoEggs%20Smart%20Sell.lua")
