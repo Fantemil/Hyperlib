@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 15:16:13"
+lastupdate = "GMT +1: 08.03.2023 15:16:17"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -8820,3 +8820,5 @@ addscript(6794368433, "Current Game","Be a Spider Tycoon: Auto Farm, Walkspeed S
 addscriptexist(8737602449, "PLS DONATE: Auto Thank You, Auto Server Hop, Webhook", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PLS%20DONATE%20Auto%20Thank%20You%20Auto%20Server%20Hop%20Webhook.lua")
 
 addscriptexist(10622006440, "Hyper Realistic CSGO Guns: Bunny Hop", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Hyper%20Realistic%20CSGO%20Guns%20Bunny%20Hop.lua")
+
+addscriptexist(7180042682, "Military Tycoon: Event Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Military%20Tycoon%20Event%20Auto%20Farm.lua")
