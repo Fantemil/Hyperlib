@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 06:40:43"
+lastupdate = "GMT +1: 08.03.2023 06:40:46"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -4714,3 +4714,5 @@ addscriptexist(6516141723, "DOORS: Sponguss Hub, Give Crucifix", "pulled from rb
 addscriptexist(155615604, "Prison Life: Teleports, Remove Doors & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Prison%20Life%20Teleports%20Remove%20Doors%20%20More.lua")
 
 addhub("Space Hub: 20+ Games", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Space%20Hub%20%20Games.lua")
+
+addscriptexist(142823291, "Murder Mystery 2: Teleport To Lobby, Autofarm Coin, Autofarm Exp", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Murder%20Mystery%20%20Teleport%20To%20Lobby%20Autofarm%20Coin%20Autofarm%20Exp.lua")
