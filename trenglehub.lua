@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 12:50:54"
+lastupdate = "GMT +1: 08.03.2023 12:51:00"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -6692,3 +6692,5 @@ addscriptexist(3177438863, "Dragon Blox: Auto Farm, Kill Aura, Best Form & More!
 addscript(10527318818, "Current Game","goofy legends: Get Everything", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/goofy%20legends%20Get%20Everything.lua")
 
 addscriptexist(10875701453, "Edward The Man-eating Train: Infinite Stamina, Esp & More!", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Edward%20The%20Maneating%20Train%20Infinite%20Stamina%20Esp%20%20More.lua")
+
+addscriptexist(11495557882, "Every Second You Get +1 Speed: Auto Win & Auto Rebirth", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Every%20Second%20You%20Get%20%20Speed%20Auto%20Win%20%20Auto%20Rebirth.lua")
