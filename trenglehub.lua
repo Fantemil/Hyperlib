@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 17:41:50"
+lastupdate = "GMT +1: 08.03.2023 17:41:54"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -10542,3 +10542,5 @@ addscript(10828925984, "Current Game","Robot Tycoon: Endless Coins", "pulled fro
 addscriptexist(8908228901, "SharkBite 2 [NEW]: Auto Farm Afk, Survivor Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SharkBite%20%20NEW%20Auto%20Farm%20Afk%20Survivor%20Auto%20Farm.lua")
 
 addscriptexist(10681622988, "Easy Jump Clicker: Auto Farm Wins, Auto Farm Rebirths, Auto Farm Jump Power", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Easy%20Jump%20Clicker%20Auto%20Farm%20Wins%20Auto%20Farm%20Rebirths%20Auto%20Farm%20Jump%20Power.lua")
+
+addscript(5690862508, "Current Game","Sans Multiversal Battles 2: Tool Giver, Get All Attacks, Godmode", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sans%20Multiversal%20Battles%20%20Tool%20Giver%20Get%20All%20Attacks%20Godmode.lua")
