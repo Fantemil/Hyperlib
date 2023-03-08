@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 17:38:15"
+lastupdate = "GMT +1: 08.03.2023 17:38:22"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -10450,3 +10450,5 @@ addscriptexist(8916037983, "Starving Artists: Profit Calculator", "pulled from r
 addscript(663655429, "Current Game","Pick A Side: Cash Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pick%20A%20Side%20Cash%20Auto%20Farm.lua")
 
 addscriptexist(2788229376, "Da Hood: Outfit Changer", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Da%20Hood%20Outfit%20Changer.lua")
+
+addscriptexist(8726743209, "Refinery Caves: Teleports, Anti AFK, Auto Farm Delievery Boxes", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Refinery%20Caves%20Teleports%20Anti%20AFK%20Auto%20Farm%20Delievery%20Boxes.lua")
