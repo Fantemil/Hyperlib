@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 12:45:00"
+lastupdate = "GMT +1: 08.03.2023 12:45:06"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -6548,3 +6548,5 @@ addscript(4793176968, "Current Game","Mano County Police Patrol: Kill All", "pul
 addscript(10021291734, "Current Game","Crop Farming Incremental: Auto Plant, Auto Harvest, Buy Seeds", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Crop%20Farming%20Incremental%20Auto%20Plant%20Auto%20Harvest%20Buy%20Seeds.lua")
 
 addscriptexist(8884334497, "Mining Clicker Simulator: Auto Click, Auto Rebirth & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mining%20Clicker%20Simulator%20Auto%20Click%20Auto%20Rebirth%20%20More.lua")
+
+addscriptexist(9551640993, "Mining Simulator 2: Auto Sell, Auto Mine, Auto Eggs", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mining%20Simulator%20%20Auto%20Sell%20Auto%20Mine%20Auto%20Eggs.lua")
