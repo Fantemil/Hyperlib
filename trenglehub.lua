@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 20:47:15"
+lastupdate = "GMT +1: 08.03.2023 20:47:19"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -14406,3 +14406,5 @@ addscriptexist(8554378337, "WEAPON FIGHTING SIMULATOR [AutoFarm, Collect Rewards
 addscriptexist(6284583030, "Pet Simulator X [Auto Hatch, AutoFarm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pet%20Simulator%20X%20Auto%20Hatch%20AutoFarm.lua")
 
 addscriptexist(10476933477, "Strong Ninja Simulator [Auto Hatch, Auto Click]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Strong%20Ninja%20Simulator%20Auto%20Hatch%20Auto%20Click.lua")
+
+addscriptexist(8704181738, "Tiến Tiến Piece [Free Yoru]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ti%E1%BA%BFn%20Ti%E1%BA%BFn%20Piece%20Free%20Yoru.lua")
