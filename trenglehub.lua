@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 12:51:00"
+lastupdate = "GMT +1: 08.03.2023 12:51:04"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -6694,3 +6694,5 @@ addscript(10527318818, "Current Game","goofy legends: Get Everything", "pulled f
 addscriptexist(10875701453, "Edward The Man-eating Train: Infinite Stamina, Esp & More!", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Edward%20The%20Maneating%20Train%20Infinite%20Stamina%20Esp%20%20More.lua")
 
 addscriptexist(11495557882, "Every Second You Get +1 Speed: Auto Win & Auto Rebirth", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Every%20Second%20You%20Get%20%20Speed%20Auto%20Win%20%20Auto%20Rebirth.lua")
+
+addscriptexist(4616652839, "Shindo Life: Auto Add, Bloodlines, Elements", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Shindo%20Life%20Auto%20Add%20Bloodlines%20Elements.lua")
