@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 17:20:36"
+lastupdate = "GMT +1: 08.03.2023 17:20:42"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -10002,3 +10002,5 @@ addscriptexist(9848789324, "Ragdoll Engine: Teleports, Break All Cannons", "pull
 addscriptexist(606849621, "Jailbreak: Walkspeed, Anti Ragdoll & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Jailbreak%20Walkspeed%20Anti%20Ragdoll%20%20More.lua")
 
 addscriptexist(10723695195, "Anime Evolution Simulator: Auto Farm & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime%20Evolution%20Simulator%20Auto%20Farm%20%20More.lua")
+
+addscriptexist(7817016260, "Bloxston Mystery: Expose Roles In Chat", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Bloxston%20Mystery%20Expose%20Roles%20In%20Chat.lua")
