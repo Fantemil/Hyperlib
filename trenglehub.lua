@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 14:30:32"
+lastupdate = "GMT +1: 08.03.2023 14:30:36"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -7600,3 +7600,5 @@ addscript(6417787939, "Current Game","City Life Tycoon: Infinity Cash", "pulled 
 addscriptexist(1537690962, "Bee Swarm Simulator: Auto Farm, Auto Dig, FArm FLames", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Bee%20Swarm%20Simulator%20Auto%20Farm%20Auto%20Dig%20FArm%20FLames.lua")
 
 addscript(7417228448, "Current Game","POV: You are trapped in your bedroom with friends: Get Step 9 code", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/POV%20You%20are%20trapped%20in%20your%20bedroom%20with%20friends%20Get%20Step%20%20code.lua")
+
+addscriptexist(621129760, "Knife Ability Test: Hitboxes, ESP, Crosshair", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Knife%20Ability%20Test%20Hitboxes%20ESP%20Crosshair.lua")
