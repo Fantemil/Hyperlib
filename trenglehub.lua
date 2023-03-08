@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 18:56:57"
+lastupdate = "GMT +1: 08.03.2023 18:57:02"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -12260,3 +12260,5 @@ addscriptexist(383793228, "Adopt and Raise a Baby: Infinity Money", "pulled from
 addscriptexist(10861112990, "Anime Artifacts Simulator 2: Infinite Weapon Crates", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime%20Artifacts%20Simulator%20%20Infinite%20Weapon%20Crates.lua")
 
 addscriptexist(8482451541, "Brick Defense: Infinite Money", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Brick%20Defense%20Infinite%20Money.lua")
+
+addscriptexist(10779604733, "VBet: Auto Farm Click", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/VBet%20Auto%20Farm%20Click.lua")
