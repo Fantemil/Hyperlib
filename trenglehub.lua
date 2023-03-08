@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 17:42:24"
+lastupdate = "GMT +1: 08.03.2023 17:42:28"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -10556,3 +10556,5 @@ addscript(6951762614, "Current Game","UFO Simulator: Auto Kill, Collect Drops, A
 addscriptexist(2788229376, "Da Hood: Fly, Silent AIm & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Da%20Hood%20Fly%20Silent%20AIm%20%20More.lua")
 
 addscript(11105076407, "Current Game","Swim Race Clicker: Auto Craft All, Auto Prestige", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Swim%20Race%20Clicker%20Auto%20Craft%20All%20Auto%20Prestige.lua")
+
+addscriptexist(2653064683, "Word Bomb: Options, Auto Play, Type Word", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Word%20Bomb%20Options%20Auto%20Play%20Type%20Word.lua")
