@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 07:05:01"
+lastupdate = "GMT +1: 08.03.2023 07:05:05"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -5458,3 +5458,5 @@ addscriptexist(9498006165, "Tapping Simulator: Auto Tap, Auto Rebirth, Open Fram
 addscriptexist(10977918334, "Merge Droppers: Infinity Parts, Auto Deposit, Auto Buy Droppers", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Merge%20Droppers%20Infinity%20Parts%20Auto%20Deposit%20Auto%20Buy%20Droppers.lua")
 
 addscriptexist(3956818381, "Ninja Legends: Auto Swing, Auto Buy Swords & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ninja%20Legends%20Auto%20Swing%20Auto%20Buy%20Swords%20%20More.lua")
+
+addscriptexist(10723695195, "Anime Evolution Simulator: Auto Train Power, Auto Collect Drops, Auto Farm Area", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime%20Evolution%20Simulator%20Auto%20Train%20Power%20Auto%20Collect%20Drops%20Auto%20Farm%20Area.lua")
