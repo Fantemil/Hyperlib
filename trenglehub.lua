@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 17:44:25"
+lastupdate = "GMT +1: 08.03.2023 17:44:30"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -10608,3 +10608,5 @@ addscriptexist(286090429, "Arsenal: Hitbox Enable", "pulled from rbxscript.com",
 addscriptexist(4872321990, "Islands: Harvest and Plant Wheat, Mine Ores & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Islands%20Harvest%20and%20Plant%20Wheat%20Mine%20Ores%20%20More.lua")
 
 addscriptexist(8084034728, "Roblox but every second you become stronger: X2 Speed", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Roblox%20but%20every%20second%20you%20become%20stronger%20X%20Speed.lua")
+
+addscript(6897226634, "Current Game","Timber: Auto Sell, Auto Upgrade & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Timber%20Auto%20Sell%20Auto%20Upgrade%20%20More.lua")
