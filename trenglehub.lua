@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 18:15:07"
+lastupdate = "GMT +1: 08.03.2023 18:15:11"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -11370,3 +11370,5 @@ addscriptexist(92604236, "High School Life: Always hit good shots", "pulled from
 addscriptexist(3260590327, "Tower Defense Simulator: Auto Strategy, Auto Farm(Starter Version)", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tower%20Defense%20Simulator%20Auto%20Strategy%20Auto%20FarmStarter%20Version.lua")
 
 addscriptexist(9486506804, "FIFA World: Collect All Scavenger Hunt", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FIFA%20World%20Collect%20All%20Scavenger%20Hunt.lua")
+
+addscriptexist(5154858502, "Murderers vs Sheriffs: Auto Kill", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Murderers%20vs%20Sheriffs%20Auto%20Kill.lua")
