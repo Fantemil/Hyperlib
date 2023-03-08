@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 20:02:53"
+lastupdate = "GMT +1: 08.03.2023 20:03:20"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -13454,3 +13454,5 @@ addscriptexist(10192063645, "Thy Hood | Get Excalibur Sword", "pulled from rbxsc
 addscript(6979242564, "Current Game","Noob's High Jump Per Difficulty Chart Obby | Auto Complete Game", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Noobs%20High%20Jump%20Per%20Difficulty%20Chart%20Obby%20%20Auto%20Complete%20Game.lua")
 
 addscriptexist(9872472334, "Evade | Auto Farm Xp - Auto Teleport & Revive + More!", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Evade%20%20Auto%20Farm%20Xp%20%20Auto%20Teleport%20%20Revive%20%20More.lua")
+
+addscriptexist(9498006165, "Tapping Simulator! | Remove Egg Hatch and Click Delay", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tapping%20Simulator%20%20Remove%20Egg%20Hatch%20and%20Click%20Delay.lua")
