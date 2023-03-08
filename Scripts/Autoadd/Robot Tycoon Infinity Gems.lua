@@ -1,0 +1,2 @@
+local amount = -9e9 -- amount of gems u will get, change this if u want more or less, keep it "negative" or else it wont work
+game:GetService("ReplicatedStorage").RemoteFunctions.UnlockSwords:InvokeServer(amount,2)
