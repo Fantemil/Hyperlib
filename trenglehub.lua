@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 14:26:30"
+lastupdate = "GMT +1: 08.03.2023 14:26:34"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -7498,3 +7498,5 @@ addscriptexist(2753915549, "Blox Fruits: Auto Farm Levels, Auto Stats, Teleports
 addscript(11402943018, "Current Game","The Ultimate Upgrade Tree: Teamwork: Mod GUI", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/The%20Ultimate%20Upgrade%20Tree%20Teamwork%20Mod%20GUI.lua")
 
 addscriptexist(2753915549, "Blox Fruits: FPS Booster", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blox%20Fruits%20FPS%20Booster.lua")
+
+addscriptexist(10028173768, "Queen Elizebeth Obby: Give Speed Coil", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Queen%20Elizebeth%20Obby%20Give%20Speed%20Coil.lua")
