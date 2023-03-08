@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 19:31:20"
+lastupdate = "GMT +1: 08.03.2023 19:31:25"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -13008,3 +13008,5 @@ addscriptexist(7560156054, "Clicker Simulator: Auto Click, Auto Rebirth, Auto Pe
 addscriptexist(2753915549, "Blox Fruits: Auto Stats, Auto Farm Player", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blox%20Fruits%20Auto%20Stats%20Auto%20Farm%20Player.lua")
 
 addscriptexist(606849621, "Jailbreak: No Wait, Infinite Duck, Infinite Punch", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Jailbreak%20No%20Wait%20Infinite%20Duck%20Infinite%20Punch.lua")
+
+addscript(4967465336, "Current Game","Ray's Mod: Infinity Health", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Rays%20Mod%20Infinity%20Health.lua")
