@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 14:35:33"
+lastupdate = "GMT +1: 08.03.2023 14:35:40"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -7730,3 +7730,5 @@ addscriptexist(11227688003, "roblox but you get smarter every second: Auto Colle
 addscriptexist(13822889, "Lumber Tycoon 2: Dupe Axe", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Lumber%20Tycoon%20%20Dupe%20Axe.lua")
 
 addscriptexist(2788229376, "Da Hood: Show Where People Are Aiming, Very Overpowered", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Da%20Hood%20Show%20Where%20People%20Are%20Aiming%20Very%20Overpowered.lua")
+
+addscriptexist(6552369796, "neon Knights: Quick Speed", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/neon%20Knights%20Quick%20Speed.lua")
