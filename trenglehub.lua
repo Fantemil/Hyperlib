@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 06:44:11"
+lastupdate = "GMT +1: 08.03.2023 06:44:15"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -4820,3 +4820,5 @@ addscriptexist(192800, "Work At A Pizza Place: Delete Workspace & More!", "pulle
 addscriptexist(6728870912, "World Of Stands: Auto Farm, Player Farm, Chest Farm & More!", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/World%20Of%20Stands%20Auto%20Farm%20Player%20Farm%20Chest%20Farm%20%20More.lua")
 
 addscriptuniversal("Universal Play Cookie Clicker In roblox", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Play%20Cookie%20Clicker%20In%20roblox.lua")
+
+addscriptexist(1537690962, "Bee Swarm Simulator: Auto Farm, Auto Buy & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Bee%20Swarm%20Simulator%20Auto%20Farm%20Auto%20Buy%20%20More.lua")
