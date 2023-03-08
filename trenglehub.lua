@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 18:22:25"
+lastupdate = "GMT +1: 08.03.2023 18:22:30"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -11552,3 +11552,5 @@ addhub("Roblox Universal Hub Holder", "pulled from rbxscript.com", "https://raw.
 addscript(6429911702, "Current Game","Master's Difficulty Chart Obby: Finish Obbies, Remove Killparts", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Masters%20Difficulty%20Chart%20Obby%20Finish%20Obbies%20Remove%20Killparts.lua")
 
 addscriptuniversal("Universal Translator", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Translator.lua")
+
+addscriptuniversal("Universal Synapse Launcher", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Synapse%20Launcher.lua")
