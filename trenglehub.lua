@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 20:00:13"
+lastupdate = "GMT +1: 08.03.2023 20:00:19"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -13408,3 +13408,5 @@ addscriptexist(10192063645, "Thy hood | Auto Farm", "pulled from rbxscript.com",
 addscript(2472820296, "Current Game","Ultimate Lifting Simulator | Get Strenght, AutoRebrith, Get Speed", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ultimate%20Lifting%20Simulator%20%20Get%20Strenght%20AutoRebrith%20Get%20Speed.lua")
 
 addscriptexist(7180042682, "Military Tycoon | AutoFarm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Military%20Tycoon%20%20AutoFarm.lua")
+
+addscriptexist(7952502098, "Impossible Glass Bridge Obby! | Auto Win - Infinite Cash", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Impossible%20Glass%20Bridge%20Obby%20%20Auto%20Win%20%20Infinite%20Cash.lua")
