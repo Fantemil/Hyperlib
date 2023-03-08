@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 17:10:41"
+lastupdate = "GMT +1: 08.03.2023 17:10:45"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -9746,3 +9746,5 @@ addscriptexist(2788229376, "Da Hood: Trigger Bot, Teleports & More", "pulled fro
 addscriptexist(2788229376, "Da Hood: Locked Aim", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Da%20Hood%20Locked%20Aim.lua")
 
 addscriptexist(9498006165, "Tapping Simulator: Auto Claim Daily Reward, Auto Tap", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tapping%20Simulator%20Auto%20Claim%20Daily%20Reward%20Auto%20Tap.lua")
+
+addscriptexist(7991339063, "Rainbow Friends: Pickup all items, place all items, walkspeed", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Rainbow%20Friends%20Pickup%20all%20items%20place%20all%20items%20walkspeed.lua")
