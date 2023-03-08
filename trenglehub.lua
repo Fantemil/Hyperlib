@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 16:49:59"
+lastupdate = "GMT +1: 08.03.2023 16:50:04"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -9220,3 +9220,5 @@ addscript(1382113806, "Current Game","Silent Assassin: Inf Jumps, ESP, Tp Head",
 addscriptexist(1382113806, "Silent Assassin: Aimbot, Kill Assasin, ESP", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Silent%20Assassin%20Aimbot%20Kill%20Assasin%20ESP.lua")
 
 addscriptexist(6198039277, "Cyber City Tycoon: Infinity Money", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Cyber%20City%20Tycoon%20Infinity%20Money.lua")
+
+addscriptexist(11196588443, "Zombie Merge Tycoon: Auto Deposit, Inf Sample, Auto Upgrade", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Zombie%20Merge%20Tycoon%20Auto%20Deposit%20Inf%20Sample%20Auto%20Upgrade.lua")
