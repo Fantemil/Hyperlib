@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 18:20:19"
+lastupdate = "GMT +1: 08.03.2023 18:20:24"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -11498,3 +11498,5 @@ addscriptexist(5307215810, "Randomizer: Aimbot, Esp, If Ammo", "pulled from rbxs
 addscriptexist(2474168535, "Westbound: Aimbot, ESP, Teleport", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Westbound%20Aimbot%20ESP%20Teleport.lua")
 
 addscriptexist(4924922222, "Brookhaven RP: Auto Farm Candy", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Brookhaven%20RP%20Auto%20Farm%20Candy.lua")
+
+addscriptexist(2753915549, "Blox Fruits: Auto Farm, Auto Stats & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blox%20Fruits%20Auto%20Farm%20Auto%20Stats%20%20More.lua")
