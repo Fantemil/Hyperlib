@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 17:27:02"
+lastupdate = "GMT +1: 08.03.2023 17:27:07"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -10168,3 +10168,5 @@ addscript(7169897329, "Current Game","Nanny: Infinity Screams, Any Character", "
 addscriptexist(6516141723, "DOORS: Spawner Monsters", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DOORS%20Spawner%20Monsters.lua")
 
 addscript(6947273631, "Current Game","Stick Guns: Free Wishes & Infinite Money", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Stick%20Guns%20Free%20Wishes%20%20Infinite%20Money.lua")
+
+addscriptexist(1730877806, "Grand Piece Online: Lunar Hub", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Grand%20Piece%20Online%20Lunar%20Hub.lua")
