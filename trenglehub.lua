@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 12:51:04"
+lastupdate = "GMT +1: 08.03.2023 12:51:08"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -6696,3 +6696,5 @@ addscriptexist(10875701453, "Edward The Man-eating Train: Infinite Stamina, Esp 
 addscriptexist(11495557882, "Every Second You Get +1 Speed: Auto Win & Auto Rebirth", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Every%20Second%20You%20Get%20%20Speed%20Auto%20Win%20%20Auto%20Rebirth.lua")
 
 addscriptexist(4616652839, "Shindo Life: Auto Add, Bloodlines, Elements", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Shindo%20Life%20Auto%20Add%20Bloodlines%20Elements.lua")
+
+addscriptexist(7952502098, "Impossible Glass Bridge Obby: Easy Win", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Impossible%20Glass%20Bridge%20Obby%20Easy%20Win.lua")
