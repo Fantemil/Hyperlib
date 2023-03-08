@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 17:28:45"
+lastupdate = "GMT +1: 08.03.2023 17:28:49"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -10212,3 +10212,5 @@ addscript(2041312716, "Current Game","Ragdoll Engine: Teleports, No Push Cooldow
 addscriptexist(4924922222, "Brookhaven RP: Rainbow House, Smoking Gun & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Brookhaven%20RP%20Rainbow%20House%20Smoking%20Gun%20%20More.lua")
 
 addscript(8481844229, "Current Game","Berry Avenue RP: Glitch Tool, Rainbow Car, Spam Light", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Berry%20Avenue%20RP%20Glitch%20Tool%20Rainbow%20Car%20Spam%20Light.lua")
+
+addscriptexist(1242235469, "ball and axe: Unlocks Axe, Removes Limits", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ball%20and%20axe%20Unlocks%20Axe%20Removes%20Limits.lua")
