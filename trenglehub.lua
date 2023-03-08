@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 18:51:43"
+lastupdate = "GMT +1: 08.03.2023 18:51:51"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -12148,3 +12148,5 @@ addscriptexist(10260193230, "Meme Sea: Auto Farm", "pulled from rbxscript.com", 
 addscriptexist(2537430692, "Jenga: End Game, Reset, Fly", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Jenga%20End%20Game%20Reset%20Fly.lua")
 
 addscriptexist(10905034443, "Smoothie Factory Tycoon: Auto Blend, Do Obby, Auto Buy", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Smoothie%20Factory%20Tycoon%20Auto%20Blend%20Do%20Obby%20Auto%20Buy.lua")
+
+addscript(9807416796, "Current Game","[ZOMBIES] De Hood: Infinite Money", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ZOMBIES%20De%20Hood%20Infinite%20Money.lua")
