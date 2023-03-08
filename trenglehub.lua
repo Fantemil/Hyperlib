@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 14:42:47"
+lastupdate = "GMT +1: 08.03.2023 14:42:55"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -7926,3 +7926,5 @@ addscriptexist(141084271, "Rise of the Dead: Heal Player, Zombie ESP, Godmode", 
 addscriptexist(8737602449, "PLS DONATE: Booth AI", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PLS%20DONATE%20Booth%20AI.lua")
 
 addhub("Nihub: 5 Games", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Nihub%20%20Games.lua")
+
+addscriptexist(2474168535, "Westbound: Auto Farm, Aim Bot, Esp", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Westbound%20Auto%20Farm%20Aim%20Bot%20Esp.lua")
