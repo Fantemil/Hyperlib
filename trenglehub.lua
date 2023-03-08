@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 20:34:49"
+lastupdate = "GMT +1: 08.03.2023 20:34:53"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -14092,3 +14092,5 @@ addscriptuniversal("Roblox Universal Script [Name Esp]", "pulled from rbxscript.
 addscriptexist(8425637426, "Write a Letter [Auto Give Notes]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Write%20a%20Letter%20Auto%20Give%20Notes.lua")
 
 addscriptexist(8737602449, "PLS DONATE [Random Fourene Cookie]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PLS%20DONATE%20Random%20Fourene%20Cookie.lua")
+
+addscriptexist(9304358188, "Find The Memes [Get All]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Find%20The%20Memes%20Get%20All.lua")
