@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ScriptsByJoel/Public-Scripts/main/Military_Tycoon_ATV",true))()
