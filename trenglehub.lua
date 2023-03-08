@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 17:47:25"
+lastupdate = "GMT +1: 08.03.2023 17:47:30"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -10682,3 +10682,5 @@ addscriptexist(6125809531, "Untitled Attack On Titan: Infinity Blade, Infinity G
 addscriptexist(6516141723, "DOORS: Esp, PickUp Aura, Full Bright", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DOORS%20Esp%20PickUp%20Aura%20Full%20Bright.lua")
 
 addscript(6722284015, "Current Game","PISTOL 1V1: Auto Queue", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PISTOL%20V%20Auto%20Queue.lua")
+
+addscriptexist(6516141723, "DOORS: Fullbright, Headlight, ESP for practically everything", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DOORS%20Fullbright%20Headlight%20ESP%20for%20practically%20everything.lua")
