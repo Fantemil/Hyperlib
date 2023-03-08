@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 06:26:08"
+lastupdate = "GMT +1: 08.03.2023 06:26:12"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -4604,3 +4604,5 @@ addscriptexist(4913581664, "Cart Ride Into Rdite: Fly, Spam, Rejoin", "pulled fr
 addscriptexist(1224212277, "Mad City: Auto Rob, Silent Aim, Anti Afk", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mad%20City%20Auto%20Rob%20Silent%20Aim%20Anti%20Afk.lua")
 
 addscriptexist(8260276694, "Ability Wars: Hitbox", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ability%20Wars%20Hitbox.lua")
+
+addscriptexist(3956818381, "Ninja Legends: Auto Swing, Auto Sell & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ninja%20Legends%20Auto%20Swing%20Auto%20Sell%20%20More.lua")
