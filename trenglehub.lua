@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 12:28:59"
+lastupdate = "GMT +1: 08.03.2023 12:29:03"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -6100,3 +6100,5 @@ addscriptexist(1962086868, "Tower of Hell: Infinity Jumps, Finish, Get All Items
 addscriptexist(9824221333, "Da Hood Aim Trainer: Aim Lock", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Da%20Hood%20Aim%20Trainer%20Aim%20Lock.lua")
 
 addscriptexist(1537690962, "Bee Swarm Simulator: Smart Autofarm, Farm in boosted fields/Pushrooms, Autokill Stickbug", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Bee%20Swarm%20Simulator%20Smart%20Autofarm%20Farm%20in%20boosted%20fieldsPushrooms%20Autokill%20Stickbug.lua")
+
+addscriptexist(11866253403, "Super Jump Race: Auto Farm Worlds, Auto Eggs, Auto Rebirth", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Super%20Jump%20Race%20Auto%20Farm%20Worlds%20Auto%20Eggs%20Auto%20Rebirth.lua")
