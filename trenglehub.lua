@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 06:36:53"
+lastupdate = "GMT +1: 08.03.2023 06:36:57"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -4606,3 +4606,5 @@ addscriptexist(185655149, "Welcome to Bloxburg: Pizza Delievery Auto Farm", "pul
 addscript(1242235469, "Current Game","ball and axe: Axe Swing Speed, Inf Axe Stick Range", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ball%20and%20axe%20Axe%20Swing%20Speed%20Inf%20Axe%20Stick%20Range.lua")
 
 addscriptexist(133815151, "The Final Stand 2: Make Any Gun Semi-Auto or Burst", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/The%20Final%20Stand%20%20Make%20Any%20Gun%20SemiAuto%20or%20Burst.lua")
+
+addscriptexist(6284583030, "Pet Simulator X: AutoFarm, Dark Converting, Auto Orbs", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pet%20Simulator%20X%20AutoFarm%20Dark%20Converting%20Auto%20Orbs.lua")
