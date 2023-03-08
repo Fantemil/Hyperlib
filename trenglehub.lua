@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 12:43:16"
+lastupdate = "GMT +1: 08.03.2023 12:43:19"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -6498,3 +6498,5 @@ addscript(11789124018, "Current Game","Maxwell Circle: Get All Badges", "pulled 
 addscriptexist(3233893879, "Bad Business: Infinite Ammo", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Bad%20Business%20Infinite%20Ammo.lua")
 
 addscriptexist(2788229376, "Da Hood: Show where people are aiming", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Da%20Hood%20Show%20where%20people%20are%20aiming.lua")
+
+addscript(11242465380, "Current Game","Find The DOORS Morphs: Anchor when you teleported, Walkspeed Slider, Telepots", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Find%20The%20DOORS%20Morphs%20Anchor%20when%20you%20teleported%20Walkspeed%20Slider%20Telepots.lua")
