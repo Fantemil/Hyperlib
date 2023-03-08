@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 18:53:15"
+lastupdate = "GMT +1: 08.03.2023 18:53:19"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -12180,3 +12180,5 @@ addscriptexist(10804519995, "Ro Fruit: Inf Stats", "pulled from rbxscript.com", 
 addscriptexist(10819569010, "Fall: Win Almost Everything, Find Most Badges, Die By Cars", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Fall%20Win%20Almost%20Everything%20Find%20Most%20Badges%20Die%20By%20Cars.lua")
 
 addscriptexist(7503115095, "Pop It Trading: Scam Script", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pop%20It%20Trading%20Scam%20Script.lua")
+
+addscriptexist(1224212277, "Mad City Chapter 2: Esp, Aim, FullBight", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mad%20City%20Chapter%20%20Esp%20Aim%20FullBight.lua")
