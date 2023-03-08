@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 14:36:01"
+lastupdate = "GMT +1: 08.03.2023 14:36:08"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -7742,3 +7742,5 @@ addscriptexist(10723695195, "Anime Evolution Simulator: Auto Farm, Auto Collect 
 addscriptexist(8737602449, "PLS DONATE: Self Bot", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PLS%20DONATE%20Self%20Bot.lua")
 
 addscriptexist(1537690962, "Bee Swarm Simulator: Andromeda Hub, kocmoc, EZ Hub", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Bee%20Swarm%20Simulator%20Andromeda%20Hub%20kocmoc%20EZ%20Hub.lua")
+
+addscriptexist(7346416636, "Pop It Trading: Press F to Remove Items", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pop%20It%20Trading%20Press%20F%20to%20Remove%20Items.lua")
