@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 13:20:09"
+lastupdate = "GMT +1: 08.03.2023 13:20:13"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -7448,3 +7448,5 @@ addscriptexist(6447798030, "Funky Friday: Auto Complete Event", "pulled from rbx
 addscriptexist(9414511685, "Drive Cars Down A: Free Special Vehicle", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Drive%20Cars%20Down%20A%20Free%20Special%20Vehicle.lua")
 
 addscriptexist(6607361476, "Shopping Wars: Tp to Cart, Tp to escape, Pick Up Full Items", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Shopping%20Wars%20Tp%20to%20Cart%20Tp%20to%20escape%20Pick%20Up%20Full%20Items.lua")
+
+addscriptexist(10028173768, "Queen Elizebeth Obby: All GamePasses", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Queen%20Elizebeth%20Obby%20All%20GamePasses.lua")
