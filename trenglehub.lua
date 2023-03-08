@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 14:46:01"
+lastupdate = "GMT +1: 08.03.2023 14:46:05"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -8012,3 +8012,5 @@ addscriptexist(11445923563, "One Fruit Simulator: Grab Fruits, Collect Chests, A
 addscriptexist(7722306047, "Pet Simulator X: Auto Farm Chests, Auto Use Boosts & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pet%20Simulator%20X%20Auto%20Farm%20Chests%20Auto%20Use%20Boosts%20%20More.lua")
 
 addscriptuniversal("Universal Toggle Voice Chat", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Toggle%20Voice%20Chat.lua")
+
+addscriptexist(11330149751, "making scam calls to save your best friend tycoon: Auto Scam, Auto Upgrade, Auto Friend", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/making%20scam%20calls%20to%20save%20your%20best%20friend%20tycoon%20Auto%20Scam%20Auto%20Upgrade%20Auto%20Friend.lua")
