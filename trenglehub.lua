@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 07:13:26"
+lastupdate = "GMT +1: 08.03.2023 07:13:29"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -5716,3 +5716,5 @@ addscriptexist(10347946161, "Rat Washing Tycoon: Auto Farm, Auto Collect, Auto O
 addscriptexist(445664957, "Parkour: Bag's ESP", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Parkour%20Bags%20ESP.lua")
 
 addscriptexist(8540346411, "Rebirth Champions X: Auto Craft All, Auto Eggs, Auto Rebirth", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Rebirth%20Champions%20X%20Auto%20Craft%20All%20Auto%20Eggs%20Auto%20Rebirth.lua")
+
+addscriptexist(298400657, "Dragon Ball Final Remastered: Auto Meditation, Auto Gravity Chamber Key, Safe Place", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Dragon%20Ball%20Final%20Remastered%20Auto%20Meditation%20Auto%20Gravity%20Chamber%20Key%20Safe%20Place.lua")
