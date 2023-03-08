@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 07:11:53"
+lastupdate = "GMT +1: 08.03.2023 07:11:56"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -5668,3 +5668,5 @@ addscript(988099446, "Current Game","MMC Zombies Project: Knife InstaKill", "pul
 addscriptexist(2788229376, "Da Hood: Mango Hub", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Da%20Hood%20Mango%20Hub.lua")
 
 addscriptexist(11196588443, "Zombie Merge Tycoon: Auto Put, Auto Upgrade, Walkspeed Slider", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Zombie%20Merge%20Tycoon%20Auto%20Put%20Auto%20Upgrade%20Walkspeed%20Slider.lua")
+
+addscript(10834415065, "Current Game","Roblox but every second you level up: Destory game", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Roblox%20but%20every%20second%20you%20level%20up%20Destory%20game.lua")
