@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 18:28:26"
+lastupdate = "GMT +1: 08.03.2023 18:28:30"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -11702,3 +11702,5 @@ addscriptexist(10912060909, "Black Adam Experience: Auto Grab Bolts", "pulled fr
 addscript(6048230437, "Current Game","Crawl: Auto Start Dungeon, Auto Hit, Spam Slash", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Crawl%20Auto%20Start%20Dungeon%20Auto%20Hit%20Spam%20Slash.lua")
 
 addhub("Roblox: Script Fe Hub", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Roblox%20Script%20Fe%20Hub.lua")
+
+addhub("Universal Sword Destroing Gui", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Sword%20Destroing%20Gui.lua")
