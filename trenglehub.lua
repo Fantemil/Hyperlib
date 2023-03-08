@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 12:57:51"
+lastupdate = "GMT +1: 08.03.2023 12:57:55"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -6870,3 +6870,5 @@ addscriptexist(11103424163, "Heist Tycoon: Infinity Money, FPS Booster, Jump Pow
 addscriptexist(11448431235, "Baryon: Infinity Orbs, Sell Orbs, Buy Fruit", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Baryon%20Infinity%20Orbs%20Sell%20Orbs%20Buy%20Fruit.lua")
 
 addscriptexist(9049840490, "Sonic Speed Simulator: RB Battles Get Badge", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sonic%20Speed%20Simulator%20RB%20Battles%20Get%20Badge.lua")
+
+addscript(10195374565, "Current Game","Weight Lifting Simulator 3: Auto Farm, Auto Buy Weights, GamePasses.", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Weight%20Lifting%20Simulator%20%20Auto%20Farm%20Auto%20Buy%20Weights%20GamePasses.lua")
