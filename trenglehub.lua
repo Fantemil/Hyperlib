@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 18:54:58"
+lastupdate = "GMT +1: 08.03.2023 18:55:04"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -12218,3 +12218,5 @@ addscriptexist(9872472334, "Evade: Auto Farm Wins, Walkspeed Boost, Fly", "pulle
 addscriptexist(6516141723, "DOORS: Noclip, Instant Interact, Notifications", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DOORS%20Noclip%20Instant%20Interact%20Notifications.lua")
 
 addscriptexist(286090429, "Arsenal: Simple Hitbox Expander", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Arsenal%20Simple%20Hitbox%20Expander.lua")
+
+addscriptexist(10903978962, "Sheep Tycoon: Auto Farm, Auto Upgrade Rate, Auto Buy Sheep", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sheep%20Tycoon%20Auto%20Farm%20Auto%20Upgrade%20Rate%20Auto%20Buy%20Sheep.lua")
