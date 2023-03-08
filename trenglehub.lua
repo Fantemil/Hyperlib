@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 19:12:10"
+lastupdate = "GMT +1: 08.03.2023 19:12:14"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -12592,3 +12592,5 @@ addscriptexist(4282985734, "Combat Warriors: Auto Parry, Auto Revive & More", "p
 addscriptexist(5956785391, "Project Slayers: Infinity Spins", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Project%20Slayers%20Infinity%20Spins.lua")
 
 addscriptexist(10714365287, "Anime Race Clicker: Auto Farm, Auto Hatch, Anit Kick", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime%20Race%20Clicker%20Auto%20Farm%20Auto%20Hatch%20Anit%20Kick.lua")
+
+addscriptexist(566399244, "Elemental Battlegrounds: Auto Gem, Shard Grabber", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Elemental%20Battlegrounds%20Auto%20Gem%20Shard%20Grabber.lua")
