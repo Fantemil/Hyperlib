@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 18:24:50"
+lastupdate = "GMT +1: 08.03.2023 18:24:54"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -11610,3 +11610,5 @@ addscriptexist(7026828578, "Speed Simulator: Endless Cash", "pulled from rbxscri
 addscriptexist(2653064683, "Word Bomb: Auto Type", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Word%20Bomb%20Auto%20Type.lua")
 
 addscriptexist(4282985734, "Combat Warriors: Aimbot", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Combat%20Warriors%20Aimbot.lua")
+
+addscriptexist(9992339729, "Longest Answer Wins: Auto Answer Words", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Longest%20Answer%20Wins%20Auto%20Answer%20Words.lua")
