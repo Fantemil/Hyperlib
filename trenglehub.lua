@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 12:56:21"
+lastupdate = "GMT +1: 08.03.2023 12:56:29"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -6832,3 +6832,5 @@ addscriptexist(370731277, "MeepCity: Free Gamepass, Fishing Silent Aim, Fishing 
 addscript(5342047554, "Current Game","Backstretch Battles Remastered: Vehicle Fly", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Backstretch%20Battles%20Remastered%20Vehicle%20Fly.lua")
 
 addscriptexist(1537690962, "Bee Swarm Simulator: Auto Farm, Godmode & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Bee%20Swarm%20Simulator%20Auto%20Farm%20Godmode%20%20More.lua")
+
+addscriptexist(11346342371, "making memes in your basement at 3 AM tycoon: Very Fast Upload", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/making%20memes%20in%20your%20basement%20at%20%20AM%20tycoon%20Very%20Fast%20Upload.lua")
