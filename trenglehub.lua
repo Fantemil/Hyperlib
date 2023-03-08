@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 12:42:26"
+lastupdate = "GMT +1: 08.03.2023 12:42:30"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -6474,3 +6474,5 @@ addscriptexist(5865858426, "Retail Tycoon 2: Christmas Event Farm", "pulled from
 addscriptexist(6918802270, "Project New World: Auto Attack, Auto Quest, KillAura", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Project%20New%20World%20Auto%20Attack%20Auto%20Quest%20KillAura.lua")
 
 addscriptexist(11197013890, "Merge Slash Tycoon: Auto Collect Money, Auto Spint, Infinity Money", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Merge%20Slash%20Tycoon%20Auto%20Collect%20Money%20Auto%20Spint%20Infinity%20Money.lua")
+
+addscriptexist(1537690962, "Bee Swarm Simulator: Convert All, Auto Farm & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Bee%20Swarm%20Simulator%20Convert%20All%20Auto%20Farm%20%20More.lua")
