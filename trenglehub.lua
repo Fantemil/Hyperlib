@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 19:30:58"
+lastupdate = "GMT +1: 08.03.2023 19:31:03"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -12998,3 +12998,5 @@ addscriptexist(292439477, "Phantom Forces: Silent Aim, Aimbot & More", "pulled f
 addscript(6922573010, "Current Game","Soccer Legends: Instant Win, Teleport To Blue Goal, Hit Ball Aura", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Soccer%20Legends%20Instant%20Win%20Teleport%20To%20Blue%20Goal%20Hit%20Ball%20Aura.lua")
 
 addscriptexist(3527629287, "BIG Paintball: Esp, Fly, Aimbot", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BIG%20Paintball%20Esp%20Fly%20Aimbot.lua")
+
+addscriptexist(2512643572, "Bubble Gum Simulator: Code Redeemer", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Bubble%20Gum%20Simulator%20Code%20Redeemer.lua")
