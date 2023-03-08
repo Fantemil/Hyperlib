@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 18:38:32"
+lastupdate = "GMT +1: 08.03.2023 18:38:36"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -11894,3 +11894,5 @@ addscriptexist(21532277, "Notoriety: ESP, Show Hitbox, Noclip", "pulled from rbx
 addscriptexist(10979991953, "Max Speed: Instant Win, Auto Clicker, Server Hop", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Max%20Speed%20Instant%20Win%20Auto%20Clicker%20Server%20Hop.lua")
 
 addscriptexist(3851622790, "Break In (Story): Instant Heal, Auto Eat & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Break%20In%20Story%20Instant%20Heal%20Auto%20Eat%20%20More.lua")
+
+addscriptexist(9941633436, "Rank Simulator: Auto Collect Stars", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Rank%20Simulator%20Auto%20Collect%20Stars.lua")
