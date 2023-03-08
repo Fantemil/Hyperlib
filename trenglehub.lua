@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 20:36:16"
+lastupdate = "GMT +1: 08.03.2023 20:36:20"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -14132,3 +14132,5 @@ addscript(7453798168, "Current Game","YouTube Simulator X [AutoCandy, AutoClick]
 addscriptexist(3823781113, "Saber Simulator [AutoSwing, AutoBuy]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Saber%20Simulator%20AutoSwing%20AutoBuy.lua")
 
 addscriptexist(2788229376, "Da Hood [Silent Aim, Fly, WalkSpeed]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Da%20Hood%20Silent%20Aim%20Fly%20WalkSpeed.lua")
+
+addscriptexist(4520749081, "King Legacy [Inf Dash, AutoFarm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/King%20Legacy%20Inf%20Dash%20AutoFarm.lua")
