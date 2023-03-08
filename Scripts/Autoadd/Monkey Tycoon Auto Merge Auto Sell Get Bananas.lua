@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://raw.githubusercontent.com/vabalata1/L-HUB/main/L-HUB'))()
