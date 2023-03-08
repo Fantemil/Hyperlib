@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 19:13:51"
+lastupdate = "GMT +1: 08.03.2023 19:14:05"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -12624,3 +12624,5 @@ addscriptexist(10861112990, "Anime Artifacts Simulator 2: Insta Kill", "pulled f
 addscriptexist(10895555747, "Walmart Land: Infinite Tokens, Give Tokens, Auto Point & More!", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Walmart%20Land%20Infinite%20Tokens%20Give%20Tokens%20Auto%20Point%20%20More.lua")
 
 addscriptexist(9993529229, "Counter Blox: Remastered | Get Knifes Fast", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Counter%20Blox%20Remastered%20%20Get%20Knifes%20Fast.lua")
+
+addscriptexist(7177496972, "Anime Warriors: Auto Skills, Auto Farming & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime%20Warriors%20Auto%20Skills%20Auto%20Farming%20%20More.lua")
