@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 07:11:40"
+lastupdate = "GMT +1: 08.03.2023 07:11:43"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -5662,3 +5662,5 @@ addscriptexist(3351674303, "Driving Empire: Walkspeed, Car Speed, Auto Farm", "p
 addscriptexist(9872472334, "Evade: Fast Revive, Respawn, Fullbright", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Evade%20Fast%20Revive%20Respawn%20Fullbright.lua")
 
 addscript(8283207656, "Current Game","Easy Glass Bridge: Glass Esp", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Easy%20Glass%20Bridge%20Glass%20Esp.lua")
+
+addscript(988099446, "Current Game","MMC Zombies Project: Knife InstaKill", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MMC%20Zombies%20Project%20Knife%20InstaKill.lua")
