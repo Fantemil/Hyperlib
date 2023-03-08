@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 14:55:58"
+lastupdate = "GMT +1: 08.03.2023 14:56:02"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -8278,3 +8278,5 @@ addscriptexist(6284583030, "Pet Simulator X: Auto Buy Gates, Auto Hatch, Telepor
 addscriptexist(10895555747, "Walmart Land: Auto Farm Snowmans", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Walmart%20Land%20Auto%20Farm%20Snowmans.lua")
 
 addscript(6998582502, "Current Game","Dungeon Crusaders: Anti speed bypass", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Dungeon%20Crusaders%20Anti%20speed%20bypass.lua")
+
+addscript(5171347293, "Current Game","Cabin Crew Simulator: Fix All NPC's Problem, Serve All NPC's Meal, Noclip", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Cabin%20Crew%20Simulator%20Fix%20All%20NPCs%20Problem%20Serve%20All%20NPCs%20Meal%20Noclip.lua")
