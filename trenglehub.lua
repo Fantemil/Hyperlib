@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 21:07:56"
+lastupdate = "GMT +1: 08.03.2023 21:08:01"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -14912,3 +14912,5 @@ addscriptuniversal("Roblox Universal Script [Adm Commands]", "pulled from rbxscr
 addscriptexist(9585537847, "SHADOVIS RPG [Projective Spam]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SHADOVIS%20RPG%20Projective%20Spam.lua")
 
 addscriptexist(7009799230, "Pressure Wash Simulator [Inf Evrth, Inf Money]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pressure%20Wash%20Simulator%20Inf%20Evrth%20Inf%20Money.lua")
+
+addscriptexist(10524502174, "One Punch Fighters [Auto Farm, Auto Click]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/One%20Punch%20Fighters%20Auto%20Farm%20Auto%20Click.lua")
