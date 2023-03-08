@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 07:17:50"
+lastupdate = "GMT +1: 08.03.2023 07:17:53"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -5852,3 +5852,5 @@ addscriptexist(183364845, "Speed Run 4: Auto Beat All Levels, Walkspeed Slider, 
 addscript(4169490976, "Current Game","Mortem Metallum: Server Crasher", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mortem%20Metallum%20Server%20Crasher.lua")
 
 addscriptexist(1554960397, "Car Dealership Tycoon: Auto Farm, Auto Races, Teleports", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Car%20Dealership%20Tycoon%20Auto%20Farm%20Auto%20Races%20Teleports.lua")
+
+addscriptexist(6407649031, "NO-SCOPE ARCADE: Silent Aim, ESP", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NOSCOPE%20ARCADE%20Silent%20Aim%20ESP.lua")
