@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 07:12:27"
+lastupdate = "GMT +1: 08.03.2023 07:12:30"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -5686,3 +5686,5 @@ addscriptuniversal("Posx: Most Advanced Teleport Generator", "pulled from rbxscr
 addscriptexist(8540346411, "Rebirth Champions X: Auto Collect presents, Auto click, Auto rebirth,", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Rebirth%20Champions%20X%20Auto%20Collect%20presents%20Auto%20click%20Auto%20rebirth.lua")
 
 addscriptexist(621129760, "Knife Ability Test: Silent Aim, Teleports, Walkspeed", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Knife%20Ability%20Test%20Silent%20Aim%20Teleports%20Walkspeed.lua")
+
+addscriptexist(7239319209, "Ohio: Auto Rob Bank", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ohio%20Auto%20Rob%20Bank.lua")
