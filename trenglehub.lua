@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 06:45:10"
+lastupdate = "GMT +1: 08.03.2023 06:45:13"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -4852,3 +4852,5 @@ addscript(12109643, "Current Game","Fencing: Dupe Spray", "pulled from rbxscript
 addscriptexist(10875701453, "Edward the Man-Eating Train: Infinity Ammo, ESP, Auto Survival", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Edward%20the%20ManEating%20Train%20Infinity%20Ammo%20ESP%20Auto%20Survival.lua")
 
 addscriptexist(8737602449, "PLS DONATE: Auto Thank, Auto Beg, Walkspeed", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PLS%20DONATE%20Auto%20Thank%20Auto%20Beg%20Walkspeed.lua")
+
+addscriptexist(292439477, "Phantom Forces: Aimbot, ESP, FOV", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Phantom%20Forces%20Aimbot%20ESP%20FOV.lua")
