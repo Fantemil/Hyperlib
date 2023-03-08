@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 19:14:29"
+lastupdate = "GMT +1: 08.03.2023 19:14:33"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -12634,3 +12634,5 @@ addscriptexist(228181322, "Dinosaur Simulator: Buy All Dinosaurus", "pulled from
 addscriptexist(10005865562, "Midnight Hours: Monster Esp", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Midnight%20Hours%20Monster%20Esp.lua")
 
 addscriptexist(10005865562, "Midnight Hours: Items Esp", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Midnight%20Hours%20Items%20Esp.lua")
+
+addscriptexist(8659293202, "The Rake Blood Hour Test: Kill Rake,", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/The%20Rake%20Blood%20Hour%20Test%20Kill%20Rake.lua")
