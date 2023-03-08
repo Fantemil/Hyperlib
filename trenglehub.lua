@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 18:34:07"
+lastupdate = "GMT +1: 08.03.2023 18:34:11"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -11798,3 +11798,5 @@ addscriptexist(292439477, "Phantom Forces: Hitbox, ESP", "pulled from rbxscript.
 addscriptexist(2753915549, "Blox Fruits: Tween Teleporter", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blox%20Fruits%20Tween%20Teleporter.lua")
 
 addscriptexist(5130598377, "A Universal Time: Auto Store, Farm Items & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/A%20Universal%20Time%20Auto%20Store%20Farm%20Items%20%20More.lua")
+
+addscript(6156548228, "Current Game","Vibe Place: Anti AFK", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Vibe%20Place%20Anti%20AFK.lua")
