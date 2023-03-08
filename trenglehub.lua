@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 20:49:27"
+lastupdate = "GMT +1: 08.03.2023 20:49:32"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -14458,3 +14458,5 @@ addscript(9757510382, "Current Game","Trade Simulator [AutoFarm]", "pulled from 
 addscriptexist(7952502098, "Impossible Glass Bridge Obby [Auto Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Impossible%20Glass%20Bridge%20Obby%20Auto%20Farm.lua")
 
 addscript(14745996, "Current Game","Gun Testing [Walkspeed, FreeDoors]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Gun%20Testing%20Walkspeed%20FreeDoors.lua")
+
+addscriptexist(2665326799, "Find The Button [Button Esp, Inf Jump]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Find%20The%20Button%20Button%20Esp%20Inf%20Jump.lua")
