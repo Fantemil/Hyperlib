@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 14:26:34"
+lastupdate = "GMT +1: 08.03.2023 14:26:38"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -7500,3 +7500,5 @@ addscript(11402943018, "Current Game","The Ultimate Upgrade Tree: Teamwork: Mod 
 addscriptexist(2753915549, "Blox Fruits: FPS Booster", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blox%20Fruits%20FPS%20Booster.lua")
 
 addscriptexist(10028173768, "Queen Elizebeth Obby: Give Speed Coil", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Queen%20Elizebeth%20Obby%20Give%20Speed%20Coil.lua")
+
+addscriptexist(6516141723, "DOORS: Trolling Scripts", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DOORS%20Trolling%20Scripts.lua")
