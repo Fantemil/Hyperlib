@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 07:12:54"
+lastupdate = "GMT +1: 08.03.2023 07:13:00"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -5700,3 +5700,5 @@ addscriptexist(6002091275, "Stone-haven County Asylum: Spill Cleaner, Kill Auras
 addscriptexist(4783966408, "Plates Of Fate Remastered: Collect Gold Coins, Collect Gift Boxes, Auto Win", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Plates%20Of%20Fate%20Remastered%20Collect%20Gold%20Coins%20Collect%20Gift%20Boxes%20Auto%20Win.lua")
 
 addscriptexist(10456235914, "Redwood Prison Reworked: Kill Player, Void Player & More!", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Redwood%20Prison%20Reworked%20Kill%20Player%20Void%20Player%20%20More.lua")
+
+addscriptexist(6361937392, "Steal Time From Others & Be The Best: Teleport Aura", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Steal%20Time%20From%20Others%20%20Be%20The%20Best%20Teleport%20Aura.lua")
