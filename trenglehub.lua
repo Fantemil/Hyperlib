@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 06:40:53"
+lastupdate = "GMT +1: 08.03.2023 06:40:57"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -4720,3 +4720,5 @@ addscriptexist(142823291, "Murder Mystery 2: Teleport To Lobby, Autofarm Coin, A
 addscriptuniversal("Universal Free future lighting", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Free%20future%20lighting.lua")
 
 addscriptuniversal("Universal Teleports, Walkspeed, Noclip", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Teleports%20Walkspeed%20Noclip.lua")
+
+addscriptuniversal("Universal Auto Chat", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Auto%20Chat.lua")
