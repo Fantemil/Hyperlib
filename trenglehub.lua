@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 18:43:30"
+lastupdate = "GMT +1: 08.03.2023 18:43:37"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -11988,3 +11988,5 @@ addscriptexist(360589910, "Hoops - Demo (Basketball): Reach", "pulled from rbxsc
 addscript(8986335348, "Current Game","Mortem Metallum [BETA]: Get every weapon", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mortem%20Metallum%20BETA%20Get%20every%20weapon.lua")
 
 addscriptexist(9872472334, "Evade: Morphs, Infinity Jump & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Evade%20Morphs%20Infinity%20Jump%20%20More.lua")
+
+addscriptexist(5712833750, "Animal Simulator: Auto Collect Treasure, Walkspeed & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Animal%20Simulator%20Auto%20Collect%20Treasure%20Walkspeed%20%20More.lua")
