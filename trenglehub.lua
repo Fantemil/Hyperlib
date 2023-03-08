@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 18:58:07"
+lastupdate = "GMT +1: 08.03.2023 18:58:11"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -12286,3 +12286,5 @@ addscriptexist(3411100258, "prtty much evry bordr gam evr: Auto Farm, No Hunger,
 addscriptexist(6407649031, "NO-SCOPE ARCADE: Aimbot, ESP, Infinity Jump", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NOSCOPE%20ARCADE%20Aimbot%20ESP%20Infinity%20Jump.lua")
 
 addscriptexist(8737602449, "PLS DONATE: Server Hop, Auto Beg, Webhooks", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PLS%20DONATE%20Server%20Hop%20Auto%20Beg%20Webhooks.lua")
+
+addscriptexist(9103460924, "Sword Factory X: Auto Plasma Chest Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sword%20Factory%20X%20Auto%20Plasma%20Chest%20Farm.lua")
