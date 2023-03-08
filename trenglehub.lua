@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 19:02:19"
+lastupdate = "GMT +1: 08.03.2023 19:02:23"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -12380,3 +12380,5 @@ addscriptexist(13822889, "Lumber Tycoon 2: Sinister, Spook Wood Hopper", "pulled
 addscriptexist(8308074824, "Meme Piece: Infinite Stats", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Meme%20Piece%20Infinite%20Stats.lua")
 
 addscriptexist(10425191433, "Trick Shot Simulator: Infinite Money", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Trick%20Shot%20Simulator%20Infinite%20Money.lua")
+
+addscriptexist(10723695195, "Anime Evolution Simulator: Auto Attack Mob Teleports, Auto Eggs, Auto Click", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime%20Evolution%20Simulator%20Auto%20Attack%20Mob%20Teleports%20Auto%20Eggs%20Auto%20Click.lua")
