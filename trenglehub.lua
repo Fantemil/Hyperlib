@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 18:13:47"
+lastupdate = "GMT +1: 08.03.2023 18:13:52"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -11336,3 +11336,5 @@ addscriptexist(10297454652, "Call Of Mini Zombies: Free Event Items", "pulled fr
 addscriptexist(21532277, "Notoriety: Infinity Skill Points", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Notoriety%20Infinity%20Skill%20Points.lua")
 
 addscriptexist(164051105, "Super Bomb Survival: Auto Farm, Auto Collect, Auto Collect Gems", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Super%20Bomb%20Survival%20Auto%20Farm%20Auto%20Collect%20Auto%20Collect%20Gems.lua")
+
+addscriptexist(6461766546, "A hero destiny: Auto Punch, Auto Train, Auto Spin", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/A%20hero%20destiny%20Auto%20Punch%20Auto%20Train%20Auto%20Spin.lua")
