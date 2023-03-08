@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 18:59:33"
+lastupdate = "GMT +1: 08.03.2023 18:59:38"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -12320,3 +12320,5 @@ addscriptexist(10320240572, "Easy Race Clicker: Auto Finish, Auto Rebirth, Auto 
 addscriptexist(9207492417, "Roguelike Prototype: Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Roguelike%20Prototype%20Auto%20Farm.lua")
 
 addscriptexist(606849621, "Jailbreak: Collect Airdrops, No Punch Aura & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Jailbreak%20Collect%20Airdrops%20No%20Punch%20Aura%20%20More.lua")
+
+addscriptexist(2753915549, "Blox Fruits: ESP, Auto next sea & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blox%20Fruits%20ESP%20Auto%20next%20sea%20%20More.lua")
