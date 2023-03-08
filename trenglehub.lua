@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 06:58:43"
+lastupdate = "GMT +1: 08.03.2023 06:58:47"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -5268,3 +5268,5 @@ addscriptuniversal("Universal Outfit Changer group bypass", "pulled from rbxscri
 addscriptexist(445664957, "Parkour: Set Flow, Set Combo, Infinite Wallrun", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Parkour%20Set%20Flow%20Set%20Combo%20Infinite%20Wallrun.lua")
 
 addscript(2000062521, "Current Game","State of Anarchy: Master Switch, Double Tap, ESP", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/State%20of%20Anarchy%20Master%20Switch%20Double%20Tap%20ESP.lua")
+
+addscriptexist(855499080, "SKYWARS: Air Block, Farm Wins & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SKYWARS%20Air%20Block%20Farm%20Wins%20%20More.lua")
