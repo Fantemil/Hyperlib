@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 14:32:51"
+lastupdate = "GMT +1: 08.03.2023 14:32:55"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -7660,3 +7660,5 @@ addscriptexist(11445923563, "One Fruit Simulator: Mastery Op Auto Farm", "pulled
 addscriptexist(9224601490, "Fruit Battlegrounds: Best Gui, Auto Farm & More!", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Fruit%20Battlegrounds%20Best%20Gui%20Auto%20Farm%20%20More.lua")
 
 addscriptexist(698448212, "Robeats: Auto Player, Perfect Scores Every Time", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Robeats%20Auto%20Player%20Perfect%20Scores%20Every%20Time.lua")
+
+addscriptexist(2753915549, "Blox Fruits: Auto Quests, Auto Farm, Auto Haki", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blox%20Fruits%20Auto%20Quests%20Auto%20Farm%20Auto%20Haki.lua")
