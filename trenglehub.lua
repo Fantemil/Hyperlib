@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 14:55:38"
+lastupdate = "GMT +1: 08.03.2023 14:55:42"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -8268,3 +8268,5 @@ addscript(6679274937, "Current Game","Vans World: Get 3 UGC Items", "pulled from
 addscriptexist(6938803436, "Anime Dimensions: Hide Name, Auto Retry, Auto Join", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime%20Dimensions%20Hide%20Name%20Auto%20Retry%20Auto%20Join.lua")
 
 addhub("NexHub: 15+ Games", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NexHub%20%20Games.lua")
+
+addscriptexist(8884433153, "Collect All Pets! Auto Coin, Auto Claim Quest, Auto Eggs", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Collect%20All%20Pets%20Auto%20Coin%20Auto%20Claim%20Quest%20Auto%20Eggs.lua")
