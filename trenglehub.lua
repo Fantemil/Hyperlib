@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 14:30:40"
+lastupdate = "GMT +1: 08.03.2023 14:30:44"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -7604,3 +7604,5 @@ addscript(7417228448, "Current Game","POV: You are trapped in your bedroom with 
 addscriptexist(621129760, "Knife Ability Test: Hitboxes, ESP, Crosshair", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Knife%20Ability%20Test%20Hitboxes%20ESP%20Crosshair.lua")
 
 addscriptexist(1215581239, "Doomspire Brickbattle: Walkspeed, Jump Power, ESP", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Doomspire%20Brickbattle%20Walkspeed%20Jump%20Power%20ESP.lua")
+
+addscriptexist(2788229376, "Da Hood: Keybinds, Aimlock, ESP", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Da%20Hood%20Keybinds%20Aimlock%20ESP.lua")
