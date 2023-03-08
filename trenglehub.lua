@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 06:56:12"
+lastupdate = "GMT +1: 08.03.2023 06:56:17"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -5190,3 +5190,5 @@ addscriptexist(11676335670, "Hunter X Athena: Auto Pushup", "pulled from rbxscri
 addscriptexist(142823291, "Murder Mystery 2: Auto Farm, Esp, Godmode", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Murder%20Mystery%20%20Auto%20Farm%20Esp%20Godmode.lua")
 
 addscriptexist(4616652839, "Shindo Life: Autofarm, NoCooldown, KillAura", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Shindo%20Life%20Autofarm%20NoCooldown%20KillAura.lua")
+
+addscriptexist(10742364019, "EGOIST: High kick, Auto Dribble, Aimbot", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/EGOIST%20High%20kick%20Auto%20Dribble%20Aimbot.lua")
