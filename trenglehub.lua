@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 20:18:11"
+lastupdate = "GMT +1: 08.03.2023 20:18:15"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -13654,3 +13654,5 @@ addscriptexist(9498006165, "Tapping Simulator! | AutoClick, AutoRebirth", "pulle
 addscriptexist(286090429, "Arsenal | Silent Aim, Esp", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Arsenal%20%20Silent%20Aim%20Esp.lua")
 
 addscriptexist(318978013, "Kick Off | Instant Goals, FOV, Gravity", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Kick%20Off%20%20Instant%20Goals%20FOV%20Gravity.lua")
+
+addhub("ECLIPSE HUB | Tower Of Hell, Adopt Me, Murder Mystery", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ECLIPSE%20HUB%20%20Tower%20Of%20Hell%20Adopt%20Me%20Murder%20Mystery.lua")
