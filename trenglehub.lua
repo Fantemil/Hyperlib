@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 18:15:02"
+lastupdate = "GMT +1: 08.03.2023 18:15:07"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -11368,3 +11368,5 @@ addscriptexist(292439477, "Phantom Forces: Silent Aim, Aimbot, Esp", "pulled fro
 addscriptexist(92604236, "High School Life: Always hit good shots", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/High%20School%20Life%20Always%20hit%20good%20shots.lua")
 
 addscriptexist(3260590327, "Tower Defense Simulator: Auto Strategy, Auto Farm(Starter Version)", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tower%20Defense%20Simulator%20Auto%20Strategy%20Auto%20FarmStarter%20Version.lua")
+
+addscriptexist(9486506804, "FIFA World: Collect All Scavenger Hunt", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FIFA%20World%20Collect%20All%20Scavenger%20Hunt.lua")
