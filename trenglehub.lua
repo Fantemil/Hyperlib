@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 18:02:11"
+lastupdate = "GMT +1: 08.03.2023 18:02:15"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -11050,3 +11050,5 @@ addscriptexist(10512771459, "Fighting Academy: Auto Farm Pushups, Auto Punch, Te
 addscriptexist(2753915549, "Blox Fruits: Kill Aura, Hitbox Extender", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blox%20Fruits%20Kill%20Aura%20Hitbox%20Extender.lua")
 
 addscriptexist(10298335542, "Basketball Stars 2: Auto Steal, WalkSPeed, Fov", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Basketball%20Stars%20%20Auto%20Steal%20WalkSPeed%20Fov.lua")
+
+addscript(7041939546, "Current Game","Catalog Avatar Creator: Instant Spin, Fake Status, Click Teleport", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Catalog%20Avatar%20Creator%20Instant%20Spin%20Fake%20Status%20Click%20Teleport.lua")
