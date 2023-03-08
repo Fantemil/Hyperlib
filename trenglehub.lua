@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 12:35:04"
+lastupdate = "GMT +1: 08.03.2023 12:35:08"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -6270,3 +6270,5 @@ addscriptexist(4651779470, "RECOIL: Infinite Ammo, Auto Guns & More", "pulled fr
 addscriptuniversal("Universal FE Snake", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20FE%20Snake.lua")
 
 addscriptexist(7560156054, "Clicker Simulator: Auto Collect All Snowflakes", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Clicker%20Simulator%20Auto%20Collect%20All%20Snowflakes.lua")
+
+addscriptexist(10462101644, "Tall Man Run: Give Size", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tall%20Man%20Run%20Give%20Size.lua")
