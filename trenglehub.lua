@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 17:51:57"
+lastupdate = "GMT +1: 08.03.2023 17:52:02"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -10794,3 +10794,5 @@ addscript(7476406054, "Current Game","Grow Up Simulator: Auto Farm Toy, Auto Sel
 addscript(6432407703, "Current Game","Big City Tycoon: Prioritize Greens, Auto Obby, Auto Build", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Big%20City%20Tycoon%20Prioritize%20Greens%20Auto%20Obby%20Auto%20Build.lua")
 
 addscriptexist(155615604, "Prison Life: Get All Guns, Teleports, Btools", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Prison%20Life%20Get%20All%20Guns%20Teleports%20Btools.lua")
+
+addscript(6514923093, "Current Game","Realistic Guns (FPS Shooter): Wall Bang, ESP, Silent Aim", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Realistic%20Guns%20FPS%20Shooter%20Wall%20Bang%20ESP%20Silent%20Aim.lua")
