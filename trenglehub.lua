@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 16:58:57"
+lastupdate = "GMT +1: 08.03.2023 16:59:01"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -9450,3 +9450,5 @@ addscriptexist(3260590327, "Tower Defense Simulator: Auto Chain", "pulled from r
 addscriptexist(286090429, "Arsenal: AImbot, ESP, Max Ammo", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Arsenal%20AImbot%20ESP%20Max%20Ammo.lua")
 
 addscriptexist(7305309231, "Taxi Boss: Buy Halloween Cars", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Taxi%20Boss%20Buy%20Halloween%20Cars.lua")
+
+addscriptexist(3398014311, "Restaurant Tycoon 2: Auto Collect", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Restaurant%20Tycoon%20%20Auto%20Collect.lua")
