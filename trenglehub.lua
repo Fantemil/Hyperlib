@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 12:36:30"
+lastupdate = "GMT +1: 08.03.2023 12:36:34"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -6308,3 +6308,5 @@ addscriptexist(6125589657, "Touch Football: Speed Hack", "pulled from rbxscript.
 addscriptexist(11656036986, "make roblox games to become rich and famous: Auto Create, Auto Upgrades, Auto Complete Obby", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/make%20roblox%20games%20to%20become%20rich%20and%20famous%20Auto%20Create%20Auto%20Upgrades%20Auto%20Complete%20Obby.lua")
 
 addscriptexist(920587237, "Adopt Me: Auto Race Complete", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Adopt%20Me%20Auto%20Race%20Complete.lua")
+
+addscript(9588998913, "Current Game","Empire Clash: Semi-Auto Blacksmith", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Empire%20Clash%20SemiAuto%20Blacksmith.lua")
