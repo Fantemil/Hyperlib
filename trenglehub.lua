@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 15:07:33"
+lastupdate = "GMT +1: 08.03.2023 15:07:38"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -8586,3 +8586,5 @@ addscriptexist(8069117419, "Demon Soul Simulator: Auto Collect Dispatch, Auto Di
 addscriptexist(147848991, "Be A Parkour Ninja: KillAura, Hitboxes, Respawn Button", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Be%20A%20Parkour%20Ninja%20KillAura%20Hitboxes%20Respawn%20Button.lua")
 
 addscriptexist(4616652839, "Shindo Life: Auto Farm, Boss Farm & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Shindo%20Life%20Auto%20Farm%20Boss%20Farm%20%20More.lua")
+
+addscriptexist(2317712696, "The Wild West: Gun Mods", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/The%20Wild%20West%20Gun%20Mods.lua")
