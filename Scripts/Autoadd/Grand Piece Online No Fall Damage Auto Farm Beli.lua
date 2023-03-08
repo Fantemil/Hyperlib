@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/CFA-HUB/CFAHub-Free/main/gpofreecfahub.lua"))()
