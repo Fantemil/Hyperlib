@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 14:59:25"
+lastupdate = "GMT +1: 08.03.2023 14:59:29"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -8372,3 +8372,5 @@ addscript(8066856875, "Current Game","Pirate`s Dream: Auto Farm, Auto Chest & Mo
 addscriptuniversal("Universal Realistic Day and Night", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Realistic%20Day%20and%20Night.lua")
 
 addscriptexist(3101667897, "Legends Of Speed: Auto Collect Orbs, Hoops, Auto Rebirth", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Legends%20Of%20Speed%20Auto%20Collect%20Orbs%20Hoops%20Auto%20Rebirth.lua")
+
+addscript(4292776423, "Current Game","Unit: Classified: Kill All", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Unit%20Classified%20Kill%20All.lua")
