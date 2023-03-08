@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 18:30:45"
+lastupdate = "GMT +1: 08.03.2023 18:30:50"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -11750,3 +11750,5 @@ addscriptexist(10425191433, "Trick Shot Simulator: Infinty Cash, Infinity Gems",
 addscriptexist(10925589760, "Merge Simulator: Merge All Blocks, Teleporter To Players, Give x2 Frenzy", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Merge%20Simulator%20Merge%20All%20Blocks%20Teleporter%20To%20Players%20Give%20x%20Frenzy.lua")
 
 addscript(10676523834, "Current Game","Racing Rocket: Teleport Menu, Manipulate Reward Stars, Auto Clicks", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Racing%20Rocket%20Teleport%20Menu%20Manipulate%20Reward%20Stars%20Auto%20Clicks.lua")
+
+addscriptexist(340227283, "RoBowling: Grab Coins, Teleporter", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RoBowling%20Grab%20Coins%20Teleporter.lua")
