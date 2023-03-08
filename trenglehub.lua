@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 12:26:41"
+lastupdate = "GMT +1: 08.03.2023 12:26:45"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -6042,3 +6042,5 @@ addscriptexist(443406476, "Project Lazarus: Damage Modifier", "pulled from rbxsc
 addscriptuniversal("Universal Visual Works", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Visual%20Works.lua")
 
 addscript(2629642516, "Current Game","Bitcoin Miner: Snow Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Bitcoin%20Miner%20Snow%20Auto%20Farm.lua")
+
+addscriptexist(4566572536, "Vehicle Legends: Auto Farm, Car Speed, Anti Afk", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Vehicle%20Legends%20Auto%20Farm%20Car%20Speed%20Anti%20Afk.lua")
