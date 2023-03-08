@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 18:38:16"
+lastupdate = "GMT +1: 08.03.2023 18:38:20"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -11888,3 +11888,5 @@ addscriptexist(10804519995, "Ro Fruit: Auto Farm Mobs, Insta Kill, Auto Hit", "p
 addscriptexist(536102540, "DBZ Final Stand: No Cooldown", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DBZ%20Final%20Stand%20No%20Cooldown.lua")
 
 addscriptexist(8726743209, "Refinery Caves: Auto Farm, Walkspeed, Box Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Refinery%20Caves%20Auto%20Farm%20Walkspeed%20Box%20Auto%20Farm.lua")
+
+addscriptexist(21532277, "Notoriety: ESP, Show Hitbox, Noclip", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Notoriety%20ESP%20Show%20Hitbox%20Noclip.lua")
