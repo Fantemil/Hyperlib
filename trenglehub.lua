@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 16:46:16"
+lastupdate = "GMT +1: 08.03.2023 16:46:21"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -9128,3 +9128,5 @@ addscriptexist(2809202155, "Your Bizarre Adventure: Lucky Arrow Hopper", "pulled
 addscriptexist(2809202155, "Your Bizarre Adventure: Farm things", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Your%20Bizarre%20Adventure%20Farm%20things.lua")
 
 addscriptexist(6284583030, "Pet Simulator X: Auto Farm, Auto Open Egg, Tp", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pet%20Simulator%20X%20Auto%20Farm%20Auto%20Open%20Egg%20Tp.lua")
+
+addscriptexist(920587237, "Adopt Me: Auto Farm, Auto PayOut, Auto Trade Decline", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Adopt%20Me%20Auto%20Farm%20Auto%20PayOut%20Auto%20Trade%20Decline.lua")
