@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 18:34:29"
+lastupdate = "GMT +1: 08.03.2023 18:34:35"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -11806,3 +11806,5 @@ addscriptexist(10912060909, "Black Adam Experience: Auto Claim UGC Items", "pull
 addscriptexist(10180880196, "Fling Champions: Auto Candy, Auto Eggs, Auto Upgrade", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Fling%20Champions%20Auto%20Candy%20Auto%20Eggs%20Auto%20Upgrade.lua")
 
 addscriptexist(3823781113, "Saber Simulator: Auto Clikc, Auto Sell & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Saber%20Simulator%20Auto%20Clikc%20Auto%20Sell%20%20More.lua")
+
+addscript(10939017491, "Current Game","Pls Make Me Rich: Money Bots, Anti AFK", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pls%20Make%20Me%20Rich%20Money%20Bots%20Anti%20AFK.lua")
