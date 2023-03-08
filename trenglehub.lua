@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 06:57:16"
+lastupdate = "GMT +1: 08.03.2023 06:57:20"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -5222,3 +5222,5 @@ addscriptexist(292439477, "Phantom Forces: CPU Limiter, ESP, No Fall Damage", "p
 addscript(4714308751, "Current Game","Defend The Train BETA: Best Server Lagger", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Defend%20The%20Train%20BETA%20Best%20Server%20Lagger.lua")
 
 addscript(4927429832, "Current Game","Wonder Woman: The Themyscira Experience: Auto Get Shovel, Auto Farm Treasures & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Wonder%20Woman%20The%20Themyscira%20Experience%20Auto%20Get%20Shovel%20Auto%20Farm%20Treasures%20%20More.lua")
+
+addscript(9534337535, "Current Game","Shrek in the Backrooms: Fast Loot Respawn, Auto Farm Coin, Loot Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Shrek%20in%20the%20Backrooms%20Fast%20Loot%20Respawn%20Auto%20Farm%20Coin%20Loot%20Auto%20Farm.lua")
