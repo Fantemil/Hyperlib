@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 15:15:16"
+lastupdate = "GMT +1: 08.03.2023 15:15:20"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -8796,3 +8796,5 @@ addscriptexist(9601565001, "Car Crash System: Unlock Car Tiers", "pulled from rb
 addscriptexist(7714627632, "Winds of Fortune: Infinite Coins, Kill all NPC's,Kill All PLayer", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Winds%20of%20Fortune%20Infinite%20Coins%20Kill%20all%20NPCsKill%20All%20PLayer.lua")
 
 addscriptexist(9680886326, "West Elm Home Design: Cash Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/West%20Elm%20Home%20Design%20Cash%20Farm.lua")
+
+addscriptexist(9649680488, "Backrooms Race Clicker: Auto Clicker", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Backrooms%20Race%20Clicker%20Auto%20Clicker.lua")
