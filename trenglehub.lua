@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 15:14:14"
+lastupdate = "GMT +1: 08.03.2023 15:14:19"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -8768,3 +8768,5 @@ addscript(10944357250, "Current Game","Stair Legends! Auto Climb", "pulled from 
 addscriptexist(192800, "Work at a Pizza Place: FE Sound Spam, Walkspeed, Noclip", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Work%20at%20a%20Pizza%20Place%20FE%20Sound%20Spam%20Walkspeed%20Noclip.lua")
 
 addscript(9880062154, "Current Game","Decaying Winter: The Last Strandeds: No Virus spread, Godmode, ESP", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Decaying%20Winter%20The%20Last%20Strandeds%20No%20Virus%20spread%20Godmode%20ESP.lua")
+
+addscriptexist(10622006440, "Hyper Realistic CSGO Guns: Swap Guns Skins, Non-bannable, Custom Skins", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Hyper%20Realistic%20CSGO%20Guns%20Swap%20Guns%20Skins%20Nonbannable%20Custom%20Skins.lua")
