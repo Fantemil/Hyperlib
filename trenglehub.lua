@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 07:00:29"
+lastupdate = "GMT +1: 08.03.2023 07:00:33"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -5322,3 +5322,5 @@ addscript(9993529229, "Current Game","Counter Blox: Remastered: Open Infinity Ca
 addscriptexist(9872472334, "Evade: Exp Farm, Money Farm, Anti Afk", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Evade%20Exp%20Farm%20Money%20Farm%20Anti%20Afk.lua")
 
 addscriptexist(6516141723, "DOORS: Key Aura, Book Aura, ESP", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DOORS%20Key%20Aura%20Book%20Aura%20ESP.lua")
+
+addscriptexist(10675066724, "Slime Tower Tycoon: Auto Collect, Auto Deposit, Auto Merge", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Slime%20Tower%20Tycoon%20Auto%20Collect%20Auto%20Deposit%20Auto%20Merge.lua")
