@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 19:26:20"
+lastupdate = "GMT +1: 08.03.2023 19:26:25"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -12896,3 +12896,5 @@ addscriptexist(10676523834, "Racing Rocket: Auto Max Power, Auto Farm Stars", "p
 addscriptexist(9264596435, "Idle Heroes Simulator: Auto level, Auto kill", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Idle%20Heroes%20Simulator%20Auto%20level%20Auto%20kill.lua")
 
 addscriptexist(8260276694, "Ability Wars: KillAura, Godmode, Kill All", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ability%20Wars%20KillAura%20Godmode%20Kill%20All.lua")
+
+addscriptexist(9992339729, "Longest Answer Wins: set water rising, Change question text & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Longest%20Answer%20Wins%20set%20water%20rising%20Change%20question%20text%20%20More.lua")
