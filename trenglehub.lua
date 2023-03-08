@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 19:33:50"
+lastupdate = "GMT +1: 08.03.2023 19:33:54"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -13064,3 +13064,5 @@ addscriptexist(648362523, "Breaking Point: Auto Farm Infinity Coins", "pulled fr
 addscriptexist(286090429, "Arsenal: Aimbot, Smoothness, Esp", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Arsenal%20Aimbot%20Smoothness%20Esp.lua")
 
 addscript(9611809130, "Current Game","Crazy Party RPG: Tp To Crab Area", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Crazy%20Party%20RPG%20Tp%20To%20Crab%20Area.lua")
+
+addscriptexist(1242235469, "ball and axe: Gravity, Go To Saved Location, Infinity Reach", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ball%20and%20axe%20Gravity%20Go%20To%20Saved%20Location%20Infinity%20Reach.lua")
