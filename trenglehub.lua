@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 19:40:04"
+lastupdate = "GMT +1: 08.03.2023 19:40:10"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -13194,3 +13194,5 @@ addscriptexist(488667523, "Those Who Remain | Items Esp", "pulled from rbxscript
 addscriptexist(2512643572, "Bubble Gum Simulator | Redeem All Codes", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Bubble%20Gum%20Simulator%20%20Redeem%20All%20Codes.lua")
 
 addscriptexist(10903978962, "Sheep Tycoon | Auto Farm, Auto Sell", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sheep%20Tycoon%20%20Auto%20Farm%20Auto%20Sell.lua")
+
+addscriptexist(4639625707, "Oil Warfare Tycoon | Gun Mod", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Oil%20Warfare%20Tycoon%20%20Gun%20Mod.lua")
