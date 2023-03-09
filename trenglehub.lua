@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 15:02:28"
+lastupdate = "GMT +1: 09.03.2023 15:02:32"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -17980,3 +17980,5 @@ addscriptexist(9336657396, "A Beatdown Neighborhood [Auto Farm Power]", "pulled 
 addscript(7797478022, "Current Game","Broken Bones Simulator [Infinite Money]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Broken%20Bones%20Simulator%20Infinite%20Money.lua")
 
 addscriptexist(3823781113, "Saber Simulator [New Auto Farm GUI]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Saber%20Simulator%20New%20Auto%20Farm%20GUI.lua")
+
+addscriptexist(6403373529, "Slap Battles [Auto Collect All & Kill Open Source]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Slap%20Battles%20Auto%20Collect%20All%20%20Kill%20Open%20Source.lua")
