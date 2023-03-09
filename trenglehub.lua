@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 13:45:08"
+lastupdate = "GMT +1: 09.03.2023 13:45:13"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -15992,3 +15992,5 @@ addscriptexist(8054462345, "Michael`s Zombies [Anti Knockdown]", "pulled from rb
 addscriptexist(8054462345, "Michael`s Zombies [Always Headshot - Instant Reload]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Michaels%20Zombies%20Always%20Headshot%20%20Instant%20Reload.lua")
 
 addscript(6606507295, "Current Game","Turbo's Murder Mystery 2 [Get Free Paid Weapons]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Turbos%20Murder%20Mystery%20%20Get%20Free%20Paid%20Weapons.lua")
+
+addscriptexist(5956785391, "Project Slayers [Fish Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Project%20Slayers%20Fish%20Farm.lua")
