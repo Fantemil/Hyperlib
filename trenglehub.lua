@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 15:57:02"
+lastupdate = "GMT +1: 09.03.2023 15:57:06"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -19342,3 +19342,5 @@ addscriptexist(6783611814, "Build a Boat to Survive [Bagde]", "pulled from rbxsc
 addscriptexist(4499822233, "Star Wars Bounty Hunters Outer Rim [Kill All, Infinity Credits & Kill All Bounties]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Star%20Wars%20Bounty%20Hunters%20Outer%20Rim%20Kill%20All%20Infinity%20Credits%20%20Kill%20All%20Bounties.lua")
 
 addscriptexist(4954096313, "Field Trip Z [God mode All (and Youself), Kill Zombies, Esp]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Field%20Trip%20Z%20God%20mode%20All%20and%20Youself%20Kill%20Zombies%20Esp.lua")
+
+addscript(8099517179, "Current Game","Color Fling [Auto Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Color%20Fling%20Auto%20Farm.lua")
