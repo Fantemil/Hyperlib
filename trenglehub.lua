@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 15:35:10"
+lastupdate = "GMT +1: 09.03.2023 15:35:15"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18798,3 +18798,5 @@ addscript(2249346496, "Current Game","Blood Moon The Tycoon [Melee Instant Kill]
 addscriptexist(6284583030, "Pet Simulator X [Anti Steal]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pet%20Simulator%20X%20Anti%20Steal.lua")
 
 addscriptexist(5610197459, "gang up on people simulator [Money]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/gang%20up%20on%20people%20simulator%20Money.lua")
+
+addscriptexist(6401440818, "MONOLITH DEFENSE [Stat Upgrade Everything]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MONOLITH%20DEFENSE%20Stat%20Upgrade%20Everything.lua")
