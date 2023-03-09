@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 13:47:23"
+lastupdate = "GMT +1: 09.03.2023 13:47:27"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -16052,3 +16052,5 @@ addscriptexist(1899149341, "Vehicle Tycoon [Collect All Gifts]", "pulled from rb
 addscript(10191372093, "Current Game","Guillotine Tycoon [Auto Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Guillotine%20Tycoon%20Auto%20Farm.lua")
 
 addscriptexist(1224212277, "Mad City [Auto Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mad%20City%20Auto%20Farm.lua")
+
+addscriptexist(1224212277, "Mad City [Exp Farm, Esp, Silent AIm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mad%20City%20Exp%20Farm%20Esp%20Silent%20AIm.lua")
