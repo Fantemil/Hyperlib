@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 15:56:35"
+lastupdate = "GMT +1: 09.03.2023 15:56:39"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -19330,3 +19330,5 @@ addscriptexist(2768379856, "3008 [WalkSpeed, Infinite jump, No Fall Damage]", "p
 addscript(4689179508, "Current Game","Project Ghoul [Auto Farm, Auto Skill, Auto Quest]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Project%20Ghoul%20Auto%20Farm%20Auto%20Skill%20Auto%20Quest.lua")
 
 addscriptexist(735030788, "Royale High [Gem Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Royale%20High%20Gem%20Farm.lua")
+
+addscriptexist(8396586868, "A 0ne piece game [Dupe]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/A%20ne%20piece%20game%20Dupe.lua")
