@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 13:32:34"
+lastupdate = "GMT +1: 09.03.2023 13:32:39"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -15662,3 +15662,5 @@ addscriptexist(9976239895, "Gumball Factory Tycoon [Auto obby]", "pulled from rb
 addscriptexist(9976239895, "Gumball Factory Tycoon [Auto Obby]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Gumball%20Factory%20Tycoon%20Auto%20Obby.lua")
 
 addscriptexist(8962384769, "Firework Simulator [Auto Farm, WalkSpeed, Auto open pets]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Firework%20Simulator%20Auto%20Farm%20WalkSpeed%20Auto%20open%20pets.lua")
+
+addscriptexist(8425637426, "Write a Letter [A etter free animations]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Write%20a%20Letter%20A%20etter%20free%20animations.lua")
