@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 13:39:56"
+lastupdate = "GMT +1: 09.03.2023 13:40:00"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -15854,3 +15854,5 @@ addscript(4459593483, "Current Game","FORCE [PRE-ALPHA] [GUI - Anti Ragdoll, Ant
 addscriptexist(3956818381, "Ninja Legends [Auto Farm, Auto Sell, Auto Collect Ch]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ninja%20Legends%20Auto%20Farm%20Auto%20Sell%20Auto%20Collect%20Ch.lua")
 
 addscriptexist(9898710720, "Money Tycoon [Auto Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Money%20Tycoon%20Auto%20Farm.lua")
+
+addscriptexist(654732683, "Car Crushers 2 [Auto Farm, GamePass, No Ragdoll]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Car%20Crushers%20%20Auto%20Farm%20GamePass%20No%20Ragdoll.lua")
