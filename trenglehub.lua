@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 13:24:03"
+lastupdate = "GMT +1: 09.03.2023 13:24:07"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -15446,3 +15446,5 @@ addscript(8707573053, "Current Game","nowhere [Collect Emply Bottles]", "pulled 
 addscript(109814071, "Current Game","Medieval Warfare Reforged [Auto Farm - GUI]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Medieval%20Warfare%20Reforged%20Auto%20Farm%20%20GUI.lua")
 
 addscriptexist(1224212277, "Mad City Chapter 2 [Auto Arrest]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mad%20City%20Chapter%20%20Auto%20Arrest.lua")
+
+addscriptexist(10118559731, "nico's nextbots [blackouts] [Open All Doors]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/nicos%20nextbots%20blackouts%20Open%20All%20Doors.lua")
