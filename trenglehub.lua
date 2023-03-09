@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 16:02:04"
+lastupdate = "GMT +1: 09.03.2023 16:02:09"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -19464,3 +19464,5 @@ addscriptexist(6442957604, "Custom PC Tycoon [Auto PC Build And Sell]", "pulled 
 addscriptexist(6442957604, "Custom PC Tycoon [Auto Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Custom%20PC%20Tycoon%20Auto%20Farm.lua")
 
 addscriptexist(7114303730, "Dragon Orbz [Auto Farm - Auto Quest & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Dragon%20Orbz%20Auto%20Farm%20%20Auto%20Quest%20%20More.lua")
+
+addscript(7198676364, "Current Game","Climb a Rainbow Pop it [Auto Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Climb%20a%20Rainbow%20Pop%20it%20Auto%20Farm.lua")
