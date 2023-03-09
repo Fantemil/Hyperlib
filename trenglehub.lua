@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 12:56:22"
+lastupdate = "GMT +1: 09.03.2023 12:56:29"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -15302,3 +15302,5 @@ addscriptexist(9285238704, "Race Clicker [Auto Win]", "pulled from rbxscript.com
 addscript(10378234820, "Current Game","Mining Simulator 2 Fan-Made [Tool enchants]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mining%20Simulator%20%20FanMade%20Tool%20enchants.lua")
 
 addscriptexist(10378234820, "Mining Simulator 2 Fan-Made [Reset Pass]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mining%20Simulator%20%20FanMade%20Reset%20Pass.lua")
+
+addscriptexist(10378234820, "Mining Simulator 2 Fan-Made [Prime Benefits]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mining%20Simulator%20%20FanMade%20Prime%20Benefits.lua")
