@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 14:34:11"
+lastupdate = "GMT +1: 09.03.2023 14:34:16"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -17264,3 +17264,5 @@ addscriptexist(155382109, "Survive and Kill the Killers in Area 51 [Give All Gun
 addscriptexist(5766084948, "SCP: The Red Lake [Hitbox Expand]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SCP%20The%20Red%20Lake%20Hitbox%20Expand.lua")
 
 addscript(3025990139, "Current Game","Unboxing Simulator [Vip Room, Speed Autoб Collect Quest]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Unboxing%20Simulator%20Vip%20Room%20Speed%20Auto%D0%B1%20Collect%20Quest.lua")
+
+addscript(6494523288, "Current Game","Blade Quest [Auto Farm Kill Aura, Auto Upgrade Sword]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blade%20Quest%20Auto%20Farm%20Kill%20Aura%20Auto%20Upgrade%20Sword.lua")
