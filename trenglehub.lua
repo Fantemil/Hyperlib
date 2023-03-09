@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 13:52:55"
+lastupdate = "GMT +1: 09.03.2023 13:53:00"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -16198,3 +16198,5 @@ addscriptexist(6678877691, "ZO ぞ SAMURAI [Anti Cheat Bypass]", "pulled from rb
 addscript(679737281, "Current Game","Moon City [GUI - Aimbot, Teleports & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Moon%20City%20GUI%20%20Aimbot%20Teleports%20%20More.lua")
 
 addscriptexist(443406476, "Project Lazarus [GUI - Weapons Mode, Visuals & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Project%20Lazarus%20GUI%20%20Weapons%20Mode%20Visuals%20%20More.lua")
+
+addscriptexist(3234050617, "Left 2 Die Overhaul [GUI - Weapons Mode, Vusials]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Left%20%20Die%20Overhaul%20GUI%20%20Weapons%20Mode%20Vusials.lua")
