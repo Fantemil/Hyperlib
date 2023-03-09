@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 16:00:58"
+lastupdate = "GMT +1: 09.03.2023 16:01:04"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -19440,3 +19440,5 @@ addscriptexist(6667701234, "Fate/Xero [Teleport All Items]", "pulled from rbxscr
 addscript(8300860655, "Current Game","Warfronts (BETA) [Kill Everyone / Kill All Enemies]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Warfronts%20BETA%20Kill%20Everyone%20%20Kill%20All%20Enemies.lua")
 
 addscriptexist(7336302630, "Project Delta [Auto Loot – Loot Anywhere]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Project%20Delta%20Auto%20Loot%20%20Loot%20Anywhere.lua")
+
+addscriptexist(8639059522, "Magnifying Simulator [GUI - Auto Open Box - Auto Collect Orbs & Auto Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Magnifying%20Simulator%20GUI%20%20Auto%20Open%20Box%20%20Auto%20Collect%20Orbs%20%20Auto%20Farm.lua")
