@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 13:48:33"
+lastupdate = "GMT +1: 09.03.2023 13:48:37"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -16082,3 +16082,5 @@ addscriptexist(1962086868, "Tower of Hell [Auto Win, GodMode, Get All Items]", "
 addscriptexist(5956785391, "Project Slayers [Auto Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Project%20Slayers%20Auto%20Farm.lua")
 
 addscriptexist(8278412720, "CS Prison Life [AntiCheat Bypass]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CS%20Prison%20Life%20AntiCheat%20Bypass.lua")
+
+addscriptexist(8278412720, "CS Prison Life [Auto Arrest All]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CS%20Prison%20Life%20Auto%20Arrest%20All.lua")
