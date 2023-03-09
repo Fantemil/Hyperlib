@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 15:26:17"
+lastupdate = "GMT +1: 09.03.2023 15:26:21"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18576,3 +18576,5 @@ addscript(6847090259, "Current Game","Bulked Up [Auto Collect Eggs]", "pulled fr
 addscript(5049335549, "Current Game","Dawn of Aurora RP [Auto Farm Free]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Dawn%20of%20Aurora%20RP%20Auto%20Farm%20Free.lua")
 
 addscriptexist(6847090259, "Bulked Up [Auto Collect Trophies]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Bulked%20Up%20Auto%20Collect%20Trophies.lua")
+
+addscript(386329050, "Current Game","The Black Mesλ Incident [All guns]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/The%20Black%20Mes%CE%BB%20Incident%20All%20guns.lua")
