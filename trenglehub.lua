@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 14:52:41"
+lastupdate = "GMT +1: 09.03.2023 14:52:45"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -17736,3 +17736,5 @@ addscript(7110163297, "Current Game","Super Sabers [Redeem All Codes]", "pulled 
 addscriptexist(2653064683, "Word Bomb [Auto Type And More! - Open Source]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Word%20Bomb%20Auto%20Type%20And%20More%20%20Open%20Source.lua")
 
 addscriptexist(6897226634, "Timber [Tree Aura]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Timber%20Tree%20Aura.lua")
+
+addscriptexist(488667523, "Those Who Remain [Kill All]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Those%20Who%20Remain%20Kill%20All.lua")
