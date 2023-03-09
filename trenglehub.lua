@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 14:15:40"
+lastupdate = "GMT +1: 09.03.2023 14:15:45"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -16790,3 +16790,5 @@ addscript(6763893674, "Current Game","Ballista [Inf arrows, Fast arrow, No roll 
 addscript(6937208251, "Current Game","Star Wars: Battleground [Silent Aim]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Star%20Wars%20Battleground%20Silent%20Aim.lua")
 
 addscriptexist(1224212277, "Mad City [Auto Job, Kill Player, Fly]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mad%20City%20Auto%20Job%20Kill%20Player%20Fly.lua")
+
+addscriptexist(9551640993, "Mining Simulator 2 [Auto Farm GUI]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mining%20Simulator%20%20Auto%20Farm%20GUI.lua")
