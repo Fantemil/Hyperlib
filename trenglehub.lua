@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 14:47:09"
+lastupdate = "GMT +1: 09.03.2023 14:47:14"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -17590,3 +17590,5 @@ addscript(3403279477, "Current Game","Creeper Aw man [God Mode - Crash Server - 
 addscriptexist(6728870912, "World of Stands Demo [Infinite Gold]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/World%20of%20Stands%20Demo%20Infinite%20Gold.lua")
 
 addscriptexist(659222129, "Swordburst 2 [Auto Farm, Tp, Kill Aura]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Swordburst%20%20Auto%20Farm%20Tp%20Kill%20Aura.lua")
+
+addscriptexist(5678279798, "Fight Club [Kill Aura & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Fight%20Club%20Kill%20Aura%20%20More.lua")
