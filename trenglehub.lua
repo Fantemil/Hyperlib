@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 14:11:34"
+lastupdate = "GMT +1: 09.03.2023 14:11:38"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -16682,3 +16682,5 @@ addscriptuniversal("Roblox - Universal ESP GUI", "pulled from rbxscript.com", "h
 addscriptexist(8739839954, "Jujutsu Tycoon [Kill Students]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Jujutsu%20Tycoon%20Kill%20Students.lua")
 
 addscriptexist(8739839954, "Jujutsu Tycoon [Kill All Players]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Jujutsu%20Tycoon%20Kill%20All%20Players.lua")
+
+addscriptexist(9936860371, "Egg Packing Tycoon [GUI - Auto Collect Eggs, Auto Place Eggs]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Egg%20Packing%20Tycoon%20GUI%20%20Auto%20Collect%20Eggs%20Auto%20Place%20Eggs.lua")
