@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/2567-rblx/scripts/main/Song-Breaker-Awards_Collect-All-Items.lua",true))()
