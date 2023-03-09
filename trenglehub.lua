@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 15:56:30"
+lastupdate = "GMT +1: 09.03.2023 15:56:35"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -19328,3 +19328,5 @@ addscriptexist(6737970321, "Livetopia [Kick Player, Ragdoll player, Head AmongUs
 addscriptexist(2768379856, "3008 [WalkSpeed, Infinite jump, No Fall Damage]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/%20WalkSpeed%20Infinite%20jump%20No%20Fall%20Damage.lua")
 
 addscript(4689179508, "Current Game","Project Ghoul [Auto Farm, Auto Skill, Auto Quest]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Project%20Ghoul%20Auto%20Farm%20Auto%20Skill%20Auto%20Quest.lua")
+
+addscriptexist(735030788, "Royale High [Gem Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Royale%20High%20Gem%20Farm.lua")
