@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 14:42:13"
+lastupdate = "GMT +1: 09.03.2023 14:42:17"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -17470,3 +17470,5 @@ addscriptexist(2788229376, "Da Hood [Auto Money Drop Collect]", "pulled from rbx
 addscript(9604622906, "Current Game","Diamond Hood [Auto Shoot - Kill All & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Diamond%20Hood%20Auto%20Shoot%20%20Kill%20All%20%20More.lua")
 
 addscriptexist(6728870912, "World of Stands Demo [Auto Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/World%20of%20Stands%20Demo%20Auto%20Farm.lua")
+
+addscript(4360666523, "Current Game","Checkpoint Racing Unleashed [Coin ESP]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Checkpoint%20Racing%20Unleashed%20Coin%20ESP.lua")
