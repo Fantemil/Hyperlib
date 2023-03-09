@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 14:04:52"
+lastupdate = "GMT +1: 09.03.2023 14:04:56"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -16512,3 +16512,5 @@ addscript(10105990977, "Current Game","Samsung Space Tycoon [Destroy Everyones F
 addscriptexist(8304191830, "Anime Adventures {Full Auto Farm, Auto Upgrade, Select World]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime%20Adventures%20Full%20Auto%20Farm%20Auto%20Upgrade%20Select%20World.lua")
 
 addscriptexist(10105990977, "Samsung Space Tycoon [Get All Items]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Samsung%20Space%20Tycoon%20Get%20All%20Items.lua")
+
+addscriptexist(13822889, "Lumber Tycoon 2 [TranZit GUI]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Lumber%20Tycoon%20%20TranZit%20GUI.lua")
