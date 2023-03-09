@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 14:30:14"
+lastupdate = "GMT +1: 09.03.2023 14:30:18"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -17160,3 +17160,5 @@ addscriptexist(7839440834, "Sea Cleaning Simulator [Modify Boat Speed, No slow d
 addscriptexist(4540286603, "NORTHWIND [Crash Server]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NORTHWIND%20Crash%20Server.lua")
 
 addscriptexist(2788229376, "Da Hood [invis, Jumpscare, Scary Music]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Da%20Hood%20invis%20Jumpscare%20Scary%20Music.lua")
+
+addscriptexist(6915291292, "Bakery Simulator [Buy Ovens]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Bakery%20Simulator%20Buy%20Ovens.lua")
