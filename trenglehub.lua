@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 15:24:56"
+lastupdate = "GMT +1: 09.03.2023 15:25:00"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18540,3 +18540,5 @@ addscriptexist(1240644540, "Vampire Hunters 3 [Vampire Esp]", "pulled from rbxsc
 addscriptexist(8069117419, "Demon Soul Simulator [Auto Attack, Collect Sours, Auto Power]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Demon%20Soul%20Simulator%20Auto%20Attack%20Collect%20Sours%20Auto%20Power.lua")
 
 addscriptexist(6677985923, "Millionaire Empire Tycoon [Infinite Cash - Auto Buy & Auto Rebirth]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Millionaire%20Empire%20Tycoon%20Infinite%20Cash%20%20Auto%20Buy%20%20Auto%20Rebirth.lua")
+
+addscript(5803957966, "Current Game","MeloBlox RPG [Auto Loot]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MeloBlox%20RPG%20Auto%20Loot.lua")
