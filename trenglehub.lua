@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 14:55:01"
+lastupdate = "GMT +1: 09.03.2023 14:55:05"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -17794,3 +17794,5 @@ addscript(6717117731, "Current Game","Subway Surfers [Steal All Coins]", "pulled
 addscript(7681451450, "Current Game","Anime Simulator X [GUI - Farm, Auto Open Egg & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime%20Simulator%20X%20GUI%20%20Farm%20Auto%20Open%20Egg%20%20More.lua")
 
 addscript(5264342538, "Current Game","Endless Mining Simulator [GUI - Auto Farm, Auto Gems & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Endless%20Mining%20Simulator%20GUI%20%20Auto%20Farm%20Auto%20Gems%20%20More.lua")
+
+addscriptexist(3823781113, "Saber Simulator [GUI - Auto Farm, Auto Open Egg & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Saber%20Simulator%20GUI%20%20Auto%20Farm%20Auto%20Open%20Egg%20%20More.lua")
