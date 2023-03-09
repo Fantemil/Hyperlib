@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 13:33:12"
+lastupdate = "GMT +1: 09.03.2023 13:33:16"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -15678,3 +15678,5 @@ addscriptexist(9498006165, "Tapping Simulator [Skip shiny stage]", "pulled from 
 addscript(659222129, "Current Game","Swordburst 2 [WalkSpeed, Invisibility, INF Sprint]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Swordburst%20%20WalkSpeed%20Invisibility%20INF%20Sprint.lua")
 
 addscriptexist(606849621, "Jailbreak [FE RESIZE WITH NO LIMIT]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Jailbreak%20FE%20RESIZE%20WITH%20NO%20LIMIT.lua")
+
+addscriptexist(9677464361, "Basketball Pro Simulator [Auto Farm, uto Upgrade]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Basketball%20Pro%20Simulator%20Auto%20Farm%20uto%20Upgrade.lua")
