@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 15:40:44"
+lastupdate = "GMT +1: 09.03.2023 15:40:48"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18940,3 +18940,5 @@ addscriptexist(6679274937, "Vans World [BMX] [Auto Collect Coins - Auto Xp Gain 
 addscriptexist(8492553855, "Project Upright [Dungeon GUI]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Project%20Upright%20Dungeon%20GUI.lua")
 
 addhub("Simpler - HUB [Supported All Games]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Simpler%20%20HUB%20Supported%20All%20Games.lua")
+
+addscriptexist(8549047195, "Anime Warriors Simulator [Teleport To The Final World]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime%20Warriors%20Simulator%20Teleport%20To%20The%20Final%20World.lua")
