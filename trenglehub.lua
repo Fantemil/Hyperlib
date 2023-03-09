@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 15:22:19"
+lastupdate = "GMT +1: 09.03.2023 15:22:25"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18478,3 +18478,5 @@ addscriptexist(1224212277, "Mad City [Farm Lvl]", "pulled from rbxscript.com", "
 addscriptexist(8209480473, "Spotify Island [Lvl farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Spotify%20Island%20Lvl%20farm.lua")
 
 addscript(3678761576, "Current Game","ENTRENCHED ALPHA [AimBot]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ENTRENCHED%20ALPHA%20AimBot.lua")
+
+addscriptexist(8209480473, "Spotify Island [Farm Music]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Spotify%20Island%20Farm%20Music.lua")
