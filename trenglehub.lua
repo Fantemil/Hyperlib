@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 15:10:48"
+lastupdate = "GMT +1: 09.03.2023 15:10:52"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18188,3 +18188,5 @@ addscriptexist(6461766546, "A Hero Destiny [GUI - Auto Farm, Boss Farm, More!]",
 addscriptexist(6284583030, "Pet Simulator X [New Farming GUI]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pet%20Simulator%20X%20New%20Farming%20GUI.lua")
 
 addscriptexist(1224212277, "Mad City [AutoFarm, Server Crasher, Auto XP, Invisible]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mad%20City%20AutoFarm%20Server%20Crasher%20Auto%20XP%20Invisible.lua")
+
+addscriptexist(2248408710, "Destruction Simulator [Infinite Money, Max Level, More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Destruction%20Simulator%20Infinite%20Money%20Max%20Level%20More.lua")
