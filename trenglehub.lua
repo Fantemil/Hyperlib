@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 15:09:19"
+lastupdate = "GMT +1: 09.03.2023 15:09:24"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18150,3 +18150,5 @@ addscriptexist(8278412720, "Prison Life Remastered [Location Teleportation GUI]"
 addscriptexist(6461766546, "A Heros Destiny [Auto Farm - Auto Stats]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/A%20Heros%20Destiny%20Auto%20Farm%20%20Auto%20Stats.lua")
 
 addscriptexist(9266432096, "Anime Journey [Auto Farm GUI}", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime%20Journey%20Auto%20Farm%20GUI.lua")
+
+addscriptexist(1923555882, "East Brickton [Auto Fishing]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/East%20Brickton%20Auto%20Fishing.lua")
