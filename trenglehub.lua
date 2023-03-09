@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 14:52:56"
+lastupdate = "GMT +1: 09.03.2023 14:53:00"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -17740,3 +17740,5 @@ addscriptexist(6897226634, "Timber [Tree Aura]", "pulled from rbxscript.com", "h
 addscriptexist(488667523, "Those Who Remain [Kill All]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Those%20Who%20Remain%20Kill%20All.lua")
 
 addscript(5918187182, "Current Game","Build A Gamiing PC Store [Infinite Cash]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Build%20A%20Gamiing%20PC%20Store%20Infinite%20Cash.lua")
+
+addscriptexist(1224212277, "Mad City [GUI - Auto Arrest, Teleports & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mad%20City%20GUI%20%20Auto%20Arrest%20Teleports%20%20More.lua")
