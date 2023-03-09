@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 14:51:13"
+lastupdate = "GMT +1: 09.03.2023 14:51:18"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -17698,3 +17698,5 @@ addscriptexist(5630129588, "Smash Legends [Auto Farm GUI]", "pulled from rbxscri
 addscriptexist(7211666966, "Tower of Jump [Auto Win]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tower%20of%20Jump%20Auto%20Win.lua")
 
 addscriptexist(413424176, "Clone Tycoon 2 [Infinite Money]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Clone%20Tycoon%20%20Infinite%20Money.lua")
+
+addscriptexist(7791106063, "Furry Infection [GUI - Kill Aura - Kill All]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Furry%20Infection%20GUI%20%20Kill%20Aura%20%20Kill%20All.lua")
