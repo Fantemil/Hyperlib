@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 15:14:12"
+lastupdate = "GMT +1: 09.03.2023 15:14:16"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18272,3 +18272,5 @@ addscriptexist(9030362964, "Field Goal Simulator [Always Perfect Accuracy]", "pu
 addscript(2693739238, "Current Game","THEIF LIFE Simulator [Get Best Loot]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/THEIF%20LIFE%20Simulator%20Get%20Best%20Loot.lua")
 
 addscriptexist(5154858502, "Murdererse vs. Sheriffs [Kill All]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Murdererse%20vs%20Sheriffs%20Kill%20All.lua")
+
+addscript(9487450292, "Current Game","Weak Piece [Kill Everything]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Weak%20Piece%20Kill%20Everything.lua")
