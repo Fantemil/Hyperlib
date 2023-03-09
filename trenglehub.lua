@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 15:09:02"
+lastupdate = "GMT +1: 09.03.2023 15:09:06"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18142,3 +18142,5 @@ addscriptexist(4282985734, "Combat Warrior [Auto Farm Free GUI]", "pulled from r
 addscriptexist(6284583030, "Pet Simulator X [New GUI LKHUB]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pet%20Simulator%20X%20New%20GUI%20LKHUB.lua")
 
 addscriptexist(4282985734, "Combat Warriors [CombatSpy - Modified Remote Spy]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Combat%20Warriors%20CombatSpy%20%20Modified%20Remote%20Spy.lua")
+
+addhub("Ro-Flux [Free HUB Loader - 7 Games]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RoFlux%20Free%20HUB%20Loader%20%20%20Games.lua")
