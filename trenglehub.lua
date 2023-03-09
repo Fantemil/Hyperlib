@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 15:43:03"
+lastupdate = "GMT +1: 09.03.2023 15:43:09"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18998,3 +18998,5 @@ addscriptexist(5116869569, "Doodle World [GUI - Auto Farming]", "pulled from rbx
 addscript(6555084601, "Current Game","Вирус [RP] [Godmode]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/%D0%92%D0%B8%D1%80%D1%83%D1%81%20RP%20Godmode.lua")
 
 addscriptexist(6168898345, "Bulwark [Kill Aura - Infinite Stamina - Auto Parry]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Bulwark%20Kill%20Aura%20%20Infinite%20Stamina%20%20Auto%20Parry.lua")
+
+addscriptexist(8781849572, "Star Simulator Beta [Infinite Iron Plates & Planks]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Star%20Simulator%20Beta%20Infinite%20Iron%20Plates%20%20Planks.lua")
