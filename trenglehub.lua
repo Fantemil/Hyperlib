@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 13:59:51"
+lastupdate = "GMT +1: 09.03.2023 13:59:56"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -16384,3 +16384,5 @@ addscriptexist(8267733039, "Specter 2 [GUI - Infinite Stamina, Infinite Sanity &
 addscriptexist(8304191830, "Anime Adventures [Auto Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime%20Adventures%20Auto%20Farm.lua")
 
 addscriptexist(7664413141, "Creeper Chaos [Auto Farm Wins]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Creeper%20Chaos%20Auto%20Farm%20Wins.lua")
+
+addscript(2677609345, "Current Game","Sound Space [GUI - Dance Aimbot]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sound%20Space%20GUI%20%20Dance%20Aimbot.lua")
