@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 15:48:12"
+lastupdate = "GMT +1: 09.03.2023 15:48:16"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -19126,3 +19126,5 @@ addscriptexist(8737602449, "PLS DONATE [Music GUI, Dances, Package Animations]",
 addscriptexist(662417684, "LUCKY BLOCKS Battlegrounds [Players, Get all gears, Lucky Blocks]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LUCKY%20BLOCKS%20Battlegrounds%20Players%20Get%20all%20gears%20Lucky%20Blocks.lua")
 
 addscriptexist(3101667897, "Legends Of Speed [Auto Collect Orbs, Auto Collect Gems, Auto Rebirth]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Legends%20Of%20Speed%20Auto%20Collect%20Orbs%20Auto%20Collect%20Gems%20Auto%20Rebirth.lua")
+
+addscriptexist(5116869569, "Doodle World [Heal Your Tean Anywhere]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Doodle%20World%20Heal%20Your%20Tean%20Anywhere.lua")
