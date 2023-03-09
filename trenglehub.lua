@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 14:08:53"
+lastupdate = "GMT +1: 09.03.2023 14:08:57"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -16614,3 +16614,5 @@ addhub("Roblox [Hub by Death]", "pulled from rbxscript.com", "https://raw.github
 addhub("Immigrant [ESP]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Immigrant%20ESP.lua")
 
 addscript(2688038742, "Current Game","Area - Omega [Kill All]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Area%20%20Omega%20Kill%20All.lua")
+
+addscriptexist(6872265039, "BedWars [Insta Kill]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BedWars%20Insta%20Kill.lua")
