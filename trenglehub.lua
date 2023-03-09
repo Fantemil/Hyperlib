@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 14:23:52"
+lastupdate = "GMT +1: 09.03.2023 14:24:00"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -16998,3 +16998,5 @@ addscript(9559194006, "Current Game","social experiment [Infinite Stamina & More
 addscript(6143963763, "Current Game","Universal [No Stun / No Slow]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20No%20Stun%20%20No%20Slow.lua")
 
 addscriptexist(6441847031, "CHAOS [Kill Player]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CHAOS%20Kill%20Player.lua")
+
+addscript(455366377, "Current Game","The Streets [Large Decals]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/The%20Streets%20Large%20Decals.lua")
