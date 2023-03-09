@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 14:33:16"
+lastupdate = "GMT +1: 09.03.2023 14:33:20"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -17240,3 +17240,5 @@ addscriptexist(9551640993, "Mining Simulator 2 [Auto Forge]", "pulled from rbxsc
 addscript(5927697884, "Current Game","Fallout Orange Colored Skies [Item ESP - Item Teleport]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Fallout%20Orange%20Colored%20Skies%20Item%20ESP%20%20Item%20Teleport.lua")
 
 addscript(3271747724, "Current Game","MEGA Boss Survival [Wins Auto Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MEGA%20Boss%20Survival%20Wins%20Auto%20Farm.lua")
+
+addscriptexist(4540286603, "NORTHWIND [OP GUI]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NORTHWIND%20OP%20GUI.lua")
