@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 14:03:25"
+lastupdate = "GMT +1: 09.03.2023 14:03:33"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -16476,3 +16476,5 @@ addscript(4889315193, "Current Game","Total Roblox Drama [Auto Win Obbies, Coin 
 addscriptexist(5130598377, "A Universal Time [Items Farm, God Mode, Auto Inventory]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/A%20Universal%20Time%20Items%20Farm%20God%20Mode%20Auto%20Inventory.lua")
 
 addscript(6058150350, "Current Game","Destruction Physics [Physics Lag players]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Destruction%20Physics%20Physics%20Lag%20players.lua")
+
+addscriptexist(9281034297, "Goal Kick Simulator [Faster Auto Kick]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Goal%20Kick%20Simulator%20Faster%20Auto%20Kick.lua")
