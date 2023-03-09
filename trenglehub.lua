@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 13:44:41"
+lastupdate = "GMT +1: 09.03.2023 13:44:46"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -15980,3 +15980,5 @@ addscriptexist(3686253681, "Planet Simulator [Auto Farm]", "pulled from rbxscrip
 addscriptexist(6298464951, "Roblox Is Unbreakable [Infinite Arrows]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Roblox%20Is%20Unbreakable%20Infinite%20Arrows.lua")
 
 addscriptexist(6298464951, "Roblox Is Unbreakable [Infinite Cash]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Roblox%20Is%20Unbreakable%20Infinite%20Cash.lua")
+
+addscriptexist(6298464951, "Roblox Is Unbreakable [Infinite Stats]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Roblox%20Is%20Unbreakable%20Infinite%20Stats.lua")
