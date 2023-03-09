@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 15:10:29"
+lastupdate = "GMT +1: 09.03.2023 15:10:34"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18180,3 +18180,5 @@ addscriptexist(8781849572, "Star Simulator Beta [Infinite Planks & Iron - Auto F
 addscript(4836735146, "Current Game","Street Shootout Beta [Infinite Money]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Street%20Shootout%20Beta%20Infinite%20Money.lua")
 
 addscriptexist(8204899140, "Football Fusion 2 [No Jump Cooldown]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Football%20Fusion%20%20No%20Jump%20Cooldown.lua")
+
+addscriptexist(1554960397, "Car Dealership Tycoon [AutoFarm, SpeedChanger]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Car%20Dealership%20Tycoon%20AutoFarm%20SpeedChanger.lua")
