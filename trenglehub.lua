@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 13:48:05"
+lastupdate = "GMT +1: 09.03.2023 13:48:09"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -16070,3 +16070,5 @@ addscriptexist(9940051005, "Blox Legends [Infinite Money]", "pulled from rbxscri
 addscriptexist(9940051005, "Blox Legends [Infinite Tokens]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blox%20Legends%20Infinite%20Tokens.lua")
 
 addscriptexist(606849621, "Jailbreak [No Fall Damage]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Jailbreak%20No%20Fall%20Damage.lua")
+
+addscriptexist(8054462345, "Michael's Zombies [Headshot insta reload]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Michaels%20Zombies%20Headshot%20insta%20reload.lua")
