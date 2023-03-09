@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 15:45:48"
+lastupdate = "GMT +1: 09.03.2023 15:45:52"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -19066,3 +19066,5 @@ addscriptexist(2866967438, "Fishing Simulator [GUI - Farming]", "pulled from rbx
 addscriptexist(3210622855, "Manner's Badge Walk [Get All Cave World Badges ]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Manners%20Badge%20Walk%20Get%20All%20Cave%20World%20Badges%20.lua")
 
 addscriptexist(6778844213, "Euphoria ragdoll testing [Get Gamepass GUI]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Euphoria%20ragdoll%20testing%20Get%20Gamepass%20GUI.lua")
+
+addscriptexist(662417684, "LUCKY BLOCKS Battlegrounds [Lucky Blox, Esp Player, Teleport to Home]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LUCKY%20BLOCKS%20Battlegrounds%20Lucky%20Blox%20Esp%20Player%20Teleport%20to%20Home.lua")
