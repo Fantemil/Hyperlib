@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 15:48:59"
+lastupdate = "GMT +1: 09.03.2023 15:49:06"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -19146,3 +19146,5 @@ addhub("Roblox [Universal hub]", "pulled from rbxscript.com", "https://raw.githu
 addscriptexist(5116869569, "Doodle World [Generates GUID's]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Doodle%20World%20Generates%20GUIDs.lua")
 
 addscriptexist(5116869569, "Doodle World [Heal Your Team]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Doodle%20World%20Heal%20Your%20Team.lua")
+
+addscriptexist(2693023319, "Expedition Antarctica [Get 500B Coins]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Expedition%20Antarctica%20Get%20B%20Coins.lua")
