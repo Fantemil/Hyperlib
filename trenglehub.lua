@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 14:54:24"
+lastupdate = "GMT +1: 09.03.2023 14:54:29"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -17778,3 +17778,5 @@ addscriptexist(8357510970, "Anime Punching Simulator [GUI - Auto Click, Auto Buy
 addscriptexist(3101667897, "Legends Of Speed [GUI - Auto Steps, Farm Gems]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Legends%20Of%20Speed%20GUI%20%20Auto%20Steps%20Farm%20Gems.lua")
 
 addscript(6878438976, "Current Game","Developer Inc [Inf money, Speed, Tp]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Developer%20Inc%20Inf%20money%20Speed%20Tp.lua")
+
+addscriptexist(5543622168, "Critical Tower Defense [Unlock Hot Rash]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Critical%20Tower%20Defense%20Unlock%20Hot%20Rash.lua")
