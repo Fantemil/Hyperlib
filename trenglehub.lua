@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 15:43:09"
+lastupdate = "GMT +1: 09.03.2023 15:43:14"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -19000,3 +19000,5 @@ addscript(6555084601, "Current Game","Вирус [RP] [Godmode]", "pulled from r
 addscriptexist(6168898345, "Bulwark [Kill Aura - Infinite Stamina - Auto Parry]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Bulwark%20Kill%20Aura%20%20Infinite%20Stamina%20%20Auto%20Parry.lua")
 
 addscriptexist(8781849572, "Star Simulator Beta [Infinite Iron Plates & Planks]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Star%20Simulator%20Beta%20Infinite%20Iron%20Plates%20%20Planks.lua")
+
+addscriptexist(2414851778, "Dungeon Quest [Auto Farm, Auto Skill, Walk Speed]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Dungeon%20Quest%20Auto%20Farm%20Auto%20Skill%20Walk%20Speed.lua")
