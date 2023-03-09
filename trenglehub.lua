@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 15:02:36"
+lastupdate = "GMT +1: 09.03.2023 15:02:41"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -17984,3 +17984,5 @@ addscriptexist(3823781113, "Saber Simulator [New Auto Farm GUI]", "pulled from r
 addscriptexist(6403373529, "Slap Battles [Auto Collect All & Kill Open Source]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Slap%20Battles%20Auto%20Collect%20All%20%20Kill%20Open%20Source.lua")
 
 addscriptexist(7167319176, "Chicago Remastered [Jewelry Store Auto Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Chicago%20Remastered%20Jewelry%20Store%20Auto%20Farm.lua")
+
+addscriptexist(4855457388, "Demonfall [Teleport To Player]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Demonfall%20Teleport%20To%20Player.lua")
