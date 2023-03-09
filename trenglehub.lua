@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 15:13:22"
+lastupdate = "GMT +1: 09.03.2023 15:13:26"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18250,3 +18250,5 @@ addhub("Owl Hub [Supported 20+ Games]", "pulled from rbxscript.com", "https://ra
 addhub("Parvus Hub [Supported 5 Games]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Parvus%20Hub%20Supported%20%20Games.lua")
 
 addhub("Rox Hub [Supported 85 Games]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Rox%20Hub%20Supported%20%20Games.lua")
+
+addscriptexist(9049840490, "Sonic Speed Simulator [Server Hop Collect All – Auto Rebirth]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sonic%20Speed%20Simulator%20Server%20Hop%20Collect%20All%20%20Auto%20Rebirth.lua")
