@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 14:11:09"
+lastupdate = "GMT +1: 09.03.2023 14:11:13"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -16670,3 +16670,5 @@ addscriptexist(8303902695, "Pet Posse [Remove Egg Animations]", "pulled from rbx
 addscriptexist(9281034297, "Goal Kick Simulator [Auto Time]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Goal%20Kick%20Simulator%20Auto%20Time.lua")
 
 addscriptexist(3346617530, "Freeze & Tag Extreme [Get All - Tag All]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Freeze%20%20Tag%20Extreme%20Get%20All%20%20Tag%20All.lua")
+
+addscript(4616247820, "Current Game","Journey to the Sun [Collect All Coins]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Journey%20to%20the%20Sun%20Collect%20All%20Coins.lua")
