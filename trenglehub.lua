@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 14:57:49"
+lastupdate = "GMT +1: 09.03.2023 14:57:54"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -17868,3 +17868,5 @@ addscriptexist(9508087919, "Apeirophobia [ESP Exit]", "pulled from rbxscript.com
 addscriptexist(6610021055, "Noob Army Tycoon [Auto Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Noob%20Army%20Tycoon%20Auto%20Farm.lua")
 
 addscriptexist(9030362964, "Field Goal Simulator [Aimbot]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Field%20Goal%20Simulator%20Aimbot.lua")
+
+addscript(8549047195, "Current Game","Anime Warriors Simulator [Auto Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime%20Warriors%20Simulator%20Auto%20Farm.lua")
