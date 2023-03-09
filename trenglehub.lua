@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 15:08:33"
+lastupdate = "GMT +1: 09.03.2023 15:08:37"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18130,3 +18130,5 @@ addscriptexist(9359839118, "Gas Station Simulator [Auto Farm Refueler]", "pulled
 addscriptexist(9203864304, "raise a floppa [Auto Cookers]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/raise%20a%20floppa%20Auto%20Cookers.lua")
 
 addscriptexist(5620664339, "RoStreets [Auto Stomp]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RoStreets%20Auto%20Stomp.lua")
+
+addscriptexist(7167319176, "Chicago Remastered [Auto Farm - Open Source]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Chicago%20Remastered%20Auto%20Farm%20%20Open%20Source.lua")
