@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 16:05:50"
+lastupdate = "GMT +1: 09.03.2023 16:05:54"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -19554,3 +19554,5 @@ addscriptexist(8584121669, "Pet Simulator X Fan Made [Infinite Coins]", "pulled 
 addscriptexist(2753915549, "Blox Fruits [The #1 Free GUI]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blox%20Fruits%20The%20%20Free%20GUI.lua")
 
 addscriptexist(7797478022, "Broken Bones Simulator [Infinite Cash]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Broken%20Bones%20Simulator%20Infinite%20Cash.lua")
+
+addscript(5771467270, "Current Game","TTD 3 [AntiCheat Bypass]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TTD%20%20AntiCheat%20Bypass.lua")
