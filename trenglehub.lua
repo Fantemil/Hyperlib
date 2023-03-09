@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 15:06:26"
+lastupdate = "GMT +1: 09.03.2023 15:06:31"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18076,3 +18076,5 @@ addscriptexist(1224212277, "Mad City [Instant Villain]", "pulled from rbxscript.
 addscriptexist(9344944754, "Hunter x Athena [Auto Farm GUI]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Hunter%20x%20Athena%20Auto%20Farm%20GUI.lua")
 
 addscriptexist(9344944754, "Hunter x Athena [Auto Farm GUI New]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Hunter%20x%20Athena%20Auto%20Farm%20GUI%20New.lua")
+
+addscript(4585085581, "Current Game","Shinobi Storm [Unlock All Charecters]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Shinobi%20Storm%20Unlock%20All%20Charecters.lua")
