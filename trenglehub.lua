@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 14:42:27"
+lastupdate = "GMT +1: 09.03.2023 14:42:31"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -17476,3 +17476,5 @@ addscript(4360666523, "Current Game","Checkpoint Racing Unleashed [Coin ESP]", "
 addscriptexist(4733278992, "Sword Blox Online Rebirth [Remove Anti Fling]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sword%20Blox%20Online%20Rebirth%20Remove%20Anti%20Fling.lua")
 
 addscriptexist(7791873535, "REALISTIC HOOD [Cash Collector]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/REALISTIC%20HOOD%20Cash%20Collector.lua")
+
+addscriptexist(2809202155, "Your Bizarre Adventure [Item-Dupe]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Your%20Bizarre%20Adventure%20ItemDupe.lua")
