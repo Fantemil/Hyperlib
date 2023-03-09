@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 15:05:08"
+lastupdate = "GMT +1: 09.03.2023 15:05:13"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18044,3 +18044,5 @@ addscriptexist(6429245608, "Blood Surge [Bypassed RP Name]", "pulled from rbxscr
 addscriptuniversal("Universal - Telekill, Aimbot", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20%20Telekill%20Aimbot.lua")
 
 addscript(9664185826, "Current Game","Tate McRae Concert Experience [Collect All Coins - Infiniti Score & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tate%20McRae%20Concert%20Experience%20Collect%20All%20Coins%20%20Infiniti%20Score%20%20More.lua")
+
+addscriptexist(9359839118, "Gas Station Simulator [Auto refuel, Auto cashier, Auto clean]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Gas%20Station%20Simulator%20Auto%20refuel%20Auto%20cashier%20Auto%20clean.lua")
