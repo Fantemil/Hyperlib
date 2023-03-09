@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 15:15:25"
+lastupdate = "GMT +1: 09.03.2023 15:15:29"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18304,3 +18304,5 @@ addscript(6297822481, "Current Game","Titan Warfare [The #1 Free GUI]", "pulled 
 addscriptexist(9049840490, "Sonic Speed Simulator [Auto Run, Auto rebirths, Unlok All Worlds]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sonic%20Speed%20Simulator%20Auto%20Run%20Auto%20rebirths%20Unlok%20All%20Worlds.lua")
 
 addscriptexist(5802642341, "City Life [Arrest All Criminals]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/City%20Life%20Arrest%20All%20Criminals.lua")
+
+addscriptexist(5802642341, "City Life [Auto Ticket Cars]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/City%20Life%20Auto%20Ticket%20Cars.lua")
