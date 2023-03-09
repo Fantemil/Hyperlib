@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 13:53:52"
+lastupdate = "GMT +1: 09.03.2023 13:53:57"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -16222,3 +16222,5 @@ addscriptexist(6716188523, "Business Tycoon [Infinite Money]", "pulled from rbxs
 addscriptexist(8123652942, "Legend Piece [No Cooldown]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Legend%20Piece%20No%20Cooldown.lua")
 
 addscriptexist(6249640453, "Classic Retro Craftwars [Kill Bosses]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Classic%20Retro%20Craftwars%20Kill%20Bosses.lua")
+
+addscriptexist(2788229376, "Da Hood [Auto Farm, Anti Afk]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Da%20Hood%20Auto%20Farm%20Anti%20Afk.lua")
