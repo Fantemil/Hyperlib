@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 16:06:16"
+lastupdate = "GMT +1: 09.03.2023 16:06:21"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -19564,3 +19564,5 @@ addscript(5130498426, "Current Game","AoT:Insertplayground [OP Admin Power]", "p
 addscript(8966584990, "Current Game","Orthoxia Alpha [GodMode]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Orthoxia%20Alpha%20GodMode.lua")
 
 addscriptexist(4954752502, "Tower of Misery [Auto Win - Teleport To Winner Room]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tower%20of%20Misery%20Auto%20Win%20%20Teleport%20To%20Winner%20Room.lua")
+
+addscriptexist(7305309231, "Taxi Boss INFINITE MONEY FARM SCRIPT - 100K IN 50 SECONDS", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Taxi%20Boss%20INFINITE%20MONEY%20FARM%20SCRIPT%20%20K%20IN%20%20SECONDS.lua")
