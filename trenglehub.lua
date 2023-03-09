@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 15:10:14"
+lastupdate = "GMT +1: 09.03.2023 15:10:20"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18174,3 +18174,5 @@ addscript(5864786637, "Current Game","In Another Time [Kill All]", "pulled from 
 addscriptexist(9281034297, "Goal Kick Simulator [Auto Farm - Auto Buy & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Goal%20Kick%20Simulator%20Auto%20Farm%20%20Auto%20Buy%20%20More.lua")
 
 addscript(8394872314, "Current Game","Garden Tower Defense [Unlock All Towers]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Garden%20Tower%20Defense%20Unlock%20All%20Towers.lua")
+
+addscriptexist(8781849572, "Star Simulator Beta [Infinite Planks & Iron - Auto Farm - Unlock All Land]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Star%20Simulator%20Beta%20Infinite%20Planks%20%20Iron%20%20Auto%20Farm%20%20Unlock%20All%20Land.lua")
