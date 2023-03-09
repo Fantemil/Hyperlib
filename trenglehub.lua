@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 15:06:59"
+lastupdate = "GMT +1: 09.03.2023 15:07:03"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18090,3 +18090,5 @@ addscript(7014716500, "Current Game","Pro Border [Get Any Rank , Rank Changer]",
 addscriptexist(6969185078, "Elemental Awakening [Instant Cast - Attempts To Change Max Range & More!", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Elemental%20Awakening%20Instant%20Cast%20%20Attempts%20To%20Change%20Max%20Range%20%20More.lua")
 
 addscriptexist(6969185078, "Elemental Awakening [Auto Spin - Easy Setup]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Elemental%20Awakening%20Auto%20Spin%20%20Easy%20Setup.lua")
+
+addscriptexist(1224212277, "Mad City [Anti Screen Shake]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mad%20City%20Anti%20Screen%20Shake.lua")
