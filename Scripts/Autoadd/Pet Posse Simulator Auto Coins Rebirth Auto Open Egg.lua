@@ -1,0 +1,1 @@
+loadstring(game:HttpGet(('https://raw.githubusercontent.com/shadowTW/dsadasdas/main/petposse.lua')))()
