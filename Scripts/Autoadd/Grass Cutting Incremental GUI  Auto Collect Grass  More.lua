@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/GreyCaat/Grass-Cutting-Incremental/main/script.txt", true))()
