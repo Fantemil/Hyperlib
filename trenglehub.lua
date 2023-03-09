@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 12:55:01"
+lastupdate = "GMT +1: 09.03.2023 12:55:06"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -15272,3 +15272,5 @@ addscriptexist(10524502174, "One Punch Fighters [Auto Click]", "pulled from rbxs
 addscriptexist(9872472334, "Evade [GodMode, Fullbright]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Evade%20GodMode%20Fullbright.lua")
 
 addscript(6114972958, "Current Game","Initial D: Touge Legends [Unlock cars, Walkspeed]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Initial%20D%20Touge%20Legends%20Unlock%20cars%20Walkspeed.lua")
+
+addscriptexist(3095204897, "Isle, 9 [ESP, Noclip]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Isle%20%20ESP%20Noclip.lua")
