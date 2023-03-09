@@ -1,0 +1,1 @@
+loadstring(game:HttpGet(('https://raw.githubusercontent.com/bostonstrong567/RobloxPublicScripts/main/PropHunt.lua')))()
