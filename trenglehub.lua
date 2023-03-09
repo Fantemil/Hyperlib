@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 15:13:35"
+lastupdate = "GMT +1: 09.03.2023 15:13:39"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18256,3 +18256,5 @@ addscriptexist(9049840490, "Sonic Speed Simulator [Server Hop Collect All – Au
 addscriptexist(35397735, "Scuba Diving At Quill Lake [Infinite Money]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Scuba%20Diving%20At%20Quill%20Lake%20Infinite%20Money.lua")
 
 addscriptexist(35397735, "Scuba Diving At Quill Lake [Auto Sell]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Scuba%20Diving%20At%20Quill%20Lake%20Auto%20Sell.lua")
+
+addscriptexist(5108587039, "Palm Ridge Beta [Auto Farm – Open Sourse]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Palm%20Ridge%20Beta%20Auto%20Farm%20%20Open%20Sourse.lua")
