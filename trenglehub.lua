@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 14:15:27"
+lastupdate = "GMT +1: 09.03.2023 14:15:31"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -16784,3 +16784,5 @@ addscript(8798268679, "Current Game","Crossroad Combat", "pulled from rbxscript.
 addscript(180037022, "Current Game","Sonic Ultimate RPG [Loop Collect All Rings, Collect All Chaos Emeralds, No ring drain]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sonic%20Ultimate%20RPG%20Loop%20Collect%20All%20Rings%20Collect%20All%20Chaos%20Emeralds%20No%20ring%20drain.lua")
 
 addscriptexist(7791873535, "REALISTIC HOOD [Invis Kill Method]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/REALISTIC%20HOOD%20Invis%20Kill%20Method.lua")
+
+addscript(6763893674, "Current Game","Ballista [Inf arrows, Fast arrow, No roll cooldown]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ballista%20Inf%20arrows%20Fast%20arrow%20No%20roll%20cooldown.lua")
