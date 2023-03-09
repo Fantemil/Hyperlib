@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 13:48:47"
+lastupdate = "GMT +1: 09.03.2023 13:48:51"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -16088,3 +16088,5 @@ addscriptexist(8278412720, "CS Prison Life [Auto Arrest All]", "pulled from rbxs
 addscriptexist(6512923934, "Ultra Clicker Simulator [AutoTap, UnlimtedGems, UnlimtedFloppa]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ultra%20Clicker%20Simulator%20AutoTap%20UnlimtedGems%20UnlimtedFloppa.lua")
 
 addscriptexist(2788229376, "Da hood [Auto arrest]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Da%20hood%20Auto%20arrest.lua")
+
+addscriptexist(192800, "Work at a Pizza Place [Serv Bomber]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Work%20at%20a%20Pizza%20Place%20Serv%20Bomber.lua")
