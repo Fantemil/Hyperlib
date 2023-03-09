@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 15:41:00"
+lastupdate = "GMT +1: 09.03.2023 15:41:06"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18946,3 +18946,5 @@ addscriptexist(8549047195, "Anime Warriors Simulator [Teleport To The Final Worl
 addscriptexist(654732683, "Car Crushers 2 CORE CONTROL GUI V2", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Car%20Crushers%20%20CORE%20CONTROL%20GUI%20V.lua")
 
 addscriptexist(9041110505, "Unlimited Upgrade Simulator [Infinity Power, Coins]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Unlimited%20Upgrade%20Simulator%20Infinity%20Power%20Coins.lua")
+
+addscriptexist(9123917180, "Teleporter Simulator [Basic Auto Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Teleporter%20Simulator%20Basic%20Auto%20Farm.lua")
