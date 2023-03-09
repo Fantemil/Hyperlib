@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 15:04:54"
+lastupdate = "GMT +1: 09.03.2023 15:05:03"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18040,3 +18040,5 @@ addscriptexist(6969185078, "Elemental Awakening [Lvl Farm]", "pulled from rbxscr
 addscriptexist(7346416636, "Pop It Trading [Dupe Money]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pop%20It%20Trading%20Dupe%20Money.lua")
 
 addscriptexist(6429245608, "Blood Surge [Bypassed RP Name]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blood%20Surge%20Bypassed%20RP%20Name.lua")
+
+addscriptuniversal("Universal - Telekill, Aimbot", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20%20Telekill%20Aimbot.lua")
