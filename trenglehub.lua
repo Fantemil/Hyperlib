@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 14:44:22"
+lastupdate = "GMT +1: 09.03.2023 14:44:26"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -17522,3 +17522,5 @@ addscript(1927139201, "Current Game","Day of Dusk - The Border [Auto Mine Ores]"
 addscriptexist(4616652839, "Shindo Life [AutoFarm, Infinity spins, War farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Shindo%20Life%20AutoFarm%20Infinity%20spins%20War%20farm.lua")
 
 addscriptexist(4588604953, "Criminality [Instant Teleport Bypass]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Criminality%20Instant%20Teleport%20Bypass.lua")
+
+addscript(9402532903, "Current Game","Diamond Hood, Ruby hood [Auto Shoot & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Diamond%20Hood%20Ruby%20hood%20Auto%20Shoot%20%20More.lua")
