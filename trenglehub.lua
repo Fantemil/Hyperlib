@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 14:49:33"
+lastupdate = "GMT +1: 09.03.2023 14:49:37"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -17654,3 +17654,5 @@ addscriptexist(70501379, "Trade Hangout [AFK Auto Walk]", "pulled from rbxscript
 addscript(9037855749, "Current Game","Demon Slayer Legacy [Auto Farm - Inf Stamina & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Demon%20Slayer%20Legacy%20Auto%20Farm%20%20Inf%20Stamina%20%20More.lua")
 
 addscriptexist(142823291, "Murder Mystery 2 [Chams - Reach - Silent Aim & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Murder%20Mystery%20%20Chams%20%20Reach%20%20Silent%20Aim%20%20More.lua")
+
+addscriptexist(4042427666, "Anime Fighting Simulator [Full Spin Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime%20Fighting%20Simulator%20Full%20Spin%20Farm.lua")
