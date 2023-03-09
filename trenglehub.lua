@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 14:26:54"
+lastupdate = "GMT +1: 09.03.2023 14:27:00"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -17076,3 +17076,5 @@ addscript(5646604884, "Current Game","Crimson Craftwars [Insta Kill All, God Mod
 addscriptexist(9551640993, "Mining Simulator 2 [Name Egg, Name Pet, Auto Deletes effect]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mining%20Simulator%20%20Name%20Egg%20Name%20Pet%20Auto%20Deletes%20effect.lua")
 
 addscriptexist(4588604953, "Criminality [Gun Modifications, Aimbot, Inf Stamina]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Criminality%20Gun%20Modifications%20Aimbot%20Inf%20Stamina.lua")
+
+addscriptexist(4540286603, "NORTHWIND [Lag Bomb]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NORTHWIND%20Lag%20Bomb.lua")
