@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 14:32:36"
+lastupdate = "GMT +1: 09.03.2023 14:32:42"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -17224,3 +17224,5 @@ addscript(8605603204, "Current Game","Mecha Simulator [Infinite Levels, Coins & 
 addscriptexist(9555732501, "Nen Fighting Simulator [Auto Strength - Auto Durability]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Nen%20Fighting%20Simulator%20Auto%20Strength%20%20Auto%20Durability.lua")
 
 addscript(7733392089, "Current Game","LuoBu Transformation Night [Auto Dance]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LuoBu%20Transformation%20Night%20Auto%20Dance.lua")
+
+addscriptexist(4733278992, "Sword Blox Online Rebirth [Kill Aura - Auto Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sword%20Blox%20Online%20Rebirth%20Kill%20Aura%20%20Auto%20Farm.lua")
