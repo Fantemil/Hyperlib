@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 15:35:20"
+lastupdate = "GMT +1: 09.03.2023 15:35:24"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18802,3 +18802,5 @@ addscriptexist(5610197459, "gang up on people simulator [Money]", "pulled from r
 addscriptexist(6401440818, "MONOLITH DEFENSE [Stat Upgrade Everything]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MONOLITH%20DEFENSE%20Stat%20Upgrade%20Everything.lua")
 
 addscriptexist(623694595, "NBA Phenom [Silent AIM - Auto Changing Power]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NBA%20Phenom%20Silent%20AIM%20%20Auto%20Changing%20Power.lua")
+
+addscriptexist(5712833750, "Animal Simulator [Collect Eggs]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Animal%20Simulator%20Collect%20Eggs.lua")
