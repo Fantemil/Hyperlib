@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 14:33:32"
+lastupdate = "GMT +1: 09.03.2023 14:33:37"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -17248,3 +17248,5 @@ addscriptexist(413424176, "Clone Tycoon 2 [Inf Money]", "pulled from rbxscript.c
 addscriptexist(9555732501, "Nen Fighting Simulator [Strength Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Nen%20Fighting%20Simulator%20Strength%20Farm.lua")
 
 addscriptexist(6172932937, "Energy Assault [Aim Bot]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Energy%20Assault%20Aim%20Bot.lua")
+
+addscriptexist(4954096313, "Field Trip Z [God Mode, Remove GodMode Get Donut]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Field%20Trip%20Z%20God%20Mode%20Remove%20GodMode%20Get%20Donut.lua")
