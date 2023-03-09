@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 15:52:17"
+lastupdate = "GMT +1: 09.03.2023 15:52:21"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -19228,3 +19228,5 @@ addscriptexist(1417427737, "Mining Simulator [Open Buy Menu, Go to Candy Land, S
 addscriptexist(8592863835, "Magnet Simulator 2 [Auto Farm, Auto Sell, Auto Open Egg]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Magnet%20Simulator%20%20Auto%20Farm%20Auto%20Sell%20Auto%20Open%20Egg.lua")
 
 addscriptexist(4111023553, "Deepwoken [Chest Farm, Click Tp, Player ESP]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Deepwoken%20Chest%20Farm%20Click%20Tp%20Player%20ESP.lua")
+
+addscriptexist(4581966615, "Anomic [Instant Kill, Silent Aim, Auto Reload]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anomic%20Instant%20Kill%20Silent%20Aim%20Auto%20Reload.lua")
