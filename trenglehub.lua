@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 14:17:56"
+lastupdate = "GMT +1: 09.03.2023 14:18:00"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -16852,3 +16852,5 @@ addscriptexist(9551640993, "Mining Simulator 2 [GUI - Auto Mine, Mine Aura & Mor
 addscript(9611595239, "Current Game","Rift Royale [Esp + Aimbot]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Rift%20Royale%20Esp%20%20Aimbot.lua")
 
 addscriptexist(6269446951, "Smooth Slicing [Kill All]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Smooth%20Slicing%20Kill%20All.lua")
+
+addscriptexist(9344944754, "Hunter x Athena [Auto Pushups]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Hunter%20x%20Athena%20Auto%20Pushups.lua")
