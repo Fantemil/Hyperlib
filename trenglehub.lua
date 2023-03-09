@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 14:45:16"
+lastupdate = "GMT +1: 09.03.2023 14:45:21"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -17546,3 +17546,5 @@ addscript(9561878567, "Current Game","Forest Of Beginnings RPG [Kill All]", "pul
 addscriptexist(7799826347, "Sandbox Tycoon [Sandbox Schematics]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sandbox%20Tycoon%20Sandbox%20Schematics.lua")
 
 addscriptexist(9388793159, "Coruscant Roleplay [Silent Aim, Hit Chance, Hit Part, FOV Circle]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Coruscant%20Roleplay%20Silent%20Aim%20Hit%20Chance%20Hit%20Part%20FOV%20Circle.lua")
+
+addscriptexist(5965591336, "Soul War [Infinite Boost]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Soul%20War%20Infinite%20Boost.lua")
