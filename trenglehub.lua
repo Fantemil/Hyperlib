@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 15:54:06"
+lastupdate = "GMT +1: 09.03.2023 15:54:14"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -19272,3 +19272,5 @@ addscriptexist(6170705260, "Blending Simulator 2 [Auto Farm, Arena Tp, Tp home]"
 addscriptexist(6998582502, "Dungeon Crusaders [Kill Aura, Fps Boost, WalkSpeed]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Dungeon%20Crusaders%20Kill%20Aura%20Fps%20Boost%20WalkSpeed.lua")
 
 addscriptexist(7817016260, "Bloxston [Esp]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Bloxston%20Esp.lua")
+
+addscriptexist(2788229376, "Da Hood [Collect items]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Da%20Hood%20Collect%20items.lua")
