@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 15:53:49"
+lastupdate = "GMT +1: 09.03.2023 15:53:53"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -19264,3 +19264,5 @@ addscriptexist(8396586868, "A 0ne Piece Game [Auto Skill, Auto Farm, Auto Punch]
 addscript(6384825976, "Current Game","SCP-3008 [Esp]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SCP%20Esp.lua")
 
 addscriptexist(735030788, "Royale High [Egg Hunt]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Royale%20High%20Egg%20Hunt.lua")
+
+addscriptexist(6403373529, "Slap Battles [Slap Aura]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Slap%20Battles%20Slap%20Aura.lua")
