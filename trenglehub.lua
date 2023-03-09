@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 15:37:16"
+lastupdate = "GMT +1: 09.03.2023 15:37:20"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18850,3 +18850,5 @@ addscriptexist(8528736393, "Beatland [Auto Farm - Roblox Event]", "pulled from r
 addscriptexist(6808589067, "Shinden [Auto Handsing]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Shinden%20Auto%20Handsing.lua")
 
 addscriptexist(8146731988, "Ultra Power Tycoon [Get All Gear & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ultra%20Power%20Tycoon%20Get%20All%20Gear%20%20More.lua")
+
+addscriptexist(8540168650, "Stand Upright Rebooted [Anti Cheat Bypass - Open Source]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Stand%20Upright%20Rebooted%20Anti%20Cheat%20Bypass%20%20Open%20Source.lua")
