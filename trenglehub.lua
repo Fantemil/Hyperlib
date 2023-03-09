@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 13:35:15"
+lastupdate = "GMT +1: 09.03.2023 13:35:20"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -15734,3 +15734,5 @@ addscriptexist(142823291, "Murder Mystery 2 [Unlock All Skins - Clientside]", "p
 addscriptexist(4490140733, "My Restaurant! [Auto Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/My%20Restaurant%20Auto%20Farm.lua")
 
 addscriptexist(5956785391, "Project Slayers [Kill Aura - Auto Farm & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Project%20Slayers%20Kill%20Aura%20%20Auto%20Farm%20%20More.lua")
+
+addscriptexist(537413528, "Build a Boat For Treasure [Auto Farming GUI]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Build%20a%20Boat%20For%20Treasure%20Auto%20Farming%20GUI.lua")
