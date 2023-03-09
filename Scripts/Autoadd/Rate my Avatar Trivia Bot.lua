@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Sw1ndlerScripts/RobloxScripts/main/Rate%20my%20Avatar%20Trivia%20Bot.lua", true))()
