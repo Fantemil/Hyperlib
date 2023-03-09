@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 16:03:26"
+lastupdate = "GMT +1: 09.03.2023 16:03:31"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -19498,3 +19498,5 @@ addscriptexist(6494523288, "Blade Quest [Auto farm]", "pulled from rbxscript.com
 addscriptexist(8917641854, "Sword Factory [Auto Sword saver, Auto enchant, Auto Pick Up]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sword%20Factory%20Auto%20Sword%20saver%20Auto%20enchant%20Auto%20Pick%20Up.lua")
 
 addscriptexist(648362523, "Breaking Point [Auto Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Breaking%20Point%20Auto%20Farm.lua")
+
+addscriptexist(7655489843, "Anime Battlegrounds X [Punch Aura - Infinite Stamina - No Cooldown & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime%20Battlegrounds%20X%20Punch%20Aura%20%20Infinite%20Stamina%20%20No%20Cooldown%20%20More.lua")
