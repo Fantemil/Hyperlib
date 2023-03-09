@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 12:57:17"
+lastupdate = "GMT +1: 09.03.2023 12:57:21"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -15324,3 +15324,5 @@ addscriptexist(6766156863, "Strongman Simulator [Auto Farm Energy & More!]", "pu
 addscriptexist(5939428933, "Crewmates! (Among Us) [Remove Backpack & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Crewmates%20Among%20Us%20Remove%20Backpack%20%20More.lua")
 
 addscriptexist(4872321990, "Islands [Auto Coollect Nearby Items]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Islands%20Auto%20Coollect%20Nearby%20Items.lua")
+
+addscriptexist(2788229376, "Da Hood [GUI - Anti Stomp & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Da%20Hood%20GUI%20%20Anti%20Stomp%20%20More.lua")
