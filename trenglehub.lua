@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 15:14:52"
+lastupdate = "GMT +1: 09.03.2023 15:14:58"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18290,3 +18290,5 @@ addscriptexist(9203864304, "Raise a Floppa [Auto Farm - Insta Finish]", "pulled 
 addscript(8854753304, "Current Game","Interactive Intimate [Farm Points]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Interactive%20Intimate%20Farm%20Points.lua")
 
 addscriptexist(9049840490, "Sonic Speed Simulator [New Faster Auto Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sonic%20Speed%20Simulator%20New%20Faster%20Auto%20Farm.lua")
+
+addscriptexist(9049840490, "Sonic Speed Simulator [Auto Open Chests]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sonic%20Speed%20Simulator%20Auto%20Open%20Chests.lua")
