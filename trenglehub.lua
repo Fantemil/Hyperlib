@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 13:26:45"
+lastupdate = "GMT +1: 09.03.2023 13:26:49"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -15512,3 +15512,5 @@ addscriptexist(47324, "Sword Fights on the Heights IV [Tp Safe Zone, Hitboxes, G
 addscript(10322949476, "Current Game","Limited Jumps [Unlimited Jumps]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Limited%20Jumps%20Unlimited%20Jumps.lua")
 
 addscript(151670365, "Current Game","The Quarry [Infinite Cash]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/The%20Quarry%20Infinite%20Cash.lua")
+
+addscriptexist(4809447488, "Venture Tales [Kill Aura - Insta Kill]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Venture%20Tales%20Kill%20Aura%20%20Insta%20Kill.lua")
