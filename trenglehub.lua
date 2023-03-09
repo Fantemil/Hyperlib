@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 14:17:47"
+lastupdate = "GMT +1: 09.03.2023 14:17:51"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -16848,3 +16848,5 @@ addscript(4443032907, "Current Game","Sword Simulator [GUI - Auto Mobs & More!]"
 addscriptexist(6755746130, "Fruit Juice Tycoon Refreshed [Simple Auto Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Fruit%20Juice%20Tycoon%20Refreshed%20Simple%20Auto%20Farm.lua")
 
 addscriptexist(9551640993, "Mining Simulator 2 [GUI - Auto Mine, Mine Aura & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mining%20Simulator%20%20GUI%20%20Auto%20Mine%20Mine%20Aura%20%20More.lua")
+
+addscript(9611595239, "Current Game","Rift Royale [Esp + Aimbot]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Rift%20Royale%20Esp%20%20Aimbot.lua")
