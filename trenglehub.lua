@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 15:38:20"
+lastupdate = "GMT +1: 09.03.2023 15:38:26"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18876,3 +18876,5 @@ addscriptexist(4588604953, "Criminality [Free ESP GUI]", "pulled from rbxscript.
 addscriptexist(292439477, "Phantom Forces [Rage - Legit - Invisible - Gun Mods]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Phantom%20Forces%20Rage%20%20Legit%20%20Invisible%20%20Gun%20Mods.lua")
 
 addscriptexist(8492553855, "Project Upright [No Punch Cooldown]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Project%20Upright%20No%20Punch%20Cooldown.lua")
+
+addscriptexist(8492553855, "Project Upright [Use Any Move]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Project%20Upright%20Use%20Any%20Move.lua")
