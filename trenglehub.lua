@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 14:29:02"
+lastupdate = "GMT +1: 09.03.2023 14:29:08"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -17132,3 +17132,5 @@ addscriptexist(2685347741, "Ghost Simulator [Auto Pickup Drops]", "pulled from r
 addscriptexist(6728870912, "World of Stands Demo [AutoFarm, Webhook, Item Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/World%20of%20Stands%20Demo%20AutoFarm%20Webhook%20Item%20Farm.lua")
 
 addscript(9966192771, "Current Game","Adventure Simulator [Reveal whats behind rocks during mining]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Adventure%20Simulator%20Reveal%20whats%20behind%20rocks%20during%20mining.lua")
+
+addscriptexist(8884433153, "Collect All Pets [GUI - Auto Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Collect%20All%20Pets%20GUI%20%20Auto%20Farm.lua")
