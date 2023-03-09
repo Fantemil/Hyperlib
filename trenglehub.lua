@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 15:07:46"
+lastupdate = "GMT +1: 09.03.2023 15:07:51"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18110,3 +18110,5 @@ addscriptexist(9508087919, "Apeirophobia [Monster ESP]", "pulled from rbxscript.
 addscriptexist(5620664339, "RoStreets [Auto Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RoStreets%20Auto%20Farm.lua")
 
 addscriptexist(7952502098, "Impossible Glass Bridge Obby [Remove All Bad Glass]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Impossible%20Glass%20Bridge%20Obby%20Remove%20All%20Bad%20Glass.lua")
+
+addscript(6647962258, "Current Game","Aeronautica [GUI - Collect Crates - Teleports To Airports]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Aeronautica%20GUI%20%20Collect%20Crates%20%20Teleports%20To%20Airports.lua")
