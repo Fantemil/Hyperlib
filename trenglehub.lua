@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 13:56:36"
+lastupdate = "GMT +1: 09.03.2023 13:56:42"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -16296,3 +16296,5 @@ addscriptexist(537413528, "Build A Boat For Treasure [Auto Farm, Tp to closed pl
 addscriptexist(5956785391, "Project Slayer [Auto Spin]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Project%20Slayer%20Auto%20Spin.lua")
 
 addscriptexist(5956785391, "Project Slayer [Claim Spin]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Project%20Slayer%20Claim%20Spin.lua")
+
+addscriptexist(5956785391, "Project Slayers [Auto Fast Spin]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Project%20Slayers%20Auto%20Fast%20Spin.lua")
