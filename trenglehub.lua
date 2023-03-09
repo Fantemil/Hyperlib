@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 14:47:22"
+lastupdate = "GMT +1: 09.03.2023 14:47:26"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -17596,3 +17596,5 @@ addscriptexist(5678279798, "Fight Club [Kill Aura & More!]", "pulled from rbxscr
 addscriptexist(9551640993, "Mining Simulator 2 [Block Aura, Multi Mode & More! - GUI]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mining%20Simulator%20%20Block%20Aura%20Multi%20Mode%20%20More%20%20GUI.lua")
 
 addscriptexist(8534845015, "Sakura Stand [Auto Kill - Box Auto Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sakura%20Stand%20Auto%20Kill%20%20Box%20Auto%20Farm.lua")
+
+addscriptexist(2317712696, "The Wild West [Infinite Stamina]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/The%20Wild%20West%20Infinite%20Stamina.lua")
