@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 15:37:42"
+lastupdate = "GMT +1: 09.03.2023 15:37:46"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18860,3 +18860,5 @@ addscriptexist(6679274937, "Vans World [Auto Farm]", "pulled from rbxscript.com"
 addscriptexist(7453798168, "YouTube Simulator X [Editor Auto Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/YouTube%20Simulator%20X%20Editor%20Auto%20Farm.lua")
 
 addscriptexist(8005620792, "Roblox Casino [Infinite Chips]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Roblox%20Casino%20Infinite%20Chips.lua")
+
+addscriptexist(3101667897, "Legends Of Speed [Auto Farm GUI]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Legends%20Of%20Speed%20Auto%20Farm%20GUI.lua")
