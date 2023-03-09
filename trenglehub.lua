@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 14:32:28"
+lastupdate = "GMT +1: 09.03.2023 14:32:32"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -17220,3 +17220,5 @@ addscriptexist(8750997647, "Tapping Legends [Auto Farm - Auto Egg]", "pulled fro
 addscriptexist(6590798593, "Waterloo at home [Kill All]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Waterloo%20at%20home%20Kill%20All.lua")
 
 addscript(8605603204, "Current Game","Mecha Simulator [Infinite Levels, Coins & Gems]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mecha%20Simulator%20Infinite%20Levels%20Coins%20%20Gems.lua")
+
+addscriptexist(9555732501, "Nen Fighting Simulator [Auto Strength - Auto Durability]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Nen%20Fighting%20Simulator%20Auto%20Strength%20%20Auto%20Durability.lua")
