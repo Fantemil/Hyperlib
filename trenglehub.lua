@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 15:03:33"
+lastupdate = "GMT +1: 09.03.2023 15:03:37"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18008,3 +18008,5 @@ addscriptexist(5023820864, "Trade Tower [Auto Buy, Auto Sell, Auto Click]", "pul
 addscriptexist(6429245608, "Blood Surge [Inf Cash, Fame & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blood%20Surge%20Inf%20Cash%20Fame%20%20More.lua")
 
 addscript(8657806289, "Current Game","Dummies vs Noobs [Damage Multiplier]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Dummies%20vs%20Noobs%20Damage%20Multiplier.lua")
+
+addscriptexist(8657806289, "Dummies vs Noobs [Anti Ammo Loss]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Dummies%20vs%20Noobs%20Anti%20Ammo%20Loss.lua")
