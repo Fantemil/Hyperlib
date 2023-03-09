@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 14:17:33"
+lastupdate = "GMT +1: 09.03.2023 14:17:37"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -16842,3 +16842,5 @@ addscript(6558526079, "Current Game","Anime World Tower Defence [Mess Up Servers
 addscriptexist(9601565001, "Car Crash System [Delete Anything]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Car%20Crash%20System%20Delete%20Anything.lua")
 
 addscript(6915291292, "Current Game","Bakery Simulator [Delete Anything]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Bakery%20Simulator%20Delete%20Anything.lua")
+
+addscript(4443032907, "Current Game","Sword Simulator [GUI - Auto Mobs & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sword%20Simulator%20GUI%20%20Auto%20Mobs%20%20More.lua")
