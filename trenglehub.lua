@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 13:43:42"
+lastupdate = "GMT +1: 09.03.2023 13:43:46"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -15954,3 +15954,5 @@ addscriptexist(286090429, "Arsenal [Aimbot, Esp, no Recoil]", "pulled from rbxsc
 addscriptexist(7009799230, "Pressure Wash Simulator [GUI - Inf Money & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pressure%20Wash%20Simulator%20GUI%20%20Inf%20Money%20%20More.lua")
 
 addscript(9397663086, "Current Game","Ninja Training Simulator [Auto Farm & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ninja%20Training%20Simulator%20Auto%20Farm%20%20More.lua")
+
+addscriptexist(9167501050, "Lightsaber Arena [Kill Aura - Auto Block & Infinite Stamina]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Lightsaber%20Arena%20Kill%20Aura%20%20Auto%20Block%20%20Infinite%20Stamina.lua")
