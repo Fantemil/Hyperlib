@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 13:28:11"
+lastupdate = "GMT +1: 09.03.2023 13:28:16"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -15550,3 +15550,5 @@ addscriptexist(2727067538, "World // Zero [Kill Aura - Auto Farm & More!]", "pul
 addscriptexist(2534724415, "Emergency Response Liberty County [Auto Lockpick]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Emergency%20Response%20Liberty%20County%20Auto%20Lockpick.lua")
 
 addscript(9985159673, "Current Game","Wizardry 101 [Alpha] [God Mode]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Wizardry%20%20Alpha%20God%20Mode.lua")
+
+addscriptexist(8123652942, "Legend Piece [GUI - Auto Farming]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Legend%20Piece%20GUI%20%20Auto%20Farming.lua")
