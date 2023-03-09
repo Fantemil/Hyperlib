@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 15:18:43"
+lastupdate = "GMT +1: 09.03.2023 15:18:47"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18388,3 +18388,5 @@ addscript(8492553855, "Current Game","Project Upright [Item Farm]", "pulled from
 addscriptexist(133815151, "The Final Stand 2 [Melee Aura]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/The%20Final%20Stand%20%20Melee%20Aura.lua")
 
 addscript(255236425, "Current Game","Traitor Town [Esp]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Traitor%20Town%20Esp.lua")
+
+addscriptexist(4855457388, "Demonfall [Auto farm, Auto Grip, Infinite jump]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Demonfall%20Auto%20farm%20Auto%20Grip%20Infinite%20jump.lua")
