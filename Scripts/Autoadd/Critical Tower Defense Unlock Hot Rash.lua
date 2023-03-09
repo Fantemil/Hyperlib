@@ -1,0 +1,1 @@
+game:GetService("Players").LocalPlayer.PlayerGui.Misc.SecretLol["Hot Rash"].Value.Value.RemoteEvent:FireServer();
