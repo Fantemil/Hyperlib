@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 15:46:02"
+lastupdate = "GMT +1: 09.03.2023 15:46:07"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -19072,3 +19072,5 @@ addscriptexist(662417684, "LUCKY BLOCKS Battlegrounds [Lucky Blox, Esp Player, T
 addscript(1417427737, "Current Game","Mining Simulator [Noclip, Sell blocks, Fly]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mining%20Simulator%20Noclip%20Sell%20blocks%20Fly.lua")
 
 addscriptexist(7560156054, "Clicker Simulator [Auto Click, Auto Collect, Chests, Auto Collect All Gifts]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Clicker%20Simulator%20Auto%20Click%20Auto%20Collect%20Chests%20Auto%20Collect%20All%20Gifts.lua")
+
+addscriptexist(1962086868, "Tower Of Hell [Bypass Anti Cheat - TP To End - Get All Items - God Mode}", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tower%20Of%20Hell%20Bypass%20Anti%20Cheat%20%20TP%20To%20End%20%20Get%20All%20Items%20%20God%20Mode.lua")
