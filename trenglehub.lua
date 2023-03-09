@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 15:36:47"
+lastupdate = "GMT +1: 09.03.2023 15:36:51"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18838,3 +18838,5 @@ addscriptexist(6125809531, "Untitled AoT [Auto Farm]", "pulled from rbxscript.co
 addscriptexist(8528736393, "Beatland [Instantly Buy Items]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Beatland%20Instantly%20Buy%20Items.lua")
 
 addscriptexist(4588604953, "Criminality [No Recoil]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Criminality%20No%20Recoil.lua")
+
+addscript(7371240697, "Current Game","Giant Dancing Simulator [Collect All Eggs]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Giant%20Dancing%20Simulator%20Collect%20All%20Eggs.lua")
