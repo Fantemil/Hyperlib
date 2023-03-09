@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 14:19:07"
+lastupdate = "GMT +1: 09.03.2023 14:19:11"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -16878,3 +16878,5 @@ addscriptexist(2039118386, "Neighborhood war [Silent AIM]", "pulled from rbxscri
 addhub("Roblox [Wheel Hub]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Roblox%20Wheel%20Hub.lua")
 
 addscriptexist(2546155523, "RoVille [Auto Restock Business]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RoVille%20Auto%20Restock%20Business.lua")
+
+addscript(5944009947, "Current Game","FORCE [TESTING-ZONE] [Trinket Auto Farm & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FORCE%20TESTINGZONE%20Trinket%20Auto%20Farm%20%20More.lua")
