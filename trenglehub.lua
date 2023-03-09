@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 14:43:29"
+lastupdate = "GMT +1: 09.03.2023 14:43:34"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -17500,3 +17500,5 @@ addscriptexist(8992150289, "Anime Sword Simulator [Get All Gamepasses]", "pulled
 addscriptexist(4459593483, "FORCE [PRE-ALPHA] [Auto Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FORCE%20PREALPHA%20Auto%20Farm.lua")
 
 addscriptexist(9534337535, "Shrek in the Backrooms [Inf Item Giver, Entity Killer, Teleports]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Shrek%20in%20the%20Backrooms%20Inf%20Item%20Giver%20Entity%20Killer%20Teleports.lua")
+
+addscriptexist(4566572536, "Universal Vehicle [SpeedHack]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Vehicle%20SpeedHack.lua")
