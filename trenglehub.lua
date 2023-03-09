@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 14:34:38"
+lastupdate = "GMT +1: 09.03.2023 14:34:42"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -17276,3 +17276,5 @@ addscript(5963376918, "Current Game","Anime Tycoon [Teleports, Collect Cash, Giv
 addscriptexist(9551640993, "Mining Simulator [Change Auto Sell to Slider, Auto Mining, Auto Rebirth]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mining%20Simulator%20Change%20Auto%20Sell%20to%20Slider%20Auto%20Mining%20Auto%20Rebirth.lua")
 
 addscriptexist(1240123653, "Zombie Attack [Auto Farm, Kill Aura, WalkSpeed]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Zombie%20Attack%20Auto%20Farm%20Kill%20Aura%20WalkSpeed.lua")
+
+addscriptexist(3652625463, "Lifting Simulator [Auto Muscle, WalkSpeed, TP Safe Zone]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Lifting%20Simulator%20Auto%20Muscle%20WalkSpeed%20TP%20Safe%20Zone.lua")
