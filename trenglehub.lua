@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 12:54:45"
+lastupdate = "GMT +1: 09.03.2023 12:54:50"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -15266,3 +15266,5 @@ addscriptexist(294790062, "Roblox Titanic [Auto Farm, Walkspeed]", "pulled from 
 addscriptexist(8204899140, "Football Fusion 2 [Inf Jump]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Football%20Fusion%20%20Inf%20Jump.lua")
 
 addscriptexist(9970551995, "Touch The Grass Simulator! [Inf coins]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Touch%20The%20Grass%20Simulator%20Inf%20coins.lua")
+
+addscriptexist(10524502174, "One Punch Fighters [Auto Click]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/One%20Punch%20Fighters%20Auto%20Click.lua")
