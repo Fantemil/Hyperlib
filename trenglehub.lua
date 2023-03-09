@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 14:10:51"
+lastupdate = "GMT +1: 09.03.2023 14:10:55"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -16662,3 +16662,5 @@ addscriptexist(8304191830, "Anime Adventures [Auto Abilyti - Auto Upgrade]", "pu
 addscriptexist(2546155523, "RoVille [Taxi Auto Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RoVille%20Taxi%20Auto%20Farm.lua")
 
 addscriptexist(9568982793, "Da Hood Battlegrounds [Anti Cheat Bypass]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Da%20Hood%20Battlegrounds%20Anti%20Cheat%20Bypass.lua")
+
+addscriptexist(8303902695, "Pet Posse [Spam Coins]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pet%20Posse%20Spam%20Coins.lua")
