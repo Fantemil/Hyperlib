@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 14:52:09"
+lastupdate = "GMT +1: 09.03.2023 14:52:13"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -17722,3 +17722,5 @@ addscriptexist(5154858502, "Murderers vs Sheriffs [Insta Kill]", "pulled from rb
 addscriptexist(8581609150, "Bloxhub - Mine Mania [Auto Sell]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Bloxhub%20%20Mine%20Mania%20Auto%20Sell.lua")
 
 addscriptexist(1537690962, "Bee Swarm Simulator [Redeem Codes, Auto Farm, Royal Yelly ESP]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Bee%20Swarm%20Simulator%20Redeem%20Codes%20Auto%20Farm%20Royal%20Yelly%20ESP.lua")
+
+addscriptexist(306964494, "Loomian Legacy [Heal + Key Grabber]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Loomian%20Legacy%20Heal%20%20Key%20Grabber.lua")
