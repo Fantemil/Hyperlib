@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 15:22:10"
+lastupdate = "GMT +1: 09.03.2023 15:22:14"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18474,3 +18474,5 @@ addscriptexist(2629642516, "Bitcoin Miner [Auto Sell, Auto Skip, Auto Claim crat
 addscriptexist(1962086868, "Tower of Hell [God Mode & More! - Free GUI]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tower%20of%20Hell%20God%20Mode%20%20More%20%20Free%20GUI.lua")
 
 addscriptexist(1224212277, "Mad City [Farm Lvl]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mad%20City%20Farm%20Lvl.lua")
+
+addscriptexist(8209480473, "Spotify Island [Lvl farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Spotify%20Island%20Lvl%20farm.lua")
