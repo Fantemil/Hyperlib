@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 14:34:30"
+lastupdate = "GMT +1: 09.03.2023 14:34:34"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -17272,3 +17272,5 @@ addscriptexist(2551991523, "Broken Bones IV [Auto Farm]", "pulled from rbxscript
 addscriptexist(4580204640, "Survive the Killer [Loot Auto Farm, TP to Door, Auto Escape]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Survive%20the%20Killer%20Loot%20Auto%20Farm%20TP%20to%20Door%20Auto%20Escape.lua")
 
 addscript(5963376918, "Current Game","Anime Tycoon [Teleports, Collect Cash, Give all Weapons]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime%20Tycoon%20Teleports%20Collect%20Cash%20Give%20all%20Weapons.lua")
+
+addscriptexist(9551640993, "Mining Simulator [Change Auto Sell to Slider, Auto Mining, Auto Rebirth]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mining%20Simulator%20Change%20Auto%20Sell%20to%20Slider%20Auto%20Mining%20Auto%20Rebirth.lua")
