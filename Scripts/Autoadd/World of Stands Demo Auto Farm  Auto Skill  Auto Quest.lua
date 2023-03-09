@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/madonchik123/WOSD/main/World_Of_Stands_Demo_New_Gui.txt"))()
