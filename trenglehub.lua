@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 15:43:55"
+lastupdate = "GMT +1: 09.03.2023 15:44:00"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -19020,3 +19020,5 @@ addscriptexist(30869879, "Stop It, Slender! [GUI - ESP]", "pulled from rbxscript
 addscriptexist(6778844213, "Euphoria ragdoll testing [Ragdoll All]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Euphoria%20ragdoll%20testing%20Ragdoll%20All.lua")
 
 addscriptexist(8916037983, "starving artists [Auto Advertise]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/starving%20artists%20Auto%20Advertise.lua")
+
+addscriptexist(2768379856, "3008 [2.7] [Simple ESP]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/%20%20Simple%20ESP.lua")
