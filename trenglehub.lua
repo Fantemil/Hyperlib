@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 15:36:04"
+lastupdate = "GMT +1: 09.03.2023 15:36:09"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18820,3 +18820,5 @@ addscriptexist(6847090259, "Bulked Up [Collect All Trophies & Eggs]", "pulled fr
 addscriptexist(3351674303, "Driving Empire [Arrest All & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Driving%20Empire%20Arrest%20All%20%20More.lua")
 
 addscriptexist(8689257920, "Life in Prison [GUI - ESP - Item Teleports & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Life%20in%20Prison%20GUI%20%20ESP%20%20Item%20Teleports%20%20More.lua")
+
+addscriptexist(370731277, "MeepCity [GUI With Coin Generator & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MeepCity%20GUI%20With%20Coin%20Generator%20%20More.lua")
