@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 13:43:23"
+lastupdate = "GMT +1: 09.03.2023 13:43:27"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -15946,3 +15946,5 @@ addscriptexist(5571328985, "Bloodlines [No Fire]", "pulled from rbxscript.com", 
 addscriptexist(2413927524, "The Rake REMASTERED [Rake ESP, Fullbright]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/The%20Rake%20REMASTERED%20Rake%20ESP%20Fullbright.lua")
 
 addscriptexist(8278412720, "CS Prison Life [BETA] [Anti Cheat Bypass]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CS%20Prison%20Life%20BETA%20Anti%20Cheat%20Bypass.lua")
+
+addscriptexist(4581966615, "Anomic [Combat ready auto heal, Bonfire’s backpack spy, Silent aim]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anomic%20Combat%20ready%20auto%20heal%20Bonfires%20backpack%20spy%20Silent%20aim.lua")
