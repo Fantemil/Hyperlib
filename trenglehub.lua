@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 13:29:18"
+lastupdate = "GMT +1: 09.03.2023 13:29:22"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -15580,3 +15580,5 @@ addscript(4474859677, "Current Game","CITY-17 [Anti Cheat Bypass]", "pulled from
 addscript(9744597824, "Current Game","Sea Piece [Auto Farm - GUI]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sea%20Piece%20Auto%20Farm%20%20GUI.lua")
 
 addscriptexist(4951858512, "Victory Race [Free Wins]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Victory%20Race%20Free%20Wins.lua")
+
+addscriptexist(10001513103, "Limited Words [Auto Daily Spin]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Limited%20Words%20Auto%20Daily%20Spin.lua")
