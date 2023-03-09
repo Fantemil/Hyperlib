@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 14:47:14"
+lastupdate = "GMT +1: 09.03.2023 14:47:18"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -17592,3 +17592,5 @@ addscriptexist(6728870912, "World of Stands Demo [Infinite Gold]", "pulled from 
 addscriptexist(659222129, "Swordburst 2 [Auto Farm, Tp, Kill Aura]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Swordburst%20%20Auto%20Farm%20Tp%20Kill%20Aura.lua")
 
 addscriptexist(5678279798, "Fight Club [Kill Aura & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Fight%20Club%20Kill%20Aura%20%20More.lua")
+
+addscriptexist(9551640993, "Mining Simulator 2 [Block Aura, Multi Mode & More! - GUI]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mining%20Simulator%20%20Block%20Aura%20Multi%20Mode%20%20More%20%20GUI.lua")
