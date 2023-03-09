@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 14:15:01"
+lastupdate = "GMT +1: 09.03.2023 14:15:10"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -16774,3 +16774,5 @@ addscriptexist(6938803436, "Anime Dimensions Simulator [GUI - Auto Level, Farm R
 addscript(8635207352, "Current Game","Anime Merge Simulator [Fast Auto Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime%20Merge%20Simulator%20Fast%20Auto%20Farm.lua")
 
 addscriptexist(6206893534, "Cobra Kai Karate [GUI - Auto Farm Bags, Hide Name & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Cobra%20Kai%20Karate%20GUI%20%20Auto%20Farm%20Bags%20Hide%20Name%20%20More.lua")
+
+addscriptexist(4991214437, "town [Kill All, Gun Mods, Esp]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/town%20Kill%20All%20Gun%20Mods%20Esp.lua")
