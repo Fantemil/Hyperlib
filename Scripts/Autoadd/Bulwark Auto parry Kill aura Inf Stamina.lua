@@ -1,0 +1,1 @@
+loadstring(game:HttpGet(('https://raw.githubusercontent.com/xgamerman626/bulwark/main/main.lua'),true))()
