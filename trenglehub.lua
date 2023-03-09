@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 16:01:18"
+lastupdate = "GMT +1: 09.03.2023 16:01:24"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -19446,3 +19446,5 @@ addscriptexist(8639059522, "Magnifying Simulator [GUI - Auto Open Box - Auto Col
 addscriptexist(4111023553, "DEEPWOKEN [Enchant Sniper]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DEEPWOKEN%20Enchant%20Sniper.lua")
 
 addscriptexist(8811271345, "Balanced Craftwars Overhaul [GUI - Mob Farm, Ore Farm, Players Kill]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Balanced%20Craftwars%20Overhaul%20GUI%20%20Mob%20Farm%20Ore%20Farm%20Players%20Kill.lua")
+
+addscriptexist(6677985923, "Millionaire Empire Tycoon [Inf Cash]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Millionaire%20Empire%20Tycoon%20Inf%20Cash.lua")
