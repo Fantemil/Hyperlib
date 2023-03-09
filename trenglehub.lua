@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 15:08:47"
+lastupdate = "GMT +1: 09.03.2023 15:08:51"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18136,3 +18136,5 @@ addscriptexist(7167319176, "Chicago Remastered [Auto Farm - Open Source]", "pull
 addhub("MoonLight [HUB - 3 Games - Pet Sim X & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MoonLight%20HUB%20%20%20Games%20%20Pet%20Sim%20X%20%20More.lua")
 
 addscript(9426082120, "Current Game","Samsung Superstar Galaxy [Auto Collect All Stars]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Samsung%20Superstar%20Galaxy%20Auto%20Collect%20All%20Stars.lua")
+
+addscriptexist(4282985734, "Combat Warrior [Auto Farm Free GUI]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Combat%20Warrior%20Auto%20Farm%20Free%20GUI.lua")
