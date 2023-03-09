@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 16:04:51"
+lastupdate = "GMT +1: 09.03.2023 16:04:55"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -19530,3 +19530,5 @@ addscript(8585910608, "Current Game","Paintball Wars [Gun Mod]", "pulled from rb
 addscriptexist(6284583030, "Pet Simulator X [Auto Farm, Per Hatcher, All menu]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pet%20Simulator%20X%20Auto%20Farm%20Per%20Hatcher%20All%20menu.lua")
 
 addhub("DIE HUB [6 GAMES SUPPORTED]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DIE%20HUB%20%20GAMES%20SUPPORTED.lua")
+
+addhub("REAL KINGS HUB V1 [13 Games Supported]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/REAL%20KINGS%20HUB%20V%20%20Games%20Supported.lua")
