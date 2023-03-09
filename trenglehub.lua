@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 15:59:57"
+lastupdate = "GMT +1: 09.03.2023 16:00:05"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -19418,3 +19418,5 @@ addscriptexist(4042427666, "Anime Fighting Simulator [Auto Farm GUI]", "pulled f
 addscript(5171093784, "Current Game","Don’t Press The Button 4 [Auto Win – Auto Press – Auto Coins]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Dont%20Press%20The%20Button%20%20Auto%20Win%20%20Auto%20Press%20%20Auto%20Coins.lua")
 
 addscript(1282541750, "Current Game","Would You Rather 2 [Coins Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Would%20You%20Rather%20%20Coins%20Farm.lua")
+
+addscript(8479386309, "Current Game","Egg Hunt 2022 Lost in Time [Collect All Coins & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Egg%20Hunt%20%20Lost%20in%20Time%20Collect%20All%20Coins%20%20More.lua")
