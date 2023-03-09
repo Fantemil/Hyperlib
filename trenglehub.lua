@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 13:28:58"
+lastupdate = "GMT +1: 09.03.2023 13:29:05"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -15572,3 +15572,5 @@ addscriptexist(180364455, "Survive The Disasters 2 [V41.75] [Full Anti Cheat Byp
 addscriptexist(10386774046, "Legend Magician [Auto Farm & Auto Pickup]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Legend%20Magician%20Auto%20Farm%20%20Auto%20Pickup.lua")
 
 addscriptexist(445664957, "Parkour [GUI - Set Flow, Set Combo]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Parkour%20GUI%20%20Set%20Flow%20Set%20Combo.lua")
+
+addscriptexist(7127407851, "Attack On Titan: Evolution [Instant Spins]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Attack%20On%20Titan%20Evolution%20Instant%20Spins.lua")
