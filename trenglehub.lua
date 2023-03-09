@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 13:29:32"
+lastupdate = "GMT +1: 09.03.2023 13:29:36"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -15586,3 +15586,5 @@ addscriptexist(10001513103, "Limited Words [Auto Daily Spin]", "pulled from rbxs
 addscriptexist(2727067538, "World // Zero [GUI - Auto Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/World%20%20Zero%20GUI%20%20Auto%20Farm.lua")
 
 addscript(5714258552, "Current Game","Bizarre Heritage [Free Money And Xp]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Bizarre%20Heritage%20Free%20Money%20And%20Xp.lua")
+
+addscriptexist(10184360875, "Pet&Fishing Simulator [Inf Money, Inf Fish]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PetFishing%20Simulator%20Inf%20Money%20Inf%20Fish.lua")
