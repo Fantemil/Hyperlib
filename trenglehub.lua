@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 16:03:45"
+lastupdate = "GMT +1: 09.03.2023 16:03:49"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -19504,3 +19504,5 @@ addscriptexist(7655489843, "Anime Battlegrounds X [Punch Aura - Infinite Stamina
 addscriptexist(654732683, "Car Crushers 2 [GUI - Atuto Farm - Vehicle Stats]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Car%20Crushers%20%20GUI%20%20Atuto%20Farm%20%20Vehicle%20Stats.lua")
 
 addscriptexist(4111023553, "Deepwoken [Sunshine V3 - Updated - OP]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Deepwoken%20Sunshine%20V%20%20Updated%20%20OP.lua")
+
+addscriptexist(6297822481, "Titan Warfare [Enhanced Damage]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Titan%20Warfare%20Enhanced%20Damage.lua")
