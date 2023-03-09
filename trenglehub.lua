@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 14:02:04"
+lastupdate = "GMT +1: 09.03.2023 14:02:08"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -16440,3 +16440,5 @@ addscriptexist(7899881670, "RB World 4 [Auto Arcade Bot]", "pulled from rbxscrip
 addscript(7491927311, "Current Game","Undertale Test Place Reborn [Alt Detection Bypass]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Undertale%20Test%20Place%20Reborn%20Alt%20Detection%20Bypass.lua")
 
 addscriptexist(6938803436, "Anime Dimensions Simulator [Auto Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime%20Dimensions%20Simulator%20Auto%20Farm.lua")
+
+addscriptexist(2809202155, "Your Bizarre Adventure [God Mode]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Your%20Bizarre%20Adventure%20God%20Mode.lua")
