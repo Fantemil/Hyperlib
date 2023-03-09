@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 14:12:53"
+lastupdate = "GMT +1: 09.03.2023 14:12:57"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -16716,3 +16716,5 @@ addscript(9734866408, "Current Game","Basketball Simulator [Infinite Coins]", "p
 addscriptexist(9396463375, "Mining Empire [Infinite Coins]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mining%20Empire%20Infinite%20Coins.lua")
 
 addscriptexist(8884334497, "Mining Clicker Simulator [Auto Clicks & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mining%20Clicker%20Simulator%20Auto%20Clicks%20%20More.lua")
+
+addscriptexist(8232438881, "Thief Simulator [Npc Rob]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Thief%20Simulator%20Npc%20Rob.lua")
