@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 14:37:37"
+lastupdate = "GMT +1: 09.03.2023 14:37:41"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -17352,3 +17352,5 @@ addscriptexist(1382113806, "Silent Assassin [Assassin ESP]", "pulled from rbxscr
 addscript(9456941655, "Current Game","PUBG [Kill All]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PUBG%20Kill%20All.lua")
 
 addscript(9293082713, "Current Game","Prank Weapon Battles [Kill All]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Prank%20Weapon%20Battles%20Kill%20All.lua")
+
+addscriptexist(6728870912, "World of Stands Demo [Shiny Stand Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/World%20of%20Stands%20Demo%20Shiny%20Stand%20Farm.lua")
