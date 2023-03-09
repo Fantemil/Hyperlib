@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/koio08199za/King-Legacy-/main/NOOB%20HUB.Lua"))()
