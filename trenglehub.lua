@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 15:27:16"
+lastupdate = "GMT +1: 09.03.2023 15:27:20"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18600,3 +18600,5 @@ addscriptexist(9346039031, "My Hello Kitty Cafe [Roblox Event Auto Farm]", "pull
 addscriptexist(9346039031, "My Hello Kitty Cafe [Auto Serve Coffee - Auto Clean Seats & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/My%20Hello%20Kitty%20Cafe%20Auto%20Serve%20Coffee%20%20Auto%20Clean%20Seats%20%20More.lua")
 
 addscriptexist(3467049496, "MARVEL Battlegrounds [Get All Gamepasses]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MARVEL%20Battlegrounds%20Get%20All%20Gamepasses.lua")
+
+addscriptexist(171391948, "Vehicle Simulator [Auto Farm GUI]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Vehicle%20Simulator%20Auto%20Farm%20GUI.lua")
