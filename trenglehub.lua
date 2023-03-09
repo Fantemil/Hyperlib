@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 13:35:51"
+lastupdate = "GMT +1: 09.03.2023 13:35:55"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -15750,3 +15750,5 @@ addscript(9705460681, "Current Game","The Ants Undergrounnd Kingdom [Free Cash]"
 addscriptexist(9894044804, "Blade Simulator [GUI - Auto Swing, Auto Sell & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blade%20Simulator%20GUI%20%20Auto%20Swing%20Auto%20Sell%20%20More.lua")
 
 addscriptexist(10370253487, "You Can't Say That Again! [Word Farmer]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/You%20Cant%20Say%20That%20Again%20Word%20Farmer.lua")
+
+addscript(6488220605, "Current Game","stay alive and steal time from others [The Best GUI]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/stay%20alive%20and%20steal%20time%20from%20others%20The%20Best%20GUI.lua")
