@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 13:50:41"
+lastupdate = "GMT +1: 09.03.2023 13:50:46"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -16138,3 +16138,5 @@ addscriptexist(5956785391, "Project Slayers [GUI - Auto Farm]", "pulled from rbx
 addscriptexist(2768379856, "3008 [Auto collect food, medkits]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/%20Auto%20collect%20food%20medkits.lua")
 
 addscriptexist(4863541388, "Scythe Masters [Fast Strength Auto Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Scythe%20Masters%20Fast%20Strength%20Auto%20Farm.lua")
+
+addscriptexist(7419509075, "cart ride around used car battery [Get All The Troll Items]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/cart%20ride%20around%20used%20car%20battery%20Get%20All%20The%20Troll%20Items.lua")
