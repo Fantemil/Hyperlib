@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 15:16:31"
+lastupdate = "GMT +1: 09.03.2023 15:16:35"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18332,3 +18332,5 @@ addscriptexist(632642533, "DeadMist 2 Beta [Grab Item Only Storage Crates]", "pu
 addscriptexist(2788229376, "Da Hood [Godmode V3 - Full Skinny God Mode]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Da%20Hood%20Godmode%20V%20%20Full%20Skinny%20God%20Mode.lua")
 
 addscriptexist(9203864304, "raise a floppa [Auto Click Floppa - Auto Collect Money]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/raise%20a%20floppa%20Auto%20Click%20Floppa%20%20Auto%20Collect%20Money.lua")
+
+addscriptexist(2000062521, "State of Anarchy O.13.81.6 [Silent AIM - ESP - Aimbot & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/State%20of%20Anarchy%20O%20Silent%20AIM%20%20ESP%20%20Aimbot%20%20More.lua")
