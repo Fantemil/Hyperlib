@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 15:23:07"
+lastupdate = "GMT +1: 09.03.2023 15:23:12"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18494,3 +18494,5 @@ addscriptexist(8403541179, "Blood Engine II: Slash Mania [Kill All]", "pulled fr
 addscriptexist(8747402506, "Prop Hunt [No Clip - ESP & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Prop%20Hunt%20No%20Clip%20%20ESP%20%20More.lua")
 
 addscript(2631794742, "Current Game","City of Ottawa [Kill All - Get Gun]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/City%20of%20Ottawa%20Kill%20All%20%20Get%20Gun.lua")
+
+addscriptexist(9103460924, "Sword Factory X [Auto Spawn - Auto Kill Boss]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sword%20Factory%20X%20Auto%20Spawn%20%20Auto%20Kill%20Boss.lua")
