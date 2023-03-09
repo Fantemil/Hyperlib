@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/HeiKe2022/Mod-UI/main/F%26T%20v2%20Final.lua"))()
