@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 15:37:02"
+lastupdate = "GMT +1: 09.03.2023 15:37:07"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18844,3 +18844,5 @@ addscript(7371240697, "Current Game","Giant Dancing Simulator [Collect All Eggs]
 addscriptexist(8781849572, "Star Simulator Beta [Loop Farms – Loop Conversions – Upgrade Tools & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Star%20Simulator%20Beta%20Loop%20Farms%20%20Loop%20Conversions%20%20Upgrade%20Tools%20%20More.lua")
 
 addscriptexist(6897226634, "Timber [Expand Hitbox - Collect Logs & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Timber%20Expand%20Hitbox%20%20Collect%20Logs%20%20More.lua")
+
+addscriptexist(8528736393, "Beatland [Auto Farm - Roblox Event]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Beatland%20Auto%20Farm%20%20Roblox%20Event.lua")
