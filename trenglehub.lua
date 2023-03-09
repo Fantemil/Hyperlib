@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 15:27:29"
+lastupdate = "GMT +1: 09.03.2023 15:27:33"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18606,3 +18606,5 @@ addscriptexist(171391948, "Vehicle Simulator [Auto Farm GUI]", "pulled from rbxs
 addscriptexist(3272915504, "World of Magic [New ESP]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/World%20of%20Magic%20New%20ESP.lua")
 
 addscript(9230434873, "Current Game","Logitech Song Breaker Awards [Collect All Coins - Unhide All NPCS & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Logitech%20Song%20Breaker%20Awards%20Collect%20All%20Coins%20%20Unhide%20All%20NPCS%20%20More.lua")
+
+addscriptexist(9230434873, "Logitech Song Breaker Awards [Get Items]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Logitech%20Song%20Breaker%20Awards%20Get%20Items.lua")
