@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 13:34:18"
+lastupdate = "GMT +1: 09.03.2023 13:34:22"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -15710,3 +15710,5 @@ addscriptexist(4733278992, "Sword Blox Online: Rebirth [Kill Aura]", "pulled fro
 addscriptexist(6584731191, "Ragdoll Engine [FE Fling All Players]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ragdoll%20Engine%20FE%20Fling%20All%20Players.lua")
 
 addscriptexist(10192063645, "Thy Hood [Fly]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Thy%20Hood%20Fly.lua")
+
+addscriptexist(8916037983, "Starving Artist [Steal Art]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Starving%20Artist%20Steal%20Art.lua")
