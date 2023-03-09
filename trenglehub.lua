@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 13:34:45"
+lastupdate = "GMT +1: 09.03.2023 13:34:50"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -15722,3 +15722,5 @@ addscriptexist(7991339063, "Rainbow Friends [GUI - Attempt Tp PickUp All Items]"
 addscriptexist(2474168535, "Westbound [AimBot]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Westbound%20AimBot.lua")
 
 addscriptexist(4639625707, "Oil Warfare Tycoon [Esp & Aimbot]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Oil%20Warfare%20Tycoon%20Esp%20%20Aimbot.lua")
+
+addscriptexist(4855457388, "Demonfall [4.0] [God Mode]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Demonfall%20%20God%20Mode.lua")
