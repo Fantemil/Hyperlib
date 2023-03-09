@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 13:38:22"
+lastupdate = "GMT +1: 09.03.2023 13:38:26"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -15818,3 +15818,5 @@ addscriptexist(9926433554, "Blast Mining Simulator [Inf Money]", "pulled from rb
 addscriptexist(8304191830, "Anime Adventure [Auto Farm - Auto Merchant]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime%20Adventure%20Auto%20Farm%20%20Auto%20Merchant.lua")
 
 addscriptexist(8585657145, "Anime Hero Simulator [Auto Farm GUI]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime%20Hero%20Simulator%20Auto%20Farm%20GUI.lua")
+
+addscript(6266940721, "Current Game","StockRise Stock Simulator [Infinite Money]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/StockRise%20Stock%20Simulator%20Infinite%20Money.lua")
