@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 14:25:31"
+lastupdate = "GMT +1: 09.03.2023 14:25:35"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -17038,3 +17038,5 @@ addscript(9751569460, "Current Game","ARCH PIECE [Auto Farm]", "pulled from rbxs
 addscriptexist(9559194006, "social experiment [Guess the next game]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/social%20experiment%20Guess%20the%20next%20game.lua")
 
 addscriptexist(9786213478, "Treat Simulator [Auto Sell]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Treat%20Simulator%20Auto%20Sell.lua")
+
+addscriptexist(3234050617, "Left 2 Die Overhaul [infinite ammo, No recoll, No Spreed]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Left%20%20Die%20Overhaul%20infinite%20ammo%20No%20recoll%20No%20Spreed.lua")
