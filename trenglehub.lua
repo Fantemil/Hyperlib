@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 13:33:32"
+lastupdate = "GMT +1: 09.03.2023 13:33:36"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -15688,3 +15688,5 @@ addscriptexist(292439477, "Phantom Forces [Silent Aim, Esp, NoRecoil]", "pulled 
 addscript(1324061305, "Current Game","Flicker [Invisible]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Flicker%20Invisible.lua")
 
 addscriptexist(10322949476, "Limited Jumps [Inf Jumps]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Limited%20Jumps%20Inf%20Jumps.lua")
+
+addscriptexist(7655745946, "Dunking Simulator [Unlimited boost]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Dunking%20Simulator%20Unlimited%20boost.lua")
