@@ -1,0 +1,1 @@
+loadstring(game:HttpGet(('https://raw.githubusercontent.com/itsyouranya/free/main/herosimulator.lua'),true))()
