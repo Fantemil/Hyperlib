@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 13:54:01"
+lastupdate = "GMT +1: 09.03.2023 13:54:05"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -16226,3 +16226,5 @@ addscriptexist(6249640453, "Classic Retro Craftwars [Kill Bosses]", "pulled from
 addscriptexist(2788229376, "Da Hood [Auto Farm, Anti Afk]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Da%20Hood%20Auto%20Farm%20Anti%20Afk.lua")
 
 addscriptexist(920587237, "Adopt Me [Auto Farm, Auto Cashout & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Adopt%20Me%20Auto%20Farm%20Auto%20Cashout%20%20More.lua")
+
+addscriptexist(7196856665, "Wave Sword Bots Game [Collect All Orbs]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Wave%20Sword%20Bots%20Game%20Collect%20All%20Orbs.lua")
