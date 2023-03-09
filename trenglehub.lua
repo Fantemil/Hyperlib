@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 13:40:41"
+lastupdate = "GMT +1: 09.03.2023 13:40:46"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -15874,3 +15874,5 @@ addscriptexist(5956785391, "Project Slayers [Semi-no cooldown for skills]", "pul
 addscript(21083417, "Current Game","Homestead [Log Spam]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Homestead%20Log%20Spam.lua")
 
 addscriptexist(6055959032, "Jailbird [Silent Aim – Ragebot – Visuals And More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Jailbird%20Silent%20Aim%20%20Ragebot%20%20Visuals%20And%20More.lua")
+
+addscriptexist(6298464951, "Unbreakable [Get 100K Cash & Items]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Unbreakable%20Get%20K%20Cash%20%20Items.lua")
