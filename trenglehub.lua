@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 14:16:45"
+lastupdate = "GMT +1: 09.03.2023 14:16:52"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -16820,3 +16820,5 @@ addscriptexist(180037022, "Sonic Ultimate RPG [Get All Rings]", "pulled from rbx
 addscriptexist(180037022, "Sonic Ultimate RPG [Get All Emeralds]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sonic%20Ultimate%20RPG%20Get%20All%20Emeralds.lua")
 
 addhub("ZEPHYR Hub [20 Games]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ZEPHYR%20Hub%20%20Games.lua")
+
+addscriptexist(2906554815, "S.W.A.T Simulator [Auto Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SWAT%20Simulator%20Auto%20Farm.lua")
