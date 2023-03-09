@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 16:06:07"
+lastupdate = "GMT +1: 09.03.2023 16:06:16"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -19562,3 +19562,5 @@ addscriptexist(8260276694, "Ability Wars [GUI - Kill All & More!]", "pulled from
 addscript(5130498426, "Current Game","AoT:Insertplayground [OP Admin Power]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AoTInsertplayground%20OP%20Admin%20Power.lua")
 
 addscript(8966584990, "Current Game","Orthoxia Alpha [GodMode]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Orthoxia%20Alpha%20GodMode.lua")
+
+addscriptexist(4954752502, "Tower of Misery [Auto Win - Teleport To Winner Room]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tower%20of%20Misery%20Auto%20Win%20%20Teleport%20To%20Winner%20Room.lua")
