@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 13:51:37"
+lastupdate = "GMT +1: 09.03.2023 13:51:41"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -16164,3 +16164,5 @@ addhub("Universal FE Script Hub [Several Features]", "pulled from rbxscript.com"
 addscriptexist(9677464361, "Basketball Pro Simulator [GUI - Auto Farm, Gamepasses & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Basketball%20Pro%20Simulator%20GUI%20%20Auto%20Farm%20Gamepasses%20%20More.lua")
 
 addscriptexist(4856393583, "Build a Spaceship Tycoon [Insta Rebirth]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Build%20a%20Spaceship%20Tycoon%20Insta%20Rebirth.lua")
+
+addscriptexist(6403373529, "Slap Battles [Kill Aura - No Cooldown]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Slap%20Battles%20Kill%20Aura%20%20No%20Cooldown.lua")
