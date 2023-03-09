@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://gist.githubusercontent.com/shawnjbragdon-0/384244e9dcaae178f699e658cc9d837f/raw/0e86257922a5eff74c8fc0dde11d403c9a1c6b21/swordbloxonline.lua"))()
