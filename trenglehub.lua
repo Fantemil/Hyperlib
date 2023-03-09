@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 12:03:49"
+lastupdate = "GMT +1: 09.03.2023 12:03:58"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -15120,3 +15120,5 @@ addscriptexist(7056922815, "Reaper 2: AutoFarm, Auto Quests, Teleports", "pulled
 addscriptexist(6679968919, "Fly Race: Auto Rebirth, Auto Farm & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Fly%20Race%20Auto%20Rebirth%20Auto%20Farm%20%20More.lua")
 
 addscriptuniversal("Universal: Animations", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Animations.lua")
+
+addscriptexist(12172698927, "Sword Race: Auto Claim Reward, Auto Swing, Auto Rebirth", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sword%20Race%20Auto%20Claim%20Reward%20Auto%20Swing%20Auto%20Rebirth.lua")
