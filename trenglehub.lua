@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 14:02:25"
+lastupdate = "GMT +1: 09.03.2023 14:02:29"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -16450,3 +16450,5 @@ addscriptexist(863266079, "Apocalypse Rising 2 [Anti Zombie - Teleport]", "pulle
 addscriptexist(9359379224, "Chaotic Bean Simulator [Auto Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Chaotic%20Bean%20Simulator%20Auto%20Farm.lua")
 
 addscriptexist(1537690962, "Bee Swarm Simulator [GUI - Auto Dig, Auto Farm & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Bee%20Swarm%20Simulator%20GUI%20%20Auto%20Dig%20Auto%20Farm%20%20More.lua")
+
+addscriptexist(2506738224, "Fallen [Magic Bullet]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Fallen%20Magic%20Bullet.lua")
