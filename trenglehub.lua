@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 14:21:00"
+lastupdate = "GMT +1: 09.03.2023 14:21:04"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -16926,3 +16926,5 @@ addscript(6644653750, "Current Game","Paper.IO [Semi Auto Win]", "pulled from rb
 addscriptexist(9017974931, "Valoblox ATOMIC VALOBLOX GUI", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Valoblox%20ATOMIC%20VALOBLOX%20GUI.lua")
 
 addscriptexist(4996049426, "All Star Tower Defense [Star Pass Farm V3]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/All%20Star%20Tower%20Defense%20Star%20Pass%20Farm%20V.lua")
+
+addscriptexist(654732683, "Car Crusher 2 [GUI - AI Auto Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Car%20Crusher%20%20GUI%20%20AI%20Auto%20Farm.lua")
