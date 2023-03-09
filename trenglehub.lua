@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 14:50:15"
+lastupdate = "GMT +1: 09.03.2023 14:50:21"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -17672,3 +17672,5 @@ addscriptexist(2788229376, "Da Hood [Cash Cat Farm]", "pulled from rbxscript.com
 addscriptexist(3956818381, "Ninja Legends [Auto Farm, Auto Buy All - GUI]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ninja%20Legends%20Auto%20Farm%20Auto%20Buy%20All%20%20GUI.lua")
 
 addscriptexist(23578803, "Hotel Elephant [GUI - Giver Cash]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Hotel%20Elephant%20GUI%20%20Giver%20Cash.lua")
+
+addscriptexist(6342469457, "Heavens Arena [No Stun - Anti Combo, Hide Name]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Heavens%20Arena%20No%20Stun%20%20Anti%20Combo%20Hide%20Name.lua")
