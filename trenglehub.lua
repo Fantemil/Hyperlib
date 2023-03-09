@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 12:59:01"
+lastupdate = "GMT +1: 09.03.2023 12:59:05"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -15366,3 +15366,5 @@ addscriptexist(340227283, "RoBowling [Aimbot & Hitbox Extender]", "pulled from r
 addscript(6950767274, "Current Game","Fighter's Era [Roadwork Load]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Fighters%20Era%20Roadwork%20Load.lua")
 
 addscriptexist(5130598377, "A Universal Time [Thug Farm - Items Farm & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/A%20Universal%20Time%20Thug%20Farm%20%20Items%20Farm%20%20More.lua")
+
+addscriptexist(7305309231, "Taxi Boss [Auto Farm Trophies]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Taxi%20Boss%20Auto%20Farm%20Trophies.lua")
