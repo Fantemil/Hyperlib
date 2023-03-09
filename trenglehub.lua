@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 15:10:38"
+lastupdate = "GMT +1: 09.03.2023 15:10:43"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18184,3 +18184,5 @@ addscriptexist(8204899140, "Football Fusion 2 [No Jump Cooldown]", "pulled from 
 addscriptexist(1554960397, "Car Dealership Tycoon [AutoFarm, SpeedChanger]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Car%20Dealership%20Tycoon%20AutoFarm%20SpeedChanger.lua")
 
 addscriptexist(6461766546, "A Hero Destiny [GUI - Auto Farm, Boss Farm, More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/A%20Hero%20Destiny%20GUI%20%20Auto%20Farm%20Boss%20Farm%20More.lua")
+
+addscriptexist(6284583030, "Pet Simulator X [New Farming GUI]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pet%20Simulator%20X%20New%20Farming%20GUI.lua")
