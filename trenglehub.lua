@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 15:32:03"
+lastupdate = "GMT +1: 09.03.2023 15:32:09"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18720,3 +18720,5 @@ addscriptexist(8540168650, "Stand Upright Rebooted [Auto Farm - Stands Farm & Mo
 addscriptexist(8916037983, "Starving Artists [Get Easter Boost]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Starving%20Artists%20Get%20Easter%20Boost.lua")
 
 addscriptexist(9030362964, "Field Goal Simulator [Perfect hit]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Field%20Goal%20Simulator%20Perfect%20hit.lua")
+
+addscriptexist(9049840490, "Sonic Speed Simulator [15k money]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sonic%20Speed%20Simulator%20k%20money.lua")
