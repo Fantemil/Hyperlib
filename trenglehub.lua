@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 13:25:40"
+lastupdate = "GMT +1: 09.03.2023 13:25:44"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -15486,3 +15486,5 @@ addscriptexist(6902912928, "GET TO THE TOP! [Unlimited Points]", "pulled from rb
 addscriptexist(2506738224, "Fallen [Esp]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Fallen%20Esp.lua")
 
 addscriptexist(7378050129, "Kill R63 with DOOM music [Changes the Numbers at All]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Kill%20R%20with%20DOOM%20music%20Changes%20the%20Numbers%20at%20All.lua")
+
+addscriptexist(8317588085, "Block Tycoon [Cheaper shop]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Block%20Tycoon%20Cheaper%20shop.lua")
