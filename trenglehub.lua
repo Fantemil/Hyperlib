@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 15:13:26"
+lastupdate = "GMT +1: 09.03.2023 15:13:31"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18252,3 +18252,5 @@ addhub("Parvus Hub [Supported 5 Games]", "pulled from rbxscript.com", "https://r
 addhub("Rox Hub [Supported 85 Games]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Rox%20Hub%20Supported%20%20Games.lua")
 
 addscriptexist(9049840490, "Sonic Speed Simulator [Server Hop Collect All – Auto Rebirth]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sonic%20Speed%20Simulator%20Server%20Hop%20Collect%20All%20%20Auto%20Rebirth.lua")
+
+addscriptexist(35397735, "Scuba Diving At Quill Lake [Infinite Money]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Scuba%20Diving%20At%20Quill%20Lake%20Infinite%20Money.lua")
