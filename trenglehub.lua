@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 15:47:18"
+lastupdate = "GMT +1: 09.03.2023 15:47:22"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -19104,3 +19104,5 @@ addscript(6551386772, "Current Game","Battle Royale Simulator [Hit Box, AIMBOT, 
 addscriptexist(5670218884, "Item asylum [Give weapons]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Item%20asylum%20Give%20weapons.lua")
 
 addscriptexist(8737602449, "PLS DONATE [Rainbow, Modded, Goal]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PLS%20DONATE%20Rainbow%20Modded%20Goal.lua")
+
+addscriptexist(5062619730, "War Simulator [Gun Mod]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/War%20Simulator%20Gun%20Mod.lua")
