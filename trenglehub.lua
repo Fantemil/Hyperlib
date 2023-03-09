@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 15:25:27"
+lastupdate = "GMT +1: 09.03.2023 15:25:32"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18554,3 +18554,5 @@ addscriptexist(8705534359, "Shopping Cart Simulator [Infinite Coffee]", "pulled 
 addscriptexist(8705534359, "Shopping Cart Simulator [Infinite Coins]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Shopping%20Cart%20Simulator%20Infinite%20Coins.lua")
 
 addscript(8519700776, "Current Game","SKYWARS PvP [Kill All Instantly]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SKYWARS%20PvP%20Kill%20All%20Instantly.lua")
+
+addscript(8874040270, "Current Game","SKYWARS PRO 2 [Kill All]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SKYWARS%20PRO%20%20Kill%20All.lua")
