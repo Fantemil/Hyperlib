@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 14:56:32"
+lastupdate = "GMT +1: 09.03.2023 14:56:36"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -17834,3 +17834,5 @@ addscript(9573746878, "Current Game","Bleach - Senko [Hollow Eat]", "pulled from
 addscriptexist(1224212277, "Mad City [Spawn Car, Drive And Walk On Water]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mad%20City%20Spawn%20Car%20Drive%20And%20Walk%20On%20Water.lua")
 
 addscriptexist(8750997647, "Tapping Legends X [GUI - Auto Click, Auto Rebirth & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tapping%20Legends%20X%20GUI%20%20Auto%20Click%20Auto%20Rebirth%20%20More.lua")
+
+addscriptexist(6299805723, "Anime Fighters Simulator [GUI - Auto Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime%20Fighters%20Simulator%20GUI%20%20Auto%20Farm.lua")
