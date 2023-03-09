@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 15:00:36"
+lastupdate = "GMT +1: 09.03.2023 15:00:41"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -17936,3 +17936,5 @@ addscriptexist(8278412720, "Prison Life Remastered [Anti Cheat Bypass]", "pulled
 addscriptexist(9359839118, "Gas Station Simulator [New Farming GUI]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Gas%20Station%20Simulator%20New%20Farming%20GUI.lua")
 
 addscriptexist(8540168650, "Stand Upright: Rebooted [Auto Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Stand%20Upright%20Rebooted%20Auto%20Farm.lua")
+
+addscriptexist(7214610985, "Stealth 2 [Level And Coins Auto Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Stealth%20%20Level%20And%20Coins%20Auto%20Farm.lua")
