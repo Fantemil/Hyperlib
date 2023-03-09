@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 15:00:49"
+lastupdate = "GMT +1: 09.03.2023 15:00:57"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -17942,3 +17942,5 @@ addscriptexist(7214610985, "Stealth 2 [Level And Coins Auto Farm]", "pulled from
 addscript(444319338, "Current Game","Cannoneers! [Auto Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Cannoneers%20Auto%20Farm.lua")
 
 addscriptexist(6882790593, "unFAIR [Auto Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/unFAIR%20Auto%20Farm.lua")
+
+addscriptuniversal("Universal Custom ESP", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Custom%20ESP.lua")
