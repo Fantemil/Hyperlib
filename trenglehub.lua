@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 14:06:41"
+lastupdate = "GMT +1: 09.03.2023 14:06:46"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -16560,3 +16560,5 @@ addscriptexist(8619263259, "Critical Legends [KILL AURA - GOD MODE - AUTO HIT & 
 addscriptexist(8750997647, "Tapping Legends X [UPDATED AUTO FARM GUI]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tapping%20Legends%20X%20UPDATED%20AUTO%20FARM%20GUI.lua")
 
 addscriptexist(8123652942, "Legend Piece [Give Devil Fruit]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Legend%20Piece%20Give%20Devil%20Fruit.lua")
+
+addscriptexist(7560156054, "Clicker Simulator [Free Gamepasses]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Clicker%20Simulator%20Free%20Gamepasses.lua")
