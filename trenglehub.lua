@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 15:21:15"
+lastupdate = "GMT +1: 09.03.2023 15:21:19"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18450,3 +18450,5 @@ addscriptexist(9049840490, "Sonic Speed Simulator [Auto Run, Auto rebirths, Auto
 addscriptexist(3956818381, "Ninja legends [Auto Swing, Auto sell on best location, Auto farm boss]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ninja%20legends%20Auto%20Swing%20Auto%20sell%20on%20best%20location%20Auto%20farm%20boss.lua")
 
 addscriptexist(4616652839, "Shindo Life [Infinite Spins & Get Any Bloodline]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Shindo%20Life%20Infinite%20Spins%20%20Get%20Any%20Bloodline.lua")
+
+addscriptexist(1224212277, "Mad City [Auto Xp - Easy Level 100]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mad%20City%20Auto%20Xp%20%20Easy%20Level%20.lua")
