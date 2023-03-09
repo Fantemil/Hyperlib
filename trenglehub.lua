@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 13:30:07"
+lastupdate = "GMT +1: 09.03.2023 13:30:12"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -15598,3 +15598,5 @@ addscriptexist(445664957, "Parkour [God mode, Infinite WalkBoost, Infinite Adren
 addscriptexist(7655745946, "Dunking Simulator [Gamepass]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Dunking%20Simulator%20Gamepass.lua")
 
 addscript(9938879862, "Current Game","Firefly Garden [Auto Collect]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Firefly%20Garden%20Auto%20Collect.lua")
+
+addscriptexist(9894044804, "Blade Simulator [GUI - Auto Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blade%20Simulator%20GUI%20%20Auto%20Farm.lua")
