@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 15:30:43"
+lastupdate = "GMT +1: 09.03.2023 15:30:48"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18688,3 +18688,5 @@ addscriptexist(70005410, "Blox Hunt [Token Farm]", "pulled from rbxscript.com", 
 addscriptexist(7817016260, "Bloxston Mystery [Display Name, Role ESP - Open Source]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Bloxston%20Mystery%20Display%20Name%20Role%20ESP%20%20Open%20Source.lua")
 
 addscriptexist(7305309231, "Taxi Boss [Simple GUI]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Taxi%20Boss%20Simple%20GUI.lua")
+
+addscriptexist(9049840490, "Sonic Speed Simulator [Farming GUI - Unlock All Worlds & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sonic%20Speed%20Simulator%20Farming%20GUI%20%20Unlock%20All%20Worlds%20%20More.lua")
