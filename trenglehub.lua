@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 14:47:50"
+lastupdate = "GMT +1: 09.03.2023 14:47:54"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -17608,3 +17608,5 @@ addscriptexist(9461798258, "Raise a Granny [Infinite Money]", "pulled from rbxsc
 addscriptexist(3956818381, "Ninja Legends [GUI - Auto Farm, Auto Sell & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ninja%20Legends%20GUI%20%20Auto%20Farm%20Auto%20Sell%20%20More.lua")
 
 addscriptexist(7791106063, "Furry Infection [Kill All, Kill Aura, AutoGerBat]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Furry%20Infection%20Kill%20All%20Kill%20Aura%20AutoGerBat.lua")
+
+addscript(7488014850, "Current Game","RAINBOWN PIECE [Free Legendary fruits]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RAINBOWN%20PIECE%20Free%20Legendary%20fruits.lua")
