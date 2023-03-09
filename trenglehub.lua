@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 15:40:24"
+lastupdate = "GMT +1: 09.03.2023 15:40:30"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18932,3 +18932,5 @@ addscriptexist(5023820864, "Trade Tower [PPHAX V2 GUI]", "pulled from rbxscript.
 addscript(6053107323, "Current Game","THE RAKE Noob Edition [Multihack GUI]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/THE%20RAKE%20Noob%20Edition%20Multihack%20GUI.lua")
 
 addscriptexist(6297822481, "Titan Warfare [Infinite Gas]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Titan%20Warfare%20Infinite%20Gas.lua")
+
+addscriptexist(4566572536, "Vehicle Legends [Speed Boost - Speed Boost Multiplier - Rainbow Car]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Vehicle%20Legends%20Speed%20Boost%20%20Speed%20Boost%20Multiplier%20%20Rainbow%20Car.lua")
