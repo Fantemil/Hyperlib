@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 13:46:26"
+lastupdate = "GMT +1: 09.03.2023 13:46:31"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -16026,3 +16026,5 @@ addscriptexist(893973440, "Flee the Facility [Auto Farm]", "pulled from rbxscrip
 addscript(9800759618, "Current Game","Amanda [Story] [Auto Revive]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Amanda%20Story%20Auto%20Revive.lua")
 
 addscriptexist(7180042682, "Military Tycoon [Collect All Batteries]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Military%20Tycoon%20Collect%20All%20Batteries.lua")
+
+addscriptexist(6356806222, "Lag Test 2021 [No lag]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Lag%20Test%20%20No%20lag.lua")
