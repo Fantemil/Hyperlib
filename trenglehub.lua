@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 15:44:57"
+lastupdate = "GMT +1: 09.03.2023 15:45:02"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -19046,3 +19046,5 @@ addscript(3210622855, "Current Game","Manner's Badge Walk [Get All Sky World Bad
 addscriptexist(6778844213, "Euphoria ragdoll testing [Coin Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Euphoria%20ragdoll%20testing%20Coin%20Farm.lua")
 
 addscript(1348945266, "Current Game","Ro-Boxing [Farming GUI - Open Sourse]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RoBoxing%20Farming%20GUI%20%20Open%20Sourse.lua")
+
+addscriptexist(30869879, "Stop It, Slender [God Mode]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Stop%20It%20Slender%20God%20Mode.lua")
