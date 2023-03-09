@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 15:02:41"
+lastupdate = "GMT +1: 09.03.2023 15:02:45"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -17986,3 +17986,5 @@ addscriptexist(6403373529, "Slap Battles [Auto Collect All & Kill Open Source]",
 addscriptexist(7167319176, "Chicago Remastered [Jewelry Store Auto Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Chicago%20Remastered%20Jewelry%20Store%20Auto%20Farm.lua")
 
 addscriptexist(4855457388, "Demonfall [Teleport To Player]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Demonfall%20Teleport%20To%20Player.lua")
+
+addscriptexist(8278412720, "Prison Life: Remastered [No ragdoll, No fall damage, No Escape]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Prison%20Life%20Remastered%20No%20ragdoll%20No%20fall%20damage%20No%20Escape.lua")
