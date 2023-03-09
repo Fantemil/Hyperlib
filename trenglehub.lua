@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 16:04:59"
+lastupdate = "GMT +1: 09.03.2023 16:05:03"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -19534,3 +19534,5 @@ addhub("DIE HUB [6 GAMES SUPPORTED]", "pulled from rbxscript.com", "https://raw.
 addhub("REAL KINGS HUB V1 [13 Games Supported]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/REAL%20KINGS%20HUB%20V%20%20Games%20Supported.lua")
 
 addscriptexist(7285447838, "Tokyo Saga [No Cooldowns For Everything - Show Hitbox - Infinite Hunger]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tokyo%20Saga%20No%20Cooldowns%20For%20Everything%20%20Show%20Hitbox%20%20Infinite%20Hunger.lua")
+
+addscriptexist(3102144307, "Anime Clickers Simulator [Auto Pick Up Scavenger Shards]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime%20Clickers%20Simulator%20Auto%20Pick%20Up%20Scavenger%20Shards.lua")
