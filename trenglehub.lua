@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 15:26:26"
+lastupdate = "GMT +1: 09.03.2023 15:26:30"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18580,3 +18580,5 @@ addscriptexist(6847090259, "Bulked Up [Auto Collect Trophies]", "pulled from rbx
 addscript(386329050, "Current Game","The Black Mesλ Incident [All guns]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/The%20Black%20Mes%CE%BB%20Incident%20All%20guns.lua")
 
 addscriptexist(9300407930, "Bot Clash [Fast Auto Farm - Auto Collect Coins - & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Bot%20Clash%20Fast%20Auto%20Farm%20%20Auto%20Collect%20Coins%20%20%20More.lua")
+
+addscriptexist(5233782396, "Creatures of Sonaria [Spam Bite Easter Boss]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Creatures%20of%20Sonaria%20Spam%20Bite%20Easter%20Boss.lua")
