@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Schsmci/craftwars-scripts/main/Retro%20Craftwars%20Classic%20AutoMine.txt", true))()
