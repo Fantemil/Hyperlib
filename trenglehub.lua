@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 14:37:55"
+lastupdate = "GMT +1: 09.03.2023 14:37:59"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -17360,3 +17360,5 @@ addscriptexist(443406476, "Project Lazarus [Zombies Kill All - Infinite Money]",
 addscriptexist(7791873535, "REALISTIC HOOD [Infiniti Cash]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/REALISTIC%20HOOD%20Infiniti%20Cash.lua")
 
 addscriptexist(8592863835, "Magnet Simulator 2 [Auto Money, Auto Sell, Auto Rebirth]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Magnet%20Simulator%20%20Auto%20Money%20Auto%20Sell%20Auto%20Rebirth.lua")
+
+addscriptexist(8737602449, "PLS DONATE [ESP]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PLS%20DONATE%20ESP.lua")
