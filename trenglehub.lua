@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 15:14:06"
+lastupdate = "GMT +1: 09.03.2023 15:14:12"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18270,3 +18270,5 @@ addscriptexist(142823291, "Murder Mystery 2 [The #1 Free GUI]", "pulled from rbx
 addscriptexist(9030362964, "Field Goal Simulator [Always Perfect Accuracy]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Field%20Goal%20Simulator%20Always%20Perfect%20Accuracy.lua")
 
 addscript(2693739238, "Current Game","THEIF LIFE Simulator [Get Best Loot]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/THEIF%20LIFE%20Simulator%20Get%20Best%20Loot.lua")
+
+addscriptexist(5154858502, "Murdererse vs. Sheriffs [Kill All]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Murdererse%20vs%20Sheriffs%20Kill%20All.lua")
