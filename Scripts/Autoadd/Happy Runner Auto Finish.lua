@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/pinkgithub1/happyrun-ragerun/main/loader.lua"))()
