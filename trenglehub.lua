@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 15:01:55"
+lastupdate = "GMT +1: 09.03.2023 15:02:00"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -17966,3 +17966,5 @@ addscriptexist(9292879820, "Grass Cutting Incremental [Stat Changer]", "pulled f
 addscriptexist(534701013, "The Labyrinth [Anti grass, Anti name, Xray]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/The%20Labyrinth%20Anti%20grass%20Anti%20name%20Xray.lua")
 
 addscriptexist(9049840490, "Sonic Speed Simulator [Auto Step, Auto rebirth, Auto Collect]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sonic%20Speed%20Simulator%20Auto%20Step%20Auto%20rebirth%20Auto%20Collect.lua")
+
+addscriptexist(659222129, "SwordBurst 2 [Kill Aura - Teleport - Walkspeed]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SwordBurst%20%20Kill%20Aura%20%20Teleport%20%20Walkspeed.lua")
