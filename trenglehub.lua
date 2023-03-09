@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 15:39:48"
+lastupdate = "GMT +1: 09.03.2023 15:39:52"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18916,3 +18916,5 @@ addscriptexist(662417684, "LUCKY BLOCKS Battlegrounds [Lucky Block, click tp, in
 addscriptexist(9049840490, "Sonic Speed Simulator [Get 15K Coins Every 6 Hours]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sonic%20Speed%20Simulator%20Get%20K%20Coins%20Every%20%20Hours.lua")
 
 addscriptexist(6878438976, "Developer Inc. [10K Cash In 30 Seconds]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Developer%20Inc%20K%20Cash%20In%20%20Seconds.lua")
+
+addscriptexist(386329050, "The Black Mesa Incident [Free Gamepass Gun]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/The%20Black%20Mesa%20Incident%20Free%20Gamepass%20Gun.lua")
