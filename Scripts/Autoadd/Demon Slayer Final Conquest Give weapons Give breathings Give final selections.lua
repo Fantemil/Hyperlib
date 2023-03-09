@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Legenda06/Demon-Slayer/main/DS",true))()
