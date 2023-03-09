@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 14:04:30"
+lastupdate = "GMT +1: 09.03.2023 14:04:34"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -16502,3 +16502,5 @@ addscriptexist(413424176, "Clone Tycoon 2 [Infinite Cash]", "pulled from rbxscri
 addscriptexist(263761432, "Horrific Housing [GUI - Destroy Meteor & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Horrific%20Housing%20GUI%20%20Destroy%20Meteor%20%20More.lua")
 
 addscriptexist(9601565001, "Car Crash System [Spawn Any Paid Car]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Car%20Crash%20System%20Spawn%20Any%20Paid%20Car.lua")
+
+addscript(9578901194, "Current Game","Woman Repellant [Women will not run away from you]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Woman%20Repellant%20Women%20will%20not%20run%20away%20from%20you.lua")
