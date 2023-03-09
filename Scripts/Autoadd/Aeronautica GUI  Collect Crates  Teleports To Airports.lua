@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/GreyCaat/AeronauticaGUI/main/AeronauticaGUI.txt", true))()
