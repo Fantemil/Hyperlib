@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 15:56:54"
+lastupdate = "GMT +1: 09.03.2023 15:56:58"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -19338,3 +19338,5 @@ addscript(2483973525, "Current Game","Demon Slayer: Burning Ashes [Auto Attack, 
 addscriptexist(8365905206, "Untitled Tag Game [Coin Auto-Collector]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Untitled%20Tag%20Game%20Coin%20AutoCollector.lua")
 
 addscriptexist(6783611814, "Build a Boat to Survive [Bagde]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Build%20a%20Boat%20to%20Survive%20Bagde.lua")
+
+addscriptexist(4499822233, "Star Wars Bounty Hunters Outer Rim [Kill All, Infinity Credits & Kill All Bounties]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Star%20Wars%20Bounty%20Hunters%20Outer%20Rim%20Kill%20All%20Infinity%20Credits%20%20Kill%20All%20Bounties.lua")
