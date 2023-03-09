@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 12:54:50"
+lastupdate = "GMT +1: 09.03.2023 12:54:56"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -15268,3 +15268,5 @@ addscriptexist(8204899140, "Football Fusion 2 [Inf Jump]", "pulled from rbxscrip
 addscriptexist(9970551995, "Touch The Grass Simulator! [Inf coins]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Touch%20The%20Grass%20Simulator%20Inf%20coins.lua")
 
 addscriptexist(10524502174, "One Punch Fighters [Auto Click]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/One%20Punch%20Fighters%20Auto%20Click.lua")
+
+addscriptexist(9872472334, "Evade [GodMode, Fullbright]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Evade%20GodMode%20Fullbright.lua")
