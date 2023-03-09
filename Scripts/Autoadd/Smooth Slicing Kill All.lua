@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://garfieldscripts.xyz/scripts/smooth-slicing.lua'))()
