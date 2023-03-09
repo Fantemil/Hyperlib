@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 15:14:01"
+lastupdate = "GMT +1: 09.03.2023 15:14:06"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18268,3 +18268,5 @@ addscript(8090572921, "Current Game","Multiverse Fighters Simulator [Auto Click 
 addscriptexist(142823291, "Murder Mystery 2 [The #1 Free GUI]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Murder%20Mystery%20%20The%20%20Free%20GUI.lua")
 
 addscriptexist(9030362964, "Field Goal Simulator [Always Perfect Accuracy]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Field%20Goal%20Simulator%20Always%20Perfect%20Accuracy.lua")
+
+addscript(2693739238, "Current Game","THEIF LIFE Simulator [Get Best Loot]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/THEIF%20LIFE%20Simulator%20Get%20Best%20Loot.lua")
