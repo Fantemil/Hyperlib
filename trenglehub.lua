@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 14:22:51"
+lastupdate = "GMT +1: 09.03.2023 14:22:56"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -16974,3 +16974,5 @@ addscriptexist(621129760, "KAT [GUI - Auto Farm, Btools & More!]", "pulled from 
 addscriptexist(537413528, "Build A Boat For Treasure [GUI - Auto Farm, Teleports & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Build%20A%20Boat%20For%20Treasure%20GUI%20%20Auto%20Farm%20Teleports%20%20More.lua")
 
 addscriptexist(9568982793, "Da Hood Battlegrounds [Silent Aimbot]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Da%20Hood%20Battlegrounds%20Silent%20Aimbot.lua")
+
+addscriptexist(4459593483, "FORCE [Teleport To Trinkets]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FORCE%20Teleport%20To%20Trinkets.lua")
