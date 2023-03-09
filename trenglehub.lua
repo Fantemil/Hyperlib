@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 16:07:03"
+lastupdate = "GMT +1: 09.03.2023 16:07:09"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -19582,3 +19582,5 @@ addscriptexist(4581966615, "Anomic [Money Generator - 50K Per Sec]", "pulled fro
 addscriptexist(6953291455, "Eating Simulator [Auto Eat]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Eating%20Simulator%20Auto%20Eat.lua")
 
 addscript(4375458071, "Current Game","Elemental Grind Game [Auto Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Elemental%20Grind%20Game%20Auto%20Farm.lua")
+
+addscriptexist(6284583030, "Pet Simulator X [BK GUI - Auto-Farm, Auto-Open & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pet%20Simulator%20X%20BK%20GUI%20%20AutoFarm%20AutoOpen%20%20More.lua")
