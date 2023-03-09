@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 14:43:57"
+lastupdate = "GMT +1: 09.03.2023 14:44:02"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -17512,3 +17512,5 @@ addscript(1365404657, "Current Game","Feather Family [Change your name into Anyt
 addscriptexist(659222129, "Swordburst 2 [Auto Farm, Kill Aura]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Swordburst%20%20Auto%20Farm%20Kill%20Aura.lua")
 
 addscriptexist(2202352383, "Super Power Training Simulator [Auto Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Super%20Power%20Training%20Simulator%20Auto%20Farm.lua")
+
+addscriptexist(292439477, "Phantom Forces [Unlock All Guns - Admin Guns]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Phantom%20Forces%20Unlock%20All%20Guns%20%20Admin%20Guns.lua")
