@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 14:51:08"
+lastupdate = "GMT +1: 09.03.2023 14:51:13"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -17696,3 +17696,5 @@ addscriptexist(8581609150, "Bloxhub - Mine Mania [Auto Mine]", "pulled from rbxs
 addscriptexist(5630129588, "Smash Legends [Auto Farm GUI]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Smash%20Legends%20Auto%20Farm%20GUI.lua")
 
 addscriptexist(7211666966, "Tower of Jump [Auto Win]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tower%20of%20Jump%20Auto%20Win.lua")
+
+addscriptexist(413424176, "Clone Tycoon 2 [Infinite Money]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Clone%20Tycoon%20%20Infinite%20Money.lua")
