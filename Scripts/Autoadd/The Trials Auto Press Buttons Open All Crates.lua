@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/R1zve/Roblox-Scripts/main/The%20Trials.lua"))()
