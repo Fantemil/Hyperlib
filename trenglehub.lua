@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 15:49:32"
+lastupdate = "GMT +1: 09.03.2023 15:49:37"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -19160,3 +19160,5 @@ addscriptexist(3233893879, "Bad Business [GUI - AIM, ESP, More!]", "pulled from 
 addscriptexist(1466995005, "RAGDOLL UNIVERSE [GUI - AIM, ESP, More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RAGDOLL%20UNIVERSE%20GUI%20%20AIM%20ESP%20More.lua")
 
 addscriptexist(2916899287, "Blackhawk Rescue Mission 5 [GUI - Aimbot, Esp & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blackhawk%20Rescue%20Mission%20%20GUI%20%20Aimbot%20Esp%20%20More.lua")
+
+addscriptexist(621129760, "K.A.T. II [Radio Bypass]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/KAT%20II%20Radio%20Bypass.lua")
