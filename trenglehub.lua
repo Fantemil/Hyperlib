@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 15:05:17"
+lastupdate = "GMT +1: 09.03.2023 15:05:21"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18048,3 +18048,5 @@ addscript(9664185826, "Current Game","Tate McRae Concert Experience [Collect All
 addscriptexist(9359839118, "Gas Station Simulator [Auto refuel, Auto cashier, Auto clean]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Gas%20Station%20Simulator%20Auto%20refuel%20Auto%20cashier%20Auto%20clean.lua")
 
 addscriptexist(8750997647, "Tap Legends X [AutoTap, AutoRebitrh, Autoclicker, Inf Jump]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tap%20Legends%20X%20AutoTap%20AutoRebitrh%20Autoclicker%20Inf%20Jump.lua")
+
+addscriptexist(1224212277, "Mad City GUI [XP Farm, AutoRob, Teleports, Server Crasher]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mad%20City%20GUI%20XP%20Farm%20AutoRob%20Teleports%20Server%20Crasher.lua")
