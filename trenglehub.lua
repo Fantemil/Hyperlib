@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 13:30:30"
+lastupdate = "GMT +1: 09.03.2023 13:30:34"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -15608,3 +15608,5 @@ addscriptexist(10319501620, "School of Sport [Unlock The Backpack]", "pulled fro
 addscriptexist(7180042682, "Military Tycoon [Spifire Auto Unlocker]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Military%20Tycoon%20Spifire%20Auto%20Unlocker.lua")
 
 addscriptexist(7952502098, "Impossible Glass Bridge Obby! [Change Glass Colour]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Impossible%20Glass%20Bridge%20Obby%20Change%20Glass%20Colour.lua")
+
+addscript(10118428339, "Current Game","FLOP [Auto Farm v2]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FLOP%20Auto%20Farm%20v.lua")
