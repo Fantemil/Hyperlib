@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 14:17:21"
+lastupdate = "GMT +1: 09.03.2023 14:17:25"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -16836,3 +16836,5 @@ addscriptexist(8151832473, "TheGhettoGame [GUI - Super OP - Infinite Money & Mor
 addscriptexist(8596411742, "Barb Blox Lane [Auto Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Barb%20Blox%20Lane%20Auto%20Farm.lua")
 
 addscriptexist(4282985734, "Combat Warriors [Auto Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Combat%20Warriors%20Auto%20Farm.lua")
+
+addscript(6558526079, "Current Game","Anime World Tower Defence [Mess Up Servers]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime%20World%20Tower%20Defence%20Mess%20Up%20Servers.lua")
