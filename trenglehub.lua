@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 15:15:16"
+lastupdate = "GMT +1: 09.03.2023 15:15:21"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18300,3 +18300,5 @@ addscriptexist(155382109, "Survive and kill the killers in Area 51 [GUI - Give A
 addscriptexist(2753915549, "Bloxfruits [HOHO HUB]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Bloxfruits%20HOHO%20HUB.lua")
 
 addscript(6297822481, "Current Game","Titan Warfare [The #1 Free GUI]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Titan%20Warfare%20The%20%20Free%20GUI.lua")
+
+addscriptexist(9049840490, "Sonic Speed Simulator [Auto Run, Auto rebirths, Unlok All Worlds]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sonic%20Speed%20Simulator%20Auto%20Run%20Auto%20rebirths%20Unlok%20All%20Worlds.lua")
