@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 13:28:37"
+lastupdate = "GMT +1: 09.03.2023 13:28:41"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -15562,3 +15562,5 @@ addscriptexist(4282985734, "Combat Warriors [Silent Aim - Open Source]", "pulled
 addscript(9677457651, "Current Game","Fall Experimental [Teleport To The End]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Fall%20Experimental%20Teleport%20To%20The%20End.lua")
 
 addscriptexist(4520749081, "King Legacy [GUI - Auto Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/King%20Legacy%20GUI%20%20Auto%20Farm.lua")
+
+addscriptexist(2534724415, "Emergency Response Liberty County [Silent Aim]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Emergency%20Response%20Liberty%20County%20Silent%20Aim.lua")
