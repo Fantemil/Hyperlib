@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 14:25:21"
+lastupdate = "GMT +1: 09.03.2023 14:25:26"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -17034,3 +17034,5 @@ addscriptexist(1224212277, "Mad City [GUI - Auto Rob, Teleports & More!]", "pull
 addhub("Roblox [Ewyzu Hub]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Roblox%20Ewyzu%20Hub.lua")
 
 addscript(9751569460, "Current Game","ARCH PIECE [Auto Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ARCH%20PIECE%20Auto%20Farm.lua")
+
+addscriptexist(9559194006, "social experiment [Guess the next game]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/social%20experiment%20Guess%20the%20next%20game.lua")
