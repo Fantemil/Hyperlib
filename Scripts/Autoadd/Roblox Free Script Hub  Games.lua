@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/InoriHub/Your-Weird/main/weird.lua"))()
