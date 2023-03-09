@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 13:35:28"
+lastupdate = "GMT +1: 09.03.2023 13:35:33"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -15740,3 +15740,5 @@ addscriptexist(537413528, "Build a Boat For Treasure [Auto Farming GUI]", "pulle
 addscriptexist(3956818381, "Ninja Legends [GUI - Auto Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ninja%20Legends%20GUI%20%20Auto%20Farm.lua")
 
 addhub("Galaxy Hub [Games 10]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Galaxy%20Hub%20Games%20.lua")
+
+addhub("RBXjus Hub [Games 13]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RBXjus%20Hub%20Games%20.lua")
