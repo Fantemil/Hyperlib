@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 13:25:15"
+lastupdate = "GMT +1: 09.03.2023 13:25:19"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -15476,3 +15476,5 @@ addscriptexist(9285238704, "Race Clicker speed [Anti-Cheat bypass]", "pulled fro
 addscriptexist(189707, "Natural Disasters Survival [Auto Disaster Detect, Free Ballon, remove fall Damage]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Natural%20Disasters%20Survival%20Auto%20Disaster%20Detect%20Free%20Ballon%20remove%20fall%20Damage.lua")
 
 addscriptexist(9498006165, "Tapping Simulator! [Auto Farm + Skip Shiny Stage]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tapping%20Simulator%20Auto%20Farm%20%20Skip%20Shiny%20Stage.lua")
+
+addscriptexist(23578803, "Hotel Elephant [Infinite Money]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Hotel%20Elephant%20Infinite%20Money.lua")
