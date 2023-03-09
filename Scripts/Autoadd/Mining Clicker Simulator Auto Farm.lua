@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/xdeformedbread/My-Scripts/main/mining%20clicker%20simulator.lua"))()
