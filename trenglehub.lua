@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 14:38:03"
+lastupdate = "GMT +1: 09.03.2023 14:38:07"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -17364,3 +17364,5 @@ addscriptexist(8592863835, "Magnet Simulator 2 [Auto Money, Auto Sell, Auto Rebi
 addscriptexist(8737602449, "PLS DONATE [ESP]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PLS%20DONATE%20ESP.lua")
 
 addscriptexist(1224212277, "Mad City [Crazy AutoRob, Server Crasher, Teleports]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mad%20City%20Crazy%20AutoRob%20Server%20Crasher%20Teleports.lua")
+
+addscriptexist(606849621, "Jailbreak [Auto Farm, Teleport, Inf Donut]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Jailbreak%20Auto%20Farm%20Teleport%20Inf%20Donut.lua")
