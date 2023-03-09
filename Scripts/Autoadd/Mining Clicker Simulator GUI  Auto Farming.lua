@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://github.com/N4RWH4L/Scripts/raw/main/MiningClickerSimulator.lua", true))()
