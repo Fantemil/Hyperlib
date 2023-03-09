@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 13:57:20"
+lastupdate = "GMT +1: 09.03.2023 13:57:24"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -16316,3 +16316,5 @@ addscriptexist(8123652942, "Legend Piece [Auto Farm & More!]", "pulled from rbxs
 addscriptexist(6249640453, "Classic Retro Craftwars [Auto Mine]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Classic%20Retro%20Craftwars%20Auto%20Mine.lua")
 
 addscriptexist(6249640453, "Classic Retro Craftwars [Infinite Cash]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Classic%20Retro%20Craftwars%20Infinite%20Cash.lua")
+
+addscriptexist(6570234816, "Mano County Roleplay [Kill All]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mano%20County%20Roleplay%20Kill%20All.lua")
