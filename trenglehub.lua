@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 15:50:02"
+lastupdate = "GMT +1: 09.03.2023 15:50:09"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -19172,3 +19172,5 @@ addscriptexist(6284583030, "Pet Simulator X [Mastery Farm]", "pulled from rbxscr
 addscript(7094672259, "Current Game","Criminal Russia RP [Auto Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Criminal%20Russia%20RP%20Auto%20Farm.lua")
 
 addscriptexist(2753915549, "Blox Fruits [GUI - Mob Farm, Inf Stam]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blox%20Fruits%20GUI%20%20Mob%20Farm%20Inf%20Stam.lua")
+
+addscriptexist(185655149, "Welcome To Bloxburg [Free Auto Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Welcome%20To%20Bloxburg%20Free%20Auto%20Farm.lua")
