@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 14:01:34"
+lastupdate = "GMT +1: 09.03.2023 14:01:38"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -16426,3 +16426,5 @@ addscriptexist(8540168650, "Stand Upright Rebooted [GUI - Sort Tools, Items Farm
 addscriptexist(4459593483, "FORCE [PRE-ALPHA] [Auto Parry & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FORCE%20PREALPHA%20Auto%20Parry%20%20More.lua")
 
 addscriptexist(2098516465, "Roblox High School 2 [Free Ugc Item]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Roblox%20High%20School%20%20Free%20Ugc%20Item.lua")
+
+addscriptexist(8123652942, "Legend Piece [GUI - Teleports, Esp & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Legend%20Piece%20GUI%20%20Teleports%20Esp%20%20More.lua")
