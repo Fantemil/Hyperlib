@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 15:38:01"
+lastupdate = "GMT +1: 09.03.2023 15:38:07"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18868,3 +18868,5 @@ addscriptexist(7371240697, "Giant Dancing Simulator [Collect Gems]", "pulled fro
 addscriptexist(4588604953, "Criminality [No Spread]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Criminality%20No%20Spread.lua")
 
 addscript(6960816467, "Current Game","Untitled Door Game 2 [Get All Badges]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Untitled%20Door%20Game%20%20Get%20All%20Badges.lua")
+
+addscriptexist(606849621, "Jailbreak [Instant Teleport To Criminal Base]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Jailbreak%20Instant%20Teleport%20To%20Criminal%20Base.lua")
