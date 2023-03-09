@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 15:22:01"
+lastupdate = "GMT +1: 09.03.2023 15:22:06"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18470,3 +18470,5 @@ addscriptexist(166986752, "Plane Crazy [Copy Build]", "pulled from rbxscript.com
 addscriptexist(6299805723, "Anime Fighters Simulator [Auto Farm, Auto Fuse]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime%20Fighters%20Simulator%20Auto%20Farm%20Auto%20Fuse.lua")
 
 addscriptexist(2629642516, "Bitcoin Miner [Auto Sell, Auto Skip, Auto Claim crates]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Bitcoin%20Miner%20Auto%20Sell%20Auto%20Skip%20Auto%20Claim%20crates.lua")
+
+addscriptexist(1962086868, "Tower of Hell [God Mode & More! - Free GUI]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tower%20of%20Hell%20God%20Mode%20%20More%20%20Free%20GUI.lua")
