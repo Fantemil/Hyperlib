@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 15:13:43"
+lastupdate = "GMT +1: 09.03.2023 15:13:48"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18260,3 +18260,5 @@ addscriptexist(35397735, "Scuba Diving At Quill Lake [Auto Sell]", "pulled from 
 addscriptexist(5108587039, "Palm Ridge Beta [Auto Farm – Open Sourse]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Palm%20Ridge%20Beta%20Auto%20Farm%20%20Open%20Sourse.lua")
 
 addscriptexist(5783581, "TPS Ultimate Soccer [Shoot, Auto Goal Keep & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TPS%20Ultimate%20Soccer%20Shoot%20Auto%20Goal%20Keep%20%20More.lua")
+
+addscriptexist(9344944754, "Hunter x Omen [Auto Climb Training]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Hunter%20x%20Omen%20Auto%20Climb%20Training.lua")
