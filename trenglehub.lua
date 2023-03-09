@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 13:32:18"
+lastupdate = "GMT +1: 09.03.2023 13:32:24"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -15656,3 +15656,5 @@ addscriptexist(7127407851, "Attack on Titan: Evolution [Inf Gas, Inf Jump, Speed
 addscriptexist(10184360875, "Pet&Fishing Simulator [inf Money]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PetFishing%20Simulator%20inf%20Money.lua")
 
 addscriptexist(10108131074, "Mow The Lawn [Auto Now, Auto Fill Tank, Auto open Egg]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mow%20The%20Lawn%20Auto%20Now%20Auto%20Fill%20Tank%20Auto%20open%20Egg.lua")
+
+addscriptexist(9976239895, "Gumball Factory Tycoon [Auto obby]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Gumball%20Factory%20Tycoon%20Auto%20obby.lua")
