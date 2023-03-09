@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 15:24:24"
+lastupdate = "GMT +1: 09.03.2023 15:24:28"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18526,3 +18526,5 @@ addscriptexist(6772424226, "2 Player Millionaire Tycoon [Auto Buy & More!]", "pu
 addscriptexist(4566572536, "Vehicle Legends [Race Auto Farm Free]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Vehicle%20Legends%20Race%20Auto%20Farm%20Free.lua")
 
 addscriptexist(6938803436, "Anime Dimensions Simulator [Auto Farm - Auto Skills & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime%20Dimensions%20Simulator%20Auto%20Farm%20%20Auto%20Skills%20%20More.lua")
+
+addscriptexist(8705534359, "Shopping Cart Simulator [GUI - Infinite Coins & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Shopping%20Cart%20Simulator%20GUI%20%20Infinite%20Coins%20%20More.lua")
