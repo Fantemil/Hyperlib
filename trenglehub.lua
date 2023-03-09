@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 14:50:10"
+lastupdate = "GMT +1: 09.03.2023 14:50:15"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -17670,3 +17670,5 @@ addscript(2423436897, "Current Game","Witching Hour [Even Better Nail Farm]", "p
 addscriptexist(2788229376, "Da Hood [Cash Cat Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Da%20Hood%20Cash%20Cat%20Farm.lua")
 
 addscriptexist(3956818381, "Ninja Legends [Auto Farm, Auto Buy All - GUI]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ninja%20Legends%20Auto%20Farm%20Auto%20Buy%20All%20%20GUI.lua")
+
+addscriptexist(23578803, "Hotel Elephant [GUI - Giver Cash]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Hotel%20Elephant%20GUI%20%20Giver%20Cash.lua")
