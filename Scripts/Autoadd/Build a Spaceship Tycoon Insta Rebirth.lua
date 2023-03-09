@@ -1,0 +1,1 @@
+game:GetService("ReplicatedStorage").Remotes.Rebirth:FireServer()
