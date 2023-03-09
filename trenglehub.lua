@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 14:17:05"
+lastupdate = "GMT +1: 09.03.2023 14:17:09"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -16828,3 +16828,5 @@ addscript(8110845141, "Current Game","POOP WITH FRIENDS [GUI - Auto Farming]", "
 addscriptexist(537413528, "Build A Boat For Treasure [GUI - Auto Quest, Auto Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Build%20A%20Boat%20For%20Treasure%20GUI%20%20Auto%20Quest%20Auto%20Farm.lua")
 
 addscriptexist(6403373529, "Slap Battles Gui [GUI - Slap Farm, Teleports]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Slap%20Battles%20Gui%20GUI%20%20Slap%20Farm%20Teleports.lua")
+
+addscript(9359839118, "Current Game","Gas Station Simulator [Break The Whole Game]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Gas%20Station%20Simulator%20Break%20The%20Whole%20Game.lua")
