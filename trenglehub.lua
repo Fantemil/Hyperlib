@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 15:53:57"
+lastupdate = "GMT +1: 09.03.2023 15:54:02"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -19268,3 +19268,5 @@ addscriptexist(735030788, "Royale High [Egg Hunt]", "pulled from rbxscript.com",
 addscriptexist(6403373529, "Slap Battles [Slap Aura]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Slap%20Battles%20Slap%20Aura.lua")
 
 addscriptexist(6170705260, "Blending Simulator 2 [Auto Farm, Arena Tp, Tp home]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blending%20Simulator%20%20Auto%20Farm%20Arena%20Tp%20Tp%20home.lua")
+
+addscriptexist(6998582502, "Dungeon Crusaders [Kill Aura, Fps Boost, WalkSpeed]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Dungeon%20Crusaders%20Kill%20Aura%20Fps%20Boost%20WalkSpeed.lua")
