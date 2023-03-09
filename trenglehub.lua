@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 15:27:01"
+lastupdate = "GMT +1: 09.03.2023 15:27:06"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18594,3 +18594,5 @@ addscript(7665621058, "Current Game","Destroyerman Simulator [Get All Gamepasses
 addscriptexist(5712833750, "Animal Simulator [Infinite XP, Levels]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Animal%20Simulator%20Infinite%20XP%20Levels.lua")
 
 addscriptexist(5712833750, "Animal Simulator [Player Kill Aura - NPC Kill Aura]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Animal%20Simulator%20Player%20Kill%20Aura%20%20NPC%20Kill%20Aura.lua")
+
+addscriptexist(9346039031, "My Hello Kitty Cafe [Roblox Event Auto Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/My%20Hello%20Kitty%20Cafe%20Roblox%20Event%20Auto%20Farm.lua")
