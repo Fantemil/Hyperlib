@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 16:03:54"
+lastupdate = "GMT +1: 09.03.2023 16:03:59"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -19508,3 +19508,5 @@ addscriptexist(4111023553, "Deepwoken [Sunshine V3 - Updated - OP]", "pulled fro
 addscriptexist(6297822481, "Titan Warfare [Enhanced Damage]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Titan%20Warfare%20Enhanced%20Damage.lua")
 
 addscriptexist(4580204640, "Survive the Killer [Auto Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Survive%20the%20Killer%20Auto%20Farm.lua")
+
+addscriptexist(4996049426, "All Star Tower Defense [Auto Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/All%20Star%20Tower%20Defense%20Auto%20Farm.lua")
