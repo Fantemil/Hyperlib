@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 14:24:00"
+lastupdate = "GMT +1: 09.03.2023 14:24:06"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -17000,3 +17000,5 @@ addscript(6143963763, "Current Game","Universal [No Stun / No Slow]", "pulled fr
 addscriptexist(6441847031, "CHAOS [Kill Player]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CHAOS%20Kill%20Player.lua")
 
 addscript(455366377, "Current Game","The Streets [Large Decals]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/The%20Streets%20Large%20Decals.lua")
+
+addscriptexist(35397735, "Scuba Diving at Quill Lake [Inf Money]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Scuba%20Diving%20at%20Quill%20Lake%20Inf%20Money.lua")
