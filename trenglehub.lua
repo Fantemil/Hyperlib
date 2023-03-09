@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 13:51:50"
+lastupdate = "GMT +1: 09.03.2023 13:51:55"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -16170,3 +16170,5 @@ addscriptexist(6403373529, "Slap Battles [Kill Aura - No Cooldown]", "pulled fro
 addscriptexist(8203181639, "Syrian Shenanigans [give yourself tons of frag grenades]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Syrian%20Shenanigans%20give%20yourself%20tons%20of%20frag%20grenades.lua")
 
 addscriptexist(8203181639, "Syrian Shenanigans [Slow down the sniper scope]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Syrian%20Shenanigans%20Slow%20down%20the%20sniper%20scope.lua")
+
+addscriptexist(8203181639, "Syrian Shenanigans [Fixing cars/tanks]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Syrian%20Shenanigans%20Fixing%20carstanks.lua")
