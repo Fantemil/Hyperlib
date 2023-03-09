@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 14:22:07"
+lastupdate = "GMT +1: 09.03.2023 14:22:11"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -16954,3 +16954,5 @@ addscriptexist(7336302630, "Project Delta [Anti Drown And See Underwater]", "pul
 addscriptexist(9017974931, "Valoblox [Kill All]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Valoblox%20Kill%20All.lua")
 
 addscript(5991163185, "Current Game","Spray Paint [Falseban Players Method]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Spray%20Paint%20Falseban%20Players%20Method.lua")
+
+addscriptexist(2753915549, "Blox Fruits [New Auto Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blox%20Fruits%20New%20Auto%20Farm.lua")
