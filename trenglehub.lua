@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 12:13:09"
+lastupdate = "GMT +1: 09.03.2023 12:13:27"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -15124,3 +15124,4 @@ addscriptuniversal("Universal: Animations", "pulled from rbxscript.com", "https:
 addscriptexist(12172698927, "Sword Race: Auto Claim Reward, Auto Swing, Auto Rebirth", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sword%20Race%20Auto%20Claim%20Reward%20Auto%20Swing%20Auto%20Rebirth.lua")
 
 addscriptexist(11118216071, "New OP Pet Trading Card Simulator GUI", "pulled from rscripts", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/New%20OP%20Pet%20Trading%20Card%20Simulator%20GUI.lua")
+addscriptexist(4872321990, "Item drop Notifier Webhook for ISLANDS", "pulled from rscripts", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Item%20drop%20Notifier%20Webhook%20for%20ISLANDS.lua")
