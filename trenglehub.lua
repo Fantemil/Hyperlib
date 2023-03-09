@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 15:56:08"
+lastupdate = "GMT +1: 09.03.2023 15:56:13"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -19320,3 +19320,5 @@ addhub("Zephyr X - Free HUB [20 Games]", "pulled from rbxscript.com", "https://r
 addhub("Roblox – Free UI Library – MoonLib", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Roblox%20%20Free%20UI%20Library%20%20MoonLib.lua")
 
 addscript(6821114498, "Current Game","Demon Slayer: Final Conquest [Give weapons, Give breathings, Give final selections]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Demon%20Slayer%20Final%20Conquest%20Give%20weapons%20Give%20breathings%20Give%20final%20selections.lua")
+
+addscriptexist(6998582502, "Dungeon Crusaders [Auto Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Dungeon%20Crusaders%20Auto%20Farm.lua")
