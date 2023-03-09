@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 14:54:11"
+lastupdate = "GMT +1: 09.03.2023 14:54:16"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -17772,3 +17772,5 @@ addscript(4087265156, "Current Game","VERTIGO [No raggdol, No Fall damage, WalkS
 addscript(5134682719, "Current Game","Death Note [Find Kira Easily]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Death%20Note%20Find%20Kira%20Easily.lua")
 
 addscriptexist(8581609150, "Bloxhub Mine Mania [Auto Sell]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Bloxhub%20Mine%20Mania%20Auto%20Sell.lua")
+
+addscriptexist(8357510970, "Anime Punching Simulator [GUI - Auto Click, Auto Buy & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime%20Punching%20Simulator%20GUI%20%20Auto%20Click%20Auto%20Buy%20%20More.lua")
