@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 15:59:47"
+lastupdate = "GMT +1: 09.03.2023 15:59:52"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -19414,3 +19414,5 @@ addscriptexist(537413528, "Build A Boat For Treasure [Auto Farm, God Mode Water,
 addscriptexist(8897454112, "Pet Salon Tycoon [Inf Money]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pet%20Salon%20Tycoon%20Inf%20Money.lua")
 
 addscriptexist(4042427666, "Anime Fighting Simulator [Auto Farm GUI]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime%20Fighting%20Simulator%20Auto%20Farm%20GUI.lua")
+
+addscript(5171093784, "Current Game","Don’t Press The Button 4 [Auto Win – Auto Press – Auto Coins]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Dont%20Press%20The%20Button%20%20Auto%20Win%20%20Auto%20Press%20%20Auto%20Coins.lua")
