@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 14:14:35"
+lastupdate = "GMT +1: 09.03.2023 14:14:39"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -16762,3 +16762,5 @@ addscriptexist(2413927524, "The RAKE REMASTERED [GUI - No Stamina, Afk Bot & Mor
 addscript(9463737803, "Current Game","WimbleWorld [Xp Farm - Badges & Get UGC Item]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/WimbleWorld%20Xp%20Farm%20%20Badges%20%20Get%20UGC%20Item.lua")
 
 addscriptexist(740581508, "Entry Point [Npc Esp]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Entry%20Point%20Npc%20Esp.lua")
+
+addscript(2639416308, "Current Game","Ace Attorney Spam [Spam Custom Massages]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ace%20Attorney%20Spam%20Spam%20Custom%20Massages.lua")
