@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 14:10:59"
+lastupdate = "GMT +1: 09.03.2023 14:11:05"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -16666,3 +16666,5 @@ addscriptexist(9568982793, "Da Hood Battlegrounds [Anti Cheat Bypass]", "pulled 
 addscriptexist(8303902695, "Pet Posse [Spam Coins]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pet%20Posse%20Spam%20Coins.lua")
 
 addscriptexist(8303902695, "Pet Posse [Remove Egg Animations]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pet%20Posse%20Remove%20Egg%20Animations.lua")
+
+addscriptexist(9281034297, "Goal Kick Simulator [Auto Time]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Goal%20Kick%20Simulator%20Auto%20Time.lua")
