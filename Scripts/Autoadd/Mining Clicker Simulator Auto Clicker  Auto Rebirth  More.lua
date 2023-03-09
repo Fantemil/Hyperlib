@@ -1,0 +1,1 @@
+loadstring(game:HttpGet(("https://raw.githubusercontent.com/Zet-a/RobIox/main/MiningClickerSim.lua")))()
