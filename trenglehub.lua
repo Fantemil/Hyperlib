@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 14:50:47"
+lastupdate = "GMT +1: 09.03.2023 14:50:51"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -17686,3 +17686,5 @@ addscriptexist(9551640993, "Mining Simulator 2 [Chests Farm Server Hop]", "pulle
 addscript(8581609150, "Current Game","Bloxhub Mine Mania [Auto mine]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Bloxhub%20Mine%20Mania%20Auto%20mine.lua")
 
 addscriptexist(286090429, "Arsenal [Esp]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Arsenal%20Esp.lua")
+
+addscriptexist(9072679513, "Anime Impact Simulator [Auto Mana & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime%20Impact%20Simulator%20Auto%20Mana%20%20More.lua")
