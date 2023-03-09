@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 12:58:52"
+lastupdate = "GMT +1: 09.03.2023 12:58:56"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -15362,3 +15362,5 @@ addscript(3234050617, "Current Game","Left 2 Die [Infinite Ammo]", "pulled from 
 addscriptexist(621129760, "Knife Ability Test [GodMode]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Knife%20Ability%20Test%20GodMode.lua")
 
 addscriptexist(340227283, "RoBowling [Aimbot & Hitbox Extender]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RoBowling%20Aimbot%20%20Hitbox%20Extender.lua")
+
+addscript(6950767274, "Current Game","Fighter's Era [Roadwork Load]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Fighters%20Era%20Roadwork%20Load.lua")
