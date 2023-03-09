@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 12:41:39"
+lastupdate = "GMT +1: 09.03.2023 12:41:43"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -15146,3 +15146,5 @@ addscriptexist(9551640993, "Mining Simulator 2 [Auto Fish All Areas]", "pulled f
 addscriptexist(5201039691, "Tatakai V.2 [Money Farm - Auto Train & Much More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tatakai%20V%20Money%20Farm%20%20Auto%20Train%20%20Much%20More.lua")
 
 addscriptexist(10192063645, "Thy Hood [Server Crash]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Thy%20Hood%20Server%20Crash.lua")
+
+addscriptexist(137885680, "Zombie Rush [GUI - God Mode - Rage Mode]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Zombie%20Rush%20GUI%20%20God%20Mode%20%20Rage%20Mode.lua")
