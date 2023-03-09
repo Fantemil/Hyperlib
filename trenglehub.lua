@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 14:44:53"
+lastupdate = "GMT +1: 09.03.2023 14:44:58"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -17536,3 +17536,5 @@ addscriptexist(3095204897, "Isle [8 Auto Hack - Auto Guess]", "pulled from rbxsc
 addscript(9388793159, "Current Game","Coruscant Roleplay [Silent AIM]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Coruscant%20Roleplay%20Silent%20AIM.lua")
 
 addscriptexist(1365404657, "Feather Family [Unlock All Bird - VIB Gamepass]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Feather%20Family%20Unlock%20All%20Bird%20%20VIB%20Gamepass.lua")
+
+addscriptexist(1758401491, "Public Bathroom Simulator [Spam Sounds - FE Trolling]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Public%20Bathroom%20Simulator%20Spam%20Sounds%20%20FE%20Trolling.lua")
