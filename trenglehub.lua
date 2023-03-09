@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 14:59:30"
+lastupdate = "GMT +1: 09.03.2023 14:59:34"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -17908,3 +17908,5 @@ addscript(8005620792, "Current Game","Roblox Casino [Infinite Money]", "pulled f
 addscriptexist(4087265156, "VERTIGO [Mini GUI - No Fall Damage]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/VERTIGO%20Mini%20GUI%20%20No%20Fall%20Damage.lua")
 
 addscript(7665856814, "Current Game","Insomniac World Party [Auto Mine]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Insomniac%20World%20Party%20Auto%20Mine.lua")
+
+addscriptexist(2262441883, "Electric State DarkRP [God Mode - Open Source]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Electric%20State%20DarkRP%20God%20Mode%20%20Open%20Source.lua")
