@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 14:57:41"
+lastupdate = "GMT +1: 09.03.2023 14:57:45"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -17864,3 +17864,5 @@ addscriptexist(7622046644, "Monster Ghoul [Instant Kill]", "pulled from rbxscrip
 addscriptexist(9488143445, "Raise A Bloppa [Auto Collect Money, Add Money, Infinite Money]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Raise%20A%20Bloppa%20Auto%20Collect%20Money%20Add%20Money%20Infinite%20Money.lua")
 
 addscriptexist(9508087919, "Apeirophobia [ESP Exit]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Apeirophobia%20ESP%20Exit.lua")
+
+addscriptexist(6610021055, "Noob Army Tycoon [Auto Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Noob%20Army%20Tycoon%20Auto%20Farm.lua")
