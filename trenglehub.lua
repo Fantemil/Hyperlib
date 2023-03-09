@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 14:07:59"
+lastupdate = "GMT +1: 09.03.2023 14:08:04"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -16592,3 +16592,5 @@ addscriptexist(5130598377, "A Universal Time [Items Farm - God Mode & More!]", "
 addscriptexist(8876694280, "Strong Simulator X [Auto Farm, Auto Rebirth, Hide NameTag]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Strong%20Simulator%20X%20Auto%20Farm%20Auto%20Rebirth%20Hide%20NameTag.lua")
 
 addscriptexist(8303902695, "Pet Posse [Spam Coin]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pet%20Posse%20Spam%20Coin.lua")
+
+addscriptexist(35397735, "Scuba Diving at Quill Lake [Inf Gold]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Scuba%20Diving%20at%20Quill%20Lake%20Inf%20Gold.lua")
