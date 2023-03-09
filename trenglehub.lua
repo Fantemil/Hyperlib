@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 15:15:08"
+lastupdate = "GMT +1: 09.03.2023 15:15:12"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18296,3 +18296,5 @@ addscriptexist(9049840490, "Sonic Speed Simulator [Auto Open Chests]", "pulled f
 addscriptexist(9530846958, "Epsilon 2 [GUI V1 - Auto Trinket & More]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Epsilon%20%20GUI%20V%20%20Auto%20Trinket%20%20More.lua")
 
 addscriptexist(155382109, "Survive and kill the killers in Area 51 [GUI - Give All Guns]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Survive%20and%20kill%20the%20killers%20in%20Area%20%20GUI%20%20Give%20All%20Guns.lua")
+
+addscriptexist(2753915549, "Bloxfruits [HOHO HUB]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Bloxfruits%20HOHO%20HUB.lua")
