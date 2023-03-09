@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 14:08:22"
+lastupdate = "GMT +1: 09.03.2023 14:08:29"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -16602,3 +16602,5 @@ addscriptexist(863266079, "Apocalypse Rising 2 [Teleport To Player]", "pulled fr
 addscriptexist(7026949294, "Sword Simulator [AutoFarm - Infinite Coins - More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sword%20Simulator%20AutoFarm%20%20Infinite%20Coins%20%20More.lua")
 
 addscriptexist(9598746251, "Home Run Simulator [Auto Time]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Home%20Run%20Simulator%20Auto%20Time.lua")
+
+addscriptexist(4588604953, "Criminality [GUI - Aimbot, Esp & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Criminality%20GUI%20%20Aimbot%20Esp%20%20More.lua")
