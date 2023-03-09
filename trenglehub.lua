@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 15:58:58"
+lastupdate = "GMT +1: 09.03.2023 15:59:02"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -19394,3 +19394,5 @@ addscriptexist(8396586868, "A 0ne Piece Game [Auto Farm]", "pulled from rbxscrip
 addscript(8950979693, "Current Game","Anime Rebirth Simulator [Auto Click, Auto Attack Npc, Suto Buy Dispenser]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime%20Rebirth%20Simulator%20Auto%20Click%20Auto%20Attack%20Npc%20Suto%20Buy%20Dispenser.lua")
 
 addscriptexist(920587237, "Adopt Me [Gingerbread Man Auto Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Adopt%20Me%20Gingerbread%20Man%20Auto%20Farm.lua")
+
+addscriptexist(142823291, "Murder Mystery 2 [Auto Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Murder%20Mystery%20%20Auto%20Farm.lua")
