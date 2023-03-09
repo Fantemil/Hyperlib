@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 14:28:22"
+lastupdate = "GMT +1: 09.03.2023 14:28:26"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -17114,3 +17114,5 @@ addscriptexist(6915291292, "Bakery Simulator [Collect ingredients, Fill Ovens, S
 addscriptexist(2809202155, "Your Bizarre Adventure [Auto Farm Items - Auto Quest - And More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Your%20Bizarre%20Adventure%20Auto%20Farm%20Items%20%20Auto%20Quest%20%20And%20More.lua")
 
 addscriptexist(4991214437, "town [Kill All - ESP - Chams & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/town%20Kill%20All%20%20ESP%20%20Chams%20%20More.lua")
+
+addscriptexist(1962086868, "Tower of Hell [TP To End & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tower%20of%20Hell%20TP%20To%20End%20%20More.lua")
