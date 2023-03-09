@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 14:50:38"
+lastupdate = "GMT +1: 09.03.2023 14:50:42"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -17682,3 +17682,5 @@ addscript(5063122755, "Current Game","Overlook RP [Auto Farm]", "pulled from rbx
 addscriptexist(4733278992, "Sword Blox Online Rebirth [Auto Farm GUI - Kill Aura]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sword%20Blox%20Online%20Rebirth%20Auto%20Farm%20GUI%20%20Kill%20Aura.lua")
 
 addscriptexist(9551640993, "Mining Simulator 2 [Chests Farm Server Hop]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mining%20Simulator%20%20Chests%20Farm%20Server%20Hop.lua")
+
+addscript(8581609150, "Current Game","Bloxhub Mine Mania [Auto mine]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Bloxhub%20Mine%20Mania%20Auto%20mine.lua")
