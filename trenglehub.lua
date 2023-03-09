@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 14:55:58"
+lastupdate = "GMT +1: 09.03.2023 14:56:02"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -17820,3 +17820,5 @@ addscriptexist(680750021, "Case Clicker [GUI - Auto Farm, Auto Upgrade]", "pulle
 addscript(8524876576, "Current Game","Glider Simulator [Auto Collect Coins]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Glider%20Simulator%20Auto%20Collect%20Coins.lua")
 
 addscript(9488143445, "Current Game","Raise A Bloppa [Auto Farm GUI]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Raise%20A%20Bloppa%20Auto%20Farm%20GUI.lua")
+
+addscriptexist(189707, "Natural Disaster Survival [Part Flinger]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Natural%20Disaster%20Survival%20Part%20Flinger.lua")
