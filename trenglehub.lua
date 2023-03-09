@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 13:54:40"
+lastupdate = "GMT +1: 09.03.2023 13:54:44"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -16244,3 +16244,5 @@ addscriptexist(6961824067, "Fling Things and People [Anti Grab & More!]", "pulle
 addscriptexist(5993942214, "Rush Point [Tracers]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Rush%20Point%20Tracers.lua")
 
 addscriptexist(5993942214, "Rush Point [Chams]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Rush%20Point%20Chams.lua")
+
+addscriptexist(8473958692, "The Trials [Auto Press Buttons, Open All Crates]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/The%20Trials%20Auto%20Press%20Buttons%20Open%20All%20Crates.lua")
