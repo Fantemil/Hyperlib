@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 12:50:13"
+lastupdate = "GMT +1: 09.03.2023 12:50:19"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -15150,3 +15150,5 @@ addscriptexist(10192063645, "Thy Hood [Server Crash]", "pulled from rbxscript.co
 addscriptexist(137885680, "Zombie Rush [GUI - God Mode - Rage Mode]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Zombie%20Rush%20GUI%20%20God%20Mode%20%20Rage%20Mode.lua")
 
 addscriptexist(2653064683, "Word Bomb [Auto Guess]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Word%20Bomb%20Auto%20Guess.lua")
+
+addscriptexist(9285238704, "Race Clicker [Auto Win Race]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Race%20Clicker%20Auto%20Win%20Race.lua")
