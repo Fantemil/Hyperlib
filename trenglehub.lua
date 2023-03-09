@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 15:25:45"
+lastupdate = "GMT +1: 09.03.2023 15:25:50"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18562,3 +18562,5 @@ addscriptexist(4588604953, "Criminality [Elite V3 Dev Build Leak]", "pulled from
 addscriptexist(4566572536, "Free Universal Vehicle GUI", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Free%20Universal%20Vehicle%20GUI.lua")
 
 addscript(8713127334, "Current Game","Redbox 2 [Kill All]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Redbox%20%20Kill%20All.lua")
+
+addscriptexist(8874040270, "SKYWARS PRO 2 [Auto Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SKYWARS%20PRO%20%20Auto%20Farm.lua")
