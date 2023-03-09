@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 14:19:44"
+lastupdate = "GMT +1: 09.03.2023 14:19:48"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -16894,3 +16894,5 @@ addscript(5136715979, "Current Game","Cave Simulator [Inf ores]", "pulled from r
 addscriptexist(4459593483, "FORCE [PRE-ALPHA] [God Mode - Anti Bad]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FORCE%20PREALPHA%20God%20Mode%20%20Anti%20Bad.lua")
 
 addscriptexist(2809202155, "Your Bizarre Adventure [Anti Teleport Bypass]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Your%20Bizarre%20Adventure%20Anti%20Teleport%20Bypass.lua")
+
+addscript(5617626326, "Current Game","Blood Samurai 2 [Auto Farm Cash]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blood%20Samurai%20%20Auto%20Farm%20Cash.lua")
