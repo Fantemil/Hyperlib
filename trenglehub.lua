@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 15:02:05"
+lastupdate = "GMT +1: 09.03.2023 15:02:10"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -17970,3 +17970,5 @@ addscriptexist(9049840490, "Sonic Speed Simulator [Auto Step, Auto rebirth, Auto
 addscriptexist(659222129, "SwordBurst 2 [Kill Aura - Teleport - Walkspeed]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SwordBurst%20%20Kill%20Aura%20%20Teleport%20%20Walkspeed.lua")
 
 addscriptexist(2965881766, "Brawl-Blox [Infinite Trophies]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BrawlBlox%20Infinite%20Trophies.lua")
+
+addscriptexist(6878438976, "Developer Inc. [Infinite Money - Teleports]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Developer%20Inc%20Infinite%20Money%20%20Teleports.lua")
