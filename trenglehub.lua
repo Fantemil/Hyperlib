@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 15:22:58"
+lastupdate = "GMT +1: 09.03.2023 15:23:03"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18490,3 +18490,5 @@ addscriptexist(9041110505, "Unlimited Upgrade Simulator [Inf Gem]", "pulled from
 addscriptexist(9041110505, "Unlimited Upgrade Simulator [Inf Money]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Unlimited%20Upgrade%20Simulator%20Inf%20Money.lua")
 
 addscriptexist(8403541179, "Blood Engine II: Slash Mania [Kill All]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blood%20Engine%20II%20Slash%20Mania%20Kill%20All.lua")
+
+addscriptexist(8747402506, "Prop Hunt [No Clip - ESP & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Prop%20Hunt%20No%20Clip%20%20ESP%20%20More.lua")
