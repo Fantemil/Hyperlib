@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 15:18:35"
+lastupdate = "GMT +1: 09.03.2023 15:18:39"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18384,3 +18384,5 @@ addscriptexist(9297410766, "Crossbar Challenge Simulator [Good goal]", "pulled f
 addscriptexist(6604417568, "Minerscave 1.5 [Kill Aura, Huker, inf jump]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Minerscave%20%20Kill%20Aura%20Huker%20inf%20jump.lua")
 
 addscript(8492553855, "Current Game","Project Upright [Item Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Project%20Upright%20Item%20Farm.lua")
+
+addscriptexist(133815151, "The Final Stand 2 [Melee Aura]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/The%20Final%20Stand%20%20Melee%20Aura.lua")
