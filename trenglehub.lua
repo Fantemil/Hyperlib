@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 14:26:45"
+lastupdate = "GMT +1: 09.03.2023 14:26:49"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -17072,3 +17072,5 @@ addscriptexist(9786213478, "Treat Simulator [Isntant bite]", "pulled from rbxscr
 addscriptexist(9017974931, "Valoblox [Silent Aim, Kill All, Infinite Ammo]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Valoblox%20Silent%20Aim%20Kill%20All%20Infinite%20Ammo.lua")
 
 addscript(5646604884, "Current Game","Crimson Craftwars [Insta Kill All, God Mode, Fastest Auto-Mine]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Crimson%20Craftwars%20Insta%20Kill%20All%20God%20Mode%20Fastest%20AutoMine.lua")
+
+addscriptexist(9551640993, "Mining Simulator 2 [Name Egg, Name Pet, Auto Deletes effect]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mining%20Simulator%20%20Name%20Egg%20Name%20Pet%20Auto%20Deletes%20effect.lua")
