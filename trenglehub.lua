@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 14:22:15"
+lastupdate = "GMT +1: 09.03.2023 14:22:19"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -16958,3 +16958,5 @@ addscript(5991163185, "Current Game","Spray Paint [Falseban Players Method]", "p
 addscriptexist(2753915549, "Blox Fruits [New Auto Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blox%20Fruits%20New%20Auto%20Farm.lua")
 
 addscript(9292879820, "Current Game","Grass Cutting Simulator [Free Stats and Currency]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Grass%20Cutting%20Simulator%20Free%20Stats%20and%20Currency.lua")
+
+addhub("Scum Hub [Mining Simulator 2, Pet Simulator X and many other games]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Scum%20Hub%20Mining%20Simulator%20%20Pet%20Simulator%20X%20and%20many%20other%20games.lua")
