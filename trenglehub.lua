@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 15:51:44"
+lastupdate = "GMT +1: 09.03.2023 15:51:48"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -19214,3 +19214,5 @@ addscriptexist(6766156863, "Strongman Simulator [Tp arena]", "pulled from rbxscr
 addscriptexist(8893378293, "GRAMMY Week [Auto Collect grammys]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/GRAMMY%20Week%20Auto%20Collect%20grammys.lua")
 
 addscriptexist(4855457388, "Demonfall [GUI - All Boss Farm, Other Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Demonfall%20GUI%20%20All%20Boss%20Farm%20Other%20Farm.lua")
+
+addscriptexist(8534845015, "Sakura Stand [GUI - Lots Of OP Features]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sakura%20Stand%20GUI%20%20Lots%20Of%20OP%20Features.lua")
