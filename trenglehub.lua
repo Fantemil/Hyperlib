@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 15:56:45"
+lastupdate = "GMT +1: 09.03.2023 15:56:50"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -19334,3 +19334,5 @@ addscriptexist(735030788, "Royale High [Gem Farm]", "pulled from rbxscript.com",
 addscriptexist(8396586868, "A 0ne piece game [Dupe]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/A%20ne%20piece%20game%20Dupe.lua")
 
 addscript(2483973525, "Current Game","Demon Slayer: Burning Ashes [Auto Attack, Stats, Auto Farm Mobs]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Demon%20Slayer%20Burning%20Ashes%20Auto%20Attack%20Stats%20Auto%20Farm%20Mobs.lua")
+
+addscriptexist(8365905206, "Untitled Tag Game [Coin Auto-Collector]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Untitled%20Tag%20Game%20Coin%20AutoCollector.lua")
