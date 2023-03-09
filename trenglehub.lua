@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 14:09:12"
+lastupdate = "GMT +1: 09.03.2023 14:09:16"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -16622,3 +16622,5 @@ addscript(4237861040, "Current Game","Treacherous Tower [GUI - Auto Farm]", "pul
 addscriptexist(9551640993, "Mining Simulator 2 [Remove Egg Animations]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mining%20Simulator%20%20Remove%20Egg%20Animations.lua")
 
 addscriptexist(7540727946, "Hoops Life [Auto Time - Semi Aimbot - Open Source]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Hoops%20Life%20Auto%20Time%20%20Semi%20Aimbot%20%20Open%20Source.lua")
+
+addscriptexist(9103898828, "Rogue Demon [No Fall Damage]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Rogue%20Demon%20No%20Fall%20Damage.lua")
