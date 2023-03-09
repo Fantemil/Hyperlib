@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 15:59:34"
+lastupdate = "GMT +1: 09.03.2023 15:59:38"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -19408,3 +19408,5 @@ addscriptexist(7305309231, "Taxi Boss [Auto Farm – [Updated]", "pulled from rb
 addscript(6078267880, "Current Game","Tower Of Hell Easy [Inf Money]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tower%20Of%20Hell%20Easy%20Inf%20Money.lua")
 
 addscriptexist(6494523288, "Blade Quest [Auto Farm, Kill Aura, Auto Rewards]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blade%20Quest%20Auto%20Farm%20Kill%20Aura%20Auto%20Rewards.lua")
+
+addscriptexist(537413528, "Build A Boat For Treasure [Auto Farm, God Mode Water, Auto Common Chests]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Build%20A%20Boat%20For%20Treasure%20Auto%20Farm%20God%20Mode%20Water%20Auto%20Common%20Chests.lua")
