@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 16:00:36"
+lastupdate = "GMT +1: 09.03.2023 16:00:40"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -19430,3 +19430,5 @@ addscriptexist(1224212277, "Mad City [Infinite Xp - Get To Level 100 In 2 Hours]
 addscriptexist(1240644540, "Vampire Hunters 3 [DNA Test Everyone]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Vampire%20Hunters%20%20DNA%20Test%20Everyone.lua")
 
 addscriptexist(8377686524, "Undertale Last Reset [All Weapons]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Undertale%20Last%20Reset%20All%20Weapons.lua")
+
+addscriptexist(8377686524, "Undertale Last Reset [Insta Kill Everything] - DOESNT WORK WITH BOSS PHASES", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Undertale%20Last%20Reset%20Insta%20Kill%20Everything%20%20DOESNT%20WORK%20WITH%20BOSS%20PHASES.lua")
