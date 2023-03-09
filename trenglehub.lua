@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 14:12:01"
+lastupdate = "GMT +1: 09.03.2023 14:12:06"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -16694,3 +16694,5 @@ addscriptexist(4588604953, "Criminality [Auto Block]", "pulled from rbxscript.co
 addscriptexist(2753915549, "Blox Fruit [Silent Aim]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blox%20Fruit%20Silent%20Aim.lua")
 
 addscriptexist(8739839954, "Jujutsu Tycoon [Kill Boss]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Jujutsu%20Tycoon%20Kill%20Boss.lua")
+
+addscriptexist(8739839954, "Jujutsu Tycoon [Collect Loot]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Jujutsu%20Tycoon%20Collect%20Loot.lua")
