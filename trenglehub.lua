@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 15:16:54"
+lastupdate = "GMT +1: 09.03.2023 15:16:58"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18342,3 +18342,5 @@ addscriptexist(6905769625, "Rooftop Basketball [Silent AIM]", "pulled from rbxsc
 addscriptexist(9461798258, "Raise a Granny [Inf cookies]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Raise%20a%20Granny%20Inf%20cookies.lua")
 
 addscriptexist(9461798258, "Raise a Granny [Inf Cash]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Raise%20a%20Granny%20Inf%20Cash.lua")
+
+addscriptexist(9461798258, "Raise a Granny [Drop cookies]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Raise%20a%20Granny%20Drop%20cookies.lua")
