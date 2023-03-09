@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 13:53:44"
+lastupdate = "GMT +1: 09.03.2023 13:53:48"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -16218,3 +16218,5 @@ addscriptexist(4169490976, "Mortem Metallum [Kill All]", "pulled from rbxscript.
 addscriptexist(9049840490, "Sonic Speed Simulator [GUI - Auto Run, Auto Rebirth & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sonic%20Speed%20Simulator%20GUI%20%20Auto%20Run%20Auto%20Rebirth%20%20More.lua")
 
 addscriptexist(6716188523, "Business Tycoon [Infinite Money]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Business%20Tycoon%20Infinite%20Money.lua")
+
+addscriptexist(8123652942, "Legend Piece [No Cooldown]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Legend%20Piece%20No%20Cooldown.lua")
