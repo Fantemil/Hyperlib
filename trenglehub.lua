@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 15:14:43"
+lastupdate = "GMT +1: 09.03.2023 15:14:47"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18286,3 +18286,5 @@ addscriptexist(6937208251, "Star Wars: Battlefield [PVP God Mode]", "pulled from
 addscript(5135889792, "Current Game","Dystovia [Collect All]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Dystovia%20Collect%20All.lua")
 
 addscriptexist(9203864304, "Raise a Floppa [Auto Farm - Insta Finish]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Raise%20a%20Floppa%20Auto%20Farm%20%20Insta%20Finish.lua")
+
+addscript(8854753304, "Current Game","Interactive Intimate [Farm Points]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Interactive%20Intimate%20Farm%20Points.lua")
