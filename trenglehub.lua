@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 14:31:15"
+lastupdate = "GMT +1: 09.03.2023 14:31:19"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -17188,3 +17188,5 @@ addscriptexist(606849621, "Jailbreak [Full Auto, Get Weapons & More!]", "pulled 
 addscript(7776498299, "Current Game","Sea Cleaning Simulator [Auto Farm - GUI]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sea%20Cleaning%20Simulator%20Auto%20Farm%20%20GUI.lua")
 
 addscript(28382335, "Current Game","Zombie Tycoon [Silent Aim - GUI]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Zombie%20Tycoon%20Silent%20Aim%20%20GUI.lua")
+
+addscriptexist(9751569460, "ARCH PIECE [Auto Farm, Auto Punch, Auto Boss]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ARCH%20PIECE%20Auto%20Farm%20Auto%20Punch%20Auto%20Boss.lua")
