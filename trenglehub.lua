@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 15:29:26"
+lastupdate = "GMT +1: 09.03.2023 15:29:30"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18654,3 +18654,5 @@ addscriptexist(9300407930, "Bot Clash [Auto Farm - Auto Spin & More!]", "pulled 
 addscript(6589412525, "Current Game","Rail Frenzy [Auto Send Items To Wagon]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Rail%20Frenzy%20Auto%20Send%20Items%20To%20Wagon.lua")
 
 addscriptexist(6589412525, "Rail Frenzy [Break Everything GUI]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Rail%20Frenzy%20Break%20Everything%20GUI.lua")
+
+addscript(9423668629, "Current Game","Find the Teddies [Find All Teddies]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Find%20the%20Teddies%20Find%20All%20Teddies.lua")
