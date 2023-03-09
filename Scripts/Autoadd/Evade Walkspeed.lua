@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Yaki-0/Roblox/main/scripts/Evade%20Monster%20ESP.lua"))()
