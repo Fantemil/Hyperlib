@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 15:57:28"
+lastupdate = "GMT +1: 09.03.2023 15:57:32"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -19354,3 +19354,5 @@ addscriptexist(8396586868, "A 0ne Piece Game[Auto Farm, Auto Skill, Auto fer gru
 addscriptexist(536102540, "Dragon Ball [Auto Quest, Auto Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Dragon%20Ball%20Auto%20Quest%20Auto%20Farm.lua")
 
 addscript(5327880096, "Current Game","Online Business Simulator 2 [Auto work online]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Online%20Business%20Simulator%20%20Auto%20work%20online.lua")
+
+addscriptexist(189707, "Natural Disaster Survival [Increases the chances of survival]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Natural%20Disaster%20Survival%20Increases%20the%20chances%20of%20survival.lua")
