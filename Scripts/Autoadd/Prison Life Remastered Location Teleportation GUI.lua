@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/soapware/Tam-Teleports/main/%E4%BB%96%E5%A6%88%E7%9A%84%E5%A9%8A%E5%AD%90%E5%90%83%E5%B1%81%E8%82%A1.tam"))()
