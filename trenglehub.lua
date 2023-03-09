@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 14:58:35"
+lastupdate = "GMT +1: 09.03.2023 14:58:39"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -17888,3 +17888,5 @@ addscriptexist(9508087919, "Apeirophobia [ESP for exits]", "pulled from rbxscrip
 addscriptexist(9508087919, "Apeirophobia [Simulation Cores ESP]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Apeirophobia%20Simulation%20Cores%20ESP.lua")
 
 addscript(9065768804, "Current Game","War Simulator [Kill All]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/War%20Simulator%20Kill%20All.lua")
+
+addscript(8438695556, "Current Game","Luck Simulator [upgrade Luck, Auto Magnet, Upgrade luck again ]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Luck%20Simulator%20upgrade%20Luck%20Auto%20Magnet%20Upgrade%20luck%20again%20.lua")
