@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 15:29:49"
+lastupdate = "GMT +1: 09.03.2023 15:29:53"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18664,3 +18664,5 @@ addscriptexist(301549746, "Counter Blox [God Mode]", "pulled from rbxscript.com"
 addscriptexist(1240644540, "Vampire Hunters 3 [Vampire ESP]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Vampire%20Hunters%20%20Vampire%20ESP.lua")
 
 addscriptexist(8492553855, "Project Upright [Invisible]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Project%20Upright%20Invisible.lua")
+
+addscriptexist(1458767429, "ABA [Itadori Auto Block Flash]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ABA%20Itadori%20Auto%20Block%20Flash.lua")
