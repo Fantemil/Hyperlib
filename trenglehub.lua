@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 14:38:33"
+lastupdate = "GMT +1: 09.03.2023 14:38:41"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -17378,3 +17378,5 @@ addscriptexist(9555732501, "Nen Fighting Simulator [Durability Farm]", "pulled f
 addscriptexist(6937208251, "Star Wars Battlegrounds [Gun Mods Press V]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Star%20Wars%20Battlegrounds%20Gun%20Mods%20Press%20V.lua")
 
 addscriptexist(4540286603, "NORTHWIND [Bird ESP]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NORTHWIND%20Bird%20ESP.lua")
+
+addscriptexist(4616652839, "Shindo Life [Auto Farm, Auto Farm Boss, Auto Rank]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Shindo%20Life%20Auto%20Farm%20Auto%20Farm%20Boss%20Auto%20Rank.lua")
