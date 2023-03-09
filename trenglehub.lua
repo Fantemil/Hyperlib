@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 15:39:07"
+lastupdate = "GMT +1: 09.03.2023 15:39:11"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18898,3 +18898,5 @@ addscriptexist(5045567407, "Nations Roleplay [Paint Entire World Instantly]", "p
 addscriptexist(5780309044, "Stands Awakening [Stand Farm - Auto Collect Items & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Stands%20Awakening%20Stand%20Farm%20%20Auto%20Collect%20Items%20%20More.lua")
 
 addscriptexist(6704278765, "Dolo Tonight Concert Experience [Collect All Eyes]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Dolo%20Tonight%20Concert%20Experience%20Collect%20All%20Eyes.lua")
+
+addscriptexist(9041110505, "Unlimited Upgrade Simulator [Infinity Gems]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Unlimited%20Upgrade%20Simulator%20Infinity%20Gems.lua")
