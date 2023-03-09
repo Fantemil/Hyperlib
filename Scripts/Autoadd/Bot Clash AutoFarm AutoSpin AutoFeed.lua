@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Krackenz/RobloxScripts/main/BotClashV2.lua",true))()
