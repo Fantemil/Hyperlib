@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 15:16:35"
+lastupdate = "GMT +1: 09.03.2023 15:16:39"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18334,3 +18334,5 @@ addscriptexist(2788229376, "Da Hood [Godmode V3 - Full Skinny God Mode]", "pulle
 addscriptexist(9203864304, "raise a floppa [Auto Click Floppa - Auto Collect Money]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/raise%20a%20floppa%20Auto%20Click%20Floppa%20%20Auto%20Collect%20Money.lua")
 
 addscriptexist(2000062521, "State of Anarchy O.13.81.6 [Silent AIM - ESP - Aimbot & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/State%20of%20Anarchy%20O%20Silent%20AIM%20%20ESP%20%20Aimbot%20%20More.lua")
+
+addscriptexist(6778844213, "Euphoria Ragdoll Testing [Annony Server - Mass Ragdoll Toggle]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Euphoria%20Ragdoll%20Testing%20Annony%20Server%20%20Mass%20Ragdoll%20Toggle.lua")
