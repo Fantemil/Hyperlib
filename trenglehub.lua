@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 14:13:38"
+lastupdate = "GMT +1: 09.03.2023 14:13:42"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -16736,3 +16736,5 @@ addscriptexist(2043040358, "Vyyrahk City [Money]", "pulled from rbxscript.com", 
 addscriptexist(9281034297, "Goal Kick Simulator [GUI - Auto Kick, Auto Rebirth & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Goal%20Kick%20Simulator%20GUI%20%20Auto%20Kick%20Auto%20Rebirth%20%20More.lua")
 
 addscript(8592863835, "Current Game","Magnet Simulator 2 [GUI - Sell x18, Auto Egg]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Magnet%20Simulator%20%20GUI%20%20Sell%20x%20Auto%20Egg.lua")
+
+addscriptexist(8232438881, "Thief Simulator [Fast Auto Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Thief%20Simulator%20Fast%20Auto%20Farm.lua")
