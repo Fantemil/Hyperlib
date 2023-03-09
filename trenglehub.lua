@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 14:43:06"
+lastupdate = "GMT +1: 09.03.2023 14:43:12"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -17492,3 +17492,5 @@ addscriptexist(6808416928, "Aimblox BETA [Silent AIM]", "pulled from rbxscript.c
 addscriptexist(5233268561, "A Bizarre Journey [Destroy Game]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/A%20Bizarre%20Journey%20Destroy%20Game.lua")
 
 addscriptexist(9737855826, "Trade Simulator [Auto Buyer - Item Sniper]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Trade%20Simulator%20Auto%20Buyer%20%20Item%20Sniper.lua")
+
+addscriptexist(5927697884, "Orange Colored Skies [Gun Mod]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Orange%20Colored%20Skies%20Gun%20Mod.lua")
