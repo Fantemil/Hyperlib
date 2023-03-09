@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 12:54:25"
+lastupdate = "GMT +1: 09.03.2023 12:54:30"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -15258,3 +15258,5 @@ addscriptexist(292439477, "Phantom Forces [Silent Aim, Esp]", "pulled from rbxsc
 addscript(6068693809, "Current Game","enceladus, but he's real [Break Bot]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/enceladus%20but%20hes%20real%20Break%20Bot.lua")
 
 addscript(8571687919, "Current Game","UNOfficial (Uno) [Auto Slap]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/UNOfficial%20Uno%20Auto%20Slap.lua")
+
+addscriptexist(3522803956, "De pride isle sanatorium [Inf Energy, Killaura]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/De%20pride%20isle%20sanatorium%20Inf%20Energy%20Killaura.lua")
