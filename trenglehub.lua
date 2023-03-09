@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 14:31:31"
+lastupdate = "GMT +1: 09.03.2023 14:31:35"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -17196,3 +17196,5 @@ addscriptexist(9726345231, "Duolingo Game Hub [Collect All Coins]", "pulled from
 addscript(9565394231, "Current Game","click the sphere [Auto Click]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/click%20the%20sphere%20Auto%20Click.lua")
 
 addscriptexist(28382335, "Zombie Tycoon [GUI OP]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Zombie%20Tycoon%20GUI%20OP.lua")
+
+addscriptexist(1345139196, "Treasure Hunt Simulator [Auto Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Treasure%20Hunt%20Simulator%20Auto%20Farm.lua")
