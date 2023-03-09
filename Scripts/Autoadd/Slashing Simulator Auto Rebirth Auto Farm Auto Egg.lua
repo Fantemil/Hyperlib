@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/David093/scripts/main/Slashing%20Simulator",true))()
