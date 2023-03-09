@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 14:37:13"
+lastupdate = "GMT +1: 09.03.2023 14:37:17"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -17342,3 +17342,5 @@ addscriptexist(3956818381, "Ninja Legends [Auto Swing, Auto Sell, Teleport To Co
 addscriptexist(8992150289, "Anime Sword Simulator [Full Auto Farm GUI]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime%20Sword%20Simulator%20Full%20Auto%20Farm%20GUI.lua")
 
 addscriptexist(6728870912, "World of Stands Demo [Auto Farm - Auto Skill - Auto Quest]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/World%20of%20Stands%20Demo%20Auto%20Farm%20%20Auto%20Skill%20%20Auto%20Quest.lua")
+
+addscript(112420803, "Current Game","Kohls Admin House [GUI - Commands]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Kohls%20Admin%20House%20GUI%20%20Commands.lua")
