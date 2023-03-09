@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 15:47:22"
+lastupdate = "GMT +1: 09.03.2023 15:47:27"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -19106,3 +19106,5 @@ addscriptexist(5670218884, "Item asylum [Give weapons]", "pulled from rbxscript.
 addscriptexist(8737602449, "PLS DONATE [Rainbow, Modded, Goal]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PLS%20DONATE%20Rainbow%20Modded%20Goal.lua")
 
 addscriptexist(5062619730, "War Simulator [Gun Mod]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/War%20Simulator%20Gun%20Mod.lua")
+
+addscriptexist(8396586868, "A One Piece Game [Auto Farm GUI - Fruit Hopper & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/A%20One%20Piece%20Game%20Auto%20Farm%20GUI%20%20Fruit%20Hopper%20%20More.lua")
