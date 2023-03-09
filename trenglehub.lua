@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 13:52:37"
+lastupdate = "GMT +1: 09.03.2023 13:52:41"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -16190,3 +16190,5 @@ addscriptexist(1730877806, "Grand Piece Online [you can't attack and you can't d
 addscriptexist(10118559731, "nico's nextbots [Serv lagger]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/nicos%20nextbots%20Serv%20lagger.lua")
 
 addscriptexist(4616652839, "Shindo life [Auto Farm, Auto Farm Boss, Auto Rank]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Shindo%20life%20Auto%20Farm%20Auto%20Farm%20Boss%20Auto%20Rank.lua")
+
+addscript(4838460619, "Current Game","War Simulator 2 [Auto Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/War%20Simulator%20%20Auto%20Farm.lua")
