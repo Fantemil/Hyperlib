@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 14:24:23"
+lastupdate = "GMT +1: 09.03.2023 14:24:29"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -17010,3 +17010,5 @@ addscriptexist(8619263259, "Critical Legends [Loot All Chests]", "pulled from rb
 addscriptexist(7261261021, "Raging Seas [Infinite Stamina]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Raging%20Seas%20Infinite%20Stamina.lua")
 
 addscriptexist(9551640993, "Mining Simulator 2 [Fake Hatcher GUI]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mining%20Simulator%20%20Fake%20Hatcher%20GUI.lua")
+
+addscriptexist(6644653750, "Paper.IO [Auto WIn]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PaperIO%20Auto%20WIn.lua")
