@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 15:19:32"
+lastupdate = "GMT +1: 09.03.2023 15:19:39"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18410,3 +18410,5 @@ addscriptexist(8209480473, "Spotify Island [Auto Xp, Collect all notes]", "pulle
 addscriptexist(9297410766, "Crossbar Challenge Simulator [Infnite Coins]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Crossbar%20Challenge%20Simulator%20Infnite%20Coins.lua")
 
 addscriptexist(5135889792, "Dystovia [GodMode]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Dystovia%20GodMode.lua")
+
+addscriptexist(205224386, "Hide and Seek Extreme [Coin Grabber]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Hide%20and%20Seek%20Extreme%20Coin%20Grabber.lua")
