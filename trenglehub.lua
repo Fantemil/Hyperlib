@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 14:49:03"
+lastupdate = "GMT +1: 09.03.2023 14:49:07"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -17640,3 +17640,5 @@ addscript(6751725264, "Current Game","Demon Slayer: A Slayer's Journey [Infinite
 addscriptexist(9359839118, "Gas Station Simulator [Kill All]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Gas%20Station%20Simulator%20Kill%20All.lua")
 
 addscriptexist(4058282580, "Boxing Simulator [GUI - Auto Farm, Teleports & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Boxing%20Simulator%20GUI%20%20Auto%20Farm%20Teleports%20%20More.lua")
+
+addscriptexist(9281034297, "Goal Kick Simulator [Auto kick, Kicking AimBot, AutoUpgrade]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Goal%20Kick%20Simulator%20Auto%20kick%20Kicking%20AimBot%20AutoUpgrade.lua")
