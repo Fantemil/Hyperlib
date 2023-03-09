@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 15:57:37"
+lastupdate = "GMT +1: 09.03.2023 15:57:41"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -19358,3 +19358,5 @@ addscript(5327880096, "Current Game","Online Business Simulator 2 [Auto work onl
 addscriptexist(189707, "Natural Disaster Survival [Increases the chances of survival]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Natural%20Disaster%20Survival%20Increases%20the%20chances%20of%20survival.lua")
 
 addscriptexist(7708751418, "Smashing Simulator X [object mod]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Smashing%20Simulator%20X%20object%20mod.lua")
+
+addscript(8892207911, "Current Game","Ragdoll Engine [Push All]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ragdoll%20Engine%20Push%20All.lua")
