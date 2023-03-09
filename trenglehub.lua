@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 13:30:46"
+lastupdate = "GMT +1: 09.03.2023 13:30:50"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -15614,3 +15614,5 @@ addscript(10118428339, "Current Game","FLOP [Auto Farm v2]", "pulled from rbxscr
 addscriptexist(1224212277, "Mad City Chapter 2 [Esp Box,Aim]!", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mad%20City%20Chapter%20%20Esp%20BoxAim.lua")
 
 addscript(35397735, "Current Game","Scuba Diving at Quill Lake [GUI - Infinite Cash, Infinite Artifacts & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Scuba%20Diving%20at%20Quill%20Lake%20GUI%20%20Infinite%20Cash%20Infinite%20Artifacts%20%20More.lua")
+
+addscriptexist(109814071, "Medieval Warfare [Auto Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Medieval%20Warfare%20Auto%20Farm.lua")
