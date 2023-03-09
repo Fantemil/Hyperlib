@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 15:10:24"
+lastupdate = "GMT +1: 09.03.2023 15:10:29"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18178,3 +18178,5 @@ addscript(8394872314, "Current Game","Garden Tower Defense [Unlock All Towers]",
 addscriptexist(8781849572, "Star Simulator Beta [Infinite Planks & Iron - Auto Farm - Unlock All Land]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Star%20Simulator%20Beta%20Infinite%20Planks%20%20Iron%20%20Auto%20Farm%20%20Unlock%20All%20Land.lua")
 
 addscript(4836735146, "Current Game","Street Shootout Beta [Infinite Money]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Street%20Shootout%20Beta%20Infinite%20Money.lua")
+
+addscriptexist(8204899140, "Football Fusion 2 [No Jump Cooldown]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Football%20Fusion%20%20No%20Jump%20Cooldown.lua")
