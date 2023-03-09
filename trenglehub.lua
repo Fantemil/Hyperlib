@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 13:29:09"
+lastupdate = "GMT +1: 09.03.2023 13:29:14"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -15576,3 +15576,5 @@ addscriptexist(445664957, "Parkour [GUI - Set Flow, Set Combo]", "pulled from rb
 addscriptexist(7127407851, "Attack On Titan: Evolution [Instant Spins]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Attack%20On%20Titan%20Evolution%20Instant%20Spins.lua")
 
 addscript(4474859677, "Current Game","CITY-17 [Anti Cheat Bypass]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CITY%20Anti%20Cheat%20Bypass.lua")
+
+addscript(9744597824, "Current Game","Sea Piece [Auto Farm - GUI]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sea%20Piece%20Auto%20Farm%20%20GUI.lua")
