@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 15:22:34"
+lastupdate = "GMT +1: 09.03.2023 15:22:39"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18484,3 +18484,5 @@ addscriptexist(8209480473, "Spotify Island [Farm Music]", "pulled from rbxscript
 addscript(9300407930, "Current Game","Bot Clash [AutoFarm, AutoSpin, AutoFeed]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Bot%20Clash%20AutoFarm%20AutoSpin%20AutoFeed.lua")
 
 addscript(8875171205, "Current Game","Telos [RE-RELEASE!] [Balanced Craftwars OP tools]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Telos%20RERELEASE%20Balanced%20Craftwars%20OP%20tools.lua")
+
+addscriptexist(9041110505, "Unlimited Upgrade Simulator [Inf Gem]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Unlimited%20Upgrade%20Simulator%20Inf%20Gem.lua")
