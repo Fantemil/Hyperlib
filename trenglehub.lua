@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 13:49:34"
+lastupdate = "GMT +1: 09.03.2023 13:49:38"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -16110,3 +16110,5 @@ addscript(6835256242, "Current Game","Pick A Door [AutoWin]", "pulled from rbxsc
 addscriptexist(6284583030, "Pet Simulator X [Autofarm, Open Eggs, Auto use boosts]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pet%20Simulator%20X%20Autofarm%20Open%20Eggs%20Auto%20use%20boosts.lua")
 
 addscriptexist(9397663086, "Ninja Training Simulator [Auto Farm, Auto Rebirth, Auto upgrades]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ninja%20Training%20Simulator%20Auto%20Farm%20Auto%20Rebirth%20Auto%20upgrades.lua")
+
+addscriptexist(6514923093, "Realistic Guns Shooting Game [AimBot, ESP, GUN MOD]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Realistic%20Guns%20Shooting%20Game%20AimBot%20ESP%20GUN%20MOD.lua")
