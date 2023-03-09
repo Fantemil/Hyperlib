@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 14:18:13"
+lastupdate = "GMT +1: 09.03.2023 14:18:17"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -16860,3 +16860,5 @@ addscript(504090542, "Current Game","Battleship Battle [Kill All]", "pulled from
 addscriptexist(6155643742, "Fall Block [Click To Activate Tiles Tool]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Fall%20Block%20Click%20To%20Activate%20Tiles%20Tool.lua")
 
 addscriptexist(6155643742, "Fall Block [Ruin Game]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Fall%20Block%20Ruin%20Game.lua")
+
+addscriptexist(7728848215, "Slashing Simulator [Auto Rebirth, Auto Farm, Auto Egg]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Slashing%20Simulator%20Auto%20Rebirth%20Auto%20Farm%20Auto%20Egg.lua")
