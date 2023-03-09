@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 14:32:15"
+lastupdate = "GMT +1: 09.03.2023 14:32:19"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -17214,3 +17214,5 @@ addscriptexist(9203864304, "raise a floppa 2 [Auto Cook & Inf Max Rent]", "pulle
 addscript(2166944189, "Current Game","Firefighters [Infinite Levels]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Firefighters%20Infinite%20Levels.lua")
 
 addscriptexist(8798268679, "Crossroad Combat [Infinite Money]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Crossroad%20Combat%20Infinite%20Money.lua")
+
+addscriptexist(8750997647, "Tapping Legends [Auto Farm - Auto Egg]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tapping%20Legends%20Auto%20Farm%20%20Auto%20Egg.lua")
