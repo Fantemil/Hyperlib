@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 13:24:46"
+lastupdate = "GMT +1: 09.03.2023 13:24:51"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -15464,3 +15464,5 @@ addscriptexist(6298464951, "Roblox Is Unbreakable [Auto Collect Items]", "pulled
 addscript(10319501620, "Current Game","School of Sport [GUI - Collect All Coins]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/School%20of%20Sport%20GUI%20%20Collect%20All%20Coins.lua")
 
 addscriptexist(9285238704, "Race Clicker [Auto Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Race%20Clicker%20Auto%20Farm.lua")
+
+addscript(6983932919, "Current Game","osu!RoVer [Auto Click Circles - Time Warp & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/osuRoVer%20Auto%20Click%20Circles%20%20Time%20Warp%20%20More.lua")
