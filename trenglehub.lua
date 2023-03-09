@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 15:06:40"
+lastupdate = "GMT +1: 09.03.2023 15:06:44"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18082,3 +18082,5 @@ addscript(4585085581, "Current Game","Shinobi Storm [Unlock All Charecters]", "p
 addhub("Shiny Tool HUB [Supported 10+ Games]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Shiny%20Tool%20HUB%20Supported%20%20Games.lua")
 
 addscript(9522402646, "Current Game","Setsu Omega [Infinite Cash - Infinite Fame]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Setsu%20Omega%20Infinite%20Cash%20%20Infinite%20Fame.lua")
+
+addscriptexist(5620664339, "RoStreets [No Fali Lockpick}", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RoStreets%20No%20Fali%20Lockpick.lua")
