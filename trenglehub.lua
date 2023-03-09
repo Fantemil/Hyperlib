@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 16:01:59"
+lastupdate = "GMT +1: 09.03.2023 16:02:04"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -19462,3 +19462,5 @@ addscript(8110180444, "Current Game","Strong Pet Simulator [Auto Farm GUI]", "pu
 addscriptexist(6442957604, "Custom PC Tycoon [Auto PC Build And Sell]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Custom%20PC%20Tycoon%20Auto%20PC%20Build%20And%20Sell.lua")
 
 addscriptexist(6442957604, "Custom PC Tycoon [Auto Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Custom%20PC%20Tycoon%20Auto%20Farm.lua")
+
+addscriptexist(7114303730, "Dragon Orbz [Auto Farm - Auto Quest & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Dragon%20Orbz%20Auto%20Farm%20%20Auto%20Quest%20%20More.lua")
