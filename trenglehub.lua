@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 13:46:22"
+lastupdate = "GMT +1: 09.03.2023 13:46:26"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -16024,3 +16024,5 @@ addscriptexist(1224212277, "Mad City: Chapter 2 [Silent Aim - Wall Bang - Easy X
 addscriptexist(893973440, "Flee the Facility [Auto Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Flee%20the%20Facility%20Auto%20Farm.lua")
 
 addscript(9800759618, "Current Game","Amanda [Story] [Auto Revive]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Amanda%20Story%20Auto%20Revive.lua")
+
+addscriptexist(7180042682, "Military Tycoon [Collect All Batteries]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Military%20Tycoon%20Collect%20All%20Batteries.lua")
