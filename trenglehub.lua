@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 15:35:24"
+lastupdate = "GMT +1: 09.03.2023 15:35:29"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18804,3 +18804,5 @@ addscriptexist(6401440818, "MONOLITH DEFENSE [Stat Upgrade Everything]", "pulled
 addscriptexist(623694595, "NBA Phenom [Silent AIM - Auto Changing Power]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NBA%20Phenom%20Silent%20AIM%20%20Auto%20Changing%20Power.lua")
 
 addscriptexist(5712833750, "Animal Simulator [Collect Eggs]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Animal%20Simulator%20Collect%20Eggs.lua")
+
+addscriptexist(8146731988, "Ultra Power Tycoon [Kill Closest Player - Open Source]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ultra%20Power%20Tycoon%20Kill%20Closest%20Player%20%20Open%20Source.lua")
