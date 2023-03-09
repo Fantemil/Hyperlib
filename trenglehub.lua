@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 15:28:48"
+lastupdate = "GMT +1: 09.03.2023 15:28:53"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18638,3 +18638,5 @@ addscriptexist(185655149, "Bloxburg [Job Auto Farm]", "pulled from rbxscript.com
 addscriptexist(8540168650, "Stand Upright: Rebooted [Auto Farm GUI]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Stand%20Upright%20Rebooted%20Auto%20Farm%20GUI.lua")
 
 addscriptexist(5584024582, "The Rake Hour Test [Infinite Levels]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/The%20Rake%20Hour%20Test%20Infinite%20Levels.lua")
+
+addscriptexist(70005410, "Blox Hunt | V2.7.25 [Auto Farm GUI]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blox%20Hunt%20%20V%20Auto%20Farm%20GUI.lua")
