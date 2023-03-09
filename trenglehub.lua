@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 12:02:16"
+lastupdate = "GMT +1: 09.03.2023 12:02:35"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -15104,3 +15104,5 @@ addscriptexist(11606818992, "STEEP STEPS: E and Q to Teleports", "pulled from rb
 addscriptexist(8438158667, "Slide House Tumble: Gravity, Anti Lag, Delete", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Slide%20House%20Tumble%20Gravity%20Anti%20Lag%20Delete.lua")
 
 addscript(11118216071, "Current Game","Pet Trading Card Simulator: Auto Equip Best Pets, Auto Rebirth, Auto Click", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pet%20Trading%20Card%20Simulator%20Auto%20Equip%20Best%20Pets%20Auto%20Rebirth%20Auto%20Click.lua")
+
+addscriptexist(3956818381, "Ninja Legends: Auto Swing, Auto Sell, Auto Evolve", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ninja%20Legends%20Auto%20Swing%20Auto%20Sell%20Auto%20Evolve.lua")
