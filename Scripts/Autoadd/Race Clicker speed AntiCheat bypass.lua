@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/xkvl2012/SwepScripts/main/Speed%20Changer%20RaceClicker"))()
