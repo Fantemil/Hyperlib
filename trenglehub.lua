@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 15:39:35"
+lastupdate = "GMT +1: 09.03.2023 15:39:39"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18910,3 +18910,5 @@ addscriptexist(8302406789, "Anime Lifting Simulator [Auto Farm GUI]", "pulled fr
 addscript(6711745807, "Current Game","My Kingdom [Infinite Money - Open Source]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/My%20Kingdom%20Infinite%20Money%20%20Open%20Source.lua")
 
 addscriptexist(9049840490, "Sonic Speed Simulator [Auto Step Collect All - Rebirth & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sonic%20Speed%20Simulator%20Auto%20Step%20Collect%20All%20%20Rebirth%20%20More.lua")
+
+addscriptexist(662417684, "LUCKY BLOCKS Battlegrounds [Lucky Block, click tp, infite jump]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LUCKY%20BLOCKS%20Battlegrounds%20Lucky%20Block%20click%20tp%20infite%20jump.lua")
