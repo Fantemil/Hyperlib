@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 15:41:44"
+lastupdate = "GMT +1: 09.03.2023 15:41:49"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18964,3 +18964,5 @@ addscript(8382553377, "Current Game","Boom Simulator [GUI - Auto Farm, Teleports
 addscriptexist(8781849572, "Star Simulator Beta [Inf resources]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Star%20Simulator%20Beta%20Inf%20resources.lua")
 
 addscriptexist(155382109, "Survive And Kill The Killers In Area 51 [Inf Ammo, Give All Guns, Killer esp]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Survive%20And%20Kill%20The%20Killers%20In%20Area%20%20Inf%20Ammo%20Give%20All%20Guns%20Killer%20esp.lua")
+
+addscriptexist(8246874626, "DBZ [Auto Farm, Auto Quest, kill Aura]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DBZ%20Auto%20Farm%20Auto%20Quest%20kill%20Aura.lua")
