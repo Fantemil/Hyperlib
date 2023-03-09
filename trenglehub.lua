@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 14:54:43"
+lastupdate = "GMT +1: 09.03.2023 14:54:48"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -17786,3 +17786,5 @@ addscriptexist(2533391464, "Snowman Simulator [GUI - Auto Farm, Auto Farm Gift &
 addscriptexist(6875469709, "Strongest Punch Simulator [GUI - Auto Punch, Auto Orbs & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Strongest%20Punch%20Simulator%20GUI%20%20Auto%20Punch%20Auto%20Orbs%20%20More.lua")
 
 addscript(9336657396, "Current Game","A Beatdown Neighborhood [Infinite Cash & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/A%20Beatdown%20Neighborhood%20Infinite%20Cash%20%20More.lua")
+
+addscript(5062619730, "Current Game","War Simulator [Kill All - Open Source]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/War%20Simulator%20Kill%20All%20%20Open%20Source.lua")
