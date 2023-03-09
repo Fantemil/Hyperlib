@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 14:35:24"
+lastupdate = "GMT +1: 09.03.2023 14:35:29"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -17296,3 +17296,5 @@ addscriptexist(9551640993, "Mining Simulator 2 [Auto Farm Gems]", "pulled from r
 addscriptexist(3851622790, "Break in [GamePass Roles]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Break%20in%20GamePass%20Roles.lua")
 
 addscriptexist(137877687, "RoCitizens [Nametag Color, Cape Texture Speed, Friend Nametag Color]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RoCitizens%20Nametag%20Color%20Cape%20Texture%20Speed%20Friend%20Nametag%20Color.lua")
+
+addscriptexist(1240123653, "Zombie Attack [Auto Farm, Infite Jump, God Mode]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Zombie%20Attack%20Auto%20Farm%20Infite%20Jump%20God%20Mode.lua")
