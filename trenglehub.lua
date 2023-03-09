@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 15:40:16"
+lastupdate = "GMT +1: 09.03.2023 15:40:20"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18928,3 +18928,5 @@ addscriptexist(4505214429, "Soul Eater Resonance [Eater Farm]", "pulled from rbx
 addscriptexist(258258996, "Miner's Haven [Auto Farm Rebirths]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Miners%20Haven%20Auto%20Farm%20Rebirths.lua")
 
 addscriptexist(5023820864, "Trade Tower [PPHAX V2 GUI]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Trade%20Tower%20PPHAX%20V%20GUI.lua")
+
+addscript(6053107323, "Current Game","THE RAKE Noob Edition [Multihack GUI]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/THE%20RAKE%20Noob%20Edition%20Multihack%20GUI.lua")
