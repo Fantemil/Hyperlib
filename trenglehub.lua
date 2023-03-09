@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 13:39:31"
+lastupdate = "GMT +1: 09.03.2023 13:39:37"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -15844,3 +15844,5 @@ addscriptexist(263761432, "Horrific Housing [More Money]", "pulled from rbxscrip
 addscriptexist(8222131500, "Desert island survival [Auto redeem codes]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Desert%20island%20survival%20Auto%20redeem%20codes.lua")
 
 addscriptexist(8222131500, "Island Survival [Inf Air Drop]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Island%20Survival%20Inf%20Air%20Drop.lua")
+
+addscriptexist(10119617028, "Airsoft Center [Esp, Silent Aim]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Airsoft%20Center%20Esp%20Silent%20Aim.lua")
