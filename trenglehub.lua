@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 14:04:10"
+lastupdate = "GMT +1: 09.03.2023 14:04:15"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -16494,3 +16494,5 @@ addscriptexist(2753915549, "Blox Fruits [Silent Aim]", "pulled from rbxscript.co
 addscriptexist(6678877691, "ZO ぞ [Tp Aura]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ZO%20%E3%81%9E%20Tp%20Aura.lua")
 
 addscript(9344944754, "Current Game","Hunter x Athena [Auto Pushup, Auto Climb, Auto Run]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Hunter%20x%20Athena%20Auto%20Pushup%20Auto%20Climb%20Auto%20Run.lua")
+
+addscriptexist(5130598377, "A Universal Time [GUI - Infinite Attacks- God Mode]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/A%20Universal%20Time%20GUI%20%20Infinite%20Attacks%20God%20Mode.lua")
