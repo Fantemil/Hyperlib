@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 15:22:54"
+lastupdate = "GMT +1: 09.03.2023 15:22:58"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18488,3 +18488,5 @@ addscript(8875171205, "Current Game","Telos [RE-RELEASE!] [Balanced Craftwars OP
 addscriptexist(9041110505, "Unlimited Upgrade Simulator [Inf Gem]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Unlimited%20Upgrade%20Simulator%20Inf%20Gem.lua")
 
 addscriptexist(9041110505, "Unlimited Upgrade Simulator [Inf Money]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Unlimited%20Upgrade%20Simulator%20Inf%20Money.lua")
+
+addscriptexist(8403541179, "Blood Engine II: Slash Mania [Kill All]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blood%20Engine%20II%20Slash%20Mania%20Kill%20All.lua")
