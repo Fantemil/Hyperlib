@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 13:56:02"
+lastupdate = "GMT +1: 09.03.2023 13:56:07"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -16280,3 +16280,5 @@ addscriptexist(8884334497, "Mining Clicker Simulator [Auto Clicker - Auto Rebirt
 addscript(6604417568, "Current Game","Minerscave [Ore ESP - GUI]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Minerscave%20Ore%20ESP%20%20GUI.lua")
 
 addscript(8739839954, "Current Game","Jujutsu Tycoon [Use All Abilities]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Jujutsu%20Tycoon%20Use%20All%20Abilities.lua")
+
+addscriptexist(863266079, "Apocalypse Rising 2 [GUI - Inf Jump - Esp & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Apocalypse%20Rising%20%20GUI%20%20Inf%20Jump%20%20Esp%20%20More.lua")
