@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 15:17:30"
+lastupdate = "GMT +1: 09.03.2023 15:17:35"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18358,3 +18358,5 @@ addscriptexist(3145447020, "Mount Everest Climbing Roleplay [Auto Climb]", "pull
 addscriptexist(632642533, "DeadMist 2 [Collect drop]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DeadMist%20%20Collect%20drop.lua")
 
 addscriptexist(632642533, "DeadMist 2 Beta [Get Box]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DeadMist%20%20Beta%20Get%20Box.lua")
+
+addscriptexist(7305309231, "Taxi Boss [Server Hop Auto Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Taxi%20Boss%20Server%20Hop%20Auto%20Farm.lua")
