@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 14:27:18"
+lastupdate = "GMT +1: 09.03.2023 14:27:23"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -17086,3 +17086,5 @@ addscript(2602644507, "Current Game","Clone Wars Enrage [Kill All]", "pulled fro
 addscriptexist(9726345231, "Duolingo Game Hub [Auto Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Duolingo%20Game%20Hub%20Auto%20Farm.lua")
 
 addscriptexist(9726345231, "Duolingo Game Hub [Infinite Coins]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Duolingo%20Game%20Hub%20Infinite%20Coins.lua")
+
+addscriptexist(654732683, "Car Crushers 2 [Auto Farm, Speed Boost, Godmode]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Car%20Crushers%20%20Auto%20Farm%20Speed%20Boost%20Godmode.lua")
