@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 13:30:22"
+lastupdate = "GMT +1: 09.03.2023 13:30:26"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -15604,3 +15604,5 @@ addscriptexist(9894044804, "Blade Simulator [GUI - Auto Farm]", "pulled from rbx
 addscriptexist(10319501620, "School of Sport [Infinite Money]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/School%20of%20Sport%20Infinite%20Money.lua")
 
 addscriptexist(10319501620, "School of Sport [Unlock The Backpack]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/School%20of%20Sport%20Unlock%20The%20Backpack.lua")
+
+addscriptexist(7180042682, "Military Tycoon [Spifire Auto Unlocker]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Military%20Tycoon%20Spifire%20Auto%20Unlocker.lua")
