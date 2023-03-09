@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 15:50:47"
+lastupdate = "GMT +1: 09.03.2023 15:50:51"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -19192,3 +19192,5 @@ addscriptexist(8540346411, "Rebirth Champions X [Auto Click, Auto Claim Chests, 
 addscriptexist(8357510970, "Anime Punching Simulator [Auto Click, Redeem Codes, Auto Rebirth]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime%20Punching%20Simulator%20Auto%20Click%20Redeem%20Codes%20Auto%20Rebirth.lua")
 
 addscriptexist(45146873, "Tower Battles [Modding, Tower Purchasing, Teleport All Zombie]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tower%20Battles%20Modding%20Tower%20Purchasing%20Teleport%20All%20Zombie.lua")
+
+addscript(8893378293, "Current Game","GRAMMY Week [All quest]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/GRAMMY%20Week%20All%20quest.lua")
