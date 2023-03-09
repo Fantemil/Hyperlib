@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://gist.githubusercontent.com/rubicmaster/3951a6fb4cfa5225b82fce2ab45118bb/raw/cbc7d13663d15cc9eb3d728917abac2985e782eb/ASTdscript"))()
