@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 15:33:23"
+lastupdate = "GMT +1: 09.03.2023 15:33:28"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18754,3 +18754,5 @@ addscriptexist(2000062521, "State Of Anarchy [Aimbot, Silent Aim, Esp]", "pulled
 addscriptexist(1224212277, "Mad City [New XP Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mad%20City%20New%20XP%20Farm.lua")
 
 addscriptexist(9300407930, "Bot Clash [Complete All Quests]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Bot%20Clash%20Complete%20All%20Quests.lua")
+
+addscriptexist(6329844902, "Pirates New Generation [Max Level & Stats]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pirates%20New%20Generation%20Max%20Level%20%20Stats.lua")
