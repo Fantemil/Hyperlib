@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 14:00:58"
+lastupdate = "GMT +1: 09.03.2023 14:01:02"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -16410,3 +16410,5 @@ addscriptexist(6737970321, "Livetopia [Free Ugc Item]", "pulled from rbxscript.c
 addscriptexist(7075737729, "Hoop Central 6 [Auto Dunk]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Hoop%20Central%20%20Auto%20Dunk.lua")
 
 addscript(9974958703, "Current Game","Fruit Piece [Infinite Stats]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Fruit%20Piece%20Infinite%20Stats.lua")
+
+addscriptexist(7182546997, "Attack on Titan Vengeance [Auto Farm Titan]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Attack%20on%20Titan%20Vengeance%20Auto%20Farm%20Titan.lua")
