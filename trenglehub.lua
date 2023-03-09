@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 15:32:44"
+lastupdate = "GMT +1: 09.03.2023 15:32:51"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18738,3 +18738,5 @@ addhub("Roblox [XZ Hub]", "pulled from rbxscript.com", "https://raw.githubuserco
 addscriptexist(606849621, "Jailbreak [Instant tp base]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Jailbreak%20Instant%20tp%20base.lua")
 
 addscriptexist(5780309044, "Stands Awakening [Stand Farm, Npc Teleport, Place Teleport]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Stands%20Awakening%20Stand%20Farm%20Npc%20Teleport%20Place%20Teleport.lua")
+
+addscriptexist(6679274937, "Vans World [Auto Collect Coins, Auto Xp Gain, Complete All guests]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Vans%20World%20Auto%20Collect%20Coins%20Auto%20Xp%20Gain%20Complete%20All%20guests.lua")
