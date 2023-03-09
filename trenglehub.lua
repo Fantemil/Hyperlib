@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 14:23:00"
+lastupdate = "GMT +1: 09.03.2023 14:23:05"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -16978,3 +16978,5 @@ addscriptexist(9568982793, "Da Hood Battlegrounds [Silent Aimbot]", "pulled from
 addscriptexist(4459593483, "FORCE [Teleport To Trinkets]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FORCE%20Teleport%20To%20Trinkets.lua")
 
 addscriptexist(4459593483, "FORCE [Sell Trinkets]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FORCE%20Sell%20Trinkets.lua")
+
+addscriptexist(9772878203, "Raise A Floppa 2 [GUI - Auto Click Floppa, Auto Collect & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Raise%20A%20Floppa%20%20GUI%20%20Auto%20Click%20Floppa%20Auto%20Collect%20%20More.lua")
