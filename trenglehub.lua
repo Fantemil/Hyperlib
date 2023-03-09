@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 15:06:18"
+lastupdate = "GMT +1: 09.03.2023 15:06:22"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18072,3 +18072,5 @@ addscriptexist(8540346411, "Rebirth Champions X [Auto Click - Auto Rebirth]", "p
 addscriptexist(6969185078, "Elemental Awakening [Instant Cast]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Elemental%20Awakening%20Instant%20Cast.lua")
 
 addscriptexist(1224212277, "Mad City [Instant Villain]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mad%20City%20Instant%20Villain.lua")
+
+addscriptexist(9344944754, "Hunter x Athena [Auto Farm GUI]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Hunter%20x%20Athena%20Auto%20Farm%20GUI.lua")
