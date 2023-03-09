@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/bedra45/bloxburg/main/bedrahub"))()
