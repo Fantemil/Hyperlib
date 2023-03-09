@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 14:28:45"
+lastupdate = "GMT +1: 09.03.2023 14:28:49"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -17124,3 +17124,5 @@ addscript(9808430159, "Current Game","Scan_Test.DEMO [Reveal All Parts]", "pulle
 addscriptexist(4618049391, "Tang County, Hebei [Auto Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tang%20County%20Hebei%20Auto%20Farm.lua")
 
 addscriptexist(9297410766, "Crossbar Challenge Simulator [Fast Auto Shoot]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Crossbar%20Challenge%20Simulator%20Fast%20Auto%20Shoot.lua")
+
+addscriptexist(7336302630, "Project Detla [Silent Aim - Instant Bullets & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Project%20Detla%20Silent%20Aim%20%20Instant%20Bullets%20%20More.lua")
