@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 15:53:00"
+lastupdate = "GMT +1: 09.03.2023 15:53:07"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -19246,3 +19246,5 @@ addscriptexist(662417684, "LUCKY BLOCKS Battlegrounds [Activate All Gear, Open L
 addscriptexist(8357510970, "Anime Punching Simulator [Auto Click, Auto Practice, Redeem Codes]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime%20Punching%20Simulator%20Auto%20Click%20Auto%20Practice%20Redeem%20Codes.lua")
 
 addscriptexist(6284583030, "Pet Simulator X [xTools v1.3]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pet%20Simulator%20X%20xTools%20v.lua")
+
+addscriptexist(7708751418, "Smashing Simulator X [Faster Throw - Stronger Throw]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Smashing%20Simulator%20X%20Faster%20Throw%20%20Stronger%20Throw.lua")
