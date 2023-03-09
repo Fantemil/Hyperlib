@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 15:52:56"
+lastupdate = "GMT +1: 09.03.2023 15:53:00"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -19244,3 +19244,5 @@ addscriptexist(3956818381, "Ninja Legends [Auto Swing, Auto Sell, Auto Hoops]", 
 addscriptexist(662417684, "LUCKY BLOCKS Battlegrounds [Activate All Gear, Open Lucky Blocks, Equip Selected Gear]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LUCKY%20BLOCKS%20Battlegrounds%20Activate%20All%20Gear%20Open%20Lucky%20Blocks%20Equip%20Selected%20Gear.lua")
 
 addscriptexist(8357510970, "Anime Punching Simulator [Auto Click, Auto Practice, Redeem Codes]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime%20Punching%20Simulator%20Auto%20Click%20Auto%20Practice%20Redeem%20Codes.lua")
+
+addscriptexist(6284583030, "Pet Simulator X [xTools v1.3]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pet%20Simulator%20X%20xTools%20v.lua")
