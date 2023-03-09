@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 13:43:58"
+lastupdate = "GMT +1: 09.03.2023 13:44:03"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -15962,3 +15962,5 @@ addscriptexist(596894229, "Elemental Adventure [Level Farm]", "pulled from rbxsc
 addscriptexist(5130598377, "A Universal Time [Meteor Farm - Chest Farm - More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/A%20Universal%20Time%20Meteor%20Farm%20%20Chest%20Farm%20%20More.lua")
 
 addscriptexist(5956785391, "Project Slayers [ESP For Everything]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Project%20Slayers%20ESP%20For%20Everything.lua")
+
+addscriptexist(8278412720, "CS Prison Life [BETA] [Auto Arrest]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CS%20Prison%20Life%20BETA%20Auto%20Arrest.lua")
