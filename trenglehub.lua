@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 13:32:53"
+lastupdate = "GMT +1: 09.03.2023 13:32:57"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -15670,3 +15670,5 @@ addscriptexist(10386774046, "Legend Magician [Auto Farm]", "pulled from rbxscrip
 addscriptexist(8303902695, "Pet Posse Simulator [Auto Coins, Rebirth, Auto Open Egg]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pet%20Posse%20Simulator%20Auto%20Coins%20Rebirth%20Auto%20Open%20Egg.lua")
 
 addscriptexist(6902912928, "GET TO THE TOP [Finish, Inf money]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/GET%20TO%20THE%20TOP%20Finish%20Inf%20money.lua")
+
+addscriptexist(286090429, "Arsenal [Sound Changer]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Arsenal%20Sound%20Changer.lua")
