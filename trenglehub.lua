@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 13:35:00"
+lastupdate = "GMT +1: 09.03.2023 13:35:07"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -15728,3 +15728,5 @@ addscriptexist(4855457388, "Demonfall [4.0] [God Mode]", "pulled from rbxscript.
 addscript(4556148591, "Current Game","Blackout [GUI - Get Any Weapon Free]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blackout%20GUI%20%20Get%20Any%20Weapon%20Free.lua")
 
 addscript(10370253487, "Current Game","You Can't Say That Again [Spam Chat]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/You%20Cant%20Say%20That%20Again%20Spam%20Chat.lua")
+
+addscriptexist(142823291, "Murder Mystery 2 [Unlock All Skins - Clientside]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Murder%20Mystery%20%20Unlock%20All%20Skins%20%20Clientside.lua")
