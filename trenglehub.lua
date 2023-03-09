@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 15:45:39"
+lastupdate = "GMT +1: 09.03.2023 15:45:43"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -19062,3 +19062,5 @@ addscriptexist(8884433153, "Collect All Pets [Auto Farm]", "pulled from rbxscrip
 addscript(5991118999, "Current Game","Mowing Masters Simulator [Auto Farm, Auto Buy Bee Egg, Full Auto Rebirth]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mowing%20Masters%20Simulator%20Auto%20Farm%20Auto%20Buy%20Bee%20Egg%20Full%20Auto%20Rebirth.lua")
 
 addscriptexist(2866967438, "Fishing Simulator [GUI - Farming]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Fishing%20Simulator%20GUI%20%20Farming.lua")
+
+addscriptexist(3210622855, "Manner's Badge Walk [Get All Cave World Badges ]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Manners%20Badge%20Walk%20Get%20All%20Cave%20World%20Badges%20.lua")
