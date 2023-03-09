@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 13:42:27"
+lastupdate = "GMT +1: 09.03.2023 13:42:31"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -15920,3 +15920,5 @@ addscriptexist(10192063645, "Thy Hood [Semi God Mode]", "pulled from rbxscript.c
 addscriptexist(3346617530, "Freeze Tag Extreme v2.4 [Anti Admin - Tag All Players & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Freeze%20Tag%20Extreme%20v%20Anti%20Admin%20%20Tag%20All%20Players%20%20More.lua")
 
 addscriptexist(8962384769, "Firework Simulator [Auto Farm - Auto Buy & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Firework%20Simulator%20Auto%20Farm%20%20Auto%20Buy%20%20More.lua")
+
+addhub("Roblox [Casty Hub]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Roblox%20Casty%20Hub.lua")
