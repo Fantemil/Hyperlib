@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 16:04:18"
+lastupdate = "GMT +1: 09.03.2023 16:04:22"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -19518,3 +19518,5 @@ addscriptexist(1537690962, "Bee Swarm Simulator [Redeem Codes - Get Boosts & Mor
 addscriptexist(8232438881, "Thief Simulator [Auto Rob NPC – Auto Farm & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Thief%20Simulator%20Auto%20Rob%20NPC%20%20Auto%20Farm%20%20More.lua")
 
 addscriptexist(8232438881, "Thief Simulator [Money Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Thief%20Simulator%20Money%20Farm.lua")
+
+addscriptexist(1345139196, "Treasure Hunt Simulator [Auto Farm Chests & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Treasure%20Hunt%20Simulator%20Auto%20Farm%20Chests%20%20More.lua")
