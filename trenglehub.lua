@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 13:26:21"
+lastupdate = "GMT +1: 09.03.2023 13:26:25"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -15502,3 +15502,5 @@ addscriptexist(9285238704, "Race Clicker [Infinite Speed]", "pulled from rbxscri
 addscriptexist(2727067538, "World Zero V1.8 [Warlord Class]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/World%20Zero%20V%20Warlord%20Class.lua")
 
 addscript(7715234692, "Current Game","cart ride around a 75 KW Diesel Generator [Anti Cheat Bypass]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/cart%20ride%20around%20a%20%20KW%20Diesel%20Generator%20Anti%20Cheat%20Bypass.lua")
+
+addscriptexist(7560156054, "Clicking Simulator [Unlock Shiny King Tophat]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Clicking%20Simulator%20Unlock%20Shiny%20King%20Tophat.lua")
