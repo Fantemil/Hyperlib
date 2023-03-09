@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 14:26:12"
+lastupdate = "GMT +1: 09.03.2023 14:26:16"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -17056,3 +17056,5 @@ addscriptexist(9017974931, "Valoblox [Silent Aim]", "pulled from rbxscript.com",
 addscriptexist(6441847031, "CHAOS [Kill PLayer]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CHAOS%20Kill%20PLayer.lua")
 
 addscriptexist(6284583030, "Pet Simulator X [Crash Server]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pet%20Simulator%20X%20Crash%20Server.lua")
+
+addscript(7839440834, "Current Game","Sea Cleaning Simulator [Modify Boat Speed & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sea%20Cleaning%20Simulator%20Modify%20Boat%20Speed%20%20More.lua")
