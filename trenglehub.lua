@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 15:53:12"
+lastupdate = "GMT +1: 09.03.2023 15:53:21"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -19250,3 +19250,5 @@ addscriptexist(6284583030, "Pet Simulator X [xTools v1.3]", "pulled from rbxscri
 addscriptexist(7708751418, "Smashing Simulator X [Faster Throw - Stronger Throw]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Smashing%20Simulator%20X%20Faster%20Throw%20%20Stronger%20Throw.lua")
 
 addscriptexist(5872075530, "Anarchy [Esp, Teleports, Unlock Radio]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anarchy%20Esp%20Teleports%20Unlock%20Radio.lua")
+
+addscriptexist(4490140733, "My Restaurant [XP Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/My%20Restaurant%20XP%20Farm.lua")
