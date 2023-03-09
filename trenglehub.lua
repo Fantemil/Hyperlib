@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 14:11:21"
+lastupdate = "GMT +1: 09.03.2023 14:11:25"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -16676,3 +16676,5 @@ addscript(4616247820, "Current Game","Journey to the Sun [Collect All Coins]", "
 addscriptexist(9344944754, "Hunter x Athena [Auto Pushup - Climb & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Hunter%20x%20Athena%20Auto%20Pushup%20%20Climb%20%20More.lua")
 
 addscriptexist(70005410, "Blox Hunt [AFK Auto Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blox%20Hunt%20AFK%20Auto%20Farm.lua")
+
+addscriptuniversal("Roblox - Universal ESP GUI", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Roblox%20%20Universal%20ESP%20GUI.lua")
