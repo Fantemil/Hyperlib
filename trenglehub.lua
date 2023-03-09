@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 14:12:23"
+lastupdate = "GMT +1: 09.03.2023 14:12:27"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -16704,3 +16704,5 @@ addscriptexist(6678877691, "ZO ぞ SAMURAI [Teleport Aura]", "pulled from rbxscr
 addscript(447452406, "Current Game","Robloxian High School [Trash Bag Spam]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Robloxian%20High%20School%20Trash%20Bag%20Spam.lua")
 
 addscriptexist(606849621, "Jailbreak [GUI - Vehicles Settings & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Jailbreak%20GUI%20%20Vehicles%20Settings%20%20More.lua")
+
+addscriptexist(7952502098, "Impossible Glass Bridge Obby [Showing the way]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Impossible%20Glass%20Bridge%20Obby%20Showing%20the%20way.lua")
