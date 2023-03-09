@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 16:02:27"
+lastupdate = "GMT +1: 09.03.2023 16:02:31"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -19474,3 +19474,5 @@ addscript(8365063484, "Current Game","Miami Drive [Inf Money]", "pulled from rbx
 addscriptexist(6125809531, "Untitled Attack On Titan [MISSION AUTOFARM]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Untitled%20Attack%20On%20Titan%20MISSION%20AUTOFARM.lua")
 
 addscriptexist(8377686524, "Undertale: Last Reset [God mode]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Undertale%20Last%20Reset%20God%20mode.lua")
+
+addscriptexist(5108587039, "Palm Ridge Beta [Auto Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Palm%20Ridge%20Beta%20Auto%20Farm.lua")
