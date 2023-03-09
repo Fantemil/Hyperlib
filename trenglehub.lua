@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 13:45:55"
+lastupdate = "GMT +1: 09.03.2023 13:45:59"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -16014,3 +16014,5 @@ addscriptexist(6711562581, "Eight Driver Car Racing [Inf money]", "pulled from r
 addscript(4456070441, "Current Game","Mayday [AimBot, ESP. GunMod]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mayday%20AimBot%20ESP%20GunMod.lua")
 
 addscriptexist(2768379856, "SCP-3008 [Auto Collect]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SCP%20Auto%20Collect.lua")
+
+addscriptexist(7180042682, "Military Tycoon [Collect all batteries]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Military%20Tycoon%20Collect%20all%20batteries.lua")
