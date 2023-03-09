@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 14:57:10"
+lastupdate = "GMT +1: 09.03.2023 14:57:15"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -17852,3 +17852,5 @@ addscriptexist(6342469457, "Heavens Arena [GUI - Auto Click, Auto Skill & More!]
 addscriptexist(537413528, "Build A Boat For Treasure [GUI - Auto Farm, Auto Buy]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Build%20A%20Boat%20For%20Treasure%20GUI%20%20Auto%20Farm%20Auto%20Buy.lua")
 
 addscriptexist(28382335, "Survival Zombie Tycoon [GUI - Auto Click, Auto Collect & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Survival%20Zombie%20Tycoon%20GUI%20%20Auto%20Click%20Auto%20Collect%20%20More.lua")
+
+addscriptexist(6769764667, "Factory Simulator [GUI - Auto Buy, Auto Collect]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Factory%20Simulator%20GUI%20%20Auto%20Buy%20Auto%20Collect.lua")
