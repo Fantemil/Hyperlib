@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 15:54:55"
+lastupdate = "GMT +1: 09.03.2023 15:55:00"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -19292,3 +19292,5 @@ addscriptexist(221718525, "Ninja Tycoon [Auto Click]", "pulled from rbxscript.co
 addscript(6683744559, "Current Game","Fighters EX [Spoof username]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Fighters%20EX%20Spoof%20username.lua")
 
 addscriptexist(8396586868, "0ne Piece Game [Auto Farm, Auto Quest, Auto Skill]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ne%20Piece%20Game%20Auto%20Farm%20Auto%20Quest%20Auto%20Skill.lua")
+
+addscriptexist(8603729161, "walk 50000 studs for nothing [Auto Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/walk%20%20studs%20for%20nothing%20Auto%20Farm.lua")
