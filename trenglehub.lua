@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 14:40:33"
+lastupdate = "GMT +1: 09.03.2023 14:40:37"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -17428,3 +17428,5 @@ addscript(5534936306, "Current Game","A JOJO UNIVERSE [Destroy Game]", "pulled f
 addscriptexist(9049840490, "Sonic Speed Simulator [Unlock All Prizes]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sonic%20Speed%20Simulator%20Unlock%20All%20Prizes.lua")
 
 addhub("KeyBrew Hub [9 Games]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/KeyBrew%20Hub%20%20Games.lua")
+
+addscriptexist(1224212277, "Mad City [Faster Auto Rob]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mad%20City%20Faster%20Auto%20Rob.lua")
