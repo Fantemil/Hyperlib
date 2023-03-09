@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 16:04:13"
+lastupdate = "GMT +1: 09.03.2023 16:04:18"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -19516,3 +19516,5 @@ addscriptexist(4616652839, "Shindo Life [Auto Spin - Auto Rejoin]", "pulled from
 addscriptexist(1537690962, "Bee Swarm Simulator [Redeem Codes - Get Boosts & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Bee%20Swarm%20Simulator%20Redeem%20Codes%20%20Get%20Boosts%20%20More.lua")
 
 addscriptexist(8232438881, "Thief Simulator [Auto Rob NPC – Auto Farm & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Thief%20Simulator%20Auto%20Rob%20NPC%20%20Auto%20Farm%20%20More.lua")
+
+addscriptexist(8232438881, "Thief Simulator [Money Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Thief%20Simulator%20Money%20Farm.lua")
