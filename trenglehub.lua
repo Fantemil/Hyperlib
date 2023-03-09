@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 15:05:41"
+lastupdate = "GMT +1: 09.03.2023 15:05:45"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18058,3 +18058,5 @@ addscriptexist(5802642341, "City Life [Auto Steal - Auto Fire GUI]", "pulled fro
 addscriptexist(5490351219, "Clicker Madness [Auto Farm GUI]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Clicker%20Madness%20Auto%20Farm%20GUI.lua")
 
 addscript(9557222597, "Current Game","Clarks CICAVERSE [Auto Collect And Complete Event]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Clarks%20CICAVERSE%20Auto%20Collect%20And%20Complete%20Event.lua")
+
+addscriptexist(9557222597, "Clarks CICAVERSE [Auto Farm & Teleports]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Clarks%20CICAVERSE%20Auto%20Farm%20%20Teleports.lua")
