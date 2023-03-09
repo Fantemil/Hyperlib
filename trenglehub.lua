@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 14:47:44"
+lastupdate = "GMT +1: 09.03.2023 14:47:50"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -17606,3 +17606,5 @@ addscriptexist(7133467811, "Spin the Bottle [Vip Area & More!]", "pulled from rb
 addscriptexist(9461798258, "Raise a Granny [Infinite Money]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Raise%20a%20Granny%20Infinite%20Money.lua")
 
 addscriptexist(3956818381, "Ninja Legends [GUI - Auto Farm, Auto Sell & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ninja%20Legends%20GUI%20%20Auto%20Farm%20Auto%20Sell%20%20More.lua")
+
+addscriptexist(7791106063, "Furry Infection [Kill All, Kill Aura, AutoGerBat]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Furry%20Infection%20Kill%20All%20Kill%20Aura%20AutoGerBat.lua")
