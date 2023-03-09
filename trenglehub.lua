@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 12:53:59"
+lastupdate = "GMT +1: 09.03.2023 12:54:04"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -15246,3 +15246,5 @@ addscriptexist(5041144419, "SCP: Roleplay [Sabotage Transformer, Auto Farm]", "p
 addscriptexist(142823291, "Murder Mystery 2 [Fly, BTools]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Murder%20Mystery%20%20Fly%20BTools.lua")
 
 addscriptexist(9666226803, "Motel Simulator [Auto Farm, Walkspeed]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Motel%20Simulator%20Auto%20Farm%20Walkspeed.lua")
+
+addscriptexist(8818978508, "Space Simulator Reborn [Auto Sell, Auto Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Space%20Simulator%20Reborn%20Auto%20Sell%20Auto%20Farm.lua")
