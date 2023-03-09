@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 13:53:32"
+lastupdate = "GMT +1: 09.03.2023 13:53:36"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -16212,3 +16212,5 @@ addscriptexist(5956785391, "Project Slayers [Lag Server]", "pulled from rbxscrip
 addscript(8473958692, "Current Game","The Trials [PHASE 2] [Overpowered GUI]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/The%20Trials%20PHASE%20%20Overpowered%20GUI.lua")
 
 addscriptexist(7336302630, "Project Delta [Teleport Bypass]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Project%20Delta%20Teleport%20Bypass.lua")
+
+addscriptexist(4169490976, "Mortem Metallum [Kill All]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mortem%20Metallum%20Kill%20All.lua")
