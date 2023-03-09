@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 13:01:55"
+lastupdate = "GMT +1: 09.03.2023 13:23:31"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -15434,3 +15434,5 @@ addscript(7183242684, "Current Game","Strength Training Simulator [Auto Farm - G
 addscriptexist(147536429, "Field Of Battle [Kill General]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Field%20Of%20Battle%20Kill%20General.lua")
 
 addscriptexist(21532277, "Notoriety [GUI - Teleports]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Notoriety%20GUI%20%20Teleports.lua")
+
+addscript(6720959312, "Current Game","LootQuest [BETA] [Anti Afk & Auto Fuse]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LootQuest%20BETA%20Anti%20Afk%20%20Auto%20Fuse.lua")
