@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 15:12:22"
+lastupdate = "GMT +1: 09.03.2023 15:12:26"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18226,3 +18226,5 @@ addscriptexist(370731277, "MeepCity [Game Destroyer]", "pulled from rbxscript.co
 addscriptexist(4996049426, "All Star Tower Defense [GUI - Auto Join, Auto Evolve, More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/All%20Star%20Tower%20Defense%20GUI%20%20Auto%20Join%20Auto%20Evolve%20More.lua")
 
 addscriptexist(286090429, "Arsenal [Silent Aim - Fov - ESP & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Arsenal%20Silent%20Aim%20%20Fov%20%20ESP%20%20More.lua")
+
+addscriptexist(1224212277, "Mad City [Kill Aura]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mad%20City%20Kill%20Aura.lua")
