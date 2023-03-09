@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 12:52:44"
+lastupdate = "GMT +1: 09.03.2023 12:52:48"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -15214,3 +15214,5 @@ addscriptexist(10118559731, "nico's nextbots [bloodmoon] [ESP, Door Spam]", "pul
 addscriptexist(8811271345, "Balanced Craftwars Overhaul [Auto Equip, Teleport]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Balanced%20Craftwars%20Overhaul%20Auto%20Equip%20Teleport.lua")
 
 addscriptexist(4863541388, "Scythe Masters [Auto click]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Scythe%20Masters%20Auto%20click.lua")
+
+addscriptexist(10447882390, "Zombie Research Tycoon [Auto Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Zombie%20Research%20Tycoon%20Auto%20Farm.lua")
