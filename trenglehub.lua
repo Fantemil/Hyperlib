@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 14:45:27"
+lastupdate = "GMT +1: 09.03.2023 14:45:31"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -17550,3 +17550,5 @@ addscriptexist(9388793159, "Coruscant Roleplay [Silent Aim, Hit Chance, Hit Part
 addscriptexist(5965591336, "Soul War [Infinite Boost]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Soul%20War%20Infinite%20Boost.lua")
 
 addscriptexist(263761432, "Horrific Housing [Semi God Mode]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Horrific%20Housing%20Semi%20God%20Mode.lua")
+
+addscriptexist(1927139201, "The Border [Get All Scraps]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/The%20Border%20Get%20All%20Scraps.lua")
