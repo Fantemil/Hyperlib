@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 15:02:54"
+lastupdate = "GMT +1: 09.03.2023 15:02:58"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -17992,3 +17992,5 @@ addscriptexist(8278412720, "Prison Life: Remastered [No ragdoll, No fall damage,
 addscriptexist(9072679513, "Anime Impact Simulator [Auto Upgrade, Teleport, Auto Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime%20Impact%20Simulator%20Auto%20Upgrade%20Teleport%20Auto%20Farm.lua")
 
 addscriptexist(9049840490, "Sonic Speed Simulator [Collect All Hoops, Auto Rebirth, Auto Step]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sonic%20Speed%20Simulator%20Collect%20All%20Hoops%20Auto%20Rebirth%20Auto%20Step.lua")
+
+addscriptexist(9049840490, "Sonic Speed Simulator [Auto Collect]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sonic%20Speed%20Simulator%20Auto%20Collect.lua")
