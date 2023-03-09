@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 14:59:46"
+lastupdate = "GMT +1: 09.03.2023 14:59:51"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -17916,3 +17916,5 @@ addscript(9139880532, "Current Game","Trollverse RP [Get Weapons, Damage Multipl
 addscriptexist(7622046644, "Monster Ghoul [Insta kill, Auto Kill]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Monster%20Ghoul%20Insta%20kill%20Auto%20Kill.lua")
 
 addscript(9495079370, "Current Game","Collecting Simulator [Auto Weights, Sell, Open Source]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Collecting%20Simulator%20Auto%20Weights%20Sell%20Open%20Source.lua")
+
+addscriptexist(7622046644, "Monster Ghoul [Change to kagunes/quinques you want]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Monster%20Ghoul%20Change%20to%20kagunesquinques%20you%20want.lua")
