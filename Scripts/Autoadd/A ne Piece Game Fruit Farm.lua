@@ -1,0 +1,2 @@
+getgenv().CanServerHop = true --Set to "false" if you don't want it to server hop (Would recommend having it enabled)
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Kaiden00/Scripts/main/AOPG%20Fruit"))()
