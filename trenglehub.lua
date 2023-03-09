@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 14:30:28"
+lastupdate = "GMT +1: 09.03.2023 14:30:32"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -17166,3 +17166,5 @@ addscriptexist(6915291292, "Bakery Simulator [Buy Ovens]", "pulled from rbxscrip
 addscriptexist(4855457388, "Demonfall [GUI - Auto Farm, Auto Collect]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Demonfall%20GUI%20%20Auto%20Farm%20Auto%20Collect.lua")
 
 addscriptexist(6808416928, "Aimblox BETA [Kill All]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Aimblox%20BETA%20Kill%20All.lua")
+
+addscriptexist(9726345231, "Duolingo Game Hub [Free Items]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Duolingo%20Game%20Hub%20Free%20Items.lua")
