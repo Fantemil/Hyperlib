@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 12:59:41"
+lastupdate = "GMT +1: 09.03.2023 12:59:45"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -15382,3 +15382,5 @@ addscriptexist(5201039691, "Tatakai V.2 [ESP, Autofarm]", "pulled from rbxscript
 addscriptexist(192800, "Work at a Pizza Place [Auto Farm, Walkspeed]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Work%20at%20a%20Pizza%20Place%20Auto%20Farm%20Walkspeed.lua")
 
 addscriptexist(10351639671, "Anime Legends Simulator [Auto Click, Auto Egg]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime%20Legends%20Simulator%20Auto%20Click%20Auto%20Egg.lua")
+
+addscriptexist(10106105124, "Wheat Farming Simulator [Auto Farm, Auto Sell]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Wheat%20Farming%20Simulator%20Auto%20Farm%20Auto%20Sell.lua")
