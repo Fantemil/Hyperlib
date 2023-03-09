@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 14:36:56"
+lastupdate = "GMT +1: 09.03.2023 14:37:02"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -17336,3 +17336,5 @@ addscriptexist(5766084948, "SCP The Red Lake [Infinite Ammo]", "pulled from rbxs
 addscriptexist(155382109, "Survive and Kill the Killers in Area 51 [Anti Afk, Walk Speed, Give all Guns]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Survive%20and%20Kill%20the%20Killers%20in%20Area%20%20Anti%20Afk%20Walk%20Speed%20Give%20all%20Guns.lua")
 
 addscriptexist(537413528, "Build A Boat For Treasure [Auto Farm, Redeem all code]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Build%20A%20Boat%20For%20Treasure%20Auto%20Farm%20Redeem%20all%20code.lua")
+
+addscriptexist(3956818381, "Ninja Legends [Auto Swing, Auto Sell, Teleport To Coins]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ninja%20Legends%20Auto%20Swing%20Auto%20Sell%20Teleport%20To%20Coins.lua")
