@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 13:51:11"
+lastupdate = "GMT +1: 09.03.2023 13:51:16"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -16152,3 +16152,5 @@ addscriptexist(8203181639, "Syrian Shenanigans [Bypass the anticheat]", "pulled 
 addscriptexist(623694595, "Phenom [Drop Ball]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Phenom%20Drop%20Ball.lua")
 
 addscriptexist(6678877691, "ZO [KillAura, Esp, Equip Weapon]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ZO%20KillAura%20Esp%20Equip%20Weapon.lua")
+
+addscriptexist(5956785391, "Project Slayers [GUI - Level Farm & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Project%20Slayers%20GUI%20%20Level%20Farm%20%20More.lua")
