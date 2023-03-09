@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 15:52:08"
+lastupdate = "GMT +1: 09.03.2023 15:52:13"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -19224,3 +19224,5 @@ addscriptexist(534701013, "The Labyrinth [Auto Fish, Auto Tress Maze, Esp]", "pu
 addscriptexist(5490351219, "X100 CLICKS Clicker Madness [Auto Click, Auto Rebirth , Gamepass]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/X%20CLICKS%20Clicker%20Madness%20Auto%20Click%20Auto%20Rebirth%20%20Gamepass.lua")
 
 addscriptexist(1417427737, "Mining Simulator [Open Buy Menu, Go to Candy Land, Sell Blocks]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mining%20Simulator%20Open%20Buy%20Menu%20Go%20to%20Candy%20Land%20Sell%20Blocks.lua")
+
+addscriptexist(8592863835, "Magnet Simulator 2 [Auto Farm, Auto Sell, Auto Open Egg]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Magnet%20Simulator%20%20Auto%20Farm%20Auto%20Sell%20Auto%20Open%20Egg.lua")
