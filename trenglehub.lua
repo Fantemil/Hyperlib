@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 14:25:43"
+lastupdate = "GMT +1: 09.03.2023 14:25:47"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -17044,3 +17044,5 @@ addscriptexist(3234050617, "Left 2 Die Overhaul [infinite ammo, No recoll, No Sp
 addscriptexist(8540346411, "Rebirth Champions X [Auto Farm GUI]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Rebirth%20Champions%20X%20Auto%20Farm%20GUI.lua")
 
 addscript(9609300403, "Current Game","Jackpot [Auto Martingale]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Jackpot%20Auto%20Martingale.lua")
+
+addscriptexist(9017974931, "Valoblox [Auto Instantly Defuse Bomb]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Valoblox%20Auto%20Instantly%20Defuse%20Bomb.lua")
