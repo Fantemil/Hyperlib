@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 13:58:29"
+lastupdate = "GMT +1: 09.03.2023 13:58:34"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -16346,3 +16346,5 @@ addscriptexist(8069117419, "Demon Soul Simulator [GUI - Auto Farm, Auto Punch & 
 addscriptexist(8069117419, "Demon Soul Simulator [Breathing Dupe]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Demon%20Soul%20Simulator%20Breathing%20Dupe.lua")
 
 addscriptuniversal("Roblox [Universal Silent Aim]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Roblox%20Universal%20Silent%20Aim.lua")
+
+addscriptexist(5956785391, "Project Slayers [Muzan TP]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Project%20Slayers%20Muzan%20TP.lua")
