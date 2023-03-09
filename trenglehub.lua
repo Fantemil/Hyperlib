@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 15:11:27"
+lastupdate = "GMT +1: 09.03.2023 15:11:31"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18204,3 +18204,5 @@ addhub("Extreme Hub [Supported 5 Games]", "pulled from rbxscript.com", "https://
 addscriptexist(5712833750, "Animal Simulator [Morphs & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Animal%20Simulator%20Morphs%20%20More.lua")
 
 addscriptexist(4860819035, "Plants vs Zombies Garden Problem [Infinite Money]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Plants%20vs%20Zombies%20Garden%20Problem%20Infinite%20Money.lua")
+
+addscriptexist(9292879820, "Grass Cutting Incremental [Auto Collect]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Grass%20Cutting%20Incremental%20Auto%20Collect.lua")
