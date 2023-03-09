@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 13:43:31"
+lastupdate = "GMT +1: 09.03.2023 13:43:38"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -15950,3 +15950,5 @@ addscriptexist(8278412720, "CS Prison Life [BETA] [Anti Cheat Bypass]", "pulled 
 addscriptexist(4581966615, "Anomic [Combat ready auto heal, Bonfire’s backpack spy, Silent aim]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anomic%20Combat%20ready%20auto%20heal%20Bonfires%20backpack%20spy%20Silent%20aim.lua")
 
 addscriptexist(286090429, "Arsenal [Aimbot, Esp, no Recoil]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Arsenal%20Aimbot%20Esp%20no%20Recoil.lua")
+
+addscriptexist(7009799230, "Pressure Wash Simulator [GUI - Inf Money & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pressure%20Wash%20Simulator%20GUI%20%20Inf%20Money%20%20More.lua")
