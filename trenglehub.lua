@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 13:40:54"
+lastupdate = "GMT +1: 09.03.2023 13:40:59"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -15880,3 +15880,5 @@ addscriptexist(6298464951, "Unbreakable [Get 100K Cash & Items]", "pulled from r
 addscriptexist(10192063645, "Thy hood [GUI V2 - Auto Farm Trash - Kill Players And Teleports!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Thy%20hood%20GUI%20V%20%20Auto%20Farm%20Trash%20%20Kill%20Players%20And%20Teleports.lua")
 
 addscriptexist(1537690962, "Bee Swarm Simulator - Chocmoc [ Smart Autofarm, Farm in boosted fields]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Bee%20Swarm%20Simulator%20%20Chocmoc%20%20Smart%20Autofarm%20Farm%20in%20boosted%20fields.lua")
+
+addscriptexist(10198661638, "Farm Factory Tycoon [Free Diamonds Remote]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Farm%20Factory%20Tycoon%20Free%20Diamonds%20Remote.lua")
