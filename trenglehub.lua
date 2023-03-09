@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 13:56:42"
+lastupdate = "GMT +1: 09.03.2023 13:56:46"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -16298,3 +16298,5 @@ addscriptexist(5956785391, "Project Slayer [Auto Spin]", "pulled from rbxscript.
 addscriptexist(5956785391, "Project Slayer [Claim Spin]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Project%20Slayer%20Claim%20Spin.lua")
 
 addscriptexist(5956785391, "Project Slayers [Auto Fast Spin]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Project%20Slayers%20Auto%20Fast%20Spin.lua")
+
+addscript(4598019433, "Current Game","Generic Roleplay Gaem. [Afk Rice Auto Farm, Name Hide & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Generic%20Roleplay%20Gaem%20Afk%20Rice%20Auto%20Farm%20Name%20Hide%20%20More.lua")
