@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 16:00:49"
+lastupdate = "GMT +1: 09.03.2023 16:00:54"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -19436,3 +19436,5 @@ addscriptexist(8377686524, "Undertale Last Reset [Insta Kill Everything] - DOESN
 addscriptexist(7800644383, "Untitled Hood [Lettuce Auto Farm - Fast]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Untitled%20Hood%20Lettuce%20Auto%20Farm%20%20Fast.lua")
 
 addscriptexist(6667701234, "Fate/Xero [Teleport All Items]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FateXero%20Teleport%20All%20Items.lua")
+
+addscript(8300860655, "Current Game","Warfronts (BETA) [Kill Everyone / Kill All Enemies]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Warfronts%20BETA%20Kill%20Everyone%20%20Kill%20All%20Enemies.lua")
