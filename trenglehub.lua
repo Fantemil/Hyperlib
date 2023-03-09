@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 14:59:38"
+lastupdate = "GMT +1: 09.03.2023 14:59:42"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -17912,3 +17912,5 @@ addscript(7665856814, "Current Game","Insomniac World Party [Auto Mine]", "pulle
 addscriptexist(2262441883, "Electric State DarkRP [God Mode - Open Source]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Electric%20State%20DarkRP%20God%20Mode%20%20Open%20Source.lua")
 
 addscript(9139880532, "Current Game","Trollverse RP [Get Weapons, Damage Multiply]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Trollverse%20RP%20Get%20Weapons%20Damage%20Multiply.lua")
+
+addscriptexist(7622046644, "Monster Ghoul [Insta kill, Auto Kill]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Monster%20Ghoul%20Insta%20kill%20Auto%20Kill.lua")
