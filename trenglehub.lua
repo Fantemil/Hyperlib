@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 14:48:45"
+lastupdate = "GMT +1: 09.03.2023 14:48:50"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -17634,3 +17634,5 @@ addscriptexist(9049840490, "Sonic Speed Simulator [Auto Run, Auto Rebirth, Auto 
 addscript(2965881766, "Current Game","Brawl-Blox [Inf gold, Inf gems, Inf exp]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BrawlBlox%20Inf%20gold%20Inf%20gems%20Inf%20exp.lua")
 
 addscript(6339160453, "Current Game","Anime Ninja War Tycoon [Infinite Diamonds]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime%20Ninja%20War%20Tycoon%20Infinite%20Diamonds.lua")
+
+addscript(6751725264, "Current Game","Demon Slayer: A Slayer's Journey [Infinite money, infinite health, Disable Sun Burn]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Demon%20Slayer%20A%20Slayers%20Journey%20Infinite%20money%20infinite%20health%20Disable%20Sun%20Burn.lua")
