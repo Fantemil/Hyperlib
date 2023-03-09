@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 13:54:19"
+lastupdate = "GMT +1: 09.03.2023 13:54:23"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -16234,3 +16234,5 @@ addscriptexist(142823291, "Murder Mystery 2 [GUI - Kill All, Esp]", "pulled from
 addscriptexist(537413528, "SPAK hub [Admin, fly, aim and ESP]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SPAK%20hub%20Admin%20fly%20aim%20and%20ESP.lua")
 
 addscriptexist(9940051005, "Blox Legends [Collect All Pads]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blox%20Legends%20Collect%20All%20Pads.lua")
+
+addscriptexist(4951858512, "Victory Race [Increase Speed & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Victory%20Race%20Increase%20Speed%20%20More.lua")
