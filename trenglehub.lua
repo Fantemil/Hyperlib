@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 15:43:28"
+lastupdate = "GMT +1: 09.03.2023 15:43:32"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -19008,3 +19008,5 @@ addscriptexist(4566572536, "Vehicle Legends [Teleports, Spawn Skateboard, hp pow
 addscriptexist(5116869569, "Doodle World [Attack Wild Doodles Anywhere]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Doodle%20World%20Attack%20Wild%20Doodles%20Anywhere.lua")
 
 addscriptexist(8492553855, "Project Upright [New Auto Farm GUI]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Project%20Upright%20New%20Auto%20Farm%20GUI.lua")
+
+addscriptexist(8781849572, "Star Simulator Beta [Complete Auto Farm GUI]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Star%20Simulator%20Beta%20Complete%20Auto%20Farm%20GUI.lua")
