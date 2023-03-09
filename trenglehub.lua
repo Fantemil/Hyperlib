@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 15:45:57"
+lastupdate = "GMT +1: 09.03.2023 15:46:02"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -19070,3 +19070,5 @@ addscriptexist(6778844213, "Euphoria ragdoll testing [Get Gamepass GUI]", "pulle
 addscriptexist(662417684, "LUCKY BLOCKS Battlegrounds [Lucky Blox, Esp Player, Teleport to Home]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LUCKY%20BLOCKS%20Battlegrounds%20Lucky%20Blox%20Esp%20Player%20Teleport%20to%20Home.lua")
 
 addscript(1417427737, "Current Game","Mining Simulator [Noclip, Sell blocks, Fly]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mining%20Simulator%20Noclip%20Sell%20blocks%20Fly.lua")
+
+addscriptexist(7560156054, "Clicker Simulator [Auto Click, Auto Collect, Chests, Auto Collect All Gifts]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Clicker%20Simulator%20Auto%20Click%20Auto%20Collect%20Chests%20Auto%20Collect%20All%20Gifts.lua")
