@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 12:50:23"
+lastupdate = "GMT +1: 09.03.2023 12:50:32"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -15154,3 +15154,5 @@ addscriptexist(2653064683, "Word Bomb [Auto Guess]", "pulled from rbxscript.com"
 addscriptexist(9285238704, "Race Clicker [Auto Win Race]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Race%20Clicker%20Auto%20Win%20Race.lua")
 
 addscriptexist(2788229376, "Da Hood [Jojo Stand]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Da%20Hood%20Jojo%20Stand.lua")
+
+addscriptexist(7026828578, "Speed Simulator [Auto Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Speed%20Simulator%20Auto%20Farm.lua")
