@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 15:57:19"
+lastupdate = "GMT +1: 09.03.2023 15:57:23"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -19350,3 +19350,5 @@ addscript(3144588566, "Current Game","The Lost Land [Auto Farm Ores - Pickup Stu
 addscript(7551121821, "Current Game","Decaying Winter[Admin cmd]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Decaying%20WinterAdmin%20cmd.lua")
 
 addscriptexist(8396586868, "A 0ne Piece Game[Auto Farm, Auto Skill, Auto fer gruit]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/A%20ne%20Piece%20GameAuto%20Farm%20Auto%20Skill%20Auto%20fer%20gruit.lua")
+
+addscriptexist(536102540, "Dragon Ball [Auto Quest, Auto Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Dragon%20Ball%20Auto%20Quest%20Auto%20Farm.lua")
