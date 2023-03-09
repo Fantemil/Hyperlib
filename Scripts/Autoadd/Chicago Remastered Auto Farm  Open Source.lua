@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/GuniDev/Roblox-Misc-scripts/main/Chicago-Remastered%20Autofarm", true))()
