@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 15:37:26"
+lastupdate = "GMT +1: 09.03.2023 15:37:32"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18854,3 +18854,5 @@ addscriptexist(8146731988, "Ultra Power Tycoon [Get All Gear & More!]", "pulled 
 addscriptexist(8540168650, "Stand Upright Rebooted [Anti Cheat Bypass - Open Source]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Stand%20Upright%20Rebooted%20Anti%20Cheat%20Bypass%20%20Open%20Source.lua")
 
 addscriptexist(8982709021, "YouTube Life [Free Auto Farm GUI]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/YouTube%20Life%20Free%20Auto%20Farm%20GUI.lua")
+
+addscriptexist(6679274937, "Vans World [Auto Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Vans%20World%20Auto%20Farm.lua")
