@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 15:46:30"
+lastupdate = "GMT +1: 09.03.2023 15:46:34"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -19084,3 +19084,5 @@ addscript(8003084678, "Current Game","oMega Obby Parkour 525 Stages [Infinite Pr
 addscriptexist(8003084678, "oMega Obby Parkour 525 Stages [Auto Stages & Badges]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/oMega%20Obby%20Parkour%20%20Stages%20Auto%20Stages%20%20Badges.lua")
 
 addscriptexist(4997792989, "HOMELESS Simulator in Russia [Infinite Money]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/HOMELESS%20Simulator%20in%20Russia%20Infinite%20Money.lua")
+
+addscriptuniversal("Universal HitBox Extender GUI", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20HitBox%20Extender%20GUI.lua")
