@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 15:54:22"
+lastupdate = "GMT +1: 09.03.2023 15:54:27"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -19278,3 +19278,5 @@ addscriptexist(2788229376, "Da Hood [Collect items]", "pulled from rbxscript.com
 addscriptexist(606849621, "Jailbreak [kill Aura, Auto Farm, Collect airdrops]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Jailbreak%20kill%20Aura%20Auto%20Farm%20Collect%20airdrops.lua")
 
 addscriptexist(6284583030, "Pet Simulator X [Mini Farming GUI]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pet%20Simulator%20X%20Mini%20Farming%20GUI.lua")
+
+addscriptexist(3527629287, "BIG Paintball [Kill All - Open Source]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BIG%20Paintball%20Kill%20All%20%20Open%20Source.lua")
