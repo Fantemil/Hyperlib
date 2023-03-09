@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 15:07:17"
+lastupdate = "GMT +1: 09.03.2023 15:07:22"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18098,3 +18098,5 @@ addscriptexist(9344944754, "Hunter x Athena [Auto Pushups - Auto Eat & More!]", 
 addscriptexist(9344944754, "Hunter x Athena [Auto Buy Apples]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Hunter%20x%20Athena%20Auto%20Buy%20Apples.lua")
 
 addscript(705844193, "Current Game","One Piece Online Rebirth [Grab All Chests}", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/One%20Piece%20Online%20Rebirth%20Grab%20All%20Chests.lua")
+
+addscriptexist(534701013, "The Labyrinth [GUI - Really Overpowered]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/The%20Labyrinth%20GUI%20%20Really%20Overpowered.lua")
