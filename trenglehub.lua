@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 12:26:55"
+lastupdate = "GMT +1: 09.03.2023 12:31:24"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -15132,3 +15132,5 @@ addscriptexist(4581966615, "Anomic Infinite Yield", "pulled from rscripts", "htt
 addscriptexist(5783581, "TPS: Ultimate Soccer [Inf Stamina, Auto goal, Shoot fast]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TPS%20Ultimate%20Soccer%20Inf%20Stamina%20Auto%20goal%20Shoot%20fast.lua")
 
 addscript(8747402506, "Current Game","Prop Hunt [Auto Win]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Prop%20Hunt%20Auto%20Win.lua")
+
+addscriptexist(6884319169, "MIC UP [Anti-AFK, Fly, WalkSpeed changer, TPs]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MIC%20UP%20AntiAFK%20Fly%20WalkSpeed%20changer%20TPs.lua")
