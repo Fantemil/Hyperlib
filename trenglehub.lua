@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 13:58:42"
+lastupdate = "GMT +1: 09.03.2023 13:58:46"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -16352,3 +16352,5 @@ addscriptexist(5956785391, "Project Slayers [Muzan TP]", "pulled from rbxscript.
 addscriptexist(4598019433, "generic roleplay gaem [AFK Rice Autofarm, Auto Eat, Name hide]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/generic%20roleplay%20gaem%20AFK%20Rice%20Autofarm%20Auto%20Eat%20Name%20hide.lua")
 
 addscriptexist(5956785391, "Project Slayers [Data wipe again]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Project%20Slayers%20Data%20wipe%20again.lua")
+
+addscriptexist(7140186081, "GunGame [Kill All]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/GunGame%20Kill%20All.lua")
