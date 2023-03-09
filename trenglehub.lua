@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 14:51:40"
+lastupdate = "GMT +1: 09.03.2023 14:51:45"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -17710,3 +17710,5 @@ addscriptexist(6969185078, "Elemental Awakening [Auto Level]", "pulled from rbxs
 addscriptexist(6938803436, "Bird Hub [7 Games]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Bird%20Hub%20%20Games.lua")
 
 addscriptexist(5543622168, "Critical Tower Defense [GUI - Change Tower Colors]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Critical%20Tower%20Defense%20GUI%20%20Change%20Tower%20Colors.lua")
+
+addscriptexist(2809202155, "Your Bizarre Adventure [Fly Bypass]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Your%20Bizarre%20Adventure%20Fly%20Bypass.lua")
