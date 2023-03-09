@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/HeiKe2022/Freeze-Tag-v2.1/main/FTv2.1.lua"))()
