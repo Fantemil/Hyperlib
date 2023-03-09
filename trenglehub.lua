@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 15:50:57"
+lastupdate = "GMT +1: 09.03.2023 15:51:01"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -19196,3 +19196,5 @@ addscriptexist(45146873, "Tower Battles [Modding, Tower Purchasing, Teleport All
 addscript(8893378293, "Current Game","GRAMMY Week [All quest]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/GRAMMY%20Week%20All%20quest.lua")
 
 addscriptexist(8893378293, "GRAMMY Week [Get all evnt items]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/GRAMMY%20Week%20Get%20all%20evnt%20items.lua")
+
+addscriptexist(71315343, "Dragon Ball Rage [Auto Charge, Train energy, Auto zenkai]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Dragon%20Ball%20Rage%20Auto%20Charge%20Train%20energy%20Auto%20zenkai.lua")
