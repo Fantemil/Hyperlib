@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 14:50:29"
+lastupdate = "GMT +1: 09.03.2023 14:50:33"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -17678,3 +17678,5 @@ addscriptexist(6342469457, "Heavens Arena [No Stun - Anti Combo, Hide Name]", "p
 addscriptexist(740581508, "Entry Point [NPC, Camera ESP]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Entry%20Point%20NPC%20Camera%20ESP.lua")
 
 addscript(5063122755, "Current Game","Overlook RP [Auto Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Overlook%20RP%20Auto%20Farm.lua")
+
+addscriptexist(4733278992, "Sword Blox Online Rebirth [Auto Farm GUI - Kill Aura]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sword%20Blox%20Online%20Rebirth%20Auto%20Farm%20GUI%20%20Kill%20Aura.lua")
