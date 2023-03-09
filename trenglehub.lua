@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 13:41:49"
+lastupdate = "GMT +1: 09.03.2023 13:41:57"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -15904,3 +15904,5 @@ addscriptexist(4965975642, "Survival Of The Fittest [Kick Players - Set Stats & 
 addscriptexist(3346617530, "Freeze Tag Extreme v2.5 [Overpowered GUI]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Freeze%20Tag%20Extreme%20v%20Overpowered%20GUI.lua")
 
 addscriptexist(4616652839, "Shindo Life [Equip Any Bloodline Mode]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Shindo%20Life%20Equip%20Any%20Bloodline%20Mode.lua")
+
+addscriptexist(6299805723, "Anime Warriors [Simple Auto Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime%20Warriors%20Simple%20Auto%20Farm.lua")
