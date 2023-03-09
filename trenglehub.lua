@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 15:33:33"
+lastupdate = "GMT +1: 09.03.2023 15:33:37"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18758,3 +18758,5 @@ addscriptexist(9300407930, "Bot Clash [Complete All Quests]", "pulled from rbxsc
 addscriptexist(6329844902, "Pirates New Generation [Max Level & Stats]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pirates%20New%20Generation%20Max%20Level%20%20Stats.lua")
 
 addscriptexist(5951002734, "Project Baki 2 [Auto Farm Free]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Project%20Baki%20%20Auto%20Farm%20Free.lua")
+
+addscriptexist(9049840490, "Sonic Speed Simulator [The #1 Free Auto Farm GUI]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sonic%20Speed%20Simulator%20The%20%20Free%20Auto%20Farm%20GUI.lua")
