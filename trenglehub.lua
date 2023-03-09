@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 14:39:36"
+lastupdate = "GMT +1: 09.03.2023 14:39:40"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -17404,3 +17404,5 @@ addscriptexist(8448735476, "Anime Rifts [Auto Attack , Auto Skills , Auto Mob]",
 addscriptexist(4540286603, "NORTHWIND [Player Esp]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NORTHWIND%20Player%20Esp.lua")
 
 addscript(8288794825, "Current Game","Natural Disaster Survival [Remove Bad Kids]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Natural%20Disaster%20Survival%20Remove%20Bad%20Kids.lua")
+
+addscriptexist(413424176, "Clone Tycoon 2 [WalkSpeed, Jump Power, Inf Money]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Clone%20Tycoon%20%20WalkSpeed%20Jump%20Power%20Inf%20Money.lua")
