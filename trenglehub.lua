@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 15:42:50"
+lastupdate = "GMT +1: 09.03.2023 15:42:55"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18992,3 +18992,5 @@ addscriptexist(3623096087, "Muscle Legends [Auto Farm New GUI]", "pulled from rb
 addscript(8644729967, "Current Game","Zone of Alienation [Kill All Mobs]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Zone%20of%20Alienation%20Kill%20All%20Mobs.lua")
 
 addscriptexist(6401440818, "MONOLITH DEFENSE [Infinite Tech,Upgrade Points]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MONOLITH%20DEFENSE%20Infinite%20TechUpgrade%20Points.lua")
+
+addscriptexist(5116869569, "Doodle World [GUI - Auto Farming]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Doodle%20World%20GUI%20%20Auto%20Farming.lua")
