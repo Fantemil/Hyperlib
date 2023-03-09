@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 15:19:00"
+lastupdate = "GMT +1: 09.03.2023 15:19:04"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18396,3 +18396,5 @@ addscriptexist(6673614635, "unConventional [Auto Quest, No Attack Cooldown, Roll
 addscriptexist(2788229376, "Da Hood [God mode]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Da%20Hood%20God%20mode.lua")
 
 addscriptexist(8540168650, "Stand Upright Rebooted [Sort Tools, Items Farm, Auto Farm ]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Stand%20Upright%20Rebooted%20Sort%20Tools%20Items%20Farm%20Auto%20Farm%20.lua")
+
+addscriptexist(9344944754, "Hunter x Omen [Auto Speed Training]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Hunter%20x%20Omen%20Auto%20Speed%20Training.lua")
