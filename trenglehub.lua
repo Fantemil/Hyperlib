@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 15:59:22"
+lastupdate = "GMT +1: 09.03.2023 15:59:30"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -19404,3 +19404,5 @@ addscript(4599968871, "Current Game","Tower Of Hell Easy [Infinite Money]", "pul
 addscriptexist(6667701234, "Fate Xero [Skin Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Fate%20Xero%20Skin%20Farm.lua")
 
 addscriptexist(7305309231, "Taxi Boss [Auto Farm – [Updated]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Taxi%20Boss%20Auto%20Farm%20%20Updated.lua")
+
+addscript(6078267880, "Current Game","Tower Of Hell Easy [Inf Money]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tower%20Of%20Hell%20Easy%20Inf%20Money.lua")
