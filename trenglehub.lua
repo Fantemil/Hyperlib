@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 15:34:15"
+lastupdate = "GMT +1: 09.03.2023 15:34:19"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18774,3 +18774,5 @@ addscriptexist(7603178367, "Chipotle Burrito Builder [Auto Farm]", "pulled from 
 addscriptexist(537413528, "Build A Boat For Treasure [Auto Buy, Auto Farm, Get All Items Free]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Build%20A%20Boat%20For%20Treasure%20Auto%20Buy%20Auto%20Farm%20Get%20All%20Items%20Free.lua")
 
 addscriptexist(5116869569, "Doodle World [Auto Find]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Doodle%20World%20Auto%20Find.lua")
+
+addscriptexist(2639416308, "Ace Attorney [Annoy Server]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ace%20Attorney%20Annoy%20Server.lua")
