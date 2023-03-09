@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 14:34:56"
+lastupdate = "GMT +1: 09.03.2023 14:35:01"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -17284,3 +17284,5 @@ addscriptexist(2727067538, "World // Zero [Kill Aura]", "pulled from rbxscript.c
 addscriptexist(5827078246, "Coins Hero Simulator [Auto Coin, Auto Sell, AutoEgg]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Coins%20Hero%20Simulator%20Auto%20Coin%20Auto%20Sell%20AutoEgg.lua")
 
 addscript(574407221, "Current Game","Super Hero Tycoon [Crate Farm, Auto Cash, Auto Click]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Super%20Hero%20Tycoon%20Crate%20Farm%20Auto%20Cash%20Auto%20Click.lua")
+
+addscriptexist(4522347649, "Free Admin [Unlock Gamepass]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Free%20Admin%20Unlock%20Gamepass.lua")
