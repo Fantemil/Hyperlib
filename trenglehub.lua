@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 15:36:19"
+lastupdate = "GMT +1: 09.03.2023 15:36:24"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18826,3 +18826,5 @@ addscriptexist(370731277, "MeepCity [GUI With Coin Generator & More!]", "pulled 
 addscript(4539184430, "Current Game","Speed Champions [Auto Farm GUI - Get Unlimited Diamond Hunters]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Speed%20Champions%20Auto%20Farm%20GUI%20%20Get%20Unlimited%20Diamond%20Hunters.lua")
 
 addscript(334218733, "Current Game","Warships [GUI - Give Coins - Give Ships - Kill All & Instant Reload]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Warships%20GUI%20%20Give%20Coins%20%20Give%20Ships%20%20Kill%20All%20%20Instant%20Reload.lua")
+
+addscriptexist(4753520418, "The Hood [Egg ESP]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/The%20Hood%20Egg%20ESP.lua")
