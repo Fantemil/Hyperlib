@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 13:42:49"
+lastupdate = "GMT +1: 09.03.2023 13:42:53"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -15930,3 +15930,5 @@ addscriptexist(5571328985, "Bloodlines [Auto Farm]", "pulled from rbxscript.com"
 addscriptexist(3686253681, "Planet Simulator [Change Planet Mass]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Planet%20Simulator%20Change%20Planet%20Mass.lua")
 
 addscript(6711562581, "Current Game","Eight Driver Car Racing [Infinite Drift]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Eight%20Driver%20Car%20Racing%20Infinite%20Drift.lua")
+
+addscriptexist(6711562581, "Eight Driver Car Racing [Infinite Money]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Eight%20Driver%20Car%20Racing%20Infinite%20Money.lua")
