@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 14:16:36"
+lastupdate = "GMT +1: 09.03.2023 14:16:41"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -16816,3 +16816,5 @@ addscriptexist(6677985923, "Millionaire Empire Tycoon [Infinite Money Remote]", 
 addscriptexist(6206893534, "Cobra Kai Karate [GUI - Auto Farming]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Cobra%20Kai%20Karate%20GUI%20%20Auto%20Farming.lua")
 
 addscriptexist(180037022, "Sonic Ultimate RPG [Get All Rings]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sonic%20Ultimate%20RPG%20Get%20All%20Rings.lua")
+
+addscriptexist(180037022, "Sonic Ultimate RPG [Get All Emeralds]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sonic%20Ultimate%20RPG%20Get%20All%20Emeralds.lua")
