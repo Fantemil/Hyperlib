@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 13:50:54"
+lastupdate = "GMT +1: 09.03.2023 13:50:59"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -16144,3 +16144,5 @@ addscriptexist(7419509075, "cart ride around used car battery [Get All The Troll
 addscriptexist(9677464361, "Basketball Pro Simulator [Auto Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Basketball%20Pro%20Simulator%20Auto%20Farm.lua")
 
 addscriptexist(8203181639, "Syrian Shenanigans [Full auto tank]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Syrian%20Shenanigans%20Full%20auto%20tank.lua")
+
+addscriptexist(8203181639, "Syrian Shenanigans [Keybinds]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Syrian%20Shenanigans%20Keybinds.lua")
