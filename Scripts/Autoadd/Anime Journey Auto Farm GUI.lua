@@ -1,1 +1,1 @@
-loadstring(game:HttpGet(('https://raw.githubusercontent.com/XTheMasterX/Scripts/Main/AnimeJourney'),true))()
+loadstring(game:HttpGet('https://raw.githubusercontent.com/04q/robloxscripts/main/AnimeJourney.lua'))()
