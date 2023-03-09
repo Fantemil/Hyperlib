@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 15:34:24"
+lastupdate = "GMT +1: 09.03.2023 15:34:28"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18778,3 +18778,5 @@ addscriptexist(5116869569, "Doodle World [Auto Find]", "pulled from rbxscript.co
 addscriptexist(2639416308, "Ace Attorney [Annoy Server]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ace%20Attorney%20Annoy%20Server.lua")
 
 addscriptexist(8492553855, "Project Upright [Npc Farm, Item Farm, Stand Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Project%20Upright%20Npc%20Farm%20Item%20Farm%20Stand%20Farm.lua")
+
+addscript(7186363515, "Current Game","A Legacy Time [Kill Aura]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/A%20Legacy%20Time%20Kill%20Aura.lua")
