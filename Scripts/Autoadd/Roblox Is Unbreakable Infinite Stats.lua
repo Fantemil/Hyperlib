@@ -1,0 +1,1 @@
+game:GetService("ReplicatedStorage").Events.SkillUnlockEvent:FireServer(game.Players.LocalPlayer.Character, "Defense5", -9e9, "Attribute", "Player")
