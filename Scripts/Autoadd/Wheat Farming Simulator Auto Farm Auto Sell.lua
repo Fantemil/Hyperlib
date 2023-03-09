@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://raw.githubusercontent.com/PapierLP/Scripts/main/Wheat%20Farming%20Simulator'))()
