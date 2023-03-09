@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 15:50:43"
+lastupdate = "GMT +1: 09.03.2023 15:50:47"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -19190,3 +19190,5 @@ addscriptexist(4924922222, "Brookhaven [Home Menu, House Menu, Players Memu]", "
 addscriptexist(8540346411, "Rebirth Champions X [Auto Click, Auto Claim Chests, Auto Buy Upgrades]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Rebirth%20Champions%20X%20Auto%20Click%20Auto%20Claim%20Chests%20Auto%20Buy%20Upgrades.lua")
 
 addscriptexist(8357510970, "Anime Punching Simulator [Auto Click, Redeem Codes, Auto Rebirth]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime%20Punching%20Simulator%20Auto%20Click%20Redeem%20Codes%20Auto%20Rebirth.lua")
+
+addscriptexist(45146873, "Tower Battles [Modding, Tower Purchasing, Teleport All Zombie]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tower%20Battles%20Modding%20Tower%20Purchasing%20Teleport%20All%20Zombie.lua")
