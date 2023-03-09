@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 14:27:45"
+lastupdate = "GMT +1: 09.03.2023 14:27:50"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -17098,3 +17098,5 @@ addscriptexist(9726345231, "Duolingo Game Hub [Dev Badge - Roblox Event]", "pull
 addhub("Arctic Hub [3 Games]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Arctic%20Hub%20%20Games.lua")
 
 addscriptexist(2788229376, "Da Hood [GUI - Aimlock, KillBot & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Da%20Hood%20GUI%20%20Aimlock%20KillBot%20%20More.lua")
+
+addscriptexist(893973440, "Flee the Facility [GUI - Esp, Teleports]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Flee%20the%20Facility%20GUI%20%20Esp%20Teleports.lua")
