@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 14:58:49"
+lastupdate = "GMT +1: 09.03.2023 14:58:59"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -17894,3 +17894,5 @@ addscript(8438695556, "Current Game","Luck Simulator [upgrade Luck, Auto Magnet,
 addscriptexist(9438506890, "raise a sogga [Money Giver]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/raise%20a%20sogga%20Money%20Giver.lua")
 
 addscriptexist(9508087919, "Apeirophobia [Entity ESP]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Apeirophobia%20Entity%20ESP.lua")
+
+addscriptexist(2788229376, "Da Hood [Infinite Cash]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Da%20Hood%20Infinite%20Cash.lua")
