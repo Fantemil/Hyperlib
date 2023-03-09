@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://raw.github.com/roxyrekt/HubORScript/main/Monster_Ghoul.lua'))()
