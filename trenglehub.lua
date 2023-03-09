@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 13:33:53"
+lastupdate = "GMT +1: 09.03.2023 13:33:57"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -15698,3 +15698,5 @@ addscript(9817495903, "Current Game","Impossible Red Light, Green Light! [Telepo
 addscriptexist(292439477, "Phantom Forces [Granade Aimbot]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Phantom%20Forces%20Granade%20Aimbot.lua")
 
 addscript(7115420363, "Current Game","The Booth Plaza [Bypassed Images]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/The%20Booth%20Plaza%20Bypassed%20Images.lua")
+
+addscript(7478475781, "Current Game","Undertale: Timeline Collapse [Auto Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Undertale%20Timeline%20Collapse%20Auto%20Farm.lua")
