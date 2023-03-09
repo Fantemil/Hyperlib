@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 14:47:35"
+lastupdate = "GMT +1: 09.03.2023 14:47:39"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -17602,3 +17602,5 @@ addscriptexist(2317712696, "The Wild West [Infinite Stamina]", "pulled from rbxs
 addscriptexist(2546155523, "RoVille [Auto Restock Business - Open Source]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RoVille%20Auto%20Restock%20Business%20%20Open%20Source.lua")
 
 addscriptexist(7133467811, "Spin the Bottle [Vip Area & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Spin%20the%20Bottle%20Vip%20Area%20%20More.lua")
+
+addscriptexist(9461798258, "Raise a Granny [Infinite Money]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Raise%20a%20Granny%20Infinite%20Money.lua")
