@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/TrixAde/scripts/main/NeonHub.lua", true))()
