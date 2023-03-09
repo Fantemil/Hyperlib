@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/peke5005/ThreadShit/main/DungeonCreator.lua"))()
