@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 14:19:11"
+lastupdate = "GMT +1: 09.03.2023 14:19:15"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -16880,3 +16880,5 @@ addhub("Roblox [Wheel Hub]", "pulled from rbxscript.com", "https://raw.githubuse
 addscriptexist(2546155523, "RoVille [Auto Restock Business]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RoVille%20Auto%20Restock%20Business.lua")
 
 addscript(5944009947, "Current Game","FORCE [TESTING-ZONE] [Trinket Auto Farm & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FORCE%20TESTINGZONE%20Trinket%20Auto%20Farm%20%20More.lua")
+
+addscript(9845369668, "Current Game","Goofy Ahh Spider-Man [GUI - Give All Skins]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Goofy%20Ahh%20SpiderMan%20GUI%20%20Give%20All%20Skins.lua")
