@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 13:53:40"
+lastupdate = "GMT +1: 09.03.2023 13:53:44"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -16216,3 +16216,5 @@ addscriptexist(7336302630, "Project Delta [Teleport Bypass]", "pulled from rbxsc
 addscriptexist(4169490976, "Mortem Metallum [Kill All]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mortem%20Metallum%20Kill%20All.lua")
 
 addscriptexist(9049840490, "Sonic Speed Simulator [GUI - Auto Run, Auto Rebirth & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sonic%20Speed%20Simulator%20GUI%20%20Auto%20Run%20Auto%20Rebirth%20%20More.lua")
+
+addscriptexist(6716188523, "Business Tycoon [Infinite Money]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Business%20Tycoon%20Infinite%20Money.lua")
