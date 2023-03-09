@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 15:51:11"
+lastupdate = "GMT +1: 09.03.2023 15:51:18"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -19202,3 +19202,5 @@ addscriptexist(71315343, "Dragon Ball Rage [Auto Charge, Train energy, Auto zenk
 addscriptexist(2809202155, "Your Bizarre Adventure [Auto-Farm, Teleports Bypass]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Your%20Bizarre%20Adventure%20AutoFarm%20Teleports%20Bypass.lua")
 
 addscriptexist(8554378337, "Weapon Fighting Simulator [Auto Boss, Auto Gamble, Auto Open Boss Chest]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Weapon%20Fighting%20Simulator%20Auto%20Boss%20Auto%20Gamble%20Auto%20Open%20Boss%20Chest.lua")
+
+addscriptexist(5864786637, "In Another Time [Kill Aura]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/In%20Another%20Time%20Kill%20Aura.lua")
