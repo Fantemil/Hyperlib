@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 15:15:53"
+lastupdate = "GMT +1: 09.03.2023 15:15:57"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18316,3 +18316,5 @@ addscriptexist(13822889, "Lumber Tycoon 2 [Kill Players]", "pulled from rbxscrip
 addscript(6904735821, "Current Game","Shoe Simulator [Auto Shoe - Auto Sell & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Shoe%20Simulator%20Auto%20Shoe%20%20Auto%20Sell%20%20More.lua")
 
 addscriptexist(9461798258, "Raise a Granny [Infinite Cash]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Raise%20a%20Granny%20Infinite%20Cash.lua")
+
+addscript(9474050899, "Current Game","Jackpot Party [Fast Case Opener]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Jackpot%20Party%20Fast%20Case%20Opener.lua")
