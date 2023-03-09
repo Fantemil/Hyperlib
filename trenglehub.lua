@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 15:25:00"
+lastupdate = "GMT +1: 09.03.2023 15:25:05"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18542,3 +18542,5 @@ addscriptexist(8069117419, "Demon Soul Simulator [Auto Attack, Collect Sours, Au
 addscriptexist(6677985923, "Millionaire Empire Tycoon [Infinite Cash - Auto Buy & Auto Rebirth]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Millionaire%20Empire%20Tycoon%20Infinite%20Cash%20%20Auto%20Buy%20%20Auto%20Rebirth.lua")
 
 addscript(5803957966, "Current Game","MeloBlox RPG [Auto Loot]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MeloBlox%20RPG%20Auto%20Loot.lua")
+
+addscriptexist(8540168650, "Stand Upright Rebooted [Item Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Stand%20Upright%20Rebooted%20Item%20Farm.lua")
