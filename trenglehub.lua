@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 15:48:50"
+lastupdate = "GMT +1: 09.03.2023 15:48:55"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -19142,3 +19142,5 @@ addscript(4456880028, "Current Game","Ro Crash [Admin Panel]", "pulled from rbxs
 addscriptexist(4913331862, "Recoil Zombies [Zombie ESP & More!}", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Recoil%20Zombies%20Zombie%20ESP%20%20More.lua")
 
 addhub("Roblox [Universal hub]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Roblox%20Universal%20hub.lua")
+
+addscriptexist(5116869569, "Doodle World [Generates GUID's]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Doodle%20World%20Generates%20GUIDs.lua")
