@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 15:23:44"
+lastupdate = "GMT +1: 09.03.2023 15:23:48"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18508,3 +18508,5 @@ addscriptexist(3233893879, "Bad Business 3.03 [Client Anti Cheat Bypass]", "pull
 addscript(1696916806, "Current Game","Base Raiders [Auto Farm - Auto Crate - Anti AFK]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Base%20Raiders%20Auto%20Farm%20%20Auto%20Crate%20%20Anti%20AFK.lua")
 
 addscriptexist(2512643572, "Bubble Gum Simulator [Auto Potions, Auto Lab GUI]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Bubble%20Gum%20Simulator%20Auto%20Potions%20Auto%20Lab%20GUI.lua")
+
+addscriptexist(740581508, "Entry Point [Kill NPCs, NPC Chams]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Entry%20Point%20Kill%20NPCs%20NPC%20Chams.lua")
