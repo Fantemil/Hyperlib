@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 15:18:16"
+lastupdate = "GMT +1: 09.03.2023 15:18:24"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18378,3 +18378,5 @@ addscriptexist(5154858502, "Murderer vs. Sheriffs [Kill All]", "pulled from rbxs
 addscriptexist(155382109, "Survive and Kill the Killers in Area 51 [Give all gins, Claim all rewards, All ammo]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Survive%20and%20Kill%20the%20Killers%20in%20Area%20%20Give%20all%20gins%20Claim%20all%20rewards%20All%20ammo.lua")
 
 addscript(9181315895, "Current Game","Bingus' Basement [Teleport generator, bingus bowl, food room]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Bingus%20Basement%20Teleport%20generator%20bingus%20bowl%20food%20room.lua")
+
+addscriptexist(9297410766, "Crossbar Challenge Simulator [Good goal]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Crossbar%20Challenge%20Simulator%20Good%20goal.lua")
