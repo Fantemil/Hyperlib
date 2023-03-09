@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 15:15:57"
+lastupdate = "GMT +1: 09.03.2023 15:16:03"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18318,3 +18318,5 @@ addscript(6904735821, "Current Game","Shoe Simulator [Auto Shoe - Auto Sell & Mo
 addscriptexist(9461798258, "Raise a Granny [Infinite Cash]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Raise%20a%20Granny%20Infinite%20Cash.lua")
 
 addscript(9474050899, "Current Game","Jackpot Party [Fast Case Opener]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Jackpot%20Party%20Fast%20Case%20Opener.lua")
+
+addscript(5029300380, "Current Game","BOXING CLUB [Kick Player]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BOXING%20CLUB%20Kick%20Player.lua")
