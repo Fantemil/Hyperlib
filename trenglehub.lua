@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 14:48:54"
+lastupdate = "GMT +1: 09.03.2023 14:49:03"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -17638,3 +17638,5 @@ addscript(6339160453, "Current Game","Anime Ninja War Tycoon [Infinite Diamonds]
 addscript(6751725264, "Current Game","Demon Slayer: A Slayer's Journey [Infinite money, infinite health, Disable Sun Burn]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Demon%20Slayer%20A%20Slayers%20Journey%20Infinite%20money%20infinite%20health%20Disable%20Sun%20Burn.lua")
 
 addscriptexist(9359839118, "Gas Station Simulator [Kill All]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Gas%20Station%20Simulator%20Kill%20All.lua")
+
+addscriptexist(4058282580, "Boxing Simulator [GUI - Auto Farm, Teleports & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Boxing%20Simulator%20GUI%20%20Auto%20Farm%20Teleports%20%20More.lua")
