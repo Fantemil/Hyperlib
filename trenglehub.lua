@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 14:01:11"
+lastupdate = "GMT +1: 09.03.2023 14:01:16"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -16416,3 +16416,5 @@ addscriptexist(7182546997, "Attack on Titan Vengeance [Auto Farm Titan]", "pulle
 addscriptexist(7182546997, "Attack on Titan Vengeance [Berserker Auto Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Attack%20on%20Titan%20Vengeance%20Berserker%20Auto%20Farm.lua")
 
 addscript(198116126, "Current Game","Tradelands [Auto Farm & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tradelands%20Auto%20Farm%20%20More.lua")
+
+addscriptexist(5104202731, "Southwest Florida Beta [Job Anti Afk]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Southwest%20Florida%20Beta%20Job%20Anti%20Afk.lua")
