@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 14:44:45"
+lastupdate = "GMT +1: 09.03.2023 14:44:49"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -17532,3 +17532,5 @@ addscriptexist(142823291, "Murder Mystery 2 [Free Knife VISUALLY]", "pulled from
 addscriptexist(6728870912, "World of Stands Demo [infinite Gold]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/World%20of%20Stands%20Demo%20infinite%20Gold.lua")
 
 addscriptexist(3095204897, "Isle [8 Auto Hack - Auto Guess]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Isle%20%20Auto%20Hack%20%20Auto%20Guess.lua")
+
+addscript(9388793159, "Current Game","Coruscant Roleplay [Silent AIM]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Coruscant%20Roleplay%20Silent%20AIM.lua")
