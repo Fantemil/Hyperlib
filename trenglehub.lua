@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 15:41:30"
+lastupdate = "GMT +1: 09.03.2023 15:41:35"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18958,3 +18958,5 @@ addscriptexist(8137333410, "Pixel Art Color by number [Auto Paint]", "pulled fro
 addscript(8823442198, "Current Game","Deepwoken Battle Arena [Auto Collect]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Deepwoken%20Battle%20Arena%20Auto%20Collect.lua")
 
 addscriptexist(7560156054, "Clicker Simulator [Auto Farm GUI]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Clicker%20Simulator%20Auto%20Farm%20GUI.lua")
+
+addscript(8382553377, "Current Game","Boom Simulator [GUI - Auto Farm, Teleports]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Boom%20Simulator%20GUI%20%20Auto%20Farm%20Teleports.lua")
