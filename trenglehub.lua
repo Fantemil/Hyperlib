@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 13:55:30"
+lastupdate = "GMT +1: 09.03.2023 13:55:34"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -16266,3 +16266,5 @@ addscriptexist(9551640993, "Mining Simulator 2 [Pet Guesser]", "pulled from rbxs
 addscript(2043040358, "Current Game","Vyyrahk City [Auto Farm GUI - Inf Stamina & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Vyyrahk%20City%20Auto%20Farm%20GUI%20%20Inf%20Stamina%20%20More.lua")
 
 addscriptexist(8962384769, "Fireworks Simulator [Auto Fireworks & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Fireworks%20Simulator%20Auto%20Fireworks%20%20More.lua")
+
+addscriptexist(4036494886, "Gun Simulator [Infinite Ammo - Infinite Stars & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Gun%20Simulator%20Infinite%20Ammo%20%20Infinite%20Stars%20%20More.lua")
