@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 14:33:46"
+lastupdate = "GMT +1: 09.03.2023 14:33:51"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -17254,3 +17254,5 @@ addscriptexist(4954096313, "Field Trip Z [God Mode, Remove GodMode Get Donut]", 
 addscript(6788434697, "Current Game","AniPhobia [Infinite Ammo, Fullbright, Kill All]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AniPhobia%20Infinite%20Ammo%20Fullbright%20Kill%20All.lua")
 
 addscriptexist(9677464361, "Basketball Pro Simulator [Perfect Shot, Upgrade Power, Upgrade Speed]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Basketball%20Pro%20Simulator%20Perfect%20Shot%20Upgrade%20Power%20Upgrade%20Speed.lua")
+
+addscriptexist(4954096313, "Field Trip Z [Donut, Bandage, GodMode]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Field%20Trip%20Z%20Donut%20Bandage%20GodMode.lua")
