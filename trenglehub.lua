@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 14:49:23"
+lastupdate = "GMT +1: 09.03.2023 14:49:29"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -17650,3 +17650,5 @@ addscriptexist(9551640993, "Mining Simulator 2 [Chest ESP - Open Source]", "pull
 addscriptexist(8540346411, "Rebirth Champions X [Auto Farm - Auto Buy Eggs]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Rebirth%20Champions%20X%20Auto%20Farm%20%20Auto%20Buy%20Eggs.lua")
 
 addscriptexist(70501379, "Trade Hangout [AFK Auto Walk]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Trade%20Hangout%20AFK%20Auto%20Walk.lua")
+
+addscript(9037855749, "Current Game","Demon Slayer Legacy [Auto Farm - Inf Stamina & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Demon%20Slayer%20Legacy%20Auto%20Farm%20%20Inf%20Stamina%20%20More.lua")
