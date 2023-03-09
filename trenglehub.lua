@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 14:49:15"
+lastupdate = "GMT +1: 09.03.2023 14:49:19"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -17646,3 +17646,5 @@ addscriptexist(9281034297, "Goal Kick Simulator [Auto kick, Kicking AimBot, Auto
 addscriptexist(9551640993, "Mining Simulator 2 [Auto Mine & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mining%20Simulator%20%20Auto%20Mine%20%20More.lua")
 
 addscriptexist(9551640993, "Mining Simulator 2 [Chest ESP - Open Source]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mining%20Simulator%20%20Chest%20ESP%20%20Open%20Source.lua")
+
+addscriptexist(8540346411, "Rebirth Champions X [Auto Farm - Auto Buy Eggs]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Rebirth%20Champions%20X%20Auto%20Farm%20%20Auto%20Buy%20Eggs.lua")
