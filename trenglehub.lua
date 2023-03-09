@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 14:53:05"
+lastupdate = "GMT +1: 09.03.2023 14:53:09"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -17744,3 +17744,5 @@ addscript(5918187182, "Current Game","Build A Gamiing PC Store [Infinite Cash]",
 addscriptexist(1224212277, "Mad City [GUI - Auto Arrest, Teleports & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mad%20City%20GUI%20%20Auto%20Arrest%20Teleports%20%20More.lua")
 
 addscript(7830918930, "Current Game","Gucci Town [Collect All Letters & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Gucci%20Town%20Collect%20All%20Letters%20%20More.lua")
+
+addscriptexist(9551640993, "Mining Simulator 2 [GUI - Auto Mine, Auto Open Egg]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mining%20Simulator%20%20GUI%20%20Auto%20Mine%20Auto%20Open%20Egg.lua")
