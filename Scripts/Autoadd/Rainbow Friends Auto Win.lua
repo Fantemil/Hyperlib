@@ -1,105 +1,60 @@
-print("auto win loaded, made by Finny")
-
-local lp = game.Players.LocalPlayer.Character.HumanoidRootPart
-repeat wait(2) until workspace.GroupBuildStructures:FindFirstChild("BlockTower")
-
-print("starting")
-
+repeat wait() until workspace.GroupBuildStructures:FindFirstChild("BlockTower") ~= nil
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = workspace.Block1:WaitForChild'TouchTrigger'.CFrame
+wait(1)
 for i,v in pairs(workspace:GetChildren()) do
     if v.Name:find("Block") then
-  v.TouchTrigger.CFrame = lp.CFrame
-        task.wait(.1)
-  firetouchinterest(game.Players.LocalPlayer.Character.HumanoidRootPart, workspace.GroupBuildStructures.BlockTower.Trigger, 0)
-        task.wait(.1)
-  firetouchinterest(game.Players.LocalPlayer.Character.HumanoidRootPart, workspace.GroupBuildStructures.BlockTower.Trigger, 1)
-  task.wait(.1)
+        game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = v.TouchTrigger.CFrame
+        task.wait(.2)
+        game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = workspace.GroupBuildStructures.BlockTower.Trigger.CFrame
+        task.wait(.2)
     end
 end
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = workspace.GroupBuildStructures.BlockTower.Trigger.CFrame
 
-if workspace:FindFirstChild('Block24') then
- workspace:FindFirstChild('Block24').TouchTrigger.CFrame = lp.CFrame
-end
-
+repeat wait() until workspace.GroupBuildStructures:FindFirstChild("FoodCounter") ~= nil
 wait(1)
-
-firetouchinterest(game.Players.LocalPlayer.Character.HumanoidRootPart, workspace.GroupBuildStructures.BlockTower.Trigger, 0)
-task.wait(.1)
-firetouchinterest(game.Players.LocalPlayer.Character.HumanoidRootPart, workspace.GroupBuildStructures.BlockTower.Trigger, 1)
-
-wait(1)
-repeat wait(2) until workspace.GroupBuildStructures:FindFirstChild("FoodCounter")
-
 for i,v in pairs(workspace:GetChildren()) do
     if v.Name:find("Food") then
-  v.TouchTrigger.CFrame = lp.CFrame
-        task.wait(.1)
-  firetouchinterest(game.Players.LocalPlayer.Character.HumanoidRootPart, workspace.GroupBuildStructures.FoodCounter.Trigger, 0)
-        task.wait(.1)
-  firetouchinterest(game.Players.LocalPlayer.Character.HumanoidRootPart, workspace.GroupBuildStructures.FoodCounter.Trigger, 1)
-  task.wait(.1)
+        game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = v.TouchTrigger.CFrame
+        task.wait(.2)
+        game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = workspace.GroupBuildStructures.FoodCounter.Trigger.CFrame
+        task.wait(.2)
     end
 end
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = workspace.GroupBuildStructures.FoodCounter.Trigger.CFrame
 
+repeat wait() until workspace.GroupBuildStructures:FindFirstChild("FuseBoard") ~= nil
 wait(1)
-
-firetouchinterest(game.Players.LocalPlayer.Character.HumanoidRootPart, workspace.GroupBuildStructures.FoodCounter.Trigger, 0)
-task.wait(.1)
-firetouchinterest(game.Players.LocalPlayer.Character.HumanoidRootPart, workspace.GroupBuildStructures.FoodCounter.Trigger, 1)
-
-wait(1)
-repeat wait(2) until workspace.GroupBuildStructures:FindFirstChild("FuseBoard")
-
 for i,v in pairs(workspace:GetChildren()) do
     if v.Name:find("Fuse") then
-  v.TouchTrigger.CFrame = lp.CFrame
-        task.wait(.1)
-  firetouchinterest(game.Players.LocalPlayer.Character.HumanoidRootPart, workspace.GroupBuildStructures.FuseBoard.Trigger, 0)
-        task.wait(.1)
-  firetouchinterest(game.Players.LocalPlayer.Character.HumanoidRootPart, workspace.GroupBuildStructures.FuseBoard.Trigger, 1)
-  task.wait(.1)
+        game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = v.TouchTrigger.CFrame
+        task.wait(.2)
+        game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = workspace.GroupBuildStructures.FuseBoard.Trigger.CFrame
+        task.wait(.2)
     end
 end
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = workspace.GroupBuildStructures.FuseBoard.Trigger.CFrame
 
+repeat wait() until workspace.GroupBuildStructures:FindFirstChild("BatteryBox") ~= nil
 wait(1)
-
-firetouchinterest(game.Players.LocalPlayer.Character.HumanoidRootPart, workspace.GroupBuildStructures.FuseBoard.Trigger, 0)
-task.wait(.1)
-firetouchinterest(game.Players.LocalPlayer.Character.HumanoidRootPart, workspace.GroupBuildStructures.FuseBoard.Trigger, 1)
-
-wait(1)
-repeat wait(2) until workspace.GroupBuildStructures:FindFirstChild("BatteryBox")
-
 for i,v in pairs(workspace:GetChildren()) do
     if v.Name:find("Battery") then
-  v.TouchTrigger.CFrame = lp.CFrame
-        task.wait(.1)
-  firetouchinterest(game.Players.LocalPlayer.Character.HumanoidRootPart, workspace.GroupBuildStructures.BatteryBox.Trigger, 0)
-        task.wait(.1)
-  firetouchinterest(game.Players.LocalPlayer.Character.HumanoidRootPart, workspace.GroupBuildStructures.BatteryBox.Trigger, 1)
-  task.wait(.1)
+        game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = v.TouchTrigger.CFrame
+        task.wait(.2)
+        game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = workspace.GroupBuildStructures.BatteryBox.Trigger.CFrame
+        task.wait(.2)
     end
 end
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = workspace.GroupBuildStructures.BatteryBox.Trigger.CFrame
 
+repeat wait() until workspace.GroupBuildStructures:FindFirstChild("TicketMachine") ~= nil
 wait(1)
+firetouchinterest(game.Players.LocalPlayer.Character.Head,workspace.Ticket.TouchTrigger,0)
+task.wait(.2)
+firetouchinterest(game.Players.LocalPlayer.Character.Head,workspace.GroupBuildStructures.TicketMachine.Trigger,0)
 
-firetouchinterest(game.Players.LocalPlayer.Character.HumanoidRootPart, workspace.GroupBuildStructures.BatteryBox.Trigger, 0)
-task.wait(.1)
-firetouchinterest(game.Players.LocalPlayer.Character.HumanoidRootPart, workspace.GroupBuildStructures.BatteryBox.Trigger, 1)
-
-wait(1)
-repeat wait(2) until workspace.GroupBuildStructures:FindFirstChild("TicketMachine")
-
-firetouchinterest(game.Players.LocalPlayer.Character.HumanoidRootPart,workspace.Ticket.TouchTrigger,0)
-task.wait(.1)
-firetouchinterest(game.Players.LocalPlayer.Character.HumanoidRootPart,workspace.Ticket.TouchTrigger,1)
-task.wait(.1)
-firetouchinterest(game.Players.LocalPlayer.Character.HumanoidRootPart,workspace.GroupBuildStructures.TicketMachine.Trigger,0)
-task.wait(.1)
-firetouchinterest(game.Players.LocalPlayer.Character.HumanoidRootPart,workspace.GroupBuildStructures.TicketMachine.Trigger,1)
-
-while wait(4) do
-    lp.CFrame = CFrame.new(Vector3.new(-404, 19, 647))
+while wait() do
+    pcall(function()
+        game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(Vector3.new(-404, 19, 647))
+    end)
 end
-
--- made by Finny
--- Original script blox thread: https://scriptblox.com/script/Rainbow-Friends-Auto-Win-BEST-6014 (for others websites that copy from scriptblox)
