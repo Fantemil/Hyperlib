@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 13:59:38"
+lastupdate = "GMT +1: 09.03.2023 13:59:43"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -16378,3 +16378,5 @@ addscriptexist(4651779470, "RECOIL [GUI - Max Ammo, No Spread]", "pulled from rb
 addscript(4746041618, "Current Game","Steel Titans [ESP, Deleting objects]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Steel%20Titans%20ESP%20Deleting%20objects.lua")
 
 addscriptexist(10001513103, "Limited Words [FE Giant Spider]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Limited%20Words%20FE%20Giant%20Spider.lua")
+
+addscriptexist(8267733039, "Specter 2 [GUI - Infinite Stamina, Infinite Sanity & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Specter%20%20GUI%20%20Infinite%20Stamina%20Infinite%20Sanity%20%20More.lua")
