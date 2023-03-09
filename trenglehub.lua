@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 13:40:27"
+lastupdate = "GMT +1: 09.03.2023 13:40:32"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -15868,3 +15868,5 @@ addscriptexist(9103460924, "Sword Factory X [Auto Reroll Enchants]", "pulled fro
 addscriptexist(5683833663, "Ragdoll Engine [Loop Push All]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ragdoll%20Engine%20Loop%20Push%20All.lua")
 
 addscriptexist(6468323505, "Spellbound Magic RPG [Inf Money]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Spellbound%20Magic%20RPG%20Inf%20Money.lua")
+
+addscriptexist(5956785391, "Project Slayers [Semi-no cooldown for skills]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Project%20Slayers%20Semino%20cooldown%20for%20skills.lua")
