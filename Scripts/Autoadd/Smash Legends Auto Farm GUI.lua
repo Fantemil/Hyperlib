@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/javonsavage/RBX-Scripts-Made-By-Me/main/Smash%20Legends%20GUI.lua"))()
