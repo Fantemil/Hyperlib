@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 15:47:02"
+lastupdate = "GMT +1: 09.03.2023 15:47:06"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -19098,3 +19098,5 @@ addscriptexist(8204899140, "Football Fusion 2 [Simple GUI]", "pulled from rbxscr
 addscriptexist(735030788, "Royale High [Gem Farm - Fix & Ear Rape]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Royale%20High%20Gem%20Farm%20%20Fix%20%20Ear%20Rape.lua")
 
 addscriptexist(7603178367, "Chipotle Burrito Builder [Auto Deliver Burritos]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Chipotle%20Burrito%20Builder%20Auto%20Deliver%20Burritos.lua")
+
+addscript(6551386772, "Current Game","Battle Royale Simulator [Hit Box, AIMBOT, ESP]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Battle%20Royale%20Simulator%20Hit%20Box%20AIMBOT%20ESP.lua")
