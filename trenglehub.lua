@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 15:03:20"
+lastupdate = "GMT +1: 09.03.2023 15:03:24"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18002,3 +18002,5 @@ addscriptexist(5154858502, "Murderers vs. Sheriffs [Kill All]", "pulled from rbx
 addscriptexist(9049840490, "Sonic Speed Simulator [ServerHop]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sonic%20Speed%20Simulator%20ServerHop.lua")
 
 addscriptexist(9103460924, "Sword Factory X [Auto Spawn, Auto Upgrade, Auto Upgrade Multiplier]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sword%20Factory%20X%20Auto%20Spawn%20Auto%20Upgrade%20Auto%20Upgrade%20Multiplier.lua")
+
+addscriptexist(5023820864, "Trade Tower [Auto Buy, Auto Sell, Auto Click]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Trade%20Tower%20Auto%20Buy%20Auto%20Sell%20Auto%20Click.lua")
