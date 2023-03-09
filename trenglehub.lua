@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 15:08:05"
+lastupdate = "GMT +1: 09.03.2023 15:08:09"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18118,3 +18118,5 @@ addscriptexist(9508087919, "Apeirophobia [Free ESP – No Key System]", "pulled 
 addscriptexist(8589310348, "Glory Kill Testing [Gamepass Tools]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Glory%20Kill%20Testing%20Gamepass%20Tools.lua")
 
 addscriptexist(6284583030, "Pet Simulator X [Delta HUB Crecked GUI]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pet%20Simulator%20X%20Delta%20HUB%20Crecked%20GUI.lua")
+
+addscriptexist(6938764986, "Airplane Simulator [Auto Farm - Level 100 Easy]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Airplane%20Simulator%20Auto%20Farm%20%20Level%20%20Easy.lua")
