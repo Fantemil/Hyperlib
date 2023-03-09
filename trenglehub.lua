@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 13:29:45"
+lastupdate = "GMT +1: 09.03.2023 13:29:54"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -15592,3 +15592,5 @@ addscriptexist(10184360875, "Pet&Fishing Simulator [Inf Money, Inf Fish]", "pull
 addscriptexist(9157870347, "Pet Adventures Simulator [Auto Collect, Auto Farm, Auto Hatch]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pet%20Adventures%20Simulator%20Auto%20Collect%20Auto%20Farm%20Auto%20Hatch.lua")
 
 addscriptexist(6114972958, "Initial D: Touge Legends [Unlockk All Cars, WalkSpeed, JumpPower]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Initial%20D%20Touge%20Legends%20Unlockk%20All%20Cars%20WalkSpeed%20JumpPower.lua")
+
+addscriptexist(445664957, "Parkour [God mode, Infinite WalkBoost, Infinite Adrenaline]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Parkour%20God%20mode%20Infinite%20WalkBoost%20Infinite%20Adrenaline.lua")
