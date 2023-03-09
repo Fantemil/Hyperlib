@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 14:49:41"
+lastupdate = "GMT +1: 09.03.2023 14:49:46"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -17658,3 +17658,5 @@ addscriptexist(142823291, "Murder Mystery 2 [Chams - Reach - Silent Aim & More!]
 addscriptexist(4042427666, "Anime Fighting Simulator [Full Spin Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime%20Fighting%20Simulator%20Full%20Spin%20Farm.lua")
 
 addscriptexist(9037855749, "Demon Slayer [Redeem All Codes - Mob Auto Farm & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Demon%20Slayer%20Redeem%20All%20Codes%20%20Mob%20Auto%20Farm%20%20More.lua")
+
+addscript(9285737032, "Current Game","HELL RUN [Auto Win]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/HELL%20RUN%20Auto%20Win.lua")
