@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 14:27:28"
+lastupdate = "GMT +1: 09.03.2023 14:27:32"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -17090,3 +17090,5 @@ addscriptexist(9726345231, "Duolingo Game Hub [Infinite Coins]", "pulled from rb
 addscriptexist(654732683, "Car Crushers 2 [Auto Farm, Speed Boost, Godmode]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Car%20Crushers%20%20Auto%20Farm%20Speed%20Boost%20Godmode.lua")
 
 addscriptexist(8540168650, "Stand Upright: Rebooted [GUI - Items Farm, Quest Farms & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Stand%20Upright%20Rebooted%20GUI%20%20Items%20Farm%20Quest%20Farms%20%20More.lua")
+
+addscriptexist(3346617530, "Freeze Tag Extreme [Collect All Items - Tag Al]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Freeze%20Tag%20Extreme%20Collect%20All%20Items%20%20Tag%20Al.lua")
