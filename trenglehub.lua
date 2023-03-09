@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 14:07:11"
+lastupdate = "GMT +1: 09.03.2023 14:07:15"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -16570,3 +16570,5 @@ addscript(8151832473, "Current Game","TheGhettoGame [Inf Money]", "pulled from r
 addscriptexist(2788229376, "Da Hood [Auto Farm Cash, God mode, Infinite Stamina]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Da%20Hood%20Auto%20Farm%20Cash%20God%20mode%20Infinite%20Stamina.lua")
 
 addscriptexist(8554378337, "Weapon Fighting Simulator [Auto Farm All Areas & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Weapon%20Fighting%20Simulator%20Auto%20Farm%20All%20Areas%20%20More.lua")
+
+addscript(10057350313, "Current Game","Ore Smelting Tycoon [Auto Claim Tycoon & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ore%20Smelting%20Tycoon%20Auto%20Claim%20Tycoon%20%20More.lua")
