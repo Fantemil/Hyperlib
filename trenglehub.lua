@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 15:00:41"
+lastupdate = "GMT +1: 09.03.2023 15:00:44"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -17938,3 +17938,5 @@ addscriptexist(9359839118, "Gas Station Simulator [New Farming GUI]", "pulled fr
 addscriptexist(8540168650, "Stand Upright: Rebooted [Auto Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Stand%20Upright%20Rebooted%20Auto%20Farm.lua")
 
 addscriptexist(7214610985, "Stealth 2 [Level And Coins Auto Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Stealth%20%20Level%20And%20Coins%20Auto%20Farm.lua")
+
+addscript(444319338, "Current Game","Cannoneers! [Auto Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Cannoneers%20Auto%20Farm.lua")
