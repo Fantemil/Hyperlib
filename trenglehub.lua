@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 13:51:28"
+lastupdate = "GMT +1: 09.03.2023 13:51:32"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -16160,3 +16160,5 @@ addscript(5278850819, "Current Game","Stay alive and flex your time on others [B
 addscript(4856393583, "Current Game","Build a Spaceship Tycoon [Infinite Cash]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Build%20a%20Spaceship%20Tycoon%20Infinite%20Cash.lua")
 
 addhub("Universal FE Script Hub [Several Features]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20FE%20Script%20Hub%20Several%20Features.lua")
+
+addscriptexist(9677464361, "Basketball Pro Simulator [GUI - Auto Farm, Gamepasses & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Basketball%20Pro%20Simulator%20GUI%20%20Auto%20Farm%20Gamepasses%20%20More.lua")
