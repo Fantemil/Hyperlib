@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 13:38:34"
+lastupdate = "GMT +1: 09.03.2023 13:38:38"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -15824,3 +15824,5 @@ addscript(6266940721, "Current Game","StockRise Stock Simulator [Infinite Money]
 addscriptexist(9926433554, "Blast Mining Simulator [Infinite Money]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blast%20Mining%20Simulator%20Infinite%20Money.lua")
 
 addscriptexist(2124720684, "Dragon Ball: Xeno Multiverse [Zen Auto Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Dragon%20Ball%20Xeno%20Multiverse%20Zen%20Auto%20Farm.lua")
+
+addscriptexist(6468323505, "Spellbound Magic RPG [Get All Items]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Spellbound%20Magic%20RPG%20Get%20All%20Items.lua")
