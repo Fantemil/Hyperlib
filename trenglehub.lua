@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 12:56:46"
+lastupdate = "GMT +1: 09.03.2023 12:56:51"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -15310,3 +15310,5 @@ addscriptexist(8585657145, "Anime Hero Simulator [Kill Aura - Grab Coins & More!
 addscriptexist(7127407851, "Attack on Titan Evolution [Kill Aura - Max Damage]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Attack%20on%20Titan%20Evolution%20Kill%20Aura%20%20Max%20Damage.lua")
 
 addscriptexist(2732246600, "Bloody Battle [Respawns You Until You Get The Loot You Want]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Bloody%20Battle%20Respawns%20You%20Until%20You%20Get%20The%20Loot%20You%20Want.lua")
+
+addscriptexist(8884334497, "Mining Clicker Simulator [Auto Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mining%20Clicker%20Simulator%20Auto%20Farm.lua")
