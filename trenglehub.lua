@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 14:36:29"
+lastupdate = "GMT +1: 09.03.2023 14:36:33"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -17324,3 +17324,5 @@ addscriptexist(5490351219, "Clicker Madness [Auto Tap, Decline Trades, Get All G
 addscriptexist(8603729161, "Walk 50k studs for nothing [Get Badges]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Walk%20k%20studs%20for%20nothing%20Get%20Badges.lua")
 
 addscriptexist(6788434697, "AniPhobia [Infinite Ammo & Much More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AniPhobia%20Infinite%20Ammo%20%20Much%20More.lua")
+
+addscriptexist(9551640993, "Mining Simulator 2 [Utilities]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mining%20Simulator%20%20Utilities.lua")
