@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 15:04:40"
+lastupdate = "GMT +1: 09.03.2023 15:04:44"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18034,3 +18034,5 @@ addscriptexist(142823291, "Murder Mystery 2 [ESP, Fake Knife, Xbox Knife]", "pul
 addscriptexist(8438695556, "Luck Simulator [Auto Basic Upgrades & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Luck%20Simulator%20Auto%20Basic%20Upgrades%20%20More.lua")
 
 addscriptexist(9359839118, "Gas Station Simulator [Auto Celan - Auto Restock]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Gas%20Station%20Simulator%20Auto%20Celan%20%20Auto%20Restock.lua")
+
+addscriptexist(6969185078, "Elemental Awakening [Lvl Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Elemental%20Awakening%20Lvl%20Farm.lua")
