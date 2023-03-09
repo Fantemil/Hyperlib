@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 13:57:11"
+lastupdate = "GMT +1: 09.03.2023 13:57:16"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -16312,3 +16312,5 @@ addscript(679715583, "Current Game","Starscape [Auto Pilot]", "pulled from rbxsc
 addscriptexist(3346617530, "Freeze & Tag Extreme [Silent Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Freeze%20%20Tag%20Extreme%20Silent%20Farm.lua")
 
 addscriptexist(8123652942, "Legend Piece [Auto Farm & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Legend%20Piece%20Auto%20Farm%20%20More.lua")
+
+addscriptexist(6249640453, "Classic Retro Craftwars [Auto Mine]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Classic%20Retro%20Craftwars%20Auto%20Mine.lua")
