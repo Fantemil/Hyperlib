@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/MetabV2/The-Kinetic-Abilities-s/main/Metab", true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/NocturneMoDz/The-Kinetic-Abilities/main/METAB"))();
