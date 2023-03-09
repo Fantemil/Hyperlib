@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 13:40:12"
+lastupdate = "GMT +1: 09.03.2023 13:40:16"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -15862,3 +15862,5 @@ addscript(1629847577, "Current Game","Dragon Ball N [No CoolDown ]", "pulled fro
 addscriptexist(6284583030, "Pet Simulator X [Ban Bypass]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pet%20Simulator%20X%20Ban%20Bypass.lua")
 
 addscriptexist(8540168650, "Stand Upright Rebooted [GUI - Item Farm - Auto Farm & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Stand%20Upright%20Rebooted%20GUI%20%20Item%20Farm%20%20Auto%20Farm%20%20More.lua")
+
+addscriptexist(9103460924, "Sword Factory X [Auto Reroll Enchants]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sword%20Factory%20X%20Auto%20Reroll%20Enchants.lua")
