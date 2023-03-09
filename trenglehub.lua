@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 15:41:54"
+lastupdate = "GMT +1: 09.03.2023 15:41:59"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18968,3 +18968,5 @@ addscriptexist(155382109, "Survive And Kill The Killers In Area 51 [Inf Ammo, Gi
 addscriptexist(8246874626, "DBZ [Auto Farm, Auto Quest, kill Aura]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DBZ%20Auto%20Farm%20Auto%20Quest%20kill%20Aura.lua")
 
 addscript(8044403176, "Current Game","Vehicle Champions [Auto Click, Auto Rebirth, Auto Upgrade]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Vehicle%20Champions%20Auto%20Click%20Auto%20Rebirth%20Auto%20Upgrade.lua")
+
+addscriptexist(3725149043, "Rocket Ball [Rocket Ball No Cooldown, Sword No Cooldown]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Rocket%20Ball%20Rocket%20Ball%20No%20Cooldown%20Sword%20No%20Cooldown.lua")
