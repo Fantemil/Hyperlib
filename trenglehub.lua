@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 14:05:06"
+lastupdate = "GMT +1: 09.03.2023 14:05:13"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -16518,3 +16518,5 @@ addscriptexist(13822889, "Lumber Tycoon 2 [TranZit GUI]", "pulled from rbxscript
 addscriptexist(4036494886, "Gun Simulator [Infinite Money - Max Skill Per Shot]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Gun%20Simulator%20Infinite%20Money%20%20Max%20Skill%20Per%20Shot.lua")
 
 addscriptexist(863266079, "Apocalpyse Rising 2 [GUI - Aimbot, No Recoil]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Apocalpyse%20Rising%20%20GUI%20%20Aimbot%20No%20Recoil.lua")
+
+addscriptexist(3144213556, "Troll Obby [Auto Win]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Troll%20Obby%20Auto%20Win.lua")
