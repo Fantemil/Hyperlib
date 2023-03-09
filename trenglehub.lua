@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 15:05:26"
+lastupdate = "GMT +1: 09.03.2023 15:05:31"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18052,3 +18052,5 @@ addscriptexist(8750997647, "Tap Legends X [AutoTap, AutoRebitrh, Autoclicker, In
 addscriptexist(1224212277, "Mad City GUI [XP Farm, AutoRob, Teleports, Server Crasher]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mad%20City%20GUI%20XP%20Farm%20AutoRob%20Teleports%20Server%20Crasher.lua")
 
 addscriptexist(4783966408, "Plates of Fate Remastered [Free Emotes]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Plates%20of%20Fate%20Remastered%20Free%20Emotes.lua")
+
+addscriptexist(5802642341, "City Life [Auto Steal - Auto Fire GUI]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/City%20Life%20Auto%20Steal%20%20Auto%20Fire%20GUI.lua")
