@@ -1,0 +1,1 @@
+game:GetService("ReplicatedStorage").Remotes.MainRemote:FireServer("Bite",game:GetService("Players").LocalPlayer.PetFolder.Equipped["335140387-13"])
