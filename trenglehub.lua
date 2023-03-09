@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 14:20:51"
+lastupdate = "GMT +1: 09.03.2023 14:20:56"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -16922,3 +16922,5 @@ addscript(7261261021, "Current Game","Raging Seas [Inf Stamina, Fruit Spawner, A
 addscriptexist(7261261021, "Raging Seas [Lag Server]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Raging%20Seas%20Lag%20Server.lua")
 
 addscript(6644653750, "Current Game","Paper.IO [Semi Auto Win]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PaperIO%20Semi%20Auto%20Win.lua")
+
+addscriptexist(9017974931, "Valoblox ATOMIC VALOBLOX GUI", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Valoblox%20ATOMIC%20VALOBLOX%20GUI.lua")
