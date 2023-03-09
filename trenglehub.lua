@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 14:20:08"
+lastupdate = "GMT +1: 09.03.2023 14:20:13"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -16902,3 +16902,5 @@ addscript(8592703594, "Current Game","Undertale Unexplained Anomalies [Stardust 
 addscriptexist(8123652942, "Legend Piece [God Mode]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Legend%20Piece%20God%20Mode.lua")
 
 addscriptexist(6403373529, "Slap Battles [GUI - Farm, Anti Ragdoll & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Slap%20Battles%20GUI%20%20Farm%20Anti%20Ragdoll%20%20More.lua")
+
+addscriptexist(8123652942, "Legend Piece [Infinite Damage To Enemies]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Legend%20Piece%20Infinite%20Damage%20To%20Enemies.lua")
