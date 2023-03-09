@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 12:03:19"
+lastupdate = "GMT +1: 09.03.2023 12:03:29"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -15114,3 +15114,5 @@ addscriptexist(8540346411, "Rebirth Champions X: Auto Collect, Auto Rebirth & Mo
 addhub("Wolf Hub: 10 Games", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Wolf%20Hub%20%20Games.lua")
 
 addscriptexist(142823291, "Murder Mystery 2: Kill All, Kill Aura, Esp", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Murder%20Mystery%20%20Kill%20All%20Kill%20Aura%20Esp.lua")
+
+addscriptexist(7056922815, "Reaper 2: AutoFarm, Auto Quests, Teleports", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Reaper%20%20AutoFarm%20Auto%20Quests%20Teleports.lua")
