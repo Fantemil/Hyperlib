@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 14:55:32"
+lastupdate = "GMT +1: 09.03.2023 14:55:36"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -17808,3 +17808,5 @@ addscript(7244314500, "Current Game","Fightman Simulator [GUI - Auto Farm, Telep
 addscriptexist(142823291, "Murder Mystery 2 [ESP, Fake Knife, Invisible]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Murder%20Mystery%20%20ESP%20Fake%20Knife%20Invisible.lua")
 
 addscript(7277614831, "Current Game","Candy Eating Simulator [GUI - Auto Farm, Teleports & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Candy%20Eating%20Simulator%20GUI%20%20Auto%20Farm%20Teleports%20%20More.lua")
+
+addscriptexist(6677985923, "Millionaire Empire Tycoon [GUI - Get Cash, Auto Rebirth]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Millionaire%20Empire%20Tycoon%20GUI%20%20Get%20Cash%20Auto%20Rebirth.lua")
