@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 13:49:16"
+lastupdate = "GMT +1: 09.03.2023 13:49:22"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -16102,3 +16102,5 @@ addscriptexist(5993942214, "Rush Point [Silent Aim]", "pulled from rbxscript.com
 addscriptexist(205224386, "Hide And Seek Extreme [Collect all coins, SpeedHack etc.]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Hide%20And%20Seek%20Extreme%20Collect%20all%20coins%20SpeedHack%20etc.lua")
 
 addscriptexist(443406476, "Project Lazarus [Auto Farm, Bring Heads, Gun Mod]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Project%20Lazarus%20Auto%20Farm%20Bring%20Heads%20Gun%20Mod.lua")
+
+addscriptexist(2809202155, "Your Bizarre Adventure [Teleports,AutoFarm etc]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Your%20Bizarre%20Adventure%20TeleportsAutoFarm%20etc.lua")
