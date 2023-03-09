@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://gist.githubusercontent.com/CasparLmao/a1f326d820d0cb2b1880005910529e35/raw/6b59fdcaabcb246db1d9c2cde49772d64c6dacc5/Rule_2%2520Ok_On_Top.lua", true))()
