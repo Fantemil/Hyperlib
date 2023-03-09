@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/AtomGotIce/Scripts/main/Murderers%20vs.%20Sheriffs"))()
