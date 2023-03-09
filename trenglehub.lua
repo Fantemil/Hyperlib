@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 16:06:03"
+lastupdate = "GMT +1: 09.03.2023 16:06:07"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -19560,3 +19560,5 @@ addscript(5771467270, "Current Game","TTD 3 [AntiCheat Bypass]", "pulled from rb
 addscriptexist(8260276694, "Ability Wars [GUI - Kill All & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ability%20Wars%20GUI%20%20Kill%20All%20%20More.lua")
 
 addscript(5130498426, "Current Game","AoT:Insertplayground [OP Admin Power]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AoTInsertplayground%20OP%20Admin%20Power.lua")
+
+addscript(8966584990, "Current Game","Orthoxia Alpha [GodMode]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Orthoxia%20Alpha%20GodMode.lua")
