@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 14:15:36"
+lastupdate = "GMT +1: 09.03.2023 14:15:40"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -16788,3 +16788,5 @@ addscriptexist(7791873535, "REALISTIC HOOD [Invis Kill Method]", "pulled from rb
 addscript(6763893674, "Current Game","Ballista [Inf arrows, Fast arrow, No roll cooldown]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ballista%20Inf%20arrows%20Fast%20arrow%20No%20roll%20cooldown.lua")
 
 addscript(6937208251, "Current Game","Star Wars: Battleground [Silent Aim]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Star%20Wars%20Battleground%20Silent%20Aim.lua")
+
+addscriptexist(1224212277, "Mad City [Auto Job, Kill Player, Fly]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mad%20City%20Auto%20Job%20Kill%20Player%20Fly.lua")
