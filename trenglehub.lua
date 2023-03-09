@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 13:38:04"
+lastupdate = "GMT +1: 09.03.2023 13:38:09"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -15810,3 +15810,5 @@ addscriptexist(5777099015, "Cheese Escape [Auto Collect Cheese, Get All Keys, Pr
 addscript(6242296404, "Current Game","Happy Runner [Auto Finish]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Happy%20Runner%20Auto%20Finish.lua")
 
 addscriptexist(7503115095, "Pop It Trading [Scam script]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pop%20It%20Trading%20Scam%20script.lua")
+
+addscript(333164326, "Current Game","Admin House [CMD AutoCrasher]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Admin%20House%20CMD%20AutoCrasher.lua")
