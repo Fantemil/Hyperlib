@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 13:01:23"
+lastupdate = "GMT +1: 09.03.2023 13:01:27"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -15420,3 +15420,5 @@ addscriptexist(9829869210, "Karate Kick Simulator [Infinite Money]", "pulled fro
 addscriptexist(9829869210, "Karate Kick Simulator [Kill All]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Karate%20Kick%20Simulator%20Kill%20All.lua")
 
 addscriptexist(6403373529, "Slap Battles [GUI - Kill Aura, Esp & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Slap%20Battles%20GUI%20%20Kill%20Aura%20Esp%20%20More.lua")
+
+addscriptexist(9143982021, "Sword Battles [GUI - GodMode, Kill Aura]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sword%20Battles%20GUI%20%20GodMode%20Kill%20Aura.lua")
