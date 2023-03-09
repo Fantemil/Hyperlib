@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/pspboy08/dollhouse/main/CTDGUI.lua"))()
