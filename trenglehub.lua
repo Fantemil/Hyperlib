@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 15:44:30"
+lastupdate = "GMT +1: 09.03.2023 15:44:36"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -19036,3 +19036,5 @@ addscriptexist(155382109, "Survive and Kill the Killesr in Area 51 [STKv7.1 Engi
 addscriptexist(8073154099, "The Intruder [Intruder Detection]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/The%20Intruder%20Intruder%20Detection.lua")
 
 addscript(7708751418, "Current Game","Smashing Simulator X [Auto Slash, Auto Rebirth, Auto Open Egg]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Smashing%20Simulator%20X%20Auto%20Slash%20Auto%20Rebirth%20Auto%20Open%20Egg.lua")
+
+addscriptexist(155382109, "Survive And Kill The Killers In Area 51 [Get An Overpowered Raygun]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Survive%20And%20Kill%20The%20Killers%20In%20Area%20%20Get%20An%20Overpowered%20Raygun.lua")
