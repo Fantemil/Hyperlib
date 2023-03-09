@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 16:05:40"
+lastupdate = "GMT +1: 09.03.2023 16:05:45"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -19550,3 +19550,5 @@ addscriptexist(6494523288, "Blade Quest [Auto Farm]", "pulled from rbxscript.com
 addscript(8584121669, "Current Game","Pet Simulator X Fan Made [Infinite Gems]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pet%20Simulator%20X%20Fan%20Made%20Infinite%20Gems.lua")
 
 addscriptexist(8584121669, "Pet Simulator X Fan Made [Infinite Coins]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pet%20Simulator%20X%20Fan%20Made%20Infinite%20Coins.lua")
+
+addscriptexist(2753915549, "Blox Fruits [The #1 Free GUI]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blox%20Fruits%20The%20%20Free%20GUI.lua")
