@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 15:07:03"
+lastupdate = "GMT +1: 09.03.2023 15:07:07"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18092,3 +18092,5 @@ addscriptexist(6969185078, "Elemental Awakening [Instant Cast - Attempts To Chan
 addscriptexist(6969185078, "Elemental Awakening [Auto Spin - Easy Setup]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Elemental%20Awakening%20Auto%20Spin%20%20Easy%20Setup.lua")
 
 addscriptexist(1224212277, "Mad City [Anti Screen Shake]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mad%20City%20Anti%20Screen%20Shake.lua")
+
+addscriptexist(9344944754, "Hunter x Athena [Auto Pushups - Auto Eat & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Hunter%20x%20Athena%20Auto%20Pushups%20%20Auto%20Eat%20%20More.lua")
