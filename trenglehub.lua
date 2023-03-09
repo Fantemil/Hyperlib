@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 13:36:25"
+lastupdate = "GMT +1: 09.03.2023 13:36:29"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -15766,3 +15766,5 @@ addscriptexist(7305309231, "Taxi Boss [Auto Farm]", "pulled from rbxscript.com",
 addscriptexist(6468323505, "Spellbound Magic RPG [Infinte Money]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Spellbound%20Magic%20RPG%20Infinte%20Money.lua")
 
 addscriptexist(6284583030, "Pet simulator X [GUI - Auto Farm, Chest Farm & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pet%20simulator%20X%20GUI%20%20Auto%20Farm%20Chest%20Farm%20%20More.lua")
+
+addscriptexist(9840387028, "Era Of Althea [GUI - Auto Farm - God Mode & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Era%20Of%20Althea%20GUI%20%20Auto%20Farm%20%20God%20Mode%20%20More.lua")
