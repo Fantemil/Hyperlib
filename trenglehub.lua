@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 15:01:36"
+lastupdate = "GMT +1: 09.03.2023 15:01:46"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -17960,3 +17960,5 @@ addhub("Roblox [Absolutionism Hub]", "pulled from rbxscript.com", "https://raw.g
 addhub("Roblox [Strucid Hub]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Roblox%20Strucid%20Hub.lua")
 
 addscriptexist(3522803956, "De Pride Isle Sanatorium [No Blur, NoFallDamage, No Ragdoll]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/De%20Pride%20Isle%20Sanatorium%20No%20Blur%20NoFallDamage%20No%20Ragdoll.lua")
+
+addscriptexist(9292879820, "Grass Cutting Incremental [Stat Changer]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Grass%20Cutting%20Incremental%20Stat%20Changer.lua")
