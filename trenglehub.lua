@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 14:16:11"
+lastupdate = "GMT +1: 09.03.2023 14:16:15"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -16804,3 +16804,5 @@ addscriptexist(180037022, "Sonic Ultimate RPG [Farm Rings]", "pulled from rbxscr
 addscript(8596411742, "Current Game","Barb Blox Lane [Fast Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Barb%20Blox%20Lane%20Fast%20Farm.lua")
 
 addscriptexist(1467230998, "TROOP LIFE [Auto Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TROOP%20LIFE%20Auto%20Farm.lua")
+
+addscriptexist(2248408710, "Destruction Simulator [Max Lvl, Get All Weapons/Bomb, No Cooldown (Do not USE 100M)]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Destruction%20Simulator%20Max%20Lvl%20Get%20All%20WeaponsBomb%20No%20Cooldown%20Do%20not%20USE%20M.lua")
