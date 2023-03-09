@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 15:39:16"
+lastupdate = "GMT +1: 09.03.2023 15:39:21"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18902,3 +18902,5 @@ addscriptexist(6704278765, "Dolo Tonight Concert Experience [Collect All Eyes]",
 addscriptexist(9041110505, "Unlimited Upgrade Simulator [Infinity Gems]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Unlimited%20Upgrade%20Simulator%20Infinity%20Gems.lua")
 
 addscriptexist(6297822481, "Titan Warfare [Infinite Slots]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Titan%20Warfare%20Infinite%20Slots.lua")
+
+addscriptexist(2202352383, "Super Power Training SImulator [GUI - All Auto Farms]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Super%20Power%20Training%20SImulator%20GUI%20%20All%20Auto%20Farms.lua")
