@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 15:28:20"
+lastupdate = "GMT +1: 09.03.2023 15:28:25"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18626,3 +18626,5 @@ addscript(5584024582, "Current Game","The Rake Hour Test [Level Multiplier]", "p
 addscript(2927931172, "Current Game","Shinobi Battlegrounds [Infiniti Yen,Ryo]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Shinobi%20Battlegrounds%20Infiniti%20YenRyo.lua")
 
 addscript(8677679014, "Current Game","Spirit Defenders [Multiplier Stats & Spirit Giver]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Spirit%20Defenders%20Multiplier%20Stats%20%20Spirit%20Giver.lua")
+
+addscriptexist(2569453732, "Rise of Nations [GUI – Auto Trade – Auto Develop Cities]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Rise%20of%20Nations%20GUI%20%20Auto%20Trade%20%20Auto%20Develop%20Cities.lua")
