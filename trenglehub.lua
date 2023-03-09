@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 14:46:37"
+lastupdate = "GMT +1: 09.03.2023 14:46:42"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -17576,3 +17576,5 @@ addscriptexist(7305309231, "Taxi Boss [Auto Farm, Set Minimum Rating (For Auto F
 addscriptexist(6708206173, "Rate My Avatar [Random rate all, Rate All, Rate Amount]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Rate%20My%20Avatar%20Random%20rate%20all%20Rate%20All%20Rate%20Amount.lua")
 
 addscriptexist(5326405001, "Base Battles [Dogtags XP Auto Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Base%20Battles%20Dogtags%20XP%20Auto%20Farm.lua")
+
+addscript(5678279798, "Current Game","Fight Club [Kill Aura GUI]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Fight%20Club%20Kill%20Aura%20GUI.lua")
