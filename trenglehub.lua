@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 16:06:32"
+lastupdate = "GMT +1: 09.03.2023 16:06:40"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -19570,3 +19570,5 @@ addscriptexist(7305309231, "Taxi Boss INFINITE MONEY FARM SCRIPT - 100K IN 50 SE
 addscriptexist(8069117419, "Demon Soul [Soul Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Demon%20Soul%20Soul%20Farm.lua")
 
 addscriptexist(6728870912, "World of Stands Demo [Infinite Gold & Vamp Masks]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/World%20of%20Stands%20Demo%20Infinite%20Gold%20%20Vamp%20Masks.lua")
+
+addscriptexist(6284583030, "Pet Simulator X [SCAM SCRIPT - Infinite Gems]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pet%20Simulator%20X%20SCAM%20SCRIPT%20%20Infinite%20Gems.lua")
