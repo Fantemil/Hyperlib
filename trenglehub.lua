@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 14:09:49"
+lastupdate = "GMT +1: 09.03.2023 14:09:53"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -16638,3 +16638,5 @@ addscriptexist(3722916, "2 Player Company Tycoon [Infinite Money]", "pulled from
 addscript(9875254583, "Current Game","Juice Pirates [Max Level]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Juice%20Pirates%20Max%20Level.lua")
 
 addscriptexist(9875254583, "Juice Pirates [Infinite Gems]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Juice%20Pirates%20Infinite%20Gems.lua")
+
+addscript(9568982793, "Current Game","Da Hood Battlegrounds [Rapid Fire Mod]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Da%20Hood%20Battlegrounds%20Rapid%20Fire%20Mod.lua")
