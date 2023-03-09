@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 15:23:38"
+lastupdate = "GMT +1: 09.03.2023 15:23:44"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18506,3 +18506,5 @@ addscriptexist(4996049426, "All Star Tower Defense [Star Pass Farm]", "pulled fr
 addscriptexist(3233893879, "Bad Business 3.03 [Client Anti Cheat Bypass]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Bad%20Business%20%20Client%20Anti%20Cheat%20Bypass.lua")
 
 addscript(1696916806, "Current Game","Base Raiders [Auto Farm - Auto Crate - Anti AFK]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Base%20Raiders%20Auto%20Farm%20%20Auto%20Crate%20%20Anti%20AFK.lua")
+
+addscriptexist(2512643572, "Bubble Gum Simulator [Auto Potions, Auto Lab GUI]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Bubble%20Gum%20Simulator%20Auto%20Potions%20Auto%20Lab%20GUI.lua")
