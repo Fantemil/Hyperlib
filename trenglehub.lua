@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 13:24:11"
+lastupdate = "GMT +1: 09.03.2023 13:24:15"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -15450,3 +15450,5 @@ addscriptexist(1224212277, "Mad City Chapter 2 [Auto Arrest]", "pulled from rbxs
 addscriptexist(10118559731, "nico's nextbots [blackouts] [Open All Doors]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/nicos%20nextbots%20blackouts%20Open%20All%20Doors.lua")
 
 addscriptexist(8500690972, "NO STOP Obby [Skip Stage]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NO%20STOP%20Obby%20Skip%20Stage.lua")
+
+addscriptexist(292439477, "Phantom Forces [Free Chams]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Phantom%20Forces%20Free%20Chams.lua")
