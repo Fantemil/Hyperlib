@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 15:16:49"
+lastupdate = "GMT +1: 09.03.2023 15:16:54"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18340,3 +18340,5 @@ addscriptexist(6778844213, "Euphoria Ragdoll Testing [Annony Server - Mass Ragdo
 addscriptexist(6905769625, "Rooftop Basketball [Silent AIM]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Rooftop%20Basketball%20Silent%20AIM.lua")
 
 addscriptexist(9461798258, "Raise a Granny [Inf cookies]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Raise%20a%20Granny%20Inf%20cookies.lua")
+
+addscriptexist(9461798258, "Raise a Granny [Inf Cash]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Raise%20a%20Granny%20Inf%20Cash.lua")
