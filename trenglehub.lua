@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 13:00:04"
+lastupdate = "GMT +1: 09.03.2023 13:00:09"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -15392,3 +15392,5 @@ addscriptexist(8737602449, "PLS DONATE [Auto Farm]", "pulled from rbxscript.com"
 addscriptuniversal("Highlight [Universal Esp]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Highlight%20Universal%20Esp.lua")
 
 addscriptuniversal("Fighter's Era [Inf Money]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Fighters%20Era%20Inf%20Money.lua")
+
+addscriptexist(4036494886, "Gun Simulator [Infinite Everything & Custom Stats]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Gun%20Simulator%20Infinite%20Everything%20%20Custom%20Stats.lua")
