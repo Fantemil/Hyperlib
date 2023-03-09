@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 15:02:14"
+lastupdate = "GMT +1: 09.03.2023 15:02:18"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -17974,3 +17974,5 @@ addscriptexist(2965881766, "Brawl-Blox [Infinite Trophies]", "pulled from rbxscr
 addscriptexist(6878438976, "Developer Inc. [Infinite Money - Teleports]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Developer%20Inc%20Infinite%20Money%20%20Teleports.lua")
 
 addscriptexist(9292879820, "Grass Cutting Incremental [GUI - Auto Collect Grass & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Grass%20Cutting%20Incremental%20GUI%20%20Auto%20Collect%20Grass%20%20More.lua")
+
+addscriptexist(9336657396, "A Beatdown Neighborhood [Auto Farm Power]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/A%20Beatdown%20Neighborhood%20Auto%20Farm%20Power.lua")
