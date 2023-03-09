@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 13:28:41"
+lastupdate = "GMT +1: 09.03.2023 13:28:45"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -15564,3 +15564,5 @@ addscript(9677457651, "Current Game","Fall Experimental [Teleport To The End]", 
 addscriptexist(4520749081, "King Legacy [GUI - Auto Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/King%20Legacy%20GUI%20%20Auto%20Farm.lua")
 
 addscriptexist(2534724415, "Emergency Response Liberty County [Silent Aim]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Emergency%20Response%20Liberty%20County%20Silent%20Aim.lua")
+
+addscriptexist(142823291, "Murder Mystery 2 [Lag Crash]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Murder%20Mystery%20%20Lag%20Crash.lua")
