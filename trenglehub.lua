@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 15:34:05"
+lastupdate = "GMT +1: 09.03.2023 15:34:11"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18770,3 +18770,5 @@ addscriptexist(5787425661, "A Lucky Day [Destroy Game]", "pulled from rbxscript.
 addscriptexist(1224212277, "Mad City [Full Invisible]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mad%20City%20Full%20Invisible.lua")
 
 addscriptexist(7603178367, "Chipotle Burrito Builder [Auto Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Chipotle%20Burrito%20Builder%20Auto%20Farm.lua")
+
+addscriptexist(537413528, "Build A Boat For Treasure [Auto Buy, Auto Farm, Get All Items Free]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Build%20A%20Boat%20For%20Treasure%20Auto%20Buy%20Auto%20Farm%20Get%20All%20Items%20Free.lua")
