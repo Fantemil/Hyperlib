@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 15:52:36"
+lastupdate = "GMT +1: 09.03.2023 15:52:43"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -19236,3 +19236,5 @@ addscriptexist(8232438881, "Thief Simulator [Rob Farm, Auto Sell, ATM Farm]", "p
 addscriptexist(2413927524, "The Rake REMASTERED [LOCATION ESP, Flare gun ESP, Crate Esp]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/The%20Rake%20REMASTERED%20LOCATION%20ESP%20Flare%20gun%20ESP%20Crate%20Esp.lua")
 
 addscriptexist(2317712696, "The Wild West [Anti Afk, Gun Speed, Silent Aim]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/The%20Wild%20West%20Anti%20Afk%20Gun%20Speed%20Silent%20Aim.lua")
+
+addscriptexist(6297822481, "Titan Warfare [Crash Server]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Titan%20Warfare%20Crash%20Server.lua")
