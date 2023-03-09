@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 14:28:30"
+lastupdate = "GMT +1: 09.03.2023 14:28:34"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -17118,3 +17118,5 @@ addscriptexist(4991214437, "town [Kill All - ESP - Chams & More!]", "pulled from
 addscriptexist(1962086868, "Tower of Hell [TP To End & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tower%20of%20Hell%20TP%20To%20End%20%20More.lua")
 
 addscript(9566535167, "Current Game","Diamond Reborn [Infinite Pokebooster Time]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Diamond%20Reborn%20Infinite%20Pokebooster%20Time.lua")
+
+addscript(9808430159, "Current Game","Scan_Test.DEMO [Reveal All Parts]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ScanTestDEMO%20Reveal%20All%20Parts.lua")
