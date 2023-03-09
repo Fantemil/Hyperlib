@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 15:26:07"
+lastupdate = "GMT +1: 09.03.2023 15:26:13"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18572,3 +18572,5 @@ addscriptexist(7797478022, "Broken Bones Simulator [Auto Farm]", "pulled from rb
 addscriptexist(8747402506, "Prop Hunt [Kill All]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Prop%20Hunt%20Kill%20All.lua")
 
 addscript(6847090259, "Current Game","Bulked Up [Auto Collect Eggs]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Bulked%20Up%20Auto%20Collect%20Eggs.lua")
+
+addscript(5049335549, "Current Game","Dawn of Aurora RP [Auto Farm Free]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Dawn%20of%20Aurora%20RP%20Auto%20Farm%20Free.lua")
