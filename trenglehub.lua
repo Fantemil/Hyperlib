@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 14:55:13"
+lastupdate = "GMT +1: 09.03.2023 14:55:17"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -17800,3 +17800,5 @@ addscriptexist(3823781113, "Saber Simulator [GUI - Auto Farm, Auto Open Egg & Mo
 addscriptexist(7560156054, "Clicker Simulator [GUI - Auto Click, Unlock Gamepasses]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Clicker%20Simulator%20GUI%20%20Auto%20Click%20Unlock%20Gamepasses.lua")
 
 addscriptexist(6284583030, "Pet Simulator X [GUI - Auto Farm, Teleports & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pet%20Simulator%20X%20GUI%20%20Auto%20Farm%20Teleports%20%20More.lua")
+
+addscript(7114796110, "Current Game","Anime Training Simulator [GUI - Auto Farm, Teleports]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime%20Training%20Simulator%20GUI%20%20Auto%20Farm%20Teleports.lua")
