@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 15:51:52"
+lastupdate = "GMT +1: 09.03.2023 15:51:56"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -19218,3 +19218,5 @@ addscriptexist(4855457388, "Demonfall [GUI - All Boss Farm, Other Farm]", "pulle
 addscriptexist(8534845015, "Sakura Stand [GUI - Lots Of OP Features]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sakura%20Stand%20GUI%20%20Lots%20Of%20OP%20Features.lua")
 
 addscriptexist(6555084601, "Вирус [RP] [Nuke Gun – Give Items – Anti Cheats Bypass]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/%D0%92%D0%B8%D1%80%D1%83%D1%81%20RP%20Nuke%20Gun%20%20Give%20Items%20%20Anti%20Cheats%20Bypass.lua")
+
+addscriptexist(534701013, "The Labyrinth [Auto Fish, Auto Tress Maze, Esp]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/The%20Labyrinth%20Auto%20Fish%20Auto%20Tress%20Maze%20Esp.lua")
