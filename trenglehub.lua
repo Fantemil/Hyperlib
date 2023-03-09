@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 14:54:33"
+lastupdate = "GMT +1: 09.03.2023 14:54:39"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -17782,3 +17782,5 @@ addscript(6878438976, "Current Game","Developer Inc [Inf money, Speed, Tp]", "pu
 addscriptexist(5543622168, "Critical Tower Defense [Unlock Hot Rash]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Critical%20Tower%20Defense%20Unlock%20Hot%20Rash.lua")
 
 addscriptexist(2533391464, "Snowman Simulator [GUI - Auto Farm, Auto Farm Gift & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Snowman%20Simulator%20GUI%20%20Auto%20Farm%20Auto%20Farm%20Gift%20%20More.lua")
+
+addscriptexist(6875469709, "Strongest Punch Simulator [GUI - Auto Punch, Auto Orbs & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Strongest%20Punch%20Simulator%20GUI%20%20Auto%20Punch%20Auto%20Orbs%20%20More.lua")
