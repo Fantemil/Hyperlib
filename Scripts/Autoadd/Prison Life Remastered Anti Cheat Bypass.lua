@@ -1,0 +1,1 @@
+loadstring(game.HttpGet(game, "https://raw.githubusercontent.com/xaxaxaxaxaxaxaxaxa/RobloxScripts/main/PrisonLifeRemastered/anti-cheat-bypass.lua"))();
