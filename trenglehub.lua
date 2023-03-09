@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 16:04:27"
+lastupdate = "GMT +1: 09.03.2023 16:04:34"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -19522,3 +19522,5 @@ addscriptexist(8232438881, "Thief Simulator [Money Farm]", "pulled from rbxscrip
 addscriptexist(1345139196, "Treasure Hunt Simulator [Auto Farm Chests & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Treasure%20Hunt%20Simulator%20Auto%20Farm%20Chests%20%20More.lua")
 
 addscriptexist(6582467377, "Vanity [Aimbot]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Vanity%20Aimbot.lua")
+
+addscriptexist(292439477, "Phantom Forces [HitBox]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Phantom%20Forces%20HitBox.lua")
