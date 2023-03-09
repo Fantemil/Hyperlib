@@ -1,0 +1,1 @@
+loadstring(game:HttpGet'https://raw.githubusercontent.com/VxidHub/misc/main/BruhBeardQuest.lua')()
