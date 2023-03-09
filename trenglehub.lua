@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 14:40:42"
+lastupdate = "GMT +1: 09.03.2023 14:40:46"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -17432,3 +17432,5 @@ addhub("KeyBrew Hub [9 Games]", "pulled from rbxscript.com", "https://raw.github
 addscriptexist(1224212277, "Mad City [Faster Auto Rob]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mad%20City%20Faster%20Auto%20Rob.lua")
 
 addscriptexist(8508161757, "Raise an Albert [Infinite Money]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Raise%20an%20Albert%20Infinite%20Money.lua")
+
+addscript(7368681149, "Current Game","UnExceptional [Capture All Flags]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/UnExceptional%20Capture%20All%20Flags.lua")
