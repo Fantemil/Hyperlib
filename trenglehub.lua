@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 12:50:50"
+lastupdate = "GMT +1: 09.03.2023 12:50:54"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -15164,3 +15164,5 @@ addscript(6716188523, "Current Game","Business Tycoon [Inf cash]", "pulled from 
 addscriptexist(6679274937, "Vans World [Pencil cases]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Vans%20World%20Pencil%20cases.lua")
 
 addscriptexist(7899881670, "RB World 4 [Shoot assist]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RB%20World%20%20Shoot%20assist.lua")
+
+addscriptexist(9845465117, "AU:Reborn [Auto Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AUReborn%20Auto%20Farm.lua")
