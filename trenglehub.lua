@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 14:33:07"
+lastupdate = "GMT +1: 09.03.2023 14:33:11"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -17236,3 +17236,5 @@ addscript(8992150289, "Current Game","Anime Sword Simulator [Auto Rank - Auto Sw
 addscriptexist(3233893879, "Bad Business 3.07 [Silent Aim - Open Source]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Bad%20Business%20%20Silent%20Aim%20%20Open%20Source.lua")
 
 addscriptexist(9551640993, "Mining Simulator 2 [Auto Forge]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mining%20Simulator%20%20Auto%20Forge.lua")
+
+addscript(5927697884, "Current Game","Fallout Orange Colored Skies [Item ESP - Item Teleport]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Fallout%20Orange%20Colored%20Skies%20Item%20ESP%20%20Item%20Teleport.lua")
