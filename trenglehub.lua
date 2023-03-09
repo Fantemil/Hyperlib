@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 15:01:06"
+lastupdate = "GMT +1: 09.03.2023 15:01:10"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -17948,3 +17948,5 @@ addscriptuniversal("Universal Custom ESP", "pulled from rbxscript.com", "https:/
 addscript(8370411487, "Current Game","The New Frontier [Inf Stamina & Much More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/The%20New%20Frontier%20Inf%20Stamina%20%20Much%20More.lua")
 
 addscriptexist(5965591336, "Soul War [Intant Kill Hollows]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Soul%20War%20Intant%20Kill%20Hollows.lua")
+
+addscriptexist(5965591336, "Soul War [Auto Farm - Auto Quest & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Soul%20War%20Auto%20Farm%20%20Auto%20Quest%20%20More.lua")
