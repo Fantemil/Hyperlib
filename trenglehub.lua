@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 15:28:57"
+lastupdate = "GMT +1: 09.03.2023 15:29:02"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18642,3 +18642,5 @@ addscriptexist(5584024582, "The Rake Hour Test [Infinite Levels]", "pulled from 
 addscriptexist(70005410, "Blox Hunt | V2.7.25 [Auto Farm GUI]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blox%20Hunt%20%20V%20Auto%20Farm%20GUI.lua")
 
 addscriptexist(3522803956, "De Pride Isle Sanatorium [GUI - No Ragdoll, No Fall Damage]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/De%20Pride%20Isle%20Sanatorium%20GUI%20%20No%20Ragdoll%20No%20Fall%20Damage.lua")
+
+addscriptexist(6447798030, "Funky Friday [Give Admin Animation & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Funky%20Friday%20Give%20Admin%20Animation%20%20More.lua")
