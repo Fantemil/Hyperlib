@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 15:50:51"
+lastupdate = "GMT +1: 09.03.2023 15:50:57"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -19194,3 +19194,5 @@ addscriptexist(8357510970, "Anime Punching Simulator [Auto Click, Redeem Codes, 
 addscriptexist(45146873, "Tower Battles [Modding, Tower Purchasing, Teleport All Zombie]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tower%20Battles%20Modding%20Tower%20Purchasing%20Teleport%20All%20Zombie.lua")
 
 addscript(8893378293, "Current Game","GRAMMY Week [All quest]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/GRAMMY%20Week%20All%20quest.lua")
+
+addscriptexist(8893378293, "GRAMMY Week [Get all evnt items]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/GRAMMY%20Week%20Get%20all%20evnt%20items.lua")
