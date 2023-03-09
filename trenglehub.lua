@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 13:32:01"
+lastupdate = "GMT +1: 09.03.2023 13:32:05"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -15648,3 +15648,5 @@ addscriptexist(9157605735, "MiscGunTest:X [Inf Money, Tp, Stick All]", "pulled f
 addscriptexist(10322949476, "Limited Jumps [Auto Farm Jumps]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Limited%20Jumps%20Auto%20Farm%20Jumps.lua")
 
 addscriptexist(180364455, "Survive The Disasters 2 [Full anticheat bypass]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Survive%20The%20Disasters%20%20Full%20anticheat%20bypass.lua")
+
+addscript(5571328985, "Current Game","Bloodlines [Auto Farm, Auto Sell, Drop All]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Bloodlines%20Auto%20Farm%20Auto%20Sell%20Drop%20All.lua")
