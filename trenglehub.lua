@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 15:15:29"
+lastupdate = "GMT +1: 09.03.2023 15:15:34"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18306,3 +18306,5 @@ addscriptexist(9049840490, "Sonic Speed Simulator [Auto Run, Auto rebirths, Unlo
 addscriptexist(5802642341, "City Life [Arrest All Criminals]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/City%20Life%20Arrest%20All%20Criminals.lua")
 
 addscriptexist(5802642341, "City Life [Auto Ticket Cars]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/City%20Life%20Auto%20Ticket%20Cars.lua")
+
+addscriptexist(6193049807, "Tha Hood [Money Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tha%20Hood%20Money%20Farm.lua")
