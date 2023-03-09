@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 13:44:07"
+lastupdate = "GMT +1: 09.03.2023 13:44:12"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -15966,3 +15966,5 @@ addscriptexist(5956785391, "Project Slayers [ESP For Everything]", "pulled from 
 addscriptexist(8278412720, "CS Prison Life [BETA] [Auto Arrest]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CS%20Prison%20Life%20BETA%20Auto%20Arrest.lua")
 
 addscriptexist(7952502098, "Impossible Glass Bridge Obby! [Auto Farm Cash]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Impossible%20Glass%20Bridge%20Obby%20Auto%20Farm%20Cash.lua")
+
+addscript(7326500950, "Current Game","Untitled Melee Game [Kill Aura - Silent Aim - Infinite Stamina]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Untitled%20Melee%20Game%20Kill%20Aura%20%20Silent%20Aim%20%20Infinite%20Stamina.lua")
