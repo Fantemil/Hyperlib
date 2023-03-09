@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 13:44:55"
+lastupdate = "GMT +1: 09.03.2023 13:44:59"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -15986,3 +15986,5 @@ addscriptexist(6298464951, "Roblox Is Unbreakable [Infinite Stats]", "pulled fro
 addscriptexist(9551640993, "Mining Simualtor 2 [Auto Farm, Auto Mine]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mining%20Simualtor%20%20Auto%20Farm%20Auto%20Mine.lua")
 
 addscriptexist(5201039691, "Tatakai V.2 [Money Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tatakai%20V%20Money%20Farm.lua")
+
+addscriptexist(8054462345, "Michael`s Zombies [Anti Knockdown]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Michaels%20Zombies%20Anti%20Knockdown.lua")
