@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 15:18:51"
+lastupdate = "GMT +1: 09.03.2023 15:18:55"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18392,3 +18392,5 @@ addscript(255236425, "Current Game","Traitor Town [Esp]", "pulled from rbxscript
 addscriptexist(4855457388, "Demonfall [Auto farm, Auto Grip, Infinite jump]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Demonfall%20Auto%20farm%20Auto%20Grip%20Infinite%20jump.lua")
 
 addscriptexist(6673614635, "unConventional [Auto Quest, No Attack Cooldown, Roll Fast]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/unConventional%20Auto%20Quest%20No%20Attack%20Cooldown%20Roll%20Fast.lua")
+
+addscriptexist(2788229376, "Da Hood [God mode]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Da%20Hood%20God%20mode.lua")
