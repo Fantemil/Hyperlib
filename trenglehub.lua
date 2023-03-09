@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 13:36:42"
+lastupdate = "GMT +1: 09.03.2023 13:36:46"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -15774,3 +15774,5 @@ addscriptexist(6298464951, "Roblox Is Unbreakable [Stats Changer GUI]", "pulled 
 addscriptexist(6298464951, "Roblox Is Unbreakable [Convert Items - Infinite Cash - Infinite Items]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Roblox%20Is%20Unbreakable%20Convert%20Items%20%20Infinite%20Cash%20%20Infinite%20Items.lua")
 
 addscriptexist(9845465117, "AU:Reborn [Simmit Badge]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AUReborn%20Simmit%20Badge.lua")
+
+addscriptexist(8267733039, "Specter 2 [GUI]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Specter%20%20GUI.lua")
