@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 15:40:07"
+lastupdate = "GMT +1: 09.03.2023 15:40:11"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18924,3 +18924,5 @@ addscriptexist(2377868063, "Strucid [Neptunehook GUI - Silent Aim & More!]", "pu
 addscriptexist(9049840490, "Sonic Speed Simulator [Gain Xp & Steps By Doing Nothing]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sonic%20Speed%20Simulator%20Gain%20Xp%20%20Steps%20By%20Doing%20Nothing.lua")
 
 addscriptexist(4505214429, "Soul Eater Resonance [Eater Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Soul%20Eater%20Resonance%20Eater%20Farm.lua")
+
+addscriptexist(258258996, "Miner's Haven [Auto Farm Rebirths]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Miners%20Haven%20Auto%20Farm%20Rebirths.lua")
