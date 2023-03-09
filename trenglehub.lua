@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 15:41:39"
+lastupdate = "GMT +1: 09.03.2023 15:41:44"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18962,3 +18962,5 @@ addscriptexist(7560156054, "Clicker Simulator [Auto Farm GUI]", "pulled from rbx
 addscript(8382553377, "Current Game","Boom Simulator [GUI - Auto Farm, Teleports]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Boom%20Simulator%20GUI%20%20Auto%20Farm%20Teleports.lua")
 
 addscriptexist(8781849572, "Star Simulator Beta [Inf resources]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Star%20Simulator%20Beta%20Inf%20resources.lua")
+
+addscriptexist(155382109, "Survive And Kill The Killers In Area 51 [Inf Ammo, Give All Guns, Killer esp]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Survive%20And%20Kill%20The%20Killers%20In%20Area%20%20Inf%20Ammo%20Give%20All%20Guns%20Killer%20esp.lua")
