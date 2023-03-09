@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 14:27:54"
+lastupdate = "GMT +1: 09.03.2023 14:27:58"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -17102,3 +17102,5 @@ addscriptexist(2788229376, "Da Hood [GUI - Aimlock, KillBot & More!]", "pulled f
 addscriptexist(893973440, "Flee the Facility [GUI - Esp, Teleports]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Flee%20the%20Facility%20GUI%20%20Esp%20Teleports.lua")
 
 addscript(8743251051, "Current Game","Avalanche [God Mode]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Avalanche%20God%20Mode.lua")
+
+addscriptexist(621129760, "Knife Ability Test [God Mode]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Knife%20Ability%20Test%20God%20Mode.lua")
