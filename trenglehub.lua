@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 15:20:29"
+lastupdate = "GMT +1: 09.03.2023 15:20:34"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18432,3 +18432,5 @@ addscriptexist(8396586868, "A 0ne Piece Game [Fruit Farm]", "pulled from rbxscri
 addscript(9136292138, "Current Game","Grand Pirates [Auto Farm - Auto Quest]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Grand%20Pirates%20Auto%20Farm%20%20Auto%20Quest.lua")
 
 addscript(8689522513, "Current Game","The Streets Prison [Anti Cheat Bypass]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/The%20Streets%20Prison%20Anti%20Cheat%20Bypass.lua")
+
+addscript(9398326379, "Current Game","Raise a Bingus [Auto Farm Money]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Raise%20a%20Bingus%20Auto%20Farm%20Money.lua")
