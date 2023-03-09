@@ -1,0 +1,1 @@
+loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/ThatBlueDevil/Bleus/main/Swordburst_2/Main.lua"))()
