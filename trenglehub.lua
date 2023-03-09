@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 14:02:56"
+lastupdate = "GMT +1: 09.03.2023 14:03:02"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -16464,3 +16464,5 @@ addscriptexist(5307215810, "Randomizer [Esp, Aimbot, WalkSPeed]", "pulled from r
 addscript(9597319358, "Current Game","Actors Tycoon [AutoFarm Buttons, Auto Upgrade Workers, Working on mobile]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Actors%20Tycoon%20AutoFarm%20Buttons%20Auto%20Upgrade%20Workers%20Working%20on%20mobile.lua")
 
 addscript(9845529187, "Current Game","Tidewater [Annoy All]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tidewater%20Annoy%20All.lua")
+
+addscriptexist(6536647319, "Slayers Unleashed [Kill, Fling, Punish]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Slayers%20Unleashed%20Kill%20Fling%20Punish.lua")
