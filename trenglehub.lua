@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 12:56:12"
+lastupdate = "GMT +1: 09.03.2023 12:56:17"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -15298,3 +15298,5 @@ addscript(9157605735, "Current Game","MiscGunTest:X [Silent aim, kill aura]", "p
 addscriptexist(2809202155, "Your Bizarre Adventure [Item Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Your%20Bizarre%20Adventure%20Item%20Farm.lua")
 
 addscriptexist(9285238704, "Race Clicker [Auto Win]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Race%20Clicker%20Auto%20Win.lua")
+
+addscript(10378234820, "Current Game","Mining Simulator 2 Fan-Made [Tool enchants]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mining%20Simulator%20%20FanMade%20Tool%20enchants.lua")
