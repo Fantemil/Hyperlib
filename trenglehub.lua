@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 16:01:33"
+lastupdate = "GMT +1: 09.03.2023 16:01:39"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -19452,3 +19452,5 @@ addscriptexist(6677985923, "Millionaire Empire Tycoon [Inf Cash]", "pulled from 
 addscriptexist(8917641854, "Sword Factory [Auto make SwordS, Auto kill, Hide name]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sword%20Factory%20Auto%20make%20SwordS%20Auto%20kill%20Hide%20name.lua")
 
 addscript(7114303730, "Current Game","Dragon Orbz [Auto FArm, Auto Quest, Auto Points]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Dragon%20Orbz%20Auto%20FArm%20Auto%20Quest%20Auto%20Points.lua")
+
+addscriptexist(6558291063, "Would you rather 2 [Auto Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Would%20you%20rather%20%20Auto%20Farm.lua")
