@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 14:07:38"
+lastupdate = "GMT +1: 09.03.2023 14:07:43"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -16582,3 +16582,5 @@ addscriptexist(185655149, "Bloxburg [Auto Build]", "pulled from rbxscript.com", 
 addscriptexist(6677985923, "Millionaire Empire Tycoon [Auto Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Millionaire%20Empire%20Tycoon%20Auto%20Farm.lua")
 
 addscriptexist(4866692557, "Age Of Heroes [Rep Farm, Orb Farm, Anti Lag]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Age%20Of%20Heroes%20Rep%20Farm%20Orb%20Farm%20Anti%20Lag.lua")
+
+addscriptexist(292439477, "Phantom Forces [Legit Bot, Rage Bot, Esp]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Phantom%20Forces%20Legit%20Bot%20Rage%20Bot%20Esp.lua")
