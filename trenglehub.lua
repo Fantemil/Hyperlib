@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 14:27:36"
+lastupdate = "GMT +1: 09.03.2023 14:27:40"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -17094,3 +17094,5 @@ addscriptexist(8540168650, "Stand Upright: Rebooted [GUI - Items Farm, Quest Far
 addscriptexist(3346617530, "Freeze Tag Extreme [Collect All Items - Tag Al]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Freeze%20Tag%20Extreme%20Collect%20All%20Items%20%20Tag%20Al.lua")
 
 addscriptexist(9726345231, "Duolingo Game Hub [Dev Badge - Roblox Event]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Duolingo%20Game%20Hub%20Dev%20Badge%20%20Roblox%20Event.lua")
+
+addhub("Arctic Hub [3 Games]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Arctic%20Hub%20%20Games.lua")
