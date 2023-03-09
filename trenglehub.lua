@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 15:35:33"
+lastupdate = "GMT +1: 09.03.2023 15:35:37"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18808,3 +18808,5 @@ addscriptexist(5712833750, "Animal Simulator [Collect Eggs]", "pulled from rbxsc
 addscriptexist(8146731988, "Ultra Power Tycoon [Kill Closest Player - Open Source]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ultra%20Power%20Tycoon%20Kill%20Closest%20Player%20%20Open%20Source.lua")
 
 addscript(6955924345, "Current Game","Titan Clash Online [Kill Aura - Infinite Gas - God Mode & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Titan%20Clash%20Online%20Kill%20Aura%20%20Infinite%20Gas%20%20God%20Mode%20%20More.lua")
+
+addscriptexist(8781849572, "Star Simulator Beta [Tool Reach - Open Source]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Star%20Simulator%20Beta%20Tool%20Reach%20%20Open%20Source.lua")
