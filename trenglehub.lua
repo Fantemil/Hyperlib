@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 15:16:03"
+lastupdate = "GMT +1: 09.03.2023 15:16:07"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18320,3 +18320,5 @@ addscriptexist(9461798258, "Raise a Granny [Infinite Cash]", "pulled from rbxscr
 addscript(9474050899, "Current Game","Jackpot Party [Fast Case Opener]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Jackpot%20Party%20Fast%20Case%20Opener.lua")
 
 addscript(5029300380, "Current Game","BOXING CLUB [Kick Player]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BOXING%20CLUB%20Kick%20Player.lua")
+
+addscriptexist(7089072882, "HE-MAN SIM + BATTLE ARENA [Infinite Kirbinite]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/HEMAN%20SIM%20%20BATTLE%20ARENA%20Infinite%20Kirbinite.lua")
