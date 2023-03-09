@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 13:46:39"
+lastupdate = "GMT +1: 09.03.2023 13:46:43"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -16032,3 +16032,5 @@ addscriptexist(6356806222, "Lag Test 2021 [No lag]", "pulled from rbxscript.com"
 addscriptexist(9167501050, "Lightsaber Arena [Kill aura, auto block, inf stamina]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Lightsaber%20Arena%20Kill%20aura%20auto%20block%20inf%20stamina.lua")
 
 addscriptexist(9377039667, "Roblox Innovation Awards Voting Hub [Teleport to secret award/badge]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Roblox%20Innovation%20Awards%20Voting%20Hub%20Teleport%20to%20secret%20awardbadge.lua")
+
+addscriptexist(5956785391, "Project Slayers [Speedhack]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Project%20Slayers%20Speedhack.lua")
