@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 14:13:59"
+lastupdate = "GMT +1: 09.03.2023 14:14:04"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -16746,3 +16746,5 @@ addscript(5315066937, "Current Game","surf [SuperB Surf]", "pulled from rbxscrip
 addhub("WHEEL HUB [9 Games]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/WHEEL%20HUB%20%20Games.lua")
 
 addscript(3311740703, "Current Game","Counter Blox: Modded [Kill All, Aimbot, Esp]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Counter%20Blox%20Modded%20Kill%20All%20Aimbot%20Esp.lua")
+
+addscriptexist(6755746130, "Fruit Juice Tycoon [Auto Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Fruit%20Juice%20Tycoon%20Auto%20Farm.lua")
