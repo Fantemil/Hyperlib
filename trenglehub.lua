@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 15:58:48"
+lastupdate = "GMT +1: 09.03.2023 15:58:53"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -19390,3 +19390,5 @@ addscriptexist(659222129, "Swordburst 2 [Free GUI, Auto Farm & More! [Open Sours
 addscriptexist(4934471106, "My Hero Mania [GUI - Mob Auto Farm - Auto Quest]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/My%20Hero%20Mania%20GUI%20%20Mob%20Auto%20Farm%20%20Auto%20Quest.lua")
 
 addscriptexist(8396586868, "A 0ne Piece Game [Auto Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/A%20ne%20Piece%20Game%20Auto%20Farm.lua")
+
+addscript(8950979693, "Current Game","Anime Rebirth Simulator [Auto Click, Auto Attack Npc, Suto Buy Dispenser]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime%20Rebirth%20Simulator%20Auto%20Click%20Auto%20Attack%20Npc%20Suto%20Buy%20Dispenser.lua")
