@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 15:09:56"
+lastupdate = "GMT +1: 09.03.2023 15:10:00"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18166,3 +18166,5 @@ addscriptexist(8377686524, "Undertale: Last Reset [Auto farm]", "pulled from rbx
 addscriptexist(6679274937, "Vans World [Max Level - Open Sourse]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Vans%20World%20Max%20Level%20%20Open%20Sourse.lua")
 
 addscriptexist(9292879820, "Grass Cutting Incremental [Mod Stats]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Grass%20Cutting%20Incremental%20Mod%20Stats.lua")
+
+addscriptexist(9281034297, "Goal Kick Simulator [AimBot - Auto Kick & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Goal%20Kick%20Simulator%20AimBot%20%20Auto%20Kick%20%20More.lua")
