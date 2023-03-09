@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 13:58:12"
+lastupdate = "GMT +1: 09.03.2023 13:58:17"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -16338,3 +16338,5 @@ addscriptexist(5956785391, "Project Slayers [Auto Spin]", "pulled from rbxscript
 addscriptexist(4036494886, "Gun Simulator [GUI - Get Infinite Money, Set Max Weapon Damage & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Gun%20Simulator%20GUI%20%20Get%20Infinite%20Money%20Set%20Max%20Weapon%20Damage%20%20More.lua")
 
 addscriptexist(8554378337, "Weapon Fighting Simulator [GUI - Start Farm, Select Area To Farm & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Weapon%20Fighting%20Simulator%20GUI%20%20Start%20Farm%20Select%20Area%20To%20Farm%20%20More.lua")
+
+addscriptexist(7026949294, "Sword Simulator [Infinite Coins - Auto Farm & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sword%20Simulator%20Infinite%20Coins%20%20Auto%20Farm%20%20More.lua")
