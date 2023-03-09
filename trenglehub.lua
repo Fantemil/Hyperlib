@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 15:28:40"
+lastupdate = "GMT +1: 09.03.2023 15:28:44"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18634,3 +18634,5 @@ addscriptexist(7075737729, "Hoop Central 6 [Auto Time - Open Source]", "pulled f
 addscript(6793421427, "Current Game","get a snack at 5am [Get All Tools]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/get%20a%20snack%20at%20am%20Get%20All%20Tools.lua")
 
 addscriptexist(185655149, "Bloxburg [Job Auto Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Bloxburg%20Job%20Auto%20Farm.lua")
+
+addscriptexist(8540168650, "Stand Upright: Rebooted [Auto Farm GUI]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Stand%20Upright%20Rebooted%20Auto%20Farm%20GUI.lua")
