@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 13:24:51"
+lastupdate = "GMT +1: 09.03.2023 13:24:55"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -15466,3 +15466,5 @@ addscript(10319501620, "Current Game","School of Sport [GUI - Collect All Coins]
 addscriptexist(9285238704, "Race Clicker [Auto Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Race%20Clicker%20Auto%20Farm.lua")
 
 addscript(6983932919, "Current Game","osu!RoVer [Auto Click Circles - Time Warp & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/osuRoVer%20Auto%20Click%20Circles%20%20Time%20Warp%20%20More.lua")
+
+addscript(9605515605, "Current Game","Sword Lands Simulator - Alpha [Inf Money]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sword%20Lands%20Simulator%20%20Alpha%20Inf%20Money.lua")
