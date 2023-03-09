@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 15:38:26"
+lastupdate = "GMT +1: 09.03.2023 15:38:30"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18878,3 +18878,5 @@ addscriptexist(292439477, "Phantom Forces [Rage - Legit - Invisible - Gun Mods]"
 addscriptexist(8492553855, "Project Upright [No Punch Cooldown]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Project%20Upright%20No%20Punch%20Cooldown.lua")
 
 addscriptexist(8492553855, "Project Upright [Use Any Move]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Project%20Upright%20Use%20Any%20Move.lua")
+
+addscriptexist(7817016260, "Bloxston Mystery [Discover Everyones Roles]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Bloxston%20Mystery%20Discover%20Everyones%20Roles.lua")
