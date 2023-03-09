@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 15:50:30"
+lastupdate = "GMT +1: 09.03.2023 15:50:35"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -19184,3 +19184,5 @@ addscriptexist(8357510970, "Anime Punching Simulator [Auto Tap, Auto Rebirth, Au
 addscriptexist(3623096087, "Muscle Legends [Kill, Location, Pir Stats]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Muscle%20Legends%20Kill%20Location%20Pir%20Stats.lua")
 
 addscriptexist(2248408710, "Destruction Simulator [Auto Sell Gun Mods, Noclip]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Destruction%20Simulator%20Auto%20Sell%20Gun%20Mods%20Noclip.lua")
+
+addscriptexist(4924922222, "Brookhaven [Home Menu, House Menu, Players Memu]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Brookhaven%20Home%20Menu%20House%20Menu%20Players%20Memu.lua")
