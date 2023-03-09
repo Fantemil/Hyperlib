@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 14:13:51"
+lastupdate = "GMT +1: 09.03.2023 14:13:55"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -16742,3 +16742,5 @@ addscriptexist(8232438881, "Thief Simulator [Fast Auto Farm]", "pulled from rbxs
 addscriptexist(9103898828, "Rogue Demon [Normal Run Speed, Breath]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Rogue%20Demon%20Normal%20Run%20Speed%20Breath.lua")
 
 addscript(5315066937, "Current Game","surf [SuperB Surf]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/surf%20SuperB%20Surf.lua")
+
+addhub("WHEEL HUB [9 Games]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/WHEEL%20HUB%20%20Games.lua")
