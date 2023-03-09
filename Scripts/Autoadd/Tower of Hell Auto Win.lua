@@ -1,28 +1,11 @@
-local playerscripts = game:GetService('Players').LocalPlayer.PlayerScripts
+local P = game:GetService'Players'
+local HRP = P.LocalPlayer.Character.HumanoidRootPart
+local Sections = game:GetService("Workspace").tower.sections
 
-local script1 = playerscripts:FindFirstChild('LocalScript')
-local script2 = playerscripts:FindFirstChild('LocalScript2')
-
-local script1signal
-local script2signal
-
-if script1 and script2 then
-    script1signal = script1.Changed
-    script2signal = script2.Changed
-
-    for i, connection in next, getconnections(script1signal) do
-        connection:Disable()
+for _, Child in next, Sections:GetChildren() do
+    if Child.Name ~= "start" then
+        HRP.CFrame = Child.start.CFrame + Vector3.new(1,2,1)
+        task.wait()
     end
-    for i, connection in next, getconnections(script2signal) do
-        connection:Disable()
-    end
-
-    script1:Destroy()
-    script2:Destroy()
 end
-
-if game.Players.LocalPlayer.Character:FindFirstChild('KillScript') then
-    game.Players.LocalPlayer.Character:FindFirstChild('KillScript'):Remove()
-end
-
-game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = game.Workspace:FindFirstChild("tower"):FindFirstChild("finishes").Finish.CFrame
+HRP.CFrame = Sections.finish.FinishGlow.CFrame
