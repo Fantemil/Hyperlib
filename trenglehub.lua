@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 13:58:25"
+lastupdate = "GMT +1: 09.03.2023 13:58:29"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -16344,3 +16344,5 @@ addscriptexist(7026949294, "Sword Simulator [Infinite Coins - Auto Farm & More!]
 addscriptexist(8069117419, "Demon Soul Simulator [GUI - Auto Farm, Auto Punch & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Demon%20Soul%20Simulator%20GUI%20%20Auto%20Farm%20Auto%20Punch%20%20More.lua")
 
 addscriptexist(8069117419, "Demon Soul Simulator [Breathing Dupe]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Demon%20Soul%20Simulator%20Breathing%20Dupe.lua")
+
+addscriptuniversal("Roblox [Universal Silent Aim]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Roblox%20Universal%20Silent%20Aim.lua")
