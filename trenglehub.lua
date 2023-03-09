@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 15:30:21"
+lastupdate = "GMT +1: 09.03.2023 15:30:25"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18678,3 +18678,5 @@ addscriptexist(7009799230, "Pressure Wash Simulator [Looks Awesome]", "pulled fr
 addscript(7800644383, "Current Game","Untitled Hood [Set players cash to negative]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Untitled%20Hood%20Set%20players%20cash%20to%20negative.lua")
 
 addscript(6783611814, "Current Game","Build a Boat to Survive! [GUI - Auto-Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Build%20a%20Boat%20to%20Survive%20GUI%20%20AutoFarm.lua")
+
+addscriptexist(6938803436, "Anime Dimensions Simulator [GUI - Auto Lvl, Auto Farm & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime%20Dimensions%20Simulator%20GUI%20%20Auto%20Lvl%20Auto%20Farm%20%20More.lua")
