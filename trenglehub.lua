@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 13:52:14"
+lastupdate = "GMT +1: 09.03.2023 13:52:19"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -16180,3 +16180,5 @@ addscriptexist(4566572536, "Vehicle Legends [Car Speed]", "pulled from rbxscript
 addscript(9903808883, "Current Game","Build a Market Tycoon [Money Booster]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Build%20a%20Market%20Tycoon%20Money%20Booster.lua")
 
 addscriptexist(10041417653, "Turbo's Murder Mystery 2 [Inf Money]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Turbos%20Murder%20Mystery%20%20Inf%20Money.lua")
+
+addscriptexist(10041417653, "Turbo's Murder Mystery 2 [Infinite Coins]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Turbos%20Murder%20Mystery%20%20Infinite%20Coins.lua")
