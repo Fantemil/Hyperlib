@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 13:32:57"
+lastupdate = "GMT +1: 09.03.2023 13:33:02"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -15672,3 +15672,5 @@ addscriptexist(8303902695, "Pet Posse Simulator [Auto Coins, Rebirth, Auto Open 
 addscriptexist(6902912928, "GET TO THE TOP [Finish, Inf money]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/GET%20TO%20THE%20TOP%20Finish%20Inf%20money.lua")
 
 addscriptexist(286090429, "Arsenal [Sound Changer]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Arsenal%20Sound%20Changer.lua")
+
+addscriptexist(9498006165, "Tapping Simulator [Skip shiny stage]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tapping%20Simulator%20Skip%20shiny%20stage.lua")
