@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 15:01:32"
+lastupdate = "GMT +1: 09.03.2023 15:01:36"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -17958,3 +17958,5 @@ addscriptexist(185655149, "Bloxburg [Auto Rob]", "pulled from rbxscript.com", "h
 addhub("Roblox [Absolutionism Hub]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Roblox%20Absolutionism%20Hub.lua")
 
 addhub("Roblox [Strucid Hub]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Roblox%20Strucid%20Hub.lua")
+
+addscriptexist(3522803956, "De Pride Isle Sanatorium [No Blur, NoFallDamage, No Ragdoll]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/De%20Pride%20Isle%20Sanatorium%20No%20Blur%20NoFallDamage%20No%20Ragdoll.lua")
