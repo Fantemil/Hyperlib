@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 14:16:20"
+lastupdate = "GMT +1: 09.03.2023 14:16:24"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -16808,3 +16808,5 @@ addscriptexist(1467230998, "TROOP LIFE [Auto Farm]", "pulled from rbxscript.com"
 addscriptexist(2248408710, "Destruction Simulator [Max Lvl, Get All Weapons/Bomb, No Cooldown (Do not USE 100M)]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Destruction%20Simulator%20Max%20Lvl%20Get%20All%20WeaponsBomb%20No%20Cooldown%20Do%20not%20USE%20M.lua")
 
 addscriptexist(4598019433, "generic roleplay gaem. [Auto Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/generic%20roleplay%20gaem%20Auto%20Farm.lua")
+
+addscript(7905476552, "Current Game","Beekeepers [Auto Tokens - Auto Dig]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Beekeepers%20Auto%20Tokens%20%20Auto%20Dig.lua")
