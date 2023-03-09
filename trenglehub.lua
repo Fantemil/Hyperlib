@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 15:43:43"
+lastupdate = "GMT +1: 09.03.2023 15:43:47"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -19014,3 +19014,5 @@ addscriptexist(8781849572, "Star Simulator Beta [Complete Auto Farm GUI]", "pull
 addscriptexist(8781849572, "Star Simulator Beta [Infinite Resources]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Star%20Simulator%20Beta%20Infinite%20Resources.lua")
 
 addscriptexist(3956818381, "Ninja Legends [GUI - Auto Swing, Auto Buy]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ninja%20Legends%20GUI%20%20Auto%20Swing%20Auto%20Buy.lua")
+
+addscriptexist(30869879, "Stop It, Slender! [GUI - ESP]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Stop%20It%20Slender%20GUI%20%20ESP.lua")
