@@ -1,0 +1,1 @@
+loadstring(game:HttpGetAsync('https://raw.githubusercontent.com/Relkss/Releases/main/raise%20a%20sogga.lua'))()
