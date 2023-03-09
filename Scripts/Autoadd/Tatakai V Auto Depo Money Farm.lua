@@ -1,0 +1,1 @@
+loadstring(game:HttpGet(('https://raw.githubusercontent.com/Urbanstorms/Draco-Hub/main/Tataki%20Money%20Farm.lua'),true))()
