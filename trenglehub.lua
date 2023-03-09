@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 14:07:51"
+lastupdate = "GMT +1: 09.03.2023 14:07:55"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -16588,3 +16588,5 @@ addscriptexist(292439477, "Phantom Forces [Legit Bot, Rage Bot, Esp]", "pulled f
 addscriptexist(7560156054, "Clicker Simulator [Free Gamepass]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Clicker%20Simulator%20Free%20Gamepass.lua")
 
 addscriptexist(5130598377, "A Universal Time [Items Farm - God Mode & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/A%20Universal%20Time%20Items%20Farm%20%20God%20Mode%20%20More.lua")
+
+addscriptexist(8876694280, "Strong Simulator X [Auto Farm, Auto Rebirth, Hide NameTag]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Strong%20Simulator%20X%20Auto%20Farm%20Auto%20Rebirth%20Hide%20NameTag.lua")
