@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 14:59:13"
+lastupdate = "GMT +1: 09.03.2023 14:59:17"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -17902,3 +17902,5 @@ addscriptexist(7462526249, "NIKELAND [Collect All Coins & More!]", "pulled from 
 addscriptexist(2965881766, "Brawl-Blox [One Shot]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BrawlBlox%20One%20Shot.lua")
 
 addscriptexist(2965881766, "Brawl-Blox [Inf Golg - Inf Gems - Inf Exp]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BrawlBlox%20Inf%20Golg%20%20Inf%20Gems%20%20Inf%20Exp.lua")
+
+addscript(8005620792, "Current Game","Roblox Casino [Infinite Money]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Roblox%20Casino%20Infinite%20Money.lua")
