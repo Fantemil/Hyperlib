@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 13:30:54"
+lastupdate = "GMT +1: 09.03.2023 13:30:58"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -15618,3 +15618,5 @@ addscript(35397735, "Current Game","Scuba Diving at Quill Lake [GUI - Infinite C
 addscriptexist(109814071, "Medieval Warfare [Auto Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Medieval%20Warfare%20Auto%20Farm.lua")
 
 addscriptexist(6902912928, "GET TO THE TOP [Give Money]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/GET%20TO%20THE%20TOP%20Give%20Money.lua")
+
+addscript(98831904, "Current Game","Adonis [Auto Bypass]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Adonis%20Auto%20Bypass.lua")
