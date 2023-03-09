@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 15:24:38"
+lastupdate = "GMT +1: 09.03.2023 15:24:42"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18532,3 +18532,5 @@ addscriptexist(8705534359, "Shopping Cart Simulator [GUI - Infinite Coins & More
 addscriptexist(8069117419, "Demon Soul Simulator [Auto Farm Free GUI]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Demon%20Soul%20Simulator%20Auto%20Farm%20Free%20GUI.lua")
 
 addscriptexist(3260590327, "Tower Defense Simulator [Auto farm gem]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tower%20Defense%20Simulator%20Auto%20farm%20gem.lua")
+
+addscript(6704278765, "Current Game","Dolo Tonight Concert Experience [Collect All eyes]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Dolo%20Tonight%20Concert%20Experience%20Collect%20All%20eyes.lua")
