@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 15:21:48"
+lastupdate = "GMT +1: 09.03.2023 15:21:52"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18464,3 +18464,5 @@ addscriptexist(8209480473, "Spotify Island [Auto Collect All Coins]", "pulled fr
 addscriptexist(9103460924, "Sword Factory X [Max All Upgrades For Free]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sword%20Factory%20X%20Max%20All%20Upgrades%20For%20Free.lua")
 
 addscript(583507031, "Current Game","Papers, Please [Auto Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Papers%20Please%20Auto%20Farm.lua")
+
+addscriptexist(166986752, "Plane Crazy [Copy Build]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Plane%20Crazy%20Copy%20Build.lua")
