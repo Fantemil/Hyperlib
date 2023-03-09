@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 14:56:16"
+lastupdate = "GMT +1: 09.03.2023 14:56:20"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -17828,3 +17828,5 @@ addscriptexist(7167319176, "Chicago Remastered [GUI - ESP, No Recoil & More!]", 
 addscript(9107946567, "Current Game","Warriors Army Simulator [GUI - Auto Farm, Auto Revice & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Warriors%20Army%20Simulator%20GUI%20%20Auto%20Farm%20Auto%20Revice%20%20More.lua")
 
 addscriptexist(6769764667, "Factory Simulator [GUI - Auto Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Factory%20Simulator%20GUI%20%20Auto%20Farm.lua")
+
+addscript(9573746878, "Current Game","Bleach - Senko [Hollow Eat]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Bleach%20%20Senko%20Hollow%20Eat.lua")
