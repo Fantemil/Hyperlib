@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 13:50:26"
+lastupdate = "GMT +1: 09.03.2023 13:50:30"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -16132,3 +16132,5 @@ addscript(5320510816, "Current Game","Farm Life Tycoon [Auto Farm]", "pulled fro
 addscriptexist(2686500207, "A Bizarre Day [Loop Kill ]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/A%20Bizarre%20Day%20Loop%20Kill%20.lua")
 
 addscriptexist(2546155523, "RoVille [Auto Farm Jobs]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RoVille%20Auto%20Farm%20Jobs.lua")
+
+addscriptexist(5956785391, "Project Slayers [GUI - Auto Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Project%20Slayers%20GUI%20%20Auto%20Farm.lua")
