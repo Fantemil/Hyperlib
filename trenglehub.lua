@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 15:00:57"
+lastupdate = "GMT +1: 09.03.2023 15:01:01"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -17944,3 +17944,5 @@ addscript(444319338, "Current Game","Cannoneers! [Auto Farm]", "pulled from rbxs
 addscriptexist(6882790593, "unFAIR [Auto Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/unFAIR%20Auto%20Farm.lua")
 
 addscriptuniversal("Universal Custom ESP", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Custom%20ESP.lua")
+
+addscript(8370411487, "Current Game","The New Frontier [Inf Stamina & Much More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/The%20New%20Frontier%20Inf%20Stamina%20%20Much%20More.lua")
