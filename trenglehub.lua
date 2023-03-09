@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 16:05:12"
+lastupdate = "GMT +1: 09.03.2023 16:05:17"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -19540,3 +19540,5 @@ addscriptexist(3102144307, "Anime Clickers Simulator [Auto Pick Up Scavenger Sha
 addscriptexist(6582467377, "Vanity [Delete Tool]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Vanity%20Delete%20Tool.lua")
 
 addscript(8834250772, "Current Game","Attack Simulator [Auto Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Attack%20Simulator%20Auto%20Farm.lua")
+
+addscriptexist(8381567809, "Ninja Star Simulator [Auto Farm & Auto Collect - Basic Auto Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ninja%20Star%20Simulator%20Auto%20Farm%20%20Auto%20Collect%20%20Basic%20Auto%20Farm.lua")
