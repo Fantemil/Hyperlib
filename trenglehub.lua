@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 15:11:18"
+lastupdate = "GMT +1: 09.03.2023 15:11:23"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18200,3 +18200,5 @@ addscriptexist(286090429, "Arsenal [GUI - Aimbot, Anti Aim, ESP]", "pulled from 
 addscriptexist(8209480473, "Spotify Island [GUI - Auto Farm XP, Auto Farm Hearts]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Spotify%20Island%20GUI%20%20Auto%20Farm%20XP%20Auto%20Farm%20Hearts.lua")
 
 addhub("Extreme Hub [Supported 5 Games]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Extreme%20Hub%20Supported%20%20Games.lua")
+
+addscriptexist(5712833750, "Animal Simulator [Morphs & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Animal%20Simulator%20Morphs%20%20More.lua")
