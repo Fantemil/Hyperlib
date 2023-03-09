@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 15:45:21"
+lastupdate = "GMT +1: 09.03.2023 15:45:29"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -19056,3 +19056,5 @@ addscriptexist(6911148748, "Car Driving Indonesia [Rainbow Car & Car Speed]", "p
 addscriptexist(6778844213, "Euphoria ragdoll testing [Death Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Euphoria%20ragdoll%20testing%20Death%20Farm.lua")
 
 addscriptexist(6778844213, "Euphoria ragdoll testing [Get The Machine Badge]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Euphoria%20ragdoll%20testing%20Get%20The%20Machine%20Badge.lua")
+
+addscriptexist(8884433153, "Collect All Pets [Auto Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Collect%20All%20Pets%20Auto%20Farm.lua")
