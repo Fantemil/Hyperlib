@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 15:06:50"
+lastupdate = "GMT +1: 09.03.2023 15:06:55"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18086,3 +18086,5 @@ addscript(9522402646, "Current Game","Setsu Omega [Infinite Cash - Infinite Fame
 addscriptexist(5620664339, "RoStreets [No Fali Lockpick}", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RoStreets%20No%20Fali%20Lockpick.lua")
 
 addscript(7014716500, "Current Game","Pro Border [Get Any Rank , Rank Changer]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pro%20Border%20Get%20Any%20Rank%20%20Rank%20Changer.lua")
+
+addscriptexist(6969185078, "Elemental Awakening [Instant Cast - Attempts To Change Max Range & More!", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Elemental%20Awakening%20Instant%20Cast%20%20Attempts%20To%20Change%20Max%20Range%20%20More.lua")
