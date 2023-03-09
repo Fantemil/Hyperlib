@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 15:33:05"
+lastupdate = "GMT +1: 09.03.2023 15:33:09"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18746,3 +18746,5 @@ addscriptexist(258258996, "Miner's Haven [Auto Rebirth, Rebirth farm, Anti Afk]"
 addscript(5045567407, "Current Game","Nations Roleplay [Coloring of the World]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Nations%20Roleplay%20Coloring%20of%20the%20World.lua")
 
 addscriptexist(4505214429, "Soul Eater: Resonance [Auto Farm, Auto Quest, Click tp]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Soul%20Eater%20Resonance%20Auto%20Farm%20Auto%20Quest%20Click%20tp.lua")
+
+addscript(9123917180, "Current Game","Teleporter Simulator [Basic Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Teleporter%20Simulator%20Basic%20Farm.lua")
