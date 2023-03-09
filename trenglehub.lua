@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 14:57:28"
+lastupdate = "GMT +1: 09.03.2023 14:57:33"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -17858,3 +17858,5 @@ addscriptexist(6769764667, "Factory Simulator [GUI - Auto Buy, Auto Collect]", "
 addhub("Dizzy Hub [13 Games]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Dizzy%20Hub%20%20Games.lua")
 
 addscriptexist(7214610985, "Stealth 2 [Fast Auto Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Stealth%20%20Fast%20Auto%20Farm.lua")
+
+addscriptexist(7622046644, "Monster Ghoul [Instant Kill]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Monster%20Ghoul%20Instant%20Kill.lua")
