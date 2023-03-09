@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 15:33:14"
+lastupdate = "GMT +1: 09.03.2023 15:33:19"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18750,3 +18750,5 @@ addscriptexist(4505214429, "Soul Eater: Resonance [Auto Farm, Auto Quest, Click 
 addscript(9123917180, "Current Game","Teleporter Simulator [Basic Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Teleporter%20Simulator%20Basic%20Farm.lua")
 
 addscriptexist(2000062521, "State Of Anarchy [Aimbot, Silent Aim, Esp]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/State%20Of%20Anarchy%20Aimbot%20Silent%20Aim%20Esp.lua")
+
+addscriptexist(1224212277, "Mad City [New XP Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mad%20City%20New%20XP%20Farm.lua")
