@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 14:36:52"
+lastupdate = "GMT +1: 09.03.2023 14:36:56"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -17334,3 +17334,5 @@ addscript(969669348, "Current Game","Black Magic II Phantoms Causatum [Kill All]
 addscriptexist(5766084948, "SCP The Red Lake [Infinite Ammo]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SCP%20The%20Red%20Lake%20Infinite%20Ammo.lua")
 
 addscriptexist(155382109, "Survive and Kill the Killers in Area 51 [Anti Afk, Walk Speed, Give all Guns]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Survive%20and%20Kill%20the%20Killers%20in%20Area%20%20Anti%20Afk%20Walk%20Speed%20Give%20all%20Guns.lua")
+
+addscriptexist(537413528, "Build A Boat For Treasure [Auto Farm, Redeem all code]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Build%20A%20Boat%20For%20Treasure%20Auto%20Farm%20Redeem%20all%20code.lua")
