@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 14:02:44"
+lastupdate = "GMT +1: 09.03.2023 14:02:47"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -16458,3 +16458,5 @@ addscriptexist(8884334497, "Mining Clicker Simulator [GUI - Auto Clicks, Auto Re
 addscriptexist(292439477, "Phantom Forces [Silent Aim]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Phantom%20Forces%20Silent%20Aim.lua")
 
 addscriptexist(10118559731, "Nico’s Nextbots [Bots Esp - Teleport To Safezone]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Nicos%20Nextbots%20Bots%20Esp%20%20Teleport%20To%20Safezone.lua")
+
+addscriptexist(5307215810, "Randomizer [Esp, Aimbot, WalkSPeed]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Randomizer%20Esp%20Aimbot%20WalkSPeed.lua")
