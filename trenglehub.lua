@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 14:34:02"
+lastupdate = "GMT +1: 09.03.2023 14:34:07"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -17260,3 +17260,5 @@ addscriptexist(4954096313, "Field Trip Z [Donut, Bandage, GodMode]", "pulled fro
 addscriptexist(6953291455, "Eating Simulator [Grow Fatness, Auto Rebirth, Safe Place]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Eating%20Simulator%20Grow%20Fatness%20Auto%20Rebirth%20Safe%20Place.lua")
 
 addscriptexist(155382109, "Survive and Kill the Killers in Area 51 [Give All Guns, WalkSpeed, Anti Afk]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Survive%20and%20Kill%20the%20Killers%20in%20Area%20%20Give%20All%20Guns%20WalkSpeed%20Anti%20Afk.lua")
+
+addscriptexist(5766084948, "SCP: The Red Lake [Hitbox Expand]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SCP%20The%20Red%20Lake%20Hitbox%20Expand.lua")
