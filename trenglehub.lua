@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 15:07:38"
+lastupdate = "GMT +1: 09.03.2023 15:07:42"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18106,3 +18106,5 @@ addscriptexist(5910449407, "Project Menacing [God Mode - Grab Items & More!]", "
 addscript(9604473769, "Current Game","Tate McRae Concert Experience [Get All Coins, Infinite Score]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tate%20McRae%20Concert%20Experience%20Get%20All%20Coins%20Infinite%20Score.lua")
 
 addscriptexist(9508087919, "Apeirophobia [Monster ESP]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Apeirophobia%20Monster%20ESP.lua")
+
+addscriptexist(5620664339, "RoStreets [Auto Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RoStreets%20Auto%20Farm.lua")
