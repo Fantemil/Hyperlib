@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 14:18:29"
+lastupdate = "GMT +1: 09.03.2023 14:18:35"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -16868,3 +16868,5 @@ addscriptexist(8554378337, "Sword Simulator [Auto Farm]", "pulled from rbxscript
 addscriptuniversal("Roblox - Universal Aim Assistant", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Roblox%20%20Universal%20Aim%20Assistant.lua")
 
 addscriptexist(4459593483, "FORCE [PRE-ALPHA] [GUI - Teleports]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FORCE%20PREALPHA%20GUI%20%20Teleports.lua")
+
+addscriptexist(286090429, "Arsenal [GUI - Xray, Auto Farm & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Arsenal%20GUI%20%20Xray%20Auto%20Farm%20%20More.lua")
