@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 14:30:52"
+lastupdate = "GMT +1: 09.03.2023 14:30:57"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -17178,3 +17178,5 @@ addscriptexist(6915291292, "Bakery Simulator [GUI - Collect Baked Goods, Shelf I
 addscriptexist(4598019433, "Generic Roleplay Gaem [Auto Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Generic%20Roleplay%20Gaem%20Auto%20Farm.lua")
 
 addscriptexist(301549746, "Counter blox [Crash Server, God mode]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Counter%20blox%20Crash%20Server%20God%20mode.lua")
+
+addscriptexist(292439477, "Phantom Forces [Highlight ESP, Chams]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Phantom%20Forces%20Highlight%20ESP%20Chams.lua")
