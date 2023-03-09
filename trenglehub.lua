@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 12:53:51"
+lastupdate = "GMT +1: 09.03.2023 12:53:55"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -15242,3 +15242,5 @@ addscriptexist(5901548022, "Try To Die [Change Stat]", "pulled from rbxscript.co
 addscriptexist(4490140733, "My Restaurant [Many Cash]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/My%20Restaurant%20Many%20Cash.lua")
 
 addscriptexist(5041144419, "SCP: Roleplay [Sabotage Transformer, Auto Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SCP%20Roleplay%20Sabotage%20Transformer%20Auto%20Farm.lua")
+
+addscriptexist(142823291, "Murder Mystery 2 [Fly, BTools]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Murder%20Mystery%20%20Fly%20BTools.lua")
