@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 15:49:41"
+lastupdate = "GMT +1: 09.03.2023 15:49:45"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -19164,3 +19164,5 @@ addscriptexist(2916899287, "Blackhawk Rescue Mission 5 [GUI - Aimbot, Esp & More
 addscriptexist(621129760, "K.A.T. II [Radio Bypass]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/KAT%20II%20Radio%20Bypass.lua")
 
 addscriptexist(1458767429, "ABA [Ranked Coins Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ABA%20Ranked%20Coins%20Farm.lua")
+
+addscriptexist(2693023319, "Find The Bacons [Collect All The Bacons In The Server]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Find%20The%20Bacons%20Collect%20All%20The%20Bacons%20In%20The%20Server.lua")
