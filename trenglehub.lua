@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 15:03:28"
+lastupdate = "GMT +1: 09.03.2023 15:03:33"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18006,3 +18006,5 @@ addscriptexist(9103460924, "Sword Factory X [Auto Spawn, Auto Upgrade, Auto Upgr
 addscriptexist(5023820864, "Trade Tower [Auto Buy, Auto Sell, Auto Click]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Trade%20Tower%20Auto%20Buy%20Auto%20Sell%20Auto%20Click.lua")
 
 addscriptexist(6429245608, "Blood Surge [Inf Cash, Fame & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blood%20Surge%20Inf%20Cash%20Fame%20%20More.lua")
+
+addscript(8657806289, "Current Game","Dummies vs Noobs [Damage Multiplier]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Dummies%20vs%20Noobs%20Damage%20Multiplier.lua")
