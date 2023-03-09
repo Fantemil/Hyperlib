@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 15:56:21"
+lastupdate = "GMT +1: 09.03.2023 15:56:26"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -19324,3 +19324,5 @@ addscript(6821114498, "Current Game","Demon Slayer: Final Conquest [Give weapons
 addscriptexist(6998582502, "Dungeon Crusaders [Auto Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Dungeon%20Crusaders%20Auto%20Farm.lua")
 
 addscriptexist(6737970321, "Livetopia [Kick Player, Ragdoll player, Head AmongUs]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Livetopia%20Kick%20Player%20Ragdoll%20player%20Head%20AmongUs.lua")
+
+addscriptexist(2768379856, "3008 [WalkSpeed, Infinite jump, No Fall Damage]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/%20WalkSpeed%20Infinite%20jump%20No%20Fall%20Damage.lua")
