@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 12:01:46"
+lastupdate = "GMT +1: 09.03.2023 12:01:59"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -15098,3 +15098,5 @@ addscriptexist(2788229376, "Da Hood: Silent Aim, Speed, Strafe", "pulled from rb
 addscriptexist(6656994193, "Pet Clicker Simulator Reborn: Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pet%20Clicker%20Simulator%20Reborn%20Auto%20Farm.lua")
 
 addscriptexist(4508456371, "Shortest Answer Wins: Server Hop, Auto Reveal, Auto Collect", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Shortest%20Answer%20Wins%20Server%20Hop%20Auto%20Reveal%20Auto%20Collect.lua")
+
+addscriptexist(11606818992, "STEEP STEPS: E and Q to Teleports", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/STEEP%20STEPS%20E%20and%20Q%20to%20Teleports.lua")
