@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 16:02:52"
+lastupdate = "GMT +1: 09.03.2023 16:02:57"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -19484,3 +19484,5 @@ addscriptexist(6125809531, "Untitled Attack On Titan [Auto FArm, Kill Aura Inf G
 addscriptexist(6284583030, "Pet Simulator X [Auto-Enchant]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pet%20Simulator%20X%20AutoEnchant.lua")
 
 addscriptexist(8110180444, "Strong Pet Simulator [Auto Carry, Auto egg, Instant Train]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Strong%20Pet%20Simulator%20Auto%20Carry%20Auto%20egg%20Instant%20Train.lua")
+
+addscriptexist(4689179508, "Project Ghoul [Auto Spin]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Project%20Ghoul%20Auto%20Spin.lua")
