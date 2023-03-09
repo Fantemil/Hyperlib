@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 14:45:38"
+lastupdate = "GMT +1: 09.03.2023 14:45:43"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -17554,3 +17554,5 @@ addscriptexist(263761432, "Horrific Housing [Semi God Mode]", "pulled from rbxsc
 addscriptexist(1927139201, "The Border [Get All Scraps]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/The%20Border%20Get%20All%20Scraps.lua")
 
 addscriptexist(6953291455, "Eating Simulator [AutoEat, AutoFarm, AutoSell]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Eating%20Simulator%20AutoEat%20AutoFarm%20AutoSell.lua")
+
+addscriptexist(8592863835, "Magnet Simulator 2 [Auto Collect Coins, Get All Gamepasses]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Magnet%20Simulator%20%20Auto%20Collect%20Coins%20Get%20All%20Gamepasses.lua")
