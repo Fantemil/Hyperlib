@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 14:56:53"
+lastupdate = "GMT +1: 09.03.2023 14:56:57"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -17844,3 +17844,5 @@ addscriptexist(6969185078, "Elemental Awakening [GUI - Auto Level - TP To Locati
 addscriptexist(9573746878, "Bleach - Senko [Shinigami]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Bleach%20%20Senko%20Shinigami.lua")
 
 addscriptexist(5987922834, "Transfur Outbreak! [Auto Grab]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Transfur%20Outbreak%20Auto%20Grab.lua")
+
+addscriptexist(5777099015, "Cheese Escape [Unlock Finished Game Door & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Cheese%20Escape%20Unlock%20Finished%20Game%20Door%20%20More.lua")
