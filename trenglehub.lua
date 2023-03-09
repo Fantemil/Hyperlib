@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 15:14:16"
+lastupdate = "GMT +1: 09.03.2023 15:14:21"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18274,3 +18274,5 @@ addscript(2693739238, "Current Game","THEIF LIFE Simulator [Get Best Loot]", "pu
 addscriptexist(5154858502, "Murdererse vs. Sheriffs [Kill All]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Murdererse%20vs%20Sheriffs%20Kill%20All.lua")
 
 addscript(9487450292, "Current Game","Weak Piece [Kill Everything]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Weak%20Piece%20Kill%20Everything.lua")
+
+addscriptexist(292439477, "Phantom Forces [22 Hub - Free To Use - Aimbot & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Phantom%20Forces%20%20Hub%20%20Free%20To%20Use%20%20Aimbot%20%20More.lua")
