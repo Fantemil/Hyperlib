@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 15:30:35"
+lastupdate = "GMT +1: 09.03.2023 15:30:39"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18684,3 +18684,5 @@ addscriptexist(6938803436, "Anime Dimensions Simulator [GUI - Auto Lvl, Auto Far
 addscriptexist(2629642516, "Bitcoin Miner [Auto Farm GUI & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Bitcoin%20Miner%20Auto%20Farm%20GUI%20%20More.lua")
 
 addscriptexist(70005410, "Blox Hunt [Token Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blox%20Hunt%20Token%20Farm.lua")
+
+addscriptexist(7817016260, "Bloxston Mystery [Display Name, Role ESP - Open Source]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Bloxston%20Mystery%20Display%20Name%20Role%20ESP%20%20Open%20Source.lua")
