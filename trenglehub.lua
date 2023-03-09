@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 15:47:06"
+lastupdate = "GMT +1: 09.03.2023 15:47:11"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -19100,3 +19100,5 @@ addscriptexist(735030788, "Royale High [Gem Farm - Fix & Ear Rape]", "pulled fro
 addscriptexist(7603178367, "Chipotle Burrito Builder [Auto Deliver Burritos]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Chipotle%20Burrito%20Builder%20Auto%20Deliver%20Burritos.lua")
 
 addscript(6551386772, "Current Game","Battle Royale Simulator [Hit Box, AIMBOT, ESP]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Battle%20Royale%20Simulator%20Hit%20Box%20AIMBOT%20ESP.lua")
+
+addscriptexist(5670218884, "Item asylum [Give weapons]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Item%20asylum%20Give%20weapons.lua")
