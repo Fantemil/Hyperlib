@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 15:48:27"
+lastupdate = "GMT +1: 09.03.2023 15:48:32"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -19132,3 +19132,5 @@ addscriptexist(5116869569, "Doodle World [Heal Your Tean Anywhere]", "pulled fro
 addscriptexist(662417684, "Lucky Blocks Battlegrounds [GUI - Spawn all blocks]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Lucky%20Blocks%20Battlegrounds%20GUI%20%20Spawn%20all%20blocks.lua")
 
 addscriptexist(155615604, "Prison Life [GUI - Gun Mod, Gun Giver]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Prison%20Life%20GUI%20%20Gun%20Mod%20Gun%20Giver.lua")
+
+addscriptexist(2512643572, "Bubble Gum Simulator [GUI - Auto Farm, Auto Buy]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Bubble%20Gum%20Simulator%20GUI%20%20Auto%20Farm%20Auto%20Buy.lua")
