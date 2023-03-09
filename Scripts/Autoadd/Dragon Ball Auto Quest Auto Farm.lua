@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Sys0002/luau/main/AutoQuestPlay.lua"))()
