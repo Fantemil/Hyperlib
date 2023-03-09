@@ -1,0 +1,1 @@
+print(game:GetService("HttpService"):GenerateGUID(false))
