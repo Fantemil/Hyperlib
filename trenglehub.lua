@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 15:26:57"
+lastupdate = "GMT +1: 09.03.2023 15:27:01"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18592,3 +18592,5 @@ addscriptexist(4459593483, "FORCE [PRE-ALPHA] [Ingredidnt ESP]", "pulled from rb
 addscript(7665621058, "Current Game","Destroyerman Simulator [Get All Gamepasses]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Destroyerman%20Simulator%20Get%20All%20Gamepasses.lua")
 
 addscriptexist(5712833750, "Animal Simulator [Infinite XP, Levels]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Animal%20Simulator%20Infinite%20XP%20Levels.lua")
+
+addscriptexist(5712833750, "Animal Simulator [Player Kill Aura - NPC Kill Aura]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Animal%20Simulator%20Player%20Kill%20Aura%20%20NPC%20Kill%20Aura.lua")
