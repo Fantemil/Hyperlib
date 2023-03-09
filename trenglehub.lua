@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 15:28:02"
+lastupdate = "GMT +1: 09.03.2023 15:28:07"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18618,3 +18618,5 @@ addscriptexist(8137333410, "Color by number [Near Instant Auto Painter]", "pulle
 addscriptexist(4410049285, "Driving Simulator [Auto Farm & Discover All Areas]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Driving%20Simulator%20Auto%20Farm%20%20Discover%20All%20Areas.lua")
 
 addscriptexist(9203864304, "Raise a Floppa [Auto Click - Auto Collect Floppa Cash & More]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Raise%20a%20Floppa%20Auto%20Click%20%20Auto%20Collect%20Floppa%20Cash%20%20More.lua")
+
+addscript(4637668954, "Current Game","Rensselaer County Beta [RGB Car]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Rensselaer%20County%20Beta%20RGB%20Car.lua")
