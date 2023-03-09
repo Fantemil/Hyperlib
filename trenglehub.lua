@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 16:02:14"
+lastupdate = "GMT +1: 09.03.2023 16:02:18"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -19468,3 +19468,5 @@ addscriptexist(7114303730, "Dragon Orbz [Auto Farm - Auto Quest & More!]", "pull
 addscript(7198676364, "Current Game","Climb a Rainbow Pop it [Auto Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Climb%20a%20Rainbow%20Pop%20it%20Auto%20Farm.lua")
 
 addscript(3295514368, "Current Game","Sandhurst Military Academy [Click kill, loop kill, Effecting Me]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sandhurst%20Military%20Academy%20Click%20kill%20loop%20kill%20Effecting%20Me.lua")
+
+addscript(8365063484, "Current Game","Miami Drive [Inf Money]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Miami%20Drive%20Inf%20Money.lua")
