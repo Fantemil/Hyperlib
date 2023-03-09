@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 14:00:35"
+lastupdate = "GMT +1: 09.03.2023 14:00:40"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -16402,3 +16402,5 @@ addscriptexist(9976239895, "Gumball Factory Tycoon [Full Auto Farm]", "pulled fr
 addscriptexist(9377039667, "Roblox Innovation Awards Voting Hub [Get All Puzzle Pieces]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Roblox%20Innovation%20Awards%20Voting%20Hub%20Get%20All%20Puzzle%20Pieces.lua")
 
 addscriptexist(679715583, "Starscape [Auto Market]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Starscape%20Auto%20Market.lua")
+
+addscript(9616411936, "Current Game","Man City Blue Moon [Free Ugc Item]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Man%20City%20Blue%20Moon%20Free%20Ugc%20Item.lua")
