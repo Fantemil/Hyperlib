@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 15:36:28"
+lastupdate = "GMT +1: 09.03.2023 15:36:32"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18830,3 +18830,5 @@ addscript(334218733, "Current Game","Warships [GUI - Give Coins - Give Ships - K
 addscriptexist(4753520418, "The Hood [Egg ESP]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/The%20Hood%20Egg%20ESP.lua")
 
 addscriptexist(8982709021, "YouTube Life [Collect All Eggs]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/YouTube%20Life%20Collect%20All%20Eggs.lua")
+
+addscriptexist(6788787407, "Warrior Champions [Auto Farm GUI]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Warrior%20Champions%20Auto%20Farm%20GUI.lua")
