@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 14:32:01"
+lastupdate = "GMT +1: 09.03.2023 14:32:06"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -17208,3 +17208,5 @@ addscriptexist(5315066937, "SuperB Surf Revised [Change Your Surfing, Bhop Speed
 addscriptexist(3095204897, "Isle [Infinite Oxygen]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Isle%20Infinite%20Oxygen.lua")
 
 addscriptexist(443406476, "Project Lazarus [ESP, One Shot Kill, Chams]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Project%20Lazarus%20ESP%20One%20Shot%20Kill%20Chams.lua")
+
+addscriptexist(9203864304, "raise a floppa 2 [Auto Cook & Inf Max Rent]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/raise%20a%20floppa%20%20Auto%20Cook%20%20Inf%20Max%20Rent.lua")
