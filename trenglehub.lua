@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 14:40:58"
+lastupdate = "GMT +1: 09.03.2023 14:41:03"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -17438,3 +17438,5 @@ addscript(7368681149, "Current Game","UnExceptional [Capture All Flags]", "pulle
 addscriptexist(9551640993, "Mining Simulator 2 [Hatch Webhook Sender]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mining%20Simulator%20%20Hatch%20Webhook%20Sender.lua")
 
 addscriptexist(2000062521, "State of Anarchy 0.15.83.0 [Kill All]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/State%20of%20Anarchy%20%20Kill%20All.lua")
+
+addscriptexist(70005410, "Blox Hunt [Prop Chams]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blox%20Hunt%20Prop%20Chams.lua")
