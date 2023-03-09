@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 12:55:20"
+lastupdate = "GMT +1: 09.03.2023 12:55:25"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -15280,3 +15280,5 @@ addscriptexist(8328351891, "Mega Mansion Tycoon [Auto Collect]", "pulled from rb
 addscript(9943374061, "Current Game","Planet Oof [Auto Collect]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Planet%20Oof%20Auto%20Collect.lua")
 
 addscriptexist(5602055394, "Hood Modded [Silent Aim, Inf Jump]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Hood%20Modded%20Silent%20Aim%20Inf%20Jump.lua")
+
+addscriptexist(10192063645, "Thy hood [No jump CD, Teleports]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Thy%20hood%20No%20jump%20CD%20Teleports.lua")
