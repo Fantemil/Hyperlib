@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 13:31:02"
+lastupdate = "GMT +1: 09.03.2023 13:31:07"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -15622,3 +15622,5 @@ addscriptexist(6902912928, "GET TO THE TOP [Give Money]", "pulled from rbxscript
 addscript(98831904, "Current Game","Adonis [Auto Bypass]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Adonis%20Auto%20Bypass.lua")
 
 addscriptexist(3851622790, "Break In (Story) [The Best GUI]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Break%20In%20Story%20The%20Best%20GUI.lua")
+
+addscriptexist(8500690972, "NO STOP Obby [Infinite Stages]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NO%20STOP%20Obby%20Infinite%20Stages.lua")
