@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 15:59:07"
+lastupdate = "GMT +1: 09.03.2023 15:59:12"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -19398,3 +19398,5 @@ addscriptexist(920587237, "Adopt Me [Gingerbread Man Auto Farm]", "pulled from r
 addscriptexist(142823291, "Murder Mystery 2 [Auto Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Murder%20Mystery%20%20Auto%20Farm.lua")
 
 addscriptexist(8377686524, "Undertale: Last Reset [Tp Event]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Undertale%20Last%20Reset%20Tp%20Event.lua")
+
+addscript(4599968871, "Current Game","Tower Of Hell Easy [Infinite Money]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tower%20Of%20Hell%20Easy%20Infinite%20Money.lua")
