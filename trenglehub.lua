@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 15:06:08"
+lastupdate = "GMT +1: 09.03.2023 15:06:12"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18068,3 +18068,5 @@ addscriptexist(2788229376, "Da Hood [Kittenhook + Crypteder]", "pulled from rbxs
 addscriptexist(9292879820, "Grass Cutting Incremental [Auto Recollect]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Grass%20Cutting%20Incremental%20Auto%20Recollect.lua")
 
 addscriptexist(8540346411, "Rebirth Champions X [Auto Click - Auto Rebirth]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Rebirth%20Champions%20X%20Auto%20Click%20%20Auto%20Rebirth.lua")
+
+addscriptexist(6969185078, "Elemental Awakening [Instant Cast]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Elemental%20Awakening%20Instant%20Cast.lua")
