@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 15:44:26"
+lastupdate = "GMT +1: 09.03.2023 15:44:30"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -19034,3 +19034,5 @@ addscriptexist(8246874626, "DBZ (DEMO) [Auto Farm - Kill Aura - Best Farm & More
 addscriptexist(155382109, "Survive and Kill the Killesr in Area 51 [STKv7.1 Engine GUI]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Survive%20and%20Kill%20the%20Killesr%20in%20Area%20%20STKv%20Engine%20GUI.lua")
 
 addscriptexist(8073154099, "The Intruder [Intruder Detection]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/The%20Intruder%20Intruder%20Detection.lua")
+
+addscript(7708751418, "Current Game","Smashing Simulator X [Auto Slash, Auto Rebirth, Auto Open Egg]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Smashing%20Simulator%20X%20Auto%20Slash%20Auto%20Rebirth%20Auto%20Open%20Egg.lua")
