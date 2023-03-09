@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://raw.githubusercontent.com/momenthubv3/Gura-Hub/patch-1/loader.lua'))()
