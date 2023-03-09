@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 15:08:51"
+lastupdate = "GMT +1: 09.03.2023 15:08:56"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18138,3 +18138,5 @@ addhub("MoonLight [HUB - 3 Games - Pet Sim X & More!]", "pulled from rbxscript.c
 addscript(9426082120, "Current Game","Samsung Superstar Galaxy [Auto Collect All Stars]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Samsung%20Superstar%20Galaxy%20Auto%20Collect%20All%20Stars.lua")
 
 addscriptexist(4282985734, "Combat Warrior [Auto Farm Free GUI]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Combat%20Warrior%20Auto%20Farm%20Free%20GUI.lua")
+
+addscriptexist(6284583030, "Pet Simulator X [New GUI LKHUB]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pet%20Simulator%20X%20New%20GUI%20LKHUB.lua")
