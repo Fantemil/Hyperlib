@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 15:19:53"
+lastupdate = "GMT +1: 09.03.2023 15:19:57"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18418,3 +18418,5 @@ addscriptexist(1730877806, "Grand Piece Online [Walk On Water]", "pulled from rb
 addscriptexist(4996049426, "All Star Tower Defense [Star Pass XP]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/All%20Star%20Tower%20Defense%20Star%20Pass%20XP.lua")
 
 addscriptexist(6878438976, "Developer Inc [10r Cash in 30 sec]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Developer%20Inc%20r%20Cash%20in%20%20sec.lua")
+
+addscriptexist(1458767429, "ABA [Automatic black flash Itadori]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ABA%20Automatic%20black%20flash%20Itadori.lua")
