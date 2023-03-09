@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 15:23:23"
+lastupdate = "GMT +1: 09.03.2023 15:23:30"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18500,3 +18500,5 @@ addscriptexist(9103460924, "Sword Factory X [Auto Spawn - Auto Kill Boss]", "pul
 addscriptexist(5233782396, "Creatures Of Sonaria [GUI Auto Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Creatures%20Of%20Sonaria%20GUI%20Auto%20Farm.lua")
 
 addscriptexist(9300407930, "Bot Clash [Auto Farm V2 - Auto Spin - Auto Feed & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Bot%20Clash%20Auto%20Farm%20V%20%20Auto%20Spin%20%20Auto%20Feed%20%20More.lua")
+
+addscriptexist(4996049426, "All Star Tower Defense [Star Pass Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/All%20Star%20Tower%20Defense%20Star%20Pass%20Farm.lua")
