@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 15:11:07"
+lastupdate = "GMT +1: 09.03.2023 15:11:11"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18196,3 +18196,5 @@ addscriptexist(920587237, "Adopt Me! [Auto Farm, Auto Baby, More!]", "pulled fro
 addscriptexist(6808416928, "Aimblox [Inf Ammo, No Reload, More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Aimblox%20Inf%20Ammo%20No%20Reload%20More.lua")
 
 addscriptexist(286090429, "Arsenal [GUI - Aimbot, Anti Aim, ESP]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Arsenal%20GUI%20%20Aimbot%20Anti%20Aim%20ESP.lua")
+
+addscriptexist(8209480473, "Spotify Island [GUI - Auto Farm XP, Auto Farm Hearts]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Spotify%20Island%20GUI%20%20Auto%20Farm%20XP%20Auto%20Farm%20Hearts.lua")
