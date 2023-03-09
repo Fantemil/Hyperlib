@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 12:59:05"
+lastupdate = "GMT +1: 09.03.2023 12:59:10"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -15368,3 +15368,5 @@ addscript(6950767274, "Current Game","Fighter's Era [Roadwork Load]", "pulled fr
 addscriptexist(5130598377, "A Universal Time [Thug Farm - Items Farm & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/A%20Universal%20Time%20Thug%20Farm%20%20Items%20Farm%20%20More.lua")
 
 addscriptexist(7305309231, "Taxi Boss [Auto Farm Trophies]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Taxi%20Boss%20Auto%20Farm%20Trophies.lua")
+
+addscriptexist(10524502174, "One Punch Fighters [Auto Farm, auto eggs]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/One%20Punch%20Fighters%20Auto%20Farm%20auto%20eggs.lua")
