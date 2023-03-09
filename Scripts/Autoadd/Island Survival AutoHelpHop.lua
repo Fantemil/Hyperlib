@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://raw.githubusercontent.com/MaouStan/WorkScript/main/Desert%20island%20survival%20hop%20help.lua'))()
