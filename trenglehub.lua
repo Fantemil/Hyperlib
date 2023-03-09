@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 13:37:43"
+lastupdate = "GMT +1: 09.03.2023 13:37:47"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -15802,3 +15802,5 @@ addscriptexist(1554960397, "Car Dealership Tycoon [Town Hall Event]", "pulled fr
 addhub("Roblox [Argon Hub]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Roblox%20Argon%20Hub.lua")
 
 addscriptexist(8267733039, "Specter 2 [Detect Fingerprints, FullBright, Unlock Third Person]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Specter%20%20Detect%20Fingerprints%20FullBright%20Unlock%20Third%20Person.lua")
+
+addscriptexist(4581966615, "Anomic [Auto Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anomic%20Auto%20Farm.lua")
