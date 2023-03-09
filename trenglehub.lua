@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 15:32:55"
+lastupdate = "GMT +1: 09.03.2023 15:33:01"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18742,3 +18742,5 @@ addscriptexist(5780309044, "Stands Awakening [Stand Farm, Npc Teleport, Place Te
 addscriptexist(6679274937, "Vans World [Auto Collect Coins, Auto Xp Gain, Complete All guests]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Vans%20World%20Auto%20Collect%20Coins%20Auto%20Xp%20Gain%20Complete%20All%20guests.lua")
 
 addscriptexist(258258996, "Miner's Haven [Auto Rebirth, Rebirth farm, Anti Afk]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Miners%20Haven%20Auto%20Rebirth%20Rebirth%20farm%20Anti%20Afk.lua")
+
+addscript(5045567407, "Current Game","Nations Roleplay [Coloring of the World]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Nations%20Roleplay%20Coloring%20of%20the%20World.lua")
