@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 15:34:52"
+lastupdate = "GMT +1: 09.03.2023 15:34:57"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18790,3 +18790,5 @@ addscriptexist(9123917180, "Teleporter Simulator [GUI - Auto Orbs - Auto Buy & K
 addscriptexist(4042427666, "Anime Fighting Simulator [Chikara,Yen Generator]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime%20Fighting%20Simulator%20ChikaraYen%20Generator.lua")
 
 addscriptexist(5712833750, "Animal Simulator [Collect Treasuers]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Animal%20Simulator%20Collect%20Treasuers.lua")
+
+addscriptexist(6677985923, "Millionaire Empire Tycoon [Auto Collect Money - Auto Rebirth]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Millionaire%20Empire%20Tycoon%20Auto%20Collect%20Money%20%20Auto%20Rebirth.lua")
