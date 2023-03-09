@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 15:29:41"
+lastupdate = "GMT +1: 09.03.2023 15:29:44"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18660,3 +18660,5 @@ addscript(9423668629, "Current Game","Find the Teddies [Find All Teddies]", "pul
 addscriptexist(185655149, "Bloxburg [GUI - Farm Any Job]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Bloxburg%20GUI%20%20Farm%20Any%20Job.lua")
 
 addscriptexist(301549746, "Counter Blox [God Mode]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Counter%20Blox%20God%20Mode.lua")
+
+addscriptexist(1240644540, "Vampire Hunters 3 [Vampire ESP]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Vampire%20Hunters%20%20Vampire%20ESP.lua")
