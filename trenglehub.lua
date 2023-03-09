@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 14:32:59"
+lastupdate = "GMT +1: 09.03.2023 14:33:03"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -17232,3 +17232,5 @@ addscriptexist(1458767429, "Anime Battle Arena [Kira Show Where Bomb Is]", "pull
 addscript(7107498084, "Current Game","Anime Battle Simulator [Infinite Yen - Infinite Gems & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime%20Battle%20Simulator%20Infinite%20Yen%20%20Infinite%20Gems%20%20More.lua")
 
 addscript(8992150289, "Current Game","Anime Sword Simulator [Auto Rank - Auto Sword & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime%20Sword%20Simulator%20Auto%20Rank%20%20Auto%20Sword%20%20More.lua")
+
+addscriptexist(3233893879, "Bad Business 3.07 [Silent Aim - Open Source]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Bad%20Business%20%20Silent%20Aim%20%20Open%20Source.lua")
