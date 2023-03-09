@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 15:44:53"
+lastupdate = "GMT +1: 09.03.2023 15:44:57"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -19044,3 +19044,5 @@ addscript(8897454112, "Current Game","Pet Salon Tycoon [OP Auto Farm]", "pulled 
 addscript(3210622855, "Current Game","Manner's Badge Walk [Get All Sky World Badges]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Manners%20Badge%20Walk%20Get%20All%20Sky%20World%20Badges.lua")
 
 addscriptexist(6778844213, "Euphoria ragdoll testing [Coin Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Euphoria%20ragdoll%20testing%20Coin%20Farm.lua")
+
+addscript(1348945266, "Current Game","Ro-Boxing [Farming GUI - Open Sourse]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RoBoxing%20Farming%20GUI%20%20Open%20Sourse.lua")
