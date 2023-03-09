@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 15:38:46"
+lastupdate = "GMT +1: 09.03.2023 15:38:51"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18888,3 +18888,5 @@ addscriptexist(3501626887, "Diceboy [Bring Dicecoins]", "pulled from rbxscript.c
 addscriptexist(632642533, "DeadMist 2 Beta [Grab Dead Bodies]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DeadMist%20%20Beta%20Grab%20Dead%20Bodies.lua")
 
 addscript(7871169780, "Current Game","bLockerman666`s Minesweeper [Find Safe Tiles And Bombs]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/bLockermans%20Minesweeper%20Find%20Safe%20Tiles%20And%20Bombs.lua")
+
+addscript(6843988672, "Current Game","County Jail Roleplay [AC Bypass]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/County%20Jail%20Roleplay%20AC%20Bypass.lua")
