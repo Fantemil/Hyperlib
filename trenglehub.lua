@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 14:27:00"
+lastupdate = "GMT +1: 09.03.2023 14:27:06"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -17078,3 +17078,5 @@ addscriptexist(9551640993, "Mining Simulator 2 [Name Egg, Name Pet, Auto Deletes
 addscriptexist(4588604953, "Criminality [Gun Modifications, Aimbot, Inf Stamina]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Criminality%20Gun%20Modifications%20Aimbot%20Inf%20Stamina.lua")
 
 addscriptexist(4540286603, "NORTHWIND [Lag Bomb]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NORTHWIND%20Lag%20Bomb.lua")
+
+addscript(9558297703, "Current Game","Fortnite! [ESP - Silent AIM - Unlock Skins - GUI]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Fortnite%20ESP%20%20Silent%20AIM%20%20Unlock%20Skins%20%20GUI.lua")
