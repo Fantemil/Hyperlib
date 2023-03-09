@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 13:24:29"
+lastupdate = "GMT +1: 09.03.2023 13:24:34"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -15458,3 +15458,5 @@ addscriptexist(5130598377, "A Universal Time [Quest Farm]", "pulled from rbxscri
 addscriptexist(3346617530, "Freeze Tag Extreme [Anti Admin & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Freeze%20Tag%20Extreme%20Anti%20Admin%20%20More.lua")
 
 addscriptexist(7009799230, "Pressure Wash Simulator [Infinite Money]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pressure%20Wash%20Simulator%20Infinite%20Money.lua")
+
+addscriptexist(6298464951, "Roblox Is Unbreakable [Auto Collect Items]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Roblox%20Is%20Unbreakable%20Auto%20Collect%20Items.lua")
