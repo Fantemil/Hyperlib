@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/adrician/Pressure-Wash-Simulator-GUI/main/Pressure%20Wash%20Simulator.lua"))()
