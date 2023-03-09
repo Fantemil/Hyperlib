@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 14:55:44"
+lastupdate = "GMT +1: 09.03.2023 14:55:49"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -17814,3 +17814,5 @@ addscriptexist(6677985923, "Millionaire Empire Tycoon [GUI - Get Cash, Auto Rebi
 addscript(7429434108, "Current Game","Anime Tappers [GUI - Auto Farm, Auto Upgrade]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime%20Tappers%20GUI%20%20Auto%20Farm%20Auto%20Upgrade.lua")
 
 addscriptexist(7444263453, "Jetpack Jumpers [GUI - Auto Farm, Reedem Codes]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Jetpack%20Jumpers%20GUI%20%20Auto%20Farm%20Reedem%20Codes.lua")
+
+addscriptexist(680750021, "Case Clicker [GUI - Auto Farm, Auto Upgrade]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Case%20Clicker%20GUI%20%20Auto%20Farm%20Auto%20Upgrade.lua")
