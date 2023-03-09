@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 15:17:59"
+lastupdate = "GMT +1: 09.03.2023 15:18:04"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18370,3 +18370,5 @@ addscript(6673614635, "Current Game","unConventional [Auto Questing]", "pulled f
 addscriptexist(8209480473, "Spotify Island [Heart farm serverhop, Get a lot of hearts]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Spotify%20Island%20Heart%20farm%20serverhop%20Get%20a%20lot%20of%20hearts.lua")
 
 addscriptexist(8209480473, "Spotify Island [Instant Level 50]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Spotify%20Island%20Instant%20Level%20.lua")
+
+addscriptexist(6673614635, "unConventional [Auto Farm, Kill Aura, Relic name]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/unConventional%20Auto%20Farm%20Kill%20Aura%20Relic%20name.lua")
