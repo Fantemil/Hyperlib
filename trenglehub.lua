@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 12:03:09"
+lastupdate = "GMT +1: 09.03.2023 12:03:19"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -15112,3 +15112,5 @@ addhub("Catalyst Hub V3: 3 Games", "pulled from rbxscript.com", "https://raw.git
 addscriptexist(8540346411, "Rebirth Champions X: Auto Collect, Auto Rebirth & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Rebirth%20Champions%20X%20Auto%20Collect%20Auto%20Rebirth%20%20More.lua")
 
 addhub("Wolf Hub: 10 Games", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Wolf%20Hub%20%20Games.lua")
+
+addscriptexist(142823291, "Murder Mystery 2: Kill All, Kill Aura, Esp", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Murder%20Mystery%20%20Kill%20All%20Kill%20Aura%20Esp.lua")
