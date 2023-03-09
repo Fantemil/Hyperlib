@@ -1,0 +1,1 @@
+loadstring(game:HttpGet(('https://raw.githubusercontent.com/lobox920/Shar-Script/main/World%20of%20Stands.lua')))()
