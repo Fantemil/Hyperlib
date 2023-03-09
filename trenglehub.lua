@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 15:03:55"
+lastupdate = "GMT +1: 09.03.2023 15:03:59"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18018,3 +18018,5 @@ addscriptexist(9281034297, "Goal Kick Simulator [Inf Money]", "pulled from rbxsc
 addscriptexist(6969185078, "Elemental Awakening [Autospin]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Elemental%20Awakening%20Autospin.lua")
 
 addscript(8826041180, "Current Game","Hero Simulator [Auto Quest, Auto farm, Auto rebirth]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Hero%20Simulator%20Auto%20Quest%20Auto%20farm%20Auto%20rebirth.lua")
+
+addscriptexist(8302406789, "Anime Lifting Simulator [Auto lift, Auto selll, Auto buy]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime%20Lifting%20Simulator%20Auto%20lift%20Auto%20selll%20Auto%20buy.lua")
