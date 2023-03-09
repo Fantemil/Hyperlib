@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 15:55:34"
+lastupdate = "GMT +1: 09.03.2023 15:55:43"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -19308,3 +19308,5 @@ addscriptexist(4111023553, "Deepwoken [Anti Acid]", "pulled from rbxscript.com",
 addscriptexist(2753915549, "Blox Fruits [Auto Farm Bone, Farm Boss, Drop Fruit]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blox%20Fruits%20Auto%20Farm%20Bone%20Farm%20Boss%20Drop%20Fruit.lua")
 
 addscriptexist(4811576324, "Totally Accurate Gun Simulator [Kill All]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Totally%20Accurate%20Gun%20Simulator%20Kill%20All.lua")
+
+addscriptexist(6667701234, "Fate/Xero [TP all items]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FateXero%20TP%20all%20items.lua")
