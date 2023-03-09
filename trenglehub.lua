@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 14:22:39"
+lastupdate = "GMT +1: 09.03.2023 14:22:43"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -16968,3 +16968,5 @@ addscriptexist(4459593483, "FORCE [Auto Collect Trinkets]", "pulled from rbxscri
 addscriptexist(4459593483, "FORCE [No Fall]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FORCE%20No%20Fall.lua")
 
 addscriptexist(7211666966, "Tower Of Jump [Auto Farm - Non Server Hop]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tower%20Of%20Jump%20Auto%20Farm%20%20Non%20Server%20Hop.lua")
+
+addscriptexist(621129760, "KAT [GUI - Auto Farm, Btools & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/KAT%20GUI%20%20Auto%20Farm%20Btools%20%20More.lua")
