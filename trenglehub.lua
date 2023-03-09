@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 15:55:07"
+lastupdate = "GMT +1: 09.03.2023 15:55:11"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -19296,3 +19296,5 @@ addscriptexist(8396586868, "0ne Piece Game [Auto Farm, Auto Quest, Auto Skill]",
 addscriptexist(8603729161, "walk 50000 studs for nothing [Auto Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/walk%20%20studs%20for%20nothing%20Auto%20Farm.lua")
 
 addscript(6186926816, "Current Game","True Piece [Auto farm, Auto Chest, Fruit farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/True%20Piece%20Auto%20farm%20Auto%20Chest%20Fruit%20farm.lua")
+
+addscriptexist(6186926816, "Tapping Kingdom [Inf pet storage]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tapping%20Kingdom%20Inf%20pet%20storage.lua")
