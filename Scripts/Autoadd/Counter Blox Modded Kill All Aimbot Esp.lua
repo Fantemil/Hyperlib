@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://raw.githubusercontent.com/AtomGotIce/Scripts/main/Counter%20Blox%3A%20Modded'))()
