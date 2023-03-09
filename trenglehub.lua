@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 15:30:12"
+lastupdate = "GMT +1: 09.03.2023 15:30:16"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18674,3 +18674,5 @@ addscriptexist(4588604953, "Criminality [Wallbang]", "pulled from rbxscript.com"
 addscriptexist(189707, "Natural Disaster Survival [Auto Win & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Natural%20Disaster%20Survival%20Auto%20Win%20%20More.lua")
 
 addscriptexist(7009799230, "Pressure Wash Simulator [Looks Awesome]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pressure%20Wash%20Simulator%20Looks%20Awesome.lua")
+
+addscript(7800644383, "Current Game","Untitled Hood [Set players cash to negative]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Untitled%20Hood%20Set%20players%20cash%20to%20negative.lua")
