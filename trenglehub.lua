@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 15:17:03"
+lastupdate = "GMT +1: 09.03.2023 15:17:08"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18346,3 +18346,5 @@ addscriptexist(9461798258, "Raise a Granny [Inf Cash]", "pulled from rbxscript.c
 addscriptexist(9461798258, "Raise a Granny [Drop cookies]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Raise%20a%20Granny%20Drop%20cookies.lua")
 
 addscriptexist(9344944754, "Hunter x Omen [Auto Pushup (Fast)]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Hunter%20x%20Omen%20Auto%20Pushup%20Fast.lua")
+
+addscriptexist(8916037983, "Starving Artists GET EASTER BOOTH SCRIPT", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Starving%20Artists%20GET%20EASTER%20BOOTH%20SCRIPT.lua")
