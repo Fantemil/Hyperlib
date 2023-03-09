@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 14:28:41"
+lastupdate = "GMT +1: 09.03.2023 14:28:45"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -17122,3 +17122,5 @@ addscript(9566535167, "Current Game","Diamond Reborn [Infinite Pokebooster Time]
 addscript(9808430159, "Current Game","Scan_Test.DEMO [Reveal All Parts]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ScanTestDEMO%20Reveal%20All%20Parts.lua")
 
 addscriptexist(4618049391, "Tang County, Hebei [Auto Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tang%20County%20Hebei%20Auto%20Farm.lua")
+
+addscriptexist(9297410766, "Crossbar Challenge Simulator [Fast Auto Shoot]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Crossbar%20Challenge%20Simulator%20Fast%20Auto%20Shoot.lua")
