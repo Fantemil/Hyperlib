@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 15:39:03"
+lastupdate = "GMT +1: 09.03.2023 15:39:07"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18896,3 +18896,5 @@ addscript(3829055572, "Current Game","The Underground War [Unique HUB V2]", "pul
 addscriptexist(5045567407, "Nations Roleplay [Paint Entire World Instantly]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Nations%20Roleplay%20Paint%20Entire%20World%20Instantly.lua")
 
 addscriptexist(5780309044, "Stands Awakening [Stand Farm - Auto Collect Items & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Stands%20Awakening%20Stand%20Farm%20%20Auto%20Collect%20Items%20%20More.lua")
+
+addscriptexist(6704278765, "Dolo Tonight Concert Experience [Collect All Eyes]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Dolo%20Tonight%20Concert%20Experience%20Collect%20All%20Eyes.lua")
