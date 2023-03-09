@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 14:18:59"
+lastupdate = "GMT +1: 09.03.2023 14:19:07"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -16876,3 +16876,5 @@ addscript(4618049391, "Current Game","T ang County, Hebei [Auto Farm]", "pulled 
 addscriptexist(2039118386, "Neighborhood war [Silent AIM]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Neighborhood%20war%20Silent%20AIM.lua")
 
 addhub("Roblox [Wheel Hub]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Roblox%20Wheel%20Hub.lua")
+
+addscriptexist(2546155523, "RoVille [Auto Restock Business]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RoVille%20Auto%20Restock%20Business.lua")
