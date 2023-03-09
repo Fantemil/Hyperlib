@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 15:05:35"
+lastupdate = "GMT +1: 09.03.2023 15:05:41"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18056,3 +18056,5 @@ addscriptexist(4783966408, "Plates of Fate Remastered [Free Emotes]", "pulled fr
 addscriptexist(5802642341, "City Life [Auto Steal - Auto Fire GUI]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/City%20Life%20Auto%20Steal%20%20Auto%20Fire%20GUI.lua")
 
 addscriptexist(5490351219, "Clicker Madness [Auto Farm GUI]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Clicker%20Madness%20Auto%20Farm%20GUI.lua")
+
+addscript(9557222597, "Current Game","Clarks CICAVERSE [Auto Collect And Complete Event]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Clarks%20CICAVERSE%20Auto%20Collect%20And%20Complete%20Event.lua")
