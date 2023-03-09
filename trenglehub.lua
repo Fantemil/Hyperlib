@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 14:02:16"
+lastupdate = "GMT +1: 09.03.2023 14:02:21"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -16446,3 +16446,5 @@ addscriptexist(2809202155, "Your Bizarre Adventure [God Mode]", "pulled from rbx
 addscriptexist(2753915549, "Blox Fruits [Unlock Abilyti]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blox%20Fruits%20Unlock%20Abilyti.lua")
 
 addscriptexist(863266079, "Apocalypse Rising 2 [Anti Zombie - Teleport]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Apocalypse%20Rising%20%20Anti%20Zombie%20%20Teleport.lua")
+
+addscriptexist(9359379224, "Chaotic Bean Simulator [Auto Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Chaotic%20Bean%20Simulator%20Auto%20Farm.lua")
