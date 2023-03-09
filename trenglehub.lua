@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 13:23:43"
+lastupdate = "GMT +1: 09.03.2023 13:23:49"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -15440,3 +15440,5 @@ addscript(6720959312, "Current Game","LootQuest [BETA] [Anti Afk & Auto Fuse]", 
 addscriptexist(9285238704, "Race Clicker [Auto Race GUI]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Race%20Clicker%20Auto%20Race%20GUI.lua")
 
 addscriptexist(10386774046, "Legend Magician [1 Shot]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Legend%20Magician%20%20Shot.lua")
+
+addscript(8707573053, "Current Game","nowhere [Collect Emply Bottles]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/nowhere%20Collect%20Emply%20Bottles.lua")
