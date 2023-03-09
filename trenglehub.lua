@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 14:15:57"
+lastupdate = "GMT +1: 09.03.2023 14:16:03"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -16798,3 +16798,5 @@ addscriptexist(5766084948, "SCP The Red Lake [Auto Farm]", "pulled from rbxscrip
 addscriptexist(9677464361, "Basketball Pro Simulator [Always Perfect Shot]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Basketball%20Pro%20Simulator%20Always%20Perfect%20Shot.lua")
 
 addscript(632642533, "Current Game","DeadMist 2 Beta [God Mode, Teleport Bypass]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DeadMist%20%20Beta%20God%20Mode%20Teleport%20Bypass.lua")
+
+addscriptexist(180037022, "Sonic Ultimate RPG [Farm Rings]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sonic%20Ultimate%20RPG%20Farm%20Rings.lua")
