@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 15:35:48"
+lastupdate = "GMT +1: 09.03.2023 15:35:55"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18814,3 +18814,5 @@ addscriptexist(8781849572, "Star Simulator Beta [Tool Reach - Open Source]", "pu
 addscriptexist(6403373529, "Slap Battles [Trolling GUI]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Slap%20Battles%20Trolling%20GUI.lua")
 
 addscriptexist(6401440818, "MONOLITH DEFENSE [Unlimited Votes]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MONOLITH%20DEFENSE%20Unlimited%20Votes.lua")
+
+addscriptexist(6847090259, "Bulked Up [Collect All Trophies & Eggs]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Bulked%20Up%20Collect%20All%20Trophies%20%20Eggs.lua")
