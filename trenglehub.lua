@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 15:42:12"
+lastupdate = "GMT +1: 09.03.2023 15:42:16"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18976,3 +18976,5 @@ addscriptexist(155382109, "Survive and Kill the Killers in Area 51 [Get All Weap
 addscript(6381829480, "Current Game","King Legacy [Auto Stats, Auto Farm, Bring All Fruit]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/King%20Legacy%20Auto%20Stats%20Auto%20Farm%20Bring%20All%20Fruit.lua")
 
 addscriptexist(8781849572, "Star Simulator Beta [Inf planks]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Star%20Simulator%20Beta%20Inf%20planks.lua")
+
+addscript(8862273695, "Current Game","Another JToH RPG [Get every item in the game]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Another%20JToH%20RPG%20Get%20every%20item%20in%20the%20game.lua")
