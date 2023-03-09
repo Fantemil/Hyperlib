@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 15:12:40"
+lastupdate = "GMT +1: 09.03.2023 15:12:45"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18232,3 +18232,5 @@ addscriptexist(1224212277, "Mad City [Kill Aura]", "pulled from rbxscript.com", 
 addscriptexist(1224212277, "Mad City [New GUI - Farm & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mad%20City%20New%20GUI%20%20Farm%20%20More.lua")
 
 addscriptexist(4588604953, "Criminality [Gun Mods, Players ESP, More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Criminality%20Gun%20Mods%20Players%20ESP%20More.lua")
+
+addhub("Neon Hub [Supported 8 Games]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Neon%20Hub%20Supported%20%20Games.lua")
