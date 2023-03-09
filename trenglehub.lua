@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 14:20:47"
+lastupdate = "GMT +1: 09.03.2023 14:20:51"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -16920,3 +16920,5 @@ addscriptexist(8596411742, "Barb-Blox Lane [Kill All - Money Farm]", "pulled fro
 addscript(7261261021, "Current Game","Raging Seas [Inf Stamina, Fruit Spawner, Auto Stats]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Raging%20Seas%20Inf%20Stamina%20Fruit%20Spawner%20Auto%20Stats.lua")
 
 addscriptexist(7261261021, "Raging Seas [Lag Server]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Raging%20Seas%20Lag%20Server.lua")
+
+addscript(6644653750, "Current Game","Paper.IO [Semi Auto Win]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PaperIO%20Semi%20Auto%20Win.lua")
