@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 15:51:39"
+lastupdate = "GMT +1: 09.03.2023 15:51:44"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -19212,3 +19212,5 @@ addscriptexist(5023820864, "Trade Tower [Auto Click, Auto Sell, Disable Afk]", "
 addscriptexist(6766156863, "Strongman Simulator [Tp arena]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Strongman%20Simulator%20Tp%20arena.lua")
 
 addscriptexist(8893378293, "GRAMMY Week [Auto Collect grammys]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/GRAMMY%20Week%20Auto%20Collect%20grammys.lua")
+
+addscriptexist(4855457388, "Demonfall [GUI - All Boss Farm, Other Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Demonfall%20GUI%20%20All%20Boss%20Farm%20Other%20Farm.lua")
