@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 13:45:25"
+lastupdate = "GMT +1: 09.03.2023 13:45:30"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -16000,3 +16000,5 @@ addscriptexist(4787629450, "BOOGA BOOGA - Classic [Invisible Armor & Tools]", "p
 addscriptexist(29812337, "Framed! [ESP]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Framed%20ESP.lua")
 
 addscriptexist(2413927524, "The Rake REMASTERED [Rake Esp, FullBirght]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/The%20Rake%20REMASTERED%20Rake%20Esp%20FullBirght.lua")
+
+addscriptexist(4282985734, "Combat Warriors [NoFallDamage, auto farm, infinite stamina]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Combat%20Warriors%20NoFallDamage%20auto%20farm%20infinite%20stamina.lua")
