@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 12:53:20"
+lastupdate = "GMT +1: 09.03.2023 12:53:24"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -15228,3 +15228,5 @@ addscriptexist(621129760, "Knife Ability Test [Silent Aim, Aimbot]", "pulled fro
 addscriptexist(2396588044, "Adopt and Raise [Auto Farm Cash]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Adopt%20and%20Raise%20Auto%20Farm%20Cash.lua")
 
 addscriptexist(10325366821, "OOF Tycoon! [Auto Farm, Auto Deposit]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OOF%20Tycoon%20Auto%20Farm%20Auto%20Deposit.lua")
+
+addscriptexist(10118559731, "Nico's Nextbots [God Mode]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Nicos%20Nextbots%20God%20Mode.lua")
