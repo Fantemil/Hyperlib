@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://raw.githubusercontent.com/fired-away/Lucky-Blocks-Battlegrounds/main/script.lua'))()
