@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 12:59:49"
+lastupdate = "GMT +1: 09.03.2023 12:59:54"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -15386,3 +15386,5 @@ addscriptexist(10351639671, "Anime Legends Simulator [Auto Click, Auto Egg]", "p
 addscriptexist(10106105124, "Wheat Farming Simulator [Auto Farm, Auto Sell]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Wheat%20Farming%20Simulator%20Auto%20Farm%20Auto%20Sell.lua")
 
 addscript(9792312812, "Current Game","Vampire Fighters [Kill All, Inf Stam]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Vampire%20Fighters%20Kill%20All%20Inf%20Stam.lua")
+
+addscriptexist(8737602449, "PLS DONATE [Auto Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PLS%20DONATE%20Auto%20Farm.lua")
