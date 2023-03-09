@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 15:28:29"
+lastupdate = "GMT +1: 09.03.2023 15:28:34"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18630,3 +18630,5 @@ addscript(8677679014, "Current Game","Spirit Defenders [Multiplier Stats & Spiri
 addscriptexist(2569453732, "Rise of Nations [GUI – Auto Trade – Auto Develop Cities]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Rise%20of%20Nations%20GUI%20%20Auto%20Trade%20%20Auto%20Develop%20Cities.lua")
 
 addscriptexist(7075737729, "Hoop Central 6 [Auto Time - Open Source]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Hoop%20Central%20%20Auto%20Time%20%20Open%20Source.lua")
+
+addscript(6793421427, "Current Game","get a snack at 5am [Get All Tools]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/get%20a%20snack%20at%20am%20Get%20All%20Tools.lua")
