@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 15:47:37"
+lastupdate = "GMT +1: 09.03.2023 15:47:41"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -19112,3 +19112,5 @@ addscriptexist(8396586868, "A One Piece Game [Auto Farm GUI - Fruit Hopper & Mor
 addscriptexist(8448735476, "Anime Rifts [GUI - Auto Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime%20Rifts%20GUI%20%20Auto%20Farm.lua")
 
 addscriptexist(4588604953, "Criminality [Esp GUI New]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Criminality%20Esp%20GUI%20New.lua")
+
+addscriptexist(8308074824, "Meme Piece [Infinite Skill Points]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Meme%20Piece%20Infinite%20Skill%20Points.lua")
