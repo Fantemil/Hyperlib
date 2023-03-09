@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 14:48:23"
+lastupdate = "GMT +1: 09.03.2023 14:48:27"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -17624,3 +17624,5 @@ addscriptexist(8260276694, "Ability Wars [Anti Knockback, Attack Aura ,Walk spee
 addscriptexist(292439477, "Phantom Forces [ Aimbot, ESP, Word visuals ]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Phantom%20Forces%20%20Aimbot%20ESP%20Word%20visuals%20.lua")
 
 addhub("Vinux Universal Hub [INF TOKENS, FE GALE, ART GRABBER]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Vinux%20Universal%20Hub%20INF%20TOKENS%20FE%20GALE%20ART%20GRABBER.lua")
+
+addscript(6028157264, "Current Game","My Hospital [INf Money]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/My%20Hospital%20INf%20Money.lua")
