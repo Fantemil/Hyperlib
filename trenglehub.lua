@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 14:56:49"
+lastupdate = "GMT +1: 09.03.2023 14:56:53"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -17842,3 +17842,5 @@ addscriptexist(4787629450, "BOOGA BOOGA [GUI - Kill Aura, Auto Heal & More!]", "
 addscriptexist(6969185078, "Elemental Awakening [GUI - Auto Level - TP To Location]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Elemental%20Awakening%20GUI%20%20Auto%20Level%20%20TP%20To%20Location.lua")
 
 addscriptexist(9573746878, "Bleach - Senko [Shinigami]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Bleach%20%20Senko%20Shinigami.lua")
+
+addscriptexist(5987922834, "Transfur Outbreak! [Auto Grab]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Transfur%20Outbreak%20Auto%20Grab.lua")
