@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 14:30:41"
+lastupdate = "GMT +1: 09.03.2023 14:30:45"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -17172,3 +17172,5 @@ addscriptexist(9726345231, "Duolingo Game Hub [Free Items]", "pulled from rbxscr
 addscriptexist(9772878203, "raise a floppa 2 [Auto Collect Money, Auto Collect Rent, Auto Raise Rent]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/raise%20a%20floppa%20%20Auto%20Collect%20Money%20Auto%20Collect%20Rent%20Auto%20Raise%20Rent.lua")
 
 addhub("Lazy Hub [9 Games]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Lazy%20Hub%20%20Games.lua")
+
+addscriptexist(6915291292, "Bakery Simulator [GUI - Collect Baked Goods, Shelf Items]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Bakery%20Simulator%20GUI%20%20Collect%20Baked%20Goods%20Shelf%20Items.lua")
