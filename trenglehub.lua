@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 16:03:18"
+lastupdate = "GMT +1: 09.03.2023 16:03:22"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -19494,3 +19494,5 @@ addscriptexist(8357510970, "Anime Punching Simulator [Auto Click, Auto Best hero
 addscriptexist(4195834406, "Dragon Ball Online Generations [Player Kill Aura, Server Hop, Teleport To Bosses]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Dragon%20Ball%20Online%20Generations%20Player%20Kill%20Aura%20Server%20Hop%20Teleport%20To%20Bosses.lua")
 
 addscriptexist(6494523288, "Blade Quest [Auto farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blade%20Quest%20Auto%20farm.lua")
+
+addscriptexist(8917641854, "Sword Factory [Auto Sword saver, Auto enchant, Auto Pick Up]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sword%20Factory%20Auto%20Sword%20saver%20Auto%20enchant%20Auto%20Pick%20Up.lua")
