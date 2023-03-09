@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 14:53:42"
+lastupdate = "GMT +1: 09.03.2023 14:53:50"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -17760,3 +17760,5 @@ addscriptexist(7830918930, "Gucci Town [Auto Farm, - Auto Collect Gems & More!]"
 addscriptexist(2619187362, "Super Power Fighting Simulator [GUI - Auto Train, Auto Quest & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Super%20Power%20Fighting%20Simulator%20GUI%20%20Auto%20Train%20Auto%20Quest%20%20More.lua")
 
 addscriptexist(8540346411, "Rebirth Champions X [GUI - Auto Farm, Auto Rebirth & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Rebirth%20Champions%20X%20GUI%20%20Auto%20Farm%20Auto%20Rebirth%20%20More.lua")
+
+addscriptexist(45146873, "Tower Battles [Inf Money]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tower%20Battles%20Inf%20Money.lua")
