@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 15:33:56"
+lastupdate = "GMT +1: 09.03.2023 15:34:00"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18766,3 +18766,5 @@ addscriptexist(35397735, "Scuba Diving at Quill Lake [Auto Farm GUI]", "pulled f
 addscriptexist(8540168650, "Stand Upright Rebooted [Item Grabber]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Stand%20Upright%20Rebooted%20Item%20Grabber.lua")
 
 addscriptexist(5787425661, "A Lucky Day [Destroy Game]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/A%20Lucky%20Day%20Destroy%20Game.lua")
+
+addscriptexist(1224212277, "Mad City [Full Invisible]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mad%20City%20Full%20Invisible.lua")
