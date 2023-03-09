@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 15:27:39"
+lastupdate = "GMT +1: 09.03.2023 15:27:45"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18610,3 +18610,5 @@ addscript(9230434873, "Current Game","Logitech Song Breaker Awards [Collect All 
 addscriptexist(9230434873, "Logitech Song Breaker Awards [Get Items]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Logitech%20Song%20Breaker%20Awards%20Get%20Items.lua")
 
 addscriptexist(5712833750, "Animal Simulator [Free Radio]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Animal%20Simulator%20Free%20Radio.lua")
+
+addscriptexist(7167319176, "Chicago Remastered [Auto Farm GUI]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Chicago%20Remastered%20Auto%20Farm%20GUI.lua")
