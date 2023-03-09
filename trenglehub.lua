@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 15:40:48"
+lastupdate = "GMT +1: 09.03.2023 15:40:54"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18942,3 +18942,5 @@ addscriptexist(8492553855, "Project Upright [Dungeon GUI]", "pulled from rbxscri
 addhub("Simpler - HUB [Supported All Games]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Simpler%20%20HUB%20Supported%20All%20Games.lua")
 
 addscriptexist(8549047195, "Anime Warriors Simulator [Teleport To The Final World]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime%20Warriors%20Simulator%20Teleport%20To%20The%20Final%20World.lua")
+
+addscriptexist(654732683, "Car Crushers 2 CORE CONTROL GUI V2", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Car%20Crushers%20%20CORE%20CONTROL%20GUI%20V.lua")
