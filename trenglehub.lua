@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 15:29:57"
+lastupdate = "GMT +1: 09.03.2023 15:30:02"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18668,3 +18668,5 @@ addscriptexist(8492553855, "Project Upright [Invisible]", "pulled from rbxscript
 addscriptexist(1458767429, "ABA [Itadori Auto Block Flash]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ABA%20Itadori%20Auto%20Block%20Flash.lua")
 
 addscriptexist(1458767429, "ABA [NEX HUB – Auto Play In Arena – Auto Target Players]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ABA%20NEX%20HUB%20%20Auto%20Play%20In%20Arena%20%20Auto%20Target%20Players.lua")
+
+addscriptexist(4588604953, "Criminality [Wallbang]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Criminality%20Wallbang.lua")
