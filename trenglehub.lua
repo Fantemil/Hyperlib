@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 14:38:07"
+lastupdate = "GMT +1: 09.03.2023 14:38:11"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -17366,3 +17366,5 @@ addscriptexist(8737602449, "PLS DONATE [ESP]", "pulled from rbxscript.com", "htt
 addscriptexist(1224212277, "Mad City [Crazy AutoRob, Server Crasher, Teleports]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mad%20City%20Crazy%20AutoRob%20Server%20Crasher%20Teleports.lua")
 
 addscriptexist(606849621, "Jailbreak [Auto Farm, Teleport, Inf Donut]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Jailbreak%20Auto%20Farm%20Teleport%20Inf%20Donut.lua")
+
+addscriptexist(7056922815, "Reaper 2 [Select Quest, Auto Farm Selected NPC, Auto Selected Quest]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Reaper%20%20Select%20Quest%20Auto%20Farm%20Selected%20NPC%20Auto%20Selected%20Quest.lua")
