@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 15:21:19"
+lastupdate = "GMT +1: 09.03.2023 15:21:24"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18452,3 +18452,5 @@ addscriptexist(3956818381, "Ninja legends [Auto Swing, Auto sell on best locatio
 addscriptexist(4616652839, "Shindo Life [Infinite Spins & Get Any Bloodline]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Shindo%20Life%20Infinite%20Spins%20%20Get%20Any%20Bloodline.lua")
 
 addscriptexist(1224212277, "Mad City [Auto Xp - Easy Level 100]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mad%20City%20Auto%20Xp%20%20Easy%20Level%20.lua")
+
+addscriptexist(9136292138, "Grand Pirates [Mob Farm, Auto Quest, Farm Chests]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Grand%20Pirates%20Mob%20Farm%20Auto%20Quest%20Farm%20Chests.lua")
