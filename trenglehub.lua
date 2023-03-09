@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 15:06:36"
+lastupdate = "GMT +1: 09.03.2023 15:06:40"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18080,3 +18080,5 @@ addscriptexist(9344944754, "Hunter x Athena [Auto Farm GUI New]", "pulled from r
 addscript(4585085581, "Current Game","Shinobi Storm [Unlock All Charecters]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Shinobi%20Storm%20Unlock%20All%20Charecters.lua")
 
 addhub("Shiny Tool HUB [Supported 10+ Games]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Shiny%20Tool%20HUB%20Supported%20%20Games.lua")
+
+addscript(9522402646, "Current Game","Setsu Omega [Infinite Cash - Infinite Fame]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Setsu%20Omega%20Infinite%20Cash%20%20Infinite%20Fame.lua")
