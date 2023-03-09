@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 15:34:37"
+lastupdate = "GMT +1: 09.03.2023 15:34:41"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18784,3 +18784,5 @@ addscript(7186363515, "Current Game","A Legacy Time [Kill Aura]", "pulled from r
 addscriptexist(9300407930, "Bot Clash [Get 4 Million Coins For Free]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Bot%20Clash%20Get%20%20Million%20Coins%20For%20Free.lua")
 
 addscriptexist(1224212277, "Mad City [Diamond HUB Auto Rob]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mad%20City%20Diamond%20HUB%20Auto%20Rob.lua")
+
+addscriptexist(9123917180, "Teleporter Simulator [GUI - Auto Orbs - Auto Buy & Kill All + More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Teleporter%20Simulator%20GUI%20%20Auto%20Orbs%20%20Auto%20Buy%20%20Kill%20All%20%20More.lua")
