@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 15:04:28"
+lastupdate = "GMT +1: 09.03.2023 15:04:35"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18030,3 +18030,5 @@ addscriptexist(9167501050, "Lightsaber Arena [Grab All Sabers]", "pulled from rb
 addscriptexist(8826041180, "Hero Simulator [Full Auto Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Hero%20Simulator%20Full%20Auto%20Farm.lua")
 
 addscriptexist(142823291, "Murder Mystery 2 [ESP, Fake Knife, Xbox Knife]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Murder%20Mystery%20%20ESP%20Fake%20Knife%20Xbox%20Knife.lua")
+
+addscriptexist(8438695556, "Luck Simulator [Auto Basic Upgrades & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Luck%20Simulator%20Auto%20Basic%20Upgrades%20%20More.lua")
