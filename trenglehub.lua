@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 12:54:08"
+lastupdate = "GMT +1: 09.03.2023 12:54:12"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -15250,3 +15250,5 @@ addscriptexist(9666226803, "Motel Simulator [Auto Farm, Walkspeed]", "pulled fro
 addscriptexist(8818978508, "Space Simulator Reborn [Auto Sell, Auto Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Space%20Simulator%20Reborn%20Auto%20Sell%20Auto%20Farm.lua")
 
 addscriptexist(8657766101, "Marvellous Playground [Gamepass]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Marvellous%20Playground%20Gamepass.lua")
+
+addscriptexist(3956818381, "Ninja Legends [Auto Swing, Auto Sell]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ninja%20Legends%20Auto%20Swing%20Auto%20Sell.lua")
