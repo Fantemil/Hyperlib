@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 14:01:21"
+lastupdate = "GMT +1: 09.03.2023 14:01:25"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -16420,3 +16420,5 @@ addscript(198116126, "Current Game","Tradelands [Auto Farm & More!]", "pulled fr
 addscriptexist(5104202731, "Southwest Florida Beta [Job Anti Afk]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Southwest%20Florida%20Beta%20Job%20Anti%20Afk.lua")
 
 addscript(1858299821, "Current Game","Robloxica [Money Dupe]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Robloxica%20Money%20Dupe.lua")
+
+addscriptexist(8540168650, "Stand Upright Rebooted [GUI - Sort Tools, Items Farm & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Stand%20Upright%20Rebooted%20GUI%20%20Sort%20Tools%20Items%20Farm%20%20More.lua")
