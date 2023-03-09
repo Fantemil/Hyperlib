@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 15:19:09"
+lastupdate = "GMT +1: 09.03.2023 15:19:13"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18400,3 +18400,5 @@ addscriptexist(8540168650, "Stand Upright Rebooted [Sort Tools, Items Farm, Auto
 addscriptexist(9344944754, "Hunter x Omen [Auto Speed Training]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Hunter%20x%20Omen%20Auto%20Speed%20Training.lua")
 
 addscriptexist(9344944754, "Hunter x Omen [Autospeed]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Hunter%20x%20Omen%20Autospeed.lua")
+
+addscriptexist(2248408710, "Destruction Simulator [Inf Money]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Destruction%20Simulator%20Inf%20Money.lua")
