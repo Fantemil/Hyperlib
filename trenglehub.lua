@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 13:42:39"
+lastupdate = "GMT +1: 09.03.2023 13:42:43"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -15926,3 +15926,5 @@ addhub("Roblox [Casty Hub]", "pulled from rbxscript.com", "https://raw.githubuse
 addscriptexist(2629642516, "Bitcoin Miner [Anti Card Lag]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Bitcoin%20Miner%20Anti%20Card%20Lag.lua")
 
 addscriptexist(5571328985, "Bloodlines [Auto Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Bloodlines%20Auto%20Farm.lua")
+
+addscriptexist(3686253681, "Planet Simulator [Change Planet Mass]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Planet%20Simulator%20Change%20Planet%20Mass.lua")
