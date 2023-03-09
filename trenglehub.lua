@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 15:39:43"
+lastupdate = "GMT +1: 09.03.2023 15:39:48"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18914,3 +18914,5 @@ addscriptexist(9049840490, "Sonic Speed Simulator [Auto Step Collect All - Rebir
 addscriptexist(662417684, "LUCKY BLOCKS Battlegrounds [Lucky Block, click tp, infite jump]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LUCKY%20BLOCKS%20Battlegrounds%20Lucky%20Block%20click%20tp%20infite%20jump.lua")
 
 addscriptexist(9049840490, "Sonic Speed Simulator [Get 15K Coins Every 6 Hours]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sonic%20Speed%20Simulator%20Get%20K%20Coins%20Every%20%20Hours.lua")
+
+addscriptexist(6878438976, "Developer Inc. [10K Cash In 30 Seconds]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Developer%20Inc%20K%20Cash%20In%20%20Seconds.lua")
