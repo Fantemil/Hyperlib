@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 15:11:59"
+lastupdate = "GMT +1: 09.03.2023 15:12:04"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18216,3 +18216,5 @@ addscriptexist(8571871474, "Gun Fighting Tycoon [Kill All - Auto Collect - More!
 addscriptexist(4588604953, "Criminality [Auto Lockpick]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Criminality%20Auto%20Lockpick.lua")
 
 addscriptexist(4588604953, "Criminality [Hitbox Extender]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Criminality%20Hitbox%20Extender.lua")
+
+addscriptexist(9426082120, "Samsung Superstar Galaxy [Auto Farm, Claim Rewards & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Samsung%20Superstar%20Galaxy%20Auto%20Farm%20Claim%20Rewards%20%20More.lua")
