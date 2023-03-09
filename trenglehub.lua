@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 15:45:02"
+lastupdate = "GMT +1: 09.03.2023 15:45:07"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -19048,3 +19048,5 @@ addscriptexist(6778844213, "Euphoria ragdoll testing [Coin Farm]", "pulled from 
 addscript(1348945266, "Current Game","Ro-Boxing [Farming GUI - Open Sourse]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RoBoxing%20Farming%20GUI%20%20Open%20Sourse.lua")
 
 addscriptexist(30869879, "Stop It, Slender [God Mode]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Stop%20It%20Slender%20God%20Mode.lua")
+
+addscriptexist(8317588085, "Block Tycoon [Build Wheat Tower]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Block%20Tycoon%20Build%20Wheat%20Tower.lua")
