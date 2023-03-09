@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/AlterRainbow/Old-Scripts/main/Untitled%20Attack%20On%20Titan.lua"))()
