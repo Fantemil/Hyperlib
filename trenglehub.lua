@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 16:02:47"
+lastupdate = "GMT +1: 09.03.2023 16:02:52"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -19482,3 +19482,5 @@ addscriptexist(292439477, "Phantom Forces [Snipe Head]", "pulled from rbxscript.
 addscriptexist(6125809531, "Untitled Attack On Titan [Auto FArm, Kill Aura Inf Gas]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Untitled%20Attack%20On%20Titan%20Auto%20FArm%20Kill%20Aura%20Inf%20Gas.lua")
 
 addscriptexist(6284583030, "Pet Simulator X [Auto-Enchant]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pet%20Simulator%20X%20AutoEnchant.lua")
+
+addscriptexist(8110180444, "Strong Pet Simulator [Auto Carry, Auto egg, Instant Train]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Strong%20Pet%20Simulator%20Auto%20Carry%20Auto%20egg%20Instant%20Train.lua")
