@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 15:49:06"
+lastupdate = "GMT +1: 09.03.2023 15:49:11"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -19148,3 +19148,5 @@ addscriptexist(5116869569, "Doodle World [Generates GUID's]", "pulled from rbxsc
 addscriptexist(5116869569, "Doodle World [Heal Your Team]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Doodle%20World%20Heal%20Your%20Team.lua")
 
 addscriptexist(2693023319, "Expedition Antarctica [Get 500B Coins]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Expedition%20Antarctica%20Get%20B%20Coins.lua")
+
+addscriptexist(7993293100, "Tsunami Game [Auto Win - Farm Deaths & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tsunami%20Game%20Auto%20Win%20%20Farm%20Deaths%20%20More.lua")
