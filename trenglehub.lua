@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 16:00:25"
+lastupdate = "GMT +1: 09.03.2023 16:00:31"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -19426,3 +19426,5 @@ addscriptexist(7419509075, "cart ride around used car battery [Spawn Carts & Mor
 addscript(8639059522, "Current Game","Magnifying Simulator [Damage Multiplier]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Magnifying%20Simulator%20Damage%20Multiplier.lua")
 
 addscriptexist(1224212277, "Mad City [Infinite Xp - Get To Level 100 In 2 Hours]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mad%20City%20Infinite%20Xp%20%20Get%20To%20Level%20%20In%20%20Hours.lua")
+
+addscriptexist(1240644540, "Vampire Hunters 3 [DNA Test Everyone]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Vampire%20Hunters%20%20DNA%20Test%20Everyone.lua")
