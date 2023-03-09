@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 15:30:30"
+lastupdate = "GMT +1: 09.03.2023 15:30:35"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18682,3 +18682,5 @@ addscript(6783611814, "Current Game","Build a Boat to Survive! [GUI - Auto-Farm]
 addscriptexist(6938803436, "Anime Dimensions Simulator [GUI - Auto Lvl, Auto Farm & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime%20Dimensions%20Simulator%20GUI%20%20Auto%20Lvl%20Auto%20Farm%20%20More.lua")
 
 addscriptexist(2629642516, "Bitcoin Miner [Auto Farm GUI & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Bitcoin%20Miner%20Auto%20Farm%20GUI%20%20More.lua")
+
+addscriptexist(70005410, "Blox Hunt [Token Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blox%20Hunt%20Token%20Farm.lua")
