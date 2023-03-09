@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 15:21:36"
+lastupdate = "GMT +1: 09.03.2023 15:21:41"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18460,3 +18460,5 @@ addscriptexist(8209480473, "Spotify Island [Level Farm]", "pulled from rbxscript
 addscriptexist(8209480473, "Spotify Island [Heart Farm Serverhop]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Spotify%20Island%20Heart%20Farm%20Serverhop.lua")
 
 addscriptexist(8209480473, "Spotify Island [Auto Collect All Coins]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Spotify%20Island%20Auto%20Collect%20All%20Coins.lua")
+
+addscriptexist(9103460924, "Sword Factory X [Max All Upgrades For Free]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sword%20Factory%20X%20Max%20All%20Upgrades%20For%20Free.lua")
