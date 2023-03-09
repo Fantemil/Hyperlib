@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 13:43:54"
+lastupdate = "GMT +1: 09.03.2023 13:43:58"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -15960,3 +15960,5 @@ addscriptexist(9167501050, "Lightsaber Arena [Kill Aura - Auto Block & Infinite 
 addscriptexist(596894229, "Elemental Adventure [Level Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Elemental%20Adventure%20Level%20Farm.lua")
 
 addscriptexist(5130598377, "A Universal Time [Meteor Farm - Chest Farm - More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/A%20Universal%20Time%20Meteor%20Farm%20%20Chest%20Farm%20%20More.lua")
+
+addscriptexist(5956785391, "Project Slayers [ESP For Everything]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Project%20Slayers%20ESP%20For%20Everything.lua")
