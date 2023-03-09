@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 16:01:29"
+lastupdate = "GMT +1: 09.03.2023 16:01:33"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -19450,3 +19450,5 @@ addscriptexist(8811271345, "Balanced Craftwars Overhaul [GUI - Mob Farm, Ore Far
 addscriptexist(6677985923, "Millionaire Empire Tycoon [Inf Cash]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Millionaire%20Empire%20Tycoon%20Inf%20Cash.lua")
 
 addscriptexist(8917641854, "Sword Factory [Auto make SwordS, Auto kill, Hide name]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sword%20Factory%20Auto%20make%20SwordS%20Auto%20kill%20Hide%20name.lua")
+
+addscript(7114303730, "Current Game","Dragon Orbz [Auto FArm, Auto Quest, Auto Points]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Dragon%20Orbz%20Auto%20FArm%20Auto%20Quest%20Auto%20Points.lua")
