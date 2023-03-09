@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 14:51:53"
+lastupdate = "GMT +1: 09.03.2023 14:51:58"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -17716,3 +17716,5 @@ addscriptexist(2809202155, "Your Bizarre Adventure [Fly Bypass]", "pulled from r
 addscript(8982709021, "Current Game","YouTube Life [Update Auto Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/YouTube%20Life%20Update%20Auto%20Farm.lua")
 
 addscriptexist(4855457388, "Demonfall [Auto Farm Mobs,Ore And More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Demonfall%20Auto%20Farm%20MobsOre%20And%20More.lua")
+
+addscriptexist(5154858502, "Murderers vs Sheriffs [Insta Kill]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Murderers%20vs%20Sheriffs%20Insta%20Kill.lua")
