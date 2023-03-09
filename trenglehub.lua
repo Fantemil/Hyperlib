@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 15:48:36"
+lastupdate = "GMT +1: 09.03.2023 15:48:40"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -19136,3 +19136,5 @@ addscriptexist(155615604, "Prison Life [GUI - Gun Mod, Gun Giver]", "pulled from
 addscriptexist(2512643572, "Bubble Gum Simulator [GUI - Auto Farm, Auto Buy]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Bubble%20Gum%20Simulator%20GUI%20%20Auto%20Farm%20Auto%20Buy.lua")
 
 addscriptexist(5116869569, "Doodle World [Grab All Chests]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Doodle%20World%20Grab%20All%20Chests.lua")
+
+addscript(4456880028, "Current Game","Ro Crash [Admin Panel]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ro%20Crash%20Admin%20Panel.lua")
