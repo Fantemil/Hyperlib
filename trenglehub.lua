@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 14:29:32"
+lastupdate = "GMT +1: 09.03.2023 14:29:36"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -17144,3 +17144,5 @@ addscriptexist(1962086868, "Tower Of Hell [AutoWin, GodMode, SpeedHack]", "pulle
 addscriptexist(5910449407, "Project Menacing [Stand Farm - God Mode & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Project%20Menacing%20Stand%20Farm%20%20God%20Mode%20%20More.lua")
 
 addscriptexist(443406476, "Project Lazarus ZOMBIES [Silent Aim - Gun Mods]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Project%20Lazarus%20ZOMBIES%20Silent%20Aim%20%20Gun%20Mods.lua")
+
+addscriptexist(301549746, "Counter Blox [God Mode Crash Server]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Counter%20Blox%20God%20Mode%20Crash%20Server.lua")
