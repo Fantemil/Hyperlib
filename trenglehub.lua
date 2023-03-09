@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 12:14:36"
+lastupdate = "GMT +1: 09.03.2023 12:26:51"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -15129,3 +15129,4 @@ addscriptexist(11523066819, "Best Op Script For Tower Merge Simulator!", "pulled
 addscriptexist(6708206173, "Trivia Script - RATE MY AVATAR", "pulled from rscripts", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Trivia%20Script%20%20RATE%20MY%20AVATAR.lua")
 addscriptuniversal("Collision Enabler Script", "pulled from rscripts", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Collision%20Enabler%20Script.lua")
 addscriptexist(4581966615, "Anomic Infinite Yield", "pulled from rscripts", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anomic%20Infinite%20Yield.lua")
+addscriptexist(5783581, "TPS: Ultimate Soccer [Inf Stamina, Auto goal, Shoot fast]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TPS%20Ultimate%20Soccer%20Inf%20Stamina%20Auto%20goal%20Shoot%20fast.lua")
