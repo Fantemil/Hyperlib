@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 14:29:12"
+lastupdate = "GMT +1: 09.03.2023 14:29:15"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -17136,3 +17136,5 @@ addscript(9966192771, "Current Game","Adventure Simulator [Reveal whats behind r
 addscriptexist(8884433153, "Collect All Pets [GUI - Auto Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Collect%20All%20Pets%20GUI%20%20Auto%20Farm.lua")
 
 addscriptexist(1554960397, "Car Dealership Tycoon [AutoFarm, Infinity Speed, Walk on water]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Car%20Dealership%20Tycoon%20AutoFarm%20Infinity%20Speed%20Walk%20on%20water.lua")
+
+addscriptexist(7056922815, "Rapeer 2 [AutoFarm, Auto Quest, Auto Equip]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Rapeer%20%20AutoFarm%20Auto%20Quest%20Auto%20Equip.lua")
