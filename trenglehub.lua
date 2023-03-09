@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 14:56:11"
+lastupdate = "GMT +1: 09.03.2023 14:56:16"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -17826,3 +17826,5 @@ addscriptexist(189707, "Natural Disaster Survival [Part Flinger]", "pulled from 
 addscriptexist(7167319176, "Chicago Remastered [GUI - ESP, No Recoil & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Chicago%20Remastered%20GUI%20%20ESP%20No%20Recoil%20%20More.lua")
 
 addscript(9107946567, "Current Game","Warriors Army Simulator [GUI - Auto Farm, Auto Revice & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Warriors%20Army%20Simulator%20GUI%20%20Auto%20Farm%20Auto%20Revice%20%20More.lua")
+
+addscriptexist(6769764667, "Factory Simulator [GUI - Auto Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Factory%20Simulator%20GUI%20%20Auto%20Farm.lua")
