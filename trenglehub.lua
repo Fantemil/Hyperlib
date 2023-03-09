@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 15:32:18"
+lastupdate = "GMT +1: 09.03.2023 15:32:22"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18726,3 +18726,5 @@ addscriptexist(9049840490, "Sonic Speed Simulator [15k money]", "pulled from rbx
 addscriptexist(2693739238, "THIEF LIFE Simulator [Get best loot]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/THIEF%20LIFE%20Simulator%20Get%20best%20loot.lua")
 
 addscriptexist(6778844213, "Euphoria ragdoll testing [Ragdoll all]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Euphoria%20ragdoll%20testing%20Ragdoll%20all.lua")
+
+addscriptexist(3025990139, "Unboxing Simulator [Auto Farm - Auto Quest]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Unboxing%20Simulator%20Auto%20Farm%20%20Auto%20Quest.lua")
