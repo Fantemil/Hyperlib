@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 15:03:14"
+lastupdate = "GMT +1: 09.03.2023 15:03:20"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18000,3 +18000,5 @@ addscriptexist(4855457388, "Demonfall [Tp Player]", "pulled from rbxscript.com",
 addscriptexist(5154858502, "Murderers vs. Sheriffs [Kill All]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Murderers%20vs%20Sheriffs%20Kill%20All.lua")
 
 addscriptexist(9049840490, "Sonic Speed Simulator [ServerHop]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sonic%20Speed%20Simulator%20ServerHop.lua")
+
+addscriptexist(9103460924, "Sword Factory X [Auto Spawn, Auto Upgrade, Auto Upgrade Multiplier]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sword%20Factory%20X%20Auto%20Spawn%20Auto%20Upgrade%20Auto%20Upgrade%20Multiplier.lua")
