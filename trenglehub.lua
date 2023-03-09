@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 14:35:05"
+lastupdate = "GMT +1: 09.03.2023 14:35:09"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -17288,3 +17288,5 @@ addscript(574407221, "Current Game","Super Hero Tycoon [Crate Farm, Auto Cash, A
 addscriptexist(4522347649, "Free Admin [Unlock Gamepass]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Free%20Admin%20Unlock%20Gamepass.lua")
 
 addscriptexist(8069117419, "Demon Soul Simulator [AutoFarm, Teleports, AutoChest]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Demon%20Soul%20Simulator%20AutoFarm%20Teleports%20AutoChest.lua")
+
+addscriptexist(1962086868, "Tower of Hell [Auto Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tower%20of%20Hell%20Auto%20Farm.lua")
