@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 15:49:45"
+lastupdate = "GMT +1: 09.03.2023 15:49:50"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -19166,3 +19166,5 @@ addscriptexist(621129760, "K.A.T. II [Radio Bypass]", "pulled from rbxscript.com
 addscriptexist(1458767429, "ABA [Ranked Coins Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ABA%20Ranked%20Coins%20Farm.lua")
 
 addscriptexist(2693023319, "Find The Bacons [Collect All The Bacons In The Server]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Find%20The%20Bacons%20Collect%20All%20The%20Bacons%20In%20The%20Server.lua")
+
+addscriptexist(6284583030, "Pet Simulator X [Mastery Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pet%20Simulator%20X%20Mastery%20Farm.lua")
