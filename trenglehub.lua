@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 12:00:49"
+lastupdate = "GMT +1: 09.03.2023 12:01:01"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -15088,3 +15088,5 @@ addscriptexist(9992339729, "Longest Answer Wins: Anti Afk, Auto Answer & More", 
 addscriptexist(2653064683, "Word Bomb: Auto Win, Auto Join, Anti Afk", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Word%20Bomb%20Auto%20Win%20Auto%20Join%20Anti%20Afk.lua")
 
 addscript(2538668125, "Current Game","[SCP]: Facility Lockdown: Item Stealer", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SCP%20Facility%20Lockdown%20Item%20Stealer.lua")
+
+addscriptuniversal("Universal: Noclip, Fly, BTools", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Noclip%20Fly%20BTools.lua")
