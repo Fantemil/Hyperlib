@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 15:42:22"
+lastupdate = "GMT +1: 09.03.2023 15:42:26"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18980,3 +18980,5 @@ addscriptexist(8781849572, "Star Simulator Beta [Inf planks]", "pulled from rbxs
 addscript(8862273695, "Current Game","Another JToH RPG [Get every item in the game]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Another%20JToH%20RPG%20Get%20every%20item%20in%20the%20game.lua")
 
 addscript(8073154099, "Current Game","The Intruder [Intruder detection]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/The%20Intruder%20Intruder%20detection.lua")
+
+addscriptexist(6168898345, "Bulwark [Auto parry, Kill aura, Inf Stamina]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Bulwark%20Auto%20parry%20Kill%20aura%20Inf%20Stamina.lua")
