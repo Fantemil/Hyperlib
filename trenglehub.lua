@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 15:48:01"
+lastupdate = "GMT +1: 09.03.2023 15:48:06"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -19122,3 +19122,5 @@ addscript(5033328743, "Current Game","The Scorch [Infinite Health]", "pulled fro
 addscriptexist(4588604953, "Criminality [Teleport Bypass]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Criminality%20Teleport%20Bypass.lua")
 
 addscriptexist(8737602449, "PLS DONATE [Music GUI, Dances, Package Animations]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PLS%20DONATE%20Music%20GUI%20Dances%20Package%20Animations.lua")
+
+addscriptexist(662417684, "LUCKY BLOCKS Battlegrounds [Players, Get all gears, Lucky Blocks]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LUCKY%20BLOCKS%20Battlegrounds%20Players%20Get%20all%20gears%20Lucky%20Blocks.lua")
