@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://raw.githubusercontent.com/weiny-ez/Weinz-Cheat-For-Sonic/main/weinz_sonic.lua'))()
