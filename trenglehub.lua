@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 15:25:54"
+lastupdate = "GMT +1: 09.03.2023 15:25:58"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18566,3 +18566,5 @@ addscript(8713127334, "Current Game","Redbox 2 [Kill All]", "pulled from rbxscri
 addscriptexist(8874040270, "SKYWARS PRO 2 [Auto Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SKYWARS%20PRO%20%20Auto%20Farm.lua")
 
 addscriptexist(255236425, "Traitor Town [No fall Damage]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Traitor%20Town%20No%20fall%20Damage.lua")
+
+addscriptexist(7797478022, "Broken Bones Simulator [Auto Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Broken%20Bones%20Simulator%20Auto%20Farm.lua")
