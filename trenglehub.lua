@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 15:31:05"
+lastupdate = "GMT +1: 09.03.2023 15:31:12"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18698,3 +18698,5 @@ addscript(7236421113, "Current Game","Downhill Rush [Instant 10K Cash]", "pulled
 addscriptexist(5610197459, "gang up on people simulator [ATM]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/gang%20up%20on%20people%20simulator%20ATM.lua")
 
 addscript(6401440818, "Current Game","MONOLlTH DEFENSE [Use Any Towers]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MONOLlTH%20DEFENSE%20Use%20Any%20Towers.lua")
+
+addscriptexist(6442957604, "Custom PC Tycoon [Collect all eggs]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Custom%20PC%20Tycoon%20Collect%20all%20eggs.lua")
