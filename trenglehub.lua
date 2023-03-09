@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 15:44:09"
+lastupdate = "GMT +1: 09.03.2023 15:44:14"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -19026,3 +19026,5 @@ addscriptexist(2768379856, "3008 [2.7] [Simple ESP]", "pulled from rbxscript.com
 addscriptexist(8862273695, "Another JToH RPG [Auto Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Another%20JToH%20RPG%20Auto%20Farm.lua")
 
 addscriptexist(2534724415, "Emergency Response Liberty County [Infinite Stamina]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Emergency%20Response%20Liberty%20County%20Infinite%20Stamina.lua")
+
+addscriptexist(8044403176, "Vehicle Champions [Auto Farm GUI]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Vehicle%20Champions%20Auto%20Farm%20GUI.lua")
