@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 15:24:15"
+lastupdate = "GMT +1: 09.03.2023 15:24:19"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18522,3 +18522,5 @@ addscript(3501626887, "Current Game","Diceboy [Bring dicecoins]", "pulled from r
 addscriptexist(8549047195, "Anime Warriors Simulator [Tp final world]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime%20Warriors%20Simulator%20Tp%20final%20world.lua")
 
 addscriptexist(6772424226, "2 Player Millionaire Tycoon [Auto Buy & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/%20Player%20Millionaire%20Tycoon%20Auto%20Buy%20%20More.lua")
+
+addscriptexist(4566572536, "Vehicle Legends [Race Auto Farm Free]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Vehicle%20Legends%20Race%20Auto%20Farm%20Free.lua")
