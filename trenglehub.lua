@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 13:46:47"
+lastupdate = "GMT +1: 09.03.2023 13:46:52"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -16036,3 +16036,5 @@ addscriptexist(9377039667, "Roblox Innovation Awards Voting Hub [Teleport to sec
 addscriptexist(5956785391, "Project Slayers [Speedhack]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Project%20Slayers%20Speedhack.lua")
 
 addscript(10041417653, "Current Game","Turbo's Murder Mystery [Esp, AutoUnBox, Sped Hack]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Turbos%20Murder%20Mystery%20Esp%20AutoUnBox%20Sped%20Hack.lua")
+
+addscriptexist(1224212277, "Mad City [Silent Aim]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mad%20City%20Silent%20Aim.lua")
