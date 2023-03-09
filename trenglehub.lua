@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 14:53:20"
+lastupdate = "GMT +1: 09.03.2023 14:53:24"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -17750,3 +17750,5 @@ addscriptexist(9551640993, "Mining Simulator 2 [GUI - Auto Mine, Auto Open Egg]"
 addscript(7065731541, "Current Game","Speedman Simulator [GUI - Auto Upgrade, Auto Farm & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Speedman%20Simulator%20GUI%20%20Auto%20Upgrade%20Auto%20Farm%20%20More.lua")
 
 addscriptexist(9551640993, "Mining Simulator 2 [Chest Finder]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mining%20Simulator%20%20Chest%20Finder.lua")
+
+addscriptexist(9551640993, "Mining Simulator 2 [Ore ESP - View All]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mining%20Simulator%20%20Ore%20ESP%20%20View%20All.lua")
