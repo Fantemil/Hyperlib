@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 14:09:23"
+lastupdate = "GMT +1: 09.03.2023 14:09:27"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -16626,3 +16626,5 @@ addscriptexist(7540727946, "Hoops Life [Auto Time - Semi Aimbot - Open Source]",
 addscriptexist(9103898828, "Rogue Demon [No Fall Damage]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Rogue%20Demon%20No%20Fall%20Damage.lua")
 
 addscriptexist(9976239895, "Gumball Factory Tycoon [Auto Convert Gumballs]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Gumball%20Factory%20Tycoon%20Auto%20Convert%20Gumballs.lua")
+
+addscriptexist(5939428933, "Crewmates! [Kill All]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Crewmates%20Kill%20All.lua")
