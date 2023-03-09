@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 15:17:46"
+lastupdate = "GMT +1: 09.03.2023 15:17:50"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18364,3 +18364,5 @@ addscriptexist(7305309231, "Taxi Boss [Server Hop Auto Farm]", "pulled from rbxs
 addscriptexist(8523408215, "Alo Sanctuary [Collect All Event Orbs]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Alo%20Sanctuary%20Collect%20All%20Event%20Orbs.lua")
 
 addscriptexist(8523408215, "Alo Sanctuary [Get All Mats & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Alo%20Sanctuary%20Get%20All%20Mats%20%20More.lua")
+
+addscript(6673614635, "Current Game","unConventional [Auto Questing]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/unConventional%20Auto%20Questing.lua")
