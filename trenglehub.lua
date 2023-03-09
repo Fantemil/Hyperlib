@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 15:42:26"
+lastupdate = "GMT +1: 09.03.2023 15:42:30"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18982,3 +18982,5 @@ addscript(8862273695, "Current Game","Another JToH RPG [Get every item in the ga
 addscript(8073154099, "Current Game","The Intruder [Intruder detection]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/The%20Intruder%20Intruder%20detection.lua")
 
 addscriptexist(6168898345, "Bulwark [Auto parry, Kill aura, Inf Stamina]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Bulwark%20Auto%20parry%20Kill%20aura%20Inf%20Stamina.lua")
+
+addscriptexist(292439477, "Phantom Forces [FireRate Hacks]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Phantom%20Forces%20FireRate%20Hacks.lua")
