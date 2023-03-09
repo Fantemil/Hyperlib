@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 14:49:50"
+lastupdate = "GMT +1: 09.03.2023 14:49:55"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -17662,3 +17662,5 @@ addscriptexist(9037855749, "Demon Slayer [Redeem All Codes - Mob Auto Farm & Mor
 addscript(9285737032, "Current Game","HELL RUN [Auto Win]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/HELL%20RUN%20Auto%20Win.lua")
 
 addscriptexist(9129288160, "Tommy Play [Auto Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tommy%20Play%20Auto%20Farm.lua")
+
+addscriptexist(8750997647, "Tapping legends X [AUTO FARM - AUTO BUY EGGS & MORE!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tapping%20legends%20X%20AUTO%20FARM%20%20AUTO%20BUY%20EGGS%20%20MORE.lua")
