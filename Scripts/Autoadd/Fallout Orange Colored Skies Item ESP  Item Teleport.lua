@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/sprmy/roblocks/main/OCS%20GUI%20%7C%20Item%20Esp%2C%20Item%20TP", true))()
