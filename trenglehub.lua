@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 15:26:51"
+lastupdate = "GMT +1: 09.03.2023 15:26:57"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18590,3 +18590,5 @@ addscriptexist(5543622168, "Critical Tower Defense [Get Secret Unit]", "pulled f
 addscriptexist(4459593483, "FORCE [PRE-ALPHA] [Ingredidnt ESP]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FORCE%20PREALPHA%20Ingredidnt%20ESP.lua")
 
 addscript(7665621058, "Current Game","Destroyerman Simulator [Get All Gamepasses]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Destroyerman%20Simulator%20Get%20All%20Gamepasses.lua")
+
+addscriptexist(5712833750, "Animal Simulator [Infinite XP, Levels]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Animal%20Simulator%20Infinite%20XP%20Levels.lua")
