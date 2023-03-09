@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 15:24:01"
+lastupdate = "GMT +1: 09.03.2023 15:24:06"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18516,3 +18516,5 @@ addscriptexist(7560156054, "Clicker Simulator [Auto Click, Auto Collect Gifts, O
 addscriptexist(8357510970, "Anime Punching Simulator [Auto Tap, Auto Rebirth, AutoOpenEgg]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime%20Punching%20Simulator%20Auto%20Tap%20Auto%20Rebirth%20AutoOpenEgg.lua")
 
 addscriptexist(8540168650, "Stand Upright Rebooted [Item Server Hop Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Stand%20Upright%20Rebooted%20Item%20Server%20Hop%20Farm.lua")
+
+addscript(3501626887, "Current Game","Diceboy [Bring dicecoins]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Diceboy%20Bring%20dicecoins.lua")
