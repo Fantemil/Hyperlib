@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 13:27:54"
+lastupdate = "GMT +1: 09.03.2023 13:27:58"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -15542,3 +15542,5 @@ addscriptexist(7127407851, "Attack On Titan: Evolution [Infinite Gas & MORE!]", 
 addscriptexist(9579974235, "Find The Floppa Morphs [Get All Floppas]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Find%20The%20Floppa%20Morphs%20Get%20All%20Floppas.lua")
 
 addscript(1299054666, "Current Game","Fallen 2018 [GUI - The best]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Fallen%20%20GUI%20%20The%20best.lua")
+
+addscriptexist(9157605735, "MiscGunTest:X [Infinite Money & More GUI!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MiscGunTestX%20Infinite%20Money%20%20More%20GUI.lua")
