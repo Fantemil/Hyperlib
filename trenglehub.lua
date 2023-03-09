@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 14:25:39"
+lastupdate = "GMT +1: 09.03.2023 14:25:43"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -17042,3 +17042,5 @@ addscriptexist(9786213478, "Treat Simulator [Auto Sell]", "pulled from rbxscript
 addscriptexist(3234050617, "Left 2 Die Overhaul [infinite ammo, No recoll, No Spreed]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Left%20%20Die%20Overhaul%20infinite%20ammo%20No%20recoll%20No%20Spreed.lua")
 
 addscriptexist(8540346411, "Rebirth Champions X [Auto Farm GUI]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Rebirth%20Champions%20X%20Auto%20Farm%20GUI.lua")
+
+addscript(9609300403, "Current Game","Jackpot [Auto Martingale]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Jackpot%20Auto%20Martingale.lua")
