@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 15:11:55"
+lastupdate = "GMT +1: 09.03.2023 15:11:59"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18214,3 +18214,5 @@ addscriptexist(3339374541, "Midnight Racing Tokyo [Demo FE Sound Player]", "pull
 addscriptexist(8571871474, "Gun Fighting Tycoon [Kill All - Auto Collect - More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Gun%20Fighting%20Tycoon%20Kill%20All%20%20Auto%20Collect%20%20More.lua")
 
 addscriptexist(4588604953, "Criminality [Auto Lockpick]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Criminality%20Auto%20Lockpick.lua")
+
+addscriptexist(4588604953, "Criminality [Hitbox Extender]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Criminality%20Hitbox%20Extender.lua")
