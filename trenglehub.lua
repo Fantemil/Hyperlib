@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 16:02:57"
+lastupdate = "GMT +1: 09.03.2023 16:03:02"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -19486,3 +19486,5 @@ addscriptexist(6284583030, "Pet Simulator X [Auto-Enchant]", "pulled from rbxscr
 addscriptexist(8110180444, "Strong Pet Simulator [Auto Carry, Auto egg, Instant Train]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Strong%20Pet%20Simulator%20Auto%20Carry%20Auto%20egg%20Instant%20Train.lua")
 
 addscriptexist(4689179508, "Project Ghoul [Auto Spin]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Project%20Ghoul%20Auto%20Spin.lua")
+
+addscriptexist(3017870574, "2 Player Evolution Tycoon [Auto-pickup]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/%20Player%20Evolution%20Tycoon%20Autopickup.lua")
