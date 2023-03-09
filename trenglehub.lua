@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 15:25:36"
+lastupdate = "GMT +1: 09.03.2023 15:25:41"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18558,3 +18558,5 @@ addscript(8519700776, "Current Game","SKYWARS PvP [Kill All Instantly]", "pulled
 addscript(8874040270, "Current Game","SKYWARS PRO 2 [Kill All]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SKYWARS%20PRO%20%20Kill%20All.lua")
 
 addscriptexist(4588604953, "Criminality [Elite V3 Dev Build Leak]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Criminality%20Elite%20V%20Dev%20Build%20Leak.lua")
+
+addscriptexist(4566572536, "Free Universal Vehicle GUI", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Free%20Universal%20Vehicle%20GUI.lua")
