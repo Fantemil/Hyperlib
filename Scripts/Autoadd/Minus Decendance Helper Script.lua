@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/RectangularObject/boblox/main/Minus%20Decendance/Minus%20Decendance%20Helper.lua", true))()
