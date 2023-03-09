@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://raw.githubusercontent.com/AtroxEGO/grass-cutting-simulator/main/grass-cutting-script-AtroxEGO.lua'))()
