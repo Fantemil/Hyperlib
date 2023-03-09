@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 14:49:59"
+lastupdate = "GMT +1: 09.03.2023 14:50:03"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -17666,3 +17666,5 @@ addscriptexist(9129288160, "Tommy Play [Auto Farm]", "pulled from rbxscript.com"
 addscriptexist(8750997647, "Tapping legends X [AUTO FARM - AUTO BUY EGGS & MORE!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tapping%20legends%20X%20AUTO%20FARM%20%20AUTO%20BUY%20EGGS%20%20MORE.lua")
 
 addscript(2423436897, "Current Game","Witching Hour [Even Better Nail Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Witching%20Hour%20Even%20Better%20Nail%20Farm.lua")
+
+addscriptexist(2788229376, "Da Hood [Cash Cat Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Da%20Hood%20Cash%20Cat%20Farm.lua")
