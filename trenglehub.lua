@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 14:07:20"
+lastupdate = "GMT +1: 09.03.2023 14:07:24"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -16574,3 +16574,5 @@ addscriptexist(8554378337, "Weapon Fighting Simulator [Auto Farm All Areas & Mor
 addscript(10057350313, "Current Game","Ore Smelting Tycoon [Auto Claim Tycoon & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ore%20Smelting%20Tycoon%20Auto%20Claim%20Tycoon%20%20More.lua")
 
 addscript(9884452497, "Current Game","Bloodlust [Infinite Money]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Bloodlust%20Infinite%20Money.lua")
+
+addscriptexist(2753915549, "Blox Fruits [GUI - Auto Farm Level, Auto Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blox%20Fruits%20GUI%20%20Auto%20Farm%20Level%20Auto%20Farm.lua")
