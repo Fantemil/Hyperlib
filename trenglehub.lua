@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 12:54:12"
+lastupdate = "GMT +1: 09.03.2023 12:54:17"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -15252,3 +15252,5 @@ addscriptexist(8818978508, "Space Simulator Reborn [Auto Sell, Auto Farm]", "pul
 addscriptexist(8657766101, "Marvellous Playground [Gamepass]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Marvellous%20Playground%20Gamepass.lua")
 
 addscriptexist(3956818381, "Ninja Legends [Auto Swing, Auto Sell]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ninja%20Legends%20Auto%20Swing%20Auto%20Sell.lua")
+
+addscriptexist(292439477, "Phantom Forces [Silent Aim, Esp]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Phantom%20Forces%20Silent%20Aim%20Esp.lua")
