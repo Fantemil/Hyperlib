@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 15:36:42"
+lastupdate = "GMT +1: 09.03.2023 15:36:47"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18836,3 +18836,5 @@ addscriptexist(6788787407, "Warrior Champions [Auto Farm GUI]", "pulled from rbx
 addscriptexist(6125809531, "Untitled AoT [Auto Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Untitled%20AoT%20Auto%20Farm.lua")
 
 addscriptexist(8528736393, "Beatland [Instantly Buy Items]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Beatland%20Instantly%20Buy%20Items.lua")
+
+addscriptexist(4588604953, "Criminality [No Recoil]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Criminality%20No%20Recoil.lua")
