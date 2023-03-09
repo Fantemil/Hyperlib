@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 13:29:58"
+lastupdate = "GMT +1: 09.03.2023 13:30:07"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -15596,3 +15596,5 @@ addscriptexist(6114972958, "Initial D: Touge Legends [Unlockk All Cars, WalkSpee
 addscriptexist(445664957, "Parkour [God mode, Infinite WalkBoost, Infinite Adrenaline]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Parkour%20God%20mode%20Infinite%20WalkBoost%20Infinite%20Adrenaline.lua")
 
 addscriptexist(7655745946, "Dunking Simulator [Gamepass]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Dunking%20Simulator%20Gamepass.lua")
+
+addscript(9938879862, "Current Game","Firefly Garden [Auto Collect]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Firefly%20Garden%20Auto%20Collect.lua")
