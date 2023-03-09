@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 14:52:17"
+lastupdate = "GMT +1: 09.03.2023 14:52:21"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -17726,3 +17726,5 @@ addscriptexist(1537690962, "Bee Swarm Simulator [Redeem Codes, Auto Farm, Royal 
 addscriptexist(306964494, "Loomian Legacy [Heal + Key Grabber]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Loomian%20Legacy%20Heal%20%20Key%20Grabber.lua")
 
 addscriptexist(2788229376, "Da Hood [Cash Auto Farm - Open Source]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Da%20Hood%20Cash%20Auto%20Farm%20%20Open%20Source.lua")
+
+addscriptexist(7346416636, "Pop It Trading [Dupe Script]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pop%20It%20Trading%20Dupe%20Script.lua")
