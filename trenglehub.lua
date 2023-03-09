@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 14:06:11"
+lastupdate = "GMT +1: 09.03.2023 14:06:15"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -16546,3 +16546,5 @@ addscript(9396463375, "Current Game","Mining Empire [Infinite Vouchers]", "pulle
 addscriptexist(9396463375, "Mining Empire [Inf Coins]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mining%20Empire%20Inf%20Coins.lua")
 
 addscriptexist(8303902695, "Pet Posse [Auto rebirth]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pet%20Posse%20Auto%20rebirth.lua")
+
+addscriptexist(292439477, "Phantom Forces [Gun Mods, Esp, AimBot]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Phantom%20Forces%20Gun%20Mods%20Esp%20AimBot.lua")
