@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 15:20:02"
+lastupdate = "GMT +1: 09.03.2023 15:20:06"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18422,3 +18422,5 @@ addscriptexist(6878438976, "Developer Inc [10r Cash in 30 sec]", "pulled from rb
 addscriptexist(1458767429, "ABA [Automatic black flash Itadori]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ABA%20Automatic%20black%20flash%20Itadori.lua")
 
 addscriptexist(2569453732, "Rise of Nations [Trade GUI - Open Source]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Rise%20of%20Nations%20Trade%20GUI%20%20Open%20Source.lua")
+
+addscript(6667701234, "Current Game","Fate Xero [Item Notifier]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Fate%20Xero%20Item%20Notifier.lua")
