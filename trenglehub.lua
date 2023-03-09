@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 13:34:55"
+lastupdate = "GMT +1: 09.03.2023 13:35:00"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -15726,3 +15726,5 @@ addscriptexist(4639625707, "Oil Warfare Tycoon [Esp & Aimbot]", "pulled from rbx
 addscriptexist(4855457388, "Demonfall [4.0] [God Mode]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Demonfall%20%20God%20Mode.lua")
 
 addscript(4556148591, "Current Game","Blackout [GUI - Get Any Weapon Free]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blackout%20GUI%20%20Get%20Any%20Weapon%20Free.lua")
+
+addscript(10370253487, "Current Game","You Can't Say That Again [Spam Chat]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/You%20Cant%20Say%20That%20Again%20Spam%20Chat.lua")
