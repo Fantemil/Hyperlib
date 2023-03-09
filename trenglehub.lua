@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 14:04:05"
+lastupdate = "GMT +1: 09.03.2023 14:04:10"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -16492,3 +16492,5 @@ addscriptexist(537413528, "Build A Boat For Treasure [Inf Block WORKING]", "pull
 addscriptexist(2753915549, "Blox Fruits [Silent Aim]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blox%20Fruits%20Silent%20Aim.lua")
 
 addscriptexist(6678877691, "ZO ぞ [Tp Aura]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ZO%20%E3%81%9E%20Tp%20Aura.lua")
+
+addscript(9344944754, "Current Game","Hunter x Athena [Auto Pushup, Auto Climb, Auto Run]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Hunter%20x%20Athena%20Auto%20Pushup%20Auto%20Climb%20Auto%20Run.lua")
