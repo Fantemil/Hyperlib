@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 15:09:30"
+lastupdate = "GMT +1: 09.03.2023 15:09:34"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18154,3 +18154,5 @@ addscriptexist(9266432096, "Anime Journey [Auto Farm GUI}", "pulled from rbxscri
 addscriptexist(1923555882, "East Brickton [Auto Fishing]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/East%20Brickton%20Auto%20Fishing.lua")
 
 addscriptexist(8260276694, "Ability Wars [Stand - Attack,Time Freeze & Time Reset]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ability%20Wars%20Stand%20%20AttackTime%20Freeze%20%20Time%20Reset.lua")
+
+addscriptexist(6878438976, "Developer Inc. [Infinite Money]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Developer%20Inc%20Infinite%20Money.lua")
