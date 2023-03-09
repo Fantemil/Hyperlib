@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Huzukawaiii/public-scripts/master/overlook-autofarm.lua"))()
