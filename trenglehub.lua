@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 15:42:40"
+lastupdate = "GMT +1: 09.03.2023 15:42:44"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18988,3 +18988,5 @@ addscriptexist(292439477, "Phantom Forces [FireRate Hacks]", "pulled from rbxscr
 addscriptexist(3623096087, "Muscle Legends [Auto Farm GUI]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Muscle%20Legends%20Auto%20Farm%20GUI.lua")
 
 addscriptexist(3623096087, "Muscle Legends [Auto Farm New GUI]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Muscle%20Legends%20Auto%20Farm%20New%20GUI.lua")
+
+addscript(8644729967, "Current Game","Zone of Alienation [Kill All Mobs]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Zone%20of%20Alienation%20Kill%20All%20Mobs.lua")
