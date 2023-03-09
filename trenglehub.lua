@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 13:34:22"
+lastupdate = "GMT +1: 09.03.2023 13:34:26"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -15712,3 +15712,5 @@ addscriptexist(6584731191, "Ragdoll Engine [FE Fling All Players]", "pulled from
 addscriptexist(10192063645, "Thy Hood [Fly]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Thy%20Hood%20Fly.lua")
 
 addscriptexist(8916037983, "Starving Artist [Steal Art]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Starving%20Artist%20Steal%20Art.lua")
+
+addscriptexist(2788229376, "Dahood [Speed Macro]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Dahood%20Speed%20Macro.lua")
