@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 13:57:40"
+lastupdate = "GMT +1: 09.03.2023 13:57:44"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -16324,3 +16324,5 @@ addscriptexist(863266079, "Apocalypse Rising 2 [Inf Jump, Esp, Snow Health]", "p
 addscriptexist(9903808883, "Build a Market Tycoon [Fast NPC'S]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Build%20a%20Market%20Tycoon%20Fast%20NPCS.lua")
 
 addscriptexist(4598019433, "generic roleplay gaem [GUI - Auto Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/generic%20roleplay%20gaem%20GUI%20%20Auto%20Farm.lua")
+
+addscriptexist(863266079, "Apocalypse Rising 2 [Anti Zombie - Freeze]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Apocalypse%20Rising%20%20Anti%20Zombie%20%20Freeze.lua")
