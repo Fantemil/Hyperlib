@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 14:58:27"
+lastupdate = "GMT +1: 09.03.2023 14:58:31"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -17884,3 +17884,5 @@ addscriptexist(3056526277, "Build and Survive [Kill all bots]", "pulled from rbx
 addscriptexist(6717117731, "Subway Surfers [Colllect All Coins]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Subway%20Surfers%20Colllect%20All%20Coins.lua")
 
 addscriptexist(9508087919, "Apeirophobia [ESP for exits]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Apeirophobia%20ESP%20for%20exits.lua")
+
+addscriptexist(9508087919, "Apeirophobia [Simulation Cores ESP]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Apeirophobia%20Simulation%20Cores%20ESP.lua")
