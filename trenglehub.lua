@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 15:44:18"
+lastupdate = "GMT +1: 09.03.2023 15:44:22"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -19030,3 +19030,5 @@ addscriptexist(2534724415, "Emergency Response Liberty County [Infinite Stamina]
 addscriptexist(8044403176, "Vehicle Champions [Auto Farm GUI]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Vehicle%20Champions%20Auto%20Farm%20GUI.lua")
 
 addscriptexist(8246874626, "DBZ (DEMO) [Auto Farm - Kill Aura - Best Farm & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DBZ%20DEMO%20Auto%20Farm%20%20Kill%20Aura%20%20Best%20Farm%20%20More.lua")
+
+addscriptexist(155382109, "Survive and Kill the Killesr in Area 51 [STKv7.1 Engine GUI]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Survive%20and%20Kill%20the%20Killesr%20in%20Area%20%20STKv%20Engine%20GUI.lua")
