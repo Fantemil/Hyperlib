@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 14:10:45"
+lastupdate = "GMT +1: 09.03.2023 14:10:51"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -16660,3 +16660,5 @@ addscriptexist(9976239895, "Gumball Factory Tycoon [Obby Multiplier]", "pulled f
 addscriptexist(8304191830, "Anime Adventures [Auto Abilyti - Auto Upgrade]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime%20Adventures%20Auto%20Abilyti%20%20Auto%20Upgrade.lua")
 
 addscriptexist(2546155523, "RoVille [Taxi Auto Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RoVille%20Taxi%20Auto%20Farm.lua")
+
+addscriptexist(9568982793, "Da Hood Battlegrounds [Anti Cheat Bypass]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Da%20Hood%20Battlegrounds%20Anti%20Cheat%20Bypass.lua")
