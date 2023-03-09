@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://raw.githubusercontent.com/Cesare0328/my-scripts/main/XP-FARM-1MIN.lua', true))()
