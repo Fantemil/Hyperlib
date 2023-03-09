@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 13:43:09"
+lastupdate = "GMT +1: 09.03.2023 13:43:15"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -15940,3 +15940,5 @@ addscriptexist(6677985923, "Millionaire Empire Tycoon [Infinite Cash]", "pulled 
 addscriptexist(5993942214, "Rush Point [Silent Aim & No Recoil]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Rush%20Point%20Silent%20Aim%20%20No%20Recoil.lua")
 
 addscript(7214610985, "Current Game","Stealth 2 [Kill Aura - Auto Retaliate - Auto Block]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Stealth%20%20Kill%20Aura%20%20Auto%20Retaliate%20%20Auto%20Block.lua")
+
+addscriptexist(5571328985, "Bloodlines [No Fire]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Bloodlines%20No%20Fire.lua")
