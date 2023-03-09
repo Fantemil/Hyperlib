@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 13:49:03"
+lastupdate = "GMT +1: 09.03.2023 13:49:08"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -16096,3 +16096,5 @@ addscriptexist(9551640993, "Mining Simulator 2 [Auto Complete Bruh Beard Quest]"
 addscript(6570234816, "Current Game","Mano County Roleplay [Anticheat bypass]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mano%20County%20Roleplay%20Anticheat%20bypass.lua")
 
 addscriptexist(2413927524, "THE RAKE: Kill Edition [Point Giver]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/THE%20RAKE%20Kill%20Edition%20Point%20Giver.lua")
+
+addscriptexist(5993942214, "Rush Point [Silent Aim]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Rush%20Point%20Silent%20Aim.lua")
