@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 14:09:40"
+lastupdate = "GMT +1: 09.03.2023 14:09:44"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -16634,3 +16634,5 @@ addscriptexist(4746041618, "Steel Titans [ESP]", "pulled from rbxscript.com", "h
 addscriptexist(9167501050, "Lightsaber Arena [Kill Aura]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Lightsaber%20Arena%20Kill%20Aura.lua")
 
 addscriptexist(3722916, "2 Player Company Tycoon [Infinite Money]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/%20Player%20Company%20Tycoon%20Infinite%20Money.lua")
+
+addscript(9875254583, "Current Game","Juice Pirates [Max Level]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Juice%20Pirates%20Max%20Level.lua")
