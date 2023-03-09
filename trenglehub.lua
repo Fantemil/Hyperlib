@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 12:51:51"
+lastupdate = "GMT +1: 09.03.2023 12:51:55"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -15192,3 +15192,5 @@ addscriptexist(5620664339, "RoStreets [Silent Aim, KillAura]", "pulled from rbxs
 addscriptexist(3527629287, "Big Paintball [Aimbot, Fov]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Big%20Paintball%20Aimbot%20Fov.lua")
 
 addscriptexist(286090429, "Arsenal [Aimbot, Wall check]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Arsenal%20Aimbot%20Wall%20check.lua")
+
+addscriptexist(8737602449, "PLS DONATE [Auto Beg]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PLS%20DONATE%20Auto%20Beg.lua")
