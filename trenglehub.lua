@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 15:16:43"
+lastupdate = "GMT +1: 09.03.2023 15:16:49"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18338,3 +18338,5 @@ addscriptexist(2000062521, "State of Anarchy O.13.81.6 [Silent AIM - ESP - Aimbo
 addscriptexist(6778844213, "Euphoria Ragdoll Testing [Annony Server - Mass Ragdoll Toggle]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Euphoria%20Ragdoll%20Testing%20Annony%20Server%20%20Mass%20Ragdoll%20Toggle.lua")
 
 addscriptexist(6905769625, "Rooftop Basketball [Silent AIM]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Rooftop%20Basketball%20Silent%20AIM.lua")
+
+addscriptexist(9461798258, "Raise a Granny [Inf cookies]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Raise%20a%20Granny%20Inf%20cookies.lua")
