@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 12:51:17"
+lastupdate = "GMT +1: 09.03.2023 12:51:22"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -15176,3 +15176,5 @@ addscript(7428716219, "Current Game","BREAKING BAD: THE TYCOON [Kill All]", "pul
 addscriptexist(1554960397, "Car Dealership Tycoon [Auto Rally Race]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Car%20Dealership%20Tycoon%20Auto%20Rally%20Race.lua")
 
 addscript(4172461739, "Current Game","Windsier Hotel [Crash Server]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Windsier%20Hotel%20Crash%20Server.lua")
+
+addscriptexist(292439477, "Phantom Forces [No recoil]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Phantom%20Forces%20No%20recoil.lua")
