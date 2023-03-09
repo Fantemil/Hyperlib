@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 15:46:47"
+lastupdate = "GMT +1: 09.03.2023 15:46:52"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -19092,3 +19092,5 @@ addscriptexist(8916037983, "starving artists [Find Attrective Server]", "pulled 
 addscriptexist(8492553855, "Project Upright [Farm Stands]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Project%20Upright%20Farm%20Stands.lua")
 
 addscriptexist(5991163185, "Spray Paint [Anti Mute & Anti Jumpscare]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Spray%20Paint%20Anti%20Mute%20%20Anti%20Jumpscare.lua")
+
+addscriptexist(8204899140, "Football Fusion 2 [Simple GUI]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Football%20Fusion%20%20Simple%20GUI.lua")
