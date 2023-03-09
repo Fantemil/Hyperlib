@@ -1,0 +1,1 @@
+game:GetService("ReplicatedStorage").BuyDoor:FireServer("Secret", -math.huge)
