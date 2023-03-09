@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 14:41:59"
+lastupdate = "GMT +1: 09.03.2023 14:42:05"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -17464,3 +17464,5 @@ addscriptexist(3101667897, "Legends Of Speed [AutoFarm, AutoRebirth, AutoStep]",
 addscriptexist(9551640993, "Mining Simulator 2 [Chests Serverhop]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mining%20Simulator%20%20Chests%20Serverhop.lua")
 
 addscriptexist(7799826347, "Sandbox Tycoon [Save Base, Build Floor, Update Build Cost]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sandbox%20Tycoon%20Save%20Base%20Build%20Floor%20Update%20Build%20Cost.lua")
+
+addscriptexist(2788229376, "Da Hood [Auto Money Drop Collect]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Da%20Hood%20Auto%20Money%20Drop%20Collect.lua")
