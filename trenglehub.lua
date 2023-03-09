@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 15:53:44"
+lastupdate = "GMT +1: 09.03.2023 15:53:49"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -19262,3 +19262,5 @@ addscriptexist(3956818381, "Ninja Legends [Unlock All Islands & More!]", "pulled
 addscriptexist(8396586868, "A 0ne Piece Game [Auto Skill, Auto Farm, Auto Punch]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/A%20ne%20Piece%20Game%20Auto%20Skill%20Auto%20Farm%20Auto%20Punch.lua")
 
 addscript(6384825976, "Current Game","SCP-3008 [Esp]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SCP%20Esp.lua")
+
+addscriptexist(735030788, "Royale High [Egg Hunt]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Royale%20High%20Egg%20Hunt.lua")
