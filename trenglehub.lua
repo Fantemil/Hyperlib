@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 12:31:29"
+lastupdate = "GMT +1: 09.03.2023 12:31:49"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -15136,3 +15136,5 @@ addscript(8747402506, "Current Game","Prop Hunt [Auto Win]", "pulled from rbxscr
 addscriptexist(6884319169, "MIC UP [Anti-AFK, Fly, WalkSpeed changer, TPs]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MIC%20UP%20AntiAFK%20Fly%20WalkSpeed%20changer%20TPs.lua")
 
 addscriptexist(9551640993, "Mining Simulator 2 [The #1 Free Auto Farm GUI]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mining%20Simulator%20%20The%20%20Free%20Auto%20Farm%20GUI.lua")
+
+addscriptexist(6206893534, "Cobra Kai Karate [Auto Farm Pushups, Auto Farm Situps, No Stun]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Cobra%20Kai%20Karate%20Auto%20Farm%20Pushups%20Auto%20Farm%20Situps%20No%20Stun.lua")
