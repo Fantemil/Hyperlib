@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 15:28:15"
+lastupdate = "GMT +1: 09.03.2023 15:28:20"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18624,3 +18624,5 @@ addscript(4637668954, "Current Game","Rensselaer County Beta [RGB Car]", "pulled
 addscript(5584024582, "Current Game","The Rake Hour Test [Level Multiplier]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/The%20Rake%20Hour%20Test%20Level%20Multiplier.lua")
 
 addscript(2927931172, "Current Game","Shinobi Battlegrounds [Infiniti Yen,Ryo]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Shinobi%20Battlegrounds%20Infiniti%20YenRyo.lua")
+
+addscript(8677679014, "Current Game","Spirit Defenders [Multiplier Stats & Spirit Giver]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Spirit%20Defenders%20Multiplier%20Stats%20%20Spirit%20Giver.lua")
