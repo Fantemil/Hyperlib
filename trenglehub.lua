@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 14:21:20"
+lastupdate = "GMT +1: 09.03.2023 14:21:25"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -16934,3 +16934,5 @@ addscriptexist(9611595239, "Rift Royale [ESP]", "pulled from rbxscript.com", "ht
 addscriptexist(1730877806, "Grand Piece Online [Auto Osu]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Grand%20Piece%20Online%20Auto%20Osu.lua")
 
 addscript(5970745461, "Current Game","Minerblocks [Kill Aura]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Minerblocks%20Kill%20Aura.lua")
+
+addscript(8656044807, "Current Game","Swinging Simulator [Unlock Every Badge]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Swinging%20Simulator%20Unlock%20Every%20Badge.lua")
