@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 13:01:03"
+lastupdate = "GMT +1: 09.03.2023 13:01:09"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -15414,3 +15414,5 @@ addscriptexist(8278412720, "CS Prison Life [BETA] [Casino Auto Farm]", "pulled f
 addscriptexist(4809447488, "Venture Tales [Auto Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Venture%20Tales%20Auto%20Farm.lua")
 
 addscriptexist(5956785391, "Project Slayers [Kill Aura - Teleports & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Project%20Slayers%20Kill%20Aura%20%20Teleports%20%20More.lua")
+
+addscriptexist(9829869210, "Karate Kick Simulator [Infinite Money]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Karate%20Kick%20Simulator%20Infinite%20Money.lua")
