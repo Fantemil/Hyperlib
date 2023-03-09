@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 15:10:57"
+lastupdate = "GMT +1: 09.03.2023 15:11:01"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18192,3 +18192,5 @@ addscriptexist(1224212277, "Mad City [AutoFarm, Server Crasher, Auto XP, Invisib
 addscriptexist(2248408710, "Destruction Simulator [Infinite Money, Max Level, More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Destruction%20Simulator%20Infinite%20Money%20Max%20Level%20More.lua")
 
 addscriptexist(920587237, "Adopt Me! [Auto Farm, Auto Baby, More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Adopt%20Me%20Auto%20Farm%20Auto%20Baby%20More.lua")
+
+addscriptexist(6808416928, "Aimblox [Inf Ammo, No Reload, More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Aimblox%20Inf%20Ammo%20No%20Reload%20More.lua")
