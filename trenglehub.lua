@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 15:32:39"
+lastupdate = "GMT +1: 09.03.2023 15:32:44"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18736,3 +18736,5 @@ addscriptexist(9049840490, "Sonic Speed Simulator [Lvl farm]", "pulled from rbxs
 addhub("Roblox [XZ Hub]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Roblox%20XZ%20Hub.lua")
 
 addscriptexist(606849621, "Jailbreak [Instant tp base]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Jailbreak%20Instant%20tp%20base.lua")
+
+addscriptexist(5780309044, "Stands Awakening [Stand Farm, Npc Teleport, Place Teleport]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Stands%20Awakening%20Stand%20Farm%20Npc%20Teleport%20Place%20Teleport.lua")
