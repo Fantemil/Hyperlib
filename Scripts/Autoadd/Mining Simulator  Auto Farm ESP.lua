@@ -1,0 +1,1 @@
+loadstring(game:HttpGet'https://github.com/RunDTM/miningsim2/raw/main/script.lua')()
