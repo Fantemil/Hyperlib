@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 15:25:14"
+lastupdate = "GMT +1: 09.03.2023 15:25:19"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18548,3 +18548,5 @@ addscriptexist(8540168650, "Stand Upright Rebooted [Item Farm]", "pulled from rb
 addscriptexist(5712833750, "Animal Simulator [Farm Dragon Skins & XP]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Animal%20Simulator%20Farm%20Dragon%20Skins%20%20XP.lua")
 
 addscriptexist(8649501395, "NFL Tycoon [Auto Collect Money - Auto Buy]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NFL%20Tycoon%20Auto%20Collect%20Money%20%20Auto%20Buy.lua")
+
+addscriptexist(8705534359, "Shopping Cart Simulator [Infinite Coffee]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Shopping%20Cart%20Simulator%20Infinite%20Coffee.lua")
