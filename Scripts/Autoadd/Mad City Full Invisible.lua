@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://raw.githubusercontent.com/Cesare0328/my-scripts/main/Mad%20shitty%20invisible%20v1.04.lua', true))()
