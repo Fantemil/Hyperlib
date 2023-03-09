@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 14:06:24"
+lastupdate = "GMT +1: 09.03.2023 14:06:28"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -16552,3 +16552,5 @@ addscriptexist(292439477, "Phantom Forces [Gun Mods, Esp, AimBot]", "pulled from
 addscriptexist(9508087919, "Apeirophobia [All 10 Lvl, Esp Exit, Inf Stamina]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Apeirophobia%20All%20%20Lvl%20Esp%20Exit%20Inf%20Stamina.lua")
 
 addscriptexist(8619263259, "Critical Legends [Collect all chests, Tp to every statue]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Critical%20Legends%20Collect%20all%20chests%20Tp%20to%20every%20statue.lua")
+
+addscriptexist(2788229376, "Da Hood [Auto Farm, God mode, Kll Bot]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Da%20Hood%20Auto%20Farm%20God%20mode%20Kll%20Bot.lua")
