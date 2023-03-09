@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 15:57:11"
+lastupdate = "GMT +1: 09.03.2023 15:57:15"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -19346,3 +19346,5 @@ addscriptexist(4954096313, "Field Trip Z [God mode All (and Youself), Kill Zombi
 addscript(8099517179, "Current Game","Color Fling [Auto Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Color%20Fling%20Auto%20Farm.lua")
 
 addscript(3144588566, "Current Game","The Lost Land [Auto Farm Ores - Pickup Stuff]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/The%20Lost%20Land%20Auto%20Farm%20Ores%20%20Pickup%20Stuff.lua")
+
+addscript(7551121821, "Current Game","Decaying Winter[Admin cmd]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Decaying%20WinterAdmin%20cmd.lua")
