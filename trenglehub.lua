@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 15:47:11"
+lastupdate = "GMT +1: 09.03.2023 15:47:18"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -19102,3 +19102,5 @@ addscriptexist(7603178367, "Chipotle Burrito Builder [Auto Deliver Burritos]", "
 addscript(6551386772, "Current Game","Battle Royale Simulator [Hit Box, AIMBOT, ESP]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Battle%20Royale%20Simulator%20Hit%20Box%20AIMBOT%20ESP.lua")
 
 addscriptexist(5670218884, "Item asylum [Give weapons]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Item%20asylum%20Give%20weapons.lua")
+
+addscriptexist(8737602449, "PLS DONATE [Rainbow, Modded, Goal]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PLS%20DONATE%20Rainbow%20Modded%20Goal.lua")
