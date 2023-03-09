@@ -1,0 +1,1 @@
+game:GetService("ReplicatedStorage").ServerMsg.CatchFish:FireServer({[5001101] = 99e99})
