@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 15:13:52"
+lastupdate = "GMT +1: 09.03.2023 15:13:56"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18264,3 +18264,5 @@ addscriptexist(5783581, "TPS Ultimate Soccer [Shoot, Auto Goal Keep & More!]", "
 addscriptexist(9344944754, "Hunter x Omen [Auto Climb Training]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Hunter%20x%20Omen%20Auto%20Climb%20Training.lua")
 
 addscript(8090572921, "Current Game","Multiverse Fighters Simulator [Auto Click - Auto Attack Npcs]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Multiverse%20Fighters%20Simulator%20Auto%20Click%20%20Auto%20Attack%20Npcs.lua")
+
+addscriptexist(142823291, "Murder Mystery 2 [The #1 Free GUI]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Murder%20Mystery%20%20The%20%20Free%20GUI.lua")
