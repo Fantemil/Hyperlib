@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 15:15:38"
+lastupdate = "GMT +1: 09.03.2023 15:15:42"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18310,3 +18310,5 @@ addscriptexist(5802642341, "City Life [Auto Ticket Cars]", "pulled from rbxscrip
 addscriptexist(6193049807, "Tha Hood [Money Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tha%20Hood%20Money%20Farm.lua")
 
 addscriptexist(2996067865, "th3ltgrounds [Kill All]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/thltgrounds%20Kill%20All.lua")
+
+addscriptexist(13822889, "Lumber Tycoon 2 [Kill Players]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Lumber%20Tycoon%20%20Kill%20Players.lua")
