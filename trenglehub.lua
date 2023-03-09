@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 13:25:19"
+lastupdate = "GMT +1: 09.03.2023 13:25:25"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -15478,3 +15478,5 @@ addscriptexist(189707, "Natural Disasters Survival [Auto Disaster Detect, Free B
 addscriptexist(9498006165, "Tapping Simulator! [Auto Farm + Skip Shiny Stage]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tapping%20Simulator%20Auto%20Farm%20%20Skip%20Shiny%20Stage.lua")
 
 addscriptexist(23578803, "Hotel Elephant [Infinite Money]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Hotel%20Elephant%20Infinite%20Money.lua")
+
+addscriptexist(2534724415, "Emergency Response Liberty County [No Recoil]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Emergency%20Response%20Liberty%20County%20No%20Recoil.lua")
