@@ -31,6 +31,13 @@ I need a lot of help improving the Hub! If you want to contribute then please se
 
 # Documentation
 
+## The Status Tab
+Check when the last Update was
+
+<img width="567" alt="Status Tab" src="https://user-images.githubusercontent.com/69359704/224020811-1a881935-d289-4342-ab5b-001a2ae1f1de.png">
+
+
+
 ## The Player Tab
 This is the Player Tab
 
@@ -43,13 +50,13 @@ You can change Basic Stuff there
 ## The General Tab
 Find many basic and Universal Scripts here
 
-![](https://github.com/Fantemil/Hyperlib/blob/main/Media/GeneralSection.gif)
+![](https://github.com/Fantemil/Hyperlib/blob/main/Media/GeneralSection.GIF)
 
 
 ## The Game Hub Tab
 Find The Best Game Hubs Here
 
-![](https://github.com/Fantemil/Hyperlib/blob/main/Media/GameHubs.gif)
+![](https://github.com/Fantemil/Hyperlib/blob/main/Media/GameHubs.GIF)
 
 ## The Keybinds Tab
 You can find Keybinds here. Change Keybinds by clicking on them, then click your desired Key.
@@ -65,5 +72,5 @@ Credits and my Discord User can be found here
 
 Find Scripts for your current Game! Hyperlib has (almost) the entire Script Library of Various Websites!
 
-![](https://github.com/Fantemil/Hyperlib/blob/main/Media/GameSection.gif)
+![](https://github.com/Fantemil/Hyperlib/blob/main/Media/GameSection.GIF)
  
