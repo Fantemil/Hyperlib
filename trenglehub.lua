@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 14:58:08"
+lastupdate = "GMT +1: 09.03.2023 14:58:14"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -17876,3 +17876,5 @@ addscriptexist(7622046644, "Monster Ghoul [Auto Farm - Infinite Stats & More!]",
 addscript(6753141554, "Current Game","Collect Simulator [Auto Weights - Auto Sell]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Collect%20Simulator%20Auto%20Weights%20%20Auto%20Sell.lua")
 
 addscriptexist(7622046644, "Monster Ghoul [Autofarm, Infinite Stats, Invisible]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Monster%20Ghoul%20Autofarm%20Infinite%20Stats%20Invisible.lua")
+
+addscriptexist(4003872968, "Giant Survival [Insta Kill]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Giant%20Survival%20Insta%20Kill.lua")
