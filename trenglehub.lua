@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 13:48:20"
+lastupdate = "GMT +1: 09.03.2023 13:48:24"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -16076,3 +16076,5 @@ addscriptexist(8054462345, "Michael's Zombies [Headshot insta reload]", "pulled 
 addscript(9170761016, "Current Game","Magic Clicker [Auto Click, Click Animation Remove, Auto rebirth]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Magic%20Clicker%20Auto%20Click%20Click%20Animation%20Remove%20Auto%20rebirth.lua")
 
 addscriptexist(863266079, "APOC RISER 2 [Inf Jump, Player Esp, Show Health]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/APOC%20RISER%20%20Inf%20Jump%20Player%20Esp%20Show%20Health.lua")
+
+addscriptexist(1962086868, "Tower of Hell [Auto Win, GodMode, Get All Items]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tower%20of%20Hell%20Auto%20Win%20GodMode%20Get%20All%20Items.lua")
