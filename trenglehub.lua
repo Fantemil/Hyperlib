@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 14:00:20"
+lastupdate = "GMT +1: 09.03.2023 14:00:25"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -16396,3 +16396,5 @@ addscript(8876694280, "Current Game","Strong Simulator X [Auto Farm GUI]", "pull
 addscript(9359379224, "Current Game","Chaotic Bean Simulator Early Beta [Slow Auto Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Chaotic%20Bean%20Simulator%20Early%20Beta%20Slow%20Auto%20Farm.lua")
 
 addscript(9190926538, "Current Game","Toy Fighters [Auto Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Toy%20Fighters%20Auto%20Farm.lua")
+
+addscriptexist(9976239895, "Gumball Factory Tycoon [Full Auto Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Gumball%20Factory%20Tycoon%20Full%20Auto%20Farm.lua")
