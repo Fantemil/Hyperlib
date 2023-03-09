@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 15:13:12"
+lastupdate = "GMT +1: 09.03.2023 15:13:17"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18246,3 +18246,5 @@ addhub("Catix Hub V2 [Supported 252 Games]", "pulled from rbxscript.com", "https
 addhub("Monkey Hub [Supported 8 Games]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Monkey%20Hub%20Supported%20%20Games.lua")
 
 addhub("Owl Hub [Supported 20+ Games]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Owl%20Hub%20Supported%20%20Games.lua")
+
+addhub("Parvus Hub [Supported 5 Games]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Parvus%20Hub%20Supported%20%20Games.lua")
