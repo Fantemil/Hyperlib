@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 13:45:17"
+lastupdate = "GMT +1: 09.03.2023 13:45:21"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -15996,3 +15996,5 @@ addscript(6606507295, "Current Game","Turbo's Murder Mystery 2 [Get Free Paid We
 addscriptexist(5956785391, "Project Slayers [Fish Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Project%20Slayers%20Fish%20Farm.lua")
 
 addscriptexist(4787629450, "BOOGA BOOGA - Classic [Invisible Armor & Tools]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BOOGA%20BOOGA%20%20Classic%20Invisible%20Armor%20%20Tools.lua")
+
+addscriptexist(29812337, "Framed! [ESP]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Framed%20ESP.lua")
