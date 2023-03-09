@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/bostonstrong567/Roblox-Sword-Factory/main/RobloxSwordFactoryMain.lua"))()
