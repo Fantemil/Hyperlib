@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 15:12:17"
+lastupdate = "GMT +1: 09.03.2023 15:12:22"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18224,3 +18224,5 @@ addscriptexist(6284583030, "Pet Simulator X [Auto Farm, Auto Egg Opening, More!]
 addscriptexist(370731277, "MeepCity [Game Destroyer]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MeepCity%20Game%20Destroyer.lua")
 
 addscriptexist(4996049426, "All Star Tower Defense [GUI - Auto Join, Auto Evolve, More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/All%20Star%20Tower%20Defense%20GUI%20%20Auto%20Join%20Auto%20Evolve%20More.lua")
+
+addscriptexist(286090429, "Arsenal [Silent Aim - Fov - ESP & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Arsenal%20Silent%20Aim%20%20Fov%20%20ESP%20%20More.lua")
