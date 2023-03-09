@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 15:55:15"
+lastupdate = "GMT +1: 09.03.2023 15:55:20"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -19300,3 +19300,5 @@ addscript(6186926816, "Current Game","True Piece [Auto farm, Auto Chest, Fruit f
 addscriptexist(6186926816, "Tapping Kingdom [Inf pet storage]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tapping%20Kingdom%20Inf%20pet%20storage.lua")
 
 addscriptexist(2317712696, "The Wild West [Ore Esp]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/The%20Wild%20West%20Ore%20Esp.lua")
+
+addscriptexist(654732683, "Car Crusher 2 [Core Control GUI]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Car%20Crusher%20%20Core%20Control%20GUI.lua")
