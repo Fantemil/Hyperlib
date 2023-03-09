@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 13:59:29"
+lastupdate = "GMT +1: 09.03.2023 13:59:34"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -16374,3 +16374,5 @@ addscriptexist(698448212, "RoBeats! [Free Ugc Item]", "pulled from rbxscript.com
 addscriptexist(4850718823, "Skate Park [Free Ugc Items]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Skate%20Park%20Free%20Ugc%20Items.lua")
 
 addscriptexist(4651779470, "RECOIL [GUI - Max Ammo, No Spread]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RECOIL%20GUI%20%20Max%20Ammo%20No%20Spread.lua")
+
+addscript(4746041618, "Current Game","Steel Titans [ESP, Deleting objects]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Steel%20Titans%20ESP%20Deleting%20objects.lua")
