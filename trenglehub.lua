@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 14:29:23"
+lastupdate = "GMT +1: 09.03.2023 14:29:32"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -17142,3 +17142,5 @@ addscriptexist(7056922815, "Rapeer 2 [AutoFarm, Auto Quest, Auto Equip]", "pulle
 addscriptexist(1962086868, "Tower Of Hell [AutoWin, GodMode, SpeedHack]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tower%20Of%20Hell%20AutoWin%20GodMode%20SpeedHack.lua")
 
 addscriptexist(5910449407, "Project Menacing [Stand Farm - God Mode & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Project%20Menacing%20Stand%20Farm%20%20God%20Mode%20%20More.lua")
+
+addscriptexist(443406476, "Project Lazarus ZOMBIES [Silent Aim - Gun Mods]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Project%20Lazarus%20ZOMBIES%20Silent%20Aim%20%20Gun%20Mods.lua")
