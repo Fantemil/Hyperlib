@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 14:33:55"
+lastupdate = "GMT +1: 09.03.2023 14:34:02"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -17258,3 +17258,5 @@ addscriptexist(9677464361, "Basketball Pro Simulator [Perfect Shot, Upgrade Powe
 addscriptexist(4954096313, "Field Trip Z [Donut, Bandage, GodMode]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Field%20Trip%20Z%20Donut%20Bandage%20GodMode.lua")
 
 addscriptexist(6953291455, "Eating Simulator [Grow Fatness, Auto Rebirth, Safe Place]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Eating%20Simulator%20Grow%20Fatness%20Auto%20Rebirth%20Safe%20Place.lua")
+
+addscriptexist(155382109, "Survive and Kill the Killers in Area 51 [Give All Guns, WalkSpeed, Anti Afk]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Survive%20and%20Kill%20the%20Killers%20in%20Area%20%20Give%20All%20Guns%20WalkSpeed%20Anti%20Afk.lua")
