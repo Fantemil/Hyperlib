@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 13:47:15"
+lastupdate = "GMT +1: 09.03.2023 13:47:19"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -16048,3 +16048,5 @@ addscriptexist(10001513103, "Limited Words [Unlimited spins, unlimited words]", 
 addscript(6273865312, "Current Game","Supernatural Simulator [Auto Sell, Auto Lvl Up]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Supernatural%20Simulator%20Auto%20Sell%20Auto%20Lvl%20Up.lua")
 
 addscriptexist(1899149341, "Vehicle Tycoon [Collect All Gifts]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Vehicle%20Tycoon%20Collect%20All%20Gifts.lua")
+
+addscript(10191372093, "Current Game","Guillotine Tycoon [Auto Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Guillotine%20Tycoon%20Auto%20Farm.lua")
