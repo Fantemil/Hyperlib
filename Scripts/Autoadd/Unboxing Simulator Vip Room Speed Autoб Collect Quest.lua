@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Legenda06/Unboxing-Simulator/main/Unboxing%20Simulator",true))()
