@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 13:53:15"
+lastupdate = "GMT +1: 09.03.2023 13:53:20"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -16206,3 +16206,5 @@ addscriptexist(5956785391, "Project Slayers [GUI -Auto Quest, Invisible & More!]
 addscriptexist(5956785391, "Project Slayers [Teleport to Player]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Project%20Slayers%20Teleport%20to%20Player.lua")
 
 addscriptexist(5956785391, "Project Slayers [Teleport to Bosses]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Project%20Slayers%20Teleport%20to%20Bosses.lua")
+
+addscriptexist(5956785391, "Project Slayers [Lag Server]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Project%20Slayers%20Lag%20Server.lua")
