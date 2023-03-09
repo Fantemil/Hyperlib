@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Deni210/madcity/main/AutoRob", true))()
