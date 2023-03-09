@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 15:46:16"
+lastupdate = "GMT +1: 09.03.2023 15:46:21"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -19078,3 +19078,5 @@ addscriptexist(1962086868, "Tower Of Hell [Bypass Anti Cheat - TP To End - Get A
 addscriptexist(3210622855, "Manners Badge Walk [Get All Badges For Cave World]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Manners%20Badge%20Walk%20Get%20All%20Badges%20For%20Cave%20World.lua")
 
 addscriptexist(3210622855, "Manners Badge Walk [Get All Badges For Sky World]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Manners%20Badge%20Walk%20Get%20All%20Badges%20For%20Sky%20World.lua")
+
+addscript(8003084678, "Current Game","oMega Obby Parkour 525 Stages [Infinite Prestige]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/oMega%20Obby%20Parkour%20%20Stages%20Infinite%20Prestige.lua")
