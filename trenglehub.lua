@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 13:46:16"
+lastupdate = "GMT +1: 09.03.2023 13:46:22"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -16022,3 +16022,5 @@ addscriptexist(1224212277, "Mad City: Chapter 2 [Faster Auto Rob]", "pulled from
 addscriptexist(1224212277, "Mad City: Chapter 2 [Silent Aim - Wall Bang - Easy Xp & Money]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mad%20City%20Chapter%20%20Silent%20Aim%20%20Wall%20Bang%20%20Easy%20Xp%20%20Money.lua")
 
 addscriptexist(893973440, "Flee the Facility [Auto Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Flee%20the%20Facility%20Auto%20Farm.lua")
+
+addscript(9800759618, "Current Game","Amanda [Story] [Auto Revive]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Amanda%20Story%20Auto%20Revive.lua")
