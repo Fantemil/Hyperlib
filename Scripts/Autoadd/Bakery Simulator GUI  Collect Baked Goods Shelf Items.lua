@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Developer1Liam/Scripts/main/BakerySim", true))()
