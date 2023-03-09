@@ -1,0 +1,1 @@
+loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/Relkss/blah-blah-blah/main/Goofy%20Ahh%20Script.lua",true))();
