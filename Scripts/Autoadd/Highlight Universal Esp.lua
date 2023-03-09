@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://fluxteam.net/scripts/NewESP.lua", true))()
