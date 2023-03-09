@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 14:27:10"
+lastupdate = "GMT +1: 09.03.2023 14:27:14"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -17082,3 +17082,5 @@ addscriptexist(4540286603, "NORTHWIND [Lag Bomb]", "pulled from rbxscript.com", 
 addscript(9558297703, "Current Game","Fortnite! [ESP - Silent AIM - Unlock Skins - GUI]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Fortnite%20ESP%20%20Silent%20AIM%20%20Unlock%20Skins%20%20GUI.lua")
 
 addscript(2602644507, "Current Game","Clone Wars Enrage [Kill All]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Clone%20Wars%20Enrage%20Kill%20All.lua")
+
+addscriptexist(9726345231, "Duolingo Game Hub [Auto Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Duolingo%20Game%20Hub%20Auto%20Farm.lua")
