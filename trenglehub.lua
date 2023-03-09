@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 14:46:42"
+lastupdate = "GMT +1: 09.03.2023 14:46:46"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -17578,3 +17578,5 @@ addscriptexist(6708206173, "Rate My Avatar [Random rate all, Rate All, Rate Amou
 addscriptexist(5326405001, "Base Battles [Dogtags XP Auto Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Base%20Battles%20Dogtags%20XP%20Auto%20Farm.lua")
 
 addscript(5678279798, "Current Game","Fight Club [Kill Aura GUI]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Fight%20Club%20Kill%20Aura%20GUI.lua")
+
+addscript(9438506890, "Current Game","raise a sogga [Infinite Money]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/raise%20a%20sogga%20Infinite%20Money.lua")
