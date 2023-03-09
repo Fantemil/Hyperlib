@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 14:02:47"
+lastupdate = "GMT +1: 09.03.2023 14:02:52"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -16460,3 +16460,5 @@ addscriptexist(292439477, "Phantom Forces [Silent Aim]", "pulled from rbxscript.
 addscriptexist(10118559731, "Nico’s Nextbots [Bots Esp - Teleport To Safezone]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Nicos%20Nextbots%20Bots%20Esp%20%20Teleport%20To%20Safezone.lua")
 
 addscriptexist(5307215810, "Randomizer [Esp, Aimbot, WalkSPeed]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Randomizer%20Esp%20Aimbot%20WalkSPeed.lua")
+
+addscript(9597319358, "Current Game","Actors Tycoon [AutoFarm Buttons, Auto Upgrade Workers, Working on mobile]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Actors%20Tycoon%20AutoFarm%20Buttons%20Auto%20Upgrade%20Workers%20Working%20on%20mobile.lua")
