@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 13:31:45"
+lastupdate = "GMT +1: 09.03.2023 13:31:49"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -15640,3 +15640,5 @@ addscriptexist(9744597824, "Sea Piece [Distance From NPC Slider, Auto Farm Toggl
 addscriptexist(10184360875, "Pet&Fishing Simulator [Fast Auto Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PetFishing%20Simulator%20Fast%20Auto%20Farm.lua")
 
 addscriptuniversal("Roblox [Universal tpwalk]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Roblox%20Universal%20tpwalk.lua")
+
+addscriptexist(7026949294, "Sword Simulator [Auto Mobs, Auto Eggs, Mob Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sword%20Simulator%20Auto%20Mobs%20Auto%20Eggs%20Mob%20Farm.lua")
