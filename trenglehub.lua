@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 13:41:21"
+lastupdate = "GMT +1: 09.03.2023 13:41:26"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -15892,3 +15892,5 @@ addscript(9702206679, "Current Game","Heroes Daydream [Auto Farm V2]", "pulled f
 addscriptexist(2474168535, "Westbound [Auto Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Westbound%20Auto%20Farm.lua")
 
 addscriptexist(5571328985, "Bloodlines [Infinite Cash & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Bloodlines%20Infinite%20Cash%20%20More.lua")
+
+addscriptexist(9702206679, "Heroes Daydream [Auto Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Heroes%20Daydream%20Auto%20Farm.lua")
