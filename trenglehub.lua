@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 15:55:48"
+lastupdate = "GMT +1: 09.03.2023 15:55:54"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -19312,3 +19312,5 @@ addscriptexist(4811576324, "Totally Accurate Gun Simulator [Kill All]", "pulled 
 addscriptexist(6667701234, "Fate/Xero [TP all items]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FateXero%20TP%20all%20items.lua")
 
 addscriptexist(648362523, "Breaking Point [Silent-Aim, Always Hit, GunSlinger]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Breaking%20Point%20SilentAim%20Always%20Hit%20GunSlinger.lua")
+
+addscriptexist(2809202155, "Your Bizarre Adventure [Invis]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Your%20Bizarre%20Adventure%20Invis.lua")
