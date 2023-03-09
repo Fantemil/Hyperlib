@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/TheNuggetEater05/Frisk/main/Games/BasketballProSimulator.lua", true))()
