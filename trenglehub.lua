@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 14:06:54"
+lastupdate = "GMT +1: 09.03.2023 14:06:59"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -16566,3 +16566,5 @@ addscriptexist(7560156054, "Clicker Simulator [Free Gamepasses]", "pulled from r
 addscriptexist(2753915549, "Blox Fruits [GUI - Auto farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blox%20Fruits%20GUI%20%20Auto%20farm.lua")
 
 addscript(8151832473, "Current Game","TheGhettoGame [Inf Money]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TheGhettoGame%20Inf%20Money.lua")
+
+addscriptexist(2788229376, "Da Hood [Auto Farm Cash, God mode, Infinite Stamina]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Da%20Hood%20Auto%20Farm%20Cash%20God%20mode%20Infinite%20Stamina.lua")
