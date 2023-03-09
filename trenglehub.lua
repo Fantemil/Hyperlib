@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 16:01:24"
+lastupdate = "GMT +1: 09.03.2023 16:01:29"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -19448,3 +19448,5 @@ addscriptexist(4111023553, "DEEPWOKEN [Enchant Sniper]", "pulled from rbxscript.
 addscriptexist(8811271345, "Balanced Craftwars Overhaul [GUI - Mob Farm, Ore Farm, Players Kill]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Balanced%20Craftwars%20Overhaul%20GUI%20%20Mob%20Farm%20Ore%20Farm%20Players%20Kill.lua")
 
 addscriptexist(6677985923, "Millionaire Empire Tycoon [Inf Cash]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Millionaire%20Empire%20Tycoon%20Inf%20Cash.lua")
+
+addscriptexist(8917641854, "Sword Factory [Auto make SwordS, Auto kill, Hide name]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sword%20Factory%20Auto%20make%20SwordS%20Auto%20kill%20Hide%20name.lua")
