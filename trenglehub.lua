@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 14:40:18"
+lastupdate = "GMT +1: 09.03.2023 14:40:24"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -17422,3 +17422,5 @@ addscriptexist(6143963763, "Untitled Combat Arena [Auto Farm Money]", "pulled fr
 addscriptexist(2768379856, "3008 [2.7] [Admin Spoofer]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/%20%20Admin%20Spoofer.lua")
 
 addhub("x2SPETER HUB [5 Games]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/xSPETER%20HUB%20%20Games.lua")
+
+addscript(5534936306, "Current Game","A JOJO UNIVERSE [Destroy Game]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/A%20JOJO%20UNIVERSE%20Destroy%20Game.lua")
