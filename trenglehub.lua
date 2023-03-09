@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 15:12:09"
+lastupdate = "GMT +1: 09.03.2023 15:12:13"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18220,3 +18220,5 @@ addscriptexist(4588604953, "Criminality [Hitbox Extender]", "pulled from rbxscri
 addscriptexist(9426082120, "Samsung Superstar Galaxy [Auto Farm, Claim Rewards & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Samsung%20Superstar%20Galaxy%20Auto%20Farm%20Claim%20Rewards%20%20More.lua")
 
 addscriptexist(6284583030, "Pet Simulator X [Auto Farm, Auto Egg Opening, More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pet%20Simulator%20X%20Auto%20Farm%20Auto%20Egg%20Opening%20More.lua")
+
+addscriptexist(370731277, "MeepCity [Game Destroyer]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MeepCity%20Game%20Destroyer.lua")
