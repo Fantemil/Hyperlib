@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 15:09:47"
+lastupdate = "GMT +1: 09.03.2023 15:09:52"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18162,3 +18162,5 @@ addscriptexist(8540346411, "Rebirth Champions X [Unlimited Clicks Farm]", "pulle
 addscript(6622795055, "Current Game","Berkeley County, Concord [Client Anti Cheat Bypass]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Berkeley%20County%20Concord%20Client%20Anti%20Cheat%20Bypass.lua")
 
 addscriptexist(8377686524, "Undertale: Last Reset [Auto farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Undertale%20Last%20Reset%20Auto%20farm.lua")
+
+addscriptexist(6679274937, "Vans World [Max Level - Open Sourse]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Vans%20World%20Max%20Level%20%20Open%20Sourse.lua")
