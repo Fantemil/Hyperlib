@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 13:34:35"
+lastupdate = "GMT +1: 09.03.2023 13:34:41"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -15718,3 +15718,5 @@ addscriptexist(2788229376, "Dahood [Speed Macro]", "pulled from rbxscript.com", 
 addscriptexist(2377868063, "Strucid [GUI - Aimbot, Triger Bot, Gun Mod]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Strucid%20GUI%20%20Aimbot%20Triger%20Bot%20Gun%20Mod.lua")
 
 addscriptexist(7991339063, "Rainbow Friends [GUI - Attempt Tp PickUp All Items]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Rainbow%20Friends%20GUI%20%20Attempt%20Tp%20PickUp%20All%20Items.lua")
+
+addscriptexist(2474168535, "Westbound [AimBot]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Westbound%20AimBot.lua")
