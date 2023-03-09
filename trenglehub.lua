@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 14:39:26"
+lastupdate = "GMT +1: 09.03.2023 14:39:32"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -17400,3 +17400,5 @@ addscriptexist(8425637426, "Write a Letter [Free Animation]", "pulled from rbxsc
 addscriptexist(112420803, "Kohls Admin House NBC [Admin CMD]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Kohls%20Admin%20House%20NBC%20Admin%20CMD.lua")
 
 addscriptexist(8448735476, "Anime Rifts [Auto Attack , Auto Skills , Auto Mob]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime%20Rifts%20Auto%20Attack%20%20Auto%20Skills%20%20Auto%20Mob.lua")
+
+addscriptexist(4540286603, "NORTHWIND [Player Esp]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NORTHWIND%20Player%20Esp.lua")
