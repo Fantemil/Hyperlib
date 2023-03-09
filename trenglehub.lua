@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 13:33:20"
+lastupdate = "GMT +1: 09.03.2023 13:33:24"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -15682,3 +15682,5 @@ addscriptexist(606849621, "Jailbreak [FE RESIZE WITH NO LIMIT]", "pulled from rb
 addscriptexist(9677464361, "Basketball Pro Simulator [Auto Farm, uto Upgrade]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Basketball%20Pro%20Simulator%20Auto%20Farm%20uto%20Upgrade.lua")
 
 addscriptexist(9744597824, "Sea Piece [Auto Farm, Auto Stats, Teleport]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sea%20Piece%20Auto%20Farm%20Auto%20Stats%20Teleport.lua")
+
+addscriptexist(292439477, "Phantom Forces [Silent Aim, Esp, NoRecoil]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Phantom%20Forces%20Silent%20Aim%20Esp%20NoRecoil.lua")
