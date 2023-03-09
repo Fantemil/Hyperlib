@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 14:00:07"
+lastupdate = "GMT +1: 09.03.2023 14:00:12"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -16390,3 +16390,5 @@ addscript(2677609345, "Current Game","Sound Space [GUI - Dance Aimbot]", "pulled
 addscriptexist(2727067538, "World Zero [Kill Aura]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/World%20Zero%20Kill%20Aura.lua")
 
 addscriptexist(4588604953, "Criminality [Based Auto Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Criminality%20Based%20Auto%20Farm.lua")
+
+addscript(8876694280, "Current Game","Strong Simulator X [Auto Farm GUI]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Strong%20Simulator%20X%20Auto%20Farm%20GUI.lua")
