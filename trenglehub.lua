@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 14:10:30"
+lastupdate = "GMT +1: 09.03.2023 14:10:37"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -16654,3 +16654,5 @@ addscriptexist(9936860371, "Egg Packing Tycoon [Semi Auto Farm]", "pulled from r
 addscriptexist(8303902695, "Pet Posse [Auto Rebirth]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pet%20Posse%20Auto%20Rebirth.lua")
 
 addscriptexist(537413528, "Build A Boat For Treasure [Infinite Blocks]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Build%20A%20Boat%20For%20Treasure%20Infinite%20Blocks.lua")
+
+addscriptexist(9976239895, "Gumball Factory Tycoon [Obby Multiplier]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Gumball%20Factory%20Tycoon%20Obby%20Multiplier.lua")
