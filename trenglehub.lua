@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 16:04:04"
+lastupdate = "GMT +1: 09.03.2023 16:04:09"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -19512,3 +19512,5 @@ addscriptexist(4580204640, "Survive the Killer [Auto Farm]", "pulled from rbxscr
 addscriptexist(4996049426, "All Star Tower Defense [Auto Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/All%20Star%20Tower%20Defense%20Auto%20Farm.lua")
 
 addscriptexist(4616652839, "Shindo Life [Auto Spin - Auto Rejoin]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Shindo%20Life%20Auto%20Spin%20%20Auto%20Rejoin.lua")
+
+addscriptexist(1537690962, "Bee Swarm Simulator [Redeem Codes - Get Boosts & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Bee%20Swarm%20Simulator%20Redeem%20Codes%20%20Get%20Boosts%20%20More.lua")
