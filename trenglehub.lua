@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 14:46:21"
+lastupdate = "GMT +1: 09.03.2023 14:46:28"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -17572,3 +17572,5 @@ addscriptexist(340227283, "RoBowling [AimBot]", "pulled from rbxscript.com", "ht
 addscriptexist(1240123653, "Zombie Attack [Auto Farm, God Mode, Infinite Jump]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Zombie%20Attack%20Auto%20Farm%20God%20Mode%20Infinite%20Jump.lua")
 
 addscriptexist(7305309231, "Taxi Boss [Auto Farm, Set Minimum Rating (For Auto Farm), Auto Race]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Taxi%20Boss%20Auto%20Farm%20Set%20Minimum%20Rating%20For%20Auto%20Farm%20Auto%20Race.lua")
+
+addscriptexist(6708206173, "Rate My Avatar [Random rate all, Rate All, Rate Amount]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Rate%20My%20Avatar%20Random%20rate%20all%20Rate%20All%20Rate%20Amount.lua")
