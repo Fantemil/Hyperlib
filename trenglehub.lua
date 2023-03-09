@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 14:44:11"
+lastupdate = "GMT +1: 09.03.2023 14:44:15"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -17518,3 +17518,5 @@ addscriptexist(292439477, "Phantom Forces [Unlock All Guns - Admin Guns]", "pull
 addscriptexist(6728870912, "World of Stands [Inf Gold, Masks & God Mode]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/World%20of%20Stands%20Inf%20Gold%20Masks%20%20God%20Mode.lua")
 
 addscript(1927139201, "Current Game","Day of Dusk - The Border [Auto Mine Ores]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Day%20of%20Dusk%20%20The%20Border%20Auto%20Mine%20Ores.lua")
+
+addscriptexist(4616652839, "Shindo Life [AutoFarm, Infinity spins, War farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Shindo%20Life%20AutoFarm%20Infinity%20spins%20War%20farm.lua")
