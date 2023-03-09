@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 12:51:03"
+lastupdate = "GMT +1: 09.03.2023 12:51:08"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -15170,3 +15170,5 @@ addscriptexist(9845465117, "AU:Reborn [Auto Farm]", "pulled from rbxscript.com",
 addscriptexist(9845465117, "AU:Reborn [Auto Farm, Tp]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AUReborn%20Auto%20Farm%20Tp.lua")
 
 addscript(4863541388, "Current Game","Scythe Masters [Redeem codes]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Scythe%20Masters%20Redeem%20codes.lua")
+
+addscript(7428716219, "Current Game","BREAKING BAD: THE TYCOON [Kill All]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BREAKING%20BAD%20THE%20TYCOON%20Kill%20All.lua")
