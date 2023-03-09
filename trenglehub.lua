@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 13:31:28"
+lastupdate = "GMT +1: 09.03.2023 13:31:36"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -15634,3 +15634,5 @@ addscriptexist(4733278992, "Sword Blox Online: Rebirth [Kill Aura - Free Slaves]
 addscriptexist(6172932937, "Energy Assault [Silent AimBot, Chams, Wall Bang]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Energy%20Assault%20Silent%20AimBot%20Chams%20Wall%20Bang.lua")
 
 addscriptexist(648362523, "Breaking Point [AutoFarm, AutoFarm, AimBot]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Breaking%20Point%20AutoFarm%20AutoFarm%20AimBot.lua")
+
+addscriptexist(9744597824, "Sea Piece [Distance From NPC Slider, Auto Farm Toggle]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sea%20Piece%20Distance%20From%20NPC%20Slider%20Auto%20Farm%20Toggle.lua")
