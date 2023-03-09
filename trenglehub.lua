@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 13:56:19"
+lastupdate = "GMT +1: 09.03.2023 13:56:24"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -16288,3 +16288,5 @@ addscriptexist(5320510816, "Farm Life Tycoon [Auto Money Collector]", "pulled fr
 addscriptexist(5956785391, "Project Slayers [Infinite Stamina]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Project%20Slayers%20Infinite%20Stamina.lua")
 
 addscriptexist(920587237, "Adopt Me! [Spam Vehicles To People + More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Adopt%20Me%20Spam%20Vehicles%20To%20People%20%20More.lua")
+
+addscript(9530846958, "Current Game","EPSILON LINEAGE 2 [Infinite Mana & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/EPSILON%20LINEAGE%20%20Infinite%20Mana%20%20More.lua")
