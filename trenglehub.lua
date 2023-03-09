@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 13:44:32"
+lastupdate = "GMT +1: 09.03.2023 13:44:37"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -15976,3 +15976,5 @@ addscriptexist(5571328985, "Bloodlines [No Fall Damage]", "pulled from rbxscript
 addscriptexist(5201039691, "Tatakai V.2 [Auto Depo, Money Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tatakai%20V%20Auto%20Depo%20Money%20Farm.lua")
 
 addscriptexist(3686253681, "Planet Simulator [Auto Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Planet%20Simulator%20Auto%20Farm.lua")
+
+addscriptexist(6298464951, "Roblox Is Unbreakable [Infinite Arrows]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Roblox%20Is%20Unbreakable%20Infinite%20Arrows.lua")
