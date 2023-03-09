@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 12:51:39"
+lastupdate = "GMT +1: 09.03.2023 12:51:43"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -15186,3 +15186,5 @@ addscriptexist(9872472334, "Evade [Walkspeed]", "pulled from rbxscript.com", "ht
 addscriptexist(10070062081, "Minion Simulator [Auto Farm, Walkspeed]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Minion%20Simulator%20Auto%20Farm%20Walkspeed.lua")
 
 addscriptexist(8573962925, "Alternate Battlegrounds [Auto Click, PlayerSnipe]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Alternate%20Battlegrounds%20Auto%20Click%20PlayerSnipe.lua")
+
+addscriptexist(5620664339, "RoStreets [Silent Aim, KillAura]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RoStreets%20Silent%20Aim%20KillAura.lua")
