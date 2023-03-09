@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 13:39:05"
+lastupdate = "GMT +1: 09.03.2023 13:39:13"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -15836,3 +15836,5 @@ addscriptexist(10118559731, "nico's nextbots [AutoBhop]", "pulled from rbxscript
 addscript(8222131500, "Current Game","Island Survival [AutoHelp-Hop]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Island%20Survival%20AutoHelpHop.lua")
 
 addscriptexist(4282985734, "Combat Warriors [Full client ac bypass]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Combat%20Warriors%20Full%20client%20ac%20bypass.lua")
+
+addscriptexist(914010731, "Ro-Ghoul [Invis, Click Tp, Click Tp Speed]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RoGhoul%20Invis%20Click%20Tp%20Click%20Tp%20Speed.lua")
