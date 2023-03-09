@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 14:52:02"
+lastupdate = "GMT +1: 09.03.2023 14:52:09"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -17720,3 +17720,5 @@ addscriptexist(4855457388, "Demonfall [Auto Farm Mobs,Ore And More!]", "pulled f
 addscriptexist(5154858502, "Murderers vs Sheriffs [Insta Kill]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Murderers%20vs%20Sheriffs%20Insta%20Kill.lua")
 
 addscriptexist(8581609150, "Bloxhub - Mine Mania [Auto Sell]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Bloxhub%20%20Mine%20Mania%20Auto%20Sell.lua")
+
+addscriptexist(1537690962, "Bee Swarm Simulator [Redeem Codes, Auto Farm, Royal Yelly ESP]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Bee%20Swarm%20Simulator%20Redeem%20Codes%20Auto%20Farm%20Royal%20Yelly%20ESP.lua")
