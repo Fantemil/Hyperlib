@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 14:48:31"
+lastupdate = "GMT +1: 09.03.2023 14:48:35"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -17628,3 +17628,5 @@ addhub("Vinux Universal Hub [INF TOKENS, FE GALE, ART GRABBER]", "pulled from rb
 addscript(6028157264, "Current Game","My Hospital [INf Money]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/My%20Hospital%20INf%20Money.lua")
 
 addscript(8363125306, "Current Game","Outdoor Brawling [Get Advance, No Stun, No Carry]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Outdoor%20Brawling%20Get%20Advance%20No%20Stun%20No%20Carry.lua")
+
+addscriptexist(9049840490, "Sonic Speed Simulator [Auto Run, Auto Rebirth, Auto Win Race]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sonic%20Speed%20Simulator%20Auto%20Run%20Auto%20Rebirth%20Auto%20Win%20Race.lua")
