@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 14:40:00"
+lastupdate = "GMT +1: 09.03.2023 14:40:05"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -17414,3 +17414,5 @@ addscript(7799826347, "Current Game","Sandbox Tycoon [SANDBOX SCHEMATICS OVERPOW
 addscriptexist(3271747724, "MEGA Boss Survival [Infinite Money]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MEGA%20Boss%20Survival%20Infinite%20Money.lua")
 
 addscriptexist(9049840490, "Sonic Speed Simulator [Instantly get 7.5k Chili Dogs]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sonic%20Speed%20Simulator%20Instantly%20get%20k%20Chili%20Dogs.lua")
+
+addscriptexist(292439477, "Phantom Forces [Open Source ESP]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Phantom%20Forces%20Open%20Source%20ESP.lua")
