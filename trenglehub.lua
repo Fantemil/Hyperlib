@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 08.03.2023 21:22:17"
+lastupdate = "GMT +1: 09.03.2023 12:00:26"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -15082,3 +15082,5 @@ addscriptexist(10315830663, "Cant Say The Letter [Give Tools]", "pulled from rbx
 addscriptexist(10315830663, "Cant Say The Letter [Can says Letter]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Cant%20Say%20The%20Letter%20Can%20says%20Letter.lua")
 
 addscript(10011532704, "Current Game","Anime Brawl Simulator [Inf Stars]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime%20Brawl%20Simulator%20Inf%20Stars.lua")
+
+addscriptexist(9992339729, "Longest Answer Wins: Anti Afk, Auto Answer & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Longest%20Answer%20Wins%20Anti%20Afk%20Auto%20Answer%20%20More.lua")
