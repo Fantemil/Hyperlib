@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 14:02:29"
+lastupdate = "GMT +1: 09.03.2023 14:02:35"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -16452,3 +16452,5 @@ addscriptexist(9359379224, "Chaotic Bean Simulator [Auto Farm]", "pulled from rb
 addscriptexist(1537690962, "Bee Swarm Simulator [GUI - Auto Dig, Auto Farm & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Bee%20Swarm%20Simulator%20GUI%20%20Auto%20Dig%20Auto%20Farm%20%20More.lua")
 
 addscriptexist(2506738224, "Fallen [Magic Bullet]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Fallen%20Magic%20Bullet.lua")
+
+addscriptexist(8884334497, "Mining Clicker Simulator [GUI - Auto Clicks, Auto Rebirth & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mining%20Clicker%20Simulator%20GUI%20%20Auto%20Clicks%20Auto%20Rebirth%20%20More.lua")
