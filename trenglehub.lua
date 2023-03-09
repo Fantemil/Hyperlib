@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 15:38:38"
+lastupdate = "GMT +1: 09.03.2023 15:38:42"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18884,3 +18884,5 @@ addscriptexist(7817016260, "Bloxston Mystery [Discover Everyones Roles]", "pulle
 addscriptexist(4111023553, "Deepwoken [Chest ESP, No Fog, And More]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Deepwoken%20Chest%20ESP%20No%20Fog%20And%20More.lua")
 
 addscriptexist(3501626887, "Diceboy [Bring Dicecoins]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Diceboy%20Bring%20Dicecoins.lua")
+
+addscriptexist(632642533, "DeadMist 2 Beta [Grab Dead Bodies]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DeadMist%20%20Beta%20Grab%20Dead%20Bodies.lua")
