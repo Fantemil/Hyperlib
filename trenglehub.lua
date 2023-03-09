@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 15:54:47"
+lastupdate = "GMT +1: 09.03.2023 15:54:51"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -19288,3 +19288,5 @@ addscriptexist(6783611814, "Build a Boat to Survive [24KGOLDN Event]", "pulled f
 addscriptexist(292439477, "Phantom Forces [Skin editing]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Phantom%20Forces%20Skin%20editing.lua")
 
 addscriptexist(221718525, "Ninja Tycoon [Auto Click]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ninja%20Tycoon%20Auto%20Click.lua")
+
+addscript(6683744559, "Current Game","Fighters EX [Spoof username]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Fighters%20EX%20Spoof%20username.lua")
