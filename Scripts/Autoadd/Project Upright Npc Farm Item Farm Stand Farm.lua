@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://raw.githubusercontent.com/CandyIsAbsolute/RobloxScripts/main/ProjectUpright/Autofarm.lua'))()
