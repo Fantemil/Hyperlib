@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 15:31:31"
+lastupdate = "GMT +1: 09.03.2023 15:31:36"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18708,3 +18708,5 @@ addscriptexist(8750997647, "Tapping Legends X [GUI - Auto Farm]", "pulled from r
 addscriptexist(6297822481, "Titan Warfare [Inf Gas]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Titan%20Warfare%20Inf%20Gas.lua")
 
 addscriptexist(9203864304, "raise a floppa [Auto Click Floppa, Auto Collect money, Auto Buy]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/raise%20a%20floppa%20Auto%20Click%20Floppa%20Auto%20Collect%20money%20Auto%20Buy.lua")
+
+addscriptexist(4566572536, "Vehicle Legends [Speed Boost, Rainbow color]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Vehicle%20Legends%20Speed%20Boost%20Rainbow%20color.lua")
