@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 15:14:26"
+lastupdate = "GMT +1: 09.03.2023 15:14:31"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18278,3 +18278,5 @@ addscript(9487450292, "Current Game","Weak Piece [Kill Everything]", "pulled fro
 addscriptexist(292439477, "Phantom Forces [22 Hub - Free To Use - Aimbot & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Phantom%20Forces%20%20Hub%20%20Free%20To%20Use%20%20Aimbot%20%20More.lua")
 
 addscriptexist(9344944754, "Hunter x Omen [Auto Speed Train]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Hunter%20x%20Omen%20Auto%20Speed%20Train.lua")
+
+addscriptexist(9203864304, "Raise a Floppa [Insta Finish]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Raise%20a%20Floppa%20Insta%20Finish.lua")
