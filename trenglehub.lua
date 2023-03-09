@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 15:00:19"
+lastupdate = "GMT +1: 09.03.2023 15:00:24"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -17928,3 +17928,5 @@ addscriptexist(7560156054, "Clicker Simulator [Auto Click, Auto Rebirths, Auto S
 addhub("Absolutionism Hub [Free Hub - 5 Games]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Absolutionism%20Hub%20Free%20Hub%20%20%20Games.lua")
 
 addscriptexist(8278412720, "Prison Life Remastered [Auto Farm GUI - Teleports & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Prison%20Life%20Remastered%20Auto%20Farm%20GUI%20%20Teleports%20%20More.lua")
+
+addscriptexist(8278412720, "Prison Life Remastered [Silent Aim]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Prison%20Life%20Remastered%20Silent%20Aim.lua")
