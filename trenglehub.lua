@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 14:11:48"
+lastupdate = "GMT +1: 09.03.2023 14:11:53"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -16688,3 +16688,5 @@ addscriptexist(9936860371, "Egg Packing Tycoon [GUI - Auto Collect Eggs, Auto Pl
 addscriptexist(6284583030, "Pet Simulator X [GUI - Auto Farm, Auto Collect All & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pet%20Simulator%20X%20GUI%20%20Auto%20Farm%20Auto%20Collect%20All%20%20More.lua")
 
 addscriptexist(70005410, "Blox Hunt [God Mode, Infinite Energy]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blox%20Hunt%20God%20Mode%20Infinite%20Energy.lua")
+
+addscriptexist(4588604953, "Criminality [Auto Block]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Criminality%20Auto%20Block.lua")
