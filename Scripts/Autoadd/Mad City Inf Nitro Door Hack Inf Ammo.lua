@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Marco8642/science/main/mad%20city%20v2", true))()
