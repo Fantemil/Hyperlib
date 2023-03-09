@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 16:00:20"
+lastupdate = "GMT +1: 09.03.2023 16:00:25"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -19424,3 +19424,5 @@ addscript(8479386309, "Current Game","Egg Hunt 2022 Lost in Time [Collect All Co
 addscriptexist(7419509075, "cart ride around used car battery [Spawn Carts & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/cart%20ride%20around%20used%20car%20battery%20Spawn%20Carts%20%20More.lua")
 
 addscript(8639059522, "Current Game","Magnifying Simulator [Damage Multiplier]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Magnifying%20Simulator%20Damage%20Multiplier.lua")
+
+addscriptexist(1224212277, "Mad City [Infinite Xp - Get To Level 100 In 2 Hours]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mad%20City%20Infinite%20Xp%20%20Get%20To%20Level%20%20In%20%20Hours.lua")
