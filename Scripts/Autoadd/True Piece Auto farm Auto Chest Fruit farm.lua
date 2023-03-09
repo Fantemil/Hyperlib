@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Sypse/Freescripts/main/TruePiece.lua"))();
