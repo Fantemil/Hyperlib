@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 15:13:48"
+lastupdate = "GMT +1: 09.03.2023 15:13:52"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18262,3 +18262,5 @@ addscriptexist(5108587039, "Palm Ridge Beta [Auto Farm – Open Sourse]", "pulle
 addscriptexist(5783581, "TPS Ultimate Soccer [Shoot, Auto Goal Keep & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TPS%20Ultimate%20Soccer%20Shoot%20Auto%20Goal%20Keep%20%20More.lua")
 
 addscriptexist(9344944754, "Hunter x Omen [Auto Climb Training]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Hunter%20x%20Omen%20Auto%20Climb%20Training.lua")
+
+addscript(8090572921, "Current Game","Multiverse Fighters Simulator [Auto Click - Auto Attack Npcs]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Multiverse%20Fighters%20Simulator%20Auto%20Click%20%20Auto%20Attack%20Npcs.lua")
