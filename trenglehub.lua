@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 15:39:52"
+lastupdate = "GMT +1: 09.03.2023 15:39:56"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18918,3 +18918,5 @@ addscriptexist(9049840490, "Sonic Speed Simulator [Get 15K Coins Every 6 Hours]"
 addscriptexist(6878438976, "Developer Inc. [10K Cash In 30 Seconds]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Developer%20Inc%20K%20Cash%20In%20%20Seconds.lua")
 
 addscriptexist(386329050, "The Black Mesa Incident [Free Gamepass Gun]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/The%20Black%20Mesa%20Incident%20Free%20Gamepass%20Gun.lua")
+
+addscriptexist(2377868063, "Strucid [Neptunehook GUI - Silent Aim & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Strucid%20Neptunehook%20GUI%20%20Silent%20Aim%20%20More.lua")
