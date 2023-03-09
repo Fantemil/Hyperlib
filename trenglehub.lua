@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 15:14:58"
+lastupdate = "GMT +1: 09.03.2023 15:15:04"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18292,3 +18292,5 @@ addscript(8854753304, "Current Game","Interactive Intimate [Farm Points]", "pull
 addscriptexist(9049840490, "Sonic Speed Simulator [New Faster Auto Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sonic%20Speed%20Simulator%20New%20Faster%20Auto%20Farm.lua")
 
 addscriptexist(9049840490, "Sonic Speed Simulator [Auto Open Chests]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sonic%20Speed%20Simulator%20Auto%20Open%20Chests.lua")
+
+addscriptexist(9530846958, "Epsilon 2 [GUI V1 - Auto Trinket & More]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Epsilon%20%20GUI%20V%20%20Auto%20Trinket%20%20More.lua")
