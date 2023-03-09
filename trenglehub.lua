@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 14:00:44"
+lastupdate = "GMT +1: 09.03.2023 14:00:54"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -16406,3 +16406,5 @@ addscriptexist(679715583, "Starscape [Auto Market]", "pulled from rbxscript.com"
 addscript(9616411936, "Current Game","Man City Blue Moon [Free Ugc Item]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Man%20City%20Blue%20Moon%20Free%20Ugc%20Item.lua")
 
 addscriptexist(6737970321, "Livetopia [Free Ugc Item]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Livetopia%20Free%20Ugc%20Item.lua")
+
+addscriptexist(7075737729, "Hoop Central 6 [Auto Dunk]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Hoop%20Central%20%20Auto%20Dunk.lua")
