@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 14:57:58"
+lastupdate = "GMT +1: 09.03.2023 14:58:03"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -17872,3 +17872,5 @@ addscriptexist(9030362964, "Field Goal Simulator [Aimbot]", "pulled from rbxscri
 addscript(8549047195, "Current Game","Anime Warriors Simulator [Auto Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime%20Warriors%20Simulator%20Auto%20Farm.lua")
 
 addscriptexist(7622046644, "Monster Ghoul [Auto Farm - Infinite Stats & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Monster%20Ghoul%20Auto%20Farm%20%20Infinite%20Stats%20%20More.lua")
+
+addscript(6753141554, "Current Game","Collect Simulator [Auto Weights - Auto Sell]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Collect%20Simulator%20Auto%20Weights%20%20Auto%20Sell.lua")
