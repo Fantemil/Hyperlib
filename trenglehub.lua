@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 15:28:11"
+lastupdate = "GMT +1: 09.03.2023 15:28:15"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18622,3 +18622,5 @@ addscriptexist(9203864304, "Raise a Floppa [Auto Click - Auto Collect Floppa Cas
 addscript(4637668954, "Current Game","Rensselaer County Beta [RGB Car]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Rensselaer%20County%20Beta%20RGB%20Car.lua")
 
 addscript(5584024582, "Current Game","The Rake Hour Test [Level Multiplier]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/The%20Rake%20Hour%20Test%20Level%20Multiplier.lua")
+
+addscript(2927931172, "Current Game","Shinobi Battlegrounds [Infiniti Yen,Ryo]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Shinobi%20Battlegrounds%20Infiniti%20YenRyo.lua")
