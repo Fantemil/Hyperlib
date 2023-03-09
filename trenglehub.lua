@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 15:16:16"
+lastupdate = "GMT +1: 09.03.2023 15:16:20"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18326,3 +18326,5 @@ addscriptexist(7089072882, "HE-MAN SIM + BATTLE ARENA [Infinite Kirbinite]", "pu
 addscriptexist(7089072882, "HE-MAN SIM + BATTLE ARENA [Max Level & Rebirth]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/HEMAN%20SIM%20%20BATTLE%20ARENA%20Max%20Level%20%20Rebirth.lua")
 
 addscriptexist(632642533, "DeadMist 2 Beta [Grab Care Package]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DeadMist%20%20Beta%20Grab%20Care%20Package.lua")
+
+addscriptexist(632642533, "DeadMist 2 Beta [Grab Item Only Storage Crates]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DeadMist%20%20Beta%20Grab%20Item%20Only%20Storage%20Crates.lua")
