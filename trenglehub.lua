@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 15:58:04"
+lastupdate = "GMT +1: 09.03.2023 15:58:09"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -19370,3 +19370,5 @@ addscript(340809482, "Current Game","Limited Simulator [Crash All, Auto Sell, Au
 addscript(6558291063, "Current Game","Would You Rather 2 [Auto Farm Coins – Vip Room & More]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Would%20You%20Rather%20%20Auto%20Farm%20Coins%20%20Vip%20Room%20%20More.lua")
 
 addscript(5229285987, "Current Game","V4 Air Force Academy [Kill All - Loop Kill & Click Kill]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/V%20Air%20Force%20Academy%20Kill%20All%20%20Loop%20Kill%20%20Click%20Kill.lua")
+
+addscriptexist(7009799230, "Pressure Wash Simulator [Auto Farm GUI]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pressure%20Wash%20Simulator%20Auto%20Farm%20GUI.lua")
