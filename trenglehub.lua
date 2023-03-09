@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 12:55:41"
+lastupdate = "GMT +1: 09.03.2023 12:55:47"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -15288,3 +15288,5 @@ addscript(9157870347, "Current Game","Swarm Simulator! [Gamepasses, Auto Farm]",
 addscriptexist(4282985734, "Combat Warriors [Silent aim]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Combat%20Warriors%20Silent%20aim.lua")
 
 addscript(4390380541, "Current Game","Rumble Quest [WalkSpeed, Kill-Aura]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Rumble%20Quest%20WalkSpeed%20KillAura.lua")
+
+addscriptexist(8750997647, "Tapping Legends X [Auto click, Auto eggs]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tapping%20Legends%20X%20Auto%20click%20Auto%20eggs.lua")
