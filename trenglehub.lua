@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 12:02:48"
+lastupdate = "GMT +1: 09.03.2023 12:02:57"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -15108,3 +15108,5 @@ addscript(11118216071, "Current Game","Pet Trading Card Simulator: Auto Equip Be
 addscriptexist(3956818381, "Ninja Legends: Auto Swing, Auto Sell, Auto Evolve", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ninja%20Legends%20Auto%20Swing%20Auto%20Sell%20Auto%20Evolve.lua")
 
 addhub("Catalyst Hub V3: 3 Games", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Catalyst%20Hub%20V%20%20Games.lua")
+
+addscriptexist(8540346411, "Rebirth Champions X: Auto Collect, Auto Rebirth & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Rebirth%20Champions%20X%20Auto%20Collect%20Auto%20Rebirth%20%20More.lua")
