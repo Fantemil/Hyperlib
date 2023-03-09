@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 14:35:54"
+lastupdate = "GMT +1: 09.03.2023 14:35:58"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -17308,3 +17308,5 @@ addscriptexist(1962086868, "Tower of Hell [Autotp to top, Walkspeed, Inf jump]",
 addscriptexist(6938803436, "Anime Dimensions Simulator [Auto Attack, Speed, Auto Skill]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime%20Dimensions%20Simulator%20Auto%20Attack%20Speed%20Auto%20Skill.lua")
 
 addscriptexist(6403373529, "Slap Battles [Auto Swing, Auto Sell, Auto Rebirth]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Slap%20Battles%20Auto%20Swing%20Auto%20Sell%20Auto%20Rebirth.lua")
+
+addscriptexist(8750997647, "Tapping Legends X [Auto Tap, Auto Upgrade, Auto Rebirth]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tapping%20Legends%20X%20Auto%20Tap%20Auto%20Upgrade%20Auto%20Rebirth.lua")
