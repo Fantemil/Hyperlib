@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 14:24:59"
+lastupdate = "GMT +1: 09.03.2023 14:25:04"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -17024,3 +17024,5 @@ addscript(7261493042, "Current Game","Impossible Glass Bridge Obby [Path reveali
 addscriptexist(9103898828, "Rogue Demon [Punch Distance]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Rogue%20Demon%20Punch%20Distance.lua")
 
 addscriptexist(9559194006, "social experiment [Auto blood rain, Chat predictor]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/social%20experiment%20Auto%20blood%20rain%20Chat%20predictor.lua")
+
+addscriptexist(443406476, "Project Lazarus [Inf Ammo, Insta Kill, Esp]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Project%20Lazarus%20Inf%20Ammo%20Insta%20Kill%20Esp.lua")
