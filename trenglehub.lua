@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 13:37:00"
+lastupdate = "GMT +1: 09.03.2023 13:37:06"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -15782,3 +15782,5 @@ addscript(10065077975, "Current Game","Robloxian's Obby [Auto finish]", "pulled 
 addscriptexist(4809447488, "Venture Tale [KillAura, InstantKill]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Venture%20Tale%20KillAura%20InstantKill.lua")
 
 addscriptexist(8962384769, "Firework Simulator [Auto-Farm, Auto-Buy Next Zone]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Firework%20Simulator%20AutoFarm%20AutoBuy%20Next%20Zone.lua")
+
+addscriptexist(6284583030, "Pet Simulator X [Mastery Auto Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pet%20Simulator%20X%20Mastery%20Auto%20Farm.lua")
