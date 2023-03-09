@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 13:26:02"
+lastupdate = "GMT +1: 09.03.2023 13:26:07"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -15496,3 +15496,5 @@ addscriptexist(537413528, "Best Build A Boat For Treasure [Auto Farm, Tp]", "pul
 addscriptexist(155382109, "Survive and Kill the Killers in Area 51 [Infinite ammo (legit and not), Nerf Killers, Restore Ammo]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Survive%20and%20Kill%20the%20Killers%20in%20Area%20%20Infinite%20ammo%20legit%20and%20not%20Nerf%20Killers%20Restore%20Ammo.lua")
 
 addscriptexist(6284583030, "Pet simulator X [Auto Farm, Auto Collect, Auto Egg]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pet%20simulator%20X%20Auto%20Farm%20Auto%20Collect%20Auto%20Egg.lua")
+
+addscriptexist(9285238704, "Race Clicker [Infinite Speed]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Race%20Clicker%20Infinite%20Speed.lua")
