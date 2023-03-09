@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 14:24:47"
+lastupdate = "GMT +1: 09.03.2023 14:24:51"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -17020,3 +17020,5 @@ addscriptexist(9017974931, "Valoblox [Auto Open Crates]", "pulled from rbxscript
 addscriptexist(142823291, "Murder Mystery 2 [Visual skins]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Murder%20Mystery%20%20Visual%20skins.lua")
 
 addscript(7261493042, "Current Game","Impossible Glass Bridge Obby [Path revealing]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Impossible%20Glass%20Bridge%20Obby%20Path%20revealing.lua")
+
+addscriptexist(9103898828, "Rogue Demon [Punch Distance]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Rogue%20Demon%20Punch%20Distance.lua")
