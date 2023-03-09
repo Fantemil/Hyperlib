@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/AlternateYT/Roblox-Scripts/main/World_of_Magic.lua"))()
