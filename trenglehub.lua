@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 15:20:51"
+lastupdate = "GMT +1: 09.03.2023 15:20:59"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18442,3 +18442,5 @@ addscriptexist(8209480473, "Spotify Island [Hearts Farm]", "pulled from rbxscrip
 addscript(9283132959, "Current Game","Block Breaker Simulator [Auto Get Blocks & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Block%20Breaker%20Simulator%20Auto%20Get%20Blocks%20%20More.lua")
 
 addscript(9041110505, "Current Game","Unlimited Upgrade Simulator [Inf Money, Inf power, Inf Diamonds]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Unlimited%20Upgrade%20Simulator%20Inf%20Money%20Inf%20power%20Inf%20Diamonds.lua")
+
+addscriptexist(4996049426, "All Star Tower Defense [Farm exp]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/All%20Star%20Tower%20Defense%20Farm%20exp.lua")
