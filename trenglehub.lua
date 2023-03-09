@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 15:42:55"
+lastupdate = "GMT +1: 09.03.2023 15:42:59"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18994,3 +18994,5 @@ addscript(8644729967, "Current Game","Zone of Alienation [Kill All Mobs]", "pull
 addscriptexist(6401440818, "MONOLITH DEFENSE [Infinite Tech,Upgrade Points]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MONOLITH%20DEFENSE%20Infinite%20TechUpgrade%20Points.lua")
 
 addscriptexist(5116869569, "Doodle World [GUI - Auto Farming]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Doodle%20World%20GUI%20%20Auto%20Farming.lua")
+
+addscript(6555084601, "Current Game","Вирус [RP] [Godmode]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/%D0%92%D0%B8%D1%80%D1%83%D1%81%20RP%20Godmode.lua")
