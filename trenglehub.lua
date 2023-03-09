@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 15:58:13"
+lastupdate = "GMT +1: 09.03.2023 15:58:17"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -19374,3 +19374,5 @@ addscript(5229285987, "Current Game","V4 Air Force Academy [Kill All - Loop Kill
 addscriptexist(7009799230, "Pressure Wash Simulator [Auto Farm GUI]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pressure%20Wash%20Simulator%20Auto%20Farm%20GUI.lua")
 
 addscriptexist(7728848215, "Slashing Simulator [Auto Slash, Auto Rebirth, Kill Boss]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Slashing%20Simulator%20Auto%20Slash%20Auto%20Rebirth%20Kill%20Boss.lua")
+
+addscriptexist(8884433153, "Collect All Pets [Auto Quest, Auto Collect Coins, Auto buy pets]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Collect%20All%20Pets%20Auto%20Quest%20Auto%20Collect%20Coins%20Auto%20buy%20pets.lua")
