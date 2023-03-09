@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 15:31:54"
+lastupdate = "GMT +1: 09.03.2023 15:31:58"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18716,3 +18716,5 @@ addscriptexist(8540346411, "Rebirth Champions X [Auto Open Eggs, Unlock All Area
 addscriptexist(6193049807, "Tha Hood [Get Billions Of Cash Within Seconds]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tha%20Hood%20Get%20Billions%20Of%20Cash%20Within%20Seconds.lua")
 
 addscriptexist(8540168650, "Stand Upright Rebooted [Auto Farm - Stands Farm & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Stand%20Upright%20Rebooted%20Auto%20Farm%20%20Stands%20Farm%20%20More.lua")
+
+addscriptexist(8916037983, "Starving Artists [Get Easter Boost]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Starving%20Artists%20Get%20Easter%20Boost.lua")
