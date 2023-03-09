@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 14:51:31"
+lastupdate = "GMT +1: 09.03.2023 14:51:36"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -17706,3 +17706,5 @@ addscript(7506230120, "Current Game","Elmira [Inf Stamina & More!]", "pulled fro
 addscript(6969185078, "Current Game","Elemental Awakening [Spin Farm + Auto Roll]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Elemental%20Awakening%20Spin%20Farm%20%20Auto%20Roll.lua")
 
 addscriptexist(6969185078, "Elemental Awakening [Auto Level]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Elemental%20Awakening%20Auto%20Level.lua")
+
+addscriptexist(6938803436, "Bird Hub [7 Games]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Bird%20Hub%20%20Games.lua")
