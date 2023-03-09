@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 14:35:37"
+lastupdate = "GMT +1: 09.03.2023 14:35:42"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -17302,3 +17302,5 @@ addscriptexist(1240123653, "Zombie Attack [Auto Farm, Infite Jump, God Mode]", "
 addscriptexist(3199109640, "Camping 2 [Get Items, Collect Wood, Get Smore]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Camping%20%20Get%20Items%20Collect%20Wood%20Get%20Smore.lua")
 
 addscriptexist(8146731988, "Ultra Power Tycoon [Give All Weapons]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ultra%20Power%20Tycoon%20Give%20All%20Weapons.lua")
+
+addscriptexist(1962086868, "Tower of Hell [Autotp to top, Walkspeed, Inf jump]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tower%20of%20Hell%20Autotp%20to%20top%20Walkspeed%20Inf%20jump.lua")
