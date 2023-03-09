@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 14:03:37"
+lastupdate = "GMT +1: 09.03.2023 14:03:41"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -16480,3 +16480,5 @@ addscript(6058150350, "Current Game","Destruction Physics [Physics Lag players]"
 addscriptexist(9281034297, "Goal Kick Simulator [Faster Auto Kick]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Goal%20Kick%20Simulator%20Faster%20Auto%20Kick.lua")
 
 addscriptexist(10118559731, "nico's nextbots [Esp, tp Safe Zone]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/nicos%20nextbots%20Esp%20tp%20Safe%20Zone.lua")
+
+addscript(568350650, "Current Game","Fashion Famous [Get Klossette x Reverse_Polarity Backpack]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Fashion%20Famous%20Get%20Klossette%20x%20ReversePolarity%20Backpack.lua")
