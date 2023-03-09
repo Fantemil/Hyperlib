@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 14:50:51"
+lastupdate = "GMT +1: 09.03.2023 14:50:55"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -17688,3 +17688,5 @@ addscript(8581609150, "Current Game","Bloxhub Mine Mania [Auto mine]", "pulled f
 addscriptexist(286090429, "Arsenal [Esp]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Arsenal%20Esp.lua")
 
 addscriptexist(9072679513, "Anime Impact Simulator [Auto Mana & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime%20Impact%20Simulator%20Auto%20Mana%20%20More.lua")
+
+addscript(45146873, "Current Game","Tower Battles [Get Free Credits]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tower%20Battles%20Get%20Free%20Credits.lua")
