@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 15:05:50"
+lastupdate = "GMT +1: 09.03.2023 15:05:54"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18062,3 +18062,5 @@ addscript(9557222597, "Current Game","Clarks CICAVERSE [Auto Collect And Complet
 addscriptexist(9557222597, "Clarks CICAVERSE [Auto Farm & Teleports]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Clarks%20CICAVERSE%20Auto%20Farm%20%20Teleports.lua")
 
 addscript(8137333410, "Current Game","Color by number [Fast Auto Paint]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Color%20by%20number%20Fast%20Auto%20Paint.lua")
+
+addscriptexist(2788229376, "Da Hood [Kittenhook + Crypteder]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Da%20Hood%20Kittenhook%20%20Crypteder.lua")
