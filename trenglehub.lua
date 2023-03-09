@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 13:52:41"
+lastupdate = "GMT +1: 09.03.2023 13:52:47"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -16192,3 +16192,5 @@ addscriptexist(10118559731, "nico's nextbots [Serv lagger]", "pulled from rbxscr
 addscriptexist(4616652839, "Shindo life [Auto Farm, Auto Farm Boss, Auto Rank]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Shindo%20life%20Auto%20Farm%20Auto%20Farm%20Boss%20Auto%20Rank.lua")
 
 addscript(4838460619, "Current Game","War Simulator 2 [Auto Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/War%20Simulator%20%20Auto%20Farm.lua")
+
+addscriptexist(6678877691, "ZO ぞ SAMURAI [Anti Cheat Bypass]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ZO%20%E3%81%9E%20SAMURAI%20Anti%20Cheat%20Bypass.lua")
