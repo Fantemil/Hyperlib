@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 14:37:28"
+lastupdate = "GMT +1: 09.03.2023 14:37:32"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -17348,3 +17348,5 @@ addscript(112420803, "Current Game","Kohls Admin House [GUI - Commands]", "pulle
 addscriptexist(9249776514, "Givenchy Beauty House [Finish The Event Quest]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Givenchy%20Beauty%20House%20Finish%20The%20Event%20Quest.lua")
 
 addscriptexist(1382113806, "Silent Assassin [Assassin ESP]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Silent%20Assassin%20Assassin%20ESP.lua")
+
+addscript(9456941655, "Current Game","PUBG [Kill All]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PUBG%20Kill%20All.lua")
