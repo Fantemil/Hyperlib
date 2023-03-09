@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 15:26:34"
+lastupdate = "GMT +1: 09.03.2023 15:26:39"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18584,3 +18584,5 @@ addscriptexist(9300407930, "Bot Clash [Fast Auto Farm - Auto Collect Coins - & M
 addscriptexist(5233782396, "Creatures of Sonaria [Spam Bite Easter Boss]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Creatures%20of%20Sonaria%20Spam%20Bite%20Easter%20Boss.lua")
 
 addscriptexist(5543622168, "Critical Tower Defense [Equip Secret Unit]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Critical%20Tower%20Defense%20Equip%20Secret%20Unit.lua")
+
+addscriptexist(5543622168, "Critical Tower Defense [Get Secret Unit]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Critical%20Tower%20Defense%20Get%20Secret%20Unit.lua")
