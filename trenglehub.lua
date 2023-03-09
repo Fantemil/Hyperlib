@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 14:34:47"
+lastupdate = "GMT +1: 09.03.2023 14:34:52"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -17280,3 +17280,5 @@ addscriptexist(1240123653, "Zombie Attack [Auto Farm, Kill Aura, WalkSpeed]", "p
 addscriptexist(3652625463, "Lifting Simulator [Auto Muscle, WalkSpeed, TP Safe Zone]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Lifting%20Simulator%20Auto%20Muscle%20WalkSpeed%20TP%20Safe%20Zone.lua")
 
 addscriptexist(2727067538, "World // Zero [Kill Aura]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/World%20%20Zero%20Kill%20Aura.lua")
+
+addscriptexist(5827078246, "Coins Hero Simulator [Auto Coin, Auto Sell, AutoEgg]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Coins%20Hero%20Simulator%20Auto%20Coin%20Auto%20Sell%20AutoEgg.lua")
