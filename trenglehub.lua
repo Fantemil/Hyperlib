@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 14:05:17"
+lastupdate = "GMT +1: 09.03.2023 14:05:21"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -16522,3 +16522,5 @@ addscriptexist(863266079, "Apocalpyse Rising 2 [GUI - Aimbot, No Recoil]", "pull
 addscriptexist(3144213556, "Troll Obby [Auto Win]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Troll%20Obby%20Auto%20Win.lua")
 
 addscriptexist(8123652942, "Legend Piece [Seabeast, Gems Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Legend%20Piece%20Seabeast%20Gems%20Farm.lua")
+
+addscript(6822455054, "Current Game","Fruit Piece [Stat Changer GUI]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Fruit%20Piece%20Stat%20Changer%20GUI.lua")
