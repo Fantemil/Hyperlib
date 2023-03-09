@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 14:03:53"
+lastupdate = "GMT +1: 09.03.2023 14:03:59"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -16488,3 +16488,5 @@ addscriptexist(2098516465, "Roblox High School 2 [Get Klossette x Lovespun Purse
 addscript(3722916, "Current Game","2 Player Company Tycoon [Inf Money]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/%20Player%20Company%20Tycoon%20Inf%20Money.lua")
 
 addscriptexist(537413528, "Build A Boat For Treasure [Inf Block WORKING]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Build%20A%20Boat%20For%20Treasure%20Inf%20Block%20WORKING.lua")
+
+addscriptexist(2753915549, "Blox Fruits [Silent Aim]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blox%20Fruits%20Silent%20Aim.lua")
