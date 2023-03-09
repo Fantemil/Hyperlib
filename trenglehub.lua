@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 15:50:13"
+lastupdate = "GMT +1: 09.03.2023 15:50:17"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -19176,3 +19176,5 @@ addscriptexist(2753915549, "Blox Fruits [GUI - Mob Farm, Inf Stam]", "pulled fro
 addscriptexist(185655149, "Welcome To Bloxburg [Free Auto Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Welcome%20To%20Bloxburg%20Free%20Auto%20Farm.lua")
 
 addscriptexist(8781849572, "Star Simulator Beta [Unlock Everyones Land]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Star%20Simulator%20Beta%20Unlock%20Everyones%20Land.lua")
+
+addhub("Roblox Free Script Hub [3 Games]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Roblox%20Free%20Script%20Hub%20%20Games.lua")
