@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 14:39:52"
+lastupdate = "GMT +1: 09.03.2023 14:39:56"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -17410,3 +17410,5 @@ addscriptexist(413424176, "Clone Tycoon 2 [WalkSpeed, Jump Power, Inf Money]", "
 addscriptexist(9598746251, "Home Run Simulator [Semi Inf Money]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Home%20Run%20Simulator%20Semi%20Inf%20Money.lua")
 
 addscript(7799826347, "Current Game","Sandbox Tycoon [SANDBOX SCHEMATICS OVERPOWERED GUI]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sandbox%20Tycoon%20SANDBOX%20SCHEMATICS%20OVERPOWERED%20GUI.lua")
+
+addscriptexist(3271747724, "MEGA Boss Survival [Infinite Money]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MEGA%20Boss%20Survival%20Infinite%20Money.lua")
