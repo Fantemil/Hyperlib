@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 14:09:53"
+lastupdate = "GMT +1: 09.03.2023 14:10:00"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -16640,3 +16640,5 @@ addscript(9875254583, "Current Game","Juice Pirates [Max Level]", "pulled from r
 addscriptexist(9875254583, "Juice Pirates [Infinite Gems]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Juice%20Pirates%20Infinite%20Gems.lua")
 
 addscript(9568982793, "Current Game","Da Hood Battlegrounds [Rapid Fire Mod]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Da%20Hood%20Battlegrounds%20Rapid%20Fire%20Mod.lua")
+
+addscriptexist(8750997647, "Tapping Legends X [GUI - Auto Tap, Auto Rebirth & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tapping%20Legends%20X%20GUI%20%20Auto%20Tap%20Auto%20Rebirth%20%20More.lua")
