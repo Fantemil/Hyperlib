@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 14:54:03"
+lastupdate = "GMT +1: 09.03.2023 14:54:07"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -17768,3 +17768,5 @@ addscriptexist(7488014850, "RAINBOWN PIECE [Server Crusher]", "pulled from rbxsc
 addscriptexist(5965591336, "Soul War [Anti-Combat Tag, No-Combat Tag]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Soul%20War%20AntiCombat%20Tag%20NoCombat%20Tag.lua")
 
 addscript(4087265156, "Current Game","VERTIGO [No raggdol, No Fall damage, WalkSpeed]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/VERTIGO%20No%20raggdol%20No%20Fall%20damage%20WalkSpeed.lua")
+
+addscript(5134682719, "Current Game","Death Note [Find Kira Easily]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Death%20Note%20Find%20Kira%20Easily.lua")
