@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 16:05:25"
+lastupdate = "GMT +1: 09.03.2023 16:05:28"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -19544,3 +19544,5 @@ addscript(8834250772, "Current Game","Attack Simulator [Auto Farm]", "pulled fro
 addscriptexist(8381567809, "Ninja Star Simulator [Auto Farm & Auto Collect - Basic Auto Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ninja%20Star%20Simulator%20Auto%20Farm%20%20Auto%20Collect%20%20Basic%20Auto%20Farm.lua")
 
 addscriptexist(8232438881, "Thief Simulator [Auto Rob - Auto Sell & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Thief%20Simulator%20Auto%20Rob%20%20Auto%20Sell%20%20More.lua")
+
+addscriptexist(6494523288, "Blade Quest [Auto Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blade%20Quest%20Auto%20Farm.lua")
