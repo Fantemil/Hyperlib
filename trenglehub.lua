@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 14:25:12"
+lastupdate = "GMT +1: 09.03.2023 14:25:16"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -17030,3 +17030,5 @@ addscriptexist(443406476, "Project Lazarus [Inf Ammo, Insta Kill, Esp]", "pulled
 addscriptexist(142823291, "Murder Mystery 2 [GUI - ESP, Fake Knife & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Murder%20Mystery%20%20GUI%20%20ESP%20Fake%20Knife%20%20More.lua")
 
 addscriptexist(1224212277, "Mad City [GUI - Auto Rob, Teleports & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mad%20City%20GUI%20%20Auto%20Rob%20Teleports%20%20More.lua")
+
+addhub("Roblox [Ewyzu Hub]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Roblox%20Ewyzu%20Hub.lua")
