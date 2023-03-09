@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 13:49:50"
+lastupdate = "GMT +1: 09.03.2023 13:49:54"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -16116,3 +16116,5 @@ addscriptexist(6514923093, "Realistic Guns Shooting Game [AimBot, ESP, GUN MOD]"
 addscriptexist(4036494886, "Gun Simulator [Inf ammo, Inf stars, No reload]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Gun%20Simulator%20Inf%20ammo%20Inf%20stars%20No%20reload.lua")
 
 addscriptexist(286090429, "Zeus Hub [4 Games]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Zeus%20Hub%20%20Games.lua")
+
+addscriptexist(2629642516, "Bitcoin Miner [Anti card lag]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Bitcoin%20Miner%20Anti%20card%20lag.lua")
