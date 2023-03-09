@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 15:03:03"
+lastupdate = "GMT +1: 09.03.2023 15:03:07"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -17996,3 +17996,5 @@ addscriptexist(9049840490, "Sonic Speed Simulator [Collect All Hoops, Auto Rebir
 addscriptexist(9049840490, "Sonic Speed Simulator [Auto Collect]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sonic%20Speed%20Simulator%20Auto%20Collect.lua")
 
 addscriptexist(4855457388, "Demonfall [Tp Player]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Demonfall%20Tp%20Player.lua")
+
+addscriptexist(5154858502, "Murderers vs. Sheriffs [Kill All]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Murderers%20vs%20Sheriffs%20Kill%20All.lua")
