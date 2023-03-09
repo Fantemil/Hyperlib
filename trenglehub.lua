@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 16:05:59"
+lastupdate = "GMT +1: 09.03.2023 16:06:03"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -19558,3 +19558,5 @@ addscriptexist(7797478022, "Broken Bones Simulator [Infinite Cash]", "pulled fro
 addscript(5771467270, "Current Game","TTD 3 [AntiCheat Bypass]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TTD%20%20AntiCheat%20Bypass.lua")
 
 addscriptexist(8260276694, "Ability Wars [GUI - Kill All & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ability%20Wars%20GUI%20%20Kill%20All%20%20More.lua")
+
+addscript(5130498426, "Current Game","AoT:Insertplayground [OP Admin Power]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AoTInsertplayground%20OP%20Admin%20Power.lua")
