@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 13:36:03"
+lastupdate = "GMT +1: 09.03.2023 13:36:07"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -15756,3 +15756,5 @@ addscript(6488220605, "Current Game","stay alive and steal time from others [The
 addscriptexist(8267733039, "Specter 2 [GUI - Item Esp, Ghost Esp & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Specter%20%20GUI%20%20Item%20Esp%20Ghost%20Esp%20%20More.lua")
 
 addscript(5876616139, "Current Game","Minus Decendance [Helper Script]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Minus%20Decendance%20Helper%20Script.lua")
+
+addscript(8433116262, "Current Game","Lost Adrift [EA] [Steal Boat]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Lost%20Adrift%20EA%20Steal%20Boat.lua")
