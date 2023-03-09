@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 14:48:02"
+lastupdate = "GMT +1: 09.03.2023 14:48:07"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -17614,3 +17614,5 @@ addscript(7488014850, "Current Game","RAINBOWN PIECE [Free Legendary fruits]", "
 addscriptexist(7488014850, "RAINBOWN PIECE [Spam Legeng fruits]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RAINBOWN%20PIECE%20Spam%20Legeng%20fruits.lua")
 
 addscriptexist(9551640993, "Mining Simulator 2 [Ore Esp]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mining%20Simulator%20%20Ore%20Esp.lua")
+
+addhub("HeckerX (Hub)", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/HeckerX%20Hub.lua")
