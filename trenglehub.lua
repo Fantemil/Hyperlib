@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 15:38:59"
+lastupdate = "GMT +1: 09.03.2023 15:39:03"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18894,3 +18894,5 @@ addscript(6843988672, "Current Game","County Jail Roleplay [AC Bypass]", "pulled
 addscript(3829055572, "Current Game","The Underground War [Unique HUB V2]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/The%20Underground%20War%20Unique%20HUB%20V.lua")
 
 addscriptexist(5045567407, "Nations Roleplay [Paint Entire World Instantly]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Nations%20Roleplay%20Paint%20Entire%20World%20Instantly.lua")
+
+addscriptexist(5780309044, "Stands Awakening [Stand Farm - Auto Collect Items & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Stands%20Awakening%20Stand%20Farm%20%20Auto%20Collect%20Items%20%20More.lua")
