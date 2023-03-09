@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 15:40:11"
+lastupdate = "GMT +1: 09.03.2023 15:40:16"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18926,3 +18926,5 @@ addscriptexist(9049840490, "Sonic Speed Simulator [Gain Xp & Steps By Doing Noth
 addscriptexist(4505214429, "Soul Eater Resonance [Eater Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Soul%20Eater%20Resonance%20Eater%20Farm.lua")
 
 addscriptexist(258258996, "Miner's Haven [Auto Farm Rebirths]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Miners%20Haven%20Auto%20Farm%20Rebirths.lua")
+
+addscriptexist(5023820864, "Trade Tower [PPHAX V2 GUI]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Trade%20Tower%20PPHAX%20V%20GUI.lua")
