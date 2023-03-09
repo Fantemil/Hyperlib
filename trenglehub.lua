@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 15:20:42"
+lastupdate = "GMT +1: 09.03.2023 15:20:47"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18438,3 +18438,5 @@ addscript(9398326379, "Current Game","Raise a Bingus [Auto Farm Money]", "pulled
 addscriptexist(6673614635, "UnConventional [GUI – Auto Farm & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/UnConventional%20GUI%20%20Auto%20Farm%20%20More.lua")
 
 addscriptexist(8209480473, "Spotify Island [Hearts Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Spotify%20Island%20Hearts%20Farm.lua")
+
+addscript(9283132959, "Current Game","Block Breaker Simulator [Auto Get Blocks & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Block%20Breaker%20Simulator%20Auto%20Get%20Blocks%20%20More.lua")
