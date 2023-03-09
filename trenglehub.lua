@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 15:57:46"
+lastupdate = "GMT +1: 09.03.2023 15:57:50"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -19362,3 +19362,5 @@ addscriptexist(7708751418, "Smashing Simulator X [object mod]", "pulled from rbx
 addscript(8892207911, "Current Game","Ragdoll Engine [Push All]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ragdoll%20Engine%20Push%20All.lua")
 
 addscriptexist(5327880096, "Online Business Simulator 2 [Auto delivery crate]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Online%20Business%20Simulator%20%20Auto%20delivery%20crate.lua")
+
+addscriptexist(7800644383, "Untitled Hood [AntiCheat Bypass]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Untitled%20Hood%20AntiCheat%20Bypass.lua")
