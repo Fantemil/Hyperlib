@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 15:53:31"
+lastupdate = "GMT +1: 09.03.2023 15:53:36"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -19256,3 +19256,5 @@ addscriptexist(4490140733, "My Restaurant [XP Farm]", "pulled from rbxscript.com
 addscriptexist(1962086868, "Tower of Hell [Auto Farm, God Mode, Remove Kill Parts]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tower%20of%20Hell%20Auto%20Farm%20God%20Mode%20Remove%20Kill%20Parts.lua")
 
 addscriptexist(8554378337, "Weapon Fighting Simulator [Collect Rewards, Фuto Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Weapon%20Fighting%20Simulator%20Collect%20Rewards%20%D0%A4uto%20Farm.lua")
+
+addscriptexist(3956818381, "Ninja Legends [Unlock All Islands & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ninja%20Legends%20Unlock%20All%20Islands%20%20More.lua")
