@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 14:51:49"
+lastupdate = "GMT +1: 09.03.2023 14:51:53"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -17714,3 +17714,5 @@ addscriptexist(5543622168, "Critical Tower Defense [GUI - Change Tower Colors]",
 addscriptexist(2809202155, "Your Bizarre Adventure [Fly Bypass]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Your%20Bizarre%20Adventure%20Fly%20Bypass.lua")
 
 addscript(8982709021, "Current Game","YouTube Life [Update Auto Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/YouTube%20Life%20Update%20Auto%20Farm.lua")
+
+addscriptexist(4855457388, "Demonfall [Auto Farm Mobs,Ore And More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Demonfall%20Auto%20Farm%20MobsOre%20And%20More.lua")
