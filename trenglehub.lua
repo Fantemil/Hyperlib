@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 15:04:49"
+lastupdate = "GMT +1: 09.03.2023 15:04:54"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18038,3 +18038,5 @@ addscriptexist(9359839118, "Gas Station Simulator [Auto Celan - Auto Restock]", 
 addscriptexist(6969185078, "Elemental Awakening [Lvl Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Elemental%20Awakening%20Lvl%20Farm.lua")
 
 addscriptexist(7346416636, "Pop It Trading [Dupe Money]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pop%20It%20Trading%20Dupe%20Money.lua")
+
+addscriptexist(6429245608, "Blood Surge [Bypassed RP Name]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blood%20Surge%20Bypassed%20RP%20Name.lua")
