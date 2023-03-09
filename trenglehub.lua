@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 16:04:55"
+lastupdate = "GMT +1: 09.03.2023 16:04:59"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -19532,3 +19532,5 @@ addscriptexist(6284583030, "Pet Simulator X [Auto Farm, Per Hatcher, All menu]",
 addhub("DIE HUB [6 GAMES SUPPORTED]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DIE%20HUB%20%20GAMES%20SUPPORTED.lua")
 
 addhub("REAL KINGS HUB V1 [13 Games Supported]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/REAL%20KINGS%20HUB%20V%20%20Games%20Supported.lua")
+
+addscriptexist(7285447838, "Tokyo Saga [No Cooldowns For Everything - Show Hitbox - Infinite Hunger]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tokyo%20Saga%20No%20Cooldowns%20For%20Everything%20%20Show%20Hitbox%20%20Infinite%20Hunger.lua")
