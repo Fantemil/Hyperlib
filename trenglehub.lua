@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 15:31:22"
+lastupdate = "GMT +1: 09.03.2023 15:31:27"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18704,3 +18704,5 @@ addscriptexist(6442957604, "Custom PC Tycoon [Collect all eggs]", "pulled from r
 addscriptexist(7167319176, "Chicago Remastered [No recoil]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Chicago%20Remastered%20No%20recoil.lua")
 
 addscriptexist(8750997647, "Tapping Legends X [GUI - Auto Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tapping%20Legends%20X%20GUI%20%20Auto%20Farm.lua")
+
+addscriptexist(6297822481, "Titan Warfare [Inf Gas]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Titan%20Warfare%20Inf%20Gas.lua")
