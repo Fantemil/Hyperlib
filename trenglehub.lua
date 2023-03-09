@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 15:31:41"
+lastupdate = "GMT +1: 09.03.2023 15:31:50"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18712,3 +18712,5 @@ addscriptexist(9203864304, "raise a floppa [Auto Click Floppa, Auto Collect mone
 addscriptexist(4566572536, "Vehicle Legends [Speed Boost, Rainbow color]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Vehicle%20Legends%20Speed%20Boost%20Rainbow%20color.lua")
 
 addscriptexist(8540346411, "Rebirth Champions X [Auto Open Eggs, Unlock All Areas, Teleport To Any Area]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Rebirth%20Champions%20X%20Auto%20Open%20Eggs%20Unlock%20All%20Areas%20Teleport%20To%20Any%20Area.lua")
+
+addscriptexist(6193049807, "Tha Hood [Get Billions Of Cash Within Seconds]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tha%20Hood%20Get%20Billions%20Of%20Cash%20Within%20Seconds.lua")
