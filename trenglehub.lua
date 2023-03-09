@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 15:49:19"
+lastupdate = "GMT +1: 09.03.2023 15:49:24"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -19154,3 +19154,5 @@ addscriptexist(7993293100, "Tsunami Game [Auto Win - Farm Deaths & More!]", "pul
 addscript(8657732325, "Current Game","World Sail [Auto Farm Enhance Level]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/World%20Sail%20Auto%20Farm%20Enhance%20Level.lua")
 
 addscriptexist(8657732325, "World Sail [Basic Auto Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/World%20Sail%20Basic%20Auto%20Farm.lua")
+
+addscriptexist(3233893879, "Bad Business [GUI - AIM, ESP, More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Bad%20Business%20GUI%20%20AIM%20ESP%20More.lua")
