@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 15:24:19"
+lastupdate = "GMT +1: 09.03.2023 15:24:24"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18524,3 +18524,5 @@ addscriptexist(8549047195, "Anime Warriors Simulator [Tp final world]", "pulled 
 addscriptexist(6772424226, "2 Player Millionaire Tycoon [Auto Buy & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/%20Player%20Millionaire%20Tycoon%20Auto%20Buy%20%20More.lua")
 
 addscriptexist(4566572536, "Vehicle Legends [Race Auto Farm Free]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Vehicle%20Legends%20Race%20Auto%20Farm%20Free.lua")
+
+addscriptexist(6938803436, "Anime Dimensions Simulator [Auto Farm - Auto Skills & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime%20Dimensions%20Simulator%20Auto%20Farm%20%20Auto%20Skills%20%20More.lua")
