@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 15:11:40"
+lastupdate = "GMT +1: 09.03.2023 15:11:50"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18210,3 +18210,5 @@ addscriptexist(9292879820, "Grass Cutting Incremental [Auto Collect]", "pulled f
 addscriptexist(3522803956, "De Pride Isle Sanatorium [GUI - No Stamina - More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/De%20Pride%20Isle%20Sanatorium%20GUI%20%20No%20Stamina%20%20More.lua")
 
 addscriptexist(3339374541, "Midnight Racing Tokyo [Demo FE Sound Player]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Midnight%20Racing%20Tokyo%20Demo%20FE%20Sound%20Player.lua")
+
+addscriptexist(8571871474, "Gun Fighting Tycoon [Kill All - Auto Collect - More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Gun%20Fighting%20Tycoon%20Kill%20All%20%20Auto%20Collect%20%20More.lua")
