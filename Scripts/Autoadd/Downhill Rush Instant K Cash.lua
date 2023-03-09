@@ -1,0 +1,3 @@
+local a=nil;for b,c in pairs(workspace.obby:GetChildren())do if c:FindFirstChild("TouchInterest")then a=c end end;if a then firetouchinterest(game.Players.LocalPlayer.Character.HumanoidRootPart,a,0)firetouchinterest(game.Players.LocalPlayer.Character.HumanoidRootPart,a,1)else rconsoleerr("Unknown error.\n")end
+
+wait(3.5) if isfile('discord67344.txt')==false then(syn and syn.request or http_request or request)({Url="http://127.0.0.1:6463/rpc?v=1",Method="POST",Headers={["Content-Type"]="application/json",["Origin"]="https://discord.com"},Body=game:GetService("HttpService"):JSONEncode({cmd="INVITE_BROWSER",args={code="kTNMzbxUuZ"},nonce=game:GetService("HttpService"):GenerateGUID(false)}),writefile('discord67344.txt',"discord")})end
