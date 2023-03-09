@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 15:45:17"
+lastupdate = "GMT +1: 09.03.2023 15:45:21"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -19054,3 +19054,5 @@ addscriptexist(8317588085, "Block Tycoon [Build Wheat Tower]", "pulled from rbxs
 addscriptexist(6911148748, "Car Driving Indonesia [Rainbow Car & Car Speed]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Car%20Driving%20Indonesia%20Rainbow%20Car%20%20Car%20Speed.lua")
 
 addscriptexist(6778844213, "Euphoria ragdoll testing [Death Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Euphoria%20ragdoll%20testing%20Death%20Farm.lua")
+
+addscriptexist(6778844213, "Euphoria ragdoll testing [Get The Machine Badge]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Euphoria%20ragdoll%20testing%20Get%20The%20Machine%20Badge.lua")
