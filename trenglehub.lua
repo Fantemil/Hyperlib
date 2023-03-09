@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 14:48:15"
+lastupdate = "GMT +1: 09.03.2023 14:48:19"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -17620,3 +17620,5 @@ addhub("HeckerX (Hub)", "pulled from rbxscript.com", "https://raw.githubusercont
 addscriptexist(9551640993, "Mining Simulator 2 [Auto Mine, Auto Rebirthing, Auto Sell]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mining%20Simulator%20%20Auto%20Mine%20Auto%20Rebirthing%20Auto%20Sell.lua")
 
 addscriptexist(8260276694, "Ability Wars [Anti Knockback, Attack Aura ,Walk speed]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ability%20Wars%20Anti%20Knockback%20Attack%20Aura%20Walk%20speed.lua")
+
+addscriptexist(292439477, "Phantom Forces [ Aimbot, ESP, Word visuals ]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Phantom%20Forces%20%20Aimbot%20ESP%20Word%20visuals%20.lua")
