@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 15:39:26"
+lastupdate = "GMT +1: 09.03.2023 15:39:30"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18906,3 +18906,5 @@ addscriptexist(6297822481, "Titan Warfare [Infinite Slots]", "pulled from rbxscr
 addscriptexist(2202352383, "Super Power Training SImulator [GUI - All Auto Farms]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Super%20Power%20Training%20SImulator%20GUI%20%20All%20Auto%20Farms.lua")
 
 addscriptexist(8302406789, "Anime Lifting Simulator [Auto Farm GUI]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime%20Lifting%20Simulator%20Auto%20Farm%20GUI.lua")
+
+addscript(6711745807, "Current Game","My Kingdom [Infinite Money - Open Source]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/My%20Kingdom%20Infinite%20Money%20%20Open%20Source.lua")
