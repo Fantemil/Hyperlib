@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 15:41:19"
+lastupdate = "GMT +1: 09.03.2023 15:41:24"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18954,3 +18954,5 @@ addscriptexist(9049840490, "Sonic Speed Simulator [Auto Farm Coins]", "pulled fr
 addscriptexist(662417684, "LUCKY BLOCKS Battlegrounds [Lucky Block, RunSpeed, Fps Boost]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LUCKY%20BLOCKS%20Battlegrounds%20Lucky%20Block%20RunSpeed%20Fps%20Boost.lua")
 
 addscriptexist(8137333410, "Pixel Art Color by number [Auto Paint]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pixel%20Art%20Color%20by%20number%20Auto%20Paint.lua")
+
+addscript(8823442198, "Current Game","Deepwoken Battle Arena [Auto Collect]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Deepwoken%20Battle%20Arena%20Auto%20Collect.lua")
