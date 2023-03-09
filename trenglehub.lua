@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 12:01:26"
+lastupdate = "GMT +1: 09.03.2023 12:01:35"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -15094,3 +15094,5 @@ addscriptuniversal("Universal: Noclip, Fly, BTools", "pulled from rbxscript.com"
 addscript(6656994193, "Current Game","Pet Clicker Simulator Reborn: Infinity Cash", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pet%20Clicker%20Simulator%20Reborn%20Infinity%20Cash.lua")
 
 addscriptexist(2788229376, "Da Hood: Silent Aim, Speed, Strafe", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Da%20Hood%20Silent%20Aim%20Speed%20Strafe.lua")
+
+addscriptexist(6656994193, "Pet Clicker Simulator Reborn: Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pet%20Clicker%20Simulator%20Reborn%20Auto%20Farm.lua")
