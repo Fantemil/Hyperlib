@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 13:25:01"
+lastupdate = "GMT +1: 09.03.2023 13:25:05"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -15470,3 +15470,5 @@ addscript(6983932919, "Current Game","osu!RoVer [Auto Click Circles - Time Warp 
 addscript(9605515605, "Current Game","Sword Lands Simulator - Alpha [Inf Money]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sword%20Lands%20Simulator%20%20Alpha%20Inf%20Money.lua")
 
 addscriptexist(7952502098, "Impossible Glass Bridge Obby - [AUTO FARMER]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Impossible%20Glass%20Bridge%20Obby%20%20AUTO%20FARMER.lua")
+
+addscriptexist(9285238704, "Race Clicker speed [Anti-Cheat bypass]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Race%20Clicker%20speed%20AntiCheat%20bypass.lua")
