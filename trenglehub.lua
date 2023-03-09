@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 15:04:04"
+lastupdate = "GMT +1: 09.03.2023 15:04:12"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18022,3 +18022,5 @@ addscript(8826041180, "Current Game","Hero Simulator [Auto Quest, Auto farm, Aut
 addscriptexist(8302406789, "Anime Lifting Simulator [Auto lift, Auto selll, Auto buy]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime%20Lifting%20Simulator%20Auto%20lift%20Auto%20selll%20Auto%20buy.lua")
 
 addscriptexist(2202352383, "Super Power Training Simulator [Auto Farm Stats]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Super%20Power%20Training%20Simulator%20Auto%20Farm%20Stats.lua")
+
+addscriptexist(9167501050, "Lightsaber Arena [Auto Block & Inf Stamina]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Lightsaber%20Arena%20Auto%20Block%20%20Inf%20Stamina.lua")
