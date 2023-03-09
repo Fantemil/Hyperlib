@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 14:46:57"
+lastupdate = "GMT +1: 09.03.2023 14:47:01"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -17584,3 +17584,5 @@ addscript(9438506890, "Current Game","raise a sogga [Infinite Money]", "pulled f
 addscriptexist(9534337535, "Shrek in the Backrooms [Nuke All- Bomb All - GUI]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Shrek%20in%20the%20Backrooms%20Nuke%20All%20Bomb%20All%20%20GUI.lua")
 
 addscript(7951464846, "Current Game","Penguin Tycoon [Auto Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Penguin%20Tycoon%20Auto%20Farm.lua")
+
+addscript(3403279477, "Current Game","Creeper Aw man [God Mode - Crash Server - Invisible]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Creeper%20Aw%20man%20God%20Mode%20%20Crash%20Server%20%20Invisible.lua")
