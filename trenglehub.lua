@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 15:54:14"
+lastupdate = "GMT +1: 09.03.2023 15:54:18"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -19274,3 +19274,5 @@ addscriptexist(6998582502, "Dungeon Crusaders [Kill Aura, Fps Boost, WalkSpeed]"
 addscriptexist(7817016260, "Bloxston [Esp]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Bloxston%20Esp.lua")
 
 addscriptexist(2788229376, "Da Hood [Collect items]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Da%20Hood%20Collect%20items.lua")
+
+addscriptexist(606849621, "Jailbreak [kill Aura, Auto Farm, Collect airdrops]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Jailbreak%20kill%20Aura%20Auto%20Farm%20Collect%20airdrops.lua")
