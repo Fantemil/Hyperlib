@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 14:24:15"
+lastupdate = "GMT +1: 09.03.2023 14:24:19"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -17006,3 +17006,5 @@ addscriptexist(35397735, "Scuba Diving at Quill Lake [Inf Money]", "pulled from 
 addscript(3044285976, "Current Game","BloxRP [Fist, Melee Kill Aura]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BloxRP%20Fist%20Melee%20Kill%20Aura.lua")
 
 addscriptexist(8619263259, "Critical Legends [Loot All Chests]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Critical%20Legends%20Loot%20All%20Chests.lua")
+
+addscriptexist(7261261021, "Raging Seas [Infinite Stamina]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Raging%20Seas%20Infinite%20Stamina.lua")
