@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 14:15:14"
+lastupdate = "GMT +1: 09.03.2023 14:15:18"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -16778,3 +16778,5 @@ addscriptexist(6206893534, "Cobra Kai Karate [GUI - Auto Farm Bags, Hide Name & 
 addscriptexist(4991214437, "town [Kill All, Gun Mods, Esp]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/town%20Kill%20All%20Gun%20Mods%20Esp.lua")
 
 addscript(9726345231, "Current Game","Duolingo Game Hub [Inf Money]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Duolingo%20Game%20Hub%20Inf%20Money.lua")
+
+addscript(8798268679, "Current Game","Crossroad Combat", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Crossroad%20Combat.lua")
