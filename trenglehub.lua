@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 15:02:10"
+lastupdate = "GMT +1: 09.03.2023 15:02:14"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -17972,3 +17972,5 @@ addscriptexist(659222129, "SwordBurst 2 [Kill Aura - Teleport - Walkspeed]", "pu
 addscriptexist(2965881766, "Brawl-Blox [Infinite Trophies]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BrawlBlox%20Infinite%20Trophies.lua")
 
 addscriptexist(6878438976, "Developer Inc. [Infinite Money - Teleports]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Developer%20Inc%20Infinite%20Money%20%20Teleports.lua")
+
+addscriptexist(9292879820, "Grass Cutting Incremental [GUI - Auto Collect Grass & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Grass%20Cutting%20Incremental%20GUI%20%20Auto%20Collect%20Grass%20%20More.lua")
