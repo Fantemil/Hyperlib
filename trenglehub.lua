@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 14:08:57"
+lastupdate = "GMT +1: 09.03.2023 14:09:01"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -16616,3 +16616,5 @@ addhub("Immigrant [ESP]", "pulled from rbxscript.com", "https://raw.githubuserco
 addscript(2688038742, "Current Game","Area - Omega [Kill All]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Area%20%20Omega%20Kill%20All.lua")
 
 addscriptexist(6872265039, "BedWars [Insta Kill]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BedWars%20Insta%20Kill.lua")
+
+addscript(4237861040, "Current Game","Treacherous Tower [GUI - Auto Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Treacherous%20Tower%20GUI%20%20Auto%20Farm.lua")
