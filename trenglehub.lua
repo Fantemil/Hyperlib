@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 13:55:08"
+lastupdate = "GMT +1: 09.03.2023 13:55:12"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -16256,3 +16256,5 @@ addscript(9601849832, "Current Game","Jetpack Battle [Insta-kill]", "pulled from
 addscriptexist(1962086868, "Tower of hell GUI [ UltraJump, Ultraspeed, Admin ]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tower%20of%20hell%20GUI%20%20UltraJump%20Ultraspeed%20Admin%20.lua")
 
 addscriptexist(9103460924, "Sword Factory X [Anti Cheat Bypass]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sword%20Factory%20X%20Anti%20Cheat%20Bypass.lua")
+
+addscriptexist(9603033881, "Bid Battles [Auto Bid & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Bid%20Battles%20Auto%20Bid%20%20More.lua")
