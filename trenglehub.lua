@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 13:59:09"
+lastupdate = "GMT +1: 09.03.2023 13:59:13"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -16364,3 +16364,5 @@ addscriptexist(263761432, "Horrific Housing [God mode, Destroy Meteor, Kill All}
 addscriptexist(8304191830, "Anime Adventures [GUI - Full Auto Farm & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime%20Adventures%20GUI%20%20Full%20Auto%20Farm%20%20More.lua")
 
 addscript(9508087919, "Current Game","Apeirophobia [Teleport]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Apeirophobia%20Teleport.lua")
+
+addscriptexist(5326405001, "Base Battles [Gun Mods - Trigger Bot & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Base%20Battles%20Gun%20Mods%20%20Trigger%20Bot%20%20More.lua")
