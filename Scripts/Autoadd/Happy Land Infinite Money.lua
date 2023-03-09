@@ -1,1 +1,1 @@
-game:GetService("ReplicatedStorage").Events.BuyVirtualGoodEvent:FireServer("ScooterPastelBlue", -999999999999)
+ game:GetService("ReplicatedStorage").Events.BuyEggEvent:FireServer("RandomEgg", -1000000000)
