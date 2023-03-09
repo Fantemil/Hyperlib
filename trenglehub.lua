@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 15:58:44"
+lastupdate = "GMT +1: 09.03.2023 15:58:48"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -19388,3 +19388,5 @@ addscriptexist(5736409216, "Mall Tycoon [Auto Collect, Auto Buy, Auto rebirth]",
 addscriptexist(659222129, "Swordburst 2 [Free GUI, Auto Farm & More! [Open Sourse]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Swordburst%20%20Free%20GUI%20Auto%20Farm%20%20More%20Open%20Sourse.lua")
 
 addscriptexist(4934471106, "My Hero Mania [GUI - Mob Auto Farm - Auto Quest]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/My%20Hero%20Mania%20GUI%20%20Mob%20Auto%20Farm%20%20Auto%20Quest.lua")
+
+addscriptexist(8396586868, "A 0ne Piece Game [Auto Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/A%20ne%20Piece%20Game%20Auto%20Farm.lua")
