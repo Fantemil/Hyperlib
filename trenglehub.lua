@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 15:55:25"
+lastupdate = "GMT +1: 09.03.2023 15:55:29"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -19304,3 +19304,5 @@ addscriptexist(2317712696, "The Wild West [Ore Esp]", "pulled from rbxscript.com
 addscriptexist(654732683, "Car Crusher 2 [Core Control GUI]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Car%20Crusher%20%20Core%20Control%20GUI.lua")
 
 addscriptexist(4111023553, "Deepwoken [Anti Acid]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Deepwoken%20Anti%20Acid.lua")
+
+addscriptexist(2753915549, "Blox Fruits [Auto Farm Bone, Farm Boss, Drop Fruit]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blox%20Fruits%20Auto%20Farm%20Bone%20Farm%20Boss%20Drop%20Fruit.lua")
