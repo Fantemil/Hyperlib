@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 15:50:21"
+lastupdate = "GMT +1: 09.03.2023 15:50:26"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -19180,3 +19180,5 @@ addscriptexist(8781849572, "Star Simulator Beta [Unlock Everyones Land]", "pulle
 addhub("Roblox Free Script Hub [3 Games]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Roblox%20Free%20Script%20Hub%20%20Games.lua")
 
 addscriptexist(8357510970, "Anime Punching Simulator [Auto Tap, Auto Rebirth, Auto Open Egg]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime%20Punching%20Simulator%20Auto%20Tap%20Auto%20Rebirth%20Auto%20Open%20Egg.lua")
+
+addscriptexist(3623096087, "Muscle Legends [Kill, Location, Pir Stats]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Muscle%20Legends%20Kill%20Location%20Pir%20Stats.lua")
