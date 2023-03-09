@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 14:11:38"
+lastupdate = "GMT +1: 09.03.2023 14:11:44"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -16684,3 +16684,5 @@ addscriptexist(8739839954, "Jujutsu Tycoon [Kill Students]", "pulled from rbxscr
 addscriptexist(8739839954, "Jujutsu Tycoon [Kill All Players]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Jujutsu%20Tycoon%20Kill%20All%20Players.lua")
 
 addscriptexist(9936860371, "Egg Packing Tycoon [GUI - Auto Collect Eggs, Auto Place Eggs]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Egg%20Packing%20Tycoon%20GUI%20%20Auto%20Collect%20Eggs%20Auto%20Place%20Eggs.lua")
+
+addscriptexist(6284583030, "Pet Simulator X [GUI - Auto Farm, Auto Collect All & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pet%20Simulator%20X%20GUI%20%20Auto%20Farm%20Auto%20Collect%20All%20%20More.lua")
