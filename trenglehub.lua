@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 16:05:08"
+lastupdate = "GMT +1: 09.03.2023 16:05:12"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -19538,3 +19538,5 @@ addscriptexist(7285447838, "Tokyo Saga [No Cooldowns For Everything - Show Hitbo
 addscriptexist(3102144307, "Anime Clickers Simulator [Auto Pick Up Scavenger Shards]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime%20Clickers%20Simulator%20Auto%20Pick%20Up%20Scavenger%20Shards.lua")
 
 addscriptexist(6582467377, "Vanity [Delete Tool]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Vanity%20Delete%20Tool.lua")
+
+addscript(8834250772, "Current Game","Attack Simulator [Auto Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Attack%20Simulator%20Auto%20Farm.lua")
