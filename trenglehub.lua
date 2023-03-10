@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 10.03.2023 23:24:02"
+lastupdate = "GMT +1: 10.03.2023 23:28:58"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -19605,3 +19605,5 @@ addscriptexist(1962086868, "Tower Of Hell: God Mod, Auto Farm, Auto Win", "pulle
 addscript(4104106043, "Current Game","Insane Elevator: Infinity Jump, Walkspeed, Teleports", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Insane%20Elevator%20Infinity%20Jump%20Walkspeed%20Teleports.lua")
 
 addscriptexist(8540346411, "Rebirth Champions X: Auto Tap, Auto Buy, Auto Rebirth", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Rebirth%20Champions%20X%20Auto%20Tap%20Auto%20Buy%20Auto%20Rebirth.lua")
+
+addscriptuniversal("Pets Simulator X Anti Stealer", "pulled from rscripts", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pets%20Simulator%20X%20Anti%20Stealer.lua")
