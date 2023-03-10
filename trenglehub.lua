@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 10.03.2023 23:23:39"
+lastupdate = "GMT +1: 10.03.2023 23:23:43"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -19595,3 +19595,5 @@ addscriptuniversal("Universal Lag Switch", "pulled from rbxscript.com", "https:/
 
 addscriptexist(2753915549, "Void Hub Rain Fruits Visual", "pulled from rscripts", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Void%20Hub%20Rain%20Fruits%20Visual.lua")
 addscriptexist(12336036424, "Slasher Blade: Get Lots Of Gems/coins", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Slasher%20Blade%20Get%20Lots%20Of%20Gemscoins.lua")
+
+addscriptexist(12192552089, "Fruit Warriors: Lag Server", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Fruit%20Warriors%20Lag%20Server.lua")
