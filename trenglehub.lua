@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 10.03.2023 23:29:43"
+lastupdate = "GMT +1: 10.03.2023 23:29:55"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -19610,3 +19610,4 @@ addscriptuniversal("Pets Simulator X Anti Stealer", "pulled from rscripts", "htt
 addscriptexist(3272915504, "Arcane Odyssey Chest Autofarm", "pulled from rscripts", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Arcane%20Odyssey%20Chest%20Autofarm.lua")
 addscriptexist(1962086868, "Yum Hub | 3+ Games!!", "pulled from rscripts", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Yum%20Hub%20%20%20Games.lua")
 addscriptexist(192800, "Vip Item Buyer for work at a pizza palce", "pulled from rscripts", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Vip%20Item%20Buyer%20for%20work%20at%20a%20pizza%20palce.lua")
+addscript(8507479511,"Current Game", "+1 jump every second clone basically", "pulled from rscripts", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/%20jump%20every%20second%20clone%20basically.lua")
