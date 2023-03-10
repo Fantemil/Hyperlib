@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 09.03.2023 16:07:21"
+lastupdate = "GMT +1: 10.03.2023 08:53:26"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -19588,3 +19588,5 @@ addscriptexist(6284583030, "Pet Simulator X [BK GUI - Auto-Farm, Auto-Open & Mor
 addscriptexist(8260276694, "Ability Wars [Kill All]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ability%20Wars%20Kill%20All.lua")
 
 addscriptexist(2971329387, "Cooks Burger [Toggle All Doors]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Cooks%20Burger%20Toggle%20All%20Doors.lua")
+
+addscriptexist(6516141723, "DOORS: ESP, Walkspeed, Get Crucifix", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DOORS%20ESP%20Walkspeed%20Get%20Crucifix.lua")
