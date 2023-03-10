@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 10.03.2023 23:23:48"
+lastupdate = "GMT +1: 10.03.2023 23:23:52"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -19599,3 +19599,5 @@ addscriptexist(12336036424, "Slasher Blade: Get Lots Of Gems/coins", "pulled fro
 addscriptexist(12192552089, "Fruit Warriors: Lag Server", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Fruit%20Warriors%20Lag%20Server.lua")
 
 addscriptexist(12192552089, "Fruit Warriors: Collect Chests", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Fruit%20Warriors%20Collect%20Chests.lua")
+
+addscriptexist(1962086868, "Tower Of Hell: God Mod, Auto Farm, Auto Win", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tower%20Of%20Hell%20God%20Mod%20Auto%20Farm%20Auto%20Win.lua")
