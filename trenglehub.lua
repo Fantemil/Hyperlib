@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 10.03.2023 23:23:52"
+lastupdate = "GMT +1: 10.03.2023 23:23:58"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -19601,3 +19601,5 @@ addscriptexist(12192552089, "Fruit Warriors: Lag Server", "pulled from rbxscript
 addscriptexist(12192552089, "Fruit Warriors: Collect Chests", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Fruit%20Warriors%20Collect%20Chests.lua")
 
 addscriptexist(1962086868, "Tower Of Hell: God Mod, Auto Farm, Auto Win", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tower%20Of%20Hell%20God%20Mod%20Auto%20Farm%20Auto%20Win.lua")
+
+addscript(4104106043, "Current Game","Insane Elevator: Infinity Jump, Walkspeed, Teleports", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Insane%20Elevator%20Infinity%20Jump%20Walkspeed%20Teleports.lua")
