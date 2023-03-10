@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 10.03.2023 08:53:30"
+lastupdate = "GMT +1: 10.03.2023 08:57:23"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -19592,3 +19592,5 @@ addscriptexist(2971329387, "Cooks Burger [Toggle All Doors]", "pulled from rbxsc
 addscriptexist(6516141723, "DOORS: ESP, Walkspeed, Get Crucifix", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DOORS%20ESP%20Walkspeed%20Get%20Crucifix.lua")
 
 addscriptuniversal("Universal Lag Switch", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Lag%20Switch.lua")
+
+addscriptexist(2753915549, "Void Hub Rain Fruits Visual", "pulled from rscripts", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Void%20Hub%20Rain%20Fruits%20Visual.lua")
