@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 10.03.2023 23:30:07"
+lastupdate = "GMT +1: 10.03.2023 23:30:18"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -19612,3 +19612,4 @@ addscriptexist(1962086868, "Yum Hub | 3+ Games!!", "pulled from rscripts", "http
 addscriptexist(192800, "Vip Item Buyer for work at a pizza palce", "pulled from rscripts", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Vip%20Item%20Buyer%20for%20work%20at%20a%20pizza%20palce.lua")
 addscript(8507479511,"Current Game", "+1 jump every second clone basically", "pulled from rscripts", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/%20jump%20every%20second%20clone%20basically.lua")
 addscriptexist(2788229376, "Script Da Hood KLD By Mr", "pulled from rscripts", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Script%20Da%20Hood%20KLD%20By%20Mr.lua")
+addscript(10427037408,"Current Game", "Script Life Sentence KLD", "pulled from rscripts", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Script%20Life%20Sentence%20KLD.lua")
