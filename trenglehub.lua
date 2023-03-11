@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 11.03.2023 12:24:18"
+lastupdate = "GMT +1: 11.03.2023 12:24:24"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -19660,3 +19660,5 @@ addscriptexist(2629642516, "Bitcoin Miner [Beta]: Redeem All Codes, Spoof Gamepa
 addscriptexist(6872265039, "BedWars: Elder Tree Orb Esp", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BedWars%20Elder%20Tree%20Orb%20Esp.lua")
 
 addscript(12413160778, "Current Game","Ez Dev: Anti Cheat Bypass, Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ez%20Dev%20Anti%20Cheat%20Bypass%20Auto%20Farm.lua")
+
+addscriptexist(8540346411, "Rebirth Champions X: Auto Farm, Auto Open Eggs, Auto Upgrade Pets", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Rebirth%20Champions%20X%20Auto%20Farm%20Auto%20Open%20Eggs%20Auto%20Upgrade%20Pets.lua")
