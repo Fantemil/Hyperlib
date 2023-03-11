@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Jemangetamere/Keyland-p/main/KLD%20LS", true))()
