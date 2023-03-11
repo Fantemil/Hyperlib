@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 11.03.2023 18:05:45"
+lastupdate = "GMT +1: 11.03.2023 18:05:50"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -19676,3 +19676,5 @@ addscriptexist(11137575513, "The Chosen One: Kill All, Anti Afk, Delete All Bloc
 addscriptexist(183364845, "Speed Run 4: Walkspeed, Jumppower, Teleport Tool", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Speed%20Run%20%20Walkspeed%20Jumppower%20Teleport%20Tool.lua")
 
 addscriptexist(6764533218, "Washiez: Press V to Fly", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Washiez%20Press%20V%20to%20Fly.lua")
+
+addscriptexist(2788229376, "Da Hood: AntiLock, Low GFX, Anti Stomp", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Da%20Hood%20AntiLock%20Low%20GFX%20Anti%20Stomp.lua")
