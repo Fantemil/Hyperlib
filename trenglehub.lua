@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 11.03.2023 12:22:39"
+lastupdate = "GMT +1: 11.03.2023 12:22:43"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -19616,3 +19616,5 @@ addscript(10427037408,"Current Game", "Script Life Sentence KLD", "pulled from r
 addscriptexist(5780309044, "Stands Awakening: ESP, Teleports, Remove Effects", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Stands%20Awakening%20ESP%20Teleports%20Remove%20Effects.lua")
 
 addscriptexist(6711745807, "My Kingdom: Infinity Money", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/My%20Kingdom%20Infinity%20Money.lua")
+
+addscriptexist(11929558254, "+1 Per Second: Auto Win", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/%20Per%20Second%20Auto%20Win.lua")
