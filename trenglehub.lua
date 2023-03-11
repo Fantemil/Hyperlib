@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 11.03.2023 18:05:40"
+lastupdate = "GMT +1: 11.03.2023 18:05:45"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -19674,3 +19674,5 @@ addscriptexist(11118216071, "Pet Trading Card Simulator: Auto Click, Auto Equip 
 addscriptexist(11137575513, "The Chosen One: Kill All, Anti Afk, Delete All Blocks", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/The%20Chosen%20One%20Kill%20All%20Anti%20Afk%20Delete%20All%20Blocks.lua")
 
 addscriptexist(183364845, "Speed Run 4: Walkspeed, Jumppower, Teleport Tool", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Speed%20Run%20%20Walkspeed%20Jumppower%20Teleport%20Tool.lua")
+
+addscriptexist(6764533218, "Washiez: Press V to Fly", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Washiez%20Press%20V%20to%20Fly.lua")
