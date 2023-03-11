@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 11.03.2023 12:23:20"
+lastupdate = "GMT +1: 11.03.2023 12:23:24"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -19634,3 +19634,5 @@ addscriptexist(5002210114, "Kitty: Teleports, ESP, Spam Attacks", "pulled from r
 addscriptexist(10427037408, "Life Sentence: Aimlock, Silent Guns & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Life%20Sentence%20Aimlock%20Silent%20Guns%20%20More.lua")
 
 addscriptexist(1554960397, "Car Dealership Tycoon: Auto Race, Click TP, Walkspeed", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Car%20Dealership%20Tycoon%20Auto%20Race%20Click%20TP%20Walkspeed.lua")
+
+addscriptexist(2788229376, "Da Hood: Anti Slow, Anti Stomp & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Da%20Hood%20Anti%20Slow%20Anti%20Stomp%20%20More.lua")
