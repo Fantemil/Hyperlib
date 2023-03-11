@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 11.03.2023 12:23:39"
+lastupdate = "GMT +1: 11.03.2023 12:23:43"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -19642,3 +19642,5 @@ addscriptexist(6284583030, "Pet Simulator X: Anti Stealer", "pulled from rbxscri
 addscriptexist(6284583030, "Pet Simulator X: Auto Hatch Eggs, Auto Farm & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pet%20Simulator%20X%20Auto%20Hatch%20Eggs%20Auto%20Farm%20%20More.lua")
 
 addscriptexist(6403373529, "Slap Battles: Fly, Kill Aura, Speed Hack", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Slap%20Battles%20Fly%20Kill%20Aura%20Speed%20Hack.lua")
+
+addscriptexist(4505214429, "Soul Eater: Resonance: AutoFarm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Soul%20Eater%20Resonance%20AutoFarm.lua")
