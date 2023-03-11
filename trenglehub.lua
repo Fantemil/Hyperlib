@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 11.03.2023 12:22:59"
+lastupdate = "GMT +1: 11.03.2023 12:23:03"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -19624,3 +19624,5 @@ addscriptexist(4924922222, "Brookhaven: Animations, Emotions & More", "pulled fr
 addscriptuniversal("Universal FE Follower Cat", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20FE%20Follower%20Cat.lua")
 
 addscriptuniversal("Universal FE Animations Hub", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20FE%20Animations%20Hub.lua")
+
+addscriptexist(9825515356, "Hood Customs: Cam Lock, Press Q to Lock, Press P to Disable", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Hood%20Customs%20Cam%20Lock%20Press%20Q%20to%20Lock%20Press%20P%20to%20Disable.lua")
