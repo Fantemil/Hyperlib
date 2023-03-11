@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 11.03.2023 12:27:10"
+lastupdate = "GMT +1: 11.03.2023 12:27:21"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -19664,3 +19664,4 @@ addscript(12413160778, "Current Game","Ez Dev: Anti Cheat Bypass, Auto Farm", "p
 addscriptexist(8540346411, "Rebirth Champions X: Auto Farm, Auto Open Eggs, Auto Upgrade Pets", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Rebirth%20Champions%20X%20Auto%20Farm%20Auto%20Open%20Eggs%20Auto%20Upgrade%20Pets.lua")
 
 addscriptexist(8884433153, "[ kHub ] Collect All Pets Script [Working - 2023] | Auto-Farm", "pulled from rscripts", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/%20kHub%20%20Collect%20All%20Pets%20Script%20Working%20%20%20%20AutoFarm.lua")
+addscriptuniversal("Car Dealership Tycoon Update", "pulled from rscripts", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Car%20Dealership%20Tycoon%20Update.lua")
