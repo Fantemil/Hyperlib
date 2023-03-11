@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 11.03.2023 12:24:01"
+lastupdate = "GMT +1: 11.03.2023 12:24:05"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -19652,3 +19652,5 @@ addscriptexist(5780309044, "Stands Awakening: Esp, Boss Esp, Remove Effects, Rem
 addscriptexist(258258996, "Miner's Haven: Auto Farm Crates, Auto Rebirth, Teleports", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Miners%20Haven%20Auto%20Farm%20Crates%20Auto%20Rebirth%20Teleports.lua")
 
 addscriptexist(3411100258, "prtty much evry bordr gam evr: Cargo Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/prtty%20much%20evry%20bordr%20gam%20evr%20Cargo%20Auto%20Farm.lua")
+
+addscript(8721702870, "Current Game","فورت نايت العرب: Kill All", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/%D9%81%D9%88%D8%B1%D8%AA%20%D9%86%D8%A7%D9%8A%D8%AA%20%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%20Kill%20All.lua")
