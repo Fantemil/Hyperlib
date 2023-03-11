@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 11.03.2023 12:23:30"
+lastupdate = "GMT +1: 11.03.2023 12:23:35"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -19638,3 +19638,5 @@ addscriptexist(1554960397, "Car Dealership Tycoon: Auto Race, Click TP, Walkspee
 addscriptexist(2788229376, "Da Hood: Anti Slow, Anti Stomp & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Da%20Hood%20Anti%20Slow%20Anti%20Stomp%20%20More.lua")
 
 addscriptexist(6284583030, "Pet Simulator X: Anti Stealer", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pet%20Simulator%20X%20Anti%20Stealer.lua")
+
+addscriptexist(6284583030, "Pet Simulator X: Auto Hatch Eggs, Auto Farm & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pet%20Simulator%20X%20Auto%20Hatch%20Eggs%20Auto%20Farm%20%20More.lua")
