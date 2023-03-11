@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 11.03.2023 12:22:55"
+lastupdate = "GMT +1: 11.03.2023 12:22:59"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -19622,3 +19622,5 @@ addscriptexist(11929558254, "+1 Per Second: Auto Win", "pulled from rbxscript.co
 addscriptexist(4924922222, "Brookhaven: Animations, Emotions & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Brookhaven%20Animations%20Emotions%20%20More.lua")
 
 addscriptuniversal("Universal FE Follower Cat", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20FE%20Follower%20Cat.lua")
+
+addscriptuniversal("Universal FE Animations Hub", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20FE%20Animations%20Hub.lua")
