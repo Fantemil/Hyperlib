@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 11.03.2023 12:23:07"
+lastupdate = "GMT +1: 11.03.2023 12:23:11"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -19628,3 +19628,5 @@ addscriptuniversal("Universal FE Animations Hub", "pulled from rbxscript.com", "
 addscriptexist(9825515356, "Hood Customs: Cam Lock, Press Q to Lock, Press P to Disable", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Hood%20Customs%20Cam%20Lock%20Press%20Q%20to%20Lock%20Press%20P%20to%20Disable.lua")
 
 addscriptexist(4520749081, "King Legacy: Aimbot, Auto Farm, Auto Stats", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/King%20Legacy%20Aimbot%20Auto%20Farm%20Auto%20Stats.lua")
+
+addscriptexist(5002210114, "Kitty: Teleports, ESP, Spam Attacks", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Kitty%20Teleports%20ESP%20Spam%20Attacks.lua")
