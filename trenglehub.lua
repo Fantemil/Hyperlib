@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 11.03.2023 12:24:09"
+lastupdate = "GMT +1: 11.03.2023 12:24:13"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -19656,3 +19656,5 @@ addscriptexist(3411100258, "prtty much evry bordr gam evr: Cargo Auto Farm", "pu
 addscript(8721702870, "Current Game","فورت نايت العرب: Kill All", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/%D9%81%D9%88%D8%B1%D8%AA%20%D9%86%D8%A7%D9%8A%D8%AA%20%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%20Kill%20All.lua")
 
 addscriptexist(2629642516, "Bitcoin Miner [Beta]: Redeem All Codes, Spoof Gamepasses, Teleports", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Bitcoin%20Miner%20Beta%20Redeem%20All%20Codes%20Spoof%20Gamepasses%20Teleports.lua")
+
+addscriptexist(6872265039, "BedWars: Elder Tree Orb Esp", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BedWars%20Elder%20Tree%20Orb%20Esp.lua")
