@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 11.03.2023 12:23:48"
+lastupdate = "GMT +1: 11.03.2023 12:23:52"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -19646,3 +19646,5 @@ addscriptexist(6403373529, "Slap Battles: Fly, Kill Aura, Speed Hack", "pulled f
 addscriptexist(4505214429, "Soul Eater: Resonance: AutoFarm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Soul%20Eater%20Resonance%20AutoFarm.lua")
 
 addscriptexist(258258996, "Miner's Haven: Auto Farm Crates, Auto Farm Clovers, Teleports", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Miners%20Haven%20Auto%20Farm%20Crates%20Auto%20Farm%20Clovers%20Teleports.lua")
+
+addscriptexist(5780309044, "Stands Awakening: Esp, Boss Esp, Remove Effects, Remove Lava", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Stands%20Awakening%20Esp%20Boss%20Esp%20Remove%20Effects%20Remove%20Lava.lua")
