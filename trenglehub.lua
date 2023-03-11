@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 11.03.2023 12:27:47"
+lastupdate = "GMT +1: 11.03.2023 18:05:27"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -19667,3 +19667,4 @@ addscriptexist(8884433153, "[ kHub ] Collect All Pets Script [Working - 2023] | 
 addscriptuniversal("Car Dealership Tycoon Update", "pulled from rscripts", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Car%20Dealership%20Tycoon%20Update.lua")
 addscriptexist(12336036424, "Slasher Blade ⚔️ [OPEN SORUCE]", "pulled from rscripts", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Slasher%20Blade%20%20OPEN%20SORUCE.lua")
 addscriptexist(11912525919, "Every Second You Get +1", "pulled from rscripts", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Every%20Second%20You%20Get%20.lua")
+addscript(11600882147, "Current Game","Final Tower Defense [BETA]: Add Unit", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Final%20Tower%20Defense%20BETA%20Add%20Unit.lua")
