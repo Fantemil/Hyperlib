@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 11.03.2023 18:05:31"
+lastupdate = "GMT +1: 11.03.2023 18:05:35"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -19670,3 +19670,5 @@ addscriptexist(11912525919, "Every Second You Get +1", "pulled from rscripts", "
 addscript(11600882147, "Current Game","Final Tower Defense [BETA]: Add Unit", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Final%20Tower%20Defense%20BETA%20Add%20Unit.lua")
 
 addscriptexist(11118216071, "Pet Trading Card Simulator: Auto Click, Auto Equip & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pet%20Trading%20Card%20Simulator%20Auto%20Click%20Auto%20Equip%20%20More.lua")
+
+addscriptexist(11137575513, "The Chosen One: Kill All, Anti Afk, Delete All Blocks", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/The%20Chosen%20One%20Kill%20All%20Anti%20Afk%20Delete%20All%20Blocks.lua")
