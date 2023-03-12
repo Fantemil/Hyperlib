@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 12.03.2023 15:58:56"
+lastupdate = "GMT +1: 12.03.2023 15:59:03"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -19691,3 +19691,5 @@ addscriptexist(9872472334, "Evade: Inf Jump, Teleports, ESP", "pulled from rbxsc
 addscript(12413786484, "Current Game","Anime Lost Simulator: Auto Farm, Auto Rebirths, Auto Collect Coins", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime%20Lost%20Simulator%20Auto%20Farm%20Auto%20Rebirths%20Auto%20Collect%20Coins.lua")
 
 addscriptexist(5780309044, "game stand awakening: Event boss GUI", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/game%20stand%20awakening%20Event%20boss%20GUI.lua")
+
+addhub("Gaming Hub: 61 Games", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Gaming%20Hub%20%20Games.lua")
