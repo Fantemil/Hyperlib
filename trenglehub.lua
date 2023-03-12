@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 11.03.2023 18:08:34"
+lastupdate = "GMT +1: 12.03.2023 15:58:30"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -19680,3 +19680,4 @@ addscriptexist(6764533218, "Washiez: Press V to Fly", "pulled from rbxscript.com
 addscriptexist(2788229376, "Da Hood: AntiLock, Low GFX, Anti Stomp", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Da%20Hood%20AntiLock%20Low%20GFX%20Anti%20Stomp.lua")
 
 addscriptexist(5780309044, "Stands Awakening Event boss GUI", "pulled from rscripts", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Stands%20Awakening%20Event%20boss%20GUI.lua")
+addscriptexist(1962086868, "Tower of Hell: Godmode, BHop, Inf JUmps", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tower%20of%20Hell%20Godmode%20BHop%20Inf%20JUmps.lua")
