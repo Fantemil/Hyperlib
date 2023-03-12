@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 12.03.2023 16:04:11"
+lastupdate = "GMT +1: 12.03.2023 16:04:21"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -19690,3 +19690,4 @@ addscriptexist(8568266872, "Kill Monsters to Save Princess / Auto Farm", "pulled
 addscript(12547990726,"Current Game", "Auto Farm / by OXYGEN", "pulled from rscripts", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Farm%20%20by%20OXYGEN.lua")
 addscriptexist(8500690972, "Dont Stop Obby Script", "pulled from rscripts", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Dont%20Stop%20Obby%20Script.lua")
 addscriptexist(11334163219, " 2X[UPD 4🔥EVENT🍀] Anime Power Simulator Script", "pulled from rscripts", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/%20XUPD%20EVENT%20Anime%20Power%20Simulator%20Script.lua")
+addscriptuniversal("One Protocol API: 17 Games Supported", "pulled from rscripts", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/One%20Protocol%20API%20%20Games%20Supported.lua")
