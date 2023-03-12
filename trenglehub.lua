@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 12.03.2023 16:04:43"
+lastupdate = "GMT +1: 12.03.2023 16:04:53"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -19693,3 +19693,4 @@ addscriptexist(11334163219, " 2X[UPD 4🔥EVENT🍀] Anime Power Simulator Scrip
 addscriptuniversal("One Protocol API: 17 Games Supported", "pulled from rscripts", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/One%20Protocol%20API%20%20Games%20Supported.lua")
 addscript(12431976819,"Current Game", "Sea Piece 2 Script - Fruit/Chest Autofarm & More", "pulled from rscripts", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sea%20Piece%20%20Script%20%20FruitChest%20Autofarm%20%20More.lua")
 addscriptuniversal("Volume Slider Script", "pulled from rscripts", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Volume%20Slider%20Script.lua")
+addscriptexist(5780309044, "Stands Awakening Event boss GUI", "pulled from rscripts", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Stands%20Awakening%20Event%20boss%20GUI.lua")
