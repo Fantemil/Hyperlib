@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 12.03.2023 16:03:37"
+lastupdate = "GMT +1: 12.03.2023 16:03:47"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -19687,3 +19687,4 @@ addscriptexist(5780309044, "game stand awakening: Event boss GUI", "pulled from 
 addhub("Gaming Hub: 61 Games", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Gaming%20Hub%20%20Games.lua")
 
 addscriptexist(8568266872, "Kill Monsters to Save Princess / Auto Farm", "pulled from rscripts", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Kill%20Monsters%20to%20Save%20Princess%20%20Auto%20Farm.lua")
+addscript(12547990726,"Current Game", "Auto Farm / by OXYGEN", "pulled from rscripts", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Farm%20%20by%20OXYGEN.lua")
