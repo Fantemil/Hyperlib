@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/WinterDinder/56-Clubs-Don-t-Stop-Obby/main/Main", true))()
