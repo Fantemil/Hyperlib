@@ -19667,29 +19667,3 @@ addscriptexist(8884433153, "[ kHub ] Collect All Pets Script [Working - 2023] | 
 addscriptuniversal("Car Dealership Tycoon Update", "pulled from rscripts", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Car%20Dealership%20Tycoon%20Update.lua")
 addscriptexist(12336036424, "Slasher Blade ⚔️ [OPEN SORUCE]", "pulled from rscripts", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Slasher%20Blade%20%20OPEN%20SORUCE.lua")
 addscriptexist(11912525919, "Every Second You Get +1", "pulled from rscripts", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Every%20Second%20You%20Get%20.lua")
-addscript(11600882147, "Current Game","Final Tower Defense [BETA]: Add Unit", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Final%20Tower%20Defense%20BETA%20Add%20Unit.lua")
-
-addscriptexist(11118216071, "Pet Trading Card Simulator: Auto Click, Auto Equip & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pet%20Trading%20Card%20Simulator%20Auto%20Click%20Auto%20Equip%20%20More.lua")
-
-addscriptexist(11137575513, "The Chosen One: Kill All, Anti Afk, Delete All Blocks", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/The%20Chosen%20One%20Kill%20All%20Anti%20Afk%20Delete%20All%20Blocks.lua")
-
-addscriptexist(183364845, "Speed Run 4: Walkspeed, Jumppower, Teleport Tool", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Speed%20Run%20%20Walkspeed%20Jumppower%20Teleport%20Tool.lua")
-
-addscriptexist(6764533218, "Washiez: Press V to Fly", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Washiez%20Press%20V%20to%20Fly.lua")
-
-addscriptexist(2788229376, "Da Hood: AntiLock, Low GFX, Anti Stomp", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Da%20Hood%20AntiLock%20Low%20GFX%20Anti%20Stomp.lua")
-
-addscriptexist(5780309044, "Stands Awakening Event boss GUI", "pulled from rscripts", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Stands%20Awakening%20Event%20boss%20GUI.lua")
-addscriptexist(1962086868, "Tower of Hell: Godmode, BHop, Inf JUmps", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tower%20of%20Hell%20Godmode%20BHop%20Inf%20JUmps.lua")
-
-addscriptexist(3101667897, "Legends Of Speed: AutoFarm, Auto Rebirth, Walkspeed", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Legends%20Of%20Speed%20AutoFarm%20Auto%20Rebirth%20Walkspeed.lua")
-
-addscriptexist(1240123653, "Zombie Attack: Auto Farm, Kill Platform", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Zombie%20Attack%20Auto%20Farm%20Kill%20Platform.lua")
-
-addscriptexist(9872472334, "Evade: Inf Jump, Teleports, ESP", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Evade%20Inf%20Jump%20Teleports%20ESP.lua")
-
-addscript(12413786484, "Current Game","Anime Lost Simulator: Auto Farm, Auto Rebirths, Auto Collect Coins", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime%20Lost%20Simulator%20Auto%20Farm%20Auto%20Rebirths%20Auto%20Collect%20Coins.lua")
-
-addscriptexist(5780309044, "game stand awakening: Event boss GUI", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/game%20stand%20awakening%20Event%20boss%20GUI.lua")
-
-addhub("Gaming Hub: 61 Games", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Gaming%20Hub%20%20Games.lua")
