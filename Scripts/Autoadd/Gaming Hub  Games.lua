@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/GamingResources/GamingResources-Script-Hub/main/Key%20System", true))()
+loadstring(game:HttpGet('https://gamingresources.github.io/ScriptHub.lua'))()
