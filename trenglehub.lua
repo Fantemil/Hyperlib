@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 12.03.2023 16:00:28"
+lastupdate = "GMT +1: 12.03.2023 16:00:31"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -19669,3 +19669,5 @@ addscriptexist(12336036424, "Slasher Blade ⚔️ [OPEN SORUCE]", "pulled from r
 addscriptexist(11912525919, "Every Second You Get +1", "pulled from rscripts", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Every%20Second%20You%20Get%20.lua")
 
 addscriptexist(10710676163, "SPTS : Origin: Auto Stats, Water Walking, Teleports", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SPTS%20%20Origin%20Auto%20Stats%20Water%20Walking%20Teleports.lua")
+
+addscriptexist(10106105124, "Wheat Farming Simulator: Auto Collect, Auto Sell, Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Wheat%20Farming%20Simulator%20Auto%20Collect%20Auto%20Sell%20Auto%20Farm.lua")
