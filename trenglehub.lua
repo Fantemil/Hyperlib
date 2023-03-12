@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 12.03.2023 16:00:31"
+lastupdate = "GMT +1: 12.03.2023 16:00:35"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -19671,3 +19671,5 @@ addscriptexist(11912525919, "Every Second You Get +1", "pulled from rscripts", "
 addscriptexist(10710676163, "SPTS : Origin: Auto Stats, Water Walking, Teleports", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SPTS%20%20Origin%20Auto%20Stats%20Water%20Walking%20Teleports.lua")
 
 addscriptexist(10106105124, "Wheat Farming Simulator: Auto Collect, Auto Sell, Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Wheat%20Farming%20Simulator%20Auto%20Collect%20Auto%20Sell%20Auto%20Farm.lua")
+
+addscriptexist(1962086868, "Tower of Hell: Godmode, BHop, Inf JUmps", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tower%20of%20Hell%20Godmode%20BHop%20Inf%20JUmps.lua")
