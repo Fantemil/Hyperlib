@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 12.03.2023 16:00:43"
+lastupdate = "GMT +1: 12.03.2023 16:00:47"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -19677,3 +19677,5 @@ addscriptexist(1962086868, "Tower of Hell: Godmode, BHop, Inf JUmps", "pulled fr
 addscriptexist(3101667897, "Legends Of Speed: AutoFarm, Auto Rebirth, Walkspeed", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Legends%20Of%20Speed%20AutoFarm%20Auto%20Rebirth%20Walkspeed.lua")
 
 addscriptexist(1240123653, "Zombie Attack: Auto Farm, Kill Platform", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Zombie%20Attack%20Auto%20Farm%20Kill%20Platform.lua")
+
+addscriptexist(9872472334, "Evade: Inf Jump, Teleports, ESP", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Evade%20Inf%20Jump%20Teleports%20ESP.lua")
