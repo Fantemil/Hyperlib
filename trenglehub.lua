@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 12.03.2023 16:05:04"
+lastupdate = "GMT +1: 12.03.2023 16:05:15"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -19695,3 +19695,4 @@ addscript(12431976819,"Current Game", "Sea Piece 2 Script - Fruit/Chest Autofarm
 addscriptuniversal("Volume Slider Script", "pulled from rscripts", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Volume%20Slider%20Script.lua")
 addscriptexist(5780309044, "Stands Awakening Event boss GUI", "pulled from rscripts", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Stands%20Awakening%20Event%20boss%20GUI.lua")
 addscriptexist(3272915504, "The best Arcane Odyssey script as of right now By DekuDimz", "pulled from rscripts", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/The%20best%20Arcane%20Odyssey%20script%20as%20of%20right%20now%20By%20DekuDimz.lua")
+addscriptexist(8884433153, "[ kHub ] Collect All Pets Ultimate Script [Working - 2023] | Auto-Farm", "pulled from rscripts", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/%20kHub%20%20Collect%20All%20Pets%20Ultimate%20Script%20Working%20%20%20%20AutoFarm.lua")
