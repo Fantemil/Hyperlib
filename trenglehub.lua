@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 12.03.2023 21:36:58"
+lastupdate = "GMT +1: 13.03.2023 16:40:53"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -19701,3 +19701,4 @@ addscriptexist(286090429, "Arsenal: Ragebot, Bullet-Per-Shot changer, Instant we
 addscriptexist(3101667897, "Legends Of Speed: Auto Hatch Eggs, Auto Hoops, Auto Rebirth", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Legends%20Of%20Speed%20Auto%20Hatch%20Eggs%20Auto%20Hoops%20Auto%20Rebirth.lua")
 
 addscriptexist(12413786484, "Anime Lost Simulator / BEST AUTO FARM ", "pulled from rscripts", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime%20Lost%20Simulator%20%20BEST%20AUTO%20FARM%20.lua")
+addscriptexist(3272915504, "Arcane Odyssey: Auto Fish, Kill Aura, God Mode & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Arcane%20Odyssey%20Auto%20Fish%20Kill%20Aura%20God%20Mode%20%20More.lua")
