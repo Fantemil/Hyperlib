@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 13.03.2023 16:41:18"
+lastupdate = "GMT +1: 13.03.2023 16:41:40"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -19712,3 +19712,5 @@ addscript(12128572247, "Current Game","MOURS: Speed, God mode", "pulled from rbx
 addscriptexist(9984770240, "Obby but you're a ball: Auto Win, Teleports", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Obby%20but%20youre%20a%20ball%20Auto%20Win%20Teleports.lua")
 
 addscriptexist(292439477, "Phantom Forces: Anti Aim", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Phantom%20Forces%20Anti%20Aim.lua")
+
+addscriptexist(6722284015, "PISTOL 1V1: Silent Aim, Team Check", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PISTOL%20V%20Silent%20Aim%20Team%20Check.lua")
