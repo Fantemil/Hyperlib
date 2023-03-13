@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 13.03.2023 16:46:37"
+lastupdate = "GMT +1: 13.03.2023 16:46:48"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -19727,3 +19727,4 @@ addscriptexist(3272915504, "BEST FREE SCRIPT BRING MOBS", "pulled from rscripts"
 addscriptexist(8540346411, "Rebirth Champions X Script V2", "pulled from rscripts", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Rebirth%20Champions%20X%20Script%20V.lua")
 addscriptexist(2753915549, "🚀 Loyz Hub V4 : Blox Fruits", "pulled from rscripts", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/%20Loyz%20Hub%20V%20%20Blox%20Fruits.lua")
 addscript(1212001367,"Current Game", "Grab All Eggs / OPEN SRC", "pulled from rscripts", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Grab%20All%20Eggs%20%20OPEN%20SRC.lua")
+addscriptexist(4588604953, "Moonlight | Best Free Criminality Script ", "pulled from rscripts", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Moonlight%20%20Best%20Free%20Criminality%20Script%20.lua")
