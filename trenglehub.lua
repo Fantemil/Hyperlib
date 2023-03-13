@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 13.03.2023 16:41:49"
+lastupdate = "GMT +1: 13.03.2023 16:41:54"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -19718,3 +19718,5 @@ addscriptexist(6722284015, "PISTOL 1V1: Silent Aim, Team Check", "pulled from rb
 addscriptexist(6284583030, "Pet Simulator X: Auto Enchant, Auto Farm & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pet%20Simulator%20X%20Auto%20Enchant%20Auto%20Farm%20%20More.lua")
 
 addscriptexist(5956785391, "Project Slayers: Auto Farm, Collect Chest, Auto Skill", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Project%20Slayers%20Auto%20Farm%20Collect%20Chest%20Auto%20Skill.lua")
+
+addscriptexist(8540346411, "Rebirth Champions X: Auto Claim Reward, Auto Click & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Rebirth%20Champions%20X%20Auto%20Claim%20Reward%20Auto%20Click%20%20More.lua")
