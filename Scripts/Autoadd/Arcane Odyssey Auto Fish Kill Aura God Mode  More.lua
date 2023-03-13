@@ -1,0 +1,1 @@
+local httprequest = (syn and syn.request) or (http and http.request) or http_request or (fluxus and fluxus.request) or request loadstring(httprequest({Url = "https://scripts.luawl.com/17293/sasware_AO.lua", Method = "GET"}).Body)() 
