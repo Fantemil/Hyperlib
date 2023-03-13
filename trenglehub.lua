@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 13.03.2023 16:42:00"
+lastupdate = "GMT +1: 13.03.2023 16:45:54"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -19722,3 +19722,5 @@ addscriptexist(5956785391, "Project Slayers: Auto Farm, Collect Chest, Auto Skil
 addscriptexist(8540346411, "Rebirth Champions X: Auto Claim Reward, Auto Click & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Rebirth%20Champions%20X%20Auto%20Claim%20Reward%20Auto%20Click%20%20More.lua")
 
 addscriptexist(8396586868, "A 0ne Piece Game: Chest Farm, Stamina Trainer, Island Teleports", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/A%20ne%20Piece%20Game%20Chest%20Farm%20Stamina%20Trainer%20Island%20Teleports.lua")
+
+addscriptexist(3272915504, "BEST FREE SCRIPT BRING MOBS", "pulled from rscripts", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BEST%20FREE%20SCRIPT%20BRING%20MOBS.lua")
