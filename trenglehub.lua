@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 14.03.2023 14:32:27"
+lastupdate = "GMT +1: 14.03.2023 14:32:35"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -19734,3 +19734,5 @@ addscriptexist(11606818992, "Steep steps script ", "pulled from rscripts", "http
 addscriptexist(11606818992, "STEEP STEPS: Wins autofarm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/STEEP%20STEPS%20Wins%20autofarm.lua")
 
 addscriptexist(12413786484, "Anime Lost Simulator: Auto Collect Coins, Auto Attack, Auto Teleport Mob", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime%20Lost%20Simulator%20Auto%20Collect%20Coins%20Auto%20Attack%20Auto%20Teleport%20Mob.lua")
+
+addscript(3402132663, "Current Game","Stand Proud: Auto Attack, Auto Use Skills, Auto Teleport Charapter", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Stand%20Proud%20Auto%20Attack%20Auto%20Use%20Skills%20Auto%20Teleport%20Charapter.lua")
