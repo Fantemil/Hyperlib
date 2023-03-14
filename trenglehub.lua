@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 14.03.2023 14:33:45"
+lastupdate = "GMT +1: 14.03.2023 14:34:02"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -19750,3 +19750,5 @@ addscriptuniversal("Universal: Jumppower, Inf Jump, Walkspeed", "pulled from rbx
 addscriptexist(2788229376, "Da Hood: Aimlock, Anti Stomp, Anti Bag", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Da%20Hood%20Aimlock%20Anti%20Stomp%20Anti%20Bag.lua")
 
 addscriptexist(12172698927, "Sword Race: Auto Rebirth", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sword%20Race%20Auto%20Rebirth.lua")
+
+addscript(10036492542, "Current Game","Get Muscles Simulator: Redeem All Codes", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Get%20Muscles%20Simulator%20Redeem%20All%20Codes.lua")
