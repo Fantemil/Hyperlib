@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 14.03.2023 14:33:22"
+lastupdate = "GMT +1: 14.03.2023 14:33:36"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -19744,3 +19744,5 @@ addscriptexist(11250063361, "Strongest Anime Squad Simulator: Kill Aura, Insta K
 addhub("Roblox Hub: DA-HUB", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Roblox%20Hub%20DAHUB.lua")
 
 addscriptexist(6516141723, "DOORS: Noclip, Fullbright, Key Aura", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DOORS%20Noclip%20Fullbright%20Key%20Aura.lua")
+
+addscriptuniversal("Universal: Jumppower, Inf Jump, Walkspeed", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Jumppower%20Inf%20Jump%20Walkspeed.lua")
