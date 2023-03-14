@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 13.03.2023 16:47:23"
+lastupdate = "GMT +1: 14.03.2023 14:32:18"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -19731,3 +19731,4 @@ addscriptexist(4588604953, "Moonlight | Best Free Criminality Script ", "pulled 
 addscriptexist(5901548022, "Try To Die Death Hub", "pulled from rscripts", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Try%20To%20Die%20Death%20Hub.lua")
 addscriptexist(6284583030, "Lux - Pet Simulator X", "pulled from rscripts", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Lux%20%20Pet%20Simulator%20X.lua")
 addscriptexist(11606818992, "Steep steps script ", "pulled from rscripts", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Steep%20steps%20script%20.lua")
+addscriptexist(11606818992, "STEEP STEPS: Wins autofarm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/STEEP%20STEPS%20Wins%20autofarm.lua")
