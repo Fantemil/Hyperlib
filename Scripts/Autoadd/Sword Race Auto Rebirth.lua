@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/AverageRobloxUser1/AutoRebirthSwordFight/main/AutoRebirth1",true))();
