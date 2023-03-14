@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 14.03.2023 14:33:03"
+lastupdate = "GMT +1: 14.03.2023 14:33:22"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -19742,3 +19742,5 @@ addscriptexist(3272915504, "Arcane Odyssey: Teleport GUI", "pulled from rbxscrip
 addscriptexist(11250063361, "Strongest Anime Squad Simulator: Kill Aura, Insta Kill, Crash Server", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Strongest%20Anime%20Squad%20Simulator%20Kill%20Aura%20Insta%20Kill%20Crash%20Server.lua")
 
 addhub("Roblox Hub: DA-HUB", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Roblox%20Hub%20DAHUB.lua")
+
+addscriptexist(6516141723, "DOORS: Noclip, Fullbright, Key Aura", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DOORS%20Noclip%20Fullbright%20Key%20Aura.lua")
