@@ -92,13 +92,13 @@ function addscript(Place,Gamename,title,author,scriptlink, website)
             function toexecute()
                 loadstring(game:HttpGet(scriptlink))()
             end
-            bigBlueItalicText("Attempting to execute your script...")
+            bigBlueItalicText("Starting execution of your script...")
 
             local success, result = pcall(toexecute)
             if success then
-                bigGreenItalicText(getLocalPlayerName().. ", your Script executed successfully!")
+                bigGreenItalicText(getLocalPlayerName().. ", your Script finished execution successfully!")
             else
-                bigRedItalicText(getLocalPlayerName().. ", your Script failed to execute!")
+                bigRedItalicText(getLocalPlayerName().. ", your Script failed to finish execution!")
             end
         end)
     end
@@ -113,13 +113,13 @@ function addscriptexist(Place,title,author,scriptlink)
             function toexecute()
                 loadstring(game:HttpGet(scriptlink))()
             end
-            bigBlueItalicText("Attempting to execute your script...")
+            bigBlueItalicText("Starting execution of your script...")
 
             local success, result = pcall(toexecute)
             if success then
-                bigGreenItalicText(getLocalPlayerName().. ", your Script executed successfully!")
+                bigGreenItalicText(getLocalPlayerName().. ", your Script finished execution successfully!")
             else
-                bigRedItalicText(getLocalPlayerName().. ", your Script failed to execute!")
+                bigRedItalicText(getLocalPlayerName().. ", your Script failed to finish execution!")
             end
         end)
     end
@@ -133,13 +133,13 @@ function addscriptuniversal(title,author,scriptlink)
             function toexecute()
                 loadstring(game:HttpGet(scriptlink))()
             end
-            bigBlueItalicText("Attempting to execute your script...")
+            bigBlueItalicText("Starting execution of your script...")
 
             local success, result = pcall(toexecute)
             if success then
-                bigGreenItalicText(getLocalPlayerName().. ", your Script executed successfully!")
+                bigGreenItalicText(getLocalPlayerName().. ", your Script finished execution successfully!")
             else
-                bigRedItalicText(getLocalPlayerName().. ", your Script failed to execute!")
+                bigRedItalicText(getLocalPlayerName().. ", your Script failed to finish execution!")
             end
         end)
 end
@@ -151,12 +151,12 @@ function addhub(title,author,scriptlink)
             function toexecute()
                 loadstring(game:HttpGet(scriptlink))()
             end
-            bigBlueItalicText("Attempting to execute your script...")
+            bigBlueItalicText("Starting execution of your script...")
             local success, result = pcall(toexecute)
             if success then
-                bigGreenItalicText(getLocalPlayerName().. ", your Script executed successfully!")
+                bigGreenItalicText(getLocalPlayerName().. ", your Script finished execution successfully!")
             else
-                bigRedItalicText(getLocalPlayerName().. ", your Script failed to execute!")
+                bigRedItalicText(getLocalPlayerName().. ", your Script failed to finish execution!")
             end
         end)
 end
@@ -19664,7 +19664,6 @@ addscript(12413160778, "Current Game","Ez Dev: Anti Cheat Bypass, Auto Farm", "p
 addscriptexist(8540346411, "Rebirth Champions X: Auto Farm, Auto Open Eggs, Auto Upgrade Pets", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Rebirth%20Champions%20X%20Auto%20Farm%20Auto%20Open%20Eggs%20Auto%20Upgrade%20Pets.lua")
 
 addscriptexist(8884433153, "[ kHub ] Collect All Pets Script [Working - 2023] | Auto-Farm", "pulled from rscripts", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/%20kHub%20%20Collect%20All%20Pets%20Script%20Working%20%20%20%20AutoFarm.lua")
-addscriptuniversal("Car Dealership Tycoon Update", "pulled from rscripts", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Car%20Dealership%20Tycoon%20Update.lua")
 addscriptexist(12336036424, "Slasher Blade ⚔️ [OPEN SORUCE]", "pulled from rscripts", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Slasher%20Blade%20%20OPEN%20SORUCE.lua")
 addscriptexist(11912525919, "Every Second You Get +1", "pulled from rscripts", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Every%20Second%20You%20Get%20.lua")
 
@@ -19753,4 +19752,3 @@ addscriptexist(12172698927, "Sword Race: Auto Rebirth", "pulled from rbxscript.c
 
 addscript(10036492542, "Current Game","Get Muscles Simulator: Redeem All Codes", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Get%20Muscles%20Simulator%20Redeem%20All%20Codes.lua")
 
-addscriptuniversal("Build A Boat For Treasure", "pulled from rscripts", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Build%20A%20Boat%20For%20Treasure.lua")
