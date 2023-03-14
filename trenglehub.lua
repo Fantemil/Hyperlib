@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 14.03.2023 14:32:46"
+lastupdate = "GMT +1: 14.03.2023 14:32:52"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -19738,3 +19738,5 @@ addscriptexist(12413786484, "Anime Lost Simulator: Auto Collect Coins, Auto Atta
 addscript(3402132663, "Current Game","Stand Proud: Auto Attack, Auto Use Skills, Auto Teleport Charapter", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Stand%20Proud%20Auto%20Attack%20Auto%20Use%20Skills%20Auto%20Teleport%20Charapter.lua")
 
 addscriptexist(3272915504, "Arcane Odyssey: Teleport GUI", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Arcane%20Odyssey%20Teleport%20GUI.lua")
+
+addscriptexist(11250063361, "Strongest Anime Squad Simulator: Kill Aura, Insta Kill, Crash Server", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Strongest%20Anime%20Squad%20Simulator%20Kill%20Aura%20Insta%20Kill%20Crash%20Server.lua")
