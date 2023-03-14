@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 14.03.2023 14:33:36"
+lastupdate = "GMT +1: 14.03.2023 14:33:41"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -19746,3 +19746,5 @@ addhub("Roblox Hub: DA-HUB", "pulled from rbxscript.com", "https://raw.githubuse
 addscriptexist(6516141723, "DOORS: Noclip, Fullbright, Key Aura", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DOORS%20Noclip%20Fullbright%20Key%20Aura.lua")
 
 addscriptuniversal("Universal: Jumppower, Inf Jump, Walkspeed", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Jumppower%20Inf%20Jump%20Walkspeed.lua")
+
+addscriptexist(2788229376, "Da Hood: Aimlock, Anti Stomp, Anti Bag", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Da%20Hood%20Aimlock%20Anti%20Stomp%20Anti%20Bag.lua")
