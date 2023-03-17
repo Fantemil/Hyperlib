@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 17.03.2023 14:53:20"
+lastupdate = "GMT +1: 17.03.2023 14:53:25"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -19760,3 +19760,5 @@ addscriptexist(11040063484, "Sword Fighters Simulator: Kill Aura, Auto Mob, Auto
 addscriptexist(11620947043, "Flappy Clicker: Auto Rebirth, Auto Egg, Auto Buy", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Flappy%20Clicker%20Auto%20Rebirth%20Auto%20Egg%20Auto%20Buy.lua")
 
 addhub("Trophy Hub: 2 Games", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Trophy%20Hub%20%20Games.lua")
+
+addscriptexist(12172698927, "Sword Race: Infinity Money", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sword%20Race%20Infinity%20Money.lua")
