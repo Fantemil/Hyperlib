@@ -1,0 +1,1 @@
+loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/K1nGz-xyz/King-Hub/main/KingHub"))()
