@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 17.03.2023 19:46:30"
+lastupdate = "GMT +1: 17.03.2023 19:46:36"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -19791,3 +19791,5 @@ addhub("P|ayer Hub, 12+ games supports and universal script", "pulled from rscri
 addscriptuniversal("DOORS 👁️ Morph Script", "pulled from rscripts", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DOORS%20%20Morph%20Script.lua")
 addscriptuniversal("Build A Boat For Treasure", "pulled from rscripts", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Build%20A%20Boat%20For%20Treasure.lua")
 addscript(7446191316, "Current Game","Shell Shock: Infinite Points", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Shell%20Shock%20Infinite%20Points.lua")
+
+addscriptexist(12299415668, "Block Eating Simulator: Auto Collect", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Block%20Eating%20Simulator%20Auto%20Collect.lua")
