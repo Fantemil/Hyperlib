@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 17.03.2023 14:56:30"
+lastupdate = "GMT +1: 17.03.2023 14:56:41"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -19782,3 +19782,4 @@ addscriptexist(6516141723, "DOORS: Notification, ESP & More", "pulled from rbxsc
 addscriptexist(10675066724, "Slime Tower Tycoon: Auto Merge, Auto Collect, Auto Play", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Slime%20Tower%20Tycoon%20Auto%20Merge%20Auto%20Collect%20Auto%20Play.lua")
 
 addscriptuniversal("Universal FPS Script || URIEL", "pulled from rscripts", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20FPS%20Script%20%20URIEL.lua")
+addscriptuniversal("Trivia bot for Rate My Avatar", "pulled from rscripts", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Trivia%20bot%20for%20Rate%20My%20Avatar.lua")
