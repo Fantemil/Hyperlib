@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 17.03.2023 14:53:57"
+lastupdate = "GMT +1: 17.03.2023 14:54:02"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -19776,3 +19776,5 @@ addscriptuniversal("Universal Walkspeed, Jumppower & More", "pulled from rbxscri
 addscriptexist(537413528, "Build A Boat For Treasure: Walkspeed, Remove Water Damage, Remove Water", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Build%20A%20Boat%20For%20Treasure%20Walkspeed%20Remove%20Water%20Damage%20Remove%20Water.lua")
 
 addscript(7427929301, "Current Game","Easy Parkour Obby: Auto Farm Level", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Easy%20Parkour%20Obby%20Auto%20Farm%20Level.lua")
+
+addscriptexist(6516141723, "DOORS: Notification, ESP & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DOORS%20Notification%20ESP%20%20More.lua")
