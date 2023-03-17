@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 17.03.2023 14:53:10"
+lastupdate = "GMT +1: 17.03.2023 14:53:14"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -19756,3 +19756,5 @@ addscript(10036492542, "Current Game","Get Muscles Simulator: Redeem All Codes",
 addscriptexist(155615604, "Prison Life: UI Libs", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Prison%20Life%20UI%20Libs.lua")
 
 addscriptexist(11040063484, "Sword Fighters Simulator: Kill Aura, Auto Mob, Auto Collect", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sword%20Fighters%20Simulator%20Kill%20Aura%20Auto%20Mob%20Auto%20Collect.lua")
+
+addscriptexist(11620947043, "Flappy Clicker: Auto Rebirth, Auto Egg, Auto Buy", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Flappy%20Clicker%20Auto%20Rebirth%20Auto%20Egg%20Auto%20Buy.lua")
