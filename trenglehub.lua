@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 17.03.2023 14:56:54"
+lastupdate = "GMT +1: 17.03.2023 14:57:06"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -19784,3 +19784,4 @@ addscriptexist(10675066724, "Slime Tower Tycoon: Auto Merge, Auto Collect, Auto 
 addscriptuniversal("Universal FPS Script || URIEL", "pulled from rscripts", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20FPS%20Script%20%20URIEL.lua")
 addscriptuniversal("Trivia bot for Rate My Avatar", "pulled from rscripts", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Trivia%20bot%20for%20Rate%20My%20Avatar.lua")
 addscriptuniversal("Free Korblox Leg Script", "pulled from rscripts", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Free%20Korblox%20Leg%20Script.lua")
+addhub("[MOBILE SUPPORT] Zinc Hub v3.3", "pulled from rscripts", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MOBILE%20SUPPORT%20Zinc%20Hub%20v.lua")
