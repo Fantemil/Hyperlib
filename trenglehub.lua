@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 17.03.2023 14:53:30"
+lastupdate = "GMT +1: 17.03.2023 14:53:34"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -19764,3 +19764,5 @@ addhub("Trophy Hub: 2 Games", "pulled from rbxscript.com", "https://raw.githubus
 addscriptexist(12172698927, "Sword Race: Infinity Money", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sword%20Race%20Infinity%20Money.lua")
 
 addscriptexist(537413528, "Build A Boat For Treasure: Auto Farm, Player Esp, Water Godmode", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Build%20A%20Boat%20For%20Treasure%20Auto%20Farm%20Player%20Esp%20Water%20Godmode.lua")
+
+addscriptexist(12172698927, "Sword Race: Auto Equip Best Pets", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sword%20Race%20Auto%20Equip%20Best%20Pets.lua")
