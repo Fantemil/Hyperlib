@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 17.03.2023 14:57:17"
+lastupdate = "GMT +1: 17.03.2023 14:57:28"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -19786,3 +19786,4 @@ addscriptuniversal("Trivia bot for Rate My Avatar", "pulled from rscripts", "htt
 addscriptuniversal("Free Korblox Leg Script", "pulled from rscripts", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Free%20Korblox%20Leg%20Script.lua")
 addhub("[MOBILE SUPPORT] Zinc Hub v3.3", "pulled from rscripts", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MOBILE%20SUPPORT%20Zinc%20Hub%20v.lua")
 addhub("Kill Monsters To Save The Princess Hub", "pulled from rscripts", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Kill%20Monsters%20To%20Save%20The%20Princess%20Hub.lua")
+addscriptuniversal("Selenium for Arcane Odyssey", "pulled from rscripts", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Selenium%20for%20Arcane%20Odyssey.lua")
