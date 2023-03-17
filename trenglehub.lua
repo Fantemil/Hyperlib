@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 14.03.2023 14:37:37"
+lastupdate = "GMT +1: 17.03.2023 14:53:06"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -19752,3 +19752,5 @@ addscriptexist(12172698927, "Sword Race: Auto Rebirth", "pulled from rbxscript.c
 
 addscript(10036492542, "Current Game","Get Muscles Simulator: Redeem All Codes", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Get%20Muscles%20Simulator%20Redeem%20All%20Codes.lua")
 
+
+addscriptexist(155615604, "Prison Life: UI Libs", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Prison%20Life%20UI%20Libs.lua")
