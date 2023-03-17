@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 17.03.2023 14:57:52"
+lastupdate = "GMT +1: 17.03.2023 14:58:03"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -19789,3 +19789,4 @@ addhub("Kill Monsters To Save The Princess Hub", "pulled from rscripts", "https:
 addscriptuniversal("Selenium for Arcane Odyssey", "pulled from rscripts", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Selenium%20for%20Arcane%20Odyssey.lua")
 addhub("P|ayer Hub, 12+ games supports and universal script", "pulled from rscripts", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Payer%20Hub%20%20games%20supports%20and%20universal%20script.lua")
 addscriptuniversal("DOORS 👁️ Morph Script", "pulled from rscripts", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DOORS%20%20Morph%20Script.lua")
+addscriptuniversal("Build A Boat For Treasure", "pulled from rscripts", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Build%20A%20Boat%20For%20Treasure.lua")
