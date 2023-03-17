@@ -1,0 +1,3 @@
+_G.CollectBlocks = true
+
+while _G.CollectBlocks do wait(0.1)for a,b in pairs(workspace.Parts:GetChildren())do wait(0.1)if b:IsA("Part")then if b:FindFirstChild("BlockSize")then if game.Players.LocalPlayer.leaderstats.Size.Value>=b.BlockSize.Value then workspace:FindFirstChild(game.Players.LocalPlayer.Name).HumanoidRootPart.CFrame=CFrame.new(b.CFrame.X,b.CFrame.Y,b.CFrame.Z)*CFrame.Angles(0,math.random(1,100),0)end end end end end
