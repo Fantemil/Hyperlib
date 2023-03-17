@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 17.03.2023 14:53:38"
+lastupdate = "GMT +1: 17.03.2023 14:53:42"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -19768,3 +19768,5 @@ addscriptexist(537413528, "Build A Boat For Treasure: Auto Farm, Player Esp, Wat
 addscriptexist(12172698927, "Sword Race: Auto Equip Best Pets", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sword%20Race%20Auto%20Equip%20Best%20Pets.lua")
 
 addscriptexist(3101667897, "Legends Of Speed: Auto Race, Auto Farm, Auto Rebirth", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Legends%20Of%20Speed%20Auto%20Race%20Auto%20Farm%20Auto%20Rebirth.lua")
+
+addscriptexist(990566015, "Cursed Islands: Auto Farm, Player Esp, Water Godmode", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Cursed%20Islands%20Auto%20Farm%20Player%20Esp%20Water%20Godmode.lua")
