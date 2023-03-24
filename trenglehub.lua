@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 17.03.2023 19:46:55"
+lastupdate = "GMT +1: 24.03.2023 17:32:12"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -19797,3 +19797,5 @@ addscriptexist(12299415668, "Block Eating Simulator: Auto Collect", "pulled from
 addscriptexist(648362523, "Breaking Point: Server Hop, Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Breaking%20Point%20Server%20Hop%20Auto%20Farm.lua")
 
 addscriptexist(2788229376, "Da Hood: Press E to shoot your guns Faster", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Da%20Hood%20Press%20E%20to%20shoot%20your%20guns%20Faster.lua")
+
+addscriptexist(286090429, "Arsenal: Aimbot, Silent Aim, Rapid Fire", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Arsenal%20Aimbot%20Silent%20Aim%20Rapid%20Fire.lua")
