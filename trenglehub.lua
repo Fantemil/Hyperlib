@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 24.03.2023 17:32:38"
+lastupdate = "GMT +1: 24.03.2023 17:35:28"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -19809,3 +19809,5 @@ addscript(4238077359, "Current Game","Coruscant RP: TP Exploit", "pulled from rb
 addscriptexist(185655149, "Welcome to Bloxburg: AutoFarm, Free Skills, Auto Build", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Welcome%20to%20Bloxburg%20AutoFarm%20Free%20Skills%20Auto%20Build.lua")
 
 addscriptexist(606849621, "Jailbreak: Infinity Ammo, No Ragdoll, Switch Team", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Jailbreak%20Infinity%20Ammo%20No%20Ragdoll%20Switch%20Team.lua")
+
+addscriptuniversal("+1 Points Every Second Autofarm", "pulled from rscripts", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/%20Points%20Every%20Second%20Autofarm.lua")
