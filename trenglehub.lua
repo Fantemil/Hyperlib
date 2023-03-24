@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 24.03.2023 17:35:28"
+lastupdate = "GMT +1: 24.03.2023 17:35:43"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -19811,3 +19811,4 @@ addscriptexist(185655149, "Welcome to Bloxburg: AutoFarm, Free Skills, Auto Buil
 addscriptexist(606849621, "Jailbreak: Infinity Ammo, No Ragdoll, Switch Team", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Jailbreak%20Infinity%20Ammo%20No%20Ragdoll%20Switch%20Team.lua")
 
 addscriptuniversal("+1 Points Every Second Autofarm", "pulled from rscripts", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/%20Points%20Every%20Second%20Autofarm.lua")
+addhub("Going Rouge | Rouge Hub", "pulled from rscripts", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Going%20Rouge%20%20Rouge%20Hub.lua")
