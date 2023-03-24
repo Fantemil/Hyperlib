@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 24.03.2023 17:32:16"
+lastupdate = "GMT +1: 24.03.2023 17:32:21"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -19801,3 +19801,5 @@ addscriptexist(2788229376, "Da Hood: Press E to shoot your guns Faster", "pulled
 addscriptexist(286090429, "Arsenal: Aimbot, Silent Aim, Rapid Fire", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Arsenal%20Aimbot%20Silent%20Aim%20Rapid%20Fire.lua")
 
 addscriptexist(621129760, "KAT: Hitbox, Silent Aim, Esp", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/KAT%20Hitbox%20Silent%20Aim%20Esp.lua")
+
+addscriptexist(2788229376, "Da Hood: Anti Aim, Silent Aim, FOV", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Da%20Hood%20Anti%20Aim%20Silent%20Aim%20FOV.lua")
