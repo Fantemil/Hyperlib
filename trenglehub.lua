@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 24.03.2023 17:35:54"
+lastupdate = "GMT +1: 24.03.2023 17:36:06"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -19813,3 +19813,4 @@ addscriptexist(606849621, "Jailbreak: Infinity Ammo, No Ragdoll, Switch Team", "
 addscriptuniversal("+1 Points Every Second Autofarm", "pulled from rscripts", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/%20Points%20Every%20Second%20Autofarm.lua")
 addhub("Going Rouge | Rouge Hub", "pulled from rscripts", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Going%20Rouge%20%20Rouge%20Hub.lua")
 addscriptuniversal("Adopt me Easter Autofarm Still in dev", "pulled from rscripts", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Adopt%20me%20Easter%20Autofarm%20Still%20in%20dev.lua")
+addscriptuniversal("Flee the facility script", "pulled from rscripts", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Flee%20the%20facility%20script.lua")
