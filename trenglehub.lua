@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 27.03.2023 13:40:18"
+lastupdate = "GMT +1: 27.03.2023 13:40:22"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -19819,3 +19819,5 @@ addscriptuniversal("Flee the facility script", "pulled from rscripts", "https://
 addscriptexist(8726743209, "Refinery Caves: Teleports, Walkspeed, Fly", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Refinery%20Caves%20Teleports%20Walkspeed%20Fly.lua")
 
 addscriptexist(11040063484, "Sword Fighters Simulator: Auto Ascend, Auto Collect, AutoFarm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sword%20Fighters%20Simulator%20Auto%20Ascend%20Auto%20Collect%20AutoFarm.lua")
+
+addscriptexist(370731277, "MeepCity: Spam Something, Server Crasher, Free Stuff", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MeepCity%20Spam%20Something%20Server%20Crasher%20Free%20Stuff.lua")
