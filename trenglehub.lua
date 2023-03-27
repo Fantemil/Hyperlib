@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 27.03.2023 13:40:12"
+lastupdate = "GMT +1: 27.03.2023 13:40:18"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -19817,3 +19817,5 @@ addhub("Going Rouge | Rouge Hub", "pulled from rscripts", "https://raw.githubuse
 addscriptuniversal("Adopt me Easter Autofarm Still in dev", "pulled from rscripts", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Adopt%20me%20Easter%20Autofarm%20Still%20in%20dev.lua")
 addscriptuniversal("Flee the facility script", "pulled from rscripts", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Flee%20the%20facility%20script.lua")
 addscriptexist(8726743209, "Refinery Caves: Teleports, Walkspeed, Fly", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Refinery%20Caves%20Teleports%20Walkspeed%20Fly.lua")
+
+addscriptexist(11040063484, "Sword Fighters Simulator: Auto Ascend, Auto Collect, AutoFarm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sword%20Fighters%20Simulator%20Auto%20Ascend%20Auto%20Collect%20AutoFarm.lua")
