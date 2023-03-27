@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 27.03.2023 13:47:19"
+lastupdate = "GMT +1: 27.03.2023 13:47:30"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -19845,3 +19845,4 @@ addscriptuniversal("Shoot People Off A Map Simulator", "pulled from rscripts", "
 addscriptuniversal("Lanxility Da hood Script HOT", "pulled from rscripts", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Lanxility%20Da%20hood%20Script%20HOT.lua")
 addscriptuniversal("Ninja Legends AutoFarm GUI ", "pulled from rscripts", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ninja%20Legends%20AutoFarm%20GUI%20.lua")
 addscriptuniversal("Free Hatchers Autofarm", "pulled from rscripts", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Free%20Hatchers%20Autofarm.lua")
+addhub("Flag Wars Script -JumbleHub-", "pulled from rscripts", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Flag%20Wars%20Script%20JumbleHub.lua")
