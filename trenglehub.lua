@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 27.03.2023 13:46:05"
+lastupdate = "GMT +1: 27.03.2023 13:46:16"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -19838,3 +19838,4 @@ addscriptuniversal("Kill to Save Anime Girl / Auto Farm", "pulled from rscripts"
 addscriptuniversal("Anime Simulator / Auto Farm", "pulled from rscripts", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime%20Simulator%20%20Auto%20Farm.lua")
 addscriptuniversal("Legend Of Heroes / Autofarm", "pulled from rscripts", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Legend%20Of%20Heroes%20%20Autofarm.lua")
 addscriptuniversal("Auto Kill all And more", "pulled from rscripts", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Kill%20all%20And%20more.lua")
+addscriptuniversal("Auto Grab With Keybind And Radius", "pulled from rscripts", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Grab%20With%20Keybind%20And%20Radius.lua")
