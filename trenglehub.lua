@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 27.03.2023 13:40:22"
+lastupdate = "GMT +1: 27.03.2023 13:40:28"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -19821,3 +19821,5 @@ addscriptexist(8726743209, "Refinery Caves: Teleports, Walkspeed, Fly", "pulled 
 addscriptexist(11040063484, "Sword Fighters Simulator: Auto Ascend, Auto Collect, AutoFarm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sword%20Fighters%20Simulator%20Auto%20Ascend%20Auto%20Collect%20AutoFarm.lua")
 
 addscriptexist(370731277, "MeepCity: Spam Something, Server Crasher, Free Stuff", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MeepCity%20Spam%20Something%20Server%20Crasher%20Free%20Stuff.lua")
+
+addscriptexist(11400511154, "Monkey Tycoon: Auto Collect, Auto Deposit, Auto Buy", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Monkey%20Tycoon%20Auto%20Collect%20Auto%20Deposit%20Auto%20Buy.lua")
