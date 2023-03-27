@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 27.03.2023 13:47:52"
+lastupdate = "GMT +1: 27.03.2023 13:48:03"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -19848,3 +19848,4 @@ addscriptuniversal("Free Hatchers Autofarm", "pulled from rscripts", "https://ra
 addhub("Flag Wars Script -JumbleHub-", "pulled from rscripts", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Flag%20Wars%20Script%20JumbleHub.lua")
 addhub("Fredbears Mega Roleplay Script Hub", "pulled from rscripts", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Fredbears%20Mega%20Roleplay%20Script%20Hub.lua")
 addscriptuniversal("Developer Tools Library", "pulled from rscripts", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Developer%20Tools%20Library.lua")
+addscriptuniversal("Infinite Stat PowerChangeable", "pulled from rscripts", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Infinite%20Stat%20PowerChangeable.lua")
