@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 27.03.2023 13:43:34"
+lastupdate = "GMT +1: 27.03.2023 13:43:46"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -19825,3 +19825,4 @@ addscriptexist(370731277, "MeepCity: Spam Something, Server Crasher, Free Stuff"
 addscriptexist(11400511154, "Monkey Tycoon: Auto Collect, Auto Deposit, Auto Buy", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Monkey%20Tycoon%20Auto%20Collect%20Auto%20Deposit%20Auto%20Buy.lua")
 
 addscriptuniversal("Destruction Simulator", "pulled from rscripts", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Destruction%20Simulator.lua")
+addscriptuniversal("LUCKY BLOCKS Battlegrounds", "pulled from rscripts", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LUCKY%20BLOCKS%20Battlegrounds.lua")
