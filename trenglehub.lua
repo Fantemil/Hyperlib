@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 27.03.2023 13:46:49"
+lastupdate = "GMT +1: 27.03.2023 13:46:59"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -19842,3 +19842,4 @@ addscriptuniversal("Auto Grab With Keybind And Radius", "pulled from rscripts", 
 addscriptuniversal("Bad Business | Hit Box Expander [Open Source]", "pulled from rscripts", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Bad%20Business%20%20Hit%20Box%20Expander%20Open%20Source.lua")
 addscriptuniversal(" [UPDATE 2] [RELEASE] Best Fruit Warriors Script ", "pulled from rscripts", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/%20UPDATE%20%20RELEASE%20Best%20Fruit%20Warriors%20Script%20.lua")
 addscriptuniversal("Shoot People Off A Map Simulator", "pulled from rscripts", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Shoot%20People%20Off%20A%20Map%20Simulator.lua")
+addscriptuniversal("Lanxility Da hood Script HOT", "pulled from rscripts", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Lanxility%20Da%20hood%20Script%20HOT.lua")
