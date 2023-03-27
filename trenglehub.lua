@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 27.03.2023 13:45:44"
+lastupdate = "GMT +1: 27.03.2023 13:45:55"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -19836,3 +19836,4 @@ addscriptuniversal("Sword Fighters Simulator OP Gui", "pulled from rscripts", "h
 addscriptuniversal("Boxing Fighters Simulator / Auto Farm", "pulled from rscripts", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Boxing%20Fighters%20Simulator%20%20Auto%20Farm.lua")
 addscriptuniversal("Kill to Save Anime Girl / Auto Farm", "pulled from rscripts", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Kill%20to%20Save%20Anime%20Girl%20%20Auto%20Farm.lua")
 addscriptuniversal("Anime Simulator / Auto Farm", "pulled from rscripts", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime%20Simulator%20%20Auto%20Farm.lua")
+addscriptuniversal("Legend Of Heroes / Autofarm", "pulled from rscripts", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Legend%20Of%20Heroes%20%20Autofarm.lua")
