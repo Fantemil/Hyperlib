@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 27.03.2023 13:44:24"
+lastupdate = "GMT +1: 27.03.2023 13:44:34"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -19829,3 +19829,4 @@ addscriptuniversal("LUCKY BLOCKS Battlegrounds", "pulled from rscripts", "https:
 addscriptuniversal("BEST SCRIPT FOR BUILD A BOAT FOR TREASURE WITH OP FEATURES", "pulled from rscripts", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BEST%20SCRIPT%20FOR%20BUILD%20A%20BOAT%20FOR%20TREASURE%20WITH%20OP%20FEATURES.lua")
 addhub("Pog Hub Script Cooll Update", "pulled from rscripts", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pog%20Hub%20Script%20Cooll%20Update.lua")
 addhub("Every Second You Get +1 JumpPower Script Hub", "pulled from rscripts", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Every%20Second%20You%20Get%20%20JumpPower%20Script%20Hub.lua")
+addhub("New OP Hub For Legends Of Speed", "pulled from rscripts", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/New%20OP%20Hub%20For%20Legends%20Of%20Speed.lua")
