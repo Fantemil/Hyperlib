@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 27.03.2023 13:45:10"
+lastupdate = "GMT +1: 27.03.2023 13:45:21"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -19833,3 +19833,4 @@ addhub("New OP Hub For Legends Of Speed", "pulled from rscripts", "https://raw.g
 addscriptuniversal("New Ninja Legends 2 Script!", "pulled from rscripts", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/New%20Ninja%20Legends%20%20Script.lua")
 addhub("New OP Hub For Demon Soul Simulator", "pulled from rscripts", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/New%20OP%20Hub%20For%20Demon%20Soul%20Simulator.lua")
 addscriptuniversal("Sword Fighters Simulator OP Gui", "pulled from rscripts", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sword%20Fighters%20Simulator%20OP%20Gui.lua")
+addscriptuniversal("Boxing Fighters Simulator / Auto Farm", "pulled from rscripts", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Boxing%20Fighters%20Simulator%20%20Auto%20Farm.lua")
