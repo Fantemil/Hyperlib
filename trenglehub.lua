@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 31.03.2023 15:43:00"
+lastupdate = "GMT +1: 31.03.2023 15:43:04"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -19868,3 +19868,5 @@ addscriptexist(2753915549, "Blox Fruits: Auto Farm Level, Mob Aura & More", "pul
 addscriptuniversal("Universal: FPS Unlocker", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20FPS%20Unlocker.lua")
 
 addscriptexist(3272915504, "Arcane Odyssey: Esp, Teleports, Fly", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Arcane%20Odyssey%20Esp%20Teleports%20Fly.lua")
+
+addscriptexist(6843988672, "County Jail Roleplay: Anti Afk, Farm, Noclip", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/County%20Jail%20Roleplay%20Anti%20Afk%20Farm%20Noclip.lua")
