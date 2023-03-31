@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 31.03.2023 15:42:43"
+lastupdate = "GMT +1: 31.03.2023 15:42:47"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -19860,3 +19860,5 @@ addscriptuniversal("Universal Esp by ChatGPT", "pulled from rbxscript.com", "htt
 addscriptexist(12413786484, "Anime Lost Simulator: Auto Quest, Auto Farm, Auto Rebirth", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime%20Lost%20Simulator%20Auto%20Quest%20Auto%20Farm%20Auto%20Rebirth.lua")
 
 addscript(12629955736, "Current Game","Raise Kenny: Auto Kill All, Auto Collect Money, Gun Mode", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Raise%20Kenny%20Auto%20Kill%20All%20Auto%20Collect%20Money%20Gun%20Mode.lua")
+
+addhub("Sonic X Hub: Fly, RTX & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sonic%20X%20Hub%20Fly%20RTX%20%20More.lua")
