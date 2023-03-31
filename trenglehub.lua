@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 31.03.2023 15:43:14"
+lastupdate = "GMT +1: 31.03.2023 15:43:19"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -19874,3 +19874,5 @@ addscriptexist(6843988672, "County Jail Roleplay: Anti Afk, Farm, Noclip", "pull
 addscriptuniversal("Universal: Kill All for Fighting Games", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Kill%20All%20for%20Fighting%20Games.lua")
 
 addscript(12001051622, "Current Game","Dig to find dad: Teleport to Dad", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Dig%20to%20find%20dad%20Teleport%20to%20Dad.lua")
+
+addscriptexist(6403373529, "Slap Battles: Spam Ability for Berserk and Ping Pong", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Slap%20Battles%20Spam%20Ability%20for%20Berserk%20and%20Ping%20Pong.lua")
