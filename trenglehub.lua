@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 31.03.2023 15:42:18"
+lastupdate = "GMT +1: 31.03.2023 15:42:22"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -19850,3 +19850,5 @@ addhub("Fredbears Mega Roleplay Script Hub", "pulled from rscripts", "https://ra
 addscriptuniversal("Developer Tools Library", "pulled from rscripts", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Developer%20Tools%20Library.lua")
 addscriptuniversal("Infinite Stat PowerChangeable", "pulled from rscripts", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Infinite%20Stat%20PowerChangeable.lua")
 addscriptexist(8507479511, "Higher Jump Every Second: Auto Hatch Egg, Auto Farm, No Hatch Cooldown", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Higher%20Jump%20Every%20Second%20Auto%20Hatch%20Egg%20Auto%20Farm%20No%20Hatch%20Cooldown.lua")
+
+addscriptexist(5780309044, "Stands Awakening: Esp, No Effect, Remove Red Stuff", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Stands%20Awakening%20Esp%20No%20Effect%20Remove%20Red%20Stuff.lua")
