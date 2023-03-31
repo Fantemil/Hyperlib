@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 31.03.2023 15:42:50"
+lastupdate = "GMT +1: 31.03.2023 15:42:55"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -19864,3 +19864,5 @@ addscript(12629955736, "Current Game","Raise Kenny: Auto Kill All, Auto Collect 
 addhub("Sonic X Hub: Fly, RTX & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sonic%20X%20Hub%20Fly%20RTX%20%20More.lua")
 
 addscriptexist(2753915549, "Blox Fruits: Auto Farm Level, Mob Aura & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blox%20Fruits%20Auto%20Farm%20Level%20Mob%20Aura%20%20More.lua")
+
+addscriptuniversal("Universal: FPS Unlocker", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20FPS%20Unlocker.lua")
