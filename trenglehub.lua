@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 31.03.2023 15:42:55"
+lastupdate = "GMT +1: 31.03.2023 15:43:00"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -19866,3 +19866,5 @@ addhub("Sonic X Hub: Fly, RTX & More", "pulled from rbxscript.com", "https://raw
 addscriptexist(2753915549, "Blox Fruits: Auto Farm Level, Mob Aura & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blox%20Fruits%20Auto%20Farm%20Level%20Mob%20Aura%20%20More.lua")
 
 addscriptuniversal("Universal: FPS Unlocker", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20FPS%20Unlocker.lua")
+
+addscriptexist(3272915504, "Arcane Odyssey: Esp, Teleports, Fly", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Arcane%20Odyssey%20Esp%20Teleports%20Fly.lua")
