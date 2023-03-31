@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 31.03.2023 15:43:09"
+lastupdate = "GMT +1: 31.03.2023 15:43:14"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -19872,3 +19872,5 @@ addscriptexist(3272915504, "Arcane Odyssey: Esp, Teleports, Fly", "pulled from r
 addscriptexist(6843988672, "County Jail Roleplay: Anti Afk, Farm, Noclip", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/County%20Jail%20Roleplay%20Anti%20Afk%20Farm%20Noclip.lua")
 
 addscriptuniversal("Universal: Kill All for Fighting Games", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Kill%20All%20for%20Fighting%20Games.lua")
+
+addscript(12001051622, "Current Game","Dig to find dad: Teleport to Dad", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Dig%20to%20find%20dad%20Teleport%20to%20Dad.lua")
