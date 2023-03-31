@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 31.03.2023 15:42:33"
+lastupdate = "GMT +1: 31.03.2023 15:42:38"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -19856,3 +19856,5 @@ addscriptexist(5780309044, "Stands Awakening: Esp, No Effect, Remove Red Stuff",
 addscriptuniversal("Universal Volume Slider", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Volume%20Slider.lua")
 
 addscriptuniversal("Universal Esp by ChatGPT", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Esp%20by%20ChatGPT.lua")
+
+addscriptexist(12413786484, "Anime Lost Simulator: Auto Quest, Auto Farm, Auto Rebirth", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime%20Lost%20Simulator%20Auto%20Quest%20Auto%20Farm%20Auto%20Rebirth.lua")
