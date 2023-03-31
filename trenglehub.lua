@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 31.03.2023 15:42:27"
+lastupdate = "GMT +1: 31.03.2023 15:42:33"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -19854,3 +19854,5 @@ addscriptexist(8507479511, "Higher Jump Every Second: Auto Hatch Egg, Auto Farm,
 addscriptexist(5780309044, "Stands Awakening: Esp, No Effect, Remove Red Stuff", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Stands%20Awakening%20Esp%20No%20Effect%20Remove%20Red%20Stuff.lua")
 
 addscriptuniversal("Universal Volume Slider", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Volume%20Slider.lua")
+
+addscriptuniversal("Universal Esp by ChatGPT", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Esp%20by%20ChatGPT.lua")
