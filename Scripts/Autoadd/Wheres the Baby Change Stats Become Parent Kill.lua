@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Scriptingdude/goofy-wheres-the-baby-script/main/BruhFixRightHere.lua"))()
