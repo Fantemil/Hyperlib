@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 02.04.2023 14:41:09"
+lastupdate = "GMT +1: 02.04.2023 14:41:14"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -19896,3 +19896,5 @@ addscriptexist(8568266872, "Kill Monsters to Save Princess: Auto Claim Reward, A
 addscriptuniversal("Universal: Another FPS Counter", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Another%20FPS%20Counter.lua")
 
 addscriptuniversal("Universal Text To Speech", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Text%20To%20Speech.lua")
+
+addscriptexist(8884334497, "Mining Clicker Simulator: Auto Click, Auto Buy, Auto Rebirth", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mining%20Clicker%20Simulator%20Auto%20Click%20Auto%20Buy%20Auto%20Rebirth.lua")
