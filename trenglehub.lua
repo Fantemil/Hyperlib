@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 02.04.2023 14:40:44"
+lastupdate = "GMT +1: 02.04.2023 14:40:50"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -19888,3 +19888,5 @@ addscriptexist(579955134, "Auto Rap Battles: Teleports, Spam Vote Players", "pul
 addscript(381674682, "Current Game","Where's the Baby: Change Stats, Become Parent, Kill", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Wheres%20the%20Baby%20Change%20Stats%20Become%20Parent%20Kill.lua")
 
 addscriptexist(2788229376, "Da Hood: Noclip, Esp, Silent Aim", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Da%20Hood%20Noclip%20Esp%20Silent%20Aim.lua")
+
+addscriptexist(12413786484, "Anime Lost Simulator: Auto Spin, Auto Skills, Auto Quests", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime%20Lost%20Simulator%20Auto%20Spin%20Auto%20Skills%20Auto%20Quests.lua")
