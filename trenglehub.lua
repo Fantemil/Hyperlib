@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 02.04.2023 14:40:34"
+lastupdate = "GMT +1: 02.04.2023 14:40:39"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -19884,3 +19884,5 @@ addscriptexist(11118216071, "Pet Trading Card Simulator: Redeem All Codes, Auto 
 addscriptexist(6097258548, "Iron Man Simulator 2: Flight, Inf Efficiency & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Iron%20Man%20Simulator%20%20Flight%20Inf%20Efficiency%20%20More.lua")
 
 addscriptexist(579955134, "Auto Rap Battles: Teleports, Spam Vote Players", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Rap%20Battles%20Teleports%20Spam%20Vote%20Players.lua")
+
+addscript(381674682, "Current Game","Where's the Baby: Change Stats, Become Parent, Kill", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Wheres%20the%20Baby%20Change%20Stats%20Become%20Parent%20Kill.lua")
