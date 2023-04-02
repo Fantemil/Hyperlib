@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 02.04.2023 14:41:14"
+lastupdate = "GMT +1: 02.04.2023 14:41:18"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -19898,3 +19898,5 @@ addscriptuniversal("Universal: Another FPS Counter", "pulled from rbxscript.com"
 addscriptuniversal("Universal Text To Speech", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Text%20To%20Speech.lua")
 
 addscriptexist(8884334497, "Mining Clicker Simulator: Auto Click, Auto Buy, Auto Rebirth", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mining%20Clicker%20Simulator%20Auto%20Click%20Auto%20Buy%20Auto%20Rebirth.lua")
+
+addscriptexist(12192552089, "Fruit Warriors: Auto Farm, Farm Quests, Farming Chests", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Fruit%20Warriors%20Auto%20Farm%20Farm%20Quests%20Farming%20Chests.lua")
