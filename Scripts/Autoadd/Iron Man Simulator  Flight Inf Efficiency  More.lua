@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Robobo2022/Fun/main/ironman2.lua", true))()
