@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 02.04.2023 14:41:04"
+lastupdate = "GMT +1: 02.04.2023 14:41:09"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -19894,3 +19894,5 @@ addscriptexist(12413786484, "Anime Lost Simulator: Auto Spin, Auto Skills, Auto 
 addscriptexist(8568266872, "Kill Monsters to Save Princess: Auto Claim Reward, Auto Equip Best Pets & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Kill%20Monsters%20to%20Save%20Princess%20Auto%20Claim%20Reward%20Auto%20Equip%20Best%20Pets%20%20More.lua")
 
 addscriptuniversal("Universal: Another FPS Counter", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Another%20FPS%20Counter.lua")
+
+addscriptuniversal("Universal Text To Speech", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Text%20To%20Speech.lua")
