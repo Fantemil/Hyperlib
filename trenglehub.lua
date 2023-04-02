@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 31.03.2023 15:43:23"
+lastupdate = "GMT +1: 02.04.2023 14:40:26"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -19878,3 +19878,5 @@ addscript(12001051622, "Current Game","Dig to find dad: Teleport to Dad", "pulle
 addscriptexist(6403373529, "Slap Battles: Spam Ability for Berserk and Ping Pong", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Slap%20Battles%20Spam%20Ability%20for%20Berserk%20and%20Ping%20Pong.lua")
 
 addscriptexist(3214114884, "Flag Wars: Kill All", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Flag%20Wars%20Kill%20All.lua")
+
+addscriptexist(11118216071, "Pet Trading Card Simulator: Redeem All Codes, Auto Click, Walkspeed", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pet%20Trading%20Card%20Simulator%20Redeem%20All%20Codes%20Auto%20Click%20Walkspeed.lua")
