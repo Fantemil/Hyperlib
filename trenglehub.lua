@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 13.04.2023 21:31:23"
+lastupdate = "GMT +1: 13.04.2023 21:31:27"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -19909,3 +19909,5 @@ addscriptexist(5343994291, "Outlaster: Teleports, Esp & More", "pulled from rbxs
 addscriptexist(7232779505, "Type Race!: Auto Type", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Type%20Race%20Auto%20Type.lua")
 
 addscriptexist(1962086868, "Tower of Hell: Jumppower, Walkspeed & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tower%20of%20Hell%20Jumppower%20Walkspeed%20%20More.lua")
+
+addscriptexist(192800, "Work at a Pizza Place: Auto Farm v3", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Work%20at%20a%20Pizza%20Place%20Auto%20Farm%20v.lua")
