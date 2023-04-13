@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 13.04.2023 21:31:44"
+lastupdate = "GMT +1: 13.04.2023 21:34:30"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -19919,3 +19919,5 @@ addscriptexist(183364845, "Speed Run 4: Crash Server", "pulled from rbxscript.co
 addscriptexist(1554960397, "Car Dealership Tycoon: Auto Grab Eggs", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Car%20Dealership%20Tycoon%20Auto%20Grab%20Eggs.lua")
 
 addscriptexist(4581966615, "Anomic: Anti Cheat Bypass", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anomic%20Anti%20Cheat%20Bypass.lua")
+
+addscriptuniversal("PROJECT MITGETSU UNBAN SCRIPT ", "pulled from rscripts", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PROJECT%20MITGETSU%20UNBAN%20SCRIPT%20.lua")
