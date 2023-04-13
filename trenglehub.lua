@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 13.04.2023 21:31:36"
+lastupdate = "GMT +1: 13.04.2023 21:31:40"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -19915,3 +19915,5 @@ addscriptexist(192800, "Work at a Pizza Place: Auto Farm v3", "pulled from rbxsc
 addscriptexist(192800, "Work at a Pizza Place: Cashier Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Work%20at%20a%20Pizza%20Place%20Cashier%20Auto%20Farm.lua")
 
 addscriptexist(183364845, "Speed Run 4: Crash Server", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Speed%20Run%20%20Crash%20Server.lua")
+
+addscriptexist(1554960397, "Car Dealership Tycoon: Auto Grab Eggs", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Car%20Dealership%20Tycoon%20Auto%20Grab%20Eggs.lua")
