@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://milkup.info/script/PetSimulatorX/"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/GoodScripters/PSXscript/main/Script"))()
