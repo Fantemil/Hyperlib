@@ -1,0 +1,1 @@
+loadstring(game:HttpGet'https://raw.githubusercontent.com/trqphy/CDT---AutoEgg/main/autoegg')([[BY TRQ]])
