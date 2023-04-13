@@ -76,9 +76,7 @@ function bigRedItalicText(text)
         FontSize = Enum.FontSize.Size48,
     })
 end
-function addlastexecuted(title,author,scriptlink)
-    Window = _G.Window
-    
+
 
 --^^^dont touch ^^^
 function addscript(Place,Gamename,title,author,scriptlink)
