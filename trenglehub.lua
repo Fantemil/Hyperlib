@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 13.04.2023 21:31:01"
+lastupdate = "GMT +1: 13.04.2023 21:31:05"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -19899,3 +19899,5 @@ addscriptexist(8884334497, "Mining Clicker Simulator: Auto Click, Auto Buy, Auto
 addscriptexist(12192552089, "Fruit Warriors: Auto Farm, Farm Quests, Farming Chests", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Fruit%20Warriors%20Auto%20Farm%20Farm%20Quests%20Farming%20Chests.lua")
 
 addscriptexist(6516141723, "DOORS: Auto Win, Auto Loot, ESP", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DOORS%20Auto%20Win%20Auto%20Loot%20ESP.lua")
+
+addscriptexist(142823291, "MM2: Auto Collect Rare Eggs", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MM%20Auto%20Collect%20Rare%20Eggs.lua")
