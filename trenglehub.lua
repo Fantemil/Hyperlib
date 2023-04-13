@@ -256,7 +256,6 @@ bigBlueItalicText("Check out the Project on Github:")
 bigGreenItalicText("https://github.com/Fantemil/Hyperlib")
 bigRedText(addDashes(customlen))
 
-_G.lastexecuted = Window:NewTab("Last Executed")
 --Work at a Pizza Place
 
 if game.PlaceId == 192800 then 
