@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/houza233/YumHub/main/Main.lua"))();
+loadstring(game:HttpGet("https://raw.githubusercontent.com/houza233/YumHub/main/Loader.lua"))();
