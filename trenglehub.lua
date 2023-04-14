@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 14.04.2023 20:45:02"
+lastupdate = "GMT +1: 14.04.2023 20:45:08"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -19564,3 +19564,5 @@ addscriptexist(1962086868, "Tower of Hell: Inf Jumps, Auto Farm, Walkspeed", "pu
 addscriptexist(662417684, "LUCKY BLOCKS Battlegrounds: Walkspeed, Spawn Blocks & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LUCKY%20BLOCKS%20Battlegrounds%20Walkspeed%20Spawn%20Blocks%20%20More.lua")
 
 addhub("Yum Hub: 4 Games", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Yum%20Hub%20%20Games.lua")
+
+addscriptexist(11746859781, "Bubble Gum Clicker: Auto Eggs, Auto Blow, Auto Sell", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Bubble%20Gum%20Clicker%20Auto%20Eggs%20Auto%20Blow%20Auto%20Sell.lua")
