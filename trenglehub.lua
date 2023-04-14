@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 14.04.2023 20:45:15"
+lastupdate = "GMT +1: 14.04.2023 20:48:45"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -19568,3 +19568,5 @@ addhub("Yum Hub: 4 Games", "pulled from rbxscript.com", "https://raw.githubuserc
 addscriptexist(11746859781, "Bubble Gum Clicker: Auto Eggs, Auto Blow, Auto Sell", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Bubble%20Gum%20Clicker%20Auto%20Eggs%20Auto%20Blow%20Auto%20Sell.lua")
 
 addhub("Universal Dark Hub, Reviz Admin & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Dark%20Hub%20Reviz%20Admin%20%20More.lua")
+
+addscriptuniversal("Best Anime Warriors Simulator 2 Script", "pulled from rscripts", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Best%20Anime%20Warriors%20Simulator%20%20Script.lua")
