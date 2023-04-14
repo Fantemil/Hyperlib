@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 14.04.2023 20:44:45"
+lastupdate = "GMT +1: 14.04.2023 20:44:53"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -19560,3 +19560,5 @@ addhub("Pet Simulator X | ExtremeHUB", "pulled from rscripts", "https://raw.gith
 addscriptexist(3101667897, "Legends Of Speed: Auto-Farm, Auto Buy", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Legends%20Of%20Speed%20AutoFarm%20Auto%20Buy.lua")
 
 addscriptexist(1962086868, "Tower of Hell: Inf Jumps, Auto Farm, Walkspeed", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tower%20of%20Hell%20Inf%20Jumps%20Auto%20Farm%20Walkspeed.lua")
+
+addscriptexist(662417684, "LUCKY BLOCKS Battlegrounds: Walkspeed, Spawn Blocks & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LUCKY%20BLOCKS%20Battlegrounds%20Walkspeed%20Spawn%20Blocks%20%20More.lua")
