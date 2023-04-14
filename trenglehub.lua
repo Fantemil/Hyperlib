@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 14.04.2023 20:49:34"
+lastupdate = "GMT +1: 14.04.2023 20:49:45"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -19574,3 +19574,4 @@ addscriptuniversal("The Mimic Script Chapters", "pulled from rscripts", "https:/
 addhub("Timber Champions | Epsilon Hub", "pulled from rscripts", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Timber%20Champions%20%20Epsilon%20Hub.lua")
 addhub("Rebirth Champions X | Epsilon Hub", "pulled from rscripts", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Rebirth%20Champions%20X%20%20Epsilon%20Hub.lua")
 addhub("My Dragon Tycoon | Epsilon Hub", "pulled from rscripts", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/My%20Dragon%20Tycoon%20%20Epsilon%20Hub.lua")
+addscriptuniversal("[Free] Worm 2048 | Clicker Game Scripts", "pulled from rscripts", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Free%20Worm%20%20%20Clicker%20Game%20Scripts.lua")
