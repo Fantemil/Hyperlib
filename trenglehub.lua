@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 14.04.2023 20:51:05"
+lastupdate = "GMT +1: 14.04.2023 20:51:17"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -19582,3 +19582,4 @@ addhub("A Heros Destiny | Epsilon Hub", "pulled from rscripts", "https://raw.git
 addhub("Clicker Madness | Epsilon Hub", "pulled from rscripts", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Clicker%20Madness%20%20Epsilon%20Hub.lua")
 addhub("All Of Us Are Dead | Epsilon Hub", "pulled from rscripts", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/All%20Of%20Us%20Are%20Dead%20%20Epsilon%20Hub.lua")
 addscriptuniversal("ERLC - Infinite Fuel", "pulled from rscripts", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ERLC%20%20Infinite%20Fuel.lua")
+addscriptuniversal("Pet Rift AutoFarm Script", "pulled from rscripts", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pet%20Rift%20AutoFarm%20Script.lua")
