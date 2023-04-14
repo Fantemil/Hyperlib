@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 13.04.2023 21:34:41"
+lastupdate = "GMT +1: 14.04.2023 20:44:39"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -19557,3 +19557,4 @@ addscriptexist(4581966615, "Anomic: Anti Cheat Bypass", "pulled from rbxscript.c
 
 addscriptuniversal("PROJECT MITGETSU UNBAN SCRIPT ", "pulled from rscripts", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PROJECT%20MITGETSU%20UNBAN%20SCRIPT%20.lua")
 addhub("Pet Simulator X | ExtremeHUB", "pulled from rscripts", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pet%20Simulator%20X%20%20ExtremeHUB.lua")
+addscriptexist(3101667897, "Legends Of Speed: Auto-Farm, Auto Buy", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Legends%20Of%20Speed%20AutoFarm%20Auto%20Buy.lua")
