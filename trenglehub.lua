@@ -528,6 +528,7 @@ if game.PlaceId == 1537690962 then
     _G.script:NewButton("Get all Promocodes", "", function()
         loadstring(game:HttpGet("https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Bee%20Swarm%20Simulator/Get%20all%20Codes.lua"))()
         end)
+end
 --Big Paintball
 
 if game.PlaceId == 3527629287 then
