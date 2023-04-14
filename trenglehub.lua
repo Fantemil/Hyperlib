@@ -433,6 +433,7 @@ if game.PlaceId == 2753915549 then
     _G.script:NewButton("Ripper Hub", "", function()
         loadstring(game:HttpGet("https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/BloxFruits/Ripper%20Hub.lua"))()
         end)
+end
 -- Pet sim X
 
 if game.PlaceId == 6284583030 then
