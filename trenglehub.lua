@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 14.04.2023 20:49:22"
+lastupdate = "GMT +1: 14.04.2023 20:49:34"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -19573,3 +19573,4 @@ addscriptuniversal("Best Anime Warriors Simulator 2 Script", "pulled from rscrip
 addscriptuniversal("The Mimic Script Chapters", "pulled from rscripts", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/The%20Mimic%20Script%20Chapters.lua")
 addhub("Timber Champions | Epsilon Hub", "pulled from rscripts", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Timber%20Champions%20%20Epsilon%20Hub.lua")
 addhub("Rebirth Champions X | Epsilon Hub", "pulled from rscripts", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Rebirth%20Champions%20X%20%20Epsilon%20Hub.lua")
+addhub("My Dragon Tycoon | Epsilon Hub", "pulled from rscripts", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/My%20Dragon%20Tycoon%20%20Epsilon%20Hub.lua")
