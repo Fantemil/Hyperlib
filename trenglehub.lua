@@ -1,6 +1,6 @@
 _G.gamecount = 0
 _G.scriptcount = 0
-lastupdate = "GMT +1: 14.04.2023 20:50:20"
+lastupdate = "GMT +1: 14.04.2023 20:50:31"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -19578,3 +19578,4 @@ addscriptuniversal("[Free] Worm 2048 | Clicker Game Scripts", "pulled from rscri
 addhub("Muscle Legends | Epsilon Hub", "pulled from rscripts", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Muscle%20Legends%20%20Epsilon%20Hub.lua")
 addhub("Mink Piece 2.0 | Epsilon Hub", "pulled from rscripts", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mink%20Piece%20%20%20Epsilon%20Hub.lua")
 addscriptuniversal("Webhook Manager and op", "pulled from rscripts", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Webhook%20Manager%20and%20op.lua")
+addhub("A Heros Destiny | Epsilon Hub", "pulled from rscripts", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/A%20Heros%20Destiny%20%20Epsilon%20Hub.lua")
