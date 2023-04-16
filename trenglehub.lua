@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 22:49:09"
+lastupdate = "GMT +1: 16.04.2023 22:49:12"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18703,3 +18703,5 @@ addscriptexist(155382109, "Survive and Kill the Killers in Area 51 [Anti Afk, Wa
 addscriptexist(537413528, "Build A Boat For Treasure [Auto Farm, Redeem all code]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Build%20A%20Boat%20For%20Treasure%20Auto%20Farm%20Redeem%20all%20code.lua", "https://rbxscript.com/post/BuildABoatForTreasureAutoFarmRedeemallcode-0h3V")
 
 addscriptexist(3956818381, "Ninja Legends [Auto Swing, Auto Sell, Teleport To Coins]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ninja%20Legends%20Auto%20Swing%20Auto%20Sell%20Teleport%20To%20Coins.lua", "https://rbxscript.com/post/NinjaLegendsAutoSwingAutoSellTeleportToCoins-SrXpn")
+
+addscriptexist(8992150289, "Anime Sword Simulator [Full Auto Farm GUI]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime%20Sword%20Simulator%20Full%20Auto%20Farm%20GUI.lua", "https://rbxscript.com/post/AnimeSwordSimulatorFullAutoFarm-om6iJ")
