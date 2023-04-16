@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 21:43:50"
+lastupdate = "GMT +1: 16.04.2023 21:43:54"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -16813,3 +16813,5 @@ addscriptexist(3346617530, "Freeze Tag Extreme [Anti Admin & More!]", "pulled fr
 addscriptexist(7009799230, "Pressure Wash Simulator [Infinite Money]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pressure%20Wash%20Simulator%20Infinite%20Money.lua", "https://rbxscript.com/post/PressureWashSimulatorInfiniteMoney-QcNik")
 
 addscriptexist(6298464951, "Roblox Is Unbreakable [Auto Collect Items]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Roblox%20Is%20Unbreakable%20Auto%20Collect%20Items.lua", "https://rbxscript.com/post/RobloxIsUnbreakableAutoCollectItems-AZr3a")
+
+addscript(10319501620, "Current Game","School of Sport [GUI - Collect All Coins]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/School%20of%20Sport%20GUI%20%20Collect%20All%20Coins.lua", "https://rbxscript.com/post/SchoolofSportGUICollectAllCoins-aDDXy")
