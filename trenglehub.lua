@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 21:44:27"
+lastupdate = "GMT +1: 16.04.2023 21:44:31"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -16827,3 +16827,5 @@ addscriptexist(7952502098, "Impossible Glass Bridge Obby - [AUTO FARMER]", "pull
 addscriptexist(9285238704, "Race Clicker speed [Anti-Cheat bypass]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Race%20Clicker%20speed%20AntiCheat%20bypass.lua", "https://rbxscript.com/post/RaceClickerspeedAntiCheatbypass-zufk1")
 
 addscriptexist(189707, "Natural Disasters Survival [Auto Disaster Detect, Free Ballon, remove fall Damage]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Natural%20Disasters%20Survival%20Auto%20Disaster%20Detect%20Free%20Ballon%20remove%20fall%20Damage.lua", "https://rbxscript.com/post/NaturalDisastersSurvivalAutoDisasterDetectFreeBallonremovefallDamage-vxEOG")
+
+addscriptexist(9498006165, "Tapping Simulator! [Auto Farm + Skip Shiny Stage]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tapping%20Simulator%20Auto%20Farm%20%20Skip%20Shiny%20Stage.lua", "https://rbxscript.com/post/TappingSimulatorAutoFarmSkipShinyStage-ez5sR")
