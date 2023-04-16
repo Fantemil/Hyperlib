@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 22:35:34"
+lastupdate = "GMT +1: 16.04.2023 22:35:40"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18295,3 +18295,5 @@ addscriptexist(4996049426, "All Star Tower Defense [Star Pass Farm V3]", "pulled
 addscriptexist(654732683, "Car Crusher 2 [GUI - AI Auto Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Car%20Crusher%20%20GUI%20%20AI%20Auto%20Farm.lua", "https://rbxscript.com/post/CarCrusher2GUIAIAutoFarm-QRXdf")
 
 addscriptexist(9611595239, "Rift Royale [ESP]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Rift%20Royale%20ESP.lua", "https://rbxscript.com/post/RiftRoyaleESP-t81J7")
+
+addscriptexist(1730877806, "Grand Piece Online [Auto Osu]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Grand%20Piece%20Online%20Auto%20Osu.lua", "https://rbxscript.com/post/GrandPieceOnlineAutoOsu-OAzlj")
