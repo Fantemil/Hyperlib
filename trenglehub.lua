@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 22:05:57"
+lastupdate = "GMT +1: 16.04.2023 22:06:02"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -17425,3 +17425,5 @@ addscript(8528736393, "Current Game","Beatland [Free UGC Items GUI]", "pulled fr
 addscript(9603033881, "Current Game","Bid Battles [Auto Queue Auction, Auto Bid, Auto Sell]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Bid%20Battles%20Auto%20Queue%20Auction%20Auto%20Bid%20Auto%20Sell.lua", "https://rbxscript.com/post/BidBattlesAutoQueueAuctionAutoBidAutoSell-xeiFR")
 
 addscriptexist(9940051005, "Blox Legends [Infinite Money]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blox%20Legends%20Infinite%20Money.lua", "https://rbxscript.com/post/BloxLegendsInfiniteMoney-ynkYw")
+
+addscriptexist(9940051005, "Blox Legends [Infinite Tokens]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blox%20Legends%20Infinite%20Tokens.lua", "https://rbxscript.com/post/BloxLegendsInfiniteTokens-rITxn")
