@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 21:25:11"
+lastupdate = "GMT +1: 16.04.2023 21:25:16"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -16283,3 +16283,5 @@ addscriptuniversal("Roblox Universal Script [Free Animation]", "pulled from rbxs
 addscriptexist(10047913840, "Training Simulator [Remote Spy]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Training%20Simulator%20Remote%20Spy.lua", "https://rbxscript.com/post/TrainingSimulatorRemoteSpy-FvHl4")
 
 addscriptexist(3823781113, "Saber Simulator [Auto Clicker]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Saber%20Simulator%20Auto%20Clicker.lua", "https://rbxscript.com/post/SaberSimulatorAutoClicker-WKFHf")
+
+addscript(9976239895, "Current Game","Gumball Factory Tycoon [Auto Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Gumball%20Factory%20Tycoon%20Auto%20Farm.lua", "https://rbxscript.com/post/GumballFactoryTycoonAutoFarm-E5olv")
