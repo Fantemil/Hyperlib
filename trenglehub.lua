@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 21:27:26"
+lastupdate = "GMT +1: 16.04.2023 21:27:30"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -16345,3 +16345,5 @@ addscriptexist(189707, "Natural Disaster Survival.", "pulled from rbxscript.com"
 addscript(9940051005, "Current Game","Blox Legends [AutoCollect]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blox%20Legends%20AutoCollect.lua", "https://rbxscript.com/post/BloxLegendsAutoCollect-GKnqX")
 
 addscript(2817130270, "Current Game","Digging Simulator [Inf Bag, Inf Money]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Digging%20Simulator%20Inf%20Bag%20Inf%20Money.lua", "https://rbxscript.com/post/DiggingSimulatorInfBagInfMoney-Y5SBn")
+
+addscriptexist(137877687, "RoCitizens [AutoFarm, Troll]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RoCitizens%20AutoFarm%20Troll.lua", "https://rbxscript.com/post/RoCitizensAutoFarmTroll-sBVa6")
