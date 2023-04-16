@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 21:47:34"
+lastupdate = "GMT +1: 16.04.2023 21:47:38"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -16915,3 +16915,5 @@ addscriptexist(8123652942, "Legend Piece [GUI - Auto Farming]", "pulled from rbx
 addscriptexist(7664045612, "Tiny Bread Factory [Auto Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tiny%20Bread%20Factory%20Auto%20Farm.lua", "https://rbxscript.com/post/TinyBreadFactoryAutoFarm-wEXyG")
 
 addscriptexist(2753915549, "Blox fruit [Fast Attack]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blox%20fruit%20Fast%20Attack.lua", "https://rbxscript.com/post/BloxfruitFastAttack-aleab")
+
+addscriptexist(4282985734, "Combat Warriors [Silent Aim - Open Source]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Combat%20Warriors%20Silent%20Aim%20%20Open%20Source.lua", "https://rbxscript.com/post/CombatWarriorsSilentAimOpenSource-cuAu6")
