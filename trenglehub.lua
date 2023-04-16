@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 22:55:41"
+lastupdate = "GMT +1: 16.04.2023 22:55:45"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18889,3 +18889,5 @@ addscriptexist(4616652839, "Shindo Life [AutoFarm, Infinity spins, War farm]", "
 addscriptexist(4588604953, "Criminality [Instant Teleport Bypass]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Criminality%20Instant%20Teleport%20Bypass.lua", "https://rbxscript.com/post/CriminalityInstantTeleportBypass-iZYZf")
 
 addscript(9402532903, "Current Game","Diamond Hood, Ruby hood [Auto Shoot & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Diamond%20Hood%20Ruby%20hood%20Auto%20Shoot%20%20More.lua", "https://rbxscript.com/post/DiamondHoodRubyhoodAutoShootMore-zRiC5")
+
+addscriptexist(4540286603, "NORTHWIND [Animal Esp]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NORTHWIND%20Animal%20Esp.lua", "https://rbxscript.com/post/NORTHWIND-UUi")
