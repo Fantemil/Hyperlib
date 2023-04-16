@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 21:59:55"
+lastupdate = "GMT +1: 16.04.2023 21:59:59"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -17257,3 +17257,5 @@ addscriptexist(9702206679, "Heroes Daydream [Auto Farm]", "pulled from rbxscript
 addscriptexist(10204556059, "NARS Color Quest [Auto Collect All Shades - Complete All]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NARS%20Color%20Quest%20Auto%20Collect%20All%20Shades%20%20Complete%20All.lua", "https://rbxscript.com/post/NARSColorQuestAutoCollectAllShadesCompleteAll-NeaNm")
 
 addscriptexist(10118559731, "nico`s nextbots [BHOP]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/nicos%20nextbots%20BHOP.lua", "https://rbxscript.com/post/nicosnextbotsBHOP-Q8mla")
+
+addscriptexist(4965975642, "Survival Of The Fittest [Kick Players - Set Stats & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Survival%20Of%20The%20Fittest%20Kick%20Players%20%20Set%20Stats%20%20More.lua", "https://rbxscript.com/post/SurvivalOfTheFittestKickPlayersSetStatsMore-OLVYU")
