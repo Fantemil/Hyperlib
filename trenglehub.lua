@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 22:11:00"
+lastupdate = "GMT +1: 16.04.2023 22:11:04"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -17567,3 +17567,5 @@ addscriptexist(5956785391, "Project Slayers [Teleport to Player]", "pulled from 
 addscriptexist(5956785391, "Project Slayers [Teleport to Bosses]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Project%20Slayers%20Teleport%20to%20Bosses.lua", "https://rbxscript.com/post/ProjectSlayersTeleporttoBosses-VoD9U")
 
 addscriptexist(5956785391, "Project Slayers [Lag Server]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Project%20Slayers%20Lag%20Server.lua", "https://rbxscript.com/post/ProjectSlayersLagServer-pTlGf")
+
+addscript(8473958692, "Current Game","The Trials [PHASE 2] [Overpowered GUI]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/The%20Trials%20PHASE%20%20Overpowered%20GUI.lua", "https://rbxscript.com/post/TheTrialsPHASE2OverpoweredGUI-ZXOPa")
