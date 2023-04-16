@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 22:09:58"
+lastupdate = "GMT +1: 16.04.2023 22:10:02"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -17537,3 +17537,5 @@ addscriptexist(7305309231, "Taxi Boss [Remove NPC cars]", "pulled from rbxscript
 addscriptexist(4566572536, "Vehicle Legends [Car Speed]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Vehicle%20Legends%20Car%20Speed.lua", "https://rbxscript.com/post/VehicleLegendsCarSpeed-QchPv")
 
 addscript(9903808883, "Current Game","Build a Market Tycoon [Money Booster]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Build%20a%20Market%20Tycoon%20Money%20Booster.lua", "https://rbxscript.com/post/BuildaMarketTycoonMoneyBooster-OjNnw")
+
+addscriptexist(10041417653, "Turbo's Murder Mystery 2 [Inf Money]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Turbos%20Murder%20Mystery%20%20Inf%20Money.lua", "https://rbxscript.com/post/TurbosMurderMystery2InfMoney-o6F3C")
