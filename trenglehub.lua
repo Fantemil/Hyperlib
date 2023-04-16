@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 21:38:40"
+lastupdate = "GMT +1: 16.04.2023 21:38:44"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -16669,3 +16669,5 @@ addscriptexist(2732246600, "Bloody Battle [Respawns You Until You Get The Loot Y
 addscriptexist(8884334497, "Mining Clicker Simulator [Auto Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mining%20Clicker%20Simulator%20Auto%20Farm.lua", "https://rbxscript.com/post/MiningClickerSimulatorAutoFarm-kWv3g")
 
 addscriptexist(7860844204, "Life Sentence [Auto Workout]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Life%20Sentence%20Auto%20Workout.lua", "https://rbxscript.com/post/LifeSentenceAutoWorkout-Xrz5t")
+
+addscriptexist(8884334497, "Mining Clicker Simulator [GUI - Auto Farming]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mining%20Clicker%20Simulator%20GUI%20%20Auto%20Farming.lua", "https://rbxscript.com/post/MiningClickerSimulatorGUIAutoFarming-yrfdR")
