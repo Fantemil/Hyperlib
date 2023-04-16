@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 22:27:39"
+lastupdate = "GMT +1: 16.04.2023 22:27:43"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18057,3 +18057,5 @@ addscriptexist(70005410, "Blox Hunt [God Mode, Infinite Energy]", "pulled from r
 addscriptexist(4588604953, "Criminality [Auto Block]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Criminality%20Auto%20Block.lua", "https://rbxscript.com/post/CriminalityAutoBlock-iBowo")
 
 addscriptexist(2753915549, "Blox Fruit [Silent Aim]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blox%20Fruit%20Silent%20Aim.lua", "https://rbxscript.com/post/BloxFruitSilentAim-91gju")
+
+addscriptexist(8739839954, "Jujutsu Tycoon [Kill Boss]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Jujutsu%20Tycoon%20Kill%20Boss.lua", "https://rbxscript.com/post/JujutsuTycoonKillBoss-3E9mA")
