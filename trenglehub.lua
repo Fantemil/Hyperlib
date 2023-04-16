@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 21:32:18"
+lastupdate = "GMT +1: 16.04.2023 21:32:21"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -16483,3 +16483,5 @@ addscript(4241242833, "Current Game","Family Paradise [Rainbow Skin, Auto Run]",
 addscriptexist(9872472334, "Evade [FullBright, Inf Jump]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Evade%20FullBright%20Inf%20Jump.lua", "https://rbxscript.com/post/EvadeFullBrightInfJump-nzrgn")
 
 addscriptexist(2788229376, "Da Hood [Hitbox, Fly]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Da%20Hood%20Hitbox%20Fly.lua", "https://rbxscript.com/post/DaHoodHitboxFly-jERjt")
+
+addscriptexist(6456351776, "Kaiju Paradise [No CD Grab, Walkspeed]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Kaiju%20Paradise%20No%20CD%20Grab%20Walkspeed.lua", "https://rbxscript.com/post/KaijuParadiseNoCDGrabWalkspeed-rdsIa")
