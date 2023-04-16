@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 22:23:38"
+lastupdate = "GMT +1: 16.04.2023 22:23:42"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -17941,3 +17941,5 @@ addscript(10057350313, "Current Game","Ore Smelting Tycoon [Auto Claim Tycoon & 
 addscript(9884452497, "Current Game","Bloodlust [Infinite Money]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Bloodlust%20Infinite%20Money.lua", "https://rbxscript.com/post/BloodlustInfiniteMoney-jnXjw")
 
 addscriptexist(2753915549, "Blox Fruits [GUI - Auto Farm Level, Auto Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blox%20Fruits%20GUI%20%20Auto%20Farm%20Level%20Auto%20Farm.lua", "https://rbxscript.com/post/BloxFruitsGUIAutoFarmLevelAutoFarm-3mqHY")
+
+addscriptexist(185655149, "Bloxburg [Auto Build]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Bloxburg%20Auto%20Build.lua", "https://rbxscript.com/post/BloxburgAutoBuild-knVwE")
