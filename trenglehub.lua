@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 21:55:00"
+lastupdate = "GMT +1: 16.04.2023 21:55:04"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -17121,3 +17121,5 @@ addscriptexist(3851622790, "Break In Story [GUI - Auto Hit, Kill All & More!]", 
 addscriptexist(7305309231, "Taxi Boss [Auto Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Taxi%20Boss%20Auto%20Farm.lua", "https://rbxscript.com/post/TaxiBossAutoFarm-Uk3CH")
 
 addscriptexist(6468323505, "Spellbound Magic RPG [Infinte Money]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Spellbound%20Magic%20RPG%20Infinte%20Money.lua", "https://rbxscript.com/post/SpellboundMagicRPGInfinteMoney-pzexU")
+
+addscriptexist(6284583030, "Pet simulator X [GUI - Auto Farm, Chest Farm & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pet%20simulator%20X%20GUI%20%20Auto%20Farm%20Chest%20Farm%20%20More.lua", "https://rbxscript.com/post/PetsimulatorXGUIAutoFarmChestFarmMore-uWyKe")
