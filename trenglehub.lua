@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 21:34:29"
+lastupdate = "GMT +1: 16.04.2023 21:34:33"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -16547,3 +16547,5 @@ addscriptexist(5620664339, "RoStreets [Silent Aim, KillAura]", "pulled from rbxs
 addscriptexist(3527629287, "Big Paintball [Aimbot, Fov]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Big%20Paintball%20Aimbot%20Fov.lua", "https://rbxscript.com/post/BigPaintballAimbotFov-HCnW7")
 
 addscriptexist(286090429, "Arsenal [Aimbot, Wall check]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Arsenal%20Aimbot%20Wall%20check.lua", "https://rbxscript.com/post/ArsenalAimbotWallcheck-Q2zza")
+
+addscriptexist(8737602449, "PLS DONATE [Auto Beg]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PLS%20DONATE%20Auto%20Beg.lua", "https://rbxscript.com/post/PLSDONATEAutoBeg-8Yynk")
