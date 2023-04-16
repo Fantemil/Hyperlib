@@ -1,8 +1,8 @@
-local repst = game:GetService("ReplicatedStorage")
+-- Must have at least 168 Money
+
 local args = {
-   [1] = {
-       [5001101] = 14e14
-   }
+    [1] = 2930,
+    [2] = -math.huge
 }
 
-repst.ServerMsg.CatchFish:FireServer(unpack(args))
+game:GetService("ReplicatedStorage").ServerMsg.BuyShopGoods:InvokeServer(unpack(args))
