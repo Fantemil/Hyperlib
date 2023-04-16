@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 22:11:30"
+lastupdate = "GMT +1: 16.04.2023 22:11:34"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -17581,3 +17581,5 @@ addscriptexist(6716188523, "Business Tycoon [Infinite Money]", "pulled from rbxs
 addscriptexist(8123652942, "Legend Piece [No Cooldown]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Legend%20Piece%20No%20Cooldown.lua", "https://rbxscript.com/post/LegendPieceNoCooldown-fwNsG")
 
 addscriptexist(6249640453, "Classic Retro Craftwars [Kill Bosses]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Classic%20Retro%20Craftwars%20Kill%20Bosses.lua", "https://rbxscript.com/post/ClassicRetroCraftwarsKillBosses-U3yHm")
+
+addscriptexist(2788229376, "Da Hood [Auto Farm, Anti Afk]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Da%20Hood%20Auto%20Farm%20Anti%20Afk.lua", "https://rbxscript.com/post/DaHoodAutoFarmAntiAfk-u6LJt")
