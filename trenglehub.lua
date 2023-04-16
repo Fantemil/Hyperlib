@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 21:25:36"
+lastupdate = "GMT +1: 16.04.2023 21:25:40"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -16295,3 +16295,5 @@ addscript(10386774046, "Current Game","Legend Magician [Insane Reach]", "pulled 
 addscriptexist(6168898345, "Bulwark [Auto Parry]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Bulwark%20Auto%20Parry.lua", "https://rbxscript.com/post/BulwarkAutoParry-dZaFB")
 
 addscript(9531918774, "Current Game","mid eastern conflict sim [Inf Ammo]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/mid%20eastern%20conflict%20sim%20Inf%20Ammo.lua", "https://rbxscript.com/post/mideasternconflictsimInfAmmo-AqgPr")
+
+addscriptexist(286090429, "Arsenal [No Recoil]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Arsenal%20No%20Recoil.lua", "https://rbxscript.com/post/ArsenalNoRecoil-6fS3f")
