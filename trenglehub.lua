@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 22:32:06"
+lastupdate = "GMT +1: 16.04.2023 22:32:10"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18191,3 +18191,5 @@ addscriptexist(2906554815, "S.W.A.T Simulator [Auto Farm]", "pulled from rbxscri
 addscript(8110845141, "Current Game","POOP WITH FRIENDS [GUI - Auto Farming]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/POOP%20WITH%20FRIENDS%20GUI%20%20Auto%20Farming.lua", "https://rbxscript.com/post/POOPWITHFRIENDSGUIAutoFarming-CoFTA")
 
 addscriptexist(537413528, "Build A Boat For Treasure [GUI - Auto Quest, Auto Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Build%20A%20Boat%20For%20Treasure%20GUI%20%20Auto%20Quest%20Auto%20Farm.lua", "https://rbxscript.com/post/BuildABoatForTreasureGUIAutoQuestAutoFarm-N3v41")
+
+addscriptexist(6403373529, "Slap Battles Gui [GUI - Slap Farm, Teleports]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Slap%20Battles%20Gui%20GUI%20%20Slap%20Farm%20Teleports.lua", "https://rbxscript.com/post/SlapBattlesGuiGUISlapFarmTeleports-NLQGp")
