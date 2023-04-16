@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 22:38:45"
+lastupdate = "GMT +1: 16.04.2023 22:38:52"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18389,3 +18389,5 @@ addscriptexist(142823291, "Murder Mystery 2 [Visual skins]", "pulled from rbxscr
 addscript(7261493042, "Current Game","Impossible Glass Bridge Obby [Path revealing]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Impossible%20Glass%20Bridge%20Obby%20Path%20revealing.lua", "https://rbxscript.com/post/ImpossibleGlassBridgeObbyPathrevealing-b2Yp")
 
 addscriptexist(9103898828, "Rogue Demon [Punch Distance]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Rogue%20Demon%20Punch%20Distance.lua", "https://rbxscript.com/post/RogueDemonPunchDistance-tJJ1")
+
+addscriptexist(9559194006, "social experiment [Auto blood rain, Chat predictor]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/social%20experiment%20Auto%20blood%20rain%20Chat%20predictor.lua", "https://rbxscript.com/post/socialexperimentAutobloodrainChatpredictor-fPxSe")
