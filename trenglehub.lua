@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 21:53:06"
+lastupdate = "GMT +1: 16.04.2023 21:53:10"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -17073,3 +17073,5 @@ addscriptexist(10192063645, "Thy Hood [Fly]", "pulled from rbxscript.com", "http
 addscriptexist(8916037983, "Starving Artist [Steal Art]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Starving%20Artist%20Steal%20Art.lua", "https://rbxscript.com/post/StarvingArtistStealArt-bk4hi")
 
 addscriptexist(2788229376, "Dahood [Speed Macro]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Dahood%20Speed%20Macro.lua", "https://rbxscript.com/post/DahoodSpeedMacro-ISIVF")
+
+addscriptexist(2377868063, "Strucid [GUI - Aimbot, Triger Bot, Gun Mod]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Strucid%20GUI%20%20Aimbot%20Triger%20Bot%20Gun%20Mod.lua", "https://rbxscript.com/post/StrucidGUIAimbotTrigerBotGunMod-3V5xE")
