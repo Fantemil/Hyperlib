@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 22:03:42"
+lastupdate = "GMT +1: 16.04.2023 22:03:46"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -17361,3 +17361,5 @@ addscriptexist(29812337, "Framed! [ESP]", "pulled from rbxscript.com", "https://
 addscriptexist(2413927524, "The Rake REMASTERED [Rake Esp, FullBirght]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/The%20Rake%20REMASTERED%20Rake%20Esp%20FullBirght.lua", "https://rbxscript.com/post/TheRakeREMASTEREDRakeEspFullBirght-z42vS")
 
 addscriptexist(4282985734, "Combat Warriors [NoFallDamage, auto farm, infinite stamina]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Combat%20Warriors%20NoFallDamage%20auto%20farm%20infinite%20stamina.lua", "https://rbxscript.com/post/CombatWarriorsNoFallDamageautofarminfinitestamina-N362T")
+
+addscriptexist(5956785391, "Project Slayers [Tp Muzan]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Project%20Slayers%20Tp%20Muzan.lua", "https://rbxscript.com/post/ProjectSlayersTpMuzan-KsmfX")
