@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 21:33:19"
+lastupdate = "GMT +1: 16.04.2023 21:33:22"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -16511,3 +16511,5 @@ addscriptexist(1554960397, "Car Dealership Tycoon [Auto Farm]", "pulled from rbx
 addscriptexist(7026828578, "Speed Simulator [Auto Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Speed%20Simulator%20Auto%20Farm.lua", "https://rbxscript.com/post/SpeedSimulatorAutoFarm-CXE9B")
 
 addscriptexist(6516141723, "DOORS [Esp]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DOORS%20Esp.lua", "https://rbxscript.com/post/DOORSEsp-mliit")
+
+addscriptexist(8585657145, "Anime Hero Simulator [Auto Hatch, Auto farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime%20Hero%20Simulator%20Auto%20Hatch%20Auto%20farm.lua", "https://rbxscript.com/post/AnimeHeroSimulatorAutoHatchAutofarm-mqVUT")
