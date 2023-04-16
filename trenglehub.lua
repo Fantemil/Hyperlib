@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 22:28:11"
+lastupdate = "GMT +1: 16.04.2023 22:28:18"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18073,3 +18073,5 @@ addscriptexist(606849621, "Jailbreak [GUI - Vehicles Settings & More!]", "pulled
 addscriptexist(7952502098, "Impossible Glass Bridge Obby [Showing the way]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Impossible%20Glass%20Bridge%20Obby%20Showing%20the%20way.lua", "https://rbxscript.com/post/ImpossibleGlassBridgeObbyShowingtheway-hBR2")
 
 addscriptexist(9961650006, "Shockwave Racing [Auto Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Shockwave%20Racing%20Auto%20Farm.lua", "https://rbxscript.com/post/ShockwaveRacingAutoFarm-07F48")
+
+addscriptexist(9508087919, "Apeirophobia [Infinite Stamina, Teleports & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Apeirophobia%20Infinite%20Stamina%20Teleports%20%20More.lua", "https://rbxscript.com/post/ApeirophobiaInfiniteStaminaTeleportsMore-dLEWN")
