@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 22:51:52"
+lastupdate = "GMT +1: 16.04.2023 22:51:55"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18781,3 +18781,5 @@ addscriptexist(3271747724, "MEGA Boss Survival [Infinite Money]", "pulled from r
 addscriptexist(9049840490, "Sonic Speed Simulator [Instantly get 7.5k Chili Dogs]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sonic%20Speed%20Simulator%20Instantly%20get%20k%20Chili%20Dogs.lua", "https://rbxscript.com/post/SonicSpeedSimulatorInstantlyget75kChiliDogs-naReb")
 
 addscriptexist(292439477, "Phantom Forces [Open Source ESP]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Phantom%20Forces%20Open%20Source%20ESP.lua", "https://rbxscript.com/post/PhantomForcesOpenSourceESP-mqLsx")
+
+addscriptexist(6143963763, "Untitled Combat Arena [Auto Farm Money]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Untitled%20Combat%20Arena%20Auto%20Farm%20Money.lua", "https://rbxscript.com/post/UntitledCombatArenaAutoFarmMoney-HyzF1")
