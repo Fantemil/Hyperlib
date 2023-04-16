@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 22:28:18"
+lastupdate = "GMT +1: 16.04.2023 22:28:22"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18075,3 +18075,5 @@ addscriptexist(7952502098, "Impossible Glass Bridge Obby [Showing the way]", "pu
 addscriptexist(9961650006, "Shockwave Racing [Auto Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Shockwave%20Racing%20Auto%20Farm.lua", "https://rbxscript.com/post/ShockwaveRacingAutoFarm-07F48")
 
 addscriptexist(9508087919, "Apeirophobia [Infinite Stamina, Teleports & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Apeirophobia%20Infinite%20Stamina%20Teleports%20%20More.lua", "https://rbxscript.com/post/ApeirophobiaInfiniteStaminaTeleportsMore-dLEWN")
+
+addscript(9734866408, "Current Game","Basketball Simulator [Infinite Coins]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Basketball%20Simulator%20Infinite%20Coins.lua", "https://rbxscript.com/post/BasketballSimulatorInfiniteCoins-YSpNm")
