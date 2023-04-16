@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 21:31:05"
+lastupdate = "GMT +1: 16.04.2023 21:31:08"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -16451,3 +16451,5 @@ addscriptexist(6067244110, "Flood Escape 2 Ultimate [Auto Farm]", "pulled from r
 addscriptexist(2753915549, "Blox Fruits [AutoFarm and more]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blox%20Fruits%20AutoFarm%20and%20more.lua", "https://rbxscript.com/post/BloxFruitsAutoFarmandmore-K5usI")
 
 addscript(2396588044, "Current Game","Adopt and Raise [Inf Money]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Adopt%20and%20Raise%20Inf%20Money.lua", "https://rbxscript.com/post/AdoptandRaiseInfMoney-4Y4pB")
+
+addscriptexist(9940051005, "Blox Legends [Auto Collect]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blox%20Legends%20Auto%20Collect.lua", "https://rbxscript.com/post/BloxLegendsAutoCollect-KwAG8")
