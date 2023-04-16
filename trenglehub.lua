@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 22:34:52"
+lastupdate = "GMT +1: 16.04.2023 22:34:56"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18273,3 +18273,5 @@ addscriptexist(8123652942, "Legend Piece [Infinite Damage To Enemies]", "pulled 
 addscript(9786213478, "Current Game","Treat Simulator [GUI - Auto Sell, Auto Rebirth & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Treat%20Simulator%20GUI%20%20Auto%20Sell%20Auto%20Rebirth%20%20More.lua", "https://rbxscript.com/post/TreatSimulatorGUIAutoSellAutoRebirthMore-pplH")
 
 addscriptexist(9726345231, "Duolingo Game Hub [Auto Money]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Duolingo%20Game%20Hub%20Auto%20Money.lua", "https://rbxscript.com/post/DuolingoGameHubAutoMoney-t3bol")
+
+addscript(9017974931, "Current Game","Valoblox [Auto Open Cases]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Valoblox%20Auto%20Open%20Cases.lua", "https://rbxscript.com/post/ValobloxAutoOpenCases-g6JsW")
