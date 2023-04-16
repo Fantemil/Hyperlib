@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 21:47:01"
+lastupdate = "GMT +1: 16.04.2023 21:47:05"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -16897,3 +16897,5 @@ addhub("Hydra Hub UI", "pulled from rbxscript.com", "https://raw.githubuserconte
 addscriptexist(9845465117, "AU:Reborn [Invisible]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AUReborn%20Invisible.lua", "https://rbxscript.com/post/AURebornInvisible-fFvYZ")
 
 addscriptexist(7127407851, "Attack On Titan: Evolution [Infinite Gas & MORE!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Attack%20On%20Titan%20Evolution%20Infinite%20Gas%20%20MORE.lua", "https://rbxscript.com/post/AttackOnTitanEvolutionInfiniteGasMORE-aAbsr")
+
+addscriptexist(9579974235, "Find The Floppa Morphs [Get All Floppas]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Find%20The%20Floppa%20Morphs%20Get%20All%20Floppas.lua", "https://rbxscript.com/post/FindTheFloppaMorphsGetAllFloppas-ZZy82")
