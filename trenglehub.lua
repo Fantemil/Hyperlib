@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 22:42:24"
+lastupdate = "GMT +1: 16.04.2023 22:42:27"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18501,3 +18501,5 @@ addscriptexist(6728870912, "World of Stands Demo [AutoFarm, Webhook, Item Farm]"
 addscript(9966192771, "Current Game","Adventure Simulator [Reveal whats behind rocks during mining]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Adventure%20Simulator%20Reveal%20whats%20behind%20rocks%20during%20mining.lua", "https://rbxscript.com/post/AdventureSimulatorRevealwhatsbehindrocksduringmining-cfEJK")
 
 addscriptexist(8884433153, "Collect All Pets [GUI - Auto Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Collect%20All%20Pets%20GUI%20%20Auto%20Farm.lua", "https://rbxscript.com/post/CollectAllPetsGUIAutoFarm-NsZWk")
+
+addscriptexist(1554960397, "Car Dealership Tycoon [AutoFarm, Infinity Speed, Walk on water]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Car%20Dealership%20Tycoon%20AutoFarm%20Infinity%20Speed%20Walk%20on%20water.lua", "https://rbxscript.com/post/CarDealershipTycoonAutoFarmInfinitySpeedWalkonwater-9hkQ")
