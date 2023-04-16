@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 22:25:20"
+lastupdate = "GMT +1: 16.04.2023 22:25:26"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -17989,3 +17989,5 @@ addscriptexist(9551640993, "Mining Simulator 2 [Remove Egg Animations]", "pulled
 addscriptexist(7540727946, "Hoops Life [Auto Time - Semi Aimbot - Open Source]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Hoops%20Life%20Auto%20Time%20%20Semi%20Aimbot%20%20Open%20Source.lua", "https://rbxscript.com/post/HoopsLifeAutoTimeSemiAimbotOpenSource-u4cFL")
 
 addscriptexist(9103898828, "Rogue Demon [No Fall Damage]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Rogue%20Demon%20No%20Fall%20Damage.lua", "https://rbxscript.com/post/RogueDemonNoFallDamage-z3R5j")
+
+addscriptexist(9976239895, "Gumball Factory Tycoon [Auto Convert Gumballs]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Gumball%20Factory%20Tycoon%20Auto%20Convert%20Gumballs.lua", "https://rbxscript.com/post/GumballFactoryTycoonAutoConvertGumballs-zwQ3")
