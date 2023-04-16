@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 22:33:30"
+lastupdate = "GMT +1: 16.04.2023 22:33:34"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18235,3 +18235,5 @@ addscriptuniversal("Roblox - Universal Aim Assistant", "pulled from rbxscript.co
 addscriptexist(4459593483, "FORCE [PRE-ALPHA] [GUI - Teleports]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FORCE%20PREALPHA%20GUI%20%20Teleports.lua", "https://rbxscript.com/post/FORCEPREALPHAGUITeleports-IdE41")
 
 addscriptexist(286090429, "Arsenal [GUI - Xray, Auto Farm & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Arsenal%20GUI%20%20Xray%20Auto%20Farm%20%20More.lua", "https://rbxscript.com/post/ArsenalGUIXrayAutoFarmMore-doNCF")
+
+addscript(4618049391, "Current Game","T ang County, Hebei [Auto Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/T%20ang%20County%20Hebei%20Auto%20Farm.lua", "https://rbxscript.com/post/TangCountyHebeiAutoFarm-Dfl4v")
