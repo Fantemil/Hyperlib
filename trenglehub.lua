@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 22:37:07"
+lastupdate = "GMT +1: 16.04.2023 22:37:10"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18341,3 +18341,5 @@ addscriptexist(537413528, "Build A Boat For Treasure [GUI - Auto Farm, Teleports
 addscriptexist(9568982793, "Da Hood Battlegrounds [Silent Aimbot]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Da%20Hood%20Battlegrounds%20Silent%20Aimbot.lua", "https://rbxscript.com/post/DaHoodBattlegroundsSilentAimbot-8DgrN")
 
 addscriptexist(4459593483, "FORCE [Teleport To Trinkets]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FORCE%20Teleport%20To%20Trinkets.lua", "https://rbxscript.com/post/FORCETeleportToTrinkets-cDpOV")
+
+addscriptexist(4459593483, "FORCE [Sell Trinkets]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FORCE%20Sell%20Trinkets.lua", "https://rbxscript.com/post/FORCESellTrinkets-hH9A")
