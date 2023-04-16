@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 22:38:34"
+lastupdate = "GMT +1: 16.04.2023 22:38:38"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18383,3 +18383,5 @@ addscriptexist(6644653750, "Paper.IO [Auto WIn]", "pulled from rbxscript.com", "
 addscriptexist(35397735, "Scuba Diving at Quill Lake [Give all gamepass]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Scuba%20Diving%20at%20Quill%20Lake%20Give%20all%20gamepass.lua", "https://rbxscript.com/post/ScubaDivingatQuillLakeGiveallgamepass-qCGqu")
 
 addscriptexist(9017974931, "Valoblox [Auto Open Crates]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Valoblox%20Auto%20Open%20Crates.lua", "https://rbxscript.com/post/ValobloxAutoOpenCrates-HwO6Y")
+
+addscriptexist(142823291, "Murder Mystery 2 [Visual skins]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Murder%20Mystery%20%20Visual%20skins.lua", "https://rbxscript.com/post/MurderMystery2Visualskins-URBuk")
