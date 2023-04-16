@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 21:44:23"
+lastupdate = "GMT +1: 16.04.2023 21:44:27"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -16825,3 +16825,5 @@ addscript(9605515605, "Current Game","Sword Lands Simulator - Alpha [Inf Money]"
 addscriptexist(7952502098, "Impossible Glass Bridge Obby - [AUTO FARMER]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Impossible%20Glass%20Bridge%20Obby%20%20AUTO%20FARMER.lua", "https://rbxscript.com/post/ImpossibleGlassBridgeObbyAUTOFARMER-vRJq3")
 
 addscriptexist(9285238704, "Race Clicker speed [Anti-Cheat bypass]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Race%20Clicker%20speed%20AntiCheat%20bypass.lua", "https://rbxscript.com/post/RaceClickerspeedAntiCheatbypass-zufk1")
+
+addscriptexist(189707, "Natural Disasters Survival [Auto Disaster Detect, Free Ballon, remove fall Damage]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Natural%20Disasters%20Survival%20Auto%20Disaster%20Detect%20Free%20Ballon%20remove%20fall%20Damage.lua", "https://rbxscript.com/post/NaturalDisastersSurvivalAutoDisasterDetectFreeBallonremovefallDamage-vxEOG")
