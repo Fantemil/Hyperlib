@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 22:04:51"
+lastupdate = "GMT +1: 16.04.2023 22:04:54"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -17393,3 +17393,5 @@ addscriptexist(9167501050, "Lightsaber Arena [Kill aura, auto block, inf stamina
 addscriptexist(9377039667, "Roblox Innovation Awards Voting Hub [Teleport to secret award/badge]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Roblox%20Innovation%20Awards%20Voting%20Hub%20Teleport%20to%20secret%20awardbadge.lua", "https://rbxscript.com/post/RobloxInnovationAwardsVotingHubTeleporttosecretawardbadge-42OLT")
 
 addscriptexist(5956785391, "Project Slayers [Speedhack]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Project%20Slayers%20Speedhack.lua", "https://rbxscript.com/post/ProjectSlayersSpeedhack-hqQ5f")
+
+addscript(10041417653, "Current Game","Turbo's Murder Mystery [Esp, AutoUnBox, Sped Hack]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Turbos%20Murder%20Mystery%20Esp%20AutoUnBox%20Sped%20Hack.lua", "https://rbxscript.com/post/TurbosMurderMysteryEspAutoUnBoxSpedHack-naqdZ")
