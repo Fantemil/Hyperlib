@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 22:28:25"
+lastupdate = "GMT +1: 16.04.2023 22:28:29"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18079,3 +18079,5 @@ addscriptexist(9508087919, "Apeirophobia [Infinite Stamina, Teleports & More!]",
 addscript(9734866408, "Current Game","Basketball Simulator [Infinite Coins]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Basketball%20Simulator%20Infinite%20Coins.lua", "https://rbxscript.com/post/BasketballSimulatorInfiniteCoins-YSpNm")
 
 addscriptexist(9396463375, "Mining Empire [Infinite Coins]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mining%20Empire%20Infinite%20Coins.lua", "https://rbxscript.com/post/MiningEmpireInfiniteCoins-Efceo")
+
+addscriptexist(8884334497, "Mining Clicker Simulator [Auto Clicks & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mining%20Clicker%20Simulator%20Auto%20Clicks%20%20More.lua", "https://rbxscript.com/post/MiningClickerSimulatorAutoClicksMore-Jvfet")
