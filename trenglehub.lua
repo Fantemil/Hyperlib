@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 22:06:56"
+lastupdate = "GMT +1: 16.04.2023 22:07:00"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -17451,3 +17451,5 @@ addscriptexist(2788229376, "Da hood [Auto arrest]", "pulled from rbxscript.com",
 addscriptexist(192800, "Work at a Pizza Place [Serv Bomber]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Work%20at%20a%20Pizza%20Place%20Serv%20Bomber.lua", "https://rbxscript.com/post/WorkataPizzaPlaceServBomber-brhn5")
 
 addscriptexist(9551640993, "Mining Simulator 2 [Auto Complete Bruh Beard Quest]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mining%20Simulator%20%20Auto%20Complete%20Bruh%20Beard%20Quest.lua", "https://rbxscript.com/post/MiningSimulator2AutoCompleteBruhBeardQuest-gS2On")
+
+addscript(6570234816, "Current Game","Mano County Roleplay [Anticheat bypass]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mano%20County%20Roleplay%20Anticheat%20bypass.lua", "https://rbxscript.com/post/ManoCountyRoleplayAnticheatbypas-wLW6B")
