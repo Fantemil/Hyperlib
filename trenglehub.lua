@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 21:52:22"
+lastupdate = "GMT +1: 16.04.2023 21:52:25"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -17051,3 +17051,5 @@ addscriptexist(10322949476, "Limited Jumps [Inf Jumps]", "pulled from rbxscript.
 addscriptexist(7655745946, "Dunking Simulator [Unlimited boost]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Dunking%20Simulator%20Unlimited%20boost.lua", "https://rbxscript.com/post/DunkingSimulatorUnlimitedboost-ZTds6")
 
 addscriptexist(7655745946, "Dunking Simulator [Free Avatar Items]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Dunking%20Simulator%20Free%20Avatar%20Items.lua", "https://rbxscript.com/post/DunkingSimulatorFreeAvatarItems-kZFfO")
+
+addscript(9817495903, "Current Game","Impossible Red Light, Green Light! [Teleport To The Finish Line]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Impossible%20Red%20Light%20Green%20Light%20Teleport%20To%20The%20Finish%20Line.lua", "https://rbxscript.com/post/ImpossibleRedLightGreenLightTeleportToTheFinishLine-5ESSk")
