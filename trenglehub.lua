@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 21:47:55"
+lastupdate = "GMT +1: 16.04.2023 21:47:58"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -16925,3 +16925,5 @@ addscriptexist(4520749081, "King Legacy [GUI - Auto Farm]", "pulled from rbxscri
 addscriptexist(2534724415, "Emergency Response Liberty County [Silent Aim]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Emergency%20Response%20Liberty%20County%20Silent%20Aim.lua", "https://rbxscript.com/post/EmergencyResponseLibertyCountySilentAim-Ff6am")
 
 addscriptexist(142823291, "Murder Mystery 2 [Lag Crash]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Murder%20Mystery%20%20Lag%20Crash.lua", "https://rbxscript.com/post/MurderMystery2LagCrash-70k9h")
+
+addscriptexist(180364455, "Survive The Disasters 2 [V41.75] [Full Anti Cheat Bypass]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Survive%20The%20Disasters%20%20V%20Full%20Anti%20Cheat%20Bypass.lua", "https://rbxscript.com/post/SurviveTheDisasters2V4175FullAntiCheatBypass-oQw5E")
