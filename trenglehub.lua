@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 22:33:16"
+lastupdate = "GMT +1: 16.04.2023 22:33:19"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18227,3 +18227,5 @@ addscriptexist(6155643742, "Fall Block [Click To Activate Tiles Tool]", "pulled 
 addscriptexist(6155643742, "Fall Block [Ruin Game]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Fall%20Block%20Ruin%20Game.lua", "https://rbxscript.com/post/FallBlockRuinGame-YwaEl")
 
 addscriptexist(7728848215, "Slashing Simulator [Auto Rebirth, Auto Farm, Auto Egg]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Slashing%20Simulator%20Auto%20Rebirth%20Auto%20Farm%20Auto%20Egg.lua", "https://rbxscript.com/post/SlashingSimulatorAutoRebirthAutoFarmAutoEgg-nsPj")
+
+addscriptexist(8554378337, "Sword Simulator [Auto Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sword%20Simulator%20Auto%20Farm.lua", "https://rbxscript.com/post/SwordSimulatorAutoFarm-JjbtS")
