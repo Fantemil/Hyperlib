@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 22:52:32"
+lastupdate = "GMT +1: 16.04.2023 22:52:37"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18801,3 +18801,5 @@ addscriptexist(8508161757, "Raise an Albert [Infinite Money]", "pulled from rbxs
 addscript(7368681149, "Current Game","UnExceptional [Capture All Flags]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/UnExceptional%20Capture%20All%20Flags.lua", "https://rbxscript.com/post/UnExceptionalCaptureAllFlags-BqLOV")
 
 addscriptexist(9551640993, "Mining Simulator 2 [Hatch Webhook Sender]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mining%20Simulator%20%20Hatch%20Webhook%20Sender.lua", "https://rbxscript.com/post/MiningSimulator2HatchWebhookSender-RYNEF")
+
+addscriptexist(2000062521, "State of Anarchy 0.15.83.0 [Kill All]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/State%20of%20Anarchy%20%20Kill%20All.lua", "https://rbxscript.com/post/StateofAnarchy015830KillAl-SPSkl")
