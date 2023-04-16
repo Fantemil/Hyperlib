@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 22:27:56"
+lastupdate = "GMT +1: 16.04.2023 22:27:59"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18065,3 +18065,5 @@ addscriptexist(8739839954, "Jujutsu Tycoon [Collect Loot]", "pulled from rbxscri
 addscriptexist(1730877806, "Grand Piece Online [Bounty ESP]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Grand%20Piece%20Online%20Bounty%20ESP.lua", "https://rbxscript.com/post/GrandPieceOnlineBountyESP-asJPo")
 
 addscriptexist(6678877691, "ZO ぞ SAMURAI [Teleport Aura]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ZO%20%E3%81%9E%20SAMURAI%20Teleport%20Aura.lua", "https://rbxscript.com/post/ZO%E3%81%9ESAMURAITeleportAura-STuJz")
+
+addscript(447452406, "Current Game","Robloxian High School [Trash Bag Spam]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Robloxian%20High%20School%20Trash%20Bag%20Spam.lua", "https://rbxscript.com/post/RobloxianHighSchoolTrashBagSpam-SsJyh")
