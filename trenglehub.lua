@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 21:51:29"
+lastupdate = "GMT +1: 16.04.2023 21:51:35"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -17025,3 +17025,5 @@ addscriptexist(8962384769, "Firework Simulator [Auto Farm, WalkSpeed, Auto open 
 addscriptexist(8425637426, "Write a Letter [A etter free animations]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Write%20a%20Letter%20A%20etter%20free%20animations.lua", "https://rbxscript.com/post/WriteaLetterAetterfreeanimations-bj3da")
 
 addscriptexist(10386774046, "Legend Magician [Auto Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Legend%20Magician%20Auto%20Farm.lua", "https://rbxscript.com/post/LegendMagicianAutoFarm-CFm2d")
+
+addscriptexist(8303902695, "Pet Posse Simulator [Auto Coins, Rebirth, Auto Open Egg]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pet%20Posse%20Simulator%20Auto%20Coins%20Rebirth%20Auto%20Open%20Egg.lua", "https://rbxscript.com/post/PetPosseSimulatorAutoCoinsRebirthAutoOpenEgg-17bGj")
