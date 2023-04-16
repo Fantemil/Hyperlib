@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 21:27:37"
+lastupdate = "GMT +1: 16.04.2023 21:27:40"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -16351,3 +16351,5 @@ addscriptexist(137877687, "RoCitizens [AutoFarm, Troll]", "pulled from rbxscript
 addscript(9120036461, "Current Game","Simple Basketball [Inf Money]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Simple%20Basketball%20Inf%20Money.lua", "https://rbxscript.com/post/SimpleBasketballInfMoney-RIk1u")
 
 addscriptexist(6681032961, "Museum Tycoon [Inf Cash]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Museum%20Tycoon%20Inf%20Cash.lua", "https://rbxscript.com/post/MuseumTycoonInfCash-8Q10j")
+
+addscript(6357903043, "Current Game","Aniverse [Auto Farm, Auto Replay]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Aniverse%20Auto%20Farm%20Auto%20Replay.lua", "https://rbxscript.com/post/AniverseAutoFarmAutoReplay-iqk3Z")
