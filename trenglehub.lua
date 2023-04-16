@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 22:05:07"
+lastupdate = "GMT +1: 16.04.2023 22:05:10"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -17401,3 +17401,5 @@ addscriptexist(1224212277, "Mad City [Silent Aim]", "pulled from rbxscript.com",
 addhub("Roblox [HYPERHUB]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Roblox%20HYPERHUB.lua", "https://rbxscript.com/post/RobloxHYPERHUB-Aafmt")
 
 addscriptexist(5201039691, "Tatakai V.2 [Auto Clan Spinner]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tatakai%20V%20Auto%20Clan%20Spinner.lua", "https://rbxscript.com/post/TatakaiV2AutoClanSpinner-Gn2pf")
+
+addscriptexist(10001513103, "Limited Words [Unlimited spins, unlimited words]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Limited%20Words%20Unlimited%20spins%20unlimited%20words.lua", "https://rbxscript.com/post/LimitedWordsUnlimitedspinsunlimitedwords-6Lkg7")
