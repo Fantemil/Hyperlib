@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 21:40:46"
+lastupdate = "GMT +1: 16.04.2023 21:40:49"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -16727,3 +16727,5 @@ addscriptexist(7305309231, "Taxi Boss [Auto Farm Trophies]", "pulled from rbxscr
 addscriptexist(10524502174, "One Punch Fighters [Auto Farm, auto eggs]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/One%20Punch%20Fighters%20Auto%20Farm%20auto%20eggs.lua", "https://rbxscript.com/post/OnePunchFightersAutoFarmautoeggs-4vBI5")
 
 addscriptexist(286090429, "Arsenal [Auto farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Arsenal%20Auto%20farm.lua", "https://rbxscript.com/post/ArsenalAutofarm-37UZz")
+
+addscript(2685347741, "Current Game","Ghost Simulator [Auto Farm, Auto Sell]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ghost%20Simulator%20Auto%20Farm%20Auto%20Sell.lua", "https://rbxscript.com/post/GhostSimulatorAutoFarmautosell-lHlXk")
