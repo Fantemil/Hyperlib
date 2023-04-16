@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 22:20:19"
+lastupdate = "GMT +1: 16.04.2023 22:20:23"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -17839,3 +17839,5 @@ addscriptexist(9281034297, "Goal Kick Simulator [Faster Auto Kick]", "pulled fro
 addscriptexist(10118559731, "nico's nextbots [Esp, tp Safe Zone]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/nicos%20nextbots%20Esp%20tp%20Safe%20Zone.lua", "https://rbxscript.com/post/nicosnextbotsEsptpSafeZone-PYFk3")
 
 addscript(568350650, "Current Game","Fashion Famous [Get Klossette x Reverse_Polarity Backpack]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Fashion%20Famous%20Get%20Klossette%20x%20ReversePolarity%20Backpack.lua", "https://rbxscript.com/post/FashionFamous-ZBX3I")
+
+addscriptexist(2098516465, "Roblox High School 2 [Get Klossette x Lovespun Purse]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Roblox%20High%20School%20%20Get%20Klossette%20x%20Lovespun%20Purse.lua", "https://rbxscript.com/post/RobloxHighSchool2GetKlossettexLovespunPurse-W7SeJ")
