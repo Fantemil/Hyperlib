@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 22:32:22"
+lastupdate = "GMT +1: 16.04.2023 22:32:26"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18199,3 +18199,5 @@ addscriptexist(9359839118, "Gas Station Simulator [Break The Whole Game]", "pull
 addscriptexist(8151832473, "TheGhettoGame [GUI - Super OP - Infinite Money & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TheGhettoGame%20GUI%20%20Super%20OP%20%20Infinite%20Money%20%20More.lua", "https://rbxscript.com/post/TheGhettoGameGUISuperOPInfiniteMoneyMore-Golj")
 
 addscriptexist(8596411742, "Barb Blox Lane [Auto Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Barb%20Blox%20Lane%20Auto%20Farm.lua", "https://rbxscript.com/post/BarbBloxLaneAutoFarm-O9wF")
+
+addscriptexist(4282985734, "Combat Warriors [Auto Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Combat%20Warriors%20Auto%20Farm.lua", "https://rbxscript.com/post/CombatWarriorsAutoFarm-O444Y")
