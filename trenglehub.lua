@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 22:13:21"
+lastupdate = "GMT +1: 16.04.2023 22:13:24"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -17637,3 +17637,5 @@ addscriptexist(5956785391, "Project Slayers [GUI - Auto Farm, Auto Skill & More!
 addscriptexist(8884334497, "Mining Clicker Simulator [Auto Clicker - Auto Rebirth & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mining%20Clicker%20Simulator%20Auto%20Clicker%20%20Auto%20Rebirth%20%20More.lua", "https://rbxscript.com/post/MiningClickerSimulatorAutoClickerAutoRebirthMore-UX0dz")
 
 addscript(6604417568, "Current Game","Minerscave [Ore ESP - GUI]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Minerscave%20Ore%20ESP%20%20GUI.lua", "https://rbxscript.com/post/MinerscaveOreESPGUI-UiPUR")
+
+addscript(8739839954, "Current Game","Jujutsu Tycoon [Use All Abilities]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Jujutsu%20Tycoon%20Use%20All%20Abilities.lua", "https://rbxscript.com/post/JujutsuTycoonUseAllAbilities-1qK6d")
