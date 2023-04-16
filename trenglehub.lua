@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 22:50:38"
+lastupdate = "GMT +1: 16.04.2023 22:50:42"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18745,3 +18745,5 @@ addscriptexist(6937208251, "Star Wars Battlegrounds [Gun Mods Press V]", "pulled
 addscriptexist(4540286603, "NORTHWIND [Bird ESP]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NORTHWIND%20Bird%20ESP.lua", "https://rbxscript.com/post/NORTHWINDBirdESP-Lkbl")
 
 addscriptexist(4616652839, "Shindo Life [Auto Farm, Auto Farm Boss, Auto Rank]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Shindo%20Life%20Auto%20Farm%20Auto%20Farm%20Boss%20Auto%20Rank.lua", "https://rbxscript.com/post/ShindoLifeAutoFarmAutoFarmBossAutoRank-5FcKl")
+
+addscriptexist(1537690962, "Bee Swarm Simulator [Auto Farm, Auto Dig, Farm Flames]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Bee%20Swarm%20Simulator%20Auto%20Farm%20Auto%20Dig%20Farm%20Flames.lua", "https://rbxscript.com/post/BeeSwarmSimulatorAutoFarmAutoDigFarmFlames-Y7qWP")
