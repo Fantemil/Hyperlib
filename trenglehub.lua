@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 22:47:43"
+lastupdate = "GMT +1: 16.04.2023 22:47:47"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18659,3 +18659,5 @@ addscriptexist(8069117419, "Demon Soul Simulator [AutoFarm, Teleports, AutoChest
 addscriptexist(9551640993, "Mining Simulator 2 [Auto Farm Gems]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mining%20Simulator%20%20Auto%20Farm%20Gems.lua", "https://rbxscript.com/post/MiningSimulator2AutoFarmGems-8PnXm")
 
 addscriptexist(3851622790, "Break in [GamePass Roles]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Break%20in%20GamePass%20Roles.lua", "https://rbxscript.com/post/BreakinGamePassRoles-EIxmV")
+
+addscriptexist(137877687, "RoCitizens [Nametag Color, Cape Texture Speed, Friend Nametag Color]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RoCitizens%20Nametag%20Color%20Cape%20Texture%20Speed%20Friend%20Nametag%20Color.lua", "https://rbxscript.com/post/RoCitizensNametagColorCapeTextureSpeedFriendNametagColor-aGjdI")
