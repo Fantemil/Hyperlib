@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 21:43:10"
+lastupdate = "GMT +1: 16.04.2023 21:43:14"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -16795,3 +16795,5 @@ addscriptexist(9285238704, "Race Clicker [Auto Race GUI]", "pulled from rbxscrip
 addscriptexist(10386774046, "Legend Magician [1 Shot]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Legend%20Magician%20%20Shot.lua", "https://rbxscript.com/post/LegendMagician1Shot-h4rTG")
 
 addscript(8707573053, "Current Game","nowhere [Collect Emply Bottles]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/nowhere%20Collect%20Emply%20Bottles.lua", "https://rbxscript.com/post/nowhereCollectEmplyBottles-a4f8d")
+
+addscript(109814071, "Current Game","Medieval Warfare Reforged [Auto Farm - GUI]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Medieval%20Warfare%20Reforged%20Auto%20Farm%20%20GUI.lua", "https://rbxscript.com/post/MedievalWarfareReforgedAutoFarmGUI-Wt6zI")
