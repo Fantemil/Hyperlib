@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 22:12:09"
+lastupdate = "GMT +1: 16.04.2023 22:12:12"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -17601,3 +17601,5 @@ addscriptexist(4783966408, "Plates of Fate Remastered [Auto Complete Obby]", "pu
 addscriptexist(6961824067, "Fling Things and People [Anti Grab & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Fling%20Things%20and%20People%20Anti%20Grab%20%20More.lua", "https://rbxscript.com/post/FlingThingsandPeopleAntiGrabMore-ptxvq")
 
 addscriptexist(5993942214, "Rush Point [Tracers]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Rush%20Point%20Tracers.lua", "https://rbxscript.com/post/RushPointTracers-leRG")
+
+addscriptexist(5993942214, "Rush Point [Chams]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Rush%20Point%20Chams.lua", "https://rbxscript.com/post/RushPointChams-a3pov")
