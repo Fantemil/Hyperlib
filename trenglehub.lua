@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 21:50:38"
+lastupdate = "GMT +1: 16.04.2023 21:50:41"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -17001,3 +17001,5 @@ addscriptexist(10184360875, "Pet&Fishing Simulator [Fast Auto Farm]", "pulled fr
 addscriptuniversal("Roblox [Universal tpwalk]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Roblox%20Universal%20tpwalk.lua", "https://rbxscript.com/post/RobloxUniversaltpwalk-RJhah")
 
 addscriptexist(7026949294, "Sword Simulator [Auto Mobs, Auto Eggs, Mob Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sword%20Simulator%20Auto%20Mobs%20Auto%20Eggs%20Mob%20Farm.lua", "https://rbxscript.com/post/SwordSimulatorAutoMobsAutoEggsMobFarm-gE0tw")
+
+addscriptexist(9157605735, "MiscGunTest:X [Inf Money, Tp, Stick All]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MiscGunTestX%20Inf%20Money%20Tp%20Stick%20All.lua", "https://rbxscript.com/post/MiscGunTestXInfMoneyTpStickAll-tsakw")
