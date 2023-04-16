@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 22:03:50"
+lastupdate = "GMT +1: 16.04.2023 22:03:53"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -17365,3 +17365,5 @@ addscriptexist(4282985734, "Combat Warriors [NoFallDamage, auto farm, infinite s
 addscriptexist(5956785391, "Project Slayers [Tp Muzan]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Project%20Slayers%20Tp%20Muzan.lua", "https://rbxscript.com/post/ProjectSlayersTpMuzan-KsmfX")
 
 addscriptexist(5956785391, "Project Slayers [Esp]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Project%20Slayers%20Esp.lua", "https://rbxscript.com/post/ProjectSlayersEsp-bO7OP")
+
+addscriptexist(3623096087, "Muscle Legends [Kill Player, Safe Farm, Auto Equip]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Muscle%20Legends%20Kill%20Player%20Safe%20Farm%20Auto%20Equip.lua", "https://rbxscript.com/post/MuscleLegendsKillPlayersafeFarmAutoEquip-9FJ0f")
