@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 22:29:54"
+lastupdate = "GMT +1: 16.04.2023 22:29:57"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18123,3 +18123,5 @@ addscriptexist(9551640993, "Mining Simulator 2 GUI", "pulled from rbxscript.com"
 addscriptexist(7860844204, "Life Sentence [Auto Farm - Auto Collect Points & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Life%20Sentence%20Auto%20Farm%20%20Auto%20Collect%20Points%20%20More.lua", "https://rbxscript.com/post/LifeSentenceAutoFarmAutoCollectPointsMore-2PqK7")
 
 addscriptexist(2413927524, "The RAKE REMASTERED [GUI - No Stamina, Afk Bot & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/The%20RAKE%20REMASTERED%20GUI%20%20No%20Stamina%20Afk%20Bot%20%20More.lua", "https://rbxscript.com/post/TheRAKEREMASTEREDGUINoStaminaAfkBotMore-DdaPi")
+
+addscript(9463737803, "Current Game","WimbleWorld [Xp Farm - Badges & Get UGC Item]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/WimbleWorld%20Xp%20Farm%20%20Badges%20%20Get%20UGC%20Item.lua", "https://rbxscript.com/post/WimbleWorldXpFarmBadgesGetUGCItem-xzxej")
