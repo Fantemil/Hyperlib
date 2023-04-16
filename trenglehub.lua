@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 22:50:00"
+lastupdate = "GMT +1: 16.04.2023 22:50:03"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18727,3 +18727,5 @@ addscriptexist(7791873535, "REALISTIC HOOD [Infiniti Cash]", "pulled from rbxscr
 addscriptexist(8592863835, "Magnet Simulator 2 [Auto Money, Auto Sell, Auto Rebirth]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Magnet%20Simulator%20%20Auto%20Money%20Auto%20Sell%20Auto%20Rebirth.lua", "https://rbxscript.com/post/MagnetSimulator2AutoMoneyAutoSellAutoRebirth-zABHh")
 
 addscriptexist(8737602449, "PLS DONATE [ESP]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PLS%20DONATE%20ESP.lua", "https://rbxscript.com/post/PLSDONATEESP-Ix8GL")
+
+addscriptexist(1224212277, "Mad City [Crazy AutoRob, Server Crasher, Teleports]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mad%20City%20Crazy%20AutoRob%20Server%20Crasher%20Teleports.lua", "https://rbxscript.com/post/MadCityCrazyAutoRobServerCrasherTeleports-9Ijci")
