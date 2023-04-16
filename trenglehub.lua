@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 21:32:30"
+lastupdate = "GMT +1: 16.04.2023 21:32:34"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -16489,3 +16489,5 @@ addscriptexist(6456351776, "Kaiju Paradise [No CD Grab, Walkspeed]", "pulled fro
 addscript(6802248248, "Current Game","SAITAMANIA [Auto Spin, Rebirth]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SAITAMANIA%20Auto%20Spin%20Rebirth.lua", "https://rbxscript.com/post/SAITAMANIAAutoSpinRebirth-XoCSa")
 
 addscript(260606376, "Current Game","Realistic Roleplay 2 [Auto Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Realistic%20Roleplay%20%20Auto%20Farm.lua", "https://rbxscript.com/post/RealisticRoleplay2AutoFarm-Tu6g1")
+
+addscript(7941853407, "Current Game","Squishmallow [Auto Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Squishmallow%20Auto%20Farm.lua", "https://rbxscript.com/post/SquishmallowAutoFarm-m8IGu")
