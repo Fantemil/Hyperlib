@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 22:20:54"
+lastupdate = "GMT +1: 16.04.2023 22:20:58"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -17857,3 +17857,5 @@ addscriptexist(5130598377, "A Universal Time [GUI - Infinite Attacks- God Mode]"
 addscriptexist(413424176, "Clone Tycoon 2 [Infinite Cash]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Clone%20Tycoon%20%20Infinite%20Cash.lua", "https://rbxscript.com/post/CloneTycoon2InfiniteCash-83THU")
 
 addscriptexist(3101667897, "Legends Of Speed [Auto Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Legends%20Of%20Speed%20Auto%20Farm.lua", "https://rbxscript.com/post/LegendsOfSpeedAutoFarm-xb6F9")
+
+addscriptexist(263761432, "Horrific Housing [GUI - Destroy Meteor & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Horrific%20Housing%20GUI%20%20Destroy%20Meteor%20%20More.lua", "https://rbxscript.com/post/HorrificHousingGUIDestroyMeteorMore-K8G8R")
