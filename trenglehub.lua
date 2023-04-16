@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 22:41:12"
+lastupdate = "GMT +1: 16.04.2023 22:41:16"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18465,3 +18465,5 @@ addscriptexist(9726345231, "Duolingo Game Hub [Dev Badge - Roblox Event]", "pull
 addhub("Arctic Hub [3 Games]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Arctic%20Hub%20%20Games.lua", "https://rbxscript.com/post/ArcticHub3Games-nF4bu")
 
 addscriptexist(2788229376, "Da Hood [GUI - Aimlock, KillBot & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Da%20Hood%20GUI%20%20Aimlock%20KillBot%20%20More.lua", "https://rbxscript.com/post/DaHoodGUIAimlockKillBotMore-Y0uU7")
+
+addscriptexist(893973440, "Flee the Facility [GUI - Esp, Teleports]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Flee%20the%20Facility%20GUI%20%20Esp%20Teleports.lua", "https://rbxscript.com/post/FleetheFacilityGUIEspTeleport-4Y5Yf")
