@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 21:57:58"
+lastupdate = "GMT +1: 16.04.2023 21:58:01"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -17201,3 +17201,5 @@ addscriptexist(914010731, "Ro-Ghoul [Invis, Click Tp, Click Tp Speed]", "pulled 
 addscriptexist(263761432, "Horrific Housing [More Money]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Horrific%20Housing%20More%20Money.lua", "https://rbxscript.com/post/HorrificHousingMoreMoney-K6twN")
 
 addscriptexist(8222131500, "Desert island survival [Auto redeem codes]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Desert%20island%20survival%20Auto%20redeem%20codes.lua", "https://rbxscript.com/post/DesertislandsurvivalAutoredeemcodes-SCUWn")
+
+addscriptexist(8222131500, "Island Survival [Inf Air Drop]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Island%20Survival%20Inf%20Air%20Drop.lua", "https://rbxscript.com/post/IslandSurvivalInfAirDrop-c5Oc5")
