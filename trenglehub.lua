@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 22:12:24"
+lastupdate = "GMT +1: 16.04.2023 22:12:28"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -17609,3 +17609,5 @@ addscriptexist(8473958692, "The Trials [Auto Press Buttons, Open All Crates]", "
 addscriptexist(4651779470, "RECOIL [GUI- NoSprea, NoRecoil & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RECOIL%20GUI%20NoSprea%20NoRecoil%20%20More.lua", "https://rbxscript.com/post/RECOILGUINoSpreaNoRecoilMore-JJPKk")
 
 addscriptexist(3840352284, "Volleyball 4.2 [No Line-Fault]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Volleyball%20%20No%20LineFault.lua", "https://rbxscript.com/post/Volleyball42NoLineFault-OHVF3")
+
+addscript(9601849832, "Current Game","Jetpack Battle [Insta-kill]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Jetpack%20Battle%20Instakill.lua", "https://rbxscript.com/post/JetpackBattleInstakill-IN9WD")
