@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 22:06:12"
+lastupdate = "GMT +1: 16.04.2023 22:06:16"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -17431,3 +17431,5 @@ addscriptexist(9940051005, "Blox Legends [Infinite Tokens]", "pulled from rbxscr
 addscriptexist(606849621, "Jailbreak [No Fall Damage]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Jailbreak%20No%20Fall%20Damage.lua", "https://rbxscript.com/post/JailbreakNoFallDamage-CRBPI")
 
 addscriptexist(8054462345, "Michael's Zombies [Headshot insta reload]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Michaels%20Zombies%20Headshot%20insta%20reload.lua", "https://rbxscript.com/post/MichaelsZombiesHeadshotinstareload-kqVxB")
+
+addscript(9170761016, "Current Game","Magic Clicker [Auto Click, Click Animation Remove, Auto rebirth]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Magic%20Clicker%20Auto%20Click%20Click%20Animation%20Remove%20Auto%20rebirth.lua", "https://rbxscript.com/post/MagicClickerAutoClickClickAnimationRemoveAutorebirth-O8oNn")
