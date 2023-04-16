@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 22:47:22"
+lastupdate = "GMT +1: 16.04.2023 22:47:26"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18649,3 +18649,5 @@ addscriptexist(3652625463, "Lifting Simulator [Auto Muscle, WalkSpeed, TP Safe Z
 addscriptexist(2727067538, "World // Zero [Kill Aura]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/World%20%20Zero%20Kill%20Aura.lua", "https://rbxscript.com/post/WorldZeroKillAura-APz4")
 
 addscriptexist(5827078246, "Coins Hero Simulator [Auto Coin, Auto Sell, AutoEgg]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Coins%20Hero%20Simulator%20Auto%20Coin%20Auto%20Sell%20AutoEgg.lua", "https://rbxscript.com/post/CoinsHeroSimulatorAutoCoinAutoSellAutoEgg-W6N1")
+
+addscriptexist(574407221, "Super Hero Tycoon [Crate Farm, Auto Cash, Auto Click]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Super%20Hero%20Tycoon%20Crate%20Farm%20Auto%20Cash%20Auto%20Click.lua", "https://rbxscript.com/post/SuperHeroTycoonCrateFarmAutoCashAutoClick-9PzQn")
