@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 22:48:58"
+lastupdate = "GMT +1: 16.04.2023 22:49:02"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18697,3 +18697,5 @@ addscriptexist(3101667897, "Legends Of Speed [Steps Farm, Gems Farm]", "pulled f
 addscript(969669348, "Current Game","Black Magic II Phantoms Causatum [Kill All]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Black%20Magic%20II%20Phantoms%20Causatum%20Kill%20All.lua", "https://rbxscript.com/post/BlackMagicIIPhantomsCausatumKillAll-Rj4w")
 
 addscriptexist(5766084948, "SCP The Red Lake [Infinite Ammo]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SCP%20The%20Red%20Lake%20Infinite%20Ammo.lua", "https://rbxscript.com/post/SCPTheRedLakeInfiniteAmmo-RbvZf")
+
+addscriptexist(155382109, "Survive and Kill the Killers in Area 51 [Anti Afk, Walk Speed, Give all Guns]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Survive%20and%20Kill%20the%20Killers%20in%20Area%20%20Anti%20Afk%20Walk%20Speed%20Give%20all%20Guns.lua", "https://rbxscript.com/post/SurviveandKilltheKillersinArea51AntiAfkWalkSpeed-ai1Uj")
