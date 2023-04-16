@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 21:42:04"
+lastupdate = "GMT +1: 16.04.2023 21:42:07"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -16765,3 +16765,5 @@ addscriptexist(9845465117, "AU:Reborn [Instant & Infinite Awakening", "pulled fr
 addscriptexist(8278412720, "CS Prison Life [BETA] [Casino Auto Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CS%20Prison%20Life%20BETA%20Casino%20Auto%20Farm.lua", "https://rbxscript.com/post/CSPrisonLifeBETACasinoAutoFarm-p0XDN")
 
 addscriptexist(4809447488, "Venture Tales [Auto Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Venture%20Tales%20Auto%20Farm.lua", "https://rbxscript.com/post/VentureTalesAutoFarm-Pyf2F")
+
+addscriptexist(5956785391, "Project Slayers [Kill Aura - Teleports & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Project%20Slayers%20Kill%20Aura%20%20Teleports%20%20More.lua", "https://rbxscript.com/post/ProjectSlayersKillAuraTeleportsMore-ZhbBR")
