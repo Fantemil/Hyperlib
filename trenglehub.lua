@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 21:59:38"
+lastupdate = "GMT +1: 16.04.2023 21:59:42"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -17249,3 +17249,5 @@ addscriptexist(9129288160, "Tommy Play [Collect All Tokens]", "pulled from rbxsc
 addscript(9702206679, "Current Game","Heroes Daydream [Auto Farm V2]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Heroes%20Daydream%20Auto%20Farm%20V.lua", "https://rbxscript.com/post/HeroesDaydreamAutoFarmV2-jksBJ")
 
 addscriptexist(2474168535, "Westbound [Auto Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Westbound%20Auto%20Farm.lua", "https://rbxscript.com/post/WestboundAutoFarm-7LPxP")
+
+addscriptexist(5571328985, "Bloodlines [Infinite Cash & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Bloodlines%20Infinite%20Cash%20%20More.lua", "https://rbxscript.com/post/BloodlinesInfiniteCashMore_BnxSW")
