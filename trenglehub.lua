@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 21:58:36"
+lastupdate = "GMT +1: 16.04.2023 21:58:40"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -17219,3 +17219,5 @@ addscriptexist(654732683, "Car Crushers 2 [Auto Farm, GamePass, No Ragdoll]", "p
 addscript(1629847577, "Current Game","Dragon Ball N [No CoolDown ]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Dragon%20Ball%20N%20No%20CoolDown%20.lua", "https://rbxscript.com/post/DragonBallNNoCoolDown-e2biw")
 
 addscriptexist(6284583030, "Pet Simulator X [Ban Bypass]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pet%20Simulator%20X%20Ban%20Bypass.lua", "https://rbxscript.com/post/PetSimulatorXBanBypass-B68oA")
+
+addscriptexist(8540168650, "Stand Upright Rebooted [GUI - Item Farm - Auto Farm & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Stand%20Upright%20Rebooted%20GUI%20%20Item%20Farm%20%20Auto%20Farm%20%20More.lua", "https://rbxscript.com/post/StandUprightRebootedGUIItemFarmAutoFarmMore-DghaB")
