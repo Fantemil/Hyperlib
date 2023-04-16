@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 21:41:36"
+lastupdate = "GMT +1: 16.04.2023 21:41:39"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -16751,3 +16751,5 @@ addscriptexist(4036494886, "Gun Simulator [Infinite Everything & Custom Stats]",
 addscriptexist(8689257920, "Life in Prison [GUI - Kill All & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Life%20in%20Prison%20GUI%20%20Kill%20All%20%20More.lua", "https://rbxscript.com/post/LifeinPrisonGUIKillAllMore-Qyych")
 
 addscriptexist(9498006165, "Tapping Simulator [Auto Farm - GUI]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tapping%20Simulator%20Auto%20Farm%20%20GUI.lua", "https://rbxscript.com/post/TappingSimulatorAutoFarmGUI-YsaZY")
+
+addscriptexist(7991339063, "Rainbow Friends [Coin Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Rainbow%20Friends%20Coin%20Farm.lua", "https://rbxscript.com/post/RainbowFriendsCoinFarm-ao4tV")
