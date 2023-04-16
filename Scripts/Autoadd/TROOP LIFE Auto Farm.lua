@@ -1,35 +1,28 @@
-game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-105.572388, 7.56572056, -2612.29663, -1, 0, 0, 0, 0, 1, 0, 1, -0)
-wait(1)
-game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-105.163879, 1.08625197, -2646.03027, 1, 0, 0, 0, 1, 0, 0, 0, 1)
-wait(1)
-game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-105.163879, 1.08637905, -2679.4834, 1, 0, 0, 0, 1, 0, 0, 0, 1)
-wait(1)
-game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-105.163879, 1.08614302, -2728.88965, 1, 0, 0, 0, 1, 0, 0, 0, 1)
-wait(1)
-game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-105.163879, 1.08623302, -2797.23975, 1, 0, 0, 0, 1, 0, 0, 0, 1)
-wait(1)
-game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-105.163879, 1.086568, -2859.00098, 1, 0, 0, 0, 1, 0, 0, 0, 1)
-wait(1)
-game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-105.163879, 1.08613205, -2902.17651, 1, 0, 0, 0, 1, 0, 0, 0, 1)
-wait(1)
-game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-105.423889, 22.9571934, -2981.49634, 0, 0, -1, 0, 1, 0, 1, 0, 0)
-wait(1)
-game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-46.8525391, 21.2451611, -2946.05591, -1, 0, 0, 0, 1, 0, 0, 0, -1)
-wait(1)
-game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-46.8525391, 1.08620703, -2900.78198, -1, 0, 0, 0, 1, 0, 0, 0, -1)
-wait(1)
-game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-46.8525391, 1.08658004, -2852.11523, -1, 0, 0, 0, 1, 0, 0, 0, -1)
-wait(1)
-game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-46.8525391, 1.08650303, -2789.23193, -1, 0, 0, 0, 1, 0, 0, 0, -1)
-wait(1)
-game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-46.8525391, 1.08615398, -2766.24292, -1, 0, 0, 0, 1, 0, 0, 0, -1)
-wait(1)
-game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-46.8525391, 1.08662105, -2720.61719, -1, 0, 0, 0, 1, 0, 0, 0, -1)
-wait(1)
-game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-46.8525391, 1.08653402, -2700.94385, -1, 0, 0, 0, 1, 0, 0, 0, -1)
-wait(1)
-game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-46.8525391, 1.08660901, -2667.5835, -1, 0, 0, 0, 1, 0, 0, 0, -1)
-wait(1)
-game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-46.1990967, 2.42669773, -2610.22778, -1, 0, 0, 0, 1, 0, 0, 0, -1)
-wait(1)
-fireclickdetector(game.Workspace.ObbyFinish.FinishObby.ClickDetector)
+local charr = game.Players.LocalPlayer.Character.HumanoidRootPart
+getgenv().autofarm = true --set false and re execute to stop
+while autofarm do
+    wait()
+for count = 1,16 do
+    wait(1)
+for i,v in next, game:GetService("Workspace").Checkpoints:GetChildren() do
+if v.Name == ""..count then
+charr.CFrame = v.CFrame
+wait(0.2)
+for i,v in next, game:GetDescendants() do
+if v:IsA("ProximityPrompt") then
+fireproximityprompt(v)
+end
+end
+wait(0.1)
+end
+end
+end
+wait(0.3)
+charr.CFrame = game:GetService("Workspace").ObbyFinish.FinishObby.CFrame
+wait(0.1)
+for i,v in next, game:GetDescendants() do
+if v:IsA("ProximityPrompt") then
+fireproximityprompt(v)
+end
+end
+end
