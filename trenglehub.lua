@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 22:38:31"
+lastupdate = "GMT +1: 16.04.2023 22:38:34"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18381,3 +18381,5 @@ addscriptexist(9551640993, "Mining Simulator 2 [Fake Hatcher GUI]", "pulled from
 addscriptexist(6644653750, "Paper.IO [Auto WIn]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PaperIO%20Auto%20WIn.lua", "https://rbxscript.com/post/PaperIOAutoWIn-W1ER5")
 
 addscriptexist(35397735, "Scuba Diving at Quill Lake [Give all gamepass]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Scuba%20Diving%20at%20Quill%20Lake%20Give%20all%20gamepass.lua", "https://rbxscript.com/post/ScubaDivingatQuillLakeGiveallgamepass-qCGqu")
+
+addscriptexist(9017974931, "Valoblox [Auto Open Crates]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Valoblox%20Auto%20Open%20Crates.lua", "https://rbxscript.com/post/ValobloxAutoOpenCrates-HwO6Y")
