@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 22:02:06"
+lastupdate = "GMT +1: 16.04.2023 22:02:11"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -17315,3 +17315,5 @@ addscriptexist(7009799230, "Pressure Wash Simulator [GUI - Inf Money & More!]", 
 addscript(9397663086, "Current Game","Ninja Training Simulator [Auto Farm & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ninja%20Training%20Simulator%20Auto%20Farm%20%20More.lua", "https://rbxscript.com/post/NinjaTrainingSimulatorAutoFarmMore-7AcwZ")
 
 addscriptexist(9167501050, "Lightsaber Arena [Kill Aura - Auto Block & Infinite Stamina]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Lightsaber%20Arena%20Kill%20Aura%20%20Auto%20Block%20%20Infinite%20Stamina.lua", "https://rbxscript.com/post/LightsaberArenaKillAuraAutoBlockInfiniteStamina-3ejf")
+
+addscript(596894229, "Current Game","Elemental Adventure [Level Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Elemental%20Adventure%20Level%20Farm.lua", "https://rbxscript.com/post/ElementalAdventureLevelFarm-8pKXZ")
