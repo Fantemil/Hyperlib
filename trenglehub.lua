@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 21:30:00"
+lastupdate = "GMT +1: 16.04.2023 21:30:05"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -16423,3 +16423,5 @@ addhub("Luna Hub [9 SUPPORTED GAMES]", "pulled from rbxscript.com", "https://raw
 addscriptexist(2772610559, "Farming and Friends [Auto Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Farming%20and%20Friends%20Auto%20Farm.lua", "https://rbxscript.com/post/FarmingandFriendsAutoFarm-iZkJ7")
 
 addscriptexist(9183932460, "Untitled Hood [Silent aim, Fly]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Untitled%20Hood%20Silent%20aim%20Fly.lua", "https://rbxscript.com/post/UntitledHoodSilentaimFly-plrnc")
+
+addscriptexist(9284097280, "Apartment Tycoon [Auto collect cash]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Apartment%20Tycoon%20Auto%20collect%20cash.lua", "https://rbxscript.com/post/ApartmentTycoonAutocollectcash-mlZm5")
