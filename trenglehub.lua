@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 22:13:00"
+lastupdate = "GMT +1: 16.04.2023 22:13:04"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -17627,3 +17627,5 @@ addscript(2043040358, "Current Game","Vyyrahk City [Auto Farm GUI - Inf Stamina 
 addscriptexist(8962384769, "Fireworks Simulator [Auto Fireworks & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Fireworks%20Simulator%20Auto%20Fireworks%20%20More.lua", "https://rbxscript.com/post/FireworksSimulatorAutoFireworksMore-LxaJu")
 
 addscriptexist(4036494886, "Gun Simulator [Infinite Ammo - Infinite Stars & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Gun%20Simulator%20Infinite%20Ammo%20%20Infinite%20Stars%20%20More.lua", "https://rbxscript.com/post/GunSimulatorInfiniteAmmoInfiniteStarsMore-4HAsu")
+
+addscriptexist(9571238478, "Raise a Peter [Auto Farm GUI]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Raise%20a%20Peter%20Auto%20Farm%20GUI.lua", "https://rbxscript.com/post/RaiseaPeterAutoFarmGUI-KPj0d")
