@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 21:58:28"
+lastupdate = "GMT +1: 16.04.2023 21:58:33"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -17215,3 +17215,5 @@ addscriptexist(3956818381, "Ninja Legends [Auto Farm, Auto Sell, Auto Collect Ch
 addscriptexist(9898710720, "Money Tycoon [Auto Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Money%20Tycoon%20Auto%20Farm.lua", "https://rbxscript.com/post/MoneyTycoonAutoFarm-PwktL")
 
 addscriptexist(654732683, "Car Crushers 2 [Auto Farm, GamePass, No Ragdoll]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Car%20Crushers%20%20Auto%20Farm%20GamePass%20No%20Ragdoll.lua", "https://rbxscript.com/post/CarCrushers2AutoFarmGamePassNoRagdoll-DNzOm")
+
+addscript(1629847577, "Current Game","Dragon Ball N [No CoolDown ]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Dragon%20Ball%20N%20No%20CoolDown%20.lua", "https://rbxscript.com/post/DragonBallNNoCoolDown-e2biw")
