@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 22:34:33"
+lastupdate = "GMT +1: 16.04.2023 22:34:42"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18265,3 +18265,5 @@ addscript(5617626326, "Current Game","Blood Samurai 2 [Auto Farm Cash]", "pulled
 addscript(8592703594, "Current Game","Undertale Unexplained Anomalies [Stardust Auto Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Undertale%20Unexplained%20Anomalies%20Stardust%20Auto%20Farm.lua", "https://rbxscript.com/post/UndertaleUnexplainedAnomaliesStardustAutoFarm-AkadQ")
 
 addscriptexist(8123652942, "Legend Piece [God Mode]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Legend%20Piece%20God%20Mode.lua", "https://rbxscript.com/post/LegendPieceGodMode-ILeE8")
+
+addscriptexist(6403373529, "Slap Battles [GUI - Farm, Anti Ragdoll & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Slap%20Battles%20GUI%20%20Farm%20Anti%20Ragdoll%20%20More.lua", "https://rbxscript.com/post/SlapBattlesGUIFarmAntiRagdollMore-Ti3sR")
