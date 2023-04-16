@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 21:58:05"
+lastupdate = "GMT +1: 16.04.2023 21:58:09"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -17205,3 +17205,5 @@ addscriptexist(8222131500, "Desert island survival [Auto redeem codes]", "pulled
 addscriptexist(8222131500, "Island Survival [Inf Air Drop]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Island%20Survival%20Inf%20Air%20Drop.lua", "https://rbxscript.com/post/IslandSurvivalInfAirDrop-c5Oc5")
 
 addscriptexist(10119617028, "Airsoft Center [Esp, Silent Aim]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Airsoft%20Center%20Esp%20Silent%20Aim.lua", "https://rbxscript.com/post/AirsoftCenterEspSilentAim-rsJFK")
+
+addscriptexist(6403373529, "Slap Battles [Kill Aura, Kill Random player, Get All Items]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Slap%20Battles%20Kill%20Aura%20Kill%20Random%20player%20Get%20All%20Items.lua", "https://rbxscript.com/post/SlapBattlesKillAuraKillRandomplayerGetAllItems-RI7yh")
