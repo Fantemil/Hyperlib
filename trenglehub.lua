@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 22:16:21"
+lastupdate = "GMT +1: 16.04.2023 22:16:25"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -17725,3 +17725,5 @@ addscript(9508087919, "Current Game","Apeirophobia [Teleport]", "pulled from rbx
 addscriptexist(5326405001, "Base Battles [Gun Mods - Trigger Bot & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Base%20Battles%20Gun%20Mods%20%20Trigger%20Bot%20%20More.lua", "https://rbxscript.com/post/BaseBattlesGunModsTriggerBotMore-awqtK")
 
 addscriptexist(8328351891, "Mega Mansion Tycoon [Auto Buy]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mega%20Mansion%20Tycoon%20Auto%20Buy.lua", "https://rbxscript.com/post/MegaMansionTycoonAutoBuy-4qfdn")
+
+addscriptexist(698448212, "RoBeats! [Free Ugc Item]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RoBeats%20Free%20Ugc%20Item.lua", "https://rbxscript.com/post/RoBeatsFreeUgcItem-PwSoi")
