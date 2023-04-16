@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 21:42:27"
+lastupdate = "GMT +1: 16.04.2023 21:42:31"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -16777,3 +16777,5 @@ addscriptexist(6403373529, "Slap Battles [GUI - Kill Aura, Esp & More!]", "pulle
 addscriptexist(9143982021, "Sword Battles [GUI - GodMode, Kill Aura]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sword%20Battles%20GUI%20%20GodMode%20Kill%20Aura.lua", "https://rbxscript.com/post/SwordBattlesGUIGodModeKillAura-b6tnw")
 
 addhub("DIZZY HUB [17 Games]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DIZZY%20HUB%20%20Games.lua", "https://rbxscript.com/post/DIZZYHUB17Games-e5yPW")
+
+addscriptexist(9386846196, "Brawling Grounds [Insta Kill]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Brawling%20Grounds%20Insta%20Kill.lua", "https://rbxscript.com/post/BrawlingGroundsInstaKill-gZwA8")
