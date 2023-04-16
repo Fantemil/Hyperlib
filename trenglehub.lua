@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 22:07:12"
+lastupdate = "GMT +1: 16.04.2023 22:07:16"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -17459,3 +17459,5 @@ addscriptexist(2413927524, "THE RAKE: Kill Edition [Point Giver]", "pulled from 
 addscriptexist(5993942214, "Rush Point [Silent Aim]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Rush%20Point%20Silent%20Aim.lua", "https://rbxscript.com/post/RushPointSilentAim-WKlgt")
 
 addscriptexist(205224386, "Hide And Seek Extreme [Collect all coins, SpeedHack etc.]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Hide%20And%20Seek%20Extreme%20Collect%20all%20coins%20SpeedHack%20etc.lua", "https://rbxscript.com/post/HideAndSeekExtremeCollectallcoinsSpeedHacket-KqHNt")
+
+addscriptexist(443406476, "Project Lazarus [Auto Farm, Bring Heads, Gun Mod]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Project%20Lazarus%20Auto%20Farm%20Bring%20Heads%20Gun%20Mod.lua", "https://rbxscript.com/post/ProjectLazarusAutoFarmBringHeadsGunMod-25wOC")
