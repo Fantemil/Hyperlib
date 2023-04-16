@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 22:50:27"
+lastupdate = "GMT +1: 16.04.2023 22:50:31"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18741,3 +18741,5 @@ addscript(9760849472, "Current Game","UFO Universe [Auto Farm Chests, Auto Open 
 addscriptexist(9555732501, "Nen Fighting Simulator [Durability Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Nen%20Fighting%20Simulator%20Durability%20Farm.lua", "https://rbxscript.com/post/NenFightingSimulatorDurabilityFarm-VBANN")
 
 addscriptexist(6937208251, "Star Wars Battlegrounds [Gun Mods Press V]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Star%20Wars%20Battlegrounds%20Gun%20Mods%20Press%20V.lua", "https://rbxscript.com/post/StarWarsBattlegroundsGunModsPressV-6O9WU")
+
+addscriptexist(4540286603, "NORTHWIND [Bird ESP]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NORTHWIND%20Bird%20ESP.lua", "https://rbxscript.com/post/NORTHWINDBirdESP-Lkbl")
