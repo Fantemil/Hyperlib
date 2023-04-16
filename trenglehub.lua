@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 22:28:07"
+lastupdate = "GMT +1: 16.04.2023 22:28:11"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18071,3 +18071,5 @@ addscript(447452406, "Current Game","Robloxian High School [Trash Bag Spam]", "p
 addscriptexist(606849621, "Jailbreak [GUI - Vehicles Settings & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Jailbreak%20GUI%20%20Vehicles%20Settings%20%20More.lua", "https://rbxscript.com/post/JailbreakGUIVehiclesSettingsMore-09ZgG")
 
 addscriptexist(7952502098, "Impossible Glass Bridge Obby [Showing the way]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Impossible%20Glass%20Bridge%20Obby%20Showing%20the%20way.lua", "https://rbxscript.com/post/ImpossibleGlassBridgeObbyShowingtheway-hBR2")
+
+addscriptexist(9961650006, "Shockwave Racing [Auto Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Shockwave%20Racing%20Auto%20Farm.lua", "https://rbxscript.com/post/ShockwaveRacingAutoFarm-07F48")
