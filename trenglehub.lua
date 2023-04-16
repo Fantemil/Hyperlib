@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 22:43:22"
+lastupdate = "GMT +1: 16.04.2023 22:43:27"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18529,3 +18529,5 @@ addscriptexist(4540286603, "NORTHWIND [Crash Server]", "pulled from rbxscript.co
 addscriptexist(2788229376, "Da Hood [invis, Jumpscare, Scary Music]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Da%20Hood%20invis%20Jumpscare%20Scary%20Music.lua", "https://rbxscript.com/post/DaHoodinvisJumpscareScaryMusic-y0IyN")
 
 addscriptexist(6915291292, "Bakery Simulator [Buy Ovens]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Bakery%20Simulator%20Buy%20Ovens.lua", "https://rbxscript.com/post/BakerySimulatorBuyOvens-Yisph")
+
+addscriptexist(4855457388, "Demonfall [GUI - Auto Farm, Auto Collect]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Demonfall%20GUI%20%20Auto%20Farm%20Auto%20Collect.lua", "https://rbxscript.com/post/DemonfallGUIAutoFarmAutoCollect-XodHI")
