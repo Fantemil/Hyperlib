@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 22:02:44"
+lastupdate = "GMT +1: 16.04.2023 22:02:48"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -17333,3 +17333,5 @@ addscriptexist(9983979661, "Dragon Farm Simulator [Infinite Cash]", "pulled from
 addscriptexist(5571328985, "Bloodlines [No Fall Damage]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Bloodlines%20No%20Fall%20Damage.lua", "https://rbxscript.com/post/BloodlinesNoFallDamage-7P6PN")
 
 addscriptexist(5201039691, "Tatakai V.2 [Auto Depo, Money Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tatakai%20V%20Auto%20Depo%20Money%20Farm.lua", "https://rbxscript.com/post/TatakaiV2AutoDepoMoneyFarm-9qWxK")
+
+addscriptexist(3686253681, "Planet Simulator [Auto Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Planet%20Simulator%20Auto%20Farm.lua", "https://rbxscript.com/post/PlanetSimulatorAutoFarm-Y4clX")
