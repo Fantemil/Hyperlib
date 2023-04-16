@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 22:01:39"
+lastupdate = "GMT +1: 16.04.2023 22:01:43"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -17301,3 +17301,5 @@ addscriptexist(5993942214, "Rush Point [Silent Aim & No Recoil]", "pulled from r
 addscript(7214610985, "Current Game","Stealth 2 [Kill Aura - Auto Retaliate - Auto Block]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Stealth%20%20Kill%20Aura%20%20Auto%20Retaliate%20%20Auto%20Block.lua", "https://rbxscript.com/post/Stealth2KillAuraAutoRetaliateAutoBlock-KxuG")
 
 addscriptexist(5571328985, "Bloodlines [No Fire]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Bloodlines%20No%20Fire.lua", "https://rbxscript.com/post/BloodlinesNoFir-IxPCN")
+
+addscriptexist(2413927524, "The Rake REMASTERED [Rake ESP, Fullbright]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/The%20Rake%20REMASTERED%20Rake%20ESP%20Fullbright.lua", "https://rbxscript.com/post/TheRakeREMASTEREDRakeESPFullbright-RoJrO")
