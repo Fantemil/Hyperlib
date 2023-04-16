@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 22:46:07"
+lastupdate = "GMT +1: 16.04.2023 22:46:10"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18611,3 +18611,5 @@ addscript(3271747724, "Current Game","MEGA Boss Survival [Wins Auto Farm]", "pul
 addscriptexist(4540286603, "NORTHWIND [OP GUI]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NORTHWIND%20OP%20GUI.lua", "https://rbxscript.com/post/NORTHWINDOPGUI-XdOuc")
 
 addscriptexist(413424176, "Clone Tycoon 2 [Inf Money]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Clone%20Tycoon%20%20Inf%20Money.lua", "https://rbxscript.com/post/CloneTycoon2InfMoney-mh5rE")
+
+addscriptexist(9555732501, "Nen Fighting Simulator [Strength Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Nen%20Fighting%20Simulator%20Strength%20Farm.lua", "https://rbxscript.com/post/NenFightingSimulatorStrengthFarm-0ynjA")
