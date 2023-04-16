@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 22:42:15"
+lastupdate = "GMT +1: 16.04.2023 22:42:20"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18497,3 +18497,5 @@ addscriptexist(7336302630, "Project Detla [Silent Aim - Instant Bullets & More!]
 addscriptexist(2685347741, "Ghost Simulator [Auto Pickup Drops]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ghost%20Simulator%20Auto%20Pickup%20Drops.lua", "https://rbxscript.com/post/GhostSimulatorAutoPickupDrops-C6XmS")
 
 addscriptexist(6728870912, "World of Stands Demo [AutoFarm, Webhook, Item Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/World%20of%20Stands%20Demo%20AutoFarm%20Webhook%20Item%20Farm.lua", "https://rbxscript.com/post/WorldofStandsDemoAutoFarmWebhookItemFarm-jU0yF")
+
+addscript(9966192771, "Current Game","Adventure Simulator [Reveal whats behind rocks during mining]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Adventure%20Simulator%20Reveal%20whats%20behind%20rocks%20during%20mining.lua", "https://rbxscript.com/post/AdventureSimulatorRevealwhatsbehindrocksduringmining-cfEJK")
