@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 21:59:14"
+lastupdate = "GMT +1: 16.04.2023 21:59:18"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -17237,3 +17237,5 @@ addscriptexist(6055959032, "Jailbird [Silent Aim – Ragebot – Visuals And Mor
 addscriptexist(6298464951, "Unbreakable [Get 100K Cash & Items]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Unbreakable%20Get%20K%20Cash%20%20Items.lua", "https://rbxscript.com/post/UnbreakableGet100KCashItems-iTsjD")
 
 addscriptexist(10192063645, "Thy hood [GUI V2 - Auto Farm Trash - Kill Players And Teleports!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Thy%20hood%20GUI%20V%20%20Auto%20Farm%20Trash%20%20Kill%20Players%20And%20Teleports.lua", "https://rbxscript.com/post/ThyhoodGUIV2AutoFarmTrashKillPlayersAndTeleports-vhpkm")
+
+addscriptexist(1537690962, "Bee Swarm Simulator - Chocmoc [ Smart Autofarm, Farm in boosted fields]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Bee%20Swarm%20Simulator%20%20Chocmoc%20%20Smart%20Autofarm%20Farm%20in%20boosted%20fields.lua", "https://rbxscript.com/post/BeeSwarmSimulatorChocmocSmartAutofarmFarminboostedfieldsAutokillStickbugCoconutCrabTunnelBearsomuchmore-dXLUm")
