@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 22:30:39"
+lastupdate = "GMT +1: 16.04.2023 22:30:43"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18147,3 +18147,5 @@ addscript(9726345231, "Current Game","Duolingo Game Hub [Inf Money]", "pulled fr
 addscript(8798268679, "Current Game","Crossroad Combat", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Crossroad%20Combat.lua", "https://rbxscript.com/post/CrossroadCombat-ROJDA")
 
 addscript(180037022, "Current Game","Sonic Ultimate RPG [Loop Collect All Rings, Collect All Chaos Emeralds, No ring drain]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sonic%20Ultimate%20RPG%20Loop%20Collect%20All%20Rings%20Collect%20All%20Chaos%20Emeralds%20No%20ring%20drain.lua", "https://rbxscript.com/post/SonicUltimateRPGLoopCollectAllRingsCollectAllChaosEmeraldsNoringdrain_xaedy")
+
+addscriptexist(7791873535, "REALISTIC HOOD [Invis Kill Method]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/REALISTIC%20HOOD%20Invis%20Kill%20Method.lua", "https://rbxscript.com/post/REALISTICHOODInvisKillMethod-Km59w")
