@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 22:51:15"
+lastupdate = "GMT +1: 16.04.2023 22:51:18"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18763,3 +18763,5 @@ addscriptexist(1224212277, "Mad City [Inf Nitro, Door Hack, Inf Ammo]", "pulled 
 addscriptexist(8425637426, "Write a Letter [Free Animation]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Write%20a%20Letter%20Free%20Animation.lua", "https://rbxscript.com/post/WriteaLetterFreeAnimation-gUXCz")
 
 addscriptexist(112420803, "Kohls Admin House NBC [Admin CMD]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Kohls%20Admin%20House%20NBC%20Admin%20CMD.lua", "https://rbxscript.com/post/KohlsAdminHouseNBCAdminCMD-N9mUy")
+
+addscriptexist(8448735476, "Anime Rifts [Auto Attack , Auto Skills , Auto Mob]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime%20Rifts%20Auto%20Attack%20%20Auto%20Skills%20%20Auto%20Mob.lua", "https://rbxscript.com/post/AnimeRiftsAutoAttackAutoSkillsAutoMob-6dJX")
