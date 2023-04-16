@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 22:30:28"
+lastupdate = "GMT +1: 16.04.2023 22:30:32"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18141,3 +18141,5 @@ addscript(8635207352, "Current Game","Anime Merge Simulator [Fast Auto Farm]", "
 addscriptexist(6206893534, "Cobra Kai Karate [GUI - Auto Farm Bags, Hide Name & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Cobra%20Kai%20Karate%20GUI%20%20Auto%20Farm%20Bags%20Hide%20Name%20%20More.lua", "https://rbxscript.com/post/CobraKaiKarateGUIAutoFarmBagsHideNameMore-bjEVm")
 
 addscriptexist(4991214437, "town [Kill All, Gun Mods, Esp]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/town%20Kill%20All%20Gun%20Mods%20Esp.lua", "https://rbxscript.com/post/townKillAllGunModsEsp-1UsqV")
+
+addscript(9726345231, "Current Game","Duolingo Game Hub [Inf Money]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Duolingo%20Game%20Hub%20Inf%20Money.lua", "https://rbxscript.com/post/DuolingoGameHubInfMoney-e8tRc")
