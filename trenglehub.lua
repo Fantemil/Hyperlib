@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 22:09:14"
+lastupdate = "GMT +1: 16.04.2023 22:09:18"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -17517,3 +17517,5 @@ addscriptexist(5956785391, "Project Slayers [GUI - Level Farm & More!]", "pulled
 addscript(5278850819, "Current Game","Stay alive and flex your time on others [Bypass Anti Cheat]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Stay%20alive%20and%20flex%20your%20time%20on%20others%20Bypass%20Anti%20Cheat.lua", "https://rbxscript.com/post/StayaliveandflexyourtimeonothersBypassAntiCheat-N3cb")
 
 addscript(4856393583, "Current Game","Build a Spaceship Tycoon [Infinite Cash]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Build%20a%20Spaceship%20Tycoon%20Infinite%20Cash.lua", "https://rbxscript.com/post/BuildaSpaceshipTycoonInfiniteCash-vr5IJ")
+
+addhub("Universal FE Script Hub [Several Features]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20FE%20Script%20Hub%20Several%20Features.lua", "https://rbxscript.com/post/UniversalFEScriptHubSeveralFeatures-wprLt")
