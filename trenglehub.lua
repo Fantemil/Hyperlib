@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 21:26:33"
+lastupdate = "GMT +1: 16.04.2023 21:26:36"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -16321,3 +16321,5 @@ addscriptexist(891852901, "Greenville [Car Stealer]", "pulled from rbxscript.com
 addscriptexist(2534724415, "Emergency Response: Liberty County [Undetected Teleport]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Emergency%20Response%20Liberty%20County%20Undetected%20Teleport.lua", "https://rbxscript.com/post/EmergencyResponseLibertyCountyUndetectedTeleport-YI8uO")
 
 addscript(10351639671, "Current Game","Anime Legends Simulator [Auto Complete Event]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime%20Legends%20Simulator%20Auto%20Complete%20Event.lua", "https://rbxscript.com/post/AnimeLegendsSimulatorAutoCompleteEvent-q6BGz")
+
+addscriptuniversal("Roblox Universal Script [FE Emotes, Animations]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Roblox%20Universal%20Script%20FE%20Emotes%20Animations.lua", "https://rbxscript.com/post/RobloxUniversalScriptFEEmotesAnimations-KiDJm")
