@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 22:30:17"
+lastupdate = "GMT +1: 16.04.2023 22:30:21"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18135,3 +18135,5 @@ addscript(8603729161, "Current Game","walk 50000 studs for nothing [Max studs in
 addscriptexist(9498006165, "Tapping Simulator [GUI - Auto Rebirth, Auto Upgrades & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tapping%20Simulator%20GUI%20%20Auto%20Rebirth%20Auto%20Upgrades%20%20More.lua", "https://rbxscript.com/post/TappingSimulatorGUIAutoRebirthAutoUpgradesMore-cIqCZ")
 
 addscriptexist(6938803436, "Anime Dimensions Simulator [GUI - Auto Level, Farm Raid & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime%20Dimensions%20Simulator%20GUI%20%20Auto%20Level%20Farm%20Raid%20%20More.lua", "https://rbxscript.com/post/AnimeDimensionsSimulatorGUIAutoLevelFarmRaidMore-aLKEU")
+
+addscript(8635207352, "Current Game","Anime Merge Simulator [Fast Auto Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime%20Merge%20Simulator%20Fast%20Auto%20Farm.lua", "https://rbxscript.com/post/AnimeMergeSimulatorFastAutoFarm-Vefva")
