@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 21:37:57"
+lastupdate = "GMT +1: 16.04.2023 21:38:01"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -16649,3 +16649,5 @@ addscriptexist(8750997647, "Tapping Legends X [Auto click, Auto eggs]", "pulled 
 addscriptexist(192800, "Work at a Pizza Place [Become manager ...]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Work%20at%20a%20Pizza%20Place%20Become%20manager%20.lua", "https://rbxscript.com/post/WorkataPizzaPlaceBecomemanager-kkBdN")
 
 addscript(9157605735, "Current Game","MiscGunTest:X [Silent aim, kill aura]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MiscGunTestX%20Silent%20aim%20kill%20aura.lua", "https://rbxscript.com/post/MiscGunTestXSilentaimkillaura-Fp6Nc")
+
+addscriptexist(2809202155, "Your Bizarre Adventure [Item Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Your%20Bizarre%20Adventure%20Item%20Farm.lua", "https://rbxscript.com/post/YourBizarreAdventureItemFarm-2RJIT")
