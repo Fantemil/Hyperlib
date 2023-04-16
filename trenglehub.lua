@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 21:39:47"
+lastupdate = "GMT +1: 16.04.2023 21:39:51"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -16699,3 +16699,5 @@ addscriptexist(6407649031, "NO-SCOPE ARCADE [Silent aim, ESP]", "pulled from rbx
 addscriptexist(10157366004, "Pet Tapping Simulator [Auto Farm, Auto Hatch]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pet%20Tapping%20Simulator%20Auto%20Farm%20Auto%20Hatch.lua", "https://rbxscript.com/post/PetTappingSimulatorAutoFarmAutoHatch-kmGkC")
 
 addscriptexist(2474168535, "Westbound [GodMode, esp]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Westbound%20GodMode%20esp.lua", "https://rbxscript.com/post/WestboundGodModeesp-2koAw")
+
+addscriptexist(2622527242, "SCP rBreach [ESP, Misc.]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SCP%20rBreach%20ESP%20Misc.lua", "https://rbxscript.com/post/SCPrBreachESPMisc-ANUdW")
