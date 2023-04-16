@@ -1,4 +1,3 @@
-repeat
-game:GetService("ReplicatedStorage").CashBags.TipCashBag:FireServer()
-wait()
-until false
+while wait() do
+  game:GetService("ReplicatedStorage").CashBags.TipCashBag:FireServer()
+end
