@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 21:51:57"
+lastupdate = "GMT +1: 16.04.2023 21:52:01"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -17039,3 +17039,5 @@ addscript(659222129, "Current Game","Swordburst 2 [WalkSpeed, Invisibility, INF 
 addscriptexist(606849621, "Jailbreak [FE RESIZE WITH NO LIMIT]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Jailbreak%20FE%20RESIZE%20WITH%20NO%20LIMIT.lua", "https://rbxscript.com/post/JailbreakFERESIZEWITHNOLIMIT-fFkwg")
 
 addscriptexist(9677464361, "Basketball Pro Simulator [Auto Farm, uto Upgrade]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Basketball%20Pro%20Simulator%20Auto%20Farm%20uto%20Upgrade.lua", "https://rbxscript.com/post/BasketballProSimulatorAutoFarmutoUpgrade-UdYkZ")
+
+addscriptexist(9744597824, "Sea Piece [Auto Farm, Auto Stats, Teleport]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sea%20Piece%20Auto%20Farm%20Auto%20Stats%20Teleport.lua", "https://rbxscript.com/post/SeaPieceAutoFarmAutoStatsTeleport-Y9XEd")
