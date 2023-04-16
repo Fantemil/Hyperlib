@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 22:00:49"
+lastupdate = "GMT +1: 16.04.2023 22:00:53"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -17281,3 +17281,5 @@ addscriptexist(3346617530, "Freeze Tag Extreme v2.4 [Anti Admin - Tag All Player
 addscriptexist(8962384769, "Firework Simulator [Auto Farm - Auto Buy & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Firework%20Simulator%20Auto%20Farm%20%20Auto%20Buy%20%20More.lua", "https://rbxscript.com/post/FireworkSimulatorAutoFarmAutoBuyMore-4iqc")
 
 addhub("Roblox [Casty Hub]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Roblox%20Casty%20Hub.lua", "https://rbxscript.com/post/RobloxCastyHub_%D1%8D-zn99L")
+
+addscriptexist(2629642516, "Bitcoin Miner [Anti Card Lag]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Bitcoin%20Miner%20Anti%20Card%20Lag.lua", "https://rbxscript.com/post/BitcoinMinerAntiCardLag-JkrPO")
