@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 21:46:37"
+lastupdate = "GMT +1: 16.04.2023 21:46:41"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -16885,3 +16885,5 @@ addscript(9796315265, "Current Game","Streetz War [Anti Cheat Bypass]", "pulled 
 addscriptexist(7120576005, "Stack Ball [Auto Win - Open Source]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Stack%20Ball%20Auto%20Win%20%20Open%20Source.lua", "https://rbxscript.com/post/StackBallAutoWinOpenSource-HRNhO")
 
 addscriptexist(7655745946, "Dunking Simulator [Unlimited Boost]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Dunking%20Simulator%20Unlimited%20Boost.lua", "https://rbxscript.com/post/DunkingSimulatorUnlimitedBoost-9O5wx")
+
+addscriptexist(7560156054, "Clicker Simulator [Collect Water Melons]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Clicker%20Simulator%20Collect%20Water%20Melons.lua", "https://rbxscript.com/post/ClickerSimulatorCollectWaterMelons-0Pzmk")
