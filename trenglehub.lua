@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 22:15:04"
+lastupdate = "GMT +1: 16.04.2023 22:15:08"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -17689,3 +17689,5 @@ addscriptexist(863266079, "Apocalypse Rising 2 [Anti Zombie - Freeze]", "pulled 
 addscriptexist(863266079, "Apocalypse Rising 2 [Teleport To Position]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Apocalypse%20Rising%20%20Teleport%20To%20Position.lua", "https://rbxscript.com/post/ApocalypseRising2TeleportToPosition-BHXxY")
 
 addscriptexist(185655149, "Bloxburg [GUI - Auto Build]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Bloxburg%20GUI%20%20Auto%20Build.lua", "https://rbxscript.com/post/BloxburgGUIAutoBuild-qu4qQ")
+
+addscriptexist(185655149, "Bloxburg [GUI - Auto Farm, Waypoint & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Bloxburg%20GUI%20%20Auto%20Farm%20Waypoint%20%20More.lua", "https://rbxscript.com/post/BloxburgGUIAutoFarmWaypointMore-GW4eN")
