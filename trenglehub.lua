@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 21:58:57"
+lastupdate = "GMT +1: 16.04.2023 21:59:02"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -17229,3 +17229,5 @@ addscriptexist(5683833663, "Ragdoll Engine [Loop Push All]", "pulled from rbxscr
 addscriptexist(6468323505, "Spellbound Magic RPG [Inf Money]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Spellbound%20Magic%20RPG%20Inf%20Money.lua", "https://rbxscript.com/post/SpellboundMagicRPGInfMoney-eBd9j")
 
 addscriptexist(5956785391, "Project Slayers [Semi-no cooldown for skills]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Project%20Slayers%20Semino%20cooldown%20for%20skills.lua", "https://rbxscript.com/post/ProjectSlayersSeminocooldownforskills-ArWbn")
+
+addscript(21083417, "Current Game","Homestead [Log Spam]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Homestead%20Log%20Spam.lua", "https://rbxscript.com/post/HomesteadLogSpam-8N3WA")
