@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 22:31:50"
+lastupdate = "GMT +1: 16.04.2023 22:31:53"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18183,3 +18183,5 @@ addscriptexist(6206893534, "Cobra Kai Karate [GUI - Auto Farming]", "pulled from
 addscriptexist(180037022, "Sonic Ultimate RPG [Get All Rings]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sonic%20Ultimate%20RPG%20Get%20All%20Rings.lua", "https://rbxscript.com/post/SonicUltimateRPGGetAllRings-keSIa")
 
 addscriptexist(180037022, "Sonic Ultimate RPG [Get All Emeralds]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sonic%20Ultimate%20RPG%20Get%20All%20Emeralds.lua", "https://rbxscript.com/post/SonicUltimateRPGGetAllEmeralds-woS9x")
+
+addhub("ZEPHYR Hub [20 Games]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ZEPHYR%20Hub%20%20Games.lua", "https://rbxscript.com/post/ZEPHYRHub20Games-Q8WXL")
