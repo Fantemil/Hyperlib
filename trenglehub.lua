@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 21:56:12"
+lastupdate = "GMT +1: 16.04.2023 21:56:16"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -17155,3 +17155,5 @@ addscriptexist(7177496972, "Anime Warriors [Auto Farm & God Mode]", "pulled from
 addscriptexist(6456351776, "Kaiju Paradise v3.1 [Kill Aura]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Kaiju%20Paradise%20v%20Kill%20Aura.lua", "https://rbxscript.com/post/KaijuParadisev31KillAura-Bwora")
 
 addscriptexist(1554960397, "Car Dealership Tycoon [Town Hall Event]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Car%20Dealership%20Tycoon%20Town%20Hall%20Event.lua", "https://rbxscript.com/post/CarDealershipTycoonTownHallEvent-NensL")
+
+addhub("Roblox [Argon Hub]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Roblox%20Argon%20Hub.lua", "https://rbxscript.com/post/RobloxArgonHub-Ns5ol")
