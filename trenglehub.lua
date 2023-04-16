@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 21:54:15"
+lastupdate = "GMT +1: 16.04.2023 21:54:19"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -17099,3 +17099,5 @@ addscriptexist(3956818381, "Ninja Legends [GUI - Auto Farm]", "pulled from rbxsc
 addhub("Galaxy Hub [Games 10]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Galaxy%20Hub%20Games%20.lua", "https://rbxscript.com/post/GalaxyHubGames10-cwZyR")
 
 addhub("RBXjus Hub [Games 13]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RBXjus%20Hub%20Games%20.lua", "https://rbxscript.com/post/RBXjusHubGames13-zf8y1")
+
+addscriptexist(8962384769, "Firework Simulator [GUI - Auto Farm, Auto Buy]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Firework%20Simulator%20GUI%20%20Auto%20Farm%20Auto%20Buy.lua", "https://rbxscript.com/post/FireworkSimulatorGUIAutoFarmAutoBuy-qK9H1")
