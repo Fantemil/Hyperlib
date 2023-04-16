@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 21:35:54"
+lastupdate = "GMT +1: 16.04.2023 21:35:58"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -16587,3 +16587,5 @@ addscriptexist(10325366821, "OOF Tycoon! [Auto Farm, Auto Deposit]", "pulled fro
 addscriptexist(10118559731, "Nico's Nextbots [God Mode]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Nicos%20Nextbots%20God%20Mode.lua", "https://rbxscript.com/post/NicosNextbotsGodMode-aTCwS")
 
 addscriptexist(7606302010, "YoYo Simulator [Auto Sell, Auto YoYo]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/YoYo%20Simulator%20Auto%20Sell%20Auto%20YoYo.lua", "https://rbxscript.com/post/YoYoSimulatorAutoSellAutoYoYo-OTAn0")
+
+addscriptexist(5108997584, "Reason 2 Die [Value Increaser]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Reason%20%20Die%20Value%20Increaser.lua", "https://rbxscript.com/post/Reason2DieValueIncreaser-GCWwA")
