@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 22:54:32"
+lastupdate = "GMT +1: 16.04.2023 22:54:35"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18855,3 +18855,5 @@ addscriptexist(9598746251, "Home Run Simulator [Inf Money, Inf Gems]", "pulled f
 addscriptexist(6808416928, "Aimblox BETA [Silent AIM]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Aimblox%20BETA%20Silent%20AIM.lua", "https://rbxscript.com/post/AimbloxBETASilentAIM-XuwRd")
 
 addscriptexist(5233268561, "A Bizarre Journey [Destroy Game]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/A%20Bizarre%20Journey%20Destroy%20Game.lua", "https://rbxscript.com/post/ABizarreJourneyDestroyGame-ZJujd")
+
+addscriptexist(9737855826, "Trade Simulator [Auto Buyer - Item Sniper]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Trade%20Simulator%20Auto%20Buyer%20%20Item%20Sniper.lua", "https://rbxscript.com/post/TradeSimulatorAutoBuyerItemSniper-Yx0yo")
