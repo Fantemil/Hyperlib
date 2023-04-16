@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 21:35:42"
+lastupdate = "GMT +1: 16.04.2023 21:35:46"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -16581,3 +16581,5 @@ addscriptexist(9970551995, "Touch The Grass Simulator! [Killaura, auto hatch]", 
 addscriptexist(621129760, "Knife Ability Test [Silent Aim, Aimbot]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Knife%20Ability%20Test%20Silent%20Aim%20Aimbot.lua", "https://rbxscript.com/post/KnifeAbilityTestSilentAimAimbot-Fzs9I")
 
 addscriptexist(2396588044, "Adopt and Raise [Auto Farm Cash]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Adopt%20and%20Raise%20Auto%20Farm%20Cash.lua", "https://rbxscript.com/post/AdoptandRaiseAutoFarmCash-cmNHa")
+
+addscriptexist(10325366821, "OOF Tycoon! [Auto Farm, Auto Deposit]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OOF%20Tycoon%20Auto%20Farm%20Auto%20Deposit.lua", "https://rbxscript.com/post/OOFTycoonAutoFarmAutoDeposit-fvpX4")
