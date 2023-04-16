@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 21:42:48"
+lastupdate = "GMT +1: 16.04.2023 21:42:52"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -16785,3 +16785,5 @@ addscriptexist(8123652942, "Legend Piece [Instant Kill Mobs]", "pulled from rbxs
 addscript(7183242684, "Current Game","Strength Training Simulator [Auto Farm - GUI]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Strength%20Training%20Simulator%20Auto%20Farm%20%20GUI.lua", "https://rbxscript.com/post/StrengthTrainingSimulatorAutoFarmGUI-CNFDV")
 
 addscriptexist(147536429, "Field Of Battle [Kill General]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Field%20Of%20Battle%20Kill%20General.lua", "https://rbxscript.com/post/FieldOfBattleKillGeneral-NKgpf")
+
+addscriptexist(21532277, "Notoriety [GUI - Teleports]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Notoriety%20GUI%20%20Teleports.lua", "https://rbxscript.com/post/NotorietyGUITeleports-AeUwo")
