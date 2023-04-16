@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 22:36:21"
+lastupdate = "GMT +1: 16.04.2023 22:36:25"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18317,3 +18317,5 @@ addscript(7089072882, "Current Game","HE-MAN SIM [Instant Max Out Character]", "
 addscriptexist(7336302630, "Project Delta [Anti Drown And See Underwater]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Project%20Delta%20Anti%20Drown%20And%20See%20Underwater.lua", "https://rbxscript.com/post/ProjectDeltaAntiDrownAndSeeUnderwater-jQ7qh")
 
 addscriptexist(9017974931, "Valoblox [Kill All]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Valoblox%20Kill%20All.lua", "https://rbxscript.com/post/ValobloxKillAll-bGVP7")
+
+addscriptexist(5991163185, "Spray Paint [Falseban Players Method]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Spray%20Paint%20Falseban%20Players%20Method.lua", "https://rbxscript.com/post/SprayPaintFalsebanPlayersMethod-sgKNa")
