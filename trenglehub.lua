@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 22:38:56"
+lastupdate = "GMT +1: 16.04.2023 22:38:59"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18393,3 +18393,5 @@ addscriptexist(9103898828, "Rogue Demon [Punch Distance]", "pulled from rbxscrip
 addscriptexist(9559194006, "social experiment [Auto blood rain, Chat predictor]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/social%20experiment%20Auto%20blood%20rain%20Chat%20predictor.lua", "https://rbxscript.com/post/socialexperimentAutobloodrainChatpredictor-fPxSe")
 
 addscriptexist(443406476, "Project Lazarus [Inf Ammo, Insta Kill, Esp]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Project%20Lazarus%20Inf%20Ammo%20Insta%20Kill%20Esp.lua", "https://rbxscript.com/post/ProjectLazarusInfAmmoInstaKillEsp-AkAHo")
+
+addscriptexist(142823291, "Murder Mystery 2 [GUI - ESP, Fake Knife & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Murder%20Mystery%20%20GUI%20%20ESP%20Fake%20Knife%20%20More.lua", "https://rbxscript.com/post/MurderMystery2GUIESPFakeKnifeMore-2817e")
