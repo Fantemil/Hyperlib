@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 22:49:27"
+lastupdate = "GMT +1: 16.04.2023 22:49:34"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18711,3 +18711,5 @@ addscriptexist(6728870912, "World of Stands Demo [Auto Farm - Auto Skill - Auto 
 addscript(112420803, "Current Game","Kohls Admin House [GUI - Commands]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Kohls%20Admin%20House%20GUI%20%20Commands.lua", "https://rbxscript.com/post/KohlsAdminHouseGUICommands-3ynIP")
 
 addscriptexist(9249776514, "Givenchy Beauty House [Finish The Event Quest]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Givenchy%20Beauty%20House%20Finish%20The%20Event%20Quest.lua", "https://rbxscript.com/post/GivenchyBeautyHouseFinishTheEventQuest-bhpi")
+
+addscriptexist(1382113806, "Silent Assassin [Assassin ESP]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Silent%20Assassin%20Assassin%20ESP.lua", "https://rbxscript.com/post/SilentAssassinAssassinESP-GghFB")
