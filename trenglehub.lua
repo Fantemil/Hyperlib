@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 21:45:58"
+lastupdate = "GMT +1: 16.04.2023 21:46:03"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -16869,3 +16869,5 @@ addscriptexist(2788229376, "Da Hood [Teleport GUI & Extras]", "pulled from rbxsc
 addscriptexist(47324, "Sword Fights on the Heights IV [Tp Safe Zone, Hitboxes, Gets you all the tools]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sword%20Fights%20on%20the%20Heights%20IV%20Tp%20Safe%20Zone%20Hitboxes%20Gets%20you%20all%20the%20tools.lua", "https://rbxscript.com/post/SwordFightsontheHeightsIVTpSafeZoneHitboxesGetsyouallthetools-AnFIE")
 
 addscript(10322949476, "Current Game","Limited Jumps [Unlimited Jumps]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Limited%20Jumps%20Unlimited%20Jumps.lua", "https://rbxscript.com/post/LimitedJumpsUnlimitedJumps-C2Kfl")
+
+addscript(151670365, "Current Game","The Quarry [Infinite Cash]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/The%20Quarry%20Infinite%20Cash.lua", "https://rbxscript.com/post/TheQuarryInfiniteCash-jGtB7")
