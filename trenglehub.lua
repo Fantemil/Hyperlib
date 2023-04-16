@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 22:03:17"
+lastupdate = "GMT +1: 16.04.2023 22:03:21"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -17349,3 +17349,5 @@ addscriptexist(5201039691, "Tatakai V.2 [Money Farm]", "pulled from rbxscript.co
 addscriptexist(8054462345, "Michael`s Zombies [Anti Knockdown]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Michaels%20Zombies%20Anti%20Knockdown.lua", "https://rbxscript.com/post/MichaelsZombiesAntiKnockdown-ei6Gl")
 
 addscriptexist(8054462345, "Michael`s Zombies [Always Headshot - Instant Reload]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Michaels%20Zombies%20Always%20Headshot%20%20Instant%20Reload.lua", "https://rbxscript.com/post/MichaelsZombiesAlwaysHeadshotInstantReload-vts6E")
+
+addscript(6606507295, "Current Game","Turbo's Murder Mystery 2 [Get Free Paid Weapons]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Turbos%20Murder%20Mystery%20%20Get%20Free%20Paid%20Weapons.lua", "https://rbxscript.com/post/TurbosMurderMystery2GetFreePaidWeapons-AKbLy")
