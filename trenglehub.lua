@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 22:04:17"
+lastupdate = "GMT +1: 16.04.2023 22:04:24"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -17379,3 +17379,5 @@ addscriptexist(7180042682, "Military Tycoon [Collect all batteries]", "pulled fr
 addscriptexist(1224212277, "Mad City: Chapter 2 [Faster Auto Rob]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mad%20City%20Chapter%20%20Faster%20Auto%20Rob.lua", "https://rbxscript.com/post/MadCityChapter2FasterAutoRob-sdzRE")
 
 addscriptexist(1224212277, "Mad City: Chapter 2 [Silent Aim - Wall Bang - Easy Xp & Money]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mad%20City%20Chapter%20%20Silent%20Aim%20%20Wall%20Bang%20%20Easy%20Xp%20%20Money.lua", "https://rbxscript.com/post/MadCityChapter2SilentAimWallBangEasyXpMoney_Ax1so")
+
+addscriptexist(893973440, "Flee the Facility [Auto Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Flee%20the%20Facility%20Auto%20Farm.lua", "https://rbxscript.com/post/FleetheFacilityAutoFarm-W40md")
