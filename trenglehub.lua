@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 21:39:31"
+lastupdate = "GMT +1: 16.04.2023 21:39:35"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -16691,3 +16691,5 @@ addscriptexist(8737602449, "Pls Donate. [Auto Farm]", "pulled from rbxscript.com
 addscriptexist(510444657, "Criminal Vs Swat [Inf Health]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Criminal%20Vs%20Swat%20Inf%20Health.lua", "https://rbxscript.com/post/CriminalVsSwatInfHealth-4WKJF")
 
 addscriptexist(4951858512, "Victory Race [Auto Win, Fly]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Victory%20Race%20Auto%20Win%20Fly.lua", "https://rbxscript.com/post/VictoryRaceAutoWinFly-yShGn")
+
+addscriptexist(621129760, "KAT [Inf Ammo]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/KAT%20Inf%20Ammo.lua", "https://rbxscript.com/post/KATInfAmmo-WjCw5")
