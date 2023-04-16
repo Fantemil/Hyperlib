@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 22:05:49"
+lastupdate = "GMT +1: 16.04.2023 22:05:53"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -17421,3 +17421,5 @@ addscriptexist(863266079, "Apocalypse Rising 2 [Zombie Esp]", "pulled from rbxsc
 addhub("Roblox [Scum Hub v1.4 ]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Roblox%20Scum%20Hub%20v%20.lua", "https://rbxscript.com/post/RobloxScumHubv14-s28x1")
 
 addscript(8528736393, "Current Game","Beatland [Free UGC Items GUI]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Beatland%20Free%20UGC%20Items%20GUI.lua", "https://rbxscript.com/post/BeatlandFreeUGCItemsGUI-8CVvc")
+
+addscript(9603033881, "Current Game","Bid Battles [Auto Queue Auction, Auto Bid, Auto Sell]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Bid%20Battles%20Auto%20Queue%20Auction%20Auto%20Bid%20Auto%20Sell.lua", "https://rbxscript.com/post/BidBattlesAutoQueueAuctionAutoBidAutoSell-xeiFR")
