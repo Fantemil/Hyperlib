@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 22:05:37"
+lastupdate = "GMT +1: 16.04.2023 22:05:41"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -17415,3 +17415,5 @@ addscriptexist(1224212277, "Mad City [Auto Farm]", "pulled from rbxscript.com", 
 addscriptexist(1224212277, "Mad City [Exp Farm, Esp, Silent AIm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mad%20City%20Exp%20Farm%20Esp%20Silent%20AIm.lua", "https://rbxscript.com/post/MadCityExpFarmEspSilentAIm-Uzg0a")
 
 addscriptexist(1224212277, "Mad City [Auto Farm+Server Hop]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mad%20City%20Auto%20FarmServer%20Hop.lua", "https://rbxscript.com/post/MadCityAutoFarmServerHop-RHdWT")
+
+addscriptexist(863266079, "Apocalypse Rising 2 [Zombie Esp]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Apocalypse%20Rising%20%20Zombie%20Esp.lua", "https://rbxscript.com/post/ApocalypseRising2ZombieEsp-TZpu2")
