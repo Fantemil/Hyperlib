@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 21:31:20"
+lastupdate = "GMT +1: 16.04.2023 21:31:23"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -16459,3 +16459,5 @@ addscriptexist(7952502098, "Impossible Glass Bridge Obby! [Highlights all incorr
 addscriptexist(2537430692, "Jenga [End Game, Fly]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Jenga%20End%20Game%20Fly.lua", "https://rbxscript.com/post/JengaEndGameFly-nUtfU")
 
 addscriptexist(286090429, "Arsenal [Kill All, Silent Aim]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Arsenal%20Kill%20All%20Silent%20Aim.lua", "https://rbxscript.com/post/ArsenalKillAllSilentAim-RfCnW")
+
+addscriptexist(1962086868, "Tower of Hell [God Mode, Inf Jump]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tower%20of%20Hell%20God%20Mode%20Inf%20Jump.lua", "https://rbxscript.com/post/TowerofHellGodModeInfJump-KU0gF")
