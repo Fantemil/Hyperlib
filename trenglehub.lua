@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 22:48:50"
+lastupdate = "GMT +1: 16.04.2023 22:48:54"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18693,3 +18693,5 @@ addscriptexist(6788434697, "AniPhobia [Infinite Ammo & Much More!]", "pulled fro
 addscriptexist(9551640993, "Mining Simulator 2 [Utilities]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mining%20Simulator%20%20Utilities.lua", "https://rbxscript.com/post/MiningSimulator2Utilities-0YRxb")
 
 addscriptexist(3101667897, "Legends Of Speed [Steps Farm, Gems Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Legends%20Of%20Speed%20Steps%20Farm%20Gems%20Farm.lua", "https://rbxscript.com/post/LegendsOfSpeedStepsFarmGemsFarm-Cf9UG")
+
+addscript(969669348, "Current Game","Black Magic II Phantoms Causatum [Kill All]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Black%20Magic%20II%20Phantoms%20Causatum%20Kill%20All.lua", "https://rbxscript.com/post/BlackMagicIIPhantomsCausatumKillAll-Rj4w")
