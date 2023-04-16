@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 22:46:21"
+lastupdate = "GMT +1: 16.04.2023 22:46:25"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18619,3 +18619,5 @@ addscriptexist(6172932937, "Energy Assault [Aim Bot]", "pulled from rbxscript.co
 addscriptexist(4954096313, "Field Trip Z [God Mode, Remove GodMode Get Donut]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Field%20Trip%20Z%20God%20Mode%20Remove%20GodMode%20Get%20Donut.lua", "https://rbxscript.com/post/FieldTripZGodModeRemoveGodModeGetDonut-3TuC")
 
 addscript(6788434697, "Current Game","AniPhobia [Infinite Ammo, Fullbright, Kill All]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AniPhobia%20Infinite%20Ammo%20Fullbright%20Kill%20All.lua", "https://rbxscript.com/post/AniPhobiaInfiniteAmmoFullbrightKillAll-qkp6z")
+
+addscriptexist(9677464361, "Basketball Pro Simulator [Perfect Shot, Upgrade Power, Upgrade Speed]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Basketball%20Pro%20Simulator%20Perfect%20Shot%20Upgrade%20Power%20Upgrade%20Speed.lua", "https://rbxscript.com/post/BasketballProSimulatorPerfectShotUpgradePower-Ko2e5")
