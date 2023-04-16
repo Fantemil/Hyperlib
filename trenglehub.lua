@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 22:34:24"
+lastupdate = "GMT +1: 16.04.2023 22:34:28"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18261,3 +18261,5 @@ addscriptexist(4459593483, "FORCE [PRE-ALPHA] [God Mode - Anti Bad]", "pulled fr
 addscriptexist(2809202155, "Your Bizarre Adventure [Anti Teleport Bypass]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Your%20Bizarre%20Adventure%20Anti%20Teleport%20Bypass.lua", "https://rbxscript.com/post/YourBizarreAdventureAntiTeleportBypass-qygox")
 
 addscript(5617626326, "Current Game","Blood Samurai 2 [Auto Farm Cash]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blood%20Samurai%20%20Auto%20Farm%20Cash.lua", "https://rbxscript.com/post/BloodSamurai2AutoFarmCash-aYIC8")
+
+addscript(8592703594, "Current Game","Undertale Unexplained Anomalies [Stardust Auto Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Undertale%20Unexplained%20Anomalies%20Stardust%20Auto%20Farm.lua", "https://rbxscript.com/post/UndertaleUnexplainedAnomaliesStardustAutoFarm-AkadQ")
