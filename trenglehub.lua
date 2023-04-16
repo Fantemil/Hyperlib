@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 22:31:35"
+lastupdate = "GMT +1: 16.04.2023 22:31:39"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18175,3 +18175,5 @@ addscriptexist(2248408710, "Destruction Simulator [Max Lvl, Get All Weapons/Bomb
 addscriptexist(4598019433, "generic roleplay gaem. [Auto Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/generic%20roleplay%20gaem%20Auto%20Farm.lua", "https://rbxscript.com/post/genericroleplaygaemAutoFarm-buNOp")
 
 addscript(7905476552, "Current Game","Beekeepers [Auto Tokens - Auto Dig]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Beekeepers%20Auto%20Tokens%20%20Auto%20Dig.lua", "https://rbxscript.com/post/BeekeepersAutoTokensAutoDig-p22px")
+
+addscriptexist(6677985923, "Millionaire Empire Tycoon [Infinite Money Remote]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Millionaire%20Empire%20Tycoon%20Infinite%20Money%20Remote.lua", "https://rbxscript.com/post/MillionaireEmpireTycoonInfiniteMoneyRemote-jRyUv")
