@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 22:45:35"
+lastupdate = "GMT +1: 16.04.2023 22:45:39"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18595,3 +18595,5 @@ addscript(7733392089, "Current Game","LuoBu Transformation Night [Auto Dance]", 
 addscriptexist(4733278992, "Sword Blox Online Rebirth [Kill Aura - Auto Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sword%20Blox%20Online%20Rebirth%20Kill%20Aura%20%20Auto%20Farm.lua", "https://rbxscript.com/post/SwordBloxOnlineRebirthKillAuraAutoFarm-GS6b")
 
 addscriptexist(1458767429, "Anime Battle Arena [Kira Show Where Bomb Is]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime%20Battle%20Arena%20Kira%20Show%20Where%20Bomb%20Is.lua", "https://rbxscript.com/post/AnimeBattleArenaKiraShowWhereBombIs-sbQH")
+
+addscript(7107498084, "Current Game","Anime Battle Simulator [Infinite Yen - Infinite Gems & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime%20Battle%20Simulator%20Infinite%20Yen%20%20Infinite%20Gems%20%20More.lua", "https://rbxscript.com/post/AnimeBattleSimulatorInfiniteYenInfiniteGemsMore-6l7C7")
