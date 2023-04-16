@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 22:22:59"
+lastupdate = "GMT +1: 16.04.2023 22:23:03"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -17921,3 +17921,5 @@ addscriptexist(8750997647, "Tapping Legends X [UPDATED AUTO FARM GUI]", "pulled 
 addscriptexist(8123652942, "Legend Piece [Give Devil Fruit]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Legend%20Piece%20Give%20Devil%20Fruit.lua", "https://rbxscript.com/post/LegendPieceGiveDevilFruit-IQd8t")
 
 addscriptexist(7560156054, "Clicker Simulator [Free Gamepasses]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Clicker%20Simulator%20Free%20Gamepasses.lua", "https://rbxscript.com/post/ClickerSimulatorFreeGamepasses-iaIsO")
+
+addscriptexist(2753915549, "Blox Fruits [GUI - Auto farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blox%20Fruits%20GUI%20%20Auto%20farm.lua", "https://rbxscript.com/post/BloxFruitsGUIAutofarm-CzZUW")
