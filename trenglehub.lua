@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 22:23:10"
+lastupdate = "GMT +1: 16.04.2023 22:23:14"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -17927,3 +17927,5 @@ addscriptexist(2753915549, "Blox Fruits [GUI - Auto farm]", "pulled from rbxscri
 addscript(8151832473, "Current Game","TheGhettoGame [Inf Money]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TheGhettoGame%20Inf%20Money.lua", "https://rbxscript.com/post/TheGhettoGameInfMoney-mmFgB")
 
 addscriptexist(2788229376, "Da Hood [Auto Farm Cash, God mode, Infinite Stamina]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Da%20Hood%20Auto%20Farm%20Cash%20God%20mode%20Infinite%20Stamina.lua", "https://rbxscript.com/post/DaHoodAutoFarmCashGodmodeInfiniteStamina-kVgP4")
+
+addscriptexist(6206893534, "Cobra Kai Karate [Auto Farm Pushups, Auto Farm Situps, No Stun]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Cobra%20Kai%20Karate%20Auto%20Farm%20Pushups%20Auto%20Farm%20Situps%20No%20Stun.lua", "https://rbxscript.com/post/CobraKaiKarateAutoFarmPushupsAUtoFarmSitupsNoStun-KBDbp")
