@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 22:50:45"
+lastupdate = "GMT +1: 16.04.2023 22:50:49"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18749,3 +18749,5 @@ addscriptexist(4616652839, "Shindo Life [Auto Farm, Auto Farm Boss, Auto Rank]",
 addscriptexist(1537690962, "Bee Swarm Simulator [Auto Farm, Auto Dig, Farm Flames]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Bee%20Swarm%20Simulator%20Auto%20Farm%20Auto%20Dig%20Farm%20Flames.lua", "https://rbxscript.com/post/BeeSwarmSimulatorAutoFarmAutoDigFarmFlames-Y7qWP")
 
 addscriptexist(2753915549, "Blox Fruits [Auto Farm Level, Fast Attack, Auto New World]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blox%20Fruits%20Auto%20Farm%20Level%20Fast%20Attack%20Auto%20New%20World.lua", "https://rbxscript.com/post/BloxFruitsAutoFArmLevelFastAttackAutoNewWorld-HlTqa")
+
+addscriptexist(7791873535, "REALISTIC HOOD [Creates a huge block in the map]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/REALISTIC%20HOOD%20Creates%20a%20huge%20block%20in%20the%20map.lua", "https://rbxscript.com/post/REALISTICHOODCreatesahugeblockinthemap-ko5vk")
