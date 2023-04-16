@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 22:44:00"
+lastupdate = "GMT +1: 16.04.2023 22:44:04"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18549,3 +18549,5 @@ addscriptexist(301549746, "Counter blox [Crash Server, God mode]", "pulled from 
 addscriptexist(292439477, "Phantom Forces [Highlight ESP, Chams]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Phantom%20Forces%20Highlight%20ESP%20Chams.lua", "https://rbxscript.com/post/PhantomForcesHighlightESPChams-RnNZ")
 
 addscriptexist(4733278992, "Sword Blox Online: Rebirth [Kill Aura, Infinite Stamina, Collect Materials]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sword%20Blox%20Online%20Rebirth%20Kill%20Aura%20Infinite%20Stamina%20Collect%20Materials.lua", "https://rbxscript.com/post/SwordBloxOnlineRebirthKillAuraInfiniteStamina-A5qpJ")
+
+addscriptexist(606849621, "Jailbreak [Full Auto, Get Weapons & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Jailbreak%20Full%20Auto%20Get%20Weapons%20%20More.lua", "https://rbxscript.com/post/JailbreakFullAutoGetWeaponsMore-X2KeY")
