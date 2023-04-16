@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 22:44:43"
+lastupdate = "GMT +1: 16.04.2023 22:44:47"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18571,3 +18571,5 @@ addscript(9306912037, "Current Game","Hole In One Simulator [Auto Swing]", "pull
 addscriptexist(198116126, "Tradelands [Auto Farm - Teleport - Walk On Water & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tradelands%20Auto%20Farm%20%20Teleport%20%20Walk%20On%20Water%20%20More.lua", "https://rbxscript.com/post/TradelandsAutoFarmTeleportWalkOnWaterMore-U4HWE")
 
 addscriptexist(5315066937, "SuperB Surf Revised [Change Your Surfing, Bhop Speed]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SuperB%20Surf%20Revised%20Change%20Your%20Surfing%20Bhop%20Speed.lua", "https://rbxscript.com/post/SuperBSurfRevisedChangeYourSurfingBhopSpeed-uzQbP")
+
+addscriptexist(3095204897, "Isle [Infinite Oxygen]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Isle%20Infinite%20Oxygen.lua", "https://rbxscript.com/post/IsleInfiniteOxygen-RSeiJ")
