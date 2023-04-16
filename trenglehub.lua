@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 21:26:40"
+lastupdate = "GMT +1: 16.04.2023 21:26:44"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -16325,3 +16325,5 @@ addscript(10351639671, "Current Game","Anime Legends Simulator [Auto Complete Ev
 addscriptuniversal("Roblox Universal Script [FE Emotes, Animations]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Roblox%20Universal%20Script%20FE%20Emotes%20Animations.lua", "https://rbxscript.com/post/RobloxUniversalScriptFEEmotesAnimations-KiDJm")
 
 addscriptuniversal("Roblox Universal Script [Adm Commands]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Roblox%20Universal%20Script%20Adm%20Commands.lua", "https://rbxscript.com/post/RobloxUniversalScriptAdmCommands-9d2Q7")
+
+addscriptexist(9585537847, "SHADOVIS RPG [Projective Spam]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SHADOVIS%20RPG%20Projective%20Spam.lua", "https://rbxscript.com/post/SHADOVISRPGProjectiveSpam-4Y1Id")
