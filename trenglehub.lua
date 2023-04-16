@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 21:24:47"
+lastupdate = "GMT +1: 16.04.2023 21:24:51"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -16271,3 +16271,5 @@ addscriptexist(10524502174, "One Punch Fighters [Auto Farm, Auto Collect]", "pul
 addscriptexist(6407649031, "NO-SCOPE ARCADE [Aimbot, KillAll]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NOSCOPE%20ARCADE%20Aimbot%20KillAll.lua", "https://rbxscript.com/post/NOSCOPEARCADEAimbotKillAll-jhVsN")
 
 addscriptexist(9872472334, "Evade [GodMode, AutoFarm XP]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Evade%20GodMode%20AutoFarm%20XP.lua", "https://rbxscript.com/post/EvadeGodModeAutoFarmXP-6NCoC")
+
+addscriptexist(9585537847, "SHADOVIS RPG [Auto Heal]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SHADOVIS%20RPG%20Auto%20Heal.lua", "https://rbxscript.com/post/SHADOVISRPGAutoHeal-zQuyq")
