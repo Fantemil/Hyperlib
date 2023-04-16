@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 22:45:46"
+lastupdate = "GMT +1: 16.04.2023 22:45:51"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18601,3 +18601,5 @@ addscript(7107498084, "Current Game","Anime Battle Simulator [Infinite Yen - Inf
 addscript(8992150289, "Current Game","Anime Sword Simulator [Auto Rank - Auto Sword & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime%20Sword%20Simulator%20Auto%20Rank%20%20Auto%20Sword%20%20More.lua", "https://rbxscript.com/post/AnimeSwordSimulatorAutoRankAutoSwordMore-PXO5")
 
 addscriptexist(3233893879, "Bad Business 3.07 [Silent Aim - Open Source]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Bad%20Business%20%20Silent%20Aim%20%20Open%20Source.lua", "https://rbxscript.com/post/BadBusiness307SilentAimOpenSource-TLzgx")
+
+addscriptexist(9551640993, "Mining Simulator 2 [Auto Forge]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mining%20Simulator%20%20Auto%20Forge.lua", "https://rbxscript.com/post/MiningSimulator2AutoForge-TXIH")
