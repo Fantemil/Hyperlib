@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 22:43:49"
+lastupdate = "GMT +1: 16.04.2023 22:43:53"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18543,3 +18543,5 @@ addhub("Lazy Hub [9 Games]", "pulled from rbxscript.com", "https://raw.githubuse
 addscriptexist(6915291292, "Bakery Simulator [GUI - Collect Baked Goods, Shelf Items]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Bakery%20Simulator%20GUI%20%20Collect%20Baked%20Goods%20Shelf%20Items.lua", "https://rbxscript.com/post/BakerySimulatorGUICollectBakedGoodsShelfItems-57WOl")
 
 addscriptexist(4598019433, "Generic Roleplay Gaem [Auto Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Generic%20Roleplay%20Gaem%20Auto%20Farm.lua", "https://rbxscript.com/post/GenericRoleplayGaemAutoFarm-kOIov")
+
+addscriptexist(301549746, "Counter blox [Crash Server, God mode]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Counter%20blox%20Crash%20Server%20God%20mode.lua", "https://rbxscript.com/post/CounterbloxCrashServerGodmode-8vq8P")
