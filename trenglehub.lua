@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 22:01:43"
+lastupdate = "GMT +1: 16.04.2023 22:01:46"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -17303,3 +17303,5 @@ addscript(7214610985, "Current Game","Stealth 2 [Kill Aura - Auto Retaliate - Au
 addscriptexist(5571328985, "Bloodlines [No Fire]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Bloodlines%20No%20Fire.lua", "https://rbxscript.com/post/BloodlinesNoFir-IxPCN")
 
 addscriptexist(2413927524, "The Rake REMASTERED [Rake ESP, Fullbright]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/The%20Rake%20REMASTERED%20Rake%20ESP%20Fullbright.lua", "https://rbxscript.com/post/TheRakeREMASTEREDRakeESPFullbright-RoJrO")
+
+addscriptexist(8278412720, "CS Prison Life [BETA] [Anti Cheat Bypass]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CS%20Prison%20Life%20BETA%20Anti%20Cheat%20Bypass.lua", "https://rbxscript.com/post/CSPrisonLifeBETAAntiCheatBypass-jOiDz")
