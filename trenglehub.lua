@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 22:33:56"
+lastupdate = "GMT +1: 16.04.2023 22:34:00"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18247,3 +18247,5 @@ addscriptexist(2546155523, "RoVille [Auto Restock Business]", "pulled from rbxsc
 addscript(5944009947, "Current Game","FORCE [TESTING-ZONE] [Trinket Auto Farm & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FORCE%20TESTINGZONE%20Trinket%20Auto%20Farm%20%20More.lua", "https://rbxscript.com/post/FORCETESTINGZONETrinketAutoFarmMore-Lmbi")
 
 addscript(9845369668, "Current Game","Goofy Ahh Spider-Man [GUI - Give All Skins]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Goofy%20Ahh%20SpiderMan%20GUI%20%20Give%20All%20Skins.lua", "https://rbxscript.com/post/GoofyAhhSpiderManGUIGiveAllSkins-2OQT")
+
+addscriptexist(8123652942, "Legend Piece [Fruit Changer]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Legend%20Piece%20Fruit%20Changer.lua", "https://rbxscript.com/post/LegendPieceFruitChanger-dJNhZ")
