@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 22:43:06"
+lastupdate = "GMT +1: 16.04.2023 22:43:12"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18521,3 +18521,5 @@ addscriptexist(5951002734, "Project Baki 2 [GUI - Auto Farm, Auto Punch & More!]
 addscriptexist(8798268679, "Crossroad Combat [God Mode]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Crossroad%20Combat%20God%20Mode.lua", "https://rbxscript.com/post/CrossroadCombatGodMode-HcfaH")
 
 addscript(6924952561, "Current Game","Clover City [Fly]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Clover%20City%20Fly.lua", "https://rbxscript.com/post/CloverCityFly-W0aYy")
+
+addscriptexist(7839440834, "Sea Cleaning Simulator [Modify Boat Speed, No slow down effect, Auto Sell Trash]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sea%20Cleaning%20Simulator%20Modify%20Boat%20Speed%20No%20slow%20down%20effect%20Auto%20Sell%20Trash.lua", "https://rbxscript.com/post/SeaCleaningSimulatorModifyBoatSpeedNoslowdowneffectAutoSellTrash-x3bjP")
