@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 22:07:27"
+lastupdate = "GMT +1: 16.04.2023 22:07:31"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -17467,3 +17467,5 @@ addscriptexist(2809202155, "Your Bizarre Adventure [Teleports,AutoFarm etc]", "p
 addscript(6835256242, "Current Game","Pick A Door [AutoWin]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pick%20A%20Door%20AutoWin.lua", "https://rbxscript.com/post/PickADoorAutoWin-Qx0jn")
 
 addscriptexist(6284583030, "Pet Simulator X [Autofarm, Open Eggs, Auto use boosts]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pet%20Simulator%20X%20Autofarm%20Open%20Eggs%20Auto%20use%20boosts.lua", "https://rbxscript.com/post/PetSimulatorXAutofarmOpenEggsAutouseboosts-aASYp")
+
+addscriptexist(9397663086, "Ninja Training Simulator [Auto Farm, Auto Rebirth, Auto upgrades]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ninja%20Training%20Simulator%20Auto%20Farm%20Auto%20Rebirth%20Auto%20upgrades.lua", "https://rbxscript.com/post/NinjaTrainingSimulatorAutoFarmAutoRebirthAutoupgrades-srRrW")
