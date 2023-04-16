@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 22:33:04"
+lastupdate = "GMT +1: 16.04.2023 22:33:08"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18221,3 +18221,5 @@ addscriptexist(6269446951, "Smooth Slicing [Kill All]", "pulled from rbxscript.c
 addscriptexist(9344944754, "Hunter x Athena [Auto Pushups]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Hunter%20x%20Athena%20Auto%20Pushups.lua", "https://rbxscript.com/post/HunterxAthenaAutoPushups-LHrCb")
 
 addscript(504090542, "Current Game","Battleship Battle [Kill All]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Battleship%20Battle%20Kill%20All.lua", "https://rbxscript.com/post/BattleshipBattleKillAll-CIEZl")
+
+addscriptexist(6155643742, "Fall Block [Click To Activate Tiles Tool]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Fall%20Block%20Click%20To%20Activate%20Tiles%20Tool.lua", "https://rbxscript.com/post/FallBlockClickToActivateTilesTool-BsmSm")
