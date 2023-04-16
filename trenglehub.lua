@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 22:26:45"
+lastupdate = "GMT +1: 16.04.2023 22:26:49"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18029,3 +18029,5 @@ addscriptexist(2546155523, "RoVille [Taxi Auto Farm]", "pulled from rbxscript.co
 addscriptexist(9568982793, "Da Hood Battlegrounds [Anti Cheat Bypass]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Da%20Hood%20Battlegrounds%20Anti%20Cheat%20Bypass.lua", "https://rbxscript.com/post/DaHoodBattlegroundsAntiCheatBypass-by9cK")
 
 addscriptexist(8303902695, "Pet Posse [Spam Coins]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pet%20Posse%20Spam%20Coins.lua", "https://rbxscript.com/post/PetPosseSpamCoins-fa2ss")
+
+addscriptexist(8303902695, "Pet Posse [Remove Egg Animations]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pet%20Posse%20Remove%20Egg%20Animations.lua", "https://rbxscript.com/post/PetPosseRemoveEggAnimations-80Hud")
