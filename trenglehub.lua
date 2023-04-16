@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 22:01:20"
+lastupdate = "GMT +1: 16.04.2023 22:01:24"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -17293,3 +17293,5 @@ addscript(6711562581, "Current Game","Eight Driver Car Racing [Infinite Drift]",
 addscriptexist(6711562581, "Eight Driver Car Racing [Infinite Money]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Eight%20Driver%20Car%20Racing%20Infinite%20Money.lua", "https://rbxscript.com/post/EightDriverCarRacingInfiniteMoney-sHf8c")
 
 addscriptexist(10053187005, "Counter Blox [Godmode, Aimbot, Inf Jump]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Counter%20Blox%20Godmode%20Aimbot%20Inf%20Jump.lua", "https://rbxscript.com/post/CounterBloxGodmodeAimbotInfJump-chBX")
+
+addscriptexist(6677985923, "Millionaire Empire Tycoon [Infinite Cash]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Millionaire%20Empire%20Tycoon%20Infinite%20Cash.lua", "https://rbxscript.com/post/MillionaireEmpireTycoonInfiniteCash-zzTZ5")
