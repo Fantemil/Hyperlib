@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 22:00:17"
+lastupdate = "GMT +1: 16.04.2023 22:00:20"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -17265,3 +17265,5 @@ addscriptexist(3346617530, "Freeze Tag Extreme v2.5 [Overpowered GUI]", "pulled 
 addscriptexist(4616652839, "Shindo Life [Equip Any Bloodline Mode]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Shindo%20Life%20Equip%20Any%20Bloodline%20Mode.lua", "https://rbxscript.com/post/ShindoLifeEquipAnyBloodlineMode-t7sZU")
 
 addscriptexist(6299805723, "Anime Warriors [Simple Auto Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime%20Warriors%20Simple%20Auto%20Farm.lua", "https://rbxscript.com/post/AnimeWarriorsSimpleAutoFarm-sgDQc")
+
+addscriptexist(3177438863, "Dragon Blox [Auto Farm , Auto Quest GUI]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Dragon%20Blox%20Auto%20Farm%20%20Auto%20Quest%20GUI.lua", "https://rbxscript.com/post/DragonBloxAutoFarmAutoQuestGUI-T3q3x")
