@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 21:47:31"
+lastupdate = "GMT +1: 16.04.2023 21:47:34"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -16913,3 +16913,5 @@ addscript(9985159673, "Current Game","Wizardry 101 [Alpha] [God Mode]", "pulled 
 addscriptexist(8123652942, "Legend Piece [GUI - Auto Farming]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Legend%20Piece%20GUI%20%20Auto%20Farming.lua", "https://rbxscript.com/post/LegendPieceGUIAutoFarming-Tkzh8")
 
 addscriptexist(7664045612, "Tiny Bread Factory [Auto Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tiny%20Bread%20Factory%20Auto%20Farm.lua", "https://rbxscript.com/post/TinyBreadFactoryAutoFarm-wEXyG")
+
+addscriptexist(2753915549, "Blox fruit [Fast Attack]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blox%20fruit%20Fast%20Attack.lua", "https://rbxscript.com/post/BloxfruitFastAttack-aleab")
