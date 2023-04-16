@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 22:00:28"
+lastupdate = "GMT +1: 16.04.2023 22:00:34"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -17271,3 +17271,5 @@ addscriptexist(3177438863, "Dragon Blox [Auto Farm , Auto Quest GUI]", "pulled f
 addscriptexist(7991339063, "Rainbow Friends [ESP]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Rainbow%20Friends%20ESP.lua", "https://rbxscript.com/post/RainbowFriendsESP-DOp4n")
 
 addscript(10057963710, "Current Game","George Ezra’s Gold Rush Kid Experience [Collect All Puzzle Pieces]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/George%20Ezras%20Gold%20Rush%20Kid%20Experience%20Collect%20All%20Puzzle%20Pieces.lua", "https://rbxscript.com/post/GeorgeEzrasGoldRushKidExperienceCollectAllPuzzlePieces-A1dYV")
+
+addscript(30869879, "Current Game","Stop it, Slender! [Free Premium Lootboxes]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Stop%20it%20Slender%20Free%20Premium%20Lootboxes.lua", "https://rbxscript.com/post/StopitSlenderFreePremiumLootboxes-3A00E")
