@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 21:25:27"
+lastupdate = "GMT +1: 16.04.2023 21:25:32"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -16291,3 +16291,5 @@ addscriptexist(2788229376, "Da Hood [SilentMode, TriggerBot]", "pulled from rbxs
 addscriptexist(2413927524, "The Rake REMASTERED [Notifications, Esp]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/The%20Rake%20REMASTERED%20Notifications%20Esp.lua", "https://rbxscript.com/post/TheRakeREMASTEREDNotificationsEsp-2PQTD")
 
 addscript(10386774046, "Current Game","Legend Magician [Insane Reach]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Legend%20Magician%20Insane%20Reach.lua", "https://rbxscript.com/post/LegendMagicianInsaneReach-YaSwm")
+
+addscriptexist(6168898345, "Bulwark [Auto Parry]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Bulwark%20Auto%20Parry.lua", "https://rbxscript.com/post/BulwarkAutoParry-dZaFB")
