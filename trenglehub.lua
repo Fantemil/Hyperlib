@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 22:35:00"
+lastupdate = "GMT +1: 16.04.2023 22:35:03"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18277,3 +18277,5 @@ addscriptexist(9726345231, "Duolingo Game Hub [Auto Money]", "pulled from rbxscr
 addscript(9017974931, "Current Game","Valoblox [Auto Open Cases]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Valoblox%20Auto%20Open%20Cases.lua", "https://rbxscript.com/post/ValobloxAutoOpenCases-g6JsW")
 
 addscriptexist(920587237, "Adopt Me! [Auto Collect Gru-Egg]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Adopt%20Me%20Auto%20Collect%20GruEgg.lua", "https://rbxscript.com/post/AdoptMeAutoCollectGruEgg-81PL1")
+
+addscriptexist(6938764986, "Airplane Simulator [Auto Tasks]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Airplane%20Simulator%20Auto%20Tasks.lua", "https://rbxscript.com/post/AirplaneSimulatorAutoTasks-vLLvb")
