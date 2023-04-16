@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 22:22:09"
+lastupdate = "GMT +1: 16.04.2023 22:22:13"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -17895,3 +17895,5 @@ addscriptexist(4459593483, "FORCE [Pvp Mode]", "pulled from rbxscript.com", "htt
 addscript(6875747014, "Current Game","Ronopoly [Spam dice]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ronopoly%20Spam%20dice.lua", "https://rbxscript.com/post/RonopolySpamdice-ggQRi")
 
 addscriptexist(653205701, "Fort Martin, Military Base [jumping]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Fort%20Martin%20Military%20Base%20jumping.lua", "https://rbxscript.com/post/FortMartinMilitaryBasejumping-gnsfW")
+
+addscript(9936860371, "Current Game","Egg Packing Tycoon [Semi Autofarm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Egg%20Packing%20Tycoon%20Semi%20Autofarm.lua", "https://rbxscript.com/post/EggPackingTycoonSemiAutofarm-cxbVT")
