@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 21:30:17"
+lastupdate = "GMT +1: 16.04.2023 21:30:21"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -16431,3 +16431,5 @@ addscriptexist(9243187709, "Pedagondia Faunas [Kill Aura]", "pulled from rbxscri
 addscriptexist(9704893711, "Dha Hood [Inf Money]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Dha%20Hood%20Inf%20Money.lua", "https://rbxscript.com/post/DhaHoodInfMoney-ZRQJ3")
 
 addscript(5024793931, "Current Game","Zeppelin Wars [Anti Cheat Bypass]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Zeppelin%20Wars%20Anti%20Cheat%20Bypass.lua", "https://rbxscript.com/post/ZeppelinWarsAntiCheatBypass-5WGLP")
+
+addscript(9579974235, "Current Game","Find The Floppa Morphs [Collect Floppas]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Find%20The%20Floppa%20Morphs%20Collect%20Floppas.lua", "https://rbxscript.com/post/FindTheFloppaMorphsCollectFloppas-uIGry")
