@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 22:52:09"
+lastupdate = "GMT +1: 16.04.2023 22:52:13"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18791,3 +18791,5 @@ addhub("x2SPETER HUB [5 Games]", "pulled from rbxscript.com", "https://raw.githu
 addscript(5534936306, "Current Game","A JOJO UNIVERSE [Destroy Game]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/A%20JOJO%20UNIVERSE%20Destroy%20Game.lua", "https://rbxscript.com/post/AJOJOUNIVERSEDestroyGame-ao891")
 
 addscriptexist(9049840490, "Sonic Speed Simulator [Unlock All Prizes]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sonic%20Speed%20Simulator%20Unlock%20All%20Prizes.lua", "https://rbxscript.com/post/SonicSpeedSimulatorUnlockAllPrizes-Kmgkp")
+
+addhub("KeyBrew Hub [9 Games]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/KeyBrew%20Hub%20%20Games.lua", "https://rbxscript.com/post/KeyBrewHub9Games-wjJo")
