@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 22:04:40"
+lastupdate = "GMT +1: 16.04.2023 22:04:43"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -17387,3 +17387,5 @@ addscript(9800759618, "Current Game","Amanda [Story] [Auto Revive]", "pulled fro
 addscriptexist(7180042682, "Military Tycoon [Collect All Batteries]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Military%20Tycoon%20Collect%20All%20Batteries.lua", "https://rbxscript.com/post/MilitaryTycoonCollectAllBatteries-wPBmH")
 
 addscriptexist(6356806222, "Lag Test 2021 [No lag]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Lag%20Test%20%20No%20lag.lua", "https://rbxscript.com/post/LagTest2021Nolag-1Jync")
+
+addscriptexist(9167501050, "Lightsaber Arena [Kill aura, auto block, inf stamina]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Lightsaber%20Arena%20Kill%20aura%20auto%20block%20inf%20stamina.lua", "https://rbxscript.com/post/LightsaberArenaKillauraautoblockinfstamina-lskQH")
