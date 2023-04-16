@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 22:08:35"
+lastupdate = "GMT +1: 16.04.2023 22:08:40"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -17499,3 +17499,5 @@ addscriptexist(2768379856, "3008 [Auto collect food, medkits]", "pulled from rbx
 addscriptexist(4863541388, "Scythe Masters [Fast Strength Auto Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Scythe%20Masters%20Fast%20Strength%20Auto%20Farm.lua", "https://rbxscript.com/post/ScytheMastersFastStrengthAutoFarm-dajDy")
 
 addscriptexist(7419509075, "cart ride around used car battery [Get All The Troll Items]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/cart%20ride%20around%20used%20car%20battery%20Get%20All%20The%20Troll%20Items.lua", "https://rbxscript.com/post/cartridearoundusedcarbatteryGetAllTheTrollItems-cH4nT")
+
+addscriptexist(9677464361, "Basketball Pro Simulator [Auto Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Basketball%20Pro%20Simulator%20Auto%20Farm.lua", "https://rbxscript.com/post/BasketballProSimulatorAutoFarm-UzwAP")
