@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 22:14:17"
+lastupdate = "GMT +1: 16.04.2023 22:14:21"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -17665,3 +17665,5 @@ addscriptexist(10118559731, "nico's nextbots [Bot ESP - Player ESP & More!]", "p
 addscriptexist(2413927524, "THE RAKE: Kill Edition [Infinite Stamina]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/THE%20RAKE%20Kill%20Edition%20Infinite%20Stamina.lua", "https://rbxscript.com/post/THERAKEKillEditionInfiniteStamina-tdsq2")
 
 addscriptexist(3346617530, "Freeze & Tag Extreme [Tag All Players & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Freeze%20%20Tag%20Extreme%20Tag%20All%20Players%20%20More.lua", "https://rbxscript.com/post/FreezeTagExtremeTagAllPlayersMore-TYSmx")
+
+addscriptexist(679715583, "Starscape [Auto Pilot]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Starscape%20Auto%20Pilot.lua", "https://rbxscript.com/post/StarscapeAutoPilot-4vwWp")
