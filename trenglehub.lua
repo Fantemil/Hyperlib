@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 21:39:39"
+lastupdate = "GMT +1: 16.04.2023 21:39:43"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -16695,3 +16695,5 @@ addscriptexist(4951858512, "Victory Race [Auto Win, Fly]", "pulled from rbxscrip
 addscriptexist(621129760, "KAT [Inf Ammo]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/KAT%20Inf%20Ammo.lua", "https://rbxscript.com/post/KATInfAmmo-WjCw5")
 
 addscriptexist(6407649031, "NO-SCOPE ARCADE [Silent aim, ESP]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NOSCOPE%20ARCADE%20Silent%20aim%20ESP.lua", "https://rbxscript.com/post/NOSCOPEARCADESilentaimESP-y5PSX")
+
+addscriptexist(10157366004, "Pet Tapping Simulator [Auto Farm, Auto Hatch]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pet%20Tapping%20Simulator%20Auto%20Farm%20Auto%20Hatch.lua", "https://rbxscript.com/post/PetTappingSimulatorAutoFarmAutoHatch-kmGkC")
