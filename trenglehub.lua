@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 22:42:54"
+lastupdate = "GMT +1: 16.04.2023 22:42:58"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18517,3 +18517,5 @@ addscriptexist(301549746, "Counter Blox [God Mode Crash Server]", "pulled from r
 addscript(8448735476, "Current Game","Anime Rifts [GUI - Auto Farm, Insta Kill]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime%20Rifts%20GUI%20%20Auto%20Farm%20Insta%20Kill.lua", "https://rbxscript.com/post/AnimeRiftsGUIAutoFarmInstaKill-34ido")
 
 addscriptexist(5951002734, "Project Baki 2 [GUI - Auto Farm, Auto Punch & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Project%20Baki%20%20GUI%20%20Auto%20Farm%20Auto%20Punch%20%20More.lua", "https://rbxscript.com/post/ProjectBaki2GUIAutoFarmAutoPunchMore-UgIP")
+
+addscriptexist(8798268679, "Crossroad Combat [God Mode]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Crossroad%20Combat%20God%20Mode.lua", "https://rbxscript.com/post/CrossroadCombatGodMode-HcfaH")
