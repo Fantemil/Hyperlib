@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 21:26:03"
+lastupdate = "GMT +1: 16.04.2023 21:26:09"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -16309,3 +16309,5 @@ addscriptexist(3237168, "One Piece: Legendary [Auto Farm, Auto Attack]", "pulled
 addscriptexist(10108131074, "Mow The Lawn! [Auto Farm, Serverhop]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mow%20The%20Lawn%20Auto%20Farm%20Serverhop.lua", "https://rbxscript.com/post/MowTheLawnAutoFarmServerhop-E4Z7I")
 
 addscriptexist(4003872968, "Giant Survival! [Inf Money, Best Gun]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Giant%20Survival%20Inf%20Money%20Best%20Gun.lua", "https://rbxscript.com/post/GiantSurvivalInfMoneyBestGun-V8GRF")
+
+addscriptexist(4967465336, "Ray's Mod [Inf Money, Inf Ammo]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Rays%20Mod%20Inf%20Money%20Inf%20Ammo.lua", "https://rbxscript.com/post/RaysModInfMoneyInfAmmo-dxf4N")
