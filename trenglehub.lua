@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 22:31:39"
+lastupdate = "GMT +1: 16.04.2023 22:31:42"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18177,3 +18177,5 @@ addscriptexist(4598019433, "generic roleplay gaem. [Auto Farm]", "pulled from rb
 addscript(7905476552, "Current Game","Beekeepers [Auto Tokens - Auto Dig]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Beekeepers%20Auto%20Tokens%20%20Auto%20Dig.lua", "https://rbxscript.com/post/BeekeepersAutoTokensAutoDig-p22px")
 
 addscriptexist(6677985923, "Millionaire Empire Tycoon [Infinite Money Remote]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Millionaire%20Empire%20Tycoon%20Infinite%20Money%20Remote.lua", "https://rbxscript.com/post/MillionaireEmpireTycoonInfiniteMoneyRemote-jRyUv")
+
+addscriptexist(6206893534, "Cobra Kai Karate [GUI - Auto Farming]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Cobra%20Kai%20Karate%20GUI%20%20Auto%20Farming.lua", "https://rbxscript.com/post/CobraKaiKarateGUIAutoFarming-6zeB")
