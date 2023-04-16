@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 21:39:51"
+lastupdate = "GMT +1: 16.04.2023 21:39:55"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -16701,3 +16701,5 @@ addscriptexist(10157366004, "Pet Tapping Simulator [Auto Farm, Auto Hatch]", "pu
 addscriptexist(2474168535, "Westbound [GodMode, esp]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Westbound%20GodMode%20esp.lua", "https://rbxscript.com/post/WestboundGodModeesp-2koAw")
 
 addscriptexist(2622527242, "SCP rBreach [ESP, Misc.]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SCP%20rBreach%20ESP%20Misc.lua", "https://rbxscript.com/post/SCPrBreachESPMisc-ANUdW")
+
+addscriptexist(5130598377, "A Universal Time [Auto Farm, Walkspeed]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/A%20Universal%20Time%20Auto%20Farm%20Walkspeed.lua", "https://rbxscript.com/post/AUniversalTimeAutoFarmWalkspeed-mz6fe")
