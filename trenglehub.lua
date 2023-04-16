@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 22:10:49"
+lastupdate = "GMT +1: 16.04.2023 22:10:52"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -17561,3 +17561,5 @@ addscriptexist(443406476, "Project Lazarus [GUI - Weapons Mode, Visuals & More!]
 addscriptexist(3234050617, "Left 2 Die Overhaul [GUI - Weapons Mode, Vusials]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Left%20%20Die%20Overhaul%20GUI%20%20Weapons%20Mode%20Vusials.lua", "https://rbxscript.com/post/Left2DieOverhaulGUIWeaponsModeVusials-txysY")
 
 addscriptexist(5956785391, "Project Slayers [GUI -Auto Quest, Invisible & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Project%20Slayers%20GUI%20Auto%20Quest%20Invisible%20%20More.lua", "https://rbxscript.com/post/ProjectSlayersGUIAutoQuestInvisibleMore-VaziV")
+
+addscriptexist(5956785391, "Project Slayers [Teleport to Player]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Project%20Slayers%20Teleport%20to%20Player.lua", "https://rbxscript.com/post/ProjectSlayersTeleporttoPlayer-4R1Xb")
