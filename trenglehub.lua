@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 21:37:48"
+lastupdate = "GMT +1: 16.04.2023 21:37:54"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -16645,3 +16645,5 @@ addscriptexist(4282985734, "Combat Warriors [Silent aim]", "pulled from rbxscrip
 addscript(4390380541, "Current Game","Rumble Quest [WalkSpeed, Kill-Aura]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Rumble%20Quest%20WalkSpeed%20KillAura.lua", "https://rbxscript.com/post/RumbleQuestWalkSpeedKillAura-jjCAx")
 
 addscriptexist(8750997647, "Tapping Legends X [Auto click, Auto eggs]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tapping%20Legends%20X%20Auto%20click%20Auto%20eggs.lua", "https://rbxscript.com/post/TappingLegendsXAutoclickAutoeggs-P6d2N")
+
+addscriptexist(192800, "Work at a Pizza Place [Become manager ...]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Work%20at%20a%20Pizza%20Place%20Become%20manager%20.lua", "https://rbxscript.com/post/WorkataPizzaPlaceBecomemanager-kkBdN")
