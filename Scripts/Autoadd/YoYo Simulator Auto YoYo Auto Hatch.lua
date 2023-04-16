@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/JellyBagBeans/CelestialHub/main/GameLoader"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/GDScripts/VGvAlEGPdRPWNibbJtYI/main/CKinvaPuhPsVMVrXMrEP_YOYO"))()
