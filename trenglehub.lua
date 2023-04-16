@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 21:50:04"
+lastupdate = "GMT +1: 16.04.2023 21:50:08"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -16985,3 +16985,5 @@ addscriptexist(3851622790, "Break In (Story) [The Best GUI]", "pulled from rbxsc
 addscriptexist(8500690972, "NO STOP Obby [Infinite Stages]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NO%20STOP%20Obby%20Infinite%20Stages.lua", "https://rbxscript.com/post/NOSTOPObbyInfiniteStages-KTZfO")
 
 addscriptexist(4951858512, "Victory Race [Auto Clear]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Victory%20Race%20Auto%20Clear.lua", "https://rbxscript.com/post/VictoryRaceAutoClear-cvVZm")
+
+addscriptexist(10184360875, "Pet&Fishing Simulator [Infinite Money]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PetFishing%20Simulator%20Infinite%20Money.lua", "https://rbxscript.com/post/PetFishingSimulatorInfiniteMoney-HZsGX")
