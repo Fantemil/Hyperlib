@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 22:48:37"
+lastupdate = "GMT +1: 16.04.2023 22:48:41"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18687,3 +18687,5 @@ addscriptexist(8737602449, "PLS DONATE [The inscription on the pole shows]", "pu
 addscriptexist(5490351219, "Clicker Madness [Auto Tap, Decline Trades, Get All Gamepasses]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Clicker%20Madness%20Auto%20Tap%20Decline%20Trades%20Get%20All%20Gamepasses.lua", "https://rbxscript.com/post/ClickerMadnessAutoTapDeclineTradesGetAllGamepasses-pSpms")
 
 addscriptexist(8603729161, "Walk 50k studs for nothing [Get Badges]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Walk%20k%20studs%20for%20nothing%20Get%20Badges.lua", "https://rbxscript.com/post/Walk50kstudsfornothingGetBadges-pT8Xz")
+
+addscriptexist(6788434697, "AniPhobia [Infinite Ammo & Much More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AniPhobia%20Infinite%20Ammo%20%20Much%20More.lua", "https://rbxscript.com/post/AniPhobiaInfiniteAmmoMuchMore-cihC0")
