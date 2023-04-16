@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 22:50:23"
+lastupdate = "GMT +1: 16.04.2023 22:50:27"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18739,3 +18739,5 @@ addscriptexist(5490351219, "Clicker Madness [Sick Auto Click, Auto Boss, Telepor
 addscript(9760849472, "Current Game","UFO Universe [Auto Farm Chests, Auto Open Egg, Teleport]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/UFO%20Universe%20Auto%20Farm%20Chests%20Auto%20Open%20Egg%20Teleport.lua", "https://rbxscript.com/post/UFOUniverseAutoFarmChestsAutoOpenEggTeleport-bR4yA")
 
 addscriptexist(9555732501, "Nen Fighting Simulator [Durability Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Nen%20Fighting%20Simulator%20Durability%20Farm.lua", "https://rbxscript.com/post/NenFightingSimulatorDurabilityFarm-VBANN")
+
+addscriptexist(6937208251, "Star Wars Battlegrounds [Gun Mods Press V]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Star%20Wars%20Battlegrounds%20Gun%20Mods%20Press%20V.lua", "https://rbxscript.com/post/StarWarsBattlegroundsGunModsPressV-6O9WU")
