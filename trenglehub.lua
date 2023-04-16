@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 22:42:34"
+lastupdate = "GMT +1: 16.04.2023 22:42:37"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18507,3 +18507,5 @@ addscriptexist(1554960397, "Car Dealership Tycoon [AutoFarm, Infinity Speed, Wal
 addscriptexist(7056922815, "Rapeer 2 [AutoFarm, Auto Quest, Auto Equip]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Rapeer%20%20AutoFarm%20Auto%20Quest%20Auto%20Equip.lua", "https://rbxscript.com/post/Rapeer2AutoFarmAutoQuestAutoEquip-cR2y7")
 
 addscriptexist(1962086868, "Tower Of Hell [AutoWin, GodMode, SpeedHack]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tower%20Of%20Hell%20AutoWin%20GodMode%20SpeedHack.lua", "https://rbxscript.com/post/TowerOfHellAutoWinGodModeSpeedHack-VjKFT")
+
+addscriptexist(5910449407, "Project Menacing [Stand Farm - God Mode & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Project%20Menacing%20Stand%20Farm%20%20God%20Mode%20%20More.lua", "https://rbxscript.com/post/ProjectMenacingStandFarmGodModeMore-7bJ7B")
