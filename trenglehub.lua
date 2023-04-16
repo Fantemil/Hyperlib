@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 22:54:11"
+lastupdate = "GMT +1: 16.04.2023 22:54:14"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18845,3 +18845,5 @@ addscriptexist(7791873535, "REALISTIC HOOD [Cash Collector]", "pulled from rbxsc
 addscriptexist(2809202155, "Your Bizarre Adventure [Item-Dupe]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Your%20Bizarre%20Adventure%20ItemDupe.lua", "https://rbxscript.com/post/YourBizarreAdventureItemDupe-3kn8Q")
 
 addscriptexist(4753520418, "The Hood [Auto Money Drop Collect]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/The%20Hood%20Auto%20Money%20Drop%20Collect.lua", "https://rbxscript.com/post/TheHoodAutoMoneyDropCollect-k2RlR")
+
+addscript(8762785110, "Current Game","Survival Games Ultimate [Inf Stamina]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Survival%20Games%20Ultimate%20Inf%20Stamina.lua", "https://rbxscript.com/post/SurvivalGamesUltimateInfStamina-qF0CI")
