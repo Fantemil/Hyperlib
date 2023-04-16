@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 21:26:16"
+lastupdate = "GMT +1: 16.04.2023 21:26:25"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -16315,3 +16315,5 @@ addscriptexist(4967465336, "Ray's Mod [Inf Money, Inf Ammo]", "pulled from rbxsc
 addscriptexist(8531522502, "Facility Of Redemption [WalkSpeed]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Facility%20Of%20Redemption%20WalkSpeed.lua", "https://rbxscript.com/post/FacilityOfRedemptionWalkSpeed-QfWRc")
 
 addscript(391104146, "Current Game","Let's Party∞ +Gear Testing Edition [Ban All, Fly]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Lets%20Party%20Gear%20Testing%20Edition%20Ban%20All%20Fly.lua", "https://rbxscript.com/post/LetsParty%E2%88%9EGearTestingEditionBanAllFly-KNfiC")
+
+addscriptexist(891852901, "Greenville [Car Stealer]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Greenville%20Car%20Stealer.lua", "https://rbxscript.com/post/GreenvilleCarStealer-feu26")
