@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 21:41:56"
+lastupdate = "GMT +1: 16.04.2023 21:42:00"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -16761,3 +16761,5 @@ addhub("RBSjus HUB [17 Games]", "pulled from rbxscript.com", "https://raw.github
 addscriptexist(6516141723, "DOORS [Legit Cheat – Esp, And More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DOORS%20Legit%20Cheat%20%20Esp%20And%20More.lua", "https://rbxscript.com/post/DOORSLegitCheatEspAndMore-GNiaz")
 
 addscriptexist(9845465117, "AU:Reborn [Instant & Infinite Awakening", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AUReborn%20Instant%20%20Infinite%20Awakening.lua", "https://rbxscript.com/post/AURebornInstantInfiniteAwakening-T95wL")
+
+addscriptexist(8278412720, "CS Prison Life [BETA] [Casino Auto Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CS%20Prison%20Life%20BETA%20Casino%20Auto%20Farm.lua", "https://rbxscript.com/post/CSPrisonLifeBETACasinoAutoFarm-p0XDN")
