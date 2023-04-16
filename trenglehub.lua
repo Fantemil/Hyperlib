@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 21:27:11"
+lastupdate = "GMT +1: 16.04.2023 21:27:15"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -16339,3 +16339,5 @@ addscriptexist(9203864304, "raise a floppa [Auto Collect, Auto Fill]", "pulled f
 addscriptexist(155615604, "Prison Life [Inf Stamina, Remove doors]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Prison%20Life%20Inf%20Stamina%20Remove%20doors.lua", "https://rbxscript.com/post/PrisonLifeInfStaminaRemovedoors-uIgdO")
 
 addscriptexist(3101667897, "Legends Of Speed⚡[Auto Farm, Auto Rebirth]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Legends%20Of%20SpeedAuto%20Farm%20Auto%20Rebirth.lua", "https://rbxscript.com/post/LegendsOfSpeedAutoFarmAutoRebirth-mKcwL")
+
+addscriptexist(189707, "Natural Disaster Survival.", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Natural%20Disaster%20Survival.lua", "https://rbxscript.com/post/NaturalDisasterSurvival-CG3Cd")
