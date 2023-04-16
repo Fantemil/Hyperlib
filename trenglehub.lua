@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 22:54:47"
+lastupdate = "GMT +1: 16.04.2023 22:54:54"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18863,3 +18863,5 @@ addscriptexist(5927697884, "Orange Colored Skies [Gun Mod]", "pulled from rbxscr
 addscriptexist(8992150289, "Anime Sword Simulator [Get All Gamepasses]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime%20Sword%20Simulator%20Get%20All%20Gamepasses.lua", "https://rbxscript.com/post/AnimeSwordSimulatorGetAllGamepasses-dnWNi")
 
 addscriptexist(4459593483, "FORCE [PRE-ALPHA] [Auto Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FORCE%20PREALPHA%20Auto%20Farm.lua", "https://rbxscript.com/post/FORCEPREALPHAAutoFarm-CBwL")
+
+addscriptexist(9534337535, "Shrek in the Backrooms [Inf Item Giver, Entity Killer, Teleports]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Shrek%20in%20the%20Backrooms%20Inf%20Item%20Giver%20Entity%20Killer%20Teleports.lua", "https://rbxscript.com/post/ShrekintheBackroomsInfItemGiverEntityKillerTeleports-8oIHT")
