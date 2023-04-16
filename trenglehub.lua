@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 22:00:34"
+lastupdate = "GMT +1: 16.04.2023 22:00:38"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -17273,3 +17273,5 @@ addscriptexist(7991339063, "Rainbow Friends [ESP]", "pulled from rbxscript.com",
 addscript(10057963710, "Current Game","George Ezra’s Gold Rush Kid Experience [Collect All Puzzle Pieces]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/George%20Ezras%20Gold%20Rush%20Kid%20Experience%20Collect%20All%20Puzzle%20Pieces.lua", "https://rbxscript.com/post/GeorgeEzrasGoldRushKidExperienceCollectAllPuzzlePieces-A1dYV")
 
 addscript(30869879, "Current Game","Stop it, Slender! [Free Premium Lootboxes]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Stop%20it%20Slender%20Free%20Premium%20Lootboxes.lua", "https://rbxscript.com/post/StopitSlenderFreePremiumLootboxes-3A00E")
+
+addscriptexist(10192063645, "Thy Hood [Semi God Mode]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Thy%20Hood%20Semi%20God%20Mode.lua", "https://rbxscript.com/post/ThyHoodSemiGodMode-R5HH7")
