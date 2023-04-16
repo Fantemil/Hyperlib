@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 22:56:55"
+lastupdate = "GMT +1: 16.04.2023 22:56:58"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18925,3 +18925,5 @@ addscriptexist(8592863835, "Magnet Simulator 2 [Auto Collect Coins, Get All Game
 addscriptexist(6804602922, "Boxing Legends [AimBot, Triggerbot, ESP]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Boxing%20Legends%20AimBot%20Triggerbot%20ESP.lua", "https://rbxscript.com/post/BoxingLegendsAimBotTriggerbotESP-Qs9dd")
 
 addscript(5543622168, "Current Game","Critical Tower Defense [Equip Hot Rash]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Critical%20Tower%20Defense%20Equip%20Hot%20Rash.lua", "https://rbxscript.com/post/CriticalTowerDefenseEquipHotRash-neSXX")
+
+addscript(9461798258, "Current Game","Raise a Granny [INF Money]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Raise%20a%20Granny%20INF%20Money.lua", "https://rbxscript.com/post/RaiseaGrannyINFMoney-AtpXg")
