@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 22:13:12"
+lastupdate = "GMT +1: 16.04.2023 22:13:16"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -17633,3 +17633,5 @@ addscriptexist(9571238478, "Raise a Peter [Auto Farm GUI]", "pulled from rbxscri
 addscriptexist(5956785391, "Project Slayers [Muzan ESP]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Project%20Slayers%20Muzan%20ESP.lua", "https://rbxscript.com/post/ProjectSlayersMuzanESP-SvdLU")
 
 addscriptexist(5956785391, "Project Slayers [GUI - Auto Farm, Auto Skill & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Project%20Slayers%20GUI%20%20Auto%20Farm%20Auto%20Skill%20%20More.lua", "https://rbxscript.com/post/ProjectSlayersGUIAutoFarmAutoSkillMore-qLhQ4")
+
+addscriptexist(8884334497, "Mining Clicker Simulator [Auto Clicker - Auto Rebirth & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mining%20Clicker%20Simulator%20Auto%20Clicker%20%20Auto%20Rebirth%20%20More.lua", "https://rbxscript.com/post/MiningClickerSimulatorAutoClickerAutoRebirthMore-UX0dz")
