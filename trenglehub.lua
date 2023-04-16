@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 22:52:44"
+lastupdate = "GMT +1: 16.04.2023 22:52:48"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18807,3 +18807,5 @@ addscriptexist(2000062521, "State of Anarchy 0.15.83.0 [Kill All]", "pulled from
 addscriptexist(70005410, "Blox Hunt [Prop Chams]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blox%20Hunt%20Prop%20Chams.lua", "https://rbxscript.com/post/BloxHuntPropChams-fElqX")
 
 addscriptexist(370731277, "Meep City [Snowball All]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Meep%20City%20Snowball%20All.lua", "https://rbxscript.com/post/MeepCitySnowballAll-BkHkQ")
+
+addscriptexist(5233268561, "A Bizarre Journey [Auto Pickup All Items]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/A%20Bizarre%20Journey%20Auto%20Pickup%20All%20Items.lua", "https://rbxscript.com/post/ABizarreJourneyAutoPickupAllItems-Dp9jK")
