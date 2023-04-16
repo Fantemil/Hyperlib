@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 21:53:50"
+lastupdate = "GMT +1: 16.04.2023 21:54:04"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -17091,3 +17091,5 @@ addscript(10370253487, "Current Game","You Can't Say That Again [Spam Chat]", "p
 addscriptexist(142823291, "Murder Mystery 2 [Unlock All Skins - Clientside]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Murder%20Mystery%20%20Unlock%20All%20Skins%20%20Clientside.lua", "https://rbxscript.com/post/MurderMystery2UnlockAllSkinsClientside-OC0yJ")
 
 addscriptexist(5956785391, "Project Slayers [Kill Aura - Auto Farm & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Project%20Slayers%20Kill%20Aura%20%20Auto%20Farm%20%20More.lua", "https://rbxscript.com/post/ProjectSlayersKillAuraAutoFarmMore-NWoPQ")
+
+addscriptexist(537413528, "Build a Boat For Treasure [Auto Farming GUI]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Build%20a%20Boat%20For%20Treasure%20Auto%20Farming%20GUI.lua", "https://rbxscript.com/post/BuildaBoatForTreasureAutoFarmingGUI-KNOOE")
