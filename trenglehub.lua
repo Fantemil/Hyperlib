@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 21:59:10"
+lastupdate = "GMT +1: 16.04.2023 21:59:14"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -17235,3 +17235,5 @@ addscript(21083417, "Current Game","Homestead [Log Spam]", "pulled from rbxscrip
 addscriptexist(6055959032, "Jailbird [Silent Aim – Ragebot – Visuals And More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Jailbird%20Silent%20Aim%20%20Ragebot%20%20Visuals%20And%20More.lua", "https://rbxscript.com/post/JailbirdSilentAimRagebotVisualsAndMore-JV7Sp")
 
 addscriptexist(6298464951, "Unbreakable [Get 100K Cash & Items]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Unbreakable%20Get%20K%20Cash%20%20Items.lua", "https://rbxscript.com/post/UnbreakableGet100KCashItems-iTsjD")
+
+addscriptexist(10192063645, "Thy hood [GUI V2 - Auto Farm Trash - Kill Players And Teleports!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Thy%20hood%20GUI%20V%20%20Auto%20Farm%20Trash%20%20Kill%20Players%20And%20Teleports.lua", "https://rbxscript.com/post/ThyhoodGUIV2AutoFarmTrashKillPlayersAndTeleports-vhpkm")
