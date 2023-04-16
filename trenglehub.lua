@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 22:39:34"
+lastupdate = "GMT +1: 16.04.2023 22:39:38"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18413,3 +18413,5 @@ addscriptexist(8540346411, "Rebirth Champions X [Auto Farm GUI]", "pulled from r
 addscript(9609300403, "Current Game","Jackpot [Auto Martingale]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Jackpot%20Auto%20Martingale.lua", "https://rbxscript.com/post/JackpotAutoMartingale-IF5gN")
 
 addscriptexist(9017974931, "Valoblox [Auto Instantly Defuse Bomb]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Valoblox%20Auto%20Instantly%20Defuse%20Bomb.lua", "https://rbxscript.com/post/ValobloxAutoInstantlyDefuseBomb-egYQS")
+
+addscriptexist(920587237, "Adopt Me [Get All Pets Rideable / Flyable]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Adopt%20Me%20Get%20All%20Pets%20Rideable%20%20Flyable.lua", "https://rbxscript.com/post/AdoptMeGetAllPetsRideableFlyable-DWF6L")
