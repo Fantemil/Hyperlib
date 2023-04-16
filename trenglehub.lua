@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 21:27:02"
+lastupdate = "GMT +1: 16.04.2023 21:27:08"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -16335,3 +16335,5 @@ addscriptexist(10524502174, "One Punch Fighters [Auto Farm, Auto Click]", "pulle
 addscriptexist(5041144419, "SCP: Roleplay [ESP, Killaura]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SCP%20Roleplay%20ESP%20Killaura.lua", "https://rbxscript.com/post/SCPRoleplayESPKillaura-l2wXw")
 
 addscriptexist(9203864304, "raise a floppa [Auto Collect, Auto Fill]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/raise%20a%20floppa%20Auto%20Collect%20Auto%20Fill.lua", "https://rbxscript.com/post/raiseafloppaAutoCollectAutoFill-2OaSr")
+
+addscriptexist(155615604, "Prison Life [Inf Stamina, Remove doors]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Prison%20Life%20Inf%20Stamina%20Remove%20doors.lua", "https://rbxscript.com/post/PrisonLifeInfStaminaRemovedoors-uIgdO")
