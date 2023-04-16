@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 21:31:16"
+lastupdate = "GMT +1: 16.04.2023 21:31:20"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -16457,3 +16457,5 @@ addscriptexist(9940051005, "Blox Legends [Auto Collect]", "pulled from rbxscript
 addscriptexist(7952502098, "Impossible Glass Bridge Obby! [Highlights all incorrect ones]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Impossible%20Glass%20Bridge%20Obby%20Highlights%20all%20incorrect%20ones.lua", "https://rbxscript.com/post/ImpossibleGlassBridgeObbyHighlightsallincorrectones-FI9Fq")
 
 addscriptexist(2537430692, "Jenga [End Game, Fly]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Jenga%20End%20Game%20Fly.lua", "https://rbxscript.com/post/JengaEndGameFly-nUtfU")
+
+addscriptexist(286090429, "Arsenal [Kill All, Silent Aim]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Arsenal%20Kill%20All%20Silent%20Aim.lua", "https://rbxscript.com/post/ArsenalKillAllSilentAim-RfCnW")
