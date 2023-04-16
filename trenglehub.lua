@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 22:29:39"
+lastupdate = "GMT +1: 16.04.2023 22:29:43"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18115,3 +18115,5 @@ addscript(3311740703, "Current Game","Counter Blox: Modded [Kill All, Aimbot, Es
 addscriptexist(6755746130, "Fruit Juice Tycoon [Auto Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Fruit%20Juice%20Tycoon%20Auto%20Farm.lua", "https://rbxscript.com/post/FruitJuiceTycoonAutoFarm-Ov121")
 
 addscript(9266432096, "Current Game","Anime Journey [Auto Farm, Auto Spin, Auto Stats]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime%20Journey%20Auto%20Farm%20Auto%20Spin%20Auto%20Stats.lua", "https://rbxscript.com/post/AnimeJourneyAutoFarmAutoSpinAutoStats-QAxS7")
+
+addscriptexist(920587237, "Adopt Me [Get All Pets Rideable, Flyable]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Adopt%20Me%20Get%20All%20Pets%20Rideable%20Flyable.lua", "https://rbxscript.com/post/AdoptMeGetAllPetsRideableFlyable-p45S9")
