@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 22:46:03"
+lastupdate = "GMT +1: 16.04.2023 22:46:07"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18609,3 +18609,5 @@ addscript(5927697884, "Current Game","Fallout Orange Colored Skies [Item ESP - I
 addscript(3271747724, "Current Game","MEGA Boss Survival [Wins Auto Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MEGA%20Boss%20Survival%20Wins%20Auto%20Farm.lua", "https://rbxscript.com/post/MEGABossSurvivalWinsAutoFarm-6kaY0")
 
 addscriptexist(4540286603, "NORTHWIND [OP GUI]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NORTHWIND%20OP%20GUI.lua", "https://rbxscript.com/post/NORTHWINDOPGUI-XdOuc")
+
+addscriptexist(413424176, "Clone Tycoon 2 [Inf Money]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Clone%20Tycoon%20%20Inf%20Money.lua", "https://rbxscript.com/post/CloneTycoon2InfMoney-mh5rE")
