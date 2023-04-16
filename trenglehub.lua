@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 22:26:13"
+lastupdate = "GMT +1: 16.04.2023 22:26:18"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18015,3 +18015,5 @@ addscriptexist(8123652942, "Legend Piece [Infinite Level]", "pulled from rbxscri
 addscriptexist(9662949425, "Punch a brick wall simulator [Infinite Money & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Punch%20a%20brick%20wall%20simulator%20Infinite%20Money%20%20More.lua", "https://rbxscript.com/post/PunchabrickwallsimulatorInfiniteMoneyMore-mfFrt")
 
 addscriptexist(9936860371, "Egg Packing Tycoon [Semi Auto Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Egg%20Packing%20Tycoon%20Semi%20Auto%20Farm.lua", "https://rbxscript.com/post/EggPackingTycoonSemiAutoFarm-SfxFF")
+
+addscriptexist(8303902695, "Pet Posse [Auto Rebirth]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pet%20Posse%20Auto%20Rebirth.lua", "https://rbxscript.com/post/PetPosseAutoRebirt-IVyVE")
