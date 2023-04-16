@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 22:42:51"
+lastupdate = "GMT +1: 16.04.2023 22:42:54"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18515,3 +18515,5 @@ addscriptexist(443406476, "Project Lazarus ZOMBIES [Silent Aim - Gun Mods]", "pu
 addscriptexist(301549746, "Counter Blox [God Mode Crash Server]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Counter%20Blox%20God%20Mode%20Crash%20Server.lua", "https://rbxscript.com/post/CounterBloxGodModeCrashServer6nVwQ")
 
 addscript(8448735476, "Current Game","Anime Rifts [GUI - Auto Farm, Insta Kill]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime%20Rifts%20GUI%20%20Auto%20Farm%20Insta%20Kill.lua", "https://rbxscript.com/post/AnimeRiftsGUIAutoFarmInstaKill-34ido")
+
+addscriptexist(5951002734, "Project Baki 2 [GUI - Auto Farm, Auto Punch & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Project%20Baki%20%20GUI%20%20Auto%20Farm%20Auto%20Punch%20%20More.lua", "https://rbxscript.com/post/ProjectBaki2GUIAutoFarmAutoPunchMore-UgIP")
