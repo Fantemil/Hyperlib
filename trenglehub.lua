@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 22:48:20"
+lastupdate = "GMT +1: 16.04.2023 22:48:23"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18677,3 +18677,5 @@ addscriptexist(6403373529, "Slap Battles [Auto Swing, Auto Sell, Auto Rebirth]",
 addscriptexist(8750997647, "Tapping Legends X [Auto Tap, Auto Upgrade, Auto Rebirth]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tapping%20Legends%20X%20Auto%20Tap%20Auto%20Upgrade%20Auto%20Rebirth.lua", "https://rbxscript.com/post/TappingLegendsXAutoTapAutoUpgradeAutoRebirth-Bgyr")
 
 addscriptexist(537413528, "Build A Boat For Treasure [Safe Mode]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Build%20A%20Boat%20For%20Treasure%20Safe%20Mode.lua", "https://rbxscript.com/post/BuildABoatForTreasureSafeMode-jUHx")
+
+addscriptexist(7560156054, "Clicker Simulator [On Click Toggle egg, GamePass]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Clicker%20Simulator%20On%20Click%20Toggle%20egg%20GamePass.lua", "https://rbxscript.com/post/ClickerSimulatorOnClickToggleeggGamePass-y3NEG")
