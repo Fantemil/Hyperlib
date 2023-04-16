@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 21:41:25"
+lastupdate = "GMT +1: 16.04.2023 21:41:28"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -16745,3 +16745,5 @@ addscript(9792312812, "Current Game","Vampire Fighters [Kill All, Inf Stam]", "p
 addscriptuniversal("Highlight [Universal Esp]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Highlight%20Universal%20Esp.lua", "https://rbxscript.com/post/HighlightUniversalEsp-Jv4z2")
 
 addscriptuniversal("Fighter's Era [Inf Money]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Fighters%20Era%20Inf%20Money.lua", "https://rbxscript.com/post/FightersEraInfMoney-E7e6L")
+
+addscriptexist(4036494886, "Gun Simulator [Infinite Everything & Custom Stats]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Gun%20Simulator%20Infinite%20Everything%20%20Custom%20Stats.lua", "https://rbxscript.com/post/GunSimulatorInfiniteEverythingCustomStats-YPWUJ")
