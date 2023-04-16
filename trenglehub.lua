@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 22:08:51"
+lastupdate = "GMT +1: 16.04.2023 22:08:54"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -17507,3 +17507,5 @@ addscriptexist(8203181639, "Syrian Shenanigans [Full auto tank]", "pulled from r
 addscriptexist(8203181639, "Syrian Shenanigans [Keybinds]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Syrian%20Shenanigans%20Keybinds.lua", "https://rbxscript.com/post/SyrianShenanigansKeybinds-x5j82")
 
 addscriptexist(8203181639, "Syrian Shenanigans [Bypass the anticheat]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Syrian%20Shenanigans%20Bypass%20the%20anticheat.lua", "https://rbxscript.com/post/SyrianShenanigansBypasstheanticheat-R4Pjm")
+
+addscriptexist(623694595, "Phenom [Drop Ball]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Phenom%20Drop%20Ball.lua", "https://rbxscript.com/post/PhenomDropBall-9lKbD")
