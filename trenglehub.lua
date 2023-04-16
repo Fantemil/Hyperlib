@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 21:30:08"
+lastupdate = "GMT +1: 16.04.2023 21:30:14"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -16427,3 +16427,5 @@ addscriptexist(9183932460, "Untitled Hood [Silent aim, Fly]", "pulled from rbxsc
 addscriptexist(9284097280, "Apartment Tycoon [Auto collect cash]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Apartment%20Tycoon%20Auto%20collect%20cash.lua", "https://rbxscript.com/post/ApartmentTycoonAutocollectcash-mlZm5")
 
 addscriptexist(9243187709, "Pedagondia Faunas [Kill Aura]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pedagondia%20Faunas%20Kill%20Aura.lua", "https://rbxscript.com/post/PedagondiaFaunasKillAura-T67Nq")
+
+addscriptexist(9704893711, "Dha Hood [Inf Money]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Dha%20Hood%20Inf%20Money.lua", "https://rbxscript.com/post/DhaHoodInfMoney-ZRQJ3")
