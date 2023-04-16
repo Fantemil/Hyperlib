@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 22:36:03"
+lastupdate = "GMT +1: 16.04.2023 22:36:06"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18309,3 +18309,5 @@ addscriptexist(9534337535, "Shrek in the Backrooms [GUI - ESP, Loot Stuff]", "pu
 addscriptexist(301549746, "Counter Blox [Best Custom Skins Changer & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Counter%20Blox%20Best%20Custom%20Skins%20Changer%20%20More.lua", "https://rbxscript.com/post/CounterBloxBestCustomSkinsChangerMore-u9R8")
 
 addscriptexist(8619263259, "Critical Legends [Auto Orbs & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Critical%20Legends%20Auto%20Orbs%20%20More.lua", "https://rbxscript.com/post/CriticalLegendsAutoOrbsMore-bc13D")
+
+addscript(9492038800, "Current Game","STUMBLOX STRANGER THINGS [Auto Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/STUMBLOX%20STRANGER%20THINGS%20Auto%20Farm.lua", "https://rbxscript.com/post/STUMBLOXSTRANGERTHINGSAutoFarm-HQx6l")
