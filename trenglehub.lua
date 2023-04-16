@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 22:53:44"
+lastupdate = "GMT +1: 16.04.2023 22:53:50"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18837,3 +18837,5 @@ addscript(9604622906, "Current Game","Diamond Hood [Auto Shoot - Kill All & More
 addscriptexist(6728870912, "World of Stands Demo [Auto Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/World%20of%20Stands%20Demo%20Auto%20Farm.lua", "https://rbxscript.com/post/WorldofStandsDemoAutoFarm-vqBHn")
 
 addscript(4360666523, "Current Game","Checkpoint Racing Unleashed [Coin ESP]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Checkpoint%20Racing%20Unleashed%20Coin%20ESP.lua", "https://rbxscript.com/post/CheckpointRacingUnleashedCoinESP-E8w9d")
+
+addscriptexist(4733278992, "Sword Blox Online Rebirth [Remove Anti Fling]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sword%20Blox%20Online%20Rebirth%20Remove%20Anti%20Fling.lua", "https://rbxscript.com/post/SwordBloxOnlineRebirthRemoveAntiFling-x6Dep")
