@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 21:29:31"
+lastupdate = "GMT +1: 16.04.2023 21:29:34"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -16407,3 +16407,5 @@ addscriptexist(9611809130, "Crazy Party RPG [AutoFarm]", "pulled from rbxscript.
 addscriptexist(6447798030, "Funky Friday [AutoPlay, HitChances]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Funky%20Friday%20AutoPlay%20HitChances.lua", "https://rbxscript.com/post/FunkyFridayAutoPlayHitChances-9fnKf")
 
 addscriptexist(6407649031, "NO-SCOPE ARCADE [Aimbot, Esp]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NOSCOPE%20ARCADE%20Aimbot%20Esp.lua", "https://rbxscript.com/post/NOSCOPEARCADEAimbotEsp-x3n0i")
+
+addscriptexist(1962086868, "Tower of Hell [Inf Jump, AutoFarm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tower%20of%20Hell%20Inf%20Jump%20AutoFarm.lua", "https://rbxscript.com/post/TowerofHellInfJumpAutoFarm-D0lXh")
