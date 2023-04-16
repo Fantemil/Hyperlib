@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 22:08:11"
+lastupdate = "GMT +1: 16.04.2023 22:08:15"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -17489,3 +17489,5 @@ addscriptexist(92604236, "High School Life [Fe body resizer]", "pulled from rbxs
 addscript(5320510816, "Current Game","Farm Life Tycoon [Auto Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Farm%20Life%20Tycoon%20Auto%20Farm.lua", "https://rbxscript.com/post/FarmLifeTycoonAutoFarm-X7yFG")
 
 addscriptexist(2686500207, "A Bizarre Day [Loop Kill ]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/A%20Bizarre%20Day%20Loop%20Kill%20.lua", "https://rbxscript.com/post/ABizarreDayLoopKill-0qY2S")
+
+addscriptexist(2546155523, "RoVille [Auto Farm Jobs]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RoVille%20Auto%20Farm%20Jobs.lua", "https://rbxscript.com/post/RoVilleAutoFarmJobs-OfvO2")
