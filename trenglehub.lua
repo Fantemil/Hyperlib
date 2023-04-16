@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 21:57:24"
+lastupdate = "GMT +1: 16.04.2023 21:57:31"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -17191,3 +17191,5 @@ addscriptexist(6468323505, "Spellbound Magic RPG [Infinte Coins]", "pulled from 
 addscriptexist(3851622790, "Break In (Story) [Kill All - God Mode - Give Items]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Break%20In%20Story%20Kill%20All%20%20God%20Mode%20%20Give%20Items.lua", "https://rbxscript.com/post/BreakInStoryKillAllGodMode-BEe1R")
 
 addscriptexist(10118559731, "nico's nextbots [AutoBhop]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/nicos%20nextbots%20AutoBhop.lua", "https://rbxscript.com/post/nicosnextbotsAutoBhop-LOKex")
+
+addscript(8222131500, "Current Game","Island Survival [AutoHelp-Hop]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Island%20Survival%20AutoHelpHop.lua", "https://rbxscript.com/post/IslandSurvivalAutoHelpHop-z84CB")
