@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 21:37:10"
+lastupdate = "GMT +1: 16.04.2023 21:37:14"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -16625,3 +16625,5 @@ addscriptexist(9970551995, "Touch The Grass Simulator! [Inf coins]", "pulled fro
 addscriptexist(10524502174, "One Punch Fighters [Auto Click]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/One%20Punch%20Fighters%20Auto%20Click.lua", "https://rbxscript.com/post/OnePunchFightersAutoClick-jPQOZ")
 
 addscriptexist(9872472334, "Evade [GodMode, Fullbright]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Evade%20GodMode%20Fullbright.lua", "https://rbxscript.com/post/EvadeGodModeFullbright-aFW8b")
+
+addscript(6114972958, "Current Game","Initial D: Touge Legends [Unlock cars, Walkspeed]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Initial%20D%20Touge%20Legends%20Unlock%20cars%20Walkspeed.lua", "https://rbxscript.com/post/InitialDTougeLegendsUnlockcarsWalkspeed-H569K")
