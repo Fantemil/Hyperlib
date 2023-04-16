@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 21:30:29"
+lastupdate = "GMT +1: 16.04.2023 21:30:36"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -16437,3 +16437,5 @@ addscript(9579974235, "Current Game","Find The Floppa Morphs [Collect Floppas]",
 addscriptexist(9285238704, "Race Clicker [Auto Win, Auto Click]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Race%20Clicker%20Auto%20Win%20Auto%20Click.lua", "https://rbxscript.com/post/RaceClickerAutoWinAutoClick-JytJb")
 
 addscriptexist(8737602449, "PLS DONATE [Emotes, Animation]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PLS%20DONATE%20Emotes%20Animation.lua", "https://rbxscript.com/post/PLSDONATEEmotesAnimation-fa5IR")
+
+addscript(8303902695, "Current Game","Pet Posse Simulator [Auto Egg,AutoFarm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pet%20Posse%20Simulator%20Auto%20EggAutoFarm.lua", "https://rbxscript.com/post/PetPosseSimulatorAutoEggAutoFarm-0zk0K")
