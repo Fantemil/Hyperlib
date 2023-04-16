@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 22:11:45"
+lastupdate = "GMT +1: 16.04.2023 22:11:48"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -17589,3 +17589,5 @@ addscriptexist(920587237, "Adopt Me [Auto Farm, Auto Cashout & More!]", "pulled 
 addscriptexist(7196856665, "Wave Sword Bots Game [Collect All Orbs]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Wave%20Sword%20Bots%20Game%20Collect%20All%20Orbs.lua", "https://rbxscript.com/post/WaveSwordBotsGameCollectAllOrbs-Y52nV")
 
 addscriptexist(142823291, "Murder Mystery 2 [GUI - Kill All, Esp]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Murder%20Mystery%20%20GUI%20%20Kill%20All%20Esp.lua", "https://rbxscript.com/post/MurderMystery2GUIKillAllEsp-fT36f")
+
+addscriptexist(537413528, "SPAK hub [Admin, fly, aim and ESP]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SPAK%20hub%20Admin%20fly%20aim%20and%20ESP.lua", "https://rbxscript.com/post/SPAKhubAdminflyaimandESP-vhvDG")
