@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 21:39:07"
+lastupdate = "GMT +1: 16.04.2023 21:39:15"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -16683,3 +16683,5 @@ addscriptexist(4872321990, "Islands [Auto Coollect Nearby Items]", "pulled from 
 addscriptexist(2788229376, "Da Hood [GUI - Anti Stomp & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Da%20Hood%20GUI%20%20Anti%20Stomp%20%20More.lua", "https://rbxscript.com/post/DaHoodGUIAntiStompMore-OQcdK")
 
 addscriptexist(7606302010, "Yo-Yo! Simulator [GUI - Auto Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/YoYo%20Simulator%20GUI%20%20Auto%20Farm.lua", "https://rbxscript.com/post/YoYoSimulatorGUIAutoFarm-Gwksh")
+
+addscriptexist(9285238704, "Race Clicker [Auto click]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Race%20Clicker%20Auto%20click.lua", "https://rbxscript.com/post/RaceClickerAutoclick-GLz25")
