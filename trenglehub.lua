@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 22:53:34"
+lastupdate = "GMT +1: 16.04.2023 22:53:37"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18831,3 +18831,5 @@ addscriptexist(9551640993, "Mining Simulator 2 [Chests Serverhop]", "pulled from
 addscriptexist(7799826347, "Sandbox Tycoon [Save Base, Build Floor, Update Build Cost]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sandbox%20Tycoon%20Save%20Base%20Build%20Floor%20Update%20Build%20Cost.lua", "https://rbxscript.com/post/SandboxTycoonSaveBaseBuildFloorUpdateBuildCost-wybA")
 
 addscriptexist(2788229376, "Da Hood [Auto Money Drop Collect]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Da%20Hood%20Auto%20Money%20Drop%20Collect.lua", "https://rbxscript.com/post/DaHoodAutoMoneyDropCollect-zYwE")
+
+addscript(9604622906, "Current Game","Diamond Hood [Auto Shoot - Kill All & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Diamond%20Hood%20Auto%20Shoot%20%20Kill%20All%20%20More.lua", "https://rbxscript.com/post/DiamondHoodAutoShootKillAllMore-aeLU9")
