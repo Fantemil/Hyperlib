@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 21:42:22"
+lastupdate = "GMT +1: 16.04.2023 21:42:27"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -16775,3 +16775,5 @@ addscriptexist(9829869210, "Karate Kick Simulator [Kill All]", "pulled from rbxs
 addscriptexist(6403373529, "Slap Battles [GUI - Kill Aura, Esp & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Slap%20Battles%20GUI%20%20Kill%20Aura%20Esp%20%20More.lua", "https://rbxscript.com/post/SlapBattlesGUIKillAuraEspMore-312y0")
 
 addscriptexist(9143982021, "Sword Battles [GUI - GodMode, Kill Aura]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sword%20Battles%20GUI%20%20GodMode%20Kill%20Aura.lua", "https://rbxscript.com/post/SwordBattlesGUIGodModeKillAura-b6tnw")
+
+addhub("DIZZY HUB [17 Games]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DIZZY%20HUB%20%20Games.lua", "https://rbxscript.com/post/DIZZYHUB17Games-e5yPW")
