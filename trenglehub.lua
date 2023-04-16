@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 21:31:08"
+lastupdate = "GMT +1: 16.04.2023 21:31:12"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -16453,3 +16453,5 @@ addscriptexist(2753915549, "Blox Fruits [AutoFarm and more]", "pulled from rbxsc
 addscript(2396588044, "Current Game","Adopt and Raise [Inf Money]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Adopt%20and%20Raise%20Inf%20Money.lua", "https://rbxscript.com/post/AdoptandRaiseInfMoney-4Y4pB")
 
 addscriptexist(9940051005, "Blox Legends [Auto Collect]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blox%20Legends%20Auto%20Collect.lua", "https://rbxscript.com/post/BloxLegendsAutoCollect-KwAG8")
+
+addscriptexist(7952502098, "Impossible Glass Bridge Obby! [Highlights all incorrect ones]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Impossible%20Glass%20Bridge%20Obby%20Highlights%20all%20incorrect%20ones.lua", "https://rbxscript.com/post/ImpossibleGlassBridgeObbyHighlightsallincorrectones-FI9Fq")
