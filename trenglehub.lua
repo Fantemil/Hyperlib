@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 21:36:03"
+lastupdate = "GMT +1: 16.04.2023 21:36:06"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -16591,3 +16591,5 @@ addscriptexist(7606302010, "YoYo Simulator [Auto Sell, Auto YoYo]", "pulled from
 addscriptexist(5108997584, "Reason 2 Die [Value Increaser]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Reason%20%20Die%20Value%20Increaser.lua", "https://rbxscript.com/post/Reason2DieValueIncreaser-GCWwA")
 
 addscript(3522803956, "Current Game","De Pride Isle Sanatorium [Anticheat bypass]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/De%20Pride%20Isle%20Sanatorium%20Anticheat%20bypass.lua", "https://rbxscript.com/post/DePrideIsleSanatoriumAnticheatbypass-11YZx")
+
+addscriptexist(5901548022, "Try To Die [Change Stat]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Try%20To%20Die%20Change%20Stat.lua", "https://rbxscript.com/post/TryToDieChangeStat-4eCrB")
