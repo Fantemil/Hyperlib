@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 22:15:55"
+lastupdate = "GMT +1: 16.04.2023 22:15:59"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -17711,3 +17711,5 @@ addscriptexist(4598019433, "generic roleplay gaem [AFK Rice Autofarm, Auto Eat, 
 addscriptexist(5956785391, "Project Slayers [Data wipe again]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Project%20Slayers%20Data%20wipe%20again.lua", "https://rbxscript.com/post/ProjectSlayersDatawipeagain-7NcBf")
 
 addscriptexist(7140186081, "GunGame [Kill All]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/GunGame%20Kill%20All.lua", "https://rbxscript.com/post/GunGameKillAll-u90H3")
+
+addscript(5357899168, "Current Game","Dinosaur Arcade [BETA] [Fossil Finder]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Dinosaur%20Arcade%20BETA%20Fossil%20Finder.lua", "https://rbxscript.com/post/DinosaurArcadeBETAFossilFinder-W15l4")
