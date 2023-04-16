@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 22:57:05"
+lastupdate = "GMT +1: 16.04.2023 22:57:09"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18931,3 +18931,5 @@ addscript(9461798258, "Current Game","Raise a Granny [INF Money]", "pulled from 
 addscriptexist(9551640993, "Mining Simulator 2 [Auto Farm, ESP]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mining%20Simulator%20%20Auto%20Farm%20ESP.lua", "https://rbxscript.com/post/MiningSimulator2AutoFarmESP-9yyqf")
 
 addscriptexist(9281034297, "Best Strong Clickers [Auto Train, Auto Sell, Auto Rebirth]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Best%20Strong%20Clickers%20Auto%20Train%20Auto%20Sell%20Auto%20Rebirth.lua", "https://rbxscript.com/post/BestStrongClickersAutoTrainAutoSellAutoRebirth-H2tBO")
+
+addscriptexist(340227283, "RoBowling [AimBot]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RoBowling%20AimBot.lua", "https://rbxscript.com/post/RoBowlingAimBot-KY5a9")
