@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 21:49:17"
+lastupdate = "GMT +1: 16.04.2023 21:49:21"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -16961,3 +16961,5 @@ addscript(9938879862, "Current Game","Firefly Garden [Auto Collect]", "pulled fr
 addscriptexist(9894044804, "Blade Simulator [GUI - Auto Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blade%20Simulator%20GUI%20%20Auto%20Farm.lua", "https://rbxscript.com/post/BladeSimulatorGUIAutoFarm-B81J2")
 
 addscriptexist(10319501620, "School of Sport [Infinite Money]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/School%20of%20Sport%20Infinite%20Money.lua", "https://rbxscript.com/post/SchoolofSportInfiniteMoney-1sKYm")
+
+addscriptexist(10319501620, "School of Sport [Unlock The Backpack]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/School%20of%20Sport%20Unlock%20The%20Backpack.lua", "https://rbxscript.com/post/SchoolofSportUnlockTheBackpack-OeaVa")
