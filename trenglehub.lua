@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 21:25:47"
+lastupdate = "GMT +1: 16.04.2023 21:25:51"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -16301,3 +16301,5 @@ addscriptexist(286090429, "Arsenal [No Recoil]", "pulled from rbxscript.com", "h
 addscript(8705534359, "Current Game","Shopping Cart Simulator! [Inf Money]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Shopping%20Cart%20Simulator%20Inf%20Money.lua", "https://rbxscript.com/post/ShoppingCartSimulatorInfMoney-cqQi3")
 
 addscriptexist(8508161757, "Raise An Albert [Inf Money]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Raise%20An%20Albert%20Inf%20Money.lua", "https://rbxscript.com/post/RaiseAnAlbertInfMoney-VE1f2")
+
+addscript(3199109640, "Current Game","Camping 2 [TP, Walkspeed]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Camping%20%20TP%20Walkspeed.lua", "https://rbxscript.com/post/Camping2TPWalkspeed-pDY3s")
