@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 22:56:08"
+lastupdate = "GMT +1: 16.04.2023 22:56:12"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18903,3 +18903,5 @@ addscript(9388793159, "Current Game","Coruscant Roleplay [Silent AIM]", "pulled 
 addscriptexist(1365404657, "Feather Family [Unlock All Bird - VIB Gamepass]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Feather%20Family%20Unlock%20All%20Bird%20%20VIB%20Gamepass.lua", "https://rbxscript.com/post/FeatherFamilyUnlockAllBirdVIBGamepass-oWNmR")
 
 addscriptexist(1758401491, "Public Bathroom Simulator [Spam Sounds - FE Trolling]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Public%20Bathroom%20Simulator%20Spam%20Sounds%20%20FE%20Trolling.lua", "https://rbxscript.com/post/PublicBathroomSimulatorSpamSoundsFETrolling-2yqGU")
+
+addscriptexist(340227283, "RoBowling [Ball HBE]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RoBowling%20Ball%20HBE.lua", "https://rbxscript.com/post/RoBowlingBallHBE-262Y8")
