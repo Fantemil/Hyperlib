@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 21:27:19"
+lastupdate = "GMT +1: 16.04.2023 21:27:26"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -16343,3 +16343,5 @@ addscriptexist(3101667897, "Legends Of Speed⚡[Auto Farm, Auto Rebirth]", "pull
 addscriptexist(189707, "Natural Disaster Survival.", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Natural%20Disaster%20Survival.lua", "https://rbxscript.com/post/NaturalDisasterSurvival-CG3Cd")
 
 addscript(9940051005, "Current Game","Blox Legends [AutoCollect]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blox%20Legends%20AutoCollect.lua", "https://rbxscript.com/post/BloxLegendsAutoCollect-GKnqX")
+
+addscript(2817130270, "Current Game","Digging Simulator [Inf Bag, Inf Money]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Digging%20Simulator%20Inf%20Bag%20Inf%20Money.lua", "https://rbxscript.com/post/DiggingSimulatorInfBagInfMoney-Y5SBn")
