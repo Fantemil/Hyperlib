@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 22:16:03"
+lastupdate = "GMT +1: 16.04.2023 22:16:06"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -17715,3 +17715,5 @@ addscriptexist(7140186081, "GunGame [Kill All]", "pulled from rbxscript.com", "h
 addscript(5357899168, "Current Game","Dinosaur Arcade [BETA] [Fossil Finder]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Dinosaur%20Arcade%20BETA%20Fossil%20Finder.lua", "https://rbxscript.com/post/DinosaurArcadeBETAFossilFinder-W15l4")
 
 addscriptexist(5104202731, "Southwest Florida Beta [Click Teleport To Cars]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Southwest%20Florida%20Beta%20Click%20Teleport%20To%20Cars.lua", "https://rbxscript.com/post/SouthwestFloridaBetaClickTeleportToCars-HwCJ3")
+
+addscriptexist(263761432, "Horrific Housing [God mode, Destroy Meteor, Kill All}", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Horrific%20Housing%20God%20mode%20Destroy%20Meteor%20Kill%20All.lua", "https://rbxscript.com/post/HorrificHousingGodmodeDestroyMeteorKillAll-BfLn0")
