@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 22:35:23"
+lastupdate = "GMT +1: 16.04.2023 22:35:27"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18289,3 +18289,5 @@ addscriptexist(7261261021, "Raging Seas [Lag Server]", "pulled from rbxscript.co
 addscript(6644653750, "Current Game","Paper.IO [Semi Auto Win]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PaperIO%20Semi%20Auto%20Win.lua", "https://rbxscript.com/post/PaperIOSemiAutoWin-hXCas")
 
 addscriptexist(9017974931, "Valoblox ATOMIC VALOBLOX GUI", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Valoblox%20ATOMIC%20VALOBLOX%20GUI.lua", "https://rbxscript.com/post/ValobloxATOMICVALOBLOXGUI-CLFrv")
+
+addscriptexist(4996049426, "All Star Tower Defense [Star Pass Farm V3]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/All%20Star%20Tower%20Defense%20Star%20Pass%20Farm%20V.lua", "https://rbxscript.com/post/AllStarTowerDefenseStarPassFarmV3-7D8o")
