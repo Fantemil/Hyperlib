@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 22:35:07"
+lastupdate = "GMT +1: 16.04.2023 22:35:10"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18281,3 +18281,5 @@ addscriptexist(920587237, "Adopt Me! [Auto Collect Gru-Egg]", "pulled from rbxsc
 addscriptexist(6938764986, "Airplane Simulator [Auto Tasks]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Airplane%20Simulator%20Auto%20Tasks.lua", "https://rbxscript.com/post/AirplaneSimulatorAutoTasks-vLLvb")
 
 addscriptexist(8596411742, "Barb-Blox Lane [Kill All - Money Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BarbBlox%20Lane%20Kill%20All%20%20Money%20Farm.lua", "https://rbxscript.com/post/BarbBloxLaneKillAllMoneyFarm-HnDl")
+
+addscript(7261261021, "Current Game","Raging Seas [Inf Stamina, Fruit Spawner, Auto Stats]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Raging%20Seas%20Inf%20Stamina%20Fruit%20Spawner%20Auto%20Stats.lua", "https://rbxscript.com/post/RagingSeasInfStaminaFruitSpawnerAutoStats-5dVW")
