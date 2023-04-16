@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 21:45:05"
+lastupdate = "GMT +1: 16.04.2023 21:45:09"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -16843,3 +16843,5 @@ addscriptexist(7378050129, "Kill R63 with DOOM music [Changes the Numbers at All
 addscriptexist(8317588085, "Block Tycoon [Cheaper shop]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Block%20Tycoon%20Cheaper%20shop.lua", "https://rbxscript.com/post/BlockTycoonCheapershop-BJRL5")
 
 addscript(6158075274, "Current Game","CALIBER [Silent AimBot, Esp, GunMod]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CALIBER%20Silent%20AimBot%20Esp%20GunMod.lua", "https://rbxscript.com/post/CALIBERSilentAimBotEspGunMod-5DiEA")
+
+addscriptexist(537413528, "Best Build A Boat For Treasure [Auto Farm, Tp]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Best%20Build%20A%20Boat%20For%20Treasure%20Auto%20Farm%20Tp.lua", "https://rbxscript.com/post/BestBuildABoatForTreasureAutoFarmTp-m3bQt")
