@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 22:46:44"
+lastupdate = "GMT +1: 16.04.2023 22:46:47"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18629,3 +18629,5 @@ addscriptexist(6953291455, "Eating Simulator [Grow Fatness, Auto Rebirth, Safe P
 addscriptexist(155382109, "Survive and Kill the Killers in Area 51 [Give All Guns, WalkSpeed, Anti Afk]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Survive%20and%20Kill%20the%20Killers%20in%20Area%20%20Give%20All%20Guns%20WalkSpeed%20Anti%20Afk.lua", "https://rbxscript.com/post/SurviveandKilltheKillersinArea51GiveAllGunsWalkSpeedAntiAfk-r6O8A")
 
 addscriptexist(5766084948, "SCP: The Red Lake [Hitbox Expand]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SCP%20The%20Red%20Lake%20Hitbox%20Expand.lua", "https://rbxscript.com/post/SCPTheRedLakeHitboxExpand-1SfiL")
+
+addscript(3025990139, "Current Game","Unboxing Simulator [Vip Room, Speed Autoб Collect Quest]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Unboxing%20Simulator%20Vip%20Room%20Speed%20Auto%D0%B1%20Collect%20Quest.lua", "https://rbxscript.com/post/UnboxingSimulatorVipRoomSpeedAuto%D0%B1CollectQuest-k3BPf")
