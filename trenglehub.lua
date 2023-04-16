@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 21:29:53"
+lastupdate = "GMT +1: 16.04.2023 21:29:57"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -16419,3 +16419,5 @@ addscriptexist(2537430692, "Jenga [Sound Vine Boom]", "pulled from rbxscript.com
 addscriptexist(2039118386, "Neighborhood war [Bypasser]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Neighborhood%20war%20Bypasser.lua", "https://rbxscript.com/post/NeighborhoodwarAntiBypass-A8T1B")
 
 addhub("Luna Hub [9 SUPPORTED GAMES]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Luna%20Hub%20%20SUPPORTED%20GAMES.lua", "https://rbxscript.com/post/LunaHub9SUPPORTEDGAMES-qYx3u")
+
+addscriptexist(2772610559, "Farming and Friends [Auto Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Farming%20and%20Friends%20Auto%20Farm.lua", "https://rbxscript.com/post/FarmingandFriendsAutoFarm-iZkJ7")
