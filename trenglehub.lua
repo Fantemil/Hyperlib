@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 21:29:21"
+lastupdate = "GMT +1: 16.04.2023 21:29:27"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -16403,3 +16403,5 @@ addscript(8811271345, "Current Game","Balanced Craftwars Overhaul [Godmode, Auto
 addscriptexist(10347946161, "Rat Washing Tycoon [AutoObby, AutoWash]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Rat%20Washing%20Tycoon%20AutoObby%20AutoWash.lua", "https://rbxscript.com/post/RatWashingTycoonAutoObbyAutoWash-PrElN")
 
 addscriptexist(9611809130, "Crazy Party RPG [AutoFarm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Crazy%20Party%20RPG%20AutoFarm.lua", "https://rbxscript.com/post/CrazyPartyRPGAutoFarm-Yg2ig")
+
+addscriptexist(6447798030, "Funky Friday [AutoPlay, HitChances]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Funky%20Friday%20AutoPlay%20HitChances.lua", "https://rbxscript.com/post/FunkyFridayAutoPlayHitChances-9fnKf")
