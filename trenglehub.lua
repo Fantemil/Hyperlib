@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 22:28:34"
+lastupdate = "GMT +1: 16.04.2023 22:28:38"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18083,3 +18083,5 @@ addscriptexist(9396463375, "Mining Empire [Infinite Coins]", "pulled from rbxscr
 addscriptexist(8884334497, "Mining Clicker Simulator [Auto Clicks & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mining%20Clicker%20Simulator%20Auto%20Clicks%20%20More.lua", "https://rbxscript.com/post/MiningClickerSimulatorAutoClicksMore-Jvfet")
 
 addscriptexist(8232438881, "Thief Simulator [Npc Rob]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Thief%20Simulator%20Npc%20Rob.lua", "https://rbxscript.com/post/ThiefSimulatorNpcRob-ApRUe")
+
+addscriptexist(1730877806, "Grand Piece Online [Fully invisible]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Grand%20Piece%20Online%20Fully%20invisible.lua", "https://rbxscript.com/post/GrandPieceOnlineFullyinvisible-xETJF")
