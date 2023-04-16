@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 21:30:51"
+lastupdate = "GMT +1: 16.04.2023 21:30:55"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -16445,3 +16445,5 @@ addhub("Roblox Universal [FE ScriptHub]", "pulled from rbxscript.com", "https://
 addscriptexist(142823291, "Murder Mystery 2 [ESP]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Murder%20Mystery%20%20ESP.lua", "https://rbxscript.com/post/MurderMystery2ESP-q78tN")
 
 addscript(5379581123, "Current Game","Sword Fight and Flex Your Time [Auto Fight]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sword%20Fight%20and%20Flex%20Your%20Time%20Auto%20Fight.lua", "https://rbxscript.com/post/SwordFightandFlexYourTimeAutoFight-cPXJ8")
+
+addscriptexist(6067244110, "Flood Escape 2 Ultimate [Auto Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Flood%20Escape%20%20Ultimate%20Auto%20Farm.lua", "https://rbxscript.com/post/FloodEscape2UltimateAutoFarm-BCqhP")
