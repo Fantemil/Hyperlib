@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 21:56:16"
+lastupdate = "GMT +1: 16.04.2023 21:56:20"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -17157,3 +17157,5 @@ addscriptexist(6456351776, "Kaiju Paradise v3.1 [Kill Aura]", "pulled from rbxsc
 addscriptexist(1554960397, "Car Dealership Tycoon [Town Hall Event]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Car%20Dealership%20Tycoon%20Town%20Hall%20Event.lua", "https://rbxscript.com/post/CarDealershipTycoonTownHallEvent-NensL")
 
 addhub("Roblox [Argon Hub]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Roblox%20Argon%20Hub.lua", "https://rbxscript.com/post/RobloxArgonHub-Ns5ol")
+
+addscriptexist(8267733039, "Specter 2 [Detect Fingerprints, FullBright, Unlock Third Person]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Specter%20%20Detect%20Fingerprints%20FullBright%20Unlock%20Third%20Person.lua", "https://rbxscript.com/post/Specter2DetectFingerprintsFullBrightUnlockThirdPerson-vKi50")
