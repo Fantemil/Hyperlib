@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 21:48:12"
+lastupdate = "GMT +1: 16.04.2023 21:48:16"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -16933,3 +16933,5 @@ addscriptexist(10386774046, "Legend Magician [Auto Farm & Auto Pickup]", "pulled
 addscriptexist(445664957, "Parkour [GUI - Set Flow, Set Combo]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Parkour%20GUI%20%20Set%20Flow%20Set%20Combo.lua", "https://rbxscript.com/post/ParkourGUISetFlowSetCombo-YnzTK")
 
 addscriptexist(7127407851, "Attack On Titan: Evolution [Instant Spins]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Attack%20On%20Titan%20Evolution%20Instant%20Spins.lua", "https://rbxscript.com/post/AttackOnTitanEvolutionInstantSpins-fiBis")
+
+addscript(4474859677, "Current Game","CITY-17 [Anti Cheat Bypass]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CITY%20Anti%20Cheat%20Bypass.lua", "https://rbxscript.com/post/CITY17AntiCheatBypass-UV67b")
