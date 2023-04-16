@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 22:52:48"
+lastupdate = "GMT +1: 16.04.2023 22:52:52"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18809,3 +18809,5 @@ addscriptexist(70005410, "Blox Hunt [Prop Chams]", "pulled from rbxscript.com", 
 addscriptexist(370731277, "Meep City [Snowball All]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Meep%20City%20Snowball%20All.lua", "https://rbxscript.com/post/MeepCitySnowballAll-BkHkQ")
 
 addscriptexist(5233268561, "A Bizarre Journey [Auto Pickup All Items]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/A%20Bizarre%20Journey%20Auto%20Pickup%20All%20Items.lua", "https://rbxscript.com/post/ABizarreJourneyAutoPickupAllItems-Dp9jK")
+
+addscriptexist(192800, "Work at a Pizza Place [AutoFarm, Become Manager, Teleports]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Work%20at%20a%20Pizza%20Place%20AutoFarm%20Become%20Manager%20Teleports.lua", "https://rbxscript.com/post/WorkataPizzaPlaceAutoFarmBecomeManagerTeleports-J7go0")
