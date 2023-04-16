@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 22:35:54"
+lastupdate = "GMT +1: 16.04.2023 22:35:59"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18305,3 +18305,5 @@ addscript(8656044807, "Current Game","Swinging Simulator [Unlock Every Badge]", 
 addscriptexist(8123652942, "Legend Piece [Kill Aura]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Legend%20Piece%20Kill%20Aura.lua", "https://rbxscript.com/post/LegendPieceKillAura-rVE4I")
 
 addscriptexist(9534337535, "Shrek in the Backrooms [GUI - ESP, Loot Stuff]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Shrek%20in%20the%20Backrooms%20GUI%20%20ESP%20Loot%20Stuff.lua", "https://rbxscript.com/post/ShrekintheBackroomsGUIESPLootStuff-g1yHX")
+
+addscriptexist(301549746, "Counter Blox [Best Custom Skins Changer & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Counter%20Blox%20Best%20Custom%20Skins%20Changer%20%20More.lua", "https://rbxscript.com/post/CounterBloxBestCustomSkinsChangerMore-u9R8")
