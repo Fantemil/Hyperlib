@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 22:36:42"
+lastupdate = "GMT +1: 16.04.2023 22:36:46"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18327,3 +18327,5 @@ addscriptexist(9292879820, "Grass Cutting Simulator [Free Stats and Currency]", 
 addhub("Scum Hub [Mining Simulator 2, Pet Simulator X and many other games]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Scum%20Hub%20Mining%20Simulator%20%20Pet%20Simulator%20X%20and%20many%20other%20games.lua", "https://rbxscript.com/post/ScumHubMiningSimulator2PetSimulatorXandmanyothergames-x9Ouk")
 
 addscript(7211666966, "Current Game","Tower Of Jump [Auto Farm - Server Hop]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tower%20Of%20Jump%20Auto%20Farm%20%20Server%20Hop.lua", "https://rbxscript.com/post/TowerOfJumpAutoFarmServerHop-Ux8xv")
+
+addscriptexist(4459593483, "FORCE [Auto Collect Trinkets]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FORCE%20Auto%20Collect%20Trinkets.lua", "https://rbxscript.com/post/FORCEAutoCollectTrinkets-7KPo")
