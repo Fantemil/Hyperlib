@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 22:55:45"
+lastupdate = "GMT +1: 16.04.2023 22:55:49"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18891,3 +18891,5 @@ addscriptexist(4588604953, "Criminality [Instant Teleport Bypass]", "pulled from
 addscript(9402532903, "Current Game","Diamond Hood, Ruby hood [Auto Shoot & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Diamond%20Hood%20Ruby%20hood%20Auto%20Shoot%20%20More.lua", "https://rbxscript.com/post/DiamondHoodRubyhoodAutoShootMore-zRiC5")
 
 addscriptexist(4540286603, "NORTHWIND [Animal Esp]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NORTHWIND%20Animal%20Esp.lua", "https://rbxscript.com/post/NORTHWIND-UUi")
+
+addscriptexist(142823291, "Murder Mystery 2 [Free Knife VISUALLY]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Murder%20Mystery%20%20Free%20Knife%20VISUALLY.lua", "https://rbxscript.com/post/MurderMystery2FreeKnifeVISUALLY-dNT8F")
