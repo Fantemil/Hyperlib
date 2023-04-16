@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 22:23:31"
+lastupdate = "GMT +1: 16.04.2023 22:23:35"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -17937,3 +17937,5 @@ addscriptexist(9551640993, "Mining Simulator 2 [Auto Fish All Areas]", "pulled f
 addscriptexist(8554378337, "Weapon Fighting Simulator [Auto Farm All Areas & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Weapon%20Fighting%20Simulator%20Auto%20Farm%20All%20Areas%20%20More.lua", "https://rbxscript.com/post/WeaponFightingSimulatorAutoFarmAllAreasMore-IRvFA")
 
 addscript(10057350313, "Current Game","Ore Smelting Tycoon [Auto Claim Tycoon & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ore%20Smelting%20Tycoon%20Auto%20Claim%20Tycoon%20%20More.lua", "https://rbxscript.com/post/OreSmeltingTycoonAutoClaimTycoonMore-K3V58")
+
+addscript(9884452497, "Current Game","Bloodlust [Infinite Money]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Bloodlust%20Infinite%20Money.lua", "https://rbxscript.com/post/BloodlustInfiniteMoney-jnXjw")
