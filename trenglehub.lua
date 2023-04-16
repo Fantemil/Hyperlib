@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 21:53:18"
+lastupdate = "GMT +1: 16.04.2023 21:53:22"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -17079,3 +17079,5 @@ addscriptexist(2377868063, "Strucid [GUI - Aimbot, Triger Bot, Gun Mod]", "pulle
 addscriptexist(7991339063, "Rainbow Friends [GUI - Attempt Tp PickUp All Items]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Rainbow%20Friends%20GUI%20%20Attempt%20Tp%20PickUp%20All%20Items.lua", "https://rbxscript.com/post/RainbowFriendsGUIAttemptTpPickUpAllItems-Unp6q")
 
 addscriptexist(2474168535, "Westbound [AimBot]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Westbound%20AimBot.lua", "https://rbxscript.com/post/WestboundAimBot-bFtRg")
+
+addscriptexist(4639625707, "Oil Warfare Tycoon [Esp & Aimbot]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Oil%20Warfare%20Tycoon%20Esp%20%20Aimbot.lua", "https://rbxscript.com/post/OilWarfareTycoonEspAimbot-FxLc7")
