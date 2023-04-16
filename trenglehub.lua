@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 21:52:10"
+lastupdate = "GMT +1: 16.04.2023 21:52:14"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -17045,3 +17045,5 @@ addscriptexist(9744597824, "Sea Piece [Auto Farm, Auto Stats, Teleport]", "pulle
 addscriptexist(292439477, "Phantom Forces [Silent Aim, Esp, NoRecoil]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Phantom%20Forces%20Silent%20Aim%20Esp%20NoRecoil.lua", "https://rbxscript.com/post/PhantomForcesSilentAimEspNoRecoil-vFZeG")
 
 addscript(1324061305, "Current Game","Flicker [Invisible]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Flicker%20Invisible.lua", "https://rbxscript.com/post/FlickerInvisible-82ACC")
+
+addscriptexist(10322949476, "Limited Jumps [Inf Jumps]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Limited%20Jumps%20Inf%20Jumps.lua", "https://rbxscript.com/post/LimitedJumpsInfJumps-XaEjZ")
