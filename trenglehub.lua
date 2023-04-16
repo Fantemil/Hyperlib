@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 21:38:23"
+lastupdate = "GMT +1: 16.04.2023 21:38:27"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -16661,3 +16661,5 @@ addscriptexist(10378234820, "Mining Simulator 2 Fan-Made [Reset Pass]", "pulled 
 addscriptexist(10378234820, "Mining Simulator 2 Fan-Made [Prime Benefits]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mining%20Simulator%20%20FanMade%20Prime%20Benefits.lua", "https://rbxscript.com/post/MiningSimulator2FanMadePrimeBenefits-qN9ag")
 
 addscriptexist(8585657145, "Anime Hero Simulator [Kill Aura - Grab Coins & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime%20Hero%20Simulator%20Kill%20Aura%20%20Grab%20Coins%20%20More.lua", "https://rbxscript.com/post/AnimeHeroSimulatorKillAuraGrabCoinsMore-g8xb9")
+
+addscript(7127407851, "Current Game","Attack on Titan Evolution [Kill Aura - Max Damage]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Attack%20on%20Titan%20Evolution%20Kill%20Aura%20%20Max%20Damage.lua", "https://rbxscript.com/post/AttackonTitanEvolutionKillAuraMaxDamage-0f2bE")
