@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 22:13:50"
+lastupdate = "GMT +1: 16.04.2023 22:13:53"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -17651,3 +17651,5 @@ addscriptexist(920587237, "Adopt Me! [Spam Vehicles To People + More!]", "pulled
 addscript(9530846958, "Current Game","EPSILON LINEAGE 2 [Infinite Mana & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/EPSILON%20LINEAGE%20%20Infinite%20Mana%20%20More.lua", "https://rbxscript.com/post/EPSILONLINEAGE2InfiniteManaMore-uVDnN")
 
 addscriptexist(537413528, "Build A Boat For Treasure [Auto Farm, Tp to closed places, Anti-afk]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Build%20A%20Boat%20For%20Treasure%20Auto%20Farm%20Tp%20to%20closed%20places%20Antiafk.lua", "https://rbxscript.com/post/BuildABoatForTreasureAutoFarmTptoclosedplacesAntiafk-ebCnR")
+
+addscriptexist(5956785391, "Project Slayer [Auto Spin]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Project%20Slayer%20Auto%20Spin.lua", "https://rbxscript.com/post/ProjectSlayerAutoSpin-rULIz")
