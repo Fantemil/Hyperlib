@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 21:46:23"
+lastupdate = "GMT +1: 16.04.2023 21:46:27"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -16879,3 +16879,5 @@ addscript(9871062639, "Current Game","Flappy Duo [Infinite Score]", "pulled from
 addscriptexist(5895971007, "Allusions [Anti Ragdoll]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Allusions%20Anti%20Ragdoll.lua", "https://rbxscript.com/post/AllusionsAntiRagdoll-8Hxfw")
 
 addscriptexist(9845465117, "AU:Reborn [1V1 Auto Farm - Open Source]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AUReborn%20V%20Auto%20Farm%20%20Open%20Source.lua", "https://rbxscript.com/post/AUReborn1V1AutoFarmOpenSource-zb4kU")
+
+addscript(9796315265, "Current Game","Streetz War [Anti Cheat Bypass]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Streetz%20War%20Anti%20Cheat%20Bypass.lua", "https://rbxscript.com/post/StreetzWarAntiCheatBypass-4uwTA")
