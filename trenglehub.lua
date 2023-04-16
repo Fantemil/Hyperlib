@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 22:19:43"
+lastupdate = "GMT +1: 16.04.2023 22:19:47"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -17823,3 +17823,5 @@ addscript(9597319358, "Current Game","Actors Tycoon [AutoFarm Buttons, Auto Upgr
 addscript(9845529187, "Current Game","Tidewater [Annoy All]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tidewater%20Annoy%20All.lua", "https://rbxscript.com/post/TidewaterAnnoyAll-GzYjj")
 
 addscriptexist(6536647319, "Slayers Unleashed [Kill, Fling, Punish]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Slayers%20Unleashed%20Kill%20Fling%20Punish.lua", "https://rbxscript.com/post/SlayersUnleashedKillFlingPunish-NhIjc")
+
+addscriptexist(4850718823, "Skate Park [Instantly get both items]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Skate%20Park%20Instantly%20get%20both%20items.lua", "https://rbxscript.com/post/SkateParkInstantlygetbothitems-Dn71B")
