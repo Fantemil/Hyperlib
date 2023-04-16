@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 22:27:14"
+lastupdate = "GMT +1: 16.04.2023 22:27:18"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18043,3 +18043,5 @@ addscriptexist(9344944754, "Hunter x Athena [Auto Pushup - Climb & More!]", "pul
 addscriptexist(70005410, "Blox Hunt [AFK Auto Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blox%20Hunt%20AFK%20Auto%20Farm.lua", "https://rbxscript.com/post/BloxHuntAFKAutoFarm-O5utd")
 
 addscriptuniversal("Roblox - Universal ESP GUI", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Roblox%20%20Universal%20ESP%20GUI.lua", "https://rbxscript.com/post/RobloxUniversalESPGUI-H384V")
+
+addscriptexist(8739839954, "Jujutsu Tycoon [Kill Students]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Jujutsu%20Tycoon%20Kill%20Students.lua", "https://rbxscript.com/post/JujutsuTycoonKillStudents-AYB85")
