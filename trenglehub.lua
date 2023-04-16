@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 22:10:10"
+lastupdate = "GMT +1: 16.04.2023 22:10:14"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -17543,3 +17543,5 @@ addscriptexist(10041417653, "Turbo's Murder Mystery 2 [Inf Money]", "pulled from
 addscriptexist(10041417653, "Turbo's Murder Mystery 2 [Infinite Coins]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Turbos%20Murder%20Mystery%20%20Infinite%20Coins.lua", "https://rbxscript.com/post/TurbosMurderMystery2InfiniteCoins-YmZYs")
 
 addscriptexist(5956785391, "Project Slayers [GUI - Auto Farm Rice/Fish & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Project%20Slayers%20GUI%20%20Auto%20Farm%20RiceFish%20%20More.lua", "https://rbxscript.com/post/ProjectSlayersGUIAutoFarmRiceFishMore-VDbaN")
+
+addscriptexist(1730877806, "Grand Piece Online [you can't attack and you can't die]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Grand%20Piece%20Online%20you%20cant%20attack%20and%20you%20cant%20die.lua", "https://rbxscript.com/post/GrandPieceOnlineyoucan-vSY8b")
