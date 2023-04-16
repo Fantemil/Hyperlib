@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 22:28:59"
+lastupdate = "GMT +1: 16.04.2023 22:29:03"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18095,3 +18095,5 @@ addscriptexist(9662949425, "Punch a brick wall simulator [GUI - Infinite Money, 
 addscriptexist(2043040358, "Vyyrahk City [Auto Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Vyyrahk%20City%20Auto%20Farm.lua", "https://rbxscript.com/post/VyyrahkCityAutoFarm-To9IQ")
 
 addscriptexist(9711302332, "Clkicker Heroes [Auto Tap - Auto Evolve And More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Clkicker%20Heroes%20Auto%20Tap%20%20Auto%20Evolve%20And%20More.lua", "https://rbxscript.com/post/ClkickerHeroesAutoTapAutoEvolveAndMore-oVPzE")
+
+addscriptexist(2043040358, "Vyyrahk City [Money]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Vyyrahk%20City%20Money.lua", "https://rbxscript.com/post/VyyrahkCityMoney-LXnwd")
