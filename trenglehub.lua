@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 22:27:06"
+lastupdate = "GMT +1: 16.04.2023 22:27:10"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18039,3 +18039,5 @@ addscriptexist(3346617530, "Freeze & Tag Extreme [Get All - Tag All]", "pulled f
 addscript(4616247820, "Current Game","Journey to the Sun [Collect All Coins]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Journey%20to%20the%20Sun%20Collect%20All%20Coins.lua", "https://rbxscript.com/post/JourneytotheSunCollectAllCoins-NRfb5")
 
 addscriptexist(9344944754, "Hunter x Athena [Auto Pushup - Climb & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Hunter%20x%20Athena%20Auto%20Pushup%20%20Climb%20%20More.lua", "https://rbxscript.com/post/HunterxAthenaAutoPushupClimbMore-OGqBH")
+
+addscriptexist(70005410, "Blox Hunt [AFK Auto Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blox%20Hunt%20AFK%20Auto%20Farm.lua", "https://rbxscript.com/post/BloxHuntAFKAutoFarm-O5utd")
