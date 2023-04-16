@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 22:49:38"
+lastupdate = "GMT +1: 16.04.2023 22:49:41"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18715,3 +18715,5 @@ addscriptexist(9249776514, "Givenchy Beauty House [Finish The Event Quest]", "pu
 addscriptexist(1382113806, "Silent Assassin [Assassin ESP]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Silent%20Assassin%20Assassin%20ESP.lua", "https://rbxscript.com/post/SilentAssassinAssassinESP-GghFB")
 
 addscript(9456941655, "Current Game","PUBG [Kill All]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PUBG%20Kill%20All.lua", "https://rbxscript.com/post/PUBG-Kill-All-cICdH")
+
+addscript(9293082713, "Current Game","Prank Weapon Battles [Kill All]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Prank%20Weapon%20Battles%20Kill%20All.lua", "https://rbxscript.com/post/Prank-Weapon-Battles-Kill-All-6zPhW")
