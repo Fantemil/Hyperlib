@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 22:02:22"
+lastupdate = "GMT +1: 16.04.2023 22:02:26"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -17323,3 +17323,5 @@ addscriptexist(5130598377, "A Universal Time [Meteor Farm - Chest Farm - More!]"
 addscriptexist(5956785391, "Project Slayers [ESP For Everything]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Project%20Slayers%20ESP%20For%20Everything.lua", "https://rbxscript.com/post/ProjectSlayersESPForEverything-Gmdmv")
 
 addscriptexist(8278412720, "CS Prison Life [BETA] [Auto Arrest]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CS%20Prison%20Life%20BETA%20Auto%20Arrest.lua", "https://rbxscript.com/post/CSPrisonLifeBETAAutoArrest-xODjN")
+
+addscriptexist(7952502098, "Impossible Glass Bridge Obby! [Auto Farm Cash]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Impossible%20Glass%20Bridge%20Obby%20Auto%20Farm%20Cash.lua", "https://rbxscript.com/post/ImpossibleGlassBridgeObbyAutoFarmCash-18t13")
