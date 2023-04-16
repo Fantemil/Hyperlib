@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 22:38:01"
+lastupdate = "GMT +1: 16.04.2023 22:38:07"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18367,3 +18367,5 @@ addscriptexist(6441847031, "CHAOS [Kill Player]", "pulled from rbxscript.com", "
 addscript(455366377, "Current Game","The Streets [Large Decals]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/The%20Streets%20Large%20Decals.lua", "https://rbxscript.com/post/TheStreetsLargeDecals-XJqFO")
 
 addscriptexist(2753915549, "Blox Fruits [Auto Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blox%20Fruits%20Auto%20Farm.lua", "https://rbxscript.com/post/BloxFruitsAutoFarm-dVXO")
+
+addscriptexist(35397735, "Scuba Diving at Quill Lake [Inf Money]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Scuba%20Diving%20at%20Quill%20Lake%20Inf%20Money.lua", "https://rbxscript.com/post/ScubaDivingatQuillLakeInfMoney-9p9zj")
