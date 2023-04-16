@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 21:47:16"
+lastupdate = "GMT +1: 16.04.2023 21:47:20"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -16905,3 +16905,5 @@ addscript(1299054666, "Current Game","Fallen 2018 [GUI - The best]", "pulled fro
 addscriptexist(9157605735, "MiscGunTest:X [Infinite Money & More GUI!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MiscGunTestX%20Infinite%20Money%20%20More%20GUI.lua", "https://rbxscript.com/post/MiscGunTestXInfiniteMoneyMoreGUI-pUBnO")
 
 addscriptexist(2727067538, "World // Zero [Kill Aura - Auto Farm & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/World%20%20Zero%20Kill%20Aura%20%20Auto%20Farm%20%20More.lua", "https://rbxscript.com/post/WorldZeroKillAuraAutoFarmMore-vesyU")
+
+addscriptexist(2534724415, "Emergency Response Liberty County [Auto Lockpick]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Emergency%20Response%20Liberty%20County%20Auto%20Lockpick.lua", "https://rbxscript.com/post/EmergencyResponseLibertyCountyAutoLockpick-GvpRp")
