@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 22:06:02"
+lastupdate = "GMT +1: 16.04.2023 22:06:08"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -17427,3 +17427,5 @@ addscript(9603033881, "Current Game","Bid Battles [Auto Queue Auction, Auto Bid,
 addscriptexist(9940051005, "Blox Legends [Infinite Money]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blox%20Legends%20Infinite%20Money.lua", "https://rbxscript.com/post/BloxLegendsInfiniteMoney-ynkYw")
 
 addscriptexist(9940051005, "Blox Legends [Infinite Tokens]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blox%20Legends%20Infinite%20Tokens.lua", "https://rbxscript.com/post/BloxLegendsInfiniteTokens-rITxn")
+
+addscriptexist(606849621, "Jailbreak [No Fall Damage]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Jailbreak%20No%20Fall%20Damage.lua", "https://rbxscript.com/post/JailbreakNoFallDamage-CRBPI")
