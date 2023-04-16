@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 22:18:53"
+lastupdate = "GMT +1: 16.04.2023 22:18:57"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -17799,3 +17799,5 @@ addscript(7491927311, "Current Game","Undertale Test Place Reborn [Alt Detection
 addscriptexist(6938803436, "Anime Dimensions Simulator [Auto Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime%20Dimensions%20Simulator%20Auto%20Farm.lua", "https://rbxscript.com/post/AnimeDimensionsSimulatorAutoFarm-OkpJz")
 
 addscriptexist(2809202155, "Your Bizarre Adventure [God Mode]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Your%20Bizarre%20Adventure%20God%20Mode.lua", "https://rbxscript.com/post/YourBizarreAdventureGodMode-zDN5x")
+
+addscriptexist(2753915549, "Blox Fruits [Unlock Abilyti]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blox%20Fruits%20Unlock%20Abilyti.lua", "https://rbxscript.com/post/BloxFruitsUnlockAbilyti-cE5r5")
