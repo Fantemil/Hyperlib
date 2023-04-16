@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 22:57:09"
+lastupdate = "GMT +1: 16.04.2023 22:57:13"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18933,3 +18933,5 @@ addscriptexist(9551640993, "Mining Simulator 2 [Auto Farm, ESP]", "pulled from r
 addscriptexist(9281034297, "Best Strong Clickers [Auto Train, Auto Sell, Auto Rebirth]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Best%20Strong%20Clickers%20Auto%20Train%20Auto%20Sell%20Auto%20Rebirth.lua", "https://rbxscript.com/post/BestStrongClickersAutoTrainAutoSellAutoRebirth-H2tBO")
 
 addscriptexist(340227283, "RoBowling [AimBot]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RoBowling%20AimBot.lua", "https://rbxscript.com/post/RoBowlingAimBot-KY5a9")
+
+addscriptexist(1240123653, "Zombie Attack [Auto Farm, God Mode, Infinite Jump]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Zombie%20Attack%20Auto%20Farm%20God%20Mode%20Infinite%20Jump.lua", "https://rbxscript.com/post/ZombieAttackAutoFarmGodModeInfiniteJump-0y3ku")
