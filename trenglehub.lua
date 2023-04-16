@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 22:07:20"
+lastupdate = "GMT +1: 16.04.2023 22:07:23"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -17463,3 +17463,5 @@ addscriptexist(205224386, "Hide And Seek Extreme [Collect all coins, SpeedHack e
 addscriptexist(443406476, "Project Lazarus [Auto Farm, Bring Heads, Gun Mod]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Project%20Lazarus%20Auto%20Farm%20Bring%20Heads%20Gun%20Mod.lua", "https://rbxscript.com/post/ProjectLazarusAutoFarmBringHeadsGunMod-25wOC")
 
 addscriptexist(2809202155, "Your Bizarre Adventure [Teleports,AutoFarm etc]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Your%20Bizarre%20Adventure%20TeleportsAutoFarm%20etc.lua", "https://rbxscript.com/post/YourBizarreAdventureTeleportsAutoFarmetc-J5yek")
+
+addscript(6835256242, "Current Game","Pick A Door [AutoWin]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pick%20A%20Door%20AutoWin.lua", "https://rbxscript.com/post/PickADoorAutoWin-Qx0jn")
