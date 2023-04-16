@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 22:02:54"
+lastupdate = "GMT +1: 16.04.2023 22:02:57"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -17337,3 +17337,5 @@ addscriptexist(5201039691, "Tatakai V.2 [Auto Depo, Money Farm]", "pulled from r
 addscriptexist(3686253681, "Planet Simulator [Auto Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Planet%20Simulator%20Auto%20Farm.lua", "https://rbxscript.com/post/PlanetSimulatorAutoFarm-Y4clX")
 
 addscriptexist(6298464951, "Roblox Is Unbreakable [Infinite Arrows]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Roblox%20Is%20Unbreakable%20Infinite%20Arrows.lua", "https://rbxscript.com/post/RobloxIsUnbreakableInfiniteArrows_e734L")
+
+addscriptexist(6298464951, "Roblox Is Unbreakable [Infinite Cash]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Roblox%20Is%20Unbreakable%20Infinite%20Cash.lua", "https://rbxscript.com/post/RobloxIsUnbreakableInfiniteCash_SUz9p")
