@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 21:54:52"
+lastupdate = "GMT +1: 16.04.2023 21:54:56"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -17117,3 +17117,5 @@ addscript(5876616139, "Current Game","Minus Decendance [Helper Script]", "pulled
 addscript(8433116262, "Current Game","Lost Adrift [EA] [Steal Boat]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Lost%20Adrift%20EA%20Steal%20Boat.lua", "https://rbxscript.com/post/LostAdriftEAStealBoat-VxFbb")
 
 addscriptexist(3851622790, "Break In Story [GUI - Auto Hit, Kill All & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Break%20In%20Story%20GUI%20%20Auto%20Hit%20Kill%20All%20%20More.lua", "https://rbxscript.com/post/BreakInStoryGUIAutoHitKillAllMore-QNbQ7")
+
+addscriptexist(7305309231, "Taxi Boss [Auto Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Taxi%20Boss%20Auto%20Farm.lua", "https://rbxscript.com/post/TaxiBossAutoFarm-Uk3CH")
