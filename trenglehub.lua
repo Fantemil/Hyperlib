@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 21:40:53"
+lastupdate = "GMT +1: 16.04.2023 21:40:56"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -16731,3 +16731,5 @@ addscriptexist(286090429, "Arsenal [Auto farm]", "pulled from rbxscript.com", "h
 addscript(2685347741, "Current Game","Ghost Simulator [Auto Farm, Auto Sell]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ghost%20Simulator%20Auto%20Farm%20Auto%20Sell.lua", "https://rbxscript.com/post/GhostSimulatorAutoFarmautosell-lHlXk")
 
 addscriptexist(292439477, "Phantom Forces [ESP, Aimbot]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Phantom%20Forces%20ESP%20Aimbot.lua", "https://rbxscript.com/post/PhantomForcesESPaimbot-mBfrI")
+
+addscript(5201039691, "Current Game","Tatakai V.2 [ESP, Autofarm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tatakai%20V%20ESP%20Autofarm.lua", "https://rbxscript.com/post/TatakaiV2ESPAutofarm-wwlW8")
