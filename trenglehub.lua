@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 21:32:06"
+lastupdate = "GMT +1: 16.04.2023 21:32:10"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -16477,3 +16477,5 @@ addscriptexist(2377868063, "ZONE WAR!! Strucid [Silent Aim, ESP]", "pulled from 
 addscriptexist(2768379856, "SCP 3008 [Water Compatible, Give Items]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SCP%20%20Water%20Compatible%20Give%20Items.lua", "https://rbxscript.com/post/SCP3008WaterCompatibleGiveItems-bLy0Y")
 
 addscriptexist(9585537847, "SHADOVIS RPG [Auto Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SHADOVIS%20RPG%20Auto%20Farm.lua", "https://rbxscript.com/post/SHADOVISRPGAutoFarm-ZnGbA")
+
+addscript(4241242833, "Current Game","Family Paradise [Rainbow Skin, Auto Run]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Family%20Paradise%20Rainbow%20Skin%20Auto%20Run.lua", "https://rbxscript.com/post/FamilyParadiseRainbowSkinAutoRun-Xx5VO")
