@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 22:18:36"
+lastupdate = "GMT +1: 16.04.2023 22:18:40"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -17791,3 +17791,5 @@ addscriptexist(7167319176, "Chicago Remastered [GUI - Money, Teleports & More!]"
 addscriptexist(5910449407, "Project Menacing [GUI - Mob Farm, Stand Farm & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Project%20Menacing%20GUI%20%20Mob%20Farm%20Stand%20Farm%20%20More.lua", "https://rbxscript.com/post/ProjectMenacingGUIMobFarmStandFarmMore-hRKXS")
 
 addhub("GURA HUB [6 Games]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/GURA%20HUB%20%20Games.lua", "https://rbxscript.com/post/GURAHUB6Games-ej7es")
+
+addscriptexist(7899881670, "RB World 4 [Auto Arcade Bot]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RB%20World%20%20Auto%20Arcade%20Bot.lua", "https://rbxscript.com/post/RBWorld4AutoArcadeBot-UAaiX")
