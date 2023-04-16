@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 22:14:08"
+lastupdate = "GMT +1: 16.04.2023 22:14:12"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -17661,3 +17661,5 @@ addscriptexist(5956785391, "Project Slayers [Auto Fast Spin]", "pulled from rbxs
 addscript(4598019433, "Current Game","Generic Roleplay Gaem. [Afk Rice Auto Farm, Name Hide & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Generic%20Roleplay%20Gaem%20Afk%20Rice%20Auto%20Farm%20Name%20Hide%20%20More.lua", "https://rbxscript.com/post/GenericRoleplayGaemAfkRiceAutoFarmNameHideMore-elPkm")
 
 addscriptexist(10118559731, "nico's nextbots [Bot ESP - Player ESP & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/nicos%20nextbots%20Bot%20ESP%20%20Player%20ESP%20%20More.lua", "https://rbxscript.com/post/nicosnextbotsBotESPPlayerESPMore-XaVpi")
+
+addscriptexist(2413927524, "THE RAKE: Kill Edition [Infinite Stamina]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/THE%20RAKE%20Kill%20Edition%20Infinite%20Stamina.lua", "https://rbxscript.com/post/THERAKEKillEditionInfiniteStamina-tdsq2")
