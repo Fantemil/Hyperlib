@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 22:24:51"
+lastupdate = "GMT +1: 16.04.2023 22:24:55"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -17973,3 +17973,5 @@ addscriptexist(4588604953, "Criminality [GUI - Aimbot, Esp & More!]", "pulled fr
 addscript(7253840385, "Current Game","Zombie Survival [God Mode - Gun Mods]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Zombie%20Survival%20God%20Mode%20%20Gun%20Mods.lua", "https://rbxscript.com/post/ZombieSurvivalGodModeGunMods-RFHlL")
 
 addscriptexist(8554378337, "Sword Simulator [Auto Hit]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sword%20Simulator%20Auto%20Hit.lua", "https://rbxscript.com/post/SwordSimulatorAutoHit-4z23c")
+
+addhub("Roblox [Hub by Death]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Roblox%20Hub%20by%20Death.lua", "https://rbxscript.com/post/RobloxHubbyDeath-g7Hm")
