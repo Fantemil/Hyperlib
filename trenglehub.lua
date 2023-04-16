@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 21:36:53"
+lastupdate = "GMT +1: 16.04.2023 21:36:57"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -16617,3 +16617,5 @@ addscript(8571687919, "Current Game","UNOfficial (Uno) [Auto Slap]", "pulled fro
 addscriptexist(3522803956, "De pride isle sanatorium [Inf Energy, Killaura]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/De%20pride%20isle%20sanatorium%20Inf%20Energy%20Killaura.lua", "https://rbxscript.com/post/DeprideislesanatoriumInfEnergyKillaura-yXSC2")
 
 addscriptexist(294790062, "Roblox Titanic [Auto Farm, Walkspeed]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Roblox%20Titanic%20Auto%20Farm%20Walkspeed.lua", "https://rbxscript.com/post/RobloxTitanicAutoFarmWalkspeed-8L74r")
+
+addscriptexist(8204899140, "Football Fusion 2 [Inf Jump]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Football%20Fusion%20%20Inf%20Jump.lua", "https://rbxscript.com/post/FootballFusion2InfJump-iKZiV")
