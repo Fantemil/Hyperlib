@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 21:24:55"
+lastupdate = "GMT +1: 16.04.2023 21:24:59"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -16275,3 +16275,5 @@ addscriptexist(9872472334, "Evade [GodMode, AutoFarm XP]", "pulled from rbxscrip
 addscriptexist(9585537847, "SHADOVIS RPG [Auto Heal]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SHADOVIS%20RPG%20Auto%20Heal.lua", "https://rbxscript.com/post/SHADOVISRPGAutoHeal-zQuyq")
 
 addscript(9243187709, "Current Game","Pedagondia Faunas [Inf Stamina, Auto Eat]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pedagondia%20Faunas%20Inf%20Stamina%20Auto%20Eat.lua", "https://rbxscript.com/post/PedagondiaFaunasInfStaminaAutoEat-OrBon")
+
+addscriptexist(863266079, "Apocalypse Rising 2 [Inf Jump, Aimbot]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Apocalypse%20Rising%20%20Inf%20Jump%20Aimbot.lua", "https://rbxscript.com/post/ApocalypseRising2InfJumpAimbot-Zh21V")
