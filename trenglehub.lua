@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 22:50:12"
+lastupdate = "GMT +1: 16.04.2023 22:50:16"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18733,3 +18733,5 @@ addscriptexist(1224212277, "Mad City [Crazy AutoRob, Server Crasher, Teleports]"
 addscriptexist(606849621, "Jailbreak [Auto Farm, Teleport, Inf Donut]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Jailbreak%20Auto%20Farm%20Teleport%20Inf%20Donut.lua", "https://rbxscript.com/post/JailbreakAutoFarmTeleportInfDonu-6dw9z")
 
 addscriptexist(7056922815, "Reaper 2 [Select Quest, Auto Farm Selected NPC, Auto Selected Quest]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Reaper%20%20Select%20Quest%20Auto%20Farm%20Selected%20NPC%20Auto%20Selected%20Quest.lua", "https://rbxscript.com/post/Reaper2SelectQuestAutoFarm-tmiEf")
+
+addscriptexist(5490351219, "Clicker Madness [Sick Auto Click, Auto Boss, Teleport]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Clicker%20Madness%20Sick%20Auto%20Click%20Auto%20Boss%20Teleport.lua", "https://rbxscript.com/post/ClickerMadnessSickAutoClickAutoBossTeleport-rcgXB")
