@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 21:30:25"
+lastupdate = "GMT +1: 16.04.2023 21:30:29"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -16435,3 +16435,5 @@ addscript(5024793931, "Current Game","Zeppelin Wars [Anti Cheat Bypass]", "pulle
 addscript(9579974235, "Current Game","Find The Floppa Morphs [Collect Floppas]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Find%20The%20Floppa%20Morphs%20Collect%20Floppas.lua", "https://rbxscript.com/post/FindTheFloppaMorphsCollectFloppas-uIGry")
 
 addscriptexist(9285238704, "Race Clicker [Auto Win, Auto Click]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Race%20Clicker%20Auto%20Win%20Auto%20Click.lua", "https://rbxscript.com/post/RaceClickerAutoWinAutoClick-JytJb")
+
+addscriptexist(8737602449, "PLS DONATE [Emotes, Animation]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PLS%20DONATE%20Emotes%20Animation.lua", "https://rbxscript.com/post/PLSDONATEEmotesAnimation-fa5IR")
