@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 22:06:16"
+lastupdate = "GMT +1: 16.04.2023 22:06:22"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -17433,3 +17433,5 @@ addscriptexist(606849621, "Jailbreak [No Fall Damage]", "pulled from rbxscript.c
 addscriptexist(8054462345, "Michael's Zombies [Headshot insta reload]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Michaels%20Zombies%20Headshot%20insta%20reload.lua", "https://rbxscript.com/post/MichaelsZombiesHeadshotinstareload-kqVxB")
 
 addscript(9170761016, "Current Game","Magic Clicker [Auto Click, Click Animation Remove, Auto rebirth]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Magic%20Clicker%20Auto%20Click%20Click%20Animation%20Remove%20Auto%20rebirth.lua", "https://rbxscript.com/post/MagicClickerAutoClickClickAnimationRemoveAutorebirth-O8oNn")
+
+addscriptexist(863266079, "APOC RISER 2 [Inf Jump, Player Esp, Show Health]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/APOC%20RISER%20%20Inf%20Jump%20Player%20Esp%20Show%20Health.lua", "https://rbxscript.com/post/APOCRISER2InfJumpPlayerEspShowHealth-uX5mS")
