@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 21:59:35"
+lastupdate = "GMT +1: 16.04.2023 21:59:38"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -17247,3 +17247,5 @@ addscriptexist(6284583030, "Pet Simulator X [Auto Farm]", "pulled from rbxscript
 addscriptexist(9129288160, "Tommy Play [Collect All Tokens]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tommy%20Play%20Collect%20All%20Tokens.lua", "https://rbxscript.com/post/TommyPlayCollectAllTokens-KhBvJ")
 
 addscript(9702206679, "Current Game","Heroes Daydream [Auto Farm V2]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Heroes%20Daydream%20Auto%20Farm%20V.lua", "https://rbxscript.com/post/HeroesDaydreamAutoFarmV2-jksBJ")
+
+addscriptexist(2474168535, "Westbound [Auto Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Westbound%20Auto%20Farm.lua", "https://rbxscript.com/post/WestboundAutoFarm-7LPxP")
