@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://raw.githubusercontent.com/Ev01Discord/Blunted-X/main/Notoriety'))()

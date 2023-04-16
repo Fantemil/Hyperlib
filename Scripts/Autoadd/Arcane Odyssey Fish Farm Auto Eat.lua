@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Disttt/-Arcane-Odyssey/main/FFA%20GUI.lua",true))()

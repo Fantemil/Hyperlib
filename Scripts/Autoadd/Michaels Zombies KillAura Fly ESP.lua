@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/girlmagnet123/Sutz-MICHEAL-ZOMBIES-/main/source",true))()

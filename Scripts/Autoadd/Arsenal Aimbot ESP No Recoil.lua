@@ -1,1 +1,1 @@
-loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/TR1V5/TR1V5-Software-V4/main/Games/Arsenal", true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/MHD-444/Galaxy-Hub/main/Galaxy-Loader"))()

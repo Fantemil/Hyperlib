@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/VertigoCool99/Script/main/AntSimulator/main.lua"))()

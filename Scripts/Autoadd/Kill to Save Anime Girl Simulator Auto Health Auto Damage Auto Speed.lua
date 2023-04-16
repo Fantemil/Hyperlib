@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://raw.githubusercontent.com/iGerian/Scripts/main/Punch%20Wall%20Simulator.lua'))()

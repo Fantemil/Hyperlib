@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/sinret/rbxscript.com-scripts-reuploads-/main/dh1", true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/lkoza07/LAks-lock/main/LAKS%20LOCK"))()

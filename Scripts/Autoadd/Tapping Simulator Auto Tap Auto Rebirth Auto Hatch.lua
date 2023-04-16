@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://raw.githubusercontent.com/beliveri12/Roblox-Scripts/main/Tapping%20Simulator%20Script'))()

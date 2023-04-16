@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://pastebin.com/raw/pkfpwtnn", true))()
+loadstring(game:HttpGet('https://raw.githubusercontent.com/kooggy/Scripts/main/Happy%20Land.lua'))()

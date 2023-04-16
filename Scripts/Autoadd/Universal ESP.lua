@@ -1,7 +1,29 @@
-local Status, Script = pcall(loadstring(game:HttpGet('https://garfieldscripts.xyz/cheatx/scripts/main.lua'))())
-
-if Status then 
-    loadstring(Script)()
-else 
-    game.Players.LocalPlayer:Kick("\nCould not establish a connection to the server. The server may be down. Join the Discord server at garfieldscripts.xyz/discord (Copy it into your browser) for more info/help")
+for i,v in pairs(game.Players:GetPlayers()) do
+    if v ~= game.Players.LocalPlayer then
+        local function addEsp(character)
+            local newHighlight = Instance.new("Highlight")
+            
+            newHighlight.Parent = character
+        end
+        
+        addEsp(v.Character)
+        
+        v.CharacterAdded:Connect(function(char)
+            addEsp(char)
+        end)
+    end
 end
+
+game.Players.PlayerAdded:Connect(function(v)
+     local function addEsp(character)
+        local newHighlight = Instance.new("Highlight")
+        
+        newHighlight.Parent = character
+    end
+    
+    addEsp(v.Character)
+    
+    v.CharacterAdded:Connect(function(char)
+        addEsp(char)
+    end)
+end)

@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Akiitoshi/AkiiHub/main/AkiiHubMain.lua",true))()

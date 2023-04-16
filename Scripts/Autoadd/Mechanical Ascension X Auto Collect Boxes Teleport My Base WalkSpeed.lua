@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://scripts.luawl.com/17622/DancysMAXHelper.lua'))()

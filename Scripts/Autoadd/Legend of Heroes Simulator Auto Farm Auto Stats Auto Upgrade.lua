@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://raw.githubusercontent.com/ovahpawer/sexyhub/main/Legend%20of%20Heroes%20Simulator'))()

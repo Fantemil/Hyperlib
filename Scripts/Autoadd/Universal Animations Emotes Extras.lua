@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/o5u3/emotesv2/main/v2.1.lua"))()

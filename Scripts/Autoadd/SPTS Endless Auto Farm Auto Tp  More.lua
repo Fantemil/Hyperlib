@@ -1,0 +1,1 @@
+ loadstring(game:HttpGet("https://raw.githubusercontent.com/Yiton223/Spts-Farm-Roblox/main/Script.lua"))()

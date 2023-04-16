@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Blackie-coke/BlackHub/main/Raise%20a%20Pochita",true))()

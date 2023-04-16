@@ -1,12 +1,6 @@
-local RunService = game:GetService("RunService")
-_G.yes = true
-local speedyboi
-function Ez()
-if _G.yes == true then
-game:GetService("ReplicatedStorage").GlobalFunctions.AddPlayerSpeed:FireServer(9e999, 0)
+while wait(0.1) do
+
 game:GetService("ReplicatedStorage").GlobalFunctions.RebirthPlayerCallFromClient:FireServer()
-else
-   speedyboi:Disconnect()
+
+game:GetService("ReplicatedStorage").GlobalFunctions.AddPlayerSpeed:FireServer(99999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999,999999999999999999)
 end
-end
-speedyboi = RunService.Heartbeat:Connect(Ez)

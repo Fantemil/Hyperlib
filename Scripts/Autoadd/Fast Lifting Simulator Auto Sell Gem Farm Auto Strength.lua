@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/iGerian/Scripts/main/Fast%20Lifting%20Simulator"))()

@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/paygammy/aim-assistant/release/scripts/main.lua"))()
+loadstring(game:HttpGet('https://raw.githubusercontent.com/Fatida11/Universal-Aimbot-ESP/main/Universal%20Aimbot-ESP'))()

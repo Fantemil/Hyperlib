@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://raw.githubusercontent.com/DevRavenn/Roblox/main/wildHorseIslands.lua'))()

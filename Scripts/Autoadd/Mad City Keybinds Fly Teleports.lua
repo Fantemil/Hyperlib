@@ -1,0 +1,2 @@
+_G.autoloadmap = true -- set to false if you don't want the map to load. delete the line if you don't want it (autoload when deleted)
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Deni210/madcity/main/Ruby%20Hub%20Chapter%202", true))()

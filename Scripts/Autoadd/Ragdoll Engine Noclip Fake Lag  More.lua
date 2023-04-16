@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/enrabiaa/InfernoHub/main/InfernoHub.lua"))()

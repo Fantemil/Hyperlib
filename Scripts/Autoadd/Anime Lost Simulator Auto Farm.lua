@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/FortniteGamer696/fortnite-hub/d6f4ecbc13ea09e1aaf60c137bbc3ec2c9293afe/loader.lua"))()

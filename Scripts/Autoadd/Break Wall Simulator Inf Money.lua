@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/duccveloper/ducchub/main/scripts/break-wall-sim.lua"))()

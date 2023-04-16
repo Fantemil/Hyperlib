@@ -1,0 +1,1 @@
+loadstring(game:HttpGet(("https://raw.githubusercontent.com/Aidez/arcane_odyssey/main/gui"),true))()

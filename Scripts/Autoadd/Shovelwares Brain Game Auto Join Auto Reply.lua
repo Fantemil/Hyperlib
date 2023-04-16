@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://sleepylucapis.herokuapp.com/shovelware?file=lua"))()

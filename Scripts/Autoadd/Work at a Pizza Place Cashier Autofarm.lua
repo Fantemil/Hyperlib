@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/centerepic/WorkAtAPizzaPlaceAutofarm/main/WAPP_Legitfarmv2.lua"))()

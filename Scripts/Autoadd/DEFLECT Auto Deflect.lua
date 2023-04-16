@@ -1,31 +1,25 @@
-_G.IsToggle = true;
-_G.Distance = 17;
--- Settings definition
+getgenv().Toggle = true
+getgenv().BallDirection = Vector3.new(999999, 999999, 999999)
 
-local player = game:GetService("Players").LocalPlayer;
-local isDeflected = false;
+local plr = game.Players.LocalPlayer
+local ball = false
 
-game:GetService("RunService").Heartbeat:Connect(function()
-   if (not _G.IsToggle) then return end;
-   
-   local ball = workspace:FindFirstChild("Ball");
-   if (not ball) then return end;
-   
-   local character = player.Character;
-   if (not character) then return end;
-   
-   local rootPart = character:FindFirstChild("HumanoidRootPart");
-   if (not rootPart) then return end;
-   
-   local distance = (rootPart.Position - ball.Main.Position).Magnitude;
-   if (distance > _G.Distance) then return end;
+local function getBall()
+while true do game:GetService("RunService").Stepped:Wait()
+if workspace:FindFirstChild("Ball") ~= nil then
+ball = workspace.Ball
+end
+end
+end
 
-   if (not character:FindFirstChild("TargetHighlight")) then
-       isDeflected = false;
-       return;
-   end
-   if (isDeflected) then return end
-   isDeflected = true;
-   
-   mouse1click();
-end);
+task.spawn(getBall)
+
+while Toggle do game:GetService("RunService").Stepped:Wait()
+if (ball and ball:FindFirstChild("Main") and plr.Character ~= nil) then
+local distance = plr:DistanceFromCharacter(ball.Main.Position)
+plr.Character:WaitForChild("HumanoidRootPart").CFrame = CFrame.lookAt(plr.Character.HumanoidRootPart.Position, Vector3.new(ball.Main.Position.X, plr.Character.HumanoidRootPart.Position.Y, ball.Main.Position.Z))
+if (distance <= 17.8) then
+plr.Character:WaitForChild("Deflection").Remote:FireServer("Deflect", BallDirection)
+end
+end
+end

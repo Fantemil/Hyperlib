@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/botbrostopusing/botbrostopusing/main/README.md"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/botbrostopusing/E/main/README.md"))()

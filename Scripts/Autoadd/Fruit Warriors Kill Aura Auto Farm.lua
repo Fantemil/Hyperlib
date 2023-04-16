@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/LioK251/RbScripts/main/fruit_suckers.lua"))()

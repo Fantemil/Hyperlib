@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/ilovesordfactory/shittyautodungeon/main/publictest"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/diepedyt/SFXFREE/main/daddy.lua", true))()

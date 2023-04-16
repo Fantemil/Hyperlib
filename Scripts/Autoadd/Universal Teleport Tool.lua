@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/RegularVynixu/Utilities/main/Teleport%20Tool/Source.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/XNEOFF/TP-TOOL/main/TP-TOOL.txt"))()

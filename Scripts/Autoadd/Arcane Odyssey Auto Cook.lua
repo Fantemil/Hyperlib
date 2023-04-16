@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://raw.githubusercontent.com/4G3s/ChefUI/main/ChefUIv1.lua'))()

