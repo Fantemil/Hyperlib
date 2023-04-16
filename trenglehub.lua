@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 21:44:49"
+lastupdate = "GMT +1: 16.04.2023 21:44:56"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -16837,3 +16837,5 @@ addscriptexist(2534724415, "Emergency Response Liberty County [No Recoil]", "pul
 addscriptexist(6902912928, "GET TO THE TOP! [Unlimited Points]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/GET%20TO%20THE%20TOP%20Unlimited%20Points.lua", "https://rbxscript.com/post/GETTOTHETOPUnlimitedPoints-iqBjd")
 
 addscriptexist(2506738224, "Fallen [Esp]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Fallen%20Esp.lua", "https://rbxscript.com/post/FallenEsp-BdHQe")
+
+addscriptexist(7378050129, "Kill R63 with DOOM music [Changes the Numbers at All]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Kill%20R%20with%20DOOM%20music%20Changes%20the%20Numbers%20at%20All.lua", "https://rbxscript.com/post/KillR63withDOOMmusicChangestheNumbersatAll-ARKPQ")
