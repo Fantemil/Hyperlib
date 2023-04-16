@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 22:18:29"
+lastupdate = "GMT +1: 16.04.2023 22:18:33"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -17787,3 +17787,5 @@ addscriptexist(2098516465, "Roblox High School 2 [Free Ugc Item]", "pulled from 
 addscriptexist(8123652942, "Legend Piece [GUI - Teleports, Esp & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Legend%20Piece%20GUI%20%20Teleports%20Esp%20%20More.lua", "https://rbxscript.com/post/LegendPieceGUITeleportsEspMore-0m74N")
 
 addscriptexist(7167319176, "Chicago Remastered [GUI - Money, Teleports & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Chicago%20Remastered%20GUI%20%20Money%20Teleports%20%20More.lua", "https://rbxscript.com/post/ChicagoRemasteredGUIMoneyTeleportsMore-X2IuQ")
+
+addscriptexist(5910449407, "Project Menacing [GUI - Mob Farm, Stand Farm & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Project%20Menacing%20GUI%20%20Mob%20Farm%20Stand%20Farm%20%20More.lua", "https://rbxscript.com/post/ProjectMenacingGUIMobFarmStandFarmMore-hRKXS")
