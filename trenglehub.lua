@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 22:39:59"
+lastupdate = "GMT +1: 16.04.2023 22:40:03"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18427,3 +18427,5 @@ addscriptexist(6284583030, "Pet Simulator X [Crash Server]", "pulled from rbxscr
 addscript(7839440834, "Current Game","Sea Cleaning Simulator [Modify Boat Speed & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sea%20Cleaning%20Simulator%20Modify%20Boat%20Speed%20%20More.lua", "https://rbxscript.com/post/SeaCleaningSimulatorModifyBoatSpeedMore-ILI1C")
 
 addscriptexist(9609300403, "Jackpot [Auto Case Sell]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Jackpot%20Auto%20Case%20Sell.lua", "https://rbxscript.com/post/JackpotAutoCaseSell-OB7zu")
+
+addscriptexist(6755746130, "Fruit Juice Tycoon Refreshed [Auto Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Fruit%20Juice%20Tycoon%20Refreshed%20Auto%20Farm.lua", "https://rbxscript.com/post/FruitJuiceTycoonRefreshedAutoFarm-dUBCW")
