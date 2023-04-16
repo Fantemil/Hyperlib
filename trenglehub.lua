@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 22:46:32"
+lastupdate = "GMT +1: 16.04.2023 22:46:40"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18625,3 +18625,5 @@ addscriptexist(9677464361, "Basketball Pro Simulator [Perfect Shot, Upgrade Powe
 addscriptexist(4954096313, "Field Trip Z [Donut, Bandage, GodMode]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Field%20Trip%20Z%20Donut%20Bandage%20GodMode.lua", "https://rbxscript.com/post/FieldTripZDonutBandageGodMode-21qn")
 
 addscriptexist(6953291455, "Eating Simulator [Grow Fatness, Auto Rebirth, Safe Place]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Eating%20Simulator%20Grow%20Fatness%20Auto%20Rebirth%20Safe%20Place.lua", "https://rbxscript.com/post/EatingSimulatorGrowFatnessAutoRebirthSafePlace-xyUD1")
+
+addscriptexist(155382109, "Survive and Kill the Killers in Area 51 [Give All Guns, WalkSpeed, Anti Afk]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Survive%20and%20Kill%20the%20Killers%20in%20Area%20%20Give%20All%20Guns%20WalkSpeed%20Anti%20Afk.lua", "https://rbxscript.com/post/SurviveandKilltheKillersinArea51GiveAllGunsWalkSpeedAntiAfk-r6O8A")
