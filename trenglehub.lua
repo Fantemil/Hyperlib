@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 22:48:27"
+lastupdate = "GMT +1: 16.04.2023 22:48:30"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18681,3 +18681,5 @@ addscriptexist(537413528, "Build A Boat For Treasure [Safe Mode]", "pulled from 
 addscriptexist(7560156054, "Clicker Simulator [On Click Toggle egg, GamePass]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Clicker%20Simulator%20On%20Click%20Toggle%20egg%20GamePass.lua", "https://rbxscript.com/post/ClickerSimulatorOnClickToggleeggGamePass-y3NEG")
 
 addscriptexist(3101667897, "Legends Of Speed [Auto Farm Orbs, Auto Farm Hoops, Auto Rebirth]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Legends%20Of%20Speed%20Auto%20Farm%20Orbs%20Auto%20Farm%20Hoops%20Auto%20Rebirth.lua", "https://rbxscript.com/post/LegendsOfSpeedAutoFarmOrbsAutoFarmHoopsAutoRebirth-aOt1")
+
+addscriptexist(8737602449, "PLS DONATE [The inscription on the pole shows]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PLS%20DONATE%20The%20inscription%20on%20the%20pole%20shows.lua", "https://rbxscript.com/post/PLSDONATETheinscriptiononthepoleshows-vh0P")
