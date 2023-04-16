@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 22:25:35"
+lastupdate = "GMT +1: 16.04.2023 22:25:39"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -17995,3 +17995,5 @@ addscriptexist(9976239895, "Gumball Factory Tycoon [Auto Convert Gumballs]", "pu
 addscriptexist(5939428933, "Crewmates! [Kill All]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Crewmates%20Kill%20All.lua", "https://rbxscript.com/post/CrewmatesKillAll-bGlr")
 
 addscriptexist(4746041618, "Steel Titans [ESP]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Steel%20Titans%20ESP.lua", "https://rbxscript.com/post/SteelTitansESP-RVKgv")
+
+addscriptexist(9167501050, "Lightsaber Arena [Kill Aura]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Lightsaber%20Arena%20Kill%20Aura.lua", "https://rbxscript.com/post/LightsaberArenaKillAura-I8wz5")
