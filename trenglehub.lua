@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 22:07:59"
+lastupdate = "GMT +1: 16.04.2023 22:08:03"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -17483,3 +17483,5 @@ addscriptexist(8278412720, "CS Prison Life [Escape From Prison]", "pulled from r
 addscriptexist(8278412720, "CS Prison Life [Kill All]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CS%20Prison%20Life%20Kill%20All.lua", "https://rbxscript.com/post/CSPrisonLifeKillAll-hqzNb")
 
 addscriptexist(8278412720, "CS Prison Life [Silent Aim]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CS%20Prison%20Life%20Silent%20Aim.lua", "https://rbxscript.com/post/CSPrisonLife-0D2DQ")
+
+addscriptexist(92604236, "High School Life [Fe body resizer]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/High%20School%20Life%20Fe%20body%20resizer.lua", "https://rbxscript.com/post/HighSchoolLifeFebodyresizer-WxHm")
