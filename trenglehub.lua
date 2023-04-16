@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 22:29:50"
+lastupdate = "GMT +1: 16.04.2023 22:29:54"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18121,3 +18121,5 @@ addscriptexist(920587237, "Adopt Me [Get All Pets Rideable, Flyable]", "pulled f
 addscriptexist(9551640993, "Mining Simulator 2 GUI", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mining%20Simulator%20%20GUI.lua", "https://rbxscript.com/post/MiningSimulator2GUI-WTs0c")
 
 addscriptexist(7860844204, "Life Sentence [Auto Farm - Auto Collect Points & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Life%20Sentence%20Auto%20Farm%20%20Auto%20Collect%20Points%20%20More.lua", "https://rbxscript.com/post/LifeSentenceAutoFarmAutoCollectPointsMore-2PqK7")
+
+addscriptexist(2413927524, "The RAKE REMASTERED [GUI - No Stamina, Afk Bot & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/The%20RAKE%20REMASTERED%20GUI%20%20No%20Stamina%20Afk%20Bot%20%20More.lua", "https://rbxscript.com/post/TheRAKEREMASTEREDGUINoStaminaAfkBotMore-DdaPi")
