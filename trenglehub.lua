@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 22:55:12"
+lastupdate = "GMT +1: 16.04.2023 22:55:16"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18875,3 +18875,5 @@ addscriptexist(9551640993, "Mining Simulator 2 [Auto Mine - Auto Rebirth & More!
 addscript(1365404657, "Current Game","Feather Family [Change your name into Anything]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Feather%20Family%20Change%20your%20name%20into%20Anything.lua", "https://rbxscript.com/post/FeatherFamilyChangeyournameintoAnything-o3PpV")
 
 addscriptexist(659222129, "Swordburst 2 [Auto Farm, Kill Aura]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Swordburst%20%20Auto%20Farm%20Kill%20Aura.lua", "https://rbxscript.com/post/Swordburst2AutoFarmKillAura-eYNja")
+
+addscriptexist(2202352383, "Super Power Training Simulator [Auto Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Super%20Power%20Training%20Simulator%20Auto%20Farm.lua", "https://rbxscript.com/post/SuperPowerTrainingSimulatorAutoFarm-8vI0z")
