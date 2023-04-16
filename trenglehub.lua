@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 21:34:07"
+lastupdate = "GMT +1: 16.04.2023 21:34:10"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -16535,3 +16535,5 @@ addscript(4172461739, "Current Game","Windsier Hotel [Crash Server]", "pulled fr
 addscriptexist(292439477, "Phantom Forces [No recoil]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Phantom%20Forces%20No%20recoil.lua", "https://rbxscript.com/post/PhantomForcesNorecoil-RI5fx")
 
 addscriptexist(286090429, "Arsenal [ESP, Aimbot]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Arsenal%20ESP%20Aimbot.lua", "https://rbxscript.com/post/ArsenalESPAimbot-Bs5ft")
+
+addscriptexist(9872472334, "Evade [Walkspeed]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Evade%20Walkspeed.lua", "https://rbxscript.com/post/EvadeWalkspeed-mnHr6")
