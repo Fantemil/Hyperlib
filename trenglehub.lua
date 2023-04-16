@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 22:56:26"
+lastupdate = "GMT +1: 16.04.2023 22:56:30"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18913,3 +18913,5 @@ addscriptexist(7799826347, "Sandbox Tycoon [Sandbox Schematics]", "pulled from r
 addscriptexist(9388793159, "Coruscant Roleplay [Silent Aim, Hit Chance, Hit Part, FOV Circle]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Coruscant%20Roleplay%20Silent%20Aim%20Hit%20Chance%20Hit%20Part%20FOV%20Circle.lua", "https://rbxscript.com/post/CoruscantRoleplaySilentAimHitChanceHitPartFOVCircle-ri5HV")
 
 addscriptexist(5965591336, "Soul War [Infinite Boost]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Soul%20War%20Infinite%20Boost.lua", "https://rbxscript.com/post/SoulWarInfiniteBoost-h1V2e")
+
+addscriptexist(263761432, "Horrific Housing [Semi God Mode]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Horrific%20Housing%20Semi%20God%20Mode.lua", "https://rbxscript.com/post/HorrificHousingSemiGodMode-qG4Wu")
