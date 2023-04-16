@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 22:24:41"
+lastupdate = "GMT +1: 16.04.2023 22:24:44"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -17969,3 +17969,5 @@ addscriptexist(7026949294, "Sword Simulator [AutoFarm - Infinite Coins - More!]"
 addscriptexist(9598746251, "Home Run Simulator [Auto Time]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Home%20Run%20Simulator%20Auto%20Time.lua", "https://rbxscript.com/post/HomeRunSimulatorAutoTime-Rkacs")
 
 addscriptexist(4588604953, "Criminality [GUI - Aimbot, Esp & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Criminality%20GUI%20%20Aimbot%20Esp%20%20More.lua", "https://rbxscript.com/post/CriminalityGUIAimbotEspMore-Nnmzn")
+
+addscript(7253840385, "Current Game","Zombie Survival [God Mode - Gun Mods]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Zombie%20Survival%20God%20Mode%20%20Gun%20Mods.lua", "https://rbxscript.com/post/ZombieSurvivalGodModeGunMods-RFHlL")
