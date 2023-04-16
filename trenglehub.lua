@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 21:31:31"
+lastupdate = "GMT +1: 16.04.2023 21:31:41"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -16465,3 +16465,5 @@ addscriptexist(1962086868, "Tower of Hell [God Mode, Inf Jump]", "pulled from rb
 addscriptexist(4410049285, "Driving Simulator [Walkspeed, Rainbow Car]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Driving%20Simulator%20Walkspeed%20Rainbow%20Car.lua", "https://rbxscript.com/post/DrivingSimulatorWalkspeedRainbowCar-xjsg9")
 
 addscriptexist(10524502174, "One Punch Fighters [AutoRankUp, AutoClick]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/One%20Punch%20Fighters%20AutoRankUp%20AutoClick.lua", "https://rbxscript.com/post/OnePunchFightersAutoRankUpAutoClick-tWK6L")
+
+addscriptexist(648362523, "Breaking Point [Dupe]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Breaking%20Point%20Dupe.lua", "https://rbxscript.com/post/BreakingPointDupe-Xf5J6")
