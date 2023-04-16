@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 22:09:50"
+lastupdate = "GMT +1: 16.04.2023 22:09:54"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -17533,3 +17533,5 @@ addscriptexist(8203181639, "Syrian Shenanigans [Slow down the sniper scope]", "p
 addscriptexist(8203181639, "Syrian Shenanigans [Fixing cars/tanks]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Syrian%20Shenanigans%20Fixing%20carstanks.lua", "https://rbxscript.com/post/SyrianShenanigansFixingcarstanks-cx3k0")
 
 addscriptexist(7305309231, "Taxi Boss [Remove NPC cars]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Taxi%20Boss%20Remove%20NPC%20cars.lua", "https://rbxscript.com/post/TaxiBossRemoveNPCcars-4rAjB")
+
+addscriptexist(4566572536, "Vehicle Legends [Car Speed]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Vehicle%20Legends%20Car%20Speed.lua", "https://rbxscript.com/post/VehicleLegendsCarSpeed-QchPv")
