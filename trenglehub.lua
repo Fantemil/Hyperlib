@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 22:24:58"
+lastupdate = "GMT +1: 16.04.2023 22:25:02"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -17977,3 +17977,5 @@ addscriptexist(8554378337, "Sword Simulator [Auto Hit]", "pulled from rbxscript.
 addhub("Roblox [Hub by Death]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Roblox%20Hub%20by%20Death.lua", "https://rbxscript.com/post/RobloxHubbyDeath-g7Hm")
 
 addhub("Immigrant [ESP]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Immigrant%20ESP.lua", "https://rbxscript.com/post/ImmigrantESP-qn8Bf")
+
+addscript(2688038742, "Current Game","Area - Omega [Kill All]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Area%20%20Omega%20Kill%20All.lua", "https://rbxscript.com/post/AreaOmegaKillAll-GTaIi")
