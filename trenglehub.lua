@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 22:47:54"
+lastupdate = "GMT +1: 16.04.2023 22:47:58"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18665,3 +18665,5 @@ addscriptexist(137877687, "RoCitizens [Nametag Color, Cape Texture Speed, Friend
 addscriptexist(1240123653, "Zombie Attack [Auto Farm, Infite Jump, God Mode]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Zombie%20Attack%20Auto%20Farm%20Infite%20Jump%20God%20Mode.lua", "https://rbxscript.com/post/ZombieAttackAutoFarmInfiteJumpGodMode-V1ntS")
 
 addscriptexist(3199109640, "Camping 2 [Get Items, Collect Wood, Get Smore]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Camping%20%20Get%20Items%20Collect%20Wood%20Get%20Smore.lua", "https://rbxscript.com/post/Camping2GetItemsCollectWoodGetSmore-PgExb")
+
+addscriptexist(8146731988, "Ultra Power Tycoon [Give All Weapons]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ultra%20Power%20Tycoon%20Give%20All%20Weapons.lua", "https://rbxscript.com/post/UltraPowerTycoonGiveAllWeapons-DP9mS")
