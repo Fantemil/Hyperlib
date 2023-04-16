@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 22:35:40"
+lastupdate = "GMT +1: 16.04.2023 22:35:44"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18297,3 +18297,5 @@ addscriptexist(654732683, "Car Crusher 2 [GUI - AI Auto Farm]", "pulled from rbx
 addscriptexist(9611595239, "Rift Royale [ESP]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Rift%20Royale%20ESP.lua", "https://rbxscript.com/post/RiftRoyaleESP-t81J7")
 
 addscriptexist(1730877806, "Grand Piece Online [Auto Osu]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Grand%20Piece%20Online%20Auto%20Osu.lua", "https://rbxscript.com/post/GrandPieceOnlineAutoOsu-OAzlj")
+
+addscript(5970745461, "Current Game","Minerblocks [Kill Aura]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Minerblocks%20Kill%20Aura.lua", "https://rbxscript.com/post/MinerblocksKillAura-RgDz")
