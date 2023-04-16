@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 21:56:44"
+lastupdate = "GMT +1: 16.04.2023 21:56:50"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -17171,3 +17171,5 @@ addscript(6242296404, "Current Game","Happy Runner [Auto Finish]", "pulled from 
 addscriptexist(7503115095, "Pop It Trading [Scam script]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pop%20It%20Trading%20Scam%20script.lua", "https://rbxscript.com/post/PopItTradingScamscript-zAh4R")
 
 addscript(333164326, "Current Game","Admin House [CMD AutoCrasher]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Admin%20House%20CMD%20AutoCrasher.lua", "https://rbxscript.com/post/AdminHouseCMDAutoCrasher-iVDwW")
+
+addscriptexist(9926433554, "Blast Mining Simulator [Inf Money]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blast%20Mining%20Simulator%20Inf%20Money.lua", "https://rbxscript.com/post/BlastMiningSimulatorInfMoney-mRAX8")
