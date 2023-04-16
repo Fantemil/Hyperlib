@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 21:37:37"
+lastupdate = "GMT +1: 16.04.2023 21:37:41"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -16639,3 +16639,5 @@ addscriptexist(5602055394, "Hood Modded [Silent Aim, Inf Jump]", "pulled from rb
 addscriptexist(10192063645, "Thy hood [No jump CD, Teleports]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Thy%20hood%20No%20jump%20CD%20Teleports.lua", "https://rbxscript.com/post/ThyhoodNojumpCDTeleports-2EBbz")
 
 addscript(9157870347, "Current Game","Swarm Simulator! [Gamepasses, Auto Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Swarm%20Simulator%20Gamepasses%20Auto%20Farm.lua", "https://rbxscript.com/post/SwarmSimulatorGamepassesAutoFarm-RPhzY")
+
+addscriptexist(4282985734, "Combat Warriors [Silent aim]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Combat%20Warriors%20Silent%20aim.lua", "https://rbxscript.com/post/CombatWarriorsSilentaim-ujiYe")
