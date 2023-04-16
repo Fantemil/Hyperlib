@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 22:43:27"
+lastupdate = "GMT +1: 16.04.2023 22:43:30"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18531,3 +18531,5 @@ addscriptexist(2788229376, "Da Hood [invis, Jumpscare, Scary Music]", "pulled fr
 addscriptexist(6915291292, "Bakery Simulator [Buy Ovens]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Bakery%20Simulator%20Buy%20Ovens.lua", "https://rbxscript.com/post/BakerySimulatorBuyOvens-Yisph")
 
 addscriptexist(4855457388, "Demonfall [GUI - Auto Farm, Auto Collect]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Demonfall%20GUI%20%20Auto%20Farm%20Auto%20Collect.lua", "https://rbxscript.com/post/DemonfallGUIAutoFarmAutoCollect-XodHI")
+
+addscriptexist(6808416928, "Aimblox BETA [Kill All]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Aimblox%20BETA%20Kill%20All.lua", "https://rbxscript.com/post/AimbloxBETAKillAll-6u5lA")
