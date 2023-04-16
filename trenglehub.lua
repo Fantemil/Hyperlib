@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 21:52:18"
+lastupdate = "GMT +1: 16.04.2023 21:52:22"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -17049,3 +17049,5 @@ addscript(1324061305, "Current Game","Flicker [Invisible]", "pulled from rbxscri
 addscriptexist(10322949476, "Limited Jumps [Inf Jumps]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Limited%20Jumps%20Inf%20Jumps.lua", "https://rbxscript.com/post/LimitedJumpsInfJumps-XaEjZ")
 
 addscriptexist(7655745946, "Dunking Simulator [Unlimited boost]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Dunking%20Simulator%20Unlimited%20boost.lua", "https://rbxscript.com/post/DunkingSimulatorUnlimitedboost-ZTds6")
+
+addscriptexist(7655745946, "Dunking Simulator [Free Avatar Items]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Dunking%20Simulator%20Free%20Avatar%20Items.lua", "https://rbxscript.com/post/DunkingSimulatorFreeAvatarItems-kZFfO")
