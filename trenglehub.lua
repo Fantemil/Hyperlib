@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 22:41:30"
+lastupdate = "GMT +1: 16.04.2023 22:41:35"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18475,3 +18475,5 @@ addscriptexist(621129760, "Knife Ability Test [God Mode]", "pulled from rbxscrip
 addscriptexist(5620664339, "RoStreets [Auto Collect]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RoStreets%20Auto%20Collect.lua", "https://rbxscript.com/post/RoStreetsAutoCollect-liwBT")
 
 addscriptexist(292439477, "Phantom Forces [Hinglight Esp,Chams]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Phantom%20Forces%20Hinglight%20EspChams.lua", "https://rbxscript.com/post/PhantomForcesHinglightEspChams-DQXIw")
+
+addscriptexist(6915291292, "Bakery Simulator [Collect ingredients, Fill Ovens, Sell Baked goods]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Bakery%20Simulator%20Collect%20ingredients%20Fill%20Ovens%20Sell%20Baked%20goods.lua", "https://rbxscript.com/post/BakerySimulatorCollectingredientsFillOvensSellBakedgoods-KBiY5")
