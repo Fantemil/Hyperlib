@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Azura-Technology/Azura-Hub/main/mainKey.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Azura-Technology/Azura-Hub/main/mainKey.lua%22))()
