@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 22:45:14"
+lastupdate = "GMT +1: 16.04.2023 22:45:18"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18585,3 +18585,5 @@ addscriptexist(8798268679, "Crossroad Combat [Infinite Money]", "pulled from rbx
 addscriptexist(8750997647, "Tapping Legends [Auto Farm - Auto Egg]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tapping%20Legends%20Auto%20Farm%20%20Auto%20Egg.lua", "https://rbxscript.com/post/TappingLegendsAutoFarmAutoEgg-kytOG")
 
 addscriptexist(6590798593, "Waterloo at home [Kill All]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Waterloo%20at%20home%20Kill%20All.lua", "https://rbxscript.com/post/WaterlooathomeKillAll-fyDkk")
+
+addscript(8605603204, "Current Game","Mecha Simulator [Infinite Levels, Coins & Gems]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mecha%20Simulator%20Infinite%20Levels%20Coins%20%20Gems.lua", "https://rbxscript.com/post/MechaSimulatorInfiniteLevelsCoinsGems-JgC8")
