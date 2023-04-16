@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 21:36:38"
+lastupdate = "GMT +1: 16.04.2023 21:36:42"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -16609,3 +16609,5 @@ addscriptexist(8657766101, "Marvellous Playground [Gamepass]", "pulled from rbxs
 addscriptexist(3956818381, "Ninja Legends [Auto Swing, Auto Sell]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ninja%20Legends%20Auto%20Swing%20Auto%20Sell.lua", "https://rbxscript.com/post/NinjaLegendsAutoSwingAutoSell-S0LIH")
 
 addscriptexist(292439477, "Phantom Forces [Silent Aim, Esp]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Phantom%20Forces%20Silent%20Aim%20Esp.lua", "https://rbxscript.com/post/PhantomForcesSilentAimEsp-Lid0k")
+
+addscript(6068693809, "Current Game","enceladus, but he's real [Break Bot]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/enceladus%20but%20hes%20real%20Break%20Bot.lua", "https://rbxscript.com/post/enceladusbuthesrealBreakBot-Khy5I")
