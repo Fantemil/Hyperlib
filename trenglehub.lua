@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 21:35:00"
+lastupdate = "GMT +1: 16.04.2023 21:35:03"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -16561,3 +16561,5 @@ addscriptexist(537413528, "Build A Boat For Treasure [Auto Farm, Teleport]", "pu
 addscriptexist(189707, "Natural Disaster Survival [No Fall, Gravity]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Natural%20Disaster%20Survival%20No%20Fall%20Gravity.lua", "https://rbxscript.com/post/NaturalDisasterSurvivalNoFallGravity-ebvoc")
 
 addscriptexist(7167319176, "Chicago Remastered [Speed, Jump Power]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Chicago%20Remastered%20Speed%20Jump%20Power.lua", "https://rbxscript.com/post/ChicagoRemasteredSpeedJumpPower-AaP6e")
+
+addscriptexist(2537430692, "Jenga [Auto Win]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Jenga%20Auto%20Win.lua", "https://rbxscript.com/post/JengaAutoWin-G6b0d")
