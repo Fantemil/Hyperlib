@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 22:39:42"
+lastupdate = "GMT +1: 16.04.2023 22:39:46"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18417,3 +18417,5 @@ addscriptexist(9017974931, "Valoblox [Auto Instantly Defuse Bomb]", "pulled from
 addscriptexist(920587237, "Adopt Me [Get All Pets Rideable / Flyable]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Adopt%20Me%20Get%20All%20Pets%20Rideable%20%20Flyable.lua", "https://rbxscript.com/post/AdoptMeGetAllPetsRideableFlyable-DWF6L")
 
 addscript(8185222973, "Current Game","Stanton County, Westlake [Spawn Any Item]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Stanton%20County%20Westlake%20Spawn%20Any%20Item.lua", "https://rbxscript.com/post/StantonCountyWestlakeSpawnAnyItem-9R4F7")
+
+addscriptexist(9017974931, "Valoblox [Silent Aim]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Valoblox%20Silent%20Aim.lua", "https://rbxscript.com/post/ValobloxSilentAim-XIdEw")
