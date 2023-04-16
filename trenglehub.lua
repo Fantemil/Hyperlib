@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 22:05:26"
+lastupdate = "GMT +1: 16.04.2023 22:05:30"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -17409,3 +17409,5 @@ addscript(6273865312, "Current Game","Supernatural Simulator [Auto Sell, Auto Lv
 addscriptexist(1899149341, "Vehicle Tycoon [Collect All Gifts]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Vehicle%20Tycoon%20Collect%20All%20Gifts.lua", "https://rbxscript.com/post/VehicleTycoonCollectAllGifts-4eQCB")
 
 addscript(10191372093, "Current Game","Guillotine Tycoon [Auto Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Guillotine%20Tycoon%20Auto%20Farm.lua", "https://rbxscript.com/post/GuillotineTycoonAutoFarm-PoqBO")
+
+addscriptexist(1224212277, "Mad City [Auto Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mad%20City%20Auto%20Farm.lua", "https://rbxscript.com/post/MadCityAutoFarm-JTtdm")
