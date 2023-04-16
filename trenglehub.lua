@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 21:40:03"
+lastupdate = "GMT +1: 16.04.2023 21:40:06"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -16707,3 +16707,5 @@ addscriptexist(5130598377, "A Universal Time [Auto Farm, Walkspeed]", "pulled fr
 addscriptexist(7026828578, "Speed Simulator [Inf Score]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Speed%20Simulator%20Inf%20Score.lua", "https://rbxscript.com/post/SpeedSimulatorInfScore-yseRG")
 
 addscriptexist(7991339063, "Rainbow Friends [GodMode, AutoWin]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Rainbow%20Friends%20GodMode%20AutoWin.lua", "https://rbxscript.com/post/RainbowFriendsGodModeAutoWin-qKjRF")
+
+addscript(5201688943, "Current Game","Da hood [ESP]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Da%20hood%20ESP.lua", "https://rbxscript.com/post/DahoodESP-6eCwk")
