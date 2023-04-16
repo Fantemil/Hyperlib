@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 21:37:21"
+lastupdate = "GMT +1: 16.04.2023 21:37:26"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -16631,3 +16631,5 @@ addscript(6114972958, "Current Game","Initial D: Touge Legends [Unlock cars, Wal
 addscriptexist(3095204897, "Isle, 9 [ESP, Noclip]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Isle%20%20ESP%20Noclip.lua", "https://rbxscript.com/post/Isle9ESPNoclip-jg5Jo")
 
 addscriptexist(8328351891, "Mega Mansion Tycoon [Auto Collect]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mega%20Mansion%20Tycoon%20Auto%20Collect.lua", "https://rbxscript.com/post/MegaMansionTycoonAutoCollect-JZngD")
+
+addscript(9943374061, "Current Game","Planet Oof [Auto Collect]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Planet%20Oof%20Auto%20Collect.lua", "https://rbxscript.com/post/PlanetOofAutoCollect-QXNL4")
