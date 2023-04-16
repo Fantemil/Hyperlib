@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 21:28:30"
+lastupdate = "GMT +1: 16.04.2023 21:28:34"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -16377,3 +16377,5 @@ addscriptexist(10184360875, "Pet&Fishing Simulator [Inf Money]", "pulled from rb
 addscriptexist(2039118386, "Neighborhood war [Anti Ragdoll, No fall dmg]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Neighborhood%20war%20Anti%20Ragdoll%20No%20fall%20dmg.lua", "https://rbxscript.com/post/NeighborhoodwarAntiRagdollNofalldmg-GYrdl")
 
 addscriptexist(10524502174, "One Punch Fighters [AutoFarm, AutoRank]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/One%20Punch%20Fighters%20AutoFarm%20AutoRank.lua", "https://rbxscript.com/post/OnePunchFightersAutoFarmAutoRank-3RSrQ")
+
+addscriptexist(2753915549, "Blox Fruits [AutoFarm Beli]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blox%20Fruits%20AutoFarm%20Beli.lua", "https://rbxscript.com/post/BloxFruitsAutoFarmBeli-x39N5")
