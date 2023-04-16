@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 21:49:06"
+lastupdate = "GMT +1: 16.04.2023 21:49:12"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -16957,3 +16957,5 @@ addscriptexist(445664957, "Parkour [God mode, Infinite WalkBoost, Infinite Adren
 addscriptexist(7655745946, "Dunking Simulator [Gamepass]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Dunking%20Simulator%20Gamepass.lua", "https://rbxscript.com/post/DunkingSimulatorGamepass-PTEbP")
 
 addscript(9938879862, "Current Game","Firefly Garden [Auto Collect]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Firefly%20Garden%20Auto%20Collect.lua", "https://rbxscript.com/post/FireflyGardenAutoCollect-FiETa")
+
+addscriptexist(9894044804, "Blade Simulator [GUI - Auto Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blade%20Simulator%20GUI%20%20Auto%20Farm.lua", "https://rbxscript.com/post/BladeSimulatorGUIAutoFarm-B81J2")
