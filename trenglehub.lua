@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 21:55:17"
+lastupdate = "GMT +1: 16.04.2023 21:55:21"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -17129,3 +17129,5 @@ addscriptexist(9840387028, "Era Of Althea [GUI - Auto Farm - God Mode & More!]",
 addscriptexist(6298464951, "Roblox Is Unbreakable [Stats Changer GUI]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Roblox%20Is%20Unbreakable%20Stats%20Changer%20GUI.lua", "https://rbxscript.com/post/RobloxIsUnbreakableStatsChangerGUI-jCZLO")
 
 addscriptexist(6298464951, "Roblox Is Unbreakable [Convert Items - Infinite Cash - Infinite Items]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Roblox%20Is%20Unbreakable%20Convert%20Items%20%20Infinite%20Cash%20%20Infinite%20Items.lua", "https://rbxscript.com/post/RobloxIsUnbreakableConvertItemsInfiniteCashInfiniteItems-AEjnk")
+
+addscriptexist(9845465117, "AU:Reborn [Simmit Badge]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AUReborn%20Simmit%20Badge.lua", "https://rbxscript.com/post/AURebornSimmitBadge-cTS85")
