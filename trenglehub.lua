@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 22:52:52"
+lastupdate = "GMT +1: 16.04.2023 22:52:56"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18811,3 +18811,5 @@ addscriptexist(370731277, "Meep City [Snowball All]", "pulled from rbxscript.com
 addscriptexist(5233268561, "A Bizarre Journey [Auto Pickup All Items]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/A%20Bizarre%20Journey%20Auto%20Pickup%20All%20Items.lua", "https://rbxscript.com/post/ABizarreJourneyAutoPickupAllItems-Dp9jK")
 
 addscriptexist(192800, "Work at a Pizza Place [AutoFarm, Become Manager, Teleports]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Work%20at%20a%20Pizza%20Place%20AutoFarm%20Become%20Manager%20Teleports.lua", "https://rbxscript.com/post/WorkataPizzaPlaceAutoFarmBecomeManagerTeleports-J7go0")
+
+addscriptexist(537413528, "Build A Boat For Treasure [Auto Farm GUI]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Build%20A%20Boat%20For%20Treasure%20Auto%20Farm%20GUI.lua", "https://rbxscript.com/post/BuildABoatForTreasureAutoFarmGUI-TaFsQ")
