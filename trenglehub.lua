@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 22:40:16"
+lastupdate = "GMT +1: 16.04.2023 22:40:19"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18435,3 +18435,5 @@ addscriptexist(4195834406, "Dragon Ball Online Generations [Auto Teleport, Kill 
 addscriptexist(606849621, "Jailbreak [Keycard / Unlock doors]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Jailbreak%20Keycard%20%20Unlock%20doors.lua", "https://rbxscript.com/post/JailbreakKeycardUnlockdoors-iFqRd")
 
 addscriptexist(9786213478, "Treat Simulator [Isntant bite]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Treat%20Simulator%20Isntant%20bite.lua", "https://rbxscript.com/post/TreatSimulatorIsntantbite-s6YgH")
+
+addscriptexist(9017974931, "Valoblox [Silent Aim, Kill All, Infinite Ammo]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Valoblox%20Silent%20Aim%20Kill%20All%20Infinite%20Ammo.lua", "https://rbxscript.com/post/ValobloxSilentAimKillAllInfiniteAmmo-utKnm")
