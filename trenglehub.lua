@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 21:34:52"
+lastupdate = "GMT +1: 16.04.2023 21:34:56"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -16557,3 +16557,5 @@ addscriptexist(6403373529, "Slap Battles [Auto Slapples]", "pulled from rbxscrip
 addscriptexist(9585537847, "SHADOVIS RPG [Kill Aura]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SHADOVIS%20RPG%20Kill%20Aura.lua", "https://rbxscript.com/post/SHADOVISRPGKillAura-YiTTF")
 
 addscriptexist(537413528, "Build A Boat For Treasure [Auto Farm, Teleport]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Build%20A%20Boat%20For%20Treasure%20Auto%20Farm%20Teleport.lua", "https://rbxscript.com/post/BuildABoatForTreasureAutoFarmTeleport-RgNGB")
+
+addscriptexist(189707, "Natural Disaster Survival [No Fall, Gravity]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Natural%20Disaster%20Survival%20No%20Fall%20Gravity.lua", "https://rbxscript.com/post/NaturalDisasterSurvivalNoFallGravity-ebvoc")
