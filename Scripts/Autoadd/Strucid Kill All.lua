@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Ev01Discord/CocoHZ/main/CocoH%20v1.01"))()
+loadstring(game:HttpGet('https://raw.githubusercontent.com/Ihaveash0rtnamefordiscord/Releases/main/Chapter1StrucidKillAll'))(' Watermelon ? ')

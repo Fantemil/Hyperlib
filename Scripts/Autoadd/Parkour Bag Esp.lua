@@ -1,2 +1,1 @@
-getgenv().enabled = true
-loadstring(game:HttpGet("https://raw.githubusercontent.com/iK4oS/Parkour-Bag-ESP/master/source.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ItoshiTeruz/scripts/main/SmallEspText", true))()

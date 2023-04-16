@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 19:35:41"
+lastupdate = "GMT +1: 16.04.2023 20:55:30"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -14043,3 +14043,2209 @@ addscriptexist(4282985734, "Combat Warriors: No Ragdoll, Inf Jump, No Cooldown &
 addscriptexist(10861112990, "Anime Artifacts Simulator 2: Insta Kill", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime%20Artifacts%20Simulator%20%20Insta%20Kill.lua", "https://rbxscript.com/post/AnimeArtifactsSimulator2InstaKill-xyjWT")
 
 addscriptexist(10895555747, "Walmart Land: Infinite Tokens, Give Tokens, Auto Point & More!", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Walmart%20Land%20Infinite%20Tokens%20Give%20Tokens%20Auto%20Point%20%20More.lua", "https://rbxscript.com/post/WalmartLandInfiniteTokensGiveTokensAutoPointMore-3iwYT")
+
+addscriptexist(9993529229, "Counter Blox: Remastered | Get Knifes Fast", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Counter%20Blox%20Remastered%20%20Get%20Knifes%20Fast.lua", "https://rbxscript.com/post/CounterBloxRemasteredGetKnifesFast-pCUuo")
+
+addscriptexist(7177496972, "Anime Warriors: Auto Skills, Auto Farming & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime%20Warriors%20Auto%20Skills%20Auto%20Farming%20%20More.lua", "https://rbxscript.com/post/AnimeWarriorsAutoSkillsAutoFarmingMore-ivIJX")
+
+addscript(228181322, "Current Game","Dinosaur Simulator: Infinite Coins", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Dinosaur%20Simulator%20Infinite%20Coins.lua", "https://rbxscript.com/post/DinosaurSimulatorInfiniteCoins-k5iTu")
+
+addscriptexist(228181322, "Dinosaur Simulator: Buy All Dinosaurus", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Dinosaur%20Simulator%20Buy%20All%20Dinosaurus.lua", "https://rbxscript.com/post/DinosaurSimulatorBuyAllDinosaurus-JtDAo")
+
+addscriptexist(10005865562, "Midnight Hours: Monster Esp", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Midnight%20Hours%20Monster%20Esp.lua", "https://rbxscript.com/post/MidnightHoursMonsterEsp-XEa6f")
+
+addscriptexist(10005865562, "Midnight Hours: Items Esp", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Midnight%20Hours%20Items%20Esp.lua", "https://rbxscript.com/post/MidnightHoursItemsEsp-71m2K")
+
+addscriptexist(8659293202, "The Rake Blood Hour Test: Kill Rake,", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/The%20Rake%20Blood%20Hour%20Test%20Kill%20Rake.lua", "https://rbxscript.com/post/TheRakeBloodHourTestKillRake-hfdfF")
+
+addscriptexist(10087074695, "Knife Strife: Loop Kill All, Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Knife%20Strife%20Loop%20Kill%20All%20Auto%20Farm.lua", "https://rbxscript.com/post/KnifeStrifeLoopKillAllAutoFarmMore-Di7FT")
+
+addscriptexist(10631181587, "Stone Miner Simulator 2: Free Battle Pass Egg", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Stone%20Miner%20Simulator%20%20Free%20Battle%20Pass%20Egg.lua", "https://rbxscript.com/post/StoneMinerSimulator2FreeBattlePassEgg-ArtKZ")
+
+addscriptexist(4639625707, "Oil Warfare Tycoon: Gun Mods, Player Mods & More!", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Oil%20Warfare%20Tycoon%20Gun%20Mods%20Player%20Mods%20%20More.lua", "https://rbxscript.com/post/OilWarfareTycoonGunModsPlayerModsMore-GB1iE")
+
+addscript(9763056316, "Current Game","Eastern Front Military War Simulator: Op Guns - No Recoil & Infinite Ammo", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Eastern%20Front%20Military%20War%20Simulator%20Op%20Guns%20%20No%20Recoil%20%20Infinite%20Ammo.lua", "https://rbxscript.com/post/EasternFrontMilitaryWarSimulatorOpGunsNoRecoilInfiniteAmmo-tiPqL")
+
+addscriptexist(621129760, "Knife Ability Test: Kill All", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Knife%20Ability%20Test%20Kill%20All.lua", "https://rbxscript.com/post/KnifeAbilityTestKillAll-W7OUd")
+
+addscript(4983006874, "Current Game","NGU CLICKER SIMULATOR: Auto Clicker, Auto Upgrade, Auto Pet Evolve", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NGU%20CLICKER%20SIMULATOR%20Auto%20Clicker%20Auto%20Upgrade%20Auto%20Pet%20Evolve.lua", "https://rbxscript.com/post/NGUCLICKERSIMULATORAutoClickerAutoUpgradeAutoPetEvolve-F6lj7")
+
+addscript(850917308, "Current Game","Star Wars: Lightsaber Battles II - Teleports, Infinite Stamina, Invisible", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Star%20Wars%20Lightsaber%20Battles%20II%20%20Teleports%20Infinite%20Stamina%20Invisible.lua", "https://rbxscript.com/post/StarWarsLightsaberBattlesIITeleportsInfiniteStaminaInvisibleMore-FImz8")
+
+addscriptexist(2693023319, "Expedition Antarctica: Win, Infinite Money, Enter Standard Plane", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Expedition%20Antarctica%20Win%20Infinite%20Money%20Enter%20Standard%20Plane.lua", "https://rbxscript.com/post/ExpeditionAntarcticaWinInfiniteMoneyEnterStandardPlane-EzkOq")
+
+addscriptexist(9648883891, "Festival Tycoon: Inf Money", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Festival%20Tycoon%20Inf%20Money.lua", "https://rbxscript.com/post/FestivalTycoonInfMoney-OHntN")
+
+addscriptexist(2248408710, "Destruction Simulator: Money Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Destruction%20Simulator%20Money%20Farm.lua", "https://rbxscript.com/post/DestructionSimulatorMoneyFarm-ntB3w")
+
+addscriptexist(5956785391, "Project Slayers: Inf Spin", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Project%20Slayers%20Inf%20Spin.lua", "https://rbxscript.com/post/ProjectSlayersInfSpin-HBg4L")
+
+addscriptexist(10895555747, "Walmart Land: Free Tokens", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Walmart%20Land%20Free%20Tokens.lua", "https://rbxscript.com/post/WalmartLandFreeTokens-Avw7i")
+
+addscript(10615427129, "Current Game","Quadra Clickers: Give All Pets, Auto Clicker", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Quadra%20Clickers%20Give%20All%20Pets%20Auto%20Clicker.lua", "https://rbxscript.com/post/QuadraClickersGiveAllPetsAutoClicker-48UYn")
+
+addscriptexist(2546155523, "RoVille: Taxi driver farm, Auto restock business, Police clerk farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RoVille%20Taxi%20driver%20farm%20Auto%20restock%20business%20Police%20clerk%20farm.lua", "https://rbxscript.com/post/RoVilleTaxidriverfarmAutorestockbusinessPoliceclerkfarm-vpliS")
+
+addscriptexist(537413528, "Arsenal: Silent Aim, Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Arsenal%20Silent%20Aim%20Auto%20Farm.lua", "https://rbxscript.com/post/ArsenalSilentAimAutoFarmMore-B6lkG")
+
+addscriptexist(7305309231, "Taxi Boss: Auto Farm Server Hop", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Taxi%20Boss%20Auto%20Farm%20Server%20Hop.lua", "https://rbxscript.com/post/TaxiBossAutoFarmServerHop-Yppp5")
+
+addscriptexist(7952502098, "Impossible Glass Bridge Obby: Reveal Glass", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Impossible%20Glass%20Bridge%20Obby%20Reveal%20Glass.lua", "https://rbxscript.com/post/ImpossibleGlassBridgeObbyRevealGlass-0LqEA")
+
+addscriptuniversal("Universal Spawn Soldier", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Spawn%20Soldier.lua", "https://rbxscript.com/post/RobloxUniversalScriptSpawnSoldier-z6I9Y")
+
+addscriptuniversal("Universal Better FPS", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Better%20FPS.lua", "https://rbxscript.com/post/RobloxUniversalScriptBetterFPS-NXVWR")
+
+addscriptuniversal("Roblox: Chat bot", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Roblox%20Chat%20bot.lua", "https://rbxscript.com/post/RobloxChatbot-nZkWz")
+
+addscriptexist(4872321990, "Islands: buy pineapple seeds", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Islands%20buy%20pineapple%20seeds.lua", "https://rbxscript.com/post/Islandsbuypineappleseeds-Vd8r6")
+
+addscript(5226151131, "Current Game","Undertale: Multiverse Chaos | Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Undertale%20Multiverse%20Chaos%20%20Auto%20Farm.lua", "https://rbxscript.com/post/UndertaleMultiverseChaosAutoFarm-A3FKi")
+
+addscriptexist(10085978574, "My Little Pony: Visit Maretime Bay | Auto Farm Gems", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/My%20Little%20Pony%20Visit%20Maretime%20Bay%20%20Auto%20Farm%20Gems.lua", "https://rbxscript.com/post/MyLittlePonyVisitMaretimeBayAutoFarmGems-ttDat")
+
+addscriptexist(9872472334, "Evade: Fullbright, Crash Server, Walkspeed", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Evade%20Fullbright%20Crash%20Server%20Walkspeed.lua", "https://rbxscript.com/post/EvadeFullbrightCrashServerWalkspeed-atvOv")
+
+addscriptexist(537413528, "Build A Boat For Treasure: Walkspeed, Auto Farm, Auto Chest", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Build%20A%20Boat%20For%20Treasure%20Walkspeed%20Auto%20Farm%20Auto%20Chest.lua", "https://rbxscript.com/post/BuildABoatForTreasureWalkspeedAutoFarmAutoChest-1bhNx")
+
+addscript(9980179145, "Current Game","Speed Race Clicker: Auto Farm, Auto Rebirth, Auto Eggs", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Speed%20Race%20Clicker%20Auto%20Farm%20Auto%20Rebirth%20Auto%20Eggs.lua", "https://rbxscript.com/post/SpeedRaceClickerAutoFarmAutoRebirthAutoEggs-8fonZ")
+
+addscriptexist(9898710720, "Money Tycoon: Auto Buy, Auto Collect, Walkspeed", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Money%20Tycoon%20Auto%20Buy%20Auto%20Collect%20Walkspeed.lua", "https://rbxscript.com/post/MoneyTycoonAutoBuyAutoCollectWalkspeed-dpyeE")
+
+addscriptexist(3057050847, "Site-76: Auto Farm, Teleport & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Site%20Auto%20Farm%20Teleport%20%20More.lua", "https://rbxscript.com/post/Site76AutoFarmTeleportMore-uua2F")
+
+addscriptexist(6516141723, "DOORS: Auto Skip Level, Instant Interact, Chams", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DOORS%20Auto%20Skip%20Level%20Instant%20Interact%20Chams.lua", "https://rbxscript.com/post/DOORSAutoSkipLevelInstantInteractChams-OSNRv")
+
+addscriptexist(7002808196, "Симулятор падения в канаву: Auto Farm, Badges, Teleport", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/%D0%A1%D0%B8%D0%BC%D1%83%D0%BB%D1%8F%D1%82%D0%BE%D1%80%20%D0%BF%D0%B0%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F%20%D0%B2%20%D0%BA%D0%B0%D0%BD%D0%B0%D0%B2%D1%83%20Auto%20Farm%20Badges%20Teleport.lua", "https://rbxscript.com/post/AutoFarmBadgesTeleport-XvrFX")
+
+addscriptexist(662417684, "LUCKY BLOCKS Battlegrounds: Fly, WalkSpeed, Admin Panel and more", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LUCKY%20BLOCKS%20Battlegrounds%20Fly%20WalkSpeed%20Admin%20Panel%20and%20more.lua", "https://rbxscript.com/post/LUCKYBLOCKSBattlegroundsFlyWalkSpeedAdminPanelandmore-XoLZP")
+
+addscriptexist(6284583030, "Pet Simulator X: Auto Farm Auto Collect, Auto Egg", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pet%20Simulator%20X%20Auto%20Farm%20Auto%20Collect%20Auto%20Egg.lua", "https://rbxscript.com/post/PetSimulatorXAutoFarmAutoCollectAutoEgg-v3RVd")
+
+addscriptexist(9872472334, "Evade: Auto Respawn, Teleports, ESP", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Evade%20Auto%20Respawn%20Teleports%20ESP.lua", "https://rbxscript.com/post/EvadeAutoRespawnTeleportsESP-zt4vH")
+
+addscriptexist(10714365287, "Anime Race Clicker: Auto Farm, Unlock Worlds, AutoHatch", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime%20Race%20Clicker%20Auto%20Farm%20Unlock%20Worlds%20AutoHatch.lua", "https://rbxscript.com/post/AnimeRaceClickerAutoFarmUnlockWorldsAutoHatch-eLXzF")
+
+addscriptexist(9662949425, "Punch a brick wall simulator: Give Bones", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Punch%20a%20brick%20wall%20simulator%20Give%20Bones.lua", "https://rbxscript.com/post/PunchabrickwallsimulatorGiveBones-zw07n")
+
+addscriptexist(8500690972, "NO STOP Obby: Skip All Stages", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NO%20STOP%20Obby%20Skip%20All%20Stages.lua", "https://rbxscript.com/post/NOSTOPObbySkipAllStages-cl3sH")
+
+addscriptexist(10710676163, "SPTS Origin: Auto Respawn, Auto Farm, Teleports", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SPTS%20Origin%20Auto%20Respawn%20Auto%20Farm%20Teleports.lua", "https://rbxscript.com/post/SPTSOriginAutoRespawnAutoFarmTeleports-wvjO1")
+
+addscriptexist(9787091365, "Ninja Storm Simulator: Auto Attack, Walkspeed, Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ninja%20Storm%20Simulator%20Auto%20Attack%20Walkspeed%20Auto%20Farm.lua", "https://rbxscript.com/post/NinjaStormsimulatorAutoAttackWalkspeedAutoFarm-1hubm")
+
+addscriptexist(10439295403, "Anime Champions: Auto Quest, Teleports & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime%20Champions%20Auto%20Quest%20Teleports%20%20More.lua", "https://rbxscript.com/post/AnimeChampionsAutoQuestTeleportsMore-TRqnT")
+
+addscript(10261818242, "Current Game","Donut Factory Tycoon: Auto Sell, Walkspeed, Obby finishes", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Donut%20Factory%20Tycoon%20Auto%20Sell%20Walkspeed%20Obby%20finishes.lua", "https://rbxscript.com/post/DonutFactoryTycoonAutoSellWalkspeedObbyfinishes-tcjHF")
+
+addscriptexist(10615427129, "Quadra Clickers: Free Light Spear Pet", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Quadra%20Clickers%20Free%20Light%20Spear%20Pet.lua", "https://rbxscript.com/post/QuadraClickersFreeLightSpearPet-gwVsp")
+
+addscriptexist(9993529229, "Counter Blox Remastered: Inf Open Cases", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Counter%20Blox%20Remastered%20Inf%20Open%20Cases.lua", "https://rbxscript.com/post/CounterBloxRemasteredInfOpenCases-eJEQe")
+
+addscriptexist(9993529229, "Counter Blox Remastered: Inf Open Any Case", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Counter%20Blox%20Remastered%20Inf%20Open%20Any%20Case.lua", "https://rbxscript.com/post/CounterBloxRemasteredInfOpenAnyCase-LZZKb")
+
+addscriptexist(9845465117, "AU:Reborn: Walkspeed, Farm Player, Noclip", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AUReborn%20Walkspeed%20Farm%20Player%20Noclip.lua", "https://rbxscript.com/post/AURebornWalkspeedFarmPlayerNoclip-9Xmee")
+
+addscriptexist(6516141723, "DOORS: Esp, Key Aura, Speed", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DOORS%20Esp%20Key%20Aura%20Speed.lua", "https://rbxscript.com/post/DOORSEspKeyAuraSpeed-4hPUd")
+
+addscriptexist(10085978574, "My Little Pony Visit Maretime Bay: Quest Farm, Collect All Items, Get Sparky Shoulder Pet", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/My%20Little%20Pony%20Visit%20Maretime%20Bay%20Quest%20Farm%20Collect%20All%20Items%20Get%20Sparky%20Shoulder%20Pet.lua", "https://rbxscript.com/post/MyLittlePonyVisitMaretimeBayQuestFarmCollectAllItemsGetSparkyShoulderPet-YqLHv")
+
+addscriptexist(8232438881, "Thief Simulator: Auto Farm Npc, Buy Tools & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Thief%20Simulator%20Auto%20Farm%20Npc%20Buy%20Tools%20%20More.lua", "https://rbxscript.com/post/ThiefSimulatorAutoFarmNpcBuyToolsMore-XlktL")
+
+addscriptexist(2788229376, "Da Hood: Silent Aim, AimLock", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Da%20Hood%20Silent%20Aim%20AimLock.lua", "https://rbxscript.com/post/DaHoodSilentAimAimLockMore-9XgH7")
+
+addscriptexist(6536647319, "Slayers Unleashed: Unlock All, Executor", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Slayers%20Unleashed%20Unlock%20All%20Executor.lua", "https://rbxscript.com/post/SlayersUnleashedUnlockAllExecutor-1x7J8")
+
+addscriptexist(9649680488, "Backrooms Race Clicker: Auto Farm Wins", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Backrooms%20Race%20Clicker%20Auto%20Farm%20Wins.lua", "https://rbxscript.com/post/BackroomsRaceClickerAutoFarmWins-w3hdj")
+
+addscriptuniversal("Universal Chat Hax", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Chat%20Hax.lua", "https://rbxscript.com/post/UniversalChatHax-cXNGB")
+
+addscriptexist(6441847031, "CHAOS: Give Tools", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CHAOS%20Give%20Tools.lua", "https://rbxscript.com/post/CHAOSGiveTools-AYc7d")
+
+addscriptexist(9872472334, "Evade: Money Fark, Afk Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Evade%20Money%20Fark%20Afk%20Farm.lua", "https://rbxscript.com/post/EvadeMoneyFarkAfkFarmMore-JYhVp")
+
+addscriptexist(6441847031, "CHAOS: Unlock All Gamepass, Dupe Weapons, Walkspeed", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CHAOS%20Unlock%20All%20Gamepass%20Dupe%20Weapons%20Walkspeed.lua", "https://rbxscript.com/post/CHAOSUnlockAllGamepassDupeWeaponsWalkspeed-4TCBd")
+
+addscript(7140186081, "Current Game","GunGame: Forcefield", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/GunGame%20Forcefield.lua", "https://rbxscript.com/post/GunGameForcefield-HBqwY")
+
+addscriptexist(10085978574, "My Little Pony: Visit Maretime Bay: Get Mascot Shoulder instantly", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/My%20Little%20Pony%20Visit%20Maretime%20Bay%20Get%20Mascot%20Shoulder%20instantly.lua", "https://rbxscript.com/post/MyLittlePonyVisitMaretimeBayGetMascotShoulderinstantly-QGGTb")
+
+addscriptexist(10895555747, "Walmart Land: Get tokens, Fling People, Rejoin", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Walmart%20Land%20Get%20tokens%20Fling%20People%20Rejoin.lua", "https://rbxscript.com/post/WalmartLandGettokensFlingPeopleRejoin-pIrTi")
+
+addscriptexist(7177496972, "Anime Warriors: Auto Farm, Auto Skills, Auto Replay", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime%20Warriors%20Auto%20Farm%20Auto%20Skills%20Auto%20Replay.lua", "https://rbxscript.com/post/AnimeWarriorsAutoFarmAutoSkillsAutoReplay-73Xwx")
+
+addscriptuniversal("Universal GUI: Very smooth animations", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20GUI%20Very%20smooth%20animations.lua", "https://rbxscript.com/post/UniversalGUIVerysmoothanimations-6Fq8P")
+
+addscriptexist(10895555747, "Walmart Land: Infinite Tokens Methond 1", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Walmart%20Land%20Infinite%20Tokens%20Methond%20.lua", "https://rbxscript.com/post/WalmartLandInfiniteTokensMethond1-3Y9mh")
+
+addscriptexist(6403373529, "Slap Battles: Slap Aura, Slap Aura Range, KillStreak Glove", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Slap%20Battles%20Slap%20Aura%20Slap%20Aura%20Range%20KillStreak%20Glove.lua", "https://rbxscript.com/post/SlapBattlesSlapAuraSlapAuraRangeKillStreakGlove-RfAXo")
+
+addscriptexist(10904953319, "Race Car Clickers: Auto Hatch, Auto Farm, Auto Click", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Race%20Car%20Clickers%20Auto%20Hatch%20Auto%20Farm%20Auto%20Click.lua", "https://rbxscript.com/post/RaceCarClickersAutoHatchAutoFarmAutoClick-fzirC")
+
+addscriptexist(192800, "Work at a Pizza Place: Auto Farm, Get All Chest, Admin Scripts", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Work%20at%20a%20Pizza%20Place%20Auto%20Farm%20Get%20All%20Chest%20Admin%20Scripts.lua", "https://rbxscript.com/post/WorkataPizzaPlaceAutoFarmGetAllChestAdminScripts-irgov")
+
+addscript(4240267866, "Current Game","WWE 2K22 Roblox Wrestling: AntiCheat Bypass", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/WWE%20K%20Roblox%20Wrestling%20AntiCheat%20Bypass.lua", "https://rbxscript.com/post/WWE2K22RobloxWrestlingAntiCheatBypass-dmA7j")
+
+addscriptexist(10631181587, "Stone Miner Simulator 2: Infinity Battle Pass", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Stone%20Miner%20Simulator%20%20Infinity%20Battle%20Pass.lua", "https://rbxscript.com/post/StoneMinerSimulator2InfinityBattlePass-6AJST")
+
+addscriptexist(5130598377, "A Universal Time: Auto Farm NPCs, Auto Farm Chest, Auto Farm Shards", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/A%20Universal%20Time%20Auto%20Farm%20NPCs%20Auto%20Farm%20Chest%20Auto%20Farm%20Shards.lua", "https://rbxscript.com/post/AUniversalTimeAutoFarmNPCsAutoFarmChestAutoFarmShards-68fB8")
+
+addscriptexist(4282985734, "Combat Warriors: Anti Afk, Infinity Jump, Infinity Stamina", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Combat%20Warriors%20Anti%20Afk%20Infinity%20Jump%20Infinity%20Stamina.lua", "https://rbxscript.com/post/CombatWarriorsAntiAfkInfinityJumpInfinityStamina-PSAqL")
+
+addscriptexist(6198225400, "Legends Re Written: Auto Farm Selected Mob, Auto Attack, Auto Farm Speed", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Legends%20Re%20Written%20Auto%20Farm%20Selected%20Mob%20Auto%20Attack%20Auto%20Farm%20Speed.lua", "https://rbxscript.com/post/LegendsReWrittenAutoFarmSelectedMobAutoAttackAutoFarmSpeed-itXPO")
+
+addscriptexist(10615427129, "Quadra Clickers: Fast auto clicker", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Quadra%20Clickers%20Fast%20auto%20clicker.lua", "https://rbxscript.com/post/QuadraClickersFastautoclicker-vyAD7")
+
+addscript(9141579304, "Current Game","Strength Simulator 2: Auto Strenght", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Strength%20Simulator%20%20Auto%20Strenght.lua", "https://rbxscript.com/post/StrengthSimulator2AutoStrenght-feEoQ")
+
+addscriptexist(6872265039, "BedWars: Kill Aura, Auto Scaffold & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BedWars%20Kill%20Aura%20Auto%20Scaffold%20%20More.lua", "https://rbxscript.com/post/BedWarsKillAuraAutoScaffoldMore-PKzn7")
+
+addscriptexist(3260590327, "Tower Defense Simulator: Gems Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tower%20Defense%20Simulator%20Gems%20Auto%20Farm.lua", "https://rbxscript.com/post/TowerDefenseSimulatorGemsAutoFarm-estBA")
+
+addscriptexist(2788229376, "Da Hood: Auto Farm, Teleports & more", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Da%20Hood%20Auto%20Farm%20Teleports%20%20more.lua", "https://rbxscript.com/post/DaHoodAutoFarmTeleportsmore-CqXXd")
+
+addscriptexist(155615604, "Prison Life: Kill Selected Player", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Prison%20Life%20Kill%20Selected%20Player.lua", "https://rbxscript.com/post/PrisonLifeKillSelectedPlayer-D2Xam")
+
+addscriptexist(6172932937, "Energy Assault: Wallbang", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Energy%20Assault%20Wallbang.lua", "https://rbxscript.com/post/EnergyAssaultWallbang-QeVRd")
+
+addscriptexist(2727067538, "World // Zero: Kill Aura, Auto Farm, No Clip & More!", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/World%20%20Zero%20Kill%20Aura%20Auto%20Farm%20No%20Clip%20%20More.lua", "https://rbxscript.com/post/WorldZeroKillAuraAutoFarmNoClipMore-sknSV")
+
+addscriptexist(9524757503, "iHeartLand Music Tycoon: Free Avatar Item", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/iHeartLand%20Music%20Tycoon%20Free%20Avatar%20Item.lua", "https://rbxscript.com/post/iHeartLandMusicTycoonFreeAvatarItem-rU4rg")
+
+addscriptexist(9144187696, "A Piece: Infinite Stats, Infinite Spin & More!", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/A%20Piece%20Infinite%20Stats%20Infinite%20Spin%20%20More.lua", "https://rbxscript.com/post/APieceInfiniteStatsInfiniteSpinMore-fPLF7")
+
+addscript(10107516163, "Current Game","REALISTIC HOOD MODDED (ACS): Op Guns", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/REALISTIC%20HOOD%20MODDED%20ACS%20Op%20Guns.lua", "https://rbxscript.com/post/REALISTICHOODMODDEDACSOpGuns-XTWx2")
+
+addscriptexist(5956785391, "Project Slayers: Spam Dash Effect", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Project%20Slayers%20Spam%20Dash%20Effect.lua", "https://rbxscript.com/post/ProjectSlayersSpamDashEffect-4D7UY")
+
+addscriptexist(6741970382, "Zombie lab: Inf Ammo, Fire Rate, Get Minigun", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Zombie%20lab%20Inf%20Ammo%20Fire%20Rate%20Get%20Minigun.lua", "https://rbxscript.com/post/ZombielabInfAmmoFireRateGetMinigun-QCXe0")
+
+addscriptuniversal("Universal Fly, Walkspeed", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Fly%20Walkspeed.lua", "https://rbxscript.com/post/UniversalFlyWalkspeed-7vOs2")
+
+addscriptexist(2039118386, "Neighborhood war: Silent Aim", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Neighborhood%20war%20Silent%20Aim.lua", "https://rbxscript.com/post/NeighborhoodwarSilentAim-qslqO")
+
+addscriptexist(1224212277, "Mad City Chapter 2: Kill All", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mad%20City%20Chapter%20%20Kill%20All.lua", "https://rbxscript.com/post/MadCityChapter2KillAll-QdZGs")
+
+addscriptexist(7140186081, "GunGame: Forcefield, Waterwalker", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/GunGame%20Forcefield%20Waterwalker.lua", "https://rbxscript.com/post/GunGameForcefieldWaterwalker-Jd8FE")
+
+addscriptexist(9992339729, "Longest Answer Wins: Auto Answer, Walkspeed", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Longest%20Answer%20Wins%20Auto%20Answer%20Walkspeed.lua", "https://rbxscript.com/post/LongestAnswerWinsAutoAnswerWalkspeedmore-Gsw8V")
+
+addscriptexist(5956785391, "Project Slayers: Unparty All", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Project%20Slayers%20Unparty%20All.lua", "https://rbxscript.com/post/ProjectSlayersUnpartyAll-GS6sZ")
+
+addscriptuniversal("Universal Walkspeed Spoofer", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Walkspeed%20Spoofer.lua", "https://rbxscript.com/post/UniversalWalkspeedSpoofer-hoza0")
+
+addscriptexist(8447279898, "The Pointless Printer Game v1.2.8: Infinite Money", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/The%20Pointless%20Printer%20Game%20v%20Infinite%20Money.lua", "https://rbxscript.com/post/ThePointlessPrinterGamev128InfiniteMoney-hHI3X")
+
+addscript(9955279341, "Current Game","Infinity Sea 2: Infinite Spins", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Infinity%20Sea%20%20Infinite%20Spins.lua", "https://rbxscript.com/post/InfinitySea2InfiniteSpins-sZo9Z")
+
+addscriptexist(2727067538, "Era of Althea: Kill Ara, Esp, God mode", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Era%20of%20Althea%20Kill%20Ara%20Esp%20God%20mode.lua", "https://rbxscript.com/post/EraofAltheaKillAraEspGodmode-gONNJ")
+
+addscriptexist(10675066724, "Slime Tower Tycoon: Collect All Drop, Auto Sell", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Slime%20Tower%20Tycoon%20Collect%20All%20Drop%20Auto%20Sell.lua", "https://rbxscript.com/post/SlimeTowerTycoonCollectAllDropAutoSellMore-FW39p")
+
+addscriptexist(1224212277, "Mad City Chapter 2: Kill All v2", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mad%20City%20Chapter%20%20Kill%20All%20v.lua", "https://rbxscript.com/post/MadCityChapter2KillAllv2-YEJaZ")
+
+addscriptexist(9872472334, "Evade: Monster Esp", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Evade%20Monster%20Esp.lua", "https://rbxscript.com/post/EvadeMonsterEsp-bYiWV")
+
+addscriptexist(9554750143, "Pet Fighting Simulator: Infinite Wheel Spins", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pet%20Fighting%20Simulator%20Infinite%20Wheel%20Spins.lua", "https://rbxscript.com/post/PetFightingSimulatorInfiniteWheelSpins-8auou")
+
+addscriptexist(9992339729, "Longest Answer: Wins Auto Player", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Longest%20Answer%20Wins%20Auto%20Player.lua", "https://rbxscript.com/post/LongestAnswerWinsAutoPlayerMore-ZAcuC")
+
+addscript(9585537847, "Current Game","SHADOVIS RPG: Auto Rebirth, Auto Raid & more", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SHADOVIS%20RPG%20Auto%20Rebirth%20Auto%20Raid%20%20more.lua", "https://rbxscript.com/post/SHADOVISRPGAutoRebirthAutoRaidmore-JGlqU")
+
+addscript(4809447488, "Current Game","Venture Tale: Auto Start, Kill Aura, Tp & more", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Venture%20Tale%20Auto%20Start%20Kill%20Aura%20Tp%20%20more.lua", "https://rbxscript.com/post/VentureTaleAutoStartKillAuraTpmore-7fdlW")
+
+addscriptexist(9144187696, "A Piece: Free Skill Point & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/A%20Piece%20Free%20Skill%20Point%20%20More.lua", "https://rbxscript.com/post/APieceFreeSkillPointMore-DHAoW")
+
+addscriptexist(5956785391, "Project Slayers: Infinite Spin, Auto Spin", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Project%20Slayers%20Infinite%20Spin%20Auto%20Spin.lua", "https://rbxscript.com/post/ProjectSlayersInfiniteSpinAutoSpin-OePJB")
+
+addscriptexist(4639625707, "Oil Warfare Tycoon: Gun Mods, Esp, Infinite Ammo & More!", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Oil%20Warfare%20Tycoon%20Gun%20Mods%20Esp%20Infinite%20Ammo%20%20More.lua", "https://rbxscript.com/post/OilWarfareTycoonGunModsEspInfiniteAmmoMore-aUaL8")
+
+addscriptuniversal("Universal Esp", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Esp.lua", "https://rbxscript.com/post/UniversalEsp-GoOxN")
+
+addscriptexist(4581966615, "Anomic: FOV, One Shot", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anomic%20FOV%20One%20Shot.lua", "https://rbxscript.com/post/AnomicFOVOneShot-B0aaH")
+
+addscriptexist(286090429, "Arsenal: Jump Power", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Arsenal%20Jump%20Power.lua", "https://rbxscript.com/post/ArsenalJumpPower-1jtoG")
+
+addscript(8674186618, "Current Game","Crate Opening Incremental: Noclip, Btools, Auto Open", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Crate%20Opening%20Incremental%20Noclip%20Btools%20Auto%20Open.lua", "https://rbxscript.com/post/CrateOpeningIncrementalNoclipBtoolsAutoOpen-xrulA")
+
+addscriptexist(4793176968, "Mano County Police Patrol: Delete Map", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mano%20County%20Police%20Patrol%20Delete%20Map.lua", "https://rbxscript.com/post/ManoCountyPolicePatrolDeleteMap-Rwv3q")
+
+addscriptexist(9103460924, "Sword Factory X: Auto Dungeon, Buy Boosts Fast, WebHook", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sword%20Factory%20X%20Auto%20Dungeon%20Buy%20Boosts%20Fast%20WebHook.lua", "https://rbxscript.com/post/SwordFactoryXAutoDungeonBuyBoostsFastWebHook-dr7nz")
+
+addscriptexist(286090429, "Arsenal: Wall Bang", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Arsenal%20Wall%20Bang.lua", "https://rbxscript.com/post/ArsenalWallBang-7PCkv")
+
+addscript(8511615377, "Current Game","Panik: Bot Esp, Infinity Jump, Hip Height", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Panik%20Bot%20Esp%20Infinity%20Jump%20Hip%20Height.lua", "https://rbxscript.com/post/PanikBotEspInfinityJumpHipHeight-ZCZrw")
+
+addscriptexist(155615604, "Prison Life: Kill Players", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Prison%20Life%20Kill%20Players.lua", "https://rbxscript.com/post/PrisonLifeKillPlayers-TimLn")
+
+addscriptexist(4793176968, "Mano County Police Patrol: Tase All", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mano%20County%20Police%20Patrol%20Tase%20All.lua", "https://rbxscript.com/post/ManoCountyPolicePatrolTaseAll-U9DcZ")
+
+addscriptexist(10758111998, "2019 Booga Booga [REBORN]: Auto Pickup Items", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/%20Booga%20Booga%20REBORN%20Auto%20Pickup%20Items.lua", "https://rbxscript.com/post/2019BoogaBoogaREBORNAutoPickupItems-fz1NJ")
+
+addscript(1487722208, "Current Game","Barren: Inf Ammo", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Barren%20Inf%20Ammo.lua", "https://rbxscript.com/post/BarrenInfAmmo-AdXiv")
+
+addscriptexist(8737602449, "PLS DONATE: Auto Farm, Server Hop, Auto Msg", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PLS%20DONATE%20Auto%20Farm%20Server%20Hop%20Auto%20Msg.lua", "https://rbxscript.com/post/PLSDONATEAutoFarmServerHopAutoMsg-c6XHk")
+
+addscriptexist(286090429, "Arsenal: Aimbot, ESP, FOV", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Arsenal%20Aimbot%20ESP%20FOV.lua", "https://rbxscript.com/post/ArsenalAimbotESPFOV-PqTVB")
+
+addscriptexist(7991339063, "Rainbow Friends: Auto Win", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Rainbow%20Friends%20Auto%20Win.lua", "https://rbxscript.com/post/RainbowFriendsAutoWin-uipWn")
+
+addscriptexist(2788229376, "Da Hood: Infinity Cash, Godmode & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Da%20Hood%20Infinity%20Cash%20Godmode%20%20More.lua", "https://rbxscript.com/post/DaHoodInfinityCashGodmodeMore-w6DJf")
+
+addscriptexist(3956818381, "Ninja Legends: Auto Swing, Auto Sell, Auto Rebirth", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ninja%20Legends%20Auto%20Swing%20Auto%20Sell%20Auto%20Rebirth.lua", "https://rbxscript.com/post/NinjaLegendsAutoSwingAutoSellAutoRebirth-ij3jl")
+
+addscriptexist(10675066724, "Slime Tower Tycoon: Auto Obby, Auto Collect, Auto Merge", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Slime%20Tower%20Tycoon%20Auto%20Obby%20Auto%20Collect%20Auto%20Merge.lua", "https://rbxscript.com/post/SlimeTowerTycoonAutoObbyAutoCollectAutoMerge-ZA86n")
+
+addscriptexist(6751371363, "Hood Duels: Aimlock", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Hood%20Duels%20Aimlock.lua", "https://rbxscript.com/post/HoodDuelsAimlock-FUx52")
+
+addscriptexist(10895555747, "Walmart Land: Inf Tokens", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Walmart%20Land%20Inf%20Tokens.lua", "https://rbxscript.com/post/WalmartLandInfTokens-rtyto")
+
+addscriptexist(183364845, "Speed Run 4: Unlock lvls", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Speed%20Run%20%20Unlock%20lvls.lua", "https://rbxscript.com/post/SpeedRun4Unlocklvls-VDLWV")
+
+addscriptexist(3177438863, "Dragon Blox: Auto Rebirth, Auto Farm, Auto Lot", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Dragon%20Blox%20Auto%20Rebirth%20Auto%20Farm%20Auto%20Lot.lua", "https://rbxscript.com/post/DragonBloxAutoRebirthAutoFarmAutolot-ycKg7")
+
+addscriptexist(7243254032, "Bloody Baseplate: Auto Stomp, Auto Glory Kill, Buy Items", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Bloody%20Baseplate%20Auto%20Stomp%20Auto%20Glory%20Kill%20Buy%20Items.lua", "https://rbxscript.com/post/BloodyBaseplateAutoStompAutoGloryKillBuyItems-aAAW1")
+
+addscript(6713610501, "Current Game","Guess How Many: Show Amount", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Guess%20How%20Many%20Show%20Amount.lua", "https://rbxscript.com/post/GuessHowManyShowAmount-jErHm")
+
+addscriptexist(1487722208, "Barren: Simple Esp", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Barren%20Simple%20Esp.lua", "https://rbxscript.com/post/BarrenSimpleEsp-9wLU6")
+
+addscriptexist(9524757503, "iHeartLand: Music Tycoon: Free IItems", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/iHeartLand%20Music%20Tycoon%20Free%20IItems.lua", "https://rbxscript.com/post/iHeartLandMusicTycoonFreeIItems-BljHE")
+
+addscriptexist(10676523834, "Racing Rocket: Auto Max Power, Auto Farm Stars", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Racing%20Rocket%20Auto%20Max%20Power%20Auto%20Farm%20Stars.lua", "https://rbxscript.com/post/RacingRocketAutoMaxPowerAutoFarmStars-E5yoH")
+
+addscriptexist(9264596435, "Idle Heroes Simulator: Auto level, Auto kill", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Idle%20Heroes%20Simulator%20Auto%20level%20Auto%20kill.lua", "https://rbxscript.com/post/IdleHeroesSimulatorAutolevelAutokill-wBoh7")
+
+addscriptexist(8260276694, "Ability Wars: KillAura, Godmode, Kill All", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ability%20Wars%20KillAura%20Godmode%20Kill%20All.lua", "https://rbxscript.com/post/AbilityWarsKillAuraGodmodeKillAll-HqIZF")
+
+addscriptexist(9992339729, "Longest Answer Wins: set water rising, Change question text & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Longest%20Answer%20Wins%20set%20water%20rising%20Change%20question%20text%20%20More.lua", "https://rbxscript.com/post/LongestAnswerWinssetwaterrisingChangequestiontextmore-fY7BI")
+
+addscriptexist(9524757503, "iHeartLand Music Tycoon: EVENT,Get a hat, Farm hearts", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/iHeartLand%20Music%20Tycoon%20EVENTGet%20a%20hat%20Farm%20hearts.lua", "https://rbxscript.com/post/iHeartLandMusicTycoonEVENTGetahatFarmhearts-psjtJ")
+
+addscriptexist(2753915549, "Blox Fruits: Auto Farms, Chests Farm, Esp & More!", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blox%20Fruits%20Auto%20Farms%20Chests%20Farm%20Esp%20%20More.lua", "https://rbxscript.com/post/BloxFruitsAutoFarmsChestsFarmEspMore-oHxi4")
+
+addscriptexist(4282985734, "Combat Warriors: Legit Anti Cheat & Auto Parry", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Combat%20Warriors%20Legit%20Anti%20Cheat%20%20Auto%20Parry.lua", "https://rbxscript.com/post/CombatWarriorsLegitAntiCheatAutoParry-sxHzI")
+
+addscriptexist(9285238704, "Race Clicker: Auto Win, Auto Farm, Teleports", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Race%20Clicker%20Auto%20Win%20Auto%20Farm%20Teleports.lua", "https://rbxscript.com/post/RaceClickerAutoWinAutoFarmTeleports-UPVq2")
+
+addscriptexist(537413528, "Build A Boat For Treasure: Autofarm Chest, Walkspeed, Teleports", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Build%20A%20Boat%20For%20Treasure%20Autofarm%20Chest%20Walkspeed%20Teleports.lua", "https://rbxscript.com/post/BuildABoatForTreasureAutofarmChestWalkspeedTeleports-WIu2d")
+
+addscript(10371228324, "Current Game","Camp Bonkers: Infinity Coins", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Camp%20Bonkers%20Infinity%20Coins.lua", "https://rbxscript.com/post/CampBonkersInfinityCoins-TWkDW")
+
+addscriptexist(10371228324, "Camp Bonkers: Give all badges", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Camp%20Bonkers%20Give%20all%20badges.lua", "https://rbxscript.com/post/CampBonkersGiveallbadges-Vj61Z")
+
+addscriptexist(286090429, "Arsenal: Instant Equip, Silent Aim & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Arsenal%20Instant%20Equip%20Silent%20Aim%20%20More.lua", "https://rbxscript.com/post/ArsenalInstantEquipSilentAimMore-EIJaR")
+
+addscriptexist(9648883891, "Festival Tycoon: Infinity Money", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Festival%20Tycoon%20Infinity%20Money.lua", "https://rbxscript.com/post/FestivalTycoonInfinityMoney-VE4jt")
+
+addscriptexist(9993529229, "Counter Blox: Remastered: Silent Aim, Hitbox & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Counter%20Blox%20Remastered%20Silent%20Aim%20Hitbox%20%20More.lua", "https://rbxscript.com/post/CounterBloxRemasteredSilentAimHitboxMore-wOi81")
+
+addscript(4325400580, "Current Game","Army Tycoon: Give everyone all buildings, Q To nuke, Lag Server", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Army%20Tycoon%20Give%20everyone%20all%20buildings%20Q%20To%20nuke%20Lag%20Server.lua", "https://rbxscript.com/post/ArmyTycoonGiveeveryoneallbuildingsQTonukeLagServer-3TluY")
+
+addscriptexist(7026828578, "Speed Simulator: Infinity Cash", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Speed%20Simulator%20Infinity%20Cash.lua", "https://rbxscript.com/post/SpeedSimulatorInfinityCash-k4lw4")
+
+addscriptexist(4753520418, "The Hood: Aim Lock", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/The%20Hood%20Aim%20Lock.lua", "https://rbxscript.com/post/TheHoodAimLock-cYcrE")
+
+addscriptexist(8916037983, "starving artists: Copy art", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/starving%20artists%20Copy%20art.lua", "https://rbxscript.com/post/starvingartistsCopyart-1tWAK")
+
+addscriptexist(2039118386, "Neighborhood war: AimBot", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Neighborhood%20war%20AimBot.lua", "https://rbxscript.com/post/NeighborhoodwarAimBot-437Uc")
+
+addscriptexist(142823291, "Murder Mystery 2: Murderer and Sheriff finder", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Murder%20Mystery%20%20Murderer%20and%20Sheriff%20finder.lua", "https://rbxscript.com/post/MurderMystery2MurdererandSherifffinder-oIXcr")
+
+addscriptexist(4860819035, "Plants vs Zombies Garden Problem: Server Lag", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Plants%20vs%20Zombies%20Garden%20Problem%20Server%20Lag.lua", "https://rbxscript.com/post/PlantsvsZombiesGardenProblemServerLag-9jG7m")
+
+addscriptexist(292439477, "Phantom Forces: Unlock All Weapons", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Phantom%20Forces%20Unlock%20All%20Weapons.lua", "https://rbxscript.com/post/PhantomForcesUnlockAllWeapons-Gc9KT")
+
+addscript(10447320248, "Current Game","Hide and Seek - Skill Battle: Inf Money", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Hide%20and%20Seek%20%20Skill%20Battle%20Inf%20Money.lua", "https://rbxscript.com/post/HideandSeekSkillBattleInfMoney-EOr8v")
+
+addscript(5166670285, "Current Game","Badge Walk Free Badges: Badge Collector", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Badge%20Walk%20Free%20Badges%20Badge%20Collector.lua", "https://rbxscript.com/post/BadgeWalkFreeBadgesBadgeCollector-hxn9E")
+
+addscriptexist(680750021, "Case Clicker: Auto Click, Auto Open & more", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Case%20Clicker%20Auto%20Click%20Auto%20Open%20%20more.lua", "https://rbxscript.com/post/CaseClickerAutoClickAutoOpenmore-KByNT")
+
+addscriptexist(7026828578, "Speed Simulator: Inf Money, Cash Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Speed%20Simulator%20Inf%20Money%20Cash%20Farm.lua", "https://rbxscript.com/post/SpeedSimulatorInfMoneyCashFarm-n0NdH")
+
+addscript(10142749739, "Current Game","Pet Fighting Simulator: Infinity Coins", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pet%20Fighting%20Simulator%20Infinity%20Coins.lua", "https://rbxscript.com/post/PetFightingSimulatorInfinityCoins-Gxx0a")
+
+addscriptexist(6751371363, "Hood Duels: Walkspeed, Silent Aim Lock & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Hood%20Duels%20Walkspeed%20Silent%20Aim%20Lock%20%20More.lua", "https://rbxscript.com/post/HoodDuelsWalkspeedSilentAimLockMore-4zzt1")
+
+addscriptexist(9551640993, "Mining Simulator 2: Auto Farm, Auto Claim Achievements & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mining%20Simulator%20%20Auto%20Farm%20Auto%20Claim%20Achievements%20%20More.lua", "https://rbxscript.com/post/MiningSimulator2AutoFarmAutoClaimAchievementsMore-pbs55")
+
+addscriptexist(5041144419, "SCP Roleplay: Auto Reload, Teleport To Location/Player", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SCP%20Roleplay%20Auto%20Reload%20Teleport%20To%20LocationPlayer.lua", "https://rbxscript.com/post/SCPRoleplayAutoReloadTeleportToLocationPlayer-APYUq")
+
+addscriptexist(4924922222, "Brookhaven RP: Anti Afk", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Brookhaven%20RP%20Anti%20Afk.lua", "https://rbxscript.com/post/BrookhavenRPAntiAfk-9rIue")
+
+addscriptuniversal("Universal Version Check Utility", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Version%20Check%20Utility.lua", "https://rbxscript.com/post/UniversalVersionCheckUtility-AI2zN")
+
+addscriptexist(4282985734, "Combat Warriors: Legit Anti Parry, Legit Auto Parry", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Combat%20Warriors%20Legit%20Anti%20Parry%20Legit%20Auto%20Parry.lua", "https://rbxscript.com/post/CombatWarriorsLegitAntiParryLegitAutoParry-uKSPA")
+
+addscriptuniversal("Universal FE Chat Slower", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20FE%20Chat%20Slower.lua", "https://rbxscript.com/post/UniversalFEChatSlower-wOVg0")
+
+addscriptexist(606849621, "Jailbreak: Arrest Aura, Car Mods, Infinite Nitro & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Jailbreak%20Arrest%20Aura%20Car%20Mods%20Infinite%20Nitro%20%20More.lua", "https://rbxscript.com/post/JailbreakArrestAuraCarModsInfiniteNitroMore-1B2ow")
+
+addscriptexist(9955279341, "Infinity Sea 2: Auto Spin Family", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Infinity%20Sea%20%20Auto%20Spin%20Family.lua", "https://rbxscript.com/post/InfinitySea2AutoSpinFamily-hq9m5")
+
+addscriptexist(137885680, "Zombie Rush: Silent Aim, Esp, FOV", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Zombie%20Rush%20Silent%20Aim%20Esp%20FOV.lua", "https://rbxscript.com/post/ZombieRushSilentAimEspFOV-goRnV")
+
+addscriptexist(5602055394, "Hood Modded: AimLock, Silent Aim & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Hood%20Modded%20AimLock%20Silent%20Aim%20%20More.lua", "https://rbxscript.com/post/HoodModdedAimLockSilentAimMore-nuWPb")
+
+addscriptexist(2537430692, "Jenga: Walkspeed, Instant Win, Remove Killbrick", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Jenga%20Walkspeed%20Instant%20Win%20Remove%20Killbrick.lua", "https://rbxscript.com/post/JengaWalkspeedInstantWinRemoveKillbrick-43Ng7")
+
+addscriptexist(9872472334, "Evade: Inf Jump, Q to teleport & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Evade%20Inf%20Jump%20Q%20to%20teleport%20%20More.lua", "https://rbxscript.com/post/EvadeInfJumpQtoteleportMore-g27mw")
+
+addscriptexist(286090429, "Arsenal: Kill All, Silent Aim & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Arsenal%20Kill%20All%20Silent%20Aim%20%20More.lua", "https://rbxscript.com/post/ArsenalKillAllSilentAimMore-Tvy0p")
+
+addscriptexist(914010731, "Ro-Ghoul: Auto Farm, Look Player's Stats, Webhook", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RoGhoul%20Auto%20Farm%20Look%20Players%20Stats%20Webhook.lua", "https://rbxscript.com/post/RoGhoulAutoFarmLookPlayersStatsWebhook-kR5Jz")
+
+addscriptexist(142823291, "Murder Mystery 2: Status Game, Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Murder%20Mystery%20%20Status%20Game%20Auto%20Farm.lua", "https://rbxscript.com/post/MurderMystery2StatusGameAutoFarm-pK0No")
+
+addscriptexist(185655149, "Welcome to Bloxburg: Script Collection", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Welcome%20to%20Bloxburg%20Script%20Collection.lua", "https://rbxscript.com/post/WelcometoBloxburgScriptCollection-nNnPo")
+
+addscriptexist(292439477, "Phantom Forces: Semi-Hitbox Extender Heads", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Phantom%20Forces%20SemiHitbox%20Extender%20Heads.lua", "https://rbxscript.com/post/PhantomForcesSemiHitboxExtenderHeads-6PX34")
+
+addscriptexist(536102540, "DBZ Final Stand: Auto Stats, Earth God Mode", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DBZ%20Final%20Stand%20Auto%20Stats%20Earth%20God%20Mode.lua", "https://rbxscript.com/post/DBZFinalStandAutoStatsEarthGodModemore-xkYww")
+
+addscriptexist(1537690962, "Bee Swarm Simulator: Auto Farm, Auto Dig, Dig mode & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Bee%20Swarm%20Simulator%20Auto%20Farm%20Auto%20Dig%20Dig%20mode%20%20More.lua", "https://rbxscript.com/post/BeeSwarmSimulatorAutoFarmAutoDigDigmodemore-rOaU9")
+
+addscriptexist(10758748100, "Killstreak Simulator Remake: Battle Axe, Add Kills", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Killstreak%20Simulator%20Remake%20Battle%20Axe%20Add%20Kills.lua", "https://rbxscript.com/post/KillstreakSimulatorRemakeBattleAxeAddKills-d7JaX")
+
+addscriptexist(192800, "Work At A Pizza Place: Auto Farm, Teleport, Anti Kick", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Work%20At%20A%20Pizza%20Place%20Auto%20Farm%20Teleport%20Anti%20Kick.lua", "https://rbxscript.com/post/WorkAtAPizzaPlaceAutoFarmTeleportAntiKick-9W9lC")
+
+addscript(206640076, "Current Game","Deathrun: Unload map", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Deathrun%20Unload%20map.lua", "https://rbxscript.com/post/DeathrunUnloadmap-55VqQ")
+
+addscriptexist(6284583030, "Pet Simulator X: Auto Farm Area, Teleports & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pet%20Simulator%20X%20Auto%20Farm%20Area%20Teleports%20%20More.lua", "https://rbxscript.com/post/PetSimulatorXAutoFarmAreaTeleportsMore-imcSY")
+
+addscriptexist(292439477, "Phantom Forces: Silent Aim, Aimbot & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Phantom%20Forces%20Silent%20Aim%20Aimbot%20%20More.lua", "https://rbxscript.com/post/PhantomForcesSilentAimAimbotMore-Ophcp")
+
+addscript(6922573010, "Current Game","Soccer Legends: Instant Win, Teleport To Blue Goal, Hit Ball Aura", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Soccer%20Legends%20Instant%20Win%20Teleport%20To%20Blue%20Goal%20Hit%20Ball%20Aura.lua", "https://rbxscript.com/post/SoccerLegendsInstantWinTeleportToBlueGoalHitBallAura-vRFQq")
+
+addscriptexist(3527629287, "BIG Paintball: Esp, Fly, Aimbot", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BIG%20Paintball%20Esp%20Fly%20Aimbot.lua", "https://rbxscript.com/post/BIGPaintballEspFlyAimbot-SErvl")
+
+addscriptexist(2512643572, "Bubble Gum Simulator: Code Redeemer", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Bubble%20Gum%20Simulator%20Code%20Redeemer.lua", "https://rbxscript.com/post/BubbleGumSimulatorCodeRedeemer-czUoc")
+
+addscript(6472002757, "Current Game","Shards of Genesis: KillAura, Godmode", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Shards%20of%20Genesis%20KillAura%20Godmode.lua", "https://rbxscript.com/post/ShardsofGenesisKillAuraGodmodemore-b8SHy")
+
+addscriptexist(7560156054, "Clicker Simulator: Auto Click, Auto Rebirth, Auto Pets", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Clicker%20Simulator%20Auto%20Click%20Auto%20Rebirth%20Auto%20Pets.lua", "https://rbxscript.com/post/ClickerSimulatorAutoClickAutoRebirthAutoPetsmore-5Am9v")
+
+addscriptexist(2753915549, "Blox Fruits: Auto Stats, Auto Farm Player", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blox%20Fruits%20Auto%20Stats%20Auto%20Farm%20Player.lua", "https://rbxscript.com/post/BloxFruitsAutoStatsAutoFarmPlayermore-Hsvfr")
+
+addscriptexist(606849621, "Jailbreak: No Wait, Infinite Duck, Infinite Punch", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Jailbreak%20No%20Wait%20Infinite%20Duck%20Infinite%20Punch.lua", "https://rbxscript.com/post/JailbreakNoWaitInfiniteDuckInfinitePunchmore-Rdj8q")
+
+addscript(4967465336, "Current Game","Ray's Mod: Infinity Health", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Rays%20Mod%20Infinity%20Health.lua", "https://rbxscript.com/post/RaysModInfinityHealth-Li6pB")
+
+addscriptexist(9264596435, "Idle Heroes Simulator: Auto Attack, Tp To Enemy", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Idle%20Heroes%20Simulator%20Auto%20Attack%20Tp%20To%20Enemy.lua", "https://rbxscript.com/post/IdleHeroesSimulatorAutoAttackTpToEnemymore-bgpRq")
+
+addscriptexist(4282985734, "Combat Warriors: Fly, Killaura", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Combat%20Warriors%20Fly%20Killaura.lua", "https://rbxscript.com/post/CombatWarriorsFlyKillauramore-ofmm4")
+
+addscriptexist(10675066724, "Slime Tower Tycoon: Auto Collect, Auto Deposit & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Slime%20Tower%20Tycoon%20Auto%20Collect%20Auto%20Deposit%20%20More.lua", "https://rbxscript.com/post/SlimeTowerTycoonAutoCollectAutoDepositmore-A0WSH")
+
+addscriptexist(10758748100, "Killstreak Simulator Remake: Add many Kills", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Killstreak%20Simulator%20Remake%20Add%20many%20Kills.lua", "https://rbxscript.com/post/KillstreakSimulatorRemakeAddmanyKills-SzH9V")
+
+addscriptexist(370731277, "MeepCity: Balloon Spam", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MeepCity%20Balloon%20Spam.lua", "https://rbxscript.com/post/MeepCityBalloonSpam-toVHD")
+
+addscript(4851363266, "Current Game","MyPark: Anti Contest, Auto Score & more", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MyPark%20Anti%20Contest%20Auto%20Score%20%20more.lua", "https://rbxscript.com/post/MyParkAntiContestAutoScoremore-iwD3G")
+
+addscriptexist(10861112990, "Anime Artifacts Simulator 2: Infinite coins", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime%20Artifacts%20Simulator%20%20Infinite%20coins.lua", "https://rbxscript.com/post/AnimeArtifactsSimulator2Infinitecoins-W1cDH")
+
+addscriptexist(2537430692, "Jenga: Tp Tool, Tp To Destroyer & more", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Jenga%20Tp%20Tool%20Tp%20To%20Destroyer%20%20more.lua", "https://rbxscript.com/post/JengaTpToolTpToDestroyermore-Eg0Ej")
+
+addscriptuniversal("Universal Explorer", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Explorer.lua", "https://rbxscript.com/post/UniversalScriptExplorer-unGAX")
+
+addscriptexist(3351674303, "Driving Empire: Fast Auto Farm, Car Mods, Auto Race", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Driving%20Empire%20Fast%20Auto%20Farm%20Car%20Mods%20Auto%20Race.lua", "https://rbxscript.com/post/DrivingEmpireFastAutoFarmCarModsAutoRace-JdLKZ")
+
+addscriptexist(9585537847, "SHADOVIS RPG: Auto Farm Raids, Auto Join Raid, God Mode & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SHADOVIS%20RPG%20Auto%20Farm%20Raids%20Auto%20Join%20Raid%20God%20Mode%20%20More.lua", "https://rbxscript.com/post/SHADOVISRPGAutoFarmRaidsAutoJoinRaidGodModeMore-mNFSN")
+
+addscriptexist(9534337535, "Shrek in the Backrooms: Badge Giver", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Shrek%20in%20the%20Backrooms%20Badge%20Giver.lua", "https://rbxscript.com/post/ShrekintheBackroomsBadgeGiver-te0NI")
+
+addscriptexist(292439477, "Phantom Forces: Semi Hitbox Extender Body", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Phantom%20Forces%20Semi%20Hitbox%20Extender%20Body.lua", "https://rbxscript.com/post/PhantomForcesSemiHitboxExtenderBody-aEjqG")
+
+addscriptexist(855499080, "SKYWARS: Server Lagger", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SKYWARS%20Server%20Lagger.lua", "https://rbxscript.com/post/SKYWARSServerLagger-Ggssx")
+
+addscriptexist(5732973455, "HOURS: Unlock All", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/HOURS%20Unlock%20All.lua", "https://rbxscript.com/post/HOURSUnlockAll-aptTK")
+
+addscriptexist(2753915549, "Blox Fruits: Auto Farm, AutoSuperhuman", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blox%20Fruits%20Auto%20Farm%20AutoSuperhuman.lua", "https://rbxscript.com/post/BloxFruitsAutoFarmAutoSuperhumanmore-yTVKp")
+
+addscriptexist(10676523834, "Racing Rocket: Auto Clicker, Auto Star & more", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Racing%20Rocket%20Auto%20Clicker%20Auto%20Star%20%20more.lua", "https://rbxscript.com/post/RacingRocketAutoClickerAutoStarmore-c5RCH")
+
+addscriptexist(2041312716, "Ragdoll Engine: Fly, Teleports & more", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ragdoll%20Engine%20Fly%20Teleports%20%20more.lua", "https://rbxscript.com/post/RagdollEngineFlyTeleportsmore-JwFyT")
+
+addscriptuniversal("Universal Google Translator", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Google%20Translator.lua", "https://rbxscript.com/post/UniversalGoogleTranslator-PSN68")
+
+addscriptexist(8737602449, "PLS DONATE: Fake Donate Nuke", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PLS%20DONATE%20Fake%20Donate%20Nuke.lua", "https://rbxscript.com/post/PLSDONATEFakeDonateNuke-GV9dK")
+
+addscript(542016179, "Current Game","Teethyz Dentist: Anti Cheat Delete", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Teethyz%20Dentist%20Anti%20Cheat%20Delete.lua", "https://rbxscript.com/post/TeethyzDentistAntiCheatDelete-q4uHk")
+
+addscriptexist(4860819035, "Plants vs Zombies Garden Problem: Infinity money", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Plants%20vs%20Zombies%20Garden%20Problem%20Infinity%20money.lua", "https://rbxscript.com/post/PlantsvsZombiesGardenProblemInfinitymoney-5ULrm")
+
+addscriptexist(4282985734, "Combat Warriors: Esp Players, Silent AIm & more", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Combat%20Warriors%20Esp%20Players%20Silent%20AIm%20%20more.lua", "https://rbxscript.com/post/CombatWarriorsEspPlayersSilentAImmore-Iud0E")
+
+addscriptexist(9417197334, "Anime Story: Auto Attack, Auto Mine & more", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime%20Story%20Auto%20Attack%20Auto%20Mine%20%20more.lua", "https://rbxscript.com/post/AnimeStoryAutoAttackAutoMinemore-YZ9eY")
+
+addscriptexist(648362523, "Breaking Point: Auto Farm Infinity Coins", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Breaking%20Point%20Auto%20Farm%20Infinity%20Coins.lua", "https://rbxscript.com/post/BreakingPointAutoFarmInfinityCoins-DFiRi")
+
+addscriptexist(286090429, "Arsenal: Aimbot, Smoothness, Esp", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Arsenal%20Aimbot%20Smoothness%20Esp.lua", "https://rbxscript.com/post/ArsenalAimbotSmoothnessEsp-ftep3")
+
+addscript(9611809130, "Current Game","Crazy Party RPG: Tp To Crab Area", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Crazy%20Party%20RPG%20Tp%20To%20Crab%20Area.lua", "https://rbxscript.com/post/CrazyPartyRPGTpToCrabArea-1DAGA")
+
+addscriptexist(1242235469, "ball and axe: Gravity, Go To Saved Location, Infinity Reach", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ball%20and%20axe%20Gravity%20Go%20To%20Saved%20Location%20Infinity%20Reach.lua", "https://rbxscript.com/post/ballandaxeGravityGoToSavedLocationInfinityReach-iJFSF")
+
+addscript(7138009149, "Current Game","PHIGHTING ALPHA: Infinity Money and Gems", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PHIGHTING%20ALPHA%20Infinity%20Money%20and%20Gems.lua", "https://rbxscript.com/post/PHIGHTINGALPHAInfinityMoneyandGems-AbDG4")
+
+addscriptexist(6516141723, "DOORS: Instant Interact, Skip Levels", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DOORS%20Instant%20Interact%20Skip%20Levels.lua", "https://rbxscript.com/post/DOORSInstantInteractSkipLevelsmore-cq9aL")
+
+addscriptexist(621129760, "Knife Ability Test: Silent Aim, Draw Fov, Infinity Ammo & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Knife%20Ability%20Test%20Silent%20Aim%20Draw%20Fov%20Infinity%20Ammo%20%20More.lua", "https://rbxscript.com/post/KnifeAbilityTestSilentAimDrawFovInfinityAmmomore-BuuJl")
+
+addscriptexist(4983006874, "NGU CLICKER SIMULATOR Gui: Auto Click, Auto Upgrade, Auto Pet Evolve", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NGU%20CLICKER%20SIMULATOR%20Gui%20Auto%20Click%20Auto%20Upgrade%20Auto%20Pet%20Evolve.lua", "https://rbxscript.com/post/NGUCLICKERSIMULATORGUIAutoClickAutoUpgradeAutoPetEvolve-jscdl")
+
+addscriptexist(2753915549, "Blox Fruits: Auto Set Spawn Points, Teleports & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blox%20Fruits%20Auto%20Set%20Spawn%20Points%20Teleports%20%20More.lua", "https://rbxscript.com/post/BloxFruitsAutoSetSpawnPointsTeleports-cX8iP")
+
+addscriptexist(5993942214, "Rush Point: Esp Players, Distance", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Rush%20Point%20Esp%20Players%20Distance.lua", "https://rbxscript.com/post/RushPointEspPlayersDistance-C4rmp")
+
+addscriptexist(1224212277, "Mad City: Chapter 2: Loop Kill All", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mad%20City%20Chapter%20%20Loop%20Kill%20All.lua", "https://rbxscript.com/post/MadCityChapter2LoopKillAll-Ypuix")
+
+addscriptexist(4860819035, "Plants vs Zombies Garden Problem: Inf Levels", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Plants%20vs%20Zombies%20Garden%20Problem%20Inf%20Levels.lua", "https://rbxscript.com/post/PlantsvsZombiesGardenProblemInfLevels-zC2jy")
+
+addscriptexist(8304191830, "Anime Adventures: Auto Farm, Auto Join", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime%20Adventures%20Auto%20Farm%20Auto%20Join.lua", "https://rbxscript.com/post/AnimeAdventuresAutoFarmAutoJoinmore-O3V94")
+
+addscript(10882998385, "Current Game","Endless Doors Beta: Overseer eye no dmg", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Endless%20Doors%20Beta%20Overseer%20eye%20no%20dmg.lua", "https://rbxscript.com/post/EndlessDoorsBetaOverseereyenodmg-pbV8a")
+
+addscriptexist(542016179, "Teethyz Dentist: Spam make appointments", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Teethyz%20Dentist%20Spam%20make%20appointments.lua", "https://rbxscript.com/post/TeethyzDentistSpammakeappointments-Hd1nV")
+
+addscriptexist(10710676163, "SPTS: Origin (Auto Farm, Auto Respawn, Tp & More)", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SPTS%20Origin%20Auto%20Farm%20Auto%20Respawn%20Tp%20%20More.lua", "https://rbxscript.com/post/SPTSOriginAutoFarmAutoRespawnTpmore-EyWnP")
+
+addscriptexist(4282985734, "Combat Warriors: Anti Parry, Auto Parry", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Combat%20Warriors%20Anti%20Parry%20Auto%20Parry.lua", "https://rbxscript.com/post/CombatWarriorsAntiparryAutoparry-itlCw")
+
+addscriptexist(2569453732, "Rise of Nations: Build Bot, Sell Bot, Esp", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Rise%20of%20Nations%20Build%20Bot%20Sell%20Bot%20Esp.lua", "https://rbxscript.com/post/RiseofNationsBuildBotSellBot-sHZ9U")
+
+addscriptexist(7026828578, "Speed Simulator: Inf Rebirths, Speed Farm, Farm Rebirths", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Speed%20Simulator%20Inf%20Rebirths%20Speed%20Farm%20Farm%20Rebirths.lua", "https://rbxscript.com/post/SpeedSimulatorInfRebirthsSpeedFarmFarmRebirths-SpNG8")
+
+addscriptexist(286090429, "Arsenal: Silent Aim, Visuals", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Arsenal%20Silent%20Aim%20Visuals.lua", "https://rbxscript.com/post/ArsenalSilentAimVisualsmore-Zez5Y")
+
+addscriptexist(1962086868, "Tower of Hell: Godmode, Tp To Finish", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tower%20of%20Hell%20Godmode%20Tp%20To%20Finish.lua", "https://rbxscript.com/post/TowerofHellGodmodeTpToFinishmore-JS8cG")
+
+addscriptexist(8396586868, "A 0ne Piece Game: Auto Quest, Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/A%20ne%20Piece%20Game%20Auto%20Quest%20Auto%20Farm.lua", "https://rbxscript.com/post/A0nePieceGameAutoQuestAutoFarmmore-tA5f3")
+
+addscriptexist(142823291, "Murder Mystery 2: Fly, Esp, Noclip", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Murder%20Mystery%20%20Fly%20Esp%20Noclip.lua", "https://rbxscript.com/post/MurderMystery2FlyEspNoclip-j2hKE")
+
+addscriptexist(2753915549, "Blox Fruits GUI: Auto Farm, Fast Attack & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blox%20Fruits%20GUI%20Auto%20Farm%20Fast%20Attack%20%20More.lua", "https://rbxscript.com/post/BloxFruitsGUIAutoFarmFastAttackMore-qStYX")
+
+addscript(4760217946, "Current Game","Limited Badges: Badge Collector", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Limited%20Badges%20Badge%20Collector.lua", "https://rbxscript.com/post/LimitedBadgesBadgeCollector-yCzbD")
+
+addscriptexist(189707, "Natural Disaster Survival: Speed Changer, Gravity, Jumppower", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Natural%20Disaster%20Survival%20Speed%20Changer%20Gravity%20Jumppower.lua", "https://rbxscript.com/post/NaturalDisasterSurvivalSpeedChangerGravityJumppower-7LOqS")
+
+addscriptexist(10631181587, "Stone Miner Simulator 2: Infinite Rebirth Tokens & Gems", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Stone%20Miner%20Simulator%20%20Infinite%20Rebirth%20Tokens%20%20Gems.lua", "https://rbxscript.com/post/StoneMinerSimulator2InfiniteRebirthTokensGems-WyJI2")
+
+addscriptexist(2788229376, "Da Hood: Titan", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Da%20Hood%20Titan.lua", "https://rbxscript.com/post/DaHoodTitan-pbxtd")
+
+addscriptuniversal("Universal Fling All", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Fling%20All.lua", "https://rbxscript.com/post/RobloxUniversalScriptFlingAll-dHh8u")
+
+addscript(8447393333, "Current Game","Chocolate Factory Simulator: Infinite Money", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Chocolate%20Factory%20Simulator%20Infinite%20Money.lua", "https://rbxscript.com/post/ChocolateFactorySimulatorInfiniteMoney-8L5iS")
+
+addscript(7133467811, "Current Game","Spin The Bottle: Invincibility", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Spin%20The%20Bottle%20Invincibility.lua", "https://rbxscript.com/post/SpinTheBottleInvincibility-wLARp")
+
+addscript(2533391464, "Current Game","Snowman Simulator: Auto Farm Snow, Auto Farm Presents & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Snowman%20Simulator%20Auto%20Farm%20Snow%20Auto%20Farm%20Presents%20%20More.lua", "https://rbxscript.com/post/SnowmanSimulatorAutoFarmSnowAutoFarmPresentsMore-6SUqE")
+
+addscriptexist(5116869569, "Doodle World: AutoFarm, Autofarm Options, Catch Options", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Doodle%20World%20AutoFarm%20Autofarm%20Options%20Catch%20Options.lua", "https://rbxscript.com/post/DoodleWorldAutoFarmAutofarmOptionsCatchOptions-HH57A")
+
+addscriptexist(17541193, "Pinewood Computer Core: Teleport To Areas", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pinewood%20Computer%20Core%20Teleport%20To%20Areas.lua", "https://rbxscript.com/post/PinewoodComputerCoreTeleportToAreas-UwmCG")
+
+addscriptexist(7991339063, "Rainbow Friends: Return Items, Fullbright, Player Modifications", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Rainbow%20Friends%20Return%20Items%20Fullbright%20Player%20Modifications.lua", "https://rbxscript.com/post/RainbowFriendsReturnItemsFullbrightPlayerModifications-KC5nh")
+
+addscriptexist(9662949425, "Punch a brick wall simulator: AutoSell, AutoFarm, Auto Buy Rebriths", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Punch%20a%20brick%20wall%20simulator%20AutoSell%20AutoFarm%20Auto%20Buy%20Rebriths.lua", "https://rbxscript.com/post/PunchabrickwallsimulatorAutoSellAutoFarmAutoBuyRebriths-UE7wK")
+
+addscript(8203181639, "Current Game","Syrian Shenanigans: Fast Firerate", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Syrian%20Shenanigans%20Fast%20Firerate.lua", "https://rbxscript.com/post/SyrianShenanigansFastFirerate-JDXUq")
+
+addscriptuniversal("Universal Tells a lot about you", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Tells%20a%20lot%20about%20you.lua", "https://rbxscript.com/post/RobloxUniversalScriptTellsalotaboutyou-gn7kU")
+
+addscript(5610197459, "Current Game","gang up on people simulator: AutoFarm, AutoSlap, Walkspeed, Buy Section", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/gang%20up%20on%20people%20simulator%20AutoFarm%20AutoSlap%20Walkspeed%20Buy%20Section.lua", "https://rbxscript.com/post/ganguponpeoplesimulatorAutoFarmAutoSlapWalkspeedBuySection-ssTGN")
+
+addscript(5108997584, "Current Game","Reason 2 Die: Teleports, Buy any item, Fly", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Reason%20%20Die%20Teleports%20Buy%20any%20item%20Fly.lua", "https://rbxscript.com/post/Reason2DieTeleportsBuyanyitemFly-Qu4fC")
+
+addscript(7419509075, "Current Game","cart ride around used car batter: Teleports, Auto Coins, Get tools", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/cart%20ride%20around%20used%20car%20batter%20Teleports%20Auto%20Coins%20Get%20tools.lua", "https://rbxscript.com/post/cartridearoundusedcarbatterTeleportsAutoCoinsGettools-D4mZ6")
+
+addscriptexist(3177438863, "Dragon Blox: Auto Quest, Auto Farm, AutoRebirth", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Dragon%20Blox%20Auto%20Quest%20Auto%20Farm%20AutoRebirth.lua", "https://rbxscript.com/post/DragonBloxAutoQuestAutoFarmAutoRebirth-ZuPxf")
+
+addhub("Roblox Infinity Hub", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Roblox%20Infinity%20Hub.lua", "https://rbxscript.com/post/RobloxInfinityHub-qeFFa")
+
+addhub("Universal Report Abuse Anti Spy", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Report%20Abuse%20Anti%20Spy.lua", "https://rbxscript.com/post/RobloxUniversalScriptReportAbuseAntiSpy-bRF7J")
+
+addscriptexist(5783581, "TPS: Ultimate Soccer: Catch Ball, Release Ball, AutoRun", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TPS%20Ultimate%20Soccer%20Catch%20Ball%20Release%20Ball%20AutoRun.lua", "https://rbxscript.com/post/TPSUltimateSoccerCatchBallReleaseBallAutoRun-Ko9pk")
+
+addscriptexist(2753915549, "Blox Fruits: Auto Farm, Teleports, Auto Stats", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blox%20Fruits%20Auto%20Farm%20Teleports%20Auto%20Stats.lua", "https://rbxscript.com/post/BloxFruitsAutoFarmTeleportsAutoStats-VdYLH")
+
+addscriptexist(28586816, "Get Eaten: Auto Farm Points, Player Modifications, Anti Kick", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Get%20Eaten%20Auto%20Farm%20Points%20Player%20Modifications%20Anti%20Kick.lua", "https://rbxscript.com/post/GetEatenAutoFarmPointsPlayerModificationsAntiKick-3FpjL")
+
+addscriptuniversal("Universal: SilentAim, AimLock", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20SilentAim%20AimLock.lua", "https://rbxscript.com/post/RobloxUniversalScriptSilentAimAimLock-hY4PB")
+
+addscriptexist(6516141723, "DOORS: Walkspeed, FullBright, FOV", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DOORS%20Walkspeed%20FullBright%20FOV.lua", "https://rbxscript.com/post/DOORSWalkspeedFullBrightFOV-CCeqt")
+
+addscriptexist(9872472334, "Evade: Walkspeed, Jumppower, AutoFarm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Evade%20Walkspeed%20Jumppower%20AutoFarm.lua", "https://rbxscript.com/post/EvadeWalkspeedJumppowerAutoFarm-LjlHb")
+
+addscriptexist(6403373529, "Slap Battles: AutoFarm Slapples, Trap AutoFarm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Slap%20Battles%20AutoFarm%20Slapples%20Trap%20AutoFarm.lua", "https://rbxscript.com/post/SlapBattlesAutoFarmSlapplesTrapAutoFarmAutoFarmMegaRock-z2vNX")
+
+addscriptexist(185655149, "Bloxburg: Automatic Pizza Delivery", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Bloxburg%20Automatic%20Pizza%20Delivery.lua", "https://rbxscript.com/post/BloxburgAutomaticPizzaDelivery-hzzvO")
+
+addscriptuniversal("Universal Walk An Walls", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Walk%20An%20Walls.lua", "https://rbxscript.com/post/RobloxUniversalScriptWalkAnWalls-TCRTy")
+
+addscriptexist(2788229376, "Da Hood GUI: Auto Farm, Fly, God Mode & More", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Da%20Hood%20GUI%20Auto%20Farm%20Fly%20God%20Mode%20%20More.lua", "https://rbxscript.com/post/DaHoodGUIAutoFarmFlyGodModeMore-D66wS")
+
+addscriptuniversal("Universal Zerio Spy", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Zerio%20Spy.lua", "https://rbxscript.com/post/RobloxUniversalScriptZerioSpy-ZCRqN")
+
+addscriptexist(2533391464, "Snowman Simulator GUI: Auto Farm, Kill All & More!", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Snowman%20Simulator%20GUI%20Auto%20Farm%20Kill%20All%20%20More.lua", "https://rbxscript.com/post/SnowmanSimulatorGUIAutoFarmKillAllMore-Tw87w")
+
+addscriptexist(2580982329, "Texting Simulator: AutoFarm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Texting%20Simulator%20AutoFarm.lua", "https://rbxscript.com/post/TextingSimulatorAutoFarm-z78mr")
+
+addscriptexist(3351674303, "Driving Empire: AutoFarm, Jumppower, Antiafk", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Driving%20Empire%20AutoFarm%20Jumppower%20Antiafk.lua", "https://rbxscript.com/post/DrivingEmpireAutoFarmJumppowerAntiafk-GbZ9R")
+
+addscriptexist(2753915549, "Blox Fruits | GUI - Auto Saber, Auto Farm & More!", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blox%20Fruits%20%20GUI%20%20Auto%20Saber%20Auto%20Farm%20%20More.lua", "https://rbxscript.com/post/BloxFruitsGUIAutoSaberAutoFarmMore-qlFX1")
+
+addscriptexist(2753915549, "Blox Fruits | GUI - Auto Farm Level, Auto New World & More!", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blox%20Fruits%20%20GUI%20%20Auto%20Farm%20Level%20Auto%20New%20World%20%20More.lua", "https://rbxscript.com/post/BloxFruitsGUIAutoFarmLevelAutoNewWorldMore-1aHo3")
+
+addscriptexist(621129760, "Knife Ability Test | Free Radio", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Knife%20Ability%20Test%20%20Free%20Radio.lua", "https://rbxscript.com/post/KnifeAbilityTestFreeRadio-OfHEC")
+
+addscriptexist(10320240572, "Easy Race Clicker | AutoWin Farm, Auto Click, Auto Rebirth", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Easy%20Race%20Clicker%20%20AutoWin%20Farm%20Auto%20Click%20Auto%20Rebirth.lua", "https://rbxscript.com/post/EasyRaceClickerAutoWinFarmAutoClickAutoRebirth-KCNt3")
+
+addscriptexist(10192063645, "Thy hood | Print Peoples coins", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Thy%20hood%20%20Print%20Peoples%20coins.lua", "https://rbxscript.com/post/ThyhoodPrintPeoplescoins-yY9ZH")
+
+addscriptexist(662417684, "LUCKY BLOCKS Battlegrounds | Walkspeed, JumpPower, GiveAnyBlock", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LUCKY%20BLOCKS%20Battlegrounds%20%20Walkspeed%20JumpPower%20GiveAnyBlock.lua", "https://rbxscript.com/post/LUCKYBLOCKSBattlegroundsWalkspeedJumpPowerGiveAnyBlock-Qkmnn")
+
+addscriptexist(8737602449, "PLS DONATE | ClaimAny Stand", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PLS%20DONATE%20%20ClaimAny%20Stand.lua", "https://rbxscript.com/post/PLSDONATEClaimAnyStand-kvvrp")
+
+addscriptexist(488667523, "Those Who Remain | Items Esp", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Those%20Who%20Remain%20%20Items%20Esp.lua", "https://rbxscript.com/post/ThoseWhoRemainItemsEsp-TkZT5")
+
+addscriptexist(2512643572, "Bubble Gum Simulator | Redeem All Codes", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Bubble%20Gum%20Simulator%20%20Redeem%20All%20Codes.lua", "https://rbxscript.com/post/BubbleGumSimulatorRedeemAllCodes-9dz3Z")
+
+addscriptexist(10903978962, "Sheep Tycoon | Auto Farm, Auto Sell", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sheep%20Tycoon%20%20Auto%20Farm%20Auto%20Sell.lua", "https://rbxscript.com/post/SheepTycoonAutoFarmAutoSell-d9xYV")
+
+addscriptexist(4639625707, "Oil Warfare Tycoon | Gun Mod", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Oil%20Warfare%20Tycoon%20%20Gun%20Mod.lua", "https://rbxscript.com/post/OilWarfareTycoonGunMod-82114")
+
+addscriptexist(9919640604, "Gem Mining Incremental | Infinite Gems", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Gem%20Mining%20Incremental%20%20Infinite%20Gems.lua", "https://rbxscript.com/post/GemMiningIncrementalInfiniteGems-Krygj")
+
+addscriptexist(9304358188, "Find The Memes | Get All Memes", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Find%20The%20Memes%20%20Get%20All%20Memes.lua", "https://rbxscript.com/post/FindTheMemesGetAllMemes-IrcWK")
+
+addscriptexist(9585537847, "SHADOVIS RPG | GUI - Multi Farm - Kill Aura & More!", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SHADOVIS%20RPG%20%20GUI%20%20Multi%20Farm%20%20Kill%20Aura%20%20More.lua", "https://rbxscript.com/post/SHADOVISRPGGUIMultiFarmKillAuraMore-SdY5R")
+
+addscriptexist(5796917097, "Road to Grambys | God Mode - Fly & More!", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Road%20to%20Grambys%20%20God%20Mode%20%20Fly%20%20More.lua", "https://rbxscript.com/post/RoadtoGrambysGodModeFlyMore-DxQWP")
+
+addscriptexist(10675066724, "Slime Tower Tycoon | AutoBuy Slime, Auto Farm, Walkspeed", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Slime%20Tower%20Tycoon%20%20AutoBuy%20Slime%20Auto%20Farm%20Walkspeed.lua", "https://rbxscript.com/post/SlimeTowerTycoonAutoBuySlimeAutoFarmWalkspeed-ftxJU")
+
+addscriptexist(621129760, "Knife Ability Test | Walkspeed, Inf Yield, AutoThrow", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Knife%20Ability%20Test%20%20Walkspeed%20Inf%20Yield%20AutoThrow.lua", "https://rbxscript.com/post/KnifeAbilityTestWalkspeedInfYieldAutoThrow-sifnU")
+
+addscriptexist(8203181639, "Syrian Shenanigans | Inf Ammo", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Syrian%20Shenanigans%20%20Inf%20Ammo.lua", "https://rbxscript.com/post/SyrianShenanigansInfAmmo-cKsrJ")
+
+addscriptexist(10198661638, "Farm Factory Tycoon | AutoFarm, AutoClaim, Teleports", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Farm%20Factory%20Tycoon%20%20AutoFarm%20AutoClaim%20Teleports.lua", "https://rbxscript.com/post/FarmFactoryTycoonAutoFarmAutoClaimTeleports-zFBQX")
+
+addscript(10484095306, "Current Game","CLIMB 100.000 STAIRS TO VIP! | Teleport To Mystery House", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CLIMB%20%20STAIRS%20TO%20VIP%20%20Teleport%20To%20Mystery%20House.lua", "https://rbxscript.com/post/CLIMB100000STAIRSTOVIPTeleportToMysteryHouse-OXwT1")
+
+addscriptexist(9585537847, "SHADOVIS RPG [Fast Item Skills - Auto Collect & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SHADOVIS%20RPG%20Fast%20Item%20Skills%20%20Auto%20Collect%20%20More.lua", "https://rbxscript.com/post/SHADOVISRPGFastItemSkillsAutoCollectMore-knJZq")
+
+addscriptexist(13822889, "Lumber Tycoon 2 | Walkspeed, Noclip, Anti afk", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Lumber%20Tycoon%20%20%20Walkspeed%20Noclip%20Anti%20afk.lua", "https://rbxscript.com/post/LumberTycoon2WalkspeedNoclipAntiafk-FJN38")
+
+addscriptexist(10531659515, "Shovel Battles | AutoFarm, Auto Kill All, Break All Players", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Shovel%20Battles%20%20AutoFarm%20Auto%20Kill%20All%20Break%20All%20Players.lua", "https://rbxscript.com/post/ShovelBattlesAutoFarmAutoKillAllBreakAllPlayers-NPKws")
+
+addscriptexist(662417684, "Lucky Block Battlegrounds | Block Giver", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Lucky%20Block%20Battlegrounds%20%20Block%20Giver.lua", "https://rbxscript.com/post/LuckyBlockBattlegroundsBlockGiver-XhJj3")
+
+addscript(180364455, "Current Game","Survive The Disasters 2 | Anticheat bypass", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Survive%20The%20Disasters%20%20%20Anticheat%20bypass.lua", "https://rbxscript.com/post/SurviveTheDisasters2Anticheatbypass-4wSdg")
+
+addscriptexist(142823291, "Murder Mystery 2 | Fly", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Murder%20Mystery%20%20%20Fly.lua", "https://rbxscript.com/post/MurderMystery2Fly-4em0b")
+
+addscriptuniversal("Universal Change Normal Lighting to Future Lighting", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Change%20Normal%20Lighting%20to%20Future%20Lighting.lua", "https://rbxscript.com/post/UniversalChangeNormalLightingtoFutureLighting-4kzqk")
+
+addscript(8302406789, "Current Game","Anime Lifting Simulator | Auto Buy Eggs, Auto Lift, Auto Sell", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime%20Lifting%20Simulator%20%20Auto%20Buy%20Eggs%20Auto%20Lift%20Auto%20Sell.lua", "https://rbxscript.com/post/AnimeLiftingSimulatorAutoBuyEggsAutoLiftAutoSell-EfATX")
+
+addscript(961409234, "Current Game","Blood Moon Tycoon | Crash Server", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blood%20Moon%20Tycoon%20%20Crash%20Server.lua", "https://rbxscript.com/post/BloodMoonTycoonCrashServer-mEk5o")
+
+addscriptexist(8737602449, "PLS DONATE | Auto ThankYou, Server Hop, AutoSpam", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PLS%20DONATE%20%20Auto%20ThankYou%20Server%20Hop%20AutoSpam.lua", "https://rbxscript.com/post/PLSDONATEAutoThankYouServerHopAutoSpam-Gi4th")
+
+addscriptexist(2753915549, "Blox Fruits | GUI - Auto Farm, Redeem All Codes & More!", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blox%20Fruits%20%20GUI%20%20Auto%20Farm%20Redeem%20All%20Codes%20%20More.lua", "https://rbxscript.com/post/BloxFruitsGUIAutoFarmRedeemAllCodesMore-Yhf8c")
+
+addscriptexist(9524757503, "iHeartLand: Music Tycoon | Instantly complete", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/iHeartLand%20Music%20Tycoon%20%20Instantly%20complete.lua", "https://rbxscript.com/post/iHeartLandMusicTycoonInstantlycomplete-3YRDT")
+
+addscriptexist(2753915549, "Blox Fruits | GUI - Auto Level Farm, Stack Mobs & More!", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blox%20Fruits%20%20GUI%20%20Auto%20Level%20Farm%20Stack%20Mobs%20%20More.lua", "https://rbxscript.com/post/BloxFruitsGUIAutoLevelFarmStackMobsMore-8pOF4")
+
+addscriptexist(2753915549, "Blox Fruits | GUI - Fast Attack Mode, Auto Farm & More!", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blox%20Fruits%20%20GUI%20%20Fast%20Attack%20Mode%20Auto%20Farm%20%20More.lua", "https://rbxscript.com/post/BloxFruitsGUIFastAttackModeAutoFarmMore-rkmN1")
+
+addscript(9133513813, "Current Game","Hunted Hood | AutoPickUp", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Hunted%20Hood%20%20AutoPickUp.lua", "https://rbxscript.com/post/HuntedHoodAutoPickUp-eKJnG")
+
+addscriptexist(8750997647, "Tapping Legends X | AutoRebirth, AutoTap, AutoEggs", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tapping%20Legends%20X%20%20AutoRebirth%20AutoTap%20AutoEggs.lua", "https://rbxscript.com/post/TappingLegendsXAutoRebirthAutoTapAutoEggs-QgLqt")
+
+addscript(10148047155, "Current Game","Car Mechanic Tycoon | Money AutoFarm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Car%20Mechanic%20Tycoon%20%20Money%20AutoFarm.lua", "https://rbxscript.com/post/CarMechanicTycoonMoneyAutoFarm-cO1i5")
+
+addscriptexist(9648883891, "Festival Tycoon | Add 10M$", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Festival%20Tycoon%20%20Add%20M.lua", "https://rbxscript.com/post/FestivalTycoonAdd10M-zNAL7")
+
+addscriptexist(7169897329, "Nanny [HORROR] | Infinite Screams", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Nanny%20HORROR%20%20Infinite%20Screams.lua", "https://rbxscript.com/post/NannyHORRORInfiniteScreams-ExXxw")
+
+addscript(10377670005, "Current Game","Kidnap Simulator | Auto Kidnap", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Kidnap%20Simulator%20%20Auto%20Kidnap.lua", "https://rbxscript.com/post/KidnapSimulatorAutoKidnap-dkJyx")
+
+addscriptexist(10377670005, "Kidnap Simulator | 100k Kidnap Every Second", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Kidnap%20Simulator%20%20k%20Kidnap%20Every%20Second.lua", "https://rbxscript.com/post/KidnapSimulator100kKidnapEverySecond-E5OgG")
+
+addscriptexist(2788229376, "Da Hood | Aim Lock, AntiLag, Silent Mode", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Da%20Hood%20%20Aim%20Lock%20AntiLag%20Silent%20Mode.lua", "https://rbxscript.com/post/DaHoodAimLockAntiLagSilentMode-Hvpwo")
+
+addscriptexist(5993942214, "Rush Point | Skin Changer", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Rush%20Point%20%20Skin%20Changer.lua", "https://rbxscript.com/post/RushPointSkinChanger-L4bVU")
+
+addscript(1344307396, "Current Game","Destroy the Noob | Give All Items", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Destroy%20the%20Noob%20%20Give%20All%20Items.lua", "https://rbxscript.com/post/DestroytheNoobGiveAllItems-52ttr")
+
+addscriptexist(4522347649, "[FREE ADMIN] | Server Lagger", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FREE%20ADMIN%20%20Server%20Lagger.lua", "https://rbxscript.com/post/FREEADMINServerLagger-H1WzX")
+
+addscript(7603178367, "Current Game","Chipotle Burrito Builder | Auto Complete Event", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Chipotle%20Burrito%20Builder%20%20Auto%20Complete%20Event.lua", "https://rbxscript.com/post/ChipotleBurritoBuilderAutoCompleteEvent-34HF3")
+
+addscriptuniversal("Universal FE Gale Fighter", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20FE%20Gale%20Fighter.lua", "https://rbxscript.com/post/UniversalFEGaleFighter-VaRWR")
+
+addscriptexist(2185497593, "Arcade Island X: Working Arcade | Auto Farm Money, AutoFarm XP, Walkspeed", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Arcade%20Island%20X%20Working%20Arcade%20%20Auto%20Farm%20Money%20AutoFarm%20XP%20Walkspeed.lua", "https://rbxscript.com/post/ArcadeIslandXWorkingArcadeAutoFarmMoneyAutoFarmXPWalkspeed-HR2dA")
+
+addscriptexist(1242235469, "Ball and axe | Reach & More!", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ball%20and%20axe%20%20Reach%20%20More.lua", "https://rbxscript.com/post/BallandaxeReachMore-5r2Xw")
+
+addscript(4997792989, "Current Game","Homeless Simulator In Russia | Infinite Money", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Homeless%20Simulator%20In%20Russia%20%20Infinite%20Money.lua", "https://rbxscript.com/post/HomelessSimulatorInRussiaInfiniteMoney-A9UC4")
+
+addscript(2906554815, "Current Game","S.W.A.T Simulator | Infinite Xp - Get Any Gun", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SWAT%20Simulator%20%20Infinite%20Xp%20%20Get%20Any%20Gun.lua", "https://rbxscript.com/post/SWATSimulatorInfiniteXpGetAnyGun-P7zzn")
+
+addscriptexist(192800, "Work at a Pizza Place | Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Work%20at%20a%20Pizza%20Place%20%20Auto%20Farm.lua", "https://rbxscript.com/post/WorkataPizzaPlaceAutoFarm-RFJQu")
+
+addscriptexist(85697719, "Kingdom Life 2 | Name Change For Every Player", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Kingdom%20Life%20%20%20Name%20Change%20For%20Every%20Player.lua", "https://rbxscript.com/post/KingdomLife2NameChangeForEveryPlayer-yct1y")
+
+addscriptuniversal("Universal Aim Assistant", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Aim%20Assistant.lua", "https://rbxscript.com/post/UniversalAimAssistant-UiokD")
+
+addscriptuniversal("Blox Fruits | GUI - Auto Farm, Auto Level & More!", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blox%20Fruits%20%20GUI%20%20Auto%20Farm%20Auto%20Level%20%20More.lua", "https://rbxscript.com/post/BloxFruitsGUIAutoFarmAutoLevelMore-gfzdm")
+
+addscriptexist(2788229376, "Da Hood | Fly, Pickup Knife, AutoBuy", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Da%20Hood%20%20Fly%20Pickup%20Knife%20AutoBuy.lua", "https://rbxscript.com/post/DaHoodFlyPickupKnifeAutoBuy-0rszn")
+
+addscriptexist(9431770682, "Lost Rooms [ESP, Fly, Farm and More]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Lost%20Rooms%20ESP%20Fly%20Farm%20and%20More.lua", "https://rbxscript.com/post/LostRoomsESPFlyFarmandMore-sm1dq")
+
+addscriptexist(21532277, "Notoriety | Walkspeed, Fly, Tp Bypass", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Notoriety%20%20Walkspeed%20Fly%20Tp%20Bypass.lua", "https://rbxscript.com/post/NotorietyWalkspeedFlyTpBypass-sHvZV")
+
+addscript(9072679513, "Current Game","Anime Impact Simulator! | Auto Train, Auto Rank, Auto Energy", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime%20Impact%20Simulator%20%20Auto%20Train%20Auto%20Rank%20Auto%20Energy.lua", "https://rbxscript.com/post/AnimeImpactSimulatorAutoTrainAutoRankAutoEnergy-r6rCe")
+
+addscriptexist(6461766546, "A Hero's Destiny | Auto Farm, Auto Train, Auto Punch", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/A%20Heros%20Destiny%20%20Auto%20Farm%20Auto%20Train%20Auto%20Punch.lua", "https://rbxscript.com/post/AHerosDestinyAutoFarmAutoTrainAutoPunch-Zp40y")
+
+addscriptexist(183364845, "Speed Run 4 | Auto Farm - Complete Dimensionn & More!", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Speed%20Run%20%20%20Auto%20Farm%20%20Complete%20Dimensionn%20%20More.lua", "https://rbxscript.com/post/SpeedRun4AutoFarmCompleteDimensionnMore-HHK5v")
+
+addscriptexist(961409234, "Blood Moon Tycoon | Instant Server Lagger", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blood%20Moon%20Tycoon%20%20Instant%20Server%20Lagger.lua", "https://rbxscript.com/post/BloodMoonTycoonInstantServerLagger-xYAFc")
+
+addscriptexist(6872265039, "BedWars | GUI - Auto Clicker, Aim Assist & More!", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BedWars%20%20GUI%20%20Auto%20Clicker%20Aim%20Assist%20%20More.lua", "https://rbxscript.com/post/BedWarsGUIAutoClickerAimAssistMore-D4gUm")
+
+addscriptexist(185655149, "Bloxburg | Pizza Delivery Job Auto Farm With Tp Bypass", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Bloxburg%20%20Pizza%20Delivery%20Job%20Auto%20Farm%20With%20Tp%20Bypass.lua", "https://rbxscript.com/post/BloxburgPizzaDeliveryJobAutoFarmWithTpBypass-BpmPv")
+
+addscriptexist(10347946161, "Rat Washing Tycoon | Auto Collect Rats, Auto Sell, Auto Complete obby", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Rat%20Washing%20Tycoon%20%20Auto%20Collect%20Rats%20Auto%20Sell%20Auto%20Complete%20obby.lua", "https://rbxscript.com/post/RatWashingTycoonAutoCollectRatsAutoSellAutoCompleteobby-Ekfws")
+
+addscriptexist(9955279341, "Infinity Sea 2 | Auto Farm Npc, Auto Chest Farm, Killaura", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Infinity%20Sea%20%20%20Auto%20Farm%20Npc%20Auto%20Chest%20Farm%20Killaura.lua", "https://rbxscript.com/post/InfinitySea2AutoFarmNpcAutoChestFarmKillaura-nSrkA")
+
+addscriptexist(2569453732, "Rise of Nations | Unit Esp, Auto Develop Cities & More!", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Rise%20of%20Nations%20%20Unit%20Esp%20Auto%20Develop%20Cities%20%20More.lua", "https://rbxscript.com/post/RiseofNationsUnitEspAutoDevelopCitiesMore-tFm7Y")
+
+addhub("UnnamedHub | 3 Games", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/UnnamedHub%20%20%20Games.lua", "https://rbxscript.com/post/UnnamedHub3Games-RBpwW")
+
+addscriptexist(3823781113, "Saber Simulator | GUI - Auto Farming, Auto Upgrade & More!", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Saber%20Simulator%20%20GUI%20%20Auto%20Farming%20Auto%20Upgrade%20%20More.lua", "https://rbxscript.com/post/SaberSimulatorGUIAutoFarmingAutoUpgradeMore-XeJ3Q")
+
+addscriptexist(155615604, "Prison Life | Get All Guns, Auto Get Key Card, Super Punch", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Prison%20Life%20%20Get%20All%20Guns%20Auto%20Get%20Key%20Card%20Super%20Punch.lua", "https://rbxscript.com/post/PrisonLifeGetAllGunsAutoGetKeyCardSuperPunch-kNBmv")
+
+addscriptexist(2066381781, "Deadly Sins Retribution | Fast Auto Spin For Magic", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Deadly%20Sins%20Retribution%20%20Fast%20Auto%20Spin%20For%20Magic.lua", "https://rbxscript.com/post/DeadlySinsRetributionFastAutoSpinForMagic-QqRHr")
+
+addscriptexist(2788229376, "Da Hood | Anti Lock Section, Teleports, Fly", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Da%20Hood%20%20Anti%20Lock%20Section%20Teleports%20Fly.lua", "https://rbxscript.com/post/DaHoodAntiLockSectionTeleportsFly-k4R92")
+
+addscriptexist(2788229376, "Da Hood | Another Aimlock", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Da%20Hood%20%20Another%20Aimlock.lua", "https://rbxscript.com/post/DaHoodAnotherAimlock-y0lit")
+
+addscriptexist(155615604, "Prison Life | Teleports, Gun Modes, Arest", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Prison%20Life%20%20Teleports%20Gun%20Modes%20Arest.lua", "https://rbxscript.com/post/PrisonLifeTeleportsGunModesArest-AdnLU")
+
+addscriptexist(2753915549, "Blox Fruits | Auto Farm, Auto Stats, Teleports", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blox%20Fruits%20%20Auto%20Farm%20Auto%20Stats%20Teleports.lua", "https://rbxscript.com/post/BloxFruitsAutoFarmAutoStatsTeleports-YQ0JE")
+
+addscriptexist(7991339063, "Rainbow Friends | Auto Collect Items, Finish Area Teleport, Walkspeed", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Rainbow%20Friends%20%20Auto%20Collect%20Items%20Finish%20Area%20Teleport%20Walkspeed.lua", "https://rbxscript.com/post/RainbowFriendsAutoCollectItemsFinishAreaTeleportWalkspeed-LJ7ak")
+
+addscriptexist(4997792989, "Homeless Simulator In Russia | Pet Autofarm, Inf Money", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Homeless%20Simulator%20In%20Russia%20%20Pet%20Autofarm%20Inf%20Money.lua", "https://rbxscript.com/post/HomelessSimulatorInRussiaPetAutofarmInfMoney-4kd8u")
+
+addscriptexist(9993529229, "Counter Blox: Remastered | Silent Aim, Esp, Aimbot", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Counter%20Blox%20Remastered%20%20Silent%20Aim%20Esp%20Aimbot.lua", "https://rbxscript.com/post/CounterBloxRemasteredSilentAimEspAimbot-X1zU8")
+
+addscriptexist(9872472334, "Evade | GUI - Auto Farm, God Mode & More!", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Evade%20%20GUI%20%20Auto%20Farm%20God%20Mode%20%20More.lua", "https://rbxscript.com/post/EvadeGUIAutoFarmGodModeMore-9mHaJ")
+
+addscriptexist(10192063645, "Thy Hood | Tool Collector", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Thy%20Hood%20%20Tool%20Collector.lua", "https://rbxscript.com/post/ThyHoodToolCollector-xDFBy")
+
+addscriptuniversal("Universal Cool Character", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Cool%20Character.lua", "https://rbxscript.com/post/UniversalCoolCharacter-K6acR")
+
+addscriptuniversal("Universal FE Ruin EX", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20FE%20Ruin%20EX.lua", "https://rbxscript.com/post/UniversalFERuinEX-fRmar")
+
+addscriptexist(5956785391, "Project Slayers | Stun Effect Server Breaker", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Project%20Slayers%20%20Stun%20Effect%20Server%20Breaker.lua", "https://rbxscript.com/post/ProjectSlayersStunEffectServerBreaker-1r7mm")
+
+addscriptexist(488667523, "Those Who Remain | Item ESP", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Those%20Who%20Remain%20%20Item%20ESP.lua", "https://rbxscript.com/post/ThoseWhoRemainItemESP-jwRb0")
+
+addscriptexist(5732301513, "TRENCHES | Kill All Enemies", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TRENCHES%20%20Kill%20All%20Enemies.lua", "https://rbxscript.com/post/TRENCHESKillAllEnemies-x60Xg")
+
+addscriptexist(3177438863, "Dragon Blox | GUI", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Dragon%20Blox%20%20GUI.lua", "https://rbxscript.com/post/DragonBloxGUI-mnX7p")
+
+addscriptexist(7502726087, "Be a Hero | Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Be%20a%20Hero%20%20Auto%20Farm.lua", "https://rbxscript.com/post/BeaHeroAutoFarm-nQt7j")
+
+addscriptexist(2248408710, "Destruction Simulator | GUI - Mod Bomb, Mod Gun & More!", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Destruction%20Simulator%20%20GUI%20%20Mod%20Bomb%20Mod%20Gun%20%20More.lua", "https://rbxscript.com/post/DestructionSimulatorGUIModBombModGunMore-8mHpf")
+
+addscriptexist(2534724415, "Emergency Response: Liberty County | GUI - Unlock Cars, Auto ATM & More!", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Emergency%20Response%20Liberty%20County%20%20GUI%20%20Unlock%20Cars%20Auto%20ATM%20%20More.lua", "https://rbxscript.com/post/EmergencyResponseLibertyCountyGUIUnlockCarsAutoATMMore-QcKX4")
+
+addscriptexist(10192063645, "Thy hood | Get Excalibur", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Thy%20hood%20%20Get%20Excalibur.lua", "https://rbxscript.com/post/ThyhoodGetExcalibur-LgYNx")
+
+addscriptexist(9872472334, "Evade | Tp To map, TP To safe zone, AutoJump", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Evade%20%20Tp%20To%20map%20TP%20To%20safe%20zone%20AutoJump.lua", "https://rbxscript.com/post/Evade-LwQN5")
+
+addscriptexist(5780309044, "stands awakening | Instantly Change Stand, Walkspeed, Noclip", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/stands%20awakening%20%20Instantly%20Change%20Stand%20Walkspeed%20Noclip.lua", "https://rbxscript.com/post/standsawakeningInstantlyChangeStandWalkspeedNoclip-1pr2m")
+
+addscriptexist(3956818381, "Ninja Legends | Dupe Pets", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ninja%20Legends%20%20Dupe%20Pets.lua", "https://rbxscript.com/post/NinjaLegendsDupePets-Npl9s")
+
+addscriptexist(10192063645, "Thy hood | Automated Sword Finder, WalkSpeed Changer", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Thy%20hood%20%20Automated%20Sword%20Finder%20WalkSpeed%20Changer.lua", "https://rbxscript.com/post/ThyhoodAutomatedSwordFinderWalkSpeedChanger-UwlAQ")
+
+addscriptexist(2788229376, "Da Hood | AutoFarm, Korblox, AutoFarm Weight.", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Da%20Hood%20%20AutoFarm%20Korblox%20AutoFarm%20Weight.lua", "https://rbxscript.com/post/DaHoodAutoFarmKorbloxAutoFarmWeight-JgTEg")
+
+addscriptexist(6677985923, "Millionaire Empire Tycoon | Cash Giver, Walkspeed, Jumppower", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Millionaire%20Empire%20Tycoon%20%20Cash%20Giver%20Walkspeed%20Jumppower.lua", "https://rbxscript.com/post/MillionaireEmpireTycoonCashGiverWalkspeedJumppower-ntaDz")
+
+addscriptexist(1962086868, "Tower Of Hell | Get All Gears [NOT FE]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tower%20Of%20Hell%20%20Get%20All%20Gears%20NOT%20FE.lua", "https://rbxscript.com/post/TowerOfHellGetAllGearsNOTFE-KZxCR")
+
+addscriptexist(2788229376, "Da Hood | Aimlock, Target Aimbot, Anti Aim", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Da%20Hood%20%20Aimlock%20Target%20Aimbot%20Anti%20Aim.lua", "https://rbxscript.com/post/DaHoodAimlockTargetAimbotAntiAim-40Ehu")
+
+addscriptexist(10108131074, "Mow The Lawn! | Auto Refil Gas, Auto Mow, Auto Hatch Eggs.", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mow%20The%20Lawn%20%20Auto%20Refil%20Gas%20Auto%20Mow%20Auto%20Hatch%20Eggs.lua", "https://rbxscript.com/post/MowTheLawnAutoRefilGasAutoMowAutoHatchEggs-udpAP")
+
+addscriptexist(10676523834, "Racing Rocket | Auto Click Power, Auto Hatch, Auto Upgrade Rocket", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Racing%20Rocket%20%20Auto%20Click%20Power%20Auto%20Hatch%20Auto%20Upgrade%20Rocket.lua", "https://rbxscript.com/post/RacingRocketAutoClickPowerAutoHatchAutoUpgradeRocket-8xeuq")
+
+addscriptuniversal("Universal Make a Part", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Make%20a%20Part.lua", "https://rbxscript.com/post/UniversalMakeaPart-2uSBZ")
+
+addscriptexist(2066381781, "Deadly Sins Retribution | Auto Farm, Auto Quest, Godmode", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Deadly%20Sins%20Retribution%20%20Auto%20Farm%20Auto%20Quest%20Godmode.lua", "https://rbxscript.com/post/DeadlySinsRetributionAutoFarmAutoQuestGodmode-Vh0QS")
+
+addscriptuniversal("Universal Anti Chat banner / logger", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Anti%20Chat%20banner%20%20logger.lua", "https://rbxscript.com/post/UniversalAntiChatbannerlogger-Go29m")
+
+addscriptexist(10320240572, "Easy Race Clicker | Fast Win Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Easy%20Race%20Clicker%20%20Fast%20Win%20Auto%20Farm.lua", "https://rbxscript.com/post/EasyRaceClickerFastWinAutoFarm-Hq52o")
+
+addscriptexist(621129760, "Knife Ability Test | Walkspeed, Jumppower, Esp", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Knife%20Ability%20Test%20%20Walkspeed%20Jumppower%20Esp.lua", "https://rbxscript.com/post/KnifeAbilityTestWalkspeedJumppowerEsp-DKooO")
+
+addscriptexist(10675066724, "Slime Tower Tycoon | Anti Afk, Auto Collect, Walkspeed", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Slime%20Tower%20Tycoon%20%20Anti%20Afk%20Auto%20Collect%20Walkspeed.lua", "https://rbxscript.com/post/SlimeTowerTycoonAntiAfkAutoCollectWalkspeed-ZqPrd")
+
+addscriptexist(85697719, "Kingdom Life II | Name Change For Every Player", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Kingdom%20Life%20II%20%20Name%20Change%20For%20Every%20Player.lua", "https://rbxscript.com/post/KingdomLifeIINameChangeForEveryPlayer-2PQJ1")
+
+addscriptexist(9414511685, "Drive Cars Down A Hill! | Crash Server", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Drive%20Cars%20Down%20A%20Hill%20%20Crash%20Server.lua", "https://rbxscript.com/post/DriveCarsDownAHillCrashServer-aqism")
+
+addscriptexist(183364845, "Speed Run 4 | Fly, AutoFarm, Infinity Jump", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Speed%20Run%20%20%20Fly%20AutoFarm%20Infinity%20Jump.lua", "https://rbxscript.com/post/SpeedRun4FlyAutoFarmInfinityJump-Bn5NX")
+
+addscriptexist(4042427666, "Anime Fighting Simulator | Fly, AutoFarm, Auto Quests", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime%20Fighting%20Simulator%20%20Fly%20AutoFarm%20Auto%20Quests.lua", "https://rbxscript.com/post/AnimeFightingSimulatorFlyAutoFarmAutoQuests-jpvwb")
+
+addscriptexist(2474168535, "Westbound | Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Westbound%20%20Auto%20Farm.lua", "https://rbxscript.com/post/WestboundAutoFarm-zI8xi")
+
+addscriptexist(3956818381, "Ninja Legends | AutoFarm, AutoFarmBoss, AutoSell", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ninja%20Legends%20%20AutoFarm%20AutoFarmBoss%20AutoSell.lua", "https://rbxscript.com/post/NinjaLegendsAutoFarmAutoFarmBossAutoSell-77Wtl")
+
+addscriptexist(2622527242, "SCP rBreach | Infinity Capacity, Esp, Walkspeed", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SCP%20rBreach%20%20Infinity%20Capacity%20Esp%20Walkspeed.lua", "https://rbxscript.com/post/SCPrBreachInfinityCapacityEspWalkspeed-8klCX")
+
+addscriptexist(6229116934, "Hoopz | Aimbot, Reach, Walkspeed", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Hoopz%20%20Aimbot%20Reach%20Walkspeed.lua", "https://rbxscript.com/post/HoopzAimbotReachWalkspeed-cpVNj")
+
+addscriptexist(10192063645, "Thy hood | Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Thy%20hood%20%20Auto%20Farm.lua", "https://rbxscript.com/post/ThyhoodAutoFarm-iJRT9")
+
+addscript(2472820296, "Current Game","Ultimate Lifting Simulator | Get Strenght, AutoRebrith, Get Speed", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ultimate%20Lifting%20Simulator%20%20Get%20Strenght%20AutoRebrith%20Get%20Speed.lua", "https://rbxscript.com/post/UltimateLiftingSimulatorGetStrenghtAutoRebrithGetSpeed-f9sPN")
+
+addscriptexist(7180042682, "Military Tycoon | AutoFarm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Military%20Tycoon%20%20AutoFarm.lua", "https://rbxscript.com/post/MilitaryTycoonAutoFarm-wRX0W")
+
+addscriptexist(7952502098, "Impossible Glass Bridge Obby! | Auto Win - Infinite Cash", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Impossible%20Glass%20Bridge%20Obby%20%20Auto%20Win%20%20Infinite%20Cash.lua", "https://rbxscript.com/post/ImpossibleGlassBridgeObbyAutoWinInfiniteCash-5Lfvh")
+
+addscriptexist(9524757503, "iHeartLand: Music Tycoon | Get Free Item", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/iHeartLand%20Music%20Tycoon%20%20Get%20Free%20Item.lua", "https://rbxscript.com/post/iHeartLandMusicTycoonGetFreeItem-ZDcib")
+
+addscriptexist(2185497593, "Arcade Island X: Working Arcade | AutoFarm money", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Arcade%20Island%20X%20Working%20Arcade%20%20AutoFarm%20money.lua", "https://rbxscript.com/post/ArcadeIslandXWorkingArcadeAutoFarmmoney-CCxRk")
+
+addscript(6289365295, "Current Game","Sky's Difficulty Chart Obby | AutoComplete", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Skys%20Difficulty%20Chart%20Obby%20%20AutoComplete.lua", "https://rbxscript.com/post/SkysDifficultyChartObbyAutoComplete-n91CX")
+
+addscriptexist(9993529229, "Counter Blox: Remastered | Esp, Rage Bot, Auto Wall", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Counter%20Blox%20Remastered%20%20Esp%20Rage%20Bot%20Auto%20Wall.lua", "https://rbxscript.com/post/CounterBloxRemasteredEspRageBotAutoWall-j2wA5")
+
+addscriptexist(155615604, "Prison Life | Gun Mode, Give Gun, Walkspeed", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Prison%20Life%20%20Gun%20Mode%20Give%20Gun%20Walkspeed.lua", "https://rbxscript.com/post/PrisonLifeGunModeGiveGunWalkspeed-FvoCv")
+
+addscriptexist(8508303900, "Tower of Flood Escape 2 | Free Open Case.", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tower%20of%20Flood%20Escape%20%20%20Free%20Open%20Case.lua", "https://rbxscript.com/post/TowerofFloodEscape2FreeOpenCase-mrCLd")
+
+addscriptexist(8750997647, "Tapping legends X | AutoClick, AutoRebirth, AutoHatch", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tapping%20legends%20X%20%20AutoClick%20AutoRebirth%20AutoHatch.lua", "https://rbxscript.com/post/TappinglegendsXAutoClickAutoRebirthAutoHatch-tScdb")
+
+addscriptexist(8737602449, "Pls Donate | Auto Thank, Auto Beg, AntiAfk", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pls%20Donate%20%20Auto%20Thank%20Auto%20Beg%20AntiAfk.lua", "https://rbxscript.com/post/PlsDonateAutoThankAutoBegAntiAfk-IWVkW")
+
+addscriptexist(537413528, "Build a boat for treasure | Auto Farm, AutoBuy, Teleports", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Build%20a%20boat%20for%20treasure%20%20Auto%20Farm%20AutoBuy%20Teleports.lua", "https://rbxscript.com/post/BuildaboatfortreasureAutoFarmAutoBuyTeleports-P2uBD")
+
+addscriptexist(2551991523, "Broken Bones 4 | Auto Break Bones", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Broken%20Bones%20%20%20Auto%20Break%20Bones.lua", "https://rbxscript.com/post/BrokenBones4AutoBreakBones-uyVGi")
+
+addscriptexist(648362523, "Breaking Point | Auto Win", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Breaking%20Point%20%20Auto%20Win.lua", "https://rbxscript.com/post/BreakingPointAutoWin-U3TfZ")
+
+addscript(102131021, "Current Game","Flood Survival Waves | Choose Maps, Infinity Jump, Teleports", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Flood%20Survival%20Waves%20%20Choose%20Maps%20Infinity%20Jump%20Teleports.lua", "https://rbxscript.com/post/FloodSurvivalWavesChooseMapsInfinityJumpTeleports-uoHol")
+
+addscript(10753832846, "Current Game","Axe Gui Factory | Damage Loop", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Axe%20Gui%20Factory%20%20Damage%20Loop.lua", "https://rbxscript.com/post/AxeGuiFactoryDamageLoop-AAZmU")
+
+addscript(5683833663, "Current Game","Ragdoll Engine | Kill, Anti Fling, Anti Kill", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ragdoll%20Engine%20%20Kill%20Anti%20Fling%20Anti%20Kill.lua", "https://rbxscript.com/post/RagdollEngineKillAntiFlingAntiKill-dpvQ4")
+
+addhub("Universal Hub Loader", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Hub%20Loader.lua", "https://rbxscript.com/post/UniversalHubLoader-qNr9o")
+
+addscriptexist(8737602449, "PLS DONATE | Animations, Emotes, Dances", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PLS%20DONATE%20%20Animations%20Emotes%20Dances.lua", "https://rbxscript.com/post/PLSDONATEAnimationsEmotesDances-gGN7x")
+
+addscriptexist(7169897329, "Nanny | Redeem Codes, Inf Stamina, Buy Any Item", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Nanny%20%20Redeem%20Codes%20Inf%20Stamina%20Buy%20Any%20Item.lua", "https://rbxscript.com/post/NannyRedeemCodesInfStaminaBuyAnyItem-hLord")
+
+addscriptexist(3411100258, "prtty much evry bordr gam evr | Autofarm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/prtty%20much%20evry%20bordr%20gam%20evr%20%20Autofarm.lua", "https://rbxscript.com/post/prttymuchevrybordrgamevrAutofarm-cSA1Z")
+
+addscriptexist(7991339063, "Rainbow Friends | AutoWin", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Rainbow%20Friends%20%20AutoWin.lua", "https://rbxscript.com/post/RainbowFriendsAutoWin-cklru")
+
+addscriptexist(10192063645, "Thy Hood | Get Excalibur Sword", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Thy%20Hood%20%20Get%20Excalibur%20Sword.lua", "https://rbxscript.com/post/ThyHoodGetExcaliburSword-LclaX")
+
+addscript(6979242564, "Current Game","Noob's High Jump Per Difficulty Chart Obby | Auto Complete Game", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Noobs%20High%20Jump%20Per%20Difficulty%20Chart%20Obby%20%20Auto%20Complete%20Game.lua", "https://rbxscript.com/post/NoobsHighJumpPerDifficultyChartObbyAutoCompleteGame-gJ4hc")
+
+addscriptexist(9872472334, "Evade | Auto Farm Xp - Auto Teleport & Revive + More!", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Evade%20%20Auto%20Farm%20Xp%20%20Auto%20Teleport%20%20Revive%20%20More.lua", "https://rbxscript.com/post/EvadeAutoFarmXpAutoTeleportReviveMore-a6dwf")
+
+addscriptexist(9498006165, "Tapping Simulator! | Remove Egg Hatch and Click Delay", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tapping%20Simulator%20%20Remove%20Egg%20Hatch%20and%20Click%20Delay.lua", "https://rbxscript.com/post/TappingSimulatorRemoveEggHatchandClickDelay-HijcR")
+
+addscriptexist(2248408710, "Destruction Simulator | Add Coins, Reset, Remove Cooldown", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Destruction%20Simulator%20%20Add%20Coins%20Reset%20Remove%20Cooldown.lua", "https://rbxscript.com/post/DestructionSimulatorAddCoinsResetRemoveCooldown-rGYNU")
+
+addscriptexist(2788229376, "Da Hood | Smooth Aim Lock", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Da%20Hood%20%20Smooth%20Aim%20Lock.lua", "https://rbxscript.com/post/DaHoodSmoothAimLock-AQSps")
+
+addscriptuniversal("Universal Discord Server Auto Join", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Discord%20Server%20Auto%20Join.lua", "https://rbxscript.com/post/UniversalDiscordServerAutoJoin-Xqg0V")
+
+addscriptexist(2753915549, "Blox Fruits | Auto Farm, Auto Elite, Auto Superhuman", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blox%20Fruits%20%20Auto%20Farm%20Auto%20Elite%20Auto%20Superhuman.lua", "https://rbxscript.com/post/BloxFruitsAutoFarmAutoEliteAutoSuperhuman-PmO6U")
+
+addscriptexist(6755746130, "Fruit Juice Tycoon: Refreshed | Auto Farm, Auto Sell, Auto Buy", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Fruit%20Juice%20Tycoon%20Refreshed%20%20Auto%20Farm%20Auto%20Sell%20Auto%20Buy.lua", "https://rbxscript.com/post/FruitJuiceTycoonRefreshedAutoFarmAutoSellAutoBuy-XYF8l")
+
+addscriptexist(286090429, "Arsenal (Bolts Hub Upd) | Silent Aim, KillAll, Instant Equip", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Arsenal%20Bolts%20Hub%20Upd%20%20Silent%20Aim%20KillAll%20Instant%20Equip.lua", "https://rbxscript.com/post/ArsenalBoltsHubUpdSilentAimKillAllInstantEquip-nxGbG")
+
+addscriptexist(185655149, "Welcome to Bloxburg | AutoFarm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Welcome%20to%20Bloxburg%20%20AutoFarm.lua", "https://rbxscript.com/post/WelcometoBloxburgAutoFarm-A419t")
+
+addscriptexist(9284097280, "Apartment Tycoon | AutoBuy, AutoCollect, Fly", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Apartment%20Tycoon%20%20AutoBuy%20AutoCollect%20Fly.lua", "https://rbxscript.com/post/ApartmentTycoonAutoBuyAutoCollectFly-XVsRQ")
+
+addscript(10447882390, "Current Game","Zombie Research Tycoon | AutoCollect, AutoBuy, AutoMine", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Zombie%20Research%20Tycoon%20%20AutoCollect%20AutoBuy%20AutoMine.lua", "https://rbxscript.com/post/ZombieResearchTycoonAutoCollectAutoBuyAutoMine-nQ0FV")
+
+addscriptexist(10631181587, "Stone Miner Simulator 2 | Claim All Codes, Claims All login Rewards", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Stone%20Miner%20Simulator%20%20%20Claim%20All%20Codes%20Claims%20All%20login%20Rewards.lua", "https://rbxscript.com/post/StoneMinerSimulator2ClaimAllCodesClaimsAllloginRewards-TRAQT")
+
+addscriptexist(2788229376, "Da Hood | Cash Collect, Fly, Noclip", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Da%20Hood%20%20Cash%20Collect%20Fly%20Noclip.lua", "https://rbxscript.com/post/DaHoodCashCollectFlyNoclip-84coT")
+
+addscriptexist(10631181587, "Stone Miner Simulator 2 | AutoRebirth", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Stone%20Miner%20Simulator%20%20%20AutoRebirth.lua", "https://rbxscript.com/post/StoneMinerSimulator2AutoRebirth-T33y7")
+
+addscript(9829869210, "Current Game","Karate Kick Simulator | KillAll", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Karate%20Kick%20Simulator%20%20KillAll.lua", "https://rbxscript.com/post/KarateKickSimulatorKillAll-Nll6B")
+
+addscriptexist(2753915549, "Blox Fruits | AutoFarm Level, KillAura, Aimbot", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blox%20Fruits%20%20AutoFarm%20Level%20KillAura%20Aimbot.lua", "https://rbxscript.com/post/BloxFruitsAutoFarmLevelKillAuraAimbot-lhEcE")
+
+addscriptexist(8146731988, "Ultra Power Tycoon | Inf Jump, Player Modifications, Esp", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ultra%20Power%20Tycoon%20%20Inf%20Jump%20Player%20Modifications%20Esp.lua", "https://rbxscript.com/post/UltraPowerTycoonInfJumpPlayerModificationsEsp-xRxjd")
+
+addscriptexist(7952502098, "Impossible Glass Bridge Obby! | AutoFarm Money, Show Breaking Glass", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Impossible%20Glass%20Bridge%20Obby%20%20AutoFarm%20Money%20Show%20Breaking%20Glass.lua", "https://rbxscript.com/post/ImpossibleGlassBridgeObbyAutoFarmMoneyShowBreakingGlass-sjkbD")
+
+addscriptexist(10675066724, "Slime Tower Tycoon | Auto Obby, Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Slime%20Tower%20Tycoon%20%20Auto%20Obby%20Auto%20Farm.lua", "https://rbxscript.com/post/SlimeTowerTycoonAutoObbyAutoFarm-I1GlE")
+
+addscriptexist(9992339729, "Longest Answer Wins | Infinite Blocks", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Longest%20Answer%20Wins%20%20Infinite%20Blocks.lua", "https://rbxscript.com/post/LongestAnswerWinsInfiniteBlocks-jyLWW")
+
+addscriptexist(2753915549, "Blox Fruits | AutoFarm, Auto Quest, Auto Set Spawn Point", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blox%20Fruits%20%20AutoFarm%20Auto%20Quest%20Auto%20Set%20Spawn%20Point.lua", "https://rbxscript.com/post/BloxFruitsAutoFarmAutoQuestAutoSetSpawnPoint-Tr7ob")
+
+addscriptexist(893973440, "Flee The Facility | ESP, Tp to comp., Walkspeed", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Flee%20The%20Facility%20%20ESP%20Tp%20to%20comp%20Walkspeed.lua", "https://rbxscript.com/post/FleeTheFacilityESPTptocompWalkspeed-Ivjb1")
+
+addscriptexist(9264596435, "Idle Heroes Simulator! | Auto Farm, Auto Hire, Auto Upgr", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Idle%20Heroes%20Simulator%20%20Auto%20Farm%20Auto%20Hire%20Auto%20Upgr.lua", "https://rbxscript.com/post/IdleHeroesSimulatorAutoFarmAutoHireAutoUpgr-JF8xq")
+
+addscriptexist(8540168650, "Stand Upright: Rebooted | AutoFarm, Items Farm, AutoBuy", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Stand%20Upright%20Rebooted%20%20AutoFarm%20Items%20Farm%20AutoBuy.lua", "https://rbxscript.com/post/StandUprightRebootedAutoFarmItemsFarmAutoBuy-ZNFSA")
+
+addscript(5063021080, "Current Game","My Modded Day | Walkspeed, Grab all Items, Teleports", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/My%20Modded%20Day%20%20Walkspeed%20Grab%20all%20Items%20Teleports.lua", "https://rbxscript.com/post/MyModdedDayWalkspeedGraballItemsTeleports-2P4ge")
+
+addscriptexist(10652184030, "Jump Clicker | Infinite Stats/Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Jump%20Clicker%20%20Infinite%20StatsAuto%20Farm.lua", "https://rbxscript.com/post/JumpClickerInfiniteStatsAutoFarm-4bGdj")
+
+addscriptexist(183364845, "Speed Run 4 | AutoFarm Gems", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Speed%20Run%20%20%20AutoFarm%20Gems.lua", "https://rbxscript.com/post/SpeedRun4AutoFarmGems-xP2yG")
+
+addscriptexist(1962086868, "Tower Of Hell | Remove Anticheat, Remove Fog, Give all items", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tower%20Of%20Hell%20%20Remove%20Anticheat%20Remove%20Fog%20Give%20all%20items.lua", "https://rbxscript.com/post/TowerOfHellRemoveAnticheatRemoveFogGiveallitems-WbrVx")
+
+addscriptexist(8884433153, "Collect All Pets! | AutoFarm, AutoCollect, Auto Claim Rewards", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Collect%20All%20Pets%20%20AutoFarm%20AutoCollect%20Auto%20Claim%20Rewards.lua", "https://rbxscript.com/post/CollectAllPetsAutoFarmAutoCollectAutoClaimRewards-lYwcn")
+
+addscriptexist(3198259055, "SoulShatters Test Place | Cool Character", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SoulShatters%20Test%20Place%20%20Cool%20Character.lua", "https://rbxscript.com/post/SoulShattersTestPlaceCoolCharacter-DmY2J")
+
+addscriptexist(9992339729, "Longest Answer Wins | Unlimited Blocks", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Longest%20Answer%20Wins%20%20Unlimited%20Blocks.lua", "https://rbxscript.com/post/LongestAnswerWinsUnlimitedBlocks-dSqdu")
+
+addscriptexist(10320240572, "Easy Race Clicker | Fast Auto Win, Auto Rebirth, Auto Speed", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Easy%20Race%20Clicker%20%20Fast%20Auto%20Win%20Auto%20Rebirth%20Auto%20Speed.lua", "https://rbxscript.com/post/EasyRaceClickerFastAutoWinAutoRebirthAutoSpeed-KS9Io")
+
+addscriptuniversal("Universal Bypasser Nwords", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Bypasser%20Nwords.lua", "https://rbxscript.com/post/UniversalBypasserNwords-jphI8")
+
+addscriptexist(9992339729, "Longest Answer Wins | Blocks Changer", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Longest%20Answer%20Wins%20%20Blocks%20Changer.lua", "https://rbxscript.com/post/LongestAnswerWinsBlocksChanger-owBYZ")
+
+addscriptexist(537413528, "Build A Boat For Treasure | Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Build%20A%20Boat%20For%20Treasure%20%20Auto%20Farm.lua", "https://rbxscript.com/post/BuildABoatForTreasureAutoFarm-v6cEj")
+
+addscriptexist(4616652839, "Shindo Life | Autofarm Mobs, Auto Key Press, Infinite Jump", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Shindo%20Life%20%20Autofarm%20Mobs%20Auto%20Key%20Press%20Infinite%20Jump.lua", "https://rbxscript.com/post/ShindoLifeAutofarmMobsAutoKeyPressInfiniteJump-aAIAN")
+
+addscriptexist(2066381781, "Deadly Sins Retribution | Change Stats, Auto Farm, God Mode", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Deadly%20Sins%20Retribution%20%20Change%20Stats%20Auto%20Farm%20God%20Mode.lua", "https://rbxscript.com/post/DeadlySinsRetributionChangeStatsAutoFarmGodMode-P1G1o")
+
+addscript(9630689264, "Current Game","Hood Genesis | Delete All Doors, Instant Kill, Goto Random", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Hood%20Genesis%20%20Delete%20All%20Doors%20Instant%20Kill%20Goto%20Random.lua", "https://rbxscript.com/post/HoodGenesisDeleteAllDoorsInstantKillGotoRandom-JwQHo")
+
+addscriptexist(2788229376, "Da Hood | Teleports, Esp, Aimlock", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Da%20Hood%20%20Teleports%20Esp%20Aimlock.lua", "https://rbxscript.com/post/DaHoodTeleportsEspAimlock-wbBQJ")
+
+addscriptexist(142823291, "Murder Mystery 2 | Silent Aim, Speed Hax, KillAll", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Murder%20Mystery%20%20%20Silent%20Aim%20Speed%20Hax%20KillAll.lua", "https://rbxscript.com/post/MurderMystery2SilentAimSpeedHaxKillAll-921kO")
+
+addscriptexist(4924922222, "Brookhaven RP | Teleports", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Brookhaven%20RP%20%20Teleports.lua", "https://rbxscript.com/post/BrookhavenRPTeleports-NgAwb")
+
+addscriptexist(3956818381, "Ninja Legends | AutoSwing, AutoSell, Unlock All Elements", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ninja%20Legends%20%20AutoSwing%20AutoSell%20Unlock%20All%20Elements.lua", "https://rbxscript.com/post/NinjaLegendsAutoSwingAutoSellUnlockAllElements-5B25U")
+
+addscriptexist(286090429, "Arsenal | Hitbox Expander, ESP", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Arsenal%20%20Hitbox%20Expander%20ESP.lua", "https://rbxscript.com/post/ArsenalHitboxExpanderESP-Vq5q4")
+
+addscriptexist(155615604, "Prison Life | Btools, Fly, Walkspeed", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Prison%20Life%20%20Btools%20Fly%20Walkspeed.lua", "https://rbxscript.com/post/PrisonLifeBtoolsFlyWalkspeed-JSHKQ")
+
+addscriptexist(142823291, "Murder Mystery 2 | KillAll, KillSheriff, GodMode, Silent Aim", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Murder%20Mystery%20%20%20KillAll%20KillSheriff%20GodMode%20Silent%20Aim.lua", "https://rbxscript.com/post/MurderMystery2KillAllKillSheriffGodModeSilentAim-mwUv7")
+
+addscriptexist(8674186618, "Crate Opening Incremental | Auto Rebirth, Auto open all cases, Universal Features", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Crate%20Opening%20Incremental%20%20Auto%20Rebirth%20Auto%20open%20all%20cases%20Universal%20Features.lua", "https://rbxscript.com/post/CrateOpeningIncrementalAutoRebirthAutoopenallcasesUniversalFeatures-r1YDT")
+
+addscriptexist(9417197334, "Anime Story [GUI - Stats Changer]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime%20Story%20GUI%20%20Stats%20Changer.lua", "https://rbxscript.com/post/AnimeStoryGUIStatsChanger-iyRFr")
+
+addscriptexist(335760407, "TPS: Ultimate Soccer | Inf Stamina, AutoGK, Reach", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TPS%20Ultimate%20Soccer%20%20Inf%20Stamina%20AutoGK%20Reach.lua", "https://rbxscript.com/post/TPSUltimateSoccerInfStaminaAutoGKReach-0raaf")
+
+addscriptexist(9585537847, "SHADOVIS RPG | AutoCollect Cubits, AutoRebirth, KillAura", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SHADOVIS%20RPG%20%20AutoCollect%20Cubits%20AutoRebirth%20KillAura.lua", "https://rbxscript.com/post/SHADOVISRPGAutoCollectCubitsAutoRebirthKillAura-z1CCr")
+
+addscript(4601704679, "Current Game","Bakon | Walkspeed, AutoFarmm JumpPower", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Bakon%20%20Walkspeed%20AutoFarmm%20JumpPower.lua", "https://rbxscript.com/post/BakonWalkspeedAutoFarmmJumpPower-aEbEF")
+
+addscriptexist(9049840490, "Sonic Speed Simulator | Auto Win Race, Auto Run, Auto Rebirth", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sonic%20Speed%20Simulator%20%20Auto%20Win%20Race%20Auto%20Run%20Auto%20Rebirth.lua", "https://rbxscript.com/post/SonicSpeedSimulatorAutoWinRaceAutoRunAutoRebirth-pjJyq")
+
+addscriptexist(9264596435, "Idle Heroes Simulator | Auto Hit - Auto Buy Heroes", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Idle%20Heroes%20Simulator%20%20Auto%20Hit%20%20Auto%20Buy%20Heroes.lua", "https://rbxscript.com/post/IdleHeroesSimulatorAutoHitAutoBuyHeroes-qmf4f")
+
+addscriptexist(2753915549, "Blox Fruits | Chest Farm, Teleports, Visuals", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blox%20Fruits%20%20Chest%20Farm%20Teleports%20Visuals.lua", "https://rbxscript.com/post/BloxFruitsChestFarmTeleportsVisuals-0loEH")
+
+addscriptexist(8540168650, "Stand Upright: Rebooted | Stand Farm, Item Farm, Quest Farming", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Stand%20Upright%20Rebooted%20%20Stand%20Farm%20Item%20Farm%20Quest%20Farming.lua", "https://rbxscript.com/post/StandUprightRebootedStandFarmItemFarmQuestFarming-cg0eB")
+
+addscriptexist(142823291, "Murder Mystery 2 | XRay, Chams Esp, AutoFarms", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Murder%20Mystery%20%20%20XRay%20Chams%20Esp%20AutoFarms.lua", "https://rbxscript.com/post/MurderMystery2XRayChamsEspAutoFarms-H4Nfb")
+
+addscriptexist(3177438863, "Dragon Blox | Auto Multiplier Zone, Auto Attack, Auto Rebirth", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Dragon%20Blox%20%20Auto%20Multiplier%20Zone%20Auto%20Attack%20Auto%20Rebirth.lua", "https://rbxscript.com/post/DragonBloxAutoMultiplierZoneAutoAttackAutoRebirth-c5f2U")
+
+addscriptexist(3177438863, "Dragon Blox | Auto Attack - Auto Rebirth", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Dragon%20Blox%20%20Auto%20Attack%20%20Auto%20Rebirth.lua", "https://rbxscript.com/post/DragonBloxAutoAttackAutoRebirth-LUwG6")
+
+addscriptexist(10192063645, "Thy Hood | Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Thy%20Hood%20%20Auto%20Farm.lua", "https://rbxscript.com/post/ThyHoodAutoFarm-ecScf")
+
+addscriptexist(1242235469, "ball and axe | Unlock Your Axe - Remove Limits", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ball%20and%20axe%20%20Unlock%20Your%20Axe%20%20Remove%20Limits.lua", "https://rbxscript.com/post/ballandaxeUnlockYourAxeRemoveLimits-0fIvX")
+
+addscriptexist(9417197334, "Anime Story | Auto Farm - Auto Quest", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime%20Story%20%20Auto%20Farm%20%20Auto%20Quest.lua", "https://rbxscript.com/post/AnimeStoryAutoFarmAutoQuest-5ady1")
+
+addscriptexist(6229116934, "Hoopz | GUI - Aimbot, Silent Aim", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Hoopz%20%20GUI%20%20Aimbot%20Silent%20Aim.lua", "https://rbxscript.com/post/HoopzGUIAimbotSilentAim-v5iUC")
+
+addscriptexist(2788229376, "Da Hood | GUI - AimLock, Silent Aim & More!", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Da%20Hood%20%20GUI%20%20AimLock%20Silent%20Aim%20%20More.lua", "https://rbxscript.com/post/DaHoodGUIAimLockSilentAimMore-CbhBn")
+
+addscriptexist(8482451541, "Brick Defense | Auto Adds Towers When Released", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Brick%20Defense%20%20Auto%20Adds%20Towers%20When%20Released.lua", "https://rbxscript.com/post/BrickDefenseAutoAddsTowersWhenReleased-rUnsU")
+
+addscriptexist(537413528, "Build A Boat For Treasure | GUI - Auto Farm, Utilites & More!", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Build%20A%20Boat%20For%20Treasure%20%20GUI%20%20Auto%20Farm%20Utilites%20%20More.lua", "https://rbxscript.com/post/BuildABoatForTreasureGUIAutoFarmUtilitesMore-DpVi9")
+
+addscriptexist(142823291, "Murder Mystery 2 | GUI - God Mode, Kill Aura & More!", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Murder%20Mystery%20%20%20GUI%20%20God%20Mode%20Kill%20Aura%20%20More.lua", "https://rbxscript.com/post/MurderMystery2GUIGodModeKillAuraMore-4lbv0")
+
+addhub("EzScripts HUB | 5 Games", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/EzScripts%20HUB%20%20%20Games.lua", "https://rbxscript.com/post/EzScriptsHUB5Games-z2Oz5")
+
+addscriptexist(8750997647, "Tapping Legends X | GUI - Auto Click, Auto Rebirth & More!", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tapping%20Legends%20X%20%20GUI%20%20Auto%20Click%20Auto%20Rebirth%20%20More.lua", "https://rbxscript.com/post/TappingLegendsXGUIAutoClickAutoRebirthMore-EiUAX")
+
+addscriptexist(8884433153, "Collect All Pets! | Auto Claim Daily Egg, Auto Farm, TP Egg", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Collect%20All%20Pets%20%20Auto%20Claim%20Daily%20Egg%20Auto%20Farm%20TP%20Egg.lua", "https://rbxscript.com/post/CollectAllPetsAutoClaimDailyEggAutoFarmTPEgg-U2rOe")
+
+addscriptexist(2788229376, "Da Hood | Simple AimLock", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Da%20Hood%20%20Simple%20AimLock.lua", "https://rbxscript.com/post/DaHoodSimpleAimLock-mdN7n")
+
+addscriptexist(9264596435, "Idle Heroes Simulator | Auto Farm, Auto Upgrade", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Idle%20Heroes%20Simulator%20%20Auto%20Farm%20Auto%20Upgrade.lua", "https://rbxscript.com/post/IdleHeroesSimulatorAutoFarmAutoUpgrade-LWK3D")
+
+addscript(10508296878, "Current Game","Murder Mystery 7 | Redeem All Codes", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Murder%20Mystery%20%20%20Redeem%20All%20Codes.lua", "https://rbxscript.com/post/MurderMystery7RedeemAllCodes-ulmfi")
+
+addscriptexist(1224212277, "Mad City | AutoFarm EXP", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mad%20City%20%20AutoFarm%20EXP.lua", "https://rbxscript.com/post/MadCityAutoFarmEXP-qWCCK")
+
+addscriptexist(3527629287, "BIG Paintball! | Unlock All", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BIG%20Paintball%20%20Unlock%20All.lua", "https://rbxscript.com/post/BIGPaintballUnlockAll-FWl8H")
+
+addscriptexist(621129760, "Knife Ability Test | Silent Aim, Aim Torso, Fov", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Knife%20Ability%20Test%20%20Silent%20Aim%20Aim%20Torso%20Fov.lua", "https://rbxscript.com/post/KnifeAbilityTestSilentAimAimTorsoFov-Szlqs")
+
+addscriptexist(286090429, "Arsenal | Aimlock, Esp, AimKey", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Arsenal%20%20Aimlock%20Esp%20AimKey.lua", "https://rbxscript.com/post/ArsenalAimlockEspAimKey-GC2r8")
+
+addscriptexist(2788229376, "Da Hood | Silent Aim another version", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Da%20Hood%20%20Silent%20Aim%20another%20version.lua", "https://rbxscript.com/post/DaHoodSilentAimanotherversion-UXK99")
+
+addscriptuniversal("Universal Stream Sniper", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Stream%20Sniper.lua", "https://rbxscript.com/post/RobloxUniversalScriptStreamSniper-EBuGi")
+
+addscriptuniversal("Universal Infinity Store", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Infinity%20Store.lua", "https://rbxscript.com/post/RobloxUniversalScriptInfinityStore-bOY4L")
+
+addscriptuniversal("Universal Basic Dash", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Basic%20Dash.lua", "https://rbxscript.com/post/RobloxUniversalScriptBasicDash-A1gYN")
+
+addscript(10275942471, "Current Game","Color Race! | Get alot of Wins + Speed", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Color%20Race%20%20Get%20alot%20of%20Wins%20%20Speed.lua", "https://rbxscript.com/post/ColorRaceGetalotofWinsSpeed-uPDOT")
+
+addscript(8227619186, "Current Game","Murder Mystery A | Gems AutoFarm, Walkspeed, Inf Jump", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Murder%20Mystery%20A%20%20Gems%20AutoFarm%20Walkspeed%20Inf%20Jump.lua", "https://rbxscript.com/post/MurderMysteryAGemsAutoFarmWalkspeedInfJump-8TCsX")
+
+addscriptexist(5490351219, "Clicker Madness! | AutoFarm, Boss Farm, Claim Flags", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Clicker%20Madness%20%20AutoFarm%20Boss%20Farm%20Claim%20Flags.lua", "https://rbxscript.com/post/ClickerMadnessAutoFarmBossFarmClaimFlags-WRDNl")
+
+addscriptexist(9648883891, "Festival Tycoon | AutoEnd Tycoon", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Festival%20Tycoon%20%20AutoEnd%20Tycoon.lua", "https://rbxscript.com/post/FestivalTycoonAutoEndTycoon-eYEEl")
+
+addscriptexist(10714365287, "Anime Race Clicker | AutoFarm, AutoHatch, Unlock Worlds", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime%20Race%20Clicker%20%20AutoFarm%20AutoHatch%20Unlock%20Worlds.lua", "https://rbxscript.com/post/AnimeRaceClickerAutoFarmAutoHatchUnlockWorlds-oSzJ4")
+
+addscriptexist(9030362964, "Field Goal Simulator | Auto Farm Goals", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Field%20Goal%20Simulator%20%20Auto%20Farm%20Goals.lua", "https://rbxscript.com/post/FieldGoalSimulatorAutoFarmGoals-AivxP")
+
+addscriptexist(4639625707, "Oil Warfare Tycoon | Walkspeed, Jumppower, Inf Jump", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Oil%20Warfare%20Tycoon%20%20Walkspeed%20Jumppower%20Inf%20Jump.lua", "https://rbxscript.com/post/OilWarfareTycoonWalkspeedJumppowerInfJump-aeZIG")
+
+addscriptexist(10320240572, "Easy Race Clicker | Auto Rebirth, AutoWin Races, AutoSpeed", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Easy%20Race%20Clicker%20%20Auto%20Rebirth%20AutoWin%20Races%20AutoSpeed.lua", "https://rbxscript.com/post/EasyRaceClickerAutoRebirthAutoWinRacesAutoSpeed-u9nFg")
+
+addscriptexist(7952502098, "Impossible Glass Bridge Obby! | Auto Win/Infinity Cash", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Impossible%20Glass%20Bridge%20Obby%20%20Auto%20WinInfinity%20Cash.lua", "https://rbxscript.com/post/ImpossibleGlassBridgeObbyAutoWinInfinityCash-4dglu")
+
+addscriptexist(10439295403, "Anime Champions | GUI - Kill Aura, Auto Quest & More!", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime%20Champions%20%20GUI%20%20Kill%20Aura%20Auto%20Quest%20%20More.lua", "https://rbxscript.com/post/AnimeChampionsGUIKillAuraAutoQuestMore-khBUO")
+
+addscriptexist(6447798030, "Funky Friday | AutoPlayer, Hitchances, Unlockables", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Funky%20Friday%20%20AutoPlayer%20Hitchances%20Unlockables.lua", "https://rbxscript.com/post/FunkyFridayAutoPlayerHitchancesUnlockables-UI7gm")
+
+addscriptexist(920587237, "Adopt Me! | Auto Farm, Fun Functions, Fly", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Adopt%20Me%20%20Auto%20Farm%20Fun%20Functions%20Fly.lua", "https://rbxscript.com/post/AdoptMeAutoFarmFunFunctionsFly-vRHOK")
+
+addscriptexist(10524502174, "One Punch Fighters Simulator | AutoFarm, AutoDelete, AutoBuy", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/One%20Punch%20Fighters%20Simulator%20%20AutoFarm%20AutoDelete%20AutoBuy.lua", "https://rbxscript.com/post/OnePunchFightersSimulatorAutoFarmAutoDeleteAutoBuy-DGLkg")
+
+addscriptexist(1537690962, "Bee Swarm Simulator | Auto Convert Pollen, AutoDig, AutoFarm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Bee%20Swarm%20Simulator%20%20Auto%20Convert%20Pollen%20AutoDig%20AutoFarm.lua", "https://rbxscript.com/post/BeeSwarmSimulatorAutoConvertPollenAutoDigAutoFarm-id73c")
+
+addscript(6055959032, "Current Game","Jailbird | GUI - Aimbot, Esp & More!", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Jailbird%20%20GUI%20%20Aimbot%20Esp%20%20More.lua", "https://rbxscript.com/post/JailbirdGUIAimbotEspMore-GSS1L")
+
+addscriptexist(10484095306, "CLIMB 100.000 STAIRS TO VIP! | Teleport To End", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CLIMB%20%20STAIRS%20TO%20VIP%20%20Teleport%20To%20End.lua", "https://rbxscript.com/post/CLIMB100000STAIRSTOVIPTeleportToEnd-7eTwz")
+
+addscriptuniversal("Roblox Universal | Netless", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Roblox%20Universal%20%20Netless.lua", "https://rbxscript.com/post/RobloxUniversalScriptNetless-AZter")
+
+addscriptexist(10484095306, "CLIMB 100.000 STAIRS TO VIP | Teleport to Mystery House", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CLIMB%20%20STAIRS%20TO%20VIP%20%20Teleport%20to%20Mystery%20House.lua", "https://rbxscript.com/post/CLIMB100000STAIRSTOVIPTeleporttoMysteryHouse-KuEKJ")
+
+addscript(5987989452, "Current Game","monke game [GetWeapon, MonkeyColor]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/monke%20game%20GetWeapon%20MonkeyColor.lua", "https://rbxscript.com/post/monkegameGetWeaponMonkeyColor-Ixo9i")
+
+addscriptexist(9498006165, "Tapping Simulator! | AutoClick, AutoRebirth", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tapping%20Simulator%20%20AutoClick%20AutoRebirth.lua", "https://rbxscript.com/post/TappingSimulatorAutoClickAutoRebirth-5OyGc")
+
+addscriptexist(286090429, "Arsenal | Silent Aim, Esp", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Arsenal%20%20Silent%20Aim%20Esp.lua", "https://rbxscript.com/post/ArsenalSilentAimEsp-OGKVz")
+
+addscriptexist(318978013, "Kick Off | Instant Goals, FOV, Gravity", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Kick%20Off%20%20Instant%20Goals%20FOV%20Gravity.lua", "https://rbxscript.com/post/KickOffInstantGoalsFOVGravity-OEiq0")
+
+addhub("ECLIPSE HUB | Tower Of Hell, Adopt Me, Murder Mystery", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ECLIPSE%20HUB%20%20Tower%20Of%20Hell%20Adopt%20Me%20Murder%20Mystery.lua", "https://rbxscript.com/post/ECLIPSEHUBTowerOfHellAdoptMeMurderMystery-0BmOT")
+
+addscriptexist(8884433153, "Collect All Pets! | Auto Farm Coins, Free Gamepasses, Unlock All Doors", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Collect%20All%20Pets%20%20Auto%20Farm%20Coins%20Free%20Gamepasses%20Unlock%20All%20Doors.lua", "https://rbxscript.com/post/CollectAllPetsAutoFarmCoinsFreeGamepassesUnlockAllDoors-spqlk")
+
+addscriptexist(9662949425, "Punch a brick wall simulator | Inf Bones, AutoUp, AutoRebirth", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Punch%20a%20brick%20wall%20simulator%20%20Inf%20Bones%20AutoUp%20AutoRebirth.lua", "https://rbxscript.com/post/PunchabrickwallsimulatorInfBonesAutoUpAutoRebirth-6YiPY")
+
+addscriptexist(10676523834, "Racing Rocket | Inf Stars", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Racing%20Rocket%20%20Inf%20Stars.lua", "https://rbxscript.com/post/RacingRocketInfStars-okUuT")
+
+addscriptexist(277751860, "Epic Minigames | Walkspeed, Infinity Jump, ClickTP", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Epic%20Minigames%20%20Walkspeed%20Infinity%20Jump%20ClickTP.lua", "https://rbxscript.com/post/EpicMinigamesWalkspeedInfinityJumpClickTP-Cuc50")
+
+addscriptexist(6804602922, "BOXING BETA! | Walkspeed, Ragdoll, Inf Dodge Stamina", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BOXING%20BETA%20%20Walkspeed%20Ragdoll%20Inf%20Dodge%20Stamina.lua", "https://rbxscript.com/post/BOXINGBETAWalkspeedRagdollInfDodgeStamina-De5w8")
+
+addscriptexist(8146731988, "Ultra Power Tycoon | Auto Collect, AutoBuy, Walkspeed", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ultra%20Power%20Tycoon%20%20Auto%20Collect%20AutoBuy%20Walkspeed.lua", "https://rbxscript.com/post/UltraPowerTycoonAutoCollectAutoBuyWalkspeed-523Xb")
+
+addscriptexist(6608498361, "cursed tank simulator | KillAll Tanks", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/cursed%20tank%20simulator%20%20KillAll%20Tanks.lua", "https://rbxscript.com/post/cursedtanksimulatorKillAllTanks-3i5l9")
+
+addscript(8894888083, "Current Game","Pinata Legends | Infinity Gems and Coins", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pinata%20Legends%20%20Infinity%20Gems%20and%20Coins.lua", "https://rbxscript.com/post/PinataLegendsInfinityGemsandCoins-ezGXg")
+
+addscriptexist(9992339729, "Longest Answer Wins | Infinity Blocks", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Longest%20Answer%20Wins%20%20Infinity%20Blocks.lua", "https://rbxscript.com/post/LongestAnswerWinsInfinityBlocks-EWcTe")
+
+addscript(5498056786, "Current Game","Handball Association | Infinity Stamina", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Handball%20Association%20%20Infinity%20Stamina.lua", "https://rbxscript.com/post/HandballAssociationInfinityStamina-DENgz")
+
+addscriptexist(2066381781, "Deadly Sins Retribution | AutoSpin Race", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Deadly%20Sins%20Retribution%20%20AutoSpin%20Race.lua", "https://rbxscript.com/post/DeadlySinsRetributionAutoSpinRace-D4PBH")
+
+addscriptexist(2066381781, "Deadly Sins Retribution | Auto Spin Magic", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Deadly%20Sins%20Retribution%20%20Auto%20Spin%20Magic.lua", "https://rbxscript.com/post/DeadlySinsRetributionAutoSpinMagic-Zmpi8")
+
+addscriptexist(1554960397, "Car Dealership Tycoon | AutoFarm, AutoDrive", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Car%20Dealership%20Tycoon%20%20AutoFarm%20AutoDrive.lua", "https://rbxscript.com/post/CarDealershipTycoonAutoFarmAutoDrive-c5RWc")
+
+addscriptexist(2537430692, "Jenga | Win Game, Fly", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Jenga%20%20Win%20Game%20Fly.lua", "https://rbxscript.com/post/JengaWinGameFly-CAkmk")
+
+addscriptexist(3214114884, "Flag Wars! | Hitbox, Chams", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Flag%20Wars%20%20Hitbox%20Chams.lua", "https://rbxscript.com/post/FlagWarsHitboxChams-lkF3B")
+
+addscriptexist(6516141723, "DOORS | AutoSkipLvl, Instant Interact", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DOORS%20%20AutoSkipLvl%20Instant%20Interact.lua", "https://rbxscript.com/post/DOORSAutoSkipLvlInstantInteract-OsAIZ")
+
+addscriptexist(8737602449, "PLS DONATE | Fly, Walkspeed", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PLS%20DONATE%20%20Fly%20Walkspeed.lua", "https://rbxscript.com/post/PLSDONATEFlyWalkspeed-W4hN0")
+
+addscriptexist(4913581664, "Cart Ride Into Rdite! | AutoClick", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Cart%20Ride%20Into%20Rdite%20%20AutoClick.lua", "https://rbxscript.com/post/CartRideIntoRditeAutoClick-gAVgD")
+
+addscript(6610021055, "Current Game","Noob Army Tycoon | Infinite Gems", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Noob%20Army%20Tycoon%20%20Infinite%20Gems.lua", "https://rbxscript.com/post/NoobArmyTycoonInfiniteGems-OYLdq")
+
+addscript(653205701, "Current Game","Fort Martin RP | God Mode", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Fort%20Martin%20RP%20%20God%20Mode.lua", "https://rbxscript.com/post/FortMartinRPGodMode-ZRO2u")
+
+addscriptexist(9648883891, "Festival Tycoon | Infinite Cash - Get Free Items", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Festival%20Tycoon%20%20Infinite%20Cash%20%20Get%20Free%20Items.lua", "https://rbxscript.com/post/FestivalTycoonInfiniteCashGetFreeItems-iU5Oh")
+
+addscriptexist(7138009149, "PHIGHTING! | Infinite Cash", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PHIGHTING%20%20Infinite%20Cash.lua", "https://rbxscript.com/post/PHIGHTINGInfiniteCash-RJSu6")
+
+addscriptexist(286090429, "Arsenal | Hitbox, Esp", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Arsenal%20%20Hitbox%20Esp.lua", "https://rbxscript.com/post/ArsenalHitboxEsp-g1mgi")
+
+addscriptexist(9742783208, "Raise a Yippee | AutoClick, AutoFood", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Raise%20a%20Yippee%20%20AutoClick%20AutoFood.lua", "https://rbxscript.com/post/RaiseaYippeeAutoClickAutoFood-PJx49")
+
+addscript(8891045283, "Current Game","Find The Bacons | GetAllBacons", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Find%20The%20Bacons%20%20GetAllBacons.lua", "https://rbxscript.com/post/FindTheBaconsGetAllBacons-BWDsr")
+
+addscriptexist(298400657, "Dragon Ball Final Remastered | GUI - Infinite Ki, Infinite Stamina", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Dragon%20Ball%20Final%20Remastered%20%20GUI%20%20Infinite%20Ki%20Infinite%20Stamina.lua", "https://rbxscript.com/post/DragonBallFinalRemasteredGUIInfiniteKiInfiniteStamina-Lyi4c")
+
+addscriptexist(7560156054, "Clicker Simulator | AutoRebirth, AutoClick", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Clicker%20Simulator%20%20AutoRebirth%20AutoClick.lua", "https://rbxscript.com/post/ClickerSimulatorAutoRebirthAutoClick-mkihR")
+
+addscriptexist(6229116934, "Hoopz | Aimbot, Walkspeed", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Hoopz%20%20Aimbot%20Walkspeed.lua", "https://rbxscript.com/post/HoopzAimbotWalkspeed-DpCCl")
+
+addscript(5505830188, "Current Game","Arcane Oblivion RPG | AutoBoss, AutoFarm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Arcane%20Oblivion%20RPG%20%20AutoBoss%20AutoFarm.lua", "https://rbxscript.com/post/ArcaneOblivionRPGAutoBossAutoFarm-JkOES")
+
+addscriptexist(621129760, "Knife Ability Test | Godmode, SeverBreak", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Knife%20Ability%20Test%20%20Godmode%20SeverBreak.lua", "https://rbxscript.com/post/KnifeAbilityTestGodmodeSeverBreak-ZzKg8")
+
+addscriptexist(9648883891, "Festival Tycoon | Inf Money, Auto Collect, Auto Purchase", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Festival%20Tycoon%20%20Inf%20Money%20Auto%20Collect%20Auto%20Purchase.lua", "https://rbxscript.com/post/FestivalTycoonInfMoneyAutoCollectAutoPurchase-jQ3nK")
+
+addscript(6067244110, "Current Game","Flood Escape 2 Ultimate | Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Flood%20Escape%20%20Ultimate%20%20Auto%20Farm.lua", "https://rbxscript.com/post/FloodEscape2UltimateAutoFarm-Z5NSl")
+
+addscriptexist(10676523834, "Racing Rocket | AutoFarm, AutoReborn, AutoIteams", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Racing%20Rocket%20%20AutoFarm%20AutoReborn%20AutoIteams.lua", "https://rbxscript.com/post/RacingRocketAutoFarmAutoRebornAutoIteams-DBDQB")
+
+addscript(10647156264, "Current Game","Become a Nextbot | Teleports, Walkspeed, Get Rare Nextbots", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Become%20a%20Nextbot%20%20Teleports%20Walkspeed%20Get%20Rare%20Nextbots.lua", "https://rbxscript.com/post/BecomeaNextbotTeleportsWalkspeedGetRareNextbots-xX7Pa")
+
+addscriptexist(9417197334, "Anime Story | Auto Farm - Semi Instant Kill", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime%20Story%20%20Auto%20Farm%20%20Semi%20Instant%20Kill.lua", "https://rbxscript.com/post/AnimeStoryAutoFarmSemiInstantKill-IUUaH")
+
+addscriptexist(9662949425, "Punch a brick wall simulator | Infinite Bones, Auto Rebirth", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Punch%20a%20brick%20wall%20simulator%20%20Infinite%20Bones%20Auto%20Rebirth.lua", "https://rbxscript.com/post/PunchabrickwallsimulatorInfiniteBonesAutoRebirth-Fdgbd")
+
+addscriptexist(5498056786, "Handball Association | Infinite Stamina - No Dive Cooldown", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Handball%20Association%20%20Infinite%20Stamina%20%20No%20Dive%20Cooldown.lua", "https://rbxscript.com/post/HandballAssociationInfiniteStaminaNoDiveCooldown-owDh7")
+
+addscriptexist(8146731988, "Ultra Power Tycoon | GUI - Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ultra%20Power%20Tycoon%20%20GUI%20%20Auto%20Farm.lua", "https://rbxscript.com/post/UltraPowerTycoonGUIAutoFarm-Av1kF")
+
+addscriptexist(10524502174, "One Punch Fighters | GUI - Auto Punch, Auto Farm & More!", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/One%20Punch%20Fighters%20%20GUI%20%20Auto%20Punch%20Auto%20Farm%20%20More.lua", "https://rbxscript.com/post/OnePunchFightersGUIAutoPunchAutoFarmMore-aF1XB")
+
+addscriptexist(2580982329, "Texting Simulator | GUI - Fast Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Texting%20Simulator%20%20GUI%20%20Fast%20Auto%20Farm.lua", "https://rbxscript.com/post/TextingSimulatorGUIFastAutoFarm-62898")
+
+addscriptexist(2809202155, "Your Bizarre Adventure | Item Farm ServerHop", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Your%20Bizarre%20Adventure%20%20Item%20Farm%20ServerHop.lua", "https://rbxscript.com/post/YourBizarreAdventureItemFarmServerHop-HPlpD")
+
+addscriptexist(2753915549, "Blox Fruits | BuyItem, AutoFarm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blox%20Fruits%20%20BuyItem%20AutoFarm.lua", "https://rbxscript.com/post/BloxFruitsBuyItemAutoFarm-b7Jnm")
+
+addscriptexist(10439295403, "Anime Champions | Auto Farm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime%20Champions%20%20Auto%20Farm.lua", "https://rbxscript.com/post/AnimeChampionsAutoFarm-GFEKw")
+
+addscript(10558210932, "Current Game","The Test | Win Minigame, Person To Kill, Choose Correct Number", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/The%20Test%20%20Win%20Minigame%20Person%20To%20Kill%20Choose%20Correct%20Number.lua", "https://rbxscript.com/post/TheTestWinMinigamePersonToKillChooseCorrectNumber-wfv8z")
+
+addscriptexist(9551640993, "Mining Simulator 2 | AutoMine, AutoEggs, Smart Sell", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mining%20Simulator%20%20%20AutoMine%20AutoEggs%20Smart%20Sell.lua", "https://rbxscript.com/post/MiningSimulator2AutoMineAutoEggsSmartSell-43pbP")
+
+addscriptexist(8884433153, "Collect All Pets! | AutoEggs, AutoFarm, AutoCollect", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Collect%20All%20Pets%20%20AutoEggs%20AutoFarm%20AutoCollect.lua", "https://rbxscript.com/post/CollectAllPetsAutoEggsAutoFarmAutoCollect-fiN7k")
+
+addscriptexist(286090429, "Arsenal | Instant Respawn", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Arsenal%20%20Instant%20Respawn.lua", "https://rbxscript.com/post/ArsenalInstantRespawn-qqbIS")
+
+addscriptexist(9417197334, "Anime Story | Semi Infinite Gems & Infinite Coins", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime%20Story%20%20Semi%20Infinite%20Gems%20%20Infinite%20Coins.lua", "https://rbxscript.com/post/AnimeStorySemiInfiniteGemsInfiniteCoins-ViY67")
+
+addscriptexist(9417197334, "Anime Story | Auto Summon", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime%20Story%20%20Auto%20Summon.lua", "https://rbxscript.com/post/AnimeStoryAutoSummon-XFxx2")
+
+addscriptexist(8482451541, "Brick Defense | Auto Farm Grind Infinite Tix", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Brick%20Defense%20%20Auto%20Farm%20Grind%20Infinite%20Tix.lua", "https://rbxscript.com/post/BrickDefenseAutoFarmGrindInfiniteTix-grreH")
+
+addscript(9814637986, "Current Game","Slap Battles: Average FanMade | Kill, Give Panel, Kick, Ban", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Slap%20Battles%20Average%20FanMade%20%20Kill%20Give%20Panel%20Kick%20Ban.lua", "https://rbxscript.com/post/SlapBattlesAverageFanMadeKillGivePanelKickBan-eswjP")
+
+addscriptexist(10148047155, "Car Mechanic Tycoon | Walkspeed, AntiKick, AutoFarm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Car%20Mechanic%20Tycoon%20%20Walkspeed%20AntiKick%20AutoFarm.lua", "https://rbxscript.com/post/CarMechanicTycoonWalkspeedAntiKickAutoFarm-110Ut")
+
+addscriptexist(6403373529, "Slap Battles | KillAura, Anti Chase, Anti Ragdoll, No Time Stop", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Slap%20Battles%20%20KillAura%20Anti%20Chase%20Anti%20Ragdoll%20No%20Time%20Stop.lua", "https://rbxscript.com/post/SlapBattlesKillAuraAntiChaseAntiRagdollNoTimeStop-edjDG")
+
+addscript(9112775301, "Current Game","Da Hood Fights l Auto Steal", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Da%20Hood%20Fights%20l%20Auto%20Steal.lua", "https://rbxscript.com/post/DaHoodFightslAutoSteal-W9qzK")
+
+addscriptexist(286090429, "Arsenal | ESP", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Arsenal%20%20ESP.lua", "https://rbxscript.com/post/ArsenalESP-RoImZ")
+
+addscript(1343871267, "Current Game","Fredbear's Mega Roleplay | Transform All, Mutate Player or all, Animatronic", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Fredbears%20Mega%20Roleplay%20%20Transform%20All%20Mutate%20Player%20or%20all%20Animatronic.lua", "https://rbxscript.com/post/FredbearsMegaRoleplayTransformAllMutatePlayerorallAnimatronic-CA78D")
+
+addscriptexist(2537430692, "Jenga | Win Game, Remove Objects and Kill Bricks, Force Death", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Jenga%20%20Win%20Game%20Remove%20Objects%20and%20Kill%20Bricks%20Force%20Death.lua", "https://rbxscript.com/post/JengaWinGameRemoveObjectsandKillBricksForceDeath-NhUa8")
+
+addscript(10604409263, "Current Game","Moscow, Soviet Union | 100K Every Second", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Moscow%20Soviet%20Union%20%20K%20Every%20Second.lua", "https://rbxscript.com/post/MoscowSovietUnion100KEverySecond-9kYDH")
+
+addscriptexist(9498006165, "Tapping Simulator | Auto Tap, Auto Rebirth, Better Gtx", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tapping%20Simulator%20%20Auto%20Tap%20Auto%20Rebirth%20Better%20Gtx.lua", "https://rbxscript.com/post/TappingSimulatorAutoTapAutoRebirthBetterGtx-ck2te")
+
+addscriptuniversal("Roblox Universal Script | Hats, Animations", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Roblox%20Universal%20Script%20%20Hats%20Animations.lua", "https://rbxscript.com/post/RobloxUniversalScriptHatsAnimations-6EPFG")
+
+addscriptexist(6284583030, "Pet Simulator X | AutoFarm, AutoCollect", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pet%20Simulator%20X%20%20AutoFarm%20AutoCollect.lua", "https://rbxscript.com/post/PetSimulatorXAutoFarmAutoCollect-opLQa")
+
+addscriptexist(920587237, "Adopt Me | GUI - Auto Farm, Fun Functions", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Adopt%20Me%20%20GUI%20%20Auto%20Farm%20Fun%20Functions.lua", "https://rbxscript.com/post/AdoptMeGUIAutoFarmFunFunctions-x2tTu")
+
+addscriptexist(10087074695, "Knife Strife! [Kill All - Dupe Tools & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Knife%20Strife%20Kill%20All%20%20Dupe%20Tools%20%20More.lua", "https://rbxscript.com/post/KnifeStrifeKillAllDupeToolsMore-XDjq4")
+
+addscriptexist(1962086868, "Tower of Hell | AutoWin, Inf Jumps, Finish", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tower%20of%20Hell%20%20AutoWin%20Inf%20Jumps%20Finish.lua", "https://rbxscript.com/post/TowerofHellAutoWinInfJumpsFinish-3eRmK")
+
+addscript(4556951723, "Current Game","Ragdoll Physics | Free Badge", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ragdoll%20Physics%20%20Free%20Badge.lua", "https://rbxscript.com/post/RagdollPhysicsFreeBadge-Xx7Wq")
+
+addscriptexist(9133513813, "Hunted Hood | AutoSteal", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Hunted%20Hood%20%20AutoSteal.lua", "https://rbxscript.com/post/HuntedHoodAutoSteal-VJ1o5")
+
+addscriptexist(6753004901, "Swing City | Unlock All Skills, Farm Money, Instant Quests", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Swing%20City%20%20Unlock%20All%20Skills%20Farm%20Money%20Instant%20Quests.lua", "https://rbxscript.com/post/SwingCityUnlockAllSkillsFarmMoneyInstantQuests-AtXCY")
+
+addscriptuniversal("Roblox Universal Script | First Person", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Roblox%20Universal%20Script%20%20First%20Person.lua", "https://rbxscript.com/post/RobloxUniversalScriptFirstPersonScript-AUK7p")
+
+addscriptexist(5343994291, "Outlaster | AutoFish, Esp, Inf Jump", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Outlaster%20%20AutoFish%20Esp%20Inf%20Jump.lua", "https://rbxscript.com/post/OutlasterAutoFishEspInfJump-IF5SS")
+
+addscriptexist(2116002761, "Afton's Family Diner | Unlock Everything, Inf Yield", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Aftons%20Family%20Diner%20%20Unlock%20Everything%20Inf%20Yield.lua", "https://rbxscript.com/post/AftonsFamilyDinerUnlockEverythingInfYield-psi0d")
+
+addscriptexist(10439295403, "Anime Champions | Kill Aura, Reset Skill Points, AutoQuest", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime%20Champions%20%20Kill%20Aura%20Reset%20Skill%20Points%20AutoQuest.lua", "https://rbxscript.com/post/AnimeChampionsKillAuraResetSkillPointsAutoQuest-RcCHd")
+
+addscriptexist(2788229376, "Da Hood | Inf Stamina, Fly, Esp", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Da%20Hood%20%20Inf%20Stamina%20Fly%20Esp.lua", "https://rbxscript.com/post/DaHoodInfStaminaFlyEsp-DE7kC")
+
+addscriptexist(155615604, "Prison Life | 500 Ammo", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Prison%20Life%20%20%20Ammo.lua", "https://rbxscript.com/post/PrisonLife500Ammo-sRNzU")
+
+addscriptexist(5130598377, "A Universal Time | Farm Thung - Items Farm - Godmode & More!", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/A%20Universal%20Time%20%20Farm%20Thung%20%20Items%20Farm%20%20Godmode%20%20More.lua", "https://rbxscript.com/post/AUniversalTimeFarmThungItemsFarmGodmodeMore-6VeQJ")
+
+addscriptexist(9807416796, "De Hood [Server Crash]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/De%20Hood%20Server%20Crash.lua", "https://rbxscript.com/post/DeHoodServerCrash-arL7X")
+
+addscript(3237168, "Current Game","One Piece: Legendary [Auto StealFruit, AutoStore]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/One%20Piece%20Legendary%20Auto%20StealFruit%20AutoStore.lua", "https://rbxscript.com/post/OnePieceLegendaryAutoStealFruitAutoStore-EmrpQ")
+
+addscriptuniversal("Roblox Universal Script [Money Bag]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Roblox%20Universal%20Script%20Money%20Bag.lua", "https://rbxscript.com/post/RobloxUniversalScriptMoneyBag-baXNV")
+
+addscriptexist(8534845015, "Sakura Stand [Item Esp, Dummy Farm, DummyGod & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sakura%20Stand%20Item%20Esp%20Dummy%20Farm%20DummyGod%20%20More.lua", "https://rbxscript.com/post/SakuraStandItemEspDummyFarmDummyGodMore-1PBVX")
+
+addscriptexist(8962384769, "Firework Simulator [AutoFarm, KillAura]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Firework%20Simulator%20AutoFarm%20KillAura.lua", "https://rbxscript.com/post/FireworkSimulatorAutoFarmKillAura-a1BEz")
+
+addscriptexist(1401417393, "Endurance [GUI - Speed Hack, AntiCheat Bypass & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Endurance%20GUI%20%20Speed%20Hack%20AntiCheat%20Bypass%20%20More.lua", "https://rbxscript.com/post/EnduranceGUISpeedHackAntiCheatBypassMore-yonaN")
+
+addscriptexist(8227619186, "Murder Mystery A | ESP, Kill All, Get Revolver", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Murder%20Mystery%20A%20%20ESP%20Kill%20All%20Get%20Revolver.lua", "https://rbxscript.com/post/MurderMysteryAESPKillAllGetRevolver-XANTQ")
+
+addscriptexist(662417684, "LUCKY BLOCKS Battlegrounds | Kill All, Kill Aura, Inf Jump", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LUCKY%20BLOCKS%20Battlegrounds%20%20Kill%20All%20Kill%20Aura%20Inf%20Jump.lua", "https://rbxscript.com/post/LUCKYBLOCKSBattlegroundsKillAllKillAuraInfJump-RIPHI")
+
+addscriptexist(7075737729, "Hoop Central 6 | Anti Cheat Bypasss, Bypass, Item Bypass", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Hoop%20Central%20%20%20Anti%20Cheat%20Bypasss%20Bypass%20Item%20Bypass.lua", "https://rbxscript.com/post/HoopCentral6AntiCheatBypasssBypassItemBypass-Jjhxo")
+
+addscriptexist(6753004901, "Swing City | Unlock All Skills, Farm Money, Exp FAST", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Swing%20City%20%20Unlock%20All%20Skills%20Farm%20Money%20Exp%20FAST.lua", "https://rbxscript.com/post/SwingCityUnlockAllSkillsFarmMoneyExpFAST-RAhDT")
+
+addscriptexist(4639625707, "Warfare Tycoon | Kill Players, Kill item, Kill All", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Warfare%20Tycoon%20%20Kill%20Players%20Kill%20item%20Kill%20All.lua", "https://rbxscript.com/post/WarfareTycoonKillPlayersKillitemKillAll-PUpZa")
+
+addscriptexist(2788229376, "Da Hood | NoClip, Auto Farm, Fly", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Da%20Hood%20%20NoClip%20Auto%20Farm%20Fly.lua", "https://rbxscript.com/post/DaHoodNoClipAutoFarmFly-Prsz7")
+
+addscriptexist(10087074695, "Knife Strife! | Walkspeed, Fly, Inf Jump", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Knife%20Strife%20%20Walkspeed%20Fly%20Inf%20Jump.lua", "https://rbxscript.com/post/KnifeStrifeWalkspeedFlyInfJump-UFCNU")
+
+addscriptexist(9648883891, "Festival Tycoon [TpToChainmokers]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Festival%20Tycoon%20TpToChainmokers.lua", "https://rbxscript.com/post/FestivalTycoonTpToChainmokers-Ope9O")
+
+addscriptexist(2753915549, "Blox Fruits [AutoFarm, AutoBoss]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blox%20Fruits%20AutoFarm%20AutoBoss.lua", "https://rbxscript.com/post/BloxFruitsAutoFarmAutoBoss-cKIFZ")
+
+addscriptuniversal("Roblox Universal Script [Nword Spammer]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Roblox%20Universal%20Script%20Nword%20Spammer.lua", "https://rbxscript.com/post/RobloxUniversalScriptNwordSpammer-Unphb")
+
+addscriptexist(4588604953, "Criminality [Auto Block, Esp]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Criminality%20Auto%20Block%20Esp.lua", "https://rbxscript.com/post/CriminalityAutoBlockEsp-7uCd8")
+
+addscriptexist(8482451541, "Brick Defense [Unlock All Towers & Infinite Tix]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Brick%20Defense%20Unlock%20All%20Towers%20%20Infinite%20Tix.lua", "https://rbxscript.com/post/BrickDefenseUnlockAllTowersInfiniteTix-RUS9J")
+
+addscriptexist(6055959032, "Jailbird | Esp, AimBot, Silent-Aim", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Jailbird%20%20Esp%20AimBot%20SilentAim.lua", "https://rbxscript.com/post/JailbirdEspAimBotSilentAim-5Wtd3")
+
+addscriptexist(5602055394, "Hood Modded | Spin, Esp, Tp", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Hood%20Modded%20%20Spin%20Esp%20Tp.lua", "https://rbxscript.com/post/HoodModdedSpinEspTp-Gdm3g")
+
+addscriptexist(5987922834, "Transfur Outbreak! | Aimbot, Visuals, AutoRejoin", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Transfur%20Outbreak%20%20Aimbot%20Visuals%20AutoRejoin.lua", "https://rbxscript.com/post/TransfurOutbreakAimbotVisualsAutoRejoin-kbZ8j")
+
+addscript(9361614975, "Current Game","My City Tycoon | Auto Click, Auto Oby, Clicker", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/My%20City%20Tycoon%20%20Auto%20Click%20Auto%20Oby%20Clicker.lua", "https://rbxscript.com/post/MyCityTycoonAutoClickAutoObyClicker-SwtK4")
+
+addscriptexist(9361614975, "My City Tycoon | Auto Obby, AutoClick", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/My%20City%20Tycoon%20%20Auto%20Obby%20AutoClick.lua", "https://rbxscript.com/post/MyCityTycoonAutoObbyAutoClick-dbY3r")
+
+addscriptexist(5924471692, "Bloxford DarkRP | Server Lagger", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Bloxford%20DarkRP%20%20Server%20Lagger.lua", "https://rbxscript.com/post/BloxfordDarkRPServerLagger-8EvsW")
+
+addscript(7369208341, "Current Game","SuperHero: Universe | Infinity Tokens", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SuperHero%20Universe%20%20Infinity%20Tokens.lua", "https://rbxscript.com/post/SuperHeroUniverseInfinityTokens-Dg8yL")
+
+addscriptexist(5987922834, "Transfur Outbreak | AimBot, Esp, Get All emote gamepass", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Transfur%20Outbreak%20%20AimBot%20Esp%20Get%20All%20emote%20gamepass.lua", "https://rbxscript.com/post/TransfurOutbreakAimBotEspGetAllemotegamepass-HfI8G")
+
+addscriptexist(2753915549, "Blox Fruits | Redeem Codes, AutoFarm, Chest AutoFarm", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blox%20Fruits%20%20Redeem%20Codes%20AutoFarm%20Chest%20AutoFarm.lua", "https://rbxscript.com/post/BloxFruitsRedeemCodesAutoFarmChestAutoFarm-7BQBz")
+
+addscriptexist(9431770682, "Lost Rooms | Esp, Material ESP, Full Bright", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Lost%20Rooms%20%20Esp%20Material%20ESP%20Full%20Bright.lua", "https://rbxscript.com/post/LostRoomsEspMaterialESPFullBright-c2INo")
+
+addscriptexist(2788229376, "Da Hood | Cash Aura, Noclip, AutoStomp", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Da%20Hood%20%20Cash%20Aura%20Noclip%20AutoStomp.lua", "https://rbxscript.com/post/DaHoodCashAuraNoclipAutoStomp-iJYgx")
+
+addscriptexist(5712833750, "Animal Simulator | Unlock Characters", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Animal%20Simulator%20%20Unlock%20Characters.lua", "https://rbxscript.com/post/AnimalSimulatorUnlockCharacters-wknH6")
+
+addscriptexist(5993942214, "Rush Point [Esp]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Rush%20Point%20Esp.lua", "https://rbxscript.com/post/RushPointEsp-ZSQks")
+
+addscript(10207722290, "Current Game","Lifting Legends Simulator [Auto Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Lifting%20Legends%20Simulator%20Auto%20Farm.lua", "https://rbxscript.com/post/LiftingLegendsSimulatorAutoFarm-LsGTb")
+
+addscriptexist(9585537847, "SHADOVIS RPG [Auto Collect, KillAura]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SHADOVIS%20RPG%20Auto%20Collect%20KillAura.lua", "https://rbxscript.com/post/SHADOVISRPGAutoCollectKillAura-rpqs8")
+
+addscriptexist(10710676163, "SPTS : Origin [Speed And Jump Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SPTS%20%20Origin%20Speed%20And%20Jump%20Farm.lua", "https://rbxscript.com/post/SPTSOriginSpeedAndJumpFarm-de3g7")
+
+addscriptexist(1962086868, "Tower of Hell [Fly, Walkspeed]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tower%20of%20Hell%20Fly%20Walkspeed.lua", "https://rbxscript.com/post/TowerofHellFlyWalkspeed-Gw5F1")
+
+addscriptexist(9049840490, "Sonic Speed Simulator [AutoRace, AutoStep]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sonic%20Speed%20Simulator%20AutoRace%20AutoStep.lua", "https://rbxscript.com/post/SonicSpeedSimulatorAutoRaceAutoStep-JZhn9")
+
+addscriptexist(10087074695, "Knife Strife [Kill all, Kill aura, Instant kill]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Knife%20Strife%20Kill%20all%20Kill%20aura%20Instant%20kill.lua", "https://rbxscript.com/post/KnifeStrifeKillallKillauraInstantkill-cLVp5")
+
+addscriptexist(7369208341, "SuperHero: Universe [Inf Money]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SuperHero%20Universe%20Inf%20Money.lua", "https://rbxscript.com/post/SuperHeroUniverseInfMoney-SxPPV")
+
+addscriptexist(2066381781, "Deadly Sins Retribution [Auto Spin Race]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Deadly%20Sins%20Retribution%20Auto%20Spin%20Race.lua", "https://rbxscript.com/post/DeadlySinsRetributionAutoSpinRace-Kxew2")
+
+addscriptexist(2066381781, "Deadly Sins Retribution [Auto Spin Magic]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Deadly%20Sins%20Retribution%20Auto%20Spin%20Magic.lua", "https://rbxscript.com/post/DeadlySinsRetributionAutoSpinMagic-4rXNF")
+
+addscriptexist(10484095306, "CLIMB 100.000 STAIRS TO VIP [Teleport to End]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CLIMB%20%20STAIRS%20TO%20VIP%20Teleport%20to%20End.lua", "https://rbxscript.com/post/CLIMB100000STAIRSTOVIPTeleporttoEnd-EY4KO")
+
+addscriptexist(8884334497, "Mining Clicker Simulator [Auto Click, Auto Rebirth, Better GTX ]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mining%20Clicker%20Simulator%20Auto%20Click%20Auto%20Rebirth%20Better%20GTX%20.lua", "https://rbxscript.com/post/MiningClickerSimulatorAutoClickAutoRebirthBetterGTX-h4KPc")
+
+addscriptexist(9431770682, "Lost Rooms [Inf Whistles, Fullbright]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Lost%20Rooms%20Inf%20Whistles%20Fullbright.lua", "https://rbxscript.com/post/LostRoomsInfWhistlesFullbright-rDgf0")
+
+addscriptexist(662417684, "LUCKY BLOCKS Battlegrounds [Kill All - Kill Aura & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LUCKY%20BLOCKS%20Battlegrounds%20Kill%20All%20%20Kill%20Aura%20%20More.lua", "https://rbxscript.com/post/LUCKYBLOCKSBattlegroundsKillAllKillAuraMore-pNwKd")
+
+addscriptexist(6753004901, "Swing City [Unlock All Skins & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Swing%20City%20Unlock%20All%20Skins%20%20More.lua", "https://rbxscript.com/post/SwingCityUnlockAllSkinsMore-GEypx")
+
+addscriptexist(7369208341, "SuperHero: Universe [1.7] [Infinite Coins]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SuperHero%20Universe%20%20Infinite%20Coins.lua", "https://rbxscript.com/post/SuperHeroUniverse17InfiniteCoins-sL8uD")
+
+addscriptexist(2066381781, "Deadly Sins Retribution [Teleport To Istar]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Deadly%20Sins%20Retribution%20Teleport%20To%20Istar.lua", "https://rbxscript.com/post/DeadlySinsRetributionTeleportToIstar-k6iTF")
+
+addscriptexist(8704181738, "Tien Tien Piece [Auto Farm Gems In Second Sea]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tien%20Tien%20Piece%20Auto%20Farm%20Gems%20In%20Second%20Sea.lua", "https://rbxscript.com/post/TienTienPieceAutoFarmGemsInSecondSea-Lf9ch")
+
+addscript(5076734934, "Current Game","Rooms [Hunting Status Check GUI]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Rooms%20Hunting%20Status%20Check%20GUI.lua", "https://rbxscript.com/post/RoomsHuntingStatusCheckGUI-sozh5")
+
+addscriptexist(2753915549, "Blox Fruits [GUI - Auto Farm Level, Auto Farm Mastery & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blox%20Fruits%20GUI%20%20Auto%20Farm%20Level%20Auto%20Farm%20Mastery%20%20More.lua", "https://rbxscript.com/post/BloxFruitsGUIAutoFarmLevelAutoFarmMasteryMore-9ahwE")
+
+addscript(6884476776, "Current Game","Friend Hangout [Crash - Get All Tools & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Friend%20Hangout%20Crash%20%20Get%20All%20Tools%20%20More.lua", "https://rbxscript.com/post/FriendHangoutCrashGetAllToolsMore-KJ178")
+
+addscriptexist(10676523834, "Racing Rocket [Infinite Speed]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Racing%20Rocket%20Infinite%20Speed.lua", "https://rbxscript.com/post/RacingRocketInfiniteSpeed-jzJ70")
+
+addscript(113690124, "Current Game","Noob Onslaught [Inf Money]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Noob%20Onslaught%20Inf%20Money.lua", "https://rbxscript.com/post/NoobOnslaughtInfMoney-p3Qti")
+
+addscriptexist(6284583030, "Pet Simulator X [GUI - Auto Farm, Chest Farm & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pet%20Simulator%20X%20GUI%20%20Auto%20Farm%20Chest%20Farm%20%20More.lua", "https://rbxscript.com/post/PetSimulatorXGUIAutoFarmChestFarmMore-9Rd0A")
+
+addscriptexist(8540346411, "Rebirth Champions X [Auto Click, Auto Rebirth, Auto Open Egg]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Rebirth%20Champions%20X%20Auto%20Click%20Auto%20Rebirth%20Auto%20Open%20Egg.lua", "https://rbxscript.com/post/RebirthChampionsXAutoClickAutoRebirthAutoOpenEgg-VnNO8")
+
+addscriptexist(9498006165, "Slime Tower Tycoon [Auto Collect, Auto buy Slimes, Auto Merge]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Slime%20Tower%20Tycoon%20Auto%20Collect%20Auto%20buy%20Slimes%20Auto%20Merge.lua", "https://rbxscript.com/post/SlimeTowerTycoonAutoCollectAutobuySlimesAutoMerge-yt6ex")
+
+addscript(10429088113, "Current Game","Jump Race [Auto Win]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Jump%20Race%20Auto%20Win.lua", "https://rbxscript.com/post/JumpRaceAutoWin-SokZI")
+
+addscriptexist(9872472334, "Evade [Auto Farm - Fast Revive & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Evade%20Auto%20Farm%20%20Fast%20Revive%20%20More.lua", "https://rbxscript.com/post/EvadeAutoFarmFastReviveMore-bbCmt")
+
+addscriptexist(8130299583, "Trident Survival [GUI - Esp, Aimbot & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Trident%20Survival%20GUI%20%20Esp%20Aimbot%20%20More.lua", "https://rbxscript.com/post/TridentSurvivalGUIEspAimbotMore-IDsgq")
+
+addscriptexist(10106105124, "Wheat Farming Simulator [Spawn Any Mythical Pet]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Wheat%20Farming%20Simulator%20Spawn%20Any%20Mythical%20Pet.lua", "https://rbxscript.com/post/WheatFarmingSimulatorSpawnAnyMythicalPet-X5543")
+
+addscriptexist(5130598377, "A Universal Time [Godmode, AutoShardsFarm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/A%20Universal%20Time%20Godmode%20AutoShardsFarm.lua", "https://rbxscript.com/post/AUniversalTimeGodmodeAutoShardsFarm-VIhPR")
+
+addscriptexist(9744954014, "THA HOOD!!! [Walkspeed, Godmode]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/THA%20HOOD%20Walkspeed%20Godmode.lua", "https://rbxscript.com/post/THAHOODWalkspeedGodmode-ujwKF")
+
+addscriptexist(445664957, "Parkour [Inf Levels]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Parkour%20Inf%20Levels.lua", "https://rbxscript.com/post/ParkourInfLevels-oc67S")
+
+addscriptexist(4954752502, "Tower of Misery [Auto Farm - God Mode - Kill Player & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tower%20of%20Misery%20Auto%20Farm%20%20God%20Mode%20%20Kill%20Player%20%20More.lua", "https://rbxscript.com/post/TowerofMiseryAutoFarmGodModeKillPlayerMore-Jj4zj")
+
+addscript(7606302010, "Current Game","YoYo Simulator! [GUI - Auto Yo-Yo, Auto Sell & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/YoYo%20Simulator%20GUI%20%20Auto%20YoYo%20Auto%20Sell%20%20More.lua", "https://rbxscript.com/post/YoYoSimulatorGUIAutoYoYoAutoSellMore-iLG72")
+
+addscriptexist(7138009149, "PHIGHTING! [NPC Esp]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PHIGHTING%20NPC%20Esp.lua", "https://rbxscript.com/post/PHIGHTINGNPCEsp-B5NAb")
+
+addscriptexist(7138009149, "PHIGHTING! [Semi GodMode]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PHIGHTING%20Semi%20GodMode.lua", "https://rbxscript.com/post/PHIGHTINGSemiGodMode-voBhl")
+
+addscriptexist(5076734934, "Rooms [Hunting status check]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Rooms%20Hunting%20status%20check.lua", "https://rbxscript.com/post/RoomsHuntingstatuscheck-JVNGx")
+
+addscriptexist(9872472334, "Evade [AntiKick, AntiLag]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Evade%20AntiKick%20AntiLag.lua", "https://rbxscript.com/post/EvadeAntiKickAntiLag-WdeGx")
+
+addscriptexist(2788229376, "Da Hood [AutoFarm, Noclip]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Da%20Hood%20AutoFarm%20Noclip.lua", "https://rbxscript.com/post/DaHoodAutoFarmNoclip-SqVQv")
+
+addscriptexist(9585537847, "SHADOVIS RPG [Godmode]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SHADOVIS%20RPG%20Godmode.lua", "https://rbxscript.com/post/SHADOVISRPGGodmode-FZFig")
+
+addscriptexist(4809447488, "Venture Tale [AutoRetry, AutoReplay]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Venture%20Tale%20AutoRetry%20AutoReplay.lua", "https://rbxscript.com/post/VentureTaleAutoRetryAutoReplay-hDbyh")
+
+addscriptexist(10676523834, "Racing Rocket [Farm Points]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Racing%20Rocket%20Farm%20Points.lua", "https://rbxscript.com/post/RacingRocketFarmPoints-Gk4W8")
+
+addscriptexist(10676523834, "Racing Rocket [Auto buy Egg]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Racing%20Rocket%20Auto%20buy%20Egg.lua", "https://rbxscript.com/post/RacingRocketAutobuyEgg-RzCHI")
+
+addscript(3017870574, "Current Game","2 Player Evolution Tycoon [Auto Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/%20Player%20Evolution%20Tycoon%20Auto%20Farm.lua", "https://rbxscript.com/post/PlayerEvolutionTycoonAutoFarm-Farec")
+
+addscriptexist(10676523834, "Racing Rocket [Max Power Farm, Star Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Racing%20Rocket%20Max%20Power%20Farm%20Star%20Farm.lua", "https://rbxscript.com/post/RacingRocketMaxPowerFarmStarFarm-nlOUb")
+
+addscriptexist(10676523834, "Racing Rocket [Farm Star Fast]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Racing%20Rocket%20Farm%20Star%20Fast.lua", "https://rbxscript.com/post/RacingRocketFarmStarFast-nkszz")
+
+addscriptexist(183364845, "Speed Run 4 [Inf Gems, AutoStars]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Speed%20Run%20%20Inf%20Gems%20AutoStars.lua", "https://rbxscript.com/post/SpeedRun4InfGemsAutoStars-rmjhd")
+
+addscriptuniversal("Roblox Universal Script [KeyStrokes]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Roblox%20Universal%20Script%20KeyStrokes.lua", "https://rbxscript.com/post/RobloxUniversalScriptKeyStrokes-RyvyB")
+
+addscriptexist(8260276694, "Ability Wars [Combat Bot]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ability%20Wars%20Combat%20Bot.lua", "https://rbxscript.com/post/AbilityWarsCombatBot-zdzyp")
+
+addscript(7986132460, "Current Game","Cannon Simulator [Gives the alt a pet]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Cannon%20Simulator%20Gives%20the%20alt%20a%20pet.lua", "https://rbxscript.com/post/CannonSimulatorGivesthealtapet-PzJvv")
+
+addscript(10819593230, "Current Game","SLICE PVP [Inf Healt, Spam Balls]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SLICE%20PVP%20Inf%20Healt%20Spam%20Balls.lua", "https://rbxscript.com/post/SLICEPVPInfHealtSpamBalls-NCLCt")
+
+addscriptexist(2809202155, "Your Bizarre Adventure [ClickTp, SuperSpeed]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Your%20Bizarre%20Adventure%20ClickTp%20SuperSpeed.lua", "https://rbxscript.com/post/YourBizarreAdventureClickTpSuperSpeed-QQOGB")
+
+addscriptexist(286090429, "Arsenal [Fly, Aimbot]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Arsenal%20Fly%20Aimbot.lua", "https://rbxscript.com/post/ArsenalFlyAimbot-I5Yow")
+
+addscriptexist(2727067538, "World // Zero [AutoFarm, Walkspeed]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/World%20%20Zero%20AutoFarm%20Walkspeed.lua", "https://rbxscript.com/post/WorldZeroAutoFarmWalkspeed-PjuxQ")
+
+addscriptexist(7180042682, "Military Tycoon [AutoFarm Event]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Military%20Tycoon%20AutoFarm%20Event.lua", "https://rbxscript.com/post/MilitaryTycoonAutoFarmEvent-XpXH1")
+
+addscriptexist(662417684, "LUCKY BLOCKS Battlegrounds [Inf Jump, Walkspeed]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LUCKY%20BLOCKS%20Battlegrounds%20Inf%20Jump%20Walkspeed.lua", "https://rbxscript.com/post/LUCKYBLOCKSBattlegroundsInfJumpWalkspeed-BL4D3")
+
+addscript(8458333139, "Current Game","1 LIFE [Fast Farm Lvl]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/%20LIFE%20Fast%20Farm%20Lvl.lua", "https://rbxscript.com/post/LIFEFastFarmLvl-4yYIk")
+
+addscriptexist(10676523834, "Racing Rocket [Click Power]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Racing%20Rocket%20Click%20Power.lua", "https://rbxscript.com/post/RacingRocketClickPower-n3JJC")
+
+addscriptexist(9807416796, "De Hood [Fast Buy, AutoStomp]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/De%20Hood%20Fast%20Buy%20AutoStomp.lua", "https://rbxscript.com/post/DeHoodFastBuyAutoStomp-0lrim")
+
+addscriptexist(9431770682, "Lost Rooms [Collect Materials]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Lost%20Rooms%20Collect%20Materials.lua", "https://rbxscript.com/post/LostRoomsCollectMaterials-haBOU")
+
+addscriptexist(5505830188, "Arcane Oblivion RPG [30QnD Damage Weapon]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Arcane%20Oblivion%20RPG%20QnD%20Damage%20Weapon.lua", "https://rbxscript.com/post/ArcaneOblivionRPG30QnDDamageWeapon-wv8is")
+
+addscriptexist(298400657, "Dragon Ball Final Remastered [GUI - Hit Aura, Unlock Quests]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Dragon%20Ball%20Final%20Remastered%20GUI%20%20Hit%20Aura%20Unlock%20Quests.lua", "https://rbxscript.com/post/DragonBallFinalRemasteredGUIHitAuraUnlockQuests-fHC21")
+
+addscriptexist(7560156054, "Clicker Simulator [Collect Trophies]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Clicker%20Simulator%20Collect%20Trophies.lua", "https://rbxscript.com/post/ClickerSimulatorCollectTrophies-JCiEG")
+
+addscriptuniversal("Roblox Universal Script [Realistic Graphic]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Roblox%20Universal%20Script%20Realistic%20Graphic.lua", "https://rbxscript.com/post/RobloxUniversalScriptRealisticGraphic-xKqs0")
+
+addscriptexist(6229116934, "Hoopz [Ball Esp, Aimbot]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Hoopz%20Ball%20Esp%20Aimbot.lua", "https://rbxscript.com/post/HoopzBallEspAimbot-Ff2tE")
+
+addscriptexist(9733390246, "Stair Tappers [AutoPlay, LegitHack]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Stair%20Tappers%20AutoPlay%20LegitHack.lua", "https://rbxscript.com/post/StairTappersAutoPlayLegitHack-4df1v")
+
+addscriptexist(3851622790, "Break In (Story) [Godmode]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Break%20In%20Story%20Godmode.lua", "https://rbxscript.com/post/BreakInStoryGodmode-hXdkS")
+
+addscriptexist(7138009149, "PHIGHTING [Inf Cash]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PHIGHTING%20Inf%20Cash.lua", "https://rbxscript.com/post/PHIGHTINGInfCash-uBFYw")
+
+addscript(9845705613, "Current Game","Blood Hood [Godmode, KillAll]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blood%20Hood%20Godmode%20KillAll.lua", "https://rbxscript.com/post/BloodHoodGodmodeKillAll-7XS7k")
+
+addscriptexist(7138009149, "PHIGHTING [NPC esp]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PHIGHTING%20NPC%20esp.lua", "https://rbxscript.com/post/PHIGHTINGNPCesp-DKS3a")
+
+addscriptexist(9744954014, "THA HOOD!!! [Godmode, Inf Ammo]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/THA%20HOOD%20Godmode%20Inf%20Ammo.lua", "https://rbxscript.com/post/THAHOODGodmodeInfAmmo-mBk0D")
+
+addscriptexist(10676523834, "Racing Rocket [Infinite Star]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Racing%20Rocket%20Infinite%20Star.lua", "https://rbxscript.com/post/RacingRocketInfiniteStar-Qm1di")
+
+addscriptexist(7991339063, "Rainbow Friends [Inf Jumps, Auto Farm, Glitch Blue]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Rainbow%20Friends%20Inf%20Jumps%20Auto%20Farm%20Glitch%20Blue.lua", "https://rbxscript.com/post/RainbowFriendsInfJumpsAutoFarmGlitchBlue-rB1lW")
+
+addscriptexist(5130598377, "A Universal Time [Auto Farms, Thug Farm, Godmode]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/A%20Universal%20Time%20Auto%20Farms%20Thug%20Farm%20Godmode.lua", "https://rbxscript.com/post/AUniversalTimeAutoFarmsThugFarmGodmode-b05EB")
+
+addscriptexist(9648883891, "Festival Tycoon [Auto Buy All]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Festival%20Tycoon%20Auto%20Buy%20All.lua", "https://rbxscript.com/post/FestivalTycoonAutoBuyAll-JXA1D")
+
+addscriptexist(8130299583, "Trident Survial [Aimbot, Silent Aim, ESP]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Trident%20Survial%20Aimbot%20Silent%20Aim%20ESP.lua", "https://rbxscript.com/post/TridentSurvialAimbotSilentAimESP-E6elK")
+
+addscript(8293257677, "Current Game","Surreal RPG [100 damage]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Surreal%20RPG%20%20damage.lua", "https://rbxscript.com/post/SurrealRPG100damage-mICAV")
+
+addscriptexist(8130299583, "Trident Survival [Fast Break]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Trident%20Survival%20Fast%20Break.lua", "https://rbxscript.com/post/TridentSurvivalFastBreak-FrN85")
+
+addscriptexist(2653064683, "Word Bomb [Auto type, Anti-kik, Auto Join]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Word%20Bomb%20Auto%20type%20Antikik%20Auto%20Join.lua", "https://rbxscript.com/post/WordBombAutotypeAntikikAutoJoin-6Gnwz")
+
+addscriptexist(5505830188, "Arcane Oblivion RPG [Sword PIG]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Arcane%20Oblivion%20RPG%20Sword%20PIG.lua", "https://rbxscript.com/post/ArcaneOblivionRPGSwordPIG-ZCInT")
+
+addscriptexist(9845705613, "Blood Hood [Kill All, God mode, Auto Armor]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blood%20Hood%20Kill%20All%20God%20mode%20Auto%20Armor.lua", "https://rbxscript.com/post/BloodHoodKillAllGodmodeAutoArmor-BvP04")
+
+addscript(8972280788, "Current Game","Find The Impostors! [Get Everything]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Find%20The%20Impostors%20Get%20Everything.lua", "https://rbxscript.com/post/FindTheImpostorsGetEverything-2xH4k")
+
+addscriptexist(6403373529, "Slap Battles [DarkOrbFarm, AntiRagdoll]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Slap%20Battles%20DarkOrbFarm%20AntiRagdoll.lua", "https://rbxscript.com/post/SlapBattlesDarkOrbFarmAntiRagdoll-Wdsnl")
+
+addscriptuniversal("Roblox Universal Script [Walkspeed]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Roblox%20Universal%20Script%20Walkspeed.lua", "https://rbxscript.com/post/RobloxUniversalScriptWalkspeed-kxcvY")
+
+addscriptuniversal("Roblox Universal Script [E To Sit]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Roblox%20Universal%20Script%20E%20To%20Sit.lua", "https://rbxscript.com/post/RobloxUniversalScriptEToSit-DQjPn")
+
+addscriptuniversal("Roblox Universal Script [ChatBypass]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Roblox%20Universal%20Script%20ChatBypass.lua", "https://rbxscript.com/post/RobloxUniversalScriptChatBypass-z4Wng")
+
+addscriptuniversal("Roblox Universal Script [Walkspeed, Inf Yield]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Roblox%20Universal%20Script%20Walkspeed%20Inf%20Yield.lua", "https://rbxscript.com/post/RobloxUniversalScriptWalkspeedInfYield-K54G1")
+
+addscriptexist(10524502174, "One Punch Fighters [AutoFarm, AutoSummon]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/One%20Punch%20Fighters%20AutoFarm%20AutoSummon.lua", "https://rbxscript.com/post/OnePunchFightersAutoFarmAutoSummon-kucyR")
+
+addscriptexist(7056922815, "Reaper 2 [AutoFarm, AutoEat]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Reaper%20%20AutoFarm%20AutoEat.lua", "https://rbxscript.com/post/Reaper2AutoFarmAutoEat-fYHwS")
+
+addscriptexist(893973440, "Flee the Facility [Hide beast light]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Flee%20the%20Facility%20Hide%20beast%20light.lua", "https://rbxscript.com/post/FleetheFacilityHidebeastlight-NXkfY")
+
+addscript(4529536977, "Current Game","Pembroke Pines [Inf Money]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pembroke%20Pines%20Inf%20Money.lua", "https://rbxscript.com/post/PembrokePinesInfMoney-SfEBh")
+
+addscriptexist(10675066724, "Slime Tower Tycoon [Auto Collect, Auto Sell, Auto Buy]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Slime%20Tower%20Tycoon%20Auto%20Collect%20Auto%20Sell%20Auto%20Buy.lua", "https://rbxscript.com/post/SlimeTowerTycoonAutoCollectAutoSellAutoBuy-UowwE")
+
+addscriptexist(10675066724, "Slime Tower Tycoon [Auto Deposit, Auto Merge, Auto Buy]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Slime%20Tower%20Tycoon%20Auto%20Deposit%20Auto%20Merge%20Auto%20Buy.lua", "https://rbxscript.com/post/SlimeTowerTycoonAutoDepositAutoMergeAutoBuy-lwqxA")
+
+addscript(7952526341, "Current Game","Draw Drawings and turn it 3D and play around [Crash Server]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Draw%20Drawings%20and%20turn%20it%20D%20and%20play%20around%20Crash%20Server.lua", "https://rbxscript.com/post/DrawDrawingsandturnit3DandplayaroundCrashServer-YsySv")
+
+addscriptexist(292439477, "Phantom Forces [Esp]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Phantom%20Forces%20Esp.lua", "https://rbxscript.com/post/PhantomForcesEsp-vWot5")
+
+addscriptexist(6516141723, "DOORS [Skip lvls, Anti screech, Always win games]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DOORS%20Skip%20lvls%20Anti%20screech%20Always%20win%20games.lua", "https://rbxscript.com/post/DOORSSkiplvlsAntiscreechAlwayswingames-qRHHd")
+
+addscriptexist(6055959032, "Jailbird [Aimbot, FOV Scale, Show FOV]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Jailbird%20Aimbot%20FOV%20Scale%20Show%20FOV.lua", "https://rbxscript.com/post/JailbirdAimbotFOVScaleShowFOV-u6oUd")
+
+addscriptexist(5130598377, "A Universal Time [Items Farm, God Mode, Auto Quest]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/A%20Universal%20Time%20Items%20Farm%20God%20Mode%20Auto%20Quest.lua", "https://rbxscript.com/post/AUniversalTimeItemsFarmGodModeAutoQuest-Phobl")
+
+addscriptexist(815405518, "The Floor Is LAVA [Survival Farm, Points Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/The%20Floor%20Is%20LAVA%20Survival%20Farm%20Points%20Farm.lua", "https://rbxscript.com/post/TheFloorIsLAVASurvivalFarmPointsFarm-pJ7hJ")
+
+addscriptexist(8884334497, "Mining Clicker Simulator [Auto Mine, Auto Biy Egg, Auto buy Pickaxe]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mining%20Clicker%20Simulator%20Auto%20Mine%20Auto%20Biy%20Egg%20Auto%20buy%20Pickaxe.lua", "https://rbxscript.com/post/MiningClickerSimulatorAutoMineAutoBiyEggAutobuyPickaxe-KAFRC")
+
+addscriptexist(8458333139, "1 LIFE [Kill, Tp everyone]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/%20LIFE%20Kill%20Tp%20everyone.lua", "https://rbxscript.com/post/1LIFEKillTpeveryone-1y6Rp")
+
+addscriptexist(10207722290, "Lifting Legends Simulator [Auto Farm, Sell, Buy]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Lifting%20Legends%20Simulator%20Auto%20Farm%20Sell%20Buy.lua", "https://rbxscript.com/post/LiftingLegendsSimulatorAutoFarmSellBuy-1r7Pc")
+
+addscriptexist(10676523834, "Racing Rocket [Upgrade Rocket]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Racing%20Rocket%20Upgrade%20Rocket.lua", "https://rbxscript.com/post/RacingRocketUpgradeRocket-ylxAL")
+
+addscriptexist(8750997647, "Tapping Legends X [AutoClick, AutoUpgrade]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tapping%20Legends%20X%20AutoClick%20AutoUpgrade.lua", "https://rbxscript.com/post/TappingLegendsXAutoClickAutoUpgrade-hrlzU")
+
+addscriptexist(9772878203, "raise a floppa 2 [Automatic Crystal Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/raise%20a%20floppa%20%20Automatic%20Crystal%20Farm.lua", "https://rbxscript.com/post/raiseafloppa2AutomaticCrystalFarm-23Exp")
+
+addscript(6428174188, "Current Game","Lost RPG [Get All Items]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Lost%20RPG%20Get%20All%20Items.lua", "https://rbxscript.com/post/LostRPGGetAllItems-5xkfl")
+
+addscript(9658251985, "Current Game","The Rake Kill Test [Kick paleyrs]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/The%20Rake%20Kill%20Test%20Kick%20paleyrs.lua", "https://rbxscript.com/post/TheRakeKillTestKickpaleyrs-xNOVu")
+
+addscriptexist(9658251985, "The Rake Kill Test [Kill people]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/The%20Rake%20Kill%20Test%20Kill%20people.lua", "https://rbxscript.com/post/TheRakeKillTestKillpeople-LCIFq")
+
+addscriptexist(8328351891, "Mega Mansion Tycoon [Auto Buy, Auto Collect, Money Make Day]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mega%20Mansion%20Tycoon%20Auto%20Buy%20Auto%20Collect%20Money%20Make%20Day.lua", "https://rbxscript.com/post/MegaMansionTycoonAutoBuyAutoCollectMoneyMakeDay-TcIt9")
+
+addscriptexist(286090429, "Arsenal [Kill All, Silent Aim, Esp]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Arsenal%20Kill%20All%20Silent%20Aim%20Esp.lua", "https://rbxscript.com/post/ArsenalKillAllSilentAimEsp-fbYLy")
+
+addscriptuniversal("Roblox Universal Script [AntiTP Bypass]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Roblox%20Universal%20Script%20AntiTP%20Bypass.lua", "https://rbxscript.com/post/RobloxUniversalScriptAntiTPBypass-L5dRL")
+
+addscriptuniversal("Roblox Universal Script [Name Esp]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Roblox%20Universal%20Script%20Name%20Esp.lua", "https://rbxscript.com/post/RobloxUniversalScriptNameEsp-ZS9bY")
+
+addscriptexist(8425637426, "Write a Letter [Auto Give Notes]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Write%20a%20Letter%20Auto%20Give%20Notes.lua", "https://rbxscript.com/post/WriteaLetterAutoGiveNotes-Y3do7")
+
+addscriptexist(8737602449, "PLS DONATE [Random Fourene Cookie]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PLS%20DONATE%20Random%20Fourene%20Cookie.lua", "https://rbxscript.com/post/PLSDONATERandomFoureneCookie-uabqK")
+
+addscriptexist(9304358188, "Find The Memes [Get All]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Find%20The%20Memes%20Get%20All.lua", "https://rbxscript.com/post/FindTheMemesGetAll-PexJH")
+
+addscriptexist(8054462345, "Michael's Zombies [Kill Aura]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Michaels%20Zombies%20Kill%20Aura.lua", "https://rbxscript.com/post/MichaelsZombiesKillAura-NDwbT")
+
+addscriptexist(8130299583, "Trident Survival [Esp, Head Hbe, Xray]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Trident%20Survival%20Esp%20Head%20Hbe%20Xray.lua", "https://rbxscript.com/post/TridentSurvivalEspHeadHbeXray-KGCVH")
+
+addscriptexist(9737855826, "Trade Simulator [AntiAFK]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Trade%20Simulator%20AntiAFK.lua", "https://rbxscript.com/post/TradeSimulatorAntiAFK-VBmXf")
+
+addscriptuniversal("Roblox Universal Script [Movement Tracker]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Roblox%20Universal%20Script%20Movement%20Tracker.lua", "https://rbxscript.com/post/RobloxUniversalScriptMovementTracker-sf9eR")
+
+addscriptexist(1962086868, "Tower of Hell [God mode]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tower%20of%20Hell%20God%20mode.lua", "https://rbxscript.com/post/TowerofHellGodmode-9u4in")
+
+addscriptexist(7180042682, "Military Tycoon [Targets events farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Military%20Tycoon%20Targets%20events%20farm.lua", "https://rbxscript.com/post/MilitaryTycoonTargetseventsfarm-NqXkA")
+
+addscriptexist(286090429, "Arsenal [Inf Ammo]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Arsenal%20Inf%20Ammo.lua", "https://rbxscript.com/post/ArsenalInfAmmo-y6sL6")
+
+addscript(4893679160, "Current Game","Big Brain Simulator [AutoSell, Collect Coins]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Big%20Brain%20Simulator%20AutoSell%20Collect%20Coins.lua", "https://rbxscript.com/post/BigBrainSimulatorAutoSellCollectCoins-3vWl8")
+
+addscript(6245984328, "Current Game","NERF Strike [AutoFarm, Hitboxes]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NERF%20Strike%20AutoFarm%20Hitboxes.lua", "https://rbxscript.com/post/NERFStrikeAutoFarmHitboxes-XIsF3")
+
+addscript(9203864304, "Current Game","raise a floppa [AutoClick, AutoCollectMoney]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/raise%20a%20floppa%20AutoClick%20AutoCollectMoney.lua", "https://rbxscript.com/post/raiseafloppaAutoClickAutoCollectMoney-kyoCU")
+
+addscriptexist(7047488135, "Speed Run Simulator [AutoClick, Win Race]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Speed%20Run%20Simulator%20AutoClick%20Win%20Race.lua", "https://rbxscript.com/post/SpeedRunSimulatorAutoClickWinRace-vyGxW")
+
+addscriptexist(2788229376, "Da Hood [Aimlock, Silent Aim]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Da%20Hood%20Aimlock%20Silent%20Aim.lua", "https://rbxscript.com/post/DaHoodAimlockSilentAim-krj3y")
+
+addscriptuniversal("Roblox Universal Script [WalkOnWalls]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Roblox%20Universal%20Script%20WalkOnWalls.lua", "https://rbxscript.com/post/RobloxUniversalScriptWalkOnWalls-5hNig")
+
+addscriptexist(286090429, "Arsenal [Esp, Silent Aim]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Arsenal%20Esp%20Silent%20Aim.lua", "https://rbxscript.com/post/ArsenalEspSilentAim-AOFLW")
+
+addscriptexist(8540346411, "Rebirth Champions X [AutoSpin, AutoCraft]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Rebirth%20Champions%20X%20AutoSpin%20AutoCraft.lua", "https://rbxscript.com/post/RebirthChampionsXAutoSpinAutoCraft-BVtcZ")
+
+addscriptexist(8750997647, "Tapping Legends X [AutoEggs, AutoRebirth]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tapping%20Legends%20X%20AutoEggs%20AutoRebirth.lua", "https://rbxscript.com/post/TappingLegendsXAutoEggsAutoRebirth-Yrun5")
+
+addscriptexist(7453798168, "YouTube Simulator X [AutoCandy, AutoClick]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/YouTube%20Simulator%20X%20AutoCandy%20AutoClick.lua", "https://rbxscript.com/post/YouTubeSimulatorXAutoCandyAutoClick-PN37s")
+
+addscriptexist(3823781113, "Saber Simulator [AutoSwing, AutoBuy]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Saber%20Simulator%20AutoSwing%20AutoBuy.lua", "https://rbxscript.com/post/SaberSimulatorAutoSwingAutoBuy-BwANT")
+
+addscriptexist(2788229376, "Da Hood [Silent Aim, Fly, WalkSpeed]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Da%20Hood%20Silent%20Aim%20Fly%20WalkSpeed.lua", "https://rbxscript.com/post/DaHoodSilentAimFlyWalkSpeed-SEVFC")
+
+addscriptexist(4520749081, "King Legacy [Inf Dash, AutoFarm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/King%20Legacy%20Inf%20Dash%20AutoFarm.lua", "https://rbxscript.com/post/KingLegacyInfDashAutoFarm-gaXF3")
+
+addscriptexist(9498006165, "Tapping Simulator [AutoRebirth, Inf Jump]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tapping%20Simulator%20AutoRebirth%20Inf%20Jump.lua", "https://rbxscript.com/post/TappingSimulatorAutoRebirthInfJump-to7vm")
+
+addscriptexist(9872472334, "Evade [Quick Revive, Show Chat, Autofarm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Evade%20Quick%20Revive%20Show%20Chat%20Autofarm.lua", "https://rbxscript.com/post/EvadeQuickReviveShowChatAutofarm-TwbSO")
+
+addscript(6609611538, "Current Game","Mechanica [Lag Server]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mechanica%20Lag%20Server.lua", "https://rbxscript.com/post/MechanicaLagServer-w62Xg")
+
+addscriptexist(286090429, "Arsenal [Kill Aura, AimBot, Team Check]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Arsenal%20Kill%20Aura%20AimBot%20Team%20Check.lua", "https://rbxscript.com/post/ArsenalKillAuraAimBotTeamCheck-Efsin")
+
+addscriptexist(10053187005, "Counter Blox: Reimagined [Kill All, Aimbot, Esp]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Counter%20Blox%20Reimagined%20Kill%20All%20Aimbot%20Esp.lua", "https://rbxscript.com/post/CounterBloxReimaginedKillAllAimbotEsp-a27ly")
+
+addscript(2124720684, "Current Game","Dragon Ball: Xeno Multiverse [Kill Aura, Auto Farm, WalkSpeed]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Dragon%20Ball%20Xeno%20Multiverse%20Kill%20Aura%20Auto%20Farm%20WalkSpeed.lua", "https://rbxscript.com/post/DragonBallXenoMultiverseKillAuraAutoFarmWalkSpeed-Dooqr")
+
+addscriptexist(3260590327, "Tower Defense Simulator [Auto Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tower%20Defense%20Simulator%20Auto%20Farm.lua", "https://rbxscript.com/post/TowerDefenseSimulatorAutoFarm-sAUl1")
+
+addscriptexist(4042427666, "Anime Fighting Simulator [Inf Yen, Inf Chikara]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime%20Fighting%20Simulator%20Inf%20Yen%20Inf%20Chikara.lua", "https://rbxscript.com/post/AnimeFightingSimulatorInfYenInfChikara-CdVCX")
+
+addscriptuniversal("Roblox Universal Script [Fps Boost]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Roblox%20Universal%20Script%20Fps%20Boost.lua", "https://rbxscript.com/post/RobloxUniversalScriptFpsBoost-eBH9R")
+
+addscriptexist(6299805723, "Anime Fighters Simulator [Auto Farm, AutoClick]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime%20Fighters%20Simulator%20Auto%20Farm%20AutoClick.lua", "https://rbxscript.com/post/AnimeFightersSimulatorAutoFarmAutoClick-rwbUx")
+
+addscriptexist(8737602449, "PLS DONATE [Server Hop, AutoBeg]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PLS%20DONATE%20Server%20Hop%20AutoBeg.lua", "https://rbxscript.com/post/PLSDONATEServerHopAutoBeg-3fgBg")
+
+addscriptexist(3101667897, "Legends Of Speed [Auto Hoops, AutoRace]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Legends%20Of%20Speed%20Auto%20Hoops%20AutoRace.lua", "https://rbxscript.com/post/LegendsOfSpeedAutoHoopsAutoRace-X6hZu")
+
+addscriptuniversal("Roblox Universal Script [Admin Commands]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Roblox%20Universal%20Script%20Admin%20Commands.lua", "https://rbxscript.com/post/RobloxUniversalScriptAdminCommands-PVu8N")
+
+addscriptuniversal("Roblox Universal Script [Catify Chat]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Roblox%20Universal%20Script%20Catify%20Chat.lua", "https://rbxscript.com/post/RobloxUniversalScriptCatifyChat-bZ4yu")
+
+addscriptexist(5602055394, "Hood Modded [Silent Aim, Esp]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Hood%20Modded%20Silent%20Aim%20Esp.lua", "https://rbxscript.com/post/HoodModdedSilentAimEsp-Gropj")
+
+addscriptuniversal("Roblox Universal Script [Off Chat]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Roblox%20Universal%20Script%20Off%20Chat.lua", "https://rbxscript.com/post/RobloxUniversalScriptOffChat-1QZKl")
+
+addscriptexist(10347946161, "Rat Washing Tycoon [Auto Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Rat%20Washing%20Tycoon%20Auto%20Farm.lua", "https://rbxscript.com/post/RatWashingTycoonAutoFarm-6gp6d")
+
+addscript(10705886260, "Current Game","Strucid [Anti-Cheat Bypass]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Strucid%20AntiCheat%20Bypass.lua", "https://rbxscript.com/post/StrucidAntiCheatBypass-XCmOm")
+
+addhub("Roblox [Ultimate Hub]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Roblox%20Ultimate%20Hub.lua", "https://rbxscript.com/post/RobloxUltimateHub-Jawlk")
+
+addscript(6778844213, "Current Game","Euphoria ragdoll testing [Donation Gui]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Euphoria%20ragdoll%20testing%20Donation%20Gui.lua", "https://rbxscript.com/post/EuphoriaragdolltestingDonationGui-j359w")
+
+addscriptuniversal("Roblox Universal Script [Hitbox, Esp]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Roblox%20Universal%20Script%20Hitbox%20Esp.lua", "https://rbxscript.com/post/RobloxUniversalScriptHitboxEsp-fvGj4")
+
+addscriptexist(662417684, "LUCKY BLOCKS Battlegrounds. [Fly, Get All Items]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LUCKY%20BLOCKS%20Battlegrounds%20Fly%20Get%20All%20Items.lua", "https://rbxscript.com/post/LUCKYBLOCKSBattlegroundsFlyGetAllItems-tFzLC")
+
+addscriptexist(5041144419, "SCP: Roleplay [Escape Facility, KillAura]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SCP%20Roleplay%20Escape%20Facility%20KillAura.lua", "https://rbxscript.com/post/SCPRoleplayEscapeFacilityKillAura-2BIL5")
+
+addscriptexist(10087074695, "Knife Strife! [Insta Kill]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Knife%20Strife%20Insta%20Kill.lua", "https://rbxscript.com/post/KnifeStrifeInstaKill-4FI6X")
+
+addscriptexist(3351674303, "Driving Empire [AutoFarm, Auto Race]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Driving%20Empire%20AutoFarm%20Auto%20Race.lua", "https://rbxscript.com/post/DrivingEmpireAutoFarmAutoRace-Lnl1k")
+
+addscriptuniversal("Roblox Universal Script [RemoteSpy]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Roblox%20Universal%20Script%20RemoteSpy.lua", "https://rbxscript.com/post/RobloxUniversalScriptRemoteSpy-XuCrh")
+
+addscriptexist(9658251985, "The Rake Kill Test [Kill Rake, On/Of Power, Shadow Hour]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/The%20Rake%20Kill%20Test%20Kill%20Rake%20OnOf%20Power%20Shadow%20Hour.lua", "https://rbxscript.com/post/TheRakeKillTestKillRakeOnOfPowerShadowHour-8aJcN")
+
+addscriptexist(6428174188, "LOST RPG [Get all items]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LOST%20RPG%20Get%20all%20items.lua", "https://rbxscript.com/post/LOSTRPGGetallitems-IYAa9")
+
+addscriptexist(292439477, "Phantom Forces [No Recoil]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Phantom%20Forces%20No%20Recoil.lua", "https://rbxscript.com/post/PhantomForcesNoRecoil-OLzcE")
+
+addscriptexist(1537690962, "Bee Swarm Simulator [Autofarm, Auto dig, Auto convert]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Bee%20Swarm%20Simulator%20Autofarm%20Auto%20dig%20Auto%20convert.lua", "https://rbxscript.com/post/BeeSwarmSimulatorAutofarmAutodigAutoconvert-hwcWW")
+
+addscriptexist(7714627632, "Winds of Fortune [AutoFarm, Esp]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Winds%20of%20Fortune%20AutoFarm%20Esp.lua", "https://rbxscript.com/post/WindsofFortuneAutoFarmEsp-eGef5")
+
+addscriptexist(7056922815, "Reaper 2 [Auto Fam, Auto Quest, Auto Skills]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Reaper%20%20Auto%20Fam%20Auto%20Quest%20Auto%20Skills.lua", "https://rbxscript.com/post/Reaper2AutoFamAutoQuestAutoSkills-33AKU")
+
+addscriptexist(2537430692, "Jenga [NoKillBrick, FLy]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Jenga%20NoKillBrick%20FLy.lua", "https://rbxscript.com/post/JengaNoKillBrickFLy-D4SDs")
+
+addscriptexist(2537430692, "Jenga [End Game, Moai]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Jenga%20End%20Game%20Moai.lua", "https://rbxscript.com/post/JengaEndGameMoai-GX1N3")
+
+addscriptexist(8737602449, "PLS DONATE [AutoBeg, Webhook]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PLS%20DONATE%20AutoBeg%20Webhook.lua", "https://rbxscript.com/post/PLSDONATEAutoBegWebhook-w09cR")
+
+addscriptuniversal("Roblox Universal Script [Blue Screen]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Roblox%20Universal%20Script%20Blue%20Screen.lua", "https://rbxscript.com/post/RobloxUniversalScriptBlueScreen-jX55q")
+
+addscript(9386846196, "Current Game","Brawling Grounds [AddHeal, KillAura]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Brawling%20Grounds%20AddHeal%20KillAura.lua", "https://rbxscript.com/post/BrawlingGroundsAddHealKillAura-PSBYp")
+
+addscript(7540727946, "Current Game","Hoops Life Basketball [Auto Guard, AutoDunk]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Hoops%20Life%20Basketball%20Auto%20Guard%20AutoDunk.lua", "https://rbxscript.com/post/HoopsLifeBasketballAutoGuardAutoDunk-lvRnH")
+
+addscriptexist(2788229376, "Da Hood [AutoHeal, Inf Jump]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Da%20Hood%20AutoHeal%20Inf%20Jump.lua", "https://rbxscript.com/post/DaHoodAutoHealInfJump-J1bAV")
+
+addscriptexist(6403373529, "Slap Battles [AutoFarm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Slap%20Battles%20AutoFarm.lua", "https://rbxscript.com/post/SlapBattlesAutoFarm-JSoEf")
+
+addscriptexist(2753915549, "Blox Fruits [Script-Hub]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blox%20Fruits%20ScriptHub.lua", "https://rbxscript.com/post/BloxFruitsScriptHub-Uomfy")
+
+addscriptexist(2753915549, "Blox Fruits [AutoFarm Dungeon, Esp]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blox%20Fruits%20AutoFarm%20Dungeon%20Esp.lua", "https://rbxscript.com/post/BloxFruitsAutoFarmDungeonEsp-5hOzJ")
+
+addscriptexist(6461766546, "A Hero's Destiny [Auto Spin, Auto Quest, Auto Skills]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/A%20Heros%20Destiny%20Auto%20Spin%20Auto%20Quest%20Auto%20Skills.lua", "https://rbxscript.com/post/AHerosDestinyAutoSpinAutoQuestAutoSkills-F9NL1")
+
+addscriptexist(9143982021, "Sword Battles [KillAura, Godmode]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sword%20Battles%20KillAura%20Godmode.lua", "https://rbxscript.com/post/SwordBattlesKillAuraGodmode-AhdSA")
+
+addscript(9103090927, "Current Game","Stumble Buddies [Kick Players, Change Map]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Stumble%20Buddies%20Kick%20Players%20Change%20Map.lua", "https://rbxscript.com/post/StumbleBuddiesKickPlayersChangeMap-x8JLf")
+
+addscript(5890116343, "Current Game","Age Simulator [AutoFarm, AutoAge]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Age%20Simulator%20AutoFarm%20AutoAge.lua", "https://rbxscript.com/post/AgeSimulatorAutoFarmAutoAge-YZyvU")
+
+addscript(7055501563, "Current Game","Public Bathroom Simulator [Crash Server]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Public%20Bathroom%20Simulator%20Crash%20Server.lua", "https://rbxscript.com/post/PublicBathroomSimulatorCrashServer-5dnW9")
+
+addscriptexist(13822889, "Lumber Tycoon 2 [Inf Jump, Walkspeed]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Lumber%20Tycoon%20%20Inf%20Jump%20Walkspeed.lua", "https://rbxscript.com/post/LumberTycoon2InfJumpWalkspeed-xWoSL")
+
+addscriptexist(4951858512, "Victory Race [Walkspeed, AutoFarm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Victory%20Race%20Walkspeed%20AutoFarm.lua", "https://rbxscript.com/post/VictoryRaceWalkspeedAutoFarm-cHpP3")
+
+addscriptexist(5490351219, "Clicker Madness [Auto Open Egg, Auto Clicker, Tp]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Clicker%20Madness%20Auto%20Open%20Egg%20Auto%20Clicker%20Tp.lua", "https://rbxscript.com/post/ClickerMadnessAutoOpenEggAutoClickerTp-AzD87")
+
+addscriptexist(9598746251, "Home Run Simulator [Auto home Run Auto Upgrade, Auto rebirth]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Home%20Run%20Simulator%20Auto%20home%20Run%20Auto%20Upgrade%20Auto%20rebirth.lua", "https://rbxscript.com/post/HomeRunSimulatorAutohomeRunAutoUpgradeAutorebirth-KtEUv")
+
+addscriptexist(3101667897, "Legends Of Speed [Auto Grab orbs, Auto Grab Rings, Auto Rebirth]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Legends%20Of%20Speed%20Auto%20Grab%20orbs%20Auto%20Grab%20Rings%20Auto%20Rebirth.lua", "https://rbxscript.com/post/LegendsOfSpeedAutoGraborbsAutoGrabRingsAutoRebirth-XK2fj")
+
+addscriptexist(7050008107, "Hospital Tycoon [Collect Cash, Buy Buttons]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Hospital%20Tycoon%20Collect%20Cash%20Buy%20Buttons.lua", "https://rbxscript.com/post/HospitalTycoonCollectCashBuyButtons-JRopb")
+
+addscriptexist(8146731988, "Ultra Power Tycoon [Power, Grab All items]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ultra%20Power%20Tycoon%20Power%20Grab%20All%20items.lua", "https://rbxscript.com/post/UltraPowerTycoonPowerGrabAllitems-Kt00j")
+
+addscript(7860844204, "Current Game","Life Sentence [KillAura, ItemFarm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Life%20Sentence%20KillAura%20ItemFarm.lua", "https://rbxscript.com/post/LifeSentenceKillAuraItemFarm-WVKm1")
+
+addscript(10117551326, "Current Game","UTBM (Dustpreme Hall drip) [God Mode]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/UTBM%20Dustpreme%20Hall%20drip%20God%20Mode.lua", "https://rbxscript.com/post/UTBMDustpremeHalldripGodMode-OiYqW")
+
+addscript(9949781550, "Current Game","Digging Simulator [Inf Money]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Digging%20Simulator%20Inf%20Money.lua", "https://rbxscript.com/post/DiggingSimulatorInfMoney-AYTvL")
+
+addscript(10204162989, "Current Game","Pickaxe Simulator [Auto Mine, Equip Best Pets, Redeem Code]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pickaxe%20Simulator%20Auto%20Mine%20Equip%20Best%20Pets%20Redeem%20Code.lua", "https://rbxscript.com/post/PickaxeSimulatorAutoMineEquipBestPetsRedeemCode-f8pge")
+
+addscriptexist(6516141723, "DOORS [Fullbright, Esp]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DOORS%20Fullbright%20Esp.lua", "https://rbxscript.com/post/DOORSFullbrightEsp-2uHrv")
+
+addscriptexist(4042427666, "Anime Fighting Simulator [AutoFarm Mob, Farm Chikara Shards]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime%20Fighting%20Simulator%20AutoFarm%20Mob%20Farm%20Chikara%20Shards.lua", "https://rbxscript.com/post/AnimeFightingSimulatorAutoFarmMobFarmChikaraShards-N1QEP")
+
+addscriptexist(6447798030, "Funky Friday [Auto Play, Auto Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Funky%20Friday%20Auto%20Play%20Auto%20Farm.lua", "https://rbxscript.com/post/FunkyFridayAutoPlayAutoFarm-8e5QV")
+
+addscriptexist(5956785391, "Project Slayers [Inf Stamina, Autofarm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Project%20Slayers%20Inf%20Stamina%20Autofarm.lua", "https://rbxscript.com/post/ProjectSlayersInfStaminaAutofarm-QVos7")
+
+addscriptexist(9285238704, "Race Clicker [Auto Farm Wins]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Race%20Clicker%20Auto%20Farm%20Wins.lua", "https://rbxscript.com/post/RaceClickerAutoFarmWins-nLTmm")
+
+addscriptexist(10087074695, "Knife Strife! [Dupe Knifes not fixed]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Knife%20Strife%20Dupe%20Knifes%20not%20fixed.lua", "https://rbxscript.com/post/KnifeStrifeDupeKnifesnotfixed-CkURt")
+
+addscriptexist(4951858512, "Victory Race [AutoFarm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Victory%20Race%20AutoFarm.lua", "https://rbxscript.com/post/VictoryRaceAutoFarm-dxabu")
+
+addscriptexist(3587619225, "Mega Easy Obby [Claim All Badges, Walkspeed]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mega%20Easy%20Obby%20Claim%20All%20Badges%20Walkspeed.lua", "https://rbxscript.com/post/MegaEasyObbyClaimAllBadgesWalkspeed-cNe4h")
+
+addscriptexist(7560156054, "Clicker Simulator [Auto Rebirth, Auto Eggs]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Clicker%20Simulator%20Auto%20Rebirth%20Auto%20Eggs.lua", "https://rbxscript.com/post/ClickerSimulatorAutoRebirthAutoEggs-OVAPQ")
+
+addscriptexist(537413528, "Build A Boat For Treasure [AutoFarm, Auto Chests]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Build%20A%20Boat%20For%20Treasure%20AutoFarm%20Auto%20Chests.lua", "https://rbxscript.com/post/BuildABoatForTreasureAutoFarmAutoChests-4dnH4")
+
+addscript(9291030453, "Current Game","The Chainsmokers Concert Experience [GetAllLetters, Walkspeed]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/The%20Chainsmokers%20Concert%20Experience%20GetAllLetters%20Walkspeed.lua", "https://rbxscript.com/post/TheChainsmokersConcertExperienceGetAllLettersWalkspeed-rKVOt")
+
+addscriptexist(9872472334, "Evade [AutoRespawn, Esp]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Evade%20AutoRespawn%20Esp.lua", "https://rbxscript.com/post/EvadeAutoRespawnEsp-AKjZB")
+
+addscriptexist(2537430692, "Jenga [Walkspeed, End Game]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Jenga%20Walkspeed%20End%20Game.lua", "https://rbxscript.com/post/JengaWalkspeedEndGame-FUocf")
+
+addscriptexist(7655745946, "Dunking Simulator [Free Gamepass]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Dunking%20Simulator%20Free%20Gamepass.lua", "https://rbxscript.com/post/DunkingSimulatorFreeGamepass-XwGjw")
+
+addscriptexist(286090429, "Arsenal [Rainbow Gun, Aimbot]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Arsenal%20Rainbow%20Gun%20Aimbot.lua", "https://rbxscript.com/post/ArsenalRainbowGunAimbot-EEgv4")
+
+addscriptexist(5130598377, "Tapping Legends X [Auto Farms, Auto Hatch, Auto Rebirth]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tapping%20Legends%20X%20Auto%20Farms%20Auto%20Hatch%20Auto%20Rebirth.lua", "https://rbxscript.com/post/TappingLegendsXAutoFarmsAutoHatchAutoRebirth-Eft2D")
+
+addscriptexist(2753915549, "Blox Fruits [AutoFarm Mobs, Esp Chest]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blox%20Fruits%20AutoFarm%20Mobs%20Esp%20Chest.lua", "https://rbxscript.com/post/BloxFruitsAutoFarmMobsEspChest-cIIys")
+
+addscriptexist(3177438863, "Dragon Blox [AutoLoot, AutoRebirth]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Dragon%20Blox%20AutoLoot%20AutoRebirth.lua", "https://rbxscript.com/post/DragonBloxAutoLootAutoRebirth-CQW6W")
+
+addscript(9862161924, "Current Game","glass game [Show Fake Glass]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/glass%20game%20Show%20Fake%20Glass.lua", "https://rbxscript.com/post/glassgameShowFakeGlass-Q6j1i")
+
+addscriptexist(2537430692, "Jenga [Win, Remove KillBrick]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Jenga%20Win%20Remove%20KillBrick.lua", "https://rbxscript.com/post/JengaWinRemoveKillBrick-ZkzCS")
+
+addscriptuniversal("Roblox Universal Script [Gun Modifier]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Roblox%20Universal%20Script%20Gun%20Modifier.lua", "https://rbxscript.com/post/RobloxUniversalScriptGunModifier-ipaZ1")
+
+addscript(5326405001, "Current Game","Base Battles (Fixed) [Silent Aim, Esp]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Base%20Battles%20Fixed%20Silent%20Aim%20Esp.lua", "https://rbxscript.com/post/BaseBattlesFixedSilentAimEsp-Xv2GJ")
+
+addscript(6452292184, "Current Game","Speed Runner! [AutoFarm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Speed%20Runner%20AutoFarm.lua", "https://rbxscript.com/post/SpeedRunnerAutoFarm-edHr8")
+
+addscriptexist(3956818381, "Ninja Legends [Auto Clicker]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ninja%20Legends%20Auto%20Clicker.lua", "https://rbxscript.com/post/NinjaLegendsAutoClicker-9OuPy")
+
+addscriptexist(286090429, "Arsenal [Non FE Dev Skins]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Arsenal%20Non%20FE%20Dev%20Skins.lua", "https://rbxscript.com/post/ArsenalNonFEDevSkins-mxlzy")
+
+addscriptexist(2788229376, "Evade [Optimize utillities]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Evade%20Optimize%20utillities.lua", "https://rbxscript.com/post/EvadeOptimizeutillities-0DJoA")
+
+addscriptexist(8204899140, "Football Fusion 2 [Auto Captain, AutoJump]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Football%20Fusion%20%20Auto%20Captain%20AutoJump.lua", "https://rbxscript.com/post/FootballFusion2AutoCaptainAutoJump-EVa8h")
+
+addscriptexist(9845705613, "Blood Hood [AutoPunch, KillAll]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blood%20Hood%20AutoPunch%20KillAll.lua", "https://rbxscript.com/post/BloodHoodAutoPunchKillAll-HdKUX")
+
+addscript(10184360875, "Current Game","Pet&Fishing Simulator [Auto Sell, Auto Fish]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PetFishing%20Simulator%20Auto%20Sell%20Auto%20Fish.lua", "https://rbxscript.com/post/PetFishingSimulatorAutoSellAutoFish-HTqbm")
+
+addscriptexist(9285238704, "Race Clicker [AutoFarm, AutoClick]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Race%20Clicker%20AutoFarm%20AutoClick.lua", "https://rbxscript.com/post/RaceClickerAutoFarmAutoClick-53HOR")
+
+addscriptexist(2788229376, "Da Hood [Anti Stomp, Godmode]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Da%20Hood%20Anti%20Stomp%20Godmode.lua", "https://rbxscript.com/post/DaHoodAntiStompGodmode-3TY5A")
+
+addscriptexist(9872472334, "Evade [AutoRespawn, Bot Esp]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Evade%20AutoRespawn%20Bot%20Esp.lua", "https://rbxscript.com/post/EvadeAutoRespawnBotEsp-ToT3R")
+
+addscriptexist(3956818381, "Ninja Legends [AutoFarm, AutoCrystals]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ninja%20Legends%20AutoFarm%20AutoCrystals.lua", "https://rbxscript.com/post/NinjaLegendsAutoFarmAutoCrystals-iLech")
+
+addscriptexist(4951858512, "Victory Race [Anti Lag, AutoWin]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Victory%20Race%20Anti%20Lag%20AutoWin.lua", "https://rbxscript.com/post/VictoryRaceAntiLagAutoWin-JS9J1")
+
+addscriptexist(4042427666, "Anime Fighting Simulator [Inf Yen and Chikara]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime%20Fighting%20Simulator%20Inf%20Yen%20and%20Chikara.lua", "https://rbxscript.com/post/AnimeFightingSimulatorInfYenandChikara-WKKQa")
+
+addscriptexist(537413528, "Build A Boat For Treasure [AutoFarm, Auto Open Chest]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Build%20A%20Boat%20For%20Treasure%20AutoFarm%20Auto%20Open%20Chest.lua", "https://rbxscript.com/post/BuildABoatForTreasureAutoFarmAutoOpenChest-1qJsE")
+
+addscriptexist(7280118908, "School Simulator [Free Gamepass]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/School%20Simulator%20Free%20Gamepass.lua", "https://rbxscript.com/post/SchoolSimulatorFreeGamepass-XjPHX")
+
+addscriptexist(1240644540, "Vampire Hunters 3 [Spam Screen Text]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Vampire%20Hunters%20%20Spam%20Screen%20Text.lua", "https://rbxscript.com/post/VampireHunters3SpamScreenText-XKTDh")
+
+addscriptexist(10001513103, "Limited Words [Annoy Mods, Waste Words, Get Joseph Badge]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Limited%20Words%20Annoy%20Mods%20Waste%20Words%20Get%20Joseph%20Badge.lua", "https://rbxscript.com/post/LimitedWordsAnnoyModsWasteWordsGetJosephBadge-U1gog")
+
+addscriptuniversal("Roblox Universal Script [AK-47 Gun, Not FE]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Roblox%20Universal%20Script%20AK%20Gun%20Not%20FE.lua", "https://rbxscript.com/post/RobloxUniversalScriptAK47GunNotFE-b1im1")
+
+addscriptexist(286090429, "Arsenal [No Spread, Aimbot]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Arsenal%20No%20Spread%20Aimbot.lua", "https://rbxscript.com/post/ArsenalNoSpreadAimbot-zrbTq")
+
+addscriptexist(662417684, "LUCKY BLOCKS Battlegrounds [Open Any LuckyBlock]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LUCKY%20BLOCKS%20Battlegrounds%20Open%20Any%20LuckyBlock.lua", "https://rbxscript.com/post/LUCKYBLOCKSBattlegroundsOpenAnyLuckyBlock-5IpIr")
+
+addscriptexist(8884334497, "Mining Clicker Simulator [AutoRebirth, AutoClick]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mining%20Clicker%20Simulator%20AutoRebirth%20AutoClick.lua", "https://rbxscript.com/post/MiningClickerSimulatorAutoRebirthAutoClick-jeAhR")
+
+addscriptexist(2537430692, "Jenga [Stop Game]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Jenga%20Stop%20Game.lua", "https://rbxscript.com/post/JengaStopGame-N6Q2U")
+
+addscriptexist(4282985734, "Combat Warriors [Esp, KillAura]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Combat%20Warriors%20Esp%20KillAura.lua", "https://rbxscript.com/post/CombatWarriorsEspKillAura-TkZ5m")
+
+addscriptexist(5154858502, "Murderers vs. Sheriffs [KillAura]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Murderers%20vs%20Sheriffs%20KillAura.lua", "https://rbxscript.com/post/MurderersvsSheriffsKillAura-4N1zn")
+
+addscriptexist(2788229376, "Da Hood [AimLock]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Da%20Hood%20AimLock.lua", "https://rbxscript.com/post/DaHoodAimLock-P0Uxf")
+
+addscriptexist(10524502174, "One Punch Fighters [AutoPunch, Remove Barriers]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/One%20Punch%20Fighters%20AutoPunch%20Remove%20Barriers.lua", "https://rbxscript.com/post/OnePunchFightersAutoPunchRemoveBarriers-iKmQr")
+
+addscriptexist(6284583030, "Pet Simulator X [Auto Farm, Auto open Egg, Auto Farm Chest]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pet%20Simulator%20X%20Auto%20Farm%20Auto%20open%20Egg%20Auto%20Farm%20Chest.lua", "https://rbxscript.com/post/PetSimulatorXAutoFarmAutoopenEggAutoFarmChest-4HhWE")
+
+addhub("Roblox [Zlatko Hub]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Roblox%20Zlatko%20Hub.lua", "https://rbxscript.com/post/RobloxZlatkoHub-l7tLd")
+
+addhub("Roblox [Realityy Hub]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Roblox%20Realityy%20Hub.lua", "https://rbxscript.com/post/RobloxRealityyHub-qClLo")
+
+addscriptexist(9103090927, "Stumble Buddies [Kick All]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Stumble%20Buddies%20Kick%20All.lua", "https://rbxscript.com/post/StumbleBuddiesKickAll-9FQqK")
+
+addscriptexist(2653064683, "Word Bomb [Auto Type, AutoJoin]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Word%20Bomb%20Auto%20Type%20AutoJoin.lua", "https://rbxscript.com/post/WordBombAutoTypeAutoJoin-Vr5Ym")
+
+addscriptexist(9993529229, "Counter Blox: Remastered [Headshots only]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Counter%20Blox%20Remastered%20Headshots%20only.lua", "https://rbxscript.com/post/CounterBloxRemasteredHeadshotsonly-CbGrl")
+
+addscriptexist(340227283, "RoBowling [Hitbox, Aimbot]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RoBowling%20Hitbox%20Aimbot.lua", "https://rbxscript.com/post/RoBowlingHitboxAimbot-oRPEW")
+
+addscriptexist(7664413141, "Creeper Chaos [Beta] [Auto Farm, Esp]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Creeper%20Chaos%20Beta%20Auto%20Farm%20Esp.lua", "https://rbxscript.com/post/CreeperChaosBetaAutoFarmEsp-DzOnf")
+
+addscript(10201298018, "Current Game","Vampire Hunters 2 Remake [Gun grab, Outfit saver, Role esp]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Vampire%20Hunters%20%20Remake%20Gun%20grab%20Outfit%20saver%20Role%20esp.lua", "https://rbxscript.com/post/VampireHunters2RemakeGungrabOutfitsaverRoleesp-CKXFK")
+
+addscriptexist(9585537847, "SHADOVIS RPG [AutoRebrith, Open Shop]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SHADOVIS%20RPG%20AutoRebrith%20Open%20Shop.lua", "https://rbxscript.com/post/SHADOVISRPGAutoRebrithOpenShop-ftJaT")
+
+addhub("Roblox [Celestial Hub]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Roblox%20Celestial%20Hub.lua", "https://rbxscript.com/post/RobloxCelestialHub-7mQXe")
+
+addscriptexist(2537430692, "Jenga [Win, Remove Jengas, Remove Kill Brick]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Jenga%20Win%20Remove%20Jengas%20Remove%20Kill%20Brick.lua", "https://rbxscript.com/post/JengaWinRemoveJengasRemoveKillBrick-EJ0pX")
+
+addscript(6973274562, "Current Game","Melee Mash Revenge! [Godmode, KillAll]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Melee%20Mash%20Revenge%20Godmode%20KillAll.lua", "https://rbxscript.com/post/MeleeMashRevengeGodmodeKillAll-ZvBRG")
+
+addscriptexist(4616652839, "Shindo Life [AutoKey, AutoFarm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Shindo%20Life%20AutoKey%20AutoFarm.lua", "https://rbxscript.com/post/ShindoLifeAutoKeyAutoFarm-Hhppn")
+
+addscript(9983979661, "Current Game","Dragon Farm Simulator [AutoCollect]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Dragon%20Farm%20Simulator%20AutoCollect.lua", "https://rbxscript.com/post/DragonFarmSimulatorAutoCollect-sQ6nO")
+
+addscriptexist(5777099015, "Cheese Escape [AutoCollectCheese, Godmode]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Cheese%20Escape%20AutoCollectCheese%20Godmode.lua", "https://rbxscript.com/post/CheeseEscapeAutoCollectCheeseGodmode-X4WK5")
+
+addscriptexist(6516141723, "DOORS [AutoFarm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DOORS%20AutoFarm.lua", "https://rbxscript.com/post/DOORSAutoFarm-h8AEO")
+
+addscriptexist(6678877691, "ZO ぞ SAMURAI [RageBot, Godmode]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ZO%20%E3%81%9E%20SAMURAI%20RageBot%20Godmode.lua", "https://rbxscript.com/post/ZOSAMURAIRageBotGodmode-Wp85s")
+
+addscript(10157366004, "Current Game","Strongest Tapper Simulator [AutoUpgrade, AutoClick]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Strongest%20Tapper%20Simulator%20AutoUpgrade%20AutoClick.lua", "https://rbxscript.com/post/StrongestTapperSimulatorAutoUpgradeAutoClick-1yrzg")
+
+addscriptexist(142823291, "Murder Mystery 2 [Esp, Godmode]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Murder%20Mystery%20%20Esp%20Godmode.lua", "https://rbxscript.com/post/MurderMystery2EspGodmode-6Uj5z")
+
+addscriptexist(5326405001, "Base Battles [No Spread, Esp]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Base%20Battles%20No%20Spread%20Esp.lua", "https://rbxscript.com/post/BaseBattlesNoSpreadEsp-TDB0e")
+
+addscriptexist(5901548022, "Try To Die [Give All Tools]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Try%20To%20Die%20Give%20All%20Tools.lua", "https://rbxscript.com/post/TryToDieGiveAllTools-xz8ht")
+
+addscriptexist(9129288160, "Tommy Play [AutoFarm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tommy%20Play%20AutoFarm.lua", "https://rbxscript.com/post/TommyPlayAutoFarm-mTbBw")
+
+addscript(7165194252, "Current Game","Ranger Piece [Get Spawned Items]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ranger%20Piece%20Get%20Spawned%20Items.lua", "https://rbxscript.com/post/RangerPieceGetSpawnedItems-PDOtr")
+
+addscriptexist(662417684, "LUCKY BLOCKS Battlegrounds [Open Lucky Block, Speed]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LUCKY%20BLOCKS%20Battlegrounds%20Open%20Lucky%20Block%20Speed.lua", "https://rbxscript.com/post/LUCKYBLOCKSBattlegroundsOpenLuckyBlockSpeed-tsE8e")
+
+addscriptexist(8554378337, "WEAPON FIGHTING SIMULATOR [AutoFarm, Collect Rewards]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/WEAPON%20FIGHTING%20SIMULATOR%20AutoFarm%20Collect%20Rewards.lua", "https://rbxscript.com/post/WEAPONFIGHTINGSIMULATORAutoFarmCollectRewards-fSzZH")
+
+addscriptexist(6284583030, "Pet Simulator X [Auto Hatch, AutoFarm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pet%20Simulator%20X%20Auto%20Hatch%20AutoFarm.lua", "https://rbxscript.com/post/PetSimulatorXAutoHatchAutoFarm-WDtYU")
+
+addscriptexist(10476933477, "Strong Ninja Simulator [Auto Hatch, Auto Click]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Strong%20Ninja%20Simulator%20Auto%20Hatch%20Auto%20Click.lua", "https://rbxscript.com/post/StrongNinjaSimulatorAutoHatchAutoClick-huHly")
+
+addscriptexist(8704181738, "Tiến Tiến Piece [Free Yoru]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ti%E1%BA%BFn%20Ti%E1%BA%BFn%20Piece%20Free%20Yoru.lua", "https://rbxscript.com/post/Ti%E1%BA%BFnTi%E1%BA%BFnPieceFreeYoru-szFxB")
+
+addscriptexist(8704181738, "Tiến Tiến Piece [Debt to all players]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ti%E1%BA%BFn%20Ti%E1%BA%BFn%20Piece%20Debt%20to%20all%20players.lua", "https://rbxscript.com/post/Ti%E1%BA%BFnTi%E1%BA%BFnPieceDebttoallplayers-fGB7D")
+
+addscriptexist(10524502174, "One Punch Fighters [Auto Farm Mob, Auto Collect Coins, Auto Summon]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/One%20Punch%20Fighters%20Auto%20Farm%20Mob%20Auto%20Collect%20Coins%20Auto%20Summon.lua", "https://rbxscript.com/post/OnePunchFightersAutoFarmMobAutoCollectCoinsAutoSummon-1ayzN")
+
+addscriptexist(8204899140, "Football Fusion 2 [AutoCaptain, Legit Mags]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Football%20Fusion%20%20AutoCaptain%20Legit%20Mags.lua", "https://rbxscript.com/post/FootballFusion2AutoCaptainLegitMags-dIANL")
+
+addscriptexist(9648883891, "Festival Tycoon [Get Free Items]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Festival%20Tycoon%20Get%20Free%20Items.lua", "https://rbxscript.com/post/FestivalTycoonGetFreeItems-opV6b")
+
+addscriptexist(286090429, "Arsenal [Anticheat Disabler]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Arsenal%20Anticheat%20Disabler.lua", "https://rbxscript.com/post/ArsenalAnticheatDisabler-x8Gil")
+
+addscriptexist(9648883891, "Festival Tycoon [Sword Pack, Inf Cash]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Festival%20Tycoon%20Sword%20Pack%20Inf%20Cash.lua", "https://rbxscript.com/post/FestivalTycoonSwordPackInfCash-j2mQ9")
+
+addscriptexist(10243982775, "RedBox 2 [Quickswap weapons]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RedBox%20%20Quickswap%20weapons.lua", "https://rbxscript.com/post/RedBox2Quickswapweapons-hxmfq")
+
+addscriptexist(8130299583, "TRIDENT SURVIVAL [Esp]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TRIDENT%20SURVIVAL%20Esp.lua", "https://rbxscript.com/post/TRIDENTSURVIVALEsp-BW0FO")
+
+addscriptuniversal("Roblox Universal Script [Anti-AFK]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Roblox%20Universal%20Script%20AntiAFK.lua", "https://rbxscript.com/post/RobloxUniversalScriptAntiAFK-xqu49")
+
+addscriptexist(2788229376, "Da Hood [AutoFarm, AutoCollect]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Da%20Hood%20AutoFarm%20AutoCollect.lua", "https://rbxscript.com/post/DaHoodAutoFarmAutoCollect-6xdQ1")
+
+addscriptuniversal("Roblox Universal Script [GFX Script]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Roblox%20Universal%20Script%20GFX%20Script.lua", "https://rbxscript.com/post/RobloxUniversalScriptGFXScript-uUhQs")
+
+addscriptexist(7305309231, "Taxi Boss [AutoFarm, AntiAfk]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Taxi%20Boss%20AutoFarm%20AntiAfk.lua", "https://rbxscript.com/post/TaxiBossAutoFarmAntiAfk-yZIVG")
+
+addscriptexist(4410049285, "Driving Simulator [AutoFarm, Car Speed]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Driving%20Simulator%20AutoFarm%20Car%20Speed.lua", "https://rbxscript.com/post/DrivingSimulatorAutoFarmCarSpeed-DheNL")
+
+addscriptexist(4581966615, "Anomic [Inf Stamina, Esp]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anomic%20Inf%20Stamina%20Esp.lua", "https://rbxscript.com/post/AnomicInfStaminaEsp-6BagP")
+
+addscriptexist(2866967438, "Fishing Simulator [Auto Farm, Auto Fish]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Fishing%20Simulator%20Auto%20Farm%20Auto%20Fish.lua", "https://rbxscript.com/post/FishingSimulatorAutoFarmAutoFish-eflD9")
+
+addscriptexist(5602055394, "Hood Modded [Inf Jump, Esp]]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Hood%20Modded%20Inf%20Jump%20Esp.lua", "https://rbxscript.com/post/HoodModdedInfJumpEsp-yUsOO")
+
+addscriptexist(8962384769, "Firework Simulator [Auto Hatch, AutoFarm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Firework%20Simulator%20Auto%20Hatch%20AutoFarm.lua", "https://rbxscript.com/post/FireworkSimulatorAutoHatchAutoFarm-VPJ3u")
+
+addscriptuniversal("Roblox Universal Script [Inf Jump, ClickTP]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Roblox%20Universal%20Script%20Inf%20Jump%20ClickTP.lua", "https://rbxscript.com/post/RobloxUniversalScriptInfJumpClickTP-nXQ5y")
+
+addscriptexist(3738091713, "Boxing League [KillAura, Lock-on]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Boxing%20League%20KillAura%20Lockon.lua", "https://rbxscript.com/post/BoxingLeagueKillAuraLockon-8RrB8")
+
+addscriptexist(2788229376, "Da Hood [Fly, SilentAim]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Da%20Hood%20Fly%20SilentAim.lua", "https://rbxscript.com/post/DaHoodFlySilentAim-iV9im")
+
+addscriptexist(286090429, "Arsenal [God mode]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Arsenal%20God%20mode.lua", "https://rbxscript.com/post/ArsenalGodmode-uBzYd")
+
+addscriptexist(6284583030, "Pet Simulator X [AutoFarm, AutoCollect]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pet%20Simulator%20X%20AutoFarm%20AutoCollect.lua", "https://rbxscript.com/post/PetSimulatorXAutoFarmAutoCollect-A4PQB")
+
+addscript(9757510382, "Current Game","Trade Simulator [AutoFarm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Trade%20Simulator%20AutoFarm.lua", "https://rbxscript.com/post/TradeSimulatorAutoFarm-F48ux")
+
+addscriptexist(7952502098, "Impossible Glass Bridge Obby [Auto Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Impossible%20Glass%20Bridge%20Obby%20Auto%20Farm.lua", "https://rbxscript.com/post/ImpossibleGlassBridgeObbyAutoFarm-ItewG")
+
+addscript(14745996, "Current Game","Gun Testing [Walkspeed, FreeDoors]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Gun%20Testing%20Walkspeed%20FreeDoors.lua", "https://rbxscript.com/post/GunTestingWalkspeedFreeDoors-SNR8C")
+
+addscriptexist(2665326799, "Find The Button [Button Esp, Inf Jump]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Find%20The%20Button%20Button%20Esp%20Inf%20Jump.lua", "https://rbxscript.com/post/FindTheButtonButtonEspInfJump-EkP0I")
+
+addscriptexist(286090429, "Arsenal (Cookie Hub v2). [KillAll, SilentAim]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Arsenal%20Cookie%20Hub%20v%20KillAll%20SilentAim.lua", "https://rbxscript.com/post/ArsenalCookieHubv2KillAllSilentAim-2V4fN")
+
+addscript(5256165620, "Current Game","3-2-1 Blast Off Simulator [AutoBuy, Gem Shop]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/%20Blast%20Off%20Simulator%20AutoBuy%20Gem%20Shop.lua", "https://rbxscript.com/post/BlastOffSimulatorAutoBuyGemShop-vCqF8")
+
+addscriptexist(9285238704, "Race Clicker [Server Hop, AutoWin]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Race%20Clicker%20Server%20Hop%20AutoWin.lua", "https://rbxscript.com/post/RaceClickerServerHopAutoWin-StRGv")
+
+addscript(7128635125, "Current Game","Old A Bizarry Day Modded [Adm Cmds]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Old%20A%20Bizarry%20Day%20Modded%20Adm%20Cmds.lua", "https://rbxscript.com/post/OldABizarryDayModdedAdmCmds-cuA34")
+
+addscriptexist(370731277, "MeepCity [FishingSilentAim, AvatarEditor]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MeepCity%20FishingSilentAim%20AvatarEditor.lua", "https://rbxscript.com/post/MeepCityFishingSilentAimAvatarEditor-uLAdr")
+
+addscriptexist(370731277, "MeepCity [Free Gamepasses, Spam Balloons]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MeepCity%20Free%20Gamepasses%20Spam%20Balloons.lua", "https://rbxscript.com/post/MeepCityFreeGamepassesSpamBalloons-akXEr")
+
+addscriptexist(370731277, "MeepCity [Go Kart, Zzz animation]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MeepCity%20Go%20Kart%20Zzz%20animation.lua", "https://rbxscript.com/post/MeepCityGoKartZzzanimation-2Gq3S")
+
+addscriptexist(5872075530, "Anarchy [Esp, Hitboxes]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anarchy%20Esp%20Hitboxes.lua", "https://rbxscript.com/post/AnarchyEspHitboxes-TmyL1")
+
+addhub("Wheat Hub [Games 41]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Wheat%20Hub%20Games%20.lua", "https://rbxscript.com/post/WheatHubGames41-PjSTw")
+
+addscriptexist(2788229376, "Da Hood [SilentAim]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Da%20Hood%20SilentAim.lua", "https://rbxscript.com/post/DaHoodSilentAim-Bgb4T")
+
+addscriptexist(3351674303, "Driving Empire [AutoFarm, AutoDragRace]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Driving%20Empire%20AutoFarm%20AutoDragRace.lua", "https://rbxscript.com/post/DrivingEmpireAutoFarmAutoDragRace-9ZYPO")
+
+addscriptexist(6708206173, "Rate My Avatar [Animations, WalkSpeed, Swears]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Rate%20My%20Avatar%20Animations%20WalkSpeed%20Swears.lua", "https://rbxscript.com/post/RateMyAvatarAnimationsWalkSpeedSwears-VauSm")
+
+addscript(6542731310, "Current Game","Dogecoin Mining Tycoon [Clear gpu's, Tp, WalkSPeed]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Dogecoin%20Mining%20Tycoon%20Clear%20gpus%20Tp%20WalkSPeed.lua", "https://rbxscript.com/post/DogecoinMiningTycoonCleargpusTpWalkSPeed-8ufnO")
+
+addscript(8436975214, "Current Game","Dangerous Speeds [Unlock All Cars]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Dangerous%20Speeds%20Unlock%20All%20Cars.lua", "https://rbxscript.com/post/DangerousSpeedsUnlockAllCars-U8WiC")
+
+addscriptexist(10320240572, "Easy Race Clicker [AutoWins]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Easy%20Race%20Clicker%20AutoWins.lua", "https://rbxscript.com/post/EasyRaceClickerAutoWins-mCQqJ")
+
+addscriptexist(6608498361, "cursed tank simulator [Increase Ammunition hitbox]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/cursed%20tank%20simulator%20Increase%20Ammunition%20hitbox.lua", "https://rbxscript.com/post/cursedtanksimulatorIncreaseAmmunitionhitbox-kS9go")
+
+addscriptexist(8328351891, "Mega Mansion Tycoon [CollectCash, Make Day]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mega%20Mansion%20Tycoon%20CollectCash%20Make%20Day.lua", "https://rbxscript.com/post/MegaMansionTycoonCollectCashMakeDay-6l1jJ")
+
+addscriptexist(6284583030, "Pet Simulator X [Auto Farm, Auto Hatch]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pet%20Simulator%20X%20Auto%20Farm%20Auto%20Hatch.lua", "https://rbxscript.com/post/PetSimulatorXAutoFarmAutoHatch-Ngmgg")
+
+addscriptexist(2622527242, "SCP rBreach [Waklspeed, GetAmmo]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SCP%20rBreach%20Waklspeed%20GetAmmo.lua", "https://rbxscript.com/post/SCPrBreachWaklspeedGetAmmo-JIXP0")
+
+addscriptexist(4036494886, "Gun Simulator [Inf Money, Inf medals]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Gun%20Simulator%20Inf%20Money%20Inf%20medals.lua", "https://rbxscript.com/post/GunSimulatorInfMoneyInfmedals-yQaw0")
+
+addscript(10150367093, "Current Game","Baking Tycoon [Claim Codes, Claim Plot, X2 5 min]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Baking%20Tycoon%20Claim%20Codes%20Claim%20Plot%20X%20%20min.lua", "https://rbxscript.com/post/BakingTycoonClaimCodesClaimPlotX25min-zYySm")
+
+addscriptexist(155615604, "Prison Life [Inf Stamina, Inst Respawn]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Prison%20Life%20Inf%20Stamina%20Inst%20Respawn.lua", "https://rbxscript.com/post/PrisonLifeInfStaminaInstRespawn-A9LvI")
+
+addscriptuniversal("Roblox Universal Script [Boombox visualizer]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Roblox%20Universal%20Script%20Boombox%20visualizer.lua", "https://rbxscript.com/post/RobloxUniversalScriptBoomboxvisualizer-CqvEe")
+
+addscriptuniversal("Roblox Universal Script [NOT FE, Shotgun]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Roblox%20Universal%20Script%20NOT%20FE%20Shotgun.lua", "https://rbxscript.com/post/RobloxUniversalScriptNOTFEShotgun-7Owtr")
+
+addscriptexist(7305309231, "Taxi Boss [Walkspeed, AutoFarm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Taxi%20Boss%20Walkspeed%20AutoFarm.lua", "https://rbxscript.com/post/TaxiBossWalkspeedAutoFarm-71b5d")
+
+addscript(8963721566, "Current Game","The Backrooms [Third Person]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/The%20Backrooms%20Third%20Person.lua", "https://rbxscript.com/post/TheBackroomsThirdPerson-srIUW")
+
+addscriptexist(6284583030, "Pet Simulator X [AutoFarm, AutoEggs]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pet%20Simulator%20X%20AutoFarm%20AutoEggs.lua", "https://rbxscript.com/post/PetSimulatorXAutoFarmAutoEggs-xrKzO")
+
+addscriptexist(10325366821, "OOF Tycoon! [AutoCollect OOFs]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OOF%20Tycoon%20AutoCollect%20OOFs.lua", "https://rbxscript.com/post/OOFTycoonAutoCollectOOFs-xNn6c")
+
+addscriptexist(7714627632, "Winds of Fortune [Auto Farm, Food Store, Esp]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Winds%20of%20Fortune%20Auto%20Farm%20Food%20Store%20Esp.lua", "https://rbxscript.com/post/WindsofFortuneAutoFarmFoodStoreEsp-z85NK")
+
+addscriptexist(9551640993, "Mining Simulator 2 [BloxAura, AutoHatch]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mining%20Simulator%20%20BloxAura%20AutoHatch.lua", "https://rbxscript.com/post/MiningSimulator2BloxAuraAutoHatch-j2r0E")
+
+addscriptexist(2537430692, "Jenga [Instant Win, Walkspeed]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Jenga%20Instant%20Win%20Walkspeed.lua", "https://rbxscript.com/post/JengaInstantWinWalkspeed-0bIrH")
+
+addscriptexist(8963721566, "The Backrooms [Inf Stamina]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/The%20Backrooms%20Inf%20Stamina.lua", "https://rbxscript.com/post/TheBackroomsInfStamina-SowB0")
+
+addscriptuniversal("Roblox Universal Script [Maker FE]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Roblox%20Universal%20Script%20Maker%20FE.lua", "https://rbxscript.com/post/RobloxUniversalScriptMakerFE-1s0wD")
+
+addscriptexist(9872472334, "Evade [Free Gamepasses]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Evade%20Free%20Gamepasses.lua", "https://rbxscript.com/post/EvadeFreeGamepasses-N89F9")
+
+addscriptuniversal("Roblox Universal Script [Noclip]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Roblox%20Universal%20Script%20Noclip.lua", "https://rbxscript.com/post/RobloxUniversalScriptNoclip-Ht0SA")
+
+addscriptexist(360589910, "Hoops - Demo [AimBot, Auto Block, Hitbox player]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Hoops%20%20Demo%20AimBot%20Auto%20Block%20Hitbox%20player.lua", "https://rbxscript.com/post/HoopsDemoAimBotAutoBlockHitboxplayer-ZvIie")
+
+addscriptexist(155615604, "Prison Life [Godmode, Killall]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Prison%20Life%20Godmode%20Killall.lua", "https://rbxscript.com/post/PrisonLifeGodmodeKillall-mHALy")
+
+addscriptexist(360589910, "Hoops - Demo [PlayerHitbox, Aimbot]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Hoops%20%20Demo%20PlayerHitbox%20Aimbot.lua", "https://rbxscript.com/post/HoopsDemoPlayerHitboxAimbot-d231K")
+
+addscriptexist(142823291, "Murder Mystery 2 [AutoFarm, Godmode]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Murder%20Mystery%20%20AutoFarm%20Godmode.lua", "https://rbxscript.com/post/MurderMystery2AutoFarmGodmode-DyGF9")
+
+addscriptexist(2622527242, "SCP rBreach [Inf Capacity, Fast Escape]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SCP%20rBreach%20Inf%20Capacity%20Fast%20Escape.lua", "https://rbxscript.com/post/SCPrBreachInfCapacityFastEscape-Ra7ul")
+
+addscriptexist(2537430692, "Jenga [Inf jump, Remove Parts, WalkSpeed]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Jenga%20Inf%20jump%20Remove%20Parts%20WalkSpeed.lua", "https://rbxscript.com/post/JengaInfjumpRemovePartsWalkSpeed-ulm7v")
+
+addscriptexist(8436975214, "Dangerous Speeds [Unlock All Car]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Dangerous%20Speeds%20Unlock%20All%20Car.lua", "https://rbxscript.com/post/DangerousSpeedsUnlockAllCar-i8PEI")
+
+addscriptexist(2577040780, "Eviction Notice [ChallengeList, FreePlayer]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Eviction%20Notice%20ChallengeList%20FreePlayer.lua", "https://rbxscript.com/post/EvictionNoticeChallengeListFreePlayer-eyrEs")
+
+addscriptexist(10118559731, "Nico's Nextbots [Godmode]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Nicos%20Nextbots%20Godmode.lua", "https://rbxscript.com/post/NicosNextbotsGodmode-XBRHX")
+
+addscriptexist(7346416636, "Pop It Trading [AutoScam, Dupe]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pop%20It%20Trading%20AutoScam%20Dupe.lua", "https://rbxscript.com/post/PopItTradingAutoScamDupe-h3USI")
+
+addscript(8818978508, "Current Game","Space Simulator Reborn [AutoClick, AutoHatch]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Space%20Simulator%20Reborn%20AutoClick%20AutoHatch.lua", "https://rbxscript.com/post/SpaceSimulatorRebornAutoClickAutoHatch-9q2VI")
+
+addscriptexist(9733390246, "Stair Tappers [Auto Play]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Stair%20Tappers%20Auto%20Play.lua", "https://rbxscript.com/post/StairTappersAutoPlay-Lu9bU")
+
+addscriptexist(5490351219, "Clicker Madness [ Auto Click, Auto rebirth, Teleport]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Clicker%20Madness%20%20Auto%20Click%20Auto%20rebirth%20Teleport.lua", "https://rbxscript.com/post/ClickerMadnessAutoClickAutorebirthTeleport-9BqWP")
+
+addscriptexist(2665326799, "Find The Button [Esp, Inf Jump]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Find%20The%20Button%20Esp%20Inf%20Jump.lua", "https://rbxscript.com/post/FindTheButtonEspInfJump-45UIg")
+
+addscriptexist(8540346411, "Rebirth Champions X [AutoRebrith, AutoEquipBestPets]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Rebirth%20Champions%20X%20AutoRebrith%20AutoEquipBestPets.lua", "https://rbxscript.com/post/RebirthChampionsXAutoRebrithAutoEquipBestPets-I3POf")
+
+addscriptexist(6608498361, "cursed tank simulator [Big Crew]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/cursed%20tank%20simulator%20Big%20Crew.lua", "https://rbxscript.com/post/cursedtanksimulatorBigCrew-djGoT")
+
+addscriptexist(8737602449, "PLS DONATE [Text Bypass]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PLS%20DONATE%20Text%20Bypass.lua", "https://rbxscript.com/post/PLSDONATETextBypass-ImSam")
+
+addscriptexist(9658251985, "The Rake Kill Test [-10 Kills]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/The%20Rake%20Kill%20Test%20%20Kills.lua", "https://rbxscript.com/post/TheRakeKillTest10Kills-oYpY9")
+
+addscriptexist(9658251985, "The Rake Kill Test [+10 kills]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/The%20Rake%20Kill%20Test%20%20kills.lua", "https://rbxscript.com/post/TheRakeKillTest10kills-vs6AO")
+
+addscriptexist(9658251985, "The Rake Kill Test [Inf Money]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/The%20Rake%20Kill%20Test%20Inf%20Money.lua", "https://rbxscript.com/post/TheRakeKillTestInfMoney-kIB15")
+
+addscriptexist(8963721566, "The Backrooms - KV31 [Inf Stamina]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/The%20Backrooms%20%20KV%20Inf%20Stamina.lua", "https://rbxscript.com/post/TheBackroomsKV31InfStamina-n2pNs")
+
+addscript(10627835972, "Current Game","Death Sandbox [Kill All]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Death%20Sandbox%20Kill%20All.lua", "https://rbxscript.com/post/DeathSandboxKillAll-CUqFW")
+
+addscriptexist(9285238704, "Race Clicker [Auto Click, Auto Win]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Race%20Clicker%20Auto%20Click%20Auto%20Win.lua", "https://rbxscript.com/post/RaceClickerAutoClickAutoWin-8NVWn")
+
+addscriptexist(286090429, "Arsenal [KillAll, Invisible]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Arsenal%20KillAll%20Invisible.lua", "https://rbxscript.com/post/ArsenalKillAllInvisible-PLDvY")
+
+addscriptexist(6766156863, "Strongman Simulator [Anti Afk, AutoRebirth]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Strongman%20Simulator%20Anti%20Afk%20AutoRebirth.lua", "https://rbxscript.com/post/StrongmanSimulatorAntiAfkAutoRebirth-pO3Cx")
+
+addscriptexist(5956785391, "Project Slayers [Auto Farm, Fish Farm, Inf stamina]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Project%20Slayers%20Auto%20Farm%20Fish%20Farm%20Inf%20stamina.lua", "https://rbxscript.com/post/ProjectSlayersAutoFarmFishFarmInfstamina-r5o3i")
+
+addscriptexist(6284583030, "Pet Simulator X [AutoFarm, AutoHatch]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pet%20Simulator%20X%20AutoFarm%20AutoHatch.lua", "https://rbxscript.com/post/PetSimulatorXAutoFarmAutoHatch-48PcF")
+
+addscriptexist(9585537847, "SHADOVIS RPG [Collect All Cubits]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SHADOVIS%20RPG%20Collect%20All%20Cubits.lua", "https://rbxscript.com/post/SHADOVISRPGCollectAllCubits-ACUXL")
+
+addscriptexist(10627835972, "Death Sandbox [KillAll]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Death%20Sandbox%20KillAll.lua", "https://rbxscript.com/post/DeathSandboxKillAll-N106q")
+
+addscriptexist(8963721566, "The Backrooms - KV31 [WalkSpeed]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/The%20Backrooms%20%20KV%20WalkSpeed.lua", "https://rbxscript.com/post/TheBackroomsKV31WalkSpeed-Us0SB")
+
+addscript(10397561422, "Current Game","Plushie simulator [Teddy spammer, Unlock jumps, Nnlock islands]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Plushie%20simulator%20Teddy%20spammer%20Unlock%20jumps%20Nnlock%20islands.lua", "https://rbxscript.com/post/PlushiesimulatorTeddyspammerUnlockjumpsNnlockislands-B1Ji0")
+
+addscriptexist(537413528, "Build A Boat For Treasure [Auto Farm, WalkSpeed, Godmode Water]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Build%20A%20Boat%20For%20Treasure%20Auto%20Farm%20WalkSpeed%20Godmode%20Water.lua", "https://rbxscript.com/post/BuildABoatForTreasureAutoFarmWalkSpeedGodmodeWater-REGl7")
+
+addscript(4962588958, "Current Game","Teamwork Obby [2 Player Obby] [AutoFarm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Teamwork%20Obby%20%20Player%20Obby%20AutoFarm.lua", "https://rbxscript.com/post/TeamworkObby2PlayerObbyAutoFarm-1jY2I")
+
+addscript(10218821851, "Current Game","Client Replication [Fe Becoming a monster]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Client%20Replication%20Fe%20Becoming%20a%20monster.lua", "https://rbxscript.com/post/ClientReplicationFeBecomingamonster-l1eiD")
+
+addscriptexist(8204899140, "Football Fusion 2 [Auto Catch, FootballLock, Auto Captain]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Football%20Fusion%20%20Auto%20Catch%20FootballLock%20Auto%20Captain.lua", "https://rbxscript.com/post/FootballFusion2AutoCatchFootballLockAutoCaptain-WTTJA")
+
+addscriptuniversal("Roblox Universal Script [Esp, Tracers]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Roblox%20Universal%20Script%20Esp%20Tracers.lua", "https://rbxscript.com/post/RobloxUniversalScriptEspTracers-KQQLQ")
+
+addscriptexist(2788229376, "Da Hood [Legit Aimlock]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Da%20Hood%20Legit%20Aimlock.lua", "https://rbxscript.com/post/DaHoodLegitAimlock-hl5mJ")
+
+addscriptexist(2248408710, "Destruction Simulator [Spin player, Walkspeed]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Destruction%20Simulator%20Spin%20player%20Walkspeed.lua", "https://rbxscript.com/post/DestructionSimulatorSpinplayerWalkspeed-yBsst")
+
+addscriptexist(5293755937, "Speed Run Simulator [AutoRebirth, AutoOrbs]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Speed%20Run%20Simulator%20AutoRebirth%20AutoOrbs.lua", "https://rbxscript.com/post/SpeedRunSimulatorAutoRebirthAutoOrbs-IwZZI")
+
+addscriptexist(5985232436, "Infectious Smile [NoSlowdown, HitAura]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Infectious%20Smile%20NoSlowdown%20HitAura.lua", "https://rbxscript.com/post/InfectiousSmileNoSlowdownHitAura-H0cLN")
+
+addscriptexist(10047913840, "Training Simulator [AutoLift, AutoRebirth]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Training%20Simulator%20AutoLift%20AutoRebirth.lua", "https://rbxscript.com/post/TrainingSimulatorAutoLiftAutoRebirth-EzIBC")
+
+addscriptuniversal("Roblox Universal Script [Cmds Bar]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Roblox%20Universal%20Script%20Cmds%20Bar.lua", "https://rbxscript.com/post/RobloxUniversalScriptCmdsBar-vF0iY")
+
+addscript(3458435516, "Current Game","Limited Simulator 2 [AutoBuy]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Limited%20Simulator%20%20AutoBuy.lua", "https://rbxscript.com/post/LimitedSimulator2AutoBuy-ZT2YC")
+
+addscriptexist(142823291, "Murder Mystery 2 [KillAura, Godmode]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Murder%20Mystery%20%20KillAura%20Godmode.lua", "https://rbxscript.com/post/MurderMystery2KillAuraGodmode-7R2L2")
+
+addscriptexist(4490140733, "My Restaurant! [Auto Farm, Money Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/My%20Restaurant%20Auto%20Farm%20Money%20Farm.lua", "https://rbxscript.com/post/MyRestaurantAutoFarmMoneyFarm-wN1l0")
+
+addscript(6677573193, "Current Game","Axe Champions Simulator [AutoSell, AutoHatch]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Axe%20Champions%20Simulator%20AutoSell%20AutoHatch.lua", "https://rbxscript.com/post/AxeChampionsSimulatorAutoSellAutoHatch-AKcyL")
+
+addscriptexist(9414511685, "Drive Cars Down A Hill! [AutoFarm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Drive%20Cars%20Down%20A%20Hill%20AutoFarm.lua", "https://rbxscript.com/post/DriveCarsDownAHillAutoFarm-F9iN4")
+
+addscriptexist(5023820864, "Trade Tower [Auto Click, Auto Upgrade]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Trade%20Tower%20Auto%20Click%20Auto%20Upgrade.lua", "https://rbxscript.com/post/TradeTowerAutoClickAutoUpgrade-FovIa")
+
+addscriptexist(142823291, "Murder Mystery 2 [Coin Farm, Esp]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Murder%20Mystery%20%20Coin%20Farm%20Esp.lua", "https://rbxscript.com/post/MurderMystery2CoinFarmEsp-Kt4Sk")
+
+addscriptuniversal("Roblox Universal Script [Chat Bypass]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Roblox%20Universal%20Script%20Chat%20Bypass.lua", "https://rbxscript.com/post/RobloxUniversalScriptChatBypass-7LFAJ")
+
+addscript(8876384197, "Current Game","steal time from others & flex your sword [Reach Script]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/steal%20time%20from%20others%20%20flex%20your%20sword%20Reach%20Script.lua", "https://rbxscript.com/post/stealtimefromothersflexyourswordReachScript-vlFzk")
+
+addscriptexist(4036494886, "Gun Simulator [Inf Everything]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Gun%20Simulator%20Inf%20Everything.lua", "https://rbxscript.com/post/GunSimulatorInfEverything-lP17x")
+
+addscriptexist(9049840490, "Sonic Speed Simulator [AutoRun, AutoRebrith]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sonic%20Speed%20Simulator%20AutoRun%20AutoRebrith.lua", "https://rbxscript.com/post/SonicSpeedSimulatorAutoRunAutoRebrith-mqkYQ")
+
+addhub("Roblox [RICE HUB]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Roblox%20RICE%20HUB.lua", "https://rbxscript.com/post/RobloxRICEHUB-yYSAy")
+
+addscript(394846350, "Current Game","Jump Simulator [Auto Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Jump%20Simulator%20Auto%20Farm.lua", "https://rbxscript.com/post/JumpSimulatorAutoFarm-AcwZ9")
+
+addscriptexist(7655745946, "Dunking Simulator [Inf Spins, Bust Cash]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Dunking%20Simulator%20Inf%20Spins%20Bust%20Cash.lua", "https://rbxscript.com/post/DunkingSimulatorInfSpinsBustCash-KNy88")
+
+addscriptexist(10204162989, "Pickaxe Simulator [AutoMine, AutoOpen]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pickaxe%20Simulator%20AutoMine%20AutoOpen.lua", "https://rbxscript.com/post/PickaxeSimulatorAutoMineAutoOpen-n5PvA")
+
+addscript(10141430483, "Current Game","Slaying Legends [AutoBuy, AutoPrestige]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Slaying%20Legends%20AutoBuy%20AutoPrestige.lua", "https://rbxscript.com/post/SlayingLegendsAutoBuyAutoPrestige-WIeVI")
+
+addscriptexist(6872265039, "BedWars [Auto Farm Pirate Coins]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BedWars%20Auto%20Farm%20Pirate%20Coins.lua", "https://rbxscript.com/post/BedWarsAutoFarmPirateCoins-BW1L7")
+
+addscriptexist(7285447838, "Tokyo Saga [Auto Farm Strenght, Money]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tokyo%20Saga%20Auto%20Farm%20Strenght%20Money.lua", "https://rbxscript.com/post/TokyoSagaAutoFarmStrenghtMoney-RkVmP")
+
+addscriptexist(3233893879, "Bad Business [Silent Aim]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Bad%20Business%20Silent%20Aim.lua", "https://rbxscript.com/post/BadBusinessSilentAim-Bs5wD")
+
+addscriptexist(2788229376, "Da Hood [Legit Silent Aim]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Da%20Hood%20Legit%20Silent%20Aim.lua", "https://rbxscript.com/post/DaHoodLegitSilentAim-KqGGP")
+
+addscriptexist(6403373529, "Slap Battles [Anti Ragdoll, Auto Toxic]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Slap%20Battles%20Anti%20Ragdoll%20Auto%20Toxic.lua", "https://rbxscript.com/post/SlapBattlesAntiRagdollAutoToxic-u0bJt")
+
+addscriptexist(662417684, "BLOCKS Battlegrounds [Get any item, Walkspeed]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BLOCKS%20Battlegrounds%20Get%20any%20item%20Walkspeed.lua", "https://rbxscript.com/post/BLOCKSBattlegroundsGetanyitemWalkspeed-8W92F")
+
+addscriptexist(7952502098, "Impossible Glass Bridge Obby! [Correct Path]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Impossible%20Glass%20Bridge%20Obby%20Correct%20Path.lua", "https://rbxscript.com/post/ImpossibleGlassBridgeObbyCorrectPath-OJ8yz")
+
+addscriptexist(7952502098, "Impossible Glass Bridge Obby! [Inf Money]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Impossible%20Glass%20Bridge%20Obby%20Inf%20Money.lua", "https://rbxscript.com/post/ImpossibleGlassBridgeObbyInfMoney-bRwom")
+
+addscriptexist(6516141723, "DOORS [Auto Skip Rooms]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DOORS%20Auto%20Skip%20Rooms.lua", "https://rbxscript.com/post/DOORSAutoSkipRooms-Q9AWC")
+
+addscriptexist(1554960397, "Car Dealership Tycoon [Auto Farm, Auto Drag Race]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Car%20Dealership%20Tycoon%20Auto%20Farm%20Auto%20Drag%20Race.lua", "https://rbxscript.com/post/CarDealershipTycoonAutoFarmAutoDragRace-8HS7G")
+
+addscriptexist(2551991523, "Broken Bones 4 [Inf Jum, AutoFarm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Broken%20Bones%20%20Inf%20Jum%20AutoFarm.lua", "https://rbxscript.com/post/BrokenBones4InfJumAutoFarm-o1Fk3")
+
+addscriptexist(537413528, "Build A Boat For Treasure [Inf Jump, GodMode]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Build%20A%20Boat%20For%20Treasure%20Inf%20Jump%20GodMode.lua", "https://rbxscript.com/post/BuildABoatForTreasureInfJumpGodMode-tsisl")
+
+addscriptexist(3214114884, "Flag Wars! [KillAll, CaptureFlag]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Flag%20Wars%20KillAll%20CaptureFlag.lua", "https://rbxscript.com/post/FlagWarsKillAllCaptureFlag-mroTV")
+
+addscriptexist(2580982329, "Texting Simulator [Auto Coins, AutoFarm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Texting%20Simulator%20Auto%20Coins%20AutoFarm.lua", "https://rbxscript.com/post/TextingSimulatorAutoCoinsAutoFarm-PWZ1v")
+
+addscriptexist(7009799230, "Pressure Wash Simulator [Inf Money, Auto Clean]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pressure%20Wash%20Simulator%20Inf%20Money%20Auto%20Clean.lua", "https://rbxscript.com/post/PressureWashSimulatorInfMoneyAutoClean-uDZDS")
+
+addscriptuniversal("Roblox Universal Script [Simple Spy]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Roblox%20Universal%20Script%20Simple%20Spy.lua", "https://rbxscript.com/post/RobloxUniversalScriptSimpleSpy-V7bYJ")
+
+addscriptexist(286090429, "Arsenal [Aimbot, KillAura]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Arsenal%20Aimbot%20KillAura.lua", "https://rbxscript.com/post/ArsenalAimbotKillAura-WFeHg")
+
+addscriptexist(8750997647, "Tapping Legends X [Auto Click, Auto Rebirth]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tapping%20Legends%20X%20Auto%20Click%20Auto%20Rebirth.lua", "https://rbxscript.com/post/TappingLegendsXAutoClickAutoRebirth-wjdq7")
+
+addscriptexist(298400657, "Dragon Ball Final Remastered [Kill Aura, Inf Ki, Inf Stamina]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Dragon%20Ball%20Final%20Remastered%20Kill%20Aura%20Inf%20Ki%20Inf%20Stamina.lua", "https://rbxscript.com/post/DragonBallFinalRemasteredKillAuraInfKiInfStamina-3z6xL")
+
+addscript(7397915958, "Current Game","Old A Universal Time [Admin Panel]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Old%20A%20Universal%20Time%20Admin%20Panel.lua", "https://rbxscript.com/post/OldAUniversalTimeAdminPanel-KFn3X")
+
+addscript(3467049496, "Current Game","MARVEL: Battlegrounds [Free Gamepasses]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MARVEL%20Battlegrounds%20Free%20Gamepasses.lua", "https://rbxscript.com/post/MARVELBattlegroundsFreeGamepasses-E6n9y")
+
+addscriptexist(9498006165, "Tapping Simulator [AutoClick, AutoRebirth]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tapping%20Simulator%20AutoClick%20AutoRebirth.lua", "https://rbxscript.com/post/TappingSimulatorAutoClickAutoRebirth-hYhz8")
+
+addscriptexist(7177496972, "Anime Warriors [Auto Farm, Better Gfx]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime%20Warriors%20Auto%20Farm%20Better%20Gfx.lua", "https://rbxscript.com/post/AnimeWarriorsAutoFarmBetterGfx-cWkSp")
+
+addscriptexist(7560156054, "Clicker Simulator [Collect all trophies]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Clicker%20Simulator%20Collect%20all%20trophies.lua", "https://rbxscript.com/post/ClickerSimulatorCollectalltrophies-wObzd")
+
+addscriptexist(9049840490, "Sonic Speed Simulator [Auto Win Race, Collect All Obbys, Auto Run]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sonic%20Speed%20Simulator%20Auto%20Win%20Race%20Collect%20All%20Obbys%20Auto%20Run.lua", "https://rbxscript.com/post/SonicSpeedSimulatorAutoWinRaceCollectAllObbysAutoRun-oQs5V")
+
+addscriptexist(9551640993, "Mining Simulator 2 [Auto Mine, Auto Sell, Auto Factory]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mining%20Simulator%20%20Auto%20Mine%20Auto%20Sell%20Auto%20Factory.lua", "https://rbxscript.com/post/MiningSimulator2AutoMineAutoSellAutoFactory-dl0T6")
+
+addscriptexist(8737602449, "PLS DONATE [Tp, Auto Thanks, Server Hoppper]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PLS%20DONATE%20Tp%20Auto%20Thanks%20Server%20Hoppper.lua", "https://rbxscript.com/post/PLSDONATETpAutoThanksServerHoppper-fvlsF")
+
+addscriptexist(8750997647, "Tapping Legends X [Auto Clicker, Auto rebirth, Auto Egg]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tapping%20Legends%20X%20Auto%20Clicker%20Auto%20rebirth%20Auto%20Egg.lua", "https://rbxscript.com/post/TappingLegendsXAutoClickerAutorebirthAutoEgg-r6cUK")
+
+addscriptexist(8704181738, "Tiến Tiến Piece [Gamepass Sword]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ti%E1%BA%BFn%20Ti%E1%BA%BFn%20Piece%20Gamepass%20Sword.lua", "https://rbxscript.com/post/Ti%E1%BA%BFnTi%E1%BA%BFnPieceGamepassSword-usDtE")
+
+addscriptexist(6284583030, "Pet Simulator X [Auto Farm, Auto Egg, WalkSpeed]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pet%20Simulator%20X%20Auto%20Farm%20Auto%20Egg%20WalkSpeed.lua", "https://rbxscript.com/post/PetSimulatorXAutoFarmAutoEggWalkSpeed-5ECSJ")
+
+addscriptexist(142823291, "Murder Mystery 2 [Auto farm, Esp, Kill Aura]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Murder%20Mystery%20%20Auto%20farm%20Esp%20Kill%20Aura.lua", "https://rbxscript.com/post/MurderMystery2AutofarmEspKillAura-m1nOs")
+
+addscript(4965975642, "Current Game","Survival Of the Fittest [Godmode, KillAura]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Survival%20Of%20the%20Fittest%20Godmode%20KillAura.lua", "https://rbxscript.com/post/SurvivalOftheFittestGodmodeKillAura-DyRVi")
+
+addscriptuniversal("Roblox Universal Script [FE Fling All]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Roblox%20Universal%20Script%20FE%20Fling%20All.lua", "https://rbxscript.com/post/RobloxUniversalScriptFEFlingAll-SOiOj")
+
+addscriptexist(277751860, "Epic [Anti Cheat Bypass]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Epic%20Anti%20Cheat%20Bypass.lua", "https://rbxscript.com/post/EpicAntiCheatBypass-cQXqu")
+
+addscriptexist(6516141723, "DOORS [Wardrobe Esp, Event Notifiers]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DOORS%20Wardrobe%20Esp%20Event%20Notifiers.lua", "https://rbxscript.com/post/DOORSWardrobeEspEventNotifiers-jZ4yg")
+
+addscriptexist(9872472334, "Evade [Free Respawn]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Evade%20Free%20Respawn.lua", "https://rbxscript.com/post/EvadeFreeRespawn-oBbRr")
+
+addscriptexist(5766084948, "SCP: The Red Lake [Esp, SilentAim]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SCP%20The%20Red%20Lake%20Esp%20SilentAim.lua", "https://rbxscript.com/post/SCPTheRedLakeEspSilentAim-dPWi7")
+
+addscriptexist(4543144283, "Mega Noob Simulator [Auto Farm, Kill Aura, Coin Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mega%20Noob%20Simulator%20Auto%20Farm%20Kill%20Aura%20Coin%20Farm.lua", "https://rbxscript.com/post/MegaNoobSimulatorAutoFarmKillAuraCoinFarm-sLAzH")
+
+addscript(4850718823, "Current Game","Skatepark [Auto xp, Credit Farm, Credit Esp]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Skatepark%20Auto%20xp%20Credit%20Farm%20Credit%20Esp.lua", "https://rbxscript.com/post/SkateparkAutoxpCreditFarmCreditEsp-EREh9")
+
+addscriptexist(7991339063, "Rainbow Friends [Esp, Collect Items]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Rainbow%20Friends%20Esp%20Collect%20Items.lua", "https://rbxscript.com/post/RainbowFriendsEspCollectItems-IfK7y")
+
+addscriptexist(9585537847, "SHADOVIS RPG [KillAura, Auto Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SHADOVIS%20RPG%20KillAura%20Auto%20Farm.lua", "https://rbxscript.com/post/SHADOVISRPGKillAuraAutoFarm-uWY4y")
+
+addscriptuniversal("Roblox Universal Script [Graphic Enhancer]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Roblox%20Universal%20Script%20Graphic%20Enhancer.lua", "https://rbxscript.com/post/RobloxUniversalScriptGraphicEnhancer-1qC4p")
+
+addscriptexist(6428174188, "LOST RPG [Kill All Mobs]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LOST%20RPG%20Kill%20All%20Mobs.lua", "https://rbxscript.com/post/LOSTRPGKillAllMobs-JSyVz")
+
+addscriptexist(6609611538, "Mechanica [Crash Player]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mechanica%20Crash%20Player.lua", "https://rbxscript.com/post/MechanicaCrashPlayer-Pkzta")
+
+addscript(2686500207, "Current Game","A Bizarre Day [Auto Farm, Teleports]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/A%20Bizarre%20Day%20Auto%20Farm%20Teleports.lua", "https://rbxscript.com/post/ABizarreDayAutoFarmTeleports-tEc7E")
+
+addscriptuniversal("Roblox Universal Script [Aimbot FOV]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Roblox%20Universal%20Script%20Aimbot%20FOV.lua", "https://rbxscript.com/post/RobloxUniversalScriptAimbotFOV-avFDX")
+
+addscriptexist(8737602449, "PLS DONATE [Fly, Esp]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PLS%20DONATE%20Fly%20Esp.lua", "https://rbxscript.com/post/PLSDONATEFlyEsp-G4TDC")
+
+addscriptexist(920587237, "Adopt Me [Auto Farm, Buy any egg]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Adopt%20Me%20Auto%20Farm%20Buy%20any%20egg.lua", "https://rbxscript.com/post/AdoptMeAutoFarmBuyanyegg-apcdb")
+
+addscriptexist(1962086868, "Tower of Hell [Godmode, Win]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tower%20of%20Hell%20Godmode%20Win.lua", "https://rbxscript.com/post/TowerofHellGodmodeWin-2fciK")
+
+addscriptexist(537413528, "Build A Boat For Treasure [AutoFarm, Morhps]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Build%20A%20Boat%20For%20Treasure%20AutoFarm%20Morhps.lua", "https://rbxscript.com/post/BuildABoatForTreasureAutoFarmMorhps-vmj2U")
+
+addscriptexist(537413528, "Build A Boat For Treasure [Walkspeed, Teleports]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Build%20A%20Boat%20For%20Treasure%20Walkspeed%20Teleports.lua", "https://rbxscript.com/post/BuildABoatForTreasureWalkspeedTeleports-tljzZ")
+
+addscriptexist(9585537847, "SHADOVIS RPG [AutoFarm, KillAura]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SHADOVIS%20RPG%20AutoFarm%20KillAura.lua", "https://rbxscript.com/post/SHADOVISRPGAutoFarmKillAura-n50u5")
+
+addscriptexist(537413528, "Build A Boat For Treasure [AutoFarm, Click TP Tool]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Build%20A%20Boat%20For%20Treasure%20AutoFarm%20Click%20TP%20Tool.lua", "https://rbxscript.com/post/BuildABoatForTreasureAutoFarmClickTPTool-abAGD")
+
+addscriptexist(1730877806, "Grand Piece Online [No Fall Damage, Auto Farm Beli]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Grand%20Piece%20Online%20No%20Fall%20Damage%20Auto%20Farm%20Beli.lua", "https://rbxscript.com/post/GrandPieceOnlineNoFallDamageAutoFarmBeli-Qbq4w")
+
+addscriptexist(10087074695, "Knife Strife! [Dupe Knife]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Knife%20Strife%20Dupe%20Knife.lua", "https://rbxscript.com/post/KnifeStrifeDupeKnife-SqgOi")
+
+addscriptexist(621129760, "Knife Ability Test [Aimbot]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Knife%20Ability%20Test%20Aimbot.lua", "https://rbxscript.com/post/KnifeAbilityTestAimbot-KwhEH")
+
+addscriptexist(10087074695, "Knife Strife! [All Knives]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Knife%20Strife%20All%20Knives.lua", "https://rbxscript.com/post/KnifeStrifeAllKnives-WvI6Q")
+
+addscriptexist(147848991, "Be A Parkour Ninja [Silent Aim, Esp]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Be%20A%20Parkour%20Ninja%20Silent%20Aim%20Esp.lua", "https://rbxscript.com/post/BeAParkourNinjaSilentAimEsp-fEohZ")
+
+addscript(9863691914, "Current Game","Backrooms Morphs [Kill All Players, NPCs", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Backrooms%20Morphs%20Kill%20All%20Players%20NPCs.lua", "https://rbxscript.com/post/BackroomsMorphsKillAllPlayersNPCs-CxPXe")
+
+addscript(9970551995, "Current Game","Touch The Grass Simulator! [AutoHatch, KillAura]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Touch%20The%20Grass%20Simulator%20AutoHatch%20KillAura.lua", "https://rbxscript.com/post/TouchTheGrassSimulatorAutoHatchKillAura-YPtgU")
+
+addscriptexist(10087074695, "Knife Strife! [KillAll, Instant Kills]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Knife%20Strife%20KillAll%20Instant%20Kills.lua", "https://rbxscript.com/post/KnifeStrifeKillAllInstantKills-CVzml")
+
+addscriptexist(698448212, "RoBeats [AutoPlay]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RoBeats%20AutoPlay.lua", "https://rbxscript.com/post/RoBeatsAutoPlay-UfrdW")
+
+addscriptexist(445664957, "Parkour [Bag Esp]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Parkour%20Bag%20Esp.lua", "https://rbxscript.com/post/ParkourBagEsp-Revbr")
+
+addscriptexist(9980179145, "Speed Race Clicker [AutoFarm, AutoChest]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Speed%20Race%20Clicker%20AutoFarm%20AutoChest.lua", "https://rbxscript.com/post/SpeedRaceClickerAutoFarmAutoChest-GQ2pr")
+
+addscriptexist(10087074695, "Knife Strife [Kill All]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Knife%20Strife%20Kill%20All.lua", "https://rbxscript.com/post/KnifeStrifeKillAll-ASW6X")
+
+addscriptexist(5116869569, "Doodle World [Auto Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Doodle%20World%20Auto%20Farm.lua", "https://rbxscript.com/post/DoodleWorldAutoFarm-Jt1si")
+
+addscriptexist(662417684, "LUCKY BLOCKS Battlegrounds [Get all lucky blocks]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LUCKY%20BLOCKS%20Battlegrounds%20Get%20all%20lucky%20blocks.lua", "https://rbxscript.com/post/LUCKYBLOCKSBattlegroundsGetallluckyblocks-TNukk")
+
+addscriptexist(6766156863, "Strongman Simulator [Very OP Autofarm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Strongman%20Simulator%20Very%20OP%20Autofarm.lua", "https://rbxscript.com/post/StrongmanSimulatorVeryOPAutofarm-s6SH3")
+
+addscript(7728848215, "Current Game","Slashing Simulator [Auto Farm, Teleport All Worlds, WalkSpeed]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Slashing%20Simulator%20Auto%20Farm%20Teleport%20All%20Worlds%20WalkSpeed.lua", "https://rbxscript.com/post/SlashingSimulatorAutoFarmTeleportAllWorldsWalkSpeed-OKmVo")
+
+addscriptexist(9961650006, "Shockwave Racing [Auto Win]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Shockwave%20Racing%20Auto%20Win.lua", "https://rbxscript.com/post/ShockwaveRacingAutoWin-cDlJY")
+
+addscriptexist(8260276694, "Ability Wars [Esp, Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ability%20Wars%20Esp%20Farm.lua", "https://rbxscript.com/post/AbilityWarsEspFarm-bdtoS")
+
+addscriptexist(3527629287, "BIG Paintball [Silent AimBot, Esp. Chams]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BIG%20Paintball%20Silent%20AimBot%20Esp%20Chams.lua", "https://rbxscript.com/post/BIGPaintballSilentAimBotEspChams-l1h22")
+
+addscriptexist(537413528, "Build A Boat For Treasure [Auto Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Build%20A%20Boat%20For%20Treasure%20Auto%20Farm.lua", "https://rbxscript.com/post/BuildABoatForTreasureAutoFarm-BeLWR")
+
+addscriptexist(6055959032, "Jailbird [Silent AimBot, Chams, Fly]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Jailbird%20Silent%20AimBot%20Chams%20Fly.lua", "https://rbxscript.com/post/JailbirdSilentAimBotChamsFly-P1kNT")
+
+addscriptexist(6172932937, "Energy Assault [Silent AimBot, Chams, Esp]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Energy%20Assault%20Silent%20AimBot%20Chams%20Esp.lua", "https://rbxscript.com/post/EnergyAssaultSilentAimBotChamsEsp-NblHZ")
+
+addscriptexist(5780309044, "Stands Awakening [Auto farm stands, Instantly change stands]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Stands%20Awakening%20Auto%20farm%20stands%20Instantly%20change%20stands.lua", "https://rbxscript.com/post/StandsAwakeningAutofarmstandsInstantly-b1cYp")
+
+addscriptexist(3432786397, "Pet Mining Simulator [Btools, Kill]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pet%20Mining%20Simulator%20Btools%20Kill.lua", "https://rbxscript.com/post/PetMiningSimulatorBtoolsKill-sF4br")
+
+addscriptuniversal("Roblox [Universal Aim Esp]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Roblox%20Universal%20Aim%20Esp.lua", "https://rbxscript.com/post/RobloxUniversalAimEsp-aGL9a")
+
+addscriptexist(9551640993, "Mining Simulator 2 [Auto Mine, Auto Rebirth, Redeem All Codes]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mining%20Simulator%20%20Auto%20Mine%20Auto%20Rebirth%20Redeem%20All%20Codes.lua", "https://rbxscript.com/post/MiningSimulator2AutoMineAutoRebirthRedeemAllCodes-6LK6h")
+
+addscriptexist(7664413141, "Creeper Chaos [Anti-cheat bypass, Walkspeed changer]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Creeper%20Chaos%20Anticheat%20bypass%20Walkspeed%20changer.lua", "https://rbxscript.com/post/CreeperChaosAnticheatbypassWalkspeedchangerJumpPowerchanger-paihy")
+
+addscriptexist(1224212277, "Mad City [Reset Character (Bypass bug), ESP, Silent AIM]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mad%20City%20Reset%20Character%20Bypass%20bug%20ESP%20Silent%20AIM.lua", "https://rbxscript.com/post/MadCityResetCharacterBypassbugESPSilentAIM-FwulD")
+
+addscriptexist(70005410, "Blox Hunt Tokens [Autofarm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blox%20Hunt%20Tokens%20Autofarm.lua", "https://rbxscript.com/post/BloxHuntTokensAutofarm-qUv50")
+
+addscriptexist(1224212277, "Mad City [Fly, AutoFarm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mad%20City%20Fly%20AutoFarm.lua", "https://rbxscript.com/post/MadCityFlyAutoFarm-pzXQD")
+
+addscriptexist(537413528, "Build A Boat For Treasure [Quests, Auto Farm, Many Functions]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Build%20A%20Boat%20For%20Treasure%20Quests%20Auto%20Farm%20Many%20Functions.lua", "https://rbxscript.com/post/BuildABoatForTreasureQuestsAutoFarmManyFunctions-kQ4sr")
+
+addscript(3376769145, "Current Game","Dragon Ball Warriors [Use the best form]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Dragon%20Ball%20Warriors%20Use%20the%20best%20form.lua", "https://rbxscript.com/post/DragonBallWarriorsUsethebestform-ik71b")
+
+addscriptexist(10243982775, "RedBox 2 [Quickswap weapons, Martyrdom]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RedBox%20%20Quickswap%20weapons%20Martyrdom.lua", "https://rbxscript.com/post/RedBox2QuickswapweaponsMartyrdom-QzKiD")
+
+addscriptexist(8750997647, "Tapping Legends X [AutoTap, AutoRebirth, Autoclicker]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tapping%20Legends%20X%20AutoTap%20AutoRebirth%20Autoclicker.lua", "https://rbxscript.com/post/TappingLegendsXAutoTapAutoRebirthAutoclicker-cOFLC")
+
+addscriptexist(10321372166, "Pet Simulator X [Auto Farm, Auto open Pets, Auto Golden pets]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pet%20Simulator%20X%20Auto%20Farm%20Auto%20open%20Pets%20Auto%20Golden%20pets.lua", "https://rbxscript.com/post/PetSimulatorXAutoFarmAutoopen-v8X6b")
+
+addscriptexist(445664957, "Parkour [Esp Types]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Parkour%20Esp%20Types.lua", "https://rbxscript.com/post/ParkourEspTypes-tzu90")
+
+addscript(9840387028, "Current Game","Era of Althea [Auto Mobs, Walkspeed]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Era%20of%20Althea%20Auto%20Mobs%20Walkspeed.lua", "https://rbxscript.com/post/EraofAltheaAutoMobsWalkspeed-9828G")
+
+addscript(428114181, "Current Game","Azure Mines [TP To ore, Auto Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Azure%20Mines%20TP%20To%20ore%20Auto%20Farm.lua", "https://rbxscript.com/post/AzureMinesTPTooreAutoFarm-NFXVD")
+
+addscriptexist(7993293100, "Tsunami Game [Auto Farm, Teleport]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tsunami%20Game%20Auto%20Farm%20Teleport.lua", "https://rbxscript.com/post/TsunamiGameAutoFarmTeleport-29Uxp")

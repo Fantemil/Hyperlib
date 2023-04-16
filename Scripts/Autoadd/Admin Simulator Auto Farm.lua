@@ -1,3 +1,4 @@
-while task.wait() do
-       game:GetService("ReplicatedStorage").Remotes.Lift:FireServer()
-end
+while true do 
+    wait()
+    game:GetService("ReplicatedStorage").Remotes.Lift:FireServer()
+end 
