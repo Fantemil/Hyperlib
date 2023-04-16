@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 21:40:21"
+lastupdate = "GMT +1: 16.04.2023 21:40:26"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -16715,3 +16715,5 @@ addscriptexist(6939849554, "Cart Ride Tycoon thru a Cave 2 [Auto farm cash]", "p
 addscript(3234050617, "Current Game","Left 2 Die [Infinite Ammo]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Left%20%20Die%20Infinite%20Ammo.lua", "https://rbxscript.com/post/Left2DieInfiniteAmmo-CeGdA")
 
 addscriptexist(621129760, "Knife Ability Test [GodMode]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Knife%20Ability%20Test%20GodMode.lua", "https://rbxscript.com/post/KnifeAbilityTestGodMode-ae2A2")
+
+addscriptexist(340227283, "RoBowling [Aimbot & Hitbox Extender]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RoBowling%20Aimbot%20%20Hitbox%20Extender.lua", "https://rbxscript.com/post/RoBowlingAimbotHitboxExtender-lgRaV")
