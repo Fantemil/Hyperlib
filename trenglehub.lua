@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 21:58:21"
+lastupdate = "GMT +1: 16.04.2023 21:58:24"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -17211,3 +17211,5 @@ addscriptexist(6403373529, "Slap Battles [Kill Aura, Kill Random player, Get All
 addscript(4459593483, "Current Game","FORCE [PRE-ALPHA] [GUI - Anti Ragdoll, Anti Damage & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FORCE%20PREALPHA%20GUI%20%20Anti%20Ragdoll%20Anti%20Damage%20%20More.lua", "https://rbxscript.com/post/FORCEPREALPHAGUIAntiRagdollAntiDamageMore-tjuuz")
 
 addscriptexist(3956818381, "Ninja Legends [Auto Farm, Auto Sell, Auto Collect Ch]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ninja%20Legends%20Auto%20Farm%20Auto%20Sell%20Auto%20Collect%20Ch.lua", "https://rbxscript.com/post/NinjaLegendsAutoFarmAutoSellAutoCollectCh-n2XsZ")
+
+addscriptexist(9898710720, "Money Tycoon [Auto Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Money%20Tycoon%20Auto%20Farm.lua", "https://rbxscript.com/post/MoneyTycoonAutoFarm-PwktL")
