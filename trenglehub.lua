@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 22:07:40"
+lastupdate = "GMT +1: 16.04.2023 22:07:45"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -17473,3 +17473,5 @@ addscriptexist(9397663086, "Ninja Training Simulator [Auto Farm, Auto Rebirth, A
 addscriptexist(6514923093, "Realistic Guns Shooting Game [AimBot, ESP, GUN MOD]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Realistic%20Guns%20Shooting%20Game%20AimBot%20ESP%20GUN%20MOD.lua", "https://rbxscript.com/post/RealisticGunsShootingGameAimBotESPGUNMOD-DU6OW")
 
 addscriptexist(4036494886, "Gun Simulator [Inf ammo, Inf stars, No reload]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Gun%20Simulator%20Inf%20ammo%20Inf%20stars%20No%20reload.lua", "https://rbxscript.com/post/GunSimulatorInfammoInfstarsNoreload-xRB0d")
+
+addscriptexist(286090429, "Zeus Hub [4 Games]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Zeus%20Hub%20%20Games.lua", "https://rbxscript.com/post/ZeusHub4Games-dnHrn")
