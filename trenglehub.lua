@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 21:39:04"
+lastupdate = "GMT +1: 16.04.2023 21:39:07"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -16681,3 +16681,5 @@ addscriptexist(5939428933, "Crewmates! (Among Us) [Remove Backpack & More!]", "p
 addscriptexist(4872321990, "Islands [Auto Coollect Nearby Items]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Islands%20Auto%20Coollect%20Nearby%20Items.lua", "https://rbxscript.com/post/IslandsAutoCoollectNearbyItems-FQbaQ")
 
 addscriptexist(2788229376, "Da Hood [GUI - Anti Stomp & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Da%20Hood%20GUI%20%20Anti%20Stomp%20%20More.lua", "https://rbxscript.com/post/DaHoodGUIAntiStompMore-OQcdK")
+
+addscriptexist(7606302010, "Yo-Yo! Simulator [GUI - Auto Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/YoYo%20Simulator%20GUI%20%20Auto%20Farm.lua", "https://rbxscript.com/post/YoYoSimulatorGUIAutoFarm-Gwksh")
