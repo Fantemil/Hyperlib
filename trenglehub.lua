@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 21:33:34"
+lastupdate = "GMT +1: 16.04.2023 21:33:38"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -16519,3 +16519,5 @@ addscript(6716188523, "Current Game","Business Tycoon [Inf cash]", "pulled from 
 addscriptexist(6679274937, "Vans World [Pencil cases]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Vans%20World%20Pencil%20cases.lua", "https://rbxscript.com/post/VansWorldPencilcases-t1rfg")
 
 addscriptexist(7899881670, "RB World 4 [Shoot assist]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RB%20World%20%20Shoot%20assist.lua", "https://rbxscript.com/post/RBWorld4Shootassist-HY1Wb")
+
+addscriptexist(9845465117, "AU:Reborn [Auto Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AUReborn%20Auto%20Farm.lua", "https://rbxscript.com/post/AURebornAutoFarm-hzpeP")
