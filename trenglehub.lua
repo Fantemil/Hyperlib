@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 22:02:40"
+lastupdate = "GMT +1: 16.04.2023 22:02:44"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -17331,3 +17331,5 @@ addscript(7326500950, "Current Game","Untitled Melee Game [Kill Aura - Silent Ai
 addscriptexist(9983979661, "Dragon Farm Simulator [Infinite Cash]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Dragon%20Farm%20Simulator%20Infinite%20Cash.lua", "https://rbxscript.com/post/DragonFarmSimulatorInfiniteCash-0VVwv")
 
 addscriptexist(5571328985, "Bloodlines [No Fall Damage]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Bloodlines%20No%20Fall%20Damage.lua", "https://rbxscript.com/post/BloodlinesNoFallDamage-7P6PN")
+
+addscriptexist(5201039691, "Tatakai V.2 [Auto Depo, Money Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tatakai%20V%20Auto%20Depo%20Money%20Farm.lua", "https://rbxscript.com/post/TatakaiV2AutoDepoMoneyFarm-9qWxK")
