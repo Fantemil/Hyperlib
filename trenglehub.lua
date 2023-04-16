@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 21:59:02"
+lastupdate = "GMT +1: 16.04.2023 21:59:06"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -17231,3 +17231,5 @@ addscriptexist(6468323505, "Spellbound Magic RPG [Inf Money]", "pulled from rbxs
 addscriptexist(5956785391, "Project Slayers [Semi-no cooldown for skills]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Project%20Slayers%20Semino%20cooldown%20for%20skills.lua", "https://rbxscript.com/post/ProjectSlayersSeminocooldownforskills-ArWbn")
 
 addscript(21083417, "Current Game","Homestead [Log Spam]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Homestead%20Log%20Spam.lua", "https://rbxscript.com/post/HomesteadLogSpam-8N3WA")
+
+addscriptexist(6055959032, "Jailbird [Silent Aim – Ragebot – Visuals And More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Jailbird%20Silent%20Aim%20%20Ragebot%20%20Visuals%20And%20More.lua", "https://rbxscript.com/post/JailbirdSilentAimRagebotVisualsAndMore-JV7Sp")
