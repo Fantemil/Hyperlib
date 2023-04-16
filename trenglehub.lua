@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 22:37:30"
+lastupdate = "GMT +1: 16.04.2023 22:37:37"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18353,3 +18353,5 @@ addscriptexist(606849621, "Jailbreak [Keycard, Unlock Doors]", "pulled from rbxs
 addscriptexist(9167501050, "Lightsaber Arena [Kill Aura - Inf Stamina & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Lightsaber%20Arena%20Kill%20Aura%20%20Inf%20Stamina%20%20More.lua", "https://rbxscript.com/post/LightsaberArenaKillAuraInfStaminaMore-D1LVj")
 
 addscriptexist(8123652942, "Legend Piece [Max Stats]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Legend%20Piece%20Max%20Stats.lua", "https://rbxscript.com/post/LegendPieceMaxStats-CBsdB")
+
+addscriptexist(180037022, "Sonic Ultimate RPG [Collect All Chaos Emeralds & All Rings]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sonic%20Ultimate%20RPG%20Collect%20All%20Chaos%20Emeralds%20%20All%20Rings.lua", "https://rbxscript.com/post/SonicUltimateRPGCollectAllChaosEmeraldsAllRings-hPlUo")
