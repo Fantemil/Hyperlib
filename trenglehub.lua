@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 22:55:01"
+lastupdate = "GMT +1: 16.04.2023 22:55:05"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18869,3 +18869,5 @@ addscriptexist(9534337535, "Shrek in the Backrooms [Inf Item Giver, Entity Kille
 addscriptexist(4566572536, "Universal Vehicle [SpeedHack]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Vehicle%20SpeedHack.lua", "https://rbxscript.com/post/UniversalVehicleSpeedHack-ZEZVf")
 
 addscriptexist(292439477, "Phantom Forces [Unlock All Guns, Admin Guns, Attachments]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Phantom%20Forces%20Unlock%20All%20Guns%20Admin%20Guns%20Attachments.lua", "https://rbxscript.com/post/PhantomForcesUnlockAllGunsAdminGunsAttachments-3QOP")
+
+addscriptexist(9551640993, "Mining Simulator 2 [Auto Mine - Auto Rebirth & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mining%20Simulator%20%20Auto%20Mine%20%20Auto%20Rebirth%20%20More.lua", "https://rbxscript.com/post/MiningSimulator2AutoMineAutoRebirthMore-kLCCl")
