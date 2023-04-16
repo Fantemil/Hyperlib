@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 22:43:37"
+lastupdate = "GMT +1: 16.04.2023 22:43:42"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18537,3 +18537,5 @@ addscriptexist(6808416928, "Aimblox BETA [Kill All]", "pulled from rbxscript.com
 addscriptexist(9726345231, "Duolingo Game Hub [Free Items]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Duolingo%20Game%20Hub%20Free%20Items.lua", "https://rbxscript.com/post/DuolingoGameHubFreeItems-cSCfH")
 
 addscriptexist(9772878203, "raise a floppa 2 [Auto Collect Money, Auto Collect Rent, Auto Raise Rent]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/raise%20a%20floppa%20%20Auto%20Collect%20Money%20Auto%20Collect%20Rent%20Auto%20Raise%20Rent.lua", "https://rbxscript.com/post/raiseafloppa2AutoCollectMoneyAutoCollect-UGqx5")
+
+addhub("Lazy Hub [9 Games]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Lazy%20Hub%20%20Games.lua", "https://rbxscript.com/post/LazyHub9Games-yCVR4")
