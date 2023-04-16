@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 21:51:50"
+lastupdate = "GMT +1: 16.04.2023 21:51:54"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -17035,3 +17035,5 @@ addscriptexist(286090429, "Arsenal [Sound Changer]", "pulled from rbxscript.com"
 addscriptexist(9498006165, "Tapping Simulator [Skip shiny stage]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tapping%20Simulator%20Skip%20shiny%20stage.lua", "https://rbxscript.com/post/TappingSimulatorSkipshinystage-wVB9o")
 
 addscript(659222129, "Current Game","Swordburst 2 [WalkSpeed, Invisibility, INF Sprint]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Swordburst%20%20WalkSpeed%20Invisibility%20INF%20Sprint.lua", "https://rbxscript.com/post/Swordburst2WalkSpeedInvisibilityINFSprint-Wo9Xl")
+
+addscriptexist(606849621, "Jailbreak [FE RESIZE WITH NO LIMIT]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Jailbreak%20FE%20RESIZE%20WITH%20NO%20LIMIT.lua", "https://rbxscript.com/post/JailbreakFERESIZEWITHNOLIMIT-fFkwg")
