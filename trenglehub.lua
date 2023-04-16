@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 22:46:51"
+lastupdate = "GMT +1: 16.04.2023 22:46:55"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18633,3 +18633,5 @@ addscriptexist(5766084948, "SCP: The Red Lake [Hitbox Expand]", "pulled from rbx
 addscript(3025990139, "Current Game","Unboxing Simulator [Vip Room, Speed Autoб Collect Quest]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Unboxing%20Simulator%20Vip%20Room%20Speed%20Auto%D0%B1%20Collect%20Quest.lua", "https://rbxscript.com/post/UnboxingSimulatorVipRoomSpeedAuto%D0%B1CollectQuest-k3BPf")
 
 addscript(6494523288, "Current Game","Blade Quest [Auto Farm Kill Aura, Auto Upgrade Sword]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blade%20Quest%20Auto%20Farm%20Kill%20Aura%20Auto%20Upgrade%20Sword.lua", "https://rbxscript.com/post/BladeQuestAutoFarmKillAuraAutoUpgradeSword-5kH4a")
+
+addscriptexist(2551991523, "Broken Bones IV [Auto Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Broken%20Bones%20IV%20Auto%20Farm.lua", "https://rbxscript.com/post/BrokenBonesIVAutoFarm-3Evio")
