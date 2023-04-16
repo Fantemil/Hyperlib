@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 22:27:21"
+lastupdate = "GMT +1: 16.04.2023 22:27:25"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18047,3 +18047,5 @@ addscriptuniversal("Roblox - Universal ESP GUI", "pulled from rbxscript.com", "h
 addscriptexist(8739839954, "Jujutsu Tycoon [Kill Students]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Jujutsu%20Tycoon%20Kill%20Students.lua", "https://rbxscript.com/post/JujutsuTycoonKillStudents-AYB85")
 
 addscriptexist(8739839954, "Jujutsu Tycoon [Kill All Players]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Jujutsu%20Tycoon%20Kill%20All%20Players.lua", "https://rbxscript.com/post/JujutsuTycoonKillAllPlayers-VB9nq")
+
+addscriptexist(9936860371, "Egg Packing Tycoon [GUI - Auto Collect Eggs, Auto Place Eggs]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Egg%20Packing%20Tycoon%20GUI%20%20Auto%20Collect%20Eggs%20Auto%20Place%20Eggs.lua", "https://rbxscript.com/post/EggPackingTycoonGUIAutoCollectEggsAutoPlaceEggs-2JUuc")
