@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 22:20:35"
+lastupdate = "GMT +1: 16.04.2023 22:20:39"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -17847,3 +17847,5 @@ addscript(3722916, "Current Game","2 Player Company Tycoon [Inf Money]", "pulled
 addscriptexist(537413528, "Build A Boat For Treasure [Inf Block WORKING]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Build%20A%20Boat%20For%20Treasure%20Inf%20Block%20WORKING.lua", "https://rbxscript.com/post/BuildABoatForTreasureInfBlockWORKING-9Uis")
 
 addscriptexist(2753915549, "Blox Fruits [Silent Aim]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blox%20Fruits%20Silent%20Aim.lua", "https://rbxscript.com/post/BloxFruitsSilentAim-PtSW0")
+
+addscriptexist(6678877691, "ZO ぞ [Tp Aura]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ZO%20%E3%81%9E%20Tp%20Aura.lua", "https://rbxscript.com/post/ZOTpAura-Dc3T8")
