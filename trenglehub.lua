@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 22:26:06"
+lastupdate = "GMT +1: 16.04.2023 22:26:09"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18011,3 +18011,5 @@ addscriptexist(8750997647, "Tapping Legends X [GUI - Auto Tap, Auto Rebirth & Mo
 addscriptexist(8303902695, "Pet Posse [GUI - Auto Farm Selected Zone, Unlock All Gamepasses & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pet%20Posse%20GUI%20%20Auto%20Farm%20Selected%20Zone%20Unlock%20All%20Gamepasses%20%20More.lua", "https://rbxscript.com/post/PetPosseGUIAutoFarmSelectedZone-hB2ke")
 
 addscriptexist(8123652942, "Legend Piece [Infinite Level]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Legend%20Piece%20Infinite%20Level.lua", "https://rbxscript.com/post/LegendPieceInfiniteLevel-Xxjp4")
+
+addscriptexist(9662949425, "Punch a brick wall simulator [Infinite Money & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Punch%20a%20brick%20wall%20simulator%20Infinite%20Money%20%20More.lua", "https://rbxscript.com/post/PunchabrickwallsimulatorInfiniteMoneyMore-mfFrt")
