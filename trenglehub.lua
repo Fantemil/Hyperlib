@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 22:37:26"
+lastupdate = "GMT +1: 16.04.2023 22:37:30"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18351,3 +18351,5 @@ addscriptexist(9568982793, "Da Hood Battlegrounds [Instant Kill]", "pulled from 
 addscriptexist(606849621, "Jailbreak [Keycard, Unlock Doors]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Jailbreak%20Keycard%20Unlock%20Doors.lua", "https://rbxscript.com/post/JailbreakKeycardUnlockDoors-GTEQy")
 
 addscriptexist(9167501050, "Lightsaber Arena [Kill Aura - Inf Stamina & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Lightsaber%20Arena%20Kill%20Aura%20%20Inf%20Stamina%20%20More.lua", "https://rbxscript.com/post/LightsaberArenaKillAuraInfStaminaMore-D1LVj")
+
+addscriptexist(8123652942, "Legend Piece [Max Stats]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Legend%20Piece%20Max%20Stats.lua", "https://rbxscript.com/post/LegendPieceMaxStats-CBsdB")
