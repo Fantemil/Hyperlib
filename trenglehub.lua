@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 21:54:08"
+lastupdate = "GMT +1: 16.04.2023 21:54:12"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -17095,3 +17095,5 @@ addscriptexist(5956785391, "Project Slayers [Kill Aura - Auto Farm & More!]", "p
 addscriptexist(537413528, "Build a Boat For Treasure [Auto Farming GUI]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Build%20a%20Boat%20For%20Treasure%20Auto%20Farming%20GUI.lua", "https://rbxscript.com/post/BuildaBoatForTreasureAutoFarmingGUI-KNOOE")
 
 addscriptexist(3956818381, "Ninja Legends [GUI - Auto Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ninja%20Legends%20GUI%20%20Auto%20Farm.lua", "https://rbxscript.com/post/NinjaLegendsGUIAutoFarm-mNjgV")
+
+addhub("Galaxy Hub [Games 10]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Galaxy%20Hub%20Games%20.lua", "https://rbxscript.com/post/GalaxyHubGames10-cwZyR")
