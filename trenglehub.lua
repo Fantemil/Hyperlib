@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 22:21:40"
+lastupdate = "GMT +1: 16.04.2023 22:21:43"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -17879,3 +17879,5 @@ addscriptexist(4036494886, "Gun Simulator [Infinite Money - Max Skill Per Shot]"
 addscriptexist(863266079, "Apocalpyse Rising 2 [GUI - Aimbot, No Recoil]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Apocalpyse%20Rising%20%20GUI%20%20Aimbot%20No%20Recoil.lua", "https://rbxscript.com/post/ApocalpyseRising2GUIAimbotNoRecoil-NJ2iI")
 
 addscriptexist(3144213556, "Troll Obby [Auto Win]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Troll%20Obby%20Auto%20Win.lua", "https://rbxscript.com/post/TrollObbyAutoWin-HZxqt")
+
+addscriptexist(8123652942, "Legend Piece [Seabeast, Gems Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Legend%20Piece%20Seabeast%20Gems%20Farm.lua", "https://rbxscript.com/post/LegendPieceSeabeastGemsFarm-xuykX")
