@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 22:47:29"
+lastupdate = "GMT +1: 16.04.2023 22:47:33"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18653,3 +18653,5 @@ addscriptexist(5827078246, "Coins Hero Simulator [Auto Coin, Auto Sell, AutoEgg]
 addscriptexist(574407221, "Super Hero Tycoon [Crate Farm, Auto Cash, Auto Click]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Super%20Hero%20Tycoon%20Crate%20Farm%20Auto%20Cash%20Auto%20Click.lua", "https://rbxscript.com/post/SuperHeroTycoonCrateFarmAutoCashAutoClick-9PzQn")
 
 addscriptexist(4522347649, "Free Admin [Unlock Gamepass]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Free%20Admin%20Unlock%20Gamepass.lua", "https://rbxscript.com/post/FreeAdminUnlockGamepass-3G40e")
+
+addscriptexist(8069117419, "Demon Soul Simulator [AutoFarm, Teleports, AutoChest]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Demon%20Soul%20Simulator%20AutoFarm%20Teleports%20AutoChest.lua", "https://rbxscript.com/post/DemonSoulSimulatorAutoFarmTeleportsAutoChest-AolaI")
