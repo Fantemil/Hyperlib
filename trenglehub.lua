@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 22:38:10"
+lastupdate = "GMT +1: 16.04.2023 22:38:15"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18371,3 +18371,5 @@ addscriptexist(2753915549, "Blox Fruits [Auto Farm]", "pulled from rbxscript.com
 addscriptexist(35397735, "Scuba Diving at Quill Lake [Inf Money]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Scuba%20Diving%20at%20Quill%20Lake%20Inf%20Money.lua", "https://rbxscript.com/post/ScubaDivingatQuillLakeInfMoney-9p9zj")
 
 addscript(3044285976, "Current Game","BloxRP [Fist, Melee Kill Aura]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BloxRP%20Fist%20Melee%20Kill%20Aura.lua", "https://rbxscript.com/post/BloxRPFistMeleeKillAura-GjTu")
+
+addscriptexist(8619263259, "Critical Legends [Loot All Chests]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Critical%20Legends%20Loot%20All%20Chests.lua", "https://rbxscript.com/post/CriticalLegendsLootAllChests-vFixc")
