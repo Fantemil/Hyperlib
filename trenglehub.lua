@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 21:35:22"
+lastupdate = "GMT +1: 16.04.2023 21:35:26"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -16573,3 +16573,5 @@ addscriptexist(4863541388, "Scythe Masters [Auto click]", "pulled from rbxscript
 addscriptexist(10447882390, "Zombie Research Tycoon [Auto Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Zombie%20Research%20Tycoon%20Auto%20Farm.lua", "https://rbxscript.com/post/ZombieResearchTycoonAutoFarm-XKk2f")
 
 addscriptexist(260606376, "Realistic Roleplay 2 [Cash Auto Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Realistic%20Roleplay%20%20Cash%20Auto%20Farm.lua", "https://rbxscript.com/post/RealisticRoleplay2CashAutoFarm-zJhHy")
+
+addscriptexist(6512923934, "Ultra Clicker Simulator [Auto Click]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ultra%20Clicker%20Simulator%20Auto%20Click.lua", "https://rbxscript.com/post/UltraClickerSimulatorAutoClick-UlL2R")
