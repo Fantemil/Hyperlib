@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 21:34:39"
+lastupdate = "GMT +1: 16.04.2023 21:34:43"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -16551,3 +16551,5 @@ addscriptexist(286090429, "Arsenal [Aimbot, Wall check]", "pulled from rbxscript
 addscriptexist(8737602449, "PLS DONATE [Auto Beg]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PLS%20DONATE%20Auto%20Beg.lua", "https://rbxscript.com/post/PLSDONATEAutoBeg-8Yynk")
 
 addscriptexist(5041144419, "SCP: Roleplay [Auto Farm, Teleports]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SCP%20Roleplay%20Auto%20Farm%20Teleports.lua", "https://rbxscript.com/post/SCPRoleplayAutoFarmTeleports-kLWJa")
+
+addscriptexist(6403373529, "Slap Battles [Auto Slapples]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Slap%20Battles%20Auto%20Slapples.lua", "https://rbxscript.com/post/SlapBattlesAutoSlapples-kwvqc")
