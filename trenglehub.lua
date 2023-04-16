@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 22:36:46"
+lastupdate = "GMT +1: 16.04.2023 22:36:49"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18329,3 +18329,5 @@ addhub("Scum Hub [Mining Simulator 2, Pet Simulator X and many other games]", "p
 addscript(7211666966, "Current Game","Tower Of Jump [Auto Farm - Server Hop]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tower%20Of%20Jump%20Auto%20Farm%20%20Server%20Hop.lua", "https://rbxscript.com/post/TowerOfJumpAutoFarmServerHop-Ux8xv")
 
 addscriptexist(4459593483, "FORCE [Auto Collect Trinkets]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FORCE%20Auto%20Collect%20Trinkets.lua", "https://rbxscript.com/post/FORCEAutoCollectTrinkets-7KPo")
+
+addscriptexist(4459593483, "FORCE [No Fall]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FORCE%20No%20Fall.lua", "https://rbxscript.com/post/FORCENoFall-2sqPA")
