@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 22:48:09"
+lastupdate = "GMT +1: 16.04.2023 22:48:12"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18671,3 +18671,5 @@ addscriptexist(8146731988, "Ultra Power Tycoon [Give All Weapons]", "pulled from
 addscriptexist(1962086868, "Tower of Hell [Autotp to top, Walkspeed, Inf jump]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tower%20of%20Hell%20Autotp%20to%20top%20Walkspeed%20Inf%20jump.lua", "https://rbxscript.com/post/TowerofHellAutotptotopWalkspeedInfjump-rxZZA")
 
 addscriptexist(6938803436, "Anime Dimensions Simulator [Auto Attack, Speed, Auto Skill]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime%20Dimensions%20Simulator%20Auto%20Attack%20Speed%20Auto%20Skill.lua", "https://rbxscript.com/post/AnimeDimensionsSimulatorAutoAttackSpeedAutoSkill-bEvDy")
+
+addscriptexist(6403373529, "Slap Battles [Auto Swing, Auto Sell, Auto Rebirth]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Slap%20Battles%20Auto%20Swing%20Auto%20Sell%20Auto%20Rebirth.lua", "https://rbxscript.com/post/SlapBattlesAutoSwingAutoSellAutoRebirth-QKcc6")
