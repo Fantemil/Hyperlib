@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 22:15:47"
+lastupdate = "GMT +1: 16.04.2023 22:15:51"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -17707,3 +17707,5 @@ addscriptexist(8069117419, "Demon Soul Simulator [Breathing Dupe]", "pulled from
 addscriptexist(5956785391, "Project Slayers [Muzan TP]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Project%20Slayers%20Muzan%20TP.lua", "https://rbxscript.com/post/ProjectSlayersMuzanTP-XWi4w")
 
 addscriptexist(4598019433, "generic roleplay gaem [AFK Rice Autofarm, Auto Eat, Name hide]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/generic%20roleplay%20gaem%20AFK%20Rice%20Autofarm%20Auto%20Eat%20Name%20hide.lua", "https://rbxscript.com/post/genericroleplaygaemAFKRiceAutofarmAutoEatNamehide-HfKKX")
+
+addscriptexist(5956785391, "Project Slayers [Data wipe again]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Project%20Slayers%20Data%20wipe%20again.lua", "https://rbxscript.com/post/ProjectSlayersDatawipeagain-7NcBf")
