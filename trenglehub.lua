@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 21:29:06"
+lastupdate = "GMT +1: 16.04.2023 21:29:10"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -16395,3 +16395,5 @@ addscript(534701013, "Current Game","The Labyrinth [X-Ray, Auto attack]", "pulle
 addscript(696347899, "Current Game","Stepford County Railway [Auto Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Stepford%20County%20Railway%20Auto%20Farm.lua", "https://rbxscript.com/post/StepfordCountyRailwayAutoFarm-yFxNw")
 
 addscript(10151870864, "Current Game","Ice Factory Tycoon [Auto Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ice%20Factory%20Tycoon%20Auto%20Farm.lua", "https://rbxscript.com/post/IceFactoryTycoonAutoFarm-SXI8p")
+
+addscriptexist(7606302010, "YoYo Simulator [Auto YoYo, Auto Hatch]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/YoYo%20Simulator%20Auto%20YoYo%20Auto%20Hatch.lua", "https://rbxscript.com/post/YoYoSimulatorAutoYoYoAutoHatch-GhXC9")
