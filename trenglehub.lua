@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 21:44:45"
+lastupdate = "GMT +1: 16.04.2023 21:44:49"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -16835,3 +16835,5 @@ addscriptexist(23578803, "Hotel Elephant [Infinite Money]", "pulled from rbxscri
 addscriptexist(2534724415, "Emergency Response Liberty County [No Recoil]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Emergency%20Response%20Liberty%20County%20No%20Recoil.lua", "https://rbxscript.com/post/EmergencyResponseLibertyCountyNoRecoil-pBmG2")
 
 addscriptexist(6902912928, "GET TO THE TOP! [Unlimited Points]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/GET%20TO%20THE%20TOP%20Unlimited%20Points.lua", "https://rbxscript.com/post/GETTOTHETOPUnlimitedPoints-iqBjd")
+
+addscriptexist(2506738224, "Fallen [Esp]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Fallen%20Esp.lua", "https://rbxscript.com/post/FallenEsp-BdHQe")
