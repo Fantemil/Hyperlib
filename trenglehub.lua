@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 21:56:05"
+lastupdate = "GMT +1: 16.04.2023 21:56:09"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -17151,3 +17151,5 @@ addscriptexist(7127407851, "Attack on Titan: Evolution [Fly Toggle,Walkspeed, In
 addscript(9926433554, "Current Game","Blast Mining Simulator [Auto Give Money, Anti Idlem Auto Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blast%20Mining%20Simulator%20Auto%20Give%20Money%20Anti%20Idlem%20Auto%20Farm.lua", "https://rbxscript.com/post/BlastMiningSimulatorAutoGiveMoneyAntiIdlemAutoFarm-RI45w")
 
 addscriptexist(7177496972, "Anime Warriors [Auto Farm & God Mode]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime%20Warriors%20Auto%20Farm%20%20God%20Mode.lua", "https://rbxscript.com/post/AnimeWarriorsAutoFarmGodMode-lLxJg")
+
+addscriptexist(6456351776, "Kaiju Paradise v3.1 [Kill Aura]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Kaiju%20Paradise%20v%20Kill%20Aura.lua", "https://rbxscript.com/post/KaijuParadisev31KillAura-Bwora")
