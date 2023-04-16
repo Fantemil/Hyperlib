@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 22:46:55"
+lastupdate = "GMT +1: 16.04.2023 22:46:58"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18635,3 +18635,5 @@ addscript(3025990139, "Current Game","Unboxing Simulator [Vip Room, Speed Autoб
 addscript(6494523288, "Current Game","Blade Quest [Auto Farm Kill Aura, Auto Upgrade Sword]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blade%20Quest%20Auto%20Farm%20Kill%20Aura%20Auto%20Upgrade%20Sword.lua", "https://rbxscript.com/post/BladeQuestAutoFarmKillAuraAutoUpgradeSword-5kH4a")
 
 addscriptexist(2551991523, "Broken Bones IV [Auto Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Broken%20Bones%20IV%20Auto%20Farm.lua", "https://rbxscript.com/post/BrokenBonesIVAutoFarm-3Evio")
+
+addscriptexist(4580204640, "Survive the Killer [Loot Auto Farm, TP to Door, Auto Escape]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Survive%20the%20Killer%20Loot%20Auto%20Farm%20TP%20to%20Door%20Auto%20Escape.lua", "https://rbxscript.com/post/SurvivetheKillerLootAutoFarmTPtoDoorAutoEscape-97Ggx")
