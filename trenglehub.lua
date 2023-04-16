@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 22:27:36"
+lastupdate = "GMT +1: 16.04.2023 22:27:39"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18055,3 +18055,5 @@ addscriptexist(6284583030, "Pet Simulator X [GUI - Auto Farm, Auto Collect All &
 addscriptexist(70005410, "Blox Hunt [God Mode, Infinite Energy]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blox%20Hunt%20God%20Mode%20Infinite%20Energy.lua", "https://rbxscript.com/post/BloxHuntGodModeInfiniteEnergy-qaPuA")
 
 addscriptexist(4588604953, "Criminality [Auto Block]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Criminality%20Auto%20Block.lua", "https://rbxscript.com/post/CriminalityAutoBlock-iBowo")
+
+addscriptexist(2753915549, "Blox Fruit [Silent Aim]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blox%20Fruit%20Silent%20Aim.lua", "https://rbxscript.com/post/BloxFruitSilentAim-91gju")
