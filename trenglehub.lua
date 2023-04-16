@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 22:41:09"
+lastupdate = "GMT +1: 16.04.2023 22:41:12"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18463,3 +18463,5 @@ addscriptexist(3346617530, "Freeze Tag Extreme [Collect All Items - Tag Al]", "p
 addscriptexist(9726345231, "Duolingo Game Hub [Dev Badge - Roblox Event]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Duolingo%20Game%20Hub%20Dev%20Badge%20%20Roblox%20Event.lua", "https://rbxscript.com/post/DuolingoGameHubDevBadgeRobloxEvent-FB8b")
 
 addhub("Arctic Hub [3 Games]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Arctic%20Hub%20%20Games.lua", "https://rbxscript.com/post/ArcticHub3Games-nF4bu")
+
+addscriptexist(2788229376, "Da Hood [GUI - Aimlock, KillBot & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Da%20Hood%20GUI%20%20Aimlock%20KillBot%20%20More.lua", "https://rbxscript.com/post/DaHoodGUIAimlockKillBotMore-Y0uU7")
