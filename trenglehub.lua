@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 21:46:52"
+lastupdate = "GMT +1: 16.04.2023 21:46:58"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -16893,3 +16893,5 @@ addscriptexist(7076813495, "Basketball Stars! [Silent Aim]", "pulled from rbxscr
 addscript(10086890480, "Current Game","Clicking Simulator [Shiny King Tophat Giver]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Clicking%20Simulator%20Shiny%20King%20Tophat%20Giver.lua", "https://rbxscript.com/post/ClickingSimulatorShinyKingTophatGiver-Hdrbc")
 
 addhub("Hydra Hub UI", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Hydra%20Hub%20UI.lua", "https://rbxscript.com/post/HydraHubUI-uYwSi")
+
+addscriptexist(9845465117, "AU:Reborn [Invisible]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AUReborn%20Invisible.lua", "https://rbxscript.com/post/AURebornInvisible-fFvYZ")
