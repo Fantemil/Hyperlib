@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 22:18:44"
+lastupdate = "GMT +1: 16.04.2023 22:18:49"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -17795,3 +17795,5 @@ addhub("GURA HUB [6 Games]", "pulled from rbxscript.com", "https://raw.githubuse
 addscriptexist(7899881670, "RB World 4 [Auto Arcade Bot]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RB%20World%20%20Auto%20Arcade%20Bot.lua", "https://rbxscript.com/post/RBWorld4AutoArcadeBot-UAaiX")
 
 addscript(7491927311, "Current Game","Undertale Test Place Reborn [Alt Detection Bypass]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Undertale%20Test%20Place%20Reborn%20Alt%20Detection%20Bypass.lua", "https://rbxscript.com/post/UndertaleTestPlaceRebornAltDetectionBypass-axLZs")
+
+addscriptexist(6938803436, "Anime Dimensions Simulator [Auto Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime%20Dimensions%20Simulator%20Auto%20Farm.lua", "https://rbxscript.com/post/AnimeDimensionsSimulatorAutoFarm-OkpJz")
