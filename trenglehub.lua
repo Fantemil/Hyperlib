@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 22:40:38"
+lastupdate = "GMT +1: 16.04.2023 22:40:41"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18447,3 +18447,5 @@ addscriptexist(4588604953, "Criminality [Gun Modifications, Aimbot, Inf Stamina]
 addscriptexist(4540286603, "NORTHWIND [Lag Bomb]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NORTHWIND%20Lag%20Bomb.lua", "https://rbxscript.com/post/NORTHWINDLagBomb-8S0Fp")
 
 addscript(9558297703, "Current Game","Fortnite! [ESP - Silent AIM - Unlock Skins - GUI]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Fortnite%20ESP%20%20Silent%20AIM%20%20Unlock%20Skins%20%20GUI.lua", "https://rbxscript.com/post/FortniteESPSilentAIMUnlockSkinsGUI-emT40")
+
+addscript(2602644507, "Current Game","Clone Wars Enrage [Kill All]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Clone%20Wars%20Enrage%20Kill%20All.lua", "https://rbxscript.com/post/CloneWarsEnrageKillAll-zyAA")
