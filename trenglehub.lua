@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 22:41:50"
+lastupdate = "GMT +1: 16.04.2023 22:41:53"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18483,3 +18483,5 @@ addscriptexist(2809202155, "Your Bizarre Adventure [Auto Farm Items - Auto Quest
 addscriptexist(4991214437, "town [Kill All - ESP - Chams & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/town%20Kill%20All%20%20ESP%20%20Chams%20%20More.lua", "https://rbxscript.com/post/townKillAllESPChamsMore-TCmAO")
 
 addscriptexist(1962086868, "Tower of Hell [TP To End & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tower%20of%20Hell%20TP%20To%20End%20%20More.lua", "https://rbxscript.com/post/TowerofHellTPToEndMore-5Scst")
+
+addscript(9566535167, "Current Game","Diamond Reborn [Infinite Pokebooster Time]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Diamond%20Reborn%20Infinite%20Pokebooster%20Time.lua", "https://rbxscript.com/post/DiamondRebornInfinitePokeboosterTime-HPD1z")
