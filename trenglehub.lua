@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 21:24:39"
+lastupdate = "GMT +1: 16.04.2023 21:24:47"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -16269,3 +16269,5 @@ addscriptexist(9840387028, "Era of Althea [Redeem codes]", "pulled from rbxscrip
 addscriptexist(10524502174, "One Punch Fighters [Auto Farm, Auto Collect]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/One%20Punch%20Fighters%20Auto%20Farm%20Auto%20Collect.lua", "https://rbxscript.com/post/OnePunchFightersAutoFarmAutoCollect-ta5Ar")
 
 addscriptexist(6407649031, "NO-SCOPE ARCADE [Aimbot, KillAll]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NOSCOPE%20ARCADE%20Aimbot%20KillAll.lua", "https://rbxscript.com/post/NOSCOPEARCADEAimbotKillAll-jhVsN")
+
+addscriptexist(9872472334, "Evade [GodMode, AutoFarm XP]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Evade%20GodMode%20AutoFarm%20XP.lua", "https://rbxscript.com/post/EvadeGodModeAutoFarmXP-6NCoC")
