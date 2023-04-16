@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 22:49:49"
+lastupdate = "GMT +1: 16.04.2023 22:49:53"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18721,3 +18721,5 @@ addscript(9293082713, "Current Game","Prank Weapon Battles [Kill All]", "pulled 
 addscriptexist(6728870912, "World of Stands Demo [Shiny Stand Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/World%20of%20Stands%20Demo%20Shiny%20Stand%20Farm.lua", "https://rbxscript.com/post/WorldofStandsDemoShinyStandFarm-w5mNU")
 
 addscriptexist(443406476, "Project Lazarus [Zombies Kill All - Infinite Money]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Project%20Lazarus%20Zombies%20Kill%20All%20%20Infinite%20Money.lua", "https://rbxscript.com/post/ProjectLazarusZombiesKillAllInfiniteMoney-sfQGo")
+
+addscriptexist(7791873535, "REALISTIC HOOD [Infiniti Cash]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/REALISTIC%20HOOD%20Infiniti%20Cash.lua", "https://rbxscript.com/post/REALISTICHOODInfinitiCash-RO8fW")
