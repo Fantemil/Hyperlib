@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 21:59:27"
+lastupdate = "GMT +1: 16.04.2023 21:59:31"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -17243,3 +17243,5 @@ addscriptexist(1537690962, "Bee Swarm Simulator - Chocmoc [ Smart Autofarm, Farm
 addscriptexist(10198661638, "Farm Factory Tycoon [Free Diamonds Remote]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Farm%20Factory%20Tycoon%20Free%20Diamonds%20Remote.lua", "https://rbxscript.com/post/FarmFactoryTycoonFreeDiamondsRemote-xztyq")
 
 addscriptexist(6284583030, "Pet Simulator X [Auto Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pet%20Simulator%20X%20Auto%20Farm.lua", "https://rbxscript.com/post/PetSimulatorXAutoFarm-Fx3pQ")
+
+addscriptexist(9129288160, "Tommy Play [Collect All Tokens]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tommy%20Play%20Collect%20All%20Tokens.lua", "https://rbxscript.com/post/TommyPlayCollectAllTokens-KhBvJ")
