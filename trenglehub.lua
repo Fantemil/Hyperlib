@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 22:14:48"
+lastupdate = "GMT +1: 16.04.2023 22:14:51"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -17681,3 +17681,5 @@ addscriptexist(6570234816, "Mano County Roleplay [Kill All]", "pulled from rbxsc
 addscriptexist(863266079, "Apocalypse Rising 2 [Inf Jump, Esp, Snow Health]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Apocalypse%20Rising%20%20Inf%20Jump%20Esp%20Snow%20Health.lua", "https://rbxscript.com/post/ApocalypseRising2InfJumpEspSnowHealth-U2Y9r")
 
 addscriptexist(9903808883, "Build a Market Tycoon [Fast NPC'S]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Build%20a%20Market%20Tycoon%20Fast%20NPCS.lua", "https://rbxscript.com/post/BuildaMarketTycoonFastNPCS-mt1D0")
+
+addscriptexist(4598019433, "generic roleplay gaem [GUI - Auto Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/generic%20roleplay%20gaem%20GUI%20%20Auto%20Farm.lua", "https://rbxscript.com/post/genericroleplaygaemGUIAutoFarm-ZXyEf")
