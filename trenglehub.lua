@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 22:27:29"
+lastupdate = "GMT +1: 16.04.2023 22:27:32"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18051,3 +18051,5 @@ addscriptexist(8739839954, "Jujutsu Tycoon [Kill All Players]", "pulled from rbx
 addscriptexist(9936860371, "Egg Packing Tycoon [GUI - Auto Collect Eggs, Auto Place Eggs]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Egg%20Packing%20Tycoon%20GUI%20%20Auto%20Collect%20Eggs%20Auto%20Place%20Eggs.lua", "https://rbxscript.com/post/EggPackingTycoonGUIAutoCollectEggsAutoPlaceEggs-2JUuc")
 
 addscriptexist(6284583030, "Pet Simulator X [GUI - Auto Farm, Auto Collect All & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pet%20Simulator%20X%20GUI%20%20Auto%20Farm%20Auto%20Collect%20All%20%20More.lua", "https://rbxscript.com/post/PetSimulatorXGUIAutoFarmAutoCollectAllMore-PdVR6")
+
+addscriptexist(70005410, "Blox Hunt [God Mode, Infinite Energy]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blox%20Hunt%20God%20Mode%20Infinite%20Energy.lua", "https://rbxscript.com/post/BloxHuntGodModeInfiniteEnergy-qaPuA")
