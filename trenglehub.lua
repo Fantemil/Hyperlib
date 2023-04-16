@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 21:56:36"
+lastupdate = "GMT +1: 16.04.2023 21:56:40"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -17167,3 +17167,5 @@ addscriptexist(292439477, "Phantom Forces [ESP]", "pulled from rbxscript.com", "
 addscriptexist(5777099015, "Cheese Escape [Auto Collect Cheese, Get All Keys, Press All buttons]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Cheese%20Escape%20Auto%20Collect%20Cheese%20Get%20All%20Keys%20Press%20All%20buttons.lua", "https://rbxscript.com/post/CheeseEscapeAutoCollectCheeseGetAllKeysPressAllbuttons-AQUFN")
 
 addscript(6242296404, "Current Game","Happy Runner [Auto Finish]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Happy%20Runner%20Auto%20Finish.lua", "https://rbxscript.com/post/HappyRunnerAutoFinish-dHLl8")
+
+addscriptexist(7503115095, "Pop It Trading [Scam script]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pop%20It%20Trading%20Scam%20script.lua", "https://rbxscript.com/post/PopItTradingScamscript-zAh4R")
