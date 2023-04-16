@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 21:38:44"
+lastupdate = "GMT +1: 16.04.2023 21:38:48"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -16671,3 +16671,5 @@ addscriptexist(8884334497, "Mining Clicker Simulator [Auto Farm]", "pulled from 
 addscriptexist(7860844204, "Life Sentence [Auto Workout]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Life%20Sentence%20Auto%20Workout.lua", "https://rbxscript.com/post/LifeSentenceAutoWorkout-Xrz5t")
 
 addscriptexist(8884334497, "Mining Clicker Simulator [GUI - Auto Farming]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mining%20Clicker%20Simulator%20GUI%20%20Auto%20Farming.lua", "https://rbxscript.com/post/MiningClickerSimulatorGUIAutoFarming-yrfdR")
+
+addscriptexist(9666226803, "Motel Simulator [Infinite Kitchen Supplies]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Motel%20Simulator%20Infinite%20Kitchen%20Supplies.lua", "https://rbxscript.com/post/MotelSimulatorInfiniteKitchenSupplies-ySfnW")
