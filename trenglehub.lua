@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 21:36:10"
+lastupdate = "GMT +1: 16.04.2023 21:36:13"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -16595,3 +16595,5 @@ addscript(3522803956, "Current Game","De Pride Isle Sanatorium [Anticheat bypass
 addscriptexist(5901548022, "Try To Die [Change Stat]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Try%20To%20Die%20Change%20Stat.lua", "https://rbxscript.com/post/TryToDieChangeStat-4eCrB")
 
 addscriptexist(4490140733, "My Restaurant [Many Cash]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/My%20Restaurant%20Many%20Cash.lua", "https://rbxscript.com/post/MyRestaurantManyCash-832qa")
+
+addscriptexist(5041144419, "SCP: Roleplay [Sabotage Transformer, Auto Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SCP%20Roleplay%20Sabotage%20Transformer%20Auto%20Farm.lua", "https://rbxscript.com/post/SCPRoleplaySabotageTransformerAutoFarm-OQw8z")
