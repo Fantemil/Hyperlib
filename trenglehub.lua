@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 22:48:34"
+lastupdate = "GMT +1: 16.04.2023 22:48:37"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18685,3 +18685,5 @@ addscriptexist(3101667897, "Legends Of Speed [Auto Farm Orbs, Auto Farm Hoops, A
 addscriptexist(8737602449, "PLS DONATE [The inscription on the pole shows]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PLS%20DONATE%20The%20inscription%20on%20the%20pole%20shows.lua", "https://rbxscript.com/post/PLSDONATETheinscriptiononthepoleshows-vh0P")
 
 addscriptexist(5490351219, "Clicker Madness [Auto Tap, Decline Trades, Get All Gamepasses]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Clicker%20Madness%20Auto%20Tap%20Decline%20Trades%20Get%20All%20Gamepasses.lua", "https://rbxscript.com/post/ClickerMadnessAutoTapDeclineTradesGetAllGamepasses-pSpms")
+
+addscriptexist(8603729161, "Walk 50k studs for nothing [Get Badges]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Walk%20k%20studs%20for%20nothing%20Get%20Badges.lua", "https://rbxscript.com/post/Walk50kstudsfornothingGetBadges-pT8Xz")
