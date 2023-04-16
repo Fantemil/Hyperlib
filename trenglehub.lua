@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 21:40:10"
+lastupdate = "GMT +1: 16.04.2023 21:40:16"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -16711,3 +16711,5 @@ addscriptexist(7991339063, "Rainbow Friends [GodMode, AutoWin]", "pulled from rb
 addscript(5201688943, "Current Game","Da hood [ESP]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Da%20hood%20ESP.lua", "https://rbxscript.com/post/DahoodESP-6eCwk")
 
 addscriptexist(6939849554, "Cart Ride Tycoon thru a Cave 2 [Auto farm cash]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Cart%20Ride%20Tycoon%20thru%20a%20Cave%20%20Auto%20farm%20cash.lua", "https://rbxscript.com/post/CartRideTycoonthruaCave2Autofarmcash-eQWuc")
+
+addscript(3234050617, "Current Game","Left 2 Die [Infinite Ammo]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Left%20%20Die%20Infinite%20Ammo.lua", "https://rbxscript.com/post/Left2DieInfiniteAmmo-CeGdA")
