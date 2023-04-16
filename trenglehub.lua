@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 22:34:10"
+lastupdate = "GMT +1: 16.04.2023 22:34:13"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18253,3 +18253,5 @@ addscriptexist(8123652942, "Legend Piece [Fruit Changer]", "pulled from rbxscrip
 addscriptexist(9031522337, "RPG Legends [GUI - God Mode, Invisible Name & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RPG%20Legends%20GUI%20%20God%20Mode%20Invisible%20Name%20%20More.lua", "https://rbxscript.com/post/RPGLegendsGUIGodModeInvisibleNameMore-WdCpW")
 
 addscriptexist(6766156863, "Strongman [Wimbledon Event Auto Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Strongman%20Wimbledon%20Event%20Auto%20Farm.lua", "https://rbxscript.com/post/StrongmanWimbledonEventAutoFarm-rDxb")
+
+addscript(5136715979, "Current Game","Cave Simulator [Inf ores]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Cave%20Simulator%20Inf%20ores.lua", "https://rbxscript.com/post/CaveSimulatorInfores-pKXLV")
