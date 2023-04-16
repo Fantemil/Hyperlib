@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 22:24:28"
+lastupdate = "GMT +1: 16.04.2023 22:24:32"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -17963,3 +17963,5 @@ addscriptexist(35397735, "Scuba Diving at Quill Lake [Inf Gold]", "pulled from r
 addscriptexist(35397735, "Scuba Diving at Quill Lake [God mode]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Scuba%20Diving%20at%20Quill%20Lake%20God%20mode.lua", "https://rbxscript.com/post/ScubaDivingatQuillLakeGodmode-4Sjou")
 
 addscriptexist(863266079, "Apocalypse Rising 2 [Teleport To Player]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Apocalypse%20Rising%20%20Teleport%20To%20Player.lua", "https://rbxscript.com/post/ApocalypseRising2TeleportToPlayer-OV4k4")
+
+addscriptexist(7026949294, "Sword Simulator [AutoFarm - Infinite Coins - More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sword%20Simulator%20AutoFarm%20%20Infinite%20Coins%20%20More.lua", "https://rbxscript.com/post/SwordSimulatorAutoFarmInfiniteCoinsMore-tKBKD")
