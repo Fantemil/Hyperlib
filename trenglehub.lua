@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 21:52:29"
+lastupdate = "GMT +1: 16.04.2023 21:52:33"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -17055,3 +17055,5 @@ addscriptexist(7655745946, "Dunking Simulator [Free Avatar Items]", "pulled from
 addscript(9817495903, "Current Game","Impossible Red Light, Green Light! [Teleport To The Finish Line]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Impossible%20Red%20Light%20Green%20Light%20Teleport%20To%20The%20Finish%20Line.lua", "https://rbxscript.com/post/ImpossibleRedLightGreenLightTeleportToTheFinishLine-5ESSk")
 
 addscriptexist(292439477, "Phantom Forces [Granade Aimbot]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Phantom%20Forces%20Granade%20Aimbot.lua", "https://rbxscript.com/post/PhantomForcesGranadeAimbot-6N6KA")
+
+addscript(7115420363, "Current Game","The Booth Plaza [Bypassed Images]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/The%20Booth%20Plaza%20Bypassed%20Images.lua", "https://rbxscript.com/post/TheBoothPlazaBypassedImages-KKDss")
