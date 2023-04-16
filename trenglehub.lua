@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 22:51:59"
+lastupdate = "GMT +1: 16.04.2023 22:52:02"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18785,3 +18785,5 @@ addscriptexist(292439477, "Phantom Forces [Open Source ESP]", "pulled from rbxsc
 addscriptexist(6143963763, "Untitled Combat Arena [Auto Farm Money]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Untitled%20Combat%20Arena%20Auto%20Farm%20Money.lua", "https://rbxscript.com/post/UntitledCombatArenaAutoFarmMoney-HyzF1")
 
 addscriptexist(2768379856, "3008 [2.7] [Admin Spoofer]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/%20%20Admin%20Spoofer.lua", "https://rbxscript.com/post/Admin3008Spoofer-OwDXW")
+
+addhub("x2SPETER HUB [5 Games]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/xSPETER%20HUB%20%20Games.lua", "https://rbxscript.com/post/x2SPETERHUB5Games-gPzIY")
