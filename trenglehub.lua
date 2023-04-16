@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 22:01:58"
+lastupdate = "GMT +1: 16.04.2023 22:02:02"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -17311,3 +17311,5 @@ addscriptexist(4581966615, "Anomic [Combat ready auto heal, Bonfire’s backpack
 addscriptexist(286090429, "Arsenal [Aimbot, Esp, no Recoil]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Arsenal%20Aimbot%20Esp%20no%20Recoil.lua", "https://rbxscript.com/post/ArsenalAimbotEspnoRecoil-u1y0G")
 
 addscriptexist(7009799230, "Pressure Wash Simulator [GUI - Inf Money & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pressure%20Wash%20Simulator%20GUI%20%20Inf%20Money%20%20More.lua", "https://rbxscript.com/post/PressureWashSimulatorGUIInfMoneyMore-rI7YC")
+
+addscript(9397663086, "Current Game","Ninja Training Simulator [Auto Farm & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ninja%20Training%20Simulator%20Auto%20Farm%20%20More.lua", "https://rbxscript.com/post/NinjaTrainingSimulatorAutoFarmMore-7AcwZ")
