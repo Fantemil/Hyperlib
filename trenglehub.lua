@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 22:32:29"
+lastupdate = "GMT +1: 16.04.2023 22:32:33"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18203,3 +18203,5 @@ addscriptexist(8596411742, "Barb Blox Lane [Auto Farm]", "pulled from rbxscript.
 addscriptexist(4282985734, "Combat Warriors [Auto Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Combat%20Warriors%20Auto%20Farm.lua", "https://rbxscript.com/post/CombatWarriorsAutoFarm-O444Y")
 
 addscript(6558526079, "Current Game","Anime World Tower Defence [Mess Up Servers]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime%20World%20Tower%20Defence%20Mess%20Up%20Servers.lua", "https://rbxscript.com/post/AnimeWorldTowerDefenceMessUpServers-vI1f")
+
+addscriptexist(9601565001, "Car Crash System [Delete Anything]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Car%20Crash%20System%20Delete%20Anything.lua", "https://rbxscript.com/post/CarCrashSystemDeleteAnything-FBGj")
