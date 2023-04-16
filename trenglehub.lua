@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 22:54:44"
+lastupdate = "GMT +1: 16.04.2023 22:54:47"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18861,3 +18861,5 @@ addscriptexist(9737855826, "Trade Simulator [Auto Buyer - Item Sniper]", "pulled
 addscriptexist(5927697884, "Orange Colored Skies [Gun Mod]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Orange%20Colored%20Skies%20Gun%20Mod.lua", "https://rbxscript.com/post/OrangeColoredSkiesGunMod-BQEcf")
 
 addscriptexist(8992150289, "Anime Sword Simulator [Get All Gamepasses]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime%20Sword%20Simulator%20Get%20All%20Gamepasses.lua", "https://rbxscript.com/post/AnimeSwordSimulatorGetAllGamepasses-dnWNi")
+
+addscriptexist(4459593483, "FORCE [PRE-ALPHA] [Auto Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FORCE%20PREALPHA%20Auto%20Farm.lua", "https://rbxscript.com/post/FORCEPREALPHAAutoFarm-CBwL")
