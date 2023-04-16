@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 22:43:15"
+lastupdate = "GMT +1: 16.04.2023 22:43:19"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18525,3 +18525,5 @@ addscript(6924952561, "Current Game","Clover City [Fly]", "pulled from rbxscript
 addscriptexist(7839440834, "Sea Cleaning Simulator [Modify Boat Speed, No slow down effect, Auto Sell Trash]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sea%20Cleaning%20Simulator%20Modify%20Boat%20Speed%20No%20slow%20down%20effect%20Auto%20Sell%20Trash.lua", "https://rbxscript.com/post/SeaCleaningSimulatorModifyBoatSpeedNoslowdowneffectAutoSellTrash-x3bjP")
 
 addscriptexist(4540286603, "NORTHWIND [Crash Server]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NORTHWIND%20Crash%20Server.lua", "https://rbxscript.com/post/NORTHWINDCrashServer-G1wwp")
+
+addscriptexist(2788229376, "Da Hood [invis, Jumpscare, Scary Music]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Da%20Hood%20invis%20Jumpscare%20Scary%20Music.lua", "https://rbxscript.com/post/DaHoodinvisJumpscareScaryMusic-y0IyN")
