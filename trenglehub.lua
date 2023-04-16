@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 22:39:07"
+lastupdate = "GMT +1: 16.04.2023 22:39:10"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18399,3 +18399,5 @@ addscriptexist(142823291, "Murder Mystery 2 [GUI - ESP, Fake Knife & More!]", "p
 addscriptexist(1224212277, "Mad City [GUI - Auto Rob, Teleports & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mad%20City%20GUI%20%20Auto%20Rob%20Teleports%20%20More.lua", "https://rbxscript.com/post/MadCityGUIAutoRobTeleportsMore-bjKKD")
 
 addhub("Roblox [Ewyzu Hub]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Roblox%20Ewyzu%20Hub.lua", "https://rbxscript.com/post/RobloxEwyzuHub-uK6YX")
+
+addscript(9751569460, "Current Game","ARCH PIECE [Auto Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ARCH%20PIECE%20Auto%20Farm.lua", "https://rbxscript.com/post/ARCHPIECEAutoFarm-hGdn9")
