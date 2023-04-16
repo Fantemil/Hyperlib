@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 22:48:46"
+lastupdate = "GMT +1: 16.04.2023 22:48:50"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18691,3 +18691,5 @@ addscriptexist(8603729161, "Walk 50k studs for nothing [Get Badges]", "pulled fr
 addscriptexist(6788434697, "AniPhobia [Infinite Ammo & Much More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AniPhobia%20Infinite%20Ammo%20%20Much%20More.lua", "https://rbxscript.com/post/AniPhobiaInfiniteAmmoMuchMore-cihC0")
 
 addscriptexist(9551640993, "Mining Simulator 2 [Utilities]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mining%20Simulator%20%20Utilities.lua", "https://rbxscript.com/post/MiningSimulator2Utilities-0YRxb")
+
+addscriptexist(3101667897, "Legends Of Speed [Steps Farm, Gems Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Legends%20Of%20Speed%20Steps%20Farm%20Gems%20Farm.lua", "https://rbxscript.com/post/LegendsOfSpeedStepsFarmGemsFarm-Cf9UG")
