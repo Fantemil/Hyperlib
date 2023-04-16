@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 22:37:44"
+lastupdate = "GMT +1: 16.04.2023 22:37:48"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18359,3 +18359,5 @@ addscriptexist(180037022, "Sonic Ultimate RPG [Collect All Chaos Emeralds & All 
 addscriptexist(286090429, "Arsenal [AFK Arsenal AI Bot]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Arsenal%20AFK%20Arsenal%20AI%20Bot.lua", "https://rbxscript.com/post/ArsenalAFKArsenalAIBot-ztcki")
 
 addscript(9559194006, "Current Game","social experiment [Infinite Stamina & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/social%20experiment%20Infinite%20Stamina%20%20More.lua", "https://rbxscript.com/post/socialexperimentInfiniteStaminaMore-0OjEQ")
+
+addscript(6143963763, "Current Game","Universal [No Stun / No Slow]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20No%20Stun%20%20No%20Slow.lua", "https://rbxscript.com/post/UniversalNoStunNoSlow-EXO1b")
