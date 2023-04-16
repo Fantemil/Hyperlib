@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 22:55:24"
+lastupdate = "GMT +1: 16.04.2023 22:55:28"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18881,3 +18881,5 @@ addscriptexist(2202352383, "Super Power Training Simulator [Auto Farm]", "pulled
 addscriptexist(292439477, "Phantom Forces [Unlock All Guns - Admin Guns]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Phantom%20Forces%20Unlock%20All%20Guns%20%20Admin%20Guns.lua", "https://rbxscript.com/post/PhantomForcesUnlockAllGunsAdminGuns-ue9O")
 
 addscriptexist(6728870912, "World of Stands [Inf Gold, Masks & God Mode]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/World%20of%20Stands%20Inf%20Gold%20Masks%20%20God%20Mode.lua", "https://rbxscript.com/post/WorldofStandsInfGoldMasksGodMode-CvbUR")
+
+addscript(1927139201, "Current Game","Day of Dusk - The Border [Auto Mine Ores]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Day%20of%20Dusk%20%20The%20Border%20Auto%20Mine%20Ores.lua", "https://rbxscript.com/post/DayofDuskTheBorderAutoMineOres-sWZ4j")
