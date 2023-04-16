@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 21:59:51"
+lastupdate = "GMT +1: 16.04.2023 21:59:55"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -17255,3 +17255,5 @@ addscriptexist(5571328985, "Bloodlines [Infinite Cash & More!]", "pulled from rb
 addscriptexist(9702206679, "Heroes Daydream [Auto Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Heroes%20Daydream%20Auto%20Farm.lua", "https://rbxscript.com/post/HeroesDaydreamAutoFarm-2yUdF")
 
 addscriptexist(10204556059, "NARS Color Quest [Auto Collect All Shades - Complete All]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NARS%20Color%20Quest%20Auto%20Collect%20All%20Shades%20%20Complete%20All.lua", "https://rbxscript.com/post/NARSColorQuestAutoCollectAllShadesCompleteAll-NeaNm")
+
+addscriptexist(10118559731, "nico`s nextbots [BHOP]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/nicos%20nextbots%20BHOP.lua", "https://rbxscript.com/post/nicosnextbotsBHOP-Q8mla")
