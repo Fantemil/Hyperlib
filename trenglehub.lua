@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 22:22:17"
+lastupdate = "GMT +1: 16.04.2023 22:22:21"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -17899,3 +17899,5 @@ addscriptexist(653205701, "Fort Martin, Military Base [jumping]", "pulled from r
 addscript(9936860371, "Current Game","Egg Packing Tycoon [Semi Autofarm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Egg%20Packing%20Tycoon%20Semi%20Autofarm.lua", "https://rbxscript.com/post/EggPackingTycoonSemiAutofarm-cxbVT")
 
 addscriptexist(1730877806, "Grand Piece Online [Bounty Esp]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Grand%20Piece%20Online%20Bounty%20Esp.lua", "https://rbxscript.com/post/GrandPieceOnlineBountyEsp-rcWqy")
+
+addscript(9396463375, "Current Game","Mining Empire [Infinite Vouchers]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mining%20Empire%20Infinite%20Vouchers.lua", "https://rbxscript.com/post/MiningEmpireInfiniteVouchers-Zk3x2")
