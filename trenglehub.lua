@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 21:55:55"
+lastupdate = "GMT +1: 16.04.2023 21:56:01"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -17147,3 +17147,5 @@ addscript(9377039667, "Current Game","Roblox Innovation Awards Voting Hub [All H
 addscriptexist(9551640993, "Mining Simulator 2 [Block Aura, AutoSell]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mining%20Simulator%20%20Block%20Aura%20AutoSell.lua", "https://rbxscript.com/post/MiningSimulator2BlockAuraAutoSell-DS8JA")
 
 addscriptexist(7127407851, "Attack on Titan: Evolution [Fly Toggle,Walkspeed, Insta Kill]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Attack%20on%20Titan%20Evolution%20Fly%20ToggleWalkspeed%20Insta%20Kill.lua", "https://rbxscript.com/post/AttackonTitanEvolutionFlyToggleWalkspeedInstaKill-wlwZi")
+
+addscript(9926433554, "Current Game","Blast Mining Simulator [Auto Give Money, Anti Idlem Auto Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blast%20Mining%20Simulator%20Auto%20Give%20Money%20Anti%20Idlem%20Auto%20Farm.lua", "https://rbxscript.com/post/BlastMiningSimulatorAutoGiveMoneyAntiIdlemAutoFarm-RI45w")
