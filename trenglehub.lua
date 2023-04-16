@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 21:31:59"
+lastupdate = "GMT +1: 16.04.2023 21:32:06"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -16475,3 +16475,5 @@ addscriptexist(8458333139, "1 LIGE [Auto Farm]", "pulled from rbxscript.com", "h
 addscriptexist(2377868063, "ZONE WAR!! Strucid [Silent Aim, ESP]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ZONE%20WAR%20Strucid%20Silent%20Aim%20ESP.lua", "https://rbxscript.com/post/ZONEWARStrucidSilentAimESP-FEzg3")
 
 addscriptexist(2768379856, "SCP 3008 [Water Compatible, Give Items]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SCP%20%20Water%20Compatible%20Give%20Items.lua", "https://rbxscript.com/post/SCP3008WaterCompatibleGiveItems-bLy0Y")
+
+addscriptexist(9585537847, "SHADOVIS RPG [Auto Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SHADOVIS%20RPG%20Auto%20Farm.lua", "https://rbxscript.com/post/SHADOVISRPGAutoFarm-ZnGbA")
