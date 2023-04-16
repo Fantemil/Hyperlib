@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 21:36:26"
+lastupdate = "GMT +1: 16.04.2023 21:36:30"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -16603,3 +16603,5 @@ addscriptexist(142823291, "Murder Mystery 2 [Fly, BTools]", "pulled from rbxscri
 addscriptexist(9666226803, "Motel Simulator [Auto Farm, Walkspeed]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Motel%20Simulator%20Auto%20Farm%20Walkspeed.lua", "https://rbxscript.com/post/MotelSimulatorAutoFarmWalkspeed-wPYXE")
 
 addscriptexist(8818978508, "Space Simulator Reborn [Auto Sell, Auto Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Space%20Simulator%20Reborn%20Auto%20Sell%20Auto%20Farm.lua", "https://rbxscript.com/post/SpaceSimulatorRebornAutoSellAutoFarm-eEFJf")
+
+addscriptexist(8657766101, "Marvellous Playground [Gamepass]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Marvellous%20Playground%20Gamepass.lua", "https://rbxscript.com/post/MarvellousPlaygroundGamepass-wkjE2")
