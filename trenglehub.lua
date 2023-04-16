@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 22:38:18"
+lastupdate = "GMT +1: 16.04.2023 22:38:22"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18375,3 +18375,5 @@ addscript(3044285976, "Current Game","BloxRP [Fist, Melee Kill Aura]", "pulled f
 addscriptexist(8619263259, "Critical Legends [Loot All Chests]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Critical%20Legends%20Loot%20All%20Chests.lua", "https://rbxscript.com/post/CriticalLegendsLootAllChests-vFixc")
 
 addscriptexist(7261261021, "Raging Seas [Infinite Stamina]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Raging%20Seas%20Infinite%20Stamina.lua", "https://rbxscript.com/post/RagingSeasInfiniteStamina-cL7jF")
+
+addscriptexist(9551640993, "Mining Simulator 2 [Fake Hatcher GUI]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mining%20Simulator%20%20Fake%20Hatcher%20GUI.lua", "https://rbxscript.com/post/MiningSimulator2FakeHatcherGUI-giXEW")
