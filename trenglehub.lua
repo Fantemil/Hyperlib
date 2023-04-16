@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 22:17:53"
+lastupdate = "GMT +1: 16.04.2023 22:17:57"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -17769,3 +17769,5 @@ addscriptexist(7075737729, "Hoop Central 6 [Auto Dunk]", "pulled from rbxscript.
 addscript(9974958703, "Current Game","Fruit Piece [Infinite Stats]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Fruit%20Piece%20Infinite%20Stats.lua", "https://rbxscript.com/post/FruitPieceInfiniteStats-bN3SI")
 
 addscriptexist(7182546997, "Attack on Titan Vengeance [Auto Farm Titan]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Attack%20on%20Titan%20Vengeance%20Auto%20Farm%20Titan.lua", "https://rbxscript.com/post/AttackonTitanVengeanceAutoFarmTita-cJJxu")
+
+addscriptexist(7182546997, "Attack on Titan Vengeance [Berserker Auto Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Attack%20on%20Titan%20Vengeance%20Berserker%20Auto%20Farm.lua", "https://rbxscript.com/post/AttackonTitanVengeanceBerserkerAutoFarm-9iIpl")
