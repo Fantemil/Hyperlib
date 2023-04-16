@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 21:56:24"
+lastupdate = "GMT +1: 16.04.2023 21:56:28"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -17161,3 +17161,5 @@ addhub("Roblox [Argon Hub]", "pulled from rbxscript.com", "https://raw.githubuse
 addscriptexist(8267733039, "Specter 2 [Detect Fingerprints, FullBright, Unlock Third Person]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Specter%20%20Detect%20Fingerprints%20FullBright%20Unlock%20Third%20Person.lua", "https://rbxscript.com/post/Specter2DetectFingerprintsFullBrightUnlockThirdPerson-vKi50")
 
 addscriptexist(4581966615, "Anomic [Auto Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anomic%20Auto%20Farm.lua", "https://rbxscript.com/post/AnomicAutoFarm-A11sH")
+
+addscriptexist(292439477, "Phantom Forces [ESP]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Phantom%20Forces%20ESP.lua", "https://rbxscript.com/post/PhantomForcesESP-luIyB")
