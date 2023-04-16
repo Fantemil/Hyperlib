@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 22:41:16"
+lastupdate = "GMT +1: 16.04.2023 22:41:19"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18467,3 +18467,5 @@ addhub("Arctic Hub [3 Games]", "pulled from rbxscript.com", "https://raw.githubu
 addscriptexist(2788229376, "Da Hood [GUI - Aimlock, KillBot & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Da%20Hood%20GUI%20%20Aimlock%20KillBot%20%20More.lua", "https://rbxscript.com/post/DaHoodGUIAimlockKillBotMore-Y0uU7")
 
 addscriptexist(893973440, "Flee the Facility [GUI - Esp, Teleports]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Flee%20the%20Facility%20GUI%20%20Esp%20Teleports.lua", "https://rbxscript.com/post/FleetheFacilityGUIEspTeleport-4Y5Yf")
+
+addscript(8743251051, "Current Game","Avalanche [God Mode]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Avalanche%20God%20Mode.lua", "https://rbxscript.com/post/AvalancheGodMode-vA5o")
