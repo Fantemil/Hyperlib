@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 22:44:36"
+lastupdate = "GMT +1: 16.04.2023 22:44:40"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18567,3 +18567,5 @@ addscriptexist(28382335, "Zombie Tycoon [GUI OP]", "pulled from rbxscript.com", 
 addscriptexist(1345139196, "Treasure Hunt Simulator [Auto Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Treasure%20Hunt%20Simulator%20Auto%20Farm.lua", "https://rbxscript.com/post/TreasureHuntSimulatorAutoFarm-TXsR6")
 
 addscript(9306912037, "Current Game","Hole In One Simulator [Auto Swing]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Hole%20In%20One%20Simulator%20Auto%20Swing.lua", "https://rbxscript.com/post/HoleInOneSimulatorAutoSwing-5T6mJ")
+
+addscriptexist(198116126, "Tradelands [Auto Farm - Teleport - Walk On Water & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tradelands%20Auto%20Farm%20%20Teleport%20%20Walk%20On%20Water%20%20More.lua", "https://rbxscript.com/post/TradelandsAutoFarmTeleportWalkOnWaterMore-U4HWE")
