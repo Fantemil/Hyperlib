@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 22:20:50"
+lastupdate = "GMT +1: 16.04.2023 22:20:54"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -17855,3 +17855,5 @@ addscript(9344944754, "Current Game","Hunter x Athena [Auto Pushup, Auto Climb, 
 addscriptexist(5130598377, "A Universal Time [GUI - Infinite Attacks- God Mode]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/A%20Universal%20Time%20GUI%20%20Infinite%20Attacks%20God%20Mode.lua", "https://rbxscript.com/post/AUniversalTimeGUIInfiniteAttacksGodMode-DgyXJ")
 
 addscriptexist(413424176, "Clone Tycoon 2 [Infinite Cash]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Clone%20Tycoon%20%20Infinite%20Cash.lua", "https://rbxscript.com/post/CloneTycoon2InfiniteCash-83THU")
+
+addscriptexist(3101667897, "Legends Of Speed [Auto Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Legends%20Of%20Speed%20Auto%20Farm.lua", "https://rbxscript.com/post/LegendsOfSpeedAutoFarm-xb6F9")
