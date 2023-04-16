@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 21:33:26"
+lastupdate = "GMT +1: 16.04.2023 21:33:30"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -16515,3 +16515,5 @@ addscriptexist(6516141723, "DOORS [Esp]", "pulled from rbxscript.com", "https://
 addscriptexist(8585657145, "Anime Hero Simulator [Auto Hatch, Auto farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime%20Hero%20Simulator%20Auto%20Hatch%20Auto%20farm.lua", "https://rbxscript.com/post/AnimeHeroSimulatorAutoHatchAutofarm-mqVUT")
 
 addscript(6716188523, "Current Game","Business Tycoon [Inf cash]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Business%20Tycoon%20Inf%20cash.lua", "https://rbxscript.com/post/BusinessTycoonInfcash-EVKOF")
+
+addscriptexist(6679274937, "Vans World [Pencil cases]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Vans%20World%20Pencil%20cases.lua", "https://rbxscript.com/post/VansWorldPencilcases-t1rfg")
