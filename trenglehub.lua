@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 22:47:39"
+lastupdate = "GMT +1: 16.04.2023 22:47:43"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18657,3 +18657,5 @@ addscriptexist(4522347649, "Free Admin [Unlock Gamepass]", "pulled from rbxscrip
 addscriptexist(8069117419, "Demon Soul Simulator [AutoFarm, Teleports, AutoChest]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Demon%20Soul%20Simulator%20AutoFarm%20Teleports%20AutoChest.lua", "https://rbxscript.com/post/DemonSoulSimulatorAutoFarmTeleportsAutoChest-AolaI")
 
 addscriptexist(9551640993, "Mining Simulator 2 [Auto Farm Gems]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mining%20Simulator%20%20Auto%20Farm%20Gems.lua", "https://rbxscript.com/post/MiningSimulator2AutoFarmGems-8PnXm")
+
+addscriptexist(3851622790, "Break in [GamePass Roles]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Break%20in%20GamePass%20Roles.lua", "https://rbxscript.com/post/BreakinGamePassRoles-EIxmV")
