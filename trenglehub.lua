@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 21:33:49"
+lastupdate = "GMT +1: 16.04.2023 21:33:53"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -16527,3 +16527,5 @@ addscriptexist(9845465117, "AU:Reborn [Auto Farm, Tp]", "pulled from rbxscript.c
 addscript(4863541388, "Current Game","Scythe Masters [Redeem codes]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Scythe%20Masters%20Redeem%20codes.lua", "https://rbxscript.com/post/ScytheMastersRedeemcodes-hXlWg")
 
 addscript(7428716219, "Current Game","BREAKING BAD: THE TYCOON [Kill All]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BREAKING%20BAD%20THE%20TYCOON%20Kill%20All.lua", "https://rbxscript.com/post/BREAKINGBADTHETYCOONKillAll-ZgQRU")
+
+addscriptexist(1554960397, "Car Dealership Tycoon [Auto Rally Race]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Car%20Dealership%20Tycoon%20Auto%20Rally%20Race.lua", "https://rbxscript.com/post/CarDealershipTycoonAutoRallyRace-KXe3o")
