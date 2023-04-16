@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 22:37:18"
+lastupdate = "GMT +1: 16.04.2023 22:37:21"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18347,3 +18347,5 @@ addscriptexist(4459593483, "FORCE [Sell Trinkets]", "pulled from rbxscript.com",
 addscriptexist(9772878203, "Raise A Floppa 2 [GUI - Auto Click Floppa, Auto Collect & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Raise%20A%20Floppa%20%20GUI%20%20Auto%20Click%20Floppa%20Auto%20Collect%20%20More.lua", "https://rbxscript.com/post/RaiseAFloppa2GUIAutoClickFloppaAutoCollectMore-nWsUw")
 
 addscriptexist(9568982793, "Da Hood Battlegrounds [Instant Kill]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Da%20Hood%20Battlegrounds%20Instant%20Kill.lua", "https://rbxscript.com/post/DaHoodBattlegroundsInstantKill-5fQIQ")
+
+addscriptexist(606849621, "Jailbreak [Keycard, Unlock Doors]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Jailbreak%20Keycard%20Unlock%20Doors.lua", "https://rbxscript.com/post/JailbreakKeycardUnlockDoors-GTEQy")
