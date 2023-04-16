@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 21:24:13"
+lastupdate = "GMT +1: 16.04.2023 21:24:17"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -16257,3 +16257,5 @@ addscriptexist(8540346411, "Rebirth Champions X [Auto Buy, Auto Clicker]", "pull
 addscriptexist(2788229376, "Da Hood [Trash Talk]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Da%20Hood%20Trash%20Talk.lua", "https://rbxscript.com/post/DaHoodTrashTalk-LztR9")
 
 addscriptuniversal("Roblox Universal Script [FE Rich Items]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Roblox%20Universal%20Script%20FE%20Rich%20Items.lua", "https://rbxscript.com/post/RobloxUniversalScriptFERichItems-h2Q57")
+
+addscriptuniversal("Roblox Universal Script [Bot Killsay]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Roblox%20Universal%20Script%20Bot%20Killsay.lua", "https://rbxscript.com/post/RobloxUniversalScriptBotKillsay-P91K8")
