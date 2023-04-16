@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 22:08:27"
+lastupdate = "GMT +1: 16.04.2023 22:08:31"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -17495,3 +17495,5 @@ addscriptexist(2546155523, "RoVille [Auto Farm Jobs]", "pulled from rbxscript.co
 addscriptexist(5956785391, "Project Slayers [GUI - Auto Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Project%20Slayers%20GUI%20%20Auto%20Farm.lua", "https://rbxscript.com/post/ProjectSlayersGUIAutoFarm-ktnVH")
 
 addscriptexist(2768379856, "3008 [Auto collect food, medkits]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/%20Auto%20collect%20food%20medkits.lua", "https://rbxscript.com/post/Autocollectfoodmedkits-q5zxu")
+
+addscriptexist(4863541388, "Scythe Masters [Fast Strength Auto Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Scythe%20Masters%20Fast%20Strength%20Auto%20Farm.lua", "https://rbxscript.com/post/ScytheMastersFastStrengthAutoFarm-dajDy")
