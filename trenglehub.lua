@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 21:43:43"
+lastupdate = "GMT +1: 16.04.2023 21:43:47"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -16809,3 +16809,5 @@ addscriptexist(292439477, "Phantom Forces [Free Chams]", "pulled from rbxscript.
 addscriptexist(5130598377, "A Universal Time [Quest Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/A%20Universal%20Time%20Quest%20Farm.lua", "https://rbxscript.com/post/AUniversalTimeQuestFarm-SEz4l")
 
 addscriptexist(3346617530, "Freeze Tag Extreme [Anti Admin & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Freeze%20Tag%20Extreme%20Anti%20Admin%20%20More.lua", "https://rbxscript.com/post/FreezeTagExtremeAntiAdminMore-iOE0c")
+
+addscriptexist(7009799230, "Pressure Wash Simulator [Infinite Money]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pressure%20Wash%20Simulator%20Infinite%20Money.lua", "https://rbxscript.com/post/PressureWashSimulatorInfiniteMoney-QcNik")
