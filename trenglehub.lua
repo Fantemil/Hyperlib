@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 22:19:31"
+lastupdate = "GMT +1: 16.04.2023 22:19:37"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -17819,3 +17819,5 @@ addscriptexist(10118559731, "Nico’s Nextbots [Bots Esp - Teleport To Safezone]
 addscriptexist(5307215810, "Randomizer [Esp, Aimbot, WalkSPeed]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Randomizer%20Esp%20Aimbot%20WalkSPeed.lua", "https://rbxscript.com/post/RandomizerEspAimbotWalkSPeed-4oKtx")
 
 addscript(9597319358, "Current Game","Actors Tycoon [AutoFarm Buttons, Auto Upgrade Workers, Working on mobile]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Actors%20Tycoon%20AutoFarm%20Buttons%20Auto%20Upgrade%20Workers%20Working%20on%20mobile.lua", "https://rbxscript.com/post/ActorsTycoonAutoFarmButtonsAutoUpgrade-dLLQm")
+
+addscript(9845529187, "Current Game","Tidewater [Annoy All]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tidewater%20Annoy%20All.lua", "https://rbxscript.com/post/TidewaterAnnoyAll-GzYjj")
