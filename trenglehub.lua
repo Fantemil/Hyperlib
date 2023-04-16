@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 21:46:58"
+lastupdate = "GMT +1: 16.04.2023 21:47:01"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -16895,3 +16895,5 @@ addscript(10086890480, "Current Game","Clicking Simulator [Shiny King Tophat Giv
 addhub("Hydra Hub UI", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Hydra%20Hub%20UI.lua", "https://rbxscript.com/post/HydraHubUI-uYwSi")
 
 addscriptexist(9845465117, "AU:Reborn [Invisible]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AUReborn%20Invisible.lua", "https://rbxscript.com/post/AURebornInvisible-fFvYZ")
+
+addscriptexist(7127407851, "Attack On Titan: Evolution [Infinite Gas & MORE!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Attack%20On%20Titan%20Evolution%20Infinite%20Gas%20%20MORE.lua", "https://rbxscript.com/post/AttackOnTitanEvolutionInfiniteGasMORE-aAbsr")
