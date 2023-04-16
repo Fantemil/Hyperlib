@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 21:34:48"
+lastupdate = "GMT +1: 16.04.2023 21:34:52"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -16555,3 +16555,5 @@ addscriptexist(5041144419, "SCP: Roleplay [Auto Farm, Teleports]", "pulled from 
 addscriptexist(6403373529, "Slap Battles [Auto Slapples]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Slap%20Battles%20Auto%20Slapples.lua", "https://rbxscript.com/post/SlapBattlesAutoSlapples-kwvqc")
 
 addscriptexist(9585537847, "SHADOVIS RPG [Kill Aura]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SHADOVIS%20RPG%20Kill%20Aura.lua", "https://rbxscript.com/post/SHADOVISRPGKillAura-YiTTF")
+
+addscriptexist(537413528, "Build A Boat For Treasure [Auto Farm, Teleport]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Build%20A%20Boat%20For%20Treasure%20Auto%20Farm%20Teleport.lua", "https://rbxscript.com/post/BuildABoatForTreasureAutoFarmTeleport-RgNGB")
