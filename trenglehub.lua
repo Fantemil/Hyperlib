@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 22:04:10"
+lastupdate = "GMT +1: 16.04.2023 22:04:14"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -17375,3 +17375,5 @@ addscript(4456070441, "Current Game","Mayday [AimBot, ESP. GunMod]", "pulled fro
 addscriptexist(2768379856, "SCP-3008 [Auto Collect]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SCP%20Auto%20Collect.lua", "https://rbxscript.com/post/SCP3008AutoCollect-zaSqv")
 
 addscriptexist(7180042682, "Military Tycoon [Collect all batteries]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Military%20Tycoon%20Collect%20all%20batteries.lua", "https://rbxscript.com/post/MilitaryTycoonCollectallbatteries-KAQvy")
+
+addscriptexist(1224212277, "Mad City: Chapter 2 [Faster Auto Rob]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mad%20City%20Chapter%20%20Faster%20Auto%20Rob.lua", "https://rbxscript.com/post/MadCityChapter2FasterAutoRob-sdzRE")
