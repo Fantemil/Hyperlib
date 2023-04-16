@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 22:40:03"
+lastupdate = "GMT +1: 16.04.2023 22:40:07"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18429,3 +18429,5 @@ addscript(7839440834, "Current Game","Sea Cleaning Simulator [Modify Boat Speed 
 addscriptexist(9609300403, "Jackpot [Auto Case Sell]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Jackpot%20Auto%20Case%20Sell.lua", "https://rbxscript.com/post/JackpotAutoCaseSell-OB7zu")
 
 addscriptexist(6755746130, "Fruit Juice Tycoon Refreshed [Auto Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Fruit%20Juice%20Tycoon%20Refreshed%20Auto%20Farm.lua", "https://rbxscript.com/post/FruitJuiceTycoonRefreshedAutoFarm-dUBCW")
+
+addscriptexist(4195834406, "Dragon Ball Online Generations [Auto Teleport, Kill PLayer Aura, Esp]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Dragon%20Ball%20Online%20Generations%20Auto%20Teleport%20Kill%20PLayer%20Aura%20Esp.lua", "https://rbxscript.com/post/DragonBallOnlineGenerationsAutoTeleportKillPLayerAuraEsp-UIj9k")
