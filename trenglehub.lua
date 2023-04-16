@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 22:49:12"
+lastupdate = "GMT +1: 16.04.2023 22:49:19"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18705,3 +18705,5 @@ addscriptexist(537413528, "Build A Boat For Treasure [Auto Farm, Redeem all code
 addscriptexist(3956818381, "Ninja Legends [Auto Swing, Auto Sell, Teleport To Coins]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ninja%20Legends%20Auto%20Swing%20Auto%20Sell%20Teleport%20To%20Coins.lua", "https://rbxscript.com/post/NinjaLegendsAutoSwingAutoSellTeleportToCoins-SrXpn")
 
 addscriptexist(8992150289, "Anime Sword Simulator [Full Auto Farm GUI]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime%20Sword%20Simulator%20Full%20Auto%20Farm%20GUI.lua", "https://rbxscript.com/post/AnimeSwordSimulatorFullAutoFarm-om6iJ")
+
+addscriptexist(6728870912, "World of Stands Demo [Auto Farm - Auto Skill - Auto Quest]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/World%20of%20Stands%20Demo%20Auto%20Farm%20%20Auto%20Skill%20%20Auto%20Quest.lua", "https://rbxscript.com/post/WorldofStandsDemoAutoFarm-sTNA8")
