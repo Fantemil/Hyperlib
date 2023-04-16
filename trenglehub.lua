@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 22:07:52"
+lastupdate = "GMT +1: 16.04.2023 22:07:56"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -17479,3 +17479,5 @@ addscriptexist(286090429, "Zeus Hub [4 Games]", "pulled from rbxscript.com", "ht
 addscriptexist(2629642516, "Bitcoin Miner [Anti card lag]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Bitcoin%20Miner%20Anti%20card%20lag.lua", "https://rbxscript.com/post/BitcoinMinerAnticardlag-rwWYg")
 
 addscriptexist(8278412720, "CS Prison Life [Escape From Prison]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CS%20Prison%20Life%20Escape%20From%20Prison.lua", "https://rbxscript.com/post/CSPrisonLifeEscapeFromPrison-SNe0o")
+
+addscriptexist(8278412720, "CS Prison Life [Kill All]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CS%20Prison%20Life%20Kill%20All.lua", "https://rbxscript.com/post/CSPrisonLifeKillAll-hqzNb")
