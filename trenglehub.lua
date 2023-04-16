@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 21:50:19"
+lastupdate = "GMT +1: 16.04.2023 21:50:25"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -16993,3 +16993,5 @@ addscript(4733278992, "Current Game","Sword Blox Online: Rebirth [Kill Aura - Fr
 addscriptexist(6172932937, "Energy Assault [Silent AimBot, Chams, Wall Bang]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Energy%20Assault%20Silent%20AimBot%20Chams%20Wall%20Bang.lua", "https://rbxscript.com/post/EnergyAssaultSilentAimBotChamsWallBang-APB6Z")
 
 addscriptexist(648362523, "Breaking Point [AutoFarm, AutoFarm, AimBot]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Breaking%20Point%20AutoFarm%20AutoFarm%20AimBot.lua", "https://rbxscript.com/post/BreakingPointAutoFarmAutoFarmAimBot-4YsEB")
+
+addscriptexist(9744597824, "Sea Piece [Distance From NPC Slider, Auto Farm Toggle]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sea%20Piece%20Distance%20From%20NPC%20Slider%20Auto%20Farm%20Toggle.lua", "https://rbxscript.com/post/SeaPieceDistanceFromNPCSliderAutoFarmToggleSelectToolDropdown-xeHt9")
