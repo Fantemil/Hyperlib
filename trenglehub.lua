@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 22:30:10"
+lastupdate = "GMT +1: 16.04.2023 22:30:14"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18131,3 +18131,5 @@ addscriptexist(740581508, "Entry Point [Npc Esp]", "pulled from rbxscript.com", 
 addscript(2639416308, "Current Game","Ace Attorney Spam [Spam Custom Massages]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ace%20Attorney%20Spam%20Spam%20Custom%20Massages.lua", "https://rbxscript.com/post/AceAttorneySpamSpamCustomMassages-RCcxC")
 
 addscript(8603729161, "Current Game","walk 50000 studs for nothing [Max studs in under 1 minute]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/walk%20%20studs%20for%20nothing%20Max%20studs%20in%20under%20%20minute.lua", "https://rbxscript.com/post/walk50000studsfornothingMaxstudsinunder1minute-8ebhQ")
+
+addscriptexist(9498006165, "Tapping Simulator [GUI - Auto Rebirth, Auto Upgrades & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tapping%20Simulator%20GUI%20%20Auto%20Rebirth%20Auto%20Upgrades%20%20More.lua", "https://rbxscript.com/post/TappingSimulatorGUIAutoRebirthAutoUpgradesMore-cIqCZ")
