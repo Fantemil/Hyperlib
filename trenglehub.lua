@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 22:51:07"
+lastupdate = "GMT +1: 16.04.2023 22:51:11"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18759,3 +18759,5 @@ addscriptuniversal("Roblox [Universal aimbot, Esp, Hitbox expander]", "pulled fr
 addscriptexist(9249776514, "Givenchy Beauty House [Auro Grab 3 UGC]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Givenchy%20Beauty%20House%20Auro%20Grab%20%20UGC.lua", "https://rbxscript.com/post/GivenchyBeautyHouseAuroGrab3UGC-BJavg")
 
 addscriptexist(1224212277, "Mad City [Inf Nitro, Door Hack, Inf Ammo]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mad%20City%20Inf%20Nitro%20Door%20Hack%20Inf%20Ammo.lua", "https://rbxscript.com/post/MadCityInfNitroDoorHackInfAmmo-swnd")
+
+addscriptexist(8425637426, "Write a Letter [Free Animation]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Write%20a%20Letter%20Free%20Animation.lua", "https://rbxscript.com/post/WriteaLetterFreeAnimation-gUXCz")
