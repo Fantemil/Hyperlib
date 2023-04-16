@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 21:57:17"
+lastupdate = "GMT +1: 16.04.2023 21:57:20"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -17187,3 +17187,5 @@ addscriptexist(2124720684, "Dragon Ball: Xeno Multiverse [Zen Auto Farm]", "pull
 addscriptexist(6468323505, "Spellbound Magic RPG [Get All Items]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Spellbound%20Magic%20RPG%20Get%20All%20Items.lua", "https://rbxscript.com/post/SpellboundMagicRPGGetAllItems-7DZAU")
 
 addscriptexist(6468323505, "Spellbound Magic RPG [Infinte Coins]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Spellbound%20Magic%20RPG%20Infinte%20Coins.lua", "https://rbxscript.com/post/SpellboundMagicRPGInfinteCoins-qfoFB")
+
+addscriptexist(3851622790, "Break In (Story) [Kill All - God Mode - Give Items]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Break%20In%20Story%20Kill%20All%20%20God%20Mode%20%20Give%20Items.lua", "https://rbxscript.com/post/BreakInStoryKillAllGodMode-BEe1R")
