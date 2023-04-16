@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 22:13:16"
+lastupdate = "GMT +1: 16.04.2023 22:13:21"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -17635,3 +17635,5 @@ addscriptexist(5956785391, "Project Slayers [Muzan ESP]", "pulled from rbxscript
 addscriptexist(5956785391, "Project Slayers [GUI - Auto Farm, Auto Skill & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Project%20Slayers%20GUI%20%20Auto%20Farm%20Auto%20Skill%20%20More.lua", "https://rbxscript.com/post/ProjectSlayersGUIAutoFarmAutoSkillMore-qLhQ4")
 
 addscriptexist(8884334497, "Mining Clicker Simulator [Auto Clicker - Auto Rebirth & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mining%20Clicker%20Simulator%20Auto%20Clicker%20%20Auto%20Rebirth%20%20More.lua", "https://rbxscript.com/post/MiningClickerSimulatorAutoClickerAutoRebirthMore-UX0dz")
+
+addscript(6604417568, "Current Game","Minerscave [Ore ESP - GUI]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Minerscave%20Ore%20ESP%20%20GUI.lua", "https://rbxscript.com/post/MinerscaveOreESPGUI-UiPUR")
