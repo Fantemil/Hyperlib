@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 22:23:24"
+lastupdate = "GMT +1: 16.04.2023 22:23:28"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -17933,3 +17933,5 @@ addscriptexist(6206893534, "Cobra Kai Karate [Auto Farm Pushups, Auto Farm Situp
 addscriptexist(2809202155, "Your Bizarre Adventure [No Cooldown]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Your%20Bizarre%20Adventure%20No%20Cooldown.lua", "https://rbxscript.com/post/YourBizarreAdventureNoCooldown_FYgNc")
 
 addscriptexist(9551640993, "Mining Simulator 2 [Auto Fish All Areas]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mining%20Simulator%20%20Auto%20Fish%20All%20Areas.lua", "https://rbxscript.com/post/MiningSimulator2AutoFishAllAreas-mbQNX")
+
+addscriptexist(8554378337, "Weapon Fighting Simulator [Auto Farm All Areas & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Weapon%20Fighting%20Simulator%20Auto%20Farm%20All%20Areas%20%20More.lua", "https://rbxscript.com/post/WeaponFightingSimulatorAutoFarmAllAreasMore-IRvFA")
