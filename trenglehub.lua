@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 21:35:03"
+lastupdate = "GMT +1: 16.04.2023 21:35:07"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -16563,3 +16563,5 @@ addscriptexist(189707, "Natural Disaster Survival [No Fall, Gravity]", "pulled f
 addscriptexist(7167319176, "Chicago Remastered [Speed, Jump Power]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Chicago%20Remastered%20Speed%20Jump%20Power.lua", "https://rbxscript.com/post/ChicagoRemasteredSpeedJumpPower-AaP6e")
 
 addscriptexist(2537430692, "Jenga [Auto Win]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Jenga%20Auto%20Win.lua", "https://rbxscript.com/post/JengaAutoWin-G6b0d")
+
+addscriptexist(10118559731, "nico's nextbots [bloodmoon] [ESP, Door Spam]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/nicos%20nextbots%20bloodmoon%20ESP%20Door%20Spam.lua", "https://rbxscript.com/post/nicosnextbotsbloodmoonESPDoorSpam-md5Xc")
