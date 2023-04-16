@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 22:32:52"
+lastupdate = "GMT +1: 16.04.2023 22:32:56"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18215,3 +18215,5 @@ addscriptexist(6755746130, "Fruit Juice Tycoon Refreshed [Simple Auto Farm]", "p
 addscriptexist(9551640993, "Mining Simulator 2 [GUI - Auto Mine, Mine Aura & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mining%20Simulator%20%20GUI%20%20Auto%20Mine%20Mine%20Aura%20%20More.lua", "https://rbxscript.com/post/MiningSimulator2GUIAutoMineMineAuraMore-BvAYo")
 
 addscript(9611595239, "Current Game","Rift Royale [Esp + Aimbot]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Rift%20Royale%20Esp%20%20Aimbot.lua", "https://rbxscript.com/post/RiftRoyaleEspAimbot-y8la1")
+
+addscriptexist(6269446951, "Smooth Slicing [Kill All]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Smooth%20Slicing%20Kill%20All.lua", "https://rbxscript.com/post/SmoothSlicingKillAll-WWDzo")
