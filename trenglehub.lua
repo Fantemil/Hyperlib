@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 22:53:17"
+lastupdate = "GMT +1: 16.04.2023 22:53:20"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18823,3 +18823,5 @@ addscriptexist(9598746251, "Home Run Simulator [Auto Home Run]", "pulled from rb
 addscriptexist(8508161757, "Raise an Albert [Inf Money]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Raise%20an%20Albert%20Inf%20Money.lua", "https://rbxscript.com/post/RaiseanAlbertInfMoney-9LXmA")
 
 addscriptexist(6299805723, "Anime Fighters Simulator [Unlock Gamepass]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime%20Fighters%20Simulator%20Unlock%20Gamepass.lua", "https://rbxscript.com/post/AnimeFightersSimulatorUnlockGamepass-AqE8")
+
+addscriptexist(3101667897, "Legends Of Speed [AutoFarm, AutoRebirth, AutoStep]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Legends%20Of%20Speed%20AutoFarm%20AutoRebirth%20AutoStep.lua", "https://rbxscript.com/post/LegendsOfSpeedAutoFarmAutoRebirthAutoStep-ZRpou")
