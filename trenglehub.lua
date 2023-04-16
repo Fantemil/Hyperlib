@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 22:01:02"
+lastupdate = "GMT +1: 16.04.2023 22:01:09"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -17287,3 +17287,5 @@ addscriptexist(2629642516, "Bitcoin Miner [Anti Card Lag]", "pulled from rbxscri
 addscriptexist(5571328985, "Bloodlines [Auto Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Bloodlines%20Auto%20Farm.lua", "https://rbxscript.com/post/BloodlinesAutoFarm-l2zlG")
 
 addscriptexist(3686253681, "Planet Simulator [Change Planet Mass]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Planet%20Simulator%20Change%20Planet%20Mass.lua", "https://rbxscript.com/post/PlanetSimulatorChangePlanetMass-DL6bI")
+
+addscript(6711562581, "Current Game","Eight Driver Car Racing [Infinite Drift]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Eight%20Driver%20Car%20Racing%20Infinite%20Drift.lua", "https://rbxscript.com/post/EightDriverCarRacingInfiniteDrift-dTwcC")
