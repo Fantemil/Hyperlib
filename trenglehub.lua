@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 22:13:08"
+lastupdate = "GMT +1: 16.04.2023 22:13:12"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -17631,3 +17631,5 @@ addscriptexist(4036494886, "Gun Simulator [Infinite Ammo - Infinite Stars & More
 addscriptexist(9571238478, "Raise a Peter [Auto Farm GUI]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Raise%20a%20Peter%20Auto%20Farm%20GUI.lua", "https://rbxscript.com/post/RaiseaPeterAutoFarmGUI-KPj0d")
 
 addscriptexist(5956785391, "Project Slayers [Muzan ESP]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Project%20Slayers%20Muzan%20ESP.lua", "https://rbxscript.com/post/ProjectSlayersMuzanESP-SvdLU")
+
+addscriptexist(5956785391, "Project Slayers [GUI - Auto Farm, Auto Skill & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Project%20Slayers%20GUI%20%20Auto%20Farm%20Auto%20Skill%20%20More.lua", "https://rbxscript.com/post/ProjectSlayersGUIAutoFarmAutoSkillMore-qLhQ4")
