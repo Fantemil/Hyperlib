@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 21:59:31"
+lastupdate = "GMT +1: 16.04.2023 21:59:35"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -17245,3 +17245,5 @@ addscriptexist(10198661638, "Farm Factory Tycoon [Free Diamonds Remote]", "pulle
 addscriptexist(6284583030, "Pet Simulator X [Auto Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pet%20Simulator%20X%20Auto%20Farm.lua", "https://rbxscript.com/post/PetSimulatorXAutoFarm-Fx3pQ")
 
 addscriptexist(9129288160, "Tommy Play [Collect All Tokens]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tommy%20Play%20Collect%20All%20Tokens.lua", "https://rbxscript.com/post/TommyPlayCollectAllTokens-KhBvJ")
+
+addscript(9702206679, "Current Game","Heroes Daydream [Auto Farm V2]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Heroes%20Daydream%20Auto%20Farm%20V.lua", "https://rbxscript.com/post/HeroesDaydreamAutoFarmV2-jksBJ")
