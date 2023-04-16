@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 21:45:09"
+lastupdate = "GMT +1: 16.04.2023 21:45:13"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -16845,3 +16845,5 @@ addscriptexist(8317588085, "Block Tycoon [Cheaper shop]", "pulled from rbxscript
 addscript(6158075274, "Current Game","CALIBER [Silent AimBot, Esp, GunMod]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CALIBER%20Silent%20AimBot%20Esp%20GunMod.lua", "https://rbxscript.com/post/CALIBERSilentAimBotEspGunMod-5DiEA")
 
 addscriptexist(537413528, "Best Build A Boat For Treasure [Auto Farm, Tp]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Best%20Build%20A%20Boat%20For%20Treasure%20Auto%20Farm%20Tp.lua", "https://rbxscript.com/post/BestBuildABoatForTreasureAutoFarmTp-m3bQt")
+
+addscriptexist(155382109, "Survive and Kill the Killers in Area 51 [Infinite ammo (legit and not), Nerf Killers, Restore Ammo]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Survive%20and%20Kill%20the%20Killers%20in%20Area%20%20Infinite%20ammo%20legit%20and%20not%20Nerf%20Killers%20Restore%20Ammo.lua", "https://rbxscript.com/post/SurviveandKilltheKillersinArea51InfiniteammolegitandnotNerfKillersRestoreAmmo-4zrpj")
