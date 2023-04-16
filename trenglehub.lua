@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 21:35:58"
+lastupdate = "GMT +1: 16.04.2023 21:36:03"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -16589,3 +16589,5 @@ addscriptexist(10118559731, "Nico's Nextbots [God Mode]", "pulled from rbxscript
 addscriptexist(7606302010, "YoYo Simulator [Auto Sell, Auto YoYo]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/YoYo%20Simulator%20Auto%20Sell%20Auto%20YoYo.lua", "https://rbxscript.com/post/YoYoSimulatorAutoSellAutoYoYo-OTAn0")
 
 addscriptexist(5108997584, "Reason 2 Die [Value Increaser]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Reason%20%20Die%20Value%20Increaser.lua", "https://rbxscript.com/post/Reason2DieValueIncreaser-GCWwA")
+
+addscript(3522803956, "Current Game","De Pride Isle Sanatorium [Anticheat bypass]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/De%20Pride%20Isle%20Sanatorium%20Anticheat%20bypass.lua", "https://rbxscript.com/post/DePrideIsleSanatoriumAnticheatbypass-11YZx")
