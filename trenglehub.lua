@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 21:50:08"
+lastupdate = "GMT +1: 16.04.2023 21:50:11"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -16987,3 +16987,5 @@ addscriptexist(8500690972, "NO STOP Obby [Infinite Stages]", "pulled from rbxscr
 addscriptexist(4951858512, "Victory Race [Auto Clear]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Victory%20Race%20Auto%20Clear.lua", "https://rbxscript.com/post/VictoryRaceAutoClear-cvVZm")
 
 addscriptexist(10184360875, "Pet&Fishing Simulator [Infinite Money]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PetFishing%20Simulator%20Infinite%20Money.lua", "https://rbxscript.com/post/PetFishingSimulatorInfiniteMoney-HZsGX")
+
+addscript(4733278992, "Current Game","Sword Blox Online: Rebirth [Kill Aura - Free Slaves]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sword%20Blox%20Online%20Rebirth%20Kill%20Aura%20%20Free%20Slaves.lua", "https://rbxscript.com/post/SwordBloxOnlineRebirthKillAuraFreeSlaves-y33v6")
