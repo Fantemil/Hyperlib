@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 22:29:03"
+lastupdate = "GMT +1: 16.04.2023 22:29:07"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18097,3 +18097,5 @@ addscriptexist(2043040358, "Vyyrahk City [Auto Farm]", "pulled from rbxscript.co
 addscriptexist(9711302332, "Clkicker Heroes [Auto Tap - Auto Evolve And More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Clkicker%20Heroes%20Auto%20Tap%20%20Auto%20Evolve%20And%20More.lua", "https://rbxscript.com/post/ClkickerHeroesAutoTapAutoEvolveAndMore-oVPzE")
 
 addscriptexist(2043040358, "Vyyrahk City [Money]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Vyyrahk%20City%20Money.lua", "https://rbxscript.com/post/VyyrahkCityMoney-LXnwd")
+
+addscriptexist(9281034297, "Goal Kick Simulator [GUI - Auto Kick, Auto Rebirth & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Goal%20Kick%20Simulator%20GUI%20%20Auto%20Kick%20Auto%20Rebirth%20%20More.lua", "https://rbxscript.com/post/GoalKickSimulatorGUIAutoKickAutoRebirthMore-wK9Ox")
