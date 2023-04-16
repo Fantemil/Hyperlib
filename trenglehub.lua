@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 22:44:57"
+lastupdate = "GMT +1: 16.04.2023 22:45:01"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18577,3 +18577,5 @@ addscriptexist(3095204897, "Isle [Infinite Oxygen]", "pulled from rbxscript.com"
 addscriptexist(443406476, "Project Lazarus [ESP, One Shot Kill, Chams]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Project%20Lazarus%20ESP%20One%20Shot%20Kill%20Chams.lua", "https://rbxscript.com/post/ProjectLazarusESPOneShotKillChams-brkWP")
 
 addscriptexist(9203864304, "raise a floppa 2 [Auto Cook & Inf Max Rent]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/raise%20a%20floppa%20%20Auto%20Cook%20%20Inf%20Max%20Rent.lua", "https://rbxscript.com/post/raiseafloppa2AutoCookInfMaxRent-4WLtw")
+
+addscript(2166944189, "Current Game","Firefighters [Infinite Levels]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Firefighters%20Infinite%20Levels.lua", "https://rbxscript.com/post/FirefightersInfiniteLevels-srayj")
