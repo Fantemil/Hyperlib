@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 22:41:42"
+lastupdate = "GMT +1: 16.04.2023 22:41:46"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18479,3 +18479,5 @@ addscriptexist(292439477, "Phantom Forces [Hinglight Esp,Chams]", "pulled from r
 addscriptexist(6915291292, "Bakery Simulator [Collect ingredients, Fill Ovens, Sell Baked goods]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Bakery%20Simulator%20Collect%20ingredients%20Fill%20Ovens%20Sell%20Baked%20goods.lua", "https://rbxscript.com/post/BakerySimulatorCollectingredientsFillOvensSellBakedgoods-KBiY5")
 
 addscriptexist(2809202155, "Your Bizarre Adventure [Auto Farm Items - Auto Quest - And More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Your%20Bizarre%20Adventure%20Auto%20Farm%20Items%20%20Auto%20Quest%20%20And%20More.lua", "https://rbxscript.com/post/YourBizarreAdventureAutoFarmItemsAutoQuestAndMore-2EFDx")
+
+addscriptexist(4991214437, "town [Kill All - ESP - Chams & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/town%20Kill%20All%20%20ESP%20%20Chams%20%20More.lua", "https://rbxscript.com/post/townKillAllESPChamsMore-TCmAO")
