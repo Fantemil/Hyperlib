@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 21:46:16"
+lastupdate = "GMT +1: 16.04.2023 21:46:19"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -16875,3 +16875,5 @@ addscript(151670365, "Current Game","The Quarry [Infinite Cash]", "pulled from r
 addscriptexist(4809447488, "Venture Tales [Kill Aura - Insta Kill]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Venture%20Tales%20Kill%20Aura%20%20Insta%20Kill.lua", "https://rbxscript.com/post/VentureTalesKillAuraInstaKill-yikqN")
 
 addscript(9871062639, "Current Game","Flappy Duo [Infinite Score]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Flappy%20Duo%20Infinite%20Score.lua", "https://rbxscript.com/post/FlappyDuoInfiniteScore-9DxTr")
+
+addscriptexist(5895971007, "Allusions [Anti Ragdoll]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Allusions%20Anti%20Ragdoll.lua", "https://rbxscript.com/post/AllusionsAntiRagdoll-8Hxfw")
