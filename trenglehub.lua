@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 22:27:49"
+lastupdate = "GMT +1: 16.04.2023 22:27:52"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18061,3 +18061,5 @@ addscriptexist(2753915549, "Blox Fruit [Silent Aim]", "pulled from rbxscript.com
 addscriptexist(8739839954, "Jujutsu Tycoon [Kill Boss]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Jujutsu%20Tycoon%20Kill%20Boss.lua", "https://rbxscript.com/post/JujutsuTycoonKillBoss-3E9mA")
 
 addscriptexist(8739839954, "Jujutsu Tycoon [Collect Loot]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Jujutsu%20Tycoon%20Collect%20Loot.lua", "https://rbxscript.com/post/JujutsuTycoonCollectLoo-l3Xko")
+
+addscriptexist(1730877806, "Grand Piece Online [Bounty ESP]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Grand%20Piece%20Online%20Bounty%20ESP.lua", "https://rbxscript.com/post/GrandPieceOnlineBountyESP-asJPo")
