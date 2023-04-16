@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 21:45:39"
+lastupdate = "GMT +1: 16.04.2023 21:45:43"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -16859,3 +16859,5 @@ addscriptexist(10192063645, "Thy Hood [Server Crash]", "pulled from rbxscript.co
 addscriptexist(137885680, "Zombie Rush [GUI - God Mode - Rage Mode]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Zombie%20Rush%20GUI%20%20God%20Mode%20%20Rage%20Mode.lua", "https://rbxscript.com/post/ZombieRushGUIGodModeRageMode-h5Vq1")
 
 addscriptexist(2727067538, "World Zero V1.8 [Warlord Class]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/World%20Zero%20V%20Warlord%20Class.lua", "https://rbxscript.com/post/WorldZeroV18WarlordClass-phNNx")
+
+addscript(7715234692, "Current Game","cart ride around a 75 KW Diesel Generator [Anti Cheat Bypass]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/cart%20ride%20around%20a%20%20KW%20Diesel%20Generator%20Anti%20Cheat%20Bypass.lua", "https://rbxscript.com/post/cartridearounda75KWDieselGeneratorAntiCheatBypass-jmRFV")
