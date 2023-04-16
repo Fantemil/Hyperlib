@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 22:31:18"
+lastupdate = "GMT +1: 16.04.2023 22:31:22"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18167,3 +18167,5 @@ addscript(632642533, "Current Game","DeadMist 2 Beta [God Mode, Teleport Bypass]
 addscriptexist(180037022, "Sonic Ultimate RPG [Farm Rings]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sonic%20Ultimate%20RPG%20Farm%20Rings.lua", "https://rbxscript.com/post/SonicUltimateRPGFarmRings-kVbQD")
 
 addscript(8596411742, "Current Game","Barb Blox Lane [Fast Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Barb%20Blox%20Lane%20Fast%20Farm.lua", "https://rbxscript.com/post/BarbBloxLaneFastFarm-9kHwz")
+
+addscriptexist(1467230998, "TROOP LIFE [Auto Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TROOP%20LIFE%20Auto%20Farm.lua", "https://rbxscript.com/post/TROOPLIFEAutoFarm-YUzRw")
