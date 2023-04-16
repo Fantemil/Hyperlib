@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 21:57:44"
+lastupdate = "GMT +1: 16.04.2023 21:57:51"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -17197,3 +17197,5 @@ addscript(8222131500, "Current Game","Island Survival [AutoHelp-Hop]", "pulled f
 addscriptexist(4282985734, "Combat Warriors [Full client ac bypass]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Combat%20Warriors%20Full%20client%20ac%20bypass.lua", "https://rbxscript.com/post/CombatWarriorsFullclientacbypass-X64Ha")
 
 addscriptexist(914010731, "Ro-Ghoul [Invis, Click Tp, Click Tp Speed]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RoGhoul%20Invis%20Click%20Tp%20Click%20Tp%20Speed.lua", "https://rbxscript.com/post/RoGhoulInvisClickTpClickTpSpeed-Lgvmb")
+
+addscriptexist(263761432, "Horrific Housing [More Money]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Horrific%20Housing%20More%20Money.lua", "https://rbxscript.com/post/HorrificHousingMoreMoney-K6twN")
