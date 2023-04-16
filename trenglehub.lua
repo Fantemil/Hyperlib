@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 22:29:20"
+lastupdate = "GMT +1: 16.04.2023 22:29:24"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18105,3 +18105,5 @@ addscript(8592863835, "Current Game","Magnet Simulator 2 [GUI - Sell x18, Auto E
 addscriptexist(8232438881, "Thief Simulator [Fast Auto Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Thief%20Simulator%20Fast%20Auto%20Farm.lua", "https://rbxscript.com/post/ThiefSimulatorFastAutoFarm-UvHY")
 
 addscriptexist(9103898828, "Rogue Demon [Normal Run Speed, Breath]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Rogue%20Demon%20Normal%20Run%20Speed%20Breath.lua", "https://rbxscript.com/post/RogueDemonNormalRunSpeedBreath-PI6IP")
+
+addscript(5315066937, "Current Game","surf [SuperB Surf]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/surf%20SuperB%20Surf.lua", "https://rbxscript.com/post/surfSuperBSurf-6u5OF")
