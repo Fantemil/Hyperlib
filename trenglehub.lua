@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 22:21:14"
+lastupdate = "GMT +1: 16.04.2023 22:21:18"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -17867,3 +17867,5 @@ addscript(9578901194, "Current Game","Woman Repellant [Women will not run away f
 addscriptexist(1224212277, "Mad City [Get Weekly Rewards]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mad%20City%20Get%20Weekly%20Rewards.lua", "https://rbxscript.com/post/MadCityGetWeeklyReward-ciRs")
 
 addscript(10105990977, "Current Game","Samsung Space Tycoon [Destroy Everyones FPS]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Samsung%20Space%20Tycoon%20Destroy%20Everyones%20FPS.lua", "https://rbxscript.com/post/SamsungSpaceTycoonDestroyEveryonesFPS-GXv3")
+
+addscriptexist(8304191830, "Anime Adventures {Full Auto Farm, Auto Upgrade, Select World]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime%20Adventures%20Full%20Auto%20Farm%20Auto%20Upgrade%20Select%20World.lua", "https://rbxscript.com/post/AnimeAdventuresFullAutoFarmAutoUpgradeSelectWorld-nyFgu")
