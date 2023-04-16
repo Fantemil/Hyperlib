@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 22:55:21"
+lastupdate = "GMT +1: 16.04.2023 22:55:24"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18879,3 +18879,5 @@ addscriptexist(659222129, "Swordburst 2 [Auto Farm, Kill Aura]", "pulled from rb
 addscriptexist(2202352383, "Super Power Training Simulator [Auto Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Super%20Power%20Training%20Simulator%20Auto%20Farm.lua", "https://rbxscript.com/post/SuperPowerTrainingSimulatorAutoFarm-8vI0z")
 
 addscriptexist(292439477, "Phantom Forces [Unlock All Guns - Admin Guns]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Phantom%20Forces%20Unlock%20All%20Guns%20%20Admin%20Guns.lua", "https://rbxscript.com/post/PhantomForcesUnlockAllGunsAdminGuns-ue9O")
+
+addscriptexist(6728870912, "World of Stands [Inf Gold, Masks & God Mode]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/World%20of%20Stands%20Inf%20Gold%20Masks%20%20God%20Mode.lua", "https://rbxscript.com/post/WorldofStandsInfGoldMasksGodMode-CvbUR")
