@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 22:48:30"
+lastupdate = "GMT +1: 16.04.2023 22:48:34"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18683,3 +18683,5 @@ addscriptexist(7560156054, "Clicker Simulator [On Click Toggle egg, GamePass]", 
 addscriptexist(3101667897, "Legends Of Speed [Auto Farm Orbs, Auto Farm Hoops, Auto Rebirth]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Legends%20Of%20Speed%20Auto%20Farm%20Orbs%20Auto%20Farm%20Hoops%20Auto%20Rebirth.lua", "https://rbxscript.com/post/LegendsOfSpeedAutoFarmOrbsAutoFarmHoopsAutoRebirth-aOt1")
 
 addscriptexist(8737602449, "PLS DONATE [The inscription on the pole shows]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PLS%20DONATE%20The%20inscription%20on%20the%20pole%20shows.lua", "https://rbxscript.com/post/PLSDONATETheinscriptiononthepoleshows-vh0P")
+
+addscriptexist(5490351219, "Clicker Madness [Auto Tap, Decline Trades, Get All Gamepasses]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Clicker%20Madness%20Auto%20Tap%20Decline%20Trades%20Get%20All%20Gamepasses.lua", "https://rbxscript.com/post/ClickerMadnessAutoTapDeclineTradesGetAllGamepasses-pSpms")
