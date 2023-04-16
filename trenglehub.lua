@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 21:32:38"
+lastupdate = "GMT +1: 16.04.2023 21:32:42"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -16493,3 +16493,5 @@ addscript(260606376, "Current Game","Realistic Roleplay 2 [Auto Farm]", "pulled 
 addscript(7941853407, "Current Game","Squishmallow [Auto Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Squishmallow%20Auto%20Farm.lua", "https://rbxscript.com/post/SquishmallowAutoFarm-m8IGu")
 
 addscript(10315830663, "Current Game","Cant Say The Letter [Inf Time]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Cant%20Say%20The%20Letter%20Inf%20Time.lua", "https://rbxscript.com/post/CantSayTheLetterInfTime-8Afrv")
+
+addscriptexist(10315830663, "Cant Say The Letter [Give Tools]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Cant%20Say%20The%20Letter%20Give%20Tools.lua", "https://rbxscript.com/post/CantSayTheLetterGiveTools-AfdIF")
