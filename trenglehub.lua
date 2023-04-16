@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 22:54:07"
+lastupdate = "GMT +1: 16.04.2023 22:54:11"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18843,3 +18843,5 @@ addscriptexist(4733278992, "Sword Blox Online Rebirth [Remove Anti Fling]", "pul
 addscriptexist(7791873535, "REALISTIC HOOD [Cash Collector]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/REALISTIC%20HOOD%20Cash%20Collector.lua", "https://rbxscript.com/post/REALISTICHOODCashCollector-W5WHg")
 
 addscriptexist(2809202155, "Your Bizarre Adventure [Item-Dupe]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Your%20Bizarre%20Adventure%20ItemDupe.lua", "https://rbxscript.com/post/YourBizarreAdventureItemDupe-3kn8Q")
+
+addscriptexist(4753520418, "The Hood [Auto Money Drop Collect]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/The%20Hood%20Auto%20Money%20Drop%20Collect.lua", "https://rbxscript.com/post/TheHoodAutoMoneyDropCollect-k2RlR")
