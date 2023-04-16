@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 21:35:11"
+lastupdate = "GMT +1: 16.04.2023 21:35:14"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -16567,3 +16567,5 @@ addscriptexist(2537430692, "Jenga [Auto Win]", "pulled from rbxscript.com", "htt
 addscriptexist(10118559731, "nico's nextbots [bloodmoon] [ESP, Door Spam]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/nicos%20nextbots%20bloodmoon%20ESP%20Door%20Spam.lua", "https://rbxscript.com/post/nicosnextbotsbloodmoonESPDoorSpam-md5Xc")
 
 addscriptexist(8811271345, "Balanced Craftwars Overhaul [Auto Equip, Teleport]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Balanced%20Craftwars%20Overhaul%20Auto%20Equip%20Teleport.lua", "https://rbxscript.com/post/BalancedCraftwarsOverhaulAutoEquipTeleport-rU3jg")
+
+addscriptexist(4863541388, "Scythe Masters [Auto click]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Scythe%20Masters%20Auto%20click.lua", "https://rbxscript.com/post/ScytheMastersAutoclick-6emjw")
