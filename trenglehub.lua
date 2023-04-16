@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 22:19:54"
+lastupdate = "GMT +1: 16.04.2023 22:19:58"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -17829,3 +17829,5 @@ addscriptexist(4850718823, "Skate Park [Instantly get both items]", "pulled from
 addscriptexist(6716188523, "Business Tycoon [Inf Money]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Business%20Tycoon%20Inf%20Money.lua", "https://rbxscript.com/post/BusinessTycoonInfMoney-6OhaW")
 
 addscript(4889315193, "Current Game","Total Roblox Drama [Auto Win Obbies, Coin teleports, WalkSpeed]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Total%20Roblox%20Drama%20Auto%20Win%20Obbies%20Coin%20teleports%20WalkSpeed.lua", "https://rbxscript.com/post/TotalRobloxDramaAutoWinObbiesCointeleportsWalkSpeed-oDPLJ")
+
+addscriptexist(5130598377, "A Universal Time [Items Farm, God Mode, Auto Inventory]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/A%20Universal%20Time%20Items%20Farm%20God%20Mode%20Auto%20Inventory.lua", "https://rbxscript.com/post/AUniversalTimeItemsFarmGodModeAutoInventory-S8Ami")
