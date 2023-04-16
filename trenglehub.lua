@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 22:54:40"
+lastupdate = "GMT +1: 16.04.2023 22:54:44"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18859,3 +18859,5 @@ addscriptexist(5233268561, "A Bizarre Journey [Destroy Game]", "pulled from rbxs
 addscriptexist(9737855826, "Trade Simulator [Auto Buyer - Item Sniper]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Trade%20Simulator%20Auto%20Buyer%20%20Item%20Sniper.lua", "https://rbxscript.com/post/TradeSimulatorAutoBuyerItemSniper-Yx0yo")
 
 addscriptexist(5927697884, "Orange Colored Skies [Gun Mod]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Orange%20Colored%20Skies%20Gun%20Mod.lua", "https://rbxscript.com/post/OrangeColoredSkiesGunMod-BQEcf")
+
+addscriptexist(8992150289, "Anime Sword Simulator [Get All Gamepasses]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime%20Sword%20Simulator%20Get%20All%20Gamepasses.lua", "https://rbxscript.com/post/AnimeSwordSimulatorGetAllGamepasses-dnWNi")
