@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 22:12:28"
+lastupdate = "GMT +1: 16.04.2023 22:12:32"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -17611,3 +17611,5 @@ addscriptexist(4651779470, "RECOIL [GUI- NoSprea, NoRecoil & More!]", "pulled fr
 addscriptexist(3840352284, "Volleyball 4.2 [No Line-Fault]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Volleyball%20%20No%20LineFault.lua", "https://rbxscript.com/post/Volleyball42NoLineFault-OHVF3")
 
 addscript(9601849832, "Current Game","Jetpack Battle [Insta-kill]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Jetpack%20Battle%20Instakill.lua", "https://rbxscript.com/post/JetpackBattleInstakill-IN9WD")
+
+addscriptexist(1962086868, "Tower of hell GUI [ UltraJump, Ultraspeed, Admin ]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tower%20of%20hell%20GUI%20%20UltraJump%20Ultraspeed%20Admin%20.lua", "https://rbxscript.com/post/TowerofhellGUIUltraJumpUltraspeedAdmin-NDzZb")
