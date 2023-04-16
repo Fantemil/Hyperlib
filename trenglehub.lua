@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 22:21:52"
+lastupdate = "GMT +1: 16.04.2023 22:21:55"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -17885,3 +17885,5 @@ addscriptexist(8123652942, "Legend Piece [Seabeast, Gems Farm]", "pulled from rb
 addscript(6822455054, "Current Game","Fruit Piece [Stat Changer GUI]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Fruit%20Piece%20Stat%20Changer%20GUI.lua", "https://rbxscript.com/post/FruitPieceStatChangerGUI-ZiDk4")
 
 addscriptexist(10001513103, "Limited Words [GUI]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Limited%20Words%20GUI.lua", "https://rbxscript.com/post/LimitedWordsGUI-0RQn8")
+
+addscript(7056117669, "Current Game","get chased by a rocket [Kick Player]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/get%20chased%20by%20a%20rocket%20Kick%20Player.lua", "https://rbxscript.com/post/getchasedbyarocketKickPlayer-ypm7V")
