@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 22:12:45"
+lastupdate = "GMT +1: 16.04.2023 22:12:48"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -17619,3 +17619,5 @@ addscriptexist(9103460924, "Sword Factory X [Anti Cheat Bypass]", "pulled from r
 addscriptexist(9603033881, "Bid Battles [Auto Bid & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Bid%20Battles%20Auto%20Bid%20%20More.lua", "https://rbxscript.com/post/BidBattlesAutoBidMore-UEbdP")
 
 addscriptexist(9170761016, "Magic Clicker [Auto Farm - GUI]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Magic%20Clicker%20Auto%20Farm%20%20GUI.lua", "https://rbxscript.com/post/MagicClickerAutoFarmGUI-cs2fa")
+
+addscriptexist(9551640993, "Mining Simulator 2 [Pet Guesser]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mining%20Simulator%20%20Pet%20Guesser.lua", "https://rbxscript.com/post/MiningSimulator2PetGuesser-wpF5V")
