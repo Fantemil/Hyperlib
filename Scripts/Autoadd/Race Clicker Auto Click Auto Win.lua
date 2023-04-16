@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://pastebin.com/raw/YF3kHLkr"))()
+loadstring(game:HttpGet('https://raw.githubusercontent.com/DEV-TK02/StrikeHub/main/Loader', true))()
