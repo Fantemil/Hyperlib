@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 21:32:46"
+lastupdate = "GMT +1: 16.04.2023 21:32:50"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -16497,3 +16497,5 @@ addscript(10315830663, "Current Game","Cant Say The Letter [Inf Time]", "pulled 
 addscriptexist(10315830663, "Cant Say The Letter [Give Tools]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Cant%20Say%20The%20Letter%20Give%20Tools.lua", "https://rbxscript.com/post/CantSayTheLetterGiveTools-AfdIF")
 
 addscriptexist(10315830663, "Cant Say The Letter [Can says Letter]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Cant%20Say%20The%20Letter%20Can%20says%20Letter.lua", "https://rbxscript.com/post/CantSayTheLetterCansaysLetter-1iaqO")
+
+addscript(10011532704, "Current Game","Anime Brawl Simulator [Inf Stars]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime%20Brawl%20Simulator%20Inf%20Stars.lua", "https://rbxscript.com/post/AnimeBrawlSimulatorInfStars-84B6m")
