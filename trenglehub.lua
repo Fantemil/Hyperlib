@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 22:06:26"
+lastupdate = "GMT +1: 16.04.2023 22:06:30"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -17437,3 +17437,5 @@ addscript(9170761016, "Current Game","Magic Clicker [Auto Click, Click Animation
 addscriptexist(863266079, "APOC RISER 2 [Inf Jump, Player Esp, Show Health]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/APOC%20RISER%20%20Inf%20Jump%20Player%20Esp%20Show%20Health.lua", "https://rbxscript.com/post/APOCRISER2InfJumpPlayerEspShowHealth-uX5mS")
 
 addscriptexist(1962086868, "Tower of Hell [Auto Win, GodMode, Get All Items]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tower%20of%20Hell%20Auto%20Win%20GodMode%20Get%20All%20Items.lua", "https://rbxscript.com/post/TowerofHellAutoWinGodModeGetAllItems-lgFi8")
+
+addscriptexist(5956785391, "Project Slayers [Auto Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Project%20Slayers%20Auto%20Farm.lua", "https://rbxscript.com/post/ProjectSlayersAutoFarm-ttqQ")
