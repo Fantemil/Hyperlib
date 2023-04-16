@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 21:50:15"
+lastupdate = "GMT +1: 16.04.2023 21:50:19"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -16991,3 +16991,5 @@ addscriptexist(10184360875, "Pet&Fishing Simulator [Infinite Money]", "pulled fr
 addscript(4733278992, "Current Game","Sword Blox Online: Rebirth [Kill Aura - Free Slaves]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sword%20Blox%20Online%20Rebirth%20Kill%20Aura%20%20Free%20Slaves.lua", "https://rbxscript.com/post/SwordBloxOnlineRebirthKillAuraFreeSlaves-y33v6")
 
 addscriptexist(6172932937, "Energy Assault [Silent AimBot, Chams, Wall Bang]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Energy%20Assault%20Silent%20AimBot%20Chams%20Wall%20Bang.lua", "https://rbxscript.com/post/EnergyAssaultSilentAimBotChamsWallBang-APB6Z")
+
+addscriptexist(648362523, "Breaking Point [AutoFarm, AutoFarm, AimBot]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Breaking%20Point%20AutoFarm%20AutoFarm%20AimBot.lua", "https://rbxscript.com/post/BreakingPointAutoFarmAutoFarmAimBot-4YsEB")
