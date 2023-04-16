@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 21:51:01"
+lastupdate = "GMT +1: 16.04.2023 21:51:05"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -17013,3 +17013,5 @@ addscript(5571328985, "Current Game","Bloodlines [Auto Farm, Auto Sell, Drop All
 addscriptexist(7127407851, "Attack on Titan: Evolution [Inf Gas, Inf Jump, Speed Bypass]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Attack%20on%20Titan%20Evolution%20Inf%20Gas%20Inf%20Jump%20Speed%20Bypass.lua", "https://rbxscript.com/post/AttackonTitanEvolutionInfGasInfJumpSpeedBypass-dCBrI")
 
 addscriptexist(10184360875, "Pet&Fishing Simulator [inf Money]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PetFishing%20Simulator%20inf%20Money.lua", "https://rbxscript.com/post/PetFishingSimulatorinfMoney-sN8Qv")
+
+addscriptexist(10108131074, "Mow The Lawn [Auto Now, Auto Fill Tank, Auto open Egg]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mow%20The%20Lawn%20Auto%20Now%20Auto%20Fill%20Tank%20Auto%20open%20Egg.lua", "https://rbxscript.com/post/MowTheLawnAutoNowAutoFillTankAutoopenEgg-fkDnY")
