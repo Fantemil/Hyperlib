@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 21:50:32"
+lastupdate = "GMT +1: 16.04.2023 21:50:38"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -16999,3 +16999,5 @@ addscriptexist(9744597824, "Sea Piece [Distance From NPC Slider, Auto Farm Toggl
 addscriptexist(10184360875, "Pet&Fishing Simulator [Fast Auto Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PetFishing%20Simulator%20Fast%20Auto%20Farm.lua", "https://rbxscript.com/post/PetFishingSimulatorFastAutoFarm-zEok0")
 
 addscriptuniversal("Roblox [Universal tpwalk]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Roblox%20Universal%20tpwalk.lua", "https://rbxscript.com/post/RobloxUniversaltpwalk-RJhah")
+
+addscriptexist(7026949294, "Sword Simulator [Auto Mobs, Auto Eggs, Mob Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sword%20Simulator%20Auto%20Mobs%20Auto%20Eggs%20Mob%20Farm.lua", "https://rbxscript.com/post/SwordSimulatorAutoMobsAutoEggsMobFarm-gE0tw")
