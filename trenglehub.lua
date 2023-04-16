@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 22:45:56"
+lastupdate = "GMT +1: 16.04.2023 22:45:59"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18605,3 +18605,5 @@ addscriptexist(3233893879, "Bad Business 3.07 [Silent Aim - Open Source]", "pull
 addscriptexist(9551640993, "Mining Simulator 2 [Auto Forge]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mining%20Simulator%20%20Auto%20Forge.lua", "https://rbxscript.com/post/MiningSimulator2AutoForge-TXIH")
 
 addscript(5927697884, "Current Game","Fallout Orange Colored Skies [Item ESP - Item Teleport]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Fallout%20Orange%20Colored%20Skies%20Item%20ESP%20%20Item%20Teleport.lua", "https://rbxscript.com/post/FalloutOrangeColoredSkiesItemESPItemTeleport-byf1")
+
+addscript(3271747724, "Current Game","MEGA Boss Survival [Wins Auto Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MEGA%20Boss%20Survival%20Wins%20Auto%20Farm.lua", "https://rbxscript.com/post/MEGABossSurvivalWinsAutoFarm-6kaY0")
