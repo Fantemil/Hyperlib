@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 21:41:21"
+lastupdate = "GMT +1: 16.04.2023 21:41:25"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -16743,3 +16743,5 @@ addscriptexist(10106105124, "Wheat Farming Simulator [Auto Farm, Auto Sell]", "p
 addscript(9792312812, "Current Game","Vampire Fighters [Kill All, Inf Stam]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Vampire%20Fighters%20Kill%20All%20Inf%20Stam.lua", "https://rbxscript.com/post/VampireFightersKillAllInfStam-frOCv")
 
 addscriptuniversal("Highlight [Universal Esp]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Highlight%20Universal%20Esp.lua", "https://rbxscript.com/post/HighlightUniversalEsp-Jv4z2")
+
+addscriptuniversal("Fighter's Era [Inf Money]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Fighters%20Era%20Inf%20Money.lua", "https://rbxscript.com/post/FightersEraInfMoney-E7e6L")
