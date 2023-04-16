@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 22:52:17"
+lastupdate = "GMT +1: 16.04.2023 22:52:22"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18795,3 +18795,5 @@ addscriptexist(9049840490, "Sonic Speed Simulator [Unlock All Prizes]", "pulled 
 addhub("KeyBrew Hub [9 Games]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/KeyBrew%20Hub%20%20Games.lua", "https://rbxscript.com/post/KeyBrewHub9Games-wjJo")
 
 addscriptexist(1224212277, "Mad City [Faster Auto Rob]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mad%20City%20Faster%20Auto%20Rob.lua", "https://rbxscript.com/post/MadCityFasterAutoRob-GACzD")
+
+addscriptexist(8508161757, "Raise an Albert [Infinite Money]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Raise%20an%20Albert%20Infinite%20Money.lua", "https://rbxscript.com/post/RaiseanAlbertInfiniteMoney-vIchm")
