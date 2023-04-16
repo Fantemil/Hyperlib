@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 22:28:55"
+lastupdate = "GMT +1: 16.04.2023 22:28:59"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18093,3 +18093,5 @@ addscriptexist(1224212277, "Mad City [AutoFarm + ServerHop]", "pulled from rbxsc
 addscriptexist(9662949425, "Punch a brick wall simulator [GUI - Infinite Money, Infinite Bones & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Punch%20a%20brick%20wall%20simulator%20GUI%20%20Infinite%20Money%20Infinite%20Bones%20%20More.lua", "https://rbxscript.com/post/PunchabrickwallsimulatorGUIInfiniteMoneyInfiniteBonesMore-6gbFG")
 
 addscriptexist(2043040358, "Vyyrahk City [Auto Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Vyyrahk%20City%20Auto%20Farm.lua", "https://rbxscript.com/post/VyyrahkCityAutoFarm-To9IQ")
+
+addscriptexist(9711302332, "Clkicker Heroes [Auto Tap - Auto Evolve And More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Clkicker%20Heroes%20Auto%20Tap%20%20Auto%20Evolve%20And%20More.lua", "https://rbxscript.com/post/ClkickerHeroesAutoTapAutoEvolveAndMore-oVPzE")
