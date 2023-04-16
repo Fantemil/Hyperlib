@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 22:04:02"
+lastupdate = "GMT +1: 16.04.2023 22:04:05"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -17371,3 +17371,5 @@ addscriptexist(3623096087, "Muscle Legends [Kill Player, Safe Farm, Auto Equip]"
 addscriptexist(6711562581, "Eight Driver Car Racing [Inf money]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Eight%20Driver%20Car%20Racing%20Inf%20money.lua", "https://rbxscript.com/post/EightDriverCarRacingInfmoney-SqCP0")
 
 addscript(4456070441, "Current Game","Mayday [AimBot, ESP. GunMod]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mayday%20AimBot%20ESP%20GunMod.lua", "https://rbxscript.com/post/MaydayAimBotESPGunMod-GfGb")
+
+addscriptexist(2768379856, "SCP-3008 [Auto Collect]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SCP%20Auto%20Collect.lua", "https://rbxscript.com/post/SCP3008AutoCollect-zaSqv")
