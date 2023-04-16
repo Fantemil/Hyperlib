@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 21:52:37"
+lastupdate = "GMT +1: 16.04.2023 21:52:41"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -17059,3 +17059,5 @@ addscriptexist(292439477, "Phantom Forces [Granade Aimbot]", "pulled from rbxscr
 addscript(7115420363, "Current Game","The Booth Plaza [Bypassed Images]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/The%20Booth%20Plaza%20Bypassed%20Images.lua", "https://rbxscript.com/post/TheBoothPlazaBypassedImages-KKDss")
 
 addscript(7478475781, "Current Game","Undertale: Timeline Collapse [Auto Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Undertale%20Timeline%20Collapse%20Auto%20Farm.lua", "https://rbxscript.com/post/UndertaleTimelineCollapseAutoFarm-9O7T4")
+
+addscriptexist(6708206173, "Rate my Avatar [Trivia Bot]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Rate%20my%20Avatar%20Trivia%20Bot.lua", "https://rbxscript.com/post/RatemyAvatarTriviaBot-DUfAQ")
