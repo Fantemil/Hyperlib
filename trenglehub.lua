@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 21:28:58"
+lastupdate = "GMT +1: 16.04.2023 21:29:02"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -16391,3 +16391,5 @@ addscript(7052083961, "Current Game","Velocity Online [Auto Farm]", "pulled from
 addscriptexist(9386846196, "Brawling Grounds [Kill Aura]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Brawling%20Grounds%20Kill%20Aura.lua", "https://rbxscript.com/post/BrawlingGroundsKillAura-lkRmG")
 
 addscript(534701013, "Current Game","The Labyrinth [X-Ray, Auto attack]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/The%20Labyrinth%20XRay%20Auto%20attack.lua", "https://rbxscript.com/post/TheLabyrinthXRayAutoattack-XuTQr")
+
+addscript(696347899, "Current Game","Stepford County Railway [Auto Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Stepford%20County%20Railway%20Auto%20Farm.lua", "https://rbxscript.com/post/StepfordCountyRailwayAutoFarm-yFxNw")
