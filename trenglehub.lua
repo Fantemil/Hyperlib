@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 21:24:32"
+lastupdate = "GMT +1: 16.04.2023 21:24:39"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -16267,3 +16267,5 @@ addscriptuniversal("Roblox Universal Script [Invisible]", "pulled from rbxscript
 addscriptexist(9840387028, "Era of Althea [Redeem codes]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Era%20of%20Althea%20Redeem%20codes.lua", "https://rbxscript.com/post/EraofAltheaRedeemcodes-0rUPi")
 
 addscriptexist(10524502174, "One Punch Fighters [Auto Farm, Auto Collect]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/One%20Punch%20Fighters%20Auto%20Farm%20Auto%20Collect.lua", "https://rbxscript.com/post/OnePunchFightersAutoFarmAutoCollect-ta5Ar")
+
+addscriptexist(6407649031, "NO-SCOPE ARCADE [Aimbot, KillAll]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NOSCOPE%20ARCADE%20Aimbot%20KillAll.lua", "https://rbxscript.com/post/NOSCOPEARCADEAimbotKillAll-jhVsN")
