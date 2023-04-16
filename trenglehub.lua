@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 22:55:31"
+lastupdate = "GMT +1: 16.04.2023 22:55:37"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18885,3 +18885,5 @@ addscriptexist(6728870912, "World of Stands [Inf Gold, Masks & God Mode]", "pull
 addscript(1927139201, "Current Game","Day of Dusk - The Border [Auto Mine Ores]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Day%20of%20Dusk%20%20The%20Border%20Auto%20Mine%20Ores.lua", "https://rbxscript.com/post/DayofDuskTheBorderAutoMineOres-sWZ4j")
 
 addscriptexist(4616652839, "Shindo Life [AutoFarm, Infinity spins, War farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Shindo%20Life%20AutoFarm%20Infinity%20spins%20War%20farm.lua", "https://rbxscript.com/post/ShindoLifeAutoFarmInfinityspinsWarfarm-TfJWl")
+
+addscriptexist(4588604953, "Criminality [Instant Teleport Bypass]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Criminality%20Instant%20Teleport%20Bypass.lua", "https://rbxscript.com/post/CriminalityInstantTeleportBypass-iZYZf")
