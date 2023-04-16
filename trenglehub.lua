@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 22:32:45"
+lastupdate = "GMT +1: 16.04.2023 22:32:48"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18211,3 +18211,5 @@ addscript(6915291292, "Current Game","Bakery Simulator [Delete Anything]", "pull
 addscript(4443032907, "Current Game","Sword Simulator [GUI - Auto Mobs & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sword%20Simulator%20GUI%20%20Auto%20Mobs%20%20More.lua", "https://rbxscript.com/post/SwordSimulatorGUIAutoMobsMore-UdQb")
 
 addscriptexist(6755746130, "Fruit Juice Tycoon Refreshed [Simple Auto Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Fruit%20Juice%20Tycoon%20Refreshed%20Simple%20Auto%20Farm.lua", "https://rbxscript.com/post/FruitJuiceTycoonRefreshedSimpleAutoFarm-8Bh3")
+
+addscriptexist(9551640993, "Mining Simulator 2 [GUI - Auto Mine, Mine Aura & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mining%20Simulator%20%20GUI%20%20Auto%20Mine%20Mine%20Aura%20%20More.lua", "https://rbxscript.com/post/MiningSimulator2GUIAutoMineMineAuraMore-BvAYo")
