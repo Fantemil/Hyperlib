@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 21:55:47"
+lastupdate = "GMT +1: 16.04.2023 21:55:51"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -17143,3 +17143,5 @@ addscriptexist(8962384769, "Firework Simulator [Auto-Farm, Auto-Buy Next Zone]",
 addscriptexist(6284583030, "Pet Simulator X [Mastery Auto Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pet%20Simulator%20X%20Mastery%20Auto%20Farm.lua", "https://rbxscript.com/post/PetSimulatorXMasteryAutoFarm-GrhTG")
 
 addscript(9377039667, "Current Game","Roblox Innovation Awards Voting Hub [All Hats & Badges]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Roblox%20Innovation%20Awards%20Voting%20Hub%20All%20Hats%20%20Badges.lua", "https://rbxscript.com/post/RobloxInnovationAwardsVotingHubAllHatsBadges-wvQUQ")
+
+addscriptexist(9551640993, "Mining Simulator 2 [Block Aura, AutoSell]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mining%20Simulator%20%20Block%20Aura%20AutoSell.lua", "https://rbxscript.com/post/MiningSimulator2BlockAuraAutoSell-DS8JA")
