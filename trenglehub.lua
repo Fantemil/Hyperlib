@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 22:06:30"
+lastupdate = "GMT +1: 16.04.2023 22:06:33"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -17439,3 +17439,5 @@ addscriptexist(863266079, "APOC RISER 2 [Inf Jump, Player Esp, Show Health]", "p
 addscriptexist(1962086868, "Tower of Hell [Auto Win, GodMode, Get All Items]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tower%20of%20Hell%20Auto%20Win%20GodMode%20Get%20All%20Items.lua", "https://rbxscript.com/post/TowerofHellAutoWinGodModeGetAllItems-lgFi8")
 
 addscriptexist(5956785391, "Project Slayers [Auto Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Project%20Slayers%20Auto%20Farm.lua", "https://rbxscript.com/post/ProjectSlayersAutoFarm-ttqQ")
+
+addscriptexist(8278412720, "CS Prison Life [AntiCheat Bypass]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CS%20Prison%20Life%20AntiCheat%20Bypass.lua", "https://rbxscript.com/post/CSPrisonLifeAntiCheatBypass-QjDI")
