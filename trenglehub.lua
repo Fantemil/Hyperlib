@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 22:50:58"
+lastupdate = "GMT +1: 16.04.2023 22:51:04"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18755,3 +18755,5 @@ addscriptexist(7791873535, "REALISTIC HOOD [Creates a huge block in the map]", "
 addscript(9547440060, "Current Game","Space Noob Tycoon [Inf source of gold]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Space%20Noob%20Tycoon%20Inf%20source%20of%20gold.lua", "https://rbxscript.com/post/SpaceNoobTycoonInfsourceofgold-OfzKF")
 
 addscriptuniversal("Roblox [Universal aimbot, Esp, Hitbox expander]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Roblox%20Universal%20aimbot%20Esp%20Hitbox%20expander.lua", "https://rbxscript.com/post/RobloxUniversalaimbotEspHitboxexpander-KJQVz")
+
+addscriptexist(9249776514, "Givenchy Beauty House [Auro Grab 3 UGC]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Givenchy%20Beauty%20House%20Auro%20Grab%20%20UGC.lua", "https://rbxscript.com/post/GivenchyBeautyHouseAuroGrab3UGC-BJavg")
