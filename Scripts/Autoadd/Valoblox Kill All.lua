@@ -1,13 +1,14 @@
 local killall = true
 
-local player = game.Players.LocalPlayer
 local attackers = "Bright red"
 local defenders = "Bright blue"
+
+local yourteam = "defenders" --attackers or defenders
 
 if killall == true then
 while wait() do
 for i,v in pairs(game:GetService("Players"):GetPlayers()) do
-if player.TeamColor == BrickColor.new(defenders) and v.TeamColor == BrickColor.new(attackers) then
+if yourteam == "defenders" and v.TEEM.Value == BrickColor.new(attackers) then
 local ohVector31 = Vector3.new(1241.58056640625, 108.92070007324219, -104.65380859375)
 local ohCFrame2 = CFrame.new(0, 0, 0, 1, 0, 0, 0, 0.999986112, -0.00526912464, 0, 0.00526912464, 0.999986112)
 local ohInstance3 = game.Players.LocalPlayer.Character
@@ -30,8 +31,7 @@ local ohNumber19 = 48
 local ohBoolean20 = false
 game.Players.LocalPlayer.Character.CLASSIC.UnrealEngine.FireAltBullet:FireServer(ohVector31, ohCFrame2, ohInstance3, ohNil4, ohVector35, ohNil6, ohVector37, ohVector38, ohInstance9, ohNumber10, ohNumber11, ohInstance12, ohNumber13, ohNumber14, ohNumber15, ohNumber16, ohNumber17, ohVector318, ohNumber19, ohBoolean20)
 end
-for i,v in pairs(game:GetService("Players"):GetPlayers()) do
-if player.TeamColor == BrickColor.new(attackers) and v.TeamColor == BrickColor.new(defenders) then
+if yourteam == "attackers" and v.TEEM.Value == BrickColor.new(defenders) then
 local ohVector31 = Vector3.new(1241.58056640625, 108.92070007324219, -104.65380859375)
 local ohCFrame2 = CFrame.new(0, 0, 0, 1, 0, 0, 0, 0.999986112, -0.00526912464, 0, 0.00526912464, 0.999986112)
 local ohInstance3 = game.Players.LocalPlayer.Character
