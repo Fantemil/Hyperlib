@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 22:12:01"
+lastupdate = "GMT +1: 16.04.2023 22:12:05"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -17597,3 +17597,5 @@ addscriptexist(9940051005, "Blox Legends [Collect All Pads]", "pulled from rbxsc
 addscriptexist(4951858512, "Victory Race [Increase Speed & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Victory%20Race%20Increase%20Speed%20%20More.lua", "https://rbxscript.com/post/VictoryRaceIncreaseSpeedMore-9SFqv")
 
 addscriptexist(4783966408, "Plates of Fate Remastered [Auto Complete Obby]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Plates%20of%20Fate%20Remastered%20Auto%20Complete%20Obby.lua", "https://rbxscript.com/post/PlatesofFateRemasteredAutoCompleteObby-UPJ0J")
+
+addscriptexist(6961824067, "Fling Things and People [Anti Grab & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Fling%20Things%20and%20People%20Anti%20Grab%20%20More.lua", "https://rbxscript.com/post/FlingThingsandPeopleAntiGrabMore-ptxvq")
