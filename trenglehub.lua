@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 21:42:59"
+lastupdate = "GMT +1: 16.04.2023 21:43:06"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -16791,3 +16791,5 @@ addscriptexist(21532277, "Notoriety [GUI - Teleports]", "pulled from rbxscript.c
 addscript(6720959312, "Current Game","LootQuest [BETA] [Anti Afk & Auto Fuse]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LootQuest%20BETA%20Anti%20Afk%20%20Auto%20Fuse.lua", "https://rbxscript.com/post/LootQuestBETAAntiAfkAutoFuse-XsrH3")
 
 addscriptexist(9285238704, "Race Clicker [Auto Race GUI]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Race%20Clicker%20Auto%20Race%20GUI.lua", "https://rbxscript.com/post/RaceClickerAutoRaceGUI-7FB8Z")
+
+addscriptexist(10386774046, "Legend Magician [1 Shot]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Legend%20Magician%20%20Shot.lua", "https://rbxscript.com/post/LegendMagician1Shot-h4rTG")
