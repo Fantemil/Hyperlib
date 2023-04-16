@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 22:13:38"
+lastupdate = "GMT +1: 16.04.2023 22:13:41"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -17645,3 +17645,5 @@ addscriptexist(863266079, "Apocalypse Rising 2 [GUI - Inf Jump - Esp & More!]", 
 addscriptexist(5320510816, "Farm Life Tycoon [Auto Money Collector]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Farm%20Life%20Tycoon%20Auto%20Money%20Collector.lua", "https://rbxscript.com/post/FarmLifeTycoonAutoMoneyCollector-uBGVy")
 
 addscriptexist(5956785391, "Project Slayers [Infinite Stamina]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Project%20Slayers%20Infinite%20Stamina.lua", "https://rbxscript.com/post/ProjectSlayersInfiniteStamina-dd2DX")
+
+addscriptexist(920587237, "Adopt Me! [Spam Vehicles To People + More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Adopt%20Me%20Spam%20Vehicles%20To%20People%20%20More.lua", "https://rbxscript.com/post/AdoptMeSpamVehiclesToPeopleMore-t9CIo")
