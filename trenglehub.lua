@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 22:55:52"
+lastupdate = "GMT +1: 16.04.2023 22:55:56"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18895,3 +18895,5 @@ addscriptexist(4540286603, "NORTHWIND [Animal Esp]", "pulled from rbxscript.com"
 addscriptexist(142823291, "Murder Mystery 2 [Free Knife VISUALLY]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Murder%20Mystery%20%20Free%20Knife%20VISUALLY.lua", "https://rbxscript.com/post/MurderMystery2FreeKnifeVISUALLY-dNT8F")
 
 addscriptexist(6728870912, "World of Stands Demo [infinite Gold]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/World%20of%20Stands%20Demo%20infinite%20Gold.lua", "https://rbxscript.com/post/WorldofStandsDemoinfiniteGold-Dzwap")
+
+addscriptexist(3095204897, "Isle [8 Auto Hack - Auto Guess]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Isle%20%20Auto%20Hack%20%20Auto%20Guess.lua", "https://rbxscript.com/post/Isle8AutoHackAutoGuess-C95wB")
