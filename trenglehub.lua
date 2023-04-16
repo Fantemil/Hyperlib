@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 21:37:18"
+lastupdate = "GMT +1: 16.04.2023 21:37:21"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -16629,3 +16629,5 @@ addscriptexist(9872472334, "Evade [GodMode, Fullbright]", "pulled from rbxscript
 addscript(6114972958, "Current Game","Initial D: Touge Legends [Unlock cars, Walkspeed]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Initial%20D%20Touge%20Legends%20Unlock%20cars%20Walkspeed.lua", "https://rbxscript.com/post/InitialDTougeLegendsUnlockcarsWalkspeed-H569K")
 
 addscriptexist(3095204897, "Isle, 9 [ESP, Noclip]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Isle%20%20ESP%20Noclip.lua", "https://rbxscript.com/post/Isle9ESPNoclip-jg5Jo")
+
+addscriptexist(8328351891, "Mega Mansion Tycoon [Auto Collect]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mega%20Mansion%20Tycoon%20Auto%20Collect.lua", "https://rbxscript.com/post/MegaMansionTycoonAutoCollect-JZngD")
