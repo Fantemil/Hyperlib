@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 22:40:54"
+lastupdate = "GMT +1: 16.04.2023 22:40:58"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18455,3 +18455,5 @@ addscriptexist(9726345231, "Duolingo Game Hub [Auto Farm]", "pulled from rbxscri
 addscriptexist(9726345231, "Duolingo Game Hub [Infinite Coins]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Duolingo%20Game%20Hub%20Infinite%20Coins.lua", "https://rbxscript.com/post/DuolingoGameHubInfiniteCoins-7cUv")
 
 addscriptexist(654732683, "Car Crushers 2 [Auto Farm, Speed Boost, Godmode]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Car%20Crushers%20%20Auto%20Farm%20Speed%20Boost%20Godmode.lua", "https://rbxscript.com/post/CarCrushers2AutoFarmSpeedBoostGodmode-H6gZ")
+
+addscriptexist(8540168650, "Stand Upright: Rebooted [GUI - Items Farm, Quest Farms & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Stand%20Upright%20Rebooted%20GUI%20%20Items%20Farm%20Quest%20Farms%20%20More.lua", "https://rbxscript.com/post/StandUprightRebootedGUIItemsFarmQuestFarmsMore-s53nn")
