@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 22:00:53"
+lastupdate = "GMT +1: 16.04.2023 22:00:57"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -17283,3 +17283,5 @@ addscriptexist(8962384769, "Firework Simulator [Auto Farm - Auto Buy & More!]", 
 addhub("Roblox [Casty Hub]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Roblox%20Casty%20Hub.lua", "https://rbxscript.com/post/RobloxCastyHub_%D1%8D-zn99L")
 
 addscriptexist(2629642516, "Bitcoin Miner [Anti Card Lag]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Bitcoin%20Miner%20Anti%20Card%20Lag.lua", "https://rbxscript.com/post/BitcoinMinerAntiCardLag-JkrPO")
+
+addscriptexist(5571328985, "Bloodlines [Auto Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Bloodlines%20Auto%20Farm.lua", "https://rbxscript.com/post/BloodlinesAutoFarm-l2zlG")
