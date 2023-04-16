@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 21:53:26"
+lastupdate = "GMT +1: 16.04.2023 21:53:30"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -17083,3 +17083,5 @@ addscriptexist(2474168535, "Westbound [AimBot]", "pulled from rbxscript.com", "h
 addscriptexist(4639625707, "Oil Warfare Tycoon [Esp & Aimbot]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Oil%20Warfare%20Tycoon%20Esp%20%20Aimbot.lua", "https://rbxscript.com/post/OilWarfareTycoonEspAimbot-FxLc7")
 
 addscriptexist(4855457388, "Demonfall [4.0] [God Mode]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Demonfall%20%20God%20Mode.lua", "https://rbxscript.com/post/Demonfall40GodMode-kER4p")
+
+addscript(4556148591, "Current Game","Blackout [GUI - Get Any Weapon Free]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blackout%20GUI%20%20Get%20Any%20Weapon%20Free.lua", "https://rbxscript.com/post/BlackoutGUIGetAnyWeaponFree-9m9eT")
