@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 21:50:53"
+lastupdate = "GMT +1: 16.04.2023 21:50:56"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -17009,3 +17009,5 @@ addscriptexist(10322949476, "Limited Jumps [Auto Farm Jumps]", "pulled from rbxs
 addscriptexist(180364455, "Survive The Disasters 2 [Full anticheat bypass]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Survive%20The%20Disasters%20%20Full%20anticheat%20bypass.lua", "https://rbxscript.com/post/SurviveTheDisasters2Fullanticheatbypass-mFOZZ")
 
 addscript(5571328985, "Current Game","Bloodlines [Auto Farm, Auto Sell, Drop All]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Bloodlines%20Auto%20Farm%20Auto%20Sell%20Drop%20All.lua", "https://rbxscript.com/post/BloodlinesAutoFarmAutoSellDropAll-yp1kZ")
+
+addscriptexist(7127407851, "Attack on Titan: Evolution [Inf Gas, Inf Jump, Speed Bypass]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Attack%20on%20Titan%20Evolution%20Inf%20Gas%20Inf%20Jump%20Speed%20Bypass.lua", "https://rbxscript.com/post/AttackonTitanEvolutionInfGasInfJumpSpeedBypass-dCBrI")
