@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 22:15:18"
+lastupdate = "GMT +1: 16.04.2023 22:15:22"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -17695,3 +17695,5 @@ addscriptexist(185655149, "Bloxburg [GUI - Auto Farm, Waypoint & More!]", "pulle
 addscriptexist(5956785391, "Project Slayers [Auto Spin]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Project%20Slayers%20Auto%20Spin.lua", "https://rbxscript.com/post/ProjectSlayersAutoSpin-VTKcw")
 
 addscriptexist(4036494886, "Gun Simulator [GUI - Get Infinite Money, Set Max Weapon Damage & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Gun%20Simulator%20GUI%20%20Get%20Infinite%20Money%20Set%20Max%20Weapon%20Damage%20%20More.lua", "https://rbxscript.com/post/GunSimulatorGUIGetInfiniteMoneySetMaxWeaponDamageMore-TZO4h")
+
+addscriptexist(8554378337, "Weapon Fighting Simulator [GUI - Start Farm, Select Area To Farm & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Weapon%20Fighting%20Simulator%20GUI%20%20Start%20Farm%20Select%20Area%20To%20Farm%20%20More.lua", "https://rbxscript.com/post/WeaponFightingSimulatorGUIStartFarmSelectAreaToFarmMore-kPt7n")
