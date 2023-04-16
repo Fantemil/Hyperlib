@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 22:30:06"
+lastupdate = "GMT +1: 16.04.2023 22:30:10"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18129,3 +18129,5 @@ addscript(9463737803, "Current Game","WimbleWorld [Xp Farm - Badges & Get UGC It
 addscriptexist(740581508, "Entry Point [Npc Esp]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Entry%20Point%20Npc%20Esp.lua", "https://rbxscript.com/post/EntryPointNpcEsp-Hc1Tx")
 
 addscript(2639416308, "Current Game","Ace Attorney Spam [Spam Custom Massages]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ace%20Attorney%20Spam%20Spam%20Custom%20Massages.lua", "https://rbxscript.com/post/AceAttorneySpamSpamCustomMassages-RCcxC")
+
+addscript(8603729161, "Current Game","walk 50000 studs for nothing [Max studs in under 1 minute]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/walk%20%20studs%20for%20nothing%20Max%20studs%20in%20under%20%20minute.lua", "https://rbxscript.com/post/walk50000studsfornothingMaxstudsinunder1minute-8ebhQ")
