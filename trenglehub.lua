@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 22:25:09"
+lastupdate = "GMT +1: 16.04.2023 22:25:13"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -17983,3 +17983,5 @@ addscript(2688038742, "Current Game","Area - Omega [Kill All]", "pulled from rbx
 addscriptexist(6872265039, "BedWars [Insta Kill]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BedWars%20Insta%20Kill.lua", "https://rbxscript.com/post/BedWarsInstaKill-kJnzC")
 
 addscript(4237861040, "Current Game","Treacherous Tower [GUI - Auto Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Treacherous%20Tower%20GUI%20%20Auto%20Farm.lua", "https://rbxscript.com/post/TreacherousTowerGUIAutoFarm-G0eEH")
+
+addscriptexist(9551640993, "Mining Simulator 2 [Remove Egg Animations]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mining%20Simulator%20%20Remove%20Egg%20Animations.lua", "https://rbxscript.com/post/MiningSimulator2RemoveEggAnimations-nPWLZ")
