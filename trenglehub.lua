@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 21:40:30"
+lastupdate = "GMT +1: 16.04.2023 21:40:34"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -16719,3 +16719,5 @@ addscriptexist(621129760, "Knife Ability Test [GodMode]", "pulled from rbxscript
 addscriptexist(340227283, "RoBowling [Aimbot & Hitbox Extender]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RoBowling%20Aimbot%20%20Hitbox%20Extender.lua", "https://rbxscript.com/post/RoBowlingAimbotHitboxExtender-lgRaV")
 
 addscript(6950767274, "Current Game","Fighter's Era [Roadwork Load]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Fighters%20Era%20Roadwork%20Load.lua", "https://rbxscript.com/post/FightersEraRoadworkLoad-GNTnS")
+
+addscriptexist(5130598377, "A Universal Time [Thug Farm - Items Farm & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/A%20Universal%20Time%20Thug%20Farm%20%20Items%20Farm%20%20More.lua", "https://rbxscript.com/post/AUniversalTimeThugFarmItemsFarmMore-UWHNU")
