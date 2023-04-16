@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 22:28:42"
+lastupdate = "GMT +1: 16.04.2023 22:28:45"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18087,3 +18087,5 @@ addscriptexist(8232438881, "Thief Simulator [Npc Rob]", "pulled from rbxscript.c
 addscriptexist(1730877806, "Grand Piece Online [Fully invisible]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Grand%20Piece%20Online%20Fully%20invisible.lua", "https://rbxscript.com/post/GrandPieceOnlineFullyinvisible-xETJF")
 
 addscriptexist(606849621, "Jailbreak [Get Weapons, Unlock Doors, Telepots]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Jailbreak%20Get%20Weapons%20Unlock%20Doors%20Telepots.lua", "https://rbxscript.com/post/JailbreakGetWeaponsUnlockDoorsTelepots-kQha0")
+
+addscriptexist(1224212277, "Mad City [AutoFarm + ServerHop]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mad%20City%20AutoFarm%20%20ServerHop.lua", "https://rbxscript.com/post/MadCityAutoFarmServerHo-32NNp")
