@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 22:14:25"
+lastupdate = "GMT +1: 16.04.2023 22:14:28"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -17669,3 +17669,5 @@ addscriptexist(3346617530, "Freeze & Tag Extreme [Tag All Players & More!]", "pu
 addscriptexist(679715583, "Starscape [Auto Pilot]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Starscape%20Auto%20Pilot.lua", "https://rbxscript.com/post/StarscapeAutoPilot-4vwWp")
 
 addscriptexist(3346617530, "Freeze & Tag Extreme [Silent Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Freeze%20%20Tag%20Extreme%20Silent%20Farm.lua", "https://rbxscript.com/post/FreezeTagExtremeSilentFarm-UkCN")
+
+addscriptexist(8123652942, "Legend Piece [Auto Farm & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Legend%20Piece%20Auto%20Farm%20%20More.lua", "https://rbxscript.com/post/LegendPieceAutoFarmMore-fU3Ki")
