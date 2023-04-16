@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 22:42:08"
+lastupdate = "GMT +1: 16.04.2023 22:42:11"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18493,3 +18493,5 @@ addscriptexist(4618049391, "Tang County, Hebei [Auto Farm]", "pulled from rbxscr
 addscriptexist(9297410766, "Crossbar Challenge Simulator [Fast Auto Shoot]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Crossbar%20Challenge%20Simulator%20Fast%20Auto%20Shoot.lua", "https://rbxscript.com/post/CrossbarChallengeSimulatorFastAutoShoot-SheID")
 
 addscriptexist(7336302630, "Project Detla [Silent Aim - Instant Bullets & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Project%20Detla%20Silent%20Aim%20%20Instant%20Bullets%20%20More.lua", "https://rbxscript.com/post/ProjectDetlaSilentAimInstantBulletsMore-TzwxY")
+
+addscriptexist(2685347741, "Ghost Simulator [Auto Pickup Drops]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ghost%20Simulator%20Auto%20Pickup%20Drops.lua", "https://rbxscript.com/post/GhostSimulatorAutoPickupDrops-C6XmS")
