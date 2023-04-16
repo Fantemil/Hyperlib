@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 22:21:10"
+lastupdate = "GMT +1: 16.04.2023 22:21:14"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -17865,3 +17865,5 @@ addscriptexist(9601565001, "Car Crash System [Spawn Any Paid Car]", "pulled from
 addscript(9578901194, "Current Game","Woman Repellant [Women will not run away from you]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Woman%20Repellant%20Women%20will%20not%20run%20away%20from%20you.lua", "https://rbxscript.com/post/WomanRepellantWomenwillnotrunawayfromyou-Xue2A")
 
 addscriptexist(1224212277, "Mad City [Get Weekly Rewards]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mad%20City%20Get%20Weekly%20Rewards.lua", "https://rbxscript.com/post/MadCityGetWeeklyReward-ciRs")
+
+addscript(10105990977, "Current Game","Samsung Space Tycoon [Destroy Everyones FPS]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Samsung%20Space%20Tycoon%20Destroy%20Everyones%20FPS.lua", "https://rbxscript.com/post/SamsungSpaceTycoonDestroyEveryonesFPS-GXv3")
