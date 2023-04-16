@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 22:44:07"
+lastupdate = "GMT +1: 16.04.2023 22:44:11"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18553,3 +18553,5 @@ addscriptexist(4733278992, "Sword Blox Online: Rebirth [Kill Aura, Infinite Stam
 addscriptexist(606849621, "Jailbreak [Full Auto, Get Weapons & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Jailbreak%20Full%20Auto%20Get%20Weapons%20%20More.lua", "https://rbxscript.com/post/JailbreakFullAutoGetWeaponsMore-X2KeY")
 
 addscript(7776498299, "Current Game","Sea Cleaning Simulator [Auto Farm - GUI]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sea%20Cleaning%20Simulator%20Auto%20Farm%20%20GUI.lua", "https://rbxscript.com/post/SeaCleaningSimulatorAutoFarmGUI-bAp4P")
+
+addscript(28382335, "Current Game","Zombie Tycoon [Silent Aim - GUI]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Zombie%20Tycoon%20Silent%20Aim%20%20GUI.lua", "https://rbxscript.com/post/ZombieTycoonSilentAimGU-P2E3")
