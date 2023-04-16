@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 21:57:31"
+lastupdate = "GMT +1: 16.04.2023 21:57:37"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -17193,3 +17193,5 @@ addscriptexist(3851622790, "Break In (Story) [Kill All - God Mode - Give Items]"
 addscriptexist(10118559731, "nico's nextbots [AutoBhop]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/nicos%20nextbots%20AutoBhop.lua", "https://rbxscript.com/post/nicosnextbotsAutoBhop-LOKex")
 
 addscript(8222131500, "Current Game","Island Survival [AutoHelp-Hop]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Island%20Survival%20AutoHelpHop.lua", "https://rbxscript.com/post/IslandSurvivalAutoHelpHop-z84CB")
+
+addscriptexist(4282985734, "Combat Warriors [Full client ac bypass]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Combat%20Warriors%20Full%20client%20ac%20bypass.lua", "https://rbxscript.com/post/CombatWarriorsFullclientacbypass-X64Ha")
