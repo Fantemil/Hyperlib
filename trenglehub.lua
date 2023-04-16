@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 22:56:15"
+lastupdate = "GMT +1: 16.04.2023 22:56:19"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -18907,3 +18907,5 @@ addscriptexist(1758401491, "Public Bathroom Simulator [Spam Sounds - FE Trolling
 addscriptexist(340227283, "RoBowling [Ball HBE]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RoBowling%20Ball%20HBE.lua", "https://rbxscript.com/post/RoBowlingBallHBE-262Y8")
 
 addscript(9561878567, "Current Game","Forest Of Beginnings RPG [Kill All]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Forest%20Of%20Beginnings%20RPG%20Kill%20All.lua", "https://rbxscript.com/post/ForestOfBeginningsRPGKillAl-10Ctn")
+
+addscriptexist(7799826347, "Sandbox Tycoon [Sandbox Schematics]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sandbox%20Tycoon%20Sandbox%20Schematics.lua", "https://rbxscript.com/post/SandboxTycoonSandboxSchematics-P9RSr")
