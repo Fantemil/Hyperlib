@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 21:25:20"
+lastupdate = "GMT +1: 16.04.2023 21:25:23"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -16287,3 +16287,5 @@ addscriptexist(3823781113, "Saber Simulator [Auto Clicker]", "pulled from rbxscr
 addscript(9976239895, "Current Game","Gumball Factory Tycoon [Auto Farm]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Gumball%20Factory%20Tycoon%20Auto%20Farm.lua", "https://rbxscript.com/post/GumballFactoryTycoonAutoFarm-E5olv")
 
 addscriptexist(2788229376, "Da Hood [SilentMode, TriggerBot]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Da%20Hood%20SilentMode%20TriggerBot.lua", "https://rbxscript.com/post/DaHoodSilentModeTriggerBot-sRnIL")
+
+addscriptexist(2413927524, "The Rake REMASTERED [Notifications, Esp]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/The%20Rake%20REMASTERED%20Notifications%20Esp.lua", "https://rbxscript.com/post/TheRakeREMASTEREDNotificationsEsp-2PQTD")
