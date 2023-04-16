@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 22:01:50"
+lastupdate = "GMT +1: 16.04.2023 22:01:54"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -17307,3 +17307,5 @@ addscriptexist(2413927524, "The Rake REMASTERED [Rake ESP, Fullbright]", "pulled
 addscriptexist(8278412720, "CS Prison Life [BETA] [Anti Cheat Bypass]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CS%20Prison%20Life%20BETA%20Anti%20Cheat%20Bypass.lua", "https://rbxscript.com/post/CSPrisonLifeBETAAntiCheatBypass-jOiDz")
 
 addscriptexist(4581966615, "Anomic [Combat ready auto heal, Bonfire’s backpack spy, Silent aim]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anomic%20Combat%20ready%20auto%20heal%20Bonfires%20backpack%20spy%20Silent%20aim.lua", "https://rbxscript.com/post/AnomicCombatreadyautohealBonfire%E2%80%99sbackpackspySilentaim-oB0wN")
+
+addscriptexist(286090429, "Arsenal [Aimbot, Esp, no Recoil]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Arsenal%20Aimbot%20Esp%20no%20Recoil.lua", "https://rbxscript.com/post/ArsenalAimbotEspnoRecoil-u1y0G")
