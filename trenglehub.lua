@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 16.04.2023 22:00:42"
+lastupdate = "GMT +1: 16.04.2023 22:00:45"
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -17277,3 +17277,5 @@ addscript(30869879, "Current Game","Stop it, Slender! [Free Premium Lootboxes]",
 addscriptexist(10192063645, "Thy Hood [Semi God Mode]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Thy%20Hood%20Semi%20God%20Mode.lua", "https://rbxscript.com/post/ThyHoodSemiGodMode-R5HH7")
 
 addscriptexist(3346617530, "Freeze Tag Extreme v2.4 [Anti Admin - Tag All Players & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Freeze%20Tag%20Extreme%20v%20Anti%20Admin%20%20Tag%20All%20Players%20%20More.lua", "https://rbxscript.com/post/FreezeTagExtremev24AntiAdminTagAllPlayersMore-xReAx")
+
+addscriptexist(8962384769, "Firework Simulator [Auto Farm - Auto Buy & More!]", "pulled from rbxscript.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Firework%20Simulator%20Auto%20Farm%20%20Auto%20Buy%20%20More.lua", "https://rbxscript.com/post/FireworkSimulatorAutoFarmAutoBuyMore-4iqc")
