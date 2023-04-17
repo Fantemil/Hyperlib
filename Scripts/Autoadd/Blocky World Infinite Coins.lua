@@ -1,0 +1,1 @@
+game:GetService("ReplicatedStorage").Remotes.Functions.TradeCoins:InvokeServer(-2000000000)

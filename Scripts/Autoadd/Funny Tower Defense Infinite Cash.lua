@@ -1,0 +1,1 @@
+game:GetService("ReplicatedStorage").Events.SellTower:FireServer(workspace.Towers.Default,9e9)

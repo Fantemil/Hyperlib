@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/shawnjbragdon-0/Aegis-TheBorder-UI/main/scripts/main.lua", true))()

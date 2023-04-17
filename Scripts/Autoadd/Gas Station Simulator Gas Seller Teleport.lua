@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/iUseYahoo/RobloxScripts/main/Gas%20Station%20Simulator/GasStationSimulator.lua"))()

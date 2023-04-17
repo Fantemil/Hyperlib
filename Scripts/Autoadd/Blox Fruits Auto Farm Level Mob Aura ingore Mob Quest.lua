@@ -1,0 +1,1 @@
+loadstring(game:HttpGet'https://raw.githubusercontent.com/AstroScripter/ASTROHUB/main/Main/BloxFruit-1.lua')()

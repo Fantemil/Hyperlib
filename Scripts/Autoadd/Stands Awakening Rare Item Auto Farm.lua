@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/NormalDudeBro/ShootMeAwakening/main/main.lua"))()

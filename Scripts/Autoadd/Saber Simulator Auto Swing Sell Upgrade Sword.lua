@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://raw.githubusercontent.com/enxiety/sabersim/main/saberhax.lua'))

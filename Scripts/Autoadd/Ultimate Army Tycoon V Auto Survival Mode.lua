@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/TheAbsolutionism/UltimateArmyTycoon/main/Init", true))()

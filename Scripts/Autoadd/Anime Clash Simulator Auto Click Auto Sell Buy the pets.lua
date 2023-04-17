@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Replitbot/ASC-SCRIPT-PUBLIC/main/ASC%20PUB"))()

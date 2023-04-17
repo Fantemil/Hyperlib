@@ -1,9 +1,9 @@
+-- Put this in your autoexe folder
 getgenv().TreasureQuestAutofarm = {
    Enabled = true;
    Dungeon = "Ancient Jungle";
    Difficulty = "Easy";
    GameMode = "Classic";
-   EndlessSellFullInventory = true;
    FailSafeRejoin = false; -- Tries to go back to lobby incase Character gets stuck somewhere...
    FailSafeSeconds = 200;
 }

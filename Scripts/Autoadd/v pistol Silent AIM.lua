@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://raw.githubusercontent.com/AtomGotIce/Scripts/main/1v1%20pistol%20dead%20game'))()

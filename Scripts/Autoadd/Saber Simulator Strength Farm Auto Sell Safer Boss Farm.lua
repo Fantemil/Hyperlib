@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ScriptRUs/Banana/main/SaberSimulatorV2.lua"))()

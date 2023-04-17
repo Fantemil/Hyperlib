@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/typical-overk1ll/scripts/main/HorrificHousing",true))()

