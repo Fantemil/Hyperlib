@@ -1,32 +1,29 @@
-local plr = game.Players.LocalPlayer
-local plrTyc = plr.TycoonReference.Value
-
-if plrTyc.AutoCollect.Value == false then
-  firetouchinterest(plr.Character.HumanoidRootPart,plrTyc.StarterParts.AutoCollect.Switch,0)
-  firetouchinterest(plr.Character.HumanoidRootPart,plrTyc.StarterParts.AutoCollect.Switch,1)
-end
-
-plrTyc.ButtonsFolder.ChildAdded:Connect(function(newButton)
-   task.wait()
-   if not newButton:FindFirstChild("GamePass") and newButton:WaitForChild("Price") then
-       game:GetService("ReplicatedStorage").RespawnService:FireServer(newButton.Price.Value)
-       firetouchinterest(plr.Character.HumanoidRootPart,newButton.Head,0)
-       firetouchinterest(plr.Character.HumanoidRootPart,newButton.Head,1)
-   end
-end)
-
-plrTyc.PurchasesFolder.ChildAdded:Connect(function(newThing)
-   if newThing.Name == "Rebirth5" then
-       game:GetService("ReplicatedStorage").rebirthEvent:FireServer()
-   end
-end)
-
-task.wait()
-
-for i,v in ipairs(plrTyc.ButtonsFolder:GetChildren()) do
-   if not v:FindFirstChild("GamePass") and v:FindFirstChild("Price") then
-       game:GetService("ReplicatedStorage").RespawnService:FireServer(v.Price.Value)
-       firetouchinterest(plr.Character.HumanoidRootPart,v.Head,0)
-       firetouchinterest(plr.Character.HumanoidRootPart,v.Head,1)
+getgenv().autoBuy = true
+getgenv().autoRebirth = false
+getgenv().autoCollect = true
+getgenv().infMoney = true -- Only works with autoRebirth
+local rStorage = game:GetService("ReplicatedStorage")
+while wait(0.3) do
+   for _,v in pairs(workspace.Tycoons:GetChildren()) do
+       if v.Owner.Value == game.Players.LocalPlayer.Name then
+           if autoRebirth then
+               rStorage.rebirthEvent:FireServer()
+               if infMoney then
+                   rStorage.RespawnService:FireServer(9e16)
+               end
+           end
+           if autoBuy then
+               for a,b in pairs(v.ButtonsFolder:GetChildren()) do
+                   if not b:FindFirstChild("GamePass") then
+                       firetouchinterest(game.Players.LocalPlayer.Character.HumanoidRootPart, b.Head, 0)
+                       firetouchinterest(game.Players.LocalPlayer.Character.HumanoidRootPart, b.Head, 1)
+                   end
+               end
+           end
+           if autoCollect then
+               firetouchinterest(game.Players.LocalPlayer.Character.HumanoidRootPart, v.StarterParts.Collector.Givers.CashCollector, 0)
+               firetouchinterest(game.Players.LocalPlayer.Character.HumanoidRootPart, v.StarterParts.Collector.Givers.CashCollector, 1)
+           end
+       end
    end
 end

@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ScriptRUs/GhostHub/main/GhostHubScript.lua"))()

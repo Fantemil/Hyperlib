@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://rawscripts.net/raw/auto-ore-farm_932'))()

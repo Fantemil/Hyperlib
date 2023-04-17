@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/sinret/rbxscript.com-scripts-reuploads-/main/pizaa", true))()
+loadstring(game:HttpGet("https://cdn.elerium.cc/scripts/pizza-farmer.lua"))();

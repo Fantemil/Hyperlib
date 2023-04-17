@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://raw.githubusercontent.com/laderite/zenx/main/scripts/Demon_Soul.lua'))()

