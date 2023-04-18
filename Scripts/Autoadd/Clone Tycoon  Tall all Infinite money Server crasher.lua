@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/BaconLords/Random-Shit/main/Clone%20Tycoon%20Super%20Op"))()

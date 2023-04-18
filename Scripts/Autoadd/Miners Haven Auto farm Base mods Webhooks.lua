@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/slendercreeper/MinersHaven/main/Slender%20Final%20Gui.lua"))()

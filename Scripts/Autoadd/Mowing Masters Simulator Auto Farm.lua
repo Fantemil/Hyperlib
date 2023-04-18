@@ -1,0 +1,1 @@
+loadstring(game:HttpGet(('https://raw.githubusercontent.com/xyba1337/Mowing-Masters-GUI/main/MowingMastersGUI.lua')))()

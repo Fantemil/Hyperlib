@@ -12,17 +12,14 @@ $$$$$$/    $$$$$$  |$$$$$$$  |$$$$$$$$/
                                         
                                         
 
-No Lag Script [Includes Anti-AFK] by banz#1780 | https://discord.gg/HtQHxwb5vm
-https://www.roblox.com/games/6356806222/Lag-Test-2021
+All Tools Script by banz#1780 | https://discord.gg/HtQHxwb5vm
+https://www.roblox.com/games/662417684/LUCKY-BLOCKS-Battlegrounds
 ]]--
 print("Started")
-wait()
-local tabz = game:GetService("VirtualUser")
 while wait() do
-game.Workspace.Parts:ClearAllChildren()
-game:GetService("Players").LocalPlayer.Idled:connect(function()
-tabz:Button2Down(Vector2.new(0,0),workspace.CurrentCamera.CFrame)
-wait(1)
-tabz:Button2Up(Vector2.new(0,0),workspace.CurrentCamera.CFrame)
-end)
+game:GetService("ReplicatedStorage").SpawnLuckyBlock:FireServer()
+game:GetService("ReplicatedStorage").SpawnSuperBlock:FireServer()
+game:GetService("ReplicatedStorage").SpawnDiamondBlock:FireServer()
+game:GetService("ReplicatedStorage").SpawnRainbowBlock:FireServer()
+game:GetService("ReplicatedStorage").SpawnGalaxyBlock:FireServer()
 end 
