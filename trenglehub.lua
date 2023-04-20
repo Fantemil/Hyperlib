@@ -179,25 +179,8 @@ function addhub(title,author,scriptlink,origin)
     end)
 end
 local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Library/kavo-ui.lua"))()
-getgenv().Window = Library.CreateLib("Hyperlib", "BloodTheme")
+getgenv().Window = Library.CreateLib("Hyperlib", "DarkTheme")
 Window = getgenv().Window
-Statstab = Window:NewTab("Status")
-local StatusSection = Statstab:NewSection("---Last Update---")
-StatusSection:NewLabel(lastupdate)
-local Player = Window:NewTab("Player")
-local PlayerSection = Player:NewSection("Player")
-
-PlayerSection:NewSlider("Walkspeed", "Changes the walkspeed", 250, 16, function(v)
-    game.Players.LocalPlayer.Character.Humanoid.WalkSpeed = v
-end)
-
-PlayerSection:NewSlider("Jumppower", "Changes the jumppower", 250, 50, function(v)
-    game.Players.LocalPlayer.Character.Humanoid.JumpPower = v
-end)
-PlayerSection:NewSlider("Gravity", "Changes the gravity", 250, 0, function(v)
-    game.Workspace.Gravity = v
-end)
-
 
 
 
@@ -212,11 +195,29 @@ local gamehubs = Window:NewTab("Game Hubs")
 local gamehubsection = gamehubs:NewSection("---Game Hubs---")
 getgenv().gamehubsection = gamehubsection
 
+local Player = Window:NewTab("Player")
+local PlayerSection = Player:NewSection("Player")
+
+PlayerSection:NewSlider("Walkspeed", "Changes the walkspeed", 250, 16, function(v)
+    game.Players.LocalPlayer.Character.Humanoid.WalkSpeed = v
+end)
+
+PlayerSection:NewSlider("Jumppower", "Changes the jumppower", 250, 50, function(v)
+    game.Players.LocalPlayer.Character.Humanoid.JumpPower = v
+end)
+PlayerSection:NewSlider("Gravity", "Changes the gravity", 250, 0, function(v)
+    game.Workspace.Gravity = v
+end)
+
+Statstab = Window:NewTab("Status")
+local StatusSection = Statstab:NewSection("---Last Update---")
+StatusSection:NewLabel(lastupdate)
 local Keybinds = Window:NewTab("Keybinds")
 local KeybindsSection = Keybinds:NewSection("---Keybinds---")
 KeybindsSection:NewKeybind("Toggle UI", "Press T To toggle the Hyperlib UI (Click to change Keybind)", Enum.KeyCode.T, function()
 	Library:ToggleUI()
 end)
+
 local Credits = Window:NewTab("Credits")
 local CreditsSection = Credits:NewSection("---Credits---")
 local CreditsSection2 = Credits:NewSection("Made by Fantemil#0080")
