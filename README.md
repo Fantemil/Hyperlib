@@ -14,7 +14,7 @@ You will never need a key and i will never obfuscate the script. Hyperlib on its
 
 # Hyperlib is special! But i need help.
 
-Hyperlib uses a Python Selenium bot to add new scripts to the Hub automatically! Though, The Bot does not know if a Script isnt working of course. Because of that please report Scripts that aren't working to Fantemil#0080 on discord
+Hyperlib uses a Python Selenium bot to add new scripts to the Hub automatically! Though, The Bot does not know if a Script isnt working of course. Because of that please report Scripts that aren't working to fantemil on discord, or just open a issue
 
 # How to run
 
@@ -26,7 +26,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/Fantemil/Trenglehub/m
 
 # HELP ME!
 
-I need a lot of help improving the Hub! If you want to contribute then please send me your scripts or ideas on discord or make a pull request!!! Fantemil#0080
+I need a lot of help improving the Hub! If you want to contribute then please send me your scripts or ideas on discord or make a pull request/issue!!! (discord: fantemil)
 
 
 # Documentation
