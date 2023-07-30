@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://raw.githubusercontent.com/Kaiden00/Scripts/main/Fabled%20Legacy.lua', true))()

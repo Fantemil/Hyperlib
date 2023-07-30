@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/x4nto/ThunderHub/rblxscripts/dabest.lua"))()

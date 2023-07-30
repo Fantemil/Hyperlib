@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/DoorsCoolScripts/Doors-ULTIMATE-SCRIPT-V2-By-Dino/main/Doors%20ULTIMATE%20SCRIPT%20V2%20By%20Dino"))()

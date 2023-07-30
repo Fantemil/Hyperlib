@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/bebedi15/MyWeirdScript/main/TeleportGui.lua"))()

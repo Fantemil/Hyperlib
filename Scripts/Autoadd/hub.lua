@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/prosko1234/doorshub/main/doors.lua"))()

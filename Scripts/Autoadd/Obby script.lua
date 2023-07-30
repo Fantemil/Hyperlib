@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://raw.githubusercontent.com/OneUnderstandableWorld/Barrys-Prison-Run/main/Documention'))()

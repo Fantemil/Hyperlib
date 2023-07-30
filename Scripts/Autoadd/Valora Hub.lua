@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/QuackyCoderDuck/Valora-Hub/main/Hub%20v1"))()

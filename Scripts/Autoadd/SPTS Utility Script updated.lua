@@ -1,0 +1,1 @@
+loadstring(game:HttpGet(('https://raw.githubusercontent.com/unknown-error42/SPTS-Utility/main/main.lua'),true))()

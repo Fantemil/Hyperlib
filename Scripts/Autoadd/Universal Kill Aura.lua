@@ -1,3 +1,1 @@
-getgenv().Range = --put range
-
-loadstring(game:HttpGet('https://raw.githubusercontent.com/yeerma/such/main/migga'))()
+loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/78n/Amity/main/KillAura.lua"))()

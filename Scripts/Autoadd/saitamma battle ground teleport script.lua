@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Zuwyy/Tao-Hu-Hub-Fade-2.0/main/Sitama%20Battlegrounds%20Script"))()

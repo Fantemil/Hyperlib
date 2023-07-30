@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/god5551/SaitamaBattlegrounds/main/New9'"))()

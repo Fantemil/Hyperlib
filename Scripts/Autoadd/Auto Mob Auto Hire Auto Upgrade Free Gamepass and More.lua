@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Saaakai/Random-Roblox-Script/main/Anime%20Idle%20Simulator"))()

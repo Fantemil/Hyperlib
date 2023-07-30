@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://raw.githubusercontent.com/Sami321code/Sami01_YT-Universal-Script/main/Sami01_YT%20Universal%20Script'))()

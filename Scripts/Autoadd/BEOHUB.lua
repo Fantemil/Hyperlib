@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://raw.githubusercontent.com/Bestxemchua/agagagaq/main/BeoHUB/BeoHUB.lua'))()

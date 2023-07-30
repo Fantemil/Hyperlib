@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/GooD1020/SAZX_KAITANANDAiMbot_update/main/README.md"))()

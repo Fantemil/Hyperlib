@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/kooggy/Open-Source/main/50%20Pick%20A%20Door.lua"))()

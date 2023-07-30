@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/JoeMama4832/SlendytubbiesVSR3dux/main/script"))()

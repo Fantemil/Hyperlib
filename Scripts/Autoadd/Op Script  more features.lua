@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/CatmemerAKAcatluga/Slap-Battles-Dev/main/Official-Slapper-Hub-v2.5.lua", true))(Roblox);

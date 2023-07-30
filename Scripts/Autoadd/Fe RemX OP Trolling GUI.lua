@@ -1,0 +1,1 @@
+https://raw.githubusercontent.com/Henry887/RemX-Script-Hub/main/main.lua

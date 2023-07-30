@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Tropxzz/Scripts/main/REE%20CONSOLE%20RAIDER%20FIXED", true))()

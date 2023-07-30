@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/sxnsiferous/commandhub/main/CommandHub.lua"))()

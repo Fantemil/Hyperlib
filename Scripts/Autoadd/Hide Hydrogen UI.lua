@@ -1,0 +1,1 @@
+game.CoreGui.HydrogenGui:Destroy()

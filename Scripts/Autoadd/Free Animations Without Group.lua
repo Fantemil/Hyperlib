@@ -1,0 +1,1 @@
+game.Players.LocalPlayer.PlayerGui.sg.anims.Visible = true

@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/rouxhaver/scripts-3/main/FE%20character%20creator.lua"))()

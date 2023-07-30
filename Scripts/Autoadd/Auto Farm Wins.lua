@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/CosmoCircle/scripts/main/shitty%20trampoline%20game"))()

@@ -1,0 +1,1 @@
+get script at disco :scream: -> https://discord.gg/95zGeaCtVn

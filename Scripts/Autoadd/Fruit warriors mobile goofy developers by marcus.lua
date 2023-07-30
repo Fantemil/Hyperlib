@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Mei2232/ZaqueHub/main/Fruit%20Warrior"))()

@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/R3TH-PRIV/R3TH-PRIV/main/DEVICES/R3THPRIVPC.txt"))()

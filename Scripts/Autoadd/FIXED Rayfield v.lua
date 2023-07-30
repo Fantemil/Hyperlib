@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/CatmemerAKAcatluga/Slap-Battles-Dev/main/Rayfield-Slap-Battles-Hub-by-ArceusX3428-v1.txt",true))()

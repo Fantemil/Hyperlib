@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/LxghtSvde/Roblox-Skibi-Toilets-Universe-Gamepass-morph-script/main/Skibid%20Toilets%3AUniverse%20Gamepass%20morph",true))();

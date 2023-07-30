@@ -1,2 +1,1 @@
-getgenv().key = "newkeyitsextramenewnewnew"
-loadstring(game:HttpGet("https://raw.githubusercontent.com/xfaz/wldd/main/listay", true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ToraIsMe/ToraIsMe/main/0raise", true))()

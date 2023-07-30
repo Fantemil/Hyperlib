@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/PerfectusMim/dbevo/main/How%20Far%20Can%20You%20Throw%3F"))()

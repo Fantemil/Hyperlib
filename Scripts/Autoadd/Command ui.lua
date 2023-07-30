@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Xowie89/Roblox-Scripts/main/CommandUI.lua"))()

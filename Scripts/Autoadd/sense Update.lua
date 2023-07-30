@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Desktop2677/Tridentsense/main/Rewrite.lua"))()

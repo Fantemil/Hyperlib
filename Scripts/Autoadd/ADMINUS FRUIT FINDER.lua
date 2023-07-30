@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://scripts.luawl.com/hosted/4182/15951/Adminus-BloxFruits.lua'))()

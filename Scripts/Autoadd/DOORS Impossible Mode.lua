@@ -111,23 +111,23 @@ local sprintTime = 7
 local cooldown = false
 
 local ModuleScripts = {
- MainGame = require(Plr.PlayerGui.MainUI.Initiator.Main_Game),
+	MainGame = require(Plr.PlayerGui.MainUI.Initiator.Main_Game),
 }
 
 -- Setup
 
 local nIdx; nIdx = hookmetamethod(game, "__newindex", newcclosure(function(t, k, v)
- if k == "WalkSpeed" then
-  if ModuleScripts.MainGame.chase then
-   v = ModuleScripts.MainGame.crouching and 15 or 22
-  elseif ModuleScripts.MainGame.crouching then
-   v = 8
-  else
-   v = isSprinting and 20 or 12
-  end
- end
+	if k == "WalkSpeed" then
+		if ModuleScripts.MainGame.chase then
+			v = ModuleScripts.MainGame.crouching and 15 or 22
+		elseif ModuleScripts.MainGame.crouching then
+			v = 8
+		else
+			v = isSprinting and 20 or 12
+		end
+	end
 
- return nIdx(t, k, v)
+	return nIdx(t, k, v)
 end))
 
 -- Scripts
@@ -135,62 +135,62 @@ end))
 sprintTime = math.max(sprintTime - 1, 1)
 local zerostamtween = game.TweenService:Create(ImageLabel,TweenInfo.new(12),{ImageTransparency = 0})
 UIS.InputBegan:Connect(function(key, gameProcessed)
- if not gameProcessed and key.KeyCode == Enum.KeyCode.Q and not cooldown and not ModuleScripts.MainGame.crouching then
-  -- Sprinting
+	if not gameProcessed and key.KeyCode == Enum.KeyCode.Q and not cooldown and not ModuleScripts.MainGame.crouching then
+		-- Sprinting
 
-  isSprinting = true
-  Hum:SetAttribute("SpeedBoost",4)
-  zerostamtween:Play()
-  while UIS:IsKeyDown(Enum.KeyCode.Q) and stamina > 0 do
-   stamina = math.max(stamina - 1, 0)
-   Fill.Size = UDim2.new(1 / staminaMax * stamina, 1, 1, 0)
-   task.wait(sprintTime / 100)
-   
-  end
+		isSprinting = true
+		Hum:SetAttribute("SpeedBoost",4)
+		zerostamtween:Play()
+		while UIS:IsKeyDown(Enum.KeyCode.Q) and stamina > 0 do
+			stamina = math.max(stamina - 1, 0)
+			Fill.Size = UDim2.new(1 / staminaMax * stamina, 1, 1, 0)
+			task.wait(sprintTime / 100)
+			
+		end
 
-  -- Reset
-  zerostamtween:Pause()
-  isSprinting = false
-  Hum:SetAttribute("SpeedBoost",0)
-  game.TweenService:Create(ImageLabel,TweenInfo.new(1),{ImageTransparency = 1}):Play()
-  Hum.WalkSpeed = 12
+		-- Reset
+		zerostamtween:Pause()
+		isSprinting = false
+		Hum:SetAttribute("SpeedBoost",0)
+		game.TweenService:Create(ImageLabel,TweenInfo.new(1),{ImageTransparency = 1}):Play()
+		Hum.WalkSpeed = 12
 
-  if stamina == 0 then
-   -- Cooldown
-   firesignal(game.ReplicatedStorage.Bricks.Caption.OnClientEvent,"You're exhausted.")
-   local noStamernaSound = Instance.new("Sound",workspace)
-   noStamernaSound.SoundId = "rbxassetid://8258601891"
-   noStamernaSound.Volume = 0.8
-   noStamernaSound.PlayOnRemove = true
-   noStamernaSound:Destroy()
-   cooldown = true
-   game.TweenService:Create(ImageLabel,TweenInfo.new(0.3),{ImageTransparency = 0}):Play()
-   wait(0.3)
-   game.TweenService:Create(ImageLabel,TweenInfo.new(10),{ImageTransparency = 1}):Play()
-   for i = 1, staminaMax, 1 do
-    stamina = i
-    Fill.Size = UDim2.new(1 / staminaMax * i, 1, 1, 0)
+		if stamina == 0 then
+			-- Cooldown
+			firesignal(game.ReplicatedStorage.Bricks.Caption.OnClientEvent,"You're exhausted.")
+			local noStamernaSound = Instance.new("Sound",workspace)
+			noStamernaSound.SoundId = "rbxassetid://8258601891"
+			noStamernaSound.Volume = 0.8
+			noStamernaSound.PlayOnRemove = true
+			noStamernaSound:Destroy()
+			cooldown = true
+			game.TweenService:Create(ImageLabel,TweenInfo.new(0.3),{ImageTransparency = 0}):Play()
+			wait(0.3)
+			game.TweenService:Create(ImageLabel,TweenInfo.new(10),{ImageTransparency = 1}):Play()
+			for i = 1, staminaMax, 1 do
+				stamina = i
+				Fill.Size = UDim2.new(1 / staminaMax * i, 1, 1, 0)
 
-    task.wait(sprintTime / 50)
-   end
+				task.wait(sprintTime / 50)
+			end
 
-   cooldown = false
-  else
-   -- Refill
-   cooldown = false
-   Spawn(function()
-       --wait(1)
-       cooldown = false
-   end)
-   game.TweenService:Create(ImageLabel,TweenInfo.new(1),{ImageTransparency = 1}):Play()
-   while not UIS:IsKeyDown(Enum.KeyCode.Q) do
-    stamina = math.min(stamina + 1, staminaMax)
-    Fill.Size = UDim2.new(1 / staminaMax * stamina, 1, 1, 0)
+			cooldown = false
+		else
+			-- Refill
+			cooldown = false
+			Spawn(function()
+			    --wait(1)
+			    cooldown = false
+			end)
+			game.TweenService:Create(ImageLabel,TweenInfo.new(1),{ImageTransparency = 1}):Play()
+			while not UIS:IsKeyDown(Enum.KeyCode.Q) do
+				stamina = math.min(stamina + 1, staminaMax)
+				Fill.Size = UDim2.new(1 / staminaMax * stamina, 1, 1, 0)
 
-    task.wait(sprintTime / 50)
-   end
-  end        
- end
+				task.wait(sprintTime / 50)
+			end
+		end        
+	end
 end)
 Hum:SetAttribute("SpeedBoost",0)
 Hum.WalkSpeed = 12

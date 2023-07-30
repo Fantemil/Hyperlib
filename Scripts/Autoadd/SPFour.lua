@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Scriptingdude/Sp4/main/Speedrun4.lua"))()

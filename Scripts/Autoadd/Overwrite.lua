@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://raw.githubusercontent.com/GreenySteveyYtt/Overwrite/main/smb1overwrite.lua'))()

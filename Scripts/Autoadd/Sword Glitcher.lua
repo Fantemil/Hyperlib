@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://raw.githubusercontent.com/SwordSimIsGood/Sword-SG/main/Swords FE Starmd'))()

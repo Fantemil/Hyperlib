@@ -1,0 +1,1 @@
+loadstring(game:HttpGet"https://raw.githubusercontent.com/hgyTUWyeu/starlighthub/main/script.lua")()

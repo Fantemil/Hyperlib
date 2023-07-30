@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://scriptblox.com/raw/UPDATE-Evade-Evade-UPDATED-5514"))()

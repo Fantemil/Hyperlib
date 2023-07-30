@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/IkkyyDF/ProjectNexus/main/Loader.lua"))()
+loadstring(game:HttpGet('https://robloxscripts.co.uk/request-script/Project-Nexus-142'))()

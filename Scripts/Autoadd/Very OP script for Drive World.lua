@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://raw.githubusercontent.com/LeadMarker/opensrc/main/Drive%20World/autofarm.lua'))()

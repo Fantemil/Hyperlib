@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://codeberg.org/MTrietHub/Free-Script/raw/branch/main/MTriet-Hub.lua"))()

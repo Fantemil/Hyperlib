@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://raw.githubusercontent.com/LeanNBud/LegacyEngine/main/Games/RaiseAPochita.lua', true))()

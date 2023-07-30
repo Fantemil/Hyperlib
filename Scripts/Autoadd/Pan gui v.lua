@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Slinzo1/Pan-GUI-/main/Pan%20guu"))()

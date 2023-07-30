@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ArgetnarYT/scripts/main/RP%20CITY%20REDCLIFF%20GUI.lua"))()

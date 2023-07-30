@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/DylanIsAKingL/KingsWare/main/loader.lua"))()

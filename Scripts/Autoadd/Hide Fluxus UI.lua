@@ -1,0 +1,2 @@
+--Put this script into autoexec if on fluxus mobile and it doesnt work on pc (recommended)
+loadstring(game:HttpGet("https://raw.githubusercontent.com/AZYsGithub/chillz-workshop/main/Hide%20Fluxus.txt"))()

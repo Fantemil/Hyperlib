@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ProBaconHub/Mad-City-Script/main/MadAutoRob(NoServerHop)"))()

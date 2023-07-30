@@ -1,0 +1,1 @@
+game.Players.LocalPlayer.Character:MoveTo(Vector3.new(70.19058227539062, 139.9843292236328, 4385.03125))

@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://raw.githubusercontent.com/SaberDub/Scripts/main/Blue%20Heater.lua'))()

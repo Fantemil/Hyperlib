@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/suno-development/Bot-Controller/main/controller.lua", true))("Cryptic Public")

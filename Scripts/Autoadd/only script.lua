@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Xyl3ntHacks/Killa-s-Scripts/main/%5B%F0%9F%94%A5QUESTS!%5D%20Strong%20Fighters%20Simulator!%20%F0%9F%92%AA", true))()

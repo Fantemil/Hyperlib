@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Luke-King56/Revenge-Of-The-Slimes/main/Script",true))()

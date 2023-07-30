@@ -1,0 +1,1 @@
+loadstring(game:HttpGet(("https://raw.githubusercontent.com/liran121/Vaid-Scripts/main/Speed%20Slider.lua")))();

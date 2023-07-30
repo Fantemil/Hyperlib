@@ -1,0 +1,1 @@
+loadstring(game:HttpGet(('https://raw.githubusercontent.com/lku123/open-source-snowball.io-script/main/snowball.io'),true))()

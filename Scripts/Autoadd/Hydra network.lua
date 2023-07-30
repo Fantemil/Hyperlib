@@ -1,0 +1,1 @@
+loadstring(game:HttpGet(("https://raw.githubusercontent.com/Robobo2022/script/main/Games/Parkour.lua"), true))()

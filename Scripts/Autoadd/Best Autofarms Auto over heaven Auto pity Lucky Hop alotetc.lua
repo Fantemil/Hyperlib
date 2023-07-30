@@ -1,0 +1,2 @@
+--there are ALOT of scripts so i cant write all of them here because alot of getgenv features, join for the scripts (THERE IS NO ADS OR ANYTHING TO GET THER SCRIPTS U JUST COPY PASTE)
+https://discord.gg/hsb

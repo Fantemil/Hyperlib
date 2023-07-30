@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/AloneBiNgu/AloneHub/main/PvpGui.lua"))()

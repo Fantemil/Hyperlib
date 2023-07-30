@@ -1,0 +1,1 @@
+game.Players.LocalPlayer.UserId = "37470486"

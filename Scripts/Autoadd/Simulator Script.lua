@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://raw.githubusercontent.com/OneUnderstandableWorld/Legends-Of-Speed-Script/main/Documention'))()

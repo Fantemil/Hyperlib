@@ -1,0 +1,1 @@
+loadstring(game:HttpGetAsync(("https://raw.githubusercontent.com/Podroka626/Scripts/main/"..game.PlaceId)))()

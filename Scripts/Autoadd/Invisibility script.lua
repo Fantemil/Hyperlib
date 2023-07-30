@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://gist.githubusercontent.com/KeoneGithub/51c40bb348ad60046a108dab4a1f23d8/raw/9d9e2a7f97098722180f9adb129d9799c29885c3/Town.txt"))()

