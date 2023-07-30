@@ -293,19 +293,44 @@ getgenv().Window = Library.CreateLib("Hyperlib V3.1", "DarkTheme")
 Window = getgenv().Window
 
 
-
+getgenv().loadedgeneral = false 
+getgenv().loadedhub = false
 
 
 getgenv().generalscripts = Window:NewTab("General")
 getgenv().generalscriptssection = generalscripts:NewSection("---General/Universal Scripts---")
-getgenv().generalscriptssection:NewButton("Load General Scripts", "Loads all General Scripts", function()
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/Fantemil/Hyperlib/main/Games/universal.lua"))()
+getgenv().generalload = getgenv().generalscriptssection:NewButton("Load General Scripts", "Loads all General Scripts", function()
+    if getgenv().loadedgeneral == false then
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/Fantemil/Hyperlib/main/Games/universal.lua"))()
+        getgenv().loadedgeneral = true
+        getgenv().generalload:UpdateButton("Finished loading!")
+    else
+        bigRedItalicText("You have already loaded the General Scripts!")
+        spawn(function()
+            getgenv().generalload:UpdateButton("Already Loaded!")
+            wait(5)
+            getgenv().generalload:UpdateButton("Finished loading!")
+        end)
+    end
+
 end)
 getgenv().gamehubs = Window:NewTab("Game Hubs")
 getgenv().gamehubsection = gamehubs:NewSection("---Game Hubs---")
-getgenv().gamehubsection:NewButton("Load Game Hubs", "Loads all Game Hubs", function()
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/Fantemil/Hyperlib/main/Games/hub.lua"))()
+getgenv().hubload= getgenv().gamehubsection:NewButton("Load Game Hubs", "Loads all Game Hubs", function()
+    if getgenv().loadedhub == false then
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/Fantemil/Hyperlib/main/Games/hub.lua"))()
+        getgenv().loadedhub = true
+        getgenv().hubload:UpdateButton("Finished loading!")
+    else
+        bigRedItalicText("You have already loaded the Game Hubs!")
+        spawn(function()
+            getgenv().hubload:UpdateButton("Already Loaded!")
+            wait(5)
+            getgenv().hubload:UpdateButton("Finished loading!")
+        end)
+    end
 end)
+
 local Player = Window:NewTab("Player")
 local PlayerSection = Player:NewSection("Player")
 
