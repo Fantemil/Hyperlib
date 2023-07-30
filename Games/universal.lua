@@ -1,2 +1,2 @@
 
-adduniversal("DAHOOD CROSSHAIR CHANGER", "Uploaded by sasasa on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DAHOOD%20CROSSHAIR%20CHANGER.lua", "https://scriptblox.com/script/Universal-Script-DAHOOD-CROSSHAIR-CHANGER-12194")
+addscriptuniversal("DAHOOD CROSSHAIR CHANGER", "Uploaded by sasasa on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DAHOOD%20CROSSHAIR%20CHANGER.lua", "https://scriptblox.com/script/Universal-Script-DAHOOD-CROSSHAIR-CHANGER-12194")

@@ -298,12 +298,12 @@ Window = getgenv().Window
 
 getgenv().generalscripts = Window:NewTab("General")
 getgenv().generalscriptssection = getgenv().generalscripts:NewSection("---General/Universal Scripts---")
-local genloadbutton = getgenv().generalscriptssection:NewButton("Load General Scripts", "Loads all General Scripts", function()
+getgenv().generalscriptssection:NewButton("Load General Scripts", "Loads all General Scripts", function()
     loadstring(game:HttpGet("https://raw.githubusercontent.com/Fantemil/Hyperlib/main/Games/universal.lua"))()
 end)
 getgenv().gamehubs = Window:NewTab("Game Hubs")
 getgenv().gamehubsection = gamehubs:NewSection("---Game Hubs---")
-local hubloadbutton = getgenv().gamehubsection:NewButton("Load Game Hubs", "Loads all Game Hubs", function()
+getgenv().gamehubsection:NewButton("Load Game Hubs", "Loads all Game Hubs", function()
     loadstring(game:HttpGet("https://raw.githubusercontent.com/Fantemil/Hyperlib/main/Games/hub.lua"))()
 end)
 local Player = Window:NewTab("Player")
@@ -421,7 +421,6 @@ if game.PlaceId  == 7047488135 then
     end)
 end
 
-/*get gameid*/
 local gameid = game.PlaceId
 local success, result = pcall(function()
     loadstring(game:HttpGet("https://raw.githubusercontent.com/Fantemil/Hyperlib/main/Games/" ..  gameid .. ".lua"))()
