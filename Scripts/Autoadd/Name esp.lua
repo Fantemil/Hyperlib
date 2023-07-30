@@ -1,108 +1,79 @@
---//Made by Blissful#4992
-local settings = {
-    Color = Color3.fromRGB(255, 0, 0),
-    Size = 15,
-    Transparency = 1, -- 1 Visible - 0 Not Visible
-    AutoScale = true
-}
+local c = workspace.CurrentCamera
+local ps = game:GetService("Players")
+local lp = ps.LocalPlayer
+local rs = game:GetService("RunService")
 
-local space = game:GetService("Workspace")
-local player = game:GetService("Players").LocalPlayer
-local camera = space.CurrentCamera
+local function esp(p, cr)
+    local h = cr:WaitForChild("Humanoid")
+    local hrp = cr:WaitForChild("Head")
 
-local function NewText(color, size, transparency)
     local text = Drawing.new("Text")
     text.Visible = false
-    text.Text = ""
-    text.Position = Vector2.new(0, 0)
-    text.Color = color
-    text.Size = size
     text.Center = true
-    text.Transparency = transparency
-    return text
+    text.Outline = true -- Add black outline
+    text.OutlineColor = Color3.new(0, 0, 0) -- Black outline color
+    text.Font = 3
+    text.Size = 16.16
+    text.Color = Color3.new(1, 0, 0) -- Red color
+
+    local conection
+    local conection2
+    local conection3
+
+    local function dc()
+        text.Visible = false
+        text:Remove()
+        if conection then
+            conection:Disconnect()
+            conection = nil
+        end
+        if conection2 then
+            conection2:Disconnect()
+            conection2 = nil
+        end
+        if conection3 then
+            conection3:Disconnect()
+            conection3 = nil
+        end
+    end
+
+    conection2 = cr.AncestryChanged:Connect(function(_, parent)
+        if not parent then
+            dc()
+        end
+    end)
+
+    conection3 = h.HealthChanged:Connect(function(v)
+        if (v <= 0) or (h:GetState() == Enum.HumanoidStateType.Dead) then
+            dc()
+        end
+    end)
+
+    conection = rs.RenderStepped:Connect(function()
+        local hrp_pos, hrp_onscreen = c:WorldToViewportPoint(hrp.Position)
+        if hrp_onscreen then
+            text.Position = Vector2.new(hrp_pos.X, hrp_pos.Y - 27)
+            text.Text = "[ " .. p.Name .. " ]"
+            text.Visible = true
+        else
+            text.Visible = false
+        end
+    end)
 end
 
-local function Visibility(state, lib)
-    for u, x in pairs(lib) do
-        x.Visible = state
+local function p_added(p)
+    if p.Character then
+        esp(p, p.Character)
+    end
+    p.CharacterAdded:Connect(function(cr)
+        esp(p, cr)
+    end)
+end
+
+for i, p in next, ps:GetPlayers() do
+    if p ~= lp then
+        p_added(p)
     end
 end
 
-local function Size(size, lib)
-    for u, x in pairs(lib) do
-        x.Size = size
-    end
-end
-
-for i, v in pairs(game:GetService("Players"):GetPlayers()) do
-    local library = {
-        name = NewText(settings.Color, settings.Size, settings.Transparency)
-    }
-    local function ESP()
-        local connection
-        connection = game:GetService("RunService").RenderStepped:Connect(function()
-            if v.Character ~= nil and v.Character:FindFirstChild("Humanoid") ~= nil and v.Character:FindFirstChild("HumanoidRootPart") ~= nil and v.Name ~= player.Name and v.Character.Humanoid.Health > 0 then
-                local HumanoidRootPart_Pos, OnScreen = camera:WorldToViewportPoint(v.Character.HumanoidRootPart.Position)
-                if OnScreen then
-                    library.name.Text = v.Name
-                    library.name.Position = Vector2.new(HumanoidRootPart_Pos.X, HumanoidRootPart_Pos.Y)
-                    --// AutoScale
-                    if settings.AutoScale then
-                        local distance = (Vector3.new(camera.CFrame.X, camera.CFrame.Y, camera.CFrame.Z) - v.Character.HumanoidRootPart.Position).magnitude
-                        local textsize = math.clamp(1/distance*1000, 2, 30) -- 2 is min text size, 30 is max text size, change to your liking
-                        Size(textsize, library)
-                    else 
-                        Size(settings.Size, library)
-                    end
-                    --//--
-                    Visibility(true, library)
-                else 
-                    Visibility(false, library)
-                end
-            else 
-                Visibility(false, library)
-                if game.Players:FindFirstChild(v.Name) == nil then
-                    connection:Disconnect()
-                end
-            end
-        end)
-    end
-    coroutine.wrap(ESP)()
-end
-
-game.Players.PlayerAdded:Connect(function(newplr)
-    print(newplr)
-    local library = {
-        name = NewText(settings.Color, settings.Size, settings.Transparency)
-    }
-    local function ESP()
-        local connection
-        connection = game:GetService("RunService").RenderStepped:Connect(function()
-            if newplr.Character ~= nil and newplr.Character:FindFirstChild("Humanoid") ~= nil and newplr.Character:FindFirstChild("HumanoidRootPart") ~= nil and newplr.Name ~= player.Name and newplr.Character.Humanoid.Health > 0 then
-                local HumanoidRootPart_Pos, OnScreen = camera:WorldToViewportPoint(newplr.Character.HumanoidRootPart.Position)
-                if OnScreen then
-                    library.name.Text = newplr.Name
-                    library.name.Position = Vector2.new(HumanoidRootPart_Pos.X, HumanoidRootPart_Pos.Y)
-                    --// AutoScale
-                    if settings.AutoScale then
-                        local distance = (Vector3.new(camera.CFrame.X, camera.CFrame.Y, camera.CFrame.Z) - newplr.Character.HumanoidRootPart.Position).magnitude
-                        local textsize = math.clamp(1/distance*1000, 2, 30) -- 2 is min text size, 20 is max text size, change to your liking
-                        Size(textsize, library)
-                    else 
-                        Size(settings.Size, library)
-                    end
-                    --//--
-                    Visibility(true, library)
-                else 
-                    Visibility(false, library)
-                end
-            else 
-                Visibility(false, library)
-                if game.Players:FindFirstChild(newplr.Name) == nil then
-                    connection:Disconnect()
-                end
-            end
-        end)
-    end
-    coroutine.wrap(ESP)()
-end)
+ps.PlayerAdded:Connect(p_added)
