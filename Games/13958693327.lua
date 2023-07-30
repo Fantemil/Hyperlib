@@ -1,0 +1,2 @@
+
+addscript(13958693327, "Current Game","Inf Stars n Solve Class n Get All Badges and more", "Uploaded by KhSaeed90 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Inf%20Stars%20n%20Solve%20Class%20n%20Get%20All%20Badges%20and%20more.lua", "https://scriptblox.com/script/Math-Wall-Simulator-Inf-Stars-n-Spins-n-Fix-negative-Stats-and-more-11971")

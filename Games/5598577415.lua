@@ -1,0 +1,3 @@
+
+addscript(5598577415, "Current Game","BetterGemFarmer", "Uploaded by Hisako on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BetterGemFarmer.lua", "https://scriptblox.com/script/FREE-PET-Frog-Simulator-BetterGemFarmer-10849")
+addscript(5598577415, "Current Game","TOO EZ Hub", "Uploaded by Cranium on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TOO%20EZ%20Hub.lua", "https://scriptblox.com/script/FREE-PET-Frog-Simulator-TOO-EZ-Hub-10758")

@@ -1,0 +1,2 @@
+
+addscript(12996516755, "Current Game","Anime", "Uploaded by cayediyt on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime.lua", "https://scriptblox.com/script/NEWAnime-Battle-Simulator-Anime-12122")

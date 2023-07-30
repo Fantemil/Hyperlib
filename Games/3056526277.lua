@@ -1,0 +1,3 @@
+
+addscript(3056526277, "Current Game","Survive Gui script", "Uploaded by OneScripterToAnother on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Survive%20Gui%20script.lua", "https://scriptblox.com/script/Build-and-Survive!-Survive-Gui-script-10928")
+addscript(3056526277, "Current Game","a dead game by money hungry preston bulid survive", "Uploaded by TrinityVininty on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/a%20dead%20game%20by%20money%20hungry%20preston%20bulid%20survive.lua", "https://scriptblox.com/script/Build-and-Survive!-a-dead-game-by-money-hungry-preston-bulid-survive-10265")

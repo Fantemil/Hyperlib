@@ -1,0 +1,3 @@
+
+addscript(12244208211, "Current Game","AUTOFARM", "Uploaded by fpyni on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AUTOFARM.lua", "https://scriptblox.com/script/Super-Dunk-WORLD-3!-AUTOFARM-10662")
+addscript(12244208211, "Current Game","Script By hamstagang", "Uploaded by imtrashwithlua on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Script%20By%20hamstagang.lua", "https://scriptblox.com/script/Super-Dunk-WORLD-2-Script-By-hamstagang-9674")

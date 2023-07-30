@@ -1,0 +1,2 @@
+
+addscript(6336491204, "Current Game","New Script", "Uploaded by Sw1ndler on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/New%20Script.lua", "https://scriptblox.com/script/Karate-New-Script-10755")

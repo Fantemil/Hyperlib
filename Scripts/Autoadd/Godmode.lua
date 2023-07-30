@@ -1,3 +1,7 @@
--- Credits to JazzyScripts
-loadstring(game:HttpGet("https://raw.githubusercontent.com/JazzyScripts/jazzy/main/xeno"))()
--- Made me go through 15 minutes of work.ink, Enjoy!
+while wait(0.5) do
+  pcall(function()
+    for _, Amogus in ipairs(Workspace.BattleMap.Monster:GetDescendants()) do
+      Amogus.Damage:Destroy()
+    end
+  end)
+end

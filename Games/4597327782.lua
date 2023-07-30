@@ -1,0 +1,2 @@
+
+addscript(4597327782, "Current Game","stay afk and auto farm spleef while sleeping", "Uploaded by cree on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/stay%20afk%20and%20auto%20farm%20spleef%20while%20sleeping.lua", "https://scriptblox.com/script/FREE-RADIO-BOOMBOX-VOICE-CHAT!-stay-afk-and-auto-farm-spleef-while-sleeping-10923")

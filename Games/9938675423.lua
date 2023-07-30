@@ -1,0 +1,3 @@
+
+addscript(9938675423, "Current Game","Oaklands Open Source", "Uploaded by SunkenUh on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Oaklands%20Open%20Source.lua", "https://scriptblox.com/script/Oaklands-Oaklands-Open-Source-8728")
+addscript(9938675423, "Current Game","Mod Stamina", "Uploaded by Lucas on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mod%20Stamina.lua", "https://scriptblox.com/script/Oaklands-Mod-Stamina-9152")

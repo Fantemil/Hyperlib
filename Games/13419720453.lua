@@ -1,0 +1,2 @@
+
+addscript(13419720453, "Current Game","Osy Hub", "Uploaded by NullProtector on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Osy%20Hub.lua", "https://scriptblox.com/script/SkibitiToilet-vs-Cameraman-Beta-Osy-11569")

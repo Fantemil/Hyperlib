@@ -1,0 +1,2 @@
+
+addscript(7655745946, "Current Game","Auto Farm", "Uploaded by Level100Bray on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Farm.lua", "https://scriptblox.com/script/2x-Dunking-Simulator-Auto-Farm-10249")

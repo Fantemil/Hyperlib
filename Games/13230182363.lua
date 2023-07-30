@@ -1,0 +1,2 @@
+
+addscript(13230182363, "Current Game","Auto er", "Uploaded by DylanIsAKing on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20er.lua", "https://scriptblox.com/script/%2B1-Money-Every-Click-Auto-er-11004")

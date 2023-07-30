@@ -1,0 +1,3 @@
+
+addscript(10710676163, "Current Game","SPTS Utility Script updated", "Uploaded by UnknownError42 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SPTS%20Utility%20Script%20updated.lua", "https://scriptblox.com/script/SPTS-:-Origin-SPTS-Utility-Script-updated-8780")
+addscript(10710676163, "Current Game","Godmode Death Train AutoInvis Hide Identity ESP Auto Respawn", "Uploaded by WyvLich on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Godmode%20Death%20Train%20AutoInvis%20Hide%20Identity%20ESP%20Auto%20Respawn.lua", "https://scriptblox.com/script/SPTS-:-Origin-Godmode-Death-Train-AutoInvis-Hide-Identity-ESP-Auto-Respawn-9965")

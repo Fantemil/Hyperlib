@@ -1,0 +1,3 @@
+
+addscript(6172932937, "Current Game","Script", "Uploaded by Harley_Hub on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Script.lua", "https://scriptblox.com/script/Energy-Assault-Script-10415")
+addscript(6172932937, "Current Game","Assult", "Uploaded by Nixks on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Assult.lua", "https://scriptblox.com/script/Energy-Assault-Assult-11036")

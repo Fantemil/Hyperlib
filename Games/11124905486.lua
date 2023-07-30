@@ -1,0 +1,3 @@
+
+addscript(11124905486, "Current Game","Aimbot Fly InstaKill", "Uploaded by blirz295667 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Aimbot%20Fly%20InstaKill.lua", "https://scriptblox.com/script/Shoot-People-Off-A-Map-Simulator-Aimbot-Fly-InstaKill-10019")
+addscript(11124905486, "Current Game","mp sim", "Uploaded by typzero_SVK on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/mp%20sim.lua", "https://scriptblox.com/script/Shoot-People-Off-A-Map-Simulator-mp-10263")

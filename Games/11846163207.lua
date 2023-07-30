@@ -1,0 +1,4 @@
+
+addscript(11846163207, "Current Game","Mage Tycoon Op Script", "Uploaded by guestgod87 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mage%20Tycoon%20Op%20Script.lua", "https://scriptblox.com/script/Mage-Tycoon-Mage-Tycoon-Op-Script-8977")
+addscript(11846163207, "Current Game","auto build etc", "Uploaded by copypaste on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/auto%20build%20etc.lua", "https://scriptblox.com/script/Mage-Tycoon-auto-build-etc-8966")
+addscript(11846163207, "Current Game","Lxon Hub  Update ", "Uploaded by lukem3168 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Lxon%20Hub%20%20Update%20.lua", "https://scriptblox.com/script/Mage-Tycoon-Lxon-Hub-9400")

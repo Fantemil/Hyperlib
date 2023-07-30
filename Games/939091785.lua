@@ -1,0 +1,2 @@
+
+addscript(939091785, "Current Game","Good gui", "Uploaded by Daothanhnhan926 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Good%20gui.lua", "https://scriptblox.com/script/Sinking-Ship:-Roblox-Britannic-Good-gui-11913")

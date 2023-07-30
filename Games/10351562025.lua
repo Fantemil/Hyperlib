@@ -1,0 +1,2 @@
+
+addscript(10351562025, "Current Game","SILENT AIM GUNMODS AND MORE", "Uploaded by Rtxyy on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SILENT%20AIM%20GUNMODS%20AND%20MORE.lua", "https://scriptblox.com/script/SMG!-Tropical-Royale-SILENT-AIM-GUNMODS-AND-MORE-10710")

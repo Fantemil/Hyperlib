@@ -1,0 +1,2 @@
+
+addscript(13304115429, "Current Game","GUI", "Uploaded by BEST_SCRIPTS on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/GUI.lua", "https://scriptblox.com/script/Clicker-Simulator-GUI-10901")

@@ -1,0 +1,2 @@
+
+addscript(298400657, "Current Game","Auto Block", "Uploaded by Flames on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Block.lua", "https://scriptblox.com/script/Part-1.53-Dragon-Ball-Final-Remastered-Auto-Block-11881")

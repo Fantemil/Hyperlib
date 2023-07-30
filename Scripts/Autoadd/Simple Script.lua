@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://www.eskeyz.my.id/Protected_4877699240149479.lua",true))()
+loadstring(game:HttpGet(('https://raw.githubusercontent.com/Pro69Yes/GarbageHub/main/GarbageHub%20%5BEvery%20Second%20u%20get%20%2B1%20point%5D.lua')))()

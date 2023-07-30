@@ -1,0 +1,2 @@
+
+addscript(8458060781, "Current Game","Unlimited Money Script", "Uploaded by Fxxai on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Unlimited%20Money%20Script.lua", "https://scriptblox.com/script/Evil-Genius-Tycoon-Unlimited-Money-Script-9907")

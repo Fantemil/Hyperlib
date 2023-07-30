@@ -1,0 +1,2 @@
+
+addscript(10873387885, "Current Game","Script Lag Server", "Uploaded by xMqlware on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Script%20Lag%20Server.lua", "https://scriptblox.com/script/DOORS-but-kinda-cheap-and-shorter-Script-Lag-Server-9279")

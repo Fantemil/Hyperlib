@@ -1,0 +1,2 @@
+
+addscript(2228128339, "Current Game","FAST GET UGC ONLY AVAILABLE UNTIL DATE ", "Uploaded by Charwilliam on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FAST%20GET%20UGC%20ONLY%20AVAILABLE%20UNTIL%20DATE%20.lua", "https://scriptblox.com/script/EVENT-Club-Iris-FAST-GET-UGC-ONLY-AVAIBLE-UNTIL-DATE-16-11863")

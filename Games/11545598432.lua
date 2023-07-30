@@ -1,2 +1,5 @@
 
 addscript(11545598432, "Current Game","fight sim", "Uploaded by burblee on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/fight%20sim.lua", "https://scriptblox.com/script/RELEASE-Anime-Fighting-Simulator-X-script-12182")
+addscript(11545598432, "Current Game","PN AFS", "Uploaded by Afyyy on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PN%20AFS.lua", "https://scriptblox.com/script/RELEASE-Anime-Fighting-Simulator-X-Project-Neus-AFs-12196")
+addscript(11545598432, "Current Game","Kidachi", "Uploaded by Delty on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Kidachi.lua", "https://scriptblox.com/script/RELEASE-Anime-Fighting-Simulator-X-Kidachi-12172")
+addscript(11545598432, "Current Game","PN AFS", "Uploaded by Afyyy on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PN%20AFS.lua", "https://scriptblox.com/script/RELEASE-Anime-Fighting-Simulator-X-Project-Neus-AFs-12196")

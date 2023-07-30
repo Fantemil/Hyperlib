@@ -1,0 +1,2 @@
+
+addscript(625441571, "Current Game","Remove auto clicker", "Uploaded by Kosovo on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Remove%20auto%20clicker.lua", "https://scriptblox.com/script/Turbo-Doomspire-BrickBattle-(No-CoolDown)-Remove-auto-clicker-9992")

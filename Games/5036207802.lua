@@ -1,0 +1,2 @@
+
+addscript(5036207802, "Current Game","auto bomb phase two of JP", "Uploaded by huggo on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/auto%20bomb%20phase%20two%20of%20JP.lua", "https://scriptblox.com/script/SAVE-THE-UNIVERSE-RB-Battles!-auto-bomb-phase-two-of-JP-8802")

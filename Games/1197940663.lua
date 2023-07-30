@@ -1,0 +1,2 @@
+
+addscript(1197940663, "Current Game","Crusher", "Uploaded by Kosovo on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Crusher.lua", "https://scriptblox.com/script/Lloyd-Residence-Crusher-9912")

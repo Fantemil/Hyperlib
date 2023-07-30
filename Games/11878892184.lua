@@ -1,0 +1,3 @@
+
+addscript(11878892184, "Current Game","XRay", "Uploaded by BOT_Testerplayer on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/XRay.lua", "https://scriptblox.com/script/BloxCraftMinecraft!-XRay-10535")
+addscript(11878892184, "Current Game","BloxCraft Dupe Script", "Uploaded by scab on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BloxCraft%20Dupe%20Script.lua", "https://scriptblox.com/script/BloxCraftMinecraft!-BloxCraft-Dupe-Script-10672")

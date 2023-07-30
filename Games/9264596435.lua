@@ -1,0 +1,2 @@
+
+addscript(9264596435, "Current Game","OP Script Open Source", "Uploaded by Skids on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20Script%20Open%20Source.lua", "https://scriptblox.com/script/NEW!-Idle-Heroes-Simulator!-OP-Script-Open-Source-8980")

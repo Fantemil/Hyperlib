@@ -1,0 +1,2 @@
+
+addscript(11369410916, "Current Game","dj construction site worker", "Uploaded by Guelgamesbr on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/dj%20construction%20site%20worker.lua", "https://scriptblox.com/script/UPDATE-Over-V-Climax:-Tower-Defense-dj-construction-site-worker-12091")

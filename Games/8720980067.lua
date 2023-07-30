@@ -1,0 +1,2 @@
+
+addscript(8720980067, "Current Game","BlackoutServices OP", "Uploaded by Blackout on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BlackoutServices%20OP.lua", "https://scriptblox.com/script/New-Anime-Tales-RELEASE-BlackoutServices-11003")

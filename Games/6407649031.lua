@@ -1,0 +1,2 @@
+
+addscript(6407649031, "Current Game","Gun Mods", "Uploaded by Exxen on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Gun%20Mods.lua", "https://scriptblox.com/script/No-Scope-Arcade-Gun-Mods-10438")

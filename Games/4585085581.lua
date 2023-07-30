@@ -1,0 +1,2 @@
+
+addscript(4585085581, "Current Game","Script OP OPEN SOURCE", "Uploaded by SER_NOTADO_POR_POISO on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Script%20OP%20OPEN%20SOURCE.lua", "https://scriptblox.com/script/WAR-ARC-GAARA-Shinobi-Storm-Script-OP-OPEN-SOURCE-10619")

@@ -1,0 +1,2 @@
+
+addscript(12091427748, "Current Game","Godmode", "Uploaded by Hamburga on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Godmode.lua", "https://scriptblox.com/script/FIXEDUndertale:Infinite-Ops-***-mode-10628")

@@ -1,0 +1,2 @@
+
+addscript(12860242462, "Current Game","yes", "Uploaded by randomdudeezpliting on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/yes.lua", "https://scriptblox.com/script/TRADE-Big-Battles!-yes-10747")

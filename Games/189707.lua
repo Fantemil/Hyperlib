@@ -1,0 +1,3 @@
+
+addscript(189707, "Current Game","MNLC", "Uploaded by Orchi on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MNLC.lua", "https://scriptblox.com/script/Natural-Disaster-Survival-Moonlight-Client-9749")
+addscript(189707, "Current Game","Autofarm Godmode and More", "Uploaded by Mrskull on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Autofarm%20Godmode%20and%20More.lua", "https://scriptblox.com/script/Natural-Disaster-Survival-Autofarm-Godmode-and-More-8936")

@@ -1,0 +1,2 @@
+
+addscript(12707995805, "Current Game","Spam Answers  SCRIPT", "Uploaded by 1234567 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Spam%20Answers%20%20SCRIPT.lua", "https://scriptblox.com/script/Fill-In-the-Blank-Beta-Spam-Answers-When-you-judge-you-can-w-9748")

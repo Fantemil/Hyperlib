@@ -1,0 +1,4 @@
+
+addscript(11883610532, "Current Game","KillFX and Tracer Changer", "Uploaded by Mp4Boi on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/KillFX%20and%20Tracer%20Changer.lua", "https://scriptblox.com/script/TRADE-HUB-FiveDuels-KillFX-and-Tracer-Changer-9596")
+addscript(11883610532, "Current Game","patched until byfron gets bypassed", "Uploaded by KR4SK on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/patched%20until%20byfron%20gets%20bypassed.lua", "https://scriptblox.com/script/RANKED-FiveDuels-Silent-Aim-And-More-10534")
+addscript(11883610532, "Current Game","Bullet and Kill effect changer", "Uploaded by 1FOfficial on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Bullet%20and%20Kill%20effect%20changer.lua", "https://scriptblox.com/script/FiveDuels-Bullet-and-Kill-effect-changer-10766")

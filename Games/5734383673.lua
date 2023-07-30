@@ -1,0 +1,2 @@
+
+addscript(5734383673, "Current Game","Locate enemy on map", "Uploaded by Lucas on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Locate%20enemy%20on%20map.lua", "https://scriptblox.com/script/Noobs-in-combat-4.7-Locate-enemy-on-map-10001")

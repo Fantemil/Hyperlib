@@ -1,0 +1,2 @@
+
+addscript(10704934612, "Current Game","script", "Uploaded by 006Kerim on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/script.lua", "https://scriptblox.com/script/Being-Worked-On-DOORS-But-Bad-script-11974")

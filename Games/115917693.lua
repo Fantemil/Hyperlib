@@ -1,0 +1,3 @@
+
+addscript(115917693, "Current Game","Op script with good features the only gui  this game", "Uploaded by JustAPlayer on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Op%20script%20with%20good%20features%20the%20only%20gui%20%20this%20game.lua", "https://scriptblox.com/script/MOW-MY-LAWN-2-Script-10939")
+addscript(115917693, "Current Game","Op script with good features the only gui  this game", "Uploaded by JustAPlayer on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Op%20script%20with%20good%20features%20the%20only%20gui%20%20this%20game.lua", "https://scriptblox.com/script/MOW-MY-LAWN-2-Script-10939")

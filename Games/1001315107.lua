@@ -1,0 +1,2 @@
+
+addscript(1001315107, "Current Game","OP Script Auto Kill everyone Kill Someone And more", "Uploaded by Extrame on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20Script%20Auto%20Kill%20everyone%20Kill%20Someone%20And%20more.lua", "https://scriptblox.com/script/RO-BOTS-BETA-FACTORY-OP-Script-Auto-Kill-everyone-Auto-Kill-Someone-And-more-9987")

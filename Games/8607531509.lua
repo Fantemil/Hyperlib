@@ -1,0 +1,2 @@
+
+addscript(8607531509, "Current Game","Blunted X", "Uploaded by bomby on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blunted%20X.lua", "https://scriptblox.com/script/Rap-Simulator-Blunted-X-10459")

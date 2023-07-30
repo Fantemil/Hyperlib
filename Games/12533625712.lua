@@ -1,0 +1,4 @@
+
+addscript(12533625712, "Current Game","OP SCRIPT", "Uploaded by PlanetHub on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20SCRIPT.lua", "https://scriptblox.com/script/MAP-Motorcycle-Mayhem-OP-SCRIPT-11784")
+addscript(12533625712, "Current Game","any bike spawn", "Uploaded by Fxxai on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/any%20bike%20spawn.lua", "https://scriptblox.com/script/ALPHA-Motorcycle-Mayhem-any-bike-spawn-11011")
+addscript(12533625712, "Current Game","OP SCRIPT", "Uploaded by PlanetHub on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20SCRIPT.lua", "https://scriptblox.com/script/MAP-Motorcycle-Mayhem-OP-SCRIPT-11784")

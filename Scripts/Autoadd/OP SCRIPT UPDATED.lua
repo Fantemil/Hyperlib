@@ -1,8 +1,1 @@
---[[
-Logs v17
-- Bug Bashing
-- Adding Ton of scripts soon
-- OP
-                                                 I aint verified yet
-                                                                                             ]]--
-loadstring(game:HttpGet('https://pastebin.com/fYiKbxPN',true))()
+loadstring(game:HttpGet('https://raw.githubusercontent.com/13B8B/NEXUS/main/loadstring'))()

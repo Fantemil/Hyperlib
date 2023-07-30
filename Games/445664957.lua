@@ -1,0 +1,4 @@
+
+addscript(445664957, "Current Game","Bag Farm", "Uploaded by Hydra2022 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Bag%20Farm.lua", "https://scriptblox.com/script/NEW-GEAR-Parkour-Bag-Farm-12044")
+addscript(445664957, "Current Game","script", "Uploaded by sheshem8 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/script.lua", "https://scriptblox.com/script/Parkour-script-9235")
+addscript(445664957, "Current Game","Hydra Network", "Uploaded by Hydra2022 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Hydra%20Network.lua", "https://scriptblox.com/script/Parkour-Hydra-Network-9890")

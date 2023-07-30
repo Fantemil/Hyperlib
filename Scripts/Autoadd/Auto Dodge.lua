@@ -1,16 +1,14 @@
---[Made by ThroughTheFireAndFlames#9925]--
---[https://www.roblox.com/games/5956785391/Update-1-Project-Slayers]--
+--[[ Made by ThroughTheFireAndFlames#9925 | [Free]
 
-getgenv().AutoExecute = true 
+        Anime Dimensions Simulator AutoDodge [Obsfucated]
 
-getgenv().Keybind = "V"
-getgenv().Distance = 45
+--]]--------------------------------------|
 
-getgenv().Aura = true 
-getgenv().Sounds = true
+getgenv().Distance = 15 -- Leave it as it is.
 
-getgenv().LookAtNearestPlayer = true
-getgenv().LookAtDistance  = 35
-getgenv().LookAtKeybind = "V" 
+getgenv().DodgeBoss = true -- Optional. [Recommended]
+getgenv().DodgeNpcs = true -- Optional. [Recommended]
 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Lvl9999/PS/main/Ui"))();
+getgenv().FreezeMethod = true -- Must be on! [Recommended]
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Lvl9999/AnimeDimensionsSim/main/AutoDodge"))();

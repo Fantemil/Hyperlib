@@ -1,0 +1,2 @@
+
+addscript(6137321701, "Current Game","blr OP win tool", "Uploaded by dsploiter on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/blr%20OP%20win%20tool.lua", "https://scriptblox.com/script/Blair-OP-win-tool-11451")

@@ -1,0 +1,2 @@
+
+addscript(8704997000, "Current Game","auto farm", "Uploaded by thanhtam8765 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/auto%20farm.lua", "https://scriptblox.com/script/Maple-Hospital-MY-WATER-BROKE!-auto-farm-8704")

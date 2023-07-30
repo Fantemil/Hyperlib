@@ -1,0 +1,3 @@
+
+addscript(8304191830, "Current Game","COMET AUTO FARM", "Uploaded by wayaho3495 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/COMET%20AUTO%20FARM.lua", "https://scriptblox.com/script/UPD-Anime-Adventures-COMET-AUTO-FARM-11154")
+addscript(8304191830, "Current Game","New update", "Uploaded by Thunderthegoat on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/New%20update.lua", "https://scriptblox.com/script/UPD-12-Anime-Adventures-Auto-play-Auto-buy-summon-Auto-codes-10152")

@@ -1,0 +1,2 @@
+
+addscript(1343871267, "Current Game","Fredbears Script", "Uploaded by Dxsefy on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Fredbears%20Script.lua", "https://scriptblox.com/script/TOYS!!!!!-Fredbear's-Mega-Roleplay-Fredbears-Script-12116")

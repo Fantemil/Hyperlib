@@ -1,0 +1,2 @@
+
+addscript(6298464951, "Current Game","GOT PATCHED  Owner fixed it", "Uploaded by Extrame on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/GOT%20PATCHED%20%20Owner%20fixed%20it.lua", "https://scriptblox.com/script/MADE-IN-HEAVEN-Roblox-Is-Unbreakable-Adm-panel-why-they-banned-me-dcord-LOL-9205")

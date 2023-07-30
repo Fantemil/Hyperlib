@@ -1,0 +1,2 @@
+
+addscript(10775789257, "Current Game","inf money", "Uploaded by Moiz on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/inf%20money.lua", "https://scriptblox.com/script/Construction-Tycoon-inf-money-10905")

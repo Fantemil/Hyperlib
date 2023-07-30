@@ -1,0 +1,2 @@
+
+addscript(6913960180, "Current Game","Auto Farm Slow Method", "Uploaded by Pablo_404 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Farm%20Slow%20Method.lua", "https://scriptblox.com/script/(EVENT-%2B-GIFT)-Undertale-Crazy-Multiverse-Timeline-Soul-Giver-11005")

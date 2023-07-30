@@ -1,0 +1,3 @@
+
+addscript(2538668125, "Current Game","Updated Script", "Uploaded by CrapTheKid on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Updated%20Script.lua", "https://scriptblox.com/script/SCP:-Facility-Lockdown-(Beta)-Updated-Script-9336")
+addscript(2538668125, "Current Game","Keycard Stealer", "Uploaded by CrapTheKid on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Keycard%20Stealer.lua", "https://scriptblox.com/script/SCP:-Facility-Lockdown-(Beta)-Keycard-Stealer-9211")

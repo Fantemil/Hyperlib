@@ -1,0 +1,2 @@
+
+addscript(6764533218, "Current Game","car fly script also you can ram into cars", "Uploaded by nice on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/car%20fly%20script%20also%20you%20can%20ram%20into%20cars.lua", "https://scriptblox.com/script/UPDATE-Washiez-car-fly-script-9257")

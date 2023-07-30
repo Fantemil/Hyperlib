@@ -1,0 +1,2 @@
+
+addscript(1600503, "Current Game","script", "Uploaded by qualitypetroleumequ on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/script.lua", "https://scriptblox.com/script/Apocalypse-Rising-script-10495")

@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Denverrz/scripts/master/PRISONWARE_v1.3.txt"))();
+loadstring(game:HttpGet(('https://pastebin.com/raw/psME0w2x'),true))()

@@ -1,0 +1,5 @@
+
+addscript(6297822481, "Current Game","GodMode", "Uploaded by gabitoshb on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/GodMode.lua", "https://scriptblox.com/script/Titan-Warfare-GodMode-11526")
+addscript(6297822481, "Current Game","Script", "Uploaded by RTZ_KENTO on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Script.lua", "https://scriptblox.com/script/PATCHES-%2B-CODES-Titan-Warfare-Warfer-Script-10211")
+addscript(6297822481, "Current Game","Script V G HUB", "Uploaded by RTZ_KENTO on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Script%20V%20G%20HUB.lua", "https://scriptblox.com/script/PATCHES-%2B-CODES-Titan-Warfare-Warfer-Script-V-G-HUB-10212")
+addscript(6297822481, "Current Game","Eldian AutoFarm", "Uploaded by gabitoshb on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Eldian%20AutoFarm.lua", "https://scriptblox.com/script/Titan-Warfare-Eldian-AutoFarm-11524")

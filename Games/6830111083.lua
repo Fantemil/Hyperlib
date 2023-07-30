@@ -1,0 +1,2 @@
+
+addscript(6830111083, "Current Game","kill all bypass tp", "Uploaded by thanhtam8765 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/kill%20all%20bypass%20tp.lua", "https://scriptblox.com/script/DOJ:RP-or-Sandy-Shores-kill-all-bypass-tp-10353")

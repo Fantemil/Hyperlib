@@ -1,0 +1,2 @@
+
+addscript(12387194948, "Current Game","ULTIMATE TROLL GUI", "Uploaded by theyheartvallz on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ULTIMATE%20TROLL%20GUI.lua", "https://scriptblox.com/script/Chill-Train-Tracks-ULTIMATE-TROLL-GUI-9008")

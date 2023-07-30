@@ -1,0 +1,2 @@
+
+addscript(12001051622, "Current Game","inf cash", "Uploaded by roninpilot1 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/inf%20cash.lua", "https://scriptblox.com/script/2M-VISITS!-Dig-to-find-dad-inf-cash-9954")

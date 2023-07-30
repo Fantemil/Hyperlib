@@ -1,0 +1,2 @@
+
+addscript(5490351219, "Current Game","OP Autofarm", "Uploaded by focat on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20Autofarm.lua", "https://scriptblox.com/script/X100-CLICKS-Clicker-Madness!-OP-Autofarm-10486")

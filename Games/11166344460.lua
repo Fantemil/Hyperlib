@@ -1,0 +1,3 @@
+
+addscript(11166344460, "Current Game","VIP Room n Instant Win n Triple Hatch and more", "Uploaded by KhSaeed90 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/VIP%20Room%20n%20Instant%20Win%20n%20Triple%20Hatch%20and%20more.lua", "https://scriptblox.com/script/Easy-Stud-Jumps-Obby-VIP-Room-n-Instant-Win-n-Triple-Hatch-and-more-12016")
+addscript(11166344460, "Current Game","VIP Room n Instant Win n Triple Hatch and more", "Uploaded by KhSaeed90 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/VIP%20Room%20n%20Instant%20Win%20n%20Triple%20Hatch%20and%20more.lua", "https://scriptblox.com/script/Easy-Stud-Jumps-Obby-VIP-Room-n-Instant-Win-n-Triple-Hatch-and-more-12016")

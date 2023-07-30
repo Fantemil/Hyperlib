@@ -1,0 +1,2 @@
+
+addscript(13745739472, "Current Game","Simple GUI", "Uploaded by DefinitelyNotJiver on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Simple%20GUI.lua", "https://scriptblox.com/script/A-Stereotypical-Obby-utoWin-12051")

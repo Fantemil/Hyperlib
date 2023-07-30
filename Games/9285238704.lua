@@ -1,0 +1,4 @@
+
+addscript(9285238704, "Current Game","OP Auto Farm", "Uploaded by PlanetHub on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20Auto%20Farm.lua", "https://scriptblox.com/script/UPD-Race-Clicker-OP-Auto-Farm-11899")
+addscript(9285238704, "Current Game","Autofarm", "Uploaded by KEPA on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Autofarm.lua", "https://scriptblox.com/script/UPD-Race-Clicker-Autofarm-11360")
+addscript(9285238704, "Current Game","rc unlimited wins farmer", "Uploaded by dsploiter on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/rc%20unlimited%20wins%20farmer.lua", "https://scriptblox.com/script/TRAILS-Race-Clicker-rc-unlimited-wins-farmer-10971")

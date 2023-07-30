@@ -1,1 +1,1 @@
-loadstring(game:HttpGet'https://raw.githubusercontent.com/HALOxHUB/ScriptLoader/main/Loader.lua')()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/jebblox/scriptdatabase2/main/scripts/halohub.lua"))()

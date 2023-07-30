@@ -1,0 +1,3 @@
+
+addscript(3623096087, "Current Game","Updated", "Uploaded by yuuiz on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Updated.lua", "https://scriptblox.com/script/Muscle-Legends-Updated-9247")
+addscript(3623096087, "Current Game","legend jjtxhub", "Uploaded by JJTChannel on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/legend%20jjtxhub.lua", "https://scriptblox.com/script/Muscle-Legends-legend-jjtxhub-10646")

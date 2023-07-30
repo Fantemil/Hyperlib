@@ -1,0 +1,2 @@
+
+addscript(11576508871, "Current Game","Infinite Money", "Uploaded by yoyoyoo on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Infinite%20Money.lua", "https://scriptblox.com/script/ChangiVerse-Infinite-Money-11963")

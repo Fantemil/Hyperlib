@@ -1,0 +1,3 @@
+
+addscript(3360853050, "Current Game","Op ahh ssl script", "Uploaded by anwarmathly6 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Op%20ahh%20ssl%20script.lua", "https://scriptblox.com/script/Super-Striker-League-Op-***-ssl-script-8900")
+addscript(3360853050, "Current Game","Super Striker League SH NC", "Uploaded by CHEATAKK on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Super%20Striker%20League%20SH%20NC.lua", "https://scriptblox.com/script/Super-Striker-League-Super-Striker-League-SH-NC-9540")

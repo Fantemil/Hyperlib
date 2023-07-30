@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://github.com/ScriptKiddyQuinn/Blox-Hub-Version-1.3/blob/main/Blox%20Hub%20Version%201.3", true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ScriptKiddyQuinn/Blox-Hub-Universal/main/Blox%20Hub%20Universal", true))()

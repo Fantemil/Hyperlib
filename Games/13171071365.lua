@@ -1,0 +1,2 @@
+
+addscript(13171071365, "Current Game","Au farm", "Uploaded by alvimkag523 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Au%20farm.lua", "https://scriptblox.com/script/FEEDING-TRASH-TO-RICH-PEOPLE-TYCOON-Au-farm-11100")

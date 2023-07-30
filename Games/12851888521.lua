@@ -1,0 +1,5 @@
+
+addscript(12851888521, "Current Game","Auto Win Nearest", "Uploaded by Amph on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Win%20Nearest.lua", "https://scriptblox.com/script/Punch-Wall-Simulator-Auto-Win-Nearest-10000")
+addscript(12851888521, "Current Game","Auto Farm", "Uploaded by KhSaeed90 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Farm.lua", "https://scriptblox.com/script/Punch-Wall-Simulator-Auto-Farm-10243")
+addscript(12851888521, "Current Game","OP SCRIPT UPDATED", "Uploaded by Criminal on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20SCRIPT%20UPDATED.lua", "https://scriptblox.com/script/Punch-Wall-Simulator-OP-SCRIPT-UPDATED-10677")
+addscript(12851888521, "Current Game","Auto Win", "Uploaded by Partner on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Win.lua", "https://scriptblox.com/script/Punch-Wall-Simulator-Auto-Win-10216")

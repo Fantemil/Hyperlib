@@ -1,0 +1,3 @@
+
+addscript(6939111033, "Current Game","Free gamepass", "Uploaded by ThebananaMan on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Free%20gamepass.lua", "https://scriptblox.com/script/Escape-Papa-Pizza's-Pizzeria!-(SCARY-OBBY)-Free-gamepass-11884")
+addscript(6939111033, "Current Game","Free gamepass", "Uploaded by ThebananaMan on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Free%20gamepass.lua", "https://scriptblox.com/script/Escape-Papa-Pizza's-Pizzeria!-(SCARY-OBBY)-Free-gamepass-11884")

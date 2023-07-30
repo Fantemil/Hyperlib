@@ -1,0 +1,2 @@
+
+addscript(7104719177, "Current Game","Inf chest", "Uploaded by FishieModder on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Inf%20chest.lua", "https://scriptblox.com/script/Demon-Tycoon-Anime-Fighting-Simulator-Inf-chest-9836")

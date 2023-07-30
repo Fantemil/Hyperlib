@@ -1,0 +1,2 @@
+
+addscript(7120576005, "Current Game","Auto Finish", "Uploaded by Mrskull on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Finish.lua", "https://scriptblox.com/script/Stack-Ball-Auto-Finish-9066")

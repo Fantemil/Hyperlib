@@ -1,0 +1,4 @@
+
+addscript(1997193809, "Current Game","Marshmallows Autofarm", "Uploaded by RUNN3R on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Marshmallows%20Autofarm.lua", "https://scriptblox.com/script/Backpacking-Marshmallows-Autofarm-10790")
+addscript(1997193809, "Current Game","CHAT BYPASS BREAK SERVER", "Uploaded by fear on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CHAT%20BYPASS%20BREAK%20SERVER.lua", "https://scriptblox.com/script/Backpacking-CHAT-BYPASS-BREAK-SERVER-10829")
+addscript(1997193809, "Current Game","Marshmallows Autofarm", "Uploaded by RUNN3R on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Marshmallows%20Autofarm.lua", "https://scriptblox.com/script/Backpacking-Marshmallows-Autofarm-10790")

@@ -1,0 +1,2 @@
+
+addscript(9907515494, "Current Game","Inf Jumps Autofarm", "Uploaded by echofluwuff on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Inf%20Jumps%20Autofarm.lua", "https://scriptblox.com/script/Limited-Jumps-New-Redeem-Code-Inf-Jumps-Autofarm-9301")

@@ -1,0 +1,2 @@
+
+addscript(7288936208, "Current Game","bring the ball for your position", "Uploaded by leoirado41 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/bring%20the%20ball%20for%20your%20position.lua", "https://scriptblox.com/script/50percent-OFF-SALE-Super-Blox-Soccer-script-11009")

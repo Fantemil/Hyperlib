@@ -1,0 +1,2 @@
+
+addscript(11901437921, "Current Game","Only bonus click", "Uploaded by azicity23 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Only%20bonus%20click.lua", "https://scriptblox.com/script/MUMMY-%2Bx12!-Tapping-Fantasy!-Only-bonus-click-10826")

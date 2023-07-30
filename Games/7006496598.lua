@@ -1,0 +1,2 @@
+
+addscript(7006496598, "Current Game","OP Script and GUI", "Uploaded by Monterrey on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20Script%20and%20GUI.lua", "https://scriptblox.com/script/Bleeding-Blades-ALPHA-OP-Script-and-GUI-10108")

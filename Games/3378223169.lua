@@ -1,0 +1,2 @@
+
+addscript(3378223169, "Current Game","Teleports for this game", "Uploaded by Cxmplexe on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Teleports%20for%20this%20game.lua", "https://scriptblox.com/script/Hotel-SamsonXVI-9663")

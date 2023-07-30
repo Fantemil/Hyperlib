@@ -1,0 +1,2 @@
+
+addscript(12228381033, "Current Game","Mineblox  good scripts", "Uploaded by scab on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mineblox%20%20good%20scripts.lua", "https://scriptblox.com/script/Craft-Blox-Mineblox-2-good-scripts-11984")

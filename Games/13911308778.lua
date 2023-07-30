@@ -1,0 +1,2 @@
+
+addscript(13911308778, "Current Game","BEST GUI", "Uploaded by Muimi on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BEST%20GUI.lua", "https://scriptblox.com/script/TRADE-IQ-Wars-Simulator-BEST-GUI-12138")

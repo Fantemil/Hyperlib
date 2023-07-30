@@ -1,0 +1,2 @@
+
+addscript(10649774638, "Current Game","gui", "Uploaded by Hamburga on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/gui.lua", "https://scriptblox.com/script/(GIANT-CAMERA!!)-Hyperverse-Of-Incidents-gui-11287")

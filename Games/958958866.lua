@@ -1,0 +1,2 @@
+
+addscript(958958866, "Current Game","ChimeraDBR", "Uploaded by echoordial on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ChimeraDBR.lua", "https://scriptblox.com/script/Dead-By-Roblox-Updates-MoonlightBP-9915")

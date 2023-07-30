@@ -1,0 +1,3 @@
+
+addscript(3738091713, "Current Game","Gui", "Uploaded by wibu on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Gui.lua", "https://scriptblox.com/script/Boxing-League-Gui-9193")
+addscript(3738091713, "Current Game","script", "Uploaded by lolk on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/script.lua", "https://scriptblox.com/script/TRADING-Boxing-League-script-11300")

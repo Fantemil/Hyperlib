@@ -1,0 +1,2 @@
+
+addscript(11987476545, "Current Game","OPEN SOURCE", "Uploaded by DevSwag on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OPEN%20SOURCE.lua", "https://scriptblox.com/script/RELEASE-Revengers-2-OPEN-SOURCE-9875")

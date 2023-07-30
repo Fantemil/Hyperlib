@@ -1,0 +1,2 @@
+
+addscript(5942932659, "Current Game","Wormface script", "Uploaded by froggybxmb on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Wormface%20script.lua", "https://scriptblox.com/script/Wormface!-Wormface-script-9138")

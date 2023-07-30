@@ -1,0 +1,2 @@
+
+addscript(4967465336, "Current Game","infinite health", "Uploaded by professional_gaymer on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/infinite%20health.lua", "https://scriptblox.com/script/Ray's-Mod-(NEW-UPDATE!)-infinite-health-11740")

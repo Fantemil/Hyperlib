@@ -1,0 +1,3 @@
+
+addscript(1724467251, "Current Game","TSH script GUI", "Uploaded by dsploiter on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TSH%20script%20GUI.lua", "https://scriptblox.com/script/The-Schoolhouse-TSH-script-GUI-11645")
+addscript(1724467251, "Current Game","TSH script GUI", "Uploaded by dsploiter on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TSH%20script%20GUI.lua", "https://scriptblox.com/script/The-Schoolhouse-TSH-script-GUI-11645")

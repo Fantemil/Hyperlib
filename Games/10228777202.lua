@@ -1,0 +1,2 @@
+
+addscript(10228777202, "Current Game","OP GUI", "Uploaded by ganggang on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20GUI.lua", "https://scriptblox.com/script/The-Spinner-GUI-8832")

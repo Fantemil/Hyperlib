@@ -1,0 +1,2 @@
+
+addscript(4170762574, "Current Game","Grabs Items Act ", "Uploaded by Partner on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Grabs%20Items%20Act%20.lua", "https://scriptblox.com/script/Hello-Neighbor-full-game-NEW-UPDATE-Grabs-Items-Act-1-11672")

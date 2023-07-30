@@ -1,0 +1,2 @@
+
+addscript(5780309044, "Current Game","AUTOFARM", "Uploaded by ryuxx on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AUTOFARM.lua", "https://scriptblox.com/script/Stands-Awakening-Beta-AUTOFARM-9266")

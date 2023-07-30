@@ -1,0 +1,2 @@
+
+addscript(12998005024, "Current Game","free golden or gamepass things", "Uploaded by botbrostopusing on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/free%20golden%20or%20gamepass%20things.lua", "https://scriptblox.com/script/Zombie-Business-free-golden-11978")

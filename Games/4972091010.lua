@@ -1,0 +1,2 @@
+
+addscript(4972091010, "Current Game","Silent aim", "Uploaded by DylanIsAKing on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Silent%20aim.lua", "https://scriptblox.com/script/Zombie-Uprising-Silent-aim-10269")

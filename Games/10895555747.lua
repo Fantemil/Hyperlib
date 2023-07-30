@@ -1,0 +1,2 @@
+
+addscript(10895555747, "Current Game","Fruit Hat", "Uploaded by backdoor on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Fruit%20Hat.lua", "https://scriptblox.com/script/Walmart-Land-event-item-8775")

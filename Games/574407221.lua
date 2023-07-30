@@ -1,0 +1,4 @@
+
+addscript(574407221, "Current Game","TROLLING GUI FIXED", "Uploaded by thanhtam8765 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TROLLING%20GUI%20FIXED.lua", "https://scriptblox.com/script/Super-Hero-Tycoon-TROLLING-GUI-REMAKE-11134")
+addscript(574407221, "Current Game","Crate collect", "Uploaded by Kosovo on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Crate%20collect.lua", "https://scriptblox.com/script/Super-Hero-Tycoon-Crate-collect-9930")
+addscript(574407221, "Current Game","INSANE AutoFarm", "Uploaded by Zentain on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/INSANE%20AutoFarm.lua", "https://scriptblox.com/script/Super-Hero-Tycoon-INSANE-AutoFarm-9898")

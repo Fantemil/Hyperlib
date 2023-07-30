@@ -1,0 +1,3 @@
+
+addscript(6650622018, "Current Game","OPEN SOURCE NEW SCRIPT", "Uploaded by Criminal on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OPEN%20SOURCE%20NEW%20SCRIPT.lua", "https://scriptblox.com/script/Block-Mine-OPEN-SOURCE-NEW-SCRIPT-10744")
+addscript(6650622018, "Current Game","Script Infinite Strength and Wins", "Uploaded by JosephJerome0 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Script%20Infinite%20Strength%20and%20Wins.lua", "https://scriptblox.com/script/Block-Mine-Script-Infinite-Strength-and-Wins-10738")

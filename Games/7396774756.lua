@@ -1,0 +1,2 @@
+
+addscript(7396774756, "Current Game","autofarm for people like this game BRUH WAIT FOR FIX", "Uploaded by botbrostopusing on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/autofarm%20for%20people%20like%20this%20game%20BRUH%20WAIT%20FOR%20FIX.lua", "https://scriptblox.com/script/Arena:-Tower-Defense!-autofarm-for-people-like-this-game-BRUH-10205")

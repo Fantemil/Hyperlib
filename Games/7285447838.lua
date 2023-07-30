@@ -1,0 +1,2 @@
+
+addscript(7285447838, "Current Game","Tokyo Saga", "Uploaded by DevSwag on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tokyo%20Saga.lua", "https://scriptblox.com/script/Tokyo-Saga-BIG-UPDATE!-Tokyo-Saga-9370")

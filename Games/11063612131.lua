@@ -1,0 +1,2 @@
+
+addscript(11063612131, "Current Game"," wins", "Uploaded by Partner on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/%20wins.lua", "https://scriptblox.com/script/Every-Second-You-Get-%2B1-Jump-Power-1500-wins-10276")

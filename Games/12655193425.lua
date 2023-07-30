@@ -1,0 +1,2 @@
+
+addscript(12655193425, "Current Game","Auto Collect", "Uploaded by horror on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Collect.lua", "https://scriptblox.com/script/NEW-Prison-Tycoon-Auto-Collect-10834")

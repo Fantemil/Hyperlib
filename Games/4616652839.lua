@@ -1,0 +1,2 @@
+
+addscript(4616652839, "Current Game","Project Nexus SL", "Uploaded by Afyyy on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Project%20Nexus%20SL.lua", "https://scriptblox.com/script/Shinobi-Life-2-Project-Nexus-SL-11283")

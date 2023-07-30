@@ -1,0 +1,2 @@
+
+addscript(11137575513, "Current Game","FE gui", "Uploaded by Kosovo on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FE%20gui.lua", "https://scriptblox.com/script/The-Chosen-One-FE-gui-9258")

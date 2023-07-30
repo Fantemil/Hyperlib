@@ -1,0 +1,2 @@
+
+addscript(8170900938, "Current Game","dragon and legend style", "Uploaded by coooper415123 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/dragon%20and%20legend%20style.lua", "https://scriptblox.com/script/Right-2-Fight-V0.3.8-dragon-and-legend-style-10955")

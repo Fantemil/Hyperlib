@@ -1,0 +1,2 @@
+
+addscript(2619187362, "Current Game","Basic SPFS Autotrain", "Uploaded by airstrike on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Basic%20SPFS%20Autotrain.lua", "https://scriptblox.com/script/Super-Power-Fighting-Simulator-Basic-SPFS-Autotrain-9523")

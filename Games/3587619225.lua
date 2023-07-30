@@ -1,0 +1,4 @@
+
+addscript(3587619225, "Current Game","Be Invincible and more", "Uploaded by KhSaeed90 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Be%20Invincible%20and%20more.lua", "https://scriptblox.com/script/Mega-Easy-Obby-825-Stages!-Be-Invincible-and-more-11503")
+addscript(3587619225, "Current Game","Auto Stage n Prestige and more", "Uploaded by KhSaeed90 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Stage%20n%20Prestige%20and%20more.lua", "https://scriptblox.com/script/Mega-Easy-Obby-825-Stages!-Auto-Stage-n-Prestige-and-more-12042")
+addscript(3587619225, "Current Game","Auto Complete Level", "Uploaded by Eskey on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Complete%20Level.lua", "https://scriptblox.com/script/Mega-Easy-Obby-825-Stages!-Auto-Complete-Level-11435")

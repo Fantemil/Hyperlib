@@ -1,0 +1,2 @@
+
+addscript(7549229959, "Current Game","Hecta Reborn Script No Key Free", "Uploaded by FlexRBLX on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Hecta%20Reborn%20Script%20No%20Key%20Free.lua", "https://scriptblox.com/script/Squid-Game-Hecta-Reborn-Script-No-Key-Free-9584")

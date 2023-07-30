@@ -1,0 +1,2 @@
+
+addscript(2693023319, "Current Game","Simple Scripts", "Uploaded by Eskey on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Simple%20Scripts.lua", "https://scriptblox.com/script/ICE-CLIMBINGExpedition-Antarctica-Simple-Scripts-12132")

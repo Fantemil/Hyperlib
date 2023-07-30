@@ -1,0 +1,3 @@
+
+addscript(8073154099, "Current Game","Alerts and more features", "Uploaded by linneythewinney on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Alerts%20and%20more%20features.lua", "https://scriptblox.com/script/The-Intruder-Alerts-and-more-features-9666")
+addscript(8073154099, "Current Game","give all badges", "Uploaded by SleepyCat on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/give%20all%20badges.lua", "https://scriptblox.com/script/MALL-The-Intruder-give-all-badges-10056")

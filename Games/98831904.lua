@@ -1,0 +1,2 @@
+
+addscript(98831904, "Current Game","Adonis Bypass", "Uploaded by enes584458 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Adonis%20Bypass.lua", "https://scriptblox.com/script/UPDATEAdonis-Admin-House-Adonis-Bypass-11701")

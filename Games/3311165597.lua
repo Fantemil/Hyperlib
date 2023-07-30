@@ -1,0 +1,2 @@
+
+addscript(3311165597, "Current Game","Dbu Gui", "Uploaded by N17S3 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Dbu%20Gui.lua", "https://scriptblox.com/script/Dragon-Blox-Ultimate-Dbu-Gui-11882")

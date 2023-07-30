@@ -1,0 +1,2 @@
+
+addscript(2768379856, "Current Game","script", "Uploaded by professional_gaymer on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/script.lua", "https://scriptblox.com/script/3008-2.72-script-11041")

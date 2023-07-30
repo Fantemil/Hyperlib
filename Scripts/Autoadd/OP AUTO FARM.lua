@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Shaad777/Zentain-Hub/main/main.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/PerfectusMim/PerfectusMim/main/pirate%20adventures"))()

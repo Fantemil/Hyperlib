@@ -1,0 +1,2 @@
+
+addscript(8689257920, "Current Game","Hitbox", "Uploaded by OzaiPlayzYT on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Hitbox.lua", "https://scriptblox.com/script/Life-in-Prison-Hitbox-11016")

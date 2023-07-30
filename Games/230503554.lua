@@ -1,0 +1,3 @@
+
+addscript(230503554, "Current Game","Instant Win n Stage Slider", "Uploaded by KhSaeed90 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Instant%20Win%20n%20Stage%20Slider.lua", "https://scriptblox.com/script/Speed-Run-12-Instant-Win-n-Stage-Slider-12176")
+addscript(230503554, "Current Game","Instant Win n Stage Slider", "Uploaded by KhSaeed90 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Instant%20Win%20n%20Stage%20Slider.lua", "https://scriptblox.com/script/Speed-Run-12-Instant-Win-n-Stage-Slider-12176")

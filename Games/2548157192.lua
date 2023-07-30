@@ -1,0 +1,2 @@
+
+addscript(2548157192, "Current Game","Freeze all", "Uploaded by Kosovo on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Freeze%20all.lua", "https://scriptblox.com/script/Funeral-Home-and-Graveyard!-Freeze-all-9089")

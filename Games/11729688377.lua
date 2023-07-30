@@ -1,0 +1,2 @@
+
+addscript(11729688377, "Current Game","ITEM SNIPER", "Uploaded by kerron on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ITEM%20SNIPER.lua", "https://scriptblox.com/script/UPD!-Booga-Booga-REBORN-ITEM-SNIPER-10858")

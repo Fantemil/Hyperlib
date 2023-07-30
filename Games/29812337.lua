@@ -1,0 +1,2 @@
+
+addscript(29812337, "Current Game","roblox framed script stream proof", "Uploaded by DeepWoken on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/roblox%20framed%20script%20stream%20proof.lua", "https://scriptblox.com/script/Framed!-roblox-framed-script-stream-proof-9063")

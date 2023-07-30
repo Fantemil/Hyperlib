@@ -1,0 +1,3 @@
+
+addscript(12333888195, "Current Game","Inf Power", "Uploaded by KEPA on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Inf%20Power.lua", "https://scriptblox.com/script/arm-wrestling-simulator-Inf-Power-11320")
+addscript(12333888195, "Current Game","Infinite all have fun", "Uploaded by 3quinox on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Infinite%20all%20have%20fun.lua", "https://scriptblox.com/script/arm-wrestling-simulator-Infinite-all-have-fun-11325")

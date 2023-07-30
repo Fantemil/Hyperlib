@@ -1,0 +1,3 @@
+
+addscript(7993293100, "Current Game","Coin Autofarm", "Uploaded by Flames on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Coin%20Autofarm.lua", "https://scriptblox.com/script/Tsunami-Game-Autofarm-Coin-11814")
+addscript(7993293100, "Current Game","Ez Coins", "Uploaded by yuuiz on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ez%20Coins.lua", "https://scriptblox.com/script/Tsunami-Game-Ez-Coins-11281")

@@ -1,0 +1,2 @@
+
+addscript(8464410114, "Current Game","Auto Collect", "Uploaded by gore on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Collect.lua", "https://scriptblox.com/script/Realistic-Mansion-Tycoon-(NEW-MANSION)-Auto-Collect-10090")

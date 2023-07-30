@@ -1,0 +1,4 @@
+
+addscript(12581352963, "Current Game","Auto Buy Eggs", "Uploaded by Tomato on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Buy%20Eggs.lua", "https://scriptblox.com/script/MEME-%2B1-Pizza-Per-Second-Auto-Buy-Eggs-10702")
+addscript(12581352963, "Current Game","Auto Click", "Uploaded by Tomato on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Click.lua", "https://scriptblox.com/script/YT!-%2B1-Pizza-Per-Second-Auto-Click-10512")
+addscript(12581352963, "Current Game","NEW Auto Click", "Uploaded by Tomato on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NEW%20Auto%20Click.lua", "https://scriptblox.com/script/MEME-%2B1-Pizza-Per-Second-NEW-Auto-Click-10706")

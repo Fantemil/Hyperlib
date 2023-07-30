@@ -1,0 +1,3 @@
+
+addscript(735030788, "Current Game","Piano Experimental Jazz", "Uploaded by xanem1 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Piano%20Experimental%20Jazz.lua", "https://scriptblox.com/script/RoyaleHigh-Piano-Experimental-Jazz-11304")
+addscript(735030788, "Current Game","Egg Hunt Golden Egg Farm", "Uploaded by xanem1 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Egg%20Hunt%20Golden%20Egg%20Farm.lua", "https://scriptblox.com/script/RoyaleHigh-Egg-Hunt-Golden-Egg-Farm-11305")

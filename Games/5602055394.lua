@@ -1,0 +1,4 @@
+
+addscript(5602055394, "Current Game","ego x dimag", "Uploaded by egoo on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ego%20x%20dimag.lua", "https://scriptblox.com/script/Hood-Modded-ego-x-dimag-10271")
+addscript(5602055394, "Current Game","Streak and Stomp changer", "Uploaded by 1FOfficial on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Streak%20and%20Stomp%20changer.lua", "https://scriptblox.com/script/EASTER!-Hood-Modded-Streak-and-Stomp-changer-10765")
+addscript(5602055394, "Current Game","simple silent aim", "Uploaded by mr_peebutt on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/simple%20silent%20aim.lua", "https://scriptblox.com/script/EASTER!-Hood-Modded-simple-silent-aim-10479")

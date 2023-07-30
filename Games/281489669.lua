@@ -1,0 +1,2 @@
+
+addscript(281489669, "Current Game","Cheat Menu vTwo", "Uploaded by 6Foot4Honda on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Cheat%20Menu%20vTwo.lua", "https://scriptblox.com/script/BROOMS!-Wizard-Tycoon-2-Player-Cheat-Menu-v-10656")

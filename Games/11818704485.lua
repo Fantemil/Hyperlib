@@ -1,0 +1,3 @@
+
+addscript(11818704485, "Current Game","Inf Rebirths", "Uploaded by 3quinox on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Inf%20Rebirths.lua", "https://scriptblox.com/script/%2B1-Damage-Every-Second-Inf-Rebirths-9194")
+addscript(11818704485, "Current Game","AutoFarm etc", "Uploaded by Foreverekk on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AutoFarm%20etc.lua", "https://scriptblox.com/script/%2B1-Damage-Every-Second-AutoFarm-etc-9512")

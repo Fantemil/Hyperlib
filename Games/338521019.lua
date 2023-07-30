@@ -1,0 +1,2 @@
+
+addscript(338521019, "Current Game","Collect Custards Slendytubbies VS Redux", "Uploaded by 1234567 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Collect%20Custards%20Slendytubbies%20VS%20Redux.lua", "https://scriptblox.com/script/Identity-Fraud-Revamp-Collect-Custards-Game-not-found-do-not-click-9538")

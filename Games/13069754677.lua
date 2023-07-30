@@ -1,0 +1,2 @@
+
+addscript(13069754677, "Current Game","teleport to suit", "Uploaded by TheEpicic2 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/teleport%20to%20suit.lua", "https://scriptblox.com/script/Vita-Coco-The-Coconut-Grove-teleport-to-suit-10565")

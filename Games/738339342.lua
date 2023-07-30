@@ -1,0 +1,2 @@
+
+addscript(738339342, "Current Game","annoying snapshot msg spammer", "Uploaded by dotgg on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/annoying%20snapshot%20msg%20spammer.lua", "https://scriptblox.com/script/WINTER-FE2-annoying-snapshot-msg-spammer-8943")

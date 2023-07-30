@@ -1,0 +1,3 @@
+
+addscript(2665326799, "Current Game","Op Script", "Uploaded by AndyGade on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Op%20Script.lua", "https://scriptblox.com/script/Find-The-Button-Op-Script-10621")
+addscript(2665326799, "Current Game","Op Script", "Uploaded by AndyGade on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Op%20Script.lua", "https://scriptblox.com/script/Find-The-Button-Op-Script-10621")

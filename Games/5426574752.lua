@@ -1,0 +1,2 @@
+
+addscript(5426574752, "Current Game","Da lock XOX", "Uploaded by funj3292 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Da%20lock%20XOX.lua", "https://scriptblox.com/script/South-Hood-Da-lock-XOX-10943")

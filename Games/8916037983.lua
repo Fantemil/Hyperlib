@@ -1,0 +1,2 @@
+
+addscript(8916037983, "Current Game","Thunder Hub", "Uploaded by xanto on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Thunder%20Hub.lua", "https://scriptblox.com/script/starving-artists-(DONATION-GAME)-Thunder-Hub-12047")

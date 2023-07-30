@@ -1,0 +1,2 @@
+
+addscript(8057903945, "Current Game","Autofarm", "Uploaded by bingusUTMA on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Autofarm.lua", "https://scriptblox.com/script/Weird-Sans-Fighting-Game-Autofarm-10921")

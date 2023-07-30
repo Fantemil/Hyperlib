@@ -1,0 +1,3 @@
+
+addscript(13555613865, "Current Game","unlock gamepass morph", "Uploaded by cdcar on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/unlock%20gamepass%20morph.lua", "https://scriptblox.com/script/skibi-toilet-script-11872")
+addscript(13555613865, "Current Game","unlock gamepass morph", "Uploaded by cdcar on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/unlock%20gamepass%20morph.lua", "https://scriptblox.com/script/skibi-toilet-script-11872")

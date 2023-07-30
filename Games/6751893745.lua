@@ -1,0 +1,2 @@
+
+addscript(6751893745, "Current Game","Arcade", "Uploaded by Mrskull on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Arcade.lua", "https://scriptblox.com/script/Doors-Story-(Arcade-Night-Story)-Arcade-8893")

@@ -1,0 +1,2 @@
+
+addscript(9216815133, "Current Game","Advanced Auto Farm", "Uploaded by Flames on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Advanced%20Auto%20Farm.lua", "https://scriptblox.com/script/Trollge-Conventions-Advanced-Auto-Farm-10761")

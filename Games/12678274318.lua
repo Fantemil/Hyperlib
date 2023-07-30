@@ -1,0 +1,2 @@
+
+addscript(12678274318, "Current Game","Infinite Gifts n Instant Win and more", "Uploaded by KhSaeed90 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Infinite%20Gifts%20n%20Instant%20Win%20and%20more.lua", "https://scriptblox.com/script/KAREN'S-STORE-ESCAPE!-(Obby)-Infinite-Gifts-n-Instant-Win-and-more-12157")

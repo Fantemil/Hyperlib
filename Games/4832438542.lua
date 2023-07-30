@@ -1,0 +1,2 @@
+
+addscript(4832438542, "Current Game","GunMod VR Script", "Uploaded by n4rrrii on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/GunMod%20VR%20Script.lua", "https://scriptblox.com/script/VR-Hands-v2.7.2-GunMod-VR-Script-9111")

@@ -1,0 +1,2 @@
+
+addscript(7848359510, "Current Game","Free gamepass things saves the apps installed", "Uploaded by Extrame on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Free%20gamepass%20things%20saves%20the%20apps%20installed.lua", "https://scriptblox.com/script/Windows-10-OS-Operating-System-END-GAME-Free-gamepass-things-saves-but-still-use-the-script-9227")

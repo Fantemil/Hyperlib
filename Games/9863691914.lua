@@ -1,0 +1,3 @@
+
+addscript(9863691914, "Current Game","Morph Search", "Uploaded by AtomicAlchemist on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Morph%20Search.lua", "https://scriptblox.com/script/NEW-Backrooms-Morphs-Morph-Search-11068")
+addscript(9863691914, "Current Game","UNLOCK ALL", "Uploaded by kerron on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/UNLOCK%20ALL.lua", "https://scriptblox.com/script/NEW-Backrooms-Morphs-UNLOCK-ALL-10866")

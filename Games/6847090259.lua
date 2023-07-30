@@ -1,0 +1,2 @@
+
+addscript(6847090259, "Current Game","LogGui", "Uploaded by LogHub on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LogGui.lua", "https://scriptblox.com/script/Bulked-Up-LogGui-11435")

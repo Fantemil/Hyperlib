@@ -1,0 +1,2 @@
+
+addscript(13665053842, "Current Game","OP Autofarm", "Uploaded by I92140I9 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20Autofarm.lua", "https://scriptblox.com/script/25K-VISITS!-Incremental-Button-Simulator-OP-Autofarm-12183")

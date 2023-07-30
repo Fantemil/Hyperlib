@@ -1,0 +1,4 @@
+
+addscript(12931609417, "Current Game","OP Script", "Uploaded by SomeKindOfScripter on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20Script.lua", "https://scriptblox.com/script/NEW!-Color-or-Die-OP-Script-10859")
+addscript(12931609417, "Current Game","OP Script", "Uploaded by SomeKindOfScripter on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20Script.lua", "https://scriptblox.com/script/NEW!-Color-or-Die-OP-Script-10859")
+addscript(12931609417, "Current Game","OP script", "Uploaded by digitalgyp on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20script.lua", "https://scriptblox.com/script/NEW!-Color-or-Die-Roblox-ion-10850")

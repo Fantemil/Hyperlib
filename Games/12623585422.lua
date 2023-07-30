@@ -1,0 +1,2 @@
+
+addscript(12623585422, "Current Game","Speed script", "Uploaded by nexusteamph on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Speed%20script.lua", "https://scriptblox.com/script/Color-Block-Run!-Speed-script-10628")

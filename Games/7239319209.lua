@@ -1,0 +1,2 @@
+
+addscript(7239319209, "Current Game","ohio scripted edited", "Uploaded by manny600 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ohio%20scripted%20edited.lua", "https://scriptblox.com/script/Ohio.-ohio-scripted-edited-9522")

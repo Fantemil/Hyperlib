@@ -1,0 +1,3 @@
+
+addscript(6536647319, "Current Game","admin script", "Uploaded by killout55 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/admin%20script.lua", "https://scriptblox.com/script/2XP-%2B-REVAMP-Slayers-Unleashed-admin-script-11151")
+addscript(6536647319, "Current Game","stat changer", "Uploaded by killout55 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/stat%20changer.lua", "https://scriptblox.com/script/2XP-%2B-REVAMP-Slayers-Unleashed-stat-changer-11150")

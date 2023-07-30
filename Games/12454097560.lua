@@ -1,0 +1,2 @@
+
+addscript(12454097560, "Current Game","Ginseng Autofarm", "Uploaded by revgames on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ginseng%20Autofarm.lua", "https://scriptblox.com/script/Soul-Cultivation-Mining-Update-Ginseng-Autofarm-10618")

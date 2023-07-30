@@ -1,0 +1,3 @@
+
+addscript(8204899140, "Current Game","MAG REACH AND INF JUMP", "Uploaded by Lux_ on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MAG%20REACH%20AND%20INF%20JUMP.lua", "https://scriptblox.com/script/Football-Fusion-2-MAG-REACH-AND-INF-JUMP-10398")
+addscript(8204899140, "Current Game","BEST MS", "Uploaded by leakedbyVUK on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BEST%20MS.lua", "https://scriptblox.com/script/Football-Fusion-2-BEST-MS-10621")

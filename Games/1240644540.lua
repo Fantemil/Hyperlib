@@ -1,0 +1,2 @@
+
+addscript(1240644540, "Current Game","ESP", "Uploaded by Coconut on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ESP.lua", "https://scriptblox.com/script/Vampire-Hunters-3-Full-ESP-10781")

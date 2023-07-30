@@ -1,0 +1,2 @@
+
+addscript(10875701453, "Current Game","good gui", "Uploaded by wibu on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/good%20gui.lua", "https://scriptblox.com/script/SALE-Edward-the-Man-Eating-Train-idk-9082")

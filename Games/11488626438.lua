@@ -1,0 +1,2 @@
+
+addscript(11488626438, "Current Game","OP Script", "Uploaded by Killa on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20Script.lua", "https://scriptblox.com/script/1M-Event-Rank-Simulator-X-OP-Script-11041")

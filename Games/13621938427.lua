@@ -1,0 +1,4 @@
+
+addscript(13621938427, "Current Game","Ermpyrin Hub Op Data Roll Back INF SPINS", "Uploaded by Blackout on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ermpyrin%20Hub%20Op%20Data%20Roll%20Back%20INF%20SPINS.lua", "https://scriptblox.com/script/IT'S-BACK-untitled-boxing-game-Ermpyri0n-Hub-11769")
+addscript(13621938427, "Current Game","Auto Block Open Source", "Uploaded by Flames on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Block%20Open%20Source.lua", "https://scriptblox.com/script/IT'S-BACK-untitled-boxing-game-game-AutoBlock-Open-Source-11793")
+addscript(13621938427, "Current Game","Counter All Punch", "Uploaded by CapybaraLover69 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Counter%20All%20Punch.lua", "https://scriptblox.com/script/MYTHIC-untitled-boxing-game-Counter-All-Punch-11714")

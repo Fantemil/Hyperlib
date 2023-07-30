@@ -1,0 +1,3 @@
+
+addscript(855499080, "Current Game","Autofarm Fly etc", "Uploaded by Hanki on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Autofarm%20Fly%20etc.lua", "https://scriptblox.com/script/SKYWARS-Autofarm-Fly-etc-10057")
+addscript(855499080, "Current Game","Farm Coins Patched", "Uploaded by yuuiz on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Farm%20Coins%20Patched.lua", "https://scriptblox.com/script/SKYWARS-Farm-Coins-9108")

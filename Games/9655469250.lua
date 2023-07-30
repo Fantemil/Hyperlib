@@ -1,0 +1,3 @@
+
+addscript(9655469250, "Current Game","Mod Gun", "Uploaded by Lucas on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mod%20Gun.lua", "https://scriptblox.com/script/AA-TANK-EarthScape-Tycoon-Mod-Gun-8994")
+addscript(9655469250, "Current Game","auto farm", "Uploaded by thanhtam8765 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/auto%20farm.lua", "https://scriptblox.com/script/AA-TANK-EarthScape-Tycoon-auto-farm-9007")

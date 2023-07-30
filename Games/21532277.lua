@@ -1,0 +1,4 @@
+
+addscript(21532277, "Current Game","Requiem V", "Uploaded by Emptyness on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Requiem%20V.lua", "https://scriptblox.com/script/Notoriety-Requiem-10878")
+addscript(21532277, "Current Game","Auto Infamy TESTING", "Uploaded by Emptyness on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Infamy%20TESTING.lua", "https://scriptblox.com/script/RUSH-HOUR-Notoriety-Auto-Infamy-11229")
+addscript(21532277, "Current Game","Requiem Evolution", "Uploaded by Emptyness on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Requiem%20Evolution.lua", "https://scriptblox.com/script/RUSH-HOUR-Notoriety-Requiem-Evolution-11364")

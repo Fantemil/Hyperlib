@@ -1,0 +1,2 @@
+
+addscript(7714202692, "Current Game","avenge free gamepasses", "Uploaded by fortmason21 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/avenge%20free%20gamepasses.lua", "https://scriptblox.com/script/FLASH-UPDATEAvenge-avenge-free-gamepasses-10675")

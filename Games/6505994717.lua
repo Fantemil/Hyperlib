@@ -1,0 +1,2 @@
+
+addscript(6505994717, "Current Game","Collect All s", "Uploaded by Seasonal on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Collect%20All%20s.lua", "https://scriptblox.com/script/Epic-Egg-Hunt-2022-Collect-All-s-10489")

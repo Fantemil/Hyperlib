@@ -1,0 +1,2 @@
+
+addscript(12198293565, "Current Game","Run Auto Fram", "Uploaded by Sewo on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Run%20Auto%20Fram.lua", "https://scriptblox.com/script/Clone-Run!-Run-AUTO-FRAM-10072")

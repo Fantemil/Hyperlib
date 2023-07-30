@@ -1,0 +1,2 @@
+
+addscript(12152063271, "Current Game","autofarm", "Uploaded by TangleMangle on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/autofarm.lua", "https://scriptblox.com/script/(NEW)-Fireball-Punching-Simulator-autofarm-11349")

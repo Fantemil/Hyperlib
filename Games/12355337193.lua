@@ -1,0 +1,3 @@
+
+addscript(12355337193, "Current Game","OP Gui", "Uploaded by DogeFriend on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20Gui.lua", "https://scriptblox.com/script/Murderers-VS-Sheriffs-Duels-OP-Gui-11446")
+addscript(12355337193, "Current Game","Trolling GUI", "Uploaded by Emptyness on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Trolling%20GUI.lua", "https://scriptblox.com/script/Murderers-VS-Sheriffs-Duels-Trolling-GUI-11373")

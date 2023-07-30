@@ -1,0 +1,2 @@
+
+addscript(11440777729, "Current Game","Obby complete script", "Uploaded by Emptyness on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Obby%20complete%20script.lua", "https://scriptblox.com/script/8-BIT!-Try-To-Die-Dco-Obby-complete-script-with-randomization-11283")

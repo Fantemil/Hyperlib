@@ -1,0 +1,2 @@
+
+addscript(6110766473, "Current Game","Time Script", "Uploaded by e621 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Time%20Script.lua", "https://scriptblox.com/script/Flex-Fight-Time-Script-9107")

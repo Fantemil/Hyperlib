@@ -1,0 +1,2 @@
+
+addscript(12135645852, "Current Game","Project Nexus AniSim", "Uploaded by Afyyy on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Project%20Nexus%20AniSim.lua", "https://scriptblox.com/script/UPD-Anime-Catching-Simulator-Project-Nexus-AniSim-11284")

@@ -1,0 +1,2 @@
+
+addscript(11958257696, "Current Game","Auto Collect", "Uploaded by horror on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Collect.lua", "https://scriptblox.com/script/UPDATE-Bounce-House-Tycoon-Auto-Collect-12141")

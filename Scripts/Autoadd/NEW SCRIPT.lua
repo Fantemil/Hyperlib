@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/13B8B/NEXUS/main/Mine%20Blocks%20Simulator"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Sw1ndlerScripts/Scripts/main/Karate.lua"))()

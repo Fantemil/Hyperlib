@@ -1,0 +1,2 @@
+
+addscript(4508456371, "Current Game","OPEN SOURCE LOODY", "Uploaded by vermillion on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OPEN%20SOURCE%20LOODY.lua", "https://scriptblox.com/script/Shortest-Answer-Wins-DONKEY-TRAIL-OPEN-SOURCE-LOODY-8733")

@@ -1,0 +1,2 @@
+
+addscript(6083177762, "Current Game","Auto collect coins eggs", "Uploaded by chihimfan6 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20collect%20coins%20eggs.lua", "https://scriptblox.com/script/Roblox-but-every-second-the-baseplate-grows-%2B1-Auto-collect-coins-eggs-11346")

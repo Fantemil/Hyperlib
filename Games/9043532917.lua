@@ -1,0 +1,3 @@
+
+addscript(9043532917, "Current Game","Harked gui", "Uploaded by Phatdatdq74 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Harked%20gui.lua", "https://scriptblox.com/script/Ramp-Jumping-On-Sports-Cars!-Game-name-jump-cars-harked-script-10940")
+addscript(9043532917, "Current Game","Harked gui", "Uploaded by Phatdatdq74 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Harked%20gui.lua", "https://scriptblox.com/script/Ramp-Jumping-On-Sports-Cars!-Game-name-jump-cars-harked-script-10940")

@@ -1,0 +1,2 @@
+
+addscript(9887114004, "Current Game","gltchd hub", "Uploaded by ademhenster on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/gltchd%20hub.lua", "https://scriptblox.com/script/DOORS-gl1tch3d-hub-11148")

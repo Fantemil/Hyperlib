@@ -1,0 +1,2 @@
+
+addscript(5104202731, "Current Game","SoutWest AutoFarm", "Uploaded by Fxxai on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SoutWest%20AutoFarm.lua", "https://scriptblox.com/script/Southwest-Florida-Beta-SoutWest-AutoFarm-11713")

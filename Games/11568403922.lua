@@ -1,0 +1,3 @@
+
+addscript(11568403922, "Current Game","Op script", "Uploaded by ToddyTheNoobDud on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Op%20script.lua", "https://scriptblox.com/script/Drag-Project-Beta-Version-Op-script-10624")
+addscript(11568403922, "Current Game","Unlock All", "Uploaded by Robii_GAMING on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Unlock%20All.lua", "https://scriptblox.com/script/Drag-Project-Beta-Version-Unlock-All-10759")

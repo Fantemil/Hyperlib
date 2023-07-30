@@ -1,0 +1,2 @@
+
+addscript(13124109856, "Current Game","AutoLick and AutoSell", "Uploaded by azicity23 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AutoLick%20and%20AutoSell.lua", "https://scriptblox.com/script/MAGIC!-Ice-Cream-Clicker-AutoLick-and-AutoSell-10759")

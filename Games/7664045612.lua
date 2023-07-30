@@ -1,0 +1,2 @@
+
+addscript(7664045612, "Current Game","Autofarm script", "Uploaded by froggybxmb on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Autofarm%20script.lua", "https://scriptblox.com/script/Tiny-Bread-Factory-Autofarm-script-9132")

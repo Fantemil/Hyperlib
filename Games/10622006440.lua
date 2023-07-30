@@ -1,0 +1,2 @@
+
+addscript(10622006440, "Current Game","aimhook xyz", "Uploaded by Storm on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/aimhook%20xyz.lua", "https://scriptblox.com/script/Hyper-Realistic-CSGO-Guns-aimhook-xyz-9495")

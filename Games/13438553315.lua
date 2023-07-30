@@ -1,0 +1,2 @@
+
+addscript(13438553315, "Current Game","GOODWILL COMMAND CURRENTLY UNSTABLE", "Uploaded by JkgP on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/GOODWILL%20COMMAND%20CURRENTLY%20UNSTABLE.lua", "https://scriptblox.com/script/Decaying-Winter-script-11153")

@@ -1,0 +1,4 @@
+
+addscript(10982284336, "Current Game","INF DPS SCRIPT", "Uploaded by vernyfx666 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/INF%20DPS%20SCRIPT.lua", "https://scriptblox.com/script/UPD1-Anime-Idle-Simulator-INF-DPS-SCRIPT-9181")
+addscript(10982284336, "Current Game","Auto Mob Auto Hire Auto Upgrade Free Gamepass and More", "Uploaded by Sakai on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Mob%20Auto%20Hire%20Auto%20Upgrade%20Free%20Gamepass%20and%20More.lua", "https://scriptblox.com/script/UPD1-Anime-Idle-Simulator-Auto-Mob-Auto-Hire-Auto-Upgrade-Free-Gamepass-and-More-9611")
+addscript(10982284336, "Current Game","OP AIS script", "Uploaded by vernyfx666 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20AIS%20script.lua", "https://scriptblox.com/script/UPD1-Anime-Idle-Simulator-OP-AIS-script-9114")

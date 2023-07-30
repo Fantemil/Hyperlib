@@ -1,0 +1,4 @@
+
+addscript(10129750406, "Current Game","Infinite OP Lucky Box n All Gears and more", "Uploaded by KhSaeed90 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Infinite%20OP%20Lucky%20Box%20n%20All%20Gears%20and%20more.lua", "https://scriptblox.com/script/Climb-2000-Stairs-to-VIP-Obby-Get-All-Gears-and-more-11517")
+addscript(10129750406, "Current Game","Teleports", "Uploaded by Partner on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Teleports.lua", "https://scriptblox.com/script/Climb-2000-Stairs-to-VIP-Obby-Teleports-10361")
+addscript(10129750406, "Current Game","Teleport Hub", "Uploaded by tark on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Teleport%20Hub.lua", "https://scriptblox.com/script/Climb-2000-Stairs-to-VIP-Obby-Teleport-Hub-10092")

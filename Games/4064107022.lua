@@ -1,0 +1,2 @@
+
+addscript(4064107022, "Current Game","psa script", "Uploaded by ChaoticScripts on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/psa%20script.lua", "https://scriptblox.com/script/PROJECT-SUBMUS-ACCUDO-DEMO-psa-script-10941")

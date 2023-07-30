@@ -1,0 +1,4 @@
+
+addscript(8908228901, "Current Game","sharkbite ", "Uploaded by mylegianonzaga on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/sharkbite%20.lua", "https://scriptblox.com/script/SharkBite-2-NEW-sharkbite-2-8966")
+addscript(8908228901, "Current Game","SharkBite  INSTA KILL SHARK SCRIPT", "Uploaded by JosephJerome0 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SharkBite%20%20INSTA%20KILL%20SHARK%20SCRIPT.lua", "https://scriptblox.com/script/SharkBite-2-NEW-SharkBite-2-INSTA-KILL-SHARK-SCRIPT-9143")
+addscript(8908228901, "Current Game","New Version ", "Uploaded by freescriptz on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/New%20Version%20.lua", "https://scriptblox.com/script/SharkBite-2-NEW-New-9529")

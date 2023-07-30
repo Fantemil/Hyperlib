@@ -1,0 +1,2 @@
+
+addscript(10523569082, "Current Game","Fe destroyer", "Uploaded by Rypxc on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Fe%20destroyer.lua", "https://scriptblox.com/script/A-Universal-Time-:-Old-Universe-Fe-destroyer-11391")

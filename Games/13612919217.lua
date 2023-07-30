@@ -1,0 +1,2 @@
+
+addscript(13612919217, "Current Game","free gamepass and secret", "Uploaded by sallyshot on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/free%20gamepass%20and%20secret.lua", "https://scriptblox.com/script/(EP-52!)-Skibid-Toilet-Tower-Defense-free-gamepass-12193")

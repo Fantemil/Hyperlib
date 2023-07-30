@@ -1,0 +1,2 @@
+
+addscript(12574073723, "Current Game","Kill Aura AutoTP AutoCollect", "Uploaded by Sakai on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Kill%20Aura%20AutoTP%20AutoCollect.lua", "https://scriptblox.com/script/UPDATE-Realms!-Simulator-Kill-Aura-AutoTP-AutoCollect-9593")

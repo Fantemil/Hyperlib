@@ -1,0 +1,2 @@
+
+addscript(11513339030, "Current Game","Autofarm", "Uploaded by KEPA on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Autofarm.lua", "https://scriptblox.com/script/Jump-Higher-Per-Second-Autofarm-11279")

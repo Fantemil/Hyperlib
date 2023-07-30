@@ -1,0 +1,2 @@
+
+addscript(9601565001, "Current Game","spawn any", "Uploaded by CelestialTimmy on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/spawn%20any.lua", "https://scriptblox.com/script/Car-Crash-System-spawn-any-10899")

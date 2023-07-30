@@ -1,0 +1,2 @@
+
+addscript(4505214429, "Current Game","free colour spins", "Uploaded by roninpilot1 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/free%20colour%20spins.lua", "https://scriptblox.com/script/EXCALIBUR-Soul-Eater:-Resonance-free-colour-spins-9125")

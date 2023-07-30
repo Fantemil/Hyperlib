@@ -1,56 +1,40 @@
--- just an fps script lol
--- https://cord.breadhub.cc/
--- AGPL-3.0-OR-LATER
-local averageTime = 5
-local redrawInterval = 1 / 30
-local drawing = Drawing.new 'Text'
-drawing.Size = 28
-drawing.Center = true
-drawing.Color = Color3.new(1, 1, 1)
-local m = game:GetService('Players').LocalPlayer:GetMouse()
-local insert, clock, floor, huge, tostring = table.insert, os.clock, math.floor, math.huge, tostring
-local frames = {}
-local update = function()
-  local clockTime = clock()
-  local newFrames = {}
-  local frameCount = 0
-  local low = huge
-  local high = 0
-  for _, o in pairs(frames) do
-    if clockTime - o[1] < averageTime then
-      insert(newFrames, o)
-      frameCount = frameCount + 1
-      local rounded = floor(o[2] * 10) / 10
-      if rounded < low then
-        low = rounded
-      end
-      if rounded > high then
-        high = rounded
-      end
-    end
-  end
-  frames = newFrames
-  if frameCount == 0 then
-    frameCount = 1
-  end
-  drawing.Text = 'FPS (last '
-    .. averageTime
-    .. '):\nØ: '
-    .. tostring(floor(frameCount / averageTime))
-    .. '\nFrame Low: '
-    .. tostring(low)
-    .. '\nFrame High: '
-    .. tostring(high)
-  drawing.Position = Vector2.new(m.ViewSizeX / 2, m.ViewSizeY - (drawing.Size * 5))
+local LBLG = Instance.new("ScreenGui", getParent)
+local LBL = Instance.new("TextLabel", getParent)
+local player = game.Players.LocalPlayer
+
+LBLG.Name = "LBLG"
+LBLG.Parent = game.CoreGui
+LBLG.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
+LBLG.Enabled = true
+LBL.Name = "LBL"
+LBL.Parent = LBLG
+LBL.BackgroundColor3 = Color3.new(1, 1, 1)
+LBL.BackgroundTransparency = 1
+LBL.BorderColor3 = Color3.new(0, 0, 0)
+LBL.Position = UDim2.new(0.894944727, 0, 0.952606618, 0)
+LBL.Size = UDim2.new(0, 133, 0, 30)
+LBL.Font = Enum.Font.GothamSemibold
+LBL.Text = "TextLabel"
+LBL.TextColor3 = Color3.new(1, 1, 1)
+LBL.TextScaled = true
+LBL.TextSize = 14
+LBL.TextWrapped = true
+LBL.Visible = true
+
+local FpsLabel = LBL
+local Heartbeat = game:GetService("RunService").Heartbeat
+local LastIteration, Start
+local FrameUpdateTable = { }
+
+local function HeartbeatUpdate()
+	LastIteration = tick()
+	for Index = #FrameUpdateTable, 1, -1 do
+		FrameUpdateTable[Index + 1] = (FrameUpdateTable[Index] >= LastIteration - 1) and FrameUpdateTable[Index] or nil
+	end
+	FrameUpdateTable[1] = LastIteration
+	local CurrentFPS = (tick() - Start >= 1 and #FrameUpdateTable) or (#FrameUpdateTable / (tick() - Start))
+	CurrentFPS = CurrentFPS - CurrentFPS % 1
+	FpsLabel.Text = "" .. CurrentFPS .. " FPS"
 end
-update()
-local lastDelta = 0
-game:GetService('RunService').RenderStepped:Connect(function(delta)
-  local clockTime = clock()
-  lastDelta = lastDelta + delta
-  insert(frames, { clockTime, 1 / delta })
-  if lastDelta > redrawInterval then
-    update()
-    lastDelta = 0
-  end
-end)
+Start = tick()
+Heartbeat:Connect(HeartbeatUpdate)

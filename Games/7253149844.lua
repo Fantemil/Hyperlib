@@ -1,0 +1,2 @@
+
+addscript(7253149844, "Current Game","Simple Script Free gamepass morph", "Uploaded by amradham503 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Simple%20Script%20Free%20gamepass%20morph.lua", "https://scriptblox.com/script/SCP-Games-and-SCP-Monsters-Simple-Script-Free-gamepass-morph-9182")

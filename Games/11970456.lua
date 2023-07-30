@@ -1,0 +1,2 @@
+
+addscript(11970456, "Current Game","Animation Script", "Uploaded by muhammadplayzrobloz on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Animation%20Script.lua", "https://scriptblox.com/script/Hole-in-the-Wall-Animation-Script921-10983")

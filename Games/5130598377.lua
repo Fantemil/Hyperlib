@@ -1,0 +1,2 @@
+
+addscript(5130598377, "Current Game","Universl Speed Fly Jump NoClip", "Uploaded by ZEDPatriot on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universl%20Speed%20Fly%20Jump%20NoClip.lua", "https://scriptblox.com/script/2.3:-GER-A-Universal-Time-Universl-Speed-Fly-Jump-NoClip-11747")

@@ -1,0 +1,2 @@
+
+addscript(11806348769, "Current Game","Infinity Money", "Uploaded by Ali1194 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Infinity%20Money.lua", "https://scriptblox.com/script/LAVA-Cart-Ride-Simulator-Infinity-Money-9270")

@@ -1,22 +1,9 @@
-game:GetService("ReplicatedStorage").Events.Codes:FireServer("UPDATE2")
+local plyhead = game.Players.LocalPlayer.Character.Head -- Players Head
 
-        game:GetService("ReplicatedStorage").Events.Coins:FireServer(1)
-        game:GetService("ReplicatedStorage").Events.Coins:FireServer(2)
-        game:GetService("ReplicatedStorage").Events.Coins:FireServer(3)
-        game:GetService("ReplicatedStorage").Events.Coins:FireServer(4)
-        game:GetService("ReplicatedStorage").Events.Coins:FireServer(5)
-        game:GetService("ReplicatedStorage").Events.Coins:FireServer(6)
-        game:GetService("ReplicatedStorage").Events.Coins:FireServer(7)
-        game:GetService("ReplicatedStorage").Events.Coins:FireServer(8)
-        game:GetService("ReplicatedStorage").Events.Coins:FireServer(9)
-        game:GetService("ReplicatedStorage").Events.Coins:FireServer(10)
-        game:GetService("ReplicatedStorage").Events.Coins:FireServer(11)
-        game:GetService("ReplicatedStorage").Events.Coins:FireServer(12)
-        game:GetService("ReplicatedStorage").Events.Coins:FireServer(13)
-        game:GetService("ReplicatedStorage").Events.Coins:FireServer(14)
-        game:GetService("ReplicatedStorage").Events.Coins:FireServer(15)
-        game:GetService("ReplicatedStorage").Events.Coins:FireServer(16)
-        game:GetService("ReplicatedStorage").Events.Coins:FireServer(17)
-        game:GetService("ReplicatedStorage").Events.Coins:FireServer(18)
-        game:GetService("ReplicatedStorage").Events.Coins:FireServer(19)
-        game:GetService("ReplicatedStorage").Events.Coins:FireServer(20)
+for i, v in pairs(game:GetService("Workspace").GameObjects:GetDescendants()) do 
+    if v.Name == "TouchInterest" and v.Parent then 
+        firetouchinterest(plyhead, v.Parent, 0)
+        wait(0.1)
+        firetouchinterest(plyhead, v.Parent, 1)
+    end
+end

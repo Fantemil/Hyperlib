@@ -1,0 +1,3 @@
+
+addscript(11939339894, "Current Game","Gruselige Milch", "Uploaded by Lagun on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Gruselige%20Milch.lua", "https://scriptblox.com/script/be-a-dad-and-get-milk-simulator-Gruselige-Milch-9111")
+addscript(11939339894, "Current Game","Collect ll money", "Uploaded by DylanIsAKing on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Collect%20ll%20money.lua", "https://scriptblox.com/script/be-a-dad-and-get-milk-simulator-Collect-ll-csh-8819")

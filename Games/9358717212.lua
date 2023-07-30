@@ -1,0 +1,4 @@
+
+addscript(9358717212, "Current Game","Infinite Money", "Uploaded by Hamburga on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Infinite%20Money.lua", "https://scriptblox.com/script/Raise-a-Pochita-MULTIPLAYER-Infinite-Money-9622")
+addscript(9358717212, "Current Game","LegacyEngine", "Uploaded by LeanNBud on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LegacyEngine.lua", "https://scriptblox.com/script/Raise-a-Pochita-MULTIPLAYER-LegacyEngine-10053")
+addscript(9358717212, "Current Game","Nextix hub", "Uploaded by Nextix on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Nextix%20hub.lua", "https://scriptblox.com/script/Raise-a-Pochita-MULTIPLAYER-Nextix-hub-9623")

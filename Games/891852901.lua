@@ -1,0 +1,2 @@
+
+addscript(891852901, "Current Game","OP AUTOFARM AND MORE FIBER HUB", "Uploaded by AaronS on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20AUTOFARM%20AND%20MORE%20FIBER%20HUB.lua", "https://scriptblox.com/script/Greenville-OP-AUTOFARM-AND-MORE-FIBER-HUB-11576")

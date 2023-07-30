@@ -1,0 +1,3 @@
+
+addscript(12177325772, "Current Game","FLARE HUB SUEPR", "Uploaded by Magz on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FLARE%20HUB%20SUEPR.lua", "https://scriptblox.com/script/NEW-Super-League-Soccer-FLARE-HUB-SUEPR-11957")
+addscript(12177325772, "Current Game","Flare Hub Auto Score Goalie Tackle", "Uploaded by Poison on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Flare%20Hub%20Auto%20Score%20Goalie%20Tackle.lua", "https://scriptblox.com/script/1-HOUR-Super-League-Soccer-Flare-Hub-Auto-Score-Goalie-Tackle-11864")

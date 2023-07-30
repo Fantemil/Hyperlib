@@ -1,0 +1,2 @@
+
+addscript(12855122164, "Current Game","only script", "Uploaded by Killa on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/only%20script.lua", "https://scriptblox.com/script/UPDATE!-Strong-Fighters-Simulator!-only-script-11316")

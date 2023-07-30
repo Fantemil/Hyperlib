@@ -1,0 +1,3 @@
+
+addscript(6422372837, "Current Game","Advanced Hitbox Expander", "Uploaded by muhammadplayzrobloz on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Advanced%20Hitbox%20Expander.lua", "https://scriptblox.com/script/Snipers-BETA-Advanced-Hitbox-Expander-11031")
+addscript(6422372837, "Current Game","Advanced Hitbox Expander", "Uploaded by muhammadplayzrobloz on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Advanced%20Hitbox%20Expander.lua", "https://scriptblox.com/script/Snipers-BETA-Advanced-Hitbox-Expander-11031")

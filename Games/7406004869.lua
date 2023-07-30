@@ -1,0 +1,2 @@
+
+addscript(7406004869, "Current Game","Hakeroos Menu", "Uploaded by Hackeroo on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Hakeroos%20Menu.lua", "https://scriptblox.com/script/OPPOSER-VR-Alpha-Hakeroos-Menu-10213")

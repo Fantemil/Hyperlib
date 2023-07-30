@@ -1,0 +1,2 @@
+
+addscript(11956378658, "Current Game","auto upgrade", "Uploaded by fine on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/auto%20upgrade.lua", "https://scriptblox.com/script/plinko-incremental-auto-upgrade-10142")

@@ -1,0 +1,2 @@
+
+addscript(901793731, "Current Game","silent aim", "Uploaded by copypaste on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/silent%20aim.lua", "https://scriptblox.com/script/D-DAY-silent-aim-9052")

@@ -1,0 +1,2 @@
+
+addscript(436091588, "Current Game","GUI", "Uploaded by Carlwheezer on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/GUI.lua", "https://scriptblox.com/script/Deltarune-Roleplay-DEMO-GUI-10051")

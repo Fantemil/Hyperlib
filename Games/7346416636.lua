@@ -1,0 +1,2 @@
+
+addscript(7346416636, "Current Game","I Shield Hub Dupe", "Uploaded by buttsmeller220 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/I%20Shield%20Hub%20Dupe.lua", "https://scriptblox.com/script/Pop-It-Trading-I-Shield-Hub-Dupe-11629")

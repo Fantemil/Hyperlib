@@ -1,0 +1,2 @@
+
+addscript(10036492542, "Current Game","Redeem all codes", "Uploaded by AverageRobloxUser on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Redeem%20all%20codes.lua", "https://scriptblox.com/script/Get-Muscles-Simulator-Redeem-all-codes-9297")

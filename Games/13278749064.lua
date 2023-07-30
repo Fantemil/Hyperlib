@@ -1,0 +1,4 @@
+
+addscript(13278749064, "Current Game","My Room", "Uploaded by NFMS on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/My%20Room.lua", "https://scriptblox.com/script/White-Room-My-12191")
+addscript(13278749064, "Current Game","Free Animations Without Group", "Uploaded by CreepeTik on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Free%20Animations%20Without%20Group.lua", "https://scriptblox.com/script/White-Room-Free-Animations-Without-Group-11974")
+addscript(13278749064, "Current Game","My Room", "Uploaded by NFMS on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/My%20Room.lua", "https://scriptblox.com/script/White-Room-My-12191")

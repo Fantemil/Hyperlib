@@ -1,0 +1,4 @@
+
+addscript(970962039, "Current Game","OP Script in this game", "Uploaded by DaRealSPOTNJIK on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20Script%20in%20this%20game.lua", "https://scriptblox.com/script/Limited-Time-OP-Script-in-this-game-11116")
+addscript(970962039, "Current Game","Sign changer", "Uploaded by White on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sign%20changer.lua", "https://scriptblox.com/script/Limited-Time-Sign-changer-10758")
+addscript(970962039, "Current Game","DuperHub ", "Uploaded by echofluwuff on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DuperHub%20.lua", "https://scriptblox.com/script/Limited-Time-DuperHub-2-9881")

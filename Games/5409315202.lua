@@ -1,0 +1,2 @@
+
+addscript(5409315202, "Current Game","harked SS gui", "Uploaded by yaya on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/harked%20SS%20gui.lua", "https://scriptblox.com/script/Cook-Burgers-but-with-100-players-harked-SS-gui-8730")

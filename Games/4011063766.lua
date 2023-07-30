@@ -1,0 +1,2 @@
+
+addscript(4011063766, "Current Game","Mod s", "Uploaded by Lucas on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mod%20s.lua", "https://scriptblox.com/script/Tank-Warfare-Mod-s-8797")

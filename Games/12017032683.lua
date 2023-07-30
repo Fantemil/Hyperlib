@@ -1,0 +1,3 @@
+
+addscript(12017032683, "Current Game","Read the Desc", "Uploaded by amradham503 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Read%20the%20Desc.lua", "https://scriptblox.com/script/096-SCP-Read-the-Desc-8942")
+addscript(12017032683, "Current Game","Gui", "Uploaded by wibu on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Gui.lua", "https://scriptblox.com/script/096-SCP-Gui-9192")

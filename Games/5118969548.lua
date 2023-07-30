@@ -1,0 +1,4 @@
+
+addscript(5118969548, "Current Game","ultimate spidr GUI script", "Uploaded by dsploiter on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ultimate%20spidr%20GUI%20script.lua", "https://scriptblox.com/script/Spider-ultimate-spidr-GUI-script-10991")
+addscript(5118969548, "Current Game","OP Script", "Uploaded by EgyBestBuddy on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20Script.lua", "https://scriptblox.com/script/Spider-OP-Script-10930")
+addscript(5118969548, "Current Game","Auto farm and more", "Uploaded by linneythewinney on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20farm%20and%20more.lua", "https://scriptblox.com/script/Spider-Auto-farm-and-more-10506")

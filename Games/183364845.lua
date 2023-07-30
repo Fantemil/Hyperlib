@@ -1,0 +1,3 @@
+
+addscript(183364845, "Current Game","SPFour", "Uploaded by Cxmplexe on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SPFour.lua", "https://scriptblox.com/script/Speed-Run-4-SP-9679")
+addscript(183364845, "Current Game","Autofarm script", "Uploaded by Theowner on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Autofarm%20script.lua", "https://scriptblox.com/script/Speed-Run-4-Autofarm-script-11839")

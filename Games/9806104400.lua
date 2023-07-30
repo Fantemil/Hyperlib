@@ -1,0 +1,3 @@
+
+addscript(9806104400, "Current Game","Hour Dectetor", "Uploaded by Whoareme on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Hour%20Dectetor.lua", "https://scriptblox.com/script/The-Rake-Fan-Remake-April-fools-2021-kill-test-Hour-Dectetor-10231")
+addscript(9806104400, "Current Game","Spam hits to", "Uploaded by Whoareme on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Spam%20hits%20to.lua", "https://scriptblox.com/script/The-Rake-Fan-Remake-April-fools-2021-kill-test-Spam-hits-to-10233")

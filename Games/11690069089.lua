@@ -1,0 +1,2 @@
+
+addscript(11690069089, "Current Game","OP", "Uploaded by Muimi on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP.lua", "https://scriptblox.com/script/Make-It-Louder-:-Simulator-OP-9167")

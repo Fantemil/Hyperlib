@@ -1,0 +1,3 @@
+
+addscript(5801771332, "Current Game","Not really good just case opener", "Uploaded by WatWrong on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Not%20really%20good%20just%20case%20opener.lua", "https://scriptblox.com/script/Murder-Mystery-3-(Knives-Out)-Not-really-good-just-case-opener-10232")
+addscript(5801771332, "Current Game","NIHUB", "Uploaded by ni7kobv on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NIHUB.lua", "https://scriptblox.com/script/UPDATE-Murder-Mystery-3-NIHUB-10875")

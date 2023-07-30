@@ -1,0 +1,2 @@
+
+addscript(9555732501, "Current Game","NFS script AutoFarm", "Uploaded by Cromula on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NFS%20script%20AutoFarm.lua", "https://scriptblox.com/script/Nen-Fighting-Simulator-MOBILE-NFS-script-AutoFarm-8707")

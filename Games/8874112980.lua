@@ -1,0 +1,2 @@
+
+addscript(8874112980, "Current Game","Godmode AutoFarm", "Uploaded by damiansocoolpro on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Godmode%20AutoFarm.lua", "https://scriptblox.com/script/Demon-Slayer:-Midnight-Sun-Hub-10525")

@@ -1,0 +1,2 @@
+
+addscript(6865268099, "Current Game","simple script", "Uploaded by lewa on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/simple%20script.lua", "https://scriptblox.com/script/NEW-Next-Door-(Story)-s-11778")

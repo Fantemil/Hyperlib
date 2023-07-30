@@ -1,0 +1,2 @@
+
+addscript(5774201912, "Current Game","I havent tested yet", "Uploaded by funforzch on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/I%20havent%20tested%20yet.lua", "https://scriptblox.com/script/Lobby-fix-Paranormica-0.9.4-I-havent-tested-yet-11294")

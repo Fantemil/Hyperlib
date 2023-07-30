@@ -1,0 +1,2 @@
+
+addscript(1069607513, "Current Game","Become Moderator PATCHED", "Uploaded by Innovation on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Become%20Moderator%20PATCHED.lua", "https://scriptblox.com/script/Action!-Become-Moderator-11995")

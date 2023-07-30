@@ -1,0 +1,2 @@
+
+addscript(8821374215, "Current Game","Oyx", "Uploaded by LeanNBud on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Oyx.lua", "https://scriptblox.com/script/Saisei-PUBLIC-TESTING-Oyx-11753")

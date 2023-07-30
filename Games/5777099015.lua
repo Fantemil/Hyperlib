@@ -1,0 +1,3 @@
+
+addscript(5777099015, "Current Game","Walk Through Key Doors n Get All Keys n and more", "Uploaded by KhSaeed90 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Walk%20Through%20Key%20Doors%20n%20Get%20All%20Keys%20n%20and%20more.lua", "https://scriptblox.com/script/Cheese-Escape-Horror-Walk-Through-Key-Doors-n-Get-All-Keys-n-and-more-11618")
+addscript(5777099015, "Current Game","Instant Complete", "Uploaded by KEPA on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Instant%20Complete.lua", "https://scriptblox.com/script/Cheese-Escape-Horror-Instant-Complete-11389")

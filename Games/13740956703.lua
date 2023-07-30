@@ -1,0 +1,2 @@
+
+addscript(13740956703, "Current Game","All Items n Let There Be Light and more", "Uploaded by KhSaeed90 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/All%20Items%20n%20Let%20There%20Be%20Light%20and%20more.lua", "https://scriptblox.com/script/Obby-BUT-YOU-CAN'T-SEE!-All-Items-n-Let-There-Be-Light-and-more-11646")

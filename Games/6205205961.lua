@@ -1,0 +1,2 @@
+
+addscript(6205205961, "Current Game","Espace FREE GAMEPASSES", "Uploaded by Ali1194 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Espace%20FREE%20GAMEPASSES.lua", "https://scriptblox.com/script/Escape-Running-Head-Espace-FREE-GAMEPASSES-8786")

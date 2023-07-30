@@ -1,0 +1,4 @@
+
+addscript(6284583030, "Current Game","Milk up gui", "Uploaded by V1sion on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Milk%20up%20gui.lua", "https://scriptblox.com/script/QUESTS-Pet-Simulator-X!-Milk-up-gui-10761")
+addscript(6284583030, "Current Game","HG Scam Protection Script", "Uploaded by 0n_zi on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/HG%20Scam%20Protection%20Script.lua", "https://scriptblox.com/script/QUESTS-Pet-Simulator-X!-HG-Scam-Protection-Script-10883")
+addscript(6284583030, "Current Game","Milk up gui", "Uploaded by V1sion on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Milk%20up%20gui.lua", "https://scriptblox.com/script/QUESTS-Pet-Simulator-X!-Milk-up-gui-10761")

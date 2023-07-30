@@ -1,0 +1,3 @@
+
+addscript(2746687316, "Current Game"," Script combination OP", "Uploaded by scab on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/%20Script%20combination%20OP.lua", "https://scriptblox.com/script/Games-Unite-Testing-Place-2-Script-combination-OP-10932")
+addscript(2746687316, "Current Game","Fart Hub", "Uploaded by IvanFila on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Fart%20Hub.lua", "https://scriptblox.com/script/Games-Unite-Testing-Place-****-Hub-10909")

@@ -1,0 +1,2 @@
+
+addscript(12118894416, "Current Game","Free Op Script", "Uploaded by yoyoyoo on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Free%20Op%20Script.lua", "https://scriptblox.com/script/Thirsty-Vampire-Free-Op-Script-11297")

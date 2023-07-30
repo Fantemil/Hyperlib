@@ -1,0 +1,2 @@
+
+addscript(12790732092, "Current Game","New game", "Uploaded by Killa on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/New%20game.lua", "https://scriptblox.com/script/Knife-Clicker-Simulator-New-game-11048")

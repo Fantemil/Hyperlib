@@ -1,1 +1,1 @@
- loadstring(game:HttpGet("https://raw.githubusercontent.com/LOLking123456/infinite2/main/Rarities1"))() 
+loadstring(game:HttpGet("https://raw.githubusercontent.com/1f0yt/community/master/photo"))()

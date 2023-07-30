@@ -1,0 +1,2 @@
+
+addscript(13866295560, "Current Game","Free gamepass morphs", "Uploaded by cdcar on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Free%20gamepass%20morphs.lua", "https://scriptblox.com/script/EP.-52!-Ultimate-Skibid-Toilet-Roleplay-Free-gamepass-morphs-12144")

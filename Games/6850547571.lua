@@ -1,0 +1,3 @@
+
+addscript(6850547571, "Current Game","auto script", "Uploaded by Hydra2022 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/auto%20script.lua", "https://scriptblox.com/script/ABILITIES-InVision's:-Web-Verse-V3-auto-script-11525")
+addscript(6850547571, "Current Game","auto script", "Uploaded by Hydra2022 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/auto%20script.lua", "https://scriptblox.com/script/ABILITIES-InVision's:-Web-Verse-V3-auto-script-11525")

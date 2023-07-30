@@ -1,0 +1,2 @@
+
+addscript(10424315298, "Current Game","coins farmer", "Uploaded by dsploiter on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/coins%20farmer.lua", "https://scriptblox.com/script/Country-Collectors-coins-farmer-11069")

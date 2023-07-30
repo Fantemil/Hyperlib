@@ -1,0 +1,2 @@
+
+addscript(12848327067, "Current Game"," AUTOFARMS TELEPORTS AND MORE", "Uploaded by namesofusernames on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/%20AUTOFARMS%20TELEPORTS%20AND%20MORE.lua", "https://scriptblox.com/script/%2B1-Every-Second-5-AUTOFARMS-TELEPORTS-AND-MORE-10242")

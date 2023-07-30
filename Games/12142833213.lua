@@ -1,0 +1,2 @@
+
+addscript(12142833213, "Current Game","Auto Farm Wins", "Uploaded by Mrskull on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Farm%20Wins.lua", "https://scriptblox.com/script/Trampoline-Towers-STEEP-STEPS-Auto-Farm-Wins-8946")

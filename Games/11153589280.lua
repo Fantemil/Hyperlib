@@ -1,0 +1,3 @@
+
+addscript(11153589280, "Current Game","Autofarm Wins OP", "Uploaded by KEPA on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Autofarm%20Wins%20OP.lua", "https://scriptblox.com/script/FLOOR-16-DOORS-Race-Autofarm-Wins-OP-11286")
+addscript(11153589280, "Current Game","Clicker game", "Uploaded by JustNoob on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Clicker%20game.lua", "https://scriptblox.com/script/DOORS-Race-Clicker-Clicker-game-9030")

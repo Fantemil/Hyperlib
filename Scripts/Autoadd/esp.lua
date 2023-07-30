@@ -1,1 +1,13 @@
-loadstring(game:HttpGet"https://pastebin.com/raw/MbQqeRy9")()
+_G.ESP = {
+
+    Boxes = true,
+
+    Tracers = true,
+
+    Rainbow = true,
+
+}
+
+
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/mopsfl/roblox-scripts/main/.frontlines-esp.lua"))()

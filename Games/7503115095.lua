@@ -1,0 +1,3 @@
+
+addscript(7503115095, "Current Game","pop it trading", "Uploaded by Proyouplo on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/pop%20it%20trading.lua", "https://scriptblox.com/script/Pop-It-Trading-pop-it-trading-9449")
+addscript(7503115095, "Current Game","script beast ", "Uploaded by ANDREWX77770 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/script%20beast%20.lua", "https://scriptblox.com/script/Pop-It-Trading-The-best-pop-it-trading-script-9704")

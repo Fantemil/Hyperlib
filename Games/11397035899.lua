@@ -1,0 +1,2 @@
+
+addscript(11397035899, "Current Game","autofarm", "Uploaded by thanhtam8765 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/autofarm.lua", "https://scriptblox.com/script/Unicorn-Tycoon-Update-1!-autofarm-9096")

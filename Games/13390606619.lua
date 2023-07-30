@@ -1,0 +1,2 @@
+
+addscript(13390606619, "Current Game","script", "Uploaded by El_Blox on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/script.lua", "https://scriptblox.com/script/Poop-In-The-Hood-Tycoon!-script-11311")

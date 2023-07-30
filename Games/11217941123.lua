@@ -1,0 +1,3 @@
+
+addscript(11217941123, "Current Game","script for", "Uploaded by ttrai452 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/script%20for.lua", "https://scriptblox.com/script/stupid-idiot-cafe-script-for-11070")
+addscript(11217941123, "Current Game","script for", "Uploaded by ttrai452 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/script%20for.lua", "https://scriptblox.com/script/stupid-idiot-cafe-script-for-11070")

@@ -1,0 +1,2 @@
+
+addscript(5755487791, "Current Game","Easy Autarm Simple need priv server for to work", "Uploaded by ReaperGamingOnYT on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Easy%20Autarm%20Simple%20need%20priv%20server%20for%20to%20work.lua", "https://scriptblox.com/script/Tower-of-Easy!-Easy-Autarm-Simple-need-priv-server-for-to-work-11082")

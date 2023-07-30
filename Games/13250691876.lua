@@ -1,0 +1,3 @@
+
+addscript(13250691876, "Current Game","Auto Collect", "Uploaded by horror on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Collect.lua", "https://scriptblox.com/script/NEW-Cruise-Tycoon-Auto-Collect-12140")
+addscript(13250691876, "Current Game","Auto Collect", "Uploaded by horror on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Collect.lua", "https://scriptblox.com/script/NEW-Cruise-Tycoon-Auto-Collect-12140")

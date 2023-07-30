@@ -1,0 +1,2 @@
+
+addscript(9228830112, "Current Game","River City Entertainment", "Uploaded by asia on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/River%20City%20Entertainment.lua", "https://scriptblox.com/script/Chocolate-Obby!-River-City-Entertainment-10862")

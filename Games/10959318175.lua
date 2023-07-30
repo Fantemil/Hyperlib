@@ -1,0 +1,2 @@
+
+addscript(10959318175, "Current Game","Champs", "Uploaded by azicity23 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Champs.lua", "https://scriptblox.com/script/SPEED-Pet-Fighting-Champions-Champs-8715")

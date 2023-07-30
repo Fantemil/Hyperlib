@@ -1,0 +1,2 @@
+
+addscript(9761112321, "Current Game","kick all jail all", "Uploaded by Kosovo on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/kick%20all%20jail%20all.lua", "https://scriptblox.com/script/Survival-Bruno-the-Encanto-Movie-Killer!-*Morphs-kick-all-jail-all-9125")

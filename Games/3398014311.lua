@@ -1,0 +1,3 @@
+
+addscript(3398014311, "Current Game","OP AutoFarm", "Uploaded by c0fs on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20AutoFarm.lua", "https://scriptblox.com/script/LUXURY-ITEMS-Restaurant-Tycoon-2-OP-AutoFarm-9904")
+addscript(3398014311, "Current Game","Gui", "Uploaded by DevSwag on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Gui.lua", "https://scriptblox.com/script/Restaurant-Tycoon-2-INFLUENCERS-Gui-10751")

@@ -1,0 +1,2 @@
+
+addscript(10048079179, "Current Game","Fat Simulator", "Uploaded by AgentRBLX on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Fat%20Simulator.lua", "https://scriptblox.com/script/Fat-Simulator-Fat-Simulator-9026")

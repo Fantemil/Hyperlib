@@ -1,0 +1,2 @@
+
+addscript(8216162783, "Current Game","CARTS THE BEST SCRIPT", "Uploaded by ANDREWX77770 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CARTS%20THE%20BEST%20SCRIPT.lua", "https://scriptblox.com/script/Cars-Trading-The-best-car-script-9703")

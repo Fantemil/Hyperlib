@@ -1,2 +1,1 @@
--- GET YOUR KEY YOU WILL NEED IT
-loadstring(game:HttpGet("https://shz.al/K6jK", true))()
+loadstring(game:HttpGet"https://raw.githubusercontent.com/xQuartyx/DonateMe/main/ScriptLoader")()

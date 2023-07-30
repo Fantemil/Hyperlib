@@ -1,0 +1,2 @@
+
+addscript(8146731988, "Current Game","PlayerHub Script Game", "Uploaded by JustAPlayer on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PlayerHub%20Script%20Game.lua", "https://scriptblox.com/script/UPDATE-Ultra-Power-Tycoon-PlayerHub-Script-Game-11655")

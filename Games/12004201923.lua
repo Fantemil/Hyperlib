@@ -1,0 +1,2 @@
+
+addscript(12004201923, "Current Game","fixed fast autofarm yes", "Uploaded by kalas on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/fixed%20fast%20autofarm%20yes.lua", "https://scriptblox.com/script/ENCHANTS-Chest-Simulator-fixed-fast-autofarm-yes-10674")

@@ -1,0 +1,2 @@
+
+addscript(9845465117, "Current Game","Au Reborn OP Autofarm", "Uploaded by Flames on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Au%20Reborn%20OP%20Autofarm.lua", "https://scriptblox.com/script/NAMEKU-AU:R-AuReborn-OP-Autofarm-11423")

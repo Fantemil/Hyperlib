@@ -1,0 +1,3 @@
+
+addscript(4580204640, "Current Game","iluv stk script", "Uploaded by kkbluespirt on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/iluv%20stk%20script.lua", "https://scriptblox.com/script/Survive-the-Killer!-iluv-stk-script-8913")
+addscript(4580204640, "Current Game","ChairWare STK", "Uploaded by kkbluespirt on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ChairWare%20STK.lua", "https://scriptblox.com/script/Survive-the-Killer!-Chair-Ware-STK-9069")

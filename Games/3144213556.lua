@@ -1,0 +1,2 @@
+
+addscript(3144213556, "Current Game","Auto Complete", "Uploaded by Partner on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Complete.lua", "https://scriptblox.com/script/Troll-Obby-Auto-Complete-11984")

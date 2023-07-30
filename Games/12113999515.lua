@@ -1,0 +1,3 @@
+
+addscript(12113999515, "Current Game","Badge Giver All Badges", "Uploaded by tomfooler on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Badge%20Giver%20All%20Badges.lua", "https://scriptblox.com/script/Dusted-Soul-Ops-Boss-Rush-(Reborn)-Update-Give-Everyone-Badges-Including-Yourself-9931")
+addscript(12113999515, "Current Game","Enable Serversided Executor", "Uploaded by tomfooler on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Enable%20Serversided%20Executor.lua", "https://scriptblox.com/script/Dusted-soul-ops:-Boss-rush-(reborn)-Enable-Serversided-Executor-10328")

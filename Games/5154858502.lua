@@ -1,0 +1,5 @@
+
+addscript(5154858502, "Current Game","Kill Aura and more", "Uploaded by Emptyness on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Kill%20Aura%20and%20more.lua", "https://scriptblox.com/script/Murderers-vs.-Sheriffs-Kill-Aura-and-more-11396")
+addscript(5154858502, "Current Game","MvsS", "Uploaded by Cxmplexe on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MvsS.lua", "https://scriptblox.com/script/Murderers-vs.-Sheriffs-MvsS-9693")
+addscript(5154858502, "Current Game","Vs Sheriff Gui", "Uploaded by DogeFriend on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Vs%20Sheriff%20Gui.lua", "https://scriptblox.com/script/Murderers-vs.-Sheriffs-Vs-Sheriff-Gui-11388")
+addscript(5154858502, "Current Game","gun silent aim and knife aura", "Uploaded by Rtxyy on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/gun%20silent%20aim%20and%20knife%20aura.lua", "https://scriptblox.com/script/Murderers-vs.-Sheriffs-gun-silent-aim-and-knife-aura-9868")

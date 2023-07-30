@@ -1,6 +1,4 @@
-while wait() do
-
-game:GetService("ReplicatedStorage"):WaitForChild("RemoteCalls"):WaitForChild("GameSpecific"):WaitForChild("Main"):WaitForChild("CollectIncome"):InvokeServer()
-
-
+while true do
+  game:GetService("ReplicatedStorage").RemoteCalls.GameSpecific.Main.CollectIncome:InvokeServer()
+  wait()
 end

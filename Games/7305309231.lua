@@ -1,0 +1,4 @@
+
+addscript(7305309231, "Current Game","Gui with money autofarm M In minute Coconut event", "Uploaded by Nemesis on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Gui%20with%20money%20autofarm%20M%20In%20minute%20Coconut%20event.lua", "https://scriptblox.com/script/COCONUT-EVENT-Taxi-Boss-GUI-11620")
+addscript(7305309231, "Current Game","M dollars in  minutes", "Uploaded by pllsp21 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/M%20dollars%20in%20%20minutes.lua", "https://scriptblox.com/script/COCONUT-EVENT-Taxi-Boss-10M-dollars-in-10-minutes-11700")
+addscript(7305309231, "Current Game","INF MONEY SCRIPT", "Uploaded by Ultra on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/INF%20MONEY%20SCRIPT.lua", "https://scriptblox.com/script/COCONUT-EVENT-Taxi-Boss-INF-MONEY-SCRIPT-11695")

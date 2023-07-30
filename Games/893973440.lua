@@ -1,0 +1,6 @@
+
+addscript(893973440, "Current Game","FTF GUI", "Uploaded by dsploiter on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FTF%20GUI.lua", "https://scriptblox.com/script/Flee-the-Facility-facillity-GUI-10931")
+addscript(893973440, "Current Game","Op ahh script", "Uploaded by nutgrug on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Op%20ahh%20script.lua", "https://scriptblox.com/script/Flee-the-Facility-Op-ahh-script-10900")
+addscript(893973440, "Current Game","OP FTF Script", "Uploaded by Monterrey on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20FTF%20Script.lua", "https://scriptblox.com/script/Flee-the-Facility-OP-Script-10107")
+addscript(893973440, "Current Game","BEST FTF Script", "Uploaded by HelloWorld on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BEST%20FTF%20Script.lua", "https://scriptblox.com/script/Flee-the-Facility-BEST-Script-10548")
+addscript(893973440, "Current Game","FTF SCRIPT", "Uploaded by kkbluespirt on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FTF%20SCRIPT.lua", "https://scriptblox.com/script/Flee-the-Facility-ESP-10889")

@@ -1,0 +1,3 @@
+
+addscript(11448052802, "Current Game","Script", "Uploaded by ZZIPmux on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Script.lua", "https://scriptblox.com/script/5M-Pet-Rift-Script-10107")
+addscript(11448052802, "Current Game","best script", "Uploaded by trondrobin2 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/best%20script.lua", "https://scriptblox.com/script/5M-Pet-Rift-best-script-10214")

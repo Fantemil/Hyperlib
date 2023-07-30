@@ -1,0 +1,2 @@
+
+addscript(9992339729, "Current Game","auto awnser", "Uploaded by professional_gaymer on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/auto%20awnser.lua", "https://scriptblox.com/script/Longest-Answer-Wins-auto-awnser-11106")

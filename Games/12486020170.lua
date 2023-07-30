@@ -1,0 +1,2 @@
+
+addscript(12486020170, "Current Game","Block Script", "Uploaded by Sewo on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Block%20Script.lua", "https://scriptblox.com/script/NEWBlock-Survivor-Block-Script-10670")

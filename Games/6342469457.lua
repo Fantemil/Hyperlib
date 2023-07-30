@@ -1,0 +1,2 @@
+
+addscript(6342469457, "Current Game","Heaven Arena request a script", "Uploaded by zawrado on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Heaven%20Arena%20request%20a%20script.lua", "https://scriptblox.com/script/Heavens-Arena-(TS-Sasuke-Update)-Heaven-Arena-request-a-script-9547")

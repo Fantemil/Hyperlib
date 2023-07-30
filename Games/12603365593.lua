@@ -1,0 +1,2 @@
+
+addscript(12603365593, "Current Game","NovaHub", "Uploaded by ZexalXXX1 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NovaHub.lua", "https://scriptblox.com/script/SPTS-Endless-NovaHub-10592")

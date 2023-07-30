@@ -1,0 +1,2 @@
+
+addscript(12182821293, "Current Game","Free Gamepasses And Server Lagger", "Uploaded by echofluwuff on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Free%20Gamepasses%20And%20Server%20Lagger.lua", "https://scriptblox.com/script/Plane-crash-physics-2-Free-Gamepasses-And-Server-Lagger-10437")

@@ -1,0 +1,3 @@
+
+addscript(12471513793, "Current Game","Is Fine New Script", "Uploaded by Sewo on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Is%20Fine%20New%20Script.lua", "https://scriptblox.com/script/World-of-Trollge-Easter-NEW-OP-10374")
+addscript(12471513793, "Current Game","hamudhamududs WoT Script", "Uploaded by weexploit on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/hamudhamududs%20WoT%20Script.lua", "https://scriptblox.com/script/NIGHT-CRAWLER-REWORK-World-of-Trollge-hamudhamududs-WoT-Script-10914")

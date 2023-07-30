@@ -1,0 +1,4 @@
+
+addscript(3527629287, "Current Game","Unban", "Uploaded by AndrewDarkyy on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Unban.lua", "https://scriptblox.com/script/BIG-Paintball!-Paintball-Unban-11602")
+addscript(3527629287, "Current Game","Kidachi", "Uploaded by Delty on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Kidachi.lua", "https://scriptblox.com/script/BIG-Paintball!-Kidachi-11704")
+addscript(3527629287, "Current Game","Script Paintba Silent Aim", "Uploaded by Harley_Hub on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Script%20Paintba%20Silent%20Aim.lua", "https://scriptblox.com/script/BIG-Paintball!-Script-Paintba-Silent-Aim-10412")

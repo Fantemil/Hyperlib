@@ -1,0 +1,2 @@
+
+addscript(263761432, "Current Game","Ovis  Lynx Hub  Lite ", "Uploaded by Sius on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ovis%20%20Lynx%20Hub%20%20Lite%20.lua", "https://scriptblox.com/script/Horrific-Housing-Siloxware-Lite-9965")
