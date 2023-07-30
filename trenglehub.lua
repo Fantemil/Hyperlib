@@ -296,15 +296,16 @@ Window = getgenv().Window
 
 
 
-generalscripts = Window:NewTab("General")
-getgenv().generalscripts = generalscripts
-generalscriptssection = generalscripts:NewSection("---General/Universal Scripts---")
-getgenv().generalscriptssection = generalscriptssection
-
-local gamehubs = Window:NewTab("Game Hubs")
-local gamehubsection = gamehubs:NewSection("---Game Hubs---")
-getgenv().gamehubsection = gamehubsection
-
+getgenv().generalscripts = Window:NewTab("General")
+getgenv().generalscriptssection = getgenv().generalscripts:NewSection("---General/Universal Scripts---")
+local genloadbutton = getgenv().generalscriptssection:NewButton("Load General Scripts", "Loads all General Scripts", function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Fantemil/Hyperlib/main/Games/universal.lua"))()
+end)
+getgenv().gamehubs = Window:NewTab("Game Hubs")
+getgenv().gamehubsection = gamehubs:NewSection("---Game Hubs---")
+local hubloadbutton = getgenv().gamehubsection:NewButton("Load Game Hubs", "Loads all Game Hubs", function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Fantemil/Hyperlib/main/Games/hub.lua"))()
+end)
 local Player = Window:NewTab("Player")
 local PlayerSection = Player:NewSection("Player")
 

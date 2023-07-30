@@ -1,0 +1,2 @@
+
+addscript(286090429, "Current Game","Disabler", "Uploaded by AndrewDarkyy on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Disabler.lua", "https://scriptblox.com/script/Arsenal-Disabler-12197")
