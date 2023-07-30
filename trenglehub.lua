@@ -289,7 +289,7 @@ function addhub(title,author,scriptlink,origin)
     end)
 end
 local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Library/kavo-ui.lua"))()
-getgenv().Window = Library.CreateLib("Hyperlib V3", "DarkTheme")
+getgenv().Window = Library.CreateLib("Hyperlib V3.1", "DarkTheme")
 Window = getgenv().Window
 
 
@@ -297,7 +297,7 @@ Window = getgenv().Window
 
 
 getgenv().generalscripts = Window:NewTab("General")
-getgenv().generalscriptssection = getgenv().generalscripts:NewSection("---General/Universal Scripts---")
+getgenv().generalscriptssection = generalscripts:NewSection("---General/Universal Scripts---")
 getgenv().generalscriptssection:NewButton("Load General Scripts", "Loads all General Scripts", function()
     loadstring(game:HttpGet("https://raw.githubusercontent.com/Fantemil/Hyperlib/main/Games/universal.lua"))()
 end)
