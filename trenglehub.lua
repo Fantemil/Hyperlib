@@ -345,7 +345,7 @@ PlayerSection:NewSlider("Gravity", "Changes the gravity", 250, 0, function(v)
     game.Workspace.Gravity = v
 end)
 
-Statstab = Window:NewTab("Status")
+Statstab = Window:NewTab("Statistics")
 local StatusSection = Statstab:NewSection("---Last Update---")
 StatusSection:NewLabel(lastupdate)
 local Keybinds = Window:NewTab("Keybinds")
@@ -392,7 +392,6 @@ bigRedText(addDashes(customlen))
 bigBlueItalicText("Check out the Project on Github:")
 bigGreenItalicText("https://github.com/Fantemil/Hyperlib")
 bigRedText(addDashes(customlen))
- 
 
 
 
