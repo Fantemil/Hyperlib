@@ -1,2 +1,0 @@
-
-addscript(5849080019, "Current Game","Skeppy Man Make The Script", "Uploaded by cree on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Skeppy%20Man%20Make%20The%20Script.lua", "https://scriptblox.com/script/Darth's-long-jump-per-difficulty-Skeppy-Man-Make-The-Script-10547")

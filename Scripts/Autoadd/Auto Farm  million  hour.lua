@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/BrickPlayz/Public-Scripts/main/DriveWorld.lua"))()

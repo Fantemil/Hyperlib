@@ -1,4 +1,0 @@
-
-addscript(1240123653, "Current Game","BEST AUTOFARM GUI", "Uploaded by zerticzy on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BEST%20AUTOFARM%20GUI.lua", "https://scriptblox.com/script/Zombie-Attack-BEST-AUTOFARM-GUI-11436")
-addscript(1240123653, "Current Game","Simple Autofarm", "Uploaded by fpyni on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Simple%20Autofarm.lua", "https://scriptblox.com/script/Zombie-Attack-Simple-Autofarm-10504")
-addscript(1240123653, "Current Game","Silent Aim", "Uploaded by Guy_ on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Silent%20Aim.lua", "https://scriptblox.com/script/Zombie-Attack-Silent-Aim-10446")

@@ -1,1 +1,0 @@
- loadstring(game:HttpGet("https://jumblescripts.com/SuperHeroRaceClicker.lua"))()

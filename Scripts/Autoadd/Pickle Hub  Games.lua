@@ -1,1 +1,0 @@
-loadstring(game:HttpGet(("https://raw.githubusercontent.com/5Picklebarry/Scripts/main/Pickle-Hub/Pickle-Hub-Loader.lua")))()

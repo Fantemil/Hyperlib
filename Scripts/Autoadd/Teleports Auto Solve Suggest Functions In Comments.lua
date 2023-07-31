@@ -1,2 +1,0 @@
--- key is in our discord(NO ADS), just key in the key channel in discord.
-loadstring(game:HttpGet("https://raw.githubusercontent.com/WQDcRwIODQDESZMPmVVT/OXwRlGNfsUhvNZvgnEBLUaSucOAZOiTetkODCQFNjoLdQHvXzJPxZOuxotxrmbKQAdvjuDRBPRjZjnowWgmlwzaLEQkJKaurmgzk/main/EEkyfRjDDBIprZYeNjAIPRXSmcdrcScHsQGEijlNaDWCAueNjaMZjHHpQTwXLgUMNvPySqeAxZDZIdrOBivvetqHXbJgvUQcDihmidTwfeSaugxkIzbbvEAHBTDJFhVCbOslDbSPyEycylXTbMrHJmJjaMUdAsqFVdqnvvtUnbKBWydxvUKdxdIhNGysDgVVUuYgobGnwqAXqtVPwyjUxvbLUokTVfzIFoxcefTHKeLVmYvFFXknWviCNNzqMPHX", true))()

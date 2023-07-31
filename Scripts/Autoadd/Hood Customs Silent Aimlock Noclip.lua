@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/GuizzyisbackV2LOL/65xRevamplua/main/SourceLua"))()

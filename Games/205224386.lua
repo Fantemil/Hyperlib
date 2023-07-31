@@ -1,5 +1,0 @@
-
-addscript(205224386, "Current Game","Collect All Coins", "Uploaded by Dark_ on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Collect%20All%20Coins.lua", "https://scriptblox.com/script/Hide-and-Seek-Extreme-Collect-All-Coins-10034")
-addscript(205224386, "Current Game","ESP all Auto win Collect Coins", "Uploaded by Mrskull on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ESP%20all%20Auto%20win%20Collect%20Coins.lua", "https://scriptblox.com/script/Hide-and-Seek-Extreme-ESP-all-Auto-win-Collect-Coins-8944")
-addscript(205224386, "Current Game","EZ WIN", "Uploaded by nescoroco on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/EZ%20WIN.lua", "https://scriptblox.com/script/Hide-and-Seek-Extreme-Best-Script-9210")
-addscript(205224386, "Current Game","Auto Farm Coins", "Uploaded by Partner on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Farm%20Coins.lua", "https://scriptblox.com/script/Hide-and-Seek-Extreme-Auto-Farm-Coins-11633")

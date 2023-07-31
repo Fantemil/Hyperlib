@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/jemangeleZ/KLD/main/KLD", true))()

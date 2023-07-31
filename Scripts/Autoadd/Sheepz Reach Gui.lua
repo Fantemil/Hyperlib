@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/ProGitHubMasta/Sheep-s-Reach-GUI/main/sheep_reach_gui_v2"))()

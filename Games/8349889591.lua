@@ -1,3 +1,0 @@
-
-addscript(8349889591, "Current Game","Carti hub Crack Op Lag Script", "Uploaded by Someone1412 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Carti%20hub%20Crack%20Op%20Lag%20Script.lua", "https://scriptblox.com/script/UPD-12-Anime-Adventures-Carti-hub-Crack-Op-Lag-Script-10137")
-addscript(8349889591, "Current Game","Carti hub Crack Op Lag Script", "Uploaded by Someone1412 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Carti%20hub%20Crack%20Op%20Lag%20Script.lua", "https://scriptblox.com/script/UPD-12-Anime-Adventures-Carti-hub-Crack-Op-Lag-Script-10137")

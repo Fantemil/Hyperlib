@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Ericd71/Beekeepers/main/BeekepersGUI", true))()

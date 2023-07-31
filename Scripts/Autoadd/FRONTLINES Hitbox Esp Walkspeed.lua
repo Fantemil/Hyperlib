@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/SomacYT/better-script-frontline/main/Frontline%20somac%20hub%20v2"))()

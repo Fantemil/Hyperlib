@@ -1,3 +1,0 @@
-
-addscript(11636413564, "Current Game","Auto Farm Op", "Uploaded by roninpilot1 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Farm%20Op.lua", "https://scriptblox.com/script/NEW-Meme-Mergers-Auto-Merge-Op-8991")
-addscript(11636413564, "Current Game","Meme Mergers Op Script only for pc", "Uploaded by guestgod87 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Meme%20Mergers%20Op%20Script%20only%20for%20pc.lua", "https://scriptblox.com/script/NEW-Meme-Mergers-Meme-Mergers-Op-Script-only-for-pc-9000")

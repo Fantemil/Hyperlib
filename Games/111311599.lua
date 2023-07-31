@@ -1,3 +1,0 @@
-
-addscript(111311599, "Current Game","Power Script", "Uploaded by NoHorizonName on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Power%20Script.lua", "https://scriptblox.com/script/CRITICAL-STRIKE-v5.7.5-Power-Script-11514")
-addscript(111311599, "Current Game","Admin Script", "Uploaded by NoHorizonName on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Admin%20Script.lua", "https://scriptblox.com/script/CRITICAL-STRIKE-v5.7.5-Admin-Script-11513")

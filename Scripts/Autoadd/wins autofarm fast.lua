@@ -1,1 +1,0 @@
-loadstring(game:HttpGet('https://github.com/itsryp/steep-steps-autofarm/raw/main/autofarm'))()

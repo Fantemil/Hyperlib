@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/spoldain/scripts/main/EasyZTv1.lua", true))()

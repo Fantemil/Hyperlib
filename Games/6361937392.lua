@@ -1,3 +1,0 @@
-
-addscript(6361937392, "Current Game","TP HIND PEOPLE", "Uploaded by yoyoyoo on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TP%20HIND%20PEOPLE.lua", "https://scriptblox.com/script/steal-time-from-others-and-be-the-best-TP-HIND-PEOPLE-12196")
-addscript(6361937392, "Current Game","st Script CHECK DISCFEATURES TO KNOW HOW IT WORKS", "Uploaded by CrapTheKid on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/st%20Script%20CHECK%20DISCFEATURES%20TO%20KNOW%20HOW%20IT%20WORKS.lua", "https://scriptblox.com/script/steal-time-from-others-and-be-the-best-Invisible-Kill-Aura-9173")

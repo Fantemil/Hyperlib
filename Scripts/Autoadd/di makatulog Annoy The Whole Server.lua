@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Musksticks/scripts/main/di-makatulog"))()

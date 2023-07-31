@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Rxztent/LogGui/main/BulkedUp.lua"))()

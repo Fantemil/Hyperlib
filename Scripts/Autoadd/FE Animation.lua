@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/XNEOFF/FEAnimationGui/main/FEAnimationGui.lua", true))()

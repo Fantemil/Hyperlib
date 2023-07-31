@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/GreyCaat/Rebirth-Champions-X/main/RebirthChampionsX.txt", true))()

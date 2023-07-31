@@ -1,2 +1,0 @@
-
-addscript(11781005288, "Current Game","Autofarm etc", "Uploaded by ryuxx on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Autofarm%20etc.lua", "https://scriptblox.com/script/Jetpack-Fuel-Per-Second-Autofarm-etc-9265")

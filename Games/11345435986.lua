@@ -1,2 +1,0 @@
-
-addscript(11345435986, "Current Game","Autofarm", "Uploaded by damiansocoolpro on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Autofarm.lua", "https://scriptblox.com/script/Chainsaw-Man:-Devil's-Heart-4-NEW-CONTRACTS!!-Autofarm-9286")

@@ -1,2 +1,0 @@
-
-addscript(5987922834, "Current Game","Lag Servers", "Uploaded by ckzmo on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Lag%20Servers.lua", "https://scriptblox.com/script/UPDATE-PART-3-Transfur-Outbreak!-Lag-Servers-8758")

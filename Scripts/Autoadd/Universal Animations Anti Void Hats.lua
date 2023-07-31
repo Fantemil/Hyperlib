@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/toldblock/GelatekHub/main/Main.lua"))()

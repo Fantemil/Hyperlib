@@ -1,2 +1,0 @@
-
-addscript(9970498292, "Current Game","Op Gui", "Uploaded by Hamburga on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Op%20Gui.lua", "https://scriptblox.com/script/SANS-SIMULATOR-X-Gui-11275")

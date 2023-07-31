@@ -1,1 +1,0 @@
-loadstring(game:HttpGet(('https://raw.githubusercontent.com/tark-w/script/main/Climb%202000%20ass.txt'),true))()

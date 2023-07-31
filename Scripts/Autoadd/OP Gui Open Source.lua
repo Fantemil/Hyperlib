@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/kooggy/Open-Source/main/Ninja%20Legends.lua"))()

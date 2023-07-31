@@ -1,3 +1,0 @@
-
-addscript(8651781069, "Current Game","script", "Uploaded by Harley_Hub on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/script.lua", "https://scriptblox.com/script/Voxlblade-RELEASE-script-10417")
-addscript(8651781069, "Current Game","Voxl Blade Auto Farm", "Uploaded by BeboMods on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Voxl%20Blade%20Auto%20Farm.lua", "https://scriptblox.com/script/Voxlblade-RELEASE-Voxl-Blade-Auto-Farm-10398")

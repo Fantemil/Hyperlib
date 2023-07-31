@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://github.com/flatterart99873/Flatt...Script.lua"))()

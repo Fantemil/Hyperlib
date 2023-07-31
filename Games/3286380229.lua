@@ -1,2 +1,0 @@
-
-addscript(3286380229, "Current Game","ZeusHub UPTADE V", "Uploaded by ArflexTeam on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ZeusHub%20UPTADE%20V.lua", "https://scriptblox.com/script/Classic-Baseplate-ZeusHub-9946")

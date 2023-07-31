@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Enes5858/Enes5858/main/LxhhBBy2%20(1).txt"))()

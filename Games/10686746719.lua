@@ -1,3 +1,0 @@
-
-addscript(10686746719, "Current Game","OP gui", "Uploaded by mandrguiii on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20gui.lua", "https://scriptblox.com/script/Undertale:-Wave-Rush-OP-gui-11479")
-addscript(10686746719, "Current Game","Scripts", "Uploaded by Hamburga on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Scripts.lua", "https://scriptblox.com/script/2x-G-%2B-PARADOX-Undertale:-Wave-Rush-Infinite-dm-11442")

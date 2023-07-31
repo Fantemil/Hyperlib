@@ -1,1 +1,0 @@
-loadstring(game:HttpGet('https://raw.githubusercontent.com/MonkeyDMene/Public-Scripts/main/Hunter_X_Omen.lua'))()

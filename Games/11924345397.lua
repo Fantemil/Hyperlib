@@ -1,2 +1,0 @@
-
-addscript(11924345397, "Current Game","Secret", "Uploaded by RobloxDoge on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Secret.lua", "https://scriptblox.com/script/FREE-HUGE!-Crazy-Clickers-X-Secret-12195")

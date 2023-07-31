@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/pawpaw579/refinery/main/Refinery%20Ore%20Tp",true))()

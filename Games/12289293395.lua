@@ -1,2 +1,0 @@
-
-addscript(12289293395, "Current Game","Old Script Source", "Uploaded by Linest on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Old%20Script%20Source.lua", "https://scriptblox.com/script/UPD-Boxing-Fighters-Simulator-Old-Scriot-Source-10892")

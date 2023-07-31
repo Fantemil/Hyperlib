@@ -1,1 +1,0 @@
-loadstring(game:HttpGet('https://www.cappuccino-scripts.com/v6/script/trial.lua'))()

@@ -1,2 +1,0 @@
-
-addscript(11820706086, "Current Game","grab all box and more", "Uploaded by copypaste on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/grab%20all%20box%20and%20more.lua", "https://scriptblox.com/script/Project-Playtime-Multiplayer-grab-all-box-and-more-8854")

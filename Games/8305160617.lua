@@ -1,2 +1,0 @@
-
-addscript(8305160617, "Current Game","win", "Uploaded by lewa on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/win.lua", "https://scriptblox.com/script/Last-To-Leave-New-Events-Au-win-11652")

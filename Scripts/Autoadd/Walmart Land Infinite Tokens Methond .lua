@@ -1,1 +1,0 @@
-game:GetService("ReplicatedStorage").Events.ManicureChallenge.GiveTokensManicureChallenge:FireServer(999999999);

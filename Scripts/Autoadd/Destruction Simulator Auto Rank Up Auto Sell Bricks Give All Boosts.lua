@@ -1,1 +1,0 @@
-loadstring(game:HttpGet(("https://pickles-site.vercel.app/Pickle-Hub/loader.lua")))()

@@ -1,3 +1,0 @@
-
-addscript(4104106043, "Current Game","VIP Room n All Gears and more", "Uploaded by KhSaeed90 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/VIP%20Room%20n%20All%20Gears%20and%20more.lua", "https://scriptblox.com/script/Insane-Elevator!-Unlock-VIP-Room-and-more-11513")
-addscript(4104106043, "Current Game","VIP Enabler", "Uploaded by robloxhackingproject on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/VIP%20Enabler.lua", "https://scriptblox.com/script/Insane-Elevator!-VIP-Enabler-11363")

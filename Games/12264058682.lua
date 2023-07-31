@@ -1,2 +1,0 @@
-
-addscript(12264058682, "Current Game","au farm", "Uploaded by oadeep on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/au%20farm.lua", "https://scriptblox.com/script/GO-TO-JAIL-AND-MAKE-FRIENDS-TO-ESCAPE-tycoon-au-farm-8939")

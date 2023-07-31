@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/SchoolTrash/ExoHub/main/Prison%20Life"))()

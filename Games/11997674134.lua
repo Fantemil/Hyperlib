@@ -1,2 +1,0 @@
-
-addscript(11997674134, "Current Game","INF CASH AND MORE SLEINT AIM AND MORE", "Uploaded by Rtxyy on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/INF%20CASH%20AND%20MORE%20SLEINT%20AIM%20AND%20MORE.lua", "https://scriptblox.com/script/Wasteland-Tycoon-SLEINT-AIM-AND-MORE-9827")

@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/noobscripter38493/Legend-Magician-autofarm/main/Legend%20Magician.lua"))()

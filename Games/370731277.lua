@@ -1,2 +1,0 @@
-
-addscript(370731277, "Current Game","Anware Gui Made By Me Meepcity Only", "Uploaded by FlexRBLX on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anware%20Gui%20Made%20By%20Me%20Meepcity%20Only.lua", "https://scriptblox.com/script/MeepCity-Anware-Gui-Made-By-Me-Meepcity-Only-9760")

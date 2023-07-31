@@ -1,2 +1,0 @@
-
-addscript(9388793159, "Current Game","Gun Mods", "Uploaded by gore on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Gun%20Mods.lua", "https://scriptblox.com/script/STAR-WARS-Coruscant-Roleplay-UPDATE!-Gun-Mods-10129")

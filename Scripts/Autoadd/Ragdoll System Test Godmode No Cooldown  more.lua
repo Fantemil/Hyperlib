@@ -1,1 +1,0 @@
-loadstring(game:HttpGet(('https://raw.githubusercontent.com/asdwasdwd/Endurance/main/Endurance.lua')))()

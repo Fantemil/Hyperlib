@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Singularity5490/random/main/pf_grenade_aimbot.lua"))()

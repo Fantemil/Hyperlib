@@ -1,2 +1,0 @@
-
-addscript(8884433153, "Current Game","MaddHub Free Key", "Uploaded by maddjester on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MaddHub%20Free%20Key.lua", "https://scriptblox.com/script/Collect-All-Pets!-MaddHub-9706")

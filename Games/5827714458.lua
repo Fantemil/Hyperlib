@@ -1,2 +1,0 @@
-
-addscript(5827714458, "Current Game","LoLo", "Uploaded by Lagun on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LoLo.lua", "https://scriptblox.com/script/Escape-Room-LoLo-11252")

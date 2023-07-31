@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/madonchik123/CSPrisonLife/main/main.lua"))()

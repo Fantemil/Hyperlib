@@ -1,2 +1,0 @@
-
-addscript(10027379988, "Current Game","RaCcoN Hub", "Uploaded by RaCc0oN on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RaCcoN%20Hub.lua", "https://scriptblox.com/script/SALE-Sheep-Tycoon-RaCc0oN-Hub-11691")

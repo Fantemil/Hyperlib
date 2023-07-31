@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/10x00/Public-Scripts/main/Project%20Ghoul%20V2.lua"))();

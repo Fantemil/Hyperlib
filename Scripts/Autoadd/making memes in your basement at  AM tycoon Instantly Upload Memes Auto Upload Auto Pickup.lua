@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/stitchTheElite/luascripts/main/mmiyba3A%20tycoon.lua", true))()

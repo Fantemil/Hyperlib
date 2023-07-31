@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://cdn.elerium.cc/scripts/pizza-farmer.lua"))();

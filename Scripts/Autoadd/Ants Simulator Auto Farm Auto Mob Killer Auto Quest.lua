@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/gerisxx/SyrexHubV1/main/AntsSimulatorHub", true))()

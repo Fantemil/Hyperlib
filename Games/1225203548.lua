@@ -1,2 +1,0 @@
-
-addscript(1225203548, "Current Game","Spam Vote Script BBB", "Uploaded by collorem on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Spam%20Vote%20Script%20BBB.lua", "https://scriptblox.com/script/Big-Blox-Brazil-Spam-Vote-Script-BBB-11458")

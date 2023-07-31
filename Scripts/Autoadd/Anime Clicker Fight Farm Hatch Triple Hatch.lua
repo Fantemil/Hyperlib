@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/kooggy/Scripts/main/Anime%20Fighter%20Click.lua"))()

@@ -1,3 +1,0 @@
-
-addscript(958935160, "Current Game","Meme power and rebirths", "Uploaded by JoshuaFox on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Meme%20power%20and%20rebirths.lua", "https://scriptblox.com/script/SALE-running-in-the-oof's-fite-meme-power-and-rebirths-11512")
-addscript(958935160, "Current Game","Meme power and rebirths", "Uploaded by JoshuaFox on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Meme%20power%20and%20rebirths.lua", "https://scriptblox.com/script/SALE-running-in-the-oof's-fite-meme-power-and-rebirths-11512")

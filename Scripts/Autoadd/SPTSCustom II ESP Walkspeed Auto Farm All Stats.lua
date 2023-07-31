@@ -1,1 +1,0 @@
-loadstring(game:HttpGet(("https://raw.githubusercontent.com/erikkire123/New-Spts-script/main/newsptscscript.txt"), true))()

@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/R1-Common/Simple-ClickTP/main/SimpleCLICKTP", true))()

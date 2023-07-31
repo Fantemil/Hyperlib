@@ -1,1 +1,0 @@
-loadstring(game:HttpGet(('https://raw.githubusercontent.com/ttd1108/Script/master/animebattle'), true))()

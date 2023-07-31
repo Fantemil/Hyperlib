@@ -1,1 +1,0 @@
-loadstring(game:HttpGet('https://raw.githubusercontent.com/popbob2/myownscripts/main/BackroomsGmodMap'))()

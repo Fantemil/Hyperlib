@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/vwSaraa/Scripts/main/Murder%20Mystery%202%20v4.lua"))()

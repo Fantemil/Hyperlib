@@ -1,3 +1,0 @@
-
-addscript(7732789524, "Current Game","BEST INSTANT GOAL SCRIPT USE BEFORE PATCH", "Uploaded by Smug on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BEST%20INSTANT%20GOAL%20SCRIPT%20USE%20BEFORE%20PATCH.lua", "https://scriptblox.com/script/Neo-Soccer-League-DEMO-BEST-INSTANT-GOAL-SCRIPT-8963")
-addscript(7732789524, "Current Game","Script for this game lul", "Uploaded by anwarmathly6 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Script%20for%20this%20game%20lul.lua", "https://scriptblox.com/script/Neo-Soccer-League-DEMO-Script-for-this-game-lul-8955")

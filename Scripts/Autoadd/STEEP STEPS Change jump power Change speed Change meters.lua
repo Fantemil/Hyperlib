@@ -1,1 +1,0 @@
-loadstring(game:HttpGet(("https://github.com/Dalk21/steep-steps/raw/master/steps-script.lua")))()

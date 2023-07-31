@@ -1,2 +1,0 @@
-
-addscript(2622527242, "Current Game","LynXz rBreach", "Uploaded by LynXzl on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LynXz%20rBreach.lua", "https://scriptblox.com/script/SCP-rBreach-LynXz-rBreach-9818")

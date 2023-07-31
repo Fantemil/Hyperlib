@@ -1,3 +1,0 @@
-
-addscript(12514863600, "Current Game","event items", "Uploaded by EgyBestBuddy on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/event%20items.lua", "https://scriptblox.com/script/Sunsilk-Hair-Care-Lab-Tycoon-event-items-10935")
-addscript(12514863600, "Current Game","event items", "Uploaded by EgyBestBuddy on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/event%20items.lua", "https://scriptblox.com/script/Sunsilk-Hair-Care-Lab-Tycoon-event-items-10935")

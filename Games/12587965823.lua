@@ -1,3 +1,0 @@
-
-addscript(12587965823, "Current Game","stats Changer Only Work in singleplayer", "Uploaded by Hamburga on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/stats%20Changer%20Only%20Work%20in%20singleplayer.lua", "https://scriptblox.com/script/(1.05)-Monkey-Sans-Fanon-Invasion-stats-Changer-Only-Work-in-singleplayer-11406")
-addscript(12587965823, "Current Game","G O D M O D E", "Uploaded by Hamburga on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/G%20O%20D%20M%20O%20D%20E.lua", "https://scriptblox.com/script/(1.04)-Monkey-Sans-Fanon-Invasion-semi-godmode-11302")

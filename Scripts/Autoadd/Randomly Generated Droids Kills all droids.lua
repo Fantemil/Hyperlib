@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/NICKISBAD/RGD-Killer/main/Blobby"))()

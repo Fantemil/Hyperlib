@@ -1,1 +1,0 @@
-loadstring(game:HttpGet('https://raw.githubusercontent.com/linkvertise-lua/linkvertise/main/loader.lua'))()

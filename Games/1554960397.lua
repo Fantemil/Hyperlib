@@ -1,5 +1,0 @@
-
-addscript(1554960397, "Current Game","Auto Farming Race", "Uploaded by 03ss on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Farming%20Race.lua", "https://scriptblox.com/script/DRIFT-SEASON!-Car-Dealership-Tycoon-Auto-Farming-Race-9961")
-addscript(1554960397, "Current Game","Blue lock", "Uploaded by bomby on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blue%20lock.lua", "https://scriptblox.com/script/EGG-HUNT!-Car-Dealership-Tycoon-Blue-lock-10223")
-addscript(1554960397, "Current Game","Update script", "Uploaded by 03ss on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Update%20script.lua", "https://scriptblox.com/script/LIMITED!-Car-Dealership-Tycoon-Update-script-9099")
-addscript(1554960397, "Current Game","auto farm drive", "Uploaded by Misfits on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/auto%20farm%20drive.lua", "https://scriptblox.com/script/TUNING!-Car-Dealership-Tycoon-auto-farm-drive-11922")

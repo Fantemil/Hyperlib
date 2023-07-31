@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/YellowGreg/Loadstring/main/femf2.lua"))()

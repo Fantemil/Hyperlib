@@ -1,1 +1,0 @@
-loadstring(game:HttpGet(('https://raw.githubusercontent.com/naufalafif080419/NauHubLoadstring/main/Loadstring.lua')))()

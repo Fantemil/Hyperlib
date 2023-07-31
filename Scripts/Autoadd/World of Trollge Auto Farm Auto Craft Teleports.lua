@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Ov3rK1LL1969/scripts/main/updatedwot.lua"))()

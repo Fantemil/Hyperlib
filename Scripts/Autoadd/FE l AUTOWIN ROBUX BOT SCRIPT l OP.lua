@@ -1,2 +1,0 @@
--- Make sure to follow the instructions in the description of this script for it to fully work.
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Sw1ndlerScripts/RobloxScripts/main/Misc%20Scripts/DoubleDown.lua?raw=true"))()

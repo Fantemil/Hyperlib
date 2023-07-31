@@ -1,2 +1,0 @@
-
-addscript(3224832964, "Current Game","GBB XTREME Script", "Uploaded by Farzin on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/GBB%20XTREME%20Script.lua", "https://scriptblox.com/script/Gaster-Blaster-Battles-GBB-XTREME-Script-11898")

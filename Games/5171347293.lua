@@ -1,2 +1,0 @@
-
-addscript(5171347293, "Current Game","Cabin Autofarm", "Uploaded by buttsmeller220 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Cabin%20Autofarm.lua", "https://scriptblox.com/script/UPDATECabin-Crew-Simulator-Cabin-Autofarm-11627")

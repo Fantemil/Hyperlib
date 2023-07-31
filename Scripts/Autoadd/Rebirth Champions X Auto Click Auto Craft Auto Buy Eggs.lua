@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/arjanQ/scripts/main/Rebirth.Hub.lua"))()

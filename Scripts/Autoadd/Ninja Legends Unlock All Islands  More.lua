@@ -1,1 +1,0 @@
-loadstring(game:HttpGet('https://raw.githubusercontent.com/Blackout4781/Karma-Hub/main/Ninja%20Legends'))()

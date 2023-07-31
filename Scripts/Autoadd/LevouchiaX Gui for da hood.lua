@@ -1,1 +1,0 @@
-loadstring(game:HttpGet('https://raw.githubusercontent.com/Levoucher/LevouchiaX/master/LevouchiaXProject'))()

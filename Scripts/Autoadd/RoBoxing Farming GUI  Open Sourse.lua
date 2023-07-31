@@ -1,1 +1,0 @@
-loadstring(game:HttpGet('https://raw.githubusercontent.com/fired-away/Ro-Boxing/main/script.lua', true))()

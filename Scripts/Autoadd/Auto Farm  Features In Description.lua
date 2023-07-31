@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/ManucasPT/GAMES/main/ManucasPT/Get-Heavy-Simulator"))();

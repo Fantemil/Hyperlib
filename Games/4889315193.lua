@@ -1,2 +1,0 @@
-
-addscript(4889315193, "Current Game","my awesome cool funny script", "Uploaded by _vice on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/my%20awesome%20cool%20funny%20script.lua", "https://scriptblox.com/script/Total-Roblox-Drama-my-awesome-cool-funny-script-12114")

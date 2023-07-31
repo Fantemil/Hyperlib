@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/BinaryDex/Scripts/main/IGBO.lua"))()

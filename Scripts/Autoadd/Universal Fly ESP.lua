@@ -1,1 +1,0 @@
-loadstring(game:HttpGet(('https://raw.githubusercontent.com/GlitterLov3r/L33THub/main/GameSupports'),true))()

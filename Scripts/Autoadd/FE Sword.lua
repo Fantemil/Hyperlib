@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/SmartModBoy/script3/main/prisonsword", true))()

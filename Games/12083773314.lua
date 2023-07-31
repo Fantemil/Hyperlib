@@ -1,3 +1,0 @@
-
-addscript(12083773314, "Current Game","script", "Uploaded by ToddyTheNoobDud on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/script.lua", "https://scriptblox.com/script/Troop-Army-Simulator-NEW-Troopy-army-simulator-9485")
-addscript(12083773314, "Current Game","simple farm", "Uploaded by kalas on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/simple%20farm.lua", "https://scriptblox.com/script/Troop-Army-Simulator-NEW-simple-farm-8873")

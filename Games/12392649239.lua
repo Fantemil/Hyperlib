@@ -1,2 +1,0 @@
-
-addscript(12392649239, "Current Game","All Badges n Instant Win and more", "Uploaded by KhSaeed90 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/All%20Badges%20n%20Instant%20Win%20and%20more.lua", "https://scriptblox.com/script/NEW-POLICE-GIRL-PRISON-RUN!-(Obby)-All-Badges-n-Instant-Win-and-more-11581")

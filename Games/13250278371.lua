@@ -1,2 +1,0 @@
-
-addscript(13250278371, "Current Game","GUI", "Uploaded by Muimi on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/GUI.lua", "https://scriptblox.com/script/RELEASE!-Head-Punch-Simulator-GUI-11032")

@@ -1,2 +1,0 @@
-
-addscript(12660305218, "Current Game","AutoFarm Open Source", "Uploaded by Skids on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AutoFarm%20Open%20Source.lua", "https://scriptblox.com/script/The-Spiciest-Tycoon-AutoFarm-Open-Source-10106")

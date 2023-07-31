@@ -1,2 +1,0 @@
-
-addscript(13814171092, "Current Game","Auto Farm Money", "Uploaded by Noctural on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Farm%20Money.lua", "https://scriptblox.com/script/Balloon-Simulator-Auto-Farm-Money-11899")

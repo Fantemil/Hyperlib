@@ -1,1 +1,0 @@
-loadstring(game:HttpGet('https://6footscripts.com/Scripts/WizardTycoon2P'))();

@@ -1,1 +1,0 @@
-game.Workspace.Gravity = 5

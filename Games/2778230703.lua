@@ -1,2 +1,0 @@
-
-addscript(2778230703, "Current Game","Tranzit script request please", "Uploaded by hiyttuu on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tranzit%20script%20request%20please.lua", "https://scriptblox.com/script/TranZit:-Remastered-Tranzit-script-request-please-10939")

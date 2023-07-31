@@ -1,3 +1,0 @@
-
-addscript(11330149751, "Current Game","Xjosh", "Uploaded by V1sion on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Xjosh.lua", "https://scriptblox.com/script/making-scam-calls-to-save-your-best-friend-tycoon-Xjosh-8852")
-addscript(11330149751, "Current Game","Configurable moneyfarm OPEN SOURCE", "Uploaded by CasualDev on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Configurable%20moneyfarm%20OPEN%20SOURCE.lua", "https://scriptblox.com/script/making-scam-calls-to-save-your-best-friend-tycoon-Configurable-moneyfarm-OPEN-SOURCE-10633")

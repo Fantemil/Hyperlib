@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Blxde509/PurgeX-dahood-script/main/loader", true))()

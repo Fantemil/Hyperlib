@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/KissxTay/caramelldansen/main/testing.txt"))()

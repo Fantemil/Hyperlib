@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/TheEmptynessProject/NotorietyRequiem/main/main.lua",true))()

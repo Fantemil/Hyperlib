@@ -1,2 +1,0 @@
-
-addscript(4042427666, "Current Game","DATA ROLLBACK HACK", "Uploaded by xiba on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DATA%20ROLLBACK%20HACK.lua", "https://scriptblox.com/script/DIMENSION-6-Anime-Fighting-Simulator-ROLLBACK-12134")

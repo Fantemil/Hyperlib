@@ -1,1 +1,0 @@
-loadstring(game:HttpGet"https://raw.githubusercontent.com/accountnop/BEES-Hub/main/BF")()

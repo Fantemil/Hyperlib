@@ -1,1 +1,0 @@
-loadstring(game:HttpGet('https://raw.githubusercontent.com/LeadMarker/opensrc/main/Titan%20Warfare/titan_warfare.lua'))()

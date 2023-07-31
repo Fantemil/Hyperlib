@@ -1,2 +1,0 @@
---Hey, seems that you are interested in using Lisbon, here's some more information if you want --> https://github.com/ImUltik/Lisbon
-loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/ImUltik/Lisbon/main/Source.lua"))() 

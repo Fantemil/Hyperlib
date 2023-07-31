@@ -1,2 +1,0 @@
-
-addscript(8317834514, "Current Game","Role  Gun ESP", "Uploaded by choke on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Role%20%20Gun%20ESP.lua", "https://scriptblox.com/script/The-Mad-Murderer-X-ESP-11017")

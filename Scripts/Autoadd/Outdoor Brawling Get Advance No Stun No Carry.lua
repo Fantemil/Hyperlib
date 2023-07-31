@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/jjuvix/OB-HUB1/main/free.lua"))()

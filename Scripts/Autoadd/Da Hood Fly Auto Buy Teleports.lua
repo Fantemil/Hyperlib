@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/VENUSTHEGUIV2/VenusMainUi/main/Supported!"))()

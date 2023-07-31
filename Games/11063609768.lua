@@ -1,2 +1,0 @@
-
-addscript(11063609768, "Current Game","auto complete", "Uploaded by bxor on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/auto%20complete.lua", "https://scriptblox.com/script/Easy-Fun-Obby-auto-complete-9338")

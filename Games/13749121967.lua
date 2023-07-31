@@ -1,2 +1,0 @@
-
-addscript(13749121967, "Current Game","Op Auto Farm", "Uploaded by PlanetHub on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Op%20Auto%20Farm.lua", "https://scriptblox.com/script/Snail-Race-Op-Auto-Farm-11822")

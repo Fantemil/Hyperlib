@@ -1,1 +1,0 @@
-loadstring(game:HttpGet('https://raw.githubusercontent.com/Dark-Scripts/Arsenal-Scripts/main/idkV2'))()

@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Timofey246/BSSRecreate/main/NewScript", true))();

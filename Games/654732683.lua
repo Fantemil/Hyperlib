@@ -1,2 +1,0 @@
-
-addscript(654732683, "Current Game","THE BEST AUTOFARM AND MORE", "Uploaded by AaronS on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/THE%20BEST%20AUTOFARM%20AND%20MORE.lua", "https://scriptblox.com/script/3X-%2B-NEW-Car-Crushers-2-THE-BEST-AUTOFARM-AND-MORE-10691")

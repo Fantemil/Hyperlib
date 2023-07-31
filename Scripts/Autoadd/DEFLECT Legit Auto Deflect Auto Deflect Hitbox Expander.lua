@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/ccxmIcal/cracks/main/KylnDantas%20Hub.lua"))()

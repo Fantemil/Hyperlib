@@ -1,2 +1,0 @@
-
-addscript(12985445083, "Current Game","alot of features", "Uploaded by thanhtam8765 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/alot%20of%20features.lua", "https://scriptblox.com/script/block-and-pickaxe-alot-of-features-10495")

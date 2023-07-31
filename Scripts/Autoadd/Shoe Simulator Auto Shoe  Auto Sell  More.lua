@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/MarkasLUA/Shoe-Simulator-GUI/main/Shoe%20Simulator.lua"))()

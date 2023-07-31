@@ -1,5 +1,0 @@
-
-addscript(12578778816, "Current Game","GUI for void update", "Uploaded by Partner on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/GUI%20for%20void%20update.lua", "https://scriptblox.com/script/Billionaire-Simulator-2-VOID!!-GUI-for-void-update-12146")
-addscript(12578778816, "Current Game","GUI for void update", "Uploaded by Partner on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/GUI%20for%20void%20update.lua", "https://scriptblox.com/script/Billionaire-Simulator-2-VOID!!-GUI-for-void-update-12146")
-addscript(12578778816, "Current Game","GUI", "Uploaded by Partner on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/GUI.lua", "https://scriptblox.com/script/Billionaire-Simulator-2-HEAVEN-UPDATE-GUI-11863")
-addscript(12578778816, "Current Game","GUI for void update", "Uploaded by Partner on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/GUI%20for%20void%20update.lua", "https://scriptblox.com/script/Billionaire-Simulator-2-VOID!!-GUI-for-void-update-12146")

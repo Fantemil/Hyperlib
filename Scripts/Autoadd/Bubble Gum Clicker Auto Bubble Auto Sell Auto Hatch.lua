@@ -1,1 +1,0 @@
-loadstring(game:HttpGet('https://raw.githubusercontent.com/NETFLIX89/Hub/main/Script%20Hub'))()

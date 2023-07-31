@@ -1,1 +1,0 @@
-game:GetService("ReplicatedStorage").GlobalFunctions.AddPlayerSpeed:FireServer(385000000000,385000000000)

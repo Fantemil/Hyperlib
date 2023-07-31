@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/SmoxHub/SmoxHub/main/Easy%20Race%20Clicker "))()

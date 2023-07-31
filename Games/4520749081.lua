@@ -1,4 +1,0 @@
-
-addscript(4520749081, "Current Game","Auto Bounty and Hop Fruit", "Uploaded by a_Donand on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Bounty%20and%20Hop%20Fruit.lua", "https://scriptblox.com/script/UPDATE-4.66-King-Legacy-Auto-Bounty-and-Hop-Fruit-11416")
-addscript(4520749081, "Current Game","Adel Hub", "Uploaded by Jackyson8338 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Adel%20Hub.lua", "https://scriptblox.com/script/UPDATE-4.66-King-Legacy-Adel-Hub-11366")
-addscript(4520749081, "Current Game","Adel Hub", "Uploaded by J_Droid on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Adel%20Hub.lua", "https://scriptblox.com/script/UPDATE-4.66-King-Legacy-Adel-Hub-11517")

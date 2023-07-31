@@ -1,1 +1,0 @@
-local CWMaxhub = loadstring(game:HttpGet("https://raw.githubusercontent.com/ufouzzed/CWMaxhub/main/Protected%20(15).lua"))()

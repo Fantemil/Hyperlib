@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Ev01Discord/Blunted-X/main/Rap%20Simulator"))()

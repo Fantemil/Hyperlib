@@ -1,1 +1,0 @@
-game:GetService("ReplicatedStorage").RemoteEvents.MiniCollectMoneyEvent:FireServer(math.huge)

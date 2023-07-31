@@ -1,3 +1,0 @@
-
-addscript(11455876520, "Current Game","Strengt h sim", "Uploaded by azicity23 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Strengt%20h%20sim.lua", "https://scriptblox.com/script/x20-Strength-Simulator-Strengt-h-sim-10118")
-addscript(11455876520, "Current Game","Auto farm ascension OP", "Uploaded by 3quinox on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20farm%20ascension%20OP.lua", "https://scriptblox.com/script/x20-Strength-Simulator-Auto-farm-ascension-OP-10094")

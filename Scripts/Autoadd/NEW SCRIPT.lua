@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Sw1ndlerScripts/Scripts/main/Karate.lua"))()

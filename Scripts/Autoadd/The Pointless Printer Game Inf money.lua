@@ -1,1 +1,0 @@
-game:GetService('ReplicatedStorage').treasureChestCollection:FireServer(9e9)

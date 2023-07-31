@@ -1,1 +1,0 @@
-loadstring(game:HttpGet(("https://raw.githubusercontent.com/teehee567/Roblox/main/AnimeEvolutionSimulator.lua"),true))()

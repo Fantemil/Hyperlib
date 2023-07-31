@@ -1,1 +1,0 @@
-loadstring(game:HttpGet('https://raw.githubusercontent.com/kkeyy-hash/roblox/main/SonicSpeedSimulator2.lua'))()

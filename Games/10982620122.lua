@@ -1,2 +1,0 @@
-
-addscript(10982620122, "Current Game","Galaxion Source", "Uploaded by tomfooler on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Galaxion%20Source.lua", "https://scriptblox.com/script/Undertale:-Last-Corridor-Galaxion-10904")

@@ -1,2 +1,0 @@
-
-addscript(7978512334, "Current Game","Shovelware AUTO GUEST", "Uploaded by kkbluespirt on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Shovelware%20AUTO%20GUEST.lua", "https://scriptblox.com/script/Shovelware's-Brain-Game-Shovelware-AUTO-GUEST-9820")

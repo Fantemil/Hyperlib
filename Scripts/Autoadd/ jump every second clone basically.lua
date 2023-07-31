@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/WinterDinder/56-Clubs-Higher-Jump-Every-Second/main/Main", true))()

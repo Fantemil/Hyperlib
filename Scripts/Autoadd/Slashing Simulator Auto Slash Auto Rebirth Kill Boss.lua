@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Fickoeizy/Lego/main/Slashing%20Simulator",true))()

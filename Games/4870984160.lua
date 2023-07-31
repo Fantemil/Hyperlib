@@ -1,2 +1,0 @@
-
-addscript(4870984160, "Current Game","Log Gui", "Uploaded by LogHub on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Log%20Gui.lua", "https://scriptblox.com/script/Cornerstone-Arcade-Log-Gui-10319")

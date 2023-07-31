@@ -1,1 +1,0 @@
-loadstring(game:HttpGet(('https://raw.githubusercontent.com/zerotopflash/abys/main/README.md'),true))()

@@ -1,2 +1,0 @@
-
-addscript(7196856665, "Current Game","I was bored", "Uploaded by roninpilot1 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/I%20was%20bored.lua", "https://scriptblox.com/script/Wave-Sword-Bots-Game-I-was-bored-10131")

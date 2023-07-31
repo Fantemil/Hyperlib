@@ -1,2 +1,0 @@
-
-addscript(8568266872, "Current Game","Complete Waves Fast Hit Open Source", "Uploaded by BeboMods on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Complete%20Waves%20Fast%20Hit%20Open%20Source.lua", "https://scriptblox.com/script/Kill-Monsters-to-Save-Princess-Au-Waves-Fast-Hit-Open-Source-9268")

@@ -1,2 +1,0 @@
-
-addscript(12025508008, "Current Game","Data Changer Damage Changer No Cooldown and etc", "Uploaded by _len_ on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Data%20Changer%20Damage%20Changer%20No%20Cooldown%20and%20etc.lua", "https://scriptblox.com/script/MOBILE-SUPPORT!!!-Risk-of-Roadblocks-Data-Changer-Damage-Changer-No-Cooldown-and-etc-11936")

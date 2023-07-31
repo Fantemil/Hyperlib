@@ -1,1 +1,0 @@
-loadstring(game:HttpGet('https://raw.githubusercontent.com/Pixelated03/Hungry-Pig/main/GUI'))()

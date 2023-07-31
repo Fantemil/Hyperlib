@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/BadScripter/Scripts/master/BotClashHub.lua",true))()

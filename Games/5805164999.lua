@@ -1,4 +1,0 @@
-
-addscript(5805164999, "Current Game","Heal yourself", "Uploaded by smilez on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Heal%20yourself.lua", "https://scriptblox.com/script/(bone-still-broken)-An-Infinite-Adventure-Heal-yourself-11599")
-addscript(5805164999, "Current Game","Kill yone Script check description", "Uploaded by smilez on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Kill%20yone%20Script%20check%20description.lua", "https://scriptblox.com/script/(bone-still-broken)-An-Infinite-Adventure-Kill-yone-Script-check-description-11598")
-addscript(5805164999, "Current Game","throw stuff at players lol", "Uploaded by smilez on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/throw%20stuff%20at%20players%20lol.lua", "https://scriptblox.com/script/(bone-still-broken)-An-Infinite-Adventure-throw-stuff-at-players-lol-11600")

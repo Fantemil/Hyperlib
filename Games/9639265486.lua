@@ -1,3 +1,0 @@
-
-addscript(9639265486, "Current Game","script hub", "Uploaded by botbrostopusing on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/script%20hub.lua", "https://scriptblox.com/script/Teapot-Tower-Defenders!-500-likes-script-hub-10991")
-addscript(9639265486, "Current Game","alright fine if you want deobfucated but credit bro", "Uploaded by botbrostopusing on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/alright%20fine%20if%20you%20want%20deobfucated%20but%20credit%20bro.lua", "https://scriptblox.com/script/Teapot-Tower-Defenders!-500-likes-alright-fine-if-you-want-deobfucated-but-credit-bro-11007")

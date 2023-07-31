@@ -1,2 +1,0 @@
-
-addscript(12413830324, "Current Game","VIP Room n Smart Infinite Win n Best Rebirth and more", "Uploaded by KhSaeed90 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/VIP%20Room%20n%20Smart%20Infinite%20Win%20n%20Best%20Rebirth%20and%20more.lua", "https://scriptblox.com/script/Stud-Jump-Obby-Infinite-Win-n-Best-Rebirth-and-more-11520")

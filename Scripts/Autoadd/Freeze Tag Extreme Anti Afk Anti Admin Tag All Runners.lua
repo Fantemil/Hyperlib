@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/HeiKe2022/Freeze-Tag-v3-Final/main/Final.lua"))()

@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/DareQPlaysRBX/SYNTA-HUB/main/SYNTAHUB.lua"))()

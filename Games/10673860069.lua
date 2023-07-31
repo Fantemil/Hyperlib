@@ -1,2 +1,0 @@
-
-addscript(10673860069, "Current Game","Inf Money Exp Auto Win Rainbow Saddle Sabotage Near Players", "Uploaded by BeboMods on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Inf%20Money%20Exp%20Auto%20Win%20Rainbow%20Saddle%20Sabotage%20Near%20Players.lua", "https://scriptblox.com/script/Horse-Racing-Club-Inf-Money-Exp-Auto-Win-Rainbow-Saddle-Sabotage-Near-Players-9096")

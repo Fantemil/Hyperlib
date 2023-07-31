@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/PaeXe/Lukem/main/Lxon.Lua",true))()

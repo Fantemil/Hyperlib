@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://rawscripts.net/raw/Anime-Story-RELEASE!-Jaff-Auto-Loot-Hop-5927"))()

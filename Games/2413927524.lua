@@ -1,4 +1,0 @@
-
-addscript(2413927524, "Current Game","Rake Esp", "Uploaded by somestranger on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Rake%20Esp.lua", "https://scriptblox.com/script/The-Rake-REMASTERED-Rake-Esp-9130")
-addscript(2413927524, "Current Game","The rake remastered LOOP FB SCRIPT", "Uploaded by froggybxmb on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/The%20rake%20remastered%20LOOP%20FB%20SCRIPT.lua", "https://scriptblox.com/script/The-Rake-REMASTERED-The-rake-remastered-LOOP-FB-SCRIPT-9167")
-addscript(2413927524, "Current Game","evolved", "Uploaded by professional_gaymer on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/evolved.lua", "https://scriptblox.com/script/The-Rake-REMASTERED-evolved-11159")

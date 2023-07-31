@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/SchoolTrash/ExoHub/main/Impossible%20Glass%20Bridge%20Obby"))()

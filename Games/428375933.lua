@@ -1,2 +1,0 @@
-
-addscript(428375933, "Current Game","gui", "Uploaded by professional_gaymer on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/gui.lua", "https://scriptblox.com/script/The-Legend-of-The-Bone-Sword-RPG-gui-11671")

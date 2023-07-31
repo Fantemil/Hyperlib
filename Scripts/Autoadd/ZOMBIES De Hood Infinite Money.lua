@@ -1,1 +1,0 @@
-game:GetService("ReplicatedStorage").FlipHandler:FireServer("Winner", "UrUserGoesHere", math.huge, "Game1")

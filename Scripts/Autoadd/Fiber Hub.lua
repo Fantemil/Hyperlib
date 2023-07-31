@@ -1,1 +1,0 @@
-loadstring(game:HttpGet('https://raw.githubusercontent.com/Fiberian/Fiber-Hub/main/Fiber%20Loader'))()

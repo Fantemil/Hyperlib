@@ -1,1 +1,0 @@
-loadstring(game:HttpGet('https://garfieldscripts.xyz/scripts/ghetoogame2.lua'))()

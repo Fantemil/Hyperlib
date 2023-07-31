@@ -1,2 +1,0 @@
-
-addscript(5261579052, "Current Game","UTROS XTREME Gui", "Uploaded by Farzin on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/UTROS%20XTREME%20Gui.lua", "https://scriptblox.com/script/X-Chara!-UT:-Rise-of-Souls-UTROS-XTREME-Gui-11951")

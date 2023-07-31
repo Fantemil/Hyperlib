@@ -1,1 +1,0 @@
-game:GetService("Workspace").PutYourUserNameBecauseAmStupidAF["antiSpeed/JumpHack"]:Destroy()

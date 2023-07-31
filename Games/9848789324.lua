@@ -1,3 +1,0 @@
-
-addscript(9848789324, "Current Game","CookieHub", "Uploaded by xGOD on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CookieHub.lua", "https://scriptblox.com/script/Ragdoll-Engine-CookieHub-12061")
-addscript(9848789324, "Current Game","OP script", "Uploaded by Unc0dxd on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20script.lua", "https://scriptblox.com/script/Ragdoll-Engine-OP-script-11246")

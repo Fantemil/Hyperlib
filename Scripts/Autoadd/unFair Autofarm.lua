@@ -1,1 +1,0 @@
-loadstring(game:HttpGet(('https://raw.githubusercontent.com/Upscalefanatic3/Unfair-GUI/main/Gui')))()

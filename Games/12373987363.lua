@@ -1,4 +1,0 @@
-
-addscript(12373987363, "Current Game","Prison Clicker script", "Uploaded by Scarlet on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Prison%20Clicker%20script.lua", "https://scriptblox.com/script/UPDPrison-Race-Clicker!-Prison-Clicker-script-11866")
-addscript(12373987363, "Current Game","Prison Clicker script", "Uploaded by Scarlet on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Prison%20Clicker%20script.lua", "https://scriptblox.com/script/UPDPrison-Race-Clicker!-Prison-Clicker-script-11866")
-addscript(12373987363, "Current Game","Prison Clicker Wins Farm Auto Click", "Uploaded by JosephJerome0 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Prison%20Clicker%20Wins%20Farm%20Auto%20Click.lua", "https://scriptblox.com/script/Prison-Race-Clicker!-Prison-Clicker-Wins-Farm-Auto-Click-10739")

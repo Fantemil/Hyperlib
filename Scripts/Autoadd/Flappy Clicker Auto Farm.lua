@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Odrexyo/main/main/Flappy%20Clicker"))()

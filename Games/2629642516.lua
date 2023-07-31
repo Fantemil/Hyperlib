@@ -1,5 +1,0 @@
-
-addscript(2629642516, "Current Game","GUI", "Uploaded by MaxFlixel on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/GUI.lua", "https://scriptblox.com/script/Bitcoin-Miner-Beta-GUI-10245")
-addscript(2629642516, "Current Game","KingPin Hub", "Uploaded by itzjserror on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/KingPin%20Hub.lua", "https://scriptblox.com/script/Bitcoin-Miner-Beta-Kingpin-Hub-9733")
-addscript(2629642516, "Current Game","OP GUI", "Uploaded by Emperor on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20GUI.lua", "https://scriptblox.com/script/Bitcoin-Miner-Beta-OP-GUI-10240")
-addscript(2629642516, "Current Game","GUI", "Uploaded by MaxFlixel on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/GUI.lua", "https://scriptblox.com/script/Bitcoin-Miner-Beta-GUI-10245")

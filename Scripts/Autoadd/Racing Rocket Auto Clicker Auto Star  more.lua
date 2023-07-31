@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/PXTTXRN/RacingRocket/main/RR.lua", true))()

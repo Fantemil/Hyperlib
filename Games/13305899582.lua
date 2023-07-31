@@ -1,2 +1,0 @@
-
-addscript(13305899582, "Current Game","Inf Coin n Instant Win and more", "Uploaded by KhSaeed90 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Inf%20Coin%20n%20Instant%20Win%20and%20more.lua", "https://scriptblox.com/script/Easy-Color-Switch-Obby!-Inf-Coin-n-Instant-Win-and-more-11968")

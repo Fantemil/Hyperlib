@@ -1,1 +1,0 @@
-loadstring(game:HttpGet('https://raw.githubusercontent.com/sunkenball/Games/main/CC2.lua'))()

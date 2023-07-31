@@ -1,2 +1,0 @@
-
-addscript(12273954226, "Current Game","Easily", "Uploaded by El_Blox on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Easily.lua", "https://scriptblox.com/script/make-tixtoks-to-escape-school-tycoon-Easily-11312")

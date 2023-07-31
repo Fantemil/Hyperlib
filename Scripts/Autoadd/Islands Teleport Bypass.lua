@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/samuelLovesPie/verm_releases/main/IslandsTPBypass.lua"))()

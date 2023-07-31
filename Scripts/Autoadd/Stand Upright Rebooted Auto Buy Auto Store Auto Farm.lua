@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/PrivEma/Scripts/main/EzerHub.lua"))()

@@ -1,3 +1,0 @@
-
-addscript(10534865425, "Current Game","Autofarm", "Uploaded by SpinnyMemer on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Autofarm.lua", "https://scriptblox.com/script/3X-XP!-Hoop-Simulator-Autofarm-11229")
-addscript(10534865425, "Current Game","MaddHub Free Key", "Uploaded by maddjester on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MaddHub%20Free%20Key.lua", "https://scriptblox.com/script/2X-Hoop-Simulator!-MaddHub-Free-Key-11685")

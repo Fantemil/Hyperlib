@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Blackout4781/ama-hub-scripts/main/Legends%20ReWritten"))()

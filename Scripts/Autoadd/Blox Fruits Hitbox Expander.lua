@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/iiprixe/BloxFruitExdender/main/Open-For-Skids-Source"))()

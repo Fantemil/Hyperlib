@@ -1,1 +1,0 @@
-game:GetService("ReplicatedStorage").Remote.Event.Game["[C-S]PlayerPick"]:FireServer(99999999) --- How Much u want

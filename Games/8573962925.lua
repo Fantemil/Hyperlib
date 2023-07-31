@@ -1,2 +1,0 @@
-
-addscript(8573962925, "Current Game","Auto dodge", "Uploaded by Flames on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20dodge.lua", "https://scriptblox.com/script/Alternate-Battlegrounds-Auto-dodge-10733")

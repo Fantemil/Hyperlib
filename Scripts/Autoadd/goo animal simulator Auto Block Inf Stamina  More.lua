@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/alexbomb6666/roblox_scripts/main/goo-animal-sim", true))()

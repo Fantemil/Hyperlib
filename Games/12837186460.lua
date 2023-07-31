@@ -1,2 +1,0 @@
-
-addscript(12837186460, "Current Game","autofarmer", "Uploaded by hellokilla599 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/autofarmer.lua", "https://scriptblox.com/script/homework-shredding-simulator-autofarmer-11321")

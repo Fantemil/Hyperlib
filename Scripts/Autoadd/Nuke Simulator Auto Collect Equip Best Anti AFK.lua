@@ -1,1 +1,0 @@
-loadstring(game:HttpGet('https://raw.githubusercontent.com/eufoni02/emperor/main/autocollectnukesim.lua'))()

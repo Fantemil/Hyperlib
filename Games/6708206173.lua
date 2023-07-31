@@ -1,4 +1,0 @@
-
-addscript(6708206173, "Current Game","Trivia Booth", "Uploaded by MasterOwen on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Trivia%20Booth.lua", "https://scriptblox.com/script/Rate-My-Avatar-Trivia-Booth-9003")
-addscript(6708206173, "Current Game","Self Bot", "Uploaded by liamswekwert on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Self%20Bot.lua", "https://scriptblox.com/script/Rate-My-Avatar-Self-Bot2-10999")
-addscript(6708206173, "Current Game","FE Chat Controller V", "Uploaded by fear on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FE%20Chat%20Controller%20V.lua", "https://scriptblox.com/script/Rate-My-Avatar-FE-Chat-Controller-V2-11097")

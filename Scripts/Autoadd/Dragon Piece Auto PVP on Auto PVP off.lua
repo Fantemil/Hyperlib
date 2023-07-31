@@ -1,1 +1,0 @@
-game:GetService("ReplicatedStorage").AntiTim:FireServer()

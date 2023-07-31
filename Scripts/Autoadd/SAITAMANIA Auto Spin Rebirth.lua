@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/ufouzzed/tempararrer/main/TempScriptLInk"))()

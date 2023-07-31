@@ -1,3 +1,0 @@
-
-addscript(12945295490, "Current Game","Auto Reload", "Uploaded by GhostyDuckyy on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Reload.lua", "https://scriptblox.com/script/5M-Tank-Simulator-X-(Clicker)-Auto-Reload-11950")
-addscript(12945295490, "Current Game","Auto Reload", "Uploaded by GhostyDuckyy on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Reload.lua", "https://scriptblox.com/script/5M-Tank-Simulator-X-(Clicker)-Auto-Reload-11950")

@@ -1,3 +1,0 @@
-
-addscript(11238892040, "Current Game","Answers i can find f now", "Uploaded by funforzch on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Answers%20i%20can%20find%20f%20now.lua", "https://scriptblox.com/script/Type-or-Die-Answers-i-can-find-f-now-11300")
-addscript(11238892040, "Current Game","Answers i can find f now", "Uploaded by funforzch on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Answers%20i%20can%20find%20f%20now.lua", "https://scriptblox.com/script/Type-or-Die-Answers-i-can-find-f-now-11300")

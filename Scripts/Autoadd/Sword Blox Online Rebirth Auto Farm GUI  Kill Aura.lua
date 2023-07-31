@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Ausommet/ScriptZSave/main/auto-farm.lua", true))()

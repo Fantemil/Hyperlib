@@ -1,3 +1,0 @@
-
-addscript(7180042682, "Current Game","Find The Jammer Items Farm", "Uploaded by Oopss on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Find%20The%20Jammer%20Items%20Farm.lua", "https://scriptblox.com/script/HACKER!-Military-Tycoon-Find-The-Jammer-Items-Farm-10756")
-addscript(7180042682, "Current Game","Capture All Flags", "Uploaded by Tomato on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Capture%20All%20Flags.lua", "https://scriptblox.com/script/WARSHIP!-Military-Tycoon-Capture-All-Flags-10433")

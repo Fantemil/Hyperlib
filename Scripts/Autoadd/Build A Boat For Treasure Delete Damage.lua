@@ -1,1 +1,0 @@
-game.Players.LocalPlayer.Character.WaterDetector:Destroy()

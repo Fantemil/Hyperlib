@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/halloweevn/roblox-scripts/main/MonkeyTycoon.lua", true))();

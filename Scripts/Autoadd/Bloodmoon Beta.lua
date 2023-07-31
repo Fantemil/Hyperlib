@@ -1,1 +1,0 @@
-loadstring(game:HttpGet('https://raw.githubusercontent.com/RustMani/BloodmoonBeta/main/Open%20Source'))()

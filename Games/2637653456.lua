@@ -1,2 +1,0 @@
-
-addscript(2637653456, "Current Game","Collect Egg Open Source", "Uploaded by petxmr on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Collect%20Egg%20Open%20Source.lua", "https://scriptblox.com/script/EGG-HUNT-%2B-MORE-Drift-Paradise-Collect-Egg-10427")

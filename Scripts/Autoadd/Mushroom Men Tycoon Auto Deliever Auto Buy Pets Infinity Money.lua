@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/dielanforrealms/-The-Mushroom-Man-Tycoon-GUI/main/Source%20Code",true))()

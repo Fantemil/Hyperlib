@@ -1,1 +1,0 @@
-loadstring(game:HttpGet(("https://raw.githubusercontent.com/Robobo2022/Fun/main/spinbot.lua"), true))()

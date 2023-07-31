@@ -1,4 +1,0 @@
-
-addscript(12218115185, "Current Game","IceWre V", "Uploaded by capi on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/IceWre%20V.lua", "https://scriptblox.com/script/Become-a-hacker-to-prove-dad-wrong-tycoon-IceWre-V2-11448")
-addscript(12218115185, "Current Game","inf money", "Uploaded by hashkiller123 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/inf%20money.lua", "https://scriptblox.com/script/Become-a-hacker-to-prove-dad-wrong-tycoon-u-frm-10615")
-addscript(12218115185, "Current Game","Qunity", "Uploaded by Empire4946 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Qunity.lua", "https://scriptblox.com/script/VIRUS-Become-a-hacker-to-prove-dad-wrong-tycoon-Qunity-10962")

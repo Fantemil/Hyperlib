@@ -1,2 +1,0 @@
-
-addscript(221718525, "Current Game","Ninja script", "Uploaded by Ali1194 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ninja%20script.lua", "https://scriptblox.com/script/UPPDATENinja-Tycoon-(v4.3)-Infinite-Money-OP-10224")

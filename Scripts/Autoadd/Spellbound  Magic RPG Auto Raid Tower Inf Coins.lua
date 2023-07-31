@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/SlamminPig/rblxgames/main/Spellbound%20RPG/SpellboundGui"))()

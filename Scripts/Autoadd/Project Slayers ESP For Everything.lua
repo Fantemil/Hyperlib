@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/SkinnyBonz/Master-hub/main/Client"))()

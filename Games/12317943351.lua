@@ -1,2 +1,0 @@
-
-addscript(12317943351, "Current Game","admin cmds", "Uploaded by verycoolname on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/admin%20cmds.lua", "https://scriptblox.com/script/MinerShaft-Minecraft!-admin-cmds-10581")

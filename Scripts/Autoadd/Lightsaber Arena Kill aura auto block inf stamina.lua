@@ -1,1 +1,0 @@
-loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/kinhey/scripts/main/lightsaber_arena.lua"))()

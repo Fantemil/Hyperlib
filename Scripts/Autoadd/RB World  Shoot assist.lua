@@ -1,1 +1,0 @@
-https://raw.githubusercontent.com/sinret/f/main/RB%20World%204%20script%2C.?token=GHSAT0AAAAAABX3B6G3URWQ7CEYSL74Q7YAYYCG2AA

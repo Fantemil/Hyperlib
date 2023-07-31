@@ -1,1 +1,0 @@
-loadstring(game:HttpGet('https://raw.githubusercontent.com/tkorra/bp-gui/main/main.lua'))()

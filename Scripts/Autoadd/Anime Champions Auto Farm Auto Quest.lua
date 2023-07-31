@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/reavscripts/AnimeChampions/main/AnimeChampions.lua", true))()

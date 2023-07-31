@@ -1,1 +1,0 @@
-loadstring(game:HttpGet"https://raw.githubusercontent.com/ScadeBlock/M3Q/main/Main/Version/Release/M3Q-stable.lua")()

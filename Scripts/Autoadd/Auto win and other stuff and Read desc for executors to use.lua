@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/WinterDinder/Stairs-Of-Rage/main/Main", true))()

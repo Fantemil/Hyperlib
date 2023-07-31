@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Dodozz/TDS-HUB/main/Hub.lua"))()

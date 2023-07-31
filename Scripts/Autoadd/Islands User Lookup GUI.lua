@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Nameless9000/RbxScripts/main/IslandsLookupGui.lua"))()

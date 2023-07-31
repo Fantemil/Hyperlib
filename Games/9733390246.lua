@@ -1,2 +1,0 @@
-
-addscript(9733390246, "Current Game","OP AUTO SCRIPT", "Uploaded by frenzystuff2 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20AUTO%20SCRIPT.lua", "https://scriptblox.com/script/New-Crates!-Stair-Tappers!-OP-AUTO-SCRIPT-9123")

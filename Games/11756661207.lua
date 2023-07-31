@@ -1,4 +1,0 @@
-
-addscript(11756661207, "Current Game","Auto win and other stuff and Read desc for executors to use", "Uploaded by linneythewinney on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20win%20and%20other%20stuff%20and%20Read%20desc%20for%20executors%20to%20use.lua", "https://scriptblox.com/script/Stairs-Of-RAGE!-Auto-win-and-other-stuff-and-Read-desc-for-executors-to-use-10897")
-addscript(11756661207, "Current Game","autofarm", "Uploaded by Mp4Boi on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/autofarm.lua", "https://scriptblox.com/script/Stairs-Of-RAGE!-autofarm-8763")
-addscript(11756661207, "Current Game","Win Farm", "Uploaded by nuts on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Win%20Farm.lua", "https://scriptblox.com/script/Stairs-Of-RAGE!-Win-Farm-10117")

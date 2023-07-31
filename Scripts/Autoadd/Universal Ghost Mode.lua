@@ -1,1 +1,0 @@
-loadstring(game:HttpGet('https://raw.githubusercontent.com/yeerma/fff/main/make-a-CW-on-oooga-booga'))()

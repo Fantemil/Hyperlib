@@ -1,1 +1,0 @@
-Game:GetService("Players").LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(2518.2, 728.8, 3626.803)

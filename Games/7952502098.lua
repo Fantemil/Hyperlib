@@ -1,3 +1,0 @@
-
-addscript(7952502098, "Current Game","for gay squid game", "Uploaded by zbmx on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/for%20gay%20squid%20game.lua", "https://scriptblox.com/script/Impossible-Glass-Bridge-Obby!-(Squid-Game)-for-gay-squid-game-10571")
-addscript(7952502098, "Current Game","obby script UPDATED", "Uploaded by froggybxmb on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/obby%20script%20UPDATED.lua", "https://scriptblox.com/script/Impossible-Glass-Bridge-Obby!-(Squid-Game)-Glass-bridge-obby-script-9135")

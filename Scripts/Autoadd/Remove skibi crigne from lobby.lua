@@ -1,1 +1,0 @@
-game.Workspace.Lobby.NewEntity:Destroy()

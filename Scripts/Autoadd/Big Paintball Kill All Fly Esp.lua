@@ -1,1 +1,0 @@
-loadstring(game:HttpGet('https://raw.githubusercontent.com/Oldspak/gjgjm/main/ggjg'))()

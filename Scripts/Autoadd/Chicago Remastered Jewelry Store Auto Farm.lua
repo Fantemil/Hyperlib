@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/jasonsworks/cr-autofarm/master/main.lua"))()

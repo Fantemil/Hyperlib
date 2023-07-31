@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/QuantumPsyche/sistemexidus/main/Clicking%20Simulator.lua"))()

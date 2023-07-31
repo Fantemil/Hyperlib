@@ -1,1 +1,0 @@
- loadstring(game:HttpGet("https://raw.githubusercontent.com/MrMandM123/uhmm-sorry-/main/aim",true))();

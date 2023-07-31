@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Ghostmode65/STK-Bo2/master/STK-Menus/v7/STKv7-Engine-Edition-LoadString.txt"))()

@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/AdvancedWare/VScript/main/0.1.7a", true))()

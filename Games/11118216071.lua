@@ -1,2 +1,0 @@
-
-addscript(11118216071, "Current Game","GUI", "Uploaded by GhostyDuckyy on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/GUI.lua", "https://scriptblox.com/script/EVENT-Pet-Trading-Card-Simulator-GUI-9220")

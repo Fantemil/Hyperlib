@@ -1,4 +1,0 @@
-
-addscript(12202678406, "Current Game","Boombox", "Uploaded by EgyBestBuddy on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Boombox.lua", "https://scriptblox.com/script/TWICE-SQUARE-Boombox-10933")
-addscript(12202678406, "Current Game","Hair Script", "Uploaded by EgyBestBuddy on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Hair%20Script.lua", "https://scriptblox.com/script/TWICE-SQUARE-Hair-Script-10931")
-addscript(12202678406, "Current Game","event item", "Uploaded by backdoor on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/event%20item.lua", "https://scriptblox.com/script/MINA-BIRTHDAY-EVENT-TWICE-Square-event-item-9909")

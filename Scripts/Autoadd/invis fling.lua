@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Fearlocked/FE-Invisible-Fling/main/FE%20Invisible%20Fling"))()

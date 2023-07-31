@@ -1,1 +1,0 @@
-loadstring(game:HttpGet('https://scripts.luawl.com/13589/[PROD]ProjectX.lua'))()

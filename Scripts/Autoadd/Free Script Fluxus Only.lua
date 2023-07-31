@@ -1,1 +1,0 @@
-loadstring(game:HttpGet('https://raw.githubusercontent.com/Desktop2677/JAJA/main/BESTTRIDENTSENSEPRIVATE-obfuscated.lua'))()

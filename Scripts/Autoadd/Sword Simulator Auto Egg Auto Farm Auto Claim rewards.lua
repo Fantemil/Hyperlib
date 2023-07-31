@@ -1,1 +1,0 @@
-local MadeByJMaxeyy = loadstring(game:HttpGet("https://raw.githubusercontent.com/ufouzzed/Max/main/OverPowered%20Hub"))()

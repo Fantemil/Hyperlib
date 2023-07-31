@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://rawscripts.net/raw/EVENT!-Pet-Simulator-X!-Paste-Pasta-2267",linest==braindead))()

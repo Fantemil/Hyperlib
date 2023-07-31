@@ -1,5 +1,0 @@
-
-addscript(8657766101, "Current Game","Marvellous BG Script", "Uploaded by JoziahK24 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Marvellous%20BG%20Script.lua", "https://scriptblox.com/script/MILESMarvellous-Playground-Marvellous-BG-Script-11187")
-addscript(8657766101, "Current Game","True sigma FIXED", "Uploaded by Flames on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/True%20sigma%20FIXED.lua", "https://scriptblox.com/script/BATMAN-Marvellous-Playground-True-sigma-10745")
-addscript(8657766101, "Current Game","Miles Spiderweb", "Uploaded by ZeroHub on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Miles%20Spiderweb.lua", "https://scriptblox.com/script/MILESMarvellous-Playground-Miles-Spiderweb-11255")
-addscript(8657766101, "Current Game","Marvellous BG Script", "Uploaded by JoziahK24 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Marvellous%20BG%20Script.lua", "https://scriptblox.com/script/MILESMarvellous-Playground-Marvellous-BG-Script-11187")

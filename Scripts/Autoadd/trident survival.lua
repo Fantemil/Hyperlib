@@ -1,1 +1,0 @@
-loadstring(game:HttpGet('https://raw.githubusercontent.com/BigHacker123/BurnHubFree/main/BurnHub%20Free'))()

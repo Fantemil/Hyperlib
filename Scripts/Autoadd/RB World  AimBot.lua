@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Legenda06/RB-World-4/main/README.md"))()

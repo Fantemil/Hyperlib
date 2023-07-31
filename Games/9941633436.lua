@@ -1,2 +1,0 @@
-
-addscript(9941633436, "Current Game","Pick up all Stars", "Uploaded by azicity23 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pick%20up%20all%20Stars.lua", "https://scriptblox.com/script/1M-Event-%2B-x250-Rank-Simulator-Pick-up-all-Stars-10252")

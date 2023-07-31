@@ -1,4 +1,0 @@
-
-addscript(8657806289, "Current Game","Gun Mods", "Uploaded by yoyoyoo on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Gun%20Mods.lua", "https://scriptblox.com/script/Dummies-vs-Noobs-Gun-Mods-12143")
-addscript(8657806289, "Current Game","Gun Mods", "Uploaded by yoyoyoo on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Gun%20Mods.lua", "https://scriptblox.com/script/Dummies-vs-Noobs-Gun-Mods-12143")
-addscript(8657806289, "Current Game","Gun Mods", "Uploaded by yoyoyoo on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Gun%20Mods.lua", "https://scriptblox.com/script/Dummies-vs-Noobs-Gun-Mods-12143")

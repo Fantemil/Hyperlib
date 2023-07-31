@@ -1,2 +1,0 @@
-
-addscript(2295122555, "Current Game","Nova V but open source", "Uploaded by DefinitelyNotJiver on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Nova%20V%20but%20open%20source.lua", "https://scriptblox.com/script/Project-JoJo-Nova-V8-but-open-source-9109")

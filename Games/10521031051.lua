@@ -1,2 +1,0 @@
-
-addscript(10521031051, "Current Game","AutoFarm", "Uploaded by cayediyt on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AutoFarm.lua", "https://scriptblox.com/script/CHAINSAW-Anime-Simulator-AutoFarm-9943")

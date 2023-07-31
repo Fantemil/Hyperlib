@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://moonlighthub.wtf/town.lua"))()

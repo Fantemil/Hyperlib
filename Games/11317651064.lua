@@ -1,3 +1,0 @@
-
-addscript(11317651064, "Current Game","rampant no cooldown script", "Uploaded by ChaoticScripts on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/rampant%20no%20cooldown%20script.lua", "https://scriptblox.com/script/Rampant:-Blade-Battleground-rampant-no-cooldown-script-11451")
-addscript(11317651064, "Current Game","Rampant battle grounds", "Uploaded by avarice on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Rampant%20battle%20grounds.lua", "https://scriptblox.com/script/Rampant:-Blade-Battleground-Rampant-battle-grounds-11343")

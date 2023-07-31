@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/MercyfulSmoked/localplayerisback/main/local's%20hub"))()

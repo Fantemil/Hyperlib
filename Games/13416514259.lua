@@ -1,2 +1,0 @@
-
-addscript(13416514259, "Current Game","OVERPOWERED AUTOFARM GUI", "Uploaded by zerticzy on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OVERPOWERED%20AUTOFARM%20GUI.lua", "https://scriptblox.com/script/Shadow-Boxing-Battles-OVERPOWERED-AUTOFARM-GUI-12012")

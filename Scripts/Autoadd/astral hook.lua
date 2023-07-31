@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/blooodlines/astralhook/main/9049840490"))()

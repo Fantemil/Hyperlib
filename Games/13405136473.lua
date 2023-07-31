@@ -1,2 +1,0 @@
-
-addscript(13405136473, "Current Game","Free Avatar Item", "Uploaded by Killa on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Free%20Avatar%20Item.lua", "https://scriptblox.com/script/PLAYPRINTS-World-Free-Avatar-Item-11081")

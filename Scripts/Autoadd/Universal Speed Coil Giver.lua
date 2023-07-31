@@ -1,1 +1,0 @@
-loadstring(game:HttpGet(('https://raw.githubusercontent.com/CJFabro8/Client-Things/main/Speed%20Coil'),true))() -- Speed Coil

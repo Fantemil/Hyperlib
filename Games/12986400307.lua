@@ -1,3 +1,0 @@
-
-addscript(12986400307, "Current Game","One Shot", "Uploaded by KEPA on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/One%20Shot.lua", "https://scriptblox.com/script/UPD!SkibiSword-Warriors-One-Shot-11366")
-addscript(12986400307, "Current Game","One Shot", "Uploaded by KEPA on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/One%20Shot.lua", "https://scriptblox.com/script/UPD!SkibiSword-Warriors-One-Shot-11366")

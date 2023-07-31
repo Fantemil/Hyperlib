@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/vsyncdeveloper/vsync/main/Glass-bridge-obby.lua"))()

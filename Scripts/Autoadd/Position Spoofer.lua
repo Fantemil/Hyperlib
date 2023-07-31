@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/kooggy/Scripts/main/Position%20Spoofer.lua"))()

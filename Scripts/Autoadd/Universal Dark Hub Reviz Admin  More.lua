@@ -1,1 +1,0 @@
-loadstring(game:HttpGet(('https://raw.githubusercontent.com/Gillranveer12/main/main/Wang%20Hub%20Protected.lua'),true))()

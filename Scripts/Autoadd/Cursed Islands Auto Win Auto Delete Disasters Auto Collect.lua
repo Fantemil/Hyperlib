@@ -1,1 +1,0 @@
-loadstring(game:HttpGetAsync('https://raw.githubusercontent.com/CrapTheKid/Cursed-Islands-GUI-v2/main/Cursed%20Islands%20GUI%20v2'))()

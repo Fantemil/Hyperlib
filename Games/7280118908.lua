@@ -1,2 +1,0 @@
-
-addscript(7280118908, "Current Game","music id hub bypassed Updated ", "Uploaded by sharmarkadan31 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/music%20id%20hub%20bypassed%20Updated%20.lua", "https://scriptblox.com/script/School-Simulator-music-ids-hub-bypassed-10267")

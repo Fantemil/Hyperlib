@@ -1,1 +1,0 @@
-loadstring(game.HttpGet(game, "https://raw.githubusercontent.com/xaxaxaxaxaxaxaxaxa/RobloxScripts/main/PrisonLifeRemastered/silent-aim.lua"))();

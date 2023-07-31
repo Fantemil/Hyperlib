@@ -1,2 +1,0 @@
-
-addscript(11689178347, "Current Game","Auto Farm Basically Everything Open Source", "Uploaded by Skids on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Farm%20Basically%20Everything%20Open%20Source.lua", "https://scriptblox.com/script/Super-Store-Tycoon-Auto-Farm-Basically-Everything-9336")

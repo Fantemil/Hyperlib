@@ -1,2 +1,0 @@
-
-addscript(5307215810, "Current Game","Randomizer AimNot", "Uploaded by kosh on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Randomizer%20AimNot.lua", "https://scriptblox.com/script/Randomizer-(V.0.2.1d)-Randomizer-AimNot-9236")

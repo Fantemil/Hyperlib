@@ -1,2 +1,0 @@
-
-addscript(7449423635, "Current Game","Fruit Notifier", "Uploaded by euyogi on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Fruit%20Notifier.lua", "https://scriptblox.com/script/Blox-Fruits-Fruit-Notifier-for-Free-11108")

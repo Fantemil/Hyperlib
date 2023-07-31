@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/ShalevRBLX/dahoodscripts/main/dahood"))()

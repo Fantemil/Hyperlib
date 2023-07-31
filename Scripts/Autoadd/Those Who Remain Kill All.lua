@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/realismOwO/twrpublic/main/killall.lua"))()

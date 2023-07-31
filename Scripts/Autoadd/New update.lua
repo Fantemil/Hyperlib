@@ -1,1 +1,0 @@
---BROUGHT TO YOU BY ROBLOXSCRIPTS.NET!-- loadstring(game:HttpGet("https://raw.githubusercontent.com/ArponAG/Scripts/main/AnimeAdventures_v2__Beta.lua"))()

@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Disttt/-Arcane-Odyssey/main/Teleport%20GUI.lua"))()

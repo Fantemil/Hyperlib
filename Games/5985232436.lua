@@ -1,2 +1,0 @@
-
-addscript(5985232436, "Current Game","OP Script", "Uploaded by EgyBestBuddy on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20Script.lua", "https://scriptblox.com/script/Infectious-Smile-OP-Script-10927")

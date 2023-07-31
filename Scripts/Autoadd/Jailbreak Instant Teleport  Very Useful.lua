@@ -1,1 +1,0 @@
-game:GetService("ReplicatedStorage").RBBattlesTeleportRemote:FireServer({CFrame=CFrame.new(50,5,50)})

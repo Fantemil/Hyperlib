@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/dreidelman/roblox-scripts/main/Arsenal-MURDER/loot-esp.lua"))();

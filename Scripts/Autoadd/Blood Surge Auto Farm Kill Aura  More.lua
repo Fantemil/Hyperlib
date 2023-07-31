@@ -1,1 +1,0 @@
-loadstring(game:HttpGet('https://raw.githubusercontent.com/ImSa1f/BloodSurgePublic/main/LofiIsCute', true))()

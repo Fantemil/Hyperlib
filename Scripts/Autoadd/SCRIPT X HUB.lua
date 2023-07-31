@@ -1,1 +1,0 @@
-loadstring(game:HttpGet(('https://raw.githubusercontent.com/Berliandakhensy/KENZY1/main/OFFICIAL')))()

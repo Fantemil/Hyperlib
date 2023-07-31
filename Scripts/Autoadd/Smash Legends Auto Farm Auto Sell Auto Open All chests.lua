@@ -1,1 +1,0 @@
-loadstring(game:HttpGet('https://raw.githubusercontent.com/Taokotenl/TDA_TEAM_X/main/Hub', true))()

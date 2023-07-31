@@ -1,1 +1,0 @@
-loadstring(game:HttpGet('https://raw.githubusercontent.com/yeerma/such/main/Project%20Gaming%20damage%20mod%20.txt'))()

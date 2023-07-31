@@ -1,2 +1,0 @@
-
-addscript(13193211491, "Current Game","Op gui", "Uploaded by Hamburga on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Op%20gui.lua", "https://scriptblox.com/script/Fatal-EventPretty-Balanced-Soul-Ops-Op-gui-11345")

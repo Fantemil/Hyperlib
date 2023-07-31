@@ -1,2 +1,0 @@
-
-addscript(10558210932, "Current Game","AutoWin Finish Minigames etc", "Uploaded by gamingavronyt on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AutoWin%20Finish%20Minigames%20etc.lua", "https://scriptblox.com/script/The-Test-Alpha-AutoWin-Finish-Minigames-etc-10762")

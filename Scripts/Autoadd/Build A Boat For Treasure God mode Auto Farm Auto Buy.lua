@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://gamingresources.github.io/17F7OScripts/BuildABoatForTreasure.lua"))()

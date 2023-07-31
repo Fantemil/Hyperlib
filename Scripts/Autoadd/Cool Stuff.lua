@@ -1,1 +1,0 @@
-loadstring(game:HttpGet('https://raw.githubusercontent.com/Kykrix/bully/main/playground2.lua'))()

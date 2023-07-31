@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Yaki-0/Roblox/main/scripts/AUT.lua"))()

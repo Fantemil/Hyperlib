@@ -1,1 +1,0 @@
-game.Players.LocalPlayer.Character:MoveTo(Vector3.new(100000000000000000,0,0))

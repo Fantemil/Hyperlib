@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://scriptblox.com/raw/BedWars-SEASON-3!-vape-v4-private-reupload-8433"))()

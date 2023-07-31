@@ -1,1 +1,0 @@
-loadstring(game:HttpGetAsync[[https://raw.githubusercontent.com/ImMejor35/Raise-a-Peter/main/Petir%20Eatir]]){"Script By: Tomato#8836"}

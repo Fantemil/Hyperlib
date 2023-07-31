@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/2567-rblx/scripts/main/Beatland_CollectAll.lua"))()

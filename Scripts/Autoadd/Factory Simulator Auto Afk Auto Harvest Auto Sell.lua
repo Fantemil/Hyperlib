@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/PainfulDestroyer/FactorySim/main/FactorySim.lua"))()

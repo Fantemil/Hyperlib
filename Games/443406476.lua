@@ -1,3 +1,0 @@
-
-addscript(443406476, "Current Game","points admin command", "Uploaded by Oooga_booga on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/points%20admin%20command.lua", "https://scriptblox.com/script/Project-Lazarus:-ZOMBIES-points-admin-command-11726")
-addscript(443406476, "Current Game","points admin command", "Uploaded by Oooga_booga on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/points%20admin%20command.lua", "https://scriptblox.com/script/Project-Lazarus:-ZOMBIES-points-admin-command-11726")

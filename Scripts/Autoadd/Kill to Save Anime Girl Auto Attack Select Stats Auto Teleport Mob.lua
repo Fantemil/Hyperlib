@@ -1,1 +1,0 @@
-https://www.roblox.com/games/12681406213/Kill-to-Save-Anime-Girl-Simulator

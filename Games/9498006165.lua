@@ -1,4 +1,0 @@
-
-addscript(9498006165, "Current Game","AutoFarm", "Uploaded by beliveri12 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AutoFarm.lua", "https://scriptblox.com/script/UPDATE-Tapping-Simulator-AutoFarm-9588")
-addscript(9498006165, "Current Game","Luxer Hub", "Uploaded by hamman on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Luxer%20Hub.lua", "https://scriptblox.com/script/Tapping-Simulator!-Luxer-Hub-10117")
-addscript(9498006165, "Current Game","AUTOFARM AND AUTO REBIRTH", "Uploaded by froggybxmb on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AUTOFARM%20AND%20AUTO%20REBIRTH.lua", "https://scriptblox.com/script/UPDATE-Tapping-Simulator-AUTOFARM-AND-AUTO-REBIRTH-9201")

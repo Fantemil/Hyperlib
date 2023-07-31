@@ -1,2 +1,0 @@
-
-addscript(1501436287, "Current Game","ur doggy water", "Uploaded by ilikesoup on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ur%20doggy%20water.lua", "https://scriptblox.com/script/Mako-Mermaids-ur-doggy-water-8981")

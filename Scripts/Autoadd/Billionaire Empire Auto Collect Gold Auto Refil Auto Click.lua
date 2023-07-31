@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/kederal/Public-Scripts/main/Billionaire-Empire.lua"))()

@@ -1,1 +1,0 @@
-loadstring(game:HttpGet(('https://raw.githubusercontent.com/reasons240/animalsimulator/main/autofarm'),true))()

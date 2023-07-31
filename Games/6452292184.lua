@@ -1,2 +1,0 @@
-
-addscript(6452292184, "Current Game","instantwin", "Uploaded by dsploiter on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/instantwin.lua", "https://scriptblox.com/script/Speed-Runner!-instantwin-10970")

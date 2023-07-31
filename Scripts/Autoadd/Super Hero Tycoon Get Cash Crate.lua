@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://rawscripts.net/raw/Super-Hero-Tycoon-Crate-collect-9930"))()

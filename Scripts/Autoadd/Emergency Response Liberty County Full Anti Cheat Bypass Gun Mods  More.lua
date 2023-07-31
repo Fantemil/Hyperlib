@@ -1,1 +1,0 @@
-loadstring(game:HttpGet('https://raw.githubusercontent.com/IceMinisterq/Altraxs-Hub/main/ER%3ALC'))()

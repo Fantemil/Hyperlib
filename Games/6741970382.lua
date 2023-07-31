@@ -1,4 +1,0 @@
-
-addscript(6741970382, "Current Game","Anticheatbypass Curegiver Virusgiver", "Uploaded by copypaste on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anticheatbypass%20Curegiver%20Virusgiver.lua", "https://scriptblox.com/script/Zombie-lab-Skins!-Anticheatbypass-Curegiver-Virusgiver-9060")
-addscript(6741970382, "Current Game","Kill all", "Uploaded by roninpilot1 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Kill%20all.lua", "https://scriptblox.com/script/Zombie-lab-Skins!-cba-8811")
-addscript(6741970382, "Current Game","autofarm credits so bad", "Uploaded by botbrostopusing on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/autofarm%20credits%20so%20bad.lua", "https://scriptblox.com/script/Zombie-lab-Skins!-autofarm-credits-so-bad-8800")

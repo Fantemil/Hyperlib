@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/CosmoCircle/scripts/main/Kill%20Monsters%20to%20Save%20Princess%20GUI",true))()

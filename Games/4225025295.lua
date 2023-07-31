@@ -1,2 +1,0 @@
-
-addscript(4225025295, "Current Game","Farm Players Script full source", "Uploaded by Skids on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Farm%20Players%20Script%20full%20source.lua", "https://scriptblox.com/script/OP-NINJA-SIMULATOR-Farm-Players-Script-en-Source-10105")

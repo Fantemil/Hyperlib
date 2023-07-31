@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://rawscripts.net/raw/STRONGEST-PUNCH-SIMULATOR-Auto-Farm-7569"))()

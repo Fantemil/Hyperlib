@@ -1,1 +1,0 @@
-game.ReplicatedStorage.UpgradeEquip:FireServer("UFO Camera")

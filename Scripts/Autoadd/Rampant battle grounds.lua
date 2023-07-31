@@ -1,3 +1,0 @@
-https://www.youtube.com/watch?v=O6CjioFFIVc
-
-you gotta join discord server, but idk for some reason i cant generate a invite so this...

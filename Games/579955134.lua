@@ -1,2 +1,0 @@
-
-addscript(579955134, "Current Game","Flexware script", "Uploaded by nameis_randd on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Flexware%20script.lua", "https://scriptblox.com/script/Auto-Rap-Battles-Flexware-script-8818")

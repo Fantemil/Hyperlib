@@ -1,2 +1,0 @@
-
-addscript(891539556, "Current Game","TOO EZ Hub", "Uploaded by Cranium on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TOO%20EZ%20Hub.lua", "https://scriptblox.com/script/Faction-Defense-Tycoon-UPDATE-TOO-EZ-OP-SCRIPT-10653")

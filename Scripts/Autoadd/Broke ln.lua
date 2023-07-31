@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Scriptingdude/BreakInStory/main/BreakIn2.lua"))()

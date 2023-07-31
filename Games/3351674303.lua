@@ -1,3 +1,0 @@
-
-addscript(3351674303, "Current Game","EVENT AUTOFARM", "Uploaded by TheScriptFinder on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/EVENT%20AUTOFARM.lua", "https://scriptblox.com/script/NEW-MAP!-Driving-Empire-EVENT-AUTOFARM-9991")
-addscript(3351674303, "Current Game","Shipt App Event Autofarm Script", "Uploaded by zerticzy on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Shipt%20App%20Event%20Autofarm%20Script.lua", "https://scriptblox.com/script/Driving-Empire-Shipt-App-Event-Autofarm-Script-11751")

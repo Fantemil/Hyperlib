@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/scripter4863/KeySystem/main/KeySystem.lua"))()

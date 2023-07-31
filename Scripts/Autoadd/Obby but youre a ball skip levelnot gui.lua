@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Untoast/Obby-but-you-re-a-ball/main/Skip%20current%20level(not%20gui)", true))()

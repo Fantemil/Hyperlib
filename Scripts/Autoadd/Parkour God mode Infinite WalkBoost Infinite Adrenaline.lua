@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/xgamerman626/Hub/main/Init.lua"))()

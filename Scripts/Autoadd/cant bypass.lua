@@ -1,1 +1,0 @@
-	game:GetService("Players").LocalPlayer.Character.Humanoid.JumpPower = Wut ever value you want

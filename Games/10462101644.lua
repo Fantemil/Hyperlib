@@ -1,2 +1,0 @@
-
-addscript(10462101644, "Current Game","kick all server hop", "Uploaded by thanhtam8765 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/kick%20all%20server%20hop.lua", "https://scriptblox.com/script/Tall-Man-Run-kick-all-server-hop-8703")

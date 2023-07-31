@@ -1,1 +1,0 @@
-loadstring(game:HttpGet('https://raw.githubusercontent.com/V3locities/illusion/main/illusionhub.lua'))()

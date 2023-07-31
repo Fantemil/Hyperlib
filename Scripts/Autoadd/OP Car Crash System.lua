@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/JustDevT/Roblox/main/CCS%20Script.lua",true))()

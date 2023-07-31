@@ -1,1 +1,0 @@
-game:GetService("TeleportService"):Teleport(11761657847, LocalPlayer) -- this is for gold star casino [map for the auto farm]

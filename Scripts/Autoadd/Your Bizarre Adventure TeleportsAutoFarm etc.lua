@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/castycheat/script-your-bizarre/main/Protected%20(13).lua"))()

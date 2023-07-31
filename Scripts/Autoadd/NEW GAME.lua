@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Xyl3ntHacks/Knife-Clicker-Simulator-/main/main", true))()

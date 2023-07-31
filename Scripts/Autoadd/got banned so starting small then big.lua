@@ -1,1 +1,0 @@
-https://raw.githubusercontent.com/Blackout4781/Roblox-Scripts/main/ProjectSlayersSmall.lua

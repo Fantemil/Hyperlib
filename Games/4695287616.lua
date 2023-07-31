@@ -1,2 +1,0 @@
-
-addscript(4695287616, "Current Game","Fe bypass", "Uploaded by enes584458 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Fe%20bypass.lua", "https://scriptblox.com/script/F3X-SandBox-(-F3X-Building-Tools-World-)-Fe-bypass-11700")

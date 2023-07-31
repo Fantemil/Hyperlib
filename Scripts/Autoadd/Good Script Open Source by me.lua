@@ -1,1 +1,0 @@
-loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/Zockerhd01/Scripts/main/Meme%20Mergers%20Script%20(OPEN%20SOURCE)"))()

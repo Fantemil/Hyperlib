@@ -1,3 +1,0 @@
-
-addscript(11708967881, "Current Game","utofrm", "Uploaded by zaee on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/utofrm.lua", "https://scriptblox.com/script/Yeet-A-Friend!-utofrm-11367")
-addscript(11708967881, "Current Game","Teleport to Worlds  Pet  Egg Section", "Uploaded by 1xgrr on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Teleport%20to%20Worlds%20%20Pet%20%20Egg%20Section.lua", "https://scriptblox.com/script/Yeet-A-Friend!-friend-11274")

@@ -1,4 +1,0 @@
-
-addscript(4522347649, "Current Game","FE Head Build", "Uploaded by Username_Is_Taken on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FE%20Head%20Build.lua", "https://scriptblox.com/script/FREE-ADMIN-FE-Head-Build-10305")
-addscript(4522347649, "Current Game","Fedoratum Admin Abuser READ DESC", "Uploaded by ScriptFinder on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Fedoratum%20Admin%20Abuser%20READ%20DESC.lua", "https://scriptblox.com/script/FREE-ADMIN-Fedoratum-Admin-Abuser-READ-DESC-8712")
-addscript(4522347649, "Current Game","free cmds", "Uploaded by Sizz on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/free%20cmds.lua", "https://scriptblox.com/script/FREE-ADMIN-free-cmds-11006")

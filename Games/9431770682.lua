@@ -1,2 +1,0 @@
-
-addscript(9431770682, "Current Game","Auto craft and more", "Uploaded by linneythewinney on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20craft%20and%20more.lua", "https://scriptblox.com/script/Lost-Rooms-UPDATE-Auto-craft-and-more-10664")

@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Demmx/ProjectNexus/main/Loader.lua"))()

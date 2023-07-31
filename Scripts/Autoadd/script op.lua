@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/leanclean/isle-/main/Secured%20isle.lua"))()

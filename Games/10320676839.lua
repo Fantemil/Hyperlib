@@ -1,2 +1,0 @@
-
-addscript(10320676839, "Current Game","Codexus Hub", "Uploaded by BeboMods on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Codexus%20Hub.lua", "https://scriptblox.com/script/SHARINGANS-Project-XXL-5.0-Codexus-Hub-11435")

@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Tumppi66/Trident-Survival-V2-FREE/main/V1.0.1%20Obfuscated.txt"))()

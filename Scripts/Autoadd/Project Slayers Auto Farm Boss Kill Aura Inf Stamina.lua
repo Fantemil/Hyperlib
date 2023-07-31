@@ -1,1 +1,0 @@
-loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/Blackout4781/Sin.xyzz/main/Project%20Slayers%20Test"))()

@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/PatricioTGN1/TGNScriptsX/main/MainEvade"))()

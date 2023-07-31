@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/ItoshiTeruz/scripts/main/ParkourESP", true))()

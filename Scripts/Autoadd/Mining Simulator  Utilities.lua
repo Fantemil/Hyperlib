@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/GreyCaat/MS2-Utilities/main/script.txt", true))()

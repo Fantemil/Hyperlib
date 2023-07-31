@@ -1,2 +1,0 @@
-
-addscript(3216576015, "Current Game","SVC XTREME SCRIPT", "Uploaded by Farzin on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SVC%20XTREME%20SCRIPT.lua", "https://scriptblox.com/script/Sans-vs-Chara-SVC-XTREME-SCRIPT-11896")

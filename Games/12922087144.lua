@@ -1,2 +1,0 @@
-
-addscript(12922087144, "Current Game","Autoslash", "Uploaded by bingusUTMA on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Autoslash.lua", "https://scriptblox.com/script/Sword-RNG-Game(Update-6!)-Autoslash-11985")

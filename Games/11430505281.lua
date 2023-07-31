@@ -1,3 +1,0 @@
-
-addscript(11430505281, "Current Game","Anime Weapon Simulator", "Uploaded by AgentRBLX on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime%20Weapon%20Simulator.lua", "https://scriptblox.com/script/Anime-Weapon-SimulatorDragon-Anime-Weapon-Simulator-9002")
-addscript(11430505281, "Current Game","Team Skeet AWS", "Uploaded by Mana on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Team%20Skeet%20AWS.lua", "https://scriptblox.com/script/Anime-Weapon-SimulatorDragon-Team-Skeet-AWS-9305")

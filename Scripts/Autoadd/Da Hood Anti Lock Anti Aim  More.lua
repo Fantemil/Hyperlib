@@ -1,1 +1,0 @@
-loadstring(game:HttpGet('https://raw.githubusercontent.com/wendigoWare/1111111/main/betaAA'))()

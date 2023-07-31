@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/dooory/OC/main/Working/hunter_x_athena_autopushup.lua"))()

@@ -1,1 +1,0 @@
-loadstring(game:HttpGet(('https://raw.githubusercontent.com/ghostapustaja/legionhub/main/bubblegum'),true))()

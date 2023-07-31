@@ -1,3 +1,0 @@
-
-addscript(10277607801, "Current Game","Shadow Scripts", "Uploaded by ShadowScripts_ on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Shadow%20Scripts.lua", "https://scriptblox.com/script/Apeirophobia-Shadow-Scripts-9650")
-addscript(10277607801, "Current Game","Frt Hub", "Uploaded by IvanFila on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Frt%20Hub.lua", "https://scriptblox.com/script/Apeirophobia-FXrt-Hub-10925")

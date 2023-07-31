@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/xxCloudd/scripts/main/fjt_auto.lua"))()

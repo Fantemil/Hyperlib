@@ -1,3 +1,0 @@
-
-addscript(12192552089, "Current Game","UPDATE  Fruit Warriors", "Uploaded by pekka13249 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/UPDATE%20%20Fruit%20Warriors.lua", "https://scriptblox.com/script/UPDATE-1-Fruit-Warriors-UPDATE-2-Fruit-Warriors-9937")
-addscript(12192552089, "Current Game","Project nexus", "Uploaded by Jd2fly on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Project%20nexus.lua", "https://scriptblox.com/script/UPDATE-1-Fruit-Warriors-Project-nexus-9830")

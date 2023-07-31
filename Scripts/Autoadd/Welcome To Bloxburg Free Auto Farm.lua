@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/DeLuxe1337001/LuaScripts/main/bloxburg_memento.lua"))()

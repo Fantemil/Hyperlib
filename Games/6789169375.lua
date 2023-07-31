@@ -1,2 +1,0 @@
-
-addscript(6789169375, "Current Game","speed", "Uploaded by hashkiller123 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/speed.lua", "https://scriptblox.com/script/ROBLOX-Cart-Ride-speed-10610")

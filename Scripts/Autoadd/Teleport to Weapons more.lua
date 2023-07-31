@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/lCarpet/Scripts/main/OB%20Area%2051%20Script"))();

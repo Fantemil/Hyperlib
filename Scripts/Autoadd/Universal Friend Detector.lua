@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://github.com/D3x-Scripts/made_by_d3x/blob/main/frienddetect.lua"))()

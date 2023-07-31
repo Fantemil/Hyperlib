@@ -1,2 +1,0 @@
-
-addscript(10979991953, "Current Game","Auto Click Before Race", "Uploaded by AverageRobloxUser on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Click%20Before%20Race.lua", "https://scriptblox.com/script/Max-Speed-Update-21-Auto-Click-Before-Race-9327")

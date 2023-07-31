@@ -1,2 +1,0 @@
-
-addscript(9880062154, "Current Game","winter sledge queen anim", "Uploaded by nopelocking on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/winter%20sledge%20queen%20anim.lua", "https://scriptblox.com/script/Decaying-Winter:-The-Last-Strandeds-winter-sledge-queen-anim-10932")

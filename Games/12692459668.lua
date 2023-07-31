@@ -1,2 +1,0 @@
-
-addscript(12692459668, "Current Game","Auto Data", "Uploaded by azicity23 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Data.lua", "https://scriptblox.com/script/Server-Simulator!-PLAYTIME-AWARDS!-Auto-Data-10682")

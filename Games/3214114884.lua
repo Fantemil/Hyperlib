@@ -1,3 +1,0 @@
-
-addscript(3214114884, "Current Game","If it crashes use Electron", "Uploaded by yoyoyoo on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/If%20it%20crashes%20use%20Electron.lua", "https://scriptblox.com/script/2x-Flag-Wars!-If-it-crashes-use-Electron-11990")
-addscript(3214114884, "Current Game","Infinity ammo", "Uploaded by alvimkag523 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Infinity%20ammo.lua", "https://scriptblox.com/script/Flag-Wars!-Infinity-ammo-10974")

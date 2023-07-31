@@ -1,2 +1,0 @@
-
-addscript(380305410, "Current Game","Script", "Uploaded by yoyoyoo on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Script.lua", "https://scriptblox.com/script/x5-INFINITY-RPG-Script-12180")

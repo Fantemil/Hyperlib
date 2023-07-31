@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/fws13488/UTTSOME/main/MAIN"))()

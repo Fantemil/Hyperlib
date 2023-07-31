@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/xchermen/NYPDSIMSHIT/main/sped.txt", true))()

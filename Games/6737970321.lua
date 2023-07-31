@@ -1,2 +1,0 @@
-
-addscript(6737970321, "Current Game","Kick Player Kill Player and More", "Uploaded by DominikToretto on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Kick%20Player%20Kill%20Player%20and%20More.lua", "https://scriptblox.com/script/Livetopia-Summer-House-Kick-Player-Kill-Player-and-More-12056")

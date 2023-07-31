@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Troxnl/receiveGruEgg/main/Troxnl",true))();

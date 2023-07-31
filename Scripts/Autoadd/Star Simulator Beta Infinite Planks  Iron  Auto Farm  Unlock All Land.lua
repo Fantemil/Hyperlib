@@ -1,1 +1,0 @@
-loadstring(game:HttpGet('https://rawscripts.net/raw/Star-Simulator-Beta-AutofarmUnlock-all-landInf-Planks-and-Plates-2048'))()

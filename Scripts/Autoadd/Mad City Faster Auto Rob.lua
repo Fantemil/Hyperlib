@@ -1,1 +1,0 @@
-loadstring(game:HttpGet('https://raw.githubusercontent.com/Cesare0328/my-scripts/main/shopv8.10113%20mc_bypass.lua', true))()

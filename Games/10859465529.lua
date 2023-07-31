@@ -1,2 +1,0 @@
-
-addscript(10859465529, "Current Game","ALL ITEMS SCRIPT FE", "Uploaded by fear on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ALL%20ITEMS%20SCRIPT%20FE.lua", "https://scriptblox.com/script/PLS-CAPTURE-NEW-ALL-S-SCRIPT-FE-11273")

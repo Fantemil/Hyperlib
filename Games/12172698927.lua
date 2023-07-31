@@ -1,4 +1,0 @@
-
-addscript(12172698927, "Current Game","inf money", "Uploaded by cayediyt on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/inf%20money.lua", "https://scriptblox.com/script/Sword-Race-update3-inf-money-9312")
-addscript(12172698927, "Current Game","Money Loop to get inf money", "Uploaded by AverageRobloxUser on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Money%20Loop%20to%20get%20inf%20money.lua", "https://scriptblox.com/script/Sword-Race-update3-Money-Loop-for-to-get-inf-money-9289")
-addscript(12172698927, "Current Game","Auto Rebirth", "Uploaded by AverageRobloxUser on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Rebirth.lua", "https://scriptblox.com/script/Sword-Race-update3-Auto-Rebirth-9291")

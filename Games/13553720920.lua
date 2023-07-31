@@ -1,2 +1,0 @@
-
-addscript(13553720920, "Current Game","Smilez Hub Free Morphs", "Uploaded by smilez on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Smilez%20Hub%20Free%20Morphs.lua", "https://scriptblox.com/script/TV-MANSkibid-Toilets-VS-Cameramen-and-Speakermen-Smilez-Hub-Free-Morphs-11597")

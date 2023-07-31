@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Empire4946/NadirHub-Bypassed/main/imguiLoader",true))()

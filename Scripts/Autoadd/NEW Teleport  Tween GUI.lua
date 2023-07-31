@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/RizzyCoding/Teleport-GUI/main/Teleport"))()

@@ -1,3 +1,0 @@
-
-addscript(22037475, "Current Game","Inf damage and no reload", "Uploaded by Whoareme on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Inf%20damage%20and%20no%20reload.lua", "https://scriptblox.com/script/The-Zombie-Apocalypse-Inf-damage-and-no-reload-12110")
-addscript(22037475, "Current Game","Inf damage and reload Sniper", "Uploaded by Whoareme on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Inf%20damage%20and%20reload%20Sniper.lua", "https://scriptblox.com/script/The-Zombie-Apocalypse-Inf-damage-and-reload-12109")

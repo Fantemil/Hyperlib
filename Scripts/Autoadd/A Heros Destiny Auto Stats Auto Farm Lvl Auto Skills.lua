@@ -1,1 +1,0 @@
-loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/emperorhubfree/free-scripts/main/AHD"))()

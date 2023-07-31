@@ -1,2 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Varomine/SOME-HUB-MY/main/Bloxfruits%20open%20src.txt", true))()
---Get src : https://raw.githubusercontent.com/Varomine/SOME-HUB-MY/main/Bloxfruits%20open%20src.txt

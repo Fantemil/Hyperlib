@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/RegularVynixu/Scripts/main/Taxi%20Boss/Auto%20Farm.lua"))()()

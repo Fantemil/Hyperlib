@@ -1,1 +1,0 @@
-loadstring(game:HttpGet('https://vadrifts.dev/source.lua'))();

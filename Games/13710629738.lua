@@ -1,3 +1,0 @@
-
-addscript(13710629738, "Current Game","Unlock All Morphs and more", "Uploaded by KhSaeed90 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Unlock%20All%20Morphs%20and%20more.lua", "https://scriptblox.com/script/TEAM-ALIEN-OBBY!-(TEAMWORK-OBBY)-Unlock-All-Morphs-and-more-11670")
-addscript(13710629738, "Current Game","Unlock All Morphs and more", "Uploaded by KhSaeed90 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Unlock%20All%20Morphs%20and%20more.lua", "https://scriptblox.com/script/TEAM-ALIEN-OBBY!-(TEAMWORK-OBBY)-Unlock-All-Morphs-and-more-11670")

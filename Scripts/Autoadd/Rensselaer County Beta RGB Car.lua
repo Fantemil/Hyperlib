@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/AtomGotIce/Scripts/main/Rensselaer%20County%20Beta%20RGB"))()

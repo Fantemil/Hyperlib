@@ -1,2 +1,0 @@
-
-addscript(7041939546, "Current Game","BYFRON IS DOG WATER Chat lagger script that works", "Uploaded by TheMassReaper on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BYFRON%20IS%20DOG%20WATER%20Chat%20lagger%20script%20that%20works.lua", "https://scriptblox.com/script/Catalog-Avatar-Creator-BYFRON-IS-DOG-WATER-Chat-lagger-script-that-works-10851")

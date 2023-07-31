@@ -1,2 +1,0 @@
-
-addscript(13729859660, "Current Game","Bypassing passes by teleporting", "Uploaded by cdcar on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Bypassing%20passes%20by%20teleporting.lua", "https://scriptblox.com/script/Skibi-Toilet-Game-(Episode-52)-Bypassing-passes-by-teleporting-12142")

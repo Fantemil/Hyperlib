@@ -1,2 +1,0 @@
-
-addscript(8197423034, "Current Game","Frt Hub", "Uploaded by IvanFila on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Frt%20Hub.lua", "https://scriptblox.com/script/get-a-drink-at-3-am-(beta)-Frt-Hub-hub-10898")

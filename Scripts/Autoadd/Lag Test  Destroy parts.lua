@@ -1,1 +1,0 @@
-game.Workspace["Parts"]:Destroy()

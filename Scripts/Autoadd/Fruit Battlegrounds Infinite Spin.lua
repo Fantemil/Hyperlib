@@ -1,1 +1,0 @@
-game:GetService("ReplicatedStorage").Replicator:InvokeServer("Core", "UpdateSettings", {["\255"] = true, ["\255"] = true, ["\255"] = true, ["\255"] = true, ["\255"] = true})

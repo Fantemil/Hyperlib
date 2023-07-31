@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://www.system-exodus.com/scripts/misc-releases/Reroll.gg.lua", true))()

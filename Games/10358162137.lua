@@ -1,2 +1,0 @@
-
-addscript(10358162137, "Current Game","Foils first Gui", "Uploaded by FoilWithFood on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Foils%20first%20Gui.lua", "https://scriptblox.com/script/MIST-Demon-Slayer:-Weak-Legacy-BETA-Foils-first-Gui-8976")

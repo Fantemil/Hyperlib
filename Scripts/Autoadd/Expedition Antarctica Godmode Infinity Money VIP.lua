@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/ir0kz/script/main/Expedition%20Antarctica.lua"))()

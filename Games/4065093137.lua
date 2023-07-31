@@ -1,2 +1,0 @@
-
-addscript(4065093137, "Current Game","Gui", "Uploaded by MasterOwen on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Gui.lua", "https://scriptblox.com/script/eat-sand-Gui-9041")

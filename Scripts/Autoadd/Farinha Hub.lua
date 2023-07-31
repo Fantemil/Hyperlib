@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/jebblox/scriptdatabase/main/scripts/farinhahub.lua"))()

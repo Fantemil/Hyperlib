@@ -1,1 +1,0 @@
-game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-212, -499, -627) --Read the instructions before you insert this.his.

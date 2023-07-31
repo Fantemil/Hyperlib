@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/ProScripter123/ProScripter123/main/LongestAnswerScript.lua"))()

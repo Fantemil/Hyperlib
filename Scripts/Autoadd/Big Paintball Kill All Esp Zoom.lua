@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/LeoKholYt/roblox/main/bigpaintball.lua",true))()

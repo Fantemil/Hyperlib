@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/CosmoCircle/scripts/main/Fly%20Race",true))()

@@ -1,1 +1,0 @@
-game.Players.LocalPlayer.UserId = 1334682040

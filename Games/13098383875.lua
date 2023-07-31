@@ -1,2 +1,0 @@
-
-addscript(13098383875, "Current Game","auto redeem chest rewards simple", "Uploaded by xet1 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/auto%20redeem%20chest%20rewards%20simple.lua", "https://scriptblox.com/script/FREE-MRBEAST-SUPER-PUNCH-SIMULATOR-auto-redeem-chest-rewards-simple-12136")

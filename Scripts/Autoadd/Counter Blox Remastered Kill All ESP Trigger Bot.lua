@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/PuppyRoblox/FelixWareV2/main/loader.lua"))()

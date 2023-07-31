@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://www.system-exodus.com/scripts/ThiefSimulator/Loader.lua", true))()

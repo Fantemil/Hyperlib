@@ -1,2 +1,0 @@
-
-addscript(11633512891, "Current Game","Fling", "Uploaded by totosimamora608 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Fling.lua", "https://scriptblox.com/script/Cart-ride-but-you're-a-ball-Fling-s-11542")

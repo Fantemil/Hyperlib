@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/TeempL1/Training/mainTeempL1/TrainingSimulator"))()

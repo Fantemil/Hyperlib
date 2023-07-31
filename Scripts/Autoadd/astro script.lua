@@ -1,1 +1,0 @@
-loadstring(game:HttpGet('https://raw.githubusercontent.com/AstroPublic/arsenal/main/Arsenal-obfuscated.lua'))()

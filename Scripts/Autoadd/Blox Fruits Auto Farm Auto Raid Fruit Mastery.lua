@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/SuperIkka/Main/main/BLCKHUBKEY", true))()

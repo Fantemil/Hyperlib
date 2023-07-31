@@ -1,4 +1,0 @@
-
-addscript(12357508217, "Current Game","All Badges n Instant Win and more", "Uploaded by KhSaeed90 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/All%20Badges%20n%20Instant%20Win%20and%20more.lua", "https://scriptblox.com/script/Chill-Obby-All-Badges-n-Instant-Win-and-more-12017")
-addscript(12357508217, "Current Game","All Badges n Instant Win and more", "Uploaded by KhSaeed90 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/All%20Badges%20n%20Instant%20Win%20and%20more.lua", "https://scriptblox.com/script/Chill-Obby-All-Badges-n-Instant-Win-and-more-12017")
-addscript(12357508217, "Current Game","Banana Studios Games", "Uploaded by asia on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Banana%20Studios%20Games.lua", "https://scriptblox.com/script/Chill-Obby-Banana-Studios-Games-10841")

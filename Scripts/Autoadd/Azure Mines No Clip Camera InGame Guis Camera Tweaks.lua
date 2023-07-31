@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/slendercreeper/azuremines/main/Azure%20Final%20Gui.lua"))()

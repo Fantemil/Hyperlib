@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Rxztent/BaconHub/main/Loader", true))()

@@ -1,2 +1,0 @@
-
-addscript(61846006, "Current Game","Script", "Uploaded by cree on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Script.lua", "https://scriptblox.com/script/Super-Simon-Says-Script-10814")

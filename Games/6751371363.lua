@@ -1,2 +1,0 @@
-
-addscript(6751371363, "Current Game","da", "Uploaded by carnshipxvi13 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/da.lua", "https://scriptblox.com/script/Hood-Duels-da-9728")

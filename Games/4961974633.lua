@@ -1,3 +1,0 @@
-
-addscript(4961974633, "Current Game","Teleport to islands", "Uploaded by azicity23 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Teleport%20to%20islands.lua", "https://scriptblox.com/script/Ramen-Simulator-PETS-Teleport-to-islands-10271")
-addscript(4961974633, "Current Game","Auto Heat", "Uploaded by azicity23 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Heat.lua", "https://scriptblox.com/script/Ramen-Simulator-PETS-Auto-Heat-10272")

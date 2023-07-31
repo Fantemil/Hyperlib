@@ -1,2 +1,0 @@
-
-addscript(11940636110, "Current Game","MF Op Script", "Uploaded by guestgod87 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MF%20Op%20Script.lua", "https://scriptblox.com/script/Mining-Factory-Tycoon-MF-Op-Script-8967")

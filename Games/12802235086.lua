@@ -1,3 +1,0 @@
-
-addscript(12802235086, "Current Game","auto farm and buttons", "Uploaded by BEST_SCRIPTS on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/auto%20farm%20and%20buttons.lua", "https://scriptblox.com/script/INFINITY!-Infinite-Rarities-auto-farm-and-buttons-10083")
-addscript(12802235086, "Current Game","Autofarm", "Uploaded by Foreverekk on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Autofarm.lua", "https://scriptblox.com/script/BOSS-UPDATE!-Infinite-Rarities-Autofarm-10143")

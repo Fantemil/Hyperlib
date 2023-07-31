@@ -1,2 +1,0 @@
-
-addscript(12114396495, "Current Game","Auto Train", "Uploaded by KEPA on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Train.lua", "https://scriptblox.com/script/Every-Second-You-Get-%2B1-Muscle-Auto-Train-11287")

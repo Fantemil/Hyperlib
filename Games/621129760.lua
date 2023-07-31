@@ -1,5 +1,0 @@
-
-addscript(621129760, "Current Game","AUTOFARM GUI", "Uploaded by zerticzy on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AUTOFARM%20GUI.lua", "https://scriptblox.com/script/KAT-AUTOFARM-GUI-11289")
-addscript(621129760, "Current Game","Script Knife Ability Test v", "Uploaded by yoyoyoo on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Script%20Knife%20Ability%20Test%20v.lua", "https://scriptblox.com/script/KAT-script-i-found-11274")
-addscript(621129760, "Current Game","Crate Farmer", "Uploaded by Partner on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Crate%20Farmer.lua", "https://scriptblox.com/script/KAT-Crate-Farmer-10839")
-addscript(621129760, "Current Game","flexware version ", "Uploaded by nameis_randd on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/flexware%20version%20.lua", "https://scriptblox.com/script/KAT!-flexware-9181")

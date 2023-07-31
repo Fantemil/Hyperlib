@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/NICKISBAD/A-Stereotypical-Obby/main/Main.lua"))()

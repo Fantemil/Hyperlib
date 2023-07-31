@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/kooggy/Scripts/main/Idle%20Heroes%20Simulator%20Source.lua"))()

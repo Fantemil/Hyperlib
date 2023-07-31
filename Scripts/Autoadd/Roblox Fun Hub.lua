@@ -1,1 +1,0 @@
-loadstring(game:HttpGet('https://raw.githubusercontent.com/Catsuq/Fun-hub/fun4ng4mez/Script.lua'))()

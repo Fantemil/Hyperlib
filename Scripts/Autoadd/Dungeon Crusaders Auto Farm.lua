@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://rawscripts.net/raw/Dungeon-Crusaders-TESTING-Autofarm-1496",true))()

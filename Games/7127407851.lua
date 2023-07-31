@@ -1,2 +1,0 @@
-
-addscript(7127407851, "Current Game","Auto Spin Open Source", "Uploaded by TRXDENT on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Spin%20Open%20Source.lua", "https://scriptblox.com/script/PVP-Attack-on-Titan:-Evolution-Auto-Spin-Open-Source-10078")

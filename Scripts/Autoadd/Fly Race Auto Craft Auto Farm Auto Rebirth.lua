@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://rawscripts.net/raw/-I-7160"))()

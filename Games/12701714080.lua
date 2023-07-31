@@ -1,2 +1,0 @@
-
-addscript(12701714080, "Current Game","Auto Chests", "Uploaded by Noctural on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Chests.lua", "https://scriptblox.com/script/Clicker-Mining-Simulator-Auto-Chests-9896")

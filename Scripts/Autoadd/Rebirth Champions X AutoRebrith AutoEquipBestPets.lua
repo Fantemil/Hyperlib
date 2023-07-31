@@ -1,1 +1,0 @@
-https://www.roblox.com/games/8540346411/X10-Rebirth-Champions-X?gameSearchSessionInfo=1a57060c-0bcd-4f1d-80c2-7b334949cc13&isAd=false&nativeAdData=&numberOfLoadedTiles=66&page=searchPage&placeId=8540346411&position=0&universeId=3258302407

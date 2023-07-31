@@ -1,2 +1,0 @@
-
-addscript(391104146, "Current Game","Gear haxx", "Uploaded by Kosovo on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Gear%20haxx.lua", "https://scriptblox.com/script/Let's-Partyinfinity-%2BGear-Testing-EditionREAD-THE-DESC-Gear-haxx-9841")

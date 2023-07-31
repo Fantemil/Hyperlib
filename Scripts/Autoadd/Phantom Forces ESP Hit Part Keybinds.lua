@@ -1,1 +1,0 @@
-loadstring(game:HttpGet('https://raw.githubusercontent.com/Fatida11/Universal-Aimbot-ESP/main/Universal%20Aimbot-ESP'))()

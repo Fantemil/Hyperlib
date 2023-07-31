@@ -1,2 +1,0 @@
-
-addscript(13389049867, "Current Game","Infinite Cash n Instant Finish and more", "Uploaded by KhSaeed90 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Infinite%20Cash%20n%20Instant%20Finish%20and%20more.lua", "https://scriptblox.com/script/1percent-Win-Obby-Infinite-Cash-n-Instant-and-more-12133")

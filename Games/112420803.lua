@@ -1,2 +1,0 @@
-
-addscript(112420803, "Current Game","scirpt", "Uploaded by nuffty12 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/scirpt.lua", "https://scriptblox.com/script/Kohls-Admin-House-NBC-Updated-scirpt-11038")

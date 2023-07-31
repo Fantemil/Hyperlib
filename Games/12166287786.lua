@@ -1,3 +1,0 @@
-
-addscript(12166287786, "Current Game","Food magnet gamepass", "Uploaded by CHEATAKK on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Food%20magnet%20gamepass.lua", "https://scriptblox.com/script/%2B1-Fat-Every-Second-Food-magnet-gamepass-10916")
-addscript(12166287786, "Current Game","OP Auto farm fast", "Uploaded by PlanetHub on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20Auto%20farm%20fast.lua", "https://scriptblox.com/script/%2B1-Fat-Every-Second-OP-Auto-farm-fast-11892")

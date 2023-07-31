@@ -1,2 +1,0 @@
-
-addscript(6229116934, "Current Game","HOOPZ OP", "Uploaded by alexanderpascual572 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/HOOPZ%20OP.lua", "https://scriptblox.com/script/Hoopz-VEHICLES-(Basketball)-HOOPZ-OP-9827")

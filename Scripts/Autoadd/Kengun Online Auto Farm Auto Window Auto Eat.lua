@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Mstir16/legocheats/main/archive/Kengun%20Online/loafofbreadxm1kecorp"))()

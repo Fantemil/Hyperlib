@@ -1,3 +1,0 @@
-
-addscript(2248408710, "Current Game","Inf Money Inf XP", "Uploaded by Rhyon on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Inf%20Money%20Inf%20XP.lua", "https://scriptblox.com/script/Destruction-Simulator-Inf-Money-Inf-XP-10271")
-addscript(2248408710, "Current Game","OP SCRIPT SERVERSIDE FEATURES INF MONEY AND XP", "Uploaded by focat on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20SCRIPT%20SERVERSIDE%20FEATURES%20INF%20MONEY%20AND%20XP.lua", "https://scriptblox.com/script/Destruction-Simulator-OP-SCRIPT-SERVERSIDE-FEATURES-INF-MONEY-AND-XP-10491")

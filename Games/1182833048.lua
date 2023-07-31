@@ -1,3 +1,0 @@
-
-addscript(1182833048, "Current Game","crash game", "Uploaded by zbmx on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/crash%20game.lua", "https://scriptblox.com/script/Growing-Up-crash-game-10758")
-addscript(1182833048, "Current Game","FE Animation ID Changer", "Uploaded by zbmx on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FE%20Animation%20ID%20Changer.lua", "https://scriptblox.com/script/Growing-Up-FE-Animation-ID-Changer-10755")

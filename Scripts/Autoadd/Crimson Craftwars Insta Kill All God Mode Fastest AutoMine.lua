@@ -1,1 +1,0 @@
-loadstring(game:HttpGet('https://raw.githubusercontent.com/AtomGotIce/Scripts/main/Atomic%20Crimson%20Craftwars'))()

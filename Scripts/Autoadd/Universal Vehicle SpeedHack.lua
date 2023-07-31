@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/shawnjbragdon-0/vmod/main/mini-modules/speedhack.lua", true))()

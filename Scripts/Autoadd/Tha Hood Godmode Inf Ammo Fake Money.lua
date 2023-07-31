@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/MMAKINGDOM/ThaHood/main/.gitignore"))()

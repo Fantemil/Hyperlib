@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/toosiwhip/statueware/main/da-hood.lua"))()

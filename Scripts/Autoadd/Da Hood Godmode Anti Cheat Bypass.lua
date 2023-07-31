@@ -1,1 +1,0 @@
-loadstring(game:HttpGet('https://raw.githubusercontent.com/OgYubi/script/main/Protected.lua', true))();

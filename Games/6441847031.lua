@@ -1,3 +1,0 @@
-
-addscript(6441847031, "Current Game","script", "Uploaded by Unc0dxd on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/script.lua", "https://scriptblox.com/script/CHAOS-script-11249")
-addscript(6441847031, "Current Game","script", "Uploaded by Unc0dxd on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/script.lua", "https://scriptblox.com/script/CHAOS-script-11249")

@@ -1,1 +1,0 @@
-loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/H17S32/Bypassers/main/Tower%20of%20hell.lua"))()

@@ -1,2 +1,0 @@
-
-addscript(5791762440, "Current Game","anti cheat bypass use it fast", "Uploaded by botbrostopusing on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/anti%20cheat%20bypass%20use%20it%20fast.lua", "https://scriptblox.com/script/Sonic.exe-survival-anti-cheat-bypass-use-it-fast-11519")

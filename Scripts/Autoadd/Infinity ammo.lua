@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://www.textbin.online/paste.php?raw&id=214", true))()

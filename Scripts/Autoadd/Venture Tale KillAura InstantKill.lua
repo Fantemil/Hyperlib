@@ -1,1 +1,0 @@
-loadstring(game.HttpGet(game, 'https://raw.githubusercontent.com/ThatBlueDevil/Bleus/main/VentureTale/Main.lua'))();

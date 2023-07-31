@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/ScriptKiddyQuinn/Blox-Hub-Universal/main/Blox%20Hub%20Universal", true))()

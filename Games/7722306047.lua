@@ -1,2 +1,0 @@
-
-addscript(7722306047, "Current Game","OPEN SOURCE MIlk Right Freemium milk up premium for free", "Uploaded by MilkRight on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OPEN%20SOURCE%20MIlk%20Right%20Freemium%20milk%20up%20premium%20for%20free.lua", "https://scriptblox.com/script/Pet-Simulator-X!-OPEN-SOURCE-MIlk-Right-Freemium-milk-up-premium-for-free-11559")

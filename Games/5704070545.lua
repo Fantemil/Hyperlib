@@ -1,2 +1,0 @@
-
-addscript(5704070545, "Current Game","get  level", "Uploaded by coooper415123 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/get%20%20level.lua", "https://scriptblox.com/script/The-Flappy-Men-Strange-Edition-get-198-level-8855")

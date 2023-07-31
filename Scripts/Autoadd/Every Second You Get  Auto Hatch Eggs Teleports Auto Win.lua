@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/J-OnTop/Scripts/main/JHub.lua", true))()

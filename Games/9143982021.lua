@@ -1,2 +1,0 @@
-
-addscript(9143982021, "Current Game","sword battles sword dupe method", "Uploaded by nopelocking on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/sword%20battles%20sword%20dupe%20method.lua", "https://scriptblox.com/script/Sword-Battles-sword-battles-sword-dupe-method-9009")

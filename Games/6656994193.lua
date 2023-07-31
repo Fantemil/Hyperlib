@@ -1,2 +1,0 @@
-
-addscript(6656994193, "Current Game","infinite world boost", "Uploaded by ForlornWindow46 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/infinite%20world%20boost.lua", "https://scriptblox.com/script/NewX8-MYTHIC!Pet-Clicker-Simulator-Reborn-infinite-world-boost-9217")

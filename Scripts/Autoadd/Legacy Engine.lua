@@ -1,1 +1,0 @@
-loadstring(game:HttpGet('https://github.com/LeanNBud/LegacyEngine/raw/main/Games/DragonBall-Ultimate-Clash-2.lua', true))()

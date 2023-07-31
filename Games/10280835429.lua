@@ -1,2 +1,0 @@
-
-addscript(10280835429, "Current Game","Stand script", "Uploaded by Ultra on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Stand%20script.lua", "https://scriptblox.com/script/UPDATE-1-Stands-Unleashed-Stand-script-11743")

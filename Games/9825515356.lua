@@ -1,6 +1,0 @@
-
-addscript(9825515356, "Current Game","da mod menu", "Uploaded by NarutoXR on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/da%20mod%20menu.lua", "https://scriptblox.com/script/Hood-Customs-da-mod-menu-10693")
-addscript(9825515356, "Current Game","VAULT", "Uploaded by ivestalt on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/VAULT.lua", "https://scriptblox.com/script/Hood-Customs-VAULT-9923")
-addscript(9825515356, "Current Game","Streamable", "Uploaded by X333 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Streamable.lua", "https://scriptblox.com/script/Hood-Customs-Streamable-9018")
-addscript(9825515356, "Current Game","OP cam lock StarZ", "Uploaded by nastasieroberto11 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20cam%20lock%20StarZ.lua", "https://scriptblox.com/script/Hood-Customs-OP-cam-lock-StarZ-9253")
-addscript(9825515356, "Current Game","HC Admin NEW", "Uploaded by dread on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/HC%20Admin%20NEW.lua", "https://scriptblox.com/script/Hood-Customs-HC-Admin-NEW-11976")

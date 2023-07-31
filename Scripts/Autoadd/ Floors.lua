@@ -1,1 +1,0 @@
-game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("buy_floor"):InvokeServer()

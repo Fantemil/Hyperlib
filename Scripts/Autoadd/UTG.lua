@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/AsteriskCodes/Ranxware-V2/main/OldSources/UntitledTagGame.lua"))()

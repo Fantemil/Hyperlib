@@ -1,2 +1,0 @@
-
-addscript(13122173728, "Current Game","patched kinda", "Uploaded by nopelocking on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/patched%20kinda.lua", "https://scriptblox.com/script/(ALPHA-SOON)-TBBF-Zombie-PVP-Pre-Alpha-overpowered-abilities-11008")

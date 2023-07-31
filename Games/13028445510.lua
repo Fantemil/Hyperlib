@@ -1,2 +1,0 @@
-
-addscript(13028445510, "Current Game","auto farm stuff", "Uploaded by Roblox_Gaming on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/auto%20farm%20stuff.lua", "https://scriptblox.com/script/TRADING-Shoot-Wall-Simulator-auto-farm-stuff-11238")

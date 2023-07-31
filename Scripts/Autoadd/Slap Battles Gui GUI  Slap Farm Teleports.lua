@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/CasparLmao/Key/main/Main.Lua", true))()

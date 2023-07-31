@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/gofipiu/autofarm/main/Every.lua"))()

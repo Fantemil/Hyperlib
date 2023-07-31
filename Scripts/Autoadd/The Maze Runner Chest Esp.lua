@@ -1,1 +1,0 @@
-loadstring(game:HttpGet('https://raw.githubusercontent.com/topitbopit/rblx/main/games/maze_runner/chest_esp.lua'))()

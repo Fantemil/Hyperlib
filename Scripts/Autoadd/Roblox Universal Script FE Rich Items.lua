@@ -1,1 +1,0 @@
-loadstring(game:HttpGet('https://raw.githubusercontent.com/MrDZT/scripts/main/DZT%20Fe'))()

@@ -1,2 +1,0 @@
-
-addscript(11792124893, "Current Game","request looking for a script for rubet", "Uploaded by n1pq on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/request%20looking%20for%20a%20script%20for%20rubet.lua", "https://scriptblox.com/script/Rubet:-Flip-2-(Beta)-request-looking-for-a-script-for-rubet-10229")

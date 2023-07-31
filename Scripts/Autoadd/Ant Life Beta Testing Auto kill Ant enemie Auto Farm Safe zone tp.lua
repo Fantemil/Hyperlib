@@ -1,1 +1,0 @@
-loadstring(game:HttpGet(('https://raw.githubusercontent.com/ScriptSkiddie69/ant-life/main/autofarm')))()

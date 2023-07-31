@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/ViribusOwner/Viribus/main/Loader", true))()

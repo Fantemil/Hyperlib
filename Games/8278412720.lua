@@ -1,2 +1,0 @@
-
-addscript(8278412720, "Current Game","Athena", "Uploaded by kysphantoms on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Athena.lua", "https://scriptblox.com/script/Prison-Life-remastered-(BETA)-Athena-9071")

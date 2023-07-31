@@ -1,1 +1,0 @@
-loadstring(game:HttpGet(('https://raw.githubusercontent.com/KirbleSensei/stuff/main/Dragon%20Ball%20Games/Dragon%20Ball%20Evolution%20GUI.lua'),true))()

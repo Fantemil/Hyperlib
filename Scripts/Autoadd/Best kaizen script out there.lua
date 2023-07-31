@@ -1,1 +1,0 @@
-loadstring(game:HttpGet(("https://raw.githubusercontent.com/UnknownStraz/strazhub/main/kaizen"), true))()

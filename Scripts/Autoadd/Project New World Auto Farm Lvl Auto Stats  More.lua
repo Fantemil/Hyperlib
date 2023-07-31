@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/bunnynwy/games/main/project_new_world"))()

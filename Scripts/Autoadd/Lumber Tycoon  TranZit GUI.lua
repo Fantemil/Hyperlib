@@ -1,1 +1,0 @@
-loadstring(game:HttpGetAsync('https://raw.githubusercontent.com/silentben9x/silentwinningmain/main/EndOfSilent'))()

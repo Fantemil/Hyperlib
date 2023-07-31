@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/mjtbincourse/Thulium-Ware/main/Thulium-Loader.lua"))()

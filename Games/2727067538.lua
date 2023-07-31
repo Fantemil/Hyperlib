@@ -1,2 +1,0 @@
-
-addscript(2727067538, "Current Game","GUI", "Uploaded by Emperor on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/GUI.lua", "https://scriptblox.com/script/World-Zero-GUI-10821")

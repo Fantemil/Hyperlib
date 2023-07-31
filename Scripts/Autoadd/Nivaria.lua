@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Z17S3/Nivaria/main/Main.lua"))()

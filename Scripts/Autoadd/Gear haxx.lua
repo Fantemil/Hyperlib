@@ -1,2 +1,0 @@
---Made by Kosovo#3784 Also note for kill holy and trap grab the tools for holy and kill trap will get it for you :) and just get a  sword for kill btw
-loadstring(game:HttpGet(("https://paste.website/p/9c4f1430-646e-477d-b19f-7dc228fc7440.txt"), true))()

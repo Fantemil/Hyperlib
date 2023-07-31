@@ -1,2 +1,0 @@
-
-addscript(5910449407, "Current Game","Very Op Cringe Script", "Uploaded by SER_NOTADO_POR_POISO on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Very%20Op%20Cringe%20Script.lua", "https://scriptblox.com/script/Project-Menacing-Script-10735")

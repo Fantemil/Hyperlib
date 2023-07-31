@@ -1,1 +1,0 @@
-game.ReplicatedStorage.RewardEnergy:FireServer(1000)

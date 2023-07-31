@@ -1,1 +1,0 @@
-loadstring(game:HttpGet(('https://raw.githubusercontent.com/Upscalefanatic3/unFair-Autofarm/main/GUI')))()

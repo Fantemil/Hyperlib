@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/SchoolTrash/FantasyHub/main/Home%20Run%20Simulator"))()

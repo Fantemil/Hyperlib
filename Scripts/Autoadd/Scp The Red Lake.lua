@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/WinterDinder/SCP-The-Red-Lake/main/Main"), true))()

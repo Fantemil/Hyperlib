@@ -1,4 +1,0 @@
-
-addscript(2866967438, "Current Game","WORKING", "Uploaded by Lucasfin000 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/WORKING.lua", "https://scriptblox.com/script/Fishing-Simulator-WORKING-11625")
-addscript(2866967438, "Current Game","Pro Fisher", "Uploaded by Vxle on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pro%20Fisher.lua", "https://scriptblox.com/script/PIRATE-ISLAND-Fishing-Simulator-Dynamiq-Hub-10972")
-addscript(2866967438, "Current Game","WORKING", "Uploaded by Lucasfin000 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/WORKING.lua", "https://scriptblox.com/script/Fishing-Simulator-WORKING-11625")

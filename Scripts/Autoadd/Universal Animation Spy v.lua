@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/suwupra/AnimationSpy/main/main.py", true))()

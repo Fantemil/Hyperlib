@@ -1,1 +1,0 @@
-loadstring(game:HttpGet('https://raw.githubusercontent.com/DevArilis/roblox/main/Sandbox%20Schematics/source.lua'))()

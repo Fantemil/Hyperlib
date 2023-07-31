@@ -1,3 +1,0 @@
-
-addscript(4783966408, "Current Game","JX Hub", "Uploaded by skittles on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/JX%20Hub.lua", "https://scriptblox.com/script/Plates-of-Fate:-Remastered-JX-PoF-Hub-8779")
-addscript(4783966408, "Current Game","PLATES OF FATE MINESWEEPER SOLVER SCRIPT", "Uploaded by fear on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PLATES%20OF%20FATE%20MINESWEEPER%20SOLVER%20SCRIPT.lua", "https://scriptblox.com/script/Plates-of-Fate:-Remastered-PLATES-OF-FATE-MINESWEEPER-SOLVER-SCRIPT-9452")

@@ -1,1 +1,0 @@
-loadstring(game:HttpGet(('https://raw.githubusercontent.com/MatDevv/SideScripts/main/FleeTheFacilityV1'),true))()

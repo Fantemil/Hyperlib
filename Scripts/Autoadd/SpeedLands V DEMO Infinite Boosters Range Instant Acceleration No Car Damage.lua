@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/iCuckyDev/RobloxScripts/main/SpeedLands%20V2%20%5BDEMO%5D"))()

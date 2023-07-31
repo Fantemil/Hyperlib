@@ -1,1 +1,0 @@
- loadstring(game:HttpGet("https://raw.githubusercontent.com/WinterDinder/Roblox-Scripts/master/Aimbot%20For%20All%20Games.lua",true))();

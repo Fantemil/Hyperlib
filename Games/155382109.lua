@@ -1,3 +1,0 @@
-
-addscript(155382109, "Current Game","Teleport to Weapons more", "Uploaded by LPPma on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Teleport%20to%20Weapons%20more.lua", "https://scriptblox.com/script/Survive-and-Kill-the-Killers-in-Area-51-!!!-Teleport-to-Weapons-more-11900")
-addscript(155382109, "Current Game","Rsky Classic Mode ONLY", "Uploaded by Emperor on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Rsky%20Classic%20Mode%20ONLY.lua", "https://scriptblox.com/script/Survive-and-Kill-the-Killers-in-Area-51-!!!-Rsky-Classic-Mode-ONLY-11139")

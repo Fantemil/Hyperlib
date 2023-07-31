@@ -1,2 +1,0 @@
-
-addscript(11345129632, "Current Game","DICE GUI", "Uploaded by CrimsonCrusader on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DICE%20GUI.lua", "https://scriptblox.com/script/ROLL-The-DICE!-DICE-GUI-12017")

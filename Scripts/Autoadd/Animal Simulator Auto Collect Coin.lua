@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Zeaxy/Roblox-Script/main/Animal%20Simulator%20%5BRevamped%5D.lua"))()

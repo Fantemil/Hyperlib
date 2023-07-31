@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/SomeDudeMadeYouHappy/AnimeFlyRace/main/CEBERUS_UI_ON_TOP"))()

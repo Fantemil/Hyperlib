@@ -1,1 +1,0 @@
-loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/jLn0n/scripts/main/misc/fe-headless.lua"))()

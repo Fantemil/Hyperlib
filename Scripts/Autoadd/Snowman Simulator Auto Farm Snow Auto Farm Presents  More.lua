@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/NomadWithoutAHome/Old-Scripts/main/scripts/Snowman_UI2.lua"))()

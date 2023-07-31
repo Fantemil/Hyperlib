@@ -1,3 +1,0 @@
-
-addscript(12614815818, "Current Game","Beat Obby", "Uploaded by Skids on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Beat%20Obby.lua", "https://scriptblox.com/script/Escape-Ice-Spice-Obby!-Beat-Obby-11102")
-addscript(12614815818, "Current Game","Tp to end", "Uploaded by Kosovo on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tp%20to%20end.lua", "https://scriptblox.com/script/Escape-Ice-Spice-Obby!-Tp-to-end-10248")

@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/AtomGotIce/Scripts/main/Operations%20Siege"))()

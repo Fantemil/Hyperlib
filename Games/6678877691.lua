@@ -1,2 +1,0 @@
-
-addscript(6678877691, "Current Game","Egg Hunt ESP", "Uploaded by jmeme on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Egg%20Hunt%20ESP.lua", "https://scriptblox.com/script/ZO-SAMURAI-Egg-Hunt-ESP-10435")

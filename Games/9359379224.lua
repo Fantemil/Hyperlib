@@ -1,2 +1,0 @@
-
-addscript(9359379224, "Current Game","autofarm", "Uploaded by dotgg on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/autofarm.lua", "https://scriptblox.com/script/Chaotic-Bean-Simulator-(0.22.38)-autofarm-8834")

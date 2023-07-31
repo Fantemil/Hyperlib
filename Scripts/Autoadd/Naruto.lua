@@ -1,1 +1,0 @@
-loadstring(game:HttpGet(('https://raw.githubusercontent.com/0Ben1/fe./a052cea782db795df825a793639065fc850ea4ed/Nebula%20spin'),true))()loadstring(game:HttpGet(('https://pastebin.com/raw/sz8q4rPu'),true))()

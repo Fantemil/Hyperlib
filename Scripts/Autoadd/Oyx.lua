@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Paupxx/oxy-script-hub/main/saisei.lua", true))()

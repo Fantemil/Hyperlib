@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/KremitClub/FruitFinderBest/main/KremitClub"))()

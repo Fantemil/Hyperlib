@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/fgasfga/ROBLOX-CLIENT-SIDED-Korblox-And-Headless-Script/main/Main.lua"))()

@@ -1,3 +1,0 @@
-
-addscript(10925589760, "Current Game","NEW UPDATED autofarm autotap auto grifing etc", "Uploaded by BeCheater on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NEW%20UPDATED%20autofarm%20autotap%20auto%20grifing%20etc.lua", "https://scriptblox.com/script/Merge-Simulator-NEW-UPDATED-autofarm-autotap-auto-grifing-etc-10187")
-addscript(10925589760, "Current Game","blocks delete", "Uploaded by Quazonish on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/blocks%20delete.lua", "https://scriptblox.com/script/Merge-Simulator-blocks-delete-11582")

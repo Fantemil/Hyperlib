@@ -1,1 +1,0 @@
-loadstring(game:HttpGet('https://grfbin.ml/scripts/prisonliferemastered.lua'))()

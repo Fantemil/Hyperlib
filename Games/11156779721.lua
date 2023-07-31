@@ -1,2 +1,0 @@
-
-addscript(11156779721, "Current Game","tsg lua", "Uploaded by engo on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/tsg%20lua.lua", "https://scriptblox.com/script/Ballista!-The-Survival-Game-BETA-tsg-lua-8706")

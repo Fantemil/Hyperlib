@@ -1,1 +1,0 @@
-loadstring(gameHttpGet(('httpsraw.githubusercontent.comitsyouranyafreemainbloodsurge.lua'),true))()

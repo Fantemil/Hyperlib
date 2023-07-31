@@ -1,1 +1,0 @@
-loadstring(game:HttpGet('https://raw.githubusercontent.com/EnderChicken1/Roblox/main/Azure%20Mines.lua'))()

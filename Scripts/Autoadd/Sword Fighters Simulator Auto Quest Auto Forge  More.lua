@@ -1,1 +1,0 @@
-loadstring(Game:HttpGet("https://raw.githubusercontent.com/Saaakai/Random-Roblox-Script/main/Sword%20Fighters%20Sim"))()

@@ -1,2 +1,0 @@
-
-addscript(11758008778, "Current Game","Event Infinite Gems and coins", "Uploaded by Tora_IsMe on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Event%20Infinite%20Gems%20and%20coins.lua", "https://scriptblox.com/script/Solarpunk-Simulator-Event-Infinite-Gems-and-coins-9999")

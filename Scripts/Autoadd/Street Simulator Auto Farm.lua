@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/botbrostopusing/botbrostopusing/main/README.md"))()

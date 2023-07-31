@@ -1,1 +1,0 @@
-loadstring(game:HttpGet('https://gist.githubusercontent.com/stellar-4242/063234fa06cfc62d77477dcf35c1fa9c/raw/bafc93c52d39550aca9c3b022868ddfa5f4e7acc/BBGM.lua'))()

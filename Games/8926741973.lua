@@ -1,2 +1,0 @@
-
-addscript(8926741973, "Current Game","gui", "Uploaded by backdoor on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/gui.lua", "https://scriptblox.com/script/Backrooms-GMod-Map-lightning-bolt-8784")

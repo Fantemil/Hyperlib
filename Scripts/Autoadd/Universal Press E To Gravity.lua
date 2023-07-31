@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://cdn.wearedevs.net/scripts/Gravity Switch.txt"))()

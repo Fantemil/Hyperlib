@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/fliptwo/iSPLOIT/main/Mega%20Fun%20Obby", true))()

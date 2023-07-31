@@ -1,2 +1,0 @@
-getgenv().key = ""; -- get key from discord server (https://discord.com/invite/J85S63RzRj)
-loadstring(game:HttpGet("https://raw.githubusercontent.com/BallisticDevelopment/Roblox/main/main_script.lua", true))();

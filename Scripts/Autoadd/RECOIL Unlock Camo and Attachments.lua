@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/OmniLotus/Scripts/main/RECOIL_EzGrind"))()

@@ -1,1 +1,0 @@
-loadstring(game:HttpGet('http://acehub.pro/api/whitelist'))()

@@ -1,1 +1,0 @@
-game:GetService("ReplicatedStorage").EnterCode:FireServer(29, "Code32", 28, "Code31", 25, "Code27", 26, "Code29")

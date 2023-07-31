@@ -1,1 +1,0 @@
-game.Players.LocalPlayer.Premium.DoubleJump.Value = true

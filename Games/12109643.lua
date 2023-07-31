@@ -1,3 +1,0 @@
-
-addscript(12109643, "Current Game","C hub Version XS", "Uploaded by C9_1234 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/C%20hub%20Version%20XS.lua", "https://scriptblox.com/script/Fencing-C9-hub-Version-X-11628")
-addscript(12109643, "Current Game","Tibe hub", "Uploaded by tibe0124 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tibe%20hub.lua", "https://scriptblox.com/script/Fencing-Tibe-hub-11175")

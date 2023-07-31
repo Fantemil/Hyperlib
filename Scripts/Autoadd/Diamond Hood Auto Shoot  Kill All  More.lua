@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/BlueCat666/RubyHood/main/RubyHood.lua", true))()

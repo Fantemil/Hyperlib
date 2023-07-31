@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/ToastedShoes/MyResturantGui/master/.luaV4",true))()

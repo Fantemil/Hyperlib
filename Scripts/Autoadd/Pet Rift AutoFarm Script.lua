@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Kenniel123/Rifter/main/rifter",true))();

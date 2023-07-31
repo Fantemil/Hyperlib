@@ -1,3 +1,0 @@
-
-addscript(4410049285, "Current Game","JENSHUB BEST NEW SCRIPT", "Uploaded by JensCoding on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/JENSHUB%20BEST%20NEW%20SCRIPT.lua", "https://scriptblox.com/script/Driving-Simulator-JENSHUB-BEST-NEW-SCRIPT-10387")
-addscript(4410049285, "Current Game","JENSHUB BEST SCRIPT", "Uploaded by JensCoding on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/JENSHUB%20BEST%20SCRIPT.lua", "https://scriptblox.com/script/Driving-Simulator-JENSHUB-BEST-SCRIPT-10379")

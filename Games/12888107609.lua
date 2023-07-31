@@ -1,4 +1,0 @@
-
-addscript(12888107609, "Current Game","inf power", "Uploaded by RoyZ on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/inf%20power.lua", "https://scriptblox.com/script/Wall-Punch-Simulator-inf-power-10460")
-addscript(12888107609, "Current Game","inf power", "Uploaded by gore on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/inf%20power.lua", "https://scriptblox.com/script/Wall-Punch-Simulator-inf-power-10521")
-addscript(12888107609, "Current Game","Inf Cash", "Uploaded by Guy_ on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Inf%20Cash.lua", "https://scriptblox.com/script/Wall-Punch-Simulator-Inf-Cash-10583")

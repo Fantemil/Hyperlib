@@ -1,1 +1,0 @@
-loadstring(string.reverse([[dne )0 ,v ,traPtooRdionamuH.retcarahC.reyalPlacoL.sreyalP.emag(tseretnihcuoterif od )(nerdlihCteG:sretcarahC.)"ecapskroW"(ecivreSteG:emag ,txen ni v,i rof]]))()

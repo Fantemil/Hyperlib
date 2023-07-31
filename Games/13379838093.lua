@@ -1,2 +1,0 @@
-
-addscript(13379838093, "Current Game","Yeat Hub Best Free Script", "Uploaded by vernyfx666 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Yeat%20Hub%20Best%20Free%20Script.lua", "https://scriptblox.com/script/UPD-4-Anime-Swords-Simulator-Yeat-Hub-Best-Free-Script-11480")

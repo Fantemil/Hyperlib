@@ -1,1 +1,0 @@
-loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/muzrblx/4PHLA/main/Hub/Loaders/4PHLA.lua"))()

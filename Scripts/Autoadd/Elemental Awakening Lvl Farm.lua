@@ -1,1 +1,0 @@
-loadstring(game:HttpGet(('https://raw.githubusercontent.com/Aidez/elemental_awakening/main/level_farm'),true))()

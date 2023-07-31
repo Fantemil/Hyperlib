@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/xAlphy/Penguin-Tycoon/main/Auto%20Complete%20Game.lua", true))()

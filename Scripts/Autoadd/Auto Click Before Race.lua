@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/AverageRobloxUser1/AutoClickerSpeed/main/AutoClickerSpeed1"))()

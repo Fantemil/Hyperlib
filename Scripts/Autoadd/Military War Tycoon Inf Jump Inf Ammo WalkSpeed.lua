@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/LocalSmail/Lego-Game-Scripts-practice/main/Military-War-Tycoon", true))()

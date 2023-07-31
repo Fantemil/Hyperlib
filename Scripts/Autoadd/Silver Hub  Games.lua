@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/iPigTW/Silver-HUB/main/SilverHub.lua",true))()

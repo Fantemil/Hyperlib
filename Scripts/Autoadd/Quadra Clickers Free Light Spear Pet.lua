@@ -1,1 +1,0 @@
-game:GetService("Players").LocalPlayer.PlayerGui.Main.MainFrame.CodesFrame.Enter.Server.Reward:FireServer("Light Spear")

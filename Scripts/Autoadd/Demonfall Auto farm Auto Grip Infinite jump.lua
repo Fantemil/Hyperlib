@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Corrupt2625/pjv/main/Loader.lua"))()

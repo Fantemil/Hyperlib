@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/eeeerrrrf3/Get-key/main/key1"))()

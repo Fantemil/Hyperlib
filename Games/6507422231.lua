@@ -1,3 +1,0 @@
-
-addscript(6507422231, "Current Game","Free UGCs", "Uploaded by KhSaeed90 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Free%20UGCs.lua", "https://scriptblox.com/script/EARN-UGC-Twilight-Daycare-Event-Free-UGCs-11727")
-addscript(6507422231, "Current Game","Free UGCs", "Uploaded by KhSaeed90 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Free%20UGCs.lua", "https://scriptblox.com/script/EARN-UGC-Twilight-Daycare-Event-Free-UGCs-11727")

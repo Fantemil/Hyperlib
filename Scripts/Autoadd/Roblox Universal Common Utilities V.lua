@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/WinterDinder/56-CLubs-Utils/main/56%20Clubs%20Common%20Utils.lua", true))()

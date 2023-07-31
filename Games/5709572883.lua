@@ -1,2 +1,0 @@
-
-addscript(5709572883, "Current Game","legend", "Uploaded by JustNoob on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/legend.lua", "https://scriptblox.com/script/Lift-Legends-Simulator-legend-8965")

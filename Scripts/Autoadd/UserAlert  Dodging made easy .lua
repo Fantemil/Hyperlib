@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Crabmeat8179/Lua-scripts/main/Useralert.lua", true))()

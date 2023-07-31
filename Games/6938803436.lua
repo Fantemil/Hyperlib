@@ -1,2 +1,0 @@
-
-addscript(6938803436, "Current Game","Auto Dodge", "Uploaded by Flames on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Dodge.lua", "https://scriptblox.com/script/COSMIC-Anime-Dimensions-Simulator-Auto-Dodge-PAID-11656")

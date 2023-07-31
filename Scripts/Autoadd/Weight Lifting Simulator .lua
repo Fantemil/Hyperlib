@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/LeoKholYt/roblox/main/weightLiftingSim3.lua",true))()

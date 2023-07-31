@@ -1,1 +1,0 @@
-loadstring(game:HttpGet(('https://raw.githubusercontent.com/tark-w/script/main/TarkHub.lua%20(1).txt'),true))()

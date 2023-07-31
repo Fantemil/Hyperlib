@@ -1,1 +1,0 @@
-game:GetService("Workspace")["Anti Speed"]["Anti Speed"]:Destroy()

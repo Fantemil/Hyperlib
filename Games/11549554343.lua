@@ -1,2 +1,0 @@
-
-addscript(11549554343, "Current Game","Sentai hub", "Uploaded by Sentai on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sentai%20hub.lua", "https://scriptblox.com/script/50%2B-NEW-CARS-Russia-Car-Driving:-Kaluga-Sentai-hub-11325")

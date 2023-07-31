@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/duccveloper/ducchub/main/scripts/find-milk-at-the-store-and-leave-your-kids-obby.lua"))();

@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/fur01d/Scripts/main/Key-System", true))()

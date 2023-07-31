@@ -1,2 +1,0 @@
-
-addscript(9796685905, "Current Game","Super Hero Race Clicker Script", "Uploaded by copypaste on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Super%20Hero%20Race%20Clicker%20Script.lua", "https://scriptblox.com/script/UPD!-Super-Hero-Race-Clicker-Super-Hero-Race-Clicker-Script-9084")

@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/6ojo/scripts/master/clicker%20madness.lua"))()

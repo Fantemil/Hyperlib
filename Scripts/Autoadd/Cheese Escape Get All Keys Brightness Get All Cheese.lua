@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Nikita365/Cheese-Escape/main/Nikita", true))()

@@ -1,1 +1,0 @@
-game:GetService("ReplicatedStorage").PropEvent:FireServer(game:GetService("Players").LocalPlayer.StatValues.Zeni,"Value",9e9)

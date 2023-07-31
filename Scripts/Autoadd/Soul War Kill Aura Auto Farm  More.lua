@@ -1,1 +1,0 @@
-loadstring(game:HttpGet('https://raw.githubusercontent.com/Alrbuddy/Soul-War/main/Soul-war'))()

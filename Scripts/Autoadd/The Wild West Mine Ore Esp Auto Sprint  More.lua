@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/TheEpicFace007/wild-west-script/master/wild-west-script.lua"))()

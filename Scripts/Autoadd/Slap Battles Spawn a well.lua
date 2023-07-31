@@ -1,1 +1,0 @@
-game:GetService("ReplicatedStorage").Well:FireServer()

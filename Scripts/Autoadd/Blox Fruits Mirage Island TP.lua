@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Catmez/LuaForRoblox/main/Master/MirageTP.Lua"))();

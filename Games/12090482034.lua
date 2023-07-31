@@ -1,2 +1,0 @@
-
-addscript(12090482034, "Current Game","auto win", "Uploaded by nameis_randd on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/auto%20win.lua", "https://scriptblox.com/script/BABY-BOBBY'S-DAYCARE!-(FIRST-PERSON-OBBY)-auto-win-easy-mode-9321")

@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/LeoKholYt/roblox/main/m_difficulty_chart_obby.lua"))()

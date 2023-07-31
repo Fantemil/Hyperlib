@@ -1,1 +1,0 @@
-loadstring(game:HttpGet('https://raw.githubusercontent.com/Nenarus/Interminable-Rooms/main/Rayfield_Irooms.txt'))()

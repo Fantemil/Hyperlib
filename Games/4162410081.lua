@@ -1,2 +1,0 @@
-
-addscript(4162410081, "Current Game","Auto Ansering ", "Uploaded by hackerhero48 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Ansering%20.lua", "https://scriptblox.com/script/Longest-Answer-Wins-NEW-ANSWERS-Auto-Ansering-12-10734")

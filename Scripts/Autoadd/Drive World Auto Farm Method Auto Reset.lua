@@ -1,1 +1,0 @@
-loadstring(game:HttpGet('https://gist.githubusercontent.com/broreallyplayingthisgame/bd9ba97100ede3afd0a52d4478e7bc92/raw/'))()

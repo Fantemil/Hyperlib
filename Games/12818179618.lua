@@ -1,3 +1,0 @@
-
-addscript(12818179618, "Current Game","stomp script", "Uploaded by dread on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/stomp%20script.lua", "https://scriptblox.com/script/Del-Hood-stomp-script-11505")
-addscript(12818179618, "Current Game","stomp script", "Uploaded by dread on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/stomp%20script.lua", "https://scriptblox.com/script/Del-Hood-stomp-script-11505")

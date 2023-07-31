@@ -1,2 +1,0 @@
-
-addscript(6772424226, "Current Game"," player millionaires tycoon autofarm", "Uploaded by papahub on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/%20player%20millionaires%20tycoon%20autofarm.lua", "https://scriptblox.com/script/2-Player-Millionaire-Tycoon-2-player-millionaires-tycoon-autofarm-9436")

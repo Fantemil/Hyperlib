@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Zviye/LB-Duper/main/LB-Duper-GUI",true))()

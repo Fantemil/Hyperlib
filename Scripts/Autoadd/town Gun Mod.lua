@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://gist.githubusercontent.com/shawnjbragdon-0/8d93eab6b72463df5652150fd99c08eb/raw/bfc47e2cef2a6002424af85b744d9f0b71463187/tgm.lua"))()

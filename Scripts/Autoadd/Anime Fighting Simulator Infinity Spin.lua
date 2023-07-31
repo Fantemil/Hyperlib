@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Woutt/dump/main/AFS_inf_Spin.lua"))()

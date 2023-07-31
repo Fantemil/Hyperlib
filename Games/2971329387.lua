@@ -1,2 +1,0 @@
-
-addscript(2971329387, "Current Game","Cook Burgers script", "Uploaded by zdziehowicz20mailco on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Cook%20Burgers%20script.lua", "https://scriptblox.com/script/Cook-Burgers-Cook-Burgers-script-8753")

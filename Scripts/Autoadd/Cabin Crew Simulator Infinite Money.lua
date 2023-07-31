@@ -1,1 +1,0 @@
-game.ReplicatedStorage.remotes.airlines:FireServer("hire_flight_attendant", -math.huge)

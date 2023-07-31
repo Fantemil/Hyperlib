@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/roxyrekt/HubORScript/main/Magnet_Simulator_2.lua"))()

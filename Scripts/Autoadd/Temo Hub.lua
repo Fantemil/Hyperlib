@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/tirrawake/Temo-hub/main/Temo%20hub?token=GHSAT0AAAAAACFHYUNMHP7ABJW7VI65336SZF7H3CQ"))()

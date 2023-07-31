@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/SpaceCat1748/Boblox/main/ss"))()

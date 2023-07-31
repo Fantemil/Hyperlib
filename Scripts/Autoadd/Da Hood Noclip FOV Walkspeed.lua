@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/GamingResources/GamingResources-Script-Hub/main/342ef2efefwerqegwgqewgqewgqewefqwqewgegwgwegwegewgewgewgewgwegew"))()

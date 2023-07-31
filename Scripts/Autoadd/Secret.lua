@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/DeveloperIsAScripter/Crazy-Clickers-X/main/Main"))()

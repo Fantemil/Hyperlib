@@ -1,1 +1,0 @@
-loadstring(game:HttpGet('https://raw.githubusercontent.com/slightten/scripts/main/deepwoken%20dev'))()

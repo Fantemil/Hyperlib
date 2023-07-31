@@ -1,2 +1,0 @@
-
-addscript(7267631004, "Current Game","Auto kill", "Uploaded by Emptyness on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20kill.lua", "https://scriptblox.com/script/carry-people-simulator-3-Auto-kill-12131")

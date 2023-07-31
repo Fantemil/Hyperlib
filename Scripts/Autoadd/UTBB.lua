@@ -1,1 +1,0 @@
-loadstring(game:HttpGet('https://raw.githubusercontent.com/Scriptingdude/Undertale/main/Undertale%20Boss%20Battles%20v2.1.lua', true))()

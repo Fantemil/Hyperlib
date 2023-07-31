@@ -1,2 +1,0 @@
-
-addscript(10918081103, "Current Game","Killaura", "Uploaded by Rice on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Killaura.lua", "https://scriptblox.com/script/MAJOR-UPDATE-Killstreak-Chaos-Killaura-9770")

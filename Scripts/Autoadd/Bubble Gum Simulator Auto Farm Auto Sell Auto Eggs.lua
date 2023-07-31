@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/ZaRdoOx/tzeyte/main/bubble%20gum"))()

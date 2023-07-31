@@ -1,3 +1,0 @@
-
-addscript(11601030184, "Current Game","Big hitbox", "Uploaded by chihimfan6 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Big%20hitbox.lua", "https://scriptblox.com/script/Slap-Battles-Killstreak-Remake-Big-hitbox-11181")
-addscript(11601030184, "Current Game","Big hitbox", "Uploaded by chihimfan6 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Big%20hitbox.lua", "https://scriptblox.com/script/Slap-Battles-Killstreak-Remake-Big-hitbox-11181")

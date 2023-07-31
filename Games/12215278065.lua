@@ -1,3 +1,0 @@
-
-addscript(12215278065, "Current Game","Open Source GUI", "Uploaded by GamingResources on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Open%20Source%20GUI.lua", "https://scriptblox.com/script/UPDATE-Toy-SoldierZ-Open-Source-GUI-11169")
-addscript(12215278065, "Current Game","Script Auto Fram", "Uploaded by Sewo on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Script%20Auto%20Fram.lua", "https://scriptblox.com/script/UPDATE-Toy-SoldierZ-Script-Auto-Fram-11155")

@@ -1,4 +1,0 @@
-
-addscript(12399018110, "Current Game","AUTO FARM SCRIPT", "Uploaded by fear on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AUTO%20FARM%20SCRIPT.lua", "https://scriptblox.com/script/Worm-2048-autofarm-10490")
-addscript(12399018110, "Current Game","lucky block autofarm", "Uploaded by CHEATAKK on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/lucky%20block%20autofarm.lua", "https://scriptblox.com/script/Worm-2048-lucky-block-autofarm-10590")
-addscript(12399018110, "Current Game","Steal cubes from other players except friends", "Uploaded by CHEATAKK on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Steal%20cubes%20from%20other%20players%20except%20friends.lua", "https://scriptblox.com/script/Worm-2048-Steal-cubes-from-other-players-except-friends-10807")

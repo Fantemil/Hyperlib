@@ -1,2 +1,0 @@
-
-addscript(1730877806, "Current Game","Gpo auto farm and more Tensenn hub", "Uploaded by FoilWithFood on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Gpo%20auto%20farm%20and%20more%20Tensenn%20hub.lua", "https://scriptblox.com/script/UPDATE-8-Grand-Piece-Online-Gpo-auto-farm-and-more-11701")

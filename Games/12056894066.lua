@@ -1,3 +1,0 @@
-
-addscript(12056894066, "Current Game","aura", "Uploaded by baconsoupeater on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/aura.lua", "https://scriptblox.com/script/MRBEAST-Slap-Battles-:-Axolotl-Edition-just-everyone-12145")
-addscript(12056894066, "Current Game","aura", "Uploaded by baconsoupeater on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/aura.lua", "https://scriptblox.com/script/MRBEAST-Slap-Battles-:-Axolotl-Edition-just-everyone-12145")

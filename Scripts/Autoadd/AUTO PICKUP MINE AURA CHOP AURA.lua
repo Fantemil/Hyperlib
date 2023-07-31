@@ -1,1 +1,0 @@
-loadstring(game:HttpGet('https://cosmen.vercel.app/publicScript.lua'))()

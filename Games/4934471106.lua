@@ -1,3 +1,0 @@
-
-addscript(4934471106, "Current Game","Auto Farm and More", "Uploaded by gore on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Farm%20and%20More.lua", "https://scriptblox.com/script/CODEMy-Hero-Mania-Auto-Farm-and-More-10516")
-addscript(4934471106, "Current Game","My Script", "Uploaded by W_o_U on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/My%20Script.lua", "https://scriptblox.com/script/CODEMy-Hero-Mania-My-Script-10753")

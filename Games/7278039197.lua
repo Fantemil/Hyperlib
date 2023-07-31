@@ -1,2 +1,0 @@
-
-addscript(7278039197, "Current Game","Script by GoatObama", "Uploaded by GoatObama on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Script%20by%20GoatObama.lua", "https://scriptblox.com/script/Episode-2-TIMMEH!-Script-by-GoatObama-11334")

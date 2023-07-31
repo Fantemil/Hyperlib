@@ -1,1 +1,0 @@
-loadstring(game:HttpGet('https://raw.githubusercontent.com/AtomGotIce/Scripts/main/Da%20hood%20aim'))()

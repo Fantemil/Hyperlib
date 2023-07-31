@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Tokkenik/clock.lua/main/loader.lua"))()

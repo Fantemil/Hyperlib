@@ -1,1 +1,0 @@
-loadstring(game:HttpGet(('https://raw.githubusercontent.com/exehubrblx/SCP-Roleplay/main/script'),true))()

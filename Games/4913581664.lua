@@ -1,3 +1,0 @@
-
-addscript(4913581664, "Current Game","Symphony Hub Cart Ride Into Rdite Script", "Uploaded by ItsJiDy on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Symphony%20Hub%20Cart%20Ride%20Into%20Rdite%20Script.lua", "https://scriptblox.com/script/Cart-Ride-Into-Rdite!-Symphony-Hub-Cart-Ride-Into-Rdite-Script-9662")
-addscript(4913581664, "Current Game","Rdite Script", "Uploaded by nuffty12 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Rdite%20Script.lua", "https://scriptblox.com/script/Cart-Ride-Into-Rdite!-Rdite-Script-11015")

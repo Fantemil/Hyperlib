@@ -1,1 +1,0 @@
-loadstring(game:HttpGet('https://raw.githubusercontent.com/luckycdev/robloxscripts/main/punchabrickwallsimulatorscript.lua',true))()

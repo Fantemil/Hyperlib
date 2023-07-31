@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Kargomil/PhonkScriptV.1/main/Rariry%20Factory%20Tyccon"))()

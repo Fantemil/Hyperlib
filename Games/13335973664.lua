@@ -1,3 +1,0 @@
-
-addscript(13335973664, "Current Game","New Game", "Uploaded by Killa on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/New%20Game.lua", "https://scriptblox.com/script/x2-Energy-Simulator-New-Game-12148")
-addscript(13335973664, "Current Game","New Game", "Uploaded by Killa on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/New%20Game.lua", "https://scriptblox.com/script/x2-Energy-Simulator-New-Game-12148")

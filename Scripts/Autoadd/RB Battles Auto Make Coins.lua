@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Furrycality/RoLUA/main/RBBattles.lua"))()

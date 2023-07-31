@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/kooggy/Scripts/main/Smash%20%26%20Grab.lua"))()

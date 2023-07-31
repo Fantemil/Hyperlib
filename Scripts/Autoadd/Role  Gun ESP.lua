@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/choke-dev/scripts/main/The%20Mad%20Murderer%20X/Murderer%20%26%20Sheriff%20ESP.lua"))()

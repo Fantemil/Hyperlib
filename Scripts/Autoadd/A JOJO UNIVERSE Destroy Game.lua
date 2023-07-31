@@ -1,1 +1,0 @@
-loadstring(game:HttpGetAsync(("https://raw.githubusercontent.com/AtomGotIce/Scripts/main/A%20Jojo%20Universe")))()

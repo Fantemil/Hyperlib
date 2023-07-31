@@ -1,2 +1,0 @@
-
-addscript(11404011968, "Current Game","AUS Inferno X", "Uploaded by kkbluespirt on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AUS%20Inferno%20X.lua", "https://scriptblox.com/script/NEW-Anime-Universe-Simulator-AUS-Inferno-X-10458")

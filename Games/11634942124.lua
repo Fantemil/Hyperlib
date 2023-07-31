@@ -1,2 +1,0 @@
-
-addscript(11634942124, "Current Game","Best script on this game", "Uploaded by TweedLeakc on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Best%20script%20on%20this%20game.lua", "https://scriptblox.com/script/Grappling-Hook-Obby-REBIRTHS-Best-script-on-this-game-10093")

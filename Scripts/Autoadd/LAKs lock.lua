@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/lkoza07/LAks-lock/main/LAKS%20LOCK"))()

@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/IchiGoatKurosaki/AnimePowerSimulator/main/FreeVersion.lua"))()

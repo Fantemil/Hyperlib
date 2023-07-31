@@ -1,2 +1,0 @@
-
-addscript(12138574644, "Current Game","Auto Score Goals", "Uploaded by dkdc on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Score%20Goals.lua", "https://scriptblox.com/script/RELEASE-Untitled-Blue-Lock-Game-Auto-Score-Goals-10720")

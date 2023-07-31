@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/WinterDinder/ESYG1JP/main/output-qIQp.lua", true))()

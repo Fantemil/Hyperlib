@@ -1,3 +1,0 @@
-
-addscript(11599913094, "Current Game","auto farm yes", "Uploaded by kalas on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/auto%20farm%20yes.lua", "https://scriptblox.com/script/ENCHANT!-Nuke-Simulator!-auto-farm-yes-8838")
-addscript(11599913094, "Current Game","auto farm auto collect equip best anti afk", "Uploaded by NsZuSsMeN on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/auto%20farm%20auto%20collect%20equip%20best%20anti%20afk.lua", "https://scriptblox.com/script/HUGE!-Nuke-Simulator!-auto-farm-auto-collect-equip-best-anti-afk-10874")

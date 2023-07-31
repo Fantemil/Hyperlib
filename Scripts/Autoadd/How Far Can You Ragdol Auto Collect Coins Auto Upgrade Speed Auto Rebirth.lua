@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Zockerhd01/Scripts/main/How%20Far%20Can%20You%20Ragdoll%3F%20Script%20Open%20Source"))()

@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://kylee.site/oldrcx"))()

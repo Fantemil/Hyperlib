@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/lilcoderV3rm/ProFisher/main/script"))()

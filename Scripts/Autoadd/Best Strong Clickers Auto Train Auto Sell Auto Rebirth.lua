@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Lagendking/Strong-Clickers/main/Script", true))()

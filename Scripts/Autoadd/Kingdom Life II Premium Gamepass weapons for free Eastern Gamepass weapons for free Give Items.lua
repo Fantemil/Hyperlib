@@ -1,1 +1,0 @@
-loadstring(game:HttpGet('https://raw.githubusercontent.com/MoonscripterScripts/Kingdom-Life-II-GUI/main/script.lua'))()

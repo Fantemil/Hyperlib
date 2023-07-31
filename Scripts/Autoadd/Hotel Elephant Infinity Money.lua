@@ -1,1 +1,0 @@
-game:GetService("ReplicatedStorage").MoneyRequest:FireServer(false, 69000000, "Cash")

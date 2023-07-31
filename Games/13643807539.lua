@@ -1,4 +1,0 @@
-
-addscript(13643807539, "Current Game","Bronx GUI FREE", "Uploaded by Shag420 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Bronx%20GUI%20FREE.lua", "https://scriptblox.com/script/South-Bronx:-The-Trenches-Bronx-GUI-FREE-12188")
-addscript(13643807539, "Current Game","Bronx GUI FREE", "Uploaded by Shag420 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Bronx%20GUI%20FREE.lua", "https://scriptblox.com/script/South-Bronx:-The-Trenches-Bronx-GUI-FREE-12188")
-addscript(13643807539, "Current Game","Bronx GUI FREE", "Uploaded by Shag420 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Bronx%20GUI%20FREE.lua", "https://scriptblox.com/script/South-Bronx:-The-Trenches-Bronx-GUI-FREE-12188")

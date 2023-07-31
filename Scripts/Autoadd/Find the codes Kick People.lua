@@ -1,1 +1,0 @@
-game:GetService("ReplicatedStorage").kick:FireServer("username", "reason")

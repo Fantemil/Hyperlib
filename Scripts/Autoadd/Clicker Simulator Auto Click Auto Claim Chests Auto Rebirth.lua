@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/LeoKholYt/roblox/main/clicker_simulator.lua",true))()

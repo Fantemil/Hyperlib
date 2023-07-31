@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/LOLking123456/battle551/main/fruit00"))()

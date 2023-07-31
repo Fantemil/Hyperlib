@@ -1,2 +1,0 @@
-
-addscript(13034708492, "Current Game","Get alot of points for free", "Uploaded by VampireKiller on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Get%20alot%20of%20points%20for%20free.lua", "https://scriptblox.com/script/Pizza-Tower-Taunting-Sim-Get-alot-of-points-for-free-11518")

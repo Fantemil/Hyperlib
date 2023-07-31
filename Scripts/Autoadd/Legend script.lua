@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/PlanetHubX/Legends-Of-Speed/main/source", true))()

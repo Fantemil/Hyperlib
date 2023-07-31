@@ -1,3 +1,0 @@
-
-addscript(12413786484, "Current Game","Auto Raid Bosses Auto Farm And More", "Uploaded by CrazyHubScripts on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Raid%20Bosses%20Auto%20Farm%20And%20More.lua", "https://scriptblox.com/script/RELEASE!-Anime-Lost-Simulator-Auto-Raid-Bosses-And-More-9839")
-addscript(12413786484, "Current Game","AutoFarm", "Uploaded by cayediyt on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AutoFarm.lua", "https://scriptblox.com/script/RELEASE!-Anime-Lost-Simulator-AutoFarm-9659")

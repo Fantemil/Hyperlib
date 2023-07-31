@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/choke-dev/scripts/main/Framed!/Target%20ESP.lua"))()

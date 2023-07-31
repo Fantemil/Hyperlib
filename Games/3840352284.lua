@@ -1,2 +1,0 @@
-
-addscript(3840352284, "Current Game","Hinata Shoyo Jump", "Uploaded by Miya_AtsumuXD on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Hinata%20Shoyo%20Jump.lua", "https://scriptblox.com/script/New-Volleyball-League-4.2-Hinata-Shoyo-Jump-9752")

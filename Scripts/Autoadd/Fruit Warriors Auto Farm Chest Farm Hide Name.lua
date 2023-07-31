@@ -1,1 +1,0 @@
-loadstring(game:HttpGet('https://raw.githubusercontent.com/LeadMarker/opensrc/main/FruitWarriors/FruitWarriors.lua'))()

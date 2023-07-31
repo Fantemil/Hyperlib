@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://jumblescripts.com/SeaPiece2.lua"))()

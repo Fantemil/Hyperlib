@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Ev01Discord/CocoHZ/main/CocoH%20v1.01"))()

@@ -1,1 +1,0 @@
-local JMaxeyy = loadstring(game:HttpGet("https://raw.githubusercontent.com/ufouzzed/NewEst/main/Lazarus"))()

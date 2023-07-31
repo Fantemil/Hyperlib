@@ -1,2 +1,0 @@
-
-addscript(13062181190, "Current Game","GUI", "Uploaded by Muimi on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/GUI.lua", "https://scriptblox.com/script/RELEASE-Anime-Fight-Next-Generation-GUI-11451")

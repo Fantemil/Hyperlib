@@ -1,1 +1,0 @@
-loadstring(game:HttpGet('https://raw.githubusercontent.com/DimdonTM/DimdonTM/main/Speed%20Run%20Simulator%20by%20Dimdon.lua'))()

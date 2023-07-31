@@ -1,1 +1,0 @@
-loadstring(game:HttpGet(('https://raw.githubusercontent.com/bostonstrong567/RobloxIslands/main/SwordFactory.Lua')))()

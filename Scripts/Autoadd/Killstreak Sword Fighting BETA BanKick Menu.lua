@@ -1,1 +1,0 @@
-game:GetService("Players").LocalPlayer.PlayerGui.BanGui.Shade.Visible = true

@@ -1,2 +1,0 @@
-
-addscript(3095204897, "Current Game","script op", "Uploaded by ChaoticScripts on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/script%20op.lua", "https://scriptblox.com/script/Isle-script-op-11282")

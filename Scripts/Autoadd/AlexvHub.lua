@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://alexv.netlify.app/AlexvHub.lua"))()

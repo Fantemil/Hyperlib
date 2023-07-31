@@ -1,2 +1,0 @@
-
-addscript(13700191568, "Current Game","Infinite OP Gears and more", "Uploaded by KhSaeed90 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Infinite%20OP%20Gears%20and%20more.lua", "https://scriptblox.com/script/Climb-Wall-For-VIP-Obby-Infinite-OP-Gears-n-Gears-and-more-11668")

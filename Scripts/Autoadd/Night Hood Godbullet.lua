@@ -1,1 +1,0 @@
-game.Players.LocalPlayer.Character.BodyEffects["K.O"]:Destroy()

@@ -1,2 +1,0 @@
-
-addscript(9399205659, "Current Game","Legacy Engine", "Uploaded by LeanNBud on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Legacy%20Engine.lua", "https://scriptblox.com/script/v1.9-DragonBall:-Ultimate-Clash-2-Legacy-Engine-10214")

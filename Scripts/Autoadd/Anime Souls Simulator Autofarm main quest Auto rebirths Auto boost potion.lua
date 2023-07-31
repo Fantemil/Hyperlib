@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/A1phes/DeityHub/main/Scripts/ASS.lua"))()

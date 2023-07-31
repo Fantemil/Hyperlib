@@ -1,1 +1,0 @@
-loadstring(game:HttpGet('https://raw.githubusercontent.com/xaophf/xaohub-extra/main/DetectExploiters.lua',true))()

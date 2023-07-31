@@ -1,1 +1,0 @@
-loadstring(Game:HttpGet("https://raw.githubusercontent.com/RedWirePlatinumTwo/RobloxScripts/main/JailbreakGUI.lua"))()

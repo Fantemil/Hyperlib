@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Zeaxy/Roblox-Script/main/Anime%20Clicker%20Fight.lua"))()

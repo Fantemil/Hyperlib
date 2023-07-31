@@ -1,2 +1,0 @@
-
-addscript(13234744520, "Current Game","OP AUTO FARM", "Uploaded by PlanetHub on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20AUTO%20FARM.lua", "https://scriptblox.com/script/Dragon-Race-OP-AUTO-FARM-11811")

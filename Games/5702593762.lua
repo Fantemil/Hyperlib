@@ -1,3 +1,0 @@
-
-addscript(5702593762, "Current Game","Auto Farm Points", "Uploaded by SRowner on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Farm%20Points.lua", "https://scriptblox.com/script/Climb-1000-Stairs-Auto-Farm-Points-9536")
-addscript(5702593762, "Current Game","Auto Points n Steps and more", "Uploaded by KhSaeed90 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Points%20n%20Steps%20and%20more.lua", "https://scriptblox.com/script/Climb-1000-Stairs-Auto-Get-Points-n-Steps-and-more-11524")

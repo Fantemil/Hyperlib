@@ -1,1 +1,0 @@
-game:GetService("ReplicatedStorage").Honeypot.Internal.RemoteStorage["UpdateStage - RemoteEvent"]:FireServer(500)

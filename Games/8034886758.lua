@@ -1,2 +1,0 @@
-
-addscript(8034886758, "Current Game","Autofarm", "Uploaded by KEPA on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Autofarm.lua", "https://scriptblox.com/script/Punch-Monster-Simulator-Autofarm-11364")

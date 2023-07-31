@@ -1,1 +1,0 @@
-loadstring(game:HttpGet('https://raw.githubusercontent.com/CJStyles123/CSPrisonLife/main/EscapePrison.lua'))()

@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Scriptingdude/MvsS/main/Murderers%20vs%20sherrifs%20finisheed.lua"))()

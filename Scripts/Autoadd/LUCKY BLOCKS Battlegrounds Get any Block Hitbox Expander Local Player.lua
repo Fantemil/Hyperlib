@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Monke90/Lucky-Blocks/main/Monkeyware"))()

@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/vfvo/scripts/main/weaponfightsim.lua"))() 

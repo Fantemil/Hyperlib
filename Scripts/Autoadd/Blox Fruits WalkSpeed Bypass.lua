@@ -1,1 +1,0 @@
-loadstring(game:HttpGet('https://raw.githubusercontent.com/Kiriko-Protection/Scripts/main/Blox-Fruit-Bypass'))()

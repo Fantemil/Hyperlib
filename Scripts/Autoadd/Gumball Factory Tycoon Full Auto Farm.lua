@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/kinhey/scripts/main/gumball_autofarm.lua"))()

@@ -1,1 +1,0 @@
-loadstring(game:HttpGet('print("patched")'))()

@@ -1,4 +1,0 @@
-
-addscript(6961824067, "Current Game","Op Script", "Uploaded by TheScriptFinder on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Op%20Script.lua", "https://scriptblox.com/script/Fling-Things-and-People-Op-Script-12124")
-addscript(6961824067, "Current Game","ftap", "Uploaded by christopherkipper20 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ftap.lua", "https://scriptblox.com/script/Fling-Things-and-People-ftap-11031")
-addscript(6961824067, "Current Game","Strength Increase", "Uploaded by blirz295667 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Strength%20Increase.lua", "https://scriptblox.com/script/Fling-Things-and-People-Strength-Increase-10002")

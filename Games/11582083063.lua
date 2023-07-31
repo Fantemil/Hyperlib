@@ -1,3 +1,0 @@
-
-addscript(11582083063, "Current Game","Op script for PAS", "Uploaded by vernyfx666 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Op%20script%20for%20PAS.lua", "https://scriptblox.com/script/DESERT-Piece-Adventures-Simulator-Op-script-for-PAS-9315")
-addscript(11582083063, "Current Game","OP Auto Farm", "Uploaded by cayediyt on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20Auto%20Farm.lua", "https://scriptblox.com/script/DESERT-Piece-Adventures-Simulator-OP-Auto-Farm-9311")

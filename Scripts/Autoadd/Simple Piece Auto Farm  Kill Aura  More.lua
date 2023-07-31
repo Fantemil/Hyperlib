@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://senseijoshy.com/Side-Scripts/Simple%20Piece.lua"))()

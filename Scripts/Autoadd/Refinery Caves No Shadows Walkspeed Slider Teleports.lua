@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/AngeLz79/Whopper-Hub/main/whoppa.lua"))()

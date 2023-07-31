@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/zzerexx/scripts/main/Games/Monkey_Tycoon.lua"), "Monkey Tycoon Gui")()

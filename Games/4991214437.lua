@@ -1,5 +1,0 @@
-
-addscript(4991214437, "Current Game","plot copier", "Uploaded by WatWrong on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/plot%20copier.lua", "https://scriptblox.com/script/town-plot-copier-11824")
-addscript(4991214437, "Current Game","Invisibility script", "Uploaded by yomanisaac on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Invisibility%20script.lua", "https://scriptblox.com/script/town-Invisibility-script-11849")
-addscript(4991214437, "Current Game","Town Plot Copier", "Uploaded by WatWrong on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Town%20Plot%20Copier.lua", "https://scriptblox.com/script/town-Town-Plot-Copier-9994")
-addscript(4991214437, "Current Game","copy v script", "Uploaded by Omarkingsuperfast on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/copy%20v%20script.lua", "https://scriptblox.com/script/town-copy-script-11340")

@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Pa1nx/BloodBathScripts/main/BloxFruits"))()  

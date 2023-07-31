@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/WinterDinder/56-CLubs-Utils/main/output-PAfz.lua", true))()

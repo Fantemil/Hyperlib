@@ -1,1 +1,0 @@
-loadstring(game:HttpGet('https://raw.githubusercontent.com/Davicoderliner/davigui/main/DaviguiV2prealphaloader.lua',true))()

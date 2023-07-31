@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://scripts.the-software.xyz/ControlCFetch"))()("CONTROLC_ID")

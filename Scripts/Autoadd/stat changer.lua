@@ -1,1 +1,0 @@
-https://link-center.net/810058/script

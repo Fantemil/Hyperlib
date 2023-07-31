@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/DIZZYTHELEGEND/SodaX/main/cframe%20gen"))()

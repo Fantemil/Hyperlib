@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/ImJosh66/MilHub-Returns/main/Protected_2742924365332464.lua.txt"))()

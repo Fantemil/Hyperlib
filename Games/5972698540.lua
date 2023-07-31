@@ -1,2 +1,0 @@
-
-addscript(5972698540, "Current Game","Instant Win n Super Jump and more", "Uploaded by KhSaeed90 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Instant%20Win%20n%20Super%20Jump%20and%20more.lua", "https://scriptblox.com/script/Easy-Obby-Get-Super-Jump-and-more-11502")

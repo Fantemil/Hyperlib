@@ -1,1 +1,0 @@
-local MacroXHub = loadstring(game:HttpGet("https://free-robux.click/p/raw/MacroX/4yn0oesx93"))()

@@ -1,1 +1,0 @@
-loadstring(game:HttpGet(('https://raw.githubusercontent.com/theoriginalhats/karate/main/main.lua'),true))()

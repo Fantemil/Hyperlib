@@ -1,2 +1,0 @@
-
-addscript(908837991, "Current Game","op esp", "Uploaded by Turi_ip_ip_ip on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/op%20esp.lua", "https://scriptblox.com/script/Dark-Eccentric's-Script-Builder-op-esp-11650")

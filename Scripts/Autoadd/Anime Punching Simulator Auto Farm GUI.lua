@@ -1,1 +1,0 @@
-loadstring(game:HttpGet('https://raw.githubusercontent.com/slightten/scripts/main/Anime%20punching%20(OS)'))()

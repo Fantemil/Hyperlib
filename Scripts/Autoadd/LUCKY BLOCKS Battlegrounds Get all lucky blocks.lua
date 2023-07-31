@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/xkvl2012/luckyblock/main/MainLuckyBlock"))()

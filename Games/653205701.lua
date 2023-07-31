@@ -1,2 +1,0 @@
-
-addscript(653205701, "Current Game","Going Rouge  Script  Hub", "Uploaded by 0UTING on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Going%20Rouge%20%20Script%20%20Hub.lua", "https://scriptblox.com/script/Fort-Martin-RP-Rouge-Hub-9882")

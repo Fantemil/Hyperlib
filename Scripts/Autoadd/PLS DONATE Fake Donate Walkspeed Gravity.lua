@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Blackout4781/Open-Source/main/NubHub%20Pls%20Donate"))()

@@ -1,2 +1,0 @@
-
-addscript(8540168650, "Current Game","Stand Upright Script", "Uploaded by UGIO on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Stand%20Upright%20Script.lua", "https://scriptblox.com/script/Stand-Upright:-Rebooted-Stand-Upright-Script-9922")

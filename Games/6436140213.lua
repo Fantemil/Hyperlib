@@ -1,2 +1,0 @@
-
-addscript(6436140213, "Current Game","Free Script", "Uploaded by Athena on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Free%20Script.lua", "https://scriptblox.com/script/Soccer-League-Free-Script-11350")

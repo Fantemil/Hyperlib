@@ -1,4 +1,0 @@
-
-addscript(11606818992, "Current Game","Roblox Steep Steps Script", "Uploaded by Cutsences on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Roblox%20Steep%20Steps%20Script.lua", "https://scriptblox.com/script/STEEP-STEPS-Roblox-Steep-Steps-Script-9646")
-addscript(11606818992, "Current Game","Jump speed", "Uploaded by Thunderthegoat on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Jump%20speed.lua", "https://scriptblox.com/script/FLAME-STEEP-STEPS-Jump-speed-10140")
-addscript(11606818992, "Current Game","a step script needs key", "Uploaded by TrinityVininty on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/a%20step%20script%20needs%20key.lua", "https://scriptblox.com/script/FLAME-STEEP-STEPS-a-step-script-needs-key-10273")

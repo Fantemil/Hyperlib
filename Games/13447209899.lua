@@ -1,2 +1,0 @@
-
-addscript(13447209899, "Current Game","battleground and saitama battleground OP script", "Uploaded by Baruto_Naruto on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/battleground%20and%20saitama%20battleground%20OP%20script.lua", "https://scriptblox.com/script/Z-Battlegrounds-battleground-and-saitama-battleground-OP-script-11122")

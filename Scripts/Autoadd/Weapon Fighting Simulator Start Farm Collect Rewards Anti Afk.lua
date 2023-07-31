@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/ZaRdoOx/weapon-figting/main/Weapon-Fighting-Simulator"))()

@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Legenda06/Cheese-Escape/main/Cheese%20Escape"))()

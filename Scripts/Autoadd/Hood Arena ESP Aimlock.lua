@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/KidScripts/Scripts/main/Hood-Arena.lua",true))()

@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Sync1350/ViperHub/main/ViperLoader.lua",true))()

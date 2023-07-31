@@ -1,1 +1,0 @@
-loadstring(game:HttpGet('https://scripts.luawl.com/hosted/5532/20254/ASTRAL.PRO.lua'))()

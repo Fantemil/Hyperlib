@@ -1,2 +1,0 @@
-
-addscript(6918802270, "Current Game","Project New World Infinity Stamina Key Bypassed Auto Farm", "Uploaded by JosephJerome0 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Project%20New%20World%20Infinity%20Stamina%20Key%20Bypassed%20Auto%20Farm.lua", "https://scriptblox.com/script/RELEASE!-Project-New-World-Project-New-World-Infinity-Stamina-Key-Bypassed-Auto-Farm-8898")

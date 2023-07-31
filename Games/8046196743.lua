@@ -1,2 +1,0 @@
-
-addscript(8046196743, "Current Game","FE haxx", "Uploaded by Kosovo on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FE%20haxx.lua", "https://scriptblox.com/script/La-Kantina-Vibe-(NUEVOS-BAILES)-FE-haxx-9790")

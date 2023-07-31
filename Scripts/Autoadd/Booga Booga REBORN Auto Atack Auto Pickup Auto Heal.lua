@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Alendaa/Scripts/main/Booga%20booga%20reborn",true))();

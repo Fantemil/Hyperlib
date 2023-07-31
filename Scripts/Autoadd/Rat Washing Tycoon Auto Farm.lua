@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/0mikami/Roblox-Scripts/main/AutoRWT.lua"))()

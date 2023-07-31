@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/DezentLua/Roblox-Utilities/main/South%20London%202-obfuscated%20(1).lua"))()

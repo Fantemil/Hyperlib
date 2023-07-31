@@ -1,3 +1,0 @@
-
-addscript(10714365287, "Current Game","UPDATED SCRIPT", "Uploaded by STONED on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/UPDATED%20SCRIPT.lua", "https://scriptblox.com/script/Punch-Anime-Racing-Clicker-UPDATED-SCRIPT-11832")
-addscript(10714365287, "Current Game","UPDATED SCRIPT HARDCORE", "Uploaded by W13K on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/UPDATED%20SCRIPT%20HARDCORE.lua", "https://scriptblox.com/script/UPD1-Anime-Race-Clicker-UPDATED-SCRIPT-HARDCORE-9187")

@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/tbitw2549/Anime-Punching-Simulator/main/GUI"))()

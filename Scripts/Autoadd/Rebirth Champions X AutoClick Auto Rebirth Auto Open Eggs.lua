@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/therealbinary/BinaryMain/main/init.lua", true))()

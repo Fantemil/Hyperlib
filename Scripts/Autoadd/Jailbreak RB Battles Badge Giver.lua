@@ -1,1 +1,0 @@
-game:GetService("ReplicatedStorage").RBBattlesTeleportRemote:FireServer(workspace.RBSkyscraper.Teleporters.Top.TPP)

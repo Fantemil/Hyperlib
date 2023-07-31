@@ -1,2 +1,0 @@
-
-addscript(6843988672, "Current Game","Spray button for Mobile  NEW UPDATED UI", "Uploaded by F_hub99 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Spray%20button%20for%20Mobile%20%20NEW%20UPDATED%20UI.lua", "https://scriptblox.com/script/County-Jail-Roleplay-Spray-button-for-Mobile-11921")

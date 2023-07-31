@@ -1,1 +1,0 @@
-loadstring(game:HttpGet('https://raw.githubusercontent.com/JayGitCuh/Defiant/main/stealth.lua', true))()

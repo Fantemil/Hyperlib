@@ -1,1 +1,0 @@
-loadstring(game:HttpGet"https://raw.githubusercontent.com/LeoKholYt/roblox/main/ticket_sim.lua")()

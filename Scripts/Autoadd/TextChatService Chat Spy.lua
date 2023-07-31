@@ -1,1 +1,0 @@
-loadstring(game:HttpGet('https://raw.githubusercontent.com/suno-development/TextChatService-Chat-Spy/main/main.lua', true))('Chat Spy')

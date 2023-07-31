@@ -1,2 +1,0 @@
-
-addscript(9984770240, "Current Game","Skip Stge", "Uploaded by DylanIsAKing on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Skip%20Stge.lua", "https://scriptblox.com/script/Obby-but-you're-a-ball-Skip-Stge-9271")

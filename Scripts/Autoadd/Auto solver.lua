@@ -1,1 +1,0 @@
-loadstring(game:HttpGetAsync'https://raw.githubusercontent.com/TutorialManRoblox/UploadedScripts/main/erlcautosolver_thesynapseguy')();

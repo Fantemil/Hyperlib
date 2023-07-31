@@ -1,2 +1,0 @@
-
-addscript(8365905206, "Current Game","Coins Auto Farm", "Uploaded by Hydra2022 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Coins%20Auto%20Farm.lua", "https://scriptblox.com/script/untitled-tag-game-beta-Coins-AutoFarm-10478")

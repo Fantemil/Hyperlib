@@ -1,1 +1,0 @@
-patched dont use or you will get ban atleast everyone who used this script banned 300 people LOL

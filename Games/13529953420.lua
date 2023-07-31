@@ -1,2 +1,0 @@
-
-addscript(13529953420, "Current Game","OverPowered GUI", "Uploaded by xet1 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OverPowered%20GUI.lua", "https://scriptblox.com/script/TRADE!-Money-Race-OverPowered-GUI-12091")

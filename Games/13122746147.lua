@@ -1,2 +1,0 @@
-
-addscript(13122746147, "Current Game","Auto Farm  Features In Description", "Uploaded by Manucas on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Farm%20%20Features%20In%20Description.lua", "https://scriptblox.com/script/UPD-4-Get-Heavy-Simulator-Script-12121")

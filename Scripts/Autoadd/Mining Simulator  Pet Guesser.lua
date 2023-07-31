@@ -1,1 +1,0 @@
-game.Players.LocalPlayer.PlayerGui.SurfaceGui.Frame.Main.Pet.ChildAdded:Connect(function(a)if a.Name=="Camera"then else game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer(unpack({a.Name,"All"}))end end)

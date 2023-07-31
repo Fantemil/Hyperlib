@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/localyactive/projects/main/other/RTX_OBF"))()

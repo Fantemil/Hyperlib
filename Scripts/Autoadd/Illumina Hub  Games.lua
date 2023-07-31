@@ -1,1 +1,0 @@
-loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/yurkyu/Illumina/main/Loader.lua"))()

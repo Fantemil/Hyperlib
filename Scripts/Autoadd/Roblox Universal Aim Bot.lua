@@ -1,1 +1,0 @@
-loadstring(game:HttpGetAsync 'https://astolfoaim.femboy.cafe/')('web-ui');

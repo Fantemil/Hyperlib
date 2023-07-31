@@ -1,2 +1,0 @@
-
-addscript(6933626061, "Current Game","Colorless", "Uploaded by l_ly on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Colorless.lua", "https://scriptblox.com/script/TLK-Prison-Colorless-11078")

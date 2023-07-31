@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/ZSIOffical/Soloware-Rework/main/Games/BSX.lua"))()

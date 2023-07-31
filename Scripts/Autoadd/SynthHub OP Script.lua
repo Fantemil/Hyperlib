@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/xShadow1234/Synth-Hub/main/loader.lua"))()

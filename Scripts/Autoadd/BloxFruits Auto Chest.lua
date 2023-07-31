@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/KremitClub/AutoChestOnOff/main/Chests"))()

@@ -1,1 +1,0 @@
-loadstring(game:HttpGet('https://raw.githubusercontent.com/StiizzyCat/SynapseScripts/main/TheStreetsDecalResize2021.lua'))()

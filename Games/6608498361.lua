@@ -1,3 +1,0 @@
-
-addscript(6608498361, "Current Game","Bypass for anticheat", "Uploaded by Lucas on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Bypass%20for%20anticheat.lua", "https://scriptblox.com/script/cursed-tank-simulatorBLAZING-TRAILS-Bypass-for-anticheat-11907")
-addscript(6608498361, "Current Game","Delete armour", "Uploaded by Lucas on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Delete%20armour.lua", "https://scriptblox.com/script/cursed-tank-simulatorBLAZING-TRAILS-Delete-armour-11905")

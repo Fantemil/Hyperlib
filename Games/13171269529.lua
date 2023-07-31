@@ -1,2 +1,0 @@
-
-addscript(13171269529, "Current Game","NEW SCRIPT", "Uploaded by Criminal on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NEW%20SCRIPT.lua", "https://scriptblox.com/script/Mine-Blocks-Simulator-NEW-SCRIPT-10754")

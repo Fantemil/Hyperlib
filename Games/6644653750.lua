@@ -1,2 +1,0 @@
-
-addscript(6644653750, "Current Game","Clr Ruuun GUI", "Uploaded by dsploiter on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Clr%20Ruuun%20GUI.lua", "https://scriptblox.com/script/Color-Run-Clr-Ruuun-GUI-10907")

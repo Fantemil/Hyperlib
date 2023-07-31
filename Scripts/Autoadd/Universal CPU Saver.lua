@@ -1,1 +1,0 @@
-while task.wait() do if iswindowactive() then setfpscap(1000) else setfpscap(5) end end 

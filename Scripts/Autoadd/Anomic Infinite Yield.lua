@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/HankRBXHelper/IY-Anomic/main/%5BAnomic%5D%20IY%20Commands.lua", true))()

