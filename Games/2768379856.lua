@@ -1,0 +1,2 @@
+
+addscript(2768379856, "Current Game","WalkSpeed JumpPower Gravity NoClip Fly Infinite Jump", "Uploaded by Dambldor on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/WalkSpeed%20JumpPower%20Gravity%20NoClip%20Fly%20Infinite%20Jump585.lua", "https://scriptblox.com/script/3008-2.72-WalkSpeed-JumpPower-Gravity-NoClip-Fly-Infinite-Jump-12092")

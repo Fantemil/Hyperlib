@@ -1,0 +1,2 @@
+
+addscript(12587965823, "Current Game","G O D M O D E", "Uploaded by Hamburga on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/G%20O%20D%20M%20O%20D%20E407.lua", "https://scriptblox.com/script/(1.04)-Monkey-Sans-Fanon-Invasion-semi-godmode-11302")

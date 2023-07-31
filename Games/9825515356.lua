@@ -1,0 +1,2 @@
+
+addscript(9825515356, "Current Game","lock", "Uploaded by Scarlet on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/lock577.lua", "https://scriptblox.com/script/Hood-Customs-lock-11800")

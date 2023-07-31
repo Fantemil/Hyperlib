@@ -1,0 +1,2 @@
+
+addscript(5805164999, "Current Game","throw stuff at players lol", "Uploaded by smilez on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/throw%20stuff%20at%20players%20lol83.lua", "https://scriptblox.com/script/(bone-still-broken)-An-Infinite-Adventure-throw-stuff-at-players-lol-11600")

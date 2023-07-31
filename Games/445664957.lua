@@ -1,0 +1,2 @@
+
+addscript(445664957, "Current Game","Bag Farm", "Uploaded by Hydra2022 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Bag%20Farm438.lua", "https://scriptblox.com/script/NEW-GEAR-Parkour-Bag-Farm-12044")

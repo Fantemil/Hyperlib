@@ -1,0 +1,2 @@
+
+addscript(8304191830, "Current Game","Claim all Codes", "Uploaded by yoyoyoo on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Claim%20all%20Codes782.lua", "https://scriptblox.com/script/1-YR-Anime-Adventures-Claim-all-Codes-11788")

@@ -1,0 +1,2 @@
+
+addscript(111311599, "Current Game","Admin Script", "Uploaded by NoHorizonName on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Admin%20Script846.lua", "https://scriptblox.com/script/CRITICAL-STRIKE-v5.7.5-Admin-Script-11513")

@@ -1,0 +1,2 @@
+
+addscript(13284033561, "Current Game","Best Script", "Uploaded by Killa on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Best%20Script7.lua", "https://scriptblox.com/script/Fishing-Frenzy-Simulator-Best-Script-11341")

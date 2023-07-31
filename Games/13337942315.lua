@@ -1,0 +1,2 @@
+
+addscript(13337942315, "Current Game","Weird thumbnail but heres a script", "Uploaded by yoyoyoo on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Weird%20thumbnail%20but%20heres%20a%20script73.lua", "https://scriptblox.com/script/ENHANCE-Legend-of-Immortals-Weird-thumbnail-script-for-12133")

@@ -1,0 +1,2 @@
+
+addscript(12581593086, "Current Game","Autofarm and more", "Uploaded by linneythewinney on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Autofarm%20and%20more651.lua", "https://scriptblox.com/script/Blue-Heater-ALPHA-Autofarm-and-more-11155")

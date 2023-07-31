@@ -1,0 +1,2 @@
+
+addscript(1537690962, "Current Game","Bss", "Uploaded by Nixks on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Bss69.lua", "https://scriptblox.com/script/Bee-Swarm-Simulator-Bss-11034")

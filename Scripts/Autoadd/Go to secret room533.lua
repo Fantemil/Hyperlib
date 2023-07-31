@@ -1,0 +1,12 @@
+local TS4392857 = game:GetService("TweenService")
+local TI392856 = TweenInfo.new(1, Enum.EasingStyle.Linear)
+TS4392857:Create(game.Players.LocalPlayer.Character.HumanoidRootPart, TI392856, {CFrame = CFrame.new(Vector3.new(-47.33416748046875, 2.599982976913452, 35.52418899536133))}):Play()
+wait(1)
+game.Players.LocalPlayer.Character.Humanoid.Sit = false
+local TI30924 = TweenInfo.new(0.8, Enum.EasingStyle.Linear)
+local t346 = TS4392857:Create(game.Players.LocalPlayer.Character.HumanoidRootPart, TI30924, {CFrame = CFrame.new(Vector3.new(-50.73085021972656, 6.74226713180542, 40.822608947753906))})
+t346:Play()
+wait(0.8)
+local TI43029857 = TweenInfo.new(0.7, Enum.EasingStyle.Linear)
+local t436456 = TS4392857:Create(game.Players.LocalPlayer.Character.HumanoidRootPart, TI43029857, {CFrame = CFrame.new(Vector3.new(-57.65092468261719, 2.6031229496002197, 40.855316162109375))})
+t436456:Play()

@@ -1,0 +1,2 @@
+
+addscript(10129750406, "Current Game","Infinite OP Lucky Box n All Gears and more", "Uploaded by KhSaeed90 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Infinite%20OP%20Lucky%20Box%20n%20All%20Gears%20and%20more697.lua", "https://scriptblox.com/script/Climb-2000-Stairs-to-VIP-Obby-Get-All-Gears-and-more-11517")

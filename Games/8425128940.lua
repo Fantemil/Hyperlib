@@ -1,0 +1,4 @@
+
+addscript(8425128940, "Current Game","AW Script Verny Hub", "Uploaded by vernyfx666 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AW%20Script%20Verny%20Hub755.lua", "https://scriptblox.com/script/UPD4%2B2X-Anime-Warriors-Simulator-2-AW-Script-Verny-Hub-10884")
+    addscriptexist(8425128940, "Yeat Hub", "Uploaded by vernyfx666 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Yeat%20Hub780.lua", "https://scriptblox.com/script/UPD10%2B2X-Anime-Warriors-Simulator-2-Yeat-Hub-11425")
+                                

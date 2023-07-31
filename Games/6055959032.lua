@@ -1,0 +1,2 @@
+
+addscript(6055959032, "Current Game","FREE FOR A COUPLE HOURS", "Uploaded by yoyoyoo on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FREE%20FOR%20A%20COUPLE%20HOURS377.lua", "https://scriptblox.com/script/Jailbird-S3-Beta-19.0-FREE-FOR-A-COUPLE-HOURS-12121")

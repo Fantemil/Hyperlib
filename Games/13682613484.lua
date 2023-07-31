@@ -1,0 +1,2 @@
+
+addscript(13682613484, "Current Game","FE Music", "Uploaded by Netflix on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FE%20Music232.lua", "https://scriptblox.com/script/RNG-Game-puzzle-2-FE-Music-11673")

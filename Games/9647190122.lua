@@ -1,0 +1,2 @@
+
+addscript(9647190122, "Current Game","Auto Farm Updated", "Uploaded by Partner on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Farm%20Updated663.lua", "https://scriptblox.com/script/Max's-Glitch-Per-Difficulty-Chart-Obby-Auto-Farm-Updated-11767")

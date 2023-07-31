@@ -1,0 +1,2 @@
+
+addscript(6441847031, "Current Game","Gamepass Giver", "Uploaded by Unc0dxd on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Gamepass%20Giver316.lua", "https://scriptblox.com/script/CHAOS-Gamepass-Giver-12028")

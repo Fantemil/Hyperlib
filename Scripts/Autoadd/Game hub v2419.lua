@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/GamerScripter/Game_Hub_v2/main/loader"))()

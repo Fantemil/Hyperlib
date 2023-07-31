@@ -1,0 +1,2 @@
+
+addscript(4390380541, "Current Game","Very OP script For Farm", "Uploaded by HelloWorld_ on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Very%20OP%20script%20For%20Farm754.lua", "https://scriptblox.com/script/Rumble-Quest-Very-OP-script-For-Farm-12181")

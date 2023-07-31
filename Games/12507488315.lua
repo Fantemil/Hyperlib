@@ -1,0 +1,2 @@
+
+addscript(12507488315, "Current Game","Go to secret room", "Uploaded by AlexvPlays on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Go%20to%20secret%20room533.lua", "https://scriptblox.com/script/flex-your-weather-Go-to-secret-room-11391")

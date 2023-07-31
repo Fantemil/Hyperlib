@@ -1,0 +1,2 @@
+
+addscript(2809202155, "Current Game","Best Autofarms Auto over heaven Auto pity Lucky Hop alotetc", "Uploaded by delectiv on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Best%20Autofarms%20Auto%20over%20heaven%20Auto%20pity%20Lucky%20Hop%20alotetc880.lua", "https://scriptblox.com/script/S.M.-REWORK-Your-Bizarre-Adventure-Best-Autofarms-Auto-over-heaven-Auto-pity-Lucky-Hop-alotetc-11810")

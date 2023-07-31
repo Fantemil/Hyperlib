@@ -1,0 +1,2 @@
+
+addscript(6872265039, "Current Game","Fly Chest Stealer and More", "Uploaded by Talin on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Fly%20Chest%20Stealer%20and%20More954.lua", "https://scriptblox.com/script/BedWars-VOLCANIC!-Fly-Chest-Stealer-and-More-12003")

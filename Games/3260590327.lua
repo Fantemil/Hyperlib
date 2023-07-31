@@ -1,0 +1,2 @@
+
+addscript(3260590327, "Current Game","TDS Auto Lobby", "Uploaded by SUUSIIWKEMSKOWO on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TDS%20Auto%20Lobby421.lua", "https://scriptblox.com/script/NEW!-Tower-Defense-Simulator-TDS-Auto-Lobby-11424")

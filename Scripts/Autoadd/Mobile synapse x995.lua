@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ImUltik/Lisbon/main/Scripts/synternal.lua"))()

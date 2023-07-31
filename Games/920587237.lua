@@ -1,0 +1,2 @@
+
+addscript(920587237, "Current Game","Me Auto Farm Auto Open Gifts Auto Claim Quest More", "Uploaded by MaksSuperCat on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Me%20Auto%20Farm%20Auto%20Open%20Gifts%20Auto%20Claim%20Quest%20More39.lua", "https://scriptblox.com/script/Adopt-Me!-Me-Auto-Farm-Auto-Open-Gifts-Auto-Claim-Quest-More-12149")

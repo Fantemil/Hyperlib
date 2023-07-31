@@ -1,0 +1,2 @@
+
+addscript(11697499450, "Current Game","free Gmepsses gui", "Uploaded by F_hub99 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/free%20Gmepsses%20gui482.lua", "https://scriptblox.com/script/Obby-But-You're-a-Potato-UPDATE-free-gmepss-gui-11716")

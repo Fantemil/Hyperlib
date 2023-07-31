@@ -1,0 +1,4 @@
+
+addscript(6403373529, "Current Game","Rojo Abuse Script", "Uploaded by Cheatsmith_Zyron on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Rojo%20Abuse%20Script331.lua", "https://scriptblox.com/script/UPDATE-Slap-Battles-Rojo-Abuse-Script-11974")
+    addscriptexist(6403373529, "kill aura auto farm", "Uploaded by Cloud0x22 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/kill%20aura%20auto%20farm291.lua", "https://scriptblox.com/script/Slap-Battles-kill-aura-auto-farm-11970")
+                                

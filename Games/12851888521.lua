@@ -1,0 +1,2 @@
+
+addscript(12851888521, "Current Game","Script", "Uploaded by yoyoyoo on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Script302.lua", "https://scriptblox.com/script/Punch-Wall-Simulator-Script-12185")

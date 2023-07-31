@@ -1,0 +1,2 @@
+
+addscript(10358162137, "Current Game","Empyrion Hub", "Uploaded by Blackout on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Empyrion%20Hub718.lua", "https://scriptblox.com/script/SUN-V2-Weak-Legacy-BETA-Empyrion-Hub-11642")

@@ -1,0 +1,2 @@
+
+addscript(155615604, "Current Game","lightux script hub", "Uploaded by ecarevskiy on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/lightux%20script%20hub705.lua", "https://scriptblox.com/script/Prison-Life-lightux-script-hub-12115")

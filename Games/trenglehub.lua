@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 31.07.2023 14:29:08"
+lastupdate = "GMT +1: 31.07.2023 14:22:32"
 
 --^^^dont touch ^^^
 getgenv().statusdict = {}

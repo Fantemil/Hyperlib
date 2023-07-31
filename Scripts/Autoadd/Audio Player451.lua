@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/eYuM-coder/Audio-Player-For-Roblox/main/NewScript",true))()

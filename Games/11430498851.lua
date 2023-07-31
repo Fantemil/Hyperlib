@@ -1,0 +1,2 @@
+
+addscript(11430498851, "Current Game","GAME SCRIPT  Features In Description", "Uploaded by Manucas on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/GAME%20SCRIPT%20%20Features%20In%20Description961.lua", "https://scriptblox.com/script/UPDBuilding-towers-to-fly-farther-Au-Farm-Coins-12197")

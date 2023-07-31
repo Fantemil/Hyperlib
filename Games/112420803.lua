@@ -1,0 +1,2 @@
+
+addscript(112420803, "Current Game","Zmod", "Uploaded by di333le on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Zmod312.lua", "https://scriptblox.com/script/Kohls-Admin-House-NBC-Updated-Zmod-11943")

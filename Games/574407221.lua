@@ -1,0 +1,2 @@
+
+addscript(574407221, "Current Game","Walkspeed Noclip More", "Uploaded by Gangster on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Walkspeed%20Noclip%20More363.lua", "https://scriptblox.com/script/Super-Hero-Tycoon-Walkspeed-Noclip-More-12046")

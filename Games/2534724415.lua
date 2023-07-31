@@ -1,0 +1,2 @@
+
+addscript(2534724415, "Current Game","Character and Vehicle fly", "Uploaded by theo_lol on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Character%20and%20Vehicle%20fly893.lua", "https://scriptblox.com/script/Emergency-Response:-Liberty-County-Character-and-Vehicle-fly-12155")

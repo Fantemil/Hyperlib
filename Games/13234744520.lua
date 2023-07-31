@@ -1,0 +1,2 @@
+
+addscript(13234744520, "Current Game","wins farm auto click", "Uploaded by Wassap on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/wins%20farm%20auto%20click305.lua", "https://scriptblox.com/script/Dragon-Race-wins-farm-auto-click-12049")

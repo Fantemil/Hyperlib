@@ -1,0 +1,2 @@
+
+addscript(292439477, "Current Game","Silent Aim", "Uploaded by MDZZ on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Silent%20Aim204.lua", "https://scriptblox.com/script/Phantom-Forces-Silent-Aim-11278")

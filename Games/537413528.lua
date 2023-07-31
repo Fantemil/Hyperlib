@@ -1,0 +1,2 @@
+
+addscript(537413528, "Current Game","utofrm Lite", "Uploaded by Waza80 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/utofrm%20Lite672.lua", "https://scriptblox.com/script/Build-A-Boat-For-Treasure-utofrm-Lite-12173")

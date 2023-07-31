@@ -1,0 +1,4 @@
+
+addscript(3587619225, "Current Game","Auto Stage n Prestige and more", "Uploaded by KhSaeed90 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Stage%20n%20Prestige%20and%20more528.lua", "https://scriptblox.com/script/Mega-Easy-Obby-825-Stages!-Auto-Stage-n-Prestige-and-more-12042")
+    addscriptexist(3587619225, "Auto Complete Level", "Uploaded by Eskey on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Complete%20Level256.lua", "https://scriptblox.com/script/Mega-Easy-Obby-825-Stages!-Auto-Complete-Level-11435")
+                                

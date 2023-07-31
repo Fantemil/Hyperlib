@@ -1,0 +1,4 @@
+
+addscript(192800, "Current Game","pizz gme fun script", "Uploaded by scab on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/pizz%20gme%20fun%20script407.lua", "https://scriptblox.com/script/Work-at-a-Pizza-Place-pizz-plce-fun-script-11773")
+    addscriptexist(192800, "Pizz Plce Room Destroyer KITCHEN DESTRUCTION", "Uploaded by Ronbon6212 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pizz%20Plce%20Room%20Destroyer%20KITCHEN%20DESTRUCTION708.lua", "https://scriptblox.com/script/Work-at-a-Pizza-Place-Pizz-Plce-Room-Destroyer-KITCHEN-DESTRUCTION-11523")
+                                

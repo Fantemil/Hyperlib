@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/antipipka/roblox/main/Murder%20Mystery%202.lua"))()

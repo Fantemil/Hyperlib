@@ -1,0 +1,2 @@
+
+addscript(5956785391, "Current Game","versaware", "Uploaded by prodazhnii on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/versaware159.lua", "https://scriptblox.com/script/Update-1.5-Project-Slayers-versaware-12143")

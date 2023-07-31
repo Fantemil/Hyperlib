@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ManucasPT/GAMES/main/ManucasPT/Building%20towers%20to%20fly%20farther"))();

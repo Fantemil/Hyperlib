@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Xyl3ntHacks/Killa-s-Scripts/main/Fishing%20Frenzy", true))()

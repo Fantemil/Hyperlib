@@ -1,0 +1,2 @@
+
+addscript(6447798030, "Current Game","Auto Player Mobile", "Uploaded by yuuiz on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Player%20Mobile872.lua", "https://scriptblox.com/script/XMAS-Event-or-Funky-Friday-Auto-Player-Mobile-11026")

@@ -1,0 +1,2 @@
+
+addscript(1080206711, "Current Game","burger bomb troll GUI", "Uploaded by dsploiter on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/burger%20bomb%20troll%20GUI4.lua", "https://scriptblox.com/script/EAT-or-DIE-burger-bomb-troll-GUI-11107")
