@@ -1,0 +1,2 @@
+
+addscript(10182167049, "Current Game","Attack All Mobs Open Source", "Uploaded by Pryxo on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Attack%20All%20Mobs%20Open%20Source921.lua", "https://scriptblox.com/script/x2Magic-Punching-Simulator-(Alpha)-Attack-All-Mobs-Open-Source-6208")

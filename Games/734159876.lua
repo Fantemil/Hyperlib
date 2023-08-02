@@ -1,0 +1,2 @@
+
+addscript(734159876, "Current Game","OP SCRIPT", "Uploaded by Chiwebow on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20SCRIPT611.lua", "https://scriptblox.com/script/SharkBite-OP-SCRIPT-5541")

@@ -1,0 +1,2 @@
+
+addscript(3173458677, "Current Game","Auto Guess", "Uploaded by blxnks on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Guess518.lua", "https://scriptblox.com/script/Draw-It!-Auto-Guess-4875")

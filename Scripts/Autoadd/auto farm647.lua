@@ -1,0 +1,1 @@
+Here's a reaper 2 script without auto soul nodes loadstring(game:HttpGet(('https://raw.githubusercontent.com/XTheMasterX/Scripts/Main/Reaper2'),true))()

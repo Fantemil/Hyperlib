@@ -1,0 +1,2 @@
+
+addscript(10108131074, "Current Game","very halal mode script yes", "Uploaded by kalas on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/very%20halal%20mode%20script%20yes192.lua", "https://scriptblox.com/script/Mow-The-Lawn!-Simulator-very-halal-mode-script-yes-4456")

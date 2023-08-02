@@ -1,0 +1,2 @@
+
+addscript(4110892437, "Current Game","get minilla head", "Uploaded by albios on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/get%20minilla%20head925.lua", "https://scriptblox.com/script/MINILLA-Kaiju-Universe-re-get-minilla-head-6573")

@@ -1,0 +1,4 @@
+
+addscript(8750997647, "Current Game","Op Script", "Uploaded by TK02 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Op%20Script267.lua", "https://scriptblox.com/script/RETRO!-Tapping-Legends-X-Op-Script-5030")
+    addscriptexist(8750997647, "AutoTap AutoEgg AutoRebirth Drop Farm", "Uploaded by Haii on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AutoTap%20AutoEgg%20AutoRebirth%20Drop%20Farm574.lua", "https://scriptblox.com/script/15M-%2B-x2-Tapping-Legends-X-AutoTap-AutoEgg-AutoRebirth-Drop-Farm-3112")
+                                

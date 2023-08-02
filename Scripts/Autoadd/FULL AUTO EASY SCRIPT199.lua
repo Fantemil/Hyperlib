@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/itzRolf/Utilities/main/Tap%20League/main.lua"))()

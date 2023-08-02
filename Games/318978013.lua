@@ -1,0 +1,2 @@
+
+addscript(318978013, "Current Game","kick off gui", "Uploaded by ball_licker on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/kick%20off%20gui579.lua", "https://scriptblox.com/script/Kick-Off-kick-off-gui-5776")

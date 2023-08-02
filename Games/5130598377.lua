@@ -1,0 +1,4 @@
+
+addscript(5130598377, "Current Game","Ball Hub 6 Script", "Uploaded by Night on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ball%20Hub%206%20Script167.lua", "https://scriptblox.com/script/A-Universal-Time-Ball-Hub-6-Script-4832")
+    addscriptexist(5130598377, "A Universal Time  AUTOFARM GODMODE PLAYER FARM ", "Uploaded by TweedLeakc on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/A%20Universal%20Time%20%20AUTOFARM%20GODMODE%20PLAYER%20FARM%20663.lua", "https://scriptblox.com/script/A-Universal-Time-A-Universal-Time-AUTOFARM-***-MODE-PLAYER-FARM-3960")
+                                

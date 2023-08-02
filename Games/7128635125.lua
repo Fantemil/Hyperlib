@@ -1,0 +1,2 @@
+
+addscript(7128635125, "Current Game","Admin Commands", "Uploaded by Dark_Hero on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Admin%20Commands560.lua", "https://scriptblox.com/script/VERGIL-Old-A-Bizarre-Day-Modded-Admin-Commands-5474")

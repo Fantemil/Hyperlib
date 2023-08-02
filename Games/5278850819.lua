@@ -1,0 +1,2 @@
+
+addscript(5278850819, "Current Game","stay alive and flex your time on others Script", "Uploaded by Kara on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/stay%20alive%20and%20flex%20your%20time%20on%20others%20Script366.lua", "https://scriptblox.com/script/stay-alive-and-flex-your-time-on-others-stay-alive-and-flex-your-time-on-others-Script-4524")

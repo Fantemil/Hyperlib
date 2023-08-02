@@ -1,0 +1,2 @@
+
+addscript(6741970382, "Current Game","Zmod OPEN SOURCE", "Uploaded by MrRonak on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Zmod%20OPEN%20SOURCE618.lua", "https://scriptblox.com/script/Zombie-lab-NOW-OPEN-SOURCE-Zmod-6091")

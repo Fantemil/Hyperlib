@@ -1,0 +1,2 @@
+
+addscript(9571238478, "Current Game","uto Collect", "Uploaded by SMUG_Scripts on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/uto%20Collect27.lua", "https://scriptblox.com/script/Raise-a-Peter-uto-Collect-6356")

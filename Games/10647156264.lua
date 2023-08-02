@@ -1,0 +1,2 @@
+
+addscript(10647156264, "Current Game","nexbot script", "Uploaded by zuny on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/nexbot%20script322.lua", "https://scriptblox.com/script/Become-a-Nextbot-(RAINBOW-FRIENDS-%2B-XBOX)-nexbot-script-5768")

@@ -1,0 +1,2 @@
+
+addscript(9598746251, "Current Game","always", "Uploaded by zRetiredBot on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/always257.lua", "https://scriptblox.com/script/NEW!-Home-Run-Simulator-always-3366")

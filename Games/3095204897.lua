@@ -1,0 +1,2 @@
+
+addscript(3095204897, "Current Game","Auto Guesser", "Uploaded by peppermint on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Guesser96.lua", "https://scriptblox.com/script/Isle-Auto-Guesser-4670")

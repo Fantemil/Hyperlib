@@ -1,0 +1,2 @@
+
+addscript(4058282580, "Current Game","Autofarm Gui", "Uploaded by giannisthegamer1 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Autofarm%20Gui121.lua", "https://scriptblox.com/script/MEME-EGG!-Boxing-Simulator-Autofarm-Gui-6301")

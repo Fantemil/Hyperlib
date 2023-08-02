@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/DannyH3103/scripts/main/Anti%20Server%20Teleport", true))()

@@ -1,0 +1,2 @@
+
+addscript(3351674303, "Current Game","Sina Hub", "Uploaded by Sina_GamerGG on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sina%20Hub273.lua", "https://scriptblox.com/script/NEW-MAP!-Driving-Empire-5k-in-2-min-5837")

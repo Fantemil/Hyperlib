@@ -1,0 +1,4 @@
+
+addscript(7180042682, "Current Game","Military Tycoon", "Uploaded by jovanciorbx on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Military%20Tycoon296.lua", "https://scriptblox.com/script/BATTLESHIP!-Military-Tycoon-Military-Tycoon-3541")
+    addscriptexist(7180042682, "YAMATO event farm", "Uploaded by Oopss on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/YAMATO%20event%20farm771.lua", "https://scriptblox.com/script/BATTLESHIP!-Military-Tycoon-YAMATO-event-farm-6524")
+                                

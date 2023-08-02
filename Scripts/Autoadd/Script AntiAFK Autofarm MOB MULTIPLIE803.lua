@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ScripterHaxer/Script/main/Defender's%20Depot"))()

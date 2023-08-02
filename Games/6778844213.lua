@@ -1,0 +1,2 @@
+
+addscript(6778844213, "Current Game","Euphoria ragdoll admin panel", "Uploaded by amcoolguy on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Euphoria%20ragdoll%20admin%20panel429.lua", "https://scriptblox.com/script/Euphoria-ragdoll-testing-RUN-CHANGES-Euphoria-ragdoll-admin-panel-5422")

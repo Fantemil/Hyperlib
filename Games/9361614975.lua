@@ -1,0 +1,2 @@
+
+addscript(9361614975, "Current Game","Auto Obby and Auto Click", "Uploaded by crimewave on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Obby%20and%20Auto%20Click361.lua", "https://scriptblox.com/script/My-City-Tycoon-NEW-Auto-Obby-and-Auto-Click-5714")

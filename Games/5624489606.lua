@@ -1,0 +1,2 @@
+
+addscript(5624489606, "Current Game","nuke hub without y key again", "Uploaded by yomanisaac on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/nuke%20hub%20without%20y%20key%20again247.lua", "https://scriptblox.com/script/Escape-the-piggy-obby!!!-nuke-hub-without-y-key-again-5682")

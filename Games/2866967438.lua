@@ -1,0 +1,2 @@
+
+addscript(2866967438, "Current Game","decent gui", "Uploaded by ChickenAndChips on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/decent%20gui293.lua", "https://scriptblox.com/script/Fishing-Simulator-sim-gui-5321")

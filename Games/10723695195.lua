@@ -1,0 +1,2 @@
+
+addscript(10723695195, "Current Game","Open Source", "Uploaded by Xiovr on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Open%20Source767.lua", "https://scriptblox.com/script/UPDATE-3Anime-Evolution-Simulator-Open-Source-6562")

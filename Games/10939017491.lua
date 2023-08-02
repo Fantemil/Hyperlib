@@ -1,0 +1,4 @@
+
+addscript(10939017491, "Current Game","please rich", "Uploaded by mynameisnotok1 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/please%20rich310.lua", "https://scriptblox.com/script/Pls-Make-Me-Rich!-please-rich-6513")
+    addscriptexist(10939017491, "better pls make rich script", "Uploaded by mynameisnotok1 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/better%20pls%20make%20rich%20script224.lua", "https://scriptblox.com/script/Pls-Make-Me-Rich!-better-pls-make-rich-script-6552")
+                                

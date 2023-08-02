@@ -1,0 +1,2 @@
+
+addscript(5505830188, "Current Game","script autofarm", "Uploaded by botbrostopusing on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/script%20autofarm297.lua", "https://scriptblox.com/script/SHOP-Arcane-Oblivion-RPG-script-autofarm-5625")

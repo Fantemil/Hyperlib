@@ -1,0 +1,2 @@
+
+addscript(6717117731, "Current Game","coin autofarm", "Uploaded by rypp on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/coin%20autofarm935.lua", "https://scriptblox.com/script/Subway-Surfers-coin-autofarm-3071")

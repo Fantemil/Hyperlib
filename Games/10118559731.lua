@@ -1,0 +1,4 @@
+
+addscript(10118559731, "Current Game","ESP and Instant powerbox", "Uploaded by gore on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ESP%20and%20Instant%20powerbox903.lua", "https://scriptblox.com/script/nico's-nextbots-beta-testing-XBOX-and-MOBILE-NOW-ESP-and-Instant-powerbox-5205")
+    addscriptexist(10118559731, "Nicos Nextbots BunnyHop", "Uploaded by Monochrome on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Nicos%20Nextbots%20BunnyHop574.lua", "https://scriptblox.com/script/nico's-nextbots-beta-testing-XBOX-and-MOBILE-NOW-Nicos-Nextbots-BunnyHop-4646")
+                                

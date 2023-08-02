@@ -1,0 +1,2 @@
+
+addscript(60654525, "Current Game","Unlimited gold", "Uploaded by Setsuwa on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Unlimited%20gold243.lua", "https://scriptblox.com/script/The-Legendary-Swords-RPG-Unlimited-gold-3351")

@@ -1,0 +1,2 @@
+
+addscript(4325400580, "Current Game","SUPER OP AND FUN TO USE", "Uploaded by 2ddr on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SUPER%20OP%20AND%20FUN%20TO%20USE576.lua", "https://scriptblox.com/script/Army-Tycoon-SUPER-OP-AND-FUN-TO-USE-6029")

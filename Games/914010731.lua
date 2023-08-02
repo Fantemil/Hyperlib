@@ -1,0 +1,2 @@
+
+addscript(914010731, "Current Game","RoGhoul Invisible Script", "Uploaded by tomfooler on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RoGhoul%20Invisible%20Script893.lua", "https://scriptblox.com/script/Ro-Ghoul-ALPHA-RoGhoul-Invisible-SCript-4369")

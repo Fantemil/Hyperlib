@@ -1,0 +1,2 @@
+
+addscript(9871062639, "Current Game","Infinite Score", "Uploaded by Shine on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Infinite%20Score992.lua", "https://scriptblox.com/script/Flappy-Duo-DUOJAM-Infinite-Score-4741")

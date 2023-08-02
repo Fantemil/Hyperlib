@@ -1,0 +1,2 @@
+
+addscript(4036494886, "Current Game","Infinite Money", "Uploaded by sirgavingraham on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Infinite%20Money272.lua", "https://scriptblox.com/script/10X-Gun-Simulator-Infinite-Money-6404")

@@ -1,0 +1,2 @@
+
+addscript(6953291455, "Current Game","EZ", "Uploaded by caganhuseyinerdil on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/EZ662.lua", "https://scriptblox.com/script/Eating-Simulator-EZ-4436")

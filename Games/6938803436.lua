@@ -1,0 +1,2 @@
+
+addscript(6938803436, "Current Game","OP Anime dimensions script", "Uploaded by Ulti on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20Anime%20dimensions%20script218.lua", "https://scriptblox.com/script/2X-EXP-or-Anime-Dimensions-Simulator-OP-Anime-dimensions-script-6279")

@@ -1,0 +1,2 @@
+
+addscript(10175705301, "Current Game","Complete all obbys", "Uploaded by Tomato on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Complete%20all%20obbys309.lua", "https://scriptblox.com/script/Cant-Say-the-Word-Complete-all-obbys-4689")

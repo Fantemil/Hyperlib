@@ -1,0 +1,4 @@
+
+addscript(7056922815, "Current Game","auto farm", "Uploaded by UltraExotic on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/auto%20farm647.lua", "https://scriptblox.com/script/RELEASE-ALPHA-Reaper-2-Reaper-2-request-auto-farm-soul-nodes-5996")
+    addscriptexist(7056922815, "Open Source Mob Aura", "Uploaded by Keybrew on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Open%20Source%20Mob%20Aura858.lua", "https://scriptblox.com/script/RELEASE-ALPHA-Reaper-2-Open-Source-Mob-Aura-3387")
+                                

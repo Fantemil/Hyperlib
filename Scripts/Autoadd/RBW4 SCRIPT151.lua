@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/pa1nx9/qwe/main/RBW4%20Aimbot%20%7C%20Auto%20Time%20%5BNEW%5D.lua"))()

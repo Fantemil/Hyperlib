@@ -1,0 +1,2 @@
+
+addscript(10912060909, "Current Game","Free UGC Item", "Uploaded by sunken on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Free%20UGC%20Item387.lua", "https://scriptblox.com/script/Black-Adam-Experience-Free-UGC-Item-6493")

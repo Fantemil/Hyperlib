@@ -1,0 +1,2 @@
+
+addscript(6753004901, "Current Game","SwingCity GIU", "Uploaded by BeboMods on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SwingCity%20GIU813.lua", "https://scriptblox.com/script/Swing-City-Script-5732")

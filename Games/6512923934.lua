@@ -1,0 +1,2 @@
+
+addscript(6512923934, "Current Game","Auto click", "Uploaded by lol_ok on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20click391.lua", "https://scriptblox.com/script/x750000000-Clicks-Ultra-Clicker-Simulator-Auto-click-5056")

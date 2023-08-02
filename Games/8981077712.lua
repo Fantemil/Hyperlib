@@ -1,0 +1,2 @@
+
+addscript(8981077712, "Current Game","Kill yourself cause why not", "Uploaded by yomanisaac on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Kill%20yourself%20cause%20why%20not759.lua", "https://scriptblox.com/script/Im-Dead-Kill-yourself-cause-why-not-5156")

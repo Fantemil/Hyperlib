@@ -1,0 +1,4 @@
+
+addscript(1240644540, "Current Game","Bomb the pieces out of everyone", "Uploaded by VampireKiller on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Bomb%20the%20pieces%20out%20of%20everyone401.lua", "https://scriptblox.com/script/Vampire-Hunters-3-Bomb-the-****-out-of-everyone-4467")
+    addscriptexist(1240644540, "Sorta instakill script", "Uploaded by VampireKiller on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sorta%20instakill%20script433.lua", "https://scriptblox.com/script/Vampire-Hunters-3-Slam-your-fat-body-onto-people-and-kill-them-4227")
+                                

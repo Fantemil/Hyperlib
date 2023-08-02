@@ -1,0 +1,4 @@
+
+addscript(10675066724, "Current Game","Auto Obby Auto Collect etc", "Uploaded by Pryxo on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Obby%20Auto%20Collect%20etc15.lua", "https://scriptblox.com/script/Slime-Tower-Tycoon-NEW!-Auto-Obby-Auto-Collect-etc-6207")
+    addscriptexist(10675066724, "Hades Hub", "Uploaded by Satori on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Hades%20Hub688.lua", "https://scriptblox.com/script/Slime-Tower-Tycoon-NEW!-Hades-Hub-6020")
+                                

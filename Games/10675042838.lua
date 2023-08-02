@@ -1,0 +1,2 @@
+
+addscript(10675042838, "Current Game","auto clean", "Uploaded by TheUnusualUsername on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/auto%20clean988.lua", "https://scriptblox.com/script/Lemonade-Tycoon-OBBIES!-auto-clean-6491")

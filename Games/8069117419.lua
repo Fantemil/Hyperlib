@@ -1,0 +1,2 @@
+
+addscript(8069117419, "Current Game","AutoFarm Teleports AutoChest", "Uploaded by weiny on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AutoFarm%20Teleports%20AutoChest357.lua", "https://scriptblox.com/script/PETS-3.0Demon-Soul-Simulator-AutoFarm-Teleports-AutoChest-3510")

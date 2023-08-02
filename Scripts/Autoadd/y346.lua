@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://raw.githubusercontent.com/raisinhvh/FruitJuiceTycoon/main/main.lua',true))()

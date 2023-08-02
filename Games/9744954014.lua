@@ -1,0 +1,2 @@
+
+addscript(9744954014, "Current Game","Tha Hood GodMode Inf Ammo", "Uploaded by MeatBall_Is_God on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tha%20Hood%20GodMode%20Inf%20Ammo708.lua", "https://scriptblox.com/script/100B-Event-%2B-Zombie-Animation-THA-HOOD!!!-Hood-***-Mode-Inf-Ammo-5626")

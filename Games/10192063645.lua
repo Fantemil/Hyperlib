@@ -1,0 +1,2 @@
+
+addscript(10192063645, "Current Game","get excalibur", "Uploaded by gore on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/get%20excalibur701.lua", "https://scriptblox.com/script/Thy-hood-get-excalibur-5844")

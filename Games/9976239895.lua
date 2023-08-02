@@ -1,0 +1,2 @@
+
+addscript(9976239895, "Current Game","Novice Hub", "Uploaded by Amph on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Novice%20Hub865.lua", "https://scriptblox.com/script/UPDATE!-Gumball-Factory-Tycoon-Novice-Hub-4908")

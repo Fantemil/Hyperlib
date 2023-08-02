@@ -1,0 +1,2 @@
+
+addscript(9143982021, "Current Game","Sword battles crash script", "Uploaded by TheUnusualUsername on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sword%20battles%20crash%20script608.lua", "https://scriptblox.com/script/Sword-Battles-Sword-battles-script-4255")

@@ -1,0 +1,2 @@
+
+addscript(5985232436, "Current Game","Ski hub", "Uploaded by Kosovo on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ski%20hub696.lua", "https://scriptblox.com/script/SPRING-Infectious-Smile-Ski-hub-6485")

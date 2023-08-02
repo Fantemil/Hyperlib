@@ -1,0 +1,2 @@
+
+addscript(7256082823, "Current Game","Equip Items", "Uploaded by Ali_ on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Equip%20Items799.lua", "https://scriptblox.com/script/Smart-Boss-Fights-Idiotic-6492")

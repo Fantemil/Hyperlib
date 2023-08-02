@@ -1,0 +1,2 @@
+
+addscript(10804519995, "Current Game","pject sinister really cool script", "Uploaded by MasterOogway on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/pject%20sinister%20really%20cool%20script952.lua", "https://scriptblox.com/script/Ro-Fruit-pject-sinister-really-cool-script-6482")

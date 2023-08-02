@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/kmsjason/hcbb/main/hcbb", true))();

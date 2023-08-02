@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/kodescripts/scripts/main/stumble-buddies-admin.lua", true))()

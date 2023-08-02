@@ -1,0 +1,2 @@
+
+addscript(8328351891, "Current Game","GUI", "Uploaded by Nicuse on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/GUI353.lua", "https://scriptblox.com/script/Mega-Mansion-Tycoon-CITY!-GUI-5373")

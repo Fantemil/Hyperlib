@@ -1,0 +1,2 @@
+
+addscript(8260276694, "Current Game","dsadas", "Uploaded by alotalot9733 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/dsadas175.lua", "https://scriptblox.com/script/UPDATE-Ability-Wars-dsadas-4807")

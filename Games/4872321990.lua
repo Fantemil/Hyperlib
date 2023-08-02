@@ -1,0 +1,2 @@
+
+addscript(4872321990, "Current Game","System exodus", "Uploaded by nier356 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/System%20exodus495.lua", "https://scriptblox.com/script/Islands-FISHING!-Systemexodus-3410")

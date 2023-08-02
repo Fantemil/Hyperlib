@@ -1,2 +1,0 @@
-
-addscript(7378813434, "Current Game","Cotton Obby", "Uploaded by asia on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Cotton%20Obby523.lua", "https://scriptblox.com/script/Cotton-Obby!-Cotton-Obby-10860")

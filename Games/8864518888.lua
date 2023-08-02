@@ -1,0 +1,2 @@
+
+addscript(8864518888, "Current Game","Gui", "Uploaded by Muimi on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Gui335.lua", "https://scriptblox.com/script/1-Day!!-Pet-Legends-2-Gui-6389")

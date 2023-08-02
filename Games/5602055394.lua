@@ -1,0 +1,2 @@
+
+addscript(5602055394, "Current Game","chariotsware", "Uploaded by 2ddr on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/chariotsware134.lua", "https://scriptblox.com/script/Hood-Modded-chariotsware-5983")

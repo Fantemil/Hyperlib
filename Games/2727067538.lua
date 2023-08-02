@@ -1,0 +1,2 @@
+
+addscript(2727067538, "Current Game","Best GUI", "Uploaded by Zoltron on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Best%20GUI433.lua", "https://scriptblox.com/script/World-Zero-Best-GUI-5642")

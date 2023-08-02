@@ -1,0 +1,2 @@
+
+addscript(6442957604, "Current Game","ez auto farm", "Uploaded by caganhuseyinerdil on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ez%20auto%20farm750.lua", "https://scriptblox.com/script/Custom-PC-Tycoon!-ez-auto-farm-4425")

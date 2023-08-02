@@ -1,0 +1,2 @@
+
+addscript(8151832473, "Current Game","inf money NOT MINE", "Uploaded by frm410 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/inf%20money%20NOT%20MINE276.lua", "https://scriptblox.com/script/TheGhettoGame-2M!!!!!-inf-money-3774")

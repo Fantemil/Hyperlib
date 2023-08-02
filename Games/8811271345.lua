@@ -1,0 +1,2 @@
+
+addscript(8811271345, "Current Game","xAI Script", "Uploaded by V3rmScriptsUploader on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/xAI%20Script347.lua", "https://scriptblox.com/script/SUMMER-FESTIVAL-Balanced-Craftwars-Overhaul-xAI-Script-5172")

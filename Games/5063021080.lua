@@ -1,0 +1,2 @@
+
+addscript(5063021080, "Current Game","Pirate Hub", "Uploaded by goofygoober24 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pirate%20Hub7.lua", "https://scriptblox.com/script/1-MILLION-VISITS-EVENT!-My-Modded-Day-Pirate-Hub-5875")

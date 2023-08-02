@@ -1,0 +1,2 @@
+
+addscript(9845465117, "Current Game","lobby spawn kill free xp", "Uploaded by loyal on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/lobby%20spawn%20kill%20free%20xp371.lua", "https://scriptblox.com/script/UPDATE-1-AU:Reborn-lobby-spawn-kill-free-xp-4961")

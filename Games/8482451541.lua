@@ -1,0 +1,4 @@
+
+addscript(8482451541, "Current Game","INFINITE WINS", "Uploaded by sirgavingraham on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/INFINITE%20WINS894.lua", "https://scriptblox.com/script/FALL-HUNT-Brick-Defense-INFINITE-WINS-6433")
+    addscriptexist(8482451541, "DELETE EVERYONES TOWERS", "Uploaded by Muhammer on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DELETE%20EVERYONES%20TOWERS15.lua", "https://scriptblox.com/script/FALL-HUNT-Brick-Defense-DELETE-EVERYONES-TOWERS-6328")
+                                

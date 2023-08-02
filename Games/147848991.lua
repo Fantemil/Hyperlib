@@ -1,0 +1,2 @@
+
+addscript(147848991, "Current Game","Be a parkour ninja not", "Uploaded by saricamyasin4 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Be%20a%20parkour%20ninja%20not575.lua", "https://scriptblox.com/script/Be-A-Parkour-Ninja-Be-a-parkour-ninja-not-5348")

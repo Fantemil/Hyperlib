@@ -1,0 +1,2 @@
+
+addscript(7369208341, "Current Game","SuperHero Inf Coins", "Uploaded by _Zyn_ on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SuperHero%20Inf%20Coins636.lua", "https://scriptblox.com/script/SKINS-SYSTEM-UPDATE!!-or-SuperHero:-Universe-1.7-SuperHero-Inf-Coins-5660")

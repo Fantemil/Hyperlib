@@ -1,0 +1,4 @@
+
+addscript(10710676163, "Current Game","SPTS ORIGIN l Gamma hub Made by Gammatix On v3rmillion", "Uploaded by ImAnSkid on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SPTS%20ORIGIN%20l%20Gamma%20hub%20Made%20by%20Gammatix%20On%20v3rmillion6.lua", "https://scriptblox.com/script/SPTS-:-Origin-SPTS-ORIGIN-l-Gamma-hub-Made-by-Gammatix-On-v3rmillion-6068")
+    addscriptexist(10710676163, "Gui script", "Uploaded by King_Shmuck on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Gui%20script778.lua", "https://scriptblox.com/script/SPTS-:-Origin-Gui-script-6067")
+                                

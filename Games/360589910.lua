@@ -1,0 +1,2 @@
+
+addscript(360589910, "Current Game","Reach script", "Uploaded by Marski on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Reach%20script35.lua", "https://scriptblox.com/script/Hoops-Demo-(Basketball)-Reach-script-6485")

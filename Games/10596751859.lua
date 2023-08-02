@@ -1,0 +1,2 @@
+
+addscript(10596751859, "Current Game","Transform into a vampire", "Uploaded by VampireKiller on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Transform%20into%20a%20vampire939.lua", "https://scriptblox.com/script/Vh2-Testing-Transform-into-a-vampire-5358")

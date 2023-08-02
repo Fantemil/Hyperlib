@@ -1,0 +1,2 @@
+
+addscript(10142749739, "Current Game","Infinite Coins Gems And Items", "Uploaded by dielan on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Infinite%20Coins%20Gems%20And%20Items717.lua", "https://scriptblox.com/script/Beta-Pet-Fighting-Simulator-Infinite-Coins-Gems-And-Stuffs-6010")

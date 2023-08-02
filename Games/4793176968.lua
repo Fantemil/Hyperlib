@@ -1,0 +1,2 @@
+
+addscript(4793176968, "Current Game","Radio Disabler", "Uploaded by mrenforcementroblox on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Radio%20Disabler821.lua", "https://scriptblox.com/script/Mano-County-Police-Patrol-Radio-Disabler-6197")

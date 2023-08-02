@@ -1,0 +1,2 @@
+
+addscript(9772878203, "Current Game","raise a floppa 2 AUTOFARM", "Uploaded by giannisthegamer1 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/raise%20a%20floppa%202%20AUTOFARM373.lua", "https://scriptblox.com/script/raise-a-floppa-2-flopp-UTOFRM-4192")

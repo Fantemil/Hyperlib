@@ -1,0 +1,2 @@
+
+addscript(6357903043, "Current Game","instant m1 updated", "Uploaded by Novaz on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/instant%20m1%20updated513.lua", "https://scriptblox.com/script/UPDATE-1!-Aniverse-dont-use-that-yt-skidded-script-5116")

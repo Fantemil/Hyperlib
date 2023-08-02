@@ -4,3 +4,15 @@ addscript(6516141723, "Current Game","Shears on everything", "Uploaded by 006Ker
                                 
     addscriptexist(6516141723, "BEST SCIRPT HUB D00RS", "Uploaded by msvamp on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BEST%20SCIRPT%20HUB%20D00RS745.lua", "https://scriptblox.com/script/DOORS-BEST-SCIRPT-HUB-D00RS-11644")
                                 
+    addscriptexist(6516141723, "Summon Entities", "Uploaded by ChronoAccelerator on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Summon%20Entities557.lua", "https://scriptblox.com/script/DOORS-Summon-Entities-6534")
+                                
+    addscriptexist(6516141723, " Farm to Door 100 WalkSpeed Esp", "Uploaded by TweedLeakc on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/%20Farm%20to%20Door%20100%20WalkSpeed%20Esp575.lua", "https://scriptblox.com/script/DOORS-usizu-6487")
+                                
+    addscriptexist(6516141723, "Doors Gui", "Uploaded by giannisthegamer1 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Doors%20Gui720.lua", "https://scriptblox.com/script/DOORS-Doors-Gui-6223")
+                                
+    addscriptexist(6516141723, "Auto Farm", "Uploaded by Cammy on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Farm145.lua", "https://scriptblox.com/script/DOORS-Auto-Farm-6333")
+                                
+    addscriptexist(6516141723, "Auto Farm kn0bs", "Uploaded by Kokot on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Farm%20kn0bs67.lua", "https://scriptblox.com/script/DOORS-Doors-Auto-Farm-*****-6492")
+                                
+    addscriptexist(6516141723, "Script 2022 Better Reupload", "Uploaded by AK47 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Script%202022%20Better%20Reupload354.lua", "https://scriptblox.com/script/DOORS-Doors-Script-2022-6141")
+                                

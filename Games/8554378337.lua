@@ -1,0 +1,2 @@
+
+addscript(8554378337, "Current Game","Simpel Script", "Uploaded by TK02 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Simpel%20Script666.lua", "https://scriptblox.com/script/UPDATE-1-Weapon-Fighting-Simulator-Simpel-Script-4840")

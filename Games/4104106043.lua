@@ -1,0 +1,2 @@
+
+addscript(4104106043, "Current Game","elevator script", "Uploaded by pichie09cool on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/elevator%20script926.lua", "https://scriptblox.com/script/Insane-Elevator!-*CARTOON-CAT-and-AMONG-US-IMPOSTER*-elevator-script-3304")

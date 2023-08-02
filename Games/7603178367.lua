@@ -1,0 +1,2 @@
+
+addscript(7603178367, "Current Game","Chipotle Burrito Builder AUTO COMPLETE EVENT", "Uploaded by ball_licker on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Chipotle%20Burrito%20Builder%20AUTO%20COMPLETE%20EVENT811.lua", "https://scriptblox.com/script/Chipotle-Burrito-Builder-Chipotle-Burrito-Builder-AUTO-COMPLETE-EVENT-5805")

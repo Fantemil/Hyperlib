@@ -1,0 +1,2 @@
+
+addscript(6708206173, "Current Game","RMA Bypasser", "Uploaded by NoxuScripts on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RMA%20Bypasser428.lua", "https://scriptblox.com/script/Rate-My-Avatar-RMA-Bypasser-4149")

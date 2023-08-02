@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://gist.githubusercontent.com/Zuwyy/e61b82b7b25988b345f78ab9ac41353f/raw/68cc6c0e67244f2c77c31361988b9b8c34fbec63/Script%25232"))();

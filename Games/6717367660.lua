@@ -1,0 +1,2 @@
+
+addscript(6717367660, "Current Game","Script  INFINITE MONEY  SERVERSIDED", "Uploaded by Beaver on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Script%20%20INFINITE%20MONEY%20%20SERVERSIDED944.lua", "https://scriptblox.com/script/Happy-Land-Script-or-INFINITE-MONEY-SERVERSIDED-3396")

@@ -1,0 +1,2 @@
+
+addscript(9701909530, "Current Game","Free Legendary Fruit", "Uploaded by Luni on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Free%20Legendary%20Fruit569.lua", "https://scriptblox.com/script/Top-Piece-UPDATE-Free-Legendary-Fruit-3462")

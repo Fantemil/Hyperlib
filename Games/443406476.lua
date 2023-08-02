@@ -1,0 +1,2 @@
+
+addscript(443406476, "Current Game","PROJECT LAZARAS OP DARKHUB SCRIPT", "Uploaded by urm0thersm1ne on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PROJECT%20LAZARAS%20OP%20DARKHUB%20SCRIPT573.lua", "https://scriptblox.com/script/Project-Lazarus:-ZOMBIES-M26-MASS!-PROJECT-LAZARAS-OP-DARKHUB-SCRIPT-3225")

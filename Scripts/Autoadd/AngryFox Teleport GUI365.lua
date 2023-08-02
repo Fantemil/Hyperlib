@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://raw.githubusercontent.com/YTAngryFox/AngryFox-Teleport-GUI/main/main.lua'))()

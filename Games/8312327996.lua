@@ -1,0 +1,2 @@
+
+addscript(8312327996, "Current Game","Nuke hub wthout gong through the mboost", "Uploaded by yomanisaac on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Nuke%20hub%20wthout%20gong%20through%20the%20mboost431.lua", "https://scriptblox.com/script/why-i-need-food-Nuke-hub-wthout-gong-through-the-mboost-5095")

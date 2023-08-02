@@ -1,0 +1,2 @@
+
+addscript(9751569460, "Current Game","Script  AutoFarm Level  TP Islands", "Uploaded by bizz on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Script%20%20AutoFarm%20Level%20%20TP%20Islands707.lua", "https://scriptblox.com/script/LIMITED-TREASURE-HUNT-EVENT-ARCH-PIECE-Script-or-AutoFarm-Level-and-TP-Islands-3617")

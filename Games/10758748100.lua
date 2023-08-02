@@ -1,0 +1,2 @@
+
+addscript(10758748100, "Current Game","Get any amount of OP", "Uploaded by machai2405 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Get%20any%20amount%20of%20OP964.lua", "https://scriptblox.com/script/Killstreak-Simulator:-Remake-Get-any-amount-of-killstreak-5972")

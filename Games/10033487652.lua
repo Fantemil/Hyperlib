@@ -1,0 +1,2 @@
+
+addscript(10033487652, "Current Game","FULL AUTO EASY SCRIPT", "Uploaded by caganhuseyinerdil on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FULL%20AUTO%20EASY%20SCRIPT199.lua", "https://scriptblox.com/script/RELEASE!-Tap-League!-FULL-AUTO-EASY-SCRIPT-4426")

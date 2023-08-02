@@ -1,0 +1,2 @@
+
+addscript(7305309231, "Current Game","Trophies Autofarm", "Uploaded by Runn on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Trophies%20Autofarm441.lua", "https://scriptblox.com/script/Taxi-Boss-Trophies-Autofarm-5025")

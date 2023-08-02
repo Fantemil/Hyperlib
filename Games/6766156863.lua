@@ -1,0 +1,2 @@
+
+addscript(6766156863, "Current Game","get all badges", "Uploaded by Bebedi on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/get%20all%20badges825.lua", "https://scriptblox.com/script/FREE-UGC!-5x-Strongman-Wimbledon-get-all-badges-4222")

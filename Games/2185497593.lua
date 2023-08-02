@@ -1,0 +1,2 @@
+
+addscript(2185497593, "Current Game","Auto Pickup Coins", "Uploaded by dexx on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Pickup%20Coins74.lua", "https://scriptblox.com/script/Arcade-Island-X:-Working-Arcade-Auto-Pickup-Coins-5838")

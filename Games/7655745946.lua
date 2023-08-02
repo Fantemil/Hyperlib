@@ -1,0 +1,2 @@
+
+addscript(7655745946, "Current Game","mxkxkks dodo gui source", "Uploaded by Xangalix on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/mxkxkks%20dodo%20gui%20source942.lua", "https://scriptblox.com/script/Dunking-Simulator-mxkxkks-dodo-gui-source-6512")

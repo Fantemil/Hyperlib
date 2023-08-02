@@ -1,0 +1,2 @@
+
+addscript(9524757503, "Current Game","Get free item right now", "Uploaded by demokritoss on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Get%20free%20item%20right%20now119.lua", "https://scriptblox.com/script/iHeartLand:-Music-Tycoon-FEAT.-LAUV-Get-free-item-right-now-5838")

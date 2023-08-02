@@ -1,0 +1,2 @@
+
+addscript(8815835604, "Current Game","Legacy Engine", "Uploaded by LeanNBud on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Legacy%20Engine89.lua", "https://scriptblox.com/script/Avatar-The-New-Awakening-2-(CHI-BLOCKERS!!)-Legacy-Engine-3289")

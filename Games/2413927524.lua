@@ -1,0 +1,2 @@
+
+addscript(2413927524, "Current Game","LynX v2", "Uploaded by LynXz on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LynX%20v2212.lua", "https://scriptblox.com/script/The-Rake-REMASTERED-LynX-v2-5347")

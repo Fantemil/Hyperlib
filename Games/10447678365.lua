@@ -1,0 +1,2 @@
+
+addscript(10447678365, "Current Game","Buy All Dinosaurs", "Uploaded by dielan on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Buy%20All%20Dinosaurs655.lua", "https://scriptblox.com/script/Dinosaur-Simulator-Buy-EVERY-Dinosaurs-Using-Coins-6130")

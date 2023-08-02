@@ -1,0 +1,2 @@
+
+addscript(10218821851, "Current Game","Super Script", "Uploaded by Lua_Dev on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Super%20Script554.lua", "https://scriptblox.com/script/Client-Replication-Super-Scrit-5479")

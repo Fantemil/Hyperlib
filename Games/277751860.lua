@@ -1,0 +1,2 @@
+
+addscript(277751860, "Current Game","better anticheat bypasser", "Uploaded by dotgg on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/better%20anticheat%20bypasser898.lua", "https://scriptblox.com/script/Epic-Minigames-better-anticheat-bypasser-5351")

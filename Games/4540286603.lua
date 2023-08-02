@@ -1,0 +1,2 @@
+
+addscript(4540286603, "Current Game","nw script", "Uploaded by clashroyaleenjoyer on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/nw%20script854.lua", "https://scriptblox.com/script/MAJOR-UPDATE-NORTHWIND-nw-script-6390")

@@ -1,0 +1,2 @@
+
+addscript(8116417963, "Current Game","inf disks or whatever", "Uploaded by tomergamertv on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/inf%20disks%20or%20whatever134.lua", "https://scriptblox.com/script/Carcraft-inf-disks-or-whatever-4302")

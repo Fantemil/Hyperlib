@@ -1,0 +1,2 @@
+
+addscript(9129288160, "Current Game","Auto", "Uploaded by 03ss on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto215.lua", "https://scriptblox.com/script/NEW-ITEMS!-Tommy-Play-Auto-5342")

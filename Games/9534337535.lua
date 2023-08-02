@@ -1,0 +1,2 @@
+
+addscript(9534337535, "Current Game","Item Giver Entity Killer Teleports", "Uploaded by HeHyHaxep on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Item%20Giver%20Entity%20Killer%20Teleports896.lua", "https://scriptblox.com/script/Shrek-in-the-Backrooms-(Flame-Thrower!)-Item-Giver-Entity-Killer-Teleports-3342")

@@ -1,0 +1,2 @@
+
+addscript(6064514088, "Current Game","godmode", "Uploaded by yuui_z on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/godmode454.lua", "https://scriptblox.com/script/JoJo-Stand-Testing-EVENT!-%2B-Sale!-godmode-4786")

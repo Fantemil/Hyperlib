@@ -1,0 +1,2 @@
+
+addscript(10395780183, "Current Game","nuke hub without the key again", "Uploaded by yomanisaac on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/nuke%20hub%20without%20the%20key%20again6.lua", "https://scriptblox.com/script/Big-Update!-Lumber-tycoon-2-nuke-hub-without-the-key-again-5532")

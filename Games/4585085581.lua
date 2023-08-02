@@ -1,0 +1,2 @@
+
+addscript(4585085581, "Current Game","Shinobi Storm Script  Unlock All Characters", "Uploaded by better on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Shinobi%20Storm%20Script%20%20Unlock%20All%20Characters538.lua", "https://scriptblox.com/script/BALANCE-UPDATE-Shinobi-Storm-Shinobi-Storm-Script-or-Unlock-All-Characters-3239")

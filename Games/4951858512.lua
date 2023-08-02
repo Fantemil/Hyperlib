@@ -1,0 +1,2 @@
+
+addscript(4951858512, "Current Game","OP gui", "Uploaded by ziroponto on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20gui844.lua", "https://scriptblox.com/script/Victory-Race-OP-gui-4746")

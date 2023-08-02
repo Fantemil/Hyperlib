@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/sxltlord/script/main/Roblox%20Innovation%20Awards%20Voting%20Hub%20by%20Sxlt"))()

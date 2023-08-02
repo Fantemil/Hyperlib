@@ -1,0 +1,4 @@
+
+addscript(542016179, "Current Game","Anti Cheat Delete OP", "Uploaded by SMUG_Scripts on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anti%20Cheat%20Delete%20OP891.lua", "https://scriptblox.com/script/Teethyz-Dentist-Anti-Cheat-Delete-OP-5925")
+    addscriptexist(542016179, "Spam make appointments", "Uploaded by SMUG_Scripts on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Spam%20make%20appointments345.lua", "https://scriptblox.com/script/Teethyz-Dentist-SPAM-MAKE-APPOINTMENTS-5926")
+                                

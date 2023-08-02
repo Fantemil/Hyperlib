@@ -1,0 +1,2 @@
+
+addscript(2693023319, "Current Game","Get Coins and Wins", "Uploaded by Tamachiru on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Get%20Coins%20and%20Wins985.lua", "https://scriptblox.com/script/Expedition-Antarctica-Get-Coins-and-Wins-6165")

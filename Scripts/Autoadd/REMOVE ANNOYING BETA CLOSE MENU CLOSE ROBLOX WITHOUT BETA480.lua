@@ -1,0 +1,1 @@
+setfflag("EnableInGameMenuV3", "FALSE")

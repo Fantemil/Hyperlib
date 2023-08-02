@@ -1,0 +1,2 @@
+
+addscript(9133513813, "Current Game","Pick Up All Dropped Tools", "Uploaded by MeatBall_Is_God on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pick%20Up%20All%20Dropped%20Tools315.lua", "https://scriptblox.com/script/Hunted-Hood-Pick-Up-All-Dropped-Tools-5729")

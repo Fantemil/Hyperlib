@@ -1,0 +1,2 @@
+
+addscript(6728870912, "Current Game","World of Stands Script Open Sourced", "Uploaded by Dark_Hero on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/World%20of%20Stands%20Script%20Open%20Sourced766.lua", "https://scriptblox.com/script/OPEN-World-of-Stands-Demo-World-of-Stands-Script-(Open-Sourced)-3279")

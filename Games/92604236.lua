@@ -1,0 +1,2 @@
+
+addscript(92604236, "Current Game","Always hit good shots", "Uploaded by Femboyy on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Always%20hit%20good%20shots507.lua", "https://scriptblox.com/script/High-School-Life-Always-hit-good-shots-6574")

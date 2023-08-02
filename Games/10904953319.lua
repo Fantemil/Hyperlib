@@ -1,0 +1,2 @@
+
+addscript(10904953319, "Current Game","LOAKS HUB", "Uploaded by LOAKS on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LOAKS%20HUB274.lua", "https://scriptblox.com/script/ANIME-NEW-Race-Car-Clickers-LOAKS-HUB-6067")

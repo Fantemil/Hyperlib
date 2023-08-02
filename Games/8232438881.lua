@@ -1,0 +1,2 @@
+
+addscript(8232438881, "Current Game","GUI", "Uploaded by revgames on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/GUI353.lua", "https://scriptblox.com/script/Thief-Simulator-GUI-6104")

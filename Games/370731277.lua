@@ -1,0 +1,2 @@
+
+addscript(370731277, "Current Game","Fling target update", "Uploaded by MakerScript on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Fling%20target%20update214.lua", "https://scriptblox.com/script/MeepCity-Update-SCRIPT-5544")

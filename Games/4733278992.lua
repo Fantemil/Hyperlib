@@ -1,0 +1,2 @@
+
+addscript(4733278992, "Current Game","OP KILL AURA", "Uploaded by Chiwebow on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20KILL%20AURA107.lua", "https://scriptblox.com/script/FLOOR-14Sword-Blox-Online:-Rebirth-KILL-AURA-4819")

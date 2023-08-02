@@ -1,0 +1,2 @@
+
+addscript(5104202731, "Current Game","Advanced Anti Afk", "Uploaded by Sayori on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Advanced%20Anti%20Afk979.lua", "https://scriptblox.com/script/Southwest-Florida-Beta-Advanced-Anti-Afk-6314")

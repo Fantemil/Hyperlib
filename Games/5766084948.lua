@@ -1,0 +1,2 @@
+
+addscript(5766084948, "Current Game","rushed script", "Uploaded by Novaz on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/rushed%20script927.lua", "https://scriptblox.com/script/SCP:-The-Red-Lake-UIU-EVENT-rushed-script-5360")

@@ -1,0 +1,2 @@
+
+addscript(8585657145, "Current Game","Auto Kill NPCs and much more", "Uploaded by Reddy on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Kill%20NPCs%20and%20much%20more302.lua", "https://scriptblox.com/script/NEW-Anime-Hero-Simulator-Auto-Kill-NPCs-and-much-more-4843")

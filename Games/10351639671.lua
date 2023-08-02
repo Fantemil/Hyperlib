@@ -1,0 +1,4 @@
+
+addscript(10351639671, "Current Game","Anime Legends Simulator Gui", "Uploaded by Amentes on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime%20Legends%20Simulator%20Gui8.lua", "https://scriptblox.com/script/POPPE-PLAYTIME!-Anime-Legends-Simulator-Anime-Legend-Simulator-Gui-5602")
+    addscriptexist(10351639671, "Infinite Playtime Coins", "Uploaded by stern on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Infinite%20Playtime%20Coins976.lua", "https://scriptblox.com/script/POPPE-PLAYTIME!-Anime-Legends-Simulator-Infinite-Playtime-Coins-5121")
+                                

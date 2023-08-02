@@ -1,0 +1,2 @@
+
+addscript(3964975083, "Current Game","built troll", "Uploaded by TemperedGlass on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/built%20troll948.lua", "https://scriptblox.com/script/Build-to-survive!-built-troll-6246")

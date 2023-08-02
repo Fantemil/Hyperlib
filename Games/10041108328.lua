@@ -1,0 +1,2 @@
+
+addscript(10041108328, "Current Game","Grab Money", "Uploaded by BIox on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Grab%20Money942.lua", "https://scriptblox.com/script/Dark-Life-Beta-Grab-Money-4526")

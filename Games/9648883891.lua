@@ -1,0 +1,4 @@
+
+addscript(9648883891, "Current Game","BETA Festival Tycoon Open Source", "Uploaded by MeatBall_Is_God on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BETA%20Festival%20Tycoon%20Open%20Source586.lua", "https://scriptblox.com/script/BETA-Festival-Tycoon-BETA-Open-Source-5525")
+    addscriptexist(9648883891, "OP MMA GUI New Update Free Gamepass", "Uploaded by MMAKINGDOM on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20MMA%20GUI%20New%20Update%20Free%20Gamepass632.lua", "https://scriptblox.com/script/BETA-Festival-Tycoon-OP-MMA-GUI-5527")
+                                

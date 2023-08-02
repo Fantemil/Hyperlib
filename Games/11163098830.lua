@@ -1,0 +1,2 @@
+
+addscript(11163098830, "Current Game","Just a script", "Uploaded by baksff on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Just%20a%20script500.lua", "https://scriptblox.com/script/Halloween-Race-Clicker-Just-a-script-6526")

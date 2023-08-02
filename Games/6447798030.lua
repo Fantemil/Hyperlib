@@ -1,2 +1,4 @@
 
 addscript(6447798030, "Current Game","Auto Player Mobile", "Uploaded by yuuiz on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Player%20Mobile872.lua", "https://scriptblox.com/script/XMAS-Event-or-Funky-Friday-Auto-Player-Mobile-11026")
+    addscriptexist(6447798030, "2x points any executor support reupload", "Uploaded by botbrostopusing on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/2x%20points%20any%20executor%20support%20reupload63.lua", "https://scriptblox.com/script/MIND-GAMESor-Funky-Friday-2x-points-any-executor-support-reupload-5590")
+                                

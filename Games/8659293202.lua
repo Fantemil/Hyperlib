@@ -1,0 +1,2 @@
+
+addscript(8659293202, "Current Game","Unlock Devs Gui", "Uploaded by amcoolguy on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Unlock%20Devs%20Gui438.lua", "https://scriptblox.com/script/The-Rake-Blood-Hour-Test-OD-1.5-FALL-UPDATE-Unlock-Devs-Gui-6228")

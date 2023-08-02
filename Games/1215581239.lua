@@ -1,0 +1,2 @@
+
+addscript(1215581239, "Current Game","teleport fly and more", "Uploaded by sadtomioaya on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/teleport%20fly%20and%20more863.lua", "https://scriptblox.com/script/Doomspire-Brickbattle-teleport-fly-and-more-4964")

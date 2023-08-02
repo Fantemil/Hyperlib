@@ -1,0 +1,2 @@
+
+addscript(7952526341, "Current Game","crash server v1", "Uploaded by TOOM on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/crash%20server%20v1627.lua", "https://scriptblox.com/script/Draw-Drawings-and-turn-it-3D-and-play-around-crash-server-v1-5485")

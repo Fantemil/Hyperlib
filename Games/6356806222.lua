@@ -1,0 +1,2 @@
+
+addscript(6356806222, "Current Game","No Parts", "Uploaded by Wh1t3_Bl4ck on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/No%20Parts915.lua", "https://scriptblox.com/script/Lag-Test-2021-No-Parts-3147")

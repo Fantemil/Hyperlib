@@ -1,0 +1,2 @@
+
+addscript(10243982775, "Current Game","script by Atomicals on v3rmillion", "Uploaded by ImAnSkid on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/script%20by%20Atomicals%20on%20v3rmillion992.lua", "https://scriptblox.com/script/MELEES-RedBox-2-script-by-Atomicals-on-v3rmillion-4980")

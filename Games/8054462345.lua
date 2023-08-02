@@ -1,0 +1,2 @@
+
+addscript(8054462345, "Current Game","KILL AURA", "Uploaded by themothersabuser on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/KILL%20AURA673.lua", "https://scriptblox.com/script/NEW-MAP-%2B-MENU-Michael's-Zombies-KILL-AURA-5494")

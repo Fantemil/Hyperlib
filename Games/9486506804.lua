@@ -1,0 +1,2 @@
+
+addscript(9486506804, "Current Game","AutoGrab all Words Teleport Script", "Uploaded by tomergamertv on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AutoGrab%20all%20Words%20Teleport%20Script907.lua", "https://scriptblox.com/script/FIFA-World-AutoGrab-all-Words-Teleport-Script-6499")

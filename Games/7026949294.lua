@@ -1,0 +1,4 @@
+
+addscript(7026949294, "Current Game","Simple killaura", "Uploaded by kalas on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Simple%20killaura15.lua", "https://scriptblox.com/script/Sword-Simulator-Simple-killaura-6555")
+    addscriptexist(7026949294, "NEW OP SCRIPT AUTO DUNGEON KILL AURA", "Uploaded by Cammy on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NEW%20OP%20SCRIPT%20AUTO%20DUNGEON%20KILL%20AURA21.lua", "https://scriptblox.com/script/Sword-Simulator-NEW-OP-SCRIPT-AUTO-DUNGEON-KILL-AURA-6323")
+                                

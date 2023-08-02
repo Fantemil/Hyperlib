@@ -1,0 +1,2 @@
+
+addscript(5890116343, "Current Game","Funny Age Simulator GUI", "Uploaded by Empire4946 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Funny%20Age%20Simulator%20GUI27.lua", "https://scriptblox.com/script/Age-Simulator-Funny-Age-Simulator-GUI-5229")

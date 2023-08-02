@@ -1,0 +1,2 @@
+
+addscript(2474168535, "Current Game","OP SCRIPT", "Uploaded by Medellin_R on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20SCRIPT276.lua", "https://scriptblox.com/script/Westbound-OP-SCRIPT-6504")

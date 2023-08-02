@@ -1,0 +1,2 @@
+
+addscript(2317712696, "Current Game","Eternal X Cracked The Wild West", "Uploaded by Spooks on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Eternal%20X%20Cracked%20The%20Wild%20West478.lua", "https://scriptblox.com/script/The-Wild-West-Eternal-X-Cracked-The-Wild-West-6277")

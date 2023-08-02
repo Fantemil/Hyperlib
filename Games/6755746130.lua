@@ -1,0 +1,2 @@
+
+addscript(6755746130, "Current Game","y", "Uploaded by beanslayer on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/y346.lua", "https://scriptblox.com/script/Fruit-Juice-Tycoon:-Refreshed-y-3645")

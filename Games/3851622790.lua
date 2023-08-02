@@ -1,0 +1,2 @@
+
+addscript(3851622790, "Current Game","OP SCRIPT", "Uploaded by linneythewinney on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20SCRIPT301.lua", "https://scriptblox.com/script/Break-In-(Story)-OP-SCRIPT-AND-NOT-ME-6497")

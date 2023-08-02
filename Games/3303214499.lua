@@ -1,0 +1,2 @@
+
+addscript(3303214499, "Current Game","FE Admin script", "Uploaded by lol_ok on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FE%20Admin%20script873.lua", "https://scriptblox.com/script/4x-EVENT-A-Bizarre-Day:-Act-2-FE-Admin-script-4803")

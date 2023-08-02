@@ -10,3 +10,21 @@ addscript(286090429, "Current Game","Disabler", "Uploaded by AndrewDarkyy on scr
                                 
     addscriptexist(286090429, "Universal", "Uploaded by nuffty12 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal358.lua", "https://scriptblox.com/script/Arsenal-Universal-11011")
                                 
+    addscriptexist(286090429, "ArSeNaL", "Uploaded by Slips on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ArSeNaL236.lua", "https://scriptblox.com/script/Arsenal-ArSeNaL-5737")
+                                
+    addscriptexist(286090429, "WalkSpeed", "Uploaded by Lua_Dev on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/WalkSpeed345.lua", "https://scriptblox.com/script/Arsenal-Arsenal-5488")
+                                
+    addscriptexist(286090429, "DexHub V2", "Uploaded by Bruh1 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DexHub%20V2632.lua", "https://scriptblox.com/script/Arsenal-DexHub-V2-4907")
+                                
+    addscriptexist(286090429, "arsenal cheat to kill everyone when you press the letter e", "Uploaded by KabutoViastos on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/arsenal%20cheat%20to%20kill%20everyone%20when%20you%20press%20the%20letter%20e280.lua", "https://scriptblox.com/script/Arsenal-arsenal-cheat-to-kill-everyone-when-you-press-the-letter-e-4519")
+                                
+    addscriptexist(286090429, "Inno hub Credit to InnoSynapseXISPOGGERS", "Uploaded by mychannelissucks on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Inno%20hub%20Credit%20to%20InnoSynapseXISPOGGERS470.lua", "https://scriptblox.com/script/Arsenal-Inno-hub-(Credit-to-InnoSynapseXISPOGGERS)-4158")
+                                
+    addscriptexist(286090429, "Invisible", "Uploaded by Finny on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Invisible789.lua", "https://scriptblox.com/script/Arsenal-FE-Invisible-And-***-Mode-5960")
+                                
+    addscriptexist(286090429, "Aimbot no mod menu", "Uploaded by YaickYTB on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Aimbot%20no%20mod%20menu427.lua", "https://scriptblox.com/script/Arsenal-Aimbot-no-mod-menu-3233")
+                                
+    addscriptexist(286090429, "Arsenal Script OP Not Mine", "Uploaded by Coptical on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Arsenal%20Script%20OP%20Not%20Mine443.lua", "https://scriptblox.com/script/Arsenal-Arsenal-Script-OP-(Not-Mine)-3374")
+                                
+    addscriptexist(286090429, "op script", "Uploaded by tmenqaptl on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/op%20script291.lua", "https://scriptblox.com/script/Arsenal-op-script-5651")
+                                

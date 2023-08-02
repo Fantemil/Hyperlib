@@ -1,0 +1,2 @@
+
+addscript(306964494, "Current Game","Heal Loomians Instantly", "Uploaded by Seby on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Heal%20Loomians%20Instantly89.lua", "https://scriptblox.com/script/(Atlanthian-City)-Loomian-Legacy-Heal-s-Instantly-3687")

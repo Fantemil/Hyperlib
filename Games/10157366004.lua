@@ -1,0 +1,2 @@
+
+addscript(10157366004, "Current Game","auto farm yes", "Uploaded by kalas on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/auto%20farm%20yes700.lua", "https://scriptblox.com/script/Pet-Tapping-Simulator-auto-farm-yes-5024")

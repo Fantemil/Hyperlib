@@ -1,0 +1,2 @@
+
+addscript(5714256147, "Current Game","Just a basic autofarm", "Uploaded by Hisako on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Just%20a%20basic%20autofarm764.lua", "https://scriptblox.com/script/X3-STATS-FREE-PET-Zombie-Simulator-Just-a-basic-autofarm-3697")

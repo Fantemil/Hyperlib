@@ -1,0 +1,2 @@
+
+addscript(7165194252, "Current Game","omaygot", "Uploaded by YRRALD on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/omaygot658.lua", "https://scriptblox.com/script/UPD-11-Ranger-Piece-omaygot-5343")

@@ -1,0 +1,2 @@
+
+addscript(7581823123, "Current Game","OP gui", "Uploaded by Tomato on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20gui910.lua", "https://scriptblox.com/script/Tile-Game-Ultimate-MARBLES-OP-gui-5185")

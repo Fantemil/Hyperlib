@@ -1,0 +1,2 @@
+
+addscript(6700823483, "Current Game"," Everyone", "Uploaded by sirgavingraham on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/%20Everyone908.lua", "https://scriptblox.com/script/(UPDATE!)-Idiotic-Investing-*****-Everyone-6427")

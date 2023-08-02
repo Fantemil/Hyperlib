@@ -1,0 +1,4 @@
+
+addscript(10201298018, "Current Game","Fast escape", "Uploaded by VampireKiller on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Fast%20escape67.lua", "https://scriptblox.com/script/Vampire-Hunters-2-Remake-Fast-escape-4853")
+    addscriptexist(10201298018, "Shoot people far away", "Uploaded by VampireKiller on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Shoot%20people%20far%20away27.lua", "https://scriptblox.com/script/Vampire-Hunters-2-Remake-Shoot-people-far-away-4852")
+                                

@@ -1,0 +1,2 @@
+
+addscript(5379581123, "Current Game","the mods on this game r no lifes so dont use blatant reach", "Uploaded by Novaz on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/the%20mods%20on%20this%20game%20r%20no%20lifes%20so%20dont%20use%20blatant%20reach853.lua", "https://scriptblox.com/script/Sword-Fight-and-Flex-Your-Time-the-mods-on-this-game-r-no-lifes-so-dont-use-blatant-reach-5546")

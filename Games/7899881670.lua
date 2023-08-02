@@ -1,0 +1,2 @@
+
+addscript(7899881670, "Current Game","RBW4 SCRIPT", "Uploaded by Rui_ on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RBW4%20SCRIPT151.lua", "https://scriptblox.com/script/RB-World-4-RBW4-SCRIPT-5613")

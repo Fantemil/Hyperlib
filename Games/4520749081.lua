@@ -1,0 +1,4 @@
+
+addscript(4520749081, "Current Game","King legacy menu with a lot features", "Uploaded by 0xC0002 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/King%20legacy%20menu%20with%20a%20lot%20features166.lua", "https://scriptblox.com/script/Update-2.5-King-Legacy-King-legacy-menu-with-a-lot-features-4747")
+    addscriptexist(4520749081, "OP KING LEGACY AUTO FARM", "Uploaded by frenzystuff2 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20KING%20LEGACY%20AUTO%20FARM70.lua", "https://scriptblox.com/script/Update-2.5-King-Legacy-OP-KING-LEGACY-AUTO-FARM-5539")
+                                

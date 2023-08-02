@@ -1,0 +1,2 @@
+
+addscript(8762785110, "Current Game","HitBox Extender Synapse Only No poor people allowed", "Uploaded by Cale on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/HitBox%20Extender%20Synapse%20Only%20No%20poor%20people%20allowed884.lua", "https://scriptblox.com/script/Survival-Games-Ultimate-HitBox-Extender-for-:D-3539")

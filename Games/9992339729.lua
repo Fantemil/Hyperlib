@@ -1,0 +1,2 @@
+
+addscript(9992339729, "Current Game","GUI", "Uploaded by Nicuse on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/GUI454.lua", "https://scriptblox.com/script/Longest-Answer-Wins-GUI-5908")

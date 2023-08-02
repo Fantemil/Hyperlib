@@ -1,0 +1,2 @@
+
+addscript(6536647319, "Current Game","Admin commands", "Uploaded by Rypxc on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Admin%20commands761.lua", "https://scriptblox.com/script/4XP-%2B-CODES-Slayers-Unleashed-v0.92-Admin-commands-5545")

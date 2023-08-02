@@ -1,0 +1,2 @@
+
+addscript(9157870347, "Current Game","whybiee Autofarm GUI", "Uploaded by V3rmScriptsUploader on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/whybiee%20Autofarm%20GUI512.lua", "https://scriptblox.com/script/NEW!-Pet-Adventures-Simulator!-whybiee-Autofarm-GUI-5069")

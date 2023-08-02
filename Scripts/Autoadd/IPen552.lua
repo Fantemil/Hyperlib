@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SuxOngW/Potential_/main/Dahood/UPSIPen.lua"))()

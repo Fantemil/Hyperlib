@@ -1,0 +1,2 @@
+
+addscript(5326405001, "Current Game","Base Battles Script FIXED by serpex on v3rmillion", "Uploaded by ImAnSkid on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Base%20Battles%20Script%20FIXED%20by%20serpex%20on%20v3rmillion108.lua", "https://scriptblox.com/script/UPDATE-Base-Battles-Base-Battles-Script-FIXED-by-serpex-on-v3rmillion-5368")

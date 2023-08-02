@@ -1,0 +1,2 @@
+
+addscript(3467049496, "Current Game","free gamepass", "Uploaded by amcoolguy on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/free%20gamepass942.lua", "https://scriptblox.com/script/MARVEL:-Battlegrounds-free-gamepass-5421")

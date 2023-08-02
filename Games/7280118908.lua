@@ -1,0 +1,2 @@
+
+addscript(7280118908, "Current Game","free gamepass", "Uploaded by amcoolguy on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/free%20gamepass86.lua", "https://scriptblox.com/script/School-Simulator-shcool-5407")

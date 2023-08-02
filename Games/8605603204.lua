@@ -1,0 +1,2 @@
+
+addscript(8605603204, "Current Game","script", "Uploaded by 1_qx3 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/script592.lua", "https://scriptblox.com/script/Mecha-SimulatorBeta-script-3518")

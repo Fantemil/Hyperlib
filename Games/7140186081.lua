@@ -1,0 +1,2 @@
+
+addscript(7140186081, "Current Game","nodie", "Uploaded by ziroponto on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/nodie825.lua", "https://scriptblox.com/script/GunGame-nodie-6077")

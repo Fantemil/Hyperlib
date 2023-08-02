@@ -1,0 +1,2 @@
+
+addscript(9377039667, "Current Game","Roblox Innovation Awards Voting Hub", "Uploaded by Double on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Roblox%20Innovation%20Awards%20Voting%20Hub327.lua", "https://scriptblox.com/script/Roblox-Innovation-Awards-Voting-Hub-Roblox-Innovation-Awards-Voting-Hub-4271")

@@ -1,0 +1,2 @@
+
+addscript(5843263647, "Current Game","Free Editing Taunts", "Uploaded by Dev10 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Free%20Editing%20Taunts665.lua", "https://scriptblox.com/script/Dragon-Ball-RP:-Azure-RP-5014")
