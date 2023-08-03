@@ -198,7 +198,7 @@ function Kavo.CreateLib(kavName, themeList)
     local MainHeader = Instance.new("Frame")
     local headerCover = Instance.new("UICorner")
     local coverup = Instance.new("Frame")
-    local title = Instance.new("TextLabel")
+    getgenv().hyperlibguititle = Instance.new("TextLabel")
     local close = Instance.new("ImageButton")
     local MainSide = Instance.new("Frame")
     local sideCorner = Instance.new("UICorner")
@@ -255,19 +255,19 @@ function Kavo.CreateLib(kavName, themeList)
     coverup.Position = UDim2.new(0, 0, 0.758620679, 0)
     coverup.Size = UDim2.new(0, 525, 0, 7)
 
-    title.Name = "title"
-    title.Parent = MainHeader
-    title.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
-    title.BackgroundTransparency = 1.000
-    title.BorderSizePixel = 0
-    title.Position = UDim2.new(0.0171428565, 0, 0.344827592, 0)
-    title.Size = UDim2.new(0, 204, 0, 8)
-    title.Font = Enum.Font.Gotham
-    title.RichText = true
-    title.Text = kavName
-    title.TextColor3 = Color3.fromRGB(245, 245, 245)
-    title.TextSize = 16.000
-    title.TextXAlignment = Enum.TextXAlignment.Left
+    getgenv().hyperlibguititle.Name = "title"
+    getgenv().hyperlibguititle.Parent = MainHeader
+    getgenv().hyperlibguititle.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+    getgenv().hyperlibguititle.BackgroundTransparency = 1.000
+    getgenv().hyperlibguititle.BorderSizePixel = 0
+    getgenv().hyperlibguititle.Position = UDim2.new(0.0171428565, 0, 0.344827592, 0)
+    getgenv().hyperlibguititle.Size = UDim2.new(0, 204, 0, 8)
+    getgenv().hyperlibguititle.Font = Enum.Font.Gotham
+    getgenv().hyperlibguititle.RichText = true
+    getgenv().hyperlibguititle.Text = kavName
+    getgenv().hyperlibguititle.TextColor3 = Color3.fromRGB(245, 245, 245)
+    getgenv().hyperlibguititle.TextSize = 16.000
+    getgenv().hyperlibguititle.TextXAlignment = Enum.TextXAlignment.Left
 
     close.Name = "close"
     close.Parent = MainHeader

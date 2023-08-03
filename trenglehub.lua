@@ -10,6 +10,7 @@ getgenv().uniscripts = {
 }
 version = "Hyperlib V.3.2"
 getgenv().statusdict = {}
+
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -192,19 +193,40 @@ function addhub(title,author,scriptlink,origin)
     }
     table.insert(getgenv().hubscripts.allscripts, scriptdata)
 end
+function UpdateWindowTitle(title)
+    getgenv().hyperlibguititle.Text = title
+end
 local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Library/kavo-ui.lua"))()
 getgenv().Window = Library.CreateLib(version, "DarkTheme")
 Window = getgenv().Window
 
 
 
-local Player = Window:NewTab("Player")
+local Player = Window:NewTab("Player/General")
 local PlayerSection = Player:NewSection("Player")
-PlayerSection:NewButton("Rejoin", "Rejoins the game", function()
+local GeneralSection = Player:NewSection("General")
+GeneralSection:NewButton("Rejoin", "Rejoins the game", function()
     game:GetService("TeleportService"):Teleport(game.PlaceId, game.Players.LocalPlayer)
 end)
-PlayerSection:NewButton("Exit", "Exits the game", function()
+GeneralSection:NewButton("Exit", "Exits the game", function()
     game:Shutdown()
+end)
+GeneralSection:NewButton("Clear Chat", "Clears the chat", function()
+    clearChat()
+end)
+local guireloader = GeneralSection:NewButton("Reload Hyperlib", "Reloads the Gui with the newest Version", function()
+    spawn(function()
+        guireloader:UpdateButton("Reloading in 3")
+        wait(1)
+        guireloader:UpdateButton("Reloading in 2")
+        wait(1)
+        guireloader:UpdateButton("Reloading in 1")
+        wait(1)
+        guireloader:UpdateButton("Reloading...")
+        wait(1)
+        getgenv().hyperlibgui:Destroy()
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/Fantemil/Hyperlib/main/trenglehub.lua"))()
+    end)
 end)
 PlayerSection:NewSlider("Walkspeed", "Changes the walkspeed", 250, 16, function(v)
     game.Players.LocalPlayer.Character.Humanoid.WalkSpeed = v
@@ -220,9 +242,9 @@ getgenv().loadedgeneral = false
 getgenv().loadedhub = false
 
 
-getgenv().generalscripts = Window:NewTab("General")
-getgenv().generalscriptssection = generalscripts:NewSection("---General/Universal Scripts---")
-getgenv().generalload = getgenv().generalscriptssection:NewButton("Load General Scripts", "Loads all General Scripts", function()
+getgenv().generalscripts = Window:NewTab("Universal")
+getgenv().generalscriptssection = generalscripts:NewSection("---Universal Scripts---")
+getgenv().generalload = getgenv().generalscriptssection:NewButton("Load Universal Scripts", "Loads all Universal Scripts", function()
     if getgenv().loadedgeneral == false then
         loadstring(game:HttpGet("https://raw.githubusercontent.com/Fantemil/Hyperlib/main/Games/universal.lua"))()
         local function sortScripts()
@@ -283,7 +305,7 @@ getgenv().generalload = getgenv().generalscriptssection:NewButton("Load General 
         getgenv().loadedgeneral = true
         getgenv().generalload:UpdateButton("Finished loading!")
     else
-        bigRedItalicText("You have already loaded the General Scripts!")
+        bigRedItalicText("You have already loaded all Universal Scripts!")
         spawn(function()
             getgenv().generalload:UpdateButton("Already Loaded!")
             wait(5)
