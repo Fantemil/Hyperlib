@@ -6,3 +6,5 @@ addscript(13253735473, "Current Game","Actor bypass", "Uploaded by ratsssstts on
                                 
     addscriptexist(13253735473, "Karma wtf use actor bypass to work", "Uploaded by ratsssstts on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Karma%20wtf%20use%20actor%20bypass%20to%20work430.lua", "https://scriptblox.com/script/Trident-Survival-V2-Karma-wtf-use-actor-bypass-to-work-6587")
                                 
+    addscriptexist(13253735473, "Yoyoyoo Ts bypass", "Uploaded by ratsssstts on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Yoyoyoo%20Ts%20bypass398.lua", "https://scriptblox.com/script/Trident-Survival-V2-Yoyoyoo-Ts-bypass-6631")
+                                

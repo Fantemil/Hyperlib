@@ -1,0 +1,2 @@
+
+addscript(115917693, "Current Game","OP AF SCRIPT FOR MOW MY LAWN 2", "Uploaded by redblue on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20AF%20SCRIPT%20FOR%20MOW%20MY%20LAWN%202360.lua", "https://rscripts.net/script/op-af-script-for-mow-my-lawn-2-4099")

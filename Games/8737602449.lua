@@ -38,3 +38,5 @@ addscript(8737602449, "Current Game","Robux Autofarm", "Uploaded by Ulti on scri
                                 
     addscriptexist(8737602449, "PLS DONATE STEAL PEOPLE TEXT ON BOOTH", "Uploaded by uzee on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PLS%20DONATE%20STEAL%20PEOPLE%20TEXT%20ON%20BOOTH356.lua", "https://scriptblox.com/script/PLS-DONATE-NEW-PLS-DONATE-(STEAL-PEOPLE-TEXT-ON-BOOTH)-3814")
                                 
+addscriptexist(8737602449, "AniMoonFors  AutoBypass Adonis Pls Donate AntiCheat", "Uploaded by Anonymous on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AniMoonFors%20%20AutoBypass%20Adonis%20Pls%20Donate%20AntiCheat896.lua", "https://rscripts.net/script/ani-moon-fors-auto-bypass-adonis-pls-donate-anti-cheat-4110")
+                                

@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/bruddaa/DrawObby/main/Stars%20collector%20script.lua"))();

@@ -1,0 +1,2 @@
+
+addscript(9476339275, "Current Game","Auto Win  More", "Uploaded by gabitoshb on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Win%20%20More632.lua", "https://scriptblox.com/script/Double-Down-Auto-Win-6636")

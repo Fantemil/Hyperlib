@@ -1,0 +1,2 @@
+
+addscript(12135645852, "Current Game","PN", "Uploaded by Afyyy on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PN887.lua", "https://scriptblox.com/script/DARK-WORLD-Anime-Catching-Simulator-PN-6625")

@@ -1,0 +1,2 @@
+
+addscript(5756316905, "Current Game","Skip stage", "Uploaded by ratsssstts on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Skip%20stage208.lua", "https://scriptblox.com/script/Kurdish-Obby-Skip-stage-6632")

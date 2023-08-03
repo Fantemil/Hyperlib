@@ -1,0 +1,2 @@
+
+addscript(13667319624, "Current Game","Give Inf stats", "Uploaded by EVilDragon on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Give%20Inf%20stats878.lua", "https://scriptblox.com/script/Knockout-Simulator-Give-Inf-stats-6628")

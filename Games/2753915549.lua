@@ -134,3 +134,9 @@ addscript(2753915549, "Current Game","que pro hub", "Uploaded by Noobie on scrip
                                 
     addscriptexist(2753915549, "Blox fruits Auto From and more", "Uploaded by al_7ro on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blox%20fruits%20Auto%20From%20and%20more131.lua", "https://scriptblox.com/script/UPDATE-16-Blox-Fruits-Blox-fruits-Auto-From-and-more-5095")
                                 
+addscriptexist(2753915549, "Blox Fruits Auto Farm Auto Boss Farm Auto Players Farm ESP Teleport And More", "Uploaded by antipipka on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blox%20Fruits%20Auto%20Farm%20Auto%20Boss%20Farm%20Auto%20Players%20Farm%20ESP%20Teleport%20And%20More802.lua", "https://rscripts.net/script/blox-fruits-auto-farm-auto-boss-farm-auto-players-farm-esp-teleport-and-more-4166")
+                                
+addscriptexist(2753915549, "Alchemy Hub  Auto Bounty ", "Uploaded by Zoi on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Alchemy%20Hub%20%20Auto%20Bounty%20121.lua", "https://rscripts.net/script/alchemy-hub-auto-bounty-4087")
+                                
+addscriptexist(2753915549, "Blox Fruits Auto Farm Auto Quest Boss  More", "Uploaded by antipipka on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blox%20Fruits%20Auto%20Farm%20Auto%20Quest%20Boss%20%20More270.lua", "https://rscripts.net/script/blox-fruits-auto-farm-auto-quest-boss-more-4179")
+                                

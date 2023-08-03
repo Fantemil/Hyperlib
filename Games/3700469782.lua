@@ -1,0 +1,2 @@
+
+addscript(3700469782, "Current Game","Infinite Cash  Insurgent Hub V1", "Uploaded by 21xdecay on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Infinite%20Cash%20%20Insurgent%20Hub%20V10.lua", "https://rscripts.net/script/infinite-cash-insurgent-hub-v1-4104")

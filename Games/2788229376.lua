@@ -328,3 +328,7 @@ addscript(2788229376, "Current Game","BUY GUI NOT MINE", "Uploaded by owns on sc
                                 
     addscriptexist(2788229376, "Moongod V2", "Uploaded by 111z on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Moongod%20V2252.lua", "https://scriptblox.com/script/Da-Hood-Moongod-3221")
                                 
+addscriptexist(2788229376, "ANTI LOCK DAHOOD SCRIPT", "Uploaded by Malene12345 on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ANTI%20LOCK%20DAHOOD%20SCRIPT213.lua", "https://rscripts.net/script/anti-lock-dahood-script-4152")
+                                
+addscriptexist(2788229376, "AIMLOCK DAHOOD SCRIPT", "Uploaded by Malene12345 on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AIMLOCK%20DAHOOD%20SCRIPT654.lua", "https://rscripts.net/script/aimlock-dahood-script-4151")
+                                
