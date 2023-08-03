@@ -15,6 +15,8 @@ getgenv().statusdict = {}
 if getgenv().hyperlibreload == nil then
     getgenv().hyperlibreload = false
 end
+
+
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
@@ -203,15 +205,26 @@ end
 local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Library/kavo-ui.lua"))()
 getgenv().Window = Library.CreateLib(version, "DarkTheme")
 Window = getgenv().Window
-
+-- check if getgenv().hyperlibblock exists
+if getgenv().hyperlibblock == nil then
+    getgenv().hyperlibblock = true
+else 
+    if getgenv().hyperlibblock == true then
+        getgenv().hyperlibgui:Destroy()
+    elseif getgenv().hyperlibblock == false then
+        getgenv().hyperlibblock = true
+    end
+end
 
 local Player = Window:NewTab("Player/General")
 local PlayerSection = Player:NewSection("Player")
 local GeneralSection = Player:NewSection("General")
 GeneralSection:NewButton("Rejoin", "Rejoins the game", function()
+    getgenv().hyperlibblock = false
     game:GetService("TeleportService"):Teleport(game.PlaceId, game.Players.LocalPlayer)
 end)
 GeneralSection:NewButton("Exit Game", "Exits the game", function()
+    getgenv().hyperlibblock = false
     game:Shutdown()
 end)
 GeneralSection:NewButton("Clear Chat", "Clears the chat", function()
@@ -229,6 +242,7 @@ getgenv().guireloader = GeneralSection:NewButton("Reload Hyperlib", "Reloads the
         wait(1)
         getgenv().hyperlibgui:Destroy()
         getgenv().hyperlibreload = true
+        getgenv().hyperlibblock = false
 
         loadstring(game:HttpGet("https://raw.githubusercontent.com/Fantemil/Hyperlib/main/trenglehub.lua"))()
     end)

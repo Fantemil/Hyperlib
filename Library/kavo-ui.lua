@@ -289,6 +289,8 @@ function Kavo.CreateLib(kavName, themeList)
 		}):Play()
         wait(1)
         getgenv().hyperlibgui:Destroy()
+        getgenv().hyperlibblock = false
+
     end)
 
     MainSide.Name = "MainSide"
