@@ -11,6 +11,10 @@ getgenv().uniscripts = {
 version = "Hyperlib V.3.3"
 getgenv().statusdict = {}
 
+-- check if getgenv().hyperlibreload exists
+if getgenv().hyperlibreload == nil then
+    getgenv().hyperlibreload = false
+end
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
     return player.Name
