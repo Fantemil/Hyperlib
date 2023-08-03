@@ -15,12 +15,14 @@ function getLocalPlayerName()
     return player.Name
 end
 function bigRedText(text)
-    game:GetService("StarterGui"):SetCore("ChatMakeSystemMessage", {
-        Text = text,
-        Color = Color3.new(1, 0, 0),
-        Font = Enum.Font.GothamBold,
-        FontSize = Enum.FontSize.Size48,
-    })
+    pcall(function()
+        game:GetService("StarterGui"):SetCore("ChatMakeSystemMessage", {
+            Text = text,
+            Color = Color3.new(1, 0, 0),
+            Font = Enum.Font.GothamBold,
+            FontSize = Enum.FontSize.Size48,
+        })
+    end)
 end
 local function formatTimeForUser(lastupdate)
     local function parseDateTime(dateTimeStr)
@@ -62,19 +64,21 @@ local function formatTimeForUser(lastupdate)
     return formattedTime
 end
 function bigGreenItalicText(text)
-    game:GetService("StarterGui"):SetCore("ChatMakeSystemMessage", {
-        Text = text,
-        Color = Color3.fromRGB(0, 255, 0), -- set the color to blue
-        Font = Enum.Font.SourceSansItalic,
-        TextTransparency = 0,
-        TextStrokeTransparency = 0,
-        TextScaled = false,
-        TextWrapped = false,
-        TextXAlignment = Enum.TextXAlignment.Center,
-        TextYAlignment = Enum.TextYAlignment.Center,
-        TextStrokeColor3 = Color3.new(0, 0, 0),
-        FontSize = Enum.FontSize.Size48,
-    })
+    pcall(function()
+        game:GetService("StarterGui"):SetCore("ChatMakeSystemMessage", {
+            Text = text,
+            Color = Color3.fromRGB(0, 255, 0), -- set the color to blue
+            Font = Enum.Font.SourceSansItalic,
+            TextTransparency = 0,
+            TextStrokeTransparency = 0,
+            TextScaled = false,
+            TextWrapped = false,
+            TextXAlignment = Enum.TextXAlignment.Center,
+            TextYAlignment = Enum.TextYAlignment.Center,
+            TextStrokeColor3 = Color3.new(0, 0, 0),
+            FontSize = Enum.FontSize.Size48,
+        })
+    end)
 end
 -- Create the clearChat() function
 function clearChat()
@@ -84,44 +88,50 @@ function clearChat()
     end
     
     for i = 1, 30 do
-        game:GetService("StarterGui"):SetCore("ChatMakeSystemMessage", {
-            Text = clearMessage,
-            Color = Color3.new(1, 1, 1), -- set the color to white to make the messages invisible
-            Font = Enum.Font.SourceSans,
-            FontSize = Enum.FontSize.Size18,
-        })
+        pcall(function()
+            game:GetService("StarterGui"):SetCore("ChatMakeSystemMessage", {
+                Text = clearMessage,
+                Color = Color3.new(1, 1, 1), -- set the color to white to make the messages invisible
+                Font = Enum.Font.SourceSans,
+                FontSize = Enum.FontSize.Size18,
+            })
+        end)
     end
 end
 
 function bigBlueItalicText(text)
-    game:GetService("StarterGui"):SetCore("ChatMakeSystemMessage", {
-        Text = text,
-        Color = Color3.fromRGB(0, 162, 255), -- set the color to blue
-        Font = Enum.Font.SourceSansItalic,
-        TextTransparency = 0,
-        TextStrokeTransparency = 0,
-        TextScaled = false,
-        TextWrapped = false,
-        TextXAlignment = Enum.TextXAlignment.Center,
-        TextYAlignment = Enum.TextYAlignment.Center,
-        TextStrokeColor3 = Color3.new(0, 0, 0),
-        FontSize = Enum.FontSize.Size48,
-    })
+    pcall(function()
+        game:GetService("StarterGui"):SetCore("ChatMakeSystemMessage", {
+            Text = text,
+            Color = Color3.fromRGB(0, 162, 255), -- set the color to blue
+            Font = Enum.Font.SourceSansItalic,
+            TextTransparency = 0,
+            TextStrokeTransparency = 0,
+            TextScaled = false,
+            TextWrapped = false,
+            TextXAlignment = Enum.TextXAlignment.Center,
+            TextYAlignment = Enum.TextYAlignment.Center,
+            TextStrokeColor3 = Color3.new(0, 0, 0),
+            FontSize = Enum.FontSize.Size48,
+        })
+    end)
 end
 function bigRedItalicText(text)
-    game:GetService("StarterGui"):SetCore("ChatMakeSystemMessage", {
-        Text = text,
-        Color = Color3.fromRGB(255, 0, 0), -- set the color to red
-        Font = Enum.Font.SourceSansItalic,
-        TextTransparency = 0,
-        TextStrokeTransparency = 0,
-        TextScaled = false,
-        TextWrapped = false,
-        TextXAlignment = Enum.TextXAlignment.Center,
-        TextYAlignment = Enum.TextYAlignment.Center,
-        TextStrokeColor3 = Color3.new(0, 0, 0),
-        FontSize = Enum.FontSize.Size48,
-    })
+    pcall(function()
+        game:GetService("StarterGui"):SetCore("ChatMakeSystemMessage", {
+            Text = text,
+            Color = Color3.fromRGB(255, 0, 0), -- set the color to red
+            Font = Enum.Font.SourceSansItalic,
+            TextTransparency = 0,
+            TextStrokeTransparency = 0,
+            TextScaled = false,
+            TextWrapped = false,
+            TextXAlignment = Enum.TextXAlignment.Center,
+            TextYAlignment = Enum.TextYAlignment.Center,
+            TextStrokeColor3 = Color3.new(0, 0, 0),
+            FontSize = Enum.FontSize.Size48,
+        })
+    end)
 end
 
 
@@ -192,6 +202,9 @@ local Player = Window:NewTab("Player")
 local PlayerSection = Player:NewSection("Player")
 PlayerSection:NewButton("Rejoin", "Rejoins the game", function()
     game:GetService("TeleportService"):Teleport(game.PlaceId, game.Players.LocalPlayer)
+end)
+PlayerSection:NewButton("Exit", "Exits the game", function()
+    game:Shutdown()
 end)
 PlayerSection:NewSlider("Walkspeed", "Changes the walkspeed", 250, 16, function(v)
     game.Players.LocalPlayer.Character.Humanoid.WalkSpeed = v
