@@ -309,6 +309,13 @@ getgenv().generalload = getgenv().generalscriptssection:NewButton("Load Universa
 
         getgenv().loadedgeneral = true
         getgenv().generalload:UpdateButton("Finished loading!")
+        spawn(function()
+            wait(0.5)
+            bigGreenItalicText("Successfully loaded all Universal Scripts!")
+            UpdateWindowTitle("Successfully loaded all Universal Scripts!")
+            wait(3)
+            UpdateWindowTitle(version)
+        end)
     else
         bigRedItalicText("You have already loaded all Universal Scripts!")
         spawn(function()
@@ -381,6 +388,13 @@ getgenv().hubload= getgenv().gamehubsection:NewButton("Load Game Hubs", "Loads a
 
         getgenv().loadedhub = true
         getgenv().hubload:UpdateButton("Finished loading!")
+        spawn(function()
+            wait(0.5)
+            bigGreenItalicText("Successfully loaded all Game Hubs!")
+            UpdateWindowTitle("Successfully loaded all Game Hubs!")
+            wait(3)
+            UpdateWindowTitle(version)
+        end)
     else
         bigRedItalicText("You have already loaded the Game Hubs!")
         spawn(function()
