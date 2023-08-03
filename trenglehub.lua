@@ -516,7 +516,10 @@ if success then
             bigGreenItalicText("Copied Origin link of Script to clipboard!")
         end)
     end
+    print("Loaded game specific scripts")
+    bigGreenItalicText("There were scripts found for this game!")
 else
     print("Failed to load game specific scripts")
+    bigRedItalicText("There were no scripts found for this game!")
 end
 queue_on_teleport('loadstring(game:HttpGet("https://raw.githubusercontent.com/Fantemil/Trenglehub/main/trenglehub.lua"))()')
