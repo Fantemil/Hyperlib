@@ -1,0 +1,2 @@
+
+addscript(10430505147, "Current Game","AutoFarm AutoHatch and More", "Uploaded by Muimi on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AutoFarm%20AutoHatch%20and%20More352.lua", "https://scriptblox.com/script/100K-EVENT!Skateman-Simulator-AutoFarm-AutoHatch-and-More-6011")

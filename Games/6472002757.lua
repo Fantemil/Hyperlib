@@ -1,0 +1,2 @@
+
+addscript(6472002757, "Current Game","s", "Uploaded by mrstinkfart12 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/s919.lua", "https://scriptblox.com/script/Shards-of-Genesis-v0.3.3-s-5924")

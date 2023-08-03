@@ -1,0 +1,2 @@
+
+addscript(6751371363, "Current Game","Da aimlock", "Uploaded by Legendary on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Da%20aimlock421.lua", "https://scriptblox.com/script/BOUNTY-Hood-Duels-Da-aimlock-4250")

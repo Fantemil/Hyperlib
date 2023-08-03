@@ -6,3 +6,5 @@ addscript(7026828578, "Current Game","Hi raggy please let me repost your upload 
                                 
     addscriptexist(7026828578, "inf speed rebirth etc", "Uploaded by lol_ok on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/inf%20speed%20rebirth%20etc498.lua", "https://scriptblox.com/script/Speed-Simulator-inf-speed-rebirth-etc-5047")
                                 
+    addscriptexist(7026828578, "inf speed and cash", "Uploaded by arjanQ on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/inf%20speed%20and%20cash204.lua", "https://scriptblox.com/script/Speed-Simulator-inf-speed-and-cash-6047")
+                                

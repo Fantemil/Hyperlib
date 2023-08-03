@@ -8,3 +8,7 @@ addscript(5956785391, "Current Game","versaware", "Uploaded by prodazhnii on scr
                                 
     addscriptexist(5956785391, "Spotify Hub", "Uploaded by botperson9000 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Spotify%20Hub390.lua", "https://scriptblox.com/script/Project-Slayers-Spotify-Hub-4393")
                                 
+    addscriptexist(5956785391, "Auto Spin Open Source", "Uploaded by teres on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Spin%20Open%20Source114.lua", "https://scriptblox.com/script/Project-Slayers-Auto-Spin-Open-Source-4889")
+                                
+    addscriptexist(5956785391, "Auto Fish", "Uploaded by caganhuseyinerdil on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Fish620.lua", "https://scriptblox.com/script/Project-Slayers-Auto-Fish-4424")
+                                

@@ -1,0 +1,2 @@
+
+addscript(8216162783, "Current Game","scam script", "Uploaded by quilll457 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/scam%20script542.lua", "https://scriptblox.com/script/Cars-Trading-scam-script-3867")

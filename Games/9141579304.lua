@@ -1,0 +1,2 @@
+
+addscript(9141579304, "Current Game","Auto farm", "Uploaded by Ishi on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20farm550.lua", "https://scriptblox.com/script/x20-Strength-Simulator-2-Auto-6086")

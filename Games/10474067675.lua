@@ -1,0 +1,2 @@
+
+addscript(10474067675, "Current Game","Finish parkour", "Uploaded by Hisako on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Finish%20parkour62.lua", "https://scriptblox.com/script/If-You-Fall-You-Get-Banned-(EXTREME-OBBY)-Finish-parkour-5378")

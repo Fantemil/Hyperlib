@@ -1,0 +1,2 @@
+
+addscript(4889315193, "Current Game","Camp Script", "Uploaded by vicesilly on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Camp%20Script189.lua", "https://scriptblox.com/script/Total-Roblox-Drama-Camp-Script-6602")

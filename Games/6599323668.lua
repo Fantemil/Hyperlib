@@ -1,0 +1,2 @@
+
+addscript(6599323668, "Current Game","Conflicted GET ANY GUN SCRIPT not patched", "Uploaded by JolcnScripts on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Conflicted%20GET%20ANY%20GUN%20SCRIPT%20not%20patched668.lua", "https://scriptblox.com/script/Conflicted-GET-ANY-GUN-SCRIPT!-3781")

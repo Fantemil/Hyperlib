@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://raw.githubusercontent.com/ValoddVSC/Ntriety/main/NotorietyScript?token=GHSAT0AAAAAABZWCKZUUB3DVBCJSSEIGALGY2D2SKA')()

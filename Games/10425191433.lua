@@ -1,0 +1,2 @@
+
+addscript(10425191433, "Current Game","FIXED Infinite Coins and Rebirths", "Uploaded by sunken on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FIXED%20Infinite%20Coins%20and%20Rebirths1000.lua", "https://scriptblox.com/script/Trick-Shot-Simulator-Infinite-Coins-and-Rebirths-6138")

@@ -1,0 +1,2 @@
+
+addscript(3199109640, "Current Game","LynX v2", "Uploaded by LynXz on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LynX%20v2760.lua", "https://scriptblox.com/script/Camping-2-LynX-v-5131")

@@ -1,0 +1,2 @@
+
+addscript(4965975642, "Current Game","Aidez Command GUI", "Uploaded by mecha on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Aidez%20Command%20GUI452.lua", "https://scriptblox.com/script/Survival-Of-the-Fittest-Aidez-Command-GUI-5346")

@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +2: 03.08.2023 14:58:42"
+lastupdate = "GMT +2: 03.08.2023 15:31:23"
 --^^^dont touch ^^^
 getgenv().hubscripts = {
     allscripts = {}

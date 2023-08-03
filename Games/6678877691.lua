@@ -1,0 +1,2 @@
+
+addscript(6678877691, "Current Game","Fly Kill aura", "Uploaded by Possible on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Fly%20Kill%20aura850.lua", "https://scriptblox.com/script/FROSTBITE-ZO-SAMURAI-Fly-Kill-aura-5043")

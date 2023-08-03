@@ -1,0 +1,2 @@
+
+addscript(6112589711, "Current Game","Win", "Uploaded by AggressiveDude on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Win570.lua", "https://scriptblox.com/script/FREE-HEADLESS-Tower-Of-Spell-Win-4360")

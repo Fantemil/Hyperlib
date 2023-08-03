@@ -8,3 +8,5 @@ addscript(606849621, "Current Game","OP robbery assist", "Uploaded by Virge_Rogu
                                 
     addscriptexist(606849621, "SCRIPT JAILBRAIK OP", "Uploaded by selimlomovtzeff59 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SCRIPT%20JAILBRAIK%20OP888.lua", "https://scriptblox.com/script/Jailbreak-SCRIPT-JAILBRAIK-OP-6507")
                                 
+    addscriptexist(606849621, "LEGIT AUTOFARM", "Uploaded by desiiredrblx45 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LEGIT%20AUTOFARM871.lua", "https://scriptblox.com/script/Jailbreak-LEGIT-AUTOFARM-6363")
+                                

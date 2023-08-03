@@ -1,0 +1,2 @@
+
+addscript(134991879, "Current Game","Unlimited Health", "Uploaded by AggressiveDude on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Unlimited%20Health224.lua", "https://scriptblox.com/script/Sword-Fighting-Bot-Unlimited-Health-4512")

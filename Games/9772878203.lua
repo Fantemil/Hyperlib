@@ -1,2 +1,4 @@
 
 addscript(9772878203, "Current Game","raise a floppa 2 AUTOFARM", "Uploaded by giannisthegamer1 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/raise%20a%20floppa%202%20AUTOFARM373.lua", "https://scriptblox.com/script/raise-a-floppa-2-flopp-UTOFRM-4192")
+    addscriptexist(9772878203, "raise a floppa 2 script  OBFUSCTION CRCKEDOPEN SOURCE", "Uploaded by jwjuwu on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/raise%20a%20floppa%202%20script%20%20OBFUSCTION%20CRCKEDOPEN%20SOURCE86.lua", "https://scriptblox.com/script/raise-a-floppa-2-flopp-script-oror-OBFUSCTION-CRCKED!OPEN-SOURCE-3767")
+                                

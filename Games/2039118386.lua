@@ -1,0 +1,2 @@
+
+addscript(2039118386, "Current Game","no recoil", "Uploaded by gore on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/no%20recoil484.lua", "https://scriptblox.com/script/Neighborhood-war-no-recoil-5191")

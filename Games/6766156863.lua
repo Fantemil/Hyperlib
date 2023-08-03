@@ -1,2 +1,4 @@
 
 addscript(6766156863, "Current Game","get all badges", "Uploaded by Bebedi on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/get%20all%20badges825.lua", "https://scriptblox.com/script/FREE-UGC!-5x-Strongman-Wimbledon-get-all-badges-4222")
+    addscriptexist(6766156863, "Strong Man auto gamepass", "Uploaded by Nift on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Strong%20Man%20auto%20gamepass456.lua", "https://scriptblox.com/script/FREE-UGC!-5x-Strongman-Wimbledon-Strong-Man-auto-gamepass-4232")
+                                

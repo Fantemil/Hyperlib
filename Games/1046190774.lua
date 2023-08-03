@@ -1,0 +1,2 @@
+
+addscript(1046190774, "Current Game","GUI and Autofarm", "Uploaded by tomergamertv on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/GUI%20and%20Autofarm816.lua", "https://scriptblox.com/script/Halloween-Night-GUI-and-Autofarm-6348")

@@ -8,3 +8,7 @@ addscript(3956818381, "Current Game","Ninja Auto Farm Misc", "Uploaded by UziMan
                                 
     addscriptexist(3956818381, "Ninja Unlock all islands", "Uploaded by Danielgamer9799 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ninja%20Unlock%20all%20islands458.lua", "https://scriptblox.com/script/Ninja-Legends-Ninja-Unlock-all-islands-6059")
                                 
+    addscriptexist(3956818381, "Ninja Proxima Hub", "Uploaded by faro on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ninja%20Proxima%20Hub951.lua", "https://scriptblox.com/script/Ninja-Legends-Ninja-Proxima-Hub-4235")
+                                
+    addscriptexist(3956818381, "Ninja Legends  Very OP Script ", "Uploaded by Shalev on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ninja%20Legends%20%20Very%20OP%20Script%20836.lua", "https://scriptblox.com/script/Ninja-Legends-or-Very-OP-Script!-3166")
+                                

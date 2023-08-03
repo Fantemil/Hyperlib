@@ -6,3 +6,9 @@ addscript(4616652839, "Current Game","SHINDO LIFE GET NEAR ALL ITEMS", "Uploaded
                                 
     addscriptexist(4616652839, "Shindo life get all items", "Uploaded by SleepyCt on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Shindo%20life%20get%20all%20items38.lua", "https://scriptblox.com/script/UPDATE-Shindo-Life-Shindo-life-get-all-items-4482")
                                 
+    addscriptexist(4616652839, "Auto Rank Up Only", "Uploaded by yuuiz on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Rank%20Up%20Only257.lua", "https://scriptblox.com/script/UPDATE-Shindo-Life-Auto-Rank-Up-6147")
+                                
+    addscriptexist(4616652839, "Shindo Life nearly get all items", "Uploaded by ImAnSkid on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Shindo%20Life%20nearly%20get%20all%20items226.lua", "https://scriptblox.com/script/UPDATE-Shindo-Life-Shindo-Life-nearly-get-all-items-4470")
+                                
+    addscriptexist(4616652839, "Shindo life auto spin", "Uploaded by DyDyLnr on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Shindo%20life%20auto%20spin181.lua", "https://scriptblox.com/script/UPDATE-Shindo-Life-Shindo-life-auto-spin-3139")
+                                

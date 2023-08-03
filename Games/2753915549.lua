@@ -60,3 +60,31 @@ addscript(2753915549, "Current Game","New script for u", "Uploaded by cheyenneth
                                 
     addscriptexist(2753915549, "Neva Hub", "Uploaded by J_Paste on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Neva%20Hub787.lua", "https://scriptblox.com/script/Blox-Fruits-Neva-Hub-6576")
                                 
+    addscriptexist(2753915549, "Bean Hub", "Uploaded by pekka13249 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Bean%20Hub186.lua", "https://scriptblox.com/script/Blox-Fruits-Bean-Hub-6555")
+                                
+    addscriptexist(2753915549, "mago hub", "Uploaded by giovannifranco725 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/mago%20hub46.lua", "https://scriptblox.com/script/UPDATE-16-Blox-Fruits-mago-hub-6553")
+                                
+    addscriptexist(2753915549, "Hub HoHo de Blox Fruits", "Uploaded by philippemichaud1 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Hub%20HoHo%20de%20Blox%20Fruits182.lua", "https://scriptblox.com/script/UPDATE-16-Blox-Fruits-Hub-HoHo-de-Blox-Fruits-5775")
+                                
+    addscriptexist(2753915549, "Anti AFK", "Uploaded by mekhidixon49 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anti%20AFK191.lua", "https://scriptblox.com/script/UPDATE-16-Blox-Fruits-Anti-AFK-6034")
+                                
+    addscriptexist(2753915549, "funi script sadly this is patched L", "Uploaded by ak2928546 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/funi%20script%20sadly%20this%20is%20patched%20L600.lua", "https://scriptblox.com/script/UPDATE-16-Blox-Fruits-blox-fruits-script-for-pros-4913")
+                                
+    addscriptexist(2753915549, "Hxllow Hub Fixed Version", "Uploaded by CatV1 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Hxllow%20Hub%20Fixed%20Version608.lua", "https://scriptblox.com/script/UPDATE-16-Blox-Fruits-Hxllow-Hub-Fixed-Version-6239")
+                                
+    addscriptexist(2753915549, "OP AutoFarm", "Uploaded by QuandaleDingle on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20AutoFarm756.lua", "https://scriptblox.com/script/UPDATE-16-Blox-Fruits-OP-AutoFarm-5926")
+                                
+    addscriptexist(2753915549, "AUTO FARM", "Uploaded by sadtomioaya on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AUTO%20FARM820.lua", "https://scriptblox.com/script/UPDATE-16-Blox-Fruits-AUTO-FARM-4965")
+                                
+    addscriptexist(2753915549, "farm", "Uploaded by mateusgame255 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/farm805.lua", "https://scriptblox.com/script/UPDATE-16-Blox-Fruits-farm-4254")
+                                
+    addscriptexist(2753915549, "JJT x Hub", "Uploaded by JJTChannel on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/JJT%20x%20Hub732.lua", "https://scriptblox.com/script/UPDATE-16-Blox-Fruits-JJT-x-Hub-6292")
+                                
+    addscriptexist(2753915549, "OP bloxfruit script", "Uploaded by giannisthegamer1 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20bloxfruit%20script277.lua", "https://scriptblox.com/script/UPDATE-16-Blox-Fruits-OP-bloxfruit-script-6303")
+                                
+    addscriptexist(2753915549, "boh", "Uploaded by mortarinoluca on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/boh893.lua", "https://scriptblox.com/script/UPDATE-16-Blox-Fruits-boh-3933")
+                                
+    addscriptexist(2753915549, "httpsrawgithubusercontentcomacsu123HOHOHmainLoadingUI", "Uploaded by thiagomichiles08 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/httpsrawgithubusercontentcomacsu123HOHOHmainLoadingUI762.lua", "https://scriptblox.com/script/UPDATE-16-Blox-Fruits-https:raw.githubusercontent.comacsu123HOHO_HmainLoading_UI-3821")
+                                
+    addscriptexist(2753915549, "Auto Beli", "Uploaded by CatV1 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Beli400.lua", "https://scriptblox.com/script/UPDATE-16-Blox-Fruits-Auto-Beli-5319")
+                                

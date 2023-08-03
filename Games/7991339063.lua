@@ -10,3 +10,5 @@ addscript(7991339063, "Current Game","Collect Items ESP Speed Deliver Inf Jump",
                                 
     addscriptexist(7991339063, "Instant win", "Uploaded by sara_ on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Instant%20win36.lua", "https://scriptblox.com/script/Rainbow-Friends-Instant-win-5898")
                                 
+    addscriptexist(7991339063, "Rainbow friend", "Uploaded by zuny on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Rainbow%20friend653.lua", "https://scriptblox.com/script/Rainbow-Friends-Rainbow-friend-5833")
+                                

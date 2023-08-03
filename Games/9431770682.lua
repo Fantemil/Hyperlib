@@ -1,0 +1,2 @@
+
+addscript(9431770682, "Current Game","LostRooms", "Uploaded by CandyLean on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LostRooms503.lua", "https://scriptblox.com/script/Lost-Rooms-L0st-5688")

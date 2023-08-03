@@ -1,0 +1,2 @@
+
+addscript(10088409009, "Current Game","Funny burger spam", "Uploaded by Shag420 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Funny%20burger%20spam27.lua", "https://scriptblox.com/script/Random-Curses-Funny-burger-spam-4667")

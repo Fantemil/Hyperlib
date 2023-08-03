@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://raw.githubusercontent.com/FuseBuzzFart/universal-script-Alpha-/main/.gitignore)()

@@ -1,0 +1,2 @@
+
+addscript(738339342, "Current Game","TAS Script The best for now", "Uploaded by altlexon01 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TAS%20Script%20The%20best%20for%20now846.lua", "https://scriptblox.com/script/WINTER-FE2-TAS-Script-The-best-for-now-5691")

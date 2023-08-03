@@ -1,0 +1,2 @@
+
+addscript(8571633166, "Current Game","The Best Script For This Mid Game", "Uploaded by Novaz on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/The%20Best%20Script%20For%20This%20Mid%20Game872.lua", "https://scriptblox.com/script/BOSSES-Pet-Gods-Simulator-The-Best-Script-For-This-Mid-Game-4856")

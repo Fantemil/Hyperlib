@@ -2,3 +2,5 @@
 addscript(9284097280, "Current Game","Just sit back and relaxe and let the script do its thing ", "Uploaded by Cammy on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Just%20sit%20back%20and%20relaxe%20and%20let%20the%20script%20do%20its%20thing%20425.lua", "https://scriptblox.com/script/Apartment-Tycoon-UPD-1!-Apartment-Tycoon-Script-6274")
     addscriptexist(9284097280, "Autocollect Autoclean", "Uploaded by Foreverekk on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Autocollect%20Autoclean836.lua", "https://scriptblox.com/script/Apartment-Tycoon-UPD-1!-Autocollect-Autoclean-6232")
                                 
+    addscriptexist(9284097280, "Auto Collect Money", "Uploaded by gore on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Collect%20Money730.lua", "https://scriptblox.com/script/Apartment-Tycoon-UPD-1!-Auto-Collect-Money-5192")
+                                

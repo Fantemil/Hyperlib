@@ -1,0 +1,2 @@
+
+addscript(4639625707, "Current Game","Autofarm", "Uploaded by Margman9is9nothing on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Autofarm508.lua", "https://scriptblox.com/script/VIETNAM-Oil-Warfare-Tycoon-Autofarm-5722")

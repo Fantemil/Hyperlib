@@ -1,0 +1,2 @@
+
+addscript(10424457308, "Current Game","Money Farm", "Uploaded by Vep1003 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Money%20Farm531.lua", "https://scriptblox.com/script/Roadman:-Ashura-Money-Farm-5599")

@@ -4,3 +4,5 @@ addscript(9049840490, "Current Game","Project Phantom  18 Games", "Uploaded by d
                                 
     addscriptexist(9049840490, "AutoFarm", "Uploaded by abdulrezzakyb on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AutoFarm332.lua", "https://scriptblox.com/script/ENCHANT-Sonic-Speed-Simulator-AutoFarm-3509")
                                 
+    addscriptexist(9049840490, "TomoriHUB", "Uploaded by TomoriHub on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TomoriHUB530.lua", "https://scriptblox.com/script/SONIC-BIRTHDAY-Sonic-Speed-Simulator-TomoriHUB-3729")
+                                

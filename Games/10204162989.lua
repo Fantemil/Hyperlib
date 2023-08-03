@@ -1,0 +1,2 @@
+
+addscript(10204162989, "Current Game","GUI", "Uploaded by Ghosty_Duckyy on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/GUI422.lua", "https://scriptblox.com/script/UPD1-Pickaxe-Simulator-GUI-5483")

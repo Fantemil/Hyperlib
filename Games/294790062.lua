@@ -1,0 +1,2 @@
+
+addscript(294790062, "Current Game","LynX v2", "Uploaded by LynXz on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LynX%20v2960.lua", "https://scriptblox.com/script/Roblox-Titanic-LynX-v2-5108")

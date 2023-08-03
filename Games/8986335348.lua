@@ -1,0 +1,2 @@
+
+addscript(8986335348, "Current Game","Mrtemy GUI OP FIXED", "Uploaded by Valodd on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mrtemy%20GUI%20OP%20FIXED104.lua", "https://scriptblox.com/script/Mortem-Metallum-BETA-Mrtemy-GUI-OP-FIXED-6487")

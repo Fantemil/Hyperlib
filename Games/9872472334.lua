@@ -6,3 +6,7 @@ addscript(9872472334, "Current Game","PhonkHub  Esp Bot afk Farm", "Uploaded by 
                                 
     addscriptexist(9872472334, "Evade Auto Farm", "Uploaded by Xai_Hub on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Evade%20Auto%20Farm642.lua", "https://scriptblox.com/script/UPDATE-Evade-Evade-Auto-Farm-6117")
                                 
+    addscriptexist(9872472334, "Evad GUI", "Uploaded by giannisthegamer1 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Evad%20GUI619.lua", "https://scriptblox.com/script/UPDATE-Evade-***-Mode-6224")
+                                
+    addscriptexist(9872472334, "Free Respawn", "Uploaded by Walmart on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Free%20Respawn180.lua", "https://scriptblox.com/script/UPDATE-Evade-Free-Respawn-5345")
+                                

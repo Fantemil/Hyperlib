@@ -1,2 +1,4 @@
 
 addscript(10676523834, "Current Game","Racing Rocket OP Script", "Uploaded by PXTTXRN on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Racing%20Rocket%20OP%20Script75.lua", "https://scriptblox.com/script/NewRacing-Rocket-Racing-Rocket-OP-Script-5956")
+    addscriptexist(10676523834, "Racing Rocket Script", "Uploaded by sqpeedyy on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Racing%20Rocket%20Script30.lua", "https://scriptblox.com/script/NewRacing-Rocket-Racing-Rocket-Script-5627")
+                                

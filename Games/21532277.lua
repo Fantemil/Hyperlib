@@ -4,3 +4,5 @@ addscript(21532277, "Current Game","gui", "Uploaded by ziroponto on scriptblox.c
                                 
     addscriptexist(21532277, "TP Bags to Escape", "Uploaded by Lucas on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TP%20Bags%20to%20Escape538.lua", "https://scriptblox.com/script/Notoriety-TP-Bags-to-Escape-4859")
                                 
+    addscriptexist(21532277, "Ntriety Script OP FIXED", "Uploaded by Valodd on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ntriety%20Script%20OP%20FIXED997.lua", "https://scriptblox.com/script/Notoriety-Ntriety-Script-OP-6409")
+                                

@@ -6,3 +6,7 @@ addscript(13253735473, "Current Game","Updated Astral pro LEGIT", "Uploaded by y
                                 
     addscriptexist(13253735473, "Leaked i found in discord", "Uploaded by yoyoyoo on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Leaked%20i%20found%20in%20discord9.lua", "https://scriptblox.com/script/Trident-Survival-V2-Leaked-i-found-in-discord-11313")
                                 
+    addscriptexist(13253735473, "Actor bypass", "Uploaded by ratsssstts on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Actor%20bypass979.lua", "https://scriptblox.com/script/Trident-Survival-V2-Actor-bypass-6589")
+                                
+    addscriptexist(13253735473, "FREE and PAID Float ", "Uploaded by ratsssstts on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FREE%20and%20PAID%20Float%20276.lua", "https://scriptblox.com/script/Trident-Survival-V2-FREE-and-PAID-Float-*****-6595")
+                                

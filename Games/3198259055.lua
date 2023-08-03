@@ -1,0 +1,2 @@
+
+addscript(3198259055, "Current Game","cool character", "Uploaded by real_sans_undertale on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/cool%20character477.lua", "https://scriptblox.com/script/SoulShatters-Test-Place-cool-character-5886")

@@ -1,0 +1,2 @@
+
+addscript(12996550309, "Current Game","Script", "Uploaded by BatFoobies on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Script327.lua", "https://scriptblox.com/script/RunStar-Simulator-Script-6551")

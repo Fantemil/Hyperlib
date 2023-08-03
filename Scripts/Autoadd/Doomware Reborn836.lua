@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/buqs9999/Doomware/main/Aimlock"))()

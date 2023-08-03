@@ -18,3 +18,13 @@ addscript(6516141723, "Current Game","Shears on everything", "Uploaded by 006Ker
                                 
     addscriptexist(6516141723, "Door by MS Hub", "Uploaded by nguyendr2008 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Door%20by%20MS%20Hub462.lua", "https://scriptblox.com/script/DOORS-by-MS-Hub-6614")
                                 
+    addscriptexist(6516141723, "hqngl", "Uploaded by Art1sh on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/hqngl418.lua", "https://scriptblox.com/script/DOORS-hqngl-6610")
+                                
+    addscriptexist(6516141723, "Summon Screech", "Uploaded by ChronoAccelerator on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Summon%20Screech885.lua", "https://scriptblox.com/script/DOORS-Summon-Screech-6522")
+                                
+    addscriptexist(6516141723, "Best Legit Cheat", "Uploaded by gore on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Best%20Legit%20Cheat728.lua", "https://scriptblox.com/script/DOORS-Best-Legit-Cheat-5193")
+                                
+    addscriptexist(6516141723, "Vynixius", "Uploaded by Vynixu on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Vynixius298.lua", "https://scriptblox.com/script/DOORS-Vynixius-5066")
+                                
+    addscriptexist(6516141723, "OminousVibes Update", "Uploaded by V3rmScriptsUploader on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OminousVibes%20Update298.lua", "https://scriptblox.com/script/DOORS-OminousVibes-Update-5133")
+                                

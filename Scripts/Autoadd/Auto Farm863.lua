@@ -1,0 +1,1 @@
+loadstring(game:HttpGet"https://raw.githubusercontent.com/itzRolf/Collection/main/Taxi%20Boss/main.lua")()

@@ -1,0 +1,2 @@
+
+addscript(5872075530, "Current Game","hitbox extender", "Uploaded by gore on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/hitbox%20extender872.lua", "https://scriptblox.com/script/Anarchy-VC-hitbox-extender-4845")

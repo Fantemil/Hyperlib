@@ -68,3 +68,81 @@ addscript(2788229376, "Current Game","Rayx", "Uploaded by OkAyq on scriptblox.co
                                 
     addscriptexist(2788229376, "da hood script op as idk how as", "Uploaded by imdumb on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/da%20hood%20script%20op%20as%20idk%20how%20as580.lua", "https://scriptblox.com/script/Da-Hood-da-hood-script-(op-as-idk-how-as)-3953")
                                 
+    addscriptexist(2788229376, "tyrone gui", "Uploaded by killeryew on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/tyrone%20gui951.lua", "https://scriptblox.com/script/Da-Hood-tyrone-gui-6189")
+                                
+    addscriptexist(2788229376, "Zinc Hub OP", "Uploaded by Zinc on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Zinc%20Hub%20OP770.lua", "https://scriptblox.com/script/Da-Hood-Zinc-Hub-6605")
+                                
+    addscriptexist(2788229376, "puppyware", "Uploaded by gore on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/puppyware768.lua", "https://scriptblox.com/script/Da-Hood-puppyware-6392")
+                                
+    addscriptexist(2788229376, "Da Hood Server Crasher", "Uploaded by rakungowo on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Da%20Hood%20Server%20Crasher98.lua", "https://scriptblox.com/script/Da-Hood-Da-Hood-Server-Crasher-6315")
+                                
+    addscriptexist(2788229376, "da hood OP script", "Uploaded by xlowyzz on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/da%20hood%20OP%20script331.lua", "https://scriptblox.com/script/Da-Hood-sdufsifsdfygfsfugdsfy-5883")
+                                
+    addscriptexist(2788229376, "LATES GUI DE HEED", "Uploaded by Tamama on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LATES%20GUI%20DE%20HEED78.lua", "https://scriptblox.com/script/Da-Hood-LATES-GUI-DE-HEED-5463")
+                                
+    addscriptexist(2788229376, "Fake Macro", "Uploaded by Twix on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Fake%20Macro397.lua", "https://scriptblox.com/script/Da-Hood-Fake-Macro-5784")
+                                
+    addscriptexist(2788229376, "Mango Premium Reach Aimlock Anti Slow and more", "Uploaded by rogelioajax on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mango%20Premium%20Reach%20Aimlock%20Anti%20Slow%20and%20more309.lua", "https://scriptblox.com/script/Da-Hood-Mango-Premium-Reach-Aimlock-Anti-Slow-and-more-5757")
+                                
+    addscriptexist(2788229376, "Biggest da hood release ever on here", "Uploaded by fsfsfsf on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Biggest%20da%20hood%20release%20ever%20on%20here921.lua", "https://scriptblox.com/script/Da-Hood-Biggest-da-hood-release-ever-on-here-5695")
+                                
+    addscriptexist(2788229376, "Yun V3 Crack", "Uploaded by sales0001 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Yun%20V3%20Crack484.lua", "https://scriptblox.com/script/Da-Hood-Yun-V3-Crack-5370")
+                                
+    addscriptexist(2788229376, "vortex", "Uploaded by Eduardoporcoddio on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/vortex820.lua", "https://scriptblox.com/script/Da-Hood-vortex-5565")
+                                
+    addscriptexist(2788229376, "insomniac v3 source", "Uploaded by putrid on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/insomniac%20v3%20source401.lua", "https://scriptblox.com/script/Da-Hood-insomniac-v3-source-4538")
+                                
+    addscriptexist(2788229376, "allah source", "Uploaded by putrid on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/allah%20source934.lua", "https://scriptblox.com/script/Da-Hood-allah-source-4533")
+                                
+    addscriptexist(2788229376, "eternal lua", "Uploaded by putrid on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/eternal%20lua584.lua", "https://scriptblox.com/script/Da-Hood-eternal-lua-4572")
+                                
+    addscriptexist(2788229376, "dimagx source v2", "Uploaded by putrid on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/dimagx%20source%20v248.lua", "https://scriptblox.com/script/Da-Hood-dimagx-source-v2-4549")
+                                
+    addscriptexist(2788229376, "OP DA HOOD", "Uploaded by Human123 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20DA%20HOOD942.lua", "https://scriptblox.com/script/Da-Hood-OP-DA-HOOD-5335")
+                                
+    addscriptexist(2788229376, "zapped v2", "Uploaded by gore on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/zapped%20v2960.lua", "https://scriptblox.com/script/Da-Hood-zapped-v2-5188")
+                                
+    addscriptexist(2788229376, "Demise Crack", "Uploaded by Twix on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Demise%20Crack658.lua", "https://scriptblox.com/script/Da-Hood-Demise-Crack-5178")
+                                
+    addscriptexist(2788229376, "Da hood admin fly tool and much more", "Uploaded by aryaman6949 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Da%20hood%20admin%20fly%20tool%20and%20much%20more127.lua", "https://scriptblox.com/script/Da-Hood-Da-hood-admin-fly-tool-and-much-more-4445")
+                                
+    addscriptexist(2788229376, "headless korblox faces script FE", "Uploaded by nikobbelick on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/headless%20korblox%20faces%20script%20FE718.lua", "https://scriptblox.com/script/Da-Hood-headless-korblox-faces-script-FE-4395")
+                                
+    addscriptexist(2788229376, "killbot source", "Uploaded by putrid on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/killbot%20source621.lua", "https://scriptblox.com/script/Da-Hood-killbot-source-4531")
+                                
+    addscriptexist(2788229376, "da hood dot lock moon lock", "Uploaded by hijaw50 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/da%20hood%20dot%20lock%20moon%20lock231.lua", "https://scriptblox.com/script/Da-Hood-da-hood-dot-lock-moon-lock-4307")
+                                
+    addscriptexist(2788229376, "Swagmode", "Uploaded by ziraniumdev on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Swagmode553.lua", "https://scriptblox.com/script/Da-Hood-Swagmode-3790")
+                                
+    addscriptexist(2788229376, "OP SILENT AIM FOR DA HOOD", "Uploaded by xlowyzz on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20SILENT%20AIM%20FOR%20DA%20HOOD119.lua", "https://scriptblox.com/script/Da-Hood-OP-SILENT-AIM-FOR-DA-HOOD-4382")
+                                
+    addscriptexist(2788229376, "decent streamable", "Uploaded by coll on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/decent%20streamable231.lua", "https://scriptblox.com/script/Da-Hood-decent-streamable-5164")
+                                
+    addscriptexist(2788229376, "fartzad target aim leaked", "Uploaded by coll on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/fartzad%20target%20aim%20leaked710.lua", "https://scriptblox.com/script/Da-Hood-fartzad-target-aim-leaked-4880")
+                                
+    addscriptexist(2788229376, "Doomware Reborn", "Uploaded by coll on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Doomware%20Reborn836.lua", "https://scriptblox.com/script/Da-Hood-Doomware-Reborn-4885")
+                                
+    addscriptexist(2788229376, "faded", "Uploaded by ihearthackz on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/faded305.lua", "https://scriptblox.com/script/Da-Hood-faded-6018")
+                                
+    addscriptexist(2788229376, "Puppyware 25 leak", "Uploaded by Twix on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Puppyware%2025%20leak11.lua", "https://scriptblox.com/script/Da-Hood-Puppyware-4644")
+                                
+    addscriptexist(2788229376, "SPACEX  NEW 1 DAHOOD SCRIPT", "Uploaded by batusd3009 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SPACEX%20%20NEW%201%20DAHOOD%20SCRIPT228.lua", "https://scriptblox.com/script/Da-Hood-SPACEX-or-NEW-1-DAHOOD-SCRIPT-3214")
+                                
+    addscriptexist(2788229376, "BEST STREAMABLE SILENT", "Uploaded by nikobbelick on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BEST%20STREAMABLE%20SILENT214.lua", "https://scriptblox.com/script/Da-Hood-BEST-STREAMABLE-SILENT-4339")
+                                
+    addscriptexist(2788229376, "fartzad silent aim leaked", "Uploaded by coll on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/fartzad%20silent%20aim%20leaked649.lua", "https://scriptblox.com/script/Da-Hood-fartzad-silent-aim-leaked-4884")
+                                
+    addscriptexist(2788229376, "Swag Mode Cracked Source", "Uploaded by daunknownforlocker on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Swag%20Mode%20Cracked%20Source718.lua", "https://scriptblox.com/script/Da-Hood-Swag-Mode-Cracked-Source-3735")
+                                
+    addscriptexist(2788229376, "kzumaki source", "Uploaded by putrid on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/kzumaki%20source200.lua", "https://scriptblox.com/script/Da-Hood-kzumaki-source-4540")
+                                
+    addscriptexist(2788229376, "Montana Hub", "Uploaded by Montana on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Montana%20Hub498.lua", "https://scriptblox.com/script/Da-Hood-Montana-Hub-3130")
+                                
+    addscriptexist(2788229376, "good lock for da hood", "Uploaded by xlowyzz on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/good%20lock%20for%20da%20hood560.lua", "https://scriptblox.com/script/Da-Hood-good-lock-for-da-hood!-3829")
+                                
+    addscriptexist(2788229376, "Plasma dahood Gui", "Uploaded by Ooobist on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Plasma%20dahood%20Gui156.lua", "https://scriptblox.com/script/Da-Hood-Plasma-DAhood-3996")
+                                
+    addscriptexist(2788229376, "meffsol script", "Uploaded by olleax08 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/meffsol%20script143.lua", "https://scriptblox.com/script/Da-Hood-meff.sol-script-4231")
+                                
+    addscriptexist(2788229376, "hydraware source code", "Uploaded by coll on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/hydraware%20source%20code661.lua", "https://scriptblox.com/script/Da-Hood-hydraware-source-code-5209")
+                                

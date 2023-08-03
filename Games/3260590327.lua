@@ -6,3 +6,7 @@ addscript(3260590327, "Current Game","TDS Auto Lobby", "Uploaded by SUUSIIWKEMSK
                                 
     addscriptexist(3260590327, "GUI", "Uploaded by Nicuse on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/GUI319.lua", "https://scriptblox.com/script/Tower-Defense-Simulator-GUI-5562")
                                 
+    addscriptexist(3260590327, "hardcore autofarm script 244 gems per hour", "Uploaded by Valodd on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/hardcore%20autofarm%20script%20244%20gems%20per%20hour463.lua", "https://scriptblox.com/script/PHILIPS-Tower-Defense-Simulator-hardcore-autofarm-script-244-gems-per-hour-6564")
+                                
+    addscriptexist(3260590327, "Gems Autofarm", "Uploaded by XYZX on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Gems%20Autofarm29.lua", "https://scriptblox.com/script/NEW-Tower-Defense-Simulator-Gems-Autofarm-4515")
+                                

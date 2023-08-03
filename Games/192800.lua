@@ -6,3 +6,5 @@ addscript(192800, "Current Game","pizz gme fun script", "Uploaded by scab on scr
                                 
     addscriptexist(192800, "Work at a Pizza Place SO MANY FEATURES", "Uploaded by uzee on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Work%20at%20a%20Pizza%20Place%20SO%20MANY%20FEATURES477.lua", "https://scriptblox.com/script/You're-Fired!Work-at-a-Pizza-Place-Work-Pizz-Plce-(BECOME-MNGER)-3827")
                                 
+    addscriptexist(192800, "statement GUI", "Uploaded by V3rmScriptsUploader on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/statement%20GUI231.lua", "https://scriptblox.com/script/Work-at-a-Pizza-Place-stement-GUI-5123")
+                                

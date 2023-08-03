@@ -1,0 +1,2 @@
+
+addscript(659222129, "Current Game","SB Script", "Uploaded by ugjwrpouigjweroigj on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SB%20Script365.lua", "https://scriptblox.com/script/Swordburst-2-SB-Script-5013")

@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/xwel33/meffsol/main/meffcheat", true))()

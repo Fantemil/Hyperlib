@@ -1,0 +1,2 @@
+
+addscript(5732973455, "Current Game","Hours Script Unlock all you need to rejoin", "Uploaded by johanbpinagod on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Hours%20Script%20Unlock%20all%20you%20need%20to%20rejoin361.lua", "https://scriptblox.com/script/NEW-UPDATE-HOURS-Hours-Script-Unlock-all-you-need-to-rejoin-5941")

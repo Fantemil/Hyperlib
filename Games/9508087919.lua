@@ -1,0 +1,2 @@
+
+addscript(9508087919, "Current Game","FREE GAMEPASSES", "Uploaded by Haxolotl on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FREE%20GAMEPASSES227.lua", "https://scriptblox.com/script/Apeirophobia-The-End-UPDATE-FREE-GAMEPASSES-3719")

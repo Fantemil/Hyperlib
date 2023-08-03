@@ -1,0 +1,2 @@
+
+addscript(3458435516, "Current Game","autobuy", "Uploaded by ChickenAndChips on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/autobuy271.lua", "https://scriptblox.com/script/Limited-Simulator-2-autobuy-5272")

@@ -1,0 +1,1 @@
+ loadstring(game:HttpGet("https://raw.githubusercontent.com/vep1032/VepStuff/main/Roadman%20Ashura%20Money%20Farm"))()

@@ -1,0 +1,2 @@
+
+addscript(10232731562, "Current Game","GODMODE etc", "Uploaded by loyalxo on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/GODMODE%20etc53.lua", "https://scriptblox.com/script/Full-release!-Pro-Piece-PRO-MAX-***-MODE-etc-6524")

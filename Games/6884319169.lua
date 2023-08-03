@@ -1,0 +1,2 @@
+
+addscript(6884319169, "Current Game","Fates Admin", "Uploaded by omjeff87 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Fates%20Admin435.lua", "https://scriptblox.com/script/MIC-UP-Fates-Admin-5601")

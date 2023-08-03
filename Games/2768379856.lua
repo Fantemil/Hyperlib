@@ -2,3 +2,5 @@
 addscript(2768379856, "Current Game","WalkSpeed JumpPower Gravity NoClip Fly Infinite Jump", "Uploaded by Dambldor on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/WalkSpeed%20JumpPower%20Gravity%20NoClip%20Fly%20Infinite%20Jump585.lua", "https://scriptblox.com/script/3008-2.72-WalkSpeed-JumpPower-Gravity-NoClip-Fly-Infinite-Jump-12092")
     addscriptexist(2768379856, "OP GET FOOD", "Uploaded by frenzystuff2 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20GET%20FOOD629.lua", "https://scriptblox.com/script/3008-2.71-OP-GET-FOOD-5538")
                                 
+    addscriptexist(2768379856, "Item Giver Graphical User Interface", "Uploaded by 502Development on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Item%20Giver%20Graphical%20User%20Interface113.lua", "https://scriptblox.com/script/3008-2.71-Item-Giver-Graphical-User-Interface-5230")
+                                

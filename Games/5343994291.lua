@@ -1,0 +1,2 @@
+
+addscript(5343994291, "Current Game","OP Outlaster Script", "Uploaded by r3d_108 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20Outlaster%20Script461.lua", "https://scriptblox.com/script/Voice-chat!Outlaster-OP-Outlaster-Script-5734")

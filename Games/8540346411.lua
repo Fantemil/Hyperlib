@@ -1,2 +1,4 @@
 
 addscript(8540346411, "Current Game","Simple Script MY FIRST SCRIPT SEND FEEDBACK", "Uploaded by Gold on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Simple%20Script%20MY%20FIRST%20SCRIPT%20SEND%20FEEDBACK919.lua", "https://scriptblox.com/script/UPDATE!-Rebirth-Champions-X-simple-clicker-script-my-first-script-pls-give-feedback-11932")
+    addscriptexist(8540346411, "Claim Amulets", "Uploaded by almostaceu90 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Claim%20Amulets250.lua", "https://scriptblox.com/script/RELEASE!-Rebirth-Champions-X-Claim-Amulets-6388")
+                                

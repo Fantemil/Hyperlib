@@ -1,0 +1,2 @@
+
+addscript(9210611498, "Current Game","AUTOFARM", "Uploaded by lobox920 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AUTOFARM678.lua", "https://scriptblox.com/script/Miami-Florida-Roleplay:-Remastered-AUTOFARM-3761")

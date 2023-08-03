@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/itzRolf/Utilities/main/Custom%20PC%20Tycoon/main.lua"))()

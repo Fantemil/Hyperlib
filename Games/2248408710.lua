@@ -1,0 +1,2 @@
+
+addscript(2248408710, "Current Game","Inf Money GUI", "Uploaded by Miya_AtsumuXD on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Inf%20Money%20GUI670.lua", "https://scriptblox.com/script/Destruction-Simulator-Inf-Money-GUI-6227")

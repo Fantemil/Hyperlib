@@ -1,0 +1,2 @@
+
+addscript(8508161757, "Current Game","Sorta Infinite Money", "Uploaded by Gumball on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sorta%20Infinite%20Money795.lua", "https://scriptblox.com/script/Raise-an-Albert-(PRIVATE-MULTIPLAYER!)-another-inf-money-script-3276")

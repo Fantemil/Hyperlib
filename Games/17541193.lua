@@ -1,0 +1,2 @@
+
+addscript(17541193, "Current Game","Roblox Pinewood Computer Core tp gui", "Uploaded by pichie2012 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Roblox%20Pinewood%20Computer%20Core%20tp%20gui139.lua", "https://scriptblox.com/script/Pinewood-Computer-Core-Roblox-tp-gui-5829")

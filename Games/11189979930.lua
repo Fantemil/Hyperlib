@@ -1,0 +1,2 @@
+
+addscript(11189979930, "Current Game","auto merge auto rebirth and auto upgrades", "Uploaded by sunken on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/auto%20merge%20auto%20rebirth%20and%20auto%20upgrades219.lua", "https://scriptblox.com/script/Pet-Crafting-Simulator-auto-merge-auto-rebirth-and-auto-upgrades-6565")

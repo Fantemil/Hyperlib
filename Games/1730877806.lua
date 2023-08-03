@@ -1,0 +1,2 @@
+
+addscript(1730877806, "Current Game","GPO Script  OBVERSATION V2 AUTOOSU RHYTHM GAME", "Uploaded by Beaver on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/GPO%20Script%20%20OBVERSATION%20V2%20AUTOOSU%20RHYTHM%20GAME198.lua", "https://scriptblox.com/script/UPDATE-4.5-Grand-Piece-Online-GPO-Script-or-OBVERSATION-V2-AUTOOSU-(RHYTHM-GAME)-3680")

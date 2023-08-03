@@ -1,0 +1,2 @@
+
+addscript(8146731988, "Current Game","op script without keysystem", "Uploaded by Tomato on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/op%20script%20without%20keysystem994.lua", "https://scriptblox.com/script/Ultra-Power-Tycoon-op-script-without-keysystem-5536")

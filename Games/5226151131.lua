@@ -1,0 +1,2 @@
+
+addscript(5226151131, "Current Game","AUTO FARM SOUL", "Uploaded by grimscommunity on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AUTO%20FARM%20SOUL399.lua", "https://scriptblox.com/script/HALLOWEEN-EVENT-Undertale:-Multiverse-Chaos-AUTO-FARM-6114")

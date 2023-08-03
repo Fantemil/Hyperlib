@@ -1,0 +1,2 @@
+
+addscript(9346039031, "Current Game","KlTTY Gui", "Uploaded by timmy282 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/KlTTY%20Gui780.lua", "https://scriptblox.com/script/PikkiMy-Hello-Kitty-Cafe-KlTTY-Gui-4857")

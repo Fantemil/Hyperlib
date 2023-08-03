@@ -1,0 +1,4 @@
+
+addscript(9522149469, "Current Game","Galaxy HUB 9 Supported Games", "Uploaded by MHD444 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Galaxy%20HUB%209%20Supported%20Games200.lua", "https://scriptblox.com/script/Strong-Clickers!-Galaxy-HUB-9-Supported-Games-4520")
+    addscriptexist(9522149469, "FastMoneyAutoEggTeleportionsAuotRebirthOP", "Uploaded by Haii on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FastMoneyAutoEggTeleportionsAuotRebirthOP787.lua", "https://scriptblox.com/script/NEW-Strong-Clickers!-FastMoneyAutoEggTeleportionsAuotRebirth~~~OP~~-3212")
+                                

@@ -1,0 +1,2 @@
+
+addscript(7603193259, "Current Game","Autoplayer", "Uploaded by tuisiengh on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Autoplayer136.lua", "https://scriptblox.com/script/BIG-UPDATE-Friday-Night-Bloxxin'-Autoplayer-5186")

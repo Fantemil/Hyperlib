@@ -1,0 +1,2 @@
+
+addscript(301549746, "Current Game","Kill All", "Uploaded by botperson9000 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Kill%20All413.lua", "https://scriptblox.com/script/Fixes-In-Progress-Counter-Blox-Kill-All-4397")

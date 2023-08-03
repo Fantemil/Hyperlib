@@ -1,0 +1,2 @@
+
+addscript(7860844204, "Current Game","life sentence auto workout by tam", "Uploaded by ImAnSkid on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/life%20sentence%20auto%20workout%20by%20tam139.lua", "https://scriptblox.com/script/Life-Sentence-life-sentence-auto-workout-by-tam-4916")

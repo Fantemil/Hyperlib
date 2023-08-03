@@ -28,3 +28,17 @@ addscript(286090429, "Current Game","Disabler", "Uploaded by AndrewDarkyy on scr
                                 
     addscriptexist(286090429, "op script", "Uploaded by tmenqaptl on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/op%20script291.lua", "https://scriptblox.com/script/Arsenal-op-script-5651")
                                 
+    addscriptexist(286090429, "Arsenal Hitbox Expander", "Uploaded by Lucasfin000 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Arsenal%20Hitbox%20Expander46.lua", "https://scriptblox.com/script/Arsenal-Arsenal-Hitbox-Expander-6336")
+                                
+    addscriptexist(286090429, "Cookie Hub V2", "Uploaded by Lua_Dev on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Cookie%20Hub%20V2133.lua", "https://scriptblox.com/script/Arsenal-Cookie-Hub-V2-5469")
+                                
+    addscriptexist(286090429, "Arutus X", "Uploaded by HHH_roblox on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Arutus%20X229.lua", "https://scriptblox.com/script/Arsenal-Arutus-X-5014")
+                                
+    addscriptexist(286090429, "Gun Mods", "Uploaded by Finny on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Gun%20Mods823.lua", "https://scriptblox.com/script/Arsenal-Gun-Mods-6391")
+                                
+    addscriptexist(286090429, "admin skins", "Uploaded by amcoolguy on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/admin%20skins174.lua", "https://scriptblox.com/script/Arsenal-dev-skin-arsenal-5561")
+                                
+    addscriptexist(286090429, "Hameware", "Uploaded by huggo on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Hameware662.lua", "https://scriptblox.com/script/Arsenal-Hameware-5463")
+                                
+    addscriptexist(286090429, "I N N O H U B on testing", "Uploaded by Morizz on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/I%20N%20N%20O%20H%20U%20B%20on%20testing939.lua", "https://scriptblox.com/script/Arsenal-Inno-Hub-4914")
+                                

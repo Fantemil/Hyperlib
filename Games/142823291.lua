@@ -20,3 +20,11 @@ addscript(142823291, "Current Game","New script with many new features", "Upload
                                 
     addscriptexist(142823291, "Highlight Hub new best script", "Uploaded by maxhpayne on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Highlight%20Hub%20new%20best%20script608.lua", "https://scriptblox.com/script/Murder-Mystery-2-Highlight-Hub-new-best-script-6618")
                                 
+    addscriptexist(142823291, "NexusX Hub mm", "Uploaded by _Flames on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NexusX%20Hub%20mm280.lua", "https://scriptblox.com/script/Murder-Mystery-2-NexusX-Hub-mm-6570")
+                                
+    addscriptexist(142823291, "Decent Many Features", "Uploaded by sara_ on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Decent%20Many%20Features371.lua", "https://scriptblox.com/script/Murder-Mystery-2-Decent-Many-Features-5895")
+                                
+    addscriptexist(142823291, "Kidachi", "Uploaded by D7ity on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Kidachi285.lua", "https://scriptblox.com/script/Murder-Mystery-2-Kidachi-Two-6616")
+                                
+    addscriptexist(142823291, "MM2 OP SCRIPT PLUS CANDY FARM", "Uploaded by EXIT on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MM2%20OP%20SCRIPT%20PLUS%20CANDY%20FARM248.lua", "https://scriptblox.com/script/Murder-Mystery-2-MM2-OP-SCRIPT-PLUS-CANDY-FARM-6548")
+                                

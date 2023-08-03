@@ -1,0 +1,2 @@
+
+addscript(8980446061, "Current Game","COLLECT ALL HAIR BAGS  FACE BAGS", "Uploaded by grimscommunity on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/COLLECT%20ALL%20HAIR%20BAGS%20%20FACE%20BAGS948.lua", "https://scriptblox.com/script/Ultaverse-COLLECT-ALL-HAIR-BAGS-AND-FACE-BAGS-6527")

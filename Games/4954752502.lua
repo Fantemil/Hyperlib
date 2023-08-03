@@ -1,0 +1,2 @@
+
+addscript(4954752502, "Current Game","OP Gui", "Uploaded by Piece on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20Gui840.lua", "https://scriptblox.com/script/Tower-of-Misery-OP-Gui-6201")

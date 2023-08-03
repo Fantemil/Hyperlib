@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/cjdjmj/simulatorage/main/README.md", true))()

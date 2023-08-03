@@ -1,0 +1,2 @@
+
+addscript(180037022, "Current Game","loser", "Uploaded by antoniodallypro on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/loser95.lua", "https://scriptblox.com/script/Fix-Update-1.1a-Sonic-Ultimate-RPG-loser-4422")

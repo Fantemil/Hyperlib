@@ -1,0 +1,2 @@
+
+addscript(5490351219, "Current Game","Clicker Madness  1 SCRIPT", "Uploaded by dexx on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Clicker%20Madness%20%201%20SCRIPT706.lua", "https://scriptblox.com/script/X100-CLICKSClicker-Madness!-Best-Script-5821")

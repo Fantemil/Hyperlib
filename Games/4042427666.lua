@@ -1,0 +1,6 @@
+
+addscript(4042427666, "Current Game","Reupload version of the infinite yen ", "Uploaded by RBLX_File on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Reupload%20version%20of%20the%20infinite%20yen%20405.lua", "https://scriptblox.com/script/NEW-BOSS!-Anime-Fighting-Simulator-Reupload-version-of-the-infinite-yen-****-5396")
+    addscriptexist(4042427666, "Money Autofarm", "Uploaded by zenya on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Money%20Autofarm769.lua", "https://scriptblox.com/script/NEW-BOSS!-Anime-Fighting-Simulator-Money-Autofarm-Anime-Fighting-4751")
+                                
+    addscriptexist(4042427666, "Anime Fighting Simulator 1M", "Uploaded by LEO004 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime%20Fighting%20Simulator%201M695.lua", "https://scriptblox.com/script/NEW-BOSS!-Anime-Fighting-Simulator-Anime-Fighting-Simulator-1M-4661")
+                                

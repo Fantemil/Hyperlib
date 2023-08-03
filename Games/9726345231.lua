@@ -1,0 +1,2 @@
+
+addscript(9726345231, "Current Game","GUI v2", "Uploaded by SUPERNOVA9 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/GUI%20v2796.lua", "https://scriptblox.com/script/Duolingo-Game-Hub-GUI-v2-3640")

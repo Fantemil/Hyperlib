@@ -1,0 +1,1 @@
+game.ReplicatedStorage.Admin:FireServer('user') --change user to ur username!

@@ -1,0 +1,2 @@
+
+addscript(2961297129, "Current Game","Aimbot ESP And More", "Uploaded by sunken on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Aimbot%20ESP%20And%20More496.lua", "https://scriptblox.com/script/Death-Zone-KNIFE-Aimbot-ESP-And-More-5267")

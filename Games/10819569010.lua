@@ -1,0 +1,2 @@
+
+addscript(10819569010, "Current Game","Fixed His Broken F A L L Sript", "Uploaded by tomergamertv on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Fixed%20His%20Broken%20F%20A%20L%20L%20Sript109.lua", "https://scriptblox.com/script/Fall-Script-6342")

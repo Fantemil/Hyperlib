@@ -4,3 +4,5 @@ addscript(10925589760, "Current Game","Merge Simulator script OPEN SOURCE Made B
                                 
     addscriptexist(10925589760, "simple stuff idk", "Uploaded by kalas on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/simple%20stuff%20idk244.lua", "https://scriptblox.com/script/RELEASE!-Merge-Simulator-simple-stuff-idk-6397")
                                 
+    addscriptexist(10925589760, "Gui", "Uploaded by Muimi on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Gui577.lua", "https://scriptblox.com/script/RELEASE!-Merge-Simulator-Gui-6400")
+                                

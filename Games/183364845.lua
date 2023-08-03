@@ -1,0 +1,2 @@
+
+addscript(183364845, "Current Game","OP GEMS FARM", "Uploaded by Rtxyy on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20GEMS%20FARM507.lua", "https://scriptblox.com/script/Speed-Run-4-OP-GEMS-FARM-5611")

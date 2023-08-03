@@ -1,0 +1,2 @@
+
+addscript(4588604953, "Current Game","FEMWARE SCRIPT FREE EDITION", "Uploaded by GREEN on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FEMWARE%20SCRIPT%20FREE%20EDITION72.lua", "https://scriptblox.com/script/Criminality-FEMWARE-SCRIPT-FREE-EDITION-5991")

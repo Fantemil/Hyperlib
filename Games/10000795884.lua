@@ -1,0 +1,2 @@
+
+addscript(10000795884, "Current Game","gpko", "Uploaded by rarepi5259 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/gpko354.lua", "https://scriptblox.com/script/Test-Scripts-gpko-3593")

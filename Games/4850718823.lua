@@ -1,0 +1,2 @@
+
+addscript(4850718823, "Current Game","free item", "Uploaded by ziroponto on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/free%20item26.lua", "https://scriptblox.com/script/Skate-Park-FREE-UGC!-free-item-4174")

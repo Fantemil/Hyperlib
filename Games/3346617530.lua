@@ -1,0 +1,2 @@
+
+addscript(3346617530, "Current Game","OP gui", "Uploaded by ziroponto on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20gui712.lua", "https://scriptblox.com/script/Freeze-Tag-Extreme-OP-gui-4503")

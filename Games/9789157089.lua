@@ -1,0 +1,2 @@
+
+addscript(9789157089, "Current Game","semi killaura bypass idk", "Uploaded by kalas on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/semi%20killaura%20bypass%20idk76.lua", "https://scriptblox.com/script/NEW!-Warrior-Legends-Simulator-semi-killaura-bypass-idk-6440")

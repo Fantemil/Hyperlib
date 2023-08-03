@@ -1,0 +1,2 @@
+
+addscript(7502726087, "Current Game","OP nongui", "Uploaded by Mauling on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20nongui383.lua", "https://scriptblox.com/script/Be-a-Hero-OP-uto-Frm-5895")

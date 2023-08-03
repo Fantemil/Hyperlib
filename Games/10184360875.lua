@@ -1,0 +1,2 @@
+
+addscript(10184360875, "Current Game","Inf money and autorebirth", "Uploaded by zenya on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Inf%20money%20and%20autorebirth231.lua", "https://scriptblox.com/script/UPDATEPetandFishing-Simulator-Inf-money-and-autorebirth-4740")

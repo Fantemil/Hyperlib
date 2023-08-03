@@ -6,3 +6,5 @@ addscript(9585537847, "Current Game","Auto Raid  Novice Hub", "Uploaded by Amph 
                                 
     addscriptexist(9585537847, "BEST GUI FREE", "Uploaded by ziroponto on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BEST%20GUI%20FREE175.lua", "https://scriptblox.com/script/SHADOVIS-RPG-BEST-GUI-FREE-5404")
                                 
+    addscriptexist(9585537847, "Auto Raid Update", "Uploaded by Novaz on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Raid%20Update626.lua", "https://scriptblox.com/script/SHADOVIS-RPG-Auto-Raid-Update-5955")
+                                

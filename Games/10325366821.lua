@@ -1,0 +1,4 @@
+
+addscript(10325366821, "Current Game","OOF Tycoon Auto Collect All Oofs", "Uploaded by batusd3009 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OOF%20Tycoon%20Auto%20Collect%20All%20Oofs540.lua", "https://scriptblox.com/script/OOF-Tycoon!-NEW-OOF-Tycoon-Auto-Collect-All-Oofs-5463")
+    addscriptexist(10325366821, "OOF ON TOP", "Uploaded by omggsaraa on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OOF%20ON%20TOP227.lua", "https://scriptblox.com/script/OOF-Tycoon!-NEW-OOF-ON-TOP-5142")
+                                

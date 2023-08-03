@@ -1,0 +1,2 @@
+
+addscript(7540727946, "Current Game","op script for  game", "Uploaded by tigak on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/op%20script%20for%20%20game920.lua", "https://scriptblox.com/script/Stage!-Hoops-Life-Basketball-op-script-for-******-gmae-5377")

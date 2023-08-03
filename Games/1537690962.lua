@@ -4,3 +4,5 @@ addscript(1537690962, "Current Game","Bss", "Uploaded by Nixks on scriptblox.com
                                 
     addscriptexist(1537690962, "Andromeda Hub", "Uploaded by skietaps on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Andromeda%20Hub459.lua", "https://scriptblox.com/script/Bee-Swarm-Simulator-Andromeda-Hub-4936")
                                 
+    addscriptexist(1537690962, "KOCMOC V3 premium crack", "Uploaded by dotgg on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/KOCMOC%20V3%20premium%20crack78.lua", "https://scriptblox.com/script/Bee-Swarm-Simulator-KOCMOC-V3-premium-crack-6373")
+                                

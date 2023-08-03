@@ -4,3 +4,5 @@ addscript(185655149, "Current Game","Vysor Hub", "Uploaded by zoltcn on scriptbl
                                 
     addscriptexist(185655149, "BloxBurg Pizza Farm", "Uploaded by KababMan on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BloxBurg%20Pizza%20Farm627.lua", "https://scriptblox.com/script/Welcome-to-Bloxburg-BloxBurg-Pizza-Farm-3295")
                                 
+    addscriptexist(185655149, "AutoFarm", "Uploaded by tmenqaptl on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AutoFarm895.lua", "https://scriptblox.com/script/Welcome-to-Bloxburg-AutoFarm-5860")
+                                

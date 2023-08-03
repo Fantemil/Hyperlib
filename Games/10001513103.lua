@@ -1,0 +1,2 @@
+
+addscript(10001513103, "Current Game","unlimited words", "Uploaded by VoidSkids on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/unlimited%20words856.lua", "https://scriptblox.com/script/Limited-Words-un-4151")

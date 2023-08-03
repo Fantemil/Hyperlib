@@ -1,0 +1,2 @@
+
+addscript(4483381587, "Current Game","Dummy Spawner", "Uploaded by AggressiveDude on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Dummy%20Spawner827.lua", "https://scriptblox.com/script/a-literal-baseplate.-Dummy-Spwner-4785")

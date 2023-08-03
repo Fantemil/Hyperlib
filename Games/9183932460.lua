@@ -1,0 +1,2 @@
+
+addscript(9183932460, "Current Game","nyula script untitled hood OP gui NOT MINE", "Uploaded by ilyyAlex on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/nyula%20script%20untitled%20hood%20OP%20gui%20NOT%20MINE54.lua", "https://scriptblox.com/script/Untitled-Hood-nyula-script-OP-gui-4290")

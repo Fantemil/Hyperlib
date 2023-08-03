@@ -1,0 +1,2 @@
+
+addscript(71315343, "Current Game","unlock all transformations", "Uploaded by Tomy0Fps on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/unlock%20all%20transformations644.lua", "https://scriptblox.com/script/Dragon-Ball-Rage-unlock-all-transformations-5802")

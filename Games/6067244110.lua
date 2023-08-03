@@ -1,0 +1,2 @@
+
+addscript(6067244110, "Current Game","revamped autofarm", "Uploaded by dotgg on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/revamped%20autofarm534.lua", "https://scriptblox.com/script/(%2B2-Maps)-Flood-Escape-2-Ultimate-revamped-autofarm-5767")

@@ -1,2 +1,4 @@
 
 addscript(1240123653, "Current Game","Silent Aim", "Uploaded by sirgavingraham on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Silent%20Aim130.lua", "https://scriptblox.com/script/Zombie-Attack-Silent-Aim-6408")
+    addscriptexist(1240123653, "A very powerful script with not alot of features", "Uploaded by bloxide on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/A%20very%20powerful%20script%20with%20not%20alot%20of%20features797.lua", "https://scriptblox.com/script/Zombie-Attack-A-very-powerful-script-with-not-alot-of-features-6367")
+                                

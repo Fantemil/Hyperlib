@@ -1,0 +1,2 @@
+
+addscript(8811446235, "Current Game","FORT BLOX OP SCRIPT", "Uploaded by Turi_ip_ip_ip on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FORT%20BLOX%20OP%20SCRIPT891.lua", "https://scriptblox.com/script/MAP-UPDATE!-Fortblox-FORT-BLOX-OP-SCRIPT-6130")

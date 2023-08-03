@@ -1,2 +1,4 @@
 
 addscript(6708206173, "Current Game","RMA Bypasser", "Uploaded by NoxuScripts on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RMA%20Bypasser428.lua", "https://scriptblox.com/script/Rate-My-Avatar-RMA-Bypasser-4149")
+    addscriptexist(6708206173, "RMA Chat Bot Premium Version v3201", "Uploaded by NoxuScripts on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RMA%20Chat%20Bot%20Premium%20Version%20v320175.lua", "https://scriptblox.com/script/Rate-My-Avatar-RMA-Bot-3307")
+                                

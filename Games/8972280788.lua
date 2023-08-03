@@ -1,0 +1,2 @@
+
+addscript(8972280788, "Current Game","get all", "Uploaded by 2w22 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/get%20all630.lua", "https://scriptblox.com/script/192-Find-The-Impostors!-get-all-5481")

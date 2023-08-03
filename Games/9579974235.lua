@@ -1,0 +1,2 @@
+
+addscript(9579974235, "Current Game","Collect all floppa morphs", "Uploaded by Bebedi on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Collect%20all%20floppa%20morphs895.lua", "https://scriptblox.com/script/Find-The-Floppa-Morphs-(273)-Collect-all-s-5262")

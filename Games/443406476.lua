@@ -1,2 +1,6 @@
 
 addscript(443406476, "Current Game","PROJECT LAZARAS OP DARKHUB SCRIPT", "Uploaded by urm0thersm1ne on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PROJECT%20LAZARAS%20OP%20DARKHUB%20SCRIPT573.lua", "https://scriptblox.com/script/Project-Lazarus:-ZOMBIES-M26-MASS!-PROJECT-LAZARAS-OP-DARKHUB-SCRIPT-3225")
+    addscriptexist(443406476, "OP PROJECT LAZARUS ZOMBIES GUI", "Uploaded by xlowyzz on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20PROJECT%20LAZARUS%20ZOMBIES%20GUI394.lua", "https://scriptblox.com/script/Project-Lazarus:-ZOMBIES-M26-MASS!-OP-PROJECT-LAZARUS-ZOMBIES-GUI-4172")
+                                
+    addscriptexist(443406476, "PROJECT LAZARUS SCRIPT", "Uploaded by YOU_CEF on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PROJECT%20LAZARUS%20SCRIPT584.lua", "https://scriptblox.com/script/Project-Lazarus:-ZOMBIES-M26-MASS!-PROJECT-LAZARUS-SCRIPT-3577")
+                                

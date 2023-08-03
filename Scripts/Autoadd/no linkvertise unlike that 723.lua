@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/loodyxmer/Scripts/main/FindTheButton"))()

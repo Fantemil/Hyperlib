@@ -1,0 +1,2 @@
+
+addscript(2512643572, "Current Game","Auto Snowflake Farm for BGS", "Uploaded by Provide on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Snowflake%20Farm%20for%20BGS542.lua", "https://scriptblox.com/script/MEGA-LUCK-Bubble-Gum-Simulator-AUTO-SNOWFLAKE-6467")

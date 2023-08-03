@@ -1,0 +1,2 @@
+
+addscript(7138009149, "Current Game","Inf money script for game", "Uploaded by ILIKETOEATMYOWNCHILD on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Inf%20money%20script%20for%20game462.lua", "https://scriptblox.com/script/PHIGHTING!-ALPHA-Inf-money-script-for-game-5945")

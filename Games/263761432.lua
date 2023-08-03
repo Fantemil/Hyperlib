@@ -1,0 +1,2 @@
+
+addscript(263761432, "Current Game","Open Source", "Uploaded by Pro85 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Open%20Source345.lua", "https://scriptblox.com/script/Horrific-Housing-Open-Source-3364")

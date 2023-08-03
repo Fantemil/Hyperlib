@@ -1,0 +1,2 @@
+
+addscript(9777600316, "Current Game","Semi patched", "Uploaded by 3quinox on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Semi%20patched856.lua", "https://scriptblox.com/script/Yoru-Rework-My-Freak-Ghoul-2-Inf-stats-dash-fixed-6498")

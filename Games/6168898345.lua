@@ -1,0 +1,2 @@
+
+addscript(6168898345, "Current Game","block people like proooo", "Uploaded by deck on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/block%20people%20like%20proooo949.lua", "https://scriptblox.com/script/Bulwark-block-people-like-proooo-5134")

@@ -1,2 +1,4 @@
 
 addscript(7655745946, "Current Game","mxkxkks dodo gui source", "Uploaded by Xangalix on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/mxkxkks%20dodo%20gui%20source942.lua", "https://scriptblox.com/script/Dunking-Simulator-mxkxkks-dodo-gui-source-6512")
+    addscriptexist(7655745946, "gamepass give every 1m 1 minute", "Uploaded by amcoolguy on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/gamepass%20give%20every%201m%201%20minute678.lua", "https://scriptblox.com/script/Dunking-Simulator-gamepass-give-every-30k-1-minute-5411")
+                                

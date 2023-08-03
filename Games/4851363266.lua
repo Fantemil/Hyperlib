@@ -1,0 +1,2 @@
+
+addscript(4851363266, "Current Game","Boxed Hub MyPark", "Uploaded by tyreseathisdeepestd on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Boxed%20Hub%20MyPark386.lua", "https://scriptblox.com/script/MyPark-Testing-Phase-2-Boxed-Hub-MyPark-5977")

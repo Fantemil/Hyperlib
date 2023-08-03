@@ -1,0 +1,2 @@
+
+addscript(13958693327, "Current Game","Infinite Stars n Spins and more", "Uploaded by KhSaeed90 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Infinite%20Stars%20n%20Spins%20and%20more714.lua", "https://scriptblox.com/script/Math-Wall-Simulator-Infinite-Stars-n-Spins-and-more-6598")
