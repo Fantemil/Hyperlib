@@ -192,7 +192,7 @@ function Kavo.CreateLib(kavName, themeList)
             v:Destroy()
         end
     end
-    local ScreenGui = Instance.new("ScreenGui")
+    getgenv().hyperlibgui = Instance.new("ScreenGui")
     local Main = Instance.new("Frame")
     local MainCorner = Instance.new("UICorner")
     local MainHeader = Instance.new("Frame")
@@ -222,13 +222,13 @@ function Kavo.CreateLib(kavName, themeList)
     blurFrame.Size = UDim2.new(0, 376, 0, 289)
     blurFrame.ZIndex = 999
 
-    ScreenGui.Parent = game.CoreGui
-    ScreenGui.Name = LibName
-    ScreenGui.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
-    ScreenGui.ResetOnSpawn = false
+    getgenv().hyperlibgui.Parent = game.CoreGui
+    getgenv().hyperlibgui.Name = LibName
+    getgenv().hyperlibgui.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
+    getgenv().hyperlibgui.ResetOnSpawn = false
 
     Main.Name = "Main"
-    Main.Parent = ScreenGui
+    Main.Parent = getgenv().hyperlibgui
     Main.BackgroundColor3 = themeList.Background
     Main.ClipsDescendants = true
     Main.Position = UDim2.new(0.336503863, 0, 0.275485456, 0)
@@ -288,7 +288,7 @@ function Kavo.CreateLib(kavName, themeList)
 			Position = UDim2.new(0, Main.AbsolutePosition.X + (Main.AbsoluteSize.X / 2), 0, Main.AbsolutePosition.Y + (Main.AbsoluteSize.Y / 2))
 		}):Play()
         wait(1)
-        ScreenGui:Destroy()
+        getgenv().hyperlibgui:Destroy()
     end)
 
     MainSide.Name = "MainSide"
