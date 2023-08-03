@@ -563,7 +563,7 @@ pcall(function()
     if getgenv().hyperlibreload == true then
         getgenv().hyperlibreload = false
         spawn(function()
-            wait(1)
+            wait(0.5)
             bigGreenItalicText("Successfully reloaded Hyperlib!")
             UpdateWindowTitle("Successful Reload!")
             wait(5)
