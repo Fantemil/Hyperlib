@@ -1,2 +1,0 @@
-
-addscriptuniversal("MonkeyWare 2 Supported games", "Uploaded by Monke0 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MonkeyWare%202%20Supported%20games84.lua", "https://scriptblox.com/script/Universal-Script-MonkeyWare-5643")

@@ -1,8 +1,14 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 31.07.2023 14:29:08"
-
+lastupdate = "GMT +1: 02.08.2023 16:20:59"
 --^^^dont touch ^^^
+getgenv().hubscripts = {
+    allscripts = {}
+}
+getgenv().uniscripts = {
+    allscripts = {}
+}
+version = "Hyperlib V.3.2"
 getgenv().statusdict = {}
 function getLocalPlayerName()
     local player = game:GetService("Players").LocalPlayer
@@ -85,214 +91,80 @@ end
 function addscript(Place,Gamename,title,author,scriptlink, origin)
     getgenv().gamecount = getgenv().gamecount + 1
     getgenv().scriptcount = getgenv().scriptcount + 1
-    local ongoingexecution  = false
-    name = title
+    
     if game.PlaceId == Place then
-        Window = getgenv().Window
-        getgenv().main = Window:NewTab(Gamename)
-        main = getgenv().main
-        getgenv().script = main:NewSection("---Scripts---")
-        getgenv().script:NewLabel(title)
-        getgenv().statusdict[title] = getgenv().script:NewLabel("Status: Not yet executed")
-        getgenv().script:NewButton("Execute", author, function()
-            function toexecute()
-                loadstring(game:HttpGet(scriptlink))()
-            end
-            bigBlueItalicText("Starting execution of your script...")
-            ongoingexecution = true
-            spawn(function()
-                while ongoingexecution == true do
-                    getgenv().statusdict[title]:UpdateLabel("Status: Executing")
-                    wait(0.1)
-                    getgenv().statusdict[title]:UpdateLabel("Status: Executing.")
-                    wait(0.1)
-                    getgenv().statusdict[title]:UpdateLabel("Status: Executing..")
-                    wait(0.1)
-                    getgenv().statusdict[title]:UpdateLabel("Status: Executing...")
-                    wait(0.1)
-                end
-            end)
-            local success, result = pcall(toexecute)
-            if success then
-                ongoingexecution = false
-                bigGreenItalicText(getLocalPlayerName().. ", your Script finished execution successfully!")
-                wait(0.5)
-                getgenv().statusdict[title]:UpdateLabel("Status: Executed successfully")
-                wait(5)
-                getgenv().statusdict[title]:UpdateLabel("Status: You have successfully executed this script before")
-            else
-                ongoingexecution = false
-                bigRedItalicText(getLocalPlayerName().. ", your Script failed to finish execution!")
-                wait(0.5)
-                getgenv().statusdict[title]:UpdateLabel("Status: Failed to execute")
-                wait(5)
-                getgenv().statusdict[title]:UpdateLabel("Status: You have failed to execute this script before")
-            end
-        end)
-        getgenv().script:NewButton("Copy Origin link of Script", origin, function()
-            setclipboard(origin)
-            bigGreenItalicText("Copied Origin link of Script to clipboard!")
-
-        end)
+        getgenv().gamescripts = {
+            place = Place,
+            gamename = Gamename,
+            allscripts = {}
+        }
+        local scriptdata = {
+            title = title,
+            author = author,
+            scriptlink = scriptlink,
+            origin = origin
+        }
+        table.insert(getgenv().gamescripts.allscripts, scriptdata)
+        
     end
 end
 
 function addscriptexist(Place,title,author,scriptlink, origin)
     getgenv().scriptcount = getgenv().scriptcount + 1
     name = title
-    local ongoingexecution  = false
+   
     if game.PlaceId == Place then
-        getgenv().script:NewLabel(title)
-        getgenv().statusdict[title] = getgenv().script:NewLabel("Status: Not yet executed")
-        getgenv().script:NewButton("Execute", author, function()
-            function toexecute()
-                loadstring(game:HttpGet(scriptlink))()
-            end
-            bigBlueItalicText("Starting execution of your script...")
-            ongoingexecution = true
-            spawn(function()
-                while ongoingexecution == true do
-                    getgenv().statusdict[title]:UpdateLabel("Status: Executing")
-                    wait(0.1)
-                    getgenv().statusdict[title]:UpdateLabel("Status: Executing.")
-                    wait(0.1)
-                    getgenv().statusdict[title]:UpdateLabel("Status: Executing..")
-                    wait(0.1)
-                    getgenv().statusdict[title]:UpdateLabel("Status: Executing...")
-                    wait(0.1)
-                end
-            end)
-
-            
-            local success, result = pcall(toexecute)
-            if success then
-                bigGreenItalicText(getLocalPlayerName().. ", your Script finished execution successfully!")
-                ongoingexecution = false
-                wait(0.5)
-                getgenv().statusdict[title]:UpdateLabel("Status: Executed successfully")
-                wait(5)
-                getgenv().statusdict[title]:UpdateLabel("Status: You have successfully executed this script before")
-            else
-                bigRedItalicText(getLocalPlayerName().. ", your Script failed to finish execution!")
-                ongoingexecution = false
-                wait(0.5)
-                getgenv().statusdict[title]:UpdateLabel("Status: Failed to execute")
-                wait(5)
-                getgenv().statusdict[title]:UpdateLabel("Status: You have failed to execute this script before")
-
-            end
-        end)
-        getgenv().script:NewButton("Copy Origin link of Script", origin, function()
-            setclipboard(origin)
-            bigGreenItalicText("Copied Origin link of Script to clipboard!")
-        end)
+        local scriptdata = {
+            title = title,
+            author = author,
+            scriptlink = scriptlink,
+            origin = origin
+        }
+        table.insert(getgenv().gamescripts.allscripts, scriptdata)
     end
         
 end
 function addscriptuniversal(title,author,scriptlink,origin)
-    local ongoingexecution  = false
     getgenv().scriptcount = getgenv().scriptcount + 1
-    name = title
-    getgenv().generalscriptssection:NewLabel(title)
-    getgenv().statusdict[title] = getgenv().generalscriptssection:NewLabel("Status: Not yet executed")
-    getgenv().generalscriptssection:NewButton("Execute", author, function()
-            function toexecute()
-                loadstring(game:HttpGet(scriptlink))()
-            end
-            ongoingexecution = true
-            bigBlueItalicText("Starting execution of your script...")
-            spawn(
-                function()
-                    while ongoingexecution == true do
-                        getgenv().statusdict[title]:UpdateLabel("Status: Executing")
-                        wait(0.1)
-                        getgenv().statusdict[title]:UpdateLabel("Status: Executing.")
-                        wait(0.1)
-                        getgenv().statusdict[title]:UpdateLabel("Status: Executing..")
-                        wait(0.1)
-                        getgenv().statusdict[title]:UpdateLabel("Status: Executing...")
-                        wait(0.1)
-                    end
-                end)
-            
-            local success, result = pcall(toexecute)
-            if success then
-                ongoingexecution = false
-
-                bigGreenItalicText(getLocalPlayerName().. ", your Script finished execution successfully!")
-                wait(0.5)
-                getgenv().statusdict[title]:UpdateLabel("Status: Executed successfully")
-
-                wait(5)
-                getgenv().statusdict[title]:UpdateLabel("Status: You have successfully executed this script before")
-            else
-                ongoingexecution = false
-                bigRedItalicText(getLocalPlayerName().. ", your Script failed to finish execution!")
-                wait(0.5)
-                getgenv().statusdict[title]:UpdateLabel("Status: Failed to execute")
-                wait(5)
-                getgenv().statusdict[title]:UpdateLabel("Status: You have failed to execute this script before")
-                
-            end
-        end)
-    getgenv().generalscriptssection:NewButton("Copy Origin link of Script", origin, function()
-        setclipboard(origin)
-        bigGreenItalicText("Copied Origin link of Script to clipboard!")
-    end)
+    local scriptdata = {
+        title = title,
+        author = author,
+        scriptlink = scriptlink,
+        origin = origin
+    }
+    table.insert(getgenv().uniscripts.allscripts, scriptdata)
 end
 function addhub(title,author,scriptlink,origin)
-    local ongoingexecution  = false
     getgenv().scriptcount = getgenv().scriptcount + 1
-    name = title
-    getgenv().gamehubsection:NewLabel(title)
-    getgenv().statusdict[title] = getgenv().gamehubsection:NewLabel("Status: Not yet executed")
-    getgenv().gamehubsection:NewButton("Execute", author, function()
-            function toexecute()
-                loadstring(game:HttpGet(scriptlink))()
-            end
-            bigBlueItalicText("Starting execution of your script...")
-            ongoingexecution = true
-            spawn(
-                function()
-                    while ongoingexecution == true do
-                        getgenv().statusdict[title]:UpdateLabel("Status: Executing")
-                        wait(0.1)
-                        getgenv().statusdict[title]:UpdateLabel("Status: Executing.")
-                        wait(0.1)
-                        getgenv().statusdict[title]:UpdateLabel("Status: Executing..")
-                        wait(0.1)
-                        getgenv().statusdict[title]:UpdateLabel("Status: Executing...")
-                        wait(0.1)
-                    end
-                end)
-            local success, result = pcall(toexecute)
-            if success then
-                ongoingexecution = false
-                bigGreenItalicText(getLocalPlayerName().. ", your Script finished execution successfully!")
-                wait(0.5)
-                getgenv().statusdict[title]:UpdateLabel("Status: Executed successfully")
-                wait(5)
-                getgenv().statusdict[title]:UpdateLabel("Status: You have successfully executed this script before")
-            else
-                ongoingexecution = false
-                bigRedItalicText(getLocalPlayerName().. ", your Script failed to finish execution!")
-                wait(0.5)
-                getgenv().statusdict[title]:UpdateLabel("Status: Failed to execute")
-                wait(5)
-                getgenv().statusdict[title]:UpdateLabel("Status: You have failed to execute this script before")
-
-            end
-        end)
-    getgenv().gamehubsection:NewButton("Copy Origin link of Script", origin, function()
-        setclipboard(origin)
-        bigGreenItalicText("Copied Origin link of Script to clipboard!")
-    end)
+    local scriptdata = {
+        title = title,
+        author = author,
+        scriptlink = scriptlink,
+        origin = origin
+    }
+    table.insert(getgenv().hubscripts.allscripts, scriptdata)
 end
 local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Library/kavo-ui.lua"))()
-getgenv().Window = Library.CreateLib("Hyperlib V3.1", "DarkTheme")
+getgenv().Window = Library.CreateLib(version, "DarkTheme")
 Window = getgenv().Window
 
 
+
+local Player = Window:NewTab("Player")
+local PlayerSection = Player:NewSection("Player")
+PlayerSection:NewButton("Rejoin", "Rejoins the game", function()
+    game:GetService("TeleportService"):Teleport(game.PlaceId, game.Players.LocalPlayer)
+end)
+PlayerSection:NewSlider("Walkspeed", "Changes the walkspeed", 250, 16, function(v)
+    game.Players.LocalPlayer.Character.Humanoid.WalkSpeed = v
+end)
+
+PlayerSection:NewSlider("Jumppower", "Changes the jumppower", 250, 50, function(v)
+    game.Players.LocalPlayer.Character.Humanoid.JumpPower = v
+end)
+PlayerSection:NewSlider("Gravity", "Changes the gravity", 250, 0, function(v)
+    game.Workspace.Gravity = v
+end)
 getgenv().loadedgeneral = false 
 getgenv().loadedhub = false
 
@@ -302,6 +174,61 @@ getgenv().generalscriptssection = generalscripts:NewSection("---General/Universa
 getgenv().generalload = getgenv().generalscriptssection:NewButton("Load General Scripts", "Loads all General Scripts", function()
     if getgenv().loadedgeneral == false then
         loadstring(game:HttpGet("https://raw.githubusercontent.com/Fantemil/Hyperlib/main/Games/universal.lua"))()
+        local function sortScripts()
+            table.sort(getgenv().uniscripts.allscripts, function(a, b)
+                return a.title < b.title
+            end)
+        end
+        sortScripts()
+        local ongoingexecution = false
+        for i, v in pairs(getgenv().uniscripts.allscripts) do
+            getgenv().generalscriptssection:NewLabel(v.title)
+            getgenv().statusdict[v.title] = getgenv().generalscriptssection:NewLabel("Status: Not yet executed")
+            getgenv().generalscriptssection:NewButton("Execute", v.author, function()
+                function toexecute()
+                    loadstring(game:HttpGet(v.scriptlink))()
+                end
+                bigBlueItalicText("Starting execution of your script...")
+                ongoingexecution = true
+                spawn(function()
+                    while ongoingexecution == true do
+                        getgenv().statusdict[v.title]:UpdateLabel("Status: Executing")
+                        wait(0.1)
+                        getgenv().statusdict[v.title]:UpdateLabel("Status: Executing.")
+                        wait(0.1)
+                        getgenv().statusdict[v.title]:UpdateLabel("Status: Executing..")
+                        wait(0.1)
+                        getgenv().statusdict[v.title]:UpdateLabel("Status: Executing...")
+                        wait(0.1)
+                    end
+                end)
+    
+                
+                local success, result = pcall(toexecute)
+                if success then
+                    bigGreenItalicText(getLocalPlayerName().. ", your Script finished execution successfully!")
+                    ongoingexecution = false
+                    wait(0.5)
+                    getgenv().statusdict[v.title]:UpdateLabel("Status: Executed successfully")
+                    wait(5)
+                    getgenv().statusdict[v.title]:UpdateLabel("Status: You have successfully executed this script before")
+                else
+                    bigRedItalicText(getLocalPlayerName().. ", your Script failed to finish execution!")
+                    ongoingexecution = false
+                    wait(0.5)
+                    getgenv().statusdict[v.title]:UpdateLabel("Status: Failed to execute")
+                    wait(5)
+                    getgenv().statusdict[v.title]:UpdateLabel("Status: You have failed to execute this script before")
+    
+                end
+            end)
+            getgenv().generalscriptssection:NewButton("Copy Origin link of Script", v.origin, function()
+                setclipboard(v.origin)
+                bigGreenItalicText("Copied Origin link of Script to clipboard!")
+            end)
+
+        end
+
         getgenv().loadedgeneral = true
         getgenv().generalload:UpdateButton("Finished loading!")
     else
@@ -319,6 +246,61 @@ getgenv().gamehubsection = gamehubs:NewSection("---Game Hubs---")
 getgenv().hubload= getgenv().gamehubsection:NewButton("Load Game Hubs", "Loads all Game Hubs", function()
     if getgenv().loadedhub == false then
         loadstring(game:HttpGet("https://raw.githubusercontent.com/Fantemil/Hyperlib/main/Games/hub.lua"))()
+        local function sortHubs()
+            table.sort(getgenv().hubscripts.allscripts, function(a, b)
+                return a.title < b.title
+            end)
+        end
+        sortHubs()
+        local ongoingexecution = false
+        for i, v in pairs(getgenv().hubscripts.allscripts) do
+            getgenv().gamehubsection:NewLabel(v.title)
+            getgenv().statusdict[v.title] = getgenv().gamehubsection:NewLabel("Status: Not yet executed")
+            getgenv().gamehubsection:NewButton("Execute", v.author, function()
+                function toexecute()
+                    loadstring(game:HttpGet(v.scriptlink))()
+                end
+                bigBlueItalicText("Starting execution of your script...")
+                ongoingexecution = true
+                spawn(function()
+                    while ongoingexecution == true do
+                        getgenv().statusdict[v.title]:UpdateLabel("Status: Executing")
+                        wait(0.1)
+                        getgenv().statusdict[v.title]:UpdateLabel("Status: Executing.")
+                        wait(0.1)
+                        getgenv().statusdict[v.title]:UpdateLabel("Status: Executing..")
+                        wait(0.1)
+                        getgenv().statusdict[v.title]:UpdateLabel("Status: Executing...")
+                        wait(0.1)
+                    end
+                end)
+    
+                
+                local success, result = pcall(toexecute)
+                if success then
+                    bigGreenItalicText(getLocalPlayerName().. ", your Script finished execution successfully!")
+                    ongoingexecution = false
+                    wait(0.5)
+                    getgenv().statusdict[v.title]:UpdateLabel("Status: Executed successfully")
+                    wait(5)
+                    getgenv().statusdict[v.title]:UpdateLabel("Status: You have successfully executed this script before")
+                else
+                    bigRedItalicText(getLocalPlayerName().. ", your Script failed to finish execution!")
+                    ongoingexecution = false
+                    wait(0.5)
+                    getgenv().statusdict[v.title]:UpdateLabel("Status: Failed to execute")
+                    wait(5)
+                    getgenv().statusdict[v.title]:UpdateLabel("Status: You have failed to execute this script before")
+    
+                end
+            end)
+            getgenv().gamehubsection:NewButton("Copy Origin link of Script", v.origin, function()
+                setclipboard(v.origin)
+                bigGreenItalicText("Copied Origin link of Script to clipboard!")
+            end)
+        end
+
+
         getgenv().loadedhub = true
         getgenv().hubload:UpdateButton("Finished loading!")
     else
@@ -329,20 +311,6 @@ getgenv().hubload= getgenv().gamehubsection:NewButton("Load Game Hubs", "Loads a
             getgenv().hubload:UpdateButton("Finished loading!")
         end)
     end
-end)
-
-local Player = Window:NewTab("Player")
-local PlayerSection = Player:NewSection("Player")
-
-PlayerSection:NewSlider("Walkspeed", "Changes the walkspeed", 250, 16, function(v)
-    game.Players.LocalPlayer.Character.Humanoid.WalkSpeed = v
-end)
-
-PlayerSection:NewSlider("Jumppower", "Changes the jumppower", 250, 50, function(v)
-    game.Players.LocalPlayer.Character.Humanoid.JumpPower = v
-end)
-PlayerSection:NewSlider("Gravity", "Changes the gravity", 250, 0, function(v)
-    game.Workspace.Gravity = v
 end)
 
 Statstab = Window:NewTab("Statistics")
@@ -451,7 +419,66 @@ local success, result = pcall(function()
 
 end)
 if success then
-    print("Successfully loaded game specific scripts")
+    -- sort the scripts in getgenv().gamescripts.allscripts alphabetically from a to z
+    local function sortScripts()
+        table.sort(getgenv().gamescripts.allscripts, function(a, b)
+            return a.title < b.title
+        end)
+    end
+    local ongoingexecution = false
+    sortScripts()
+    -- make a new tab
+    getgenv().gamescripttab = Window:NewTab(getgenv().gamescripts.gamename)
+    -- make a new section in the tab
+    getgenv().gamescriptsection = gamescripttab:NewSection("---" .. "Scripts" .. "---")
+    -- for every script in getgenv().gamescripts.allscripts,
+    for i, v in pairs(getgenv().gamescripts.allscripts) do
+        getgenv().gamescriptsection:NewLabel(v.title)
+        getgenv().statusdict[v.title] = getgenv().gamescriptsection:NewLabel("Status: Not yet executed")
+        getgenv().gamescriptsection:NewButton("Execute", v.author, function()
+            function toexecute()
+                loadstring(game:HttpGet(v.scriptlink))()
+            end
+            bigBlueItalicText("Starting execution of your script...")
+            ongoingexecution = true
+            spawn(function()
+                while ongoingexecution == true do
+                    getgenv().statusdict[v.title]:UpdateLabel("Status: Executing")
+                    wait(0.1)
+                    getgenv().statusdict[v.title]:UpdateLabel("Status: Executing.")
+                    wait(0.1)
+                    getgenv().statusdict[v.title]:UpdateLabel("Status: Executing..")
+                    wait(0.1)
+                    getgenv().statusdict[v.title]:UpdateLabel("Status: Executing...")
+                    wait(0.1)
+                end
+            end)
+
+            
+            local success, result = pcall(toexecute)
+            if success then
+                bigGreenItalicText(getLocalPlayerName().. ", your Script finished execution successfully!")
+                ongoingexecution = false
+                wait(0.5)
+                getgenv().statusdict[v.title]:UpdateLabel("Status: Executed successfully")
+                wait(5)
+                getgenv().statusdict[v.title]:UpdateLabel("Status: You have successfully executed this script before")
+            else
+                bigRedItalicText(getLocalPlayerName().. ", your Script failed to finish execution!")
+                ongoingexecution = false
+                wait(0.5)
+                getgenv().statusdict[v.title]:UpdateLabel("Status: Failed to execute")
+                wait(5)
+                getgenv().statusdict[v.title]:UpdateLabel("Status: You have failed to execute this script before")
+
+            end
+        end)
+        getgenv().gamescriptsection:NewButton("Copy Origin link of Script", v.origin, function()
+            setclipboard(v.origin)
+            bigGreenItalicText("Copied Origin link of Script to clipboard!")
+        end)
+    end
 else
     print("Failed to load game specific scripts")
 end
+queue_on_teleport('loadstring(game:HttpGet("https://raw.githubusercontent.com/Fantemil/Trenglehub/main/trenglehub.lua"))()')
