@@ -58,3 +58,5 @@ addscript(2753915549, "Current Game","New script for u", "Uploaded by cheyenneth
                                 
     addscriptexist(2753915549, "HULK U HUB BF SCRIPT", "Uploaded by GekkoM0ria on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/HULK%20U%20HUB%20BF%20SCRIPT862.lua", "https://scriptblox.com/script/UPDATE-16-Blox-Fruits-HULK-U-HUB-BF-SCRIPT-5913")
                                 
+    addscriptexist(2753915549, "Neva Hub", "Uploaded by J_Paste on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Neva%20Hub787.lua", "https://scriptblox.com/script/Blox-Fruits-Neva-Hub-6576")
+                                

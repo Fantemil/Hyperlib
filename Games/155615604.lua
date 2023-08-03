@@ -8,3 +8,5 @@ addscript(155615604, "Current Game","lightux script hub", "Uploaded by ecarevski
                                 
     addscriptexist(155615604, "Inf Stamina NO BUGS", "Uploaded by Tomato on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Inf%20Stamina%20NO%20BUGS613.lua", "https://scriptblox.com/script/Prison-Life-(Cars-fixed!)-Inf-Stamina-NO-BUGS-4782")
                                 
+    addscriptexist(155615604, "Foamys PL GUI", "Uploaded by Foamy on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Foamys%20PL%20GUI983.lua", "https://scriptblox.com/script/Prison-Life-(Cars-fixed!)-Foamys-GUI-6501")
+                                

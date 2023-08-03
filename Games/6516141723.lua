@@ -16,3 +16,5 @@ addscript(6516141723, "Current Game","Shears on everything", "Uploaded by 006Ker
                                 
     addscriptexist(6516141723, "Script 2022 Better Reupload", "Uploaded by AK47 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Script%202022%20Better%20Reupload354.lua", "https://scriptblox.com/script/DOORS-Doors-Script-2022-6141")
                                 
+    addscriptexist(6516141723, "Door by MS Hub", "Uploaded by nguyendr2008 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Door%20by%20MS%20Hub462.lua", "https://scriptblox.com/script/DOORS-by-MS-Hub-6614")
+                                

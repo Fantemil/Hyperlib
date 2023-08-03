@@ -18,3 +18,5 @@ addscript(142823291, "Current Game","New script with many new features", "Upload
                                 
     addscriptexist(142823291, "mm2 gui", "Uploaded by skietaps on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/mm2%20gui784.lua", "https://scriptblox.com/script/Murder-Mystery-2-mm2-gui-5150")
                                 
+    addscriptexist(142823291, "Highlight Hub new best script", "Uploaded by maxhpayne on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Highlight%20Hub%20new%20best%20script608.lua", "https://scriptblox.com/script/Murder-Mystery-2-Highlight-Hub-new-best-script-6618")
+                                

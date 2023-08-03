@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +1: 02.08.2023 16:20:59"
+lastupdate = "GMT +2: 03.08.2023 14:58:42"
 --^^^dont touch ^^^
 getgenv().hubscripts = {
     allscripts = {}
@@ -22,7 +22,45 @@ function bigRedText(text)
         FontSize = Enum.FontSize.Size48,
     })
 end
+local function formatTimeForUser(lastupdate)
+    local function parseDateTime(dateTimeStr)
+        local gmtOffset, dateStr, timeStr = string.match(dateTimeStr, "GMT ([+-]%d+): (%d+%.%d+%.%d+) (%d+:%d+:%d+)")
+        local day, month, year = string.match(dateStr, "(%d+)%.(%d+)%.(%d+)")
+        local hour, minute, second = string.match(timeStr, "(%d+):(%d+):(%d+)")
+        return os.time({
+            year = tonumber(year),
+            month = tonumber(month),
+            day = tonumber(day),
+            hour = tonumber(hour),
+            min = tonumber(minute),
+            sec = tonumber(second)
+        }) - tonumber(gmtOffset) * 3600 -- Adjust for GMT offset in seconds
+    end
 
+    local function getTimezoneOffset()
+        -- Get the current time in UTC
+        local utcTime = os.time(os.date("!*t"))
+
+        -- Get the current local time
+        local localTime = os.time()
+
+        -- Calculate the difference between local time and UTC time in seconds
+        local offsetInSeconds = os.difftime(localTime, utcTime)
+
+        -- Convert the offset to hours
+        local offsetInHours = offsetInSeconds / 3600
+
+        return offsetInHours
+    end
+
+    local userTimezoneOffset = getTimezoneOffset()
+    local parsedTime = parseDateTime(lastupdate)
+    local userTimeInSeconds = parsedTime + userTimezoneOffset * 3600
+
+    -- Format the time with the full day name
+    local formattedTime = os.date("%A, %B %d %H:%M:%S %Y", userTimeInSeconds)
+    return formattedTime
+end
 function bigGreenItalicText(text)
     game:GetService("StarterGui"):SetCore("ChatMakeSystemMessage", {
         Text = text,
@@ -315,7 +353,7 @@ end)
 
 Statstab = Window:NewTab("Statistics")
 local StatusSection = Statstab:NewSection("---Last Update---")
-StatusSection:NewLabel(lastupdate)
+StatusSection:NewLabel(formatTimeForUser(lastupdate))
 local Keybinds = Window:NewTab("Keybinds")
 local KeybindsSection = Keybinds:NewSection("---Keybinds---")
 KeybindsSection:NewKeybind("Toggle UI", "Press T To toggle the Hyperlib UI (Click to change Keybind)", Enum.KeyCode.T, function()

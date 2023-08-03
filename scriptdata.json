@@ -7824,5 +7824,101 @@
         "hub": false,
         "gameid": "8731279652",
         "game": true
+    },
+    "Login hub alpha": {
+        "origin": "https://scriptblox.com/script/King-of-The-Hill-Login-hub-alpha-6613",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Login%20hub%20alpha595.lua",
+        "author": "Uploaded by Login on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "3495989665",
+        "game": true
+    },
+    "Stage Slider and more": {
+        "origin": "https://scriptblox.com/script/Speed-Run-12-Stage-Slider-and-more-6606",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Stage%20Slider%20and%20more720.lua",
+        "author": "Uploaded by KhSaeed90 on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "230503554",
+        "game": true
+    },
+    "Dark Dex that works with Fluxus with Click Part": {
+        "origin": "https://scriptblox.com/script/Universal-Script-Dark-Dex-that-works-with-Fluxus-with-Click-Part-6596",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Dark%20Dex%20that%20works%20with%20Fluxus%20with%20Click%20Part103.lua",
+        "author": "Uploaded by ratsssstts on scriptblox.com",
+        "universal": true,
+        "hub": false,
+        "game": false
+    },
+    "Elemental Hub": {
+        "origin": "https://scriptblox.com/script/Universal-Script-Elemental-Hub-6603",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Elemental%20Hub152.lua",
+        "author": "Uploaded by lerat9967 on scriptblox.com",
+        "universal": false,
+        "hub": true,
+        "game": false
+    },
+    "Highlight Hub new best script": {
+        "origin": "https://scriptblox.com/script/Murder-Mystery-2-Highlight-Hub-new-best-script-6618",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Highlight%20Hub%20new%20best%20script608.lua",
+        "author": "Uploaded by maxhpayne on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "142823291",
+        "game": true
+    },
+    "Linui The first 3D Roblox UI Library to release": {
+        "origin": "https://scriptblox.com/script/Universal-Script-Linui-The-first-3D-Roblox-UI-Library-to-release-6580",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Linui%20The%20first%203D%20Roblox%20UI%20Library%20to%20release744.lua",
+        "author": "Uploaded by ratsssstts on scriptblox.com",
+        "universal": true,
+        "hub": false,
+        "game": false
+    },
+    "Neva Hub": {
+        "origin": "https://scriptblox.com/script/Blox-Fruits-Neva-Hub-6576",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Neva%20Hub787.lua",
+        "author": "Uploaded by J_Paste on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "2753915549",
+        "game": true
+    },
+    "Door by MS Hub": {
+        "origin": "https://scriptblox.com/script/DOORS-by-MS-Hub-6614",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Door%20by%20MS%20Hub462.lua",
+        "author": "Uploaded by nguyendr2008 on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "6516141723",
+        "game": true
+    },
+    "Dignus Esp": {
+        "origin": "https://scriptblox.com/script/dingus-Dignus-Esp-6556",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Dignus%20Esp220.lua",
+        "author": "Uploaded by Kargoligach on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "13924946576",
+        "game": true
+    },
+    "Jailbreak Map": {
+        "origin": "https://scriptblox.com/script/Redwood-Prison-Jailbreak-Map-6581",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Jailbreak%20Map254.lua",
+        "author": "Uploaded by theowner on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "402122991",
+        "game": true
+    },
+    "Foamys PL GUI": {
+        "origin": "https://scriptblox.com/script/Prison-Life-(Cars-fixed!)-Foamys-GUI-6501",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Foamys%20PL%20GUI983.lua",
+        "author": "Uploaded by Foamy on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "155615604",
+        "game": true
     }
 }

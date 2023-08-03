@@ -1,0 +1,2 @@
+
+addscript(230503554, "Current Game","Stage Slider and more", "Uploaded by KhSaeed90 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Stage%20Slider%20and%20more720.lua", "https://scriptblox.com/script/Speed-Run-12-Stage-Slider-and-more-6606")

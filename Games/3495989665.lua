@@ -1,0 +1,2 @@
+
+addscript(3495989665, "Current Game","Login hub alpha", "Uploaded by Login on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Login%20hub%20alpha595.lua", "https://scriptblox.com/script/King-of-The-Hill-Login-hub-alpha-6613")
