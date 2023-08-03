@@ -8,7 +8,7 @@ getgenv().hubscripts = {
 getgenv().uniscripts = {
     allscripts = {}
 }
-version = "Hyperlib V.3.2"
+version = "Hyperlib V.3.3"
 getgenv().statusdict = {}
 
 function getLocalPlayerName()
@@ -563,11 +563,9 @@ pcall(function()
     if getgenv().hyperlibreload == true then
         getgenv().hyperlibreload = false
         spawn(function()
-            UpdateWindowTitle(version .. " was successfully reloaded!")
-            wait(0.2)
-            UpdateWindowTitle( version .. " was successfully reloaded!!")
-            wait(0.2)
-            UpdateWindowTitle(version .. " was successfully reloaded!!!")
+            wait(1)
+            bigGreenItalicText("Successfully reloaded Hyperlib!")
+            UpdateWindowTitle("Succesful reload!")
             wait(3)
             UpdateWindowTitle(version)
         end
