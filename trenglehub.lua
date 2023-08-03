@@ -557,7 +557,8 @@ if success then
     if getgenv().hyperlibreload == false then
         spawn(function()
             UpdateWindowTitle("Found Scripts for this game!")
-
+            wait(3)
+            UpdateWindowTitle(version)
         end)
 
     end
@@ -567,7 +568,8 @@ else
     if getgenv().hyperlibreload == false then
         spawn(function()
             UpdateWindowTitle("No Scripts found for this game!")
-
+            wait(3)
+            UpdateWindowTitle(version)
         end)
 
     end
