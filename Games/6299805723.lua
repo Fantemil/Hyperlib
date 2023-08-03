@@ -6,3 +6,5 @@ addscript(6299805723, "Current Game","SCRIPT AFS MOBILE E PC", "Uploaded by OTIM
                                 
     addscriptexist(6299805723, "BADWARE AFS Freeze Data Reupload", "Uploaded by collorem on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BADWARE%20AFS%20Freeze%20Data%20Reupload154.lua", "https://scriptblox.com/script/INFINITY-TOWER%2Bx5-Drops-Anime-Fighters-Simulator-BADWARE-AFS-Freeze-Data-Reupload-6567")
                                 
+addscriptexist(6299805723, "Anime Fighters Simulator Auto Farm Auto Meteor Auto Skip Room", "Uploaded by elektroshirka on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime%20Fighters%20Simulator%20Auto%20Farm%20Auto%20Meteor%20Auto%20Skip%20Room305.lua", "https://rscripts.net/script/anime-fighters-simulator-auto-farm-auto-meteor-auto-skip-room-4155")
+                                

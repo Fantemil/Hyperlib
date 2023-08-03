@@ -12,3 +12,11 @@ addscript(3101667897, "Current Game","op auto farm for legnds", "Uploaded by mos
                                 
     addscriptexist(3101667897, "Speed AutoFarm Gui", "Uploaded by timmy282 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Speed%20AutoFarm%20Gui953.lua", "https://scriptblox.com/script/Legends-Of-Speed-Autarm-4658")
                                 
+addscriptexist(3101667897, "Legends Of Speed   Autofarm", "Uploaded by kareem on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Legends%20Of%20Speed%20%20%20Autofarm599.lua", "https://rscripts.net/script/legends-of-speed-autofarm-3161")
+                                
+addscriptexist(3101667897, "NEW INSANE LEGENDS OF SPEED SCRIPT AUTO FARM TELEPORTS FREE OP UNLOCKS AND MORE", "Uploaded by arlists on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NEW%20INSANE%20LEGENDS%20OF%20SPEED%20SCRIPT%20AUTO%20FARM%20TELEPORTS%20FREE%20OP%20UNLOCKS%20AND%20MORE266.lua", "https://rscripts.net/script/new-insane-legends-of-speed-script-auto-farm-teleports-free-op-unlocks-and-more-4097")
+                                
+addscriptexist(3101667897, "Legends Of Speed OP Auto Farm", "Uploaded by AlonE on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Legends%20Of%20Speed%20OP%20Auto%20Farm61.lua", "https://rscripts.net/script/legends-of-speed-op-auto-farm-3792")
+                                
+addscriptexist(3101667897, "Legends Of Speed   Autofarm Open Source", "Uploaded by kareem on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Legends%20Of%20Speed%20%20%20Autofarm%20Open%20Source178.lua", "https://rscripts.net/script/legends-of-speed-autofarm-open-source-3160")
+                                

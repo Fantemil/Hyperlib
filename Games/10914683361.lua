@@ -1,0 +1,2 @@
+
+addscript(10914683361, "Current Game","Instant Order  Instant Serve Busy Business", "Uploaded by kyoichi on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Instant%20Order%20%20Instant%20Serve%20Busy%20Business698.lua", "https://rscripts.net/script/instant-order-instant-serve-busy-business-3055")

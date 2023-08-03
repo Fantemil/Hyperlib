@@ -1,0 +1,2 @@
+
+addscript(13674876288, "Current Game","Teamwork Morphs Teleport Menu", "Uploaded by HannaeAltae on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Teamwork%20Morphs%20Teleport%20Menu205.lua", "https://rscripts.net/script/teamwork-morphs-teleport-menu-4165")

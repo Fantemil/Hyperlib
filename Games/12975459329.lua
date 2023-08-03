@@ -1,0 +1,2 @@
+
+addscript(12975459329, "Current Game","Wall Punching Simulator", "Uploaded by HannaeAltae on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Wall%20Punching%20Simulator464.lua", "https://rscripts.net/script/wall-punching-simulator-3788")

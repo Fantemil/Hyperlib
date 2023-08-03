@@ -1,0 +1,2 @@
+-- game: https://www.roblox.com/games/5293755937/Speed-Run-Simulator
+loadstring(game:HttpGet('https://raw.githubusercontent.com/RalkeyOfficial/my-rblx-scripts/main/Speed%20Run%20Simulator/Speed%20Run%20Simulator.lua'))()

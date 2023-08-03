@@ -1,2 +1,4 @@
 
 addscript(2746687316, "Current Game","esp and the aimbot", "Uploaded by garfieldcatto on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/esp%20and%20the%20aimbot104.lua", "https://scriptblox.com/script/Games-Unite-Testing-Place-esp-and-the-aimbot-4257")
+addscriptexist(2746687316, "Fart Hub Games Unite Testing Place", "Uploaded by notIvan on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Fart%20Hub%20Games%20Unite%20Testing%20Place285.lua", "https://rscripts.net/script/fart-hub-games-unite-testing-place-3842")
+                                

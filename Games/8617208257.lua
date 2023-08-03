@@ -2,3 +2,11 @@
 addscript(8617208257, "Current Game","Banning Simulator X Time Trials Script  Insurgent Hub Update", "Uploaded by 21xdecay on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Banning%20Simulator%20X%20Time%20Trials%20Script%20%20Insurgent%20Hub%20Update671.lua", "https://rscripts.net/script/banning-simulator-x-time-trials-script-insurgent-hub-update-4141")
 addscriptexist(8617208257, "NEW INSANE PRIVATE SERVER AUTO FARM  Banning Simulator X", "Uploaded by 21xdecay on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NEW%20INSANE%20PRIVATE%20SERVER%20AUTO%20FARM%20%20Banning%20Simulator%20X810.lua", "https://rscripts.net/script/new-insane-private-server-auto-farm-banning-simulator-x-4062")
                                 
+addscriptexist(8617208257, "Insurgent Hub V9 Update", "Uploaded by 21xdecay on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Insurgent%20Hub%20V9%20Update551.lua", "https://rscripts.net/script/insurgent-hub-v9-update-4069")
+                                
+addscriptexist(8617208257, "Insurgent Hub V10 Update  Crazy Auto Hatch And Farm", "Uploaded by 21xdecay on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Insurgent%20Hub%20V10%20Update%20%20Crazy%20Auto%20Hatch%20And%20Farm781.lua", "https://rscripts.net/script/insurgent-hub-v10-update-crazy-auto-hatch-and-farm-4089")
+                                
+addscriptexist(8617208257, "2023 Best Banning Simulator X Script", "Uploaded by 21xdecay on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/2023%20Best%20Banning%20Simulator%20X%20Script536.lua", "https://rscripts.net/script/2023-best-banning-simulator-x-script-4058")
+                                
+addscriptexist(8617208257, "Banning Simulator X Script  RaCc0oN Hub", "Uploaded by racc0on on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Banning%20Simulator%20X%20Script%20%20RaCc0oN%20Hub783.lua", "https://rscripts.net/script/banning-simulator-x-script-racc0on-hub-4047")
+                                

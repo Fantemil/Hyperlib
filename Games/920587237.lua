@@ -14,3 +14,7 @@ addscript(920587237, "Current Game","Autofarm for adopt me", "Uploaded by kayden
                                 
     addscriptexist(920587237, "DiamondHub", "Uploaded by obywatele37 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DiamondHub984.lua", "https://scriptblox.com/script/Adopt-Me!-DiamondHub-3782")
                                 
+addscriptexist(920587237, "Adopt Me PetFarm AutoFarmBaby Auto Heal Other And More Good Script For Auto Farming", "Uploaded by antipipka on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Adopt%20Me%20PetFarm%20AutoFarmBaby%20Auto%20Heal%20Other%20And%20More%20Good%20Script%20For%20Auto%20Farming156.lua", "https://rscripts.net/script/adopt-me-petfarm-autofarmbaby-auto-heal-other-and-more-good-script-for-auto-farming-4194")
+                                
+addscriptexist(920587237, "Adopt Me Autofarm Baby Mode", "Uploaded by ImperialExploits on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Adopt%20Me%20Autofarm%20Baby%20Mode833.lua", "https://rscripts.net/script/adopt-me-autofarm-baby-mode-3492")
+                                

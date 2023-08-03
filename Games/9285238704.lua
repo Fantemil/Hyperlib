@@ -18,3 +18,5 @@ addscript(9285238704, "Current Game","Androminome Hub updated", "Uploaded by boo
                                 
     addscriptexist(9285238704, "Auto Click and Auto Win", "Uploaded by Bebedi on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Click%20and%20Auto%20Win597.lua", "https://scriptblox.com/script/Race-Clicker-Auto-Click-and-Auto-Win-5265")
                                 
+addscriptexist(9285238704, "Race Clicker Auto Farm", "Uploaded by AlonE on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Race%20Clicker%20Auto%20Farm711.lua", "https://rscripts.net/script/race-clicker-auto-farm-4066")
+                                

@@ -1,0 +1,2 @@
+
+addscript(11330149751, "Current Game","Best Making Scam Calls To Save Your Best Friend Tycoon Script", "Uploaded by capi on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Best%20Making%20Scam%20Calls%20To%20Save%20Your%20Best%20Friend%20Tycoon%20Script347.lua", "https://rscripts.net/script/best-making-scam-calls-to-save-your-best-friend-tycoon-script-3031")

@@ -1,0 +1,2 @@
+
+addscript(11943859610, "Current Game","Make Youtube Videos To Become Rich And Famous", "Uploaded by RIP on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Make%20Youtube%20Videos%20To%20Become%20Rich%20And%20Famous906.lua", "https://rscripts.net/script/make-youtube-videos-to-become-rich-and-famous-3767")

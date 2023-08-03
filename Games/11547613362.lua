@@ -1,0 +1,4 @@
+
+addscript(11547613362, "Current Game","MOUNTS  Anime Fly Race", "Uploaded by IchiGotKrsak on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MOUNTS%20%20Anime%20Fly%20Race817.lua", "https://rscripts.net/script/mounts-anime-fly-race-3169")
+addscriptexist(11547613362, "King Hub  Anime Fly Race Script", "Uploaded by K1nGz on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/King%20Hub%20%20Anime%20Fly%20Race%20Script86.lua", "https://rscripts.net/script/king-hub-anime-fly-race-script-3251")
+                                

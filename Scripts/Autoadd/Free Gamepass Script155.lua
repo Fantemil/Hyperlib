@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/hrvsea/Kittens/main/School%20Simulator"))()

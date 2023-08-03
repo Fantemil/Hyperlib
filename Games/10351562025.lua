@@ -1,0 +1,2 @@
+
+addscript(10351562025, "Current Game","Tropical Royale SCRIPT", "Uploaded by Rtxyy on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tropical%20Royale%20SCRIPT954.lua", "https://rscripts.net/script/tropical-royale-script-3779")

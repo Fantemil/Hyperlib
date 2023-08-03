@@ -12,3 +12,9 @@ addscript(185655149, "Current Game","Scripts Collection", "Uploaded by GoldenChe
                                 
     addscriptexist(185655149, "bedra45 GUI", "Uploaded by V3rmScriptsUploader on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/bedra45%20GUI438.lua", "https://scriptblox.com/script/Welcome-to-Bloxburg-bedra45-GUI-5075")
                                 
+addscriptexist(185655149, "Illusion Bloxburg Autobuild", "Uploaded by Reha on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Illusion%20Bloxburg%20Autobuild977.lua", "https://rscripts.net/script/illusion-bloxburg-autobuild-3725")
+                                
+addscriptexist(185655149, "ILLUSION BLOXBURG PIZZA DELIVERY AUTOFARM", "Uploaded by Reha on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ILLUSION%20BLOXBURG%20PIZZA%20DELIVERY%20AUTOFARM804.lua", "https://rscripts.net/script/illusion-bloxburg-pizza-delivery-autofarm-3209")
+                                
+addscriptexist(185655149, "Pluto Welcome To Bloxburg", "Uploaded by notIvan on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pluto%20Welcome%20To%20Bloxburg920.lua", "https://rscripts.net/script/pluto-welcome-to-bloxburg-3999")
+                                

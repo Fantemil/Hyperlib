@@ -1,0 +1,2 @@
+
+addscript(11319403460, "Current Game","Coal Miner Tycoon 2  Wheat Hub", "Uploaded by MaGiXx on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Coal%20Miner%20Tycoon%202%20%20Wheat%20Hub341.lua", "https://rscripts.net/script/coal-miner-tycoon-2-wheat-hub-3843")

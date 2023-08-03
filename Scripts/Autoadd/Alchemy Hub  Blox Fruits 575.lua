@@ -1,0 +1,1 @@
+-- Go to < https://link-center.net/381938/alchemy-hub-script > to get script

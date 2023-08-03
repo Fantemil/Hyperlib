@@ -28,3 +28,9 @@ addscript(1962086868, "Current Game","script auto win", "Uploaded by Human123 on
                                 
     addscriptexist(1962086868, "Toh script", "Uploaded by dunkhaun123 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Toh%20script323.lua", "https://scriptblox.com/script/Tower-of-Hell-Toh-script-3531")
                                 
+addscriptexist(1962086868, "Most Op Script For Tower Of Hell", "Uploaded by M0RKUTE on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Most%20Op%20Script%20For%20Tower%20Of%20Hell147.lua", "https://rscripts.net/script/most-op-script-for-tower-of-hell-3949")
+                                
+addscriptexist(1962086868, "Tower Of Hell AutoWin Get All Items GodMode", "Uploaded by weiny on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tower%20Of%20Hell%20AutoWin%20Get%20All%20Items%20GodMode479.lua", "https://rscripts.net/script/tower-of-hell-autowin-get-all-items-godmode-3372")
+                                
+addscriptexist(1962086868, "Yum Hub  3 Games", "Uploaded by Lozsia on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Yum%20Hub%20%203%20Games306.lua", "https://rscripts.net/script/yum-hub-3-games-3548")
+                                

@@ -1,0 +1,2 @@
+
+addscript(13592445892, "Current Game","INFINITE WINS  INFINITE REBIRTHS  INFINITES STRENGHTS Destroying Walls Simulator", "Uploaded by yanis on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/INFINITE%20WINS%20%20INFINITE%20REBIRTHS%20%20INFINITES%20STRENGHTS%20Destroying%20Walls%20Simulator799.lua", "https://rscripts.net/script/infinite-wins-infinite-rebirths-infinites-strenghts-destroying-walls-simulator-4000")

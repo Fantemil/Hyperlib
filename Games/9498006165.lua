@@ -12,3 +12,7 @@ addscript(9498006165, "Current Game","Tapping Simulator script", "Uploaded by Bu
                                 
     addscriptexist(9498006165, "DragonHub OP Script", "Uploaded by ToothlessNightFury on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DragonHub%20OP%20Script13.lua", "https://scriptblox.com/script/UPDATE-Tapping-Simulator-DragonHub-OP-Script-6489")
                                 
+addscriptexist(9498006165, " KHub  Tapping Simulator Script Working  2023  Auto Click", "Uploaded by Kekn9ne on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/%20KHub%20%20Tapping%20Simulator%20Script%20Working%20%202023%20%20Auto%20Click136.lua", "https://rscripts.net/script/khub-tapping-simulator-script-working-2023-auto-click-3505")
+                                
+addscriptexist(9498006165, "Celestial Hub 30 GAMES", "Uploaded by JellyBagBeans on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Celestial%20Hub%2030%20GAMES530.lua", "https://rscripts.net/script/celestial-hub-30-games-3082")
+                                

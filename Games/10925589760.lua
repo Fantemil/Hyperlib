@@ -8,3 +8,7 @@ addscript(10925589760, "Current Game","Merge Simulator script OPEN SOURCE Made B
                                 
     addscriptexist(10925589760, "Merge simulator OP SCRIPT", "Uploaded by kash on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Merge%20simulator%20OP%20SCRIPT744.lua", "https://scriptblox.com/script/RELEASE!-Merge-Simulator-Merge-simulator-OP-SCRIPT-6501")
                                 
+addscriptexist(10925589760, "Merge Simulator  Insurgent Hub V1", "Uploaded by 21xdecay on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Merge%20Simulator%20%20Insurgent%20Hub%20V1591.lua", "https://rscripts.net/script/merge-simulator-insurgent-hub-v1-4113")
+                                
+addscriptexist(10925589760, "Merge Simulator  OP Griefing Working AutoTap Very Fast Auto Merge", "Uploaded by FilipTop on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Merge%20Simulator%20%20OP%20Griefing%20Working%20AutoTap%20Very%20Fast%20Auto%20Merge200.lua", "https://rscripts.net/script/merge-simulator-op-griefing-working-autotap-very-fast-auto-merge-3593")
+                                

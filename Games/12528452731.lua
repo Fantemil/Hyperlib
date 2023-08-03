@@ -1,0 +1,2 @@
+
+addscript(12528452731, "Current Game","Egg Farm Tycoon  Insurgent Hub", "Uploaded by 21xdecay on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Egg%20Farm%20Tycoon%20%20Insurgent%20Hub406.lua", "https://rscripts.net/script/egg-farm-tycoon-insurgent-hub-4146")

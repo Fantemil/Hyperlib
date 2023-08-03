@@ -10,3 +10,7 @@ addscript(7305309231, "Current Game","Server Hop auto farm", "Uploaded by Lucky_
                                 
     addscriptexist(7305309231, "OP AutoFarm", "Uploaded by Runn on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20AutoFarm937.lua", "https://scriptblox.com/script/Taxi-Boss-OP-AutoFarm-4607")
                                 
+addscriptexist(7305309231, "COCONUT EVENT Taxi Boss ", "Uploaded by I647dfb79c94d0 on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/COCONUT%20EVENT%20Taxi%20Boss%20297.lua", "https://rscripts.net/script/coconut-event-taxi-boss-3983")
+                                
+addscriptexist(7305309231, "FREE Taxi Boss Autofarm  More", "Uploaded by Byte on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FREE%20Taxi%20Boss%20Autofarm%20%20More753.lua", "https://rscripts.net/script/free-taxi-boss-autofarm-more-3240")
+                                

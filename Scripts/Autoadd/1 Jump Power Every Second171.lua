@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/WinterDinder/-1-Jump-Power-Every-Second/main/Main", true))()

@@ -1,0 +1,2 @@
+
+addscript(5926001758, "Current Game","Color Block Inf Jump Instant Freeze SpeedHack", "Uploaded by weiny on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Color%20Block%20Inf%20Jump%20Instant%20Freeze%20SpeedHack464.lua", "https://rscripts.net/script/color-block-inf-jump-instant-freeze-speedhack-3440")

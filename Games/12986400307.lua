@@ -1,0 +1,2 @@
+
+addscript(12986400307, "Current Game","Sword Warriors  RaCc0oN Hub", "Uploaded by racc0on on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sword%20Warriors%20%20RaCc0oN%20Hub666.lua", "https://rscripts.net/script/sword-warriors-racc0on-hub-4014")

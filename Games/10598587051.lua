@@ -1,0 +1,2 @@
+
+addscript(10598587051, "Current Game","Anime Clicker Fight  Cefrus Hub", "Uploaded by Keeron on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime%20Clicker%20Fight%20%20Cefrus%20Hub898.lua", "https://rscripts.net/script/anime-clicker-fight-cefrus-hub-3033")

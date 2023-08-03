@@ -1,0 +1,2 @@
+
+addscript(11708967881, "Current Game","Yeet A Friend Script By Greek Salad Team", "Uploaded by Duo on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Yeet%20A%20Friend%20Script%20By%20Greek%20Salad%20Team49.lua", "https://rscripts.net/script/yeet-a-friend-script-by-greek-salad-team-4048")

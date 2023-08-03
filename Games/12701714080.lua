@@ -1,0 +1,2 @@
+
+addscript(12701714080, "Current Game","Clicker Mining Simulator", "Uploaded by MaGiXx on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Clicker%20Mining%20Simulator181.lua", "https://rscripts.net/script/clicker-mining-simulator-3686")

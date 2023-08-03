@@ -1,0 +1,2 @@
+
+addscript(12876963758, "Current Game","Marble Rail Teleport  Etc Script", "Uploaded by HannaeAltae on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Marble%20Rail%20Teleport%20%20Etc%20Script395.lua", "https://rscripts.net/script/marble-rail-teleport-etc-script-3965")

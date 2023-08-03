@@ -1,0 +1,4 @@
+
+addscript(4410049285, "Current Game","OP Universal Car Modifier", "Uploaded by 1NO on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20Universal%20Car%20Modifier497.lua", "https://rscripts.net/script/op-universal-car-modifier-3091")
+addscriptexist(4410049285, "Driving Simulator Script  JensHub", "Uploaded by JensCoding on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Driving%20Simulator%20Script%20%20JensHub380.lua", "https://rscripts.net/script/driving-simulator-script-jenshub-3727")
+                                

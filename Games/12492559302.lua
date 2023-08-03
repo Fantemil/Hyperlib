@@ -1,0 +1,2 @@
+
+addscript(12492559302, "Current Game","Legend Of Heroes  Autofarm", "Uploaded by PerfectusMim on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Legend%20Of%20Heroes%20%20Autofarm536.lua", "https://rscripts.net/script/legend-of-heroes-autofarm-3638")

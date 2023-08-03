@@ -2,3 +2,5 @@
 addscript(13892638440, "Current Game","I I", "Uploaded by axezive on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/I%20I619.lua", "https://scriptblox.com/script/NEW-Pixel-Incremental-I-I-6623")
 addscriptexist(13892638440, "Pixel Incremental  Insurgent Hub V1", "Uploaded by 21xdecay on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pixel%20Incremental%20%20Insurgent%20Hub%20V1291.lua", "https://rscripts.net/script/pixel-incremental-insurgent-hub-v1-4112")
                                 
+addscriptexist(13892638440, "Pixel Blitz  The Best Pixel Incremental Script Infinite Pixel Space Instant Pixel Spawn Player Spy  MORE", "Uploaded by iploggercom on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pixel%20Blitz%20%20The%20Best%20Pixel%20Incremental%20Script%20Infinite%20Pixel%20Space%20Instant%20Pixel%20Spawn%20Player%20Spy%20%20MORE295.lua", "https://rscripts.net/script/pixel-blitz-the-best-pixel-incremental-script-infinite-pixel-space-instant-pixel-spawn-player-spy-more-4138")
+                                

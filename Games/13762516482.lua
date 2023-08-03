@@ -1,0 +1,2 @@
+
+addscript(13762516482, "Current Game","DONT SNIFF IT Op Script Free Script Code", "Uploaded by User642c517b9893a on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DONT%20SNIFF%20IT%20Op%20Script%20Free%20Script%20Code512.lua", "https://rscripts.net/script/dont-sniff-it-op-script-free-script-code-4102")

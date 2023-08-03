@@ -6,3 +6,5 @@ addscript(6708206173, "Current Game","RMA Bypasser", "Uploaded by NoxuScripts on
                                 
     addscriptexist(6708206173, "RMA Chat Bot Premium Version v3201", "Uploaded by NoxuScripts on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RMA%20Chat%20Bot%20Premium%20Version%20v3201321.lua", "https://scriptblox.com/script/Rate-My-Avatar-RMA-Bot-3307")
                                 
+addscriptexist(6708206173, "Trivia Bot For Rate My Avatar", "Uploaded by vauz on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Trivia%20Bot%20For%20Rate%20My%20Avatar2.lua", "https://rscripts.net/script/trivia-bot-for-rate-my-avatar-3590")
+                                

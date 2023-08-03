@@ -1,0 +1,2 @@
+
+addscript(11582083063, "Current Game","BEST Auto Farm  OXYGEN", "Uploaded by PerfectusMim on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BEST%20Auto%20Farm%20%20OXYGEN959.lua", "https://rscripts.net/script/best-auto-farm-oxygen-3445")

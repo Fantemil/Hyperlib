@@ -48,3 +48,5 @@ addscript(155615604, "Current Game","DevWare", "Uploaded by devxternal on script
                                 
     addscriptexist(155615604, "Prison life admin", "Uploaded by guythatplaysroblox on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Prison%20life%20admin680.lua", "https://scriptblox.com/script/Prison-Life-(Cars-fixed!)-Prison-life-admin-6241")
                                 
+addscriptexist(155615604, "BEST PRISON LIFE OVERPOWERED GUI", "Uploaded by iki on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BEST%20PRISON%20LIFE%20OVERPOWERED%20GUI788.lua", "https://rscripts.net/script/best-prison-life-overpowered-gui-3969")
+                                

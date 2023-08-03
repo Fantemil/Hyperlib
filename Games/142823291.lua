@@ -44,3 +44,25 @@ addscript(142823291, "Current Game","MM2 OP SCRIPT PLUS CANDY FARM", "Uploaded b
                                 
     addscriptexist(142823291, "Vynixu MM2", "Uploaded by frm410 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Vynixu%20MM2456.lua", "https://scriptblox.com/script/Murder-Mystery-2-Vynixu-MM2-6344")
                                 
+addscriptexist(142823291, "Kidachi V2  Murder Mystery 2", "Uploaded by someone8045 on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Kidachi%20V2%20%20Murder%20Mystery%202955.lua", "https://rscripts.net/script/kidachi-v2-murder-mystery-2-4063")
+                                
+addscriptexist(142823291, "Murder Mystery 2 Script  Auto Farm Beach Ball", "Uploaded by BismaAkmal on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Murder%20Mystery%202%20Script%20%20Auto%20Farm%20Beach%20Ball991.lua", "https://rscripts.net/script/murder-mystery-2-script-auto-farm-beach-ball-3997")
+                                
+addscriptexist(142823291, "MM2 Script  Project Lightning", "Uploaded by jacdev on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MM2%20Script%20%20Project%20Lightning841.lua", "https://rscripts.net/script/mm2-script-project-lightning-4053")
+                                
+addscriptexist(142823291, "Highlight Hub HttpsDiscordGgJU8PkmY5 For Key", "Uploaded by maxihans9 on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Highlight%20Hub%20HttpsDiscordGgJU8PkmY5%20For%20Key651.lua", "https://rscripts.net/script/highlight-hub-httpsdiscordggju8pkmy5-for-key-4123")
+                                
+addscriptexist(142823291, "Silent Aim AImbot Kill Aura", "Uploaded by MaGiXx on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Silent%20Aim%20AImbot%20Kill%20Aura829.lua", "https://rscripts.net/script/silent-aim-aimbot-kill-aura-3879")
+                                
+addscriptexist(142823291, "Kidachi V2 Rewrite  MM2", "Uploaded by Deity on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Kidachi%20V2%20Rewrite%20%20MM2861.lua", "https://rscripts.net/script/kidachi-v2-rewrite-mm2-4149")
+                                
+addscriptexist(142823291, "JENSHUB BEST MM2 SCRIPT", "Uploaded by JensCoding on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/JENSHUB%20BEST%20MM2%20SCRIPT852.lua", "https://rscripts.net/script/jenshub-best-mm2-script-3733")
+                                
+addscriptexist(142823291, "MURDER MYSTERY 2", "Uploaded by buchstabe on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MURDER%20MYSTERY%202969.lua", "https://rscripts.net/script/murder-mystery-2-4023")
+                                
+addscriptexist(142823291, "MM2 NEW OP BEST FREE SCRIPT", "Uploaded by JensCoding on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MM2%20NEW%20OP%20BEST%20FREE%20SCRIPT265.lua", "https://rscripts.net/script/mm2-new-op-best-free-script-3911")
+                                
+addscriptexist(142823291, "Murder Mystery 2 ESP Fake Knife Get Xbox Knife", "Uploaded by weiny on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Murder%20Mystery%202%20ESP%20Fake%20Knife%20Get%20Xbox%20Knife507.lua", "https://rscripts.net/script/murder-mystery-2-esp-fake-knife-get-xbox-knife-3443")
+                                
+addscriptexist(142823291, "Murder Mystery 2 GUI", "Uploaded by Superbia on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Murder%20Mystery%202%20GUI169.lua", "https://rscripts.net/script/murder-mystery-2-gui-3184")
+                                

@@ -34,3 +34,13 @@ addscript(292439477, "Current Game","Phantom Forces ESP", "Uploaded by Crip on s
                                 
     addscriptexist(292439477, "first script i ever posted bbot source leak READ DESC", "Uploaded by IDunnoWhatHaxingIs on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/first%20script%20i%20ever%20posted%20bbot%20source%20leak%20READ%20DESC788.lua", "https://scriptblox.com/script/Phantom-Forces:-Pacific-Cold-Front-Pt.2-first-script-i-ever-posted-bbot-source-leak-READ-DESC-6494")
                                 
+addscriptexist(292439477, "Phantom Forces Team ESP And Team Name ESP Working 31072023", "Uploaded by ReQiuYTPL on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Phantom%20Forces%20Team%20ESP%20And%20Team%20Name%20ESP%20Working%2031072023611.lua", "https://rscripts.net/script/phantom-forces-team-esp-and-team-name-esp-working-31072023-3357")
+                                
+addscriptexist(292439477, "Phantom Forces  Chams ESP", "Uploaded by ShyShai on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Phantom%20Forces%20%20Chams%20ESP122.lua", "https://rscripts.net/script/phantom-forces-chams-esp-3358")
+                                
+addscriptexist(292439477, "Phantom Forces Script Insane", "Uploaded by krtitcs on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Phantom%20Forces%20Script%20Insane861.lua", "https://rscripts.net/script/phantom-forces-script-insane-3051")
+                                
+addscriptexist(292439477, "Phantom Forces  Third Person OPEN SOURCE", "Uploaded by ShyShai on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Phantom%20Forces%20%20Third%20Person%20OPEN%20SOURCE398.lua", "https://rscripts.net/script/phantom-forces-third-person-open-source-3345")
+                                
+addscriptexist(292439477, "Phantom Forces AimBot ESP", "Uploaded by Superbia on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Phantom%20Forces%20AimBot%20ESP922.lua", "https://rscripts.net/script/phantom-forces-aimbot-esp-3215")
+                                

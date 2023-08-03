@@ -1,0 +1,2 @@
+
+addscript(9796685905, "Current Game","Super Hero Race Clicker Script", "Uploaded by Jumble on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Super%20Hero%20Race%20Clicker%20Script391.lua", "https://rscripts.net/script/super-hero-race-clicker-script-3388")

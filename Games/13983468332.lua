@@ -1,0 +1,2 @@
+
+addscript(13983468332, "Current Game","The Best Anime Legacy Script For Mobile  PC", "Uploaded by tozxart on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/The%20Best%20Anime%20Legacy%20Script%20For%20Mobile%20%20PC170.lua", "https://rscripts.net/script/the-best-anime-legacy-script-for-mobile-pc-4072")

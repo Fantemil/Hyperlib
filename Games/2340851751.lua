@@ -1,0 +1,2 @@
+
+addscript(2340851751, "Current Game","FREE GAMEPASS SpiderMan Tycoon Script", "Uploaded by yanis on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FREE%20GAMEPASS%20SpiderMan%20Tycoon%20Script612.lua", "https://rscripts.net/script/free-gamepass-spiderman-tycoon-script-3966")

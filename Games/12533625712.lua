@@ -1,0 +1,2 @@
+
+addscript(12533625712, "Current Game"," MAP  Motorcycle Mayhem NEW", "Uploaded by AlonE on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/%20MAP%20%20Motorcycle%20Mayhem%20NEW773.lua", "https://rscripts.net/script/map-motorcycle-mayhem-new-4026")

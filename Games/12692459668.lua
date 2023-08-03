@@ -1,0 +1,2 @@
+
+addscript(12692459668, "Current Game","Server Simulator  Insurgent Hub", "Uploaded by 21xdecay on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Server%20Simulator%20%20Insurgent%20Hub763.lua", "https://rscripts.net/script/server-simulator-insurgent-hub-4147")

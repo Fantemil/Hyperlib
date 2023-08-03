@@ -6,3 +6,5 @@ addscript(6728870912, "Current Game","AutoFarm Webhook Item Farm", "Uploaded by 
                                 
     addscriptexist(6728870912, "Updated6922Auto farm", "Uploaded by Lucky_gta on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Updated6922Auto%20farm223.lua", "https://scriptblox.com/script/OPEN-World-of-Stands-Demo-Auto-farm-3241")
                                 
+addscriptexist(6728870912, "World Of Stands  Chest Autofarm", "Uploaded by muz on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/World%20Of%20Stands%20%20Chest%20Autofarm399.lua", "https://rscripts.net/script/world-of-stands-chest-autofarm-3192")
+                                

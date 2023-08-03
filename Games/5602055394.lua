@@ -24,3 +24,5 @@ addscript(5602055394, "Current Game","HOoOoOD MoOoOdDeD", "Uploaded by Slips on 
                                 
     addscriptexist(5602055394, "nyula script hood modded OP gui NOT MINE", "Uploaded by ilyyAlex on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/nyula%20script%20hood%20modded%20OP%20gui%20NOT%20MINE985.lua", "https://scriptblox.com/script/Hood-Modded-nyula-script-hood-modded-OP-gui-4291")
                                 
+addscriptexist(5602055394, "HOOD MODDED SCRIPT", "Uploaded by zerotop on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/HOOD%20MODDED%20SCRIPT478.lua", "https://rscripts.net/script/hood-modded-script-3332")
+                                

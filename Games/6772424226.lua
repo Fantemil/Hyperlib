@@ -1,2 +1,4 @@
 
 addscript(6772424226, "Current Game","Two PIayer MilIionare Gui", "Uploaded by timmy282 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Two%20PIayer%20MilIionare%20Gui925.lua", "https://scriptblox.com/script/2-Player-Millionaire-Tycoon-AutoFarm-4693")
+addscriptexist(6772424226, "2 Player Millionaires Tycoon Autofarm", "Uploaded by Timsaay on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/2%20Player%20Millionaires%20Tycoon%20Autofarm935.lua", "https://rscripts.net/script/2-player-millionaires-tycoon-autofarm-3503")
+                                

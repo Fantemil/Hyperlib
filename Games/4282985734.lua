@@ -38,3 +38,5 @@ addscript(4282985734, "Current Game","KIll Aura VERY OP", "Uploaded by Kiki on s
                                 
     addscriptexist(4282985734, "Killaura Reach Nofalldamage", "Uploaded by plaguejoking on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Killaura%20Reach%20Nofalldamage368.lua", "https://scriptblox.com/script/Combat-Warriors-Killaura-Reach-Nofalldamage-4795")
                                 
+addscriptexist(4282985734, "OP Combat Warriors GUIScript ZapHub", "Uploaded by Zap on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20Combat%20Warriors%20GUIScript%20ZapHub689.lua", "https://rscripts.net/script/op-combat-warriors-guiscript-zaphub-3923")
+                                

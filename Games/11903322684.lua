@@ -1,0 +1,2 @@
+
+addscript(11903322684, "Current Game","My Car Wash OP AUTO", "Uploaded by pogykyk5419 on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/My%20Car%20Wash%20OP%20AUTO402.lua", "https://rscripts.net/script/my-car-wash-op-auto-4090")

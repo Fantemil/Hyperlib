@@ -1,0 +1,2 @@
+
+addscript(13306570231, "Current Game","Zombie Survivors Op Script", "Uploaded by MaGiXx on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Zombie%20Survivors%20Op%20Script429.lua", "https://rscripts.net/script/zombie-survivors-op-script-4121")

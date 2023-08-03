@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Jayxen0001/Dark-Cipher/main/DarkCipher.lua"))()

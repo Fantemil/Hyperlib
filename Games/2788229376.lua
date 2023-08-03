@@ -332,3 +332,29 @@ addscriptexist(2788229376, "ANTI LOCK DAHOOD SCRIPT", "Uploaded by Malene12345 o
                                 
 addscriptexist(2788229376, "AIMLOCK DAHOOD SCRIPT", "Uploaded by Malene12345 on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AIMLOCK%20DAHOOD%20SCRIPT654.lua", "https://rscripts.net/script/aimlock-dahood-script-4151")
                                 
+addscriptexist(2788229376, "Ohio Mode V3 Da Hood", "Uploaded by iploggercom on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ohio%20Mode%20V3%20Da%20Hood787.lua", "https://rscripts.net/script/ohio-mode-v3-da-hood-4092")
+                                
+addscriptexist(2788229376, "FE Da Hood Jesus Script", "Uploaded by TXREAM on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FE%20Da%20Hood%20Jesus%20Script708.lua", "https://rscripts.net/script/fe-da-hood-jesus-script-3694")
+                                
+addscriptexist(2788229376, "ZAPPED V3 GUI  BEST FREE DA HOOD SCRIPT", "Uploaded by grek on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ZAPPED%20V3%20GUI%20%20BEST%20FREE%20DA%20HOOD%20SCRIPT404.lua", "https://rscripts.net/script/zapped-v3-gui-best-free-da-hood-script-3389")
+                                
+addscriptexist(2788229376, "Zinc Hub V337  Update", "Uploaded by MontyBudget on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Zinc%20Hub%20V337%20%20Update613.lua", "https://rscripts.net/script/zinc-hub-v337-update-4051")
+                                
+addscriptexist(2788229376, "Zapped V2 DAHOOD SCRIPT", "Uploaded by Malene12345 on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Zapped%20V2%20DAHOOD%20SCRIPT266.lua", "https://rscripts.net/script/zapped-v2-dahood-script-3916")
+                                
+addscriptexist(2788229376, "Zinc Hub  ALL FIXED", "Uploaded by MontyBudget on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Zinc%20Hub%20%20ALL%20FIXED461.lua", "https://rscripts.net/script/zinc-hub-all-fixed-3912")
+                                
+addscriptexist(2788229376, "MangoX  Da Hood Script", "Uploaded by jinxz on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MangoX%20%20Da%20Hood%20Script682.lua", "https://rscripts.net/script/mangox-da-hood-script-3904")
+                                
+addscriptexist(2788229376, "Lanxility Da Hood Script HOT", "Uploaded by TXREAM on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Lanxility%20Da%20Hood%20Script%20HOT804.lua", "https://rscripts.net/script/lanxility-da-hood-script-hot-3632")
+                                
+addscriptexist(2788229376, "DaHood  DaUberHub NEW", "Uploaded by Rizzy on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DaHood%20%20DaUberHub%20NEW302.lua", "https://rscripts.net/script/dahood-dauberhub-new-3514")
+                                
+addscriptexist(2788229376, "UPDATED Zinc Hub V31", "Uploaded by MontyBudget on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/UPDATED%20Zinc%20Hub%20V31801.lua", "https://rscripts.net/script/updated-zinc-hub-v31-3413")
+                                
+addscriptexist(2788229376, "Pluto Skidded Script", "Uploaded by grek on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pluto%20Skidded%20Script916.lua", "https://rscripts.net/script/pluto-skidded-script-3534")
+                                
+addscriptexist(2788229376, "MOBILE SUPPORT Zinc Hub V33", "Uploaded by MontyBudget on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MOBILE%20SUPPORT%20Zinc%20Hub%20V33550.lua", "https://rscripts.net/script/mobile-support-zinc-hub-v33-3588")
+                                
+addscriptexist(2788229376, "DA HOOD ABYS FREE INTERNAL SCRIPT", "Uploaded by zerotop on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DA%20HOOD%20ABYS%20FREE%20INTERNAL%20SCRIPT684.lua", "https://rscripts.net/script/da-hood-abys-free-internal-script-3329")
+                                

@@ -1,0 +1,2 @@
+
+addscript(12242680183, "Current Game","Every Second You Get 1 Flight Script", "Uploaded by Toddy on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Every%20Second%20You%20Get%201%20Flight%20Script643.lua", "https://rscripts.net/script/every-second-you-get-1-flight-script-3680")

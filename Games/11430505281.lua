@@ -1,0 +1,2 @@
+
+addscript(11430505281, "Current Game","Team Skeet AWS Open Source", "Uploaded by Mana on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Team%20Skeet%20AWS%20Open%20Source745.lua", "https://rscripts.net/script/team-skeet-aws-open-source-3444")

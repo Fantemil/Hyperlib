@@ -22,3 +22,11 @@ addscript(3956818381, "Current Game","Ninja Legends Best Script", "Uploaded by k
                                 
     addscriptexist(3956818381, "Ninja Legends  Very OP Script ", "Uploaded by Shalev on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ninja%20Legends%20%20Very%20OP%20Script%20704.lua", "https://scriptblox.com/script/Ninja-Legends-or-Very-OP-Script!-3166")
                                 
+addscriptexist(3956818381, "NEW INSANE NINJA LEGENDS SCRIPT AUTO FARM UNLOCKS FAST AF", "Uploaded by arlists on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NEW%20INSANE%20NINJA%20LEGENDS%20SCRIPT%20AUTO%20FARM%20UNLOCKS%20FAST%20AF956.lua", "https://rscripts.net/script/new-insane-ninja-legends-script-auto-farm-unlocks-fast-af-4096")
+                                
+addscriptexist(3956818381, "Ninja Legends NEW", "Uploaded by Reddy on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ninja%20Legends%20NEW931.lua", "https://rscripts.net/script/ninja-legends-new-3186")
+                                
+addscriptexist(3956818381, "Ninja Legends AutoFarm GUI", "Uploaded by diglt on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ninja%20Legends%20AutoFarm%20GUI348.lua", "https://rscripts.net/script/ninja-legends-autofarm-gui-3631")
+                                
+addscriptexist(3956818381, "Obscure Hub 45 GAMES", "Uploaded by Obscure on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Obscure%20Hub%2045%20GAMES609.lua", "https://rscripts.net/script/obscure-hub-45-games-3114")
+                                

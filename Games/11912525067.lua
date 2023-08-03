@@ -1,0 +1,2 @@
+
+addscript(11912525067, "Current Game","1 Jump Power Every Second Autofarm", "Uploaded by HannaeAltae on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/1%20Jump%20Power%20Every%20Second%20Autofarm168.lua", "https://rscripts.net/script/1-jump-power-every-second-autofarm-3199")

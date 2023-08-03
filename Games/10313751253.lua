@@ -1,0 +1,2 @@
+
+addscript(10313751253, "Current Game","Free Bike Spawn Gamepass", "Uploaded by sadeshusband on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Free%20Bike%20Spawn%20Gamepass29.lua", "https://rscripts.net/script/free-bike-spawn-gamepass-3436")

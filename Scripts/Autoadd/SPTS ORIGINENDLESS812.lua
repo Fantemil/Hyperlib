@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://github.com/Tankz3502/MoonwareBetaV4/blob/main/Protected_3499244333154518.lua"))();

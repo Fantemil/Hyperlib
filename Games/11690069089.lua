@@ -1,0 +1,2 @@
+
+addscript(11690069089, "Current Game","Best Script To Make It Louder  Simulator", "Uploaded by MigueI on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Best%20Script%20To%20Make%20It%20Louder%20%20Simulator54.lua", "https://rscripts.net/script/best-script-to-make-it-louder-simulator-3487")

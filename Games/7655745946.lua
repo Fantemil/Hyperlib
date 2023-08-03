@@ -8,3 +8,5 @@ addscript(7655745946, "Current Game","mxkxkks dodo gui source", "Uploaded by Xan
                                 
     addscriptexist(7655745946, "Unlimited boost", "Uploaded by JadeWest on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Unlimited%20boost332.lua", "https://scriptblox.com/script/Dunking-Simulator-Unlimited-boost-5020")
                                 
+addscriptexist(7655745946, "Dunking Simulator Script", "Uploaded by Jumble on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Dunking%20Simulator%20Script338.lua", "https://rscripts.net/script/dunking-simulator-script-3777")
+                                

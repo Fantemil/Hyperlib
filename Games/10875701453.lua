@@ -1,0 +1,2 @@
+
+addscript(10875701453, "Current Game","Rolly Hub  Edward The ManEating Train", "Uploaded by someone8045 on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Rolly%20Hub%20%20Edward%20The%20ManEating%20Train155.lua", "https://rscripts.net/script/rolly-hub-edward-the-man-eating-train-4035")

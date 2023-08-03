@@ -1,0 +1,2 @@
+
+addscript(61846006, "Current Game","Super Simon Says  Never Die Always Win As Simon Lag Server", "Uploaded by Andot on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Super%20Simon%20Says%20%20Never%20Die%20Always%20Win%20As%20Simon%20Lag%20Server905.lua", "https://rscripts.net/script/super-simon-says-never-die-always-win-as-simon-lag-server-4040")

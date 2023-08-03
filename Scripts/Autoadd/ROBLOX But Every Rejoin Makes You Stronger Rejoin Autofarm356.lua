@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/WinterDinder/ROBLOX-But-Every-Rejoin-Makes-You-Stronger/main/Main.lua", true))()

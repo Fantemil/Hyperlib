@@ -1,0 +1,2 @@
+
+addscript(9603033881, "Current Game","Bid Battles Op Gui  Insurgent Hub Premium", "Uploaded by 21xdecay on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Bid%20Battles%20Op%20Gui%20%20Insurgent%20Hub%20Premium215.lua", "https://rscripts.net/script/bid-battles-op-gui-insurgent-hub-premium-4128")

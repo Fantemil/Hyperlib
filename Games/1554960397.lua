@@ -16,3 +16,5 @@ addscript(1554960397, "Current Game","script", "Uploaded by Human123 on scriptbl
                                 
     addscriptexist(1554960397, "Auto Rally Race", "Uploaded by IExploit on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Rally%20Race108.lua", "https://scriptblox.com/script/NEW-CAR!-Car-Dealership-Tycoon-Auto-Rally-Race-5048")
                                 
+addscriptexist(1554960397, "FREE Car Dealership Tycoon Autofarm", "Uploaded by Byte on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FREE%20Car%20Dealership%20Tycoon%20Autofarm687.lua", "https://rscripts.net/script/free-car-dealership-tycoon-autofarm-3238")
+                                

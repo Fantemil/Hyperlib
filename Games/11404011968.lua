@@ -1,0 +1,2 @@
+
+addscript(11404011968, "Current Game","LHUB  Anime Universe Simulator  Best Script", "Uploaded by IchiGotKrsak on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LHUB%20%20Anime%20Universe%20Simulator%20%20Best%20Script418.lua", "https://rscripts.net/script/l-hub-anime-universe-simulator-best-script-3829")

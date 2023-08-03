@@ -1,0 +1,2 @@
+
+addscript(13814171092, "Current Game","Balloon Simulator  Auto Farm", "Uploaded by AlonE on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Balloon%20Simulator%20%20Auto%20Farm670.lua", "https://rscripts.net/script/balloon-simulator-auto-farm-4065")

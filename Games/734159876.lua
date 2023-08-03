@@ -6,3 +6,5 @@ addscript(734159876, "Current Game","Op Gui", "Uploaded by ILIKETOEATMYOWNCHILD 
                                 
     addscriptexist(734159876, "Teleport lobby", "Uploaded by Hisako on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Teleport%20lobby346.lua", "https://scriptblox.com/script/SharkBite-Teleport-lobby-3840")
                                 
+addscriptexist(734159876, "Shark Bite New Script", "Uploaded by User642c517b9893a on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Shark%20Bite%20New%20Script645.lua", "https://rscripts.net/script/shark-bite-new-script-4140")
+                                

@@ -1,0 +1,2 @@
+
+addscript(13455598887, "Current Game","Super Bridge Runner", "Uploaded by HannaeAltae on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Super%20Bridge%20Runner339.lua", "https://rscripts.net/script/super-bridge-runner-4031")

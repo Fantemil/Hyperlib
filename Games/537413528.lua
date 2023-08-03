@@ -44,3 +44,23 @@ addscript(537413528, "Current Game","build a boat", "Uploaded by zuny on scriptb
                                 
     addscriptexist(537413528, "BEST AUTOFARM BABFT", "Uploaded by giannisthegamer1 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BEST%20AUTOFARM%20BABFT681.lua", "https://scriptblox.com/script/Build-A-Boat-For-Treasure-BEST-UTOFRM-BBFT-4184")
                                 
+addscriptexist(537413528, "BUILD A BOAT FOR TREASURE BEST OP SCRIPT AUTO BUILDER AND IMAGE LOADER WITH LOTS OF OPTIMIZATION BY STENDIRT", "Uploaded by redblue on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BUILD%20A%20BOAT%20FOR%20TREASURE%20BEST%20OP%20SCRIPT%20AUTO%20BUILDER%20AND%20IMAGE%20LOADER%20WITH%20LOTS%20OF%20OPTIMIZATION%20BY%20STENDIRT436.lua", "https://rscripts.net/script/build-a-boat-for-treasure-best-op-script-auto-builder-and-image-loader-with-lots-of-optimization-by-stendirt-3722")
+                                
+addscriptexist(537413528, "Boat Blitz V1 Reborn", "Uploaded by GamingResources on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Boat%20Blitz%20V1%20Reborn433.lua", "https://rscripts.net/script/boat-blitz-v1-reborn-3934")
+                                
+addscriptexist(537413528, "Build A Boat For Treasure  Wheat Hub", "Uploaded by MaGiXx on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Build%20A%20Boat%20For%20Treasure%20%20Wheat%20Hub599.lua", "https://rscripts.net/script/build-a-boat-for-treasure-wheat-hub-3787")
+                                
+addscriptexist(537413528, "ONE OF THE BEST SCRIPTS FOR BUILD A BOAT  TONS OF FEATURES YOU WONT FORGET  2023", "Uploaded by redblue on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ONE%20OF%20THE%20BEST%20SCRIPTS%20FOR%20BUILD%20A%20BOAT%20%20TONS%20OF%20FEATURES%20YOU%20WONT%20FORGET%20%202023855.lua", "https://rscripts.net/script/one-of-the-best-scripts-for-build-a-boat-tons-of-features-you-wont-forget-2023-3832")
+                                
+addscriptexist(537413528, "Build A Boat For Treasure AUTOFARM", "Uploaded by Timsaay on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Build%20A%20Boat%20For%20Treasure%20AUTOFARM464.lua", "https://rscripts.net/script/build-a-boat-for-treasure-autofarm-3397")
+                                
+addscriptexist(537413528, "OP SCRIPT FOR BUILD A BOAT FOR TREASURE", "Uploaded by redblue on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20SCRIPT%20FOR%20BUILD%20A%20BOAT%20FOR%20TREASURE527.lua", "https://rscripts.net/script/op-script-for-build-a-boat-for-treasure-3395")
+                                
+addscriptexist(537413528, "Boat Blitz V1 1 Time Key", "Uploaded by GamingResources on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Boat%20Blitz%20V1%201%20Time%20Key18.lua", "https://rscripts.net/script/boat-blitz-v1-1-time-key-3714")
+                                
+addscriptexist(537413528, "Build A Boat For Treasure  Crash Server", "Uploaded by SladeYT on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Build%20A%20Boat%20For%20Treasure%20%20Crash%20Server154.lua", "https://rscripts.net/script/build-a-boat-for-treasure-crash-server-3149")
+                                
+addscriptexist(537413528, "Build A Boat 2023 OP Script   ", "Uploaded by SladeYT on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Build%20A%20Boat%202023%20OP%20Script%20%20%20325.lua", "https://rscripts.net/script/build-a-boat-2023-op-script-3576")
+                                
+addscriptexist(537413528, "Build A Boat For Treasure Gui", "Uploaded by Superbia on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Build%20A%20Boat%20For%20Treasure%20Gui716.lua", "https://rscripts.net/script/build-a-boat-for-treasure-gui-3113")
+                                

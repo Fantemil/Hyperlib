@@ -1,0 +1,2 @@
+
+addscript(6278885452, "Current Game","Strong Katana Simulator Instant Cash", "Uploaded by Byte on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Strong%20Katana%20Simulator%20Instant%20Cash37.lua", "https://rscripts.net/script/strong-katana-simulator-instant-cash-3232")

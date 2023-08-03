@@ -1,0 +1,2 @@
+
+addscript(6160139406, "Current Game","The Underground War 3 Flag Steal", "Uploaded by HannaeAltae on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/The%20Underground%20War%203%20Flag%20Steal191.lua", "https://rscripts.net/script/the-underground-war-3-flag-steal-3383")

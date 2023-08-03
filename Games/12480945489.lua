@@ -1,0 +1,2 @@
+
+addscript(12480945489, "Current Game","Ice Cream Clicker Script Auto Lick Auto Sell ETC", "Uploaded by Desktop on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ice%20Cream%20Clicker%20Script%20Auto%20Lick%20Auto%20Sell%20ETC242.lua", "https://rscripts.net/script/ice-cream-clicker-script-auto-lick-auto-sell-etc-3521")

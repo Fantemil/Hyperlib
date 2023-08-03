@@ -1,0 +1,2 @@
+
+addscript(9601565001, "Current Game","OP Car Crash System", "Uploaded by HevX on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20Car%20Crash%20System460.lua", "https://rscripts.net/script/op-car-crash-system-3038")

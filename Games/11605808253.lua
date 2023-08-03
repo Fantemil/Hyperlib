@@ -1,0 +1,2 @@
+
+addscript(11605808253, "Current Game","AutoFarm Script For Climb Race", "Uploaded by Timsaay on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AutoFarm%20Script%20For%20Climb%20Race541.lua", "https://rscripts.net/script/autofarm-script-for-climb-race-3791")

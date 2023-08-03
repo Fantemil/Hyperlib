@@ -1,0 +1,2 @@
+
+addscript(12333888195, "Current Game","Arm Wrestling Simulator", "Uploaded by HannaeAltae on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Arm%20Wrestling%20Simulator334.lua", "https://rscripts.net/script/arm-wrestling-simulator-3906")

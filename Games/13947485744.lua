@@ -1,0 +1,2 @@
+
+addscript(13947485744, "Current Game","Infinite Coins And Much More For Shuriken Throwing Simulator", "Uploaded by ShadowLurker on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Infinite%20Coins%20And%20Much%20More%20For%20Shuriken%20Throwing%20Simulator176.lua", "https://rscripts.net/script/infinite-coins-and-much-more-for-shuriken-throwing-simulator-3995")

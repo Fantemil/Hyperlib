@@ -1,0 +1,2 @@
+
+addscript(9196514723, "Current Game","Script GUI FREE New", "Uploaded by Shag420 on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Script%20GUI%20FREE%20New858.lua", "https://rscripts.net/script/script-gui-free-new-3612")

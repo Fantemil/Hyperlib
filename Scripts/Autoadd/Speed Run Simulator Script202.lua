@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://raw.githubusercontent.com/Appel-man/Speed-Run-Simulator-Script/main/Speed%20Run%20Simulator%20Script.txt'))()

@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/WinterDinder/Teamwork-Puzzles-2-v2/main/Main", true))()

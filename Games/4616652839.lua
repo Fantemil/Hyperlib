@@ -38,3 +38,7 @@ addscript(4616652839, "Current Game","Patched Op infinite spin", "Uploaded by Mu
                                 
     addscriptexist(4616652839, "Shindo Lif equip bloodli mode weithout level number for slot", "Uploaded by xosiso1033 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Shindo%20Lif%20equip%20bloodli%20mode%20weithout%20level%20number%20for%20slot85.lua", "https://scriptblox.com/script/UPDATE-Shindo-Life-Shindo-Lif-equip-bloodli-mode-weithout-level-number-for-slot-4470")
                                 
+addscriptexist(4616652839, "NEW Shindo Life Teleport Locations Script  NOW FOR ALL MAIN VILLAGES ", "Uploaded by capybara on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NEW%20Shindo%20Life%20Teleport%20Locations%20Script%20%20NOW%20FOR%20ALL%20MAIN%20VILLAGES%20672.lua", "https://rscripts.net/script/new-shindo-life-teleport-locations-script-now-for-all-main-villages-3426")
+                                
+addscriptexist(4616652839, "Project Nexus", "Uploaded by Demm on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Project%20Nexus830.lua", "https://rscripts.net/script/project-nexus-3226")
+                                

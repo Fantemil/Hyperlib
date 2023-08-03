@@ -10,3 +10,7 @@ addscript(4924922222, "Current Game","Brookhaven Candy Auto Farm", "Uploaded by 
                                 
     addscriptexist(4924922222, "Brookheaven OP GUI", "Uploaded by ziroponto on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Brookheaven%20OP%20GUI504.lua", "https://scriptblox.com/script/Brookhaven-RP-Brookheaven-OP-GUI-4051")
                                 
+addscriptexist(4924922222, "Brookhaven Kill All Freee GamePass Admin Panel", "Uploaded by elektroshirka on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Brookhaven%20Kill%20All%20Freee%20GamePass%20Admin%20Panel49.lua", "https://rscripts.net/script/brookhaven-kill-all-freee-gamepass-admin-panel-4154")
+                                
+addscriptexist(4924922222, "IceHub  Brookhaven RP", "Uploaded by Icy on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/IceHub%20%20Brookhaven%20RP101.lua", "https://rscripts.net/script/icehub-brookhaven-rp-3474")
+                                

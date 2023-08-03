@@ -1,0 +1,2 @@
+
+addscript(12848327067, "Current Game","1 Every Second Garbage Game", "Uploaded by HannaeAltae on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/1%20Every%20Second%20Garbage%20Game974.lua", "https://rscripts.net/script/1-every-second-garbage-game-3693")

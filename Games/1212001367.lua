@@ -1,0 +1,2 @@
+
+addscript(1212001367, "Current Game","Grab All Eggs  OPEN SRC", "Uploaded by FxckIs on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Grab%20All%20Eggs%20%20OPEN%20SRC203.lua", "https://rscripts.net/script/grab-all-eggs-open-src-3572")

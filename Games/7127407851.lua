@@ -1,0 +1,2 @@
+
+addscript(7127407851, "Current Game","AOTE Auto Spin OpenSource", "Uploaded by Dxctor on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AOTE%20Auto%20Spin%20OpenSource662.lua", "https://rscripts.net/script/aote-auto-spin-open-source-3665")

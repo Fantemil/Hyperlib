@@ -1,0 +1,2 @@
+
+addscript(13057041140, "Current Game","Every Second Stud Jumps Obby", "Uploaded by HannaeAltae on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Every%20Second%20Stud%20Jumps%20Obby809.lua", "https://rscripts.net/script/every-second-stud-jumps-obby-3823")

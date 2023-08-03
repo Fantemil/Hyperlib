@@ -1,0 +1,2 @@
+
+addscript(13355458911, "Current Game","UNLIMITED WINS  VIP CHAT TAG Every Click Get 1 Jump", "Uploaded by yanis on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/UNLIMITED%20WINS%20%20VIP%20CHAT%20TAG%20Every%20Click%20Get%201%20Jump777.lua", "https://rscripts.net/script/unlimited-wins-vip-chat-tag-every-click-get-1-jump-3975")

@@ -12,3 +12,9 @@ addscript(6284583030, "Current Game","Ban Bypass", "Uploaded by e621 on scriptbl
                                 
     addscriptexist(6284583030, "OP Gui", "Uploaded by TK02 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20Gui332.lua", "https://scriptblox.com/script/x2-Pet-Simulator-X!-OP-Gui-4839")
                                 
+addscriptexist(6284583030, "Present Esp For Psx  Patch ", "Uploaded by ni7kobv on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Present%20Esp%20For%20Psx%20%20Patch%20245.lua", "https://rscripts.net/script/present-esp-for-psx-patch-3096")
+                                
+addscriptexist(6284583030, "LKHUB  Insane Script Hub For Multiple Games", "Uploaded by LeoKhol on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LKHUB%20%20Insane%20Script%20Hub%20For%20Multiple%20Games25.lua", "https://rscripts.net/script/lkhub-insane-script-hub-for-multiple-games-2528")
+                                
+addscriptexist(6284583030, "PET SIMULATOR X  OP SCRIPT", "Uploaded by MHD444 on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PET%20SIMULATOR%20X%20%20OP%20SCRIPT385.lua", "https://rscripts.net/script/pet-simulator-x-op-script-3450")
+                                

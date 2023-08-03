@@ -1,0 +1,1 @@
+loadstring(game:HttpGet(('https://gist.githubusercontent.com/GamingResources/9ee954e327488b4c9245bf850236b6fa/raw/c7561c0ed0cf7efa9a7b2a6257b2beb94cff440b/SLING.lua')))()

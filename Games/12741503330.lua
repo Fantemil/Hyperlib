@@ -1,0 +1,2 @@
+
+addscript(12741503330, "Current Game","1 Points Every Second Autofarm", "Uploaded by HannaeAltae on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/1%20Points%20Every%20Second%20Autofarm695.lua", "https://rscripts.net/script/1-points-every-second-autofarm-3624")

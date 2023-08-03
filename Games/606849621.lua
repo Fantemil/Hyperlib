@@ -22,3 +22,5 @@ addscript(606849621, "Current Game","Autoarrest", "Uploaded by troll on scriptbl
                                 
     addscriptexist(606849621, "autorob", "Uploaded by loganmcgregot on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/autorob528.lua", "https://scriptblox.com/script/Jailbreak-autorob-3571")
                                 
+addscriptexist(606849621, "Project Auto Autorob And Auto Arrest", "Uploaded by snipehype200 on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Project%20Auto%20Autorob%20And%20Auto%20Arrest342.lua", "https://rscripts.net/script/project-auto-autorob-and-auto-arrest-4142")
+                                

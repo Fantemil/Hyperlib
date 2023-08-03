@@ -1,0 +1,2 @@
+
+addscript(4566572536, "Current Game","AeroHub  FREE HUB FOR VehicleLegends Katana Simulator Zombie Merge Tycoon And Much More", "Uploaded by Byte on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AeroHub%20%20FREE%20HUB%20FOR%20VehicleLegends%20Katana%20Simulator%20Zombie%20Merge%20Tycoon%20And%20Much%20More366.lua", "https://rscripts.net/script/aerohub-free-hub-for-vehicle-legends-katana-simulator-zombie-merge-tycoon-and-much-more-3218")

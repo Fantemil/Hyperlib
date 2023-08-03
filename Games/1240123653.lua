@@ -4,3 +4,5 @@ addscript(1240123653, "Current Game","Silent Aim", "Uploaded by sirgavingraham o
                                 
     addscriptexist(1240123653, "Zombie Attack AIMBOT", "Uploaded by LEO004 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Zombie%20Attack%20AIMBOT110.lua", "https://scriptblox.com/script/Zombie-Attack-Zombie-Attack-AIMBOT-4289")
                                 
+addscriptexist(1240123653, "ZOMBIE ATTACK BEST AUTOFARM GUI", "Uploaded by iki on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ZOMBIE%20ATTACK%20BEST%20AUTOFARM%20GUI623.lua", "https://rscripts.net/script/zombie-attack-best-autofarm-gui-3935")
+                                

@@ -1,2 +1,4 @@
 
 addscript(340227283, "Current Game","AIMBOT AND HITBOX EXTENDER SCRIPT", "Uploaded by Crispy on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AIMBOT%20AND%20HITBOX%20EXTENDER%20SCRIPT902.lua", "https://scriptblox.com/script/RoBowling-AIMBOT-AND-HITBOX-EXTENDER-SCRIPT-5401")
+addscriptexist(340227283, "RoBowling  Insurgent Hub V1", "Uploaded by 21xdecay on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RoBowling%20%20Insurgent%20Hub%20V1921.lua", "https://rscripts.net/script/robowling-insurgent-hub-v1-4117")
+                                

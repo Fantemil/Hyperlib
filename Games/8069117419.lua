@@ -6,3 +6,5 @@ addscript(8069117419, "Current Game","AutoFarm Teleports AutoChest", "Uploaded b
                                 
     addscriptexist(8069117419, "Demon Soul Simulator  Lazy Hub", "Uploaded by LioK on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Demon%20Soul%20Simulator%20%20Lazy%20Hub352.lua", "https://scriptblox.com/script/UPD3.3-Demon-Soul-Simulator-or-Lazy-Hub-4061")
                                 
+addscriptexist(8069117419, "New OP Hub For Demon Soul Simulator", "Uploaded by diglt on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/New%20OP%20Hub%20For%20Demon%20Soul%20Simulator371.lua", "https://rscripts.net/script/new-op-hub-for-demon-soul-simulator-3643")
+                                

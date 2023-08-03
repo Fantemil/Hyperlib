@@ -28,3 +28,9 @@ addscript(621129760, "Current Game","LIME X KAT BEST GUI EVER", "Uploaded by lxn
                                 
     addscriptexist(621129760, "Full Godmode", "Uploaded by gore on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Full%20Godmode4.lua", "https://scriptblox.com/script/KAT!-Full-***-4879")
                                 
+addscriptexist(621129760, "KAT BEST AUTOFARM GUI", "Uploaded by iki on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/KAT%20BEST%20AUTOFARM%20GUI895.lua", "https://rscripts.net/script/kat-best-autofarm-gui-3910")
+                                
+addscriptexist(621129760, "Small Kat Script Fire", "Uploaded by bandruf on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Small%20Kat%20Script%20Fire68.lua", "https://rscripts.net/script/small-kat-script-fire-3886")
+                                
+addscriptexist(621129760, "BandrufHubV2  Kat OP SCRIPT HUB", "Uploaded by bandruf on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BandrufHubV2%20%20Kat%20OP%20SCRIPT%20HUB327.lua", "https://rscripts.net/script/bandrufhubv2-kat-op-script-hub-3897")
+                                

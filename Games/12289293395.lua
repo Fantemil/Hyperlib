@@ -1,0 +1,2 @@
+
+addscript(12289293395, "Current Game","Boxing Fighters Simulator  Auto Farm", "Uploaded by PerfectusMim on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Boxing%20Fighters%20Simulator%20%20Auto%20Farm604.lua", "https://rscripts.net/script/boxing-fighters-simulator-auto-farm-3641")

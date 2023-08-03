@@ -1,0 +1,2 @@
+
+addscript(3769248453, "Current Game","Sushi Shop Simulator  OP SCRIPT", "Uploaded by Dex on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sushi%20Shop%20Simulator%20%20OP%20SCRIPT536.lua", "https://rscripts.net/script/sushi-shop-simulator-op-script-4122")

@@ -1,0 +1,2 @@
+
+addscript(12736459172, "Current Game","Survive The Wave  Autofarm", "Uploaded by Chair on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Survive%20The%20Wave%20%20Autofarm174.lua", "https://rscripts.net/script/survive-the-wave-autofarm-3893")

@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/notreplicated/released-scripts/main/SteepStepsAntiTeleportBypass.lua", true))()

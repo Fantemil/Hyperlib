@@ -14,3 +14,9 @@ addscript(301549746, "Current Game","Backdoor", "Uploaded by BEAST on scriptblox
                                 
     addscriptexist(301549746, "Dark Ware", "Uploaded by ArasOfficial on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Dark%20Ware523.lua", "https://scriptblox.com/script/Counter-Blox-Dark-Ware-3393")
                                 
+addscriptexist(301549746, "Counter Blox Script Rage Legit Skinchanger Gun Mods Etc", "Uploaded by 0xe on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Counter%20Blox%20Script%20Rage%20Legit%20Skinchanger%20Gun%20Mods%20Etc740.lua", "https://rscripts.net/script/counter-blox-script-rage-legit-skinchanger-gun-mods-etc-3255")
+                                
+addscriptexist(301549746, "Seere CounterBloxS 1 Script", "Uploaded by sufi on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Seere%20CounterBloxS%201%20Script453.lua", "https://rscripts.net/script/seere-counter-bloxs-1-script-3284")
+                                
+addscriptexist(301549746, "Counter Blox Godmode", "Uploaded by sufi on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Counter%20Blox%20Godmode501.lua", "https://rscripts.net/script/counter-blox-godmode-3326")
+                                

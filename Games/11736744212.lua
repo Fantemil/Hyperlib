@@ -1,0 +1,2 @@
+
+addscript(11736744212, "Current Game","MinersCraft GUI Includes Killaura Bhop Xray Infinite Jump  More", "Uploaded by rionte on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MinersCraft%20GUI%20Includes%20Killaura%20Bhop%20Xray%20Infinite%20Jump%20%20More181.lua", "https://rscripts.net/script/minerscraft-gui-includes-killaura-bhop-xray-infinite-jump-more-3107")

@@ -140,3 +140,41 @@ addscriptexist(2753915549, "Alchemy Hub  Auto Bounty ", "Uploaded by Zoi on rscr
                                 
 addscriptexist(2753915549, "Blox Fruits Auto Farm Auto Quest Boss  More", "Uploaded by antipipka on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blox%20Fruits%20Auto%20Farm%20Auto%20Quest%20Boss%20%20More270.lua", "https://rscripts.net/script/blox-fruits-auto-farm-auto-quest-boss-more-4179")
                                 
+addscriptexist(2753915549, "Alchemy Hub  Auto Farm Chest ", "Uploaded by Zoi on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Alchemy%20Hub%20%20Auto%20Farm%20Chest%2064.lua", "https://rscripts.net/script/alchemy-hub-auto-farm-chest-4088")
+                                
+addscriptexist(2753915549, "Raito Hub BEST SCRIPT", "Uploaded by Efes643d7dd2704b7 on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Raito%20Hub%20BEST%20SCRIPT310.lua", "https://rscripts.net/script/raito-hub-best-script-3987")
+                                
+addscriptexist(2753915549, "Blox Fruits Auto Stats Auto Buy Fruit Sniper  More", "Uploaded by elektroshirka on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blox%20Fruits%20Auto%20Stats%20Auto%20Buy%20Fruit%20Sniper%20%20More518.lua", "https://rscripts.net/script/blox-fruits-auto-stats-auto-buy-fruit-sniper-more-4187")
+                                
+addscriptexist(2753915549, "Raito Hub BIG UPDATE", "Uploaded by Efes643d7dd2704b7 on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Raito%20Hub%20BIG%20UPDATE903.lua", "https://rscripts.net/script/raito-hub-big-update-3993")
+                                
+addscriptexist(2753915549, " Loyz Hub V4  Blox Fruits", "Uploaded by Zoi on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/%20Loyz%20Hub%20V4%20%20Blox%20Fruits122.lua", "https://rscripts.net/script/loyz-hub-v4-blox-fruits-3573")
+                                
+addscriptexist(2753915549, "Blox Fruits Auto Farm Lvl Teleport Auto Quest", "Uploaded by elektroshirka on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blox%20Fruits%20Auto%20Farm%20Lvl%20Teleport%20Auto%20Quest101.lua", "https://rscripts.net/script/blox-fruits-auto-farm-lvl-teleport-auto-quest-4180")
+                                
+addscriptexist(2753915549, "New Blox Fruits Script  Project Lightning", "Uploaded by jacdev on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/New%20Blox%20Fruits%20Script%20%20Project%20Lightning891.lua", "https://rscripts.net/script/new-blox-fruits-script-project-lightning-4052")
+                                
+addscriptexist(2753915549, "Blox Fruits Void Hub V2 Teleport Mirage And Gear", "Uploaded by Efes on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blox%20Fruits%20Void%20Hub%20V2%20Teleport%20Mirage%20And%20Gear431.lua", "https://rscripts.net/script/blox-fruits-void-hub-v2-teleport-mirage-and-gear-3334")
+                                
+addscriptexist(2753915549, "OP Vellerius V4 BF Script", "Uploaded by Corrupt on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20Vellerius%20V4%20BF%20Script78.lua", "https://rscripts.net/script/op-vellerius-v4-bf-script-3800")
+                                
+addscriptexist(2753915549, "Project Shanky V1 OP Script", "Uploaded by Corrupt on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Project%20Shanky%20V1%20OP%20Script546.lua", "https://rscripts.net/script/project-shanky-v1-op-script-3813")
+                                
+addscriptexist(2753915549, "Mukuro Hub  Fastest Blox Fruits Level Farm Script", "Uploaded by xyba on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mukuro%20Hub%20%20Fastest%20Blox%20Fruits%20Level%20Farm%20Script924.lua", "https://rscripts.net/script/mukuro-hub-fastest-blox-fruits-level-farm-script-3854")
+                                
+addscriptexist(2753915549, "Blox Fruits Script AntiBan", "Uploaded by Efes643d7dd2704b7 on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blox%20Fruits%20Script%20AntiBan736.lua", "https://rscripts.net/script/blox-fruits-script-anti-ban-4124")
+                                
+addscriptexist(2753915549, "Blox Fruits Bean SCRIPT Pc AutoFarm LevelDevil FruitGun MasteryMore FREE Hub", "Uploaded by PEKKA on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blox%20Fruits%20Bean%20SCRIPT%20Pc%20AutoFarm%20LevelDevil%20FruitGun%20MasteryMore%20FREE%20Hub260.lua", "https://rscripts.net/script/blox-fruits-bean-script-pc-autofarm-leveldevil-fruitgun-masterymore-free-hub-3926")
+                                
+addscriptexist(2753915549, "Blox Fruit Script Created By Blood Bath", "Uploaded by BloodBath on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blox%20Fruit%20Script%20Created%20By%20Blood%20Bath618.lua", "https://rscripts.net/script/blox-fruit-script-created-by-blood-bath-3394")
+                                
+addscriptexist(2753915549, "Auto Farm Auto Quest Boss And More", "Uploaded by MaGiXx on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Farm%20Auto%20Quest%20Boss%20And%20More836.lua", "https://rscripts.net/script/auto-farm-auto-quest-boss-and-more-3880")
+                                
+addscriptexist(2753915549, "Void Hub Rain Fruits Visual", "Uploaded by Efes on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Void%20Hub%20Rain%20Fruits%20Visual434.lua", "https://rscripts.net/script/void-hub-rain-fruits-visual-3543")
+                                
+addscriptexist(2753915549, "VOID HUB  NEW GUI", "Uploaded by Efes on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/VOID%20HUB%20%20NEW%20GUI279.lua", "https://rscripts.net/script/void-hub-new-gui-3439")
+                                
+addscriptexist(2753915549, "Space Hub OVERPOWERED", "Uploaded by Lucas on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Space%20Hub%20OVERPOWERED805.lua", "https://rscripts.net/script/space-hub-overpowered-3155")
+                                
+addscriptexist(2753915549, "Space Hub INSANE GUI", "Uploaded by Lucas on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Space%20Hub%20INSANE%20GUI842.lua", "https://rscripts.net/script/space-hub-insane-gui-3046")
+                                

@@ -1,2 +1,4 @@
 
 addscript(8554378337, "Current Game","Simpel Script", "Uploaded by TK02 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Simpel%20Script321.lua", "https://scriptblox.com/script/UPDATE-1-Weapon-Fighting-Simulator-Simpel-Script-4840")
+addscriptexist(8554378337, "Leave On Overnight Weapon Fighting Simulator Script For Mobile  PC Autofarm", "Uploaded by tozxart on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Leave%20On%20Overnight%20Weapon%20Fighting%20Simulator%20Script%20For%20Mobile%20%20PC%20Autofarm123.lua", "https://rscripts.net/script/leave-on-overnight-weapon-fighting-simulator-script-for-mobile-pc-autofarm-4075")
+                                

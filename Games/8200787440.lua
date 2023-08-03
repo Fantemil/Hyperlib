@@ -1,0 +1,2 @@
+
+addscript(8200787440, "Current Game","Eat Blobs Simulator", "Uploaded by HannaeAltae on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Eat%20Blobs%20Simulator604.lua", "https://rscripts.net/script/eat-blobs-simulator-3826")

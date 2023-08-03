@@ -56,3 +56,9 @@ addscript(6872265039, "Current Game","OP GUI with AC Bypass", "Uploaded by stoni
                                 
     addscriptexist(6872265039, "Bedwars Utils Open source", "Uploaded by blinx1 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Bedwars%20Utils%20Open%20source17.lua", "https://scriptblox.com/script/BedWars-SEASON-3!-BWUtils-4801")
                                 
+addscriptexist(6872265039, "BedWars Reach No Click Delay Esp", "Uploaded by elektroshirka on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BedWars%20Reach%20No%20Click%20Delay%20Esp416.lua", "https://rscripts.net/script/bedwars-reach-no-click-delay-esp-4192")
+                                
+addscriptexist(6872265039, "BedWars Anti Cheat Bypass Inf Fly Spider", "Uploaded by elektroshirka on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BedWars%20Anti%20Cheat%20Bypass%20Inf%20Fly%20Spider920.lua", "https://rscripts.net/script/bedwars-anti-cheat-bypass-inf-fly-spider-4168")
+                                
+addscriptexist(6872265039, "BEDWARS SERVER CRASHER", "Uploaded by GamingResources on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BEDWARS%20SERVER%20CRASHER982.lua", "https://rscripts.net/script/bedwars-server-crasher-3530")
+                                

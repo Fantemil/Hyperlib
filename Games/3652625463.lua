@@ -1,0 +1,2 @@
+
+addscript(3652625463, "Current Game","MOONWARE V2  5 Games", "Uploaded by halaltankz on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MOONWARE%20V2%20%205%20Games938.lua", "https://rscripts.net/script/moonware-v2-5-games-3275")

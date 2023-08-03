@@ -1,0 +1,2 @@
+
+addscript(6735572261, "Current Game","Selenium Pilgrammed", "Uploaded by synny on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Selenium%20Pilgrammed659.lua", "https://rscripts.net/script/selenium-pilgrammed-3486")

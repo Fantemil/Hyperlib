@@ -1,0 +1,2 @@
+
+addscript(12355801049, "Current Game","Slap Battles But Bad Fanmade FE OP", "Uploaded by Chair on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Slap%20Battles%20But%20Bad%20Fanmade%20FE%20OP922.lua", "https://rscripts.net/script/slap-battles-but-bad-fanmade-fe-op-3892")

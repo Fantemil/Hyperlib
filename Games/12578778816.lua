@@ -1,0 +1,2 @@
+
+addscript(12578778816, "Current Game","Billionaire Simulator 2 Script", "Uploaded by eternal63fb521eb437a on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Billionaire%20Simulator%202%20Script219.lua", "https://rscripts.net/script/billionaire-simulator-2-script-4029")

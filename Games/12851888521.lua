@@ -1,0 +1,4 @@
+
+addscript(12851888521, "Current Game","Best Punch Wall Simulator Script", "Uploaded by Drazox6430920f61339 on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Best%20Punch%20Wall%20Simulator%20Script406.lua", "https://rscripts.net/script/best-punch-wall-simulator-script-3827")
+addscriptexist(12851888521, "Punch Wall Simulator Script For Mobile  PC AutofarmAuto Hatch", "Uploaded by tozxart on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Punch%20Wall%20Simulator%20Script%20For%20Mobile%20%20PC%20AutofarmAuto%20Hatch716.lua", "https://rscripts.net/script/punch-wall-simulator-script-for-mobile-pc-autofarmauto-hatch-4076")
+                                

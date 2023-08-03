@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Tankz3502/MoonwareBetaV4/main/wercT.lua"))()

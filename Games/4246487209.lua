@@ -1,0 +1,2 @@
+
+addscript(4246487209, "Current Game","Script For Boss Fighting Simulator PlayerHub", "Uploaded by redblue on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Script%20For%20Boss%20Fighting%20Simulator%20PlayerHub840.lua", "https://rscripts.net/script/script-for-boss-fighting-simulator-playerhub-3937")

@@ -1,2 +1,4 @@
 
 addscript(2116002761, "Current Game","Fredbear Mega Roleplay  Afton Family Diner Script Infinite yield", "Uploaded by RandomUser on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Fredbear%20Mega%20Roleplay%20%20Afton%20Family%20Diner%20Script%20Infinite%20yield905.lua", "https://scriptblox.com/script/Afton's-Family-Diner-Fredbear-Mega-roleplay-and-Afton-Script%2B-Infinite-yield-3735")
+addscriptexist(2116002761, "AftonS Family Diner", "Uploaded by HannaeAltae on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AftonS%20Family%20Diner970.lua", "https://rscripts.net/script/aftons-family-diner-3441")
+                                

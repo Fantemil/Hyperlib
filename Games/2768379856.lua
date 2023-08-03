@@ -8,3 +8,5 @@ addscript(2768379856, "Current Game","Item Giver Graphical User Interface", "Upl
                                 
     addscriptexist(2768379856, "OP GET FOOD", "Uploaded by frenzystuff2 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20GET%20FOOD812.lua", "https://scriptblox.com/script/3008-2.71-OP-GET-FOOD-5538")
                                 
+addscriptexist(2768379856, "AutoBuild SCP3008", "Uploaded by MrXrer on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AutoBuild%20SCP3008229.lua", "https://rscripts.net/script/autobuild-scp-3008-4185")
+                                

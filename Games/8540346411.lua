@@ -14,3 +14,7 @@ addscript(8540346411, "Current Game","Rebirth Champions X", "Uploaded by levietn
                                 
     addscriptexist(8540346411, "SRM Hub  Auto Click Auto Rebirth Buy UpgradesPotionsEggs", "Uploaded by Bebedi on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SRM%20Hub%20%20Auto%20Click%20Auto%20Rebirth%20Buy%20UpgradesPotionsEggs611.lua", "https://scriptblox.com/script/RELEASE!-Rebirth-Champions-X-SRM-Hub-oror-Auto-Click-Auto-Rebirth-Buy-UpgradesPotionsEggs-3227")
                                 
+addscriptexist(8540346411, "Auto Farm Egg Hunt EvENT", "Uploaded by Toddy on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Farm%20Egg%20Hunt%20EvENT57.lua", "https://rscripts.net/script/auto-farm-egg-hunt-event-3695")
+                                
+addscriptexist(8540346411, "Op Script For Rebirth Champions X", "Uploaded by Toddy on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Op%20Script%20For%20Rebirth%20Champions%20X610.lua", "https://rscripts.net/script/op-script-for-rebirth-champions-x-3471")
+                                

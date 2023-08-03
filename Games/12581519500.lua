@@ -1,0 +1,2 @@
+
+addscript(12581519500, "Current Game","Roblox But Every Second You Get 1 Jump Power", "Uploaded by HannaeAltae on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Roblox%20But%20Every%20Second%20You%20Get%201%20Jump%20Power401.lua", "https://rscripts.net/script/roblox-but-every-second-you-get-1-jump-power-4038")

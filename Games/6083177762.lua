@@ -1,0 +1,2 @@
+
+addscript(6083177762, "Current Game"," AUTO COLLECT COINS EGGS  Roblox But Every Second The Baseplate Grows 1", "Uploaded by Baller on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/%20AUTO%20COLLECT%20COINS%20EGGS%20%20Roblox%20But%20Every%20Second%20The%20Baseplate%20Grows%201708.lua", "https://rscripts.net/script/auto-collect-coins-eggs-roblox-but-every-second-the-baseplate-grows-1-3917")

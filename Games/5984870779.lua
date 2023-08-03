@@ -1,0 +1,2 @@
+
+addscript(5984870779, "Current Game","GARENA FREE FIRE  Kill All", "Uploaded by xyba on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/GARENA%20FREE%20FIRE%20%20Kill%20All115.lua", "https://rscripts.net/script/garena-free-fire-kill-all-2328")

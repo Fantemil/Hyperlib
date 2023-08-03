@@ -1,0 +1,2 @@
+
+addscript(11196588443, "Current Game","Autofarm For ZOMBIE MERGE TYCOON", "Uploaded by Byte on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Autofarm%20For%20ZOMBIE%20MERGE%20TYCOON779.lua", "https://rscripts.net/script/autofarm-for-zombie-merge-tycoon-3224")

@@ -52,3 +52,13 @@ addscript(6516141723, "Current Game","Door by MS Hub", "Uploaded by nguyendr2008
                                 
     addscriptexist(6516141723, "Summon Screech", "Uploaded by ChronoAccelerator on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Summon%20Screech277.lua", "https://scriptblox.com/script/DOORS-Summon-Screech-6522")
                                 
+addscriptexist(6516141723, "Doors  Lolcat Script", "Uploaded by someone8045 on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Doors%20%20Lolcat%20Script697.lua", "https://rscripts.net/script/doors-lolcat-script-4042")
+                                
+addscriptexist(6516141723, "DOORS  Morph Script", "Uploaded by Pops on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DOORS%20%20Morph%20Script538.lua", "https://rscripts.net/script/doors-morph-script-3581")
+                                
+addscriptexist(6516141723, "Free Crucifix For DOORS", "Uploaded by ShadowLurker on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Free%20Crucifix%20For%20DOORS89.lua", "https://rscripts.net/script/free-crucifix-for-doors-3133")
+                                
+addscriptexist(6516141723, "DOORS  NEW Script", "Uploaded by n00dy on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DOORS%20%20NEW%20Script820.lua", "https://rscripts.net/script/doors-new-script-3773")
+                                
+addscriptexist(6516141723, "Doors Auto Farm", "Uploaded by Reddy on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Doors%20Auto%20Farm32.lua", "https://rscripts.net/script/doors-auto-farm-3200")
+                                

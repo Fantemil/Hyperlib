@@ -1,0 +1,2 @@
+
+addscript(6777872443, "Current Game","Synergy Hub ReWritten", "Uploaded by synny on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Synergy%20Hub%20ReWritten189.lua", "https://rscripts.net/script/synergy-hub-re-written-3295")

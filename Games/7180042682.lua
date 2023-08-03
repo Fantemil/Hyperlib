@@ -8,3 +8,5 @@ addscript(7180042682, "Current Game","Military Tycoon autofarm", "Uploaded by gi
                                 
     addscriptexist(7180042682, "Oopss GUI Cracked Military Tycoon", "Uploaded by 2w22 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Oopss%20GUI%20Cracked%20Military%20Tycoon101.lua", "https://scriptblox.com/script/BATTLESHIP!-Military-Tycoon-Oopss-GUI-Cracked-Military-Tycoon-6040")
                                 
+addscriptexist(7180042682, "Find The Jammer Items Farm Event MT", "Uploaded by OopssSorry on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Find%20The%20Jammer%20Items%20Farm%20Event%20MT898.lua", "https://rscripts.net/script/find-the-jammer-items-farm-event-mt-3817")
+                                

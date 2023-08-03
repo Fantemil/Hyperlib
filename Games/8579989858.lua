@@ -1,0 +1,2 @@
+
+addscript(8579989858, "Current Game","Super Clicker Simulator", "Uploaded by pogykyk5419 on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Super%20Clicker%20Simulator984.lua", "https://rscripts.net/script/super-clicker-simulator-4057")

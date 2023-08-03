@@ -1,0 +1,2 @@
+
+addscript(13732650470, "Current Game","INFINITE STAMINA  UNLIMITED PETS EXPLOSIVE WALL SIMULATOR", "Uploaded by yanis on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/INFINITE%20STAMINA%20%20UNLIMITED%20PETS%20EXPLOSIVE%20WALL%20SIMULATOR50.lua", "https://rscripts.net/script/infinite-stamina-unlimited-pets-explosive-wall-simulator-3976")

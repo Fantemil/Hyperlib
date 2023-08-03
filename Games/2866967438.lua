@@ -6,3 +6,9 @@ addscript(2866967438, "Current Game","f Sim AUTOFARM", "Uploaded by giannisthega
                                 
     addscriptexist(2866967438, "decent gui", "Uploaded by ChickenAndChips on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/decent%20gui546.lua", "https://scriptblox.com/script/Fishing-Simulator-sim-gui-5321")
                                 
+addscriptexist(2866967438, "Fishing Simulator  OP Autofarm", "Uploaded by JD1233 on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Fishing%20Simulator%20%20OP%20Autofarm338.lua", "https://rscripts.net/script/fishing-simulator-op-autofarm-3268")
+                                
+addscriptexist(2866967438, "Fishing Simulator Script", "Uploaded by Reddy on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Fishing%20Simulator%20Script710.lua", "https://rscripts.net/script/fishing-simulator-script-3185")
+                                
+addscriptexist(2866967438, " KHub  UPDATED  Fishing Simulator Ultimate Script Working  2023  AutoFarm", "Uploaded by Kekn9ne on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/%20KHub%20%20UPDATED%20%20Fishing%20Simulator%20Ultimate%20Script%20Working%20%202023%20%20AutoFarm408.lua", "https://rscripts.net/script/khub-updated-fishing-simulator-ultimate-script-working-2023-auto-farm-3504")
+                                

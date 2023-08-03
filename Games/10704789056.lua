@@ -1,0 +1,2 @@
+
+addscript(10704789056, "Current Game","IceWareV2  Drive World", "Uploaded by capi on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/IceWareV2%20%20Drive%20World702.lua", "https://rscripts.net/script/icewarev2-drive-world-3679")

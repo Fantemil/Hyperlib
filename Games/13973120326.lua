@@ -1,0 +1,2 @@
+
+addscript(13973120326, "Current Game","EVENT Grimace Race Auto Farm", "Uploaded by AlonE on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/EVENT%20Grimace%20Race%20Auto%20Farm411.lua", "https://rscripts.net/script/event-grimace-race-auto-farm-4148")

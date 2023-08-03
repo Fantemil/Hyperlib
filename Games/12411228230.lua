@@ -1,0 +1,2 @@
+
+addscript(12411228230, "Current Game","Flag Race Script WIP", "Uploaded by HannaeAltae on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Flag%20Race%20Script%20WIP791.lua", "https://rscripts.net/script/flag-race-script-wip-3852")

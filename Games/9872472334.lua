@@ -28,3 +28,7 @@ addscript(9872472334, "Current Game","Smoxhub script", "Uploaded by Pro_scripter
                                 
     addscriptexist(9872472334, "HamstaGang GUI", "Uploaded by V3rmScriptsUploader on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/HamstaGang%20GUI369.lua", "https://scriptblox.com/script/UPDATE-Evade-HamstaGang-GUI-5068")
                                 
+addscriptexist(9872472334, "ANAL HUB  Evade", "Uploaded by someone8045 on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ANAL%20HUB%20%20Evade59.lua", "https://rscripts.net/script/anal-hub-evade-4068")
+                                
+addscriptexist(9872472334, "Evade Gift Auto Farm", "Uploaded by muz on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Evade%20Gift%20Auto%20Farm653.lua", "https://rscripts.net/script/evade-gift-auto-farm-3138")
+                                

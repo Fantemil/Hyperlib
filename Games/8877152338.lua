@@ -1,0 +1,2 @@
+
+addscript(8877152338, "Current Game","Gorilla Tag Experience", "Uploaded by Lucas on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Gorilla%20Tag%20Experience362.lua", "https://rscripts.net/script/gorilla-tag-experience-4134")

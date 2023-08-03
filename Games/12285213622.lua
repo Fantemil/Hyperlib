@@ -1,0 +1,2 @@
+
+addscript(12285213622, "Current Game","MOON SLING  Roblox Script", "Uploaded by GamingResources on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MOON%20SLING%20%20Roblox%20Script416.lua", "https://rscripts.net/script/moon-sling-roblox-script-3841")

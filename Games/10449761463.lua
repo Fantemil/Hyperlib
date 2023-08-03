@@ -1,0 +1,2 @@
+
+addscript(10449761463, "Current Game","AutoFarm Hit Aura Auto Safe And More", "Uploaded by MaGiXx on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AutoFarm%20Hit%20Aura%20Auto%20Safe%20And%20More909.lua", "https://rscripts.net/script/autofarm-hit-aura-auto-safe-and-more-3884")

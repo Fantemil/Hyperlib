@@ -1,0 +1,2 @@
+
+addscript(11756661207, "Current Game","Stairs Of Rage Script", "Uploaded by HannaeAltae on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Stairs%20Of%20Rage%20Script928.lua", "https://rscripts.net/script/stairs-of-rage-script-3837")

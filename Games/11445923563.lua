@@ -1,0 +1,2 @@
+
+addscript(11445923563, "Current Game","Fixed One Fruit Simulator Best Script Keyless", "Uploaded by Drazox on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Fixed%20One%20Fruit%20Simulator%20Best%20Script%20Keyless43.lua", "https://rscripts.net/script/fixed-one-fruit-simulator-best-script-keyless-3040")

@@ -1,0 +1,2 @@
+
+addscript(12074193845, "Current Game","1 Clicker Jump Race GAME BREAKING SCRIPT", "Uploaded by HannaeAltae on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/1%20Clicker%20Jump%20Race%20GAME%20BREAKING%20SCRIPT180.lua", "https://rscripts.net/script/1-clicker-jump-race-game-breaking-script-3707")

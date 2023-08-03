@@ -1,0 +1,2 @@
+
+addscript(9528010, "Current Game","Blood  Iron Binary Hub", "Uploaded by BinaryHubOfficial on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blood%20%20Iron%20Binary%20Hub777.lua", "https://rscripts.net/script/blood-iron-binary-hub-3662")

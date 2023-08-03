@@ -1,0 +1,2 @@
+
+addscript(13630971892, "Current Game","Kidachi  Pet Quest RPG", "Uploaded by Deity on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Kidachi%20%20Pet%20Quest%20RPG777.lua", "https://rscripts.net/script/kidachi-pet-quest-rpg-4021")

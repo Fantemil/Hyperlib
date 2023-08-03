@@ -1,0 +1,2 @@
+
+addscript(13355910112, "Current Game","Every Second You Get Faster", "Uploaded by HannaeAltae on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Every%20Second%20You%20Get%20Faster85.lua", "https://rscripts.net/script/every-second-you-get-faster-3986")

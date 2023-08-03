@@ -1,2 +1,4 @@
 
 addscript(6104994594, "Current Game","Pilfering Pirates no damage and more", "Uploaded by giannisthegamer1 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pilfering%20Pirates%20no%20damage%20and%20more556.lua", "https://scriptblox.com/script/Pilfering-Pirates-no-damage-and-more-4197")
+addscriptexist(6104994594, "PLIFERING PIRATES OP SCRIPT  Free Premium Script", "Uploaded by HScout on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PLIFERING%20PIRATES%20OP%20SCRIPT%20%20Free%20Premium%20Script239.lua", "https://rscripts.net/script/plifering-pirates-op-script-free-premium-script-3851")
+                                

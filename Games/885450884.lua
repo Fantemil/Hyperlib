@@ -1,0 +1,2 @@
+
+addscript(885450884, "Current Game","Hit Box Expander Script", "Uploaded by sadeshusband on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Hit%20Box%20Expander%20Script497.lua", "https://rscripts.net/script/hit-box-expander-script-3656")

@@ -1,0 +1,2 @@
+
+addscript(11981520251, "Current Game","Heaven Stands Op Script Beta", "Uploaded by User642c517b9893a on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Heaven%20Stands%20Op%20Script%20Beta364.lua", "https://rscripts.net/script/heaven-stands-op-script-beta-4129")

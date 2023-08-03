@@ -1,0 +1,4 @@
+
+addscript(8874112980, "Current Game","Demon Slayer  Midnight Sun  UPDATED  Easy Level Ups  Auto Quest OP", "Uploaded by muz on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Demon%20Slayer%20%20Midnight%20Sun%20%20UPDATED%20%20Easy%20Level%20Ups%20%20Auto%20Quest%20OP305.lua", "https://rscripts.net/script/demon-slayer-midnight-sun-updated-easy-level-ups-auto-quest-op-3783")
+addscriptexist(8874112980, "INSTANT HASHIRA EASY", "Uploaded by muz on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/INSTANT%20HASHIRA%20EASY226.lua", "https://rscripts.net/script/instant-hashira-easy-3771")
+                                

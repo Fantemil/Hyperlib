@@ -1,0 +1,2 @@
+
+addscript(13819432431, "Current Game","Dont Get Liked NEW UPDATE Free Code New Loadstring", "Uploaded by User642c517b9893a on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Dont%20Get%20Liked%20NEW%20UPDATE%20Free%20Code%20New%20Loadstring783.lua", "https://rscripts.net/script/dont-get-liked-new-update-free-code-new-loadstring-4119")

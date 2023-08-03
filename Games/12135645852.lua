@@ -1,2 +1,4 @@
 
 addscript(12135645852, "Current Game","PN", "Uploaded by Afyyy on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PN887.lua", "https://scriptblox.com/script/DARK-WORLD-Anime-Catching-Simulator-PN-6625")
+addscriptexist(12135645852, "Best Anime Catching Simulator Script", "Uploaded by Drazox6430920f61339 on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Best%20Anime%20Catching%20Simulator%20Script595.lua", "https://rscripts.net/script/best-anime-catching-simulator-script-3780")
+                                

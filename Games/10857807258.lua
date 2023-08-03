@@ -1,0 +1,4 @@
+
+addscript(10857807258, "Current Game","Boxing Friends Simulator", "Uploaded by HannaeAltae on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Boxing%20Friends%20Simulator38.lua", "https://rscripts.net/script/boxing-friends-simulator-4022")
+addscriptexist(10857807258, "Boxing Friends Simulator Script", "Uploaded by BismaAkmal on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Boxing%20Friends%20Simulator%20Script582.lua", "https://rscripts.net/script/boxing-friends-simulator-script-3989")
+                                

@@ -34,3 +34,7 @@ addscript(9551640993, "Current Game","Mining Simulator 2  AutoDelete", "Uploaded
                                 
     addscriptexist(9551640993, "Auto Farm GUI", "Uploaded by Human123 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Farm%20GUI117.lua", "https://scriptblox.com/script/NEW-Mining-Simulator-2-Auto-Farm-GUI-3811")
                                 
+addscriptexist(9551640993, "Mining Simulator 2 Xray Auto Sell Auto Rebirth", "Uploaded by elektroshirka on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mining%20Simulator%202%20Xray%20Auto%20Sell%20Auto%20Rebirth596.lua", "https://rscripts.net/script/mining-simulator-2-xray-auto-sell-auto-rebirth-4178")
+                                
+addscriptexist(9551640993, "Celestial Hub  Mining Simulator 2", "Uploaded by someone8045 on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Celestial%20Hub%20%20Mining%20Simulator%202884.lua", "https://rscripts.net/script/celestial-hub-mining-simulator-2-4083")
+                                

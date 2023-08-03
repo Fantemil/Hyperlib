@@ -1,0 +1,2 @@
+
+addscript(8689257920, "Current Game","Green Bell Pepper Life In Prison Keyless Best Script For Game", "Uploaded by Duo on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Green%20Bell%20Pepper%20Life%20In%20Prison%20Keyless%20Best%20Script%20For%20Game435.lua", "https://rscripts.net/script/green-bell-pepper-life-in-prison-keyless-best-script-for-game-3901")

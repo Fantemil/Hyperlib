@@ -1,0 +1,2 @@
+
+addscript(12744832381, "Current Game","New Break Wall Simulator Script", "Uploaded by Toddy on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/New%20Break%20Wall%20Simulator%20Script700.lua", "https://rscripts.net/script/new-break-wall-simulator-script-3678")

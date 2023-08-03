@@ -84,3 +84,27 @@ addscript(286090429, "Current Game","Arsenal", "Uploaded by CandyLean on scriptb
                                 
     addscriptexist(286090429, "ESP  AIMBOT  WALLBANG  Arsenal", "Uploaded by dl3nd91 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ESP%20%20AIMBOT%20%20WALLBANG%20%20Arsenal320.lua", "https://scriptblox.com/script/Arsenal-(ESP-%2B-AIMBOT-%2B-WALLBANG-)-Arsenal-4130")
                                 
+addscriptexist(286090429, "OP Arsenal Script ZapHub Work In Pc And Mobil", "Uploaded by Zap on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20Arsenal%20Script%20ZapHub%20Work%20In%20Pc%20And%20Mobil964.lua", "https://rscripts.net/script/op-arsenal-script-zaphub-work-in-pc-and-mobil-3973")
+                                
+addscriptexist(286090429, "Arsenal Kill All Kill Aura ESP Jump Fly Speed Aim Bot And More", "Uploaded by antipipka on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Arsenal%20Kill%20All%20Kill%20Aura%20ESP%20Jump%20Fly%20Speed%20Aim%20Bot%20And%20More757.lua", "https://rscripts.net/script/arsenal-kill-all-kill-aura-esp-jump-fly-speed-aim-bot-and-more-4171")
+                                
+addscriptexist(286090429, "Arsenal Silent Aim More", "Uploaded by ImperialExploits on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Arsenal%20Silent%20Aim%20More723.lua", "https://rscripts.net/script/arsenal-silent-aim-more-3493")
+                                
+addscriptexist(286090429, "Arsenal Op Script Beta  Free Code Main", "Uploaded by User642c517b9893a on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Arsenal%20Op%20Script%20Beta%20%20Free%20Code%20Main547.lua", "https://rscripts.net/script/arsenal-op-script-beta-free-code-main-4111")
+                                
+addscriptexist(286090429, "AdvanceTech  Arsenal  V4", "Uploaded by YellowGreg on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AdvanceTech%20%20Arsenal%20%20V445.lua", "https://rscripts.net/script/advancetech-arsenal-v4-3891")
+                                
+addscriptexist(286090429, "Seere 1 FPS Games Cheat", "Uploaded by sufi on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Seere%201%20FPS%20Games%20Cheat395.lua", "https://rscripts.net/script/seere-1-fps-games-cheat-3362")
+                                
+addscriptexist(286090429, "OP Arsenal Kill All And Silent Aim Script", "Uploaded by Lucas on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20Arsenal%20Kill%20All%20And%20Silent%20Aim%20Script955.lua", "https://rscripts.net/script/op-arsenal-kill-all-and-silent-aim-script-3244")
+                                
+addscriptexist(286090429, "AdvanceTech  Arsenal  V3", "Uploaded by YellowGreg on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AdvanceTech%20%20Arsenal%20%20V3929.lua", "https://rscripts.net/script/advancetech-arsenal-v3-3423")
+                                
+addscriptexist(286090429, "DevHub NEW LOADSTRING", "Uploaded by HevX on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DevHub%20NEW%20LOADSTRING645.lua", "https://rscripts.net/script/devhub-new-loadstring-3283")
+                                
+addscriptexist(286090429, "Black Panther Hub  Aimbot", "Uploaded by BQ on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Black%20Panther%20Hub%20%20Aimbot978.lua", "https://rscripts.net/script/black-panther-hub-aimbot-3985")
+                                
+addscriptexist(286090429, "Argon Hub  Arsenal", "Uploaded by McletsHacksYT on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Argon%20Hub%20%20Arsenal388.lua", "https://rscripts.net/script/argon-hub-arsenal-3972")
+                                
+addscriptexist(286090429, "Arsenal Script  Silent Aimbot ESP Kill Aura Gun Mods And More", "Uploaded by ShyShai on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Arsenal%20Script%20%20Silent%20Aimbot%20ESP%20Kill%20Aura%20Gun%20Mods%20And%20More15.lua", "https://rscripts.net/script/arsenal-script-silent-aimbot-esp-kill-aura-gun-mods-and-more-3023")
+                                

@@ -1,0 +1,2 @@
+
+addscript(10534865425, "Current Game","Hoop Simulator  RaCc0oN Hub", "Uploaded by racc0on on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Hoop%20Simulator%20%20RaCc0oN%20Hub980.lua", "https://rscripts.net/script/hoop-simulator-racc0on-hub-3946")

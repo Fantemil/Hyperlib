@@ -12,3 +12,5 @@ addscript(8884433153, "Current Game","Universal GUI AIMBOT 2022", "Uploaded by b
                                 
     addscriptexist(8884433153, "jmes", "Uploaded by jmes on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/jmes21.lua", "https://scriptblox.com/script/Collect-All-Pets!-jmes-5709")
                                 
+addscriptexist(8884433153, " KHub  Collect All Pets Ultimate Script Working  2023  AutoFarm", "Uploaded by Kekn9ne on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/%20KHub%20%20Collect%20All%20Pets%20Ultimate%20Script%20Working%20%202023%20%20AutoFarm45.lua", "https://rscripts.net/script/khub-collect-all-pets-ultimate-script-working-2023-auto-farm-3556")
+                                

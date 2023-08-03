@@ -1,0 +1,2 @@
+
+addscript(11334303271, "Current Game","Fart Hub Alone GUI ", "Uploaded by notIvan on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Fart%20Hub%20Alone%20GUI%20863.lua", "https://rscripts.net/script/fart-hub-alone-gui-3834")

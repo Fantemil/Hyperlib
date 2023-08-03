@@ -22,3 +22,5 @@ addscript(2809202155, "Current Game","Bizzare Item Auto Farm Auto Quest More", "
                                 
     addscriptexist(2809202155, "cool yba script", "Uploaded by vexxx on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/cool%20yba%20script982.lua", "https://scriptblox.com/script/Crazy-Diamond-REWORK-Your-Bizarre-Adventure-cool-yba-script-5541")
                                 
+addscriptexist(2809202155, "YBA Op Shiny Farm Script", "Uploaded by senS on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/YBA%20Op%20Shiny%20Farm%20Script194.lua", "https://rscripts.net/script/yba-op-shiny-farm-script-3011")
+                                

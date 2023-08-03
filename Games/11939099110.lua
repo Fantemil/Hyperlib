@@ -1,0 +1,2 @@
+
+addscript(11939099110, "Current Game","Unlimited Wins For Ski Race", "Uploaded by ShadowLurker on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Unlimited%20Wins%20For%20Ski%20Race458.lua", "https://rscripts.net/script/unlimited-wins-for-ski-race-4059")

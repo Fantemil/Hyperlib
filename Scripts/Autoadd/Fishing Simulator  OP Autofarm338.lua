@@ -1,0 +1,1 @@
+loadstring(game:HttpGet(('https://raw.githubusercontent.com/ghostapustaja/legionhub/main/fishingsimulator/main.lua'),true))()

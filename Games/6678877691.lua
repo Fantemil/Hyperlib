@@ -8,3 +8,5 @@ addscript(6678877691, "Current Game","Script Rage Bot", "Uploaded by CerRexior o
                                 
     addscriptexist(6678877691, "tp aura fly risky script", "Uploaded by SlOodd0 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/tp%20aura%20fly%20risky%20script31.lua", "https://scriptblox.com/script/UPD-ZO-SAMURAI-tp-aura-3942")
                                 
+addscriptexist(6678877691, "ZoWare Script OP Constantly Bypassed", "Uploaded by Slayn on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ZoWare%20Script%20OP%20Constantly%20Bypassed944.lua", "https://rscripts.net/script/zoware-script-op-constantly-bypassed-3337")
+                                

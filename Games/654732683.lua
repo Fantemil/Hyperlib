@@ -1,2 +1,4 @@
 
 addscript(654732683, "Current Game","car crusher 2 script", "Uploaded by Lolek_Gaming on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/car%20crusher%202%20script761.lua", "https://scriptblox.com/script/Car-Crushers-2-car-crusher-2-script-4598")
+addscriptexist(654732683, "CAR CRUSHERS 2 BEST AUTOFARM", "Uploaded by AaronS on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CAR%20CRUSHERS%202%20BEST%20AUTOFARM555.lua", "https://rscripts.net/script/car-crushers-2-best-autofarm-3806")
+                                

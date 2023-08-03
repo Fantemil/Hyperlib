@@ -40,3 +40,7 @@ addscript(8737602449, "Current Game","Robux Autofarm", "Uploaded by Ulti on scri
                                 
 addscriptexist(8737602449, "AniMoonFors  AutoBypass Adonis Pls Donate AntiCheat", "Uploaded by Anonymous on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AniMoonFors%20%20AutoBypass%20Adonis%20Pls%20Donate%20AntiCheat896.lua", "https://rscripts.net/script/ani-moon-fors-auto-bypass-adonis-pls-donate-anti-cheat-4110")
                                 
+addscriptexist(8737602449, "PLS DONATE Binary Hub", "Uploaded by BinaryHubOfficial on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PLS%20DONATE%20Binary%20Hub350.lua", "https://rscripts.net/script/pls-donate-binary-hub-3171")
+                                
+addscriptexist(8737602449, "UNPATCHED Pls Donate Autofarm", "Uploaded by szze on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/UNPATCHED%20Pls%20Donate%20Autofarm55.lua", "https://rscripts.net/script/unpatched-pls-donate-autofarm-4106")
+                                
